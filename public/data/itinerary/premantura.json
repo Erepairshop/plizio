@@ -36,7 +36,8 @@
             "de": "Besuchen Sie den kleinen Turm nebenan für lokale Infos.",
             "hu": "Nézze meg a mellette lévő kis tornyot helyi infókért.",
             "ro": "Vizitați turnul mic de alături pentru informații locale.",
-            "en": "Check the small tower nearby for local tourist info."
+            "en": "Check the small tower nearby for local tourist info.",
+            "hr": "Provjerite mali toranj u blizini za lokalne turističke informacije."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bester Blick auf den Medulin-Archipel.",
             "hu": "A legjobb kilátás a Medulin-szigetvilágra.",
             "ro": "Cea mai bună vedere asupra arhipelagului Medulin.",
-            "en": "Best view over the Medulin archipelago."
+            "en": "Best view over the Medulin archipelago.",
+            "hr": "Najbolji pogled na medulinski arhipelag."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Klares Wasser und Schatten unter Pinien.",
             "hu": "Kristálytiszta víz és árnyék a fenyők alatt.",
             "ro": "Apă limpede și umbră sub pini.",
-            "en": "Crystal clear water and shade under pine trees."
+            "en": "Crystal clear water and shade under pine trees.",
+            "hr": "Kristalno čisto more i hlad pod borovima."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Echte Fußabdrücke auf den flachen Felsen.",
             "hu": "Valódi lábnyomok a lapos sziklákon.",
             "ro": "Urme reale pe stâncile plate.",
-            "en": "Real footprints preserved on the flat rocks."
+            "en": "Real footprints preserved on the flat rocks.",
+            "hr": "Pravi otisci stopala sačuvani na ravnim stijenama."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Probieren Sie frische Calamari oder Trüffelpasta.",
             "hu": "Kóstolja meg a friss kalamárit vagy szarvasgombás tésztát.",
             "ro": "Încercați calamar proaspăt sau paste cu trufe.",
-            "en": "Try fresh calamari or truffle pasta."
+            "en": "Try fresh calamari or truffle pasta.",
+            "hr": "Probajte svježe lignje ili tjesteninu s tartufima."
           }
         }
       ],
@@ -136,7 +141,8 @@
         "de": "Morgens erkunden Sie den friedlichen Dorfkern und die St. Laurentius Kirche. Ein kurzer Aufstieg führt zum Gornji Kamenjak, wo das azurblaue Meer in alle Richtungen glänzt. Mittags entspannen Sie in der schattigen Pinizule-Bucht beim Schwimmen. Der Nachmittag gehört der Urzeit auf dem Dinosaurierpfad direkt am Ufer. Den Tag lassen Sie gemütlich in einer der exzellenten Fischrestaurants im Dorf ausklingen.",
         "hu": "Reggel a falu csendes központját és a Szent Lőrinc-templomot fedezzük fel. Rövid túra vezet a Gornji Kamenjak kilátóhoz, ahonnan belátni az egész félszigetet. Délben a Pinizule-öböl hűs fenyvesei alatt pihenhetünk. Délután a tengerparti sziklákba zárt valódi dinoszaurusz-lábnyomokat keressük meg. Az estét egy hangulatos helyi konobában, friss tengeri ételek mellett zárjuk a falu főutcáján.",
         "ro": "Dimineața explorezi centrul liniștit și biserica Sf. Laurențiu. O scurtă drumeție te duce la Gornji Kamenjak pentru o panoramă superbă. La prânz, te relaxezi în golful Pinizule, înotând în apele turcoaz. După-amiaza este dedicată urmelor de dinozaur de pe coasta stâncoasă. Seara se încheie perfect la o tavernă locală din sat, savurând specialități istriene și fructe de mare proaspete.",
-        "en": "Start your morning in the village center visiting the St. Lawrence Church. A hike leads you to the Gornji Kamenjak viewpoint for stunning views of the Adriatic. Spend your midday swimming in the shaded Pinizule Bay. In the afternoon, walk along the coast to find genuine dinosaur footprints on the flat rocks. Finish your walk with a delicious dinner in one of the traditional Istrian konobas in the village."
+        "en": "Start your morning in the village center visiting the St. Lawrence Church. A hike leads you to the Gornji Kamenjak viewpoint for stunning views of the Adriatic. Spend your midday swimming in the shaded Pinizule Bay. In the afternoon, walk along the coast to find genuine dinosaur footprints on the flat rocks. Finish your walk with a delicious dinner in one of the traditional Istrian konobas in the village.",
+        "hr": "Započnite jutro u središtu mjesta posjetom crkvi sv. Lovre. Uspon vas vodi do vidikovca Gornji Kamenjak s kojeg se pruža zadivljujući pogled na Jadran. Sredinu dana provedite plivajući u sjenovitoj uvali Pinizule. Poslijepodne prošećite obalom kako biste pronašli prave tragove dinosaura na ravnim stijenama. Šetnju završite ukusnom večerom u jednoj od tradicionalnih istarskih konoba u selu."
       },
       "gastro_picks": {
         "de": [
@@ -177,6 +183,16 @@
           {
             "name": "Fritule",
             "tip": "Local sweet doughnut balls at street stalls."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Castrum",
+            "tip": "Izvrsne plate s plodovima mora i lokalna vina."
+          },
+          {
+            "name": "Fritule",
+            "tip": "Lokalne slatke krafne na uličnim štandovima."
           }
         ]
       },
@@ -228,6 +244,18 @@
             "tip": "Quiet spot with bay views.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Borova šuma Pinizule",
+            "tip": "Savršeno mjesto za podnevnu siestu.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Gornji Kamenjak",
+            "tip": "Mirno mjesto s pogledom na zaljev.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -253,6 +281,12 @@
           {
             "name": "Local Honey",
             "tip": "Sage honey from Kamenjak."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni med",
+            "tip": "Med od kadulje s Kamenjaka."
           }
         ]
       },
@@ -280,6 +314,12 @@
           "Bring plenty of water, as shops are only in the village.",
           "Pedestrian entry to the nature park is free of charge.",
           "Start early to avoid the midday sun."
+        ],
+        "hr": [
+          "Nosite čvrstu obuću za kamenite obalne staze.",
+          "Ponesite dovoljno vode jer se trgovine nalaze samo u selu.",
+          "Pješački ulaz u park prirode je besplatan.",
+          "Krenite rano kako biste izbjegli podnevno sunce."
         ]
       },
       "variants": {
@@ -512,7 +552,8 @@
             "de": "Beginnen Sie den Tag in der geschützten Kühle der Lorenzkirche, während der Regen gegen die Fenster trommelt. Ein friedlicher Ort, um die Route zu planen.\n\nDer Weg zum Gornji Kamenjak ist bei Regen mystisch, aber Vorsicht vor rutschigen Steinen. Die Aussicht auf die graue Adria ist dramatisch und kraftvoll.\n\nIn der Pinizule-Bucht erleben Sie die rohe Natur, wenn die Wellen auf die Felsen schlagen. Der Dinosaurierpfad ist schlammig, wirkt aber wie aus einer anderen Zeit.\n\nWärmen Sie sich am Abend in einer lokalen Konoba auf. Der Duft von Trüffeln und das Prasseln des Kamins lassen die Nässe draußen schnell vergessen.",
             "hu": "Kezdje a napot a Szent Lőrinc-templom védelmező falai között, miközben az eső kopog a tetőn. Ez a nyugodt pont tökéletes az útvonal áttekintéséhez.\n\nA Gornji Kamenjak felé vezető út esőben misztikus, de a köves ösvények csúszósak lehetnek. A kilátás a szürke Adriára ilyenkor is drámai és lenyűgöző.\n\nA Pinizule-öbölben a természet ereje mutatkozik meg, ahogy a hullámok a szikláknak csapódnak. A Dinoszaurusz-ösvény saras, de az időtlen hangulat kárpótol.\n\nEste vonuljon be egy helyi konobába. A szarvasgombás tészta illata és a kandalló melege mellett hamar elfelejti a kinti borús, vizes időjárást.",
             "ro": "Începeți ziua sub protecția Bisericii Sfântul Laurențiu, ascultând ploaia care bate în ferestre. Este un loc liniștit pentru a vă pregăti spiritul de drum.\n\nDrumul spre Gornji Kamenjak devine mistic pe ploaie, deși potecile pot fi alunecoase. Vederea spre marea agitată este de o frumusețe dramatică.\n\nÎn golful Pinizule, simțiți forța naturii în timp ce valurile se sparg de mal. Traseul dinozaurilor este noroios, dar oferă o experiență sălbatică autentică.\n\nSeara, refugiați-vă într-o tavernă locală. Aroma pastelor cu trufe și căldura focului vă vor face să uitați rapid de umezeala de afară.",
-            "en": "Start your day within the sheltered walls of St. Lawrence Church as rain taps against the roof. It is a peaceful spot to contemplate your journey.\n\nThe walk to Gornji Kamenjak is mystical in the rain, though the rocky paths require steady footing. The view of the gray Adriatic is dramatic and powerful.\n\nAt Pinizule Bay, witness the raw force of nature as waves crash against the limestone. The Dinosaur Path is muddy but feels like a trip back in time.\n\nWarm up in the evening at a local konoba. The scent of truffles and the cozy interior provide the perfect refuge from the damp weather outside."
+            "en": "Start your day within the sheltered walls of St. Lawrence Church as rain taps against the roof. It is a peaceful spot to contemplate your journey.\n\nThe walk to Gornji Kamenjak is mystical in the rain, though the rocky paths require steady footing. The view of the gray Adriatic is dramatic and powerful.\n\nAt Pinizule Bay, witness the raw force of nature as waves crash against the limestone. The Dinosaur Path is muddy but feels like a trip back in time.\n\nWarm up in the evening at a local konoba. The scent of truffles and the cozy interior provide the perfect refuge from the damp weather outside.",
+            "hr": "Započnite dan unutar zaštićenih zidova crkve sv. Lovre dok kiša lupka po krovu. To je mirno mjesto za razmišljanje o vašem putovanju.\n\nŠetnja do Gornjeg Kamenjaka je mistična na kiši, iako kamenite staze zahtijevaju stabilan korak. Pogled na sivi Jadran je dramatičan i moćan.\n\nU uvali Pinizule svjedočite sirovoj snazi prirode dok se valovi razbijaju o vapnenac. Staza dinosaura je blatnjava, ali pruža osjećaj putovanja kroz vrijeme.\n\nZagrijte se navečer u lokalnoj konobi. Miris tartufa i ugodan interijer pružaju savršeno utočište od vlažnog vremena vani."
           },
           "stops": [
             {
@@ -521,7 +562,8 @@
                 "de": "Idealer Ort, um den ersten Regenschauer trocken abzuwarten.",
                 "hu": "Ideális helyszín az első eső zápor szárazon történő megvárásához.",
                 "ro": "Locul ideal pentru a aștepta trecerea primei averse la adăpost.",
-                "en": "Ideal spot to wait out the first rain shower in a dry environment."
+                "en": "Ideal spot to wait out the first rain shower in a dry environment.",
+                "hr": "Idealno mjesto za čekanje da prođe prvi pljusak u suhom okruženju."
               }
             },
             {
@@ -530,7 +572,8 @@
                 "de": "Vorsicht auf den weißen Kalksteinen, sie werden bei Nässe extrem glatt.",
                 "hu": "Vigyázat a fehér mészköveken, nedvesen rendkívül csúszóssá válnak.",
                 "ro": "Atenție pe stâncile de calcar; devin extrem de alunecoase când sunt ude.",
-                "en": "Be careful on the white limestone; it becomes extremely slippery when wet."
+                "en": "Be careful on the white limestone; it becomes extremely slippery when wet.",
+                "hr": "Budite oprezni na bijelom vapnencu; postaje izuzetno klizav kad je mokar."
               }
             },
             {
@@ -539,7 +582,8 @@
                 "de": "Nutzen Sie die überdachten Bereiche der Strandbar für eine kurze Rast.",
                 "hu": "Használja ki a strandbár fedett részeit egy rövid pihenőre.",
                 "ro": "Folosiți zonele acoperite ale barului de pe plajă pentru un scurt popas.",
-                "en": "Take advantage of the beach bar's covered areas for a short break."
+                "en": "Take advantage of the beach bar's covered areas for a short break.",
+                "hr": "Iskoristite natkrivene dijelove beach bara za kratki odmor."
               }
             },
             {
@@ -548,7 +592,8 @@
                 "de": "Feste, wasserdichte Wanderschuhe sind für den schlammigen Pfad ein Muss.",
                 "hu": "A saras ösvényen elengedhetetlen a masszív, vízálló túrabakancs.",
                 "ro": "Bocancii impermeabili sunt obligatorii pentru poteca noroioasă.",
-                "en": "Sturdy, waterproof hiking boots are a must for the muddy path."
+                "en": "Sturdy, waterproof hiking boots are a must for the muddy path.",
+                "hr": "Čvrste, vodootporne planinarske cipele su obavezne za blatnjavu stazu."
               }
             },
             {
@@ -557,7 +602,8 @@
                 "de": "Fragen Sie nach einem Tisch in der Nähe des Kamins zum Aufwärmen.",
                 "hu": "Kérjen asztalt a kandalló közelében a gyors felmelegedéshez.",
                 "ro": "Cereți o masă lângă șemineu pentru a vă încălzi rapid.",
-                "en": "Ask for a table near the fireplace to warm up quickly."
+                "en": "Ask for a table near the fireplace to warm up quickly.",
+                "hr": "Zatražite stol blizu kamina kako biste se brzo zagrijali."
               }
             }
           ],
@@ -585,6 +631,12 @@
               "Check the Bora wind forecast; walking near cliffs is dangerous during storms.",
               "Carry a thermos with warm tea for your breaks along the way.",
               "An umbrella is less effective than a rain poncho due to frequent strong winds."
+            ],
+            "hr": [
+              "Nosite kvalitetnu kišnu opremu jer vjetar na rtu može biti vrlo jak.",
+              "Provjerite prognozu za buru; hodanje blizu litica opasno je tijekom oluja.",
+              "Ponesite termosicu s toplim čajem za odmore putem.",
+              "Kišobran je manje učinkovit od kabanice zbog čestih jakih vjetrova."
             ]
           }
         },
@@ -593,7 +645,8 @@
             "de": "Die kalte Winterluft an der Lorenzkirche ist erfrischend klar. Es ist die ruhigste Zeit des Jahres, perfekt für besinnliche Momente.\n\nAm Gornji Kamenjak ist die Fernsicht im Winter fantastisch. Bei der trockenen Luft scheinen die Kvarner-Inseln zum Greifen nah.\n\nDie Pinizule-Bucht gehört Ihnen im Winter fast allein. Das tiefblaue, kalte Wasser glitzert in der tiefstehenden Sonne am Dinosaurierpfad.\n\nWenn die Dämmerung früh einsetzt, lockt die Wärme der Dorf-Konoba. Ein kräftiger Eintopf ist der ideale Abschluss für diesen frostigen Tag.",
             "hu": "A hideg téli levegő a Szent Lőrinc-templomnál frissítően tiszta. Ez az év legcsöndesebb időszaka, tökéletes az elmélyüléshez.\n\nA Gornji Kamenjak kilátópontnál a téli látótávolság fantasztikus. A száraz levegőben a Kvarner-szigetek szinte karnyújtásnyira tűnnek.\n\nA Pinizule-öböl télen szinte csak az Öné. A mélykék, hideg víz csillog az alacsonyan járó napfényben a Dinoszaurusz-ösvény mentén.\n\nMivel korán sötétedik, a falu konobájának melege hamar hívogatni kezdi. Egy sűrű egytálétel tökéletes zárása a fagyos napnak.",
             "ro": "Aerul rece de iarnă de la Biserica Sfântul Laurențiu este revigorant. Este cea mai liniștită perioadă a anului, ideală pentru reflecție.\n\nLa punctul de belvedere Gornji Kamenjak, vizibilitatea este fantastică iarna. Insulele Kvarner par extrem de aproape în aerul uscat.\n\nGolful Pinizule vă aparține aproape în întregime iarna. Apa rece, de un albastru profund, sclipește sub soarele palid de pe traseul dinozaurilor.\n\nCum amurgul vine devreme, căldura tavernei din sat devine irezistibilă. O tocană consistentă este finalul ideal pentru o zi geroasă.",
-            "en": "The crisp winter air at St. Lawrence Church is refreshingly clear. This is the quietest time of year, perfect for a moment of reflection.\n\nAt the Gornji Kamenjak viewpoint, winter visibility is fantastic. In the dry air, the Kvarner islands seem close enough to touch.\n\nPinizule Bay is almost entirely yours in winter. The deep blue, cold water glitters under the low sun along the Dinosaur Path.\n\nAs dusk falls early, the warmth of a village konoba beckons. A hearty stew is the ideal conclusion to this frosty winter day."
+            "en": "The crisp winter air at St. Lawrence Church is refreshingly clear. This is the quietest time of year, perfect for a moment of reflection.\n\nAt the Gornji Kamenjak viewpoint, winter visibility is fantastic. In the dry air, the Kvarner islands seem close enough to touch.\n\nPinizule Bay is almost entirely yours in winter. The deep blue, cold water glitters under the low sun along the Dinosaur Path.\n\nAs dusk falls early, the warmth of a village konoba beckons. A hearty stew is the ideal conclusion to this frosty winter day.",
+            "hr": "Oštar zimski zrak kod crkve sv. Lovre osvježavajuće je čist. Ovo je najmirnije doba godine, savršeno za trenutak razmišljanja.\n\nNa vidikovcu Gornji Kamenjak zimska vidljivost je fantastična. Na suhom zraku kvarnerski otoci izgledaju dovoljno blizu da ih dotaknete.\n\nUvala Pinizule zimi je gotovo samo vaša. Duboko plavo, hladno more svjetluca pod niskim suncem duž Staze dinosaura.\n\nKako se sumrak rano spušta, toplina seoske konobe vas mami. Obilno varivo idealan je završetak ovog mraznog zimskog dana."
           },
           "stops": [
             {
@@ -602,7 +655,8 @@
                 "de": "Genießen Sie die Stille im Inneren, weit weg vom Sommertrubel.",
                 "hu": "Élvezze a belső csendet, messze a nyári nyüzsgéstől.",
                 "ro": "Bucurați-vă de liniștea din interior, departe de agitația verii.",
-                "en": "Enjoy the silence inside, far from the summer crowds."
+                "en": "Enjoy the silence inside, far from the summer crowds.",
+                "hr": "Uživajte u tišini unutra, daleko od ljetnih gužvi."
               }
             },
             {
@@ -611,7 +665,8 @@
                 "de": "Bringen Sie ein Fernglas mit, die Fernsicht ist im Winter am besten.",
                 "hu": "Hozzon távcsövet, a látótávolság télen a legjobb.",
                 "ro": "Aduceți un binoclu; vizibilitatea la distanță este optimă iarna.",
-                "en": "Bring binoculars; long-distance visibility is at its best in winter."
+                "en": "Bring binoculars; long-distance visibility is at its best in winter.",
+                "hr": "Ponesite dalekozor; vidljivost na velike udaljenosti najbolja je zimi."
               }
             },
             {
@@ -620,7 +675,8 @@
                 "de": "Tragen Sie Windstopper-Kleidung, der Seewind ist im Winter schneidend.",
                 "hu": "Viseljen szélálló ruhát, a tengeri szél télen metsző lehet.",
                 "ro": "Purtați haine rezistente la vânt; briza mării este tăioasă iarna.",
-                "en": "Wear windbreaker clothing; the sea breeze is biting in winter."
+                "en": "Wear windbreaker clothing; the sea breeze is biting in winter.",
+                "hr": "Nosite odjeću koja štiti od vjetra; morski povjetarac je zimi ugrizan."
               }
             },
             {
@@ -629,7 +685,8 @@
                 "de": "Besuchen Sie den Pfad gegen 15:00 Uhr für das beste warme Fotolicht.",
                 "hu": "Látogasson el ide 15:00 körül a legjobb meleg fényekért.",
                 "ro": "Vizitați traseul în jur de ora 15:00 pentru cea mai bună lumină.",
-                "en": "Visit the path around 3:00 PM for the best warm photographic light."
+                "en": "Visit the path around 3:00 PM for the best warm photographic light.",
+                "hr": "Posjetite stazu oko 15:00 za najbolje toplo fotografsko svjetlo."
               }
             },
             {
@@ -638,7 +695,8 @@
                 "de": "Probieren Sie saisonale Gerichte wie Maneštra (istrischer Eintopf).",
                 "hu": "Kóstolja meg a szezonális ételeket, például a Maneštrát.",
                 "ro": "Gustați preparatele de sezon, cum ar fi Maneštra (tocană istriană).",
-                "en": "Try seasonal dishes like Maneštra (traditional Istrian stew)."
+                "en": "Try seasonal dishes like Maneštra (traditional Istrian stew).",
+                "hr": "Probajte sezonska jela poput maneštre (tradicionalno istarsko varivo)."
               }
             }
           ],
@@ -666,6 +724,12 @@
               "Many beach bars are closed in winter; bring your own snacks.",
               "Dress in layers to protect yourself from the biting cold wind.",
               "Paths are usually dry, but the ground can be frozen and hard."
+            ],
+            "hr": [
+              "Sunce zalazi oko 16:30, pa u skladu s tim planirajte povratak.",
+              "Mnogi barovi na plaži su zatvoreni zimi; ponesite vlastite grickalice.",
+              "Odjenite se slojevito kako biste se zaštitili od oštrog hladnog vjetra.",
+              "Staze su obično suhe, ali tlo može biti smrznuto i tvrdo."
             ]
           }
         }
@@ -699,7 +763,8 @@
             "de": "Stellen Sie das Rad am Pfadeingang ab.",
             "hu": "Hagyja a biciklit az ösvény bejáratánál.",
             "ro": "Lăsați bicicleta la intrarea pe traseu.",
-            "en": "Park your bike at the path entrance."
+            "en": "Park your bike at the path entrance.",
+            "hr": "Parkirajte bicikl na ulazu u stazu."
           }
         },
         {
@@ -722,7 +787,8 @@
             "de": "Klippenspringen für Mutige.",
             "hu": "Sziklaugrás a bátraknak.",
             "ro": "Sărituri de pe stânci pentru cei curajoși.",
-            "en": "Cliff jumping for the brave ones."
+            "en": "Cliff jumping for the brave ones.",
+            "hr": "Skakanje s litica za one hrabre."
           }
         },
         {
@@ -745,7 +811,8 @@
             "de": "Einzigartige Bar im Bambus-Dschungel.",
             "hu": "Egyedülálló bár a bambuszdzsungelben.",
             "ro": "Bar unic în jungla de bambus.",
-            "en": "Unique bar hidden in bamboo jungle."
+            "en": "Unique bar hidden in bamboo jungle.",
+            "hr": "Jedinstveni bar skriven u džungli bambusa."
           }
         },
         {
@@ -768,7 +835,8 @@
             "de": "Man sieht die Insel der Dinosaurierspuren.",
             "hu": "Látható a dinó-lábnyomos lakatlan sziget.",
             "ro": "Se vede insula cu urme de dinozauri.",
-            "en": "View of the island with dinosaur tracks."
+            "en": "View of the island with dinosaur tracks.",
+            "hr": "Pogled na otok s tragovima dinosaura."
           }
         },
         {
@@ -791,7 +859,8 @@
             "de": "Perfekt für ein erfrischendes Bad nach der Tour.",
             "hu": "Tökéletes frissítő csobbanás a túra után.",
             "ro": "Perfect pentru o baie revigorantă după tur.",
-            "en": "Perfect for a refreshing dip after the ride."
+            "en": "Perfect for a refreshing dip after the ride.",
+            "hr": "Savršeno za osvježavajuće kupanje nakon vožnje."
           }
         },
         {
@@ -814,7 +883,8 @@
             "de": "Geben Sie das Leihrad zurück und genießen Sie ein Eis.",
             "hu": "Adja le a bérbringát és egyen egy fagyit.",
             "ro": "Returnați bicicleta și savurați o înghețată.",
-            "en": "Return your rental bike and enjoy an ice cream."
+            "en": "Return your rental bike and enjoy an ice cream.",
+            "hr": "Vratite unajmljeni bicikl i uživajte u sladoledu."
           }
         }
       ],
@@ -822,7 +892,8 @@
         "de": "Auf zwei Rädern erkunden Sie das weitläufige Kap Kamenjak am effizientesten. Zuerst geht es zum Dinosaurierpfad, gefolgt von der wilden Südspitze des Kaps. Hier laden Klippen zum Springen und die legendäre Safari Bar zum Entspannen ein. Auf dem Rückweg genießen Sie den Blick auf die Insel Fenoliga und den Leuchtturm Porer. Ein langer Badestopp in der Pinizule-Bucht kühlt Sie ab, bevor es zurück ins Dorf geht.",
         "hu": "Két keréken a legkönnyebb felfedezni a Kamenjak-félsziget vadregényes tájait. Elsőként a dinoszauruszok nyomába eredünk, majd kitekerünk a legdélebbi pontig. Itt a bátor sziklaúszók látványa és a kultikus Safari Bár dzsungel-hangulata vár. Visszafelé megcsodáljuk Fenoliga szigetét, majd a Pinizule-öbölben pihenjük ki a tekerés fáradalmait. A napot a falu központjában zárjuk egy jól megérdemelt fagyival.",
         "ro": "Pe două roți explorezi cel mai eficient capul Kamenjak. Prima oprire este la urmele de dinozauri, apoi pedalezi până în cel mai sudic punct al peninsulei. Aici te așteaptă săriturile de pe stânci și atmosfera legendară de la Safari Bar. La întoarcere, admiri insula Fenoliga și farul Porer în depărtare. O oprire lungă pentru baie în golful Pinizule te va răcori înainte de a returna bicicleta în sat.",
-        "en": "Cycling is the best way to see the vast expanse of Cape Kamenjak. Start with the dinosaur path before heading to the very southern tip of the peninsula. Watch the cliff jumpers and relax in the famous Safari Bar, hidden in the reeds. On your way back, enjoy the coastal views and take a long swimming break at Pinizule Bay. End your adventure back in the village center with a refreshing treat."
+        "en": "Cycling is the best way to see the vast expanse of Cape Kamenjak. Start with the dinosaur path before heading to the very southern tip of the peninsula. Watch the cliff jumpers and relax in the famous Safari Bar, hidden in the reeds. On your way back, enjoy the coastal views and take a long swimming break at Pinizule Bay. End your adventure back in the village center with a refreshing treat.",
+        "hr": "Biciklizam je najbolji način za razgledavanje prostranstva rta Kamenjak. Započnite sa stazom dinosaura prije nego što se uputite na sam južni vrh poluotoka. Gledajte skakače s litica i opustite se u poznatom Safari baru, skrivenom u trstici. Na povratku uživajte u pogledu na obalu i napravite dugu pauzu za kupanje u uvali Pinizule. Avanturu završite u centru sela uz osvježavajuću poslasticu."
       },
       "gastro_picks": {
         "de": [
@@ -863,6 +934,16 @@
           {
             "name": "Gelateria Al Mare",
             "tip": "Best ice cream in the village."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Safari Bar",
+            "tip": "Legendarna sangrija i gyros plate."
+          },
+          {
+            "name": "Gelateria Al Mare",
+            "tip": "Najbolji sladoled u selu."
           }
         ]
       },
@@ -914,6 +995,18 @@
             "tip": "Meditative view of the open sea.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Staze na istočnoj obali",
+            "tip": "Mirnije staze dalje od glavne prašnjave ceste.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Pogled na svjetionik Porer",
+            "tip": "Meditativan pogled na otvoreno more.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -939,6 +1032,12 @@
           {
             "name": "Bike Rental Premantura",
             "tip": "Sturdy mountain bikes for the terrain."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bike Rental Premantura",
+            "tip": "Čvrsti brdski bicikli za ovaj teren."
           }
         ]
       },
@@ -966,6 +1065,12 @@
           "A mountain bike is highly recommended over a road bike.",
           "Watch out for cars, as they kick up significant dust.",
           "Carry extra water and sun protection in summer."
+        ],
+        "hr": [
+          "Staze su vrlo prašnjave i šljunčane.",
+          "Brdski bicikl se toplo preporučuje umjesto cestovnog.",
+          "Pazite na automobile jer podižu veliku prašinu.",
+          "Ljeti ponesite dodatnu vodu i zaštitu od sunca."
         ]
       },
       "variants": {
@@ -1212,7 +1317,8 @@
             "de": "Starten Sie vorsichtig am Dinosaurierpfad; der Schlamm macht das Treten schwerer, aber die Natur wirkt lebendig.\n\nDie Fahrt zum Kap Kamenjak ist eine Herausforderung gegen Wind und Regen. Die Gischt des Meeres vermischt sich mit den Tropfen.\n\nDie Safari Bar bietet unter ihren Bambusdächern einen rustikalen Schutz. Ein warmer Drink hilft gegen die Kälte.\n\nNach einem Blick auf Fenoliga und die Pinizule-Bucht geht es zurück ins Dorf. Ein heißes Getränk im Zentrum ist nun die beste Belohnung.",
             "hu": "Induljon óvatosan a Dinoszaurusz-ösvényen; a sár nehezíti a tekerést, de a természet ilyenkor élettel telinek tűnik.\n\nA Kap Kamenjak felé vezető út küzdelem a széllel és az esővel. A tengerpermet keveredik az esőcseppekkel.\n\nA Safari Bar bambusztetői alatt rusztikus menedéket talál. Egy meleg ital segít elűzni a nyirkos hideget.\n\nA Fenoliga-kilátás és a Pinizule-öböl után irány vissza a falu. Egy forró ital a központban most a legjobb jutalom.",
             "ro": "Porniți cu atenție pe Traseul Dinozaurilor; noroiul îngreunează pedalarea, dar natura pare plină de viață.\n\nCălătoria spre Capul Kamenjak este o provocare împotriva vântului și ploii. Vaporii mării se amestecă cu picăturile de ploaie.\n\nSafari Bar oferă un adăpost rustic sub acoperișurile sale de bambus. O băutură caldă ajută împotriva frigului.\n\nDupă o privire spre Fenoliga și golful Pinizule, reveniți în sat. O băutură fierbinte în centru este cea mai bună recompensă.",
-            "en": "Start carefully on the Dinosaur Path; the mud makes pedaling harder, but nature feels incredibly alive.\n\nThe ride to Cape Kamenjak is a challenge against wind and rain. Sea spray mixes with the raindrops on your face.\n\nSafari Bar offers rustic shelter under its bamboo roofs. A warm drink here helps ward off the damp chill.\n\nAfter a glance at Fenoliga and Pinizule Bay, head back to the village. A hot beverage in the center is now your best reward."
+            "en": "Start carefully on the Dinosaur Path; the mud makes pedaling harder, but nature feels incredibly alive.\n\nThe ride to Cape Kamenjak is a challenge against wind and rain. Sea spray mixes with the raindrops on your face.\n\nSafari Bar offers rustic shelter under its bamboo roofs. A warm drink here helps ward off the damp chill.\n\nAfter a glance at Fenoliga and Pinizule Bay, head back to the village. A hot beverage in the center is now your best reward.",
+            "hr": "Započnite oprezno na Stazi dinosaura; blato otežava pedaliranje, ali priroda se osjeća nevjerojatno živom.\n\nVožnja do rta Kamenjak izazov je protiv vjetra i kiše. Morski sprej miješa se s kišnim kapima na vašem licu.\n\nSafari Bar nudi rustikalno sklonište pod svojim krovovima od bambusa. Topli napitak ovdje pomaže u tjeranju vlage i hladnoće.\n\nNakon pogleda na Fenoligu i uvalu Pinizule, vratite se u selo. Vrući napitak u centru sada je vaša najbolja nagrada."
           },
           "stops": [
             {
@@ -1221,7 +1327,8 @@
                 "de": "Fahren Sie langsam, die schlammigen Abschnitte können tückisch sein.",
                 "hu": "Tekerjen lassan, a saras szakaszok trükkösek lehetnek.",
                 "ro": "Pedalați încet; secțiunile noroioase pot fi înșelătoare.",
-                "en": "Ride slowly; the muddy sections can be treacherous."
+                "en": "Ride slowly; the muddy sections can be treacherous.",
+                "hr": "Vozite polako; blatnjavi dijelovi mogu biti opasni."
               }
             },
             {
@@ -1230,7 +1337,8 @@
                 "de": "Halten Sie Abstand zum Klippenrand, Windböen können stark sein.",
                 "hu": "Tartson távolságot a szikla szélétől, a széllökések erősek lehetnek.",
                 "ro": "Păstrați distanța de marginea falezei; rafalele pot fi puternice.",
-                "en": "Keep a safe distance from the cliff edge; wind gusts can be strong."
+                "en": "Keep a safe distance from the cliff edge; wind gusts can be strong.",
+                "hr": "Držite se na sigurnoj udaljenosti od ruba litice; udari vjetra mogu biti jaki."
               }
             },
             {
@@ -1239,7 +1347,8 @@
                 "de": "Suchen Sie Schutz in den tiefer gelegenen, überdachten Sitznischen.",
                 "hu": "Keressen menedéket a mélyebben fekvő, fedett ülőfülkékben.",
                 "ro": "Căutați adăpost în nișele cu locuri de șezut acoperite.",
-                "en": "Seek shelter in the lower-level, covered seating nooks."
+                "en": "Seek shelter in the lower-level, covered seating nooks.",
+                "hr": "Potražite zaklon u nižim, natkrivenim kutcima za sjedenje."
               }
             },
             {
@@ -1248,7 +1357,8 @@
                 "de": "Kurzer Fotostopp, achten Sie darauf, dass Ihre Linse trocken bleibt.",
                 "hu": "Rövid fotómegálló, ügyeljen rá, hogy a lencse száraz maradjon.",
                 "ro": "Scurt popas foto; aveți grijă să păstrați lentila uscată.",
-                "en": "Short photo stop; make sure to keep your camera lens dry."
+                "en": "Short photo stop; make sure to keep your camera lens dry.",
+                "hr": "Kratko zaustavljanje za fotografiranje; pazite da leća fotoaparata ostane suha."
               }
             },
             {
@@ -1257,7 +1367,8 @@
                 "de": "Die Abfahrt zur Bucht ist steinig und bei Nässe sehr rutschig.",
                 "hu": "Az öbölhöz vezető lejtő köves és esőben nagyon csúszós.",
                 "ro": "Coborârea spre golf este pietroasă și foarte alunecoasă pe ploaie.",
-                "en": "The descent to the bay is stony and very slippery in the rain."
+                "en": "The descent to the bay is stony and very slippery in the rain.",
+                "hr": "Spust do uvale je kamenit i vrlo klizav na kiši."
               }
             },
             {
@@ -1266,7 +1377,8 @@
                 "de": "Nutzen Sie den Fahrradständer nahe dem Café für eine Pause.",
                 "hu": "Használja a kávézó melletti biciklitárolót egy pihenőhöz.",
                 "ro": "Folosiți suportul de biciclete de lângă cafenea pentru o pauză.",
-                "en": "Use the bike rack near the café for a well-deserved break."
+                "en": "Use the bike rack near the café for a well-deserved break.",
+                "hr": "Koristite stalak za bicikle pored kafića za zasluženi odmor."
               }
             }
           ],
@@ -1294,6 +1406,12 @@
               "Slightly reduce tire pressure for better grip on wet rocks.",
               "Wear waterproof eyewear to keep mud splatters out of your eyes.",
               "Clean the chain and gears from the limey mud after your ride."
+            ],
+            "hr": [
+              "Blatobrani su apsolutno neophodni na šljunčanim stazama kad pada kiša.",
+              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrim stijenama.",
+              "Nosite vodootporne naočale kako biste zaštitili oči od prskanja blata.",
+              "Nakon vožnje očistite lanac i zupčanike od vapnenačkog blata."
             ]
           }
         },
@@ -1302,7 +1420,8 @@
             "de": "Die frische Wintermorgenluft am Dinosaurierpfad macht sofort wach. Die Wege sind hart und gut befahrbar.\n\nZum Kap Kamenjak radeln Sie fast allein. Ohne Staub und Hitze ist die Fahrt körperlich angenehmer als im Sommer.\n\nDie Safari Bar ist im Winter oft im Winterschlaf, aber der Ort strahlt eine einzigartige Ruhe aus.\n\nVon Fenoliga bis Pinizule genießen Sie die klare Sicht. Beenden Sie die Tour im Dorfzentrum, bevor die Kälte nach Sonnenuntergang zunimmt.",
             "hu": "A friss téli reggeli levegő a Dinoszaurusz-ösvénynél azonnal felébreszti. Az utak kemények és jól járhatók.\n\nA Kap Kamenjak felé szinte egyedül tekerhet. Por és hőség nélkül az út fizikailag kellemesebb, mint nyáron.\n\nA Safari Bar télen gyakran téli álmot alszik, de a hely ilyenkor egyedi nyugalmat áraszt.\n\nFenoligától Pinizule-ig élvezze a tiszta kilátást. Fejezze be a túrát a faluközpontban, mielőtt a naplemente utáni hideg beköszönt.",
             "ro": "Aerul proaspăt de iarnă de pe Traseul Dinozaurilor vă trezește instant. Drumurile sunt tari și ușor de parcurs.\n\nPedalați aproape singur spre Capul Kamenjak. Fără praf și caniculă, drumul este mai plăcut fizic decât vara.\n\nSafari Bar este adesea închis iarna, dar locul emană o liniște unică și fascinantă.\n\nDe la Fenoliga la Pinizule, bucurați-vă de vizibilitatea clară. Încheiați tura în centrul satului înainte ca frigul să se intensifice.",
-            "en": "The fresh winter morning air at the Dinosaur Path wakes you up instantly. The paths are firm and easy to ride.\n\nCycle to Cape Kamenjak almost entirely on your own. Without dust or heat, the ride is physically more pleasant than in summer.\n\nSafari Bar is often in hibernation during winter, but the location radiates a unique and peaceful aura.\n\nEnjoy the clear views from Fenoliga to Pinizule. Finish your tour in the village center before the post-sunset chill sets in."
+            "en": "The fresh winter morning air at the Dinosaur Path wakes you up instantly. The paths are firm and easy to ride.\n\nCycle to Cape Kamenjak almost entirely on your own. Without dust or heat, the ride is physically more pleasant than in summer.\n\nSafari Bar is often in hibernation during winter, but the location radiates a unique and peaceful aura.\n\nEnjoy the clear views from Fenoliga to Pinizule. Finish your tour in the village center before the post-sunset chill sets in.",
+            "hr": "Svježi zimski jutarnji zrak na Stazi dinosaura trenutno vas budi. Staze su čvrste i lake za vožnju.\n\nOdvozite do rta Kamenjak gotovo potpuno sami. Bez prašine i vrućine, vožnja je fizički ugodnija nego ljeti.\n\nSafari Bar je zimi često u hibernaciji, ali lokacija zrači jedinstvenom i mirnom aurom.\n\nUživajte u bistrim vidicima od Fenolige do Pinizule. Završite turu u centru sela prije nego što nastupi hladnoća nakon zalaska sunca."
           },
           "stops": [
             {
@@ -1311,7 +1430,8 @@
                 "de": "Der Boden kann gefroren sein, achten Sie auf Unebenheiten.",
                 "hu": "A talaj fagyott lehet, ügyeljen az egyenetlenségekre.",
                 "ro": "Solul poate fi înghețat; atenție la denivelările dure.",
-                "en": "The ground might be frozen; watch out for hard bumps."
+                "en": "The ground might be frozen; watch out for hard bumps.",
+                "hr": "Tlo bi moglo biti smrznuto; pazite na tvrde neravnine."
               }
             },
             {
@@ -1320,7 +1440,8 @@
                 "de": "Tragen Sie Thermo-Handschuhe, der Fahrtwind am Kap ist eisig.",
                 "hu": "Viseljen hőtartó kesztyűt, a menetszél a fokon jeges.",
                 "ro": "Purtați mănuși termice; curentul de aer la cap este înghețat.",
-                "en": "Wear thermal gloves; the wind chill at the cape is icy."
+                "en": "Wear thermal gloves; the wind chill at the cape is icy.",
+                "hr": "Nosite termalne rukavice; vjetar na rtu je leden."
               }
             },
             {
@@ -1329,7 +1450,8 @@
                 "de": "Ein schöner Ort für eine Pause, auch wenn die Bewirtung geschlossen ist.",
                 "hu": "Szép hely egy pihenőre, még akkor is, ha a kiszolgálás szünetel.",
                 "ro": "Un loc frumos pentru o pauză, chiar dacă barul este închis.",
-                "en": "A beautiful spot for a break, even if the service is closed."
+                "en": "A beautiful spot for a break, even if the service is closed.",
+                "hr": "Prekrasno mjesto za odmor, čak i ako je ugostiteljstvo zatvoreno."
               }
             },
             {
@@ -1338,7 +1460,8 @@
                 "de": "Die klare Winterluft ermöglicht Fotos bis hinunter zum Leuchtturm.",
                 "hu": "A tiszta téli levegőben akár a világítótoronyig is elláthat.",
                 "ro": "Aerul clar de iarnă permite fotografii până la far.",
-                "en": "The clear winter air allows for photos all the way to the lighthouse."
+                "en": "The clear winter air allows for photos all the way to the lighthouse.",
+                "hr": "Čisti zimski zrak omogućuje fotografiranje sve do svjetionika."
               }
             },
             {
@@ -1347,7 +1470,8 @@
                 "de": "Kurze Rast in der Sonne, bevor es zurück in den Schatten geht.",
                 "hu": "Rövid pihenő a napon, mielőtt visszatérne az árnyékos részekre.",
                 "ro": "Scurt popas la soare înainte de a reveni la umbră.",
-                "en": "A brief rest in the sun before returning to the shaded areas."
+                "en": "A brief rest in the sun before returning to the shaded areas.",
+                "hr": "Kratki odmor na suncu prije povratka u sjenovita područja."
               }
             },
             {
@@ -1356,7 +1480,8 @@
                 "de": "Kehren Sie vor 16:30 Uhr zurück, da es danach schlagartig kalt wird.",
                 "hu": "Térjen vissza 16:30 előtt, mert utána hirtelen lehűl a levegő.",
                 "ro": "Reveniți înainte de 16:30, deoarece după aceea se face brusc frig.",
-                "en": "Return before 4:30 PM, as it gets cold very quickly after that."
+                "en": "Return before 4:30 PM, as it gets cold very quickly after that.",
+                "hr": "Vratite se prije 16:30 jer nakon toga vrlo brzo zahladi."
               }
             }
           ],
@@ -1384,6 +1509,12 @@
               "Check in advance if bike rentals are open during the winter season.",
               "Bring a portable charger; batteries drain faster in cold weather.",
               "The days are short, so start your tour by 10:00 AM at the latest."
+            ],
+            "hr": [
+              "Koristite zaštitnu odjeću protiv hladnog vjetra (windstoppere).",
+              "Unaprijed provjerite jesu li najmovi bicikala otvoreni tijekom zimske sezone.",
+              "Ponesite prijenosni punjač; baterije se brže prazne na hladnoći.",
+              "Dani su kratki, pa turu započnite najkasnije do 10:00 ujutro."
             ]
           }
         }
@@ -1417,7 +1548,8 @@
             "de": "Parken Sie direkt am Aussichtspunkt.",
             "hu": "Parkoljon közvetlenül a kilátónál.",
             "ro": "Parcați direct la punctul de belvedere.",
-            "en": "Park directly at the viewpoint."
+            "en": "Park directly at the viewpoint.",
+            "hr": "Parkirajte izravno na vidikovcu."
           }
         },
         {
@@ -1440,7 +1572,8 @@
             "de": "Großer Parkplatz unter Bäumen.",
             "hu": "Nagy parkoló a fák alatt.",
             "ro": "Parcare mare sub copaci.",
-            "en": "Large parking area under the trees."
+            "en": "Large parking area under the trees.",
+            "hr": "Veliko parkiralište ispod drveća."
           }
         },
         {
@@ -1463,7 +1596,8 @@
             "de": "Fahren Sie vorsichtig, die Straße ist uneben.",
             "hu": "Vezessen óvatosan, az út egyenetlen.",
             "ro": "Conduceți cu atenție, drumul este denivelat.",
-            "en": "Drive carefully, the road is bumpy."
+            "en": "Drive carefully, the road is bumpy.",
+            "hr": "Vozite oprezno, cesta je neravna."
           }
         },
         {
@@ -1486,7 +1620,8 @@
             "de": "Spektakulär bei Sonnenuntergang.",
             "hu": "Látványos naplementekor.",
             "ro": "Spectaculos la apus.",
-            "en": "Spectacular at sunset."
+            "en": "Spectacular at sunset.",
+            "hr": "Spektakularno u sumrak."
           }
         },
         {
@@ -1509,7 +1644,8 @@
             "de": "Frischfang des Tages wählen.",
             "hu": "Válassza a nap friss fogását.",
             "ro": "Alegeți captura proaspătă a zilei.",
-            "en": "Choose the fresh catch of the day."
+            "en": "Choose the fresh catch of the day.",
+            "hr": "Odaberite svježi ulov dana."
           }
         }
       ],
@@ -1517,7 +1653,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die entlegensten Buchten des Kaps. Der Tag beginnt mit dem Panorama vom Gornji Kamenjak, gefolgt von entspannten Stunden in der Pinizule-Bucht. Mittags fahren Sie ganz in den Süden zum Kap, wo die Safari Bar im Schatten wartet. Von der Küste aus haben Sie einen perfekten Blick auf den einsamen Leuchtturm Porer mitten im Meer. Zum Abschluss genießen Sie ein authentisches istrisches Abendessen im Dorf Premantura.",
         "hu": "Autóval kényelmesen bejárhatjuk a félsziget legtávolabbi pontjait is. A napot a Gornji Kamenjak panorámájával kezdjük, majd a Pinizule-öböl kristálytiszta vizében frissülünk fel. Délután a legdélebbi pontig hajtunk, a Safari Bár árnyékos rejtekébe. A partról megcsodáljuk a nyílt tengeren álló Porer világítótornyot, majd visszatérünk a faluba egy pazar tengeri vacsorára. A Kamenjak autóval egy igazi szafari-élmény.",
         "ro": "Cu mașina poți ajunge rapid la cele mai frumoase golfuri ale peninsulei. Începe ziua cu panorama de la Gornji Kamenjak, apoi relaxează-te în golful Pinizule. După-amiaza condu până în vârful sudic la Safari Bar, unde te poți ascunde de soare. De pe coasta stâncoasă vei vedea farul Porer singuratic în largul mării. Încheie ziua în satul Premantura, savurând o cină cu fructe de mare proaspăt pescuite.",
-        "en": "Driving allows you to easily explore multiple bays of the Kamenjak peninsula. Start with the heights of Gornji Kamenjak before cooling off at Pinizule Bay. In the afternoon, drive to the southern tip to experience the unique Safari Bar. From the cliffs, you can spot the lonely Porer lighthouse standing in the open sea. Return to Premantura village for an authentic Istrian dinner to conclude your dusty but beautiful adventure."
+        "en": "Driving allows you to easily explore multiple bays of the Kamenjak peninsula. Start with the heights of Gornji Kamenjak before cooling off at Pinizule Bay. In the afternoon, drive to the southern tip to experience the unique Safari Bar. From the cliffs, you can spot the lonely Porer lighthouse standing in the open sea. Return to Premantura village for an authentic Istrian dinner to conclude your dusty but beautiful adventure.",
+        "hr": "Vožnja vam omogućuje jednostavno istraživanje više uvala poluotoka Kamenjak. Započnite s visinama Gornjeg Kamenjaka prije rashlađivanja u uvali Pinizule. Poslijepodne se odvezite do južnog rta kako biste doživjeli jedinstveni Safari Bar. S litica možete uočiti osamljeni svjetionik Porer koji stoji na otvorenom moru. Vratite se u selo Premantura na autentičnu istarsku večeru za kraj vaše prašnjave, ali lijepe avanture."
       },
       "gastro_picks": {
         "de": [
@@ -1558,6 +1695,16 @@
           {
             "name": "Istrian Ham",
             "tip": "Pršut served with local olive oil."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Fra & Kat",
+            "tip": "Izvrsna jela s tartufima i plodovi mora."
+          },
+          {
+            "name": "Istarski pršut",
+            "tip": "Pršut poslužen s lokalnim maslinovim uljem."
           }
         ]
       },
@@ -1609,6 +1756,18 @@
             "tip": "Solitude at the edge of the sea.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Južne litice",
+            "tip": "Pronađite mir dalje od užurbanog barskog područja.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Vidikovac Porer",
+            "tip": "Samoća na rubu mora.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1634,6 +1793,12 @@
           {
             "name": "Local Olive Oil",
             "tip": "Direct sale from producers in the village."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno maslinovo ulje",
+            "tip": "Izravna prodaja od proizvođača u selu."
           }
         ]
       },
@@ -1661,6 +1826,12 @@
           "Roads are unpaved; your car will get very dusty.",
           "Parking lots at popular bays fill up quickly in summer.",
           "Drive slowly on gravel to avoid losing control."
+        ],
+        "hr": [
+          "Ulaz u park za automobile se naplaćuje.",
+          "Ceste su neasfaltirane; vaš će automobil postati vrlo prašnjav.",
+          "Parkirališta u popularnim uvalama ljeti se brzo popune.",
+          "Vozite polako po šljunku kako biste izbjegli gubitak kontrole."
         ]
       },
       "variants": {
@@ -1893,7 +2064,8 @@
             "de": "Genießen Sie den Komfort Ihres Autos während der Fahrt zum Gornji Kamenjak. Der Ausblick aus dem warmen Inneren auf das regnerische Meer ist herrlich.\n\nIn der Pinizule-Bucht parken Sie nah am Wasser. Ein kurzer Sprint zum Ufer lässt Sie die Meeresbrise spüren, bevor Sie wieder ins Trockene schlüpfen.\n\nAm Kap Kamenjak bietet die Safari Bar Schutz. Beobachten Sie die wilden Wellen bei einer Tasse Kaffee unter dem festen Dach.\n\nDer Blick auf den Leuchtturm Porer ist bei Regen besonders mystisch. Beenden Sie den Tag entspannt in einem Fischrestaurant im Dorf.",
             "hu": "Élvezze autója kényelmét a Gornji Kamenjak felé vezető úton. A meleg utastérből nézve az esős tenger látványa lenyűgöző.\n\nA Pinizule-öbölnél parkoljon közel a parthoz. Egy rövid vágta a vízig, hogy megérezze a tenger illatát, majd irány vissza a száraz autóba.\n\nA Kap Kamenjaknál a Safari Bar nyújt menedéket. Figyelje a vad hullámokat egy kávé mellett a stabil tető alatt.\n\nA Porer-világítótorony látványa esőben különösen misztikus. Zárja a napot kényelmesen a falu egyik haléttermében.",
             "ro": "Bucurați-vă de confortul mașinii în drum spre Gornji Kamenjak. Vederea spre marea ploioasă din interiorul cald este superbă.\n\nÎn golful Pinizule, parcați aproape de apă. O scurtă fugă până la țărm vă permite să simțiți briza înainte de a reveni la adăpost.\n\nLa Capul Kamenjak, Safari Bar oferă protecție. Observați valurile sălbatice la o cafea sub acoperișul solid.\n\nVederea spre farul Porer este deosebit de mistică pe ploaie. Încheiați ziua relaxat la un restaurant de pește din sat.",
-            "en": "Enjoy the comfort of your car during the drive to Gornji Kamenjak. The view of the rainy sea from the warm interior is wonderful.\n\nAt Pinizule Bay, park close to the water. A quick sprint to the shore lets you feel the sea breeze before slipping back into the dry car.\n\nAt Cape Kamenjak, Safari Bar provides shelter. Watch the wild waves over a cup of coffee under the sturdy roof.\n\nThe view of Porer Lighthouse is especially mystical in the rain. End your day in a relaxed manner at a seafood restaurant in the village."
+            "en": "Enjoy the comfort of your car during the drive to Gornji Kamenjak. The view of the rainy sea from the warm interior is wonderful.\n\nAt Pinizule Bay, park close to the water. A quick sprint to the shore lets you feel the sea breeze before slipping back into the dry car.\n\nAt Cape Kamenjak, Safari Bar provides shelter. Watch the wild waves over a cup of coffee under the sturdy roof.\n\nThe view of Porer Lighthouse is especially mystical in the rain. End your day in a relaxed manner at a seafood restaurant in the village.",
+            "hr": "Uživajte u udobnosti svog automobila tijekom vožnje do Gornjeg Kamenjaka. Pogled na kišno more iz toplog interijera je prekrasan.\n\nU uvali Pinizule parkirajte blizu mora. Kratki sprint do obale omogućuje vam da osjetite morski povjetarac prije nego što se vratite u suhi automobil.\n\nNa rtu Kamenjak, Safari Bar pruža zaklon. Promatrajte divlje valove uz šalicu kave ispod čvrstog krova.\n\nPogled na svjetionik Porer posebno je mističan na kiši. Dan završite opušteno u restoranu s plodovima mora u selu."
           },
           "stops": [
             {
@@ -1902,7 +2074,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto, die Sicht ist trotzdem gut.",
                 "hu": "Heves esőben maradjon az autóban, a kilátás így is jó.",
                 "ro": "Rămâneți în mașină pe ploaie torențială; vederea este totuși bună.",
-                "en": "Stay in the car during heavy rain; the view is still great."
+                "en": "Stay in the car during heavy rain; the view is still great.",
+                "hr": "Ostanite u automobilu tijekom jake kiše; pogled je i dalje sjajan."
               }
             },
             {
@@ -1911,7 +2084,8 @@
                 "de": "Parken Sie auf festem Untergrund, um nicht im Schlamm stecken zu bleiben.",
                 "hu": "Parkoljon szilárd talajon, hogy elkerülje az elakadást a sárban.",
                 "ro": "Parcați pe teren solid pentru a nu rămâne blocat în noroi.",
-                "en": "Park on firm ground to avoid getting stuck in the mud."
+                "en": "Park on firm ground to avoid getting stuck in the mud.",
+                "hr": "Parkirajte na čvrstom tlu kako biste izbjegli zaglavljivanje u blatu."
               }
             },
             {
@@ -1920,7 +2094,8 @@
                 "de": "Der Parkplatz am Kap kann bei Regen sehr pfützig sein.",
                 "hu": "A foknál lévő parkoló esőben nagyon tócsás lehet.",
                 "ro": "Parcarea de la cap poate avea multe bălți mari pe ploaie.",
-                "en": "The parking lot at the cape can be very puddled during rain."
+                "en": "The parking lot at the cape can be very puddled during rain.",
+                "hr": "Parkiralište na rtu može imati mnogo lokvi tijekom kiše."
               }
             },
             {
@@ -1929,7 +2104,8 @@
                 "de": "Nutzen Sie ein Fernglas direkt aus dem geöffneten Seitenfenster.",
                 "hu": "Használjon távcsövet közvetlenül a lehúzott ablakból.",
                 "ro": "Folosiți un binoclu direct de la fereastra deschisă a mașinii.",
-                "en": "Use binoculars directly from the open car window."
+                "en": "Use binoculars directly from the open car window.",
+                "hr": "Koristite dalekozor izravno kroz otvoreni prozor automobila."
               }
             },
             {
@@ -1938,7 +2114,8 @@
                 "de": "Nutzen Sie die Parkplätze direkt vor dem Restaurant.",
                 "hu": "Használja közvetlenül az étterem előtti parkolóhelyeket.",
                 "ro": "Folosiți locurile de parcare aflate direct în fața restaurantului.",
-                "en": "Use the parking spaces directly in front of the restaurant."
+                "en": "Use the parking spaces directly in front of the restaurant.",
+                "hr": "Koristite parkirna mjesta neposredno ispred restorana."
               }
             }
           ],
@@ -1966,6 +2143,12 @@
               "Watch out for deep potholes that might be hidden by rainwater.",
               "Keep windows slightly cracked to prevent them from fogging up.",
               "A towel in the car is handy for quickly drying off after short walks."
+            ],
+            "hr": [
+              "Vozite iznimno polako neasfaltiranim cestama unutar parka.",
+              "Pazite na duboke rupe koje bi mogle biti skrivene kišnicom.",
+              "Ostavite prozore malo otvorenima kako biste spriječili njihovo zamagljivanje.",
+              "Ručnik u automobilu dobro dođe za brzo sušenje nakon kratkih šetnji."
             ]
           }
         },
@@ -1974,7 +2157,8 @@
             "de": "Ein klarer Wintermorgen am Gornji Kamenjak. Die Heizung im Auto sorgt für Gemütlichkeit, während draußen der Frost glitzert.\n\nDie Pinizule-Bucht ist im Winter ein Ort der absoluten Stille. Perfekt für einen kurzen Spaziergang am leeren Strand.\n\nFahren Sie bis zum Kap Kamenjak. Die winterliche Einsamkeit an der Safari Bar hat einen ganz besonderen Reiz.\n\nDer Sonnenuntergang über dem Leuchtturm Porer ist im Winter besonders farbenprächtig. Ein warmes Abendessen im Dorf rundet den Tag ab.",
             "hu": "Tiszta téli reggel a Gornji Kamenjaknál. Az autó fűtése kellemes, miközben odakint csillog a zúzmara.\n\nA Pinizule-öböl télen az abszolút csend helyszíne. Tökéletes egy rövid sétához az üres tengerparton.\n\nHajtson ki egészen a Kap Kamenjakig. A téli magány a Safari Barnál különleges vonzerővel bír.\n\nA naplemente a Porer-világítótorony felett télen különösen színes. Egy meleg vacsora a faluban teszi teljessé a napot.",
             "ro": "O dimineață senină de iarnă la Gornji Kamenjak. Căldura din mașină e plăcută în timp ce afară sclipesc cristalele de gheață.\n\nGolful Pinizule este un loc de o liniște absolută iarna. Perfect pentru o scurtă plimbare pe plaja pustie.\n\nConduceți până la Capul Kamenjak. Singurătatea de iarnă de la Safari Bar are un farmec cu totul special.\n\nApusul peste farul Porer este deosebit de colorat iarna. O cină caldă în sat completează perfect ziua.",
-            "en": "A clear winter morning at Gornji Kamenjak. The car heater provides comfort while the frost glitters outside.\n\nPinizule Bay is a place of absolute silence in winter. It is perfect for a short walk on the deserted beach.\n\nDrive all the way to Cape Kamenjak. The winter solitude at Safari Bar has a very special and unique appeal.\n\nThe sunset over Porer Lighthouse is exceptionally colorful in winter. A warm dinner in the village rounds off the day perfectly."
+            "en": "A clear winter morning at Gornji Kamenjak. The car heater provides comfort while the frost glitters outside.\n\nPinizule Bay is a place of absolute silence in winter. It is perfect for a short walk on the deserted beach.\n\nDrive all the way to Cape Kamenjak. The winter solitude at Safari Bar has a very special and unique appeal.\n\nThe sunset over Porer Lighthouse is exceptionally colorful in winter. A warm dinner in the village rounds off the day perfectly.",
+            "hr": "Bistro zimsko jutro na Gornjem Kamenjaku. Grijanje u automobilu pruža udobnost dok vani svjetluca mraz.\n\nUvala Pinizule je mjesto apsolutne tišine zimi. Savršena je za kratku šetnju po pustoj plaži.\n\nOdvezite se skroz do rta Kamenjak. Zimska samoća u Safari Baru ima vrlo poseban i jedinstven šarm.\n\nZalazak sunca nad svjetionikom Porer iznimno je šaren zimi. Topla večera u selu savršeno zaokružuje dan."
           },
           "stops": [
             {
@@ -1983,7 +2167,8 @@
                 "de": "Genießen Sie den Panoramablick ohne die Sommerhitze.",
                 "hu": "Élvezze a panorámát a nyári hőség nélkül.",
                 "ro": "Bucurați-vă de panorama superbă fără canicula verii.",
-                "en": "Enjoy the panoramic view without the intense summer heat."
+                "en": "Enjoy the panoramic view without the intense summer heat.",
+                "hr": "Uživajte u panoramskom pogledu bez intenzivne ljetne vrućine."
               }
             },
             {
@@ -1992,7 +2177,8 @@
                 "de": "Parkplätze sind im Winter im Überfluss vorhanden.",
                 "hu": "Télen bőségesen állnak rendelkezésre parkolóhelyek.",
                 "ro": "Locurile de parcare sunt disponibile din abundență iarna.",
-                "en": "Parking spaces are available in abundance during the winter."
+                "en": "Parking spaces are available in abundance during the winter.",
+                "hr": "Parkirnih mjesta zimi ima u izobilju."
               }
             },
             {
@@ -2001,7 +2187,8 @@
                 "de": "Machen Sie Fotos vom verlassenen Kap – ein seltenes Motiv.",
                 "hu": "Készítsen fotókat az elhagyatott fokról – ritka látvány.",
                 "ro": "Faceți fotografii cu capul pustiu – un motiv fotografic rar.",
-                "en": "Take photos of the deserted cape – a rare and scenic subject."
+                "en": "Take photos of the deserted cape – a rare and scenic subject.",
+                "hr": "Fotografirajte pusti rt – rijedak i slikovit prizor."
               }
             },
             {
@@ -2010,7 +2197,8 @@
                 "de": "Die Sonne steht tief, ideal für stimmungsvolle Fotos.",
                 "hu": "A nap alacsonyan jár, ideális hangulatos fotókhoz.",
                 "ro": "Soarele este jos, ideal pentru fotografii pline de atmosferă.",
-                "en": "The sun is low, making it ideal for atmospheric photography."
+                "en": "The sun is low, making it ideal for atmospheric photography.",
+                "hr": "Sunce je nisko, što je idealno za atmosfersku fotografiju."
               }
             },
             {
@@ -2019,7 +2207,8 @@
                 "de": "Prüfen Sie, welche Restaurants im Winter geöffnet haben.",
                 "hu": "Ellenőrizze, mely éttermek tartanak nyitva télen.",
                 "ro": "Verificați care restaurante sunt deschise pe timpul iernii.",
-                "en": "Check which restaurants remain open during the winter months."
+                "en": "Check which restaurants remain open during the winter months.",
+                "hr": "Provjerite koji restorani ostaju otvoreni tijekom zimskih mjeseci."
               }
             }
           ],
@@ -2047,6 +2236,12 @@
               "The roads are dust-free in winter, making driving more pleasant.",
               "Bring a blanket if you plan to spend more time outdoors.",
               "Watch out for icy patches in shaded curves."
+            ],
+            "hr": [
+              "Ulaz automobilom u park zimi je često besplatan.",
+              "Ceste su zimi bez prašine, što vožnju čini ugodnijom.",
+              "Ponesite deku ako planirate provesti više vremena na otvorenom.",
+              "Pazite na zaleđene dijelove u zasjenjenim zavojima."
             ]
           }
         }
@@ -2080,7 +2275,8 @@
             "de": "Linie 28 ab Pula fährt hierher.",
             "hu": "A 28-as busz jár ide Pulából.",
             "ro": "Linia 28 din Pula oprește aici.",
-            "en": "Bus line 28 from Pula stops here."
+            "en": "Bus line 28 from Pula stops here.",
+            "hr": "Autobusna linija 28 iz Pule staje ovdje."
           }
         },
         {
@@ -2103,7 +2299,8 @@
             "de": "Das Herz des alten Dorfes.",
             "hu": "A régi falu szíve.",
             "ro": "Inima vechiului sat.",
-            "en": "The heart of the old village."
+            "en": "The heart of the old village.",
+            "hr": "Srce starog sela."
           }
         },
         {
@@ -2126,7 +2323,8 @@
             "de": "Die am einfachsten zu Fuß erreichbare Bucht.",
             "hu": "A gyalog legkönnyebben elérhető öböl.",
             "ro": "Cel mai accesibil golf pe jos.",
-            "en": "The most accessible bay by foot from the village."
+            "en": "The most accessible bay by foot from the village.",
+            "hr": "Najpristupačnija uvala pješice iz sela."
           }
         },
         {
@@ -2149,7 +2347,8 @@
             "de": "Abendessen vor der Rückfahrt mit dem Bus.",
             "hu": "Vacsora a busz visszaindulása előtt.",
             "ro": "Cină înainte de plecarea autobuzului.",
-            "en": "Dinner before heading back by bus."
+            "en": "Dinner before heading back by bus.",
+            "hr": "Večera prije povratka autobusom."
           }
         }
       ],
@@ -2157,7 +2356,8 @@
         "de": "Mit dem öffentlichen Bus erreichen Sie Premantura stressfrei von Pula aus. Vom Dorfzentrum spazieren Sie zur Kirche und dann weiter zum Eingang des Naturparks. Die Pinizule-Bucht ist die nächstgelegene und schönste Option für Fußgänger, die mit dem Transit anreisen. Nach einem langen Badetag kehren Sie ins Dorf zurück, um in einer Konoba zu speisen, bevor der Bus Sie am frühen Abend wieder zurückbringt.",
         "hu": "A pulai közösségi közlekedéssel könnyen elérhető Premantura. A buszmegállótól egy rövid sétával bejárható a faluközpont és a Szent Lőrinc-templom. Gyalogosan a Pinizule-öböl a legideálisabb választás a fürdésre, mivel ez van a legközelebb a faluhoz. A napot egy kellemes falusi vacsorával zárjuk, majd az utolsó buszok egyikével térünk vissza a szállásunkra, elkerülve a parkolási nehézségeket.",
         "ro": "Autobuzul public din Pula te lasă chiar la intrarea în sat. De aici poți vizita biserica istorică și centrul pitoresc pe jos. Golful Pinizule este cel mai apropiat punct de acces la mare pentru cei care nu au mașină, oferind ape cristaline. După câteva ore de plajă, te poți întoarce în centrul satului pentru o masă tradițională înainte de a lua autobuzul de seară înapoi spre oraș.",
-        "en": "Using public transit from Pula is a stress-free way to visit Premantura. From the bus stop, it's a short walk to the village church and the natural park entrance. Pinizule Bay is the best option for visitors on foot, offering a beautiful beach within walking distance of the village. Enjoy a relaxing day of swimming and a nice dinner in the village before catching the bus back to your starting point."
+        "en": "Using public transit from Pula is a stress-free way to visit Premantura. From the bus stop, it's a short walk to the village church and the natural park entrance. Pinizule Bay is the best option for visitors on foot, offering a beautiful beach within walking distance of the village. Enjoy a relaxing day of swimming and a nice dinner in the village before catching the bus back to your starting point.",
+        "hr": "Korištenje javnog prijevoza iz Pule je način posjeta Premanturi bez stresa. Od autobusne stanice kratka je šetnja do seoske crkve i ulaza u park prirode. Uvala Pinizule je najbolja opcija za posjetitelje pješice, nudeći lijepu plažu na pješačkoj udaljenosti od sela. Uživajte u opuštajućem danu kupanja i lijepoj večeri u selu prije nego što uhvatite autobus natrag do polazišta."
       },
       "gastro_picks": {
         "de": [
@@ -2182,6 +2382,12 @@
           {
             "name": "Stellina Restaurant",
             "tip": "Good pizza and pasta near the bus stop."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Stellina",
+            "tip": "Dobra pizza i tjestenina u blizini autobusne stanice."
           }
         ]
       },
@@ -2213,6 +2419,13 @@
             "tip": "Very peaceful in the early morning.",
             "emoji": "⛪"
           }
+        ],
+        "hr": [
+          {
+            "name": "Trg ispred crkve",
+            "tip": "Vrlo mirno rano ujutro.",
+            "emoji": "⛪"
+          }
         ]
       },
       "shopping_picks": {
@@ -2238,6 +2451,12 @@
           {
             "name": "Souvenir Shop",
             "tip": "Local Istrian lavender products."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Suvenirnica",
+            "tip": "Lokalni proizvodi od istarske lavande."
           }
         ]
       },
@@ -2265,6 +2484,12 @@
           "Buses can get very crowded during peak summer season.",
           "It's a 20-30 minute walk from the village to the nearest beach.",
           "Buying tickets via the mobile app is usually easier."
+        ],
+        "hr": [
+          "Uvijek provjerite najnoviji vozni red za autobusnu liniju 28.",
+          "Autobusi mogu biti vrlo puni tijekom vrhunca ljetne sezone.",
+          "Od sela do najbliže plaže ima 20-30 minuta hoda.",
+          "Kupnja karata putem mobilne aplikacije obično je jednostavnija."
         ]
       },
       "variants": {
@@ -2447,7 +2672,8 @@
             "de": "Kommen Sie entspannt an der Bushaltestelle an. Das Dorfzentrum bietet sofort Schutz in den umliegenden Geschäften.\n\nBesuchen Sie die Lorenzkirche; sie ist der perfekte Ort, um einen Regenguss trocken und in Ruhe zu überstehen.\n\nEin Ausflug zur Pinizule-Bucht erfordert nun einen Regenschirm. Der Spaziergang ist kurz, und das Meer wirkt im Regen majestätisch.\n\nVerbringen Sie den Nachmittag bei einem ausgiebigen Essen im Dorfzentrum. Die Busfahrt zurück ist gemütlich und sicher.",
             "hu": "Érkezzen meg pihenten a buszmegállóba. A faluközpont üzletei azonnali menedéket nyújtanak az eső elől.\n\nLátogasson el a Szent Lőrinc-templomba; tökéletes hely egy zápor szárazon és nyugalomban való átvészeléséhez.\n\nA Pinizule-öbölhöz most esernyővel induljon. A séta rövid, a tenger pedig esőben is fenséges látványt nyújt.\n\nTöltse a délutánt egy bőséges étkezéssel a faluközpontban. A buszos visszajáró út kényelmes és biztonságos.",
             "ro": "Sosiți relaxat la stația de autobuz. Centrul satului oferă adăpost imediat în magazinele din apropiere.\n\nVizitați Biserica Sfântul Laurențiu; este locul perfect pentru a aștepta trecerea ploii în liniște.\n\nO excursie la golful Pinizule necesită acum o umbrelă. Plimbarea e scurtă, iar marea arată maiestuos pe ploaie.\n\nPetreceți după-amiaza cu o masă copioasă în centrul satului. Drumul de întoarcere cu autobuzul este confortabil.",
-            "en": "Arrive relaxed at the bus stop. The village center offers immediate shelter in the surrounding shops.\n\nVisit St. Lawrence Church; it is the perfect place to wait out a downpour in a dry and peaceful setting.\n\nA trip to Pinizule Bay now requires an umbrella. The walk is short, and the sea looks majestic in the rain.\n\nSpend the afternoon with an extensive meal in the village center. The bus ride back is cozy and safe."
+            "en": "Arrive relaxed at the bus stop. The village center offers immediate shelter in the surrounding shops.\n\nVisit St. Lawrence Church; it is the perfect place to wait out a downpour in a dry and peaceful setting.\n\nA trip to Pinizule Bay now requires an umbrella. The walk is short, and the sea looks majestic in the rain.\n\nSpend the afternoon with an extensive meal in the village center. The bus ride back is cozy and safe.",
+            "hr": "Opušteno stignite na autobusnu stanicu. Centar sela nudi neposredan zaklon u okolnim trgovinama.\n\nPosjetite crkvu sv. Lovre; to je savršeno mjesto za čekanje da pljusak prođe u suhom i mirnom okruženju.\n\nIzlet u uvalu Pinizule sada zahtijeva kišobran. Šetnja je kratka, a more izgleda veličanstveno na kiši.\n\nProvedite poslijepodne uz obilan obrok u centru sela. Vožnja autobusom natrag je ugodna i sigurna."
           },
           "stops": [
             {
@@ -2456,7 +2682,8 @@
                 "de": "Nutzen Sie das Wartehäuschen als ersten Unterstand.",
                 "hu": "Használja a buszvárót első menedékként.",
                 "ro": "Folosiți refugiul din stație ca prim adăpost.",
-                "en": "Use the bus shelter as your first point of cover."
+                "en": "Use the bus shelter as your first point of cover.",
+                "hr": "Koristite nadstrešnicu autobusne stanice kao prvi zaklon."
               }
             },
             {
@@ -2465,7 +2692,8 @@
                 "de": "Ein hervorragender Ort für kulturelle Bildung bei Regen.",
                 "hu": "Kiváló helyszín kulturális ismeretszerzéshez esőben.",
                 "ro": "Un loc excelent pentru cultură în timpul ploii.",
-                "en": "An excellent spot for cultural enrichment while it rains."
+                "en": "An excellent spot for cultural enrichment while it rains.",
+                "hr": "Izvrsno mjesto za kulturno bogaćenje dok pada kiša."
               }
             },
             {
@@ -2474,7 +2702,8 @@
                 "de": "Der Fußweg vom Bus ist kurz, aber nehmen Sie einen Schirm mit.",
                 "hu": "A sétaút a busztól rövid, de vigyen magával esernyőt.",
                 "ro": "Drumul pe jos de la autobuz e scurt, dar luați o umbrelă.",
-                "en": "The walk from the bus is short, but do bring an umbrella."
+                "en": "The walk from the bus is short, but do bring an umbrella.",
+                "hr": "Šetnja od autobusa je kratka, ali ponesite kišobran."
               }
             },
             {
@@ -2483,7 +2712,8 @@
                 "de": "Wählen Sie ein Restaurant mit gemütlichem Innenbereich.",
                 "hu": "Válasszon éttermet barátságos belső térrel.",
                 "ro": "Alegeți un restaurant cu un interior primitor.",
-                "en": "Choose a restaurant with a cozy indoor seating area."
+                "en": "Choose a restaurant with a cozy indoor seating area.",
+                "hr": "Odaberite restoran s ugodnim unutarnjim prostorom za sjedenje."
               }
             }
           ],
@@ -2511,6 +2741,12 @@
               "Wear waterproof shoes for the walk from the bus stop.",
               "Have small change or a card ready for ticket purchase.",
               "Use your time on the bus to take photos of the rainy landscape."
+            ],
+            "hr": [
+              "Provjerite vozni red autobusa jer kiša može uzrokovati kašnjenja.",
+              "Nosite vodootpornu obuću za šetnju od autobusne stanice.",
+              "Pripremite sitniš ili karticu za kupnju karte.",
+              "Iskoristite vrijeme u autobusu za fotografiranje kišnog krajolika."
             ]
           }
         },
@@ -2519,7 +2755,8 @@
             "de": "Die Ankunft an der Bushaltestelle im Winter ist erfrischend. Das Dorf Premantura wirkt nun authentisch und ruhig.\n\nIn der Lorenzkirche finden Sie im Winter einen Ort der Stille. Die Atmosphäre im Inneren ist besonders friedvoll.\n\nDer Spaziergang zur Pinizule-Bucht belebt den Geist. Die kalte Meeresbrise ist gesund und weckt die Lebensgeister.\n\nBeenden Sie Ihren Ausflug mit einem herzhaften Essen im Dorfzentrum, bevor Sie der Bus im warmen Innenraum zurückbringt.",
             "hu": "A buszmegállóba való megérkezés télen frissítő. Premantura falu ilyenkor hitelesnek és nyugodtnak tűnik.\n\nA Szent Lőrinc-templomban télen a csend szigetére lel. A belső légkör különösen békés ilyenkor.\n\nA Pinizule-öbölhöz tett séta felfrissíti az elmét. A hideg tengeri szél egészséges és élénkítő.\n\nZárja a kirándulást egy kiadós étkezéssel a faluközpontban, mielőtt a busz meleg utastere hazavinné.",
             "ro": "Sosirea în stația de autobuz iarna este revigorantă. Satul Premantura pare acum autentic și liniștit.\n\nÎn Biserica Sfântul Laurențiu găsiți iarna un loc al tăcerii. Atmosfera din interior este deosebit de pașnică.\n\nPlimbarea spre golful Pinizule revigorează spiritul. Briza rece a mării este sănătoasă și plină de energie.\n\nÎncheiați excursia cu o masă consistentă în centrul satului, înainte ca autobuzul să vă ducă înapoi la căldură.",
-            "en": "Arriving at the bus stop in winter is refreshing. The village of Premantura feels authentic and calm now.\n\nInside St. Lawrence Church, you will find a sanctuary of silence. The atmosphere is particularly peaceful in winter.\n\nA walk to Pinizule Bay invigorates the spirit. The cold sea breeze is healthy and truly awakens the senses.\n\nConclude your excursion with a hearty meal in the village center before the bus carries you back in its warm interior."
+            "en": "Arriving at the bus stop in winter is refreshing. The village of Premantura feels authentic and calm now.\n\nInside St. Lawrence Church, you will find a sanctuary of silence. The atmosphere is particularly peaceful in winter.\n\nA walk to Pinizule Bay invigorates the spirit. The cold sea breeze is healthy and truly awakens the senses.\n\nConclude your excursion with a hearty meal in the village center before the bus carries you back in its warm interior.",
+            "hr": "Dolazak na autobusnu stanicu zimi je osvježavajući. Selo Premantura sada djeluje autentično i mirno.\n\nUnutar crkve sv. Lovre pronaći ćete utočište tišine. Atmosfera je posebno mirna zimi.\n\nŠetnja do uvale Pinizule okrepljuje duh. Hladni morski povjetarac je zdrav i uistinu budi osjetila.\n\nZavršite svoj izlet obilnim obrokom u centru sela prije nego što vas autobus odveze natrag u svojoj toploj unutrašnjosti."
           },
           "stops": [
             {
@@ -2528,7 +2765,8 @@
                 "de": "Achten Sie auf den reduzierten Winterfahrplan.",
                 "hu": "Ügyeljen a ritkított téli menetrendre.",
                 "ro": "Atenție la programul redus de iarnă al autobuzelor.",
-                "en": "Be mindful of the reduced winter bus schedule."
+                "en": "Be mindful of the reduced winter bus schedule.",
+                "hr": "Imajte na umu smanjeni zimski vozni red autobusa."
               }
             },
             {
@@ -2537,7 +2775,8 @@
                 "de": "Ein ruhiger Rückzugsort an einem kalten Wintertag.",
                 "hu": "Nyugodt búvóhely egy hideg téli napon.",
                 "ro": "Un refugiu liniștit într-o zi rece de iarnă.",
-                "en": "A peaceful retreat on a cold winter day."
+                "en": "A peaceful retreat on a cold winter day.",
+                "hr": "Mirno utočište u hladnom zimskom danu."
               }
             },
             {
@@ -2546,7 +2785,8 @@
                 "de": "Der Weg ist fest und trocken, ideal für einen Winterspaziergang.",
                 "hu": "Az út kemény és száraz, ideális egy téli sétához.",
                 "ro": "Drumul este tare și uscat, ideal pentru o plimbare de iarnă.",
-                "en": "The path is firm and dry, ideal for a winter stroll."
+                "en": "The path is firm and dry, ideal for a winter stroll.",
+                "hr": "Staza je čvrsta i suha, idealna za zimsku šetnju."
               }
             },
             {
@@ -2555,7 +2795,8 @@
                 "de": "Genießen Sie lokale Spezialitäten in einem beheizten Restaurant.",
                 "hu": "Élvezze a helyi specialitásokat egy fűtött étteremben.",
                 "ro": "Bucurați-vă de specialități locale într-un restaurant încălzit.",
-                "en": "Enjoy local specialties in a well-heated restaurant."
+                "en": "Enjoy local specialties in a well-heated restaurant.",
+                "hr": "Uživajte u lokalnim specijalitetima u dobro zagrijanom restoranu."
               }
             }
           ],
@@ -2583,6 +2824,12 @@
               "Wear warm clothing for the waiting time at the bus stop.",
               "Check the bus operator's app for real-time arrival information.",
               "Combine your visit with a quick shop for local products."
+            ],
+            "hr": [
+              "Planirajte povratak na zadnji autobus prije nego što se potpuno smrači.",
+              "Nosite toplu odjeću za vrijeme čekanja na autobusnoj stanici.",
+              "Provjerite aplikaciju prijevoznika za informacije o dolasku u stvarnom vremenu.",
+              "Kombinirajte posjet s brzom kupnjom lokalnih proizvoda."
             ]
           }
         }

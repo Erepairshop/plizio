@@ -31,7 +31,8 @@
             "de": "Genießen Sie den Morgenkaffee direkt am Wasser.",
             "hu": "Igyon egy reggeli kávét közvetlenül a vízparton.",
             "ro": "Savurați o cafea de dimineață chiar pe malul mării.",
-            "en": "Enjoy a morning coffee right by the water."
+            "en": "Enjoy a morning coffee right by the water.",
+            "hr": "Uživajte u jutarnjoj kavi tik uz more."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein zylindrischer Turm aus dem 15. Jahrhundert.",
             "hu": "Egy 15. századi hengeres torony a nemesi családtól.",
             "ro": "Un turn cilindric din secolul al XV-lea.",
-            "en": "A 15th-century cylindrical tower from the noble family."
+            "en": "A 15th-century cylindrical tower from the noble family.",
+            "hr": "Cilindrična kula plemićke obitelji iz 15. stoljeća."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Barocke Pfarrkirche im alten Ortskern.",
             "hu": "Barokk plébániatemplom az óváros központjában.",
             "ro": "Biserică parohială barocă în centrul vechi.",
-            "en": "Baroque parish church in the old town center."
+            "en": "Baroque parish church in the old town center.",
+            "hr": "Barokna župna crkva u staroj gradskoj jezgri."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Berühmtes Gebäude am Meer, heute ein Restaurant.",
             "hu": "Híres épület a parton, ma étteremként üzemel.",
             "ro": "Clădire celebră pe malul mării, astăzi restaurant.",
-            "en": "Famous seaside building, now operating as a restaurant."
+            "en": "Famous seaside building, now operating as a restaurant.",
+            "hr": "Poznata zgrada na obali, danas restoran."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Probieren Sie frischen Fisch oder Peka.",
             "hu": "Kóstoljon friss halat vagy sült húst (peka).",
             "ro": "Încercați peștele proaspăt sau friptura peka.",
-            "en": "Try fresh fish or meat prepared under the lid (peka)."
+            "en": "Try fresh fish or meat prepared under the lid (peka).",
+            "hr": "Probajte svježu ribu ili meso pripremljeno pod pekom."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Kiesstrand mit sauberem, flachem Wasser.",
             "hu": "Kavicsos strand tiszta, sekély vízzel.",
             "ro": "Plajă cu pietriș și apă curată, puțin adâncă.",
-            "en": "Pebble beach with clear, shallow water."
+            "en": "Pebble beach with clear, shallow water.",
+            "hr": "Šljunčana plaža s čistim, plitkim morem."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Beobachten Sie die Fischerboote bei Dämmerung.",
             "hu": "Nézze a halászhajókat a szürkületben.",
             "ro": "Urmăriți bărcile de pescuit la amurg.",
-            "en": "Watch the fishing boats at dusk."
+            "en": "Watch the fishing boats at dusk.",
+            "hr": "Promatrajte ribarske brodove u sumrak."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Ein entspannter Tag in einem der sieben Kaštela. Der Vormittag gehört der Geschichte mit dem Cambi-Turm und der alten Kirche. Mittags genießen Sie dalmatinische Küche direkt an der Küste bei der alten Ballettschule. Den Nachmittag verbringen Sie am Kiesstrand, bevor der Tag am malerischen Hafen endet.",
         "hu": "Pihentető nap a hét Kaštela egyikében. A délelőtt a történelemé: a Cambi-torony és a régi plébániatemplom felfedezése után a Balettiskola ikonikus épületénél sétálunk. Ebédre egy helyi konobát választunk, délután pedig a tengerparti strandolásé a főszerep, amit a kikötői naplemente zár le.",
         "ro": "O zi relaxantă în unul dintre cele șapte Kaštela. Dimineața este dedicată istoriei, cu Turnul Cambi și vechea biserică. La prânz, savurați bucătăria dalmată pe malul mării lângă Școala de Balet. După-amiaza este rezervată plajei, înainte ca ziua să se încheie în portul pitoresc.",
-        "en": "A relaxing day in one of the seven Kaštela. The morning is dedicated to history, visiting the Cambi tower and the old parish church. At noon, enjoy Dalmatian cuisine on the coast near the iconic Ballet School. Spend the afternoon at the pebble beach before ending the day at the picturesque harbor."
+        "en": "A relaxing day in one of the seven Kaštela. The morning is dedicated to history, visiting the Cambi tower and the old parish church. At noon, enjoy Dalmatian cuisine on the coast near the iconic Ballet School. Spend the afternoon at the pebble beach before ending the day at the picturesque harbor.",
+        "hr": "Opuštajući dan u jednom od sedam Kaštela. Jutro je posvećeno povijesti uz posjet kuli Cambi i staroj župnoj crkvi. U podne uživajte u dalmatinskoj kuhinji na obali u blizini kultne Baletne škole. Poslijepodne provedite na šljunčanoj plaži prije nego što završite dan u slikovitoj luci."
       },
       "gastro_picks": {
         "de": [
@@ -172,6 +180,12 @@
           {
             "name": "Restaurant Baletna Škola",
             "tip": "Famous for seafood and its direct seaside location."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Baletna škola",
+            "tip": "Poznat po plodovima mora i lokaciji direktno uz more."
           }
         ]
       },
@@ -203,6 +217,13 @@
             "tip": "Quiet spot for ending the day.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Mala luka Kambelovac",
+            "tip": "Mirno mjesto za završetak dana.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -229,6 +250,12 @@
             "name": "Local wine shops",
             "tip": "Look for the Crljenak Kaštelanski variety."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalne vinoteke",
+            "tip": "Potražite sortu Crljenak Kaštelanski."
+          }
         ]
       },
       "tips": {
@@ -251,6 +278,11 @@
           "The waterfront promenade connects several Kaštela, ideal for long walks.",
           "Wear water shoes at the beach due to the pebbles.",
           "Visit the church in the morning as it is often closed at noon."
+        ],
+        "hr": [
+          "Obalna šetnica povezuje nekoliko Kaštela, idealna za duge šetnje.",
+          "Nosite obuću za vodu na plaži zbog oblutaka.",
+          "Posjetite crkvu ujutro jer je u podne često zatvorena."
         ]
       },
       "variants": {
@@ -259,7 +291,8 @@
             "de": "Ein regnerischer Morgen an der Riva hat seinen eigenen Charme; die Steine glänzen und das Meer wirkt silbern. Mittags bieten der Cambi-Turm und die Kirche trockene Zuflucht für Kulturinteressierte. Nachmittags genießt man die lokale Küche in einer warmen Konoba, während der Regen gegen die Fenster trommelt. Den Tag lässt man bei einem Kaffee mit Blick auf den wolkenverhangenen Hafen ausklingen.",
             "hu": "Az esős Riva különleges hangulatot áraszt, ahogy a nedves kövek csillognak a szürke tenger mellett. Napközben a Cambi-torony és a Szent Mihály-templom nyújt menedéket a történelem kedvelőinek. Délután egy hangulatos konobában élvezhetjük a helyi ízeket az eső kopogása mellett. Az estét egy tengerparti kávézó fedett teraszán zárjuk, figyelve a kikötő felett gyülekező felhőket.",
             "ro": "O dimineață ploioasă pe Riva are farmecul ei; pietrele lucesc, iar marea capătă nuanțe de argint. La prânz, Turnul Cambi și biserica oferă adăpost uscat pentru pasionații de cultură. După-amiaza se savurează bucătăria locală într-o konoba caldă, în timp ce ploaia bate în geamuri. Seara se încheie cu o cafea privind portul acoperit de nori de la adăpost.",
-            "en": "A rainy morning on the Riva has its own charm; the stones glisten and the sea appears silvery. At noon, the Cambi Tower and the church provide dry refuge for culture enthusiasts. In the afternoon, enjoy local cuisine in a warm konoba while rain drums against the windows. End the day with a coffee overlooking the cloud-covered harbor from a sheltered spot."
+            "en": "A rainy morning on the Riva has its own charm; the stones glisten and the sea appears silvery. At noon, the Cambi Tower and the church provide dry refuge for culture enthusiasts. In the afternoon, enjoy local cuisine in a warm konoba while rain drums against the windows. End the day with a coffee overlooking the cloud-covered harbor from a sheltered spot.",
+            "hr": "Kišno jutro na rivi ima svoj šarm; kamenje se sjaji, a more izgleda srebrnasto. U podne, kula Cambi i crkva pružaju suho utočište ljubiteljima kulture. Poslijepodne uživajte u domaćoj kuhinji u toploj konobi dok kiša bubnja po prozorima. Završite dan uz kavu s pogledom na luku prekrivenu oblacima iz natkrivenog mjesta."
           },
           "stops": [
             {
@@ -268,7 +301,8 @@
                 "de": "Regenschirm festhalten, der Wind am Meer kann tückisch sein.",
                 "hu": "Tartsuk erősen az esernyőt, a tengeri szél csalóka lehet.",
                 "ro": "Țineți umbrela bine, vântul de pe coastă poate fi înșelător.",
-                "en": "Hold your umbrella tight; the sea wind can be tricky."
+                "en": "Hold your umbrella tight; the sea wind can be tricky.",
+                "hr": "Čvrsto držite kišobran; morski vjetar može biti varljiv."
               }
             },
             {
@@ -277,7 +311,8 @@
                 "de": "Perfekter Ort, um die Architektur im Trockenen zu bewundern.",
                 "hu": "Tökéletes helyszín az építészet megcsodálására szárazon.",
                 "ro": "Locul perfect pentru a admira arhitectura la adăpost.",
-                "en": "Perfect place to admire the architecture while staying dry."
+                "en": "Perfect place to admire the architecture while staying dry.",
+                "hr": "Savršeno mjesto za divljenje arhitekturi dok ostajete suhi."
               }
             },
             {
@@ -286,7 +321,8 @@
                 "de": "Nutzen Sie die Stille im Inneren für eine kurze Regenpause.",
                 "hu": "Használja ki a belső csendet egy rövid esőszünetre.",
                 "ro": "Folosiți liniștea din interior pentru o scurtă pauză de ploaie.",
-                "en": "Use the indoor silence for a brief respite from the rain."
+                "en": "Use the indoor silence for a brief respite from the rain.",
+                "hr": "Iskoristite unutarnju tišinu za kratki predah od kiše."
               }
             },
             {
@@ -295,7 +331,8 @@
                 "de": "Historisches Gebäude mit gutem Schutz vor Schauern.",
                 "hu": "Történelmi épület, amely jó védelmet nyújt a záporok ellen.",
                 "ro": "Clădire istorică ce oferă protecție bună împotriva averselor.",
-                "en": "Historic building providing good protection from showers."
+                "en": "Historic building providing good protection from showers.",
+                "hr": "Povijesna zgrada koja pruža dobru zaštitu od pljuskova."
               }
             },
             {
@@ -304,7 +341,8 @@
                 "de": "Wählen Sie einen Platz am Kamin, falls vorhanden.",
                 "hu": "Válasszunk helyet a kandalló mellett, ha van rá lehetőség.",
                 "ro": "Alegeți un loc lângă șemineu, dacă este disponibil.",
-                "en": "Choose a seat by the fireplace, if available."
+                "en": "Choose a seat by the fireplace, if available.",
+                "hr": "Odaberite mjesto uz kamin, ako je dostupno."
               }
             },
             {
@@ -313,7 +351,8 @@
                 "de": "Kurzer Spaziergang; der Geruch des Meeres ist bei Regen intensiver.",
                 "hu": "Rövid séta; a tenger illata esőben sokkal intenzívebb.",
                 "ro": "Scurtă plimbare; mirosul mării este mai intens pe ploaie.",
-                "en": "Short walk; the scent of the sea is more intense in the rain."
+                "en": "Short walk; the scent of the sea is more intense in the rain.",
+                "hr": "Kratka šetnja; miris mora je intenzivniji na kiši."
               }
             },
             {
@@ -322,7 +361,8 @@
                 "de": "Auch bei Wolken bietet das Licht im Hafen eine tolle Stimmung.",
                 "hu": "A felhők ellenére a kikötői fények remek hangulatot árasztanak.",
                 "ro": "Chiar și cu nori, lumina din port oferă o atmosferă grozavă.",
-                "en": "Even with clouds, the harbor lights create a great atmosphere."
+                "en": "Even with clouds, the harbor lights create a great atmosphere.",
+                "hr": "Čak i s oblacima, svjetla luke stvaraju sjajnu atmosferu."
               }
             }
           ],
@@ -354,6 +394,13 @@
               "Plan longer lunch breaks in konobas to wait out the rain.",
               "A rain poncho is often more practical than an umbrella in windy weather.",
               "Watch out for puddles in the narrow streets of the old town."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću jer kameni pločnik u Kaštelima postaje klizav.",
+              "Muzeji i crkve su idealna utočišta tijekom jakih pljuskova.",
+              "Planirajte duže pauze za ručak u konobama kako biste pričekali da kiša prođe.",
+              "Kišna kabanica je često praktičnija od kišobrana po vjetrovitom vremenu.",
+              "Pazite na lokve u uskim ulicama starog grada."
             ]
           }
         },
@@ -362,7 +409,8 @@
             "de": "Der Winter in Kambelovac ist ruhig und oft sonnig, aber kühl durch den Bura-Wind. Morgens ist die Luft kristallklar bei einem Spaziergang an der Riva. Mittags wärmt man sich in den historischen Mauern der Kula Cambi auf. Nachmittags ist die Baletna škola ein kultureller Höhepunkt ohne die sommerlichen Menschenmassen. Da die Sonne früh untergeht, genießt man das goldene Licht am Hafen bereits gegen 16:30 Uhr.",
             "hu": "A tél Kambelovacban csendes és gyakran napos, de a bóra szél miatt hűvös. Reggel a levegő kristálytiszta a tengerparti sétányon. Napközben a Kula Cambi történelmi falai között melegedhetünk fel. Délután a Baletna škola kulturális élményt nyújt nyári tömeg nélkül. Mivel a nap korán nyugszik, a kikötő aranyló fényeit már délután fél öt körül élvezhetjük.",
             "ro": "Iarna în Kambelovac este liniștită și adesea însorită, dar răcoroasă din cauza vântului Bura. Dimineața aerul este de o claritate rară pe faleză. La prânz, zidurile istorice ale Turnului Cambi oferă un adăpost primitor. După-amiaza, Baletna škola este un punct cultural forte, fără mulțimile de vară. Deoarece soarele apune devreme, lumina aurie din port se savurează deja în jur de 16:30.",
-            "en": "Winter in Kambelovac is quiet and often sunny, but cool due to the Bura wind. In the morning, the air is crystal clear during a stroll on the Riva. At noon, warm up within the historic walls of the Cambi Tower. In the afternoon, the Ballet School is a cultural highlight without the summer crowds. Since the sun sets early, enjoy the golden light at the harbor as early as 4:30 PM."
+            "en": "Winter in Kambelovac is quiet and often sunny, but cool due to the Bura wind. In the morning, the air is crystal clear during a stroll on the Riva. At noon, warm up within the historic walls of the Cambi Tower. In the afternoon, the Ballet School is a cultural highlight without the summer crowds. Since the sun sets early, enjoy the golden light at the harbor as early as 4:30 PM.",
+            "hr": "Zima u Kambelovcu je mirna i često sunčana, ali hladna zbog bure. Ujutro je zrak kristalno čist tijekom šetnje rivom. U podne se ugrijte unutar povijesnih zidina kule Cambi. Poslijepodne je Baletna škola kulturni vrhunac bez ljetnih gužvi. Budući da sunce rano zalazi, uživajte u zlatnoj svjetlosti u luci već od 16:30."
           },
           "stops": [
             {
@@ -371,7 +419,8 @@
                 "de": "Warme Kleidung ist wichtig, der Wind vom Meer kühlt stark ab.",
                 "hu": "Meleg ruházat fontos, a tenger felől fújó szél erősen hűt.",
                 "ro": "Hainele groase sunt esențiale, vântul mării răcește rapid.",
-                "en": "Warm clothing is essential; the sea wind cools you down fast."
+                "en": "Warm clothing is essential; the sea wind cools you down fast.",
+                "hr": "Topla odjeća je neophodna; morski vjetar brzo hladi."
               }
             },
             {
@@ -380,7 +429,8 @@
                 "de": "Die dicken Mauern schützen gut vor dem kalten Wind.",
                 "hu": "A vastag falak jól védenek a hideg szél ellen.",
                 "ro": "Zidurile groase protejează bine împotriva vântului rece.",
-                "en": "The thick walls provide good protection from the cold wind."
+                "en": "The thick walls provide good protection from the cold wind.",
+                "hr": "Debeli zidovi pružaju dobru zaštitu od hladnog vjetra."
               }
             },
             {
@@ -389,7 +439,8 @@
                 "de": "Besuchen Sie die Kirche für einen Moment der inneren Ruhe.",
                 "hu": "Látogasson el a templomba a belső nyugalomért.",
                 "ro": "Vizitați biserica pentru un moment de liniște interioară.",
-                "en": "Visit the church for a moment of inner peace."
+                "en": "Visit the church for a moment of inner peace.",
+                "hr": "Posjetite crkvu za trenutak unutarnjeg mira."
               }
             },
             {
@@ -398,7 +449,8 @@
                 "de": "Kultureller Stopp im Warmen, ideal für den Winter.",
                 "hu": "Kulturális megálló a melegben, ideális télen.",
                 "ro": "Popas cultural la căldură, ideal pentru iarnă.",
-                "en": "Cultural stop in the warm, ideal for winter."
+                "en": "Cultural stop in the warm, ideal for winter.",
+                "hr": "Kulturna stanica na toplom, idealna za zimu."
               }
             },
             {
@@ -407,7 +459,8 @@
                 "de": "Probieren Sie herzhafte kroatische Winterspeisen wie Pašticada.",
                 "hu": "Kóstolja meg a laktató téli horvát ételeket, mint a pašticada.",
                 "ro": "Gustați preparate croate de iarnă consistente, precum pašticada.",
-                "en": "Try hearty Croatian winter dishes like pašticada."
+                "en": "Try hearty Croatian winter dishes like pašticada.",
+                "hr": "Probajte krepka hrvatska zimska jela poput pašticade."
               }
             },
             {
@@ -416,7 +469,8 @@
                 "de": "Perfekt für einen erfrischenden Winterspaziergang am Wasser.",
                 "hu": "Tökéletes egy frissítő téli sétához a vízparton.",
                 "ro": "Perfect pentru o plimbare revigorantă de iarnă pe malul apei.",
-                "en": "Perfect for a refreshing winter walk along the water."
+                "en": "Perfect for a refreshing winter walk along the water.",
+                "hr": "Savršeno za osvježavajuću zimsku šetnju uz more."
               }
             },
             {
@@ -425,7 +479,8 @@
                 "de": "Achtung: Die Sonne sinkt bereits gegen 16:30 Uhr.",
                 "hu": "Figyelem: a nap már fél öt körül lenyugszik.",
                 "ro": "Atenție: soarele apune deja în jur de ora 16:30.",
-                "en": "Note: the sun already sets around 4:30 PM."
+                "en": "Note: the sun already sets around 4:30 PM.",
+                "hr": "Napomena: sunce zalazi već oko 16:30."
               }
             }
           ],
@@ -457,6 +512,13 @@
               "The Bura wind provides fantastic visibility for photos.",
               "Sunset is much earlier than in summer; plan your time accordingly.",
               "Warm drinks like mulled wine (kuhano vino) are popular now."
+            ],
+            "hr": [
+              "Odjenite se slojevito: sunce vas grije, ali hlad je hladan.",
+              "Mnogi kafići imaju vanjske grijače na svojim terasama.",
+              "Bura pruža fantastičnu vidljivost za fotografije.",
+              "Zalazak sunca je mnogo ranije nego ljeti; planirajte svoje vrijeme u skladu s tim.",
+              "Topli napici poput kuhanog vina popularni su u ovo doba."
             ]
           }
         }
@@ -485,7 +547,8 @@
             "de": "Startpunkt am historischen Wehrturm.",
             "hu": "Kiindulópont a történelmi vártoronynál.",
             "ro": "Punct de plecare la turnul istoric de apărare.",
-            "en": "Starting point at the historical defense tower."
+            "en": "Starting point at the historical defense tower.",
+            "hr": "Polazište kod povijesne obrambene kule."
           }
         },
         {
@@ -503,7 +566,8 @@
             "de": "Kurzer Halt im Zentrum.",
             "hu": "Rövid megálló a központban.",
             "ro": "Oprire scurtă în centru.",
-            "en": "Short stop in the center."
+            "en": "Short stop in the center.",
+            "hr": "Kratko zaustavljanje u centru."
           }
         },
         {
@@ -521,7 +585,8 @@
             "de": "Steiler Anstieg, bereiten Sie sich auf Anstrengung vor.",
             "hu": "Meredek emelkedő, készüljön fel a kaptatóra.",
             "ro": "Urcare abruptă, pregătiți-vă pentru efort.",
-            "en": "Steep climb, prepare for some exertion."
+            "en": "Steep climb, prepare for some exertion.",
+            "hr": "Strmi uspon, pripremite se za napor."
           }
         },
         {
@@ -539,7 +604,8 @@
             "de": "Panoramablick auf die Bucht von Kastela und Split.",
             "hu": "Panoráma a Kaštelai-öbölre és Splitre.",
             "ro": "Vedere panoramică asupra golfului Kastela și Split.",
-            "en": "Panoramic view of the Kastela Bay and Split."
+            "en": "Panoramic view of the Kastela Bay and Split.",
+            "hr": "Panoramski pogled na Kaštelanski zaljev i Split."
           }
         },
         {
@@ -557,7 +623,8 @@
             "de": "Verdientes Mittagessen nach der Bergfahrt.",
             "hu": "Megérdemelt ebéd a hegyi menet után.",
             "ro": "Prânz meritat după urcarea pe munte.",
-            "en": "Well-deserved lunch after the mountain ride."
+            "en": "Well-deserved lunch after the mountain ride.",
+            "hr": "Zasluženi ručak nakon planinske vožnje."
           }
         },
         {
@@ -575,7 +642,8 @@
             "de": "Abkühlung im Meer zum Abschluss.",
             "hu": "Hűsölés a tengerben a nap végén.",
             "ro": "Răcorire în mare la final.",
-            "en": "Cool down in the sea at the end of the day."
+            "en": "Cool down in the sea at the end of the day.",
+            "hr": "Rashladite se u moru na kraju dana."
           }
         }
       ],
@@ -583,7 +651,8 @@
         "de": "Diese Route kombiniert Küstenflair mit einer sportlichen Herausforderung. Nach der Besichtigung der Türme im Ort geht es hinauf auf das Kozjak-Gebirge zum Gipfel Koludar. Die Belohnung ist ein weiter Blick über die Adria. Den Nachmittag verbringen Sie entspannt am Meer.",
         "hu": "Ez az útvonal ötvözi a tengerparti hangulatot a sportos kihívással. A település tornyainak megtekintése után feltekerünk a Kozjak-hegységbe a Koludar csúcsig. A jutalom a lenyűgöző kilátás az Adriára, majd délutáni pihenés a vízparton.",
         "ro": "Această rută combină atmosfera de coastă cu o provocare sportivă. După vizitarea turnurilor din localitate, urcăm pe muntele Kozjak până la vârful Koludar. Recompensa este o vedere largă asupra Adriaticii, urmată de o după-amiază relaxantă la mare.",
-        "en": "This route combines coastal flair with a sporty challenge. After visiting the towers in town, cycle up the Kozjak mountain to the Koludar peak. The reward is a vast view over the Adriatic, followed by a relaxed afternoon by the sea."
+        "en": "This route combines coastal flair with a sporty challenge. After visiting the towers in town, cycle up the Kozjak mountain to the Koludar peak. The reward is a vast view over the Adriatic, followed by a relaxed afternoon by the sea.",
+        "hr": "Ova ruta spaja obalni štih sa sportskim izazovom. Nakon posjeta kulama u mjestu, biciklirajte uzbrdo na planinu Kozjak do vrha Koludar. Nagrada je prostrani pogled na Jadran, nakon čega slijedi opušteno poslijepodne uz more."
       },
       "gastro_picks": {
         "de": [
@@ -608,6 +677,12 @@
           {
             "name": "Konoba Intrada",
             "tip": "Homemade pasta and local meat dishes."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Domaća tjestenina i lokalna mesna jela."
           }
         ]
       },
@@ -639,6 +714,13 @@
             "tip": "Absolute silence and wide vistas.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vrh Koludar",
+            "tip": "Apsolutna tišina i široki vidici.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -665,6 +747,12 @@
             "name": "Kastela Bike Rental",
             "tip": "Located near the main road."
           }
+        ],
+        "hr": [
+          {
+            "name": "Kastela Bike Rental",
+            "tip": "Nalazi se u blizini glavne ceste."
+          }
         ]
       },
       "tips": {
@@ -687,6 +775,11 @@
           "Check your brakes before descending from Kozjak.",
           "Take plenty of water for the climb.",
           "The mountain road is paved but narrow."
+        ],
+        "hr": [
+          "Provjerite kočnice prije spuštanja s Kozjaka.",
+          "Ponesite dovoljno vode za uspon.",
+          "Planinska cesta je asfaltirana, ali uska."
         ]
       },
       "variants": {
@@ -695,7 +788,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenstraßen. Vormittags erkundet man die Kula Cambi, während man das Fahrrad im Trockenen parkt. Mittags führt der Weg zur Kirche, wobei man die kurzen Regenpausen nutzt. Die Auffahrt zum Kozjak ist bei Nässe anspruchsvoll, belohnt aber mit einer mystischen Nebelatmosphäre. Nachmittags wärmt man sich nach der Abfahrt bei einem heißen Getränk auf.",
             "hu": "Az esős kerékpártúra óvatosságot igényel a parti utakon. Délelőtt a Kula Cambi környékét fedezzük fel, a biciklit száraz helyen hagyva. Délben a templom felé vesszük az irányt, kihasználva a rövid esőszüneteket. A Kozjak-hegyre való feljutás nedves időben nehéz, de misztikus ködös látványt nyújt. Délután a leereszkedés után egy forró itallal melegedhetünk fel.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile de coastă. Dimineața explorăm Turnul Cambi, parcând bicicleta la uscat. La prânz ne îndreptăm spre biserică, folosind scurte pauze între averse. Urcarea pe Kozjak este solicitantă pe umiditate, dar oferă o atmosferă mistică cu ceață. După-amiaza ne încălzim cu o băutură fierbinte după coborâre.",
-            "en": "A bike tour in the rain requires caution on coastal roads. In the morning, explore Cambi Tower while parking your bike in a dry spot. At noon, head towards the church, utilizing short breaks in the rain. The ascent to Kozjak is challenging when wet but rewards with a mystical misty atmosphere. In the afternoon, warm up with a hot drink after the descent."
+            "en": "A bike tour in the rain requires caution on coastal roads. In the morning, explore Cambi Tower while parking your bike in a dry spot. At noon, head towards the church, utilizing short breaks in the rain. The ascent to Kozjak is challenging when wet but rewards with a mystical misty atmosphere. In the afternoon, warm up with a hot drink after the descent.",
+            "hr": "Tura biciklom po kiši zahtijeva oprez na obalnim cestama. Ujutro istražite kulu Cambi dok parkirate bicikl na suhom mjestu. U podne se uputite prema crkvi, koristeći kratke stanke u kiši. Uspon na Kozjak je izazovan kad je mokro, ali nagrađuje mističnom maglovitom atmosferom. Poslijepodne se ugrijte toplim napitkom nakon spusta."
           },
           "stops": [
             {
@@ -704,7 +798,8 @@
                 "de": "Fahrrad unter einem Vorsprung sichern.",
                 "hu": "Láncoljuk le a biciklit egy eresz alatt.",
                 "ro": "Asigurați bicicleta sub o streașină.",
-                "en": "Secure your bike under an overhang."
+                "en": "Secure your bike under an overhang.",
+                "hr": "Osigurajte bicikl ispod nadstrešnice."
               }
             },
             {
@@ -713,7 +808,8 @@
                 "de": "Vorsicht bei den nassen Stufen vor dem Eingang.",
                 "hu": "Vigyázat a nedves lépcsőkkel a bejárat előtt.",
                 "ro": "Atenție la treptele umede de la intrare.",
-                "en": "Be careful with the wet steps at the entrance."
+                "en": "Be careful with the wet steps at the entrance.",
+                "hr": "Budite oprezni s mokrim stepenicama na ulazu."
               }
             },
             {
@@ -722,7 +818,8 @@
                 "de": "Langsam fahren, die Straße kann rutschig sein.",
                 "hu": "Hajtson lassan, az út csúszós lehet.",
                 "ro": "Mergeți încet, drumul poate fi alunecos.",
-                "en": "Ride slowly; the road can be slippery."
+                "en": "Ride slowly; the road can be slippery.",
+                "hr": "Vozite polako; cesta može biti klizava."
               }
             },
             {
@@ -731,7 +828,8 @@
                 "de": "Blick auf das wolkenverhangene Split genießen.",
                 "hu": "Élvezze a felhőkbe burkolózó Split látványát.",
                 "ro": "Admirați vederea spre Split acoperit de nori.",
-                "en": "Enjoy the view of Split shrouded in clouds."
+                "en": "Enjoy the view of Split shrouded in clouds.",
+                "hr": "Uživajte u pogledu na Split obavijen oblacima."
               }
             },
             {
@@ -740,7 +838,8 @@
                 "de": "Bremsen rechtzeitig prüfen, längerer Bremsweg.",
                 "hu": "Időben ellenőrizze a fékeket, hosszabb a féktáv.",
                 "ro": "Verificați frânele din timp, distanța de frânare e mai mare.",
-                "en": "Check your brakes early; braking distance is longer."
+                "en": "Check your brakes early; braking distance is longer.",
+                "hr": "Rano provjerite kočnice; put kočenja je duži."
               }
             },
             {
@@ -749,7 +848,8 @@
                 "de": "Das Meer wirkt bei Regen besonders dramatisch.",
                 "hu": "A tenger esőben különösen drámai látványt nyújt.",
                 "ro": "Marea pare deosebit de dramatică pe ploaie.",
-                "en": "The sea looks particularly dramatic in the rain."
+                "en": "The sea looks particularly dramatic in the rain.",
+                "hr": "More izgleda posebno dramatično na kiši."
               }
             }
           ],
@@ -781,6 +881,13 @@
               "Wear a neon rain jacket for better visibility.",
               "Mountain roads on Kozjak may have minor rockfalls during rain.",
               "Always wipe the saddle dry before continuing your ride."
+            ],
+            "hr": [
+              "Blatobrani na biciklu su obavezni po ovakvom vremenu.",
+              "Izbjegavajte oznake na cesti; izuzetno su klizave.",
+              "Nosite neonsku kišnu jaknu za bolju vidljivost.",
+              "Planinske ceste na Kozjaku mogu imati manje odrone kamenja tijekom kiše.",
+              "Uvijek obrišite sjedalo prije nastavka vožnje."
             ]
           }
         },
@@ -789,7 +896,8 @@
             "de": "Winter-Biking in Kaštela bietet klare Luft und wenig Verkehr. Morgens startet die Tour am Cambi-Turm, wenn die Sonne die alten Mauern beleuchtet. Der Aufstieg zum Kozjak bringt einen ins Schwitzen, aber oben weht oft ein beißend kalter Wind. Die Aussicht über die Adria ist im Winter unvergleichlich scharf. Nachmittags geht es zügig bergab zur Baletna škola, bevor die Kälte nach Sonnenuntergang spürbar wird.",
             "hu": "A téli kerékpározás Kaštelában tiszta levegőt és kevés forgalmat kínál. Reggel a Cambi-toronynál kezdünk, amikor a nap megvilágítja a falakat. A Kozjak-hegyre való feljutás megizzaszt, de fent gyakran metsző hideg szél fúj. Az Adria látványa télen páratlanul éles. Délután gyorsan legurulunk a Baletna iskolához, mielőtt a napnyugta utáni hideg beállna.",
             "ro": "Ciclismul de iarnă în Kaštela oferă aer curat și trafic redus. Dimineața turul începe la Turnul Cambi, când soarele luminează zidurile vechi. Urcarea pe Kozjak vă va face să transpirați, dar sus suflă adesea un vânt tăios. Vederea peste Adriatica este de o claritate rară iarna. După-amiaza se coboară rapid spre Baletna škola, înainte ca frigul să se simtă după apus.",
-            "en": "Winter biking in Kaštela offers clear air and little traffic. The tour starts in the morning at the Cambi Tower as the sun illuminates the old walls. The climb to Kozjak gets you sweating, but a biting cold wind often blows at the top. The view over the Adriatic is incomparably sharp in winter. In the afternoon, descend quickly to the Ballet School before the post-sunset cold sets in."
+            "en": "Winter biking in Kaštela offers clear air and little traffic. The tour starts in the morning at the Cambi Tower as the sun illuminates the old walls. The climb to Kozjak gets you sweating, but a biting cold wind often blows at the top. The view over the Adriatic is incomparably sharp in winter. In the afternoon, descend quickly to the Ballet School before the post-sunset cold sets in.",
+            "hr": "Zimsko bicikliranje u Kaštelima nudi čist zrak i malo prometa. Tura počinje ujutro kod kule Cambi dok sunce obasjava stare zidine. Uspon na Kozjak će vas oznojiti, ali na vrhu često puše oštra hladna bura. Pogled na Jadran zimi je neusporedivo oštar. Poslijepodne se brzo spustite do Baletne škole prije nego što nastupi hladnoća nakon zalaska sunca."
           },
           "stops": [
             {
@@ -798,7 +906,8 @@
                 "de": "Im Schatten ist es kühl, halten Sie sich in der Sonne auf.",
                 "hu": "Az árnyékban hűvös van, maradjon a napon.",
                 "ro": "La umbră e răcoare, stați la soare.",
-                "en": "It's cool in the shade; stay in the sun."
+                "en": "It's cool in the shade; stay in the sun.",
+                "hr": "Hladno je u hladu; ostanite na suncu."
               }
             },
             {
@@ -807,7 +916,8 @@
                 "de": "Kurze Pause, damit der Körper nicht auskühlt.",
                 "hu": "Csak rövid szünetet tartsunk, nehogy kihűljünk.",
                 "ro": "Pauză scurtă, pentru a nu lăsa corpul să se răcească.",
-                "en": "Keep the break short so your body doesn't cool down."
+                "en": "Keep the break short so your body doesn't cool down.",
+                "hr": "Neka pauza bude kratka kako vam se tijelo ne bi ohladilo."
               }
             },
             {
@@ -816,7 +926,8 @@
                 "de": "Öffnen Sie die Jacke leicht, um Hitzestau zu vermeiden.",
                 "hu": "Kissé húzza le a cipzárt, hogy elkerülje a túlhevülést.",
                 "ro": "Deschideți ușor jacheta pentru a evita supraîncălzirea.",
-                "en": "Unzip your jacket slightly to avoid overheating."
+                "en": "Unzip your jacket slightly to avoid overheating.",
+                "hr": "Malo otkopčajte jaknu kako biste izbjegli pregrijavanje."
               }
             },
             {
@@ -825,7 +936,8 @@
                 "de": "Windstopper-Handschuhe sind hier oben Gold wert.",
                 "hu": "A szélálló kesztyű aranyat ér itt fent.",
                 "ro": "Mănușile windstopper valorează aur aici sus.",
-                "en": "Windstopper gloves are worth gold up here."
+                "en": "Windstopper gloves are worth gold up here.",
+                "hr": "Rukavice koje štite od vjetra ovdje vrijede zlata."
               }
             },
             {
@@ -834,7 +946,8 @@
                 "de": "Die kalte Luft bei der Abfahrt ist extrem beißend.",
                 "hu": "A hideg levegő a lejtőn rendkívül metsző.",
                 "ro": "Aerul rece la coborâre este extrem de tăios.",
-                "en": "The cold air during the descent is extremely biting."
+                "en": "The cold air during the descent is extremely biting.",
+                "hr": "Hladan zrak tijekom spusta je izuzetno oštar."
               }
             },
             {
@@ -843,7 +956,8 @@
                 "de": "Ruhiger Ort für ein winterliches Foto.",
                 "hu": "Csendes hely egy téli fotóhoz.",
                 "ro": "Loc liniștit pentru o fotografie de iarnă.",
-                "en": "Quiet spot for a winter photo."
+                "en": "Quiet spot for a winter photo.",
+                "hr": "Mirno mjesto za zimsku fotografiju."
               }
             }
           ],
@@ -875,6 +989,13 @@
               "Bura wind can have gusts that make cycling dangerous.",
               "Plan to return before 4:00 PM; it gets cold very quickly after that.",
               "Bike lights are essential due to early twilight."
+            ],
+            "hr": [
+              "Tople rukavice i navlake za cipele štite od hladnog vjetra.",
+              "Ponesite termosicu s toplim čajem.",
+              "Bura može imati udare koji bicikliranje čine opasnim.",
+              "Planirajte povratak prije 16:00; nakon toga zahladi vrlo brzo.",
+              "Svjetla za bicikl su neophodna zbog ranog sumraka."
             ]
           }
         }
@@ -903,7 +1024,8 @@
             "de": "Parken Sie nahe der Riva.",
             "hu": "Parkoljon a Riva közelében.",
             "ro": "Parcați aproape de Riva.",
-            "en": "Park near the Riva."
+            "en": "Park near the Riva.",
+            "hr": "Parkirajte u blizini rive."
           }
         },
         {
@@ -921,7 +1043,8 @@
             "de": "Zu Fuß erreichbar vom Parkplatz.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking area."
+            "en": "Accessible on foot from the parking area.",
+            "hr": "Dostupno pješice s parkirališta."
           }
         },
         {
@@ -939,7 +1062,8 @@
             "de": "Zentraler Platz im historischen Viertel.",
             "hu": "Központi tér a történelmi negyedben.",
             "ro": "Piața centrală din cartierul istoric.",
-            "en": "Central square in the historic district."
+            "en": "Central square in the historic district.",
+            "hr": "Središnji trg u povijesnoj četvrti."
           }
         },
         {
@@ -957,7 +1081,8 @@
             "de": "Fahrt auf den Berg für Panoramafotos.",
             "hu": "Autózás a hegyre panorámafotókért.",
             "ro": "Drum cu mașina pe munte pentru fotografii panoramice.",
-            "en": "Drive up the mountain for panoramic photos."
+            "en": "Drive up the mountain for panoramic photos.",
+            "hr": "Odvezite se na planinu za panoramske fotografije."
           }
         },
         {
@@ -975,7 +1100,8 @@
             "de": "Kurze Wanderung vom Parkplatz zum Gipfel.",
             "hu": "Rövid túra a parkolótól a csúcsig.",
             "ro": "Scurtă drumeție de la parcare la vârf.",
-            "en": "Short hike from the parking lot to the summit."
+            "en": "Short hike from the parking lot to the summit.",
+            "hr": "Kratko pješačenje od parkirališta do vrha."
           }
         },
         {
@@ -993,7 +1119,8 @@
             "de": "Mittagessen mit Meerblick.",
             "hu": "Ebéd kilátással a tengerre.",
             "ro": "Prânz cu vedere la mare.",
-            "en": "Lunch with a sea view."
+            "en": "Lunch with a sea view.",
+            "hr": "Ručak s pogledom na more."
           }
         },
         {
@@ -1011,7 +1138,8 @@
             "de": "Entspannung am Nachmittag.",
             "hu": "Délutáni pihenés.",
             "ro": "Relaxare după-amiaza.",
-            "en": "Afternoon relaxation."
+            "en": "Afternoon relaxation.",
+            "hr": "Poslijepodnevno opuštanje."
           }
         },
         {
@@ -1029,7 +1157,8 @@
             "de": "Kurzer Ausklang vor der Abfahrt.",
             "hu": "Rövid levezetés indulás előtt.",
             "ro": "Scurtă relaxare înainte de plecare.",
-            "en": "Short stroll before departure."
+            "en": "Short stroll before departure.",
+            "hr": "Kratka šetnja prije odlaska."
           }
         }
       ],
@@ -1037,7 +1166,8 @@
         "de": "Mit dem Auto erkunden Sie sowohl den historischen Kern als auch das Hochland. Der Tag beginnt im Dorfzentrum, führt dann hinauf auf den Berg Kozjak für spektakuläre Ausblicke und endet mit einem exzellenten Mittagessen und Strandzeit an der Küste.",
         "hu": "Autóval a történelmi központot és a hegységet is bejárhatjuk. A nap a faluközpontban indul, majd felautózunk a Kozjak-hegyre a látványos kilátásért, végül egy kiváló ebéddel és tengerparti pihenéssel zárjuk a programot.",
         "ro": "Cu mașina puteți explora atât centrul istoric, cât și zona montană. Ziua începe în centrul satului, continuă cu o urcare pe muntele Kozjak pentru vederi spectaculoase și se încheie cu un prânz excelent și relaxare pe plajă.",
-        "en": "By car, you can explore both the historical core and the highlands. The day starts in the village center, leads up to Mount Kozjak for spectacular views, and ends with an excellent lunch and beach time on the coast."
+        "en": "By car, you can explore both the historical core and the highlands. The day starts in the village center, leads up to Mount Kozjak for spectacular views, and ends with an excellent lunch and beach time on the coast.",
+        "hr": "Automobilom možete istražiti i povijesnu jezgru i gorje. Dan počinje u centru mjesta, vodi do planine Kozjak za spektakularne poglede, a završava izvrsnim ručkom i boravkom na plaži na obali."
       },
       "gastro_picks": {
         "de": [
@@ -1062,6 +1192,12 @@
           {
             "name": "Konoba Odmor",
             "tip": "Typical Dalmatian dishes in a cozy atmosphere."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Odmor",
+            "tip": "Tipična dalmatinska jela u ugodnoj atmosferi."
           }
         ]
       },
@@ -1093,6 +1229,13 @@
             "tip": "Away from the tourist crowds on the coast.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Planina Kozjak",
+            "tip": "Daleko od turističkih gužvi na obali.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1119,6 +1262,12 @@
             "name": "Supermarket at the village entrance",
             "tip": "For drinks and picnic supplies."
           }
+        ],
+        "hr": [
+          {
+            "name": "Supermarket na ulazu u mjesto",
+            "tip": "Za piće i potrepštine za piknik."
+          }
         ]
       },
       "tips": {
@@ -1141,6 +1290,11 @@
           "Parking spots at the Riva fill up quickly in peak season.",
           "The road to Kozjak is winding.",
           "Combine the visit with other Kaštela villages."
+        ],
+        "hr": [
+          "Parkirna mjesta na rivi brzo se popune u špici sezone.",
+          "Cesta za Kozjak je vijugava.",
+          "Kombinirajte posjet s drugim kaštelanskim selima."
         ]
       },
       "variants": {
@@ -1149,7 +1303,8 @@
             "de": "Mit dem Auto erkundet man Kaštela auch bei Regen komfortabel. Morgens besucht man die Altstadt und den Cambi-Turm, wobei man kurze Wege vom Parkplatz nutzt. Die Fahrt zum Kozjak-Aussichtspunkt bietet bei Regen eine dramatische Sicht auf die Küste. Mittags ist die Baletna škola ein idealer Ort für ein ausgiebiges Essen im Warmen. Den Tag beendet man mit einer gemütlichen Fahrt entlang der Küstenstraße.",
             "hu": "Autóval esőben is kényelmesen felfedezhető Kaštela. Reggel az óvárost és a Cambi-tornyot látogatjuk meg, rövid sétákat téve a parkolótól. A Kozjak kilátópont dramatikus látványt nyújt az eső áztatta partvidékre. Délben a Baletna škola ideális helyszín egy kiadós ebédhez a melegben. A napot egy kellemes autózással zárjuk a tengerparti úton.",
             "ro": "Cu mașina, Kaštela poate fi explorată confortabil chiar și pe ploaie. Dimineața vizităm centrul vechi și Turnul Cambi, folosind distanțe scurte de la parcare. Drumul spre punctul de belvedere Kozjak oferă o vedere dramatică asupra coastei pe ploaie. La prânz, Baletna škola este locul ideal pentru o masă copioasă la căldură. Seara se încheie cu o plimbare relaxantă cu mașina pe drumul de coastă.",
-            "en": "Explore Kaštela comfortably by car even in the rain. In the morning, visit the old town and Cambi Tower, using short walks from the parking lot. The drive to the Kozjak viewpoint offers a dramatic view of the coast during rain. At noon, the Ballet School is an ideal place for a substantial meal in the warm. End the day with a cozy drive along the coastal road."
+            "en": "Explore Kaštela comfortably by car even in the rain. In the morning, visit the old town and Cambi Tower, using short walks from the parking lot. The drive to the Kozjak viewpoint offers a dramatic view of the coast during rain. At noon, the Ballet School is an ideal place for a substantial meal in the warm. End the day with a cozy drive along the coastal road.",
+            "hr": "Istražite Kaštela udobno automobilom čak i po kiši. Ujutro posjetite stari grad i kulu Cambi, koristeći kratke šetnje s parkirališta. Vožnja do vidikovca Kozjak nudi dramatičan pogled na obalu tijekom kiše. U podne je Baletna škola idealno mjesto za obilan obrok na toplom. Završite dan ugodnom vožnjom obalnom cestom."
           },
           "stops": [
             {
@@ -1158,7 +1313,8 @@
                 "de": "Parken Sie nah am Zentrum, um im Regen nicht weit zu laufen.",
                 "hu": "Parkoljon közel a központhoz, hogy ne kelljen sokat mennie az esőben.",
                 "ro": "Parcați aproape de centru pentru a nu merge mult prin ploaie.",
-                "en": "Park near the center to avoid walking far in the rain."
+                "en": "Park near the center to avoid walking far in the rain.",
+                "hr": "Parkirajte blizu centra kako biste izbjegli dugo hodanje po kiši."
               }
             },
             {
@@ -1167,7 +1323,8 @@
                 "de": "Der Turm ist nur wenige Schritte vom Auto entfernt.",
                 "hu": "A torony csak pár lépésre van az autótól.",
                 "ro": "Turnul se află la doar câțiva pași de mașină.",
-                "en": "The tower is just a few steps away from the car."
+                "en": "The tower is just a few steps away from the car.",
+                "hr": "Kula je udaljena samo nekoliko koraka od automobila."
               }
             },
             {
@@ -1176,7 +1333,8 @@
                 "de": "Regenschirm für den kurzen Weg zur Kirche bereithalten.",
                 "hu": "Készítse elő az esernyőt a templomhoz vezető rövid útra.",
                 "ro": "Pregătiți umbrela pentru scurtul drum spre biserică.",
-                "en": "Have your umbrella ready for the short walk to the church."
+                "en": "Have your umbrella ready for the short walk to the church.",
+                "hr": "Pripremite kišobran za kratku šetnju do crkve."
               }
             },
             {
@@ -1185,7 +1343,8 @@
                 "de": "Man kann die Aussicht oft direkt aus dem Auto genießen.",
                 "hu": "A kilátást gyakran közvetlenül az autóból is élvezhetjük.",
                 "ro": "Vă puteți bucura de priveliște direct din mașină.",
-                "en": "You can often enjoy the view directly from the car."
+                "en": "You can often enjoy the view directly from the car.",
+                "hr": "Često možete uživati u pogledu izravno iz automobila."
               }
             },
             {
@@ -1194,7 +1353,8 @@
                 "de": "Vorsicht auf der schmalen, nassen Bergstraße.",
                 "hu": "Vigyázat a keskeny, nedves hegyi úton.",
                 "ro": "Atenție pe drumul de munte îngust și umed.",
-                "en": "Be careful on the narrow, wet mountain road."
+                "en": "Be careful on the narrow, wet mountain road.",
+                "hr": "Budite oprezni na uskoj, mokroj planinskoj cesti."
               }
             },
             {
@@ -1203,7 +1363,8 @@
                 "de": "Großer Parkplatz direkt vor dem Restaurant.",
                 "hu": "Nagy parkoló közvetlenül az étterem előtt.",
                 "ro": "Parcare mare direct în fața restaurantului.",
-                "en": "Large parking lot directly in front of the restaurant."
+                "en": "Large parking lot directly in front of the restaurant.",
+                "hr": "Veliko parkiralište izravno ispred restorana."
               }
             },
             {
@@ -1212,7 +1373,8 @@
                 "de": "Stimmungsvoller Blick auf das aufgewühlte Meer.",
                 "hu": "Hangulatos kilátás a felkorbácsolt tengerre.",
                 "ro": "Vedere atmosferică asupra mării agitate.",
-                "en": "Atmospheric view of the choppy sea."
+                "en": "Atmospheric view of the choppy sea.",
+                "hr": "Atmosferičan pogled na uzburkano more."
               }
             },
             {
@@ -1221,7 +1383,8 @@
                 "de": "Nutzen Sie eine Regenpause für ein kurzes Foto.",
                 "hu": "Használja ki az esőszünetet egy gyors fotóhoz.",
                 "ro": "Folosiți o pauză de ploaie pentru o fotografie scurtă.",
-                "en": "Use a break in the rain for a quick photo."
+                "en": "Use a break in the rain for a quick photo.",
+                "hr": "Iskoristite stanku u kiši za brzu fotografiju."
               }
             }
           ],
@@ -1253,6 +1416,13 @@
               "Many shaded parking spots near the coast are now vacant.",
               "Use the car as a mobile base for spare clothes.",
               "Avoid deep puddles in low-lying areas."
+            ],
+            "hr": [
+              "Planinska cesta za Kozjak može biti klizava tijekom jake kiše.",
+              "Pazite na slabu vidljivost zbog zamagljenih prozora.",
+              "Mnoga zasjenjena parkirna mjesta uz obalu sada su slobodna.",
+              "Koristite automobil kao bazu za rezervnu odjeću.",
+              "Izbjegavajte duboke lokve u nižim područjima."
             ]
           }
         },
@@ -1261,7 +1431,8 @@
             "de": "Eine winterliche Fahrt durch Kaštela ist entspannt und staufrei. Morgens leuchten die Steinhäuser der Altstadt in der tiefstehenden Sonne. Der Ausflug zum Kozjak-Gipfel ist ein Muss, da die Fernsicht im Winter spektakulär ist; man sieht oft bis zu den entfernten Inseln. Mittags genießt man lokale Spezialitäten in der Baletna škola. Da es ab 16:30 Uhr dunkel wird, endet die Tour stimmungsvoll im beleuchteten Hafen von Kambelovac.",
             "hu": "A téli autózás Kaštelában nyugodt és dugómentes. Reggel az óváros kőházai ragyognak az alacsonyan járó napfényben. A Kozjak-csúcs meglátogatása kötelező, mert a téli látótávolság látványos, gyakran a távoli szigetekig is ellátni. Délben a Baletna iskolában helyi specialitásokat kóstolhatunk. Mivel fél öttől sötétedik, a túra hangulatosan ér véget Kambelovac kivilágított kikötőjében.",
             "ro": "O călătorie de iarnă prin Kaštela este relaxată și fără ambuteiaje. Dimineața, casele de piatră din centrul vechi strălucesc în soarele de joasă altitudine. Excursia pe vârful Kozjak este obligatorie, deoarece vizibilitatea de iarnă este spectaculoasă; se văd adesea insulele îndepărtate. La prânz, savurați specialități locale la Baletna škola. Cum se întunecă de la 16:30, turul se încheie în portul luminat.",
-            "en": "A winter drive through Kaštela is relaxed and traffic-free. In the morning, the stone houses of the old town glow in the low sun. A trip to the Kozjak summit is a must, as the winter visibility is spectacular, often allowing views of distant islands. At noon, enjoy local specialties at the Ballet School. Since it gets dark from 4:30 PM, the tour ends atmospherically in the lit harbor."
+            "en": "A winter drive through Kaštela is relaxed and traffic-free. In the morning, the stone houses of the old town glow in the low sun. A trip to the Kozjak summit is a must, as the winter visibility is spectacular, often allowing views of distant islands. At noon, enjoy local specialties at the Ballet School. Since it gets dark from 4:30 PM, the tour ends atmospherically in the lit harbor.",
+            "hr": "Zimska vožnja kroz Kaštela je opuštena i bez gužvi. Ujutro kamene kuće starog grada sjaje na niskom suncu. Izlet na vrh Kozjak je obavezan jer je zimska vidljivost spektakularna, često omogućujući pogled na udaljene otoke. U podne uživajte u lokalnim specijalitetima u Baletnoj školi. Budući da se mrači od 16:30, tura završava atmosferično u osvijetljenoj luci."
           },
           "stops": [
             {
@@ -1270,7 +1441,8 @@
                 "de": "Im Winter finden Sie leicht Parkplätze in der Nähe.",
                 "hu": "Télen könnyen talál parkolóhelyet a közelben.",
                 "ro": "Iarna găsiți ușor locuri de parcare în apropiere.",
-                "en": "You'll easily find parking spaces nearby in winter."
+                "en": "You'll easily find parking spaces nearby in winter.",
+                "hr": "Zimi ćete lako pronaći parkirna mjesta u blizini."
               }
             },
             {
@@ -1279,7 +1451,8 @@
                 "de": "Fotografieren Sie den Turm im warmen Winterlicht.",
                 "hu": "Fotózza le a tornyot a meleg téli fényben.",
                 "ro": "Fotografiați turnul în lumina caldă de iarnă.",
-                "en": "Photograph the tower in the warm winter light."
+                "en": "Photograph the tower in the warm winter light.",
+                "hr": "Fotografirajte kulu u toplom zimskom svjetlu."
               }
             },
             {
@@ -1288,7 +1461,8 @@
                 "de": "Angenehme Kühle im Inneren, draußen wärmt die Sonne.",
                 "hu": "Kellemes hűvös bent, kint a nap melegít.",
                 "ro": "Răcoare plăcută în interior, soarele încălzește afară.",
-                "en": "Pleasant coolness inside; the sun warms you outside."
+                "en": "Pleasant coolness inside; the sun warms you outside.",
+                "hr": "Ugodna svježina unutra; sunce vas grije vani."
               }
             },
             {
@@ -1297,7 +1471,8 @@
                 "de": "Bester Zeitpunkt für Panoramafotos der Inseln.",
                 "hu": "A legjobb időpont panorámafotókhoz a szigetekről.",
                 "ro": "Cel mai bun moment pentru fotografii panoramice cu insulele.",
-                "en": "Best time for panoramic photos of the islands."
+                "en": "Best time for panoramic photos of the islands.",
+                "hr": "Najbolje vrijeme za panoramske fotografije otoka."
               }
             },
             {
@@ -1306,7 +1481,8 @@
                 "de": "Achtung vor plötzlichem Frost in den Schattenlagen.",
                 "hu": "Vigyázat a hirtelen faggyal az árnyékos részeken.",
                 "ro": "Atenție la înghețul brusc în zonele umbrite.",
-                "en": "Watch out for sudden frost in shaded areas."
+                "en": "Watch out for sudden frost in shaded areas.",
+                "hr": "Pazite na iznenadni mraz u zasjenjenim područjima."
               }
             },
             {
@@ -1315,7 +1491,8 @@
                 "de": "Genießen Sie den Meerblick durch die großen Fenster.",
                 "hu": "Élvezze a tengeri kilátást a nagy ablakokon keresztül.",
                 "ro": "Admirați vederea la mare prin ferestrele mari.",
-                "en": "Enjoy the sea view through the large windows."
+                "en": "Enjoy the sea view through the large windows.",
+                "hr": "Uživajte u pogledu na more kroz velike prozore."
               }
             },
             {
@@ -1324,7 +1501,8 @@
                 "de": "Kein Badebetrieb, ideal für ruhige Strandspaziergänge.",
                 "hu": "Nincs strandélet, ideális nyugodt sétákhoz.",
                 "ro": "Fără scăldat, ideal pentru plimbări liniștite pe plajă.",
-                "en": "No swimming; ideal for quiet beach walks."
+                "en": "No swimming; ideal for quiet beach walks.",
+                "hr": "Nema kupanja; idealno za mirne šetnje plažom."
               }
             },
             {
@@ -1333,7 +1511,8 @@
                 "de": "Die Abenddämmerung beginnt bereits um 16:15 Uhr.",
                 "hu": "Az alkonyat már 16:15-kor elkezdődik.",
                 "ro": "Amurgul începe deja de la ora 16:15.",
-                "en": "Twilight begins as early as 4:15 PM."
+                "en": "Twilight begins as early as 4:15 PM.",
+                "hr": "Sumrak počinje već u 16:15."
               }
             }
           ],
@@ -1365,6 +1544,13 @@
               "Take advantage of the midday sun for outdoor activities.",
               "Plan late afternoon sightseeing for indoor areas.",
               "Check the antifreeze in your windshield washer system."
+            ],
+            "hr": [
+              "Zimske gume su obavezne, posebno za planinsku cestu na Kozjak.",
+              "Planinska cesta ujutro može imati zaleđene dijelove.",
+              "Iskoristite podnevno sunce za aktivnosti na otvorenom.",
+              "Planirajte razgledavanje kasno poslijepodne u zatvorenim prostorima.",
+              "Provjerite antifriz u sustavu za pranje vjetrobranskog stakla."
             ]
           }
         }
@@ -1393,7 +1579,8 @@
             "de": "Linie 37 verbindet Split und Trogir.",
             "hu": "A 37-es buszjárat Split és Trogir között közlekedik.",
             "ro": "Linia 37 face legătura între Split și Trogir.",
-            "en": "Bus line 37 connects Split and Trogir."
+            "en": "Bus line 37 connects Split and Trogir.",
+            "hr": "Autobusna linija 37 povezuje Split i Trogir."
           }
         },
         {
@@ -1411,7 +1598,8 @@
             "de": "Kurzer Fußweg von der Haltestelle zur Riva.",
             "hu": "Rövid séta a megállótól a vízig.",
             "ro": "Scurtă plimbare de la stație la malul mării.",
-            "en": "Short walk from the bus stop to the waterfront."
+            "en": "Short walk from the bus stop to the waterfront.",
+            "hr": "Kratka šetnja od autobusne stanice do rive."
           }
         },
         {
@@ -1429,7 +1617,8 @@
             "de": "Das Herz des alten Dorfes.",
             "hu": "A régi falu szíve.",
             "ro": "Inima vechiului sat.",
-            "en": "The heart of the old village."
+            "en": "The heart of the old village.",
+            "hr": "Srce starog mjesta."
           }
         },
         {
@@ -1447,7 +1636,8 @@
             "de": "Wahrzeichen direkt am Gehweg an der Küste.",
             "hu": "Jellegzetes épület közvetlenül a parti sétányon.",
             "ro": "Clădire emblematică chiar pe faleza pietonală.",
-            "en": "Landmark building right on the coastal walkway."
+            "en": "Landmark building right on the coastal walkway.",
+            "hr": "Znamenita zgrada na samoj obalnoj šetnici."
           }
         },
         {
@@ -1465,7 +1655,8 @@
             "de": "Kombinieren Sie Essen und Baden.",
             "hu": "Ebéd és fürdőzés egy helyen.",
             "ro": "Combinați masa cu o baie în mare.",
-            "en": "Combine dining and swimming."
+            "en": "Combine dining and swimming.",
+            "hr": "Kombinirajte večeru i kupanje."
           }
         },
         {
@@ -1483,7 +1674,8 @@
             "de": "Ruhiger Rückweg entlang der Boote.",
             "hu": "Csendes visszavezető út a hajók mentén.",
             "ro": "Drum de întoarcere liniștit pe lângă bărci.",
-            "en": "Quiet walk back along the boats."
+            "en": "Quiet walk back along the boats.",
+            "hr": "Mirna šetnja natrag uz brodice."
           }
         }
       ],
@@ -1491,7 +1683,8 @@
         "de": "Ideal für Reisende ohne Auto: Mit der Buslinie 37 erreichen Sie Kambelovac bequem. Der Rundgang konzentriert sich auf die historische Küstenlinie, den markanten Turm und die Ballettschule, gefolgt von ausgiebiger Zeit am Strand und in lokalen Restaurants.",
         "hu": "Ideális autó nélküli utazóknak: a 37-es busszal könnyen elérhető Kambelovac. A séta a történelmi partvonalra, a jellegzetes toronyra és a Balettiskolára koncentrál, amit kiadós strandolás és helyi gasztronómiai élmények követnek.",
         "ro": "Ideal pentru călătorii fără mașină: cu linia de autobuz 37 puteți ajunge ușor în Kambelovac. Turul se concentrează pe faleza istorică, turnul marcant și Școala de Balet, urmate de timp generos la plajă și în restaurantele locale.",
-        "en": "Ideal for travelers without a car: bus line 37 makes Kambelovac easily accessible. the walk focuses on the historical coastline, the striking tower, and the Ballet School, followed by plenty of time at the beach and in local restaurants."
+        "en": "Ideal for travelers without a car: bus line 37 makes Kambelovac easily accessible. the walk focuses on the historical coastline, the striking tower, and the Ballet School, followed by plenty of time at the beach and in local restaurants.",
+        "hr": "Idealno za putnike bez automobila: autobusna linija 37 čini Kambelovac lako dostupnim. Šetnja se fokusira na povijesnu obalu, upečatljivu kulu i Baletnu školu, nakon čega slijedi dovoljno vremena na plaži i u lokalnim restoranima."
       },
       "gastro_picks": {
         "de": [
@@ -1516,6 +1709,12 @@
           {
             "name": "Pizzeria Laguna",
             "tip": "Good pizza and pasta near the beach."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pizzeria Laguna",
+            "tip": "Dobra pizza i tjestenina u blizini plaže."
           }
         ]
       },
@@ -1547,6 +1746,13 @@
             "tip": "Find a spot away from the cafes.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Hlad pod borovima",
+            "tip": "Pronađite mjesto dalje od kafića.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1573,6 +1779,12 @@
             "name": "Local kiosk",
             "tip": "Buy your bus tickets here."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni kiosk",
+            "tip": "Ovdje kupite autobusne karte."
+          }
         ]
       },
       "tips": {
@@ -1595,6 +1807,11 @@
           "Tickets can be bought from the driver or at the kiosk.",
           "Bus 37 runs every 20-30 minutes.",
           "The bus stops are well-marked."
+        ],
+        "hr": [
+          "Karte se mogu kupiti kod vozača ili na kiosku.",
+          "Autobus 37 vozi svakih 20-30 minuta.",
+          "Autobusna stajališta su dobro označena."
         ]
       },
       "variants": {
@@ -1603,7 +1820,8 @@
             "de": "Mit dem Bus Linie 37 erkundet man Kaštela auch bei Regen wetterfest. Morgens startet man an der Bushaltestelle und erreicht schnell den Cambi-Turm. Mittags bietet die Kirche Schutz, bevor man zur Baletna škola weiterzieht. Der Regen macht die Wartezeiten an den Haltestellen etwas länger, aber die Busse sind zuverlässig. Der Tag endet mit einem Spaziergang zur Haltestelle, während die Lichter der Stadt im nassen Asphalt reflektieren.",
             "hu": "A 37-es busszal esőben is bejárható Kaštela. Reggel a megállótól gyorsan elérjük a Cambi-tornyot. Délben a templom nyújt menedéket, mielőtt a Baletna iskolához mennénk tovább. Az eső miatt a várakozási idő a megállókban hosszabbnak tűnhet, de a buszok megbízhatóak. A napot a megállóhoz vezető sétával zárjuk, miközben a város fényei tükröződnek a vizes aszfalton.",
             "ro": "Cu autobuzul linia 37 explorăm Kaštela la adăpost de ploaie. Dimineața pornim de la stație și ajungem rapid la Turnul Cambi. La prânz biserica oferă protecție înainte de a merge la Baletna škola. Ploaia face așteptarea în stații să pară mai lungă, dar autobuzele sunt punctuale. Seara se încheie cu o plimbare spre stație, în timp ce luminile orașului se reflectă în asfaltul ud.",
-            "en": "Explore Kaštela weatherproof with bus line 37 even in the rain. In the morning, start at the bus stop and quickly reach Cambi Tower. At noon, the church provides shelter before moving on to the Ballet School. The rain makes waiting times at stops feel longer, but the buses are reliable. The day ends with a walk back to the stop as city lights reflect in the wet asphalt."
+            "en": "Explore Kaštela weatherproof with bus line 37 even in the rain. In the morning, start at the bus stop and quickly reach Cambi Tower. At noon, the church provides shelter before moving on to the Ballet School. The rain makes waiting times at stops feel longer, but the buses are reliable. The day ends with a walk back to the stop as city lights reflect in the wet asphalt.",
+            "hr": "Istražite Kaštela zaštićeni od vremenskih prilika autobusnom linijom 37 čak i po kiši. Ujutro krenite sa stanice i brzo stignite do kule Cambi. U podne crkva pruža zaklon prije odlaska u Baletnu školu. Kiša čini čekanje na stanicama dužim, ali autobusi su pouzdani. Dan završava šetnjom natrag do stanice dok se gradska svjetla odražavaju u mokrom asfaltu."
           },
           "stops": [
             {
@@ -1612,7 +1830,8 @@
                 "de": "Suchen Sie Schutz im Wartehäuschen.",
                 "hu": "Keressen menedéket a váróban.",
                 "ro": "Căutați adăpost în refugiul stației.",
-                "en": "Seek shelter in the bus waiting area."
+                "en": "Seek shelter in the bus waiting area.",
+                "hr": "Potražite zaklon u čekaonici autobusa."
               }
             },
             {
@@ -1621,7 +1840,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle durch die Gassen.",
                 "hu": "Rövid séta a megállótól a szűk utcákon át.",
                 "ro": "Scurtă plimbare de la stație prin străduțe.",
-                "en": "Short walk from the stop through the alleys."
+                "en": "Short walk from the stop through the alleys.",
+                "hr": "Kratka šetnja od stanice kroz uličice."
               }
             },
             {
@@ -1630,7 +1850,8 @@
                 "de": "Halten Sie die Fahrkarte für den nächsten Bus bereit.",
                 "hu": "Tartsa készenlétben a jegyet a következő buszhoz.",
                 "ro": "Pregătiți biletul pentru următorul autobuz.",
-                "en": "Have your ticket ready for the next bus."
+                "en": "Have your ticket ready for the next bus.",
+                "hr": "Pripremite kartu za sljedeći autobus."
               }
             },
             {
@@ -1639,7 +1860,8 @@
                 "de": "Direkt an der Route der Linie 37 gelegen.",
                 "hu": "Közvetlenül a 37-es busz útvonalán található.",
                 "ro": "Situată direct pe ruta liniei 37.",
-                "en": "Located directly on the route of line 37."
+                "en": "Located directly on the route of line 37.",
+                "hr": "Nalazi se izravno na ruti linije 37."
               }
             },
             {
@@ -1648,7 +1870,8 @@
                 "de": "Konobas bieten gemütliche Wärme bei Regen.",
                 "hu": "A konobák kellemes meleget nyújtanak esőben.",
                 "ro": "Konobele oferă o căldură primitoare pe ploaie.",
-                "en": "Konobas offer cozy warmth during the rain."
+                "en": "Konobas offer cozy warmth during the rain.",
+                "hr": "Konobe nude ugodnu toplinu tijekom kiše."
               }
             },
             {
@@ -1657,7 +1880,8 @@
                 "de": "Vorsicht, Pfützen auf dem Weg zur Hauptstraße.",
                 "hu": "Vigyázat, tócsák az úton a főút felé.",
                 "ro": "Atenție la bălțile de pe drumul spre strada principală.",
-                "en": "Watch out for puddles on the way to the main road."
+                "en": "Watch out for puddles on the way to the main road.",
+                "hr": "Pazite na lokve na putu do glavne ceste."
               }
             }
           ],
@@ -1689,6 +1913,13 @@
               "Use the sheltered bus stops along the main road.",
               "A small pocket umbrella fits in any bag.",
               "Buses are often heavily heated in winter."
+            ],
+            "hr": [
+              "Aplikacija 'Promet Split' pokazuje dolaske autobusa u stvarnom vremenu.",
+              "Pripremite točan iznos za kupnju karte kod vozača.",
+              "Koristite natkrivena autobusna stajališta duž glavne ceste.",
+              "Mali džepni kišobran stane u svaku torbu.",
+              "Autobusi su zimi često jako grijani."
             ]
           }
         },
@@ -1697,7 +1928,8 @@
             "de": "Mit dem öffentlichen Nahverkehr ist Kambelovac auch im Winter gut erreichbar. Morgens nutzt man den Bus, um zum historischen Kern zu gelangen. Die Kula Cambi und die umliegenden Gassen sind im Winterlicht besonders fotogen. Mittags wärmt man sich in einer lokalen Konoba auf, bevor man die Baletna škola besucht. Der Tag endet mit einem erfrischenden Spaziergang an der Riva, bevor man den Bus zurück Richtung Split oder Trogir nimmt.",
             "hu": "Tömegközlekedéssel Kambelovac télen is jól elérhető. Reggel busszal érkezünk a történelmi magba. A Kula Cambi és a környező utcák a téli fényben különösen fotogének. Délben egy helyi konobában melegszünk fel, mielőtt ellátogatnánk a Baletna iskolához. A napot egy frissítő tengerparti sétával zárjuk, mielőtt felszállnánk a Split vagy Trogir felé tartó buszra.",
             "ro": "Cu transportul public, Kambelovac este ușor accesibil și iarna. Dimineața folosim autobuzul pentru a ajunge în centrul istoric. Turnul Cambi și străduțele din jur sunt deosebit de fotogenice în lumina de iarnă. La prânz ne încălzim într-o konoba locală înainte de a vizita Baletna škola. Seara se încheie cu o plimbare revigorantă pe faleză înainte de a lua autobuzul spre Split sau Trogir.",
-            "en": "Kambelovac is easily accessible by public transport even in winter. In the morning, use the bus to get to the historic core. The Cambi Tower and surrounding alleys are particularly photogenic in the winter light. At noon, warm up in a local konoba before visiting the Ballet School. The day ends with a refreshing walk on the Riva before taking the bus back towards Split or Trogir."
+            "en": "Kambelovac is easily accessible by public transport even in winter. In the morning, use the bus to get to the historic core. The Cambi Tower and surrounding alleys are particularly photogenic in the winter light. At noon, warm up in a local konoba before visiting the Ballet School. The day ends with a refreshing walk on the Riva before taking the bus back towards Split or Trogir.",
+            "hr": "Kambelovac je lako dostupan javnim prijevozom i zimi. Ujutro koristite autobus za dolazak do povijesne jezgre. Kula Cambi i okolne uličice posebno su fotogenične na zimskom svjetlu. U podne se ugrijte u lokalnoj konobi prije posjeta Baletnoj školi. Dan završava osvježavajućom šetnjom rivom prije povratka autobusom prema Splitu ili Trogiru."
           },
           "stops": [
             {
@@ -1706,7 +1938,8 @@
                 "de": "Im Winter ist der Bus oft pünktlicher wegen weniger Verkehr.",
                 "hu": "Télen a busz gyakran pontosabb a kisebb forgalom miatt.",
                 "ro": "Iarna autobuzul este adesea mai punctual datorită traficului redus.",
-                "en": "In winter, the bus is often more punctual due to less traffic."
+                "en": "In winter, the bus is often more punctual due to less traffic.",
+                "hr": "Zimi je autobus često točniji zbog manje prometa."
               }
             },
             {
@@ -1715,7 +1948,8 @@
                 "de": "Schöner Winterspaziergang von der Haltestelle.",
                 "hu": "Szép téli séta a megállótól.",
                 "ro": "Frumoasă plimbare de iarnă de la stație.",
-                "en": "Nice winter walk from the stop."
+                "en": "Nice winter walk from the stop.",
+                "hr": "Lijepa zimska šetnja od stanice."
               }
             },
             {
@@ -1724,7 +1958,8 @@
                 "de": "Achten Sie auf die Gottesdienstzeiten im Winter.",
                 "hu": "Ügyeljen a téli miseidőpontokra.",
                 "ro": "Atenție la orele slujbelor pe timp de iarnă.",
-                "en": "Note the service times during winter."
+                "en": "Note the service times during winter.",
+                "hr": "Obratite pozornost na vrijeme prometovanja zimi."
               }
             },
             {
@@ -1733,7 +1968,8 @@
                 "de": "Die Haltestelle ist gut beleuchtet.",
                 "hu": "A megálló jól kivilágított.",
                 "ro": "Stația este bine iluminată.",
-                "en": "The bus stop is well-lit."
+                "en": "The bus stop is well-lit.",
+                "hr": "Autobusna stanica je dobro osvijetljena."
               }
             },
             {
@@ -1742,7 +1978,8 @@
                 "de": "Perfekt für eine warme Mahlzeit vor der Rückfahrt.",
                 "hu": "Tökéletes egy meleg étkezéshez a hazautazás előtt.",
                 "ro": "Perfect pentru o masă caldă înainte de drumul de întoarcere.",
-                "en": "Perfect for a warm meal before the trip back."
+                "en": "Perfect for a warm meal before the trip back.",
+                "hr": "Savršeno za topli obrok prije povratka."
               }
             },
             {
@@ -1751,7 +1988,8 @@
                 "de": "Die Sonne geht früh unter, Lichtreflexe auf dem Wasser.",
                 "hu": "A nap korán nyugszik, fényvisszaverődés a vízen.",
                 "ro": "Soarele apune devreme, reflexii de lumină pe apă.",
-                "en": "The sun sets early; enjoy light reflections on the water."
+                "en": "The sun sets early; enjoy light reflections on the water.",
+                "hr": "Sunce rano zalazi; uživajte u odsjajima svjetla na vodi."
               }
             }
           ],
@@ -1783,6 +2021,13 @@
               "Bus stops along the coastal road offer little wind protection.",
               "Wear reflectors if you are out after 5:00 PM.",
               "Line 37 runs every 20 minutes."
+            ],
+            "hr": [
+              "Karte se mogu kupiti i putem aplikacije.",
+              "Vozni red može se malo razlikovati zimi.",
+              "Autobusna stajališta uz obalnu cestu nude malo zaštite od vjetra.",
+              "Nosite reflektirajuće elemente ako ste vani nakon 17:00.",
+              "Linija 37 vozi svakih 20 minuta."
             ]
           }
         }

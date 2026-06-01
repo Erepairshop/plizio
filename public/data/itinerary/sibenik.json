@@ -36,7 +36,8 @@
             "de": "Bewundern Sie die 71 Steinköpfe an der Außenfassade.",
             "hu": "Figyelje meg a külső falon lévő 71 kőfejet.",
             "ro": "Admirați cele 71 de capete de piatră de pe fațada exterioară.",
-            "en": "Look for the 71 stone heads on the exterior facade."
+            "en": "Look for the 71 stone heads on the exterior facade.",
+            "hr": "Potražite 71 kamenu glavu na vanjskoj fasadi."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Das Museum befindet sich im ehemaligen Rektorenpalast.",
             "hu": "A múzeum a hajdani Rektori Palotában működik.",
             "ro": "Muzeul este situat în fostul Palat al Rectorului.",
-            "en": "The museum is located in the former Rector's Palace."
+            "en": "The museum is located in the former Rector's Palace.",
+            "hr": "Muzej se nalazi u bivšoj Kneževoj palači."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Ein ruhiger Ort für einen Kaffee inmitten von Heilkräutern.",
             "hu": "Csendes hely egy kávéhoz a gyógynövények között.",
             "ro": "Un loc liniștit pentru o cafea printre plante medicinale.",
-            "en": "A quiet spot for coffee amidst medicinal herbs."
+            "en": "A quiet spot for coffee amidst medicinal herbs.",
+            "hr": "Mirno mjesto za kavu usred ljekovitog bilja."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Genießen Sie den Blick von der Freilichtbühne auf das Meer.",
             "hu": "Élvezze a kilátást a szabadtéri színpadról a tengerre.",
             "ro": "Bucurați-vă de priveliștea de pe scena în aer liber spre mare.",
-            "en": "Enjoy the view from the open-air stage over the sea."
+            "en": "Enjoy the view from the open-air stage over the sea.",
+            "hr": "Uživajte u pogledu s ljetne pozornice na more."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Nutzen Sie die AR-Brillen, um die Geschichte zu erleben.",
             "hu": "Használja az AR-szemüveget a történelem átéléséhez.",
             "ro": "Folosiți ochelarii AR pentru a experimenta istoria.",
-            "en": "Use the AR glasses to experience the history."
+            "en": "Use the AR glasses to experience the history.",
+            "hr": "Koristite AR naočale za doživljaj povijesti."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Der beste Ort für ein Panoramafoto der Altstadt.",
             "hu": "A legjobb hely egy panorámaképhez az óvárosról.",
             "ro": "Cel mai bun loc pentru o fotografie panoramică a orașului vechi.",
-            "en": "The best spot for a panoramic photo of the old town."
+            "en": "The best spot for a panoramic photo of the old town.",
+            "hr": "Najbolje mjesto za panoramsku fotografiju starog grada."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Šibenik an der UNESCO-geschützten Kathedrale des Heiligen Jakob. Schlendern Sie durch die engen Steingassen zum Rektorenpalast und tauchen Sie im Stadtmuseum in die Geschichte ein. Mittags bietet der mittelalterliche Klostergarten eine grüne Oase der Ruhe. Am Nachmittag erklimmen Sie die Festungen der Stadt: Von St. Michael und Barone aus haben Sie einen spektakulären Blick über den Archipel. Beenden Sie den Tag am Strand Banj mit dem schönsten Sonnenuntergang über der Silhouette der Altstadt.",
         "hu": "Kezdje a napot Šibenik szívében, az UNESCO által védett Szent Jakab-székesegyháznál. Sétáljon a szűk kőutcákon a Rektori Palotáig, és merüljön el a történelemben a Városi Múzeumban. Délben a középkori kolostorkert nyújt zöld nyugalmat. Délután hódítsa meg a város erődjeit: a Szent Mihály és a Barone-erődből lenyűgöző kilátás nyílik a szigetvilágra. A napot a Banj strandon zárja, ahonnan a legszebb a naplemente az óváros sziluettje felett.",
         "ro": "Începeți ziua în inima orașului Šibenik, la Catedrala Sfântul Iacob, protejată de UNESCO. Plimbați-vă pe străduțele înguste de piatră până la Palatul Rectorului și scufundați-vă în istorie la Muzeul Orașului. La prânz, grădina mănăstirii medievale oferă o oază verde de liniște. După-amiaza, cuceriți cetățile orașului: de la Sfântul Mihail și Barone aveți o priveliște spectaculoasă asupra arhipelagului. Încheiați ziua la plaja Banj, cu cel mai frumos apus peste silueta orașului vechi.",
-        "en": "Start your day in the heart of Šibenik at the UNESCO-listed Cathedral of St. James. Wander through narrow stone alleys to the Rector's Palace and dive into history at the City Museum. At midday, the medieval monastery garden offers a green oasis of peace. In the afternoon, conquer the city's fortresses: from St. Michael and Barone, you'll have spectacular views over the archipelago. End the day at Banj Beach with the most beautiful sunset over the old town skyline."
+        "en": "Start your day in the heart of Šibenik at the UNESCO-listed Cathedral of St. James. Wander through narrow stone alleys to the Rector's Palace and dive into history at the City Museum. At midday, the medieval monastery garden offers a green oasis of peace. In the afternoon, conquer the city's fortresses: from St. Michael and Barone, you'll have spectacular views over the archipelago. End the day at Banj Beach with the most beautiful sunset over the old town skyline.",
+        "hr": "Započnite dan u srcu Šibenika kod katedrale sv. Jakova koja je pod zaštitom UNESCO-a. Lutajte uskim kamenim uličicama do Kneževe palače i uronite u povijest u Muzeju grada Šibenika. Sredinom dana srednjovjekovni samostanski vrt nudi zelenu oazu mira. Poslijepodne osvojite gradske tvrđave: s tvrđava sv. Mihovila i Barone pružaju se spektakularni pogledi na arhipelag. Dan završite na plaži Banj uz najljepši zalazak sunca nad siluetom staroga grada."
       },
       "gastro_picks": {
         "de": [
@@ -201,6 +208,16 @@
             "name": "Konoba Marenda",
             "tip": "Authentic traditional dishes."
           }
+        ],
+        "hr": [
+          {
+            "name": "Pelegrini",
+            "tip": "Vrhunska domaća kuhinja odmah uz katedralu."
+          },
+          {
+            "name": "Konoba Marenda",
+            "tip": "Autentična tradicionalna jela."
+          }
         ]
       },
       "quiet_picks": {
@@ -231,6 +248,13 @@
             "tip": "Quiet courtyard with herbal scents.",
             "emoji": "🌿"
           }
+        ],
+        "hr": [
+          {
+            "name": "Samostanski vrt",
+            "tip": "Mirno dvorište prožeto mirisima ljekovitog bilja.",
+            "emoji": "🌿"
+          }
         ]
       },
       "shopping_picks": {
@@ -257,6 +281,12 @@
             "name": "Šibenik Coral",
             "tip": "Traditional red coral jewelry."
           }
+        ],
+        "hr": [
+          {
+            "name": "Šibenski koralj",
+            "tip": "Tradicionalni nakit od crvenog koralja."
+          }
         ]
       },
       "tips": {
@@ -275,6 +305,10 @@
         "en": [
           "Wear comfortable shoes for the many stone stairs.",
           "The climb to the fortresses is steep, take water."
+        ],
+        "hr": [
+          "Nosite udobnu obuću zbog brojnih kamenih stepenica.",
+          "Uspon do tvrđava je strm, ponesite vodu."
         ]
       },
       "variants": {
@@ -283,7 +317,8 @@
             "de": "Morgens schützt die Loggia des Rathauses vor dem Guss. Mittags bietet die Kathedrale trockenen Unterschlupf und spirituelle Ruhe. Nachmittags laden die Museen im Rektorenpalast zur Erkundung ein. Abends endet der Tag gemütlich bei dalmatinischer Küche in den engen, regennassen Gassen der Altstadt.",
             "hu": "A reggelt a Városháza árkádjai alatt kezdjük, védve az esőtől. Délben a katedrális belső tere nyújt száraz menedéket. Délután a Rektori Palota múzeuma tökéletes beltéri program. Az este a szűk sikátorok egyik hangulatos éttermében zárul, ahol a vizes kövek csillogása különleges hangulatot áraszt.",
             "ro": "Dimineața începe sub arcadele Primăriei, protejați de ploaie. La prânz, interiorul catedralei oferă un refugiu uscat și liniștit. După-amiaza, muzeul din Palatul Rectorului este ideal pentru explorare la interior. Seara se încheie confortabil într-un restaurant din orașul vechi, pe străzile lucioase de ploaie.",
-            "en": "Morning starts under the arches of the Town Hall, sheltered from the downpour. At noon, the cathedral's interior offers a dry sanctuary. Afternoon is spent exploring the indoor exhibits of the Rector's Palace. The evening concludes cozily in an old town eatery as the rain glistens on the limestone."
+            "en": "Morning starts under the arches of the Town Hall, sheltered from the downpour. At noon, the cathedral's interior offers a dry sanctuary. Afternoon is spent exploring the indoor exhibits of the Rector's Palace. The evening concludes cozily in an old town eatery as the rain glistens on the limestone.",
+            "hr": "Jutro počinje pod arkadama Gradske vijećnice, zaštićeno od pljuska. U podne unutrašnjost katedrale nudi suho utočište. Poslijepodne provedite istražujući zatvorene izloške Kneževe palače. Večer završava ugodno u restoranu u starom gradu dok kiša svjetluca na vapnencu."
           },
           "stops": [
             {
@@ -292,7 +327,8 @@
                 "de": "Nutzen Sie die Arkaden als Regenschutz.",
                 "hu": "Használja az árkádokat esővédőként.",
                 "ro": "Folosiți arcadele pentru protecție.",
-                "en": "Use the arches for rain shelter."
+                "en": "Use the arches for rain shelter.",
+                "hr": "Koristite arkade kao zaklon od kiše."
               }
             },
             {
@@ -301,7 +337,8 @@
                 "de": "Der Boden ist hier extrem rutschig.",
                 "hu": "A kövezet itt nagyon csúszós.",
                 "ro": "Piatra este extrem de alunecoasă.",
-                "en": "The stone floor is extremely slippery."
+                "en": "The stone floor is extremely slippery.",
+                "hr": "Kameni pod je izuzetno klizav."
               }
             },
             {
@@ -310,7 +347,8 @@
                 "de": "Kleiner, trockener Kunstraum.",
                 "hu": "Apró, száraz művészeti tér.",
                 "ro": "Mic spațiu de artă la interior.",
-                "en": "Small, dry art space inside."
+                "en": "Small, dry art space inside.",
+                "hr": "Mali, suhi umjetnički prostor unutra."
               }
             },
             {
@@ -319,7 +357,8 @@
                 "de": "Idealer Ort, um starken Regen abzuwarten.",
                 "hu": "Ideális hely a zápor kivárására.",
                 "ro": "Loc ideal pentru a aștepta oprirea ploii.",
-                "en": "Ideal place to wait out a heavy shower."
+                "en": "Ideal place to wait out a heavy shower.",
+                "hr": "Idealno mjesto za pričekati da prođe jak pljusak."
               }
             },
             {
@@ -328,7 +367,8 @@
                 "de": "Umfangreiche Ausstellungen im Trockenen.",
                 "hu": "Bőséges beltéri kiállítások.",
                 "ro": "Expoziții interioare bogate.",
-                "en": "Extensive indoor exhibitions."
+                "en": "Extensive indoor exhibitions.",
+                "hr": "Opsežne zatvorene izložbe."
               }
             },
             {
@@ -337,7 +377,8 @@
                 "de": "Das Café bietet überdachte Sitzplätze.",
                 "hu": "A kávézó fedett ülőhelyeket kínál.",
                 "ro": "Cafeneaua are locuri acoperite.",
-                "en": "The cafe offers covered seating."
+                "en": "The cafe offers covered seating.",
+                "hr": "Kafić nudi natkrivena mjesta za sjedenje."
               }
             },
             {
@@ -346,7 +387,8 @@
                 "de": "Wählen Sie ein Lokal mit Innenräumen.",
                 "hu": "Válasszon belső teres éttermet.",
                 "ro": "Alegeți un local cu spațiu interior.",
-                "en": "Choose a place with indoor seating."
+                "en": "Choose a place with indoor seating.",
+                "hr": "Odaberite mjesto s unutarnjim sjedenjem."
               }
             }
           ],
@@ -374,6 +416,12 @@
               "A raincoat is better than an umbrella due to wind.",
               "The cathedral is the best shelter during heavy rain.",
               "Utilize local cafes for dry breaks."
+            ],
+            "hr": [
+              "Nosite obuću koja se ne kliže na mokrom kamenu.",
+              "Kišni ogrtač je bolji od kišobrana zbog vjetra.",
+              "Katedrala je najbolje sklonište tijekom jake kiše.",
+              "Iskoristite lokalne kafiće za pauze na suhom."
             ]
           }
         },
@@ -382,7 +430,8 @@
             "de": "Der Morgen beginnt frisch auf dem Rathausplatz ohne die Sommerhitze. Mittags strahlt die Kathedrale in klarem Winterlicht. Nachmittags bietet der Klostergarten eine friedliche, kühle Oase. Der Abend wird früh bei Kerzenschein und warmen Getränken in einer der gemütlichen Konobas der Altstadt verbracht.",
             "hu": "A reggel frissen indul a városházi téren, nyári tömeg nélkül. Délben a katedrális falai a tiszta téli fényben ragyognak. Délután a kolostorkert békés, hűvös nyugalmat áraszt. Az este korán érkezik, gyertyafénnyel és forró italokkal zárjuk a napot az óváros egyik barátságos vendéglőjében.",
             "ro": "Dimineața începe proaspăt în piața primăriei, fără aglomerație. La prânz, catedrala strălucește în lumina clară de iarnă. După-amiaza, grădina mănăstirii oferă o liniște deplină. Seara vine devreme, fiind petrecută la lumina lumânărilor cu băuturi calde într-o tavernă primitoare.",
-            "en": "Morning starts fresh at the Town Hall square without summer crowds. At noon, the cathedral glows in the clear winter light. Afternoon brings peaceful quiet to the monastery garden. Evening arrives early, spent with candlelight and warm drinks in a cozy old town tavern."
+            "en": "Morning starts fresh at the Town Hall square without summer crowds. At noon, the cathedral glows in the clear winter light. Afternoon brings peaceful quiet to the monastery garden. Evening arrives early, spent with candlelight and warm drinks in a cozy old town tavern.",
+            "hr": "Jutro počinje svježe na trgu ispred Gradske vijećnice bez ljetnih gužvi. U podne katedrala sjaji u čistom zimskom svjetlu. Poslijepodne donosi mir i tišinu u samostanski vrt. Večer stiže rano, uz svijeće i tople napitke u ugodnoj konobi u starom gradu."
           },
           "stops": [
             {
@@ -391,7 +440,8 @@
                 "de": "Genießen Sie den Platz ohne Touristenmassen.",
                 "hu": "Élvezze a teret a tömeg nélkül.",
                 "ro": "Bucurați-vă de piață fără aglomerație.",
-                "en": "Enjoy the square without the crowds."
+                "en": "Enjoy the square without the crowds.",
+                "hr": "Uživajte na trgu bez gužve."
               }
             },
             {
@@ -400,7 +450,8 @@
                 "de": "Kalte Luft staut sich hier; warm anziehen.",
                 "hu": "Itt megreked a hideg; öltözzön rétegesen.",
                 "ro": "Aerul rece stagnează aici; îmbrăcați-vă gros.",
-                "en": "Cold air lingers here; dress warmly."
+                "en": "Cold air lingers here; dress warmly.",
+                "hr": "Ovdje se zadržava hladan zrak; toplo se odjenite."
               }
             },
             {
@@ -409,7 +460,8 @@
                 "de": "Kurze Öffnungszeiten im Winter prüfen.",
                 "hu": "Ellenőrizze a téli nyitvatartást.",
                 "ro": "Verificați programul scurt de iarnă.",
-                "en": "Check shorter winter opening hours."
+                "en": "Check shorter winter opening hours.",
+                "hr": "Provjerite kraće zimsko radno vrijeme."
               }
             },
             {
@@ -418,7 +470,8 @@
                 "de": "Wunderschönes Licht durch die Fenster.",
                 "hu": "Gyönyörű fények az ablakokon át.",
                 "ro": "Lumină superbă prin ferestre.",
-                "en": "Beautiful light through the windows."
+                "en": "Beautiful light through the windows.",
+                "hr": "Prekrasno svjetlo kroz prozore."
               }
             },
             {
@@ -427,7 +480,8 @@
                 "de": "Angenehm temperierte Ausstellungsräume.",
                 "hu": "Kellemesen temperált kiállítóterek.",
                 "ro": "Săli de expoziție încălzite ușor.",
-                "en": "Pleasantly tempered exhibition rooms."
+                "en": "Pleasantly tempered exhibition rooms.",
+                "hr": "Ugodno temperirane izložbene prostorije."
               }
             },
             {
@@ -436,7 +490,8 @@
                 "de": "Viele Pflanzen sind im Winterschlaf.",
                 "hu": "A növények nagy része téli álmot alszik.",
                 "ro": "Multe plante sunt în repaus hibernal.",
-                "en": "Many plants are dormant in winter."
+                "en": "Many plants are dormant in winter.",
+                "hr": "Mnoge biljke miruju zimi."
               }
             },
             {
@@ -445,7 +500,8 @@
                 "de": "Fragen Sie nach einer heißen Suppe.",
                 "hu": "Kérjen egy forró házi levest.",
                 "ro": "Cereți o supă fierbinte de casă.",
-                "en": "Ask for a hot homemade soup."
+                "en": "Ask for a hot homemade soup.",
+                "hr": "Pitajte za domaću toplu juhu."
               }
             }
           ],
@@ -473,6 +529,12 @@
               "The Bura wind can be very biting and cold.",
               "Dress in layers to adjust to the wind.",
               "Some small shops may have reduced hours."
+            ],
+            "hr": [
+              "Zalazak sunca je rano, oko 16:30.",
+              "Bura može biti vrlo oštra i hladna.",
+              "Odjenite se slojevito kako biste se prilagodili vjetru.",
+              "Neke male trgovine mogu imati skraćeno radno vrijeme."
             ]
           }
         }
@@ -506,7 +568,8 @@
             "de": "Ein herrlicher Radweg entlang des Wassers.",
             "hu": "Csodálatos kerékpárút a víz mentén.",
             "ro": "O pistă de biciclete superbă de-a lungul apei.",
-            "en": "A wonderful bike path along the water."
+            "en": "A wonderful bike path along the water.",
+            "hr": "Prekrasna biciklistička staza uz vodu."
           }
         },
         {
@@ -529,7 +592,8 @@
             "de": "UNESCO-Weltkulturerbe am Eingang zum Kanal.",
             "hu": "UNESCO világörökség a csatorna bejáratánál.",
             "ro": "Patrimoniu UNESCO la intrarea în canal.",
-            "en": "UNESCO World Heritage site at the channel entrance."
+            "en": "UNESCO World Heritage site at the channel entrance.",
+            "hr": "UNESCO-va svjetska baština na ulazu u kanal."
           }
         },
         {
@@ -552,7 +616,8 @@
             "de": "Perfekt für eine Mittagspause am Meer.",
             "hu": "Tökéletes egy ebédszünethez a tengerparton.",
             "ro": "Perfect pentru o pauză de prânz la malul mării.",
-            "en": "Perfect for a lunch break by the sea."
+            "en": "Perfect for a lunch break by the sea.",
+            "hr": "Savršeno za pauzu za ručak uz more."
           }
         },
         {
@@ -575,7 +640,8 @@
             "de": "Fahren Sie vorsichtig zwischen den Fußgängern.",
             "hu": "Óvatosan tekerjen a gyalogosok között.",
             "ro": "Mergeți cu atenție printre pietoni.",
-            "en": "Ride carefully among the pedestrians."
+            "en": "Ride carefully among the pedestrians.",
+            "hr": "Vozite oprezno među pješacima."
           }
         }
       ],
@@ -583,7 +649,8 @@
         "de": "Entdecken Sie die Küstenlandschaft von Šibenik auf zwei Rädern. Die Tour führt Sie zuerst durch den Kanal des Heiligen Antonius, einen der schönsten Radwege Kroatiens, bis zum Blick auf die Inselfestung St. Nikolaus. Nach einer ausgiebigen Pause an den Solaris-Stränden radeln Sie zurück zur Uferpromenade Riva, um den Flair der Hafenstadt zu genießen.",
         "hu": "Fedezze fel Šibenik tengerparti tájait két keréken. A túra először a Szent Antal-csatornán vezet végig, amely Horvátország egyik legszebb kerékpárútja, egészen a Szent Miklós-erődig. A Solaris strandokon tartott kiadós pihenő után tekerjen vissza a Riva sétányra, hogy élvezze a kikötőváros hangulatát.",
         "ro": "Descoperiți peisajul de coastă al orașului Šibenik pe două roți. Turul vă poartă mai întâi prin Canalul Sfântul Anton, una dintre cele mai frumoase piste de biciclete din Croația, până la vederea spre cetatea Sfântul Nicolae. După o pauză lungă la plajele Solaris, pedalați înapoi spre promenada Riva pentru a simți atmosfera orașului portuar.",
-        "en": "Explore Šibenik's coastal landscapes on two wheels. The tour first leads you through St. Anthony's Channel, one of Croatia's most beautiful bike paths, to the view of the St. Nicholas island fortress. After an extensive break at the Solaris beaches, cycle back to the Riva waterfront to enjoy the harbor city flair."
+        "en": "Explore Šibenik's coastal landscapes on two wheels. The tour first leads you through St. Anthony's Channel, one of Croatia's most beautiful bike paths, to the view of the St. Nicholas island fortress. After an extensive break at the Solaris beaches, cycle back to the Riva waterfront to enjoy the harbor city flair.",
+        "hr": "Istražite šibenske obalne krajolike na dva kotača. Tura vas prvo vodi kroz kanal sv. Ante, jednu od najljepših biciklističkih staza u Hrvatskoj, do pogleda na otočnu tvrđavu sv. Nikole. Nakon duže pauze na plažama Solarisa, odvozite natrag do rive kako biste uživali u ugođaju lučkog grada."
       },
       "gastro_picks": {
         "de": [
@@ -608,6 +675,12 @@
           {
             "name": "En Vogue Beach Club",
             "tip": "Modern cuisine right on the beach."
+          }
+        ],
+        "hr": [
+          {
+            "name": "En Vogue Beach Club",
+            "tip": "Moderna kuhinja izravno na plaži."
           }
         ]
       },
@@ -639,6 +712,13 @@
             "tip": "View over the archipelago.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac u kanalu",
+            "tip": "Pogled na arhipelag.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -665,6 +745,12 @@
             "name": "Local products",
             "tip": "Homemade olive oil along the way."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni proizvodi",
+            "tip": "Domaće maslinovo ulje uz put."
+          }
         ]
       },
       "tips": {
@@ -683,6 +769,10 @@
         "en": [
           "Rent an e-bike for the slopes in the channel.",
           "The route is mostly flat but sunny."
+        ],
+        "hr": [
+          "Unajmite e-bicikl za uspone u kanalu.",
+          "Ruta je uglavnom ravna, ali sunčana."
         ]
       },
       "variants": {
@@ -691,7 +781,8 @@
             "de": "Vormittags geht es vorsichtig entlang der Riva. Der Aufstieg zur Barone-Festung ist anstrengend, aber das Besucherzentrum bietet Schutz. Mittags erkunden wir die Festungshallen. Nachmittags ist die Fahrt zum Strand Banj kurz und erfrischend. Den Tag lassen wir bei einem warmen Snack mit Blick auf die graue Adria ausklingen.",
             "hu": "Délelőtt óvatosan haladunk a parton. A Barone erődbe vezető út esőben nehezebb, de a látogatóközpont menedéket ad. Délben az erődök belső tereit járjuk be. Délután egy rövid tekerés következik a Banj strandig. A napot egy meleg harapnivalóval zárjuk a szürke Adria látványával.",
             "ro": "Dimineața pedalăm cu grijă de-a lungul falezei. Urcarea la Barone este grea pe ploaie, dar centrul oferă adăpost. La prânz explorăm interiorul fortărețelor. După-amiaza facem o cursă scurtă spre plaja Banj. Încheiem ziua cu o gustare caldă admirând marea cenușie.",
-            "en": "Morning ride is cautious along the waterfront. The climb to Barone is tough in rain, but the visitor center provides cover. At noon, we explore the fortress interiors. Afternoon brings a quick ride to Banj beach. The day ends with a warm snack overlooking the grey Adriatic sea."
+            "en": "Morning ride is cautious along the waterfront. The climb to Barone is tough in rain, but the visitor center provides cover. At noon, we explore the fortress interiors. Afternoon brings a quick ride to Banj beach. The day ends with a warm snack overlooking the grey Adriatic sea.",
+            "hr": "Jutarnja vožnja je oprezna uz obalu. Uspon do Baronea je težak po kiši, ali centar za posjetitelje pruža zaklon. U podne istražujemo unutrašnjost tvrđave. Poslijepodne donosi brzu vožnju do plaže Banj. Dan završava toplim obrokom s pogledom na sivo Jadransko more."
           },
           "stops": [
             {
@@ -700,7 +791,8 @@
                 "de": "Vorsicht vor Pfützen und Algen auf Stein.",
                 "hu": "Vigyázzon a tócsákra és a csúszós algákra.",
                 "ro": "Atenție la bălți și alge pe piatră.",
-                "en": "Watch out for puddles and slippery algae."
+                "en": "Watch out for puddles and slippery algae.",
+                "hr": "Pazite na lokve i skliske alge."
               }
             },
             {
@@ -709,7 +801,8 @@
                 "de": "Das Bistro ist ein toller Regenschutz.",
                 "hu": "A bisztró kiváló esővédő hely.",
                 "ro": "Bistroul este un adăpost excelent.",
-                "en": "The bistro is a great rain shelter."
+                "en": "The bistro is a great rain shelter.",
+                "hr": "Bistro je odličan zaklon od kiše."
               }
             },
             {
@@ -718,7 +811,8 @@
                 "de": "Der Pfad kann schlammig sein.",
                 "hu": "Az ösvény sáros lehet.",
                 "ro": "Poteca poate fi noroioasă.",
-                "en": "The path can be muddy."
+                "en": "The path can be muddy.",
+                "hr": "Staza može biti blatnjava."
               }
             },
             {
@@ -727,7 +821,8 @@
                 "de": "Besuchen Sie die Ausstellungen im Keller.",
                 "hu": "Nézze meg az alsó szint kiállításait.",
                 "ro": "Vizitați expozițiile de la subsol.",
-                "en": "Visit the exhibitions in the basement."
+                "en": "Visit the exhibitions in the basement.",
+                "hr": "Posjetite izložbe u podrumu."
               }
             },
             {
@@ -736,7 +831,8 @@
                 "de": "Bei Wind hohe Wellen an der Promenade.",
                 "hu": "Szeles időben nagy hullámok a parton.",
                 "ro": "Valuri mari la promenadă pe vânt.",
-                "en": "High waves at the promenade if windy."
+                "en": "High waves at the promenade if windy.",
+                "hr": "Visoki valovi na šetnici ako je vjetrovito."
               }
             },
             {
@@ -745,7 +841,8 @@
                 "de": "Warme Getränke wärmen nach der Fahrt.",
                 "hu": "A forró italok jól esnek a tekerés után.",
                 "ro": "Băuturile calde prind bine după drum.",
-                "en": "Hot drinks are great after the ride."
+                "en": "Hot drinks are great after the ride.",
+                "hr": "Topli napitci prijaju nakon vožnje."
               }
             }
           ],
@@ -773,6 +870,12 @@
               "Avoid sharp turns on the waterfront.",
               "Use waterproof bike panniers.",
               "Lights are essential even in grey weather."
+            ],
+            "hr": [
+              "Kočite vrlo oprezno na mokrom kamenju.",
+              "Izbjegavajte oštra skretanja na rivi.",
+              "Koristite vodootporne torbe za bicikl.",
+              "Svjetla su neophodna čak i po sivom vremenu."
             ]
           }
         },
@@ -781,7 +884,8 @@
             "de": "Ein klarer Wintermorgen an der Riva mit frischer Meeresbrise. Der Anstieg zu den Festungen hält warm. Mittags genießen wir das Panorama bei strahlendem Sonnenschein. Nachmittags radeln wir zum Banj-Strand, bevor die Kälte anzieht. Den Abend verbringen wir bei einem heißen Tee in der Nähe des Hafens.",
             "hu": "Tiszta téli reggel a parton friss tengeri szellővel. Az erődökhöz vezető emelkedő segít bemelegedni. Délben élvezzük a panorámát a ragyogó napsütésben. Délután a Banj strandig tekerünk, mielőtt beáll a hideg. Az estét egy forró tea mellett töltjük a kikötő közelében.",
             "ro": "O dimineață senină de iarnă pe faleză cu briză proaspătă. Urcarea spre fortărețe ne ține de cald. La prânz admirăm panorama în soarele strălucitor. După-amiaza pedalăm spre Banj înainte să se lase frigul. Seara ne încălzim cu un ceai lângă port.",
-            "en": "A clear winter morning at the waterfront with fresh sea breeze. The climb to the fortresses keeps the body warm. At noon, enjoy the panorama in the bright sun. Afternoon ride to Banj beach before the cold sets in. Evening is spent with hot tea near the harbor."
+            "en": "A clear winter morning at the waterfront with fresh sea breeze. The climb to the fortresses keeps the body warm. At noon, enjoy the panorama in the bright sun. Afternoon ride to Banj beach before the cold sets in. Evening is spent with hot tea near the harbor.",
+            "hr": "Čisto zimsko jutro na rivi uz svježi morski povjetarac. Uspon do tvrđava grije tijelo. U podne uživajte u panorami na jarkom suncu. Poslijepodnevna vožnja do plaže Banj prije nego što zahladi. Večer se provodi uz topli čaj u blizini luke."
           },
           "stops": [
             {
@@ -790,7 +894,8 @@
                 "de": "Tragen Sie winddichte Handschuhe.",
                 "hu": "Viseljen szélálló kesztyűt.",
                 "ro": "Purtați mănuși rezistente la vânt.",
-                "en": "Wear windproof gloves."
+                "en": "Wear windproof gloves.",
+                "hr": "Nosite rukavice otporne na vjetar."
               }
             },
             {
@@ -799,7 +904,8 @@
                 "de": "Spektakuläre Fernsicht im Winter.",
                 "hu": "Télen látványos a távolabbi kilátás.",
                 "ro": "Vizibilitate spectaculoasă iarna.",
-                "en": "Spectacular long-distance views in winter."
+                "en": "Spectacular long-distance views in winter.",
+                "hr": "Spektakularni daleki pogledi zimi."
               }
             },
             {
@@ -808,7 +914,8 @@
                 "de": "Perfekter Ort für die Wintersonne.",
                 "hu": "Tökéletes hely a téli napsütéshez.",
                 "ro": "Loc perfect pentru soarele de iarnă.",
-                "en": "Perfect spot for the winter sun."
+                "en": "Perfect spot for the winter sun.",
+                "hr": "Savršeno mjesto za zimsko sunce."
               }
             },
             {
@@ -817,7 +924,8 @@
                 "de": "Windig; Kopfbedeckung empfohlen.",
                 "hu": "Szeles hely; sapka ajánlott.",
                 "ro": "Vânt puternic; se recomandă căciulă.",
-                "en": "Windy spot; headwear recommended."
+                "en": "Windy spot; headwear recommended.",
+                "hr": "Vjetrovito mjesto; preporučuje se kapa."
               }
             },
             {
@@ -826,7 +934,8 @@
                 "de": "Ruhige Atmosphäre ohne Badegäste.",
                 "hu": "Csendes hangulat fürdőzők nélkül.",
                 "ro": "Atmosferă liniștită fără turiști.",
-                "en": "Quiet atmosphere without swimmers."
+                "en": "Quiet atmosphere without swimmers.",
+                "hr": "Mirna atmosfera bez kupača."
               }
             },
             {
@@ -835,7 +944,8 @@
                 "de": "Wählen Sie einen sonnigen Außenplatz.",
                 "hu": "Keressen egy napos külső asztalt.",
                 "ro": "Căutați un loc însorit la exterior.",
-                "en": "Look for a sunny outdoor spot."
+                "en": "Look for a sunny outdoor spot.",
+                "hr": "Potražite sunčano mjesto na otvorenom."
               }
             }
           ],
@@ -863,6 +973,12 @@
               "Warm socks are mandatory for winter rides.",
               "Check tire pressure in cold weather.",
               "Return home before it gets dark."
+            ],
+            "hr": [
+              "Zaštitite lice od hladnog vjetra.",
+              "Tople čarape su obavezne za zimske vožnje.",
+              "Provjerite tlak u gumama po hladnom vremenu.",
+              "Vratite se prije nego što padne mrak."
             ]
           }
         }
@@ -896,7 +1012,8 @@
             "de": "Parken Sie im Parkhaus Poljana.",
             "hu": "Parkoljon a Poljana mélygarázsban.",
             "ro": "Parcați în parcarea Poljana.",
-            "en": "Park in the Poljana underground garage."
+            "en": "Park in the Poljana underground garage.",
+            "hr": "Parkirajte u podzemnoj garaži Poljana."
           }
         },
         {
@@ -919,7 +1036,8 @@
             "de": "Kurzer Fußweg vom Parkplatz zur Festung.",
             "hu": "Rövid séta a parkolótól az erődig.",
             "ro": "Scurtă plimbare de la parcare la cetate.",
-            "en": "Short walk from the parking to the fortress."
+            "en": "Short walk from the parking to the fortress.",
+            "hr": "Kratka šetnja od parkinga do tvrđave."
           }
         },
         {
@@ -942,7 +1060,8 @@
             "de": "Nehmen Sie das Boot von Skradin zum Wasserfall.",
             "hu": "Hajózzon Skradinból a vízeséshez.",
             "ro": "Luați barca din Skradin spre cascadă.",
-            "en": "Take the boat from Skradin to the waterfall."
+            "en": "Take the boat from Skradin to the waterfall.",
+            "hr": "Uzmite brod iz Skradina do slapa."
           }
         },
         {
@@ -965,7 +1084,8 @@
             "de": "Probieren Sie das unter der Glocke (Peka) gebackene Brot.",
             "hu": "Kóstolja meg a harang alatt (peka) sült kenyeret.",
             "ro": "Gustați pâinea coaptă sub clopot (peka).",
-            "en": "Try the bread baked under the bell (peka)."
+            "en": "Try the bread baked under the bell (peka).",
+            "hr": "Probajte kruh ispečen pod pekom."
           }
         }
       ],
@@ -973,7 +1093,8 @@
         "de": "Dieser Tag kombiniert die Kultur von Šibenik mit der Natur des Krka Nationalparks. Parken Sie zuerst zentral, um die Altstadt und die Festung St. Michael zu erkunden. Mittags fahren Sie ins nahegelegene Skradin, dem Tor zu den spektakulären Skradinski-Buk-Wasserfällen. Den Abend lassen Sie in einem traditionellen dalmatinischen Dorf ausklingen, wo Sie lokale Spezialitäten in rustikalem Ambiente genießen.",
         "hu": "Ez a nap Šibenik kultúráját és a Krka Nemzeti Park természetét ötvözi. Parkoljon le a központban, hogy felfedezze az óvárost és a Szent Mihály-erődöt. Délben hajtson a közeli Skradinba, amely a látványos Skradinski buk vízesések kapuja. Az estét egy hagyományos dalmát faluban zárja, ahol rusztikus környezetben élvezheti a helyi specialitásokat.",
         "ro": "Această zi combină cultura orașului Šibenik cu natura Parcului Național Krka. Parcați mai întâi central pentru a explora orașul vechi și cetatea Sfântul Mihail. La prânz, conduceți spre Skradin, poarta către spectaculoasele cascade Skradinski buk. Încheiați seara într-un sat tradițional dalmat, unde puteți savura specialități locale într-un ambient rustic.",
-        "en": "This day combines the culture of Šibenik with the nature of Krka National Park. First, park centrally to explore the old town and St. Michael's Fortress. At noon, drive to nearby Skradin, the gateway to the spectacular Skradinski Buk waterfalls. End the evening in a traditional Dalmatian village, enjoying local specialties in a rustic setting."
+        "en": "This day combines the culture of Šibenik with the nature of Krka National Park. First, park centrally to explore the old town and St. Michael's Fortress. At noon, drive to nearby Skradin, the gateway to the spectacular Skradinski Buk waterfalls. End the evening in a traditional Dalmatian village, enjoying local specialties in a rustic setting.",
+        "hr": "Ovaj dan spaja kulturu Šibenika s prirodom Nacionalnog parka Krka. Prvo parkirajte u centru kako biste istražili stari grad i tvrđavu sv. Mihovila. U podne se odvezite do obližnjeg Skradina, vrata spektakularnih slapova Skradinskog buka. Večer završite u tradicionalnom dalmatinskom selu, uživajući u lokalnim specijalitetima u rustikalnom okruženju."
       },
       "gastro_picks": {
         "de": [
@@ -998,6 +1119,12 @@
           {
             "name": "Konoba Vinko",
             "tip": "Famous for lamb meat and Dalmatian prosciutto."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Vinko",
+            "tip": "Poznata po janjetini i dalmatinskom pršutu."
           }
         ]
       },
@@ -1029,6 +1156,13 @@
             "tip": "Quiet river view.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Skradinska riva",
+            "tip": "Mirni pogled na rijeku.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1055,6 +1189,12 @@
             "name": "Agro-trade",
             "tip": "Homemade cheese and figs."
           }
+        ],
+        "hr": [
+          {
+            "name": "Agro-trade",
+            "tip": "Domaći sir i smokve."
+          }
         ]
       },
       "tips": {
@@ -1073,6 +1213,10 @@
         "en": [
           "Book Krka tickets online in advance.",
           "In high season, parking in Šibenik is challenging."
+        ],
+        "hr": [
+          "Rezervirajte ulaznice za Krku online unaprijed.",
+          "U jeku sezone parkiranje u Šibeniku je izazov."
         ]
       },
       "variants": {
@@ -1081,7 +1225,8 @@
             "de": "Morgens erkunden wir Šibenik per Auto mit kurzen Wegen. Mittags ist die St. Nikolaus Festung ein mystischer Anblick im Regen. Danach geht es zum Krka Nationalpark, wo die Wasserfälle bei Regen besonders kraftvoll sind. Abends genießen wir ein Panorama von der Barone-Festung und ein warmes Abendessen.",
             "hu": "Reggel autóval fedezzük fel Šibeniket, minimalizálva az esőt. Délben a Szent Miklós erőd misztikus látványt nyújt az esőben. Ezután a Krka Nemzeti Parkba megyünk; a vízesések ilyenkor a legerősebbek. Este a Barone erőd panorámája és egy meleg vacsora vár ránk.",
             "ro": "Dimineața explorăm Šibenik cu mașina, evitând ploaia. La prânz, fortăreața Sf. Nicolae arată mistic prin picăturile de apă. Urmează Parcul Krka, unde cascadele sunt spectaculoase pe ploaie. Seara admirăm panorama de la Barone și luăm o cină caldă.",
-            "en": "Morning explore Šibenik by car with minimal walking. At noon, St. Nicholas fortress looks mystical in the rain. Then off to Krka National Park; waterfalls are most powerful during rain. Evening brings a panorama from Barone and a warm dinner."
+            "en": "Morning explore Šibenik by car with minimal walking. At noon, St. Nicholas fortress looks mystical in the rain. Then off to Krka National Park; waterfalls are most powerful during rain. Evening brings a panorama from Barone and a warm dinner.",
+            "hr": "Ujutro istražite Šibenik automobilom uz minimalno hodanje. U podne tvrđava sv. Nikole izgleda mistično na kiši. Zatim odlazak u Nacionalni park Krka; slapovi su najmoćniji tijekom kiše. Večer donosi panoramu s Baronea i toplu večeru."
           },
           "stops": [
             {
@@ -1090,7 +1235,8 @@
                 "de": "Nutzen Sie Parkhäuser für trockenes Aussteigen.",
                 "hu": "Használjon parkolóházat a száraz kiszálláshoz.",
                 "ro": "Folosiți parcările acoperite.",
-                "en": "Use parking garages for dry exit."
+                "en": "Use parking garages for dry exit.",
+                "hr": "Koristite parkirne garaže za izlazak na suho."
               }
             },
             {
@@ -1099,7 +1245,8 @@
                 "de": "Besichtigung per Boot ist oft überdacht.",
                 "hu": "A hajós túra gyakran fedett.",
                 "ro": "Turul cu barca este adesea acoperit.",
-                "en": "The boat tour is often covered."
+                "en": "The boat tour is often covered.",
+                "hr": "Izlet brodom je često natkriven."
               }
             },
             {
@@ -1108,7 +1255,8 @@
                 "de": "Regenschutz für Kameras nicht vergessen.",
                 "hu": "Ne felejtse el a fényképezőgép védelmét.",
                 "ro": "Nu uitați protecția pentru cameră.",
-                "en": "Don't forget rain protection for cameras."
+                "en": "Don't forget rain protection for cameras.",
+                "hr": "Ne zaboravite zaštitu od kiše za fotoaparate."
               }
             },
             {
@@ -1117,7 +1265,8 @@
                 "de": "Toller Blick direkt aus dem Bistro.",
                 "hu": "Nagyszerű kilátás közvetlenül a bisztróból.",
                 "ro": "Vedere superbă direct din bistro.",
-                "en": "Great view directly from the bistro."
+                "en": "Great view directly from the bistro.",
+                "hr": "Odličan pogled izravno iz bistroa."
               }
             },
             {
@@ -1126,7 +1275,8 @@
                 "de": "Restaurants am Stadtrand bieten Parkplätze.",
                 "hu": "A peremkerületi éttermeknél könnyebb parkolni.",
                 "ro": "Restaurantele de la marginea orașului au parcări.",
-                "en": "Suburban restaurants offer easier parking."
+                "en": "Suburban restaurants offer easier parking.",
+                "hr": "Restorani u predgrađu nude lakše parkiranje."
               }
             }
           ],
@@ -1154,6 +1304,12 @@
               "Park close to destinations to avoid rain.",
               "Krka is much less crowded during rain.",
               "Car heating helps with defogging windows."
+            ],
+            "hr": [
+              "Vozite oprezno po zavojitim obalnim cestama.",
+              "Parkirajte blizu odredišta kako biste izbjegli kišu.",
+              "Na Krki je puno manja gužva tijekom kiše.",
+              "Grijanje automobila pomaže u odmagljivanju stakala."
             ]
           }
         },
@@ -1162,7 +1318,8 @@
             "de": "Der Wintermorgen beginnt entspannt in der Altstadt. Die Fahrt zur St. Nikolaus Festung bietet klare Ausblicke auf den Kanal. Mittags erkunden wir den Krka Nationalpark in absoluter Stille. Nachmittags genießen wir den Sonnenuntergang von Barone. Ein herzhaftes dalmatinisches Abendessen bildet den perfekten Abschluss.",
             "hu": "A téli reggel nyugodtan indul az óvárosban. A Szent Miklós erődhöz vezető út tiszta kilátást nyújt a csatornára. Délben a Krka Nemzeti Parkot járjuk be teljes csendben. Délután élvezzük a naplementét a Barone erődből. Egy bőséges dalmát vacsora teszi teljessé a napot.",
             "ro": "Dimineața de iarnă începe relaxat în orașul vechi. Drumul spre Sf. Nicolae oferă vederi clare asupra canalului. La prânz explorăm Parcul Krka în liniște deplină. După-amiaza admirăm apusul de la Barone. O cină dalmată consistentă încheie ziua perfect.",
-            "en": "Winter morning starts relaxed in the old town. The drive to St. Nicholas offers clear views of the channel. At noon, explore Krka National Park in absolute silence. Afternoon brings a sunset view from Barone. A hearty Dalmatian dinner completes the day."
+            "en": "Winter morning starts relaxed in the old town. The drive to St. Nicholas offers clear views of the channel. At noon, explore Krka National Park in absolute silence. Afternoon brings a sunset view from Barone. A hearty Dalmatian dinner completes the day.",
+            "hr": "Zimsko jutro počinje opušteno u starom gradu. Vožnja do sv. Nikole nudi jasne poglede na kanal. U podne istražite Nacionalni park Krka u apsolutnoj tišini. Poslijepodne donosi pogled na zalazak sunca s Baronea. Obilna dalmatinska večera upotpunjuje dan."
           },
           "stops": [
             {
@@ -1171,7 +1328,8 @@
                 "de": "Parkplätze im Winter leicht zu finden.",
                 "hu": "Télen könnyű parkolóhelyet találni.",
                 "ro": "Parcări ușor de găsit în timpul iernii.",
-                "en": "Parking is easy to find in winter."
+                "en": "Parking is easy to find in winter.",
+                "hr": "Parking je lako pronaći zimi."
               }
             },
             {
@@ -1180,7 +1338,8 @@
                 "de": "Warmer Wind im Auto genießen.",
                 "hu": "Élvezze a meleget az autóban a parton.",
                 "ro": "Bucurați-vă de căldură în mașină pe țărm.",
-                "en": "Enjoy the warmth in the car by the shore."
+                "en": "Enjoy the warmth in the car by the shore.",
+                "hr": "Uživajte u toplini u autu uz obalu."
               }
             },
             {
@@ -1189,7 +1348,8 @@
                 "de": "Günstigere Eintrittspreise im Winter.",
                 "hu": "Télen sokkal olcsóbb a belépő.",
                 "ro": "Prețuri de intrare reduse iarna.",
-                "en": "Lower entrance fees during winter."
+                "en": "Lower entrance fees during winter.",
+                "hr": "Niže cijene ulaznica tijekom zime."
               }
             },
             {
@@ -1198,7 +1358,8 @@
                 "de": "Warmer Tee im Bistro bei Sonnenuntergang.",
                 "hu": "Forró tea a bisztróban naplementekor.",
                 "ro": "Ceai cald la bistro la apus.",
-                "en": "Hot tea at the bistro during sunset."
+                "en": "Hot tea at the bistro during sunset.",
+                "hr": "Topli čaj u bistrou tijekom zalaska sunca."
               }
             },
             {
@@ -1207,7 +1368,8 @@
                 "de": "Probieren Sie den lokalen Rotwein.",
                 "hu": "Kóstolja meg a helyi vörösborokat.",
                 "ro": "Gustați vinul roșu local.",
-                "en": "Try the local red wines."
+                "en": "Try the local red wines.",
+                "hr": "Probajte lokalna crna vina."
               }
             }
           ],
@@ -1235,6 +1397,12 @@
               "Some side roads might be slippery.",
               "Daytime running lights are mandatory in winter.",
               "Benefit from low traffic and quick travel."
+            ],
+            "hr": [
+              "Provjerite antifriz u hladnjaku.",
+              "Neke sporedne ceste mogu biti skliske.",
+              "Dnevna svjetla su obavezna zimi.",
+              "Iskoristite slab promet i brže putovanje."
             ]
           }
         }
@@ -1268,7 +1436,8 @@
             "de": "Zentraler Knotenpunkt für alle Linien.",
             "hu": "Minden vonal központi csomópontja.",
             "ro": "Nodul central pentru toate liniile.",
-            "en": "Central hub for all bus lines."
+            "en": "Central hub for all bus lines.",
+            "hr": "Središnje čvorište za sve autobusne linije."
           }
         },
         {
@@ -1291,7 +1460,8 @@
             "de": "Besuchen Sie den lokalen Markt am Morgen.",
             "hu": "Látogasson el a helyi piacra reggel.",
             "ro": "Vizitați piața locală dimineața.",
-            "en": "Visit the local market in the morning."
+            "en": "Visit the local market in the morning.",
+            "hr": "Posjetite lokalnu tržnicu ujutro."
           }
         },
         {
@@ -1314,7 +1484,8 @@
             "de": "Nur 5 Minuten Fußweg vom Markt.",
             "hu": "Csak 5 perc séta a piactól.",
             "ro": "La doar 5 minute de mers pe jos de piață.",
-            "en": "Only a 5-minute walk from the market."
+            "en": "Only a 5-minute walk from the market.",
+            "hr": "Samo 5 minuta hoda od tržnice."
           }
         },
         {
@@ -1337,7 +1508,8 @@
             "de": "Der Bus fährt regelmäßig vom Terminal ab.",
             "hu": "A busz rendszeresen indul a terminálról.",
             "ro": "Autobuzul pleacă regulat de la terminal.",
-            "en": "The bus departs regularly from the terminal."
+            "en": "The bus departs regularly from the terminal.",
+            "hr": "Autobus redovito polazi s terminala."
           }
         }
       ],
@@ -1345,7 +1517,8 @@
         "de": "Erkunden Sie Šibenik stressfrei mit den öffentlichen Verkehrsmitteln. Beginnen Sie am Hauptbusbahnhof und tauchen Sie direkt in das bunte Markttreiben der Altstadt ein. Nach einem Besuch der Kathedrale bringt Sie die Buslinie 4 direkt zu den weitläufigen Solaris-Stränden, wo Sie den Nachmittag mit Schwimmen und Entspannen verbringen können, bevor Sie bequem in die Stadt zurückkehren.",
         "hu": "Fedezze fel Šibeniket stresszmentesen, tömegközlekedéssel. Kezdjen a főpályaudvaron, és vesse bele magát az óváros színes piaci forgatagába. A székesegyház megtekintése után a 4-es busz közvetlenül a tágas Solaris strandokra viszi, ahol úszással és pihenéssel töltheti a délutánt, mielőtt kényelmesen visszatérne a városba.",
         "ro": "Explorați Šibenik fără stres, folosind transportul public. Începeți la autogara principală și scufundați-vă direct în agitația pieței colorate din orașul vechi. După o vizită la catedrală, linia de autobuz 4 vă duce direct la plajele întinse Solaris, unde vă puteți petrece după-amiaza înotând și relaxându-vă, înainte de a reveni confortabil în oraș.",
-        "en": "Explore Šibenik stress-free with public transport. Start at the main bus station and dive straight into the colorful market bustle of the old town. After a visit to the cathedral, bus line 4 takes you directly to the spacious Solaris beaches, where you can spend the afternoon swimming and relaxing before returning comfortably to the city."
+        "en": "Explore Šibenik stress-free with public transport. Start at the main bus station and dive straight into the colorful market bustle of the old town. After a visit to the cathedral, bus line 4 takes you directly to the spacious Solaris beaches, where you can spend the afternoon swimming and relaxing before returning comfortably to the city.",
+        "hr": "Istražite Šibenik bez stresa uz javni prijevoz. Krenite s glavnog autobusnog kolodvora i uronite izravno u šarenilo tržnice u starom gradu. Nakon posjeta katedrali, autobusna linija 4 vodi vas izravno do prostranih plaža Solarisa, gdje možete provesti poslijepodne kupajući se i opuštajući se prije udobnog povratka u grad."
       },
       "gastro_picks": {
         "de": [
@@ -1370,6 +1543,12 @@
           {
             "name": "Marenda",
             "tip": "Authentic, affordable lunch for locals."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Marenda",
+            "tip": "Autentičan, povoljan ručak za lokalno stanovništvo."
           }
         ]
       },
@@ -1401,6 +1580,13 @@
             "tip": "Quiet forest park above the city.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Park Šubićevac",
+            "tip": "Mirna park-šuma iznad grada.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1427,6 +1613,12 @@
             "name": "Šibenik Market",
             "tip": "Fresh fruit and local products."
           }
+        ],
+        "hr": [
+          {
+            "name": "Šibenska tržnica",
+            "tip": "Svježe voće i lokalni proizvodi."
+          }
         ]
       },
       "tips": {
@@ -1445,6 +1637,10 @@
         "en": [
           "Buy bus tickets from the driver or at the kiosk.",
           "Buses are often crowded in summer."
+        ],
+        "hr": [
+          "Kupite autobusne karte kod vozača ili na kiosku.",
+          "Autobusi su ljeti često krcati."
         ]
       },
       "variants": {
@@ -1453,7 +1649,8 @@
             "de": "Morgens am Poljana-Platz nutzen wir den Bus für kurze Wege. Mittags ist die Kathedrale ein trockenes Highlight. Die Festung St. Michael bietet im Inneren interessante Ausstellungen. Nachmittags ist die Fahrt zum Banj-Strand im Bus gemütlich. Der Tag endet mit einem Besuch in einer traditionellen Konoba im Schutze der Gassen.",
             "hu": "Reggel a Poljana téren szállunk buszra, elkerülve az ázást. Délben a katedrális a legfőbb száraz látnivaló. A Szent Mihály erőd belső terei érdekes kiállításokat rejtenek. Délután kényelmes buszozás következik a Banj strandig. A napot egy hagyományos konobában zárjuk a védett sikátorok mélyén.",
             "ro": "Dimineața la Poljana folosim autobuzul pentru a evita ploaia. La prânz, catedrala este atracția principală la uscat. Cetatea Sf. Mihail oferă expoziții interioare interesante. După-amiaza mergem cu autobuzul spre Banj. Ziua se încheie într-o tavernă tradițională în adăpostul străzilor.",
-            "en": "Morning at Poljana square, we take the bus to stay dry. At noon, the cathedral is a dry highlight. St. Michael's fortress offers interesting indoor exhibits. Afternoon ride to Banj beach is comfortable by bus. The day ends in a traditional tavern deep in the sheltered alleys."
+            "en": "Morning at Poljana square, we take the bus to stay dry. At noon, the cathedral is a dry highlight. St. Michael's fortress offers interesting indoor exhibits. Afternoon ride to Banj beach is comfortable by bus. The day ends in a traditional tavern deep in the sheltered alleys.",
+            "hr": "Jutro na trgu Poljana, idemo autobusom kako bismo ostali suhi. U podne katedrala je vrhunac na suhom. Tvrđava sv. Mihovila nudi zanimljive zatvorene izloške. Poslijepodnevna vožnja do plaže Banj udobna je autobusom. Dan završava u tradicionalnoj konobi duboko u zaštićenim uličicama."
           },
           "stops": [
             {
@@ -1462,7 +1659,8 @@
                 "de": "Die Tiefgarage bietet trockene Wartebereiche.",
                 "hu": "A mélygarázs fedett várakozóhelyet kínál.",
                 "ro": "Parcarea subterană oferă zonă de așteptare.",
-                "en": "The underground garage offers dry waiting."
+                "en": "The underground garage offers dry waiting.",
+                "hr": "Podzemna garaža nudi čekanje na suhom."
               }
             },
             {
@@ -1471,7 +1669,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Rövid séta a buszmegállótól.",
                 "ro": "Drum scurt pe jos de la stație.",
-                "en": "Short walk from the bus stop."
+                "en": "Short walk from the bus stop.",
+                "hr": "Kratka šetnja od autobusne stanice."
               }
             },
             {
@@ -1480,7 +1679,8 @@
                 "de": "Zuschauerraum unter der Bühne ist trocken.",
                 "hu": "A színpad alatti nézőtér fedett.",
                 "ro": "Zona de sub scenă este acoperită.",
-                "en": "The area under the stage is covered."
+                "en": "The area under the stage is covered.",
+                "hr": "Prostor ispod pozornice je natkriven."
               }
             },
             {
@@ -1489,7 +1689,8 @@
                 "de": "Busse halten direkt an der Promenade.",
                 "hu": "A buszok közvetlenül a parton állnak meg.",
                 "ro": "Autobuzele opresc chiar lângă faleză.",
-                "en": "Buses stop right by the promenade."
+                "en": "Buses stop right by the promenade.",
+                "hr": "Autobusi staju odmah uz šetnicu."
               }
             },
             {
@@ -1498,7 +1699,8 @@
                 "de": "Kulturstopp im Regen.",
                 "hu": "Kulturális megálló esőben.",
                 "ro": "Popas cultural pe ploaie.",
-                "en": "Cultural stop during rain."
+                "en": "Cultural stop during rain.",
+                "hr": "Kulturna postaja tijekom kiše."
               }
             },
             {
@@ -1507,7 +1709,8 @@
                 "de": "Genießen Sie den Abend ohne Parkplatzsuche.",
                 "hu": "Élvezze az estét parkolási gondok nélkül.",
                 "ro": "Savurați seara fără grija parcării.",
-                "en": "Enjoy the evening without parking worries."
+                "en": "Enjoy the evening without parking worries.",
+                "hr": "Uživajte u večeri bez brige o parkiranju."
               }
             }
           ],
@@ -1535,6 +1738,12 @@
               "Poljana is the best transfer point in rain.",
               "Buses can be crowded during bad weather.",
               "Have exact change ready for the ticket."
+            ],
+            "hr": [
+              "Preuzmite aplikaciju za prijevoz za informacije u stvarnom vremenu.",
+              "Poljana je najbolja točka za presjedanje po kiši.",
+              "Autobusi mogu biti puni tijekom lošeg vremena.",
+              "Pripremite točan iznos za kartu."
             ]
           }
         },
@@ -1543,7 +1752,8 @@
             "de": "Morgens herrscht am Poljana-Zentrum reges Wintertreiben. Die Kathedrale wirkt im klaren Licht der Nebensaison majestätisch. Mittags bietet St. Michael tolle Ausblicke über die winterliche Stadt. Nachmittags spazieren wir am Banj-Strand, bevor der Bus uns zurückbringt. Der Tag endet warm und gesellig in einer lokalen Konoba.",
             "hu": "Reggel a Poljana központban zajlik a téli élet. A katedrális fenséges a szezonon kívüli tiszta fényben. Délben a Szent Mihály erőd remek kilátást nyújt a téli városra. Délután a Banj strandon sétálunk, mielőtt a busz visszavisz. A nap meleg és barátságos hangulatban zárul egy helyi konobában.",
             "ro": "Dimineața în centrul Poljana e plină de viață. Catedrala pare maiestuoasă în lumina clară de iarnă. La prânz, Sf. Mihail oferă vederi superbe asupra orașului. După-amiaza ne plimbăm la Banj înainte de întoarcere. Ziua se termină călduros într-o tavernă locală.",
-            "en": "Morning at Poljana hub is full of local winter life. The cathedral looks majestic in the clear off-season light. At noon, St. Michael provides great views over the winter city. Afternoon brings a stroll at Banj before the bus ride back. The day ends warmly in a local tavern."
+            "en": "Morning at Poljana hub is full of local winter life. The cathedral looks majestic in the clear off-season light. At noon, St. Michael provides great views over the winter city. Afternoon brings a stroll at Banj before the bus ride back. The day ends warmly in a local tavern.",
+            "hr": "Jutro na čvorištu Poljana puno je lokalnog zimskog života. Katedrala izgleda veličanstveno u čistom svjetlu izvan sezone. U podne sv. Mihovil pruža sjajan pogled na zimski grad. Poslijepodne donosi šetnju na Banj plaži prije povratka autobusom. Dan završava toplo u lokalnoj konobi."
           },
           "stops": [
             {
@@ -1552,7 +1762,8 @@
                 "de": "Beleuchtung im Winter sehr stimmungsvoll.",
                 "hu": "A téli kivilágítás nagyon hangulatos.",
                 "ro": "Iluminatul de iarnă este foarte plăcut.",
-                "en": "Winter lighting is very atmospheric."
+                "en": "Winter lighting is very atmospheric.",
+                "hr": "Zimsko osvjetljenje je vrlo atmosfersko."
               }
             },
             {
@@ -1561,7 +1772,8 @@
                 "de": "Keine Warteschlangen vor dem Eingang.",
                 "hu": "Nincsenek sorok a bejáratnál.",
                 "ro": "Nu există cozi la intrare.",
-                "en": "No queues at the entrance."
+                "en": "No queues at the entrance.",
+                "hr": "Nema redova na ulazu."
               }
             },
             {
@@ -1570,7 +1782,8 @@
                 "de": "Windjacke für die obere Ebene nötig.",
                 "hu": "Széldzseki szükséges a felső szinten.",
                 "ro": "Jachetă de vânt necesară la etaj.",
-                "en": "Windbreaker needed for the upper level."
+                "en": "Windbreaker needed for the upper level.",
+                "hr": "Potrebna vjetrovka za gornju razinu."
               }
             },
             {
@@ -1579,7 +1792,8 @@
                 "de": "Wintersonne am Meer genießen.",
                 "hu": "Élvezze a téli napsütést a tengerparton.",
                 "ro": "Bucurați-vă de soarele de iarnă la mare.",
-                "en": "Enjoy the winter sun by the sea."
+                "en": "Enjoy the winter sun by the sea.",
+                "hr": "Uživajte u zimskom suncu uz more."
               }
             },
             {
@@ -1588,7 +1802,8 @@
                 "de": "Kleines Museum im Inneren besuchen.",
                 "hu": "Látogassa meg a belső kis múzeumot.",
                 "ro": "Vizitați micul muzeu din interior.",
-                "en": "Visit the small museum inside."
+                "en": "Visit the small museum inside.",
+                "hr": "Posjetite mali muzej unutra."
               }
             },
             {
@@ -1597,7 +1812,8 @@
                 "de": "Reservierung im Winter oft nicht nötig.",
                 "hu": "Télen gyakran nem kell asztalt foglalni.",
                 "ro": "Rezervarea nu e necesară iarna de obicei.",
-                "en": "Reservations are often not needed in winter."
+                "en": "Reservations are often not needed in winter.",
+                "hr": "Rezervacije zimi često nisu potrebne."
               }
             }
           ],
@@ -1625,6 +1841,12 @@
               "Dress warmly for waiting at bus stops.",
               "Last return trips are often earlier.",
               "Poljana is a great meeting point."
+            ],
+            "hr": [
+              "Autobusi voze prema reduciranom zimskom voznom redu.",
+              "Toplo se odjenite za čekanje na stanicama.",
+              "Zadnji povratni polasci su često ranije.",
+              "Poljana je odlično mjesto za sastanke."
             ]
           }
         }

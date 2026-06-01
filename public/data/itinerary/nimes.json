@@ -36,7 +36,8 @@
             "de": "Eines der besterhaltenen römischen Amphitheater.",
             "hu": "Az egyik legjobb állapotban maradt római amfiteátrum.",
             "ro": "Unul dintre cele mai bine conservate amfiteatre romane.",
-            "en": "One of the best-preserved Roman amphitheaters in the world."
+            "en": "One of the best-preserved Roman amphitheaters in the world.",
+            "fr": "L'un des amphithéâtres romains les mieux conservés au monde."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Moderne Architektur trifft auf antike Schätze.",
             "hu": "Modern építészet találkozása az antik kincsekkel.",
             "ro": "Arhitectura modernă întâlnește comorile antice.",
-            "en": "Modern architecture meets ancient treasures."
+            "en": "Modern architecture meets ancient treasures.",
+            "fr": "L'architecture moderne rencontre les trésors antiques."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Ein perfekt erhaltener römischer Tempel.",
             "hu": "Tökéletes épségben maradt római kori templom.",
             "ro": "Un templu roman conservat perfect.",
-            "en": "A perfectly preserved Roman temple in the city center."
+            "en": "A perfectly preserved Roman temple in the city center.",
+            "fr": "Un temple romain parfaitement conservé au cœur de la ville."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Erster öffentlicher Park in Europa.",
             "hu": "Európa első nyilvános parkja.",
             "ro": "Primul parc public din Europa.",
-            "en": "Europe's first public park, built on Roman ruins."
+            "en": "Europe's first public park, built on Roman ruins.",
+            "fr": "Le premier parc public d'Europe, construit sur des vestiges romains."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Romantische Ruine innerhalb der Gärten.",
             "hu": "Romantikus rom a kerteken belül.",
             "ro": "Ruină romantică în interiorul grădinilor.",
-            "en": "Romantic ruins located inside the gardens."
+            "en": "Romantic ruins located inside the gardens.",
+            "fr": "Des ruines romantiques situées à l'intérieur des jardins."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Bester Panoramablick über Nîmes.",
             "hu": "A legjobb panoráma Nîmes felett.",
             "ro": "Cea mai bună vedere panoramică asupra orașului.",
-            "en": "The best panoramic view over Nîmes from the hilltop."
+            "en": "The best panoramic view over Nîmes from the hilltop.",
+            "fr": "Le plus beau panorama sur Nîmes depuis le sommet de la colline."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Ein Spaziergang durch Nîmes ist wie eine Zeitreise ins Römische Reich. Vom kolossalen Amphitheater führt der Weg zum Maison Carrée, einem Juwel antiker Architektur. Der Nachmittag wird in den prächtigen Jardins de la Fontaine verbracht, bevor der Aufstieg zum Tour Magne mit einem weiten Blick belohnt wird.",
         "hu": "Egy séta Nîmes-ben olyan, mint egy időutazás a Római Birodalomba. A hatalmas amfiteátrumtól az út a Maison Carrée-hoz, az antik építészet ékkövéhez vezet. A délutánt a pompás Fontaine-kertekben töltjük, majd a Tour Magne toronyhoz való feljutás jutalma a végtelen kilátás lesz.",
         "ro": "O plimbare prin Nîmes este ca o călătorie în timp în Imperiul Roman. De la amfiteatrul colosal, drumul duce spre Maison Carrée, o bijuterie a arhitecturii antice. După-amiaza este petrecută în splendidele grădini Fontaine, înainte ca urcarea la Turnul Magne să fie răsplătită cu o vedere largă.",
-        "en": "A walk through Nîmes is like a time travel back to the Roman Empire. From the colossal Arena, the path leads to Maison Carrée, a jewel of ancient architecture. The afternoon is spent in the magnificent Jardins de la Fontaine before the climb to Tour Magne rewards you with a vast view."
+        "en": "A walk through Nîmes is like a time travel back to the Roman Empire. From the colossal Arena, the path leads to Maison Carrée, a jewel of ancient architecture. The afternoon is spent in the magnificent Jardins de la Fontaine before the climb to Tour Magne rewards you with a vast view.",
+        "fr": "Une promenade à Nîmes est comme un voyage dans le temps jusqu'à l'Empire romain. Des Arènes colossales, le chemin mène à la Maison Carrée, un joyau de l'architecture antique. L'après-midi se passe dans les magnifiques Jardins de la Fontaine avant que la montée à la Tour Magne ne vous récompense par une vue imprenable."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "Petit Pâté Nîmois",
             "tip": "Small savory pastries filled with meat."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Brandade de Morue",
+            "tip": "Une crème locale onctueuse à base de morue et d'huile d'olive."
+          },
+          {
+            "name": "Petit Pâté Nîmois",
+            "tip": "Petites pâtisseries salées fourrées à la viande."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "Quiet square behind the cathedral.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardins de la Fontaine",
+            "tip": "Détendez-vous au bord des anciens canaux romains.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Place du Chapitre",
+            "tip": "Place calme et ombragée derrière la cathédrale.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +322,16 @@
             "name": "Ateliers de Nîmes",
             "tip": "The birthplace of denim fabric."
           }
+        ],
+        "fr": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Marché couvert regorgeant de spécialités locales."
+          },
+          {
+            "name": "Ateliers de Nîmes",
+            "tip": "Le lieu de naissance du tissu denim."
+          }
         ]
       },
       "tips": {
@@ -315,6 +354,11 @@
           "Buy the Nîmes City Pass for access to all Roman monuments.",
           "The climb to Tour Magne is steep; take your time.",
           "Visit Maison Carrée to see the historical orientation film."
+        ],
+        "fr": [
+          "Achetez le Nîmes City Pass pour accéder à tous les monuments romains.",
+          "La montée à la Tour Magne est raide ; prenez votre temps.",
+          "Visitez la Maison Carrée pour voir le film d'orientation historique."
         ]
       },
       "variants": {
@@ -323,7 +367,8 @@
             "de": "Nîmes im Regen bietet hervorragenden Schutz in den römischen Monumenten. Beginnen Sie in der Arena, die teilweise überdacht ist. Der Mittag gehört dem modernen Musée de la Romanité, einem idealen Ort, um trocken zu bleiben. Nach dem Mittagessen in den Markthallen erkunden Sie die Maison Carrée. Den Tag lassen Sie in den Jardins de la Fontaine ausklingen, wo der Regen den Brunnen eine mystische Atmosphäre verleiht.",
             "hu": "Nîmes esőben is lenyűgöző, hála a monumentális fedett tereinek. Kezdjen az Arénában, ahol a folyosók védelmet nyújtanak. A délutánt töltse a Musée de la Romanité modern falai között, majd ebédeljen a fedett piacon. A Maison Carrée belső mozija tökéletes menedék a zápor elől. Este a Jardins de la Fontaine kertjei párás, romantikus hangulatot árasztanak a Tour Magne tövében.",
             "ro": "Nîmes pe ploaie oferă refugii culturale excelente. Începeți la Arena, unde arcadele oferă adăpost. Prânzul este ideal la Musée de la Romanité, un spațiu modern și uscat. După o oprire în piața acoperită, vizitați Maison Carrée pentru proiecțiile sale interioare. Seara, grădinile Fontaine capătă un aspect misterios sub ploaie, oferind o perspectivă diferită asupra orașului roman.",
-            "en": "Nîmes in the rain offers excellent cultural refuges. Start at the Arena, where the stone arches provide shelter. Spend midday at the Museum of Romanity, a perfect dry spot. After a lunch at the covered Market Square, explore the indoor cinema of Maison Carrée. End your day at the Jardins de la Fontaine, where the rain adds a mystical atmosphere to the Roman ruins and the climb to Tour Magne."
+            "en": "Nîmes in the rain offers excellent cultural refuges. Start at the Arena, where the stone arches provide shelter. Spend midday at the Museum of Romanity, a perfect dry spot. After a lunch at the covered Market Square, explore the indoor cinema of Maison Carrée. End your day at the Jardins de la Fontaine, where the rain adds a mystical atmosphere to the Roman ruins and the climb to Tour Magne.",
+            "fr": "Nîmes sous la pluie offre d'excellents refuges culturels. Commencez par les Arènes, où les arches de pierre offrent un abri naturel. Passez le milieu de la journée au Musée de la Romanité, un lieu moderne parfaitement au sec. Après un déjeuner aux Halles, explorez le cinéma intérieur de la Maison Carrée. Terminez votre journée aux Jardins de la Fontaine, où la pluie ajoute une atmosphère mystique aux ruines."
           },
           "stops": [
             {
@@ -332,7 +377,8 @@
                 "de": "Die inneren Gänge bieten Schutz vor plötzlichen Güssen.",
                 "hu": "A belső folyosók védelmet nyújtanak a hirtelen záporok elől.",
                 "ro": "Coridoarele interioare oferă protecție împotriva averselor subite.",
-                "en": "Internal corridors provide great protection from sudden downpours."
+                "en": "Internal corridors provide great protection from sudden downpours.",
+                "fr": "Les couloirs intérieurs offrent une excellente protection contre les averses."
               }
             },
             {
@@ -341,7 +387,8 @@
                 "de": "Perfekter Ort für längere Regenpausen mit modernem Komfort.",
                 "hu": "Tökéletes hely a hosszabb esőszünetekhez, modern kényelemmel.",
                 "ro": "Locul perfect pentru pauze lungi de ploaie, cu confort modern.",
-                "en": "Perfect spot for long rain breaks with modern comfort."
+                "en": "Perfect spot for long rain breaks with modern comfort.",
+                "fr": "Endroit parfait pour de longues pauses au sec avec tout le confort moderne."
               }
             },
             {
@@ -350,7 +397,8 @@
                 "de": "Nutzen Sie die überdachten Bereiche der 'Halles de Nîmes'.",
                 "hu": "Használja ki a 'Halles de Nîmes' fedett csarnokait.",
                 "ro": "Profită de zonele acoperite ale 'Halles de Nîmes'.",
-                "en": "Take advantage of the covered 'Halles de Nîmes' sections."
+                "en": "Take advantage of the covered 'Halles de Nîmes' sections.",
+                "fr": "Profitez des sections couvertes et gourmandes des 'Halles de Nîmes'."
               }
             },
             {
@@ -359,7 +407,8 @@
                 "de": "Der Film im Inneren ist ein trockener Kulturgenuss.",
                 "hu": "A benti filmnézés száraz kulturális élményt nyújt.",
                 "ro": "Filmul din interior este un deliciu cultural la adăpost.",
-                "en": "The movie inside is a dry and cultural treat."
+                "en": "The movie inside is a dry and cultural treat.",
+                "fr": "Le film historique à l'intérieur est un régal culturel à l'abri."
               }
             },
             {
@@ -368,7 +417,8 @@
                 "de": "Vorsicht, die Kalksteinwege können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a mészkő utak vizesen csúszósak lehetnek.",
                 "ro": "Atenție, aleile de calcar pot fi alunecoase când sunt ude.",
-                "en": "Caution, the limestone paths can be slippery when wet."
+                "en": "Caution, the limestone paths can be slippery when wet.",
+                "fr": "Attention, les sentiers en calcaire peuvent être glissants par temps humide."
               }
             },
             {
@@ -377,7 +427,8 @@
                 "de": "Die Aussichtsplattform ist exponiert, halten Sie den Schirm fest.",
                 "hu": "A kilátó nyitott, szélben erősen fogja az esernyőt.",
                 "ro": "Platforma de observație este expusă, țineți bine umbrela.",
-                "en": "The viewing platform is exposed, hold your umbrella tight."
+                "en": "The viewing platform is exposed, hold your umbrella tight.",
+                "fr": "La plateforme d'observation est exposée, tenez bien votre parapluie."
               }
             }
           ],
@@ -405,6 +456,12 @@
               "The Museum of Romanity offers lockers for wet umbrellas.",
               "The Les Halles covered market is the best spot for a dry lunch.",
               "Visit Carré d'Art across from Maison Carrée for extra indoor art."
+            ],
+            "fr": [
+              "Portez des chaussures avec une bonne adhérence pour les pierres romaines glissantes.",
+              "Le Musée de la Romanité propose des casiers pour les parapluies.",
+              "Le marché couvert des Halles est le meilleur endroit pour déjeuner au sec.",
+              "Visitez le Carré d'Art face à la Maison Carrée pour ses galeries intérieures."
             ]
           }
         },
@@ -413,7 +470,8 @@
             "de": "Im Winter zeigt sich Nîmes unter dem klaren blauen Himmel des Mistral-Windes. Die Arena wirkt im flachen Sonnenlicht besonders golden. Mittags bietet das Museum wohlige Wärme und tiefe Einblicke in die Geschichte. Genießen Sie eine heiße Schokolade am Marktplatz, bevor Sie die Maison Carrée besuchen. Der Sonnenuntergang an der Tour Magne ist früh, aber durch die klare Winterluft besonders weitläufig.",
             "hu": "Télen Nîmes-t gyakran a Mistral szél tiszta, kék ege ragyogja be. Az Aréna aranyló színekben játszik a téli napsütésben. A déli órákban a múzeum meleg falai között kalandozhat a múltban. Igyon egy forró csokoládét a piactéren, mielőtt megtekintené a Maison Carrée-t. A napnyugta a Tour Magne-nál korán jön, de a tiszta téli levegőben a kilátás a legtávolabbi hegyekig ér.",
             "ro": "Iarna, Nîmes strălucește sub cerul senin adus de vântul Mistral. Arena arată aurie în lumina joasă a soarelui. La prânz, muzeul oferă căldură și o incursiune fascinantă în istorie. Savurați o ciocolată caldă în piață înainte de a vizita Maison Carrée. Apusul la Tour Magne are loc devreme, dar aerul curat de iarnă oferă o vizibilitate excepțională.",
-            "en": "In winter, Nîmes shines under the clear blue sky brought by the Mistral wind. The Arena looks especially golden in the low sun. Midday provides a chance to warm up in the museum while diving into history. Enjoy a hot chocolate near the Market Square before visiting Maison Carrée. Sunset at Tour Magne comes early, but the crisp winter air makes the view reach the distant horizons."
+            "en": "In winter, Nîmes shines under the clear blue sky brought by the Mistral wind. The Arena looks especially golden in the low sun. Midday provides a chance to warm up in the museum while diving into history. Enjoy a hot chocolate near the Market Square before visiting Maison Carrée. Sunset at Tour Magne comes early, but the crisp winter air makes the view reach the distant horizons.",
+            "fr": "En hiver, Nîmes brille sous le ciel bleu azur apporté par le Mistral. Les Arènes paraissent particulièrement dorées sous le soleil bas. Le milieu de journée permet de se réchauffer au musée tout en plongeant dans l'histoire. Savourez un chocolat chaud près de la place du Marché avant de visiter la Maison Carrée. Le coucher du soleil à la Tour Magne arrive tôt, mais l'air pur rend l'horizon incroyablement net."
           },
           "stops": [
             {
@@ -422,7 +480,8 @@
                 "de": "Nutzen Sie die sonnigen Abschnitte, um dem Wind zu entgehen.",
                 "hu": "Keresse a napos részeket, hogy elkerülje a szél hidegét.",
                 "ro": "Căutați secțiunile însorite pentru a evita vântul rece.",
-                "en": "Use the sunny sections to escape the biting wind."
+                "en": "Use the sunny sections to escape the biting wind.",
+                "fr": "Utilisez les gradins ensoleillés pour échapper au vent mordant."
               }
             },
             {
@@ -431,7 +490,8 @@
                 "de": "Die Dachterrasse bietet einen tollen Blick, ist aber windig.",
                 "hu": "A tetőterasz remek kilátást nyújt, de szeles lehet.",
                 "ro": "Terasa de pe acoperiș oferă o priveliște superbă, dar e vântoasă.",
-                "en": "The roof terrace offers great views but can be very windy."
+                "en": "The roof terrace offers great views but can be very windy.",
+                "fr": "La terrasse sur le toit offre une vue superbe mais peut être très venteuse."
               }
             },
             {
@@ -440,7 +500,8 @@
                 "de": "Probieren Sie regionale Winterspezialitäten wie Brandade.",
                 "hu": "Kóstolja meg a helyi téli specialitást, a Brandade-ot.",
                 "ro": "Încercați specialități locale de iarnă, cum ar fi Brandade.",
-                "en": "Try regional winter specialties like Brandade de Nîmes."
+                "en": "Try regional winter specialties like Brandade de Nîmes.",
+                "fr": "Goûtez aux spécialités régionales d'hiver comme la Brandade nîmoise."
               }
             },
             {
@@ -449,7 +510,8 @@
                 "de": "Ein warmer Zufluchtsort im Herzen der römischen Stadt.",
                 "hu": "Meleg menedék a római város szívében.",
                 "ro": "Un refugiu călduros în inima orașului roman.",
-                "en": "A warm sanctuary in the heart of the Roman city."
+                "en": "A warm sanctuary in the heart of the Roman city.",
+                "fr": "Un sanctuaire chaleureux et calme au cœur de la cité romaine."
               }
             },
             {
@@ -458,7 +520,8 @@
                 "de": "Die Gärten sind im Winter ruhiger und sehr friedlich.",
                 "hu": "A kertek télen csendesebbek és nagyon békések.",
                 "ro": "Grădinile sunt mai liniștite iarna și foarte pașnice.",
-                "en": "The gardens are quieter in winter and very peaceful."
+                "en": "The gardens are quieter in winter and very peaceful.",
+                "fr": "Les jardins sont plus tranquilles en hiver et très paisibles."
               }
             },
             {
@@ -467,7 +530,8 @@
                 "de": "Der Sonnenuntergang findet hier gegen 17:15 Uhr statt.",
                 "hu": "A naplemente itt 17:15 körül várható.",
                 "ro": "Apusul are loc aici în jur de ora 17:15.",
-                "en": "Sunset here occurs around 5:15 PM in mid-winter."
+                "en": "Sunset here occurs around 5:15 PM in mid-winter.",
+                "fr": "Le coucher du soleil ici a lieu vers 17h15 au milieu de l'hiver."
               }
             }
           ],
@@ -495,6 +559,12 @@
               "Sunset is early, so schedule Tour Magne before 5 PM.",
               "The narrow streets of the old town are much more sheltered from the wind.",
               "Enjoy a 'Vin Chaud' (mulled wine) in the lively winter squares."
+            ],
+            "fr": [
+              "Attention au vent Mistral ; une veste coupe-vent est indispensable.",
+              "Le soleil se couche tôt, prévoyez la Tour Magne avant 17h00.",
+              "Les rues étroites de l'Écusson sont bien mieux abritées du vent.",
+              "Dégustez un vin chaud sur les places animées du centre-ville."
             ]
           }
         }
@@ -528,7 +598,8 @@
             "de": "Starten Sie am zentralen Platz.",
             "hu": "Kezdje a túrát a központi téren.",
             "ro": "Începeți în piața centrală.",
-            "en": "Start at the central square."
+            "en": "Start at the central square.",
+            "fr": "Départ sur la place centrale de l'Esplanade."
           }
         },
         {
@@ -551,7 +622,8 @@
             "de": "Radfahren auf den Hauptwegen erlaubt.",
             "hu": "A főutakon szabad kerékpározni.",
             "ro": "Biciclatul este permis pe aleile principale.",
-            "en": "Cycling is allowed on the main paths."
+            "en": "Cycling is allowed on the main paths.",
+            "fr": "Le vélo est autorisé sur les allées principales du parc."
           }
         },
         {
@@ -574,7 +646,8 @@
             "de": "Grüne Lunge von Nîmes mit Radwegen.",
             "hu": "Nîmes zöld tüdeje kerékpárutakkal.",
             "ro": "Plămânul verde al orașului cu piste de biciclete.",
-            "en": "The green lung of Nîmes with bike trails."
+            "en": "The green lung of Nîmes with bike trails.",
+            "fr": "Le poumon vert de Nîmes avec ses pistes ombragées."
           }
         },
         {
@@ -597,7 +670,8 @@
             "de": "Alternatives Viertel mit Street Art.",
             "hu": "Alternatív negyed utcai művészettel.",
             "ro": "Cartier alternativ cu artă stradală.",
-            "en": "Alternative district with street art."
+            "en": "Alternative district with street art.",
+            "fr": "Quartier alternatif coloré de street art."
           }
         },
         {
@@ -620,7 +694,8 @@
             "de": "Breite Promenade zum Ausrollen.",
             "hu": "Széles sétány a túra levezetéséhez.",
             "ro": "Promenadă largă pentru finalul turului.",
-            "en": "Wide promenade to end your tour."
+            "en": "Wide promenade to end your tour.",
+            "fr": "Large promenade pour terminer votre boucle en douceur."
           }
         }
       ],
@@ -628,7 +703,8 @@
         "de": "Diese Radtour verbindet die antike Stadt mit der Natur. Nach den Gärten fahren wir hinaus zum Bois des Espeisses, einem weitläufigen Waldgebiet. Der Rückweg führt durch das kreative Gambetta-Viertel zurück zum Zentrum.",
         "hu": "Ez a kerékpáros túra összeköti az antik várost a természettel. A kertek után kiindulunk az Espeisses-erdőbe, amely egy hatalmas zöld terület. A visszavezető út a kreatív Gambetta negyeden keresztül visz a központba.",
         "ro": "Acest traseu cu bicicleta combină orașul antic cu natura. După grădini, pedalăm spre Pădurea Espeisses, o zonă verde vastă. Întoarcerea se face prin cartierul creativ Gambetta spre centru.",
-        "en": "This cycling tour links the ancient city with nature. After the gardens, ride out to Bois des Espeisses, a sprawling forest area. The return route passes through the creative Gambetta district back to the center."
+        "en": "This cycling tour links the ancient city with nature. After the gardens, ride out to Bois des Espeisses, a sprawling forest area. The return route passes through the creative Gambetta district back to the center.",
+        "fr": "Ce tour à vélo relie la ville antique à la nature. Après les jardins, pédalez jusqu'au bois des Espeisses, un vaste espace forestier idéal pour l'évasion. L'itinéraire de retour passe par le quartier créatif de Gambetta pour revenir doucement vers le centre."
       },
       "gastro_picks": {
         "de": [
@@ -653,6 +729,12 @@
           {
             "name": "Le Débotté",
             "tip": "Cozy bistro serving regional cuisine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Débotté",
+            "tip": "Bistro accueillant servant une cuisine de terroir."
           }
         ]
       },
@@ -684,6 +766,13 @@
             "tip": "Absolute quiet in the woods.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Sentiers du Bois des Espeisses",
+            "tip": "Calme absolu au milieu des chênes verts.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -710,6 +799,12 @@
             "name": "Boulevard Victor Hugo",
             "tip": "Shopping street with plenty of shade."
           }
+        ],
+        "fr": [
+          {
+            "name": "Boulevard Victor Hugo",
+            "tip": "Artère commerçante bordée de platanes offrant de l'ombre."
+          }
         ]
       },
       "tips": {
@@ -732,6 +827,11 @@
           "Use the Tango Vélopartage bike sharing system.",
           "The forest hills can be physically demanding.",
           "Watch out for pedestrians in the old town area."
+        ],
+        "fr": [
+          "Utilisez le système de vélos en libre-service Tango.",
+          "Les collines de la forêt peuvent être exigeantes physiquement.",
+          "Faites attention aux piétons dans les zones piétonnes du centre."
         ]
       },
       "variants": {
@@ -740,7 +840,8 @@
             "de": "Eine Radtour in Nîmes bei Regen erfordert gute Ausrüstung. Beginnen Sie an der Esplanade, wo breite Wege Platz bieten. Fahren Sie zum Castellum Aquae, wobei Sie auf nassen Markierungen vorsichtig sein sollten. Der Stopp in den Jardins de la Fontaine bietet Schutz unter den dichten Bäumen. Der Höhepunkt ist die Grüne Route zum Bois des Espeisses, die bei Regen besonders erdig duftet.",
             "hu": "Az esős biciklitúra Nîmes-ben megfelelő felszerelést igényel. Kezdjen az Esplanade-on, ahol a széles utak biztonságosak. Tekerjen a Castellum Aquae felé, ügyelve a vizes útburkolati jelekre. A Jardins de la Fontaine-ban a sűrű lombok védelmet nyújtanak. A túra csúcspontja a Bois des Espeisses felé vezető zöld út, amely esőben különösen friss illatú.",
             "ro": "O tură cu bicicleta în Nîmes pe ploaie necesită echipament adecvat. Începeți la Esplanadă, unde pistele late oferă spațiu. Pedalați spre Castellum Aquae, fiind atenți la marcajele rutiere umede. Oprirea în Jardins de la Fontaine oferă adăpost sub copacii deși. Punctul culminant este ruta verde spre Bois des Espeisses, care miroase a pământ proaspăt sub ploaie.",
-            "en": "A bike tour in Nîmes during rain requires proper gear. Start at the Esplanade where wide paths offer space. Ride towards Castellum Aquae, being careful on wet road markings. The stop in Jardins de la Fontaine provides shelter under the dense trees. The highlight is the Green Way towards Bois des Espeisses, which smells earthy and fresh in the rain."
+            "en": "A bike tour in Nîmes during rain requires proper gear. Start at the Esplanade where wide paths offer space. Ride towards Castellum Aquae, being careful on wet road markings. The stop in Jardins de la Fontaine provides shelter under the dense trees. The highlight is the Green Way towards Bois des Espeisses, which smells earthy and fresh in the rain.",
+            "fr": "Un tour à vélo à Nîmes sous la pluie nécessite un bon équipement. Commencez à l'Esplanade où les larges allées offrent de l'espace. Roulez vers le Castellum Aquae, en restant vigilant sur les marquages au sol. L'arrêt aux Jardins de la Fontaine offre un abri sous la canopée dense. Le point fort reste la Voie Verte vers le bois des Espeisses, qui exhale une odeur de terre fraîche."
           },
           "stops": [
             {
@@ -749,7 +850,8 @@
                 "de": "Die glatten Steine am Brunnen können sehr rutschig sein.",
                 "hu": "A szökőkút körüli sima kövek nagyon csúszósak lehetnek.",
                 "ro": "Pietrele netede de lângă fântână pot fi foarte alunecoase.",
-                "en": "The smooth stones near the fountain can be very slippery."
+                "en": "The smooth stones near the fountain can be very slippery.",
+                "fr": "Les dalles lisses près de la fontaine deviennent très glissantes."
               }
             },
             {
@@ -758,7 +860,8 @@
                 "de": "Kurzer Stopp, ideal um Regenkleidung zu richten.",
                 "hu": "Rövid megálló, ideális az esőruha megigazítására.",
                 "ro": "Oprire scurtă, ideală pentru a ajusta pelerina de ploaie.",
-                "en": "Short stop, ideal to adjust your rain gear."
+                "en": "Short stop, ideal to adjust your rain gear.",
+                "fr": "Arrêt court, idéal pour ajuster votre tenue imperméable."
               }
             },
             {
@@ -767,7 +870,8 @@
                 "de": "Die hohen Platanen bieten einen natürlichen Regenschirm.",
                 "hu": "A magas platánfák természetes esernyőként szolgálnak.",
                 "ro": "Platanii înalți oferă o umbrelă naturală.",
-                "en": "The tall plane trees provide a natural umbrella."
+                "en": "The tall plane trees provide a natural umbrella.",
+                "fr": "Les grands platanes forment un parapluie naturel efficace."
               }
             },
             {
@@ -776,7 +880,8 @@
                 "de": "Viele Cafés mit Vordächern zum Abstellen der Räder.",
                 "hu": "Sok kávézó terasszal, ahol leparkolhatja a biciklit.",
                 "ro": "Multe cafenele cu copertine pentru a lăsa bicicletele.",
-                "en": "Many cafes with awnings to park your bikes under."
+                "en": "Many cafes with awnings to park your bikes under.",
+                "fr": "De nombreux cafés avec auvents permettent de surveiller les vélos."
               }
             },
             {
@@ -785,7 +890,8 @@
                 "de": "Vorsicht bei Pfützen auf dem unbefestigten Waldweg.",
                 "hu": "Vigyázat a tócsákkal a burkolatlan erdei úton.",
                 "ro": "Atenție la bălți pe drumul de pădure neasfaltat.",
-                "en": "Watch out for puddles on the unpaved forest path."
+                "en": "Watch out for puddles on the unpaved forest path.",
+                "fr": "Attention aux flaques d'eau sur les sentiers forestiers non goudronnés."
               }
             }
           ],
@@ -813,6 +919,12 @@
               "Testing your brakes on cobblestones is essential in the wet.",
               "Avoid riding on painted road markings when wet.",
               "Nîmes rental bikes usually come with good mudguards."
+            ],
+            "fr": [
+              "Utilisez des garde-boue pour protéger vos vêtements des projections.",
+              "Testez impérativement vos freins sur les pavés mouillés.",
+              "Évitez de rouler sur les bandes blanches peintes par temps de pluie.",
+              "Les vélos de location Tango sont généralement bien équipés."
             ]
           }
         },
@@ -821,7 +933,8 @@
             "de": "Radfahren im Winter in Nîmes ist erfrischend unter der strahlenden Sonne. Starten Sie an der Esplanade und spüren Sie die kühle Morgenluft. Am Castellum Aquae glänzt das antike Mauerwerk im harten Winterlicht. Die Jardins de la Fontaine laden zu einer zügigen Fahrt ein, um warm zu bleiben. Den Abschluss bildet die Grüne Route, die im Winter eine tolle Fernsicht durch die blattlosen Bäume bietet.",
             "hu": "A téli kerékpározás Nîmes-ben frissítő élmény a ragyogó napsütésben. Kezdjen az Esplanade-on, élvezve a hűvös reggeli levegőt. A Castellum Aquae ókori falai élesen csillognak a téli fényben. A Jardins de la Fontaine-ban tekerjen tempósan, hogy melegen tartsa magát. A túrát a zöld út zárja, amely télen a lomb nélküli fákon keresztül messzi panorámát enged.",
             "ro": "Pedalatul iarna în Nîmes este revigorant sub soarele strălucitor. Începeți la Esplanadă și simțiți aerul rece al dimineții. La Castellum Aquae, zidăria antică strălucește în lumina aspră de iarnă. Jardins de la Fontaine invită la o pedalare susținută pentru a vă menține calzi. Încheiați pe ruta verde, care oferă vederi îndepărtate prin copacii fără frunze.",
-            "en": "Winter cycling in Nîmes is refreshing under the brilliant sun. Start at the Esplanade and enjoy the crisp morning air. At Castellum Aquae, the ancient masonry gleams in the sharp winter light. Ride briskly through Jardins de la Fontaine to stay warm. Finish on the Green Way, which offers long-distance views through the leafless trees in winter."
+            "en": "Winter cycling in Nîmes is refreshing under the brilliant sun. Start at the Esplanade and enjoy the crisp morning air. At Castellum Aquae, the ancient masonry gleams in the sharp winter light. Ride briskly through Jardins de la Fontaine to stay warm. Finish on the Green Way, which offers long-distance views through the leafless trees in winter.",
+            "fr": "Faire du vélo en hiver à Nîmes est vivifiant sous le soleil méditerranéen. Commencez à l'Esplanade et profitez de l'air frais matinal. Au Castellum Aquae, la pierre antique resplendit sous la lumière crue de l'hiver. Pédalez d'un bon pas à travers les Jardins de la Fontaine pour rester au chaud. Terminez sur la Voie Verte, offrant des vues dégagées à travers les arbres dénudés."
           },
           "stops": [
             {
@@ -830,7 +943,8 @@
                 "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind.",
                 "hu": "Viseljen kesztyűt a hideg menetszél ellen.",
                 "ro": "Purtați mănuși împotriva vântului rece de pedalare.",
-                "en": "Wear gloves against the cold riding wind."
+                "en": "Wear gloves against the cold riding wind.",
+                "fr": "Portez des gants pour contrer le vent relatif froid."
               }
             },
             {
@@ -839,7 +953,8 @@
                 "de": "Die Nordseite des Hügels liegt im Schatten und ist kühler.",
                 "hu": "A domb északi oldala árnyékos és hűvösebb.",
                 "ro": "Partea de nord a dealului este în umbră și mai rece.",
-                "en": "The north side of the hill is in the shade and cooler."
+                "en": "The north side of the hill is in the shade and cooler.",
+                "fr": "Le versant nord de la colline reste à l'ombre et plus frais."
               }
             },
             {
@@ -848,7 +963,8 @@
                 "de": "Ein sonniger Platz am Wasserbecken lädt zur Pause ein.",
                 "hu": "A vízmedence melletti napos hely hívogató pihenő.",
                 "ro": "Un loc însorit lângă bazin este primitor pentru o pauză.",
-                "en": "A sunny spot by the water basin is perfect for a break."
+                "en": "A sunny spot by the water basin is perfect for a break.",
+                "fr": "Un coin ensoleillé près du bassin d'eau est parfait pour souffler."
               }
             },
             {
@@ -857,7 +973,8 @@
                 "de": "Ideal für einen warmen Kaffee zwischendurch.",
                 "hu": "Ideális hely egy köztes meleg kávéhoz.",
                 "ro": "Ideal pentru o cafea caldă pe parcurs.",
-                "en": "Ideal for a warm coffee break during the ride."
+                "en": "Ideal for a warm coffee break during the ride.",
+                "fr": "Idéal pour une pause café bien chaude pendant l'itinéraire."
               }
             },
             {
@@ -866,7 +983,8 @@
                 "de": "Klares Licht bietet tolle Fotomöglichkeiten im Wald.",
                 "hu": "A tiszta fény remek fotózási lehetőségeket kínál az erdőben.",
                 "ro": "Lumina clară oferă oportunități foto grozave în pădure.",
-                "en": "Clear light offers great photo opportunities in the forest."
+                "en": "Clear light offers great photo opportunities in the forest.",
+                "fr": "La lumière pure offre d'excellents contrastes pour les photos en forêt."
               }
             }
           ],
@@ -894,6 +1012,12 @@
               "Avoid long stationary periods to prevent getting chilled.",
               "E-bike batteries drain slightly faster in cold temperatures.",
               "Turn on your lights as it gets dark early in winter."
+            ],
+            "fr": [
+              "Le système des 'trois couches' vous protégera du Mistral.",
+              "Évitez les arrêts trop prolongés pour ne pas vous refroidir.",
+              "Les batteries des vélos électriques s'épuisent plus vite par grand froid.",
+              "Allumez vos feux dès la fin d'après-midi, la nuit tombe vite."
             ]
           }
         }
@@ -927,7 +1051,8 @@
             "de": "Parken Sie am Parking Arènes.",
             "hu": "Parkoljon a Parking Arènes-ben.",
             "ro": "Parcați la Parking Arènes.",
-            "en": "Park at the Parking Arènes garage."
+            "en": "Park at the Parking Arènes garage.",
+            "fr": "Stationnez au parking souterrain des Arènes."
           }
         },
         {
@@ -950,7 +1075,8 @@
             "de": "Kurzer Fußweg innerhalb des Clusters.",
             "hu": "Rövid séta a klaszteren belül.",
             "ro": "Scurtă plimbare în cadrul clusterului.",
-            "en": "Short walk within the city cluster."
+            "en": "Short walk within the city cluster.",
+            "fr": "Courte marche dans le cœur historique piétonnier."
           }
         },
         {
@@ -973,7 +1099,8 @@
             "de": "Weltberühmtes Aquädukt-Monument.",
             "hu": "Világhírű akvadukt műemlék.",
             "ro": "Monumentul apeductului faimos în lume.",
-            "en": "World-famous Roman aqueduct monument."
+            "en": "World-famous Roman aqueduct monument.",
+            "fr": "L'aqueduc romain le plus haut du monde."
           }
         },
         {
@@ -996,7 +1123,8 @@
             "de": "Interaktive Ausstellung zur Technik.",
             "hu": "Interaktív kiállítás a technológiáról.",
             "ro": "Expoziție interactivă despre tehnologie.",
-            "en": "Interactive exhibition about Roman engineering."
+            "en": "Interactive exhibition about Roman engineering.",
+            "fr": "Espace muséographique passionnant sur l'eau à l'époque romaine."
           }
         },
         {
@@ -1019,7 +1147,8 @@
             "de": "Besuchen Sie den Herzogspalast.",
             "hu": "Látogasson el a hercegi palotához.",
             "ro": "Vizitați palatul ducal.",
-            "en": "Visit the Duchy Palace in the center."
+            "en": "Visit the Duchy Palace in the center.",
+            "fr": "Découvrez le Palais du Duché au centre d'Uzès."
           }
         },
         {
@@ -1042,7 +1171,8 @@
             "de": "Wunderschöner Marktplatz.",
             "hu": "Gyönyörű piactér.",
             "ro": "Piață superbă.",
-            "en": "Beautiful market square."
+            "en": "Beautiful market square.",
+            "fr": "La célèbre Place aux Herbes et ses arcades."
           }
         }
       ],
@@ -1050,7 +1180,8 @@
         "de": "Mit dem Auto verbinden Sie Nîmes mit dem monumentalen Pont du Gard. Nach der Erkundung des Stadtzentrums fahren wir zum Aquädukt, einem Meisterwerk römischer Ingenieurskunst. Den Tag lassen wir im charmanten mittelalterlichen Städtchen Uzès ausklingen.",
         "hu": "Autóval összekötheti Nîmes-t a monumentális Pont du Gard-ral. A városközpont felfedezése után az akvadukthoz hajtunk, amely a római mérnöki munka remekműve. A napot a bájos középkori Uzès városkában zárjuk.",
         "ro": "Cu mașina conectați Nîmes de monumentalul Pont du Gard. După explorarea centrului orașului, mergem la apeduct, o capodoperă a ingineriei romane. Încheiem ziua în fermecătorul oraș medieval Uzès.",
-        "en": "By car, you link Nîmes with the monumental Pont du Gard. After exploring the city center, drive to the aqueduct, a masterpiece of Roman engineering. End the day in the charming medieval town of Uzès."
+        "en": "By car, you link Nîmes with the monumental Pont du Gard. After exploring the city center, drive to the aqueduct, a masterpiece of Roman engineering. End the day in the charming medieval town of Uzès.",
+        "fr": "En voiture, vous reliez Nîmes au monumental Pont du Gard. Après avoir exploré le centre, roulez vers l'aqueduc, chef-d'œuvre mondial de l'ingénierie romaine. Terminez la journée dans la cité médiévale d'Uzès, célèbre pour son charme et son Duché."
       },
       "gastro_picks": {
         "de": [
@@ -1075,6 +1206,12 @@
           {
             "name": "Les Terrasses",
             "tip": "Lunch with a direct view of Pont du Gard."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Les Terrasses",
+            "tip": "Déjeuner avec une vue spectaculaire sur le Pont du Gard."
           }
         ]
       },
@@ -1106,6 +1243,13 @@
             "tip": "Picnic by the river bank.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Rives du Gardon",
+            "tip": "Coin tranquille pour un pique-nique au bord de l'eau.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1132,6 +1276,12 @@
             "name": "Uzès Saturday Market",
             "tip": "One of the best markets in Provence."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché d'Uzès le samedi",
+            "tip": "Considéré comme l'un des plus beaux marchés de Provence."
+          }
         ]
       },
       "tips": {
@@ -1154,6 +1304,11 @@
           "Parking fees at Pont du Gard are included in the ticket.",
           "Make restaurant reservations in Uzès in advance.",
           "Allocate enough time for the museum at the aqueduct."
+        ],
+        "fr": [
+          "Les frais de parking au Pont du Gard sont inclus dans le prix d'entrée.",
+          "Réservez vos tables à Uzès à l'avance, surtout le week-end.",
+          "Consacrez au moins une heure à la visite du musée de l'aqueduc."
         ]
       },
       "variants": {
@@ -1162,7 +1317,8 @@
             "de": "Eine Autofahrt rund um Nîmes ist bei Regen die komfortabelste Option. Beginnen Sie an der Arena und fahren Sie dann zum Pont du Gard, der bei Regen durch die Wassermassen des Gardon beeindruckt. Mittags finden Sie in Remoulins gemütliche Restaurants. Nachmittags erkunden Sie die Gassen von Uzès, die bei Regen einen besonderen Charme versprühen, bevor Sie trocken zurück nach Nîmes fahren.",
             "hu": "Nîmes környékén az autó a legkényelmesebb választás esőben. Kezdjen az Arénánál, majd hajtson a Pont du Gard-hoz, amely ilyenkor a Gardon folyó áradó vizével lenyűgöző látvány. Ebédeljen Remoulins barátságos éttermeiben. Délután fedezze fel Uzès ódon utcáit, amelyek esőben különleges hangulatot árasztanak, majd szárazon térjen vissza Nîmes-be.",
             "ro": "O călătorie cu mașina în jurul Nîmes-ului este cea mai confortabilă opțiune pe ploaie. Începeți la Arenă, apoi conduceți spre Pont du Gard, care impresionează prin debitul râului Gardon sub ploaie. La prânz, găsiți restaurante primitoare în Remoulins. După-amiaza, explorați străduțele din Uzès, care au un farmec aparte pe ploaie, înainte de a reveni la Nîmes.",
-            "en": "A car trip around Nîmes is the most comfortable option in the rain. Start at the Arena and drive to Pont du Gard, which is impressive with the rising waters of the Gardon river. Find cozy restaurants in Remoulins for lunch. In the afternoon, explore the alleys of Uzès, which have a special charm in the rain, before heading back dry to Nîmes."
+            "en": "A car trip around Nîmes is the most comfortable option in the rain. Start at the Arena and drive to Pont du Gard, which is impressive with the rising waters of the Gardon river. Find cozy restaurants in Remoulins for lunch. In the afternoon, explore the alleys of Uzès, which have a special charm in the rain, before heading back dry to Nîmes.",
+            "fr": "Une excursion en voiture autour de Nîmes est l'option idéale par temps de pluie. Commencez aux Arènes et rejoignez le Pont du Gard, impressionnant lorsque le Gardon bouillonne. Trouvez un restaurant chaleureux à Remoulins pour le midi. L'après-midi, les ruelles d'Uzès dégagent un charme particulier sous la pluie avant un retour confortable vers Nîmes."
           },
           "stops": [
             {
@@ -1171,7 +1327,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Arènes' für einen trockenen Zugang.",
                 "hu": "Használja az 'Arènes' parkolóházat a száraz bejutáshoz.",
                 "ro": "Folosiți parcarea 'Arènes' pentru un acces uscat.",
-                "en": "Use the 'Arènes' parking garage for dry access."
+                "en": "Use the 'Arènes' parking garage for dry access.",
+                "fr": "Utilisez le parking 'Arènes' pour rester au sec dès la sortie."
               }
             },
             {
@@ -1180,7 +1337,8 @@
                 "de": "Besuchen Sie das interaktive Museum vor Ort bei starkem Regen.",
                 "hu": "Heves esőben látogassa meg a helyszíni interaktív múzeumot.",
                 "ro": "Vizitați muzeul interactiv de la fața locului în caz de ploaie torențială.",
-                "en": "Visit the on-site interactive museum during heavy rain."
+                "en": "Visit the on-site interactive museum during heavy rain.",
+                "fr": "Le musée interactif est le refuge idéal lors des fortes averses."
               }
             },
             {
@@ -1189,7 +1347,8 @@
                 "de": "Parken Sie nah am Restaurant, um nass zu werden zu vermeiden.",
                 "hu": "Parkoljon közel az étteremhez, hogy elkerülje az ázást.",
                 "ro": "Parcați aproape de restaurant pentru a evita ploaia.",
-                "en": "Park close to the restaurant to avoid getting wet."
+                "en": "Park close to the restaurant to avoid getting wet.",
+                "fr": "Garez-vous au plus près du restaurant pour éviter les flaques."
               }
             },
             {
@@ -1198,7 +1357,8 @@
                 "de": "Die Arkaden rund um den Platz bieten perfekten Regenschutz.",
                 "hu": "A tér körüli árkádok tökéletes védelmet nyújtanak az eső ellen.",
                 "ro": "Arcadele din jurul pieței oferă protecție perfectă contra ploii.",
-                "en": "The arcades around the square provide perfect rain protection."
+                "en": "The arcades around the square provide perfect rain protection.",
+                "fr": "Les arcades entourant la place offrent une protection parfaite."
               }
             },
             {
@@ -1207,7 +1367,8 @@
                 "de": "Ein schneller Blick aus dem Auto oder ein kurzer Spaziergang.",
                 "hu": "Gyors pillantás az autóból vagy egy rövid séta.",
                 "ro": "O privire rapidă din mașină sau o plimbare scurtă.",
-                "en": "A quick look from the car or a very short walk."
+                "en": "A quick look from the car or a very short walk.",
+                "fr": "Un aperçu rapide depuis le véhicule ou une très courte marche."
               }
             }
           ],
@@ -1235,6 +1396,12 @@
               "Country roads may have aquaplaning risks during heavy rain.",
               "Pont du Gard has a large, covered visitor center.",
               "Uzès has many small shops under the arcades to explore."
+            ],
+            "fr": [
+              "Prévoyez un délai pour le stationnement, plus sollicité les jours gris.",
+              "Attention aux risques d'aquaplaning sur les routes secondaires.",
+              "Le site du Pont du Gard dispose d'un vaste centre d'accueil couvert.",
+              "Uzès offre de nombreuses boutiques à l'abri sous les arcades."
             ]
           }
         },
@@ -1243,7 +1410,8 @@
             "de": "Eine winterliche Tour mit dem Auto führt durch die klare, oft windige Landschaft der Provence. Beginnen Sie in Nîmes und fahren Sie zum Pont du Gard, der im Winterlicht spektakulär einsam wirkt. Mittags wärmen Sie sich in einem Bistro in Remoulins auf. Uzès ist im Winter ein Geheimtipp, besonders wenn die Trüffelsaison beginnt. Kehren Sie pünktlich zum frühen Sonnenuntergang nach Nîmes zurück.",
             "hu": "A téli autós túra a Provence tiszta, gyakran szeles tájain vezet keresztül. Kezdjen Nîmes-ben, majd hajtson a Pont du Gard-hoz, amely a téli fényben látványosan magányosnak tűnik. Ebédeljen meg egy remoulins-i bisztróban. Uzès télen igazi titkos tipp, főleg a szarvasgomba-szezon kezdetén. Térjen vissza Nîmes-be pontosan a korai naplementére.",
             "ro": "Un tur de iarnă cu mașina vă poartă prin peisajul curat și adesea vântos al Provencei. Începeți în Nîmes și conduceți spre Pont du Gard, care pare spectaculos de solitar în lumina iernii. La prânz, încălziți-vă într-un bistrou din Remoulins. Uzès este un pont excelent iarna, mai ales la începutul sezonului trufelor. Reveniți la Nîmes la timp pentru apusul timpuriu.",
-            "en": "A winter car tour leads through the clear, often windy landscape of Provence. Start in Nîmes and drive to Pont du Gard, which looks spectacularly solitary in the winter light. Warm up in a bistro in Remoulins for lunch. Uzès is a hidden gem in winter, especially as the truffle season begins. Return to Nîmes just in time for the early sunset."
+            "en": "A winter car tour leads through the clear, often windy landscape of Provence. Start in Nîmes and drive to Pont du Gard, which looks spectacularly solitary in the winter light. Warm up in a bistro in Remoulins for lunch. Uzès is a hidden gem in winter, especially as the truffle season begins. Return to Nîmes just in time for the early sunset.",
+            "fr": "Un tour en voiture en hiver vous mène à travers les paysages limpides et ventés du Gard. Commencez à Nîmes puis roulez vers le Pont du Gard, qui semble majestueusement solitaire dans la lumière d'hiver. Réchauffez-vous dans un bistro à Remoulins. Uzès est un joyau en hiver, marquant le début de la saison des truffes. Rentrez à Nîmes pour le coucher du soleil."
           },
           "stops": [
             {
@@ -1252,7 +1420,8 @@
                 "de": "Parken Sie in der Sonne, damit das Auto warm bleibt.",
                 "hu": "Parkoljon a napon, hogy az autó meleg maradjon.",
                 "ro": "Parcați la soare pentru ca mașina să rămână caldă.",
-                "en": "Park in the sun to keep the car interior warm."
+                "en": "Park in the sun to keep the car interior warm.",
+                "fr": "Garez-vous au soleil pour maintenir l'habitacle au chaud."
               }
             },
             {
@@ -1261,7 +1430,8 @@
                 "de": "Im Winter sind deutlich weniger Touristen vor Ort.",
                 "hu": "Télen lényegesen kevesebb a turista a helyszínen.",
                 "ro": "Iarna sunt mult mai puțini turiști la fața locului.",
-                "en": "There are significantly fewer tourists here in winter."
+                "en": "There are significantly fewer tourists here in winter.",
+                "fr": "Profitez de la tranquillité du site, loin de la foule estivale."
               }
             },
             {
@@ -1270,7 +1440,8 @@
                 "de": "Genießen Sie herzhafte Eintöpfe der Region.",
                 "hu": "Élvezze a régió kiadós egytálételeit.",
                 "ro": "Savurați tocănițele consistente ale regiunii.",
-                "en": "Enjoy the hearty regional stews."
+                "en": "Enjoy the hearty regional stews.",
+                "fr": "Savourez les plats mijotés régionaux comme la gardiane de taureau."
               }
             },
             {
@@ -1279,7 +1450,8 @@
                 "de": "Der Samstagsmarkt findet auch im Winter statt.",
                 "hu": "A szombati piac télen is üzemel.",
                 "ro": "Piața de sâmbătă are loc și în timpul iernii.",
-                "en": "The Saturday market still takes place in winter."
+                "en": "The Saturday market still takes place in winter.",
+                "fr": "Le célèbre marché du samedi se tient même en plein hiver."
               }
             },
             {
@@ -1288,7 +1460,8 @@
                 "de": "Das Licht am späten Nachmittag ist hier magisch.",
                 "hu": "A késő délutáni fények itt varázslatosak.",
                 "ro": "Lumina de după-amiază târzie este magică aici.",
-                "en": "The late afternoon light here is magical."
+                "en": "The late afternoon light here is magical.",
+                "fr": "La lumière rasante de fin d'après-midi est ici magique."
               }
             }
           ],
@@ -1316,6 +1489,12 @@
               "Parking at Pont du Gard is often cheaper in winter.",
               "Watch out for crosswinds on the highway (Mistral).",
               "Uzès is famous for its winter truffle markets in January."
+            ],
+            "fr": [
+              "Vérifiez la pression des pneus avec la baisse des températures.",
+              "Le stationnement au Pont du Gard est parfois plus simple en hiver.",
+              "Attention aux rafales de vent latéral sur l'autoroute A9.",
+              "Ne manquez pas les marchés aux truffes d'Uzès en janvier."
             ]
           }
         }
@@ -1349,7 +1528,8 @@
             "de": "Zentraler Verkehrsknotenpunkt.",
             "hu": "Központi közlekedési csomópont.",
             "ro": "Nod central de transport.",
-            "en": "Central transportation hub."
+            "en": "Central transportation hub.",
+            "fr": "Le pôle d'échanges central de la ville."
           }
         },
         {
@@ -1372,7 +1552,8 @@
             "de": "Nutzen Sie den Tram-Bus T1.",
             "hu": "Használja a T1-es villamos-buszt.",
             "ro": "Folosiți tram-autobuzul T1.",
-            "en": "Use the T1 tram-bus line."
+            "en": "Use the T1 tram-bus line.",
+            "fr": "Empruntez la ligne de tram-bus T1 (BHNS)."
           }
         },
         {
@@ -1395,7 +1576,8 @@
             "de": "Museum für zeitgenössische Kunst.",
             "hu": "Kortárs Művészeti Múzeum.",
             "ro": "Muzeu de artă contemporană.",
-            "en": "Contemporary Art Museum across Maison Carrée."
+            "en": "Contemporary Art Museum across Maison Carrée.",
+            "fr": "Musée d'art contemporain face à la Maison Carrée."
           }
         },
         {
@@ -1418,7 +1600,8 @@
             "de": "Buslinie 7 Richtung Tour Magne.",
             "hu": "7-es busz a Tour Magne felé.",
             "ro": "Linia 7 de autobuz spre Turnul Magne.",
-            "en": "Take bus line 7 towards Tour Magne."
+            "en": "Take bus line 7 towards Tour Magne.",
+            "fr": "Prenez la ligne de bus 7 direction Tour Magne."
           }
         },
         {
@@ -1441,7 +1624,8 @@
             "de": "Rückkehr zum Ausgangspunkt.",
             "hu": "Visszatérés a kiindulópontra.",
             "ro": "Întoarcere la punctul de plecare.",
-            "en": "Return to the starting point area."
+            "en": "Return to the starting point area.",
+            "fr": "Retour vers le secteur de la gare et du centre."
           }
         }
       ],
@@ -1449,7 +1633,8 @@
         "de": "Nîmes mit dem Tram-Bus zu erkunden ist effizient und modern. Die Linie T1 verbindet die wichtigsten historischen Stätten bequem. Nach dem Besuch der Kunstgalerie Carré d'Art bringt Sie der Bus hinauf zum Tour Magne, ohne dass Sie den ganzen Weg laufen müssen.",
         "hu": "Nîmes felfedezése villamos-busszal hatékony és modern. A T1-es vonal kényelmesen köti össze a legfontosabb történelmi helyszíneket. A Carré d'Art művészeti galéria után a busz felviszi Önt a Tour Magne-hoz, elkerülve a hosszú gyaloglást.",
         "ro": "Explorarea orașului Nîmes cu tram-autobuzul este eficientă și modernă. Linia T1 leagă confortabil principalele situri istorice. După vizitarea galeriei de artă Carré d'Art, autobuzul vă duce la Turnul Magne, evitând mersul pe jos.",
-        "en": "Exploring Nîmes by tram-bus is efficient and modern. The T1 line conveniently connects the most important historical sites. After visiting the Carré d'Art gallery, the bus takes you up to Tour Magne, saving you a long walk."
+        "en": "Exploring Nîmes by tram-bus is efficient and modern. The T1 line conveniently connects the most important historical sites. After visiting the Carré d'Art gallery, the bus takes you up to Tour Magne, saving you a long walk.",
+        "fr": "Explorer Nîmes en tram-bus est efficace et moderne. La ligne T1 relie les principaux sites historiques avec fluidité. Après la visite du Carré d'Art, le bus vous dépose au pied de la Tour Magne, vous évitant ainsi une longue marche en montée."
       },
       "gastro_picks": {
         "de": [
@@ -1474,6 +1659,12 @@
           {
             "name": "Ciel de Nîmes",
             "tip": "Rooftop terrace in Carré d'Art with great views."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Ciel de Nîmes",
+            "tip": "Restaurant au sommet du Carré d'Art avec vue panoramique."
           }
         ]
       },
@@ -1505,6 +1696,13 @@
             "tip": "Seating spots by the water.",
             "emoji": "⛲"
           }
+        ],
+        "fr": [
+          {
+            "name": "Canaux de la Fontaine",
+            "tip": "Bancs paisibles le long des quais ombragés.",
+            "emoji": "⛲"
+          }
         ]
       },
       "shopping_picks": {
@@ -1531,6 +1729,12 @@
             "name": "Rue de l'Aspic",
             "tip": "Popular shopping street in the pedestrian zone."
           }
+        ],
+        "fr": [
+          {
+            "name": "Rue de l'Aspic",
+            "tip": "Artère commerçante très prisée dans la zone piétonne."
+          }
         ]
       },
       "tips": {
@@ -1553,6 +1757,11 @@
           "Validate your ticket every time you board.",
           "The T1 line runs every 10 minutes.",
           "Use the 'Tango' app for real-time connections."
+        ],
+        "fr": [
+          "Validez systématiquement votre titre de transport à bord.",
+          "La ligne T1 circule avec une fréquence de 10 minutes.",
+          "Utilisez l'application 'Tango' pour les horaires en temps réel."
         ]
       },
       "variants": {
@@ -1561,7 +1770,8 @@
             "de": "Die Nutzung öffentlicher Verkehrsmittel in Nîmes ist bei Regen ideal. Starten Sie am Bahnhof und nehmen Sie den Bus T1 zur Arena. Mittags bietet das Carré d'Art ein trockenes kulturelles Erlebnis direkt gegenüber der Maison Carrée. Nach einem Mittagessen an der Place aux Herbes bringt Sie der Bus zum Einkaufszentrum Stade des Costières, wo Sie den restlichen Nachmittag im Trockenen verbringen können.",
             "hu": "A tömegközlekedés Nîmes-ben ideális választás esőben. Kezdjen a pályaudvarnál, és szálljon fel a T1-es buszra az Aréna felé. Délben a Carré d'Art száraz kulturális élményt nyújt közvetlenül a Maison Carrée-val szemben. A Place aux Herbes-en elköltött ebéd után a busz a Stade des Costières bevásárlónegyedébe viszi, ahol szárazon töltheti a délután hátralévő részét.",
             "ro": "Utilizarea transportului public în Nîmes este ideală pe ploaie. Începeți la gară și luați autobuzul T1 spre Arenă. La prânz, Carré d'Art oferă o experiență culturală uscată, chiar vizavi de Maison Carrée. După un prânz în Place aux Herbes, autobuzul vă duce la zona Stade des Costières, unde puteți petrece restul după-amiezii la adăpost.",
-            "en": "Using public transport in Nîmes is ideal when it rains. Start at the station and take the T1 bus to the Arena. Midday features the Carré d'Art for a dry cultural experience directly across from Maison Carrée. After lunch at Place aux Herbes, the bus takes you to the Stade des Costières shopping area, where you can spend the rest of the afternoon in the dry."
+            "en": "Using public transport in Nîmes is ideal when it rains. Start at the station and take the T1 bus to the Arena. Midday features the Carré d'Art for a dry cultural experience directly across from Maison Carrée. After lunch at Place aux Herbes, the bus takes you to the Stade des Costières shopping area, where you can spend the rest of the afternoon in the dry.",
+            "fr": "Le réseau de transport nîmois est parfait pour rester au sec. De la gare, prenez le T1 jusqu'aux Arènes. Le midi, le Carré d'Art offre une parenthèse culturelle lumineuse face à la Maison Carrée. Après un café Place aux Herbes, le bus vous conduit vers la zone commerciale des Costières pour un après-midi shopping à l'abri."
           },
           "stops": [
             {
@@ -1570,7 +1780,8 @@
                 "de": "Warten Sie in der Bahnhofshalle auf Ihren Anschluss.",
                 "hu": "Várjon az állomás csarnokában a csatlakozásra.",
                 "ro": "Așteptați în holul gării pentru legătura dumneavoastră.",
-                "en": "Wait in the station hall for your connection."
+                "en": "Wait in the station hall for your connection.",
+                "fr": "Patientez dans le hall de la gare pour votre correspondance."
               }
             },
             {
@@ -1579,7 +1790,8 @@
                 "de": "Die Tram-Busse halten direkt vor dem Denkmal.",
                 "hu": "A villamos-buszok közvetlenül a műemlék előtt állnak meg.",
                 "ro": "Autobuzele de tip tramvai opresc chiar în fața monumentului.",
-                "en": "The tram-buses stop right in front of the monument."
+                "en": "The tram-buses stop right in front of the monument.",
+                "fr": "Le tram-bus vous dépose juste devant l'entrée du monument."
               }
             },
             {
@@ -1588,7 +1800,8 @@
                 "de": "Ein moderner Bau mit viel Licht, auch bei grauem Himmel.",
                 "hu": "Modern épület rengeteg fénnyel, szürke égbolt mellett is.",
                 "ro": "O clădire modernă cu multă lumină, chiar și sub cer gri.",
-                "en": "A modern building with lots of light, even under grey skies."
+                "en": "A modern building with lots of light, even under grey skies.",
+                "fr": "Un édifice moderne et vitré, très agréable même sous la grisaille."
               }
             },
             {
@@ -1597,7 +1810,8 @@
                 "de": "Viele Cafés haben hier überdachte Terrassen.",
                 "hu": "Sok kávézónak van itt fedett terasza.",
                 "ro": "Multe cafenele au aici terase acoperite.",
-                "en": "Many cafes here have covered terraces."
+                "en": "Many cafes here have covered terraces.",
+                "fr": "De nombreux cafés du secteur disposent de terrasses bâchées."
               }
             },
             {
@@ -1606,7 +1820,8 @@
                 "de": "Das Einkaufszentrum ist ideal für regnerische Nachmittage.",
                 "hu": "A bevásárlóközpont ideális esős délutánokra.",
                 "ro": "Centrul comercial este ideal pentru după-amiezi ploioase.",
-                "en": "The shopping center is perfect for rainy afternoons."
+                "en": "The shopping center is perfect for rainy afternoons.",
+                "fr": "Le centre commercial est le refuge idéal pour les fins de journée pluvieuses."
               }
             }
           ],
@@ -1634,6 +1849,12 @@
               "The T1 line (tram-bus) is very comfortable and dry.",
               "A day pass is worth it for several short trips.",
               "Most central stops are covered."
+            ],
+            "fr": [
+              "L'application 'Tango Nîmes' vous donne les temps d'attente réels.",
+              "Le tram-bus T1 est spacieux, confortable et bien protégé.",
+              "Un pass 24h est rentabilisé dès le troisième trajet.",
+              "La plupart des stations principales disposent d'abribus."
             ]
           }
         },
@@ -1642,7 +1863,8 @@
             "de": "Mit dem Bus durch das winterliche Nîmes zu fahren, schont die Kräfte bei Kälte. Beginnen Sie am Bahnhof und lassen Sie sich bequem zur Arena bringen. Mittags bietet das Carré d'Art Wärme und einen tollen Blick auf die winterliche Stadt. Nach einem gemütlichen Essen führt die Fahrt zum Stade des Costières, wo Sie in den Geschäften letzte Winterangebote finden, bevor es zurück ins Zentrum geht.",
             "hu": "Busszal utazni a téli Nîmes-ben kíméli az erőt a hidegben. Kezdjen a pályaudvarnál, és vitessze magát kényelmesen az Arénához. Délben a Carré d'Art melegséget és remek kilátást nyújt a téli városra. Egy hangulatos ebéd után az út a Stade des Costières-hez vezet, ahol a boltokban megtalálhatja az utolsó téli ajánlatokat, mielőtt visszatérne a központba.",
             "ro": "Călătoria cu autobuzul prin Nîmes-ul de iarnă vă conservă energia pe frig. Începeți la gară și lăsați-vă purtați confortabil spre Arenă. La prânz, Carré d'Art oferă căldură și o vedere superbă asupra orașului iarna. După o masă plăcută, drumul continuă spre Stade des Costières, unde puteți găsi ultimele oferte de iarnă în magazine înainte de a reveni în centru.",
-            "en": "Taking the bus through winter Nîmes saves energy in the cold. Start at the station and get a comfortable ride to the Arena. Midday features the Carré d'Art for warmth and a great view of the winter city. After a cozy lunch, the trip leads to Stade des Costières, where you can find the last winter offers in the shops before returning to the center."
+            "en": "Taking the bus through winter Nîmes saves energy in the cold. Start at the station and get a comfortable ride to the Arena. Midday features the Carré d'Art for warmth and a great view of the winter city. After a cozy lunch, the trip leads to Stade des Costières, where you can find the last winter offers in the shops before returning to the center.",
+            "fr": "Traverser Nîmes en bus l'hiver permet de se déplacer sans subir le froid. De la gare, rejoignez confortablement les Arènes. Le midi, profitez du Carré d'Art pour sa chaleur et sa vue imprenable sur la ville hivernale. L'itinéraire se poursuit vers le stade des Costières pour dénicher les offres de saison avant de regagner le centre."
           },
           "stops": [
             {
@@ -1651,7 +1873,8 @@
                 "de": "Warme Wartebereiche sind im Bahnhof vorhanden.",
                 "hu": "Meleg várótermek állnak rendelkezésre az állomáson.",
                 "ro": "Zone de așteptare încălzite sunt disponibile în gară.",
-                "en": "Warm waiting areas are available in the station."
+                "en": "Warm waiting areas are available in the station.",
+                "fr": "Des espaces d'attente abrités sont disponibles en gare."
               }
             },
             {
@@ -1660,7 +1883,8 @@
                 "de": "Die Tram-Busse sind im Winter gut beheizt.",
                 "hu": "A villamos-buszok télen jól fűtöttek.",
                 "ro": "Autobuzele de tip tramvai sunt bine încălzite iarna.",
-                "en": "The tram-buses are well-heated in winter."
+                "en": "The tram-buses are well-heated in winter.",
+                "fr": "Les rames de tram-bus sont bien chauffées durant la saison."
               }
             },
             {
@@ -1669,7 +1893,8 @@
                 "de": "Genießen Sie den Blick auf die Maison Carrée von innen.",
                 "hu": "Élvezze a kilátást a Maison Carrée-ra belülről.",
                 "ro": "Savurați vederea spre Maison Carrée din interior.",
-                "en": "Enjoy the view of Maison Carrée from the inside."
+                "en": "Enjoy the view of Maison Carrée from the inside.",
+                "fr": "Admirez la Maison Carrée bien au chaud derrière les baies vitrées."
               }
             },
             {
@@ -1678,7 +1903,8 @@
                 "de": "Kleine Bistros bieten hier gemütliche Wärme.",
                 "hu": "A kis bisztrók barátságos melegséget kínálnak itt.",
                 "ro": "Micile bistrouri oferă o căldură primitoare aici.",
-                "en": "Small bistros here offer cozy warmth."
+                "en": "Small bistros here offer cozy warmth.",
+                "fr": "Les petits bistros du quartier offrent une chaleur bienvenue."
               }
             },
             {
@@ -1687,7 +1913,8 @@
                 "de": "Ein guter Ort, um den kalten Abendwind zu umgehen.",
                 "hu": "Jó hely a hideg esti szél elkerülésére.",
                 "ro": "Un loc bun pentru a evita vântul rece de seară.",
-                "en": "A good place to avoid the cold evening wind."
+                "en": "A good place to avoid the cold evening wind.",
+                "fr": "Un bon spot pour éviter les rafales froides du soir."
               }
             }
           ],
@@ -1715,6 +1942,12 @@
               "Use waiting times for a quick hot tea.",
               "The trip to Stade des Costières takes about 15 minutes.",
               "In the evening, the buses are often pleasantly empty."
+            ],
+            "fr": [
+              "Les bus T1 maintiennent une cadence élevée même en hiver.",
+              "Profitez des correspondances pour prendre un thé à emporter.",
+              "Le trajet vers le secteur des Costières dure environ 15 minutes.",
+              "En soirée, les bus sont souvent plus calmes et chauffés."
             ]
           }
         }

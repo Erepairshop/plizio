@@ -31,7 +31,8 @@
             "de": "Holen Sie sich hier eine Karte des Dorfes.",
             "hu": "Itt szerezhet be térképet a faluról.",
             "ro": "Luați o hartă a satului de aici.",
-            "en": "Pick up a map of the village here."
+            "en": "Pick up a map of the village here.",
+            "fr": "Récupérez un plan du village ici."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Zählen Sie die 216 Stufen beim Aufstieg.",
             "hu": "Számolja meg a 216 lépcsőfokot felfelé menet.",
             "ro": "Numărați cele 216 trepte în timp ce urcați.",
-            "en": "Count the 216 steps as you climb up."
+            "en": "Count the 216 steps as you climb up.",
+            "fr": "Comptez les 216 marches pendant votre ascension."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die berühmte Schwarze Madonna.",
             "hu": "Csodálja meg a híres Fekete Madonnát.",
             "ro": "Admirați faimoasa Madonă Neagră.",
-            "en": "Admire the famous Black Madonna statue."
+            "en": "Admire the famous Black Madonna statue.",
+            "fr": "Admirez la célèbre statue de la Vierge Noire."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Achten Sie auf das Schwert Durandal im Fels.",
             "hu": "Keresse a sziklába szúrt Durandal kardot.",
             "ro": "Căutați sabia Durandal înfiptă în stâncă.",
-            "en": "Look for the Durandal sword embedded in the rock."
+            "en": "Look for the Durandal sword embedded in the rock.",
+            "fr": "Cherchez l'épée Durandal plantée dans le rocher."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Der beste Panoramablick über das Alzou-Tal.",
             "hu": "A legjobb panoráma az Alzou-völgyre.",
             "ro": "Cea mai bună panoramă asupra văii Alzou.",
-            "en": "The best panoramic view over the Alzou valley."
+            "en": "The best panoramic view over the Alzou valley.",
+            "fr": "La meilleure vue panoramique sur la vallée de l'Alzou."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein schattiger Zickzack-Weg nach unten.",
             "hu": "Árnyas cikkcakkos ösvény lefelé menet.",
             "ro": "O potecă în zigzag la umbră spre bază.",
-            "en": "A shaded zigzag path on your way down."
+            "en": "A shaded zigzag path on your way down.",
+            "fr": "Un chemin ombragé en zigzag pour votre descente."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Perfekter Ort für ein Abschiedsfoto.",
             "hu": "Tökéletes hely egy búcsúfotóhoz.",
             "ro": "Locul perfect pentru o fotografie de rămas bun.",
-            "en": "Perfect spot for a final souvenir photo."
+            "en": "Perfect spot for a final souvenir photo.",
+            "fr": "L'endroit idéal pour une dernière photo souvenir."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Beginnen Sie Ihren Tag am Porte du Figuier und tauchen Sie ein in die mittelalterliche Atmosphäre der Hauptstraße. Der Aufstieg über die Grand Escalier ist ein klassisches Erlebnis, das früher Pilger auf Knien bewältigten. Der Vormittag gehört den heiligen Kapellen und der geheimnisvollen schwarzen Statue.\n\nNach einem kräftigen Mittagessen in der Unterstadt steigen Sie hinauf zum Schloss. Die Aussicht von den Festungsmauern ist schwindelerregend und zeigt die dramatische Lage des Ortes. Am Nachmittag schlendern Sie den Kreuzweg entlang, der sich sanft durch den Wald schlängelt.\n\nZum Abschluss wandern Sie hinüber nach L'Hospitalet. Von diesem Plateau aus hat man den ikonischen Blick auf das gesamte Dorf, das sich an den Felsen klammert. Wenn die Sonne tiefer steht, färben sich die Kalksteinfelsen in warmen Ockertönen.\n\nGenießen Sie den Abend bei einem Glas Wein aus der Region Cahors. Rocamadour ist bei Sonnenuntergang am ruhigsten, wenn die Tagesbesucher langsam abziehen und die Beleuchtung der Basilika die Szenerie in ein magisches Licht taucht.",
         "hu": "Kezdje a napot a Porte du Figuier-nél, és merüljön el a főutca középkori hangulatában. A Grand Escalier megmászása klasszikus élmény, amelyet a zarándokok régen térden állva tettek meg. A délelőtt a szent kápolnáké és a titokzatos fekete szoboré.\n\nEgy kiadós ebéd után az alsóvárosban, menjen fel a várba. A bástyákról nyíló kilátás szédítő, és jól mutatja a hely drámai fekvését. Délután sétáljon végig a Keresztúton, amely lágyan kanyarog az erdőn keresztül.\n\nVégezetül sétáljon át L'Hospitalet-be. Erről a fennsíkról nyílik az ikonikus kilátás az egész falura, amely a sziklába kapaszkodik. Ahogy a nap lejjebb süllyed, a mészkősziklák meleg okkersárga színt öltenek.\n\nÉlvezze az estét egy pohár Cahors borral. Rocamadour naplementekor a legcsendesebb, amikor a látogatók lassan elmennek, és a bazilika díszkivilágítása mágikus fénybe vonja a környéket.",
         "ro": "Începeți ziua la Porte du Figuier și scufundați-vă în atmosfera medievală a străzii principale. Urcarea pe Grand Escalier este o experiență clasică, pe care pelerinii o făceau pe vremuri în genunchi. Dimineața este dedicată capelelor sfinte și misterioasei statui negre.\n\nDupă un prânz copios în orașul de jos, urcați la castel. Vederea de pe zidurile fortăreței este amețitoare și arată locația dramatică a locului. După-amiaza, plimbați-vă pe Calea Crucii, care șerpuiește blând prin pădure.\n\nÎn încheiere, mergeți spre L'Hospitalet. De pe acest platou aveți vederea iconică asupra întregului sat care se agață de stânci. Pe măsură ce soarele coboară, stâncile de calcar capătă nuanțe calde de ocru.\n\nBucurați-vă de seară cu un pahar de vin din regiunea Cahors. Rocamadour este cel mai liniștit la apus, când vizitatorii de o zi pleacă încet, iar iluminatul basilicii scaldă scena într-o lumină magică.",
-        "en": "Start your day at the Porte du Figuier and immerse yourself in the medieval atmosphere of the main street. Climbing the Grand Escalier is a classic experience that pilgrims used to perform on their knees. The morning belongs to the sacred chapels and the mysterious black statue.\n\nAfter a hearty lunch in the lower town, ascend to the castle. The view from the ramparts is dizzying and showcases the dramatic setting of the site. In the afternoon, stroll along the Way of the Cross, which winds gently through the forest.\n\nTo finish, walk over to L'Hospitalet. From this plateau, you get the iconic view of the entire village clinging to the cliffs. As the sun sits lower, the limestone cliffs turn warm shades of ochre.\n\nEnjoy the evening with a glass of local Cahors wine. Rocamadour is quietest at sunset, as the day-trippers slowly depart and the basilica's illumination bathes the scene in a magical light."
+        "en": "Start your day at the Porte du Figuier and immerse yourself in the medieval atmosphere of the main street. Climbing the Grand Escalier is a classic experience that pilgrims used to perform on their knees. The morning belongs to the sacred chapels and the mysterious black statue.\n\nAfter a hearty lunch in the lower town, ascend to the castle. The view from the ramparts is dizzying and showcases the dramatic setting of the site. In the afternoon, stroll along the Way of the Cross, which winds gently through the forest.\n\nTo finish, walk over to L'Hospitalet. From this plateau, you get the iconic view of the entire village clinging to the cliffs. As the sun sits lower, the limestone cliffs turn warm shades of ochre.\n\nEnjoy the evening with a glass of local Cahors wine. Rocamadour is quietest at sunset, as the day-trippers slowly depart and the basilica's illumination bathes the scene in a magical light.",
+        "fr": "Commencez votre journée à la Porte du Figuier et plongez dans l'atmosphère médiévale de la rue principale. Monter le Grand Escalier est une expérience classique que les pèlerins accomplissaient autrefois à genoux. La matinée appartient aux chapelles sacrées et à la mystérieuse statue de la Vierge Noire.\n\nAprès un déjeuner copieux dans la ville basse, montez au château. La vue depuis les remparts est vertigineuse et met en valeur le cadre spectaculaire du site. L'après-midi, flânez le long du Chemin de Croix qui serpente doucement à travers la forêt.\n\nPour finir, marchez jusqu'à L'Hospitalet. Depuis ce plateau, vous bénéficiez de la vue emblématique sur tout le village accroché aux falaises. Alors que le soleil décline, les falaises calcaires se teintent de nuances chaudes d'ocre.\n\nProfitez de la soirée avec un verre de vin de Cahors local. Rocamadour est plus calme au coucher du soleil, alors que les excursionnistes partent lentement et que l'illumination de la basilique baigne la scène d'une lumière magique."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Confit de Canard",
             "tip": "Traditionally prepared duck leg, incredibly tender."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Fromage de Rocamadour",
+            "tip": "Petit fromage de chèvre à la texture crémeuse, parfait sur un toast chaud."
+          },
+          {
+            "name": "Confit de Canard",
+            "tip": "Cuisse de canard préparée traditionnellement, incroyablement tendre."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "Quiet walk along the river at the base.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plateau de l'Hospitalet",
+            "tip": "Meilleure vue panoramique sur l'ensemble de la cité.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fond de la Vallée de l'Alzou",
+            "tip": "Promenade paisible le long de la rivière à la base.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -281,6 +311,16 @@
             "name": "Artisan Jewelry",
             "tip": "Found in small workshops in the lower town."
           }
+        ],
+        "fr": [
+          {
+            "name": "Gâteau aux Noix",
+            "tip": "Célèbre spécialité de la région du Quercy."
+          },
+          {
+            "name": "Bijoux Artisanaux",
+            "tip": "Se trouvent dans de petits ateliers de la ville basse."
+          }
         ]
       },
       "tips": {
@@ -311,6 +351,13 @@
           "Visit the sanctuary early in the morning to avoid crowds.",
           "Park at the top in L'Hospitalet for an easier start.",
           "The town is beautifully illuminated at night."
+        ],
+        "fr": [
+          "Portez des chaussures de marche confortables car il y a beaucoup d'escaliers.",
+          "Utilisez l'ascenseur si la montée est trop pénible pour vous.",
+          "Visitez le sanctuaire tôt le matin pour éviter la foule.",
+          "Garez-vous en haut à L'Hospitalet pour un départ plus facile.",
+          "La ville est magnifiquement illuminée la nuit."
         ]
       },
       "variants": {
@@ -556,7 +603,8 @@
             "de": "Beginnen Sie den Morgen an der Porte du Figuier, wo die nassen Kalksteinmauern glänzen. Mittags bieten die Basilika und die Kapellen trockenen Zuflucht vor dem Regen. Am Nachmittag erfordern die Stufen und der Kreuzweg bei Nässe Vorsicht. Den Abend lassen wir bei nebliger, mystischer Aussicht in L'Hospitalet ausklingen.",
             "hu": "Kezdje a reggelt a Porte du Figuier-nél, ahol a vizes mészkőfalak különleges fényben tündökölnek. Délben a bazilika és a kápolnák nyújtanak száraz menedéket az eső elől. Délután a lépcsők és a kálváriaút fokozott figyelmet igényelnek a csúszós kövek miatt. A napot a ködbe burkolózó L'Hospitalet panorámájával zárjuk.",
             "ro": "Începeți dimineața la Porte du Figuier, unde zidurile de calcar umede strălucesc. La prânz, basilica și capelele oferă un refugiu uscat împotriva ploii. După-amiaza, treptele și drumul crucii necesită prudență sporită din cauza pietrelor alunecoase. Încheiem ziua cu panorama mistică și cețoasă de la L'Hospitalet.",
-            "en": "Start your morning at Porte du Figuier, where the wet limestone walls glisten. Spend the midday inside the Basilica and chapels to stay dry and admire the frescoes. In the afternoon, navigate the steps and Way of the Cross carefully as stones become slippery. End the day with a moody, mist-covered view from L'Hospitalet."
+            "en": "Start your morning at Porte du Figuier, where the wet limestone walls glisten. Spend the midday inside the Basilica and chapels to stay dry and admire the frescoes. In the afternoon, navigate the steps and Way of the Cross carefully as stones become slippery. End the day with a moody, mist-covered view from L'Hospitalet.",
+            "fr": "Commencez votre matinée à la Porte du Figuier, où les murs de calcaire mouillés scintillent. Passez le milieu de journée à l'intérieur de la Basilique et des chapelles pour rester au sec et admirer les fresques. L'après-midi, parcourez les marches et le Chemin de Croix avec prudence car les pierres deviennent glissantes. Terminez la journée avec une vue mystérieuse et brumeuse depuis L'Hospitalet."
           },
           "stops": [
             {
@@ -565,7 +613,8 @@
                 "de": "Die Torbögen bieten kurzzeitig Schutz vor Regenschauern.",
                 "hu": "A kapuívek rövid ideig védelmet nyújtanak a záporok elől.",
                 "ro": "Arcadele porții oferă adăpost temporar împotriva ploii.",
-                "en": "The gate arches provide brief shelter from passing showers."
+                "en": "The gate arches provide brief shelter from passing showers.",
+                "fr": "Les arches des portes offrent un bref abri contre les averses."
               }
             },
             {
@@ -574,7 +623,8 @@
                 "de": "Vorsicht, die 216 Stufen können bei Nässe sehr rutschig sein.",
                 "hu": "Vigyázat, a 216 lépcsőfok nedvesen nagyon csúszós lehet.",
                 "ro": "Atenție, cele 216 trepte pot fi foarte alunecoase când sunt ude.",
-                "en": "Caution, the 216 steps can be very slippery when wet."
+                "en": "Caution, the 216 steps can be very slippery when wet.",
+                "fr": "Attention, les 216 marches peuvent être très glissantes quand elles sont mouillées."
               }
             },
             {
@@ -583,7 +633,8 @@
                 "de": "Ein idealer Ort, um den stärksten Regen im Inneren abzuwarten.",
                 "hu": "Ideális hely a legerősebb eső kivárására a falak között.",
                 "ro": "Un loc ideal pentru a aștepta trecerea celei mai mari ploi.",
-                "en": "An ideal place to wait out the heaviest rain inside."
+                "en": "An ideal place to wait out the heaviest rain inside.",
+                "fr": "Un endroit idéal pour attendre la fin de la pluie à l'intérieur."
               }
             },
             {
@@ -592,7 +643,8 @@
                 "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung.",
                 "hu": "Használja ki az időt egy részletes belső megtekintésre.",
                 "ro": "Folosiți timpul pentru o vizită detaliată în interior.",
-                "en": "Take advantage of the time for a detailed indoor visit."
+                "en": "Take advantage of the time for a detailed indoor visit.",
+                "fr": "Profitez du temps pour une visite intérieure détaillée."
               }
             },
             {
@@ -601,7 +653,8 @@
                 "de": "Der Blick auf die neblige Schlucht ist besonders dramatisch.",
                 "hu": "A ködös szurdokra nyíló kilátás ilyenkor drámai hatású.",
                 "ro": "Vederea spre cheile cețoase este deosebit de dramatică.",
-                "en": "The view of the misty gorge is particularly dramatic now."
+                "en": "The view of the misty gorge is particularly dramatic now.",
+                "fr": "La vue sur les gorges brumeuses est particulièrement dramatique en ce moment."
               }
             },
             {
@@ -610,7 +663,8 @@
                 "de": "Festes Schuhwerk ist auf dem bewaldeten Zickzackweg wichtig.",
                 "hu": "A fás, cikkcakkos úton fontos a biztos tapadású cipő.",
                 "ro": "Încălțămintea stabilă este importantă pe drumul în zig-zag.",
-                "en": "Sturdy footwear is important on the wooded zigzag path."
+                "en": "Sturdy footwear is important on the wooded zigzag path.",
+                "fr": "Des chaussures robustes sont importantes sur le chemin forestier en zigzag."
               }
             },
             {
@@ -619,7 +673,8 @@
                 "de": "Das nahegelegene Café bietet Panoramablick im Trockenen.",
                 "hu": "A közeli kávézó panorámát kínál száraz, meleg helyről.",
                 "ro": "Cafeneaua din apropiere oferă panoramă dintr-un loc uscat.",
-                "en": "The nearby café offers panoramic views from a dry spot."
+                "en": "The nearby café offers panoramic views from a dry spot.",
+                "fr": "Le café voisin offre des vues panoramiques depuis un endroit sec."
               }
             }
           ],
@@ -647,6 +702,12 @@
               "Wear windproof rain gear as the plateau can be gusty.",
               "The sanctuaries are the best indoor retreats during heavy rain.",
               "Explore the local craft shops along the main street."
+            ],
+            "fr": [
+              "Utilisez les ascenseurs pour éviter les marches extérieures les plus glissantes.",
+              "Portez des vêtements de pluie coupe-vent car le plateau peut être venteux.",
+              "Les sanctuaires sont les meilleurs refuges intérieurs lors de fortes pluies.",
+              "Explorez les boutiques d'artisanat local le long de la rue principale."
             ]
           }
         },
@@ -655,7 +716,8 @@
             "de": "Erleben Sie die Stille eines Wintermorgens in den leeren Gassen. Mittags wärmen wir uns in der Basilika auf, während die Wintersonne tief steht. Am Nachmittag bietet der Weg zur Burg klare Fernsichten über das kahle Alzou-Tal. Der frühe Abend beleuchtet das Dorf spektakulär gegen den dunklen Winterhimmel.",
             "hu": "Tapasztalja meg a téli reggel csendjét az üres sikátorokban. Délben a bazilikában melegedünk fel, miközben a téli nap alacsonyan jár. Délután a vár felé vezető úton tiszta kilátás nyílik a kopár Alzou-völgyre. A kora este látványosan világítja meg a falut a sötét téli égbolt előtt.",
             "ro": "Experimentați liniștea unei dimineți de iarnă pe străzile pustii. La prânz ne încălzim în basilică, în timp ce soarele de iarnă e jos. După-amiaza, drumul spre castel oferă vederi clare peste valea Alzou desfrunzită. Seara devreme luminează spectaculos satul pe cerul întunecat.",
-            "en": "Experience the profound silence of a winter morning in the empty alleys. Spend midday warming up in the Basilica while the low winter sun hits the cliffs. In the afternoon, the walk to the castle offers crisp views over the bare Alzou valley. The early sunset illuminates the village spectacularly against the dark sky."
+            "en": "Experience the profound silence of a winter morning in the empty alleys. Spend midday warming up in the Basilica while the low winter sun hits the cliffs. In the afternoon, the walk to the castle offers crisp views over the bare Alzou valley. The early sunset illuminates the village spectacularly against the dark sky.",
+            "fr": "Découvrez le silence profond d'un matin d'hiver dans les ruelles vides. Passez le milieu de journée à vous réchauffer dans la Basilique pendant que le bas soleil d'hiver frappe les falaises. L'après-midi, la marche vers le château offre des vues nettes sur la vallée de l'Alzou dénudée. Le coucher de soleil précoce illumine le village de manière spectaculaire contre le ciel sombre."
           },
           "stops": [
             {
@@ -664,7 +726,8 @@
                 "de": "Warm anziehen, der Wind zieht oft durch das Stadttor.",
                 "hu": "Öltözzön melegen, a szél gyakran behúz a városkapun.",
                 "ro": "Îmbrăcați-vă gros, vântul bate adesea prin poarta orașului.",
-                "en": "Dress warmly, the wind often whistles through the city gate."
+                "en": "Dress warmly, the wind often whistles through the city gate.",
+                "fr": "Habillez-vous chaudement, le vent siffle souvent à travers la porte de la ville."
               }
             },
             {
@@ -673,7 +736,8 @@
                 "de": "Bei Frost können die Stufen vereist und gefährlich sein.",
                 "hu": "Fagy esetén a lépcsők jegesek és veszélyesek lehetnek.",
                 "ro": "În caz de îngheț, treptele pot fi înghețate și periculoase.",
-                "en": "In case of frost, the steps can be icy and dangerous."
+                "en": "In case of frost, the steps can be icy and dangerous.",
+                "fr": "En cas de gel, les marches peuvent être verglacées et dangereuses."
               }
             },
             {
@@ -682,7 +746,8 @@
                 "de": "Die brennenden Votivkerzen spenden eine warme Atmosphäre.",
                 "hu": "A gyertyák lángja meghitt és meleg hangulatot áraszt.",
                 "ro": "Lumânările aprinse oferă o atmosferă caldă și primitoare.",
-                "en": "The burning votive candles provide a warm atmosphere."
+                "en": "The burning votive candles provide a warm atmosphere.",
+                "fr": "Les cierges votifs allumés créent une atmosphère chaleureuse."
               }
             },
             {
@@ -691,7 +756,8 @@
                 "de": "Drinnen ist es oft wärmer als in den zugigen Gassen.",
                 "hu": "Odabent gyakran melegebb van, mint a huzatos utcákon.",
                 "ro": "În interior este adesea mai cald decât pe străzile cu curent.",
-                "en": "It is often warmer inside than in the drafty alleys."
+                "en": "It is often warmer inside than in the drafty alleys.",
+                "fr": "Il fait souvent plus chaud à l'intérieur que dans les ruelles venteuses."
               }
             },
             {
@@ -700,7 +766,8 @@
                 "de": "Frühzeitiger Sonnenuntergang gegen 17:00 Uhr beachten.",
                 "hu": "Ügyeljen a korai, 17:00 óra körüli naplementére.",
                 "ro": "Atenție la apusul devreme, în jurul orei 17:00.",
-                "en": "Note the early sunset around 5:00 PM."
+                "en": "Note the early sunset around 5:00 PM.",
+                "fr": "Notez le coucher de soleil précoce vers 17h00."
               }
             },
             {
@@ -709,7 +776,8 @@
                 "de": "Die laubfreien Bäume erlauben neue Durchblicke ins Tal.",
                 "hu": "A lombkorona nélküli fák új kilátást engednek a völgybe.",
                 "ro": "Copacii fără frunze permit noi perspective spre vale.",
-                "en": "The leafless trees allow new glimpses into the valley."
+                "en": "The leafless trees allow new glimpses into the valley.",
+                "fr": "Les arbres sans feuilles permettent de nouveaux aperçus sur la vallée."
               }
             },
             {
@@ -718,7 +786,8 @@
                 "de": "Genießen Sie den Blick auf die beleuchtete Felsenstadt.",
                 "hu": "Élvezze a kivilágított sziklaváros látványát a sötétben.",
                 "ro": "Bucurați-vă de vederea orașului iluminat pe stâncă.",
-                "en": "Enjoy the view of the illuminated cliffside town."
+                "en": "Enjoy the view of the illuminated cliffside town.",
+                "fr": "Profitez de la vue sur la cité illuminée à flanc de falaise."
               }
             }
           ],
@@ -746,6 +815,12 @@
               "Most restaurants have limited opening hours in winter.",
               "Utilize the midday hours for outdoor explorations.",
               "Check the ground for potential black ice or frost."
+            ],
+            "fr": [
+              "Habillez-vous chaudement car il fait froid à l'ombre des falaises.",
+              "La plupart des restaurants ont des horaires d'ouverture limités en hiver.",
+              "Utilisez les heures du milieu de journée pour vos explorations extérieures.",
+              "Vérifiez le sol pour détecter d'éventuelles plaques de verglas ou de givre."
             ]
           }
         }
@@ -774,7 +849,8 @@
             "de": "Bester Startpunkt für Radtouren.",
             "hu": "A legjobb kiindulópont kerékpárosoknak.",
             "ro": "Cel mai bun punct de plecare pentru bicicliști.",
-            "en": "Best starting point for cyclists."
+            "en": "Best starting point for cyclists.",
+            "fr": "Le meilleur point de départ pour les cyclistes."
           }
         },
         {
@@ -792,7 +868,8 @@
             "de": "Prähistorische Malereien in einer Höhle.",
             "hu": "Őskori barlangrajzok egy kis barlangban.",
             "ro": "Picturi preistorice într-o peșteră mică.",
-            "en": "Prehistoric cave paintings in a small cave."
+            "en": "Prehistoric cave paintings in a small cave.",
+            "fr": "Peintures rupestres préhistoriques dans une petite grotte."
           }
         },
         {
@@ -810,7 +887,8 @@
             "de": "Eine alte Mühle am Fluss Alzou.",
             "hu": "Régi malom az Alzou folyó partján.",
             "ro": "O moară veche pe malul râului Alzou.",
-            "en": "An old mill on the banks of the Alzou."
+            "en": "An old mill on the banks of the Alzou.",
+            "fr": "Un vieux moulin sur les rives de l'Alzou."
           }
         },
         {
@@ -828,7 +906,8 @@
             "de": "Über 200 Berberaffen in Freiheit.",
             "hu": "Több mint 200 szabadon élő berbermajom.",
             "ro": "Peste 200 de maimuțe berbere în libertate.",
-            "en": "Over 200 Barbary macaques living in freedom."
+            "en": "Over 200 Barbary macaques living in freedom.",
+            "fr": "Plus de 200 macaques de Barbarie vivant en liberté."
           }
         },
         {
@@ -846,7 +925,8 @@
             "de": "Ruhiger Blick auf das Schloss.",
             "hu": "Csendes kilátás a várra.",
             "ro": "Vedere liniștită spre castel.",
-            "en": "Quiet view towards the castle."
+            "en": "Quiet view towards the castle.",
+            "fr": "Vue paisible vers le château."
           }
         }
       ],
@@ -854,7 +934,8 @@
         "de": "Erkunden Sie die Umgebung von Rocamadour mit dem Fahrrad. Starten Sie in L'Hospitalet und besuchen Sie die nahe gelegene Grotte des Merveilles. Danach radeln Sie hinunter in das ruhige Alzou-Tal, wo Sie die Natur fernab der Touristenströme genießen können.\n\nDer Nachmittag führt Sie zur Forêt des Singes, einem einzigartigen Park, in dem Affen frei herumlaufen. Die Rückfahrt bietet weite Ausblicke über die karge Kalksteinlandschaft des Causse de Gramat.",
         "hu": "Fedezze fel Rocamadour környékét kerékpárral. Kezdjen L'Hospitalet-ben, látogasson el a Csodák Barlangjához, majd guruljon le a csendes Alzou-völgybe. Itt a turistáktól távol élvezheti a természetet.\n\nA délután a Majomerdőbe vezet, ahol szabadon élő majmokat láthat. A visszaút során tágas kilátás nyílik a Causse de Gramat mészkőfennsíkjára.",
         "ro": "Explorați împrejurimile Rocamadourului cu bicicleta. Începeți în L'Hospitalet, vizitați Grotte des Merveilles, apoi coborâți în valea liniștită Alzou. Aici vă puteți bucura de natură departe de mulțimile de turiști.\n\nDupă-amiaza vă duce la Pădurea Maimuțelor, unde puteți vedea maimuțe în libertate. Drumul de întoarcere oferă vederi largi asupra peisajului calcaros din Causse de Gramat.",
-        "en": "Explore the surroundings of Rocamadour by bike. Start in L'Hospitalet, visit the Cave of Wonders, then cycle down into the quiet Alzou valley. Here you can enjoy nature away from the tourist crowds.\n\nThe afternoon takes you to the Monkey Forest, where you can see free-roaming monkeys. The ride back offers wide views over the limestone landscape of the Causse de Gramat."
+        "en": "Explore the surroundings of Rocamadour by bike. Start in L'Hospitalet, visit the Cave of Wonders, then cycle down into the quiet Alzou valley. Here you can enjoy nature away from the tourist crowds.\n\nThe afternoon takes you to the Monkey Forest, where you can see free-roaming monkeys. The ride back offers wide views over the limestone landscape of the Causse de Gramat.",
+        "fr": "Explorez les environs de Rocamadour à vélo. Commencez à L'Hospitalet, visitez la Grotte des Merveilles, puis descendez dans la paisible vallée de l'Alzou. Ici, vous pourrez profiter de la nature loin des foules de touristes.\n\nL'après-midi vous emmène à la Forêt des Singes, où vous pourrez voir des singes en liberté. Le trajet de retour offre de larges vues sur le paysage calcaire du Causse de Gramat."
       },
       "gastro_picks": {
         "de": [],
@@ -890,6 +971,10 @@
         "en": [
           "The roads are hilly, an e-bike is recommended.",
           "Watch out for hikers on shared paths."
+        ],
+        "fr": [
+          "Les routes sont vallonnées, un vélo électrique est recommandé.",
+          "Attention aux randonneurs sur les sentiers partagés."
         ]
       },
       "variants": {
@@ -989,7 +1074,8 @@
             "de": "Eine erfrischende Fahrt durch das Alzou-Tal am Morgen. Die Grotte des Merveilles bietet mittags ein perfektes, trockenes Ziel unter Tage. Nachmittags radeln wir vorsichtig entlang des Moulin de Caoulet, wo die Wege weicher sein können. Der Tag endet auf dem Plateau, wo der Wind den Regen peitschen kann.",
             "hu": "Frissítő reggeli tekerés az Alzou-völgyben. A Grotte des Merveilles délben tökéletes, száraz úticélt jelent a föld alatt. Délután óvatosan haladunk a Moulin de Caoulet mentén, ahol az utak felázhatnak. A nap a fennsíkon zárul, ahol a szél erősebben fújhatja az esőt.",
             "ro": "O plimbare răcoritoare prin valea Alzou dimineața. Grotte des Merveilles oferă la prânz o destinație perfectă și uscată sub pământ. După-amiaza pedalăm cu grijă pe lângă Moulin de Caoulet, unde drumurile pot fi moi. Ziua se încheie pe platou, unde vântul poate intensifica ploaia.",
-            "en": "A refreshing morning ride through the Alzou valley. The Grotte des Merveilles provides a perfect, dry underground destination at midday. In the afternoon, cycle carefully near Moulin de Caoulet, where paths may be soft. The day ends on the plateau, where the wind can make the rain feel sharper."
+            "en": "A refreshing morning ride through the Alzou valley. The Grotte des Merveilles provides a perfect, dry underground destination at midday. In the afternoon, cycle carefully near Moulin de Caoulet, where paths may be soft. The day ends on the plateau, where the wind can make the rain feel sharper.",
+            "fr": "Une balade matinale rafraîchissante à travers la vallée de l'Alzou. La Grotte des Merveilles constitue une destination souterraine parfaite et sèche à la mi-journée. L'après-midi, pédalez prudemment près du Moulin de Caoulet, où les sentiers peuvent être meubles. La journée se termine sur le plateau, où le vent peut rendre la pluie plus vive."
           },
           "stops": [
             {
@@ -998,7 +1084,8 @@
                 "de": "Vorsicht beim Abfahren in den Ort auf nassem Asphalt.",
                 "hu": "Vigyázzon a városba vezető lejtőn a nedves aszfalton.",
                 "ro": "Atenție la coborârea spre oraș pe asfaltul umed.",
-                "en": "Be careful when descending into the town on wet asphalt."
+                "en": "Be careful when descending into the town on wet asphalt.",
+                "fr": "Soyez prudent en descendant vers la ville sur l'asphalte mouillé."
               }
             },
             {
@@ -1007,7 +1094,8 @@
                 "de": "Idealer Stopp, um das Fahrrad im Trockenen abzustellen.",
                 "hu": "Ideális megálló a kerékpár száraz helyen való leállításához.",
                 "ro": "Popas ideal pentru a lăsa bicicleta la loc uscat.",
-                "en": "Ideal stop to park the bike in a dry spot."
+                "en": "Ideal stop to park the bike in a dry spot.",
+                "fr": "Arrêt idéal pour garer le vélo dans un endroit sec."
               }
             },
             {
@@ -1016,7 +1104,8 @@
                 "de": "Der Weg entlang des Flusses kann schlammig sein.",
                 "hu": "A folyó menti út sáros és csúszós lehet.",
                 "ro": "Drumul de-a lungul râului poate fi noroios.",
-                "en": "The path along the river can be muddy and slick."
+                "en": "The path along the river can be muddy and slick.",
+                "fr": "Le sentier le long de la rivière peut être boueux et glissant."
               }
             },
             {
@@ -1025,7 +1114,8 @@
                 "de": "Bei starkem Regen suchen die Affen Schutz unter Bäumen.",
                 "hu": "Erős esőben a majmok a fák alatt keresnek menedéket.",
                 "ro": "În caz de ploaie torențială, maimuțele se adăpostesc sub copaci.",
-                "en": "During heavy rain, the monkeys seek shelter under trees."
+                "en": "During heavy rain, the monkeys seek shelter under trees.",
+                "fr": "Pendant les fortes pluies, les singes cherchent refuge sous les arbres."
               }
             },
             {
@@ -1034,7 +1124,8 @@
                 "de": "Vorsicht vor Seitenwinden beim Radfahren auf der Klippe.",
                 "hu": "Vigyázzon az oldalszéllel a szikla menti kerékpározáskor.",
                 "ro": "Atenție la vântul lateral când pedalați pe stâncă.",
-                "en": "Watch out for crosswinds while cycling on the plateau."
+                "en": "Watch out for crosswinds while cycling on the plateau.",
+                "fr": "Attention aux vents de travers en pédalant sur le plateau."
               }
             }
           ],
@@ -1062,6 +1153,12 @@
               "Avoid sharp braking maneuvers on wet pavement.",
               "Wear waterproof overshoes and gloves for comfort.",
               "Make use of shelters near the parking areas during downpours."
+            ],
+            "fr": [
+              "Des garde-boue sur votre vélo sont essentiels par ce temps.",
+              "Évitez les freinages brusques sur la chaussée mouillée.",
+              "Portez des surchaussures imperméables et des gants pour plus de confort.",
+              "Utilisez les abris près des parkings pendant les fortes averses."
             ]
           }
         },
@@ -1070,7 +1167,8 @@
             "de": "Ein frischer Start in L'Hospitalet bei klarer Winterluft. Mittags erkunden wir die Höhle, in der konstant milde Temperaturen herrschen. Die Fahrt zum Moulin de Caoulet führt durch die winterlich kahle Natur des Tals. Nachmittags geht es hinauf zum Plateau, wo wir die weite Sicht vor dem frühen Sonnenuntergang genießen.",
             "hu": "Friss kezdés L'Hospitalet-nél a tiszta téli levegőben. Délben a barlangot fedezzük fel, ahol állandó, enyhe a hőmérséklet. A tekerés a Moulin de Caoulet-hoz a völgy téli, kopár természetén át vezet. Délután felkapaszkodunk a fennsíkra, hogy élvezzük a távoli kilátást a korai naplemente előtt.",
             "ro": "Un început proaspăt la L'Hospitalet în aerul curat de iarnă. La prânz explorăm peștera, unde temperaturile sunt constant blânde. Drumul spre Moulin de Caoulet trece prin natura hibernală a văii. După-amiaza urcăm spre platou pentru a savura priveliștea înainte de apus.",
-            "en": "A crisp start at L'Hospitalet in the clear winter air. Spend midday exploring the cave, which maintains a constant mild temperature. The ride to Moulin de Caoulet takes you through the stark winter beauty of the valley. In the afternoon, climb to the plateau to catch the long shadows before the early sunset."
+            "en": "A crisp start at L'Hospitalet in the clear winter air. Spend midday exploring the cave, which maintains a constant mild temperature. The ride to Moulin de Caoulet takes you through the stark winter beauty of the valley. In the afternoon, climb to the plateau to catch the long shadows before the early sunset.",
+            "fr": "Un départ tonique à L'Hospitalet dans l'air pur de l'hiver. Passez le milieu de journée à explorer la grotte, qui maintient une température douce constante. Le trajet vers le Moulin de Caoulet vous fait traverser la beauté austère de la vallée en hiver. L'après-midi, montez sur le plateau pour saisir les ombres allongées avant le coucher de soleil précoce."
           },
           "stops": [
             {
@@ -1079,7 +1177,8 @@
                 "de": "Prüfen Sie den Reifendruck für besseren Halt auf kaltem Asphalt.",
                 "hu": "Ellenőrizze a keréknyomást a jobb tapadásért a hideg aszfalton.",
                 "ro": "Verificați presiunea roților pentru aderență pe asfalt rece.",
-                "en": "Check tire pressure for better grip on cold asphalt."
+                "en": "Check tire pressure for better grip on cold asphalt.",
+                "fr": "Vérifiez la pression des pneus pour une meilleure adhérence sur l'asphalte froid."
               }
             },
             {
@@ -1088,7 +1187,8 @@
                 "de": "Ein warmer Zufluchtsort mit konstanten 13 Grad Celsius.",
                 "hu": "Meleg menedékhely állandó 13 Celsius-fokkal.",
                 "ro": "Un refugiu cald cu o temperatură constantă de 13 grade.",
-                "en": "A warm refuge with a constant 13 degrees Celsius."
+                "en": "A warm refuge with a constant 13 degrees Celsius.",
+                "fr": "Un refuge chaleureux avec une température constante de 13 degrés Celsius."
               }
             },
             {
@@ -1097,7 +1197,8 @@
                 "de": "Das Tal ist im Winter deutlich kälter als das Plateau.",
                 "hu": "A völgy télen jelentősen hidegebb, mint a fennsík.",
                 "ro": "Valea este mult mai rece iarna decât platoul.",
-                "en": "The valley is significantly colder than the plateau in winter."
+                "en": "The valley is significantly colder than the plateau in winter.",
+                "fr": "La vallée est nettement plus froide que le plateau en hiver."
               }
             },
             {
@@ -1106,7 +1207,8 @@
                 "de": "Saisonal geschlossen von Nov. bis März, nur Vorbeifahrt.",
                 "hu": "Szezonálisan zárva nov. és márc. között, csak elhaladás.",
                 "ro": "Închis sezonier din nov. până în martie, doar trecere.",
-                "en": "Seasonally closed from Nov. to March, exterior view only."
+                "en": "Seasonally closed from Nov. to March, exterior view only.",
+                "fr": "Fermé de novembre à mars, vue extérieure uniquement."
               }
             },
             {
@@ -1115,7 +1217,8 @@
                 "de": "Die tiefstehende Sonne kann beim Fahren stark blenden.",
                 "hu": "Az alacsonyan járó nap erősen vakíthat vezetés közben.",
                 "ro": "Soarele jos poate fi foarte orbitor în timpul mersului.",
-                "en": "The low-hanging sun can be very blinding while riding."
+                "en": "The low-hanging sun can be very blinding while riding.",
+                "fr": "Le soleil bas peut être très éblouissant en roulant."
               }
             }
           ],
@@ -1143,6 +1246,12 @@
               "Plan to be back before darkness falls (around 5 PM).",
               "Avoid icy patches in the shaded zones of the valley.",
               "Bring a thermos with warm tea to stay hydrated and warm."
+            ],
+            "fr": [
+              "Portez des vêtements thermiques et des couches extérieures coupe-vent.",
+              "Prévoyez d'être de retour avant la tombée de la nuit (vers 17h).",
+              "Évitez les zones glacées dans les parties ombragées de la vallée.",
+              "Apportez un thermos de thé chaud pour rester hydraté et au chaud."
             ]
           }
         }
@@ -1171,7 +1280,8 @@
             "de": "Parken Sie am Fuße des Tals (P1).",
             "hu": "Parkoljon a völgy alján (P1).",
             "ro": "Parcați la baza văii (P1).",
-            "en": "Park at the bottom of the valley (P1)."
+            "en": "Park at the bottom of the valley (P1).",
+            "fr": "Garez-vous au fond de la vallée (P1)."
           }
         },
         {
@@ -1189,7 +1299,8 @@
             "de": "Ideal für Familien mit Kindern.",
             "hu": "Ideális kisgyermekes családoknak.",
             "ro": "Ideal pentru familiile cu copii.",
-            "en": "Ideal for families with children."
+            "en": "Ideal for families with children.",
+            "fr": "Idéal pour les familles avec enfants."
           }
         },
         {
@@ -1207,7 +1318,8 @@
             "de": "Reservieren Sie Tickets weit im Voraus!",
             "hu": "Foglaljon jegyet jó előre!",
             "ro": "Rezervați bilete cu mult timp înainte!",
-            "en": "Book tickets well in advance!"
+            "en": "Book tickets well in advance!",
+            "fr": "Réservez vos billets bien à l'avance !"
           }
         },
         {
@@ -1225,7 +1337,8 @@
             "de": "Eines der schönsten Dörfer Frankreichs.",
             "hu": "Franciaország egyik legszebb faluja.",
             "ro": "Unul dintre cele mai frumoase sate din Franța.",
-            "en": "One of the most beautiful villages in France."
+            "en": "One of the most beautiful villages in France.",
+            "fr": "L'un des plus beaux villages de France."
           }
         },
         {
@@ -1243,7 +1356,8 @@
             "de": "Ein spektakulärer 30m hoher Wasserfall.",
             "hu": "Látványos, 30 méter magas vízesés.",
             "ro": "O cascadă spectaculoasă de 30 m.",
-            "en": "A spectacular 30m high waterfall."
+            "en": "A spectacular 30m high waterfall.",
+            "fr": "Une cascade spectaculaire de 30m de haut."
           }
         }
       ],
@@ -1251,7 +1365,8 @@
         "de": "Mit dem Auto verbinden Sie Rocamadour mit den Schätzen des Lot-Tals. Besuchen Sie morgens das Heiligtum und fahren Sie dann zum beeindruckenden Gouffre de Padirac, einer riesigen unterirdischen Höhle mit einem Fluss.\n\nDen Nachmittag verbringen Sie in Loubressac, einem Blumendorf mit herrlicher Aussicht, und beenden den Tag am Wasserfall von Autoire, der in einem natürlichen Amphitheater aus Felsen liegt.",
         "hu": "Autóval összekötheti Rocamadourt a Lot-völgy kincseivel. Reggel látogassa meg a szentélyt, majd induljon a lenyűgöző Gouffre de Padirac-hoz, amely egy óriási földalatti barlang folyóval.\n\nA délutánt töltse Loubressac-ban, a virágos faluban, és fejezze be a napot az Autoire vízesésnél, amely egy természetes szikla-amfiteátrumban található.",
         "ro": "Cu mașina puteți combina Rocamadour cu comorile văii Lot. Vizitați sanctuarul dimineața, apoi mergeți la impresionantul Gouffre de Padirac, o peșteră subterană uriașă cu un râu.\n\nPetreceți după-amiaza în Loubressac, un sat plin de flori, și încheiați ziua la cascada Autoire, situată într-un amfiteatru natural de stâncă.",
-        "en": "By car, you can combine Rocamadour with the treasures of the Lot valley. Visit the sanctuary in the morning, then head to the impressive Gouffre de Padirac, a giant underground cave with a river.\n\nSpend the afternoon in Loubressac, a floral village with great views, and end the day at the Autoire waterfall, set in a natural rock amphitheater."
+        "en": "By car, you can combine Rocamadour with the treasures of the Lot valley. Visit the sanctuary in the morning, then head to the impressive Gouffre de Padirac, a giant underground cave with a river.\n\nSpend the afternoon in Loubressac, a floral village with great views, and end the day at the Autoire waterfall, set in a natural rock amphitheater.",
+        "fr": "En voiture, vous pouvez combiner Rocamadour avec les trésors de la vallée du Lot. Visitez le sanctuaire le matin, puis dirigez-vous vers l'impressionnant Gouffre de Padirac, une cavité souterraine géante traversée par une rivière.\n\nPassez l'après-midi à Loubressac, un village fleuri offrant de superbes vues, et terminez la journée à la cascade d'Autoire, nichée dans un amphithéâtre naturel de roches."
       },
       "gastro_picks": {
         "de": [],
@@ -1287,6 +1402,10 @@
         "en": [
           "The roads are narrow and winding, drive carefully.",
           "Book cave tours online."
+        ],
+        "fr": [
+          "Les routes sont étroites et sinueuses, conduisez prudemment.",
+          "Réservez les visites des grottes en ligne."
         ]
       },
       "variants": {
@@ -1386,7 +1505,8 @@
             "de": "Ein entspannter Start im Heiligtum, gut geschützt vor dem Regen. Mittags besuchen wir die Affen, die oft unter den Bäumen Schutz suchen. Das Highlight ist der Gouffre de Padirac am Nachmittag, eine faszinierende Unterwelt, in der man den Regen völlig vergisst. Der Abend in Loubressac bietet eine romantische, wolkenverhangene Kulisse.",
             "hu": "Nyugodt kezdés a szentélynél, jól védve az esőtől. Délben meglátogatjuk a majmokat, akik gyakran a fák alatt keresnek menedéket. A nap fénypontja délután a Gouffre de Padirac, egy lenyűgöző alvilág, ahol teljesen elfelejtheti az esőt. Az este Loubressac-ban romantikus, felhős díszletek közt telik.",
             "ro": "Un început relaxat la sanctuar, bine protejat de ploaie. La prânz vizităm maimuțele, care se adăpostesc adesea sub copaci. Punctul culminant este Gouffre de Padirac după-amiaza, o lume subterană fascinantă unde uiți de ploaie. Seara în Loubressac oferă un decor romantic și înnorat.",
-            "en": "A relaxed start at the Sanctuary, well-sheltered from the rain. Spend midday visiting the monkeys, who often huddle under the canopy. The highlight is Gouffre de Padirac in the afternoon, a fascinating underworld where you'll completely forget the rain. The evening in Loubressac offers a romantic, cloud-swept backdrop."
+            "en": "A relaxed start at the Sanctuary, well-sheltered from the rain. Spend midday visiting the monkeys, who often huddle under the canopy. The highlight is Gouffre de Padirac in the afternoon, a fascinating underworld where you'll completely forget the rain. The evening in Loubressac offers a romantic, cloud-swept backdrop.",
+            "fr": "Un départ détendu au Sanctuaire, bien à l'abri de la pluie. Passez le milieu de journée à visiter les singes, qui se blottissent souvent sous la canopée. Le point fort est le Gouffre de Padirac l'après-midi, un monde souterrain fascinant où vous oublierez complètement la pluie. La soirée à Loubressac offre un décor romantique balayé par les nuages."
           },
           "stops": [
             {
@@ -1395,7 +1515,8 @@
                 "de": "Parken Sie im Parkhaus L'Hospitalet für trockenen Zugang.",
                 "hu": "Parkoljon L'Hospitalet parkolóházában a száraz bejutáshoz.",
                 "ro": "Parcați în parcarea L'Hospitalet pentru acces uscat.",
-                "en": "Park in the L'Hospitalet parking garage for dry access."
+                "en": "Park in the L'Hospitalet parking garage for dry access.",
+                "fr": "Garez-vous au parking couvert de L'Hospitalet pour un accès au sec."
               }
             },
             {
@@ -1404,7 +1525,8 @@
                 "de": "Befestigte Wege sorgen für saubere Schuhe trotz Regen.",
                 "hu": "A burkolt utak tiszta cipőt biztosítanak az eső ellenére is.",
                 "ro": "Potecile amenajate asigură încălțăminte curată în ciuda ploii.",
-                "en": "Paved paths ensure clean shoes despite the rain."
+                "en": "Paved paths ensure clean shoes despite the rain.",
+                "fr": "Les sentiers goudronnés garantissent des chaussures propres malgré la pluie."
               }
             },
             {
@@ -1413,7 +1535,8 @@
                 "de": "Perfekt bei Regen: 103 Meter unter der Erde ist es trocken.",
                 "hu": "Esőben tökéletes: 103 méterrel a föld alatt száraz az idő.",
                 "ro": "Perfect pe ploaie: la 103 metri sub pământ este uscat.",
-                "en": "Perfect for rain: it is dry 103 meters underground."
+                "en": "Perfect for rain: it is dry 103 meters underground.",
+                "fr": "Parfait pour la pluie : il fait sec à 103 mètres sous terre."
               }
             },
             {
@@ -1422,7 +1545,8 @@
                 "de": "Das Dorf wirkt im Regen besonders zeitlos und ruhig.",
                 "hu": "A falu az esőben különösen időtlennek és nyugodtnak tűnik.",
                 "ro": "Satul pare deosebit de atemporal și liniștit pe ploaie.",
-                "en": "The village feels especially timeless and quiet in the rain."
+                "en": "The village feels especially timeless and quiet in the rain.",
+                "fr": "Le village semble particulièrement intemporel et calme sous la pluie."
               }
             },
             {
@@ -1431,7 +1555,8 @@
                 "de": "Nach Regen ist der Wasserfall besonders beeindruckend.",
                 "hu": "Eső után a vízesés különösen lenyűgöző látványt nyújt.",
                 "ro": "După ploaie, cascada este deosebit de impresionantă.",
-                "en": "After rain, the waterfall is particularly impressive and powerful."
+                "en": "After rain, the waterfall is particularly impressive and powerful.",
+                "fr": "Après la pluie, la cascade est particulièrement impressionnante et puissante."
               }
             }
           ],
@@ -1459,6 +1584,12 @@
               "Padirac requires advance booking, especially on rainy days.",
               "Utilize the parking lots located directly at the sights.",
               "Keep an umbrella handy for the short walks from the car."
+            ],
+            "fr": [
+              "Les routes sinueuses peuvent être glissantes ; conduisez prudemment.",
+              "Padirac nécessite une réservation préalable, surtout les jours de pluie.",
+              "Utilisez les parkings situés directement sur les sites touristiques.",
+              "Gardez un parapluie à portée de main pour les courts trajets à pied depuis la voiture."
             ]
           }
         },
@@ -1467,7 +1598,8 @@
             "de": "Ein mystischer Morgen im stillen Heiligtum von Rocamadour. Mittags geht es in die Affenwald-Region, gefolgt vom Besuch des Gouffre de Padirac, wo die Temperatur das ganze Jahr über konstant bleibt. Der Nachmittag in Loubressac bietet weite Blicke über das winterliche Tal. Den Abschluss bildet die kühle Frische der Autoire-Kaskade.",
             "hu": "Misztikus reggel Rocamadour csendes szentélyében. Délben a majomerdő környékére látogatunk, majd a Gouffre de Padirac következik, ahol a hőmérséklet egész évben állandó. A délután Loubressac-ban tágas kilátást nyújt a téli völgyre. A napot az Autoire-vízesés hűvös frissessége zárja.",
             "ro": "O dimineață mistică în sanctuarul liniștit din Rocamadour. La prânz mergem spre pădurea maimuțelor, urmată de Gouffre de Padirac, unde temperatura e constantă. După-amiaza în Loubressac oferă vederi largi peste valea hibernală. Încheiem cu prospețimea cascadei Autoire.",
-            "en": "A mystical morning in the silent Sanctuary of Rocamadour. Spend midday near the monkey forest, followed by a visit to Gouffre de Padirac, where the temperature remains constant year-round. The afternoon in Loubressac offers sweeping views over the winter valley. Conclude with the cool freshness of the Autoire Cascade."
+            "en": "A mystical morning in the silent Sanctuary of Rocamadour. Spend midday near the monkey forest, followed by a visit to Gouffre de Padirac, where the temperature remains constant year-round. The afternoon in Loubressac offers sweeping views over the winter valley. Conclude with the cool freshness of the Autoire Cascade.",
+            "fr": "Une matinée mystique dans le Sanctuaire silencieux de Rocamadour. Passez le milieu de journée près de la forêt des singes, suivi d'une visite au Gouffre de Padirac, où la température reste constante toute l'année. L'après-midi à Loubressac offre des vues panoramiques sur la vallée hivernale. Concluez par la fraîcheur de la cascade d'Autoire."
           },
           "stops": [
             {
@@ -1476,7 +1608,8 @@
                 "de": "Wintersonne beleuchtet die Felsen am Vormittag ideal.",
                 "hu": "A téli nap délelőtt ideálisan világítja meg a sziklákat.",
                 "ro": "Soarele de iarnă luminează ideal stâncile dimineața.",
-                "en": "The winter sun illuminates the cliffs perfectly in the morning."
+                "en": "The winter sun illuminates the cliffs perfectly in the morning.",
+                "fr": "Le soleil d'hiver illumine parfaitement les falaises le matin."
               }
             },
             {
@@ -1485,7 +1618,8 @@
                 "de": "Saisonal geschlossen, oft nur Außenbesichtigung möglich.",
                 "hu": "Szezonálisan zárva, gyakran csak kívülről tekinthető meg.",
                 "ro": "Închis sezonier, adesea e posibilă doar vizita exterioară.",
-                "en": "Seasonally closed; often only exterior viewing is possible."
+                "en": "Seasonally closed; often only exterior viewing is possible.",
+                "fr": "Fermé en saison ; souvent seule la vue extérieure est possible."
               }
             },
             {
@@ -1494,7 +1628,8 @@
                 "de": "Mit 13 Grad oft wärmer als die Außenluft im Winter.",
                 "hu": "13 fokos hőmérsékletével gyakran melegebb a téli levegőnél.",
                 "ro": "La 13 grade, e adesea mai cald decât aerul de afară.",
-                "en": "At 13 degrees, it is often warmer than the outside air."
+                "en": "At 13 degrees, it is often warmer than the outside air.",
+                "fr": "À 13 degrés, il fait souvent plus chaud qu'à l'extérieur."
               }
             },
             {
@@ -1503,7 +1638,8 @@
                 "de": "Genießen Sie den weiten Blick ohne störendes Laub.",
                 "hu": "Élvezze a távoli kilátást a zavaró lombozat nélkül.",
                 "ro": "Bucurați-vă de vederea largă fără frunzișul deranjant.",
-                "en": "Enjoy the wide views without the obstruction of leaves."
+                "en": "Enjoy the wide views without the obstruction of leaves.",
+                "fr": "Profitez des larges vues sans l'obstruction des feuilles."
               }
             },
             {
@@ -1512,7 +1648,8 @@
                 "de": "Bei starkem Frost bilden sich beeindruckende Eiszapfen.",
                 "hu": "Erős fagyban lenyűgöző jégcsapok képződhetnek.",
                 "ro": "În caz de ger, se pot forma țurțuri de gheață impresionanți.",
-                "en": "In heavy frost, impressive icicles can form at the falls."
+                "en": "In heavy frost, impressive icicles can form at the falls.",
+                "fr": "En cas de fort gel, d'impressionnants glaçons peuvent se former à la cascade."
               }
             }
           ],
@@ -1540,6 +1677,12 @@
               "Check opening dates as some sights have winter closures.",
               "Parking lots are often free or very empty in winter.",
               "Drive defensively during low sun or foggy conditions."
+            ],
+            "fr": [
+              "Attention au verglas sur les petites routes secondaires.",
+              "Vérifiez les dates d'ouverture car certains sites ferment en hiver.",
+              "Les parkings sont souvent gratuits ou très vides en hiver.",
+              "Conduisez prudemment en cas de soleil bas ou de brouillard."
             ]
           }
         }
@@ -1568,7 +1711,8 @@
             "de": "Hier startet der 'Petit Train' zur Unterstadt.",
             "hu": "Itt indul a kisvonat az alsóvárosba.",
             "ro": "De aici pleacă trenulețul spre orașul de jos.",
-            "en": "The 'Petit Train' to the lower town starts here."
+            "en": "The 'Petit Train' to the lower town starts here.",
+            "fr": "Le « Petit Train » vers la ville basse part d'ici."
           }
         },
         {
@@ -1586,7 +1730,8 @@
             "de": "Der Lift verbindet das Schloss mit dem Heiligtum.",
             "hu": "A lift összeköti a várat a szentéllyel.",
             "ro": "Liftul face legătura între castel și sanctuar.",
-            "en": "The lift connects the castle and the sanctuary."
+            "en": "The lift connects the castle and the sanctuary.",
+            "fr": "L'ascenseur relie le château et le sanctuaire."
           }
         },
         {
@@ -1604,7 +1749,8 @@
             "de": "Nutzen Sie den zweiten Lift zur Hauptstraße.",
             "hu": "Használja a második liftet a főutcához.",
             "ro": "Folosiți al doilea lift către strada principală.",
-            "en": "Use the second lift to the main street."
+            "en": "Use the second lift to the main street.",
+            "fr": "Utilisez le deuxième ascenseur vers la rue principale."
           }
         },
         {
@@ -1622,7 +1768,8 @@
             "de": "Eine bequeme Tour durch das Tal.",
             "hu": "Kényelmes utazás a völgyön keresztül.",
             "ro": "Un tur confortabil prin vale.",
-            "en": "A comfortable tour through the valley."
+            "en": "A comfortable tour through the valley.",
+            "fr": "Un circuit confortable à travers la vallée."
           }
         }
       ],
@@ -1630,7 +1777,8 @@
         "de": "Rocamadour bietet ein System aus Liften und einem Touristenzug, um die steilen Hänge bequem zu überwinden. Starten Sie oben in L'Hospitalet, fahren Sie mit dem Lift hinunter zum Heiligtum und erkunden Sie die Kirchen ohne Treppensteigen.\n\nAm Nachmittag bringt Sie der 'Petit Train' durch das Alzou-Tal und zurück zum Parkplatz, was Ihnen einen umfassenden Überblick bietet, ohne dass Sie weite Strecken zu Fuß zurücklegen müssen.",
         "hu": "Rocamadour liftekkel és kisvonattal teszi kényelmessé a meredek hegyoldal felfedezését. Kezdjen fent L'Hospitalet-ben, liftezzen le a szentélyhez, és fedezze fel a templomokat lépcsőzés nélkül.\n\nDélután a kisvonat átviszi az Alzou-völgyön és visszaviszi a parkolóhoz, így teljes képet kap a városról anélkül, hogy sokat kellene gyalogolnia.",
         "ro": "Rocamadour oferă un sistem de lifturi și un trenuleț turistic pentru a depăși pantele abrupte. Începeți sus în L'Hospitalet, coborâți cu liftul la sanctuar și explorați bisericile fără a urca trepte.\n\nDupă-amiaza, trenulețul vă poartă prin valea Alzou și vă aduce înapoi la parcare, oferindu-vă o imagine de ansamblu fără a fi nevoie de mult mers pe jos.",
-        "en": "Rocamadour provides a system of lifts and a tourist train to comfortably navigate the steep slopes. Start at the top in L'Hospitalet, take the lift down to the sanctuary, and explore the churches without climbing stairs.\n\nIn the afternoon, the 'Petit Train' takes you through the Alzou valley and back to the parking lot, giving you a full overview without needing much walking."
+        "en": "Rocamadour provides a system of lifts and a tourist train to comfortably navigate the steep slopes. Start at the top in L'Hospitalet, take the lift down to the sanctuary, and explore the churches without climbing stairs.\n\nIn the afternoon, the 'Petit Train' takes you through the Alzou valley and back to the parking lot, giving you a full overview without needing much walking.",
+        "fr": "Rocamadour dispose d'un système d'ascenseurs et d'un petit train touristique pour naviguer confortablement sur les pentes escarpées. Commencez en haut à L'Hospitalet, prenez l'ascenseur jusqu'au sanctuaire et explorez les églises sans monter d'escaliers.\n\nL'après-midi, le « Petit Train » vous emmène à travers la vallée de l'Alzou et vous ramène au parking, vous offrant une vue d'ensemble complète sans trop d'efforts physiques."
       },
       "gastro_picks": {
         "de": [],
@@ -1666,6 +1814,10 @@
         "en": [
           "Buy a combined ticket for both lifts.",
           "The train runs seasonally, check the schedule."
+        ],
+        "fr": [
+          "Achetez un billet combiné pour les deux ascenseurs.",
+          "Le train circule de façon saisonnière, vérifiez les horaires."
         ]
       },
       "variants": {
@@ -1756,7 +1908,8 @@
             "de": "Starten Sie trocken in L'Hospitalet, bevor Sie den Schrägaufzug nutzen, um den Regen im Freien zu minimieren. Mittags bietet die Cité Religieuse viele überdachte Bereiche zum Verweilen. Der kleine Touristenzug am Nachmittag ist oft überdacht und bietet eine bequeme Fahrt durch den Regen. Ein entspannter Tag trotz des Wetters.",
             "hu": "Kezdjen szárazon L'Hospitalet-nél, majd használja a ferde liftet a szabadtéri áázás minimalizálására. Délben a Cité Religieuse számos fedett területe kínál pihenőhelyet. A Petit Train délután gyakran fedett kocsikkal közlekedik, kényelmes utat biztosítva az esőben. Pihentető nap az időjárás ellenére is.",
             "ro": "Începeți la L'Hospitalet, apoi folosiți liftul înclinat pentru a minimiza expunerea la ploaie. La prânz, Cité Religieuse oferă multe zone acoperite. Trenulețul turistic de după-amiază este adesea acoperit, oferind o plimbare confortabilă prin ploaie. O zi relaxată în ciuda vremii.",
-            "en": "Start dry at L'Hospitalet before using the inclined elevator to minimize time spent in the rain. Midday at the Cité Religieuse offers many covered areas to explore. The Petit Train in the afternoon is usually covered, providing a comfortable way to see the sights through the rain. A relaxed day regardless of the weather."
+            "en": "Start dry at L'Hospitalet before using the inclined elevator to minimize time spent in the rain. Midday at the Cité Religieuse offers many covered areas to explore. The Petit Train in the afternoon is usually covered, providing a comfortable way to see the sights through the rain. A relaxed day regardless of the weather.",
+            "fr": "Commencez au sec à L'Hospitalet avant d'utiliser l'ascenseur incliné pour minimiser le temps passé sous la pluie. Le milieu de journée à la Cité Religieuse offre de nombreuses zones couvertes à explorer. Le Petit Train de l'après-midi est généralement couvert, offrant un moyen confortable de voir les sites à travers la pluie. Une journée détendue quel que soit le temps."
           },
           "stops": [
             {
@@ -1765,7 +1918,8 @@
                 "de": "Das Besucherzentrum bietet Schutz und Informationen.",
                 "hu": "A látogatóközpont védelmet és információkat nyújt.",
                 "ro": "Centrul de vizitare oferă adăpost și informații.",
-                "en": "The visitor center offers shelter and useful information."
+                "en": "The visitor center offers shelter and useful information.",
+                "fr": "L'office de tourisme offre un abri et des informations utiles."
               }
             },
             {
@@ -1774,7 +1928,8 @@
                 "de": "Die beste Wahl bei Regen, um Treppen zu vermeiden.",
                 "hu": "A legjobb választás esőben a lépcsőzés elkerülésére.",
                 "ro": "Cea mai bună alegere pe ploaie pentru a evita treptele.",
-                "en": "The best choice during rain to avoid the outdoor steps."
+                "en": "The best choice during rain to avoid the outdoor steps.",
+                "fr": "Le meilleur choix sous la pluie pour éviter les marches extérieures."
               }
             },
             {
@@ -1783,7 +1938,8 @@
                 "de": "Viele Arkaden und Kapellen halten Sie hier trocken.",
                 "hu": "Számos árkád és kápolna tartja Önt itt szárazon.",
                 "ro": "Multe arcade și capele vă vor ține la adăpost aici.",
-                "en": "Many arcades and chapels will keep you dry here."
+                "en": "Many arcades and chapels will keep you dry here.",
+                "fr": "De nombreuses arcades et chapelles vous garderont au sec ici."
               }
             },
             {
@@ -1792,7 +1948,8 @@
                 "de": "Prüfen Sie, ob die Plastikplanen heute montiert sind.",
                 "hu": "Ellenőrizze, hogy a műanyag védőponyvák fel vannak-e szerelve.",
                 "ro": "Verificați dacă foliile de protecție sunt montate azi.",
-                "en": "Check if the plastic protective covers are installed today."
+                "en": "Check if the plastic protective covers are installed today.",
+                "fr": "Vérifiez si les bâches de protection en plastique sont installées aujourd'hui."
               }
             }
           ],
@@ -1820,6 +1977,12 @@
               "The Petit Train might run less frequently during heavy rain.",
               "Elevators are the safest way to travel during slippery weather.",
               "Have some small change ready for the ticket machines."
+            ],
+            "fr": [
+              "Achetez un billet combiné pour les deux ascenseurs.",
+              "Le Petit Train peut circuler moins fréquemment lors de fortes pluies.",
+              "Les ascenseurs sont le moyen le plus sûr de se déplacer par temps glissant.",
+              "Prévoyez de la petite monnaie pour les distributeurs de billets."
             ]
           }
         },
@@ -1828,7 +1991,8 @@
             "de": "Ein ruhiger Winterstart am Aussichtspunkt L'Hospitalet. Mit dem Aufzug geht es hinunter in die Cité, wo die Kälte durch die massiven Mauern etwas abgehalten wird. Mittags erkunden wir die Heiligtümer in andächtiger Stille. Der Touristenzug am Nachmittag bietet eine gemütliche Rundfahrt, um die winterliche Felskulisse ohne Anstrengung zu sehen.",
             "hu": "Csendes téli kezdés L'Hospitalet kilátópontjánál. A lifttel ereszkedünk le a Citébe, ahol a masszív falak valamennyire felfogják a hideget. Délben a szentélyeket fedezzük fel áhítatos csendben. A délutáni kisvonat kényelmes körutazást kínál a téli sziklafalak megtekintéséhez, megerőltetés nélkül.",
             "ro": "Un început de iarnă liniștit la punctul de belvedere L'Hospitalet. Coborâm cu liftul în Cité, unde zidurile masive mai opresc din frig. La prânz explorăm sanctuarele în liniște. Trenulețul de după-amiază oferă un tur relaxant al stâncilor hibernale, fără efort.",
-            "en": "A quiet winter start at the L'Hospitalet viewpoint. Take the elevator down to the Cité, where the massive walls buffer the cold wind. Midday is spent exploring the sanctuaries in prayerful silence. The Petit Train in the afternoon offers a cozy circuit to see the winter cliffside without physical exertion."
+            "en": "A quiet winter start at the L'Hospitalet viewpoint. Take the elevator down to the Cité, where the massive walls buffer the cold wind. Midday is spent exploring the sanctuaries in prayerful silence. The Petit Train in the afternoon offers a cozy circuit to see the winter cliffside without physical exertion.",
+            "fr": "Un début d'hiver paisible au point de vue de L'Hospitalet. Prenez l'ascenseur jusqu'à la Cité, où les murs massifs protègent du vent froid. Le milieu de journée est consacré à l'exploration des sanctuaires dans un silence recueilli. Le Petit Train de l'après-midi offre un circuit confortable pour voir la falaise hivernale sans effort physique."
           },
           "stops": [
             {
@@ -1837,7 +2001,8 @@
                 "de": "Der Parkplatz ist im Winter meist sehr nah und leer.",
                 "hu": "A parkoló télen általában nagyon közeli és üres.",
                 "ro": "Parcarea este de obicei foarte aproape și goală iarna.",
-                "en": "The parking lot is usually very close and empty in winter."
+                "en": "The parking lot is usually very close and empty in winter.",
+                "fr": "Le parking est généralement très proche et vide en hiver."
               }
             },
             {
@@ -1846,7 +2011,8 @@
                 "de": "Warme Kleidung ist wichtig für die kurze Wartezeit.",
                 "hu": "Meleg ruházat fontos a rövid várakozási idő alatt.",
                 "ro": "Hainele groase sunt importante pentru scurta așteptare.",
-                "en": "Warm clothing is important even for the short wait time."
+                "en": "Warm clothing is important even for the short wait time.",
+                "fr": "Des vêtements chauds sont importants même pour le court temps d'attente."
               }
             },
             {
@@ -1855,7 +2021,8 @@
                 "de": "Besuchen Sie die Krypta, dort ist es oft am mildesten.",
                 "hu": "Látogassa meg a kriptát, ott gyakran a legenyhébb az idő.",
                 "ro": "Vizitați cripta, acolo este adesea cel mai blând climat.",
-                "en": "Visit the crypt; it is often the mildest spot here."
+                "en": "Visit the crypt; it is often the mildest spot here.",
+                "fr": "Visitez la crypte ; c'est souvent l'endroit le plus doux ici."
               }
             },
             {
@@ -1864,7 +2031,8 @@
                 "de": "Fahrten sind im Winter seltener, Fahrplan prüfen.",
                 "hu": "Télen ritkábbak az indulások, ellenőrizze a menetrendet.",
                 "ro": "Cursele sunt mai rare iarna, verificați orarul.",
-                "en": "Trips are less frequent in winter; check the schedule."
+                "en": "Trips are less frequent in winter; check the schedule.",
+                "fr": "Les trajets sont moins fréquents en hiver ; vérifiez les horaires."
               }
             }
           ],
@@ -1892,6 +2060,12 @@
               "Check if the Petit Train operates during the low season.",
               "Wear warm shoes as the stone floors radiate cold.",
               "Enjoy the rare absence of large tourist crowds."
+            ],
+            "fr": [
+              "Les ascenseurs sont le moyen le plus confortable en hiver.",
+              "Vérifiez si le Petit Train fonctionne pendant la basse saison.",
+              "Portez des chaussures chaudes car les sols en pierre rayonnent le froid.",
+              "Profitez de l'absence rare de grandes foules de touristes."
             ]
           }
         }

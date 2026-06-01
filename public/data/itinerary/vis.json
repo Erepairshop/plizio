@@ -36,7 +36,8 @@
             "de": "Frühmorgens ist das Licht für Fotos am Hafenbecken perfekt.",
             "hu": "Kora reggel a legjobb a fény a kikötői fotókhoz.",
             "ro": "Dimineața devreme lumina este perfectă pentru fotografii în port.",
-            "en": "Early morning light is perfect for photos by the harbor."
+            "en": "Early morning light is perfect for photos by the harbor.",
+            "hr": "Ranojutarnje svjetlo savršeno je za fotografije uz luku."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bewundern Sie die Renaissance-Architektur im Inneren.",
             "hu": "Csodálja meg a reneszánsz belső építészetet.",
             "ro": "Admirați arhitectura renascentistă din interior.",
-            "en": "Admire the Renaissance architecture inside."
+            "en": "Admire the Renaissance architecture inside.",
+            "hr": "Divite se renesansnoj arhitekturi u unutrašnjosti."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Das Kloster steht auf den Ruinen eines antiken Theaters.",
             "hu": "A kolostor egy ókori színház romjaira épült.",
             "ro": "Mănăstirea este construită pe ruinele unui teatru antic.",
-            "en": "The monastery sits on the ruins of an ancient theater."
+            "en": "The monastery sits on the ruins of an ancient theater.",
+            "hr": "Samostan se nalazi na ostacima antičkog kazališta."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Gut erhaltene Mosaike aus der Zeit der Antike.",
             "hu": "Jól megőrzött mozaikok az antik korból.",
             "ro": "Mozaicuri bine conservate din perioada antică.",
-            "en": "Well-preserved mosaics from the ancient era."
+            "en": "Well-preserved mosaics from the ancient era.",
+            "hr": "Dobro očuvani mozaici iz antičkog doba."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Die Bronzekopf der Artemis ist das wertvollste Exponat.",
             "hu": "Artemisz bronzfeje a legértékesebb kiállítási tárgy.",
             "ro": "Capul de bronz al lui Artemis este cel mai valoros exponat.",
-            "en": "The bronze head of Artemis is the most valuable exhibit."
+            "en": "The bronze head of Artemis is the most valuable exhibit.",
+            "hr": "Brončana glava Artemide najvrjedniji je izložak."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "In der Festung befindet sich heute das Museum.",
             "hu": "Az erődben ma a múzeum gyűjteménye látható.",
             "ro": "În fortăreață se află astăzi muzeul orașului.",
-            "en": "The fortress now houses the city museum."
+            "en": "The fortress now houses the city museum.",
+            "hr": "Tvrđava danas udomljuje gradski muzej."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Beginnen Sie Ihren Tag im malerischen Kut-Viertel mit seinen engen Steingassen. Nach einem Besuch der Gospa od Spilice wandern Sie zur Halbinsel Prirovo. Der Nachmittag steht im Zeichen der Antike mit den römischen Thermen und dem Issa-Museum in der Batarija-Festung. Ein entspannter Ausklang am Hafen rundet den Spaziergang ab.",
         "hu": "Kezdje a napot a festői Kut negyed szűk kőutcái között. A Gospa od Spilice megtekintése után sétáljon el a Prirovo-félszigetre. A délután az antik emlékeké: a római termák és az Issa múzeum a Batarija erődben várja. A napot egy kellemes kikötői sétával zárhatja.",
         "ro": "Începeți ziua în pitorescul cartier Kut, cu străduțele sale înguste de piatră. După o vizită la Gospa od Spilice, mergeți spre peninsula Prirovo. După-amiaza este dedicată antichității, cu termele romane și muzeul Issa din fortăreața Batarija. O seară relaxantă în port încheie plimbarea.",
-        "en": "Start your day in the picturesque Kut district with its narrow stone alleys. After visiting Gospa od Spilice, walk to the Prirovo peninsula. The afternoon is dedicated to antiquity, featuring the Roman baths and the Issa Museum inside Batarija Fortress. A relaxed evening at the harbor completes the walk."
+        "en": "Start your day in the picturesque Kut district with its narrow stone alleys. After visiting Gospa od Spilice, walk to the Prirovo peninsula. The afternoon is dedicated to antiquity, featuring the Roman baths and the Issa Museum inside Batarija Fortress. A relaxed evening at the harbor completes the walk.",
+        "hr": "Započnite dan u slikovitom predjelu Kut s njegovim uskim kamenim uličicama. Nakon posjeta Gospi od Spilice, prošećite do poluotoka Prirovo. Popodne je posvećeno antici, uz rimske terme i Arheološki muzej Issa unutar tvrđave Batarija. Opuštena večer u luci upotpunjuje ovu šetnju."
       },
       "gastro_picks": {
         "de": [
@@ -201,6 +208,16 @@
             "name": "Vatrica Restaurant",
             "tip": "Fresh fish right in the heart of Kut district."
           }
+        ],
+        "hr": [
+          {
+            "name": "Viška pogača",
+            "tip": "Sana pita od tijesta sa srdelama i lukom."
+          },
+          {
+            "name": "Restoran Vatrica",
+            "tip": "Svježa riba u samom srcu predjela Kut."
+          }
         ]
       },
       "quiet_picks": {
@@ -231,6 +248,13 @@
             "tip": "Quiet spot with a view over the bay.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Groblje Prirovo",
+            "tip": "Mirno mjesto s pogledom na uvalu.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -257,6 +281,12 @@
             "name": "Vugava Wine",
             "tip": "Local white wine, buy directly from producers."
           }
+        ],
+        "hr": [
+          {
+            "name": "Vino Vugava",
+            "tip": "Lokalno bijelo vino, kupujte izravno od proizvođača."
+          }
         ]
       },
       "tips": {
@@ -279,6 +309,11 @@
           "Comfortable shoes are a must for the cobblestones in Kut.",
           "Visit the museum in the morning to avoid the heat.",
           "In the off-season, many restaurants are closed at midday."
+        ],
+        "hr": [
+          "Udobna obuća je obavezna za kaldrmu u Kutu.",
+          "Posjetite muzej ujutro kako biste izbjegli vrućinu.",
+          "Izvan sezone mnogi su restorani zatvoreni u podne."
         ]
       },
       "variants": {
@@ -501,7 +536,8 @@
             "de": "Ein regnerischer Morgen in den engen Gassen von Kut bietet Schutz vor dem Wind, während der Duft von nassem Stein die Luft erfüllt. Mittags laden das Kloster Prirovo und das Archäologische Museum zu einer Zeitreise im Trockenen ein.\n\nAm Nachmittag bietet die Batarija-Festung einen dramatischen Blick auf die aufgewühlte Adria. Den Abend verbringt man am besten in einer gemütlichen Konoba im Hafen bei lokalem Wein und dem Prasseln des Regens an den Fenstern.",
             "hu": "Az esős reggelen Kut szűk utcái és kőházai különleges, intim hangulatot árasztanak, védelmet nyújtva a tengeri széltől. Délben a Prirovo-kolostor és az Issa múzeum falai között fedett helyen fedezhetjük fel a sziget gazdag ókori emlékeit.\n\nDélután a Batarija-erőd masszív falai mellett figyelhetjük a viharos tengert. Az estét zárjuk egy kikötőmenti borozóban, ahol a helyi Vugava bor mellett élvezhetjük a kopogó eső megnyugtató ritmusát.",
             "ro": "O dimineață ploioasă în cartierul Kut oferă adăpost în labirintul de străduțe, unde piatra udă capătă nuanțe strălucitoare. La prânz, mănăstirea Prirovo și Muzeul Issa sunt refugii culturale perfecte pentru a evita precipitațiile.\n\nDupă-amiaza, fortăreața Batarija oferă o perspectivă dramatică asupra mării învolburate. Seara se încheie cel mai bine într-o tavernă locală din port, savurând un preparat cald în timp ce ploaia bate în geam.",
-            "en": "A rainy morning in Kut's narrow alleys provides shelter from the wind, with the scent of wet limestone filling the air. By noon, the Prirovo Monastery and the Issa Museum offer perfect indoor escapes to explore ancient history.\n\nIn the afternoon, the Batarija Fortress provides a dramatic view of the choppy Adriatic Sea. Spend the evening in a cozy harbor-side konoba, enjoying local wine while listening to the rhythmic patter of rain outside."
+            "en": "A rainy morning in Kut's narrow alleys provides shelter from the wind, with the scent of wet limestone filling the air. By noon, the Prirovo Monastery and the Issa Museum offer perfect indoor escapes to explore ancient history.\n\nIn the afternoon, the Batarija Fortress provides a dramatic view of the choppy Adriatic Sea. Spend the evening in a cozy harbor-side konoba, enjoying local wine while listening to the rhythmic patter of rain outside.",
+            "hr": "Kišno jutro u uskim uličicama Kuta nudi zaklon od vjetra, dok miris mokrog vapnenca ispunjava zrak. Do podneva, samostan na Prirovu i muzej Issa nude savršen bijeg u zatvoreno za istraživanje antičke povijesti.\n\nPoslijepodne tvrđava Batarija pruža dramatičan pogled na valovito Jadransko more. Provedite večer u ugodnoj konobi uz luku, uživajući u lokalnom vinu uz ritmično kuckanje kiše izvana."
           },
           "stops": [
             {
@@ -510,7 +546,8 @@
                 "de": "Die Steinpflasterung wird bei Nässe sehr rutschig; tragen Sie Schuhe mit gutem Profil.",
                 "hu": "A mészkő burkolat vizesen rendkívül csúszós; viseljen tapadós talpú cipőt a sikátorokban.",
                 "ro": "Pavajul de piatră devine foarte alunecos când este ud; purtați încălțăminte cu aderență bună.",
-                "en": "The limestone paving becomes very slippery when wet; wear shoes with good grip in the alleys."
+                "en": "The limestone paving becomes very slippery when wet; wear shoes with good grip in the alleys.",
+                "hr": "Vapnenački popločani podovi postaju vrlo skliski kad su mokri; nosite obuću s dobrim prianjanjem."
               }
             },
             {
@@ -519,7 +556,8 @@
                 "de": "Ein idealer Ort für eine kurze, trockene Pause und Besinnung während eines Schauers.",
                 "hu": "Tökéletes helyszín egy rövid, száraz pihenőre és elmélyülésre egy nagyobb zápor idején.",
                 "ro": "Un loc ideal pentru o scurtă pauză uscată și reflecție în timpul unei averselor.",
-                "en": "An ideal spot for a short, dry break and quiet reflection during a heavy shower."
+                "en": "An ideal spot for a short, dry break and quiet reflection during a heavy shower.",
+                "hr": "Idealno mjesto za kratki, suhi odmor i mirno promišljanje tijekom jakog pljuska."
               }
             },
             {
@@ -528,7 +566,8 @@
                 "de": "Der Kreuzgang bietet Schutz; genießen Sie die Ruhe des Meeres vom überdachten Bereich aus.",
                 "hu": "A kerengő védelmet nyújt; élvezze a tenger látványát a fedett folyosókról.",
                 "ro": "Cloistrul oferă adăpost; bucurați-vă de liniștea mării din zona acoperită a mănăstirii.",
-                "en": "The cloister provides shelter; enjoy the sea views from the covered areas of the monastery."
+                "en": "The cloister provides shelter; enjoy the sea views from the covered areas of the monastery.",
+                "hr": "Klaustar pruža zaklon; uživajte u pogledu na more iz natkrivenih dijelova samostana."
               }
             },
             {
@@ -537,7 +576,8 @@
                 "de": "Die antiken Steine sammeln Wasser; achten Sie auf Pfützen um die Ausgrabungsstätte.",
                 "hu": "Az ókori kövek között megáll a víz; ügyeljen a tócsákra a romterület környékén.",
                 "ro": "Pietrele antice rețin apa; atenție la bălțile formate în jurul sitului arheologic.",
-                "en": "Ancient stones collect water; watch out for puddles around the archaeological site."
+                "en": "Ancient stones collect water; watch out for puddles around the archaeological site.",
+                "hr": "Antičko kamenje nakuplja vodu; pazite na lokve oko arheološkog nalazišta."
               }
             },
             {
@@ -546,7 +586,8 @@
                 "de": "Bester Zufluchtsort bei Regen; planen Sie hier mehr Zeit ein, um trocken zu bleiben.",
                 "hu": "A legjobb menedék esőben; tervezzen ide hosszabb időt, hogy szárazon maradjon.",
                 "ro": "Cel mai bun refugiu pe ploaie; planificați mai mult timp aici pentru a rămâne uscat.",
-                "en": "Best refuge during rain; plan more time here to stay dry while exploring Greek artifacts."
+                "en": "Best refuge during rain; plan more time here to stay dry while exploring Greek artifacts.",
+                "hr": "Najbolje utočište tijekom kiše; odvojite više vremena za istraživanje grčkih artefakata."
               }
             },
             {
@@ -555,7 +596,8 @@
                 "de": "Die Aussichtsplattformen sind exponiert; Regenbekleidung ist für den Panoramablick nötig.",
                 "hu": "A kilátók nyitottak; esőkabát szükséges a panoráma megtekintéséhez a falakról.",
                 "ro": "Platformele de observare sunt expuse; pelerina de ploaie este necesară pentru panoramă.",
-                "en": "The viewing platforms are exposed; rain gear is essential for the panoramic wall walk."
+                "en": "The viewing platforms are exposed; rain gear is essential for the panoramic wall walk.",
+                "hr": "Vidikovci su izloženi; kišna oprema je neophodna za panoramsku šetnju zidinama."
               }
             }
           ],
@@ -583,6 +625,12 @@
               "The stone slabs in Vis are polished and treacherously slippery when wet.",
               "Many cafes in Kut have awnings where you can watch the rain while staying dry.",
               "Schedule museum visits for the heaviest rain periods of the day to maximize comfort."
+            ],
+            "hr": [
+              "Koristite čvrst kišobran jer lučki vjetrovi često mogu izvrnuti one slabije.",
+              "Kamene ploče u Visu su ispolirane i opasno skliske kad su mokre.",
+              "Mnogi kafići u Kutu imaju tende gdje možete promatrati kišu i ostati suhi.",
+              "Isplanirajte posjet muzeju za vrijeme najjače kiše kako biste maksimalno povećali udobnost."
             ]
           }
         },
@@ -591,7 +639,8 @@
             "de": "Ein klarer, kühler Wintermorgen in Vis beginnt mit der frischen Brise der Bura. Kut wirkt fast verlassen, was einen authentischen Einblick in das Inselleben fernab der Touristenmassen ermöglicht. Mittags wärmt die tiefstehende Sonne die Steinfassaden des Prirovo-Klosters.\n\nNachmittags taucht das goldene Winterlicht die Batarija-Festung in magische Farben, bevor die Sonne früh hinter den Hügeln verschwindet. Die Abende sind ruhig; nur wenige Lokale haben geöffnet, bieten aber dafür echte Herzlichkeit und Kaminfeuer.",
             "hu": "A tiszta, hűvös téli reggel a tenger felől fújó friss bóra szelével indul. Kut ilyenkor csendes és őszinte, a turisták nélküli szigeti élet valódi arcát mutatja. Délben a Prirovo-kolostor falait még melegen süti a laposan járó téli nap.\n\nDélután az alacsony napállás arany fénybe vonja a Batarija-erődöt, mielőtt korán lenyugodna a dombok mögött. Az esték nyugodtak; bár kevés hely van nyitva, a működő konobákban kandalló és baráti fogadtatás várja az utazót.",
             "ro": "O dimineață de iarnă senină și răcoroasă în Vis începe cu briza proaspătă a vântului Bura. Cartierul Kut este liniștit, oferind o perspectivă autentică asupra vieții insulare. La prânz, soarele blând încălzește fațadele de piatră ale mănăstirii Prirovo.\n\nDupă-amiaza, lumina aurie de iarnă scaldă fortăreața Batarija în culori magice înainte de apusul timpuriu. Serile sunt foarte calme; puține localuri sunt deschise, dar cele active oferă căldură și o primire autentică.",
-            "en": "A crisp, cool winter morning in Vis starts with the fresh breeze of the Bura wind. Kut feels peacefully deserted, offering an authentic glimpse into island life without the crowds. By noon, the low winter sun warms the stone walls of the Prirovo Monastery.\n\nIn the afternoon, the golden winter light bathes the Batarija Fortress in magical hues before the early sunset. Evenings are quiet; while fewer places are open, the operating taverns offer genuine warmth and a local atmosphere."
+            "en": "A crisp, cool winter morning in Vis starts with the fresh breeze of the Bura wind. Kut feels peacefully deserted, offering an authentic glimpse into island life without the crowds. By noon, the low winter sun warms the stone walls of the Prirovo Monastery.\n\nIn the afternoon, the golden winter light bathes the Batarija Fortress in magical hues before the early sunset. Evenings are quiet; while fewer places are open, the operating taverns offer genuine warmth and a local atmosphere.",
+            "hr": "Svježe, prohladno zimsko jutro u Visu počinje uz povjetarac bure. Kut djeluje spokojno pusto, nudeći autentičan uvid u otočki život bez gužvi. Do podneva, nisko zimsko sunce grije kamene zidove samostana na Prirovu.\n\nPoslijepodne zlatna zimska svjetlost kupa tvrđavu Batarija u čarobnim nijansama prije ranog zalaska sunca. Večeri su tihe; iako radi manje mjesta, otvorene konobe nude istinsku toplinu i lokalnu atmosferu."
           },
           "stops": [
             {
@@ -600,7 +649,8 @@
                 "de": "Die Gassen im Schatten können sehr kühl sein; ziehen Sie sich in Schichten an.",
                 "hu": "Az árnyékos sikátorok nagyon hűvösek lehetnek; réteges öltözködés javasolt.",
                 "ro": "Străduțele aflate în umbră pot fi foarte răcoroase; îmbrăcați-vă în straturi.",
-                "en": "Alleys in the shade can be very chilly; dress in warm layers for the walk."
+                "en": "Alleys in the shade can be very chilly; dress in warm layers for the walk.",
+                "hr": "Uličice u sjeni mogu biti vrlo hladne; odjenite se slojevito za šetnju."
               }
             },
             {
@@ -609,7 +659,8 @@
                 "de": "Das Innere bietet Schutz vor dem Wind, kann aber kühler sein als die Außenluft.",
                 "hu": "A belső tér védelmet nyújt a szél elől, de hűvösebb lehet a kinti napsütésnél.",
                 "ro": "Interiorul oferă protecție împotriva vântului, dar poate fi mai rece decât aerul de afară.",
-                "en": "The interior provides wind protection but may feel cooler than the sunny exterior."
+                "en": "The interior provides wind protection but may feel cooler than the sunny exterior.",
+                "hr": "Unutrašnjost pruža zaštitu od vjetra, ali može biti hladnija od sunčanog vanjskog dijela."
               }
             },
             {
@@ -618,7 +669,8 @@
                 "de": "Genießen Sie die winterliche Einsamkeit auf der Halbinsel ohne sommerliche Badegäste.",
                 "hu": "Élvezze a téli magányt a félszigeten, messze a nyári strandolók zajától.",
                 "ro": "Bucurați-vă de singurătatea iernii pe peninsulă, departe de aglomerația de vară.",
-                "en": "Enjoy the winter solitude on the peninsula without the summer beach crowds."
+                "en": "Enjoy the winter solitude on the peninsula without the summer beach crowds.",
+                "hr": "Uživajte u zimskoj samoći na poluotoku bez ljetnih gužvi na plaži."
               }
             },
             {
@@ -627,7 +679,8 @@
                 "de": "Das klare Winterlicht ist ideal zum Fotografieren der antiken Details ohne Schatten.",
                 "hu": "A tiszta téli fény ideális az ókori részletek éles árnyékok nélküli fotózásához.",
                 "ro": "Lumina clară de iarnă este ideală pentru a fotografia detaliile antice fără umbre dure.",
-                "en": "Crisp winter light is ideal for photographing ancient details without harsh shadows."
+                "en": "Crisp winter light is ideal for photographing ancient details without harsh shadows.",
+                "hr": "Oštro zimsko svjetlo idealno je za fotografiranje antičkih detalja bez jakih sjena."
               }
             },
             {
@@ -636,7 +689,8 @@
                 "de": "Prüfen Sie die verkürzten Winteröffnungszeiten vor Ihrem Besuch am Vormittag.",
                 "hu": "Ellenőrizze a rövidített téli nyitvatartást, mielőtt délelőtt elindulna.",
                 "ro": "Verificați programul redus de iarnă înainte de a planifica vizita la muzeu.",
-                "en": "Check the reduced winter opening hours before visiting the museum in the morning."
+                "en": "Check the reduced winter opening hours before visiting the museum in the morning.",
+                "hr": "Provjerite skraćeno zimsko radno vrijeme prije posjeta muzeju ujutro."
               }
             },
             {
@@ -645,7 +699,8 @@
                 "de": "Besuchen Sie die Festung vor 16:00 Uhr, um den frühen Sonnenuntergang zu sehen.",
                 "hu": "Látogasson el az erődhöz 16:00 előtt, hogy elkapja a korai naplementét.",
                 "ro": "Vizitați fortăreața înainte de ora 16:00 pentru a surprinde apusul timpuriu.",
-                "en": "Visit the fortress before 4:00 PM to catch the spectacular early winter sunset."
+                "en": "Visit the fortress before 4:00 PM to catch the spectacular early winter sunset.",
+                "hr": "Posjetite tvrđavu prije 16:00 kako biste uhvatili spektakularan rani zimski zalazak sunca."
               }
             }
           ],
@@ -673,6 +728,12 @@
               "Sunset is around 4:30 PM; finish your outdoor sightseeing tasks early.",
               "Fewer restaurants are open in winter; ask locals for the best available options.",
               "Ferry services can be suspended during winter storms; always check the Jadrolinija site."
+            ],
+            "hr": [
+              "Bura može značajno spustiti osjet temperature; vjetrootporna oprema je obavezna.",
+              "Zalazak sunca je oko 16:30; završite svoje aktivnosti na otvorenom ranije.",
+              "Zimi je otvoreno manje restorana; pitajte lokalno stanovništvo za najbolje opcije.",
+              "Trajektne linije mogu biti u prekidu tijekom zimskih oluja; uvijek provjerite stranicu Jadrolinije."
             ]
           }
         }
@@ -706,7 +767,8 @@
             "de": "Startpunkt für die Radtour entlang der Bucht.",
             "hu": "Kiindulópont az öböl menti kerékpározáshoz.",
             "ro": "Punct de plecare pentru tura cu bicicleta de-a lungul golfului.",
-            "en": "Starting point for the bike ride along the bay."
+            "en": "Starting point for the bike ride along the bay.",
+            "hr": "Početna točka za vožnju biciklom duž uvale."
           }
         },
         {
@@ -729,7 +791,8 @@
             "de": "Gedenkstätte für britische Soldaten aus den Napoleonischen Kriegen.",
             "hu": "Emlékhely a napóleoni háborúk brit katonáinak.",
             "ro": "Memorial pentru soldații britanici din războaiele napoleoniene.",
-            "en": "Memorial for British soldiers from the Napoleonic Wars."
+            "en": "Memorial for British soldiers from the Napoleonic Wars.",
+            "hr": "Spomenik britanskim vojnicima iz Napoleonovih ratova."
           }
         },
         {
@@ -752,7 +815,8 @@
             "de": "Spektakuläre Aussicht auf den Eingang der Bucht.",
             "hu": "Látványos kilátás az öböl bejáratára.",
             "ro": "Vedere spectaculoasă asupra intrării în golf.",
-            "en": "Spectacular view of the bay entrance."
+            "en": "Spectacular view of the bay entrance.",
+            "hr": "Spektakularan pogled na ulaz u uvalu."
           }
         },
         {
@@ -775,7 +839,8 @@
             "de": "Ein Wehrturm aus dem 17. Jahrhundert.",
             "hu": "Védőtorony a 17. századból.",
             "ro": "Un turn de apărare din secolul al XVII-lea.",
-            "en": "A defense tower from the 17th century."
+            "en": "A defense tower from the 17th century.",
+            "hr": "Obrambena kula iz 17. stoljeća."
           }
         },
         {
@@ -798,7 +863,8 @@
             "de": "Perfekt für eine Abkühlung nach der Tour.",
             "hu": "Tökéletes hűsölésre a túra után.",
             "ro": "Perfect pentru răcorire după tură.",
-            "en": "Perfect for cooling off after the tour."
+            "en": "Perfect for cooling off after the tour.",
+            "hr": "Savršeno za osvježenje nakon ture."
           }
         }
       ],
@@ -806,7 +872,8 @@
         "de": "Radeln Sie entlang der Küste zum Fort George, einer britischen Festung mit weitem Rundblick. Auf dem Rückweg passieren Sie den englischen Friedhof und fahren durch das gesamte Hafenbecken bis zum Perasti-Turm. Beenden Sie die Tour mit einem Sprung ins klare Wasser am Grandovac-Strand.",
         "hu": "Tekerjen a part mentén a George erődhöz, amely brit erődítmény pazar körpanorámával. Visszafelé érintse az angol temetőt, majd szelje át a kikötőt a Perasti-toronyig. Zárja a túrát egy csobbanással a Grandovac strand kristálytiszta vizében.",
         "ro": "Pedalați de-a lungul coastei până la Fort George, o fortăreață britanică cu o panoramă vastă. La întoarcere, treceți pe lângă cimitirul englez și traversați tot portul până la turnul Perasti. Încheiați tura cu o baie în apa limpede de la plaja Grandovac.",
-        "en": "Cycle along the coast to Fort George, a British fortress with wide panoramic views. On the way back, pass the English Cemetery and ride through the harbor basin to Perasti Tower. Finish the tour with a dip in the clear water at Grandovac Beach."
+        "en": "Cycle along the coast to Fort George, a British fortress with wide panoramic views. On the way back, pass the English Cemetery and ride through the harbor basin to Perasti Tower. Finish the tour with a dip in the clear water at Grandovac Beach.",
+        "hr": "Vozite bicikl uz obalu do Fort Georgea, britanske tvrđave s prekrasnim panoramskim pogledom. Na povratku prođite pored engleskog groblja i vozite se kroz lučki bazen do kule Perasti. Završite turu kupanjem u čistom moru na plaži Grandovac."
       },
       "gastro_picks": {
         "de": [
@@ -831,6 +898,12 @@
           {
             "name": "Fort George Sunset Bar",
             "tip": "Ideal for a drink with a view."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Fort George Sunset Bar",
+            "tip": "Idealno za piće uz pogled."
           }
         ]
       },
@@ -862,6 +935,13 @@
             "tip": "Secluded coves at the end of the road.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Poluotok Sveti Juraj",
+            "tip": "Skrivene uvale na kraju ceste.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -888,6 +968,12 @@
             "name": "Local Olive Oil",
             "tip": "Excellent olive oils are pressed in Vis."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno maslinovo ulje",
+            "tip": "Na Visu se proizvode izvrsna maslinova ulja."
+          }
         ]
       },
       "tips": {
@@ -910,6 +996,11 @@
           "The route to Fort George has some inclines.",
           "Rent an e-bike for more comfort.",
           "Take plenty of water with you."
+        ],
+        "hr": [
+          "Ruta do Fort Georgea ima nekoliko uspona.",
+          "Unajmite e-bicikl za veću udobnost.",
+          "Ponesite dovoljno vode sa sobom."
         ]
       },
       "variants": {
@@ -1102,7 +1193,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine mystische Atmosphäre im Hafen. Der Aufstieg zum English Cemetery ist bei Nieselregen fordernd, aber die frische Luft belebt. Mittags bietet Fort George einen soliden Unterschlupf mit historischem Flair.\n\nNach dem Abstieg durch den Küstennebel führt der Weg zurück nach Kut. Der Nachmittag am Grandovac Beach ist kurz, da der Wind zunimmt, und endet mit einer schnellen Rückkehr zum Hafen für trockene Kleidung.",
             "hu": "Az esős kerékpározás óvatosságot igényel, de a kikötő párás látványa különleges élmény. Az Angol temetőhöz vezető emelkedő frissítő a szitáló esőben. Délben a George-erőd masszív falai nyújtanak biztos menedéket és történelmi környezetet.\n\nA ködös tengerparti úton való ereszkedés után Kut felé vesszük az irányt. A Grandovac strandnál tett látogatás ilyenkor rövid a feltámadó szél miatt, majd gyors visszatérés következik a kikötőbe.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență, dar oferă o atmosferă mistică în port. Urcarea spre Cimitirul Englez este revigorantă prin burniță. La prânz, Fort George oferă un adăpost solid cu o ambianță istorică deosebită.\n\nDupă coborârea prin ceața marină, drumul continuă spre Kut. Vizita la plaja Grandovac este scurtă din cauza vântului, urmată de o întoarcere rapidă în port pentru haine uscate.",
-            "en": "Cycling in the rain requires caution but offers a mystical atmosphere in the harbor. The climb to the English Cemetery is refreshing in the drizzle. By noon, Fort George provides a solid historical shelter and a great place to warm up.\n\nAfter descending through the coastal mist, the route heads back toward Kut. The afternoon visit to Grandovac Beach is brief due to the rising wind, followed by a quick return to the harbor for dry clothes."
+            "en": "Cycling in the rain requires caution but offers a mystical atmosphere in the harbor. The climb to the English Cemetery is refreshing in the drizzle. By noon, Fort George provides a solid historical shelter and a great place to warm up.\n\nAfter descending through the coastal mist, the route heads back toward Kut. The afternoon visit to Grandovac Beach is brief due to the rising wind, followed by a quick return to the harbor for dry clothes.",
+            "hr": "Vožnja bicikla po kiši zahtijeva oprez, ali nudi mističnu atmosferu u luci. Uspon do engleskog groblja osvježava na laganoj kiši. Do podneva, Fort George pruža čvrst povijesni zaklon i odlično mjesto za zagrijavanje.\n\nNakon spusta kroz obalnu maglu, ruta se vraća prema Kutu. Popodnevni posjet plaži Grandovac je kratak zbog pojačanog vjetra, nakon čega slijedi brzi povratak u luku na suhu odjeću."
           },
           "stops": [
             {
@@ -1111,7 +1203,8 @@
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start; nasse Felgen verlängern den Bremsweg.",
                 "hu": "Indulás előtt ellenőrizze a fékeket; a vizes felni jelentősen növeli a féktávot.",
                 "ro": "Verificați frânele înainte de plecare; jantele ude măresc distanța de frânare.",
-                "en": "Check your brakes before starting; wet rims significantly increase braking distance."
+                "en": "Check your brakes before starting; wet rims significantly increase braking distance.",
+                "hr": "Provjerite kočnice prije kretanja; mokri obruči značajno produžuju put kočenja."
               }
             },
             {
@@ -1120,7 +1213,8 @@
                 "de": "Der Weg hierher kann schlammig sein; achten Sie auf rutschige Abschnitte auf dem Asphalt.",
                 "hu": "Az ide vezető út saras lehet; ügyeljen a csúszós szakaszokra az aszfalton.",
                 "ro": "Drumul spre cimitir poate fi noroios; atenție la secțiunile alunecoase de asfalt.",
-                "en": "The path here can get muddy; watch out for slippery patches on the asphalt surface."
+                "en": "The path here can get muddy; watch out for slippery patches on the asphalt surface.",
+                "hr": "Put ovdje može postati blatnjav; pazite na skliske dijelove na asfaltu."
               }
             },
             {
@@ -1129,7 +1223,8 @@
                 "de": "Nutzen Sie den überdachten Bereich des Restaurants, um sich während eines Schauers aufzuwärmen.",
                 "hu": "Használja az étterem fedett részét, hogy felmelegedjen egy nagyobb zápor alatt.",
                 "ro": "Folosiți zona acoperită a restaurantului pentru a vă încălzi în timpul unei averse.",
-                "en": "Use the covered restaurant area to dry off and warm up during a heavy shower."
+                "en": "Use the covered restaurant area to dry off and warm up during a heavy shower.",
+                "hr": "Koristite natkriveni dio restorana da se osušite i zagrijete tijekom jakog pljuska."
               }
             },
             {
@@ -1138,7 +1233,8 @@
                 "de": "Vermeiden Sie scharfe Kurven auf dem nassen Kopfsteinpflaster rund um den Turm.",
                 "hu": "Kerülje az éles kanyarokat a torony körüli vizes macskakövön.",
                 "ro": "Evitați virajele strânse pe pavajul umed din jurul turnului Perasti.",
-                "en": "Avoid sharp turns on the wet cobblestones surrounding the Perasti Tower area."
+                "en": "Avoid sharp turns on the wet cobblestones surrounding the Perasti Tower area.",
+                "hr": "Izbjegavajte oštra skretanja na mokroj kaldrmi oko područja kule Perasti."
               }
             },
             {
@@ -1147,7 +1243,8 @@
                 "de": "Kurzer Stopp nur für Fotos; der Wind am Strand kann das Radfahren erschweren.",
                 "hu": "Csak rövid fotómegálló; a parti szél megnehezítheti a visszautat.",
                 "ro": "Oprire scurtă doar pentru fotografii; vântul de pe plajă poate îngreuna pedalarea.",
-                "en": "Brief stop for photos only; beach winds can make cycling back quite challenging."
+                "en": "Brief stop for photos only; beach winds can make cycling back quite challenging.",
+                "hr": "Kratko zaustavljanje samo za fotografije; obalni vjetrovi mogu otežati povratak."
               }
             }
           ],
@@ -1175,6 +1272,12 @@
               "Avoid road markings and manhole covers as they are extremely slick when wet.",
               "Slightly lower your tire pressure for better traction on the damp road surfaces.",
               "Dry your chain after the ride and re-apply lubricant to prevent winter rust."
+            ],
+            "hr": [
+              "Nosite uočljivu kabanicu i vodootporne navlake za cipele radi udobnosti.",
+              "Izbjegavajte oznake na cesti i poklopce šahtova jer su izuzetno skliski kad su mokri.",
+              "Lagano smanjite tlak u gumama za bolje prianjanje na vlažnim kolnicima.",
+              "Osušite lanac nakon vožnje i ponovno nanesite mazivo kako biste spriječili hrđu."
             ]
           }
         },
@@ -1183,7 +1286,8 @@
             "de": "Ein Wintermorgen auf dem Rad führt durch die stille Hafenpromenade. Die kühle Luft am English Cemetery macht den Kopf frei, während die Straßen fast Ihnen allein gehören. Mittags bietet Fort George einen fantastischen Weitblick über die glitzernde Adria.\n\nDie Fahrt zum Perasti-Turm in Kut ist angenehm, da der Verkehr minimal ist. Ein kurzer Besuch am Grandovac Beach zeigt die wilde Seite der winterlichen Küste, bevor die kühler werdende Nachmittagsluft zur Rückkehr drängt.",
             "hu": "A téli kerékpáros reggel a csendes kikötői sétányon indul. Az Angol temetőnél a hűvös levegő kitisztítja a fejet, miközben az utak szinte csak a miénk. Délben a George-erődből pazar kilátás nyílik a csillogó téli Adriára.\n\nA Perasti-toronyhoz vezető út Kutban kényelmes a minimális forgalom miatt. A Grandovac strandnál tett látogatás megmutatja a téli part vad arcát, mielőtt a lehűlő délutáni levegő visszatérésre ösztönözne.",
             "ro": "O dimineață de iarnă pe bicicletă trece prin faleza liniștită a portului. Aerul rece de la Cimitirul Englez împrospătează mintea, în timp ce drumurile sunt aproape pustii. La prânz, Fort George oferă o priveliște superbă asupra Adriaticii sclipitoare.\n\nDrumul spre Turnul Perasti din Kut este plăcut datorită traficului minim. O vizită scurtă la plaja Grandovac dezvăluie latura sălbatică a coastei iarna, înainte ca răcoarea serii să grăbească întoarcerea.",
-            "en": "A winter cycling morning passes through the quiet harbor promenade. The crisp air at the English Cemetery clears the mind while the roads belong almost entirely to you. By noon, Fort George offers a brilliant view of the sparkling Adriatic Sea.\n\nThe ride to Perasti Tower in Kut is pleasant with minimal traffic to worry about. A short visit to Grandovac Beach shows the wild side of the winter coast before the cooling afternoon air signals it's time to head back."
+            "en": "A winter cycling morning passes through the quiet harbor promenade. The crisp air at the English Cemetery clears the mind while the roads belong almost entirely to you. By noon, Fort George offers a brilliant view of the sparkling Adriatic Sea.\n\nThe ride to Perasti Tower in Kut is pleasant with minimal traffic to worry about. A short visit to Grandovac Beach shows the wild side of the winter coast before the cooling afternoon air signals it's time to head back.",
+            "hr": "Zimsko jutro na biciklu prolazi kroz mirnu lučku šetnicu. Oštar zrak kod engleskog groblja bistri um dok ceste pripadaju gotovo isključivo vama. Do podneva, Fort George nudi blistav pogled na svjetlucavo Jadransko more.\n\nVožnja do kule Perasti u Kutu je ugodna uz minimalan promet. Kratki posjet plaži Grandovac pokazuje divlju stranu zimske obale prije nego što hladniji popodnevni zrak signalizira da je vrijeme za povratak."
           },
           "stops": [
             {
@@ -1192,7 +1296,8 @@
                 "de": "Handschuhe sind für die Abfahrten unerlässlich, um die Hände warm und reaktionsfähig zu halten.",
                 "hu": "A kesztyű elengedhetetlen a lejtőkhöz, hogy kezei melegen és reakciókészen maradjanak.",
                 "ro": "Mănușile sunt esențiale pentru coborâri, pentru a menține mâinile calde și agile.",
-                "en": "Gloves are essential for descents to keep your hands warm and responsive for braking."
+                "en": "Gloves are essential for descents to keep your hands warm and responsive for braking.",
+                "hr": "Rukavice su neophodne za spustove kako bi vam ruke ostale tople i spremne za kočenje."
               }
             },
             {
@@ -1201,7 +1306,8 @@
                 "de": "Nutzen Sie das klare Winterlicht für weite Fernblicke über die Bucht von Vis.",
                 "hu": "Használja ki a tiszta téli fényt a Vis-öbölre nyíló távoli kilátás fotózásához.",
                 "ro": "Profitați de lumina clară de iarnă pentru vederi panoramice peste golful Vis.",
-                "en": "Take advantage of the clear winter light for distant views across the bay of Vis."
+                "en": "Take advantage of the clear winter light for distant views across the bay of Vis.",
+                "hr": "Iskoristite čisto zimsko svjetlo za daleke poglede preko viške uvale."
               }
             },
             {
@@ -1210,7 +1316,8 @@
                 "de": "Achtung bei Waldwegen; nasses Laub und Schatten können den Weg vereist wirken lassen.",
                 "hu": "Vigyázat az erdei utakon; a nedves levelek és az árnyék miatt jegesnek tűnhet az út.",
                 "ro": "Atenție la potecile de pădure; frunzele umede și umbra pot face drumul alunecos.",
-                "en": "Caution on shaded forest paths; wet leaves can be as slippery as ice in winter."
+                "en": "Caution on shaded forest paths; wet leaves can be as slippery as ice in winter.",
+                "hr": "Oprez na osjenčanim šumskim stazama; mokro lišće može biti sklisko poput leda."
               }
             },
             {
@@ -1219,7 +1326,8 @@
                 "de": "Die tiefstehende Sonne kann blenden; eine Sonnenbrille ist auch im Winter wichtig.",
                 "hu": "Az alacsonyan járó nap elvakíthat; a napszemüveg télen is fontos kellék.",
                 "ro": "Soarele jos poate fi orbitor; ochelarii de soare sunt importanți și iarna.",
-                "en": "The low winter sun can be blinding; sunglasses are important even in the cold season."
+                "en": "The low winter sun can be blinding; sunglasses are important even in the cold season.",
+                "hr": "Nisko zimsko sunce može zaslijepiti; sunčane naočale su važne i u hladnoj sezoni."
               }
             },
             {
@@ -1228,7 +1336,8 @@
                 "de": "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 16:30 Uhr) fest ein.",
                 "hu": "Tervezze meg a visszautat sötétedés előtt (kb. 16:30-ig) mindenképpen.",
                 "ro": "Planificați întoarcerea înainte de lăsarea întunericului (aproximativ ora 16:30).",
-                "en": "Strictly plan your return before darkness falls, which happens around 4:30 PM."
+                "en": "Strictly plan your return before darkness falls, which happens around 4:30 PM.",
+                "hr": "Strogo planirajte povratak prije mraka, koji pada oko 16:30."
               }
             }
           ],
@@ -1256,6 +1365,12 @@
               "Days are short; double-check that your bike lights are fully charged and working.",
               "Avoid shaded hollows where frost or condensation might linger on the road.",
               "Carry a thermos with a hot drink to keep your core temperature up during breaks."
+            ],
+            "hr": [
+              "Nosite termalne podslojeve i vjetrootpornu jaknu za izolaciju.",
+              "Dani su kratki; dvaput provjerite jesu li vam svjetla na biciklu puna i ispravna.",
+              "Izbjegavajte osjenčane udubine gdje se mraz ili kondenzacija mogu zadržati na cesti.",
+              "Ponesite termosicu s toplim napitkom kako biste održali tjelesnu temperaturu tijekom pauza."
             ]
           }
         }
@@ -1289,7 +1404,8 @@
             "de": "Parken Sie am Hauptparkplatz am Hafen.",
             "hu": "Parkoljon a fő kikötői parkolóban.",
             "ro": "Parcați în parcarea principală din port.",
-            "en": "Park at the main harbor parking lot."
+            "en": "Park at the main harbor parking lot.",
+            "hr": "Parkirajte na glavnom lučkom parkiralištu."
           }
         },
         {
@@ -1312,7 +1428,8 @@
             "de": "Leicht erreichbar mit dem Auto, großer Parkplatz.",
             "hu": "Autóval könnyen elérhető, nagy parkolóval.",
             "ro": "Ușor accesibil cu mașina, parcare mare.",
-            "en": "Easily accessible by car, large parking area."
+            "en": "Easily accessible by car, large parking area.",
+            "hr": "Lako dostupno automobilom, veliko parkiralište."
           }
         },
         {
@@ -1335,7 +1452,8 @@
             "de": "Parkplätze in der Nähe der Batarija-Festung.",
             "hu": "Parkolóhelyek a Batarija erőd közelében.",
             "ro": "Locuri de parcare în apropierea fortăreței Batarija.",
-            "en": "Parking spaces near Batarija Fortress."
+            "en": "Parking spaces near Batarija Fortress.",
+            "hr": "Parkirna mjesta u blizini tvrđave Batarija."
           }
         },
         {
@@ -1358,7 +1476,8 @@
             "de": "Ideal für ein ausgiebiges Mittagessen.",
             "hu": "Ideális egy kiadós ebédhez.",
             "ro": "Ideal pentru un prânz copios.",
-            "en": "Ideal for a hearty lunch."
+            "en": "Ideal for a hearty lunch.",
+            "hr": "Idealno za obilan ručak."
           }
         },
         {
@@ -1381,7 +1500,8 @@
             "de": "Sandstrand mit flachem Wasser, tolles Restaurant.",
             "hu": "Homokos strand sekély vízzel, remek étteremmel.",
             "ro": "Plajă cu nisip și apă puțin adâncă, restaurant excelent.",
-            "en": "Sandy beach with shallow water, great restaurant."
+            "en": "Sandy beach with shallow water, great restaurant.",
+            "hr": "Pješčana plaža s plitkom vodom, odličan restoran."
           }
         }
       ],
@@ -1389,7 +1509,8 @@
         "de": "Nutzen Sie das Auto, um die Highlights von Vis zu verbinden. Nach dem Besuch der historischen Festungen und Museen im Stadtgebiet fahren Sie zur nahegelegenen Stončica-Bucht. Dieser Sandstrand ist eine Seltenheit und bietet Entspannung pur vor der Rückfahrt in den Hafen.",
         "hu": "Használja az autót Vis látnivalóinak összekötéséhez. A történelmi erődök és múzeumok megtekintése után autózzon el a közeli Stončica-öbölbe. Ez a homokos strand ritkaság a környéken, és teljes kikapcsolódást nyújt a kikötőbe való visszatérés előtt.",
         "ro": "Folosiți mașina pentru a conecta punctele de atracție din Vis. După vizitarea fortărețelor istorice și a muzeelor din oraș, conduceți spre golful Stončica din apropiere. Această plajă cu nisip este o raritate și oferă relaxare totală înainte de întoarcerea în port.",
-        "en": "Use a car to link the highlights of Vis. After visiting the historical fortresses and museums in town, drive to the nearby Stončica Bay. This sandy beach is a rarity and offers pure relaxation before heading back to the harbor."
+        "en": "Use a car to link the highlights of Vis. After visiting the historical fortresses and museums in town, drive to the nearby Stončica Bay. This sandy beach is a rarity and offers pure relaxation before heading back to the harbor.",
+        "hr": "Automobilom povežite najvažnije točke Visa. Nakon posjeta povijesnim tvrđavama i muzejima u gradu, odvezite se do obližnje uvale Stončica. Ova pješčana plaža je rijetkost i nudi čisto opuštanje prije povratka u luku."
       },
       "gastro_picks": {
         "de": [
@@ -1414,6 +1535,12 @@
           {
             "name": "Konoba Stončica",
             "tip": "Grilled fish right on the beach."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Stončica",
+            "tip": "Riba s roštilja na samoj plaži."
           }
         ]
       },
@@ -1445,6 +1572,13 @@
             "tip": "Walk to the old lighthouse.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Svjetionik Stončica",
+            "tip": "Prošećite do starog svjetionika.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1471,6 +1605,12 @@
             "name": "Vis Limoncello",
             "tip": "Handmade liqueur from local lemons."
           }
+        ],
+        "hr": [
+          {
+            "name": "Viški Limoncello",
+            "tip": "Ručno rađeni liker od domaćih limuna."
+          }
         ]
       },
       "tips": {
@@ -1493,6 +1633,11 @@
           "Parking in Kut is difficult, use the large lots.",
           "The roads are narrow, drive carefully.",
           "A rental car allows you to visit remote bays."
+        ],
+        "hr": [
+          "Parkiranje u Kutu je teško, koristite velika parkirališta.",
+          "Ceste su uske, vozite oprezno.",
+          "Najam automobila omogućuje vam posjet udaljenim uvalama."
         ]
       },
       "variants": {
@@ -1685,7 +1830,8 @@
             "de": "Ein regnerischer Tag beginnt komfortabel mit einer Fahrt durch das Stadtzentrum von Vis. Fort George bietet trotz des Wetters einen majestätischen Anblick, während die Scheibenwischer den Blick auf die Küste freihalten. Mittags ist das Issa-Museum die perfekte trockene Station für Kulturbegeisterte.\n\nIn Kut lässt sich der Regen bei einem ausgedehnten Mittagessen in einer Konoba ignorieren. Die Fahrt zur Stončica-Bucht am Nachmittag zeigt die raue Schönheit der Insel, wo man die Brandung sicher aus dem warmen Auto beobachten kann.",
             "hu": "Az esős nap kényelmesen indul egy autós körúttal Vis központjában. A George-erőd a zord idő ellenére is fenséges látvány, miközben az ablaktörlők mögül figyelhetjük a partot. Délben az Issa múzeum tökéletes száraz állomás a kultúra kedvelőinek.\n\nKutban egy hosszúra nyúlt ebéd alatt egy konobában könnyű megfeledkezni a kinti esőről. A délutáni autózás a Stončica-öbölhöz megmutatja a sziget nyers szépségét, ahol a meleg autóból nézhetjük a tajtékzó hullámokat.",
             "ro": "O zi ploioasă începe confortabil cu o plimbare cu mașina prin centrul orașului Vis. Fort George oferă o priveliște maiestuoasă în ciuda vremii, în timp ce ștergătoarele mențin vizibilitatea asupra coastei. La prânz, Muzeul Issa este oprirea perfectă la uscat.\n\nÎn Kut, ploaia poate fi ignorată în timpul unui prânz prelungit într-o tavernă. Drumul spre golful Stončica de după-amiază dezvăluie frumusețea brută a insulei, unde puteți admira marea din confortul mașinii.",
-            "en": "A rainy day starts comfortably with a drive through Vis city center. Fort George remains a majestic sight despite the weather while the wipers keep the coastal views clear. By noon, the Issa Museum is the perfect dry stop for history enthusiasts.\n\nIn Kut, a long lunch in a local konoba is the best way to ignore the rain outside. The afternoon drive to Stončica Bay reveals the raw beauty of the island, allowing you to watch the waves from the warmth of your car."
+            "en": "A rainy day starts comfortably with a drive through Vis city center. Fort George remains a majestic sight despite the weather while the wipers keep the coastal views clear. By noon, the Issa Museum is the perfect dry stop for history enthusiasts.\n\nIn Kut, a long lunch in a local konoba is the best way to ignore the rain outside. The afternoon drive to Stončica Bay reveals the raw beauty of the island, allowing you to watch the waves from the warmth of your car.",
+            "hr": "Kišni dan počinje udobno vožnjom kroz centar grada Visa. Fort George ostaje veličanstven prizor unatoč vremenu dok brisači održavaju čist pogled na obalu. Do podneva, muzej Issa savršena je suha točka za ljubitelje povijesti.\n\nU Kutu je dugi ručak u lokalnoj konobi najbolji način za ignoriranje kiše vani. Popodnevna vožnja do uvale Stončica otkriva sirovu ljepotu otoka, omogućujući vam da promatrate valove iz topline automobila."
           },
           "stops": [
             {
@@ -1694,7 +1840,8 @@
                 "de": "Parken Sie nah am Ziel, um kurze Wege im Regen zu haben; nutzen Sie den Hafenparkplatz.",
                 "hu": "Parkoljon közel a célhoz, hogy keveset kelljen gyalogolni az esőben; használja a kikötői parkolót.",
                 "ro": "Parcați aproape de destinație pentru a merge puțin prin ploaie; folosiți parcarea din port.",
-                "en": "Park close to your destination to minimize walking in the rain; use the main harbor lot."
+                "en": "Park close to your destination to minimize walking in the rain; use the main harbor lot.",
+                "hr": "Parkirajte blizu odredišta kako biste smanjili hodanje po kiši; koristite glavno lučko parkiralište."
               }
             },
             {
@@ -1703,7 +1850,8 @@
                 "de": "Die Zufahrtsstraße kann schmal und rutschig sein; fahren Sie bei Regen besonders vorsichtig.",
                 "hu": "A bekötőút szűk és csúszós lehet; vezessen fokozott óvatossággal az esőben.",
                 "ro": "Drumul de acces poate fi îngust și alunecos; conduceți cu prudență sporită pe ploaie.",
-                "en": "The access road can be narrow and slick; drive with extra caution during heavy rainfall."
+                "en": "The access road can be narrow and slick; drive with extra caution during heavy rainfall.",
+                "hr": "Pristupna cesta može biti uska i skliska; vozite s dodatnim oprezom tijekom jakih oborina."
               }
             },
             {
@@ -1712,7 +1860,8 @@
                 "de": "Ein idealer Stopp, um das Auto zu parken und eine Stunde im Trockenen zu verbringen.",
                 "hu": "Ideális megálló, hogy leparkoljon és egy órát szárazon töltsön a kiállítások között.",
                 "ro": "O oprire ideală pentru a parca mașina și a petrece o oră la adăpost vizitând exponatele.",
-                "en": "An ideal stop to park the car and spend an hour indoors exploring the exhibits."
+                "en": "An ideal stop to park the car and spend an hour indoors exploring the exhibits.",
+                "hr": "Idealno mjesto za parkiranje i jednosatno istraživanje izložaka u zatvorenom."
               }
             },
             {
@@ -1721,7 +1870,8 @@
                 "de": "Parkplätze in Kut sind begrenzt; suchen Sie sich frühzeitig einen Platz am Rand des Viertels.",
                 "hu": "Kutban korlátozott a parkolás; keressen korán helyet a negyed szélén.",
                 "ro": "Locurile de parcare în Kut sunt limitate; căutați un loc la marginea cartierului din timp.",
-                "en": "Parking in Kut is limited; look for a spot at the edge of the district early in the day."
+                "en": "Parking in Kut is limited; look for a spot at the edge of the district early in the day.",
+                "hr": "Parkiranje u Kutu je ograničeno; potražite mjesto na rubu predjela rano ujutro."
               }
             },
             {
@@ -1730,7 +1880,8 @@
                 "de": "Bleiben Sie im Auto, um die stürmische Bucht zu bewundern, wenn der Regen zu stark ist.",
                 "hu": "Maradjon az autóban megcsodálni a viharos öblöt, ha túl erősen esne az eső.",
                 "ro": "Rămâneți în mașină pentru a admira golful învolburat dacă ploaia este prea puternică.",
-                "en": "Stay in the car to admire the stormy bay views if the rain becomes too intense to walk."
+                "en": "Stay in the car to admire the stormy bay views if the rain becomes too intense to walk.",
+                "hr": "Ostanite u automobilu i divite se pogledu na olujnu uvalu ako kiša postane prejaka za šetnju."
               }
             }
           ],
@@ -1758,6 +1909,12 @@
               "Avoid parking under unstable trees or near loose slopes during heavy wind and rain.",
               "Interior roads can become muddy and slick due to soil runoff during downpours.",
               "Use the air conditioning or defroster to prevent window fogging inside the vehicle."
+            ],
+            "hr": [
+              "Provjerite stanje brisača prije nego krenete na turneju po otoku.",
+              "Izbjegavajte parkiranje ispod nestabilnog drveća ili blizu kosina tijekom jakog vjetra i kiše.",
+              "Unutarnje ceste mogu postati blatnjave i skliske zbog ispiranja tla tijekom pljuskova.",
+              "Koristite klima uređaj ili odmagljivač kako biste spriječili magljenje stakala u vozilu."
             ]
           }
         },
@@ -1766,7 +1923,8 @@
             "de": "Ein klarer Wintertag mit dem Auto erlaubt es, die entlegeneren Winkel von Vis ohne Hitze zu erkunden. Der Morgen im Stadtzentrum ist ruhig, gefolgt von einer Panoramafahrt zu Fort George. Die tiefstehende Sonne bietet perfekte Fotobedingungen entlang der Küstenstraße.\n\nNachmittags in Kut findet man leicht einen Parkplatz, was im Sommer unmöglich wäre. Die Fahrt zur Stončica-Bucht führt durch schlafende Weinberge und endet mit einem friedlichen Blick auf das Meer, bevor die frühe Dämmerung einsetzt.",
             "hu": "A tiszta téli napon autóval a hőség nélkül fedezhetjük fel Vis távolabbi szegleteit is. A reggel a központban nyugodt, majd panorámás út vezet a George-erődhöz. Az alacsony napállás tökéletes fényeket biztosít a tengerparti út mentén.\n\nDélután Kutban könnyen találunk parkolót, ami nyáron lehetetlen küldetés. A Stončica-öböl felé vezető út alvó szőlőültetvények között visz, és békés tengeri kilátással zárul a korai szürkület előtt.",
             "ro": "O zi senină de iarnă cu mașina permite explorarea colțurilor îndepărtate ale insulei fără caniculă. Dimineața în centru este calmă, urmată de un drum panoramic spre Fort George. Soarele jos oferă condiții perfecte pentru fotografii de-a lungul coastei.\n\nDupă-amiaza în Kut este ușor de găsit parcare, lucru imposibil vara. Drumul spre golful Stončica trece prin podgorii adormite și se încheie cu o priveliște marină pașnică înainte de amurgul timpuriu.",
-            "en": "A clear winter day by car allows you to explore the distant corners of Vis without the summer heat. The morning in the center is quiet, followed by a scenic drive to Fort George. The low sun provides perfect lighting conditions along the coastal road.\n\nIn the afternoon in Kut, finding a parking spot is easy, which would be impossible in summer. The drive to Stončica Bay passes through dormant vineyards and ends with a peaceful sea view before the early dusk sets in."
+            "en": "A clear winter day by car allows you to explore the distant corners of Vis without the summer heat. The morning in the center is quiet, followed by a scenic drive to Fort George. The low sun provides perfect lighting conditions along the coastal road.\n\nIn the afternoon in Kut, finding a parking spot is easy, which would be impossible in summer. The drive to Stončica Bay passes through dormant vineyards and ends with a peaceful sea view before the early dusk sets in.",
+            "hr": "Vedar zimski dan automobilom omogućuje vam istraživanje udaljenih kutaka Visa bez ljetnih vrućina. Jutro u centru je mirno, nakon čega slijedi panoramska vožnja do Fort Georgea. Nisko sunce pruža savršeno osvjetljenje duž obalne ceste.\n\nPoslijepodne u Kutu pronalaženje parkirnog mjesta je lako, što bi ljeti bilo nemoguće. Vožnja do uvale Stončica prolazi kroz usnule vinograde i završava mirnim pogledom na more prije ranog sumraka."
           },
           "stops": [
             {
@@ -1775,7 +1933,8 @@
                 "de": "Genießen Sie die freie Parkplatzwahl im Winter direkt an der Riva.",
                 "hu": "Élvezze a szabad parkolóhely-választást télen közvetlenül a Riva mentén.",
                 "ro": "Bucurați-vă de libertatea de a alege locul de parcare iarna, chiar pe Riva.",
-                "en": "Enjoy the luxury of choosing any parking spot in winter right on the Riva waterfront."
+                "en": "Enjoy the luxury of choosing any parking spot in winter right on the Riva waterfront.",
+                "hr": "Uživajte u luksuzu biranja bilo kojeg parkirnog mjesta zimi izravno na rivi."
               }
             },
             {
@@ -1784,7 +1943,8 @@
                 "de": "Die Sonne steht tief; achten Sie auf Blendung bei der Fahrt bergauf.",
                 "hu": "A nap alacsonyan jár; ügyeljen a vakításra a hegynek felfelé vezető úton.",
                 "ro": "Soarele este jos; atenție la orbire în timpul conducerii pe drumul în urcare.",
-                "en": "The sun is very low in the sky; watch out for glare while driving uphill to the fort."
+                "en": "The sun is very low in the sky; watch out for glare while driving uphill to the fort.",
+                "hr": "Sunce je vrlo nisko; pazite na odsjaj tijekom vožnje uzbrdo prema tvrđavi."
               }
             },
             {
@@ -1793,7 +1953,8 @@
                 "de": "Heizung im Auto aufdrehen; das Museum kann im Winter recht kühl sein.",
                 "hu": "Tekerje fel a fűtést az autóban; a múzeum belső tere télen hűvös lehet.",
                 "ro": "Porniți căldura în mașină; interiorul muzeului poate fi destul de rece iarna.",
-                "en": "Turn up the car heater; the museum's stone interior can be quite chilly in winter."
+                "en": "Turn up the car heater; the museum's stone interior can be quite chilly in winter.",
+                "hr": "Pojačajte grijanje u autu; kamena unutrašnjost muzeja zimi može biti prilično hladna."
               }
             },
             {
@@ -1802,7 +1963,8 @@
                 "de": "Die engen Zufahrten sind im Winter durch fehlende Fußgängermassen stressfrei befahrbar.",
                 "hu": "A szűk bevezetők télen a gyalogos tömeg hiánya miatt stresszmentesen járhatók.",
                 "ro": "Accesul îngust este ușor de parcurs iarna datorită lipsei mulțimii de pietoni.",
-                "en": "Narrow access roads are stress-free in winter due to the absence of pedestrian crowds."
+                "en": "Narrow access roads are stress-free in winter due to the absence of pedestrian crowds.",
+                "hr": "Uske pristupne ceste zimi su bez stresa zbog nedostatka pješačkih gužvi."
               }
             },
             {
@@ -1811,7 +1973,8 @@
                 "de": "Nutzen Sie den Parkplatz für den Sonnenuntergang; er ist im Winter fast leer.",
                 "hu": "Használja a parkolót a naplemente megtekintéséhez; télen szinte üres az egész.",
                 "ro": "Folosiți parcarea pentru a vedea apusul; este aproape goală în timpul iernii.",
-                "en": "Use the beach parking area for sunset views; it's almost empty during the winter season."
+                "en": "Use the beach parking area for sunset views; it's almost empty during the winter season.",
+                "hr": "Koristite parkiralište kod plaže za pogled na zalazak sunca; gotovo je prazno zimi."
               }
             }
           ],
@@ -1839,6 +2002,12 @@
               "Battery performance can drop in the cold; check it before heading to remote areas.",
               "Higher mountain roads can have frost in the morning, even if the harbor stays mild.",
               "Refuel in advance as island gas stations may operate on shorter winter schedules."
+            ],
+            "hr": [
+              "Provjerite ima li u tekućini za pranje stakala dovoljno antifriza za hladnije noći.",
+              "Snaga akumulatora može pasti na hladnoći; provjerite ga prije odlaska u udaljena područja.",
+              "Više planinske ceste mogu imati mraza ujutro, čak i ako je u luci blago.",
+              "Napunite gorivo unaprijed jer otočke benzinske postaje mogu raditi skraćeno zimi."
             ]
           }
         }
@@ -1872,7 +2041,8 @@
             "de": "Knotenpunkt für Busse und Boote.",
             "hu": "Buszok és hajók csomópontja.",
             "ro": "Nod pentru autobuze și bărci.",
-            "en": "Hub for buses and boats."
+            "en": "Hub for buses and boats.",
+            "hr": "Čvorište za autobuse i brodove."
           }
         },
         {
@@ -1895,7 +2065,8 @@
             "de": "Vom Hafen aus bequem zu Fuß oder Boot erreichbar.",
             "hu": "A kikötőből gyalog vagy hajóval is könnyen elérhető.",
             "ro": "Accesibil ușor pe jos sau cu barca din port.",
-            "en": "Easily accessible by foot or boat from the harbor."
+            "en": "Easily accessible by foot or boat from the harbor.",
+            "hr": "Lako dostupno pješice ili brodom iz luke."
           }
         },
         {
@@ -1918,7 +2089,8 @@
             "de": "In der Nähe der Bushaltestelle gelegen.",
             "hu": "A buszmegálló közelében található.",
             "ro": "Situat în apropierea stației de autobuz.",
-            "en": "Located near the bus stop."
+            "en": "Located near the bus stop.",
+            "hr": "Nalazi se u blizini autobusne stanice."
           }
         },
         {
@@ -1941,7 +2113,8 @@
             "de": "Nutzen Sie das Taxiboot für den Weg zurück zum Hafen.",
             "hu": "Vegyen igénybe vízitaxit a kikötőbe való visszatéréshez.",
             "ro": "Folosiți un taxi pe apă pentru drumul înapoi spre port.",
-            "en": "Use a water taxi for the way back to the harbor."
+            "en": "Use a water taxi for the way back to the harbor.",
+            "hr": "Koristite taxi brodicu za povratak u luku."
           }
         },
         {
@@ -1964,7 +2137,8 @@
             "de": "Zentraler historischer Punkt.",
             "hu": "Központi történelmi pont.",
             "ro": "Punct istoric central.",
-            "en": "Central historical point."
+            "en": "Central historical point.",
+            "hr": "Središnja povijesna točka."
           }
         }
       ],
@@ -1972,7 +2146,8 @@
         "de": "Erkunden Sie Vis mit dem Fokus auf den zentralen Bereich. Nutzen Sie Taxiboote, um zwischen dem Hafen und dem Kut-Viertel zu pendeln. Die Wege sind kurz, und die wichtigsten Museen sowie die Festung Batarija liegen in Reichweite der Anlegestellen.",
         "hu": "Fedezze fel Vis központi részét. Használjon vízitaxit a fő kikötő és a Kut negyed közötti közlekedéshez. A távolságok kicsik, a legfontosabb múzeumok és a Batarija erőd könnyen elérhetőek a hajóállomásoktól.",
         "ro": "Explorați Vis concentrându-vă pe zona centrală. Folosiți taxiurile pe apă pentru a face naveta între port și cartierul Kut. Distanțele sunt scurte, iar cele mai importante muzee și fortăreața Batarija sunt la îndemâna debarcaderelor.",
-        "en": "Explore Vis focusing on the central area. Use water taxis to commute between the main harbor and the Kut district. Distances are short, and the most important museums and Batarija Fortress are within reach of the docks."
+        "en": "Explore Vis focusing on the central area. Use water taxis to commute between the main harbor and the Kut district. Distances are short, and the most important museums and Batarija Fortress are within reach of the docks.",
+        "hr": "Istražite Vis fokusirajući se na središnji dio. Koristite taxi brodice za kretanje između glavne luke i predjela Kut. Udaljenosti su kratke, a najvažniji muzeji i tvrđava Batarija nalaze se na dohvat ruke od pristaništa."
       },
       "gastro_picks": {
         "de": [
@@ -1997,6 +2172,12 @@
           {
             "name": "Bakery at the harbor",
             "tip": "Fresh pogača on the go."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pekara u luci",
+            "tip": "Svježa pogača u hodu."
           }
         ]
       },
@@ -2028,6 +2209,13 @@
             "tip": "Shady spot while waiting for the boat.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Park blizu samostana",
+            "tip": "Hladovito mjesto dok čekate brod.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -2054,6 +2242,12 @@
             "name": "Fish Market",
             "tip": "Fresh morning catch on the quay."
           }
+        ],
+        "hr": [
+          {
+            "name": "Ribarnica",
+            "tip": "Svježi jutarnji ulov na rivi."
+          }
         ]
       },
       "tips": {
@@ -2076,6 +2270,11 @@
           "Water taxis are faster than walking around the bay.",
           "Check the departure times of island ferries.",
           "Tickets for the bus to Komiža can be bought from the driver."
+        ],
+        "hr": [
+          "Taxi brodice su brže od hodanja oko uvale.",
+          "Provjerite vremena polaska otočkih trajekata.",
+          "Karte za autobus za Komižu mogu se kupiti kod vozača."
         ]
       },
       "variants": {
@@ -2268,7 +2467,8 @@
             "de": "Ein regnerischer Tag mit dem Transit beginnt im geschützten Wartebereich des Fährhafens. Das Kloster Prirovo ist nur einen kurzen, nassen Spaziergang von der Haltestelle entfernt. Mittags bietet das Issa-Museum eine willkommene trockene Pause vom Wetter.\n\nDie Fahrt nach Kut im Bus bietet einen Blick auf die regnerische Bucht, ohne nass zu werden. Den Nachmittag verbringt man an der Batarija-Festung, wobei man die Buszeiten genau im Auge behalten sollte, um die Wartezeit im Regen zu minimieren.",
             "hu": "Az esős nap tömegközlekedéssel a kompterminál fedett várójában indul. A Prirovo-kolostor csak egy rövid, vizes séta a megállótól. Délben az Issa múzeum nyújt menedéket a csapadék elől, miközben elmélyedünk a történelemben.\n\nA kut-i buszozás alatt az ablakból csodálhatjuk az esőáztatta öblöt. A délutánt a Batarija-erődnél töltjük, figyelve a menetrendet, hogy ne kelljen sokat várni a megállóban a zuhogó esőben.",
             "ro": "O zi ploioasă cu transportul public începe în zona de așteptare protejată a terminalului. Mănăstirea Prirovo este la doar o scurtă plimbare prin ploaie de stație. La prânz, Muzeul Issa oferă un refugiu binevenit de vremea nefavorabilă.\n\nCălătoria spre Kut cu autobuzul oferă o vedere spre golful ploios fără a vă uda. După-amiaza se petrece la fortăreața Batarija, urmărind atent orarul pentru a nu aștepta în ploaie.",
-            "en": "A rainy day using transit begins in the sheltered waiting area of the ferry port. The Prirovo Monastery is just a short, wet walk from the nearest stop. By noon, the Issa Museum provides a welcome dry break from the outdoor elements.\n\nThe bus ride to Kut allows you to see the rainy bay from a dry seat. Spend the afternoon at Batarija Fortress, keeping a close eye on bus schedules to minimize waiting time in the rain."
+            "en": "A rainy day using transit begins in the sheltered waiting area of the ferry port. The Prirovo Monastery is just a short, wet walk from the nearest stop. By noon, the Issa Museum provides a welcome dry break from the outdoor elements.\n\nThe bus ride to Kut allows you to see the rainy bay from a dry seat. Spend the afternoon at Batarija Fortress, keeping a close eye on bus schedules to minimize waiting time in the rain.",
+            "hr": "Kišni dan javnim prijevozom počinje u natkrivenoj čekaonici trajektne luke. Samostan na Prirovu udaljen je samo kratku, mokru šetnju od najbliže stanice. Do podneva, muzej Issa nudi dobrodošao suhi predah od vanjskih elemenata.\n\nVožnja autobusom do Kuta omogućuje vam da vidite kišnu uvalu iz suhog sjedala. Provedite poslijepodne u tvrđavi Batarija, pazeći na raspored autobusa kako biste smanjili čekanje na kiši."
           },
           "stops": [
             {
@@ -2277,7 +2477,8 @@
                 "de": "Nutzen Sie das Terminalgebäude als trockenen Treffpunkt und Infopunkt.",
                 "hu": "Használja a terminál épületét száraz találkozási pontként és információs helyként.",
                 "ro": "Folosiți clădirea terminalului ca punct de întâlnire uscat și centru de informare.",
-                "en": "Use the ferry terminal building as a dry meeting point and information center."
+                "en": "Use the ferry terminal building as a dry meeting point and information center.",
+                "hr": "Koristite zgradu trajektnog terminala kao suho mjesto za sastanak i informativni centar."
               }
             },
             {
@@ -2286,7 +2487,8 @@
                 "de": "Der Weg von der Haltestelle ist kurz; halten Sie den Schirm griffbereit.",
                 "hu": "A megállótól vezető út rövid; tartsa kéznél az esernyőt a kiszállás után.",
                 "ro": "Drumul de la stație este scurt; țineți umbrela la îndemână după coborâre.",
-                "en": "The walk from the bus stop is short; keep your umbrella ready for the transfer."
+                "en": "The walk from the bus stop is short; keep your umbrella ready for the transfer.",
+                "hr": "Šetnja od autobusne stanice je kratka; imajte kišobran spreman za presjedanje."
               }
             },
             {
@@ -2295,7 +2497,8 @@
                 "de": "Planen Sie den Museumsbesuch zwischen zwei Busankünften, um trocken zu bleiben.",
                 "hu": "Időzítse a múzeumlátogatást két buszjárat közé, hogy végig szárazon maradjon.",
                 "ro": "Planificați vizita la muzeu între două sosiri de autobuz pentru a rămâne uscat.",
-                "en": "Time your museum visit between bus arrivals to ensure you stay dry throughout."
+                "en": "Time your museum visit between bus arrivals to ensure you stay dry throughout.",
+                "hr": "Uskladite posjet muzeju s dolascima autobusa kako biste ostali suhi cijelo vrijeme."
               }
             },
             {
@@ -2304,7 +2507,8 @@
                 "de": "Die Bushaltestelle bietet wenig Schutz; kommen Sie erst kurz vor Abfahrt dorthin.",
                 "hu": "A buszmegálló kevés védelmet nyújt; csak röviddel az indulás előtt menjen oda.",
                 "ro": "Stația de autobuz oferă puțin adăpost; mergeți acolo doar cu puțin timp înainte.",
-                "en": "The bus stop offers minimal shelter; head there only minutes before the scheduled departure."
+                "en": "The bus stop offers minimal shelter; head there only minutes before the scheduled departure.",
+                "hr": "Autobusna stanica nudi minimalan zaklon; krenite tamo tek nekoliko minuta prije polaska."
               }
             },
             {
@@ -2313,7 +2517,8 @@
                 "de": "Rufen Sie bei starkem Regen ein Taxi, falls der Bus Verspätung hat.",
                 "hu": "Erős esőben hívjon taxit alternatívaként, ha a busz sokat késne.",
                 "ro": "În caz de ploaie torențială, apelați la un taxi dacă autobuzul întârzie mult.",
-                "en": "In case of heavy downpours, consider a taxi if the bus schedule is delayed."
+                "en": "In case of heavy downpours, consider a taxi if the bus schedule is delayed.",
+                "hr": "U slučaju jakih pljuskova, razmislite o taksiju ako autobusni red kasni."
               }
             }
           ],
@@ -2341,6 +2546,12 @@
               "Wear waterproof footwear as paths to the stops often accumulate deep puddles.",
               "Have exact change ready for the driver to speed up the boarding process in the rain.",
               "Buses may run slower during heavy storms; allow extra time for your connections."
+            ],
+            "hr": [
+              "Uzmite tiskani vozni red u turističkom uredu u lučkom području.",
+              "Nosite vodootpornu obuću jer se na putovima do stanica često nakupljaju duboke lokve.",
+              "Pripremite točan iznos za vozača kako biste ubrzali ulazak u autobus po kiši.",
+              "Autobusi mogu voziti sporije tijekom jakih oluja; odvojite više vremena za veze."
             ]
           }
         },
@@ -2349,7 +2560,8 @@
             "de": "Ein ruhiger Wintermorgen im Hafen von Vis beginnt mit dem Warten auf den lokalen Bus. Prirovo zeigt sich in winterlicher Stille, fast ohne Menschen. Mittags ist das Issa-Museum ein warmer kultureller Ankerpunkt.\n\nDie Fahrt nach Kut ist im Winter besonders friedlich, da der Bus fast leer ist. Der Nachmittag an der Batarija-Festung endet früh, da man den letzten Tageslicht-Bus zurück zum Hafen nehmen muss, bevor die kalte Winternacht einsetzt.",
             "hu": "A nyugodt téli reggel a kikötőben a helyi buszra várva indul. Prirovo ilyenkor a téli csend birodalma, szinte ember nélkül. Délben az Issa múzeum meleg kulturális horgonyként szolgál az utazóknak.\n\nA kut-i utazás télen különösen békés, a busz szinte üres. A Batarija-erőd felfedezése után érdemes az utolsó világosban induló buszt választani a kikötőbe, mielőtt a hideg téli éjszaka leszállna.",
             "ro": "O dimineață liniștită de iarnă în portul Vis începe așteptând autobuzul local. Prirovo se arată într-o liniște hibernală, aproape fără oameni. La prânz, Muzeul Issa este un punct cultural cald și primitor.\n\nCălătoria spre Kut este extrem de pașnică iarna, autobuzul fiind aproape gol. După-amiaza la fortăreața Batarija se încheie devreme pentru a prinde ultimul autobuz pe lumină spre port.",
-            "en": "A quiet winter morning in Vis harbor starts by waiting for the local bus. Prirovo appears in winter silence, almost devoid of people. By noon, the Issa Museum serves as a warm cultural anchor for visitors.\n\nThe transit to Kut is particularly peaceful in winter as the bus is nearly empty. The afternoon at Batarija Fortress ends early to catch the last daylight bus back to the harbor before the cold winter night sets in."
+            "en": "A quiet winter morning in Vis harbor starts by waiting for the local bus. Prirovo appears in winter silence, almost devoid of people. By noon, the Issa Museum serves as a warm cultural anchor for visitors.\n\nThe transit to Kut is particularly peaceful in winter as the bus is nearly empty. The afternoon at Batarija Fortress ends early to catch the last daylight bus back to the harbor before the cold winter night sets in.",
+            "hr": "Mirno zimsko jutro u viškoj luci počinje čekanjem lokalnog autobusa. Prirovo se pojavljuje u zimskoj tišini, gotovo bez ljudi. Do podneva, muzej Issa služi kao topla kulturna točka za posjetitelje.\n\nPrijevoz do Kuta posebno je miran zimi jer je autobus gotovo prazan. Poslijepodne u tvrđavi Batarija završava ranije kako biste uhvatili zadnji dnevni autobus za luku prije hladne zimske noći."
           },
           "stops": [
             {
@@ -2358,7 +2570,8 @@
                 "de": "Prüfen Sie den Winterfahrplan genau; es gibt deutlich weniger Verbindungen als im Sommer.",
                 "hu": "Alaposan ellenőrizze a téli menetrendet; jóval kevesebb járat van, mint nyáron.",
                 "ro": "Verificați cu atenție orarul de iarnă; sunt mult mai puține curse decât vara.",
-                "en": "Carefully check the winter schedule as there are significantly fewer buses than in summer."
+                "en": "Carefully check the winter schedule as there are significantly fewer buses than in summer.",
+                "hr": "Pažljivo provjerite zimski vozni red jer ima znatno manje autobusa nego ljeti."
               }
             },
             {
@@ -2367,7 +2580,8 @@
                 "de": "Warten Sie im Windschatten von Gebäuden auf den Bus, wenn die Bura bläst.",
                 "hu": "Várja a buszt az épületek szélvédett oldalán, ha fúj a bóra.",
                 "ro": "Așteptați autobuzul la adăpostul clădirilor dacă bate vântul Bura.",
-                "en": "Wait for the bus on the leeward side of buildings if the Bura wind is blowing."
+                "en": "Wait for the bus on the leeward side of buildings if the Bura wind is blowing.",
+                "hr": "Čekajte autobus u zavjetrini zgrada ako puše bura."
               }
             },
             {
@@ -2376,7 +2590,8 @@
                 "de": "Nutzen Sie den Museumsbesuch, um die kälteste Zeit des Mittags im Warmen zu verbringen.",
                 "hu": "Használja ki a múzeumlátogatást, hogy a dél körüli leghidegebb időt bent töltse.",
                 "ro": "Folosiți vizita la muzeu pentru a petrece cea mai rece perioadă a prânzului la căldură.",
-                "en": "Use the museum visit to spend the coldest part of the midday indoors."
+                "en": "Use the museum visit to spend the coldest part of the midday indoors.",
+                "hr": "Iskoristite posjet muzeju da provedete najhladniji dio dana u zatvorenom."
               }
             },
             {
@@ -2385,7 +2600,8 @@
                 "de": "Beachten Sie, dass der Bus im Winter seltener fährt; planen Sie Ihre Rückfahrt fest ein.",
                 "hu": "Vegye figyelembe, hogy a busz télen ritkábban jár; fixen tervezze meg a visszautat.",
                 "ro": "Rețineți că autobuzul circulă mai rar iarna; planificați-vă clar întoarcerea.",
-                "en": "Note that the bus runs less frequently in winter; plan your return trip strictly."
+                "en": "Note that the bus runs less frequently in winter; plan your return trip strictly.",
+                "hr": "Imajte na umu da autobus zimi vozi rjeđe; strogo isplanirajte povratni put."
               }
             },
             {
@@ -2394,7 +2610,8 @@
                 "de": "Nehmen Sie den Bus um 15:30 Uhr, um vor der Dunkelheit wieder im Zentrum zu sein.",
                 "hu": "Szálljon buszra 15:30-kor, hogy sötétedés előtt visszaérjen a központba.",
                 "ro": "Luați autobuzul de la 15:30 pentru a reveni în centru înainte de lăsarea întunericului.",
-                "en": "Take the 3:30 PM bus to ensure you are back in the center before it gets dark."
+                "en": "Take the 3:30 PM bus to ensure you are back in the center before it gets dark.",
+                "hr": "Uzmite autobus u 15:30 kako biste bili sigurni da ste u centru prije mraka."
               }
             }
           ],
@@ -2422,6 +2639,12 @@
               "Dress warmly for waiting periods at the stops, which are often very drafty.",
               "On winter Sundays, the local bus might not run at all; check for taxi options.",
               "Always confirm the time of the last return bus with the driver to avoid being stranded."
+            ],
+            "hr": [
+              "Autobusi voze po značajno smanjenom zimskom voznom redu; provjerite vremena online.",
+              "Toplo se odjenite za čekanje na stanicama, koje su često vrlo vjetrovite.",
+              "Zimskim nedjeljama lokalni autobus možda uopće ne vozi; provjerite taxi opcije.",
+              "Uvijek potvrdite vrijeme zadnjeg povratnog autobusa s vozačem kako ne biste ostali zaglavljeni."
             ]
           }
         }

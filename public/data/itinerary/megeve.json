@@ -36,7 +36,8 @@
             "de": "Trinken Sie einen Morgenkaffee im Schatten des alten Glockenturms.",
             "hu": "Igyon egy reggeli kávét a régi harangtorony árnyékában.",
             "ro": "Savurați o cafea de dimineață la umbra vechiului turn cu ceas.",
-            "en": "Enjoy a morning coffee in the shadow of the ancient bell tower."
+            "en": "Enjoy a morning coffee in the shadow of the ancient bell tower.",
+            "fr": "Savourez un café matinal à l'ombre de l'ancien clocher."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Achten Sie auf die barocken Altarbilder aus dem 17. Jahrhundert.",
             "hu": "Figyelje meg a 17. századi barokk oltárképeket.",
             "ro": "Observați retablurile baroce din secolul al XVII-lea.",
-            "en": "Observe the 17th-century Baroque altarpieces."
+            "en": "Observe the 17th-century Baroque altarpieces.",
+            "fr": "Observez les retables baroques du XVIIe siècle."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Erfahren Sie in diesem alten Bauernhof alles über das bäuerliche Leben.",
             "hu": "Ismerje meg a paraszti életet ebben a régi gazdasági épületben.",
             "ro": "Aflați totul despre viața rurală în această veche fermă.",
-            "en": "Learn all about rural life in this old farmhouse."
+            "en": "Learn all about rural life in this old farmhouse.",
+            "fr": "Apprenez tout sur la vie rurale dans cette ancienne ferme."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Besuchen Sie die 14 Kapellen entlang des historischen Wanderwegs.",
             "hu": "Látogassa meg a 14 kápolnát a történelmi túraútvonal mentén.",
             "ro": "Vizitați cele 14 capele de-a lungul traseului istoric.",
-            "en": "Visit the 14 chapels along the historic hiking trail."
+            "en": "Visit the 14 chapels along the historic hiking trail.",
+            "fr": "Visitez les 14 chapelles le long du sentier de randonnée historique."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Nutzen Sie den Wellnessbereich nach dem Stadtrundgang.",
             "hu": "Használja a wellness részleget a városi séta után.",
             "ro": "Utilizați zona de wellness după turul orașului.",
-            "en": "Use the wellness area after your city walk."
+            "en": "Use the wellness area after your city walk.",
+            "fr": "Profitez de l'espace bien-être après votre promenade en ville."
           }
         }
       ],
@@ -136,7 +141,8 @@
         "de": "Morgens erkunden wir den historischen Kern rund um den Place de l'Église, wo das Dorfleben pulsiert. Mittags tauchen wir im Heimatmuseum tief in die alpinen Traditionen und die bäuerliche Geschichte ein. Der Nachmittag gehört dem spirituellen Pfad des Calvaire mit seinen kunstvollen Kapellen und weiten Ausblicken. Abends entspannen wir im modernen Palais-Komplex, dem sportlichen und kulturellen Herzstück des Ortes.",
         "hu": "A reggelt a történelmi magban, a Place de l'Église körül kezdjük, ahol lüktet a falusi élet. Délben a helytörténeti múzeumban merülünk el az alpesi hagyományok és a paraszti múlt emlékeiben. A délutánt a Kálvária spirituális ösvényének szenteljük, művészi kápolnáival és tágas kilátásaival. Este a modern Palais komplexumban lazítunk, amely a település sport- és kulturális központja.",
         "ro": "Dimineața explorăm nucleul istoric din jurul Place de l'Église, unde pulsează viața satului. La prânz aprofundăm tradițiile alpine și istoria rurală la muzeul local. După-amiaza este dedicată traseului spiritual Calvaire, cu capelele sale artistice și vederi panoramice. Seara ne relaxăm în complexul modern Palais, inima sportivă și culturală a localității.",
-        "en": "In the morning, we explore the historical core around Place de l'Église, where village life pulses. At midday, we dive deep into Alpine traditions and rural history at the local museum. The afternoon is dedicated to the spiritual path of the Calvaire with its artistic chapels and broad views. In the evening, we relax at the modern Palais complex, the sporting and cultural heart of the resort."
+        "en": "In the morning, we explore the historical core around Place de l'Église, where village life pulses. At midday, we dive deep into Alpine traditions and rural history at the local museum. The afternoon is dedicated to the spiritual path of the Calvaire with its artistic chapels and broad views. In the evening, we relax at the modern Palais complex, the sporting and cultural heart of the resort.",
+        "fr": "Le matin, nous explorons le cœur historique autour de la place de l'Église, où bat le pouls du village. À la mi-journée, nous plongeons dans les traditions alpines et l'histoire rurale au musée local. L'après-midi est dédié au sentier spirituel du Calvaire avec ses chapelles artistiques et ses larges panoramas. En soirée, nous nous détendons au complexe moderne du Palais, le cœur sportif et culturel de la station."
       },
       "gastro_picks": {
         "de": [
@@ -177,6 +183,16 @@
           {
             "name": "Farcement",
             "tip": "A local specialty made from potatoes, bacon, and dried fruits."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Prieuré",
+            "tip": "Goûtez la fondue au fromage classique dans un cadre historique."
+          },
+          {
+            "name": "Farcement",
+            "tip": "Une spécialité locale à base de pommes de terre, de lard et de fruits secs."
           }
         ]
       },
@@ -228,6 +244,18 @@
             "tip": "Small hidden garden behind the church.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Chemin du Calvaire",
+            "tip": "Un endroit calme pour la réflexion tôt le matin.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jardin de l'Évêché",
+            "tip": "Petit jardin caché derrière l'église.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -270,6 +298,16 @@
             "name": "Aallard",
             "tip": "Exclusive fashion in the main square since 1926."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché hebdomadaire",
+            "tip": "Chaque vendredi matin avec des produits régionaux."
+          },
+          {
+            "name": "Aallard",
+            "tip": "Mode exclusive sur la place principale depuis 1926."
+          }
         ]
       },
       "tips": {
@@ -296,6 +334,12 @@
           "Wear sturdy shoes for the Calvaire path.",
           "Visit the church outside of mass times.",
           "Use the free shuttle buses for longer distances."
+        ],
+        "fr": [
+          "Le centre est presque entièrement piétonnier.",
+          "Portez des chaussures robustes pour le sentier du Calvaire.",
+          "Visitez l'église en dehors des heures de messe.",
+          "Utilisez les navettes gratuites pour les distances plus longues."
         ]
       },
       "variants": {
@@ -544,7 +588,8 @@
             "de": "Morgens genießen Sie einen Kaffee unter den Arkaden am Place de l'Église. Mittags bietet das Museum einen gemütlichen Rückzugsort vor dem Regen. Nachmittags führt ein kurzer Gang zum Calvaire durch die mystische Nebellandschaft. Den Abend lassen Sie im trockenen Palais de Megève bei Wellness oder Sport ausklingen.",
             "hu": "Reggel élvezze a kávét a templom téri árkádok alatt. Délben a múzeum nyújt meleg menedéket az eső elől. Délután a Kálvária-út misztikus ködbe burkolózó sétát ígér. Az estét a Palais de Megève fedett szabadidőközpontjában, wellnessel vagy sportolással töltheti el szárazon.",
             "ro": "Dimineața, savurați o cafea sub arcadele din Place de l'Église. La prânz, muzeul oferă un refugiu primitor ferit de ploaie. După-amiaza, o scurtă plimbare spre Calvaire vă poartă printr-un peisaj cețos mistic. Încheiați seara la Palais de Megève, bucurându-vă de wellness sau sport la adăpost.",
-            "en": "Morning starts with coffee under the arcades at Place de l'Église. At noon, the museum provides a cozy retreat from the rain. In the afternoon, a short walk to the Calvaire offers a mystic, misty atmosphere. Spend your evening dry at the Palais de Megève leisure center with wellness or sports."
+            "en": "Morning starts with coffee under the arcades at Place de l'Église. At noon, the museum provides a cozy retreat from the rain. In the afternoon, a short walk to the Calvaire offers a mystic, misty atmosphere. Spend your evening dry at the Palais de Megève leisure center with wellness or sports.",
+            "fr": "La matinée commence par un café sous les arcades de la place de l'Église. À midi, le musée offre un refuge douillet contre la pluie. L'après-midi, une courte marche au Calvaire offre une atmosphère mystique et brumeuse. Passez votre soirée au sec au centre de loisirs du Palais de Megève avec espace bien-être ou sport."
           },
           "stops": [
             {
@@ -553,7 +598,8 @@
                 "de": "Unter den Arkaden bleiben.",
                 "hu": "Maradjon az árkádok alatt.",
                 "ro": "Stați sub arcade.",
-                "en": "Stay under the arcades."
+                "en": "Stay under the arcades.",
+                "fr": "Restez sous les arcades."
               }
             },
             {
@@ -562,7 +608,8 @@
                 "de": "Ideal für stille Momente.",
                 "hu": "Ideális csendes percekre.",
                 "ro": "Ideal pentru momente de liniște.",
-                "en": "Ideal for quiet moments."
+                "en": "Ideal for quiet moments.",
+                "fr": "Idéal pour des moments de calme."
               }
             },
             {
@@ -571,7 +618,8 @@
                 "de": "Bester Schutz vor Güssen.",
                 "hu": "Legjobb védelem zápor ellen.",
                 "ro": "Cea mai bună protecție.",
-                "en": "Best shelter from downpours."
+                "en": "Best shelter from downpours.",
+                "fr": "Meilleur abri contre les averses."
               }
             },
             {
@@ -580,7 +628,8 @@
                 "de": "Fester Boden, Schirm mitnehmen.",
                 "hu": "Szilárd út, vigyen ernyőt.",
                 "ro": "Drum stabil, luați umbrela.",
-                "en": "Paved path, bring an umbrella."
+                "en": "Paved path, bring an umbrella.",
+                "fr": "Sentier goudronné, apportez un parapluie."
               }
             },
             {
@@ -589,7 +638,8 @@
                 "de": "Perfektes Indoor-Programm.",
                 "hu": "Tökéletes fedett program.",
                 "ro": "Program interior perfect.",
-                "en": "Perfect indoor program."
+                "en": "Perfect indoor program.",
+                "fr": "Programme d'intérieur parfait."
               }
             }
           ],
@@ -617,6 +667,12 @@
               "Use local cafes as strategic pit stops.",
               "The Calvaire path is paved and safe for rain.",
               "The Palais is the best bad-weather option."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables pour les pavés.",
+              "Utilisez les cafés locaux comme arrêts stratégiques.",
+              "Le sentier du Calvaire est goudronné et sûr sous la pluie.",
+              "Le Palais est la meilleure option en cas de mauvais temps."
             ]
           }
         },
@@ -625,7 +681,8 @@
             "de": "Morgens glitzert der Schnee auf dem Place de l'Église zwischen festlicher Deko. Mittags wärmen Sie sich im Museum bei lokaler Geschichte auf. Nachmittags stapfen Sie durch die weiße Pracht zum Calvaire. Abends lockt die Eishalle oder das Thermalbad im Palais de Megève zur Entspannung nach dem Kältespaziergang.",
             "hu": "Reggel a hó csillog a templom téren az ünnepi díszek között. Délben a múzeumban melegedhet fel a helyi történetek mellett. Délután a fehér hótakarón át sétálhat fel a Kálváriához. Este a Palais de Megève jégpályája vagy termálfürdője várja a hideg utáni kikapcsolódásra.",
             "ro": "Dimineața, zăpada strălucește în Place de l'Église printre decorațiuni. La prânz, vă încălziți la muzeu cu istoria locală. După-amiaza, pășiți prin albul imaculat spre Calvaire. Seara, patinoarul sau băile termale de la Palais vă invitan la relaxare după frig.",
-            "en": "Morning snow sparkles on Place de l'Église amidst festive decor. At noon, warm up in the museum while exploring local history. In the afternoon, trek through the white wonderland to the Calvaire. Spend your evening at the Palais ice rink or thermal spa to thaw out."
+            "en": "Morning snow sparkles on Place de l'Église amidst festive decor. At noon, warm up in the museum while exploring local history. In the afternoon, trek through the white wonderland to the Calvaire. Spend your evening at the Palais ice rink or thermal spa to thaw out.",
+            "fr": "Le matin, la neige scintille sur la place de l'Église au milieu des décors festifs. À midi, réchauffez-vous au musée tout en explorant l'histoire locale. L'après-midi, partez en randonnée dans ce paradis blanc vers le Calvaire. Passez votre soirée à la patinoire du Palais ou au spa thermal pour vous décongeler."
           },
           "stops": [
             {
@@ -634,7 +691,8 @@
                 "de": "Vorsicht bei Glatteis.",
                 "hu": "Vigyázat, jegesedés várható.",
                 "ro": "Atenție la polei.",
-                "en": "Watch out for icy patches."
+                "en": "Watch out for icy patches.",
+                "fr": "Attention aux plaques de verglas."
               }
             },
             {
@@ -643,7 +701,8 @@
                 "de": "Wunderschön beleuchtet.",
                 "hu": "Gyönyörűen kivilágítva.",
                 "ro": "Frumos iluminată.",
-                "en": "Beautifully illuminated."
+                "en": "Beautifully illuminated.",
+                "fr": "Magnifiquement illuminé."
               }
             },
             {
@@ -652,7 +711,8 @@
                 "de": "Angenehm beheizt.",
                 "hu": "Kellemesen fűtött belső.",
                 "ro": "Interior încălzit plăcut.",
-                "en": "Pleasantly heated interior."
+                "en": "Pleasantly heated interior.",
+                "fr": "Intérieur agréablement chauffé."
               }
             },
             {
@@ -661,7 +721,8 @@
                 "de": "Winterstiefel sind Pflicht.",
                 "hu": "Téli bakancs kötelező.",
                 "ro": "Ghetele de iarnă sunt obligatorii.",
-                "en": "Winter boots are a must."
+                "en": "Winter boots are a must.",
+                "fr": "Les bottes d'hiver sont indispensables."
               }
             },
             {
@@ -670,7 +731,8 @@
                 "de": "Eislaufen als Highlight.",
                 "hu": "A korcsolyázás kihagyhatatlan.",
                 "ro": "Patinajul este punctul forte.",
-                "en": "Ice skating is a highlight."
+                "en": "Ice skating is a highlight.",
+                "fr": "Le patinage sur glace est un moment fort."
               }
             }
           ],
@@ -698,6 +760,12 @@
               "Dress in warm, waterproof layers.",
               "Cobblestones can be very slippery when icy.",
               "Enjoy a hot chocolate in the town center."
+            ],
+            "fr": [
+              "Le soleil se couche tôt, vers 17h00.",
+              "Habillez-vous avec des couches chaudes et imperméables.",
+              "Les pavés peuvent être très glissants par temps de gel.",
+              "Savourez un chocolat chaud dans le centre-ville."
             ]
           }
         }
@@ -731,7 +799,8 @@
             "de": "Bereiten Sie Ihre Ausrüstung am Hauptplatz vor.",
             "hu": "Készítse fel felszerelését a főtéren.",
             "ro": "Pregătiți-vă echipamentul în piața principală.",
-            "en": "Prepare your gear in the main square."
+            "en": "Prepare your gear in the main square.",
+            "fr": "Préparez votre équipement sur la place principale."
           }
         },
         {
@@ -754,7 +823,8 @@
             "de": "Genießen Sie den Panoramablick auf das Mont-Blanc-Massiv.",
             "hu": "Élvezze a panorámát a Mont-Blanc-masszívumra.",
             "ro": "Bucurați-vă de panorama asupra masivului Mont-Blanc.",
-            "en": "Enjoy the panoramic view of the Mont-Blanc massif."
+            "en": "Enjoy the panoramic view of the Mont-Blanc massif.",
+            "fr": "Profitez de la vue panoramique sur le massif du Mont-Blanc."
           }
         },
         {
@@ -777,7 +847,8 @@
             "de": "Machen Sie ein Picknick am Seeufer mit Blick auf die Aiguilles de Varans.",
             "hu": "Piknikezzen a tóparton, kilátással az Aiguilles de Varans-ra.",
             "ro": "Faceți un picnic pe malul lacului cu vedere la Aiguilles de Varans.",
-            "en": "Have a picnic by the lakeshore with views of the Aiguilles de Varans."
+            "en": "Have a picnic by the lakeshore with views of the Aiguilles de Varans.",
+            "fr": "Pique-niquez au bord du lac avec vue sur les Aiguilles de Varans."
           }
         },
         {
@@ -800,7 +871,8 @@
             "de": "Stellen Sie die Fahrräder unten ab und gehen Sie ein Stück zu Fuß.",
             "hu": "Hagyja lent a kerékpárokat és menjen egy kicsit gyalog.",
             "ro": "Lăsați bicicletele jos și mergeți puțin pe jos.",
-            "en": "Leave the bikes below and walk for a bit."
+            "en": "Leave the bikes below and walk for a bit.",
+            "fr": "Laissez les vélos en bas et marchez un peu."
           }
         },
         {
@@ -823,7 +895,8 @@
             "de": "Entspannen Sie Ihre Muskeln im beheizten Außenpool.",
             "hu": "Lazítsa el izmait a fűtött kültéri medencében.",
             "ro": "Relaxați-vă mușchii în piscina exterioară încălzită.",
-            "en": "Relax your muscles in the heated outdoor pool."
+            "en": "Relax your muscles in the heated outdoor pool.",
+            "fr": "Détendez vos muscles dans la piscine extérieure chauffée."
           }
         }
       ],
@@ -831,7 +904,8 @@
         "de": "Der Tag beginnt entspannt im Dorfzentrum, bevor wir den Aufstieg zum Mont d'Arbois wagen. Dort erwartet uns eine unvergleichliche Aussicht auf die Alpenriesen. Mittags radeln wir durch Bergwälder zum idyllischen Lac de Javen, einem perfekten Ort für eine Pause in der Natur. Nachmittags besuchen wir das historische Calvaire-Ensemble und beenden die Tour sportlich im modernen Sportzentrum des Ortes.",
         "hu": "A nap nyugalmasan indul a faluközpontban, mielőtt nekivágnánk a Mont d'Arbois emelkedőjének. Ott páratlan kilátás vár ránk az Alpok óriásaira. Délben hegyi erdőkön át tekerünk az idilli Javen-tóhoz, amely tökéletes hely egy természeti pihenőhöz. Délután a történelmi Kálvária-együttest látogatjuk meg, majd sportosan zárjuk a túrát a település modern sportközpontjában.",
         "ro": "Ziua începe relaxat în centrul satului, înainte de a urca spre Mont d'Arbois. Acolo ne așteaptă o priveliște inegalabilă asupra uriașilor Alpi. La prânz pedalăm prin păduri de munte spre idilicul Lac de Javen, un loc perfect pentru o pauză în natură. După-amiaza vizităm ansamblul istoric Calvaire și încheiem turul sportiv în centrul modern de sport al localității.",
-        "en": "The day begins relaxed in the village center before we tackle the climb to Mont d'Arbois. There, an incomparable view of the Alpine giants awaits us. At midday, we cycle through mountain forests to the idyllic Lac de Javen, a perfect spot for a break in nature. In the afternoon, we visit the historical Calvaire ensemble and end the tour energetically at the town's modern sports center."
+        "en": "The day begins relaxed in the village center before we tackle the climb to Mont d'Arbois. There, an incomparable view of the Alpine giants awaits us. At midday, we cycle through mountain forests to the idyllic Lac de Javen, a perfect spot for a break in nature. In the afternoon, we visit the historical Calvaire ensemble and end the tour energetically at the town's modern sports center.",
+        "fr": "La journée commence en douceur dans le centre du village avant de s'attaquer à la montée du Mont d'Arbois. Là-bas, une vue incomparable sur les géants alpins nous attend. À la mi-journée, nous pédalons à travers les forêts de montagne jusqu'à l'idyllique lac de Javen, un endroit parfait pour une pause en pleine nature. L'après-midi, nous visitons l'ensemble historique du Calvaire et terminons le circuit énergiquement au centre sportif moderne de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -872,6 +946,16 @@
           {
             "name": "Restaurant du Lac",
             "tip": "Enjoy fresh mountain trout right by Lake Javen."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Idéal 1850",
+            "tip": "Pause luxueuse au Mont d'Arbois avec terrasse panoramique."
+          },
+          {
+            "name": "Restaurant du Lac",
+            "tip": "Dégustez de la truite de montagne fraîche au bord du lac de Javen."
           }
         ]
       },
@@ -923,6 +1007,18 @@
             "tip": "Silence of the mountain peaks away from the cable car.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Lac de Javen",
+            "tip": "Observez le reflet des montagnes dans l'eau.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mont d'Arbois",
+            "tip": "Silence des sommets loin des remontées mécaniques.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -965,6 +1061,16 @@
             "name": "La Fruitière",
             "tip": "Regional cheeses directly from the producer."
           }
+        ],
+        "fr": [
+          {
+            "name": "Sport Megève",
+            "tip": "Équipement technique d'extérieur pour tous les besoins."
+          },
+          {
+            "name": "La Fruitière",
+            "tip": "Fromages régionaux directement du producteur."
+          }
         ]
       },
       "tips": {
@@ -991,6 +1097,12 @@
           "Watch out for hikers on shared paths.",
           "Always take a rain jacket, weather changes quickly.",
           "The mountain stations have good bike wash points."
+        ],
+        "fr": [
+          "Les vélos électriques sont fortement recommandés pour les montées.",
+          "Faites attention aux randonneurs sur les sentiers partagés.",
+          "Prenez toujours une veste de pluie, la météo change vite.",
+          "Les stations de montagne disposent de bons points de lavage pour vélos."
         ]
       },
       "variants": {
@@ -1239,7 +1351,8 @@
             "de": "Ein erfrischender Start im Dorfzentrum bei leichtem Nieselregen. Mittags führt die Fahrt zum Mont d'Arbois durch tiefhängende Wolken. Die Route zum Lac de Javen bietet eine raue, neblige Bergatmosphäre. Nachmittags geht es bergab zum Calvaire und schließlich ins Palais, um die nasse Kleidung gegen Wellness einzutauschen.",
             "hu": "Frissítő kezdés a faluközpontban enyhe szemerkélésben. Délben a Mont d'Arbois-hoz vezető út alacsonyan szálló felhők között visz. A Lac de Javen felé tartó útvonal nyers, ködös hegyi hangulatot áraszt. Délután gurulás a Kálváriához, végül a Palais-ba, ahol wellnessre cserélheti a vizes ruhát.",
             "ro": "Un început răcoros în centrul satului sub o burniță ușoară. La prânz, drumul spre Mont d'Arbois trece prin nori joși. Traseul spre Lac de Javen oferă o atmosferă montană brută și cețoasă. După-amiaza coborâți spre Calvaire și apoi la Palais pentru relaxare după ploaie.",
-            "en": "A refreshing start in the village center under light drizzle. At noon, the climb to Mont d'Arbois leads through low-hanging clouds. The route to Lac de Javen offers a raw, misty alpine atmosphere. In the afternoon, descend to the Calvaire and head to the Palais to dry off."
+            "en": "A refreshing start in the village center under light drizzle. At noon, the climb to Mont d'Arbois leads through low-hanging clouds. The route to Lac de Javen offers a raw, misty alpine atmosphere. In the afternoon, descend to the Calvaire and head to the Palais to dry off.",
+            "fr": "Un début rafraîchissant au centre du village sous une fine bruine. À midi, la montée vers le Mont d'Arbois se fait à travers des nuages bas. L'itinéraire vers le lac de Javen offre une atmosphère alpine sauvage et brumeuse. L'après-midi, descendez vers le Calvaire et dirigez-vous vers le Palais pour vous sécher."
           },
           "stops": [
             {
@@ -1248,7 +1361,8 @@
                 "de": "Achtung, rutschiges Pflaster.",
                 "hu": "Vigyázat, csúszós kövezet.",
                 "ro": "Atenție la pavajul umed.",
-                "en": "Watch for slippery stones."
+                "en": "Watch for slippery stones.",
+                "fr": "Attention aux pierres glissantes."
               }
             },
             {
@@ -1257,7 +1371,8 @@
                 "de": "Bremsen vorab prüfen.",
                 "hu": "Fékeket ellenőrizze előre.",
                 "ro": "Verificați frânele.",
-                "en": "Check your brakes beforehand."
+                "en": "Check your brakes beforehand.",
+                "fr": "Vérifiez vos freins au préalable."
               }
             },
             {
@@ -1266,7 +1381,8 @@
                 "de": "Schlammige Wege möglich.",
                 "hu": "Saras utakra számítson.",
                 "ro": "Posibile porțiuni noroioase.",
-                "en": "Expect muddy trail sections."
+                "en": "Expect muddy trail sections.",
+                "fr": "Attendez-vous à des sections de sentier boueuses."
               }
             },
             {
@@ -1275,7 +1391,8 @@
                 "de": "Vorsichtig abfahren.",
                 "hu": "Óvatosan ereszkedjen le.",
                 "ro": "Coborâți cu prudență.",
-                "en": "Descend with caution."
+                "en": "Descend with caution.",
+                "fr": "Descendez avec prudence."
               }
             },
             {
@@ -1284,7 +1401,8 @@
                 "de": "Sicherer Abstellplatz.",
                 "hu": "Biztonságos tárolóhely.",
                 "ro": "Loc de parcare sigur.",
-                "en": "Secure bike parking available."
+                "en": "Secure bike parking available.",
+                "fr": "Parking sécurisé pour vélos disponible."
               }
             }
           ],
@@ -1312,6 +1430,12 @@
               "Braking distance increases on wet roads.",
               "Mudguards are highly recommended.",
               "Stick to paved roads rather than forest trails."
+            ],
+            "fr": [
+              "Un équipement imperméable complet est indispensable.",
+              "La distance de freinage augmente sur route mouillée.",
+              "Les garde-boue sont fortement recommandés.",
+              "Privilégiez les routes goudronnées plutôt que les sentiers forestiers."
             ]
           }
         },
@@ -1320,7 +1444,8 @@
             "de": "Starten Sie dick eingepackt am Place de l'Église. Der Anstieg zum Mont d'Arbois fordert bei kalter Luft, belohnt aber mit Schneepanorama. Der Lac de Javen präsentiert sich als frostiges Juwel. Am späten Nachmittag erreichen Sie den Calvaire im weichen Winterlicht, bevor Sie den Tag gemütlich im Palais abschließen.",
             "hu": "Induljon vastagon felöltözve a templom térről. A Mont d'Arbois emelkedője a hidegben kihívás, de hópanorámával jutalmaz. A Lac de Javen fagyos ékszerként tündököl. Késő délután érje el a Kálváriát a lágy téli fényekben, majd zárja a napot kényelemben a Palais-ban.",
             "ro": "Porniți bine echipat din Place de l'Église. Urcarea spre Mont d'Arbois e grea pe ger, dar oferă o panoramă superbă. Lac de Javen se prezintă ca o bijuterie înghețată. După-amiaza târziu ajungeți la Calvaire în lumina iernii, apoi încheiați ziua la Palais.",
-            "en": "Start bundled up at Place de l'Église. The climb to Mont d'Arbois is challenging in the cold but rewards with snow views. Lac de Javen is a frozen jewel. In the late afternoon, reach the Calvaire in soft winter light before warming up at the Palais."
+            "en": "Start bundled up at Place de l'Église. The climb to Mont d'Arbois is challenging in the cold but rewards with snow views. Lac de Javen is a frozen jewel. In the late afternoon, reach the Calvaire in soft winter light before warming up at the Palais.",
+            "fr": "Commencez bien emmitouflé à la place de l'Église. La montée vers le Mont d'Arbois est difficile par grand froid mais offre des vues enneigées mémorables. Le lac de Javen est un joyau gelé. En fin d'après-midi, rejoignez le Calvaire sous la douce lumière hivernale avant de vous réchauffer au Palais."
           },
           "stops": [
             {
@@ -1329,7 +1454,8 @@
                 "de": "Kurze Aufwärmpause planen.",
                 "hu": "Tervezzen bemelegítő szünetet.",
                 "ro": "Planificați o pauză scurtă.",
-                "en": "Plan a short warm-up break."
+                "en": "Plan a short warm-up break.",
+                "fr": "Prévoyez une courte pause pour vous réchauffer."
               }
             },
             {
@@ -1338,7 +1464,8 @@
                 "de": "Fatbike empfohlen.",
                 "hu": "Fatbike használata javasolt.",
                 "ro": "Se recomandă Fatbike.",
-                "en": "Fatbike highly recommended."
+                "en": "Fatbike highly recommended.",
+                "fr": "Fatbike fortement recommandé."
               }
             },
             {
@@ -1347,7 +1474,8 @@
                 "de": "Zugefroren, nicht betreten.",
                 "hu": "Befagyott, ne lépjen rá.",
                 "ro": "Înghețat, nu călcați pe lac.",
-                "en": "Frozen, do not walk on ice."
+                "en": "Frozen, do not walk on ice.",
+                "fr": "Gelé, ne marchez pas sur la glace."
               }
             },
             {
@@ -1356,7 +1484,8 @@
                 "de": "Frühzeitige Abfahrt planen.",
                 "hu": "Tervezze meg a korai indulást.",
                 "ro": "Planificați plecarea devreme.",
-                "en": "Plan an early descent."
+                "en": "Plan an early descent.",
+                "fr": "Prévoyez une descente précoce."
               }
             },
             {
@@ -1365,7 +1494,8 @@
                 "de": "Sauna nach der Fahrt genießen.",
                 "hu": "Élvezze a szaunát a tekerés után.",
                 "ro": "Savurați sauna după drum.",
-                "en": "Enjoy the sauna after your ride."
+                "en": "Enjoy the sauna after your ride.",
+                "fr": "Profitez du sauna après votre sortie."
               }
             }
           ],
@@ -1393,6 +1523,12 @@
               "E-bike batteries drain faster in the cold.",
               "Watch for icy patches in shaded curves.",
               "Bike lights are essential due to early sunset."
+            ],
+            "fr": [
+              "Portez des sous-vêtements thermiques et des gants chauds.",
+              "Les batteries des vélos électriques se vident plus vite au froid.",
+              "Attention aux plaques de glace dans les virages ombragés.",
+              "L'éclairage est essentiel en raison du coucher de soleil précoce."
             ]
           }
         }
@@ -1426,7 +1562,8 @@
             "de": "Nutzen Sie das Parkhaus 'Parking de l'Hôtel de Ville'.",
             "hu": "Használja a 'Parking de l'Hôtel de Ville' parkolóházat.",
             "ro": "Folosiți parcarea subterană 'Parking de l'Hôtel de Ville'.",
-            "en": "Use the 'Parking de l'Hôtel de Ville' parking garage."
+            "en": "Use the 'Parking de l'Hôtel de Ville' parking garage.",
+            "fr": "Utilisez le parking couvert de l'Hôtel de Ville."
           }
         },
         {
@@ -1449,7 +1586,8 @@
             "de": "Kurzer Spaziergang vom Parkplatz zum Museum.",
             "hu": "Rövid séta a parkolótól a múzeumig.",
             "ro": "Scurtă plimbare de la parcare la muzeu.",
-            "en": "Short walk from the parking to the museum."
+            "en": "Short walk from the parking to the museum.",
+            "fr": "Courte marche du parking au musée."
           }
         },
         {
@@ -1472,7 +1610,8 @@
             "de": "Parken Sie direkt an der Talstation der Seilbahn.",
             "hu": "Parkoljon közvetlenül a felvonó völgyállomásánál.",
             "ro": "Parcați chiar la stația de bază a telecabinei.",
-            "en": "Park right at the base station of the cable car."
+            "en": "Park right at the base station of the cable car.",
+            "fr": "Garez-vous directement au départ du téléphérique."
           }
         },
         {
@@ -1495,7 +1634,8 @@
             "de": "Zufahrt über die Route du Tour bis zum Parkplatz Le Tour.",
             "hu": "Megközelítés a Route du Tour úton a Le Tour parkolóig.",
             "ro": "Acces prin Route du Tour până la parcarea Le Tour.",
-            "en": "Access via Route du Tour to the Le Tour parking lot."
+            "en": "Access via Route du Tour to the Le Tour parking lot.",
+            "fr": "Accès par la Route du Tour vers le parking du Tour."
           }
         },
         {
@@ -1518,7 +1658,8 @@
             "de": "Bewundern Sie die traditionelle Architektur dieses herrschaftlichen Anwesens.",
             "hu": "Csodálja meg e főúri birtok hagyományos építészetét.",
             "ro": "Admirați arhitectura tradițională a acestei proprietăți nobiliare.",
-            "en": "Admire the traditional architecture of this grand estate."
+            "en": "Admire the traditional architecture of this grand estate.",
+            "fr": "Admirez l'architecture traditionnelle de ce grand domaine."
           }
         }
       ],
@@ -1526,7 +1667,8 @@
         "de": "Wir starten komfortabel am zentralen Kirchplatz, um das dörfliche Flair aufzusaugen. Im Anschluss besuchen wir das Bauernmuseum, das einen tiefen Einblick in das harte Bergleben vergangener Zeiten bietet. Die Fahrt führt uns weiter zum Mont d'Arbois für ein alpines Gipfelerlebnis, gefolgt von einem Besuch am malerischen Lac de Javen. Den Tag beschließen wir bei dem eleganten Anwesen Ferme de la Follie, das Geschichte und Moderne verbindet.",
         "hu": "Kényelmesen kezdünk a központi templomtéren, hogy magunkba szívjuk a falusi hangulatot. Ezt követően meglátogatjuk a paraszti múzeumot, amely mély betekintést nyújt a múltbéli kemény hegyi életbe. Az út továbbvezet a Mont d'Arbois-ra egy alpesi csúcsélményért, majd a festői Javen-tó meglátogatása következik. A napot az elegáns Ferme de la Follie birtoknál zárjuk, amely ötvözi a történelmet és a modernitást.",
         "ro": "Începem confortabil în piața centrală a bisericii pentru a absorbi atmosfera satului. Ulterior vizităm muzeul fermierilor, care oferă o perspectivă profundă asupra vieții dure de munte din trecut. Drumul ne duce mai departe spre Mont d'Arbois pentru o experiență alpină la înălțime, urmată de o vizită la pitorescul Lac de Javen. Încheiem ziua la eleganta proprietate Ferme de la Follie, care îmbină istoria cu modernitatea.",
-        "en": "We start comfortably at the central church square to soak up the village flair. Next, we visit the farm museum, which offers a deep insight into the hard mountain life of times past. The drive continues to Mont d'Arbois for an Alpine summit experience, followed by a visit to the picturesque Lac de Javen. We conclude the day at the elegant Ferme de la Follie estate, which blends history and modernity."
+        "en": "We start comfortably at the central church square to soak up the village flair. Next, we visit the farm museum, which offers a deep insight into the hard mountain life of times past. The drive continues to Mont d'Arbois for an Alpine summit experience, followed by a visit to the picturesque Lac de Javen. We conclude the day at the elegant Ferme de la Follie estate, which blends history and modernity.",
+        "fr": "Nous commençons confortablement sur la place de l'église centrale pour imprégner de l'ambiance du village. Ensuite, nous visitons le musée de la ferme, qui offre un aperçu profond de la dure vie montagnarde d'autrefois. Le trajet continue vers le Mont d'Arbois pour une expérience de sommet alpin, suivie d'une visite au pittoresque lac de Javen. Nous terminons la journée à l'élégant domaine de la Ferme de la Follie, mêlant histoire et modernité."
       },
       "gastro_picks": {
         "de": [
@@ -1567,6 +1709,16 @@
           {
             "name": "Beaufort D'Alpage",
             "tip": "Buy this flavorful cheese directly from the cooperative."
+          }
+        ],
+        "fr": [
+          {
+            "name": "La Ferme de mon Père",
+            "tip": "Cuisine raffinée dans un chalet rustique."
+          },
+          {
+            "name": "Beaufort D'Alpage",
+            "tip": "Achetez ce fromage savoureux directement à la coopérative."
           }
         ]
       },
@@ -1618,6 +1770,18 @@
             "tip": "Lonely viewpoint halfway up.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Bords de l'Arly",
+            "tip": "Coin tranquille le long de la rivière en contrebas du village.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Croix Saint-Michel",
+            "tip": "Point de vue solitaire à mi-hauteur.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1660,6 +1824,16 @@
             "name": "Galerie de l'Alpage",
             "tip": "Home textiles in Alpine style."
           }
+        ],
+        "fr": [
+          {
+            "name": "Épicerie Noémie",
+            "tip": "Délicatesses et vins régionaux de Savoie."
+          },
+          {
+            "name": "Galerie de l'Alpage",
+            "tip": "Textiles de maison au style alpin."
+          }
         ]
       },
       "tips": {
@@ -1686,6 +1860,12 @@
           "Park on the outskirts and use the horse-drawn carriages.",
           "The mountain roads are narrow and winding.",
           "In high season, parking spaces fill up quickly."
+        ],
+        "fr": [
+          "De nombreuses rues du centre du village sont fermées aux voitures.",
+          "Garez-vous en périphérie et utilisez les calèches.",
+          "Les routes de montagne sont étroites et sinueuses.",
+          "En haute saison, les places de parking se remplissent vite."
         ]
       },
       "variants": {
@@ -1934,7 +2114,8 @@
             "de": "Morgens parken Sie bequem am Place de l'Église für einen kurzen Rundgang. Das Museum bietet danach den perfekten Schutz vor Regen. Die Fahrt zum Mont d'Arbois und zum Lac de Javen ermöglicht tolle Ausblicke aus dem trockenen Auto. Den Tag krönt ein Besuch auf der Ferme de la Follie mit rustikalem Flair.",
             "hu": "Reggel parkoljon kényelmesen a központban egy rövid körútért. A múzeum ezután tökéletes védelmet nyújt az eső ellen. A Mont d'Arbois és a Lac de Javen felé tartó út pazar kilátást kínál a száraz autóból. A napot a Ferme de la Follie látogatása koronázza meg rusztikus hangulattal.",
             "ro": "Dimineața parcați comod lângă Place de l'Église. Muzeul oferă apoi protecția perfectă împotriva ploii. Drumul spre Mont d'Arbois și Lac de Javen oferă priveliști superbe din mașina uscată. Ziua se încheie la Ferme de la Follie cu o atmosferă rustică.",
-            "en": "Morning starts with easy parking near Place de l'Église. The museum then provides perfect rain protection. Driving to Mont d'Arbois and Lac de Javen allows for great views from your dry vehicle. Crown the day with a visit to Ferme de la Follie for rustic vibes."
+            "en": "Morning starts with easy parking near Place de l'Église. The museum then provides perfect rain protection. Driving to Mont d'Arbois and Lac de Javen allows for great views from your dry vehicle. Crown the day with a visit to Ferme de la Follie for rustic vibes.",
+            "fr": "La matinée commence par un stationnement facile près de la place de l'Église. Le musée offre ensuite une protection parfaite contre la pluie. Conduire vers le Mont d'Arbois et le lac de Javen permet d'admirer les vues bien au sec. Couronnez la journée par une visite à la Ferme de la Follie pour son ambiance rustique."
           },
           "stops": [
             {
@@ -1943,7 +2124,8 @@
                 "de": "Parkhaus 'Village' nutzen.",
                 "hu": "Használja a 'Village' parkolót.",
                 "ro": "Folosiți parcarea 'Village'.",
-                "en": "Use the 'Village' parking garage."
+                "en": "Use the 'Village' parking garage.",
+                "fr": "Utilisez le parking couvert 'Village'."
               }
             },
             {
@@ -1952,7 +2134,8 @@
                 "de": "Eingang nah am Parkplatz.",
                 "hu": "Bejárat a parkoló közelében.",
                 "ro": "Intrare aproape de parcare.",
-                "en": "Entrance close to parking."
+                "en": "Entrance close to parking.",
+                "fr": "Entrée à proximité du parking."
               }
             },
             {
@@ -1961,7 +2144,8 @@
                 "de": "Vorsicht bei Aquaplaning.",
                 "hu": "Vigyázat, vízátfolyások lehetnek.",
                 "ro": "Atenție la acvaplanare.",
-                "en": "Beware of aquaplaning risk."
+                "en": "Beware of aquaplaning risk.",
+                "fr": "Attention au risque d'aquaplanage."
               }
             },
             {
@@ -1970,7 +2154,8 @@
                 "de": "Kurzer Sprint vom Auto.",
                 "hu": "Rövid futás az autótól.",
                 "ro": "Scurt sprint de la mașină.",
-                "en": "Quick dash from the car."
+                "en": "Quick dash from the car.",
+                "fr": "Trajet rapide depuis la voiture."
               }
             },
             {
@@ -1979,7 +2164,8 @@
                 "de": "Direkte Zufahrt möglich.",
                 "hu": "Közvetlen behajtás lehetséges.",
                 "ro": "Acces auto direct disponibil.",
-                "en": "Direct car access available."
+                "en": "Direct car access available.",
+                "fr": "Accès direct en voiture disponible."
               }
             }
           ],
@@ -2007,6 +2193,12 @@
               "Check wipers before the mountain drive.",
               "Mountain roads can be slick during rain.",
               "Enjoy the scenic views from your vehicle."
+            ],
+            "fr": [
+              "Privilégiez les parkings couverts dans le centre.",
+              "Vérifiez vos essuie-glaces avant de monter en altitude.",
+              "Les routes de montagne peuvent être glissantes sous la pluie.",
+              "Profitez des paysages depuis votre véhicule."
             ]
           }
         },
@@ -2015,7 +2207,8 @@
             "de": "Ein winterlicher Roadtrip beginnt am Place de l'Église. Nach dem Museumsbesuch geht es hinauf zum Mont d'Arbois, wo der Schnee die Gipfel ziert. Die Fahrt zum Lac de Javen führt durch eine Märchenlandschaft. Der Abend auf der Ferme de la Follie bietet alpine Gemütlichkeit pur bei lokalem Käse und Kaminfeuer.",
             "hu": "Téli autós kirándulás indul a templom térről. A múzeumlátogatás után irány a Mont d'Arbois, ahol hó borítja a csúcsokat. A Lac de Javen felé vezető út mesebeli tájakon visz keresztül. Az este a Ferme de la Follie-ban alpesi meghittséget kínál helyi sajtokkal és kandallóval.",
             "ro": "O excursie de iarnă începe la Place de l'Église. După muzeu, urcați spre Mont d'Arbois, unde zăpada acoperă culmile. Drumul spre Lac de Javen trece prin peisaje de basm. Seara la Ferme de la Follie oferă confort alpin cu brânzeturi și șemineu.",
-            "en": "A winter road trip starts at Place de l'Église. After the museum, head up to Mont d'Arbois where snow blankets the peaks. The drive to Lac de Javen leads through a fairytale landscape. Evening at Ferme de la Follie offers alpine coziness with local cheese and a fire."
+            "en": "A winter road trip starts at Place de l'Église. After the museum, head up to Mont d'Arbois where snow blankets the peaks. The drive to Lac de Javen leads through a fairytale landscape. Evening at Ferme de la Follie offers alpine coziness with local cheese and a fire.",
+            "fr": "Un road trip hivernal commence à la place de l'Église. Après le musée, direction le Mont d'Arbois où la neige recouvre les sommets. Le trajet vers le lac de Javen traverse un paysage de conte de fées. La soirée à la Ferme de la Follie offre le confort alpin avec fromage local et feu de cheminée."
           },
           "stops": [
             {
@@ -2024,7 +2217,8 @@
                 "de": "Winterreifen zwingend.",
                 "hu": "Téli gumi kötelező.",
                 "ro": "Anvelope de iarnă obligatorii.",
-                "en": "Winter tires are mandatory."
+                "en": "Winter tires are mandatory.",
+                "fr": "Les pneus hiver sont obligatoires."
               }
             },
             {
@@ -2033,7 +2227,8 @@
                 "de": "Warmer Stopp zwischendurch.",
                 "hu": "Melegítő megálló útközben.",
                 "ro": "Oprire călduroasă pe traseu.",
-                "en": "Warm stop during the trip."
+                "en": "Warm stop during the trip.",
+                "fr": "Arrêt chaleureux durant le trajet."
               }
             },
             {
@@ -2042,7 +2237,8 @@
                 "de": "Schneeketten im Kofferraum.",
                 "hu": "Legyen hólánc a csomagtartóban.",
                 "ro": "Lanțuri în portbagaj.",
-                "en": "Keep snow chains in the trunk."
+                "en": "Keep snow chains in the trunk.",
+                "fr": "Gardez des chaînes à neige dans le coffre."
               }
             },
             {
@@ -2051,7 +2247,8 @@
                 "de": "Parkplatz kann vereist sein.",
                 "hu": "A parkoló jeges lehet.",
                 "ro": "Parcarea poate fi înghețată.",
-                "en": "Parking lot might be icy."
+                "en": "Parking lot might be icy.",
+                "fr": "Le parking peut être verglacé."
               }
             },
             {
@@ -2060,7 +2257,8 @@
                 "de": "Romantische Beleuchtung.",
                 "hu": "Romantikus kivilágítás.",
                 "ro": "Iluminat romantic.",
-                "en": "Romantic evening lighting."
+                "en": "Romantic evening lighting.",
+                "fr": "Éclairage de soirée romantique."
               }
             }
           ],
@@ -2088,6 +2286,12 @@
               "Snow removal is very efficient in Megève.",
               "Allow extra time for mountain roads.",
               "Do not park under roofs heavily laden with snow."
+            ],
+            "fr": [
+              "Vérifiez le niveau d'antigel de votre voiture.",
+              "Le déneigement est très efficace à Megève.",
+              "Prévoyez un temps de trajet supplémentaire en montagne.",
+              "Ne vous garez pas sous des toits lourdement chargés de neige."
             ]
           }
         }
@@ -2121,7 +2325,8 @@
             "de": "Zentraler Treffpunkt für alle Buslinien.",
             "hu": "Központi találkozóhely az összes buszjárat számára.",
             "ro": "Punct central de întâlnire pentru toate liniile de autobuz.",
-            "en": "Central meeting point for all bus lines."
+            "en": "Central meeting point for all bus lines.",
+            "fr": "Point de rencontre central pour toutes les lignes de bus."
           }
         },
         {
@@ -2144,7 +2349,8 @@
             "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
             "hu": "Csak néhány lépésre a buszmegállótól.",
             "ro": "La doar câțiva pași de stația de autobuz.",
-            "en": "Just a few steps from the bus stop."
+            "en": "Just a few steps from the bus stop.",
+            "fr": "À quelques pas de l'arrêt de bus."
           }
         },
         {
@@ -2167,7 +2373,8 @@
             "de": "Haltestelle 'Palais' direkt vor dem Eingang.",
             "hu": "'Palais' megálló közvetlenül a bejárat előtt.",
             "ro": "Stația 'Palais' chiar în fața intrării.",
-            "en": "Stop 'Palais' right in front of the entrance."
+            "en": "Stop 'Palais' right in front of the entrance.",
+            "fr": "Arrêt 'Palais' juste devant l'entrée."
           }
         },
         {
@@ -2190,7 +2397,8 @@
             "de": "Nutzen Sie den Shuttle zum Mont d'Arbois (Linie Mont d'Arbois).",
             "hu": "Használja a Mont d'Arbois transzfert (Mont d'Arbois vonal).",
             "ro": "Folosiți naveta către Mont d'Arbois (linia Mont d'Arbois).",
-            "en": "Use the shuttle to Mont d'Arbois (Mont d'Arbois line)."
+            "en": "Use the shuttle to Mont d'Arbois (Mont d'Arbois line).",
+            "fr": "Utilisez la navette vers le Mont d'Arbois (ligne Mont d'Arbois)."
           }
         },
         {
@@ -2213,7 +2421,8 @@
             "de": "Kurzer Aufstieg von der Haltestelle im Dorf.",
             "hu": "Rövid emelkedő a faluban lévő megállótól.",
             "ro": "Urcuș scurt de la stația din sat.",
-            "en": "Short climb from the bus stop in the village."
+            "en": "Short climb from the bus stop in the village.",
+            "fr": "Courte montée depuis l'arrêt de bus dans le village."
           }
         }
       ],
@@ -2221,7 +2430,8 @@
         "de": "Mit dem kostenlosen Ortsbus-System erreichen wir bequem die wichtigsten Punkte des Ortes. Wir beginnen im Zentrum und besuchen die historische Kirche, bevor wir zum Palais-Komplex fahren, um die moderne Infrastruktur zu erleben. Ein Shuttle bringt uns hinauf zum Mont d'Arbois, wo die Aussicht auf den Mont Blanc wartet. Zum Abschluss wandern wir ein Stück am Calvaire-Weg, bevor uns der Bus zurück ins Zentrum bringt.",
         "hu": "Az ingyenes helyi buszrendszerrel kényelmesen elérjük a település legfontosabb pontjait. A központban kezdünk a történelmi templommal, majd a Palais komplexumhoz utazunk, hogy megtapasztaljuk a modern infrastruktúrát. Egy transzferbusz visz fel minket a Mont d'Arbois-ra, ahol a Mont Blanc-ra nyíló kilátás vár ránk. Végezetül teszünk egy rövid sétát a Kálvária-úton, mielőtt a busz visszavisz a központba.",
         "ro": "Cu sistemul de autobuze locale gratuite ajungem confortabil la cele mai importante puncte ale localității. Începem în centru cu biserica istorică, apoi mergem la complexul Palais pentru a experimenta infrastructura modernă. O navetă ne duce sus la Mont d'Arbois, unde ne așteaptă vederea spre Mont Blanc. În final, facem o scurtă plimbare pe drumul Calvaire înainte ca autobuzul să ne aducă înapoi în centru.",
-        "en": "With the free local bus system, we comfortably reach the most important points of the resort. We begin in the center and visit the historical church before heading to the Palais complex to experience the modern infrastructure. A shuttle takes us up to Mont d'Arbois, where views of Mont Blanc await. Finally, we walk a bit of the Calvaire path before the bus takes us back to the center."
+        "en": "With the free local bus system, we comfortably reach the most important points of the resort. We begin in the center and visit the historical church before heading to the Palais complex to experience the modern infrastructure. A shuttle takes us up to Mont d'Arbois, where views of Mont Blanc await. Finally, we walk a bit of the Calvaire path before the bus takes us back to the center.",
+        "fr": "Grâce au système de bus locaux gratuits, nous rejoignons confortablement les points les plus importants de la station. Nous commençons au centre et visitons l'église historique avant de nous diriger vers le complexe du Palais pour découvrir les infrastructures modernes. Une navette nous emmène au Mont d'Arbois, où nous attendent des vues sur le Mont-Blanc. Enfin, nous marchons un peu sur le chemin du Calvaire avant que le bus ne nous ramène au centre."
       },
       "gastro_picks": {
         "de": [
@@ -2262,6 +2472,16 @@
           {
             "name": "La Maison de Savoie",
             "tip": "Specialties from the region in a cozy atmosphere."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Hibou Blanc",
+            "tip": "Brasserie populaire avec vue sur l'animation de la place."
+          },
+          {
+            "name": "La Maison de Savoie",
+            "tip": "Spécialités de la région dans une atmosphère chaleureuse."
           }
         ]
       },
@@ -2313,6 +2533,18 @@
             "tip": "When day visitors are gone, silence returns.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Terrasse du Mont d'Arbois",
+            "tip": "Profitez d'un moment de calme avec vue sur la montagne.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Place de l'Église en soirée",
+            "tip": "Une fois les visiteurs partis, le silence revient.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2355,6 +2587,16 @@
             "name": "Scarabaeus",
             "tip": "Handmade jewelry and crafts."
           }
+        ],
+        "fr": [
+          {
+            "name": "Aux Délices de Megève",
+            "tip": "Pâtisserie locale pour des souvenirs sucrés."
+          },
+          {
+            "name": "Scarabaeus",
+            "tip": "Bijoux faits main et artisanat."
+          }
         ]
       },
       "tips": {
@@ -2381,6 +2623,12 @@
           "Download the timetable app for real-time information.",
           "Shuttle frequencies are higher in winter and summer.",
           "Keep an eye on the last return trip from Mont d'Arbois."
+        ],
+        "fr": [
+          "Les 'Meg-bus' sont gratuits à l'intérieur du village.",
+          "Téléchargez l'application des horaires pour les informations en temps réel.",
+          "La fréquence des navettes est plus élevée en hiver et en été.",
+          "Surveillez l'heure du dernier retour depuis le Mont d'Arbois."
         ]
       },
       "variants": {
@@ -2629,7 +2877,8 @@
             "de": "Nutzen Sie die kostenlosen Pendelbusse vom Place de l'Église zur Kirche. Der Bus bringt Sie trocken zum Palais de Megève für einen Vormittag voller Indoor-Aktivitäten. Mittags geht es mit der Gondel zum Mont d'Arbois, um über den Wolken zu speisen. Den Abschluss bildet der Calvaire, bevor der Bus Sie zurück ins Zentrum bringt.",
             "hu": "Használja az ingyenes buszokat a templom tértől. A busz szárazon viszi a Palais de Megève-hez egy délelőtti fedett programra. Délben a felvonóval menjen fel a Mont d'Arbois-ra a felhők feletti ebédhez. Zárásként látogasson el a Kálváriához, mielőtt a busz visszaviszi a központba.",
             "ro": "Folosiți autobuzele gratuite din Place de l'Église. Autobuzul vă duce la uscat la Palais de Megève pentru o dimineață de interior. La prânz, urcați cu telecabina la Mont d'Arbois pentru masa deasupra norilor. Încheiați la Calvaire, apoi luați busul spre centru.",
-            "en": "Use the free shuttle buses from Place de l'Église. The bus keeps you dry on your way to Palais de Megève for an indoor morning. At noon, take the gondola to Mont d'Arbois to dine above the clouds. Finish at the Calvaire before catching the shuttle back to the center."
+            "en": "Use the free shuttle buses from Place de l'Église. The bus keeps you dry on your way to Palais de Megève for an indoor morning. At noon, take the gondola to Mont d'Arbois to dine above the clouds. Finish at the Calvaire before catching the shuttle back to the center.",
+            "fr": "Utilisez les navettes gratuites depuis la place de l'Église. Le bus vous garde au sec pour rejoindre le Palais de Megève pour une matinée à l'intérieur. À midi, prenez la télécabine vers le Mont d'Arbois pour déjeuner au-dessus des nuages. Terminez au Calvaire avant de reprendre la navette vers le centre."
           },
           "stops": [
             {
@@ -2638,7 +2887,8 @@
                 "de": "Fahrplan in der App prüfen.",
                 "hu": "Ellenőrizze a menetrendet appon.",
                 "ro": "Verificați orarul în aplicație.",
-                "en": "Check the schedule in the app."
+                "en": "Check the schedule in the app.",
+                "fr": "Vérifiez les horaires dans l'application."
               }
             },
             {
@@ -2647,7 +2897,8 @@
                 "de": "Bushaltestelle direkt davor.",
                 "hu": "Buszmegálló közvetlenül előtte.",
                 "ro": "Stație chiar în față.",
-                "en": "Bus stop right in front."
+                "en": "Bus stop right in front.",
+                "fr": "Arrêt de bus juste devant."
               }
             },
             {
@@ -2656,7 +2907,8 @@
                 "de": "Ideal bei Dauerregen.",
                 "hu": "Ideális tartós esőben.",
                 "ro": "Ideal în caz de ploaie.",
-                "en": "Ideal during persistent rain."
+                "en": "Ideal during persistent rain.",
+                "fr": "Idéal en cas de pluie persistante."
               }
             },
             {
@@ -2665,7 +2917,8 @@
                 "de": "Gondel ist windgeschützt.",
                 "hu": "A kabin szélvédett.",
                 "ro": "Telecabina este protejată.",
-                "en": "Gondola is wind-protected."
+                "en": "Gondola is wind-protected.",
+                "fr": "La télécabine est protégée du vent."
               }
             },
             {
@@ -2674,7 +2927,8 @@
                 "de": "Kurzer Weg von der Station.",
                 "hu": "Rövid séta az állomástól.",
                 "ro": "Drum scurt de la stație.",
-                "en": "Short walk from the station."
+                "en": "Short walk from the station.",
+                "fr": "Courte marche depuis la station."
               }
             }
           ],
@@ -2702,6 +2956,12 @@
               "Wait inside the covered bus shelters.",
               "Gondolas operate even during light rain.",
               "Keep the 'Megève' app handy for updates."
+            ],
+            "fr": [
+              "Les lignes 'Meg'Bus' sont gratuites.",
+              "Attendez à l'intérieur des abribus couverts.",
+              "Les télécabines fonctionnent même sous une pluie légère.",
+              "Gardez l'application 'Megève' à portée de main pour les mises à jour."
             ]
           }
         },
@@ -2710,7 +2970,8 @@
             "de": "Der Skibus bringt Sie warm vom Zentrum zur Kirche und weiter zum Palais de Megève. Mittags schweben Sie mit der Gondel über verschneite Tannen zum Mont d'Arbois. Nachmittags ist der Calvaire ein Wintermärchen, bevor Sie den Shuttle zurück nutzen. Der Tag endet perfekt mit einem Saunabesuch, den Sie bequem per Transit erreichen.",
             "hu": "A síbusz melegen viszi a központból a templomhoz, majd a Palais-hoz. Délben a felvonóval lebegjen a havas fenyők felett a Mont d'Arbois-ra. Délután a Kálvária igazi téli mese, mielőtt visszabuszozna. A nap szaunával zárul, melyet kényelmesen elérhet a tömegközlekedéssel.",
             "ro": "Ski-busul vă duce la căldură din centru spre biserică și Palais. La prânz, urcați cu telecabina peste brazii înzăpeziți spre Mont d'Arbois. După-amiaza, Calvaire e un basm de iarnă. Ziua se încheie perfect la saună, accesibilă ușor cu transportul public.",
-            "en": "The ski bus keeps you warm from the center to the church and Palais. At noon, glide over snowy pines in the gondola to Mont d'Arbois. In the afternoon, the Calvaire is a winter wonderland. End your day at the sauna, easily reached by the local shuttle."
+            "en": "The ski bus keeps you warm from the center to the church and Palais. At noon, glide over snowy pines in the gondola to Mont d'Arbois. In the afternoon, the Calvaire is a winter wonderland. End your day at the sauna, easily reached by the local shuttle.",
+            "fr": "Le ski-bus vous garde au chaud du centre vers l'église et le Palais. À midi, glissez au-dessus des sapins enneigés en télécabine vers le Mont d'Arbois. L'après-midi, le Calvaire est un paradis hivernal. Terminez votre journée au sauna, facilement accessible avec la navette locale."
           },
           "stops": [
             {
@@ -2719,7 +2980,8 @@
                 "de": "Busse sind oft sehr voll.",
                 "hu": "A buszok gyakran zsúfoltak.",
                 "ro": "Autobuzele sunt adesea pline.",
-                "en": "Buses can be quite crowded."
+                "en": "Buses can be quite crowded.",
+                "fr": "Les bus peuvent être assez bondés."
               }
             },
             {
@@ -2728,7 +2990,8 @@
                 "de": "Nahegelegener Aufwärmort.",
                 "hu": "Közeli melegedőhely.",
                 "ro": "Loc de încălzire apropiat.",
-                "en": "Nearby place to warm up."
+                "en": "Nearby place to warm up.",
+                "fr": "Lieu à proximité pour se réchauffer."
               }
             },
             {
@@ -2737,7 +3000,8 @@
                 "de": "Zentraler Umstiegspunkt.",
                 "hu": "Központi átszállási pont.",
                 "ro": "Punct central de transfer.",
-                "en": "Central transfer point."
+                "en": "Central transfer point.",
+                "fr": "Point de correspondance central."
               }
             },
             {
@@ -2746,7 +3010,8 @@
                 "de": "Genießen Sie die Aussicht.",
                 "hu": "Élvezze a kilátást.",
                 "ro": "Bucurați-vă de priveliște.",
-                "en": "Enjoy the snowy views."
+                "en": "Enjoy the snowy views.",
+                "fr": "Profitez des paysages enneigés."
               }
             },
             {
@@ -2755,7 +3020,8 @@
                 "de": "Gutes Schuhwerk für Haltestelle.",
                 "hu": "Jó cipő a megállóhoz.",
                 "ro": "Încălțăminte bună pentru stație.",
-                "en": "Good shoes needed for the stop."
+                "en": "Good shoes needed for the stop.",
+                "fr": "Bonnes chaussures nécessaires pour cet arrêt."
               }
             }
           ],
@@ -2783,6 +3049,12 @@
               "Check the time for the last return trip.",
               "Heating in the buses is quite powerful.",
               "The Navette shuttles are free for pedestrians."
+            ],
+            "fr": [
+              "Les ski-bus circulent toutes les 15 minutes.",
+              "Vérifiez l'heure du dernier voyage de retour.",
+              "Le chauffage dans les bus est assez puissant.",
+              "Les navettes sont gratuites pour les piétons."
             ]
           }
         }

@@ -31,7 +31,8 @@
             "de": "Achten Sie auf das venezianische Wappen über dem Bogendurchgang.",
             "hu": "Figyelje meg a velencei címert a boltíves bejárat felett.",
             "ro": "Observați stema venețiană deasupra arcadei de intrare.",
-            "en": "Look for the Venetian coat of arms above the arched entrance."
+            "en": "Look for the Venetian coat of arms above the arched entrance.",
+            "hr": "Potražite mletački grb iznad lučnog ulaza."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Die Nordmauer bietet den besten Schatten und Blick auf das Meer.",
             "hu": "Az északi fal kínálja a legjobb árnyékot és kilátást a tengerre.",
             "ro": "Zidul de nord oferă cea mai bună umbră și vedere la mare.",
-            "en": "The northern wall offers the best shade and sea views."
+            "en": "The northern wall offers the best shade and sea views.",
+            "hr": "Sjeverni zid nudi najbolji hlad i pogled na more."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Steigen Sie auf den Glockenturm für ein 360-Grad-Panorama.",
             "hu": "Másszon fel a harangtoronyba a 360 fokos panorámáért.",
             "ro": "Urcați în clopotniță pentru o panoramă de 360 de grade.",
-            "en": "Climb the bell tower for a 360-degree panorama."
+            "en": "Climb the bell tower for a 360-degree panorama.",
+            "hr": "Popnite se na zvonik za panoramu od 360 stupnjeva."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Bewundern Sie die venezianischen Gemälde und alten Messgewänder.",
             "hu": "Csodálja meg a velencei festményeket és a régi miseruhákat.",
             "ro": "Admirați picturile venețiene și vechile haine bisericești.",
-            "en": "Admire the Venetian paintings and ancient liturgical vestments."
+            "en": "Admire the Venetian paintings and ancient liturgical vestments.",
+            "hr": "Divite se mletačkim slikama i drevnom liturgijskom ruhu."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Der kleine Turm des Hauses ist ein perfekter Fotospot.",
             "hu": "A ház kis tornya tökéletes helyszín a fotózáshoz.",
             "ro": "Micul turn al casei este un loc perfect pentru fotografii.",
-            "en": "The house's small tower is a perfect photo spot."
+            "en": "The house's small tower is a perfect photo spot.",
+            "hr": "Mala kula kuće savršeno je mjesto za fotografiju."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Hier finden Sie oft lokale Künstler, die ihre Werke ausstellen.",
             "hu": "Itt gyakran találkozhat helyi művészekkel, akik kiállítják műveiket.",
             "ro": "Aici veți găsi adesea artiști locali care își expun lucrările.",
-            "en": "You'll often find local artists exhibiting their work here."
+            "en": "You'll often find local artists exhibiting their work here.",
+            "hr": "Ovdje ćete često naći lokalne umjetnike kako izlažu svoje radove."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Besuchen Sie das kleine Ikonenmuseum direkt neben der Kirche.",
             "hu": "Látogassa meg a templom melletti kis ikonmúzeumot.",
             "ro": "Vizitați micul muzeu de icoane chiar lângă biserică.",
-            "en": "Visit the small icon museum right next to the church."
+            "en": "Visit the small icon museum right next to the church.",
+            "hr": "Posjetite mali muzej ikona odmah pored crkve."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Morgens betreten Sie die Stadt durch das Revelin-Tor. Vormittags erkunden Sie die Kathedrale und die Schatzkammer. Mittags genießen Sie hausgemachte Makaruni in einer schattigen Gasse. Nachmittags spazieren Sie auf den Mauern und besuchen Marco Polos Haus. Abends lassen Sie den Tag am Seetor mit Blick auf den Pelješac-Kanal ausklingen.",
         "hu": "Reggel a Revelin-tornyon át lépjen be a középkori díszletek közé. Délelőtt a székesegyházat és a kincstárat fedezze fel. Ebédre egyen žrnovski makarunit egy hangulatos kis vendéglőben. Délután járja be a városfalakat és nézze meg Marco Polo házát. Este a Tengeri kapunál fejezze be a sétát, csodálva a tengeri panorámát.",
         "ro": "Dimineața intrați în oraș prin Poarta Revelin. Vizitați Catedrala și Tezaurul Episcopal înainte de prânz. La amiază, încercați pastele tradiționale makaruni într-o tavernă locală. După-amiaza, plimbați-vă pe zidurile cetății și vizitați casa lui Marco Polo. Seara se încheie la Poarta Mării, privind apusul peste canalul Pelješac.",
-        "en": "Morning starts by entering through the Revelin Gate. Visit the Cathedral and the Treasury before noon. For lunch, savor handmade pasta in a narrow stone alley. In the afternoon, walk the ancient walls and visit Marco Polo's house. End your day at the Sea Gate, watching the boats cross the Pelješac channel."
+        "en": "Morning starts by entering through the Revelin Gate. Visit the Cathedral and the Treasury before noon. For lunch, savor handmade pasta in a narrow stone alley. In the afternoon, walk the ancient walls and visit Marco Polo's house. End your day at the Sea Gate, watching the boats cross the Pelješac channel.",
+        "hr": "Jutro započinje ulaskom kroz Vrata od Revelina. Posjetite katedralu i riznicu prije podneva. Za ručak kušajte ručno rađenu tjesteninu u uskoj kamenoj uličici. Poslijepodne prošećite drevnim zidinama i posjetite kuću Marka Pola. Dan završite kod Morskih vrata, promatrajući brodove kako sijeku Pelješki kanal."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Lojanica",
             "tip": "A classic dessert made with almonds and citrus fruits."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Adio Mare",
+            "tip": "Probajte žrnovske makarune, tradicionalnu ručno rađenu tjesteninu."
+          },
+          {
+            "name": "Lojanica",
+            "tip": "Klasični desert od badema i agruma."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "A peaceful spot away from the crowds.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Šetalište Zakerjan",
+            "tip": "Mirna šetnja uz istočne gradske zidine.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Crkva sv. Nikole",
+            "tip": "Mirno mjesto podalje od gužve.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -264,6 +294,12 @@
           {
             "name": "Grk Wine Cellar",
             "tip": "Buy the unique white wine produced in nearby Lumbarda."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Vinska vinarija Grk",
+            "tip": "Kupite jedinstveno bijelo vino proizvedeno u obližnjoj Lumbardi."
           }
         ]
       },
@@ -291,6 +327,12 @@
           "The old town is small, it's almost impossible to get lost.",
           "Early morning is the best time for photos at the cathedral.",
           "Notice the fishbone layout of the streets, designed to block winds."
+        ],
+        "hr": [
+          "Nosite udobnu obuću zbog kamenih ulica.",
+          "Stari grad je mali, gotovo se nemoguće izgubiti.",
+          "Rano jutro je najbolje vrijeme za fotografiranje katedrale.",
+          "Primijetite raspored ulica u obliku riblje kosti, dizajniran da blokira vjetrove."
         ]
       },
       "variants": {
@@ -516,7 +558,8 @@
             "de": "Beginnen Sie Ihren Tag am Revelin-Tor, wo die Steine im Regen glänzen. Der Vormittag gehört den Museen und der Kathedrale, die perfekten Schutz vor den Güssen bieten. Mittags erkunden Sie Marco Polos Erbe in den engen Gassen, die bei Regen besonders atmosphärisch wirken. Den Nachmittag verbringen Sie in der Schatzkammer und beenden den Tag bei einem Glas Wein in einer gemütlichen Bar.",
             "hu": "Kezdje a napot a Revelin-kapunál, ahol az esőben megcsillannak a kövek. A délelőtt a múzeumoké és a székesegyházé, amelyek tökéletes menedéket nyújtanak. Délben fedezze fel Marco Polo örökségét a szűk utcákon, amelyek esőben különösen hangulatosak. A délutánt töltse a kincstárban, majd zárja a napot egy pohár borral egy barátságos bárban a várfalak tövében.",
             "ro": "Începeți ziua la Poarta Revelin, unde pietrele strălucesc în ploaie. Dimineața este dedicată muzeelor și catedralei, care oferă adăpost perfect. La prânz, explorați moștenirea lui Marco Polo pe străzile înguste, care sunt deosebit de atmosferice pe ploaie. Petreceți după-amiaza în trezorerie și încheiați ziua cu un pahar de vin într-un bar primitor lângă zidurile cetății.",
-            "en": "Start your day at the Revelin Gate, where the stones glisten in the rain. Spend the morning in the museums and the cathedral, providing perfect shelter from the downpours. At midday, explore Marco Polo's heritage in the narrow streets, which feel especially atmospheric in the rain. Spend the afternoon in the treasury and end the day with a glass of wine in a cozy bar by the walls."
+            "en": "Start your day at the Revelin Gate, where the stones glisten in the rain. Spend the morning in the museums and the cathedral, providing perfect shelter from the downpours. At midday, explore Marco Polo's heritage in the narrow streets, which feel especially atmospheric in the rain. Spend the afternoon in the treasury and end the day with a glass of wine in a cozy bar by the walls.",
+            "hr": "Započnite dan kod Vrata od Revelina, gdje kamen blista na kiši. Provedite jutro u muzejima i katedrali, koji pružaju savršen zaklon od pljuskova. U podne istražite baštinu Marka Pola u uskim ulicama koje su pod kišom posebno atmosferične. Poslijepodne provedite u riznici i završite dan uz čašu vina u ugodnom baru uz zidine."
           },
           "stops": [
             {
@@ -525,7 +568,8 @@
                 "de": "Suchen Sie unter dem Torbogen Schutz, während Sie den Aufstieg planen.",
                 "hu": "Keressen menedéket a boltív alatt, amíg megtervezi a belépést.",
                 "ro": "Căutați adăpost sub arcada porții în timp ce vă planificați intrarea.",
-                "en": "Seek shelter under the archway while planning your entry."
+                "en": "Seek shelter under the archway while planning your entry.",
+                "hr": "Potražite zaklon pod svodom dok planirate ulazak."
               }
             },
             {
@@ -534,7 +578,8 @@
                 "de": "Vorsicht, die Kalksteinstufen können bei Nässe sehr rutschig sein.",
                 "hu": "Vigyázat, a mészkő lépcsők nedvesen nagyon csúszósak lehetnek.",
                 "ro": "Atenție, treptele de calcar pot fi foarte alunecoase când sunt ude.",
-                "en": "Caution, the limestone steps can be very slippery when wet."
+                "en": "Caution, the limestone steps can be very slippery when wet.",
+                "hr": "Oprez, vapnenačke stepenice mogu biti vrlo klizave kad su mokre."
               }
             },
             {
@@ -543,7 +588,8 @@
                 "de": "Ein idealer Ort, um einen schweren Regenschauer trocken abzuwarten.",
                 "hu": "Ideális hely egy komolyabb zápor szárazon történő átvészeléséhez.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice.",
-                "en": "An ideal place to wait out a heavy rain shower in the dry."
+                "en": "An ideal place to wait out a heavy rain shower in the dry.",
+                "hr": "Idealno mjesto za čekanje da prođe jak pljusak na suhom."
               }
             },
             {
@@ -552,7 +598,8 @@
                 "de": "Nutzen Sie die Regenzeit für eine ausführliche Besichtigung der Exponate.",
                 "hu": "Használja ki az esős időt a kiállítási tárgyak alapos megtekintésére.",
                 "ro": "Profitați de timpul ploios pentru o vizitare detaliată a exponatelor.",
-                "en": "Take advantage of the rainy weather for a detailed tour of the exhibits."
+                "en": "Take advantage of the rainy weather for a detailed tour of the exhibits.",
+                "hr": "Iskoristite kišno vrijeme za detaljan obilazak izložaka."
               }
             },
             {
@@ -561,7 +608,8 @@
                 "de": "Der Turm bietet trotz Regen einen dramatischen Blick auf das Meer.",
                 "hu": "A torony az eső ellenére is drámai kilátást nyújt a tengerre.",
                 "ro": "Turnul oferă o vedere dramatică asupra mării, în ciuda ploii.",
-                "en": "The tower offers a dramatic view of the sea despite the rain."
+                "en": "The tower offers a dramatic view of the sea despite the rain.",
+                "hr": "Kula nudi dramatičan pogled na more unatoč kiši."
               }
             },
             {
@@ -570,7 +618,8 @@
                 "de": "Hier kann es bei Wind und Regen recht ungemütlich werden; kurz halten.",
                 "hu": "Itt szélben és esőben kellemetlen lehet; tartson rövid pihenőt.",
                 "ro": "Aici poate fi neplăcut pe vânt și ploaie; faceți o oprire scurtă.",
-                "en": "It can be unpleasant here in wind and rain; keep your visit brief."
+                "en": "It can be unpleasant here in wind and rain; keep your visit brief.",
+                "hr": "Ovdje može biti neugodno po vjetru i kiši; neka vaš posjet bude kratak."
               }
             },
             {
@@ -579,7 +628,8 @@
                 "de": "Die kleine Kirche bietet eine ruhige, trockene Atmosphäre zum Abschluss.",
                 "hu": "A kis templom csendes, száraz környezetet biztosít a nap végére.",
                 "ro": "Mica biserică oferă o atmosferă liniștită și uscată pentru finalul zilei.",
-                "en": "The small church provides a quiet, dry atmosphere for the end of the day."
+                "en": "The small church provides a quiet, dry atmosphere for the end of the day.",
+                "hr": "Mala crkva pruža mirnu i suhu atmosferu za kraj dana."
               }
             }
           ],
@@ -607,6 +657,12 @@
               "Korčula's streets are narrow, umbrellas can obstruct others; rain jackets are better.",
               "Most museums are close to each other, avoiding long walks in the open air.",
               "Use the cafes in the loggias for dry breaks with a view."
+            ],
+            "hr": [
+              "Nosite obuću koja dobro prianja jer pločnik postaje izuzetno klizav.",
+              "Ulice Korčule su uske, kišobrani mogu smetati drugima; kabanice su bolji izbor.",
+              "Većina muzeja je blizu jedan drugome, čime se izbjegavaju duge šetnje na otvorenom.",
+              "Koristite kafiće u lođama za suhe stanke s pogledom."
             ]
           }
         },
@@ -615,7 +671,8 @@
             "de": "Erleben Sie das authentische Korčula ohne die Sommermassen. Der Morgen ist frisch und klar, ideal für einen Spaziergang auf den Stadtmauern. Mittags wärmen Sie sich in den geschichtsträchtigen Kirchen und Museen auf. Da die Sonne bereits gegen 16:30 Uhr sinkt, nutzen Sie das goldene Licht am Nachmittag für Fotos am Seetor, bevor Sie den Abend in einer lokalen Konoba verbringen.",
             "hu": "Tapasztalja meg a hiteles Korčulát a nyári tömeg nélkül. A reggel friss és tiszta, ideális a városfalakon tett sétához. Délben melegedjen fel a történelmi templomokban és múzeumokban. Mivel a nap már 16:30 körül lemegy, használja ki a délutáni aranyfényeket a tengeri kapunál, mielőtt az estét egy helyi konobában töltené.",
             "ro": "Experimentați Korčula autentică fără mulțimile de vară. Dimineața este proaspătă și senină, ideală pentru o plimbare pe zidurile cetății. La prânz, încălziți-vă în bisericile și muzeele pline de istorie. Deoarece soarele apune deja în jur de 16:30, profitați de lumina aurie de după-amiază la Poarta Mării înainte de a petrece seara într-o konoba locală.",
-            "en": "Experience authentic Korčula without the summer crowds. The morning is fresh and clear, ideal for a walk on the city walls. At midday, warm up in the historic churches and museums. Since the sun sets around 16:30, use the golden afternoon light for photos at the Sea Gate before spending the evening in a local konoba."
+            "en": "Experience authentic Korčula without the summer crowds. The morning is fresh and clear, ideal for a walk on the city walls. At midday, warm up in the historic churches and museums. Since the sun sets around 16:30, use the golden afternoon light for photos at the Sea Gate before spending the evening in a local konoba.",
+            "hr": "Doživite autentičnu Korčulu bez ljetnih gužvi. Jutro je svježe i vedro, idealno za šetnju gradskim zidinama. U podne se ugrijte u povijesnim crkvama i muzejima. Budući da sunce zalazi oko 16:30, iskoristite zlatno poslijepodnevno svjetlo za fotografije kod Morskih vrata prije večeri u lokalnoj konobi."
           },
           "stops": [
             {
@@ -624,7 +681,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten für den Aufstieg auf den Turm.",
                 "hu": "Ellenőrizze a téli nyitvatartást a toronyba való feljutáshoz.",
                 "ro": "Verificați programul de iarnă pentru urcarea în turn.",
-                "en": "Check winter opening hours for climbing the tower."
+                "en": "Check winter opening hours for climbing the tower.",
+                "hr": "Provjerite zimsko radno vrijeme za uspon na kulu."
               }
             },
             {
@@ -633,7 +691,8 @@
                 "de": "Die Fernsicht auf das Pelješac-Gebirge ist im Winter oft klarer.",
                 "hu": "A kilátás a Pelješac-hegységre télen gyakran sokkal tisztább.",
                 "ro": "Vizibilitatea spre munții Pelješac este adesea mai clară iarna.",
-                "en": "The views of the Pelješac mountains are often clearer in winter."
+                "en": "The views of the Pelješac mountains are often clearer in winter.",
+                "hr": "Pogled na pelješke planine često je bistriji zimi."
               }
             },
             {
@@ -642,7 +701,8 @@
                 "de": "Ziehen Sie sich warm an, in der Kathedrale kann es sehr kühl sein.",
                 "hu": "Öltözzön rétegesen, a székesegyház belseje ilyenkor hűvös lehet.",
                 "ro": "Îmbrăcați-vă bine, interiorul catedralei poate fi foarte răcoros acum.",
-                "en": "Dress warmly, the interior of the cathedral can be quite chilly now."
+                "en": "Dress warmly, the interior of the cathedral can be quite chilly now.",
+                "hr": "Obucite se toplo, unutrašnjost katedrale sada može biti prilično hladna."
               }
             },
             {
@@ -651,7 +711,8 @@
                 "de": "Ein beheizter Raum, ideal um die Kälte für eine Stunde zu vergessen.",
                 "hu": "Fűtött helyiség, ideális a hideg elfelejtésére egy órára.",
                 "ro": "O încăpere încălzită, ideală pentru a uita de frig timp de o oră.",
-                "en": "A heated space, ideal for forgetting the cold for an hour."
+                "en": "A heated space, ideal for forgetting the cold for an hour.",
+                "hr": "Grijani prostor, idealan za zaboraviti na hladnoću na sat vremena."
               }
             },
             {
@@ -660,7 +721,8 @@
                 "de": "Vermeiden Sie die späten Nachmittagsstunden wegen des frühen Schattenwurfs.",
                 "hu": "Kerülje a késő délutáni órákat a korai árnyékok miatt.",
                 "ro": "Evitați orele târzii ale după-amiezii din cauza umbrelor timpurii.",
-                "en": "Avoid late afternoon hours due to early shadows."
+                "en": "Avoid late afternoon hours due to early shadows.",
+                "hr": "Izbjegavajte kasne poslijepodnevne sate zbog ranih sjena."
               }
             },
             {
@@ -669,7 +731,8 @@
                 "de": "Der Bura-Wind kann hier sehr schneidend sein; Schal nicht vergessen.",
                 "hu": "A bóra szél itt metsző lehet; ne felejtse el a sálat.",
                 "ro": "Vântul Bura poate fi tăios aici; nu uitați fularul.",
-                "en": "The Bura wind can be very biting here; don't forget your scarf."
+                "en": "The Bura wind can be very biting here; don't forget your scarf.",
+                "hr": "Bura ovdje može biti vrlo oštra; ne zaboravite šal."
               }
             },
             {
@@ -678,7 +741,8 @@
                 "de": "Die Ikonensammlung ist im sanften Winterlicht besonders sehenswert.",
                 "hu": "Az ikongyűjtemény a lágy téli fényben különösen látványos.",
                 "ro": "Colecția de icoane este remarcabilă în lumina blândă a iernii.",
-                "en": "The icon collection is particularly worth seeing in the soft winter light."
+                "en": "The icon collection is particularly worth seeing in the soft winter light.",
+                "hr": "Zbirku ikona posebno vrijedi vidjeti na blagom zimskom svjetlu."
               }
             }
           ],
@@ -706,6 +770,12 @@
               "Many restaurants are closed in winter; look for spots favored by locals.",
               "The Bura (north wind) can significantly lower the perceived temperature.",
               "Enjoy the peace; you will have the sights almost entirely to yourself."
+            ],
+            "hr": [
+              "Sunce rano zalazi (oko 16:30), planirajte aktivnosti na otvorenom unaprijed.",
+              "Mnogi restorani su zatvoreni zimi; potražite mjesta koja vole lokalci.",
+              "Bura može značajno sniziti osjet temperature.",
+              "Uživajte u miru; znamenitosti ćete imati gotovo samo za sebe."
             ]
           }
         }
@@ -734,7 +804,8 @@
             "de": "Parken Sie Ihr Fahrrad vor dem Tor, die Altstadt ist fußläufig.",
             "hu": "Parkolja le a biciklit a kapu előtt, az óváros gyalogos zóna.",
             "ro": "Parcați bicicleta în fața porții, orașul vechi este pietonal.",
-            "en": "Park your bike outside the gate, the old town is pedestrian only."
+            "en": "Park your bike outside the gate, the old town is pedestrian only.",
+            "hr": "Parkirajte bicikl ispred vrata, stari grad je samo za pješake."
           }
         },
         {
@@ -752,7 +823,8 @@
             "de": "Bewundern Sie die Fassade, bevor Sie eintreten.",
             "hu": "Csodálja meg a homlokzatot, mielőtt belépne.",
             "ro": "Admirați fațada înainte de a intra.",
-            "en": "Admire the facade before entering."
+            "en": "Admire the facade before entering.",
+            "hr": "Divite se fasadi prije ulaska."
           }
         },
         {
@@ -770,7 +842,8 @@
             "de": "Ein Muss für Geschichtsinteressierte.",
             "hu": "Történelemkedvelőknek kötelező látnivaló.",
             "ro": "O vizită obligatorie pentru pasionații de istorie.",
-            "en": "A must-see for history enthusiasts."
+            "en": "A must-see for history enthusiasts.",
+            "hr": "Obavezno mjesto za ljubitelje povijesti."
           }
         },
         {
@@ -788,7 +861,8 @@
             "de": "Genießen Sie die Meeresbrise.",
             "hu": "Élvezze a tengeri szellőt.",
             "ro": "Bucurați-vă de briza mării.",
-            "en": "Enjoy the sea breeze."
+            "en": "Enjoy the sea breeze.",
+            "hr": "Uživajte u morskom povjetarcu."
           }
         },
         {
@@ -806,7 +880,8 @@
             "de": "Fahren Sie die Zypressenallee hinauf zur kleinen Kapelle.",
             "hu": "Tekerjen fel a ciprusfasoron a kis kápolnához.",
             "ro": "Pedalați pe aleea cu chiparoși până la mica capelă.",
-            "en": "Cycle up the cypress alley to the small chapel."
+            "en": "Cycle up the cypress alley to the small chapel.",
+            "hr": "Odpedalirajte uz drvored čempresa do male kapelice."
           }
         },
         {
@@ -824,7 +899,8 @@
             "de": "Beenden Sie die Tour mit einem Blick über die Stadt.",
             "hu": "Zárja a túrát a város feletti kilátással.",
             "ro": "Încheiați turul cu o vedere asupra orașului.",
-            "en": "End the tour with a view over the city."
+            "en": "End the tour with a view over the city.",
+            "hr": "Završite turu pogledom na grad."
           }
         }
       ],
@@ -832,7 +908,8 @@
         "de": "Nutzen Sie das Fahrrad, um die Umgebung der Altstadt zu erkunden. Starten Sie im Zentrum, besuchen Sie die Kathedrale und das Marco Polo Haus. Mittags radeln Sie zum Sankt-Anton-Hügel für die beste Aussicht. Nachmittags kehren Sie für einen Spaziergang auf den Mauern zurück. Abends genießen Sie ein kühles Getränk am Hafen.",
         "hu": "Használja a kerékpárt az óváros környékének felfedezéséhez. Kezdjen a központban, nézze meg a székesegyházat és a Marco Polo házat. Ebédidőben tekerjen el a Szent Antal-dombhoz a legjobb kilátásért. Délután térjen vissza a városfalakhoz egy sétára. Este fogyasszon el egy hűsítőt a kikötőben.",
         "ro": "Folosiți bicicleta pentru a explora împrejurimile orașului vechi. Începeți în centru, vizitați Catedrala și casa lui Marco Polo. La prânz, pedalați spre Dealul Sfântul Anton pentru cea mai bună vedere. După-amiaza, reveniți pentru o plimbare pe ziduri. Seara, savurați o băutură rece în port.",
-        "en": "Use a bike to explore the outskirts of the old town. Start in the center with the Cathedral and Marco Polo's house. At midday, cycle to St. Anthony's Hill for the best panorama. Return in the afternoon to walk the city walls. Spend your evening enjoying a cold drink at the harbor."
+        "en": "Use a bike to explore the outskirts of the old town. Start in the center with the Cathedral and Marco Polo's house. At midday, cycle to St. Anthony's Hill for the best panorama. Return in the afternoon to walk the city walls. Spend your evening enjoying a cold drink at the harbor.",
+        "hr": "Biciklom istražite okolicu staroga grada. Započnite u centru s katedralom i kućom Marka Pola. U podne odpedalirajte do brda sv. Antuna za najbolju panoramu. Vratite se poslijepodne u šetnju gradskim zidinama. Večer provedite uz hladno piće u luci."
       },
       "gastro_picks": {
         "de": [
@@ -857,6 +934,12 @@
           {
             "name": "Konoba Belin",
             "tip": "Located in Žrnovo, an ideal stop during your bike ride."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Belin",
+            "tip": "Smještena u Žrnovu, idealna postaja tijekom vaše vožnje biciklom."
           }
         ]
       },
@@ -888,6 +971,13 @@
             "tip": "Quiet viewpoint at the top of the stairs.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Kapelica sv. Antuna",
+            "tip": "Mirno vidikovac na vrhu stepenica.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -913,6 +1003,12 @@
           {
             "name": "Local Olive Oil Sellers",
             "tip": "Look for signs along the country roads for authentic oil."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni prodavači maslinovog ulja",
+            "tip": "Tražite natpise uz seoske ceste za autentično ulje."
           }
         ]
       },
@@ -940,6 +1036,12 @@
           "The coastal road to Lumbarda is flat and scenic.",
           "Bring plenty of water as there is little shade outside town.",
           "Lock your bike securely before entering the pedestrian-only old town."
+        ],
+        "hr": [
+          "Unajmite bicikl blizu trajektnog terminala.",
+          "Obalna cesta prema Lumbardi je ravna i slikovita.",
+          "Ponesite dovoljno vode jer izvan grada ima malo hlada.",
+          "Zaključajte bicikl prije ulaska u pješačku zonu staroga grada."
         ]
       },
       "variants": {
@@ -1120,7 +1222,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf den glatten Steinen Korčulas. Starten Sie am Revelin-Tor und bleiben Sie für die wichtigsten Sehenswürdigkeiten im Stadtzentrum. Mittags bietet sich ein Abstecher zum Sankt-Anton-Hügel an, doch achten Sie auf die rutschigen Wege. Den Nachmittag verbringen Sie am besten in den Museen der Altstadt, bevor Sie Ihr Rad sicher abstellen.",
             "hu": "Az esőben való biciklizés óvatosságot igényel Korčula csúszós kövein. Kezdjen a Revelin-kapunál, és maradjon a központban a főbb látnivalóknál. Délben tehet egy kitérőt a Szent Antal-dombhoz, de ügyeljen a csúszós utakra. A délutánt legjobb az óváros múzeumaiban tölteni, mielőtt biztonságba helyezné a kerékpárt.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pietrele alunecoase din Korčula. Începeți la Poarta Revelin și rămâneți în centru pentru principalele atracții. La prânz, puteți face o excursie la Dealul Sf. Anton, dar atenție la drumurile alunecoase. Cel mai bine este să petreceți după-amiaza în muzeele din orașul vechi înainte de a parca bicicleta.",
-            "en": "Cycling in the rain requires caution on Korčula's slippery stones. Start at the Revelin Gate and stay in the center for the main sights. At midday, you can take a detour to St. Anthony's Hill, but watch out for slippery paths. It's best to spend the afternoon in the Old Town museums before parking your bike safely."
+            "en": "Cycling in the rain requires caution on Korčula's slippery stones. Start at the Revelin Gate and stay in the center for the main sights. At midday, you can take a detour to St. Anthony's Hill, but watch out for slippery paths. It's best to spend the afternoon in the Old Town museums before parking your bike safely.",
+            "hr": "Vožnja biciklom po kiši zahtijeva oprez na klizavom korčulanskom kamenju. Započnite kod Vrata od Revelina i ostanite u centru zbog glavnih znamenitosti. U podne možete napraviti izlet do brda sv. Antuna, ali pripazite na klizave staze. Poslijepodne je najbolje provesti u muzejima staroga grada nakon što sigurno parkirate bicikl."
           },
           "stops": [
             {
@@ -1129,7 +1232,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie die abschüssigen Straßen befahren.",
                 "hu": "Ellenőrizze a fékeket, mielőtt a lejtős utcákra hajtana.",
                 "ro": "Verificați frânele înainte de a merge pe străzile în pantă.",
-                "en": "Check your brakes before riding on the sloping streets."
+                "en": "Check your brakes before riding on the sloping streets.",
+                "hr": "Provjerite kočnice prije vožnje po nagnutim ulicama."
               }
             },
             {
@@ -1138,7 +1242,8 @@
                 "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab, um den Sattel trocken zu halten.",
                 "hu": "Helyezze a biciklit védett helyre, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta într-un loc protejat pentru a păstra șaua uscată.",
-                "en": "Park your bike in a sheltered spot to keep the saddle dry."
+                "en": "Park your bike in a sheltered spot to keep the saddle dry.",
+                "hr": "Parkirajte bicikl na zaštićenom mjestu kako bi sjedalo ostalo suho."
               }
             },
             {
@@ -1147,7 +1252,8 @@
                 "de": "Nutzen Sie die Zeit drinnen für eine Pause vom nassen Fahrtwind.",
                 "hu": "Használja ki a bent töltött időt a nedves menetszél utáni pihenésre.",
                 "ro": "Profitați de timpul petrecut în interior pentru o pauză de la vântul umed.",
-                "en": "Use your time inside for a break from the wet wind."
+                "en": "Use your time inside for a break from the wet wind.",
+                "hr": "Iskoristite vrijeme unutra za odmor od mokrog vjetra."
               }
             },
             {
@@ -1156,7 +1262,8 @@
                 "de": "Achten Sie auf Pfützen und Gischt, die vom Meer heraufwehen können.",
                 "hu": "Ügyeljen a tócsákra és a tenger felől érkező permetre.",
                 "ro": "Atenție la bălți și la vaporii de apă care pot veni dinspre mare.",
-                "en": "Watch out for puddles and spray that can blow up from the sea."
+                "en": "Watch out for puddles and spray that can blow up from the sea.",
+                "hr": "Pripazite na lokve i morsku pjenu koju vjetar može nanijeti s mora."
               }
             },
             {
@@ -1165,7 +1272,8 @@
                 "de": "Der Aufstieg ist bei Regen anstrengender und die Stufen sind rutschig.",
                 "hu": "Az emelkedő esőben fárasztóbb, a lépcsők pedig nagyon csúsznak.",
                 "ro": "Urcarea este mai obositoare pe ploaie, iar treptele sunt alunecoase.",
-                "en": "The climb is more strenuous in the rain and the steps are slippery."
+                "en": "The climb is more strenuous in the rain and the steps are slippery.",
+                "hr": "Uspon je naporniji po kiši, a stepenice su klizave."
               }
             },
             {
@@ -1174,7 +1282,8 @@
                 "de": "Schieben Sie das Rad in den engen, nassen Gassen der Altstadt lieber.",
                 "hu": "Az óváros szűk, nedves utcáin inkább tolja a kerékpárt.",
                 "ro": "Mai degrabă împingeți bicicleta pe străzile înguste și ude din centru.",
-                "en": "Better to push your bike in the narrow, wet streets of the old town."
+                "en": "Better to push your bike in the narrow, wet streets of the old town.",
+                "hr": "Bolje je gurati bicikl u uskim, mokrim ulicama staroga grada."
               }
             }
           ],
@@ -1202,6 +1311,12 @@
               "A poncho protects better against the wind than an umbrella.",
               "Minimally reduce tire pressure for better grip on wet ground.",
               "Plan more time for your routes as you will need to cycle more slowly."
+            ],
+            "hr": [
+              "Izbjegavajte kočenje izravno na bijelom vapnencu; postaje gladak poput ogledala.",
+              "Pončo štiti od vjetra bolje nego kišobran.",
+              "Minimalno smanjite tlak u gumama za bolje prianjanje na mokroj podlozi.",
+              "Planirajte više vremena za svoje rute jer ćete morati voziti sporije."
             ]
           }
         },
@@ -1210,7 +1325,8 @@
             "de": "Eine Wintertour mit dem Rad bietet klare Luft und leere Straßen. Starten Sie am Revelin-Tor und genießen Sie die kühle Brise. Der Weg zum Sankt-Anton-Hügel ist im Winter weniger schweißtreibend. Mittags wärmen Sie sich bei den kulturellen Stopps in der Altstadt auf. Nutzen Sie das Tageslicht voll aus, da es am späten Nachmittag schnell abkühlt, sobald die Sonne hinter den Bergen verschwindet.",
             "hu": "A téli kerékpártúra tiszta levegőt és üres utakat kínál. Kezdjen a Revelin-kapunál, és élvezze a hűvös szellőt. A Szent Antal-dombhoz vezető út télen kevésbé izzasztó. Délben melegedjen fel az óvárosi kulturális megállóknál. Használja ki teljesen a nappali fényt, mert késő délután gyorsan lehűl az idő, amint a nap eltűnik a hegyek mögött.",
             "ro": "O tură de iarnă cu bicicleta oferă aer curat și străzi pustii. Începeți la Poarta Revelin și bucurați-vă de briza răcoroasă. Drumul spre Dealul Sf. Anton este mai puțin obositor iarna. La prânz, încălziți-vă la opririle culturale din oraș. Profitați din plin de lumina zilei, deoarece se răcește rapid după-amiaza, odată ce soarele dispare după munți.",
-            "en": "A winter bike tour offers clear air and empty roads. Start at the Revelin Gate and enjoy the cool breeze. The path to St. Anthony's Hill is less sweaty in winter. At midday, warm up at the cultural stops in the Old Town. Make full use of the daylight, as it cools down quickly in the late afternoon once the sun disappears behind the mountains."
+            "en": "A winter bike tour offers clear air and empty roads. Start at the Revelin Gate and enjoy the cool breeze. The path to St. Anthony's Hill is less sweaty in winter. At midday, warm up at the cultural stops in the Old Town. Make full use of the daylight, as it cools down quickly in the late afternoon once the sun disappears behind the mountains.",
+            "hr": "Zimska tura biciklom nudi čist zrak i prazne ceste. Započnite kod Vrata od Revelina i uživajte u svježem povjetarcu. Put do brda sv. Antuna manje je naporan zimi. U podne se ugrijte na kulturnim postajama u Starom gradu. Maksimalno iskoristite dnevno svjetlo, jer se kasno poslijepodne brzo ohladi čim sunce nestane iza planina."
           },
           "stops": [
             {
@@ -1219,7 +1335,8 @@
                 "de": "Tragen Sie Handschuhe, da der Fahrtwind im Winter sehr kalt sein kann.",
                 "hu": "Viseljen kesztyűt, mert a menetszél télen nagyon hideg lehet.",
                 "ro": "Purtați mănuși, deoarece vântul poate fi foarte rece iarna.",
-                "en": "Wear gloves, as the wind can be very cold in winter."
+                "en": "Wear gloves, as the wind can be very cold in winter.",
+                "hr": "Nosite rukavice, jer vjetar zimi može biti vrlo hladan."
               }
             },
             {
@@ -1228,7 +1345,8 @@
                 "de": "Ein guter Ort für eine Pause vom kalten Wind draußen.",
                 "hu": "Jó hely egy kis pihenőre a kinti hideg szél után.",
                 "ro": "Un loc bun pentru o pauză de la vântul rece de afară.",
-                "en": "A good place for a break from the cold wind outside."
+                "en": "A good place for a break from the cold wind outside.",
+                "hr": "Dobro mjesto za predah od hladnog vjetra vani."
               }
             },
             {
@@ -1237,7 +1355,8 @@
                 "de": "Innen ist es geschützt, ideal um die Durchblutung der Finger anzuregen.",
                 "hu": "Bent védett a hely, ideális az elgémberedett ujjak átmozgatására.",
                 "ro": "În interior este protejat, ideal pentru a vă încălzi degetele.",
-                "en": "It's sheltered inside, ideal for getting the circulation back in your fingers."
+                "en": "It's sheltered inside, ideal for getting the circulation back in your fingers.",
+                "hr": "Unutra je zaklonjeno, idealno za vraćanje cirkulacije u prste."
               }
             },
             {
@@ -1246,7 +1365,8 @@
                 "de": "Parken Sie windgeschützt, damit das Rad nicht umgeweht wird.",
                 "hu": "Parkoljon szélvédett helyen, nehogy a szél feldöntse a biciklit.",
                 "ro": "Parcați într-un loc ferit de vânt ca să nu fie răsturnată bicicleta.",
-                "en": "Park in a wind-sheltered spot so the bike doesn't get blown over."
+                "en": "Park in a wind-sheltered spot so the bike doesn't get blown over.",
+                "hr": "Parkirajte na mjestu zaštićenom od vjetra kako vjetar ne bi srušio bicikl."
               }
             },
             {
@@ -1255,7 +1375,8 @@
                 "de": "Die Zypressenallee bietet im Winter einen guten Windschutz beim Aufstieg.",
                 "hu": "A ciprusfasor télen jó szélfogót biztosít a felfelé vezető úton.",
                 "ro": "Aleea cu chiparoși oferă un bun adăpost împotriva vântului la urcare.",
-                "en": "The cypress avenue provides good wind protection during the climb in winter."
+                "en": "The cypress avenue provides good wind protection during the climb in winter.",
+                "hr": "Avenija čempresa pruža dobru zaštitu od vjetra tijekom uspona zimi."
               }
             },
             {
@@ -1264,7 +1385,8 @@
                 "de": "Am Nachmittag fangen die Mauern die letzte Wärme der Wintersonne ein.",
                 "hu": "Délután a falak még magukba szívják a téli nap utolsó melegét.",
                 "ro": "După-amiaza, zidurile captează ultima căldură a soarelui de iarnă.",
-                "en": "In the afternoon, the walls catch the last warmth of the winter sun."
+                "en": "In the afternoon, the walls catch the last warmth of the winter sun.",
+                "hr": "Poslijepodne zidine hvataju posljednju toplinu zimskog sunca."
               }
             }
           ],
@@ -1292,6 +1414,12 @@
               "Watch out for shaded areas; it can be significantly cooler there.",
               "Days are short; make sure your bicycle lights are working.",
               "Combine the tour with a visit to one of the wine bars open year-round."
+            ],
+            "hr": [
+              "Slojevita odjeća: toplo je dok idete uzbrdo, ali vrlo hladno nizbrdo.",
+              "Pripazite na osjenčana područja; tamo može biti znatno hladnije.",
+              "Dani su kratki; provjerite rade li vam svjetla na biciklu.",
+              "Kombinirajte turu s posjetom jednom od vinskih barova koji rade cijele godine."
             ]
           }
         }
@@ -1320,7 +1448,8 @@
             "de": "Parken Sie auf dem großen Parkplatz am Osthafen.",
             "hu": "Parkoljon a keleti kikötőnél lévő nagy parkolóban.",
             "ro": "Parcați în marea parcare de lângă portul de est.",
-            "en": "Park at the large lot by the eastern harbor."
+            "en": "Park at the large lot by the eastern harbor.",
+            "hr": "Parkirajte na velikom parkiralištu kod istočne luke."
           }
         },
         {
@@ -1338,7 +1467,8 @@
             "de": "Ein Juwel der dalmatinischen Gotik-Renaissance.",
             "hu": "A dalmát gótikus-reneszánsz egyik gyöngyszeme.",
             "ro": "O bijuterie a goticului-renașterii dalmate.",
-            "en": "A gem of Dalmatian Gothic-Renaissance architecture."
+            "en": "A gem of Dalmatian Gothic-Renaissance architecture.",
+            "hr": "Dragulj dalmatinske gotičko-renesansne arhitekture."
           }
         },
         {
@@ -1356,7 +1486,8 @@
             "de": "Erfahren Sie mehr über die Reisen des berühmten Entdeckers.",
             "hu": "Ismerje meg a híres felfedező utazásait.",
             "ro": "Aflați mai multe despre călătoriile celebrului explorator.",
-            "en": "Learn about the travels of the famous explorer."
+            "en": "Learn about the travels of the famous explorer.",
+            "hr": "Saznajte više o putovanjima slavnog istraživača."
           }
         },
         {
@@ -1374,7 +1505,8 @@
             "de": "Die 101 Stufen lohnen sich für den Blick auf die Inseln.",
             "hu": "A 101 lépcsőfok megéri a szigetekre nyíló kilátásért.",
             "ro": "Cele 101 trepte merită pentru vederea asupra insulelor.",
-            "en": "The 101 steps are worth it for the island views."
+            "en": "The 101 steps are worth it for the island views.",
+            "hr": "101 stepenica vrijedi truda zbog pogleda na otok."
           }
         },
         {
@@ -1392,7 +1524,8 @@
             "de": "Einer der wenigen Sandstrände in Kroatien.",
             "hu": "Horvátország kevés homokos strandjának egyike.",
             "ro": "Una dintre puținele plaje cu nisip din Croația.",
-            "en": "One of the few sandy beaches in Croatia."
+            "en": "One of the few sandy beaches in Croatia.",
+            "hr": "Jedna od rijetkih pješčanih plaža u Hrvatskoj."
           }
         },
         {
@@ -1410,7 +1543,8 @@
             "de": "Perfekter Abschluss des Tages vor der Rückreise.",
             "hu": "A nap tökéletes lezárása a hazautazás előtt.",
             "ro": "Încheierea perfectă a zilei înainte de plecare.",
-            "en": "Perfect conclusion to the day before heading back."
+            "en": "Perfect conclusion to the day before heading back.",
+            "hr": "Savršen završetak dana prije povratka."
           }
         }
       ],
@@ -1418,7 +1552,8 @@
         "de": "Mit dem Auto kombinieren Sie Kultur und Entspannung. Starten Sie in der Altstadt, besuchen Sie die Kathedrale und Marco Polos Haus. Mittags fahren Sie zum Sankt-Anton-Hügel und weiter zu den Sandstränden von Lumbarda. Genießen Sie die Sonne an der Vela Przina Bucht. Nachmittags kehren Sie für einen Spaziergang auf den Mauern zurück.",
         "hu": "Autóval kombinálhatja a kultúrát és a pihenést. Kezdjen az óvárosban a székesegyházzal és Marco Polo házával. Ebédidőben hajtson el a Szent Antal-dombhoz, majd tovább Lumbarda homokos strandjaihoz. Élvezze a napsütést a Vela Przina öbölben. Délután térjen vissza a városfalakhoz egy utolsó sétára.",
         "ro": "Cu mașina combinați cultura și relaxarea. Începeți în orașul vechi cu Catedrala și casa lui Marco Polo. La prânz, conduceți spre Dealul Sfântul Anton și apoi spre plajele cu nisip din Lumbarda. Bucurați-vă de soare în golful Vela Przina. După-amiaza, reveniți pentru o plimbare pe ziduri.",
-        "en": "By car, you can blend culture and relaxation. Start in the old town with the Cathedral and Marco Polo's house. At midday, drive to St. Anthony's Hill and continue to the sandy beaches of Lumbarda. Soak up the sun at Vela Przina bay. Return in the afternoon for a final stroll along the city walls."
+        "en": "By car, you can blend culture and relaxation. Start in the old town with the Cathedral and Marco Polo's house. At midday, drive to St. Anthony's Hill and continue to the sandy beaches of Lumbarda. Soak up the sun at Vela Przina bay. Return in the afternoon for a final stroll along the city walls.",
+        "hr": "Automobilom možete spojiti kulturu i opuštanje. Započnite u starom gradu s katedralom i kućom Marka Pola. U podne se odvezite do brda sv. Antuna i nastavite do pješčanih plaža Lumbarde. Upijajte sunce u uvali Vela Pržina. Vratite se poslijepodne na završnu šetnju gradskim zidinama."
       },
       "gastro_picks": {
         "de": [
@@ -1443,6 +1578,12 @@
           {
             "name": "Konoba More",
             "tip": "Right on the beach in Lumbarda, fresh seafood guaranteed."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba More",
+            "tip": "Izravno na plaži u Lumbardi, svježi plodovi mora zajamčeni."
           }
         ]
       },
@@ -1474,6 +1615,13 @@
             "tip": "A quieter stretch of beach in Lumbarda.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Bilin Žal",
+            "tip": "Mirniji dio plaže u Lumbardi.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1499,6 +1647,12 @@
           {
             "name": "Popic Winery",
             "tip": "Sample the famous Grk wine directly at the source in Lumbarda."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Vinarija Popić",
+            "tip": "Kušajte poznato vino Grk izravno na izvoru u Lumbardi."
           }
         ]
       },
@@ -1526,6 +1680,12 @@
           "The drive to Lumbarda takes only about 10-15 minutes.",
           "The old town itself is entirely pedestrianized.",
           "Explore the wine routes in the island's interior for hidden gems."
+        ],
+        "hr": [
+          "Parking tijekom sezone je skup i brzo se popuni.",
+          "Vožnja do Lumbarde traje samo 10-15 minuta.",
+          "Sam stari grad je u potpunosti pješačka zona.",
+          "Istražite vinske ceste u unutrašnjosti otoka za skrivene dragulje."
         ]
       },
       "variants": {
@@ -1706,7 +1866,8 @@
             "de": "Mit dem Auto sind Sie bestens für einen regnerischen Tag in Korčula gerüstet. Starten Sie im Zentrum und besuchen Sie die Museen. Mittags fahren Sie nach Lumbarda; statt Strandbesuch bietet sich eine Weinprobe bei einem lokalen Winzer an. Der Nachmittag am Sankt-Anton-Hügel lässt sich bei einer Regenpause kurz halten, bevor Sie bequem im trockenen Auto zurückkehren.",
             "hu": "Autóval kiválóan felkészülhet egy esős napra Korčulán. Kezdjen a központban a múzeumok meglátogatásával. Délben hajtson el Lumbardába; a strandolás helyett válasszon borkóstolót egy helyi borásznál. A Szent Antal-dombnál tett délutáni látogatást rövidre foghatja egy esőszünetben, mielőtt kényelmesen visszatérne a száraz autóba.",
             "ro": "Cu mașina sunteți bine echipați pentru o zi ploioasă în Korčula. Începeți în centru cu vizitarea muzeelor. La prânz, mergeți spre Lumbarda; în loc de plajă, alegeți o degustare de vinuri la un producător local. Vizita de după-amiază la Dealul Sf. Anton poate fi scurtă, în timpul unei pauze de ploaie, înainte de a reveni confortabil în mașină.",
-            "en": "By car, you are well-equipped for a rainy day in Korčula. Start in the center by visiting the museums. At midday, drive to Lumbarda; instead of visiting the beach, opt for a wine tasting at a local winery. Keep your afternoon visit to St. Anthony's Hill brief during a break in the rain before returning comfortably in your dry car."
+            "en": "By car, you are well-equipped for a rainy day in Korčula. Start in the center by visiting the museums. At midday, drive to Lumbarda; instead of visiting the beach, opt for a wine tasting at a local winery. Keep your afternoon visit to St. Anthony's Hill brief during a break in the rain before returning comfortably in your dry car.",
+            "hr": "Automobilom ste dobro opremljeni za kišni dan u Korčuli. Započnite u centru posjetom muzejima. U podne se odvezite do Lumbarde; umjesto plaže, odaberite kušanje vina u lokalnoj vinariji. Posjet brdu sv. Antuna neka bude kratak tijekom stanke od kiše prije udobnog povratka u suhom automobilu."
           },
           "stops": [
             {
@@ -1715,7 +1876,8 @@
                 "de": "Nutzen Sie das Parkhaus nahe der Altstadt, um kurze Wege im Regen zu haben.",
                 "hu": "Használja az óvároshoz közeli parkolót, hogy keveset kelljen gyalogolni az esőben.",
                 "ro": "Folosiți parcarea de lângă orașul vechi pentru a merge cât mai puțin prin ploaie.",
-                "en": "Use the parking garage near the Old Town to keep walking distances in the rain short."
+                "en": "Use the parking garage near the Old Town to keep walking distances in the rain short.",
+                "hr": "Koristite garažu blizu Starog grada kako bi pješačenje po kiši bilo što kraće."
               }
             },
             {
@@ -1724,7 +1886,8 @@
                 "de": "Lassen Sie nasse Schirme im Auto, um die Kathedrale trocken zu halten.",
                 "hu": "Hagyja a vizes ernyőt az autóban, hogy a székesegyház száraz maradjon.",
                 "ro": "Lăsați umbrelele ude în mașină pentru a păstra catedrala uscată.",
-                "en": "Leave wet umbrellas in the car to keep the cathedral dry."
+                "en": "Leave wet umbrellas in the car to keep the cathedral dry.",
+                "hr": "Ostavite mokre kišobrane u autu kako bi katedrala ostala suha."
               }
             },
             {
@@ -1733,7 +1896,8 @@
                 "de": "Ideal erreichbar, wenn Sie in der Nähe der Stadtmauern parken.",
                 "hu": "Könnyen elérhető, ha a városfalak közelében parkol.",
                 "ro": "Ușor de accesat dacă parcați în apropierea zidurilor cetății.",
-                "en": "Easily accessible if you park near the city walls."
+                "en": "Easily accessible if you park near the city walls.",
+                "hr": "Lako dostupno ako parkirate blizu gradskih zidina."
               }
             },
             {
@@ -1742,7 +1906,8 @@
                 "de": "Parken Sie direkt am Fuß des Hügels, um den Aufstieg kurz zu halten.",
                 "hu": "Parkoljon közvetlenül a domb lábánál, hogy lerövidítse a gyaloglást.",
                 "ro": "Parcați direct la baza dealului pentru a scurta urcarea.",
-                "en": "Park directly at the foot of the hill to keep the climb short."
+                "en": "Park directly at the foot of the hill to keep the climb short.",
+                "hr": "Parkirajte izravno u podnožju brda kako bi uspon bio kratak."
               }
             },
             {
@@ -1751,7 +1916,8 @@
                 "de": "Genießen Sie den Blick auf die tosende See aus der Sicherheit des Autos.",
                 "hu": "Élvezze a háborgó tenger látványát az autó biztonságából.",
                 "ro": "Bucurați-vă de vederea mării agitate din siguranța mașinii.",
-                "en": "Enjoy the view of the churning sea from the safety of the car."
+                "en": "Enjoy the view of the churning sea from the safety of the car.",
+                "hr": "Uživajte u pogledu na uzburkano more iz sigurnosti automobila."
               }
             },
             {
@@ -1760,7 +1926,8 @@
                 "de": "Ein kurzer Rundgang ist möglich, wenn der Regen nachlässt.",
                 "hu": "Egy rövid séta lehetséges, amint alábbhagy az eső.",
                 "ro": "O scurtă plimbare este posibilă imediat ce ploaia se mai domolește.",
-                "en": "A short walk is possible as soon as the rain lets up."
+                "en": "A short walk is possible as soon as the rain lets up.",
+                "hr": "Kratka šetnja je moguća čim kiša posustane."
               }
             }
           ],
@@ -1788,6 +1955,12 @@
               "Use the drive to Lumbarda for a stop at one of the many wineries.",
               "Parking spots are often more in demand in the rain; plan some search time.",
               "Keep a towel in the car to dry off after your sightseeing stops."
+            ],
+            "hr": [
+              "Ceste mogu biti klizave na kiši zbog ostataka maslinovog ulja.",
+              "Iskoristite vožnju do Lumbarde za zaustavljanje u jednoj od brojnih vinarija.",
+              "Parkirna mjesta su često traženija po kiši; planirajte vrijeme za potragu.",
+              "Držite ručnik u autu kako biste se obrisali nakon obilazaka."
             ]
           }
         },
@@ -1796,7 +1969,8 @@
             "de": "Winter in Korčula bedeutet freie Fahrt und keine Parkplatzsorgen. Starten Sie entspannt am Revelin-Tor. Die Fahrt nach Lumbarda führt durch ruhige Weinberge, die im Winterlicht silbern schimmern. Mittags erkunden Sie die Altstadt ohne Hitze. Der frühe Sonnenuntergang lässt sich am besten am Vela Przina Strand beobachten, bevor Sie die Heizung im Auto für die Rückfahrt genießen.",
             "hu": "A tél Korčulán szabad utat és parkolási gondoktól mentes napot jelent. Kezdjen nyugodtan a Revelin-kapunál. A lumbardai út csendes szőlőültetvényeken vezet át, amelyek a téli fényben ezüstösen csillognak. Délben fedezze fel az óvárost hőség nélkül. A korai naplementét legjobb a Vela Przina strandon megvárni, mielőtt élvezné az autó fűtését a visszaúton.",
             "ro": "Iarna în Korčula înseamnă drum liber și nicio grijă pentru parcare. Începeți relaxat la Poarta Revelin. Drumul spre Lumbarda trece prin podgorii liniștite care sclipesc argintiu în lumina iernii. La prânz, explorați orașul vechi fără caniculă. Apusul timpuriu poate fi observat cel mai bine la plaja Vela Przina înainte de a vă bucura de căldura din mașină la întoarcere.",
-            "en": "Winter in Korčula means open roads and no parking worries. Start relaxed at the Revelin Gate. The drive to Lumbarda takes you through quiet vineyards that shimmer silvery in the winter light. At midday, explore the Old Town without the heat. The early sunset is best observed at Vela Przina Beach before enjoying the car's heater on the drive back."
+            "en": "Winter in Korčula means open roads and no parking worries. Start relaxed at the Revelin Gate. The drive to Lumbarda takes you through quiet vineyards that shimmer silvery in the winter light. At midday, explore the Old Town without the heat. The early sunset is best observed at Vela Przina Beach before enjoying the car's heater on the drive back.",
+            "hr": "Zima u Korčuli znači prazne ceste i bez brige oko parkinga. Započnite opušteno kod Vrata od Revelina. Vožnja do Lumbarde vodi vas kroz mirne vinograde koji srebrnasto svjetlucaju na zimskom svjetlu. U podne istražite Stari grad bez vrućine. Rani zalazak sunca najbolje je promatrati na plaži Vela Pržina prije uživanja u grijanju automobila na povratku."
           },
           "stops": [
             {
@@ -1805,7 +1979,8 @@
                 "de": "Parken ist im Winter oft direkt am Stadteingang möglich.",
                 "hu": "Télen a parkolás gyakran közvetlenül a városbejáratnál is lehetséges.",
                 "ro": "Parcarea este adesea posibilă chiar la intrarea în oraș pe timp de iarnă.",
-                "en": "Parking is often possible directly at the city entrance in winter."
+                "en": "Parking is often possible directly at the city entrance in winter.",
+                "hr": "Parking je zimi često moguć izravno na ulazu u grad."
               }
             },
             {
@@ -1814,7 +1989,8 @@
                 "de": "Nutzen Sie die leeren Straßen für eine stressfreie Anfahrt zum Zentrum.",
                 "hu": "Használja ki az üres utakat a stresszmentes bejutáshoz a központba.",
                 "ro": "Profitați de străzile pustii pentru o sosire fără stres în centru.",
-                "en": "Take advantage of the empty roads for a stress-free arrival at the center."
+                "en": "Take advantage of the empty roads for a stress-free arrival at the center.",
+                "hr": "Iskoristite prazne ceste za dolazak u centar bez stresa."
               }
             },
             {
@@ -1823,7 +1999,8 @@
                 "de": "Die Parkplatzsuche in der Nähe ist im Winter kein Problem.",
                 "hu": "A közeli parkolóhely keresése télen egyáltalán nem probléma.",
                 "ro": "Căutarea unui loc de parcare în apropiere nu este o problemă iarna.",
-                "en": "Finding a parking spot nearby is no problem in winter."
+                "en": "Finding a parking spot nearby is no problem in winter.",
+                "hr": "Pronalaženje parkirnog mjesta u blizini zimi nije problem."
               }
             },
             {
@@ -1832,7 +2009,8 @@
                 "de": "Vermeiden Sie die Fahrt bei Dunkelheit auf den schmalen Nebenstraßen.",
                 "hu": "Sötétedés után kerülje a vezetést a szűk mellékutakon.",
                 "ro": "Evitați condusul pe întuneric pe străzile secundare înguste.",
-                "en": "Avoid driving on narrow side roads after dark."
+                "en": "Avoid driving on narrow side roads after dark.",
+                "hr": "Izbjegavajte vožnju uskim sporednim cestama nakon mraka."
               }
             },
             {
@@ -1841,7 +2019,8 @@
                 "de": "Ein einsamer Spaziergang am Strand ist im Winter besonders erholsam.",
                 "hu": "Egy magányos séta a strandon télen különösen pihentető.",
                 "ro": "O plimbare solitară pe plajă este deosebit de relaxantă iarna.",
-                "en": "A solitary walk on the beach is particularly restorative in winter."
+                "en": "A solitary walk on the beach is particularly restorative in winter.",
+                "hr": "Osamljena šetnja plažom zimi posebno oporavlja."
               }
             },
             {
@@ -1850,7 +2029,8 @@
                 "de": "Genießen Sie den Blick auf den Kanal von Pelješac ohne Touristenströme.",
                 "hu": "Élvezze a Pelješac-csatornára nyíló kilátást a turistaáradat nélkül.",
                 "ro": "Bucurați-vă de vederea spre canalul Pelješac fără fluxul de turiști.",
-                "en": "Enjoy the view of the Pelješac Channel without the tourist crowds."
+                "en": "Enjoy the view of the Pelješac Channel without the tourist crowds.",
+                "hr": "Uživajte u pogledu na Pelješki kanal bez turističke gužve."
               }
             }
           ],
@@ -1878,6 +2058,12 @@
               "Watch out for wildlife, which may cross the roads more often in winter.",
               "Refuel in good time; some smaller gas stations have shorter opening hours.",
               "Grk wine from Lumbarda is a perfect souvenir for cozy winter evenings."
+            ],
+            "hr": [
+              "Naknade za parkiranje zimi su često snižene ili potpuno ukinute.",
+              "Pripazite na divlje životinje koje zimi češće prelaze ceste.",
+              "Natočite gorivo na vrijeme; neke manje benzinske postaje rade kraće.",
+              "Vino Grk iz Lumbarde savršen je suvenir za ugodne zimske večeri."
             ]
           }
         }
@@ -1906,7 +2092,8 @@
             "de": "Der Busbahnhof liegt nur 2 Gehminuten vom Tor entfernt.",
             "hu": "A buszpályaudvar mindössze 2 perc sétára van a kaputól.",
             "ro": "Autogara se află la doar 2 minute de mers pe jos de poartă.",
-            "en": "The bus station is just a 2-minute walk from the gate."
+            "en": "The bus station is just a 2-minute walk from the gate.",
+            "hr": "Autobusni kolodvor je udaljen samo 2 minute hoda od vrata."
           }
         },
         {
@@ -1924,7 +2111,8 @@
             "de": "Folgen Sie der Ringstraße um die Mauern.",
             "hu": "Kövesse a falakat körülölelő körutat.",
             "ro": "Urmați drumul circular din jurul zidurilor.",
-            "en": "Follow the ring road around the walls."
+            "en": "Follow the ring road around the walls.",
+            "hr": "Slijedite kružnu cestu oko zidina."
           }
         },
         {
@@ -1942,7 +2130,8 @@
             "de": "Das Innere beherbergt Werke von Tintoretto.",
             "hu": "A belső tér Tintoretto alkotásait rejti.",
             "ro": "Interiorul adăpostește lucrări de Tintoretto.",
-            "en": "The interior houses works by Tintoretto."
+            "en": "The interior houses works by Tintoretto.",
+            "hr": "U unutrašnjosti se nalaze djela Tintoretta."
           }
         },
         {
@@ -1960,7 +2149,8 @@
             "de": "Erkunden Sie die Geschichte Korčulas.",
             "hu": "Fedezze fel Korčula történelmét.",
             "ro": "Explorați istoria orașului Korčula.",
-            "en": "Explore the history of Korčula."
+            "en": "Explore the history of Korčula.",
+            "hr": "Istražite povijest Korčule."
           }
         },
         {
@@ -1978,7 +2168,8 @@
             "de": "In der Nähe legen viele Taxiboote an.",
             "hu": "A közelben számos taxihajó köt ki.",
             "ro": "În apropiere ancorează multe taxiuri pe apă.",
-            "en": "Many water taxis dock near this tower."
+            "en": "Many water taxis dock near this tower.",
+            "hr": "Mnogi taxi brodovi pristaju u blizini ove kule."
           }
         }
       ],
@@ -1986,7 +2177,8 @@
         "de": "Korčula ist per Bus oder Fähre leicht erreichbar. Starten Sie am Revelin-Tor, dem Eingang zur Altstadt. Besuchen Sie die prächtige Kathedrale und das Museum von Marco Polo. Mittags spazieren Sie entlang der Stadtmauern mit Blick auf das Meer. Abends können Sie ein Taxiboot zu den Nachbarinseln oder Stränden nehmen.",
         "hu": "Korčula könnyen megközelíthető busszal vagy komppal. Kezdjen a Revelin-toronynál, az óváros bejáratánál. Látogassa meg a pompás székesegyházat és Marco Polo múzeumát. Ebédidőben sétáljon a tengerparti városfalak mentén. Este taxihajóval is felfedezheti a szomszédos szigeteket vagy strandokat.",
         "ro": "Korčula este ușor accesibilă cu autobuzul sau feribotul. Începeți la Poarta Revelin, intrarea în orașul vechi. Vizitați catedrala magnifică și muzeul lui Marco Polo. La prânz, plimbați-vă de-a lungul zidurilor cu vedere la mare. Seara, puteți lua un taxi pe apă către insulele sau plajele vecine.",
-        "en": "Korčula is easily accessible by bus or ferry. Start at the Revelin Gate, the entrance to the old town. Visit the magnificent cathedral and Marco Polo's museum. Around midday, walk along the city walls overlooking the sea. In the evening, consider taking a water taxi to nearby islands or beaches."
+        "en": "Korčula is easily accessible by bus or ferry. Start at the Revelin Gate, the entrance to the old town. Visit the magnificent cathedral and Marco Polo's museum. Around midday, walk along the city walls overlooking the sea. In the evening, consider taking a water taxi to nearby islands or beaches.",
+        "hr": "Korčula je lako dostupna autobusom ili trajektom. Započnite kod Vrata od Revelina, ulaza u stari grad. Posjetite veličanstvenu katedralu i muzej Marka Pola. Oko podneva prošećite gradskim zidinama s pogledom na more. Navečer razmislite o vožnji taxi brodom do obližnjih otoka ili plaža."
       },
       "gastro_picks": {
         "de": [
@@ -2011,6 +2203,12 @@
           {
             "name": "Gradski Podrum",
             "tip": "Near the bus station, ideal for a quick and local meal."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Gradski Podrum",
+            "tip": "U blizini autobusnog kolodvora, idealno za brz i domaći obrok."
           }
         ]
       },
@@ -2042,6 +2240,13 @@
             "tip": "Watch the boats coming and going in the evening light.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obalna šetnica",
+            "tip": "Promatrajte dolazak i odlazak brodova u večernjem svjetlu.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -2067,6 +2272,12 @@
           {
             "name": "Harbor Souvenir Shops",
             "tip": "Local honey and lavender products are popular here."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Suvenirnice u luci",
+            "tip": "Lokalni med i proizvodi od lavande ovdje su popularni."
           }
         ]
       },
@@ -2094,6 +2305,12 @@
           "Ferries from Split or Dubrovnik dock right next to the town center.",
           "Luggage lockers are available near the main bus terminal.",
           "Use water taxis for quick trips to the nearby Badija island."
+        ],
+        "hr": [
+          "Unaprijed provjerite vozni red autobusa jer se mijenja sezonski.",
+          "Trajekti iz Splita ili Dubrovnika pristaju odmah uz centar grada.",
+          "Ormarići za prtljagu dostupni su u blizini glavnog autobusnog kolodvora.",
+          "Koristite taxi brodove za brze izlete do obližnjeg otoka Badija."
         ]
       },
       "variants": {
@@ -2265,7 +2482,8 @@
             "de": "Nutzen Sie die lokalen Busse, um auch bei Regen flexibel zu bleiben. Starten Sie am zentralen Busbahnhof nahe dem Revelin-Tor. Vormittags und mittags konzentrieren Sie sich auf die Museen und die Kathedrale in der Altstadt, die alle nah beieinander liegen. Der Nachmittag bietet sich für einen Besuch der Schatzkammer an, bevor Sie bequem mit dem Bus zurück zu Ihrer Unterkunft fahren.",
             "hu": "Használja a helyi buszokat, hogy esőben is rugalmas maradjon. Kezdjen a központi buszpályaudvaron, a Revelin-kapu közelében. Délelőtt és délben koncentráljon az óváros múzeumaira és a székesegyházra, amelyek közel vannak egymáshoz. A délután ideális a kincstár meglátogatására, mielőtt busszal kényelmesen visszatérne a szállására.",
             "ro": "Folosiți autobuzele locale pentru a rămâne flexibili chiar și pe ploaie. Începeți la autogara centrală de lângă Poarta Revelin. Dimineața și la prânz, concentrați-vă pe muzeele și catedrala din orașul vechi, toate fiind aproape unele de altele. După-amiaza este ideală pentru vizitarea trezoreriei înainte de a reveni confortabil cu autobuzul la cazare.",
-            "en": "Use local buses to stay flexible even in the rain. Start at the central bus station near the Revelin Gate. In the morning and at midday, focus on the museums and the cathedral in the Old Town, which are all close to each other. The afternoon is ideal for visiting the treasury before taking a comfortable bus back to your accommodation."
+            "en": "Use local buses to stay flexible even in the rain. Start at the central bus station near the Revelin Gate. In the morning and at midday, focus on the museums and the cathedral in the Old Town, which are all close to each other. The afternoon is ideal for visiting the treasury before taking a comfortable bus back to your accommodation.",
+            "hr": "Koristite lokalne autobuse kako biste ostali fleksibilni i po kiši. Započnite na glavnom autobusnom kolodvoru blizu Vrata od Revelina. Ujutro i u podne usredotočite se na muzeje i katedralu u Starom gradu, koji su svi blizu jedan drugome. Poslijepodne je idealno za posjet riznici prije povratka udobnim autobusom do smještaja."
           },
           "stops": [
             {
@@ -2274,7 +2492,8 @@
                 "de": "Der Busbahnhof liegt nur wenige Gehminuten vom Tor entfernt.",
                 "hu": "A buszpályaudvar mindössze néhány perc sétára van a kaputól.",
                 "ro": "Autogara se află la doar câteva minute de mers pe jos de poartă.",
-                "en": "The bus station is only a few minutes' walk from the gate."
+                "en": "The bus station is only a few minutes' walk from the gate.",
+                "hr": "Autobusni kolodvor je udaljen samo nekoliko minuta hoda od vrata."
               }
             },
             {
@@ -2283,7 +2502,8 @@
                 "de": "Nutzen Sie die Bushaltestellen als trockene Wartepunkte.",
                 "hu": "Használja a buszmegállókat száraz várakozóhelyként.",
                 "ro": "Folosiți stațiile de autobuz ca puncte de așteptare uscate.",
-                "en": "Use the bus stops as dry waiting points."
+                "en": "Use the bus stops as dry waiting points.",
+                "hr": "Koristite autobusne stanice kao suha mjesta za čekanje."
               }
             },
             {
@@ -2292,7 +2512,8 @@
                 "de": "Ein kurzer Sprint vom Bus zum Kircheneingang hält Sie trocken.",
                 "hu": "Egy rövid futás a busztól a templomig segít szárazon maradni.",
                 "ro": "Un scurt sprint de la autobuz la intrarea în biserică vă va menține uscat.",
-                "en": "A quick sprint from the bus to the church entrance will keep you dry."
+                "en": "A quick sprint from the bus to the church entrance will keep you dry.",
+                "hr": "Kratki sprint od autobusa do ulaza u crkvu održat će vas suhima."
               }
             },
             {
@@ -2301,7 +2522,8 @@
                 "de": "Prüfen Sie die Busverbindungen für die Rückfahrt rechtzeitig bei Regen.",
                 "hu": "Esőben ellenőrizze időben a visszautat biztosító buszjáratokat.",
                 "ro": "Verificați din timp autobuzele pentru întoarcere pe timp de ploaie.",
-                "en": "Check bus connections for your return journey in good time when it's raining."
+                "en": "Check bus connections for your return journey in good time when it's raining.",
+                "hr": "Na vrijeme provjerite autobusne veze za povratak kada pada kiša."
               }
             },
             {
@@ -2310,7 +2532,8 @@
                 "de": "Die Bushaltestelle am Hafen bietet Schutz vor Gischt und Regen.",
                 "hu": "A kikötői buszmegálló védelmet nyújt a permet és az eső ellen.",
                 "ro": "Stația de autobuz din port oferă protecție împotriva vaporilor și ploii.",
-                "en": "The bus stop at the harbor provides shelter from spray and rain."
+                "en": "The bus stop at the harbor provides shelter from spray and rain.",
+                "hr": "Autobusna stanica u luci pruža zaklon od morske pjene i kiše."
               }
             }
           ],
@@ -2338,6 +2561,12 @@
               "Have small change ready for the bus ticket to avoid delays.",
               "Buses are often full in the rain; try to board at the terminus (bus station).",
               "Combine bus rides with short sprints between the sights."
+            ],
+            "hr": [
+              "Vozni red može malo varirati u ekstremnim uvjetima; koristite online informacije.",
+              "Pripremite sitan novac za kartu kako biste izbjegli kašnjenja.",
+              "Autobusi su često puni po kiši; pokušajte ući na početnoj stanici (kolodvoru).",
+              "Kombinirajte vožnju autobusom s kratkim sprintovima između znamenitosti."
             ]
           }
         },
@@ -2346,7 +2575,8 @@
             "de": "Im Winter ist der öffentliche Nahverkehr in Korčula ruhiger und persönlicher. Starten Sie Ihre Tour am Busbahnhof. Der Vormittag gehört der Altstadt, wo Sie die Sehenswürdigkeiten ohne Drängeln genießen können. Mittags wärmen Sie sich in den Museen auf. Da die Busse im Winter seltener fahren, planen Sie Ihre Rückfahrt passend zum Sonnenuntergang gegen 16:30 Uhr ein.",
             "hu": "Télen a korčulai tömegközlekedés nyugodtabb és közvetlenebb. Kezdje a túrát a buszpályaudvaron. A délelőtt az óvárosé, ahol tolongás nélkül élvezheti a látnivalókat. Délben melegedjen fel a múzeumokban. Mivel a buszok télen ritkábban járnak, tervezze a visszautat a 16:30 körüli naplementéhez igazítva.",
             "ro": "Iarna, transportul public în Korčula este mai liniștit și mai personal. Începeți turul la autogară. Dimineața aparține orașului vechi, unde vă puteți bucura de obiective fără aglomerație. La prânz, încălziți-vă în muzee. Deoarece autobuzele circulă mai rar iarna, planificați întoarcerea în funcție de apusul soarelui de la 16:30.",
-            "en": "In winter, public transport in Korčula is quieter and more personal. Start your tour at the bus station. The morning is for the Old Town, where you can enjoy the sights without the crowds. At midday, warm up in the museums. Since buses run less frequently in winter, plan your return trip to coincide with the sunset around 16:30."
+            "en": "In winter, public transport in Korčula is quieter and more personal. Start your tour at the bus station. The morning is for the Old Town, where you can enjoy the sights without the crowds. At midday, warm up in the museums. Since buses run less frequently in winter, plan your return trip to coincide with the sunset around 16:30.",
+            "hr": "Zimi je javni prijevoz u Korčuli mirniji i osobniji. Započnite turu na autobusnom kolodvoru. Jutro je rezervirano za Stari grad, gdje možete uživati u znamenitostima bez gužve. U podne se ugrijte u muzejima. Budući da autobusi zimi voze rjeđe, planirajte povratak u skladu sa zalaskom sunca oko 16:30."
           },
           "stops": [
             {
@@ -2355,7 +2585,8 @@
                 "de": "Im Winter sind die Busse oft pünktlicher, da es weniger Verkehr gibt.",
                 "hu": "Télen a buszok gyakran pontosabbak, mivel kisebb a forgalom.",
                 "ro": "Iarna, autobuzele sunt adesea mai punctuale deoarece este mai puțin trafic.",
-                "en": "Buses are often more punctual in winter as there is less traffic."
+                "en": "Buses are often more punctual in winter as there is less traffic.",
+                "hr": "Autobusi su zimi često točniji jer je manje prometa."
               }
             },
             {
@@ -2364,7 +2595,8 @@
                 "de": "Nutzen Sie die Zeit zwischen zwei Busverbindungen für den Rundgang.",
                 "hu": "Használja ki két buszjárat közötti időt a városfali sétára.",
                 "ro": "Folosiți timpul dintre două autobuze pentru plimbarea pe ziduri.",
-                "en": "Use the time between two bus connections for your walk around the walls."
+                "en": "Use the time between two bus connections for your walk around the walls.",
+                "hr": "Iskoristite vrijeme između dvije autobusne veze za šetnju zidinama."
               }
             },
             {
@@ -2373,7 +2605,8 @@
                 "de": "Die Kathedrale liegt zentral und ist von allen Haltestellen gut zu Fuß erreichbar.",
                 "hu": "A székesegyház központi helyen van, minden megállótól könnyen elérhető.",
                 "ro": "Catedrala este centrală și ușor accesibilă de la toate stațiile.",
-                "en": "The cathedral is centrally located and easily reachable on foot from all stops."
+                "en": "The cathedral is centrally located and easily reachable on foot from all stops.",
+                "hr": "Katedrala je centralno smještena i lako dostupna pješice sa svih stanica."
               }
             },
             {
@@ -2382,7 +2615,8 @@
                 "de": "Beachten Sie die ausgedünnten Fahrpläne am späten Nachmittag.",
                 "hu": "Ügyeljen a ritkább menetrendre a késő délutáni órákban.",
                 "ro": "Atenție la orarul redus al autobuzelor după-amiaza târziu.",
-                "en": "Note the thinned-out schedules in the late afternoon."
+                "en": "Note the thinned-out schedules in the late afternoon.",
+                "hr": "Obratite pozornost na rjeđi vozni red u kasnim poslijepodnevnim satima."
               }
             },
             {
@@ -2391,7 +2625,8 @@
                 "de": "Die Haltestelle in der Nähe bietet einen guten Blick auf den winterlichen Hafen.",
                 "hu": "A közeli megálló jó kilátást nyújt a téli kikötőre.",
                 "ro": "Stația din apropiere oferă o vedere bună asupra portului iarna.",
-                "en": "The nearby stop offers a good view of the winter harbor."
+                "en": "The nearby stop offers a good view of the winter harbor.",
+                "hr": "Obližnja stanica nudi dobar pogled na zimsku luku."
               }
             }
           ],
@@ -2419,6 +2654,12 @@
               "Some lines (e.g., to Lumbarda) run less frequently in winter.",
               "Use the waiting time at the bus station for a coffee with the locals.",
               "Buses are often heated, providing a welcome warm-up break."
+            ],
+            "hr": [
+              "Zimski vozni red (red vožnje) uvelike se razlikuje od ljetnog; fotografirajte ga!",
+              "Neke linije (npr. za Lumbardu) voze rjeđe zimi.",
+              "Iskoristite vrijeme čekanja na kolodvoru za kavu s lokalnim stanovništvom.",
+              "Autobusi su često grijani, što pruža dobrodošao odmor za grijanje."
             ]
           }
         }

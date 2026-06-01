@@ -31,7 +31,8 @@
             "de": "Kaffee am Kai.",
             "hu": "Kávézzon a rakparton.",
             "ro": "O cafea pe chei.",
-            "en": "Coffee on the quay."
+            "en": "Coffee on the quay.",
+            "fr": "Café sur le quai."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bester Panoramablick.",
             "hu": "Legjobb panoráma.",
             "ro": "Cea mai bună vedere.",
-            "en": "Best panorama point."
+            "en": "Best panorama point.",
+            "fr": "Meilleur point de vue."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ältestes Bauwerk.",
             "hu": "A legősibb épület.",
             "ro": "Cea mai veche clădire.",
-            "en": "Oldest building here."
+            "en": "Oldest building here.",
+            "fr": "Le plus ancien bâtiment ici."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Vorsicht, steil!",
             "hu": "Vigyázat, meredek!",
             "ro": "Atenție, e abrupt!",
-            "en": "Watch out, steep!"
+            "en": "Watch out, steep!",
+            "fr": "Attention, c'est raide !"
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Gotische Architektur.",
             "hu": "Gótikus építészet.",
             "ro": "Arhitectură gotică.",
-            "en": "Gothic architecture."
+            "en": "Gothic architecture.",
+            "fr": "Architecture gothique."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Stille am Abgrund.",
             "hu": "Csend a szakadéknál.",
             "ro": "Liniște pe faleză.",
-            "en": "Quiet by the cliffs."
+            "en": "Quiet by the cliffs.",
+            "fr": "Calme au bord des falaises."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Morgens erkunden Sie den lebhaften Yachthafen und steigen zur imposanten Bastion de l'Étendard auf. Mittags tauchen Sie in die verwinkelten Gassen der Oberstadt ein und genießen die kühle Atmosphäre der Sainte-Marie-Majeure. Der Nachmittag gehört dem spektakulären Abstieg über die Treppe des Königs von Aragon direkt in die Klippen. Zum Abschluss erleben Sie die friedliche Stille des Seefahrerfriedhofs über dem Meer.",
         "hu": "Reggel a nyüzsgő kikötőt fedezheti fel, majd felkapaszkodhat az impozáns Bastion de l'Étendard bástyához. Délben a felsőváros szűk utcácskáiban kalandozhat, megcsodálva a Sainte-Marie-Majeure templom hűvös nyugalmát. A délután a látványos Aragóniai király lépcsőjéé, amely közvetlenül a sziklába vájt úton vezet a tengerhez. A napot a tengerparti temető békés csendjével zárhatja a mészkősziklák peremén.",
         "ro": "Dimineața explorați portul plin de viață și urcați la impunătorul Bastion de l'Étendard. La prânz vă pierdeți pe străzile înguste ale orașului de sus și vă bucurați de răcoarea bisericii Sainte-Marie-Majeure. După-amiaza este dedicată spectaculoasei Scări a Regelui Aragon, săpată direct în stâncă spre mare. Încheiați ziua cu liniștea profundă a Cimitirului Marin situat deasupra falezelor albe.",
-        "en": "Morning starts with the bustling marina before ascending to the imposing Bastion de l'Étendard. At midday, wander through the labyrinthine streets of the Upper Town and enjoy the cool interior of Sainte-Marie-Majeure. The afternoon features the breathtaking descent down the King of Aragon's Steps carved into the cliff. Finish your day with the serene silence of the Marine Cemetery overlooking the Mediterranean."
+        "en": "Morning starts with the bustling marina before ascending to the imposing Bastion de l'Étendard. At midday, wander through the labyrinthine streets of the Upper Town and enjoy the cool interior of Sainte-Marie-Majeure. The afternoon features the breathtaking descent down the King of Aragon's Steps carved into the cliff. Finish your day with the serene silence of the Marine Cemetery overlooking the Mediterranean.",
+        "fr": "La matinée commence par la marina animée avant de monter à l'imposant Bastion de l'Étendard. À midi, flânez dans les rues labyrinthiques de la Haute-Ville et profitez de la fraîcheur intérieure de l'église Sainte-Marie-Majeure. L'après-midi est marqué par la descente vertigineuse de l'escalier du Roy d'Aragon, taillé dans la falaise. Terminez votre journée par le calme serein du cimetière marin surplombant la Méditerranée."
       },
       "gastro_picks": {
         "de": [
@@ -154,6 +161,12 @@
           {
             "name": "Aubergines à la bonifacienne",
             "tip": "Stuffed eggplants with local cheese."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Aubergines à la bonifacienne",
+            "tip": "Aubergines farcies au fromage local."
           }
         ]
       },
@@ -185,6 +198,13 @@
             "tip": "Peaceful atmosphere above the sea.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Cimetière marin",
+            "tip": "Atmosphère paisible au-dessus de la mer.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -210,6 +230,12 @@
           {
             "name": "Coral Boutique",
             "tip": "Authentic Corsican coral jewelry."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutique de corail",
+            "tip": "Bijoux authentiques en corail corse."
           }
         ]
       },
@@ -237,6 +263,12 @@
           "Book a table for lunch in the upper town.",
           "Wind can be very strong on the cliffs.",
           "Carry plenty of water with you."
+        ],
+        "fr": [
+          "Portez des chaussures solides pour les marches raides.",
+          "Réservez une table pour le déjeuner en Haute-Ville.",
+          "Le vent peut être très fort sur les falaises.",
+          "Emportez suffisamment d'eau avec vous."
         ]
       },
       "variants": {
@@ -426,7 +458,8 @@
             "de": "Der Morgen am Hafen beginnt grau, doch die Cafés bieten Schutz, während Sie das Treiben beobachten. Mittags ziehen Sie sich in die schmalen Gassen der Oberstadt zurück, wo die hohen Mauern den Wind brechen. Am Nachmittag erkunden Sie die Festungsanlagen und Kirchen, die trockene Rückzugsorte bieten. Der Abend endet gemütlich in einem Restaurant in der Zitadelle bei korsischen Spezialitäten.",
             "hu": "A kikötőben töltött reggel esős, de a parti kávézók menedéket nyújtanak a nézelődéshez. Délben a felsőváros szűk utcái közé húzódunk, ahol a magas falak felfogják a szelet. Délután a bástyák és templomok belső tereit fedezzük fel, távol az égi áldástól. Az estét egy citadellabeli étteremben zárjuk, ahol a helyi gesztenyelisztből készült ételek melegítik fel a vándort.",
             "ro": "Dimineața în port începe sub nori, dar cafenelele oferă adăpostul perfect pentru a observa iahturile. La prânz, ne retragem pe străzile înguste ale orașului de sus, unde zidurile înalte protejează de rafale. După-amiaza este dedicată bastioanelor și bisericilor, oferind refugiu uscat. Seara se încheie călduros într-un restaurant din cetate, savurând preparate tradiționale corse.",
-            "en": "The morning at the port starts grey, but waterfront cafes provide shelter while watching the boats. At noon, retreat to the narrow streets of the upper town, where high walls break the wind and rain. Afternoon is spent exploring the interior of bastions and churches, staying dry while soaking in history. The evening ends cozily in a citadel restaurant with hearty Corsican cuisine."
+            "en": "The morning at the port starts grey, but waterfront cafes provide shelter while watching the boats. At noon, retreat to the narrow streets of the upper town, where high walls break the wind and rain. Afternoon is spent exploring the interior of bastions and churches, staying dry while soaking in history. The evening ends cozily in a citadel restaurant with hearty Corsican cuisine.",
+            "fr": "La matinée au port commence sous la grisaille, mais les cafés du front de mer offrent un abri tout en observant les bateaux. À midi, réfugiez-vous dans les ruelles étroites de la Haute-Ville, où les hauts murs brisent le vent et la pluie. L'après-midi est consacré à l'exploration de l'intérieur des bastions et des églises, pour rester au sec tout en s'imprégnant d'histoire. La soirée se termine chaleureusement dans un restaurant de la citadelle avec une cuisine corse généreuse."
           },
           "stops": [
             {
@@ -435,7 +468,8 @@
                 "de": "Nutzen Sie die Arkaden der Geschäfte am Kai als Regenschutz.",
                 "hu": "Használja a rakparti üzletek árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele magazinelor de pe chei pentru a vă adăposti de ploaie.",
-                "en": "Use the shop arcades along the quay for rain protection."
+                "en": "Use the shop arcades along the quay for rain protection.",
+                "fr": "Utilisez les arcades des boutiques le long du quai pour vous protéger."
               }
             },
             {
@@ -444,7 +478,8 @@
                 "de": "Die unterirdischen Säle der Festung sind absolut trocken und sehenswert.",
                 "hu": "Erődítmény föld alatti termei teljesen szárazak és lenyűgözőek.",
                 "ro": "Sălile subterane ale fortăreței sunt complet uscate și merită vizitate.",
-                "en": "The fortress's underground chambers are completely dry and worth visiting."
+                "en": "The fortress's underground chambers are completely dry and worth visiting.",
+                "fr": "Les salles souterraines de la forteresse sont sèches et valent le détour."
               }
             },
             {
@@ -453,7 +488,8 @@
                 "de": "Ein idealer Ort für eine längere Pause während eines Schauers.",
                 "hu": "Ideális helyszín egy hosszabb pihenőre egy kiadós zápor idején.",
                 "ro": "Un loc ideal pentru o pauză prelungită în timpul unei averse.",
-                "en": "An ideal place for an extended break during a heavy downpour."
+                "en": "An ideal place for an extended break during a heavy downpour.",
+                "fr": "Un endroit idéal pour une pause prolongée pendant une forte averse."
               }
             },
             {
@@ -462,7 +498,8 @@
                 "de": "Vorsicht, die Kalksteinstufen sind bei Nässe extrem rutschig.",
                 "hu": "Vigyázat, a mészkő lépcsők nedvesen rendkívül csúszósak.",
                 "ro": "Atenție, treptele de calcar sunt extrem de alunecoase când sunt ude.",
-                "en": "Caution: the limestone steps are extremely slippery when wet."
+                "en": "Caution: the limestone steps are extremely slippery when wet.",
+                "fr": "Attention : les marches en calcaire sont extrêmement glissantes lorsqu'elles sont mouillées."
               }
             },
             {
@@ -471,7 +508,8 @@
                 "de": "Bewundern Sie die gotische Architektur im trockenen Innenraum.",
                 "hu": "Csodálja meg a gótikus építészetet a száraz belső térben.",
                 "ro": "Admirați arhitectura gotică în interiorul uscat al bisericii.",
-                "en": "Admire the Gothic architecture inside the dry interior."
+                "en": "Admire the Gothic architecture inside the dry interior.",
+                "fr": "Admirez l'architecture gothique à l'intérieur bien au sec."
               }
             },
             {
@@ -480,7 +518,8 @@
                 "de": "Bei starkem Wind meiden, die Klippenwege können gefährlich sein.",
                 "hu": "Erős szélben kerülendő, a szikla menti utak veszélyesek lehetnek.",
                 "ro": "Evitați în caz de vânt puternic; potecile de pe faleză pot fi periculoase.",
-                "en": "Avoid during high winds; the cliffside paths can be hazardous."
+                "en": "Avoid during high winds; the cliffside paths can be hazardous.",
+                "fr": "Évitez par vent fort ; les sentiers de falaise peuvent être dangereux."
               }
             },
             {
@@ -489,7 +528,8 @@
                 "de": "Wärmen Sie sich mit einem heißen korsischen Tee in einer Bar auf.",
                 "hu": "Melegedjen fel egy forró korzikai teával az egyik kikötői bárban.",
                 "ro": "Încălziți-vă cu un ceai corsican fierbinte într-un bar din port.",
-                "en": "Warm up with a hot Corsican tea in one of the port bars."
+                "en": "Warm up with a hot Corsican tea in one of the port bars.",
+                "fr": "Réchauffez-vous avec un thé corse chaud dans l'un des bars du port."
               }
             }
           ],
@@ -517,6 +557,12 @@
               "A sturdy umbrella is better than a poncho due to frequent wind gusts.",
               "Prioritize the Citadel's museums as indoor alternatives.",
               "Reconsider the King of Aragon's Staircase if it's raining heavily."
+            ],
+            "fr": [
+              "Portez des chaussures antidérapantes car les surfaces en calcaire sont glissantes.",
+              "Un parapluie solide est préférable à un poncho en raison des fréquentes rafales de vent.",
+              "Privilégiez les musées de la Citadelle comme alternatives en intérieur.",
+              "Reconsidérez l'escalier du Roy d'Aragon s'il pleut abondamment."
             ]
           }
         },
@@ -525,7 +571,8 @@
             "de": "Der Wintermorgen am Hafen ist ruhig und klar, die Luft erfrischend salzig. Mittags wärmt die tiefstehende Sonne die Kalksteinfelsen, während Sie durch die leere Altstadt wandern. Am Nachmittag bietet der Küstenweg dramatische Ausblicke auf das aufgewühlte Meer. Der Abend bricht früh an und taucht die weißen Klippen in ein magisches rosa Licht, bevor Sie in eine warme Brasserie einkehren.",
             "hu": "A téli reggel a kikötőben csendes és tiszta, a levegő frissítően sós. Délben az alacsonyan járó nap süti a mészkősziklákat, miközben az üres óvárosban barangolunk. Délután a tengerparti ösvény drámai kilátást nyújt a hullámzó tengerre. Az este korán érkezik, rózsaszín fénybe vonva a fehér sziklákat, mielőtt betérnénk egy fűtött bisztróba.",
             "ro": "Dimineața de iarnă în port este liniștită și senină, aerul fiind revigorant de sărat. La prânz, soarele blând încălzește stâncile de calcar în timp ce vă plimbați prin orașul vechi pustiu. După-amiaza oferă priveliști dramatice asupra mării agitate de pe potecile de coastă. Seara coboară devreme, scăldând faleza în lumină roz, înainte de a intra într-o braserie caldă.",
-            "en": "The winter morning at the port is quiet and crisp, with refreshingly salty air. At noon, the low sun warms the limestone cliffs as you wander through the peaceful old town. Afternoon coastal walks offer dramatic views of the churning sea below. Evening arrives early, bathing the white cliffs in magical pink light before you retreat to a heated local brasserie."
+            "en": "The winter morning at the port is quiet and crisp, with refreshingly salty air. At noon, the low sun warms the limestone cliffs as you wander through the peaceful old town. Afternoon coastal walks offer dramatic views of the churning sea below. Evening arrives early, bathing the white cliffs in magical pink light before you retreat to a heated local brasserie.",
+            "fr": "La matinée d'hiver au port est calme et fraîche, avec un air salin vivifiant. À midi, le soleil bas réchauffe les falaises de calcaire pendant que vous flânez dans la vieille ville paisible. Les promenades côtières de l'après-midi offrent des vues spectaculaires sur la mer agitée. Le soir arrive tôt, baignant les falaises blanches d'une lumière rose magique avant de vous retirer dans une brasserie locale chauffée."
           },
           "stops": [
             {
@@ -534,7 +581,8 @@
                 "de": "Genießen Sie die Ruhe ohne die sommerlichen Touristenmassen.",
                 "hu": "Élvezze a nyugalmat a nyári turistaáradat nélkül.",
                 "ro": "Bucurați-vă de liniște fără mulțimile de turiști din timpul verii.",
-                "en": "Enjoy the rare tranquility without the summer tourist crowds."
+                "en": "Enjoy the rare tranquility without the summer tourist crowds.",
+                "fr": "Profitez de la tranquillité rare sans les foules de touristes estivaux."
               }
             },
             {
@@ -543,7 +591,8 @@
                 "de": "Windgeschützte Ecken auf den Mauern suchen, um die Sonne zu genießen.",
                 "hu": "Keressen szélvédett sarkokat a falakon a napsütés élvezetéhez.",
                 "ro": "Căutați colțuri ferite de vânt pe ziduri pentru a vă bucura de soare.",
-                "en": "Find wind-sheltered corners on the ramparts to soak up the sun."
+                "en": "Find wind-sheltered corners on the ramparts to soak up the sun.",
+                "fr": "Trouvez des coins abrités du vent sur les remparts pour profiter du soleil."
               }
             },
             {
@@ -552,7 +601,8 @@
                 "de": "Das Innere ist kühler als draußen, behalten Sie Ihre Jacke an.",
                 "hu": "A belső tér hűvösebb, mint kint, ne vegye le a kabátját.",
                 "ro": "Interiorul este mai răcoros decât afară; păstrați jacheta pe dvs.",
-                "en": "The interior is cooler than outside; keep your jacket on."
+                "en": "The interior is cooler than outside; keep your jacket on.",
+                "fr": "L'intérieur est plus frais que l'extérieur ; gardez votre veste."
               }
             },
             {
@@ -561,7 +611,8 @@
                 "de": "Die Anstrengung beim Aufstieg hält Sie bei kühlen Temperaturen warm.",
                 "hu": "A lépcsőzés közbeni megerőltetés segít melegen tartani a testét.",
                 "ro": "Efortul depus la urcare vă va ajuta să vă mențineți căldura corporală.",
-                "en": "The physical effort of the climb will help keep you warm."
+                "en": "The physical effort of the climb will help keep you warm.",
+                "fr": "L'effort physique de la montée vous aidera à rester au chaud."
               }
             },
             {
@@ -570,7 +621,8 @@
                 "de": "Ein schöner Ort für besinnliche Stille in der Nebensaison.",
                 "hu": "A csendes elmélkedés tökéletes helyszíne a holtszezonban.",
                 "ro": "Un loc perfect pentru liniște contemplativă în extrasezon.",
-                "en": "A beautiful spot for contemplative silence during the off-season."
+                "en": "A beautiful spot for contemplative silence during the off-season.",
+                "fr": "Un bel endroit pour un silence contemplatif pendant la basse saison."
               }
             },
             {
@@ -579,7 +631,8 @@
                 "de": "Der Sonnenuntergang ist hier im Winter gegen 17:00 Uhr spektakulär.",
                 "hu": "A naplemente itt télen 17:00 körül látványos.",
                 "ro": "Apusul de soare este spectaculos aici iarna, în jurul orei 17:00.",
-                "en": "Winter sunset here is spectacular, occurring around 5:00 PM."
+                "en": "Winter sunset here is spectacular, occurring around 5:00 PM.",
+                "fr": "Le coucher de soleil hivernal ici est spectaculaire, vers 17h00."
               }
             },
             {
@@ -588,7 +641,8 @@
                 "de": "Viele Jachten sind im Winterlager, was den Hafencharakter verändert.",
                 "hu": "Sok jacht téli tárolóban van, ami megváltoztatja a kikötő képét.",
                 "ro": "Multe iahturi sunt la iernat, ceea ce schimbă aspectul portului.",
-                "en": "Many yachts are in winter storage, changing the port's scenery."
+                "en": "Many yachts are in winter storage, changing the port's scenery.",
+                "fr": "De nombreux yachts sont hivernés, changeant le paysage du port."
               }
             }
           ],
@@ -616,6 +670,12 @@
               "Sunset is early (around 5:00 PM); plan your highlights accordingly.",
               "Check restaurant availability as some close for the off-season.",
               "Coastal humidity can make the cold feel much more intense."
+            ],
+            "fr": [
+              "Des vêtements chauds et coupe-vent sont essentiels à cause de la brise marine mordante.",
+              "Le coucher du soleil est tôt (vers 17h00) ; planifiez vos visites en conséquence.",
+              "Vérifiez la disponibilité des restaurants car certains ferment hors saison.",
+              "L'humidité côtière peut rendre le froid beaucoup plus intense."
             ]
           }
         }
@@ -644,7 +704,8 @@
             "de": "E-Bike empfohlen.",
             "hu": "E-bike ajánlott.",
             "ro": "E-bike recomandat.",
-            "en": "E-bike recommended."
+            "en": "E-bike recommended.",
+            "fr": "Vélo électrique recommandé."
           }
         },
         {
@@ -662,7 +723,8 @@
             "de": "Wilder Küstenweg.",
             "hu": "Vad tengerparti út.",
             "ro": "Drum de coastă sălbatic.",
-            "en": "Wild coastal path."
+            "en": "Wild coastal path.",
+            "fr": "Sentier côtier sauvage."
           }
         },
         {
@@ -680,7 +742,8 @@
             "de": "Rad schieben erlaubt.",
             "hu": "Tolja a bringát.",
             "ro": "Împingeți bicicleta.",
-            "en": "Walk your bike here."
+            "en": "Walk your bike here.",
+            "fr": "Poussez votre vélo ici."
           }
         },
         {
@@ -698,7 +761,8 @@
             "de": "Historischer Einblick.",
             "hu": "Történelmi betekintés.",
             "ro": "Perspectivă istorică.",
-            "en": "Historical insight."
+            "en": "Historical insight.",
+            "fr": "Aperçu historique."
           }
         },
         {
@@ -716,7 +780,8 @@
             "de": "Stille Pause.",
             "hu": "Csendes pihenő.",
             "ro": "Pauză de liniște.",
-            "en": "Quiet break."
+            "en": "Quiet break.",
+            "fr": "Pause tranquille."
           }
         }
       ],
@@ -724,7 +789,8 @@
         "de": "Starten Sie am Hafen und radeln Sie entlang der Klippen zum Leuchtturm von Pertusato für atemberaubende Ausblicke auf Sardinien. Mittags kehren Sie zur Zitadelle zurück und erkunden die historischen Befestigungen. Der Nachmittag bietet Zeit für das Bastion und den einzigartigen Seefahrerfriedhof, bevor Sie gemütlich zum Yachthafen zurückrollen.",
         "hu": "Induljon a kikötőből, és biciklizzen a sziklák mentén a Pertusato világítótoronyhoz, ahonnan lélegzetelállító kilátás nyílik Szardíniára. Délben térjen vissza a fellegvárba, és fedezze fel a történelmi erődítményeket. A délután jut idő a bástyára és az egyedülálló tengerparti temetőre, mielőtt visszagurulna a jachtkikötőbe.",
         "ro": "Porniți din port și pedalați de-a lungul falezelor până la farul Pertusato pentru vederi uluitoare către Sardinia. La prânz reveniți în citadelă pentru a explora fortificațiile istorice. După-amiaza oferă timp pentru bastion și cimitirul marin unic, înainte de a coborî lejer înapoi în port.",
-        "en": "Start at the port and cycle along the cliffs to the Pertusato lighthouse for stunning views of Sardinia. Return to the citadel by noon to explore the historic fortifications. The afternoon allows time for the Bastion and the unique Marine Cemetery before rolling back down to the marina."
+        "en": "Start at the port and cycle along the cliffs to the Pertusato lighthouse for stunning views of Sardinia. Return to the citadel by noon to explore the historic fortifications. The afternoon allows time for the Bastion and the unique Marine Cemetery before rolling back down to the marina.",
+        "fr": "Partez du port et pédalez le long des falaises jusqu'au phare de Pertusato pour une vue imprenable sur la Sardaigne. Retournez à la citadelle vers midi pour explorer les fortifications historiques. L'après-midi permet de visiter le bastion et l'unique cimetière marin avant de redescendre vers la marina."
       },
       "gastro_picks": {
         "de": [
@@ -749,6 +815,12 @@
           {
             "name": "Prisutu",
             "tip": "Corsican raw ham."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Prisutu",
+            "tip": "Jambon cru corse."
           }
         ]
       },
@@ -780,6 +852,13 @@
             "tip": "Lonely cliff landscape.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Phare de Pertusato",
+            "tip": "Paysage de falaise solitaire.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -805,6 +884,12 @@
           {
             "name": "Olive Oil Shop",
             "tip": "Local olive oil."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutique d'huile d'olive",
+            "tip": "Huile d'olive locale."
           }
         ]
       },
@@ -832,6 +917,12 @@
           "Be careful with strong winds.",
           "Pushing the bike is mandatory in the old town.",
           "Always wear a helmet."
+        ],
+        "fr": [
+          "Utilisez la route côtière.",
+          "Faites attention aux vents forts.",
+          "Pousser le vélo est obligatoire dans la vieille ville.",
+          "Portez toujours un casque."
         ]
       },
       "variants": {
@@ -1012,7 +1103,8 @@
             "de": "Regnerischer Start am Hafen, wo die glatten Pflastersteine volle Konzentration fordern. Mittags geht es hinaus zum Leuchtturm, wobei der Wind den Regen peitscht – eine echte Herausforderung. Am Nachmittag suchen Sie Schutz in der Zitadelle, während Ihr Rad sicher abgestellt ist. Der Abend endet mit der Rückfahrt zum Hafen, wo die Lichter auf dem nassen Asphalt tanzen.",
             "hu": "Esős kezdés a kikötőben, ahol a síkos utcakövek teljes koncentrációt igényelnek. Délben a világítótorony felé vesszük az irányt, miközben a szél ostorozza az esőt – igazi kihívás. Délután a citadellában keresünk menedéket, miközben a kerékpárt biztonságban leparkoljuk. Az este a kikötőbe való visszatéréssel zárul, ahol a fények táncolnak a vizes aszfalton.",
             "ro": "Început ploios în port, unde pavajul umed necesită concentrare maximă. La prânz, pedalăm spre far în timp ce vântul biciuiește ploaia – o adevărată provocare. După-amiaza căutăm adăpost în cetate, lăsând bicicleta parcată în siguranță. Seara se încheie cu întoarcerea în port, unde luminile dansează pe asfaltul ud.",
-            "en": "A rainy start at the port, where the slick cobblestones demand full concentration. At noon, head out toward the lighthouse as the wind whips the rain—a true cycling challenge. Afternoon is spent sheltering in the Citadel while your bike is securely parked. The evening concludes with a ride back to the port, lights reflecting off the wet asphalt."
+            "en": "A rainy start at the port, where the slick cobblestones demand full concentration. At noon, head out toward the lighthouse as the wind whips the rain—a true cycling challenge. Afternoon is spent sheltering in the Citadel while your bike is securely parked. The evening concludes with a ride back to the port, lights reflecting off the wet asphalt.",
+            "fr": "Un début pluvieux au port, où les pavés glissants exigent une concentration totale. À midi, dirigez-vous vers le phare alors que le vent fouette la pluie — un véritable défi cycliste. L'après-midi se passe à l'abri dans la citadelle pendant que votre vélo est garé en toute sécurité. La soirée se termine par un trajet de retour au port, les lumières se reflétant sur l'asphalte mouillé."
           },
           "stops": [
             {
@@ -1021,7 +1113,8 @@
                 "de": "Vorsicht beim Anfahren auf dem nassen Kopfsteinpflaster.",
                 "hu": "Vigyázat az induláskor a nedves macskaköveken.",
                 "ro": "Atenție la pornirea de pe loc pe pavajul umed.",
-                "en": "Be careful when starting off on the wet cobblestones."
+                "en": "Be careful when starting off on the wet cobblestones.",
+                "fr": "Soyez prudent en démarrant sur les pavés mouillés."
               }
             },
             {
@@ -1030,7 +1123,8 @@
                 "de": "Der Weg zum Leuchtturm ist sehr exponiert; achten Sie auf Böen.",
                 "hu": "A világítótoronyhoz vezető út nagyon kitett; figyeljen a széllökésekre.",
                 "ro": "Drumul spre far este foarte expus; atenție la rafalele de vânt.",
-                "en": "The path to the lighthouse is very exposed; watch for wind gusts."
+                "en": "The path to the lighthouse is very exposed; watch for wind gusts.",
+                "fr": "Le chemin vers le phare est très exposé ; attention aux rafales de vent."
               }
             },
             {
@@ -1039,7 +1133,8 @@
                 "de": "Parken Sie das Rad und erkunden Sie die Gassen zu Fuß.",
                 "hu": "Parkolja le a bringát, és gyalogosan fedezze fel a szűk utcákat.",
                 "ro": "Parcați bicicleta și explorați străduțele pe jos.",
-                "en": "Park your bike and explore the narrow alleys on foot."
+                "en": "Park your bike and explore the narrow alleys on foot.",
+                "fr": "Garez votre vélo et explorez les ruelles étroites à pied."
               }
             },
             {
@@ -1048,7 +1143,8 @@
                 "de": "Nutzen Sie den Besuch für eine Trockenpause.",
                 "hu": "Használja ki a látogatást egy száradási szünetre.",
                 "ro": "Folosiți vizita pentru o pauză în care să vă uscați.",
-                "en": "Use this visit as a chance to dry off and take a break."
+                "en": "Use this visit as a chance to dry off and take a break.",
+                "fr": "Profitez de cette visite pour vous sécher et faire une pause."
               }
             },
             {
@@ -1057,7 +1153,8 @@
                 "de": "Stellen Sie das Rad bei Wind sicher ab, um Umstürze zu vermeiden.",
                 "hu": "Szélben támassza le stabilan a gépet, nehogy felboruljon.",
                 "ro": "Parcați bicicleta stabil pentru a preveni răsturnarea ei de vânt.",
-                "en": "Park the bike securely to prevent it from blowing over in the wind."
+                "en": "Park the bike securely to prevent it from blowing over in the wind.",
+                "fr": "Attachez bien votre vélo pour éviter qu'il ne soit renversé par le vent."
               }
             },
             {
@@ -1066,7 +1163,8 @@
                 "de": "Reinigen Sie die Bremsen nach der Fahrt von Sand und Salz.",
                 "hu": "A túra után tisztítsa meg a fékeket a homoktól és a sótól.",
                 "ro": "Curățați frânele de nisip și sare după finalizarea traseului.",
-                "en": "Clean your brakes of sand and salt after finishing the ride."
+                "en": "Clean your brakes of sand and salt after finishing the ride.",
+                "fr": "Nettoyez le sable et le sel de vos freins après la balade."
               }
             }
           ],
@@ -1094,6 +1192,12 @@
               "Waterproof panniers are essential to keep your gear dry.",
               "Avoid sudden braking on the white limestone-covered areas.",
               "Visibility can be significantly reduced on cliffside paths during rain."
+            ],
+            "fr": [
+              "Réduisez légèrement la pression des pneus pour une meilleure adhérence sur sol mouillé.",
+              "Des sacoches étanches sont essentielles pour garder vos affaires au sec.",
+              "Évitez les freinages brusques sur les zones recouvertes de calcaire blanc.",
+              "La visibilité peut être considérablement réduite sur les sentiers de falaise pendant la pluie."
             ]
           }
         },
@@ -1102,7 +1206,8 @@
             "de": "Ein frischer Wintermorgen im Hafen, ideal für eine Radtour ohne Hitze. Mittags führt die Strecke entlang der Klippen, wo der kühle Wind Ihre Ausdauer prüft. Am Nachmittag bietet die Auffahrt zur Zitadelle ein gutes Training, während die Altstadt fast verlassen wirkt. Der Abendhimmel färbt sich spektakulär, bevor Sie Ihr Rad sicher im Hafen zurückgeben.",
             "hu": "Friss téli reggel a kikötőben, ideális egy biciklitúrához hőség nélkül. Délben az útvonal a sziklák mentén vezet, ahol a hűvös szél próbára teszi az állóképességét. Délután a citadellába vezető emelkedő jó edzés, miközben az óváros szinte elhagyatott. Az esti égbolt látványos színeket ölt, mielőtt visszaadná a kerékpárt a kikötőben.",
             "ro": "O dimineață răcoroasă de iarnă în port, ideală pentru pedalat fără căldură. La prânz, traseul continuă de-a lungul falezei, unde vântul rece vă testează rezistența. După-amiaza, urcarea spre cetate oferă un antrenament bun, în timp ce orașul vechi pare aproape pustiu. Cerul de seară capătă culori spectaculoase înainte de a returna bicicleta în port.",
-            "en": "A crisp winter morning at the port, perfect for cycling without the summer heat. At noon, the route follows the cliffs where the cool wind tests your stamina. Afternoon brings a rewarding climb to the Citadel, which feels nearly deserted in the best way. The evening sky turns spectacular colors before you return your bike to the port."
+            "en": "A crisp winter morning at the port, perfect for cycling without the summer heat. At noon, the route follows the cliffs where the cool wind tests your stamina. Afternoon brings a rewarding climb to the Citadel, which feels nearly deserted in the best way. The evening sky turns spectacular colors before you return your bike to the port.",
+            "fr": "Une matinée d'hiver tonifiante au port, idéale pour faire du vélo sans la chaleur estivale. À midi, l'itinéraire suit les falaises où le vent frais teste votre endurance. L'après-midi offre une montée gratifiante vers la citadelle, qui semble presque déserte, de la meilleure façon possible. Le ciel du soir prend des couleurs spectaculaires avant de ramener votre vélo au port."
           },
           "stops": [
             {
@@ -1111,7 +1216,8 @@
                 "de": "Tragen Sie Schichten, um sich beim Radfahren warm zu halten.",
                 "hu": "Öltözzön rétegesen, hogy tekerés közben ne fázzon meg.",
                 "ro": "Purtați haine în straturi pentru a vă menține căldura în timp ce pedalați.",
-                "en": "Wear layers to stay warm while cycling in the crisp air."
+                "en": "Wear layers to stay warm while cycling in the crisp air.",
+                "fr": "Superposez les couches pour rester au chaud dans l'air frais."
               }
             },
             {
@@ -1120,7 +1226,8 @@
                 "de": "Vorsicht vor starken Seitenwinden auf dem Weg zum Kap.",
                 "hu": "Vigyázzon az erős oldalszélre a fok felé vezető úton.",
                 "ro": "Atenție la vântul lateral puternic pe drumul spre capătul falezei.",
-                "en": "Watch out for strong crosswinds on the path to the cape."
+                "en": "Watch out for strong crosswinds on the path to the cape.",
+                "fr": "Attention aux vents de travers sur le chemin du cap."
               }
             },
             {
@@ -1129,7 +1236,8 @@
                 "de": "Nutzen Sie den Anstieg, um die Körpertemperatur zu erhöhen.",
                 "hu": "Használja ki az emelkedőt testhőmérséklete emelésére.",
                 "ro": "Folosiți urcușul pentru a vă crește temperatura corporală.",
-                "en": "Use the uphill climb to warm up your body temperature."
+                "en": "Use the uphill climb to warm up your body temperature.",
+                "fr": "Utilisez la montée pour réchauffer votre corps."
               }
             },
             {
@@ -1138,7 +1246,8 @@
                 "de": "Kurze Pause im Windschatten der massiven Mauern.",
                 "hu": "Rövid pihenő a masszív falak szélárnyékában.",
                 "ro": "O scurtă pauză la adăpostul zidurilor masive.",
-                "en": "Take a short break in the lee of the massive fortress walls."
+                "en": "Take a short break in the lee of the massive fortress walls.",
+                "fr": "Faites une courte pause à l'abri des murs massifs de la forteresse."
               }
             },
             {
@@ -1147,7 +1256,8 @@
                 "de": "Das Licht am späten Nachmittag ist perfekt für Fotos.",
                 "hu": "A késő délutáni fények tökéletesek a fotózáshoz.",
                 "ro": "Lumina de după-amiază târzie este perfectă pentru fotografii.",
-                "en": "Late afternoon light is perfect for capturing dramatic photos."
+                "en": "Late afternoon light is perfect for capturing dramatic photos.",
+                "fr": "La lumière de fin d'après-midi est parfaite pour des photos spectaculaires."
               }
             },
             {
@@ -1156,7 +1266,8 @@
                 "de": "Abends kühlt es schnell ab, ziehen Sie rechtzeitig die Jacke an.",
                 "hu": "Este gyorsan hűl a levegő, idejében vegye fel a kabátot.",
                 "ro": "Seara se răcește rapid; puneți-vă jacheta la timp.",
-                "en": "Temperatures drop quickly in the evening; put your jacket on early."
+                "en": "Temperatures drop quickly in the evening; put your jacket on early.",
+                "fr": "Les températures chutent vite le soir ; mettez votre veste tôt."
               }
             }
           ],
@@ -1184,6 +1295,12 @@
               "A neck gaiter protects you from the salty, freezing sea breeze.",
               "The low sun can be blinding; don't forget your sunglasses.",
               "Check tire pressure as it can drop in colder temperatures."
+            ],
+            "fr": [
+              "Portez des gants longs pour vous protéger du froid du vent.",
+              "Un cache-col vous protège de la brise marine salée et glaciale.",
+              "Le soleil bas peut être éblouissant ; n'oubliez pas vos lunettes de soleil.",
+              "Vérifiez la pression des pneus car elle peut baisser avec les températures froides."
             ]
           }
         }
@@ -1212,7 +1329,8 @@
             "de": "Parkhaus am Hafen.",
             "hu": "Parkoló a kikötőben.",
             "ro": "Parcare în port.",
-            "en": "Parking by the port."
+            "en": "Parking by the port.",
+            "fr": "Parking près du port."
           }
         },
         {
@@ -1230,7 +1348,8 @@
             "de": "Bootstour ab Hafen.",
             "hu": "Hajótúra a kikötőből.",
             "ro": "Tur cu barca din port.",
-            "en": "Boat tour from port."
+            "en": "Boat tour from port.",
+            "fr": "Tour en bateau depuis le port."
           }
         },
         {
@@ -1248,7 +1367,8 @@
             "de": "Zu Fuß zum Leuchtturm.",
             "hu": "Gyalog a toronyhoz.",
             "ro": "Pe jos până la far.",
-            "en": "Walk to the lighthouse."
+            "en": "Walk to the lighthouse.",
+            "fr": "Marche vers le phare."
           }
         },
         {
@@ -1266,7 +1386,8 @@
             "de": "Zentrale Festung.",
             "hu": "Központi erőd.",
             "ro": "Cetatea centrală.",
-            "en": "Central fortress."
+            "en": "Central fortress.",
+            "fr": "Forteresse centrale."
           }
         },
         {
@@ -1284,7 +1405,8 @@
             "de": "Ikonischer Abstieg.",
             "hu": "Ikonikus lépcsősor.",
             "ro": "Scara iconică.",
-            "en": "Iconic descent."
+            "en": "Iconic descent.",
+            "fr": "Descente emblématique."
           }
         }
       ],
@@ -1292,7 +1414,8 @@
         "de": "Nutzen Sie das Auto für die weitere Umgebung. Starten Sie mit einer Bootstour zur Sdragonato-Grotte. Danach fahren Sie zum Parkplatz nahe Pertusato und wandern zum Leuchtturm. Den Nachmittag verbringen Sie in der Zitadelle und erklimmen die berühmte Treppe, bevor Sie den Tag entspannt im Hafen ausklingen lassen.",
         "hu": "Használja az autót a távolabbi helyszínekhez. Kezdjen egy hajótúrával a Sdragonato-barlanghoz a kikötőből. Ezután hajtson a Pertusato melletti parkolóba, és sétáljon el a világítótoronyhoz. A délutánt a fellegvárban töltheti, megmászva a híres lépcsőt, majd lazítson a kikötőben.",
         "ro": "Folosiți mașina pentru împrejurimi. Începeți cu o excursie cu barca la grota Sdragonato. Apoi conduceți spre parcarea de lângă Pertusato și mergeți pe jos până la far. După-amiaza o petreceți în citadelă, urcând faimoasa scară, înainte de a încheia ziua relaxat în port.",
-        "en": "Use the car to explore the wider area. Start with a boat trip to the Sdragonato cave from the harbor. Then drive to the parking area near Pertusato and hike to the lighthouse. Spend your afternoon in the Citadel and climb the famous steps before relaxing at the marina."
+        "en": "Use the car to explore the wider area. Start with a boat trip to the Sdragonato cave from the harbor. Then drive to the parking area near Pertusato and hike to the lighthouse. Spend your afternoon in the Citadel and climb the famous steps before relaxing at the marina.",
+        "fr": "Utilisez la voiture pour explorer les environs. Commencez par une sortie en bateau vers la grotte de Sdragonato depuis le port. Ensuite, conduisez jusqu'au parking près de Pertusato et marchez jusqu'au phare. Passez votre après-midi dans la citadelle et montez les célèbres marches avant de vous détendre à la marina."
       },
       "gastro_picks": {
         "de": [
@@ -1317,6 +1440,12 @@
           {
             "name": "Lobster",
             "tip": "Fresh local lobster."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Homard",
+            "tip": "Homard local frais."
           }
         ]
       },
@@ -1348,6 +1477,13 @@
             "tip": "Small beach under cliffs.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plage de Sutta Rocca",
+            "tip": "Petite plage sous les falaises.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1373,6 +1509,12 @@
           {
             "name": "Corsican Products",
             "tip": "Cheese and ham shops."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Produits corses",
+            "tip": "Boutiques de fromage et de jambon."
           }
         ]
       },
@@ -1400,6 +1542,12 @@
           "Avoid rush hours.",
           "Roads are narrow.",
           "Use the harbor parking lots."
+        ],
+        "fr": [
+          "Le stationnement en Haute-Ville est difficile.",
+          "Évitez les heures de pointe.",
+          "Les routes sont étroites.",
+          "Utilisez les parkings du port."
         ]
       },
       "variants": {
@@ -1580,7 +1728,8 @@
             "de": "Die Fahrt beginnt im Hafen, während der Scheibenwischer den Rhythmus vorgibt. Mittags bietet das Auto den perfekten Schutz bei der Fahrt zur Grotte und zum Leuchtturm, auch wenn die Aussicht wolkenverhangen ist. Am Nachmittag erkunden Sie die Zitadelle, wobei Sie die Nähe zum Parkplatz schätzen. Der Abend endet trocken und komfortabel in der Unterstadt.",
             "hu": "Az út a kikötőben kezdődik, miközben az ablaktörlő adja a ritmust. Délben az autó tökéletes menedéket nyújt a barlanghoz és a toronyhoz vezető úton, még ha a kilátást felhők is borítják. Délután a citadellát fedezzük fel, értékelve a parkoló közelségét. Az este szárazon és kényelmesen zárul az alsóvárosban.",
             "ro": "Călătoria începe în port, în timp ce ștergătoarele dau ritmul. La prânz, mașina oferă adăpostul perfect în drum spre grotă și far, chiar dacă priveliștea este înnorată. După-amiaza explorați cetatea, apreciind proximitatea parcării. Seara se încheie confortabil și la adăpost în orașul de jos.",
-            "en": "The drive begins at the port as windshield wipers set the rhythm. At noon, your car provides the perfect sanctuary for the trip to the cave and lighthouse, even with cloudy views. Afternoon is spent exploring the Citadel, making the most of nearby parking. The evening concludes comfortably and dry back in the lower town."
+            "en": "The drive begins at the port as windshield wipers set the rhythm. At noon, your car provides the perfect sanctuary for the trip to the cave and lighthouse, even with cloudy views. Afternoon is spent exploring the Citadel, making the most of nearby parking. The evening concludes comfortably and dry back in the lower town.",
+            "fr": "Le trajet commence au port alors que les essuie-glaces donnent le rythme. À midi, votre voiture offre le refuge parfait pour l'excursion vers la grotte et le phare, malgré la vue nuageuse. L'après-midi est consacré à l'exploration de la citadelle, en profitant des parkings à proximité. La soirée se termine confortablement au sec en ville basse."
           },
           "stops": [
             {
@@ -1589,7 +1738,8 @@
                 "de": "Parkhäuser in der Unterstadt nutzen, um trocken auszusteigen.",
                 "hu": "Használja az alsóvárosi parkolóházakat a száraz kiszálláshoz.",
                 "ro": "Folosiți parcările etajate din orașul de jos pentru a ieși la uscat.",
-                "en": "Use the multi-story car parks in the lower town to stay dry."
+                "en": "Use the multi-story car parks in the lower town to stay dry.",
+                "fr": "Utilisez les parkings couverts en ville basse pour rester au sec."
               }
             },
             {
@@ -1598,7 +1748,8 @@
                 "de": "Bootstouren können bei Regen und Seegang ausfallen.",
                 "hu": "Esőben és hullámzáskor a hajótúrák elmaradhatnak.",
                 "ro": "Tururile cu barca pot fi anulate în caz de ploaie sau mare agitată.",
-                "en": "Boat tours may be cancelled during rain or rough seas."
+                "en": "Boat tours may be cancelled during rain or rough seas.",
+                "fr": "Les tours en bateau peuvent être annulés en cas de pluie ou de mer agitée."
               }
             },
             {
@@ -1607,7 +1758,8 @@
                 "de": "Bleiben Sie bei heftigen Schauern für die Aussicht im Auto.",
                 "hu": "Heves záporok esetén maradjon az autóban a kilátásért.",
                 "ro": "Rămâneți în mașină pentru priveliște în timpul averselor intense.",
-                "en": "Stay in the car for the view during heavy downpours."
+                "en": "Stay in the car for the view during heavy downpours.",
+                "fr": "Restez dans la voiture pour profiter de la vue pendant les fortes averses."
               }
             },
             {
@@ -1616,7 +1768,8 @@
                 "de": "Parkplatz P3 ist am nächsten am Eingang der Oberstadt.",
                 "hu": "A P3 parkoló van legközelebb a felsőváros bejáratához.",
                 "ro": "Parcarea P3 este cea mai apropiată de intrarea în orașul de sus.",
-                "en": "Parking lot P3 is the closest to the upper town entrance."
+                "en": "Parking lot P3 is the closest to the upper town entrance.",
+                "fr": "Le parking P3 est le plus proche de l'entrée de la ville haute."
               }
             },
             {
@@ -1625,7 +1778,8 @@
                 "de": "Prüfen Sie vor dem Aussteigen, ob der Abstieg geöffnet ist.",
                 "hu": "Kiszállás előtt ellenőrizze, hogy a lejáró nyitva van-e.",
                 "ro": "Verificați dacă accesul la scară este deschis înainte de a coborî.",
-                "en": "Check if the staircase access is open before getting out of the car."
+                "en": "Check if the staircase access is open before getting out of the car.",
+                "fr": "Vérifiez si l'accès à l'escalier est ouvert avant de descendre de voiture."
               }
             },
             {
@@ -1634,7 +1788,8 @@
                 "de": "Nutzen Sie den Komfort des Autos für den Kleidungswechsel.",
                 "hu": "Használja ki az autó kényelmét az átöltözéshez.",
                 "ro": "Folosiți confortul mașinii pentru a vă schimba hainele.",
-                "en": "Take advantage of the car's comfort to change wet clothes."
+                "en": "Take advantage of the car's comfort to change wet clothes.",
+                "fr": "Profitez du confort de la voiture pour changer de vêtements mouillés."
               }
             }
           ],
@@ -1662,6 +1817,12 @@
               "Foggy windows can be an issue due to the high humidity.",
               "The narrow roads to the upper town are tricky when wet.",
               "Keep some spare change ready for the parking meters."
+            ],
+            "fr": [
+              "Évitez de vous garer dans les zones basses pendant les fortes pluies torrentielles.",
+              "La buée sur les vitres peut être un problème en raison de l'humidité élevée.",
+              "Les routes étroites menant à la ville haute sont délicates quand elles sont mouillées.",
+              "Gardez de la monnaie pour les parcmètres."
             ]
           }
         },
@@ -1670,7 +1831,8 @@
             "de": "Die Wintertour mit dem Auto startet entspannt im fast leeren Hafen. Mittags genießen Sie die Panoramafahrt zum Kap Pertusato, wobei die Heizung für Wohlbefinden sorgt. Am Nachmittag finden Sie mühelos einen Parkplatz direkt an der Zitadelle. Der frühe Sonnenuntergang lässt sich perfekt von einem Aussichtspunkt aus beobachten, bevor Sie zurück in den Hafen fahren.",
             "hu": "A téli autós túra nyugodtan indul a szinte üres kikötőben. Délben élvezheti a panorámautat a Pertusato-fokhoz, miközben a fűtés biztosítja a kényelmet. Délután könnyedén talál parkolót közvetlenül a citadellánál. A korai naplemente tökéletesen megfigyelhető egy kilátópontról, mielőtt visszahajtana a kikötőbe.",
             "ro": "Turul de iarnă cu mașina începe relaxat în portul aproape pustiu. La prânz, vă bucurați de drumul panoramic spre Capul Pertusato în confortul încălzirii. După-amiaza găsiți cu ușurință un loc de parcare chiar lângă cetate. Apusul timpuriu poate fi observat perfect de la un punct de belvedere înainte de a reveni în port.",
-            "en": "Your winter car tour starts relaxed in the nearly empty port. At noon, enjoy the panoramic drive to Cape Pertusato in the warmth of your vehicle. Afternoon brings effortless parking right by the Citadel. The early sunset is best observed from a scenic viewpoint before heading back down to the port."
+            "en": "Your winter car tour starts relaxed in the nearly empty port. At noon, enjoy the panoramic drive to Cape Pertusato in the warmth of your vehicle. Afternoon brings effortless parking right by the Citadel. The early sunset is best observed from a scenic viewpoint before heading back down to the port.",
+            "fr": "Votre tour en voiture hivernal commence détendu dans un port presque vide. À midi, profitez de la route panoramique vers le cap Pertusato dans la chaleur de votre véhicule. L'après-midi offre un stationnement sans effort juste à côté de la citadelle. Le coucher de soleil précoce s'observe mieux depuis un point de vue panoramique avant de redescendre vers le port."
           },
           "stops": [
             {
@@ -1679,7 +1841,8 @@
                 "de": "Parken ist im Winter oft günstiger oder zeitweise gratis.",
                 "hu": "Télen a parkolás gyakran olcsóbb vagy időszakosan ingyenes.",
                 "ro": "Parcarea este adesea mai ieftină sau temporar gratuită iarna.",
-                "en": "Parking is often cheaper or occasionally free during winter."
+                "en": "Parking is often cheaper or occasionally free during winter.",
+                "fr": "Le parking est souvent moins cher ou parfois gratuit en hiver."
               }
             },
             {
@@ -1688,7 +1851,8 @@
                 "de": "Genießen Sie den Blick von den Klippen oberhalb der Grotte.",
                 "hu": "Élvezze a kilátást a barlang feletti sziklákról.",
                 "ro": "Bucurați-vă de priveliștea de pe stâncile de deasupra grotei.",
-                "en": "Enjoy the dramatic views from the cliffs above the cave."
+                "en": "Enjoy the dramatic views from the cliffs above the cave.",
+                "fr": "Profitez de la vue spectaculaire depuis les falaises au-dessus de la grotte."
               }
             },
             {
@@ -1697,7 +1861,8 @@
                 "de": "Das Auto schützt vor dem eisigen Wind am exponierten Kap.",
                 "hu": "Az autó megvédi a jeges széltől a kitett foknál.",
                 "ro": "Mașina vă protejează de vântul înghețat la capătul expus.",
-                "en": "The car protects you from the icy wind at the exposed cape."
+                "en": "The car protects you from the icy wind at the exposed cape.",
+                "fr": "La voiture vous protège du vent glacial au cap exposé."
               }
             },
             {
@@ -1706,7 +1871,8 @@
                 "de": "Nutzen Sie die leeren Parkplätze direkt am Eingang P3.",
                 "hu": "Használja ki az üres parkolóhelyeket a P3 bejáratnál.",
                 "ro": "Profitați de parcările goale chiar la intrarea P3.",
-                "en": "Take advantage of the empty parking spots right at the P3 entrance."
+                "en": "Take advantage of the empty parking spots right at the P3 entrance.",
+                "fr": "Profitez des places de parking vides juste à l'entrée du P3."
               }
             },
             {
@@ -1715,7 +1881,8 @@
                 "de": "Jacke mitnehmen, der Wind am Treppenhang ist im Winter kalt.",
                 "hu": "Vigyen kabátot, a lépcsőoldalban a szél télen hideg.",
                 "ro": "Luați o jachetă; vântul pe versantul scării este rece iarna.",
-                "en": "Bring a jacket; the wind on the staircase slope is cold in winter."
+                "en": "Bring a jacket; the wind on the staircase slope is cold in winter.",
+                "fr": "Apportez une veste ; le vent sur la pente de l'escalier est froid en hiver."
               }
             },
             {
@@ -1724,7 +1891,8 @@
                 "de": "Ideale Zeit, um die Hafenstimmung ohne Lärm zu genießen.",
                 "hu": "Ideális idő a kikötői hangulat zajtalan élvezetéhez.",
                 "ro": "Momentul ideal pentru a savura atmosfera portului fără zgomot.",
-                "en": "Ideal time to soak in the port atmosphere without the noise."
+                "en": "Ideal time to soak in the port atmosphere without the noise.",
+                "fr": "Moment idéal pour s'imprégner de l'atmosphère du port sans le bruit."
               }
             }
           ],
@@ -1752,6 +1920,12 @@
               "Using frost-resistant windshield washer fluid is advisable.",
               "Enjoy the open roads that are normally congested in summer.",
               "Plan your return trip before the early darkness sets in."
+            ],
+            "fr": [
+              "Vérifiez votre batterie ; le froid et les trajets courts peuvent la fatiguer.",
+              "L'utilisation d'un liquide lave-glace résistant au gel est conseillée.",
+              "Profitez des routes dégagées qui sont normalement encombrées en été.",
+              "Planifiez votre retour avant que l'obscurité précoce ne s'installe."
             ]
           }
         }
@@ -1780,7 +1954,8 @@
             "de": "Petit Train Abfahrt.",
             "hu": "Kisvonat indulás.",
             "ro": "Plecare Petit Train.",
-            "en": "Petit Train departure."
+            "en": "Petit Train departure.",
+            "fr": "Départ du Petit Train."
           }
         },
         {
@@ -1798,7 +1973,8 @@
             "de": "Zitadellen-Zug.",
             "hu": "Vár-vonat.",
             "ro": "Trenulețul cetății.",
-            "en": "Citadel shuttle train."
+            "en": "Citadel shuttle train.",
+            "fr": "Navette pour la Citadelle."
           }
         },
         {
@@ -1816,7 +1992,8 @@
             "de": "Im Herzen der Altstadt.",
             "hu": "Az óváros szívében.",
             "ro": "În inima orașului vechi.",
-            "en": "In the heart of old town."
+            "en": "In the heart of old town.",
+            "fr": "Au cœur de la vieille ville."
           }
         },
         {
@@ -1834,7 +2011,8 @@
             "de": "Spaziergang am Ende.",
             "hu": "Séta a végén.",
             "ro": "Plimbare la final.",
-            "en": "Walk at the end."
+            "en": "Walk at the end.",
+            "fr": "Marche à la fin."
           }
         }
       ],
@@ -1842,7 +2020,8 @@
         "de": "Nutzen Sie den 'Petit Train', um bequem vom Hafen in die Zitadelle zu gelangen. Verbringen Sie den Vormittag mit der Erkundung der Festung und der Hauptkirche Sainte-Marie-Majeure. Nach einem Besuch des beeindruckenden Seefahrerfriedhofs bringt Sie der Zug oder ein kurzer Spaziergang zurück zum Hafen für einen entspannten Nachmittag am Wasser.",
         "hu": "Vegye igénybe a 'Petit Train' kisvonatot, hogy kényelmesen feljusson a kikötőből a fellegvárba. Töltse a délelőttöt az erőd és a Sainte-Marie-Majeure főtemplom felfedezésével. A lenyűgöző tengerparti temető megtekintése után a vonat vagy egy rövid séta visszaviszi a kikötőbe egy pihentető délutánra a vízparton.",
         "ro": "Folosiți „Petit Train” pentru a ajunge confortabil din port în citadelă. Petreceți dimineața explorând fortăreața și biserica principală Sainte-Marie-Majeure. După o vizită la impresionantul cimitir marin, trenulețul sau o scurtă plimbare vă va duce înapoi în port pentru o după-amiază relaxantă la malul apei.",
-        "en": "Use the 'Petit Train' to comfortably travel from the port up to the Citadel. Spend the morning exploring the fortress and the main church, Sainte-Marie-Majeure. After visiting the impressive Marine Cemetery, the train or a short walk will take you back to the port for a relaxing afternoon by the water."
+        "en": "Use the 'Petit Train' to comfortably travel from the port up to the Citadel. Spend the morning exploring the fortress and the main church, Sainte-Marie-Majeure. After visiting the impressive Marine Cemetery, the train or a short walk will take you back to the port for a relaxing afternoon by the water.",
+        "fr": "Utilisez le « Petit Train » pour vous rendre confortablement du port à la citadelle. Passez la matinée à explorer la forteresse et l'église principale, Sainte-Marie-Majeure. Après avoir visité l'impressionnant cimetière marin, le train ou une courte marche vous ramènera au port pour un après-midi de détente au bord de l'eau."
       },
       "gastro_picks": {
         "de": [
@@ -1867,6 +2046,12 @@
           {
             "name": "Canistrelli",
             "tip": "Corsican shortbread biscuits."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Canistrelli",
+            "tip": "Biscuits sablés corses."
           }
         ]
       },
@@ -1898,6 +2083,13 @@
             "tip": "Watch the yachts.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Port de Bonifacio",
+            "tip": "Observez les yachts.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1923,6 +2115,12 @@
           {
             "name": "Quai Jérôme Comparetti",
             "tip": "Many small shops."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Quai Jérôme Comparetti",
+            "tip": "Nombreuses petites boutiques."
           }
         ]
       },
@@ -1950,6 +2148,12 @@
           "Trains run every 20 minutes.",
           "Ideal during hot weather.",
           "The station is at the end of the port."
+        ],
+        "fr": [
+          "Achetez un ticket à la journée pour le train touristique.",
+          "Les trains passent toutes les 20 minutes.",
+          "Idéal par temps chaud.",
+          "La gare se trouve à l'extrémité du port."
         ]
       },
       "variants": {
@@ -2121,7 +2325,8 @@
             "de": "Der Regentag startet im Hafen, wo der 'Petit Train' Sie trocken zur Oberstadt bringt. Mittags erkunden Sie die überdachten Bereiche der Zitadelle und Kirchen. Am Nachmittag bietet der Bus oder das Shuttle Schutz vor den Schauern, während Sie zwischen den Sehenswürdigkeiten pendeln. Der Abend endet gemütlich in Hafennähe, leicht erreichbar mit dem öffentlichen Nahverkehr.",
             "hu": "Az esős nap a kikötőben indul, ahol a 'Petit Train' szárazon viszi fel a felsővárosba. Délben a citadella fedett részeit és a templomokat fedezzük fel. Délután a busz vagy a transzfer nyújt menedéket a záporok elől a látnivalók között. Az este a kikötő közelében zárul, amely tömegközlekedéssel könnyen elérhető.",
             "ro": "Ziua ploioasă începe în port, unde 'Petit Train' vă duce la uscat în orașul de sus. La prânz, explorați zonele acoperite ale cetății și bisericile. După-amiaza, autobuzul sau naveta oferă protecție împotriva averselor între obiective. Seara se încheie confortabil lângă port, ușor accesibil cu transportul public.",
-            "en": "The rainy day begins at the port, where the 'Petit Train' takes you dry to the upper town. At noon, explore the sheltered areas of the Citadel and the churches. Afternoon shuttles or buses provide sanctuary from showers as you move between sights. The evening ends cozily near the port, easily reached by local public transport."
+            "en": "The rainy day begins at the port, where the 'Petit Train' takes you dry to the upper town. At noon, explore the sheltered areas of the Citadel and the churches. Afternoon shuttles or buses provide sanctuary from showers as you move between sights. The evening ends cozily near the port, easily reached by local public transport.",
+            "fr": "La journée pluvieuse commence au port, où le « Petit Train » vous emmène au sec vers la ville haute. À midi, explorez les zones abritées de la citadelle et les églises. L'après-midi, les navettes ou les bus offrent un refuge contre les averses lors de vos déplacements entre les sites. La soirée se termine confortablement près du port, facilement accessible par les transports publics locaux."
           },
           "stops": [
             {
@@ -2130,7 +2335,8 @@
                 "de": "Warten Sie in den wetterfesten Wartehallen auf den Bus.",
                 "hu": "Várja a buszt az időjárásálló várótermekben.",
                 "ro": "Așteptați autobuzul în sălile de așteptare protejate de intemperii.",
-                "en": "Wait for the bus in the weather-protected waiting areas."
+                "en": "Wait for the bus in the weather-protected waiting areas.",
+                "fr": "Attendez le bus dans les zones d'attente protégées des intempéries."
               }
             },
             {
@@ -2139,7 +2345,8 @@
                 "de": "Der 'Petit Train' ist bei Regen oft die beste Wahl.",
                 "hu": "Esőben a kisvonat gyakran a legjobb választás.",
                 "ro": "Micul tren ('Petit Train') este adesea cea mai bună alegere pe ploaie.",
-                "en": "The 'Petit Train' is often the best choice during rain."
+                "en": "The 'Petit Train' is often the best choice during rain.",
+                "fr": "Le « Petit Train » est souvent le meilleur choix en cas de pluie."
               }
             },
             {
@@ -2148,7 +2355,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle, Schirm bereithalten.",
                 "hu": "Rövid séta a buszmegállótól, legyen kéznél az esernyő.",
                 "ro": "Drum scurt pe jos de la stație; aveți umbrela pregătită.",
-                "en": "A short walk from the bus stop; keep your umbrella ready."
+                "en": "A short walk from the bus stop; keep your umbrella ready.",
+                "fr": "À quelques minutes à pied de l'arrêt ; gardez votre parapluie prêt."
               }
             },
             {
@@ -2157,7 +2365,8 @@
                 "de": "Der Weg zur Haltestelle kann bei Wind ungemütlich sein.",
                 "hu": "A megállóhoz vezető út szélben kellemetlen lehet.",
                 "ro": "Drumul spre stație poate fi neplăcut în caz de vânt.",
-                "en": "The walk to the bus stop can be unpleasant in windy conditions."
+                "en": "The walk to the bus stop can be unpleasant in windy conditions.",
+                "fr": "Le trajet jusqu'à l'arrêt de bus peut être désagréable par grand vent."
               }
             },
             {
@@ -2166,7 +2375,8 @@
                 "de": "Prüfen Sie die App für Echtzeit-Abfahrten bei Regen.",
                 "hu": "Esőben ellenőrizze az applikációt a valós idejű indulásokhoz.",
                 "ro": "Verificați aplicația pentru plecările în timp real pe timp de ploaie.",
-                "en": "Check the app for real-time departures during rainy weather."
+                "en": "Check the app for real-time departures during rainy weather.",
+                "fr": "Consultez l'application pour les départs en temps réel par temps de pluie."
               }
             }
           ],
@@ -2194,6 +2404,12 @@
               "The 'Petit Train' often operates with protective covers during rain.",
               "Wear waterproof clothing for the segments between stops.",
               "Bus frequency may vary depending on poor weather conditions."
+            ],
+            "fr": [
+              "Achetez vos billets en ligne pour éviter d'attendre dehors sous la pluie.",
+              "Le « Petit Train » fonctionne souvent avec des protections en cas de pluie.",
+              "Portez des vêtements imperméables pour les trajets entre les arrêts.",
+              "La fréquence des bus peut varier en fonction des mauvaises conditions météo."
             ]
           }
         },
@@ -2202,7 +2418,8 @@
             "de": "Ein ruhiger Wintertag beginnt im Hafen, wo Sie den Fahrplan der Nebensaison nutzen. Mittags bringt Sie das Shuttle zur Zitadelle, während Sie den Blick auf die leeren Kais genießen. Am Nachmittag erkunden Sie die historische Oberstadt ohne die sommerliche Hektik. Der frühe Abend führt Sie zurück zum Hafen, wo die Beleuchtung in der klaren Winterluft besonders hell strahlt.",
             "hu": "Egy nyugodt téli nap a kikötőben indul, ahol a holtszezoni menetrendet használjuk. Délben a transzfer felviszi a citadellába, miközben élvezheti az üres rakpart látványát. Délután a történelmi felsővárost fedezzük fel a nyári nyüzsgés nélkül. A kora este visszavisz a kikötőbe, ahol a fények különösen ragyognak a tiszta téli levegőben.",
             "ro": "O zi liniștită de iarnă începe în port, profitând de programul de extrasezon. La prânz, naveta vă duce la cetate în timp ce admirați cheiul pustiu. După-amiaza explorați orașul de sus fără agitația verii. Seara timpurie vă aduce înapoi în port, unde luminile strălucesc intens în aerul curat de iarnă.",
-            "en": "A peaceful winter day begins at the port, operating on the off-season schedule. At noon, the shuttle takes you up to the Citadel while you enjoy views of the quiet quays. Afternoon is for exploring the historic upper town without the summer rush. Early evening brings you back to the port, where lights shine brightly in the crisp winter air."
+            "en": "A peaceful winter day begins at the port, operating on the off-season schedule. At noon, the shuttle takes you up to the Citadel while you enjoy views of the quiet quays. Afternoon is for exploring the historic upper town without the summer rush. Early evening brings you back to the port, where lights shine brightly in the crisp winter air.",
+            "fr": "Une paisible journée d'hiver commence au port, fonctionnant selon les horaires de basse saison. À midi, la navette vous emmène à la citadelle tandis que vous profitez de la vue sur les quais tranquilles. L'après-midi est consacré à l'exploration de la ville haute historique sans l'agitation estivale. Le début de soirée vous ramène au port, où les lumières brillent dans l'air frais de l'hiver."
           },
           "stops": [
             {
@@ -2211,7 +2428,8 @@
                 "de": "Beachten Sie die reduzierten Fahrpläne in der Nebensaison.",
                 "hu": "Ügyeljen a csökkentett menetrendre a holtszezonban.",
                 "ro": "Atenție la programele de circulație reduse în extrasezon.",
-                "en": "Note the reduced transit schedules during the off-season."
+                "en": "Note the reduced transit schedules during the off-season.",
+                "fr": "Notez les horaires de transport réduits pendant la basse saison."
               }
             },
             {
@@ -2220,7 +2438,8 @@
                 "de": "Der 'Petit Train' macht im Winter oft eine Betriebspause.",
                 "hu": "A kisvonat télen gyakran üzemszünetet tart.",
                 "ro": "Micul tren ('Petit Train') are adesea pauză de funcționare iarna.",
-                "en": "The 'Petit Train' often takes a service break during winter."
+                "en": "The 'Petit Train' often takes a service break during winter.",
+                "fr": "Le « Petit Train » fait souvent une pause de service pendant l'hiver."
               }
             },
             {
@@ -2229,7 +2448,8 @@
                 "de": "In der Altstadt sind die Wege kurz und windgeschützt.",
                 "hu": "Az óvárosban az utak rövidek és szélvédettek.",
                 "ro": "În orașul vechi, drumurile sunt scurte și ferite de vânt.",
-                "en": "Paths in the old town are short and well-sheltered from the wind."
+                "en": "Paths in the old town are short and well-sheltered from the wind.",
+                "fr": "Les trajets dans la vieille ville sont courts et bien abrités du vent."
               }
             },
             {
@@ -2238,7 +2458,8 @@
                 "de": "Prüfen Sie den letzten Bus vor Sonnenuntergang.",
                 "hu": "Ellenőrizze az utolsó buszt naplemente előtt.",
                 "ro": "Verificați ora ultimului autobuz înainte de apus.",
-                "en": "Check the time for the last bus before sunset."
+                "en": "Check the time for the last bus before sunset.",
+                "fr": "Vérifiez l'heure du dernier bus avant le coucher du soleil."
               }
             },
             {
@@ -2247,7 +2468,8 @@
                 "de": "Die Cafés an der Haltestelle bieten Wärme beim Warten.",
                 "hu": "A megállónál lévő kávézók meleget nyújtanak várakozás közben.",
                 "ro": "Cafenelele de lângă stație oferă căldură în timp ce așteptați.",
-                "en": "Cafes near the stop provide warmth while you wait."
+                "en": "Cafes near the stop provide warmth while you wait.",
+                "fr": "Les cafés près de l'arrêt offrent de la chaleur pendant l'attente."
               }
             }
           ],
@@ -2275,6 +2497,12 @@
               "It gets noticeably colder after 5:00 PM; plan your return trip.",
               "Buses are less crowded and more comfortable in the winter.",
               "Some transit lines may operate on-demand only during winter."
+            ],
+            "fr": [
+              "Vérifiez soigneusement les horaires de fonctionnement de la navette.",
+              "Il fait nettement plus froid après 17h00 ; planifiez votre retour.",
+              "Les bus sont moins bondés et plus confortables en hiver.",
+              "Certaines lignes peuvent ne fonctionner que sur demande en hiver."
             ]
           }
         }

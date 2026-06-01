@@ -31,7 +31,8 @@
             "de": "Gehen Sie auf der Stadtmauer spazieren für die beste Aussicht.",
             "hu": "Sétáljon végig a városfalakon a legjobb kilátásért.",
             "ro": "Mergeți pe zidurile cetății pentru cea mai bună priveliște.",
-            "en": "Walk along the ramparts for the best panoramic views."
+            "en": "Walk along the ramparts for the best panoramic views.",
+            "fr": "Marchez le long des remparts pour les meilleures vues panoramiques."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Beobachten Sie die Esel in ihren berühmten Hosen.",
             "hu": "Nézze meg a híres nadrágos szamarakat a közelben.",
             "ro": "Vedeți celebrii măgăriți în pantaloni din apropiere.",
-            "en": "Spot the famous donkeys in trousers nearby."
+            "en": "Spot the famous donkeys in trousers nearby.",
+            "fr": "Repérez les célèbres ânes en culotte à proximité."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Probieren Sie die lokalen Austern direkt am Stand.",
             "hu": "Kóstolja meg a helyi osztrigát közvetlenül az árusnál.",
             "ro": "Gustați stridiile locale direct la standul din piață.",
-            "en": "Taste local oysters directly at the market stalls."
+            "en": "Taste local oysters directly at the market stalls.",
+            "fr": "Dégustez des huîtres locales directement sur les étals du marché."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Der schwarz-weiße Turm diente früher als Seemarke.",
             "hu": "A fekete-fehér torony egykor tengeri jelzőként szolgált.",
             "ro": "Turnul alb-negru a servit drept reper pentru marinari.",
-            "en": "The black and white spire once served as a sea mark."
+            "en": "The black and white spire once served as a sea mark.",
+            "fr": "Le clocher noir et blanc servait autrefois d'amer."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein ruhiger Strand in Gehweite des Zentrums.",
             "hu": "Csendes strand sétatávolságra a központtól.",
             "ro": "O plajă liniștită la mică distanță de centrul orașului.",
-            "en": "A peaceful beach within walking distance of the center."
+            "en": "A peaceful beach within walking distance of the center.",
+            "fr": "Une plage paisible à quelques pas du centre."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Beginnen Sie Ihren Tag in der UNESCO-geschützten Zitadelle von Saint-Martin. Schlendern Sie durch den charmanten Hafen und genießen Sie die maritime Atmosphäre. Der Vormittag ist perfekt für den lokalen Markt, um regionale Köstlichkeiten zu entdecken. Nach einem kurzen Transfer oder längeren Spaziergang bewundern Sie den ikonischen Kirchturm von Ars. Beenden Sie den Tag entspannt am Strand von La Cible, während die Sonne langsam untergeht.",
         "hu": "Kezdje a napot Saint-Martin UNESCO által védett citadellájánál. Sétáljon végig a bájos kikötőben, és szívja be a sós tengeri levegőt. A délelőtt tökéletes a helyi piac felfedezésére és a regionális finomságok megkóstolására. Egy rövid utazás után csodálja meg Ars ikonikus, fekete-fehér templomtornyát. A napot pihenéssel zárja a La Cible strandon, élvezve a nyugodt hullámzást és a lemenő nap fényeit.",
         "ro": "Începeți ziua la citadela din Saint-Martin, inclusă în patrimoniul UNESCO. Plimbați-vă prin portul fermecător și bucurați-vă de atmosfera maritimă. Dimineața este ideală pentru a explora piața locală și deliciile regionale. După un scurt transfer, admirați clopotnița iconică din Ars-en-Ré. Încheiați ziua relaxându-vă pe plaja La Cible, în timp ce soarele coboară spre linia orizontului.",
-        "en": "Start your day at the UNESCO-listed citadel of Saint-Martin. Stroll through the charming harbor and soak up the maritime atmosphere. The morning is perfect for exploring the local market and regional delicacies. After a short transfer, admire the iconic black and white spire of Ars-en-Ré. End the day relaxing at La Cible beach, enjoying the gentle waves and the golden hour light."
+        "en": "Start your day at the UNESCO-listed citadel of Saint-Martin. Stroll through the charming harbor and soak up the maritime atmosphere. The morning is perfect for exploring the local market and regional delicacies. After a short transfer, admire the iconic black and white spire of Ars-en-Ré. End the day relaxing at La Cible beach, enjoying the gentle waves and the golden hour light.",
+        "fr": "Commencez votre journée à la citadelle de Saint-Martin, classée à l'UNESCO. Flânez sur le charmant port et imprégnez-vous de l'atmosphère maritime. La matinée est idéale pour explorer le marché local et les spécialités régionales. Après un court transfert, admirez l'emblématique clocher noir et blanc d'Ars-en-Ré. Terminez la journée en vous relaxant sur la plage de la Cible, en profitant des douces vagues et de la lumière de l'heure dorée."
       },
       "gastro_picks": {
         "de": [
@@ -136,6 +142,12 @@
           {
             "name": "Île de Ré Oysters",
             "tip": "Fresh oysters directly from the local salt marshes."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Huîtres de l'île de Ré",
+            "tip": "Des huîtres fraîches provenant directement des marais salants locaux."
           }
         ]
       },
@@ -167,6 +179,13 @@
             "tip": "Quiet retreat behind the stone walls.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardins de la citadelle",
+            "tip": "Retraite paisible derrière les murs de pierre.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -193,6 +212,12 @@
             "name": "Fleur de Sel",
             "tip": "The famous hand-harvested sea salt."
           }
+        ],
+        "fr": [
+          {
+            "name": "Fleur de sel",
+            "tip": "Le célèbre sel marin récolté à la main."
+          }
         ]
       },
       "tips": {
@@ -215,6 +240,11 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Visit the market before 1:00 PM.",
           "Check the tides before planning your beach time."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les rues pavées.",
+          "Visitez le marché avant 13h00.",
+          "Vérifiez les marées avant de prévoir votre temps à la plage."
         ]
       },
       "variants": {
@@ -382,7 +412,8 @@
             "de": "Der Morgen beginnt unter grauem Himmel bei den Befestigungsanlagen von Saint-Martin, wo der Regen die alten Mauern in dramatische Farben taucht. Mittags suchen wir Schutz in der Markthalle und genießen lokale Köstlichkeiten im Trockenen. Nachmittags spazieren wir mit dem Schirm am Hafen entlang nach Ars-en-Ré. Der Abend klingt gemütlich in einem Bistro am Strand von Cible aus.",
             "hu": "A reggel szürke égbolt alatt indul Saint-Martin erődítményeinél, ahol az eső drámai színeket kölcsönöz a falaknak. Délben a fedett piacon keresünk menedéket, és szárazon élvezzük a helyi finomságokat. Délután esernyővel sétálunk a kikötő mentén Ars-en-Ré felé. Az este hangulatosan zárul egy bisztróban a Cible strand közelében, miközben hallgatjuk az eső kopogását.",
             "ro": "Dimineața începe sub un cer cenușiu la fortificațiile din Saint-Martin, unde ploaia oferă zidurilor vechi culori dramatice. La prânz căutăm adăpost în piața acoperită, savurând delicatese locale la uscat. După-amiaza ne plimbăm cu umbrela de-a lungul portului spre Ars-en-Ré. Seara se încheie confortabil într-un bistrou de lângă plaja Cible, ascultând picăturile de ploaie.",
-            "en": "The morning starts under gray skies at the fortifications of Saint-Martin, where the rain lends dramatic colors to the old walls. At noon, we seek shelter in the covered market, enjoying local delicacies in the dry. In the afternoon, we walk with an umbrella along the harbor towards Ars-en-Ré. The evening ends cozily in a bistro near Cible beach, listening to the rain."
+            "en": "The morning starts under gray skies at the fortifications of Saint-Martin, where the rain lends dramatic colors to the old walls. At noon, we seek shelter in the covered market, enjoying local delicacies in the dry. In the afternoon, we walk with an umbrella along the harbor towards Ars-en-Ré. The evening ends cozily in a bistro near Cible beach, listening to the rain.",
+            "fr": "La matinée commence sous un ciel gris aux fortifications de Saint-Martin, où la pluie donne des couleurs dramatiques aux vieux murs. À midi, nous cherchons refuge dans le marché couvert, dégustant des spécialités locales au sec. L'après-midi, nous marchons avec un parapluie le long du port vers Ars-en-Ré. La soirée se termine confortablement dans un bistrot près de la plage de la Cible, en écoutant la pluie."
           },
           "stops": [
             {
@@ -391,7 +422,8 @@
                 "de": "Die glatten Steine können rutschig sein; vorsichtig gehen.",
                 "hu": "A sima kövek csúszósak lehetnek; közlekedjen óvatosan.",
                 "ro": "Pietrele netede pot fi alunecoase; mergeți cu atenție.",
-                "en": "The smooth stones can be slippery; walk with care."
+                "en": "The smooth stones can be slippery; walk with care.",
+                "fr": "Les pierres lisses peuvent être glissantes ; marchez avec précaution."
               }
             },
             {
@@ -400,7 +432,8 @@
                 "de": "Viele Cafés am Hafen bieten überdachte Terrassen.",
                 "hu": "Sok kikötői kávézó kínál fedett teraszt.",
                 "ro": "Multe cafenele din port oferă terase acoperite.",
-                "en": "Many harbor cafes offer covered terraces."
+                "en": "Many harbor cafes offer covered terraces.",
+                "fr": "De nombreux cafés du port proposent des terrasses couvertes."
               }
             },
             {
@@ -409,7 +442,8 @@
                 "de": "Der perfekte Ort, um einen Regenschauer abzuwarten.",
                 "hu": "Tökéletes hely egy zápor kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
-                "en": "The perfect place to wait out a rain shower."
+                "en": "The perfect place to wait out a rain shower.",
+                "fr": "L'endroit idéal pour attendre la fin d'une averse."
               }
             },
             {
@@ -418,7 +452,8 @@
                 "de": "Der schwarz-weiße Turm sieht bei Regen besonders markant aus.",
                 "hu": "A fekete-fehér torony esőben különösen jellegzetes.",
                 "ro": "Turnul alb-negru arată deosebit de izbitor în ploaie.",
-                "en": "The black and white tower looks particularly striking in the rain."
+                "en": "The black and white tower looks particularly striking in the rain.",
+                "fr": "La tour noire et blanche est particulièrement frappante sous la pluie."
               }
             },
             {
@@ -427,7 +462,8 @@
                 "de": "Gummistiefel sind ideal für einen Strandspaziergang im Regen.",
                 "hu": "A gumicsizma ideális egy esős tengerparti sétához.",
                 "ro": "Cizmele de gumă sunt ideale pentru o plimbare pe plajă în ploaie.",
-                "en": "Rubber boots are ideal for a beach walk in the rain."
+                "en": "Rubber boots are ideal for a beach walk in the rain.",
+                "fr": "Les bottes en caoutchouc sont idéales pour une promenade sur la plage sous la pluie."
               }
             }
           ],
@@ -455,6 +491,12 @@
               "Use the covered market as a central, dry meeting point.",
               "Choose waterproof walking shoes for the cobblestone streets.",
               "The island's museums are ideal alternatives during persistent rain."
+            ],
+            "fr": [
+              "Portez un imperméable de qualité avec capuche contre le vent de l'Atlantique.",
+              "Utilisez le marché couvert comme point de rencontre central et sec.",
+              "Choisissez des chaussures de marche imperméables pour les rues pavées.",
+              "Les musées de l'île sont des alternatives idéales en cas de pluie persistante."
             ]
           }
         },
@@ -463,7 +505,8 @@
             "de": "An einem klaren Wintermorgen sind die Festungsmauern fast menschenleer und friedlich. Mittags wärmen wir uns bei einer heißen Meeresfrüchtesuppe im Hafen auf. Der Nachmittag gehört der stillen Schönheit von Ars-en-Ré, bevor wir um 17:00 Uhr den frühen Sonnenuntergang am Strand von Cible bewundern. Der Abend endet bei Kerzenschein in einer lokalen Weinstube.",
             "hu": "Egy tiszta téli reggelen az erőd falai szinte néptelenek és békések. Délben egy forró tenger gyümölcsei levessel melegszünk fel a kikötőben. A délután Ars-en-Ré csendes szépségéé, mielőtt 17:00-kor megcsodáljuk a korai naplementét a Cible strandon. Az este gyertyafény mellett, egy helyi borozóban ér véget.",
             "ro": "Într-o dimineață senină de iarnă, zidurile cetății sunt aproape pustii și liniștite. La prânz ne încălzim cu o supă fierbinte de fructe de mare în port. După-amiaza aparține frumuseții tăcute din Ars-en-Ré, înainte de a admira apusul devreme la ora 17:00 pe plaja Cible. Seara se încheie la lumina lumânărilor într-o vinărie locală.",
-            "en": "On a clear winter morning, the fortress walls are almost deserted and peaceful. At noon, we warm up with a hot seafood soup in the harbor. The afternoon belongs to the quiet beauty of Ars-en-Ré, before admiring the early sunset at 17:00 on Cible beach. The evening ends by candlelight in a local wine bar."
+            "en": "On a clear winter morning, the fortress walls are almost deserted and peaceful. At noon, we warm up with a hot seafood soup in the harbor. The afternoon belongs to the quiet beauty of Ars-en-Ré, before admiring the early sunset at 17:00 on Cible beach. The evening ends by candlelight in a local wine bar.",
+            "fr": "Par une claire matinée d'hiver, les murs de la forteresse sont presque déserts et paisibles. À midi, nous nous réchauffons avec une soupe de poisson chaude sur le port. L'après-midi appartient à la beauté tranquille d'Ars-en-Ré, avant d'admirer le coucher de soleil précoce à 17h00 sur la plage de la Cible. La soirée se termine à la lumière des bougies dans un bar à vin local."
           },
           "stops": [
             {
@@ -472,7 +515,8 @@
                 "de": "Der Wind auf den Mauern kann im Winter sehr schneidend sein.",
                 "hu": "A falakon fújó szél télen nagyon metsző lehet.",
                 "ro": "Vântul de pe ziduri poate fi foarte tăios iarna.",
-                "en": "The wind on the walls can be very biting in winter."
+                "en": "The wind on the walls can be very biting in winter.",
+                "fr": "Le vent sur les remparts peut être très mordant en hiver."
               }
             },
             {
@@ -481,7 +525,8 @@
                 "de": "Genießen Sie die Ruhe; im Winter sind kaum Touristen hier.",
                 "hu": "Élvezze a nyugalmat; télen alig vannak itt turisták.",
                 "ro": "Bucurați-vă de liniște; iarna sunt foarte puțini turiști.",
-                "en": "Enjoy the peace; there are very few tourists here in winter."
+                "en": "Enjoy the peace; there are very few tourists here in winter.",
+                "fr": "Profitez du calme ; il y a très peu de touristes ici en hiver."
               }
             },
             {
@@ -490,7 +535,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten; oft nur vormittags offen.",
                 "hu": "Ellenőrizze a téli nyitvatartást; gyakran csak délelőtt van nyitva.",
                 "ro": "Verificați programul de iarnă; adesea deschis doar dimineața.",
-                "en": "Check winter opening hours; often only open in the morning."
+                "en": "Check winter opening hours; often only open in the morning.",
+                "fr": "Vérifiez les horaires d'ouverture d'hiver ; souvent ouvert seulement le matin."
               }
             },
             {
@@ -499,7 +545,8 @@
                 "de": "Der Aufstieg lohnt sich für den Blick auf die raue Wintersee.",
                 "hu": "A feljutás megéri a vad téli tenger látványáért.",
                 "ro": "Urcarea merită pentru vederea asupra mării agitate de iarnă.",
-                "en": "The climb is worth it for the view of the rough winter sea."
+                "en": "The climb is worth it for the view of the rough winter sea.",
+                "fr": "La montée en vaut la peine pour la vue sur la mer agitée de l'hiver."
               }
             },
             {
@@ -508,7 +555,8 @@
                 "de": "Sonnenuntergang ist bereits gegen 17:15 Uhr.",
                 "hu": "A naplemente már 17:15 körül bekövetkezik.",
                 "ro": "Apusul are loc deja în jurul orei 17:15.",
-                "en": "Sunset is already around 17:15."
+                "en": "Sunset is already around 17:15.",
+                "fr": "Le coucher du soleil est déjà vers 17h15."
               }
             }
           ],
@@ -536,6 +584,12 @@
               "Note that many restaurants close during the off-season.",
               "Take advantage of the clear winter light for fantastic photos.",
               "Public toilets may be partially closed in winter."
+            ],
+            "fr": [
+              "Superposez vos vêtements contre le vent froid.",
+              "Notez que de nombreux restaurants ferment hors saison.",
+              "Profitez de la lumière claire de l'hiver pour des photos fantastiques.",
+              "Les toilettes publiques peuvent être partiellement fermées en hiver."
             ]
           }
         }
@@ -564,7 +618,8 @@
             "de": "Die Ruinen sind im Morgenlicht am fotogensten.",
             "hu": "A romok reggeli fényben a legszebbek a fotózáshoz.",
             "ro": "Ruinele sunt cele mai fotogenice în lumina dimineții.",
-            "en": "The ruins are most photogenic in the morning light."
+            "en": "The ruins are most photogenic in the morning light.",
+            "fr": "Les ruines sont plus photogéniques sous la lumière du matin."
           }
         },
         {
@@ -582,7 +637,8 @@
             "de": "Perfekter Ort für eine Kaffeepause am Wasser.",
             "hu": "Tökéletes hely egy kávészünethez a vízparton.",
             "ro": "Locul perfect pentru o pauză de cafea pe malul apei.",
-            "en": "Perfect spot for a coffee break by the water."
+            "en": "Perfect spot for a coffee break by the water.",
+            "fr": "Endroit parfait pour une pause café au bord de l'eau."
           }
         },
         {
@@ -600,7 +656,8 @@
             "de": "Erfahren Sie, wie das berühmte Salz gewonnen wird.",
             "hu": "Ismerje meg, hogyan nyerik ki a híres sót.",
             "ro": "Aflați cum este extrasă faimoasa sare.",
-            "en": "Learn how the famous salt is extracted."
+            "en": "Learn how the famous salt is extracted.",
+            "fr": "Apprenez comment le célèbre sel est extrait."
           }
         },
         {
@@ -618,7 +675,8 @@
             "de": "Steigen Sie die 257 Stufen für einen Panoramablick hinauf.",
             "hu": "Mássza meg a 257 lépcsőfokot a panorámáért.",
             "ro": "Urcați cele 257 de trepte pentru o vedere panoramică.",
-            "en": "Climb the 257 steps for a panoramic view."
+            "en": "Climb the 257 steps for a panoramic view.",
+            "fr": "Montez les 257 marches pour une vue panoramique."
           }
         },
         {
@@ -636,7 +694,8 @@
             "de": "Der schönste und wildeste Strand der Insel.",
             "hu": "A sziget legszebb és legvadabb strandja.",
             "ro": "Cea mai frumoasă și sălbatică plajă de pe insulă.",
-            "en": "The most beautiful and wild beach on the island."
+            "en": "The most beautiful and wild beach on the island.",
+            "fr": "La plus belle et la plus sauvage plage de l'île."
           }
         },
         {
@@ -654,7 +713,8 @@
             "de": "Beobachten Sie Zugvögel in den Salzwiesen.",
             "hu": "Figyelje meg a költöző madarakat a sós mocsaraknál.",
             "ro": "Observați păsările migratoare în mlaștinile sărate.",
-            "en": "Observe migratory birds in the salt marshes."
+            "en": "Observe migratory birds in the salt marshes.",
+            "fr": "Observez les oiseaux migrateurs dans les marais salants."
           }
         }
       ],
@@ -662,7 +722,8 @@
         "de": "Die Île de Ré ist ein Paradies für Radfahrer. Starten Sie bei den majestätischen Ruinen der Abtei Châteliers und radeln Sie entlang der Küste nach Saint-Martin. Nach einem Mittagessen am Hafen führt der Weg durch die faszinierenden Salzmatten zum Ökomuseum. Das Highlight ist der Leuchtturm Phare des Baleines an der Westspitze. Entspannen Sie kurz am wilden Conche-Strand, bevor Sie die reiche Vogelwelt im Naturschutzgebiet erkunden.",
         "hu": "Az Île de Ré a kerékpárosok paradicsoma. Kezdje a Châteliers apátság fenséges romjainál, majd tekerjen a part mentén Saint-Martinbe. Egy kikötői ebéd után az út a lenyűgöző sólepárlókon keresztül vezet az ökomúzeumhoz. A nap csúcspontja a nyugati csücsökben található Phare des Baleines világítótorony. Pihenjen meg a vadregényes Conche strandon, mielőtt felfedezné a természetvédelmi terület gazdag madárvilágát.",
         "ro": "Île de Ré este un paradis pentru bicicliști. Începeți la ruinele maiestuoase ale abației Châteliers, apoi pedalați de-a lungul coastei spre Saint-Martin. După un prânz în port, drumul vă poartă prin fascinantele mlaștini sărate către ecomuzeu. Punctul culminant este farul Baleines din vârful vestic. Relaxați-vă pe plaja sălbatică Conche înainte de a explora fauna bogată din rezervația naturală.",
-        "en": "Île de Ré is a cyclist's paradise. Start at the majestic ruins of Châteliers Abbey, then pedal along the coast towards Saint-Martin. After lunch at the harbor, the path leads through the fascinating salt marshes to the ecomuseum. The highlight is the Phare des Baleines lighthouse at the western tip. Relax briefly at the wild Conche beach before exploring the rich birdlife in the nature reserve."
+        "en": "Île de Ré is a cyclist's paradise. Start at the majestic ruins of Châteliers Abbey, then pedal along the coast towards Saint-Martin. After lunch at the harbor, the path leads through the fascinating salt marshes to the ecomuseum. The highlight is the Phare des Baleines lighthouse at the western tip. Relax briefly at the wild Conche beach before exploring the rich birdlife in the nature reserve.",
+        "fr": "L'île de Ré est le paradis des cyclistes. Commencez par les ruines majestueuses de l'Abbaye des Châteliers, puis pédalez le long de la côte vers Saint-Martin. Après le déjeuner sur le port, le chemin mène à travers les fascinants marais salants jusqu'à l'écomusée. Le point culminant est le Phare des Baleines à la pointe ouest. Détendez-vous brièvement sur la plage sauvage de la Conche avant d'explorer la riche avifaune de la réserve naturelle."
       },
       "gastro_picks": {
         "de": [
@@ -687,6 +748,12 @@
           {
             "name": "Île de Ré Salt",
             "tip": "Salted caramel is a must-try local delicacy."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Sel de l'île de Ré",
+            "tip": "Le caramel au beurre salé est une spécialité locale incontournable."
           }
         ]
       },
@@ -718,6 +785,13 @@
             "tip": "Quiet paths through the salt fields.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Marais salants",
+            "tip": "Sentiers paisibles à travers les champs de sel.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -744,6 +818,12 @@
             "name": "L'Atelier du Sel",
             "tip": "Artisanal salt and local gifts."
           }
+        ],
+        "fr": [
+          {
+            "name": "L'Atelier du Sel",
+            "tip": "Sel artisanal et cadeaux locaux."
+          }
         ]
       },
       "tips": {
@@ -766,6 +846,11 @@
           "Rent a bike with a basket for your market finds.",
           "The island is very flat, ideal for all fitness levels.",
           "Watch the wind direction; it can be strong on the way back."
+        ],
+        "fr": [
+          "Louez un vélo avec un panier pour vos trouvailles du marché.",
+          "L'île est très plate, idéale pour tous les niveaux de forme physique.",
+          "Surveillez la direction du vent ; il peut être fort au retour."
         ]
       },
       "variants": {
@@ -942,7 +1027,8 @@
             "de": "Trotz Regen radeln wir zur Abbaye des Châteliers, deren Ruinen im Dunst mystisch wirken. Mittags erreichen wir Saint-Martin und trocknen uns in einem Café auf. Der Nachmittag führt uns durch die Salzwiesen zum Leuchtturm, wobei die feuchte Luft die Düfte der Natur intensiviert. Der Tag endet mit einem erfrischenden Blick auf das graue Meer im Naturschutzgebiet.",
             "hu": "Az eső ellenére eltekerünk az Abbaye des Châteliers-hez, melynek romjai misztikusnak tűnnek a párában. Délben elérjük Saint-Martint, és egy kávézóban száradunk meg. A délután a sólepárlókon keresztül vezet a világítótoronyhoz, ahol a nedves levegő felerősíti a természet illatait. A nap frissítő kilátással zárul a szürke tengerre a természetvédelmi területen.",
             "ro": "În ciuda ploii, pedalăm spre Abbaye des Châteliers, ale cărei ruine par mistice în ceață. La prânz ajungem în Saint-Martin și ne uscăm într-o cafenea. După-amiaza ne poartă prin mlaștinile sărate spre far, unde aerul umed intensifică parfumurile naturii. Ziua se încheie cu o priveliște revigorantă asupra mării cenușii în rezervația naturală.",
-            "en": "Despite the rain, we cycle to the Abbaye des Châteliers, whose ruins look mystical in the mist. At noon, we reach Saint-Martin and dry off in a café. The afternoon takes us through the salt marshes to the lighthouse, where the damp air intensifies the scents of nature. The day ends with a refreshing view of the gray sea in the nature reserve."
+            "en": "Despite the rain, we cycle to the Abbaye des Châteliers, whose ruins look mystical in the mist. At noon, we reach Saint-Martin and dry off in a café. The afternoon takes us through the salt marshes to the lighthouse, where the damp air intensifies the scents of nature. The day ends with a refreshing view of the gray sea in the nature reserve.",
+            "fr": "Malgré la pluie, nous pédalons jusqu'à l'Abbaye des Châteliers, dont les ruines paraissent mystiques dans la brume. À midi, nous atteignons Saint-Martin et nous nous séchons dans un café. L'après-midi nous emmène à travers les marais salants jusqu'au phare, où l'air humide intensifie les senteurs de la nature. La journée se termine par une vue rafraîchissante sur la mer grise dans la réserve naturelle."
           },
           "stops": [
             {
@@ -951,7 +1037,8 @@
                 "de": "Die Graswege können bei Regen sehr matschig sein.",
                 "hu": "A füves utak esőben nagyon sárosak lehetnek.",
                 "ro": "Căile de iarbă pot fi foarte noroioase în caz de ploaie.",
-                "en": "The grass paths can be very muddy in the rain."
+                "en": "The grass paths can be very muddy in the rain.",
+                "fr": "Les sentiers en herbe peuvent être très boueux sous la pluie."
               }
             },
             {
@@ -960,7 +1047,8 @@
                 "de": "Nutzen Sie Fahrradständer mit Überdachung, falls verfügbar.",
                 "hu": "Használjon fedett kerékpártárolót, ha elérhető.",
                 "ro": "Folosiți suporturi de biciclete acoperite, dacă sunt disponibile.",
-                "en": "Use covered bike racks if available."
+                "en": "Use covered bike racks if available.",
+                "fr": "Utilisez les abris à vélos couverts si disponibles."
               }
             },
             {
@@ -969,7 +1057,8 @@
                 "de": "Ein idealer Stopp, um die interaktive Ausstellung im Trockenen zu sehen.",
                 "hu": "Ideális megálló az interaktív kiállítás megtekintéséhez szárazon.",
                 "ro": "O oprire ideală pentru a vedea expoziția interactivă la uscat.",
-                "en": "An ideal stop to see the interactive exhibition in the dry."
+                "en": "An ideal stop to see the interactive exhibition in the dry.",
+                "fr": "Une étape idéale pour voir l'exposition interactive au sec."
               }
             },
             {
@@ -978,7 +1067,8 @@
                 "de": "Vorsicht beim Abstieg; die Stufen können feucht und glatt sein.",
                 "hu": "Vigyázat lefelé; a lépcsők nedvesek és csúszósak lehetnek.",
                 "ro": "Atenție la coborâre; treptele pot fi umede și alunecoase.",
-                "en": "Careful on the descent; the steps can be damp and slippery."
+                "en": "Careful on the descent; the steps can be damp and slippery.",
+                "fr": "Attention à la descente ; les marches peuvent être humides et glissantes."
               }
             },
             {
@@ -987,7 +1077,8 @@
                 "de": "Der Sand ist bei Regen fester und leichter zu befahren.",
                 "hu": "A homok esőben tömörebb és könnyebben járható.",
                 "ro": "Nisipul este mai ferm și mai ușor de parcurs în caz de ploaie.",
-                "en": "The sand is firmer and easier to traverse in the rain."
+                "en": "The sand is firmer and easier to traverse in the rain.",
+                "fr": "Le sable est plus ferme et plus facile à traverser sous la pluie."
               }
             },
             {
@@ -996,7 +1087,8 @@
                 "de": "Vögel sind bei leichtem Regen oft besonders aktiv.",
                 "hu": "A madarak enyhe esőben gyakran különösen aktívak.",
                 "ro": "Păsările sunt adesea deosebit de active în ploaie ușoară.",
-                "en": "Birds are often particularly active in light rain."
+                "en": "Birds are often particularly active in light rain.",
+                "fr": "Les oiseaux sont souvent particulièrement actifs sous une pluie légère."
               }
             }
           ],
@@ -1024,6 +1116,12 @@
               "Avoid puddles as they can hide deep potholes.",
               "Wear waterproof trousers and shoe covers.",
               "Cycle paths through the marshes can be very exposed in wind."
+            ],
+            "fr": [
+              "Vérifiez vos freins, car les distances d'arrêt sont plus longues sur sol mouillé.",
+              "Évitez les flaques d'eau car elles peuvent cacher des nids-de-poule profonds.",
+              "Portez un pantalon imperméable et des sur-chaussures.",
+              "Les pistes cyclables à travers les marais peuvent être très exposées au vent."
             ]
           }
         },
@@ -1032,7 +1130,8 @@
             "de": "Die Wintertour beginnt frisch an der Abbaye, umgeben von kühler Meeresbrise. Mittags genießen wir die winterliche Ruhe im Hafen von Saint-Martin. Der Nachmittag bietet weite Ausblicke über die Salzwiesen bis zum Leuchtturm der Wale, wo das Licht der tiefstehenden Sonne magisch wirkt. Den Tag beenden wir bei der Vogelbeobachtung in der stillen Réserve, bevor die Dunkelheit einbricht.",
             "hu": "A téli túra frissen indul az apátságnál, hűvös tengeri szellővel kísérve. Délben a téli nyugalmat élvezzük Saint-Martin kikötőjében. A délután tágas kilátást nyújt a sólepárlókon át a Bálnák világítótornyáig, ahol az alacsonyan járó nap fénye mágikus. A napot madármegfigyeléssel zárjuk a csendes rezervátumban, mielőtt leszáll az éj.",
             "ro": "Turul de iarnă începe proaspăt la abație, însoțit de o briză marină rece. La prânz ne bucurăm de liniștea iernatică în portul Saint-Martin. După-amiaza oferă vederi largi peste mlaștinile sărate până la Farul Balenelor, unde lumina soarelui jos este magică. Încheiem ziua cu observarea păsărilor în rezervația liniștită înainte de lăsarea întunericului.",
-            "en": "The winter tour starts fresh at the abbey, accompanied by a cool sea breeze. At noon, we enjoy the winter tranquility in the port of Saint-Martin. The afternoon offers wide views across the salt marshes to the Whale Lighthouse, where the low sun's light is magical. We end the day birdwatching in the quiet reserve before darkness falls."
+            "en": "The winter tour starts fresh at the abbey, accompanied by a cool sea breeze. At noon, we enjoy the winter tranquility in the port of Saint-Martin. The afternoon offers wide views across the salt marshes to the Whale Lighthouse, where the low sun's light is magical. We end the day birdwatching in the quiet reserve before darkness falls.",
+            "fr": "La randonnée hivernale commence fraîchement à l'abbaye, accompagnée d'une brise marine fraîche. À midi, nous profitons de la tranquillité hivernale dans le port de Saint-Martin. L'après-midi offre des vues dégagées sur les marais salants jusqu'au Phare des Baleines, où la lumière du soleil bas est magique. Nous terminons la journée par l'observation des oiseaux dans la réserve calme avant la tombée de la nuit."
           },
           "stops": [
             {
@@ -1041,7 +1140,8 @@
                 "de": "Tragen Sie Handschuhe; der Fahrtwind ist im Winter kalt.",
                 "hu": "Viseljen kesztyűt; a menetszél télen hideg.",
                 "ro": "Purtați mănuși; vântul din față este rece iarna.",
-                "en": "Wear gloves; the headwind is cold in winter."
+                "en": "Wear gloves; the headwind is cold in winter.",
+                "fr": "Portez des gants ; le vent de face est froid en hiver."
               }
             },
             {
@@ -1050,7 +1150,8 @@
                 "de": "Ein heißes Getränk zwischendurch hilft gegen die Kälte.",
                 "hu": "Egy forró ital közben segít a hideg ellen.",
                 "ro": "O băutură fierbinte pe parcurs ajută împotriva frigului.",
-                "en": "A hot drink along the way helps against the cold."
+                "en": "A hot drink along the way helps against the cold.",
+                "fr": "Une boisson chaude en chemin aide à lutter contre le froid."
               }
             },
             {
@@ -1059,7 +1160,8 @@
                 "de": "Die Außenanlagen sind im Winter oft geschlossen; Shop prüfen.",
                 "hu": "A szabadtéri részek télen gyakran zárva vannak; nézze meg a boltot.",
                 "ro": "Zonele exterioare sunt adesea închise iarna; verificați magazinul.",
-                "en": "Outdoor areas are often closed in winter; check the shop."
+                "en": "Outdoor areas are often closed in winter; check the shop.",
+                "fr": "Les zones extérieures sont souvent fermées en hiver ; vérifiez la boutique."
               }
             },
             {
@@ -1068,7 +1170,8 @@
                 "de": "Oben am Leuchtturm ist es im Winter extrem windig.",
                 "hu": "A világítótorony tetején télen rendkívül szeles az idő.",
                 "ro": "În vârful farului este extrem de vânt iarna.",
-                "en": "At the top of the lighthouse, it is extremely windy in winter."
+                "en": "At the top of the lighthouse, it is extremely windy in winter.",
+                "fr": "Au sommet du phare, le vent est extrêmement fort en hiver."
               }
             },
             {
@@ -1077,7 +1180,8 @@
                 "de": "Genießen Sie den fast menschenleeren, weiten Strand.",
                 "hu": "Élvezze a szinte néptelen, tágas tengerpartot.",
                 "ro": "Bucurați-vă de plaja largă, aproape pustie.",
-                "en": "Enjoy the almost deserted, vast beach."
+                "en": "Enjoy the almost deserted, vast beach.",
+                "fr": "Profitez de la vaste plage presque déserte."
               }
             },
             {
@@ -1086,7 +1190,8 @@
                 "de": "Wintervögel wie Ringelgänse sind jetzt zu beobachten.",
                 "hu": "Téli madarak, például az örvös ludak most megfigyelhetők.",
                 "ro": "Păsările de iarnă pot fi observate acum.",
-                "en": "Winter birds can be observed now."
+                "en": "Winter birds can be observed now.",
+                "fr": "Les oiseaux d'hiver peuvent être observés maintenant."
               }
             }
           ],
@@ -1114,6 +1219,12 @@
               "Some bike rentals have limited hours in winter.",
               "Use a bike with good lighting for the twilight.",
               "Drink enough fluids, even if you feel less thirsty in the cold."
+            ],
+            "fr": [
+              "Les journées sont courtes ; prévoyez votre retour avant 17h00.",
+              "Certains loueurs de vélos ont des horaires limités en hiver.",
+              "Utilisez un vélo avec un bon éclairage pour le crépuscule.",
+              "Buvez suffisamment, même si vous ressentez moins la soif avec le froid."
             ]
           }
         }
@@ -1142,7 +1253,8 @@
             "de": "Kostenloser Parkplatz direkt neben der Ruine.",
             "hu": "Ingyenes parkoló közvetlenül a romok mellett.",
             "ro": "Parcare gratuită chiar lângă ruine.",
-            "en": "Free parking available right next to the ruins."
+            "en": "Free parking available right next to the ruins.",
+            "fr": "Parking gratuit disponible juste à côté des ruines."
           }
         },
         {
@@ -1160,7 +1272,8 @@
             "de": "Nutzen Sie den Parkplatz P1 außerhalb der Mauern.",
             "hu": "Használja a falakon kívüli P1 parkolót.",
             "ro": "Folosiți parcarea P1 din afara zidurilor.",
-            "en": "Use the P1 parking lot outside the city walls."
+            "en": "Use the P1 parking lot outside the city walls.",
+            "fr": "Utilisez le parking P1 à l'extérieur des murs de la ville."
           }
         },
         {
@@ -1178,7 +1291,8 @@
             "de": "Besuchen Sie das Museum im Inneren der Zitadelle.",
             "hu": "Látogassa meg a citadellán belüli múzeumot.",
             "ro": "Vizitați muzeul din interiorul cetății.",
-            "en": "Visit the museum located inside the citadel."
+            "en": "Visit the museum located inside the citadel.",
+            "fr": "Visitez le musée situé à l'intérieur de la citadelle."
           }
         },
         {
@@ -1196,7 +1310,8 @@
             "de": "Eines der 'Plus Beaux Villages de France'.",
             "hu": "Franciaország egyik legszebb faluja.",
             "ro": "Unul dintre cele mai frumoase sate din Franța.",
-            "en": "One of the 'Most Beautiful Villages of France'."
+            "en": "One of the 'Most Beautiful Villages of France'.",
+            "fr": "L'un des 'Plus Beaux Villages de France'."
           }
         },
         {
@@ -1214,7 +1329,8 @@
             "de": "Kaufen Sie hier originelles Salz-Souvenirs.",
             "hu": "Itt vásárolhat eredeti sós ajándéktárgyakat.",
             "ro": "Cumpărați suveniruri originale cu sare de aici.",
-            "en": "Buy original salt souvenirs here."
+            "en": "Buy original salt souvenirs here.",
+            "fr": "Achetez des souvenirs de sel originaux ici."
           }
         },
         {
@@ -1232,7 +1348,8 @@
             "de": "Es gibt auch einen kleineren alten Turm zu sehen.",
             "hu": "Egy kisebb régi torony is megtekinthető.",
             "ro": "Există și un turn vechi mai mic de vizitat.",
-            "en": "There is also a smaller old tower to see."
+            "en": "There is also a smaller old tower to see.",
+            "fr": "Il y a aussi une petite tour ancienne à voir."
           }
         },
         {
@@ -1250,7 +1367,8 @@
             "de": "Perfekt für den Sonnenuntergang vor der Rückfahrt.",
             "hu": "Tökéletes naplementéhez a visszautazás előtt.",
             "ro": "Perfect pentru apus înainte de drumul de întoarcere.",
-            "en": "Perfect for sunset before the drive back."
+            "en": "Perfect for sunset before the drive back.",
+            "fr": "Parfait pour le coucher du soleil avant le retour."
           }
         }
       ],
@@ -1258,7 +1376,8 @@
         "de": "Mit dem Auto erreichen Sie bequem alle Ecken der Insel. Starten Sie bei der malerischen Abtei Châteliers und fahren Sie weiter ins Herz von Saint-Martin. Erkunden Sie die Festungsanlagen von Vauban, bevor Sie das charmante Dorf Ars-en-Ré besuchen. Tauchen Sie im Ökomuseum in die Tradition der Salzgewinnung ein. Der krönende Abschluss ist der Phare des Baleines mit seinem weiten Blick über den Ozean und ein entspannter Abend am Conche-Strand.",
         "hu": "Autóval kényelmesen elérheti a sziget minden szegletét. Kezdje a festői Châteliers apátságnál, majd haladjon tovább Saint-Martin szívébe. Fedezze fel Vauban erődítményeit, mielőtt ellátogatna a bájos Ars-en-Ré falujába. Merüljön el a sókitermelés hagyományaiban az ökomúzeumban. A napot a Phare des Baleines koronázza meg az óceánra nyíló pazar kilátással, majd egy pihentető este a Conche strandon.",
         "ro": "Cu mașina puteți ajunge confortabil în toate colțurile insulei. Începeți la pitoreasca abație Châteliers și continuați spre inima orașului Saint-Martin. Explorați fortificațiile lui Vauban înainte de a vizita fermecătorul sat Ars-en-Ré. Descoperiți tradiția recoltării sării la ecomuzeu. Punctul culminant este farul Baleines, cu vederea sa vastă peste ocean, urmat de o seară relaxantă pe plaja Conche.",
-        "en": "By car, you can easily reach every corner of the island. Start at the picturesque Châteliers Abbey and drive further into the heart of Saint-Martin. Explore Vauban's fortifications before visiting the charming village of Ars-en-Ré. Immerse yourself in the tradition of salt harvesting at the ecomuseum. The day concludes at Phare des Baleines with its wide ocean views and a relaxed evening at Conche beach."
+        "en": "By car, you can easily reach every corner of the island. Start at the picturesque Châteliers Abbey and drive further into the heart of Saint-Martin. Explore Vauban's fortifications before visiting the charming village of Ars-en-Ré. Immerse yourself in the tradition of salt harvesting at the ecomuseum. The day concludes at Phare des Baleines with its wide ocean views and a relaxed evening at Conche beach.",
+        "fr": "En voiture, vous pouvez facilement atteindre chaque recoin de l'île. Commencez par la pittoresque Abbaye des Châteliers et roulez jusqu'au cœur de Saint-Martin. Explorez les fortifications de Vauban avant de visiter le charmant village d'Ars-en-Ré. Immergez-vous dans la tradition de la récolte du sel à l'écomusée. La journée se termine au Phare des Baleines avec ses vues imprenables sur l'océan et une soirée détendue à la plage de la Conche."
       },
       "gastro_picks": {
         "de": [
@@ -1283,6 +1402,12 @@
           {
             "name": "Moules de Filière",
             "tip": "Local rope-grown mussels."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Moules de filière",
+            "tip": "Moules locales élevées sur cordes."
           }
         ]
       },
@@ -1314,6 +1439,13 @@
             "tip": "Quiet viewpoint in the north.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Pointe du Grouin",
+            "tip": "Point de vue tranquille au nord.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1340,6 +1472,12 @@
             "name": "Île de Ré Wines",
             "tip": "Local wines and cognacs."
           }
+        ],
+        "fr": [
+          {
+            "name": "Vins de l'île de Ré",
+            "tip": "Vins et cognacs locaux."
+          }
         ]
       },
       "tips": {
@@ -1362,6 +1500,11 @@
           "The bridge toll varies by season.",
           "Parking in Saint-Martin is scarce in summer.",
           "Take the coastal road for better scenic views."
+        ],
+        "fr": [
+          "Le péage du pont varie selon la saison.",
+          "Le stationnement à Saint-Martin est rare en été.",
+          "Prenez la route côtière pour de meilleurs panoramas."
         ]
       },
       "variants": {
@@ -1547,7 +1690,8 @@
             "de": "Mit dem Auto erkunden wir die Insel bequem und trocken, beginnend bei der nebligen Abbaye. Mittags parken wir nahe dem Hafen von Saint-Martin für einen kurzen Sprint ins Restaurant. Der Nachmittag führt uns zum Museum der Salzwiesen und weiter zum Leuchtturm, während wir die Regenschauer aus dem warmen Inneren beobachten. Der Tag endet sicher am stürmischen Strand von La Conche.",
             "hu": "Autóval kényelmesen és szárazon fedezzük fel a szigetet, a ködös apátságnál kezdve. Délben Saint-Martin kikötője mellett parkolunk le egy rövid futáshoz az étteremig. A délután a sómúzeumba, majd a világítótoronyhoz vezet, miközben a meleg autóból figyeljük a záporokat. A nap biztonságban zárul a viharos La Conche strandon.",
             "ro": "Cu mașina explorăm insula confortabil și uscat, începând de la abația cețoasă. La prânz parcăm lângă portul Saint-Martin pentru un scurt sprint spre restaurant. După-amiaza ne duce la muzeul sării și apoi la far, în timp ce observăm aversele din interiorul cald. Ziua se încheie în siguranță pe plaja furtunoasă La Conche.",
-            "en": "By car, we explore the island comfortably and dry, starting at the misty abbey. At noon, we park near the port of Saint-Martin for a short sprint to the restaurant. The afternoon leads us to the salt museum and on to the lighthouse, while watching the showers from the warm interior. The day ends safely at the stormy La Conche beach."
+            "en": "By car, we explore the island comfortably and dry, starting at the misty abbey. At noon, we park near the port of Saint-Martin for a short sprint to the restaurant. The afternoon leads us to the salt museum and on to the lighthouse, while watching the showers from the warm interior. The day ends safely at the stormy La Conche beach.",
+            "fr": "En voiture, nous explorons l'île confortablement et au sec, en commençant par l'abbaye brumeuse. À midi, nous nous garons près du port de Saint-Martin pour un court sprint jusqu'au restaurant. L'après-midi nous mène au musée du sel puis au phare, tout en observant les averses depuis l'intérieur chaleureux. La journée se termine en sécurité à la plage venteuse de la Conche."
           },
           "stops": [
             {
@@ -1556,7 +1700,8 @@
                 "de": "Der Parkplatz ist oft unbefestigt; Vorsicht bei Pfützen.",
                 "hu": "A parkoló gyakran nem burkolt; vigyázzon a tócsákkal.",
                 "ro": "Parcarea este adesea neamenajată; atenție la bălți.",
-                "en": "The parking lot is often unpaved; watch out for puddles."
+                "en": "The parking lot is often unpaved; watch out for puddles.",
+                "fr": "Le parking est souvent non goudronné ; attention aux flaques d'eau."
               }
             },
             {
@@ -1565,7 +1710,8 @@
                 "de": "Parkplätze in Hafennähe sind bei Regen sehr begehrt.",
                 "hu": "A kikötő közeli parkolóhelyek esőben nagyon keresettek.",
                 "ro": "Locurile de parcare de lângă port sunt foarte solicitate în ploaie.",
-                "en": "Parking spaces near the harbor are in high demand in the rain."
+                "en": "Parking spaces near the harbor are in high demand in the rain.",
+                "fr": "Les places de parking près du port sont très demandées sous la pluie."
               }
             },
             {
@@ -1574,7 +1720,8 @@
                 "de": "Vom Auto aus hat man an einigen Stellen gute Sicht auf die Mauern.",
                 "hu": "Az autóból néhány helyen jó kilátás nyílik a falakra.",
                 "ro": "Din mașină există în unele locuri o vedere bună asupra zidurilor.",
-                "en": "From the car, there are some spots with good views of the walls."
+                "en": "From the car, there are some spots with good views of the walls.",
+                "fr": "Depuis la voiture, il y a quelques endroits avec de belles vues sur les murs."
               }
             },
             {
@@ -1583,7 +1730,8 @@
                 "de": "Parken Sie auf dem großen Platz; von dort ist es nah zur Kirche.",
                 "hu": "Parkoljon a nagy téren; onnan közel van a templom.",
                 "ro": "Parcați în piața mare; de acolo e aproape de biserică.",
-                "en": "Park in the large square; it's close to the church from there."
+                "en": "Park in the large square; it's close to the church from there.",
+                "fr": "Garez-vous sur la grande place ; c'est tout près de l'église."
               }
             },
             {
@@ -1592,7 +1740,8 @@
                 "de": "Perfekt für einen längeren Aufenthalt bei starkem Regen.",
                 "hu": "Tökéletes egy hosszabb tartózkodáshoz erős esőben.",
                 "ro": "Perfect pentru o ședere mai lungă în caz de ploaie puternică.",
-                "en": "Perfect for a longer stay during heavy rain."
+                "en": "Perfect for a longer stay during heavy rain.",
+                "fr": "Parfait pour un séjour plus long lors de fortes pluies."
               }
             },
             {
@@ -1601,7 +1750,8 @@
                 "de": "Der Weg vom Parkplatz zum Turm ist teilweise exponiert.",
                 "hu": "A parkolótól a toronyig vezető út részben kitett.",
                 "ro": "Calea de la parcare la turn este parțial expusă.",
-                "en": "The path from the parking lot to the tower is partially exposed."
+                "en": "The path from the parking lot to the tower is partially exposed.",
+                "fr": "Le chemin du parking à la tour est partiellement exposé."
               }
             },
             {
@@ -1610,7 +1760,8 @@
                 "de": "Bleiben Sie im Auto und genießen Sie das Panorama des Meeres.",
                 "hu": "Maradjon az autóban, és élvezze a tenger panorámáját.",
                 "ro": "Rămâneți în mașină și bucurați-vă de panorama mării.",
-                "en": "Stay in the car and enjoy the panorama of the sea."
+                "en": "Stay in the car and enjoy the panorama of the sea.",
+                "fr": "Restez dans la voiture et profitez du panorama sur la mer."
               }
             }
           ],
@@ -1638,6 +1789,12 @@
               "Always keep an umbrella ready in the trunk.",
               "The narrow streets in the villages can be tricky when wet.",
               "Use the parking lots on the edge of town to minimize walking."
+            ],
+            "fr": [
+              "Attention aux vents de travers sur le pont de l'île.",
+              "Gardez toujours un parapluie prêt dans le coffre.",
+              "Les rues étroites des villages peuvent être délicates sur sol mouillé.",
+              "Utilisez les parkings en bordure de ville pour minimiser la marche."
             ]
           }
         },
@@ -1646,7 +1803,8 @@
             "de": "Im Winter bietet das Auto die nötige Wärme zwischen den Stopps an der Abbaye und dem ruhigen Saint-Martin. Mittags finden wir problemlos einen Parkplatz direkt am Hafen. Nachmittags erkunden wir Ars-en-Ré und das Marais, bevor wir pünktlich zum Sonnenuntergang am Leuchtturm ankommen. Der Tag endet entspannt mit einer Fahrt durch die dämmernde Inselfestung.",
             "hu": "Télen az autó biztosítja a szükséges meleget az apátság és a csendes Saint-Martin közötti megállók között. Délben gond nélkül találunk parkolót közvetlenül a kikötőben. Délután Ars-en-Ré-t és a mocsarakat fedezzük fel, mielőtt pontosan naplementére a világítótoronyhoz érnénk. A nap pihentető autózással zárul a szürkületi szigeten.",
             "ro": "Iarna mașina oferă căldura necesară între opririle de la abație și liniștitul Saint-Martin. La prânz găsim fără probleme loc de parcare direct în port. După-amiaza explorăm Ars-en-Ré și mlaștinile, înainte de a ajunge la far exact pentru apus. Ziua se încheie cu o plimbare relaxantă cu mașina prin insula în amurg.",
-            "en": "In winter, the car provides the necessary warmth between stops at the abbey and quiet Saint-Martin. At noon, we find a parking space directly at the harbor without any problems. In the afternoon, we explore Ars-en-Ré and the marshes before arriving at the lighthouse just in time for sunset. The day ends with a relaxed drive through the twilight island."
+            "en": "In winter, the car provides the necessary warmth between stops at the abbey and quiet Saint-Martin. At noon, we find a parking space directly at the harbor without any problems. In the afternoon, we explore Ars-en-Ré and the marshes before arriving at the lighthouse just in time for sunset. The day ends with a relaxed drive through the twilight island.",
+            "fr": "En hiver, la voiture offre la chaleur nécessaire entre les arrêts à l'abbaye et le calme de Saint-Martin. À midi, nous trouvons sans problème une place de parking directement sur le port. L'après-midi, nous explorons Ars-en-Ré et les marais avant d'arriver au phare juste à temps pour le coucher du soleil. La journée se termine par une conduite détendue à travers l'île au crépuscule."
           },
           "stops": [
             {
@@ -1655,7 +1813,8 @@
                 "de": "Ideal für einen kurzen Stopp; im Winter kaum andere Autos.",
                 "hu": "Ideális egy rövid megállóra; télen alig van más autó.",
                 "ro": "Ideal pentru o scurtă oprire; iarna sunt foarte puține alte mașini.",
-                "en": "Ideal for a short stop; hardly any other cars in winter."
+                "en": "Ideal for a short stop; hardly any other cars in winter.",
+                "fr": "Idéal pour un court arrêt ; presque aucune autre voiture en hiver."
               }
             },
             {
@@ -1664,7 +1823,8 @@
                 "de": "Parken ist im Winter oft kostenlos oder günstiger.",
                 "hu": "A parkolás télen gyakran ingyenes vagy olcsóbb.",
                 "ro": "Parcarea este adesea gratuită sau mai ieftină iarna.",
-                "en": "Parking is often free or cheaper in winter."
+                "en": "Parking is often free or cheaper in winter.",
+                "fr": "Le stationnement est souvent gratuit ou moins cher en hiver."
               }
             },
             {
@@ -1673,7 +1833,8 @@
                 "de": "Nutzen Sie die Heizung, um sich nach dem Mauerspaziergang aufzuwärmen.",
                 "hu": "Használja a fűtést, hogy felmelegedjen a bástyaséta után.",
                 "ro": "Folosiți încălzirea pentru a vă încălzi după plimbarea pe ziduri.",
-                "en": "Use the heater to warm up after a walk on the walls."
+                "en": "Use the heater to warm up after a walk on the walls.",
+                "fr": "Utilisez le chauffage pour vous réchauffer après une promenade sur les remparts."
               }
             },
             {
@@ -1682,7 +1843,8 @@
                 "de": "Die Dorfstraßen sind im Winter sehr ruhig und gut befahrbar.",
                 "hu": "A falu utcái télen nagyon csendesek és jól járhatók.",
                 "ro": "Străzile satului sunt foarte liniștite și ușor de parcurs iarna.",
-                "en": "The village streets are very quiet and easy to drive in winter."
+                "en": "The village streets are very quiet and easy to drive in winter.",
+                "fr": "Les rues du village sont très calmes et faciles à parcourir en hiver."
               }
             },
             {
@@ -1691,7 +1853,8 @@
                 "de": "Beachten Sie die eingeschränkten Winteröffnungszeiten.",
                 "hu": "Vegye figyelembe a korlátozott téli nyitvatartást.",
                 "ro": "Rețineți programul de iarnă limitat.",
-                "en": "Note the limited winter opening hours."
+                "en": "Note the limited winter opening hours.",
+                "fr": "Notez les horaires d'ouverture limités en hiver."
               }
             },
             {
@@ -1700,7 +1863,8 @@
                 "de": "Der Parkplatz ist im Winter fast leer; kurzer Weg zum Turm.",
                 "hu": "A parkoló télen majdnem üres; rövid út a toronyig.",
                 "ro": "Parcarea este aproape goală iarna; drum scurt până la turn.",
-                "en": "The parking lot is almost empty in winter; short walk to the tower."
+                "en": "The parking lot is almost empty in winter; short walk to the tower.",
+                "fr": "Le parking est presque vide en hiver ; courte marche jusqu'à la tour."
               }
             },
             {
@@ -1709,7 +1873,8 @@
                 "de": "Genießen Sie den Sonnenuntergang bequem vom Beifahrersitz.",
                 "hu": "Élvezze a naplementét kényelmesen az anyósülésről.",
                 "ro": "Bucurați-vă de apus confortabil de pe scaunul pasagerului.",
-                "en": "Enjoy the sunset comfortably from the passenger seat."
+                "en": "Enjoy the sunset comfortably from the passenger seat.",
+                "fr": "Profitez du coucher de soleil confortablement depuis le siège passager."
               }
             }
           ],
@@ -1737,6 +1902,12 @@
               "The bridge toll remains in effect during winter.",
               "Use the off-season for relaxed driving without traffic jams.",
               "Many small shops have winter holidays."
+            ],
+            "fr": [
+              "Vérifiez l'antigel dans le système de lave-glace.",
+              "Le péage du pont reste en vigueur pendant l'hiver.",
+              "Profitez de la basse saison pour une conduite détendue sans embouteillages.",
+              "De nombreux petits commerces ont des vacances d'hiver."
             ]
           }
         }
@@ -1765,7 +1936,8 @@
             "de": "Knotenpunkt für alle Buslinien (Linie 3).",
             "hu": "Minden buszjárat csomópontja (3-as vonal).",
             "ro": "Nod central pentru toate liniile de autobuz.",
-            "en": "Hub for all bus lines (Line 3)."
+            "en": "Hub for all bus lines (Line 3).",
+            "fr": "Hub pour toutes les lignes de bus (Ligne 3)."
           }
         },
         {
@@ -1783,7 +1955,8 @@
             "de": "Ein Dorf mit wunderschönen Sandstränden.",
             "hu": "Falu gyönyörű homokos strandokkal.",
             "ro": "Un sat cu plaje de nisip superbe.",
-            "en": "A village with beautiful sandy beaches."
+            "en": "A village with beautiful sandy beaches.",
+            "fr": "Un village avec de belles plages de sable."
           }
         },
         {
@@ -1801,7 +1974,8 @@
             "de": "Besuchen Sie die Kunstgalerien im Dorfzentrum.",
             "hu": "Látogassa meg a művészeti galériákat a faluközpontban.",
             "ro": "Vizitați galeriile de artă din centrul satului.",
-            "en": "Visit the art galleries in the village center."
+            "en": "Visit the art galleries in the village center.",
+            "fr": "Visitez les galeries d'art du centre du village."
           }
         },
         {
@@ -1819,7 +1993,8 @@
             "de": "Die Endstation der Linie 3 an der Westküste.",
             "hu": "A 3-as buszvonal végállomása a nyugati parton.",
             "ro": "Capătul de linie al rutei 3 pe coasta de vest.",
-            "en": "The terminus of Line 3 on the west coast."
+            "en": "The terminus of Line 3 on the west coast.",
+            "fr": "Le terminus de la Ligne 3 sur la côte ouest."
           }
         },
         {
@@ -1837,7 +2012,8 @@
             "de": "Ein kurzer Spaziergang vom Leuchtturm zum Strand.",
             "hu": "Rövid séta a világítótoronytól a strandig.",
             "ro": "O scurtă plimbare de la far până la plajă.",
-            "en": "A short walk from the lighthouse to the beach."
+            "en": "A short walk from the lighthouse to the beach.",
+            "fr": "Une courte promenade du phare à la plage."
           }
         }
       ],
@@ -1845,7 +2021,8 @@
         "de": "Nutzen Sie den bequemen Bus 'Ré Réjoui' (Linie 3), um die Insel zu erkunden. Starten Sie im historischen Saint-Martin, bevor Sie nach La Couarde weiterfahren, um die Strände zu genießen. Der Bus bringt Sie direkt ins malerische Ars-en-Ré mit seinen weißen Häusern. Zum Abschluss erreichen Sie die Westspitze beim Phare des Baleines. Genießen Sie die Aussicht und den wilden Strand, bevor Sie mit dem Abendbus zurückfahren.",
         "hu": "Használja a kényelmes 'Ré Réjoui' buszt (3-as vonal) a sziget felfedezéséhez. Kezdjen a történelmi Saint-Martinben, majd utazzon tovább La Couarde-ba a strandokért. A busz közvetlenül a festői, fehér házas Ars-en-Ré-be repíti. Zárásként érje el a nyugati csücsökben lévő Phare des Baleines-t. Élvezze a kilátást és a vadpartot, mielőtt visszaszállna az esti buszra.",
         "ro": "Folosiți autobuzul convenabil 'Ré Réjoui' (Linia 3) pentru a explora insula. Începeți în istoricul Saint-Martin, apoi mergeți spre La Couarde pentru plajele sale. Autobuzul vă duce direct în pitorescul Ars-en-Ré cu casele sale albe. La final, ajungeți în vârful vestic la farul Baleines. Bucurați-vă de priveliște și de plaja sălbatică înainte de a lua autobuzul de seară înapoi.",
-        "en": "Use the convenient 'Ré Réjoui' bus (Line 3) to explore the island. Start in historic Saint-Martin before heading to La Couarde for its beaches. The bus takes you directly to the picturesque white houses of Ars-en-Ré. To finish, reach the western tip at Phare des Baleines. Enjoy the views and the wild beach before catching the evening bus back."
+        "en": "Use the convenient 'Ré Réjoui' bus (Line 3) to explore the island. Start in historic Saint-Martin before heading to La Couarde for its beaches. The bus takes you directly to the picturesque white houses of Ars-en-Ré. To finish, reach the western tip at Phare des Baleines. Enjoy the views and the wild beach before catching the evening bus back.",
+        "fr": "Utilisez le bus pratique « Ré Réjoui » (Ligne 3) pour explorer l'île. Commencez par le quartier historique de Saint-Martin avant de vous diriger vers La Couarde pour ses plages. Le bus vous emmène directement vers les maisons blanches pittoresques d'Ars-en-Ré. Pour finir, rejoignez la pointe ouest au Phare des Baleines. Profitez de la vue et de la plage sauvage avant de prendre le bus du soir pour le retour."
       },
       "gastro_picks": {
         "de": [
@@ -1870,6 +2047,12 @@
           {
             "name": "Galettes Charentaises",
             "tip": "Traditional butter biscuits."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Galettes charentaises",
+            "tip": "Biscuits au beurre traditionnels."
           }
         ]
       },
@@ -1901,6 +2084,13 @@
             "tip": "Quiet spots among the dunes.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Dunes de La Couarde",
+            "tip": "Coins tranquilles parmi les dunes.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1927,6 +2117,12 @@
             "name": "Savonnerie de l'île de Ré",
             "tip": "Handmade soaps with donkey milk."
           }
+        ],
+        "fr": [
+          {
+            "name": "Savonnerie de l'île de Ré",
+            "tip": "Savons artisanaux au lait d'ânesse."
+          }
         ]
       },
       "tips": {
@@ -1949,6 +2145,11 @@
           "Buy a day ticket from the driver.",
           "Buses run every 30-60 minutes in summer.",
           "Check the timetable for the last return trip."
+        ],
+        "fr": [
+          "Achetez un ticket à la journée auprès du chauffeur.",
+          "Les bus passent toutes les 30 à 60 minutes en été.",
+          "Vérifiez les horaires pour le dernier trajet de retour."
         ]
       },
       "variants": {
@@ -2116,7 +2317,8 @@
             "de": "Mit dem Shuttle-Bus 'Navette' gelangen wir trocken zum Hafen von Saint-Martin. Mittags bietet der Aufenthalt im Dorf Schutz vor den Schauern. Nachmittags fahren wir weiter nach Ars-en-Ré und zum Leuchtturm, während der Regen gegen die Busscheiben trommelt. Der Tag endet mit einer entspannten Rückfahrt durch die regnerische Insellandschaft.",
             "hu": "A 'Navette' ingajárattal szárazon jutunk el Saint-Martin kikötőjébe. Délben a faluban való tartózkodás védelmet nyújt a záporok elől. Délután Ars-en-Ré-be és a világítótoronyhoz utazunk tovább, miközben az eső a busz ablakán kopog. A nap pihentető visszautazással zárul az esős szigeti tájon keresztül.",
             "ro": "Cu autobuzul 'Navette' ajungem la uscat în portul Saint-Martin. La prânz, șederea în sat oferă protecție împotriva averselor. După-amiaza continuăm spre Ars-en-Ré și spre far, în timp ce ploaia bate în geamurile autobuzului. Ziua se încheie cu o întoarcere relaxată prin peisajul ploios al insulei.",
-            "en": "With the 'Navette' shuttle, we get to the port of Saint-Martin dry. At noon, staying in the village offers protection from the showers. In the afternoon, we continue to Ars-en-Ré and the lighthouse while the rain drums against the bus windows. The day ends with a relaxed return journey through the rainy island landscape."
+            "en": "With the 'Navette' shuttle, we get to the port of Saint-Martin dry. At noon, staying in the village offers protection from the showers. In the afternoon, we continue to Ars-en-Ré and the lighthouse while the rain drums against the bus windows. The day ends with a relaxed return journey through the rainy island landscape.",
+            "fr": "Avec la navette, nous arrivons au port de Saint-Martin au sec. À midi, rester dans le village offre une protection contre les averses. L'après-midi, nous continuons vers Ars-en-Ré et le phare tandis que la pluie tambourine contre les vitres du bus. La journée se termine par un voyage de retour détendu à travers le paysage pluvieux de l'île."
           },
           "stops": [
             {
@@ -2125,7 +2327,8 @@
                 "de": "Die Haltestellen haben oft kleine Unterstände.",
                 "hu": "A megállóhelyeken gyakran vannak kis várók.",
                 "ro": "Stațiile au adesea mici adăposturi.",
-                "en": "The bus stops often have small shelters."
+                "en": "The bus stops often have small shelters.",
+                "fr": "Les arrêts de bus ont souvent de petits abris."
               }
             },
             {
@@ -2134,7 +2337,8 @@
                 "de": "Bei starkem Regen lieber im Bus bleiben bis zur nächsten Ortschaft.",
                 "hu": "Erős esőben érdemes a buszon maradni a következő településig.",
                 "ro": "În caz de ploaie puternică, e mai bine să rămâneți în autobuz până la următorul sat.",
-                "en": "In heavy rain, better stay on the bus until the next village."
+                "en": "In heavy rain, better stay on the bus until the next village.",
+                "fr": "En cas de forte pluie, il vaut mieux rester dans le bus jusqu'au village suivant."
               }
             },
             {
@@ -2143,7 +2347,8 @@
                 "de": "Vom Busstop ist es nur ein kurzer Weg zu den Cafés am Marktplatz.",
                 "hu": "A buszmegállótól csak rövid út vezet a főtéri kávézókig.",
                 "ro": "De la stația de autobuz este doar un drum scurt până la cafenelele din piață.",
-                "en": "From the bus stop, it's only a short walk to the cafes on the square."
+                "en": "From the bus stop, it's only a short walk to the cafes on the square.",
+                "fr": "Depuis l'arrêt de bus, il n'y a qu'une courte marche jusqu'aux cafés de la place."
               }
             },
             {
@@ -2152,7 +2357,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten, um nicht im Regen warten zu müssen.",
                 "hu": "Ellenőrizze a visszaindulási időket, hogy ne kelljen az esőben várni.",
                 "ro": "Verificați orele de întoarcere pentru a nu fi nevoit să așteptați în ploaie.",
-                "en": "Check return times to avoid waiting in the rain."
+                "en": "Check return times to avoid waiting in the rain.",
+                "fr": "Vérifiez les horaires de retour pour éviter d'attendre sous la pluie."
               }
             },
             {
@@ -2161,7 +2367,8 @@
                 "de": "Ein Strandbesuch bei Regen ist nur für Hartgesottene.",
                 "hu": "Az esős tengerparti látogatás csak a legelszántabbaknak való.",
                 "ro": "O vizită la plajă în ploaie este doar pentru cei curajoși.",
-                "en": "A beach visit in the rain is only for the hardy."
+                "en": "A beach visit in the rain is only for the hardy.",
+                "fr": "Une visite à la plage sous la pluie n'est réservée qu'aux plus téméraires."
               }
             }
           ],
@@ -2189,6 +2396,12 @@
               "Download the schedule app for real-time info during weather changes.",
               "Have change or a card ready for ticket purchase.",
               "Buses are often more crowded than usual when it rains."
+            ],
+            "fr": [
+              "Les bus de la Ligne 3 (Les Mouettes) circulent toute l'année.",
+              "Téléchargez l'application des horaires pour des infos en temps réel lors des changements météo.",
+              "Prévoyez de la monnaie ou une carte pour l'achat des billets.",
+              "Les bus sont souvent plus bondés que d'habitude lorsqu'il pleut."
             ]
           }
         },
@@ -2197,7 +2410,8 @@
             "de": "An einem klaren Wintertag bringt uns der Bus zum ruhigen Hafen von Saint-Martin. Mittags genießen wir die Stille, bevor wir durch die Pinienwälder nach La Couarde fahren. Der Nachmittag in Ars-en-Ré ist friedlich, und die Fahrt zum Leuchtturm zeigt uns die weiten, leeren Felder der Insel. Den Tag beenden wir mit einer warmen Busfahrt zurück, während die Sonne früh versinkt.",
             "hu": "Egy tiszta téli napon a busz Saint-Martin csendes kikötőjébe visz minket. Délben élvezzük a nyugalmat, mielőtt a fenyőerdőkön át La Couarde-ba utaznánk. Az Ars-en-Ré-ben töltött délután békés, a világítótorony felé vezető út pedig a sziget tágas, üres mezőit mutatja. A napot meleg buszozással zárjuk visszafelé, miközben a nap korán lebukik.",
             "ro": "Într-o zi senină de iarnă, autobuzul ne duce în portul liniștit Saint-Martin. La prânz ne bucurăm de liniște înainte de a călători prin pădurile de pini spre La Couarde. După-amiaza în Ars-en-Ré este pașnică, iar drumul spre far ne arată câmpurile largi și goale ale insulei. Încheiem ziua cu o călătorie caldă cu autobuzul înapoi, în timp ce soarele apune devreme.",
-            "en": "On a clear winter day, the bus takes us to the quiet port of Saint-Martin. At noon, we enjoy the peace before traveling through the pine forests to La Couarde. The afternoon in Ars-en-Ré is peaceful, and the journey to the lighthouse shows us the vast, empty fields of the island. We end the day with a warm bus ride back as the sun sets early."
+            "en": "On a clear winter day, the bus takes us to the quiet port of Saint-Martin. At noon, we enjoy the peace before traveling through the pine forests to La Couarde. The afternoon in Ars-en-Ré is peaceful, and the journey to the lighthouse shows us the vast, empty fields of the island. We end the day with a warm bus ride back as the sun sets early.",
+            "fr": "Par une claire journée d'hiver, le bus nous emmène au port tranquille de Saint-Martin. À midi, nous profitons du calme avant de traverser les forêts de pins vers La Couarde. L'après-midi à Ars-en-Ré est paisible, et le voyage vers le phare nous montre les vastes champs vides de l'île. Nous terminons la journée par un trajet en bus chaleureux tandis que le soleil se couche tôt."
           },
           "stops": [
             {
@@ -2206,7 +2420,8 @@
                 "de": "Im Winter verkehren die Busse seltener; Fahrplan prüfen.",
                 "hu": "Télen a buszok ritkábban közlekednek; ellenőrizze a menetrendet.",
                 "ro": "Iarna autobuzele circulă mai rar; verificați mersul acestora.",
-                "en": "Buses run less frequently in winter; check the schedule."
+                "en": "Buses run less frequently in winter; check the schedule.",
+                "fr": "Les bus circulent moins fréquemment en hiver ; vérifiez les horaires."
               }
             },
             {
@@ -2215,7 +2430,8 @@
                 "de": "Der Strandspaziergang ist im Winter erfrischend, aber kalt.",
                 "hu": "A tengerparti séta télen frissítő, de hideg.",
                 "ro": "Plimbarea pe plajă este revigorantă iarna, dar rece.",
-                "en": "The beach walk is refreshing in winter, but cold."
+                "en": "The beach walk is refreshing in winter, but cold.",
+                "fr": "La promenade sur la plage est rafraîchissante en hiver, mais froide."
               }
             },
             {
@@ -2224,7 +2440,8 @@
                 "de": "Im Winter sind einige Haltestellen in den Dörfern verlegt.",
                 "hu": "Télen a falvakban néhány megállóhelyet áthelyezhetnek.",
                 "ro": "Iarna, unele stații din sate pot fi mutate.",
-                "en": "In winter, some stops in the villages may be relocated."
+                "en": "In winter, some stops in the villages may be relocated.",
+                "fr": "En hiver, certains arrêts dans les villages peuvent être déplacés."
               }
             },
             {
@@ -2233,7 +2450,8 @@
                 "de": "Der letzte Bus fährt im Winter oft schon vor 18:00 Uhr.",
                 "hu": "Télen az utolsó busz gyakran már 18:00 előtt elindul.",
                 "ro": "Iarna, ultimul autobuz pleacă adesea înainte de ora 18:00.",
-                "en": "In winter, the last bus often departs before 18:00."
+                "en": "In winter, the last bus often departs before 18:00.",
+                "fr": "En hiver, le dernier bus part souvent avant 18h00."
               }
             },
             {
@@ -2242,7 +2460,8 @@
                 "de": "Achten Sie auf die Lichtverhältnisse für den Rückweg zum Bus.",
                 "hu": "Ügyeljen a fényviszonyokra a buszhoz való visszatéréskor.",
                 "ro": "Atenție la condițiile de lumină pentru drumul de întoarcere la autobuz.",
-                "en": "Watch the light conditions for the walk back to the bus."
+                "en": "Watch the light conditions for the walk back to the bus.",
+                "fr": "Surveillez la luminosité pour la marche de retour vers le bus."
               }
             }
           ],
@@ -2270,6 +2489,12 @@
               "Buses are well-heated and comfortable in winter.",
               "Some stops are not served during the off-season.",
               "Combine the bus with short walks to stay warm."
+            ],
+            "fr": [
+              "Profitez du tarif hivernal, souvent moins cher.",
+              "Les bus sont bien chauffés et confortables en hiver.",
+              "Certains arrêts ne sont pas desservis hors saison.",
+              "Combinez le bus avec de courtes marches pour rester au chaud."
             ]
           }
         }

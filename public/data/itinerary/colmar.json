@@ -36,7 +36,8 @@
             "de": "Bewundern Sie den Isenheimer Altar früh, bevor die Massen kommen.",
             "hu": "Nézd meg az Isenheimi oltárt korán, mielőtt megérkezik a tömeg.",
             "ro": "Admirați Altarul din Isenheim devreme, înainte de aglomerație.",
-            "en": "See the Isenheim Altarpiece early before the crowds arrive."
+            "en": "See the Isenheim Altarpiece early before the crowds arrive.",
+            "fr": "Admirez le Retable d'Issenheim tôt le matin avant l'arrivée de la foule."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Achten Sie auf die Wandmalereien, die biblische Szenen darstellen.",
             "hu": "Figyeld meg a bibliai jeleneteket ábrázoló falfestményeket.",
             "ro": "Observați picturile murale care înfățișează scene biblice.",
-            "en": "Look closely at the murals depicting biblical scenes."
+            "en": "Look closely at the murals depicting biblical scenes.",
+            "fr": "Observez de près les peintures murales illustrant des scènes bibliques."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Suchen Sie das Storchennest auf dem Dach der Kirche.",
             "hu": "Keresd meg a gólyafészket a templom tetején.",
             "ro": "Căutați cuibul de berze de pe acoperișul bisericii.",
-            "en": "Look for the stork's nest on the roof of the church."
+            "en": "Look for the stork's nest on the roof of the church.",
+            "fr": "Cherchez le nid de cigognes sur le toit de l'église."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Kaufen Sie hier elsässischen Münsterkäse direkt vom Erzeuger.",
             "hu": "Vegyél itt kézműves elzászi Münster sajtot közvetlenül a termelőtől.",
             "ro": "Cumpărați brânză Münster alsaciană direct de la producători.",
-            "en": "Buy authentic Alsatian Münster cheese directly from producers here."
+            "en": "Buy authentic Alsatian Münster cheese directly from producers here.",
+            "fr": "Achetez de l'authentique fromage de Munster alsacien directement aux producteurs ici."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Die Brücke 'Pont Saint-Pierre' bietet das beste Fotomotiv.",
             "hu": "A Pont Saint-Pierre híd kínálja a legjobb fotótémát.",
             "ro": "Podul Pont Saint-Pierre oferă cea mai bună perspectivă foto.",
-            "en": "The Pont Saint-Pierre bridge offers the best photo opportunity."
+            "en": "The Pont Saint-Pierre bridge offers the best photo opportunity.",
+            "fr": "Le pont Saint-Pierre offre le meilleur spot pour vos photos."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Ideal für eine Pause am Brunnen von Bruat.",
             "hu": "Ideális egy pihenőhöz a Bruat-szökőkút mellett.",
             "ro": "Ideal pentru o pauză lângă fântâna lui Bruat.",
-            "en": "Perfect for a break near the Bruat fountain."
+            "en": "Perfect for a break near the Bruat fountain.",
+            "fr": "Parfait pour une pause près de la fontaine Bruat."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Beginnen Sie Ihren Tag im Unterlinden-Museum, um die Kunstschätze des Elsass zu entdecken. Danach schlendern Sie durch die malerische Altstadt zur Maison Pfister und dem imposanten Martinsmünster. Die Mittagszeit verbringen Sie in der lebhaften Markthalle. Am Nachmittag verzaubert Sie das Viertel Klein-Venedig mit seinen Kanälen, bevor Sie im weitläufigen Champ de Mars entspannen.",
         "hu": "Kezdje a napot az Unterlinden Múzeumban, Elzász művészeti kincsei között. Ezután sétáljon az óvárosban a Pfister-házhoz és a monumentális Szent Márton-templomhoz. Ebédeljen a nyüzsgő Vásárcsarnokban, majd délután hagyja, hogy elvarázsolja a Kis Velence csatornapartja. A napot a tágas Champ de Mars parkban zárhatja pihenéssel.",
         "ro": "Începeți ziua la Muzeul Unterlinden pentru a descoperi comorile artistice ale Alsaciei. Apoi, plimbați-vă prin orașul vechi către Casa Pfister și impunătoarea Catedrală Sf. Martin. Petreceți prânzul în Piața Acoperită, iar după-amiaza lăsați-vă fermecați de canalele din Mica Veneție. Încheiați ziua cu o relaxare binemeritată în parcul Champ de Mars.",
-        "en": "Start your day at the Unterlinden Museum to discover Alsace's artistic treasures. Then, stroll through the old town to see the Pfister House and the grand St. Martin's Church. Enjoy lunch at the vibrant Covered Market, and in the afternoon, let the canals of Little Venice enchant you. Finish your journey with a relaxing walk in the spacious Champ de Mars park."
+        "en": "Start your day at the Unterlinden Museum to discover Alsace's artistic treasures. Then, stroll through the old town to see the Pfister House and the grand St. Martin's Church. Enjoy lunch at the vibrant Covered Market, and in the afternoon, let the canals of Little Venice enchant you. Finish your journey with a relaxing walk in the spacious Champ de Mars park.",
+        "fr": "Commencez votre journée au Musée Unterlinden pour découvrir les trésors artistiques de l'Alsace. Flânez ensuite dans la vieille ville pour admirer la Maison Pfister et la majestueuse Collégiale Saint-Martin. Déjeunez au Marché Couvert très animé, et l'après-midi, laissez-vous envoûter par les canaux de la Petite Venise. Terminez votre périple par une promenade relaxante dans le vaste parc du Champ-de-Mars."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "Tarte Flambée",
             "tip": "Try the crispy Alsatian flatbread at La Soï."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Baeckeoffe",
+            "tip": "Un ragoût de viande traditionnel mijoté lentement, à déguster Aux Armes de Colmar."
+          },
+          {
+            "name": "Tarte Flambée",
+            "tip": "Goûtez à cette fine galette alsacienne croustillante chez La Soï."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "A small, hidden garden for meditation and peace.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Sentier des rives de la Lauch",
+            "tip": "Un chemin paisible le long de la rivière au sud du centre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Square de la Montagne Verte",
+            "tip": "Un petit jardin caché pour la méditation et le calme.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +322,16 @@
             "name": "Fortwenger",
             "tip": "Famous gingerbread and traditional Alsatian sweets."
           }
+        ],
+        "fr": [
+          {
+            "name": "Au Vieux Pignon",
+            "tip": "Souvenirs alsaciens classiques et artisanat local."
+          },
+          {
+            "name": "Fortwenger",
+            "tip": "Pain d'épices célèbre et douceurs traditionnelles alsaciennes."
+          }
         ]
       },
       "tips": {
@@ -319,6 +358,12 @@
           "Early morning is the best time for photos without tourist crowds.",
           "A boat trip in Little Venice takes about 25 minutes and is highly recommended.",
           "Make sure to book restaurant tables for dinner well in advance."
+        ],
+        "fr": [
+          "La vieille ville est presque entièrement piétonne, prévoyez donc des chaussures confortables.",
+          "Le petit matin est le meilleur moment pour prendre des photos sans la foule des touristes.",
+          "Une balade en barque dans la Petite Venise dure environ 25 minutes et est vivement recommandée.",
+          "Assurez-vous de réserver votre table pour le dîner bien à l'avance."
         ]
       },
       "variants": {
@@ -581,7 +626,8 @@
             "de": "Ein regnerischer Tag in Colmar beginnt trocken im Unterlinden Museum. Mittags bietet die historische Markthalle den perfekten Unterschlupf für eine elsässische Pause. Der Nachmittag in Petite Venise hat mit Schirm einen besonderen Charme, gefolgt von einem gemütlichen Ausklang in einem Café nahe des Champ de Mars, während die Tropfen gegen die Scheiben klopfen.",
             "hu": "Egy esős nap Colmarban az Unterlinden Múzeum falai között kezdődik, távol a víztől. Ebédidőben a Fedett Piac nyújt biztos menedéket és helyi ízeket. Délután esernyővel barangolunk Kis Velence csatornái mentén, majd a napot a Champ de Mars melletti egyik hangulatos kávézóban zárjuk, figyelve az eső kopogását.",
             "ro": "O zi ploioasă în Colmar începe la adăpostul Muzeului Unterlinden. La prânz, Piața Acoperită oferă refugiul ideal pentru a degusta specialități alsaciene. După-amiaza explorăm Mica Veneție sub protecția umbrelei, încheind vizita într-o cafenea călduroasă lângă Champ de Mars, în timp ce ploaia spală străzile vechi.",
-            "en": "A rainy day in Colmar starts dry within the walls of the Unterlinden Museum. At lunch, the Covered Market provides the perfect shelter to enjoy Alsatian delicacies. Spend the afternoon exploring Little Venice with an umbrella, then end the day in a cozy café near Champ de Mars, watching the rain fall on the historic streets."
+            "en": "A rainy day in Colmar starts dry within the walls of the Unterlinden Museum. At lunch, the Covered Market provides the perfect shelter to enjoy Alsatian delicacies. Spend the afternoon exploring Little Venice with an umbrella, then end the day in a cozy café near Champ de Mars, watching the rain fall on the historic streets.",
+            "fr": "Une journée pluvieuse à Colmar commence au sec entre les murs du Musée Unterlinden. À l'heure du déjeuner, le Marché Couvert offre l'abri idéal pour savourer des spécialités alsaciennes. Passez l'après-midi à explorer la Petite Venise sous un parapluie, puis terminez la journée dans un café chaleureux près du Champ-de-Mars, en regardant la pluie tomber sur les rues historiques."
           },
           "stops": [
             {
@@ -663,6 +709,12 @@
               "The Covered Market is the best place to stay dry during persistent rain.",
               "Many cafés in the old town have covered outdoor areas with heaters.",
               "Take advantage of rain breaks for photos in Little Venice when colors look more vibrant."
+            ],
+            "fr": [
+              "Les pavés de Colmar peuvent être glissants lorsqu'ils sont mouillés ; portez des chaussures avec une bonne adhérence.",
+              "Le Marché Couvert est le meilleur endroit pour rester au sec lors d'une pluie persistante.",
+              "De nombreux cafés de la vieille ville disposent de terrasses couvertes et chauffées.",
+              "Profitez des éclaircies pour prendre des photos dans la Petite Venise, les couleurs y sont plus éclatantes."
             ]
           }
         },
@@ -671,7 +723,8 @@
             "de": "Winter in Colmar bedeutet Märchenstimmung pur. Morgens wärmen wir uns bei der Kunst im Unterlinden Museum auf, bevor wir durch die festlich geschmückten Gassen zum Pfisterhaus schlendern. Mittags lockt der Duft von Glühwein in der Markthalle. Der frühe Sonnenuntergang taucht Petite Venise in goldenes Licht, perfekt für einen heißen Kakao am Champ de Mars.",
             "hu": "A téli Colmar maga a megelevenedett tündérmese. Reggel az Unterlinden Múzeum műtárgyai között melegszünk fel, majd a díszes utcákon át sétálunk a Pfister-házhoz. Ebédkor a forralt bor illata vonz minket a piachoz. A korai naplemente arany fénybe vonja Kis Velencét, mielőtt egy forró csokoládéval zárnánk a napot.",
             "ro": "Iarna în Colmar este o poveste vie. Dimineața ne încălzim printre artele din Muzeul Unterlinden, apoi ne plimbăm spre Casa Pfister prin străzile decorate. La prânz, mirosul de vin fiert ne atrage spre Piața Acoperită. Apusul timpuriu scaldă Mica Veneție în lumină aurie, ideal înainte de o ciocolată caldă la Champ de Mars.",
-            "en": "Winter in Colmar is a living fairytale. In the morning, warm up among the arts of the Unterlinden Museum before strolling to Pfister House through festive streets. At lunch, the scent of mulled wine draws you to the Market. The early sunset bathes Little Venice in golden light, perfect before a hot chocolate at Champ de Mars."
+            "en": "Winter in Colmar is a living fairytale. In the morning, warm up among the arts of the Unterlinden Museum before strolling to Pfister House through festive streets. At lunch, the scent of mulled wine draws you to the Market. The early sunset bathes Little Venice in golden light, perfect before a hot chocolate at Champ de Mars.",
+            "fr": "L'hiver à Colmar est un véritable conte de fées. Le matin, réchauffez-vous au milieu des œuvres d'art du Musée Unterlinden avant de rejoindre la Maison Pfister à travers les rues festives. Au déjeuner, l'odeur du vin chaud vous attirera vers le Marché. Le coucher de soleil précoce baigne la Petite Venise d'une lumière dorée, idéal avant un chocolat chaud au Champ-de-Mars."
           },
           "stops": [
             {
@@ -753,6 +806,12 @@
               "Layered clothing is essential as museums and cafés are heavily heated.",
               "Hot drinks are sold at almost every corner in the old town.",
               "Visit the Christmas markets, which are often open until late December."
+            ],
+            "fr": [
+              "Le soleil se couche dès 16h45 en décembre ; planifiez vos photos en conséquence.",
+              "S'habiller en plusieurs couches est essentiel car les musées et cafés sont très chauffés.",
+              "Des boissons chaudes sont vendues à presque tous les coins de rue de la vieille ville.",
+              "Visitez les marchés de Noël, qui sont souvent ouverts jusqu'à la fin décembre."
             ]
           }
         }
@@ -786,7 +845,8 @@
             "de": "Steht in einem Kreisverkehr am nördlichen Stadteingang.",
             "hu": "Egy körforgalom közepén áll a város északi bejáratánál.",
             "ro": "Se află într-un sens giratoriu la intrarea de nord a orașului.",
-            "en": "Located in a roundabout at the northern entrance of the city."
+            "en": "Located in a roundabout at the northern entrance of the city.",
+            "fr": "Située sur un rond-point à l'entrée nord de la ville."
           }
         },
         {
@@ -809,7 +869,8 @@
             "de": "Die hohen Fachwerkhäuser dienten zum Trocknen von Fellen.",
             "hu": "A magas gerendavázas házak a bőrök szárítására szolgáltak.",
             "ro": "Casele înalte din lemn erau folosite pentru uscarea pieilor.",
-            "en": "The tall half-timbered houses were used for drying hides."
+            "en": "The tall half-timbered houses were used for drying hides.",
+            "fr": "Les hautes maisons à colombages servaient autrefois au séchage des peaux."
           }
         },
         {
@@ -832,7 +893,8 @@
             "de": "Probieren Sie den lokalen Weißwein (Riesling oder Gewürztraminer).",
             "hu": "Kóstolja meg a helyi fehérbort (Rizling vagy Gewürztraminer).",
             "ro": "Gustați vinul alb local (Riesling sau Gewürztraminer).",
-            "en": "Taste the local white wine (Riesling or Gewürztraminer)."
+            "en": "Taste the local white wine (Riesling or Gewürztraminer).",
+            "fr": "Dégustez le vin blanc local (Riesling ou Gewürztraminer)."
           }
         },
         {
@@ -855,7 +917,8 @@
             "de": "Flache und grüne Strecke, ideal für entspanntes Radeln.",
             "hu": "Sík és zöld útvonal, ideális a pihentető tekeréshez.",
             "ro": "Traseu plat și verde, ideal pentru o plimbare relaxată.",
-            "en": "Flat and green route, ideal for a relaxed bike ride."
+            "en": "Flat and green route, ideal for a relaxed bike ride.",
+            "fr": "Itinéraire plat et verdoyant, idéal pour une balade à vélo détendue."
           }
         },
         {
@@ -878,7 +941,8 @@
             "de": "Das Geburtshaus des Schöpfers der Freiheitsstatue.",
             "hu": "A Szabadság-szobor alkotójának szülőháza.",
             "ro": "Casa natală a creatorului Statuii Libertății.",
-            "en": "The birthplace of the creator of the Statue of Liberty."
+            "en": "The birthplace of the creator of the Statue of Liberty.",
+            "fr": "La maison natale du créateur de la Statue de la Liberté."
           }
         }
       ],
@@ -886,7 +950,8 @@
         "de": "Erkunden Sie Colmar auf zwei Rädern. Starten Sie mit der imposanten Freiheitsstatue-Replik im Norden. Radeln Sie zurück durch das historische Gerberviertel und genießen Sie ein traditionelles Mittagessen in einer Winstub. Der Nachmittag führt Sie entlang des idyllischen Lauch-Radwegs ins Grüne, bevor Sie den Tag im Bartholdi-Museum abrunden.",
         "hu": "Fedezze fel Colmart két keréken. Kezdje az északi városrészen a Szabadság-szobor másolatánál. Tekerjen vissza a történelmi Tímár-negyeden át, és ebédeljen egy hagyományos Winstubban. Délután az idilli Lauch-menti kerékpárút vezet a zöldbe, mielőtt a napot a Bartholdi Múzeumban fejezné be.",
         "ro": "Explorați Colmar pe două roți. Începeți cu replica impresionantă a Statuii Libertății din nord. Mergeți cu bicicleta înapoi prin cartierul istoric al tăbăcarilor și savurați un prânz tradițional într-un Winstub. După-amiaza vă poartă pe idilica pistă de biciclete Lauch, înainte de a încheia ziua la Muzeul Bartholdi.",
-        "en": "Explore Colmar on two wheels. Start with the impressive Statue of Liberty replica in the north. Cycle back through the historic Tanners' Quarter and enjoy a traditional lunch in a local Winstub. The afternoon takes you along the idyllic Lauch riverside bike path before rounding off the day at the Bartholdi Museum."
+        "en": "Explore Colmar on two wheels. Start with the impressive Statue of Liberty replica in the north. Cycle back through the historic Tanners' Quarter and enjoy a traditional lunch in a local Winstub. The afternoon takes you along the idyllic Lauch riverside bike path before rounding off the day at the Bartholdi Museum.",
+        "fr": "Explorez Colmar sur deux roues. Commencez par l'impressionnante réplique de la Statue de la Liberté au nord. Revenez par le quartier historique des Tanneurs et savourez un déjeuner traditionnel dans une Winstub locale. L'après-midi vous emmène le long de l'idyllique piste cyclable des rives de la Lauch avant de clore la journée au Musée Bartholdi."
       },
       "gastro_picks": {
         "de": [
@@ -927,6 +992,16 @@
           {
             "name": "Munster Cheese",
             "tip": "A must-try for cheese lovers at Fromagerie Saint Nicolas."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Choucroute",
+            "tip": "Un plat de choucroute traditionnelle au restaurant Le Fer Rouge."
+          },
+          {
+            "name": "Fromage de Munster",
+            "tip": "Un incontournable pour les amateurs de fromage à la Fromagerie Saint Nicolas."
           }
         ]
       },
@@ -978,6 +1053,18 @@
             "tip": "A place of silence and impressive sculptures.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Bords de la Lauch",
+            "tip": "L'endroit parfait pour un pique-nique à l'ombre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimetière du Ladhof",
+            "tip": "Un lieu de silence aux sculptures impressionnantes.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1020,6 +1107,16 @@
             "name": "Local Winery",
             "tip": "Buy wine directly from the city's estates (e.g. Domaine Martin Jund)."
           }
+        ],
+        "fr": [
+          {
+            "name": "Colmar Vélo",
+            "tip": "Location de vélos avec des accessoires utiles pour vos randonnées."
+          },
+          {
+            "name": "Domaine viticole local",
+            "tip": "Achetez du vin directement dans les domaines de la ville (ex: Domaine Martin Jund)."
+          }
         ]
       },
       "tips": {
@@ -1046,6 +1143,12 @@
           "Use the 'Vélodict' system for easy short-term rentals.",
           "Avoid cycling in the narrowest alleys during peak lunch hours.",
           "A lock is essential when you stop to visit the sights."
+        ],
+        "fr": [
+          "Il existe de nombreuses pistes cyclables, mais vous devrez peut-être pousser votre vélo dans certaines zones de la vieille ville.",
+          "Utilisez le système 'Vélodict' pour des locations de courte durée faciles.",
+          "Évitez de circuler dans les ruelles les plus étroites aux heures de pointe du déjeuner.",
+          "Un antivol est indispensable lorsque vous vous arrêtez pour visiter les sites."
         ]
       },
       "variants": {
@@ -1294,7 +1397,8 @@
             "de": "Trotz Regen ist Colmar per Rad machbar. Wir starten kurz bei der Freiheitsstatue, bevor wir im Gerberviertel Schutz suchen. Ein langes Winstub-Mittagessen lässt den Schauer vorbeiziehen. Die Fahrt am Lauch-Ufer erfordert Vorsicht bei Nässe, aber das Bartholdi Museum bietet einen trockenen und kulturellen Abschluss des Tages.",
             "hu": "Az eső ellenére Colmar kerékpárral is bejárható. Rövid megálló a Szabadság-szobornál, majd a Tímár-negyedben keresünk fedezéket. Egy hosszú Winstub-ebéd alatt megvárjuk a zápor végét. A Lauch-parti tekerés óvatosságot igényel a nedves úton, de a Bartholdi Múzeum száraz és kulturált zárást kínál.",
             "ro": "În ciuda ploii, Colmar este accesibil cu bicicleta. Începem scurt la Statuia Libertății, apoi căutăm adăpost în Cartierul Tăbăcarilor. Un prânz prelungit la Winstub lasă ploaia să treacă. Drumul pe malul râului Lauch cere prudență pe ud, dar Muzeul Bartholdi oferă un final de zi uscat și cultural.",
-            "en": "Despite the rain, Colmar is doable by bike. A quick stop at the Statue of Liberty, then we seek cover in the Tanners' Quarter. A long Winstub lunch lets the shower pass. Riding along the Lauch requires caution on wet paths, but the Bartholdi Museum offers a dry and cultural end to the day."
+            "en": "Despite the rain, Colmar is doable by bike. A quick stop at the Statue of Liberty, then we seek cover in the Tanners' Quarter. A long Winstub lunch lets the shower pass. Riding along the Lauch requires caution on wet paths, but the Bartholdi Museum offers a dry and cultural end to the day.",
+            "fr": "Malgré la pluie, Colmar est faisable à vélo. Un arrêt rapide à la Statue de la Liberté, puis nous cherchons refuge dans le Quartier des Tanneurs. Un long déjeuner en Winstub permet de laisser passer l'averse. Rouler le long de la Lauch demande de la prudence sur les sentiers mouillés, mais le Musée Bartholdi offre une fin de journée culturelle au sec."
           },
           "stops": [
             {
@@ -1367,6 +1471,12 @@
               "A rain poncho is more practical than an umbrella while cycling.",
               "Check if your rental bike has fenders to avoid splashes.",
               "The riverside paths can be muddy in places after heavy rain."
+            ],
+            "fr": [
+              "Évitez les freinages brusques sur les pavés mouillés.",
+              "Un poncho de pluie est plus pratique qu'un parapluie à vélo.",
+              "Vérifiez si votre vélo de location a des garde-boue pour éviter les éclaboussures.",
+              "Les chemins de rive peuvent être boueux par endroits après de fortes pluies."
             ]
           }
         },
@@ -1375,7 +1485,8 @@
             "de": "Eine Wintertour per Rad durch Colmar ist erfrischend. Von der Freiheitsstatue geht es zügig ins Gerberviertel. Ein wärmendes Mittagessen in einer Winstub ist Pflicht, bevor wir den frostigen Lauch-Radweg befahren. Die tiefstehende Sonne bietet tolle Fotomöglichkeiten, bevor wir uns im Bartholdi Museum aufwärmen und den Tag beenden.",
             "hu": "A téli kerékpáros túra Colmarban frissítő élmény. A Szabadság-szobortól gyorsan a Tímár-negyedbe tekerünk. Egy melengető ebéd a Winstubban kötelező, mielőtt a fagyos Lauch-menti útra indulnánk. Az alacsonyan járó nap remek fotótémákat kínál, mielőtt a Bartholdi Múzeumban melegednénk fel.",
             "ro": "Un tur de iarnă cu bicicleta prin Colmar este revigorant. De la Statuia Libertății mergem rapid spre Cartierul Tăbăcarilor. Un prânz cald la Winstub este obligatoriu înainte de a parcurge drumul înghețat de pe malul râului Lauch. Soarele jos oferă ocazii foto deosebite înainte de a ne încălzi la Muzeul Bartholdi.",
-            "en": "A winter bike tour through Colmar is refreshing. From the Statue of Liberty, we head quickly to the Tanners' Quarter. A warming lunch at a Winstub is a must before cycling the frosty Lauch path. The low sun offers great photo opportunities before warming up at the Bartholdi Museum to end the day."
+            "en": "A winter bike tour through Colmar is refreshing. From the Statue of Liberty, we head quickly to the Tanners' Quarter. A warming lunch at a Winstub is a must before cycling the frosty Lauch path. The low sun offers great photo opportunities before warming up at the Bartholdi Museum to end the day.",
+            "fr": "Une balade hivernale à vélo dans Colmar est rafraîchissante. De la Statue de la Liberté, nous nous dirigeons rapidement vers le Quartier des Tanneurs. Un déjeuner réchauffant dans une Winstub est indispensable avant de parcourir le sentier givré de la Lauch. Le soleil bas offre de superbes opportunités de photos avant de se réchauffer au Musée Bartholdi."
           },
           "stops": [
             {
@@ -1448,6 +1559,12 @@
               "Plan shorter riding distances as the cold reduces stamina.",
               "Watch the light conditions; it starts getting dark from 16:00.",
               "E-bike batteries drain faster in the cold; check your charge level."
+            ],
+            "fr": [
+              "Des gants d'hiver et un bonnet sous le casque sont essentiels.",
+              "Prévoyez des distances plus courtes car le froid réduit l'endurance.",
+              "Surveillez la luminosité ; il commence à faire nuit dès 16h00.",
+              "Les batteries des vélos électriques se vident plus vite au froid ; vérifiez votre niveau de charge."
             ]
           }
         }
@@ -1481,7 +1598,8 @@
             "de": "Zentraler Ausgangspunkt für den Spaziergang in der Altstadt.",
             "hu": "Központi kiindulópont az óvárosi sétához.",
             "ro": "Punct central de plecare pentru plimbarea în orașul vechi.",
-            "en": "Central starting point for walking in the old town."
+            "en": "Central starting point for walking in the old town.",
+            "fr": "Point de départ central pour se promener dans la vieille ville."
           }
         },
         {
@@ -1504,7 +1622,8 @@
             "de": "Eines der schönsten Dörfer Frankreichs, nur 15 Min. entfernt.",
             "hu": "Franciaország egyik legszebb faluja, csak 15 percre.",
             "ro": "Unul dintre cele mai frumoase sate din Franța, la doar 15 min.",
-            "en": "One of France's most beautiful villages, only 15 mins away."
+            "en": "One of France's most beautiful villages, only 15 mins away.",
+            "fr": "L'un des plus beaux villages de France, à seulement 15 minutes."
           }
         },
         {
@@ -1527,7 +1646,8 @@
             "de": "Genießen Sie elsässische Spezialitäten mit Blick auf die Weinberge.",
             "hu": "Élvezze az elzászi különlegességeket kilátással a szőlőültetvényekre.",
             "ro": "Savurați specialități alsaciene cu vedere la podgorii.",
-            "en": "Enjoy Alsatian specialties with a view of the vineyards."
+            "en": "Enjoy Alsatian specialties with a view of the vineyards.",
+            "fr": "Savourez des spécialités alsaciennes avec vue sur les vignes."
           }
         },
         {
@@ -1550,7 +1670,8 @@
             "de": "Kurze Fahrt bergauf zu den Ruinen mit Panoramablick.",
             "hu": "Rövid autózás a dombra a panorámás várromokhoz.",
             "ro": "Drum scurt cu mașina până la ruinele cu vedere panoramică.",
-            "en": "Short drive uphill to the ruins with panoramic views."
+            "en": "Short drive uphill to the ruins with panoramic views.",
+            "fr": "Court trajet en montée vers les ruines avec des vues panoramiques."
           }
         },
         {
@@ -1573,7 +1694,8 @@
             "de": "Spaziergang durch die Reben zum Abschluss des Tages.",
             "hu": "Séta a szőlőtőkék között a nap zárásaként.",
             "ro": "O plimbare printre vițele de vie la finalul zilei.",
-            "en": "A walk through the vines to conclude the day."
+            "en": "A walk through the vines to conclude the day.",
+            "fr": "Une balade à travers les vignes pour conclure la journée."
           }
         }
       ],
@@ -1581,7 +1703,8 @@
         "de": "Mit dem Auto kombinieren Sie das Beste von Colmar mit dem Charme der Weinstraße. Nach einem kurzen Stopp im Zentrum fahren Sie ins mittelalterliche Eguisheim. Nach einem Mittagessen mit Aussicht besuchen Sie die drei Schlösser auf dem Hügel. Den Tag lassen Sie entspannt auf einem Weinpfad am Stadtrand von Colmar ausklingen.",
         "hu": "Autóval kombinálhatja Colmar legjavát a borút bájával. A rövid belvárosi megálló után irány a középkori Eguisheim. Egy panorámás ebéd után látogassa meg a dombtetőn álló három várat. A napot pihentető sétával zárja a Colmar szélén húzódó borúton.",
         "ro": "Cu mașina, combinați tot ce este mai bun în Colmar cu farmecul drumului vinului. După o scurtă oprire în centru, mergeți în satul medieval Eguisheim. După un prânz cu priveliște, vizitați cele trei castele de pe deal. Încheiați ziua cu o plimbare relaxantă pe drumul vinului de la marginea orașului.",
-        "en": "By car, you can combine the best of Colmar with the charm of the Wine Route. After a quick stop in the center, drive to the medieval village of Eguisheim. After a lunch with a view, visit the three castles on the hill. End your day with a relaxing walk on the wine trail on the outskirts of Colmar."
+        "en": "By car, you can combine the best of Colmar with the charm of the Wine Route. After a quick stop in the center, drive to the medieval village of Eguisheim. After a lunch with a view, visit the three castles on the hill. End your day with a relaxing walk on the wine trail on the outskirts of Colmar.",
+        "fr": "En voiture, vous pouvez combiner le meilleur de Colmar avec le charme de la Route des Vins. Après un rapide arrêt au centre, roulez vers le village médiéval d'Eguisheim. Après un déjeuner avec vue, visitez les trois châteaux sur la colline. Terminez votre journée par une promenade relaxante sur le sentier viticole à la périphérie de Colmar."
       },
       "gastro_picks": {
         "de": [
@@ -1622,6 +1745,16 @@
           {
             "name": "Auberge du Rempart",
             "tip": "Excellent local cuisine in a cozy atmosphere."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Kougelhopf",
+            "tip": "Goûtez cette brioche alsacienne traditionnelle à Eguisheim."
+          },
+          {
+            "name": "Auberge du Rempart",
+            "tip": "Excellente cuisine locale dans une atmosphère chaleureuse."
           }
         ]
       },
@@ -1673,6 +1806,18 @@
             "tip": "Quiet paths far from the crowds.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Panorama des Trois Châteaux",
+            "tip": "Vue panoramique sur toute la plaine du Rhin.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vignobles d'Eguisheim",
+            "tip": "Sentiers paisibles loin de la foule.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1715,6 +1860,16 @@
             "name": "Eguisheim Market",
             "tip": "Local products directly from regional farmers."
           }
+        ],
+        "fr": [
+          {
+            "name": "Wolfberger",
+            "tip": "Grande cave à vin pour des dégustations et des achats."
+          },
+          {
+            "name": "Marché d'Eguisheim",
+            "tip": "Produits locaux provenant directement des agriculteurs régionaux."
+          }
         ]
       },
       "tips": {
@@ -1741,6 +1896,12 @@
           "Eguisheim streets are extremely narrow, so park outside the village walls.",
           "Vineyard roads are often restricted to agricultural traffic only.",
           "Watch out for speed limits in the small villages along the route."
+        ],
+        "fr": [
+          "Se garer dans Colmar peut être difficile ; pensez aux parkings P+R en périphérie.",
+          "Les rues d'Eguisheim sont extrêmement étroites, garez-vous donc à l'extérieur des remparts.",
+          "Les routes de vignobles sont souvent réservées au trafic agricole uniquement.",
+          "Faites attention aux limitations de vitesse dans les petits villages le long de la route."
         ]
       },
       "variants": {
@@ -1989,7 +2150,8 @@
             "de": "Ein Auto ist ideal für einen regnerischen Tag im Elsass. Nach dem Parken am Rapp-Platz besuchen wir das malerische Eguisheim, wo man gut in Torbögen Schutz findet. Das Mittagessen im Grünen wird durch den Blick auf die verregneten Weinberge gemütlich. Nachmittags besichtigen wir die drei Burgen bei Nebel, bevor wir den Weintrail mit dem Auto erkunden.",
             "hu": "Az autó ideális egy esős elzászi naphoz. A Rapp téri parkolás után a festői Eguisheimbe látogatunk, ahol a kapualjak védenek az esőtől. A természetközeli ebéd a ködös szőlőültetvények látványával válik hangulatossá. Délután a Három Várat nézzük meg a párás időben, majd autóval járjuk be a borutat.",
             "ro": "Mașina este ideală pentru o zi ploioasă în Alsacia. După parcarea în Piața Rapp, vizităm pitorescul Eguisheim, unde arcadele oferă protecție. Prânzul în natură devine plăcut cu vederea spre viile plouate. După-amiaza vedem cele trei castele prin ceață, înainte de a explora drumul vinului cu mașina.",
-            "en": "A car is ideal for a rainy day in Alsace. After parking at Rapp Square, we visit picturesque Eguisheim, where archways offer protection. Lunch in nature becomes cozy with views of rainy vineyards. In the afternoon, see the Three Castles through the mist before exploring the wine trail by car."
+            "en": "A car is ideal for a rainy day in Alsace. After parking at Rapp Square, we visit picturesque Eguisheim, where archways offer protection. Lunch in nature becomes cozy with views of rainy vineyards. In the afternoon, see the Three Castles through the mist before exploring the wine trail by car.",
+            "fr": "La voiture est idéale pour une journée pluvieuse en Alsace. Après s'être garé à la Place Rapp, nous visitons le pittoresque village d'Eguisheim, où les porches offrent une protection. Le déjeuner en pleine nature devient confortable avec vue sur les vignobles sous la pluie. L'après-midi, admirez les Trois Châteaux à travers la brume avant d'explorer le sentier viticole en voiture."
           },
           "stops": [
             {
@@ -2062,6 +2224,12 @@
               "The Route des Vins is a scenic drive even in the rain.",
               "Watch out for aquaplaning on the country roads between villages.",
               "Pack a sturdy umbrella for the short walks in Eguisheim."
+            ],
+            "fr": [
+              "Utilisez les parkings souterrains de Colmar pour éviter la pluie en entrant et sortant.",
+              "La Route des Vins est un itinéraire panoramique même sous la pluie.",
+              "Faites attention à l'aquaplaning sur les routes départementales entre les villages.",
+              "Prévoyez un parapluie solide pour les courtes promenades à Eguisheim."
             ]
           }
         },
@@ -2070,7 +2238,8 @@
             "de": "Mit dem Auto lässt sich der elsässische Winter bequem erleben. Vom Rapp-Platz geht es zum weihnachtlich beleuchteten Eguisheim. Ein deftiges Mittagessen wärmt uns auf, bevor wir die verschneiten (oder frostigen) drei Burgen ansteuern. Die Weinstraße bietet in der Dämmerung einen magischen Anblick, perfekt vor der Rückkehr ins warme Colmar.",
             "hu": "Autóval kényelmesen felfedezhető az elzászi tél. A Rapp térről a karácsonyi fényekben úszó Eguisheimbe megyünk. Egy kiadós ebéd felmelegít minket, mielőtt a havas vagy zúzmarás Három Várhoz indulnánk. A Borút a szürkületben mágikus látványt nyújt, mielőtt visszatérnénk a meleg Colmarba.",
             "ro": "Iarna alsaciană se experimentează confortabil cu mașina. De la Piața Rapp mergem spre Eguisheim luminat de Crăciun. Un prânz consistent ne încălzește înainte de a merge spre cele trei castele înzăpezite. Drumul Vinului oferă o priveliște magică la amurg, ideal înainte de revenirea în Colmarul călduros.",
-            "en": "Experience the Alsatian winter comfortably by car. From Rapp Square, head to festive Eguisheim lit for Christmas. A hearty lunch warms us up before driving to the snowy or frosty Three Castles. The Wine Road offers a magical sight at dusk, perfect before returning to warm Colmar."
+            "en": "Experience the Alsatian winter comfortably by car. From Rapp Square, head to festive Eguisheim lit for Christmas. A hearty lunch warms us up before driving to the snowy or frosty Three Castles. The Wine Road offers a magical sight at dusk, perfect before returning to warm Colmar.",
+            "fr": "Vivez l'hiver alsacien confortablement en voiture. De la Place Rapp, direction Eguisheim en fête, illuminé pour Noël. Un déjeuner copieux nous réchauffe avant de rouler vers les Trois Châteaux enneigés ou givrés. La Route des Vins offre un spectacle magique au crépuscule, parfait avant de retourner au chaud à Colmar."
           },
           "stops": [
             {
@@ -2143,6 +2312,12 @@
               "Always carry an ice scraper and warm blankets in the car.",
               "Some mountain roads to the castles may be closed in extreme weather.",
               "Parking lots in wine villages are often emptier in winter than in summer."
+            ],
+            "fr": [
+              "Consultez les prévisions météo pour la neige avant de monter en montagne.",
+              "Ayez toujours un grattoir à glace et des couvertures chaudes dans la voiture.",
+              "Certaines routes de montagne menant aux châteaux peuvent être fermées en cas de météo extrême.",
+              "Les parkings dans les villages viticoles sont souvent plus vides en hiver qu'en été."
             ]
           }
         }
@@ -2176,7 +2351,8 @@
             "de": "Ein prachtvolles Gebäude im deutschen Stil (Neorenaissance).",
             "hu": "Pompás épület német neoreneszánsz stílusban.",
             "ro": "O clădire splendidă în stil neorenascentist german.",
-            "en": "A magnificent building in German Neo-Renaissance style."
+            "en": "A magnificent building in German Neo-Renaissance style.",
+            "fr": "Un magnifique bâtiment de style néo-renaissance allemand."
           }
         },
         {
@@ -2199,7 +2375,8 @@
             "de": "Nehmen Sie den Elektro-Shuttle 'Navette' vom Bahnhof hierher.",
             "hu": "Szálljon fel az elektromos 'Navette' buszra az állomástól idáig.",
             "ro": "Luați naveta electrică 'Navette' de la gară până aici.",
-            "en": "Take the electric 'Navette' shuttle from the station to here."
+            "en": "Take the electric 'Navette' shuttle from the station to here.",
+            "fr": "Prenez la navette électrique depuis la gare jusqu'ici."
           }
         },
         {
@@ -2222,7 +2399,8 @@
             "de": "Beherbergt das berühmte Gemälde 'Maria im Rosenhag'.",
             "hu": "Itt található a híres 'Mária a rózsalugasban' festmény.",
             "ro": "Găzduiește celebra pictură 'Fecioara din tufișul de trandafiri'.",
-            "en": "Houses the famous 'Madonna in the Rose Bower' painting."
+            "en": "Houses the famous 'Madonna in the Rose Bower' painting.",
+            "fr": "Abrite le célèbre tableau 'La Vierge au buisson de roses'."
           }
         },
         {
@@ -2245,7 +2423,8 @@
             "de": "Nur 10 Min. Bahnfahrt; ein perfekt erhaltenes Weindorf.",
             "hu": "Csak 10 perc vonatút; egy tökéletesen megőrzött borászfalu.",
             "ro": "Doar 10 min. cu trenul; un sat viticol perfect conservat.",
-            "en": "Just a 10-minute train ride; a perfectly preserved wine village."
+            "en": "Just a 10-minute train ride; a perfectly preserved wine village.",
+            "fr": "À seulement 10 minutes en train ; un village viticole parfaitement préservé."
           }
         },
         {
@@ -2268,7 +2447,8 @@
             "de": "Ruhiger Platz im Herzen der Altstadt für eine Pause.",
             "hu": "Csendes tér az óváros szívében egy pihenőhöz.",
             "ro": "Un loc liniștit în inima orașului vechi pentru o pauză.",
-            "en": "A quiet spot in the heart of the old town for a rest."
+            "en": "A quiet spot in the heart of the old town for a rest.",
+            "fr": "Un endroit calme au cœur de la vieille ville pour se reposer."
           }
         }
       ],
@@ -2276,7 +2456,8 @@
         "de": "Nutzen Sie das effiziente Nahverkehrssystem von Colmar. Starten Sie am prachtvollen Bahnhof und fahren Sie mit dem Elektro-Shuttle direkt ins Herz der Altstadt. Nach dem Besuch der Dominikanerkirche bringt Sie ein Regionalzug in das charmante Turckheim. Zum Abschluss kehren Sie nach Colmar zurück und entspannen in einem der zentralen Parks.",
         "hu": "Használja ki Colmar hatékony tömegközlekedését. Kezdjen a pompás vasútállomáson, majd az elektromos shuttle-lel menjen az óváros szívébe. A Dominikánus templom után egy regionális vonattal látogasson el a bájos Turckheimbe. Végül térjen vissza Colmarba egy kis parki pihenőre.",
         "ro": "Profitați de sistemul eficient de transport public din Colmar. Începeți la gara splendidă și luați naveta electrică direct în inima centrului vechi. După vizitarea Bisericii Dominicane, un tren regional vă va duce în fermecătorul Turckheim. La final, reveniți în Colmar pentru relaxare într-unul din parcurile centrale.",
-        "en": "Make use of Colmar's efficient public transport. Start at the grand train station and take the electric shuttle directly to the heart of the old town. After visiting the Dominican Church, a regional train takes you to the charming Turckheim. Finally, return to Colmar to relax in one of the central parks."
+        "en": "Make use of Colmar's efficient public transport. Start at the grand train station and take the electric shuttle directly to the heart of the old town. After visiting the Dominican Church, a regional train takes you to the charming Turckheim. Finally, return to Colmar to relax in one of the central parks.",
+        "fr": "Profitez des transports en commun efficaces de Colmar. Commencez à la grande gare ferroviaire et prenez la navette électrique directement vers le cœur de la vieille ville. Après avoir visité l'église des Dominicains, un train régional vous emmène au charmant village de Turckheim. Enfin, retournez à Colmar pour vous détendre dans l'un des parcs centraux."
       },
       "gastro_picks": {
         "de": [
@@ -2317,6 +2498,16 @@
           {
             "name": "Le Caveau d'Eguisheim",
             "tip": "Try Alsatian tapas paired with local wines."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Bretzel",
+            "tip": "Prenez un bretzel frais auprès d'un vendeur local."
+          },
+          {
+            "name": "Le Caveau d'Eguisheim",
+            "tip": "Goûtez à des tapas alsaciennes accompagnées de vins locaux."
           }
         ]
       },
@@ -2368,6 +2559,18 @@
             "tip": "A quiet walking path around the village.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin du cloître Unterlinden",
+            "tip": "Un cloître paisible pour un moment de calme.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Remparts de Turckheim",
+            "tip": "Un sentier de promenade tranquille autour du village.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -2410,6 +2613,16 @@
             "name": "Boulangerie L'Enfariné",
             "tip": "Best traditional bakery products in the area."
           }
+        ],
+        "fr": [
+          {
+            "name": "Brocante",
+            "tip": "Des brocantes sont parfois organisées sur la Place Rapp."
+          },
+          {
+            "name": "Boulangerie L'Enfariné",
+            "tip": "Les meilleurs produits de boulangerie traditionnelle de la région."
+          }
         ]
       },
       "tips": {
@@ -2436,6 +2649,12 @@
           "Download the 'Trace' app for real-time bus schedules in the city.",
           "Trains to Turckheim depart hourly from the main train station.",
           "Buy a day pass for the Colmar zone if you plan to use buses frequently."
+        ],
+        "fr": [
+          "La navette 'Navette Cœur de Ville' est gratuite et relie les points clés.",
+          "Téléchargez l'application 'Trace' pour les horaires de bus en temps réel dans la ville.",
+          "Les trains pour Turckheim partent toutes les heures de la gare principale.",
+          "Achetez un pass journée pour la zone de Colmar si vous prévoyez d'utiliser les bus fréquemment."
         ]
       },
       "variants": {
@@ -2684,7 +2903,8 @@
             "de": "Öffentliche Verkehrsmittel halten uns in Colmar trocken. Vom Bahnhof geht es per Bus zum Rathausplatz. Die Dominikanerkirche bietet eine spirituelle und regenfreie Pause. Der Zug nach Turckheim ist eine gemütliche Fahrt durch die nassen Weinberge. Den Tag beenden wir im Schutz des Parks beim Alten Kaufhaus, bevor uns der Bus zurück zum Bahnhof bringt.",
             "hu": "A tömegközlekedés szárazon tart minket Colmarban. A vasútállomástól busszal megyünk a Városháza térre. A Dominikánus templom spirituális és esőmentes pihenőt nyújt. A Turckheimbe tartó vonatút hangulatos utazás a nedves szőlők között. A napot a Régi Vámház parkjának fedett részein zárjuk, majd busszal térünk vissza az állomásra.",
             "ro": "Transportul public ne menține uscați în Colmar. De la gară mergem cu autobuzul spre Piața Primăriei. Biserica Dominicană oferă o pauză spirituală ferită de ploaie. Trenul spre Turckheim este o călătorie plăcută prin viile ude. Încheiem ziua sub protecția parcului de la Vama Veche, înainte ca autobuzul să ne ducă înapoi la gară.",
-            "en": "Public transport keeps us dry in Colmar. From the station, take the bus to City Hall Square. The Dominican Church offers a spiritual and rain-free break. The train to Turckheim is a cozy ride through the wet vineyards. End the day sheltered near the Old Custom House park before the bus takes you back to the station."
+            "en": "Public transport keeps us dry in Colmar. From the station, take the bus to City Hall Square. The Dominican Church offers a spiritual and rain-free break. The train to Turckheim is a cozy ride through the wet vineyards. End the day sheltered near the Old Custom House park before the bus takes you back to the station.",
+            "fr": "Les transports en commun nous permettent de rester au sec à Colmar. Depuis la gare, prenez le bus jusqu'à la Place de la Mairie. L'église des Dominicains offre une pause spirituelle à l'abri de la pluie. Le train pour Turckheim est un trajet confortable à travers les vignobles mouillés. Terminez la journée à l'abri près du parc du Koïfhus avant que le bus ne vous ramène à la gare."
           },
           "stops": [
             {
@@ -2757,6 +2977,12 @@
               "Bus line 1 connects the station quickly to the city center.",
               "Keep your ticket handy to avoid searching for it in the rain.",
               "The trains to Turckheim offer a great view without getting wet."
+            ],
+            "fr": [
+              "Utilisez l'application 'Fluo Grand Est' pour des informations en temps réel en cas de retard dû à la météo.",
+              "La ligne de bus 1 relie rapidement la gare au centre-ville.",
+              "Gardez votre ticket à portée de main pour éviter de le chercher sous la pluie.",
+              "Les trains vers Turckheim offrent une superbe vue sans être mouillé."
             ]
           }
         },
@@ -2765,7 +2991,8 @@
             "de": "Mit Bus und Bahn lässt sich der Winterzauber in Colmar entspannt erleben. Vom Bahnhof geht es zum festlichen Rathausplatz. Die Dominikanerkirche bietet einen Ort der Stille und Wärme. Die Zugfahrt nach Turckheim zeigt die verschneite Ebene des Elsass. Der Abend am Alten Kaufhaus ist durch die Weihnachtsbeleuchtung besonders stimmungsvoll, bevor es mit dem Bus zurückgeht.",
             "hu": "Busszal és vonattal stresszmentesen élvezhető Colmar téli varázsa. Az állomástól az ünnepi Városháza térre utazunk. A Dominikánus templom a csend és a meleg szigete. A turckheimi vonatút az Elzász havas síkságait mutatja be. Az este a Régi Vámháznál a karácsonyi fények miatt különösen hangulatos, mielőtt visszabuszoznánk.",
             "ro": "Magia iernii în Colmar se trăiește relaxat cu autobuzul și trenul. De la gară mergem spre Piața Primăriei festivă. Biserica Dominicană oferă un loc de liniște și căldură. Călătoria cu trenul spre Turckheim dezvăluie câmpia înzăpezită a Alsaciei. Seara la Vama Veche este extrem de atmosferică datorită luminilor, înainte de returul cu autobuzul.",
-            "en": "Enjoy the winter magic in Colmar stress-free by bus and train. From the station, head to the festive City Hall Square. The Dominican Church offers a place of silence and warmth. The train ride to Turckheim shows the snowy plains of Alsace. The evening at the Old Custom House is atmospheric with Christmas lights before heading back by bus."
+            "en": "Enjoy the winter magic in Colmar stress-free by bus and train. From the station, head to the festive City Hall Square. The Dominican Church offers a place of silence and warmth. The train ride to Turckheim shows the snowy plains of Alsace. The evening at the Old Custom House is atmospheric with Christmas lights before heading back by bus.",
+            "fr": "Profitez de la magie de l'hiver à Colmar sans stress en bus et en train. Depuis la gare, dirigez-vous vers la Place de la Mairie en fête. L'église des Dominicains offre un lieu de silence et de chaleur. Le trajet en train vers Turckheim montre les plaines enneigées d'Alsace. La soirée au Koïfhus est atmosphérique avec les lumières de Noël avant le retour en bus."
           },
           "stops": [
             {
@@ -2838,6 +3065,12 @@
               "Stations and trains are well heated and offer comfort in the cold.",
               "Allow extra time as snow can delay public transport.",
               "Buy a day ticket (Alsa+) to switch flexibly between bus and train."
+            ],
+            "fr": [
+              "Utilisez les bus spéciaux 'Navettes de Noël' entre les villages.",
+              "Les gares et les trains sont bien chauffés et offrent un bon confort face au froid.",
+              "Prévoyez du temps supplémentaire car la neige peut retarder les transports en commun.",
+              "Achetez un ticket journalier (Alsa+) pour passer de manière flexible du bus au train."
             ]
           }
         }

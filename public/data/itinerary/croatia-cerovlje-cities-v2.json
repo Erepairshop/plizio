@@ -31,7 +31,8 @@
             "de": "Starten Sie mit einem Espresso am Bahnhof von Cerovlje.",
             "hu": "Kezdje a napot egy eszpresszóval a cerovljei vasútállomásnál.",
             "ro": "Începeți ziua cu un espresso lângă gara din Cerovlje.",
-            "en": "Start your day with an espresso near the Cerovlje train station."
+            "en": "Start your day with an espresso near the Cerovlje train station.",
+            "hr": "Započnite dan espressom u blizini željezničke stanice Cerovlje."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein ruhiger Spaziergang entlang des Baches Pazinčica.",
             "hu": "Egy csendes séta a Pazinčica-patak mentén.",
             "ro": "O plimbare liniștită de-a lungul pârâului Pazinčica.",
-            "en": "A peaceful stroll along the Pazinčica stream."
+            "en": "A peaceful stroll along the Pazinčica stream.",
+            "hr": "Mirna šetnja uz potok Pazinčicu."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Probieren Sie Fuži mit Trüffeln, eine lokale Spezialität.",
             "hu": "Kóstolja meg a szarvasgombás fuzit, a helyi specialitást.",
             "ro": "Gustați Fuži cu trufe, o specialitate locală.",
-            "en": "Try Fuži with truffles, a local specialty."
+            "en": "Try Fuži with truffles, a local specialty.",
+            "hr": "Probajte fuže s tartufima, lokalni specijalitet."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Besuchen Sie das 'istrische Hollywood' mit seinen mittelalterlichen Gassen.",
             "hu": "Látogasson el az 'isztriai Hollywoodba' és középkori utcáiba.",
             "ro": "Vizitați „Hollywood-ul istrian” cu străzile sale medievale.",
-            "en": "Visit the 'Istrian Hollywood' with its medieval streets."
+            "en": "Visit the 'Istrian Hollywood' with its medieval streets.",
+            "hr": "Posjetite 'istarski Hollywood' s njegovim srednjovjekovnim ulicama."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Bewundern Sie die berühmten Fresken in dieser kleinen Kapelle.",
             "hu": "Csodálja meg a híres freskókat ebben a kis kápolnában.",
             "ro": "Admirați frescele celebre din această mică capelă.",
-            "en": "Admire the famous frescoes in this small chapel."
+            "en": "Admire the famous frescoes in this small chapel.",
+            "hr": "Divite se poznatim freskama u ovoj maloj kapelici."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Genießen Sie den Blick über die istrischen Hügel.",
             "hu": "Élvezze a kilátást az isztriai dombokra.",
             "ro": "Bucurați-vă de priveliștea peste dealurile istriene.",
-            "en": "Enjoy the view over the Istrian hills."
+            "en": "Enjoy the view over the Istrian hills.",
+            "hr": "Uživajte u pogledu na istarske brežuljke."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Der Vormittag beginnt sanft im Zentrum von Cerovlje, gefolgt von einer Naturwanderung am Bach Pazinčica. Mittags genießen Sie authentische istrische Küche in einer lokalen Konoba. Der Nachmittag führt Sie hinauf nach Draguć, einem malerischen Dorf, das oft als Filmkulisse dient. Dort entdecken Sie die kunstvollen Fresken von St. Rochus, bevor Sie den Tag mit einem weiten Panorama über die grüne Hügellandschaft ausklingen lassen.",
         "hu": "A délelőtt Cerovlje központjában indul, majd természetközeli túrával folytatódik a Pazinčica-patak partján. Ebédre autentikus isztriai fogásokat kóstolhat egy helyi konobában. Délután Draguć falujába visz az út, amelyet filmforgatások helyszíneként is ismernek. Itt megcsodálhatja Szent Rókus templomának freskóit, végül pedig a dombtetőről nyíló panorámával zárhatja a napot.",
         "ro": "Dimineața începe relaxat în centrul localității Cerovlje, urmată de o drumeție în natură pe lângă pârâul Pazinčica. La prânz, savurați preparate autentice istriene într-o konoba locală. După-amiaza vă poartă spre Draguć, un sat pitoresc folosit adesea ca decor de film. Aici veți descoperi frescele artistice de la biserica Sf. ROC, încheind ziua cu o panoramă spectaculoasă peste dealurile verzi.",
-        "en": "The morning starts gently in the center of Cerovlje, followed by a nature walk along the Pazinčica stream. At lunch, enjoy authentic Istrian cuisine in a local konoba. The afternoon leads you up to Draguć, a picturesque village often used as a film set. There you will discover the artistic frescoes of St. Roch, ending the day with a wide panorama over the green rolling hills."
+        "en": "The morning starts gently in the center of Cerovlje, followed by a nature walk along the Pazinčica stream. At lunch, enjoy authentic Istrian cuisine in a local konoba. The afternoon leads you up to Draguć, a picturesque village often used as a film set. There you will discover the artistic frescoes of St. Roch, ending the day with a wide panorama over the green rolling hills.",
+        "hr": "Jutro počinje lagano u centru Cerovlja, nakon čega slijedi šetnja prirodom uz potok Pazinčicu. Za ručak uživajte u autentičnoj istarskoj kuhinji u lokalnoj konobi. Poslijepodne vas vodi do Draguća, slikovitog sela koje se često koristi kao filmski set. Tamo ćete otkriti umjetničke freske u crkvi sv. Roka, završavajući dan uz široku panoramu preko zelenih brežuljaka."
       },
       "gastro_picks": {
         "de": [
@@ -154,6 +161,12 @@
           {
             "name": "Konoba 2. Peron",
             "tip": "Famous for homemade pasta and meat dishes cooked under the peka."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba 2. Peron",
+            "tip": "Poznata po domaćoj tjestenini i mesnim jelima pripremljenim pod pekom."
           }
         ]
       },
@@ -185,6 +198,13 @@
             "tip": "A quiet spot at the edge of the village overlooking Butoniga lake.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Draguć",
+            "tip": "Mirno mjesto na rubu sela s pogledom na jezero Butoniga.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -210,6 +230,12 @@
           {
             "name": "Local Honey and Olive Oil",
             "tip": "Available directly from farmers in Cerovlje."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni med i maslinovo ulje",
+            "tip": "Dostupno izravno kod poljoprivrednika u Cerovlju."
           }
         ]
       },
@@ -237,6 +263,12 @@
           "The frescoes in St. Roch are often locked; ask locals for the key.",
           "Cerovlje is easily accessible by train from Pula or Buzet.",
           "Bring plenty of water, as there are few shops on the hills."
+        ],
+        "hr": [
+          "Nosite čvrstu obuću za pješačenje za put do Draguća.",
+          "Freske u crkvi sv. Roka često su zaključane; pitajte mještane za ključ.",
+          "Cerovlje je lako dostupno vlakom iz Pule ili Buzeta.",
+          "Ponesite dovoljno vode, jer na brdima ima malo trgovina."
         ]
       },
       "variants": {
@@ -245,7 +277,8 @@
             "de": "Morgens suchen wir Schutz im gemütlichen Café im Zentrum von Cerovlje. Mittags wandern wir trotz Regen am Fluss Pazinčica entlang, wo die herbstliche Stimmung besonders intensiv ist. Nach einem herzhaften Mittagessen in der trockenen Konoba erkunden wir am Nachmittag das nebelverhangene Draguć. Der Abend endet mit einem mystischen Blick auf die grauen Hügel Istriens.",
             "hu": "Reggel a központ egyik kávézójában várakozunk, amíg csendesedik az eső. Délben a Pazinčica partján sétálunk, ahol a víz morajlása és a köd különleges hangulatot áraszt. Egy meleg ebéd után Draguć kőházai között kalandozunk, melyek vizesen még sötétebbnek és ősibbnek tűnnek. Az estét a párás dombok látványa zárja.",
             "ro": "Dimineața ne adăpostim într-o cafenea primitoare din centrul localității Cerovlje. La prânz, ne plimbăm de-a lungul râului Pazinčica, savurând atmosfera mistică creată de ploaie. După un prânz cald la konoba, explorăm Draguć-ul învăluit în ceață. Seara se încheie cu o priveliște dramatică asupra dealurilor umede ale Istriei.",
-            "en": "Morning starts with a warm drink in a central café to wait out the rain. At noon, we brave the riverside path of Pazinčica, where the mist creates a unique atmosphere. After a long lunch in a cozy tavern, we explore the wet, stony streets of Draguć. The evening concludes with a view of the clouds rolling over the Istrian interior."
+            "en": "Morning starts with a warm drink in a central café to wait out the rain. At noon, we brave the riverside path of Pazinčica, where the mist creates a unique atmosphere. After a long lunch in a cozy tavern, we explore the wet, stony streets of Draguć. The evening concludes with a view of the clouds rolling over the Istrian interior.",
+            "hr": "Jutro započinje toplim napitkom u središnjem kafiću dok čekamo da kiša prođe. U podne se hrabro upućujemo na stazu uz Pazinčicu, gdje magla stvara jedinstvenu atmosferu. Nakon dugog ručka u ugodnoj konobi, istražujemo mokre, kamene ulice Draguća. Večer završava pogledom na oblake koji se kotrljaju nad istarskom unutrašnjosti."
           },
           "stops": [
             {
@@ -254,7 +287,8 @@
                 "de": "Suchen Sie sich einen Platz am Fenster und beobachten Sie das Treiben auf dem nassen Marktplatz.",
                 "hu": "Válassz egy ablak melletti asztalt, és figyeld a főtér esős forgatagát.",
                 "ro": "Alegeți o masă la fereastră și urmăriți activitatea din piața centrală sub ploaie.",
-                "en": "Pick a window seat and watch the rainy town center come to life."
+                "en": "Pick a window seat and watch the rainy town center come to life.",
+                "hr": "Odaberite mjesto uz prozor i gledajte kako kišni centar mjesta oživljava."
               }
             },
             {
@@ -263,7 +297,8 @@
                 "de": "Vorsicht auf den Waldwegen, sie können bei Regen sehr rutschig und schlammig sein.",
                 "hu": "Vigyázz az erdei ösvényeken, esőben nagyon csúszós és sáros lehet a talaj.",
                 "ro": "Atenție pe potecile din pădure, pot fi foarte alunecoase și noroioase pe ploaie.",
-                "en": "Be careful on the forest paths; they can be very slippery and muddy when wet."
+                "en": "Be careful on the forest paths; they can be very slippery and muddy when wet.",
+                "hr": "Budite oprezni na šumskim stazama; mogu biti vrlo skliske i blatnjave kad su mokre."
               }
             },
             {
@@ -272,7 +307,8 @@
                 "de": "Genießen Sie eine warme Jota-Suppe, um sich nach der Wanderung im Regen aufzuwärmen.",
                 "hu": "Kóstolj meg egy forró Jota levest, hogy átmelegedj az esős séta után.",
                 "ro": "Savurați o supă caldă Jota pentru a vă încălzi după plimbarea prin ploaie.",
-                "en": "Enjoy a warm Jota soup to heat up after your walk in the rain."
+                "en": "Enjoy a warm Jota soup to heat up after your walk in the rain.",
+                "hr": "Uživajte u toploj joti kako biste se ugrijali nakon šetnje po kiši."
               }
             },
             {
@@ -281,7 +317,8 @@
                 "de": "Die Steingassen von Draguć wirken im Regen besonders mittelalterlich und fotogen.",
                 "hu": "Draguć kőutcái esőben különösen középkori hangulatot árasztanak és jól fotózhatók.",
                 "ro": "Străzile de piatră din Draguć par deosebit de medievale și fotogenice sub ploaie.",
-                "en": "The stone streets of Draguć look especially medieval and photogenic in the rain."
+                "en": "The stone streets of Draguć look especially medieval and photogenic in the rain.",
+                "hr": "Kamene ulice Draguća izgledaju posebno srednjovjekovno i fotogenično na kiši."
               }
             },
             {
@@ -290,7 +327,8 @@
                 "de": "Ein perfekter Ort, um trocken zu bleiben und die berühmten Fresken in Ruhe zu bewundern.",
                 "hu": "Tökéletes hely, hogy szárazon maradj és nyugodtan megcsodáld a híres freskókat.",
                 "ro": "Un loc perfect pentru a rămâne la uscat și a admira în liniște faimoasele fresce.",
-                "en": "A perfect spot to stay dry and admire the famous frescoes in peace."
+                "en": "A perfect spot to stay dry and admire the famous frescoes in peace.",
+                "hr": "Savršeno mjesto da ostanete suhi i u miru se divite poznatim freskama."
               }
             },
             {
@@ -299,7 +337,8 @@
                 "de": "Auch ohne Sonne bieten die vorbeiziehenden Wolken ein spektakuläres Naturschauspiel.",
                 "hu": "Napfény nélkül is látványos a völgyben vonuló felhők és köd játéka.",
                 "ro": "Chiar și fără soare, norii care trec oferă un spectacol natural impresionant.",
-                "en": "Even without sun, the passing clouds offer a spectacular natural show."
+                "en": "Even without sun, the passing clouds offer a spectacular natural show.",
+                "hr": "Čak i bez sunca, prolazni oblaci nude spektakularan prirodni show."
               }
             }
           ],
@@ -327,6 +366,12 @@
               "A small umbrella is more practical in Draguć's narrow streets than a poncho.",
               "Check the local bus schedule as a dry alternative for the return journey.",
               "Use church visits as planned breaks to stay out of the rain."
+            ],
+            "hr": [
+              "Nosite nepromočive cipele za pješačenje za dionice uz rijeku.",
+              "Mali kišobran je praktičniji u uskim ulicama Draguća od kabanice.",
+              "Provjerite vozni red lokalnih autobusa kao suhu alternativu za povratak.",
+              "Posjete crkvama iskoristite kao planirane pauze kako biste ostali na suhom."
             ]
           }
         },
@@ -335,7 +380,8 @@
             "de": "Der Wintermorgen beginnt mit einem heißen Tee im Ortskern. Am Mittag glitzert der Frost an den Ufern der Pazinčica, während die kalte Luft den Geist belebt. Das Mittagessen verbringen wir ausgiebig am Kamin der Konoba. Nachmittags herrscht in Draguć eine fast magische Stille, bevor die Sonne bereits gegen 16:30 Uhr hinter den Bergen verschwindet.",
             "hu": "A téli reggelt egy forró teával indítjuk a központban. Délben a zúzmarás Pazinčica partján sétálunk, ahol a friss, hideg levegő teljesen felfrissít. Az ebédet hosszan élvezzük a konoba kandallója mellett. Délután Draguć elnéptelenedett utcáin sétálunk, mielőtt a nap korán, fél öt körül lebukik a dombok mögött.",
             "ro": "Dimineața de iarnă începe cu un ceai fierbinte în centrul localității. La prânz, chiciura strălucește pe malurile râului Pazinčica, iar aerul rece revigorează spiritul. Savurăm un prânz prelungit lângă șemineul din konoba. După-amiaza, liniștea magică domină Draguć, înainte ca soarele să apună devreme, în jurul orei 16:30.",
-            "en": "Winter morning begins with hot tea in the town center. At noon, frost glitters on the banks of Pazinčica, and the crisp air is truly invigorating. We enjoy a long lunch by the fireplace in a local tavern. In the afternoon, Draguć is peacefully silent before the sun sets early around 4:30 PM."
+            "en": "Winter morning begins with hot tea in the town center. At noon, frost glitters on the banks of Pazinčica, and the crisp air is truly invigorating. We enjoy a long lunch by the fireplace in a local tavern. In the afternoon, Draguć is peacefully silent before the sun sets early around 4:30 PM.",
+            "hr": "Zimsko jutro počinje toplim čajem u centru mjesta. U podne mraz svjetluca na obalama Pazinčice, a oštar zrak djeluje okrepljujuće. Uživamo u dugom ručku uz kamin u lokalnoj konobi. Poslijepodne u Draguću vlada mirna tišina prije nego što sunce rano zađe oko 16:30."
           },
           "stops": [
             {
@@ -344,7 +390,8 @@
                 "de": "Probieren Sie einen einheimischen Kräuterschnaps (Travarica), um die Kälte zu vertreiben.",
                 "hu": "Kóstolj meg egy helyi gyógynövénypálinkát (Travarica), hogy elűzd a hideget.",
                 "ro": "Încercați o rachiul local de ierburi (Travarica) pentru a alunga frigul.",
-                "en": "Try a local herbal brandy (Travarica) to ward off the winter chill."
+                "en": "Try a local herbal brandy (Travarica) to ward off the winter chill.",
+                "hr": "Probajte domaću travaricu kako biste odjerali zimsku hladnoću."
               }
             },
             {
@@ -353,7 +400,8 @@
                 "de": "Die kahle Winterlandschaft bietet weite Ausblicke, die im Sommer durch Laub verdeckt sind.",
                 "hu": "A kopár téli táj olyan kilátást enged, amit nyáron eltakarnak a levelek.",
                 "ro": "Peisajul de iarnă deschis oferă perspective largi, ascunse vara de frunziș.",
-                "en": "The bare winter landscape offers wide views hidden by foliage in summer."
+                "en": "The bare winter landscape offers wide views hidden by foliage in summer.",
+                "hr": "Goli zimski krajolik nudi široke vidike koji su ljeti skriveni lišćem."
               }
             },
             {
@@ -362,7 +410,8 @@
                 "de": "Fragen Sie nach saisonalen Trüffelgerichten, die im Winter besonders aromatisch sind.",
                 "hu": "Kérdezz rá a szezonális szarvasgombás ételekre, amik télen a legfinomabbak.",
                 "ro": "Întrebați de preparatele sezoniere cu trufe, foarte aromate în timpul iernii.",
-                "en": "Ask for seasonal truffle dishes, which are particularly aromatic in winter."
+                "en": "Ask for seasonal truffle dishes, which are particularly aromatic in winter.",
+                "hr": "Pitajte za sezonska jela s tartufima, koja su zimi posebno aromatična."
               }
             },
             {
@@ -371,7 +420,8 @@
                 "de": "Dick eingepackt lässt sich der Ort ohne die üblichen Touristenmassen genießen.",
                 "hu": "Jól felöltözve élvezheted a falut a szokásos turistatömeg nélkül.",
                 "ro": "Înveleți-vă bine și bucurați-vă de localitate fără masele obișnuite de turiști.",
-                "en": "Bundle up and enjoy the village without the usual tourist crowds."
+                "en": "Bundle up and enjoy the village without the usual tourist crowds.",
+                "hr": "Ušuškajte se i uživajte u selu bez uobičajenih turističkih gužvi."
               }
             },
             {
@@ -380,7 +430,8 @@
                 "de": "Die Kühle in der Kirche ist im Winter spürbar; behalten Sie Ihre Jacke an.",
                 "hu": "A templom belseje télen nagyon hideg lehet, ne vedd le a kabátodat.",
                 "ro": "Interiorul bisericii este foarte rece iarna; păstrați-vă haina pe dvs.",
-                "en": "The church interior is very cold in winter; keep your coat on."
+                "en": "The church interior is very cold in winter; keep your coat on.",
+                "hr": "Unutrašnjost crkve je zimi vrlo hladna; ne skidajte kaput."
               }
             },
             {
@@ -389,7 +440,8 @@
                 "de": "Der Sonnenuntergang findet bereits gegen 16:45 Uhr statt; planen Sie rechtzeitig.",
                 "hu": "A naplemente már 16:45 körül bekövetkezik, tervezz előre.",
                 "ro": "Apusul are loc deja în jurul orei 16:45; planificați-vă timpul în consecință.",
-                "en": "Sunset occurs as early as 4:45 PM; make sure to plan your timing."
+                "en": "Sunset occurs as early as 4:45 PM; make sure to plan your timing.",
+                "hr": "Zalazak sunca je već u 16:45; obavezno isplanirajte svoje vrijeme."
               }
             }
           ],
@@ -417,6 +469,12 @@
               "Wear thermal socks as the stone floors in Draguć radiate cold in winter.",
               "The sun disappears early behind the hills; start your walk before 10 AM.",
               "Confirm the tavern's winter opening hours in advance."
+            ],
+            "hr": [
+              "Odjenite se slojevito kako biste lakše podnijeli razliku između hladnoće vani i topline unutra.",
+              "Nosite termalne čarape jer kameni podovi u Draguću zimi isijavaju hladnoću.",
+              "Sunce rano nestaje iza brda; započnite šetnju prije 10 ujutro.",
+              "Unaprijed potvrdite zimsko radno vrijeme konobe."
             ]
           }
         }
@@ -445,7 +503,8 @@
             "de": "Kurzer Koffein-Kick vor dem Aufstieg.",
             "hu": "Gyors koffeinadag az emelkedő előtt.",
             "ro": "O scurtă doză de cafeină înainte de urcare.",
-            "en": "Quick caffeine kick before the climb."
+            "en": "Quick caffeine kick before the climb.",
+            "hr": "Brza doza kofeina prije uspona."
           }
         },
         {
@@ -463,7 +522,8 @@
             "de": "Radeln Sie entlang des Baches im grünen Tal.",
             "hu": "Kerékpározzon a patak mentén a zöld völgyben.",
             "ro": "Pedalați de-a lungul pârâului în valea verde.",
-            "en": "Cycle along the stream in the green valley."
+            "en": "Cycle along the stream in the green valley.",
+            "hr": "Vožnja uz potok u zelenoj dolini."
           }
         },
         {
@@ -481,7 +541,8 @@
             "de": "Ein einsamer Aussichtspunkt auf einem steilen Hügel.",
             "hu": "Egy magányos kilátópont egy meredek dombtetőn.",
             "ro": "Un punct de belvedere solitar pe un deal abrupt.",
-            "en": "A lonely viewpoint on a steep hilltop."
+            "en": "A lonely viewpoint on a steep hilltop.",
+            "hr": "Osamljeni vidikovac na strmom brdu."
           }
         },
         {
@@ -499,7 +560,8 @@
             "de": "Pause im schönsten Bergdorf der Gegend.",
             "hu": "Pihenő a környék legszebb hegyi falujában.",
             "ro": "Pauză în cel mai frumos sat de munte din zonă.",
-            "en": "Rest in the most beautiful mountain village in the area."
+            "en": "Rest in the most beautiful mountain village in the area.",
+            "hr": "Odmor u najljepšem planinskom selu u okolici."
           }
         },
         {
@@ -517,7 +579,8 @@
             "de": "Besichtigung der Wandmalereien von Meister Anton aus Padua.",
             "hu": "Padovai Anton mester falfestményeinek megtekintése.",
             "ro": "Vizitarea picturilor murale ale maestrului Anton din Padova.",
-            "en": "Visit the wall paintings by Master Anton from Padua."
+            "en": "Visit the wall paintings by Master Anton from Padua.",
+            "hr": "Posjet zidnim slikama majstora Antuna iz Padove."
           }
         },
         {
@@ -535,7 +598,8 @@
             "de": "Stärken Sie sich mit istrischem Schinken und Käse.",
             "hu": "Erősödjön meg isztriai sonkával és sajttal.",
             "ro": "Reîncărcați-vă cu șuncă și brânză istriană.",
-            "en": "Recharge with Istrian ham and cheese."
+            "en": "Recharge with Istrian ham and cheese.",
+            "hr": "Napunite baterije uz istarski pršut i sir."
           }
         },
         {
@@ -553,7 +617,8 @@
             "de": "Letzter Blick auf die Hügel vor der Rückfahrt.",
             "hu": "Utolsó pillantás a dombokra az indulás előtt.",
             "ro": "O ultimă privire spre dealuri înainte de plecare.",
-            "en": "One last look at the hills before departure."
+            "en": "One last look at the hills before departure.",
+            "hr": "Još jedan pogled na brda prije odlaska."
           }
         }
       ],
@@ -561,7 +626,8 @@
         "de": "Diese anspruchsvolle Radtour verbindet die Bergdörfer rund um Cerovlje. Nach dem Start im Tal klettern Sie hinauf nach Grimalda, von wo aus Sie eine spektakuläre Fernsicht genießen. Die Route führt weiter nach Draguć, wo Kunst und Geschichte auf Sie warten. Der Rückweg führt bergab zurück nach Cerovlje, wo ein herzhaftes Mittagessen die verdiente Belohnung für die Höhenmeter darstellt.",
         "hu": "Ez a látványos kerékpártúra összeköti a Cerovlje környéki hegyi falvakat. A völgyből indulva felkapaszkodunk Grimaldába, ahonnan fantasztikus távoli kilátás nyílik. Az út továbbvezet Dragućba, ahol művészet és történelem várja. A visszaút lejtős szakasza Cerovlje felé visz, ahol egy bőséges ebéd lesz a jutalom a megtett szintkülönbségért.",
         "ro": "Acest tur pitoresc cu bicicleta leagă satele de munte din jurul Cerovlje. După startul din vale, urcați spre Grimalda, de unde vă bucurați de o vedere spectaculoasă la distanță. Traseul continuă spre Draguć, unde vă așteaptă arta și istoria. Drumul de întoarcere coboară spre Cerovlje, unde un prânz copios reprezintă recompensa binemeritată pentru efort.",
-        "en": "This scenic bike tour connects the mountain villages around Cerovlje. After starting in the valley, you climb up to Grimalda, from where you enjoy spectacular distant views. The route continues to Draguć, where art and history await. The return path leads downhill back to Cerovlje, where a hearty lunch is the well-deserved reward for the elevation gain."
+        "en": "This scenic bike tour connects the mountain villages around Cerovlje. After starting in the valley, you climb up to Grimalda, from where you enjoy spectacular distant views. The route continues to Draguć, where art and history await. The return path leads downhill back to Cerovlje, where a hearty lunch is the well-deserved reward for the elevation gain.",
+        "hr": "Ova slikovita biciklistička tura povezuje planinska sela oko Cerovlja. Nakon početka u dolini, uspinjete se do Grimalde, odakle se pružaju spektakularni vidici. Ruta se nastavlja do Draguća, gdje vas čekaju umjetnost i povijest. Povratni put vodi nizbrdo natrag u Cerovlje, gdje je obilan ručak zaslužena nagrada za savladani uspon."
       },
       "gastro_picks": {
         "de": [
@@ -586,6 +652,12 @@
           {
             "name": "Agroturizam Ograde",
             "tip": "Homemade food in a rustic setting near Grimalda."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Agroturizam Ograde",
+            "tip": "Domaća hrana u rustikalnom ambijentu u blizini Grimalde."
           }
         ]
       },
@@ -617,6 +689,13 @@
             "tip": "Absolute silence and a 360-degree view over Central Istria.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Trg ispred crkve u Grimaldi",
+            "tip": "Apsolutna tišina i pogled od 360 stupnjeva na središnju Istru.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -642,6 +721,12 @@
           {
             "name": "Istrian Wine (Malvazija)",
             "tip": "Buy directly from small winemakers in the area."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Istarsko vino (Malvazija)",
+            "tip": "Kupite izravno od malih vinara u okolici."
           }
         ]
       },
@@ -669,6 +754,12 @@
           "A mountain bike or gravel bike is recommended for forest paths.",
           "Note: The climb to Grimalda is short but steep.",
           "There are no public bike rentals in Cerovlje, bring your own."
+        ],
+        "hr": [
+          "Ceste su asfaltirane, ali imaju vrlo malo prometa.",
+          "Za šumske staze preporučuje se brdski (MTB) ili gravel bicikl.",
+          "Napomena: uspon do Grimalde je kratak, ali strm.",
+          "U Cerovlju nema javnog najma bicikala, ponesite svoj."
         ]
       },
       "variants": {
@@ -677,7 +768,8 @@
             "de": "Ein schneller Espresso in Cerovlje bereitet uns auf die nasse Fahrt vor. Wir radeln vorsichtig durch das Pazinčica-Tal und erklimmen den Hügel nach Grimalda, wo der Wind den Regen peitscht. Mittags erreichen wir Draguć, wo wir uns in der Kirche aufwärmen. Das späte Mittagessen in der Konoba ist die verdiente Belohnung für die Kilometer im Regen.",
             "hu": "Egy gyors eszpresszó Cerovljében, és felkészülünk a vizes útra. Óvatosan tekerünk a Pazinčica-völgyben, majd felkapaszkodunk Grimaldára, ahol a szél szembefújja az esőt. Délben érjük el Dragućot, ahol a templomban találunk menedéket. A kései ebéd a konobában igazi jutalom az esős kilométerek után.",
             "ro": "Un espresso rapid în Cerovlje ne pregătește pentru drumul ud. Pedalăm cu grijă prin valea Pazinčica și urcăm spre Grimalda, unde vântul bate ploaia. La prânz ajungem în Draguć, adăpostindu-ne în biserică. Prânzul târziu la konoba este recompensa meritată pentru kilometrii parcurși prin ploaie.",
-            "en": "A quick espresso in Cerovlje gets us ready for the wet ride. We cycle carefully through the Pazinčica valley and climb to Grimalda, where the wind whips the rain. At noon, we reach Draguć and take cover in the church. A late lunch at the tavern is the well-earned reward for the rainy miles."
+            "en": "A quick espresso in Cerovlje gets us ready for the wet ride. We cycle carefully through the Pazinčica valley and climb to Grimalda, where the wind whips the rain. At noon, we reach Draguć and take cover in the church. A late lunch at the tavern is the well-earned reward for the rainy miles.",
+            "hr": "Brzi espresso u Cerovlju priprema nas za mokru vožnju. Pažljivo vozimo bicikl kroz dolinu Pazinčice i penjemo se do Grimalde, gdje vjetar bičuje kišu. U podne stižemo u Draguć i sklanjamo se u crkvu. Kasni ručak u konobi zaslužena je nagrada za kilometre po kiši."
           },
           "stops": [
             {
@@ -686,7 +778,8 @@
                 "de": "Prüfen Sie noch einmal den Reifendruck; auf nassen Straßen ist etwas weniger Druck besser.",
                 "hu": "Ellenőrizd a guminyomást; vizes úton a kicsit alacsonyabb nyomás jobb tapadást ad.",
                 "ro": "Verificați presiunea în pneuri; pe drumuri ude, o presiune ușor mai mică e mai bună.",
-                "en": "Check your tire pressure; slightly lower pressure offers better grip on wet roads."
+                "en": "Check your tire pressure; slightly lower pressure offers better grip on wet roads.",
+                "hr": "Provjerite tlak u gumama; nešto niži tlak nudi bolje prianjanje na mokrim cestama."
               }
             },
             {
@@ -695,7 +788,8 @@
                 "de": "Vorsicht bei den Abfahrten; nasse Blätter und Schlamm können gefährlich sein.",
                 "hu": "Vigyázz a lejtőkön; a vizes levelek és a sár veszélyesek lehetnek.",
                 "ro": "Atenție la coborâri; frunzele ude și noroiul pot fi periculoase.",
-                "en": "Be careful on descents; wet leaves and mud can be hazardous."
+                "en": "Be careful on descents; wet leaves and mud can be hazardous.",
+                "hr": "Budite oprezni na spustovima; mokro lišće i blato mogu biti opasni."
               }
             },
             {
@@ -704,7 +798,8 @@
                 "de": "Der Anstieg hält warm, aber oben am Kamm ist es bei Regen sehr windig.",
                 "hu": "A kapaszkodó melegen tart, de a gerincen esőben nagyon fúj a szél.",
                 "ro": "Urcarea vă ține de cald, dar sus pe creastă este foarte vânt pe ploaie.",
-                "en": "The climb keeps you warm, but it's very windy on the ridge during rain."
+                "en": "The climb keeps you warm, but it's very windy on the ridge during rain.",
+                "hr": "Uspon vas drži toplima, ali na grebenu je vrlo vjetrovito tijekom kiše."
               }
             },
             {
@@ -713,7 +808,8 @@
                 "de": "Stellen Sie Ihr Fahrrad unter den Steinbögen am Dorfeingang unter.",
                 "hu": "Támaszd le a biciklidet a falu bejáratánál lévő kőívek alatt.",
                 "ro": "Parcați bicicleta sub arcadele de piatră de la intrarea în sat.",
-                "en": "Park your bike under the stone arches at the village entrance."
+                "en": "Park your bike under the stone arches at the village entrance.",
+                "hr": "Parkirajte bicikl ispod kamenih lukova na ulazu u selo."
               }
             },
             {
@@ -722,7 +818,8 @@
                 "de": "Nutzen Sie die Zeit für eine gründliche Pause, während es draußen regnet.",
                 "hu": "Használd ki az időt egy alapos pihenőre, amíg kint esik.",
                 "ro": "Folosiți timpul pentru o pauză serioasă în timp ce afară plouă.",
-                "en": "Use this time for a proper rest while it rains outside."
+                "en": "Use this time for a proper rest while it rains outside.",
+                "hr": "Iskoristite ovo vrijeme za pravi odmor dok vani pada kiša."
               }
             },
             {
@@ -731,7 +828,8 @@
                 "de": "Bitten Sie darum, Ihre nassen Handschuhe in der Nähe der Heizung trocknen zu dürfen.",
                 "hu": "Kérdezd meg, hogy megszáríthatod-e a vizes kesztyűdet a fűtőtest közelében.",
                 "ro": "Întrebați dacă vă puteți usca mănușile ude lângă o sursă de căldură.",
-                "en": "Ask if you can dry your wet gloves near a heater."
+                "en": "Ask if you can dry your wet gloves near a heater.",
+                "hr": "Pitajte možete li osušiti mokre rukavice blizu grijalice."
               }
             },
             {
@@ -740,7 +838,8 @@
                 "de": "Kurzer Stopp für ein Foto der dramatischen Regenwolken über dem Tal.",
                 "hu": "Gyors megálló egy fotóra a völgy feletti drámai esőfelhőkről.",
                 "ro": "Oprire scurtă pentru o fotografie cu norii dramatici de ploaie peste vale.",
-                "en": "Short stop for a photo of the dramatic rain clouds over the valley."
+                "en": "Short stop for a photo of the dramatic rain clouds over the valley.",
+                "hr": "Kratko zaustavljanje za fotografiju dramatičnih kišnih oblaka nad dolinom."
               }
             }
           ],
@@ -768,6 +867,12 @@
               "Wear high-visibility rain gear for better safety in the mist.",
               "Avoid sudden braking on the slippery cobblestones in the villages.",
               "Bring a dry jersey to change into during lunch."
+            ],
+            "hr": [
+              "Blatobrani su neophodni po ovakvom vremenu na istarskim cestama.",
+              "Nosite kišnu opremu visoke vidljivosti radi veće sigurnosti u magli.",
+              "Izbjegavajte naglo kočenje na skliskom popločenju u selima.",
+              "Ponesite suhi dres za presvlačenje tijekom ručka."
             ]
           }
         },
@@ -776,7 +881,8 @@
             "de": "Die kalte Winterluft beißt beim ersten Espresso in Cerovlje. Die Fahrt durch das frostige Pazinčica-Tal ist landschaftlich reizvoll, erfordert aber volle Konzentration. In Grimalda genießen wir die weite Sicht bis zum Meer. Nach dem Besuch der Fresken in Draguć wärmen wir uns bei einem ausgiebigen Mittagessen auf, bevor wir vor Einbruch der Dunkelheit zurückkehren.",
             "hu": "A hideg téli levegő csíp Cerovljében az első kávénál. A zúzmarás Pazinčica-völgy gyönyörű, de teljes koncentrációt igényel. Grimaldán élvezzük a tiszta kilátást egészen a tengerig. A dragući freskók megtekintése után egy kiadós ebéddel melegszünk fel, mielőtt még sötétedés előtt visszaérnénk.",
             "ro": "Aerul rece de iarnă înțeapă la primul espresso în Cerovlje. Drumul prin valea înghețată Pazinčica este pitoresc, dar necesită concentrare maximă. În Grimalda admirăm priveliștea până la mare. După vizitarea frescelor din Draguć, ne încălzim cu un prânz copios înainte de a ne întoarce înainte de lăsarea întunericului.",
-            "en": "The cold winter air bites during the first espresso in Cerovlje. The ride through the frosty Pazinčica valley is scenic but requires full focus. In Grimalda, we enjoy clear views all the way to the sea. After visiting the frescoes in Draguć, we warm up with a hearty lunch before returning before dark."
+            "en": "The cold winter air bites during the first espresso in Cerovlje. The ride through the frosty Pazinčica valley is scenic but requires full focus. In Grimalda, we enjoy clear views all the way to the sea. After visiting the frescoes in Draguć, we warm up with a hearty lunch before returning before dark.",
+            "hr": "Hladan zimski zrak grize tijekom prvog espressa u Cerovlju. Vožnja kroz mraznu dolinu Pazinčice je slikovita, ali zahtijeva punu koncentraciju. U Grimaldi uživamo u čistom pogledu sve do mora. Nakon posjeta freskama u Draguću, grijemo se uz obilan ručak prije povratka prije mraka."
           },
           "stops": [
             {
@@ -785,7 +891,8 @@
                 "de": "Trinken Sie etwas Heißes, um Ihre Körperkerntemperatur vor dem Start zu erhöhen.",
                 "hu": "Igyál valami forrót, hogy megemeld a testhőmérsékleted indulás előtt.",
                 "ro": "Beți ceva fierbinte pentru a vă crește temperatura corpului înainte de start.",
-                "en": "Drink something hot to boost your core temperature before starting."
+                "en": "Drink something hot to boost your core temperature before starting.",
+                "hr": "Popijte nešto toplo kako biste podigli temperaturu tijela prije početka."
               }
             },
             {
@@ -794,7 +901,8 @@
                 "de": "Achten Sie auf Glatteis in schattigen Kurven, wo die Sonne den Boden nicht erreicht.",
                 "hu": "Figyelj a felfagyásokra az árnyékos kanyarokban, ahol nem éri a nap az utat.",
                 "ro": "Atenție la porțiunile cu gheață în curbele umbrite unde soarele nu ajunge.",
-                "en": "Watch out for black ice in shaded corners where the sun doesn't hit the road."
+                "en": "Watch out for black ice in shaded corners where the sun doesn't hit the road.",
+                "hr": "Pazite na poledicu u sjenovitim zavojima gdje sunce ne dopire do ceste."
               }
             },
             {
@@ -803,7 +911,8 @@
                 "de": "Im Winter ist die Fernsicht hier oben oft klarer als im Sommer.",
                 "hu": "Télen a kilátás innen gyakran sokkal tisztább, mint nyáron.",
                 "ro": "Iarna, vizibilitatea la distanță de aici este adesea mai clară decât vara.",
-                "en": "In winter, the long-distance views from here are often clearer than in summer."
+                "en": "In winter, the long-distance views from here are often clearer than in summer.",
+                "hr": "Zimi su vidici odavde često bistriji nego ljeti."
               }
             },
             {
@@ -812,7 +921,8 @@
                 "de": "Die Abfahrt von Draguć kann sehr kalt sein; ziehen Sie eine extra Windschicht an.",
                 "hu": "A lejtő Dragućról nagyon hideg lehet; vegyél fel még egy szélálló réteget.",
                 "ro": "Coborârea din Draguć poate fi foarte rece; mai puneți un strat protecție contra vântului.",
-                "en": "The descent from Draguć can be very cold; put on an extra windproof layer."
+                "en": "The descent from Draguć can be very cold; put on an extra windproof layer.",
+                "hr": "Spust iz Draguća može biti vrlo hladan; odjenite dodatni sloj otporan na vjetar."
               }
             },
             {
@@ -821,7 +931,8 @@
                 "de": "Machen Sie Lockerungsübungen, damit Ihre Muskeln in der kalten Kirche nicht steif werden.",
                 "hu": "Mozgasd át magad, hogy az izmaid ne gémberedjenek el a hideg templomban.",
                 "ro": "Faceți câteva exerciții ușoare pentru ca mușchii să nu înțepenească în biserica rece.",
-                "en": "Do some light stretches so your muscles don't stiffen up in the cold church."
+                "en": "Do some light stretches so your muscles don't stiffen up in the cold church.",
+                "hr": "Lagano se rastegnite kako vam se mišići ne bi ukočili u hladnoj crkvi."
               }
             },
             {
@@ -830,7 +941,8 @@
                 "de": "Wählen Sie kohlenhydratreiche Pasta (Fuži), um Energie für den Rückweg zu tanken.",
                 "hu": "Válassz szénhidrátban gazdag tésztát (Fuži), hogy legyen energiád a visszaútra.",
                 "ro": "Alegeți paste bogate în carbohidrați (Fuži) pentru energie pe drumul de întoarcere.",
-                "en": "Choose carb-rich pasta (Fuži) to fuel up for the ride back."
+                "en": "Choose carb-rich pasta (Fuži) to fuel up for the ride back.",
+                "hr": "Odaberite fuže bogate ugljikohidratima za energiju za povratak."
               }
             },
             {
@@ -839,7 +951,8 @@
                 "de": "Genießen Sie das goldene Licht der tiefstehenden Wintersonne kurz vor 16 Uhr.",
                 "hu": "Élvezd az alacsonyan járó téli nap aranyfényeit délután 4 előtt.",
                 "ro": "Bucurați-vă de lumina aurie a soarelui de iarnă jos pe cer, înainte de ora 16.",
-                "en": "Enjoy the golden light of the low winter sun shortly before 4 PM."
+                "en": "Enjoy the golden light of the low winter sun shortly before 4 PM.",
+                "hr": "Uživajte u zlatnom svjetlu niskog zimskog sunca kratko prije 16 sati."
               }
             }
           ],
@@ -867,6 +980,12 @@
               "Bike light batteries drain faster in the cold; make sure they are fully charged.",
               "Plan to be back by 4:30 PM at the latest, as it gets very cold very quickly after that.",
               "Bring an insulated water bottle with warm tea."
+            ],
+            "hr": [
+              "Zimske biciklističke rukavice i navlake za cipele su apsolutno neophodni.",
+              "Baterije svjetala na biciklu brže se prazne na hladnoći; provjerite jesu li pune.",
+              "Planirajte povratak najkasnije do 16:30, jer nakon toga vrlo brzo zahladi.",
+              "Ponesite izoliranu bocu s toplim čajem."
             ]
           }
         }
@@ -895,7 +1014,8 @@
             "de": "Parken Sie bequem am Dorfplatz für einen ersten Kaffee.",
             "hu": "Parkoljon kényelmesen a faluban egy reggeli kávéhoz.",
             "ro": "Parcați confortabil în sat pentru o primă cafea.",
-            "en": "Park easily in the village for a morning coffee."
+            "en": "Park easily in the village for a morning coffee.",
+            "hr": "Lako parkirajte u selu za jutarnju kavu."
           }
         },
         {
@@ -913,7 +1033,8 @@
             "de": "Kurzer Spaziergang vom Parkplatz zum Wasser.",
             "hu": "Rövid séta a parkolótól a patakpartig.",
             "ro": "Scurtă plimbare de la parcare până la apă.",
-            "en": "Short walk from the parking area to the water."
+            "en": "Short walk from the parking area to the water.",
+            "hr": "Kratka šetnja od parkirališta do vode."
           }
         },
         {
@@ -931,7 +1052,8 @@
             "de": "Panorama-Hügel mit Blick bis zum Meer bei klarem Wetter.",
             "hu": "Panorámás domb, ahonnan tiszta időben a tengerig látni.",
             "ro": "Deal panoramic cu vedere până la mare pe timp senin.",
-            "en": "Panoramic hill with views to the sea in clear weather."
+            "en": "Panoramic hill with views to the sea in clear weather.",
+            "hr": "Panoramsko brdo s pogledom do mora po vedrom vremenu."
           }
         },
         {
@@ -949,7 +1071,8 @@
             "de": "Spezialitäten der istrischen Inlandsgastronomie.",
             "hu": "A belső-isztriai gasztronómia specialitásai.",
             "ro": "Specialități din gastronomia Istriei interioare.",
-            "en": "Specialties of inland Istrian gastronomy."
+            "en": "Specialties of inland Istrian gastronomy.",
+            "hr": "Specijaliteti unutrašnje istarske gastronomije."
           }
         },
         {
@@ -967,7 +1090,8 @@
             "de": "Parken Sie am Dorfeingang und erkunden Sie den Ort zu Fuß.",
             "hu": "Parkoljon a falu elején, és fedezze fel gyalog a környéket.",
             "ro": "Parcați la intrarea în sat și explorați-l la pas.",
-            "en": "Park at the village entrance and explore on foot."
+            "en": "Park at the village entrance and explore on foot.",
+            "hr": "Parkirajte na ulazu u selo i istražite ga pješice."
           }
         },
         {
@@ -985,7 +1109,8 @@
             "de": "Zweiter Stopp im Draguć-Cluster: Die Fresken-Kapelle.",
             "hu": "Második megálló Dragućban: a freskós kápolna.",
             "ro": "A doua oprire în clusterul Draguć: capela cu fresce.",
-            "en": "Second stop in the Draguć cluster: the fresco chapel."
+            "en": "Second stop in the Draguć cluster: the fresco chapel.",
+            "hr": "Druga stanica u Draguću: kapelica s freskama."
           }
         }
       ],
@@ -993,7 +1118,8 @@
         "de": "Mit dem Auto erkunden Sie mühelos die entlegenen Schätze der Gemeinde Cerovlje. Der Tag beginnt mit Natur am Pazinčica-Bach, gefolgt von der einsamen Schönheit von Grimalda auf ihrem Hügel. Nach einem ausgiebigen Mittagessen im Tal widmen Sie den Nachmittag dem Draguć-Cluster. Hier parken Sie das Auto einmal und spazieren durch das historische Dorf bis zur berühmten Kirche des Heiligen Rochus, um die istrische Sakralkunst hautnah zu erleben.",
         "hu": "Autóval könnyedén felfedezheti Cerovlje község rejtett kincseit. A nap a Pazinčica-pataknál kezdődik, majd Grimalda magányos szépségével folytatódik a dombtetőn. A völgyben elköltött bőséges ebéd után a délutánt Draguć felfedezésének szentelheti. Itt egyszer parkol le, majd gyalogosan járja be a történelmi falut és a híres Szent Rókus templomot, hogy közelebbről is megismerje az isztriai szakrális művészetet.",
         "ro": "Cu mașina, explorați fără efort comorile ascunse ale comunei Cerovlje. Ziua începe cu natura la pârâul Pazinčica, urmată de frumusețea solitară a satului Grimalda de pe dealul său. După un prânz copios în vale, dedicați după-amiaza clusterului Draguć. Aici parcați mașina o singură dată și vă plimbați prin satul istoric până la celebra biserică Sf. Roc, pentru a vedea de aproape arta sacră istriană.",
-        "en": "By car, you can effortlessly explore the hidden treasures of the Cerovlje municipality. The day begins with nature at the Pazinčica stream, followed by the lonely beauty of Grimalda on its hilltop. After a hearty lunch in the valley, devote the afternoon to the Draguć cluster. Here, you park the car once and walk through the historical village to the famous Church of St. Roch to experience Istrian sacral art firsthand."
+        "en": "By car, you can effortlessly explore the hidden treasures of the Cerovlje municipality. The day begins with nature at the Pazinčica stream, followed by the lonely beauty of Grimalda on its hilltop. After a hearty lunch in the valley, devote the afternoon to the Draguć cluster. Here, you park the car once and walk through the historical village to the famous Church of St. Roch to experience Istrian sacral art firsthand.",
+        "hr": "Automobilom možete bez napora istražiti skrivena blaga općine Cerovlje. Dan počinje prirodom uz potok Pazinčicu, nakon čega slijedi osamljena ljepota Grimalde na vrhu brda. Nakon obilnog ručka u dolini, poslijepodne posvetite Draguću. Ovdje jednom parkirajte automobil i prošećite kroz povijesno selo do poznate crkve sv. Roka kako biste iz prve ruke doživjeli istarsku sakralnu umjetnost."
       },
       "gastro_picks": {
         "de": [
@@ -1018,6 +1144,12 @@
           {
             "name": "Restoran Tomaž",
             "tip": "Excellent meat and local wines near Cerovlje."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Tomaž",
+            "tip": "Izvrsno meso i lokalna vina u blizini Cerovlja."
           }
         ]
       },
@@ -1049,6 +1181,13 @@
             "tip": "Stop along the road to Draguć for a view of the reservoir.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Pogled na jezero Butoniga",
+            "tip": "Stanite uz cestu prema Draguću za pogled na akumulacijsko jezero.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1074,6 +1213,12 @@
           {
             "name": "Truffle Products",
             "tip": "Available in local shops in Cerovlje or Draguć."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Proizvodi od tartufa",
+            "tip": "Dostupni u lokalnim trgovinama u Cerovlju ili Draguću."
           }
         ]
       },
@@ -1101,6 +1246,12 @@
           "Parking in the center of Draguć is limited.",
           "Fill up your tank in Pazin, as there is no gas station in Cerovlje.",
           "Visit in autumn during the truffle season."
+        ],
+        "hr": [
+          "Ceste su uske i zavojite; vozite oprezno.",
+          "Parkiranje u centru Draguća je ograničeno.",
+          "Natočite gorivo u Pazinu, jer u Cerovlju nema benzinske postaje.",
+          "Posjetite u jesen tijekom sezone tartufa."
         ]
       },
       "variants": {
@@ -1109,7 +1260,8 @@
             "de": "Ein entspanntes Frühstück in Cerovlje lässt den Regen draußen vergessen. Wir fahren gemütlich zum Pazinčica-Ufer und genießen die Aussicht aus dem trockenen Auto. Nach einem kurzen Stopp in Grimalda verbringen wir einen ausgiebigen Mittag in der Konoba. In Draguć schlendern wir zwischen den Regenschauern durch die historischen Gassen.",
             "hu": "Egy nyugodt reggeli Cerovljében elfelejteti velünk a kinti esőt. Kényelmesen autózunk a Pazinčica partjához, és a száraz autóból élvezzük a látványt. Egy rövid grimaldai megálló után hosszan ebédelünk a konobában. Dragućban az esőszüneteket kihasználva sétálunk a történelmi utcákon.",
             "ro": "Un mic dejun relaxat în Cerovlje ne face să uităm de ploaia de afară. Conducem lejer spre malul râului Pazinčica, admirând peisajul din mașina uscată. După o scurtă oprire în Grimalda, petrecem un prânz prelungit la konoba. În Draguć, profităm de pauzele dintre reprizele de ploaie pentru a vizita satul.",
-            "en": "A relaxed breakfast in Cerovlje helps forget the rain outside. We drive comfortably to the Pazinčica banks and enjoy the view from the dry car. After a short stop in Grimalda, we spend a long lunch at the tavern. In Draguć, we stroll through the historical streets between rain showers."
+            "en": "A relaxed breakfast in Cerovlje helps forget the rain outside. We drive comfortably to the Pazinčica banks and enjoy the view from the dry car. After a short stop in Grimalda, we spend a long lunch at the tavern. In Draguć, we stroll through the historical streets between rain showers.",
+            "hr": "Opušteni doručak u Cerovlju pomaže zaboraviti kišu vani. Udobno se vozimo do obala Pazinčice i uživamo u pogledu iz suhog automobila. Nakon kratkog zaustavljanja u Grimaldi, provodimo dugi ručak u konobi. U Draguću šetamo povijesnim ulicama između pljuskova."
           },
           "stops": [
             {
@@ -1118,7 +1270,8 @@
                 "de": "Parken Sie direkt vor dem Café, um trocken hineinzukommen.",
                 "hu": "Parkolj közvetlenül a kávézó előtt, hogy szárazon juss be.",
                 "ro": "Parcați chiar în fața cafenelei pentru a intra fără să vă udați.",
-                "en": "Park right in front of the café to stay dry as you head inside."
+                "en": "Park right in front of the café to stay dry as you head inside.",
+                "hr": "Parkirajte točno ispred kafića kako biste ostali suhi pri ulasku."
               }
             },
             {
@@ -1127,7 +1280,8 @@
                 "de": "Man kann den Fluss auch gut von der Brücke aus dem Auto heraus sehen.",
                 "hu": "A folyó a hídról, az autóból is jól látható.",
                 "ro": "Râul poate fi văzut bine și de pe pod, direct din mașină.",
-                "en": "You can see the river well from the bridge, even without leaving the car."
+                "en": "You can see the river well from the bridge, even without leaving the car.",
+                "hr": "Rijeka se dobro vidi s mosta, čak i bez izlaska iz automobila."
               }
             },
             {
@@ -1136,7 +1290,8 @@
                 "de": "Vorsicht auf der schmalen Straße nach Grimalda; bei Regen kann es rutschig sein.",
                 "hu": "Vigyázz a Grimaldára vezető keskeny úton; esőben csúszós lehet.",
                 "ro": "Atenție pe drumul îngust spre Grimalda; poate fi alunecos pe ploaie.",
-                "en": "Be careful on the narrow road to Grimalda; it can be slippery in the rain."
+                "en": "Be careful on the narrow road to Grimalda; it can be slippery in the rain.",
+                "hr": "Budite oprezni na uskoj cesti prema Grimaldi; može biti skliska na kiši."
               }
             },
             {
@@ -1145,7 +1300,8 @@
                 "de": "Die Konoba ist der perfekte Ort, um ein schweres Gewitter auszusitzen.",
                 "hu": "A konoba tökéletes hely egy nagyobb zápor átvészelésére.",
                 "ro": "Konoba este locul perfect pentru a aștepta trecerea unei furtuni.",
-                "en": "The tavern is the perfect place to wait out a heavy rainstorm."
+                "en": "The tavern is the perfect place to wait out a heavy rainstorm.",
+                "hr": "Konoba je savršeno mjesto za čekanje da prođe jako nevrijeme."
               }
             },
             {
@@ -1154,7 +1310,8 @@
                 "de": "Es gibt Parkplätze direkt am Ortseingang; der Weg zu den Fresken ist kurz.",
                 "hu": "Közvetlenül a falu bejáratánál van parkoló; a freskókhoz vezető út rövid.",
                 "ro": "Există locuri de parcare chiar la intrarea în sat; drumul spre fresce este scurt.",
-                "en": "There are parking spots right at the village entrance; it's a short walk to the frescoes."
+                "en": "There are parking spots right at the village entrance; it's a short walk to the frescoes.",
+                "hr": "Postoje parkirna mjesta točno na ulazu u selo; kratka je šetnja do fresaka."
               }
             },
             {
@@ -1163,7 +1320,8 @@
                 "de": "Lassen Sie Ihren nassen Schirm im Vorraum der Kirche stehen.",
                 "hu": "Hagyd a vizes esernyődet a templom előterében.",
                 "ro": "Lăsați umbrela udă în vestibulul bisericii.",
-                "en": "Leave your wet umbrella in the church vestibule."
+                "en": "Leave your wet umbrella in the church vestibule.",
+                "hr": "Ostavite mokri kišobran u predvorju crkve."
               }
             }
           ],
@@ -1191,6 +1349,12 @@
               "Check your windshield wipers before driving through the hills.",
               "Fog can develop quickly in the valleys when it rains; drive with lights on.",
               "An umbrella in the car is perfect for the short walks to the sights."
+            ],
+            "hr": [
+              "Izbjegavajte neasfaltirane sporedne ceste koje na kiši mogu postati blatnjave i mekane.",
+              "Provjerite brisače prije vožnje kroz brda.",
+              "U dolinama se na kiši može brzo razviti magla; vozite s upaljenim svjetlima.",
+              "Kišobran u autu savršen je za kratke šetnje do znamenitosti."
             ]
           }
         },
@@ -1199,7 +1363,8 @@
             "de": "Der Wintermorgen in Cerovlje ist frostig, aber im Auto ist es warm. Wir bewundern die Eiskristalle an der Pazinčica und fahren durch die klare Winterluft nach Grimalda. Nach einem gemütlichen Mittagessen bei istrischen Spezialitäten erkunden wir das stille Draguć. Der Sonnenuntergang über den schneebedeckten Gipfeln in der Ferne ist ein Highlight.",
             "hu": "A téli reggel fagyos Cerovljében, de az autóban meleg van. Megcsodáljuk a jégkristályokat a Pazinčicánál, majd a tiszta téli levegőben Grimaldára hajtunk. Egy hangulatos ebéd után a csendes Dragućot fedezzük fel. A távoli, hófödte csúcsok feletti naplemente igazi fénypont.",
             "ro": "Dimineața de iarnă în Cerovlje este geroasă, dar în mașină este cald. Admirăm cristalele de gheață de la Pazinčica și conducem prin aerul clar spre Grimalda. După un prânz primitor cu specialități istriene, explorăm liniștea din Draguć. Apusul peste vârfurile înzăpezite din depărtare este un punct culminant.",
-            "en": "Winter morning in Cerovlje is frosty, but the car is warm. We admire the ice crystals at Pazinčica and drive through the clear air to Grimalda. After a cozy lunch with Istrian specialties, we explore quiet Draguć. The sunset over the distant snow-capped peaks is a highlight."
+            "en": "Winter morning in Cerovlje is frosty, but the car is warm. We admire the ice crystals at Pazinčica and drive through the clear air to Grimalda. After a cozy lunch with Istrian specialties, we explore quiet Draguć. The sunset over the distant snow-capped peaks is a highlight.",
+            "hr": "Zimsko jutro u Cerovlju je mrazno, ali u autu je toplo. Divimo se kristalima leda na Pazinčici i vozimo se kroz čisti zrak do Grimalde. Nakon ugodnog ručka s istarskim specijalitetima, istražujemo mirni Draguć. Zalazak sunca nad udaljenim snježnim vrhovima je vrhunac dana."
           },
           "stops": [
             {
@@ -1208,7 +1373,8 @@
                 "de": "Lassen Sie das Auto warmlaufen, während Sie drinnen frühstücken.",
                 "hu": "Hagyd melegedni az autót, amíg bent reggelizel.",
                 "ro": "Lăsați mașina să se încălzească în timp ce luați micul dejun în interior.",
-                "en": "Let the car warm up while you enjoy your breakfast inside."
+                "en": "Let the car warm up while you enjoy your breakfast inside.",
+                "hr": "Pustite da se auto zagrije dok vi uživate u doručku unutra."
               }
             },
             {
@@ -1217,7 +1383,8 @@
                 "de": "Die Luft am Fluss ist im Winter besonders frisch und klar.",
                 "hu": "A folyóparti levegő télen különösen friss és tiszta.",
                 "ro": "Aerul de lângă râu este deosebit de proaspăt și clar iarna.",
-                "en": "The air by the river is exceptionally fresh and clear in winter."
+                "en": "The air by the river is exceptionally fresh and clear in winter.",
+                "hr": "Zrak uz rijeku je zimi iznimno svjež i bistar."
               }
             },
             {
@@ -1226,7 +1393,8 @@
                 "de": "Die Straßen können in schattigen Abschnitten vereist sein; fahren Sie vorsichtig.",
                 "hu": "Az utak az árnyékos szakaszokon jegesek lehetnek; vezess óvatosan.",
                 "ro": "Drumurile pot fi înghețate în porțiunile umbrite; conduceți cu prudență.",
-                "en": "Roads can be icy in shaded sections; please drive carefully."
+                "en": "Roads can be icy in shaded sections; please drive carefully.",
+                "hr": "Ceste mogu biti zaleđene na sjenovitim dionicama; vozite oprezno."
               }
             },
             {
@@ -1235,7 +1403,8 @@
                 "de": "Reservieren Sie einen Tisch in der Nähe des offenen Kamins.",
                 "hu": "Foglalj asztalt a nyitott kandalló közelében.",
                 "ro": "Rezervați o masă lângă șemineul deschis.",
-                "en": "Reserve a table near the open fireplace if possible."
+                "en": "Reserve a table near the open fireplace if possible.",
+                "hr": "Rezervirajte stol blizu otvorenog kamina ako je moguće."
               }
             },
             {
@@ -1244,7 +1413,8 @@
                 "de": "Nutzen Sie das letzte Tageslicht für Fotos der mittelalterlichen Fassaden.",
                 "hu": "Használd ki az utolsó nappali fényeket a középkori homlokzatok fotózásához.",
                 "ro": "Profitați de ultima lumină a zilei pentru fotografii ale fațadelor medievale.",
-                "en": "Make use of the last daylight to take photos of the medieval facades."
+                "en": "Make use of the last daylight to take photos of the medieval facades.",
+                "hr": "Iskoristite posljednje dnevno svjetlo za fotografiranje srednjovjekovnih fasada."
               }
             },
             {
@@ -1253,7 +1423,8 @@
                 "de": "Die Stille in der Kirche ist im Winter noch beeindruckender.",
                 "hu": "A templom csendje télen még lenyűgözőbb.",
                 "ro": "Liniștea din biserică este și mai impresionantă iarna.",
-                "en": "The silence in the church is even more impressive during winter."
+                "en": "The silence in the church is even more impressive during winter.",
+                "hr": "Tišina u crkvi još je dojmljivija tijekom zime."
               }
             }
           ],
@@ -1281,6 +1452,12 @@
               "Make sure to use anti-freeze windshield washer fluid.",
               "Keep a warm blanket in the car for breaks.",
               "Watch out for wildlife, which tends to come closer to roads in winter."
+            ],
+            "hr": [
+              "Zimske gume su obavezne u istarskim brdima tijekom zime.",
+              "Obavezno koristite tekućinu za stakla protiv smrzavanja.",
+              "Držite toplu deku u autu za stanke.",
+              "Pazite na divljač koja se zimi češće približava cestama."
             ]
           }
         }
@@ -1309,7 +1486,8 @@
             "de": "Gemütlicher Start direkt nach der Ankunft mit dem Zug.",
             "hu": "Hangulatos kezdés közvetlenül a vonattal érkezés után.",
             "ro": "Un început plăcut imediat după sosirea cu trenul.",
-            "en": "Cosy start right after arriving by train."
+            "en": "Cosy start right after arriving by train.",
+            "hr": "Ugodan početak odmah nakon dolaska vlakom."
           }
         },
         {
@@ -1327,7 +1505,8 @@
             "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
             "hu": "A vasútállomástól könnyen elérhető gyalog.",
             "ro": "Ușor accesibil pe jos de la gară.",
-            "en": "Easily accessible on foot from the station."
+            "en": "Easily accessible on foot from the station.",
+            "hr": "Lako dostupno pješice s kolodvora."
           }
         },
         {
@@ -1345,7 +1524,8 @@
             "de": "Genießen Sie lokale Produkte direkt im Ort.",
             "hu": "Élvezze a helyi termékeket közvetlenül a faluban.",
             "ro": "Savurați produse locale chiar în localitate.",
-            "en": "Enjoy local products right in the village."
+            "en": "Enjoy local products right in the village.",
+            "hr": "Uživajte u lokalnim proizvodima izravno u mjestu."
           }
         },
         {
@@ -1363,7 +1543,8 @@
             "de": "Nutzen Sie ein lokales Taxi oder den seltenen Bus.",
             "hu": "Használjon helyi taxit vagy a ritka buszjáratot.",
             "ro": "Folosiți un taxi local sau autobuzul ocazional.",
-            "en": "Use a local taxi or the infrequent bus."
+            "en": "Use a local taxi or the infrequent bus.",
+            "hr": "Koristite lokalni taksi ili rijetki autobus."
           }
         },
         {
@@ -1381,7 +1562,8 @@
             "de": "Letzter Höhepunkt vor der Rückfahrt nach Cerovlje.",
             "hu": "Utolsó fénypont a Cerovlje-be való visszatérés előtt.",
             "ro": "Ultimul punct culminant înainte de întoarcerea la Cerovlje.",
-            "en": "Final highlight before returning to Cerovlje."
+            "en": "Final highlight before returning to Cerovlje.",
+            "hr": "Posljednji vrhunac prije povratka u Cerovlje."
           }
         }
       ],
@@ -1389,7 +1571,8 @@
         "de": "Mit dem Zug erreichen Sie Cerovlje entspannt. Der Vormittag gehört dem Zentrum und einem Naturspaziergang zum Pazinčica-Bach. Nach einem herzhaften Mittagessen im Dorf nehmen Sie ein lokales Transportmittel nach Draguć. In diesem historischen Cluster besuchen Sie das malerische Bergdorf und die Freskenkapelle St. Rochus, bevor Sie pünktlich für Ihren Rückzug wieder am Bahnhof von Cerovlje eintreffen.",
         "hu": "Vonattal kényelmesen elérhető Cerovlje. A délelőtt a falu központjáé és egy természetközeli sétáé a Pazinčica-patakhoz. Egy bőséges helyi ebéd után vegyen igénybe helyi fuvart Dragućba. Ebben a történelmi környezetben meglátogathatja a festői hegyi falut és a Szent Rókus freskós kápolnát, mielőtt visszatérne a cerovljei állomásra a hazaúthoz.",
         "ro": "Puteți ajunge relaxat la Cerovlje cu trenul. Dimineața este dedicată centrului și unei plimbări în natură la pârâul Pazinčica. După un prânz copios în sat, luați un mijloc de transport local spre Draguć. În acest cluster istoric, vizitați satul pitoresc de munte și capela cu fresce Sf. Roc, înainte de a reveni la gara din Cerovlje pentru drumul de întoarcere.",
-        "en": "You can reach Cerovlje in a relaxed way by train. The morning is dedicated to the center and a nature walk to the Pazinčica stream. After a hearty lunch in the village, take local transport to Draguć. In this historical cluster, visit the picturesque mountain village and the frescoed chapel of St. Roch, before returning to Cerovlje station for your journey back."
+        "en": "You can reach Cerovlje in a relaxed way by train. The morning is dedicated to the center and a nature walk to the Pazinčica stream. After a hearty lunch in the village, take local transport to Draguć. In this historical cluster, visit the picturesque mountain village and the frescoed chapel of St. Roch, before returning to Cerovlje station for your journey back.",
+        "hr": "Do Cerovlja možete opušteno stići vlakom. Jutro je posvećeno centru i šetnji prirodom do potoka Pazinčice. Nakon obilnog ručka u mjestu, koristite lokalni prijevoz do Draguća. U ovom povijesnom klasteru posjetite slikovito planinsko selo i kapelicu sv. Roka s freskama, prije povratka na stanicu Cerovlje za put natrag."
       },
       "gastro_picks": {
         "de": [
@@ -1414,6 +1597,12 @@
           {
             "name": "Buffet Rock",
             "tip": "A simple place for a quick snack near the station."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Buffet Rock",
+            "tip": "Jednostavno mjesto za brzi zalogaj u blizini kolodvora."
           }
         ]
       },
@@ -1445,6 +1634,13 @@
             "tip": "A quiet, nostalgic place when no trains are arriving.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Željeznička stanica Cerovlje",
+            "tip": "Mirno, nostalgično mjesto kada vlakovi ne dolaze.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1470,6 +1666,12 @@
           {
             "name": "Cerovlje Local Market",
             "tip": "Fresh fruit and vegetables depending on the season."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica Cerovlje",
+            "tip": "Svježe voće i povrće ovisno o sezoni."
           }
         ]
       },
@@ -1497,6 +1699,12 @@
           "Bus connections to Draguć are rare; a taxi from Cerovlje is advisable.",
           "Buy your ticket at the counter or on the train.",
           "The trains are often old-fashioned but offer great views of the landscape."
+        ],
+        "hr": [
+          "Provjerite vozni red Hrvatskih željeznica (HŽ).",
+          "Autobusne veze za Draguć su rijetke; preporučuje se taksi iz Cerovlja.",
+          "Kupite kartu na šalteru ili u vlaku.",
+          "Vlakovi su često staromodni, ali nude sjajne poglede na krajolik."
         ]
       },
       "variants": {
@@ -1505,7 +1713,8 @@
             "de": "Wir starten gemütlich im Bahnhofs-Café von Cerovlje und warten auf das Ende eines Regenschauers. Ein kurzer Spaziergang zur Pazinčica zeigt uns die wilde Seite der Natur im Regen. Nach dem Mittagessen im Ort bringt uns der lokale Shuttle nach Draguć, wo wir die historischen Schätze im Trockenen bewundern können. Die Rückfahrt im Zug bietet einen entspannten Blick auf die neblige Landschaft.",
             "hu": "Kényelmesen kezdünk a cerovljei vasúti kávézóban, megvárva egy zápor végét. Egy rövid séta a Pazinčicához megmutatja a természet vadabb arcát esőben. Az ebéd után a helyi busz visz fel Dragućba, ahol szárazon csodálhatjuk meg a történelmi kincseket. A vonatút visszafelé pihentető kilátást nyújt a ködös tájra.",
             "ro": "Începem relaxat la cafeneaua gării din Cerovlje, așteptând sfârșitul unei averse. O scurtă plimbare spre Pazinčica ne arată fața sălbatică a naturii pe ploaie. După prânz, naveta locală ne duce la Draguć, unde admirăm comorile istorice la adăpost. Drumul de întoarcere cu trenul oferă o priveliște relaxantă asupra peisajului cețos.",
-            "en": "We start comfortably at the Cerovlje station café, waiting for a rain shower to pass. A short walk to Pazinčica reveals nature's wilder side in the rain. After lunch, the local shuttle takes us to Draguć, where we can admire historical treasures while staying dry. The train ride back offers a relaxing view of the misty landscape."
+            "en": "We start comfortably at the Cerovlje station café, waiting for a rain shower to pass. A short walk to Pazinčica reveals nature's wilder side in the rain. After lunch, the local shuttle takes us to Draguć, where we can admire historical treasures while staying dry. The train ride back offers a relaxing view of the misty landscape.",
+            "hr": "Počinjemo ugodno u kafiću na kolodvoru u Cerovlju, čekajući da prođe pljusak. Kratka šetnja do Pazinčice otkriva divljiju stranu prirode na kiši. Nakon ručka, lokalni prijevoz nas vozi do Draguća, gdje se možemo diviti povijesnom blagu dok ostajemo suhi. Vožnja vlakom natrag nudi opuštajući pogled na maglovit krajolik."
           },
           "stops": [
             {
@@ -1514,7 +1723,8 @@
                 "de": "Ein idealer Ort, um die Wartezeit auf den Zug oder Bus trocken zu verbringen.",
                 "hu": "Ideális hely a vonat vagy busz várakozási idejének száraz eltöltéséhez.",
                 "ro": "Un loc ideal pentru a petrece timpul de așteptare pentru tren sau autobuz la uscat.",
-                "en": "An ideal spot to stay dry while waiting for your train or bus."
+                "en": "An ideal spot to stay dry while waiting for your train or bus.",
+                "hr": "Idealno mjesto da ostanete suhi dok čekate vlak ili autobus."
               }
             },
             {
@@ -1523,7 +1733,8 @@
                 "de": "Nutzen Sie den befestigten Weg, um nicht im Schlamm stecken zu bleiben.",
                 "hu": "Használd a burkolt utat, hogy ne ragadj bele a sárba.",
                 "ro": "Folosiți drumul pavat pentru a nu vă bloca în noroi.",
-                "en": "Stick to the paved path to avoid getting stuck in the mud."
+                "en": "Stick to the paved path to avoid getting stuck in the mud.",
+                "hr": "Držite se asfaltirane staze kako ne biste zapeli u blatu."
               }
             },
             {
@@ -1532,7 +1743,8 @@
                 "de": "Das Restaurant liegt nur wenige Gehminuten vom Bahnhof entfernt.",
                 "hu": "Az étterem csak pár perc sétára van a vasútállomástól.",
                 "ro": "Restaurantul se află la doar câteva minute de mers pe jos de gară.",
-                "en": "The restaurant is just a few minutes' walk from the train station."
+                "en": "The restaurant is just a few minutes' walk from the train station.",
+                "hr": "Restoran je udaljen samo nekoliko minuta hoda od željezničke stanice."
               }
             },
             {
@@ -1541,7 +1753,8 @@
                 "de": "Der Shuttle hält direkt am Ortseingang; kurze Wege sind garantiert.",
                 "hu": "A busz közvetlenül a falu bejáratánál áll meg; a gyalogút rövid.",
                 "ro": "Naveta oprește chiar la intrarea în sat; distanțele sunt scurte.",
-                "en": "The shuttle stops right at the village entrance; walking distances are short."
+                "en": "The shuttle stops right at the village entrance; walking distances are short.",
+                "hr": "Prijevoz staje točno na ulazu u selo; udaljenosti za hodanje su kratke."
               }
             },
             {
@@ -1550,7 +1763,8 @@
                 "de": "Ein ruhiger Rückzugsort vor dem Regen, bevor der Shuttle zurückfährt.",
                 "hu": "Csendes menedék az eső elől a busz indulásáig.",
                 "ro": "Un refugiu liniștit de ploaie înainte de plecarea navetei înapoi.",
-                "en": "A quiet retreat from the rain before the shuttle departs for the return trip."
+                "en": "A quiet retreat from the rain before the shuttle departs for the return trip.",
+                "hr": "Mirno utočište od kiše prije povratka prijevozom."
               }
             }
           ],
@@ -1578,6 +1792,12 @@
               "Keep your ticket handy so you don't have to search for it in the rain.",
               "Use station waiting rooms as shelters from the rain.",
               "Combine bus and train travel to minimize walking outdoors."
+            ],
+            "hr": [
+              "Provjerite ima li kašnjenja vlakova tijekom razdoblja jake kiše.",
+              "Neka vam karta bude pri ruci kako je ne biste morali tražiti na kiši.",
+              "Koristite kolodvorske čekaonice kao zaklon od kiše.",
+              "Kombinirajte putovanje autobusom i vlakom kako biste minimalizirali hodanje na otvorenom."
             ]
           }
         },
@@ -1586,7 +1806,8 @@
             "de": "Ein heißer Kaffee im Bahnhofs-Café wärmt uns am frostigen Morgen auf. Der kurze Weg zur Pazinčica ist bei klarer Winterluft sehr erfrischend. Nach einem stärkenden Mittagessen im Dorf bringt uns der Shuttle ins winterliche Draguć, das wir fast für uns alleine haben. Die Rückfahrt im beheizten Zug ist der perfekte Abschluss des Tages.",
             "hu": "Egy forró kávé a vasúti kávézóban felmelegít a fagyos reggelen. A rövid séta a Pazinčicához a tiszta téli levegőben nagyon frissítő. Egy laktató ebéd után a busz Dragućba visz, amit szinte teljesen egyedül élvezhetünk. A fűtött vonatút visszafelé a nap tökéletes zárása.",
             "ro": "O cafea fierbinte la cafeneaua gării ne încălzește în dimineața geroasă. Scurta plimbare spre Pazinčica este foarte revigorantă în aerul clar de iarnă. După un prânz consistent, naveta ne duce în Draguć-ul hibernal, pe care îl avem aproape doar pentru noi. Întoarcerea cu trenul încălzit este încheierea perfectă a zilei.",
-            "en": "A hot coffee at the station café warms us up on a frosty morning. The short walk to Pazinčica is very refreshing in the clear winter air. After a filling lunch, the shuttle takes us to wintery Draguć, which we have almost entirely to ourselves. The ride back in a heated train is the perfect end to the day."
+            "en": "A hot coffee at the station café warms us up on a frosty morning. The short walk to Pazinčica is very refreshing in the clear winter air. After a filling lunch, the shuttle takes us to wintery Draguć, which we have almost entirely to ourselves. The ride back in a heated train is the perfect end to the day.",
+            "hr": "Vruća kava u kolodvorskom kafiću grije nas u mrazno jutro. Kratka šetnja do Pazinčice vrlo je osvježavajuća na čistom zimskom zraku. Nakon zasitnog ručka, prijevoz nas vozi u zimski Draguć koji imamo gotovo isključivo za sebe. Povratak u grijanom vlaku savršen je završetak dana."
           },
           "stops": [
             {
@@ -1595,7 +1816,8 @@
                 "de": "Genießen Sie die Wärme im Innenbereich, bevor Sie den Bahnhof verlassen.",
                 "hu": "Élvezd a benti meleget, mielőtt elhagynád az állomást.",
                 "ro": "Bucurați-vă de căldura din interior înainte de a părăsi gara.",
-                "en": "Enjoy the warmth indoors before heading out from the station."
+                "en": "Enjoy the warmth indoors before heading out from the station.",
+                "hr": "Uživajte u toplini unutra prije nego što krenete s kolodvora."
               }
             },
             {
@@ -1604,7 +1826,8 @@
                 "de": "Ziehen Sie sich warm an; der Wind am Fluss kann im Winter schneidend sein.",
                 "hu": "Öltözz fel jól; a folyóparti szél télen metsző lehet.",
                 "ro": "Îmbrăcați-vă gros; vântul de lângă râu poate fi tăios iarna.",
-                "en": "Dress warmly; the wind by the river can be biting in winter."
+                "en": "Dress warmly; the wind by the river can be biting in winter.",
+                "hr": "Toplo se odjenite; vjetar uz rijeku zimi može biti oštar."
               }
             },
             {
@@ -1613,7 +1836,8 @@
                 "de": "Ein heißes Gericht ist jetzt genau das Richtige vor der Weiterfahrt.",
                 "hu": "Egy forró étel most pont megfelel a továbbutazás előtt.",
                 "ro": "O mâncare fierbinte este exact ce trebuie înainte de a continua drumul.",
-                "en": "A hot meal is exactly what you need before continuing your journey."
+                "en": "A hot meal is exactly what you need before continuing your journey.",
+                "hr": "Topli obrok je upravo ono što vam treba prije nastavka putovanja."
               }
             },
             {
@@ -1622,7 +1846,8 @@
                 "de": "Achten Sie auf den eingeschränkten Winterfahrplan des Shuttles.",
                 "hu": "Figyelj a busz korlátozott téli menetrendjére.",
                 "ro": "Atenție la programul de iarnă redus al navetei.",
-                "en": "Pay attention to the limited winter schedule of the shuttle."
+                "en": "Pay attention to the limited winter schedule of the shuttle.",
+                "hr": "Obratite pozornost na ograničeni zimski vozni red prijevoza."
               }
             },
             {
@@ -1631,7 +1856,8 @@
                 "de": "Bewundern Sie die Fresken, aber halten Sie die Besichtigung kurz, um nicht auszukühlen.",
                 "hu": "Csodáld meg a freskókat, de tartsd röviden a látogatást, hogy ne hűlj ki.",
                 "ro": "Admirați frescele, dar păstrați vizita scurtă pentru a nu vă răci.",
-                "en": "Admire the frescoes, but keep your visit brief to avoid getting too cold."
+                "en": "Admire the frescoes, but keep your visit brief to avoid getting too cold.",
+                "hr": "Divite se freskama, ali neka posjet bude kratak kako vam ne bi postalo prehladno."
               }
             }
           ],
@@ -1659,6 +1885,12 @@
               "Use the Croatian Railways app for real-time information during winter.",
               "Twilight starts early; plan your return journey around 4 PM.",
               "A thermos mug with a hot drink is an ideal companion for the trip."
+            ],
+            "hr": [
+              "Nosite tople zimske cipele jer su kolodvorski peroni često vjetroviti i hladni.",
+              "Koristite aplikaciju Hrvatskih željeznica za informacije u stvarnom vremenu zimi.",
+              "Sumrak počinje rano; planirajte povratak oko 16 sati.",
+              "Termosica s toplim napitkom idealan je suputnik za putovanje."
             ]
           }
         }

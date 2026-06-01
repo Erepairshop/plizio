@@ -31,7 +31,8 @@
             "de": "Probieren Sie ein lokales Gebäck.",
             "hu": "Kóstolja meg a helyi péksüteményeket.",
             "ro": "Încercați o patiserie locală.",
-            "en": "Try a local pastry."
+            "en": "Try a local pastry.",
+            "hr": "Probajte lokalno pecivo."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die schlichte istrianische Architektur.",
             "hu": "Csodálja meg az egyszerű isztriai építészetet.",
             "ro": "Admirați arhitectura simplă istriană.",
-            "en": "Admire the simple Istrian architecture."
+            "en": "Admire the simple Istrian architecture.",
+            "hr": "Divite se jednostavnoj istarskoj arhitekturi."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Eine mittelalterliche Festungsstadt mit toller Aussicht.",
             "hu": "Középkori erődített falu pazar kilátással.",
             "ro": "Un oraș fortificat medieval cu vedere panoramică.",
-            "en": "A medieval fortified town with great views."
+            "en": "A medieval fortified town with great views.",
+            "hr": "Srednjovjekovni utvrđeni gradić s prekrasnim pogledom."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Bestellen Sie Fuži mit Trüffeln.",
             "hu": "Rendeljen szarvasgombás fuzit.",
             "ro": "Comandați fuzi cu trufe.",
-            "en": "Order fuzi with truffles."
+            "en": "Order fuzi with truffles.",
+            "hr": "Naručite fuže s tartufima."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Der Steinbruch bietet eine surreale Landschaft.",
             "hu": "A kőbánya szürreális tájat kínál.",
             "ro": "Cariera de piatră oferă un peisaj ireal.",
-            "en": "The stone quarry offers a surreal landscape."
+            "en": "The stone quarry offers a surreal landscape.",
+            "hr": "Kamenolom nudi nadrealan krajolik."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein ruhiger Ort für Besinnung am späten Nachmittag.",
             "hu": "Csendes hely az elmélyüléshez késő délután.",
             "ro": "Un loc liniștit pentru reflecție după-amiaza.",
-            "en": "A quiet spot for reflection in the late afternoon."
+            "en": "A quiet spot for reflection in the late afternoon.",
+            "hr": "Mirno mjesto za razmišljanje u kasno poslijepodne."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Genießen Sie die sanfte Brise des Hinterlandes.",
             "hu": "Élvezze a hátország lágy szellőjét.",
             "ro": "Bucurați-vă de briza ușoară a interiorului.",
-            "en": "Enjoy the gentle breeze of the hinterland."
+            "en": "Enjoy the gentle breeze of the hinterland.",
+            "hr": "Uživajte u laganom povjetarcu zaleđa."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Beginnen Sie Ihren Tag in Marčana mit einem Kaffee unter Einheimischen, bevor Sie die charmante St.-Antonius-Kirche besuchen. Ein längerer Spaziergang führt Sie zur historischen Siedlung Mutvoran, einem wahren Geheimtipp auf einem Hügel. Nach einem herzhaften Mittagessen erkunden Sie den beeindruckenden Steinbruch Kava Marčana. Den Tag lassen Sie bei der idyllischen Kirche der Maria Magdalena ausklingen, während die Sonne hinter den istrianischen Hügeln versinkt.",
         "hu": "Kezdje a napot Marčanában egy kávéval a helyiek körében, majd látogasson el a Szent Antal templomhoz. Egy hosszabb séta a dombtetőn fekvő, történelmi Mutvoranba vezet, amely igazi rejtett kincs. Egy bőséges ebéd után fedezze fel a Kava Marčana kőbánya lenyűgöző ipari táját. A napot a Mária Magdolna templomnál zárja, miközben a nap lassan eltűnik az isztriai dombok mögött.",
         "ro": "Începeți ziua în Marčana cu o cafea printre localnici, înainte de a vizita biserica Sfântul Anton. O plimbare mai lungă vă va duce la așezarea istorică Mutvoran, o adevărată bijuterie ascunsă pe un deal. După un prânz copios, explorați peisajul impresionant al carierei Kava Marčana. Încheiați ziua la idilica biserică Maria Magdalena, în timp ce soarele apune peste dealurile istriene.",
-        "en": "Start your day in Marčana with a coffee among locals before visiting the charming St. Anthony's Church. A longer walk leads you to the historic settlement of Mutvoran, a true hidden gem on a hill. After a hearty lunch, explore the impressive landscape of the Kava Marčana quarry. End your day at the idyllic St. Mary Magdalene Church as the sun sets behind the Istrian hills."
+        "en": "Start your day in Marčana with a coffee among locals before visiting the charming St. Anthony's Church. A longer walk leads you to the historic settlement of Mutvoran, a true hidden gem on a hill. After a hearty lunch, explore the impressive landscape of the Kava Marčana quarry. End your day at the idyllic St. Mary Magdalene Church as the sun sets behind the Istrian hills.",
+        "hr": "Započnite dan u Marčani kavom s mještanima prije posjeta šarmantnoj crkvi sv. Antuna. Dulja šetnja vodi vas do povijesnog naselja Mutvoran, pravog skrivenog dragulja na brežuljku. Nakon krepkog ručka, istražite impresivan krajolik kamenoloma Kava Marčana. Završite dan kod idilične crkve sv. Marije Magdalene dok sunce zalazi iza istarskih brežuljaka."
       },
       "gastro_picks": {
         "de": [
@@ -172,6 +180,12 @@
           {
             "name": "Istrian Ham",
             "tip": "Homemade pršut in a local konoba."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Istarski pršut",
+            "tip": "Domaći pršut u lokalnoj konobi."
           }
         ]
       },
@@ -203,6 +217,13 @@
             "tip": "Silence and views over green Istria.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Zidine Mutvorana",
+            "tip": "Tišina i pogled na zelenu Istru.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -229,6 +250,12 @@
             "name": "Local Olive Oil",
             "tip": "Buy directly from the producer in Marčana."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno maslinovo ulje",
+            "tip": "Kupite izravno od proizvođača u Marčani."
+          }
         ]
       },
       "tips": {
@@ -247,6 +274,10 @@
         "en": [
           "Wear sturdy walking shoes for the path to the quarry.",
           "Take enough water for the hike to Mutvoran."
+        ],
+        "hr": [
+          "Nosite čvrstu obuću za hodanje stazom do kamenoloma.",
+          "Ponesite dovoljno vode za pješačenje do Mutvorana."
         ]
       },
       "variants": {
@@ -255,7 +286,8 @@
             "de": "Ein regnerischer Morgen in Marčana beginnt am besten mit einem ausgedehnten Kaffee im trockenen Zentrum. Die historischen Kirchen bieten danach ideale, regengeschützte Rückzugsorte für Kulturinteressierte.\n\nMittags führt der Weg nach Mutvoran, wo eine gemütliche Konoba mit wärmenden istrischen Spezialitäten aufwartet. Der Regen verleiht der alten Festung eine mystische Atmosphäre.\n\nAm Nachmittag erkunden wir die Architektur unter dem Schutz eines Regenschirms, wobei die Steinfassaden im nassen Glanz erstrahlen. Ein kurzer Besuch bei Maria Magdalena rundet das Kulturprogramm ab.\n\nDer Tag endet mit einem kurzen Spaziergang in der frischen, regengetränkten Luft, bevor wir uns ins Trockene zurückziehen.",
             "hu": "Egy esős reggel Marčanában a legjobb egy hosszú kávéval a száraz központban. A történelmi templomok ideális, esővédett menedéket nyújtanak a kultúra kedvelőinek.\n\nDélben az út Mutvoranba vezet, ahol egy barátságos konoba vár melengető isztriai specialitásokkal. Az eső misztikus hangulatot kölcsönöz a régi erődnek.\n\nDélután esernyő alatt fedezzük fel az építészetet, miközben a kőhomlokzatok nedvesen csillognak. Egy rövid látogatás Mária Magdolnánál teszi teljessé a kulturális programot.\n\nA nap egy rövid sétával zárul a friss, esőáztatta levegőn, mielőtt visszahúzódnánk a szállásunkra.",
             "ro": "O dimineață ploioasă în Marčana începe cel mai bine cu o cafea prelungită în centrul uscat. Bisericile istorice oferă apoi refugii ideale, protejate de ploaie, pentru iubitorii de cultură.\n\nLa prânz, drumul duce la Mutvoran, unde o konoba primitoare așteaptă cu specialități istriene care încălzesc sufletul. Ploaia conferă vechii cetăți o atmosferă mistică.\n\nDupă-amiaza explorăm arhitectura sub protecția unei umbrele, în timp ce fațadele de piatră strălucesc sub ploaie. O scurtă vizită la Maria Magdalena completează programul cultural.\n\nZiua se încheie cu o scurtă plimbare în aerul proaspăt de după ploaie, înainte de a ne retrage la căldură.",
-            "en": "A rainy morning in Marčana is best started with an extended coffee in the dry center. The historic churches then provide ideal, rain-protected sanctuaries for those interested in culture.\n\nAt noon, the path leads to Mutvoran, where a cozy konoba awaits with warming Istrian specialties. The rain gives the old fortress a mystical atmosphere.\n\nIn the afternoon, we explore the architecture under the protection of an umbrella, while the stone facades shine in the wet light. A short visit to Mary Magdalene rounds off the cultural program.\n\nThe day ends with a short walk in the fresh, rain-soaked air before retreating into the dry."
+            "en": "A rainy morning in Marčana is best started with an extended coffee in the dry center. The historic churches then provide ideal, rain-protected sanctuaries for those interested in culture.\n\nAt noon, the path leads to Mutvoran, where a cozy konoba awaits with warming Istrian specialties. The rain gives the old fortress a mystical atmosphere.\n\nIn the afternoon, we explore the architecture under the protection of an umbrella, while the stone facades shine in the wet light. A short visit to Mary Magdalene rounds off the cultural program.\n\nThe day ends with a short walk in the fresh, rain-soaked air before retreating into the dry.",
+            "hr": "Kišno jutro u Marčani najbolje je započeti produljenom kavom u suhom centru. Povijesne crkve tada pružaju idealna utočišta zaštićena od kiše za one koje zanima kultura.\n\nU podne put vodi do Mutvorana, gdje vas čeka ugodna konoba s toplim istarskim specijalitetima. Kiša staroj utvrdi daje mističnu atmosferu.\n\nPoslijepodne istražujemo arhitekturu pod zaštitom kišobrana, dok kamena pročelja sjaje na vlažnom svjetlu. Kratki posjet Mariji Magdaleni zaokružuje kulturni program.\n\nDan završava kratkom šetnjom na svježem, kišom natopljenom zraku prije povlačenja na suho."
           },
           "stops": [
             {
@@ -264,7 +296,8 @@
                 "de": "Genießen Sie die Zeit im Innenbereich, während der erste Schauer vorüberzieht.",
                 "hu": "Élvezze az időt bent, amíg az első zápor elvonul.",
                 "ro": "Bucurați-vă de timpul în interior în timp ce trece prima ploaie.",
-                "en": "Enjoy your time indoors while the first shower passes by."
+                "en": "Enjoy your time indoors while the first shower passes by.",
+                "hr": "Uživajte u zatvorenom dok prolazi prvi pljusak."
               }
             },
             {
@@ -273,7 +306,8 @@
                 "de": "Nutzen Sie den Kirchenraum für eine ruhige Besichtigung im Trockenen.",
                 "hu": "Használja ki a templomteret egy nyugodt, száraz városnézésre.",
                 "ro": "Folosiți interiorul bisericii pentru o vizită liniștită la adăpost.",
-                "en": "Use the church interior for a quiet visit in the dry."
+                "en": "Use the church interior for a quiet visit in the dry.",
+                "hr": "Iskoristite unutrašnjost crkve za miran posjet na suhom."
               }
             },
             {
@@ -282,7 +316,8 @@
                 "de": "Die dicken Mauern bieten guten Schutz vor Wind und Wetter.",
                 "hu": "A vastag falak jó védelmet nyújtanak a szél és az időjárás ellen.",
                 "ro": "Zidurile groase oferă o protecție bună împotriva vântului și a vremii.",
-                "en": "The thick walls provide good protection from wind and weather."
+                "en": "The thick walls provide good protection from wind and weather.",
+                "hr": "Debeli zidovi pružaju dobru zaštitu od vjetra i nevremena."
               }
             },
             {
@@ -291,7 +326,8 @@
                 "de": "Perfekter Ort, um die Kleidung zu trocknen und sich aufzuwärmen.",
                 "hu": "Tökéletes hely a ruhák megszárítására és a felmelegedésre.",
                 "ro": "Locul perfect pentru a usca hainele și a vă încălzi.",
-                "en": "Perfect place to dry your clothes and warm up."
+                "en": "Perfect place to dry your clothes and warm up.",
+                "hr": "Savršeno mjesto za sušenje odjeće i zagrijavanje."
               }
             },
             {
@@ -300,7 +336,8 @@
                 "de": "Bei starkem Regen nur kurz besichtigen, da wenig Unterstand vorhanden ist.",
                 "hu": "Heves esőben csak rövid ideig látogassa, mert kevés a fedett hely.",
                 "ro": "Vizitați doar scurt în caz de ploaie torențială, deoarece există puține adăposturi.",
-                "en": "Visit only briefly during heavy rain as there is little shelter."
+                "en": "Visit only briefly during heavy rain as there is little shelter.",
+                "hr": "Posjetite samo nakratko tijekom jake kiše jer ima malo zaklona."
               }
             },
             {
@@ -309,7 +346,8 @@
                 "de": "Ein weiterer trockener Stopp mit schöner sakraler Kunst.",
                 "hu": "Egy újabb száraz megálló szép szakrális művészettel.",
                 "ro": "O altă oprire uscată, cu artă sacră frumoasă.",
-                "en": "Another dry stop with beautiful sacred art."
+                "en": "Another dry stop with beautiful sacred art.",
+                "hr": "Još jedna suha stanica s lijepom sakralnom umjetnošću."
               }
             },
             {
@@ -318,7 +356,8 @@
                 "de": "Vorsicht auf dem nassen Kopfsteinpflaster, es kann rutschig sein.",
                 "hu": "Vigyázat a nedves macskaköveken, csúszósak lehetnek.",
                 "ro": "Atenție pe pavajul umed, poate fi alunecos.",
-                "en": "Watch out on the wet cobblestones, they can be slippery."
+                "en": "Watch out on the wet cobblestones, they can be slippery.",
+                "hr": "Pazite na mokrom popločanju, može biti sklisko."
               }
             }
           ],
@@ -346,6 +385,12 @@
               "A sturdy umbrella is essential with the coastal winds.",
               "Istrian churches are often accessible and dry even in the rain.",
               "Plan longer breaks in the konobas to wait out the showers."
+            ],
+            "hr": [
+              "Nosite nepromočivu obuću za neasfaltirane staze u Mutvoranu.",
+              "Čvrst kišobran je neophodan zbog obalnih vjetrova.",
+              "Istarske crkve su često pristupačne i suhe čak i po kiši.",
+              "Planirajte duže pauze u konobama kako biste pričekali da pljuskovi prođu."
             ]
           }
         },
@@ -354,7 +399,8 @@
             "de": "Der Wintermorgen in Marčana ist frisch und klar. Ein heißer Kaffee im Ortskern weckt die Lebensgeister, bevor die kühle Brise bei der Besichtigung von St. Antonius spürbar wird.\n\nDie Wanderung nach Mutvoran ist bei den milden istrischen Wintertemperaturen angenehm. Die Fernsicht über die kahle, aber strukturierte Landschaft ist in dieser Jahreszeit besonders weit.\n\nMittags genießen wir die deftige Winterküche Istriens, wie Jota oder hausgemachte Fuži, die in der Konoba am Kamin serviert werden.\n\nDa die Sonne früh untergeht, nutzen wir das goldene Licht des Nachmittags für die letzten Stopps, bevor wir den Tag gemütlich bei einem Glas Teran abschließen.",
             "hu": "A téli reggel Marčanában friss és tiszta. Egy forró kávé a faluközpontban felébreszti az életkedvet, mielőtt a hűvös szellő érezhetővé válna Szent Antal templománál.\n\nA mutvorani túra kellemes az enyhe isztriai téli hőmérsékletben. A kilátás a kopár, de látványos tájra ilyenkor különösen messzire nyúlik.\n\nDélben élvezzük Isztria tartalmas téli konyháját, mint a Jota vagy a házi fuži, melyet a konobában a kandalló mellett tálalnak.\n\nMivel a nap korán nyugszik, kihasználjuk a délutáni aranyfényeket az utolsó megállókhoz, mielőtt a napot egy pohár Teran bor mellett zárnánk.",
             "ro": "Dimineața de iarnă în Marčana este proaspătă și senină. O cafea fierbinte în centrul satului trezește simțurile înainte ca briza răcoroasă să se facă simțită la Sfântul Anton.\n\nDrumeția spre Mutvoran este plăcută la temperaturile blânde de iarnă din Istria. Vizibilitatea peste peisajul golaș, dar structurat, este deosebit de bună în acest sezon.\n\nLa prânz ne bucurăm de bucătăria consistentă de iarnă a Istriei, precum Jota sau fuži de casă, servite lângă șemineul din konoba.\n\nDeoarece soarele apune devreme, profităm de lumina aurie a după-amiezii pentru ultimele opriri, înainte de a încheia ziua confortabil cu un pahar de vin Teran.",
-            "en": "The winter morning in Marčana is fresh and clear. A hot coffee in the village center awakens the spirits before the cool breeze is felt during the visit to St. Anthony.\n\nThe hike to Mutvoran is pleasant in the mild Istrian winter temperatures. The distant view over the bare but structured landscape is particularly far at this time of year.\n\nAt noon, we enjoy Istria's hearty winter cuisine, such as Jota or homemade fuži, served by the fireplace in the konoba.\n\nSince the sun sets early, we use the golden afternoon light for the last stops before concluding the day comfortably with a glass of Teran wine."
+            "en": "The winter morning in Marčana is fresh and clear. A hot coffee in the village center awakens the spirits before the cool breeze is felt during the visit to St. Anthony.\n\nThe hike to Mutvoran is pleasant in the mild Istrian winter temperatures. The distant view over the bare but structured landscape is particularly far at this time of year.\n\nAt noon, we enjoy Istria's hearty winter cuisine, such as Jota or homemade fuži, served by the fireplace in the konoba.\n\nSince the sun sets early, we use the golden afternoon light for the last stops before concluding the day comfortably with a glass of Teran wine.",
+            "hr": "Zimsko jutro u Marčani je svježe i vedro. Topla kava u centru mjesta budi duhove prije nego što se osjeti hladan povjetarac tijekom posjeta sv. Antunu.\n\nPješačenje do Mutvorana ugodno je na blagim istarskim zimskim temperaturama. Pogled u daljinu preko ogoljenog, ali strukturiranog krajolika posebno je dalek u ovo doba godine.\n\nU podne uživamo u krepkoj istarskoj zimskoj kuhinji, poput jote ili domaćih fuža, posluženih uz ognjište u konobi.\n\nBudući da sunce rano zalazi, koristimo zlatno poslijepodnevno svjetlo za posljednje stanice prije nego što ugodno završimo dan uz čašu terana."
           },
           "stops": [
             {
@@ -363,7 +409,8 @@
                 "de": "Wärmen Sie sich gut auf, bevor Sie die Wanderung starten.",
                 "hu": "Melegedjen fel jól, mielőtt elkezdi a túrát.",
                 "ro": "Încălziți-vă bine înainte de a începe drumeția.",
-                "en": "Warm up well before you start the hike."
+                "en": "Warm up well before you start the hike.",
+                "hr": "Dobro se zagrijte prije nego što krenete u šetnju."
               }
             },
             {
@@ -372,7 +419,8 @@
                 "de": "In der Kirche ist es oft kühler als draußen, behalten Sie die Jacke an.",
                 "hu": "A templomban gyakran hűvösebb van, mint kint, hagyja magán a kabátot.",
                 "ro": "În biserică este adesea mai frig decât afară, păstrați jacheta pe dvs.",
-                "en": "It's often cooler inside the church than outside, keep your jacket on."
+                "en": "It's often cooler inside the church than outside, keep your jacket on.",
+                "hr": "Unutar crkve je često hladnije nego vani, ostavite jaknu na sebi."
               }
             },
             {
@@ -381,7 +429,8 @@
                 "de": "Genießen Sie die klare Winterluft und den weiten Blick.",
                 "hu": "Élvezze a tiszta téli levegőt és a messzi kilátást.",
                 "ro": "Bucurați-vă de aerul limpede de iarnă și de priveliștea largă.",
-                "en": "Enjoy the clear winter air and the wide view."
+                "en": "Enjoy the clear winter air and the wide view.",
+                "hr": "Uživajte u čistom zimskom zraku i širokom pogledu."
               }
             },
             {
@@ -390,7 +439,8 @@
                 "de": "Fragen Sie nach einem Platz in der Nähe des Kamins.",
                 "hu": "Kérjen helyet a kandalló közelében.",
                 "ro": "Cereți un loc lângă șemineu.",
-                "en": "Ask for a seat near the fireplace."
+                "en": "Ask for a seat near the fireplace.",
+                "hr": "Zatražite mjesto blizu kamina."
               }
             },
             {
@@ -399,7 +449,8 @@
                 "de": "Das tiefstehende Sonnenlicht bietet hier tolle Fotomotive.",
                 "hu": "Az alacsonyan járó napfény remek fotótémákat kínál itt.",
                 "ro": "Lumina soarelui la apus oferă oportunități foto grozave aici.",
-                "en": "The low-standing sunlight offers great photo opportunities here."
+                "en": "The low-standing sunlight offers great photo opportunities here.",
+                "hr": "Nisko sunčevo svjetlo ovdje nudi sjajne prilike za fotografiranje."
               }
             },
             {
@@ -408,7 +459,8 @@
                 "de": "Besuchen Sie die Kirche, bevor es dämmert.",
                 "hu": "Látogassa meg a templomot, mielőtt bealkonyodik.",
                 "ro": "Vizitați biserica înainte de lăsarea serii.",
-                "en": "Visit the church before dusk falls."
+                "en": "Visit the church before dusk falls.",
+                "hr": "Posjetite crkvu prije nego što padne sumrak."
               }
             },
             {
@@ -417,7 +469,8 @@
                 "de": "Die Temperaturen fallen nach Sonnenuntergang (ca. 16:45 Uhr) schnell.",
                 "hu": "A hőmérséklet gyorsan esik naplemente után (kb. 16:45).",
                 "ro": "Temperaturile scad rapid după apusul soarelui (aprox. 16:45).",
-                "en": "Temperatures drop quickly after sunset (approx. 4:45 PM)."
+                "en": "Temperatures drop quickly after sunset (approx. 4:45 PM).",
+                "hr": "Temperature brzo padaju nakon zalaska sunca (oko 16:45)."
               }
             }
           ],
@@ -445,6 +498,12 @@
               "The sun sets as early as 4:30 PM in December.",
               "Many konobas have cozy wood fires in winter.",
               "Take a thermos with a hot drink with you."
+            ],
+            "hr": [
+              "Slojevita odjeća je preporučljiva zbog vjetra.",
+              "Sunce zalazi već oko 16:30 u prosincu.",
+              "Mnoge konobe zimi imaju ugodnu vatru u kaminu.",
+              "Ponesite termosicu s toplim napitkom."
             ]
           }
         }
@@ -473,7 +532,8 @@
             "de": "Ein Espresso für den Energiekick.",
             "hu": "Egy eszpresszó a napindításhoz.",
             "ro": "Un espresso pentru energie.",
-            "en": "An espresso for an energy boost."
+            "en": "An espresso for an energy boost.",
+            "hr": "Espresso za energetski poticaj."
           }
         },
         {
@@ -491,7 +551,8 @@
             "de": "Kurzer Stopp im Ortskern.",
             "hu": "Rövid megálló a falu központjában.",
             "ro": "Scurtă oprire în centrul satului.",
-            "en": "Short stop in the village center."
+            "en": "Short stop in the village center.",
+            "hr": "Kratko zaustavljanje u centru mjesta."
           }
         },
         {
@@ -509,7 +570,8 @@
             "de": "Der Anstieg lohnt sich für das Panorama.",
             "hu": "Az emelkedő megéri a panorámáért.",
             "ro": "Urcarea merită pentru panoramă.",
-            "en": "The climb is worth it for the panorama."
+            "en": "The climb is worth it for the panorama.",
+            "hr": "Uspon se isplati zbog panorame."
           }
         },
         {
@@ -527,7 +589,8 @@
             "de": "Holen Sie sich davor lokale Salami.",
             "hu": "Vásároljon előtte helyi szalámit.",
             "ro": "Cumpărați salam local înainte.",
-            "en": "Buy local salami beforehand."
+            "en": "Buy local salami beforehand.",
+            "hr": "Prethodno kupite lokalnu salamu."
           }
         },
         {
@@ -545,7 +608,8 @@
             "de": "Vorsicht auf den Schotterwegen.",
             "hu": "Vigyázzon a kavicsos utakon.",
             "ro": "Atenție pe drumurile cu pietriș.",
-            "en": "Be careful on the gravel paths."
+            "en": "Be careful on the gravel paths.",
+            "hr": "Budite oprezni na makadamskim stazama."
           }
         },
         {
@@ -563,7 +627,8 @@
             "de": "Eine Oase der Ruhe.",
             "hu": "A nyugalom oázisa.",
             "ro": "O oază de liniște.",
-            "en": "An oasis of calm."
+            "en": "An oasis of calm.",
+            "hr": "Oaza mira."
           }
         },
         {
@@ -581,7 +646,8 @@
             "de": "Die perfekte Belohnung nach der Tour.",
             "hu": "Tökéletes jutalom a túra után.",
             "ro": "Recompensa perfectă după tur.",
-            "en": "The perfect reward after the tour."
+            "en": "The perfect reward after the tour.",
+            "hr": "Savršena nagrada nakon ture."
           }
         }
       ],
@@ -589,7 +655,8 @@
         "de": "Erkunden Sie die sanften Hügel rund um Marčana mit dem Fahrrad. Von der St.-Antonius-Kirche radeln Sie hinauf zum mittelalterlichen Mutvoran, wo Sie eine Zeitreise erwartet. Nach einem entspannten Picknick geht es weiter zum monumentalen Steinbruch Kava Marčana, dessen weiße Felsen einen starken Kontrast zum Grün bilden. Der Rückweg führt über die Kirche der Maria Magdalene zurück ins Dorfzentrum für ein wohlverdientes Eis.",
         "hu": "Fedezze fel Marčana környékének szelíd dombjait kerékpárral. A Szent Antal templomtól tekerjen fel a középkori Mutvoranba, ahol időutazás várja. Egy pihentető piknik után folytassa útját a monumentális Kava Marčana kőbányához, melynek fehér sziklái éles kontrasztban állnak a táj zöldjével. A visszaút a Mária Magdolna templomon keresztül vezet a falu központjába egy jól megérdemelt fagyira.",
         "ro": "Explorați dealurile blânde din jurul Marčanei cu bicicleta. De la biserica Sfântul Anton, pedalați până la Mutvoranul medieval, unde vă așteaptă o călătorie în timp. După un picnic relaxant, continuați spre monumentala carieră Kava Marčana, ale cărei stânci albe creează un contrast puternic cu verdele peisajului. Drumul de întoarcere trece pe la biserica Maria Magdalena spre centrul satului pentru o înghețată binemeritată.",
-        "en": "Explore the gentle hills around Marčana by bike. From St. Anthony's Church, cycle up to medieval Mutvoran, where a journey back in time awaits. After a relaxing picnic, continue to the monumental Kava Marčana quarry, whose white rocks provide a sharp contrast to the greenery. The return path leads past St. Mary Magdalene's Church back to the village center for a well-deserved ice cream."
+        "en": "Explore the gentle hills around Marčana by bike. From St. Anthony's Church, cycle up to medieval Mutvoran, where a journey back in time awaits. After a relaxing picnic, continue to the monumental Kava Marčana quarry, whose white rocks provide a sharp contrast to the greenery. The return path leads past St. Mary Magdalene's Church back to the village center for a well-deserved ice cream.",
+        "hr": "Istražite pitome brežuljke oko Marčane biciklom. Od crkve sv. Antuna odvezite se do srednjovjekovnog Mutvorana, gdje vas čeka putovanje kroz vrijeme. Nakon opuštajućeg piknika, nastavite do monumentalnog kamenoloma Kava Marčana, čije bijele stijene pružaju oštar kontrast zelenilu. Povratni put vodi pored crkve sv. Marije Magdalene natrag u centar mjesta na zasluženi sladoled."
       },
       "gastro_picks": {
         "de": [
@@ -614,6 +681,12 @@
           {
             "name": "Local Honey",
             "tip": "Energy boost for cyclists directly from the beekeeper."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni med",
+            "tip": "Energetski poticaj za bicikliste izravno od pčelara."
           }
         ]
       },
@@ -645,6 +718,13 @@
             "tip": "Birdsong and shade under old trees.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Crkveni vrt u Marčani",
+            "tip": "Pjev ptica i hlad pod starim drvećem.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -671,6 +751,12 @@
             "name": "Insulated Water Bottle",
             "tip": "Essential for the sunny country roads."
           }
+        ],
+        "hr": [
+          {
+            "name": "Termos boca",
+            "tip": "Neophodna za sunčane seoske ceste."
+          }
         ]
       },
       "tips": {
@@ -689,6 +775,10 @@
         "en": [
           "Check your brakes before the descent from Mutvoran.",
           "The roads have little traffic but are narrow."
+        ],
+        "hr": [
+          "Provjerite kočnice prije spusta iz Mutvorana.",
+          "Ceste imaju malo prometa, ali su uske."
         ]
       },
       "variants": {
@@ -697,7 +787,8 @@
             "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung. Nach dem Startkaffee in Marčana geht es vorsichtig auf den glatten Wegen zur ersten Kirche. Der Fokus liegt auf der Sicherheit und kurzen Etappen.\n\nMutvoran erreichen wir durch den istrischen Sprühregen, der die Landschaft in ein sattes Grün taucht. Das Mittagessen bietet die nötige Pause zum Aufwärmen.\n\nAm Nachmittag verkürzen wir die Aufenthalte im Freien und konzentrieren uns auf die kulturellen Highlights im Ort, bevor die Reifen auf nassem Asphalt den Heimweg antreten.\n\nZum Abschluss gibt es ein verdientes Heißgetränk, während das Fahrrad sicher und trocken abgestellt wird.",
             "hu": "Egy esős kerékpártúra megfelelő felszerelést igényel. A marčanai kezdő kávé után óvatosan haladunk a csúszós utakon az első templomig. A biztonságon és a rövid szakaszokon van a hangsúly.\n\nMutvorant az isztriai szemerkélő esőben érjük el, ami mélyzöldbe öltözteti a tájat. Az ebéd biztosítja a szükséges szünetet a felmelegedéshez.\n\nDélután lerövidítjük a szabadban töltött időt, és a falu kulturális látnivalóira koncentrálunk, mielőtt a nedves aszfalton hazaindulnánk.\n\nA végén egy megérdemelt forró ital vár, miközben a biciklit biztonságos, száraz helyre tesszük.",
             "ro": "O tură cu bicicleta pe ploaie necesită echipamentul potrivit. După cafeaua de start din Marčana, mergem cu atenție pe drumurile alunecoase spre prima biserică. Accentul este pe siguranță și etape scurte.\n\nAjungem la Mutvoran prin burnița istriană care scaldă peisajul într-un verde crud. Prânzul oferă pauza necesară pentru încălzire.\n\nDupă-amiaza scurtăm șederile în aer liber și ne concentrăm pe punctele culturale din sat, înainte ca roțile să pornească spre casă pe asfaltul umed.\n\nLa final, ne bucurăm de o băutură caldă meritată, în timp ce bicicleta este parcată în siguranță și la uscat.",
-            "en": "A bike tour in the rain requires the right equipment. After the starting coffee in Marčana, we head carefully on the slippery paths to the first church. The focus is on safety and short stages.\n\nWe reach Mutvoran through the Istrian drizzle, which bathes the landscape in a lush green. Lunch provides the necessary break to warm up.\n\nIn the afternoon, we shorten the time spent outdoors and focus on the cultural highlights in the village before the tires hit the wet asphalt for the ride home.\n\nThe day concludes with a well-deserved hot drink while the bike is parked safely and dry."
+            "en": "A bike tour in the rain requires the right equipment. After the starting coffee in Marčana, we head carefully on the slippery paths to the first church. The focus is on safety and short stages.\n\nWe reach Mutvoran through the Istrian drizzle, which bathes the landscape in a lush green. Lunch provides the necessary break to warm up.\n\nIn the afternoon, we shorten the time spent outdoors and focus on the cultural highlights in the village before the tires hit the wet asphalt for the ride home.\n\nThe day concludes with a well-deserved hot drink while the bike is parked safely and dry.",
+            "hr": "Biciklistička tura po kiši zahtijeva pravu opremu. Nakon početne kave u Marčani, oprezno krećemo skliskim stazama do prve crkve. Fokus je na sigurnosti i kratkim etapama.\n\nDo Mutvorana stižemo kroz istarsku rosulju koja krajolik kupa u bujnom zelenilu. Ručak pruža potrebnu pauzu za zagrijavanje.\n\nPoslijepodne skraćujemo vrijeme provedeno na otvorenom i fokusiramo se na kulturne znamenitosti u mjestu prije nego što gume udare o mokri asfalt za put kući.\n\nDan završava zasluženim toplim napitkom dok je bicikl parkiran na sigurnom i suhom."
           },
           "stops": [
             {
@@ -706,7 +797,8 @@
                 "de": "Nutzen Sie die Zeit, um die Regenkleidung optimal zu richten.",
                 "hu": "Használja ki az időt az esőruházat optimális beállítására.",
                 "ro": "Folosiți timpul pentru a vă ajusta optim echipamentul de ploaie.",
-                "en": "Use the time to adjust your rain gear optimally."
+                "en": "Use the time to adjust your rain gear optimally.",
+                "hr": "Iskoristite vrijeme za optimalno podešavanje kišne opreme."
               }
             },
             {
@@ -715,7 +807,8 @@
                 "de": "Vorsicht beim Absteigen, die Pedale können rutschig sein.",
                 "hu": "Vigyázat a leszálláskor, a pedálok csúszósak lehetnek.",
                 "ro": "Atenție la coborâre, pedalele pot fi alunecoase.",
-                "en": "Be careful when dismounting, the pedals can be slippery."
+                "en": "Be careful when dismounting, the pedals can be slippery.",
+                "hr": "Budite oprezni pri silaženju, pedale mogu biti skliske."
               }
             },
             {
@@ -724,7 +817,8 @@
                 "de": "Die Auffahrt erfordert bei Nässe gute Reifenhaftung.",
                 "hu": "A feljutás nedves időben jó gumitapadást igényel.",
                 "ro": "Urcarea necesită o aderență bună a anvelopelor pe carosabil umed.",
-                "en": "The climb requires good tire grip in wet conditions."
+                "en": "The climb requires good tire grip in wet conditions.",
+                "hr": "Uspon zahtijeva dobro prianjanje guma u mokrim uvjetima."
               }
             },
             {
@@ -733,7 +827,8 @@
                 "de": "Wetterfeste Sitzunterlage nutzen oder in eine nahe Laube ausweichen.",
                 "hu": "Használjon vízálló ülőalátétet, vagy húzódjon egy közeli lugasba.",
                 "ro": "Folosiți un suport de șezut impermeabil sau mutați-vă sub un foișor din apropiere.",
-                "en": "Use a waterproof seat pad or move to a nearby arbor."
+                "en": "Use a waterproof seat pad or move to a nearby arbor.",
+                "hr": "Koristite vodootpornu navlaku za sjedalo ili se sklonite u obližnju sjenicu."
               }
             },
             {
@@ -742,7 +837,8 @@
                 "de": "Kurzer Fotostopp reicht bei Regen völlig aus.",
                 "hu": "Esőben egy rövid fotómegálló is bőven elég.",
                 "ro": "O scurtă oprire pentru fotografii este suficientă pe ploaie.",
-                "en": "A short photo stop is plenty in the rain."
+                "en": "A short photo stop is plenty in the rain.",
+                "hr": "Kratko zaustavljanje za fotografiranje sasvim je dovoljno po kiši."
               }
             },
             {
@@ -751,7 +847,8 @@
                 "de": "Parken Sie das Rad im Windschatten der Kirche.",
                 "hu": "Parkolja a biciklit a templom szélvédett oldalán.",
                 "ro": "Parcați bicicleta la adăpostul vântului lângă biserică.",
-                "en": "Park the bike in the lee of the church."
+                "en": "Park the bike in the lee of the church.",
+                "hr": "Parkirajte bicikl u zavjetrini crkve."
               }
             },
             {
@@ -760,7 +857,8 @@
                 "de": "Tauschen Sie das Eis gegen einen heißen Espresso aus.",
                 "hu": "Cserélje a fagyit egy forró eszpresszóra.",
                 "ro": "Înlocuiți înghețata cu un espresso fierbinte.",
-                "en": "Swap the gelato for a hot espresso."
+                "en": "Swap the gelato for a hot espresso.",
+                "hr": "Zamijenite sladoled toplim espressom."
               }
             }
           ],
@@ -788,6 +886,12 @@
               "Avoid abrupt braking maneuvers on wet asphalt.",
               "Wear bright, reflective rain gear.",
               "Check the tire pressure beforehand for better grip."
+            ],
+            "hr": [
+              "Blatobrani na biciklu spriječit će najgore.",
+              "Izbjegavajte naglo kočenje na mokrom asfaltu.",
+              "Nosite svijetlu, reflektirajuću kišnu opremu.",
+              "Prethodno provjerite tlak u gumama za bolje prianjanje."
             ]
           }
         },
@@ -796,7 +900,8 @@
             "de": "Winter-Biking in Marčana bedeutet klare Luft und freie Straßen. Nach einem wärmenden Espresso geht es los, die Muskeln kommen bei der kühlen Brise schnell auf Betriebstemperatur.\n\nDie Strecke nach Mutvoran ist landschaftlich reizvoll, auch wenn die Vegetation ruht. Der Anstieg wärmt den Körper angenehm auf, oben angekommen entschädigt die Fernsicht.\n\nDas Mittagessen wird heute zur wichtigen Wärmestation. In der Konoba tanken wir Energie für die Rückfahrt durch das hügelige Hinterland.\n\nWir beenden die Tour zeitig vor Sonnenuntergang, wenn die Schatten länger werden und die Temperaturen spürbar sinken.",
             "hu": "A téli bringázás Marčanában tiszta levegőt és üres utakat jelent. Egy melegítő eszpresszó után indulunk, az izmok a hűvös szélben gyorsan üzemi hőmérsékletre melegednek.\n\nA Mutvoran felé vezető szakasz tájilag lenyűgöző, még ha a növényzet alszik is. Az emelkedő kellemesen bemelegíti a testet, felérve pedig a kilátás kárpótol.\n\nAz ebéd ma fontos állomás a felmelegedéshez. A konobában energiát gyűjtünk a dombos háttérországon átvezető úthoz.\n\nA túrát időben, naplemente előtt befejezzük, amikor az árnyékok megnyúlnak és a hőmérséklet érezhetően csökken.",
             "ro": "Ciclismul de iarnă în Marčana înseamnă aer curat și drumuri libere. Pornim după un espresso revigorant, iar mușchii ajung rapid la temperatura optimă în briza răcoroasă.\n\nTraseul spre Mutvoran este pitoresc, chiar dacă vegetația este în repaus. Urcarea încălzește corpul în mod plăcut, iar priveliștea de sus merită efortul.\n\nPrânzul devine astăzi o stație importantă de încălzire. În konoba ne reîncărcăm cu energie pentru drumul de întoarcere prin hinterlandul deluros.\n\nÎncheiem tura devreme, înainte de apusul soarelui, când umbrele se lungesc și temperaturile scad simțitor.",
-            "en": "Winter biking in Marčana means clear air and empty roads. After a warming espresso, we set off; muscles quickly reach operating temperature in the cool breeze.\n\nThe route to Mutvoran is scenic even while the vegetation is dormant. The climb warms the body pleasantly, and once at the top, the distant view compensates for the effort.\n\nLunch becomes an important warming station today. In the konoba, we recharge for the return trip through the hilly hinterland.\n\nWe end the tour well before sunset, when shadows grow longer and temperatures drop noticeably."
+            "en": "Winter biking in Marčana means clear air and empty roads. After a warming espresso, we set off; muscles quickly reach operating temperature in the cool breeze.\n\nThe route to Mutvoran is scenic even while the vegetation is dormant. The climb warms the body pleasantly, and once at the top, the distant view compensates for the effort.\n\nLunch becomes an important warming station today. In the konoba, we recharge for the return trip through the hilly hinterland.\n\nWe end the tour well before sunset, when shadows grow longer and temperatures drop noticeably.",
+            "hr": "Zimsko bicikliranje u Marčani znači čist zrak i prazne ceste. Nakon zagrijavanja espressom krećemo; mišići brzo postižu radnu temperaturu na hladnom povjetarcu.\n\nRuta do Mutvorana je slikovita čak i dok vegetacija miruje. Uspon ugodno zagrijava tijelo, a kad ste na vrhu, pogled u daljinu kompenzira trud.\n\nRučak danas postaje važna postaja za zagrijavanje. U konobi skupljamo snagu za povratak kroz brdovito zaleđe.\n\nTuru završavamo znatno prije zalaska sunca, kada sjene postaju duže, a temperature primjetno padaju."
           },
           "stops": [
             {
@@ -805,7 +910,8 @@
                 "de": "Trinken Sie etwas Heißes, um die Kerntemperatur zu erhöhen.",
                 "hu": "Igyon valami forrót a belső hőmérséklet növeléséhez.",
                 "ro": "Beți ceva fierbinte pentru a crește temperatura corpului.",
-                "en": "Drink something hot to raise your core temperature."
+                "en": "Drink something hot to raise your core temperature.",
+                "hr": "Popijte nešto toplo kako biste podigli tjelesnu temperaturu."
               }
             },
             {
@@ -814,7 +920,8 @@
                 "de": "Kurze Pause einlegen, um nicht auszukühlen.",
                 "hu": "Tartson rövid szünetet, hogy ne hűljön ki.",
                 "ro": "Faceți o pauză scurtă pentru a nu vă răci.",
-                "en": "Take a short break to avoid getting chilled."
+                "en": "Take a short break to avoid getting chilled.",
+                "hr": "Napravite kratku pauzu kako se ne biste prehladili."
               }
             },
             {
@@ -823,7 +930,8 @@
                 "de": "Ziehen Sie für die Abfahrt eine zusätzliche Windschicht an.",
                 "hu": "A lejtmenethez vegyen fel egy extra szélálló réteget.",
                 "ro": "Puneți un strat suplimentar rezistent la vânt pentru coborâre.",
-                "en": "Put on an extra wind layer for the descent."
+                "en": "Put on an extra wind layer for the descent.",
+                "hr": "Obucite dodatni sloj protiv vjetra za spust."
               }
             },
             {
@@ -832,7 +940,8 @@
                 "de": "Im Winter lieber durch eine warme Suppe in der Konoba ersetzen.",
                 "hu": "Télen inkább cserélje le egy meleg levesre a konobában.",
                 "ro": "Iarna, mai bine înlocuiți cu o supă caldă în konoba.",
-                "en": "In winter, better replace this with a warm soup in the konoba."
+                "en": "In winter, better replace this with a warm soup in the konoba.",
+                "hr": "Zimi ovo radije zamijenite toplom juhom u konobi."
               }
             },
             {
@@ -841,7 +950,8 @@
                 "de": "Bewegung hilft gegen kalte Zehen und Finger.",
                 "hu": "A mozgás segít a hideg láb- és kézujjak ellen.",
                 "ro": "Mișcarea ajută împotriva degetelor de la mâini și picioare reci.",
-                "en": "Movement helps against cold toes and fingers."
+                "en": "Movement helps against cold toes and fingers.",
+                "hr": "Kretanje pomaže protiv hladnih nožnih prstiju i ruku."
               }
             },
             {
@@ -850,7 +960,8 @@
                 "de": "Letzter kultureller Stopp im hellen Tageslicht.",
                 "hu": "Az utolsó kulturális megálló még világosban.",
                 "ro": "Ultima oprire culturală pe lumina zilei.",
-                "en": "The last cultural stop in bright daylight."
+                "en": "The last cultural stop in bright daylight.",
+                "hr": "Posljednja kulturna postaja na dnevnom svjetlu."
               }
             },
             {
@@ -859,7 +970,8 @@
                 "de": "Heiße Schokolade ist jetzt die bessere Wahl.",
                 "hu": "A forró csokoládé most jobb választás.",
                 "ro": "Ciocolata caldă este o alegere mai bună acum.",
-                "en": "Hot chocolate is the better choice now."
+                "en": "Hot chocolate is the better choice now.",
+                "hr": "Topla čokolada sada je bolji izbor."
               }
             }
           ],
@@ -887,6 +999,12 @@
               "Watch out for black ice in shaded forest sections.",
               "Days are short, start no later than 10 AM.",
               "Carry a light set in case it gets later."
+            ],
+            "hr": [
+              "Tople rukavice i navlake za cipele zimi su obavezne.",
+              "Pripazite na poledicu u sjenovitim šumskim dijelovima.",
+              "Dani su kratki, krenite najkasnije u 10 sati ujutro.",
+              "Nosite svjetla u slučaju da se zadržite dulje."
             ]
           }
         }
@@ -915,7 +1033,8 @@
             "de": "Parken Sie zentral für die ersten Stopps.",
             "hu": "Parkoljon központilag az első megállókhoz.",
             "ro": "Parcați central pentru primele opriri.",
-            "en": "Park centrally for the first stops."
+            "en": "Park centrally for the first stops.",
+            "hr": "Parkirajte centralno za prve stanice."
           }
         },
         {
@@ -933,7 +1052,8 @@
             "de": "Ein schöner Spaziergang vom Parkplatz.",
             "hu": "Kellemes séta a parkolótól.",
             "ro": "O plimbare plăcută de la parcare.",
-            "en": "A pleasant walk from the parking lot."
+            "en": "A pleasant walk from the parking lot.",
+            "hr": "Ugodna šetnja od parkirališta."
           }
         },
         {
@@ -951,7 +1071,8 @@
             "de": "Frisches Obst für die Fahrt.",
             "hu": "Friss gyümölcs az útra.",
             "ro": "Fructe proaspete pentru drum.",
-            "en": "Fresh fruit for the trip."
+            "en": "Fresh fruit for the trip.",
+            "hr": "Svježe voće za put."
           }
         },
         {
@@ -969,7 +1090,8 @@
             "de": "Das Auto vor den Stadtmauern stehen lassen.",
             "hu": "Hagyja az autót a városfalakon kívül.",
             "ro": "Lăsați mașina în afara zidurilor orașului.",
-            "en": "Leave the car outside the city walls."
+            "en": "Leave the car outside the city walls.",
+            "hr": "Ostavite auto izvan gradskih zidina."
           }
         },
         {
@@ -987,7 +1109,8 @@
             "de": "Rustikale Küche in historischem Ambiente.",
             "hu": "Rusztikus konyha történelmi környezetben.",
             "ro": "Bucătărie rustică în ambianță istorică.",
-            "en": "Rustic cuisine in a historic setting."
+            "en": "Rustic cuisine in a historic setting.",
+            "hr": "Rustikalna kuhinja u povijesnom ambijentu."
           }
         },
         {
@@ -1005,7 +1128,8 @@
             "de": "Ideal für dramatische Fotos.",
             "hu": "Ideális drámai fotókhoz.",
             "ro": "Ideal pentru fotografii dramatice.",
-            "en": "Ideal for dramatic photos."
+            "en": "Ideal for dramatic photos.",
+            "hr": "Idealno za dramatične fotografije."
           }
         },
         {
@@ -1023,7 +1147,8 @@
             "de": "Nur eine kurze Fahrt vom Steinbruch entfernt.",
             "hu": "Csak rövid autóút a kőbányától.",
             "ro": "Doar o scurtă călătorie cu mașina de la carieră.",
-            "en": "Just a short drive from the quarry."
+            "en": "Just a short drive from the quarry.",
+            "hr": "Samo kratka vožnja od kamenoloma."
           }
         },
         {
@@ -1041,7 +1166,8 @@
             "de": "Kurzer Panoramastopp vor der Rückkehr.",
             "hu": "Rövid panoráma megálló visszatérés előtt.",
             "ro": "Scurtă oprire panoramică înainte de întoarcere.",
-            "en": "Short panoramic stop before returning."
+            "en": "Short panoramic stop before returning.",
+            "hr": "Kratko panoramsko zaustavljanje prije povratka."
           }
         }
       ],
@@ -1049,7 +1175,8 @@
         "de": "Mit dem Auto verbinden Sie bequem die kulturellen Highlights Marčanas mit der wilden Schönheit des Hinterlandes. Starten Sie im Zentrum (Cluster A), erkunden Sie die Gassen und den Markt zu Fuß. Fahren Sie dann zum Hügeldorf Mutvoran (Cluster B) für Geschichte und Gastronomie. Der letzte Abschnitt führt Sie zum Steinbruch Kava Marčana und der Kirche Maria Magdalena (Cluster C), wo Sie die einzigartige Geologie und Stille Istriens erleben.",
         "hu": "Autóval kényelmesen összekötheti Marčana kulturális fénypontjait a hátország vad szépségével. Kezdjen a központban (Cluster A), fedezze fel a sikátorokat és a piacot gyalog. Ezután autózzon el a dombtetőn fekvő Mutvoranba (Cluster B) a történelem és a gasztronómia kedvéért. Az utolsó szakasz a Kava Marčana kőbányához és a Mária Magdolna templomhoz vezet (Cluster C), ahol megtapasztalhatja Isztria egyedülálló geológiáját és csendjét.",
         "ro": "Cu mașina, puteți combina confortabil punctele de atracție culturală din Marčana cu frumusețea sălbatică a interiorului. Începeți în centru (Cluster A), explorând străduțele și piața pe jos. Apoi conduceți către satul de deal Mutvoran (Cluster B) pentru istorie și gastronomie. Ultima etapă vă duce la cariera Kava Marčana și la biserica Maria Magdalena (Cluster C), unde veți experimenta geologia unică și liniștea Istriei.",
-        "en": "By car, you can comfortably combine Marčana's cultural highlights with the wild beauty of the hinterland. Start in the center (Cluster A), exploring the alleys and market on foot. Then drive to the hilltop village of Mutvoran (Cluster B) for history and gastronomy. The last leg takes you to the Kava Marčana quarry and St. Mary Magdalene Church (Cluster C), where you'll experience Istria's unique geology and silence."
+        "en": "By car, you can comfortably combine Marčana's cultural highlights with the wild beauty of the hinterland. Start in the center (Cluster A), exploring the alleys and market on foot. Then drive to the hilltop village of Mutvoran (Cluster B) for history and gastronomy. The last leg takes you to the Kava Marčana quarry and St. Mary Magdalene Church (Cluster C), where you'll experience Istria's unique geology and silence.",
+        "hr": "Automobilom možete udobno spojiti kulturne znamenitosti Marčane s divljom ljepotom zaleđa. Počnite u centru (Klaster A), istražujući uličice i tržnicu pješice. Zatim se odvezite do sela na brdu, Mutvorana (Klaster B), zbog povijesti i gastronomije. Posljednja dionica vodi vas do kamenoloma Kava Marčana i crkve sv. Marije Magdalene (Klaster C), gdje ćete doživjeti jedinstvenu geologiju i tišinu Istre."
       },
       "gastro_picks": {
         "de": [
@@ -1074,6 +1201,12 @@
           {
             "name": "Istrian Stew (Maneštra)",
             "tip": "Perfect for a hearty lunch break."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Istarska maneštra",
+            "tip": "Savršeno za krepku pauzu za ručak."
           }
         ]
       },
@@ -1105,6 +1238,13 @@
             "tip": "Complete isolation and wonderful far-reaching views.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Brdo Sv. Magdalene",
+            "tip": "Potpuna izolacija i prekrasni daleki vidici.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1131,6 +1271,12 @@
             "name": "Herbal Grappa (Biska)",
             "tip": "A traditional souvenir from the region."
           }
+        ],
+        "hr": [
+          {
+            "name": "Biska",
+            "tip": "Tradicionalni suvenir iz regije."
+          }
         ]
       },
       "tips": {
@@ -1149,6 +1295,10 @@
         "en": [
           "The roads to Mutvoran are narrow; drive carefully.",
           "There are plenty of free parking spaces in Marčana."
+        ],
+        "hr": [
+          "Ceste do Mutvorana su uske; vozite oprezno.",
+          "U Marčani ima dovoljno besplatnih parkirnih mjesta."
         ]
       },
       "variants": {
@@ -1157,7 +1307,8 @@
             "de": "Mit dem Auto ist ein Regentag in Marčana kein Hindernis. Wir starten trocken im Zentrum und nutzen die kurzen Wege zwischen den Parkplätzen und Sehenswürdigkeiten.\n\nMutvoran ist auch bei Schmuddelwetter beeindruckend; die Fahrt durch die nebligen Hügel bietet eine fast filmreife Kulisse. Das Mittagessen im Warmen ist das Highlight des Mittags.\n\nNachmittags steuern wir gezielt die Cluster an, um die Gehzeiten im Freien zu minimieren. Die Kirchenbesuche bieten perfekte kulturelle Pausen im Trockenen.\n\nDen Ausblick genießen wir heute einfach bequem durch die Windschutzscheibe, bevor wir den Tag entspannt ausklingen lassen.",
             "hu": "Autóval az esős nap Marčanában nem akadály. Szárazon indulunk a központban, és kihasználjuk a parkolók és a látnivalók közötti rövid távolságokat.\n\nMutvoran borús időben is lenyűgöző; a ködös dombokon átvezető út szinte filmbe illő díszletet nyújt. A melegben elköltött ebéd a délidő fénypontja.\n\nDélután célzottan keressük fel a klasztereket, hogy minimalizáljuk a szabadban töltött gyaloglást. A templomlátogatások tökéletes kulturális szüneteket kínálnak szárazon.\n\nA kilátást ma egyszerűen és kényelmesen, a szélvédőn keresztül élvezzük, mielőtt nyugodtan zárnánk a napot.",
             "ro": "Cu mașina, o zi ploioasă în Marčana nu este un obstacol. Pornim la adăpost în centru și profităm de distanțele scurte între parcări și obiective.\n\nMutvoran este impresionant chiar și pe vreme mohorâtă; drumul prin dealurile cețoase oferă un cadru aproape cinematografic. Prânzul la căldură este punctul culminant al amiezii.\n\nDupă-amiaza vizităm grupurile de obiective pentru a minimiza timpul de mers prin ploaie. Vizitele la biserici oferă pauze culturale perfecte la uscat.\n\nNe bucurăm de priveliște astăzi direct din confortul mașinii, prin parbriz, înainte de a încheia ziua relaxați.",
-            "en": "By car, a rainy day in Marčana is no obstacle. We start dry in the center and take advantage of the short distances between parking lots and sights.\n\nMutvoran is impressive even in gloomy weather; the drive through the misty hills offers an almost cinematic backdrop. Lunch in the warm is the highlight of the noon.\n\nIn the afternoon, we head specifically for the clusters to minimize walking time outdoors. Church visits offer perfect cultural breaks in the dry.\n\nToday, we enjoy the view simply and comfortably through the windshield before ending the day in a relaxed manner."
+            "en": "By car, a rainy day in Marčana is no obstacle. We start dry in the center and take advantage of the short distances between parking lots and sights.\n\nMutvoran is impressive even in gloomy weather; the drive through the misty hills offers an almost cinematic backdrop. Lunch in the warm is the highlight of the noon.\n\nIn the afternoon, we head specifically for the clusters to minimize walking time outdoors. Church visits offer perfect cultural breaks in the dry.\n\nToday, we enjoy the view simply and comfortably through the windshield before ending the day in a relaxed manner.",
+            "hr": "Automobilom kišni dan u Marčani nije prepreka. Počinjemo suhi u centru i koristimo kratke udaljenosti između parkirališta i znamenitosti.\n\nMutvoran je impresivan čak i po tmurnom vremenu; vožnja kroz maglovite brežuljke nudi gotovo filmsku kulisu. Ručak na toplom vrhunac je podneva.\n\nPoslijepodne se ciljano upućujemo u klastere kako bismo minimizirali vrijeme hodanja na otvorenom. Posjeti crkvama nude savršene kulturne pauze na suhom.\n\nDanas uživamo u pogledu jednostavno i udobno kroz vjetrobransko staklo prije nego što opušteno završimo dan."
           },
           "stops": [
             {
@@ -1166,7 +1317,8 @@
                 "de": "Suchen Sie einen Parkplatz nah am Eingang, um trocken zu bleiben.",
                 "hu": "Keressen parkolót közel a bejárathoz, hogy száraz maradjon.",
                 "ro": "Căutați un loc de parcare aproape de intrare pentru a rămâne uscat.",
-                "en": "Find a parking spot close to the entrance to stay dry."
+                "en": "Find a parking spot close to the entrance to stay dry.",
+                "hr": "Pronađite parkirno mjesto blizu ulaza kako biste ostali suhi."
               }
             },
             {
@@ -1175,7 +1327,8 @@
                 "de": "Kurzer Sprint vom Auto zur Kirche bei starken Schauern.",
                 "hu": "Rövid sprint az autótól a templomig heves záporok esetén.",
                 "ro": "Sprint scurt de la mașină la biserică în caz de averse puternice.",
-                "en": "Short sprint from the car to the church during heavy showers."
+                "en": "Short sprint from the car to the church during heavy showers.",
+                "hr": "Kratak sprint od auta do crkve tijekom jakih pljuskova."
               }
             },
             {
@@ -1184,7 +1337,8 @@
                 "de": "Marktstände sind teilweise überdacht, ideal zum Stöbern.",
                 "hu": "A piaci standok részben fedettek, ideális a böngészéshez.",
                 "ro": "Stâlpurile pieței sunt parțial acoperite, ideale pentru explorat.",
-                "en": "Market stalls are partially covered, ideal for browsing."
+                "en": "Market stalls are partially covered, ideal for browsing.",
+                "hr": "Tržnica je djelomično natkrivena, idealna za razgledavanje."
               }
             },
             {
@@ -1193,7 +1347,8 @@
                 "de": "Fahrt auf den Hügel ist bei Regen besonders atmosphärisch.",
                 "hu": "A dombra való feljutás esőben különösen hangulatos.",
                 "ro": "Drumul spre deal este deosebit de atmosferic pe ploaie.",
-                "en": "The drive up the hill is particularly atmospheric in the rain."
+                "en": "The drive up the hill is particularly atmospheric in the rain.",
+                "hr": "Vožnja uz brdo posebno je atmosferska po kiši."
               }
             },
             {
@@ -1202,7 +1357,8 @@
                 "de": "Genießen Sie den Blick aus dem Fenster auf das regnerische Istrien.",
                 "hu": "Élvezze az ablakból a kilátást az esős Isztriára.",
                 "ro": "Bucurați-vă de priveliștea de la fereastră asupra Istriei ploioase.",
-                "en": "Enjoy the view from the window of rainy Istria."
+                "en": "Enjoy the view from the window of rainy Istria.",
+                "hr": "Uživajte u pogledu kroz prozor na kišnu Istru."
               }
             },
             {
@@ -1211,7 +1367,8 @@
                 "de": "Parken Sie so, dass Sie die Steinformationen vom Auto aus sehen.",
                 "hu": "Úgy parkoljon, hogy az autóbol is lássa a kőformációkat.",
                 "ro": "Parcați astfel încât să puteți vedea formațiunile de piatră din mașină.",
-                "en": "Park so that you can see the stone formations from the car."
+                "en": "Park so that you can see the stone formations from the car.",
+                "hr": "Parkirajte tako da formacije stijena možete vidjeti iz auta."
               }
             },
             {
@@ -1220,7 +1377,8 @@
                 "de": "Wenig Fußweg vom Auto bis zum Eingang.",
                 "hu": "Kevés gyaloglás az autótól a bejáratig.",
                 "ro": "Puțin de mers pe jos de la mașină până la intrare.",
-                "en": "Very little walking distance from the car to the entrance."
+                "en": "Very little walking distance from the car to the entrance.",
+                "hr": "Vrlo kratka pješačka udaljenost od auta do ulaza."
               }
             },
             {
@@ -1229,7 +1387,8 @@
                 "de": "Bleiben Sie bei starkem Regen einfach im Auto sitzen.",
                 "hu": "Heves esőben maradjon egyszerűen az autóban.",
                 "ro": "Rămâneți pur și simplu în mașină în caz de ploaie puternică.",
-                "en": "Just stay in the car during heavy rain."
+                "en": "Just stay in the car during heavy rain.",
+                "hr": "Samo ostanite u autu tijekom jake kiše."
               }
             }
           ],
@@ -1257,6 +1416,12 @@
               "Avoid deep puddles on side roads.",
               "Parking lots in Marčana are mostly unpaved, watch out for mud.",
               "Use the air conditioning to prevent fogged windows."
+            ],
+            "hr": [
+              "Provjerite stanje brisača prije polaska.",
+              "Izbjegavajte duboke lokve na sporednim cestama.",
+              "Parkirališta u Marčani su uglavnom neasfaltirana, pazite na blato.",
+              "Koristite klima uređaj kako biste spriječili zamagljivanje stakala."
             ]
           }
         },
@@ -1265,7 +1430,8 @@
             "de": "Ein Wintertag in Marčana mit dem Auto bietet Komfort und Flexibilität. Die Heizung sorgt für Wohlbefinden zwischen den Stopps im kühlen Ortskern und den historischen Stätten.\n\nDie Fahrt nach Mutvoran führt durch die winterlich-ruhende Landschaft Istriens. Dank des Autos erreichen wir die exponierte Hügellage, ohne dem kalten Wind zu lange ausgesetzt zu sein.\n\nMittags kehren wir in eine warme Konoba ein, wo die istrische Hausmannskost besonders gut schmeckt. Die Fahrt im beheizten Auto ist danach besonders angenehm.\n\nBevor die Dunkelheit hereinbricht, besuchen wir die letzten Aussichtspunkte. Die Dämmerung in den Hügeln bietet ein wunderbares Farbspiel über der Adria am Horizont.",
             "hu": "Egy téli nap Marčanában autóval kényelmet és rugalmasságot kínál. A fűtés biztosítja a jó közérzetet a hűvös faluközpont és a történelmi helyszínek közötti megállókban.\n\nA Mutvoran felé vezető út Isztria téli, nyugalmi állapotban lévő táján halad át. Az autónak köszönhetően elérjük a kitett dombtetőt anélkül, hogy túl sokáig lennénk kitéve a hideg szélnek.\n\nDélben betérünk egy meleg konobába, ahol az isztriai házias koszt különösen jól esik. A fűtött autóban való utazás utána kifejezetten kellemes.\n\nMielőtt beállna a sötétség, felkeressük az utolsó kilátópontokat. A dombok közötti szürkület csodálatos színjátékot kínál az Adria felett a horizonton.",
             "ro": "O zi de iarnă în Marčana cu mașina oferă confort și flexibilitate. Încălzirea asigură starea de bine între opririle din centrul răcoros și siturile istorice.\n\nDrumul spre Mutvoran trece prin peisajul hibernal al Istriei. Datorită mașinii, ajungem pe vârful dealului expus fără a fi expuși prea mult timp vântului rece.\n\nLa prânz intrăm într-o konoba caldă, unde mâncarea tradițională istriană are un gust deosebit. Călătoria în mașina încălzită este apoi deosebit de plăcută.\n\nÎnainte de lăsarea întunericului, vizităm ultimele puncte de belvedere. Amurgul printre dealuri oferă un joc de culori minunat peste Adriatica la orizont.",
-            "en": "A winter day in Marčana by car offers comfort and flexibility. The heating ensures well-being between stops in the cool village center and the historic sites.\n\nThe drive to Mutvoran leads through the winter-resting landscape of Istria. Thanks to the car, we reach the exposed hilltop location without being exposed to the cold wind for too long.\n\nAt noon, we stop at a warm konoba where Istrian home cooking tastes especially good. The ride in the heated car is particularly pleasant afterwards.\n\nBefore darkness falls, we visit the last viewpoints. The dusk in the hills offers a wonderful play of colors over the Adriatic on the horizon."
+            "en": "A winter day in Marčana by car offers comfort and flexibility. The heating ensures well-being between stops in the cool village center and the historic sites.\n\nThe drive to Mutvoran leads through the winter-resting landscape of Istria. Thanks to the car, we reach the exposed hilltop location without being exposed to the cold wind for too long.\n\nAt noon, we stop at a warm konoba where Istrian home cooking tastes especially good. The ride in the heated car is particularly pleasant afterwards.\n\nBefore darkness falls, we visit the last viewpoints. The dusk in the hills offers a wonderful play of colors over the Adriatic on the horizon.",
+            "hr": "Zimski dan u Marčani automobilom nudi udobnost i fleksibilnost. Grijanje osigurava dobro raspoloženje između zaustavljanja u prohladnom centru mjesta i povijesnim mjestima.\n\nVožnja do Mutvorana vodi kroz zimski krajolik Istre koji miruje. Zahvaljujući automobilu, stižemo na izloženu lokaciju na vrhu brda bez predugog izlaganja hladnom vjetru.\n\nU podne svraćamo u toplu konobu u kojoj istarska domaća kuhinja posebno prija. Vožnja u grijanom automobilu nakon toga je osobito ugodna.\n\nPrije nego što padne mrak, posjećujemo posljednje vidikovce. Suton u brdima nudi prekrasnu igru boja nad Jadranom na horizontu."
           },
           "stops": [
             {
@@ -1274,7 +1440,8 @@
                 "de": "Lassen Sie die Sitzheizung für die Rückkehr an.",
                 "hu": "Hagyja bekapcsolva az ülésfűtést a visszatéréshez.",
                 "ro": "Lăsați încălzirea în scaune pornită pentru când vă întoarceți.",
-                "en": "Leave the seat heating on for your return."
+                "en": "Leave the seat heating on for your return.",
+                "hr": "Ostavite grijanje sjedala uključenim za povratak."
               }
             },
             {
@@ -1283,7 +1450,8 @@
                 "de": "Besichtigung einplanen, wenn die Sonne am höchsten steht.",
                 "hu": "Akkorra tervezze a látogatást, amikor a legmagasabb a nap állása.",
                 "ro": "Planificați vizita când soarele este cel mai sus pe cer.",
-                "en": "Plan your visit when the sun is at its highest."
+                "en": "Plan your visit when the sun is at its highest.",
+                "hr": "Planirajte posjet kada je sunce najviše."
               }
             },
             {
@@ -1292,7 +1460,8 @@
                 "de": "Kaufen Sie lokale Winterprodukte wie Olivenöl oder Honig.",
                 "hu": "Vásároljon helyi téli termékeket, például olívaolajat vagy mézet.",
                 "ro": "Cumpărați produse locale de iarnă, cum ar fi ulei de măsline sau miere.",
-                "en": "Buy local winter products like olive oil or honey."
+                "en": "Buy local winter products like olive oil or honey.",
+                "hr": "Kupite lokalne zimske proizvode poput maslinovog ulja ili meda."
               }
             },
             {
@@ -1301,7 +1470,8 @@
                 "de": "Parken Sie windgeschützt hinter den dicken Steinmauern.",
                 "hu": "Parkoljon szélvédett helyen a vastag kőfalak mögött.",
                 "ro": "Parcați la adăpost de vânt în spatele zidurilor groase de piatră.",
-                "en": "Park in a sheltered spot behind the thick stone walls."
+                "en": "Park in a sheltered spot behind the thick stone walls.",
+                "hr": "Parkirajte na zaklonjenom mjestu iza debelih kamenih zidova."
               }
             },
             {
@@ -1310,7 +1480,8 @@
                 "de": "Ein Glas Rotwein passt perfekt zum Wintermenü.",
                 "hu": "Egy pohár vörösbor tökéletesen illik a téli menühöz.",
                 "ro": "Un pahar de vin roșu se potrivește perfect cu meniul de iarnă.",
-                "en": "A glass of red wine pairs perfectly with the winter menu."
+                "en": "A glass of red wine pairs perfectly with the winter menu.",
+                "hr": "Čaša crnog vina savršeno ide uz zimski jelovnik."
               }
             },
             {
@@ -1319,7 +1490,8 @@
                 "de": "Im Winter sind hier oft weniger Touristen anzutreffen.",
                 "hu": "Télen itt gyakran kevesebb turistával találkozni.",
                 "ro": "Iarna sunt adesea mai puțini turiști aici.",
-                "en": "Fewer tourists are usually encountered here in winter."
+                "en": "Fewer tourists are usually encountered here in winter.",
+                "hr": "Zimi se ovdje obično susreće manje turista."
               }
             },
             {
@@ -1328,7 +1500,8 @@
                 "de": "Nutzen Sie das letzte Tageslicht für Fotos.",
                 "hu": "Használja ki az utolsó nappali fényt a fotózáshoz.",
                 "ro": "Profitate de ultima lumină a zilei pentru fotografii.",
-                "en": "Use the last daylight for photos."
+                "en": "Use the last daylight for photos.",
+                "hr": "Iskoristite posljednje dnevno svjetlo za fotografije."
               }
             },
             {
@@ -1337,7 +1510,8 @@
                 "de": "Genießen Sie den Sonnenuntergang im warmen Auto.",
                 "hu": "Élvezze a naplementét a meleg autóból.",
                 "ro": "Bucurați-vă de apusul soarelui din mașina caldă.",
-                "en": "Enjoy the sunset from the warm car."
+                "en": "Enjoy the sunset from the warm car.",
+                "hr": "Uživajte u zalasku sunca iz toplog automobila."
               }
             }
           ],
@@ -1365,6 +1539,12 @@
               "Watch out for frost on exposed hill roads.",
               "Wear good winter shoes even in the car for the stops.",
               "Mountain roads can cool down quickly at sunset."
+            ],
+            "hr": [
+              "Preporučljivo je imati antifriz u sustavu za pranje stakala.",
+              "Pripazite na mraz na izloženim brdskim cestama.",
+              "Nosite dobre zimske cipele čak i u autu za stanke.",
+              "Planinske ceste mogu se brzo ohladiti pri zalasku sunca."
             ]
           }
         }
@@ -1393,7 +1573,8 @@
             "de": "Prüfen Sie die Rückfahrzeiten vorab.",
             "hu": "Ellenőrizze előre a visszaindulási időpontokat.",
             "ro": "Verificați orele de întoarcere în prealabil.",
-            "en": "Check the return times in advance."
+            "en": "Check the return times in advance.",
+            "hr": "Unaprijed provjerite vremena povratka."
           }
         },
         {
@@ -1411,7 +1592,8 @@
             "de": "Nur wenige Schritte von der Haltestelle entfernt.",
             "hu": "Csak pár lépésre a megállótól.",
             "ro": "La doar câțiva pași de stație.",
-            "en": "Just a few steps from the stop."
+            "en": "Just a few steps from the stop.",
+            "hr": "Svega nekoliko koraka od stanice."
           }
         },
         {
@@ -1429,7 +1611,8 @@
             "de": "Ein schöner, aber langer Fußmarsch oder lokales Taxi.",
             "hu": "Szép, de hosszú séta vagy helyi taxi.",
             "ro": "O plimbare frumoasă, dar lungă, sau un taxi local.",
-            "en": "A beautiful but long walk or a local taxi."
+            "en": "A beautiful but long walk or a local taxi.",
+            "hr": "Lijepa, ali duga šetnja ili lokalni taksi."
           }
         },
         {
@@ -1447,7 +1630,8 @@
             "de": "Genießen Sie die Ruhe im Dorf.",
             "hu": "Élvezze a falu nyugalmát.",
             "ro": "Bucurați-vă de liniștea din sat.",
-            "en": "Enjoy the quiet of the village."
+            "en": "Enjoy the quiet of the village.",
+            "hr": "Uživajte u seoskom miru."
           }
         },
         {
@@ -1465,7 +1649,8 @@
             "de": "Auf dem Rückweg zur Bushaltestelle.",
             "hu": "Visszaúton a buszmegálló felé.",
             "ro": "În drumul de întoarcere spre stație.",
-            "en": "On the way back to the bus stop."
+            "en": "On the way back to the bus stop.",
+            "hr": "Na povratku prema autobusnoj stanici."
           }
         },
         {
@@ -1483,7 +1668,8 @@
             "de": "Entspannen Sie bis zur Ankunft des Busses.",
             "hu": "Pihenjen a busz érkezéséig.",
             "ro": "Relaxați-vă până la sosirea autobuzului.",
-            "en": "Relax until the bus arrives."
+            "en": "Relax until the bus arrives.",
+            "hr": "Opustite se dok autobus ne stigne."
           }
         }
       ],
@@ -1491,7 +1677,8 @@
         "de": "Nutzen Sie den lokalen Bus nach Marčana für einen entschleunigten Tag. Nach der Besichtigung der Dorfkirche führt Sie ein ausgiebiger Spaziergang durch die istrianische Landschaft zum historischen Mutvoran. Nach einem entspannten Mittagessen kehren Sie zu Fuß zurück, besuchen die Kirche der Maria Magdalene und lassen den Tag gemütlich im Dorf ausklingen, während Sie auf den Bus warten.",
         "hu": "Használja a helyi buszt Marčanába egy lassabb tempójú naphoz. A falusi templom megtekintése után egy kiadós séta vezet az isztriai tájon keresztül a történelmi Mutvoranba. Egy pihentető ebéd után gyalog térjen vissza, látogasson el a Mária Magdolna templomhoz, és zárja a napot hangulatosan a faluban, miközben a buszra vár.",
         "ro": "Folosiți autobuzul local către Marčana pentru o zi relaxată. După vizitarea bisericii din sat, o plimbare lungă prin peisajul istrian vă va duce la Mutvoranul istoric. După un prânz relaxant, întoarceți-vă pe jos, vizitați biserica Maria Magdalena și încheiați ziua plăcut în sat în timp ce așteptați autobuzul.",
-        "en": "Use the local bus to Marčana for a slower-paced day. After visiting the village church, a substantial walk through the Istrian landscape leads you to historic Mutvoran. After a relaxing lunch, return on foot, visit St. Mary Magdalene's Church, and end the day cozily in the village while waiting for the bus."
+        "en": "Use the local bus to Marčana for a slower-paced day. After visiting the village church, a substantial walk through the Istrian landscape leads you to historic Mutvoran. After a relaxing lunch, return on foot, visit St. Mary Magdalene's Church, and end the day cozily in the village while waiting for the bus.",
+        "hr": "Koristite lokalni autobus do Marčane za dan sporijeg tempa. Nakon posjeta seoskoj crkvi, sadržajna šetnja kroz istarski krajolik vodi vas do povijesnog Mutvorana. Nakon opuštajućeg ručka, vratite se pješice, posjetite crkvu sv. Marije Magdalene i ugodno završite dan u selu čekajući autobus."
       },
       "gastro_picks": {
         "de": [
@@ -1516,6 +1703,12 @@
           {
             "name": "Local Wine",
             "tip": "A glass of Malvasia to end the day."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno vino",
+            "tip": "Čaša malvazije za kraj dana."
           }
         ]
       },
@@ -1547,6 +1740,13 @@
             "tip": "Timeless silence in the alleys.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Crkveni trg u Mutvoranu",
+            "tip": "Bezvremenska tišina u uličicama.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1573,6 +1773,12 @@
             "name": "Handmade Ceramics",
             "tip": "Small artworks from local studios."
           }
+        ],
+        "hr": [
+          {
+            "name": "Ručno rađena keramika",
+            "tip": "Mala umjetnička djela iz lokalnih ateljea."
+          }
         ]
       },
       "tips": {
@@ -1591,6 +1797,10 @@
         "en": [
           "Bus tickets can be purchased from the driver.",
           "Bus frequency is lower on weekends."
+        ],
+        "hr": [
+          "Autobusne karte mogu se kupiti kod vozača.",
+          "Učestalost autobusa je manja vikendom."
         ]
       },
       "variants": {
@@ -1599,7 +1809,8 @@
             "de": "Ein Regentag mit dem Bus erfordert Timing. Wir starten an der Haltestelle in Marčana und nutzen die Wartezeit im nahen Café. Die Busfahrt bietet einen entspannten Blick auf das verregnete Hinterland.\n\nIn Mutvoran angekommen, schätzen wir die Nähe der Haltestellen zu den Kirchen, die als ideale trockene Stationen fungieren. Das Mittagessen ist der perfekte Ort, um den nächsten Bus abzuwarten.\n\nNachmittags koordinieren wir die Besichtigungen mit dem Fahrplan, um langes Stehen im Regen zu vermeiden. Die religiösen Bauten bieten Ruhe und Schutz.\n\nDen Tag beenden wir mit einem Kaffee in Haltestellennähe, bevor der letzte Bus uns bequem zurückbringt.",
             "hu": "Egy esős nap busszal jó időzítést igényel. A marčanai megállóban kezdünk, a várakozási időt a közeli kávézóban töltjük. A buszozás pihentető kilátást nyújt az eső áztatta háttérországra.\n\nMutvoranba érve értékeljük a megállók közelségét a templomokhoz, amelyek ideális száraz állomásként szolgálnak. Az ebéd tökéletes alkalom a következő busz megvárására.\n\nDélután a látnivalókat a menetrendhez igazítjuk, hogy elkerüljük a hosszas várakozást az esőben. A vallási épületek nyugalmat és védelmet nyújtanak.\n\nA napot a megálló közelében egy kávéval zárjuk, mielőtt az utolsó busz kényelmesen visszavinne minket.",
             "ro": "O zi ploioasă cu autobuzul necesită sincronizare. Pornim din stația din Marčana și petrecem timpul de așteptare în cafeneaua din apropiere. Călătoria cu autobuzul oferă o vedere relaxantă asupra hinterlandului ploios.\n\nAjunși în Mutvoran, apreciem proximitatea stațiilor față de biserici, care funcționează ca stații uscate ideale. Prânzul este locul perfect pentru a aștepta următorul autobuz.\n\nDupă-amiaza coordonăm vizitele cu orarul autobuzelor pentru a evita așteptarea prelungită în ploaie. Edificiile religioase oferă liniște și protecție.\n\nÎncheiem ziua cu o cafea lângă stație, înainte ca ultimul autobuz să ne ducă înapoi confortabil.",
-            "en": "A rainy day by bus requires timing. We start at the bus stop in Marčana and spend the waiting time in the nearby cafe. The bus ride offers a relaxed view of the rainy hinterland.\n\nArriving in Mutvoran, we appreciate the proximity of the stops to the churches, which function as ideal dry stations. Lunch is the perfect place to wait for the next bus.\n\nIn the afternoon, we coordinate visits with the schedule to avoid standing long in the rain. Religious buildings offer peace and protection.\n\nWe end the day with a coffee near the stop before the last bus brings us back comfortably."
+            "en": "A rainy day by bus requires timing. We start at the bus stop in Marčana and spend the waiting time in the nearby cafe. The bus ride offers a relaxed view of the rainy hinterland.\n\nArriving in Mutvoran, we appreciate the proximity of the stops to the churches, which function as ideal dry stations. Lunch is the perfect place to wait for the next bus.\n\nIn the afternoon, we coordinate visits with the schedule to avoid standing long in the rain. Religious buildings offer peace and protection.\n\nWe end the day with a coffee near the stop before the last bus brings us back comfortably.",
+            "hr": "Kišni dan autobusom zahtijeva dobro planiranje vremena. Počinjemo na stanici u Marčani i vrijeme čekanja provodimo u obližnjem kafiću. Vožnja autobusom nudi opušten pogled na kišno zaleđe.\n\nDolaskom u Mutvoran cijenimo blizinu stanica crkvama, koje služe kao idealne suhe postaje. Ručak je savršeno mjesto za čekanje sljedećeg autobusa.\n\nPoslijepodne koordiniramo posjete s voznim redom kako bismo izbjegli dugo stajanje na kiši. Vjerski objekti nude mir i zaštitu.\n\nDan završavamo kavom blizu stanice prije nego što nas posljednji autobus udobno vrati natrag."
           },
           "stops": [
             {
@@ -1608,7 +1819,8 @@
                 "de": "Warten Sie im Café gegenüber, bis der Bus in Sicht ist.",
                 "hu": "Várjon a szemközti kávézóban, amíg a busz látótávolságba kerül.",
                 "ro": "Așteptați în cafeneaua de peste drum până când apare autobuzul.",
-                "en": "Wait in the cafe opposite until the bus is in sight."
+                "en": "Wait in the cafe opposite until the bus is in sight.",
+                "hr": "Čekajte u kafiću preko puta dok autobus ne bude na vidiku."
               }
             },
             {
@@ -1617,7 +1829,8 @@
                 "de": "Die Kirche ist nur einen kurzen Fußweg von der Haltestelle entfernt.",
                 "hu": "A templom csak egy rövid sétára van a megállótól.",
                 "ro": "Biserica se află la doar o scurtă plimbare de stație.",
-                "en": "The church is just a short walk from the stop."
+                "en": "The church is just a short walk from the stop.",
+                "hr": "Crkva je samo kratka šetnja od stanice."
               }
             },
             {
@@ -1626,7 +1839,8 @@
                 "de": "Prüfen Sie den Rückfahrplan sofort bei der Ankunft.",
                 "hu": "Érkezéskor azonnal ellenőrizze a visszautat.",
                 "ro": "Verificați orarul de întoarcere imediat ce ajungeți.",
-                "en": "Check the return schedule immediately upon arrival."
+                "en": "Check the return schedule immediately upon arrival.",
+                "hr": "Odmah po dolasku provjerite red vožnje za povratak."
               }
             },
             {
@@ -1635,7 +1849,8 @@
                 "de": "Ein idealer Ort, um die Regenpause gemütlich zu verbringen.",
                 "hu": "Ideális hely az esőszünet kellemes eltöltésére.",
                 "ro": "Un loc ideal pentru a petrece pauza de ploaie confortabil.",
-                "en": "An ideal place to spend the rain break comfortably."
+                "en": "An ideal place to spend the rain break comfortably.",
+                "hr": "Idealno mjesto za ugodno provođenje stanke od kiše."
               }
             },
             {
@@ -1644,7 +1859,8 @@
                 "de": "Nutzen Sie den Unterstand des Kircheneingangs.",
                 "hu": "Használja a templombejárat előtti fedett részt.",
                 "ro": "Folosiți adăpostul de la intrarea în biserică.",
-                "en": "Use the shelter at the church entrance."
+                "en": "Use the shelter at the church entrance.",
+                "hr": "Koristite nadstrešnicu na ulazu u crkvu."
               }
             },
             {
@@ -1653,7 +1869,8 @@
                 "de": "Fragen Sie den Kellner nach eventuellen Busverspätungen.",
                 "hu": "Kérdezze a pincért az esetleges buszkésésekről.",
                 "ro": "Întrebați chelnerul despre eventualele întârzieri ale autobuzului.",
-                "en": "Ask the waiter about any bus delays."
+                "en": "Ask the waiter about any bus delays.",
+                "hr": "Pitajte konobara o eventualnim kašnjenjima autobusa."
               }
             }
           ],
@@ -1681,6 +1898,12 @@
               "Have small bills ready for buying tickets from the driver.",
               "Bus stops often have only minimal rain protection.",
               "Plan for buffer times in case of weather-related delays."
+            ],
+            "hr": [
+              "Uvijek imajte online vozni red pri ruci.",
+              "Imajte sitan novac za kupnju karata kod vozača.",
+              "Autobusne stanice često imaju samo minimalnu zaštitu od kiše.",
+              "Planirajte rezervno vrijeme u slučaju kašnjenja uzrokovanih vremenom."
             ]
           }
         },
@@ -1689,7 +1912,8 @@
             "de": "Transit im Winter in Marčana ist eine ruhige Angelegenheit. Die Busse sind angenehm temperiert und bieten einen guten Rückzugsort vor der kühlen Außenluft.\n\nWir verbringen den Vormittag mit Besichtigungen, wobei wir die wärmenden Cafés in Haltestellennähe als Stützpunkte nutzen. Mutvoran wirkt im Winterlicht besonders erhaben.\n\nDas Mittagessen in der Konoba ist die wichtigste Aufwärmstation. Wir genießen die Ruhe der Nebensaison, bevor wir den Nachmittag für sakrale Entdeckungen nutzen.\n\nDa die Busfrequenzen im Winter reduziert sein können, beenden wir das Programm zeitig und genießen einen letzten heißen Tee, bevor uns der Bus zurückbringt.",
             "hu": "A téli tömegközlekedés Marčanában nyugodt élmény. A buszok kellemes hőmérsékletűek, és jó menedéket nyújtanak a hűvös külső levegő elől.\n\nA délelőttöt városnézéssel töltjük, a megállók közeli meleg kávézókat bázisként használva. Mutvoran a téli fényben különösen fenségesnek hat.\n\nA konobában elköltött ebéd a legfontosabb felmelegedési pont. Élvezzük az utószezon nyugalmát, mielőtt a délutánt szakrális felfedezésekre fordítanánk.\n\nMivel télen ritkább lehet a buszjárat, időben befejezzük a programot, és egy utolsó forró teát fogyasztunk, mielőtt a busz visszavinne minket.",
             "ro": "Transportul în comun iarna în Marčana este o experiență liniștită. Autobuzele au o temperatură plăcută și oferă un refugiu bun împotriva aerului rece de afară.\n\nPetrecem dimineața vizitând obiectivele, folosind cafenelele calde de lângă stații ca puncte de sprijin. Mutvoran pare deosebit de nobil în lumina iernii.\n\nPrânzul la konoba este cea mai importantă stație de încălzire. Ne bucurăm de liniștea din afara sezonului înainte de a dedica după-amiaza descoperirilor sacre.\n\nDeoarece frecvența autobuzelor poate fi redusă iarna, încheiem programul devreme și ne bucurăm de un ultim ceai fierbinte înainte de întoarcere.",
-            "en": "Transit in winter in Marčana is a quiet affair. The buses are pleasantly tempered and provide a good retreat from the cool outside air.\n\nWe spend the morning sightseeing, using the warming cafes near the stops as bases. Mutvoran looks particularly sublime in the winter light.\n\nLunch in the konoba is the most important warming station. We enjoy the tranquility of the off-season before using the afternoon for sacred discoveries.\n\nSince bus frequencies may be reduced in winter, we end the program early and enjoy one last hot tea before the bus brings us back."
+            "en": "Transit in winter in Marčana is a quiet affair. The buses are pleasantly tempered and provide a good retreat from the cool outside air.\n\nWe spend the morning sightseeing, using the warming cafes near the stops as bases. Mutvoran looks particularly sublime in the winter light.\n\nLunch in the konoba is the most important warming station. We enjoy the tranquility of the off-season before using the afternoon for sacred discoveries.\n\nSince bus frequencies may be reduced in winter, we end the program early and enjoy one last hot tea before the bus brings us back.",
+            "hr": "Prijevoz zimi u Marčani je mirna stvar. Autobusi su ugodno ugrijani i pružaju dobro utočište od hladnog vanjskog zraka.\n\nJutro provodimo u razgledavanju, koristeći tople kafiće blizu stanica kao baze. Mutvoran izgleda posebno uzvišeno na zimskom svjetlu.\n\nRučak u konobi najvažnija je postaja za zagrijavanje. Uživamo u tišini izvan sezone prije nego što poslijepodne iskoristimo za sakralna otkrića.\n\nBudući da učestalost autobusa zimi može biti smanjena, rano završavamo program i uživamo u posljednjem toplom čaju prije nego što nas autobus vrati natrag."
           },
           "stops": [
             {
@@ -1698,7 +1922,8 @@
                 "de": "Halten Sie sich im Windschatten des Wartehäuschens auf.",
                 "hu": "Tartózkodjon a váró szélvédett oldalán.",
                 "ro": "Stați la adăpostul vântului în stație.",
-                "en": "Stay in the lee of the bus shelter."
+                "en": "Stay in the lee of the bus shelter.",
+                "hr": "Ostanite u zavjetrini autobusne nadstrešnice."
               }
             },
             {
@@ -1707,7 +1932,8 @@
                 "de": "Kurzer Aufenthalt im Freien zwischen Bus und Kirche.",
                 "hu": "Rövid kint tartózkodás a busz és a templom között.",
                 "ro": "Scurtă ședere în aer liber între autobuz și biserică.",
-                "en": "Short outdoor stay between the bus and the church."
+                "en": "Short outdoor stay between the bus and the church.",
+                "hr": "Kratak boravak na otvorenom između autobusa i crkve."
               }
             },
             {
@@ -1716,7 +1942,8 @@
                 "de": "Im Winter herrscht hier eine friedliche Stille.",
                 "hu": "Télen békés csend uralkodik itt.",
                 "ro": "Iarna aici domnește o liniște deplină.",
-                "en": "A peaceful silence prevails here in winter."
+                "en": "A peaceful silence prevails here in winter.",
+                "hr": "Ovdje zimi vlada spokojna tišina."
               }
             },
             {
@@ -1725,7 +1952,8 @@
                 "de": "Genießen Sie die lokale Gastfreundschaft fernab der Massen.",
                 "hu": "Élvezze a helyi vendégszeretetet a tömegektől távol.",
                 "ro": "Bucurați-vă de hospitalitatea locală departe de mase.",
-                "en": "Enjoy local hospitality away from the crowds."
+                "en": "Enjoy local hospitality away from the crowds.",
+                "hr": "Uživajte u lokalnom gostoprimstvu daleko od gužve."
               }
             },
             {
@@ -1734,7 +1962,8 @@
                 "de": "Die Kirche bietet im Winter eine andächtige Atmosphäre.",
                 "hu": "A templom télen áhítatos hangulatot áraszt.",
                 "ro": "Biserica oferă o atmosferă pioasă iarna.",
-                "en": "The church offers a devout atmosphere in winter."
+                "en": "The church offers a devout atmosphere in winter.",
+                "hr": "Crkva zimi nudi pobožnu atmosferu."
               }
             },
             {
@@ -1743,7 +1972,8 @@
                 "de": "Ideal zum Aufwärmen kurz vor der Rückfahrt.",
                 "hu": "Ideális a felmelegedéshez közvetlenül a visszautazás előtt.",
                 "ro": "Ideal pentru încălzire chiar înainte de întoarcere.",
-                "en": "Ideal for warming up just before the return trip."
+                "en": "Ideal for warming up just before the return trip.",
+                "hr": "Idealno za zagrijavanje neposredno prije povratka."
               }
             }
           ],
@@ -1771,6 +2001,12 @@
               "A scarf and hat are important while waiting at the stop.",
               "Buses are well-heated, ideal for a short nap.",
               "Start the day early to make the most of the daylight."
+            ],
+            "hr": [
+              "Provjerite zimski vozni red (često je rjeđi nego ljeti).",
+              "Šal i kapa su važni dok čekate na stanici.",
+              "Autobusi su dobro grijani, idealni za kratki drijemež.",
+              "Započnite dan rano kako biste maksimalno iskoristili dnevno svjetlo."
             ]
           }
         }

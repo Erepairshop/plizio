@@ -36,7 +36,8 @@
             "de": "Bewundern Sie die bunten Deckenmalereien in der Kapelle.",
             "hu": "Csodálja meg a kápolna színes mennyezeti festményeit.",
             "ro": "Admirați picturile colorate de pe tavanul capelei.",
-            "en": "Admire the colorful ceiling paintings inside the chapel."
+            "en": "Admire the colorful ceiling paintings inside the chapel.",
+            "fr": "Admirez les peintures colorées du plafond à l'intérieur de la chapelle."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Das berühmte 'Le Pigeonnier' Haus ist der perfekte Fotospot.",
             "hu": "A híres galambdúc ház (Le Pigeonnier) a legjobb fotóhelyszín.",
             "ro": "Faimoasa casă 'Le Pigeonnier' este locul perfect pentru poze.",
-            "en": "The famous 'Le Pigeonnier' house is the ultimate photo spot."
+            "en": "The famous 'Le Pigeonnier' house is the ultimate photo spot.",
+            "fr": "La célèbre maison 'Le Pigeonnier' est le spot photo ultime."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Achten Sie auf das romanische Portal aus dem 13. Jahrhundert.",
             "hu": "Figyelje meg a 13. századi román stílusú kapuzatot.",
             "ro": "Observați portalul romanic din secolul al XIII-lea.",
-            "en": "Look for the 13th-century Romanesque portal."
+            "en": "Look for the 13th-century Romanesque portal.",
+            "fr": "Cherchez le portail roman du XIIIe siècle."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Probieren Sie Flammkuchen oder Sauerkraut.",
             "hu": "Kóstolja meg a flammkuchent vagy a savanyú káposztát.",
             "ro": "Încercați tarte flambée sau varză murată.",
-            "en": "Try some tarte flambée or local sauerkraut."
+            "en": "Try some tarte flambée or local sauerkraut.",
+            "fr": "Goûtez une tarte flambée ou une choucroute locale."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Der Gewürztraminer ist eine Spezialität der Region.",
             "hu": "A Gewürztraminer a régió egyik különlegessége.",
             "ro": "Gewürztraminer este o specialitate a regiunii.",
-            "en": "Gewürztraminer is a regional specialty you must taste."
+            "en": "Gewürztraminer is a regional specialty you must taste.",
+            "fr": "Le Gewürztraminer est une spécialité régionale à déguster absolument."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Dies ist einer der größten Brunnen im Elsass.",
             "hu": "Ez Elzász egyik legnagyobb szökőkútja.",
             "ro": "Aceasta este una dintre cele mai mari fântâni din Alsacia.",
-            "en": "This is one of the largest fountains in Alsace."
+            "en": "This is one of the largest fountains in Alsace.",
+            "fr": "C'est l'une des plus grandes fontaines d'Alsace."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen des kreisförmig angelegten Dorfes am Schlossplatz. Vormittags schlendern Sie durch die malerischen Ringgassen mit ihren blumengeschmückten Fachwerkhäusern. Nach einem deftigen Elsässer Mittagessen besuchen Sie die historische Kirche. Den Nachmittag lassen Sie bei einer Weinverkostung ausklingen, bevor Sie am großen Brunnen den Abend genießen.",
         "hu": "Kezdje a napot a kör alaprajzú falu szívében, a Vár téren. Délelőtt sétáljon végig a festői körutakon, ahol virágos fagerendás házak sorakoznak. Egy kiadós elzászi ebéd után látogassa meg a történelmi templomot. A délutánt zárja borkóstolással az egyik helyi pincében, majd élvezze az estét a hatalmas Szent Leó-kút mellett.",
         "ro": "Începeți ziua în inima satului circular, în Piața Castelului. Dimineața, plimbați-vă pe străzile circulare pitorești, mărginite de case cu bârne de lemn decorate cu flori. După un prânz alsacian copios, vizitați biserica istorică. Încheiați după-amiaza cu o degustare de vinuri la o cramă locală, apoi bucurați-vă de seară lângă marea fântână.",
-        "en": "Start your day in the heart of the circular village at Castle Square. Spend the morning wandering through the picturesque concentric streets lined with flower-decked half-timbered houses. After a hearty Alsatian lunch, visit the historic church. Spend the afternoon tasting world-class wines at a local cellar before ending your visit at the grand fountain."
+        "en": "Start your day in the heart of the circular village at Castle Square. Spend the morning wandering through the picturesque concentric streets lined with flower-decked half-timbered houses. After a hearty Alsatian lunch, visit the historic church. Spend the afternoon tasting world-class wines at a local cellar before ending your visit at the grand fountain.",
+        "fr": "Commencez votre journée au cœur du village circulaire, sur la place du Château. Passez la matinée à déambuler dans les pittoresques rues concentriques bordées de maisons à colombages fleuries. Après un copieux déjeuner alsacien, visitez l'église historique. Consacrez l'après-midi à la dégustation de vins de classe mondiale dans une cave locale avant de terminer votre visite à la grande fontaine."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "Winstub du Rempart",
             "tip": "Traditional local dishes in a historic setting."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Tarte flambée",
+            "tip": "Plat à pâte fine ressemblant à une pizza avec de la crème, des oignons et du lard."
+          },
+          {
+            "name": "Winstub du Rempart",
+            "tip": "Plats locaux traditionnels dans un cadre historique."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "A quiet spot in the middle of the village.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Vignobles à la lisière du village",
+            "tip": "Promenade paisible avec vue sur les toits.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cour du Château",
+            "tip": "Un endroit calme au milieu du village.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +322,16 @@
             "name": "Boulangerie Marx",
             "tip": "Traditional Alsatian pastries and breads."
           }
+        ],
+        "fr": [
+          {
+            "name": "Caves locales",
+            "tip": "Achetez du vin directement auprès des producteurs."
+          },
+          {
+            "name": "Boulangerie Marx",
+            "tip": "Pâtisseries et pains alsaciens traditionnels."
+          }
         ]
       },
       "tips": {
@@ -319,6 +358,12 @@
           "Arrive early in the morning to enjoy the streets before the crowds.",
           "Follow the signs for the 'Sentier de découverte' walking loop.",
           "Most local winemakers offer tastings if you are interested in buying."
+        ],
+        "fr": [
+          "Eguisheim est compact ; portez des chaussures confortables pour les pavés.",
+          "Arrivez tôt le matin pour profiter des rues avant la foule.",
+          "Suivez les panneaux pour la boucle de randonnée du 'Sentier de découverte'.",
+          "La plupart des vignerons locaux proposent des dégustations si vous souhaitez acheter."
         ]
       },
       "variants": {
@@ -581,7 +626,8 @@
             "de": "Der Morgen beginnt am Château Square, wo die Kapelle Schutz vor dem Regen bietet. Mittags genießen wir die wohlige Wärme einer traditionellen elsässischen Winstub. Am Nachmittag locken die Weinkeller mit trockenen, gemütlichen Verkostungsräumen. Abends glänzen die nassen, kreisförmigen Gassen malerisch im Licht der Laternen.",
             "hu": "A reggel a Château téren indul, ahol a kápolna nyújt menedéket az eső elől. Ebédre egy hagyományos elzászi Winstub melegét élvezzük. Délután a borospincék száraz és barátságos kóstolótermei csábítanak. Este a vizes, körkörös utcák macskakövei festőien csillognak a lámpafényben.",
             "ro": "Dimineața începe în Piața Castelului, unde capela oferă adăpost împotriva ploii. La prânz ne bucurăm de căldura primitoare a unui Winstub tradițional alsacian. După-amiaza, cramele atrag cu săli de degustare uscate și primitoare. Seara, străzile circulare ude strălucesc pitoresc sub lumina felinarelor.",
-            "en": "The morning starts at Château Square, where the chapel provides shelter from the rain. For lunch, we enjoy the cozy warmth of a traditional Alsatian Winstub. In the afternoon, wine cellars offer dry and welcoming tasting rooms. In the evening, the wet circular alleys glisten picturesquely under the streetlights."
+            "en": "The morning starts at Château Square, where the chapel provides shelter from the rain. For lunch, we enjoy the cozy warmth of a traditional Alsatian Winstub. In the afternoon, wine cellars offer dry and welcoming tasting rooms. In the evening, the wet circular alleys glisten picturesquely under the streetlights.",
+            "fr": "La matinée commence sur la place du Château, où la chapelle offre un abri contre la pluie. Pour le déjeuner, nous profitons de la chaleur douillette d'une Winstub alsacienne traditionnelle. L'après-midi, les caves à vin proposent des salles de dégustation accueillantes et sèches. En soirée, les ruelles circulaires mouillées brillent de façon pittoresque sous les lampadaires."
           },
           "stops": [
             {
@@ -590,7 +636,8 @@
                 "de": "Die Kapelle bietet einen perfekten, trockenen Rückzugsort für die Besichtigung.",
                 "hu": "A kápolna tökéletes és száraz menedéket nyújt a látogatáshoz.",
                 "ro": "Capela oferă un refugiu perfect și uscat pentru vizitare.",
-                "en": "The chapel offers a perfect and dry retreat for the visit."
+                "en": "The chapel offers a perfect and dry retreat for the visit.",
+                "fr": "La chapelle offre un refuge parfait et sec pour la visite."
               }
             },
             {
@@ -599,7 +646,8 @@
                 "de": "Achten Sie auf Pfützen auf dem unebenen Kopfsteinpflaster.",
                 "hu": "Ügyelj a tócsákra az egyenetlen macskaköveken.",
                 "ro": "Atenție la bălți pe pavajul neregulat.",
-                "en": "Watch out for puddles on the uneven cobblestones."
+                "en": "Watch out for puddles on the uneven cobblestones.",
+                "fr": "Attention aux flaques d'eau sur les pavés inégaux."
               }
             },
             {
@@ -608,7 +656,8 @@
                 "de": "Nutzen Sie die Zeit im Kircheninneren, um dem Regenschauer zu entgehen.",
                 "hu": "Használd ki a templomban töltött időt a zápor elkerülésére.",
                 "ro": "Folosiți timpul în interiorul bisericii pentru a evita aversa.",
-                "en": "Use the time inside the church to escape the rain shower."
+                "en": "Use the time inside the church to escape the rain shower.",
+                "fr": "Profitez du temps à l'intérieur de l'église pour échapper à une averse."
               }
             },
             {
@@ -617,7 +666,8 @@
                 "de": "Ein langer Aufenthalt bei deftigem Essen lässt den Regen draußen vergessen.",
                 "hu": "Egy hosszú ebéd a kiadós ételek mellett elfeledteti a kinti esőt.",
                 "ro": "Un prânz lung cu mâncare copioasă vă va face să uitați de ploaie.",
-                "en": "A long lunch with hearty food will make you forget the rain outside."
+                "en": "A long lunch with hearty food will make you forget the rain outside.",
+                "fr": "Un long déjeuner avec des plats copieux vous fera oublier la pluie extérieure."
               }
             },
             {
@@ -626,7 +676,8 @@
                 "de": "Die Kellergewölbe sind die ideale regenfreie Aktivität am Nachmittag.",
                 "hu": "A boltíves pincék ideális esőmentes programot kínálnak délutánra.",
                 "ro": "Pivnițele boltite sunt activitatea ideală fără ploaie pentru după-amiază.",
-                "en": "The vaulted cellars are the ideal rain-free activity for the afternoon."
+                "en": "The vaulted cellars are the ideal rain-free activity for the afternoon.",
+                "fr": "Les caves voûtées sont l'activité idéale sans pluie pour l'après-midi."
               }
             },
             {
@@ -635,7 +686,8 @@
                 "de": "Ein kurzer Stopp mit Regenschirm reicht für ein letztes Foto.",
                 "hu": "Egy rövid megálló esernyővel is elég egy utolsó fotóhoz.",
                 "ro": "O scurtă oprire cu umbrela este suficientă pentru o ultimă fotografie.",
-                "en": "A short stop with an umbrella is enough for one last photo."
+                "en": "A short stop with an umbrella is enough for one last photo.",
+                "fr": "Un court arrêt avec un parapluie suffit pour une dernière photo."
               }
             }
           ],
@@ -667,6 +719,13 @@
               "A large umbrella can be cumbersome in the narrow alleys.",
               "Be sure to reserve a table at the Winstub for lunch.",
               "The lighting during rain creates a mystical atmosphere."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables pour les rues pavées.",
+              "Utilisez les nombreuses caves à vin comme haltes au sec tout au long du parcours.",
+              "Un grand parapluie peut être encombrant dans les ruelles étroites.",
+              "Assurez-vous de réserver une table à la Winstub pour le déjeuner.",
+              "L'éclairage sous la pluie crée une atmosphère mystique."
             ]
           }
         },
@@ -675,7 +734,8 @@
             "de": "An einem klaren Wintermorgen wirkt das Dorf wie verzaubert. Die Kapelle bietet einen stillen, warmen Ort der Andacht. Mittags wärmen wir uns bei einer Zwiebelsuppe in der geheizten Stube auf. Am Nachmittag genießen wir den Wein in festlich geschmückten Kellern. Sobald die Sonne um 17:00 Uhr sinkt, erstrahlt Eguisheim im Lichterglanz.",
             "hu": "Egy tiszta téli reggelen a falu mintha elvarázsolt lenne. A kápolna csendes, meleg helyet kínál az elmélyüléshez. Ebédre egy hagymalevessel melegszünk fel a fűtött szobában. Délután ünnepi díszbe öltözött pincékben borozunk. Amint a nap 17:00-kor lebukik, Eguisheim fényárban úszik.",
             "ro": "Într-o dimineață senină de iarnă, satul pare fermecat. Capela oferă un loc liniștit și cald pentru meditație. La prânz ne încălzim cu o supă de ceapă în camera încălzită. După-amiaza savurăm vinul în crame decorate festiv. De îndată ce soarele apune la ora 17:00, Eguisheim strălucește în lumini.",
-            "en": "On a clear winter morning, the village seems enchanted. The chapel offers a quiet, warm place for reflection. For lunch, we warm up with an onion soup in the heated room. In the afternoon, we enjoy wine in festively decorated cellars. As soon as the sun sets at 17:00, Eguisheim glows with festive lights."
+            "en": "On a clear winter morning, the village seems enchanted. The chapel offers a quiet, warm place for reflection. For lunch, we warm up with an onion soup in the heated room. In the afternoon, we enjoy wine in festively decorated cellars. As soon as the sun sets at 17:00, Eguisheim glows with festive lights.",
+            "fr": "Par un clair matin d'hiver, le village semble enchanté. La chapelle offre un lieu de réflexion calme et chaleureux. Pour le déjeuner, nous nous réchauffons avec une soupe à l'oignon dans la salle chauffée. L'après-midi, nous dégustons du vin dans des caves aux décorations festives. Dès que le soleil se couche à 17h00, Eguisheim brille de ses lumières festives."
           },
           "stops": [
             {
@@ -684,7 +744,8 @@
                 "de": "Im Winter ist der Platz oft mit festlicher Dekoration geschmückt.",
                 "hu": "Télen a teret gyakran ünnepi dekoráció díszíti.",
                 "ro": "Iarna, piața este adesea împodobită cu decorațiuni festive.",
-                "en": "In winter, the square is often adorned with festive decorations."
+                "en": "In winter, the square is often adorned with festive decorations.",
+                "fr": "En hiver, la place est souvent ornée de décorations festives."
               }
             },
             {
@@ -693,7 +754,8 @@
                 "de": "Vorsicht bei Frost, das Kopfsteinpflaster kann glatt sein.",
                 "hu": "Vigyázz fagy esetén, a macskakő csúszós lehet.",
                 "ro": "Atenție la îngheț, piatra cubică poate fi alunecoasă.",
-                "en": "Watch out for frost, the cobblestones can be slippery."
+                "en": "Watch out for frost, the cobblestones can be slippery.",
+                "fr": "Attention au gel, les pavés peuvent être glissants."
               }
             },
             {
@@ -702,7 +764,8 @@
                 "de": "Ein friedlicher Rückzugsort vor der Winterkälte.",
                 "hu": "Békés menedékhely a téli hideg elől.",
                 "ro": "Un refugiu liniștit împotriva frigului iernii.",
-                "en": "A peaceful retreat from the winter cold."
+                "en": "A peaceful retreat from the winter cold.",
+                "fr": "Un refuge paisible contre le froid hivernal."
               }
             },
             {
@@ -711,7 +774,8 @@
                 "de": "Bestellen Sie Choucroute oder Baeckeoffe zum Aufwärmen.",
                 "hu": "Rendelj Choucroute-ot vagy Baeckeoffe-ot a felmelegedéshez.",
                 "ro": "Comandați Choucroute sau Baeckeoffe pentru a vă încălzi.",
-                "en": "Order Choucroute or Baeckeoffe to warm up."
+                "en": "Order Choucroute or Baeckeoffe to warm up.",
+                "fr": "Commandez une Choucroute ou un Baeckeoffe pour vous réchauffer."
               }
             },
             {
@@ -720,7 +784,8 @@
                 "de": "Genießen Sie die gemütliche Atmosphäre der beheizten Verkostungsräume.",
                 "hu": "Élvezd a fűtött kóstolótermek barátságos hangulatát.",
                 "ro": "Bucurați-vă de atmosfera primitoare a sălilor de degustare încălzite.",
-                "en": "Enjoy the cozy atmosphere of the heated tasting rooms."
+                "en": "Enjoy the cozy atmosphere of the heated tasting rooms.",
+                "fr": "Profitez de l'atmosphère chaleureuse des salles de dégustation chauffées."
               }
             },
             {
@@ -729,7 +794,8 @@
                 "de": "Die Abenddämmerung beginnt früh, ideal für stimmungsvolle Fotos.",
                 "hu": "Az alkonyat korán kezdődik, ideális a hangulatos fotókhoz.",
                 "ro": "Amurgul începe devreme, ideal pentru fotografii pline de atmosferă.",
-                "en": "Dusk begins early, ideal for atmospheric photos."
+                "en": "Dusk begins early, ideal for atmospheric photos.",
+                "fr": "Le crépuscule commence tôt, idéal pour des photos d'ambiance."
               }
             }
           ],
@@ -761,6 +827,13 @@
               "Visit the small craft shops for gifts.",
               "Many wine cellars offer Vin Chaud in December.",
               "Watch out for special winter opening hours."
+            ],
+            "fr": [
+              "Des vêtements chauds superposés sont nécessaires pour la promenade.",
+              "Le soleil se couche vers 17h00.",
+              "Visitez les petites boutiques d'artisanat pour les cadeaux.",
+              "De nombreuses caves à vin proposent du Vin Chaud en décembre.",
+              "Attention aux horaires d'ouverture spéciaux en hiver."
             ]
           }
         }
@@ -794,7 +867,8 @@
             "de": "Prüfen Sie Reifendruck vor dem Anstieg.",
             "hu": "Ellenőrizze a guminyomást az emelkedő előtt.",
             "ro": "Verificați presiunea roților înainte de urcare.",
-            "en": "Check your tire pressure before the climb."
+            "en": "Check your tire pressure before the climb.",
+            "fr": "Vérifiez la pression de vos pneus avant la montée."
           }
         },
         {
@@ -817,7 +891,8 @@
             "de": "Spektakuläre Aussicht über die Rheinebene.",
             "hu": "Látványos kilátás a Rajna-völgyre.",
             "ro": "Vedere spectaculoasă asupra văii Rinului.",
-            "en": "Spectacular views over the Rhine valley."
+            "en": "Spectacular views over the Rhine valley.",
+            "fr": "Vues spectaculaires sur la vallée du Rhin."
           }
         },
         {
@@ -840,7 +915,8 @@
             "de": "Das höchstgelegene Dorf der Elsässer Weinstraße.",
             "hu": "Az elzászi borút legmagasabban fekvő faluja.",
             "ro": "Cel mai înalt sat de pe drumul vinului din Alsacia.",
-            "en": "The highest village on the Alsatian Wine Route."
+            "en": "The highest village on the Alsatian Wine Route.",
+            "fr": "Le plus haut village de la Route des Vins d'Alsace."
           }
         },
         {
@@ -863,7 +939,8 @@
             "de": "Genießen Sie ein Picknick zwischen den Reben.",
             "hu": "Élvezze a pikniket a szőlőtőkék között.",
             "ro": "Bucurați-vă de un picnic printre vii.",
-            "en": "Enjoy a picnic or a snack among the vines."
+            "en": "Enjoy a picnic or a snack among the vines.",
+            "fr": "Profitez d'un pique-nique ou d'un en-cas parmi les vignes."
           }
         },
         {
@@ -886,7 +963,8 @@
             "de": "Ein letzter Spaziergang durch die Gassen.",
             "hu": "Egy utolsó séta a sikátorokban.",
             "ro": "O ultimă plimbare pe străduțe.",
-            "en": "A final stroll through the narrow alleys."
+            "en": "A final stroll through the narrow alleys.",
+            "fr": "Une dernière flânerie dans les ruelles étroites."
           }
         }
       ],
@@ -894,7 +972,8 @@
         "de": "Diese Tour führt Sie aus dem Dorf hinauf zu den drei Burgen. Der Anstieg ist fordernd, aber die Aussicht belohnt jede Mühe. Mittags radeln Sie durch das malerische Husseren, bevor es sanft bergab zurück nach Eguisheim geht.",
         "hu": "Ez a túra kivezeti Önt a faluból a dombtetőn álló három várhoz. Az emelkedő megterhelő, de a kilátás kárpótol mindenért. Délben Husseren faluján keresztül tekerhet, majd lassan gurulhat vissza Eguisheimbe.",
         "ro": "Acest tur vă scoate din sat și vă duce sus la cele trei castele. Urcarea este solicitantă, dar priveliștea merită efortul. La prânz pedalați prin Husseren, înainte de o coborâre ușoară înapoi în Eguisheim.",
-        "en": "This tour takes you out of the village up to the Three Castles. The climb is challenging, but the panoramic views are rewarding. Cycle through Husseren at midday before a gentle descent back to Eguisheim."
+        "en": "This tour takes you out of the village up to the Three Castles. The climb is challenging, but the panoramic views are rewarding. Cycle through Husseren at midday before a gentle descent back to Eguisheim.",
+        "fr": "Ce circuit vous emmène hors du village jusqu'aux Trois Châteaux. La montée est exigeante, mais les vues panoramiques sont gratifiantes. Traversez Husseren à la mi-journée avant une descente douce vers Eguisheim."
       },
       "gastro_picks": {
         "de": [
@@ -919,6 +998,12 @@
           {
             "name": "Vichberg Vineyard",
             "tip": "Taste wine right on the slopes."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Vignoble du Vichberg",
+            "tip": "Dégustez du vin directement sur les coteaux."
           }
         ]
       },
@@ -950,6 +1035,13 @@
             "tip": "Peaceful spot with a view.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plateau des Trois Châteaux",
+            "tip": "Un endroit paisible avec vue.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -976,6 +1068,12 @@
             "name": "Domaine Zinck",
             "tip": "Excellent organic wines."
           }
+        ],
+        "fr": [
+          {
+            "name": "Domaine Zinck",
+            "tip": "Excellents vins biologiques."
+          }
         ]
       },
       "tips": {
@@ -998,6 +1096,11 @@
           "An e-bike is highly recommended for the castle climb.",
           "Carry plenty of water for the uphill sections.",
           "Ensure your brakes are in good condition for the descent."
+        ],
+        "fr": [
+          "Un vélo électrique est fortement recommandé pour la montée vers les châteaux.",
+          "Emportez beaucoup d'eau pour les sections en montée.",
+          "Assurez-vous que vos freins sont en bon état pour la descente."
         ]
       },
       "variants": {
@@ -1190,7 +1293,8 @@
             "de": "Trotz Regen starten wir die Tour gut ausgerüstet. Die Auffahrt zu den Drei Burgen führt durch schützende Wälder. In Husseren wärmen wir uns bei einem langen Mittagessen auf. Die Rückfahrt durch die Weinberge erfordert Vorsicht auf den rutschigen Wegen, bietet aber eine erfrischende Perspektive auf das Elsass.",
             "hu": "Az eső ellenére jól felszerelve indulunk útnak. A Három vár felé vezető út védelmező erdőkön át visz. Husserenben egy hosszú ebéddel melegszünk fel. A visszatérés a szőlőskerteken keresztül óvatosságot igényel a csúszós utakon, de frissítő perspektívát kínál Elzászra.",
             "ro": "În ciuda ploii, pornim la drum bine echipați. Urcarea spre Cele Trei Castele trece prin păduri protectoare. În Husseren ne încălzim cu un prânz lung. Întoarcerea prin podgorii necesită prudență pe drumurile alunecoase, dar oferă o perspectivă revigorantă asupra Alsaciei.",
-            "en": "Despite the rain, we start the tour well-equipped. The climb to the Three Castles leads through protective forests. In Husseren, we warm up with a long lunch. The return through the vineyards requires caution on the slippery paths but offers a refreshing perspective on Alsace."
+            "en": "Despite the rain, we start the tour well-equipped. The climb to the Three Castles leads through protective forests. In Husseren, we warm up with a long lunch. The return through the vineyards requires caution on the slippery paths but offers a refreshing perspective on Alsace.",
+            "fr": "Malgré la pluie, nous commençons le tour bien équipés. La montée vers les Trois Châteaux traverse des forêts protectrices. À Husseren, nous nous réchauffons avec un long déjeuner. Le retour par les vignobles demande de la prudence sur les chemins glissants mais offre une perspective rafraîchissante sur l'Alsace."
           },
           "stops": [
             {
@@ -1199,7 +1303,8 @@
                 "de": "Prüfen Sie Ihre Bremsen und ziehen Sie Regenkleidung an.",
                 "hu": "Ellenőrizd a fékeket és vegyél fel esőruhát.",
                 "ro": "Verificați frânele și puneți-vă haine de ploaie.",
-                "en": "Check your brakes and put on rain gear."
+                "en": "Check your brakes and put on rain gear.",
+                "fr": "Vérifiez vos freins et enfilez votre équipement de pluie."
               }
             },
             {
@@ -1208,7 +1313,8 @@
                 "de": "Der Wald bietet einen natürlichen Schutz vor leichtem Regen.",
                 "hu": "Az erdő természetes védelmet nyújt a könnyű eső ellen.",
                 "ro": "Pădurea oferă o protecție naturală împotriva ploii ușoare.",
-                "en": "The forest provides natural protection from light rain."
+                "en": "The forest provides natural protection from light rain.",
+                "fr": "La forêt offre une protection naturelle contre la pluie légère."
               }
             },
             {
@@ -1217,7 +1323,8 @@
                 "de": "Ein kurzer Stopp im Ort, um das Wasser von der Ausrüstung zu schütteln.",
                 "hu": "Rövid megálló a faluban, hogy lerázd a vizet a felszerelésről.",
                 "ro": "O scurtă oprire în sat pentru a scutura apa de pe echipament.",
-                "en": "A short stop in the village to shake the water off the equipment."
+                "en": "A short stop in the village to shake the water off the equipment.",
+                "fr": "Une courte halte dans le village pour secouer l'eau de l'équipement."
               }
             },
             {
@@ -1226,7 +1333,8 @@
                 "de": "Wählen Sie ein Restaurant mit Platz für nasse Jacken.",
                 "hu": "Válassz olyan éttermet, ahol van hely a vizes kabátoknak.",
                 "ro": "Alegeți un restaurant cu spațiu pentru jachetele ude.",
-                "en": "Choose a restaurant with space for wet jackets."
+                "en": "Choose a restaurant with space for wet jackets.",
+                "fr": "Choisissez un restaurant avec de la place pour les vestes mouillées."
               }
             },
             {
@@ -1235,7 +1343,8 @@
                 "de": "Fahren Sie langsam auf dem nassen Asphalt oder Erdwegen.",
                 "hu": "Haladj lassan a vizes aszfalton vagy földutakon.",
                 "ro": "Mergeți încet pe asfaltul ud sau pe drumurile de pământ.",
-                "en": "Drive slowly on wet asphalt or dirt paths."
+                "en": "Drive slowly on wet asphalt or dirt paths.",
+                "fr": "Roulez lentement sur l'asphalte mouillé ou les chemins de terre."
               }
             }
           ],
@@ -1267,6 +1376,13 @@
               "Take a dry cloth for the saddle.",
               "Waterproof bags protect camera and phone.",
               "Plan more time for the descents."
+            ],
+            "fr": [
+              "Un équipement de pluie complet, incluant des couvre-chaussures, est recommandé.",
+              "Évitez les descentes raides et non goudronnées sous de fortes pluies.",
+              "Prévoyez un chiffon sec pour la selle.",
+              "Des sacs étanches protègent l'appareil photo et le téléphone.",
+              "Prévoyez plus de temps pour les descentes."
             ]
           }
         },
@@ -1275,7 +1391,8 @@
             "de": "Die kalte Winterluft macht die Radtour zu den Burgen belebend. Nach dem Anstieg belohnt der weite Blick über die frostigen Vogesen. In Husseren genießen wir eine warme Mahlzeit, um die Glieder aufzutauen. Die Rückfahrt durch die Weinberge findet im goldenen Licht der tiefstehenden Wintersonne statt.",
             "hu": "A hideg téli levegő élénkítővé teszi a várakhoz vezető kerékpártúrát. A kapaszkodó után a fagyos Vogézekre nyíló kilátás a jutalom. Husserenben meleg ételt fogyasztunk, hogy átmelegedjenek tagjaink. A visszatérés a szőlőskerteken át az alacsonyan járó téli nap aranyló fényében történik.",
             "ro": "Aerul rece de iarnă face turul cu bicicleta spre castele revigorant. După urcare, recompensa este vederea panoramică asupra Vosgilor înghețați. În Husseren ne bucurăm de o masă caldă pentru a ne dezmorți membrele. Întoarcerea prin podgorii are loc în lumina aurie a soarelui de iarnă.",
-            "en": "The cold winter air makes the bike tour to the castles invigorating. After the climb, the wide view over the frosty Vosges is the reward. In Husseren, we enjoy a warm meal to thaw our limbs. The return through the vineyards takes place in the golden light of the low winter sun."
+            "en": "The cold winter air makes the bike tour to the castles invigorating. After the climb, the wide view over the frosty Vosges is the reward. In Husseren, we enjoy a warm meal to thaw our limbs. The return through the vineyards takes place in the golden light of the low winter sun.",
+            "fr": "L'air froid de l'hiver rend le tour à vélo vers les châteaux vivifiant. Après la montée, la vue dégagée sur les Vosges givrées est la récompense. À Husseren, nous profitons d'un repas chaud pour dégourdir nos membres. Le retour par les vignobles se fait sous la lumière dorée du soleil d'hiver bas."
           },
           "stops": [
             {
@@ -1284,7 +1401,8 @@
                 "de": "Warme Handschuhe sind für das Bremsen unerlässlich.",
                 "hu": "A meleg kesztyű elengedhetetlen a fékezéshez.",
                 "ro": "Mănușile groase sunt esențiale pentru frânare.",
-                "en": "Warm gloves are essential for braking."
+                "en": "Warm gloves are essential for braking.",
+                "fr": "Des gants chauds sont essentiels pour freiner."
               }
             },
             {
@@ -1293,7 +1411,8 @@
                 "de": "Die Kälte ist oben auf dem Berg oft intensiver.",
                 "hu": "A hideg gyakran intenzívebb a hegytetőn.",
                 "ro": "Frigul este adesea mai intens în vârful muntelui.",
-                "en": "The cold is often more intense at the top of the mountain."
+                "en": "The cold is often more intense at the top of the mountain.",
+                "fr": "Le froid est souvent plus intense au sommet de la montagne."
               }
             },
             {
@@ -1302,7 +1421,8 @@
                 "de": "Suchen Sie sich einen Platz nah am Heizkörper im Restaurant.",
                 "hu": "Keress helyet a fűtőtest közelében az étteremben.",
                 "ro": "Căutați un loc lângă calorifer în restaurant.",
-                "en": "Look for a spot near the radiator in the restaurant."
+                "en": "Look for a spot near the radiator in the restaurant.",
+                "fr": "Cherchez une place près du radiateur au restaurant."
               }
             },
             {
@@ -1311,7 +1431,8 @@
                 "de": "Heiße Getränke helfen, die Körpertemperatur zu halten.",
                 "hu": "A forró italok segítenek fenntartani a testhőmérsékletet.",
                 "ro": "Băuturile fierbinți ajută la menținerea temperaturii corpului.",
-                "en": "Hot drinks help maintain body temperature."
+                "en": "Hot drinks help maintain body temperature.",
+                "fr": "Les boissons chaudes aident à maintenir la température corporelle."
               }
             },
             {
@@ -1320,7 +1441,8 @@
                 "de": "Achten Sie auf vereiste Stellen im Schatten der Hänge.",
                 "hu": "Ügyelj a jeges foltokra a lejtők árnyékos részein.",
                 "ro": "Atenție la porțiunile înghețate în umbra versanților.",
-                "en": "Watch out for icy patches in the shade of the slopes."
+                "en": "Watch out for icy patches in the shade of the slopes.",
+                "fr": "Attention aux plaques de verglas à l'ombre des pentes."
               }
             }
           ],
@@ -1352,6 +1474,13 @@
               "Start the tour early to be back before dark.",
               "Drink enough fluids, even if you feel less thirsty.",
               "A neck gaiter protects the face from cold wind."
+            ],
+            "fr": [
+              "Vêtements thermiques et vestes coupe-vent sont obligatoires.",
+              "Les batteries des vélos électriques se déchargent plus vite par temps froid.",
+              "Commencez le tour tôt pour être de retour avant la nuit.",
+              "Buvez suffisamment de liquides, même si vous ressentez moins la soif.",
+              "Un tour de cou protège le visage du vent froid."
             ]
           }
         }
@@ -1385,7 +1514,8 @@
             "de": "Parken Sie auf dem großen Parkplatz 'Mairie'.",
             "hu": "Parkoljon a nagy 'Mairie' parkolóban.",
             "ro": "Parcați în parcarea mare de la 'Mairie'.",
-            "en": "Park at the large 'Mairie' parking lot."
+            "en": "Park at the large 'Mairie' parking lot.",
+            "fr": "Garez-vous au grand parking de la Mairie."
           }
         },
         {
@@ -1408,7 +1538,8 @@
             "de": "Kurzer Fußweg vom Parkplatz zu den Ruinen.",
             "hu": "Rövid séta a parkolótól a romokig.",
             "ro": "Scurtă plimbare de la parcare la ruine.",
-            "en": "A short walk from the parking lot to the ruins."
+            "en": "A short walk from the parking lot to the ruins.",
+            "fr": "Une courte marche depuis le parking jusqu'aux ruines."
           }
         },
         {
@@ -1431,7 +1562,8 @@
             "de": "Toller Blick auf Eguisheim von hier oben.",
             "hu": "Nagyszerű kilátás Eguisheimre innen fentről.",
             "ro": "Vedere minunată asupra Eguisheim de aici de sus.",
-            "en": "Great views over Eguisheim from this elevation."
+            "en": "Great views over Eguisheim from this elevation.",
+            "fr": "Excellentes vues sur Eguisheim depuis cette hauteur."
           }
         },
         {
@@ -1454,7 +1586,8 @@
             "de": "Fahren Sie Richtung Wettolsheim.",
             "hu": "Hajtson Wettolsheim irányába.",
             "ro": "Conduceți spre Wettolsheim.",
-            "en": "Drive towards Wettolsheim for more scenery."
+            "en": "Drive towards Wettolsheim for more scenery.",
+            "fr": "Conduisez vers Wettolsheim pour plus de paysages."
           }
         },
         {
@@ -1477,7 +1610,8 @@
             "de": "Kofferraum mit Elsässer Schätzen füllen.",
             "hu": "Töltse meg a csomagtartót elzászi kincsekkel.",
             "ro": "Umpleți portbagajul cu comori alsaciene.",
-            "en": "Fill your trunk with Alsatian liquid treasures."
+            "en": "Fill your trunk with Alsatian liquid treasures.",
+            "fr": "Remplissez votre coffre de trésors liquides alsaciens."
           }
         }
       ],
@@ -1485,7 +1619,8 @@
         "de": "Mit dem Auto verbinden Sie den Charme von Eguisheim mit der dramatischen Lage der drei Burgen auf dem Hügel. Nach dem Dorfrundgang fahren Sie hinauf zu den Ruinen. Genießen Sie ein Mittagessen mit Aussicht in Husseren und beenden Sie den Tag mit einer entspannten Fahrt durch die Weinberge.",
         "hu": "Autóval kombinálhatja Eguisheim báját a dombtetőn álló három vár drámai látványával. A falunézés után hajtson fel a romokhoz. Élvezze a panorámás ebédet Husserenben, majd zárja a napot egy pihentető autózással a szőlőültetvények között.",
         "ro": "Cu mașina puteți combina farmecul satului Eguisheim cu locația dramatică a celor trei castele de pe deal. După vizitarea satului, urcați la ruine. Bucurați-vă de un prânz cu priveliște în Husseren și încheiați ziua cu o plimbare relaxantă prin podgorii.",
-        "en": "By car, you can combine the charm of Eguisheim with the dramatic hilltop setting of the Three Castles. After exploring the village, drive up to the ruins. Enjoy a panoramic lunch in Husseren and finish the day with a scenic drive through the endless vineyards."
+        "en": "By car, you can combine the charm of Eguisheim with the dramatic hilltop setting of the Three Castles. After exploring the village, drive up to the ruins. Enjoy a panoramic lunch in Husseren and finish the day with a scenic drive through the endless vineyards.",
+        "fr": "En voiture, vous pouvez combiner le charme d'Eguisheim avec le cadre spectaculaire des Trois Châteaux perchés. Après avoir exploré le village, montez vers les ruines. Profitez d'un déjeuner panoramique à Husseren et terminez la journée par une route pittoresque à travers les vignobles infinis."
       },
       "gastro_picks": {
         "de": [
@@ -1510,6 +1645,12 @@
           {
             "name": "Auberge des Trois Châteaux",
             "tip": "Traditional cuisine with a panoramic view."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Auberge des Trois Châteaux",
+            "tip": "Cuisine traditionnelle avec vue panoramique."
           }
         ]
       },
@@ -1541,6 +1682,13 @@
             "tip": "Quiet spot looking over the plain.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Point de vue de Wettolsheim",
+            "tip": "Endroit calme surplombant la plaine.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1567,6 +1715,12 @@
             "name": "Wolfberger Shop",
             "tip": "Huge selection of wines and local Crémant."
           }
+        ],
+        "fr": [
+          {
+            "name": "Boutique Wolfberger",
+            "tip": "Immense sélection de vins et de Crémant local."
+          }
         ]
       },
       "tips": {
@@ -1589,6 +1743,11 @@
           "The road to the castles is narrow and winding.",
           "Parking fees apply throughout the village.",
           "In peak season, parking lots fill up very quickly."
+        ],
+        "fr": [
+          "La route vers les châteaux est étroite et sinueuse.",
+          "Le stationnement est payant dans tout le village.",
+          "En haute saison, les parkings se remplissent très rapidement."
         ]
       },
       "variants": {
@@ -1781,7 +1940,8 @@
             "de": "Die Fahrt im komfortablen Auto lässt den Regen zur Nebensache werden. Von den Aussichtspunkten blicken wir auf die mystisch vernebelte Rheinebene. In Husseren genießen wir den Komfort eines nahen Parkplatzes für unser Mittagessen. Die Route des Vins bietet auch bei Regen wunderschöne Ausblicke auf die glänzende Landschaft.",
             "hu": "A kényelmes autóban az eső csak mellékes körülmény. A kilátópontokról a misztikus ködbe burkolózó Rajna-síkságot látjuk. Husserenben élvezzük a közeli parkoló kényelmét az ebédünkhöz. A Borút esőben is gyönyörű kilátást nyújt a csillogó tájra.",
             "ro": "Călătoria în mașina confortabilă face ca ploaia să devină secundară. De la punctele de belvedere privim spre câmpia Rinului învăluită în ceață mistică. În Husseren ne bucurăm de confortul unei parcări apropiate pentru masa de prânz. Route des Vins oferă vederi frumoase asupra peisajului strălucitor chiar și pe ploaie.",
-            "en": "Driving in a comfortable car makes the rain a secondary matter. From the viewpoints, we look out over the mystically misty Rhine plain. In Husseren, we enjoy the comfort of a nearby parking lot for our lunch. The Route des Vins offers beautiful views of the glistening landscape even in the rain."
+            "en": "Driving in a comfortable car makes the rain a secondary matter. From the viewpoints, we look out over the mystically misty Rhine plain. In Husseren, we enjoy the comfort of a nearby parking lot for our lunch. The Route des Vins offers beautiful views of the glistening landscape even in the rain.",
+            "fr": "Conduire dans une voiture confortable rend la pluie secondaire. Depuis les points de vue, nous contemplons la plaine du Rhin mystiquement brumeuse. À Husseren, nous profitons du confort d'un parking à proximité pour notre déjeuner. La Route des Vins offre de magnifiques vues sur le paysage scintillant même sous la pluie."
           },
           "stops": [
             {
@@ -1790,7 +1950,8 @@
                 "de": "Parken Sie nah am Zentrum, um kurze Wege im Regen zu haben.",
                 "hu": "Parkolj közel a központhoz, hogy rövidek legyenek a távok az esőben.",
                 "ro": "Parcați aproape de centru pentru a avea distanțe scurte prin ploaie.",
-                "en": "Park close to the center to have short distances in the rain."
+                "en": "Park close to the center to have short distances in the rain.",
+                "fr": "Garez-vous près du centre pour avoir de courtes distances sous la pluie."
               }
             },
             {
@@ -1799,7 +1960,8 @@
                 "de": "Genießen Sie die Aussicht direkt aus dem trockenen Auto.",
                 "hu": "Élvezd a kilátást közvetlenül a száraz autóból.",
                 "ro": "Bucurați-vă de priveliște direct din mașina uscată.",
-                "en": "Enjoy the view directly from the dry car."
+                "en": "Enjoy the view directly from the dry car.",
+                "fr": "Profitez de la vue directement depuis la voiture au sec."
               }
             },
             {
@@ -1808,7 +1970,8 @@
                 "de": "Die Restaurants sind im Regen meist weniger überlaufen.",
                 "hu": "Az éttermek esőben általában kevésbé zsúfoltak.",
                 "ro": "Restaurantele sunt de obicei mai puțin aglomerate pe ploaie.",
-                "en": "Restaurants are usually less crowded in the rain."
+                "en": "Restaurants are usually less crowded in the rain.",
+                "fr": "Les restaurants sont généralement moins fréquentés sous la pluie."
               }
             },
             {
@@ -1817,7 +1980,8 @@
                 "de": "Die Scheibenwischer bieten ständigen Blick auf die Weinberge.",
                 "hu": "Az ablaktörlők folyamatos kilátást biztosítanak a szőlőskertre.",
                 "ro": "Ștergătoarele oferă o vedere constantă asupra podgoriilor.",
-                "en": "The wipers provide a constant view of the vineyards."
+                "en": "The wipers provide a constant view of the vineyards.",
+                "fr": "Les essuie-glaces offrent une vue constante sur les vignobles."
               }
             },
             {
@@ -1826,7 +1990,8 @@
                 "de": "Kistenweise Wein lässt sich bei Regen bequem ins Auto laden.",
                 "hu": "Ládaszámra is kényelmesen bepakolhatod a bort az autóba esőben.",
                 "ro": "Cutiile cu vin pot fi încărcate convenabil în mașină pe ploaie.",
-                "en": "Boxes of wine can be conveniently loaded into the car in the rain."
+                "en": "Boxes of wine can be conveniently loaded into the car in the rain.",
+                "fr": "Les caisses de vin peuvent être facilement chargées dans la voiture sous la pluie."
               }
             }
           ],
@@ -1858,6 +2023,13 @@
               "The Route des Vins is often romantically misty in the rain.",
               "Use the seat heating for extra comfort.",
               "Watch out for oncoming vehicles on the mountain roads."
+            ],
+            "fr": [
+              "Ayez un parapluie prêt pour la marche depuis le parking.",
+              "Soyez prudent sur les sentiers étroits des vignobles, ils peuvent être glissants.",
+              "La Route des Vins est souvent romantiquement brumeuse sous la pluie.",
+              "Utilisez les sièges chauffants pour plus de confort.",
+              "Attention aux véhicules venant en sens inverse sur les routes de montagne."
             ]
           }
         },
@@ -1866,7 +2038,8 @@
             "de": "Wir fahren durch eine frostige, weiß gepuderte Bilderbuchlandschaft. Die Aussicht von den Drei Burgen zeigt das Elsass in seiner winterlichen Stille. Ein gemütliches Mittagessen in Husseren ist der perfekte Aufwärmstopp. Der späte Nachmittag gehört dem Weineinkauf, bevor die Lichter in Eguisheim den Winterabend einläuten.",
             "hu": "Dérlepte, fehéren porcukrozott mesebeli tájon autózunk. A Három vár felől nyíló kilátás Elzász téli nyugalmát mutatja. Egy hangulatos ebéd Husserenben a tökéletes melegedő állomás. A késő délután a borvásárlásé, mielőtt Eguisheim fényei köszöntenék a téli estét.",
             "ro": "Conducem printr-un peisaj de poveste, înghețat și pudrat cu alb. Vederea de la Cele Trei Castele arată Alsacia în liniștea sa hibernală. Un prânz primitor în Husseren este oprirea perfectă pentru încălzire. Sfârșitul după-amiezii este dedicat cumpărăturilor de vin, înainte ca luminile din Eguisheim să vestească seara de iarnă.",
-            "en": "We drive through a frosty, white-powdered storybook landscape. The view from the Three Castles shows Alsace in its winter silence. A cozy lunch in Husseren is the perfect warming stop. The late afternoon belongs to wine shopping before the lights in Eguisheim usher in the winter evening."
+            "en": "We drive through a frosty, white-powdered storybook landscape. The view from the Three Castles shows Alsace in its winter silence. A cozy lunch in Husseren is the perfect warming stop. The late afternoon belongs to wine shopping before the lights in Eguisheim usher in the winter evening.",
+            "fr": "Nous traversons un paysage de conte de fées, givré et poudré de blanc. La vue depuis les Trois Châteaux montre l'Alsace dans son silence hivernal. Un déjeuner chaleureux à Husseren est l'escale parfaite. La fin d'après-midi est consacrée aux achats de vin avant que les lumières d'Eguisheim n'annoncent la soirée d'hiver."
           },
           "stops": [
             {
@@ -1875,7 +2048,8 @@
                 "de": "Im Winter ist es einfacher, einen Parkplatz nah am Markt zu finden.",
                 "hu": "Télen könnyebb parkolót találni a piac közelében.",
                 "ro": "Iarna este mai ușor să găsești un loc de parcare lângă piață.",
-                "en": "In winter, it's easier to find a parking spot near the market."
+                "en": "In winter, it's easier to find a parking spot near the market.",
+                "fr": "En hiver, il est plus facile de trouver une place de parking près du marché."
               }
             },
             {
@@ -1884,7 +2058,8 @@
                 "de": "Die Bergstraßen können bei plötzlichem Schneefall glatt sein.",
                 "hu": "A hegyi utak hirtelen hóesésnél csúszósak lehetnek.",
                 "ro": "Drumurile de munte pot fi alunecoase în caz de ninsoare subită.",
-                "en": "The mountain roads can be slippery during sudden snowfall."
+                "en": "The mountain roads can be slippery during sudden snowfall.",
+                "fr": "Les routes de montagne peuvent être glissantes lors de chutes de neige soudaines."
               }
             },
             {
@@ -1893,7 +2068,8 @@
                 "de": "Genießen Sie den Blick auf die verschneiten Reben aus dem Fenster.",
                 "hu": "Élvezd az ablakból a kilátást a havas szőlőtőkékre.",
                 "ro": "Bucurați-vă de vederea spre vița de vie înzăpezită de la fereastră.",
-                "en": "Enjoy the view of the snowy vines from the window."
+                "en": "Enjoy the view of the snowy vines from the window.",
+                "fr": "Profitez de la vue sur les vignes enneigées depuis la fenêtre."
               }
             },
             {
@@ -1902,7 +2078,8 @@
                 "de": "Die Wintersonne steht tief und blendet oft, Sonnenbrille mitnehmen.",
                 "hu": "A téli nap alacsonyan jár és gyakran vakít, vigyél napszemüveget.",
                 "ro": "Soarele de iarnă este jos și adesea orbitor, luați ochelari de soare.",
-                "en": "The winter sun is low and often blinding, take sunglasses."
+                "en": "The winter sun is low and often blinding, take sunglasses.",
+                "fr": "Le soleil d'hiver est bas et souvent aveuglant, prenez des lunettes de soleil."
               }
             },
             {
@@ -1911,7 +2088,8 @@
                 "de": "Lagern Sie den Wein im Auto frostgeschützt.",
                 "hu": "Az autóban tárold a bort fagytól védett helyen.",
                 "ro": "Depozitați vinul în mașină protejat de îngheț.",
-                "en": "Store the wine in the car protected from frost."
+                "en": "Store the wine in the car protected from frost.",
+                "fr": "Stockez le vin dans la voiture à l'abri du gel."
               }
             }
           ],
@@ -1943,6 +2121,13 @@
               "Parking fees are often reduced in winter.",
               "Check the antifreeze of the windshield washer system.",
               "The light for photos is best in the morning and late afternoon."
+            ],
+            "fr": [
+              "Les pneus hiver ou les chaînes sont souvent obligatoires en Alsace.",
+              "Ne laissez pas les cartons de vin dans la voiture froide toute la nuit.",
+              "Les frais de stationnement sont souvent réduits en hiver.",
+              "Vérifiez l'antigel du système de lave-glace.",
+              "La lumière pour les photos est meilleure le matin et en fin d'après-midi."
             ]
           }
         }
@@ -1976,7 +2161,8 @@
             "de": "Checken Sie den Fahrplan für die Rückfahrt nach Colmar.",
             "hu": "Ellenőrizze a menetrendet a Colmarba való visszatéréshez.",
             "ro": "Verificați orarul pentru întoarcerea la Colmar.",
-            "en": "Double-check the return bus schedule to Colmar."
+            "en": "Double-check the return bus schedule to Colmar.",
+            "fr": "Vérifiez bien les horaires du bus de retour pour Colmar."
           }
         },
         {
@@ -1999,7 +2185,8 @@
             "de": "Perfekt zu Fuß erreichbar.",
             "hu": "Gyalogosan tökéletesen bejárható.",
             "ro": "Perfect de explorat la pas.",
-            "en": "Perfectly explored on foot from the bus stop."
+            "en": "Perfectly explored on foot from the bus stop.",
+            "fr": "Parfaitement explorable à pied depuis l'arrêt de bus."
           }
         },
         {
@@ -2022,7 +2209,8 @@
             "de": "Reservieren Sie in der Ferienzeit einen Tisch.",
             "hu": "A nyaralási szezonban érdemes asztalt foglalni.",
             "ro": "Rezervați o masă în timpul sezonului turistic.",
-            "en": "Book a table in advance during holiday seasons."
+            "en": "Book a table in advance during holiday seasons.",
+            "fr": "Réservez une table à l'avance pendant les périodes de vacances."
           }
         },
         {
@@ -2045,7 +2233,8 @@
             "de": "Ein Ort der Ruhe.",
             "hu": "A nyugalom szigete.",
             "ro": "Un loc de liniște.",
-            "en": "A place of peace and quiet."
+            "en": "A place of peace and quiet.",
+            "fr": "Un lieu de paix et de tranquillité."
           }
         },
         {
@@ -2068,7 +2257,8 @@
             "de": "Glaswaren sind auch schöne Souvenirs.",
             "hu": "Az üvegáruk is szép emléktárgyak.",
             "ro": "Produsele din sticlă sunt, de asemenea, suveniruri frumoase.",
-            "en": "Local glassware also makes for beautiful souvenirs."
+            "en": "Local glassware also makes for beautiful souvenirs.",
+            "fr": "La verrerie locale fait aussi de magnifiques souvenirs."
           }
         }
       ],
@@ -2076,7 +2266,8 @@
         "de": "Eguisheim ist von Colmar aus leicht mit dem Bus erreichbar. Nach der Ankunft tauchen Sie sofort in die mittelalterliche Atmosphäre ein. Der gesamte Ort lässt sich wunderbar zu Fuß erkunden. Genießen Sie die Gastronomie und den Wein, bevor Sie entspannt mit dem Bus zurückfahren.",
         "hu": "Eguisheim könnyen elérhető busszal Colmarból. Érkezés után azonnal elmerülhet a középkori hangulatban. Az egész falu csodálatosan bejárható gyalog. Élvezze a gasztronómiát és a bort, mielőtt kényelmesen visszautazna a busszal.",
         "ro": "Eguisheim este ușor accesibil cu autobuzul din Colmar. După sosire, vă scufundați imediat în atmosfera medievală. Întregul sat poate fi explorat minunat la pas. Bucurați-vă de gastronomie și vin înainte de a vă întoarce relaxat cu autobuzul.",
-        "en": "Eguisheim is easily accessible by bus from Colmar. Upon arrival, you'll immediately step into a medieval fairytale. The entire village is best explored on foot. Enjoy the local food and wine culture before heading back by bus in the late afternoon."
+        "en": "Eguisheim is easily accessible by bus from Colmar. Upon arrival, you'll immediately step into a medieval fairytale. The entire village is best explored on foot. Enjoy the local food and wine culture before heading back by bus in the late afternoon.",
+        "fr": "Eguisheim est facilement accessible en bus depuis Colmar. À votre arrivée, vous entrerez immédiatement dans un conte de fées médiéval. Le village entier s'explore idéalement à pied. Profitez de la culture gastronomique et viticole locale avant de repartir en bus en fin d'après-midi."
       },
       "gastro_picks": {
         "de": [
@@ -2101,6 +2292,12 @@
           {
             "name": "Kugelhupf",
             "tip": "Traditional Alsatian bundt cake."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Kouglof",
+            "tip": "Gâteau alsacien traditionnel cuit dans un moule spécial."
           }
         ]
       },
@@ -2132,6 +2329,13 @@
             "tip": "Quiet spot behind the church.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin de la Paroisse",
+            "tip": "Endroit calme derrière l'église.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2158,6 +2362,12 @@
             "name": "Gourmet shops",
             "tip": "Alsatian mustard and local honey."
           }
+        ],
+        "fr": [
+          {
+            "name": "Épiceries fines",
+            "tip": "Moutarde alsacienne et miel local."
+          }
         ]
       },
       "tips": {
@@ -2180,6 +2390,11 @@
           "Take bus 208 from Colmar.",
           "Bus services are limited on Sundays.",
           "You can buy tickets directly from the driver."
+        ],
+        "fr": [
+          "Prenez le bus 208 depuis Colmar.",
+          "Les services de bus sont limités le dimanche.",
+          "Vous pouvez acheter des billets directement auprès du conducteur."
         ]
       },
       "variants": {
@@ -2372,7 +2587,8 @@
             "de": "Wir nutzen die überdachten Bushaltestellen, um trocken nach Eguisheim zu kommen. Der Vormittag gehört der Erkundung der geschützten Winkel des Dorfes. Ein ausgedehntes Mittagessen im Zentrum bietet eine Pause vom Regen. Die Kapelle und die Souvenirläden sind ideale Ziele, um den Nachmittag im Trockenen zu verbringen.",
             "hu": "A fedett buszmegállókat használjuk, hogy szárazon jussunk el Eguisheimbe. A délelőtt a falu védettebb zugainak felfedezésével telik. Egy kiadós központi ebéd szünetet nyújt az esőben. A kápolna és az ajándékboltok ideális célpontok, hogy szárazon töltsük a délutánt.",
             "ro": "Folosim stațiile de autobuz acoperite pentru a ajunge uscați la Eguisheim. Dimineața este dedicată explorării colțurilor protejate ale satului. Un prânz prelungit în centru oferă o pauză de la ploaie. Capela și magazinele de suveniruri sunt destinații ideale pentru a petrece după-amiaza la adăpost.",
-            "en": "We use the covered bus stops to get to Eguisheim dry. The morning is spent exploring the sheltered corners of the village. An extended lunch in the center offers a break from the rain. The chapel and souvenir shops are ideal destinations to spend the afternoon in the dry."
+            "en": "We use the covered bus stops to get to Eguisheim dry. The morning is spent exploring the sheltered corners of the village. An extended lunch in the center offers a break from the rain. The chapel and souvenir shops are ideal destinations to spend the afternoon in the dry.",
+            "fr": "Nous utilisons les arrêts de bus couverts pour arriver à Eguisheim au sec. La matinée est consacrée à l'exploration des coins abrités du village. Un déjeuner prolongé dans le centre offre une pause loin de la pluie. La chapelle et les boutiques de souvenirs sont des destinations idéales pour passer l'après-midi au sec."
           },
           "stops": [
             {
@@ -2381,7 +2597,8 @@
                 "de": "Warten Sie unter dem Dach, bis der Regen nachlässt.",
                 "hu": "Várj a tető alatt, amíg alábbhagy az eső.",
                 "ro": "Așteptați sub acoperiș până când ploaia se potolește.",
-                "en": "Wait under the roof until the rain subsides."
+                "en": "Wait under the roof until the rain subsides.",
+                "fr": "Attendez sous le toit que la pluie se calme."
               }
             },
             {
@@ -2390,7 +2607,8 @@
                 "de": "Viele Hauseingänge bieten kurzzeitigen Schutz vor Schauern.",
                 "hu": "Sok házbejárat nyújt rövid ideig védelmet a záporok elől.",
                 "ro": "Multe intrări de case oferă protecție temporară împotriva averselor.",
-                "en": "Many house entrances offer temporary shelter from showers."
+                "en": "Many house entrances offer temporary shelter from showers.",
+                "fr": "De nombreuses entrées de maisons offrent un abri temporaire contre les averses."
               }
             },
             {
@@ -2399,7 +2617,8 @@
                 "de": "Wählen Sie ein Restaurant in unmittelbarer Nähe zur Bushaltestelle.",
                 "hu": "Válassz olyan éttermet, amely közvetlen közelben van a buszmegállóhoz.",
                 "ro": "Alegeți un restaurant în imediata apropiere a stației de autobuz.",
-                "en": "Choose a restaurant in the immediate vicinity of the bus stop."
+                "en": "Choose a restaurant in the immediate vicinity of the bus stop.",
+                "fr": "Choisissez un restaurant à proximité immédiate de l'arrêt de bus."
               }
             },
             {
@@ -2408,7 +2627,8 @@
                 "de": "Ein kultureller Höhepunkt, der völlig wetterunabhängig ist.",
                 "hu": "Kulturális csúcspont, amely teljesen időjárásfüggetlen.",
                 "ro": "Un punct culminant cultural care este complet independent de vreme.",
-                "en": "A cultural highlight that is completely independent of the weather."
+                "en": "A cultural highlight that is completely independent of the weather.",
+                "fr": "Un moment fort culturel totalement indépendant de la météo."
               }
             },
             {
@@ -2417,7 +2637,8 @@
                 "de": "Lassen Sie sich Einkäufe gut einpacken, damit sie im Regen nicht aufweichen.",
                 "hu": "Csomagoltasd be jól a vásárolt dolgokat, nehogy elázzanak az esőben.",
                 "ro": "Solicitați ambalarea bine a cumpărăturilor pentru a nu se uda în ploaie.",
-                "en": "Have your purchases well-packed so they don't get soaked in the rain."
+                "en": "Have your purchases well-packed so they don't get soaked in the rain.",
+                "fr": "Emballez bien vos achats pour qu'ils ne soient pas trempés sous la pluie."
               }
             }
           ],
@@ -2449,6 +2670,13 @@
               "A small umbrella is ideal for the walk to the bus.",
               "Use the transport company's app for real-time info.",
               "The village center is compact, distances are short."
+            ],
+            "fr": [
+              "Vérifiez les horaires de bus pour d'éventuels retards sous la pluie.",
+              "Les bus en Alsace sont fiables et généralement chauffés.",
+              "Un petit parapluie est idéal pour la marche vers le bus.",
+              "Utilisez l'application de la compagnie de transport pour des infos en temps réel.",
+              "Le centre du village est compact, les distances sont courtes."
             ]
           }
         },
@@ -2457,7 +2685,8 @@
             "de": "Wir erreichen Eguisheim im beheizten Bus und atmen die frische Winterluft. Die Gassen sind festlich beleuchtet und laden zum gemütlichen Schlendern ein. Das Mittagessen im warmen Gasthaus ist ein Highlight der Tour. Nach dem Besuch der Kapelle kaufen wir letzte Souvenirs, bevor uns der Bus zurück in die Wärme bringt.",
             "hu": "Fűtött busszal érkezünk Eguisheimbe, és beszívjuk a friss téli levegőt. Az utcák ünnepi díszben világítanak, hívogatva egy kellemes sétára. A meleg vendéglőben elköltött ebéd a túra fénypontja. A kápolna meglátogatása után utolsó ajándékokat vásárolunk, mielőtt a busz visszavisz minket a melegbe.",
             "ro": "Ajungem la Eguisheim cu autobuzul încălzit și respirăm aerul proaspăt de iarnă. Străzile sunt iluminate festiv și invită la o plimbare plăcută. Prânzul în hanul călduros este un punct culminant al turului. După vizitarea capelei, cumpărăm ultimele suveniruri înainte ca autobuzul să ne ducă înapoi la căldură.",
-            "en": "We reach Eguisheim in a heated bus and breathe in the fresh winter air. The alleys are festively lit and invite for a cozy stroll. Lunch in the warm inn is a highlight of the tour. After visiting the chapel, we buy last souvenirs before the bus takes us back to the warmth."
+            "en": "We reach Eguisheim in a heated bus and breathe in the fresh winter air. The alleys are festively lit and invite for a cozy stroll. Lunch in the warm inn is a highlight of the tour. After visiting the chapel, we buy last souvenirs before the bus takes us back to the warmth.",
+            "fr": "Nous atteignons Eguisheim dans un bus chauffé et respirons l'air frais de l'hiver. Les ruelles sont éclairées de manière festive et invitent à une promenade chaleureuse. Le déjeuner dans l'auberge chaleureuse est un point fort du circuit. Après avoir visité la chapelle, nous achetons nos derniers souvenirs avant que le bus ne nous ramène au chaud."
           },
           "stops": [
             {
@@ -2466,7 +2695,8 @@
                 "de": "Kommen Sie erst kurz vor der Abfahrt zur Haltestelle.",
                 "hu": "Csak röviddel az indulás előtt menj ki a megállóba.",
                 "ro": "Veniți la stație doar cu puțin timp înainte de plecare.",
-                "en": "Only go to the bus stop shortly before departure."
+                "en": "Only go to the bus stop shortly before departure.",
+                "fr": "Ne vous rendez à l'arrêt de bus que peu de temps avant le départ."
               }
             },
             {
@@ -2475,7 +2705,8 @@
                 "de": "Die Weihnachtsbeleuchtung macht den Rundgang magisch.",
                 "hu": "A karácsonyi kivilágítás varázslatossá teszi a sétát.",
                 "ro": "Iluminatul de Crăciun face plimbarea magică.",
-                "en": "The Christmas lighting makes the walk magical."
+                "en": "The Christmas lighting makes the walk magical.",
+                "fr": "Les illuminations de Noël rendent la promenade magique."
               }
             },
             {
@@ -2484,7 +2715,8 @@
                 "de": "Ein Platz am Fenster bietet Blick auf das winterliche Treiben.",
                 "hu": "Az ablak melletti hely kilátást nyújt a téli forgatagra.",
                 "ro": "Un loc la fereastră oferă vedere spre forfota hibernală.",
-                "en": "A seat by the window offers a view of the winter bustle."
+                "en": "A seat by the window offers a view of the winter bustle.",
+                "fr": "Une place près de la fenêtre offre une vue sur l'agitation hivernale."
               }
             },
             {
@@ -2493,7 +2725,8 @@
                 "de": "Ein warmer Ort, um kurz zur Ruhe zu kommen.",
                 "hu": "Meleg hely, ahol egy rövid időre megpihenhetsz.",
                 "ro": "Un loc cald pentru a vă odihni puțin.",
-                "en": "A warm place to rest for a short while."
+                "en": "A warm place to rest for a short while.",
+                "fr": "Un endroit chaud pour se reposer quelques instants."
               }
             },
             {
@@ -2502,7 +2735,8 @@
                 "de": "Schützen Sie Flüssigkeiten vor dem Einfrieren bei extremer Kälte.",
                 "hu": "Védd a folyadékokat a fagyástól extrém hideg esetén.",
                 "ro": "Protejați lichidele de îngheț în caz de frig extrem.",
-                "en": "Protect liquids from freezing in extreme cold."
+                "en": "Protect liquids from freezing in extreme cold.",
+                "fr": "Protégez les liquides du gel en cas de froid extrême."
               }
             }
           ],
@@ -2534,6 +2768,13 @@
               "It's often very warm on the bus, use the layered look.",
               "The last bus connection is often earlier in winter.",
               "Photograph the schedule for emergencies."
+            ],
+            "fr": [
+              "La fréquence des bus peut varier les jours fériés.",
+              "Portez des chaussures avec une bonne adhérence contre le verglas.",
+              "Il fait souvent très chaud dans le bus, privilégiez le système des couches de vêtements.",
+              "La dernière liaison par bus est souvent plus précoée en hiver.",
+              "Photographiez les horaires pour les urgences."
             ]
           }
         }

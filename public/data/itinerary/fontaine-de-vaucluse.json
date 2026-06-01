@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die romanischen Skulpturen und das Grab des Heiligen.",
             "hu": "Csodálja meg a román stílusú szobrokat és a szent sírját.",
             "ro": "Admirați sculpturile romanice și mormântul sfântului.",
-            "en": "Admire the Romanesque sculptures and the saint's tomb."
+            "en": "Admire the Romanesque sculptures and the saint's tomb.",
+            "fr": "Admirez les sculptures romanes et le tombeau du saint."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Das Denkmal erinnert an den berühmten Dichter Francesco Petrarca.",
             "hu": "Az emlékmű a híres költő, Francesco Petrarca előtt tiszteleg.",
             "ro": "Monumentul îl onorează pe celebrul poet Francesco Petrarca.",
-            "en": "The monument honors the famous poet Francesco Petrarca."
+            "en": "The monument honors the famous poet Francesco Petrarca.",
+            "fr": "Le monument rend hommage au célèbre poète Francesco Petrarca."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Sehen Sie zu, wie Papier nach mittelalterlicher Methode hergestellt wird.",
             "hu": "Nézze meg, hogyan készül a papír középkori módszerekkel.",
             "ro": "Vedeți cum se fabrică hârtia prin metode medievale.",
-            "en": "Watch how paper is made using medieval methods."
+            "en": "Watch how paper is made using medieval methods.",
+            "fr": "Observez la fabrication du papier selon des méthodes médiévales."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Besuchen Sie die Quelle im Frühjahr für die höchste Wasserkraft.",
             "hu": "Látogasson el tavasszal a forráshoz a legnagyobb vízhozamért.",
             "ro": "Vizitați izvorul primăvara pentru cel mai mare debit.",
-            "en": "Visit the spring in spring for the highest water flow."
+            "en": "Visit the spring in spring for the highest water flow.",
+            "fr": "Visitez la source au printemps pour le débit d'eau le plus élevé."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Erfahren Sie mehr über den Widerstand in der Region während des Krieges.",
             "hu": "Ismerje meg a régió ellenállási mozgalmát a háború alatt.",
             "ro": "Aflați despre rezistența din regiune în timpul războiului.",
-            "en": "Learn about the region's resistance during the war."
+            "en": "Learn about the region's resistance during the war.",
+            "fr": "Découvrez la résistance de la région pendant la guerre."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Der Aufstieg bietet einen fantastischen Blick über das Dorf.",
             "hu": "A feljutás után fantasztikus kilátás nyílik a falura.",
             "ro": "Urcarea oferă o vedere fantastică asupra satului.",
-            "en": "The climb offers a fantastic view over the village."
+            "en": "The climb offers a fantastic view over the village.",
+            "fr": "La montée offre une vue fantastique sur le village."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Entdecken Sie die Geheimnisse der Höhlenforschung.",
             "hu": "Fedezze fel a barlangkutatás titkait.",
             "ro": "Descoperiți secretele speologiei.",
-            "en": "Discover the secrets of speleology."
+            "en": "Discover the secrets of speleology.",
+            "fr": "Découvrez les secrets de la spéléologie."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Beginnen Sie Ihren Tag an der romanischen Kirche, bevor Sie am Petrarca-Denkmal vorbeischlendern. Der Weg führt Sie zur historischen Papiermühle, wo die Zeit stehen geblieben scheint. Mittags erreichen Sie die beeindruckende Quelle der Sorgue, das smaragdgrüne Herz des Dorfes. Der Nachmittag ist der Geschichte und der geheimnisvollen Unterwelt gewidmet, abgerundet durch den Aufstieg zur Burgruine bei mildem Licht.",
         "hu": "Kezdje a napot a román stílusú templomnál, majd sétáljon el a Petrarca-emlékmű mellett. Az út a történelmi papírmalomhoz vezet, ahol megállt az idő. Délben éri el a Sorgue lenyűgöző forrását, a falu smaragdzöld szívét. A délután a történelemé és a titokzatos földalatti világé, a napot pedig a várromhoz való felkapaszkodás zárja a lágy fényekben.",
         "ro": "Începeți ziua la biserica romanică, apoi treceți pe lângă monumentul lui Petrarca. Drumul vă duce la moara de hârtie istorică, unde timpul pare să stea în loc. La prânz veți ajunge la impresionantul izvor al râului Sorgue, inima de smarald a satului. După-amiaza este dedicată istoriei și lumii subterane misterioase, încheind cu urcarea la ruinele castelului în lumina blândă.",
-        "en": "Start your day at the Romanesque church, then stroll past the Petrarch monument. The path leads to the historical paper mill, where time seems to stand still. At midday, reach the impressive spring of the Sorgue, the emerald heart of the village. The afternoon is dedicated to history and the mysterious underground world, concluding with a climb to the castle ruins in the soft light."
+        "en": "Start your day at the Romanesque church, then stroll past the Petrarch monument. The path leads to the historical paper mill, where time seems to stand still. At midday, reach the impressive spring of the Sorgue, the emerald heart of the village. The afternoon is dedicated to history and the mysterious underground world, concluding with a climb to the castle ruins in the soft light.",
+        "fr": "Commencez votre journée à l'église romane, puis passez devant le monument de Pétrarque. Le sentier mène au moulin à papier historique, où le temps semble s'être arrêté. À midi, atteignez l'impressionnante source de la Sorgue, le cœur émeraude du village. L'après-midi est dédié à l'histoire et au monde souterrain mystérieux, se terminant par une montée aux ruines du château dans la lumière douce du soir."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Provencal Truffles",
             "tip": "Try dishes prepared with local truffles."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Restaurant Philip",
+            "tip": "Savourez de la truite fraîche de la Sorgue au bord de l'eau."
+          },
+          {
+            "name": "Provencal Truffles",
+            "tip": "Goûtez des plats préparés avec des truffes locales."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "Early morning before the tourist crowds.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Berges de la Sorgue",
+            "tip": "Endroit paisible sous les platanes au bord de la rivière.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chemin du Gouffre",
+            "tip": "Tôt le matin avant l'arrivée des touristes.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -281,6 +311,16 @@
             "name": "Lavender Shop",
             "tip": "Authentic Provence products from the region."
           }
+        ],
+        "fr": [
+          {
+            "name": "Boutique Vallis Clausa",
+            "tip": "Papier fait main et sets de papeterie."
+          },
+          {
+            "name": "Lavender Shop",
+            "tip": "Produits authentiques de Provence de la région."
+          }
         ]
       },
       "tips": {
@@ -307,6 +347,12 @@
           "Visit the village during the week to avoid crowds.",
           "The water is ice cold even in summer.",
           "Parking in the village center is difficult and expensive."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour la marche vers le Gouffre.",
+          "Visitez le village en semaine pour éviter la foule.",
+          "L'eau est glacée, même en été.",
+          "Le stationnement au centre du village est difficile et coûteux."
         ]
       }
     },
@@ -431,7 +477,8 @@
         "de": "Radeln Sie durch das malerische Tal zum imposanten Galas-Aquädukt. Danach führt der Weg sanft bergauf zum Dorf, wo Sie die Handwerkskunst der Papiermühle und die mystische Quelle entdecken. Genießen Sie die Freiheit auf zwei Rädern zwischen Geschichte und Natur.",
         "hu": "Kerekezzen a festői völgyben az impozáns Galas-vízvezetékig. Ezután az út enyhén emelkedik a falu felé, ahol felfedezheti a papírmalom kézművességét és a titokzatos forrást. Élvezze a kétkeréken nyújtott szabadságot a történelem és a természet között.",
         "ro": "Pedalați prin valea pitorească până la impunătorul apeduct Galas. Apoi drumul urcă ușor spre sat, unde descoperiți măiestria morii de hârtie și izvorul mistic. Bucurați-vă de libertatea pe două roți între istorie și natură.",
-        "en": "Cycle through the picturesque valley to the imposing Galas aqueduct. Then the path leads gently uphill to the village, where you discover the craftsmanship of the paper mill and the mystical spring. Enjoy the freedom on two wheels between history and nature."
+        "en": "Cycle through the picturesque valley to the imposing Galas aqueduct. Then the path leads gently uphill to the village, where you discover the craftsmanship of the paper mill and the mystical spring. Enjoy the freedom on two wheels between history and nature.",
+        "fr": "Pédalez à travers la vallée pittoresque jusqu'à l'imposant aqueduc de Galas. Ensuite, le chemin monte doucement vers le village, où vous découvrirez l'artisanat du moulin à papier et la source mystique. Profitez de la liberté sur deux roues entre histoire et nature."
       },
       "gastro_picks": {
         "de": [
@@ -456,6 +503,12 @@
           {
             "name": "Boulangerie du Village",
             "tip": "Quiche and fougasse for a picnic by the river."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Quiche et fougasse pour un pique-nique au bord de la rivière."
           }
         ]
       },
@@ -487,6 +540,13 @@
             "tip": "Quiet side paths away from the main road.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Vallée de Vallis Clausa",
+            "tip": "Sentiers secondaires calmes à l'écart de la route principale.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -512,6 +572,12 @@
           {
             "name": "L'Artisanat local",
             "tip": "Small olive wood souvenirs."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Artisanat local",
+            "tip": "Petits souvenirs en bois d'olivier."
           }
         ]
       },
@@ -539,6 +605,12 @@
           "Watch out for hikers on narrow paths.",
           "The road to Galas is quite narrow.",
           "Take plenty of water with you."
+        ],
+        "fr": [
+          "Louez un vélo électrique pour les montées.",
+          "Faites attention aux randonneurs sur les sentiers étroits.",
+          "La route vers Galas est assez étroite.",
+          "Emportez beaucoup d'water avec vous."
         ]
       }
     },
@@ -663,7 +735,8 @@
         "de": "Mit dem Auto erreichen Sie mühelos die entlegeneren Sehenswürdigkeiten wie das Galas-Aquädukt. Im Dorf angekommen, lassen Sie den Wagen stehen und erkunden die smaragdgrüne Quelle und die Museen zu Fuß. Eine ideale Kombination aus Komfort und Entdeckung.",
         "hu": "Autóval könnyedén elérheti a távolabbi látnivalókat is, mint például a Galas-vízvezetéket. A faluba érve hagyja az autót a parkolóban, és fedezze fel gyalogosan a smaragdzöld forrást és a múzeumokat. A kényelem és a felfedezés ideális kombinációja.",
         "ro": "Cu mașina puteți ajunge cu ușurință la obiectivele mai îndepărtate, cum ar fi apeductul Galas. Odată ajunși în sat, lăsați mașina și explorați izvorul de smarald și muzeele pe jos. O combinație ideală între confort și descoperire.",
-        "en": "By car, you can easily reach more distant sights like the Galas aqueduct. Once in the village, leave the car and explore the emerald spring and museums on foot. An ideal combination of comfort and discovery."
+        "en": "By car, you can easily reach more distant sights like the Galas aqueduct. Once in the village, leave the car and explore the emerald spring and museums on foot. An ideal combination of comfort and discovery.",
+        "fr": "En voiture, vous pouvez facilement atteindre des sites plus éloignés comme l'aqueduc de Galas. Une fois au village, laissez la voiture et explorez la source d'émeraude et les musées à pied. Une combinaison idéale de confort et de découverte."
       },
       "gastro_picks": {
         "de": [
@@ -688,6 +761,12 @@
           {
             "name": "L'Isle-sur-la-Sorgue",
             "tip": "Visit the nearby town for a larger selection."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Isle-sur-la-Sorgue",
+            "tip": "Visitez la ville voisine pour un plus grand choix."
           }
         ]
       },
@@ -717,6 +796,13 @@
           {
             "name": "Plateau de Vaucluse",
             "tip": "Viewpoints above the village.",
+            "emoji": "🌅"
+          }
+        ],
+        "fr": [
+          {
+            "name": "Plateau de Vaucluse",
+            "tip": "Points de vue au-dessus du village.",
             "emoji": "🌅"
           }
         ]
@@ -749,6 +835,12 @@
             "name": "Village des Antiquaires",
             "tip": "In nearby L'Isle-sur-la-Sorgue."
           }
+        ],
+        "fr": [
+          {
+            "name": "Village des Antiquaires",
+            "tip": "À L'Isle-sur-la-Sorgue, à proximité."
+          }
         ]
       },
       "tips": {
@@ -775,6 +867,12 @@
           "Access to the village can be congested on weekends.",
           "Roads are narrow.",
           "Refuel before the valley."
+        ],
+        "fr": [
+          "Réservez vos tickets de parking en ligne à l'avance.",
+          "L'accès au village peut être encombré le week-end.",
+          "Les routes sont étroites.",
+          "Faites le plein avant d'entrer dans la vallée."
         ]
       }
     },
@@ -881,7 +979,8 @@
         "de": "Nutzen Sie die Busverbindung von L'Isle-sur-la-Sorgue oder Avignon. Das Dorf ist kompakt genug, um alle wichtigen Highlights zu Fuß von der Haltestelle aus zu erkunden. Ein entspannter Tag ohne Parkplatzsorgen.",
         "hu": "Használja a buszjáratot L'Isle-sur-la-Sorgue-ból vagy Avignonból. A falu elég kicsi ahhoz, hogy a megállóból gyalogosan is felfedezhessünk minden fontos látnivalót. Csendes nap parkolási gondok nélkül.",
         "ro": "Folosiți conexiunea de autobuz din L'Isle-sur-la-Sorgue sau Avignon. Satul este suficient de compact pentru a explora toate punctele importante pe jos de la stație. O zi relaxată fără griji de parcare.",
-        "en": "Use the bus connection from L'Isle-sur-la-Sorgue or Avignon. The village is compact enough to explore all major highlights on foot from the stop. A relaxed day without parking worries."
+        "en": "Use the bus connection from L'Isle-sur-la-Sorgue or Avignon. The village is compact enough to explore all major highlights on foot from the stop. A relaxed day without parking worries.",
+        "fr": "Utilisez la liaison par bus depuis L'Isle-sur-la-Sorgue ou Avignon. Le village est assez compact pour explorer tous les points forts à pied depuis l'arrêt. Une journée détendue sans soucis de stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -906,6 +1005,12 @@
           {
             "name": "Glacier du Village",
             "tip": "Homemade ice cream for the wait time."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Glacier du Village",
+            "tip": "Glace artisanale pour patienter."
           }
         ]
       },
@@ -937,6 +1042,13 @@
             "tip": "Observe the village life.",
             "emoji": "⛲"
           }
+        ],
+        "fr": [
+          {
+            "name": "Fontaine de la Place",
+            "tip": "Observez la vie du village.",
+            "emoji": "⛲"
+          }
         ]
       },
       "shopping_picks": {
@@ -962,6 +1074,12 @@
           {
             "name": "Postcard Shop",
             "tip": "Local motifs."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutique de cartes postales",
+            "tip": "Motifs locaux."
           }
         ]
       },
@@ -989,6 +1107,12 @@
           "Bus 921 is the main line.",
           "Buses can be full in high season.",
           "Buy tickets from the driver."
+        ],
+        "fr": [
+          "Vérifiez attentivement les horaires de retour.",
+          "Le bus 921 est la ligne principale.",
+          "Les bus peuvent être complets en haute saison.",
+          "Achetez vos billets auprès du chauffeur."
         ]
       }
     }

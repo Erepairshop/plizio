@@ -36,7 +36,8 @@
             "de": "Fotografieren Sie das Gebäude von der Brücke aus für die beste Perspektive.",
             "hu": "Fotózza az épületet a hídról a legjobb perspektíva érdekében.",
             "ro": "Fotografiați clădirea de pe pod pentru cea mai bună perspectivă.",
-            "en": "Photograph the building from the bridge for the best perspective."
+            "en": "Photograph the building from the bridge for the best perspective.",
+            "fr": "Photographiez le bâtiment depuis le pont pour la meilleure perspective."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Schlendern Sie durch die Arkaden und genießen Sie den Blumenschmuck.",
             "hu": "Sétáljon az árkádok alatt és csodálja meg a virágdíszeket.",
             "ro": "Plimbați-vă pe sub arcade și admirați decorațiunile florale.",
-            "en": "Stroll under the arcades and enjoy the floral decorations."
+            "en": "Stroll under the arcades and enjoy the floral decorations.",
+            "fr": "Flânez sous les arcades et profitez des décorations florales."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Beachten Sie die barocken Kunstwerke im Inneren der Kathedrale.",
             "hu": "Figyelje meg a katedrális belsejében található barokk műalkotásokat.",
             "ro": "Observați operele de artă barocă din interiorul catedralei.",
-            "en": "Observe the Baroque artworks inside the cathedral."
+            "en": "Observe the Baroque artworks inside the cathedral.",
+            "fr": "Observez les œuvres d'art baroques à l'intérieur de la cathédrale."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Besuchen Sie das Museum für alpine Volkskunst im Schloss.",
             "hu": "Látogasson el a várban található alpesi népművészeti múzeumba.",
             "ro": "Vizitați muzeul de artă populară alpină din castel.",
-            "en": "Visit the museum of Alpine folk art inside the castle."
+            "en": "Visit the museum of Alpine folk art inside the castle.",
+            "fr": "Visitez le musée d'art populaire alpin à l'intérieur du château."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Ein perfekter Ort für ein Picknick mit Blick auf den See.",
             "hu": "Tökéletes hely egy piknikhez, kilátással a tóra.",
             "ro": "Un loc perfect pentru un picnic cu vedere la lac.",
-            "en": "A perfect spot for a picnic with a view of the lake."
+            "en": "A perfect spot for a picnic with a view of the lake.",
+            "fr": "Un endroit parfait pour un pique-nique avec vue sur le lac."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Der romantischste Ort der Stadt für den Abschluss des Tages.",
             "hu": "A város legromantikusabb helye a nap lezárásához.",
             "ro": "Cel mai romantic loc din oraș pentru încheierea zilei.",
-            "en": "The most romantic spot in town to end the day."
+            "en": "The most romantic spot in town to end the day.",
+            "fr": "Le spot le plus romantique de la ville pour terminer la journée."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Beginnen Sie Ihren Morgen am Palais de l'Île, dem Wahrzeichen von Annecy, das majestätisch im Thiou-Kanal thront. Schlendern Sie danach durch die farbenfrohen Gassen der Altstadt und besuchen Sie die Kathedrale Saint-Pierre.\n\nZum Mittagessen bieten die lokalen Bistros in der Nähe des Thiou köstliche Savoyer Spezialitäten. Der anschließende Aufstieg zum Schloss wird mit einer historischen Zeitreise und einem ersten Panoramablick über die Dächer belohnt.\n\nAm Nachmittag entspannen Sie in den weitläufigen Jardins de l'Europe, wo hundertjährige Bäume Schatten spenden und der Blick über das kristallklare Wasser des Sees schweift.\n\nBeenden Sie Ihren Tag an der Pont des Amours, während die Sonne hinter den Bergen versinkt und die Brücke in ein magisches Licht taucht – ein unvergesslicher Moment der Ruhe.",
         "hu": "Kezdje a reggelt a Palais de l'Île-nél, Annecy jelképénél, amely fenségesen trónol a Thiou-csatorna közepén. Ezután sétáljon végig az óváros színes utcáin, és látogassa meg a Szent Péter-székesegyházat.\n\nEbédidőben a Thiou partján található bisztrók ínycsiklandó savoyai különlegességeket kínálnak. A várba vezető séta történelmi időutazással és a háztetők feletti panorámás kilátással ajándékozza meg.\n\nDélután pihenjen meg a tágas Európa-kertekben, ahol százéves fák adnak árnyékot, és a kilátás a tó kristálytiszta vizére nyílik.\n\nZárja a napot a Szerelmesek hídjánál, ahogy a nap lebukik a hegyek mögött, és a híd mágikus fénybe öltözik – ez a nyugalom felejthetetlen pillanata.",
         "ro": "Începeți dimineața la Palais de l'Île, simbolul orașului Annecy, care stă maiestuos în mijlocul canalului Thiou. Apoi, plimbați-vă pe străzile colorate ale orașului vechi și vizitați Catedrala Saint-Pierre.\n\nLa prânz, bistrourile locale de pe malul râului Thiou oferă specialități savoyarde delicioase. Urcarea la castel este răsplătită cu o călătorie istorică în timp și o vedere panoramică peste acoperișuri.\n\nDupă-amiaza, relaxați-vă în vastele Grădini ale Europei, unde copaci seculari oferă umbră, iar privirea plutește peste apele de cristal ale lacului.\n\nÎncheiați ziua la Podul Iubirii, în timp ce soarele apune după munți, scăldând podul într-o lumină magică – un moment de liniște de neuitat.",
-        "en": "Start your morning at the Palais de l'Île, the symbol of Annecy, sitting majestically in the middle of the Thiou canal. Then, stroll through the colorful streets of the Old Town and visit Saint-Pierre Cathedral.\n\nAt lunchtime, local bistros near the Thiou offer delicious Savoyard specialties. The walk up to the castle is rewarded with a historical journey back in time and a panoramic view over the rooftops.\n\nIn the afternoon, relax in the spacious Gardens of Europe, where century-old trees provide shade and the view stretches over the crystal-clear water of the lake.\n\nEnd your day at the Lovers' Bridge as the sun sets behind the mountains, bathing the bridge in a magical light – an unforgettable moment of tranquility."
+        "en": "Start your morning at the Palais de l'Île, the symbol of Annecy, sitting majestically in the middle of the Thiou canal. Then, stroll through the colorful streets of the Old Town and visit Saint-Pierre Cathedral.\n\nAt lunchtime, local bistros near the Thiou offer delicious Savoyard specialties. The walk up to the castle is rewarded with a historical journey back in time and a panoramic view over the rooftops.\n\nIn the afternoon, relax in the spacious Gardens of Europe, where century-old trees provide shade and the view stretches over the crystal-clear water of the lake.\n\nEnd your day at the Lovers' Bridge as the sun sets behind the mountains, bathing the bridge in a magical light – an unforgettable moment of tranquility.",
+        "fr": "Commencez votre matinée au Palais de l'Île, le symbole d'Annecy, trônant majestueusement au milieu du canal du Thiou. Ensuite, flânez dans les rues colorées de la Vieille Ville et visitez la Cathédrale Saint-Pierre.\n\nÀ l'heure du déjeuner, les bistrots locaux près du Thiou proposent de délicieuses spécialités savoyardes. La montée vers le château est récompensée par un voyage historique dans le temps et une vue panoramique sur les toits.\n\nL'après-midi, détendez-vous dans les spacieux Jardins de l'Europe, où des arbres centenaires offrent de l'ombre et une vue imprenable sur les eaux cristallines du lac.\n\nTerminez votre journée au Pont des Amours alors que le soleil se couche derrière les montagnes, baignant le pont d'une lumière magique – un moment de tranquillité inoubliable."
       },
       "gastro_picks": {
         "de": [
@@ -216,6 +223,20 @@
           {
             "name": "Le Glacier des Alpes",
             "tip": "The best artisanal ice cream in town in the Old Town."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Tartiflette",
+            "tip": "Goûtez ce plat classique à base de pommes de terre au restaurant L'Étage."
+          },
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Un incontournable à l'Auberge de Savoie sur les rives du Thiou."
+          },
+          {
+            "name": "Le Glacier des Alpes",
+            "tip": "Les meilleures glaces artisanales de la Vieille Ville."
           }
         ]
       },
@@ -287,6 +308,23 @@
             "tip": "Silence and reflection in the old church.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Le Pâquier",
+            "tip": "Grande pelouse au bord du lac, idéale pour le coucher du soleil.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Île sur le Thiou",
+            "tip": "Un moment de calme au bord de l'eau clapotante.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saint-François de Sales",
+            "tip": "Silence et recueillement dans la vieille église.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -329,6 +367,16 @@
             "name": "Au Fidèle Berger",
             "tip": "Exquisite chocolate and traditional pastry shop."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché hebdomadaire",
+            "tip": "Mardi et vendredi dans la Vieille Ville pour les fromages et charcuteries."
+          },
+          {
+            "name": "Au Fidèle Berger",
+            "tip": "Chocolaterie et pâtisserie traditionnelle exquise."
+          }
         ]
       },
       "tips": {
@@ -359,6 +407,13 @@
           "Downtown parking is limited; use park-and-ride facilities.",
           "Be sure to book restaurants in advance during peak season.",
           "Don't forget your camera; Annecy is extremely photogenic."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les rues pavées de la Vieille Ville.",
+          "Visitez le marché tôt le matin pour éviter la foule.",
+          "Le stationnement en centre-ville est limité ; utilisez les parkings relais.",
+          "Pensez à réserver vos restaurants à l'avance pendant la haute saison.",
+          "N'oubliez pas votre appareil photo ; Annecy est extrêmement photogénique."
         ]
       },
       "variants": {
@@ -661,7 +716,8 @@
             "de": "Ein regnerischer Morgen in Annecy beginnt am stimmungsvollen Palais de l'Île, wo der Regen auf den Thiou klatscht. Mittags bieten die mittelalterlichen Arkaden der Altstadt perfekten Schutz für einen gemütlichen Bummel. Nachmittags erkunden wir das Schlossmuseum, um trocken zu bleiben. Der Tag endet mit einem romantischen Spaziergang unter dem Regenschirm an der Uferpromenade.",
             "hu": "Az esős délelőtt Annecy-ban a Palais de l'Île misztikus látványával indul a Thiou-csatorna partján. Délben a középkori óváros árkádjai nyújtanak menedéket a sétához. Délután a várkastély múzeuma ideális választás a csapadék elől. Az estét egy esernyős séta zárja a tóparton, ahol a fények gyönyörűen tükröződnek a vizes aszfalton.",
             "ro": "O dimineață ploioasă în Annecy începe la Palais de l'Île, unde picăturile creează cercuri pe canalul Thiou. La prânz, arcadele medievale din centrul vechi oferă adăpostul perfect pentru plimbare. După-amiaza este dedicată muzeului din castel pentru a rămâne la adăpost. Seara se încheie cu o plimbare romantică sub umbrelă pe malul lacului.",
-            "en": "A rainy morning in Annecy starts at the atmospheric Palais de l'Île, with the rain dancing on the Thiou canal. At noon, the medieval arcades of the Old Town provide perfect shelter for a dry stroll. In the afternoon, explore the Castle museum to stay out of the wet. The day ends with a romantic umbrella walk along the lakefront, watching the lights reflect."
+            "en": "A rainy morning in Annecy starts at the atmospheric Palais de l'Île, with the rain dancing on the Thiou canal. At noon, the medieval arcades of the Old Town provide perfect shelter for a dry stroll. In the afternoon, explore the Castle museum to stay out of the wet. The day ends with a romantic umbrella walk along the lakefront, watching the lights reflect.",
+            "fr": "Une matinée pluvieuse à Annecy commence au Palais de l'Île, avec la pluie dansant sur le canal du Thiou. À midi, les arcades médiévales de la Vieille Ville offrent un abri parfait pour une promenade au sec. L'après-midi, explorez le musée du Château pour rester à l'abri. La journée se termine par une balade romantique sous un parapluie le long du lac, en regardant les lumières se refléter."
           },
           "stops": [
             {
@@ -670,7 +726,8 @@
                 "de": "Die Steinmauern wirken im Regen besonders düster und fotogen.",
                 "hu": "Az esőben a kövek sötétebb tónusa még középkoribb hangulatot áraszt.",
                 "ro": "Zidurile de piatră par mai dramatice și fotogenice sub ploaie.",
-                "en": "The stone walls look particularly moody and photogenic in the rain."
+                "en": "The stone walls look particularly moody and photogenic in the rain.",
+                "fr": "Les murs en pierre ont un aspect mélancolique et photogénique sous la pluie."
               }
             },
             {
@@ -679,7 +736,8 @@
                 "de": "Nutzen Sie die historischen Arkadengänge, um trocken zu bleiben.",
                 "hu": "Használja a történelmi árkádsorokat, hogy szárazon maradjon a séta alatt.",
                 "ro": "Folosiți arcadele istorice pentru a rămâne uscat în timpul plimbării.",
-                "en": "Use the historical arcades to stay dry while exploring the streets."
+                "en": "Use the historical arcades to stay dry while exploring the streets.",
+                "fr": "Utilisez les arcades historiques pour rester au sec tout en explorant les rues."
               }
             },
             {
@@ -688,7 +746,8 @@
                 "de": "Ein ruhiger Ort, um den stärksten Regenschauer abzuwarten.",
                 "hu": "Csendes hely, ideális a nagyobb záporok átvészeléséhez.",
                 "ro": "Un loc liniștit pentru a aștepta trecerea unei averse puternice.",
-                "en": "A quiet place to wait out the heaviest rain showers."
+                "en": "A quiet place to wait out the heaviest rain showers.",
+                "fr": "Un endroit calme pour attendre que les plus grosses averses passent."
               }
             },
             {
@@ -697,7 +756,8 @@
                 "de": "Die Innenräume des Museums bieten stundenlangen Schutz vor Nässe.",
                 "hu": "A múzeum belső terei órákig tartó védelmet nyújtanak az eső elől.",
                 "ro": "Interioarele muzeului oferă ore de adăpost împotriva umezelii.",
-                "en": "The museum interiors offer hours of shelter from the wet weather."
+                "en": "The museum interiors offer hours of shelter from the wet weather.",
+                "fr": "Les intérieurs du musée offrent des heures d'abri contre l'humidité."
               }
             },
             {
@@ -706,7 +766,8 @@
                 "de": "Die riesigen Mammutbäume dienen als natürlicher Regenschutz.",
                 "hu": "A hatalmas mamutfenyők lombja természetes ernyőként funkcionál.",
                 "ro": "Sequoile uriașe servesc drept protecție naturală împotriva ploii.",
-                "en": "The giant sequoias serve as natural rain protection."
+                "en": "The giant sequoias serve as natural rain protection.",
+                "fr": "Les séquoias géants servent de protection naturelle contre la pluie."
               }
             },
             {
@@ -715,7 +776,8 @@
                 "de": "Vorsicht, das Metallgeländer kann bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a fém korlátok és a padló nedvesen csúszós lehet.",
                 "ro": "Atenție, balustrada metalică poate fi alunecoasă când este udă.",
-                "en": "Careful, the bridge surface can be slippery when wet."
+                "en": "Careful, the bridge surface can be slippery when wet.",
+                "fr": "Attention, la surface du pont peut être glissante lorsqu'elle est mouillée."
               }
             }
           ],
@@ -747,6 +809,13 @@
               "Many Old Town cafes have heated outdoor areas with awnings.",
               "Pick up a sturdy umbrella from one of the local boutiques.",
               "The misty lake views are exceptionally mystical during rainfall."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables car les pavés ont tendance à former des flaques.",
+              "Les arcades de la rue Sainte-Claire sont votre meilleur atout pour rester au sec.",
+              "De nombreux cafés de la Vieille Ville ont des terrasses chauffées avec des stores.",
+              "Achetez un parapluie robuste dans l'une des boutiques locales.",
+              "La vue sur le lac brumeux est particulièrement mystique par temps de pluie."
             ]
           }
         },
@@ -755,7 +824,8 @@
             "de": "Ein frostiger Wintermorgen am Palais de l'Île, umgeben von schneebedeckten Gipfeln. Mittags wärmen wir uns in der Altstadt bei einem traditionellen Käsefondue auf. Der Nachmittag im Schloss bietet Kultur und Schutz vor der kalten 'Bise'. Zum frühen Sonnenuntergang gegen 17:00 Uhr glitzert der See in der klaren Winterluft an der Liebesbrücke.",
             "hu": "Deres téli reggel a Palais de l'Île körül, a háttérben havas hegycsúcsokkal. Délben az óvárosban egy forró sajtfondüvel melegedhetünk fel. A délutáni várnézés védelmet nyújt a metsző tavi szél ellen. A korai, délután 5 órai naplemente idején a tó és a hidak fényei varázslatosak a kristálytiszta levegőben.",
             "ro": "O dimineață geroasă de iarnă la Palais de l'Île, încadrat de vârfuri înzăpezite. La prânz, ne încălzim în centrul vechi cu un fondue tradițional de brânză. După-amiaza la castel oferă cultură și protecție împotriva vântului rece. La apusul devreme de la ora 17:00, lacul strălucește în aerul curat de iarnă.",
-            "en": "A frosty winter morning at Palais de l'Île, framed by snow-capped peaks. At noon, warm up in the Old Town with a traditional cheese fondue. The afternoon at the Castle offers culture and shelter from the cold 'Bise' wind. During the early 5 PM sunset, the lake sparkles in the crisp winter air at Lovers Bridge."
+            "en": "A frosty winter morning at Palais de l'Île, framed by snow-capped peaks. At noon, warm up in the Old Town with a traditional cheese fondue. The afternoon at the Castle offers culture and shelter from the cold 'Bise' wind. During the early 5 PM sunset, the lake sparkles in the crisp winter air at Lovers Bridge.",
+            "fr": "Un matin d'hiver givré au Palais de l'Île, encadré par des sommets enneigés. À midi, réchauffez-vous dans la Vieille Ville avec une fondue au fromage traditionnelle. L'après-midi au Château offre culture et abri contre la bise glaciale. Lors du coucher de soleil précoce vers 17h, le lac scintille dans l'air vif de l'hiver au Pont des Amours."
           },
           "stops": [
             {
@@ -764,7 +834,8 @@
                 "de": "Achten Sie auf Glatteis auf den Brücken am frühen Morgen.",
                 "hu": "Kora reggel figyeljen a hidakon kialakuló jegesedésre.",
                 "ro": "Atenție la gheața de pe poduri la primele ore ale dimineții.",
-                "en": "Watch out for black ice on the bridges in the early morning."
+                "en": "Watch out for black ice on the bridges in the early morning.",
+                "fr": "Faites attention au verglas sur les ponts tôt le matin."
               }
             },
             {
@@ -773,7 +844,8 @@
                 "de": "Probieren Sie heiße Maronen von den Straßenverkäufern.",
                 "hu": "Kóstolja meg a sült gesztenyét az utcai árusoknál.",
                 "ro": "Gustați castane coapte de la vânzătorii ambulanți.",
-                "en": "Try some roasted chestnuts from the street vendors."
+                "en": "Try some roasted chestnuts from the street vendors.",
+                "fr": "Dégustez des marrons chauds vendus par les marchands ambulants."
               }
             },
             {
@@ -782,7 +854,8 @@
                 "de": "Die dicken Mauern halten die Kälte erstaunlich gut ab.",
                 "hu": "A vastag falak meglepően jól távol tartják a kinti hideget.",
                 "ro": "Zidurile groase țin frigul la distanță destul de bine.",
-                "en": "The thick walls keep the outside cold away surprisingly well."
+                "en": "The thick walls keep the outside cold away surprisingly well.",
+                "fr": "Les murs épais gardent étonnamment bien le froid extérieur à distance."
               }
             },
             {
@@ -791,7 +864,8 @@
                 "de": "Genießen Sie den Blick auf den verschneiten Mont Veyrier von oben.",
                 "hu": "Élvezze a kilátást a havas Mont Veyrier-re a várfalakról.",
                 "ro": "Bucurați-vă de vederea spre Mont Veyrier înzăpezit de sus.",
-                "en": "Enjoy the view of the snow-covered Mont Veyrier from the top."
+                "en": "Enjoy the view of the snow-covered Mont Veyrier from the top.",
+                "fr": "Profitez de la vue sur le Mont Veyrier enneigé depuis le sommet."
               }
             },
             {
@@ -800,7 +874,8 @@
                 "de": "Die kahlen Bäume geben den Blick auf den gesamten See frei.",
                 "hu": "A kopasz fák közül ilyenkor az egész tó belátható.",
                 "ro": "Copacii desfrunziți permit o vedere panoramică asupra lacului.",
-                "en": "The bare trees allow for an unobstructed view of the lake."
+                "en": "The bare trees allow for an unobstructed view of the lake.",
+                "fr": "Les arbres dénudés permettent une vue dégagée sur le lac."
               }
             },
             {
@@ -809,7 +884,8 @@
                 "de": "Perfekter Ort für Fotos zur 'Blauen Stunde' gegen 16:30 Uhr.",
                 "hu": "Tökéletes helyszín fotózáshoz a kék órában, 16:30 körül.",
                 "ro": "Loc perfect pentru fotografii la ora albastră, în jur de 16:30.",
-                "en": "Perfect spot for photos during the blue hour around 4:30 PM."
+                "en": "Perfect spot for photos during the blue hour around 4:30 PM.",
+                "fr": "Spot parfait pour les photos pendant l'heure bleue vers 16h30."
               }
             }
           ],
@@ -841,6 +917,13 @@
               "Hot drinks like 'Vin Chaud' are available throughout the Old Town.",
               "Sturdy shoes with thick soles help against the cold ground.",
               "Visit the Christmas market if you are there in December."
+            ],
+            "fr": [
+              "La superposition de vêtements est obligatoire à cause du vent du lac (la bise).",
+              "Le soleil disparaît tôt derrière les montagnes, planifiez en conséquence.",
+              "Des boissons chaudes comme le vin chaud sont disponibles dans toute la Vieille Ville.",
+              "Des chaussures robustes avec des semelles épaisses aident contre le sol froid.",
+              "Visitez le marché de Noël si vous y êtes en décembre."
             ]
           }
         }
@@ -874,7 +957,8 @@
             "de": "Bester Startpunkt für die Radtour entlang des Sees.",
             "hu": "Legjobb kiindulópont a tó körüli biciklitúrához.",
             "ro": "Cel mai bun punct de plecare pentru turul cu bicicleta pe malul lacului.",
-            "en": "Best starting point for the bike tour along the lake."
+            "en": "Best starting point for the bike tour along the lake.",
+            "fr": "Meilleur point de départ pour le tour du lac à vélo."
           }
         },
         {
@@ -897,7 +981,8 @@
             "de": "Bewundern Sie die Architektur des Hotels und die gepflegten Gärten.",
             "hu": "Csodálja meg a hotel építészetét és a gondozott kerteket.",
             "ro": "Admirați arhitectura hotelului și grădinile bine întreținute.",
-            "en": "Admire the hotel's architecture and the manicured gardens."
+            "en": "Admire the hotel's architecture and the manicured gardens.",
+            "fr": "Admirez l'architecture de l'hôtel et les jardins soignés."
           }
         },
         {
@@ -920,7 +1005,8 @@
             "de": "Ein erfrischendes Bad im saubersten See Europas.",
             "hu": "Frissítő mártózás Európa legtisztább tavában.",
             "ro": "O baie răcoritoare în cel mai curat lac din Europa.",
-            "en": "A refreshing dip in the cleanest lake in Europe."
+            "en": "A refreshing dip in the cleanest lake in Europe.",
+            "fr": "Un plongeon rafraîchissant dans le lac le plus pur d'Europe."
           }
         },
         {
@@ -943,7 +1029,8 @@
             "de": "Genießen Sie den Blick auf das gegenüberliegende Ufer.",
             "hu": "Élvezze a szemközti partra nyíló kilátást.",
             "ro": "Bucurați-vă de vederea spre malul opus.",
-            "en": "Enjoy the view of the opposite shore."
+            "en": "Enjoy the view of the opposite shore.",
+            "fr": "Profitez de la vue sur la rive opposée."
           }
         },
         {
@@ -966,7 +1053,8 @@
             "de": "Beenden Sie den Tag in einem Bistro direkt am Wasser.",
             "hu": "Zárja a napot egy közvetlenül a vízparton lévő bisztróban.",
             "ro": "Încheiați ziua într-un bistrou chiar pe malul apei.",
-            "en": "End the day at a bistro right on the water."
+            "en": "End the day at a bistro right on the water.",
+            "fr": "Terminez la journée dans un bistrot directement au bord de l'eau."
           }
         }
       ],
@@ -974,7 +1062,8 @@
         "de": "Schalten Sie einen Gang höher und erkunden Sie den See von Annecy auf zwei Rädern. Ihr Abenteuer beginnt an der Pont des Amours, dem Tor zu den Uferwegen.\n\nRadeln Sie vorbei am prächtigen Impérial Palace und genießen Sie die kühle Brise. Zur Mittagszeit lädt der Strand von Albigny zu einer langen Pause und einem Picknick im Gras ein.\n\nAm Nachmittag führt Sie der Weg weiter nach Veyrier-du-Lac, wo Sie die Ruhe abseits der Stadtmassen finden und den Panoramablick auf die Savoyer Alpen genießen können.\n\nDer Rückweg über Sevrier bietet fantastische Ausblicke auf den Sonnenuntergang über dem See, bevor Sie entspannt Ihren Tag ausklingen lassen.",
         "hu": "Váltson sebességet és fedezze fel az Annecy-tavat két keréken. A kaland a Szerelmesek hídjánál kezdődik, amely a tóparti utak kapuja.\n\nBiciklizzen el a pompás Impérial Palace mellett, élvezve a hűvös szellőt. Ebédidőben az Albigny strand hívogat egy hosszú pihenőre és egy füvön elfogyasztott piknikre.\n\nDélután az út Veyrier-du-Lac felé vezet, ahol a városi tömegtől távol találhat nyugalmat és élvezheti a Savoyai-Alpok panorámáját.\n\nA Sevrier felé vezető visszavezető út fantasztikus kilátást nyújt a tó feletti naplementére, mielőtt nyugodtan befejezné a napot.",
         "ro": "Schimbați viteza și explorați Lacul Annecy pe două roți. Aventura începe la Podul Iubirii, poarta către potecile de pe malul lacului.\n\nPedalați pe lângă magnificul Palat Impérial și bucurați-vă de briza răcoroasă. La prânz, plaja Albigny vă invită la o pauză lungă și un picnic pe iarbă.\n\nDupă-amiaza, drumul vă duce spre Veyrier-du-Lac, unde veți găsi liniște departe de aglomerația orașului și veți admira panorama Alpilor Savoiei.\n\nDrumul de întoarcere prin Sevrier oferă vederi fantastice asupra apusului peste lac, înainte de a încheia ziua relaxat.",
-        "en": "Gear up and explore Lake Annecy on two wheels. Your adventure begins at the Lovers' Bridge, the gateway to the lakeside paths.\n\nCycle past the magnificent Imperial Palace and enjoy the cool breeze. At lunchtime, Albigny beach invites you for a long break and a picnic on the grass.\n\nIn the afternoon, the path leads you to Veyrier-du-Lac, where you can find peace away from the city crowds and enjoy the panoramic view of the Savoy Alps.\n\nThe return route via Sevrier offers fantastic views of the sunset over the lake before you end your day relaxed."
+        "en": "Gear up and explore Lake Annecy on two wheels. Your adventure begins at the Lovers' Bridge, the gateway to the lakeside paths.\n\nCycle past the magnificent Imperial Palace and enjoy the cool breeze. At lunchtime, Albigny beach invites you for a long break and a picnic on the grass.\n\nIn the afternoon, the path leads you to Veyrier-du-Lac, where you can find peace away from the city crowds and enjoy the panoramic view of the Savoy Alps.\n\nThe return route via Sevrier offers fantastic views of the sunset over the lake before you end your day relaxed.",
+        "fr": "Équipez-vous et explorez le lac d'Annecy sur deux roues. Votre aventure commence au Pont des Amours, la porte d'entrée des sentiers riverains.\n\nPédalez devant le magnifique Imperial Palace et profitez de la brise fraîche. À l'heure du déjeuner, la plage d'Albigny vous invite à une longue pause et un pique-nique sur l'herbe.\n\nL'après-midi, le sentier vous mène à Veyrier-du-Lac, où vous pourrez trouver la paix loin de la foule urbaine et profiter de la vue panoramique sur les Alpes savoyardes.\n\nL'itinéraire de retour via Sevrier offre des vues fantastiques sur le coucher de soleil sur le lac avant de terminer votre journée en toute détente."
       },
       "gastro_picks": {
         "de": [
@@ -1015,6 +1104,16 @@
           {
             "name": "Reblochon",
             "tip": "Buy this typical cheese for a picnic by the beach."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Féra du lac",
+            "tip": "Goûtez le poisson fraîchement pêché au restaurant L'Oasis."
+          },
+          {
+            "name": "Reblochon",
+            "tip": "Achetez ce fromage typique pour un pique-nique au bord de la plage."
           }
         ]
       },
@@ -1066,6 +1165,18 @@
             "tip": "Nature watching in silence.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Rive de Veyrier",
+            "tip": "Endroit calme loin des foules touristiques.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marais de Sevrier",
+            "tip": "Observation de la nature en plein silence.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1091,6 +1202,12 @@
           {
             "name": "Vélostation",
             "tip": "Bike accessories and local maps for cyclists."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Vélostation",
+            "tip": "Accessoires de vélo et cartes locales pour les cyclistes."
           }
         ]
       },
@@ -1122,6 +1239,13 @@
           "Watch out for pedestrians in mixed zones.",
           "Take plenty of water and sunscreen with you.",
           "An e-bike is ideal if you want to climb the surrounding hills."
+        ],
+        "fr": [
+          "Louez votre vélo tôt chez Vélonecy près de la gare.",
+          "Empruntez la Voie Verte, la piste cyclable sur la rive ouest du lac.",
+          "Faites attention aux piétons dans les zones mixtes.",
+          "Emportez beaucoup d'eau et de la crème solaire.",
+          "Un vélo électrique est idéal si vous souhaitez grimper sur les collines environnantes."
         ]
       },
       "variants": {
@@ -1358,7 +1482,8 @@
             "de": "Eine erfrischende Radtour trotz Regen entlang der Promenade. Mittags bietet das Imperial Palace Schutz für eine kurze Pause. Albigny Beach wirkt im Regen verlassen und weitläufig. Am Nachmittag radeln wir durch den Nebel nach Veyrier, bevor wir uns in Sevrier bei einem warmen Snack aufwärmen.",
             "hu": "Frissítő kerékpározás az esőben a tóparti sétány mentén. Délben az Imperial Palace nyújt rövid menedéket a pihenőhöz. Az Albigny strand ilyenkor elhagyatott és hatalmasnak tűnik. Délután a ködben tekerünk Veyrier felé, majd Sevrier-ben melegszünk fel egy falat mellett.",
             "ro": "O tură revigorantă cu bicicleta pe ploaie de-a lungul promenadei. La prânz, Imperial Palace oferă adăpost pentru o scurtă pauză. Plaja Albigny pare pustie și vastă sub ploaie. După-amiaza pedalăm prin ceață spre Veyrier, înainte de a ne încălzi în Sevrier.",
-            "en": "A refreshing bike ride despite the rain along the lake promenade. At noon, the Imperial Palace offers shelter for a short break. Albigny Beach looks deserted and vast in the rain. In the afternoon, cycle through the mist towards Veyrier before warming up in Sevrier."
+            "en": "A refreshing bike ride despite the rain along the lake promenade. At noon, the Imperial Palace offers shelter for a short break. Albigny Beach looks deserted and vast in the rain. In the afternoon, cycle through the mist towards Veyrier before warming up in Sevrier.",
+            "fr": "Une balade à vélo rafraîchissante malgré la pluie le long de la promenade du lac. À midi, l'Imperial Palace offre un abri pour une courte pause. La plage d'Albigny semble déserte et immense sous la pluie. L'après-midi, pédalez dans la brume vers Veyrier avant de vous réchauffer à Sevrier."
           },
           "stops": [
             {
@@ -1367,7 +1492,8 @@
                 "de": "Steigen Sie auf der Brücke ab, der Boden ist sehr rutschig.",
                 "hu": "A hídon szálljon le a bicikliről, a felület nagyon csúszós.",
                 "ro": "Coborâți de pe bicicletă pe pod, suprafața este foarte alunecoasă.",
-                "en": "Dismount on the bridge, the surface is very slippery."
+                "en": "Dismount on the bridge, the surface is very slippery.",
+                "fr": "Descendez du vélo sur le pont, la surface est très glissante."
               }
             },
             {
@@ -1376,7 +1502,8 @@
                 "de": "Die großen Bäume bieten Schutz beim Sichern der Räder.",
                 "hu": "A nagy fák védelmet nyújtanak, amíg lezárja a bringát.",
                 "ro": "Copacii mari oferă adăpost în timp ce asigurați bicicletele.",
-                "en": "Large trees provide cover while locking up your bikes."
+                "en": "Large trees provide cover while locking up your bikes.",
+                "fr": "Les grands arbres offrent une couverture pendant que vous attachez vos vélos."
               }
             },
             {
@@ -1385,7 +1512,8 @@
                 "de": "Wiesen können bei Regen matschig sein, bleiben Sie auf dem Weg.",
                 "hu": "A fű esőben sáros lehet, maradjon a kiépített úton.",
                 "ro": "Iarba poate fi noroioasă, rămâneți pe drumul pavat.",
-                "en": "Grass can be muddy, stay on the paved cycle path."
+                "en": "Grass can be muddy, stay on the paved cycle path.",
+                "fr": "L'herbe peut être boueuse, restez sur la piste cyclable goudronnée."
               }
             },
             {
@@ -1394,7 +1522,8 @@
                 "de": "Vorsicht vor schnellen Autos, die Gischt aufwirbeln.",
                 "hu": "Vigyázzon a gyors autókra, amelyek felverik a vizet.",
                 "ro": "Atenție la mașinile rapide care pot stropi cu apă.",
-                "en": "Watch out for fast cars kicking up spray on the road sections."
+                "en": "Watch out for fast cars kicking up spray on the road sections.",
+                "fr": "Attention aux voitures rapides qui projettent de l'eau sur les sections de route."
               }
             },
             {
@@ -1403,7 +1532,8 @@
                 "de": "Nutzen Sie die überdachten Plätze am Hafen für eine Pause.",
                 "hu": "Használja a kikötő fedett részeit egy rövid pihenőhöz.",
                 "ro": "Folosiți spațiile acoperite din port pentru o pauză.",
-                "en": "Use the covered areas at the harbor for a dry break."
+                "en": "Use the covered areas at the harbor for a dry break.",
+                "fr": "Utilisez les zones couvertes du port pour une pause au sec."
               }
             }
           ],
@@ -1435,6 +1565,13 @@
               "Wear a high-visibility rain jacket for better safety.",
               "Check your brakes before the descent towards Veyrier.",
               "Dry gloves will make the ride much more comfortable."
+            ],
+            "fr": [
+              "Des vélos avec garde-boue sont essentiels par ce temps.",
+              "Évitez les freinages brusques sur le bitume mouillé.",
+              "Portez une veste de pluie haute visibilité pour plus de sécurité.",
+              "Vérifiez vos freins avant la descente vers Veyrier.",
+              "Des gants secs rendront la balade beaucoup plus confortable."
             ]
           }
         },
@@ -1443,7 +1580,8 @@
             "de": "Start an der Liebesbrücke in der klaren Morgenkälte. Die Fahrt zum Imperial Palace bietet einen Panoramablick auf die schneebedeckten Alpen. Albigny Beach ist nun ein Ort der Stille. Am Nachmittag radeln wir gut eingepackt nach Veyrier und genießen zum Abschluss heißen Kakao in Sevrier.",
             "hu": "Indulás a Liebesbrücke-től a kristálytiszta reggeli hidegben. Az Imperial Palace felé tartva panorámás kilátás nyílik a havas Alpokra. Az Albigny strand ilyenkor a csend szigete. Délután jól felöltözve tekerünk Veyrier-be, majd egy forró kakaóval zárjuk a napot Sevrier-ben.",
             "ro": "Start de la Podul Iubiților în frigul clar al dimineții. Drumul spre Imperial Palace oferă o vedere panoramică spre Alpii înzăpeziți. Plaja Albigny este acum un loc al liniștii. După-amiaza pedalăm bine îmbrăcați spre Veyrier și savurăm o cacao fierbinte în Sevrier.",
-            "en": "Start at Lovers Bridge in the clear morning chill. The ride to Imperial Palace offers panoramic views of the snowy Alps. Albigny Beach is now a sanctuary of silence. In the afternoon, cycle well-wrapped to Veyrier and finish with hot cocoa in Sevrier."
+            "en": "Start at Lovers Bridge in the clear morning chill. The ride to Imperial Palace offers panoramic views of the snowy Alps. Albigny Beach is now a sanctuary of silence. In the afternoon, cycle well-wrapped to Veyrier and finish with hot cocoa in Sevrier.",
+            "fr": "Commencez au Pont des Amours dans la fraîcheur matinale. Le trajet vers l'Imperial Palace offre des vues panoramiques sur les Alpes enneigées. La plage d'Albigny est désormais un sanctuaire de silence. L'après-midi, pédalez bien emmitouflé jusqu'à Veyrier et finissez avec un chocolat chaud à Sevrier."
           },
           "stops": [
             {
@@ -1452,7 +1590,8 @@
                 "de": "Metallteile können bei Frost extrem kalt und glatt sein.",
                 "hu": "A fém részek fagyban rendkívül hidegek és csúszósak lehetnek.",
                 "ro": "Elementele metalice pot fi extrem de reci și alunecoase la îngheț.",
-                "en": "Metal parts can be extremely cold and slippery during frost."
+                "en": "Metal parts can be extremely cold and slippery during frost.",
+                "fr": "Les parties métalliques peuvent être extrêmement froides et glissantes en cas de gel."
               }
             },
             {
@@ -1461,7 +1600,8 @@
                 "de": "Die Sonne erreicht diesen Parkabschnitt am späten Vormittag.",
                 "hu": "A nap késő délelőtt éri el ezt a parkrészt.",
                 "ro": "Soarele ajunge în această parte a parcului târziu dimineața.",
-                "en": "The sun reaches this part of the park in the late morning."
+                "en": "The sun reaches this part of the park in the late morning.",
+                "fr": "Le soleil atteint cette partie du parc en fin de matinée."
               }
             },
             {
@@ -1470,7 +1610,8 @@
                 "de": "Perfekter Ort, um den Raureif auf dem Schilf zu fotografieren.",
                 "hu": "Tökéletes hely a nádon lévő zúzmara fotózásához.",
                 "ro": "Loc perfect pentru a fotografia chiciura de pe trestie.",
-                "en": "Perfect spot to photograph the hoarfrost on the reeds."
+                "en": "Perfect spot to photograph the hoarfrost on the reeds.",
+                "fr": "Spot parfait pour photographier le givre sur les roseaux."
               }
             },
             {
@@ -1479,7 +1620,8 @@
                 "de": "Schattige Abschnitte können den ganzen Tag vereist bleiben.",
                 "hu": "Az árnyékos részek egész nap jegesek maradhatnak.",
                 "ro": "Secțiunile umbrite pot rămâne înghețate toată ziua.",
-                "en": "Shaded sections can remain icy throughout the day."
+                "en": "Shaded sections can remain icy throughout the day.",
+                "fr": "Les sections ombragées peuvent rester verglacées toute la journée."
               }
             },
             {
@@ -1488,7 +1630,8 @@
                 "de": "Suchen Sie ein Café mit Seeblick für die Aufwärmpause.",
                 "hu": "Keressen egy tóra néző kávézót a felmelegedéshez.",
                 "ro": "Căutați o cafenea cu vedere la lac pentru a vă încălzi.",
-                "en": "Look for a cafe with a lake view for your warming break."
+                "en": "Look for a cafe with a lake view for your warming break.",
+                "fr": "Cherchez un café avec vue sur le lac pour votre pause réchauffante."
               }
             }
           ],
@@ -1520,6 +1663,13 @@
               "Wear windproof clothing, especially covering your chest.",
               "Cycle paths are mostly cleared, but watch out for frost.",
               "A thermos of tea in your bottle cage helps fight the cold."
+            ],
+            "fr": [
+              "Le refroidissement éolien vous refroidit extrêmement vite par températures négatives.",
+              "Assurez-vous d'avoir des feux fonctionnels car il fait nuit dès 16h30.",
+              "Portez des vêtements coupe-vent, couvrant particulièrement le torse.",
+              "Les pistes cyclables sont pour la plupart dégagées, mais attention au givre.",
+              "Un thermos de thé dans votre porte-bidon aide à lutter contre le froid."
             ]
           }
         }
@@ -1553,7 +1703,8 @@
             "de": "Parken Sie im Parkhaus Hôtel de Ville für direkten Zugang.",
             "hu": "Parkoljon a Városháza melletti parkolóházban a közvetlen bejutáshoz.",
             "ro": "Parcați în parcarea supraetajată Hôtel de Ville pentru acces direct.",
-            "en": "Park in the Hôtel de Ville parking garage for direct access."
+            "en": "Park in the Hôtel de Ville parking garage for direct access.",
+            "fr": "Garez-vous au parking de l'Hôtel de Ville pour un accès direct."
           }
         },
         {
@@ -1576,7 +1727,8 @@
             "de": "Genießen Sie den weiten Blick über die Stadt vom Vorplatz aus.",
             "hu": "Élvezze a városra nyíló széles kilátást a templom előtti térről.",
             "ro": "Bucurați-vă de vederea largă asupra orașului de pe esplanadă.",
-            "en": "Enjoy the wide view over the city from the forecourt."
+            "en": "Enjoy the wide view over the city from the forecourt.",
+            "fr": "Profitez de la vue imprenable sur la ville depuis le parvis."
           }
         },
         {
@@ -1599,7 +1751,8 @@
             "de": "Ein spektakulärer Steg über einen tiefen Canyon.",
             "hu": "Látványos függőfolyosó egy mély kanyon felett.",
             "ro": "O pasarelă spectaculoasă peste un canion adânc.",
-            "en": "A spectacular footbridge over a deep canyon."
+            "en": "A spectacular footbridge over a deep canyon.",
+            "fr": "Une passerelle spectaculaire au-dessus d'un canyon profond."
           }
         },
         {
@@ -1622,7 +1775,8 @@
             "de": "Dieses Märchenschloss soll Disney inspiriert haben.",
             "hu": "Úgy tartják, ez a mesebeli vár ihlette Disney-t.",
             "ro": "Se spune că acest castel de basm l-a inspirat pe Disney.",
-            "en": "This fairy-tale castle is said to have inspired Disney."
+            "en": "This fairy-tale castle is said to have inspired Disney.",
+            "fr": "Ce château de conte de fées aurait inspiré Disney."
           }
         },
         {
@@ -1645,7 +1799,8 @@
             "de": "Der spektakulärste Aussichtspunkt auf den gesamten See.",
             "hu": "A leglátványosabb kilátópont az egész tóra.",
             "ro": "Cel mai spectaculos punct de belvedere asupra întregului lac.",
-            "en": "The most spectacular viewpoint overlooking the entire lake."
+            "en": "The most spectacular viewpoint overlooking the entire lake.",
+            "fr": "Le point de vue le plus spectaculaire sur l'ensemble du lac."
           }
         }
       ],
@@ -1653,7 +1808,8 @@
         "de": "Mit dem Auto haben Sie die Freiheit, die verborgenen Schätze rund um Annecy zu entdecken. Starten Sie mit einem ausgiebigen Rundgang durch die Altstadt, bevor Sie zur hochgelegenen Basilika de la Visitation fahren.\n\nDas Mittagessen führt Sie aus der Stadt hinaus zu den beeindruckenden Gorges du Fier, einem Naturwunder, wo Sie auf Stegen über reißendem Wasser wandeln. Danach geht es zum Ostufer des Sees.\n\nDas Schloss Menthon-Saint-Bernard thront wie aus einem Märchen über dem Wasser. Eine Führung durch die prunkvollen Räume ist ein absolutes Highlight Ihres Nachmittags.\n\nZum krönenden Abschluss fahren Sie hinauf zum Col de la Forclaz. Beobachten Sie die Gleitschirmflieger und genießen Sie den atemberaubenden Sonnenuntergang über dem schimmernden See.",
         "hu": "Autóval szabadon fedezheti fel az Annecy környéki rejtett kincseket. Kezdje egy kiadós óvárosi sétával, mielőtt felautózna a magasan fekvő Visitation-bazilikához.\n\nAz ebédidő már a városon kívül éri, a lenyűgöző Fier-szurdoknál, ahol függőfolyosókon sétálhat a rohanó víz felett. Ezután a tó keleti partja felé vegye az irányt.\n\nMenthon-Saint-Bernard vára mesebeli palotaként trónol a víz felett. A pazar termekben tett vezetés a délután igazi fénypontja lesz.\n\nA nap koronájaként autózzon fel a Col de la Forclaz hágóra. Figyelje a siklóernyősöket és élvezze a lélegzetelállító naplementét a csillogó tó felett.",
         "ro": "Cu mașina aveți libertatea de a descoperi comorile ascunse din jurul Annecy. Începeți cu o plimbare lungă prin orașul vechi, înainte de a urca cu mașina la Bazilica de la Visitation, situată la înălțime.\n\nPrânzul vă poartă în afara orașului către impresionantele Chei ale Fierului, o minune a naturii unde vă plimbați pe pasarele deasupra apei învolburate. Apoi, îndreptați-vă spre malul estic al lacului.\n\nCastelul Menthon-Saint-Bernard domină apele ca într-un basm. Un tur prin sălile somptuoase este punctul culminant al după-amiezii. \n\nPentru finalul perfect, urcați la Pasul Forclaz. Observați parapantiștii și bucurați-vă de apusul uluitor peste lacul scânteietor.",
-        "en": "By car, you have the freedom to discover the hidden treasures around Annecy. Start with a leisurely stroll through the Old Town before driving up to the high-perched Basilica of the Visitation.\n\nLunchtime takes you out of town to the impressive Gorges du Fier, a natural wonder where you walk on footbridges over rushing water. Afterwards, head to the eastern shore of the lake.\n\nMenthon-Saint-Bernard Castle sits like a fairy-tale palace above the water. A tour through the magnificent rooms is a true highlight of your afternoon.\n\nFor the grand finale, drive up to Col de la Forclaz. Watch the paragliders and enjoy the breathtaking sunset over the shimmering lake."
+        "en": "By car, you have the freedom to discover the hidden treasures around Annecy. Start with a leisurely stroll through the Old Town before driving up to the high-perched Basilica of the Visitation.\n\nLunchtime takes you out of town to the impressive Gorges du Fier, a natural wonder where you walk on footbridges over rushing water. Afterwards, head to the eastern shore of the lake.\n\nMenthon-Saint-Bernard Castle sits like a fairy-tale palace above the water. A tour through the magnificent rooms is a true highlight of your afternoon.\n\nFor the grand finale, drive up to Col de la Forclaz. Watch the paragliders and enjoy the breathtaking sunset over the shimmering lake.",
+        "fr": "En voiture, vous avez la liberté de découvrir les trésors cachés autour d'Annecy. Commencez par une promenade tranquille dans la Vieille Ville avant de monter à la Basilique de la Visitation perchée sur les hauteurs.\n\nLe déjeuner vous emmène hors de la ville vers les impressionnantes Gorges du Fier, une merveille naturelle où vous marchez sur des passerelles au-dessus de l'eau bouillonnante. Ensuite, dirigez-vous vers la rive est du lac.\n\nLe Château de Menthon-Saint-Bernard trône comme un palais de conte de fées au-dessus de l'eau. Une visite des magnifiques salles est un véritable temps fort de votre après-midi.\n\nPour le grand final, montez au Col de la Forclaz. Observez les parapentes et profitez du coucher de soleil époustouflant sur le lac scintillant."
       },
       "gastro_picks": {
         "de": [
@@ -1694,6 +1850,16 @@
           {
             "name": "Savoyard Cheese Platter",
             "tip": "Buy cheese directly from the producer in the countryside."
+          }
+        ],
+        "fr": [
+          {
+            "name": "La Ferme de la Forclaz",
+            "tip": "Plats traditionnels avec la meilleure vue."
+          },
+          {
+            "name": "Plateau de fromages savoyards",
+            "tip": "Achetez du fromage directement chez le producteur à la campagne."
           }
         ]
       },
@@ -1745,6 +1911,18 @@
             "tip": "Quiet forest walks above the city.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Col de la Forclaz",
+            "tip": "Vue panoramique de premier ordre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sentiers forestiers près de la Basilique",
+            "tip": "Promenades en forêt au calme au-dessus de la ville.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1770,6 +1948,12 @@
           {
             "name": "Local Creameries",
             "tip": "Visit farm shops around the lake."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Crémeries locales",
+            "tip": "Visitez les magasins de ferme autour du lac."
           }
         ]
       },
@@ -1801,6 +1985,13 @@
           "Free parking is available at Gorges du Fier.",
           "Refuel at supermarkets on the outskirts for better prices.",
           "Always have some spare change for parking meters."
+        ],
+        "fr": [
+          "Les routes du bord de lac peuvent être très encombrées le week-end.",
+          "Attention aux virages serrés lors de la montée au Col de la Forclaz.",
+          "Un parking gratuit est disponible aux Gorges du Fier.",
+          "Faites le plein dans les supermarchés en périphérie pour de meilleurs prix.",
+          "Ayez toujours de la monnaie pour les horodateurs."
         ]
       },
       "variants": {
@@ -2037,7 +2228,8 @@
             "de": "Ein entspannter Start im Auto durch die verregnete Altstadt. Mittags besuchen wir die Basilika, wo der Regen leise an die Fenster klopft. Die Gorges du Fier sind bei Regen besonders spektakulär, da der Fluss anschwillt. Nachmittags besichtigen wir das Schloss Menthon und genießen zum Abschluss den wolkenverhangenen Blick am Col de la Forclaz.",
             "hu": "Kényelmes kezdés az autóban az esőáztatta óvároson keresztül. Délben a Bazilikát látogatjuk meg, ahol az eső halkan kopog az ablakokon. A Gorges du Fier esőben különösen látványos a megáradt folyó miatt. Délután a Menthon kastélyt nézzük meg, végül a Col de la Forclaz felhős panorámájával zárjuk a napot.",
             "ro": "Un început relaxat cu mașina prin centrul vechi ploios. La prânz vizităm Basilica, unde ploaia bate în geamuri. Gorges du Fier sunt spectaculoase pe ploaie datorită debitului râului. După-amiaza vizităm Castelul Menthon și încheiem cu vederea noroasă de la Col de la Forclaz.",
-            "en": "A relaxed start by car through the rainy Old Town. At noon, visit the Basilica where the rain taps softly on the windows. Gorges du Fier is particularly spectacular in the rain as the river rises. In the afternoon, visit Menthon Castle and finish with the cloudy views at Col de la Forclaz."
+            "en": "A relaxed start by car through the rainy Old Town. At noon, visit the Basilica where the rain taps softly on the windows. Gorges du Fier is particularly spectacular in the rain as the river rises. In the afternoon, visit Menthon Castle and finish with the cloudy views at Col de la Forclaz.",
+            "fr": "Un départ détendu en voiture à travers la Vieille Ville pluvieuse. À midi, visitez la Basilique où la pluie crépite doucement sur les vitraux. Les Gorges du Fier sont particulièrement spectaculaires sous la pluie car le niveau de la rivière monte. L'après-midi, visitez le château de Menthon et terminez par les vues nuageuses au Col de la Forclaz."
           },
           "stops": [
             {
@@ -2046,7 +2238,8 @@
                 "de": "Parken Sie im Parkhaus 'Hôtel de Ville' für einen trockenen Zugang.",
                 "hu": "Parkoljon a 'Hôtel de Ville' mélygarázsban a száraz bejutáshoz.",
                 "ro": "Parcați în garajul 'Hôtel de Ville' pentru acces uscat.",
-                "en": "Park in the 'Hôtel de Ville' garage for dry access to the town."
+                "en": "Park in the 'Hôtel de Ville' garage for dry access to the town.",
+                "fr": "Garez-vous au parking 'Hôtel de Ville' pour accéder à la ville au sec."
               }
             },
             {
@@ -2055,7 +2248,8 @@
                 "de": "Der Parkplatz ist direkt vor dem Eingang, ideal bei Regen.",
                 "hu": "A parkoló közvetlenül a bejárat előtt van, ideális esőben.",
                 "ro": "Parcarea este chiar în fața intrării, ideal pe ploaie.",
-                "en": "The parking lot is right in front of the entrance, ideal for rain."
+                "en": "The parking lot is right in front of the entrance, ideal for rain.",
+                "fr": "Le parking est juste devant l'entrée, idéal en cas de pluie."
               }
             },
             {
@@ -2064,7 +2258,8 @@
                 "de": "Der Steg ist überdacht, aber bei starkem Wind wird man nass.",
                 "hu": "A járda felett van tető, de erős szélben így is bever az eső.",
                 "ro": "Pasarela este acoperită, dar vântul puternic poate aduce ploaia.",
-                "en": "The walkway is covered, but strong wind can still blow rain in."
+                "en": "The walkway is covered, but strong wind can still blow rain in.",
+                "fr": "Le passage est couvert, mais un vent fort peut quand même projeter de la pluie."
               }
             },
             {
@@ -2073,7 +2268,8 @@
                 "de": "Die Schlossführung findet komplett im Trockenen statt.",
                 "hu": "A kastélylátogatás teljes egészében fedett helyen zajlik.",
                 "ro": "Turul castelului are loc în întregime la adăpost.",
-                "en": "The castle tour takes place entirely indoors/under cover."
+                "en": "The castle tour takes place entirely indoors/under cover.",
+                "fr": "La visite du château se déroule entièrement à l'intérieur ou sous abri."
               }
             },
             {
@@ -2082,7 +2278,8 @@
                 "de": "Vorsicht bei der Fahrt, Wolken können die Sicht stark einschränken.",
                 "hu": "Vezessen óvatosan, a felhők jelentősen ronthatják a látási viszonyokat.",
                 "ro": "Conduceți cu atenție, norii pot reduce vizibilitatea drastic.",
-                "en": "Drive carefully, clouds can significantly reduce visibility."
+                "en": "Drive carefully, clouds can significantly reduce visibility.",
+                "fr": "Conduisez prudemment, les nuages peuvent réduire considérablement la visibilité."
               }
             }
           ],
@@ -2114,6 +2311,13 @@
               "Allow more time for the drive up to Col de la Forclaz.",
               "Check if Gorges du Fier is open during high water levels.",
               "Ensure your windshield wipers and lights are in good condition."
+            ],
+            "fr": [
+              "Utilisez les parkings couverts plutôt que les parkings extérieurs.",
+              "La route du lac peut subir de légères inondations lors de fortes pluies.",
+              "Prévoyez plus de temps pour la montée au Col de la Forclaz.",
+              "Vérifiez si les Gorges du Fier sont ouvertes en cas de crue.",
+              "Assurez-vous que vos essuie-glaces et vos feux sont en bon état."
             ]
           }
         },
@@ -2122,7 +2326,8 @@
             "de": "Ein frostiger Start durch das winterliche Annecy. Mittags besuchen wir die Basilika für einen Moment der Stille mit Blick auf die verschneite Stadt. Die Gorges du Fier zeigen ihre raue Seite. Nachmittags thront das Schloss Menthon majestätisch im Schnee, bevor wir den Tag am Col de la Forclaz mit Alpenpanorama abschließen.",
             "hu": "Deres kezdés a téli Annecy-n keresztül. Délben a Bazilikát látogatjuk meg, ahonnan remek kilátás nyílik a havas városra. A Gorges du Fier zordabb arcát mutatja télen. Délután a Menthon kastély trónol a hóban, végül az Alpok havas panorámájával zárjuk a napot a Col de la Forclaz-nál.",
             "ro": "Un start înghețat prin Annecy de iarnă. La prânz vizităm Basilica pentru un moment de liniște cu vedere spre orașul înzăpezit. Gorges du Fier își arată latura aspră. După-amiaza Castelul Menthon domină peisajul cu zăpadă, iar la final admirăm Alpii de la Col de la Forclaz.",
-            "en": "A frosty start through wintery Annecy. At noon, visit the Basilica for a quiet moment overlooking the snowy city. Gorges du Fier shows its rugged side. In the afternoon, Menthon Castle stands majestically in the snow before we end the day with Alpine panoramas at Col de la Forclaz."
+            "en": "A frosty start through wintery Annecy. At noon, visit the Basilica for a quiet moment overlooking the snowy city. Gorges du Fier shows its rugged side. In the afternoon, Menthon Castle stands majestically in the snow before we end the day with Alpine panoramas at Col de la Forclaz.",
+            "fr": "Un départ givré à travers Annecy hivernale. À midi, visitez la Basilique pour un moment de calme surplombant la ville enneigée. Les Gorges du Fier montrent leur côté sauvage. L'après-midi, le château de Menthon se dresse majestueusement dans la neige avant de finir la journée avec des panoramas alpins au Col de la Forclaz."
           },
           "stops": [
             {
@@ -2131,7 +2336,8 @@
                 "de": "Zentrale Parkhäuser sind im Winter oft voll, kommen Sie früh.",
                 "hu": "A központi parkolóházak télen hamar megtelnek, érkezzen korán.",
                 "ro": "Parcările centrale sunt adesea pline iarna, veniți devreme.",
-                "en": "Central parking garages fill up fast in winter, arrive early."
+                "en": "Central parking garages fill up fast in winter, arrive early.",
+                "fr": "Les parkings du centre se remplissent vite en hiver, arrivez tôt."
               }
             },
             {
@@ -2140,7 +2346,8 @@
                 "de": "Die Auffahrt kann bei Glätte anspruchsvoll sein.",
                 "hu": "A felvezető út jegesedés esetén nagyobb figyelmet igényel.",
                 "ro": "Drumul de acces poate fi dificil în caz de polei.",
-                "en": "The access road can be tricky if there is ice."
+                "en": "The access road can be tricky if there is ice.",
+                "fr": "La route d'accès peut être délicate en cas de verglas."
               }
             },
             {
@@ -2149,7 +2356,8 @@
                 "de": "Prüfen Sie die Öffnungszeiten, da im Winter oft geschlossen ist.",
                 "hu": "Ellenőrizze a nyitvatartást, télen gyakran zárva tart.",
                 "ro": "Verificați programul, iarna este adesea închis.",
-                "en": "Check opening times, as it is often closed during winter months."
+                "en": "Check opening times, as it is often closed during winter months.",
+                "fr": "Vérifiez les horaires, car c'est souvent fermé pendant les mois d'hiver."
               }
             },
             {
@@ -2158,7 +2366,8 @@
                 "de": "Die steile Zufahrt erfordert gute Winterreifen.",
                 "hu": "A meredek feljáróhoz jó téli gumik szükségesek.",
                 "ro": "Accesul abrupt necesită anvelope de iarnă bune.",
-                "en": "The steep access road requires good winter tires."
+                "en": "The steep access road requires good winter tires.",
+                "fr": "La route d'accès escarpée nécessite de bons pneus hiver."
               }
             },
             {
@@ -2167,7 +2376,8 @@
                 "de": "Schneeketten können für die letzte Etappe notwendig sein.",
                 "hu": "Hólánc szükséges lehet az utolsó szakasz megtételéhez.",
                 "ro": "Lanțurile de zăpadă pot fi necesare pentru ultima etapă.",
-                "en": "Snow chains might be necessary for the final stretch."
+                "en": "Snow chains might be necessary for the final stretch.",
+                "fr": "Des chaînes à neige peuvent être nécessaires pour le dernier tronçon."
               }
             }
           ],
@@ -2199,6 +2409,13 @@
               "Mountain roads are plowed, but shaded spots remain icy.",
               "Check if the pass to Col de la Forclaz is open during snowfall.",
               "Avoid parking under trees heavily laden with snow."
+            ],
+            "fr": [
+              "Les pneus hiver sont obligatoires dans cette région montagneuse.",
+              "Ayez toujours un grattoir et du liquide lave-glace antigel.",
+              "Les routes de montagne sont déneigées, mais les zones ombragées restent verglacées.",
+              "Vérifiez si le col de la Forclaz est ouvert en cas de chutes de neige.",
+              "Évitez de vous garer sous des arbres lourdement chargés de neige."
             ]
           }
         }
@@ -2232,7 +2449,8 @@
             "de": "Vom Bahnhof aus in 10 Minuten zu Fuß oder mit dem Bus 1 erreichbar.",
             "hu": "A vasútállomástól 10 perc gyalog vagy az 1-es busszal.",
             "ro": "Accesibil în 10 minute pe jos de la gară sau cu autobuzul 1.",
-            "en": "Accessible in 10 minutes on foot from the station or via bus 1."
+            "en": "Accessible in 10 minutes on foot from the station or via bus 1.",
+            "fr": "Accessible en 10 minutes à pied depuis la gare ou via le bus 1."
           }
         },
         {
@@ -2255,7 +2473,8 @@
             "de": "Kombinieren Sie Geschichte und Kunst in den alten Mauern.",
             "hu": "Ötvözze a történelmet és a művészetet a régi falak között.",
             "ro": "Combinați istoria și arta între zidurile vechi.",
-            "en": "Combine history and art within the old walls."
+            "en": "Combine history and art within the old walls.",
+            "fr": "Combinez histoire et art au milieu des vieux murs."
           }
         },
         {
@@ -2278,7 +2497,8 @@
             "de": "Nutzen Sie den lokalen Bus, um den steilen Aufstieg zu vermeiden.",
             "hu": "Használja a helyi buszt, hogy elkerülje a meredek kapaszkodót.",
             "ro": "Folosiți autobuzul local pentru a evita urcarea abruptă.",
-            "en": "Use the local bus to avoid the steep climb."
+            "en": "Use the local bus to avoid the steep climb.",
+            "fr": "Utilisez le bus local pour éviter la montée raide."
           }
         },
         {
@@ -2301,7 +2521,8 @@
             "de": "Der zentrale Treffpunkt der Stadt direkt am Seeufer.",
             "hu": "A város központi találkozóhelye közvetlenül a tóparton.",
             "ro": "Locul central de întâlnire al orașului chiar pe malul lacului.",
-            "en": "The city's central meeting point right on the lakeshore."
+            "en": "The city's central meeting point right on the lakeshore.",
+            "fr": "Le point de rendez-vous central de la ville au bord du lac."
           }
         },
         {
@@ -2324,7 +2545,8 @@
             "de": "Ein kostenloser Strand, der leicht mit dem Bus erreichbar ist.",
             "hu": "Ingyenes strand, amely busszal könnyen megközelíthető.",
             "ro": "O plajă gratuită, ușor accesibilă cu autobuzul.",
-            "en": "A free beach that is easily accessible by bus."
+            "en": "A free beach that is easily accessible by bus.",
+            "fr": "Une plage gratuite facilement accessible en bus."
           }
         }
       ],
@@ -2332,7 +2554,8 @@
         "de": "Nutzen Sie das effiziente Bussystem von Annecy, um die Stadt stressfrei zu erkunden. Beginnen Sie Ihren Tag im historischen Zentrum am Palais de l'Île und tauchen Sie ein in die Geschichte der Savoyer Alpen.\n\nEin kurzer Spaziergang oder eine Busfahrt bringt Sie zum Schlossmuseum, wo Sie alpine Kunst bewundern können. Mittags bringt Sie der Bus hinauf zur Basilika de la Visitation, von wo aus Sie den besten Überblick über die Stadt haben.\n\nDen Nachmittag verbringen Sie wie die Einheimischen auf der großen Wiese von Le Pâquier, einem idealen Ort für Entspannung und Beobachtung des regen Treibens auf dem See.\n\nBeenden Sie Ihren Tag am Strand der Marquisats, wo Sie den Tag im Wasser oder bei einem kühlen Getränk ausklingen lassen können, bevor Sie bequem mit dem Bus zurück zum Bahnhof fahren.",
         "hu": "Használja Annecy hatékony buszhálózatát a város stresszmentes felfedezéséhez. Kezdje a napot a történelmi központban, a Palais de l'Île-nél, és merüljön el a Savoyai-Alpok történelmében.\n\nEgy rövid séta vagy buszozás a Vármúzeumhoz vezet, ahol alpesi művészetet csodálhat meg. Ebédidőben a busz felviszi a Visitation-bazilikához, ahonnan a legjobb rálátás nyílik a városra.\n\nA délutánt töltse úgy, mint a helyiek: a Le Pâquier hatalmas rétjén, amely ideális hely a pihenésre és a tavi élet megfigyelésére.\n\nZárja a napot a Marquisats strandon, ahol megmártózhat a vízben vagy elfogyaszthat egy hűsítő italt, mielőtt kényelmesen visszabuszozna a pályaudvarra.",
         "ro": "Folosiți sistemul eficient de autobuze din Annecy pentru a explora orașul fără stres. Începeți ziua în centrul istoric la Palais de l'Île și cufundați-vă în istoria Alpilor Savoiei.\n\nO scurtă plimbare sau o cursă cu autobuzul vă duce la Muzeul Castelului, unde puteți admira arta alpină. La prânz, autobuzul vă urcă la Bazilica de la Visitation, de unde aveți cea mai bună panoramă asupra orașului.\n\nPetreceți după-amiaza ca localnicii pe pajiștea mare Le Pâquier, un loc ideal pentru relaxare și observarea agitației de pe lac.\n\nÎncheiați ziua la plaja Marquisats, unde puteți termina ziua în apă sau cu o băutură rece, înainte de a reveni confortabil cu autobuzul la gară.",
-        "en": "Use Annecy's efficient bus system to explore the city stress-free. Start your day in the historic center at Palais de l'Île and immerse yourself in the history of the Savoy Alps.\n\nA short walk or bus ride takes you to the Castle Museum, where you can admire Alpine art. At lunchtime, the bus takes you up to the Basilica of the Visitation, from where you have the best view over the city.\n\nSpend the afternoon like the locals on the large meadow of Le Pâquier, an ideal spot for relaxation and watching the activity on the lake.\n\nEnd your day at Marquisats beach, where you can finish the day in the water or with a cool drink before conveniently taking the bus back to the station."
+        "en": "Use Annecy's efficient bus system to explore the city stress-free. Start your day in the historic center at Palais de l'Île and immerse yourself in the history of the Savoy Alps.\n\nA short walk or bus ride takes you to the Castle Museum, where you can admire Alpine art. At lunchtime, the bus takes you up to the Basilica of the Visitation, from where you have the best view over the city.\n\nSpend the afternoon like the locals on the large meadow of Le Pâquier, an ideal spot for relaxation and watching the activity on the lake.\n\nEnd your day at Marquisats beach, where you can finish the day in the water or with a cool drink before conveniently taking the bus back to the station.",
+        "fr": "Utilisez le réseau de bus efficace d'Annecy pour explorer la ville sans stress. Commencez votre journée dans le centre historique au Palais de l'Île et plongez dans l'histoire des Alpes savoyardes.\n\nUne courte promenade ou un trajet en bus vous mène au Musée du Château, où vous pourrez admirer l'art alpin. À l'heure du déjeuner, le bus vous emmène à la Basilique de la Visitation, d'où vous aurez la meilleure vue sur la ville.\n\nPassez l'après-midi comme les locaux sur la grande pelouse du Pâquier, un endroit idéal pour se détendre et regarder l'activité sur le lac.\n\nTerminez votre journée à la plage des Marquisats, où vous pourrez finir la journée dans l'eau ou avec une boisson fraîche avant de reprendre confortablement le bus pour la gare."
       },
       "gastro_picks": {
         "de": [
@@ -2373,6 +2596,16 @@
           {
             "name": "Le Bilboquet",
             "tip": "Cozy bistro near the station."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boulangerie Rouge",
+            "tip": "Prenez des viennoiseries fraîches pour le trajet."
+          },
+          {
+            "name": "Le Bilboquet",
+            "tip": "Bistrot chaleureux près de la gare."
           }
         ]
       },
@@ -2424,6 +2657,18 @@
             "tip": "Quiet walk at the southern end of the lake.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin de la Basilique",
+            "tip": "Lieu spirituel au calme absolu.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sentier du lac aux Marquisats",
+            "tip": "Promenade tranquille à l'extrémité sud du lac.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -2449,6 +2694,12 @@
           {
             "name": "Galeries Lafayette",
             "tip": "Large department store for fashion and local specialties."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Grand magasin pour la mode et les spécialités locales."
           }
         ]
       },
@@ -2480,6 +2731,13 @@
           "Free shuttle buses to the lake are available in summer.",
           "Buses run on time; be at the stop early.",
           "The main hub for all lines is the 'Gare d'Annecy' station."
+        ],
+        "fr": [
+          "Téléchargez l'application SIBRA pour les horaires en temps réel.",
+          "Un ticket journée est plus économique que les trajets individuels.",
+          "Des navettes gratuites vers le lac sont disponibles en été.",
+          "Les bus sont ponctuels ; soyez à l'arrêt en avance.",
+          "Le hub principal pour toutes les lignes est la station 'Gare d'Annecy'."
         ]
       },
       "variants": {
@@ -2716,7 +2974,8 @@
             "de": "Ein trockener Start mit dem Bus zum Palais de l'Île. Mittags bietet das Schlossmuseum stundenlangen Schutz vor dem Regen. Besuchen Sie die Basilika bequem mit der Linie 5. Nachmittags ist ein Spaziergang im Paquier-Park unter großen Bäumen möglich, bevor wir den Tag am Marquisats-Strand im Regen ausklingen lassen.",
             "hu": "Száraz kezdés busszal a Palais de l'Île-ig. Délben a Vármúzeum nyújt hosszú órákra védelmet az eső elől. Látogassa meg a Bazilikát kényelmesen az 5-ös busszal. Délután a Paquier park hatalmas fái alatt tehetünk sétát, végül a Marquisats strandon zárjuk a napot az esőben.",
             "ro": "Un start uscat cu autobuzul până la Palais de l'Île. La prânz, muzeul castelului oferă ore de adăpost. Vizitați Basilica confortabil cu linia 5. După-amiaza este posibilă o plimbare în parcul Paquier sub copaci mari, înainte de a încheia ziua la plaja Marquisats.",
-            "en": "A dry start by bus to Palais de l'Île. At noon, the Castle Museum offers hours of shelter from the rain. Visit the Basilica comfortably using line 5. In the afternoon, a walk in Paquier Park under large trees is possible, before ending the day at Marquisats Beach."
+            "en": "A dry start by bus to Palais de l'Île. At noon, the Castle Museum offers hours of shelter from the rain. Visit the Basilica comfortably using line 5. In the afternoon, a walk in Paquier Park under large trees is possible, before ending the day at Marquisats Beach.",
+            "fr": "Un départ au sec en bus vers le Palais de l'Île. À midi, le Musée du Château offre des heures d'abri contre la pluie. Visitez la Basilique confortablement avec la ligne 5. L'après-midi, une balade au parc du Pâquier sous les grands arbres est possible, avant de finir la journée à la plage des Marquisats."
           },
           "stops": [
             {
@@ -2725,7 +2984,8 @@
                 "de": "Die Bushaltestelle 'Hôtel de Ville' ist nur 2 Minuten entfernt.",
                 "hu": "A 'Hôtel de Ville' buszmegálló mindössze 2 perc sétára van.",
                 "ro": "Stația de autobuz 'Hôtel de Ville' este la doar 2 minute distanță.",
-                "en": "The 'Hôtel de Ville' bus stop is just a 2-minute walk away."
+                "en": "The 'Hôtel de Ville' bus stop is just a 2-minute walk away.",
+                "fr": "L'arrêt de bus 'Hôtel de Ville' est à seulement 2 minutes à pied."
               }
             },
             {
@@ -2734,7 +2994,8 @@
                 "de": "Der Aufstieg zum Schloss ist steil und bei Regen glatt.",
                 "hu": "A várba vezető út meredek és esőben csúszós lehet.",
                 "ro": "Urcarea spre castel este abruptă și alunecoasă pe ploaie.",
-                "en": "The climb to the castle is steep and can be slippery in the rain."
+                "en": "The climb to the castle is steep and can be slippery in the rain.",
+                "fr": "La montée au château est raide et peut être glissante sous la pluie."
               }
             },
             {
@@ -2743,7 +3004,8 @@
                 "de": "Nutzen Sie den Bus, um den nassen Aufstieg zu Fuß zu vermeiden.",
                 "hu": "Használja a buszt, hogy elkerülje a vizes hegyi gyaloglást.",
                 "ro": "Folosiți autobuzul pentru a evita urcarea pe jos prin ploaie.",
-                "en": "Take the bus to avoid the wet uphill walk to the entrance."
+                "en": "Take the bus to avoid the wet uphill walk to the entrance.",
+                "fr": "Prenez le bus pour éviter la montée mouillée jusqu'à l'entrée."
               }
             },
             {
@@ -2752,7 +3014,8 @@
                 "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
                 "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat.",
                 "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul.",
-                "en": "Stick to the paved paths to avoid muddy sections of grass."
+                "en": "Stick to the paved paths to avoid muddy sections of grass.",
+                "fr": "Restez sur les chemins goudronnés pour éviter les zones d'herbe boueuses."
               }
             },
             {
@@ -2761,7 +3024,8 @@
                 "de": "Die Buslinie 1 bringt Sie direkt vom Stadtzentrum hierher.",
                 "hu": "Az 1-es busz közvetlenül a városközpontból hozza el ide.",
                 "ro": "Linia de autobuz 1 vă aduce aici direct din centrul orașului.",
-                "en": "Bus line 1 brings you here directly from the city center."
+                "en": "Bus line 1 brings you here directly from the city center.",
+                "fr": "La ligne de bus 1 vous emmène ici directement depuis le centre-ville."
               }
             }
           ],
@@ -2793,6 +3057,13 @@
               "Wait for your bus under the covered shelters.",
               "Buses are well-heated, ideal for warming up and drying off.",
               "Keep your ticket ready to avoid searching for it in the rain."
+            ],
+            "fr": [
+              "Utilisez l'application 'Sibra' pour les informations de bus en temps réel.",
+              "Le samedi, les trajets en bus à Annecy sont souvent gratuits.",
+              "Attendez votre bus sous les abribus couverts.",
+              "Les bus sont bien chauffés, idéal pour se réchauffer et se sécher.",
+              "Gardez votre ticket à portée de main pour éviter de le chercher sous la pluie."
             ]
           }
         },
@@ -2801,7 +3072,8 @@
             "de": "Ein gemütlicher Start im beheizten Bus zum winterlichen Palais de l'Île. Mittags erkunden wir das Schlossmuseum, um der Kälte zu entfliehen. Die Basilika bietet einen herrlichen Blick auf die schneebedeckten Dächer. Nachmittags spazieren wir kurz durch den Paquier-Park, bevor wir uns auf den Rückweg vom Marquisats-Strand machen.",
             "hu": "Kellemes kezdés a fűtött buszon a téli Palais de l'Île felé. Délben a Vármúzeumban bújunk el a hideg elől. A Bazilika elől csodás kilátás nyílik a havas háztetőkre. Délután teszünk egy rövid sétát a Paquier parkban, végül a Marquisats strandról indulunk vissza a városba.",
             "ro": "Un start confortabil în autobuzul încălzit spre Palais de l'Île. La prânz explorăm muzeul castelului pentru a scăpa de frig. Basilica oferă o vedere superbă spre acoperișurile înzăpezite. După-amiaza ne plimbăm scurt prin parcul Paquier, apoi plecăm de la plaja Marquisats.",
-            "en": "A cozy start on a heated bus towards wintery Palais de l'Île. At noon, explore the Castle Museum to escape the chill. The Basilica offers a wonderful view of the snow-covered rooftops. In the afternoon, take a short stroll in Paquier Park before heading back from Marquisats Beach."
+            "en": "A cozy start on a heated bus towards wintery Palais de l'Île. At noon, explore the Castle Museum to escape the chill. The Basilica offers a wonderful view of the snow-covered rooftops. In the afternoon, take a short stroll in Paquier Park before heading back from Marquisats Beach.",
+            "fr": "Un départ douillet dans un bus chauffé vers le Palais de l'Île hivernal. À midi, explorez le Musée du Château pour échapper au froid. La Basilique offre une vue magnifique sur les toits enneigés. L'après-midi, faites une courte promenade au parc du Pâquier avant de repartir de la plage des Marquisats."
           },
           "stops": [
             {
@@ -2810,7 +3082,8 @@
                 "de": "Perfekter Ort für Fotos, wenn der Kanal leicht gefroren ist.",
                 "hu": "Tökéletes hely fotózáshoz, ha a csatorna vize enyhén befagyott.",
                 "ro": "Loc perfect pentru fotografii când canalul este ușor înghețat.",
-                "en": "Perfect spot for photos if the canal is slightly frozen."
+                "en": "Perfect spot for photos if the canal is slightly frozen.",
+                "fr": "Spot parfait pour les photos si le canal est légèrement gelé."
               }
             },
             {
@@ -2819,7 +3092,8 @@
                 "de": "Genießen Sie die Wärme im Inneren der historischen Räume.",
                 "hu": "Élvezze a meleget a történelmi szobák falai között.",
                 "ro": "Bucurați-vă de căldura din interiorul camerelor istorice.",
-                "en": "Enjoy the warmth inside the historical museum rooms."
+                "en": "Enjoy the warmth inside the historical museum rooms.",
+                "fr": "Profitez de la chaleur à l'intérieur des salles historiques du musée."
               }
             },
             {
@@ -2828,7 +3102,8 @@
                 "de": "Der Bus hält fast direkt vor der beeindruckenden Pforte.",
                 "hu": "A busz szinte közvetlenül a lenyűgöző kapu előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața porții impresionante.",
-                "en": "The bus stops almost directly in front of the impressive gate."
+                "en": "The bus stops almost directly in front of the impressive gate.",
+                "fr": "Le bus s'arrête presque directement devant l'impressionnante porte."
               }
             },
             {
@@ -2837,7 +3112,8 @@
                 "de": "Hier findet oft der lokale Weihnachtsmarkt oder Eislauf statt.",
                 "hu": "Itt gyakran rendeznek karácsonyi vásárt vagy korcsolyapályát.",
                 "ro": "Aici are loc adesea piața de Crăciun sau se instalează un patinoar.",
-                "en": "This is often the site for Christmas markets or ice skating."
+                "en": "This is often the site for Christmas markets or ice skating.",
+                "fr": "C'est souvent ici que se trouvent les marchés de Noël ou la patinoire."
               }
             },
             {
@@ -2846,7 +3122,8 @@
                 "de": "Die Promenade ist im Winter ruhig und bietet klare Fernsicht.",
                 "hu": "A sétány télen csendes, tiszta tálati kilátást nyújt.",
                 "ro": "Promenada este liniștită iarna și oferă o vizibilitate clară.",
-                "en": "The promenade is quiet in winter and offers clear views."
+                "en": "The promenade is quiet in winter and offers clear views.",
+                "fr": "La promenade est calme en hiver et offre des vues dégagées."
               }
             }
           ],
@@ -2878,6 +3155,13 @@
               "A day ticket is worth it if you plan frequent hops on and off.",
               "Bus line 5 to the Basilica is especially useful in winter.",
               "It gets dark early, and buses may be more crowded then."
+            ],
+            "fr": [
+              "Les bus circulent selon l'horaire standard en hiver et sont ponctuels.",
+              "Faites attention aux plaques de verglas aux abords des arrêts de bus.",
+              "Un ticket journée vaut le coup si vous prévoyez de monter et descendre souvent.",
+              "La ligne de bus 5 vers la Basilique est particulièrement utile en hiver.",
+              "Il fait nuit tôt, et les bus peuvent être plus bondés à ce moment-là."
             ]
           }
         }

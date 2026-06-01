@@ -36,7 +36,8 @@
             "de": "Starten Sie mit einem Croissant in der Hand.",
             "hu": "Kezdd a napot egy friss croissant-nal.",
             "ro": "Începeți ziua cu un croissant în mână.",
-            "en": "Start your day with a fresh croissant."
+            "en": "Start your day with a fresh croissant.",
+            "fr": "Commencez votre journée avec un croissant frais."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Achten Sie auf die Spiegelung im Wasser.",
             "hu": "Figyeld a kastély tükröződését a vízben.",
             "ro": "Observați reflexia castelului în apă.",
-            "en": "Watch for the mirror reflection in the water."
+            "en": "Watch for the mirror reflection in the water.",
+            "fr": "Observez l'effet miroir dans l'eau."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Perfekt für Fotos des Schlosses.",
             "hu": "Tökéletes helyszín a kastély fotózásához.",
             "ro": "Perfect pentru poze cu castelul.",
-            "en": "Perfect spot for photos of the castle."
+            "en": "Perfect spot for photos of the castle.",
+            "fr": "Lieu idéal pour photographier le château."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Entdecken Sie die alten Fachwerkhäuser.",
             "hu": "Fedezd fel a régi gerendavázas házakat.",
             "ro": "Descoperiți casele vechi cu bârne.",
-            "en": "Discover the old half-timbered houses."
+            "en": "Discover the old half-timbered houses.",
+            "fr": "Découvrez les vieilles maisons à colombages."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Beachten Sie die Skulpturen an der Fassade.",
             "hu": "Figyeld meg a homlokzat szobrait.",
             "ro": "Observați sculpturile de pe fațadă.",
-            "en": "Note the sculptures on the facade."
+            "en": "Note the sculptures on the facade.",
+            "fr": "Notez les sculptures sur la façade."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Ein beruhigender Spaziergang am Fluss.",
             "hu": "Nyugtató séta a folyóparton.",
             "ro": "O plimbare liniștitoare pe malul râului.",
-            "en": "A calming walk along the riverbanks."
+            "en": "A calming walk along the riverbanks.",
+            "fr": "Une promenade apaisante le long des berges."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Vormittags tauchen Sie in die Renaissance-Pracht des Schlosses von Azay-le-Rideau ein, das wie ein Diamant auf der Indre zu schweben scheint. Nach einem entspannten Spaziergang im romantischen Park erkunden Sie mittags das historische Zentrum mit seinen engen Gassen und Fachwerkhäusern. Am Nachmittag besuchen Sie die imposante Saint-Symphorien-Kirche und lassen den Tag friedlich am Ufer der Indre ausklingen.",
         "hu": "Délelőtt elmerülünk az Azay-le-Rideau kastély reneszánsz pompájában, amely úgy lebeg az Indre folyón, mint egy gyémánt. A romantikus parkban tett séta után délben felfedezzük a történelmi központ szűk utcáit és gerendavázas házait. Délután meglátogatjuk az impozáns Szent Symphorien templomot, majd a napot békésen zárjuk az Indre folyó partján.",
         "ro": "Dimineața vă cufundați în splendoarea renascentistă a castelului Azay-le-Rideau, care pare să plutească pe râul Indre ca un diamant. După o plimbare relaxantă în parcul romantic, explorați la prânz centrul istoric cu străzile sale înguste și casele vechi. După-amiaza vizitați biserica impunătoare Saint-Symphorien și încheiați ziua liniștit pe malul râului Indre.",
-        "en": "In the morning, immerse yourself in the Renaissance splendor of the Château d'Azay-le-Rideau, which seems to float on the Indre like a diamond. After a relaxing walk in the romantic park, explore the historical center with its narrow streets and half-timbered houses at midday. In the afternoon, visit the impressive Saint-Symphorien Church and end the day peacefully on the banks of the Indre."
+        "en": "In the morning, immerse yourself in the Renaissance splendor of the Château d'Azay-le-Rideau, which seems to float on the Indre like a diamond. After a relaxing walk in the romantic park, explore the historical center with its narrow streets and half-timbered houses at midday. In the afternoon, visit the impressive Saint-Symphorien Church and end the day peacefully on the banks of the Indre.",
+        "fr": "Le matin, plongez dans la splendeur Renaissance du Château d'Azay-le-Rideau, qui semble flotter sur l'Indre tel un diamant. Après une promenade relaxante dans le parc romantique, explorez à la mi-journée le centre historique avec ses rues étroites et ses maisons à colombages. L'après-midi, visitez l'impressionnante église Saint-Symphorien et terminez la journée paisiblement sur les bords de l'Indre."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "L'Epicerie d'Azay",
             "tip": "Enjoy regional specialties in a cozy setting."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Sainte-Maure-de-Touraine",
+            "tip": "Le célèbre fromage de chèvre local traversé par une paille de seigle."
+          },
+          {
+            "name": "L'Epicerie d'Azay",
+            "tip": "Dégustez des spécialités régionales dans un cadre chaleureux."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "Pure silence just before closing time.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Bords de l'Indre",
+            "tip": "Le bruit de la rivière et des saules pleureurs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc du château au crépuscule",
+            "tip": "Le silence pur juste avant l'heure de fermeture.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +322,16 @@
             "name": "Ceramic Workshop",
             "tip": "Handmade ceramics from the Loire Valley."
           }
+        ],
+        "fr": [
+          {
+            "name": "Les Halles",
+            "tip": "Vins locaux et pâtisseries traditionnelles."
+          },
+          {
+            "name": "Atelier de céramique",
+            "tip": "Céramiques artisanales de la vallée de la Loire."
+          }
         ]
       },
       "tips": {
@@ -319,6 +358,12 @@
           "The reflections are best seen when there is no wind.",
           "Visit the castle early in the morning for a quieter experience.",
           "Don't miss the chance to try the local white wine."
+        ],
+        "fr": [
+          "Réservez votre billet pour le château en ligne pour éviter les longues files d'attente.",
+          "Les reflets sont plus beaux lorsqu'il n'y a pas de vent.",
+          "Visitez le château tôt le matin pour une expérience plus calme.",
+          "Ne manquez pas l'occasion de goûter au vin blanc local."
         ]
       }
     },
@@ -350,7 +395,8 @@
             "de": "Startpunkt der Tour am Schloss.",
             "hu": "A túra indítása a kastélynál.",
             "ro": "Punctul de plecare al turului de la castel.",
-            "en": "Start your tour at the castle."
+            "en": "Start your tour at the castle.",
+            "fr": "Commencez votre tour au château."
           }
         },
         {
@@ -373,7 +419,8 @@
             "de": "Entdecken Sie die Höhlenwohnungen der Bauern.",
             "hu": "Fedezd fel a paraszti barlanglakásokat.",
             "ro": "Descoperiți locuințele rupestre ale țăranilor.",
-            "en": "Discover the troglodyte peasant dwellings."
+            "en": "Discover the troglodyte peasant dwellings.",
+            "fr": "Découvrez les habitations paysannes troglodytiques."
           }
         },
         {
@@ -396,7 +443,8 @@
             "de": "Der geheime Ort von Rodin und Camille Claudel.",
             "hu": "Rodin és Camille Claudel titkos búvóhelye.",
             "ro": "Locul secret al lui Rodin și Camille Claudel.",
-            "en": "The secret retreat of Rodin and Camille Claudel."
+            "en": "The secret retreat of Rodin and Camille Claudel.",
+            "fr": "Le refuge secret de Rodin et Camille Claudel."
           }
         },
         {
@@ -419,7 +467,8 @@
             "de": "Entspannter Rückweg entlang des Flusses.",
             "hu": "Nyugodt visszavezető út a folyó mentén.",
             "ro": "Drum relaxant de întoarcere pe malul râului.",
-            "en": "Relaxing ride back along the river."
+            "en": "Relaxing ride back along the river.",
+            "fr": "Retour relaxant le long de la rivière."
           }
         },
         {
@@ -442,7 +491,8 @@
             "de": "Ein kühles Getränk im Dorfzentrum.",
             "hu": "Egy hűsítő ital a falu központjában.",
             "ro": "O băutură răcoritoare în centrul satului.",
-            "en": "A refreshing drink in the village center."
+            "en": "A refreshing drink in the village center.",
+            "fr": "Une boisson rafraîchissante dans le centre du village."
           }
         }
       ],
@@ -450,7 +500,8 @@
         "de": "Erleben Sie das Indre-Tal auf zwei Rädern. Nach der Besichtigung des prachtvollen Schlosses im Dorf radeln Sie in das Tal der Goupillières, um das Leben in den Höhlenwohnungen (Troglodyten) zu verstehen. Ein weiterer Höhepunkt ist das Schloss L'Islette, das kleinere 'Geschwisterchen' von Azay. Die Rückfahrt führt Sie durch grüne Landschaften und entlang des ruhigen Flusslaufs zurück in den Ort.",
         "hu": "Fedezze fel az Indre-völgyet két keréken. A falu pompás kastélyának megtekintése után a Goupillières-völgybe tekerünk, hogy megismerjük a barlanglakók (trogloditák) életét. A túra másik fénypontja az Islette kastély, Azay 'kistestvére'. A visszaút zöld tájakon és a folyó nyugodt folyása mentén vezet vissza a faluba.",
         "ro": "Experimentați valea Indre pe două roți. După vizitarea castelului magnific din sat, pedalați spre valea Goupillières pentru a înțelege viața în locuințele rupestre (troglodite). Un alt punct de atracție este castelul L'Islette, 'fratele mai mic' al lui Azay. Drumul de întoarcere vă poartă prin peisaje verzi și pe lângă cursul liniștit al râului înapoi în sat.",
-        "en": "Experience the Indre valley on two wheels. After visiting the magnificent castle in the village, cycle to the Goupillières valley to learn about troglodyte life. Another highlight is the Château de l'Islette, the smaller 'sibling' of Azay. The return journey takes you through lush green landscapes and along the calm river path back into the town."
+        "en": "Experience the Indre valley on two wheels. After visiting the magnificent castle in the village, cycle to the Goupillières valley to learn about troglodyte life. Another highlight is the Château de l'Islette, the smaller 'sibling' of Azay. The return journey takes you through lush green landscapes and along the calm river path back into the town.",
+        "fr": "Découvrez la vallée de l'Indre sur deux roues. Après avoir visité le magnifique château du village, pédalez jusqu'à la vallée des Goupillières pour découvrir la vie troglodytique. Un autre point fort est le Château de l'Islette, le petit « frère » d'Azay. Le voyage de retour vous emmène à travers des paysages verdoyants et le long du sentier calme de la rivière jusqu'à la ville."
       },
       "gastro_picks": {
         "de": [
@@ -475,6 +526,12 @@
           {
             "name": "Poires Tapées",
             "tip": "Traditional dried pears, a regional specialty."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Poires Tapées",
+            "tip": "Poires séchées traditionnelles, une spécialité régionale."
           }
         ]
       },
@@ -506,6 +563,13 @@
             "tip": "Very peaceful and far from the crowds.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Berges de l'Indre à l'Islette",
+            "tip": "Très paisible et loin de la foule.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -531,6 +595,12 @@
           {
             "name": "Traditional Bakery",
             "tip": "Pick up some supplies for a scenic picnic."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boulangerie traditionnelle",
+            "tip": "Prenez quelques provisions pour un pique-nique pittoresque."
           }
         ]
       },
@@ -558,6 +628,12 @@
           "Bike rentals are available directly in the village center.",
           "The paths are mostly flat and suitable for families.",
           "Picnicking is encouraged in the park of Château de l'Islette."
+        ],
+        "fr": [
+          "L'itinéraire fait partie de 'La Loire à Vélo' et est très bien balisé.",
+          "Des locations de vélos sont disponibles directement dans le centre du village.",
+          "Les sentiers sont pour la plupart plats et adaptés aux familles.",
+          "Le pique-nique est encouragé dans le parc du Château de l'Islette."
         ]
       }
     },
@@ -589,7 +665,8 @@
             "de": "Parken Sie auf dem offiziellen Schloss-Parkplatz.",
             "hu": "Használd a kastély hivatalos parkolóját.",
             "ro": "Parcați în parcarea oficială a castelului.",
-            "en": "Park at the official castle parking lot."
+            "en": "Park at the official castle parking lot.",
+            "fr": "Garez-vous au parking officiel du château."
           }
         },
         {
@@ -612,7 +689,8 @@
             "de": "Einblick in das ländliche Leben vergangener Zeiten.",
             "hu": "Betekintés a múlt vidéki életébe.",
             "ro": "O privire asupra vieții rurale din trecut.",
-            "en": "Insight into rural life of past times."
+            "en": "Insight into rural life of past times.",
+            "fr": "Aperçu de la vie rurale d'autrefois."
           }
         },
         {
@@ -635,7 +713,8 @@
             "de": "Beeindruckende Sammlung alter Maschinen.",
             "hu": "Régi gépek lenyűgöző gyűjteménye.",
             "ro": "O colecție impresionantă de mașini vechi.",
-            "en": "Impressive collection of vintage machinery."
+            "en": "Impressive collection of vintage machinery.",
+            "fr": "Impressionnante collection de machines anciennes."
           }
         },
         {
@@ -658,7 +737,8 @@
             "de": "Zeit für einen lokalen Wein-Tasting.",
             "hu": "Itt az idő egy helyi borkóstolóra.",
             "ro": "Timp pentru o degustare de vin local.",
-            "en": "Time for a local wine tasting."
+            "en": "Time for a local wine tasting.",
+            "fr": "Temps pour une dégustation de vin local."
           }
         },
         {
@@ -681,7 +761,8 @@
             "de": "Lassen Sie den Tag am Wasser ausklingen.",
             "hu": "Zárd a napot a vízparton.",
             "ro": "Încheiați ziua pe malul apei.",
-            "en": "End your day by the water."
+            "en": "End your day by the water.",
+            "fr": "Terminez votre journée au bord de l'eau."
           }
         }
       ],
@@ -689,7 +770,8 @@
         "de": "Das Auto erlaubt es Ihnen, die Umgebung von Azay-le-Rideau umfassender zu erkunden. Nach dem Besuch des Märchenschlosses fahren Sie zum Tal der Goupillières und danach zum einzigartigen Maurice-Dufresne-Museum, das Technikbegeisterte mit seiner Sammlung historischer Maschinen fasziniert. Den späten Nachmittag verbringen Sie wieder im Herzen von Azay, um die lokale Weinkultur und den Fluss zu genießen.",
         "hu": "Az autó lehetővé teszi, hogy Azay-le-Rideau környékét alaposabban felfedezzük. A tündérkastély után a Goupillières-völgybe autózunk, majd az egyedülálló Maurice Dufresne Múzeumba, amely történelmi gépeivel nyűgözi le a technika kedvelőit. A késő délutánt ismét Azay szívében töltjük, élvezve a helyi borkultúrát és a folyópartot.",
         "ro": "Mașina vă permite să explorați împrejurimile Azay-le-Rideau mai pe larg. După vizitarea castelului de basm, conduceți spre valea Goupillières și apoi spre muzeul unic Maurice Dufresne, care îi fascinează pe pasionații de tehnică cu colecția sa de mașini istorice. După-amiaza târziu o petreceți din nou în inima Azay, bucurându-vă de cultura vinului local și de râu.",
-        "en": "A car allows you to explore the surroundings of Azay-le-Rideau more extensively. After visiting the fairytale castle, drive to the Goupillières valley and then to the unique Maurice Dufresne Museum, which fascinates tech enthusiasts with its collection of historic machinery. Spend the late afternoon back in the heart of Azay to enjoy the local wine culture and the riverbank."
+        "en": "A car allows you to explore the surroundings of Azay-le-Rideau more extensively. After visiting the fairytale castle, drive to the Goupillières valley and then to the unique Maurice Dufresne Museum, which fascinates tech enthusiasts with its collection of historic machinery. Spend the late afternoon back in the heart of Azay to enjoy the local wine culture and the riverbank.",
+        "fr": "La voiture vous permet d'explorer les environs d'Azay-le-Rideau plus largement. Après avoir visité le château de conte de fées, conduisez vers la vallée des Goupillières puis vers l'unique musée Maurice Dufresne, qui fascine les passionnés de technique avec sa collection de machines historiques. Passez la fin d'après-midi au cœur d'Azay pour profiter de la culture viticole locale et des bords de l'Indre."
       },
       "gastro_picks": {
         "de": [
@@ -714,6 +796,12 @@
           {
             "name": "Rillettes de Tours",
             "tip": "A savory pork spread, a regional classic."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Rillettes de Tours",
+            "tip": "Une préparation savoureuse à base de porc, un classique régional."
           }
         ]
       },
@@ -745,6 +833,13 @@
             "tip": "A scenic drive through the vineyards.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Vallée de l'Indre",
+            "tip": "Une route panoramique à travers les vignobles.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -770,6 +865,12 @@
           {
             "name": "Local Wine Cellars",
             "tip": "Direct sales of local Touraine wines."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Caves à vin locales",
+            "tip": "Vente directe de vins de Touraine locaux."
           }
         ]
       },
@@ -797,6 +898,12 @@
           "The surrounding roads are narrow but very scenic.",
           "Some museums have different opening hours during winter.",
           "Consider combining this tour with a visit to Villandry (15 min drive)."
+        ],
+        "fr": [
+          "Attention aux zones de stationnement en ville ; beaucoup sont limitées dans le temps.",
+          "Les routes environnantes sont étroites mais très pittoresques.",
+          "Certains musées ont des horaires d'ouverture différents en hiver.",
+          "Pensez à combiner ce tour avec une visite de Villandry (15 min de route)."
         ]
       }
     },
@@ -828,7 +935,8 @@
             "de": "Ankunftspunkt der Regionalzüge (TER).",
             "hu": "A regionális vonatok (TER) érkezési pontja.",
             "ro": "Punctul de sosire a trenurilor regionale (TER).",
-            "en": "Arrival point for regional TER trains."
+            "en": "Arrival point for regional TER trains.",
+            "fr": "Point d'arrivée des trains régionaux TER."
           }
         },
         {
@@ -851,7 +959,8 @@
             "de": "Spaziergang von der Station ins Zentrum.",
             "hu": "Séta az állomástól a központig.",
             "ro": "Plimbare de la gară spre centru.",
-            "en": "A short walk from the station to the center."
+            "en": "A short walk from the station to the center.",
+            "fr": "Courte promenade de la gare vers le centre."
           }
         },
         {
@@ -874,7 +983,8 @@
             "de": "Hauptattraktion des Ortes.",
             "hu": "A település fő látnivalója.",
             "ro": "Principala atracție a orașului.",
-            "en": "The main attraction of the town."
+            "en": "The main attraction of the town.",
+            "fr": "L'attraction principale de la ville."
           }
         },
         {
@@ -897,7 +1007,8 @@
             "de": "Ein historisches Juwel im Zentrum.",
             "hu": "Történelmi ékszerdoboz a központban.",
             "ro": "O bijuterie istorică în centru.",
-            "en": "A historical gem in the heart of town."
+            "en": "A historical gem in the heart of town.",
+            "fr": "Un joyau historique au cœur de la ville."
           }
         },
         {
@@ -920,7 +1031,8 @@
             "de": "Ideal für ein langes Mittagessen.",
             "hu": "Tökéletes hely egy hosszú ebédhez.",
             "ro": "Ideal pentru un prânz prelungit.",
-            "en": "Perfect for a leisurely lunch."
+            "en": "Perfect for a leisurely lunch.",
+            "fr": "Parfait pour un déjeuner tranquille."
           }
         }
       ],
@@ -928,7 +1040,8 @@
         "de": "Dank der Bahnanbindung ist Azay-le-Rideau ideal für einen Tagesausflug mit öffentlichen Verkehrsmitteln. Nach der Ankunft am Bahnhof erreichen Sie nach einem kurzen Spaziergang das charmante Zentrum und das berühmte Schloss. Genießen Sie die entspannte Atmosphäre im Ort, besuchen Sie die historische Kirche und gönnen Sie sich ein ausgiebiges Mittagessen auf dem Marktplatz, bevor Sie gemütlich zum Zug zurückkehren.",
         "hu": "A vasúti összeköttetésnek köszönhetően Azay-le-Rideau ideális egynapos túra tömegközlekedéssel. Az állomásra érkezve egy rövid séta után elérjük a bájos központot és a híres kastélyt. Élvezze a település nyugodt légkörét, látogassa meg a történelmi templomot, és fogyasszon el egy bőséges ebédet a piactéren, mielőtt kényelmesen visszatérne a vonathoz.",
         "ro": "Datorită conexiunii feroviare, Azay-le-Rideau este ideal pentru o excursie de o zi cu transportul public. După sosirea la gară, ajungeți în centrul fermecător și la castel după o scurtă plimbare. Savurați atmosfera relaxată a orașului, vizitați biserica istorică și răsfățați-vă cu un prânz bogat în piața centrală înainte de a vă întoarce la tren.",
-        "en": "Thanks to its train station, Azay-le-Rideau is perfect for a day trip using public transport. Upon arrival, a short walk brings you to the charming center and the famous castle. Enjoy the relaxed atmosphere, visit the historical church, and treat yourself to a long lunch in the main square before heading back to the train station."
+        "en": "Thanks to its train station, Azay-le-Rideau is perfect for a day trip using public transport. Upon arrival, a short walk brings you to the charming center and the famous castle. Enjoy the relaxed atmosphere, visit the historical church, and treat yourself to a long lunch in the main square before heading back to the train station.",
+        "fr": "Grâce à sa gare, Azay-le-Rideau est idéale pour une excursion d'une journée en transports en commun. À votre arrivée, une courte marche vous mène au charmant centre et au célèbre château. Profitez de l'atmosphère détendue, visitez l'église historique et offrez-vous un long déjeuner sur la place principale avant de retourner à la gare."
       },
       "gastro_picks": {
         "de": [
@@ -953,6 +1066,12 @@
           {
             "name": "Nougat de Tours",
             "tip": "A traditional cake made with candied fruits and almonds."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Nougat de Tours",
+            "tip": "Un gâteau traditionnel fait de fruits confits et d'amandes."
           }
         ]
       },
@@ -984,6 +1103,13 @@
             "tip": "A quiet road lined with charming gardens.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Chemin de la gare",
+            "tip": "Une route calme bordée de charmants jardins.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1009,6 +1135,12 @@
           {
             "name": "L'Echoppe Gourmande",
             "tip": "A fine selection of Loire Valley products."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Echoppe Gourmande",
+            "tip": "Une fine sélection de produits de la vallée de la Loire."
           }
         ]
       },
@@ -1036,6 +1168,12 @@
           "The walk from the station to the castle takes about 15-20 minutes.",
           "In high season, additional bus services are often available.",
           "Remember to validate your ticket before boarding."
+        ],
+        "fr": [
+          "Vérifiez les horaires des trains de retour vers Tours ou Chinon.",
+          "La marche de la gare au château prend environ 15-20 minutes.",
+          "En haute saison, des services de bus supplémentaires sont souvent disponibles.",
+          "N'oubliez pas de composter votre billet avant de monter à bord."
         ]
       }
     }

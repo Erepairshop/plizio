@@ -31,7 +31,8 @@
             "de": "Starten Sie Ihren Tag mit einem Kaffee am Wasser.",
             "hu": "Kezdje a napot egy kávéval a parton.",
             "ro": "Începeți ziua cu o cafea pe malul mării.",
-            "en": "Start your day with a coffee by the water."
+            "en": "Start your day with a coffee by the water.",
+            "hr": "Započnite dan kavom uz more."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die Steinmetzkunst aus dem 17. Jahrhundert.",
             "hu": "Csodálja meg a 17. századi kőfaragványokat.",
             "ro": "Admirați măiestria pietrarilor din secolul XVII.",
-            "en": "Admire the 17th-century stonemasonry."
+            "en": "Admire the 17th-century stonemasonry.",
+            "hr": "Divite se klesarstvu iz 17. stoljeća."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Die Fassade ist ein Meisterwerk des Barock.",
             "hu": "A homlokzat a barokk építészet remekműve.",
             "ro": "Fațada este o capodoperă a stilului baroc.",
-            "en": "The facade is a Baroque masterpiece."
+            "en": "The facade is a Baroque masterpiece.",
+            "hr": "Fasada je barokno remek-djelo."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Zwei historische Brunnen im Herzen der Stadt.",
             "hu": "Két történelmi kút a város szívében.",
             "ro": "Două fântâni istorice în inima orașului.",
-            "en": "Two historic stone wells in the city center."
+            "en": "Two historic stone wells in the city center.",
+            "hr": "Dva povijesna kamena bunara u centru grada."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Sehen Sie antike Schiffsmodelle und Seeigel.",
             "hu": "Nézzen meg antik hajómodelleket és tengeri sünöket.",
             "ro": "Vedeți machete de nave antice și arici de mare.",
-            "en": "See ancient ship models and sea urchins."
+            "en": "See ancient ship models and sea urchins.",
+            "hr": "Pogledajte modele drevnih brodova i morske ježeve."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Der beliebteste Kieselstrand für Familien.",
             "hu": "A legnépszerűbb kavicsos strand családoknak.",
             "ro": "Cea mai populară plajă cu pietriș pentru familii.",
-            "en": "The most popular pebble beach for families."
+            "en": "The most popular pebble beach for families.",
+            "hr": "Najpopularnija šljunčana plaža za obitelji."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Frischer Fisch bei Sonnenuntergang.",
             "hu": "Friss halételek a naplementében.",
             "ro": "Pește proaspăt la apusul soarelui.",
-            "en": "Fresh seafood at sunset."
+            "en": "Fresh seafood at sunset.",
+            "hr": "Svježi plodovi mora uz zalazak sunca."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Erkunden Sie Vodice zu Fuß, beginnend an der lebhaften Riva. Entdecken Sie den historischen Coric-Turm und die prächtige Barockkirche, bevor Sie zu den symbolträchtigen Brunnen spazieren. Nach einem Besuch im maritimen Museum und Aquarium erwartet Sie ein entspannter Nachmittag am berühmten blauen Strand 'Plava Plaza'. Beenden Sie Ihren Tag mit dalmatinischen Köstlichkeiten direkt am Wasser.",
         "hu": "Fedezze fel Vodicét gyalogosan, a nyüzsgő tengerparti sétánytól indulva. Ismerje meg a történelmi Ćorić-tornyot és a pompás barokk templomot, mielőtt a város jelképének számító kutakhoz látogatna. A tengerészeti múzeum és akvárium után egy pihentető délután várja a népszerű Plava Plaza strandon. Zárja a napot dalmát finomságokkal közvetlenül a parton.",
         "ro": "Explorați Vodice la pas, pornind de pe faleza vibrantă Riva. Descoperiți turnul istoric Coric și biserica barocă splendidă, înainte de a merge spre fântânile emblematice ale orașului. După o vizită la muzeul maritim și acvariu, vă așteaptă o după-amiază relaxantă pe celebra plajă Plava Plaza. Încheiați ziua cu delicii dalmate chiar pe malul apei.",
-        "en": "Explore Vodice on foot, starting from the lively Riva promenade. Discover the historic Coric Tower and the magnificent Baroque church before walking to the iconic stone wells. After a visit to the maritime museum and aquarium, a relaxed afternoon awaits you at the famous Plava Plaza beach. Finish your day with Dalmatian delicacies right by the water."
+        "en": "Explore Vodice on foot, starting from the lively Riva promenade. Discover the historic Coric Tower and the magnificent Baroque church before walking to the iconic stone wells. After a visit to the maritime museum and aquarium, a relaxed afternoon awaits you at the famous Plava Plaza beach. Finish your day with Dalmatian delicacies right by the water.",
+        "hr": "Istražite Vodice pješice, počevši od živahne rive. Otkrijte povijesni toranj Ćorić i veličanstvenu baroknu crkvu prije nego što odšećete do kultnih kamenih bunara. Nakon posjeta Pomorskom muzeju i akvariju, čeka vas opušteno poslijepodne na poznatoj Plavoj plaži. Završite dan dalmatinskim delicijama tik uz more."
       },
       "gastro_picks": {
         "de": [
@@ -172,6 +180,12 @@
           {
             "name": "Konoba Tri Piruna",
             "tip": "Known for modern Croatian fine dining."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Tri Piruna",
+            "tip": "Poznata po modernoj hrvatskoj vrhunskoj kuhinji."
           }
         ]
       },
@@ -203,6 +217,13 @@
             "tip": "Quiet retreat above the town.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Brdo Okit",
+            "tip": "Mirno utočište iznad grada.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -228,6 +249,12 @@
           {
             "name": "Vodice Market",
             "tip": "Fresh fruit and local brandy (rakija)."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Tržnica Vodice",
+            "tip": "Svježe voće i domaća rakija."
           }
         ]
       },
@@ -255,6 +282,12 @@
           "The stone wells are a nice spot for a short break.",
           "Visit the aquarium especially on hot afternoons.",
           "Most restaurants accept credit cards."
+        ],
+        "hr": [
+          "Nosite kremu za sunčanje jer na rivi ima vrlo malo hlada.",
+          "Kameni bunari su lijepo mjesto za kratki predah.",
+          "Posjetite akvarij, osobito tijekom vrućih poslijepodneva.",
+          "Većina restorana prihvaća kreditne kartice."
         ]
       },
       "variants": {
@@ -263,7 +296,8 @@
             "en": "Morning: Start your rainy day at the Parish Church of the Holy Cross, where the baroque interior provides a dry and peaceful refuge. The rain adds a mystic atmosphere to the ancient stone walls.\n\nNoon: Pass by the Ćorić Tower and the Roman Cistern. The wet limestone of the old town shines beautifully, but watch your step on the slick surfaces. Take cover in the Old Church of the Holy Cross.\n\nAfternoon: Take a brisk walk along the waterfront promenade. The Adriatic Sea turns a deep grey-blue under the rain, and the salt air is particularly fresh and invigorating.\n\nEvening: Head to the Aquarium & Museum to spend a dry hour exploring marine life. End the day at Plava Plaža, watching the rain dance on the sea surface from a beachside cafe.",
             "hu": "Reggel: Kezdje az esős napot a Szent Kereszt plébániatemplomban, ahol a barokk belső tér száraz és békés menedéket nyújt. Az eső misztikus hangulatot kölcsönöz az ősi kőfalaknak.\n\nDélben: Haladjon el a Ćorić-torony és a római ciszterna mellett. Az óváros vizes mészkőfalai gyönyörűen csillognak, de vigyázzon a csúszós felületekre. Keressen menedéket a Szent Kereszt régi templomában.\n\nDélután: Tegyen egy frissítő sétát a tengerparti sétányon. Az Adriai-tenger mély szürkéskékké válik az esőben, a sós levegő pedig különösen friss és élénkítő.\n\nEste: Irány az Akvárium és Múzeum, ahol egy száraz órát tölthet el a tengeri élővilág felfedezésével. Zárja a napot a Plava Plažán, egy vízparti kávézóból figyelve a tengerre hulló esőcseppeket.",
             "de": "Morgens: Beginnen Sie Ihren Regentag in der Pfarrkirche zum Heiligen Kreuz, wo das barocke Interieur einen trockenen und friedlichen Zufluchtsort bietet. Der Regen verleiht den alten Steinmauern eine mystische Atmosphäre.\n\nMittags: Vorbei am Ćorić-Turm und der römischen Zisterne. Der nasse Kalkstein der Altstadt glänzt wunderschön, aber achten Sie auf den rutschigen Untergrund. Suchen Sie Schutz in der alten Kirche zum Heiligen Kreuz.\n\nNachmittags: Ein kurzer Spaziergang entlang der Uferpromenade. Die Adria färbt sich im Regen tiefgrau-blau und die salzige Luft ist besonders frisch und belebend.\n\nAbends: Besuchen Sie das Aquarium & Museum, um eine trockene Stunde mit der Erkundung des Meereslebens zu verbringen. Beenden Sie den Tag am Plava Plaža und beobachten Sie den Regen auf dem Meer von einem Café aus.",
-            "ro": "Dimineața: Începeți ziua ploioasă la Biserica Parohială a Sfintei Cruci, unde interiorul baroc oferă un refugiu uscat și liniștit. Ploaia adaugă o atmosferă mistică zidurilor vechi de piatră.\n\nLa prânz: Treceți pe lângă Turnul Ćorić și Cisterna Romană. Calcarul umed al orașului vechi strălucește frumos, dar aveți grijă la suprafețele alunecoase. Adăpostiți-vă în Vechea Biserică a Sfintei Cruci.\n\nDupă-amiaza: O plimbare revigorantă de-a lungul promenadei de pe malul mării. Marea Adriatică devine un albastru-gri intens sub ploaie, iar aerul sărat este deosebit de proaspăt.\n\nSeara: Mergeți la Acvariu și Muzeu pentru a petrece o oră la adăpost explorând viața marină. Încheiați ziua la Plava Plaža, privind ploaia pe mare de la o cafenea de pe plajă."
+            "ro": "Dimineața: Începeți ziua ploioasă la Biserica Parohială a Sfintei Cruci, unde interiorul baroc oferă un refugiu uscat și liniștit. Ploaia adaugă o atmosferă mistică zidurilor vechi de piatră.\n\nLa prânz: Treceți pe lângă Turnul Ćorić și Cisterna Romană. Calcarul umed al orașului vechi strălucește frumos, dar aveți grijă la suprafețele alunecoase. Adăpostiți-vă în Vechea Biserică a Sfintei Cruci.\n\nDupă-amiaza: O plimbare revigorantă de-a lungul promenadei de pe malul mării. Marea Adriatică devine un albastru-gri intens sub ploaie, iar aerul sărat este deosebit de proaspăt.\n\nSeara: Mergeți la Acvariu și Muzeu pentru a petrece o oră la adăpost explorând viața marină. Încheiați ziua la Plava Plaža, privind ploaia pe mare de la o cafenea de pe plajă.",
+            "hr": "Jutro: Započnite kišni dan u župnoj crkvi Našašća svetoga Križa, gdje barokni interijer pruža suho i mirno utočište. Kiša dodaje mističnu atmosferu drevnim kamenim zidovima.\n\nPodne: Prođite pored tornja Ćorić i rimske cisterne. Mokri vapnenac starog grada prekrasno sjaji, ali pazite na korak na klizavim površinama. Sklonite se u staru crkvu svetog Križa.\n\nPoslijepodne: Prošećite uz obalnu šetnicu. Jadransko more pod kišom poprima duboku sivo-plavu boju, a slani zrak je posebno svjež i okrepljujući.\n\nVečer: Zaputite se u Akvarij i muzej kako biste proveli sat vremena na suhom istražujući morski život. Završite dan na Plavoj plaži, promatrajući ples kiše na morskoj površini iz kafića uz plažu."
           },
           "stops": [
             {
@@ -272,7 +306,8 @@
                 "en": "Perfect indoor start.",
                 "hu": "Tökéletes fedett kezdés.",
                 "de": "Idealer trockener Start.",
-                "ro": "Început perfect la interior."
+                "ro": "Început perfect la interior.",
+                "hr": "Savršen početak u zatvorenom."
               }
             },
             {
@@ -281,7 +316,8 @@
                 "en": "Watch the slippery steps.",
                 "hu": "Vigyázz a csúszós lépcsőkre.",
                 "de": "Vorsicht auf den Stufen.",
-                "ro": "Atenție la treptele alunecoase."
+                "ro": "Atenție la treptele alunecoase.",
+                "hr": "Pazite na klizave stepenice."
               }
             },
             {
@@ -290,7 +326,8 @@
                 "en": "Use an umbrella here.",
                 "hu": "Itt használj esernyőt.",
                 "de": "Nutzen Sie hier einen Schirm.",
-                "ro": "Folosiți umbrela aici."
+                "ro": "Folosiți umbrela aici.",
+                "hr": "Ovdje koristite kišobran."
               }
             },
             {
@@ -299,7 +336,8 @@
                 "en": "Quiet refuge from rain.",
                 "hu": "Csendes menedék az eső elől.",
                 "de": "Ruhiger Zufluchtsort.",
-                "ro": "Refugiu liniștit contra ploii."
+                "ro": "Refugiu liniștit contra ploii.",
+                "hr": "Mirno utočište od kiše."
               }
             },
             {
@@ -308,7 +346,8 @@
                 "en": "Sea spray might join rain.",
                 "hu": "A tenger permete is elérhet.",
                 "de": "Meeresgischt möglich.",
-                "ro": "Posibil aerosoli marini."
+                "ro": "Posibil aerosoli marini.",
+                "hr": "Morska maglica bi se mogla pridružiti kiši."
               }
             },
             {
@@ -317,7 +356,8 @@
                 "en": "Stay dry while learning.",
                 "hu": "Tanulj szárazon maradva.",
                 "de": "Trocken bleiben und lernen.",
-                "ro": "Rămâneți uscat explorând."
+                "ro": "Rămâneți uscat explorând.",
+                "hr": "Ostanite suhi dok učite."
               }
             },
             {
@@ -326,7 +366,8 @@
                 "en": "View waves from a cafe.",
                 "hu": "Nézd a hullámokat a büféből.",
                 "de": "Wellen vom Café aus sehen.",
-                "ro": "Priviți valurile din cafenea."
+                "ro": "Priviți valurile din cafenea.",
+                "hr": "Promatrajte valove iz kafića."
               }
             }
           ],
@@ -354,6 +395,12 @@
               "Dalele din orașul vechi devin foarte alunecoase când sunt ude.",
               "Aveți la îndemână o umbrelă compactă pentru promenadă.",
               "Muzeul este un loc excelent pentru a sta la uscat."
+            ],
+            "hr": [
+              "Koristite uske kamene uličice za zaštitu od vjetra.",
+              "Pločice u starom gradu postaju vrlo klizave kad su mokre.",
+              "Neka vam sklopivi kišobran bude pri ruci za šetnju rivom.",
+              "Muzej je odlično mjesto za predah na suhom sredinom dana."
             ]
           }
         },
@@ -362,7 +409,8 @@
             "en": "Morning: The crisp winter air greets you at the Parish Church. The town is quiet and peaceful, away from the summer crowds, allowing for a contemplative visit.\n\nNoon: Explore the Ćorić Tower and the Roman Cistern. The low winter sun casts long, beautiful shadows on the stone walls, creating high-contrast photo opportunities.\n\nAfternoon: Walk the promenade. If the Bura wind blows, the air is incredibly clear, offering views all the way to the distant islands.\n\nEvening: Warm up in the Aquarium & Museum. End the day at Plava Plaža, catching the early winter sunset over the calm horizon around 16:30.",
             "hu": "Reggel: A friss téli levegő fogadja a plébániatemplomnál. A város csendes és békés, távol a nyári tömegtől, ami lehetővé teszi az elmélyült látogatást.\n\nDélben: Fedezze fel a Ćorić-toronyt és a római ciszternát. Az alacsony téli nap hosszú, gyönyörű árnyékokat vet a kőfalakra, kiváló fotótémát nyújtva.\n\nDélután: Sétáljon a sétányon. Ha fúj a bóra, a levegő hihetetlenül tiszta, és egészen a távoli szigetekig ellátni.\n\nEste: Melegedjen fel az Akvárium és Múzeumban. Zárja a napot a Plava Plažán, elcsípve a korai téli naplementét a nyugodt horizont felett 16:30 körül.",
             "de": "Morgens: Die frische Winterluft begrüßt Sie an der Pfarrkirche. Die Stadt ist ruhig und friedlich, fernab der Sommermassen, was einen besinnlichen Besuch ermöglicht.\n\nMittags: Erkunden Sie den Ćorić-Turm und die römische Zisterne. Die tiefe Wintersonne wirft lange, schöne Schatten auf die Steinmauern.\n\nNachmittags: Spaziergang auf der Promenade. Wenn der Bura-Wind weht, ist die Luft unglaublich klar und bietet Sicht bis zu den fernen Inseln.\n\nAbends: Aufwärmen im Aquarium & Museum. Beenden Sie den Tag am Plava Plaža und erleben Sie den frühen Wintersonnenuntergang gegen 16:30 Uhr.",
-            "ro": "Dimineața: Aerul proaspăt de iarnă vă întâmpină la Biserica Parohială. Orașul este liniștit și pașnic, departe de mulțimile de vară, permițând o vizită contemplativă.\n\nLa prânz: Explorați Turnul Ćorić și Cisterna Romană. Soarele jos de iarnă aruncă umbre lungi și frumoase pe zidurile de piatră.\n\nDupă-amiaza: Plimbați-vă pe promenadă. Dacă bate vântul Bura, aerul este incredibil de clar, oferind priveliști până la insulele îndepărtate.\n\nSeara: Încălziți-vă la Acvariu și Muzeu. Încheiați ziua la Plava Plaža, prinzând apusul timpuriu de iarnă peste orizontul calm în jurul orei 16:30."
+            "ro": "Dimineața: Aerul proaspăt de iarnă vă întâmpină la Biserica Parohială. Orașul este liniștit și pașnic, departe de mulțimile de vară, permițând o vizită contemplativă.\n\nLa prânz: Explorați Turnul Ćorić și Cisterna Romană. Soarele jos de iarnă aruncă umbre lungi și frumoase pe zidurile de piatră.\n\nDupă-amiaza: Plimbați-vă pe promenadă. Dacă bate vântul Bura, aerul este incredibil de clar, oferind priveliști până la insulele îndepărtate.\n\nSeara: Încălziți-vă la Acvariu și Muzeu. Încheiați ziua la Plava Plaža, prinzând apusul timpuriu de iarnă peste orizontul calm în jurul orei 16:30.",
+            "hr": "Jutro: Svjež zimski zrak dočekuje vas kod župne crkve. Grad je tih i miran, daleko od ljetnih gužvi, što omogućuje kontemplativni posjet.\n\nPodne: Istražite toranj Ćorić i rimsku cisternu. Nisko zimsko sunce baca duge, prekrasne sjene na kamene zidove, stvarajući prilike za fotografije visokog kontrasta.\n\nPoslijepodne: Prošećite rivom. Ako puše bura, zrak je nevjerojatno čist, nudeći pogled sve do udaljenih otoka.\n\nVečer: Ugrijte se u Akvariju i muzeju. Završite dan na Plavoj plaži, hvatajući rani zimski zalazak sunca nad mirnim horizontom oko 16:30."
           },
           "stops": [
             {
@@ -371,7 +419,8 @@
                 "en": "Interior is peacefully cool.",
                 "hu": "A belső tér kellemesen hűvös.",
                 "de": "Innen angenehm kühl.",
-                "ro": "Interiorul este răcoros."
+                "ro": "Interiorul este răcoros.",
+                "hr": "Unutrašnjost je ugodno hladna."
               }
             },
             {
@@ -380,7 +429,8 @@
                 "en": "Cold stone, great photos.",
                 "hu": "Hideg kövek, jó fotók.",
                 "de": "Kalter Stein, tolle Fotos.",
-                "ro": "Piatră rece, poze reușite."
+                "ro": "Piatră rece, poze reușite.",
+                "hr": "Hladan kamen, odlične fotografije."
               }
             },
             {
@@ -389,7 +439,8 @@
                 "en": "Quick historical stop.",
                 "hu": "Gyors történelmi megálló.",
                 "de": "Kurzer historischer Stopp.",
-                "ro": "Oprire istorică scurtă."
+                "ro": "Oprire istorică scurtă.",
+                "hr": "Brzo povijesno zaustavljanje."
               }
             },
             {
@@ -398,7 +449,8 @@
                 "en": "Calm atmosphere.",
                 "hu": "Nyugodt légkör.",
                 "de": "Ruhige Atmosphäre.",
-                "ro": "Atmosferă calmă."
+                "ro": "Atmosferă calmă.",
+                "hr": "Mirna atmosfera."
               }
             },
             {
@@ -407,7 +459,8 @@
                 "en": "Crisp air, blue horizon.",
                 "hu": "Friss levegő, kék látóhatár.",
                 "de": "Klare Luft, blauer Horizont.",
-                "ro": "Aer curat, orizont albastru."
+                "ro": "Aer curat, orizont albastru.",
+                "hr": "Svjež zrak, plavi horizont."
               }
             },
             {
@@ -416,7 +469,8 @@
                 "en": "Warm indoor break.",
                 "hu": "Meleg beltéri pihenő.",
                 "de": "Warme Pause im Inneren.",
-                "ro": "Pauză caldă la interior."
+                "ro": "Pauză caldă la interior.",
+                "hr": "Topli predah u zatvorenom."
               }
             },
             {
@@ -425,7 +479,8 @@
                 "en": "Beautiful early sunset.",
                 "hu": "Györnyörű korai naplemente.",
                 "de": "Schöner früher Sonnenuntergang.",
-                "ro": "Apus superb de timpuriu."
+                "ro": "Apus superb de timpuriu.",
+                "hr": "Prekrasan rani zalazak sunca."
               }
             }
           ],
@@ -453,6 +508,12 @@
               "Apusul este devreme, în jur de 16:30.",
               "Începeți plimbarea la 09:00 pentru a profita de lumină.",
               "Multe cafenele de pe malul mării rămân deschise."
+            ],
+            "hr": [
+              "Odjenite se slojevito jer bura može biti vrlo hladna.",
+              "Zalazak sunca je rano, oko 16:30.",
+              "Započnite šetnju do 09:00 kako biste iskoristili dnevno svjetlo.",
+              "Mnogi kafići uz more ostaju otvoreni za predah uz kavu."
             ]
           }
         }
@@ -481,7 +542,8 @@
             "de": "Mieten Sie ein Fahrrad nahe der Marina.",
             "hu": "Béreljen kerékpárt a jachtkikötő közelében.",
             "ro": "Închiriați o bicicletă lângă marină.",
-            "en": "Rent a bike near the marina."
+            "en": "Rent a bike near the marina.",
+            "hr": "Unajmite bicikl u blizini marine."
           }
         },
         {
@@ -499,7 +561,8 @@
             "de": "Der Küstenradweg ist hier sehr flach.",
             "hu": "A parti kerékpárút itt nagyon sík.",
             "ro": "Pista de biciclete de pe coastă este plană aici.",
-            "en": "The coastal bike path is very flat here."
+            "en": "The coastal bike path is very flat here.",
+            "hr": "Obalna biciklistička staza ovdje je vrlo ravna."
           }
         },
         {
@@ -517,7 +580,8 @@
             "de": "Ein steiler Anstieg zur modernen Kirche.",
             "hu": "Meredek emelkedő a modern templomhoz.",
             "ro": "O urcare abruptă spre biserica modernă.",
-            "en": "A steep climb up to the modern church."
+            "en": "A steep climb up to the modern church.",
+            "hr": "Strmi uspon do moderne crkve."
           }
         },
         {
@@ -535,7 +599,8 @@
             "de": "Archäologische Stätte mit Panoramablick.",
             "hu": "Régészeti lelőhely panorámás kilátással.",
             "ro": "Sit arheologic cu vedere panoramică.",
-            "en": "Archaeological site with panoramic views."
+            "en": "Archaeological site with panoramic views.",
+            "hr": "Arheološko nalazište s panoramskim pogledom."
           }
         },
         {
@@ -553,7 +618,8 @@
             "de": "Kleine historische Kirche in den Feldern.",
             "hu": "Kis történelmi templom a mezőkön.",
             "ro": "O mică biserică istorică pe câmp.",
-            "en": "A small historical church in the fields."
+            "en": "A small historical church in the fields.",
+            "hr": "Mala povijesna crkvica u poljima."
           }
         },
         {
@@ -571,7 +637,8 @@
             "de": "Erholen Sie sich am Hafenbecken.",
             "hu": "Pihenjen meg a kikötőmedence partján.",
             "ro": "Relaxați-vă pe malul bazinului portuar.",
-            "en": "Relax by the harbor basin."
+            "en": "Relax by the harbor basin.",
+            "hr": "Opustite se uz lučki bazen."
           }
         }
       ],
@@ -579,7 +646,8 @@
         "de": "Entdecken Sie die Umgebung von Vodice sportlich mit dem Rad. Entlang der Küste radeln Sie zum Plava Plaza und weiter ins Hinterland zum Berg Okit. Die Route führt Sie zur bedeutenden Ausgrabungsstätte Velika Mrdakovica und durch die Olivenhaine zur einsamen Eliaskirche. Genießen Sie die Weite der Landschaft, bevor Sie für ein wohlverdientes Mittagessen an die Riva zurückkehren.",
         "hu": "Fedezze fel Vodice környékét sportosan, kerékpárral. A part mentén tekerve érheti el a Plava Plazát, majd a hátország felé, az Okit-dombhoz vezet az út. Érintse meg a Velika Mrdakovica régészeti lelőhelyet, és tekerjen az olajfaligetek között a magányos Szent Illés-templomhoz. Élvezze a táj tágasságát, mielőtt visszatérne a sétányra egy megérdemelt ebédre.",
         "ro": "Explorați împrejurimile orașului Vodice într-un mod activ, cu bicicleta. Pedalați de-a lungul coastei spre Plava Plaza și continuați spre dealul Okit. Traseul vă poartă la situl arheologic Velika Mrdakovica și prin livezi de măslini spre biserica izolată Sf. Ilie. Bucurați-vă de peisajul vast înainte de a reveni la faleză pentru un prânz meritat.",
-        "en": "Discover the surroundings of Vodice actively by bike. Cycle along the coast to Plava Plaza and further inland to Okit Hill. The route takes you to the important Velika Mrdakovica archaeological site and through olive groves to the lonely St. Elijah's Church. Enjoy the vastness of the landscape before returning to the Riva for a well-deserved lunch."
+        "en": "Discover the surroundings of Vodice actively by bike. Cycle along the coast to Plava Plaza and further inland to Okit Hill. The route takes you to the important Velika Mrdakovica archaeological site and through olive groves to the lonely St. Elijah's Church. Enjoy the vastness of the landscape before returning to the Riva for a well-deserved lunch.",
+        "hr": "Aktivno otkrijte okolicu Vodica biciklom. Vozite uz obalu do Plave plaže i dalje u unutrašnjost do brda Okit. Ruta vas vodi do važnog arheološkog nalazišta Velika Mrdakovica te kroz maslinike do usamljene crkve sv. Ilije. Uživajte u prostranstvu krajolika prije povratka na rivu na zasluženi ručak."
       },
       "gastro_picks": {
         "de": [
@@ -604,6 +672,12 @@
           {
             "name": "Restaurant Santa Maria",
             "tip": "Cozy restaurant with homemade Dalmatian dishes."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Santa Maria",
+            "tip": "Ugodan restoran s domaćim dalmatinskim jelima."
           }
         ]
       },
@@ -635,6 +709,13 @@
             "tip": "Lonely paths ideal for taking a deep breath.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Maslinske staze u zaleđu",
+            "tip": "Usamljene staze idealne za duboki udah.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -660,6 +741,12 @@
           {
             "name": "Djelo Supermarket",
             "tip": "Regional wines and olive oils for your cycling trip."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Supermarket Djelo",
+            "tip": "Regionalna vina i maslinova ulja za vaš biciklistički izlet."
           }
         ]
       },
@@ -687,6 +774,12 @@
           "Avoid main roads and use field paths instead.",
           "Okit Hill offers a great view of the Kornati islands.",
           "Check your tire pressure before starting the tour."
+        ],
+        "hr": [
+          "MTB bicikl se preporučuje za područje Velike Mrdakovice.",
+          "Izbjegavajte glavne ceste i koristite poljske putove.",
+          "Brdo Okit nudi sjajan pogled na Kornate.",
+          "Provjerite tlak u gumama prije početka ture."
         ]
       },
       "variants": {
@@ -695,7 +788,8 @@
             "en": "Morning: Start at the Waterfront Promenade, but be extremely careful with the slick stone tiles. The sea air is refreshing despite the drizzle.\n\nNoon: Ride to Plava Plaža Beach. The path is quiet, and the rhythmic sound of rain on the water is meditative.\n\nAfternoon: Challenge yourself with the climb to Okit Hill. The road might be slippery, so maintain a steady pace and watch for runoff.\n\nEvening: Return to the town center for the Ćorić Tower and Parish Church. The lights of Vodice reflect beautifully on the wet pavement.",
             "hu": "Reggel: Kezdjen a tengerparti sétányon, de legyen rendkívül óvatos a csúszós kőlapokkal. A tengeri levegő frissítő a szemerkélő eső ellenére is.\n\nDélben: Tekerjen el a Plava Plaža strandra. Az út csendes, a vízre hulló eső ritmikus kopogása pedig meditatív.\n\nDélután: Próbálja ki az Okit-hegyi emelkedőt. Az út csúszós lehet, ezért tartson egyenletes tempót és figyeljen a lefolyó vízre.\n\nEste: Térjen vissza a városközpontba a Ćorić-toronyhoz és a plébániatemplomhoz. Vodice fényei gyönyörűen tükröződnek a vizes aszfalton.",
             "de": "Morgens: Start an der Uferpromenade, aber seien Sie extrem vorsichtig mit den glatten Steinfliesen. Die Seeluft ist trotz des Nieselregens erfrischend.\n\nMittags: Fahrt zum Strand Plava Plaža. Der Weg ist ruhig und das rhythmische Geräusch des Regens auf dem Wasser ist meditativ.\n\nNachmittags: Fordern Sie sich mit dem Aufstieg zum Okit-Hügel heraus. Die Straße könnte rutschig sein, also halten Sie ein gleichmäßiges Tempo.\n\nAbends: Rückkehr ins Stadtzentrum zum Ćorić-Turm und zur Pfarrkirche. Die Lichter von Vodice spiegeln sich wunderschön auf dem nassen Pflaster.",
-            "ro": "Dimineața: Începeți pe Promenada de pe malul mării, dar fiți extrem de atenți la dalele de piatră alunecoase. Aerul mării este revigorant în ciuda burniței.\n\nLa prânz: Mergeți cu bicicleta la Plaja Plava Plaža. Drumul este liniștit, iar sunetul ploii pe apă este meditativ.\n\nDupă-amiaza: Acceptați provocarea urcării pe Dealul Okit. Drumul poate fi alunecos, așa că mențineți un ritm constant.\n\nSeara: Reveniți în centrul orașului pentru Turnul Ćorić și Biserica Parohială. Luminile orașului se reflectă frumos pe pavajul umed."
+            "ro": "Dimineața: Începeți pe Promenada de pe malul mării, dar fiți extrem de atenți la dalele de piatră alunecoase. Aerul mării este revigorant în ciuda burniței.\n\nLa prânz: Mergeți cu bicicleta la Plaja Plava Plaža. Drumul este liniștit, iar sunetul ploii pe apă este meditativ.\n\nDupă-amiaza: Acceptați provocarea urcării pe Dealul Okit. Drumul poate fi alunecos, așa că mențineți un ritm constant.\n\nSeara: Reveniți în centrul orașului pentru Turnul Ćorić și Biserica Parohială. Luminile orașului se reflectă frumos pe pavajul umed.",
+            "hr": "Jutro: Započnite na rivi, ali budite izuzetno oprezni s klizavim kamenim pločama. Morski zrak osvježava unatoč laganoj kiši.\n\nPodne: Vozite se do Plave plaže. Staza je mirna, a ritmičan zvuk kiše na vodi djeluje meditativno.\n\nPoslijepodne: Izazovite se usponom na brdo Okit. Cesta može biti klizava, stoga održavajte ravnomjeran tempo i pazite na odvodnju.\n\nVečer: Vratite se u centar grada do tornja Ćorić i župne crkve. Svjetla Vodica prekrasno se odražavaju na mokrom kolniku."
           },
           "stops": [
             {
@@ -704,7 +798,8 @@
                 "en": "Tiles are very slippery.",
                 "hu": "A kövek nagyon csúsznak.",
                 "de": "Fliesen sind sehr rutschig.",
-                "ro": "Dalele sunt foarte alunecoase."
+                "ro": "Dalele sunt foarte alunecoase.",
+                "hr": "Pločice su vrlo klizave."
               }
             },
             {
@@ -713,7 +808,8 @@
                 "en": "Path may have puddles.",
                 "hu": "Az úton tócsák lehetnek.",
                 "de": "Pfützen auf dem Weg möglich.",
-                "ro": "Posibile bălți pe drum."
+                "ro": "Posibile bălți pe drum.",
+                "hr": "Na stazi može biti lokvi."
               }
             },
             {
@@ -722,7 +818,8 @@
                 "en": "Watch the wet descent.",
                 "hu": "Vigyázz a vizes lejtőn.",
                 "de": "Vorsicht bei der Abfahrt.",
-                "ro": "Atenție la coborârea umedă."
+                "ro": "Atenție la coborârea umedă.",
+                "hr": "Pazite na mokrom spustu."
               }
             },
             {
@@ -731,7 +828,8 @@
                 "en": "Shelter under the arch.",
                 "hu": "Menedék az ív alatt.",
                 "de": "Schutz unter dem Bogen.",
-                "ro": "Adăpost sub boltă."
+                "ro": "Adăpost sub boltă.",
+                "hr": "Sklonite se pod luk."
               }
             },
             {
@@ -740,7 +838,8 @@
                 "en": "Bike parking is nearby.",
                 "hu": "Kerékpártároló a közelben.",
                 "de": "Radparkplätze in der Nähe.",
-                "ro": "Parcare biciclete aproape."
+                "ro": "Parcare biciclete aproape.",
+                "hr": "Parking za bicikle je u blizini."
               }
             }
           ],
@@ -768,6 +867,12 @@
               "Evitați frânarea pe marcajele rutiere.",
               "Purtați echipament reflectorizant impermeabil.",
               "Verificați frânele înainte de pornire."
+            ],
+            "hr": [
+              "Lagano smanjite tlak u gumama za bolje prianjanje.",
+              "Izbjegavajte kočenje na obojanim cestovnim oznakama.",
+              "Nosite vodootpornu opremu visoke vidljivosti.",
+              "Provjerite kočnice prije polaska."
             ]
           }
         },
@@ -776,7 +881,8 @@
             "en": "Morning: A cold ride along the Waterfront Promenade. The winter wind is sharp, but the visibility across the Adriatic is spectacular.\n\nNoon: Cycle to Plava Plaža Beach. The area is peaceful and empty, perfect for enjoying the raw beauty of the Dalmatian coast in winter.\n\nAfternoon: The climb to Okit Hill will warm you up. From the top, enjoy panoramic views of the snowy mountains in the distance and the crystal clear sea.\n\nEvening: Visit the Ćorić Tower and Parish Church as the winter dusk settles. The historic center feels cozy with its warm streetlights.",
             "hu": "Reggel: Hideg tekerés a tengerparti sétányon. A téli szél éles, de a kilátás az Adrián keresztül lenyűgöző.\n\nDélben: Biciklizzen el a Plava Plaža strandra. A környék csendes és üres, tökéletes a dalmát partvidék nyers téli szépségének élvezetéhez.\n\nDélután: Az Okit-hegyi emelkedő felmelegíti. A csúcsról panorámás kilátás nyílik a távoli havas hegyekre és a kristálytiszta tengerre.\n\nEste: Látogasson el a Ćorić-toronyhoz és a plébániatemplomhoz, ahogy leszáll a téli szürkület. A történelmi központ otthonos a meleg utcai fényekkel.",
             "de": "Morgens: Eine kalte Fahrt entlang der Uferpromenade. Der Winterwind ist scharf, aber die Sicht über die Adria ist spektakulär.\n\nMittags: Radeln Sie zum Strand Plava Plaža. Die Gegend ist friedlich und leer, ideal, um die Schönheit der Küste im Winter zu genießen.\n\nNachmittags: Der Aufstieg zum Okit-Hügel wird Sie aufwärmen. Genießen Sie den Panoramablick auf die fernen Berge und das klare Meer.\n\nAbends: Besuch des Ćorić-Turms und der Pfarrkirche in der Winterdämmerung. Das historische Zentrum wirkt mit dem warmen Licht gemütlich.",
-            "ro": "Dimineața: O tură rece de-a lungul Promenadei. Vântul de iarnă este tăios, dar vizibilitatea peste Adriatică este spectaculoasă.\n\nLa prânz: Mergeți cu bicicleta la Plaja Plava Plaža. Zona este liniștită și goală, perfectă pentru a savura frumusețea coastei dalmate iarna.\n\nDupă-amiaza: Urcarea pe Dealul Okit vă va încălzi. De sus, savurați priveliștea panoramică spre munții înzăpeziți și marea cristalină.\n\nSeara: Vizitați Turnul Ćorić și Biserica Parohială pe măsură ce se lasă amurgul de iarnă. Centrul istoric este primitor cu luminile sale calde."
+            "ro": "Dimineața: O tură rece de-a lungul Promenadei. Vântul de iarnă este tăios, dar vizibilitatea peste Adriatică este spectaculoasă.\n\nLa prânz: Mergeți cu bicicleta la Plaja Plava Plaža. Zona este liniștită și goală, perfectă pentru a savura frumusețea coastei dalmate iarna.\n\nDupă-amiaza: Urcarea pe Dealul Okit vă va încălzi. De sus, savurați priveliștea panoramică spre munții înzăpeziți și marea cristalină.\n\nSeara: Vizitați Turnul Ćorić și Biserica Parohială pe măsură ce se lasă amurgul de iarnă. Centrul istoric este primitor cu luminile sale calde.",
+            "hr": "Jutro: Hladna vožnja uz obalnu šetnicu. Zimski vjetar je oštar, ali je vidljivost preko Jadrana spektakularna.\n\nPodne: Odvezite se biciklom do Plave plaže. Područje je mirno i prazno, savršeno za uživanje u sirovoj ljepoti dalmatinske obale zimi.\n\nPoslijepodne: Uspon na Okit će vas ugrijati. S vrha uživajte u panoramskom pogledu na snježne planine u daljini i kristalno čisto more.\n\nVečer: Posjetite toranj Ćorić i župnu crkvu dok se spušta zimski sumrak. Povijesna jezgra djeluje ugodno uz topla ulična svjetla."
           },
           "stops": [
             {
@@ -785,7 +891,8 @@
                 "en": "Strong headwind likely.",
                 "hu": "Erős szembeszél várható.",
                 "de": "Starker Gegenwind möglich.",
-                "ro": "Probabil vânt puternic din față."
+                "ro": "Probabil vânt puternic din față.",
+                "hr": "Vjerojatan je jak čeoni vjetar."
               }
             },
             {
@@ -794,7 +901,8 @@
                 "en": "Deserted winter beauty.",
                 "hu": "Eltűnt nyári tömeg.",
                 "de": "Verlassene Winter-Schönheit.",
-                "ro": "Frumusețe pustie de iarnă."
+                "ro": "Frumusețe pustie de iarnă.",
+                "hr": "Napuštena zimska ljepota."
               }
             },
             {
@@ -803,7 +911,8 @@
                 "en": "Panoramic winter views.",
                 "hu": "Panorámás téli kilátás.",
                 "de": "Panorama-Winterblick.",
-                "ro": "Priveliști panoramice de iarnă."
+                "ro": "Priveliști panoramice de iarnă.",
+                "hr": "Panoramski zimski pogledi."
               }
             },
             {
@@ -812,7 +921,8 @@
                 "en": "Quick photo stop.",
                 "hu": "Gyors fotómegálló.",
                 "de": "Kurzer Fotostopp.",
-                "ro": "Oprire scurtă pentru poze."
+                "ro": "Oprire scurtă pentru poze.",
+                "hr": "Kratko zaustavljanje za fotografiju."
               }
             },
             {
@@ -821,7 +931,8 @@
                 "en": "Final chilly stretch.",
                 "hu": "Utolsó hideg szakasz.",
                 "de": "Letzte kühle Etappe.",
-                "ro": "Ultima etapă răcoroasă."
+                "ro": "Ultima etapă răcoroasă.",
+                "hr": "Posljednja prohladna dionica."
               }
             }
           ],
@@ -849,6 +960,12 @@
               "Luminile sunt esențiale, se întunecă devreme.",
               "Urcarea pe Okit oferă căldură naturală.",
               "Țineți capul și urechile acoperite."
+            ],
+            "hr": [
+              "Nosite rukavice otporne na vjetar i termo slojeve.",
+              "Svjetla su neophodna jer rano pada mrak.",
+              "Uspon na Okit pruža prirodnu toplinu.",
+              "Držite glavu i uši pokrivenima."
             ]
           }
         }
@@ -877,7 +994,8 @@
             "de": "Großer Parkplatz direkt an der Uferpromenade.",
             "hu": "Nagy parkoló közvetlenül a tengerparti sétánynál.",
             "ro": "Parcare mare chiar lângă faleza de pe malul mării.",
-            "en": "Large parking lot right by the seaside promenade."
+            "en": "Large parking lot right by the seaside promenade.",
+            "hr": "Veliko parkiralište tik uz obalnu šetnicu."
           }
         },
         {
@@ -895,7 +1013,8 @@
             "de": "Nur zwei Minuten zu Fuß vom Parkplatz.",
             "hu": "Csak két perc séta a parkolótól.",
             "ro": "La doar două minute de mers pe jos de parcare.",
-            "en": "Only a two-minute walk from the parking lot."
+            "en": "Only a two-minute walk from the parking lot.",
+            "hr": "Svega dvije minute hoda od parkirališta."
           }
         },
         {
@@ -913,7 +1032,8 @@
             "de": "Die Straße führt direkt bis zum Gipfel.",
             "hu": "Az út egészen a csúcsig vezet.",
             "ro": "Drumul urcă până în vârful dealului.",
-            "en": "The road leads directly to the summit."
+            "en": "The road leads directly to the summit.",
+            "hr": "Cesta vodi izravno do samog vrha."
           }
         },
         {
@@ -931,7 +1051,8 @@
             "de": "Einzigartige Ausgrabung der Liburner-Zeit.",
             "hu": "Egyedülálló liburn-kori ásatási terület.",
             "ro": "Săpături arheologice unice din epoca liburnă.",
-            "en": "Unique archaeological site from the Liburnian era."
+            "en": "Unique archaeological site from the Liburnian era.",
+            "hr": "Jedinstveno arheološko nalazište iz liburnskog doba."
           }
         },
         {
@@ -949,7 +1070,8 @@
             "de": "Parken Sie direkt am Strandzugang.",
             "hu": "Parkoljon közvetlenül a strandbejáratnál.",
             "ro": "Parcați chiar la accesul spre plajă.",
-            "en": "Park right at the beach entrance."
+            "en": "Park right at the beach entrance.",
+            "hr": "Parkirajte točno na ulazu u plažu."
           }
         },
         {
@@ -967,7 +1089,8 @@
             "de": "Kulturelles Herz der Altstadt.",
             "hu": "Az óváros kulturális szíve.",
             "ro": "Inima culturală a orașului vechi.",
-            "en": "The cultural heart of the old town."
+            "en": "The cultural heart of the old town.",
+            "hr": "Kulturno srce starog grada."
           }
         },
         {
@@ -985,7 +1108,8 @@
             "de": "Genießen Sie den Abend bei Meeresfrüchten.",
             "hu": "Élvezze az estét tengeri fogásokkal.",
             "ro": "Savurați seara cu fructe de mare.",
-            "en": "Enjoy the evening with seafood dishes."
+            "en": "Enjoy the evening with seafood dishes.",
+            "hr": "Uživajte u večeri uz jela od plodova mora."
           }
         }
       ],
@@ -993,7 +1117,8 @@
         "de": "Mit dem Auto entdecken Sie sowohl die Küste als auch das faszinierende Hinterland von Vodice. Starten Sie im Zentrum und besuchen Sie die historische Coric-Festung. Eine kurze Fahrt bringt Sie zum Berg Okit und zur archäologischen Stätte Velika Mrdakovica. Den Nachmittag verbringen Sie am Plava Plaza Strand, bevor Sie zur prächtigen Hauptkirche und einem festlichen Abendessen an die Riva zurückkehren.",
         "hu": "Autóval Vodice tengerpartját és lenyűgöző hátországát is felfedezheti. Kezdjen a központban a történelmi Ćorić-erődnél. Egy rövid autózással juthat el az Okit-dombra és a Velika Mrdakovica régészeti lelőhelyre. A délutánt töltse a Plava Plaza strandon, majd térjen vissza a monumentális főtemplomhoz és egy ünnepi vacsorára a sétányhoz.",
         "ro": "Cu mașina veți descoperi atât coasta, cât și hinterlandul fascinant al orașului Vodice. Începeți în centru și vizitați cetatea istorică Coric. O scurtă călătorie vă duce la dealul Okit și la situl arheologic Velika Mrdakovica. Petreceți după-amiaza pe plaja Plava Plaza, înainte de a reveni la biserica principală și pentru o cină festivă pe faleză.",
-        "en": "By car, you can discover both the coast and the fascinating hinterland of Vodice. Start in the center and visit the historic Coric Fortress. A short drive takes you to Okit Hill and the Velika Mrdakovica archaeological site. Spend the afternoon at Plava Plaza beach before returning to the magnificent main church and a festive dinner at the Riva."
+        "en": "By car, you can discover both the coast and the fascinating hinterland of Vodice. Start in the center and visit the historic Coric Fortress. A short drive takes you to Okit Hill and the Velika Mrdakovica archaeological site. Spend the afternoon at Plava Plaza beach before returning to the magnificent main church and a festive dinner at the Riva.",
+        "hr": "Automobilom možete otkriti i obalu i fascinantno zaleđe Vodica. Započnite u centru i posjetite povijesnu utvrdu Ćorić. Kratka vožnja vodi vas do brda Okit i arheološkog nalazišta Velika Mrdakovica. Provedite poslijepodne na Plavoj plaži prije povratka do veličanstvene glavne crkve i svečane večere na rivi."
       },
       "gastro_picks": {
         "de": [
@@ -1018,6 +1143,12 @@
           {
             "name": "Restaurant Adria",
             "tip": "Fresh seafood dishes and a view of the boats."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Adria",
+            "tip": "Jela od svježih plodova mora i pogled na brodove."
           }
         ]
       },
@@ -1049,6 +1180,13 @@
             "tip": "Complete peace in the middle of vineyards.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Poljska crkvica sv. Ilije",
+            "tip": "Potpuni mir usred vinograda.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1074,6 +1212,12 @@
           {
             "name": "Vodice Bakery",
             "tip": "Traditional Croatian bread and pastries."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pekara Vodice",
+            "tip": "Tradicionalni hrvatski kruh i peciva."
           }
         ]
       },
@@ -1101,6 +1245,12 @@
           "Combine Okit and Velika Mrdakovica for a half-day tour.",
           "Watch out for the very narrow streets in the old town area.",
           "Book boat tours to Kornati National Park directly at the harbor."
+        ],
+        "hr": [
+          "Cijene parkinga na rivi su najviše tijekom ljetne sezone.",
+          "Kombinirajte Okit i Veliku Mrdakovicu za poludnevnu turu.",
+          "Pripazite na vrlo uske ulice u starom dijelu grada.",
+          "Izlete brodom u Nacionalni park Kornati rezervirajte izravno u luci."
         ]
       },
       "variants": {
@@ -1109,7 +1259,8 @@
             "en": "Morning: Drive up Okit Hill. Chiar și pe ploaie, priveliștea arhipelagului este dramatică, cu nori joși peste insule.\n\nNoon: Return to the center to visit the Parish Church and Ćorić Tower. Park nearby and enjoy the short walks between these historic sites.\n\nAfternoon: Spend a dry afternoon at the Aquarium & Museum. It's the best way to avoid the heaviest rain while still exploring Vodice's culture.\n\nEvening: Finish with a slow drive along the Waterfront Promenade, watching the waves from the comfort of your car.",
             "hu": "Reggel: Autózzon fel az Okit-hegyre. Az esőben is drámai a kilátás a környező szigetvilágra, a felhők alacsonyan szállnak a szigetek felett.\n\nDélben: Térjen vissza a központba a plébániatemplomhoz és a Ćorić-toronyhoz. Parkoljon a közelben, és élvezze a rövid sétákat a történelmi helyszínek között.\n\nDélután: Töltsön el egy száraz délutánt az Akváriumban és Múzeumban. Ez a legjobb módja a szakadó eső elkerülésének.\n\nEste: Fejezze be a napot egy lassú kocsikázással a tengerparti sétányon, az autó kényelméből figyelve a hullámokat.",
             "de": "Morgens: Fahrt auf den Okit-Hügel. Auch im Regen ist die Aussicht dramatisch, wenn die Wolken tief über den Inseln hängen.\n\nMittags: Rückkehr ins Zentrum zur Pfarrkirche und zum Ćorić-Turm. Parken Sie in der Nähe für kurze Wege zwischen den Sehenswürdigkeiten.\n\nNachmittags: Verbringen Sie einen trockenen Nachmittag im Aquarium & Museum. Der beste Weg, dem Regen zu entgehen.\n\nAbends: Fahrt entlang der Uferpromenade und Beobachtung der Wellen aus dem komfortablen Auto.",
-            "ro": "Dimineața: Conduceți până pe Dealul Okit. Chiar și pe ploaie, priveliștea arhipelagului este dramatică, cu nori joși peste insule.\n\nLa prânz: Reveniți în centru pentru Biserica Parohială și Turnul Ćorić. Parcați în apropiere pentru plimbări scurte între situri.\n\nDupă-amiaza: Petreceți o după-amiază la adăpost la Acvariu și Muzeu. Este cea mai bună metodă de a evita ploaia torențială.\n\nSeara: Încheiați cu o plimbare lentă cu mașina pe malul mării, privind valurile din confortul vehiculului."
+            "ro": "Dimineața: Conduceți până pe Dealul Okit. Chiar și pe ploaie, priveliștea arhipelagului este dramatică, cu nori joși peste insule.\n\nLa prânz: Reveniți în centru pentru Biserica Parohială și Turnul Ćorić. Parcați în apropiere pentru plimbări scurte între situri.\n\nDupă-amiaza: Petreceți o după-amiază la adăpost la Acvariu și Muzeu. Este cea mai bună metodă de a evita ploaia torențială.\n\nSeara: Încheiați cu o plimbare lentă cu mașina pe malul mării, privind valurile din confortul vehiculului.",
+            "hr": "Jutro: Odvezite se na brdo Okit. Čak i na kiši, pogled na arhipelag je dramatičan, s niskim oblacima nad otocima.\n\nPodne: Vratite se u centar kako biste posjetili župnu crkvu i toranj Ćorić. Parkirajte u blizini i uživajte u kratkim šetnjama između ovih povijesnih mjesta.\n\nPoslijepodne: Provedite poslijepodne na suhom u Akvariju i muzeju. To je najbolji način da izbjegnete najjaču kišu dok i dalje istražujete kulturu Vodica.\n\nVečer: Završite polaganom vožnjom uz obalnu šetnicu, promatrajući valove iz udobnosti svog automobila."
           },
           "stops": [
             {
@@ -1118,7 +1269,8 @@
                 "en": "View might be obscured.",
                 "hu": "A kilátás korlátozott lehet.",
                 "de": "Sicht könnte getrübt sein.",
-                "ro": "Vizibilitatea poate fi redusă."
+                "ro": "Vizibilitatea poate fi redusă.",
+                "hr": "Pogled može biti zaklonjen."
               }
             },
             {
@@ -1127,7 +1279,8 @@
                 "en": "Park in the side street.",
                 "hu": "Parkolj a mellékutcában.",
                 "de": "Parken in der Seitenstraße.",
-                "ro": "Parcați pe strada laterală."
+                "ro": "Parcați pe strada laterală.",
+                "hr": "Parkirajte u sporednoj ulici."
               }
             },
             {
@@ -1136,7 +1289,8 @@
                 "en": "Quick walk from parking.",
                 "hu": "Rövid séta a parkolótól.",
                 "de": "Kurzer Weg vom Parkplatz.",
-                "ro": "Scurtă plimbare de la parcare."
+                "ro": "Scurtă plimbare de la parcare.",
+                "hr": "Kratka šetnja od parkinga."
               }
             },
             {
@@ -1145,7 +1299,8 @@
                 "en": "Harbor parking is close.",
                 "hu": "A kikötői parkoló közel van.",
                 "de": "Hafenparkplatz ist nah.",
-                "ro": "Parcarea din port e aproape."
+                "ro": "Parcarea din port e aproape.",
+                "hr": "Parking u luci je blizu."
               }
             },
             {
@@ -1154,7 +1309,8 @@
                 "en": "Scenic coastal drive.",
                 "hu": "Látványos parti autózás.",
                 "de": "Panoramafahrt an der Küste.",
-                "ro": "Drum pitoresc de coastă."
+                "ro": "Drum pitoresc de coastă.",
+                "hr": "Slikovita obalna vožnja."
               }
             }
           ],
@@ -1182,6 +1338,12 @@
               "Farurile aprinse pentru vizibilitate sporită.",
               "Drumul spre Okit este îngust; conduceți prudent.",
               "Multe străzi centrale sunt pietonale."
+            ],
+            "hr": [
+              "Koristite veliko parkiralište kod autobusnog kolodvora.",
+              "Uključite svjetla za bolju vidljivost na kiši.",
+              "Cesta za Okit je uska; vozite oprezno.",
+              "Mnoge središnje ulice su samo za pješake."
             ]
           }
         },
@@ -1190,7 +1352,8 @@
             "en": "Morning: Start with the drive to Okit Hill. The winter air is exceptionally clear, providing the sharpest views of the islands and the hinterland.\n\nNoon: Visit the Parish Church and Ćorić Tower. With fewer tourists, parking is easier and you can enjoy the historic center at a slower pace.\n\nAfternoon: Enjoy the warmth and fascinating exhibits of the Aquarium & Museum. It's a peaceful indoor highlight of a winter day.\n\nEvening: Park at the harbor for the sunset. The winter sky often turns brilliant shades of pink and orange over the quiet Vodice promenade.",
             "hu": "Reggel: Kezdjen az Okit-hegyi autózással. A téli levegő kivételesen tiszta, a legélesebb kilátást nyújtva a szigetekre és a hátországra.\n\nDélben: Látogasson el a plébániatemplomhoz és a Ćorić-toronyhoz. Kevesebb a turista, könnyebb a parkolás, és lassabb tempóban élvezheti a központot.\n\nDélután: Élvezze az Akvárium és Múzeum melegét és lenyűgöző kiállításait. Ez egy békés beltéri fénypontja a téli napnak.\n\nEste: Parkoljon le a kikötőben a naplementéhez. A téli égbolt gyakran ragyogó rózsaszín és narancs árnyalatokat ölt a csendes sétány felett.",
             "de": "Morgens: Start mit der Fahrt zum Okit-Hügel. Die Winterluft ist außergewöhnlich klar und bietet die beste Sicht auf die Inseln.\n\nMittags: Besuch der Pfarrkirche und des Ćorić-Turms. Mit weniger Touristen ist das Parken einfacher.\n\nNachmittags: Genießen Sie die Wärme und die Exponate im Aquarium & Museum. Ein friedliches Indoor-Highlight im Winter.\n\nAbends: Parken Sie am Hafen für den Sonnenuntergang. Der Winterhimmel färbt sich oft leuchtend rosa und orange.",
-            "ro": "Dimineața: Începeți cu drumul spre Dealul Okit. Aerul de iarnă este extrem de clar, oferind cele mai bune priveliști spre insule.\n\nLa prânz: Vizitați Biserica Parohială și Turnul Ćorić. Cu mai puțini turiști, parcarea este mai ușoară și puteți savura centrul istoric.\n\nDupă-amiaza: Bucurați-vă de căldura și exponatele fascinante de la Acvariu și Muzeu. Este un punct culminant la interior.\n\nSeara: Parcați în port pentru apus. Cerul de iarnă capătă adesea nuanțe strălucitoare de roz și portocaliu."
+            "ro": "Dimineața: Începeți cu drumul spre Dealul Okit. Aerul de iarnă este extrem de clar, oferind cele mai bune priveliști spre insule.\n\nLa prânz: Vizitați Biserica Parohială și Turnul Ćorić. Cu mai puțini turiști, parcarea este mai ușoară și puteți savura centrul istoric.\n\nDupă-amiaza: Bucurați-vă de căldura și exponatele fascinante de la Acvariu și Muzeu. Este un punct culminant la interior.\n\nSeara: Parcați în port pentru apus. Cerul de iarnă capătă adesea nuanțe strălucitoare de roz și portocaliu.",
+            "hr": "Jutro: Započnite vožnjom do brda Okit. Zimski zrak je izuzetno čist, pružajući najoštriji pogled na otoke i zaleđe.\n\nPodne: Posjetite župnu crkvu i toranj Ćorić. S manje turista, parkiranje je lakše i možete uživati u povijesnoj jezgri sporijim tempom.\n\nPoslijepodne: Uživajte u toplini i fascinantnim eksponatima Akvarija i muzeja. To je miran vrhunac zimskog dana u zatvorenom.\n\nVečer: Parkirajte u luci za zalazak sunca. Zimsko nebo na mirnoj vodičkoj rivi često poprima briljantne nijanse ružičaste i narančaste."
           },
           "stops": [
             {
@@ -1199,7 +1362,8 @@
                 "en": "Best clear day views.",
                 "hu": "Legjobb tiszta időben.",
                 "de": "Beste Sicht an klaren Tagen.",
-                "ro": "Cele mai bune priveliști."
+                "ro": "Cele mai bune priveliști.",
+                "hr": "Najbolji pogledi za vedrih dana."
               }
             },
             {
@@ -1208,7 +1372,8 @@
                 "en": "Quiet winter visit.",
                 "hu": "Csendes téli látogatás.",
                 "de": "Ruhiger Winterbesuch.",
-                "ro": "Vizită liniștită de iarnă."
+                "ro": "Vizită liniștită de iarnă.",
+                "hr": "Mirni zimski posjet."
               }
             },
             {
@@ -1217,7 +1382,8 @@
                 "en": "Easy access.",
                 "hu": "Könnyű hozzáférés.",
                 "de": "Leichter Zugang.",
-                "ro": "Acces ușor."
+                "ro": "Acces ușor.",
+                "hr": "Jednostavan pristup."
               }
             },
             {
@@ -1226,7 +1392,8 @@
                 "en": "Great indoor time.",
                 "hu": "Kiváló beltéri program.",
                 "de": "Tolle Zeit im Inneren.",
-                "ro": "Program excelent la interior."
+                "ro": "Program excelent la interior.",
+                "hr": "Odlično vrijeme u zatvorenom."
               }
             },
             {
@@ -1235,7 +1402,8 @@
                 "en": "Perfect sunset spot.",
                 "hu": "Tökéletes naplementés hely.",
                 "de": "Perfekter Ort für Sonnenuntergänge.",
-                "ro": "Loc perfect pentru apus."
+                "ro": "Loc perfect pentru apus.",
+                "hr": "Savršeno mjesto za zalazak sunca."
               }
             }
           ],
@@ -1263,6 +1431,12 @@
               "Parcarea este mai ieftină sau gratuită iarna.",
               "Atenție la polei pe drumurile înalte.",
               "Porniți devreme pentru apusul de la 16:30."
+            ],
+            "hr": [
+              "Zimski zrak je čist za fotografiranje.",
+              "Većina parkirališta je zimi jeftinija ili besplatna.",
+              "Provjerite ima li leda na povišenim cestama poput one za Okit.",
+              "Krenite rano kako biste ulovili zalazak sunca u 16:30."
             ]
           }
         }
@@ -1291,7 +1465,8 @@
             "de": "Der Busbahnhof liegt nur 5 Gehminuten von der Riva entfernt.",
             "hu": "A buszpályaudvar csak 5 perc séta a sétánytól.",
             "ro": "Autogara se află la doar 5 minute de mers pe jos de faleză.",
-            "en": "The bus station is just a 5-minute walk from the Riva."
+            "en": "The bus station is just a 5-minute walk from the Riva.",
+            "hr": "Autobusni kolodvor je udaljen samo 5 minuta hoda od rive."
           }
         },
         {
@@ -1309,7 +1484,8 @@
             "de": "Ein toller Ort für Familien direkt am Hafen.",
             "hu": "Remek hely családoknak közvetlenül a kikötőnél.",
             "ro": "Un loc minunat pentru familii chiar lângă port.",
-            "en": "A great place for families right at the harbor."
+            "en": "A great place for families right at the harbor.",
+            "hr": "Odlično mjesto za obitelji u samoj luci."
           }
         },
         {
@@ -1327,7 +1503,8 @@
             "de": "Nehmen Sie das touristische Schiff zum Ausflug.",
             "hu": "Szálljon fel a turisztikai kirándulóhajóra.",
             "ro": "Urcați la bordul navei turistice pentru excursii.",
-            "en": "Board the tourist excursion boat here."
+            "en": "Board the tourist excursion boat here.",
+            "hr": "Ovdje se ukrcajte na turistički izletnički brod."
           }
         },
         {
@@ -1345,7 +1522,8 @@
             "de": "Der Bummelzug hält direkt am Strandzugang.",
             "hu": "A kisvonat közvetlenül a strandbejáratnál áll meg.",
             "ro": "Trenulețul turistic oprește chiar la accesul spre plajă.",
-            "en": "The tourist mini-train stops right at the beach entrance."
+            "en": "The tourist mini-train stops right at the beach entrance.",
+            "hr": "Turistički vlakić staje točno na ulazu u plažu."
           }
         },
         {
@@ -1363,7 +1541,8 @@
             "de": "Ein ruhiger Ort im alten Stadtzentrum.",
             "hu": "Csendes hely az óváros központjában.",
             "ro": "Un loc liniștit în centrul vechi al orașului.",
-            "en": "A quiet place in the old town center."
+            "en": "A quiet place in the old town center.",
+            "hr": "Mirno mjesto u centru starog grada."
           }
         },
         {
@@ -1381,7 +1560,8 @@
             "de": "Genießen Sie die Atmosphäre vor der Abfahrt.",
             "hu": "Élvezze a hangulatot a visszautazás előtt.",
             "ro": "Bucurați-vă de atmosferă înainte de plecare.",
-            "en": "Enjoy the atmosphere before your return journey."
+            "en": "Enjoy the atmosphere before your return journey.",
+            "hr": "Uživajte u atmosferi prije povratka."
           }
         }
       ],
@@ -1389,7 +1569,8 @@
         "de": "Nutzen Sie die bequemen Transitoptionen in Vodice, um die Stadt stressfrei zu erleben. Starten Sie am Busbahnhof, besuchen Sie das Aquarium und nutzen Sie den beliebten touristischen Bummelzug, um zum Plava Plaza Strand zu gelangen. Nachmittags erkunden Sie die historische Altstadt und beenden den Tag entspannt an der Riva, bevor Sie die Heimreise antreten.",
         "hu": "Használja Vodice kényelmes tömegközlekedési eszközeit a stresszmentes városnézéshez. Kezdjen a buszpályaudvaron, látogassa meg az akváriumot, majd vegye igénybe a népszerű kisvonatot a Plava Plaza strandhoz. Délután fedezze fel az óvárost, végül pihenjen a sétányon a hazautazás előtt.",
         "ro": "Folosiți opțiunile confortabile de tranzit din Vodice pentru a experimenta orașul fără stres. Începeți la autogară, vizitați acvariul și folosiți popularul trenuleț turistic pentru a ajunge la plaja Plava Plaza. După-amiaza explorați centrul istoric și încheiați ziua relaxat pe faleză înainte de plecare.",
-        "en": "Use the convenient transit options in Vodice for a stress-free city experience. Start at the bus station, visit the aquarium, and take the popular tourist mini-train to reach Plava Plaza beach. In the afternoon, explore the historic old town and finish your day relaxed at the Riva before heading back."
+        "en": "Use the convenient transit options in Vodice for a stress-free city experience. Start at the bus station, visit the aquarium, and take the popular tourist mini-train to reach Plava Plaza beach. In the afternoon, explore the historic old town and finish your day relaxed at the Riva before heading back.",
+        "hr": "Koristite praktične mogućnosti prijevoza u Vodicama za iskustvo grada bez stresa. Započnite na autobusnom kolodvoru, posjetite akvarij i provozajte se popularnim turističkim vlakićem do Plave plaže. Poslijepodne istražite povijesnu staru jezgru i završite dan opušteno na rivi prije povratka."
       },
       "gastro_picks": {
         "de": [
@@ -1414,6 +1595,12 @@
           {
             "name": "Buffet Simun",
             "tip": "Good value for money for a local lunch."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Buffet Šimun",
+            "tip": "Dobra vrijednost za novac za lokalni ručak."
           }
         ]
       },
@@ -1445,6 +1632,13 @@
             "tip": "Often cool and very quiet inside the building.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Stara crkva sv. Križa",
+            "tip": "Često je svježe i vrlo tiho unutar zgrade.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1470,6 +1664,12 @@
           {
             "name": "Vodice Vinoteka",
             "tip": "Local wines from the Sibenik region."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Vinoteka Vodice",
+            "tip": "Lokalna vina iz šibenske regije."
           }
         ]
       },
@@ -1497,6 +1697,12 @@
           "The bus station is a major stop for long-distance coaches.",
           "Boat tours to Kornati often depart in the early morning.",
           "Timetables are posted at the central newsstand."
+        ],
+        "hr": [
+          "Turistički vlakić ljeti vozi svakih 20 minuta.",
+          "Autobusni kolodvor je važna stanica za međugradske linije.",
+          "Izleti brodom na Kornate često polaze rano ujutro.",
+          "Vozni redovi su izvješeni na središnjem kiosku."
         ]
       },
       "variants": {
@@ -1505,7 +1711,8 @@
             "en": "Morning: Take the local bus to the Waterfront Promenade. Use the bus stop shelters to stay dry while waiting for your connection.\n\nNoon: Walk to the nearby Aquarium & Museum. It's the perfect central location to wait out a heavy rain shower while staying entertained.\n\nAfternoon: Explore the Ćorić Tower and Parish Church. These sites are close to each other, minimizing your time spent in the rain.\n\nEvening: Take a short bus ride towards Plava Plaža. Enjoy a warm drink in a beachside cafe while watching the rain hit the Adriatic.",
             "hu": "Reggel: Szálljon fel a helyi buszra a tengerparti sétány felé. Használja a buszmegállók váróit, hogy szárazon maradjon a csatlakozásig.\n\nDélben: Sétáljon át a közeli Akváriumba és Múzeumba. Tökéletes központi helyszín egy nagyobb zápor átvészelésére.\n\nDélután: Fedezze fel a Ćorić-toronyt és a plébániatemplomot. Ezek a helyszínek közel vannak egymáshoz, minimalizálva az esőben töltött időt.\n\nEste: Utazzon egy rövid buszúttal a Plava Plaža felé. Élvezzen egy meleg italt egy vízparti kávézóban, miközben az esőt figyeli.",
             "de": "Morgens: Mit dem Bus zur Uferpromenade. Nutzen Sie die Wartehäuschen, um trocken zu bleiben.\n\nMittags: Spaziergang zum Aquarium & Museum. Der ideale Ort, um einen starken Regenschauer abzuwarten.\n\nNachmittags: Erkunden Sie den Ćorić-Turm und die Pfarrkirche. Die Standorte liegen nah beieinander, was den Aufenthalt im Regen verkürzt.\n\nAbends: Kurze Busfahrt zum Plava Plaža. Genießen Sie ein warmes Getränk in einem Café am Strand.",
-            "ro": "Dimineața: Luați autobuzul local spre Promenadă. Folosiți adăposturile din stații pentru a rămâne uscat.\n\nLa prânz: Mergeți la Acvariu și Muzeu. Este locația centrală perfectă pentru a aștepta trecerea unei ploi torențiale.\n\nDupă-amiaza: Explorați Turnul Ćorić și Biserica Parohială. Aceste situri sunt aproape unul de altul.\n\nSeara: O scurtă călătorie cu autobuzul spre Plava Plaža. Savurați o băutură caldă la o cafenea privind ploaia pe mare."
+            "ro": "Dimineața: Luați autobuzul local spre Promenadă. Folosiți adăposturile din stații pentru a rămâne uscat.\n\nLa prânz: Mergeți la Acvariu și Muzeu. Este locația centrală perfectă pentru a aștepta trecerea unei ploi torențiale.\n\nDupă-amiaza: Explorați Turnul Ćorić și Biserica Parohială. Aceste situri sunt aproape unul de altul.\n\nSeara: O scurtă călătorie cu autobuzul spre Plava Plaža. Savurați o băutură caldă la o cafenea privind ploaia pe mare.",
+            "hr": "Jutro: Idite lokalnim autobusom do rive. Koristite nadstrešnice na stanicama kako biste ostali suhi dok čekate prijevoz.\n\nPodne: Odšećite do obližnjeg Akvarija i muzeja. To je savršena središnja lokacija za čekanje da prođe jak pljusak uz zabavu.\n\nPoslijepodne: Istražite toranj Ćorić i župnu crkvu. Ove su lokacije blizu jedna drugoj, što smanjuje vrijeme provedeno na kiši.\n\nVečer: Kratko se provozajte autobusom prema Plavoj plaži. Uživajte u toplom napitku u kafiću uz plažu dok promatrate kišu nad Jadranom."
           },
           "stops": [
             {
@@ -1514,7 +1721,8 @@
                 "en": "Bus stop is nearby.",
                 "hu": "Buszmegálló a közelben.",
                 "de": "Bushaltestelle ist in der Nähe.",
-                "ro": "Stația de autobuz e aproape."
+                "ro": "Stația de autobuz e aproape.",
+                "hr": "Autobusna stanica je u blizini."
               }
             },
             {
@@ -1523,7 +1731,8 @@
                 "en": "Long indoor activity.",
                 "hu": "Hosszabb beltéri program.",
                 "de": "Lange Indoor-Aktivität.",
-                "ro": "Activitate lungă la interior."
+                "ro": "Activitate lungă la interior.",
+                "hr": "Duga aktivnost u zatvorenom."
               }
             },
             {
@@ -1532,7 +1741,8 @@
                 "en": "Short walk from bus.",
                 "hu": "Rövid séta a busztól.",
                 "de": "Kurzer Weg vom Bus.",
-                "ro": "Scurtă plimbare de la autobuz."
+                "ro": "Scurtă plimbare de la autobuz.",
+                "hr": "Kratka šetnja od autobusa."
               }
             },
             {
@@ -1541,7 +1751,8 @@
                 "en": "Shelter between buses.",
                 "hu": "Menedék buszok között.",
                 "de": "Schutz zwischen Bussen.",
-                "ro": "Adăpost între autobuze."
+                "ro": "Adăpost între autobuze.",
+                "hr": "Zaklon između autobusa."
               }
             },
             {
@@ -1550,7 +1761,8 @@
                 "en": "Check last bus back.",
                 "hu": "Nézd meg az utolsó buszt.",
                 "de": "Letzten Bus prüfen.",
-                "ro": "Verificați ultimul autobuz."
+                "ro": "Verificați ultimul autobuz.",
+                "hr": "Provjerite zadnji bus za povratak."
               }
             }
           ],
@@ -1578,6 +1790,12 @@
               "Autogara are o zonă de așteptare acoperită.",
               "Centrul orașului este ușor de parcurs cu umbrela.",
               "Spațiu limitat pentru umbrele ude în autobuz."
+            ],
+            "hr": [
+              "Učestalost autobusa je manja kišnim danima; provjerite aplikaciju.",
+              "Glavni autobusni kolodvor ima natkriveni prostor za čekanje.",
+              "Centar Vodica je lako obići pješice s kišobranom.",
+              "Mnogi autobusi imaju ograničen prostor za mokre kišobrane."
             ]
           }
         },
@@ -1586,7 +1804,8 @@
             "en": "Morning: Start with a bus ride to the Waterfront Promenade. The crisp winter air is invigorating as you walk along the quiet shoreline.\n\nNoon: Head to the Aquarium & Museum. It's a warm and fascinating way to spend the middle of a chilly winter day.\n\nAfternoon: Visit the Ćorić Tower and Parish Church. These historic landmarks are even more impressive in the soft winter light.\n\nEvening: Take the bus to Plava Plaža Beach for a peaceful winter walk before the early sunset around 16:30. Check the winter bus schedule for your return.",
             "hu": "Reggel: Kezdjen egy buszúttal a tengerparti sétány felé. A friss téli levegő élénkítő, ahogy a csendes parton sétál.\n\nDélben: Irány az Akvárium és Múzeum. Meleg és lenyűgöző módja egy hűvös téli nap eltöltésének.\n\nDélután: Látogasson el a Ćorić-toronyhoz és a plébániatemplomhoz. Ezek a történelmi helyszínek még lenyűgözőbbek a lágy téli fényben.\n\nEste: Utazzon busszal a Plava Plaža strandra egy békés téli sétára a korai, 16:30 körüli naplemente előtt.",
             "de": "Morgens: Busfahrt zur Uferpromenade. Die frische Winterluft ist belebend bei einem Spaziergang am ruhigen Ufer.\n\nMittags: Besuch des Aquarium & Museum. Eine warme und faszinierende Art, den Mittag zu verbringen.\n\nAfternoon: Besichtigung des Ćorić-Turms und der Pfarrkirche. Diese Wahrzeichen wirken im Winterlicht besonders eindrucksvoll.\n\nAbends: Fahrt zum Strand Plava Plaža für einen Spaziergang vor dem frühen Sonnenuntergang gegen 16:30 Uhr.",
-            "ro": "Dimineața: Începeți cu o călătorie cu autobuzul spre Promenadă. Aerul proaspăt de iarnă este revigorant pe malul liniștit.\n\nLa prânz: Mergeți la Acvariu și Muzeu. Este o metodă caldă și fascinantă de a petrece mijlocul unei zile reci.\n\nDupă-amiaza: Vizitați Turnul Ćorić și Biserica Parohială. Aceste repere sunt impresionante în lumina blândă de iarnă.\n\nSeara: Luați autobuzul spre Plaja Plava Plaža pentru o plimbare liniștită înainte de apusul de la 16:30."
+            "ro": "Dimineața: Începeți cu o călătorie cu autobuzul spre Promenadă. Aerul proaspăt de iarnă este revigorant pe malul liniștit.\n\nLa prânz: Mergeți la Acvariu și Muzeu. Este o metodă caldă și fascinantă de a petrece mijlocul unei zile reci.\n\nDupă-amiaza: Vizitați Turnul Ćorić și Biserica Parohială. Aceste repere sunt impresionante în lumina blândă de iarnă.\n\nSeara: Luați autobuzul spre Plaja Plava Plaža pentru o plimbare liniștită înainte de apusul de la 16:30.",
+            "hr": "Jutro: Započnite vožnjom autobusom do rive. Svjež zimski zrak okrepljuje dok šetate uz mirnu obalu.\n\nPodne: Zaputite se u Akvarij i muzej. To je topao i fascinantan način da provedete sredinu prohladnog zimskog dana.\n\nPoslijepodne: Posjetite toranj Ćorić i župnu crkvu. Ove povijesne znamenitosti još su impresivnije u blagom zimskom svjetlu.\n\nVečer: Idite autobusom do Plave plaže za mirnu zimsku šetnju prije ranog zalaska sunca oko 16:30. Provjerite zimski vozni red za povratak."
           },
           "stops": [
             {
@@ -1595,7 +1814,8 @@
                 "en": "Windy bus wait.",
                 "hu": "Szeles buszvárakozás.",
                 "de": "Windiges Warten auf den Bus.",
-                "ro": "Așteptare în vânt în stație."
+                "ro": "Așteptare în vânt în stație.",
+                "hr": "Vjetrovito čekanje busa."
               }
             },
             {
@@ -1604,7 +1824,8 @@
                 "en": "Warm and interesting.",
                 "hu": "Meleg és érdekes.",
                 "de": "Warm und interessant.",
-                "ro": "Cald și interesant."
+                "ro": "Cald și interesant.",
+                "hr": "Toplo i zanimljivo."
               }
             },
             {
@@ -1613,7 +1834,8 @@
                 "en": "Quick visit.",
                 "hu": "Gyors látogatás.",
                 "de": "Kurzer Besuch.",
-                "ro": "Vizită rapidă."
+                "ro": "Vizită rapidă.",
+                "hr": "Kratki posjet."
               }
             },
             {
@@ -1622,7 +1844,8 @@
                 "en": "Peaceful interior.",
                 "hu": "Békés belső tér.",
                 "de": "Friedliches Innere.",
-                "ro": "Interior liniștit."
+                "ro": "Interior liniștit.",
+                "hr": "Mirna unutrašnjost."
               }
             },
             {
@@ -1631,7 +1854,8 @@
                 "en": "Walk the empty shore.",
                 "hu": "Sétálj az üres parton.",
                 "de": "Am leeren Ufer spazieren.",
-                "ro": "Plimbare pe țărmul pustiu."
+                "ro": "Plimbare pe țărmul pustiu.",
+                "hr": "Šetnja praznom obalom."
               }
             }
           ],
@@ -1659,6 +1883,12 @@
               "Folosiți autogara ca nod principal de tranzit.",
               "Purtați o haină groasă pentru așteptarea în stație.",
               "Autobuzele sunt mai rare după ora 17:00."
+            ],
+            "hr": [
+              "Autobusi voze po zimskom voznom redu; pažljivo provjerite vremena.",
+              "Koristite glavni kolodvor kao svoje prometno čvorište.",
+              "Nosite topli kaput za čekanje na stanicama.",
+              "Autobusi rjeđe voze nakon 17:00."
             ]
           }
         }

@@ -31,7 +31,8 @@
             "de": "Genießen Sie einen Kaffee auf dem charmanten Hauptplatz.",
             "hu": "Igyon meg egy kávét a bájos főtéren a helyiekkel.",
             "ro": "Savurați o cafea în piața principală fermecătoare.",
-            "en": "Enjoy a coffee in the charming main square with locals."
+            "en": "Enjoy a coffee in the charming main square with locals.",
+            "hr": "Uživajte u kavi na šarmantnom glavnom trgu s lokalnim stanovništvom."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besichtigen Sie den Steinsarkophag aus dem 8. Jahrhundert.",
             "hu": "Nézze meg a 8. századi kőszarkofágot a kriptában.",
             "ro": "Vizitați sarcofagul de piatră din secolul al VIII-lea.",
-            "en": "Visit the 8th-century stone sarcophagus in the crypt."
+            "en": "Visit the 8th-century stone sarcophagus in the crypt.",
+            "hr": "Posjetite kameni sarkofag iz 8. stoljeća u kripti."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die gotische Fassade dieses Renaissance-Palastes.",
             "hu": "Csodálja meg a reneszánsz palota gótikus homlokzatát.",
             "ro": "Admirați fațada gotică a acestui palat renascentist.",
-            "en": "Admire the Gothic facade of this Renaissance palace."
+            "en": "Admire the Gothic facade of this Renaissance palace.",
+            "hr": "Divite se gotičkom pročelju ove renesansne palače."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie Fuži-Pasta mit istrischen Trüffeln.",
             "hu": "Kóstolja meg az isztriai szarvasgombás fuži tésztát.",
             "ro": "Încercați pastele fuži cu trufe istriene.",
-            "en": "Try the Fuži pasta with Istrian truffles."
+            "en": "Try the Fuži pasta with Istrian truffles.",
+            "hr": "Probajte fuže s istarskim tartufima."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Erfahren Sie alles über die preisgekrönte Olivenölproduktion.",
             "hu": "Ismerje meg a díjnyertes olívaolaj készítésének titkait.",
             "ro": "Aflați totul despre producția premiată de ulei de măsline.",
-            "en": "Learn about the award-winning olive oil production process."
+            "en": "Learn about the award-winning olive oil production process.",
+            "hr": "Naučite o procesu proizvodnje nagrađivanog maslinovog ulja."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Verlieren Sie sich in den kreisförmig angelegten Gassen.",
             "hu": "Vesszen el a koncentrikus körökben épült középkori utcákban.",
             "ro": "Pierdeți-vă pe străzile medievale dispuse concentric.",
-            "en": "Get lost in the concentric medieval stone alleys."
+            "en": "Get lost in the concentric medieval stone alleys.",
+            "hr": "Izgubite se u koncentričnim srednjovjekovnim kamenim uličicama."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Beenden Sie den Tag mit einem Blick auf die umliegenden Olivenhaine.",
             "hu": "Zárja a napot az olajfaligetekre nyíló panorámával.",
             "ro": "Încheiați ziua cu o priveliște asupra livezilor de măslini.",
-            "en": "End the day with a view over the surrounding olive groves."
+            "en": "End the day with a view over the surrounding olive groves.",
+            "hr": "Završite dan s pogledom na okolne maslinike."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Morgens erkunden Sie das Herz von Bale, beginnend am belebten Trg Fontana und der historischen St.-Julian-Kirche. Der Vormittag ist dem beeindruckenden Soardo-Bembo-Palast gewidmet, einem Meisterwerk der venezianischen Gotik. Nach einem herzhaften istrischen Mittagessen tauchen Sie bei Uljara Grubić in die Welt des flüssigen Goldes ein. Der Nachmittag gehört den malerischen Steingassen, bevor Sie den Tag entspannt bei Sonnenuntergang ausklingen lassen.",
         "hu": "A reggelt Bale szívében indítjuk a Trg Fontana téren, majd meglátogatjuk a Szent Julián templomot. Délelőtt a lenyűgöző Soardo-Bembo palotát fedezzük fel, amely a velencei gótika remeke. Egy kiadós isztriai ebéd után az Uljara Grubić olajpréselőben ismerkedünk a folyékony arannyal. Délután a kanyargós kőutcák hangulatát élvezzük, majd a város szélén, az olajfaligetek felett nézzük végig a naplementét.",
         "ro": "Dimineața explorăm inima orașului Bale, începând din Piața Fontana și vizitând Biserica Sf. Iulian. Continuăm cu impresionantul Castel Soardo-Bembo, o capodoperă a goticului venețian. După un prânz tradițional istrian, descoperim secretele uleiului de măsline la Uljara Grubić. După-amiaza este dedicată plimbărilor pe străduțele pietruite, iar seara ne bucurăm de un apus liniștit la marginea orașului vechi.",
-        "en": "Start your morning in the heart of Bale at Trg Fontana, followed by a visit to St. Julian's Church. Spend your late morning exploring the grand Soardo-Bembo Castle, a Venetian Gothic masterpiece. After a traditional Istrian lunch, dive into the world of olive oil at Uljara Grubić. The afternoon is perfect for wandering through the circular stone alleys, ending with a peaceful sunset view over the surrounding Mediterranean landscape."
+        "en": "Start your morning in the heart of Bale at Trg Fontana, followed by a visit to St. Julian's Church. Spend your late morning exploring the grand Soardo-Bembo Castle, a Venetian Gothic masterpiece. After a traditional Istrian lunch, dive into the world of olive oil at Uljara Grubić. The afternoon is perfect for wandering through the circular stone alleys, ending with a peaceful sunset view over the surrounding Mediterranean landscape.",
+        "hr": "Započnite jutro u srcu Bala na Trgu Fontana, nakon čega slijedi posjet crkvi sv. Julijana. Kasno jutro provedite istražujući veličanstveni kaštel Soardo-Bembo, remek-djelo venecijanske gotike. Nakon tradicionalnog istarskog ručka, uronite u svijet maslinovog ulja u Uljari Grubić. Poslijepodne je savršeno za lutanje kružnim kamenim uličicama, a dan završite mirnim pogledom na zalazak sunca nad okolnim mediteranskim krajolikom."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Uljara Grubić Tasting",
             "tip": "Sample fresh olive oil on toasted local bread."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Kod Kance",
+            "tip": "Domaća tjestenina s tartufima ili divljim šparogama."
+          },
+          {
+            "name": "Uljara Grubić Tasting",
+            "tip": "Probajte svježe maslinovo ulje na tostiranom domaćem kruhu."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "A peaceful walk just outside the city walls.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Uske kamene uličice",
+            "tip": "Pronađite mirnu klupu u manje poznatim sporednim ulicama.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olive Groves",
+            "tip": "Mirna šetnja odmah izvan gradskih zidina.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -264,6 +294,12 @@
           {
             "name": "Local Shops",
             "tip": "Purchase award-winning olive oil directly from the producers."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Local Shops",
+            "tip": "Kupite nagrađivano maslinovo ulje izravno od proizvođača."
           }
         ]
       },
@@ -291,6 +327,12 @@
           "Bale is perfect for a slow-paced day away from the crowds.",
           "Most sights are within a few minutes' walk of each other.",
           "Check the tourist office for any local festivals or events."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za povijesne kamene ulice.",
+          "Bale su savršene za lagan dan daleko od gužve.",
+          "Većina znamenitosti udaljena je samo nekoliko minuta hoda jedna od druge.",
+          "Provjerite u turističkom uredu održavaju li se lokalni festivali ili događanja."
         ]
       },
       "variants": {
@@ -299,7 +341,8 @@
             "de": "Der Tag beginnt regnerisch am Trg Fontana, doch die Kirche Sv. Julijana bietet frühen Schutz. Mittags erkunden wir das trockene Innere des Kastells Soardo-Bembo. Ein langes Mittagessen in einer Konoba lässt den Regen vergessen. Nachmittags besuchen wir die Ölmühle Grubić, bevor wir den Tag trotz Wolken am Stadtrand ausklingen lassen.",
             "hu": "Az esős reggel a Trg Fontanán indul, de a Szent Julián templom gyors menedéket nyújt. Délben a Soardo-Bembo várkastély vastag falai között kalandozunk. Egy hosszú ebéd a konobában tökéletes a száradáshoz. Délután az olajütő belső tereit járjuk be, a napot pedig a párás táj látványával zárjuk a város szélén.",
             "ro": "Ziua începe ploios în Trg Fontana, dar biserica Sf. Iulian oferă un prim adăpost. La prânz, explorăm interiorul uscat al castelului Soardo-Bembo. Un prânz prelungit la o konoba ne face să uităm de ploaie. După-amiaza vizităm moara de ulei Grubić, înainte de a încheia ziua cu o priveliște cețoasă la marginea orașului.",
-            "en": "The rainy morning starts at Trg Fontana, but St. Julian’s Church provides early shelter. At noon, we explore the dry interior of Soardo-Bembo Castle. A long lunch in a local konoba is perfect for drying off. Afternoon is spent inside the Grubić oil mill, ending the day with a misty view at the edge of the town."
+            "en": "The rainy morning starts at Trg Fontana, but St. Julian’s Church provides early shelter. At noon, we explore the dry interior of Soardo-Bembo Castle. A long lunch in a local konoba is perfect for drying off. Afternoon is spent inside the Grubić oil mill, ending the day with a misty view at the edge of the town.",
+            "hr": "Kišno jutro počinje na Trgu Fontana, ali crkva sv. Julijana nudi rano utočište. U podne istražujemo suhu unutrašnjost kaštela Soardo-Bembo. Dug ručak u lokalnoj konobi savršen je za sušenje. Poslijepodne provodimo unutar uljare Grubić, završavajući dan s maglovitim pogledom na rubu grada."
           },
           "stops": [
             {
@@ -308,7 +351,8 @@
                 "de": "Suchen Sie Schutz unter den Arkaden.",
                 "hu": "Használd az árkádok alatti védett részeket.",
                 "ro": "Căutați adăpost sub arcadele pieței.",
-                "en": "Seek shelter under the square's arches."
+                "en": "Seek shelter under the square's arches.",
+                "hr": "Potražite zaklon pod lukovima trga."
               }
             },
             {
@@ -317,7 +361,8 @@
                 "de": "Idealer Ort, um den ersten Guss abzuwarten.",
                 "hu": "Tökéletes hely az első zápor kivárására.",
                 "ro": "Loc ideal pentru a aștepta trecerea ploii.",
-                "en": "Ideal place to wait out the first shower."
+                "en": "Ideal place to wait out the first shower.",
+                "hr": "Idealno mjesto za pričekati prvi pljusak."
               }
             },
             {
@@ -326,7 +371,8 @@
                 "de": "Besuchen Sie die Ausstellungen im Inneren.",
                 "hu": "Nézd meg a belső kiállításokat szárazon.",
                 "ro": "Vizitați expozițiile din interior.",
-                "en": "Visit the indoor exhibitions to stay dry."
+                "en": "Visit the indoor exhibitions to stay dry.",
+                "hr": "Posjetite unutarnje izložbe kako biste ostali suhi."
               }
             },
             {
@@ -335,7 +381,8 @@
                 "de": "Genießen Sie eine warme Maneštra-Suppe.",
                 "hu": "Kérj egy forró maneštralevest száradás közben.",
                 "ro": "Savurați o supă caldă maneštra.",
-                "en": "Enjoy a warm maneštra soup while drying off."
+                "en": "Enjoy a warm maneštra soup while drying off.",
+                "hr": "Uživajte u toploj maneštri dok se sušite."
               }
             },
             {
@@ -344,7 +391,8 @@
                 "de": "Ölverkostung im gemütlichen Innenraum.",
                 "hu": "Olajkóstolás a barátságos belső térben.",
                 "ro": "Degustare de ulei în interiorul primitor.",
-                "en": "Oil tasting in the cozy indoor area."
+                "en": "Oil tasting in the cozy indoor area.",
+                "hr": "Degustacija ulja u ugodnom unutarnjem prostoru."
               }
             },
             {
@@ -353,7 +401,8 @@
                 "de": "Vorsicht, die Steine sind sehr rutschig.",
                 "hu": "Vigyázat, a kövek esőben nagyon csúsznak.",
                 "ro": "Atenție, pietrele sunt foarte alunecoase.",
-                "en": "Caution, the stones are very slippery."
+                "en": "Caution, the stones are very slippery.",
+                "hr": "Oprez, kamenje je vrlo klizavo."
               }
             },
             {
@@ -362,7 +411,8 @@
                 "de": "Dramatische Wolkenbilder über den Olivenhainen.",
                 "hu": "Drámai felhőjáték az olajfaligetek felett.",
                 "ro": "Peisaj dramatic cu nori peste măslini.",
-                "en": "Dramatic cloud formations over olive groves."
+                "en": "Dramatic cloud formations over olive groves.",
+                "hr": "Dramatične formacije oblaka iznad maslinika."
               }
             }
           ],
@@ -394,6 +444,13 @@
               "An umbrella is more practical than a poncho in the narrow streets.",
               "Take advantage of the rain for a detailed oil tasting session.",
               "Local konobas often have cozy fireplaces to dry off by."
+            ],
+            "hr": [
+              "Baleški vapnenački pločnik postaje izuzetno klizav kad je mokar.",
+              "Kaštel Soardo-Bembo najbolja je opcija u zatvorenom prostoru tijekom jake kiše.",
+              "Kišobran je praktičniji od kabanice u uskim ulicama.",
+              "Iskoristite kišu za detaljnu degustaciju ulja.",
+              "Lokalne konobe često imaju ugodna ognjišta uz koja se možete osušiti."
             ]
           }
         },
@@ -402,7 +459,8 @@
             "de": "Ein frischer Wintermorgen am Trg Fontana weckt die Geister. Nach der kühlen Kirche wärmt das Kastell Soardo-Bembo Herz und Verstand. Mittags locken deftige istrische Spezialitäten in die warme Konoba. Der Besuch der Ölmühle zeigt das flüssige Gold, bevor wir den frühen Sonnenuntergang gegen 16:30 Uhr am Stadtrand genießen.",
             "hu": "A friss téli reggel a Trg Fontanán ébreszti fel a látogatót. A hűvös templom után a várkastély belső terei nyújtanak meleget. Délben laktató isztriai fogások várnak a fűtött konobában. Az olajütő látogatása után korán, már fél öt körül élvezzük a téli naplementét a város szélén.",
             "ro": "O dimineață răcoroasă de iarnă în Trg Fontana ne trezește simțurile. După biserica rece, castelul oferă căldură. La prânz, specialități istriene consistente ne așteaptă în konoba încălzită. Vizităm moara de ulei, apoi admirăm apusul timpuriu, în jurul orei 16:30, la marginea orașului.",
-            "en": "A crisp winter morning at Trg Fontana awakens the senses. After the cool church, the castle's interior provides warmth. At noon, hearty Istrian dishes await in the heated konoba. After visiting the oil mill, we enjoy the early sunset around 4:30 PM at the edge of the town."
+            "en": "A crisp winter morning at Trg Fontana awakens the senses. After the cool church, the castle's interior provides warmth. At noon, hearty Istrian dishes await in the heated konoba. After visiting the oil mill, we enjoy the early sunset around 4:30 PM at the edge of the town.",
+            "hr": "Svježe zimsko jutro na Trgu Fontana budi osjetila. Nakon prohladne crkve, unutrašnjost dvorca pruža toplinu. U podne vas u grijanoj konobi čekaju krepka istarska jela. Nakon posjeta uljari, uživamo u ranom zalasku sunca oko 16:30 na rubu grada."
           },
           "stops": [
             {
@@ -411,7 +469,8 @@
                 "de": "Warme Kleidung gegen den Wind einplanen.",
                 "hu": "Öltözz rétegesen a hideg szél miatt.",
                 "ro": "Îmbrăcați-vă gros împotriva vântului.",
-                "en": "Dress in layers against the cold wind."
+                "en": "Dress in layers against the cold wind.",
+                "hr": "Odjenite se slojevito protiv hladnog vjetra."
               }
             },
             {
@@ -420,7 +479,8 @@
                 "de": "In der Kirche ist es oft kühler als draußen.",
                 "hu": "A templom belseje télen hűvösebb lehet.",
                 "ro": "Interiorul bisericii este adesea mai rece.",
-                "en": "The church interior is often cooler than outside."
+                "en": "The church interior is often cooler than outside.",
+                "hr": "Unutrašnjost crkve često je hladnija nego vani."
               }
             },
             {
@@ -429,7 +489,8 @@
                 "de": "Genießen Sie die Ruhe ohne Touristenmassen.",
                 "hu": "Élvezd a csendet a tömeg nélkül.",
                 "ro": "Bucurați-vă de liniște fără mulțimi.",
-                "en": "Enjoy the silence without the tourist crowds."
+                "en": "Enjoy the silence without the tourist crowds.",
+                "hr": "Uživajte u tišini bez turističkih gužvi."
               }
             },
             {
@@ -438,7 +499,8 @@
                 "de": "Probieren Sie Trüffelgerichte der Saison.",
                 "hu": "Kóstold meg a szezonális szarvasgombát.",
                 "ro": "Încercați preparatele cu trufe de sezon.",
-                "en": "Try the seasonal truffle dishes."
+                "en": "Try the seasonal truffle dishes.",
+                "hr": "Probajte sezonska jela s tartufima."
               }
             },
             {
@@ -447,7 +509,8 @@
                 "de": "Frisches Olivenöl der letzten Ernte probieren.",
                 "hu": "Kóstold meg a legfrissebb szüret olaját.",
                 "ro": "Degustați uleiul proaspăt din ultima recoltă.",
-                "en": "Taste the freshest oil from the last harvest."
+                "en": "Taste the freshest oil from the last harvest.",
+                "hr": "Probajte najsvježije ulje iz zadnje berbe."
               }
             },
             {
@@ -456,7 +519,8 @@
                 "de": "Tiefstehende Sonne wirft lange Schatten.",
                 "hu": "A lapos téli nap hosszú árnyékokat vet.",
                 "ro": "Soarele jos creează umbre lungi superbe.",
-                "en": "The low winter sun casts beautiful long shadows."
+                "en": "The low winter sun casts beautiful long shadows.",
+                "hr": "Nisko zimsko sunce baca prekrasne duge sjenke."
               }
             },
             {
@@ -465,7 +529,8 @@
                 "de": "Früher Sonnenuntergang gegen 16:30 Uhr.",
                 "hu": "Korai naplemente, már 16:30 körül sötétedik.",
                 "ro": "Apus timpuriu, în jurul orei 16:30.",
-                "en": "Early sunset, darkness starts around 4:30 PM."
+                "en": "Early sunset, darkness starts around 4:30 PM.",
+                "hr": "Rani zalazak sunca, mrak počinje oko 16:30."
               }
             }
           ],
@@ -497,6 +562,13 @@
               "Early afternoon light is best for capturing the stone architecture.",
               "Warm, sturdy shoes are essential for the cold cobblestones.",
               "The museum areas in the castle are great for warming up."
+            ],
+            "hr": [
+              "Bura može učiniti da Bale djeluju mnogo hladnije nego što jesu.",
+              "Neki manji kafići mogu imati ograničeno zimsko radno vrijeme.",
+              "Rano poslijepodnevno svjetlo najbolje je za fotografiranje kamene arhitekture.",
+              "Topla, čvrsta obuća neophodna je za hladnu kaldrmu.",
+              "Muzejski prostori u dvorcu izvrsni su za zagrijavanje."
             ]
           }
         }
@@ -525,7 +597,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "Indulópont a város szívében.",
             "ro": "Punctul de plecare din centrul orașului.",
-            "en": "Starting point in the heart of the town."
+            "en": "Starting point in the heart of the town.",
+            "hr": "Početna točka u srcu grada."
           }
         },
         {
@@ -543,7 +616,8 @@
             "de": "Kurzer Stopp bei der romanischen Kirche.",
             "hu": "Rövid megálló a román stílusú templomnál.",
             "ro": "Scurt popas la biserica romanică.",
-            "en": "Quick stop at the Romanesque church."
+            "en": "Quick stop at the Romanesque church.",
+            "hr": "Kratko zaustavljanje kod romaničke crkve."
           }
         },
         {
@@ -561,7 +635,8 @@
             "de": "Das Wahrzeichen von Bale besichtigen.",
             "hu": "Bale jelképének megtekintése.",
             "ro": "Vizitarea simbolului orașului Bale.",
-            "en": "Visit the iconic landmark of Bale."
+            "en": "Visit the iconic landmark of Bale.",
+            "hr": "Posjetite kultni simbol Bala."
           }
         },
         {
@@ -579,7 +654,8 @@
             "de": "Stärken Sie sich für die Fahrt ans Meer.",
             "hu": "Gyűjtsön erőt a tengerparti tekeréshez.",
             "ro": "Prindeți puteri pentru drumul spre mare.",
-            "en": "Fuel up before the ride to the coast."
+            "en": "Fuel up before the ride to the coast.",
+            "hr": "Napunite snagu prije vožnje do obale."
           }
         },
         {
@@ -597,7 +673,8 @@
             "de": "Erkunden Sie die Küstenfestung mit Meerblick.",
             "hu": "Fedezze fel a tengerparti erődöt panorámával.",
             "ro": "Explorați fortăreața de coastă cu vedere la mare.",
-            "en": "Explore the coastal fort with sea views."
+            "en": "Explore the coastal fort with sea views.",
+            "hr": "Istražite obalnu utvrdu s pogledom na more."
           }
         },
         {
@@ -615,7 +692,8 @@
             "de": "Abkühlung in der kristallklaren Adria.",
             "hu": "Hűsöljön a kristálytiszta Adriában.",
             "ro": "Răcoriți-vă în apele cristaline ale Adriaticii.",
-            "en": "Cool off in the crystal-clear Adriatic Sea."
+            "en": "Cool off in the crystal-clear Adriatic Sea.",
+            "hr": "Osvježite se u kristalno čistom Jadranskom moru."
           }
         },
         {
@@ -633,7 +711,8 @@
             "de": "Letzter Stopp für ein Souvenir-Öl.",
             "hu": "Utolsó megálló egy szuvenír olajért.",
             "ro": "Ultima oprire pentru un ulei suvenir.",
-            "en": "Last stop for a souvenir olive oil."
+            "en": "Last stop for a souvenir olive oil.",
+            "hr": "Zadnja postaja za suvenir maslinovo ulje."
           }
         }
       ],
@@ -641,7 +720,8 @@
         "de": "Diese Radtour verbindet die Geschichte von Bale mit der herrlichen Küste. Nach der Besichtigung der Altstadt radeln Sie durch Olivenhaine zum Meer. Entdecken Sie die Utvrda Monvi und genießen Sie einen langen Nachmittag am Strand. Der Rückweg führt Sie pünktlich zur Ölmühle Grubić zurück in die Stadt.",
         "hu": "Ez a kerékpáros túra ötvözi Bale történelmét a gyönyörű tengerparttal. Az óváros felfedezése után olajfaligeteken át tekerünk a tengerhez. Fedezze fel az Utvrda Monvi erődöt, és élvezze a hosszú délutánt a strandon. A visszaút után az Uljara Grubić olajpréselőnél zárjuk a napot.",
         "ro": "Acest tur cu bicicleta combină istoria orașului Bale cu frumusețea coastei. După vizitarea orașului vechi, pedalați prin livezi de măslini spre mare. Explorați Fortăreața Monvi și bucurați-vă de o după-amiază lungă la plajă. Drumul de întoarcere vă aduce în oraș chiar la timp pentru o vizită la Uljara Grubić.",
-        "en": "This cycling route blends Bale's history with the stunning coastline. After exploring the old town, ride through olive groves down to the sea. Discover Fort Monvi and enjoy a long afternoon at the beach. The return ride brings you back to town just in time for a visit to the Grubić oil mill."
+        "en": "This cycling route blends Bale's history with the stunning coastline. After exploring the old town, ride through olive groves down to the sea. Discover Fort Monvi and enjoy a long afternoon at the beach. The return ride brings you back to town just in time for a visit to the Grubić oil mill.",
+        "hr": "Ova biciklistička ruta spaja povijest Bala s prekrasnom obalom. Nakon istraživanja starog grada, vozite se kroz maslinike do mora. Otkrijte utvrdu Monvi i uživajte u dugom poslijepodnevu na plaži. Povratna vožnja vraća vas u grad točno na vrijeme za posjet uljari Grubić."
       },
       "gastro_picks": {
         "de": [
@@ -666,6 +746,12 @@
           {
             "name": "Beach Bar Colone",
             "tip": "Light snacks and refreshing drinks by the sea."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Beach Bar Colone",
+            "tip": "Lagani zalogaji i osvježavajuća pića uz more."
           }
         ]
       },
@@ -697,6 +783,13 @@
             "tip": "Quiet spots under the shade of pine trees.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "San Polo Bay",
+            "tip": "Mirna mjesta u hladu borova.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -722,6 +815,12 @@
           {
             "name": "Oil Tasting Room",
             "tip": "Pick up a bottle of premium local olive oil."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Oil Tasting Room",
+            "tip": "Uzmite bocu vrhunskog domaćeg maslinovog ulja."
           }
         ]
       },
@@ -749,6 +848,12 @@
           "Bring plenty of water and sunscreen for the coastal trip.",
           "A bike lock is recommended for stops within the town.",
           "In summer, a small tourist train also runs to the beach."
+        ],
+        "hr": [
+          "Put do mora je uglavnom ravan i lagan za vožnju.",
+          "Ponesite puno vode i kremu za sunčanje za obalni izlet.",
+          "Preporučuje se lokot za bicikl za zaustavljanja u gradu.",
+          "Ljeti do plaže vozi i mali turistički vlakić."
         ]
       },
       "variants": {
@@ -757,7 +862,8 @@
             "de": "Trotz Regen starten wir am Trg Fontana. Die Fahrt zur Küste nach Monvi erfordert gute Regenbekleidung. Mittags wärmen wir uns in Bale auf, bevor wir die Ölmühle besuchen. Ein aktiver Tag, der trotz Nässe die istrische Landschaft von ihrer rauen Seite zeigt.",
             "hu": "Az eső ellenére a Trg Fontanáról indulunk. A Monvi erőd felé vezető út vízhatlan ruházatot igényel. Délben Bale-ben melegszünk fel, majd az olajütőben folytatjuk. Aktív nap, amely a táj vadabb arcát mutatja meg a sárban és vízben.",
             "ro": "În ciuda ploii, pornim din Trg Fontana. Drumul spre coastă la Monvi necesită echipament impermeabil. La prânz ne încălzim în Bale, apoi vizităm moara de ulei. O zi activă care arată latura sălbatică a peisajului istrian.",
-            "en": "Despite the rain, we start at Trg Fontana. The ride to Monvi fortress requires good waterproof gear. At noon, we warm up in Bale before visiting the oil mill. An active day showing the rugged side of the Istrian landscape through the mist."
+            "en": "Despite the rain, we start at Trg Fontana. The ride to Monvi fortress requires good waterproof gear. At noon, we warm up in Bale before visiting the oil mill. An active day showing the rugged side of the Istrian landscape through the mist.",
+            "hr": "Unatoč kiši, krećemo s Trga Fontana. Vožnja do tvrđave Monvi zahtijeva dobru vodootpornu opremu. U podne se grijemo u Balama prije posjeta uljari. Aktivan dan koji kroz maglu pokazuje surovu stranu istarskog krajolika."
           },
           "stops": [
             {
@@ -766,7 +872,8 @@
                 "de": "Reifenluftdruck bei Nässe leicht senken.",
                 "hu": "Engedj kicsit a keréknyomásból a tapadásért.",
                 "ro": "Reduceți presiunea în pneuri pe ploaie.",
-                "en": "Lower tire pressure slightly for better grip."
+                "en": "Lower tire pressure slightly for better grip.",
+                "hr": "Lagano smanjite tlak u gumama za bolje prianjanje."
               }
             },
             {
@@ -775,7 +882,8 @@
                 "de": "Kurzer Stopp zum Unterstellen möglich.",
                 "hu": "Rövid megálló a fedél alá húzódáshoz.",
                 "ro": "Scurt popas pentru a sta la adăpost.",
-                "en": "Short stop to take cover under the eaves."
+                "en": "Short stop to take cover under the eaves.",
+                "hr": "Kratko zaustavljanje radi zaklona ispod strehe."
               }
             },
             {
@@ -784,7 +892,8 @@
                 "de": "Fahrräder sicher unterstellen.",
                 "hu": "Védett helyen parkold le a bringát.",
                 "ro": "Parcați bicicletele într-un loc ferit.",
-                "en": "Park your bikes in a sheltered spot."
+                "en": "Park your bikes in a sheltered spot.",
+                "hr": "Parkirajte bicikle na zaštićenom mjestu."
               }
             },
             {
@@ -793,7 +902,8 @@
                 "de": "Suchen Sie ein Restaurant mit Garderobe.",
                 "hu": "Válassz helyet, ahol le tudod tenni a vizes ruhát.",
                 "ro": "Alegeți un loc unde puteți lăsa hainele ude.",
-                "en": "Choose a place where you can dry your wet gear."
+                "en": "Choose a place where you can dry your wet gear.",
+                "hr": "Odaberite mjesto gdje možete osušiti mokru opremu."
               }
             },
             {
@@ -802,7 +912,8 @@
                 "de": "Vorsicht auf unbefestigten Waldwegen.",
                 "hu": "Vigyázz a felázott erdei utakon.",
                 "ro": "Atenție pe potecile de pădure noroioase.",
-                "en": "Be careful on the muddy forest paths."
+                "en": "Be careful on the muddy forest paths.",
+                "hr": "Budite oprezni na blatnjavim šumskim stazama."
               }
             },
             {
@@ -811,7 +922,8 @@
                 "de": "Wellengang beobachten statt Baden.",
                 "hu": "Fürdés helyett figyeld a hullámzó tengert.",
                 "ro": "Admirați valurile în loc să înotați.",
-                "en": "Watch the waves instead of swimming."
+                "en": "Watch the waves instead of swimming.",
+                "hr": "Gledajte valove umjesto plivanja."
               }
             },
             {
@@ -820,7 +932,8 @@
                 "de": "Sichere Fahrt zurück in den Ort.",
                 "hu": "Figyelmesen tekerj vissza a városba.",
                 "ro": "Mergeți cu atenție înapoi în oraș.",
-                "en": "Ride carefully back into the town center."
+                "en": "Ride carefully back into the town center.",
+                "hr": "Pažljivo se vratite u centar grada."
               }
             }
           ],
@@ -852,6 +965,13 @@
               "Coastal paths can be muddy in some sections.",
               "Look for bike racks under eaves in the town center.",
               "A hot tea after the tour works wonders."
+            ],
+            "hr": [
+              "Kamene ploče u gradu izuzetno su opasne kad su mokre.",
+              "Blatobrani na vašem biciklu danas su obavezni.",
+              "Obalne staze na nekim dijelovima mogu biti blatnjave.",
+              "Potražite stalke za bicikle ispod streha u centru grada.",
+              "Vrući čaj nakon ture čini čuda."
             ]
           }
         },
@@ -860,7 +980,8 @@
             "de": "Ein frostiger Start in den Tag. Die Fahrt zum Monvi-Fort ist belebend, erfordert aber Handschuhe. Nach dem Mittagessen wärmen wir uns in der Ölmühle auf. Das Winterlicht an der Küste von San Polo ist magisch, auch wenn es für das Wasser zu kalt ist.",
             "hu": "Deres indulás a reggeli órákban. A Monvi erőd felé vezető út frissítő, de kesztyű kötelező. Ebéd után az olajütőben engedünk fel. A San Polo partján a téli fények varázslatosak, még ha a víz túl hideg is a fürdéshez.",
             "ro": "Un început înghețat de zi. Drumul spre fortul Monvi este revigorant, dar necesită mănuși. După prânz, ne încălzim la moara de ulei. Lumina de iarnă pe coasta San Polo este magică, deși apa e prea rece.",
-            "en": "A frosty start to the day. The ride to Monvi fort is invigorating but requires gloves. After lunch, we warm up at the oil mill. The winter light at the San Polo coast is magical, even if it's too cold for swimming."
+            "en": "A frosty start to the day. The ride to Monvi fort is invigorating but requires gloves. After lunch, we warm up at the oil mill. The winter light at the San Polo coast is magical, even if it's too cold for swimming.",
+            "hr": "Prohladan početak dana. Vožnja do utvrde Monvi okrepljuje, ali zahtijeva rukavice. Nakon ručka grijemo se u uljari. Zimsko svjetlo na obali San Pola je čarobno, čak i ako je prehladno za plivanje."
           },
           "stops": [
             {
@@ -869,7 +990,8 @@
                 "de": "Handschuhe und Mütze sind Pflicht.",
                 "hu": "A kesztyű és a sapka ma kötelező.",
                 "ro": "Mănușile și căciula sunt obligatorii.",
-                "en": "Gloves and a hat are mandatory today."
+                "en": "Gloves and a hat are mandatory today.",
+                "hr": "Rukavice i kapa danas su obavezni."
               }
             },
             {
@@ -878,7 +1000,8 @@
                 "de": "Kurze Pause im windgeschützten Bereich.",
                 "hu": "Rövid pihenő a szélvédett oldalon.",
                 "ro": "Scurtă pauză în zona ferită de vânt.",
-                "en": "Short break in the wind-sheltered area."
+                "en": "Short break in the wind-sheltered area.",
+                "hr": "Kratka stanka u zavjetrini."
               }
             },
             {
@@ -887,7 +1010,8 @@
                 "de": "Kulturstopp zum Aufwärmen nutzen.",
                 "hu": "Használd a múzeumlátogatást melegedésre.",
                 "ro": "Folosiți oprirea culturală pentru încălzire.",
-                "en": "Use the cultural stop to warm up."
+                "en": "Use the cultural stop to warm up.",
+                "hr": "Iskoristite kulturno zaustavljanje za zagrijavanje."
               }
             },
             {
@@ -896,7 +1020,8 @@
                 "de": "Suchen Sie Plätze mit Mittagssonne.",
                 "hu": "Keress olyan helyet, amit ér a déli nap.",
                 "ro": "Căutați locuri cu soare la prânz.",
-                "en": "Look for spots with midday sun."
+                "en": "Look for spots with midday sun.",
+                "hr": "Tražite mjesta s podnevnim suncem."
               }
             },
             {
@@ -905,7 +1030,8 @@
                 "de": "Der Wind an der Küste kann eisig sein.",
                 "hu": "A tengerparti szél metsző lehet.",
                 "ro": "Vântul de pe coastă poate fi tăios.",
-                "en": "The coastal wind can be biting."
+                "en": "The coastal wind can be biting.",
+                "hr": "Obalni vjetar može biti oštar."
               }
             },
             {
@@ -914,7 +1040,8 @@
                 "de": "Heißes Getränk in der Thermoskanne dabei?",
                 "hu": "Van nálad forró ital a termosztban?",
                 "ro": "Aveți o băutură caldă în termos?",
-                "en": "Do you have a hot drink in your thermos?"
+                "en": "Do you have a hot drink in your thermos?",
+                "hr": "Imate li topli napitak u termosu?"
               }
             },
             {
@@ -923,7 +1050,8 @@
                 "de": "Besuch als gemütlicher Abschluss.",
                 "hu": "Barátságos befejezés az olajütőben.",
                 "ro": "O vizită plăcută pentru final.",
-                "en": "A cozy visit for the end of the day."
+                "en": "A cozy visit for the end of the day.",
+                "hr": "Ugodan posjet za kraj dana."
               }
             }
           ],
@@ -955,6 +1083,13 @@
               "Tire pressure should be set for grip on hard ground.",
               "Warm socks will protect your feet from pedal chill.",
               "Bright clothing improves visibility in the early twilight."
+            ],
+            "hr": [
+              "Nemojte podcijeniti faktor hladnoće vjetra tijekom vožnje.",
+              "Dani su kratki, planirajte povratak do 16 sati.",
+              "Tlak u gumama treba podesiti za prianjanje na tvrdoj podlozi.",
+              "Tople čarape zaštitit će vaša stopala od hladnoće pedala.",
+              "Svijetla odjeća poboljšava vidljivost u rani sumrak."
             ]
           }
         }
@@ -983,7 +1118,8 @@
             "de": "Zentraler Parkplatz für den Stadtrundgang.",
             "hu": "Központi parkoló a városi sétához.",
             "ro": "Parcare centrală pentru turul orașului.",
-            "en": "Central parking spot for the town walk."
+            "en": "Central parking spot for the town walk.",
+            "hr": "Središnji parking za šetnju gradom."
           }
         },
         {
@@ -1001,7 +1137,8 @@
             "de": "Wunderschöne romanische Architektur (Fußweg).",
             "hu": "Gyönyörű román építészet (gyalogos megközelítés).",
             "ro": "Arhitectură romanică superbă (acces pietonal).",
-            "en": "Beautiful Romanesque architecture (walking distance)."
+            "en": "Beautiful Romanesque architecture (walking distance).",
+            "hr": "Prekrasna romanička arhitektura (pješačka udaljenost)."
           }
         },
         {
@@ -1019,7 +1156,8 @@
             "de": "Historisches Highlight im Zentrum.",
             "hu": "Történelmi fénypont a központban.",
             "ro": "Punctul istoric culminant din centru.",
-            "en": "Historical highlight in the center."
+            "en": "Historical highlight in the center.",
+            "hr": "Povijesni vrhunac u centru."
           }
         },
         {
@@ -1037,7 +1175,8 @@
             "de": "Istrianische Spezialitäten genießen.",
             "hu": "Isztriai különlegességek kóstolása.",
             "ro": "Savurați specialități istriene.",
-            "en": "Enjoy Istrian culinary specialties."
+            "en": "Enjoy Istrian culinary specialties.",
+            "hr": "Uživajte u istarskim kulinarskim specijalitetima."
           }
         },
         {
@@ -1055,7 +1194,8 @@
             "de": "Kurze Fahrt zur modernen Ölmühle.",
             "hu": "Rövid gurulás a modern olajpréselőhöz.",
             "ro": "Scurtă plimbare cu mașina până la presă.",
-            "en": "Short drive to the modern oil press."
+            "en": "Short drive to the modern oil press.",
+            "hr": "Kratka vožnja do moderne uljare."
           }
         },
         {
@@ -1073,7 +1213,8 @@
             "de": "Fahrt zur Küstenfestung (Cluster B).",
             "hu": "Autózás a tengerparti erődhöz (Cluster B).",
             "ro": "Drum spre fortăreața de coastă (Cluster B).",
-            "en": "Drive to the coastal fort (Cluster B)."
+            "en": "Drive to the coastal fort (Cluster B).",
+            "hr": "Vožnja do obalne utvrde (Cluster B)."
           }
         },
         {
@@ -1091,7 +1232,8 @@
             "de": "Entspannung am Kiesstrand (Fußweg).",
             "hu": "Pihenés a kavicsos strandon (gyalogos).",
             "ro": "Relaxare pe plaja cu pietriș (acces pietonal).",
-            "en": "Relaxation on the pebble beach (walkable)."
+            "en": "Relaxation on the pebble beach (walkable).",
+            "hr": "Opuštanje na šljunčanoj plaži (dostupno pješice)."
           }
         }
       ],
@@ -1099,7 +1241,8 @@
         "de": "Mit dem Auto genießen Sie maximale Flexibilität in Bale. Vormittags erkunden Sie die Altstadt zu Fuß (Cluster A) mit ihren Kirchen und dem Soardo-Bembo-Palast. Nach dem Mittagessen und einer Ölverkostung fahren Sie in wenigen Minuten an die Küste (Cluster B). Dort besichtigen Sie die Utvrda Monvi und verbringen den restlichen Nachmittag am kristallklaren Wasser des San Polo Strandes.",
         "hu": "Autóval maximális rugalmasságot élvezhet Bale környékén. Délelőtt gyalogosan fedezzük fel az óvárost (Cluster A), a templomokat és a Soardo-Bembo palotát. Ebéd és olajkóstolás után pár perc alatt legurulunk a partra (Cluster B), ahol megnézzük az Utvrda Monvi erődöt, majd a délutánt a San Polo strand kristálytiszta vizénél töltjük.",
         "ro": "Cu mașina beneficiați de flexibilitate maximă în Bale. Dimineața explorați orașul vechi la pas (Cluster A), vizitând bisericile și Palatul Soardo-Bembo. După prânz și o degustare de ulei, conduceți câteva minute până la coastă (Cluster B) pentru a vedea Fortăreața Monvi și a petrece după-amiaza pe plaja San Polo.",
-        "en": "The car gives you total flexibility to enjoy both the town and the coast. Spend your morning walking through the old town center (Cluster A) to see the castle and church. After lunch and oil tasting, it's a short drive to the coast (Cluster B), where you can explore Fort Monvi and spend the rest of the day at the beautiful San Polo beach."
+        "en": "The car gives you total flexibility to enjoy both the town and the coast. Spend your morning walking through the old town center (Cluster A) to see the castle and church. After lunch and oil tasting, it's a short drive to the coast (Cluster B), where you can explore Fort Monvi and spend the rest of the day at the beautiful San Polo beach.",
+        "hr": "Automobil vam daje potpunu fleksibilnost za uživanje u gradu i na obali. Jutro provedite šećući starom gradskom jezgrom (Cluster A) kako biste vidjeli kaštel i crkvu. Nakon ručka i degustacije ulja, slijedi kratka vožnja do obale (Cluster B), gdje možete istražiti utvrdu Monvi i provesti ostatak dana na prekrasnoj plaži San Polo."
       },
       "gastro_picks": {
         "de": [
@@ -1124,6 +1267,12 @@
           {
             "name": "La Grisa",
             "tip": "Upscale Istrian cuisine in a beautiful historic setting."
+          }
+        ],
+        "hr": [
+          {
+            "name": "La Grisa",
+            "tip": "Vrhunska istarska kuhinja u prekrasnom povijesnom ambijentu."
           }
         ]
       },
@@ -1155,6 +1304,13 @@
             "tip": "Enjoy the shade and the fresh sea breeze.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "San Polo Pine Forest",
+            "tip": "Uživajte u hladu i svježem morskom povjetarcu.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1180,6 +1336,12 @@
           {
             "name": "Uljara Grubić Shop",
             "tip": "Direct sale of premium extra virgin olive oil."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Uljara Grubić Shop",
+            "tip": "Izravna prodaja vrhunskog ekstra djevičanskog maslinovog ulja."
           }
         ]
       },
@@ -1207,6 +1369,12 @@
           "The drive to San Polo beach takes only about 10 minutes.",
           "Beach parking usually requires a fee during the high season.",
           "Consider combining this trip with a visit to nearby Rovinj (15km)."
+        ],
+        "hr": [
+          "Na ulazu u grad i kod plaže dostupno je mnogo parkirnih mjesta.",
+          "Vožnja do plaže San Polo traje samo 10-ak minuta.",
+          "Parking na plaži obično se naplaćuje tijekom sezone.",
+          "Razmislite o kombiniranju ovog izleta s posjetom obližnjem Rovinju (15 km)."
         ]
       },
       "variants": {
@@ -1215,7 +1383,8 @@
             "de": "Bequemer Start per Auto am Trg Fontana. Wir nutzen die kurzen Wege zwischen den Sehenswürdigkeiten, um trocken zu bleiben. Nach dem Mittagessen fahren wir zur Küste nach Monvi, wo wir das Meer vom Auto aus beobachten können. Der Tag endet gemütlich in der Ölmühle.",
             "hu": "Kényelmes, autós indulás a Trg Fontanánál. Rövid távokat teszünk meg a látnivalók között, hogy szárazon maradjunk. Ebéd után leautózunk a Monvi erődhöz, ahol az autóból is figyelhetjük a tengert. A napot az olajütőnél zárjuk.",
             "ro": "Început confortabil cu mașina la Trg Fontana. Folosim distanțele scurte între obiective pentru a rămâne uscați. După prânz mergem spre coastă la Monvi, unde putem admira marea din mașină. Ziua se încheie plăcut la moara de ulei.",
-            "en": "Comfortable start by car at Trg Fontana. We use short drives between sights to stay dry. After lunch, we drive down to the Monvi coast, where we can watch the sea from the car. The day ends nicely at the oil mill."
+            "en": "Comfortable start by car at Trg Fontana. We use short drives between sights to stay dry. After lunch, we drive down to the Monvi coast, where we can watch the sea from the car. The day ends nicely at the oil mill.",
+            "hr": "Udoban početak automobilom na Trgu Fontana. Koristimo kratke vožnje između znamenitosti kako bismo ostali suhi. Nakon ručka vozimo se do obale Monvi, gdje možemo promatrati more iz automobila. Dan lijepo završava u uljari."
           },
           "stops": [
             {
@@ -1224,7 +1393,8 @@
                 "de": "Parkplatz nah am Eingang wählen.",
                 "hu": "Parkolj minél közelebb a bejárathoz.",
                 "ro": "Parcați cât mai aproape de intrare.",
-                "en": "Park as close to the entrance as possible."
+                "en": "Park as close to the entrance as possible.",
+                "hr": "Parkirajte što bliže ulazu."
               }
             },
             {
@@ -1233,7 +1403,8 @@
                 "de": "Kurzer Sprint vom Parkplatz zum Portal.",
                 "hu": "Rövid sprint a parkolótól a bejáratig.",
                 "ro": "Sprint scurt de la parcare la poartă.",
-                "en": "Short sprint from the parking to the door."
+                "en": "Short sprint from the parking to the door.",
+                "hr": "Kratki sprint od parkinga do vrata."
               }
             },
             {
@@ -1242,7 +1413,8 @@
                 "de": "Parken in der blauen Zone möglich.",
                 "hu": "Parkolás a kék zónában lehetséges.",
                 "ro": "Parcare posibilă în zona albastră.",
-                "en": "Parking possible in the blue zone."
+                "en": "Parking possible in the blue zone.",
+                "hr": "Parking moguć u plavoj zoni."
               }
             },
             {
@@ -1251,7 +1423,8 @@
                 "de": "Suchen Sie Restaurants mit eigenem Parkplatz.",
                 "hu": "Keress saját parkolóval rendelkező éttermet.",
                 "ro": "Căutați restaurante cu parcare proprie.",
-                "en": "Look for restaurants with their own parking."
+                "en": "Look for restaurants with their own parking.",
+                "hr": "Tražite restorane s vlastitim parkingom."
               }
             },
             {
@@ -1260,7 +1433,8 @@
                 "de": "Direkt vor der Tür parken.",
                 "hu": "Parkolj közvetlenül az ajtó előtt.",
                 "ro": "Parcați direct în fața ușii.",
-                "en": "Park directly in front of the door."
+                "en": "Park directly in front of the door.",
+                "hr": "Parkirajte izravno ispred vrata."
               }
             },
             {
@@ -1269,7 +1443,8 @@
                 "de": "Blick auf das stürmische Meer genießen.",
                 "hu": "Élvezd a viharos tenger látványát.",
                 "ro": "Admirați marea agitată din mașină.",
-                "en": "Enjoy the view of the stormy sea from the car."
+                "en": "Enjoy the view of the stormy sea from the car.",
+                "hr": "Uživajte u pogledu na olujno more iz automobila."
               }
             },
             {
@@ -1278,7 +1453,8 @@
                 "de": "Vom Auto aus die Wellen beobachten.",
                 "hu": "Figyeld a hullámokat az autó ablakából.",
                 "ro": "Observați valurile din geamul mașinii.",
-                "en": "Watch the waves from the car window."
+                "en": "Watch the waves from the car window.",
+                "hr": "Promatrajte valove s prozora automobila."
               }
             }
           ],
@@ -1310,6 +1486,13 @@
               "Keep your umbrella handy in the passenger area.",
               "Check your wipers before setting off.",
               "Enjoy the car heater between the stops."
+            ],
+            "hr": [
+              "Pristupne ceste prema obali mogu imati velike lokve.",
+              "Parkirajte strateški blizu ulaza.",
+              "Držite kišobran pri ruci u putničkom prostoru.",
+              "Provjerite brisače prije polaska.",
+              "Uživajte u grijanju automobila između postaja."
             ]
           }
         },
@@ -1318,7 +1501,8 @@
             "de": "Ein klarer, kalter Tag in Bale. Mit dem Auto erreichen wir bequem alle Punkte, ohne lange in der Kälte zu stehen. Nach dem Schlossbesuch wartet ein warmes Restaurant. Die Fahrt zur Küste bietet spektakuläre, klare Sicht bis nach Italien bei Winterwetter.",
             "hu": "Tiszta, hideg téli nap Baléban. Autóval kényelmesen elérünk mindent anélkül, hogy átfagynánk. A várkastély után fűtött étterem vár. A tengerparti autózás során tiszta időben akár Olaszországig is ellátni.",
             "ro": "O zi senină și rece în Bale. Cu mașina ajungem confortabil peste tot fără să înghețăm. După castel, ne așteaptă un restaurant cald. Drumul spre coastă oferă vizibilitate clară până în Italia iarna.",
-            "en": "A clear, cold winter day in Bale. By car, we easily reach all points without freezing. After the castle, a warm restaurant awaits. The drive to the coast offers spectacular clear views, sometimes even to Italy."
+            "en": "A clear, cold winter day in Bale. By car, we easily reach all points without freezing. After the castle, a warm restaurant awaits. The drive to the coast offers spectacular clear views, sometimes even to Italy.",
+            "hr": "Vedar, hladan zimski dan u Balama. Automobilom lako dolazimo do svih točaka bez smrzavanja. Nakon kaštela čeka nas topli restoran. Vožnja do obale nudi spektakularne čiste vidike, ponekad čak i do Italije."
           },
           "stops": [
             {
@@ -1327,7 +1511,8 @@
                 "de": "Scheiben bei Frost rechtzeitig freimachen.",
                 "hu": "Időben kezdd el a jégtelenítést.",
                 "ro": "Curățați parbrizul de gheață din timp.",
-                "en": "Clear the frost from windshields early."
+                "en": "Clear the frost from windshields early.",
+                "hr": "Rano očistite mraz s vjetrobranskog stakla."
               }
             },
             {
@@ -1336,7 +1521,8 @@
                 "de": "Auto bleibt in der Sonne warm.",
                 "hu": "A napon hagyott autó kellemesen bemelegszik.",
                 "ro": "Mașina lăsată în soare rămâne caldă.",
-                "en": "The car stays warm if parked in the sun."
+                "en": "The car stays warm if parked in the sun.",
+                "hr": "Automobil ostaje topao ako je parkiran na suncu."
               }
             },
             {
@@ -1345,7 +1531,8 @@
                 "de": "Kultur ohne Parkplatzsuche genießen.",
                 "hu": "Élvezd a kultúrát parkolási gondok nélkül.",
                 "ro": "Bucurați-vă de cultură fără grija parcării.",
-                "en": "Enjoy culture without parking worries."
+                "en": "Enjoy culture without parking worries.",
+                "hr": "Uživajte u kulturi bez brige o parkiranju."
               }
             },
             {
@@ -1354,7 +1541,8 @@
                 "de": "Warmer Stopp im Herzen des Ortes.",
                 "hu": "Meleg pihenő a város szívében.",
                 "ro": "Oprire caldă în inima orașului.",
-                "en": "Warm stop in the heart of the town."
+                "en": "Warm stop in the heart of the town.",
+                "hr": "Topla postaja u srcu grada."
               }
             },
             {
@@ -1363,7 +1551,8 @@
                 "de": "Platz für Öleinkäufe im Kofferraum.",
                 "hu": "Bőven van hely az olajnak a csomagtartóban.",
                 "ro": "Loc destul pentru cumpărături în portbagaj.",
-                "en": "Plenty of space for oil purchases in the trunk."
+                "en": "Plenty of space for oil purchases in the trunk.",
+                "hr": "Puno prostora za kupnju ulja u prtljažniku."
               }
             },
             {
@@ -1372,7 +1561,8 @@
                 "de": "Klare Sicht auf die Adria.",
                 "hu": "Tiszta kilátás az Adriára.",
                 "ro": "Vizibilitate clară asupra Adriaticii.",
-                "en": "Clear visibility over the Adriatic."
+                "en": "Clear visibility over the Adriatic.",
+                "hr": "Čista vidljivost nad Jadranom."
               }
             },
             {
@@ -1381,7 +1571,8 @@
                 "de": "Kurzer Spaziergang am leeren Strand.",
                 "hu": "Rövid séta az üres tengerparton.",
                 "ro": "Scurtă plimbare pe plaja pustie.",
-                "en": "Short walk on the empty beach."
+                "en": "Short walk on the empty beach.",
+                "hr": "Kratka šetnja praznom plažom."
               }
             }
           ],
@@ -1413,6 +1604,13 @@
               "Use seat heating for maximum comfort.",
               "Check the antifreeze in your wiper fluid.",
               "Plan your return trip before darkness falls."
+            ],
+            "hr": [
+              "Pazite na poledicu u sjenovitim područjima.",
+              "Obalne ceste su zimi vrlo mirne.",
+              "Koristite grijanje sjedala za maksimalnu udobnost.",
+              "Provjerite antifriz u tekućini za pranje stakla.",
+              "Planirajte povratak prije mraka."
             ]
           }
         }
@@ -1441,7 +1639,8 @@
             "de": "Ankunft mit dem Regionalbus aus Rovinj oder Pula.",
             "hu": "Érkezés a Rovinjból vagy Pulából érkező busszal.",
             "ro": "Sosire cu autobuzul regional din Rovinj sau Pula.",
-            "en": "Arrival by regional bus from Rovinj or Pula."
+            "en": "Arrival by regional bus from Rovinj or Pula.",
+            "hr": "Dolazak regionalnim autobusom iz Rovinja ili Pule."
           }
         },
         {
@@ -1459,7 +1658,8 @@
             "de": "Kurzer Spaziergang ins Zentrum.",
             "hu": "Rövid séta a központba.",
             "ro": "Scurtă plimbare spre centru.",
-            "en": "Short walk to the town center."
+            "en": "Short walk to the town center.",
+            "hr": "Kratka šetnja do centra grada."
           }
         },
         {
@@ -1477,7 +1677,8 @@
             "de": "Historische Kirche im Ortskern.",
             "hu": "Történelmi templom a falu szívében.",
             "ro": "Biserică istorică în inima satului.",
-            "en": "Historical church in the heart of the village."
+            "en": "Historical church in the heart of the village.",
+            "hr": "Povijesna crkva u srcu mjesta."
           }
         },
         {
@@ -1495,7 +1696,8 @@
             "de": "Besichtigung des venezianischen Palastes.",
             "hu": "A velencei palota megtekintése.",
             "ro": "Vizitarea palatului venețian.",
-            "en": "Visit the impressive Venetian palace."
+            "en": "Visit the impressive Venetian palace.",
+            "hr": "Posjetite impresivnu venecijansku palaču."
           }
         },
         {
@@ -1513,7 +1715,8 @@
             "de": "Entspanntes Mittagessen in den Gassen.",
             "hu": "Kényelmes ebéd a szűk utcákban.",
             "ro": "Prânz relaxat pe străduțele înguste.",
-            "en": "Relaxed lunch in the narrow alleys."
+            "en": "Relaxed lunch in the narrow alleys.",
+            "hr": "Opušteni ručak u uskim uličicama."
           }
         },
         {
@@ -1531,7 +1734,8 @@
             "de": "Rundgang vor der Rückreise.",
             "hu": "Körülnézés a visszautazás előtt.",
             "ro": "Tur înainte de călătoria de întoarcere.",
-            "en": "Quick tour before the return journey."
+            "en": "Quick tour before the return journey.",
+            "hr": "Brzi obilazak prije povratka."
           }
         }
       ],
@@ -1539,7 +1743,8 @@
         "de": "Dieser Plan ist ideal für Besucher, die mit dem Bus anreisen. Alle wichtigen Sehenswürdigkeiten wie die St.-Julian-Kirche und der Soardo-Bembo-Palast sind vom Busstopp aus bequem zu Fuß erreichbar. Genießen Sie die entspannte Atmosphäre der Steinstadt, probieren Sie lokale Spezialitäten und besuchen Sie die Ölmühle Grubić, bevor Sie den Bus zurück nehmen.",
         "hu": "Ez a terv ideális a busszal érkezőknek. Minden fontos látnivaló, mint a Szent Julián templom és a Soardo-Bembo palota, kényelmes sétával elérhető a buszmegállótól. Élvezze a kőváros nyugodt hangulatát, kóstolja meg a helyi specialitásokat, és látogasson el a Grubić olajpréselőbe a hazautazás előtt.",
         "ro": "Acest plan este ideal pentru vizitatorii care sosesc cu autobuzul. Toate obiectivele importante, cum ar fi Biserica Sf. Iulian și Palatul Soardo-Bembo, sunt ușor accesibile pe jos de la stația de autobuz. Bucurați-vă de atmosfera relaxată a orașului de piatră, gustați specialități locale și vizitați presa de ulei Grubić înainte de plecare.",
-        "en": "This itinerary is perfect for travelers arriving by bus. All key sights, including St. Julian's Church and Soardo-Bembo Castle, are within easy walking distance of the bus stop. Soak in the calm atmosphere of this stone town, enjoy a local lunch, and visit the Grubić oil mill before catching your return bus."
+        "en": "This itinerary is perfect for travelers arriving by bus. All key sights, including St. Julian's Church and Soardo-Bembo Castle, are within easy walking distance of the bus stop. Soak in the calm atmosphere of this stone town, enjoy a local lunch, and visit the Grubić oil mill before catching your return bus.",
+        "hr": "Ovaj je plan savršen za putnike koji dolaze autobusom. Sve ključne znamenitosti, uključujući crkvu sv. Julijana i kaštel Soardo-Bembo, nalaze se na maloj udaljenosti od autobusne stanice. Upijte mirnu atmosferu ovog kamenog grada, uživajte u lokalnom ručku i posjetite uljaru Grubić prije povratnog autobusa."
       },
       "gastro_picks": {
         "de": [
@@ -1564,6 +1769,12 @@
           {
             "name": "Bale Cafés",
             "tip": "Homemade gelato and espresso in the afternoon."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bale Cafés",
+            "tip": "Domaći sladoled i espresso poslijepodne."
           }
         ]
       },
@@ -1595,6 +1806,13 @@
             "tip": "A shady spot to pause and reflect.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Church Courtyard",
+            "tip": "Sjenovito mjesto za predah i razmišljanje.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1620,6 +1838,12 @@
           {
             "name": "Souvenir Shop",
             "tip": "Local handicrafts and olive-based products."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Souvenir Shop",
+            "tip": "Lokalne rukotvorine i proizvodi od maslina."
           }
         ]
       },
@@ -1647,6 +1871,12 @@
           "The bus stop is at the edge of the old town (5 min walk).",
           "Tickets can usually be purchased directly from the driver.",
           "Bale is very compact, making everything easily walkable."
+        ],
+        "hr": [
+          "Unaprijed provjerite vozni red jer autobusi mogu biti rijetki.",
+          "Autobusna stanica je na rubu starog grada (5 min hoda).",
+          "Karte se obično mogu kupiti izravno kod vozača.",
+          "Bale su vrlo kompaktne, pa je sve lako prohodno."
         ]
       },
       "variants": {
@@ -1655,7 +1885,8 @@
             "de": "Ankunft per Bus in Bale. Wir konzentrieren uns auf die Sehenswürdigkeiten im Ortskern, um kurze Wege im Regen zu haben. Das Kastell und die Ölmühle sind ideale Indoor-Ziele. Mittags genießen wir die Gastfreundschaft in einer Konoba, bevor es trocken zurück zum Bus geht.",
             "hu": "Busszal érkezünk Baléba. A városközpont látnivalóira koncentrálunk, hogy minél kevesebbet legyünk kint az esőben. A várkastély és az olajütő kiváló fedett célpontok. Ebéd után kényelmesen, szárazon térünk vissza a buszmegállóhoz.",
             "ro": "Sosire cu autobuzul în Bale. Ne concentrăm pe obiectivele din centru pentru drumuri scurte prin ploaie. Castelul și moara de ulei sunt destinații ideale de interior. După prânz, revenim uscați la stația de autobuz.",
-            "en": "Arrival by bus in Bale. We focus on sights in the town center to keep walking distances in the rain short. The castle and oil mill are ideal indoor targets. After a nice lunch, we return dry to the bus station."
+            "en": "Arrival by bus in Bale. We focus on sights in the town center to keep walking distances in the rain short. The castle and oil mill are ideal indoor targets. After a nice lunch, we return dry to the bus station.",
+            "hr": "Dolazak autobusom u Bale. Fokusiramo se na znamenitosti u centru grada kako bi pješačke udaljenosti na kiši bile kratke. Kaštel i uljara idealni su ciljevi u zatvorenom. Nakon ugodnog ručka, suhi se vraćamo na autobusni kolodvor."
           },
           "stops": [
             {
@@ -1664,7 +1895,8 @@
                 "de": "Überdachter Wartebereich vorhanden.",
                 "hu": "Van fedett várakozó rész.",
                 "ro": "Există zonă de așteptare acoperită.",
-                "en": "There is a covered waiting area."
+                "en": "There is a covered waiting area.",
+                "hr": "Postoji natkriveni prostor za čekanje."
               }
             },
             {
@@ -1673,7 +1905,8 @@
                 "de": "Schnell unter die nahen Hausvorsprünge.",
                 "hu": "Húzódj gyorsan az ereszek alá.",
                 "ro": "Adăpostiți-vă rapid sub streșini.",
-                "en": "Take cover quickly under the eaves."
+                "en": "Take cover quickly under the eaves.",
+                "hr": "Brzo se sklonite ispod strehe."
               }
             },
             {
@@ -1682,7 +1915,8 @@
                 "de": "Ruhiger Rückzugsort vor dem Regen.",
                 "hu": "Csendes menedék az eső elől.",
                 "ro": "Refugiu liniștit împotriva ploii.",
-                "en": "Quiet retreat from the rain."
+                "en": "Quiet retreat from the rain.",
+                "hr": "Mirno utočište od kiše."
               }
             },
             {
@@ -1691,7 +1925,8 @@
                 "de": "Viel Zeit für die Innenräume einplanen.",
                 "hu": "Hagyj időt a belső terek felfedezésére.",
                 "ro": "Alocați timp pentru interior.",
-                "en": "Allow plenty of time for the interior."
+                "en": "Allow plenty of time for the interior.",
+                "hr": "Odvojite dovoljno vremena za unutrašnjost."
               }
             },
             {
@@ -1700,7 +1935,8 @@
                 "de": "Gemütliches Verweilen im Trockenen.",
                 "hu": "Hosszabb pihenő a szárazon.",
                 "ro": "Popas prelungit la uscat.",
-                "en": "Relaxing stay in the dry."
+                "en": "Relaxing stay in the dry.",
+                "hr": "Opuštajući boravak na suhom."
               }
             },
             {
@@ -1709,7 +1945,8 @@
                 "de": "Letzter Stopp vor der Busabfahrt.",
                 "hu": "Utolsó megálló a busz indulása előtt.",
                 "ro": "Ultima oprire înainte de plecarea busului.",
-                "en": "Final stop before the bus departs."
+                "en": "Final stop before the bus departs.",
+                "hr": "Zadnja postaja prije polaska autobusa."
               }
             }
           ],
@@ -1741,6 +1978,13 @@
               "Use cafes near the bus stop for waiting comfortably.",
               "Town distances are short and manageable on foot.",
               "Wear waterproof shoes for the walk to the station."
+            ],
+            "hr": [
+              "Provjerite vozni red zbog mogućih kašnjenja uzrokovanih vremenom.",
+              "Mali kišobran lako stane u ručnu prtljagu.",
+              "Koristite kafiće u blizini autobusne stanice za ugodno čekanje.",
+              "Udaljenosti u gradu su kratke i lako savladive pješice.",
+              "Nosite vodootpornu obuću za šetnju do stanice."
             ]
           }
         },
@@ -1749,7 +1993,8 @@
             "de": "Winterlicher Ausflug nach Bale per Transit. Die klare Luft ist erfrischend, das Kastell bietet kulturelle Wärme. Nach einem herzhaften Mittagessen besuchen wir die Ölmühle. Da die Busse im Winter seltener fahren, nutzen wir die Zeit für gemütliche Pausen im warmen Ortskern.",
             "hu": "Téli kirándulás Baléba tömegközlekedéssel. A friss levegő üdítő, a várkastély pedig kulturális feltöltődést kínál. Egy kiadós ebéd után az olajütőt látogatjuk meg. Mivel télen ritkábbak a buszok, több idő jut a hangulatos pihenőkre.",
             "ro": "Excursie de iarnă în Bale cu transportul public. Aerul curat este revigorant, iar castelul oferă căldură. După un prânz consistent, vizităm moara de ulei. Deoarece autobuzele sunt mai rare, profităm de pauze.",
-            "en": "Winter excursion to Bale by transit. The crisp air is refreshing, and the castle offers cultural warmth. After a hearty lunch, we visit the oil mill. Since buses are less frequent in winter, we use the time for cozy breaks."
+            "en": "Winter excursion to Bale by transit. The crisp air is refreshing, and the castle offers cultural warmth. After a hearty lunch, we visit the oil mill. Since buses are less frequent in winter, we use the time for cozy breaks.",
+            "hr": "Zimski izlet u Bale javnim prijevozom. Svjež zrak okrepljuje, a kaštel nudi kulturnu toplinu. Nakon krepkog ručka posjećujemo uljaru. Budući da su autobusi zimi rjeđi, vrijeme koristimo za ugodne pauze."
           },
           "stops": [
             {
@@ -1758,7 +2003,8 @@
                 "de": "Fahrplan für den Winter vorab prüfen.",
                 "hu": "Előre nézd meg a téli menetrendet.",
                 "ro": "Verificați orarul de iarnă în prealabil.",
-                "en": "Check the winter schedule in advance."
+                "en": "Check the winter schedule in advance.",
+                "hr": "Unaprijed provjerite zimski vozni red."
               }
             },
             {
@@ -1767,7 +2013,8 @@
                 "de": "Kurzer Aufenthalt im Freien.",
                 "hu": "Rövid kinti tartózkodás javasolt.",
                 "ro": "Scurtă ședere în aer liber.",
-                "en": "Short stay outdoors recommended."
+                "en": "Short stay outdoors recommended.",
+                "hr": "Preporučuje se kratak boravak na otvorenom."
               }
             },
             {
@@ -1776,7 +2023,8 @@
                 "de": "Besinnliche Stille im Winter.",
                 "hu": "Meghitt csend a téli időszakban.",
                 "ro": "Liniște deplină în timpul iernii.",
-                "en": "Contemplative silence in winter."
+                "en": "Contemplative silence in winter.",
+                "hr": "Kontemplativna tišina zimi."
               }
             },
             {
@@ -1785,7 +2033,8 @@
                 "de": "Wärmender Stopp bei den Ausstellungen.",
                 "hu": "Melegedj fel a kiállítások megtekintése közben.",
                 "ro": "Oprire pentru încălzire la expoziții.",
-                "en": "Warm up while viewing the exhibitions."
+                "en": "Warm up while viewing the exhibitions.",
+                "hr": "Ugrijte se razgledavajući izložbe."
               }
             },
             {
@@ -1794,7 +2043,8 @@
                 "de": "Langes Essen schützt vor der Kälte.",
                 "hu": "A hosszú ebéd megvéd a kinti hidegtől.",
                 "ro": "Un prânz lung vă protejează de frig.",
-                "en": "A long lunch protects you from the cold."
+                "en": "A long lunch protects you from the cold.",
+                "hr": "Dug ručak štiti vas od hladnoće."
               }
             },
             {
@@ -1803,7 +2053,8 @@
                 "de": "Idealer Ort vor der Rückreise.",
                 "hu": "Tökéletes helyszín a hazautazás előtt.",
                 "ro": "Loc ideal înainte de călătoria de întoarcere.",
-                "en": "Ideal place before the return journey."
+                "en": "Ideal place before the return journey.",
+                "hr": "Idealno mjesto prije povratka."
               }
             }
           ],
@@ -1835,6 +2086,13 @@
               "Ask locals about additional bus connections.",
               "The last return bus often leaves in the late afternoon.",
               "Combine waiting for the bus with a coffee break."
+            ],
+            "hr": [
+              "Vrijeme čekanja na autobusnoj stanici zimi može djelovati dugo.",
+              "Nosite toplu odjeću dok čekate vezu.",
+              "Pitajte lokalno stanovništvo o dodatnim autobusnim linijama.",
+              "Zadnji povratni autobus često kreće u kasnim poslijepodnevnim satima.",
+              "Kombinirajte čekanje autobusa s pauzom za kavu."
             ]
           }
         }

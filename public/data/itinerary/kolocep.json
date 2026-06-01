@@ -31,7 +31,8 @@
             "de": "Authentisches Inseldorf ohne Autos.",
             "hu": "Autómentes, autentikus szigeti falu.",
             "ro": "Sat insular autentic fără mașini.",
-            "en": "Authentic island village without cars."
+            "en": "Authentic island village without cars.",
+            "hr": "Autentično otočko selo bez automobila."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Historische Verteidigungsanlage am Meer.",
             "hu": "Történelmi védelmi erőd a tengernél.",
             "ro": "Fortificație istorică la malul mării.",
-            "en": "Historical defensive fortification by the sea."
+            "en": "Historical defensive fortification by the sea.",
+            "hr": "Povijesna obrambena utvrda uz more."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Gotische Kapelle mit Blick auf die Adria.",
             "hu": "Gótikus kápolna kilátással az Adriára.",
             "ro": "Capelă gotică cu vedere la Marea Adriatică.",
-            "en": "Gothic chapel with views of the Adriatic."
+            "en": "Gothic chapel with views of the Adriatic.",
+            "hr": "Gotička kapelica s pogledom na Jadran."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Spektakuläre Steilküste im Süden.",
             "hu": "Látványos sziklás partvidék délen.",
             "ro": "Coastă spectaculoasă în sud.",
-            "en": "Spectacular cliffs in the south."
+            "en": "Spectacular cliffs in the south.",
+            "hr": "Spektakularne litice na jugu."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Alte Kirche auf dem Hügel Gornje Čelo.",
             "hu": "Régi templom a Gornje Čelo dombon.",
             "ro": "Biserică veche pe dealul Gornje Čelo.",
-            "en": "Old church on the Gornje Čelo hill."
+            "en": "Old church on the Gornje Čelo hill.",
+            "hr": "Stara crkva na brdu Gornje Čelo."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Schwimmen Sie in das magische blaue Licht.",
             "hu": "Ússzon be a mágikus kék fénybe.",
             "ro": "Înotați în lumina albastră magică.",
-            "en": "Swim into the magical blue light."
+            "en": "Swim into the magical blue light.",
+            "hr": "Zaplivajte u čarobnu plavu svjetlost."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Willkommen auf Koločep, der südlichsten bewohnten Insel Kroatiens. Ihre Wanderung beginnt im charmanten Donje Čelo, führt vorbei an der Festung Kaštio und durch duftende Pinienwälder zu den dramatischen Klippen von Placet. Hier stürzt das Land senkrecht ins tiefe Blau.\n\nAm Nachmittag erkunden Sie die kleinen Kirchen der Insel, bevor Sie zur Blauen Grotte hinabsteigen. Ein Sprung ins kühle Nass und das Funkeln des Wassers sind der krönende Abschluss. Diese autofreie Oase ist perfekt, um zu entschleunigen und die wilde Schönheit der Adria zu erleben.",
         "hu": "Üdvözöljük Koločepen, Horvátország legdélebbi lakott szigetén. A túra a bájos Donje Čelóból indul, elhalad a Kaštio erőd mellett, majd illatos fenyőerdőkön keresztül a látványos Placet-sziklákhoz vezet. Itt a part függőlegesen szakad bele a mélykék vízbe.\n\nDélután a sziget apró templomait fedezheti fel, mielőtt leereszkedne a Kék Barlanghoz. Egy csobbanás a hűvös vízben és a felszín csillogása teszi teljessé a napot. Ez az autómentes oázis tökéletes a lassításhoz és az Adria vad szépségének megtapasztalásához.",
         "ro": "Bine ați venit pe Koločep, cea mai sudică insulă locuită a Croației. Drumeția dumneavoastră începe în fermecătorul Donje Čelo, trece pe lângă fortăreața Kaštio și prin păduri de pini parfumate până la stâncile dramatice din Placet. Aici pământul cade vertical în albastrul profund.\n\nDupă-amiaza explorați micile biserici ale insulei, înainte de a coborî la Grota Albastră. O săritură în apa răcoroasă și sclipirea apei reprezintă finalul perfect. Această oază fără mașini este locul ideal pentru a încetini ritmul și a experimenta frumusețea sălbatică a Adriaticii.",
-        "en": "Welcome to Koločep, Croatia's southernmost inhabited island. Your hike starts in charming Donje Čelo, passes the Kaštio fortress, and leads through fragrant pine forests to the dramatic Placet cliffs. Here, the land drops vertically into the deep blue.\n\nIn the afternoon, explore the island's small churches before descending to the Blue Cave. A dip in the cool water and the sparkling light are the perfect finale. This car-free oasis is ideal for slowing down and experiencing the wild beauty of the Adriatic."
+        "en": "Welcome to Koločep, Croatia's southernmost inhabited island. Your hike starts in charming Donje Čelo, passes the Kaštio fortress, and leads through fragrant pine forests to the dramatic Placet cliffs. Here, the land drops vertically into the deep blue.\n\nIn the afternoon, explore the island's small churches before descending to the Blue Cave. A dip in the cool water and the sparkling light are the perfect finale. This car-free oasis is ideal for slowing down and experiencing the wild beauty of the Adriatic.",
+        "hr": "Dobrodošli na Koločep, najjužniji naseljeni hrvatski otok. Vaša pješačka tura počinje u šarmantnom Donjem Čelu, prolazi pokraj tvrđave Kaštio i vodi kroz mirisne borove šume do dramatičnih litica Placet. Ovdje se kopno okomito obrušava u duboko plavetnilo.\n\nPoslijepodne istražite otočke crkvice prije spuštanja do Modre špilje. Uranjanje u hladnu vodu i svjetlucava svjetlost savršen su finale. Ova oaza bez automobila idealna je za usporavanje i doživljaj divlje ljepote Jadrana."
       },
       "gastro_picks": {
         "de": [
@@ -170,6 +177,16 @@
           {
             "name": "Gornje Čelo Konoba",
             "tip": "Homemade Peka and local wine."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Villa Rose Restaurant",
+            "tip": "Romantična večera s pogledom na more."
+          },
+          {
+            "name": "Gornje Čelo Konoba",
+            "tip": "Domaća peka i domaće vino."
           }
         ]
       },
@@ -221,6 +238,18 @@
             "tip": "Quiet spot in the island's interior.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Litice Placet",
+            "tip": "Samoća i zvuk valova.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Crkva sv. Srđa",
+            "tip": "Mirno mjesto u unutrašnjosti otoka.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -263,6 +292,16 @@
             "name": "Coral Souvenirs",
             "tip": "Traditional handicrafts."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni rogač",
+            "tip": "Slastice od otočkih plodova."
+          },
+          {
+            "name": "Koraljni suveniri",
+            "tip": "Tradicionalne rukotvorine."
+          }
         ]
       },
       "tips": {
@@ -285,6 +324,11 @@
           "Bring a flashlight for cave exploration.",
           "Sturdy hiking shoes are needed for cliff paths.",
           "There are no ATMs on the island, bring cash."
+        ],
+        "hr": [
+          "Ponesite svjetiljku za istraživanje špilje.",
+          "Čvrsta obuća za pješačenje potrebna je za staze uz litice.",
+          "Na otoku nema bankomata, ponesite gotovinu."
         ]
       },
       "variants": {
@@ -513,7 +557,8 @@
             "de": "Beginnen Sie den regnerischen Morgen in Donje Čelo mit einem robusten Regenschirm. Mittags erfordern die nassen Steine der Festung Kaštio besondere Vorsicht. Nachmittags bieten die Kirchen und die Placet-Klippen eine dramatische, unvergessliche Kulisse. Beenden Sie den Tag an der rauen Blauen Grotte, bevor Sie ins Trockene zurückkehren.",
             "hu": "Kezdje az esős reggelt Donje Čelo faluban egy erős esernyővel. Délben a Kaštio erőd nedves köveinél óvatos léptekre lesz szükség. Délután a templomok és a Placet sziklák drámai, felejthetetlen látványt nyújtanak. Este a Kék-barlang hullámzó vizének megtekintése után térjen be egy meleg helyre.",
             "ro": "Începeți dimineața ploioasă în Donje Čelo cu o umbrelă robustă. La prânz, pietrele umede ale Fortăreței Kaštio necesită pași foarte atenți. După-amiaza, bisericile și stâncile Placet oferă priveliști dramatice. Seara, admirați apele agitate de la Peștera Albastră, apoi retrageți-vă la adăpost.",
-            "en": "Start your rainy morning in Donje Čelo with a sturdy umbrella. By noon, the wet stones of Kaštio Fortress demand careful steps. In the afternoon, the churches and dramatic Placet cliffs offer moody, unforgettable sights. Conclude the day viewing the Blue Cave's choppy waters before retreating indoors."
+            "en": "Start your rainy morning in Donje Čelo with a sturdy umbrella. By noon, the wet stones of Kaštio Fortress demand careful steps. In the afternoon, the churches and dramatic Placet cliffs offer moody, unforgettable sights. Conclude the day viewing the Blue Cave's choppy waters before retreating indoors.",
+            "hr": "Započnite kišno jutro u Donjem Čelu s čvrstim kišobranom. Do podneva, mokro kamenje tvrđave Kaštio zahtijeva oprezne korake. Poslijepodne crkve i dramatične litice Placet nude sjetne, nezaboravne prizore. Završite dan promatrajući nemirno more kod Modre špilje prije povlačenja u zatvoreno."
           },
           "stops": [
             {
@@ -522,7 +567,8 @@
                 "de": "Trinken Sie einen warmen Tee vor dem Start.",
                 "hu": "Indulás előtt igyon egy meleg teát a faluban.",
                 "ro": "Beti un ceai cald înainte de a porni la drum.",
-                "en": "Drink a warm tea before starting your walk."
+                "en": "Drink a warm tea before starting your walk.",
+                "hr": "Popijte topli čaj prije početka šetnje."
               }
             },
             {
@@ -531,7 +577,8 @@
                 "de": "Die historischen Steine sind bei Nässe rutschig.",
                 "hu": "A történelmi kövek nedvesen nagyon csúszósak.",
                 "ro": "Pietrele istorice sunt alunecoase când sunt ude.",
-                "en": "The historical stones are slippery when wet."
+                "en": "The historical stones are slippery when wet.",
+                "hr": "Povijesno kamenje je sklisko kad je mokro."
               }
             },
             {
@@ -540,7 +587,8 @@
                 "de": "Perfekter Ort, um sich kurz vor Regen zu schützen.",
                 "hu": "Kiváló menedék a hirtelen záporok elől.",
                 "ro": "Un loc perfect pentru a vă adăposti de ploaie.",
-                "en": "A perfect shelter to wait out heavy rain."
+                "en": "A perfect shelter to wait out heavy rain.",
+                "hr": "Savršeno utočište za čekanje da prođe jaka kiša."
               }
             },
             {
@@ -549,7 +597,8 @@
                 "de": "Halten Sie Abstand vom rutschigen Klippenrand.",
                 "hu": "Sár miatt tartson távolságot a szikla szélétől.",
                 "ro": "Păstrați distanța față de marginea alunecoasă.",
-                "en": "Keep a safe distance from the muddy cliff edge."
+                "en": "Keep a safe distance from the muddy cliff edge.",
+                "hr": "Držite se na sigurnoj udaljenosti od blatnog ruba litice."
               }
             },
             {
@@ -558,7 +607,8 @@
                 "de": "Trocknen Sie sich hier ein wenig auf.",
                 "hu": "Száradjon meg egy kicsit a fedett bejáratnál.",
                 "ro": "Uscați-vă puțin la intrarea acoperită.",
-                "en": "Dry off a bit at the covered entrance."
+                "en": "Dry off a bit at the covered entrance.",
+                "hr": "Malo se osušite na natkrivenom ulazu."
               }
             },
             {
@@ -567,7 +617,8 @@
                 "de": "Bei starkem Wellengang nur aus der Ferne sicher.",
                 "hu": "Nagy hullámok esetén csak távolról biztonságos.",
                 "ro": "Sigur doar de la distanță pe valuri mari.",
-                "en": "Only safe to view from a distance in high waves."
+                "en": "Only safe to view from a distance in high waves.",
+                "hr": "Sigurno za promatranje samo izdaleka pri visokim valovima."
               }
             }
           ],
@@ -599,6 +650,13 @@
               "The small churches offer excellent temporary shelter from rain.",
               "Paths near the cliffs can get quite muddy, so walk carefully.",
               "Carry a thermos with hot tea to stay warm during your hike."
+            ],
+            "hr": [
+              "Nosite vodootporne cipele za pješačenje zbog skliskih obalnih staza.",
+              "Ponesite čvrst kišobran koji može izdržati morski povjetarac.",
+              "Male crkve nude izvrstan privremeni zaklon od kiše.",
+              "Staze u blizini litica mogu postati vrlo blatne, stoga hodajte oprezno.",
+              "Ponesite termosicu s toplim čajem kako biste se zagrijali tijekom šetnje."
             ]
           }
         },
@@ -607,7 +665,8 @@
             "de": "Genießen Sie einen klaren Wintermorgen in Donje Čelo. Mittags ruhen die Steine der Festung Kaštio still im kühlen Wind. Nachmittags bieten die Kirchen und die Placet-Klippen raue, einsame Naturerlebnisse. Kehren Sie am Abend nach einem Blick auf die winterliche Blaue Grotte frühzeitig vor Einbruch der Dunkelheit zurück.",
             "hu": "Élvezze a tiszta, hűvös téli reggelt Donje Čelo faluban. Délben a Kaštio erőd csendesen pihen a téli szélben. Délután a templomok és a Placet sziklák nyers, magányos természetélményt nyújtanak. Este a Kék-barlang megtekintése után induljon vissza, mielőtt korán leereszkedik a sötétség.",
             "ro": "Bucurați-vă de o dimineață clară de iarnă în Donje Čelo. La prânz, pietrele Fortăreței Kaštio se odihnesc liniștite în vântul rece. După-amiaza, bisericile și stâncile Placet oferă experiențe naturale sălbatice. Seara, după vizitarea Peșterii Albastre, întoarceți-vă devreme, înainte de lăsarea întunericului.",
-            "en": "Enjoy a crisp, clear winter morning starting in Donje Čelo. By noon, the stones of Kaštio Fortress rest quietly in the cool breeze. In the afternoon, the churches and Placet cliffs offer raw, solitary nature experiences. Conclude the day at the Blue Cave and return early before the winter dark sets in."
+            "en": "Enjoy a crisp, clear winter morning starting in Donje Čelo. By noon, the stones of Kaštio Fortress rest quietly in the cool breeze. In the afternoon, the churches and Placet cliffs offer raw, solitary nature experiences. Conclude the day at the Blue Cave and return early before the winter dark sets in.",
+            "hr": "Uživajte u svježem, vedrom zimskom jutru počevši u Donjem Čelu. Do podneva, kamenje tvrđave Kaštio miruje na hladnom povjetarcu. Poslijepodne crkve i litice Placet nude sirovo, osamljeno iskustvo prirode. Završite dan kod Modre špilje i vratite se rano prije nego padne zimski mrak."
           },
           "stops": [
             {
@@ -616,7 +675,8 @@
                 "de": "Nutzen Sie das Morgenlicht für Fotos im Dorf.",
                 "hu": "Használja ki a reggeli fényeket a falu fotózásához.",
                 "ro": "Folosiți lumina dimineții pentru fotografii în sat.",
-                "en": "Use the morning light for photos in the village."
+                "en": "Use the morning light for photos in the village.",
+                "hr": "Iskoristite jutarnje svjetlo za fotografiranje u selu."
               }
             },
             {
@@ -625,7 +685,8 @@
                 "de": "Der Wind kann hier oben im Winter sehr kalt sein.",
                 "hu": "A szél itt fenn télen rendkívül hideg lehet.",
                 "ro": "Vântul poate fi foarte rece aici sus iarna.",
-                "en": "The wind up here can be very cold in winter."
+                "en": "The wind up here can be very cold in winter.",
+                "hr": "Vjetar ovdje gore zimi može biti vrlo hladan."
               }
             },
             {
@@ -634,7 +695,8 @@
                 "de": "Ein ruhiger Ort fernab des sommerlichen Trubels.",
                 "hu": "Csendes hely, távol a nyári nyüzsgéstől.",
                 "ro": "Un loc liniștit departe de agitația verii.",
-                "en": "A quiet spot away from the summer hustle."
+                "en": "A quiet spot away from the summer hustle.",
+                "hr": "Mirno mjesto daleko od ljetne vreve."
               }
             },
             {
@@ -643,7 +705,8 @@
                 "de": "Achten Sie auf starke, kalte Böen an der Küste.",
                 "hu": "Vigyázzon az erős, hideg széllökésekre a parton.",
                 "ro": "Atenție la rafalele puternice și reci de pe coastă.",
-                "en": "Watch out for strong, cold gusts on the coast."
+                "en": "Watch out for strong, cold gusts on the coast.",
+                "hr": "Pazite na jake, hladne udare vjetra na obali."
               }
             },
             {
@@ -652,7 +715,8 @@
                 "de": "Die Nachmittagssonne wärmt die alten Mauern.",
                 "hu": "A délutáni nap felmelegíti a régi falakat.",
                 "ro": "Soarele de după-amiază încălzește zidurile vechi.",
-                "en": "The afternoon sun warms the old walls."
+                "en": "The afternoon sun warms the old walls.",
+                "hr": "Poslijepodnevno sunce grije stare zidine."
               }
             },
             {
@@ -661,7 +725,8 @@
                 "de": "Verlassen Sie diesen Ort rechtzeitig vor Sonnenuntergang.",
                 "hu": "Hagyja el a helyszínt jóval naplemente előtt.",
                 "ro": "Părăsiți locul din timp, înainte de apus.",
-                "en": "Leave this spot well before the early sunset."
+                "en": "Leave this spot well before the early sunset.",
+                "hr": "Napustite ovo mjesto znatno prije ranog zalaska sunca."
               }
             }
           ],
@@ -693,6 +758,13 @@
               "The stony paths may be icy in the early morning hours.",
               "Many local cafes and shops are closed during the winter months.",
               "Enjoy the peaceful, crowd-free atmosphere of the island."
+            ],
+            "hr": [
+              "Nosite termo slojeve i kvalitetnu jaknu otpornu na vjetar.",
+              "Dani su kraći; planirajte završiti šetnju prije 16:30.",
+              "Kamene staze mogu biti zaleđene u ranim jutarnjim satima.",
+              "Mnogi lokalni kafići i trgovine zatvoreni su tijekom zimskih mjeseci.",
+              "Uživajte u mirnoj atmosferi otoka bez gužvi."
             ]
           }
         }
@@ -721,7 +793,8 @@
             "de": "Fahrradverleih in der Nähe des Hafens.",
             "hu": "Kerékpárkölcsönző a kikötő közelében.",
             "ro": "Închiriere de biciclete lângă port.",
-            "en": "Bike rental near the harbor."
+            "en": "Bike rental near the harbor.",
+            "hr": "Najam bicikala u blizini luke."
           }
         },
         {
@@ -739,7 +812,8 @@
             "de": "Einsamer Leuchtturm am Kap.",
             "hu": "Magányos világítótorony a foknál.",
             "ro": "Far izolat la capătul insulei.",
-            "en": "Lonely lighthouse at the cape."
+            "en": "Lonely lighthouse at the cape.",
+            "hr": "Usamljeni svjetionik na rtu."
           }
         },
         {
@@ -757,7 +831,8 @@
             "de": "Ruhiger Stopp inmitten der Natur.",
             "hu": "Csendes megálló a természet lágy ölén.",
             "ro": "Oprire liniștită în mijlocul naturii.",
-            "en": "Quiet stop in the middle of nature."
+            "en": "Quiet stop in the middle of nature.",
+            "hr": "Mirno stajalište usred prirode."
           }
         },
         {
@@ -775,7 +850,8 @@
             "de": "Bester Aussichtspunkt der Radtour.",
             "hu": "A kerékpártúra legjobb kilátópontja.",
             "ro": "Cel mai bun punct de belvedere al turului.",
-            "en": "Best viewpoint of the bike tour."
+            "en": "Best viewpoint of the bike tour.",
+            "hr": "Najbolji vidikovac na biciklističkoj turi."
           }
         }
       ],
@@ -783,7 +859,8 @@
         "de": "Entdecken Sie Koločep auf zwei Rädern. Die Insel ist klein, aber die Wege führen durch dichte Vegetation zum südlichsten Punkt, dem Leuchtturm Bezdanj. Von dort aus radeln Sie entlang der Küstenpfade zu den Klippen von Placet, wo Sie den weiten Blick über die Adria genießen können.\n\nDie Route ist hügelig, belohnt aber mit einsamen Plätzen und frischer Meeresbrise. Den Nachmittag verbringen Sie entspannt in Donje Čelo, bevor Sie das Fahrrad zurückgeben. Eine sportliche Art, die versteckten Ecken der Insel zu erkunden.",
         "hu": "Fedezze fel Koločepet két keréken. A sziget kicsi, de az utak sűrű növényzeten keresztül vezetnek a legdélebbi pontig, a Bezdanj világítótoronyig. Onnan a parti ösvényeken a Placet-sziklákhoz kerekezhet, ahol élvezheti az Adriára nyíló tágas kilátást.\n\nAz útvonal dombos, de magányos helyekkel és friss tengeri szellővel jutalmaz. A délutánt pihentetően tölti Donje Čelóban, mielőtt visszaadná a kerékpárt. Sportos módja a sziget rejtett zugainak felfedezésének.",
         "ro": "Descoperiți Koločep pe două roți. Insula este mică, dar cărările duc prin vegetație densă până în cel mai sudic punct, farul Bezdanj. De acolo pedalați de-a lungul potecilor de coastă spre stâncile Placet, unde vă puteți bucura de vederea panoramică asupra Adriaticii.\n\nTraseul este deluros, dar vă răsplătește cu locuri izolate și briză proaspătă de mare. Petreceți după-amiaza relaxat în Donje Čelo înainte de a preda bicicleta. Un mod sportiv de a explora colțurile ascunse ale insulei.",
-        "en": "Discover Koločep on two wheels. The island is small, but the paths lead through dense vegetation to the southernmost point, the Bezdanj lighthouse. From there, cycle along the coastal paths to the Placet cliffs, where you can enjoy wide views over the Adriatic.\n\nThe route is hilly but rewards you with secluded spots and a fresh sea breeze. Spend the afternoon relaxing in Donje Čelo before returning the bike. A sporty way to explore the island's hidden corners."
+        "en": "Discover Koločep on two wheels. The island is small, but the paths lead through dense vegetation to the southernmost point, the Bezdanj lighthouse. From there, cycle along the coastal paths to the Placet cliffs, where you can enjoy wide views over the Adriatic.\n\nThe route is hilly but rewards you with secluded spots and a fresh sea breeze. Spend the afternoon relaxing in Donje Čelo before returning the bike. A sporty way to explore the island's hidden corners.",
+        "hr": "Otkrijte Koločep na dva kotača. Otok je malen, ali staze vode kroz gustu vegetaciju do najjužnije točke, svjetionika Bezdanj. Od tamo pedalirajte obalnim stazama do litica Placet, gdje možete uživati u širokim vidicima na Jadran.\n\nRuta je brdovita, ali vas nagrađuje skrovitim mjestima i svježim morskim povjetarcem. Provedite poslijepodne opuštajući se u Donjem Čelu prije povrata bicikla. Sportski način za istraživanje skrivenih kutaka otoka."
       },
       "gastro_picks": {
         "de": [
@@ -808,6 +885,12 @@
           {
             "name": "Caffe Bar Koločep",
             "tip": "Refreshing lemonade for cyclists."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Caffe Bar Koločep",
+            "tip": "Osvježavajuća limunada za bicikliste."
           }
         ]
       },
@@ -839,6 +922,13 @@
             "tip": "Almost no tourists here.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Rt Bezdanj",
+            "tip": "Ovdje gotovo da nema turista.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -865,6 +955,12 @@
             "name": "Island Olive Oil",
             "tip": "Buy directly from the residents."
           }
+        ],
+        "hr": [
+          {
+            "name": "Otočko maslinovo ulje",
+            "tip": "Kupite izravno od mještana."
+          }
         ]
       },
       "tips": {
@@ -883,6 +979,10 @@
         "en": [
           "Check the brakes before heading to the cliffs.",
           "Paths can be slippery after rain."
+        ],
+        "hr": [
+          "Provjerite kočnice prije polaska prema liticama.",
+          "Staze mogu biti skliske nakon kiše."
         ]
       },
       "variants": {
@@ -1046,7 +1146,8 @@
             "de": "Starten Sie Ihre nasse Fahrt in Donje Čelo mit wasserfester Ausrüstung. Mittags ragt der Leuchtturm Bezdanj mutig in den Regen. Nachmittags radeln Sie vorbei an der Kirche des Hl. Sergius zu den windigen Placet-Klippen. Kehren Sie abends vorsichtig über nasse Wege nach Donje Čelo zurück, um sich aufzuwärmen.",
             "hu": "Kezdje a nedves kerékpározást Donje Čelo faluból vízálló felszereléssel. Délben a Bezdanj világítótorony bátran dacol az esővel. Délután tekerjen el a Szent Sergius templom mellett a szeles Placet sziklákhoz. Este óvatosan térjen vissza a nedves utakon Donje Čelo faluba melegedni.",
             "ro": "Începeți plimbarea umedă în Donje Čelo cu echipament impermeabil. La prânz, farul Bezdanj se înalță curajos în ploaie. După-amiaza, pedalați pe lângă Biserica Sf. Sergius spre stâncile vântoase Placet. Seara, întoarceți-vă cu grijă pe drumurile ude în Donje Čelo pentru a vă încălzi.",
-            "en": "Start your wet ride in Donje Čelo fully geared in waterproofs. By noon, the Bezdanj Lighthouse stands bravely against the rain. In the afternoon, pedal past St. Sergius church to the windswept Placet cliffs. Return carefully along wet paths to Donje Čelo in the evening to warm up."
+            "en": "Start your wet ride in Donje Čelo fully geared in waterproofs. By noon, the Bezdanj Lighthouse stands bravely against the rain. In the afternoon, pedal past St. Sergius church to the windswept Placet cliffs. Return carefully along wet paths to Donje Čelo in the evening to warm up.",
+            "hr": "Započnite svoju mokru vožnju u Donjem Čelu potpuno opremljeni vodootpornom odjećom. Do podneva, svjetionik Bezdanj hrabro stoji prkoseći kiši. Poslijepodne pedalirajte pokraj crkve sv. Srđa do vjetrovitih litica Placet. Navečer se pažljivo vratite mokrim stazama u Donje Čelo kako biste se ugrijali."
           },
           "stops": [
             {
@@ -1055,7 +1156,8 @@
                 "de": "Prüfen Sie Ihre Bremsen bei Nässe vor Abfahrt.",
                 "hu": "Indulás előtt ellenőrizze a fékeket a nedvesség miatt.",
                 "ro": "Verificați frânele pe umiditate înainte de plecare.",
-                "en": "Check your brakes in wet conditions before starting."
+                "en": "Check your brakes in wet conditions before starting.",
+                "hr": "Provjerite kočnice u mokrim uvjetima prije polaska."
               }
             },
             {
@@ -1064,7 +1166,8 @@
                 "de": "Vorsicht vor tiefen Pfützen in Küstennähe.",
                 "hu": "Vigyázzon a part menti mély tócsákkal.",
                 "ro": "Atenție la bălțile adânci din apropierea coastei.",
-                "en": "Watch out for deep puddles near the coastline."
+                "en": "Watch out for deep puddles near the coastline.",
+                "hr": "Pazite na duboke lokve u blizini obale."
               }
             },
             {
@@ -1073,7 +1176,8 @@
                 "de": "Kurzer, trockener Halt unter den Bäumen möglich.",
                 "hu": "Rövid, száraz megálló lehetséges a fák alatt.",
                 "ro": "Scurt popas uscat posibil sub copaci.",
-                "en": "Short, dry stop possible under the nearby trees."
+                "en": "Short, dry stop possible under the nearby trees.",
+                "hr": "Kratko, suho stajanje moguće je ispod obližnjeg drveća."
               }
             },
             {
@@ -1082,7 +1186,8 @@
                 "de": "Fahren Sie langsam, der Rand ist rutschig.",
                 "hu": "Tekerjen lassan, a sziklaszélek csúszósak.",
                 "ro": "Pedalați încet, marginea este alunecoasă.",
-                "en": "Ride slowly, the cliff edges are quite slippery."
+                "en": "Ride slowly, the cliff edges are quite slippery.",
+                "hr": "Vozite polako, rubovi litica su prilično skliski."
               }
             },
             {
@@ -1091,7 +1196,8 @@
                 "de": "Trocknen Sie Ihr Fahrrad ab, um Rost zu vermeiden.",
                 "hu": "Törölje szárazra a kerékpárt a rozsda elkerülésére.",
                 "ro": "Uscați bicicleta pentru a evita rugina.",
-                "en": "Wipe down your bike to prevent any rust."
+                "en": "Wipe down your bike to prevent any rust.",
+                "hr": "Obrišite bicikl kako biste spriječili hrđu."
               }
             }
           ],
@@ -1123,6 +1229,13 @@
               "Brake earlier than usual, as wet paths significantly increase stopping distance.",
               "Keep your phone and valuables secure in waterproof bags.",
               "Avoid riding over wet stone slabs, as they can be extremely slippery."
+            ],
+            "hr": [
+              "Postavite blatobrane kako biste spriječili prskanje blata s kotača.",
+              "Nosite uočljivu, reflektirajuću odjeću u mračnom, kišovitom vremenu.",
+              "Kočite ranije nego inače, jer mokre staze znatno povećavaju put kočenja.",
+              "Čuvajte telefon i dragocjenosti u vodootpornim torbama.",
+              "Izbjegavajte vožnju preko mokrih kamenih ploča jer mogu biti izuzetno skliske."
             ]
           }
         },
@@ -1131,7 +1244,8 @@
             "de": "Erleben Sie eine erfrischende Winterfahrt ab Donje Čelo. Mittags bietet der windgepeitschte Leuchtturm Bezdanj weite Ausblicke über das kühle Meer. Nachmittags passieren Sie die stille Kirche des Hl. Sergius auf dem Weg zu den Placet-Klippen. Abends radeln Sie zügig zurück nach Donje Čelo, bevor die Kälte einzieht.",
             "hu": "Tapasztaljon meg egy frissítő téli kerékpározást Donje Čelo faluból. Délben a szélfútta Bezdanj világítótorony széles kilátást nyújt a hűvös tengerre. Délután elhalad a csendes Szent Sergius templom mellett a Placet sziklák felé. Este gyorsan tekerjen vissza Donje Čelo faluba a hideg beállta előtt.",
             "ro": "Bucurați-vă de o plimbare răcoroasă de iarnă din Donje Čelo. La prânz, farul Bezdanj, bătut de vânt, oferă priveliști largi asupra mării reci. După-amiaza, treceți pe lângă Biserica Sf. Sergius spre stâncile Placet. Seara, pedalați rapid înapoi în Donje Čelo înainte de lăsarea frigului.",
-            "en": "Experience a brisk winter ride starting from Donje Čelo. By noon, the windswept Bezdanj Lighthouse offers vast views over the chilly sea. In the afternoon, pass the quiet St. Sergius church en route to the Placet cliffs. Return swiftly to Donje Čelo in the evening before the winter chill sets in."
+            "en": "Experience a brisk winter ride starting from Donje Čelo. By noon, the windswept Bezdanj Lighthouse offers vast views over the chilly sea. In the afternoon, pass the quiet St. Sergius church en route to the Placet cliffs. Return swiftly to Donje Čelo in the evening before the winter chill sets in.",
+            "hr": "Doživite okrepljujuću zimsku vožnju počevši iz Donjeg Čela. Do podneva, vjetroviti svjetionik Bezdanj nudi prostrane vidike na prohladno more. Poslijepodne prođite pokraj mirne crkve sv. Srđa na putu prema liticama Placet. Navečer se brzo vratite u Donje Čelo prije nego što nastupi zimska hladnoća."
           },
           "stops": [
             {
@@ -1140,7 +1254,8 @@
                 "de": "Ziehen Sie sich warm an, bevor Sie in die Pedale treten.",
                 "hu": "Öltözzön melegen, mielőtt a pedálokra lépne.",
                 "ro": "Îmbrăcați-vă călduros înainte de a pedala.",
-                "en": "Dress warmly before you start pedaling."
+                "en": "Dress warmly before you start pedaling.",
+                "hr": "Toplo se obucite prije nego što počnete pedalirati."
               }
             },
             {
@@ -1149,7 +1264,8 @@
                 "de": "Die Küstenbrise kühlt beim Fahren stark aus.",
                 "hu": "A parti szellő tekerés közben erősen hűt.",
                 "ro": "Briza coastei vă răcește rapid în timpul mersului.",
-                "en": "The coastal breeze cools you down quickly while riding."
+                "en": "The coastal breeze cools you down quickly while riding.",
+                "hr": "Obalni povjetarac brzo vas hladi tijekom vožnje."
               }
             },
             {
@@ -1158,7 +1274,8 @@
                 "de": "Nutzen Sie die Kirchenmauern als Windschutz.",
                 "hu": "Használja a templom falait szélfogóként.",
                 "ro": "Folosiți zidurile bisericii ca adăpost împotriva vântului.",
-                "en": "Use the church walls as a windbreak for a short rest."
+                "en": "Use the church walls as a windbreak for a short rest.",
+                "hr": "Iskoristite crkvene zidine kao zaklon od vjetra za kratki odmor."
               }
             },
             {
@@ -1167,7 +1284,8 @@
                 "de": "Bewundern Sie die Winterwellen aus sicherer Entfernung.",
                 "hu": "Csodálja meg a téli hullámokat biztonságos távolságból.",
                 "ro": "Admirați valurile de iarnă de la o distanță sigură.",
-                "en": "Admire the winter waves from a safe distance."
+                "en": "Admire the winter waves from a safe distance.",
+                "hr": "Divite se zimskim valovima sa sigurne udaljenosti."
               }
             },
             {
@@ -1176,7 +1294,8 @@
                 "de": "Planen Sie die Rückkehr vor dem frühen Sonnenuntergang.",
                 "hu": "Tervezze a visszatérést a korai naplemente előtt.",
                 "ro": "Planificați întoarcerea înainte de apusul devreme.",
-                "en": "Plan your return before the early sunset."
+                "en": "Plan your return before the early sunset.",
+                "hr": "Planirajte povratak prije ranog zalaska sunca."
               }
             }
           ],
@@ -1208,6 +1327,13 @@
               "A windproof cycling jacket is essential for winter rides along the coast.",
               "Ensure your bike lights are fully charged due to the early evening darkness.",
               "Watch out for frost on shaded parts of the path early in the morning."
+            ],
+            "hr": [
+              "Nosite debele rukavice kako biste zaštitili ruke od ledenog vjetra.",
+              "Provjerite tlak u gumama prije polaska; hladan zrak može uzrokovati njegov pad.",
+              "Biciklistička jakna otporna na vjetar neophodna je za zimske vožnje uz obalu.",
+              "Provjerite jesu li svjetla na biciklu potpuno napunjena zbog ranog mraka.",
+              "Pazite na mraz na zasjenjenim dijelovima staze rano ujutro."
             ]
           }
         }
@@ -1236,7 +1362,8 @@
             "de": "Abholung per Bootstaxi.",
             "hu": "Felvétel vízitaxival.",
             "ro": "Preluare cu taxiul pe apă.",
-            "en": "Pickup by boat taxi."
+            "en": "Pickup by boat taxi.",
+            "hr": "Preuzimanje taxi brodom."
           }
         },
         {
@@ -1254,7 +1381,8 @@
             "de": "Frühmorgens das intensivste Blau.",
             "hu": "Kora reggel a legintenzívebb kék szín.",
             "ro": "Cel mai intens albastru dis-de-dimineață.",
-            "en": "The most intense blue early in the morning."
+            "en": "The most intense blue early in the morning.",
+            "hr": "Najintenzivnije plavetnilo rano ujutro."
           }
         },
         {
@@ -1272,7 +1400,8 @@
             "de": "Anfahrt vom Meer aus am eindrucksvollsten.",
             "hu": "A tenger felőli megközelítés a leglátványosabb.",
             "ro": "Abordarea de pe mare este cea mai impresionantă.",
-            "en": "Approaching from the sea is most impressive."
+            "en": "Approaching from the sea is most impressive.",
+            "hr": "Prilaz s mora je najimpresivniji."
           }
         },
         {
@@ -1290,7 +1419,8 @@
             "de": "Ankern unterhalb der Felswände.",
             "hu": "Horgonyzás a sziklafalak alatt.",
             "ro": "Ancorare sub pereții de stâncă.",
-            "en": "Anchoring below the rock faces."
+            "en": "Anchoring below the rock faces.",
+            "hr": "Sidrenje ispod stijena."
           }
         }
       ],
@@ -1298,7 +1428,8 @@
         "de": "Da Koločep autofrei ist, erleben Sie hier die 'Automobilität' auf dem Wasser mit einem privaten Schnellboot. Diese exklusive Tour umrundet die gesamte Insel. Sie starten mit der Blauen Grotte, bevor die Touristenmassen eintreffen, und bewundern den Leuchtturm Bezdanj aus nächster Nähe vom Deck aus.\n\nDas Highlight ist das Ankern unter den gigantischen Klippen von Placet, wo Sie direkt vom Boot ins tiefe Meer springen können. Eine luxuriöse und entspannte Art, die Küste der Insel ohne Fußmarsch zu entdecken.",
         "hu": "Mivel Koločep autómentes, itt a vízi 'autómobilitást' egy privát gyorsasági motorcsónakkal tapasztalhatja meg. Ez az exkluzív túra megkerüli az egész szigetet. A Kék Barlanggal kezd, mielőtt a turistatömegek megérkeznének, és a fedélzetről közelről csodálhatja meg a Bezdanj világítótornyot.\n\nA fénypont a horgonyzás a Placet óriási sziklái alatt, ahol közvetlenül a hajóról ugorhat a mély tengerbe. Luxus és pihentető módja a sziget partvidékének felfedezésének gyaloglás nélkül.",
         "ro": "Deoarece Koločep este fără mașini, experimentați aici „automobilitatea” pe apă cu o barcă rapidă privată. Acest tur exclusivist înconjoară întreaga insulă. Începeți cu Grota Albastră înainte de sosirea maselor de turiști și admirați farul Bezdanj de aproape de pe punte.\n\nPunctul culminant este ancorarea sub stâncile gigantice din Placet, unde puteți sări direct din barcă în marea adâncă. Un mod luxos și relaxat de a descoperi coasta insulei fără a merge pe jos.",
-        "en": "As Koločep is car-free, you experience 'automobility' here on the water with a private speedboat. This exclusive tour circles the entire island. Start with the Blue Cave before the tourist crowds arrive, and admire the Bezdanj lighthouse up close from the deck.\n\nThe highlight is anchoring under the gigantic Placet cliffs, where you can jump directly from the boat into the deep sea. A luxurious and relaxed way to discover the island's coastline without the walking."
+        "en": "As Koločep is car-free, you experience 'automobility' here on the water with a private speedboat. This exclusive tour circles the entire island. Start with the Blue Cave before the tourist crowds arrive, and admire the Bezdanj lighthouse up close from the deck.\n\nThe highlight is anchoring under the gigantic Placet cliffs, where you can jump directly from the boat into the deep sea. A luxurious and relaxed way to discover the island's coastline without the walking.",
+        "hr": "Budući da je Koločep otok bez automobila, ovdje doživljavate 'automobilnost' na vodi privatnim gliserom. Ova ekskluzivna tura obilazi cijeli otok. Počnite s Modrom špiljom prije nego što stignu turističke gužve i divite se svjetioniku Bezdanj izbliza s palube.\n\nVrhunac je sidrenje ispod golemih litica Placet, gdje možete skočiti izravno s broda u duboko more. Luksuzan i opušten način za otkrivanje otočke obale bez pješačenja."
       },
       "gastro_picks": {
         "de": [
@@ -1323,6 +1454,12 @@
           {
             "name": "Boat Picnic",
             "tip": "Local cheese and wine on board."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Piknik na brodu",
+            "tip": "Lokalni sir i vino na palubi."
           }
         ]
       },
@@ -1354,6 +1491,13 @@
             "tip": "Only the sound of the engine and waves.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Otvoreno more",
+            "tip": "Samo zvuk motora i valova.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1380,6 +1524,12 @@
             "name": "Duty-Free Hvar",
             "tip": "If you make a detour."
           }
+        ],
+        "hr": [
+          {
+            "name": "Duty-Free Hvar",
+            "tip": "Ako napravite skretanje."
+          }
         ]
       },
       "tips": {
@@ -1398,6 +1548,10 @@
         "en": [
           "Ask for snorkeling gear on board.",
           "Watch out for waves when visiting the cave."
+        ],
+        "hr": [
+          "Tražite opremu za ronjenje na brodu.",
+          "Pazite na valove prilikom posjeta špilji."
         ]
       },
       "variants": {
@@ -1552,7 +1706,8 @@
             "de": "Fahren Sie an einem verregneten Morgen vorsichtig aus Donje Čelo ab. Mittags bewundern Sie die aufgewühlte Blaue Grotte sicher vom Aussichtspunkt. Nachmittags leitet der Leuchtturm Bezdanj durch den Nebel zu den Klippen von Placet. Kehren Sie abends langsam über nasse Küstenstraßen zu Ihrem Ausgangspunkt zurück.",
             "hu": "Induljon el egy esős reggelen óvatosan Donje Čelo faluból. Délben a felkavart Kék-barlangot biztonságosan, fentről csodálhatja. Délután a Bezdanj világítótorony mutat utat a ködben a Placet sziklákhoz. Este lassan vezessen vissza a nedves parti utakon a kiindulópontra.",
             "ro": "Plecați cu grijă din Donje Čelo într-o dimineață ploioasă. La prânz, admirați Peștera Albastră agitată, în siguranță, de sus. După-amiaza, farul Bezdanj vă ghidează prin ceață spre stâncile Placet. Seara, conduceți încet pe drumurile umede de coastă înapoi la punctul de plecare.",
-            "en": "Drive carefully out of Donje Čelo on a rainy morning. By noon, view the churning Blue Cave safely from a vantage point. In the afternoon, the Bezdanj Lighthouse guides you through the mist to the Placet cliffs. Return slowly in the evening along the wet coastal roads to your starting point."
+            "en": "Drive carefully out of Donje Čelo on a rainy morning. By noon, view the churning Blue Cave safely from a vantage point. In the afternoon, the Bezdanj Lighthouse guides you through the mist to the Placet cliffs. Return slowly in the evening along the wet coastal roads to your starting point.",
+            "hr": "Vozite oprezno iz Donjeg Čela u kišno jutro. Do podneva, promatrajte uzburkanu Modru špilju sigurno s vidikovca. Poslijepodne vas svjetionik Bezdanj vodi kroz maglu do litica Placet. Navečer se polako vratite mokrim obalnim cestama do polazišta."
           },
           "stops": [
             {
@@ -1561,7 +1716,8 @@
                 "de": "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
                 "hu": "Indulás előtt ellenőrizze az ablaktörlőket.",
                 "ro": "Verificați ștergătoarele înainte de plecare.",
-                "en": "Check your windshield wipers before departing."
+                "en": "Check your windshield wipers before departing.",
+                "hr": "Provjerite brisače vjetrobranskog stakla prije polaska."
               }
             },
             {
@@ -1570,7 +1726,8 @@
                 "de": "Parken Sie auf festem Grund abseits des Schlamms.",
                 "hu": "Szilárd talajon parkoljon, távol a sártól.",
                 "ro": "Parcați pe teren solid, departe de noroi.",
-                "en": "Park on solid ground, away from any mud."
+                "en": "Park on solid ground, away from any mud.",
+                "hr": "Parkirajte na čvrstoj podlozi, dalje od blata."
               }
             },
             {
@@ -1579,7 +1736,8 @@
                 "de": "Die Nebelscheinwerfer könnten hier nützlich sein.",
                 "hu": "A ködlámpák itt nagyon hasznosak lehetnek.",
                 "ro": "Farurile de ceață ar putea fi utile aici.",
-                "en": "Fog lights might be very useful here."
+                "en": "Fog lights might be very useful here.",
+                "hr": "Svjetla za maglu ovdje mogu biti vrlo korisna."
               }
             },
             {
@@ -1588,7 +1746,8 @@
                 "de": "Genießen Sie den wilden Meerblick durch die Scheibe.",
                 "hu": "Élvezze a vad tenger látványát a szélvédőn át.",
                 "ro": "Bucurați-vă de vederea mării sălbatice prin parbriz.",
-                "en": "Enjoy the wild sea views through your car window."
+                "en": "Enjoy the wild sea views through your car window.",
+                "hr": "Uživajte u pogledu na divlje more kroz prozor automobila."
               }
             }
           ],
@@ -1620,6 +1779,13 @@
               "Avoid parking on unpaved surfaces to ensure you do not get stuck in the mud.",
               "Keep a safe distance from other vehicles as braking times increase in the rain.",
               "Watch out for pedestrians who might be harder to spot in poor weather conditions."
+            ],
+            "hr": [
+              "Koristite klima uređaj kako biste spriječili zamagljivanje prozora automobila.",
+              "Vozite izuzetno polako uskim obalnim cestama kada su mokre.",
+              "Izbjegavajte parkiranje na neasfaltiranim površinama kako ne biste zapeli u blatu.",
+              "Održavajte siguran razmak od drugih vozila jer se put kočenja produljuje na kiši.",
+              "Pazite na pješake koje je teže uočiti u lošim vremenskim uvjetima."
             ]
           }
         },
@@ -1628,7 +1794,8 @@
             "de": "Starten Sie Ihren Ausflug im beheizten Fahrzeug in Donje Čelo. Mittags ruht die winterliche Blaue Grotte friedlich unter der klaren Sonne. Nachmittags fahren Sie zum einsamen Leuchtturm Bezdanj und den eisigen Placet-Klippen. Abends kehren Sie bei früh einsetzender Dunkelheit sicher nach Donje Čelo zurück.",
             "hu": "Kezdje kirándulását fűtött járművében Donje Čelo faluból. Délben a téli Kék-barlang békésen pihen a tiszta napsütés alatt. Délután vezessen a magányos Bezdanj világítótoronyhoz és a fagyos Placet sziklákhoz. Este a korai sötétedésben biztonságosan térjen vissza Donje Čelo faluba.",
             "ro": "Începeți excursia în vehiculul încălzit din Donje Čelo. La prânz, Peștera Albastră de iarnă se odihnește pașnic sub soarele clar. După-amiaza, conduceți spre farul singuratic Bezdanj și stâncile înghețate Placet. Seara, întoarceți-vă în siguranță în Donje Čelo, la lăsarea întunericului.",
-            "en": "Start your road trip from Donje Čelo in a comfortably heated car. By noon, the wintery Blue Cave rests peacefully beneath the clear sun. In the afternoon, drive to the lonely Bezdanj Lighthouse and the chilly Placet cliffs. Return safely to Donje Čelo in the evening as the early dark descends."
+            "en": "Start your road trip from Donje Čelo in a comfortably heated car. By noon, the wintery Blue Cave rests peacefully beneath the clear sun. In the afternoon, drive to the lonely Bezdanj Lighthouse and the chilly Placet cliffs. Return safely to Donje Čelo in the evening as the early dark descends.",
+            "hr": "Započnite svoje putovanje iz Donjeg Čela u ugodno zagrijanom automobilu. Do podneva, zimska Modra špilja miruje pod vedrim suncem. Poslijepodne se odvezite do usamljenog svjetionika Bezdanj i prohladnih litica Placet. Navečer se sigurno vratite u Donje Čelo dok se spušta rani mrak."
           },
           "stops": [
             {
@@ -1637,7 +1804,8 @@
                 "de": "Lassen Sie die Heizung kurz vorwärmen, bevor Sie fahren.",
                 "hu": "Indulás előtt hagyja kicsit felmelegedni az autót.",
                 "ro": "Lăsați mașina să se încălzească puțin înainte de a pleca.",
-                "en": "Let the car heater warm up briefly before driving."
+                "en": "Let the car heater warm up briefly before driving.",
+                "hr": "Pustite da se grijač u autu kratko zagrije prije vožnje."
               }
             },
             {
@@ -1646,7 +1814,8 @@
                 "de": "Im Winter gibt es hier oft leere Parkplätze.",
                 "hu": "Télen itt gyakran találni üres parkolóhelyeket.",
                 "ro": "Iarna veți găsi adesea locuri de parcare goale aici.",
-                "en": "You will often find empty parking spots here in winter."
+                "en": "You will often find empty parking spots here in winter.",
+                "hr": "Zimi ćete ovdje često naći prazna parkirna mjesta."
               }
             },
             {
@@ -1655,7 +1824,8 @@
                 "de": "Der Wind pfeift kalt; bleiben Sie kurz im Auto.",
                 "hu": "Hideg szél fúj; maradjon rövid ideig az autóban.",
                 "ro": "Vântul bate rece; stați puțin în mașină.",
-                "en": "Cold winds howl here; you might want to stay in the car briefly."
+                "en": "Cold winds howl here; you might want to stay in the car briefly.",
+                "hr": "Ovdje zavijaju hladni vjetrovi; možda ćete htjeti nakratko ostati u autu."
               }
             },
             {
@@ -1664,7 +1834,8 @@
                 "de": "Genießen Sie den Sonnenuntergang durch die Windschutzscheibe.",
                 "hu": "Élvezze a naplementét a szélvédőn keresztül.",
                 "ro": "Bucurați-vă de apus prin parbrizul mașinii.",
-                "en": "Enjoy the winter sunset from the comfort of your front seat."
+                "en": "Enjoy the winter sunset from the comfort of your front seat.",
+                "hr": "Uživajte u zimskom zalasku sunca iz udobnosti prednjeg sjedala."
               }
             }
           ],
@@ -1696,6 +1867,13 @@
               "Watch out for potential black ice on shaded road sections in the mornings.",
               "Keep a warm blanket and a basic emergency kit stored in the trunk.",
               "Do not rely heavily on local gas stations; check your fuel level in advance."
+            ],
+            "hr": [
+              "Provjerite stanje zimskih guma prije vožnje uz obalu.",
+              "Planirajte rutu vožnje tako da se vratite prije ranog zalaska sunca.",
+              "Pazite na moguću poledicu na zasjenjenim dijelovima ceste ujutro.",
+              "U prtljažniku držite toplu deku i osnovni pribor za hitne slučajeve.",
+              "Nemojte se previše oslanjati na lokalne benzinske postaje; unaprijed provjerite razinu goriva."
             ]
           }
         }
@@ -1724,7 +1902,8 @@
             "de": "Ankunft mit der Fähre 'Postira' aus Dubrovnik.",
             "hu": "Érkezés a 'Postira' komppal Dubrovnikból.",
             "ro": "Sosirea cu feribotul 'Postira' din Dubrovnik.",
-            "en": "Arrival with the ferry 'Postira' from Dubrovnik."
+            "en": "Arrival with the ferry 'Postira' from Dubrovnik.",
+            "hr": "Dolazak brodom 'Postira' iz Dubrovnika."
           }
         },
         {
@@ -1742,7 +1921,8 @@
             "de": "Wanderung zum nächsten Ort Gornje Čelo.",
             "hu": "Túra a következő településre, Gornje Čelóba.",
             "ro": "Drumeție spre următorul sat, Gornje Čelo.",
-            "en": "Hike to the next village, Gornje Čelo."
+            "en": "Hike to the next village, Gornje Čelo.",
+            "hr": "Pješačenje do sljedećeg sela, Gornjeg Čela."
           }
         },
         {
@@ -1760,7 +1940,8 @@
             "de": "Kulturelles Erbe im Inselzentrum.",
             "hu": "Kulturális örökség a sziget központjában.",
             "ro": "Patrimoniu cultural în centrul insulei.",
-            "en": "Cultural heritage in the island center."
+            "en": "Cultural heritage in the island center.",
+            "hr": "Kulturna baština u središtu otoka."
           }
         }
       ],
@@ -1768,7 +1949,8 @@
         "de": "Der öffentliche Transit nach Koločep besteht aus der legendären Fähre aus Dubrovnik. Sie landen in Donje Čelo und wandern über die Insel zum zweiten Dorf Gornje Čelo. Unterwegs besuchen Sie die historischen Kapellen, die wie kleine Wächter in der Landschaft stehen.\n\nDer Nachmittag endet wieder am Hauptstrand von Donje Čelo, wo Sie in einem Café das Inselleben beobachten können, bevor das Schiff Sie zurück zum Festland bringt. Eine entschleunigte Reise wie in vergangenen Zeiten.",
         "hu": "A tömegközlekedés Koločepre a legendás dubrovniki kompból áll. Kiköt Donje Čelóban, majd átgyalogol a szigeten a második faluhoz, Gornje Čelóhoz. Útközben meglátogatja a történelmi kápolnákat, amelyek kis őrökként állnak a tájban.\n\nA délután ismét Donje Čelo főstrandján ér véget, ahol egy kávézóban figyelheti a szigeti életet, mielőtt a hajó visszavinné a szárazföldre. Egy lelassult utazás, akár a régi időkben.",
         "ro": "Tranzitul public spre Koločep constă în legendarul feribot din Dubrovnik. Debarcați în Donje Čelo și mergeți pe jos peste insulă până la al doilea sat, Gornje Čelo. Pe drum vizitați capelele istorice care stau ca niște mici paznici în peisaj.\n\nDupă-amiaza se încheie din nou la plaja principală din Donje Čelo, unde puteți observa viața insulară într-o cafenea, înainte ca nava să vă ducă înapoi pe continent. O călătorie relaxată ca în vremurile de demult.",
-        "en": "Public transit to Koločep consists of the legendary ferry from Dubrovnik. Land in Donje Čelo and hike across the island to the second village, Gornje Čelo. Along the way, visit the historic chapels that stand like small sentinels in the landscape.\n\nThe afternoon ends back at the main beach of Donje Čelo, where you can watch island life from a café before the boat takes you back to the mainland. A slowed-down journey, just like in the old days."
+        "en": "Public transit to Koločep consists of the legendary ferry from Dubrovnik. Land in Donje Čelo and hike across the island to the second village, Gornje Čelo. Along the way, visit the historic chapels that stand like small sentinels in the landscape.\n\nThe afternoon ends back at the main beach of Donje Čelo, where you can watch island life from a café before the boat takes you back to the mainland. A slowed-down journey, just like in the old days.",
+        "hr": "Javni prijevoz do Koločepa sastoji se od legendarne brodske linije iz Dubrovnika. Iskrcajte se u Donjem Čelu i pješačite preko otoka do drugog sela, Gornjeg Čela. Usput posjetite povijesne kapelice koje stoje poput malih stražara u krajoliku.\n\nPoslijepodne završava na glavnoj plaži u Donjem Čelu, gdje možete promatrati otočki život iz kafića prije nego što vas brod vrati na kopno. Usporeno putovanje, baš kao u stara vremena."
       },
       "gastro_picks": {
         "de": [
@@ -1793,6 +1975,12 @@
           {
             "name": "Buffet Gornje Čelo",
             "tip": "Affordable snack for hikers."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Buffet Gornje Čelo",
+            "tip": "Povoljan zalogaj za pješake."
           }
         ]
       },
@@ -1824,6 +2012,13 @@
             "tip": "Much quieter than the main village.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Luka Gornje Čelo",
+            "tip": "Mnogo mirnije od glavnog sela.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1850,6 +2045,12 @@
             "name": "Donje Čelo Kiosk",
             "tip": "Newspapers and souvenirs."
           }
+        ],
+        "hr": [
+          {
+            "name": "Kiosk Donje Čelo",
+            "tip": "Novine i suveniri."
+          }
         ]
       },
       "tips": {
@@ -1868,6 +2069,10 @@
         "en": [
           "Buy ferry tickets at the Dubrovnik harbor.",
           "Check the Sunday schedule carefully."
+        ],
+        "hr": [
+          "Kupite karte za brod u dubrovačkoj luci.",
+          "Pažljivo provjerite nedjeljni red plovidbe."
         ]
       },
       "variants": {
@@ -2022,7 +2227,8 @@
             "de": "Starten Sie regengeschützt von der Haltestelle in Donje Čelo. Mittags bietet die Kirche des Hl. Nikolaus einen trockenen Zufluchtsort. Nachmittags fahren Sie weiter zur Kirche des Hl. Sergius, um dem schlechten Wetter zu entgehen. Abends bringt Sie der Bus sicher durch den Regen nach Donje Čelo zurück.",
             "hu": "Induljon esőtől védve a Donje Čelo megállóból. Délben a Szent Miklós templom száraz menedéket kínál. Délután utazzon tovább a Szent Sergius templomhoz, elkerülve a rossz időt. Este a busz biztonságosan visszaviszi a szakadó esőben Donje Čelo faluba.",
             "ro": "Porniți adăpostit de ploaie din stația Donje Čelo. La prânz, Biserica Sf. Nicolae oferă un refugiu uscat. După-amiaza, mergeți mai departe spre Biserica Sf. Sergius, evitând vremea rea. Seara, autobuzul vă aduce în siguranță prin ploaie înapoi în Donje Čelo.",
-            "en": "Start your journey sheltered from the rain at the Donje Čelo stop. By noon, the Church of St. Nicholas offers a dry refuge. In the afternoon, transfer toward the Church of St. Sergius to escape the worsening weather. In the evening, the transit system safely returns you to Donje Čelo."
+            "en": "Start your journey sheltered from the rain at the Donje Čelo stop. By noon, the Church of St. Nicholas offers a dry refuge. In the afternoon, transfer toward the Church of St. Sergius to escape the worsening weather. In the evening, the transit system safely returns you to Donje Čelo.",
+            "hr": "Započnite svoje putovanje zaštićeni od kiše na stanici u Donjem Čelu. Do podneva, crkva sv. Nikole nudi suho utočište. Poslijepodne se prebacite prema crkvi sv. Srđa kako biste pobjegli od pogoršanja vremena. Navečer vas prijevoz sigurno vraća u Donje Čelo."
           },
           "stops": [
             {
@@ -2031,7 +2237,8 @@
                 "de": "Warten Sie unter dem Haltestellendach auf den Bus.",
                 "hu": "Várja a buszt a megálló teteje alatt.",
                 "ro": "Așteptați autobuzul sub acoperișul stației.",
-                "en": "Wait for your transit under the bus shelter roof."
+                "en": "Wait for your transit under the bus shelter roof.",
+                "hr": "Čekajte prijevoz ispod nadstrešnice stanice."
               }
             },
             {
@@ -2040,7 +2247,8 @@
                 "de": "Trocknen Sie Ihren Regenschirm im Vorraum.",
                 "hu": "Szárítsa meg az esernyőjét az előtérben.",
                 "ro": "Uscați-vă umbrela în vestibul.",
-                "en": "Shake off and dry your umbrella in the vestibule."
+                "en": "Shake off and dry your umbrella in the vestibule.",
+                "hr": "Otresite i osušite kišobran u predprostoru."
               }
             },
             {
@@ -2049,7 +2257,8 @@
                 "de": "Ein guter Ort, um den nächsten Schauer abzuwarten.",
                 "hu": "Jó hely megvárni a következő zápor végét.",
                 "ro": "Un loc bun pentru a aștepta trecerea averselor.",
-                "en": "A fine spot to wait out the next passing shower."
+                "en": "A fine spot to wait out the next passing shower.",
+                "hr": "Dobro mjesto za čekanje da prođe sljedeći pljusak."
               }
             },
             {
@@ -2058,7 +2267,8 @@
                 "de": "Achten Sie beim Aussteigen auf rutschige Stufen.",
                 "hu": "Leszálláskor ügyeljen a csúszós lépcsőkre.",
                 "ro": "Atenție la treptele alunecoase la coborâre.",
-                "en": "Watch out for slippery steps as you exit the vehicle."
+                "en": "Watch out for slippery steps as you exit the vehicle.",
+                "hr": "Pazite na skliske stepenice pri izlasku iz vozila."
               }
             }
           ],
@@ -2090,6 +2300,13 @@
               "Be prepared for transit delays caused by heavy coastal rain.",
               "Bring a book or newspaper in case you have to wait longer at stops.",
               "Keep your transit pass or ticket dry and easily accessible in your pocket."
+            ],
+            "hr": [
+              "Uvijek provjerite na internetu eventualne promjene voznog reda ili kašnjenja zbog vremena.",
+              "Ponesite kompaktan kišobran koji neće zauzimati puno mjesta u autobusu ili brodu.",
+              "Budite spremni na kašnjenja u prijevozu uzrokovana jakom obalnom kišom.",
+              "Ponesite knjigu ili novine u slučaju da morate duže čekati na stanicama.",
+              "Držite svoju kartu za prijevoz suhom i lako dostupnom u džepu."
             ]
           }
         },
@@ -2098,7 +2315,8 @@
             "de": "Warten Sie in der kühlen Winterluft von Donje Čelo auf Ihr Verkehrsmittel. Mittags ist die Kirche des Hl. Nikolaus ein stiller, wärmender Ort. Nachmittags bringt Sie der Bus zur winterlich verlassenen Kirche des Hl. Sergius. Abends nehmen Sie rechtzeitig die letzte winterliche Verbindung zurück nach Donje Čelo.",
             "hu": "Várja meg a járművét Donje Čelo hűvös téli levegőjén. Délben a Szent Miklós templom egy csendes, melegítő hely. Délután a busz elviszi a télen elhagyatott Szent Sergius templomhoz. Este időben érje el az utolsó téli járatot vissza Donje Čelo faluba.",
             "ro": "Așteptați mijlocul de transport în aerul rece de iarnă din Donje Čelo. La prânz, Biserica Sf. Nicolae este un loc liniștit și cald. După-amiaza, autobuzul vă duce la Biserica Sf. Sergius, părăsită iarna. Seara, prindeți la timp ultima legătură de iarnă înapoi spre Donje Čelo.",
-            "en": "Wait for your transit in the crisp winter air of Donje Čelo. By noon, the Church of St. Nicholas provides a quiet, warming sanctuary. In the afternoon, the transit takes you to the deserted, wintery Church of St. Sergius. Ensure you catch the final winter connection back to Donje Čelo in the evening."
+            "en": "Wait for your transit in the crisp winter air of Donje Čelo. By noon, the Church of St. Nicholas provides a quiet, warming sanctuary. In the afternoon, the transit takes you to the deserted, wintery Church of St. Sergius. Ensure you catch the final winter connection back to Donje Čelo in the evening.",
+            "hr": "Čekajte svoj prijevoz na svježem zimskom zraku u Donjem Čelu. Do podneva, crkva sv. Nikole pruža tiho, toplo utočište. Poslijepodne vas prijevoz vodi do napuštene, zimske crkve sv. Srđa. Svakako uhvatite posljednju zimsku vezu natrag u Donje Čelo navečer."
           },
           "stops": [
             {
@@ -2107,7 +2325,8 @@
                 "de": "Beachten Sie den ausgedünnten Winterfahrplan.",
                 "hu": "Vegye figyelembe a ritkított téli menetrendet.",
                 "ro": "Acordați atenție orarului redus de iarnă.",
-                "en": "Keep in mind the reduced winter transit schedule."
+                "en": "Keep in mind the reduced winter transit schedule.",
+                "hr": "Imajte na umu reducirani zimski vozni red."
               }
             },
             {
@@ -2116,7 +2335,8 @@
                 "de": "Wärmen Sie sich hier zwischen den Busfahrten auf.",
                 "hu": "Melegedjen fel itt a buszjáratok között.",
                 "ro": "Încălziți-vă aici între călătoriile cu autobuzul.",
-                "en": "Warm up here between your scheduled transit connections."
+                "en": "Warm up here between your scheduled transit connections.",
+                "hr": "Ugrijte se ovdje između planiranih linija prijevoza."
               }
             },
             {
@@ -2125,7 +2345,8 @@
                 "de": "Der Haltestellenbereich kann im Winter sehr zugig sein.",
                 "hu": "A megálló környéke télen rendkívül huzatos lehet.",
                 "ro": "Zona stației poate fi foarte expusă la curenți iarna.",
-                "en": "The waiting area here can be quite drafty in winter."
+                "en": "The waiting area here can be quite drafty in winter.",
+                "hr": "Čekaonica ovdje zimi može biti prilično propusna za vjetar."
               }
             },
             {
@@ -2134,7 +2355,8 @@
                 "de": "Verpassen Sie nicht die letzte Fahrt vor der Dunkelheit.",
                 "hu": "Ne késse le az utolsó járatot sötétedés előtt.",
                 "ro": "Nu ratați ultima cursă înainte de întuneric.",
-                "en": "Do not miss the very last ride before darkness falls."
+                "en": "Do not miss the very last ride before darkness falls.",
+                "hr": "Nemojte propustiti zadnju vožnju prije nego padne mrak."
               }
             }
           ],
@@ -2166,6 +2388,13 @@
               "Be aware that some ferries or buses might be cancelled during high winter winds.",
               "Bring a hot drink in a thermal flask to keep you cozy during your rides.",
               "Enjoy the peacefulness of the transit vehicles, which are mostly empty in winter."
+            ],
+            "hr": [
+              "Nikada se nemojte oslanjati na ljetni vozni red; uvijek provjerite ažurirane zimske polaske.",
+              "Nosite termo čarape i obuću, jer čekanje na stanicama može biti vrlo hladno.",
+              "Imajte na umu da neki brodovi ili autobusi mogu biti otkazani tijekom jakih zimskih vjetrova.",
+              "Ponesite topli napitak u termosici kako bi vam bilo ugodno tijekom vožnje.",
+              "Uživajte u miru u vozilima javnog prijevoza, koja su zimi uglavnom prazna."
             ]
           }
         }

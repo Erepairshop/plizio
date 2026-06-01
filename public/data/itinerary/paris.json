@@ -36,7 +36,8 @@
             "de": "Kommen Sie früh, um die Fassade im Morgenlicht zu sehen.",
             "hu": "Érkezz korán, hogy elkerüld a tömeget a téren.",
             "ro": "Veniți devreme pentru a vedea fațada în lumina dimineții.",
-            "en": "Arrive early to admire the facade in the morning light."
+            "en": "Arrive early to admire the facade in the morning light.",
+            "fr": "Arrivez tôt pour admirer la façade dans la lumière du matin."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Buchen Sie Tickets im Voraus für die unglaublichen Glasmalereien.",
             "hu": "Foglalj jegyet előre a lenyűgöző üvegablakokhoz.",
             "ro": "Rezervați bilete în avans pentru vitraliile incredibile.",
-            "en": "Book tickets in advance for the incredible stained glass."
+            "en": "Book tickets in advance for the incredible stained glass.",
+            "fr": "Réservez vos billets à l'avance pour les vitraux incroyables."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Die älteste Brücke der Stadt bietet tolle Fotomöglichkeiten.",
             "hu": "A város legrégebbi hídja, remek fotópont.",
             "ro": "Cel mai vechi pod din oraș oferă oportunități foto grozave.",
-            "en": "The city's oldest bridge offers great photo opportunities."
+            "en": "The city's oldest bridge offers great photo opportunities.",
+            "fr": "Le plus vieux pont de la ville offre de superbes opportunités de photos."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Konzentrieren Sie sich auf einen Flügel, um nicht überfordert zu werden.",
             "hu": "Válassz ki egy szárnyat, hogy ne vessz el a hatalmas gyűjteményben.",
             "ro": "Concentrați-vă pe o singură aripă pentru a nu fi copleșit.",
-            "en": "Focus on one wing to avoid being overwhelmed."
+            "en": "Focus on one wing to avoid being overwhelmed.",
+            "fr": "Concentrez-vous sur une seule aile pour ne pas être submergé."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Mieten Sie einen grünen Stuhl an einem der Brunnen.",
             "hu": "Pihenj meg egy zöld fémszéken a szökőkutak mellett.",
             "ro": "Închiriați un scaun verde lângă una dintre fântâni.",
-            "en": "Rent a green chair by one of the fountains."
+            "en": "Rent a green chair by one of the fountains.",
+            "fr": "Louez une chaise verte près de l'un des bassins."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Bestaunen Sie den Obelisken von Luxor in der Mitte.",
             "hu": "Csodáld meg a luxori obeliszket a tér közepén.",
             "ro": "Admirați obeliscul din Luxor din mijlocul pieței.",
-            "en": "Admire the Luxor Obelisk in the center of the square."
+            "en": "Admire the Luxor Obelisk in the center of the square.",
+            "fr": "Admirez l'Obélisque de Louxor au centre de la place."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Spazieren Sie bei Sonnenuntergang entlang der Kaimauern.",
             "hu": "Sétálj a rakparton a naplementében.",
             "ro": "Plimbați-vă de-a lungul cheiurilor la apus.",
-            "en": "Stroll along the quays at sunset."
+            "en": "Stroll along the quays at sunset.",
+            "fr": "Flânez sur les quais au coucher du soleil."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Herzen von Paris auf der Île de la Cité. Nach der Besichtigung der Notre-Dame und der Sainte-Chapelle überqueren Sie den Pont Neuf zum Louvre. Mittags genießen Sie die Kunstschätze, gefolgt von einem entspannten Spaziergang durch die Tuilerien. Der Tag endet majestätisch an der Place de la Concorde und mit einem goldenen Sonnenuntergang an der Seine.",
         "hu": "Kezdd a napot Párizs történelmi szívében, az Île de la Cité szigeten. A Notre-Dame és a Sainte-Chapelle után a Pont Neuf hídon át érkezz a Louvre-hoz. Délután pihenj a Tuileriák kertjében, majd fejezd be a sétát a Place de la Concorde téren, végül élvezd az alkonyt a Szajna-parton, ahol a város fényei életre kelnek.",
         "ro": "Începeți ziua în inima istorică a Parisului, pe Île de la Cité. După Notre-Dame și Sainte-Chapelle, traversați Pont Neuf spre Luvru. La prânz bucurați-vă de comorile de artă, urmate de o plimbare relaxantă prin Tuileries. Ziua se încheie maiestuos în Place de la Concorde și cu un apus auriu pe malul Senei.",
-        "en": "Start your day in the historic heart of Paris on Île de la Cité. After Notre-Dame and Sainte-Chapelle, cross Pont Neuf to the Louvre. Enjoy world-class art at midday, followed by a relaxed stroll through the Tuileries. The day ends majestically at Place de la Concorde with a golden sunset along the Seine banks."
+        "en": "Start your day in the historic heart of Paris on Île de la Cité. After Notre-Dame and Sainte-Chapelle, cross Pont Neuf to the Louvre. Enjoy world-class art at midday, followed by a relaxed stroll through the Tuileries. The day ends majestically at Place de la Concorde with a golden sunset along the Seine banks.",
+        "fr": "Commencez votre journée dans le cœur historique de Paris sur l'île de la Cité. Après Notre-Dame et la Sainte-Chapelle, traversez le Pont Neuf vers le Louvre. Profitez de l'art de classe mondiale à la mi-journée, suivi d'une promenade détendue dans les Tuileries. La journée se termine majestueusement sur la place de la Concorde avec un coucher de soleil doré le long des berges de la Seine."
       },
       "gastro_picks": {
         "de": [
@@ -224,6 +232,16 @@
             "name": "Le Comptoir de la Gastronomie",
             "tip": "Excellent duck specialties and terrines."
           }
+        ],
+        "fr": [
+          {
+            "name": "Angelina",
+            "tip": "Goûtez au célèbre chocolat chaud épais \"L'Africain\"."
+          },
+          {
+            "name": "Le Comptoir de la Gastronomie",
+            "tip": "Excellentes spécialités de canard et terrines."
+          }
         ]
       },
       "quiet_picks": {
@@ -254,6 +272,13 @@
             "tip": "A quiet park at the tip of the island.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Square du Vert-Galant",
+            "tip": "Un parc paisible à la pointe de l'île.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -279,6 +304,12 @@
           {
             "name": "Shakespeare and Company",
             "tip": "Legendary English-language bookstore."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Shakespeare and Company",
+            "tip": "Légendaire librairie anglophone."
           }
         ]
       },
@@ -306,6 +337,12 @@
           "Use the free public drinking fountains.",
           "Watch out for pickpockets in tourist areas.",
           "Enjoy a picnic along the river bank."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les pavés.",
+          "Utilisez les fontaines d'eau potable gratuites.",
+          "Attention aux pickpockets dans les zones touristiques.",
+          "Profitez d'un pique-nique au bord du fleuve."
         ]
       },
       "variants": {
@@ -546,7 +583,8 @@
             "de": "Ein regnerischer Morgen beginnt an der Kathedrale Notre-Dame, deren Wasserspeier bei diesem Wetter fast lebendig wirken. Mittags bietet die Sainte-Chapelle mit ihren leuchtenden Glasfenstern einen trockenen Zufluchtsort, gefolgt von einem Gang über den Pont Neuf. Den Nachmittag verbringen wir geschützt in den endlosen Galerien des Louvre. Der Abend klingt an den Ufern der Seine aus, wo sich die Lichter der Stadt in den Pfützen auf dem Pflaster spiegeln.",
             "hu": "Az esős reggel a Notre-Dame katedrálisnál kezdődik, ahol a vízköpők szinte életre kelnek a záporban. Délben a Sainte-Chapelle üvegablakai nyújtanak menedéket, majd a Pont Neuf felé vesszük az irányt. A délutánt a Louvre végtelen folyosóin töltjük, távol az elemektől. Az este a Szajna-parton zárul, ahol a város fényei csillognak a vizes aszfalton és a pocsolyák tükrében.",
             "ro": "O dimineață ploioasă începe la Catedrala Notre-Dame, unde garguiele par aproape vii în acest decor. La prânz, Sainte-Chapelle oferă un refugiu uscat cu vitraliile sale strălucitoare, urmată de o plimbare pe Pont Neuf. Petrecem după-amiaza protejați în galeriile nesfârșite ale Luvrului. Seara se încheie pe malurile Senei, unde luminile orașului se oglindesc spectaculos în bălțile de pe pavaj.",
-            "en": "A rainy morning starts at Notre-Dame, where the gargoyles almost come to life in the mist. At noon, Sainte-Chapelle provides a dry sanctuary with its glowing stained glass, followed by a walk across Pont Neuf. Spend the afternoon sheltered within the vast galleries of the Louvre. The evening ends by the Seine, watching city lights dance in the puddles along the wet embankments."
+            "en": "A rainy morning starts at Notre-Dame, where the gargoyles almost come to life in the mist. At noon, Sainte-Chapelle provides a dry sanctuary with its glowing stained glass, followed by a walk across Pont Neuf. Spend the afternoon sheltered within the vast galleries of the Louvre. The evening ends by the Seine, watching city lights dance in the puddles along the wet embankments.",
+            "fr": "Une matinée pluvieuse commence à Notre-Dame, où les gargouilles semblent presque prendre vie dans la brume. À midi, la Sainte-Chapelle offre un sanctuaire sec avec ses vitraux étincelants, suivi d'une traversée du Pont Neuf. Passez l'après-midi à l'abri dans les vastes galeries du Louvre. La soirée se termine au bord de la Seine, en regardant les lumières de la ville danser dans les flaques le long des quais mouillés."
           },
           "stops": [
             {
@@ -555,7 +593,8 @@
                 "de": "Suchen Sie Schutz unter den großen Portalen bei plötzlichen Schauern.",
                 "hu": "Hirtelen zápor esetén keressen menedéket a katedrális hatalmas kapui alatt.",
                 "ro": "Căutați adăpost sub portalurile masive în caz de averse bruște.",
-                "en": "Seek shelter under the massive portals during sudden heavy showers."
+                "en": "Seek shelter under the massive portals during sudden heavy showers.",
+                "fr": "Cherchez refuge sous les portails massifs lors de soudaines averses fortes."
               }
             },
             {
@@ -564,7 +603,8 @@
                 "de": "Perfektes Ziel bei Regen; die Farben der Fenster wirken bei grauem Licht intensiver.",
                 "hu": "Tökéletes esős úti cél; az ablakok színei intenzívebbek szürke égbolt mellett.",
                 "ro": "Destinație ideală pe ploaie; culorile vitraliilor sunt mai intense sub cerul gri.",
-                "en": "Perfect rainy day stop; the window colors feel more intense under gray light."
+                "en": "Perfect rainy day stop; the window colors feel more intense under gray light.",
+                "fr": "Arrêt idéal par temps de pluie ; les couleurs des vitraux semblent plus intenses sous la lumière grise."
               }
             },
             {
@@ -573,7 +613,8 @@
                 "de": "Vorsicht, die alten Steine können bei Nässe sehr rutschig sein.",
                 "hu": "Vigyázat, a régi kövek vizesen nagyon csúszósak lehetnek.",
                 "ro": "Atenție, pietrele vechi pot deveni foarte alunecoase când sunt ude.",
-                "en": "Watch your step; the ancient stones can be very slippery when wet."
+                "en": "Watch your step; the ancient stones can be very slippery when wet.",
+                "fr": "Faites attention où vous marchez ; les pierres anciennes peuvent être très glissantes lorsqu'elles sont mouillées."
               }
             },
             {
@@ -582,7 +623,8 @@
                 "de": "Nutzen Sie den unterirdischen Eingang durch das Carrousel, um trocken zu bleiben.",
                 "hu": "Használja a Carrousel felőli földalatti bejáratot, hogy száraz maradjon.",
                 "ro": "Folosiți intrarea subterană prin Carrousel pentru a rămâne uscat.",
-                "en": "Use the underground entrance via Carrousel to stay dry while entering."
+                "en": "Use the underground entrance via Carrousel to stay dry while entering.",
+                "fr": "Utilisez l'entrée souterraine via le Carrousel pour rester au sec en entrant."
               }
             },
             {
@@ -591,7 +633,8 @@
                 "de": "Die Kieswege können matschig werden; bleiben Sie auf den befestigten Rändern.",
                 "hu": "A kavicsos utak sárosak lehetnek; maradjon a szilárdabb széleken.",
                 "ro": "Potecile cu pietriș pot deveni noroioase; rămâneți pe marginile pavate.",
-                "en": "The gravel paths can get muddy; stick to the paved edges of the garden."
+                "en": "The gravel paths can get muddy; stick to the paved edges of the garden.",
+                "fr": "Les allées en gravier peuvent devenir boueuses ; restez sur les bords pavés du jardin."
               }
             },
             {
@@ -600,7 +643,8 @@
                 "de": "Sehr windanfällig; halten Sie Ihren Regenschirm gut fest.",
                 "hu": "Nagyon szeles terület; tartsa erősen az esernyőjét.",
                 "ro": "Zonă expusă vântului; țineți bine umbrela în spațiul deschis.",
-                "en": "Very exposed to wind; hold your umbrella firmly in this open square."
+                "en": "Very exposed to wind; hold your umbrella firmly in this open square.",
+                "fr": "Très exposé au vent ; tenez fermement votre parapluie sur cette place ouverte."
               }
             },
             {
@@ -609,7 +653,8 @@
                 "de": "Die Ufermauern bieten wenig Schutz, aber tolle Fotomotive mit Spiegelungen.",
                 "hu": "A rakpart kevés védelmet nyújt, de a tükröződések miatt remek fotóhelyszín.",
                 "ro": "Malurile oferă puțin adăpost, dar reflexiile sunt superbe pentru fotografii.",
-                "en": "The banks offer little shelter, but the reflections make for great photos."
+                "en": "The banks offer little shelter, but the reflections make for great photos.",
+                "fr": "Les berges offrent peu d'abri, mais les reflets permettent de superbes photos."
               }
             }
           ],
@@ -641,6 +686,13 @@
               "Museums are significantly more crowded during rain; book in advance.",
               "A compact, windproof umbrella is essential in the city's wind corridors.",
               "Cafes with large awnings are perfect for a dry outdoor break."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables adaptées aux allées en gravier de Paris.",
+              "Utilisez les Passages Couverts comme raccourcis au sec.",
+              "Les musées sont beaucoup plus fréquentés par temps de pluie ; réservez à l'avance.",
+              "Un parapluie compact et résistant au vent est essentiel dans les couloirs de vent de la ville.",
+              "Les cafés avec de grands auvents sont parfaits pour une pause extérieure au sec."
             ]
           }
         },
@@ -649,7 +701,8 @@
             "de": "Ein klarer Wintermorgen an der Notre-Dame verspricht frische Luft und scharfe Kontraste. Mittags wärmen wir uns nach dem Besuch der Sainte-Chapelle in einer gemütlichen Brasserie am Pont Neuf auf. Der Nachmittag gehört der Wärme des Louvre, wo die Kunst die Kälte vergessen lässt. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir die festliche Beleuchtung an den Tuilerien und der Concorde, bevor der Tag an der Seine endet.",
             "hu": "A tiszta téli reggel a Notre-Dame-nál friss levegőt és éles kontrasztokat ígér. Délben a Sainte-Chapelle után egy hangulatos bisztróban melegszünk fel a Pont Neuf közelében. A délután a Louvre melegéé, ahol a művészet feledteti a kinti hideget. Mivel a nap már 17:00 körül lemegy, az ünnepi fényeket csodáljuk meg a Tuileriáknál és a Concorde téren, mielőtt a Szajnánál zárnánk a napot.",
             "ro": "O dimineață senină de iarnă la Notre-Dame promite aer proaspăt și contraste clare. La prânz, după Sainte-Chapelle, ne încălzim într-o brasierie primitoare lângă Pont Neuf. După-amiaza aparține căldurii Luvrului, unde arta ne face să uităm de frig. Deoarece soarele apune pe la 17:00, admirăm iluminatul festiv la Tuileries și Concorde înainte de a încheia ziua la Senă.",
-            "en": "A crisp winter morning at Notre-Dame offers fresh air and sharp contrasts. At noon, warm up in a cozy brasserie near Pont Neuf after visiting Sainte-Chapelle. The afternoon belongs to the warmth of the Louvre, where art makes you forget the cold. Since the sun sets around 17:00, enjoy the festive lights at Tuileries and Concorde before ending the day by the Seine."
+            "en": "A crisp winter morning at Notre-Dame offers fresh air and sharp contrasts. At noon, warm up in a cozy brasserie near Pont Neuf after visiting Sainte-Chapelle. The afternoon belongs to the warmth of the Louvre, where art makes you forget the cold. Since the sun sets around 17:00, enjoy the festive lights at Tuileries and Concorde before ending the day by the Seine.",
+            "fr": "Une matinée d'hiver tonique à Notre-Dame offre un air frais et des contrastes saisissants. À midi, réchauffez-vous dans une brasserie accueillante près du Pont Neuf après avoir visité la Sainte-Chapelle. L'après-midi appartient à la chaleur du Louvre, où l'art fait oublier le froid. Le soleil se couchant vers 17h00, profitez des illuminations festives aux Tuileries et à la Concorde avant de finir la journée au bord de la Seine."
           },
           "stops": [
             {
@@ -658,7 +711,8 @@
                 "de": "Die Wasserspeier wirken im klaren Winterlicht besonders plastisch.",
                 "hu": "A vízköpők különösen élesen rajzolódnak ki a tiszta téli fényben.",
                 "ro": "Garguiele par deosebit de clare în lumina rece de iarnă.",
-                "en": "The gargoyles look particularly striking in the clear winter light."
+                "en": "The gargoyles look particularly striking in the clear winter light.",
+                "fr": "Les gargouilles sont particulièrement frappantes dans la lumière claire de l'hiver."
               }
             },
             {
@@ -667,7 +721,8 @@
                 "de": "Im Winter oft weniger überlaufen; genießen Sie die Stille.",
                 "hu": "Télen gyakran kevésbé zsúfolt; élvezze a csendes áhítatot.",
                 "ro": "Deseori mai puțin aglomerat iarna; bucurați-vă de liniște.",
-                "en": "Often less crowded in winter; enjoy the quiet atmosphere inside."
+                "en": "Often less crowded in winter; enjoy the quiet atmosphere inside.",
+                "fr": "Souvent moins fréquenté en hiver ; profitez de l'atmosphère calme à l'intérieur."
               }
             },
             {
@@ -676,7 +731,8 @@
                 "de": "Der Wind vom Fluss kann eisig sein; Schal und Handschuhe sind Pflicht.",
                 "hu": "A folyó felől fújó szél jeges lehet; a sál és kesztyű kötelező.",
                 "ro": "Vântul de pe râu poate fi înghețat; fularul și mănușile sunt obligatorii.",
-                "en": "The wind from the river can be icy; scarf and gloves are a must here."
+                "en": "The wind from the river can be icy; scarf and gloves are a must here.",
+                "fr": "Le vent du fleuve peut être glacial ; écharpe et gants sont indispensables ici."
               }
             },
             {
@@ -685,7 +741,8 @@
                 "de": "Geben Sie Ihre schweren Mäntel an der kostenlosen Garderobe ab.",
                 "hu": "Adja le nehéz kabátját az ingyenes ruhatárban a kényelmes sétához.",
                 "ro": "Lăsați hainele grele la garderoba gratuită pentru confort.",
-                "en": "Leave your heavy coats at the free cloakroom for a comfortable visit."
+                "en": "Leave your heavy coats at the free cloakroom for a comfortable visit.",
+                "fr": "Laissez vos manteaux lourds au vestiaire gratuit pour une visite confortable."
               }
             },
             {
@@ -694,7 +751,8 @@
                 "de": "Suchen Sie nach Ständen, die geröstete Kastanien oder Glühwein verkaufen.",
                 "hu": "Keresse a sült gesztenyét vagy forralt bort árusító bódékat.",
                 "ro": "Căutați chioșcurile care vând castane coapte sau vin fiert.",
-                "en": "Look for kiosks selling roasted chestnuts or mulled wine (vin chaud)."
+                "en": "Look for kiosks selling roasted chestnuts or mulled wine (vin chaud).",
+                "fr": "Cherchez les kiosques vendant des marrons chauds ou du vin chaud."
               }
             },
             {
@@ -703,7 +761,8 @@
                 "de": "Genießen Sie den Blick auf die beleuchtete Avenue des Champs-Élysées.",
                 "hu": "Élvezze a kivilágított Champs-Élysées sugárút látványát.",
                 "ro": "Bucurați-vă de vederea spre Avenue des Champs-Élysées iluminată.",
-                "en": "Enjoy the view of the illuminated Avenue des Champs-Élysées from here."
+                "en": "Enjoy the view of the illuminated Avenue des Champs-Élysées from here.",
+                "fr": "Profitez de la vue sur l'avenue des Champs-Élysées illuminée depuis ici."
               }
             },
             {
@@ -712,7 +771,8 @@
                 "de": "Das frühe Licht der blauen Stunde um 17 Uhr ist magisch für Fotos.",
                 "hu": "Az 5 órai kék óra fényei varázslatosak a fotózáshoz.",
                 "ro": "Lumina orei albastre de la ora 17 este magică pentru fotografii.",
-                "en": "The early 'blue hour' light at 17:00 is magical for photography."
+                "en": "The early 'blue hour' light at 17:00 is magical for photography.",
+                "fr": "La lumière de l'heure bleue à 17h00 est magique pour la photographie."
               }
             }
           ],
@@ -744,6 +804,13 @@
               "Warm up regularly in Paris's numerous cozy cafes.",
               "Lip balm and hand cream protect against the biting Parisian wind.",
               "Some park fountains may be turned off during the winter months."
+            ],
+            "fr": [
+              "Habillez-vous avec plusieurs couches pour la transition entre l'air froid et les musées chauffés.",
+              "Le coucher du soleil est vers 17h00 ; prévoyez vos photos en extérieur plus tôt.",
+              "Réchauffez-vous régulièrement dans les nombreux cafés chaleureux de Paris.",
+              "Le baume à lèvres et la crème pour les mains protègent contre le vent mordant de Paris.",
+              "Certaines fontaines de parcs peuvent être éteintes durant les mois d'hiver."
             ]
           }
         }
@@ -777,7 +844,8 @@
             "de": "Starten Sie hier für die besten Fotos ohne Schatten.",
             "hu": "Kezdd itt a napot a legjobb fényekért.",
             "ro": "Începeți aici pentru cele mai bune fotografii.",
-            "en": "Start here for the best photos without shadows."
+            "en": "Start here for the best photos without shadows.",
+            "fr": "Commencez ici pour les meilleures photos sans ombres portées."
           }
         },
         {
@@ -800,7 +868,8 @@
             "de": "Besuchen Sie Napoleons Grab unter der goldenen Kuppel.",
             "hu": "Nézd meg Napóleon sírját az aranykupola alatt.",
             "ro": "Vizitați mormântul lui Napoleon sub cupola aurie.",
-            "en": "Visit Napoleon's tomb under the golden dome."
+            "en": "Visit Napoleon's tomb under the golden dome.",
+            "fr": "Visitez le tombeau de Napoléon sous le dôme doré."
           }
         },
         {
@@ -823,7 +892,8 @@
             "de": "Ein alter Bahnhof, der nun Meisterwerke beherbergt.",
             "hu": "Egy régi vasútállomás, amely impresszionista remekműveket rejt.",
             "ro": "O fostă gară care adăpostește capodopere.",
-            "en": "An old train station housing impressionist masterpieces."
+            "en": "An old train station housing impressionist masterpieces.",
+            "fr": "Une ancienne gare abritant des chefs-d'œuvre impressionnistes."
           }
         },
         {
@@ -846,7 +916,8 @@
             "de": "Das Viertel der Literaten und Cafés.",
             "hu": "Az irodalmárok és a híres kávézók negyede.",
             "ro": "Cartierul literaților și al cafenelelor.",
-            "en": "The district of writers and famous cafes."
+            "en": "The district of writers and famous cafes.",
+            "fr": "Le quartier des écrivains et des cafés célèbres."
           }
         },
         {
@@ -869,7 +940,8 @@
             "de": "Ideal für eine entspannte Pause im Grünen.",
             "hu": "Tökéletes hely egy kis pihenésre a zöldben.",
             "ro": "Ideal pentru o pauză relaxantă în natură.",
-            "en": "Ideal for a relaxed break in the greenery."
+            "en": "Ideal for a relaxed break in the greenery.",
+            "fr": "Idéal pour une pause détente dans la verdure."
           }
         },
         {
@@ -892,7 +964,8 @@
             "de": "Die letzte Ruhestätte der großen Persönlichkeiten Frankreichs.",
             "hu": "Franciaország nagyjainak nyughelye a Latin negyedben.",
             "ro": "Locul de odihnă al marilor personalități ale Franței.",
-            "en": "The resting place of France's greatest citizens."
+            "en": "The resting place of France's greatest citizens.",
+            "fr": "Le lieu de repos des plus grands citoyens de France."
           }
         }
       ],
@@ -900,7 +973,8 @@
         "de": "Entdecken Sie das Linke Ufer von Paris mit dem Fahrrad. Vom Eiffelturm aus fahren Sie vorbei an den Invalides zum Musée d'Orsay. Genießen Sie die Atmosphäre in Saint-Germain, bevor Sie durch den herrlichen Jardin du Luxembourg radeln. Der Tag endet im beeindruckenden Panthéon im Herzen des Quartier Latin.",
         "hu": "Fedezd fel a Szajna bal partját kerékpáron! Az Eiffel-toronytól indulva az Invalidusokon át tekerj el a Musée d'Orsay-ig. Érezd át Saint-Germain hangulatát, majd kerekezz át a gyönyörű Luxembourg-kerten. A napot a Latin negyed szívében, az impozáns Panthéonnál zárhatod.",
         "ro": "Descoperiți malul stâng al Parisului cu bicicleta. De la Turnul Eiffel, pedalați pe lângă Invalides spre Muzeul d'Orsay. Bucurați-vă de atmosfera din Saint-Germain înainte de a trece prin Grădinile Luxemburg. Ziua se încheie la impresionantul Panteon, în inima Cartierului Latin.",
-        "en": "Explore the Left Bank of Paris by bike. From the Eiffel Tower, ride past Invalides to Musée d'Orsay. Soak up the Saint-Germain atmosphere before cycling through the magnificent Luxembourg Gardens. The day ends at the impressive Panthéon in the heart of the Latin Quarter."
+        "en": "Explore the Left Bank of Paris by bike. From the Eiffel Tower, ride past Invalides to Musée d'Orsay. Soak up the Saint-Germain atmosphere before cycling through the magnificent Luxembourg Gardens. The day ends at the impressive Panthéon in the heart of the Latin Quarter.",
+        "fr": "Explorez la Rive Gauche de Paris à vélo. De la Tour Eiffel, pédalez devant les Invalides jusqu'au musée d'Orsay. Imprégnez-vous de l'atmosphère de Saint-Germain avant de traverser les magnifiques jardins du Luxembourg. La journée se termine à l'impressionnant Panthéon, au cœur du quartier Latin."
       },
       "gastro_picks": {
         "de": [
@@ -942,6 +1016,16 @@
             "name": "Ladurée",
             "tip": "World-famous colorful macarons."
           }
+        ],
+        "fr": [
+          {
+            "name": "Les Deux Magots",
+            "tip": "Café historique à Saint-Germain-des-Prés."
+          },
+          {
+            "name": "Ladurée",
+            "tip": "Macarons colorés de renommée mondiale."
+          }
         ]
       },
       "quiet_picks": {
@@ -972,6 +1056,13 @@
             "tip": "A hidden Roman amphitheater in the Latin Quarter.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Arènes de Lutèce",
+            "tip": "Un amphithéâtre romain caché dans le quartier Latin.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -997,6 +1088,12 @@
           {
             "name": "Le Bon Marché",
             "tip": "The city's most elegant department store."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Bon Marché",
+            "tip": "Le grand magasin le plus élégant de la ville."
           }
         ]
       },
@@ -1024,6 +1121,12 @@
           "Ride carefully in the bus lanes.",
           "Always lock your bike securely.",
           "The riverside bike paths are the most scenic."
+        ],
+        "fr": [
+          "Utilisez le système de vélos en libre-service Vélib'.",
+          "Roulez prudemment dans les couloirs de bus.",
+          "Attachez toujours votre vélo de manière sécurisée.",
+          "Les pistes cyclables au bord du fleuve sont les plus pittoresques."
         ]
       },
       "variants": {
@@ -1250,7 +1353,8 @@
             "de": "Ein regnerischer Radtag startet am Eiffelturm, dessen Spitze oft in den Wolken verschwindet. Wir radeln vorsichtig zu den Invalides und suchen Schutz im Musée d'Orsay. Die Mittagspause in Saint-Germain bietet trockene Gemütlichkeit. Nachmittags durchqueren wir den Jardin du Luxembourg, bevor wir den Tag am Panthéon beenden. Trotz Nässe bietet das Rad eine schnelle Verbindung zwischen den Sehenswürdigkeiten.",
             "hu": "Az esős bringás nap az Eiffel-toronynál indul, melynek csúcsa ilyenkor gyakran felhőbe vész. Óvatosan tekerünk az Invalides felé, majd a Musée d'Orsay-ben keresünk menedéket. A Saint-Germain negyedben elköltött ebéd száraz nyugalmat ad. Délután a Luxemburg-kerten vágunk át, végül a Panthéonnál zárjuk a napot. A kerékpár esőben is gyors összeköttetést biztosít a pontok között.",
             "ro": "O zi cu bicicleta pe ploaie începe la Turnul Eiffel, al cărui vârf dispare adesea în nori. Pedalăm cu grijă spre Invalides și căutăm adăpost în Musée d'Orsay. Pauza de prânz în Saint-Germain oferă confort uscat. După-amiaza traversăm Grădinile Luxemburg înainte de a termina la Panthéon. În ciuda umezelii, bicicleta oferă o conexiune rapidă între obiective.",
-            "en": "A rainy cycling day starts at the Eiffel Tower, its top often lost in the clouds. We pedal carefully to Les Invalides and seek shelter in Musée d'Orsay. Lunch in Saint-Germain offers dry comfort. In the afternoon, we cross Luxembourg Gardens before ending at the Panthéon. Despite the rain, biking provides a quick link between these iconic sights."
+            "en": "A rainy cycling day starts at the Eiffel Tower, its top often lost in the clouds. We pedal carefully to Les Invalides and seek shelter in Musée d'Orsay. Lunch in Saint-Germain offers dry comfort. In the afternoon, we cross Luxembourg Gardens before ending at the Panthéon. Despite the rain, biking provides a quick link between these iconic sights.",
+            "fr": "Une journée de vélo sous la pluie commence à la Tour Eiffel, dont le sommet est souvent perdu dans les nuages. Nous pédalons prudemment vers les Invalides et cherchons refuge au musée d'Orsay. Le déjeuner à Saint-Germain offre un confort sec. L'après-midi, nous traversons les jardins du Luxembourg avant de finir au Panthéon. Malgré la pluie, le vélo permet un lien rapide entre ces sites emblématiques."
           },
           "stops": [
             {
@@ -1259,7 +1363,8 @@
                 "de": "Achten Sie auf rutschige Metallplatten am Boden rund um den Turm.",
                 "hu": "Ügyeljen a csúszós fémlemezekre a torony körüli talajon.",
                 "ro": "Atenție la plăcile metalice alunecoase de pe solul din jurul turnului.",
-                "en": "Watch out for slippery metal plates on the ground around the tower."
+                "en": "Watch out for slippery metal plates on the ground around the tower.",
+                "fr": "Attention aux plaques métalliques glissantes au sol autour de la tour."
               }
             },
             {
@@ -1268,7 +1373,8 @@
                 "de": "Parken Sie Ihr Rad nah am Eingang, um den Weg im Regen kurzzuhalten.",
                 "hu": "Parkoljon a bejárathoz közel, hogy lerövidítse az esőben megtett utat.",
                 "ro": "Parcați bicicleta aproape de intrare pentru a scurta drumul prin ploaie.",
-                "en": "Park your bike close to the entrance to minimize time in the rain."
+                "en": "Park your bike close to the entrance to minimize time in the rain.",
+                "fr": "Garez votre vélo près de l'entrée pour minimiser le temps sous la pluie."
               }
             },
             {
@@ -1277,7 +1383,8 @@
                 "de": "Ein idealer Ort, um das Radfahren für eine lange, trockene Pause zu unterbrechen.",
                 "hu": "Ideális hely, hogy megszakítsa a tekerést egy hosszú, száraz pihenőre.",
                 "ro": "Un loc ideal pentru a întrerupe pedalatul pentru o pauză lungă și uscată.",
-                "en": "An ideal place to pause your ride for a long, dry break inside."
+                "en": "An ideal place to pause your ride for a long, dry break inside.",
+                "fr": "Un endroit idéal pour mettre votre trajet en pause et profiter d'une longue pause au sec."
               }
             },
             {
@@ -1286,7 +1393,8 @@
                 "de": "Die Cafés hier haben oft überdachte Terrassen für Radfahrer.",
                 "hu": "Az itteni kávézók gyakran rendelkeznek fedett terasszal a bringásoknak.",
                 "ro": "Cafenelele de aici au adesea terase acoperite pentru bicicliști.",
-                "en": "The cafes here often have covered terraces suitable for cyclists."
+                "en": "The cafes here often have covered terraces suitable for cyclists.",
+                "fr": "Les cafés ici ont souvent des terrasses couvertes adaptées aux cyclistes."
               }
             },
             {
@@ -1295,7 +1403,8 @@
                 "de": "Nutzen Sie die asphaltierten Radwege; die Kieswege spritzen bei Nässe stark.",
                 "hu": "Használja az aszfaltozott utakat; a kavicsos utak felcsapják a sarat.",
                 "ro": "Folosiți pistele asfaltate; pietrișul stropește tare când este ud.",
-                "en": "Use the paved bike paths; gravel paths splash a lot when wet."
+                "en": "Use the paved bike paths; gravel paths splash a lot when wet.",
+                "fr": "Utilisez les pistes cyclables pavées ; les sentiers en gravier éclaboussent beaucoup quand ils sont mouillés."
               }
             },
             {
@@ -1304,7 +1413,8 @@
                 "de": "Der Platz oben ist windig; stellen Sie das Rad stabil ab.",
                 "hu": "A dombtetőn szeles lehet az idő; stabilan támassza le a biciklit.",
                 "ro": "Piața de sus este vântoasă; parcați bicicleta într-un mod stabil.",
-                "en": "The square on top is windy; ensure your bike is parked stably."
+                "en": "The square on top is windy; ensure your bike is parked stably.",
+                "fr": "La place en haut est venteuse ; assurez-vous que votre vélo est garé de manière stable."
               }
             }
           ],
@@ -1336,6 +1446,13 @@
               "Thoroughly wipe the Velib' saddle dry before starting your ride.",
               "Use dedicated bike lanes with separate traffic lights for safety.",
               "Allow for longer braking distances as wet rims reduce stopping power."
+            ],
+            "fr": [
+              "Portez un long poncho de pluie qui couvre vos genoux pendant que vous pédalez.",
+              "Évitez de freiner sur les pavés et les lignes blanches peintes.",
+              "Essuyez soigneusement la selle du Vélib' avant de commencer votre trajet.",
+              "Utilisez les pistes cyclables dédiées avec des feux séparés pour plus de sécurité.",
+              "Prévoyez des distances de freinage plus longues car les jantes mouillées réduisent la puissance de freinage."
             ]
           }
         },
@@ -1344,7 +1461,8 @@
             "de": "Ein frostiger, aber schöner Morgen am Eiffelturm startet unsere Wintertour. Wir radeln durch die kalte Luft zu den Invalides und freuen uns auf die Wärme im Musée d'Orsay. Die Fahrt durch Saint-Germain belebt, bevor wir im Jardin du Luxembourg die winterliche Ruhe genießen. Am Panthéon endet unsere Tour bei Einbruch der Dunkelheit, wenn die Straßenlaternen die kalte Pariser Luft erhellen.",
             "hu": "Deres, de gyönyörű reggel indul az Eiffel-toronynál téli túránk. A hideg levegőn tekerünk az Invalides felé, majd alig várjuk a Musée d'Orsay melegét. A Saint-Germain-i tekerés felfrissít, mielőtt a Luxemburg-kert téli nyugalmát élveznénk. A Panthéonnál sötétedéskor ér véget a túra, amikor a lámpák megvilágítják a hideg párizsi levegőt.",
             "ro": "O dimineață geroasă dar frumoasă la Turnul Eiffel dă startul turului de iarnă. Pedalăm prin aerul rece spre Invalides și ne bucurăm de căldura din Musée d'Orsay. Cursa prin Saint-Germain ne revigorează înainte de a savura liniștea de iarnă din Grădinile Luxemburg. La Panthéon încheiem turul la lăsarea întunericului.",
-            "en": "A frosty but beautiful morning at the Eiffel Tower starts our winter tour. We bike through the cold air to Les Invalides and look forward to the warmth of Musée d'Orsay. The ride through Saint-Germain is invigorating before we enjoy the winter stillness in Luxembourg Gardens. Our tour ends at the Panthéon as darkness falls and streetlights illuminate the cold air."
+            "en": "A frosty but beautiful morning at the Eiffel Tower starts our winter tour. We bike through the cold air to Les Invalides and look forward to the warmth of Musée d'Orsay. The ride through Saint-Germain is invigorating before we enjoy the winter stillness in Luxembourg Gardens. Our tour ends at the Panthéon as darkness falls and streetlights illuminate the cold air.",
+            "fr": "Une matinée glaciale mais magnifique à la Tour Eiffel commence notre tour hivernal. Nous pédalons dans l'air froid vers les Invalides et attendons avec impatience la chaleur du musée d'Orsay. Le trajet à travers Saint-Germain est revigorant avant de savourer le calme hivernal des jardins du Luxembourg. Notre tour se termine au Panthéon alors que l'obscurité tombe et que les réverbères illuminent l'air froid."
           },
           "stops": [
             {
@@ -1353,7 +1471,8 @@
                 "de": "Handschuhe sind für die erste Etappe am Morgen unerlässlich.",
                 "hu": "A kesztyű elengedhetetlen a reggeli első szakaszhoz.",
                 "ro": "Mănușile sunt esențiale pentru prima etapă a dimineții.",
-                "en": "Gloves are essential for the first leg of the ride in the morning."
+                "en": "Gloves are essential for the first leg of the ride in the morning.",
+                "fr": "Les gants sont essentiels pour la première étape du trajet le matin."
               }
             },
             {
@@ -1362,7 +1481,8 @@
                 "de": "Der offene Platz davor kann im Winter sehr zugig sein.",
                 "hu": "Az előtte lévő nyílt tér télen nagyon huzatos lehet.",
                 "ro": "Piața deschisă din față poate fi foarte expusă vântului iarna.",
-                "en": "The open square in front can be very drafty during winter."
+                "en": "The open square in front can be very drafty during winter.",
+                "fr": "La place ouverte devant peut être très exposée aux courants d'air en hiver."
               }
             },
             {
@@ -1371,7 +1491,8 @@
                 "de": "Nutzen Sie den Museumsbesuch, um Ihre Hände wieder aufzuwärmen.",
                 "hu": "Használja ki a múzeumlátogatást a kezei felmelegítésére.",
                 "ro": "Folosiți vizita la muzeu pentru a vă reîncălzi mâinile.",
-                "en": "Use the museum visit to thaw out your hands after the ride."
+                "en": "Use the museum visit to thaw out your hands after the ride.",
+                "fr": "Profitez de la visite du musée pour vous dégourdir les mains après le trajet."
               }
             },
             {
@@ -1380,7 +1501,8 @@
                 "de": "Gönnen Sie sich einen heißen Kakao in einem der historischen Cafés.",
                 "hu": "Kényeztesse magát egy forró csokoládéval a történelmi kávézók egyikében.",
                 "ro": "Răsfățați-vă cu o ciocolată caldă într-una din cafenelele istorice.",
-                "en": "Treat yourself to a hot chocolate in one of the historic cafes."
+                "en": "Treat yourself to a hot chocolate in one of the historic cafes.",
+                "fr": "Offrez-vous un chocolat chaud dans l'un des cafés historiques."
               }
             },
             {
@@ -1389,7 +1511,8 @@
                 "de": "Die Statuen wirken im Winternebel oder bei Frost besonders mystisch.",
                 "hu": "A szobrok a téli ködben vagy dérben különösen misztikusak.",
                 "ro": "Statuile par deosebit de mistice în ceața de iarnă sau în promoroacă.",
-                "en": "The statues look particularly mystical in the winter mist or frost."
+                "en": "The statues look particularly mystical in the winter mist or frost.",
+                "fr": "Les statues ont l'air particulièrement mystiques dans la brume ou le givre hivernal."
               }
             },
             {
@@ -1398,7 +1521,8 @@
                 "de": "Prüfen Sie bei Dämmerung, ob Ihre Fahrradbeleuchtung gut funktioniert.",
                 "hu": "Sötétedéskor ellenőrizze, hogy a kerékpár világítása jól működik-e.",
                 "ro": "La amurg, verificați dacă luminile bicicletei funcționează corect.",
-                "en": "At twilight, ensure your bike lights are working properly for safety."
+                "en": "At twilight, ensure your bike lights are working properly for safety.",
+                "fr": "Au crépuscule, assurez-vous que les lumières de votre vélo fonctionnent correctement pour votre sécurité."
               }
             }
           ],
@@ -1430,6 +1554,13 @@
               "Use Velib' stations near metro entrances as a backup option.",
               "A warm scarf protects your neck and face from the cold draft.",
               "E-bike batteries drain faster in the cold; check your charge level."
+            ],
+            "fr": [
+              "Portez des vêtements coupe-vent pour combattre le froid lié à la vitesse.",
+              "Faites attention au verglas dans les ruelles ombragées ou sur les ponts.",
+              "Utilisez les stations Vélib' près des entrées de métro comme option de secours.",
+              "Une écharpe chaude protège votre cou et votre visage du courant d'air froid.",
+              "Les batteries des vélos électriques se vident plus vite dans le froid ; vérifiez votre niveau de charge."
             ]
           }
         }
@@ -1463,7 +1594,8 @@
             "de": "Beste Aussicht auf den Eiffelturm von oben.",
             "hu": "Innen nyílik a legjobb kilátás az Eiffel-toronyra.",
             "ro": "Cea mai bună vedere spre Turnul Eiffel.",
-            "en": "Best view of the Eiffel Tower from the terrace."
+            "en": "Best view of the Eiffel Tower from the terrace.",
+            "fr": "La meilleure vue sur la Tour Eiffel depuis la terrasse."
           }
         },
         {
@@ -1486,7 +1618,8 @@
             "de": "Nutzen Sie die Unterführung, um zum Bogen zu gelangen.",
             "hu": "Használd az aluljárót, ne próbálj meg átszaladni a körforgalmon.",
             "ro": "Folosiți pasajul subteran pentru a ajunge la arc.",
-            "en": "Use the underground passage to reach the arch."
+            "en": "Use the underground passage to reach the arch.",
+            "fr": "Utilisez le passage souterrain pour accéder à l'arc."
           }
         },
         {
@@ -1509,7 +1642,8 @@
             "de": "Die prachtvollste Allee der Welt erkunden.",
             "hu": "Séta a világ egyik leghíresebb sugárútján.",
             "ro": "Explorați cel mai frumos bulevard din lume.",
-            "en": "Explore the most famous avenue in the world."
+            "en": "Explore the most famous avenue in the world.",
+            "fr": "Explorez la plus célèbre avenue du monde."
           }
         },
         {
@@ -1532,7 +1666,8 @@
             "de": "Der Eintritt zur permanenten Sammlung ist kostenlos.",
             "hu": "Az állandó gyűjtemény megtekintése ingyenes.",
             "ro": "Intrarea la colecția permanentă este gratuită.",
-            "en": "Entry to the permanent collection is free."
+            "en": "Entry to the permanent collection is free.",
+            "fr": "L'entrée aux collections permanentes est gratuite."
           }
         },
         {
@@ -1555,7 +1690,8 @@
             "de": "Ein Muss außerhalb der Stadt; planen Sie Zeit für die Gärten ein.",
             "hu": "Kihagyhatatlan kirándulás; hagyj időt a kertre is.",
             "ro": "O vizită obligatorie; alocați timp pentru grădini.",
-            "en": "A must-see excursion; allow plenty of time for the gardens."
+            "en": "A must-see excursion; allow plenty of time for the gardens.",
+            "fr": "Une excursion incontournable ; prévoyez beaucoup de temps pour les jardins."
           }
         }
       ],
@@ -1563,7 +1699,8 @@
         "de": "Diese Tour führt Sie zu den monumentalen Wahrzeichen von Paris und schließlich nach Versailles. Starten Sie am Trocadéro für den ikonischen Eiffelturm-Blick, fahren Sie um den Arc de Triomphe und die Champs-Élysées hinunter. Nach Kultur im Petit Palais verlassen Sie die Stadt für den königlichen Glanz von Versailles.",
         "hu": "Ez az autós túra Párizs monumentális jelképeihez és Versailles-ba vezet. Kezdj a Trocadéro teraszon, hajts át a Diadalív körforgalmán és végig a Champs-Élysées-n. A Petit Palais művészete után hagyd el a várost, hogy felfedezd a Napkirály lenyűgöző palotáját.",
         "ro": "Acest tur vă conduce la monumentele emblematice ale Parisului și în final la Versailles. Începeți la Trocadéro pentru vederea iconică, conduceți în jurul Arcului de Triumf și pe Champs-Élysées. După cultura de la Petit Palais, părăsiți orașul pentru splendoarea regală de la Versailles.",
-        "en": "This car tour takes you to Paris's monumental landmarks and finally to Versailles. Start at Trocadéro for the iconic Eiffel view, drive around the Arc de Triomphe and down the Champs-Élysées. After some culture at Petit Palais, head out of the city for the royal grandeur of Versailles."
+        "en": "This car tour takes you to Paris's monumental landmarks and finally to Versailles. Start at Trocadéro for the iconic Eiffel view, drive around the Arc de Triomphe and down the Champs-Élysées. After some culture at Petit Palais, head out of the city for the royal grandeur of Versailles.",
+        "fr": "Ce tour en voiture vous emmène vers les monuments grandioses de Paris et enfin à Versailles. Commencez au Trocadéro pour la vue emblématique sur la Tour Eiffel, faites le tour de l'Arc de Triomphe et descendez les Champs-Élysées. Après une pause culturelle au Petit Palais, quittez la ville pour la grandeur royale de Versailles."
       },
       "gastro_picks": {
         "de": [
@@ -1605,6 +1742,16 @@
             "name": "Le Train Bleu",
             "tip": "Magnificent interior inside the station."
           }
+        ],
+        "fr": [
+          {
+            "name": "L'Avenue",
+            "tip": "Restaurant exclusif sur les Champs-Élysées."
+          },
+          {
+            "name": "Le Train Bleu",
+            "tip": "Intérieur magnifique situé dans la gare."
+          }
         ]
       },
       "quiet_picks": {
@@ -1635,6 +1782,13 @@
             "tip": "A hidden courtyard garden with a cafe.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin du Petit Palais",
+            "tip": "Un jardin intérieur caché avec un café.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1660,6 +1814,12 @@
           {
             "name": "Avenue Montaigne",
             "tip": "The street for high-end haute couture."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Avenue Montaigne",
+            "tip": "La rue de la haute couture haut de gamme."
           }
         ]
       },
@@ -1687,6 +1847,12 @@
           "Parking garages are expensive but safer.",
           "Use navigation for the Arc de Triomphe roundabout.",
           "Always book Versailles tickets for a specific time slot."
+        ],
+        "fr": [
+          "Évitez les heures de pointe du matin.",
+          "Les parkings couverts sont chers mais plus sûrs.",
+          "Utilisez la navigation pour le rond-point de l'Arc de Triomphe.",
+          "Réservez toujours vos billets pour Versailles sur un créneau horaire spécifique."
         ]
       },
       "variants": {
@@ -1899,7 +2065,8 @@
             "de": "Ein regnerischer Tag im Auto beginnt am Trocadéro mit Blick auf den Eiffelturm. Wir umrunden den Arc de Triomphe und cruisen über die Champs-Élysées, geschützt vor den Schauern. Nach einem Stopp am Petit Palais fahren wir ins Umland zum Schloss Versailles. Die Fahrt bietet trockenen Komfort, während draußen der Pariser Regen die Straßen glänzen lässt.",
             "hu": "Az esős autós nap a Trocadéro-nál indul, kilátással az Eiffel-toronyra. Megkerüljük a Diadalívet és végighajtunk a Champs-Élysées-n, védve a záporoktól. A Petit Palais után Versailles felé vesszük az irányt. Az autó száraz kényelmet nyújt, miközben odakint a párizsi eső fényessé teszi az utakat.",
             "ro": "O zi cu ploaie în mașină începe la Trocadéro cu vedere spre Turnul Eiffel. Ocolim Arcul de Triumf și conducem pe Champs-Élysées, protejați de averse. După o oprire la Petit Palais, mergem spre Palatul Versailles. Călătoria oferă confort uscat în timp ce ploaia face străzile să strălucească.",
-            "en": "A rainy day by car starts at Trocadéro with views of the Eiffel Tower. We circle the Arc de Triomphe and cruise down Champs-Élysées, sheltered from the showers. After a stop at Petit Palais, we drive to the Palace of Versailles. The car offers dry comfort while outside the Parisian rain makes the streets glisten."
+            "en": "A rainy day by car starts at Trocadéro with views of the Eiffel Tower. We circle the Arc de Triomphe and cruise down Champs-Élysées, sheltered from the showers. After a stop at Petit Palais, we drive to the Palace of Versailles. The car offers dry comfort while outside the Parisian rain makes the streets glisten.",
+            "fr": "Une journée pluvieuse en voiture commence au Trocadéro avec vue sur la Tour Eiffel. Nous faisons le tour de l'Arc de Triomphe et descendons les Champs-Élysées, à l'abri des averses. Après un arrêt au Petit Palais, nous conduisons jusqu'au château de Versailles. La voiture offre un confort sec tandis qu'à l'extérieur, la pluie parisienne fait briller les rues."
           },
           "stops": [
             {
@@ -1908,7 +2075,8 @@
                 "de": "Parken Sie im unterirdischen Parkhaus, um trocken zum Aussichtspunkt zu kommen.",
                 "hu": "Parkoljon a mélygarázsban, hogy szárazon jusson a kilátóhoz.",
                 "ro": "Parcați în parcarea subterană pentru a ajunge uscat la belvedere.",
-                "en": "Park in the underground garage to reach the viewpoint while staying dry."
+                "en": "Park in the underground garage to reach the viewpoint while staying dry.",
+                "fr": "Garez-vous dans le parking souterrain pour rejoindre le point de vue en restant au sec."
               }
             },
             {
@@ -1917,7 +2085,8 @@
                 "de": "Vorsicht beim Fahren im Kreisverkehr; Kopfsteinpflaster ist bei Nässe tückisch.",
                 "hu": "Vigyázat a körforgalomban; a macskakő vizesen csalóka lehet.",
                 "ro": "Atenție în sensul giratoriu; piatra cubică este înșelătoare pe ploaie.",
-                "en": "Be careful in the roundabout; cobblestones are tricky when wet."
+                "en": "Be careful in the roundabout; cobblestones are tricky when wet.",
+                "fr": "Soyez prudent dans le rond-point ; les pavés sont piégeux quand ils sont mouillés."
               }
             },
             {
@@ -1926,7 +2095,8 @@
                 "de": "Nutzen Sie Valet-Parking bei großen Geschäften, um Regen zu vermeiden.",
                 "hu": "Használja a nagyobb üzletek parkolószolgálatát az eső elkerülésére.",
                 "ro": "Folosiți serviciile de valet parking la magazinele mari pentru a evita ploaia.",
-                "en": "Use valet parking at major stores to avoid walking in the rain."
+                "en": "Use valet parking at major stores to avoid walking in the rain.",
+                "fr": "Utilisez le service de voiturier des grands magasins pour éviter de marcher sous la pluie."
               }
             },
             {
@@ -1935,7 +2105,8 @@
                 "de": "Der Eingangsbereich ist prachtvoll und bietet sofort Schutz.",
                 "hu": "A bejárat pompás és azonnali védelmet nyújt az eső elől.",
                 "ro": "Zona de intrare este superbă și oferă protecție imediată.",
-                "en": "The entrance area is magnificent and offers immediate shelter."
+                "en": "The entrance area is magnificent and offers immediate shelter.",
+                "fr": "La zone d'entrée est magnifique et offre un abri immédiat."
               }
             },
             {
@@ -1944,7 +2115,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt am Schloss; der Weg ist weit.",
                 "hu": "Használja a közvetlenül a kastélynál lévő parkolót; az út hosszú.",
                 "ro": "Folosiți parcarea direct la palat; drumul este lung până la intrare.",
-                "en": "Use the parking lot directly at the palace; it is a long walk to the gates."
+                "en": "Use the parking lot directly at the palace; it is a long walk to the gates.",
+                "fr": "Utilisez le parking directement au château ; la marche jusqu'aux grilles est longue."
               }
             }
           ],
@@ -1976,6 +2148,13 @@
               "Parking garages often fill up faster than usual during rain.",
               "Avoid puddles at the curb to prevent splashing pedestrians.",
               "Visibility at the Etoile roundabout is severely limited during heavy rain."
+            ],
+            "fr": [
+              "Prévoyez du temps supplémentaire ; la pluie entraîne souvent des embouteillages à Paris.",
+              "Vérifiez l'état de vos essuie-glaces avant de prendre la route.",
+              "Les parkings couverts se remplissent souvent plus vite que d'habitude sous la pluie.",
+              "Évitez les flaques d'eau au bord du trottoir pour ne pas éclabousser les piétons.",
+              "La visibilité au rond-point de l'Étoile est fortement limitée par forte pluie."
             ]
           }
         },
@@ -1984,7 +2163,8 @@
             "de": "Ein klarer Wintermorgen im beheizten Auto beginnt am Trocadéro. Wir fahren zum Arc de Triomphe und bewundern die winterliche Dekoration der Champs-Élysées. Nach einem Besuch im Petit Palais führt uns die Fahrt durch die kahle, aber elegante Landschaft nach Versailles. Die Wärme im Wagen macht die winterliche Erkundung der Stadt und ihres Umlands besonders angenehm.",
             "hu": "Tiszta téli reggel a fűtött autóban a Trocadéro-nál. A Diadalív felé hajtunk, és megcsodáljuk a Champs-Élysées téli díszítését. A Petit Palais után a kopár, de elegáns tájon át Versailles-ba utazunk. Az autó melege különösen kellemessé teszi a város és környékének téli felfedezését.",
             "ro": "O dimineață senină de iarnă în mașina încălzită la Trocadéro. Conducem spre Arcul de Triumf și admirăm decorațiunile de iarnă de pe Champs-Élysées. După Petit Palais, drumul ne duce prin peisajul golaș dar elegant spre Versailles. Căldura din mașină face explorarea de iarnă foarte plăcută.",
-            "en": "A clear winter morning in a heated car starts at Trocadéro. We drive to the Arc de Triomphe and admire the winter decorations on Champs-Élysées. After visiting Petit Palais, the drive takes us through the bare but elegant landscape to Versailles. The warmth of the car makes exploring the city and its surroundings in winter very pleasant."
+            "en": "A clear winter morning in a heated car starts at Trocadéro. We drive to the Arc de Triomphe and admire the winter decorations on Champs-Élysées. After visiting Petit Palais, the drive takes us through the bare but elegant landscape to Versailles. The warmth of the car makes exploring the city and its surroundings in winter very pleasant.",
+            "fr": "Une matinée d'hiver claire dans une voiture chauffée commence au Trocadéro. Nous roulons vers l'Arc de Triomphe et admirons les décorations hivernales sur les Champs-Élysées. Après avoir visité le Petit Palais, la route nous mène à travers le paysage dénudé mais élégant vers Versailles. La chaleur de la voiture rend l'exploration de la ville et de ses environs très agréable en hiver."
           },
           "stops": [
             {
@@ -1993,7 +2173,8 @@
                 "de": "Der Boden kann bei Frost rutschig sein; parken Sie vorsichtig.",
                 "hu": "A talaj fagyos lehet; parkoljon óvatosan a lejtőkön.",
                 "ro": "Solul poate fi alunecos din cauza înghețului; parcați cu grijă.",
-                "en": "The ground can be slippery due to frost; park carefully on slopes."
+                "en": "The ground can be slippery due to frost; park carefully on slopes.",
+                "fr": "Le sol peut être glissant à cause du givre ; garez-vous prudemment sur les pentes."
               }
             },
             {
@@ -2002,7 +2183,8 @@
                 "de": "Die Beleuchtung des Bogens ist an kurzen Wintertagen besonders früh zu sehen.",
                 "hu": "A diadalív kivilágítása a rövid téli napokon korán látható.",
                 "ro": "Iluminatul arcului poate fi văzut foarte devreme în zilele scurte de iarnă.",
-                "en": "The arch's lighting can be seen very early during the short winter days."
+                "en": "The arch's lighting can be seen very early during the short winter days.",
+                "fr": "L'illumination de l'arc est visible très tôt durant les courtes journées d'hiver."
               }
             },
             {
@@ -2011,7 +2193,8 @@
                 "de": "Die gesamte Avenue ist prachtvoll winterlich beleuchtet.",
                 "hu": "Az egész sugárút pompás téli kivilágítást kap.",
                 "ro": "Întregul bulevard este iluminat festiv într-un mod grandios.",
-                "en": "The entire avenue is magnificently illuminated for the winter season."
+                "en": "The entire avenue is magnificently illuminated for the winter season.",
+                "fr": "L'avenue entière est magnifiquement illuminée pour la saison hivernale."
               }
             },
             {
@@ -2020,7 +2203,8 @@
                 "de": "Ein schöner Ort, um sich zwischen den Fahrten kurz aufzuwärmen.",
                 "hu": "Remek hely egy rövid felmelegedésre az autózások között.",
                 "ro": "Un loc bun pentru a vă încălzi puțin între deplasări.",
-                "en": "A great place to warm up briefly between driving stretches."
+                "en": "A great place to warm up briefly between driving stretches.",
+                "fr": "Un excellent endroit pour se réchauffer brièvement entre deux étapes de conduite."
               }
             },
             {
@@ -2029,7 +2213,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten der Gärten vor der Anfahrt.",
                 "hu": "Indulás előtt ellenőrizze a kertek téli nyitvatartását.",
                 "ro": "Verificați programul de iarnă al grădinilor înainte de a pleca.",
-                "en": "Check the winter opening hours of the gardens before driving out."
+                "en": "Check the winter opening hours of the gardens before driving out.",
+                "fr": "Vérifiez les horaires d'ouverture hivernaux des jardins avant de partir."
               }
             }
           ],
@@ -2061,6 +2246,13 @@
               "Winter tires are advisable even in the city during freezing weather.",
               "Do not leave the engine idling to warm up; it is prohibited in Paris.",
               "Finding parking near Christmas markets can be very difficult."
+            ],
+            "fr": [
+              "Utilisez les sièges chauffants pour un confort maximal entre les arrêts.",
+              "Attention au givre sur les ponts traversant la Seine.",
+              "Les pneus hiver sont conseillés même en ville par temps de gel.",
+              "Ne laissez pas le moteur tourner à l'arrêt pour chauffer ; c'est interdit à Paris.",
+              "Trouver une place de parking près des marchés de Noël peut être très difficile."
             ]
           }
         }
@@ -2094,7 +2286,8 @@
             "de": "Fahren Sie mit der Standseilbahn den Hügel hinauf.",
             "hu": "Használd a siklót, hogy feljuss a dombtetőre.",
             "ro": "Luați funicularul pentru a urca dealul.",
-            "en": "Take the funicular to reach the top of the hill."
+            "en": "Take the funicular to reach the top of the hill.",
+            "fr": "Prenez le funiculaire pour atteindre le sommet de la colline."
           }
         },
         {
@@ -2117,7 +2310,8 @@
             "de": "Schlendern Sie durch die engen mittelalterlichen Gassen.",
             "hu": "Sétálj a középkori hangulatú szűk utcákon.",
             "ro": "Plimbați-vă pe străzile înguste medievale.",
-            "en": "Stroll through the narrow medieval streets."
+            "en": "Stroll through the narrow medieval streets.",
+            "fr": "Flânez dans les rues médiévales étroites."
           }
         },
         {
@@ -2140,7 +2334,8 @@
             "de": "Der schönste Platz in Paris mit symmetrischer Architektur.",
             "hu": "Párizs legszebb és legszimmetrikusabb tere.",
             "ro": "Cea mai frumoasă piață din Paris cu arhitectură simetrică.",
-            "en": "The most beautiful square in Paris with symmetrical design."
+            "en": "The most beautiful square in Paris with symmetrical design.",
+            "fr": "La plus belle place de Paris avec son design symétrique."
           }
         },
         {
@@ -2163,7 +2358,8 @@
             "de": "Ort der Französischen Revolution, heute ein Opernplatz.",
             "hu": "A francia forradalom helyszíne, ma modern operaház áll itt.",
             "ro": "Locul Revoluției Franceze, astăzi piața operei.",
-            "en": "Site of the French Revolution, now an opera square."
+            "en": "Site of the French Revolution, now an opera square.",
+            "fr": "Lieu de la Révolution française, aujourd'hui place de l'opéra."
           }
         },
         {
@@ -2186,7 +2382,8 @@
             "de": "Besuchen Sie die Gräber von Jim Morrison und Oscar Wilde.",
             "hu": "Keresd meg Jim Morrison és Oscar Wilde sírját.",
             "ro": "Vizitați mormintele lui Jim Morrison și Oscar Wilde.",
-            "en": "Visit the graves of Jim Morrison and Oscar Wilde."
+            "en": "Visit the graves of Jim Morrison and Oscar Wilde.",
+            "fr": "Visitez les tombes de Jim Morrison et d'Oscar Wilde."
           }
         },
         {
@@ -2209,7 +2406,8 @@
             "de": "Das Trendviertel am Wasser zum Entspannen.",
             "hu": "A helyiek kedvenc csatornapartja a pihenéshez.",
             "ro": "Cartierul la modă de pe malul canalului.",
-            "en": "The trendy district along the water to relax."
+            "en": "The trendy district along the water to relax.",
+            "fr": "Le quartier branché au bord de l'eau pour se détendre."
           }
         }
       ],
@@ -2217,7 +2415,8 @@
         "de": "Nutzen Sie die Metro, um das authentische Paris zu erleben. Starten Sie auf dem Hügel von Montmartre mit Panoramablick. Tauchen Sie ein in das trendige Marais und entspannen Sie auf der Place des Vosges. Nach einem Spaziergang über den Friedhof Père Lachaise lassen Sie den Tag am malerischen Canal Saint-Martin ausklingen.",
         "hu": "Használd a metrót, hogy felfedezd az igazi Párizst! Kezdj a Montmartre tetején a kilátással, majd merülj el a Marais negyed forgatagában. Pihenj a Place des Vosges árkádjai alatt, látogasd meg a Père-Lachaise temetőt, végül élvezd a Canal Saint-Martin partjának bohém hangulatát.",
         "ro": "Folosiți metroul pentru a experimenta Parisul autentic. Începeți pe dealul Montmartre cu vedere panoramică. Scufundați-vă în cartierul Marais și relaxați-vă în Place des Vosges. După o plimbare prin cimitirul Père Lachaise, încheiați ziua pe malul pitoresc al Canalului Saint-Martin.",
-        "en": "Use the metro to experience the authentic vibe of Paris. Start on the hill of Montmartre for panoramic views. Dive into the trendy Marais and relax at Place des Vosges. After a walk through Père Lachaise Cemetery, end your day by the picturesque Canal Saint-Martin."
+        "en": "Use the metro to experience the authentic vibe of Paris. Start on the hill of Montmartre for panoramic views. Dive into the trendy Marais and relax at Place des Vosges. After a walk through Père Lachaise Cemetery, end your day by the picturesque Canal Saint-Martin.",
+        "fr": "Utilisez le métro pour vivre l'ambiance authentique de Paris. Commencez sur la colline de Montmartre pour des vues panoramiques. Plongez dans le quartier branché du Marais et détendez-vous sur la place des Vosges. Après une promenade au cimetière du Père-Lachaise, terminez votre journée au bord du pittoresque canal Saint-Martin."
       },
       "gastro_picks": {
         "de": [
@@ -2259,6 +2458,16 @@
             "name": "Du Pain et des Idées",
             "tip": "Excellent artisanal bakery near the canal."
           }
+        ],
+        "fr": [
+          {
+            "name": "L'As du Fallafel",
+            "tip": "Falafel mondialement connu dans le quartier juif."
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "tip": "Excellente boulangerie artisanale près du canal."
+          }
         ]
       },
       "quiet_picks": {
@@ -2289,6 +2498,13 @@
             "tip": "A peaceful garden in the 3rd arrondissement.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Square du Temple",
+            "tip": "Un jardin paisible dans le 3ème arrondissement.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -2314,6 +2530,12 @@
           {
             "name": "Merci",
             "tip": "Trendy and stylish concept store in Marais."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Merci",
+            "tip": "Concept store branché et élégant dans le Marais."
           }
         ]
       },
@@ -2341,6 +2563,12 @@
           "Avoid Line 13 during rush hours.",
           "Metro stations are often artworks themselves.",
           "Follow the 'Sortie' signs for exits."
+        ],
+        "fr": [
+          "Achetez un forfait journalier (Mobilis) pour le métro.",
+          "Évitez la ligne 13 pendant les heures de pointe.",
+          "Les stations de métro sont souvent des œuvres d'art en elles-mêmes.",
+          "Suivez les panneaux \"Sortie\" pour les issues."
         ]
       },
       "variants": {
@@ -2567,7 +2795,8 @@
             "de": "Ein regnerischer Tag mit der Metro beginnt in Montmartre, wo wir schnell Schutz in der Basilika suchen. Danach geht es unterirdisch ins Marais und zur Place des Vosges. Wir nutzen die Metro, um trocken zur Bastille und zum Friedhof Père Lachaise zu gelangen. Der Tag endet am Canal Saint-Martin, wo wir die Atmosphäre in einem gemütlichen Bistro am Wasser genießen.",
             "hu": "Az esős nap a metróval Montmartre-ban indul, ahol gyorsan a bazilikában keresünk menedéket. Ezután a föld alatt utazunk a Marais-hoz és a Place des Vosges-hez. A metrót használjuk, hogy szárazon jussunk a Bastille-hoz és a Père Lachaise temetőhöz. A nap a Canal Saint-Martin-nál zárul, egy vízparti bisztró hangulatát élvezve.",
             "ro": "O zi ploioasă cu metroul începe în Montmartre, unde căutăm rapid adăpost în basilică. Apoi mergem prin subteran spre Marais și Place des Vosges. Folosim metroul pentru a ajunge uscați la Bastille și cimitirul Père Lachaise. Ziua se încheie la Canal Saint-Martin, savurând atmosfera dintr-un bistro de pe mal.",
-            "en": "A rainy day using the metro starts in Montmartre, where we quickly seek shelter in the basilica. Then we travel underground to Le Marais and Place des Vosges. We use the metro to stay dry on the way to Bastille and Père Lachaise Cemetery. The day ends at Canal Saint-Martin, enjoying the atmosphere in a cozy waterside bistro."
+            "en": "A rainy day using the metro starts in Montmartre, where we quickly seek shelter in the basilica. Then we travel underground to Le Marais and Place des Vosges. We use the metro to stay dry on the way to Bastille and Père Lachaise Cemetery. The day ends at Canal Saint-Martin, enjoying the atmosphere in a cozy waterside bistro.",
+            "fr": "Une journée pluvieuse en métro commence à Montmartre, où nous cherchons rapidement refuge dans la basilique. Puis nous voyageons sous terre vers le Marais et la place des Vosges. Nous utilisons le métro pour rester au sec en direction de la Bastille et du cimetière du Père-Lachaise. La journée se termine au canal Saint-Martin, en profitant de l'ambiance dans un bistrot chaleureux au bord de l'eau."
           },
           "stops": [
             {
@@ -2576,7 +2805,8 @@
                 "de": "Nutzen Sie die Funiculaire, um den steilen, nassen Aufstieg zu vermeiden.",
                 "hu": "Használja a siklót (Funiculaire), hogy elkerülje a meredek, vizes lépcsőket.",
                 "ro": "Folosiți funicularul pentru a evita urcarea abruptă și umedă.",
-                "en": "Use the funicular to avoid the steep, wet climb up the stairs."
+                "en": "Use the funicular to avoid the steep, wet climb up the stairs.",
+                "fr": "Utilisez le funiculaire pour éviter la montée raide et mouillée des escaliers."
               }
             },
             {
@@ -2585,7 +2815,8 @@
                 "de": "Die engen Gassen bieten etwas Schutz vor dem Wind.",
                 "hu": "A szűk utcák némi védelmet nyújtanak a szél ellen.",
                 "ro": "Străzile înguste oferă oarecare protecție împotriva vântului.",
-                "en": "The narrow streets offer some protection against the wind."
+                "en": "The narrow streets offer some protection against the wind.",
+                "fr": "Les rues étroites offrent une certaine protection contre le vent."
               }
             },
             {
@@ -2594,7 +2825,8 @@
                 "de": "Die Arkadengänge rund um den Platz sind ideal, um trocken zu bleiben.",
                 "hu": "A tér körüli árkádok ideálisak, hogy szárazon maradjon.",
                 "ro": "Arcadele din jurul pieței sunt ideale pentru a rămâne uscat.",
-                "en": "The vaulted arcades around the square are ideal for staying dry."
+                "en": "The vaulted arcades around the square are ideal for staying dry.",
+                "fr": "Les arcades voûtées autour de la place sont idéales pour rester au sec."
               }
             },
             {
@@ -2603,7 +2835,8 @@
                 "de": "Die Metrostation ist riesig; nutzen Sie die Ausgänge nah am Ziel.",
                 "hu": "A metróállomás hatalmas; használja a célhoz legközelebbi kijáratot.",
                 "ro": "Stația de metrou este imensă; folosiți ieșirile cele mai apropiate.",
-                "en": "The metro station is huge; use the exits closest to your destination."
+                "en": "The metro station is huge; use the exits closest to your destination.",
+                "fr": "La station de métro est immense ; utilisez les sorties les plus proches de votre destination."
               }
             },
             {
@@ -2612,7 +2845,8 @@
                 "de": "Bäume bieten Schutz, aber die Wege können sehr schlammig sein.",
                 "hu": "A fák védelmet nyújtanak, de az utak nagyon sárosak lehetnek.",
                 "ro": "Copacii oferă adăpost, dar aleile pot fi foarte noroioase.",
-                "en": "Trees provide some shelter, but paths can get very muddy here."
+                "en": "Trees provide some shelter, but paths can get very muddy here.",
+                "fr": "Les arbres offrent un peu d'abri, mais les sentiers peuvent devenir très boueux ici."
               }
             },
             {
@@ -2621,7 +2855,8 @@
                 "de": "Viele Cafés am Ufer sind perfekt für einen Blick auf den Regen.",
                 "hu": "Sok vízparti kávézó tökéletes az esőnézéshez.",
                 "ro": "Multe cafenele de pe mal sunt perfecte pentru a privi ploaia.",
-                "en": "Many waterside cafes are perfect for watching the rain fall on the canal."
+                "en": "Many waterside cafes are perfect for watching the rain fall on the canal.",
+                "fr": "De nombreux cafés au bord de l'eau sont parfaits pour regarder la pluie tomber sur le canal."
               }
             }
           ],
@@ -2653,6 +2888,13 @@
               "It's often stuffy in the metro; wear clothes that are easy to ventilate.",
               "Line 6 offers great elevated views of the city, even in the rain.",
               "Keep your ticket handy to avoid searching for it while standing in rain."
+            ],
+            "fr": [
+              "Les stations de métro peuvent être humides et glissantes par temps de pluie ; soyez prudent.",
+              "Utilisez l'application RATP pour des infos en temps réel sur les retards liés météo.",
+              "Il fait souvent lourd dans le métro ; portez des vêtements faciles à ventiler.",
+              "La ligne 6 offre de superbes vues aériennes sur la ville, même sous la pluie.",
+              "Gardez votre ticket à portée de main pour éviter de le chercher sous la pluie."
             ]
           }
         },
@@ -2661,7 +2903,8 @@
             "de": "Ein frostiger Morgen startet in Montmartre, wo der Ausblick über das winterliche Paris atemberaubend ist. Per Metro fahren wir ins Marais und genießen die festliche Stimmung an der Place des Vosges. Nach Stopps an der Bastille und auf dem ruhigen Père Lachaise lassen wir den Tag am Canal Saint-Martin ausklingen. Die Metro bietet angenehme Wärme zwischen den winterlichen Stationen.",
             "hu": "Fagyos reggel indul Montmartre-ban, ahonnan a téli Párizs látványa lélegzetelállító. Metróval utazunk a Marais-hoz és élvezzük a Place des Vosges ünnepi hangulatát. A Bastille és a csendes Père Lachaise után a Canal Saint-Martin-nál zárjuk a napot. A metró kellemes meleget ad a téli állomások közötti utazás során.",
             "ro": "O dimineață geroasă începe în Montmartre, de unde vederea asupra Parisului de iarnă este uluitoare. Cu metroul mergem în Marais și savurăm atmosfera festivă din Place des Vosges. După Bastille și liniștitul Père Lachaise, încheiem la Canal Saint-Martin.",
-            "en": "A frosty morning starts in Montmartre, where the view over winter Paris is breathtaking. By metro, we travel to Le Marais and enjoy the festive mood at Place des Vosges. After stops at Bastille and the quiet Père Lachaise, we end the day at Canal Saint-Martin. The metro provides welcome warmth between the wintry stops."
+            "en": "A frosty morning starts in Montmartre, where the view over winter Paris is breathtaking. By metro, we travel to Le Marais and enjoy the festive mood at Place des Vosges. After stops at Bastille and the quiet Père Lachaise, we end the day at Canal Saint-Martin. The metro provides welcome warmth between the wintry stops.",
+            "fr": "Une matinée glaciale commence à Montmartre, où la vue sur Paris en hiver est à couper le souffle. En métro, nous rejoignons le Marais et profitons de l'ambiance festive de la place des Vosges. Après des arrêts à la Bastille et au calme Père-Lachaise, nous finissons la journée au canal Saint-Martin. Le métro offre une chaleur bienvenue entre les étapes hivernales."
           },
           "stops": [
             {
@@ -2670,7 +2913,8 @@
                 "de": "Der weiße Stein der Basilika leuchtet im Winterlicht besonders hell.",
                 "hu": "A bazilika fehér köve különösen fényesen ragyog a téli fényben.",
                 "ro": "Piatra albă a basilicii strălucește foarte tare în lumina iernii.",
-                "en": "The white stone of the basilica shines especially bright in winter light."
+                "en": "The white stone of the basilica shines especially bright in winter light.",
+                "fr": "La pierre blanche de la basilique brille particulièrement sous la lumière d'hiver."
               }
             },
             {
@@ -2679,7 +2923,8 @@
                 "de": "Die vielen kleinen Boutiquen sind ideal zum Aufwärmen.",
                 "hu": "A sok kis butik ideális a rövid felmelegedésekhez.",
                 "ro": "Numeroasele buticuri mici sunt ideale pentru a vă încălzi.",
-                "en": "The many small boutiques are ideal for ducking in to warm up."
+                "en": "The many small boutiques are ideal for ducking in to warm up.",
+                "fr": "Les nombreuses petites boutiques sont idéales pour s'abriter et se réchauffer."
               }
             },
             {
@@ -2688,7 +2933,8 @@
                 "de": "Im Winter sind die Bäume kahl und geben den Blick auf die Architektur frei.",
                 "hu": "Télen a fák kopaszak, így jobban látszik az építészet.",
                 "ro": "Iarna copacii sunt golași, lăsând arhitectura la vedere.",
-                "en": "In winter, the bare trees reveal more of the beautiful architecture."
+                "en": "In winter, the bare trees reveal more of the beautiful architecture.",
+                "fr": "En hiver, les arbres dénudés révèlent davantage la beauté de l'architecture."
               }
             },
             {
@@ -2697,7 +2943,8 @@
                 "de": "Die Oper Bastille ist ein imposanter Anblick im Wintergrau.",
                 "hu": "A Bastille Opera impozáns látvány a téli szürkeségben.",
                 "ro": "Opera Bastille este o vedere impunătoare în griul iernii.",
-                "en": "The Bastille Opera is an imposing sight against the winter sky."
+                "en": "The Bastille Opera is an imposing sight against the winter sky.",
+                "fr": "L'Opéra Bastille est une vue imposante contre le ciel d'hiver."
               }
             },
             {
@@ -2706,7 +2953,8 @@
                 "de": "Ein sehr ruhiger, fast meditativer Ort im Winter.",
                 "hu": "Nagyon csendes, szinte meditatív hely a téli időszakban.",
                 "ro": "Un loc foarte liniștit, aproape meditativ, în timpul iernii.",
-                "en": "A very quiet, almost meditative place during the winter season."
+                "en": "A very quiet, almost meditative place during the winter season.",
+                "fr": "Un endroit très calme, presque méditatif durant la saison hivernale."
               }
             },
             {
@@ -2715,7 +2963,8 @@
                 "de": "Das Licht der Straßenlaternen am Kanal ist abends sehr romantisch.",
                 "hu": "A csatorna menti utcai lámpák fénye este nagyon romantikus.",
                 "ro": "Lumina felinarelor de pe canal este foarte romantică seara.",
-                "en": "The streetlights along the canal create a very romantic evening glow."
+                "en": "The streetlights along the canal create a very romantic evening glow.",
+                "fr": "Les réverbères le long du canal créent une lueur de soirée très romantique."
               }
             }
           ],
@@ -2747,6 +2996,13 @@
               "Use major hub stations for transfers to stay in the warmth longer.",
               "Line 2 offers elevated views on the way to Montmartre.",
               "Wear comfortable shoes for the long walking tunnels in transfer stations."
+            ],
+            "fr": [
+              "Les entrées de métro Art Nouveau sont de superbes sujets photo même en hiver.",
+              "Évitez les heures de pointe ; les rames de métro deviennent inconfortablement surchauffées.",
+              "Utilisez les grandes stations de correspondance pour rester au chaud plus longtemps.",
+              "La ligne 2 offre des vues aériennes sur le chemin de Montmartre.",
+              "Portez des chaussures confortables pour les longs couloirs dans les stations de transfert."
             ]
           }
         }

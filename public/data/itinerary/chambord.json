@@ -36,7 +36,8 @@
             "de": "Holen Sie sich hier Ihren ersten Kaffee mit Blick auf das Dorf.",
             "hu": "Igyon itt egy kávét a falura néző kilátással.",
             "ro": "Luați prima cafea aici cu vedere la sat.",
-            "en": "Grab your first coffee here with a view of the village."
+            "en": "Grab your first coffee here with a view of the village.",
+            "fr": "Prenez votre premier café ici avec vue sur le village."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Die Doppelwendeltreppe ist das absolute Highlight.",
             "hu": "A kettős csigalépcső az abszolút fénypont.",
             "ro": "Scara cu dublă elice este punctul culminant.",
-            "en": "The double helix staircase is the absolute highlight."
+            "en": "The double helix staircase is the absolute highlight.",
+            "fr": "L'escalier à double révolution est le clou du spectacle."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Bewundern Sie die Schornsteine aus der Nähe.",
             "hu": "Csodálja meg közelről a kéményeket.",
             "ro": "Admirați coșurile de fum de aproape.",
-            "en": "Admire the chimneys from up close."
+            "en": "Admire the chimneys from up close.",
+            "fr": "Admirez les cheminées de près."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Genießen Sie regionale Spezialitäten mit Blick auf das Schloss.",
             "hu": "Élvezze a regionális specialitásokat a kastélyra néző kilátással.",
             "ro": "Savurați specialități regionale cu vedere la castel.",
-            "en": "Enjoy regional specialties with a view of the castle."
+            "en": "Enjoy regional specialties with a view of the castle.",
+            "fr": "Dégustez des spécialités régionales avec vue sur le château."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Perfekter Ort für Panoramafotos des Schlosses.",
             "hu": "Tökéletes hely a kastély panorámafotóihoz.",
             "ro": "Locul perfect pentru fotografii panoramice ale castelului.",
-            "en": "Perfect spot for panoramic photos of the castle."
+            "en": "Perfect spot for panoramic photos of the castle.",
+            "fr": "Emplacement parfait pour des photos panoramiques du château."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Beobachten Sie das Spiegelbild des Schlosses im Wasser.",
             "hu": "Figyelje a kastély tükröződését a vízben.",
             "ro": "Observați reflexia castelului în apă.",
-            "en": "Watch the reflection of the castle in the water."
+            "en": "Watch the reflection of the castle in the water.",
+            "fr": "Observez le reflet du château dans l'eau."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Ihr Tag in Chambord beginnt am malerischen Place Saint-Louis, bevor Sie in die Pracht der Renaissance eintauchen. Das Schloss beeindruckt mit seiner Architektur und der berühmten Treppe. Nach einem regionalen Mittagessen spazieren Sie durch die geometrisch angelegten französischen Gärten und lassen den Tag entspannt am großen Kanal ausklingen, wo sich die Türme im Wasser spiegeln.",
         "hu": "A chambord-i nap a festői Place Saint-Louis-n kezdődik, mielőtt elmerülne a reneszánsz pompájában. A kastély építészete és a híres lépcsőház lenyűgöző látványt nyújt. Egy regionális ebéd után sétáljon végig a mértani francia kerteken, majd zárja a napot a nagy csatorna partján, ahol a kastély tornyai tükröződnek a víz felszínén.",
         "ro": "Ziua dumneavoastră la Chambord începe în pitoreasca Place Saint-Louis, înainte de a vă scufunda în splendoarea Renașterii. Castelul impresionează prin arhitectura sa și faimoasa scară. După un prânz regional, plimbați-vă prin grădinile franceze geometrice și încheiați ziua relaxat lângă marele canal, unde turnurile se oglindesc în apă.",
-        "en": "Your day in Chambord begins at the picturesque Place Saint-Louis before diving into Renaissance grandeur. The castle impresses with its architecture and the famous staircase. After a regional lunch, stroll through the geometric French gardens and end the day relaxed by the grand canal, where the towers are reflected in the water."
+        "en": "Your day in Chambord begins at the picturesque Place Saint-Louis before diving into Renaissance grandeur. The castle impresses with its architecture and the famous staircase. After a regional lunch, stroll through the geometric French gardens and end the day relaxed by the grand canal, where the towers are reflected in the water.",
+        "fr": "Votre journée à Chambord commence sur la pittoresque place Saint-Louis avant de plonger dans la splendeur de la Renaissance. Le château impressionne par son architecture et son célèbre escalier. Après un déjeuner régional, flânez dans les jardins à la française géométriques et terminez la journée au calme au bord du grand canal, où les tours se reflètent dans l'eau."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "Biscuiterie de Chambord",
             "tip": "Try the Palets de Sologne biscuits."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Grand Saint-Michel",
+            "tip": "Plats de gibier de la région de Sologne."
+          },
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Goûtez aux biscuits Palets de Sologne."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "Watch deer in the distance.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Canal de Chambord",
+            "tip": "Promenade tranquille au bord de l'eau.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lisière de la forêt",
+            "tip": "Observez les cerfs au loin.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +322,16 @@
             "name": "Local market",
             "tip": "Regional honey and wine."
           }
+        ],
+        "fr": [
+          {
+            "name": "La Boutique du Château",
+            "tip": "Souvenirs exclusifs et livres."
+          },
+          {
+            "name": "Marché local",
+            "tip": "Miel et vin régionaux."
+          }
         ]
       },
       "tips": {
@@ -319,6 +358,12 @@
           "Wear comfortable shoes for the many stairs.",
           "Visit the castle right at opening at 9 AM.",
           "The park is accessible for free."
+        ],
+        "fr": [
+          "Achetez vos billets en ligne pour éviter les files d'attente.",
+          "Portez des chaussures confortables pour les nombreux escaliers.",
+          "Visitez le château dès l'ouverture à 9h00.",
+          "Le parc est accessible gratuitement."
         ]
       },
       "variants": {
@@ -581,7 +626,8 @@
             "de": "Der Morgen beginnt auf dem Saint-Louis-Platz, wo Pfützen das Schloss spiegeln. Mittags bietet das Schloss Schutz vor dem Regen, während Sie die Doppelwendeltreppe erkunden. Am Nachmittag wirken die Gärten im Regen melancholisch, ein Schirm ist unerlässlich. Den Abend lassen Sie gemütlich in einem lokalen Bistro ausklingen, weit weg vom nassen Wetter.",
             "hu": "A reggel a Saint-Louis téren indul, ahol a tócsák tükrözik a kastélyt. Délben a várfalak nyújtanak menedéket a zápor elől, miközben a kettős lépcsőházat csodálja. Délután a kertek melankolikus arcukat mutatják, az esernyő kötelező kellék. Az estét egy barátságos bisztróban töltjük, távol a kinti nedves időjárástól.",
             "ro": "Dimineața începe în Piața Saint-Louis, unde bălțile reflectă castelul. La prânz, interiorul castelului oferă adăpost împotriva ploii în timp ce explorați scările duble. După-amiaza, grădinile par melancolice sub ploaie, umbrela fiind indispensabilă. Seara se încheie confortabil într-un bistro local, departe de vremea umedă de afară.",
-            "en": "The morning starts at Saint-Louis Square, where puddles reflect the chateau. At noon, the castle walls provide shelter from the downpour as you explore the double helix staircase. In the afternoon, the gardens show a melancholy face, making an umbrella essential. The evening ends cozily in a local bistro, far from the wet weather outside."
+            "en": "The morning starts at Saint-Louis Square, where puddles reflect the chateau. At noon, the castle walls provide shelter from the downpour as you explore the double helix staircase. In the afternoon, the gardens show a melancholy face, making an umbrella essential. The evening ends cozily in a local bistro, far from the wet weather outside.",
+            "fr": "La matinée commence sur la place Saint-Louis, où les flaques reflètent le château. À midi, les murs du château offrent un abri contre l'averse pendant que vous explorez l'escalier à double révolution. L'après-midi, les jardins montrent un visage mélancolique, rendant le parapluie indispensable. La soirée se termine confortablement dans un bistro local, loin de l'humidité extérieure."
           },
           "stops": [
             {
@@ -590,7 +636,8 @@
                 "de": "Unter den Arkaden der Geschäfte trocken bleiben.",
                 "hu": "Az üzletek árkádjai alatt védve maradhat az esőtől.",
                 "ro": "Rămâneți la adăpost sub arcadele magazinelor.",
-                "en": "Stay dry under the shop arcades."
+                "en": "Stay dry under the shop arcades.",
+                "fr": "Restez au sec sous les arcades des boutiques."
               }
             },
             {
@@ -599,7 +646,8 @@
                 "de": "Idealer Ort, um den stärksten Regen abzuwarten.",
                 "hu": "Ideális helyszín a legnagyobb zápor átvészelésére.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploii torențiale.",
-                "en": "Ideal place to wait out the heaviest rain."
+                "en": "Ideal place to wait out the heaviest rain.",
+                "fr": "Endroit idéal pour attendre que la plus grosse pluie passe."
               }
             },
             {
@@ -608,7 +656,8 @@
                 "de": "Vorsicht, die Steinstufen können rutschig sein.",
                 "hu": "Vigyázat, a kőlépcsők csúszósak lehetnek esőben.",
                 "ro": "Atenție, treptele de piatră pot fi alunecoase.",
-                "en": "Caution, the stone steps can be slippery."
+                "en": "Caution, the stone steps can be slippery.",
+                "fr": "Attention, les marches en pierre peuvent être glissantes."
               }
             },
             {
@@ -617,7 +666,8 @@
                 "de": "Nutzen Sie die Garderobe, um nasse Mäntel zu trocknen.",
                 "hu": "Használja a ruhatárat a vizes kabátok szárítására.",
                 "ro": "Folosiți garderoba pentru a usca haina udă.",
-                "en": "Use the cloakroom to dry off wet coats."
+                "en": "Use the cloakroom to dry off wet coats.",
+                "fr": "Utilisez le vestiaire pour faire sécher vos manteaux mouillés."
               }
             },
             {
@@ -626,7 +676,8 @@
                 "de": "Feste Schuhe sind wegen des aufgeweichten Bodens wichtig.",
                 "hu": "A felázott talaj miatt zárt, vízhatlan cipő ajánlott.",
                 "ro": "Încălțămintea solidă este necesară din cauza noroiului.",
-                "en": "Sturdy shoes are important due to the muddy ground."
+                "en": "Sturdy shoes are important due to the muddy ground.",
+                "fr": "Des chaussures robustes sont importantes à cause du sol boueux."
               }
             },
             {
@@ -635,7 +686,8 @@
                 "de": "Kurzer Spaziergang reicht, da kaum Unterstand vorhanden.",
                 "hu": "Rövid séta javasolt, mert kevés a fedett rész.",
                 "ro": "Plimbare scurtă, deoarece există puține adăposturi.",
-                "en": "Keep the walk short as there is little shelter."
+                "en": "Keep the walk short as there is little shelter.",
+                "fr": "Gardez la promenade courte car il y a peu d'abris."
               }
             }
           ],
@@ -667,6 +719,13 @@
               "The roof terraces offer unique photo opportunities with reflections.",
               "Plan more time for the indoor visit.",
               "A compact umbrella is more practical than a large walking one."
+            ],
+            "fr": [
+              "Portez des chaussures de marche imperméables pour les sentiers du jardin.",
+              "Utilisez les casiers gratuits du château pour vos objets mouillés.",
+              "Les terrasses sur le toit offrent des opportunités de photos uniques avec les reflets.",
+              "Prévoyez plus de temps pour la visite intérieure.",
+              "Un parapluie compact est plus pratique qu'un grand modèle de marche."
             ]
           }
         },
@@ -675,7 +734,8 @@
             "de": "Morgens liegt oft Frost auf den Wiesen rund um Chambord. Mittags wärmen Sie sich in den gewaltigen Sälen des Schlosses auf, wo die Kälte draußen bleibt. Nachmittags taucht die frühe Wintersonne die Fassade in goldenes Licht. Abends, wenn es bereits um 17 Uhr dunkel wird, strahlt das Dorf eine besinnliche Ruhe aus.",
             "hu": "Reggelente gyakran dér fedi a Chambord körüli mezőket. Délben a kastély monumentális termeiben melegedhetünk fel, ahol a falak kizárják a hideget. Délután a korai téli napsütés arany fénybe vonja a homlokzatot. Este, mivel már 17 órakor sötétedik, a falu meghitt nyugalmat áraszt.",
             "ro": "Dimineața, bruma acoperă adesea câmpiile din jurul castelului. La prânz, vă încălziți în sălile monumentale ale castelului, unde frigul este lăsat afară. După-amiaza, soarele palid de iarnă scaldă fațada în lumină aurie. Seara, deoarece se întunecă deja la ora 17, satul emană o liniște profundă.",
-            "en": "In the morning, frost often covers the meadows around Chambord. At noon, warm up in the monumental halls of the castle, where the cold stays outside. In the afternoon, the early winter sun bathes the facade in golden light. In the evening, as it gets dark by 5 PM, the village radiates a peaceful calm."
+            "en": "In the morning, frost often covers the meadows around Chambord. At noon, warm up in the monumental halls of the castle, where the cold stays outside. In the afternoon, the early winter sun bathes the facade in golden light. In the evening, as it gets dark by 5 PM, the village radiates a peaceful calm.",
+            "fr": "Le matin, le givre recouvre souvent les prairies autour de Chambord. À midi, réchauffez-vous dans les salles monumentales du château, où le froid reste dehors. L'après-midi, le soleil d'hiver précoce baigne la façade d'une lumière dorée. Le soir, alors que l'obscurité tombe dès 17h00, le village dégage un calme paisible."
           },
           "stops": [
             {
@@ -684,7 +744,8 @@
                 "de": "Holen Sie sich einen heißen Kaffee zum Aufwärmen.",
                 "hu": "Vegyél egy forró kávét a bemelegítéshez.",
                 "ro": "Luați o cafea fierbinte pentru a vă încălzi.",
-                "en": "Grab a hot coffee to warm up."
+                "en": "Grab a hot coffee to warm up.",
+                "fr": "Prenez un café chaud pour vous réchauffer."
               }
             },
             {
@@ -693,7 +754,8 @@
                 "de": "Achtung, die großen Hallen können zugig sein.",
                 "hu": "Vigyázat, a nagy csarnokok huzatosak lehetnek.",
                 "ro": "Atenție, sălile mari pot avea curent de aer.",
-                "en": "Caution, the large halls can be drafty."
+                "en": "Caution, the large halls can be drafty.",
+                "fr": "Attention, les grandes salles peuvent être sujettes aux courants d'air."
               }
             },
             {
@@ -702,7 +764,8 @@
                 "de": "Der Wind auf dem Dach ist im Winter sehr schneidend.",
                 "hu": "A szél a tetőn télen nagyon metsző lehet.",
                 "ro": "Vântul pe acoperiș este foarte tăios iarna.",
-                "en": "The wind on the roof is very biting in winter."
+                "en": "The wind on the roof is very biting in winter.",
+                "fr": "Le vent sur le toit est très mordant en hiver."
               }
             },
             {
@@ -711,7 +774,8 @@
                 "de": "Probieren Sie regionale Wildgerichte der Saison.",
                 "hu": "Kóstolja meg a szezonális vadételeket.",
                 "ro": "Gustați preparatele din vânat de sezon.",
-                "en": "Try the seasonal regional game dishes."
+                "en": "Try the seasonal regional game dishes.",
+                "fr": "Goûtez aux plats de gibier régionaux de saison."
               }
             },
             {
@@ -720,7 +784,8 @@
                 "de": "Die Geometrie ist bei Frost besonders klar sichtbar.",
                 "hu": "A kertek geometriája zúzmarás időben a leglátványosabb.",
                 "ro": "Geometria este clar vizibilă în timpul înghețului.",
-                "en": "The geometry is especially clear during frost."
+                "en": "The geometry is especially clear during frost.",
+                "fr": "La géométrie est particulièrement nette par temps de givre."
               }
             },
             {
@@ -729,7 +794,8 @@
                 "de": "Beenden Sie den Spaziergang vor Sonnenuntergang um 17 Uhr.",
                 "hu": "Fejezze be a sétát a 17 órai naplemente előtt.",
                 "ro": "Încheiați plimbarea înainte de apusul de la ora 17.",
-                "en": "Finish the walk before sunset at 5 PM."
+                "en": "Finish the walk before sunset at 5 PM.",
+                "fr": "Terminez la promenade avant le coucher du soleil à 17h00."
               }
             }
           ],
@@ -761,6 +827,13 @@
               "Warm gloves are essential for the outdoor areas.",
               "Visit right at opening to see the frost on the ground.",
               "A thermos with tea will help keep you warm."
+            ],
+            "fr": [
+              "Habillez-vous en plusieurs couches pour les salles froides du château.",
+              "Le soleil se couche tôt, profitez de la lumière de midi pour les photos.",
+              "Des gants chauds sont essentiels pour les espaces extérieurs.",
+              "Visitez dès l'ouverture pour voir le givre au sol.",
+              "Un thermos de thé vous aidera à rester au chaud."
             ]
           }
         }
@@ -794,7 +867,8 @@
             "de": "Mieten Sie ein E-Bike für die längeren Waldwege.",
             "hu": "Béreljen elektromos kerékpárt a hosszabb erdei utakhoz.",
             "ro": "Închiriați o bicicletă electrică pentru traseele mai lungi prin pădure.",
-            "en": "Rent an e-bike for the longer forest trails."
+            "en": "Rent an e-bike for the longer forest trails.",
+            "fr": "Louez un vélo électrique pour les longs sentiers forestiers."
           }
         },
         {
@@ -817,7 +891,8 @@
             "de": "Genießen Sie die Ruhe des größten ummauerten Parks Europas.",
             "hu": "Élvezze Európa legnagyobb fallal körülvett parkjának nyugalmát.",
             "ro": "Bucurați-vă de liniștea celui mai mare parc împrejmuit din Europa.",
-            "en": "Enjoy the peace of Europe's largest walled park."
+            "en": "Enjoy the peace of Europe's largest walled park.",
+            "fr": "Profitez de la paix du plus grand parc clos d'Europe."
           }
         },
         {
@@ -840,7 +915,8 @@
             "de": "Fernglas nicht vergessen – ideal zur Tierbeobachtung.",
             "hu": "Ne felejtse el a távcsövet – ideális vadmegfigyeléshez.",
             "ro": "Nu uitați binoclul – ideal pentru observarea animalelor.",
-            "en": "Don't forget your binoculars – ideal for wildlife spotting."
+            "en": "Don't forget your binoculars – ideal for wildlife spotting.",
+            "fr": "N'oubliez pas vos jumelles – idéal pour l'observation des animaux."
           }
         },
         {
@@ -863,7 +939,8 @@
             "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
             "hu": "A kerékpártárolók a bejárat közelében találhatók.",
             "ro": "Suporturile pentru biciclete sunt situate lângă intrare.",
-            "en": "Bike racks are located near the entrance."
+            "en": "Bike racks are located near the entrance.",
+            "fr": "Des porte-vélos sont situés près de l'entrée."
           }
         },
         {
@@ -886,7 +963,8 @@
             "de": "Sehen Sie sich die Reitvorführungen an.",
             "hu": "Nézze meg a lovasbemutatókat.",
             "ro": "Urmăriți spectacolele ecvestre.",
-            "en": "Watch the equestrian shows."
+            "en": "Watch the equestrian shows.",
+            "fr": "Regardez les spectacles équestres."
           }
         },
         {
@@ -909,7 +987,8 @@
             "de": "Ein entspannter Abschluss Ihrer Radtour.",
             "hu": "Kerékpártúrájának pihentető lezárása.",
             "ro": "Un final relaxant al turului dumneavoastră pe bicicletă.",
-            "en": "A relaxing conclusion to your bike tour."
+            "en": "A relaxing conclusion to your bike tour.",
+            "fr": "Une conclusion relaxante à votre tour à vélo."
           }
         }
       ],
@@ -917,7 +996,8 @@
         "de": "Entdecken Sie die riesigen Ländereien von Chambord mit dem Rad. Beginnen Sie mit einer Fahrt durch die wilden Wälder zu den Aussichtstürmen, wo Sie mit etwas Glück Hirsche oder Wildschweine sehen. Danach kehren Sie zum Schloss zurück, um die Architektur zu bewundern. Beenden Sie Ihre Tour mit einem Besuch der historischen Ställe und einem gemütlichen Picknick am Ufer des Kanals.",
         "hu": "Fedezze fel Chambord hatalmas birtokait kerékpárral. Kezdje egy túrával a vadon élő erdőkön keresztül a kilátótornyokhoz, ahol szerencsével szarvasokat vagy vaddisznókat is láthat. Ezután térjen vissza a kastélyhoz, hogy megcsodálja annak építészetét. Zárja túráját a történelmi istállók meglátogatásával és egy kellemes piknikkel a csatorna partján.",
         "ro": "Descoperiți domeniile vaste ale Chambord-ului cu bicicleta. Începeți cu o plimbare prin pădurile sălbatice până la turnurile de observație, unde cu puțin noroc puteți vedea cerbi sau mistreți. Apoi reveniți la castel pentru a admira arhitectura. Încheiați turul cu o vizită la grajdurile istorice și un picnic plăcut pe malul canalului.",
-        "en": "Explore the vast lands of Chambord by bike. Start with a ride through the wild forests to the observation towers, where you might spot deer or wild boar if you're lucky. Then return to the castle to admire the architecture. End your tour with a visit to the historic stables and a pleasant picnic on the banks of the canal."
+        "en": "Explore the vast lands of Chambord by bike. Start with a ride through the wild forests to the observation towers, where you might spot deer or wild boar if you're lucky. Then return to the castle to admire the architecture. End your tour with a visit to the historic stables and a pleasant picnic on the banks of the canal.",
+        "fr": "Explorez les vastes terres de Chambord à vélo. Commencez par une balade dans les forêts sauvages jusqu'aux tours d'observation, où vous pourrez apercevoir des cerfs ou des sangliers avec de la chance. Revenez ensuite au château pour en admirer l'architecture. Terminez votre tour par une visite des écuries historiques et un agréable pique-nique sur les rives du canal."
       },
       "gastro_picks": {
         "de": [
@@ -958,6 +1038,16 @@
           {
             "name": "L'Epicerie du Lys",
             "tip": "Sandwiches and local products for the picnic."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Relais de Chambord",
+            "tip": "Déjeuner en terrasse."
+          },
+          {
+            "name": "L'Épicerie du Lys",
+            "tip": "Sandwichs et produits locaux pour le pique-nique."
           }
         ]
       },
@@ -1009,6 +1099,18 @@
             "tip": "Quiet pond away from the crowds.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Observatoire de la Gabillière",
+            "tip": "Point d'observation solitaire dans la forêt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Étang des Bons Hommes",
+            "tip": "Étang tranquille loin de la foule.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1051,6 +1153,16 @@
             "name": "Boutique des jardins",
             "tip": "Plants and garden decor."
           }
+        ],
+        "fr": [
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Célèbres biscuits au beurre."
+          },
+          {
+            "name": "Boutique des jardins",
+            "tip": "Plantes et décoration de jardin."
+          }
         ]
       },
       "tips": {
@@ -1077,6 +1189,12 @@
           "The paths are flat and easy to ride.",
           "Avoid cycling in the midday heat during summer.",
           "Keep your distance from the wildlife."
+        ],
+        "fr": [
+          "Il y a plus de 30 km de pistes cyclables balisées dans le parc.",
+          "Les chemins sont plats et faciles à parcourir.",
+          "Évitez de faire du vélo sous la chaleur de midi en été.",
+          "Gardez vos distances avec la faune sauvage."
         ]
       },
       "variants": {
@@ -1339,7 +1457,8 @@
             "de": "Ein regnerischer Morgen am Kanal erfordert gute Ausrüstung beim Verleih. Mittags führt der Waldweg durch duftendes, feuchtes Grün nach Muides. Nachmittags suchen wir Schutz im trockenen Inneren des Schlosses. Der Tag endet mit einem Picknick-Ersatz in einer überdachten Hütte am Wasser.",
             "hu": "Egy esős reggel a csatornánál jó felszerelést igényel a kölcsönzőben. Délben az erdei út illatos, nedves zöldön át vezet Muides felé. Délután a kastély száraz belső tereiben keresünk menedéket. A napot a vízparti fedett kunyhóban fejezzük be piknikezés helyett.",
             "ro": "O dimineață ploioasă la canal necesită echipament bun de la închirieri. La prânz, drumul prin pădure duce prin verdeața umedă spre Muides. După-amiaza căutăm adăpost în interiorul uscat al castelului. Ziua se termină cu o alternativă la picnic într-un foișor acoperit lângă apă.",
-            "en": "A rainy morning at the canal requires good gear from the rental shop. At noon, the forest path leads through fragrant, damp greenery towards Muides. In the afternoon, we seek shelter in the dry interior of the castle. The day ends with a picnic alternative in a covered hut by the water."
+            "en": "A rainy morning at the canal requires good gear from the rental shop. At noon, the forest path leads through fragrant, damp greenery towards Muides. In the afternoon, we seek shelter in the dry interior of the castle. The day ends with a picnic alternative in a covered hut by the water.",
+            "fr": "Une matinée pluvieuse au canal nécessite un bon équipement de la boutique de location. À midi, le sentier forestier traverse une verdure humide et parfumée vers Muides. L'après-midi, nous cherchons refuge dans l'intérieur sec du château. La journée se termine par une alternative au pique-nique dans une cabane couverte au bord de l'eau."
           },
           "stops": [
             {
@@ -1348,7 +1467,8 @@
                 "de": "Fragen Sie nach einem Rad mit Schutzblechen.",
                 "hu": "Kérjen sárvédővel felszerelt kerékpárt.",
                 "ro": "Cereți o bicicletă cu apărători de noroi.",
-                "en": "Ask for a bike with mudguards."
+                "en": "Ask for a bike with mudguards.",
+                "fr": "Demandez un vélo avec garde-boue."
               }
             },
             {
@@ -1357,7 +1477,8 @@
                 "de": "Vorsicht vor rutschigem Laub auf dem Asphalt.",
                 "hu": "Vigyázat, a vizes levelek csúszósak lehetnek.",
                 "ro": "Atenție la frunzele umede pe asfalt.",
-                "en": "Watch out for slippery leaves on the path."
+                "en": "Watch out for slippery leaves on the path.",
+                "fr": "Attention aux feuilles glissantes sur le chemin."
               }
             },
             {
@@ -1366,7 +1487,8 @@
                 "de": "Der Turm bietet Schutz vor einem kurzen Schauer.",
                 "hu": "A torony védelmet nyújt egy rövid zápor esetén.",
                 "ro": "Turnul oferă protecție împotriva unei ploi scurte.",
-                "en": "The tower provides shelter from a short shower."
+                "en": "The tower provides shelter from a short shower.",
+                "fr": "La tour offre un abri contre une courte averse."
               }
             },
             {
@@ -1375,7 +1497,8 @@
                 "de": "Stellen Sie die Räder an den markierten Ständern ab.",
                 "hu": "Helyezze a kerékpárokat a kijelölt tárolókba.",
                 "ro": "Lăsați bicicletele în rastelurile marcate.",
-                "en": "Leave your bikes in the marked racks."
+                "en": "Leave your bikes in the marked racks.",
+                "fr": "Laissez vos vélos dans les racks balisés."
               }
             },
             {
@@ -1384,7 +1507,8 @@
                 "de": "Überdachter Bereich für eine kurze Pause.",
                 "hu": "Fedett terület egy rövid pihenőhöz.",
                 "ro": "Zonă acoperită pentru o scurtă pauză.",
-                "en": "Covered area for a short break."
+                "en": "Covered area for a short break.",
+                "fr": "Zone couverte pour une courte pause."
               }
             },
             {
@@ -1393,7 +1517,8 @@
                 "de": "Suchen Sie einen Platz unter den großen Bäumen.",
                 "hu": "Keressen helyet a nagy fák lombja alatt.",
                 "ro": "Căutați un loc sub copacii mari.",
-                "en": "Look for a spot under the large trees."
+                "en": "Look for a spot under the large trees.",
+                "fr": "Cherchez un endroit sous les grands arbres."
               }
             }
           ],
@@ -1425,6 +1550,13 @@
               "Check your brakes on wet surfaces before starting.",
               "Shorten the ride if the wind picks up.",
               "Waterproof panniers protect your camera and valuables."
+            ],
+            "fr": [
+              "Évitez les sentiers forestiers avec de la boue profonde.",
+              "Un poncho de pluie est plus efficace qu'un parapluie à vélo.",
+              "Vérifiez vos freins sur surface mouillée avant de partir.",
+              "Raccourcissez la balade si le vent se lève.",
+              "Des sacoches imperméables protègent votre appareil photo et vos objets de valeur."
             ]
           }
         },
@@ -1433,7 +1565,8 @@
             "de": "Der kalte Wind am Kanal macht die morgendliche Radfahrt erfrischend. Mittags wärmt die Bewegung im Wald, während der Frost die Äste glitzern lässt. Nachmittags bietet das Schloss eine willkommene Aufwärmpause. Zum Sonnenuntergang radeln wir zurück, bevor die Kälte des Abends die Pfade fest im Griff hat.",
             "hu": "A csatorna menti hideg szél frissítővé teszi a reggeli kerékpározást. Délben az erdei mozgás felmelegít, miközben a zúzmara csillog az ágakon. Délután a kastély szívesen látott melegedőhelyet kínál. Naplementekor tekerünk vissza, mielőtt az esti fagy teljesen átveszi az uralmat.",
             "ro": "Vântul rece de la canal face plimbarea de dimineață revigorantă. La prânz, mișcarea în pădure vă încălzește în timp ce bruma strălucește pe ramuri. După-amiaza, castelul oferă o pauză binemeritată pentru încălzire. La apus pedalăm înapoi, înainte ca gerul serii să cuprindă potecile.",
-            "en": "The cold wind by the canal makes the morning bike ride refreshing. At noon, moving through the forest warms you up while frost glitters on the branches. In the afternoon, the castle offers a welcome warming break. At sunset, we cycle back before the evening frost takes hold of the paths."
+            "en": "The cold wind by the canal makes the morning bike ride refreshing. At noon, moving through the forest warms you up while frost glitters on the branches. In the afternoon, the castle offers a welcome warming break. At sunset, we cycle back before the evening frost takes hold of the paths.",
+            "fr": "Le vent froid près du canal rend la balade à vélo matinale rafraîchissante. À midi, bouger en forêt vous réchauffe pendant que le givre scintille sur les branches. L'après-midi, le château offre une pause chaleureuse bienvenue. Au coucher du soleil, nous rentrons à vélo avant que le gel du soir ne s'empare des sentiers."
           },
           "stops": [
             {
@@ -1442,7 +1575,8 @@
                 "de": "Handschuhe beim Radfahren sind ein Muss.",
                 "hu": "A kesztyű használata kötelező tekerés közben.",
                 "ro": "Mănușile sunt obligatorii în timpul mersului.",
-                "en": "Gloves are a must while cycling."
+                "en": "Gloves are a must while cycling.",
+                "fr": "Les gants sont indispensables à vélo."
               }
             },
             {
@@ -1451,7 +1585,8 @@
                 "de": "Vorsicht bei gefrorenen Pfützen auf dem Weg.",
                 "hu": "Vigyázat a befagyott tócsákkal az úton.",
                 "ro": "Atenție la bălțile înghețate de pe drum.",
-                "en": "Watch out for frozen puddles on the path."
+                "en": "Watch out for frozen puddles on the path.",
+                "fr": "Attention aux flaques gelées sur le chemin."
               }
             },
             {
@@ -1460,7 +1595,8 @@
                 "de": "Perfekt für Fotos der winterlichen Wildnis.",
                 "hu": "Tökéletes hely a téli vadon fotózásához.",
                 "ro": "Perfect pentru fotografii cu sălbăticia iernii.",
-                "en": "Perfect for photos of the winter wilderness."
+                "en": "Perfect for photos of the winter wilderness.",
+                "fr": "Parfait pour des photos de la nature hivernale."
               }
             },
             {
@@ -1469,7 +1605,8 @@
                 "de": "Nutzen Sie den Aufenthalt zum Aufwärmen.",
                 "hu": "Használja ki az időt a bemelegedésre.",
                 "ro": "Folosiți timpul pentru a vă încălzi.",
-                "en": "Use the time inside to warm up."
+                "en": "Use the time inside to warm up.",
+                "fr": "Utilisez le temps à l'intérieur pour vous réchauffer."
               }
             },
             {
@@ -1478,7 +1615,8 @@
                 "de": "Im Winter oft weniger überlaufen.",
                 "hu": "Télen gyakran kevésbé zsúfolt.",
                 "ro": "Iarna este adesea mai puțin aglomerat.",
-                "en": "Often less crowded in winter."
+                "en": "Often less crowded in winter.",
+                "fr": "Souvent moins fréquenté en hiver."
               }
             },
             {
@@ -1487,7 +1625,8 @@
                 "de": "Kurze Rast mit einem Heißgetränk.",
                 "hu": "Rövid pihenő egy forró itallal.",
                 "ro": "O scurtă pauză cu o băutură caldă.",
-                "en": "A short break with a hot drink."
+                "en": "A short break with a hot drink.",
+                "fr": "Une courte pause avec une boisson chaude."
               }
             }
           ],
@@ -1519,6 +1658,13 @@
               "Plan your return by 4:30 PM at the latest.",
               "A neck buff protects your face from the wind.",
               "Look out for wildlife, which can be more active in winter."
+            ],
+            "fr": [
+              "Des chaussettes chaudes et des vêtements coupe-vent sont obligatoires.",
+              "Les sentiers peuvent être très glissants avec le givre.",
+              "Prévoyez votre retour à 16h30 au plus tard.",
+              "Un tour de cou protège votre visage du vent.",
+              "Surveillez la faune, qui peut être plus active en hiver."
             ]
           }
         }
@@ -1552,7 +1698,8 @@
             "de": "P0 ist am nächsten zum Schlosseingang.",
             "hu": "A P0 van a legközelebb a kastély bejáratához.",
             "ro": "P0 este cea mai apropiată de intrarea în castel.",
-            "en": "P0 is the closest to the castle entrance."
+            "en": "P0 is the closest to the castle entrance.",
+            "fr": "Le P0 est le plus proche de l'entrée du château."
           }
         },
         {
@@ -1575,7 +1722,8 @@
             "de": "Nehmen Sie das HistoPad für eine interaktive Zeitreise.",
             "hu": "Használja a HistoPadot egy interaktív időutazáshoz.",
             "ro": "Folosiți HistoPad pentru o călătorie interactivă în timp.",
-            "en": "Use the HistoPad for an interactive time travel."
+            "en": "Use the HistoPad for an interactive time travel.",
+            "fr": "Utilisez l'HistoPad pour un voyage dans le temps interactif."
           }
         },
         {
@@ -1598,7 +1746,8 @@
             "de": "Probieren Sie den Ziegenkäse der Region.",
             "hu": "Kóstolja meg a régió kecskesajtját.",
             "ro": "Încercați brânza de capră din regiune.",
-            "en": "Try the goat cheese of the region."
+            "en": "Try the goat cheese of the region.",
+            "fr": "Goûtez au fromage de chèvre de la région."
           }
         },
         {
@@ -1621,7 +1770,8 @@
             "de": "Fahren Sie langsam durch den Waldabschnitt.",
             "hu": "Vezessen lassan az erdei szakaszon.",
             "ro": "Conduceți încet prin secțiunea de pădure.",
-            "en": "Drive slowly through the forest section."
+            "en": "Drive slowly through the forest section.",
+            "fr": "Conduisez lentement dans la section forestière."
           }
         },
         {
@@ -1644,7 +1794,8 @@
             "de": "Der beste Blick auf das Schloss beim Verlassen des Geländes.",
             "hu": "A legjobb kilátás a kastélyra a terület elhagyásakor.",
             "ro": "Cea mai bună vedere a castelului la părăsirea domeniului.",
-            "en": "The best view of the castle when leaving the grounds."
+            "en": "The best view of the castle when leaving the grounds.",
+            "fr": "La meilleure vue du château en quittant le domaine."
           }
         }
       ],
@@ -1652,7 +1803,8 @@
         "de": "Mit dem Auto erreichen Sie Chambord bequem und flexibel. Nach einer ausführlichen Besichtigung des Schlosses und seiner 60 prunkvollen Räume genießen Sie ein gemütliches Mittagessen im kleinen Dorf am Schlosspark. Am Nachmittag nutzen Sie den Wagen, um tiefer in den Wald zu fahren und die abgelegeneren Beobachtungspunkte zu erreichen, bevor Sie zum Abschluss einen spektakulären Panoramablick auf die gesamte Anlage genießen.",
         "hu": "Autóval kényelmesen és rugalmasan érheti el Chambord-t. A kastély és annak 60 pompás termének alapos megtekintése után élvezze a kellemes ebédet a kastélypark melletti kis faluban. Délután használja az autót, hogy mélyebbre hatoljon az erdőben, és elérje a távolabbi megfigyelőpontokat, mielőtt végül megcsodálná az egész épületegyüttes látványos panorámáját.",
         "ro": "Cu mașina ajungeți la Chambord confortabil și flexibil. După o vizitare detaliată a castelului și a celor 60 de camere fastuoase ale sale, savurați un prânz plăcut în micul sat de lângă parcul castelului. După-amiaza, folosiți mașina pentru a merge mai adânc în pădure și a ajunge la punctele de observație mai îndepărtate, înainte de a vă bucura la final de o vedere panoramică spectaculoasă asupra întregului ansamblu.",
-        "en": "By car, you can reach Chambord comfortably and flexibly. After a detailed tour of the castle and its 60 magnificent rooms, enjoy a cozy lunch in the small village next to the castle park. In the afternoon, use the car to go deeper into the forest and reach the more remote observation points before finally enjoying a spectacular panoramic view of the entire complex."
+        "en": "By car, you can reach Chambord comfortably and flexibly. After a detailed tour of the castle and its 60 magnificent rooms, enjoy a cozy lunch in the small village next to the castle park. In the afternoon, use the car to go deeper into the forest and reach the more remote observation points before finally enjoying a spectacular panoramic view of the entire complex.",
+        "fr": "En voiture, vous atteignez Chambord confortablement et avec flexibilité. Après une visite détaillée du château et de ses 60 salles magnifiques, profitez d'un déjeuner chaleureux dans le petit village jouxtant le parc du château. L'après-midi, utilisez la voiture pour vous enfoncer dans la forêt et atteindre les points d'observation les plus reculés avant de savourer une vue panoramique spectaculaire sur l'ensemble du domaine."
       },
       "gastro_picks": {
         "de": [
@@ -1693,6 +1845,16 @@
           {
             "name": "Les Armes de France",
             "tip": "Upscale French cuisine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "La Cave aux Rois",
+            "tip": "Dégustation de vins de Loire."
+          },
+          {
+            "name": "Les Armes de France",
+            "tip": "Cuisine française haut de gamme."
           }
         ]
       },
@@ -1744,6 +1906,18 @@
             "tip": "Nearby viewpoint.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Chemin de l'Étang",
+            "tip": "Sentiers forestiers silencieux.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Belvédère de la Loire",
+            "tip": "Point de vue à proximité.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1786,6 +1960,16 @@
             "name": "Miel de Chambord",
             "tip": "Honey straight from the park."
           }
+        ],
+        "fr": [
+          {
+            "name": "Boutique du village",
+            "tip": "Artisanat local."
+          },
+          {
+            "name": "Miel de Chambord",
+            "tip": "Miel provenant directement du parc."
+          }
         ]
       },
       "tips": {
@@ -1812,6 +1996,12 @@
           "Parking spots often fill up early.",
           "Charge your electric car at the designated stations.",
           "Watch out for wildlife crossing the forest roads."
+        ],
+        "fr": [
+          "Le ticket de parking est valable pour toute la journée.",
+          "Les places de parking se remplissent souvent tôt.",
+          "Chargez votre voiture électrique aux bornes dédiées.",
+          "Attention à la faune traversant les routes forestières."
         ]
       },
       "variants": {
@@ -2060,7 +2250,8 @@
             "de": "Regen prasselt auf das Autodach am Parkplatz P0. Mittags verbringen wir die Zeit trocken im Schloss bei einer ausführlichen Besichtigung. Nachmittags beobachten wir Wildtiere bequem vom Auto aus in Masures. Der Abend schließt mit einem Panorama-Blick, bei dem die Wolken mystisch über dem Anwesen hängen.",
             "hu": "Az eső dobol az autó tetőjén a P0 parkolóban. Délben a kastélyban töltjük az időt szárazon, egy alapos látogatás keretében. Délután kényelmesen az autóból figyeljük a vadállatokat Masuresnél. Az estét egy panorámás kilátással zárjuk, ahol a felhők misztikusan lebegnek a birtok felett.",
             "ro": "Ploaia bate în plafonul mașinii în parcarea P0. La prânz petrecem timpul la adăpost în castel pentru o vizită detaliată. După-amiaza observăm animalele sălbatice confortabil din mașină la Masures. Seara se încheie cu o vedere panoramică, norii atârnând mistic peste domeniu.",
-            "en": "Rain drums on the car roof at parking P0. At noon, we spend time dry inside the castle during a detailed visit. In the afternoon, we observe wildlife comfortably from the car at Masures. The evening concludes with a panoramic view where clouds hang mystically over the estate."
+            "en": "Rain drums on the car roof at parking P0. At noon, we spend time dry inside the castle during a detailed visit. In the afternoon, we observe wildlife comfortably from the car at Masures. The evening concludes with a panoramic view where clouds hang mystically over the estate.",
+            "fr": "La pluie tambourine sur le toit de la voiture au parking P0. À midi, nous restons au sec à l'intérieur du château pour une visite détaillée. L'après-midi, nous observons la faune confortablement depuis la voiture aux Masures. La soirée s'achève par une vue panoramique où les nuages flottent mystiquement au-dessus du domaine."
           },
           "stops": [
             {
@@ -2069,7 +2260,8 @@
                 "de": "P0 ist am nächsten zum Eingang, spart Gehzeit im Regen.",
                 "hu": "A P0 van a legközelebb a bejárathoz, spórolja a gyaloglást.",
                 "ro": "P0 este cel mai aproape de intrare, scurtând mersul prin ploaie.",
-                "en": "P0 is closest to the entrance, saving walking time in the rain."
+                "en": "P0 is closest to the entrance, saving walking time in the rain.",
+                "fr": "Le P0 est le plus proche de l'entrée, économisant du temps de marche sous la pluie."
               }
             },
             {
@@ -2078,7 +2270,8 @@
                 "de": "Perfekter Zufluchtsort für mehrere Stunden.",
                 "hu": "Tökéletes menedék több órára.",
                 "ro": "Refugiul perfect pentru câteva ore.",
-                "en": "Perfect refuge for several hours."
+                "en": "Perfect refuge for several hours.",
+                "fr": "Refuge parfait pour plusieurs heures."
               }
             },
             {
@@ -2087,7 +2280,8 @@
                 "de": "Parkplätze direkt vor den Restaurants nutzen.",
                 "hu": "Használja az éttermek előtti parkolókat.",
                 "ro": "Folosiți locurile de parcare din fața restaurantelor.",
-                "en": "Use the parking spots right in front of the restaurants."
+                "en": "Use the parking spots right in front of the restaurants.",
+                "fr": "Utilisez les places de parking juste devant les restaurants."
               }
             },
             {
@@ -2096,7 +2290,8 @@
                 "de": "Tiere kommen bei Regen oft an den Waldrand.",
                 "hu": "Az állatok esőben gyakran kijönnek az erdőszélre.",
                 "ro": "Animalele ies adesea la marginea pădurii pe ploaie.",
-                "en": "Animals often come to the forest edge during rain."
+                "en": "Animals often come to the forest edge during rain.",
+                "fr": "Les animaux s'approchent souvent de la lisière sous la pluie."
               }
             },
             {
@@ -2105,7 +2300,8 @@
                 "de": "Blick aus dem Auto genießen, falls es zu stark regnet.",
                 "hu": "Élvezze a kilátást az autóból, ha túl erősen esik.",
                 "ro": "Bucurați-vă de priveliște din mașină dacă plouă tare.",
-                "en": "Enjoy the view from the car if it rains too hard."
+                "en": "Enjoy the view from the car if it rains too hard.",
+                "fr": "Profitez de la vue depuis la voiture s'il pleut trop fort."
               }
             }
           ],
@@ -2137,6 +2333,13 @@
               "Use parking spots as close to your destination as possible.",
               "Check your wipers before driving.",
               "Good time to visit the souvenir shop in the village."
+            ],
+            "fr": [
+              "Laissez les parapluies mouillés dans le coffre.",
+              "Les routes forestières peuvent être glissantes, conduisez prudemment.",
+              "Utilisez les places de parking aussi proches que possible de votre destination.",
+              "Vérifiez vos essuie-glaces avant de conduire.",
+              "C'est le bon moment pour visiter la boutique de souvenirs du village."
             ]
           }
         },
@@ -2145,7 +2348,8 @@
             "de": "Die morgendliche Fahrt durch den nebligen Park ist magisch. Mittags wärmen wir uns im Schloss auf, während draußen der Frost die Landschaft erstarrt. Nachmittags suchen wir in Masures nach Hirschen im Schnee oder Reif. Zum Abend genießen wir den Panorama-Blick auf das beleuchtete Schloss, bevor die Dunkelheit einsetzt.",
             "hu": "A reggeli autózás a ködös parkban varázslatos élmény. Délben a kastélyban melegszünk fel, miközben odakint a fagy megállítja az időt. Délután Masuresnél szarvasokat keresünk a hóban vagy zúzmarában. Este a kivilágított kastély panorámájában gyönyörködünk, mielőtt beáll a sötétség.",
             "ro": "Drumul de dimineață prin parcul cețos este magic. La prânz ne încălzim în castel, în timp ce afară bruma îngheață peisajul. După-amiaza căutăm cerbi prin zăpadă sau promoroacă la Masures. Seara admirăm panorama castelului iluminat înainte de lăsarea întunericului.",
-            "en": "The morning drive through the foggy park is magical. At noon, we warm up in the castle while outside the frost freezes the landscape. In the afternoon, we look for deer in the snow or frost at Masures. In the evening, we enjoy the panoramic view of the illuminated castle before darkness sets in."
+            "en": "The morning drive through the foggy park is magical. At noon, we warm up in the castle while outside the frost freezes the landscape. In the afternoon, we look for deer in the snow or frost at Masures. In the evening, we enjoy the panoramic view of the illuminated castle before darkness sets in.",
+            "fr": "Le trajet matinal à travers le parc embrumé est magique. À midi, nous nous réchauffons au château alors qu'à l'extérieur le givre fige le paysage. L'après-midi, nous cherchons les cerfs dans la neige ou le givre aux Masures. Le soir, nous profitons de la vue panoramique du château illuminé avant que l'obscurité ne s'installe."
           },
           "stops": [
             {
@@ -2154,7 +2358,8 @@
                 "de": "Vorsicht vor Eisglätte auf dem Parkplatz.",
                 "hu": "Vigyázat, a parkoló jeges lehet.",
                 "ro": "Atenție la polei în parcare.",
-                "en": "Watch out for icy patches in the parking lot."
+                "en": "Watch out for icy patches in the parking lot.",
+                "fr": "Attention aux plaques de verglas sur le parking."
               }
             },
             {
@@ -2163,7 +2368,8 @@
                 "de": "Besuchen Sie die Ausstellungen in den oberen Etagen.",
                 "hu": "Látogassa meg a felsőbb emeletek kiállításait.",
                 "ro": "Vizitați expozițiile de la etajele superioare.",
-                "en": "Visit the exhibitions on the upper floors."
+                "en": "Visit the exhibitions on the upper floors.",
+                "fr": "Visitez les expositions aux étages supérieurs."
               }
             },
             {
@@ -2172,7 +2378,8 @@
                 "de": "Genießen Sie die Wärme am Kamin in den Restaurants.",
                 "hu": "Élvezze a kandalló melegét az éttermekben.",
                 "ro": "Bucurați-vă de căldura șemineului în restaurante.",
-                "en": "Enjoy the warmth of the fireplace in the restaurants."
+                "en": "Enjoy the warmth of the fireplace in the restaurants.",
+                "fr": "Profitez de la chaleur de la cheminée dans les restaurants."
               }
             },
             {
@@ -2181,7 +2388,8 @@
                 "de": "Fernglas mitnehmen, Tiere sind im Winter gut sichtbar.",
                 "hu": "Vigyen távcsövet, az állatok jól látszanak télen.",
                 "ro": "Luați binoclul, animalele sunt vizibile iarna.",
-                "en": "Bring binoculars, animals are clearly visible in winter."
+                "en": "Bring binoculars, animals are clearly visible in winter.",
+                "fr": "Apportez des jumelles, les animaux sont bien visibles en hiver."
               }
             },
             {
@@ -2190,7 +2398,8 @@
                 "de": "Frühzeitig vor 17 Uhr für das beste Licht dort sein.",
                 "hu": "Érkezzen 17 óra előtt a legjobb fényekért.",
                 "ro": "Ajungeți înainte de ora 17 pentru cea mai bună lumină.",
-                "en": "Be there before 5 PM for the best light."
+                "en": "Be there before 5 PM for the best light.",
+                "fr": "Soyez présent avant 17h00 pour la meilleure lumière."
               }
             }
           ],
@@ -2222,6 +2431,13 @@
               "The car heater is a great retreat from the cold.",
               "Deer are often seen in groups during winter.",
               "Castle lighting starts shortly after sunset."
+            ],
+            "fr": [
+              "Des pneus hiver sont conseillés sur les routes forestières.",
+              "N'oubliez pas le liquide lave-glace antigel.",
+              "Le chauffage de la voiture est une excellente retraite contre le froid.",
+              "Les cerfs sont souvent vus en groupes pendant l'hiver.",
+              "L'éclairage du château commence peu après le coucher du soleil."
             ]
           }
         }
@@ -2255,7 +2471,8 @@
             "de": "Prüfen Sie den Fahrplan der Navette ab Blois.",
             "hu": "Ellenőrizze a Blois-ból induló buszjárat (navette) menetrendjét.",
             "ro": "Verificați orarul navetei din Blois.",
-            "en": "Check the schedule of the shuttle (navette) from Blois."
+            "en": "Check the schedule of the shuttle (navette) from Blois.",
+            "fr": "Vérifiez les horaires de la navette depuis Blois."
           }
         },
         {
@@ -2278,7 +2495,8 @@
             "de": "Die Audioguides sind in vielen Sprachen verfügbar.",
             "hu": "Az audioguide-ok számos nyelven elérhetőek.",
             "ro": "Audioguide-urile sunt disponibile în multe limbi.",
-            "en": "Audioguides are available in many languages."
+            "en": "Audioguides are available in many languages.",
+            "fr": "Des audioguides sont disponibles en plusieurs langues."
           }
         },
         {
@@ -2301,7 +2519,8 @@
             "de": "Schnelle Snacks und Getränke vor Ort.",
             "hu": "Gyors harapnivalók és italok a helyszínen.",
             "ro": "Gustări rapide și băuturi la fața locului.",
-            "en": "Quick snacks and drinks on-site."
+            "en": "Quick snacks and drinks on-site.",
+            "fr": "Snacks rapides et boissons sur place."
           }
         },
         {
@@ -2324,7 +2543,8 @@
             "de": "Genießen Sie den klassischen französischen Gartenstil.",
             "hu": "Élvezze a klasszikus francia kertstílust.",
             "ro": "Bucurați-vă de stilul clasic al grădinii franceze.",
-            "en": "Enjoy the classic French garden style."
+            "en": "Enjoy the classic French garden style.",
+            "fr": "Profitez du style classique du jardin à la française."
           }
         },
         {
@@ -2347,7 +2567,8 @@
             "de": "Mieten Sie ein Ruderboot für eine andere Perspektive.",
             "hu": "Béreljen evezős csónakot egy másfajta perspektíváért.",
             "ro": "Închiriați o barcă cu vâsle pentru o perspectivă diferită.",
-            "en": "Rent a rowing boat for a different perspective."
+            "en": "Rent a rowing boat for a different perspective.",
+            "fr": "Louez une barque pour une perspective différente."
           }
         },
         {
@@ -2370,7 +2591,8 @@
             "de": "Letzte Gelegenheit für Geschenke vor der Abfahrt.",
             "hu": "Utolsó lehetőség ajándékvásárlásra indulás előtt.",
             "ro": "Ultima ocazie pentru cadouri înainte de plecare.",
-            "en": "Last chance for gifts before departure."
+            "en": "Last chance for gifts before departure.",
+            "fr": "Dernière chance pour des cadeaux avant le départ."
           }
         }
       ],
@@ -2378,7 +2600,8 @@
         "de": "Auch ohne Auto ist Chambord dank der Shuttle-Busse ab Blois gut erreichbar. Ihr Tag konzentriert sich auf das architektonische Meisterwerk und die direkt umliegenden Gartenanlagen. Nach der Schlossbesichtigung und einer Stärkung im Innenhof unternehmen Sie eine idyllische Bootsfahrt auf dem Cosson-Kanal, bevor Sie vor Ihrer Rückfahrt gemütlich durch die Souvenirläden des kleinen Dorfes bummeln.",
         "hu": "Autó nélkül is jól megközelíthető Chambord a Blois-ból induló ingajáratoknak köszönhetően. A nap az építészeti remekműre és a közvetlenül körülötte elterülő kertekre összpontosít. A kastélylátogatás és az udvari frissítő után tegyen egy idilli csónakázást a Cosson-csatornán, majd a visszautazás előtt sétáljon végig a kis falu ajándékboltjai között.",
         "ro": "Chiar și fără mașină, Chambord este ușor accesibil datorită autobuzelor navetă din Blois. Ziua dumneavoastră se concentrează pe capodopera arhitecturală și pe grădinile din imediata apropiere. După vizitarea castelului și o gustare în curtea interioară, faceți o plimbare idilică cu barca pe canalul Cosson, înainte de a vă plimba prin magazinele de suveniruri din micul sat înainte de întoarcere.",
-        "en": "Even without a car, Chambord is easily accessible thanks to the shuttle buses from Blois. Your day focuses on the architectural masterpiece and the directly surrounding gardens. After the castle tour and a refreshment in the courtyard, take an idyllic boat trip on the Cosson canal before strolling through the souvenir shops of the small village before your return journey."
+        "en": "Even without a car, Chambord is easily accessible thanks to the shuttle buses from Blois. Your day focuses on the architectural masterpiece and the directly surrounding gardens. After the castle tour and a refreshment in the courtyard, take an idyllic boat trip on the Cosson canal before strolling through the souvenir shops of the small village before your return journey.",
+        "fr": "Même sans voiture, Chambord est facilement accessible grâce aux navettes depuis Blois. Votre journée se concentre sur le chef-d'œuvre architectural et les jardins environnants. Après la visite du château et un rafraîchissement dans la cour, faites une promenade idyllique en barque sur le canal du Cosson avant de flâner dans les boutiques de souvenirs du petit village avant votre retour."
       },
       "gastro_picks": {
         "de": [
@@ -2419,6 +2642,16 @@
           {
             "name": "Le Saint-Louis",
             "tip": "Traditional French bistro."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Autour du Four",
+            "tip": "Pâtisseries fraîches et pizza."
+          },
+          {
+            "name": "Le Saint-Louis",
+            "tip": "Bistro français traditionnel."
           }
         ]
       },
@@ -2470,6 +2703,18 @@
             "tip": "Space for reflection.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Barque sur le canal",
+            "tip": "Silence absolu sur l'eau.",
+            "emoji": "🚣"
+          },
+          {
+            "name": "Bancs dans le jardin à la française",
+            "tip": "Espace de réflexion.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2512,6 +2757,16 @@
             "name": "Maison des Vins",
             "tip": "Wines from Cheverny and Cour-Cheverny."
           }
+        ],
+        "fr": [
+          {
+            "name": "Boutique du Château",
+            "tip": "Répliques d'objets historiques."
+          },
+          {
+            "name": "Maison des Vins",
+            "tip": "Vins de Cheverny et Cour-Cheverny."
+          }
         ]
       },
       "tips": {
@@ -2538,6 +2793,12 @@
           "A combined ticket with the train from Paris is possible.",
           "Don't miss the last bus departure.",
           "Most sights are within walking distance."
+        ],
+        "fr": [
+          "La navette circule de façon saisonnière.",
+          "Un billet combiné avec le train depuis Paris est possible.",
+          "Ne manquez pas le départ du dernier bus.",
+          "La plupart des sites sont accessibles à pied."
         ]
       },
       "variants": {
@@ -2800,7 +3061,8 @@
             "de": "Morgens warten wir unter dem Unterstand an der Bushaltestelle. Mittags tauchen wir mit dem Audioguide tief in die Geschichte des trockenen Schlosses ein. Nachmittags fällt der Garten-Spaziergang wegen des Regens kürzer aus. Der Tag endet mit Shopping in den überdachten Läden des Dorfes, bevor der Bus uns zurückbringt.",
             "hu": "Reggel a buszmegálló fedett várójában várakozunk. Délben az audioguide segítségével merülünk el a száraz kastély történelmében. Délután a kerti séta az eső miatt rövidebbre sikerül. A napot a falu fedett üzleteiben zárjuk, mielőtt a busz visszavisz minket.",
             "ro": "Dimineața așteptăm sub adăpostul stației de autobuz. La prânz explorăm istoria castelului uscat cu ajutorul audioghidului. După-amiaza plimbarea în grădină este mai scurtă din cauza ploii. Ziua se încheie cu cumpărături în magazinele acoperite din sat, înainte de plecarea autobuzului.",
-            "en": "In the morning, we wait under the shelter at the bus stop. At noon, we dive deep into the history of the dry castle with the audio guide. In the afternoon, the garden walk is shorter due to the rain. The day ends with shopping in the covered village stores before the bus takes us back."
+            "en": "In the morning, we wait under the shelter at the bus stop. At noon, we dive deep into the history of the dry castle with the audio guide. In the afternoon, the garden walk is shorter due to the rain. The day ends with shopping in the covered village stores before the bus takes us back.",
+            "fr": "Le matin, nous attendons à l'abri à l'arrêt de bus. À midi, nous plongeons dans l'histoire du château bien au sec avec l'audioguide. L'après-midi, la promenade au jardin est écourtée par la pluie. La journée se termine par du shopping dans les boutiques couvertes du village avant que le bus ne nous ramène."
           },
           "stops": [
             {
@@ -2809,7 +3071,8 @@
                 "de": "Fahrplan online prüfen, um Wartezeit im Regen zu minimieren.",
                 "hu": "Ellenőrizze a menetrendet, hogy keveset várjon az esőben.",
                 "ro": "Verificați programul online pentru a nu aștepta în ploaie.",
-                "en": "Check the schedule online to minimize waiting in the rain."
+                "en": "Check the schedule online to minimize waiting in the rain.",
+                "fr": "Consultez les horaires en ligne pour minimiser l'attente sous la pluie."
               }
             },
             {
@@ -2818,7 +3081,8 @@
                 "de": "Audioguide ermöglicht individuelles Tempo bei Regen.",
                 "hu": "Az audioguide egyéni tempót tesz lehetővé az esőben.",
                 "ro": "Audioghidul permite un ritm individual pe ploaie.",
-                "en": "The audio guide allows for an individual pace during rain."
+                "en": "The audio guide allows for an individual pace during rain.",
+                "fr": "L'audioguide permet un rythme individuel pendant la pluie."
               }
             },
             {
@@ -2827,7 +3091,8 @@
                 "de": "Nutzen Sie die überdachten Bereiche des Cafés.",
                 "hu": "Használja a kávézó fedett részeit.",
                 "ro": "Folosiți zonele acoperite ale cafenelei.",
-                "en": "Use the covered areas of the cafe."
+                "en": "Use the covered areas of the cafe.",
+                "fr": "Utilisez les zones couvertes du café."
               }
             },
             {
@@ -2836,7 +3101,8 @@
                 "de": "Hauptwege nutzen, um Matsch zu vermeiden.",
                 "hu": "Használja a főutakat a sár elkerülése érdekében.",
                 "ro": "Folosiți aleile principale pentru a evita noroiul.",
-                "en": "Use main paths to avoid mud."
+                "en": "Use main paths to avoid mud.",
+                "fr": "Utilisez les chemins principaux pour éviter la boue."
               }
             },
             {
@@ -2845,7 +3111,8 @@
                 "de": "Boote sind meist nicht überdacht, Schirm mitnehmen.",
                 "hu": "A csónakok többnyire nem fedettek, vigyen ernyőt.",
                 "ro": "Bărcile nu sunt acoperite, luați o umbrelă.",
-                "en": "Boats are mostly uncovered, bring an umbrella."
+                "en": "Boats are mostly uncovered, bring an umbrella.",
+                "fr": "Les barques sont pour la plupart non couvertes, prévoyez un parapluie."
               }
             },
             {
@@ -2854,7 +3121,8 @@
                 "de": "Ideale Zeit, um lokale Spezialitäten zu kaufen.",
                 "hu": "Ideális időpont a helyi specialitások vásárlására.",
                 "ro": "Moment ideal pentru a cumpăra specialități locale.",
-                "en": "Ideal time to buy local specialties."
+                "en": "Ideal time to buy local specialties.",
+                "fr": "Moment idéal pour acheter des spécialités locales."
               }
             }
           ],
@@ -2886,6 +3154,13 @@
               "Waterproof clothing is more important than an umbrella.",
               "The boat trip may be cancelled in heavy rain.",
               "There are plenty of dry seating areas inside the castle."
+            ],
+            "fr": [
+              "Les bus navettes sont chauffés en hiver.",
+              "Achetez vos billets en ligne pour éviter de faire la queue sous la pluie.",
+              "Des vêtements imperméables sont plus importants qu'un parapluie.",
+              "La promenade en barque peut être annulée en cas de forte pluie.",
+              "Il y a de nombreux coins salons secs à l'intérieur du château."
             ]
           }
         },
@@ -2894,7 +3169,8 @@
             "de": "Morgens ist die Fahrt mit der Navette durch den kahlen Park stimmungsvoll. Mittags genießen wir die Wärme im Schloss bei einer ausgiebigen Tour. Nachmittags bewundern wir die geometrischen Gärten im Reif, bevor wir die Bootsfahrt gegen einen heißen Tee tauschen. Der Tag endet mit einem gemütlichen Einkaufsbummel vor der Heimfahrt.",
             "hu": "Reggel a Navette útja a kopár parkon át hangulatos. Délben a kastély melegében élvezzük a hosszú túrát. Délután a zúzmarás geometrikus kertekben gyönyörködünk, majd a csónakázást forró teára cseréljük. A napot egy kényelmes vásárlással zárjuk a hazautazás előtt.",
             "ro": "Dimineața drumul cu Navette prin parcul golaș este atmosferic. La prânz ne bucurăm de căldura din castel în timpul unui tur lung. După-amiaza admirăm grădinile geometrice brumate, apoi schimbăm barca pe un ceai fierbinte. Ziua se încheie cu cumpărături relaxante înainte de plecare.",
-            "en": "In the morning, the Navette ride through the bare park is atmospheric. At noon, we enjoy the warmth of the castle during a long tour. In the afternoon, we admire the frosted geometric gardens, then swap the boat trip for a hot tea. The day ends with a relaxed shopping trip before heading home."
+            "en": "In the morning, the Navette ride through the bare park is atmospheric. At noon, we enjoy the warmth of the castle during a long tour. In the afternoon, we admire the frosted geometric gardens, then swap the boat trip for a hot tea. The day ends with a relaxed shopping trip before heading home.",
+            "fr": "Le matin, le trajet en navette à travers le parc dépouillé est atmosphérique. À midi, nous profitons de la chaleur du château lors d'une longue visite. L'après-midi, nous admirons les jardins géométriques givrés, puis troquons la promenade en barque contre un thé chaud. La journée se termine par un shopping détendu avant de rentrer."
           },
           "stops": [
             {
@@ -2903,7 +3179,8 @@
                 "de": "Pünktlich sein, um nicht in der Kälte zu warten.",
                 "hu": "Legyen pontos, hogy ne kelljen a hidegben várnia.",
                 "ro": "Fiți punctuali pentru a nu aștepta în frig.",
-                "en": "Be punctual to avoid waiting in the cold."
+                "en": "Be punctual to avoid waiting in the cold.",
+                "fr": "Soyez ponctuel pour éviter d'attendre dans le froid."
               }
             },
             {
@@ -2912,7 +3189,8 @@
                 "de": "Informative Tour in beheizten Räumen genießen.",
                 "hu": "Élvezze az informatív túrát a fűtött termekben.",
                 "ro": "Bucurați-vă de turul informativ în sălile încălzite.",
-                "en": "Enjoy the informative tour in heated rooms."
+                "en": "Enjoy the informative tour in heated rooms.",
+                "fr": "Profitez de la visite instructive dans des salles chauffées."
               }
             },
             {
@@ -2921,7 +3199,8 @@
                 "de": "Ein heißes Getränk ist hier sehr willkommen.",
                 "hu": "Egy forró ital itt nagyon jólesik.",
                 "ro": "O băutură fierbinte este binevenită aici.",
-                "en": "A hot drink is very welcome here."
+                "en": "A hot drink is very welcome here.",
+                "fr": "Une boisson chaude est très bienvenue ici."
               }
             },
             {
@@ -2930,7 +3209,8 @@
                 "de": "Die klare Winterluft sorgt für weite Fernsicht.",
                 "hu": "A tiszta téli levegő távoli kilátást biztosít.",
                 "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă.",
-                "en": "The clear winter air provides long-distance views."
+                "en": "The clear winter air provides long-distance views.",
+                "fr": "L'air pur de l'hiver offre des vues lointaines."
               }
             },
             {
@@ -2939,7 +3219,8 @@
                 "de": "Im Winter oft nur eingeschränkter Betrieb.",
                 "hu": "Télen gyakran csak korlátozottan üzemel.",
                 "ro": "Iarna funcționarea este adesea limitată.",
-                "en": "Often limited operation in winter."
+                "en": "Often limited operation in winter.",
+                "fr": "Fonctionnement souvent limité en hiver."
               }
             },
             {
@@ -2948,7 +3229,8 @@
                 "de": "Wärmen Sie sich im Laden vor der Busfahrt auf.",
                 "hu": "Melegedjen fel az üzletben a buszindulás előtt.",
                 "ro": "Încălziți-vă în magazin înainte de plecarea autobuzului.",
-                "en": "Warm up in the shop before your bus ride."
+                "en": "Warm up in the shop before your bus ride.",
+                "fr": "Réchauffez-vous dans la boutique avant votre trajet en bus."
               }
             }
           ],
@@ -2980,6 +3262,13 @@
               "Combine your visit with a hot chocolate.",
               "The last bus often departs around 5:30 PM.",
               "A hat and scarf are advisable because of the wind."
+            ],
+            "fr": [
+              "Les bus circulent moins fréquemment en hiver, vérifiez le plan.",
+              "Les zones d'attente sont souvent sans protection contre le vent.",
+              "Combinez votre visite avec un chocolat chaud.",
+              "Le dernier bus part souvent vers 17h30.",
+              "Un bonnet et une écharpe sont conseillés à cause du vent."
             ]
           }
         }

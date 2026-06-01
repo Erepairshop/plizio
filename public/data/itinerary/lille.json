@@ -31,7 +31,8 @@
             "de": "Besuchen Sie die Buchhandlung Furet du Nord direkt am Platz.",
             "hu": "Nézze meg a Furet du Nord könyvesboltot a téren.",
             "ro": "Vizitați librăria Furet du Nord direct în piață.",
-            "en": "Visit the Furet du Nord bookstore right on the square."
+            "en": "Visit the Furet du Nord bookstore right on the square.",
+            "fr": "Visitez la librairie Furet du Nord directement sur la place."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Suchen Sie im Innenhof nach alten Büchern und Schachspielern.",
             "hu": "Keressen antik könyveket és sakkozókat a belső udvarban.",
             "ro": "Căutați cărți vechi și jucători de șah în curtea interioară.",
-            "en": "Look for old books and chess players in the inner courtyard."
+            "en": "Look for old books and chess players in the inner courtyard.",
+            "fr": "Cherchez des livres anciens et des joueurs d'échecs dans la cour intérieure."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die moderne Fassade von innen bei Sonnenlicht.",
             "hu": "Csodálja meg a modern homlokzatot belülről, napfényben.",
             "ro": "Admirați fațada modernă din interior în lumina soarelui.",
-            "en": "Admire the modern facade from the inside in sunlight."
+            "en": "Admire the modern facade from the inside in sunlight.",
+            "fr": "Admirez la façade moderne de l'intérieur sous la lumière du soleil."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein ehemaliges Krankenhaus mit wunderschönen flämischen Fliesen.",
             "hu": "Egykori kórház gyönyörű flamand csempékkel.",
             "ro": "Un fost spital cu plăci ceramice flamande superbe.",
-            "en": "A former hospital with beautiful Flemish tiles."
+            "en": "A former hospital with beautiful Flemish tiles.",
+            "fr": "Un ancien hôpital avec de magnifiques carreaux flamands."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Spazieren Sie entlang der sternförmigen Festungsmauern von Vauban.",
             "hu": "Sétáljon a Vauban által tervezett csillag alakú erőd falain.",
             "ro": "Plimbați-vă de-a lungul zidurilor cetății în formă de stea ale lui Vauban.",
-            "en": "Walk along the star-shaped fortress walls by Vauban."
+            "en": "Walk along the star-shaped fortress walls by Vauban.",
+            "fr": "Marchez le long des remparts en forme d'étoile de Vauban."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Eines der größten Kunstmuseen Frankreichs außerhalb von Paris.",
             "hu": "Franciaország egyik legnagyobb művészeti múzeuma Párizson kívül.",
             "ro": "Unul dintre cele mai mari muzee de artă din Franța în afara Parisului.",
-            "en": "One of the largest art museums in France outside Paris."
+            "en": "One of the largest art museums in France outside Paris.",
+            "fr": "L'un des plus grands musées d'art de France hors Paris."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Lille auf dem Grand Place, umgeben von prächtiger flämischer Architektur. Besuchen Sie die Vieille Bourse, wo Sie im Innenhof in alten Büchern stöbern können. Mittags erkunden Sie die Gassen der Altstadt und die beeindruckende moderne Kathedrale.\n\nAm Nachmittag führt Sie ein entspannter Spaziergang zur majestätischen Zitadelle von Vauban. Genießen Sie die grüne Lunge der Stadt und die historische Festungsanlage. Den Abschluss bildet ein Besuch im Palais des Beaux-Arts, bevor Sie den Abend in einer typischen Brasserie im Viertel Saint-Michel ausklingen lassen.",
         "hu": "Kezdje a napot Lille szívében, a Grand Place-on, amelyet pompás flamand építészet vesz körül. Látogasson el a Vieille Bourse-ba, ahol a belső udvarban régi könyvek között böngészhet. Délben fedezze fel az óváros szűk utcáit és a lenyűgöző modern katedrálist.\n\nDélután egy pihentető séta vezet a Vauban által tervezett fenséges citadellához. Élvezze a város zöld tüdejét és a történelmi erődítményt. A napot a Palais des Beaux-Arts látogatása zárja, mielőtt az estét egy tipikus sörözőben töltené a Saint-Michel negyedben.",
         "ro": "Începeți ziua în inima orașului Lille, în Grand Place, înconjurată de o arhitectură flamandă magnifică. Vizitați Vieille Bourse, unde puteți răsfoi cărți vechi în curtea interioară. La prânz, explorați străzile înguste ale orașului vechi și impresionanta catedrală modernă.\n\nDupă-amiaza, o plimbare relaxantă vă va duce la maiestuoasa Citadelă a lui Vauban. Bucurați-vă de plămânul verde al orașului și de fortificația istorică. Finalul este marcat de o vizită la Palais des Beaux-Arts, înainte de a încheia seara într-o braserie tipică din cartierul Saint-Michel.",
-        "en": "Start your day in the heart of Lille at the Grand Place, surrounded by magnificent Flemish architecture. Visit the Vieille Bourse, where you can browse old books in the inner courtyard. At noon, explore the narrow streets of the old town and the impressive modern cathedral.\n\nIn the afternoon, a relaxing walk takes you to the majestic Citadel of Vauban. Enjoy the city's green lung and the historical fortification. The day concludes with a visit to the Palais des Beaux-Arts before spending the evening in a typical brasserie in the Saint-Michel district."
+        "en": "Start your day in the heart of Lille at the Grand Place, surrounded by magnificent Flemish architecture. Visit the Vieille Bourse, where you can browse old books in the inner courtyard. At noon, explore the narrow streets of the old town and the impressive modern cathedral.\n\nIn the afternoon, a relaxing walk takes you to the majestic Citadel of Vauban. Enjoy the city's green lung and the historical fortification. The day concludes with a visit to the Palais des Beaux-Arts before spending the evening in a typical brasserie in the Saint-Michel district.",
+        "fr": "Commencez votre journée au cœur de Lille sur la Grand Place, entourée d'une magnifique architecture flamande. Visitez la Vieille Bourse, où vous pourrez chiner des livres anciens dans la cour intérieure. À midi, explorez les rues étroites du Vieux Lille et son impressionnante cathédrale moderne.\n\nL'après-midi, une promenade relaxante vous mènera à la majestueuse Citadelle de Vauban. Profitez du poumon vert de la ville et des fortifications historiques. La journée s'achève par une visite au Palais des Beaux-Arts avant de passer la soirée dans une brasserie typique du quartier Saint-Michel."
       },
       "gastro_picks": {
         "de": [
@@ -187,6 +194,20 @@
             "name": "Gaufres Meert",
             "tip": "Filled waffles at the historic Meert pastry shop since 1761."
           }
+        ],
+        "fr": [
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Ragoût de bœuf à la bière, à tester à l'Estaminet Chez la Vieille."
+          },
+          {
+            "name": "Le Welsh",
+            "tip": "Fromage fondu sur du pain avec jambon et œuf, un must dans le Vieux Lille."
+          },
+          {
+            "name": "Gaufres Meert",
+            "tip": "Gaufres fourrées de la pâtisserie historique Meert, ouverte depuis 1761."
+          }
         ]
       },
       "quiet_picks": {
@@ -237,6 +258,18 @@
             "tip": "English garden with small grottoes and waterfalls.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Parc de la Citadelle",
+            "tip": "Promenade tranquille le long des canaux.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardin Vauban",
+            "tip": "Jardin à l'anglaise avec de petites grottes et des cascades.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -279,6 +312,16 @@
             "name": "Furet du Nord",
             "tip": "One of the largest bookstores in Europe on Grand Place."
           }
+        ],
+        "fr": [
+          {
+            "name": "Vieux Lille",
+            "tip": "Boutiques de luxe et galeries d'art dans les rues pavées."
+          },
+          {
+            "name": "Furet du Nord",
+            "tip": "L'une des plus grandes librairies d'Europe, située sur la Grand Place."
+          }
         ]
       },
       "tips": {
@@ -305,6 +348,12 @@
           "Try the local beer; the region is famous for its brewing tradition.",
           "Look for 'Estaminets', the traditional Flemish restaurants.",
           "On Sundays, the Wazemmes market is a must for local atmosphere."
+        ],
+        "fr": [
+          "Lille se prête parfaitement à l'exploration à pied car le centre est compact.",
+          "Goûtez la bière locale ; la région est célèbre pour sa tradition brassicole.",
+          "Cherchez les « Estaminets », les restaurants flamands traditionnels.",
+          "Le dimanche, le marché de Wazemmes est un incontournable pour l'ambiance locale."
         ]
       },
       "variants": {
@@ -553,7 +602,8 @@
             "de": "Beginnen Sie Ihren Tag im Schutz der prächtigen Bögen am Grand Place. Das historische Zentrum von Lille bietet viele Passagen und Cafés, um dem Regen zu entkommen. Mittags wärmt eine herzhafte Carbonnade in einer gemütlichen Brasserie. Der Nachmittag gehört den Museen: Das Hospice Comtesse und der Palais des Beaux-Arts bieten stundenlange kulturelle Entdeckungen im Trockenen.",
             "hu": "Kezdje a napot a Grand Place boltívei alatt, ahol menedéket talál az eső elől. Lille óvárosa tele van hangulatos passzázsokkal és kávézókkal, amelyek tökéletesek egy rövid pihenőre. Ebédre válasszon egy meleg Carbonnade-ot egy helyi brasserie-ben. A délutánt töltse múzeumlátogatással: a Hospice Comtesse és a Szépművészeti Palota órákig tartó kulturális élményt nyújt fedett helyen.",
             "ro": "Începeți ziua sub arcadele din Grand Place, oferind adăpost împotriva ploii. Centrul istoric din Lille are numeroase pasaje și cafenele primitoare. La prânz, savurați o Carbonnade caldă într-o braserie locală. După-amiaza este dedicată muzeelor: Hospice Comtesse și Palais des Beaux-Arts oferă ore întregi de explorare culturală la adăpost de intemperii.",
-            "en": "Start your day under the protective arches of Grand Place. Lille's historic center is full of passages and cozy cafes to escape the rain. For lunch, enjoy a warm Carbonnade in a local brasserie. Spend the afternoon museum-hopping: Hospice Comtesse and the Palais des Beaux-Arts offer hours of cultural discovery while staying perfectly dry."
+            "en": "Start your day under the protective arches of Grand Place. Lille's historic center is full of passages and cozy cafes to escape the rain. For lunch, enjoy a warm Carbonnade in a local brasserie. Spend the afternoon museum-hopping: Hospice Comtesse and the Palais des Beaux-Arts offer hours of cultural discovery while staying perfectly dry.",
+            "fr": "Commencez votre journée sous les arches protectrices de la Grand Place. Le centre historique de Lille regorge de passages et de cafés accueillants pour échapper à la pluie. Pour le déjeuner, savourez une Carbonnade bien chaude dans une brasserie locale. Passez l'après-midi à faire le tour des musées : l'Hospice Comtesse et le Palais des Beaux-Arts offrent des heures de découverte culturelle tout en restant parfaitement au sec."
           },
           "stops": [
             {
@@ -562,7 +612,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
                 "hu": "Használja a környező épületek árkádjait az eső elleni védelemhez.",
                 "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
-                "en": "Use the arches of the surrounding buildings for rain protection."
+                "en": "Use the arches of the surrounding buildings for rain protection.",
+                "fr": "Utilisez les arches des bâtiments environnants pour vous protéger de la pluie."
               }
             },
             {
@@ -571,7 +622,8 @@
                 "de": "Der Innenhof ist teilweise überdacht, ideal für Bücherstöbern.",
                 "hu": "A belső udvar részben fedett, ideális a könyvek böngészéséhez.",
                 "ro": "Curtea interioară este parțial acoperită, ideală pentru răsfoit cărți.",
-                "en": "The inner courtyard is partially covered, ideal for browsing books."
+                "en": "The inner courtyard is partially covered, ideal for browsing books.",
+                "fr": "La cour intérieure est partiellement couverte, idéale pour feuilleter des livres."
               }
             },
             {
@@ -580,7 +632,8 @@
                 "de": "Die moderne Fassade leuchtet bei grauem Himmel besonders mystisch.",
                 "hu": "A modern homlokzat szürke égbolt mellett különösen misztikusan fest.",
                 "ro": "Fațada modernă arată deosebit de mistic sub cerul cenușiu.",
-                "en": "The modern facade looks particularly mystical under grey skies."
+                "en": "The modern facade looks particularly mystical under grey skies.",
+                "fr": "La façade moderne semble particulièrement mystique sous un ciel gris."
               }
             },
             {
@@ -589,7 +642,8 @@
                 "de": "Ein perfekter Ort, um die nächsten 90 Minuten im Trockenen zu verbringen.",
                 "hu": "Tökéletes hely a következő 90 perc szárazon töltésére.",
                 "ro": "Un loc perfect pentru a petrece următoarele 90 de minute la adăpost.",
-                "en": "A perfect place to spend the next 90 minutes staying dry."
+                "en": "A perfect place to spend the next 90 minutes staying dry.",
+                "fr": "Un endroit parfait pour passer les 90 prochaines minutes au sec."
               }
             },
             {
@@ -598,7 +652,8 @@
                 "de": "Die asphaltierten Wege vermeiden Schlamm bei Regenwetter.",
                 "hu": "Az aszfaltozott utaknak köszönhetően elkerülhető a sár esőben.",
                 "ro": "Potecile asfaltate permit evitarea noroiului pe timp de ploaie.",
-                "en": "The paved paths allow you to avoid mud during rainy weather."
+                "en": "The paved paths allow you to avoid mud during rainy weather.",
+                "fr": "Les sentiers pavés permettent d'éviter la boue par temps pluvieux."
               }
             },
             {
@@ -607,7 +662,8 @@
                 "de": "Nutzen Sie die Garderobe, um nasse Mäntel und Schirme abzugeben.",
                 "hu": "Használja a ruhatárat a vizes kabátok és esernyők leadásához.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele ude și umbrelele.",
-                "en": "Use the cloakroom to drop off wet coats and umbrellas."
+                "en": "Use the cloakroom to drop off wet coats and umbrellas.",
+                "fr": "Utilisez le vestiaire pour déposer vos manteaux et parapluies mouillés."
               }
             }
           ],
@@ -639,6 +695,13 @@
               "Take advantage of the many cafes in Vieux Lille for warm-up breaks.",
               "A compact umbrella is mandatory given Lille's unpredictable weather.",
               "Museums are busier on rainy days, consider booking tickets online."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables car les pavés peuvent être glissants.",
+              "Les passages près de la Grand Place offrent une bonne protection contre les averses.",
+              "Profitez des nombreux cafés du Vieux Lille pour des pauses réconfortantes.",
+              "Un parapluie compact est indispensable vu la météo imprévisible de Lille.",
+              "Les musées sont plus fréquentés les jours de pluie, pensez à réserver en ligne."
             ]
           }
         },
@@ -647,7 +710,8 @@
             "de": "Erleben Sie Lille im Winterzauber, wenn die Stadt festlich beleuchtet ist. Beginnen Sie auf dem Grand Place, wo oft ein Riesenrad steht. Wärmen Sie sich mittags bei einer Suppe auf dem Markt auf. Da es früh dunkel wird, bieten die Museen am Nachmittag eine gemütliche Zuflucht. Den Abend lassen Sie bei einem Glas lokalem Bier in einer warmen Stube ausklingen.",
             "hu": "Fedezze fel Lille téli varázsát a díszes kivilágítások közepette. Kezdjen a Grand Place-on, ahol gyakran óriáskerék üzemel. Ebédre egyen egy forró levest a piacon a felmelegedéshez. Mivel korán sötétedik, a délutáni múzeumlátogatás meghitt menedéket nyújt. Az estét zárja egy pohár helyi sörrel egy fűtött belvárosi kocsmában.",
             "ro": "Experimentați farmecul iernii în Lille, când orașul este luminat festiv. Începeți în Grand Place, unde adesea este instalată o roată panoramică. La prânz, încălziți-vă cu o supă caldă în piață. Deoarece se întunecă devreme, muzeele oferă un refugiu primitor după-amiaza. Încheiați seara cu o bere locală într-o locație călduroasă.",
-            "en": "Experience Lille's winter magic with festive lights decorating the city. Start at Grand Place, often home to a giant Ferris wheel. Warm up with a hot soup at the market for lunch. As darkness falls early, the afternoon museums provide a cozy sanctuary. End your evening with a glass of local beer in a warm, traditional pub."
+            "en": "Experience Lille's winter magic with festive lights decorating the city. Start at Grand Place, often home to a giant Ferris wheel. Warm up with a hot soup at the market for lunch. As darkness falls early, the afternoon museums provide a cozy sanctuary. End your evening with a glass of local beer in a warm, traditional pub.",
+            "fr": "Découvrez la magie de l'hiver à Lille avec les illuminations festives décorant la ville. Commencez par la Grand Place, qui accueille souvent une grande roue géante. Réchauffez-vous avec une soupe chaude au marché pour le déjeuner. Comme la nuit tombe tôt, les musées de l'après-midi offrent un sanctuaire douillet. Terminez votre soirée avec une bière locale dans un pub traditionnel chaleureux."
           },
           "stops": [
             {
@@ -656,7 +720,8 @@
                 "de": "Genießen Sie den Blick vom Riesenrad auf die beleuchtete Stadt.",
                 "hu": "Élvezze a kilátást az óriáskerékről a kivilágított városra.",
                 "ro": "Bucurați-vă de vederea din roata panoramică asupra orașului luminat.",
-                "en": "Enjoy the view from the Ferris wheel over the illuminated city."
+                "en": "Enjoy the view from the Ferris wheel over the illuminated city.",
+                "fr": "Profitez de la vue sur la ville illuminée depuis la grande roue."
               }
             },
             {
@@ -665,7 +730,8 @@
                 "de": "Suchen Sie nach Schätzen bei den Buchhändlern im geschützten Hof.",
                 "hu": "Keressen kincseket a könyvárusoknál a védett belső udvarban.",
                 "ro": "Căutați comori la vânzătorii de cărți din curtea protejată.",
-                "en": "Search for treasures at the book sellers in the sheltered courtyard."
+                "en": "Search for treasures at the book sellers in the sheltered courtyard.",
+                "fr": "Cherchez des trésors chez les bouquinistes dans la cour abritée."
               }
             },
             {
@@ -674,7 +740,8 @@
                 "de": "Ein friedlicher, beheizter Ort für eine kurze Rast.",
                 "hu": "Békés, fűtött helyszín egy rövid pihenőhöz.",
                 "ro": "Un loc liniștit și încălzit pentru un scurt popas.",
-                "en": "A peaceful, heated spot for a short rest."
+                "en": "A peaceful, heated spot for a short rest.",
+                "fr": "Un endroit paisible et chauffé pour un court repos."
               }
             },
             {
@@ -683,7 +750,8 @@
                 "de": "Die historischen Räume wirken im Winterlicht besonders stimmungsvoll.",
                 "hu": "A történelmi termek téli fényben különösen hangulatosak.",
                 "ro": "Sălile istorice par extrem de atmosferice în lumina iernii.",
-                "en": "The historic rooms look particularly atmospheric in winter light."
+                "en": "The historic rooms look particularly atmospheric in winter light.",
+                "fr": "Les salles historiques sont particulièrement atmosphériques sous la lumière hivernale."
               }
             },
             {
@@ -692,7 +760,8 @@
                 "de": "Perfekt für einen erfrischenden Winterspaziergang; warm anziehen!",
                 "hu": "Tökéletes egy frissítő téli sétához; öltözzön fel melegen!",
                 "ro": "Perfect pentru o plimbare revigorantă de iarnă; îmbrăcați-vă bine!",
-                "en": "Perfect for a refreshing winter walk; dress warmly!"
+                "en": "Perfect for a refreshing winter walk; dress warmly!",
+                "fr": "Parfait pour une promenade hivernale revigorante ; habillez-vous chaudement !"
               }
             },
             {
@@ -701,7 +770,8 @@
                 "de": "Ideal, um den kalten Abendstunden drinnen zu entfliehen.",
                 "hu": "Ideális hely a hideg esti órák elöli menekülésre.",
                 "ro": "Ideal pentru a scăpa de frigul serii în interior.",
-                "en": "Ideal for escaping the cold evening hours indoors."
+                "en": "Ideal for escaping the cold evening hours indoors.",
+                "fr": "Idéal pour échapper aux froides heures de la soirée en intérieur."
               }
             }
           ],
@@ -733,6 +803,13 @@
               "Visit the Christmas market at Place Rihour.",
               "Order a hot chocolate in one of the many artisanal pâtisseries.",
               "Pavements can be icy and slippery in the early morning."
+            ],
+            "fr": [
+              "Le soleil se couche vers 17h00, planifiez vos activités de plein air plus tôt.",
+              "Portez des couches thermiques ; le vent du Nord peut être cinglant.",
+              "Visitez le marché de Noël sur la place Rihour.",
+              "Commandez un chocolat chaud dans l'une des nombreuses pâtisseries artisanales.",
+              "Les trottoirs peuvent être verglacés et glissants tôt le matin."
             ]
           }
         }
@@ -761,7 +838,8 @@
             "de": "Startpunkt mit V'Lille Leihrädern.",
             "hu": "Indulópont V'Lille bérbiciklikkel.",
             "ro": "Punct de plecare cu biciclete de închiriat V'Lille.",
-            "en": "Starting point with V'Lille rental bikes."
+            "en": "Starting point with V'Lille rental bikes.",
+            "fr": "Point de départ avec des vélos en libre-service V'Lille."
           }
         },
         {
@@ -779,7 +857,8 @@
             "de": "Besonders lebhaft am Sonntagvormittag.",
             "hu": "Különösen élénk vasárnap délelőtt.",
             "ro": "Foarte plin de viață duminică dimineața.",
-            "en": "Especially lively on Sunday mornings."
+            "en": "Especially lively on Sunday mornings.",
+            "fr": "Particulièrement animé le dimanche matin."
           }
         },
         {
@@ -797,7 +876,8 @@
             "de": "Fahrradabstellplätze direkt vor dem Museum.",
             "hu": "Biciklitárolók közvetlenül a múzeum előtt.",
             "ro": "Parcare pentru biciclete chiar în fața muzeului.",
-            "en": "Bike parking right in front of the museum."
+            "en": "Bike parking right in front of the museum.",
+            "fr": "Parking vélo juste devant le musée."
           }
         },
         {
@@ -815,7 +895,8 @@
             "de": "Breite Wege ideal zum Radfahren im Grünen.",
             "hu": "Széles utak, ideális biciklizéshez a zöldben.",
             "ro": "Alei late ideale pentru ciclism în natură.",
-            "en": "Wide paths ideal for cycling in the greenery."
+            "en": "Wide paths ideal for cycling in the greenery.",
+            "fr": "Larges allées idéales pour pédaler au vert."
           }
         },
         {
@@ -833,7 +914,8 @@
             "de": "Ehemaliger Güterbahnhof, heute Kulturzentrum.",
             "hu": "Egykori teherpályaudvar, ma kulturális központ.",
             "ro": "Fostă gară de mărfuri, astăzi centru cultural.",
-            "en": "Former freight station, now a cultural center."
+            "en": "Former freight station, now a cultural center.",
+            "fr": "Ancienne gare de fret, aujourd'hui centre culturel."
           }
         }
       ],
@@ -841,7 +923,8 @@
         "de": "Erkunden Sie Lille auf zwei Rädern! Starten Sie am Grand Place und radeln Sie zum lebhaften Markt von Wazemmes. Nach einer kulturellen Pause im Palais des Beaux-Arts genießen Sie die Natur im großen Parc de la Citadelle, der perfekt mit dem Fahrrad zu erkunden ist. Den Abschluss bildet die Gare Saint-Sauveur mit ihren Ausstellungen.",
         "hu": "Fedezze fel Lillét két keréken! Kezdje a Grand Place-on, majd tekerjen a nyüzsgő wazemmes-i piachoz. Egy kis kulturális szünet után a Palais des Beaux-Arts-ban, élvezze a természetet a Citadella parkban, amely tökéletes biciklizéshez. A napot a Gare Saint-Sauveur kiállításai zárják.",
         "ro": "Explorați Lille pe două roți! Începeți în Grand Place și pedalați până la piața plină de viață din Wazemmes. După o pauză culturală la Palais des Beaux-Arts, bucurați-vă de natură în marele Parc de la Citadelle, perfect pentru explorat cu bicicleta. Finalul aparține Gare Saint-Sauveur și expozițiilor sale.",
-        "en": "Explore Lille on two wheels! Start at Grand Place and cycle to the lively Wazemmes market. After a cultural break at Palais des Beaux-Arts, enjoy nature in the large Parc de la Citadelle, perfect for cycling. The trip ends at Gare Saint-Sauveur with its exhibitions."
+        "en": "Explore Lille on two wheels! Start at Grand Place and cycle to the lively Wazemmes market. After a cultural break at Palais des Beaux-Arts, enjoy nature in the large Parc de la Citadelle, perfect for cycling. The trip ends at Gare Saint-Sauveur with its exhibitions.",
+        "fr": "Explorez Lille sur deux roues ! Partez de la Grand Place pour rejoindre le quartier animé du marché de Wazemmes. Après une pause culturelle au Palais des Beaux-Arts, profitez de la nature dans le vaste Parc de la Citadelle, idéal pour le vélo. Le périple s'achève à la Gare Saint-Sauveur et ses expositions."
       },
       "gastro_picks": {
         "de": [
@@ -883,6 +966,16 @@
             "name": "Bistrot Saint So",
             "tip": "Dining in an industrial setting at Gare Saint-Sauveur."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché de Wazemmes",
+            "tip": "Poulet rôti avec frites ou fromages locaux."
+          },
+          {
+            "name": "Bistrot Saint So",
+            "tip": "Dîner dans un cadre industriel à la Gare Saint-Sauveur."
+          }
         ]
       },
       "quiet_picks": {
@@ -913,6 +1006,13 @@
             "tip": "Bike path along the water.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Canal de la Deûle",
+            "tip": "Piste cyclable au bord de l'eau.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -939,6 +1039,12 @@
             "name": "Wazemmes",
             "tip": "Affordable clothing and international food."
           }
+        ],
+        "fr": [
+          {
+            "name": "Wazemmes",
+            "tip": "Vêtements abordables et cuisine internationale."
+          }
         ]
       },
       "tips": {
@@ -961,6 +1067,11 @@
           "Use the V'Lille system with many stations across the city.",
           "The Citadel offers the most beautiful green bike paths.",
           "Watch out for cobblestones in Vieux Lille."
+        ],
+        "fr": [
+          "Utilisez le système V'Lille avec ses nombreuses stations à travers la ville.",
+          "La Citadelle offre les plus belles pistes cyclables verdoyantes.",
+          "Faites attention aux pavés dans le Vieux Lille."
         ]
       },
       "variants": {
@@ -1144,7 +1255,8 @@
             "de": "Lille lässt sich auch bei Regen mit dem Rad erkunden, dank guter Radwege. Starten Sie vorsichtig am Grand Place. Der Wazemmes-Markt bietet eine riesige Markthalle zum Unterstellen. Am Nachmittag führt die Route zum Parc de la Citadelle, wo die Bäume etwas Schutz bieten. Beenden Sie die Tour an der Gare Saint-Sauveur, die viel überdachten Raum für Ausstellungen bietet.",
             "hu": "Lille esőben is felfedezhető kerékpárral a jó kerékpárutaknak köszönhetően. Kezdjen óvatosan a Grand Place-on. A Wazemmes piac hatalmas csarnoka kiváló menedék. Délután az út a Citadella parkba vezet, ahol a fák némi védelmet nyújtanak. Zárja a túrát a Gare Saint-Sauveur-nél, ahol számos fedett kiállítótér várja.",
             "ro": "Lille poate fi explorat cu bicicleta chiar și pe ploaie, datorită pistelor bune. Începeți cu prudență din Grand Place. Piața Wazemmes oferă o hală mare pentru adăpost. După-amiaza, ruta duce spre Parcul Citadellei, unde copacii oferă puțină protecție. Încheiați turul la Gare Saint-Sauveur, care are multe spații expoziționale acoperite.",
-            "en": "Lille is bikeable even in the rain thanks to its solid cycling network. Start carefully from Grand Place. Wazemmes Market offers a large indoor hall to take cover. In the afternoon, ride to Parc de la Citadelle where trees provide some shelter. End your trip at Gare Saint-Sauveur, which features plenty of indoor exhibition space."
+            "en": "Lille is bikeable even in the rain thanks to its solid cycling network. Start carefully from Grand Place. Wazemmes Market offers a large indoor hall to take cover. In the afternoon, ride to Parc de la Citadelle where trees provide some shelter. End your trip at Gare Saint-Sauveur, which features plenty of indoor exhibition space.",
+            "fr": "Lille est praticable à vélo même sous la pluie grâce à son solide réseau cyclable. Démarrez prudemment de la Grand Place. Le marché de Wazemmes propose une grande halle couverte pour s'abriter. L'après-midi, roulez vers le Parc de la Citadelle où les arbres offrent un certain abri. Terminez votre tour à la Gare Saint-Sauveur, qui dispose de nombreux espaces d'exposition en intérieur."
           },
           "stops": [
             {
@@ -1153,7 +1265,8 @@
                 "de": "Achtung: Kopfsteinpflaster ist bei Nässe extrem rutschig.",
                 "hu": "Vigyázat: a macskakő vizesen rendkívül csúszós.",
                 "ro": "Atenție: pavajul este extrem de alunecos când este ud.",
-                "en": "Caution: cobblestones are extremely slippery when wet."
+                "en": "Caution: cobblestones are extremely slippery when wet.",
+                "fr": "Attention : les pavés sont extrêmement glissants lorsqu'ils sont mouillés."
               }
             },
             {
@@ -1162,7 +1275,8 @@
                 "de": "Parken Sie Ihr Rad nah am Eingang der Markthalle.",
                 "hu": "Parkolja le a bringát a vásárcsarnok bejáratához közel.",
                 "ro": "Parcați bicicleta aproape de intrarea halei pieței.",
-                "en": "Park your bike close to the market hall entrance."
+                "en": "Park your bike close to the market hall entrance.",
+                "fr": "Garez votre vélo près de l'entrée de la halle du marché."
               }
             },
             {
@@ -1171,7 +1285,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
                 "hu": "Fedett kerékpártárolók találhatók a bejárat közelében.",
                 "ro": "Suporturile de biciclete acoperite se află lângă intrare.",
-                "en": "Covered bike racks are located near the entrance."
+                "en": "Covered bike racks are located near the entrance.",
+                "fr": "Des porte-vélos couverts sont situés près de l'entrée."
               }
             },
             {
@@ -1180,7 +1295,8 @@
                 "de": "Bleiben Sie auf den befestigten Hauptwegen, um Matsch zu vermeiden.",
                 "hu": "Maradjon a szilárd burkolatú utakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe drumurile principale pavate pentru a evita noroiul.",
-                "en": "Stick to the main paved paths to avoid mud."
+                "en": "Stick to the main paved paths to avoid mud.",
+                "fr": "Restez sur les allées pavées principales pour éviter la boue."
               }
             },
             {
@@ -1189,7 +1305,8 @@
                 "de": "Ein idealer Ort, um das Rad abzustellen und trocken Kunst zu genießen.",
                 "hu": "Ideális hely a bicikli leállítására és a száraz művészetélvezetre.",
                 "ro": "Un loc ideal pentru a lăsa bicicleta și a savura arta la uscat.",
-                "en": "An ideal spot to park the bike and enjoy art while staying dry."
+                "en": "An ideal spot to park the bike and enjoy art while staying dry.",
+                "fr": "Un endroit idéal pour garer le vélo et profiter de l'art au sec."
               }
             }
           ],
@@ -1221,6 +1338,13 @@
               "Wipe the saddle thoroughly dry before you start riding.",
               "The Wazemmes market hall is the best spot for a long rain break.",
               "Test your brakes before setting off; they respond slower in the wet."
+            ],
+            "fr": [
+              "Évitez les virages serrés sur les pavés mouillés.",
+              "Les vélos V'Lille ont des garde-boue, mais un poncho de pluie est conseillé.",
+              "Essuyez bien la selle avant de commencer à rouler.",
+              "La halle du marché de Wazemmes est le meilleur endroit pour une longue pause pluie.",
+              "Testez vos freins avant de partir ; ils répondent moins vite sous la pluie."
             ]
           }
         },
@@ -1229,7 +1353,8 @@
             "de": "Winterliches Radeln in Lille erfordert warme Handschuhe und helle Lichter. Starten Sie bei klarer Luft am Grand Place. Der Markt in Wazemmes bietet heißen Kaffee für die Radler. Nachmittags leuchten die Lichter im Citadelle-Park besonders schön in der Dämmerung. Da es früh dunkel wird, achten Sie auf Ihre Sichtbarkeit auf dem Rückweg zur Gare Saint-Sauveur.",
             "hu": "A téli biciklizés Lille-ben meleg kesztyűt és erős lámpákat igényel. Kezdjen a friss levegőn a Grand Place-on. A Wazemmes piacon forró kávé várja a kerekezőket. Délután a Citadella park fényei gyönyörűek a szürkületben. Mivel korán sötétedik, ügyeljen a láthatóságra a Gare Saint-Sauveur felé vezető úton.",
             "ro": "Ciclismul de iarnă în Lille necesită mănuși calde și lumini bune. Începeți în aerul curat din Grand Place. Piața Wazemmes oferă cafea fierbinte pentru bicicliști. După-amiaza, luminile din Parcul Citadellei sunt superbe în amurg. Deoarece se întunecă devreme, asigurați-vă că sunteți vizibil pe drumul spre Gare Saint-Sauveur.",
-            "en": "Winter cycling in Lille requires warm gloves and bright lights. Start in the crisp air at Grand Place. Wazemmes Market offers hot coffee for cyclists to recharge. In the afternoon, the lights in Citadelle Park glow beautifully in the dusk. As it gets dark early, ensure you are visible on the ride back to Gare Saint-Sauveur."
+            "en": "Winter cycling in Lille requires warm gloves and bright lights. Start in the crisp air at Grand Place. Wazemmes Market offers hot coffee for cyclists to recharge. In the afternoon, the lights in Citadelle Park glow beautifully in the dusk. As it gets dark early, ensure you are visible on the ride back to Gare Saint-Sauveur.",
+            "fr": "Le vélo en hiver à Lille nécessite des gants chauds et un bon éclairage. Partez dans l'air frais depuis la Grand Place. Le marché de Wazemmes propose des cafés chauds pour se ressourcer. L'après-midi, les lumières du parc de la Citadelle brillent magnifiquement au crépuscule. Comme il fait nuit tôt, assurez-vous d'être bien visible pour le retour vers la Gare Saint-Sauveur."
           },
           "stops": [
             {
@@ -1238,7 +1363,8 @@
                 "de": "Vorsicht vor überfrorenen Stellen im Schatten der Gebäude.",
                 "hu": "Vigyázzon az épületek árnyékában lévő lefagyott foltokkal.",
                 "ro": "Atenție la porțiunile înghețate din umbra clădirilor.",
-                "en": "Watch out for icy patches in the shadow of buildings."
+                "en": "Watch out for icy patches in the shadow of buildings.",
+                "fr": "Faites attention aux plaques de verglas à l'ombre des bâtiments."
               }
             },
             {
@@ -1247,7 +1373,8 @@
                 "de": "Ein heißer Pfefferminztee in der Halle wärmt die Hände auf.",
                 "hu": "Egy forró mentatea a csarnokban felmelegíti a kezeket.",
                 "ro": "Un ceai de mentă fierbinte în hală vă va încălzi mâinile.",
-                "en": "A hot mint tea in the hall will warm up your hands."
+                "en": "A hot mint tea in the hall will warm up your hands.",
+                "fr": "Un thé à la menthe chaud dans la halle vous réchauffera les mains."
               }
             },
             {
@@ -1256,7 +1383,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmstopp.",
                 "hu": "Használja a múzeumlátogatást bemelegítő pihenőként.",
                 "ro": "Folosiți vizita la muzeu ca o pauză pentru încălzire.",
-                "en": "Use the museum visit as a warm-up stop."
+                "en": "Use the museum visit as a warm-up stop.",
+                "fr": "Profitez de la visite du musée pour faire une pause au chaud."
               }
             },
             {
@@ -1265,7 +1393,8 @@
                 "de": "Das Licht am Nachmittag ist perfekt für Fotos; Handschuhe an!",
                 "hu": "A délutáni fények tökéletesek a fotózáshoz; tartsa fent a kesztyűt!",
                 "ro": "Lumina de după-amiază este perfectă pentru poze; țineți mănușile!",
-                "en": "The afternoon light is perfect for photos; keep your gloves on!"
+                "en": "The afternoon light is perfect for photos; keep your gloves on!",
+                "fr": "La lumière de l'après-midi est parfaite pour les photos ; gardez vos gants !"
               }
             },
             {
@@ -1274,7 +1403,8 @@
                 "de": "Prüfen Sie Ihre Lichter, bevor Sie den Heimweg antreten.",
                 "hu": "Ellenőrizze a lámpákat, mielőtt elindulna hazafelé.",
                 "ro": "Verificați luminile înainte de a porni spre casă.",
-                "en": "Check your lights before starting the ride back."
+                "en": "Check your lights before starting the ride back.",
+                "fr": "Vérifiez vos lumières avant d'entamer le trajet du retour."
               }
             }
           ],
@@ -1306,6 +1436,13 @@
               "Expect icy conditions on bridges crossing the canals.",
               "Allow more time as movement is slower in bulky winter gear.",
               "High visibility (reflectors) is crucial starting from 16:30."
+            ],
+            "fr": [
+              "Portez des gants coupe-vent pour éviter d'avoir les doigts engourdis.",
+              "Les batteries des lumières de vélo se vident plus vite par temps froid.",
+              "Attendez-vous à des conditions verglacées sur les ponts traversant les canaux.",
+              "Prévoyez plus de temps car on bouge plus lentement avec l'équipement d'hiver.",
+              "Une haute visibilité (réflecteurs) est cruciale dès 16h30."
             ]
           }
         }
@@ -1334,7 +1471,8 @@
             "de": "Großes Parkhaus direkt unter dem Einkaufszentrum.",
             "hu": "Nagy parkolóház közvetlenül a bevásárlóközpont alatt.",
             "ro": "Parcare mare direct sub centrul comercial.",
-            "en": "Large parking garage directly under the shopping center."
+            "en": "Large parking garage directly under the shopping center.",
+            "fr": "Grand parking souterrain directement sous le centre commercial."
           }
         },
         {
@@ -1352,7 +1490,8 @@
             "de": "Parken Sie im Parkhaus 'Peuple Belge'.",
             "hu": "Parkoljon a 'Peuple Belge' parkolóházban.",
             "ro": "Parcați în parcarea 'Peuple Belge'.",
-            "en": "Park in the 'Peuple Belge' parking garage."
+            "en": "Park in the 'Peuple Belge' parking garage.",
+            "fr": "Garez-vous au parking « Peuple Belge »."
           }
         },
         {
@@ -1370,7 +1509,8 @@
             "de": "Großer Parkplatz 'Champ de Mars' in der Nähe.",
             "hu": "Nagy parkoló 'Champ de Mars' a közelben.",
             "ro": "Parcare mare 'Champ de Mars' în apropiere.",
-            "en": "Large 'Champ de Mars' parking lot nearby."
+            "en": "Large 'Champ de Mars' parking lot nearby.",
+            "fr": "Grand parking du « Champ de Mars » à proximité."
           }
         },
         {
@@ -1388,7 +1528,8 @@
             "de": "Meisterwerk der modernen Architektur von Mallet-Stevens.",
             "hu": "Mallet-Stevens modern építészeti remekműve.",
             "ro": "Capodoperă a arhitecturii moderne de Mallet-Stevens.",
-            "en": "Masterpiece of modern architecture by Mallet-Stevens."
+            "en": "Masterpiece of modern architecture by Mallet-Stevens.",
+            "fr": "Chef-d'œuvre de l'architecture moderne par Mallet-Stevens."
           }
         },
         {
@@ -1406,7 +1547,8 @@
             "de": "Einzigartiges Museum in einem ehemaligen Art-Déco-Schwimmbad.",
             "hu": "Egyedülálló múzeum egy egykori Art Deco uszodában.",
             "ro": "Muzeu unic într-o fostă piscină Art Deco.",
-            "en": "Unique museum in a former Art Deco swimming pool."
+            "en": "Unique museum in a former Art Deco swimming pool.",
+            "fr": "Musée unique dans une ancienne piscine Art déco."
           }
         }
       ],
@@ -1414,7 +1556,8 @@
         "de": "Mit dem Auto entdecken Sie nicht nur das Zentrum, sondern auch die architektonischen Schätze der Umgebung. Nach dem modernen Euralille und der historischen Altstadt fahren wir zur Villa Cavrois in Croix, einer Ikone der Moderne. Den Höhepunkt bildet das Museum La Piscine in Roubaix, bevor es zurück nach Lille geht.",
         "hu": "Autóval nemcsak a központot, hanem a környék építészeti kincseit is felfedezheti. A modern Euralille és a történelmi óváros után a Croix-ban található Villa Cavrois-hoz utazunk, amely a modernizmus ikonja. A csúcspont a roubaix-i La Piscine múzeum, mielőtt visszatérnénk Lillére.",
         "ro": "Cu mașina veți descoperi nu doar centrul, ci și comorile arhitecturale din împrejurimi. După modernul Euralille și centrul istoric, mergem la Villa Cavrois din Croix, o icoană a modernismului. Punctul culminant este muzeul La Piscine din Roubaix, înainte de a reveni la Lille.",
-        "en": "By car, you will discover not only the center but also the architectural treasures of the surrounding area. After modern Euralille and the historic old town, we travel to Villa Cavrois in Croix, an icon of modernism. The highlight is the La Piscine museum in Roubaix before returning to Lille."
+        "en": "By car, you will discover not only the center but also the architectural treasures of the surrounding area. After modern Euralille and the historic old town, we travel to Villa Cavrois in Croix, an icon of modernism. The highlight is the La Piscine museum in Roubaix before returning to Lille.",
+        "fr": "En voiture, vous découvrirez non seulement le centre mais aussi les trésors architecturaux des environs. Après le quartier moderne d'Euralille et la vieille ville historique, direction la Villa Cavrois à Croix, icône du modernisme. Le point d'orgue est le musée La Piscine à Roubaix avant de revenir sur Lille."
       },
       "gastro_picks": {
         "de": [
@@ -1456,6 +1599,16 @@
             "name": "Le Barbier de Roubaix",
             "tip": "Good food near the La Piscine museum."
           }
+        ],
+        "fr": [
+          {
+            "name": "Meert",
+            "tip": "Célèbres gaufres au cœur de Lille."
+          },
+          {
+            "name": "Le Barbier de Roubaix",
+            "tip": "Bonne cuisine près du musée La Piscine."
+          }
         ]
       },
       "quiet_picks": {
@@ -1484,6 +1637,13 @@
           {
             "name": "Garden of Villa Cavrois",
             "tip": "Very quiet and well-maintained garden.",
+            "emoji": "🧘"
+          }
+        ],
+        "fr": [
+          {
+            "name": "Jardin de la Villa Cavrois",
+            "tip": "Jardin très calme et merveilleusement entretenu.",
             "emoji": "🧘"
           }
         ]
@@ -1528,6 +1688,16 @@
             "name": "L'Usine Roubaix",
             "tip": "Outlet center for bargain hunters."
           }
+        ],
+        "fr": [
+          {
+            "name": "Euralille",
+            "tip": "Immense centre commercial avec toutes les grandes enseignes."
+          },
+          {
+            "name": "L'Usine Roubaix",
+            "tip": "Centre de magasins d'usine pour les chasseurs de bonnes affaires."
+          }
         ]
       },
       "tips": {
@@ -1550,6 +1720,11 @@
           "Parking in the city center can be difficult; use parking garages.",
           "The drive to Roubaix takes about 20-30 minutes.",
           "Villa Cavrois requires a reservation for parking/visit."
+        ],
+        "fr": [
+          "Se garer en centre-ville peut être difficile ; privilégiez les parkings souterrains.",
+          "Le trajet jusqu'à Roubaix prend environ 20 à 30 minutes.",
+          "La Villa Cavrois nécessite une réservation pour le parking/la visite."
         ]
       },
       "variants": {
@@ -1749,7 +1924,8 @@
             "de": "Im Auto bleibt man in Lille trocken, muss aber mit Stau rechnen. Starten Sie bei Euralille, wo es große Tiefgaragen gibt. Das Vieux Lille erkundet man am besten zu Fuß vom Parkhaus aus. Nachmittags ist die Fahrt zur Villa Cavrois und nach Roubaix ideal, da man direkt vor den Museen parken kann und so dem Regen entkommt. Ein komfortabler Weg, die Metropolregion zu sehen.",
             "hu": "Autóval szárazon maradhat Lille-ben, de számolnia kell a forgalommal. Kezdjen az Euralille-nél, ahol hatalmas mélygarázsok vannak. Az óvárost a legjobb parkolóházból gyalog felfedezni. Délután a Villa Cavrois és Roubaix látogatása ideális, mivel közvetlenül a múzeumok előtt parkolhat, így elkerülve az esőt. Kényelmes módja a régió felfedezésének.",
             "ro": "Cu mașina rămâneți uscat în Lille, dar trebuie să vă așteptați la trafic. Începeți la Euralille, unde există parcări subterane mari. Vieux Lille se explorează cel mai bine pe jos dintr-o parcare. După-amiaza, drumul spre Villa Cavrois și Roubaix este ideal, putând parca chiar în fața muzeelor pentru a evita ploaia. O modalitate confortabilă de a vedea regiunea.",
-            "en": "By car, you stay dry in Lille, though you should expect some traffic. Start at Euralille, which offers large underground parking. Vieux Lille is best explored on foot from a parking garage. In the afternoon, driving to Villa Cavrois and Roubaix is ideal, as you can park right in front of the museums to avoid the rain. A comfortable way to see the metropolitan area."
+            "en": "By car, you stay dry in Lille, though you should expect some traffic. Start at Euralille, which offers large underground parking. Vieux Lille is best explored on foot from a parking garage. In the afternoon, driving to Villa Cavrois and Roubaix is ideal, as you can park right in front of the museums to avoid the rain. A comfortable way to see the metropolitan area.",
+            "fr": "En voiture, vous restez au sec à Lille, même s'il faut s'attendre à quelques bouchons. Commencez par Euralille, qui offre un grand parking souterrain. Le Vieux Lille s'explore mieux à pied depuis un parking. L'après-midi, se rendre à la Villa Cavrois et à Roubaix est idéal, car vous pouvez vous garer juste devant les musées pour éviter la pluie. Une façon confortable de voir la métropole."
           },
           "stops": [
             {
@@ -1758,7 +1934,8 @@
                 "de": "Direkter Zugang vom Parkhaus zum Einkaufszentrum im Trockenen.",
                 "hu": "Közvetlen, fedett bejárás a parkolóházból a bevásárlóközpontba.",
                 "ro": "Acces direct și acoperit din parcare în centrul comercial.",
-                "en": "Direct indoor access from the parking garage to the mall."
+                "en": "Direct indoor access from the parking garage to the mall.",
+                "fr": "Accès direct en intérieur depuis le parking vers le centre commercial."
               }
             },
             {
@@ -1767,7 +1944,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Peuple Belge' für kurzen Fußweg.",
                 "hu": "Használja a 'Peuple Belge' parkolóházat a rövid gyalogútért.",
                 "ro": "Folosiți parcarea 'Peuple Belge' pentru o distanță scurtă pe jos.",
-                "en": "Use 'Peuple Belge' parking garage for a short walk to the center."
+                "en": "Use 'Peuple Belge' parking garage for a short walk to the center.",
+                "fr": "Utilisez le parking « Peuple Belge » pour une courte marche vers le centre."
               }
             },
             {
@@ -1776,7 +1954,8 @@
                 "de": "Parkplatz 'Champ de Mars' kann bei starkem Regen Pfützen haben.",
                 "hu": "A 'Champ de Mars' parkolóban nagy tócsák lehetnek heves esőben.",
                 "ro": "Parcarea 'Champ de Mars' poate avea bălți mari la ploaie torențială.",
-                "en": "The 'Champ de Mars' parking lot may have large puddles during heavy rain."
+                "en": "The 'Champ de Mars' parking lot may have large puddles during heavy rain.",
+                "fr": "Le parking du « Champ de Mars » peut avoir de grandes flaques lors de fortes pluies."
               }
             },
             {
@@ -1785,7 +1964,8 @@
                 "de": "Der Parkplatz ist nah am Eingang, minimiert Zeit im Regen.",
                 "hu": "A parkoló közel van a bejárathoz, minimalizálva az esőben töltött időt.",
                 "ro": "Parcarea este aproape de intrare, minimizând timpul în ploaie.",
-                "en": "The parking lot is close to the entrance, minimizing time in the rain."
+                "en": "The parking lot is close to the entrance, minimizing time in the rain.",
+                "fr": "Le parking est proche de l'entrée, minimisant le temps sous la pluie."
               }
             },
             {
@@ -1794,7 +1974,8 @@
                 "de": "Parkhaus direkt gegenüber dem Museumseingang vorhanden.",
                 "hu": "Parkolóház található közvetlenül a múzeumi bejárattal szemben.",
                 "ro": "Parcare disponibilă direct vizavi de intrarea muzeului.",
-                "en": "Parking garage available directly opposite the museum entrance."
+                "en": "Parking garage available directly opposite the museum entrance.",
+                "fr": "Parking disponible juste en face de l'entrée du musée."
               }
             }
           ],
@@ -1826,6 +2007,13 @@
               "Watch out for pedestrians with umbrellas who may have obscured vision.",
               "Keep your windshield defogged for maximum visibility.",
               "Avoid driving through deep puddles near the canal areas."
+            ],
+            "fr": [
+              "La pluie entraîne souvent des embouteillages accrus sur la Rocade de Lille.",
+              "Optez pour les parkings couverts plutôt que les parkings extérieurs pour rester au sec.",
+              "Attention aux piétons avec parapluies qui peuvent avoir une vision obstruée.",
+              "Maintenez votre pare-brise désembué pour une visibilité maximale.",
+              "Évitez de rouler dans les grandes flaques d'eau près des zones de canaux."
             ]
           }
         },
@@ -1834,7 +2022,8 @@
             "de": "Eine winterliche Fahrt durch Lille zeigt die beleuchteten Vororte und Wahrzeichen bequem vom beheizten Auto aus. Starten Sie bei Euralille und genießen Sie den Blick auf die moderne Architektur. In Roubaix und Croix bieten die historischen Villen eine prachtvolle Kulisse im Winterlicht. Da es ab 16:30 Uhr dunkel wird, genießen Sie die festliche Beleuchtung während der Rückfahrt ins Zentrum.",
             "hu": "Egy téli autózás Lille-ben megmutatja a kivilágított külvárosokat a fűtött autó kényelméből. Kezdjen az Euralille-nél, csodálja meg a modern építészetet. Roubaix és Croix történelmi villái pompás látványt nyújtanak a téli fényben. Mivel 16:30-tól sötétedik, élvezze az ünnepi kivilágítást a központba való visszatérés közben.",
             "ro": "O plimbare de iarnă prin Lille vă arată suburbiile luminate din confortul mașinii încălzite. Începeți la Euralille și admirați arhitectura modernă. Vilele istorice din Roubaix și Croix oferă un decor superb. Deoarece se întunecă de la 16:30, bucurați-vă de iluminatul festiv în timpul drumului de întoarcere.",
-            "en": "A winter drive through Lille reveals the lit-up suburbs and landmarks from the comfort of a heated car. Start at Euralille to see the modern architecture. In Roubaix and Croix, historic villas provide a grand backdrop in the winter light. Since it gets dark from 16:30, enjoy the festive street lighting on your way back to the center."
+            "en": "A winter drive through Lille reveals the lit-up suburbs and landmarks from the comfort of a heated car. Start at Euralille to see the modern architecture. In Roubaix and Croix, historic villas provide a grand backdrop in the winter light. Since it gets dark from 16:30, enjoy the festive street lighting on your way back to the center.",
+            "fr": "Une balade hivernale en voiture à Lille révèle les banlieues et monuments illuminés depuis le confort d'un habitacle chauffé. Commencez par Euralille pour voir l'architecture moderne. À Roubaix et Croix, les villas historiques offrent un décor grandiose sous la lumière d'hiver. Comme il fait nuit dès 16h30, profitez des illuminations festives sur le chemin du retour vers le centre."
           },
           "stops": [
             {
@@ -1843,7 +2032,8 @@
                 "de": "Parkhäuser sind gut beheizt, ideal zum Aussteigen ohne Jacke.",
                 "hu": "A parkolóházak fűtöttek, ideális a kabát nélküli kiszálláshoz.",
                 "ro": "Parcările subterane sunt încălzite, ideal pentru a ieși fără geacă.",
-                "en": "Parking garages are well-heated, ideal for stepping out without a coat."
+                "en": "Parking garages are well-heated, ideal for stepping out without a coat.",
+                "fr": "Les parkings souterrains sont bien chauffés, idéal pour sortir sans manteau."
               }
             },
             {
@@ -1852,7 +2042,8 @@
                 "de": "Enge Gassen können bei Frost glatt sein, fahren Sie vorsichtig.",
                 "hu": "A szűk utcák fagyban csúszósak lehetnek, vezessen óvatosan.",
                 "ro": "Străzile înguste pot fi alunecoase la îngheț, conduceți cu prudență.",
-                "en": "Narrow streets can be slippery during frost; drive carefully."
+                "en": "Narrow streets can be slippery during frost; drive carefully.",
+                "fr": "Les rues étroites peuvent être glissantes par temps de gel ; conduisez prudemment."
               }
             },
             {
@@ -1861,7 +2052,8 @@
                 "de": "Champ de Mars Parkplatz ist oft sehr windig und kalt.",
                 "hu": "A Champ de Mars parkoló gyakran nagyon szeles és hideg.",
                 "ro": "Parcarea Champ de Mars este adesea foarte vântoasă și rece.",
-                "en": "Champ de Mars parking lot is often very windy and cold."
+                "en": "Champ de Mars parking lot is often very windy and cold.",
+                "fr": "Le parking du Champ de Mars est souvent très venteux et froid."
               }
             },
             {
@@ -1870,7 +2062,8 @@
                 "de": "Die Auffahrt kann bei Schneefall glatt sein.",
                 "hu": "A feljáró hóesésben csúszós lehet.",
                 "ro": "Aleea de acces poate fi alunecoasă în caz de ninsoare.",
-                "en": "The driveway can be slippery during snowfall."
+                "en": "The driveway can be slippery during snowfall.",
+                "fr": "L'allée d'accès peut être glissante en cas de chute de neige."
               }
             },
             {
@@ -1879,7 +2072,8 @@
                 "de": "Das warme Museum ist der perfekte Abschluss für einen kalten Tag.",
                 "hu": "A meleg múzeum tökéletes zárása egy hideg napnak.",
                 "ro": "Muzeul călduros este încheierea perfectă pentru o zi rece.",
-                "en": "The warm museum is the perfect end to a cold day."
+                "en": "The warm museum is the perfect end to a cold day.",
+                "fr": "Le musée chauffé est la fin parfaite d'une froide journée."
               }
             }
           ],
@@ -1911,6 +2105,13 @@
               "Parking search in the center takes longer during Christmas traffic.",
               "Keep an ice scraper handy if you park outdoors.",
               "The city lights are most beautiful after 17:00."
+            ],
+            "fr": [
+              "Vérifiez le niveau d'antigel dans votre liquide lave-glace.",
+              "Attendez-vous à des zones glissantes sur les ponts traversant le canal de la Deûle.",
+              "La recherche de parking en centre-ville est plus longue avec le trafic de Noël.",
+              "Gardez un grattoir à glace à portée de main si vous vous garez à l'extérieur.",
+              "Les lumières de la ville sont plus belles après 17h00."
             ]
           }
         }
@@ -1939,7 +2140,8 @@
             "de": "Knotenpunkt aller Metrolinien.",
             "hu": "Minden metróvonal csomópontja.",
             "ro": "Nodul central al tuturor liniilor de metrou.",
-            "en": "Hub of all metro lines."
+            "en": "Hub of all metro lines.",
+            "fr": "Carrefour de toutes les lignes de métro."
           }
         },
         {
@@ -1957,7 +2159,8 @@
             "de": "Metrostation 'République - Beaux-Arts'.",
             "hu": "'République - Beaux-Arts' metrómegálló.",
             "ro": "Stația de metrou 'République - Beaux-Arts'.",
-            "en": "Metro station 'République - Beaux-Arts'."
+            "en": "Metro station 'République - Beaux-Arts'.",
+            "fr": "Station de métro « République - Beaux-Arts »."
           }
         },
         {
@@ -1975,7 +2178,8 @@
             "de": "Metrostation 'Gambetta' oder 'Wazemmes'.",
             "hu": "'Gambetta' vagy 'Wazemmes' metrómegálló.",
             "ro": "Stația de metrou 'Gambetta' sau 'Wazemmes'.",
-            "en": "Metro station 'Gambetta' or 'Wazemmes'."
+            "en": "Metro station 'Gambetta' or 'Wazemmes'.",
+            "fr": "Station de métro « Gambetta » ou « Wazemmes »."
           }
         },
         {
@@ -1993,7 +2197,8 @@
             "de": "Buslinie CIT oder Metro 'Rihour' und kurzer Fußweg.",
             "hu": "CIT buszjárat vagy 'Rihour' metró és rövid séta.",
             "ro": "Linia de autobuz CIT sau metrou 'Rihour' și o scurtă plimbare.",
-            "en": "CIT bus line or 'Rihour' metro and a short walk."
+            "en": "CIT bus line or 'Rihour' metro and a short walk.",
+            "fr": "Ligne de bus CIT ou métro « Rihour » et une courte marche."
           }
         },
         {
@@ -2011,7 +2216,8 @@
             "de": "Metro 'Gare Lille Europe'.",
             "hu": "'Gare Lille Europe' metrómegálló.",
             "ro": "Stația de metrou 'Gare Lille Europe'.",
-            "en": "Metro station 'Gare Lille Europe'."
+            "en": "Metro station 'Gare Lille Europe'.",
+            "fr": "Station de métro « Gare Lille Europe »."
           }
         }
       ],
@@ -2019,7 +2225,8 @@
         "de": "Nutzen Sie das effiziente Metronetz von Lille. Starten Sie am historischen Bahnhof Lille Flandres, besuchen Sie das Kunstmuseum und tauchen Sie in das bunte Leben von Wazemmes ein. Nach einem Spaziergang an der Zitadelle beenden Sie den Tag im modernen Euralille.",
         "hu": "Használja Lille hatékony metróhálózatát. Kezdjen a történelmi Lille Flandres pályaudvaron, látogassa meg a művészeti múzeumot, és merüljön el Wazemmes színes életében. Egy citadellai séta után fejezze be a napot a modern Euralille-ben.",
         "ro": "Utilizați rețeaua eficientă de metrou din Lille. Începeți la gara istorică Lille Flandres, vizitați muzeul de artă și cufundați-vă în viața colorată din Wazemmes. După o plimbare la Citadelă, încheiați ziua în modernul Euralille.",
-        "en": "Use Lille's efficient metro network. Start at the historic Lille Flandres station, visit the art museum, and immerse yourself in the colorful life of Wazemmes. After a walk at the Citadel, end the day at modern Euralille."
+        "en": "Use Lille's efficient metro network. Start at the historic Lille Flandres station, visit the art museum, and immerse yourself in the colorful life of Wazemmes. After a walk at the Citadel, end the day at modern Euralille.",
+        "fr": "Utilisez le réseau de métro efficace de Lille. Commencez par la gare historique de Lille Flandres, visitez le musée d'art et plongez dans la vie colorée de Wazemmes. Après une promenade à la Citadelle, terminez la journée au quartier moderne d'Euralille."
       },
       "gastro_picks": {
         "de": [
@@ -2044,6 +2251,12 @@
           {
             "name": "Aux Merveilleux de Fred",
             "tip": "Heavenly meringue specialties in Wazemmes."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Aux Merveilleux de Fred",
+            "tip": "Spécialités de meringues divines à Wazemmes."
           }
         ]
       },
@@ -2073,6 +2286,13 @@
           {
             "name": "Jardin des Géants",
             "tip": "Modern park near Lille Europe.",
+            "emoji": "🍃"
+          }
+        ],
+        "fr": [
+          {
+            "name": "Jardin des Géants",
+            "tip": "Parc moderne près de Lille Europe.",
             "emoji": "🍃"
           }
         ]
@@ -2105,6 +2325,12 @@
             "name": "Euralille",
             "tip": "Located directly by the train stations."
           }
+        ],
+        "fr": [
+          {
+            "name": "Euralille",
+            "tip": "Situé directement à côté des gares."
+          }
         ]
       },
       "tips": {
@@ -2127,6 +2353,11 @@
           "Lille's metro is driverless (VAL system).",
           "Buy a day pass (Pass Journée) for unlimited travel.",
           "The stations are often decorated with artworks."
+        ],
+        "fr": [
+          "Le métro de Lille est automatique (système VAL).",
+          "Achetez un Pass Journée pour des trajets illimités.",
+          "Les stations sont souvent décorées d'œuvres d'art."
         ]
       },
       "variants": {
@@ -2298,7 +2529,8 @@
             "de": "Mit der automatischen Metro von Lille bleiben Sie während der Fahrt komplett trocken. Starten Sie an der Gare Lille Flandres, einem Knotenpunkt mit vielen Geschäften. Der Palais des Beaux-Arts ist nur einen kurzen, nassen Sprint von der Metrostation entfernt. In Wazemmes bietet die Markthalle Schutz, bevor Sie bequem mit der Bahn nach Euralille zurückkehren, um im Trockenen zu shoppen.",
             "hu": "Lille automata metrójával teljesen szárazon maradhat utazás közben. Kezdjen a Gare Lille Flandres-nál, ahol számos üzlet található. A Szépművészeti Palota csak egy rövid sprintre van a metrómegállótól. Wazemmesben a vásárcsarnok nyújt védelmet, mielőtt kényelmesen visszatérne az Euralille-be egy fedett vásárlásra.",
             "ro": "Cu metroul automat din Lille rămâneți complet uscat în timpul călătoriei. Începeți la Gare Lille Flandres, un nod cu multe magazine. Palais des Beaux-Arts este la doar un scurt sprint de stația de metrou. În Wazemmes, hala pieței oferă adăpost înainte de a reveni confortabil cu metroul la Euralille pentru cumpărături.",
-            "en": "With Lille's automated metro, you stay completely dry while traveling. Start at Gare Lille Flandres, a hub with many shops. The Palais des Beaux-Arts is just a short, wet sprint from the metro station. In Wazemmes, the market hall provides shelter before you head back comfortably by train to Euralille for some indoor shopping."
+            "en": "With Lille's automated metro, you stay completely dry while traveling. Start at Gare Lille Flandres, a hub with many shops. The Palais des Beaux-Arts is just a short, wet sprint from the metro station. In Wazemmes, the market hall provides shelter before you head back comfortably by train to Euralille for some indoor shopping.",
+            "fr": "Avec le métro automatique de Lille, vous restez complètement au sec pendant vos déplacements. Commencez par la Gare Lille Flandres, un hub avec de nombreux commerces. Le Palais des Beaux-Arts n'est qu'à un court sprint pluvieux de la station de métro. À Wazemmes, la halle du marché offre un abri avant de repartir confortablement vers Euralille pour du shopping en intérieur."
           },
           "stops": [
             {
@@ -2307,7 +2539,8 @@
                 "de": "Ein idealer Ort zum Warten, mit vielen Cafés in der Bahnhofshalle.",
                 "hu": "Ideális várakozóhely, számos kávézóval az állomáscsarnokban.",
                 "ro": "Un loc ideal de așteptare, cu multe cafenele în holul gării.",
-                "en": "An ideal place to wait, with many cafes in the station hall."
+                "en": "An ideal place to wait, with many cafes in the station hall.",
+                "fr": "Un endroit idéal pour attendre, avec de nombreux cafés dans le hall de la gare."
               }
             },
             {
@@ -2316,7 +2549,8 @@
                 "de": "Nehmen Sie den Ausgang 'République Beaux-Arts' direkt am Museum.",
                 "hu": "Használja a 'République Beaux-Arts' kijáratot közvetlenül a múzeumnál.",
                 "ro": "Folosiți ieșirea 'République Beaux-Arts' direct lângă muzeu.",
-                "en": "Use the 'République Beaux-Arts' exit right by the museum."
+                "en": "Use the 'République Beaux-Arts' exit right by the museum.",
+                "fr": "Utilisez la sortie « République Beaux-Arts » juste à côté du musée."
               }
             },
             {
@@ -2325,7 +2559,8 @@
                 "de": "Der Weg von der Metro zur Halle ist kurz und gut belebt.",
                 "hu": "A metrótól a csarnokig vezető út rövid és forgalmas.",
                 "ro": "Drumul de la metrou la hală este scurt și bine circulat.",
-                "en": "The walk from the metro to the hall is short and busy."
+                "en": "The walk from the metro to the hall is short and busy.",
+                "fr": "Le trajet entre le métro et la halle est court et animé."
               }
             },
             {
@@ -2334,7 +2569,8 @@
                 "de": "Nutzen Sie den Bus Liane 1, der nah an den Park heranfährt.",
                 "hu": "Használja az 1-es Liane buszt, amely közel visz a parkhoz.",
                 "ro": "Folosiți autobuzul Liane 1 care oprește aproape de parc.",
-                "en": "Use the Liane 1 bus, which stops close to the park entrance."
+                "en": "Use the Liane 1 bus, which stops close to the park entrance.",
+                "fr": "Utilisez le bus Liane 1, qui s'arrête à proximité de l'entrée du parc."
               }
             },
             {
@@ -2343,7 +2579,8 @@
                 "de": "Direkte Anbindung an Metro und Fernzüge im Trockenen.",
                 "hu": "Közvetlen, fedett kapcsolat a metróhoz és a távolsági vonatokhoz.",
                 "ro": "Conexiune directă și acoperită la metrou și trenuri.",
-                "en": "Direct indoor connection to the metro and long-distance trains."
+                "en": "Direct indoor connection to the metro and long-distance trains.",
+                "fr": "Connexion intérieure directe avec le métro et les trains longue distance."
               }
             }
           ],
@@ -2375,6 +2612,13 @@
               "On rainy days, buses may experience delays due to increased traffic.",
               "Metro stations are good places to briefly escape a heavy downpour.",
               "Liane bus lines run very frequently, even during poor weather."
+            ],
+            "fr": [
+              "Le métro est entièrement automatisé, idéal pour regarder la ville sous la pluie.",
+              "Prenez une carte Pass Pass pour des correspondances fluides entre les modes.",
+              "Les jours de pluie, les bus peuvent avoir du retard dû au trafic accru.",
+              "Les stations de métro sont de bons endroits pour échapper brièvement à une averse.",
+              "Les lignes de bus Liane circulent très fréquemment, même par mauvais temps."
             ]
           }
         },
@@ -2383,7 +2627,8 @@
             "de": "Lilles Nahverkehr ist im Winter eine warme und zuverlässige Wahl. Starten Sie an der geschäftigen Gare Lille Flandres. Die Metro bringt Sie schnell zum Palais des Beaux-Arts, wo die Heizung für Wohlbefinden sorgt. Nachmittags in Wazemmes wärmen Sie sich in den Cafés auf, bevor die Lichter am Champ de Mars in der Kälte glitzern. Den Abschluss bildet das festliche Euralille.",
             "hu": "Lille közösségi közlekedése télen meleg és megbízható választás. Kezdjen a forgalmas Gare Lille Flandres-nál. A metró gyorsan elviszi a Szépművészeti Palotához, ahol a fűtés garantált. Délután Wazemmesben melegedjen fel a kávézókban, mielőtt a Champ de Mars fényei megcsillannának a hidegben. A napot a népszerű Euralille zárja.",
             "ro": "Transportul public din Lille este o alegere caldă și fiabilă iarna. Începeți la gara aglomerată Lille Flandres. Metroul vă duce rapid la Palais des Beaux-Arts, unde încălzirea este asigurată. După-amiaza în Wazemmes, încălziți-vă în cafenele înainte ca luminile de la Champ de Mars să strălucească în frig. Finalul este la festivul Euralille.",
-            "en": "Lille's public transport is a warm and reliable choice in winter. Start at the bustling Gare Lille Flandres. The metro quickly takes you to the Palais des Beaux-Arts, where the heating is always on. In the afternoon, warm up in Wazemmes' cafes before the lights at Champ de Mars glitter in the cold air. Finish your day at the festive Euralille."
+            "en": "Lille's public transport is a warm and reliable choice in winter. Start at the bustling Gare Lille Flandres. The metro quickly takes you to the Palais des Beaux-Arts, where the heating is always on. In the afternoon, warm up in Wazemmes' cafes before the lights at Champ de Mars glitter in the cold air. Finish your day at the festive Euralille.",
+            "fr": "Les transports publics de Lille sont un choix chaud et fiable en hiver. Commencez par l'effervescence de la Gare Lille Flandres. Le métro vous emmène rapidement au Palais des Beaux-Arts, où le chauffage est toujours allumé. L'après-midi, réchauffez-vous dans les cafés de Wazemmes avant que les lumières du Champ de Mars ne scintillent dans l'air froid. Finissez votre journée dans l'ambiance festive d'Euralille."
           },
           "stops": [
             {
@@ -2392,7 +2637,8 @@
                 "de": "Hinter dem Bahnhof gibt es oft schöne Lichtinstallationen.",
                 "hu": "Az állomás mögött gyakran láthatók szép fényinstallációk.",
                 "ro": "În spatele gării sunt adesea instalații luminoase frumoase.",
-                "en": "Beautiful light installations can often be found behind the station."
+                "en": "Beautiful light installations can often be found behind the station.",
+                "fr": "De magnifiques installations lumineuses se trouvent souvent derrière la gare."
               }
             },
             {
@@ -2401,7 +2647,8 @@
                 "de": "Die Metrostation ist hell beleuchtet und bietet Schutz vor Wind.",
                 "hu": "A metrómegálló jól megvilágított és védelmet nyújt a szél ellen.",
                 "ro": "Stația de metrou este bine luminată și oferă protecție contra vântului.",
-                "en": "The metro station is brightly lit and offers shelter from the wind."
+                "en": "The metro station is brightly lit and offers shelter from the wind.",
+                "fr": "La station de métro est bien éclairée et offre un abri contre le vent."
               }
             },
             {
@@ -2410,7 +2657,8 @@
                 "de": "Genießen Sie einen heißen Kaffee direkt neben der Metro-Station.",
                 "hu": "Élvezzen egy forró kávét közvetlenül a metrómegálló mellett.",
                 "ro": "Savurați o cafea fierbinte chiar lângă stația de metrou.",
-                "en": "Enjoy a hot coffee right next to the metro station."
+                "en": "Enjoy a hot coffee right next to the metro station.",
+                "fr": "Profitez d'un café chaud juste à côté de la station de métro."
               }
             },
             {
@@ -2419,7 +2667,8 @@
                 "de": "Die Busse sind gut beheizt, ideal nach einem kalten Spaziergang.",
                 "hu": "A buszok jól fűtöttek, ideálisak egy hideg séta után.",
                 "ro": "Autobuzele sunt bine încălzite, ideale după o plimbare în frig.",
-                "en": "The buses are well-heated, ideal after a cold walk."
+                "en": "The buses are well-heated, ideal after a cold walk.",
+                "fr": "Les bus sont bien chauffés, idéal après une promenade dans le froid."
               }
             },
             {
@@ -2428,7 +2677,8 @@
                 "de": "Perfekt für Last-Minute-Weihnachtsshopping im Warmen.",
                 "hu": "Tökéletes hely az utolsó pillanatos karácsonyi vásárláshoz a melegben.",
                 "ro": "Perfect pentru cumpărături de Crăciun pe ultima sută de metri la căldură.",
-                "en": "Perfect for last-minute Christmas shopping in the warm."
+                "en": "Perfect for last-minute Christmas shopping in the warm.",
+                "fr": "Parfait pour les achats de Noël de dernière minute au chaud."
               }
             }
           ],
@@ -2460,6 +2710,13 @@
               "Be careful on slippery stairs at the metro entrances.",
               "Trains can get very crowded during the winter rush hour.",
               "Use the 'ilevia' app to check connections in real time."
+            ],
+            "fr": [
+              "Le métro circulant en souterrain, c'est l'option de voyage la plus chaude.",
+              "La fréquence des trains reste élevée même pendant les mois d'hiver.",
+              "Soyez prudent sur les marches glissantes aux entrées du métro.",
+              "Les rames peuvent être très bondées pendant l'heure de pointe hivernale.",
+              "Utilisez l'application « ilevia » pour vérifier les correspondances en temps réel."
             ]
           }
         }

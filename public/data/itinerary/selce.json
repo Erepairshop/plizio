@@ -31,7 +31,8 @@
             "de": "Barocke Pfarrkirche im Ortskern.",
             "hu": "Barokk plébániatemplom a központban.",
             "ro": "Biserica parohială barocă din centru.",
-            "en": "Baroque parish church in the center."
+            "en": "Baroque parish church in the center.",
+            "hr": "Barokna župna crkva u centru."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Historischer Waschplatz am Meer.",
             "hu": "Történelmi mosóhely a tengernél.",
             "ro": "Loc istoric de spălat rufe la mare.",
-            "en": "Historical laundry site by the sea."
+            "en": "Historical laundry site by the sea.",
+            "hr": "Povijesna praonica rublja uz more."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Lebhafte Meile mit Cafés.",
             "hu": "Élettel teli sétány kávézókkal.",
             "ro": "Faleză plină de viață cu cafenele.",
-            "en": "Lively promenade with cafes."
+            "en": "Lively promenade with cafes.",
+            "hr": "Živahna šetnica s kafićima."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Symbol der Fischereitradition (Thunfischfang).",
             "hu": "A halászati hagyomány (tonhalászat) jelképe.",
             "ro": "Simbol al tradiției pescuitului de ton.",
-            "en": "Symbol of fishing tradition (tuna fishing)."
+            "en": "Symbol of fishing tradition (tuna fishing).",
+            "hr": "Simbol ribarske tradicije (lov na tune)."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Schöner Kieselstrand zum Abschluss.",
             "hu": "Szép kavicsos strand befejezésként.",
             "ro": "Plajă frumoasă cu pietriș pentru final.",
-            "en": "Beautiful pebble beach to finish."
+            "en": "Beautiful pebble beach to finish.",
+            "hr": "Prekrasna šljunčana plaža za kraj."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Beginnen Sie Ihren Spaziergang an der imposanten Katharinenkirche und schlendern Sie zum historischen Waschplatz Polača. Die belebte Uferpromenade lädt zu einem Mittagessen mit Meerblick ein. Bestaunen Sie die Tunera, einen markanten Spähturm für den Fischfang, bevor Sie den Nachmittag am entspannten Strand Karlovce ausklingen lassen.",
         "hu": "Kezdje a sétát az impozáns Szent Katalin-templomnál, majd sétáljon el a történelmi Polača mosóhelyhez. A forgalmas vízparti sétány tengerre néző ebédet kínál. Csodálja meg a Tunerát, a halászathoz használt jellegzetes őrtornyot, mielőtt a délutánt a pihentető Karlovce strandon töltené.",
         "ro": "Începeți plimbarea la impunătoarea biserică Sf. Ecaterina și mergeți la locul istoric de spălat Polača. Faleza plină de viață vă invită la un prânz cu vedere la mare. Admirați Tunera, un turn de veghe distinctiv pentru pescuit, înainte de a încheia după-amiaza pe plaja relaxantă Karlovce.",
-        "en": "Start your walk at the imposing St. Catherine's church and stroll to the historic Polača laundry site. The busy waterfront promenade invites you to a lunch with a sea view. Admire the Tunera, a distinctive lookout tower for fishing, before ending the afternoon at the relaxing Karlovce beach."
+        "en": "Start your walk at the imposing St. Catherine's church and stroll to the historic Polača laundry site. The busy waterfront promenade invites you to a lunch with a sea view. Admire the Tunera, a distinctive lookout tower for fishing, before ending the afternoon at the relaxing Karlovce beach.",
+        "hr": "Započnite šetnju kod impozantne crkve svete Katarine i prošećite do povijesne praonice Polača. Živahna šetnica uz more poziva vas na ručak s pogledom na more. Divite se Tuneri, prepoznatljivom vidikovcu za ribolov, prije nego što popodne završite na opuštajućoj plaži Karlovce."
       },
       "gastro_picks": {
         "de": [
@@ -136,6 +142,12 @@
           {
             "name": "Restaurant Kantunić",
             "tip": "Known for homemade pasta and seafood."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Kantunić",
+            "tip": "Poznat po domaćoj tjestenini i plodovima mora."
           }
         ]
       },
@@ -167,6 +179,13 @@
             "tip": "Small retreat away from the hustle and bustle.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Kapela svetog Josipa",
+            "tip": "Malo utočište daleko od vreve i buke.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -192,6 +211,12 @@
           {
             "name": "Souvenir shop in the center",
             "tip": "Croatian olive oil products."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Suvenirnica u centru",
+            "tip": "Hrvatski proizvodi od maslinovog ulja."
           }
         ]
       },
@@ -219,6 +244,12 @@
           "Visit Polača early for photos without crowds.",
           "In the evening there is often live music at the harbor.",
           "Water shoes are advisable for the pebble beaches."
+        ],
+        "hr": [
+          "Šetnica povezuje Selce s Crikvenicom.",
+          "Posjetite Polaču rano radi fotografija bez gužve.",
+          "Navečer u luci često svira glazba uživo.",
+          "Savjetuje se obuća za vodu za šljunčane plaže."
         ]
       },
       "variants": {
@@ -390,7 +421,8 @@
             "de": "Der Morgen beginnt geschützt in der St. Katharinenkirche. Mittags bietet die historische Polača einen steinernen Unterschlupf vor den Schauern. Am Nachmittag glänzt die Uferpromenade im Regen, ideal für einen Spaziergang unter dem Schirm. Der Tag endet mit einem dramatischen Blick auf das aufgewühlte Meer vom Strand Karlovce aus, während die Tunera einsam im Nebel steht.",
             "hu": "A reggel a Szent Katalin-templom védett falai között indul. Délben a történelmi Polača kőboltozatai nyújtanak menedéket a záporok elől. Délután az esőtől fénylő tengerparti sétányon barangolunk esernyővel. A nap a Karlovce strandon zárul, ahol a Tunera sziluettje ködbe vész, a hullámok pedig látványosan verődnek a szikláknak.",
             "ro": "Dimineața începe la adăpost în Biserica Sf. Ecaterina. La prânz, structura istorică Polača oferă protecție împotriva averselor. După-amiaza, faleza strălucește sub ploaie, fiind perfectă pentru o plimbare cu umbrela. Ziua se încheie cu o vedere dramatică a mării agitate de pe plaja Karlovce, în timp ce Tunera se profilează prin ceață.",
-            "en": "The morning starts sheltered inside St. Catherine's Church. At noon, the historical Polača provides a stone refuge from the showers. In the afternoon, the promenade glistens in the rain, ideal for a walk under an umbrella. The day ends with a dramatic view of the choppy sea from Karlovce beach, with the Tunera standing lonely in the mist."
+            "en": "The morning starts sheltered inside St. Catherine's Church. At noon, the historical Polača provides a stone refuge from the showers. In the afternoon, the promenade glistens in the rain, ideal for a walk under an umbrella. The day ends with a dramatic view of the choppy sea from Karlovce beach, with the Tunera standing lonely in the mist.",
+            "hr": "Jutro počinje pod krovom crkve svete Katarine. U podne, povijesna Polača pruža kameno utočište od pljuskova. Poslijepodne, šetnica blista na kiši, idealna za šetnju pod kišobranom. Dan završava dramatičnim pogledom na uzburkano more s plaže Karlovce, dok Tunera usamljeno stoji u magli."
           },
           "stops": [
             {
@@ -399,7 +431,8 @@
                 "de": "Perfekter Ort, um den ersten Regenschauer trocken abzuwarten.",
                 "hu": "Tökéletes helyszín az első esőfelhők érkezésekor.",
                 "ro": "Locul perfect pentru a aștepta trecerea primei averse.",
-                "en": "Perfect spot to stay dry during the first morning rain."
+                "en": "Perfect spot to stay dry during the first morning rain.",
+                "hr": "Savršeno mjesto da ostanete suhi tijekom prve jutarnje kiše."
               }
             },
             {
@@ -408,7 +441,8 @@
                 "de": "Die massiven Mauern bieten Schutz vor Wind und Nässe.",
                 "hu": "A vaskos falak jó szélfogót és esővédőt jelentenek.",
                 "ro": "Zidurile masive oferă adăpost împotriva vântului și ploii.",
-                "en": "Massive walls offer shelter from wind and wet weather."
+                "en": "Massive walls offer shelter from wind and wet weather.",
+                "hr": "Masivni zidovi nude zaklon od vjetra i vlage."
               }
             },
             {
@@ -417,7 +451,8 @@
                 "de": "Achtung, die Steinplatten können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a kőlapok nedvesen csúszóssá válhatnak.",
                 "ro": "Atenție, dalele de piatră pot fi alunecoase când sunt ude.",
-                "en": "Caution, the stone slabs can be slippery when wet."
+                "en": "Caution, the stone slabs can be slippery when wet.",
+                "hr": "Oprez, kamene ploče mogu biti skliske kad su mokre."
               }
             },
             {
@@ -426,7 +461,8 @@
                 "de": "Kurzer Stopp, da der Aussichtspunkt völlig exponiert ist.",
                 "hu": "Rövid megálló, mivel a kilátópont teljesen nyitott.",
                 "ro": "Oprire scurtă, deoarece punctul de observație este expus.",
-                "en": "Quick stop, as the lookout point is completely exposed."
+                "en": "Quick stop, as the lookout point is completely exposed.",
+                "hr": "Brzo zaustavljanje, jer je vidikovac potpuno izložen."
               }
             },
             {
@@ -435,7 +471,8 @@
                 "de": "Die Brandung bei Regen bietet ein tolles Fotomotiv.",
                 "hu": "Az esőben felcsapó hullámok remek fotótémát adnak.",
                 "ro": "Valurile în timpul ploii oferă un subiect foto excelent.",
-                "en": "The surf during rain makes for a great photo opportunity."
+                "en": "The surf during rain makes for a great photo opportunity.",
+                "hr": "Valovi tijekom kiše pružaju izvrsnu priliku za fotografiranje."
               }
             }
           ],
@@ -463,6 +500,12 @@
               "Use the café arcades along the promenade as rest stops.",
               "A sturdy storm umbrella is advised due to the sea breeze.",
               "The view of Kvarner Bay is particularly atmospheric in the rain."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću zbog skliskog kamenog pločnika.",
+              "Koristite arkade kafića duž šetnice kao mjesta za odmor.",
+              "Preporučuje se čvrst kišobran zbog morskog povjetarca.",
+              "Pogled na Kvarnerski zaljev posebno je atmosferski po kiši."
             ]
           }
         },
@@ -471,7 +514,8 @@
             "de": "Die klare Winterluft empfängt Sie morgens an der Kirche. Mittags erkunden Sie die Polača ohne sommerliche Hitze und Massen. Der Nachmittag bringt das goldene Licht der tiefstehenden Sonne an die Uferpromenade. Vor Sonnenuntergang gegen 16:30 Uhr erreichen Sie die Tunera und genießen die stille, raue Schönheit des leeren Strandes von Karlovce.",
             "hu": "A friss téli levegő fogadja a templomnál a korai órákban. Délben a Polačát a nyári hőség és tömeg nélkül fedezheti fel. Délután az alacsonyan járó nap arany fénybe vonja a sétányt. A 16:30 körüli naplemente előtt eljutunk a Tunerához, majd élvezzük a Karlovce strand csendes, zord téli szépségét.",
             "ro": "Aerul proaspăt de iarnă vă întâmpină dimineața la biserică. La prânz explorați Polača fără căldura și mulțimile de vară. După-amiaza aduce lumina aurie a soarelui jos pe faleză. Înainte de apusul de la ora 16:30, ajungeți la Tunera și vă bucurați de frumusețea aspră a plajei pustii Karlovce.",
-            "en": "Crisp winter air greets you at the church in the morning. At noon, explore Polača without the summer heat and crowds. The afternoon brings the golden light of the low sun to the promenade. Before sunset around 16:30, you reach the Tunera and enjoy the quiet, raw beauty of the empty Karlovce beach."
+            "en": "Crisp winter air greets you at the church in the morning. At noon, explore Polača without the summer heat and crowds. The afternoon brings the golden light of the low sun to the promenade. Before sunset around 16:30, you reach the Tunera and enjoy the quiet, raw beauty of the empty Karlovce beach.",
+            "hr": "Oštar zimski zrak dočekuje vas kod crkve ujutro. U podne istražite Polaču bez ljetnih vrućina i gužve. Poslijepodne donosi zlatnu svjetlost niskog sunca na šetnicu. Prije zalaska sunca oko 16:30, stižete do Tunere i uživate u tihoj, sirovoj ljepoti prazne plaže Karlovce."
           },
           "stops": [
             {
@@ -480,7 +524,8 @@
                 "de": "Im Inneren ist es oft wärmer als draußen im Wind.",
                 "hu": "A belső térben gyakran melegebb van, mint kint a szélben.",
                 "ro": "În interior este adesea mai cald decât afară în vânt.",
-                "en": "The interior is often warmer than outside in the wind."
+                "en": "The interior is often warmer than outside in the wind.",
+                "hr": "Unutrašnjost je često toplija nego vani na vjetru."
               }
             },
             {
@@ -489,7 +534,8 @@
                 "de": "Ideale Zeit für Fotos ohne störende Touristenmassen.",
                 "hu": "Ideális időpont fotózáshoz a turistaáradat nélkül.",
                 "ro": "Moment ideal pentru fotografii fără mulțimi de turiști.",
-                "en": "Ideal time for photos without the tourist crowds."
+                "en": "Ideal time for photos without the tourist crowds.",
+                "hr": "Idealno vrijeme za fotografije bez turističkih gužvi."
               }
             },
             {
@@ -498,7 +544,8 @@
                 "de": "Genießen Sie das goldene Licht kurz vor dem frühen Sonnenuntergang.",
                 "hu": "Élvezze az arany fényeket a korai naplemente előtt.",
                 "ro": "Bucurați-vă de lumina aurie înainte de apusul timpuriu.",
-                "en": "Enjoy the golden light just before the early sunset."
+                "en": "Enjoy the golden light just before the early sunset.",
+                "hr": "Uživajte u zlatnoj svjetlosti neposredno prije ranog zalaska sunca."
               }
             },
             {
@@ -507,7 +554,8 @@
                 "de": "Achtung bei Bora-Wind; es kann hier sehr zugig sein.",
                 "hu": "Vigyázat bóra idején; itt nagyon erős lehet a szél.",
                 "ro": "Atenție la vântul Bora; poate fi foarte curent aici.",
-                "en": "Watch out for Bora wind; it can be very drafty here."
+                "en": "Watch out for Bora wind; it can be very drafty here.",
+                "hr": "Pazite na buru; ovdje može biti vrlo vjetrovito."
               }
             },
             {
@@ -516,7 +564,8 @@
                 "de": "Warme Kleidung einplanen für die kühle Meeresbrise am Abend.",
                 "hu": "Meleg ruha kötelező az esti hűvös tengeri szélben.",
                 "ro": "Planificați haine groase pentru briza rece de seară.",
-                "en": "Plan for warm clothing for the cool evening sea breeze."
+                "en": "Plan for warm clothing for the cool evening sea breeze.",
+                "hr": "Planirajte toplu odjeću za hladni večernji morski povjetarac."
               }
             }
           ],
@@ -544,6 +593,12 @@
               "Sunset is already around 16:30 during winter months.",
               "Layered clothing protects against the cold sea breeze.",
               "Many cafés have limited heated outdoor seating in winter."
+            ],
+            "hr": [
+              "Bura može značajno sniziti osjet temperature.",
+              "Zalazak sunca je već oko 16:30 tijekom zimskih mjeseci.",
+              "Slojevita odjeća štiti od hladnog morskog povjetarca.",
+              "Mnogi kafići zimi imaju ograničen broj grijanih mjesta na otvorenom."
             ]
           }
         }
@@ -572,7 +627,8 @@
             "de": "Entspanntes Radeln entlang der Küste.",
             "hu": "Pihentető tekerés a part mentén.",
             "ro": "Pedalat relaxat de-a lungul coastei.",
-            "en": "Relaxed cycling along the coast."
+            "en": "Relaxed cycling along the coast.",
+            "hr": "Opuštena vožnja biciklom uz obalu."
           }
         },
         {
@@ -590,7 +646,8 @@
             "de": "Ruhige Bucht mit Campingplatz.",
             "hu": "Csendes öböl kempinggel.",
             "ro": "Golf liniștit cu loc de camping.",
-            "en": "Quiet bay with a campsite."
+            "en": "Quiet bay with a campsite.",
+            "hr": "Mirna uvala s kampom."
           }
         },
         {
@@ -608,7 +665,8 @@
             "de": "Historisches Fischereiobjekt.",
             "hu": "Történelmi halászati objektum.",
             "ro": "Obiect istoric de pescuit.",
-            "en": "Historical fishing object."
+            "en": "Historical fishing object.",
+            "hr": "Povijesni ribarski objekt."
           }
         },
         {
@@ -626,7 +684,8 @@
             "de": "Die Hauptkirche des Ortes.",
             "hu": "A település főtemploma.",
             "ro": "Biserica principală a localității.",
-            "en": "The main church of the village."
+            "en": "The main church of the village.",
+            "hr": "Glavna crkva u mjestu."
           }
         },
         {
@@ -644,7 +703,8 @@
             "de": "Letzter Badestopp.",
             "hu": "Utolsó fürdőzési lehetőség.",
             "ro": "Ultima oprire pentru înot.",
-            "en": "Last swim stop."
+            "en": "Last swim stop.",
+            "hr": "Zadnja postaja za kupanje."
           }
         }
       ],
@@ -652,7 +712,8 @@
         "de": "Erkunden Sie Selce und die Umgebung auf zwei Rädern. Die flache Promenade eignet sich hervorragend für den Start. Radeln Sie weiter zur malerischen Bucht Uvala Slana für Natur pur. Nach einem Besuch der historischen Tunera und der Katharinenkirche im Zentrum führt die Tour zum Strand Karlovce, wo Sie sich vor der Rückkehr erfrischen können.",
         "hu": "Fedezze fel Selcét és környékét két keréken. A lapos sétány kiválóan alkalmas az induláshoz. Tekerjen tovább a festői Uvala Slana öbölhöz a tiszta természetért. A történelmi Tunera és a központi Szent Katalin-templom megtekintése után a túra a Karlovce strandra vezet, ahol felfrissülhet a visszatérés előtt.",
         "ro": "Explorați Selce și împrejurimile pe două roți. Faleza plană este excelentă pentru început. Pedalați mai departe spre golful pitoresc Uvala Slana pentru natură pură. După o vizită la Tunera istorică și la biserica Sf. Ecaterina din centru, turul duce la plaja Karlovce, unde vă puteți răcori înainte de întoarcere.",
-        "en": "Explore Selce and the surroundings on two wheels. The flat promenade is excellent for starting. Cycle further to the picturesque Uvala Slana bay for pure nature. After visiting the historic Tunera and St. Catherine's church in the center, the tour leads to Karlovce beach where you can refresh before returning."
+        "en": "Explore Selce and the surroundings on two wheels. The flat promenade is excellent for starting. Cycle further to the picturesque Uvala Slana bay for pure nature. After visiting the historic Tunera and St. Catherine's church in the center, the tour leads to Karlovce beach where you can refresh before returning.",
+        "hr": "Istražite Selce i okolicu na dva kotača. Ravna šetnica izvrsna je za početak. Vozite dalje do slikovite uvale Slane za čistu prirodu. Nakon posjeta povijesnoj Tuneri i crkvi svete Katarine u centru, tura vodi do plaže Karlovce gdje se možete osvježiti prije povratka."
       },
       "gastro_picks": {
         "de": [
@@ -677,6 +738,12 @@
           {
             "name": "Bistro Riva",
             "tip": "Fresh grilled calamari."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Svježe lignje na žaru."
           }
         ]
       },
@@ -708,6 +775,13 @@
             "tip": "Shady paths by the water.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Šuma uvale Slane",
+            "tip": "Sjenovite staze uz vodu.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -733,6 +807,12 @@
           {
             "name": "Harbor kiosk",
             "tip": "Postcards and local newspapers."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Kiosk u luci",
+            "tip": "Razglednice i lokalne novine."
           }
         ]
       },
@@ -760,6 +840,12 @@
           "Watch out for pedestrians on the promenade.",
           "Away from the coast it gets hilly.",
           "Always secure your bike."
+        ],
+        "hr": [
+          "Cesta prema Crikvenici gotovo je potpuno bez prometa.",
+          "Pripazite na pješake na šetnici.",
+          "Dalje od obale teren postaje brdovit.",
+          "Uvijek osigurajte svoj bicikl."
         ]
       },
       "variants": {
@@ -931,7 +1017,8 @@
             "de": "Die Tour startet auf der nassen Uferpromenade. Mittags radeln Sie zur Uvala Slana, wo der Regen die Kiefernnadeln intensiv duften lässt. Die Tunera bietet einen kurzen Stopp im Freien, bevor Sie die Kirche zur Besinnung aufsuchen. Der Tag endet am Karlovce-Strand, wo die Gischt mit dem Regen verschmilzt.",
             "hu": "A túra a vizes sétányon indul. Délben az Uvala Slana felé tekerünk, ahol az eső illatossá teszi a fenyveseket. A Tunera rövid megállót kínál, mielőtt a templom csendjébe vonulnánk. A nap a Karlovce strandon ér véget, ahol a tenger permete és az eső összeér.",
             "ro": "Turul începe pe faleza umedă. La prânz pedalați spre Uvala Slana, unde ploaia intensifică parfumul acelor de pin. Tunera oferă o scurtă oprire în aer liber înainte de a vizita biserica. Ziua se termină la plaja Karlovce, unde stropii mării se contopesc cu ploaia.",
-            "en": "The tour starts on the wet promenade. At noon, cycle to Uvala Slana, where the rain makes the pine needles smell intense. The Tunera offers a brief outdoor stop before visiting the church for reflection. The day ends at Karlovce beach, where the sea spray merges with the rain."
+            "en": "The tour starts on the wet promenade. At noon, cycle to Uvala Slana, where the rain makes the pine needles smell intense. The Tunera offers a brief outdoor stop before visiting the church for reflection. The day ends at Karlovce beach, where the sea spray merges with the rain.",
+            "hr": "Tura počinje na mokroj šetnici. U podne se odvezite do uvale Slane, gdje kiša pojačava miris borovih iglica. Tunera nudi kratko zaustavljanje na otvorenom prije posjeta crkvi radi razmišljanja. Dan završava na plaži Karlovce, gdje se morska pjena stapa s kišom."
           },
           "stops": [
             {
@@ -940,7 +1027,8 @@
                 "de": "Vorsicht beim Bremsen auf dem glatten Steinboden.",
                 "hu": "Óvatosan fékezzen a csúszós kőburkolaton.",
                 "ro": "Atenție la frânare pe pavajul de piatră alunecos.",
-                "en": "Be careful when braking on the slippery stone ground."
+                "en": "Be careful when braking on the slippery stone ground.",
+                "hr": "Budite oprezni pri kočenju na skliskom kamenom tlu."
               }
             },
             {
@@ -949,7 +1037,8 @@
                 "de": "Die unbefestigten Wege können schlammig sein.",
                 "hu": "A burkolatlan utak sárgossá válhatnak.",
                 "ro": "Potecile neasfaltate pot deveni noroioase.",
-                "en": "The unpaved paths can become muddy."
+                "en": "The unpaved paths can become muddy.",
+                "hr": "Neasfaltirane staze mogu postati blatnjave."
               }
             },
             {
@@ -958,7 +1047,8 @@
                 "de": "Rutschgefahr auf den hölzernen Aufstiegen.",
                 "hu": "Csúszásveszély a fa feljárókon.",
                 "ro": "Pericol de alunecare pe scările de lemn.",
-                "en": "Danger of slipping on the wooden steps."
+                "en": "Danger of slipping on the wooden steps.",
+                "hr": "Opasnost od klizanja na drvenim stepenicama."
               }
             },
             {
@@ -967,7 +1057,8 @@
                 "de": "Nutzen Sie den Vorraum zum Trocknen der Kleidung.",
                 "hu": "Használja az előteret a ruházat megszárítására.",
                 "ro": "Folosiți pridvorul pentru a vă usca hainele.",
-                "en": "Use the vestibule to dry off your gear."
+                "en": "Use the vestibule to dry off your gear.",
+                "hr": "Koristite predvorje da osušite svoju opremu."
               }
             },
             {
@@ -976,7 +1067,8 @@
                 "de": "Suchen Sie Schutz unter den Vordächern der Kioske.",
                 "hu": "Keressen menedéket a büfék előtetői alatt.",
                 "ro": "Căutați adăpost sub streșinile chioșcurilor.",
-                "en": "Look for shelter under the kiosk overhangs."
+                "en": "Look for shelter under the kiosk overhangs.",
+                "hr": "Potražite zaklon pod nadstrešnicama kioska."
               }
             }
           ],
@@ -1004,6 +1096,12 @@
               "Avoid sharp turns on the slippery tiles in town.",
               "A rain poncho is more practical than a jacket while pedaling.",
               "Check tire pressure; slightly lower pressure helps with grip."
+            ],
+            "hr": [
+              "Blatobrani su neophodni po ovakvom vremenu.",
+              "Izbjegavajte oštra skretanja na skliskim pločicama u gradu.",
+              "Kabanica je praktičnija od jakne tijekom pedaliranja.",
+              "Provjerite tlak u gumama; malo niži tlak pomaže pri prianjanju."
             ]
           }
         },
@@ -1012,7 +1110,8 @@
             "de": "Ein frischer Start an der winterlichen Promenade. Mittags führt der Weg zur einsamen Uvala Slana, wo die Meeresluft besonders belebend wirkt. Nach einem Stopp an der historischen Tunera wärmen Sie sich kurz in der St. Katharinenkirche auf. Die Tour endet am Strand Karlovce, pünktlich zum farbenfrohen Sonnenuntergang über dem Meer.",
             "hu": "Friss indítás a téli sétányon. Délben az út a magányos Uvala Slana öbölhöz vezet, ahol a tengeri levegő élénkítő. A történelmi Tunera után rövid melegedés következik a templomban. A túra a Karlovce strandon zárul, épp a tenger feletti színes naplemente idején.",
             "ro": "Un început proaspăt pe faleza de iarnă. La prânz, drumul duce spre golful pustiu Uvala Slana, unde aerul este revigorant. După o oprire la istorica Tunera, vă încălziți în biserică. Turul se înclie la plaja Karlovce, exact la timp pentru apusul colorat peste mare.",
-            "en": "A fresh start on the winter promenade. At noon, the path leads to the lonely Uvala Slana, where the sea air is especially invigorating. After a stop at the historical Tunera, warm up briefly in the church. The tour ends at Karlovce beach, just in time for the colorful sunset over the sea."
+            "en": "A fresh start on the winter promenade. At noon, the path leads to the lonely Uvala Slana, where the sea air is especially invigorating. After a stop at the historical Tunera, warm up briefly in the church. The tour ends at Karlovce beach, just in time for the colorful sunset over the sea.",
+            "hr": "Svjež početak na zimskoj šetnici. U podne put vodi do usamljene uvale Slane, gdje je morski zrak posebno okrepljujući. Nakon zaustavljanja kod povijesne Tunere, nakratko se ugrijte u crkvi. Tura završava na plaži Karlovce, taman na vrijeme za šareni zalazak sunca nad morem."
           },
           "stops": [
             {
@@ -1021,7 +1120,8 @@
                 "de": "Winddichte Handschuhe sind für die Fahrt am Meer wichtig.",
                 "hu": "A szélálló kesztyű fontos a tengerparti tekeréshez.",
                 "ro": "Mănușile rezistente la vânt sunt importante pentru faleză.",
-                "en": "Windproof gloves are important for riding along the sea."
+                "en": "Windproof gloves are important for riding along the sea.",
+                "hr": "Vjetrootporne rukavice su važne za vožnju uz more."
               }
             },
             {
@@ -1030,7 +1130,8 @@
                 "de": "Genießen Sie die absolute Ruhe der Nebensaison.",
                 "hu": "Élvezze az előszezonon kívüli teljes nyugalmat.",
                 "ro": "Bucurați-vă de liniștea absolută a extrasezonului.",
-                "en": "Enjoy the absolute tranquility of the off-season."
+                "en": "Enjoy the absolute tranquility of the off-season.",
+                "hr": "Uživajte u apsolutnom miru izvan sezone."
               }
             },
             {
@@ -1039,7 +1140,8 @@
                 "de": "Kurzer Aufenthalt, da der Wind hier ungeschützt weht.",
                 "hu": "Csak rövid ideig maradjon, a szél itt akadálytalanul fúj.",
                 "ro": "Popas scurt, deoarece vântul bate fără opreliști aici.",
-                "en": "Short stay, as the wind blows unprotected here."
+                "en": "Short stay, as the wind blows unprotected here.",
+                "hr": "Kratak boravak, jer vjetar ovdje puše nezaštićeno."
               }
             },
             {
@@ -1048,7 +1150,8 @@
                 "de": "Ein ruhiger Moment fernab der winterlichen Brise.",
                 "hu": "Egy csendes pillanat távol a téli fuvallatoktól.",
                 "ro": "Un moment de liniște departe de briza de iarnă.",
-                "en": "A quiet moment away from the winter breeze."
+                "en": "A quiet moment away from the winter breeze.",
+                "hr": "Tihi trenutak daleko od zimskog povjetarca."
               }
             },
             {
@@ -1057,7 +1160,8 @@
                 "de": "Planen Sie die Rückkehr vor Einbruch der Dunkelheit.",
                 "hu": "Tervezze meg a visszautat sötétedés előtt.",
                 "ro": "Planificați întoarcerea înainte de lăsarea întunericului.",
-                "en": "Plan your return before darkness falls."
+                "en": "Plan your return before darkness falls.",
+                "hr": "Planirajte povratak prije nego što padne mrak."
               }
             }
           ],
@@ -1085,6 +1189,12 @@
               "Days are short; ensure you have good bicycle lights.",
               "Watch out for icy patches in shaded alleys.",
               "A thermos with hot tea is an ideal companion."
+            ],
+            "hr": [
+              "Topla termo odjeća štiti od pothlađivanja na vjetru.",
+              "Dani su kratki; pobrinite se da imate dobra svjetla na biciklu.",
+              "Pazite na zaleđena mjesta u sjenovitim uličicama.",
+              "Termosica s toplim čajem idealan je suputnik."
             ]
           }
         }
@@ -1113,7 +1223,8 @@
             "de": "Informationen über lokale Bräuche.",
             "hu": "Információk a helyi szokásokról.",
             "ro": "Informații despre obiceiurile locale.",
-            "en": "Information about local customs."
+            "en": "Information about local customs.",
+            "hr": "Informacije o lokalnim običajima."
           }
         },
         {
@@ -1131,7 +1242,8 @@
             "de": "Ausreichend Parkmöglichkeiten in der Nähe.",
             "hu": "Elegendő parkolóhely a közelben.",
             "ro": "Suficiente locuri de parcare în apropiere.",
-            "en": "Sufficient parking spaces nearby."
+            "en": "Sufficient parking spaces nearby.",
+            "hr": "Dovoljno parkirnih mjesta u blizini."
           }
         },
         {
@@ -1149,7 +1261,8 @@
             "de": "Fotogener Stopp am Hafen.",
             "hu": "Fotogén megálló a kikötőben.",
             "ro": "Oprire fotogenică în port.",
-            "en": "Photogenic stop at the harbor."
+            "en": "Photogenic stop at the harbor.",
+            "hr": "Fotogenično stajalište u luci."
           }
         },
         {
@@ -1167,7 +1280,8 @@
             "de": "Kleiner Parkplatz gegenüber.",
             "hu": "Kis parkoló szemben.",
             "ro": "Mică parcare vizavi.",
-            "en": "Small parking lot opposite."
+            "en": "Small parking lot opposite.",
+            "hr": "Malo parkiralište nasuprot."
           }
         },
         {
@@ -1185,7 +1299,8 @@
             "de": "Abends entspannt schwimmen.",
             "hu": "Esti pihentető úszás.",
             "ro": "Înot relaxant de seară.",
-            "en": "Relaxing evening swim."
+            "en": "Relaxing evening swim.",
+            "hr": "Opuštajuće večernje kupanje."
           }
         }
       ],
@@ -1193,7 +1308,8 @@
         "de": "Nutzen Sie das Auto, um die Randgebiete von Selce zu erkunden. Starten Sie beim Kulturzentrum, um mehr über den Ort zu erfahren. Die Bucht Uvala Slana bietet den perfekten Platz für einen längeren Vormittagsaufenthalt. Danach geht es zurück zum Hafen zur Tunera und zur idyllischen Josephskapelle. Den Tag beenden Sie gemütlich am Karlovce-Strand.",
         "hu": "Használja az autót Selce peremvidékének felfedezéséhez. Kezdjen a Kulturális Központnál, hogy többet tudjon meg a településről. Az Uvala Slana öböl tökéletes hely egy hosszabb délelőtti tartózkodáshoz. Ezután irány vissza a kikötőbe a Tunerához és az idilli Szent József-kápolnához. A napot kényelmesen zárja a Karlovce strandon.",
         "ro": "Folosiți mașina pentru a explora zonele periferice ale orașului Selce. Începeți la Centrul Cultural pentru a afla mai multe despre localitate. Golful Uvala Slana oferă locul perfect pentru o ședere mai lungă de dimineață. După aceea, mergeți înapoi în port la Tunera și la idilica capelă Sf. Iosif. Încheiați ziua confortabil pe plaja Karlovce.",
-        "en": "Use the car to explore the outskirts of Selce. Start at the Cultural Center to learn more about the place. Uvala Slana bay offers the perfect spot for a longer morning stay. Then head back to the harbor to the Tunera and the idyllic St. Joseph's chapel. End the day comfortably at Karlovce beach."
+        "en": "Use the car to explore the outskirts of Selce. Start at the Cultural Center to learn more about the place. Uvala Slana bay offers the perfect spot for a longer morning stay. Then head back to the harbor to the Tunera and the idyllic St. Joseph's chapel. End the day comfortably at Karlovce beach.",
+        "hr": "Koristite automobil za istraživanje okolice Selca. Započnite u Kulturnom centru kako biste saznali više o mjestu. Uvala Slana nudi savršeno mjesto za duži jutarnji boravak. Zatim se vratite u luku do Tunere i idilične kapele svetog Josipa. Dan završite udobno na plaži Karlovce."
       },
       "gastro_picks": {
         "de": [
@@ -1218,6 +1334,12 @@
           {
             "name": "Restaurant Millenium",
             "tip": "Large selection of local wines."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Millenium",
+            "tip": "Veliki izbor lokalnih vina."
           }
         ]
       },
@@ -1249,6 +1371,13 @@
             "tip": "Short drive inland for panorama.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Vinodol",
+            "tip": "Kratka vožnja u unutrašnjost radi panorame.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1274,6 +1403,12 @@
           {
             "name": "Local products market",
             "tip": "Regional honey and schnapps."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Tržnica lokalnih proizvoda",
+            "tip": "Regionalni med i rakije."
           }
         ]
       },
@@ -1301,6 +1436,12 @@
           "The coastal road can be prone to traffic in summer.",
           "Drive carefully in the narrow alleys.",
           "Use the parking app for convenient payment."
+        ],
+        "hr": [
+          "Parkirališta u centru se naplaćuju.",
+          "Obalna cesta ljeti može biti podložna gužvama.",
+          "Vozite oprezno u uskim uličicama.",
+          "Koristite aplikaciju za parkiranje za praktično plaćanje."
         ]
       },
       "variants": {
@@ -1472,7 +1613,8 @@
             "de": "Vormittags besuchen Sie das Kulturzentrum im Trockenen. Mittags fahren Sie zur Uvala Slana und genießen den Blick auf die Bucht bequem aus dem warmen Auto. Nach einem kurzen Stopp an der Tunera besichtigen Sie die Josephs-Kapelle. Der Tag endet am Strand Karlovce, wo Sie das Schauspiel der Wellen geschützt beobachten können.",
             "hu": "Délelőtt a Kulturális Központot látogatjuk meg szárazon. Délben az Uvala Slana felé autózunk, a kilátást kényelmesen, a kocsiból élvezzük. A Tunera után a Szent József-kápolnát keressük fel. A nap a Karlovce strandon zárul, ahol a hullámok játékát védett helyről figyelhetjük.",
             "ro": "Dimineața vizitați Centrul Cultural la adăpost. La prânz mergeți spre Uvala Slana și admirați golful confortabil din mașină. După o scurtă oprire la Tunera, vizitați Capela Sf. Iosif. Ziua se termină la plaja Karlovce, unde puteți observa valurile de la adăpost.",
-            "en": "In the morning, visit the Cultural Centre while staying dry. At noon, drive to Uvala Slana and enjoy the bay views from the comfort of your car. After a quick stop at the Tunera, visit St. Joseph's Chapel. The day ends at Karlovce beach, watching the waves from a sheltered spot."
+            "en": "In the morning, visit the Cultural Centre while staying dry. At noon, drive to Uvala Slana and enjoy the bay views from the comfort of your car. After a quick stop at the Tunera, visit St. Joseph's Chapel. The day ends at Karlovce beach, watching the waves from a sheltered spot.",
+            "hr": "Ujutro posjetite Kulturni centar i ostanite suhi. U podne se odvezite do uvale Slane i uživajte u pogledu na zaljev iz udobnosti svog automobila. Nakon kratkog zaustavljanja kod Tunere, posjetite kapelu svetog Josipa. Dan završava na plaži Karlovce, promatrajući valove iz zaklona."
           },
           "stops": [
             {
@@ -1481,7 +1623,8 @@
                 "de": "Idealer Ort für regnerische Vormittage.",
                 "hu": "Ideális helyszín esős délelőttökre.",
                 "ro": "Loc ideal pentru diminețile ploioase.",
-                "en": "Ideal location for rainy mornings."
+                "en": "Ideal location for rainy mornings.",
+                "hr": "Idealna lokacija za kišna jutra."
               }
             },
             {
@@ -1490,7 +1633,8 @@
                 "de": "Parken Sie nah am Aussichtspunkt, um trocken zu bleiben.",
                 "hu": "Parkoljon közel a kilátóhoz, hogy száraz maradjon.",
                 "ro": "Parcați aproape de belvedere pentru a rămâne uscat.",
-                "en": "Park close to the lookout point to stay dry."
+                "en": "Park close to the lookout point to stay dry.",
+                "hr": "Parkirajte blizu vidikovca kako biste ostali suhi."
               }
             },
             {
@@ -1499,7 +1643,8 @@
                 "de": "Kurzer Fotostopp direkt vom Parkplatz aus.",
                 "hu": "Gyors fotómegálló közvetlenül a parkolóból.",
                 "ro": "Oprire foto scurtă direct din parcare.",
-                "en": "Quick photo stop directly from the parking area."
+                "en": "Quick photo stop directly from the parking area.",
+                "hr": "Brzo fotografiranje izravno s parkirališta."
               }
             },
             {
@@ -1508,7 +1653,8 @@
                 "de": "Ein kleiner, stimmungsvoller Rückzugsort bei Regen.",
                 "hu": "Kis, hangulatos búvóhely az eső elől.",
                 "ro": "Un mic refugiu atmosferic în timpul ploii.",
-                "en": "A small, atmospheric retreat during rain."
+                "en": "A small, atmospheric retreat during rain.",
+                "hr": "Malo, atmosfersko utočište tijekom kiše."
               }
             },
             {
@@ -1517,7 +1663,8 @@
                 "de": "Beobachten Sie das Meer bequem aus dem Fahrzeug.",
                 "hu": "Figyelje a tengert kényelmesen a járműből.",
                 "ro": "Observați marea confortabil din interiorul mașinii.",
-                "en": "Watch the sea comfortably from inside the vehicle."
+                "en": "Watch the sea comfortably from inside the vehicle.",
+                "hr": "Udobno promatrajte more iz unutrašnjosti vozila."
               }
             }
           ],
@@ -1545,6 +1692,12 @@
               "Watch out for aquaplaning on the coastal roads.",
               "Keep the window ventilation active to prevent fogging.",
               "An umbrella in the trunk is essential for short walks."
+            ],
+            "hr": [
+              "Parkirna mjesta je često lakše pronaći blizu znamenitosti tijekom kiše.",
+              "Pazite na akvaplaning na obalnim cestama.",
+              "Držite ventilaciju prozora aktivnom kako biste spriječili zamagljivanje.",
+              "Kišobran u prtljažniku neophodan je za kratke šetnje."
             ]
           }
         },
@@ -1553,7 +1706,8 @@
             "de": "Beginnen Sie den Tag im beheizten Kulturzentrum. Mittags bietet die Fahrt zur Uvala Slana weite Ausblicke auf das winterliche Meer. Nach der Tunera besuchen Sie die kleine Josephs-Kapelle in der stillen Altstadt. Den Abschluss bildet der Karlovce-Strand, wo Sie den Sonnenuntergang ohne die sommerliche Hitze genießen.",
             "hu": "Kezdje a napot a fűtött Kulturális Központban. Délben az Uvala Slana felé vezető út tágas kilátást nyújt a téli tengerre. A Tunera után a Szent József-kápolnát látogatjuk meg a csendes óvárosban. A napot a Karlovce strandon zárjuk a lemenő nap fényeiben.",
             "ro": "Începeți ziua în Centrul Cultural încălzit. La prânz, drumul spre Uvala Slana oferă vederi largi asupra mării de iarnă. După Tunera, vizitați Capela Sf. Iosif în centrul vechi liniștit. Finalul aparține plajei Karlovce și apusului de soare.",
-            "en": "Start the day in the heated Cultural Centre. At noon, the drive to Uvala Slana offers wide views of the winter sea. After the Tunera, visit St. Joseph's Chapel in the quiet old town. The day concludes at Karlovce beach, enjoying the sunset without the summer heat."
+            "en": "Start the day in the heated Cultural Centre. At noon, the drive to Uvala Slana offers wide views of the winter sea. After the Tunera, visit St. Joseph's Chapel in the quiet old town. The day concludes at Karlovce beach, enjoying the sunset without the summer heat.",
+            "hr": "Započnite dan u grijanom Kulturnom centru. U podne, vožnja do uvale Slane nudi širok pogled na zimsko more. Nakon Tunere, posjetite kapelu svetog Josipa u mirnom starom gradu. Dan završava na plaži Karlovce, uživajući u zalasku sunca bez ljetne vreve."
           },
           "stops": [
             {
@@ -1562,7 +1716,8 @@
                 "de": "Genießen Sie die Wärme der Innenräume.",
                 "hu": "Élvezze a belső terek melegét.",
                 "ro": "Bucurați-vă de căldura spațiilor interioare.",
-                "en": "Enjoy the warmth of the indoor spaces."
+                "en": "Enjoy the warmth of the indoor spaces.",
+                "hr": "Uživajte u toplini unutarnjih prostora."
               }
             },
             {
@@ -1571,7 +1726,8 @@
                 "de": "Die Parkplätze sind in der Nebensaison kostenlos oder günstiger.",
                 "hu": "A parkolás utószezonban ingyenes vagy olcsóbb.",
                 "ro": "Parcările sunt gratuite sau mai ieftine în extrasezon.",
-                "en": "Parking is often free or cheaper during the off-season."
+                "en": "Parking is often free or cheaper during the off-season.",
+                "hr": "Parking je često besplatan ili jeftiniji izvan sezone."
               }
             },
             {
@@ -1580,7 +1736,8 @@
                 "de": "Perfekter Stopp für ein schnelles Winterfoto.",
                 "hu": "Tökéletes helyszín egy gyors téli fotóhoz.",
                 "ro": "Oprire perfectă pentru o fotografie rapidă de iarnă.",
-                "en": "Perfect spot for a quick winter photo."
+                "en": "Perfect spot for a quick winter photo.",
+                "hr": "Savršeno mjesto za brzu zimsku fotografiju."
               }
             },
             {
@@ -1589,7 +1746,8 @@
                 "de": "Ein friedlicher Ort für einen kurzen Moment der Stille.",
                 "hu": "Békés helyszín egy rövid elcsendesedéshez.",
                 "ro": "Un loc pașnic pentru un moment scurt de liniște.",
-                "en": "A peaceful place for a brief moment of silence."
+                "en": "A peaceful place for a brief moment of silence.",
+                "hr": "Mirno mjesto za kratki trenutak tišine."
               }
             },
             {
@@ -1598,7 +1756,8 @@
                 "de": "Der Parkplatz direkt am Strand ist im Winter meist leer.",
                 "hu": "A strand melletti parkoló télen többnyire üres.",
                 "ro": "Parcarea de lângă plajă este de obicei goală iarna.",
-                "en": "The parking lot by the beach is mostly empty in winter."
+                "en": "The parking lot by the beach is mostly empty in winter.",
+                "hr": "Parkiralište uz plažu zimi je uglavnom prazno."
               }
             }
           ],
@@ -1626,6 +1785,12 @@
               "The coastal road can be tricky during Bora wind.",
               "Use the heated seats for maximum comfort.",
               "Watch out for wildlife in less populated outer areas."
+            ],
+            "hr": [
+              "Provjerite antifriz u tekućini za pranje stakla.",
+              "Obalna cesta može biti zahtjevna tijekom bure.",
+              "Koristite grijana sjedala za maksimalnu udobnost.",
+              "Pazite na divlje životinje u manje naseljenim rubnim područjima."
             ]
           }
         }
@@ -1654,7 +1819,8 @@
             "de": "Bushaltestelle direkt an der Hauptstraße.",
             "hu": "Buszmegálló közvetlenül a főúton.",
             "ro": "Stație de autobuz direct pe drumul principal.",
-            "en": "Bus stop right on the main road."
+            "en": "Bus stop right on the main road.",
+            "hr": "Autobusna stanica izravno na glavnoj cesti."
           }
         },
         {
@@ -1672,7 +1838,8 @@
             "de": "Zentrum des Geschehens.",
             "hu": "Az események központja.",
             "ro": "Centrul acțiunii.",
-            "en": "Center of the action."
+            "en": "Center of the action.",
+            "hr": "Središte svih zbivanja."
           }
         },
         {
@@ -1690,7 +1857,8 @@
             "de": "Wahrzeichen von Selce.",
             "hu": "Selce jelképe.",
             "ro": "Emblema orașului Selce.",
-            "en": "Landmark of Selce."
+            "en": "Landmark of Selce.",
+            "hr": "Simbol Selca."
           }
         },
         {
@@ -1708,7 +1876,8 @@
             "de": "Vom Zentrum aus gut zu Fuß erreichbar.",
             "hu": "A központból gyalogosan jól elérhető.",
             "ro": "Ușor accesibil pe jos din centru.",
-            "en": "Easily accessible on foot from the center."
+            "en": "Easily accessible on foot from the center.",
+            "hr": "Lako dostupno pješice iz centra."
           }
         }
       ],
@@ -1716,7 +1885,8 @@
         "de": "Selce ist gut an das regionale Busnetz angebunden. Starten Sie im Zentrum bei der Katharinenkirche. Schlendern Sie entlang der Promenade und genießen Sie das Flair der Adria. Besuchen Sie das historische Polača, bevor Sie den Nachmittag am Strand Karlovce verbringen. Die Busse nach Crikvenica oder Rijeka fahren regelmäßig.",
         "hu": "Selce jól kapcsolódik a regionális buszhálózathoz. Kezdjen a központban a Szent Katalin-templomnál. Sétáljon végig a sétányon, és élvezze az Adria hangulatát. Látogassa meg a történelmi Polačát, mielőtt a délutánt a Karlovce strandon töltené. A Crikvenicába vagy Rijekába tartó buszok rendszeresen járnak.",
         "ro": "Selce este bine conectat la rețeaua regională de autobuze. Începeți în centru la biserica Sf. Ecaterina. Plimbați-vă de-a lungul falezei și bucurați-vă de atmosfera Adriaticii. Vizitați istorica Polača înainte de a petrece după-amiaza pe plaja Karlovce. Autobuzele către Crikvenica sau Rijeka circulă regulat.",
-        "en": "Selce is well connected to the regional bus network. Start in the center at St. Catherine's church. Stroll along the promenade and enjoy the flair of the Adriatic. Visit the historic Polača before spending the afternoon at Karlovce beach. Buses to Crikvenica or Rijeka run regularly."
+        "en": "Selce is well connected to the regional bus network. Start in the center at St. Catherine's church. Stroll along the promenade and enjoy the flair of the Adriatic. Visit the historic Polača before spending the afternoon at Karlovce beach. Buses to Crikvenica or Rijeka run regularly.",
+        "hr": "Selce je dobro povezano s regionalnom autobusnom mrežom. Započnite u centru kod crkve svete Katarine. Prošećite šetnicom i uživajte u jadranskom ugođaju. Posjetite povijesnu Polaču prije popodneva na plaži Karlovce. Autobusi za Crikvenicu ili Rijeku voze redovito."
       },
       "gastro_picks": {
         "de": [
@@ -1741,6 +1911,12 @@
           {
             "name": "Restaurant Ulika",
             "tip": "Excellent pizza and grill."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Ulika",
+            "tip": "Izvrsna pizza i jela s roštilja."
           }
         ]
       },
@@ -1772,6 +1948,13 @@
             "tip": "Quieter sections for walks.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obala sjeverno",
+            "tip": "Mirniji dijelovi za šetnju.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1797,6 +1980,12 @@
           {
             "name": "Konis",
             "tip": "Drugstore and local products."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konis",
+            "tip": "Drogerija i lokalni proizvodi."
           }
         ]
       },
@@ -1824,6 +2013,12 @@
           "Use the city bus to Crikvenica.",
           "Stops are often marked with 'Autobusna stanica'.",
           "Validate the ticket when boarding."
+        ],
+        "hr": [
+          "Kupite dnevnu kartu za autobus.",
+          "Koristite gradski autobus za Crikvenicu.",
+          "Stajališta su često označena s 'Autobusna stanica'.",
+          "Poništite kartu prilikom ulaska."
         ]
       },
       "variants": {
@@ -1986,7 +2181,8 @@
             "de": "Morgens bringt Sie der Bus nah an die St. Katharinenkirche. Mittags spazieren Sie kurz über die nasse Promenade, bevor Sie im Polača Schutz finden. Nachmittags geht es weiter zum Strand Karlovce, wo Sie die regnerische Stimmung der Adria genießen können, bevor Sie den Bus zurück nehmen.",
             "hu": "Reggel a busz közel tesz le a Szent Katalin-templomhoz. Délben egy rövid séta a vizes sétányon, majd menedék a Polača falai között. Délután irány a Karlovce strand, ahol az Adria esős hangulatában gyönyörködhetünk, mielőtt visszabuszolnánk.",
             "ro": "Dimineața autobuzul vă lasă aproape de biserică. La prânz, o scurtă plimbare pe faleza umedă, apoi adăpost între zidurile Polača. După-amiaza mergeți spre plaja Karlovce pentru a vă bucura de atmosfera ploioasă a Adriaticii.",
-            "en": "In the morning, the bus drops you near St. Catherine's Church. At noon, a short walk on the wet promenade followed by shelter at Polača. In the afternoon, head to Karlovce beach to enjoy the rainy Adriatic mood before taking the bus back."
+            "en": "In the morning, the bus drops you near St. Catherine's Church. At noon, a short walk on the wet promenade followed by shelter at Polača. In the afternoon, head to Karlovce beach to enjoy the rainy Adriatic mood before taking the bus back.",
+            "hr": "Ujutro vas autobus ostavlja blizu crkve svete Katarine. U podne, kratka šetnja mokrom šetnicom nakon koje slijedi zaklon u Polači. Poslijepodne se uputite na plažu Karlovce kako biste uživali u kišnom jadranskom ugođaju prije povratka autobusom."
           },
           "stops": [
             {
@@ -1995,7 +2191,8 @@
                 "de": "Die Bushaltestelle liegt nur wenige Gehminuten entfernt.",
                 "hu": "A buszmegálló mindössze pár perc sétára található.",
                 "ro": "Stația de autobuz se află la doar câteva minute de mers.",
-                "en": "The bus stop is located just a few minutes' walk away."
+                "en": "The bus stop is located just a few minutes' walk away.",
+                "hr": "Autobusna stanica nalazi se na svega nekoliko minuta hoda."
               }
             },
             {
@@ -2004,7 +2201,8 @@
                 "de": "Warten Sie unter den Markisen der geschlossenen Cafés.",
                 "hu": "Várjon a zárva tartó kávézók napellenzői alatt.",
                 "ro": "Așteptați sub copertinele cafenelelor închise.",
-                "en": "Wait under the awnings of the closed cafés."
+                "en": "Wait under the awnings of the closed cafés.",
+                "hr": "Pričekajte pod tendama zatvorenih kafića."
               }
             },
             {
@@ -2013,7 +2211,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus zu überbrücken.",
                 "hu": "Ideális hely a következő buszig hátralévő idő eltöltésére.",
                 "ro": "Loc ideal pentru a trece timpul până la următorul autobuz.",
-                "en": "Ideal place to bridge the time until the next bus."
+                "en": "Ideal place to bridge the time until the next bus.",
+                "hr": "Idealno mjesto za premostiti vrijeme do sljedećeg autobusa."
               }
             },
             {
@@ -2022,7 +2221,8 @@
                 "de": "Die nächste Haltestelle bietet ein trockenes Wartehäuschen.",
                 "hu": "A legközelebbi buszmegállóban fedett váró van.",
                 "ro": "Cea mai apropiată stație are un adăpost uscat.",
-                "en": "The nearest bus stop has a dry shelter."
+                "en": "The nearest bus stop has a dry shelter.",
+                "hr": "Najbliža autobusna stanica ima suhi zaklon."
               }
             }
           ],
@@ -2050,6 +2250,12 @@
               "Have small change ready or use the app for tickets.",
               "Wear reflective elements for better visibility.",
               "Buses may run less frequently during bad weather."
+            ],
+            "hr": [
+              "Provjerite vozni red, jer kiša može uzrokovati kašnjenja.",
+              "Imajte sitan novac spreman ili koristite aplikaciju za karte.",
+              "Nosite reflektirajuće elemente radi bolje vidljivosti.",
+              "Autobusi mogu rjeđe voziti tijekom lošeg vremena."
             ]
           }
         },
@@ -2058,7 +2264,8 @@
             "de": "Der Wintermorgen beginnt mit einer Busfahrt zur St. Katharinenkirche. Mittags spazieren Sie über die ruhige Uferpromenade und besuchen die historische Polača. Am frühen Nachmittag erreichen Sie den Strand Karlovce, um das Wintermeer zu erleben, bevor Sie vor der frühen Dunkelheit den Rückweg antreten.",
             "hu": "A téli reggel buszozással indul a Szent Katalin-templomhoz. Délben séta a csendes tengerparton, majd látogatás a Polačához. Kora délután érünk a Karlovce strandra, hogy lássuk a téli tengert, mielőtt a korai sötétedés előtt visszaindulnánk.",
             "ro": "Dimineața de iarnă începe cu o călătorie spre biserică. La prânz, plimbare pe faleza liniștită și vizită la Polača. După-amiaza devreme ajungeți la plaja Karlovce pentru a vedea marea iarna, înainte de a pleca spre casă.",
-            "en": "The winter morning starts with a bus ride to St. Catherine's Church. At noon, stroll along the quiet promenade and visit historical Polača. In the early afternoon, reach Karlovce beach to experience the winter sea before heading back before dark."
+            "en": "The winter morning starts with a bus ride to St. Catherine's Church. At noon, stroll along the quiet promenade and visit historical Polača. In the early afternoon, reach Karlovce beach to experience the winter sea before heading back before dark.",
+            "hr": "Zimsko jutro počinje vožnjom autobusom do crkve svete Katarine. U podne prošećite mirnom šetnicom i posjetite povijesnu Polaču. Rano poslijepodne dođite do plaže Karlovce kako biste doživjeli zimsko more prije povratka prije mraka."
           },
           "stops": [
             {
@@ -2067,7 +2274,8 @@
                 "de": "Informieren Sie sich über den speziellen Winterfahrplan.",
                 "hu": "Tájékozódjon a speciális téli menetrendről.",
                 "ro": "Informați-vă despre orarul special de iarnă.",
-                "en": "Check the special winter bus schedule."
+                "en": "Check the special winter bus schedule.",
+                "hr": "Provjerite posebni zimski vozni red autobusa."
               }
             },
             {
@@ -2076,7 +2284,8 @@
                 "de": "Zügiges Gehen hält bei der kühlen Brise warm.",
                 "hu": "A tempós séta segít melegen maradni a hűvös szélben.",
                 "ro": "Mersul vioi vă ajută să vă mențineți căldura.",
-                "en": "Brisk walking helps stay warm in the cool breeze."
+                "en": "Brisk walking helps stay warm in the cool breeze.",
+                "hr": "Brzo hodanje pomaže da ostanete zagrijani na hladnom povjetarcu."
               }
             },
             {
@@ -2085,7 +2294,8 @@
                 "de": "Ein geschützter Ort zum Warten, falls der Bus Verspätung hat.",
                 "hu": "Védett hely a várakozáshoz, ha késne a busz.",
                 "ro": "Un loc protejat pentru așteptare în caz de întârziere.",
-                "en": "A sheltered spot to wait if the bus is delayed."
+                "en": "A sheltered spot to wait if the bus is delayed.",
+                "hr": "Zaklonjeno mjesto za čekanje ako autobus kasni."
               }
             },
             {
@@ -2094,7 +2304,8 @@
                 "de": "Achten Sie auf die letzte Abfahrt vor Sonnenuntergang.",
                 "hu": "Ügyeljen az utolsó járatra naplemente előtt.",
                 "ro": "Atenție la ultima cursă înainte de apus.",
-                "en": "Pay attention to the last departure before sunset."
+                "en": "Pay attention to the last departure before sunset.",
+                "hr": "Obratite pozornost na zadnji polazak prije zalaska sunca."
               }
             }
           ],
@@ -2122,6 +2333,12 @@
               "Wait in heated indoor areas until shortly before departure.",
               "Factor in the early sunset around 16:30.",
               "The Arriva app shows real-time data for the region."
+            ],
+            "hr": [
+              "Učestalost autobusa zimi je često značajno smanjena.",
+              "Čekajte u grijanim zatvorenim prostorima do neposredno prije polaska.",
+              "Uzmite u obzir rani zalazak sunca oko 16:30.",
+              "Aplikacija Arriva prikazuje podatke u stvarnom vremenu za regiju."
             ]
           }
         }

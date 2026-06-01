@@ -36,7 +36,8 @@
             "de": "Besuchen Sie die alte Schmiede in Dražice.",
             "hu": "Látogasson el a régi drazicei kovácsműhelybe.",
             "ro": "Vizitați vechea fierărie din Dražice.",
-            "en": "Visit the traditional blacksmith shop in Dražice."
+            "en": "Visit the traditional blacksmith shop in Dražice.",
+            "hr": "Posjetite tradicionalnu kovačnicu u Dražicama."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Genießen Sie einen Kaffee mit den Einheimischen.",
             "hu": "Igyon meg egy kávét a helyiekkel.",
             "ro": "Savurați o cafea alături de localnici.",
-            "en": "Enjoy a coffee with the locals."
+            "en": "Enjoy a coffee with the locals.",
+            "hr": "Uživajte u kavi s mještanima."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Eine schöne Barockkirche im Zentrum von Jelenje.",
             "hu": "Egy szép barokk templom Jelenje központjában.",
             "ro": "O frumoasă biserică barocă în centrul localității Jelenje.",
-            "en": "A beautiful baroque church in the center of Jelenje."
+            "en": "A beautiful baroque church in the center of Jelenje.",
+            "hr": "Prekrasna barokna crkva u centru Jelenja."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Probieren Sie hausgemachte Pasta (Šurlice).",
             "hu": "Kóstolja meg a házi tésztát (Šurlice).",
             "ro": "Încercați pastele de casă (Šurlice).",
-            "en": "Try the homemade pasta (Šurlice)."
+            "en": "Try the homemade pasta (Šurlice).",
+            "hr": "Probajte domaće šurlice."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Die einzige funktionierende Wassermühle am Fluss Rječina.",
             "hu": "Az egyetlen működő vízimalom a Rječina folyón.",
             "ro": "Singura moară de apă funcțională de pe râul Rječina.",
-            "en": "The only working watermill on the Rječina river."
+            "en": "The only working watermill on the Rječina river.",
+            "hr": "Jedini operativni mlin na rijeci Rječini."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Genießen Sie die Ruhe am klaren Wasser der Rječina.",
             "hu": "Élvezze a nyugalmat a Rječina tiszta vize mellett.",
             "ro": "Bucurați-vă de liniște lângă apa limpede a râului Rječina.",
-            "en": "Enjoy the peace by the clear waters of the Rječina."
+            "en": "Enjoy the peace by the clear waters of the Rječina.",
+            "hr": "Uživajte u miru uz bistru vodu Rječine."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Lassen Sie den Tag in der ländlichen Atmosphäre ausklingen.",
             "hu": "Zárja a napot a vidéki hangulatban.",
             "ro": "Încheiați ziua în atmosfera rurală relaxantă.",
-            "en": "Finish the day in the relaxing rural atmosphere."
+            "en": "Finish the day in the relaxing rural atmosphere.",
+            "hr": "Završite dan u opuštajućoj ruralnoj atmosferi."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Ihr Tag beginnt in Dražice, wo Sie die traditionelle Schmiede besuchen und das Erbe des Handwerks spüren. Nach einem Kaffee im Dorf besichtigen Sie die Kirche des Hl. Michael in Jelenje. Mittags genießen Sie die authentische Küche der Region. Am Nachmittag führt der Weg zum Gašparov mlin, einer historischen Wassermühle, gefolgt von einem entspannenden Spaziergang am Ufer der Rječina.",
         "hu": "A napot Dražice-ben kezdjük, ahol megismerkedünk a hagyományos kovácsműhely örökségével. Egy helyi kávé után meglátogatjuk a Szent Mihály-templomot Jelenje szívében. Az ebéd során megkóstoljuk a környék ízeit. Délután ellátogatunk a Gašpar-malomba, amely a Rječina folyó utolsó működő vízimalma, majd egy kellemes folyóparti sétával zárjuk az aktív napot.",
         "ro": "Ziua începe în Dražice, unde vizitați fierăria tradițională și simțiți moștenirea meșteșugului local. După o cafea în sat, descoperiți Biserica Sf. Mihail din Jelenje. La prânz, savurați preparate autentice. După-amiaza este dedicată morii lui Gašpar (Gašparov mlin), o moară de apă istorică, urmată de o plimbare relaxantă pe malul râului Rječina.",
-        "en": "Start your day in Dražice by visiting the traditional blacksmith workshop to feel the local heritage. After a coffee in the village, explore the Church of St. Michael in the center of Jelenje. Enjoy a traditional lunch at midday. The afternoon is dedicated to Gašpar's Mill, a historic working watermill, followed by a peaceful stroll along the banks of the Rječina river."
+        "en": "Start your day in Dražice by visiting the traditional blacksmith workshop to feel the local heritage. After a coffee in the village, explore the Church of St. Michael in the center of Jelenje. Enjoy a traditional lunch at midday. The afternoon is dedicated to Gašpar's Mill, a historic working watermill, followed by a peaceful stroll along the banks of the Rječina river.",
+        "hr": "Započnite dan u Dražicama posjetom tradicionalnoj kovačkoj radionici kako biste osjetili lokalnu baštinu. Nakon kave u selu, istražite crkvu sv. Mihovila u centru Jelenja. Uživajte u tradicionalnom ručku u podne. Poslijepodne je rezervirano za Gašparov mlin, povijesnu vodenicu koja još uvijek radi, nakon čega slijedi mirna šetnja obalom Rječine."
       },
       "gastro_picks": {
         "de": [
@@ -207,6 +215,12 @@
           {
             "name": "Konoba Jelenje",
             "tip": "Homemade šurlice pasta with venison goulash."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Jelenje",
+            "tip": "Domaće šurlice s gulašom od divljači."
           }
         ]
       },
@@ -238,6 +252,13 @@
             "tip": "Quiet spot by the flowing water.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obala Rječine",
+            "tip": "Mirno mjesto uz žubor vode.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -264,6 +285,12 @@
             "name": "Local Honey",
             "tip": "Buy fresh honey directly from local farmers."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni med",
+            "tip": "Kupite svježi med izravno od lokalnih pčelara."
+          }
         ]
       },
       "tips": {
@@ -282,6 +309,10 @@
         "en": [
           "Comfortable shoes are recommended for the walk to the mill.",
           "Check the opening hours of the blacksmith shop at the local info center."
+        ],
+        "hr": [
+          "Preporučuje se udobna obuća za šetnju do mlina.",
+          "Radno vrijeme kovačnice provjerite u lokalnom informativnom centru."
         ]
       },
       "variants": {
@@ -290,7 +321,8 @@
             "de": "Der Vormittag beginnt auf dem Dražice-Platz unter dem Schutz der Arkaden, gefolgt von der Schmiede, wo das Feuer die Feuchtigkeit vertreibt. Mittags wärmt ein kräftiger Eintopf in der Konoba den Geist, während draußen der Regen auf das Kopfsteinpflaster trommelt.\nNachmittags bietet die Gašpar-Mühle einen sicheren Zufluchtsort; das Rauschen der Rječina vermischt sich mit dem Prasseln auf das Dach. Der Tag endet gemütlich bei einer heißen Tasse Tee im Dorf, während der Nebel über die Grobnik-Berge zieht.",
             "hu": "A délelőtt a Dražice téren kezdődik az árkádok alatt, majd a kovácsműhelyben a tűz melege űzi el az eső nyirkosságát. Délben a helyi konobában egy sűrű leves ad erőt, miközben az ablakon kopog az eső.\nDélután a Gašpar-malom nyújt fedett menedéket, ahol a Rječina zúgása és az eső dobolása különleges ritmust ad a tájnak. A napot egy forró tea mellett zárjuk a faluban, nézve a Grobnik-hegyek felett úszó ködfelhőket.",
             "ro": "Dimineața începe în Piața Dražice sub protecția arcadelor, urmată de fierărie, unde căldura focului alungă umezeala. La prânz, o tocană caldă în konoba locală oferă confort în timp ce ploaia bate în geamuri.\nDupă-amiaza, Moara lui Gašpar oferă un adăpost sigur; sunetul râului Rječina se împletește cu ritmul ploii pe acoperiș. Ziua se încheie liniștit cu un ceai fierbinte în sat, privind ceața care se ridică peste munții Grobnik.",
-            "en": "The morning starts at Dražice Square under the cover of arcades, followed by the forge where the fire's heat dispels the dampness. At noon, a hearty stew in a local konoba warms the soul while rain drums on the cobblestones.\nIn the afternoon, Gašpar's Mill provides a dry haven; the sound of the Rječina river blends with the patter on the roof. The day ends cozily with a hot tea in the village as mist rolls over the Grobnik mountains."
+            "en": "The morning starts at Dražice Square under the cover of arcades, followed by the forge where the fire's heat dispels the dampness. At noon, a hearty stew in a local konoba warms the soul while rain drums on the cobblestones.\nIn the afternoon, Gašpar's Mill provides a dry haven; the sound of the Rječina river blends with the patter on the roof. The day ends cozily with a hot tea in the village as mist rolls over the Grobnik mountains.",
+            "hr": "Jutro započinje na trgu u Dražicama pod arkadama, a zatim slijedi kovačnica gdje toplina vatre tjera vlagu. U podne, izdašno varivo u lokalnoj konobi grije dušu dok kiša bubnja po kamenim ulicama.\nPoslijepodne, Gašparov mlin nudi suho utočište; šum Rječine miješa se s kuckanjem kiše po krovu. Dan završava ugodno uz topli čaj u selu dok se magla spušta nad grobničke planine."
           },
           "stops": [
             {
@@ -299,7 +331,8 @@
                 "de": "Nutzen Sie den Eingangsbereich der Schmiede als Unterstand vor dem Regen.",
                 "hu": "Használja a kovácsműhely bejáratát eső elleni menedékként.",
                 "ro": "Folosiți intrarea fierăriei ca adăpost împotriva ploii.",
-                "en": "Use the forge entrance as a shelter from the rain."
+                "en": "Use the forge entrance as a shelter from the rain.",
+                "hr": "Koristite ulaz u kovačnicu kao zaklon od kiše."
               }
             },
             {
@@ -308,7 +341,8 @@
                 "de": "Ein idealer Ort, um die Kleidung zu trocknen und sich aufzuwärmen.",
                 "hu": "Ideális hely a ruhák megszárítására és a felmelegedésre.",
                 "ro": "Un loc ideal pentru a vă usca hainele și a vă încălzi.",
-                "en": "An ideal place to dry your clothes and warm up."
+                "en": "An ideal place to dry your clothes and warm up.",
+                "hr": "Idealno mjesto za sušenje odjeće i grijanje."
               }
             },
             {
@@ -317,7 +351,8 @@
                 "de": "Bewundern Sie die Stille des Innenraums, während es draußen regnet.",
                 "hu": "Csodálja meg a belső tér nyugalmát, miközben odakint esik.",
                 "ro": "Admirați liniștea interiorului în timp ce afară plouă.",
-                "en": "Admire the silence of the interior while it rains outside."
+                "en": "Admire the silence of the interior while it rains outside.",
+                "hr": "Divite se tišini unutrašnjosti dok vani pada kiša."
               }
             },
             {
@@ -326,7 +361,8 @@
                 "de": "Fragen Sie nach traditionellen, warmen Löffelgerichten (Varivo).",
                 "hu": "Kérjen hagyományos, meleg egytálételeket (Varivo).",
                 "ro": "Cereți preparate tradiționale calde la lingură (Varivo).",
-                "en": "Ask for traditional, warm spoon dishes (Varivo)."
+                "en": "Ask for traditional, warm spoon dishes (Varivo).",
+                "hr": "Tražite tradicionalna, topla jela 'na žlicu' (varivo)."
               }
             },
             {
@@ -335,7 +371,8 @@
                 "de": "Besichtigen Sie das hölzerne Mahlwerk im Inneren der trockenen Mühle.",
                 "hu": "Tekintse meg a fa őrlőszerkezetet a száraz malom belsejében.",
                 "ro": "Vizitați mecanismul de măcinat din lemn în interiorul morii uscate.",
-                "en": "Visit the wooden grinding mechanism inside the dry mill."
+                "en": "Visit the wooden grinding mechanism inside the dry mill.",
+                "hr": "Razgledajte drveni mehanizam unutar suhog mlina."
               }
             },
             {
@@ -344,7 +381,8 @@
                 "de": "Vorsicht vor rutschigen Steinen am Ufer der Rječina.",
                 "hu": "Vigyázat, a Rječina partján a kövek csúszósak lehetnek.",
                 "ro": "Atenție la pietrele alunecoase de pe malul râului Rječina.",
-                "en": "Careful, the stones by the Rječina bank can be slippery."
+                "en": "Careful, the stones by the Rječina bank can be slippery.",
+                "hr": "Oprez, kamenje na obali Rječine može biti sklisko."
               }
             },
             {
@@ -353,7 +391,8 @@
                 "de": "Ein letzter Blick auf den Fluss unter einem Regenschirm.",
                 "hu": "Egy utolsó pillantás a folyóra egy esernyő alól.",
                 "ro": "O ultimă privire spre râu de sub o umbrelă.",
-                "en": "A final glance at the river from under an umbrella."
+                "en": "A final glance at the river from under an umbrella.",
+                "hr": "Posljednji pogled na rijeku ispod kišobrana."
               }
             }
           ],
@@ -381,6 +420,12 @@
               "A sturdy umbrella is essential due to the winds in the Grobnik plain.",
               "Visit the forge first to warm up for the day.",
               "Check the Rječina water levels; the river is especially impressive after rain."
+            ],
+            "hr": [
+              "Nosite vodootporne cipele jer staze uz rijeku mogu biti blatne.",
+              "Čvrst kišobran je neophodan zbog vjetrova na Grobničkom polju.",
+              "Prvo posjetite kovačnicu kako biste se ugrijali za ostatak dana.",
+              "Provjerite vodostaj Rječine; rijeka je posebno impresivna nakon kiše."
             ]
           }
         },
@@ -389,7 +434,8 @@
             "de": "Die klare Winterluft am Morgen lässt die Schmiede in Dražice noch gemütlicher wirken, wenn der Rauch aus dem Schornstein steigt. Ein heißer Kaffee im Dorf weckt die Lebensgeister vor dem Besuch der kalten, aber majestätischen Kirche.\nDas Mittagessen besteht aus deftigem geräuchertem Fleisch und Sauerkraut, perfekt gegen den Frost. Am Nachmittag glitzert der Raureif an der Gašpar-Mühle, und der Spaziergang am Flussufer ist kurz, aber erfrischend.\nSobald die Sonne gegen 16:30 Uhr hinter den Gipfeln verschwindet, ziehen wir uns in die Wärme einer lokalen Gaststätte zurück.",
             "hu": "A reggeli friss téli levegőben Dražice kovácsműhelye még hívogatóbb, ahogy a füst felszáll a kéményből. Egy erős kávé a faluban felébreszti az érzékeket a hideg, de fenséges templomlátogatás előtt.\nA fagy ellen a legjobb ellenszer a füstölt húsból és savanyú káposztából álló ebéd. Délután zúzmara csillog a Gašpar-malmon, a folyóparti séta pedig rövid, de frissítő.\nAmint a nap 16:30 körül eltűnik a csúcsok mögött, visszahúzódunk egy helyi vendéglő melegébe.",
             "ro": "Aerul proaspăt de iarnă face fierăria din Dražice și mai primitoare dimineața, când fumul se ridică din coș. O cafea tare în sat trezește simțurile înainte de vizita la biserica rece, dar maiestuoasă.\nPrânzul constă în carne afumată și varză murată, remediul perfect împotriva gerului. După-amiaza, chiciura strălucește pe Moara lui Gašpar, iar plimbarea pe malul râului este scurtă, dar revigorantă.\nImediat ce soarele dispare după creste în jurul orei 16:30, ne retragem la căldura unui local local.",
-            "en": "The crisp winter air makes the Dražice forge even more inviting in the morning as smoke rises from the chimney. A strong coffee in the village awakens the senses before visiting the cold but majestic church.\nLunch features hearty smoked meats and sauerkraut, the perfect remedy against the frost. In the afternoon, hoarfrost sparkles on Gašpar's Mill, and the riverside walk is short but refreshing.\nAs soon as the sun disappears behind the peaks around 4:30 PM, we retreat to the warmth of a local eatery."
+            "en": "The crisp winter air makes the Dražice forge even more inviting in the morning as smoke rises from the chimney. A strong coffee in the village awakens the senses before visiting the cold but majestic church.\nLunch features hearty smoked meats and sauerkraut, the perfect remedy against the frost. In the afternoon, hoarfrost sparkles on Gašpar's Mill, and the riverside walk is short but refreshing.\nAs soon as the sun disappears behind the peaks around 4:30 PM, we retreat to the warmth of a local eatery.",
+            "hr": "Oštri zimski zrak čini kovačnicu u Dražicama još privlačnijom ujutro dok se dim diže iz dimnjaka. Jaka kava u selu budi osjetila prije posjeta hladnoj, ali veličanstvenoj crkvi.\nZa ručak se nude dimljeno meso i kiseli kupus, savršen lijek protiv mraza. Poslijepodne, inje svjetluca na Gašparovu mlinu, a šetnja uz rijeku je kratka, ali osvježavajuća.\nČim sunce nestane iza vrhova oko 16:30, povlačimo se u toplinu lokalnog restorana."
           },
           "stops": [
             {
@@ -398,7 +444,8 @@
                 "de": "Wärmen Sie sich am offenen Feuer der Schmiede auf.",
                 "hu": "Melegedjen fel a kovácsműhely nyitott tüze mellett.",
                 "ro": "Încălziți-vă la focul deschis al fierăriei.",
-                "en": "Warm yourself by the open fire in the forge."
+                "en": "Warm yourself by the open fire in the forge.",
+                "hr": "Ugrije se uz otvorenu vatru u kovačnici."
               }
             },
             {
@@ -407,7 +454,8 @@
                 "de": "Probieren Sie heiße Schokolade oder starken Espresso.",
                 "hu": "Kóstolja meg a forró csokoládét vagy egy erős eszpresszót.",
                 "ro": "Încercați o ciocolată caldă sau un espresso tare.",
-                "en": "Try a hot chocolate or a strong espresso."
+                "en": "Try a hot chocolate or a strong espresso.",
+                "hr": "Probajte toplu čokoladu ili jaki espresso."
               }
             },
             {
@@ -416,7 +464,8 @@
                 "de": "Mütze und Handschuhe anlassen – Kirchenräume sind im Winter sehr kalt.",
                 "hu": "Hagyja magán a sapkát és kesztyűt – a templom télen nagyon hideg.",
                 "ro": "Păstrați căciula și mănușile – interiorul bisericii este foarte rece iarna.",
-                "en": "Keep your hat and gloves on – the church interior is very cold in winter."
+                "en": "Keep your hat and gloves on – the church interior is very cold in winter.",
+                "hr": "Ne skidajte kapu i rukavice – unutrašnjost crkve je zimi vrlo hladna."
               }
             },
             {
@@ -425,7 +474,8 @@
                 "de": "Bestellen Sie 'Kiseli kupus' (Sauerkraut) zur Stärkung.",
                 "hu": "Rendeljen 'Kiseli kupus'-t (savanyú káposzta) az erőgyűjtéshez.",
                 "ro": "Comandați 'Kiseli kupus' (varză murată) pentru energie.",
-                "en": "Order 'Kiseli kupus' (sauerkraut) for energy."
+                "en": "Order 'Kiseli kupus' (sauerkraut) for energy.",
+                "hr": "Naručite kiseli kupus za energiju."
               }
             },
             {
@@ -434,7 +484,8 @@
                 "de": "Achten Sie auf vereiste Stellen am Mühlrad.",
                 "hu": "Ügyeljen a jeges részekre a malomkerék környékén.",
                 "ro": "Atenție la porțiunile înghețate din jurul roții morii.",
-                "en": "Watch out for icy spots around the mill wheel."
+                "en": "Watch out for icy spots around the mill wheel.",
+                "hr": "Pazite na zaleđena mjesta oko mlinskog kotača."
               }
             },
             {
@@ -443,7 +494,8 @@
                 "de": "Genießen Sie die klare Sicht auf die schneebedeckten Berge.",
                 "hu": "Élvezze a tiszta kilátást a hófödte hegyekre.",
                 "ro": "Bucurați-vă de vederea clară spre munții înzăpeziți.",
-                "en": "Enjoy the clear view of the snow-capped mountains."
+                "en": "Enjoy the clear view of the snow-capped mountains.",
+                "hr": "Uživajte u čistom pogledu na snijegom prekrivene planine."
               }
             },
             {
@@ -452,7 +504,8 @@
                 "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit (ca. 16:30 Uhr).",
                 "hu": "Fejezze be a túrát sötétedés előtt (kb. 16:30).",
                 "ro": "Încheiați turul înainte de lăsarea întunericului (aprox. 16:30).",
-                "en": "Finish the tour before dark (approx. 4:30 PM)."
+                "en": "Finish the tour before dark (approx. 4:30 PM).",
+                "hr": "Završite turu prije mraka (oko 16:30)."
               }
             }
           ],
@@ -480,6 +533,12 @@
               "The sun sets early behind the mountains, plan to finish by 4:00 PM.",
               "Wear shoes with good grip for potentially frozen paths.",
               "Many konobas heat with wood stoves – find a table nearby."
+            ],
+            "hr": [
+              "Odjenite se slojevito zbog oštre bure.",
+              "Sunce rano zalazi iza planina, planirajte završetak do 16:00.",
+              "Nosite obuću s dobrim prianjanjem zbog mogućih zaleđenih staza.",
+              "Mnoge konobe griju se na drva – potražite stol u blizini peći."
             ]
           }
         }
@@ -513,7 +572,8 @@
             "de": "Startpunkt der Tour mit historischem Einblick.",
             "hu": "A túra kezdőpontja történelmi betekintéssel.",
             "ro": "Punctul de plecare cu o incursiune istorică.",
-            "en": "Starting point with a historical insight."
+            "en": "Starting point with a historical insight.",
+            "hr": "Početna točka s povijesnim uvidom."
           }
         },
         {
@@ -536,7 +596,8 @@
             "de": "Füllen Sie Ihre Trinkflasche am frischen Bach.",
             "hu": "Töltse meg kulacsát a friss patakvíznél.",
             "ro": "Umpleți sticla cu apă proaspătă de izvor.",
-            "en": "Refill your water bottle at the fresh stream."
+            "en": "Refill your water bottle at the fresh stream.",
+            "hr": "Napunite bocu vode na svježem potoku."
           }
         },
         {
@@ -559,7 +620,8 @@
             "de": "Ein spektakulärer Ort unter den Klippen.",
             "hu": "Látványos hely a sziklafalak alatt.",
             "ro": "Un loc spectaculos la poalele stâncilor.",
-            "en": "A spectacular spot under the cliffs."
+            "en": "A spectacular spot under the cliffs.",
+            "hr": "Spektakularno mjesto pod liticama."
           }
         },
         {
@@ -582,7 +644,8 @@
             "de": "Genießen Sie mitgebrachte lokale Spezialitäten.",
             "hu": "Élvezze a hozott helyi finomságokat.",
             "ro": "Savurați specialități locale luate la pachet.",
-            "en": "Enjoy local specialties you brought along."
+            "en": "Enjoy local specialties you brought along.",
+            "hr": "Uživajte u lokalnim specijalitetima koje ste ponijeli."
           }
         },
         {
@@ -605,7 +668,8 @@
             "de": "Kurzer Stopp vor der Rückkehr.",
             "hu": "Rövid megálló a visszatérés előtt.",
             "ro": "Scurt popas înainte de întoarcere.",
-            "en": "Short stop before heading back."
+            "en": "Short stop before heading back.",
+            "hr": "Kratko zaustavljanje prije povratka."
           }
         },
         {
@@ -628,7 +692,8 @@
             "de": "Ein kaltes Getränk nach der Radtour.",
             "hu": "Egy hideg ital a bringázás után.",
             "ro": "O băutură rece după tura cu bicicleta.",
-            "en": "A cold drink after the bike ride."
+            "en": "A cold drink after the bike ride.",
+            "hr": "Hladno piće nakon vožnje biciklom."
           }
         }
       ],
@@ -636,7 +701,8 @@
         "de": "Die Radtour beginnt in Dražice und führt Sie tiefer in das Rječina-Tal. Sie passieren den Gašparov mlin und radeln weiter zum beeindruckenden Izvor Rječine, der Quelle des Flusses. Nach einem Picknick in der unberührten Natur kehren Sie über Jelenje zurück, wo Sie die Michaelskirche besuchen, bevor Sie die Tour gemütlich bei einem Erfrischungsgetränk beenden.",
         "hu": "A kerékpártúra Dražice-ből indul és a Rječina-völgy mélyére vezet. Elhaladunk a Gašpar-malom mellett, majd eltekerünk a lenyűgöző Rječina-forráshoz. A természetben eltöltött piknik után Jelenjén keresztül térünk vissza, érintve a Szent Mihály-templomot, végül egy hűsítő itallal pihenjük ki a túra fáradalmait.",
         "ro": "Turul cu bicicleta pornește din Dražice și vă poartă în inima văii Rječina. Treceți pe lângă moara lui Gašpar și pedalați până la impresionantul Izvor Rječine, sursa râului. După un picnic în natură, vă întoarceți prin Jelenje, vizitând biserica locală și încheind excursia cu o băutură răcoritoare binemeritată.",
-        "en": "The bike tour starts in Dražice and leads you deep into the Rječina valley. Pass by Gašpar's Mill and cycle up to the impressive Izvor Rječine, the source of the river. After a picnic in pure nature, return through Jelenje to visit the local church and finish the ride with a refreshing drink in the village."
+        "en": "The bike tour starts in Dražice and leads you deep into the Rječina valley. Pass by Gašpar's Mill and cycle up to the impressive Izvor Rječine, the source of the river. After a picnic in pure nature, return through Jelenje to visit the local church and finish the ride with a refreshing drink in the village.",
+        "hr": "Biciklistička tura počinje u Dražicama i vodi vas duboko u dolinu Rječine. Prođite pored Gašparova mlina i odvezite se do impresivnog izvora Rječine. Nakon piknika u čistoj prirodi, vratite se kroz Jelenje kako biste posjetili lokalnu crkvu i završili vožnju osvježavajućim pićem u selu."
       },
       "gastro_picks": {
         "de": [
@@ -661,6 +727,12 @@
           {
             "name": "Bakery in Dražice",
             "tip": "Pick up some fresh burek for the picnic."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pekarnica u Dražicama",
+            "tip": "Uzmite svježi burek za piknik."
           }
         ]
       },
@@ -692,6 +764,13 @@
             "tip": "Beautiful natural spring under the rocks.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Izvor Rječine",
+            "tip": "Prekrasan prirodni izvor pod stijenama.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -718,6 +797,12 @@
             "name": "Local Cheese",
             "tip": "Cheese from farms in the valley."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni sir",
+            "tip": "Sir s farmi u dolini."
+          }
         ]
       },
       "tips": {
@@ -736,6 +821,10 @@
         "en": [
           "The path to the source is partly gravel.",
           "Take enough water with you as there are few shops along the way."
+        ],
+        "hr": [
+          "Staza do izvora je djelomično makadamska.",
+          "Ponesite dovoljno vode jer uz put ima malo trgovina."
         ]
       },
       "variants": {
@@ -744,7 +833,8 @@
             "de": "Die Radtour startet vorsichtig in Dražice, wo wir die Schmiede als ersten trockenen Stopp nutzen. Die Fahrt zur Mühle führt über nasse Asphaltwege, während die Luft nach frischer Erde riecht. Mittags suchen wir Schutz in Martinovo Selo.\nDie Route zur Rječina-Quelle erfordert volle Konzentration bei Regen, doch die mystische Stimmung im Wald entschädigt für alles. Ein Picknick fällt aus; stattdessen kehren wir früher nach Dražice zurück, um uns bei einem warmen Getränk aufzuwärmen.",
             "hu": "A kerékpártúra óvatosan indul Dražicében, ahol a kovácsműhely az első száraz megállónk. A malom felé vezető út vizes aszfalton halad, miközben a levegő friss földillatú. Délben Martinovo Selo házai között keresünk menedéket.\nA Rječina-forráshoz vezető út nagy koncentrációt igényel esőben, de az erdő misztikus hangulata kárpótol mindenért. A piknik elmarad; helyette korábban térünk vissza Dražicébe egy forró italra.",
             "ro": "Turul cu bicicleta începe cu prudență în Dražice, unde fierăria este prima oprire uscată. Drumul spre moară trece peste asfalt ud, în timp ce aerul miroase a pământ proaspăt. La prânz, căutăm adăpost printre casele din Martinovo Selo.\nRuta spre izvorul Rječina necesită concentrare maximă pe ploaie, dar atmosfera mistică din pădure compensează totul. Picnicul se anulează; în schimb, ne întoarcem mai devreme în Dražice pentru o băutură caldă.",
-            "en": "The bike tour starts cautiously in Dražice, using the forge as the first dry stop. The ride to the mill follows wet asphalt roads, with the air smelling of fresh earth. At noon, we seek shelter among the houses of Martinovo Selo.\nThe route to the Rječina source requires full concentration in the rain, but the mystical atmosphere of the forest makes up for it. The picnic is cancelled; instead, we return to Dražice earlier for a warm drink."
+            "en": "The bike tour starts cautiously in Dražice, using the forge as the first dry stop. The ride to the mill follows wet asphalt roads, with the air smelling of fresh earth. At noon, we seek shelter among the houses of Martinovo Selo.\nThe route to the Rječina source requires full concentration in the rain, but the mystical atmosphere of the forest makes up for it. The picnic is cancelled; instead, we return to Dražice earlier for a warm drink.",
+            "hr": "Biciklistička tura počinje oprezno u Dražicama, koristeći kovačnicu kao prvu suhu stanicu. Vožnja do mlina prati mokre asfaltne ceste, uz miris svježe zemlje u zraku. U podne tražimo zaklon među kućama Martinovog Sela.\nRuta do izvora Rječine zahtijeva punu koncentraciju po kiši, ali mistična atmosfera šume to nadoknađuje. Piknik se otkazuje; umjesto toga, vraćamo se ranije u Dražice na topli napitak."
           },
           "stops": [
             {
@@ -753,7 +843,8 @@
                 "de": "Stellen Sie die Räder unter das Vordach, bevor Sie eintreten.",
                 "hu": "Állítsa a bicikliket az előtető alá, mielőtt belép.",
                 "ro": "Parcați bicicletele sub streașină înainte de a intra.",
-                "en": "Park the bikes under the overhang before entering."
+                "en": "Park the bikes under the overhang before entering.",
+                "hr": "Parkirajte bicikle pod nadstrešnicu prije ulaska."
               }
             },
             {
@@ -762,7 +853,8 @@
                 "de": "Ein guter Ort, um die Regenkleidung zu richten.",
                 "hu": "Jó hely az esőruházat igazítására.",
                 "ro": "Un loc bun pentru a vă ajusta echipamentul de ploaie.",
-                "en": "A good place to adjust your rain gear."
+                "en": "A good place to adjust your rain gear.",
+                "hr": "Dobro mjesto za podešavanje kišne opreme."
               }
             },
             {
@@ -771,7 +863,8 @@
                 "de": "Vorsicht auf dem unbefestigten Waldweg, Rutschgefahr!",
                 "hu": "Vigyázat a burkolatlan erdei úton, csúszásveszély!",
                 "ro": "Atenție pe drumul forestier neasfaltat, pericol de alunecare!",
-                "en": "Careful on the unpaved forest path, danger of slipping!"
+                "en": "Careful on the unpaved forest path, danger of slipping!",
+                "hr": "Oprez na neasfaltiranoj šumskoj stazi, opasnost od klizanja!"
               }
             },
             {
@@ -780,7 +873,8 @@
                 "de": "Verkürzen Sie den Aufenthalt oder suchen Sie eine Schutzhütte.",
                 "hu": "Rövidítse le a pihenőt, vagy keressen egy esőbeállót.",
                 "ro": "Scurtați oprirea sau căutați un adăpost.",
-                "en": "Shorten the break or look for a shelter."
+                "en": "Shorten the break or look for a shelter.",
+                "hr": "Skratite pauzu ili potražite zaklon."
               }
             },
             {
@@ -789,7 +883,8 @@
                 "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Kirchplatz.",
                 "hu": "Kerülje az erős fékezést a vizes templomtéren.",
                 "ro": "Evitați frânările bruște pe piața udă a bisericii.",
-                "en": "Avoid sharp braking on the wet church square."
+                "en": "Avoid sharp braking on the wet church square.",
+                "hr": "Izbjegavajte naglo kočenje na mokrom crkvenom trgu."
               }
             },
             {
@@ -798,7 +893,8 @@
                 "de": "Genießen Sie das Ende der Tour im Trockenen.",
                 "hu": "Élvezze a túra végét száraz helyen.",
                 "ro": "Bucurați-vă de finalul turului la adăpost.",
-                "en": "Enjoy the end of the tour in a dry place."
+                "en": "Enjoy the end of the tour in a dry place.",
+                "hr": "Uživajte u završetku ture na suhom mjestu."
               }
             }
           ],
@@ -826,6 +922,12 @@
               "Slightly reduce tire pressure for better grip on wet asphalt.",
               "Avoid forest paths directly by the river during heavy rain.",
               "Wear neon rain gear for better visibility."
+            ],
+            "hr": [
+              "Blatobrani na biciklu su neophodni po ovakvom vremenu.",
+              "Malo smanjite tlak u gumama za bolje prianjanje na mokrom asfaltu.",
+              "Izbjegavajte šumske staze tik uz rijeku tijekom jake kiše.",
+              "Nosite neonsku kišnu opremu za bolju vidljivost."
             ]
           }
         },
@@ -834,7 +936,8 @@
             "de": "Frostige Temperaturen begleiten den Start in Dražice; die Schmiede ist ein Segen für kalte Hände. Die Fahrt zur Mühle ist kurz und knackig, die Luft reinigt die Lungen. Mittags gibt es eine heiße Suppe statt eines Picknicks im Freien.\nDer Weg zur Rječina-Quelle zeigt sich in winterlicher Stille, eventuell liegt Reif auf den Bäumen. Wir halten die Pausen kurz, um nicht auszukühlen. Zurück in Dražice freuen wir uns auf die Wärme der Gaststube, bevor die frühe Dämmerung einsetzt.",
             "hu": "Fagyos hőmérséklet kíséri az indulást Dražicében; a kovácsműhely áldás a hideg kezeknek. Az út a malomig rövid és pörgős, a levegő tisztítja a tüdőt. Ebédre egy forró levest választunk a szabadban való piknikezés helyett.\nA Rječina-forráshoz vezető út téli csendben telik, talán zúzmara fedi a fákat. A pihenőket rövidre fogjuk, hogy ne hűljünk ki. Visszatérve Dražicébe a vendéglő melegére vágyunk, mielőtt beáll a korai szürkület.",
             "ro": "Temperaturile înghețate însoțesc startul în Dražice; fierăria este o binecuvântare pentru mâinile reci. Drumul spre moară este scurt și intens, aerul curățând plămânii. La prânz alegem o supă caldă în locul unui picnic în aer liber.\nDrumul spre izvorul Rječina este dominat de o liniște hibernală, probabil cu chiciură pe copaci. Menținem pauzele scurte pentru a nu ne răci. Întorși în Dražice, ne bucurăm de căldura hanului înainte de amurgul timpuriu.",
-            "en": "Frosty temperatures accompany the start in Dražice; the forge is a blessing for cold hands. The ride to the mill is short and brisk, the air cleaning the lungs. For lunch, we opt for a hot soup instead of an outdoor picnic.\nThe path to the Rječina source is filled with winter silence, perhaps with frost on the trees. We keep breaks short to avoid getting chilled. Back in Dražice, we look forward to the warmth of the tavern before the early twilight sets in."
+            "en": "Frosty temperatures accompany the start in Dražice; the forge is a blessing for cold hands. The ride to the mill is short and brisk, the air cleaning the lungs. For lunch, we opt for a hot soup instead of an outdoor picnic.\nThe path to the Rječina source is filled with winter silence, perhaps with frost on the trees. We keep breaks short to avoid getting chilled. Back in Dražice, we look forward to the warmth of the tavern before the early twilight sets in.",
+            "hr": "Ledene temperature prate početak u Dražicama; kovačnica je blagoslov za hladne ruke. Vožnja do mlina je kratka i brza, a zrak čisti pluća. Za ručak biramo toplu juhu umjesto piknika na otvorenom.\nStaza do izvora Rječine ispunjena je zimskom tišinom i injem na drveću. Pauze držimo kratkima kako se ne bismo pothladili. Povratkom u Dražice, radujemo se toplini konobe prije ranog sumraka."
           },
           "stops": [
             {
@@ -843,7 +946,8 @@
                 "de": "Perfekt zum Aufwärmen der Finger vor der Weiterfahrt.",
                 "hu": "Tökéletes az ujjak felmelegítésére a továbbindulás előtt.",
                 "ro": "Perfect pentru încălzirea degetelor înainte de a continua drumul.",
-                "en": "Perfect for warming up your fingers before riding on."
+                "en": "Perfect for warming up your fingers before riding on.",
+                "hr": "Savršeno za grijanje prstiju prije nastavka vožnje."
               }
             },
             {
@@ -852,7 +956,8 @@
                 "de": "Trinken Sie lauwarmes Wasser, um den Körper nicht zu schocken.",
                 "hu": "Igyon langyos vizet, hogy ne érje sokk a szervezetét.",
                 "ro": "Beți apă călduță pentru a nu șoca organismul.",
-                "en": "Drink lukewarm water to avoid shocking your body."
+                "en": "Drink lukewarm water to avoid shocking your body.",
+                "hr": "Pijte mlaku vodu kako biste izbjegli šok za tijelo."
               }
             },
             {
@@ -861,7 +966,8 @@
                 "de": "Vorsicht vor gefrorenen Pfützen auf dem Waldweg.",
                 "hu": "Vigyázat az erdei úton lévő fagyott tócsákkal.",
                 "ro": "Atenție la bălțile înghețate de pe drumul forestier.",
-                "en": "Watch out for frozen puddles on the forest path."
+                "en": "Watch out for frozen puddles on the forest path.",
+                "hr": "Pazite na zaleđene lokve na šumskoj stazi."
               }
             },
             {
@@ -870,7 +976,8 @@
                 "de": "Nur ein kurzer Stopp für einen Energieriegel; nicht zu lange sitzen.",
                 "hu": "Csak egy rövid megálló egy energiaszeletre; ne üljön le túl sokáig.",
                 "ro": "Doar o scurtă oprire pentru un baton energizant; nu stați jos mult timp.",
-                "en": "Just a short stop for an energy bar; don't sit too long."
+                "en": "Just a short stop for an energy bar; don't sit too long.",
+                "hr": "Samo kratko stajanje za energetsku pločicu; ne sjedite predugo."
               }
             },
             {
@@ -879,7 +986,8 @@
                 "de": "Kurze Innenbesichtigung, um den Windschatten zu genießen.",
                 "hu": "Rövid belső látogatás a szélárnyék élvezetéhez.",
                 "ro": "O scurtă vizită în interior pentru a vă bucura de adăpost.",
-                "en": "A short interior visit to enjoy the windbreak."
+                "en": "A short interior visit to enjoy the windbreak.",
+                "hr": "Kratki posjet unutrašnjosti za zaklon od vjetra."
               }
             },
             {
@@ -888,7 +996,8 @@
                 "de": "Wechseln Sie verschwitzte Unterwäsche sofort gegen trockene Kleidung.",
                 "hu": "Azonnal cserélje le az izzadt alsóruházatot szárazra.",
                 "ro": "Schimbați imediat lenjeria transpirată cu haine uscate.",
-                "en": "Immediately change sweaty base layers for dry clothes."
+                "en": "Immediately change sweaty base layers for dry clothes.",
+                "hr": "Odmah zamijenite oznojenu odjeću suhom."
               }
             }
           ],
@@ -916,6 +1025,12 @@
               "Avoid riding in open areas during strong Bura wind gusts.",
               "Carry a thermos with hot tea.",
               "Check your brakes; they can react differently in the cold."
+            ],
+            "hr": [
+              "Nosite rukavice otporne na vjetar i kapu ispod kacige.",
+              "Izbjegavajte vožnju na otvorenim dijelovima tijekom jakih udara bure.",
+              "Nosite termosicu s toplim čajem.",
+              "Provjerite kočnice; mogu reagirati drugačije na hladnoći."
             ]
           }
         }
@@ -949,7 +1064,8 @@
             "de": "Parken Sie hier für den ersten Cluster.",
             "hu": "Parkoljon le itt az első részhez.",
             "ro": "Parcați aici pentru primul segment.",
-            "en": "Park here for the first cluster."
+            "en": "Park here for the first cluster.",
+            "hr": "Parkirajte ovdje za prvi dio obilaska."
           }
         },
         {
@@ -972,7 +1088,8 @@
             "de": "Zu Fuß erreichbar vom Parkplatz.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos de la parcare.",
-            "en": "Walkable from the parking spot."
+            "en": "Walkable from the parking spot.",
+            "hr": "Dostupno pješice s parkirališta."
           }
         },
         {
@@ -995,7 +1112,8 @@
             "de": "Fahrt zum nächsten Dorfcluster.",
             "hu": "Autózás a következő faluhoz.",
             "ro": "Deplasare spre următorul segment.",
-            "en": "Drive to the next village cluster."
+            "en": "Drive to the next village cluster.",
+            "hr": "Vozite do sljedeće skupine sela."
           }
         },
         {
@@ -1018,7 +1136,8 @@
             "de": "Kurzer Spaziergang im Ortskern.",
             "hu": "Rövid séta a településmagban.",
             "ro": "Scurtă plimbare în centrul satului.",
-            "en": "Short walk in the village core."
+            "en": "Short walk in the village core.",
+            "hr": "Kratka šetnja u jezgri sela."
           }
         },
         {
@@ -1041,7 +1160,8 @@
             "de": "Genießen Sie lokale Wildgerichte.",
             "hu": "Élvezze a helyi vadhúsételeket.",
             "ro": "Savurați preparate locale din vânat.",
-            "en": "Enjoy local game dishes."
+            "en": "Enjoy local game dishes.",
+            "hr": "Uživajte u lokalnim jelima od divljači."
           }
         },
         {
@@ -1064,7 +1184,8 @@
             "de": "Fahrt zur historischen Mühle.",
             "hu": "Autózás a történelmi malomhoz.",
             "ro": "Deplasare spre moara istorică.",
-            "en": "Drive to the historic mill."
+            "en": "Drive to the historic mill.",
+            "hr": "Vožnja do povijesnog mlina."
           }
         },
         {
@@ -1087,7 +1208,8 @@
             "de": "Spaziergang direkt am Wasser.",
             "hu": "Séta közvetlenül a vízparton.",
             "ro": "Plimbare chiar pe malul apei.",
-            "en": "Stroll right by the water."
+            "en": "Stroll right by the water.",
+            "hr": "Šetnja tik uz vodu."
           }
         },
         {
@@ -1110,7 +1232,8 @@
             "de": "Ein ruhiger Abschluss des Tages.",
             "hu": "Csendes befejezése a napnak.",
             "ro": "Un final de zi liniștit.",
-            "en": "A quiet end to the day."
+            "en": "A quiet end to the day.",
+            "hr": "Mirni završetak dana."
           }
         }
       ],
@@ -1118,7 +1241,8 @@
         "de": "Dieser Auto-Tag kombiniert kurze Fahrten mit Erkundungen zu Fuß. In Dražice besuchen Sie die alte Kovačija. Danach fahren Sie nach Jelenje, um die barocke Kirche zu besichtigen und ein herzhaftes Mittagessen einzunehmen. Der Nachmittag gehört dem Gašparov mlin in Martinovo Selo, wo Sie das Auto parken und die friedliche Flusslandschaft der Rječina zu Fuß genießen.",
         "hu": "Ez az autós nap rövid utazásokat és gyalogos felfedezéseket ötvöz. Dražice-ben a régi kovácsműhelyt nézzük meg, majd átgurulunk Jelenjére a templom és egy finom ebéd kedvéért. Délután Martinovo Selo és a Gašpar-malom következik, ahol leparkolunk, és gyalogosan fedezzük fel a Rječina folyó békés partvidékét.",
         "ro": "Această zi auto combină deplasări scurte cu explorări pe jos. În Dražice vizitați vechea fierărie, apoi conduceți spre Jelenje pentru biserica barocă și un prânz copios. După-amiaza este dedicată morii lui Gašpar din Martinovo Selo, unde parcați și vă bucurați de peisajul liniștit al râului Rječina la pas.",
-        "en": "This car tour combines short drives with walking explorations. In Dražice, visit the old blacksmith shop, then drive to Jelenje for the baroque church and a hearty lunch. The afternoon is spent at Gašpar's Mill in Martinovo Selo, where you park and enjoy the peaceful riverside landscape of the Rječina on foot."
+        "en": "This car tour combines short drives with walking explorations. In Dražice, visit the old blacksmith shop, then drive to Jelenje for the baroque church and a hearty lunch. The afternoon is spent at Gašpar's Mill in Martinovo Selo, where you park and enjoy the peaceful riverside landscape of the Rječina on foot.",
+        "hr": "Ova tura automobilom kombinira kratke vožnje s istraživanjem pješice. U Dražicama posjetite staru kovačnicu, zatim se odvezite do Jelenja radi barokne crkve i krepkog ručka. Poslijepodne provedite kod Gašparova mlina u Martinovom Selu, gdje možete parkirati i pješice uživati u mirnom krajoliku uz Rječinu."
       },
       "gastro_picks": {
         "de": [
@@ -1143,6 +1267,12 @@
           {
             "name": "Restaurant Rječina",
             "tip": "Homemade bread and grilled dishes."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Rječina",
+            "tip": "Domaći kruh i jela s roštilja."
           }
         ]
       },
@@ -1174,6 +1304,13 @@
             "tip": "Soothing sound of the water.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Branu u Martinovom Selu",
+            "tip": "Umirujući zvuk vode.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1200,6 +1337,12 @@
             "name": "Dražice Farmer's Market",
             "tip": "Fresh vegetables on Saturday mornings."
           }
+        ],
+        "hr": [
+          {
+            "name": "Tržnica u Dražicama",
+            "tip": "Svježe povrće subotom ujutro."
+          }
         ]
       },
       "tips": {
@@ -1218,6 +1361,10 @@
         "en": [
           "There is plenty of free parking in Dražice.",
           "The roads between villages are narrow, drive carefully."
+        ],
+        "hr": [
+          "U Dražicama ima mnogo besplatnog parkinga.",
+          "Ceste između sela su uske, vozite oprezno."
         ]
       },
       "variants": {
@@ -1226,7 +1373,8 @@
             "de": "Dank des Autos erreichen wir bequem das Zentrum von Dražice, ohne nass zu werden. Die Schmiede und die Kirche St. Michael sind nur kurze Sprints vom Parkplatz entfernt. Mittags genießen wir die gemütliche Atmosphäre einer Konoba, während draußen der Regen die Rječina anschwellen lässt.\nAm Nachmittag fahren wir nach Martinovo Selo; das Auto dient als mobiler Unterstand zwischen den Besichtigungen der Mühle und des Flussufers. Der Tag endet sicher im Auto, während wir die nebelverhangenen Hügel von Grobnik im Rückspiegel betrachten.",
             "hu": "Az autónak köszönhetően kényelmesen, ázás nélkül érjük el Dražice központját. A kovácsműhely és a Szent Mihály templom csak egy rövid sprintre van a parkolótól. Délben egy konoba barátságos hangulatát élvezzük, miközben odakint az eső felduzzasztja a Rječinát.\nDélután Martinovo Selóba autózunk; a kocsi mobil menedékként szolgál a malom és a folyópart megtekintése között. A nap biztonságban zárul az autóban, miközben a visszapillantóban a Grobnik ködös dombjait látjuk.",
             "ro": "Datorită mașinii, ajungem confortabil în centrul localității Dražice fără să ne udăm. Fierăria și biserica Sf. Mihail sunt la doar câțiva pași de parcare. La prânz ne bucurăm de atmosfera primitoare a unei konobe, în timp ce ploaia umflă râul Rječina.\nDupă-amiaza conducem spre Martinovo Selo; mașina servește ca adăpost mobil între vizitarea morii și a malului râului. Ziua se încheie în siguranță în mașină, privind dealurile cețoase din Grobnik în oglinda retrovizoare.",
-            "en": "Thanks to the car, we comfortably reach the center of Dražice without getting wet. The forge and St. Michael's church are just short sprints from the parking lot. At noon, we enjoy the cozy atmosphere of a konoba while rain swells the Rječina outside.\nIn the afternoon, we drive to Martinovo Selo; the car serves as a mobile shelter between visiting the mill and the riverbank. The day ends safely in the car, watching the misty Grobnik hills in the rearview mirror."
+            "en": "Thanks to the car, we comfortably reach the center of Dražice without getting wet. The forge and St. Michael's church are just short sprints from the parking lot. At noon, we enjoy the cozy atmosphere of a konoba while rain swells the Rječina outside.\nIn the afternoon, we drive to Martinovo Selo; the car serves as a mobile shelter between visiting the mill and the riverbank. The day ends safely in the car, watching the misty Grobnik hills in the rearview mirror.",
+            "hr": "Zahvaljujući automobilu, udobno stižemo do centra Dražica bez močenja. Kovačnica i crkva sv. Mihovila udaljene su samo kratki sprint od parkirališta. U podne uživamo u ugodnoj atmosferi konobe dok vani kiša puni korito Rječine.\nPoslijepodne se vozimo do Martinovog Sela; automobil služi kao mobilno sklonište između posjeta mlinu i obali. Dan sigurno završava u autu, promatrajući zamagljena grobnička brda u retrovizoru."
           },
           "stops": [
             {
@@ -1235,7 +1383,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingangsbereich.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
                 "ro": "Parcați cât mai aproape posibil de intrare.",
-                "en": "Park as close to the entrance as possible."
+                "en": "Park as close to the entrance as possible.",
+                "hr": "Parkirajte što bliže ulazu."
               }
             },
             {
@@ -1244,7 +1393,8 @@
                 "de": "Ein Schirm für die 20 Meter vom Auto zur Schmiede reicht.",
                 "hu": "Egy esernyő elég az autó és a kovácsműhely közötti 20 méterre.",
                 "ro": "O umbrelă este suficientă pentru cei 20 de metri de la mașină la fierărie.",
-                "en": "An umbrella is enough for the 20 meters from the car to the forge."
+                "en": "An umbrella is enough for the 20 meters from the car to the forge.",
+                "hr": "Kišobran je dovoljan za 20 metara od auta do kovačnice."
               }
             },
             {
@@ -1253,7 +1403,8 @@
                 "de": "Nutzen Sie den befestigten Parkplatz direkt bei der Kirche.",
                 "hu": "Használja a közvetlenül a templomnál lévő aszfaltozott parkolót.",
                 "ro": "Folosiți parcarea asfaltată direct de lângă biserică.",
-                "en": "Use the paved parking lot directly by the church."
+                "en": "Use the paved parking lot directly by the church.",
+                "hr": "Koristite asfaltirano parkiralište izravno uz crkvu."
               }
             },
             {
@@ -1262,7 +1413,8 @@
                 "de": "Kurzer Fotostopp aus dem Autofenster bei starkem Regen.",
                 "hu": "Rövid fotómegálló az autóablakból heves esőzés esetén.",
                 "ro": "Scurtă oprire pentru poze de pe geamul mașinii în caz de ploaie grea.",
-                "en": "Short photo stop from the car window during heavy rain."
+                "en": "Short photo stop from the car window during heavy rain.",
+                "hr": "Kratko fotografiranje kroz prozor auta tijekom jake kiše."
               }
             },
             {
@@ -1271,7 +1423,8 @@
                 "de": "Lassen Sie die nassen Schirme im Vorraum der Konoba.",
                 "hu": "Hagyja a vizes esernyőket a konoba előterében.",
                 "ro": "Lăsați umbrelele ude în vestibulul localului.",
-                "en": "Leave wet umbrellas in the tavern's foyer."
+                "en": "Leave wet umbrellas in the tavern's foyer.",
+                "hr": "Ostavite mokre kišobrane u predvorju konobe."
               }
             },
             {
@@ -1280,7 +1433,8 @@
                 "de": "Achten Sie auf Pfützen auf dem unbefestigten Parkplatz.",
                 "hu": "Ügyeljen a tócsákra a burkolatlan parkolóban.",
                 "ro": "Atenție la bălți în parcarea neasfaltată.",
-                "en": "Watch out for puddles in the unpaved parking area."
+                "en": "Watch out for puddles in the unpaved parking area.",
+                "hr": "Pazite na lokve na neasfaltiranom dijelu parkinga."
               }
             },
             {
@@ -1289,7 +1443,8 @@
                 "de": "Genießen Sie den Anblick des Flusses vom nahen Parkplatz aus.",
                 "hu": "Élvezze a folyó látványát a közeli parkolóból.",
                 "ro": "Bucurați-vă de vederea râului din parcarea apropiată.",
-                "en": "Enjoy the river view from the nearby parking spot."
+                "en": "Enjoy the river view from the nearby parking spot.",
+                "hr": "Uživajte u pogledu na rijeku s obližnjeg parkirnog mjesta."
               }
             },
             {
@@ -1298,7 +1453,8 @@
                 "de": "Ein kurzer Moment an der frischen Luft vor der Heimfahrt.",
                 "hu": "Egy rövid pillanat a friss levegőn a hazaindulás előtt.",
                 "ro": "Un scurt moment la aer curat înainte de plecare.",
-                "en": "A brief moment in the fresh air before the drive home."
+                "en": "A brief moment in the fresh air before the drive home.",
+                "hr": "Kratki trenutak na svježem zraku prije vožnje kući."
               }
             }
           ],
@@ -1326,6 +1482,12 @@
               "Keep a microfiber cloth handy to clear fogged windows.",
               "Use the parking spots in Martinovo Selo right by the bridge.",
               "Check your windshield wipers before departure."
+            ],
+            "hr": [
+              "Pazite na akvaplaning na cesti od Rijeke prema Jelenju.",
+              "Imajte pri ruci krpu od mikrovlakana za odmagljivanje stakala.",
+              "Koristite parkirna mjesta u Martinovom Selu odmah uz most.",
+              "Provjerite brisače prije polaska."
             ]
           }
         },
@@ -1334,7 +1496,8 @@
             "de": "Am frühen Morgen heizen wir das Auto auf und fahren ins frostige Dražice; die Schmiede bietet den perfekten ersten Stopp. Die Fahrt durch das Jelenje-Tal ist malerisch, wenn Reif die Felder weiß färbt. Die Kirche St. Michael wirkt im Winterlicht besonders erhaben.\nMittags parken wir direkt vor der Konoba, um die Kälte draußen zu lassen. Der Nachmittag in Martinovo Selo ist kurz; das Auto bleibt die warme Basis für kleine Erkundungsgänge zur Mühle. Wir verlassen das Tal, bevor die Straßen bei sinkenden Temperaturen glatt werden könnten.",
             "hu": "Kora reggel bemelegítjük az autót és a fagyos Dražicébe hajtunk; a kovácsműhely tökéletes első állomás. Az út a Jelenje-völgyön át festői, ahogy a zúzmara fehérre festi a mezőket. A Szent Mihály templom különösen fenséges a téli fényben.\nDélben közvetlenül a konoba előtt parkolunk, hogy kint hagyjuk a hideget. A délután Martinovo Selóban rövid; az autó meleg bázis marad a malomhoz tett kis felfedező utakhoz. Még azelőtt elhagyjuk a völgyet, hogy az utak a süllyedő hőmérséklet miatt csúszóssá válnának.",
             "ro": "Dis-de-dimineață încălzim mașina și conducem spre Dražice cel înghețat; fierăria oferă prima oprire perfectă. Drumul prin valea Jelenje este pitoresc, cu chiciura care albește câmpurile. Biserica Sf. Mihail pare deosebit de maiestuoasă în lumina iernii.\nLa prânz parcăm chiar în fața konobei pentru a lăsa gerul afară. După-amiaza în Martinovo Selo este scurtă; mașina rămâne baza caldă pentru mici explorări la moară. Părăsim valea înainte ca drumurile să devină alunecoase din cauza scăderii temperaturilor.",
-            "en": "Early in the morning, we warm up the car and drive to frosty Dražice; the forge offers the perfect first stop. The drive through Jelenje valley is picturesque, with frost painting the fields white. St. Michael's church looks especially majestic in the winter light.\nAt noon, we park right in front of the konoba to leave the cold outside. The afternoon in Martinovo Selo is short; the car remains the warm base for small exploratory trips to the mill. We leave the valley before the roads might get slippery with dropping temperatures."
+            "en": "Early in the morning, we warm up the car and drive to frosty Dražice; the forge offers the perfect first stop. The drive through Jelenje valley is picturesque, with frost painting the fields white. St. Michael's church looks especially majestic in the winter light.\nAt noon, we park right in front of the konoba to leave the cold outside. The afternoon in Martinovo Selo is short; the car remains the warm base for small exploratory trips to the mill. We leave the valley before the roads might get slippery with dropping temperatures.",
+            "hr": "Rano ujutro zagrijavamo auto i vozimo se u prohladne Dražice; kovačnica je savršena prva postaja. Vožnja dolinom Jelenja je slikovita, s injem koje polja boji u bijelo. Crkva sv. Mihovila izgleda posebno veličanstveno na zimskom svjetlu.\nU podne parkiramo točno ispred konobe kako bismo hladnoću ostavili vani. Poslijepodne u Martinovom Selu je kratko; automobil ostaje topla baza za male izlete do mlina. Napuštamo dolinu prije nego što ceste postanu skliske zbog pada temperature."
           },
           "stops": [
             {
@@ -1343,7 +1506,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz.",
                 "hu": "Ügyeljen a jeges foltokra a parkolóban.",
                 "ro": "Atenție la porțiunile înghețate din parcare.",
-                "en": "Watch out for icy patches in the parking lot."
+                "en": "Watch out for icy patches in the parking lot.",
+                "hr": "Pazite na zaleđene dijelove na parkiralištu."
               }
             },
             {
@@ -1352,7 +1516,8 @@
                 "de": "Nutzen Sie den kurzen Weg, um die Kälteexposition zu minimieren.",
                 "hu": "Használja a rövid utat a hidegnek való kitettség minimalizálására.",
                 "ro": "Folosiți distanța scurtă pentru a minimiza expunerea la frig.",
-                "en": "Use the short distance to minimize exposure to the cold."
+                "en": "Use the short distance to minimize exposure to the cold.",
+                "hr": "Koristite kratku udaljenost kako biste smanjili izlaganje hladnoći."
               }
             },
             {
@@ -1361,7 +1526,8 @@
                 "de": "Der Motor kühlt schnell ab; lassen Sie die Heizung kurz nachlaufen.",
                 "hu": "A motor gyorsan lehűl; hagyja a fűtést még rövid ideig menni.",
                 "ro": "Motorul se răcește repede; lăsați căldura să mai meargă puțin.",
-                "en": "The engine cools down quickly; let the heater run for a bit longer."
+                "en": "The engine cools down quickly; let the heater run for a bit longer.",
+                "hr": "Motor se brzo hladi; ostavite grijanje uključeno malo duže."
               }
             },
             {
@@ -1370,7 +1536,8 @@
                 "de": "Vermeiden Sie langes Parken im Schatten der Gebäude.",
                 "hu": "Kerülje a hosszas parkolást az épületek árnyékában.",
                 "ro": "Evitați parcarea prelungită la umbra clădirilor.",
-                "en": "Avoid long parking in the shadows of buildings."
+                "en": "Avoid long parking in the shadows of buildings.",
+                "hr": "Izbjegavajte dugo parkiranje u sjeni zgrada."
               }
             },
             {
@@ -1379,7 +1546,8 @@
                 "de": "Stellen Sie sicher, dass keine Wertsachen sichtbar im Auto liegen.",
                 "hu": "Győződjön meg róla, hogy nem marad értéktárgy látható helyen az autóban.",
                 "ro": "Asigurați-vă că nu rămân obiecte de valoare la vedere în mașină.",
-                "en": "Ensure no valuables are left visible in the car."
+                "en": "Ensure no valuables are left visible in the car.",
+                "hr": "Pazite da u autu ne ostavljate vidljive dragocjenosti."
               }
             },
             {
@@ -1388,7 +1556,8 @@
                 "de": "Vorsicht beim Aussteigen auf dem oft gefrorenen Boden.",
                 "hu": "Vigyázat a kiszálláskor a gyakran fagyott talajon.",
                 "ro": "Atenție la coborârea din mașină pe solul adesea înghețat.",
-                "en": "Careful when stepping out onto the often frozen ground."
+                "en": "Careful when stepping out onto the often frozen ground.",
+                "hr": "Oprez pri izlasku na često zaleđeno tlo."
               }
             },
             {
@@ -1397,7 +1566,8 @@
                 "de": "Ein schneller Spaziergang reicht bei Minusgraden.",
                 "hu": "Fagypont alatt egy gyors séta is elég.",
                 "ro": "O plimbare scurtă este suficientă la temperaturi negative.",
-                "en": "A quick walk is enough in sub-zero temperatures."
+                "en": "A quick walk is enough in sub-zero temperatures.",
+                "hr": "Kratka šetnja je dovoljna na temperaturama ispod nule."
               }
             },
             {
@@ -1406,7 +1576,8 @@
                 "de": "Motor starten und Scheiben enteisen, bevor es dunkel wird.",
                 "hu": "Indítsa be a motort és jégtelenítse az ablakokat, mielőtt besötétedik.",
                 "ro": "Porniți motorul și dezghețați geamurile înainte de lăsarea serii.",
-                "en": "Start the engine and de-ice the windows before it gets dark."
+                "en": "Start the engine and de-ice the windows before it gets dark.",
+                "hr": "Upalite motor i odledite stakla prije nego padne mrak."
               }
             }
           ],
@@ -1434,6 +1605,12 @@
               "Fill the windshield washer tank with anti-freeze.",
               "During Bura wind, the car can become unstable on the highway to Rijeka.",
               "Take a blanket for any potential waiting times."
+            ],
+            "hr": [
+              "Zimske gume su zakonski obvezne u ovoj regiji od studenog.",
+              "Napunite spremnik za pranje stakla tekućinom protiv smrzavanja.",
+              "Tijekom bure automobil može postati nestabilan na autocesti prema Rijeci.",
+              "Ponesite deku za slučaj eventualnog čekanja."
             ]
           }
         }
@@ -1467,7 +1644,8 @@
             "de": "Ankunft mit der Linie 12 aus Rijeka.",
             "hu": "Érkezés a rijekai 12-es busszal.",
             "ro": "Sosire cu linia 12 din Rijeka.",
-            "en": "Arrival with line 12 from Rijeka."
+            "en": "Arrival with line 12 from Rijeka.",
+            "hr": "Dolazak linijom 12 iz Rijeke."
           }
         },
         {
@@ -1490,7 +1668,8 @@
             "de": "Nur wenige Gehminuten vom Bus entfernt.",
             "hu": "Csak pár perc séta a busztól.",
             "ro": "La doar câteva minute de mers pe jos de autobuz.",
-            "en": "Only a few minutes walk from the bus."
+            "en": "Only a few minutes walk from the bus.",
+            "hr": "Samo nekoliko minuta hoda od autobusa."
           }
         },
         {
@@ -1513,7 +1692,8 @@
             "de": "Spaziergang ins Nachbardorf.",
             "hu": "Séta a szomszédos faluba.",
             "ro": "Plimbare spre satul vecin.",
-            "en": "Walk to the neighboring village."
+            "en": "Walk to the neighboring village.",
+            "hr": "Šetnja do susjednog sela."
           }
         },
         {
@@ -1536,7 +1716,8 @@
             "de": "Genießen Sie die lokale Gastfreundschaft.",
             "hu": "Élvezze a helyi vendégszeretetet.",
             "ro": "Bucurați-vă de ospitalitatea locală.",
-            "en": "Enjoy the local hospitality."
+            "en": "Enjoy the local hospitality.",
+            "hr": "Uživajte u lokalnom gostoprimstvu."
           }
         },
         {
@@ -1559,7 +1740,8 @@
             "de": "Kurze Busfahrt nach Martinovo Selo.",
             "hu": "Rövid buszozás Martinovo Selóba.",
             "ro": "Scurtă călătorie cu autobuzul până la Martinovo Selo.",
-            "en": "Short bus ride to Martinovo Selo."
+            "en": "Short bus ride to Martinovo Selo.",
+            "hr": "Kratka vožnja autobusom do Martinovog Sela."
           }
         },
         {
@@ -1582,7 +1764,8 @@
             "de": "Kontrollieren Sie den Busfahrplan im Voraus.",
             "hu": "Ellenőrizze a buszmenetrendet előre.",
             "ro": "Verificați mersul autobuzelor în avans.",
-            "en": "Check the bus schedule in advance."
+            "en": "Check the bus schedule in advance.",
+            "hr": "Unaprijed provjerite vozni red."
           }
         }
       ],
@@ -1590,7 +1773,8 @@
         "de": "Mit dem öffentlichen Bus aus Rijeka erreichen Sie Dražice, den idealen Ausgangspunkt. Nach dem Besuch der Schmiede spazieren Sie nach Jelenje zur Michaelskirche. Ein authentisches Mittagessen stärkt Sie für den Nachmittag, an dem Sie per Bus oder kurzem Fußweg zum Gašparov mlin gelangen. Die historische Mühle am Flussufer ist der perfekte Abschluss Ihrer ländlichen Entdeckungstour.",
         "hu": "A Rijekából érkező busszal Dražice-be érkezünk, ami tökéletes kiindulópont. A kovácsműhely után átgyalogolunk Jelenjére a templomhoz. Egy autentikus ebéd után busszal vagy rövid sétával érjük el a Gašpar-malmot. A folyóparti történelmi malom méltó befejezése a vidéki kalandozásnak, mielőtt visszatérnénk a városba.",
         "ro": "Cu autobuzul public din Rijeka ajungeți în Dražice, punctul ideal de plecare. După fierărie, mergeți pe jos până în Jelenje la Biserica Sf. Mihail. Un prânz autentic vă va da energie pentru după-amiaza în care ajungeți cu autobuzul sau pe jos la Gašparov mlin. Moara istorică de pe malul râului este finalul perfect al incursiunii rurale.",
-        "en": "Take the public bus from Rijeka to reach Dražice, the perfect starting point. After visiting the blacksmith shop, walk to Jelenje to see St. Michael's Church. An authentic lunch prepares you for the afternoon, when you reach Gašpar's Mill by bus or a short walk. The historic mill by the river is the perfect finish to your rural discovery tour."
+        "en": "Take the public bus from Rijeka to reach Dražice, the perfect starting point. After visiting the blacksmith shop, walk to Jelenje to see St. Michael's Church. An authentic lunch prepares you for the afternoon, when you reach Gašpar's Mill by bus or a short walk. The historic mill by the river is the perfect finish to your rural discovery tour.",
+        "hr": "Idite javnim autobusom iz Rijeke do Dražica, koje su savršena polazišna točka. Nakon posjeta kovačnici, prošećite do Jelenja i crkve sv. Mihovila. Autentičan ručak pripremit će vas za poslijepodne, kada autobusom ili kratkom šetnjom stižete do Gašparova mlina. Povijesni mlin uz rijeku savršen je završetak vaše ruralne ture."
       },
       "gastro_picks": {
         "de": [
@@ -1615,6 +1799,12 @@
           {
             "name": "Local Patisserie",
             "tip": "Try the Kremeš (cream cake)."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna slastičarnica",
+            "tip": "Probajte kremeš (kremšnitu)."
           }
         ]
       },
@@ -1646,6 +1836,13 @@
             "tip": "Peaceful spot to linger.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Crkveni vrt",
+            "tip": "Mirno mjesto za odmor.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1672,6 +1869,12 @@
             "name": "Small Village Shop",
             "tip": "Local products and souvenirs."
           }
+        ],
+        "hr": [
+          {
+            "name": "Mala seoska trgovina",
+            "tip": "Lokalni proizvodi i suveniri."
+          }
         ]
       },
       "tips": {
@@ -1690,6 +1893,10 @@
         "en": [
           "Bus line 12 runs regularly from the main Rijeka bus station.",
           "Buy tickets at the kiosk beforehand for a better price."
+        ],
+        "hr": [
+          "Autobusna linija 12 redovito vozi s glavnog kolodvora u Rijeci.",
+          "Kupite karte unaprijed na kiosku radi povoljnije cijene."
         ]
       },
       "variants": {
@@ -1698,7 +1905,8 @@
             "de": "Die Busfahrt von Rijeka nach Dražice bietet einen trockenen Start in den Tag. Wir nutzen die Wartezeiten an den Haltestellen, um die Schmiede und die Kirche zu besichtigen, die nahe beieinander liegen. Mittags wärmen wir uns in einer Konoba auf, während wir den Fahrplan für die Rückfahrt im Auge behalten.\nNachmittags bringt uns der lokale Bus nach Martinovo Selo zur Gašpar-Mühle; der Regen macht die Landschaft grün und lebendig. Der Tag endet an der Bushaltestelle in Dražice, geschützt unter dem Dach, während wir auf die Rückkehr in die Stadt warten.",
             "hu": "A Fiuméből Dražicébe tartó buszút száraz kezdést biztosít a napnak. A megállók közötti időt a közeli kovácsműhely és templom megtekintésére használjuk. Délben egy konobában melegszünk fel, miközben szemmel tartjuk a visszautazáshoz szükséges menetrendet.\nDélután a helyi busz visz el minket Martinovo Selóba a Gašpar-malomhoz; az eső zölddé és élettel telivé teszi a tájat. A nap a dražicei buszmegálló fedele alatt zárul, várva a városba visszatérő járatot.",
             "ro": "Călătoria cu autobuzul de la Rijeka la Dražice oferă un start uscat zilei. Folosim timpul dintre curse pentru a vizita fierăria și biserica, aflate aproape una de alta. La prânz ne încălzim într-o konoba, monitorizând orarul pentru întoarcere.\nDupă-amiaza, autobuzul local ne duce la Martinovo Selo, la Moara lui Gašpar; ploaia face peisajul verde și vibrant. Ziua se încheie sub adăpostul stației de autobuz din Dražice, așteptând cursa de întoarcere spre oraș.",
-            "en": "The bus ride from Rijeka to Dražice provides a dry start to the day. We use the time between stops to visit the forge and the church, which are close to each other. At noon, we warm up in a konoba while keeping an eye on the return schedule.\nIn the afternoon, the local bus takes us to Martinovo Selo for Gašpar's Mill; the rain makes the landscape green and vibrant. The day ends under the shelter of the Dražice bus stop, waiting for the return trip to the city."
+            "en": "The bus ride from Rijeka to Dražice provides a dry start to the day. We use the time between stops to visit the forge and the church, which are close to each other. At noon, we warm up in a konoba while keeping an eye on the return schedule.\nIn the afternoon, the local bus takes us to Martinovo Selo for Gašpar's Mill; the rain makes the landscape green and vibrant. The day ends under the shelter of the Dražice bus stop, waiting for the return trip to the city.",
+            "hr": "Vožnja autobusom od Rijeke do Dražica osigurava suh početak dana. Vrijeme između postaja koristimo za posjet kovačnici i crkvi, koje su blizu jedna drugoj. U podne se grijemo u konobi pazeći na raspored povratka.\nPoslijepodne nas lokalni autobus vozi do Martinovog Sela i Gašparova mlina; kiša čini krajolik zelenim i živopisnim. Dan završavamo pod zaklonom autobusne stanice u Dražicama, čekajući povratak u grad."
           },
           "stops": [
             {
@@ -1707,7 +1915,8 @@
                 "de": "Nutzen Sie das Wartehäuschen als Regenschutz.",
                 "hu": "Használja a buszvárót eső elleni védelemként.",
                 "ro": "Folosiți adăpostul stației pentru protecție împotriva ploii.",
-                "en": "Use the bus shelter for protection from the rain."
+                "en": "Use the bus shelter for protection from the rain.",
+                "hr": "Koristite nadstrešnicu stanice za zaštitu od kiše."
               }
             },
             {
@@ -1716,7 +1925,8 @@
                 "de": "Nur 5 Minuten Fußweg von der Bushaltestelle.",
                 "hu": "Csak 5 perc séta a buszmegállótól.",
                 "ro": "La doar 5 minute de mers pe jos de stația de autobuz.",
-                "en": "Only a 5-minute walk from the bus stop."
+                "en": "Only a 5-minute walk from the bus stop.",
+                "hr": "Samo 5 minuta hoda od autobusne stanice."
               }
             },
             {
@@ -1725,7 +1935,8 @@
                 "de": "Planen Sie den Besuch so, dass Sie rechtzeitig am Bus sind.",
                 "hu": "Tervezze úgy a látogatást, hogy időben a busznál legyen.",
                 "ro": "Planificați vizita astfel încât să ajungeți la timp la autobuz.",
-                "en": "Plan the visit so you get to the bus on time."
+                "en": "Plan the visit so you get to the bus on time.",
+                "hr": "Planirajte posjet tako da stignete na autobus na vrijeme."
               }
             },
             {
@@ -1734,7 +1945,8 @@
                 "de": "Wählen Sie ein Restaurant nahe einer Haltestelle.",
                 "hu": "Válasszon egy megállóhoz közeli éttermet.",
                 "ro": "Alegeți un restaurant aproape de o stație.",
-                "en": "Choose a restaurant near a bus stop."
+                "en": "Choose a restaurant near a bus stop.",
+                "hr": "Odaberite restoran u blizini autobusne stanice."
               }
             },
             {
@@ -1743,7 +1955,8 @@
                 "de": "Achten Sie auf den selteneren Busverkehr nach Martinovo Selo.",
                 "hu": "Ügyeljen a ritkább buszjáratokra Martinovo Selo felé.",
                 "ro": "Atenție la frecvența redusă a autobuzelor spre Martinovo Selo.",
-                "en": "Watch out for the less frequent bus service to Martinovo Selo."
+                "en": "Watch out for the less frequent bus service to Martinovo Selo.",
+                "hr": "Pazite na rjeđe autobusne linije prema Martinovom Selu."
               }
             },
             {
@@ -1752,7 +1965,8 @@
                 "de": "Prüfen Sie Verspätungen über die Arriva-App.",
                 "hu": "Ellenőrizze a késéseket az Arriva alkalmazáson keresztül.",
                 "ro": "Verificați întârzierile prin aplicația Arriva.",
-                "en": "Check for delays via the Arriva app."
+                "en": "Check for delays via the Arriva app.",
+                "hr": "Provjerite kašnjenja putem aplikacije Arriva."
               }
             }
           ],
@@ -1780,6 +1994,12 @@
               "Bus lines 12 and 14 serve this region.",
               "Have small change ready if you need to pay the driver.",
               "The bus shelters are mostly small, bring an umbrella."
+            ],
+            "hr": [
+              "Kupite karte unaprijed na kioscima u Rijeci.",
+              "Autobusne linije 12 i 14 poslužuju ovu regiju.",
+              "Imajte spreman sitan novac ako morate platiti vozaču.",
+              "Nadstrešnice na stanicama su uglavnom male, ponesite kišobran."
             ]
           }
         },
@@ -1788,7 +2008,8 @@
             "de": "Der geheizte Bus bringt uns am Morgen sicher nach Dražice; die Fahrt ist eine gute Zeit, um die verschneiten Gipfel der Gorski Kotar in der Ferne zu bewundern. Die Schmiede ist der erste warme Anlaufpunkt nach dem Aussteigen. Mittags stärken wir uns lokal, bevor wir den nächsten Bus nehmen.\nDer Winterfahrplan erfordert Pünktlichkeit für den Besuch in Martinovo Selo. Die Gašpar-Mühle liegt friedlich im Frost. Wir beenden den Ausflug rechtzeitig, um den letzten komfortablen Bus zurück nach Rijeka zu erwischen, bevor es richtig kalt wird.",
             "hu": "A fűtött busz reggel biztonságban elvisz minket Dražicébe; az út alatt megcsodálhatjuk a távoli Gorski Kotar hófödte csúcsait. A kovácsműhely az első meleg pont a kiszállás után. Délben helyi ételekkel frissülünk fel a következő busz előtt.\nA téli menetrend pontosságot igényel a Martinovo Selo-i látogatáshoz. A Gašpar-malom békésen fekszik a fagyban. Időben befejezzük a kirándulást, hogy elérjük az utolsó kényelmes buszt vissza Fiumébe, mielőtt igazán lehűlne a levegő.",
             "ro": "Autobuzul încălzit ne duce în siguranță la Dražice dimineața; drumul este un moment bun pentru a admira vârfurile înzăpezite ale Gorski Kotar în depărtare. Fierăria este primul punct cald după coborâre. La prânz ne refacem forțele local înainte de următorul autobuz.\nOrarul de iarnă necesită punctualitate pentru vizita la Martinovo Selo. Moara lui Gašpar stă liniștită în ger. Încheiem excursia la timp pentru a prinde ultimul autobuz confortabil spre Rijeka înainte să se facă foarte frig.",
-            "en": "The heated bus takes us safely to Dražice in the morning; the ride is a good time to admire the snow-capped Gorski Kotar peaks in the distance. The forge is the first warm spot after getting off. At noon, we recharge locally before the next bus.\nThe winter schedule requires punctuality for the visit to Martinovo Selo. Gašpar's Mill lies peacefully in the frost. We end the trip in time to catch the last comfortable bus back to Rijeka before it gets really cold."
+            "en": "The heated bus takes us safely to Dražice in the morning; the ride is a good time to admire the snow-capped Gorski Kotar peaks in the distance. The forge is the first warm spot after getting off. At noon, we recharge locally before the next bus.\nThe winter schedule requires punctuality for the visit to Martinovo Selo. Gašpar's Mill lies peacefully in the frost. We end the trip in time to catch the last comfortable bus back to Rijeka before it gets really cold.",
+            "hr": "Zagrijani autobus sigurno nas vozi do Dražica ujutro; vožnja je dobro vrijeme za divljenje snježnim vrhovima Gorskog kotara u daljini. Kovačnica je prvo toplo mjesto nakon izlaska. U podne skupljamo snagu lokalno prije sljedećeg autobusa.\nZimski vozni red zahtijeva točnost za posjet Martinovom Selu. Gašparov mlin mirno leži u mrazu. Završavamo izlet na vrijeme kako bismo uhvatili posljednji udobni autobus za Rijeku prije nego što postane jako hladno."
           },
           "stops": [
             {
@@ -1797,7 +2018,8 @@
                 "de": "Bleiben Sie bis zur Ankunft des Busses in der Nähe eines Cafés.",
                 "hu": "A busz érkezéséig maradjon egy közeli kávézóban.",
                 "ro": "Stați în apropierea unei cafenele până la sosirea autobuzului.",
-                "en": "Stay near a cafe until the bus arrives."
+                "en": "Stay near a cafe until the bus arrives.",
+                "hr": "Ostanite u blizini kafića dok autobus ne stigne."
               }
             },
             {
@@ -1806,7 +2028,8 @@
                 "de": "Wärmen Sie sich hier nach der Wartezeit an der Haltestelle auf.",
                 "hu": "Melegedjen fel itt a buszmegállóban való várakozás után.",
                 "ro": "Încălziți-vă aici după așteptarea în stație.",
-                "en": "Warm up here after waiting at the bus stop."
+                "en": "Warm up here after waiting at the bus stop.",
+                "hr": "Ugrije se ovdje nakon čekanja na stanici."
               }
             },
             {
@@ -1815,7 +2038,8 @@
                 "de": "Bewegen Sie sich, um an der Haltestelle nicht auszukühlen.",
                 "hu": "Mozogjon folyamatosan, hogy ne hűljön ki a megállóban.",
                 "ro": "Mutați-vă constant pentru a nu îngheța în stație.",
-                "en": "Keep moving to avoid getting chilled at the stop."
+                "en": "Keep moving to avoid getting chilled at the stop.",
+                "hr": "Krećite se kako biste izbjegli pothlađivanje na stanici."
               }
             },
             {
@@ -1824,7 +2048,8 @@
                 "de": "Ein warmer Platz am Fenster lässt Sie den Bus nicht verpassen.",
                 "hu": "Egy meleg ablak melletti helyről nem fogja lekésni a buszt.",
                 "ro": "Un loc cald la geam vă permite să nu pierdeți autobuzul.",
-                "en": "A warm spot by the window lets you avoid missing the bus."
+                "en": "A warm spot by the window lets you avoid missing the bus.",
+                "hr": "Toplo mjesto uz prozor omogućuje da ne propustite autobus."
               }
             },
             {
@@ -1833,7 +2058,8 @@
                 "de": "Planen Sie genug Zeit für den Rückweg zur Haltestelle ein.",
                 "hu": "Tervezzen elég időt a buszmegállóhoz való visszatérésre.",
                 "ro": "Planificați suficient timp pentru întoarcerea la stație.",
-                "en": "Plan enough time for the walk back to the bus stop."
+                "en": "Plan enough time for the walk back to the bus stop.",
+                "hr": "Planirajte dovoljno vremena za šetnju natrag do stanice."
               }
             },
             {
@@ -1842,7 +2068,8 @@
                 "de": "Beachten Sie, dass Busse im Winter bei Schnee Verspätung haben können.",
                 "hu": "Vegye figyelembe, hogy télen hó esetén a buszok késhetnek.",
                 "ro": "Rețineți că autobuzele pot avea întârzieri iarna în caz de zăpadă.",
-                "en": "Note that buses may be delayed in winter during snow."
+                "en": "Note that buses may be delayed in winter during snow.",
+                "hr": "Imajte na umu da autobusi mogu kasniti zimi zbog snijega."
               }
             }
           ],
@@ -1870,6 +2097,12 @@
               "Use the 'Arriva Croatia' app for real-time information.",
               "Buses run significantly less frequently on Sundays.",
               "Wear reflectors on your clothing for the early darkness."
+            ],
+            "hr": [
+              "Nosite toplu obuću jer je čekanje na stanicama hladno.",
+              "Koristite aplikaciju 'Arriva Croatia' za informacije u stvarnom vremenu.",
+              "Autobusi voze znatno rjeđe nedjeljom.",
+              "Nosite reflektirajuće detalje na odjeći zbog ranog mraka."
             ]
           }
         }

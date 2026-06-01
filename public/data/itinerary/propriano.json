@@ -31,7 +31,8 @@
             "de": "Beobachten Sie das Einlaufen der Fähren aus Marseille.",
             "hu": "Figyelje meg a Marseille-ből érkező kompok kikötését.",
             "ro": "Observați sosirea feriboturilor din Marsilia.",
-            "en": "Watch the ferries from Marseille arrive."
+            "en": "Watch the ferries from Marseille arrive.",
+            "fr": "Observez l'arrivée des ferries de Marseille."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Die Kirche überragt das Dorf und bietet Ruhe.",
             "hu": "A templom a falu fölé magasodik és nyugalmat áraszt.",
             "ro": "Biserica domină satul și oferă liniște.",
-            "en": "The church overlooks the village and offers peace."
+            "en": "The church overlooks the village and offers peace.",
+            "fr": "L'église surplombe le village et offre la paix."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ideal für ein schnelles Bad direkt im Ort.",
             "hu": "Ideális egy gyors mártózáshoz közvetlenül a faluban.",
             "ro": "Ideal pentru o baie rapidă chiar în sat.",
-            "en": "Ideal for a quick swim right in town."
+            "en": "Ideal for a quick swim right in town.",
+            "fr": "Idéal pour une baignade rapide en plein centre."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Das historische Viertel am Wasser.",
             "hu": "A történelmi negyed a vízparton.",
             "ro": "Cartierul istoric de lângă apă.",
-            "en": "The historic district by the water."
+            "en": "The historic district by the water.",
+            "fr": "Le quartier historique au bord de l'eau."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein Ort des Gedenkens mit Blick auf die Stadt.",
             "hu": "Az emlékezés helye, kilátással a városra.",
             "ro": "Un loc de comemorare cu vedere spre oraș.",
-            "en": "A place of remembrance with a view of the city."
+            "en": "A place of remembrance with a view of the city.",
+            "fr": "Un lieu de mémoire avec vue sur la ville."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Perfekt für das späte Nachmittagslicht.",
             "hu": "Tökéletes a késő délutáni fényekhez.",
             "ro": "Perfect pentru lumina de după-amiază târzie.",
-            "en": "Perfect for late afternoon light."
+            "en": "Perfect for late afternoon light.",
+            "fr": "Parfait pour la lumière de fin d'après-midi."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Genießen Sie den korsischen Charme beim Spaziergang am Yachthafen. Nach einem Besuch der imposanten Kirche lädt der Stadtstrand von Mancinu zum Entspannen ein. Den Tag lassen Sie bei einem Bummel durch die Marine und einem Besuch des Leuchtturms ausklingen, wenn die Sonne tief über dem Golf von Valinco steht.",
         "hu": "Élvezze a korzikai bájt a jachtkikötőben tett séta során. Az impozáns templom meglátogatása után a Mancinu városi strand pihenésre csábít. A napot a tengerparti negyedben tett sétával és a világítótorony meglátogatásával zárja, amikor a nap alacsonyan jár a Valinco-öböl felett.",
         "ro": "Bucurați-vă de farmecul corsican la o plimbare prin portul de iahturi. După o vizită la biserica impunătoare, plaja orașului Mancinu vă invită la relaxare. Încheiați ziua cu o plimbare prin Marine și o vizită la far, când soarele este jos deasupra Golfului Valinco.",
-        "en": "Enjoy Corsican charm while strolling at the marina. After visiting the imposing church, the town beach of Mancinu invites you to relax. End the day with a stroll through the Marine and a visit to the lighthouse when the sun is low over the Gulf of Valinco."
+        "en": "Enjoy Corsican charm while strolling at the marina. After visiting the imposing church, the town beach of Mancinu invites you to relax. End the day with a stroll through the Marine and a visit to the lighthouse when the sun is low over the Gulf of Valinco.",
+        "fr": "Profitez du charme corse en flânant sur le port de plaisance. Après avoir visité l'imposante église, la plage de Mancinu vous invite à la détente. Terminez la journée par une promenade dans la Marine et une visite au phare lorsque le soleil descend sur le golfe du Valinco."
       },
       "gastro_picks": {
         "de": [
@@ -170,6 +177,16 @@
           {
             "name": "Figatellu",
             "tip": "Typical Corsican sausage specialty."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Terra Cotta",
+            "tip": "Poisson frais et vue sur la mer au port."
+          },
+          {
+            "name": "Figatellu",
+            "tip": "Spécialité typique de saucisse corse."
           }
         ]
       },
@@ -221,6 +238,18 @@
             "tip": "View over the roofs of Propriano.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Digue du phare",
+            "tip": "Le bruit de la mer sans la foule.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Place de l'église",
+            "tip": "Vue sur les toits de Propriano.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -263,6 +292,16 @@
             "name": "Coral Jewelry",
             "tip": "Handmade in the region."
           }
+        ],
+        "fr": [
+          {
+            "name": "U Cantu",
+            "tip": "Miel et fromage corses."
+          },
+          {
+            "name": "Bijoux en corail",
+            "tip": "Faits à la main dans la région."
+          }
         ]
       },
       "tips": {
@@ -289,6 +328,12 @@
           "Prices at the harbor are higher than in the side streets.",
           "Parking is very difficult in summer.",
           "Always take your swimwear with you."
+        ],
+        "fr": [
+          "La Corse est très chaude à la mi-journée, cherchez l'ombre.",
+          "Les prix sur le port sont plus élevés que dans les rues adjacentes.",
+          "Le stationnement est très difficile en été.",
+          "Emportez toujours vos maillots de bain."
         ]
       }
     },
@@ -413,7 +458,8 @@
         "de": "Erkunden Sie die Küste Proprianos auf zwei Rädern. Von den nördlichen Stränden wie Arena Bianca bis zum weiten Lido im Süden bietet das Fahrrad die perfekte Freiheit, um die schönsten Badebuchten des Golfs von Valinco an einem Tag zu erleben.",
         "hu": "Fedezze fel Propriano partvidékét két keréken. Az északi strandoktól, mint az Arena Bianca, a déli tágas Lido-ig, a kerékpár tökéletes szabadságot nyújt, hogy egy nap alatt megismerje a Valinco-öböl legszebb fürdőhelyeit.",
         "ro": "Explorați coasta din Propriano pe două roți. De la plajele nordice precum Arena Bianca până la vastul Lido în sud, bicicleta oferă libertatea perfectă pentru a experimenta cele mai frumoase golfuri de scăldat din Valinco într-o singură zi.",
-        "en": "Explore Propriano's coastline on two wheels. From the northern beaches like Arena Bianca to the vast Lido in the south, the bike offers the perfect freedom to experience the most beautiful swimming bays of the Gulf of Valinco in one day."
+        "en": "Explore Propriano's coastline on two wheels. From the northern beaches like Arena Bianca to the vast Lido in the south, the bike offers the perfect freedom to experience the most beautiful swimming bays of the Gulf of Valinco in one day.",
+        "fr": "Explorez le littoral de Propriano sur deux roues. Des plages du nord comme Arena Bianca au vaste Lido au sud, le vélo offre la liberté idéale pour découvrir les plus belles baies de baignade du golfe du Valinco en une journée."
       },
       "gastro_picks": {
         "de": [
@@ -438,6 +484,12 @@
           {
             "name": "Pasticceria Fieschi",
             "tip": "Canistrelli biscuits for energy on the ride."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Pasticceria Fieschi",
+            "tip": "Biscuits canistrelli pour faire le plein d'énergie."
           }
         ]
       },
@@ -469,6 +521,13 @@
             "tip": "Very peaceful early in the morning.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Arena Bianca",
+            "tip": "Très paisible tôt le matin.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -494,6 +553,12 @@
           {
             "name": "Beach Boutiques",
             "tip": "Fashionable beachwear."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutiques de plage",
+            "tip": "Vêtements de plage à la mode."
           }
         ]
       },
@@ -521,6 +586,12 @@
           "The coastal road can be narrow.",
           "Always lock your bike.",
           "Sunscreen is a must."
+        ],
+        "fr": [
+          "Attention au vent l'après-midi.",
+          "La route côtière peut être étroite.",
+          "Attachez toujours votre vélo.",
+          "La crème solaire est indispensable."
         ]
       }
     },
@@ -645,7 +716,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die schönsten Strände rund um Propriano. Starten Sie beim Leuchtturm und verbringen Sie den Tag an den Stränden Arena Bianca und Lido, bevor Sie den Abend bei einem feinen Essen am Hafen ausklingen lassen.",
         "hu": "Autóval kényelmesen elérheti Propriano környékének legszebb strandjait. Kezdjen a világítótoronynál, és töltse a napot az Arena Bianca és a Lido strandokon, majd fejezze be az estét egy finom vacsorával a kikötőben.",
         "ro": "Cu mașina puteți ajunge confortabil la cele mai frumoase plaje din jurul Propriano. Începeți la far și petreceți ziua pe plajele Arena Bianca și Lido, înainte de a încheia seara cu o cină rafinată în port.",
-        "en": "By car, you can comfortably reach the most beautiful beaches around Propriano. Start at the lighthouse and spend the day at Arena Bianca and Lido beaches before ending the evening with a fine dinner at the harbor."
+        "en": "By car, you can comfortably reach the most beautiful beaches around Propriano. Start at the lighthouse and spend the day at Arena Bianca and Lido beaches before ending the evening with a fine dinner at the harbor.",
+        "fr": "En voiture, vous rejoignez confortablement les plus belles plages autour de Propriano. Commencez par le phare et passez la journée sur les plages d'Arena Bianca et du Lido avant de terminer la soirée par un bon dîner au port."
       },
       "gastro_picks": {
         "de": [
@@ -670,6 +742,12 @@
           {
             "name": "Restaurant L'Oasis",
             "tip": "Corsican classics in a modern form."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Restaurant L'Oasis",
+            "tip": "Classiques corses revisités."
           }
         ]
       },
@@ -701,6 +779,13 @@
             "tip": "Panoramic view over the gulf.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Belvédère de Valinco",
+            "tip": "Vue panoramique sur le golfe.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -726,6 +811,12 @@
           {
             "name": "Local Market",
             "tip": "Early morning in the town center."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Marché local",
+            "tip": "Tôt le matin au centre-ville."
           }
         ]
       },
@@ -753,6 +844,12 @@
           "Use the guarded parking lots at the harbor.",
           "Drive carefully on the winding roads.",
           "The heat in the car can be extreme."
+        ],
+        "fr": [
+          "Les places de parking sont rares en haute saison.",
+          "Utilisez les parkings surveillés du port.",
+          "Roulez prudemment sur les routes sinueuses.",
+          "La chaleur dans la voiture peut être extrême."
         ]
       }
     },
@@ -859,7 +956,8 @@
         "de": "Propriano ist gut mit dem Bus von Ajaccio oder Bonifacio erreichbar. Da die wichtigsten Sehenswürdigkeiten und der Strand Mancinu zentral liegen, können Sie den Ort hervorragend ohne eigenes Fahrzeug genießen. Das maritime Flair ist überall spürbar.",
         "hu": "Propriano jól elérhető busszal Ajaccio-ból vagy Bonifacio-ból. Mivel a legfontosabb látnivalók és a Mancinu strand központi helyen találhatók, saját jármű nélkül is kiválóan élvezheti a várost. A tengeri hangulat mindenhol érezhető.",
         "ro": "Propriano este ușor accesibil cu autobuzul din Ajaccio sau Bonifacio. Deoarece cele mai importante obiective și plaja Mancinu sunt situate central, vă puteți bucura de localitate excelent fără un vehicul propriu. Atmosfera maritimă se simte peste tot.",
-        "en": "Propriano is easily accessible by bus from Ajaccio or Bonifacio. Since the main sights and Mancinu beach are centrally located, you can enjoy the town perfectly without your own vehicle. The maritime flair can be felt everywhere."
+        "en": "Propriano is easily accessible by bus from Ajaccio or Bonifacio. Since the main sights and Mancinu beach are centrally located, you can enjoy the town perfectly without your own vehicle. The maritime flair can be felt everywhere.",
+        "fr": "Propriano est facilement accessible en bus depuis Ajaccio ou Bonifacio. Les sites principaux et la plage de Mancinu étant situés au centre, vous pouvez profiter de la ville sans véhicule. L'ambiance maritime se ressent partout."
       },
       "gastro_picks": {
         "de": [
@@ -884,6 +982,12 @@
           {
             "name": "L'Arbousier",
             "tip": "Good local cuisine not far from the bus stop."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Arbousier",
+            "tip": "Bonne cuisine locale non loin de l'arrêt de bus."
           }
         ]
       },
@@ -915,6 +1019,13 @@
             "tip": "Benches with a view of the boats.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Coin du port",
+            "tip": "Bancs avec vue sur les bateaux.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -940,6 +1051,12 @@
           {
             "name": "Souvenir Kiosk",
             "tip": "Corsican knives and textiles."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Kiosque à souvenirs",
+            "tip": "Couteaux corses et textiles."
           }
         ]
       },
@@ -967,6 +1084,12 @@
           "Tickets are often available at tobacco shops.",
           "Propriano is very walkable on foot.",
           "Look for drinking water fountains."
+        ],
+        "fr": [
+          "Les bus circulent irrégulièrement, vérifiez les horaires.",
+          "Les billets sont souvent disponibles dans les bureaux de tabac.",
+          "Propriano se visite très bien à pied.",
+          "Cherchez les fontaines d'eau potable."
         ]
       }
     }

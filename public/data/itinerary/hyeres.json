@@ -31,7 +31,8 @@
             "de": "Frühstücken Sie unter den bunten Markisen.",
             "hu": "Reggelizz a színes napernyők alatt a téren.",
             "ro": "Luați micul dejun sub umbrelele colorate.",
-            "en": "Have breakfast under the colorful awnings."
+            "en": "Have breakfast under the colorful awnings.",
+            "fr": "Prenez votre petit-déjeuner sous les tentes colorées."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besteigen Sie den Turm für eine tolle Aussicht.",
             "hu": "Mássz fel a toronyba a pazar kilátásért.",
             "ro": "Urcați în turn pentru o priveliște superbă.",
-            "en": "Climb the tower for a great city view."
+            "en": "Climb the tower for a great city view.",
+            "fr": "Montez dans la tour pour une vue imprenable sur la ville."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die Votivgaben in der Kirche.",
             "hu": "Csodáld meg a templom fogadalmi ajándékait.",
             "ro": "Admirați darurile votive din biserică.",
-            "en": "Admire the votive offerings inside the church."
+            "en": "Admire the votive offerings inside the church.",
+            "fr": "Admirez les ex-voto à l'intérieur de l'église."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein Meisterwerk der Moderne und des Designs.",
             "hu": "A modernizmus és a design remekműve.",
             "ro": "O capodoperă a modernismului și designului.",
-            "en": "A masterpiece of modernism and design."
+            "en": "A masterpiece of modernism and design.",
+            "fr": "Un chef-d'œuvre du modernisme et du design."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Genießen Sie den Duft der mediterranen Flora.",
             "hu": "Élvezd a mediterrán flóra illatait a kertben.",
             "ro": "Bucurați-vă de parfumul florei mediteraneene.",
-            "en": "Enjoy the scent of Mediterranean flora here."
+            "en": "Enjoy the scent of Mediterranean flora here.",
+            "fr": "Appréciez ici le parfum de la flore méditerranéenne."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Probieren Sie Tapenaden und lokale Oliven.",
             "hu": "Kóstold meg a tapenádot és a helyi olajbogyót.",
             "ro": "Gustați tapenada și măslinele locale.",
-            "en": "Taste local tapenade and olives."
+            "en": "Taste local tapenade and olives.",
+            "fr": "Dégustez la tapenade et les olives locales."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Perfekt für einen ruhigen Abendspaziergang.",
             "hu": "Tökéletes egy nyugodt esti sétához a pálmák közt.",
             "ro": "Perfect pentru o plimbare liniștită de seară.",
-            "en": "Perfect for a quiet evening stroll."
+            "en": "Perfect for a quiet evening stroll.",
+            "fr": "Parfait pour une promenade nocturne tranquille."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Beginnen Sie Ihren Tag in der mittelalterlichen Altstadt auf dem Place Massillon. Die verwinkelten Gassen führen Sie hinauf zur Villa Noailles, einem Zentrum für moderne Kunst. Der Nachmittag gehört der Ruhe in den hängenden Gärten des Parc Saint-Bernard. Beenden Sie die Tour im tropischen Jardin Olbius Riquier, wo Flamingos und Palmen eine exotische Atmosphäre schaffen.",
         "hu": "Kezd a napot a középkori óvárosban, a Place Massillon nyüzsgésében. A kanyargós utcák felvezetnek a Villa Noailles modernista palotájába. A délutánt töltsd a Parc Saint-Bernard függőkertjeiben, élvezve a panorámát. Végül pihenj meg az egzotikus Jardin Olbius Riquier parkban, ahol pálmák és flamingók várnak a város szívében.",
         "ro": "Începeți ziua în orașul vechi medieval, în animația din Place Massillon. Străzile șerpuite vă conduc spre Villa Noailles, un centru al artei moderne. După-amiaza este dedicată liniștii în grădinile suspendate din Parc Saint-Bernard. Încheiați turul în Jardin Olbius Riquier, unde palmierii și flamingo creează o atmosferă exotică în inima orașului.",
-        "en": "Start your day in the medieval old town at the bustling Place Massillon. Winding streets lead you up to Villa Noailles, a hub of modern art. Spend the afternoon in the hanging gardens of Parc Saint-Bernard, enjoying the panoramic views. Finally, relax in the exotic Jardin Olbius Riquier, where palms and flamingos await in the heart of the city."
+        "en": "Start your day in the medieval old town at the bustling Place Massillon. Winding streets lead you up to Villa Noailles, a hub of modern art. Spend the afternoon in the hanging gardens of Parc Saint-Bernard, enjoying the panoramic views. Finally, relax in the exotic Jardin Olbius Riquier, where palms and flamingos await in the heart of the city.",
+        "fr": "Commencez votre journée dans la vieille ville médiévale sur la trépidante place Massillon. Des rues sinueuses vous mènent à la Villa Noailles, un centre d'art moderne. Passez l'après-midi dans les jardins suspendus du Parc Saint-Bernard, en profitant des vues panoramiques. Enfin, détendez-vous dans l'exotique Jardin Olbius Riquier, où palmiers et flamants roses vous attendent au cœur de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Le Jardin",
             "tip": "Provençal cuisine in a charming courtyard setting."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Socca",
+            "tip": "Galette de pois chiches savoureuse à déguster au marché local."
+          },
+          {
+            "name": "Le Jardin",
+            "tip": "Cuisine provençale dans le cadre charmant d'une cour intérieure."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "Quiet moments within historic walls.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Parc Saint-Bernard",
+            "tip": "Vue sur les toits de la ville jusqu'à la mer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Collégiale Saint-Paul",
+            "tip": "Instants de calme entre des murs chargés d'histoire.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -281,6 +311,16 @@
             "name": "Confiserie Fouque",
             "tip": "Traditional Provençal sweets."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché des Îles d'Or",
+            "tip": "Produits locaux et artisanat."
+          },
+          {
+            "name": "Confiserie Fouque",
+            "tip": "Douceurs provençales traditionnelles."
+          }
         ]
       },
       "tips": {
@@ -307,6 +347,12 @@
           "Visit the market on Saturday morning for the best atmosphere.",
           "Villa Noailles is often closed on Mondays and Tuesdays.",
           "Make use of the free drinking water fountains in the city."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les rues escarpées de la vieille ville.",
+          "Visitez le marché le samedi matin pour profiter de la meilleure ambiance.",
+          "La Villa Noailles est souvent fermée le lundi et le mardi.",
+          "Profitez des fontaines d'eau potable gratuite dans toute la ville."
         ]
       },
       "variants": {
@@ -548,7 +594,8 @@
             "de": "Beginnen Sie Ihren Vormittag unter den schützenden Arkaden der Altstadt. Die Tour des Templiers bietet einen trockenen Zufluchtsort für Geschichtsinteressierte. Mittags wird die Villa Noailles zu einem Kunstzentrum, in dem das Prasseln des Regens auf dem modernen Glas ein einzigartiges Ambiente schafft. Der Nachmittag endet mit einem gemütlichen Besuch in einem Bistro im alten Hyères, während die Gassen im Regen glänzen.",
             "hu": "Kezdje a délelőttöt az óváros védett árkádjai alatt. A Tour des Templiers száraz menedéket nyújt a történelem kedvelőinek. Délben a Villa Noailles művészeti központtá válik, ahol az eső kopogása a modern üvegfelületeken különleges hangulatot áraszt. A délután egy hangulatos bisztrólátogatással zárul a régi Hyères-ben, miközben az utcák csillognak a csapadéktól.",
             "ro": "Începeți dimineața sub arcadele protectoare ale centrului vechi. Tour des Templiers oferă un refugiu uscat pentru pasionații de istorie. La prânz, Villa Noailles devine un centru artistic unde sunetul ploii pe sticla modernă creează o ambianță unică. După-amiaza se încheie cu o vizită primitoare la un bistro din vechiul Hyères, în timp ce străzile strălucesc sub ploaie.",
-            "en": "Start your morning under the protective arches of the old town. The Tour des Templiers offers a dry refuge for history buffs. At noon, Villa Noailles becomes an art center where the patter of rain on modern glass creates a unique ambiance. The afternoon ends with a cozy bistro visit in old Hyères, as the streets glisten in the rain."
+            "en": "Start your morning under the protective arches of the old town. The Tour des Templiers offers a dry refuge for history buffs. At noon, Villa Noailles becomes an art center where the patter of rain on modern glass creates a unique ambiance. The afternoon ends with a cozy bistro visit in old Hyères, as the streets glisten in the rain.",
+            "fr": "Commencez votre matinée sous les arcades protectrices de la vieille ville. La Tour des Templiers offre un refuge sec pour les passionnés d'histoire. À midi, la Villa Noailles devient un centre d'art où le clapotis de la pluie sur le verre moderne crée une ambiance unique. L'après-midi se termine par une visite dans un bistro chaleureux du vieil Hyères, alors que les rues scintillent sous l'eau."
           },
           "stops": [
             {
@@ -557,7 +604,8 @@
                 "de": "Nutzen Sie die Markisen der Cafés, um trocken zu bleiben.",
                 "hu": "Használja a kávézók napellenzőit, hogy száraz maradjon.",
                 "ro": "Folosiți copertinele cafenelelor pentru a rămâne uscat.",
-                "en": "Use the cafe awnings to stay dry."
+                "en": "Use the cafe awnings to stay dry.",
+                "fr": "Utilisez les auvents des cafés pour rester au sec."
               }
             },
             {
@@ -566,7 +614,8 @@
                 "de": "Perfekter Ort für eine Indoor-Besichtigung während eines Schauers.",
                 "hu": "Tökéletes hely egy fedett látogatáshoz zápor idején.",
                 "ro": "Loc perfect pentru o vizită în interior în timpul unei averse.",
-                "en": "Perfect place for an indoor visit during a shower."
+                "en": "Perfect place for an indoor visit during a shower.",
+                "fr": "L'endroit idéal pour une visite en intérieur pendant une averse."
               }
             },
             {
@@ -575,7 +624,8 @@
                 "de": "Die Ruhe im Inneren bietet Schutz vor dem Wind.",
                 "hu": "A belső nyugalom védelmet nyújt a szél elől.",
                 "ro": "Liniștea din interior oferă protecție împotriva vântului.",
-                "en": "The tranquility inside offers shelter from the wind."
+                "en": "The tranquility inside offers shelter from the wind.",
+                "fr": "La tranquillité intérieure offre un abri contre le vent."
               }
             },
             {
@@ -584,7 +634,8 @@
                 "de": "Großzügige Innenräume mit Blick auf den regnerischen Garten.",
                 "hu": "Tágas belső terek kilátással az esős kertre.",
                 "ro": "Spații interioare generoase cu vedere spre grădina ploioasă.",
-                "en": "Spacious interiors with a view of the rainy garden."
+                "en": "Spacious interiors with a view of the rainy garden.",
+                "fr": "Intérieurs spacieux avec vue sur le jardin sous la pluie."
               }
             },
             {
@@ -593,7 +644,8 @@
                 "de": "Vorsicht auf den gepflasterten Wegen, sie können rutschig sein.",
                 "hu": "Vigyázat a kövezett utakon, csúszósak lehetnek.",
                 "ro": "Atenție pe potecile pavate, pot fi alunecoase.",
-                "en": "Careful on the paved paths, they can be slippery."
+                "en": "Careful on the paved paths, they can be slippery.",
+                "fr": "Prudence sur les sentiers pavés, ils peuvent être glissants."
               }
             },
             {
@@ -602,7 +654,8 @@
                 "de": "Genießen Sie eine warme Suppe in einem der Kellerrestaurants.",
                 "hu": "Élvezzen egy meleg levest az egyik pinceétteremben.",
                 "ro": "Savurați o supă caldă într-unul dintre restaurantele de la subsol.",
-                "en": "Enjoy a warm soup in one of the cellar restaurants."
+                "en": "Enjoy a warm soup in one of the cellar restaurants.",
+                "fr": "Savourez une soupe chaude dans l'un des restaurants en cave."
               }
             },
             {
@@ -611,7 +664,8 @@
                 "de": "Das Gewächshaus bietet einen tropischen und trockenen Rückzugsort.",
                 "hu": "Az üvegház trópusi és száraz menedéket nyújt.",
                 "ro": "Sera oferă un refugiu tropical și uscat.",
-                "en": "The greenhouse offers a tropical and dry retreat."
+                "en": "The greenhouse offers a tropical and dry retreat.",
+                "fr": "La serre offre une retraite tropicale et sèche."
               }
             }
           ],
@@ -643,6 +697,13 @@
               "Small boutiques in the old town provide good cover.",
               "Watch out for slippery stone steps when wet.",
               "An umbrella is less stable than a raincoat in the sometimes strong gusts."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables pour les rues en pente.",
+              "La Villa Noailles est le meilleur endroit lors de pluies prolongées.",
+              "Les petites boutiques de la vieille ville offrent de bons abris.",
+              "Attention aux marches en pierre glissantes lorsqu'elles sont mouillées.",
+              "Un parapluie est moins stable qu'un imperméable face aux rafales parfois fortes."
             ]
           }
         },
@@ -651,7 +712,8 @@
             "de": "Erleben Sie die milde Wintersonne auf der Place Massillon, während die Luft klar und frisch ist. Die historischen Mauern der Tempelritter speichern die Mittagswärme. Später bietet die moderne Architektur der Villa Noailles Schutz vor dem Mistral-Wind. Der Tag endet früh mit einem goldenen Sonnenuntergang über den Dächern, gefolgt von einem wärmenden Getränk in der Altstadt, wenn die Lichter der Stadt angehen.",
             "hu": "Tapasztalja meg az enyhe téli napsütést a Place Massillon-on, miközben a levegő tiszta és friss. A templomosok történelmi falai tárolják a déli meleget. Később a Villa Noailles modern építészete nyújt védelmet a Mistral szél elől. A nap korán zárul egy arany naplementével a tetők felett, majd egy melengető ital következik az óvárosban, ahogy kigyúlnak a város fényei.",
             "ro": "Experimentați soarele blând de iarnă în Place Massillon, în timp ce aerul este clar și proaspăt. Zidurile istorice ale templierilor păstrează căldura amiezii. Mai târziu, arhitectura modernă de la Villa Noailles oferă protecție împotriva vântului Mistral. Ziua se încheie devreme cu un apus auriu peste acoperișuri, urmat de o băutură caldă în orașul vechi când se aprind luminile.",
-            "en": "Experience the mild winter sun at Place Massillon while the air is clear and fresh. The historical walls of the Templars store the midday heat. Later, the modern architecture of Villa Noailles provides protection from the Mistral wind. The day ends early with a golden sunset over the roofs, followed by a warming drink in the old town as the city lights come on."
+            "en": "Experience the mild winter sun at Place Massillon while the air is clear and fresh. The historical walls of the Templars store the midday heat. Later, the modern architecture of Villa Noailles provides protection from the Mistral wind. The day ends early with a golden sunset over the roofs, followed by a warming drink in the old town as the city lights come on.",
+            "fr": "Profitez du doux soleil d'hiver sur la place Massillon alors que l'air est pur et frais. Les murs historiques des Templiers emmagasinent la chaleur de la mi-journée. Plus tard, l'architecture moderne de la Villa Noailles offre une protection contre le Mistral. La journée se termine tôt par un coucher de soleil doré sur les toits, suivi d'une boisson réconfortante dans la vieille ville."
           },
           "stops": [
             {
@@ -660,7 +722,8 @@
                 "de": "Sonnige Plätze sind auch im Winter angenehm warm.",
                 "hu": "A napos helyek télen is kellemesen melegek.",
                 "ro": "Locurile însorite sunt plăcut de calde chiar și iarna.",
-                "en": "Sunny spots are pleasantly warm even in winter."
+                "en": "Sunny spots are pleasantly warm even in winter.",
+                "fr": "Les endroits ensoleillés sont agréablement chauds, même en hiver."
               }
             },
             {
@@ -669,7 +732,8 @@
                 "de": "Die dicken Mauern schützen gut vor kühlen Winden.",
                 "hu": "A vastag falak jól védenek a hűvös széltől.",
                 "ro": "Zidurile groase protejează bine împotriva vânturilor reci.",
-                "en": "The thick walls protect well against cool winds."
+                "en": "The thick walls protect well against cool winds.",
+                "fr": "Les murs épais protègent bien contre les vents frais."
               }
             },
             {
@@ -678,7 +742,8 @@
                 "de": "Ein Ort der Stille und moderaten Temperaturen.",
                 "hu": "A csend és a mérsékelt hőmérséklet helye.",
                 "ro": "Un loc de liniște și temperaturi moderate.",
-                "en": "A place of silence and moderate temperatures."
+                "en": "A place of silence and moderate temperatures.",
+                "fr": "Un lieu de silence et de températures modérées."
               }
             },
             {
@@ -687,7 +752,8 @@
                 "de": "Besuchen Sie die Ausstellungen in den beheizten Räumen.",
                 "hu": "Látogassa meg a kiállításokat a fűtött termekben.",
                 "ro": "Vizitați expozițiile în sălile încălzite.",
-                "en": "Visit the exhibitions in the heated rooms."
+                "en": "Visit the exhibitions in the heated rooms.",
+                "fr": "Visitez les expositions dans les salles chauffées."
               }
             },
             {
@@ -696,7 +762,8 @@
                 "de": "Genießen Sie den weiten Blick bei besonders klarer Winterluft.",
                 "hu": "Élvezze a távoli kilátást a különösen tiszta téli levegőben.",
                 "ro": "Bucurați-vă de priveliștea largă în aerul de iarnă foarte clar.",
-                "en": "Enjoy the wide view in the particularly clear winter air."
+                "en": "Enjoy the wide view in the particularly clear winter air.",
+                "fr": "Profitez de la vue dégagée grâce à la clarté de l'air hivernal."
               }
             },
             {
@@ -705,7 +772,8 @@
                 "de": "Probieren Sie lokale Spezialitäten in gemütlicher Atmosphäre.",
                 "hu": "Kóstolja meg a helyi különlegességeket barátságos légkörben.",
                 "ro": "Gustați specialități locale într-o atmosferă primitoare.",
-                "en": "Taste local specialties in a cozy atmosphere."
+                "en": "Taste local specialties in a cozy atmosphere.",
+                "fr": "Goûtez aux spécialités locales dans une atmosphère chaleureuse."
               }
             },
             {
@@ -714,7 +782,8 @@
                 "de": "Das Gewächshaus ist im Winter ein grünes Highlight.",
                 "hu": "Az üvegház télen egy zöld fénypont.",
                 "ro": "Sera este un punct forte verde pe timp de iarnă.",
-                "en": "The greenhouse is a green highlight in winter."
+                "en": "The greenhouse is a green highlight in winter.",
+                "fr": "La serre est un écrin de verdure en plein hiver."
               }
             }
           ],
@@ -746,6 +815,13 @@
               "Parks often close an hour earlier in winter.",
               "Make use of the midday sun for outdoor sections.",
               "Sun protection is advisable despite cooler temperatures."
+            ],
+            "fr": [
+              "Prévoyez votre promenade jusqu'à 16h30 car la nuit tombe tôt.",
+              "Superposez vos vêtements pour vous protéger du Mistral.",
+              "Les parcs ferment souvent une heure plus tôt en hiver.",
+              "Profitez du soleil de midi pour les sections en plein air.",
+              "Une protection solaire est conseillée malgré les températures fraîches."
             ]
           }
         }
@@ -774,7 +850,8 @@
             "de": "Mieten Sie Ihr Fahrrad direkt am Hafen.",
             "hu": "Bérelj kerékpárt közvetlenül a kikötőben.",
             "ro": "Închiriați bicicleta direct din port.",
-            "en": "Rent your bike directly at the port."
+            "en": "Rent your bike directly at the port.",
+            "fr": "Louez votre vélo directement au port."
           }
         },
         {
@@ -792,7 +869,8 @@
             "de": "Beobachten Sie Flamingos in den Salzwiesen.",
             "hu": "Figyeld meg a flamingókat a sós mocsarakban.",
             "ro": "Observați flamingii în mlaștinile sărate.",
-            "en": "Spot flamingos in the salt marshes."
+            "en": "Spot flamingos in the salt marshes.",
+            "fr": "Observez les flamants roses dans les marais salants."
           }
         },
         {
@@ -810,7 +888,8 @@
             "de": "Berühmt für Windsurfen und glasklares Wasser.",
             "hu": "Híres szörfparadicsom kristálytiszta vízzel.",
             "ro": "Faimoasă pentru windsurfing și apă cristalină.",
-            "en": "Famous for windsurfing and crystal-clear water."
+            "en": "Famous for windsurfing and crystal-clear water.",
+            "fr": "Célèbre pour le windsurf et ses eaux cristallines."
           }
         },
         {
@@ -828,7 +907,8 @@
             "de": "Fahren Sie auf der schmalen Straße zwischen den Meeren.",
             "hu": "Tekerj a vékony földnyelven a két tenger között.",
             "ro": "Mergeți pe drumul îngust dintre cele două mări.",
-            "en": "Cycle on the narrow road between the seas."
+            "en": "Cycle on the narrow road between the seas.",
+            "fr": "Pédalez sur la route étroite entre deux mers."
           }
         },
         {
@@ -846,7 +926,8 @@
             "de": "Ein malerisches Dorf mit herrlicher Aussicht.",
             "hu": "Festői falu lenyűgöző panorámával.",
             "ro": "Un sat pitoresc cu o vedere uluitoare.",
-            "en": "A picturesque village with stunning views."
+            "en": "A picturesque village with stunning views.",
+            "fr": "Un village pittoresque avec des vues imprenables."
           }
         },
         {
@@ -864,7 +945,8 @@
             "de": "Ein kleiner, versteckter Fischerhafen.",
             "hu": "Egy apró, rejtett halászkikötő a sziklák alatt.",
             "ro": "Un mic port pescăresc ascuns.",
-            "en": "A tiny, hidden fishing port below the cliffs."
+            "en": "A tiny, hidden fishing port below the cliffs.",
+            "fr": "Un minuscule port de pêche caché au pied des falaises."
           }
         }
       ],
@@ -872,7 +954,8 @@
         "de": "Erkunden Sie die Küste auf zwei Rädern. Vom Hafen aus fahren Sie zu den Salzwiesen, wo seltene Vögel nisten. Die Route du Sel führt Sie entlang der Halbinsel Giens, umgeben von türkisblauem Wasser. Machen Sie eine Pause am Strand von L'Almanarre und beenden Sie die Tour im charmanten Dorf Giens mit Blick auf die Goldinseln.",
         "hu": "Fedezd fel a partvidéket két keréken. A kikötőből indulva tekerj a sólepárlókhoz, ahol ritka madarakat láthatsz. A 'Só útja' a Giens-félsziget mentén vezet, türkizkék vízzel körülvéve. tarts szünetet L'Almanarre strandján, majd zárd a napot Giens bájos falujában, ahonnan rálátni az Arany-szigetekre.",
         "ro": "Explorați coasta pe două roți. De la port, pedalați spre mlaștinile sărate, unde cuibăresc păsări rare. 'Drumul Sării' vă conduce de-a lungul peninsulei Giens, înconjurați de ape turcoaz. Faceți o pauză pe plaja L'Almanarre și încheiați ziua în fermecătorul sat Giens, cu vedere la Insulele de Aur.",
-        "en": "Explore the coastline on two wheels. Starting from the port, cycle to the salt marshes where rare birds nest. The 'Salt Route' leads you along the Giens peninsula, surrounded by turquoise water. Take a break at L'Almanarre beach and end your day in the charming village of Giens, overlooking the Golden Islands."
+        "en": "Explore the coastline on two wheels. Starting from the port, cycle to the salt marshes where rare birds nest. The 'Salt Route' leads you along the Giens peninsula, surrounded by turquoise water. Take a break at L'Almanarre beach and end your day in the charming village of Giens, overlooking the Golden Islands.",
+        "fr": "Explorez le littoral sur deux roues. Au départ du port, pédalez jusqu'aux marais salants où nichent des oiseaux rares. La « Route du Sel » vous emmène le long de la presqu'île de Giens, entourée d'eaux turquoise. Faites une pause à la plage de l'Almanarre et terminez votre journée dans le charmant village de Giens, avec vue sur les îles d'Or."
       },
       "gastro_picks": {
         "de": [
@@ -913,6 +996,16 @@
           {
             "name": "Rosé de Provence",
             "tip": "A chilled glass of wine with a sea view."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Soupe de poisson",
+            "tip": "Préparée avec du poisson fraîchement pêché au Port du Niel."
+          },
+          {
+            "name": "Rosé de Provence",
+            "tip": "Un verre de vin frais avec vue sur la mer."
           }
         ]
       },
@@ -964,6 +1057,18 @@
             "tip": "Quiet nature observation spot.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Port du Niel",
+            "tip": "Crique isolée pour le coucher du soleil.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Salins des Pesquiers",
+            "tip": "Site d'observation de la nature très paisible.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -989,6 +1094,12 @@
           {
             "name": "Fleur de Sel",
             "tip": "Salt flower directly from Hyères salt works."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Fleur de sel provenant directement des salins d'Hyères."
           }
         ]
       },
@@ -1016,6 +1127,12 @@
           "Watch out for the wind (Mistral), it can make pedaling harder.",
           "Bring plenty of water and sunscreen.",
           "A mountain bike is better for some of the coastal paths."
+        ],
+        "fr": [
+          "La Route du Sel est fermée aux voitures, ce qui est idéal pour les cyclistes.",
+          "Attention au vent (Mistral), il peut rendre le pédalage plus difficile.",
+          "Apportez beaucoup d'eau et de la crème solaire.",
+          "Un VTT est préférable pour certains sentiers côtiers."
         ]
       },
       "variants": {
@@ -1232,7 +1349,8 @@
             "de": "Trotzen Sie dem Küstenregen bei einer Fahrt entlang der Salzgärten. Die grauen Wolken über den Salins schaffen eine dramatische Kulisse. Mittags bietet der Strand von L'Almanarre einen stürmischen Anblick, während Sie sich in einer nahen Bar aufwärmen. Die Route du Sel führt durch eine mystische, nasse Landschaft. Der Tag endet im malerischen Port du Niel, wo die Fischerboote sanft im Regen schaukeln.",
             "hu": "Dacoljon a tengerparti esővel a sólepárlók mentén tekerve. A szürke felhők a Salins felett drámai hátteret adnak. Délben az L'Almanarre strand viharos látványt nyújt, miközben egy közeli bárban melegedhet fel. A Route du Sel misztikus, vizes tájon vezet keresztül. A nap a festői Port du Niel-ben zárul, ahol a halászhajók szelíden ringatóznak az esőben.",
             "ro": "Înfruntați ploaia de coastă într-o plimbare pe lângă saline. Norii cenușii deasupra Salins creează un decor dramatic. La prânz, plaja L'Almanarre oferă o priveliște furtunoasă în timp ce vă încălziți într-un bar apropiat. Route du Sel trece printr-un peisaj umed și mistic. Ziua se încheie în pitorescul Port du Niel, unde bărcile de pescuit se leagănă ușor sub ploaie.",
-            "en": "Brave the coastal rain during a ride along the salt marshes. The gray clouds over the Salins create a dramatic backdrop. At noon, L'Almanarre beach offers a stormy sight while you warm up in a nearby bar. The Route du Sel leads through a mystical, wet landscape. The day ends in the picturesque Port du Niel, where fishing boats sway gently in the rain."
+            "en": "Brave the coastal rain during a ride along the salt marshes. The gray clouds over the Salins create a dramatic backdrop. At noon, L'Almanarre beach offers a stormy sight while you warm up in a nearby bar. The Route du Sel leads through a mystical, wet landscape. The day ends in the picturesque Port du Niel, where fishing boats sway gently in the rain.",
+            "fr": "Bravez la pluie côtière lors d'une balade le long des marais salants. Les nuages gris sur les Salins créent un décor dramatique. À midi, la plage de l'Almanarre offre un spectacle tempétueux pendant que vous vous réchauffez dans un bar à proximité. La Route du Sel traverse un paysage humide et mystique. La journée s'achève au pittoresque Port du Niel, où les bateaux de pêche tanguent doucement."
           },
           "stops": [
             {
@@ -1241,7 +1359,8 @@
                 "de": "Vorsicht vor rutschigen Holzstegen im Hafenbereich.",
                 "hu": "Vigyázat a csúszós fapallókkal a kikötőben.",
                 "ro": "Atenție la punțile de lemn alunecoase din zona portului.",
-                "en": "Watch out for slippery wooden piers in the harbor area."
+                "en": "Watch out for slippery wooden piers in the harbor area.",
+                "fr": "Attention aux pontons en bois glissants dans la zone du port."
               }
             },
             {
@@ -1250,7 +1369,8 @@
                 "de": "Die Wege können bei Regen matschig sein, Schutzbleche helfen.",
                 "hu": "Az utak esőben sárosak lehetnek, a sárvédő segít.",
                 "ro": "Drumurile pot fi noroioase pe ploaie, aripile de bicicletă ajută.",
-                "en": "Paths can be muddy in the rain, mudguards help."
+                "en": "Paths can be muddy in the rain, mudguards help.",
+                "fr": "Les sentiers peuvent être boueux sous la pluie, des garde-boue sont utiles."
               }
             },
             {
@@ -1259,7 +1379,8 @@
                 "de": "Starker Seitenwind bei Regen möglich, halten Sie den Lenker fest.",
                 "hu": "Esőben erős oldalszél lehetséges, fogja szorosan a kormányt.",
                 "ro": "Vânt lateral puternic posibil pe ploaie, țineți bine ghidonul.",
-                "en": "Strong crosswinds possible in the rain, hold the handlebars tight."
+                "en": "Strong crosswinds possible in the rain, hold the handlebars tight.",
+                "fr": "Forts vents de travers possibles, tenez bien votre guidon."
               }
             },
             {
@@ -1268,7 +1389,8 @@
                 "de": "Offenes Gelände ohne Schutz, wasserfeste Kleidung ist Pflicht.",
                 "hu": "Nyílt terep védelem nélkül, a vízálló ruházat kötelező.",
                 "ro": "Teren deschis fără adăpost, îmbrăcămintea impermeabilă este obligatorie.",
-                "en": "Open terrain without shelter, waterproof clothing is a must."
+                "en": "Open terrain without shelter, waterproof clothing is a must.",
+                "fr": "Terrain ouvert sans abri, des vêtements imperméables sont indispensables."
               }
             },
             {
@@ -1277,7 +1399,8 @@
                 "de": "Das Dorf bietet Cafés zum Unterstellen und Aufwärmen.",
                 "hu": "A falu kávézókat kínál a behúzódáshoz és melegedéshez.",
                 "ro": "Satul oferă cafenele pentru adăpost și încălzire.",
-                "en": "The village offers cafes for shelter and warming up."
+                "en": "The village offers cafes for shelter and warming up.",
+                "fr": "Le village propose des cafés pour s'abriter et se réchauffer."
               }
             },
             {
@@ -1286,7 +1409,8 @@
                 "de": "Der steile Abstieg erfordert gute Bremsen bei Nässe.",
                 "hu": "A meredek lejtő jó fékeket igényel nedves időben.",
                 "ro": "Coborârea abruptă necesită frâne bune pe timp umed.",
-                "en": "The steep descent requires good brakes in the wet."
+                "en": "The steep descent requires good brakes in the wet.",
+                "fr": "La descente raide nécessite de bons freins sous la pluie."
               }
             }
           ],
@@ -1318,6 +1442,13 @@
               "Use bright clothing or reflectors in poor visibility.",
               "Route du Sel may be closed during high winds.",
               "Avoid braking in corners on wet roads."
+            ],
+            "fr": [
+              "Vérifiez l'efficacité de vos freins par temps humide avant de partir.",
+              "Évitez les flaques d'eau, elles peuvent cacher des nids-de-poule profonds.",
+              "Portez des vêtements clairs ou des réflecteurs par mauvaise visibilité.",
+              "La Route du Sel peut être fermée en cas de vents violents.",
+              "Évitez de freiner dans les virages sur route mouillée."
             ]
           }
         },
@@ -1326,7 +1457,8 @@
             "de": "Genießen Sie die frische Meeresbrise bei einer Radtour durch die Salinen. Der Winter bringt oft klare Sicht bis zu den Porquerolles-Inseln. Mittags bietet die Route du Sel eine einsame und ruhige Kulisse für Naturfreunde. Das Dorf Giens lädt zu einer kurzen Pause in der milden Sonne ein. Der Tag endet mit einer kühlen Abfahrt zum Port du Niel, bevor die Dämmerung den Himmel in Pastelltöne taucht.",
             "hu": "Élvezze a friss tengeri szellőt a sólepárlókon keresztül vezető kerékpártúrán. A tél gyakran tiszta kilátást hoz a Porquerolles-szigetekre. Délben a Route du Sel magányos és nyugodt hátteret kínál a természetbarátoknak. Giens falu rövid pihenőre hív az enyhe napsütésben. A nap egy hűvös lejtmenettel zárul a Port du Niel-hez, mielőtt a szürkület pasztell színekbe öltözteti az eget.",
             "ro": "Bucurați-vă de briza proaspătă a mării într-o tură cu bicicleta prin saline. Iarna aduce adesea o vizibilitate clară până la insulele Porquerolles. La prânz, Route du Sel oferă un decor solitar și liniștit pentru iubitorii de natură. Satul Giens invită la o scurtă pauză sub soarele blând. Ziua se încheie cu o coborâre răcoroasă spre Port du Niel, înainte ca amurgul să picteze cerul în culori pastelate.",
-            "en": "Enjoy the fresh sea breeze during a bike tour through the salt marshes. Winter often brings clear views as far as the Porquerolles islands. At noon, the Route du Sel offers a solitary and quiet backdrop for nature lovers. The village of Giens invites you for a short break in the mild sun. The day ends with a cool descent to Port du Niel before dusk paints the sky in pastel tones."
+            "en": "Enjoy the fresh sea breeze during a bike tour through the salt marshes. Winter often brings clear views as far as the Porquerolles islands. At noon, the Route du Sel offers a solitary and quiet backdrop for nature lovers. The village of Giens invites you for a short break in the mild sun. The day ends with a cool descent to Port du Niel before dusk paints the sky in pastel tones.",
+            "fr": "Profitez de la fraîcheur de la brise marine lors d'une excursion à vélo dans les marais salants. L'hiver offre souvent des vues dégagées jusqu'à Porquerolles. À midi, la Route du Sel offre un cadre solitaire et calme pour les amoureux de la nature. Le village de Giens vous invite à une courte pause sous le soleil doux. La journée se termine par une descente fraîche vers le Port du Niel avant que le crépuscule ne peigne le ciel."
           },
           "stops": [
             {
@@ -1335,7 +1467,8 @@
                 "de": "Weniger Betrieb, ideal für einen entspannten Start.",
                 "hu": "Kisebb forgalom, ideális egy nyugodt induláshoz.",
                 "ro": "Mai puțină activitate, ideal pentru un start relaxat.",
-                "en": "Less busy, ideal for a relaxed start."
+                "en": "Less busy, ideal for a relaxed start.",
+                "fr": "Moins fréquenté, idéal pour un départ détendu."
               }
             },
             {
@@ -1344,7 +1477,8 @@
                 "de": "Hervorragende Vogelbeobachtung im Winter möglich.",
                 "hu": "Télen kiváló madármegfigyelési lehetőség.",
                 "ro": "Observarea păsărilor este excelentă iarna.",
-                "en": "Excellent bird watching possible in winter."
+                "en": "Excellent bird watching possible in winter.",
+                "fr": "Excellente observation des oiseaux possible en hiver."
               }
             },
             {
@@ -1353,7 +1487,8 @@
                 "de": "Beliebter Ort für Kitesurfer auch bei niedrigen Temperaturen.",
                 "hu": "Népszerű hely a kiteszörfösöknek alacsony hőmérsékleten is.",
                 "ro": "Loc popular pentru kitesurferi chiar și la temperaturi scăzute.",
-                "en": "Popular spot for kitesurfers even at low temperatures."
+                "en": "Popular spot for kitesurfers even at low temperatures.",
+                "fr": "Spot prisé des kitesurfeurs même par basses températures."
               }
             },
             {
@@ -1362,7 +1497,8 @@
                 "de": "Winddichte Kleidung ist hier wegen des Mistrals wichtig.",
                 "hu": "A szélálló ruházat itt fontos a Mistral miatt.",
                 "ro": "Îmbrăcămintea rezistentă la vânt este importantă aici din cauza Mistralului.",
-                "en": "Windproof clothing is important here because of the Mistral."
+                "en": "Windproof clothing is important here because of the Mistral.",
+                "fr": "Des vêtements coupe-vent sont importants ici à cause du Mistral."
               }
             },
             {
@@ -1371,7 +1507,8 @@
                 "de": "Ein sonniger Platz am Mittag lädt zum Verweilen ein.",
                 "hu": "Egy napos hely délben maradásra csábít.",
                 "ro": "Un loc însorit la amiază invită la popas.",
-                "en": "A sunny spot at noon invites you to stay a while."
+                "en": "A sunny spot at noon invites you to stay a while.",
+                "fr": "Un endroit ensoleillé à midi invite à prolonger la pause."
               }
             },
             {
@@ -1380,7 +1517,8 @@
                 "de": "Warme Handschuhe für die Abfahrt einpacken.",
                 "hu": "Csomagoljon meleg kesztyűt a lejtmenethez.",
                 "ro": "Pregătiți mănuși calde pentru coborâre.",
-                "en": "Pack warm gloves for the descent."
+                "en": "Pack warm gloves for the descent.",
+                "fr": "Prévoyez des gants chauds pour la descente."
               }
             }
           ],
@@ -1412,6 +1550,13 @@
               "Avoid tours during strong Mistral (danger from gusts).",
               "Many beach kiosks are closed in winter.",
               "Take a warm drink in a thermos with you."
+            ],
+            "fr": [
+              "Gants et protection pour les oreilles protègent contre le vent froid.",
+              "Le soleil se couche vers 17h, vérifiez vos éclairages.",
+              "Évitez les sorties en cas de fort Mistral (danger des rafales).",
+              "De nombreux kiosques de plage sont fermés en hiver.",
+              "Emportez une boisson chaude dans un thermos avec vous."
             ]
           }
         }
@@ -1440,7 +1585,8 @@
             "de": "Parken Sie im Parkhaus Gambetta.",
             "hu": "Parkolj a Gambetta parkolóházban.",
             "ro": "Parcați în parcarea Gambetta.",
-            "en": "Park in the Gambetta parking garage."
+            "en": "Park in the Gambetta parking garage.",
+            "fr": "Garez-vous au parking Gambetta."
           }
         },
         {
@@ -1458,7 +1604,8 @@
             "de": "Ausgangspunkt für die Fähren nach Porquerolles.",
             "hu": "A Porquerolles-ba tartó kompok indulási helye.",
             "ro": "Punctul de plecare pentru feriboturile spre Porquerolles.",
-            "en": "Departure point for ferries to Porquerolles."
+            "en": "Departure point for ferries to Porquerolles.",
+            "fr": "Point de départ des traversées vers Porquerolles."
           }
         },
         {
@@ -1476,7 +1623,8 @@
             "de": "Flaches, warmes Wasser, ideal zum Entspannen.",
             "hu": "Sekély, meleg víz, ideális a pihenéshez.",
             "ro": "Apă puțin adâncă și caldă, ideală pentru relaxare.",
-            "en": "Shallow, warm water, ideal for relaxing."
+            "en": "Shallow, warm water, ideal for relaxing.",
+            "fr": "Eaux peu profondes et chaudes, idéales pour se détendre."
           }
         },
         {
@@ -1494,7 +1642,8 @@
             "de": "Eines der schönsten Blumendörfer Frankreichs.",
             "hu": "Franciaország egyik legszebb virágos faluja.",
             "ro": "Unul dintre cele mai frumoase sate înflorite din Franța.",
-            "en": "One of the most beautiful floral villages in France."
+            "en": "One of the most beautiful floral villages in France.",
+            "fr": "L'un des plus beaux villages fleuris de France."
           }
         },
         {
@@ -1512,7 +1661,8 @@
             "de": "Blick auf die Sommerresidenz des Präsidenten.",
             "hu": "Kilátás az elnöki nyári rezidenciára.",
             "ro": "Vedere spre reședința de vară a președintelui.",
-            "en": "View of the presidential summer residence."
+            "en": "View of the presidential summer residence.",
+            "fr": "Vue sur la résidence d'été présidentielle."
           }
         }
       ],
@@ -1520,7 +1670,8 @@
         "de": "Diese Autotour kombiniert die Eleganz von Hyères mit der wilden Schönheit der Halbinsel Giens. Nach einem Stadtbummel fahren Sie zur Tour Fondue, dem Tor zu den Inseln. Genießen Sie ein langes Bad am Strand von Badine, bevor Sie das malerische Bormes-les-Mimosas besuchen. Den krönenden Abschluss bildet der Blick auf das majestätische Fort de Brégançon bei Sonnenuntergang.",
         "hu": "Ez az autós túra ötvözi Hyères eleganciáját a Giens-félsziget vad szépségével. Városi séta után irány a Tour Fondue, a szigetek kapuja. Élvezd a hosszú fürdőzést a Badine strandon, majd látogass el a festői Bormes-les-Mimosas falujába. A napot a fenséges Fort de Brégançon látványa koronázza meg a naplementében.",
         "ro": "Acest tur cu mașina combină eleganța orașului Hyères cu frumusețea sălbatică a peninsulei Giens. După o plimbare prin oraș, mergeți la Tour Fondue, poarta către insule. Bucurați-vă de o baie lungă pe plaja Badine, înainte de a vizita pitorescul Bormes-les-Mimosas. Ziua se încheie cu vederea maiestuosului Fort de Brégançon la apus.",
-        "en": "This car tour combines the elegance of Hyères with the wild beauty of the Giens peninsula. After a city stroll, head to Tour Fondue, the gateway to the islands. Enjoy a long swim at Badine beach before visiting the picturesque Bormes-les-Mimosas. The day is crowned by the view of the majestic Fort de Brégançon at sunset."
+        "en": "This car tour combines the elegance of Hyères with the wild beauty of the Giens peninsula. After a city stroll, head to Tour Fondue, the gateway to the islands. Enjoy a long swim at Badine beach before visiting the picturesque Bormes-les-Mimosas. The day is crowned by the view of the majestic Fort de Brégançon at sunset.",
+        "fr": "Ce circuit en voiture combine l'élégance d'Hyères et la beauté sauvage de la presqu'île de Giens. Après une promenade en ville, direction la Tour Fondue, porte d'entrée des îles. Profitez d'une longue baignade à la plage de la Badine avant de visiter le pittoresque village de Bormes-les-Mimosas. La journée est couronnée par la vue du majestueux Fort de Brégançon au coucher du soleil."
       },
       "gastro_picks": {
         "de": [
@@ -1545,6 +1696,12 @@
           {
             "name": "Bouillabaisse",
             "tip": "Try the classic fish stew in nearby Le Lavandou."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Bouillabaisse",
+            "tip": "Goûtez à ce ragoût de poisson classique au Lavandou, tout proche."
           }
         ]
       },
@@ -1576,6 +1733,13 @@
             "tip": "Quiet beach near Brégançon.",
             "emoji": "🏖️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plage de Cabasson",
+            "tip": "Plage tranquille située près de Brégançon.",
+            "emoji": "🏖️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1601,6 +1765,12 @@
           {
             "name": "Provençal Wines",
             "tip": "Buy directly from the wineries along the road."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Vins de Provence",
+            "tip": "Achetez directement dans les domaines viticoles le long de la route."
           }
         ]
       },
@@ -1628,6 +1798,12 @@
           "The D559 coastal road offers breathtaking views.",
           "Book Porquerolles ferry tickets online in advance.",
           "Avoid peak traffic times around 5 PM."
+        ],
+        "fr": [
+          "Les parkings des plages peuvent se remplir rapidement en été.",
+          "La route côtière D559 offre des panoramas époustouflants.",
+          "Réservez vos billets de ferry pour Porquerolles en ligne à l'avance.",
+          "Évitez les heures de pointe autour de 17h."
         ]
       },
       "variants": {
@@ -1799,7 +1975,8 @@
             "de": "Genießen Sie die Fahrt entlang der Küste, während die Scheibenwischer den Rhythmus angeben. Hyères Centre-Ville bietet Parkhäuser, von denen aus Sie trockenen Fußes in Cafés gelangen. Mittags führt die Tour zur Tour Fondue, wo die stürmische See gegen die Felsen prallt. Ein Abstecher nach Bormes-les-Mimosas lohnt sich für die gemütlichen, regennassen Gassen. Der Tag endet mit einem Blick auf den Fort de Brégançon im Schein der Autoscheinwerfer.",
             "hu": "Élvezze a tengerparti autózást, miközben az ablaktörlők adják a ritmust. Hyères belvárosa parkolóházakat kínál, ahonnan száraz lábbal juthat el a kávézókba. Délben a túra a Tour Fondue-hoz vezet, ahol a viharos tenger a szikláknak csapódik. Bormes-les-Mimosas megér egy kitérőt a hangulatos, esőáztatta utcák miatt. A nap a Fort de Brégançon látványával zárul az autólámpák fényében.",
             "ro": "Bucurați-vă de drumul de-a lungul coastei în timp ce ștergătoarele dau ritmul. Hyères Centre-Ville oferă parcări acoperite de unde puteți ajunge uscat în cafenele. La prânz, turul duce la Tour Fondue, unde marea învolburată se lovește de stânci. O oprire la Bormes-les-Mimosas merită pentru străzile primitoare udate de ploaie. Ziua se încheie cu o vedere spre Fort de Brégançon în lumina farurilor.",
-            "en": "Enjoy the drive along the coast while the windshield wipers set the rhythm. Hyères Centre-Ville offers parking garages from which you can reach cafes dry-footed. At noon, the tour leads to Tour Fondue, where the stormy sea crashes against the rocks. A detour to Bormes-les-Mimosas is worth it for the cozy, rain-soaked streets. The day ends with a view of Fort de Brégançon in the glow of the car headlights."
+            "en": "Enjoy the drive along the coast while the windshield wipers set the rhythm. Hyères Centre-Ville offers parking garages from which you can reach cafes dry-footed. At noon, the tour leads to Tour Fondue, where the stormy sea crashes against the rocks. A detour to Bormes-les-Mimosas is worth it for the cozy, rain-soaked streets. The day ends with a view of Fort de Brégançon in the glow of the car headlights.",
+            "fr": "Profitez de la route le long de la côte tandis que les essuie-glaces donnent le rythme. Le centre-ville d'Hyères propose des parkings couverts pour rejoindre les cafés au sec. À midi, le circuit mène à la Tour Fondue, où la mer déchaînée vient se briser contre les rochers. Un détour par Bormes-les-Mimosas vaut le coup pour ses ruelles pavées et intimes. La journée s'achève par une vue sur le Fort de Brégançon."
           },
           "stops": [
             {
@@ -1808,7 +1985,8 @@
                 "de": "Nutzen Sie das Parkhaus Gambetta für direkten Zugang zur Stadt.",
                 "hu": "Használja a Gambetta parkolóházat a közvetlen városi bejutáshoz.",
                 "ro": "Folosiți parcarea Gambetta pentru acces direct în oraș.",
-                "en": "Use the Gambetta parking garage for direct city access."
+                "en": "Use the Gambetta parking garage for direct city access.",
+                "fr": "Utilisez le parking Gambetta pour un accès direct à la ville."
               }
             },
             {
@@ -1817,7 +1995,8 @@
                 "de": "Parken Sie nah am Wasser, um die Wellen aus dem Auto zu sehen.",
                 "hu": "Parkoljon a víz közelében, hogy az autóból nézhesse a hullámokat.",
                 "ro": "Parcați aproape de apă pentru a vedea valurile din mașină.",
-                "en": "Park close to the water to see the waves from the car."
+                "en": "Park close to the water to see the waves from the car.",
+                "fr": "Garez-vous près de l'eau pour admirer les vagues depuis la voiture."
               }
             },
             {
@@ -1826,7 +2005,8 @@
                 "de": "Ein kurzer, nasser Strandspaziergang ist erfrischend.",
                 "hu": "Egy rövid, vizes strandi séta frissítő lehet.",
                 "ro": "O scurtă plimbare pe plaja udă este revigorantă.",
-                "en": "A short, wet beach walk is refreshing."
+                "en": "A short, wet beach walk is refreshing.",
+                "fr": "Une courte marche sur la plage sous la pluie est rafraîchissante."
               }
             },
             {
@@ -1835,7 +2015,8 @@
                 "de": "Die engen Gassen sind bei Regen besonders fotogen.",
                 "hu": "A szűk utcák esőben különösen fotogének.",
                 "ro": "Străzile înguste sunt extrem de fotogenice pe ploaie.",
-                "en": "The narrow streets are especially photogenic in the rain."
+                "en": "The narrow streets are especially photogenic in the rain.",
+                "fr": "Les rues étroites sont particulièrement photogéniques sous la pluie."
               }
             },
             {
@@ -1844,7 +2025,8 @@
                 "de": "Die Aussichtspunkte können bei Nebel eingeschränkt sein.",
                 "hu": "A kilátópontok ködben korlátozottak lehetnek.",
                 "ro": "Punctele de belvedere pot fi limitate în caz de ceață.",
-                "en": "Viewpoints may be limited in case of fog."
+                "en": "Viewpoints may be limited in case of fog.",
+                "fr": "Les points de vue peuvent être limités en cas de brouillard."
               }
             }
           ],
@@ -1876,6 +2058,13 @@
               "Keep a flashlight handy if visibility drops significantly.",
               "Ferries from Tour Fondue may not run during storms.",
               "An umbrella in the car is essential for short stops."
+            ],
+            "fr": [
+              "Attention à l'aquaplanage sur la route côtière.",
+              "Les parkings du centre se remplissent souvent plus vite sous la pluie.",
+              "Gardez une lampe de poche à portée de main si la visibilité chute.",
+              "Les ferries au départ de la Tour Fondue peuvent être annulés en cas de tempête.",
+              "Un parapluie dans la voiture est essentiel pour les courts arrêts."
             ]
           }
         },
@@ -1884,7 +2073,8 @@
             "de": "Genießen Sie eine entspannte Winterfahrt durch die Hügel der Provence. Hyères Centre-Ville ist weniger überlaufen, was die Parksuche erleichtert. Mittags strahlt das Licht an der Tour Fondue besonders hell und klar. In Bormes-les-Mimosas blühen bereits im Februar die Mimosen und färben die Landschaft gelb. Der Tag endet mit einem spektakulären Sonnenuntergang am Fort de Brégançon, bevor Sie die Heizung im Auto aufdrehen.",
             "hu": "Élvezze a pihentető téli autózást Provence dombjai között. Hyères belvárosa kevésbé zsúfolt, ami megkönnyíti a parkolást. Délben a fény a Tour Fondue-nál különösen ragyogó és tiszta. Bormes-les-Mimosas-ban már februárban virágzik a mimóza, sárgára festve a tájat. A nap látványos naplementével zárul a Fort de Brégançon-nál, mielőtt feltekerné a fűtést az autóban.",
             "ro": "Bucurați-vă de o plimbare relaxantă de iarnă prin dealurile Provencei. Hyères Centre-Ville este mai puțin aglomerat, facilitând parcarea. La prânz, lumina la Tour Fondue este deosebit de strălucitoare și clară. În Bormes-les-Mimosas, mimozele înfloresc deja în februarie, colorând peisajul în galben. Ziua se încheie cu un apus spectaculos la Fort de Brégançon înainte de a porni căldura în mașină.",
-            "en": "Enjoy a relaxed winter drive through the hills of Provence. Hyères Centre-Ville is less crowded, making parking easier. At noon, the light at Tour Fondue is particularly bright and clear. In Bormes-les-Mimosas, mimosas bloom as early as February, coloring the landscape yellow. The day ends with a spectacular sunset at Fort de Brégançon before you turn up the heat in the car."
+            "en": "Enjoy a relaxed winter drive through the hills of Provence. Hyères Centre-Ville is less crowded, making parking easier. At noon, the light at Tour Fondue is particularly bright and clear. In Bormes-les-Mimosas, mimosas bloom as early as February, coloring the landscape yellow. The day ends with a spectacular sunset at Fort de Brégançon before you turn up the heat in the car.",
+            "fr": "Profitez d'une conduite hivernale détendue à travers les collines de Provence. Le centre-ville d'Hyères est moins fréquenté, ce qui facilite le stationnement. À midi, la lumière à la Tour Fondue est particulièrement vive et pure. À Bormes-les-Mimosas, les mimosas fleurissent dès février, colorant le paysage en jaune. La journée se termine par un coucher de soleil spectaculaire au Fort de Brégançon."
           },
           "stops": [
             {
@@ -1893,7 +2083,8 @@
                 "de": "Parkplätze an der Oberfläche sind im Winter leichter zu finden.",
                 "hu": "A felszíni parkolóhelyek télen könnyebben megtalálhatók.",
                 "ro": "Locurile de parcare la suprafață sunt mai ușor de găsit iarna.",
-                "en": "Surface parking spaces are easier to find in winter."
+                "en": "Surface parking spaces are easier to find in winter.",
+                "fr": "Les places de parking en surface sont plus faciles à trouver en hiver."
               }
             },
             {
@@ -1902,7 +2093,8 @@
                 "de": "Wunderschönes, klares Licht für Landschaftsfotografie.",
                 "hu": "Gyönyörű, tiszta fény a tájfotózáshoz.",
                 "ro": "Lumină superbă și clară pentru fotografia de peisaj.",
-                "en": "Beautiful, clear light for landscape photography."
+                "en": "Beautiful, clear light for landscape photography.",
+                "fr": "Une lumière magnifique et pure pour la photographie de paysage."
               }
             },
             {
@@ -1911,7 +2103,8 @@
                 "de": "Ideal für einsame Spaziergänge am Ufer.",
                 "hu": "Ideális magányos sétákhoz a parton.",
                 "ro": "Ideal pentru plimbări solitare pe mal.",
-                "en": "Ideal for solitary walks on the shore."
+                "en": "Ideal for solitary walks on the shore.",
+                "fr": "Idéal pour des promenades solitaires sur le rivage."
               }
             },
             {
@@ -1920,7 +2113,8 @@
                 "de": "Besuchen Sie den Ort zur Mimosenblüte im Februar.",
                 "hu": "Látogassa meg a települést a mimózavirágzáskor, februárban.",
                 "ro": "Vizitați localitatea în timpul înfloririi mimozelor în februarie.",
-                "en": "Visit the town for the mimosa bloom in February."
+                "en": "Visit the town for the mimosa bloom in February.",
+                "fr": "Visitez le village pour la floraison des mimosas en février."
               }
             },
             {
@@ -1929,7 +2123,8 @@
                 "de": "Die Parkplätze am Aussichtspunkt sind im Winter oft leer.",
                 "hu": "A kilátópont parkolói télen gyakran üresek.",
                 "ro": "Parcările la punctul de belvedere sunt adesea goale iarna.",
-                "en": "Parking lots at the viewpoint are often empty in winter."
+                "en": "Parking lots at the viewpoint are often empty in winter.",
+                "fr": "Les parkings au point de vue sont souvent vides en hiver."
               }
             }
           ],
@@ -1961,6 +2156,13 @@
               "Bormes-les-Mimosas can be crowded during the mimosa festival.",
               "Check tire pressure during sudden cold snaps.",
               "Bottled water in the car can get very cold in winter."
+            ],
+            "fr": [
+              "Évitez de conduire de nuit dans les collines sinueuses.",
+              "Les conditions de luminosité changent très vite en hiver.",
+              "Bormes-les-Mimosas peut être fréquenté pendant la fête du mimosa.",
+              "Vérifiez la pression des pneus lors des brusques chutes de température.",
+              "L'eau en bouteille restée dans la voiture peut devenir très froide."
             ]
           }
         }
@@ -1989,7 +2191,8 @@
             "de": "Zentraler Busknotenpunkt für alle Richtungen.",
             "hu": "Központi buszcsomópont minden irányba.",
             "ro": "Nod central de autobuze pentru toate direcțiile.",
-            "en": "Central bus hub for all directions."
+            "en": "Central bus hub for all directions.",
+            "fr": "Pôle central des bus pour toutes les directions."
           }
         },
         {
@@ -2007,7 +2210,8 @@
             "de": "Linie 67 bringt Sie direkt zum Hafen.",
             "hu": "A 67-es járat közvetlenül a kikötőbe visz.",
             "ro": "Linia 67 vă duce direct la port.",
-            "en": "Line 67 takes you directly to the port."
+            "en": "Line 67 takes you directly to the port.",
+            "fr": "La ligne 67 vous emmène directement au port."
           }
         },
         {
@@ -2025,7 +2229,8 @@
             "de": "Bummeln Sie durch die engen Gassen des Dorfes.",
             "hu": "Sétálj a falu szűk, hangulatos utcáin.",
             "ro": "Plimbați-vă pe străzile înguste ale satului.",
-            "en": "Stroll through the narrow streets of the village."
+            "en": "Stroll through the narrow streets of the village.",
+            "fr": "Flânez dans les ruelles étroites du village."
           }
         },
         {
@@ -2043,7 +2248,8 @@
             "de": "Ein ruhiger Strand, ideal für Familien.",
             "hu": "Csendes strand, ideális családoknak.",
             "ro": "O plajă liniștită, ideală pentru familii.",
-            "en": "A quiet beach, ideal for families."
+            "en": "A quiet beach, ideal for families.",
+            "fr": "Une plage tranquille, idéale pour les familles."
           }
         },
         {
@@ -2061,7 +2267,8 @@
             "de": "Kehren Sie für ein Abendessen ins Zentrum zurück.",
             "hu": "Térj vissza a központba egy vacsorára.",
             "ro": "Reveniți în centru pentru cină.",
-            "en": "Return to the center for dinner."
+            "en": "Return to the center for dinner.",
+            "fr": "Retour au centre pour le dîner."
           }
         }
       ],
@@ -2069,7 +2276,8 @@
         "de": "Nutzen Sie das ausgezeichnete Busnetz von Hyères. Fahren Sie zum Jachthafen Port Saint-Pierre und weiter zum malerischen Giens. Genießen Sie den Nachmittag am familienfreundlichen Strand von La Capte, bevor Sie mit dem Bus zurück in die Altstadt fahren, um den Tag bei einem provenzalischen Essen ausklingen zu lassen.",
         "hu": "Használd ki Hyères kiváló buszhálózatát. Utazz a Port Saint-Pierre jachtkikötőhöz, majd tovább a festői Giens-be. Töltsd a délutánt a családbarát La Capte strandon, mielőtt visszabuszoznál az óvárosba, hogy egy provence-i vacsorával zárd a napot.",
         "ro": "Profități de rețeaua excelentă de autobuze din Hyères. Mergeți la portul de iahturi Port Saint-Pierre și apoi la pitorescul Giens. Bucurați-vă de după-amiază pe plaja La Capte, ideală pentru familii, înainte de a reveni cu autobuzul în orașul vechi pentru o cină provensală.",
-        "en": "Take advantage of Hyères' excellent bus network. Travel to the Port Saint-Pierre marina and then on to picturesque Giens. Spend the afternoon at the family-friendly La Capte beach before taking the bus back to the old town to end the day with a Provençal dinner."
+        "en": "Take advantage of Hyères' excellent bus network. Travel to the Port Saint-Pierre marina and then on to picturesque Giens. Spend the afternoon at the family-friendly La Capte beach before taking the bus back to the old town to end the day with a Provençal dinner.",
+        "fr": "Profitez de l'excellent réseau de bus d'Hyères. Rendez-vous au port de plaisance Saint-Pierre, puis au pittoresque village de Giens. Passez l'après-midi sur la plage familiale de la Capte avant de reprendre le bus pour la vieille ville afin de terminer la journée par un dîner provençal."
       },
       "gastro_picks": {
         "de": [
@@ -2094,6 +2302,12 @@
           {
             "name": "Lavender Ice Cream",
             "tip": "Refreshing lavender ice cream in the old town."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Glace à la lavande",
+            "tip": "Glace à la lavande rafraîchissante dans la vieille ville."
           }
         ]
       },
@@ -2125,6 +2339,13 @@
             "tip": "Panoramic view without car noise.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Village de Giens",
+            "tip": "Vue panoramique sans le bruit des voitures.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -2150,6 +2371,12 @@
           {
             "name": "Provençal Fabrics",
             "tip": "Colorful textiles in the city center."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Tissus provençaux",
+            "tip": "Textiles colorés dans le centre-ville."
           }
         ]
       },
@@ -2177,6 +2404,12 @@
           "Buses run until late in the evening during summer.",
           "Download the official bus app for real-time departures.",
           "On market days, bus routes may be diverted."
+        ],
+        "fr": [
+          "Achetez un pass journalier pour le réseau de bus « Mistral ».",
+          "Les bus circulent tard le soir pendant l'été.",
+          "Téléchargez l'application officielle des bus pour les horaires en temps réel.",
+          "Les jours de marché, les itinéraires de bus peuvent être déviés."
         ]
       },
       "variants": {
@@ -2348,7 +2581,8 @@
             "de": "Nutzen Sie das gut ausgebaute Busnetz, um dem Regen zu entfliehen. Von der Place Louis Gautier erreichen Sie schnell den Hafen in einem geschützten Bus. Mittags bietet Giens Village trockene Plätze für eine Pause mit Blick auf das Meer. Der Strand von La Capte wirkt bei Regen fast mystisch. Der Tag endet sicher und trocken in den Gassen des alten Hyères, gut erreichbar mit den städtischen Linien.",
             "hu": "Használja a jól kiépített buszhálózatot, hogy elmeneküljön az eső elől. A Place Louis Gautier-től gyorsan elérheti a kikötőt egy védett buszban. Délben Giens falu száraz helyeket kínál egy pihenőhöz tengeri kilátással. La Capte strandja esőben szinte misztikus hatást kelt. A nap biztonságosan és szárazon zárul a régi Hyères utcáin, jól megközelíthető módon a városi járatokkal.",
             "ro": "Folosiți rețeaua de autobuze bine dezvoltată pentru a scăpa de ploaie. De la Place Louis Gautier ajungeți rapid în port într-un autobuz protejat. La prânz, Giens Village oferă locuri uscate pentru o pauză cu vedere la mare. Plaja La Capte pare aproape mistică pe ploaie. Ziua se încheie în siguranță și uscat pe străzile vechiului Hyères, ușor accesibil cu liniile urbane.",
-            "en": "Use the well-developed bus network to escape the rain. From Place Louis Gautier, you can quickly reach the harbor in a protected bus. At noon, Giens Village offers dry spots for a break with a sea view. La Capte beach looks almost mystical in the rain. The day ends safely and dry in the streets of old Hyères, easily accessible via urban lines."
+            "en": "Use the well-developed bus network to escape the rain. From Place Louis Gautier, you can quickly reach the harbor in a protected bus. At noon, Giens Village offers dry spots for a break with a sea view. La Capte beach looks almost mystical in the rain. The day ends safely and dry in the streets of old Hyères, easily accessible via urban lines.",
+            "fr": "Utilisez le réseau de bus bien développé pour échapper à la pluie. Depuis la place Louis Gautier, rejoignez rapidement le port bien à l'abri. À midi, le village de Giens offre des endroits secs pour une pause avec vue sur mer. La plage de la Capte prend un aspect mystique sous la pluie. La journée se termine au sec dans les rues du vieil Hyères, facilement accessible via les lignes urbaines."
           },
           "stops": [
             {
@@ -2357,7 +2591,8 @@
                 "de": "Die Bushaltestellen haben meist gute Überdachungen.",
                 "hu": "A buszmegállók többsége jó tetővel rendelkezik.",
                 "ro": "Stațiile de autobuz au de obicei copertine bune.",
-                "en": "Most bus stops have good shelters."
+                "en": "Most bus stops have good shelters.",
+                "fr": "La plupart des arrêts de bus disposent de bons abris."
               }
             },
             {
@@ -2366,7 +2601,8 @@
                 "de": "Warten Sie im Hafenterminal auf den nächsten Bus.",
                 "hu": "Várjon a kikötői terminálban a következő buszra.",
                 "ro": "Așteptați în terminalul portuar următorul autobuz.",
-                "en": "Wait in the harbor terminal for the next bus."
+                "en": "Wait in the harbor terminal for the next bus.",
+                "fr": "Attendez le prochain bus dans le terminal du port."
               }
             },
             {
@@ -2375,7 +2611,8 @@
                 "de": "Die Kirche bietet einen ruhigen Ort zum Unterstellen.",
                 "hu": "A templom csendes helyet kínál a behúzódáshoz.",
                 "ro": "Biserica oferă un loc liniștit pentru adăpost.",
-                "en": "The church offers a quiet place for shelter."
+                "en": "The church offers a quiet place for shelter.",
+                "fr": "L'église offre un lieu calme pour s'abriter."
               }
             },
             {
@@ -2384,7 +2621,8 @@
                 "de": "Cafés direkt an der Haltestelle sind ideal bei Schauern.",
                 "hu": "A közvetlenül a megállónál lévő kávézók ideálisak zápor esetén.",
                 "ro": "Cafenelele direct lângă stație sunt ideale în caz de aversă.",
-                "en": "Cafes right by the stop are ideal during showers."
+                "en": "Cafes right by the stop are ideal during showers.",
+                "fr": "Les cafés juste à côté de l'arrêt sont idéaux pendant une averse."
               }
             },
             {
@@ -2393,7 +2631,8 @@
                 "de": "Kurze Wege von der Haltestelle in die Altstadt.",
                 "hu": "Rövid út a megállótól az óvárosig.",
                 "ro": "Distanțe scurte de la stație până în orașul vechi.",
-                "en": "Short distances from the stop to the old town."
+                "en": "Short distances from the stop to the old town.",
+                "fr": "Courtes distances entre l'arrêt et la vieille ville."
               }
             }
           ],
@@ -2425,6 +2664,13 @@
               "Have change or a card ready for the ticket.",
               "Avoid getting on the bus soaking wet (shake off your coat).",
               "Line 67 reliably connects the center with Giens."
+            ],
+            "fr": [
+              "Utilisez l'application de transport pour des infos en temps réel.",
+              "Les bus peuvent être retardés en cas de fortes pluies.",
+              "Ayez de la monnaie ou une carte prête pour l'achat du ticket.",
+              "Évitez de monter dans le bus trempé (secouez votre manteau).",
+              "La ligne 67 relie de manière fiable le centre à Giens."
             ]
           }
         },
@@ -2433,7 +2679,8 @@
             "de": "Entdecken Sie Hyères im Winter entspannt mit dem öffentlichen Nahverkehr. Die Busse sind angenehm beheizt und bieten einen tollen Blick auf die Küste. Mittags lädt das Dorf Giens zu einem ruhigen Spaziergang in der Sonne ein, bevor der Bus Sie zurückbringt. Der Strand von La Capte ist im Winter ein Ort der absoluten Stille. Der Tag endet im historischen Viertel, wenn die ersten Lichter die winterliche Atmosphäre betonen.",
             "hu": "Fedezze fel Hyères-t télen pihentető módon a tömegközlekedéssel. A buszok kellemesen fűtöttek és nagyszerű kilátást nyújtanak a partra. Délben Giens falu csendes sétára hív a napsütésben, mielőtt a busz visszavinné. La Capte strandja télen az abszolút csend helyszíne. A nap a történelmi negyedben zárul, amikor az első fények kiemelik a téli hangulatot.",
             "ro": "Descoperiți Hyères iarna într-un mod relaxat cu transportul public. Autobuzele sunt încălzite plăcut și oferă o vedere excelentă spre coastă. La prânz, satul Giens invită la o plimbare liniștită la soare înainte ca autobuzul să vă aducă înapoi. Plaja La Capte este un loc de liniște absolută iarna. Ziua se încheie în cartierul istoric când primele lumini subliniază atmosfera de iarnă.",
-            "en": "Discover Hyères in winter in a relaxed way using public transport. The buses are pleasantly heated and offer a great view of the coast. At noon, Giens Village invites you for a quiet walk in the sun before the bus takes you back. La Capte beach is a place of absolute silence in winter. The day ends in the historical quarter when the first lights emphasize the winter atmosphere."
+            "en": "Discover Hyères in winter in a relaxed way using public transport. The buses are pleasantly heated and offer a great view of the coast. At noon, Giens Village invites you for a quiet walk in the sun before the bus takes you back. La Capte beach is a place of absolute silence in winter. The day ends in the historical quarter when the first lights emphasize the winter atmosphere.",
+            "fr": "Découvrez Hyères en hiver en toute décontraction grâce aux transports en commun. Les bus sont agréablement chauffés et offrent une vue magnifique sur la côte. À midi, le village de Giens invite à une promenade au soleil avant le retour en bus. La plage de la Capte est un lieu de silence absolu en hiver. La journée s'achève dans le quartier historique sous les lumières hivernales."
           },
           "stops": [
             {
@@ -2442,7 +2689,8 @@
                 "de": "Im Winter sind die Wartezeiten an den Knotenpunkten kurz.",
                 "hu": "Télen a várakozási idő a csomópontoknál rövid.",
                 "ro": "Iarna timpii de așteptare în nodurile rutiere sunt scurți.",
-                "en": "In winter, waiting times at transfer points are short."
+                "en": "In winter, waiting times at transfer points are short.",
+                "fr": "En hiver, les temps d'attente aux points de correspondance sont courts."
               }
             },
             {
@@ -2451,7 +2699,8 @@
                 "de": "Nutzen Sie die Zeit für einen kurzen Spaziergang am Hafen.",
                 "hu": "Használja ki az időt egy rövid kikötői sétára.",
                 "ro": "Folosiți timpul pentru o scurtă plimbare prin port.",
-                "en": "Use the time for a short walk at the harbor."
+                "en": "Use the time for a short walk at the harbor.",
+                "fr": "Profitez-en pour faire une petite promenade sur le port."
               }
             },
             {
@@ -2460,7 +2709,8 @@
                 "de": "Der Busfahrplan ist im Winter oft ausgedünnt, vorab prüfen.",
                 "hu": "A buszmenetrend télen gyakran ritkább, ellenőrizze előre.",
                 "ro": "Orarele de autobuz sunt adesea reduse iarna, verificați în avans.",
-                "en": "Bus schedules are often reduced in winter, check beforehand."
+                "en": "Bus schedules are often reduced in winter, check beforehand.",
+                "fr": "Les horaires sont souvent réduits en hiver, vérifiez à l'avance."
               }
             },
             {
@@ -2469,7 +2719,8 @@
                 "de": "Genießen Sie die leere Küstenlinie vor der Rückfahrt.",
                 "hu": "Élvezze az üres partvonalat a visszaindulás előtt.",
                 "ro": "Bucurați-vă de linia de coastă goală înainte de întoarcere.",
-                "en": "Enjoy the empty coastline before the return journey."
+                "en": "Enjoy the empty coastline before the return journey.",
+                "fr": "Appréciez le littoral désert avant le voyage de retour."
               }
             },
             {
@@ -2478,7 +2729,8 @@
                 "de": "Abends sind die Busse ins Zentrum oft gut besetzt.",
                 "hu": "Este a központba tartó buszok gyakran jól telítettek.",
                 "ro": "Seara autobuzele spre centru sunt adesea destul de pline.",
-                "en": "In the evening, buses to the center are often well occupied."
+                "en": "In the evening, buses to the center are often well occupied.",
+                "fr": "Le soir, les bus vers le centre sont souvent bien fréquentés."
               }
             }
           ],
@@ -2510,6 +2762,13 @@
               "It's often significantly warmer in the buses than outside.",
               "Tickets can be purchased directly from the driver.",
               "Use day passes for maximum flexibility."
+            ],
+            "fr": [
+              "Les horaires d'hiver commencent généralement en septembre.",
+              "Faites attention au dernier trajet retour depuis Giens (souvent avant 19h).",
+              "Il fait souvent bien plus chaud dans les bus qu'à l'extérieur.",
+              "Les tickets peuvent être achetés directement auprès du conducteur.",
+              "Utilisez des pass journaliers pour un maximum de flexibilité."
             ]
           }
         }

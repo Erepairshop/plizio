@@ -36,7 +36,8 @@
             "de": "Bewundern Sie die Fachwerkhäuser aus dem 15. Jahrhundert.",
             "hu": "Csodálja meg a 15. századi fagerendás házakat a téren.",
             "ro": "Admirați casele cu bârne de lemn din secolul al XV-lea.",
-            "en": "Admire the 15th-century timber-framed houses around the square."
+            "en": "Admire the 15th-century timber-framed houses around the square.",
+            "fr": "Admirez les maisons à colombages du XVe siècle autour de la place."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bester Panoramablick auf die Stadt und die Loire.",
             "hu": "Innen nyílik a legszebb kilátás a városra és a folyóra.",
             "ro": "Cea mai bună vedere panoramică asupra orașului și Loarei.",
-            "en": "The best panoramic view of the city and the Loire river."
+            "en": "The best panoramic view of the city and the Loire river.",
+            "fr": "La meilleure vue panoramique sur la ville et la Loire."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Ideal, um die regionalen Weine kennenzulernen.",
             "hu": "Tökéletes hely a régió borainak megismeréséhez.",
             "ro": "Ideal pentru a descoperi vinurile regionale.",
-            "en": "Perfect place to learn about and taste regional wines."
+            "en": "Perfect place to learn about and taste regional wines.",
+            "fr": "Lieu idéal pour découvrir et déguster les vins régionaux."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Ein prächtiges Gebäude direkt am Flussufer.",
             "hu": "Lenyűgöző épület közvetlenül a folyóparton.",
             "ro": "O clădire magnifică situată chiar pe malul râului.",
-            "en": "A magnificent building located right on the river bank."
+            "en": "A magnificent building located right on the river bank.",
+            "fr": "Un bâtiment magnifique situé juste sur la rive du fleuve."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Besichtigen Sie die prächtigen Wandteppiche im Inneren.",
             "hu": "Nézze meg a templomban őrzött lenyűgöző falikárpitokat.",
             "ro": "Vizitați tapiseriile magnifice din interior.",
-            "en": "Check out the magnificent tapestries kept inside."
+            "en": "Check out the magnificent tapestries kept inside.",
+            "fr": "Découvrez les magnifiques tapisseries conservées à l'intérieur."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Perfekt für einen entspannten Nachmittagsspaziergang.",
             "hu": "Tökéletes egy pihentető délutáni sétához.",
             "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
-            "en": "Perfect for a relaxing afternoon stroll by the water."
+            "en": "Perfect for a relaxing afternoon stroll by the water.",
+            "fr": "Parfait pour une promenade relaxante au bord de l'eau l'après-midi."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Entdecken Sie Saumur zu Fuß, beginnend im historischen Zentrum mit seinen Fachwerkhäusern und dem belebten Place Saint-Pierre. Der Aufstieg zum Schloss wird mit einem atemberaubenden Blick über das Loire-Tal belohnt.\n\nMittags können Sie die lokale Gastronomie in den engen Gassen der Altstadt genießen, wo die berühmten Fouées serviert werden. Ein Besuch im Weinhaus führt Sie in die Welt der feinen Loire-Weine ein.\n\nAm Nachmittag erkunden Sie die religiöse Architektur der Stadt, insbesondere die älteste Kirche Saumurs mit ihren wertvollen Teppichen. Der Weg führt Sie stetig näher an das majestätische Flussufer.\n\nDen Tag lassen Sie entspannt an der Loire ausklingen. Beobachten Sie, wie sich das goldene Licht der Sonne auf den hellen Tuffsteinfassaden spiegelt, bevor Sie ein Glas Crémant de Loire genießen.",
         "hu": "Fedezze fel Saumurt gyalogosan, a történelmi központ fagerendás házaival és a nyüzsgő Szent Péter térrel. A várba vezető emelkedőt a Loire-völgyre nyíló lélegzetelállító kilátás teszi feledhetetlenné.\n\nDélben élvezze a helyi gasztronómiát az óváros szűk utcáiban, ahol a híres fouée lepényeket szolgálják fel. A borok háza bevezeti Önt a Loire menti nemes borok világába.\n\nDélután fedezze fel a város vallási építészetét, különösen Saumur legrégebbi templomát és annak értékes falikárpitjait. Az út fokozatosan a fenséges folyópart felé vezeti Önt.\n\nA napot pihentető sétával zárja a Loire partján. Figyelje meg, ahogy a nap aranyló fénye megcsillan a világos tufakő homlokzatokon, mielőtt elfogyasztana egy pohár helyi pezsgőt.",
         "ro": "Descoperiți Saumur la pas, începând din centrul istoric cu casele sale cu bârne de lemn și animata Piață Sfântul Petru. Urcarea la castel este răsplătită cu o priveliște uluitoare asupra văii Loarei.\n\nLa prânz, bucurați-vă de gastronomia locală pe străduțele înguste ale orașului vechi, unde se servesc faimoasele plăcinte fouées. O vizită la casa vinului vă va introduce în lumea vinurilor nobile de pe Loara.\n\nDupă-amiaza, explorați arhitectura religioasă a orașului, în special cea mai veche biserică din Saumur și tapiseriile sale valoroase. Drumul vă poartă treptat spre malul maiestuos al râului.\n\nÎncheiați ziua cu o plimbare relaxantă pe malul Loarei. Observați cum lumina aurie a soarelui se reflectă pe fațadele din tuf calcaros, înainte de a savura un pahar de spumant local.",
-        "en": "Discover Saumur on foot, starting in the historic center with its timber-framed houses and the bustling Place Saint-Pierre. The climb to the castle is rewarded with a breathtaking view over the Loire Valley.\n\nAt midday, enjoy local gastronomy in the narrow streets of the old town, where the famous fouées are served. A visit to the wine house introduces you to the world of noble Loire wines.\n\nIn the afternoon, explore the city's religious architecture, especially Saumur's oldest church and its valuable tapestries. The path leads you steadily towards the majestic riverbank.\n\nEnd the day with a relaxing stroll along the Loire. Watch the golden light of the sun reflect on the light tuffeau stone facades before enjoying a glass of local Crémant de Loire."
+        "en": "Discover Saumur on foot, starting in the historic center with its timber-framed houses and the bustling Place Saint-Pierre. The climb to the castle is rewarded with a breathtaking view over the Loire Valley.\n\nAt midday, enjoy local gastronomy in the narrow streets of the old town, where the famous fouées are served. A visit to the wine house introduces you to the world of noble Loire wines.\n\nIn the afternoon, explore the city's religious architecture, especially Saumur's oldest church and its valuable tapestries. The path leads you steadily towards the majestic riverbank.\n\nEnd the day with a relaxing stroll along the Loire. Watch the golden light of the sun reflect on the light tuffeau stone facades before enjoying a glass of local Crémant de Loire.",
+        "fr": "Découvrez Saumur à pied, en commençant par le centre historique avec ses maisons à colombages et la dynamique Place Saint-Pierre. La montée vers le château est récompensée par une vue imprenable sur la vallée de la Loire.\n\nÀ la mi-journée, profitez de la gastronomie locale dans les ruelles de la vieille ville, où sont servies les célèbres fouées. Une visite à la maison du vin vous initiera à l'univers des nobles vins de Loire.\n\nl'après-midi, explorez l'architecture religieuse de la ville, notamment la plus ancienne église de Saumur et ses précieuses tapisseries. Le chemin vous mène progressivement vers les majestueuses berges du fleuve.\n\nTerminez la journée par une promenade relaxante le long de la Loire. Regardez la lumière dorée du soleil se refléter sur les façades en pierre de tuffeau avant de savourer un verre de Crémant de Loire local."
       },
       "gastro_picks": {
         "de": [
@@ -216,6 +223,20 @@
           {
             "name": "Distillerie Combier",
             "tip": "Taste the famous Triple Sec liqueur."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Les Fouées",
+            "tip": "Goûtez ces petits pains cuits au feu de bois, semblables à des pitas et garnis."
+          },
+          {
+            "name": "Saumur-Champigny",
+            "tip": "Un excellent vin rouge local de la région."
+          },
+          {
+            "name": "Distillerie Combier",
+            "tip": "Dégustez la célèbre liqueur de Triple Sec."
           }
         ]
       },
@@ -287,6 +308,23 @@
             "tip": "Hidden paths along the tributary river.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardins du Château",
+            "tip": "Parc tranquille avec une vue magnifique.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Île d'Offard",
+            "tip": "Une île sur la Loire pour les amoureux de la nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Berges du Thouet",
+            "tip": "Sentiers cachés le long de la rivière affluente.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -329,6 +367,16 @@
             "name": "Maison du Vin",
             "tip": "Wide selection of local wines."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché de la Place Saint-Pierre",
+            "tip": "Marché local le samedi matin."
+          },
+          {
+            "name": "Maison du Vin",
+            "tip": "Large sélection de vins locaux."
+          }
         ]
       },
       "tips": {
@@ -355,6 +403,12 @@
           "The castle is on a hill; the climb is short but steep.",
           "The tourist office by the river offers good city maps.",
           "Consider booking a table for lunch in Rue Saint-Nicolas."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les rues pavées de la vieille ville.",
+          "Le château est sur une colline ; la montée est courte mais raide.",
+          "L'office de tourisme au bord du fleuve propose de bonnes cartes de la ville.",
+          "Pensez à réserver une table pour le déjeuner dans la rue Saint-Nicolas."
         ]
       },
       "variants": {
@@ -653,7 +707,8 @@
             "de": "Beginnen Sie Ihren Tag am Place Saint-Pierre und nutzen Sie die Kirche als Unterschlupf bei Regenschauern. Das prächtige Schloss bietet trockene Innenräume für den Vormittag. Mittags lockt die Maison des Vins mit gemütlichen Verkostungen. Den Nachmittag verbringen Sie in der geschützten Église Notre-Dame, bevor ein kurzer, erfrischender Spaziergang an der Loire den Tag abschließt.",
             "hu": "Kezdje a napot a Place Saint-Pierre-en, eső esetén keressen menedéket a templomban. A kastély falai között szárazon fedezheti fel a történelmet délelőtt. A déli borkóstoló a Maison des Vins-ben tökéletes program fedett helyen. Délután a Nantilly templom nyújt oltalmat, majd egy rövid, esernyős séta a Loire-parton zárja a napot, élvezve a folyó szürke fényeit.",
             "ro": "Începeți ziua în Place Saint-Pierre, folosind biserica drept adăpost împotriva ploii. Castelul oferă interioare uscate pentru explorarea de dimineață. La prânz, Maison des Vins este locul perfect pentru degustări la adăpost. După-amiaza vizitați biserica Nantilly, iar seara încheiați cu o plimbare scurtă cu umbrela pe malul Loarei, admirând reflexiile apei.",
-            "en": "Start at Place Saint-Pierre, using the church as a refuge from showers. The castle offers dry interiors for morning exploration. At noon, Maison des Vins provides a cozy indoor setting for wine tasting. Spend the afternoon in the sheltered Nantilly church, and end with a quick, umbrella-clad walk along the Loire to see the river's moody reflections."
+            "en": "Start at Place Saint-Pierre, using the church as a refuge from showers. The castle offers dry interiors for morning exploration. At noon, Maison des Vins provides a cozy indoor setting for wine tasting. Spend the afternoon in the sheltered Nantilly church, and end with a quick, umbrella-clad walk along the Loire to see the river's moody reflections.",
+            "fr": "Commencez à la Place Saint-Pierre, en utilisant l'église comme refuge contre les averses. Le château offre des intérieurs au sec pour une exploration matinale. À midi, la Maison des Vins offre un cadre intérieur chaleureux pour une dégustation. Passez l'après-midi dans l'église abritée de Nantilly, et terminez par une courte marche sous parapluie le long de la Loire pour voir les reflets changeants du fleuve."
           },
           "stops": [
             {
@@ -662,7 +717,8 @@
                 "de": "Nutzen Sie den Eingang der Kirche als Regenschutz.",
                 "hu": "Használja a templom bejáratát esővédőként.",
                 "ro": "Folosiți intrarea bisericii ca protecție împotriva ploii.",
-                "en": "Use the church entrance as a rain shelter."
+                "en": "Use the church entrance as a rain shelter.",
+                "fr": "Utilisez l'entrée de l'église comme abri contre la pluie."
               }
             },
             {
@@ -671,7 +727,8 @@
                 "de": "Ideal für regnerische Vormittage im Inneren.",
                 "hu": "Ideális esős délelőtti program a belső terekben.",
                 "ro": "Ideal pentru dimineți ploioase petrecute în interior.",
-                "en": "Ideal for rainy mornings spent indoors."
+                "en": "Ideal for rainy mornings spent indoors.",
+                "fr": "Idéal pour les matinées pluvieuses passées à l'intérieur."
               }
             },
             {
@@ -680,7 +737,8 @@
                 "de": "Ein warmer Ort für Weinproben im Trockenen.",
                 "hu": "Meleg hely a borkóstoláshoz, távol az esőtől.",
                 "ro": "Un loc călduros pentru degustări ferite de ploaie.",
-                "en": "A warm spot for wine tasting away from the rain."
+                "en": "A warm spot for wine tasting away from the rain.",
+                "fr": "Un endroit chaleureux pour déguster du vin à l'abri de la pluie."
               }
             },
             {
@@ -689,7 +747,8 @@
                 "de": "Bewundern Sie die Fassade unter einem Schirm.",
                 "hu": "Csodálja meg a homlokzatot az esernyő alól.",
                 "ro": "Admirați fațada de sub protecția umbrelei.",
-                "en": "Admire the facade from under your umbrella."
+                "en": "Admire the facade from under your umbrella.",
+                "fr": "Admirez la façade depuis l'abri de votre parapluie."
               }
             },
             {
@@ -698,7 +757,8 @@
                 "de": "Die Teppiche im Inneren sind bei Regen gut geschützt.",
                 "hu": "A benti falikárpitok biztonságban vannak az esőtől.",
                 "ro": "Tapițeriile din interior sunt bine protejate de ploaie.",
-                "en": "The tapestries inside are well-protected from the rain."
+                "en": "The tapestries inside are well-protected from the rain.",
+                "fr": "Les tapisseries à l'intérieur sont bien protégées de la pluie."
               }
             },
             {
@@ -707,7 +767,8 @@
                 "de": "Vorsicht vor Pfützen auf dem Uferweg.",
                 "hu": "Vigyázzon a tócsákra a parti sétányon.",
                 "ro": "Atenție la bălți pe drumul de pe mal.",
-                "en": "Watch out for puddles on the riverside path."
+                "en": "Watch out for puddles on the riverside path.",
+                "fr": "Attention aux flaques d'eau sur le sentier de la rive."
               }
             }
           ],
@@ -735,6 +796,12 @@
               "Maison des Vins is an excellent dry rest stop during the day.",
               "Churches provide free shelter during sudden downpours.",
               "A compact umbrella is mandatory in Saumur's variable weather."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables pour les rues pavées.",
+              "La Maison des Vins est une excellente étape au sec pendant la journée.",
+              "Les églises offrent un abri gratuit lors d'averses soudaines.",
+              "Un parapluie compact est indispensable vu la météo variable de Saumur."
             ]
           }
         },
@@ -743,7 +810,8 @@
             "de": "Erleben Sie die winterliche Ruhe am Place Saint-Pierre mit einem heißen Getränk. Das Schloss thront majestätisch über der Stadt, oft im Nebel. Mittags wärmt eine Weinprobe Körper und Geist. Der Nachmittag in der Église de Nantilly offenbart historische Schätze in kühler Stille. Beenden Sie die Tour an der Loire, bevor die frühe Dämmerung gegen 17 Uhr die Ufer in blaues Licht taucht.",
             "hu": "Tapasztalja meg a téli nyugalmat a Place Saint-Pierre-en egy forró itallal. A kastély méltóságteljesen magasodik a ködös város fölé. Délben egy borkóstoló melegíti fel a testet és lelket. A Nantilly templomban töltött délután hűvös csendben tárja fel a kincseket. Zárja a túrát a Loire-parton, mielőtt a korai, 17 óra körüli sötétedés kék fénybe vonja a partot.",
             "ro": "Experimentați liniștea iernii în Place Saint-Pierre cu o băutură caldă. Castelul domină maiestuos orașul, adesea învăluit în ceață. La prânz, o degustare de vinuri vă va încălzi. După-amiaza la Biserica Nantilly dezvăluie comori istorice în liniște răcoroasă. Încheiați turul pe malul Loarei, înainte ca amurgul timpuriu de la ora 17:00 să coloreze malul în albastru.",
-            "en": "Experience winter tranquility at Place Saint-Pierre with a hot drink. The castle towers majestically over the often misty city. At noon, a wine tasting warms both body and soul. The afternoon at Nantilly Church reveals historical treasures in cool silence. End the tour on the Loire banks before the early 5 PM sunset bathes the riverside in blue light."
+            "en": "Experience winter tranquility at Place Saint-Pierre with a hot drink. The castle towers majestically over the often misty city. At noon, a wine tasting warms both body and soul. The afternoon at Nantilly Church reveals historical treasures in cool silence. End the tour on the Loire banks before the early 5 PM sunset bathes the riverside in blue light.",
+            "fr": "Découvrez la tranquillité hivernale à la Place Saint-Pierre avec une boisson chaude. Les tours du château dominent majestueusement la ville souvent embrumée. À midi, une dégustation de vin réchauffe le corps et l'esprit. L'après-midi à l'église de Nantilly révèle des trésors historiques dans un silence frais. Terminez la visite sur les berges de la Loire avant que le coucher du soleil précoce vers 17h ne baigne les rives d'une lumière bleue."
           },
           "stops": [
             {
@@ -752,7 +820,8 @@
                 "de": "Ein heißer Kaffee in den Cafés wärmt den Start auf.",
                 "hu": "Egy forró kávé a kávézókban jól indítja a reggelt.",
                 "ro": "O cafea fierbinte în cafenele vă va încălzi startul.",
-                "en": "A hot coffee in the cafes will warm up your start."
+                "en": "A hot coffee in the cafes will warm up your start.",
+                "fr": "Un café chaud dans les établissements locaux réchauffera votre début de journée."
               }
             },
             {
@@ -761,7 +830,8 @@
                 "de": "Warme Kleidung für die zugigen Schlosshöfe nötig.",
                 "hu": "Meleg ruha kell a huzatos kastélyudvarokhoz.",
                 "ro": "Haine groase necesare pentru curțile castelului unde trage curentul.",
-                "en": "Warm clothing needed for the drafty castle courtyards."
+                "en": "Warm clothing needed for the drafty castle courtyards.",
+                "fr": "Vêtements chauds nécessaires pour les cours venteuses du château."
               }
             },
             {
@@ -770,7 +840,8 @@
                 "de": "Gemütlicher Innenraum für winterliche Verkostungen.",
                 "hu": "Hangulatos belső tér a téli kóstolókhoz.",
                 "ro": "Spațiu interior primitor pentru degustări de iarnă.",
-                "en": "Cozy indoor space for winter tastings."
+                "en": "Cozy indoor space for winter tastings.",
+                "fr": "Espace intérieur douillet pour les dégustations hivernales."
               }
             },
             {
@@ -779,7 +850,8 @@
                 "de": "Die Winterbeleuchtung der Fassade ist sehenswert.",
                 "hu": "A homlokzat téli kivilágítása látványos.",
                 "ro": "Iluminatul de iarnă al fațadei merită văzut.",
-                "en": "The winter lighting of the facade is worth seeing."
+                "en": "The winter lighting of the facade is worth seeing.",
+                "fr": "L'éclairage hivernal de la façade vaut le coup d'œil."
               }
             },
             {
@@ -788,7 +860,8 @@
                 "de": "In der Kirche kann es im Winter sehr kalt sein.",
                 "hu": "A templomban télen nagyon hideg lehet.",
                 "ro": "În biserică poate fi foarte frig iarna.",
-                "en": "It can be very cold inside the church in winter."
+                "en": "It can be very cold inside the church in winter.",
+                "fr": "Il peut faire très froid à l'intérieur de l'église en hiver."
               }
             },
             {
@@ -797,7 +870,8 @@
                 "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr.",
                 "hu": "Élvezze a naplementét 17:00 óra körül.",
                 "ro": "Bucurați-vă de apusul soarelui în jurul orei 17:00.",
-                "en": "Enjoy the sunset around 5:00 PM."
+                "en": "Enjoy the sunset around 5:00 PM.",
+                "fr": "Profitez du coucher du soleil vers 17h00."
               }
             }
           ],
@@ -825,6 +899,12 @@
               "Museums are heated and offer good break opportunities.",
               "Sunset is early (around 5 PM), plan the river walk accordingly.",
               "Many cafes offer special hot chocolate during winter."
+            ],
+            "fr": [
+              "Des vêtements superposés protègent contre le vent du fleuve.",
+              "Les musées sont chauffés et offrent de bonnes occasions de pause.",
+              "Le coucher du soleil est précoce (vers 17h), prévoyez la promenade en conséquence.",
+              "De nombreux cafés proposent des chocolats chauds spéciaux en hiver."
             ]
           }
         }
@@ -858,7 +938,8 @@
             "de": "Sicherer Fahrradabstellplatz am Eingang.",
             "hu": "Biztonságos kerékpártároló a bejáratnál.",
             "ro": "Parcare securizată pentru biciclete la intrare.",
-            "en": "Secure bike parking available at the entrance."
+            "en": "Secure bike parking available at the entrance.",
+            "fr": "Parking vélo sécurisé disponible à l'entrée."
           }
         },
         {
@@ -881,7 +962,8 @@
             "de": "Entdecken Sie die Höhlenwohnungen im Tuffstein.",
             "hu": "Fedezze fel a tufába vájt barlanglakásokat.",
             "ro": "Descoperiți locuințele rupestre săpate în tuf.",
-            "en": "Discover the troglodyte houses carved into the cliff."
+            "en": "Discover the troglodyte houses carved into the cliff.",
+            "fr": "Découvrez les maisons troglodytiques sculptées dans la falaise."
           }
         },
         {
@@ -904,7 +986,8 @@
             "de": "Nationale Reitschule Frankreichs.",
             "hu": "Franciaország nemzeti lovasiskolája.",
             "ro": "Școala națională de echitație a Franței.",
-            "en": "The prestigious National Riding School of France."
+            "en": "The prestigious National Riding School of France.",
+            "fr": "La prestigieuse École Nationale d'Équitation de France."
           }
         },
         {
@@ -927,7 +1010,8 @@
             "de": "Eine der größten Panzersammlungen weltweit.",
             "hu": "A világ egyik legnagyobb páncélosgyűjteménye.",
             "ro": "Una dintre cele mai mari colecții de tancuri din lume.",
-            "en": "One of the largest tank collections in the world."
+            "en": "One of the largest tank collections in the world.",
+            "fr": "L'une des plus grandes collections de chars au monde."
           }
         },
         {
@@ -950,7 +1034,8 @@
             "de": "Besuchen Sie die beeindruckenden unterirdischen Keller.",
             "hu": "Látogassa meg a lenyűgöző föld alatti pincéket.",
             "ro": "Vizitați cramele subterane impresionante.",
-            "en": "Visit the impressive underground wine cellars."
+            "en": "Visit the impressive underground wine cellars.",
+            "fr": "Visitez les impressionnantes caves à vin souterraines."
           }
         }
       ],
@@ -958,7 +1043,8 @@
         "de": "Diese Radtour führt Sie entlang der berühmten 'Loire à Vélo'-Strecke. Sie verbinden das Schloss Saumur mit den faszinierenden Troglodyten-Dörfern in der Umgebung.\n\nAm Vormittag radeln Sie am Flussufer entlang nach Dampierre, wo Sie in die Welt der Höhlenbewohner eintauchen können. Der Weg ist flach und bietet herrliche Ausblicke.\n\nDer Mittag steht im Zeichen der Eleganz im Cadre Noir, der Wiege der französischen Reitkunst. Danach führt die Route zum beeindruckenden Panzermuseum.\n\nZum Abschluss genießen Sie eine kühle Kellerführung bei einem der großen Sekthäuser in Saint-Hilaire-Saint-Florent, bevor Sie entspannt ins Zentrum zurückkehren.",
         "hu": "Ez a kerékpártúra a híres 'Loire à Vélo' útvonalon vezet. Összeköti Saumur várát a környék lenyűgöző barlanglakásos falvaival.\n\nDélelőtt a folyóparton tekerve érheti el Dampierre-t, ahol bepillantást nyerhet a tufába vájt lakóhelyek világába. Az út sík és végig gyönyörű panorámát kínál.\n\nA délután az elegancia jegyében telik a Cadre Noir lovasiskolában, a francia lovasművészet bölcsőjében. Ezt követi a monumentális Páncélos Múzeum meglátogatása.\n\nA nap végén élvezze a hűvös pincerendszereket az egyik nagy pezsgőháznál Saint-Hilaire-ben, majd tekerjen vissza kényelmesen a központba.",
         "ro": "Acest tur cu bicicleta vă poartă pe faimosul traseu 'Loire à Vélo'. Conectați castelul Saumur cu satele rupestre fascinante din împrejurimi.\n\nÎn cursul dimineții, pedalați pe malul râului până la Dampierre, unde puteți pătrunde în lumea locuințelor săpate în stâncă. Drumul este plat și oferă vederi superbe.\n\nPrânzul este dedicat eleganței la Cadre Noir, leagănul artei ecvestre franceze. Apoi, traseul vă duce la impresionantul Muzeu al Blindatelor.\n\nLa final, bucurați-vă de răcoarea cramelor subterane la una dintre marile case de spumante din Saint-Hilaire, înainte de a reveni relaxat în centru.",
-        "en": "This bike tour takes you along the famous 'Loire à Vélo' route. It connects Saumur Castle with the fascinating troglodyte villages nearby.\n\nIn the morning, cycle along the riverbank to Dampierre, where you can peek into the world of cave dwellings. The path is flat and offers constant beautiful views.\n\nMidday is dedicated to elegance at the Cadre Noir, the cradle of French equestrian art. This is followed by a visit to the monumental Tank Museum.\n\nAt the end of the day, enjoy the cool underground cellars at one of the major sparkling wine houses in Saint-Hilaire before cycling back to the center."
+        "en": "This bike tour takes you along the famous 'Loire à Vélo' route. It connects Saumur Castle with the fascinating troglodyte villages nearby.\n\nIn the morning, cycle along the riverbank to Dampierre, where you can peek into the world of cave dwellings. The path is flat and offers constant beautiful views.\n\nMidday is dedicated to elegance at the Cadre Noir, the cradle of French equestrian art. This is followed by a visit to the monumental Tank Museum.\n\nAt the end of the day, enjoy the cool underground cellars at one of the major sparkling wine houses in Saint-Hilaire before cycling back to the center.",
+        "fr": "Ce circuit à vélo vous emmène le long de la célèbre route de 'La Loire à Vélo'. Il relie le château de Saumur aux fascinants villages troglodytiques des environs.\n\nLe matin, pédalez le long du fleuve jusqu'à Dampierre, où vous pourrez découvrir l'univers des habitations creusées dans la roche. Le chemin est plat et offre constamment de belles vues.\n\nLa mi-journée est dédiée à l'élégance du Cadre Noir, berceau de l'art équestre français. S'ensuit une visite au monumental Musée des Blindés.\n\nEn fin de journée, profitez de la fraîcheur des caves souterraines de l'une des grandes maisons de vins effervescents à Saint-Hilaire avant de retourner au centre à vélo."
       },
       "gastro_picks": {
         "de": [
@@ -983,6 +1069,12 @@
           {
             "name": "Crémant de Loire",
             "tip": "Excellent local sparkling wine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Crémant de Loire",
+            "tip": "Excellent vin effervescent local."
           }
         ]
       },
@@ -1014,6 +1106,13 @@
             "tip": "Quiet spots for a picnic.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Îles de la Loire",
+            "tip": "Coins tranquilles pour un pique-nique.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1039,6 +1138,12 @@
           {
             "name": "Veuve Amiot Shop",
             "tip": "Direct sale of sparkling wine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutique Veuve Amiot",
+            "tip": "Vente directe de vins effervescents."
           }
         ]
       },
@@ -1066,6 +1171,12 @@
           "Follow the green 'Loire à Vélo' signs.",
           "A bike lock is essential for when you stop to visit sites.",
           "The paths are mostly flat, but be prepared for river winds."
+        ],
+        "fr": [
+          "Louez un vélo près de la gare ou du port.",
+          "Suivez les panneaux verts 'La Loire à Vélo'.",
+          "Un antivol est essentiel lorsque vous vous arrêtez pour visiter des sites.",
+          "Les sentiers sont pour la plupart plats, mais préparez-vous au vent du fleuve."
         ]
       },
       "variants": {
@@ -1262,7 +1373,8 @@
             "de": "Starten Sie vorsichtig am Schloss, die Wege können rutschig sein. Die Fahrt nach Dampierre führt durch feuchte Weinberge. Mittags bietet der Cadre Noir eine beeindruckende Show im Trockenen. Nachmittags erkunden Sie die riesigen Hallen des Panzermuseums, ein perfekter Schutz vor Regen. Den Abschluss bilden die unterirdischen Keller von Ackerman, wo das Wetter keine Rolle spielt.",
             "hu": "Induljon óvatosan a kastélynál, az utak csúszósak lehetnek. A Dampierre felé vezető út nedves szőlőültetvényeken visz át. Délben a Cadre Noir lenyűgöző bemutatót tart fedett helyen. Délután fedezze fel a Panzermúzeum óriási csarnokait, ami tökéletes óvóhely. A napot az Ackerman földalatti pincéi zárják, ahol az időjárás nem számít.",
             "ro": "Porniți cu atenție de la castel, drumurile pot fi alunecoase. Drumul spre Dampierre trece prin podgorii umede. La prânz, Cadre Noir oferă un spectacol impresionant la adăpost. După-amiaza explorați halele uriașe ale Muzeului Blindatelor, un refugiu perfect. Încheiați la cramele subterane Ackerman, unde vremea nu contează.",
-            "en": "Start carefully at the castle, paths may be slippery. The ride to Dampierre leads through damp vineyards. At noon, Cadre Noir offers an impressive show indoors. In the afternoon, explore the massive halls of the Tank Museum, a perfect rain shelter. Finish in the underground Ackerman cellars, where the weather doesn't matter."
+            "en": "Start carefully at the castle, paths may be slippery. The ride to Dampierre leads through damp vineyards. At noon, Cadre Noir offers an impressive show indoors. In the afternoon, explore the massive halls of the Tank Museum, a perfect rain shelter. Finish in the underground Ackerman cellars, where the weather doesn't matter.",
+            "fr": "Commencez prudemment au château, les chemins peuvent être glissants. La balade vers Dampierre traverse des vignobles humides. À midi, le Cadre Noir propose un spectacle impressionnant en intérieur. L'après-midi, explorez les immenses halls du Musée des Blindés, un abri parfait contre la pluie. Terminez dans les caves souterraines Ackerman, où la météo n'a plus d'importance."
           },
           "stops": [
             {
@@ -1271,7 +1383,8 @@
                 "de": "Achtung, das Kopfsteinpflaster ist bei Nässe rutschig.",
                 "hu": "Vigyázat, a macskakő vizesen csúszik.",
                 "ro": "Atenție, pietrele de pavaj sunt alunecoase când sunt ude.",
-                "en": "Caution, the cobblestones are slippery when wet."
+                "en": "Caution, the cobblestones are slippery when wet.",
+                "fr": "Attention, les pavés sont glissants lorsqu'ils sont mouillés."
               }
             },
             {
@@ -1280,7 +1393,8 @@
                 "de": "Fahren Sie langsam auf den Feldwegen.",
                 "hu": "Hajtson lassan a mezei utakon.",
                 "ro": "Mergeți încet pe drumurile de câmp.",
-                "en": "Ride slowly on the field paths."
+                "en": "Ride slowly on the field paths.",
+                "fr": "Roulez lentement sur les chemins de terre."
               }
             },
             {
@@ -1289,7 +1403,8 @@
                 "de": "Die Vorführungen finden in der Reithalle statt.",
                 "hu": "A bemutatók a fedett lovardában vannak.",
                 "ro": "Spectacolele au loc în manejul acoperit.",
-                "en": "The performances take place in the indoor arena."
+                "en": "The performances take place in the indoor arena.",
+                "fr": "Les représentations ont lieu dans le manège couvert."
               }
             },
             {
@@ -1298,7 +1413,8 @@
                 "de": "Riesiges Museum, ideal um trocken zu bleiben.",
                 "hu": "Hatalmas múzeum, ideális a szárazon maradáshoz.",
                 "ro": "Muzeu imens, ideal pentru a rămâne uscat.",
-                "en": "Huge museum, ideal for staying dry."
+                "en": "Huge museum, ideal for staying dry.",
+                "fr": "Immense musée, idéal pour rester au sec."
               }
             },
             {
@@ -1307,7 +1423,8 @@
                 "de": "Unterirdische Höhlen sind komplett regensicher.",
                 "hu": "A földalatti barlangok teljesen esőbiztosak.",
                 "ro": "Peșterile subterane sunt complet ferite de ploaie.",
-                "en": "Underground caves are completely rain-proof."
+                "en": "Underground caves are completely rain-proof.",
+                "fr": "Les caves souterraines sont totalement à l'épreuve de la pluie."
               }
             }
           ],
@@ -1335,6 +1452,12 @@
               "Avoid sudden braking on wet surfaces.",
               "Use large museums for longer rain breaks.",
               "Wine cellars offer safe, dry bike parking."
+            ],
+            "fr": [
+              "Un équipement de pluie complet incluant des sur-chaussures est recommandé.",
+              "Évitez les freinages brusques sur les surfaces mouillées.",
+              "Profitez des grands musées pour de longues pauses à l'abri.",
+              "Les caves à vin offrent un parking vélo sûr et sec."
             ]
           }
         },
@@ -1343,7 +1466,8 @@
             "de": "Ein frostiger Start am Schloss bietet klare Weitsichten. Die Radtour entlang der Loire nach Dampierre ist erfrischend, aber windig. Der Besuch beim Cadre Noir bietet Schutz vor der Kälte. Nachmittags wärmt das Panzermuseum mit seinen beeindruckenden Exponaten. Der Tag endet perfekt in den konstanten 12 Grad der Ackerman-Keller, die sich im Winter fast warm anfühlen.",
             "hu": "Fagyos kezdés a kastélynál tiszta kilátást ígér. A kerékpártúra a Loire mentén Dampierre-be frissítő, de szeles. A Cadre Noir látogatása védelmet nyújt a hideg ellen. Délután a Panzermúzeum melegít fel látványos tárlataival. A nap tökéletesen zárul az Ackerman pincék állandó 12 fokában, ami télen szinte melegnek hat.",
             "ro": "Un start geros la castel oferă vederi clare. Turul cu bicicleta pe lângă Loara spre Dampierre este revigorant, dar vântos. Vizita la Cadre Noir oferă protecție împotriva frigului. După-amiaza, Muzeul Blindatelor vă încălzește cu exponatele sale. Ziua se încheie perfect în cele 12 grade constante ale cramelor Ackerman, care par calde iarna.",
-            "en": "A frosty start at the castle offers clear distant views. The bike tour along the Loire to Dampierre is refreshing but windy. Visiting Cadre Noir provides protection from the cold. In the afternoon, the Tank Museum warms you up with its impressive exhibits. The day ends perfectly in the constant 12°C of the Ackerman cellars, which feel almost warm in winter."
+            "en": "A frosty start at the castle offers clear distant views. The bike tour along the Loire to Dampierre is refreshing but windy. Visiting Cadre Noir provides protection from the cold. In the afternoon, the Tank Museum warms you up with its impressive exhibits. The day ends perfectly in the constant 12°C of the Ackerman cellars, which feel almost warm in winter.",
+            "fr": "Un départ givré au château offre des vues dégagées au loin. La balade à vélo le long de la Loire jusqu'à Dampierre est rafraîchissante mais venteuse. La visite du Cadre Noir permet de s'abriter du froid. L'après-midi, le Musée des Blindés vous réchauffe avec ses expositions impressionnantes. La journée se termine parfaitement dans les 12°C constants des caves Ackerman, qui semblent presque chaudes en hiver."
           },
           "stops": [
             {
@@ -1352,7 +1476,8 @@
                 "de": "Klare Winterluft sorgt für tolle Fotos vom Turm.",
                 "hu": "A tiszta téli levegő remek fotókat ígér a toronyból.",
                 "ro": "Aerul curat de iarnă asigură fotografii grozave din turn.",
-                "en": "Clear winter air ensures great photos from the tower."
+                "en": "Clear winter air ensures great photos from the tower.",
+                "fr": "L'air pur de l'hiver garantit de superbes photos depuis la tour."
               }
             },
             {
@@ -1361,7 +1486,8 @@
                 "de": "Warme Handschuhe sind für den Loire-Wind nötig.",
                 "hu": "Meleg kesztyű kell a Loire menti szél miatt.",
                 "ro": "Mănuși groase necesare pentru vântul de pe Loara.",
-                "en": "Warm gloves needed for the Loire wind."
+                "en": "Warm gloves needed for the Loire wind.",
+                "fr": "Gants chauds nécessaires contre le vent de la Loire."
               }
             },
             {
@@ -1370,7 +1496,8 @@
                 "de": "Genießen Sie die Wärme der Stallungen und Hallen.",
                 "hu": "Élvezze az istállók és csarnokok melegét.",
                 "ro": "Bucurați-vă de căldura grajdurilor și a halei.",
-                "en": "Enjoy the warmth of the stables and arenas."
+                "en": "Enjoy the warmth of the stables and arenas.",
+                "fr": "Profitez de la chaleur des écuries et des manèges."
               }
             },
             {
@@ -1379,7 +1506,8 @@
                 "de": "Gute Gelegenheit zum Aufwärmen zwischen den Panzern.",
                 "hu": "Jó alkalom a bemelegedésre a tankok között.",
                 "ro": "Oportunitate bună de încălzire printre tancuri.",
-                "en": "Good opportunity to warm up among the tanks."
+                "en": "Good opportunity to warm up among the tanks.",
+                "fr": "Bonne occasion de se réchauffer parmi les chars."
               }
             },
             {
@@ -1388,7 +1516,8 @@
                 "de": "Die Keller wirken bei Frost wie eine Heizung.",
                 "hu": "A pincék fagyban szinte fűtésnek tűnnek.",
                 "ro": "Cramele par o sursă de căldură pe timp de îngheț.",
-                "en": "The cellars feel like a heater during frost."
+                "en": "The cellars feel like a heater during frost.",
+                "fr": "Les caves ressemblent à un radiateur pendant le gel."
               }
             }
           ],
@@ -1416,6 +1545,12 @@
               "E-bike batteries drain faster in the cold.",
               "Wine cellars have a constant temperature of 12°C.",
               "Plan your return before dark (around 5 PM)."
+            ],
+            "fr": [
+              "Le guidon peut devenir très froid, utilisez des gants épais.",
+              "Les batteries de vélos électriques se vident plus vite par grand froid.",
+              "Les caves à vin ont une température constante de 12°C.",
+              "Prévoyez votre retour avant la tombée de la nuit (vers 17h)."
             ]
           }
         }
@@ -1449,7 +1584,8 @@
             "de": "Parken Sie auf dem Place de la République.",
             "hu": "Parkoljon a Place de la République téren.",
             "ro": "Parcați în Place de la République.",
-            "en": "Park your car at Place de la République."
+            "en": "Park your car at Place de la République.",
+            "fr": "Garez votre voiture à la Place de la République."
           }
         },
         {
@@ -1472,7 +1608,8 @@
             "de": "Grabstätte von Richard Löwenherz.",
             "hu": "Oroszlánszívű Richárd sírhelye.",
             "ro": "Locul de înmormântare al lui Richard Inimă de Leu.",
-            "en": "The burial place of Richard the Lionheart."
+            "en": "The burial place of Richard the Lionheart.",
+            "fr": "Le lieu de sépulture de Richard Cœur de Lion."
           }
         },
         {
@@ -1495,7 +1632,8 @@
             "de": "Eines der schönsten Dörfer Frankreichs.",
             "hu": "Franciaország egyik legszebb faluja.",
             "ro": "Unul dintre cele mai frumoase sate din Franța.",
-            "en": "One of the most beautiful villages in France."
+            "en": "One of the most beautiful villages in France.",
+            "fr": "L'un des plus beaux villages de France."
           }
         },
         {
@@ -1518,7 +1656,8 @@
             "de": "Besuchen Sie das Schloss direkt an der Loire.",
             "hu": "Látogassa meg a közvetlenül a Loire partján álló várat.",
             "ro": "Vizitați castelul situat chiar pe malul Loarei.",
-            "en": "Visit the castle located directly on the Loire banks."
+            "en": "Visit the castle located directly on the Loire banks.",
+            "fr": "Visitez le château situé directement sur les berges de la Loire."
           }
         },
         {
@@ -1541,7 +1680,8 @@
             "de": "Besichtigung der Keller mit dem Fahrrad unter Tage.",
             "hu": "Pincelátogatás kerékpárral a föld alatt.",
             "ro": "Turul cramelor cu bicicleta în subteran.",
-            "en": "Cellar tour by vintage bicycle underground."
+            "en": "Cellar tour by vintage bicycle underground.",
+            "fr": "Visite de cave en vélo vintage dans les galeries souterraines."
           }
         }
       ],
@@ -1549,7 +1689,8 @@
         "de": "Mit dem Auto entdecken Sie nicht nur Saumur, sondern auch die Schätze der unmittelbaren Umgebung. Die Fahrt führt Sie zur monumentalen Abtei Fontevraud, einer der größten Klosteranlagen Europas.\n\nDer Mittag führt Sie in das malerische Dorf Candes-Saint-Martin, wo die Vienne in die Loire mündet. Der Blick vom Panorama-Punkt über dem Dorf ist unvergleichlich.\n\nAnschließend besuchen Sie das Schloss Montsoreau, das einzige Loire-Schloss, das direkt im Flussbett erbaut wurde. Die Fahrt entlang des Flusses bietet stets neue Perspektiven.\n\nDen Abschluss bildet eine exklusive Kellerführung zurück in Saumur, bevor Sie den Tag in einem der Restaurants am Flussufer ausklingen lassen.",
         "hu": "Autóval nemcsak Saumurt, hanem a közvetlen környék kincseit is felfedezheti. Az út a monumentális Fontevraud-i apátsághoz vezet, amely Európa egyik legnagyobb kolostoregyüttese.\n\nDélben látogasson el a festői Candes-Saint-Martin faluba, ahol a Vienne folyó a Loire-ba ömlik. A falu feletti kilátópontról nyíló panoráma páratlan.\n\nEzt követően látogassa meg Montsoreau várát, az egyetlen Loire-menti kastélyt, amely közvetlenül a folyómederre épült. A folyó menti autózás folyamatosan új látnivalókat kínál.\n\nA napot egy exkluzív pincelátogatással zárja Saumurban, majd vacsorázzon meg a folyóparti éttermek egyikében.",
         "ro": "Cu mașina, veți descoperi nu doar Saumur, ci și comorile din împrejurimile imediate. Drumul vă duce la monumentala Abație Fontevraud, unul dintre cele mai mari complexe monahale din Europa.\n\nLa prânz, vizitați satul pitoresc Candes-Saint-Martin, unde râul Vienne se varsă în Loara. Vederea de la punctul panoramic de deasupra satului este de neegalat.\n\nUlterior, vizitați Castelul Montsoreau, singurul castel de pe Loara construit direct pe malul râului. Drumul de-a lungul apei oferă mereu perspective noi.\n\nÎncheiați cu un tur exclusivist al cramelor înapoi în Saumur, înainte de a finaliza ziua la unul dintre restaurantele de pe malul râului.",
-        "en": "By car, you will discover not only Saumur but also the treasures of the immediate surroundings. The drive leads to the monumental Fontevraud Abbey, one of the largest monastic complexes in Europe.\n\nAt midday, visit the picturesque village of Candes-Saint-Martin, where the Vienne river flows into the Loire. The view from the panoramic point above the village is unparalleled.\n\nNext, visit the Castle of Montsoreau, the only Loire chateau built directly on the riverbed. Driving along the river constantly offers new perspectives.\n\nEnd your trip with an exclusive cellar tour back in Saumur before finishing the day at one of the riverside restaurants."
+        "en": "By car, you will discover not only Saumur but also the treasures of the immediate surroundings. The drive leads to the monumental Fontevraud Abbey, one of the largest monastic complexes in Europe.\n\nAt midday, visit the picturesque village of Candes-Saint-Martin, where the Vienne river flows into the Loire. The view from the panoramic point above the village is unparalleled.\n\nNext, visit the Castle of Montsoreau, the only Loire chateau built directly on the riverbed. Driving along the river constantly offers new perspectives.\n\nEnd your trip with an exclusive cellar tour back in Saumur before finishing the day at one of the riverside restaurants.",
+        "fr": "En voiture, vous découvrirez non seulement Saumur mais aussi les trésors des environs immédiats. La route mène à la monumentale Abbaye de Fontevraud, l'un des plus grands complexes monastiques d'Europe.\n\nÀ la mi-journée, visitez le village pittoresque de Candes-Saint-Martin, là où la Vienne se jette dans la Loire. La vue depuis le point panoramique au-dessus du village est inégalée.\n\nEnsuite, visitez le château de Montsoreau, le seul château de la Loire construit directement dans le lit du fleuve. Conduire le long de l'eau offre constamment de nouvelles perspectives.\n\nTerminez votre voyage par une visite de cave exclusive à Saumur avant de finir la journée dans l'un des restaurants au bord de l'eau."
       },
       "gastro_picks": {
         "de": [
@@ -1574,6 +1715,12 @@
           {
             "name": "Local Mushrooms",
             "tip": "Visit a mushroom farm inside the caves."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Champignons locaux",
+            "tip": "Visitez une champignonnière installée dans les caves."
           }
         ]
       },
@@ -1605,6 +1752,13 @@
             "tip": "View of the confluence of the rivers.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Panorama de Candes-Saint-Martin",
+            "tip": "Vue sur la confluence des rivières.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1630,6 +1784,12 @@
           {
             "name": "Fontevraud Shop",
             "tip": "Crafts and local products."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutique de Fontevraud",
+            "tip": "Artisanat et produits locaux."
           }
         ]
       },
@@ -1657,6 +1817,12 @@
           "The roads along the Loire are very scenic.",
           "Watch out for speed limits in the small villages.",
           "It is best to book cellar tours in advance."
+        ],
+        "fr": [
+          "Utilisez les parkings situés à la périphérie de la vieille ville.",
+          "Les routes le long de la Loire sont très pittoresques.",
+          "Attention aux limitations de vitesse dans les petits villages.",
+          "Il est préférable de réserver les visites de caves à l'avance."
         ]
       },
       "variants": {
@@ -1853,7 +2019,8 @@
             "de": "Mit dem Auto erkunden Sie Saumur und Umgebung bequem im Trockenen. Vormittags besuchen Sie die Abtei Fontevraud, deren riesige Anlage viel überdachten Raum bietet. Die malerischen Dörfer Candes-Saint-Martin und Montsoreau zeigen sich im Regen von ihrer mystischen Seite. Den Nachmittag verbringen Sie bei Bouvet Ladubay in den weitläufigen, wetterfesten Weinkellern.",
             "hu": "Autóval kényelmesen, szárazon fedezheti fel Saumurt és környékét. Délelőtt a Fontevraud apátságot látogassa meg, ahol sok a fedett rész. Candes-Saint-Martin és Montsoreau falvai misztikus arcukat mutatják az esőben. A délutánt töltse a Bouvet Ladubay kiterjedt, időjárásálló borospincéiben.",
             "ro": "Cu mașina explorați Saumur și împrejurimile confortabil și la uscat. Dimineața vizitați Abația Fontevraud, al cărei complex oferă multe spații acoperite. Satele pitorești Candes-Saint-Martin și Montsoreau își arată latura mistică în ploaie. După-amiaza o veți petrece la Bouvet Ladubay, în cramele vaste și protejate de vreme.",
-            "en": "Explore Saumur and its surroundings comfortably by car. In the morning, visit Fontevraud Abbey, whose vast complex offers plenty of covered space. The picturesque villages of Candes-Saint-Martin and Montsoreau show their mystical side in the rain. Spend the afternoon at Bouvet Ladubay in their extensive, weather-proof wine cellars."
+            "en": "Explore Saumur and its surroundings comfortably by car. In the morning, visit Fontevraud Abbey, whose vast complex offers plenty of covered space. The picturesque villages of Candes-Saint-Martin and Montsoreau show their mystical side in the rain. Spend the afternoon at Bouvet Ladubay in their extensive, weather-proof wine cellars.",
+            "fr": "Explorez Saumur et ses environs confortablement en voiture. Le matin, visitez l'Abbaye de Fontevraud, dont le vaste complexe offre de nombreux espaces couverts. Les villages pittoresques de Candes-Saint-Martin et Montsoreau montrent leur côté mystique sous la pluie. Passez l'après-midi chez Bouvet Ladubay dans leurs vastes caves à l'abri des intempéries."
           },
           "stops": [
             {
@@ -1862,7 +2029,8 @@
                 "de": "Parken Sie nah am Zentrum, um Wege kurz zu halten.",
                 "hu": "Parkoljon közel a központhoz a rövid sétákért.",
                 "ro": "Parcați aproape de centru pentru a scurta mersul pe jos.",
-                "en": "Park close to the center to keep walks short."
+                "en": "Park close to the center to keep walks short.",
+                "fr": "Garez-vous près du centre pour limiter les marches à pied."
               }
             },
             {
@@ -1871,7 +2039,8 @@
                 "de": "Große Teile der Abtei sind überdacht und trocken.",
                 "hu": "Az apátság nagy része fedett és száraz.",
                 "ro": "Mari părți ale abației sunt acoperite și uscate.",
-                "en": "Large parts of the abbey are covered and dry."
+                "en": "Large parts of the abbey are covered and dry.",
+                "fr": "De grandes parties de l'abbaye sont couvertes et sèches."
               }
             },
             {
@@ -1880,7 +2049,8 @@
                 "de": "Kurzer Stopp für Fotos direkt aus dem Auto möglich.",
                 "hu": "Rövid fotómegálló közvetlenül az autóból lehetséges.",
                 "ro": "Oprire scurtă pentru poze direct din mașină.",
-                "en": "Short photo stop possible directly from the car."
+                "en": "Short photo stop possible directly from the car.",
+                "fr": "Courte pause photo possible directement depuis la voiture."
               }
             },
             {
@@ -1889,7 +2059,8 @@
                 "de": "Das Schloss Montsoreau bietet Schutz vor Regen.",
                 "hu": "A Montsoreau kastély védelmet nyújt az eső ellen.",
                 "ro": "Castelul Montsoreau oferă protecție împotriva ploii.",
-                "en": "Montsoreau Castle offers protection from the rain."
+                "en": "Montsoreau Castle offers protection from the rain.",
+                "fr": "Le château de Montsoreau offre une protection contre la pluie."
               }
             },
             {
@@ -1898,7 +2069,8 @@
                 "de": "Perfekter Abschluss in den trockenen Galerien.",
                 "hu": "Tökéletes zárás a száraz galériákban.",
                 "ro": "Final perfect în galeriile uscate.",
-                "en": "Perfect finish in the dry galleries."
+                "en": "Perfect finish in the dry galleries.",
+                "fr": "Fin de journée parfaite dans les galeries au sec."
               }
             }
           ],
@@ -1926,6 +2098,12 @@
               "The drive along the Loire is very atmospheric even in the rain.",
               "Fontevraud Abbey offers excellent dining in a dry setting.",
               "Watch out for aquaplaning on the country roads."
+            ],
+            "fr": [
+              "Utilisez les parkings situés directement aux points d'intérêt.",
+              "La route le long de la Loire est très atmosphérique, même sous la pluie.",
+              "L'Abbaye de Fontevraud propose d'excellentes options de restauration au sec.",
+              "Attention à l'aquaplaning sur les routes de campagne."
             ]
           }
         },
@@ -1934,7 +2112,8 @@
             "de": "Genießen Sie die winterliche Loire-Landschaft durch das Autofenster. Die Abtei Fontevraud wirkt im Winterlicht besonders andächtig. Nach dem Besuch der malerischen Dörfer Candes-Saint-Martin und Montsoreau, die nun fast menschenleer sind, wärmen Sie sich in den Kellern von Bouvet Ladubay auf. Die frostige Fahrt endet mit dem Blick auf das beleuchtete Saumur bei Einbruch der Dunkelheit.",
             "hu": "Élvezze a téli Loire-tájat az autó ablakából. A Fontevraud apátság a téli fényekben különösen áhítatos. Candes-Saint-Martin és Montsoreau falvai ilyenkor szinte néptelenek és varázslatosak. Melegedjen fel a Bouvet Ladubay pincéiben. A fagyos út a kivilágított Saumur látványával zárul sötétedéskor.",
             "ro": "Bucurați-vă de peisajul de iarnă al Loarei prin fereastra mașinii. Abația Fontevraud pare deosebit de solemnă în lumina iernii. După vizitarea satelor pitorești Candes-Saint-Martin și Montsoreau, care sunt aproape pustii, încălziți-vă în cramele Bouvet Ladubay. Drumul geros se încheie cu vederea spre Saumur iluminat la lăsarea serii.",
-            "en": "Enjoy the winter Loire landscape through your car window. Fontevraud Abbey feels particularly solemn in the winter light. After visiting the picturesque villages of Candes-Saint-Martin and Montsoreau, which are now almost deserted, warm up in the Bouvet Ladubay cellars. The frosty drive ends with a view of illuminated Saumur at nightfall."
+            "en": "Enjoy the winter Loire landscape through your car window. Fontevraud Abbey feels particularly solemn in the winter light. After visiting the picturesque villages of Candes-Saint-Martin and Montsoreau, which are now almost deserted, warm up in the Bouvet Ladubay cellars. The frosty drive ends with a view of illuminated Saumur at nightfall.",
+            "fr": "Profitez des paysages hivernaux de la Loire à travers la vitre de votre voiture. L'Abbaye de Fontevraud semble particulièrement solennelle sous la lumière d'hiver. Après avoir visité les villages pittoresques de Candes-Saint-Martin et Montsoreau, aujourd'hui presque déserts, réchauffez-vous dans les caves de Bouvet Ladubay. La balade givrée se termine par une vue sur Saumur illuminée à la tombée de la nuit."
           },
           "stops": [
             {
@@ -1943,7 +2122,8 @@
                 "de": "Die Weihnachtsbeleuchtung im Zentrum ist bezaubernd.",
                 "hu": "A karácsonyi kivilágítás a központban varázslatos.",
                 "ro": "Iluminatul de Crăciun din centru este fermecător.",
-                "en": "The Christmas lighting in the center is enchanting."
+                "en": "The Christmas lighting in the center is enchanting.",
+                "fr": "Les illuminations de Noël dans le centre sont enchanteresses."
               }
             },
             {
@@ -1952,7 +2132,8 @@
                 "de": "Besuchen Sie die Gräber der Plantagenets in der Kühle.",
                 "hu": "Látogassa meg a Plantagenet-sírokat a hűvösben.",
                 "ro": "Vizitați mormintele Plantageneților în răcoarea abației.",
-                "en": "Visit the Plantagenet tombs in the cool interior."
+                "en": "Visit the Plantagenet tombs in the cool interior.",
+                "fr": "Visitez les gisants des Plantagenêts dans l'intérieur frais."
               }
             },
             {
@@ -1961,7 +2142,8 @@
                 "de": "Genießen Sie die Ruhe des fast leeren Dorfes.",
                 "hu": "Élvezze a szinte üres falu nyugalmát.",
                 "ro": "Bucurați-vă de liniștea satului aproape gol.",
-                "en": "Enjoy the tranquility of the nearly empty village."
+                "en": "Enjoy the tranquility of the nearly empty village.",
+                "fr": "Profitez de la tranquillité du village presque vide."
               }
             },
             {
@@ -1970,7 +2152,8 @@
                 "de": "Der Blick auf die gefrorene Loire ist einzigartig.",
                 "hu": "A kilátás a jeges folyóra egyedülálló.",
                 "ro": "Vederea spre Loara înghețată este unică.",
-                "en": "The view of the frozen Loire is unique."
+                "en": "The view of the frozen Loire is unique.",
+                "fr": "La vue sur la Loire gelée est unique."
               }
             },
             {
@@ -1979,7 +2162,8 @@
                 "de": "Die Weinkeller sind im Winter angenehm temperiert.",
                 "hu": "A borospincék télen kellemes hőmérsékletűek.",
                 "ro": "Cramele au o temperatură plăcută iarna.",
-                "en": "The wine cellars have a pleasant temperature in winter."
+                "en": "The wine cellars have a pleasant temperature in winter.",
+                "fr": "Les caves à vin ont une température agréable en hiver."
               }
             }
           ],
@@ -2007,6 +2191,12 @@
               "The car's heater provides pleasant breaks.",
               "Opening hours at Fontevraud are often shorter in winter.",
               "Light for photos is best in the early afternoon."
+            ],
+            "fr": [
+              "Les pneus hiver sont conseillés pour les chemins ruraux.",
+              "Le chauffage de la voiture permet des pauses agréables.",
+              "Les horaires d'ouverture à Fontevraud sont souvent plus courts en hiver.",
+              "La lumière pour les photos est optimale en début d'après-midi."
             ]
           }
         }
@@ -2040,7 +2230,8 @@
             "de": "Startpunkt für Stadtbusse (Oisans).",
             "hu": "A városi buszok (Oisans) indulási pontja.",
             "ro": "Punct de plecare pentru autobuzele urbane.",
-            "en": "Starting point for city buses (Oisans)."
+            "en": "Starting point for city buses (Oisans).",
+            "fr": "Point de départ des bus de ville (Oisans)."
           }
         },
         {
@@ -2063,7 +2254,8 @@
             "de": "Zentraler Knotenpunkt für alle Buslinien.",
             "hu": "Minden buszjárat központi csomópontja.",
             "ro": "Nod central pentru toate liniile de autobuz.",
-            "en": "Central hub for all local bus lines."
+            "en": "Central hub for all local bus lines.",
+            "fr": "Hub central pour toutes les lignes de bus locales."
           }
         },
         {
@@ -2086,7 +2278,8 @@
             "de": "Ein kleiner Shuttle fährt im Sommer direkt hinauf.",
             "hu": "Nyáron kisméretű buszjárat visz fel közvetlenül.",
             "ro": "O navetă mică urcă direct în timpul verii.",
-            "en": "A small shuttle runs directly up the hill in summer."
+            "en": "A small shuttle runs directly up the hill in summer.",
+            "fr": "Une petite navette monte directement à la colline en été."
           }
         },
         {
@@ -2109,7 +2302,8 @@
             "de": "Das Viertel der großen Champagnerhäuser.",
             "hu": "A nagy pezsgőházak negyede.",
             "ro": "Cartierul marilor case de spumante.",
-            "en": "The district of the major sparkling wine houses."
+            "en": "The district of the major sparkling wine houses.",
+            "fr": "Le quartier des grandes maisons de vins effervescents."
           }
         },
         {
@@ -2132,7 +2326,8 @@
             "de": "Moderne Architektur am Loire-Ufer.",
             "hu": "Modern építészet a Loire partján.",
             "ro": "Arhitectură modernă pe malul Loarei.",
-            "en": "Modern architecture on the Loire river bank."
+            "en": "Modern architecture on the Loire river bank.",
+            "fr": "Architecture moderne sur la rive de la Loire."
           }
         }
       ],
@@ -2140,7 +2335,8 @@
         "de": "Saumur lässt sich bequem mit dem lokalen Bussystem 'Oisans' erkunden. Beginnen Sie am Bahnhof und fahren Sie ins Herz der Stadt zum Place de la Bilange.\n\nDer Mittag führt Sie hinauf zum Schloss. Im Sommer erleichtern kleine Shuttles den Aufstieg. Genießen Sie den Ausblick, bevor Sie den Bus in den Stadtteil der Weinkeller nehmen.\n\nNachmittags erkunden Sie die beeindruckenden Keller von Saint-Hilaire, die alle mit dem Bus erreichbar sind. Es ist die entspannteste Art, die lokalen Weine zu probieren.\n\nZurück im Zentrum können Sie das moderne Kulturzentrum am Fluss bewundern, bevor Sie bequem wieder den Zug oder Ihren Ausgangspunkt erreichen.",
         "hu": "Saumur kényelmesen felfedezhető az 'Oisans' helyi buszhálózattal. Kezdje az utazást a vasútállomásnál, és menjen a város szívébe, a Place de la Bilange-hoz.\n\nDélben látogasson el a várba; nyáron kisméretű buszjáratok segítik a feljutást. Élvezze a kilátást, majd buszozzon el a borpincék negyedébe.\n\nDélután fedezze fel Saint-Hilaire lenyűgöző pincerendszereit, amelyek mind elérhetőek busszal. Ez a legkényelmesebb módja a helyi borok kóstolásának.\n\nA központba visszatérve csodálja meg a folyóparti modern kulturális központot, mielőtt visszatérne a vasútállomásra vagy a kiindulópontjára.",
         "ro": "Saumur poate fi explorat confortabil cu sistemul local de autobuze 'Oisans'. Începeți de la gară și mergeți în inima orașului, la Place de la Bilange.\n\nLa prânz, urcați la castel; vara, navete mici facilitează accesul. Bucurați-vă de priveliște, apoi luați autobuzul către cartierul cramelor de vin.\n\nDupă-amiaza, explorați cramele impresionante din Saint-Hilaire, toate accesibile cu autobuzul. Este cea mai relaxantă modalitate de a degusta vinurile locale.\n\nReveniți în centru pentru a admira centrul cultural modern de pe malul râului, înainte de a ajunge confortabil înapoi la gară sau la punctul de plecare.",
-        "en": "Saumur can be easily explored using the local 'Oisans' bus network. Start at the train station and head to the heart of the city at Place de la Bilange.\n\nAt midday, visit the castle; in summer, small shuttles make the climb easier. Enjoy the views, then take a bus to the wine cellar district.\n\nIn the afternoon, explore the impressive cellars of Saint-Hilaire, all accessible by bus. It is the most relaxing way to taste local wines without driving.\n\nBack in the center, admire the modern cultural center by the river before comfortably heading back to the train station or your starting point."
+        "en": "Saumur can be easily explored using the local 'Oisans' bus network. Start at the train station and head to the heart of the city at Place de la Bilange.\n\nAt midday, visit the castle; in summer, small shuttles make the climb easier. Enjoy the views, then take a bus to the wine cellar district.\n\nIn the afternoon, explore the impressive cellars of Saint-Hilaire, all accessible by bus. It is the most relaxing way to taste local wines without driving.\n\nBack in the center, admire the modern cultural center by the river before comfortably heading back to the train station or your starting point.",
+        "fr": "Saumur peut être facilement explorée en utilisant le réseau de bus local 'Oisans'. Partez de la gare et dirigez-vous vers le cœur de la ville à la Place de la Bilange.\n\nÀ la mi-journée, visitez le château ; en été, de petites navettes facilitent la montée. Profitez de la vue, puis prenez un bus vers le quartier des caves à vin.\n\nl'après-midi, explorez les impressionnantes caves de Saint-Hilaire, toutes accessibles en bus. C'est la façon la plus relaxante de déguster les vins locaux sans conduire.\n\nDe retour au centre, admirez le centre culturel moderne au bord de l'eau avant de retourner confortablement à la gare ou à votre point de départ."
       },
       "gastro_picks": {
         "de": [
@@ -2165,6 +2361,12 @@
           {
             "name": "Sparkling Wine Tasting",
             "tip": "Many wine houses are within walking distance of bus stops."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Dégustation de vins effervescents",
+            "tip": "De nombreuses maisons de vins sont accessibles à pied depuis les arrêts de bus."
           }
         ]
       },
@@ -2196,6 +2398,13 @@
             "tip": "Nice view of the bridges.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Terrasse du Dôme",
+            "tip": "Belle vue sur les ponts.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -2221,6 +2430,12 @@
           {
             "name": "Rue d'Orléans",
             "tip": "Main shopping street in the center."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Rue d'Orléans",
+            "tip": "Principale rue commerçante du centre."
           }
         ]
       },
@@ -2248,6 +2463,12 @@
           "Lines 30 and 33 serve the most important sights.",
           "Be aware of reduced schedules on Sundays.",
           "Buses in the city center are generally punctual."
+        ],
+        "fr": [
+          "Achetez vos tickets directement auprès du conducteur ou via l'application.",
+          "Les lignes 30 et 33 desservent les sites les plus importants.",
+          "Attention aux horaires réduits le dimanche.",
+          "Les bus au centre-ville sont généralement ponctuels."
         ]
       },
       "variants": {
@@ -2444,7 +2665,8 @@
             "de": "Starten Sie trocken am Bahnhof und nutzen Sie den Bus ins Zentrum zur Place de la Bilange. Das Schloss erreichen Sie mit dem Shuttle, wo Sie den Vormittag im Inneren verbringen. Mittags geht es nach Saint-Hilaire für eine Weinprobe unter Tage. Den Nachmittag verbringen Sie kulturell im Theater Le Dôme, bevor Sie bequem mit dem Bus zurück zum Bahnhof fahren.",
             "hu": "Kezdje szárazon a vasútállomáson, busszal menjen a Place de la Bilange-ra. A kastélyt busszal közelítse meg, délelőtt maradjon bent. Délben irány Saint-Hilaire egy földalatti kóstolóra. A délutánt töltse kulturálódással a Le Dôme színházban, majd kényelmesen buszozzon vissza az állomásra.",
             "ro": "Porniți de la gară și luați autobuzul spre centru, la Place de la Bilange. Ajungeți la castel cu naveta, unde veți petrece dimineața în interior. La prânz mergeți la Saint-Hilaire pentru o degustare subterană. După-amiaza o veți petrece cultural la Teatrul Le Dôme, înainte de a reveni cu autobuzul la gară.",
-            "en": "Start dry at the train station and take the bus to Place de la Bilange. Reach the castle via shuttle and spend your morning indoors. At noon, head to Saint-Hilaire for an underground wine tasting. Spend the afternoon culturally at Le Dôme Theater before taking the bus comfortably back to the station."
+            "en": "Start dry at the train station and take the bus to Place de la Bilange. Reach the castle via shuttle and spend your morning indoors. At noon, head to Saint-Hilaire for an underground wine tasting. Spend the afternoon culturally at Le Dôme Theater before taking the bus comfortably back to the station.",
+            "fr": "Partez au sec de la gare et prenez le bus pour la Place de la Bilange. Accédez au château par la navette et passez votre matinée à l'intérieur. À midi, direction Saint-Hilaire pour une dégustation de vin souterraine. Passez un après-midi culturel au théâtre Le Dôme avant de reprendre confortablement le bus pour la gare."
           },
           "stops": [
             {
@@ -2453,7 +2675,8 @@
                 "de": "Warten Sie in der Bahnhofshalle auf den Bus.",
                 "hu": "Várjon a buszra az állomás csarnokában.",
                 "ro": "Așteptați autobuzul în holul gării.",
-                "en": "Wait for the bus inside the station hall."
+                "en": "Wait for the bus inside the station hall.",
+                "fr": "Attendez le bus à l'intérieur du hall de la gare."
               }
             },
             {
@@ -2462,7 +2685,8 @@
                 "de": "Die Bushaltestelle bietet Schutz vor Regen.",
                 "hu": "A buszmegálló védelmet nyújt az eső ellen.",
                 "ro": "Stația de autobuz oferă protecție împotriva ploii.",
-                "en": "The bus stop provides shelter from the rain."
+                "en": "The bus stop provides shelter from the rain.",
+                "fr": "L'arrêt de bus offre un abri contre la pluie."
               }
             },
             {
@@ -2471,7 +2695,8 @@
                 "de": "Nutzen Sie den Shuttle, um nicht nass zu werden.",
                 "hu": "Használja a buszt, hogy ne ázzon el felfelé.",
                 "ro": "Folosiți naveta pentru a nu vă uda.",
-                "en": "Use the shuttle to avoid getting wet."
+                "en": "Use the shuttle to avoid getting wet.",
+                "fr": "Utilisez la navette pour éviter de vous mouiller."
               }
             },
             {
@@ -2480,7 +2705,8 @@
                 "de": "Direkte Busverbindung zu den Weinkellern.",
                 "hu": "Közvetlen buszjárat a borospincékhez.",
                 "ro": "Legătură directă cu autobuzul către crame.",
-                "en": "Direct bus connection to the wine cellars."
+                "en": "Direct bus connection to the wine cellars.",
+                "fr": "Liaison directe par bus vers les caves à vin."
               }
             },
             {
@@ -2489,7 +2715,8 @@
                 "de": "Ein prächtiger Ort für einen regnerischen Nachmittag.",
                 "hu": "Pompás hely egy esős délutánra.",
                 "ro": "Un loc splendid pentru o după-amiază ploioasă.",
-                "en": "A grand place for a rainy afternoon."
+                "en": "A grand place for a rainy afternoon.",
+                "fr": "Un lieu magnifique pour un après-midi pluvieux."
               }
             }
           ],
@@ -2517,6 +2744,12 @@
               "Buses are often crowded in the rain, allow extra time.",
               "The castle shuttle saves you from a wet walk uphill.",
               "Tickets can be purchased directly from the driver."
+            ],
+            "fr": [
+              "Téléchargez l'application de transport local pour les infos en temps réel.",
+              "Les bus sont souvent bondés sous la pluie, prévoyez un peu plus de temps.",
+              "La navette du château vous évite une montée humide à pied.",
+              "Les tickets peuvent être achetés directement auprès du chauffeur."
             ]
           }
         },
@@ -2525,7 +2758,8 @@
             "de": "Vom beheizten Bahnhof führt der Weg per Bus ins winterliche Zentrum. Das Schloss bietet im Winter eine ruhige Atmosphäre für Erkundungen. Mittags locken die Weinkeller von Saint-Hilaire mit angenehmen Temperaturen. Nachmittags genießen Sie die prachtvolle Architektur des Theaters Le Dôme im Warmen. Beenden Sie den Tag mit einer Busfahrt zurück, während Saumur im Lichterglanz erstrahlt.",
             "hu": "A fűtött állomásról busszal juthat a téli központba. A kastély télen csendes és nyugodt hely a felfedezésre. Délben Saint-Hilaire borospincéi csábítanak kellemes hőmérséklettel. Délután élvezze a Le Dôme színház építészetét a melegben. Zárja a napot buszozással, miközben Saumur fényei kigyúlnak.",
             "ro": "De la gara încălzită, drumul duce cu autobuzul spre centrul hibernal. Castelul oferă o atmosferă liniștită pentru explorare iarna. La prânz, cramele din Saint-Hilaire atrag cu temperaturi plăcute. După-amiaza bucurați-vă de arhitectura Teatrului Le Dôme la căldură. Încheiați ziua cu un drum înapoi, în timp ce Saumur strălucește în lumini.",
-            "en": "From the heated station, take the bus to the winter center. The castle offers a quiet atmosphere for exploration in winter. At noon, the wine cellars of Saint-Hilaire beckon with pleasant temperatures. In the afternoon, enjoy the magnificent architecture of Le Dôme Theater in the warmth. End the day with a bus ride back as Saumur shines in the evening lights."
+            "en": "From the heated station, take the bus to the winter center. The castle offers a quiet atmosphere for exploration in winter. At noon, the wine cellars of Saint-Hilaire beckon with pleasant temperatures. In the afternoon, enjoy the magnificent architecture of Le Dôme Theater in the warmth. End the day with a bus ride back as Saumur shines in the evening lights.",
+            "fr": "Depuis la gare chauffée, prenez le bus pour le centre hivernal. Le château offre une atmosphère paisible pour l'exploration en hiver. À midi, les caves de Saint-Hilaire vous attirent avec leurs températures agréables. L'après-midi, profitez de la magnifique architecture du théâtre Le Dôme au chaud. Terminez la journée par un trajet en bus alors que Saumur brille sous les lumières du soir."
           },
           "stops": [
             {
@@ -2534,7 +2768,8 @@
                 "de": "Nutzen Sie den Warteraum, um nicht zu frieren.",
                 "hu": "Használja a várótermet, hogy ne fázzon.",
                 "ro": "Folosiți sala de așteptare pentru a nu îngheța de frig.",
-                "en": "Use the waiting room to avoid the cold."
+                "en": "Use the waiting room to avoid the cold.",
+                "fr": "Utilisez la salle d'attente pour éviter le froid."
               }
             },
             {
@@ -2543,7 +2778,8 @@
                 "de": "Zentraler Umstiegspunkt mit Cafés in der Nähe.",
                 "hu": "Központi átszállópont, kávézókkal a közelben.",
                 "ro": "Punct central de transfer cu cafenele în apropiere.",
-                "en": "Central transfer point with cafes nearby."
+                "en": "Central transfer point with cafes nearby.",
+                "fr": "Point de correspondance central avec des cafés à proximité."
               }
             },
             {
@@ -2552,7 +2788,8 @@
                 "de": "Im Winter sind die Wartezeiten für den Shuttle kürzer.",
                 "hu": "Télen rövidebb a várakozási idő a buszra.",
                 "ro": "Iarna, timpii de așteptare pentru navetă sunt mai scurți.",
-                "en": "In winter, waiting times for the shuttle are shorter."
+                "en": "In winter, waiting times for the shuttle are shorter.",
+                "fr": "En hiver, les temps d'attente pour la navette sont plus courts."
               }
             },
             {
@@ -2561,7 +2798,8 @@
                 "de": "Die Keller sind wärmer als die Außenluft.",
                 "hu": "A pincék melegebbek, mint a kinti levegő.",
                 "ro": "Cramele sunt mai calde decât aerul de afară.",
-                "en": "The cellars are warmer than the outside air."
+                "en": "The cellars are warmer than the outside air.",
+                "fr": "Les caves sont plus chaudes que l'air extérieur."
               }
             },
             {
@@ -2570,7 +2808,8 @@
                 "de": "Prachtvolle Innenräume bieten Schutz vor Frost.",
                 "hu": "A pompás belső terek védelmet nyújtanak a fagy ellen.",
                 "ro": "Interioarele splendide oferă protecție împotriva înghețului.",
-                "en": "Magnificent interiors offer protection from frost."
+                "en": "Magnificent interiors offer protection from frost.",
+                "fr": "Les intérieurs magnifiques offrent une protection contre le gel."
               }
             }
           ],
@@ -2598,6 +2837,12 @@
               "Check winter schedules as there may be fewer trips.",
               "The wine cellars offer the best escape from the winter cold.",
               "Use contactless payment for quick ticket purchases."
+            ],
+            "fr": [
+              "Les bus sont chauffés et confortables en hiver.",
+              "Vérifiez les horaires d'hiver car il peut y avoir moins de trajets.",
+              "Les caves à vin offrent la meilleure échappatoire au froid hivernal.",
+              "Utilisez le paiement sans contact pour des achats de tickets rapides."
             ]
           }
         }

@@ -36,7 +36,8 @@
             "de": "Genießen Sie den Kaffee am Wasser.",
             "hu": "Élvezze a kávét a vízparton.",
             "ro": "Savurați cafeaua pe malul apei.",
-            "en": "Enjoy coffee by the waterfront."
+            "en": "Enjoy coffee by the waterfront.",
+            "fr": "Savourez un café au bord de l'eau."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Privatschloss, Besichtigung nur von außen möglich.",
             "hu": "Magánkastély, csak kívülről látogatható.",
             "ro": "Castel privat, vizitarea este posibilă doar din exterior.",
-            "en": "Private castle, viewing possible from outside only."
+            "en": "Private castle, viewing possible from outside only.",
+            "fr": "Château privé, vue possible de l'extérieur uniquement."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Küstenpfad mit atemberaubendem Meerblick.",
             "hu": "Parti ösvény lélegzetelállító kilátással.",
             "ro": "Potecă de coastă cu vedere uimitoare la mare.",
-            "en": "Coastal path with breathtaking sea views."
+            "en": "Coastal path with breathtaking sea views.",
+            "fr": "Sentier côtier avec des vues imprenables sur la mer."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Der größte und beliebteste Strand der Stadt.",
             "hu": "A város legnagyobb és legnépszerűbb strandja.",
             "ro": "Cea mai mare și populară plajă din oraș.",
-            "en": "The largest and most popular beach in town."
+            "en": "The largest and most popular beach in town.",
+            "fr": "La plage la plus grande et la plus populaire de la ville."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Probieren Sie die Austern aus der Bucht.",
             "hu": "Kóstolja meg az öbölből származó osztrigát.",
             "ro": "Încercați scoicile din golf.",
-            "en": "Try the oysters from the bay."
+            "en": "Try the oysters from the bay.",
+            "fr": "Goûtez les huîtres de la baie."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Schöner Blick auf die einlaufenden Schiffe.",
             "hu": "Szép kilátás a befutó hajókra.",
             "ro": "Vedere frumoasă asupra navelor care intră.",
-            "en": "Beautiful view of incoming ships."
+            "en": "Beautiful view of incoming ships.",
+            "fr": "Belle vue sur l'arrivée des navires."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Pornic zu Fuß zu erkunden ist ein Genuss für die Sinne. Sie starten am malerischen Hafen und bewundern das markante Schloss. Danach führt der berühmte Sentier des Douaniers entlang der felsigen Küste zum Noëveillard-Strand. Ein spätes Mittagessen mit frischem Fisch und ein Sonnenuntergang am Kai runden den Tag ab.",
         "hu": "Pornic gyalogos felfedezése igazi élvezet. A festői kikötőnél kezd, és megcsodálja a jellegzetes kastélyt. Ezután a híres Vámosok ösvénye vezet a sziklás part mentén a Noëveillard strandhoz. Egy késői ebéd friss hallal és a naplemente a rakparton teszi teljessé a napot.",
         "ro": "Explorarea orașului Pornic la pas este o plăcere. Începeți în portul pitoresc și admirați castelul emblematic. Apoi, faimosul Sentier des Douaniers vă conduce de-a lungul coastei stâncoase către plaja Noëveillard. Un prânz târziu cu pește proaspăt și un apus pe dig completează ziua.",
-        "en": "Exploring Pornic on foot is a treat for the senses. Start at the picturesque harbor and admire the iconic castle. Then, the famous Sentier des Douaniers leads you along the rocky coast to Noëveillard beach. A late lunch with fresh fish and a sunset at the quay complete the day."
+        "en": "Exploring Pornic on foot is a treat for the senses. Start at the picturesque harbor and admire the iconic castle. Then, the famous Sentier des Douaniers leads you along the rocky coast to Noëveillard beach. A late lunch with fresh fish and a sunset at the quay complete the day.",
+        "fr": "Explorer Pornic à pied est un régal pour les sens. Commencez par le port pittoresque et admirez l'emblématique château. Ensuite, le célèbre Sentier des Douaniers vous mène le long de la côte rocheuse jusqu'à la plage de la Noëveillard. Un déjeuner tardif avec du poisson frais et un coucher de soleil sur le quai complètent la journée."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "Oysters",
             "tip": "Oyster tasting at the port."
+          }
+        ],
+        "fr": [
+          {
+            "name": "La Fraiseraie",
+            "tip": "Célèbre glace à la fraise sur le port."
+          },
+          {
+            "name": "Huîtres",
+            "tip": "Dégustation d'huîtres au port."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "Isolated spots on the rocks.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Crique de Gourmalon",
+            "tip": "Crique paisible face au port.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sentier des Douaniers",
+            "tip": "Coins isolés sur les rochers.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +322,16 @@
             "name": "Curé Nantais",
             "tip": "Traditional cheese shop."
           }
+        ],
+        "fr": [
+          {
+            "name": "Faïencerie de Pornic",
+            "tip": "Les célèbres bols au prénom personnalisé."
+          },
+          {
+            "name": "Le Curé Nantais",
+            "tip": "Fromagerie traditionnelle."
+          }
         ]
       },
       "tips": {
@@ -319,6 +358,12 @@
           "Coastal paths can be slippery.",
           "Photograph the castle at high tide.",
           "Park at the train station for easy access."
+        ],
+        "fr": [
+          "Goûtez absolument la glace à la fraise.",
+          "Les sentiers côtiers peuvent être glissants.",
+          "Photographiez le château à marée haute.",
+          "Garez-vous à la gare pour un accès facile."
         ]
       }
     },
@@ -350,7 +395,8 @@
             "de": "Startpunkt für die Radtour.",
             "hu": "A kerékpártúra kiindulópontja.",
             "ro": "Punctul de plecare pentru turul cu bicicleta.",
-            "en": "Starting point for the bike tour."
+            "en": "Starting point for the bike tour.",
+            "fr": "Point de départ de la randonnée à vélo."
           }
         },
         {
@@ -373,7 +419,8 @@
             "de": "Ein charmantes Dorf im Westen.",
             "hu": "Bájos falu nyugaton.",
             "ro": "Un sat fermecător în vest.",
-            "en": "A charming village to the west."
+            "en": "A charming village to the west.",
+            "fr": "Un charmant village à l'ouest."
           }
         },
         {
@@ -396,7 +443,8 @@
             "de": "Wilde Bucht, perfekt für eine Pause.",
             "hu": "Vad öböl, tökéletes egy pihenőhöz.",
             "ro": "Golf sălbatic, perfect pentru o pauză.",
-            "en": "Wild cove, perfect for a break."
+            "en": "Wild cove, perfect for a break.",
+            "fr": "Crique sauvage, parfaite pour une pause."
           }
         },
         {
@@ -419,7 +467,8 @@
             "de": "Besuchen Sie die Fabrikboutique.",
             "hu": "Látogassa meg a gyári mintaboltot.",
             "ro": "Vizitați magazinul fabricii.",
-            "en": "Visit the factory boutique."
+            "en": "Visit the factory boutique.",
+            "fr": "Visitez la boutique de la faïencerie."
           }
         },
         {
@@ -442,7 +491,8 @@
             "de": "Schöne Villen aus der Belle Époque.",
             "hu": "Gyönyörű Belle Époque villák.",
             "ro": "Vile superbe din Belle Époque.",
-            "en": "Beautiful Belle Époque villas."
+            "en": "Beautiful Belle Époque villas.",
+            "fr": "Magnifiques villas Belle Époque."
           }
         }
       ],
@@ -450,7 +500,8 @@
         "de": "Entdecken Sie die Küste von Pornic mit dem Fahrrad. Von der historischen Hafenanlage fahren Sie gen Westen nach Sainte-Marie-sur-Mer. Entlang der 'Vélocéan' Route erreichen Sie einsame Strände wie Joselière. Am Nachmittag radeln Sie zur berühmten Keramikmanufaktur und genießen den Rückweg durch das elegante Gourmalon-Viertel.",
         "hu": "Fedezze fel Pornic partvidékét kerékpárral. A történelmi kikötőtől nyugat felé, Sainte-Marie-sur-Mer irányába indul. A 'Vélocéan' útvonalon haladva elérheti az olyan eldugott strandokat, mint a Joselière. Délután a híres kerámiaüzemhez tekerhet, majd az elegáns Gourmalon negyeden keresztül térhet vissza.",
         "ro": "Descoperiți coasta orașului Pornic cu bicicleta. Din portul istoric pedalați spre vest, către Sainte-Marie-sur-Mer. Pe ruta 'Vélocéan' ajungeți la plaje izolate precum Joselière. După-amiaza pedalați spre faimoasa manufactură de faianță și vă bucurați de drumul de întoarcere prin elegantul cartier Gourmalon.",
-        "en": "Discover the coast of Pornic by bike. From the historic harbor, cycle west towards Sainte-Marie-sur-Mer. Along the 'Vélocéan' route, you'll reach secluded beaches like Joselière. In the afternoon, cycle to the famous pottery factory and enjoy the return trip through the elegant Gourmalon district."
+        "en": "Discover the coast of Pornic by bike. From the historic harbor, cycle west towards Sainte-Marie-sur-Mer. Along the 'Vélocéan' route, you'll reach secluded beaches like Joselière. In the afternoon, cycle to the famous pottery factory and enjoy the return trip through the elegant Gourmalon district.",
+        "fr": "Découvrez la côte de Pornic à vélo. Depuis le port historique, pédalez vers l'ouest en direction de Sainte-Marie-sur-Mer. Le long de l'itinéraire « Vélocéan », vous atteindrez des plages isolées comme la Joselière. L'après-midi, rejoignez la célèbre faïencerie et profitez du retour par l'élégant quartier de Gourmalon."
       },
       "gastro_picks": {
         "de": [
@@ -475,6 +526,12 @@
           {
             "name": "Breton Galette",
             "tip": "Buckwheat crepe in Sainte-Marie."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Galette Bretonne",
+            "tip": "Crêpe au sarrasin à Sainte-Marie."
           }
         ]
       },
@@ -506,6 +563,13 @@
             "tip": "Quiet lake in the hinterland.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Étang du Val Saint-Martin",
+            "tip": "Lac paisible dans l'arrière-pays.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -531,6 +595,12 @@
           {
             "name": "Pottery Workshop",
             "tip": "Traditional craftsmanship."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Atelier de poterie",
+            "tip": "Savoir-faire artisanal traditionnel."
           }
         ]
       },
@@ -558,6 +628,12 @@
           "Rent bikes at the station.",
           "Careful on the coastal path (pedestrians).",
           "Drink plenty of water in the heat."
+        ],
+        "fr": [
+          "Suivez les panneaux « Vélocéan ».",
+          "Louez des vélos à la gare.",
+          "Attention sur le sentier côtier (piétons).",
+          "Buvez beaucoup d'eau en cas de chaleur."
         ]
       }
     },
@@ -589,7 +665,8 @@
             "de": "Früh kommen für Parkplätze direkt am Laden.",
             "hu": "Jöjjön korán a közvetlen parkoláshoz.",
             "ro": "Veniți devreme pentru parcare direct la magazin.",
-            "en": "Come early for parking right at the shop."
+            "en": "Come early for parking right at the shop.",
+            "fr": "Arrivez tôt pour stationner juste devant la boutique."
           }
         },
         {
@@ -612,7 +689,8 @@
             "de": "Parkhaus am Place de la Gare nutzen.",
             "hu": "Használja a Place de la Gare parkolóházat.",
             "ro": "Folosiți parcarea din Place de la Gare.",
-            "en": "Use the parking garage at Place de la Gare."
+            "en": "Use the parking garage at Place de la Gare.",
+            "fr": "Utilisez le parking couvert de la place de la Gare."
           }
         },
         {
@@ -635,7 +713,8 @@
             "de": "Ein schöner Badeort wenige Kilometer südlich.",
             "hu": "Szép fürdőhely pár kilométerre délre.",
             "ro": "O stațiune frumoasă la câțiva kilometri sud.",
-            "en": "A lovely resort a few miles south."
+            "en": "A lovely resort a few miles south.",
+            "fr": "Une charmante station à quelques kilomètres au sud."
           }
         },
         {
@@ -658,7 +737,8 @@
             "de": "Wellness mit Meerblick.",
             "hu": "Wellness kilátással a tengerre.",
             "ro": "Wellness cu vedere la mare.",
-            "en": "Wellness with sea view."
+            "en": "Wellness with sea view.",
+            "fr": "Bien-être avec vue sur mer."
           }
         },
         {
@@ -681,7 +761,8 @@
             "de": "Blick über die gesamte Bucht von Bourgneuf.",
             "hu": "Kilátás a teljes Bourgneuf-öbölre.",
             "ro": "Vedere peste întregul golf Bourgneuf.",
-            "en": "View over the entire Bourgneuf Bay."
+            "en": "View over the entire Bourgneuf Bay.",
+            "fr": "Vue sur toute la baie de Bourgneuf."
           }
         }
       ],
@@ -689,7 +770,8 @@
         "de": "Mit dem Auto entdecken Sie Pornic und die umliegenden Badeorte. Sie starten bei der berühmten Faïencerie und besuchen dann das historische Zentrum. Am Nachmittag fahren Sie in den Nachbarort La Bernerie-en-Retz für einen langen Strandaufenthalt. Zum Ausklang gönnen Sie sich Entspannung im Thalasso-Zentrum und den Blick von der Corniche.",
         "hu": "Autóval felfedezheti Pornicot és a környező fürdőhelyeket. A híres kerámiaüzemnél kezd, majd meglátogatja a történelmi központot. Délután a szomszédos La Bernerie-en-Retzbe utazik egy hosszú strandolásra. Befejezésül lazítson a Thalasso központban és élvezze a kilátást a Corniche-ról.",
         "ro": "Cu mașina descoperiți Pornic și stațiunile învecinate. Începeți la faimoasa manufactură de faianță și apoi vizitați centrul istoric. După-amiaza mergeți în localitatea vecină La Bernerie-en-Retz pentru o ședere lungă pe plajă. La final, relaxați-vă la centrul Thalasso și admirați vederea de pe faleză.",
-        "en": "By car, you can discover Pornic and the surrounding resorts. Start at the famous pottery factory and then visit the historic center. In the afternoon, drive to the neighboring town of La Bernerie-en-Retz for a long beach stay. To finish, relax at the Thalasso center and enjoy the view from the Corniche."
+        "en": "By car, you can discover Pornic and the surrounding resorts. Start at the famous pottery factory and then visit the historic center. In the afternoon, drive to the neighboring town of La Bernerie-en-Retz for a long beach stay. To finish, relax at the Thalasso center and enjoy the view from the Corniche.",
+        "fr": "En voiture, vous pouvez découvrir Pornic et les stations balnéaires environnantes. Commencez par la célèbre faïencerie, puis visitez le centre historique. L'après-midi, conduisez jusqu'à la ville voisine de La Bernerie-en-Retz pour un long moment à la plage. Pour finir, détendez-vous au centre de thalassothérapie et profitez de la vue depuis la Corniche."
       },
       "gastro_picks": {
         "de": [
@@ -714,6 +796,12 @@
           {
             "name": "Curé Nantais",
             "tip": "Specialty: cheese washed in Muscadet wine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Curé Nantais",
+            "tip": "Spécialité : fromage affiné au Muscadet."
           }
         ]
       },
@@ -745,6 +833,13 @@
             "tip": "Quiet cliffs.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Pointe de la Birochère",
+            "tip": "Falaises tranquilles.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -770,6 +865,12 @@
           {
             "name": "Pornic Market",
             "tip": "Every Thursday and Sunday."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Marché de Pornic",
+            "tip": "Tous les jeudis et dimanches."
           }
         ]
       },
@@ -797,6 +898,12 @@
           "Use the parking lot on Avenue du Canal.",
           "Drive along the coastal road.",
           "Watch out for one-way streets in old Pornic."
+        ],
+        "fr": [
+          "Le stationnement au centre est rare en été.",
+          "Utilisez le parking de l'avenue du Canal.",
+          "Roulez le long de la route côtière.",
+          "Attention aux rues à sens unique dans le vieux Pornic."
         ]
       }
     },
@@ -828,7 +935,8 @@
             "de": "Knotenpunkt für lokale Busse.",
             "hu": "A helyi buszok csomópontja.",
             "ro": "Nod rutier pentru autobuzele locale.",
-            "en": "Hub for local buses."
+            "en": "Hub for local buses.",
+            "fr": "Plaque tournante des bus locaux."
           }
         },
         {
@@ -851,7 +959,8 @@
             "de": "Zentrum des Geschehens.",
             "hu": "Az események központja.",
             "ro": "Centrul acțiunii.",
-            "en": "Center of the action."
+            "en": "Center of the action.",
+            "fr": "Cœur de l'animation."
           }
         },
         {
@@ -874,7 +983,8 @@
             "de": "Sommer-Shuttle-Bus hält hier.",
             "hu": "A nyári buszjárat itt áll meg.",
             "ro": "Autobuzul de vară oprește aici.",
-            "en": "Summer shuttle bus stops here."
+            "en": "Summer shuttle bus stops here.",
+            "fr": "La navette estivale s'arrête ici."
           }
         },
         {
@@ -897,7 +1007,8 @@
             "de": "Mit dem Bus Linie 3 erreichbar.",
             "hu": "A 3-as busszal elérhető.",
             "ro": "Accesibil cu linia de autobuz 3.",
-            "en": "Accessible by bus line 3."
+            "en": "Accessible by bus line 3.",
+            "fr": "Accessible par la ligne de bus 3."
           }
         },
         {
@@ -920,7 +1031,8 @@
             "de": "Abendessen mit Hafenblick.",
             "hu": "Vacsora kikötői kilátással.",
             "ro": "Cină cu vedere la port.",
-            "en": "Dinner with harbor view."
+            "en": "Dinner with harbor view.",
+            "fr": "Dîner avec vue sur le port."
           }
         }
       ],
@@ -928,7 +1040,8 @@
         "de": "Nutzen Sie den kostenlosen Sommer-Shuttle 'Navette de la Côte'. Starten Sie am Bahnhof und erkunden Sie den alten Hafen. Der Bus bringt Sie bequem zum Noëveillard-Strand und später zur Faïencerie. Zum Abschluss genießen Sie die kulinarischen Highlights im Gourmalon-Viertel.",
         "hu": "Használja az ingyenes 'Navette de la Côte' nyári járatot. Kezdjen az állomáson, és fedezze fel a régi kikötőt. A busz kényelmesen elviszi a Noëveillard strandra, majd később a kerámiaüzembe. Befejezésül élvezze a gasztronómiai különlegességeket a Gourmalon negyedben.",
         "ro": "Folosiți naveta gratuită de vară 'Navette de la Côte'. Începeți la gară și explorați portul vechi. Autobuzul vă duce confortabil la plaja Noëveillard și apoi la manufactura de faianță. La final, savurați specialitățile culinare din cartierul Gourmalon.",
-        "en": "Use the free 'Navette de la Côte' summer shuttle. Start at the station and explore the old port. The bus conveniently takes you to Noëveillard beach and later to the pottery factory. To finish, enjoy the culinary highlights in the Gourmalon district."
+        "en": "Use the free 'Navette de la Côte' summer shuttle. Start at the station and explore the old port. The bus conveniently takes you to Noëveillard beach and later to the pottery factory. To finish, enjoy the culinary highlights in the Gourmalon district.",
+        "fr": "Utilisez la navette estivale gratuite « Navette de la Côte ». Partez de la gare et explorez le vieux port. Le bus vous emmène facilement à la plage de la Noëveillard puis à la faïencerie. Pour conclure, savourez les spécialités culinaires du quartier de Gourmalon."
       },
       "gastro_picks": {
         "de": [
@@ -953,6 +1066,12 @@
           {
             "name": "Atlantic Sardines",
             "tip": "Grilled sardines at the harbor."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Sardines de l'Atlantique",
+            "tip": "Sardines grillées au port."
           }
         ]
       },
@@ -984,6 +1103,13 @@
             "tip": "Small public park.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin de Retz",
+            "tip": "Petit parc public.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1009,6 +1135,12 @@
           {
             "name": "Quai Leray",
             "tip": "Numerous souvenir shops."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Quai Leray",
+            "tip": "Nombreuses boutiques de souvenirs."
           }
         ]
       },
@@ -1036,6 +1168,12 @@
           "Check the app for real-time data.",
           "Board at the 'Gare' stop.",
           "Buses run until late evening."
+        ],
+        "fr": [
+          "Les navettes estivales sont gratuites.",
+          "Consultez l'application pour les horaires en temps réel.",
+          "Montez à l'arrêt « Gare ».",
+          "Les bus circulent jusqu'en fin de soirée."
         ]
       }
     }

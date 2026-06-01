@@ -37,7 +37,8 @@
             "de": "Bewundern Sie die Orgel in Form einer Hand.",
             "hu": "Csodálja meg a különleges, kéz alakú orgonát.",
             "ro": "Admirați orga unică în formă de mână.",
-            "en": "Admire the unique organ shaped like a hand."
+            "en": "Admire the unique organ shaped like a hand.",
+            "fr": "Admirez l'orgue unique en forme de main."
           }
         },
         {
@@ -61,7 +62,8 @@
             "de": "Erfahren Sie mehr über die Bergbaugeschichte.",
             "hu": "Ismerje meg a helyi bányászat történetét.",
             "ro": "Aflați mai multe despre istoria mineritului local.",
-            "en": "Learn about the local mining history."
+            "en": "Learn about the local mining history.",
+            "fr": "Découvrez l'histoire minière locale."
           }
         },
         {
@@ -85,7 +87,8 @@
             "de": "Ideal für Indoor-Aktivitäten bei schlechtem Wetter.",
             "hu": "Ideális benti programokhoz rossz idő esetén.",
             "ro": "Ideal pentru activități de interior pe vreme rea.",
-            "en": "Ideal for indoor activities during bad weather."
+            "en": "Ideal for indoor activities during bad weather.",
+            "fr": "Idéal pour les activités intérieures par mauvais temps."
           }
         },
         {
@@ -109,7 +112,8 @@
             "de": "Ein ruhiger Ort des Gedenkens im Dorfzentrum.",
             "hu": "Csendes emlékhely a falu központjában.",
             "ro": "Un loc liniștit de reculegere în centrul satului.",
-            "en": "A quiet place of remembrance in the village center."
+            "en": "A quiet place of remembrance in the village center.",
+            "fr": "Un lieu de mémoire paisible au centre du village."
           }
         },
         {
@@ -133,7 +137,8 @@
             "de": "Die höchstgelegene mittelalterliche Siedlung Europas.",
             "hu": "Európa legmagasabban fekvő középkori települése.",
             "ro": "Cea mai înaltă așezare medievală din Europa.",
-            "en": "The highest medieval settlement in Europe."
+            "en": "The highest medieval settlement in Europe.",
+            "fr": "Le plus haut établissement médiéval d'Europe."
           }
         },
         {
@@ -157,7 +162,8 @@
             "de": "Der legendäre Aufstieg der Tour de France.",
             "hu": "A Tour de France legendás emelkedője.",
             "ro": "Ascensiunea legendară din Tour de France.",
-            "en": "The legendary climb of the Tour de France."
+            "en": "The legendary climb of the Tour de France.",
+            "fr": "La montée légendaire du Tour de France."
           }
         }
       ],
@@ -165,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag in der architektonisch einzigartigen Kirche Notre-Dame-des-Neiges, bevor Sie im lokalen Museum tief in die Geschichte der Oisans-Region eintauchen. Mittags erkunden Sie das Sportzentrum und genießen die alpine Atmosphäre.\n\nAm Nachmittag spazieren Sie zur historischen Ausgrabungsstätte Brandes, wo einst Bergleute in extremer Höhe lebten. Beenden Sie den Tag mit einem Blick auf die berühmten 21 Kehren, die Radsportgeschichte geschrieben haben.",
         "hu": "Kezdje a napot a különleges építészetű Havas Boldogasszony-templomban, majd merüljön el az Oisans régió történelmében a helyi múzeumban. Délben fedezze fel a sportközpontot és élvezze az alpesi hangulatot.\n\nDélután sétáljon el a Brandes régészeti lelőhelyhez, ahol egykor bányászok éltek extrém magasságban. A napot a Tour de France legendás 21 kanyarjának látványával zárja, amely sporttörténelmet írt.",
         "ro": "Începeți ziua la biserica Notre-Dame-des-Neiges, cu o arhitectură unică, înainte de a explora istoria regiunii Oisans la muzeul local. La prânz, descoperiți centrul sportiv și bucurați-vă de atmosfera alpină.\n\nDupă-amiaza, mergeți la situl arheologic Brandes, unde minerii trăiau odinioară la înălțimi extreme. Încheiați ziua cu o privire asupra celor 21 de curbe celebre care au scris istoria ciclismului.",
-        "en": "Start your day at the architecturally unique Church of Notre-Dame-des-Neiges before diving into the history of the Oisans region at the local museum. At noon, explore the sports complex and enjoy the alpine atmosphere.\n\nIn the afternoon, walk to the Brandes archaeological site, where miners once lived at extreme altitudes. End the day with a view of the famous 21 bends that have made cycling history."
+        "en": "Start your day at the architecturally unique Church of Notre-Dame-des-Neiges before diving into the history of the Oisans region at the local museum. At noon, explore the sports complex and enjoy the alpine atmosphere.\n\nIn the afternoon, walk to the Brandes archaeological site, where miners once lived at extreme altitudes. End the day with a view of the famous 21 bends that have made cycling history.",
+        "fr": "Commencez votre journée par l'église Notre-Dame-des-Neiges à l'architecture unique avant de plonger dans l'histoire de l'Oisans au musée local. À midi, explorez le complexe sportif et profitez de l'ambiance alpine.\n\nL'après-midi, marchez vers le site archéologique de Brandes, où vivaient autrefois les mineurs à des altitudes extrêmes. Terminez la journée par une vue sur les célèbres 21 virages qui ont marqué l'histoire du cyclisme."
       },
       "gastro_picks": {
         "de": [
@@ -206,6 +213,16 @@
           {
             "name": "Génépi",
             "tip": "A local herbal liqueur, perfect as a digestif."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Goûtez-la au 'Au P'tit Creux' pour une expérience authentique."
+          },
+          {
+            "name": "Génépi",
+            "tip": "Une liqueur d'herbes locale, parfaite en digestif."
           }
         ]
       },
@@ -257,6 +274,18 @@
             "tip": "In the evening, a contemplative silence prevails here.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plateau de Brandes",
+            "tip": "Un endroit paisible avec une vue imprenable sur la vallée.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Place de l'Église",
+            "tip": "Le soir, un silence contemplatif y règne.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -299,6 +328,16 @@
             "name": "Souvenirs du Tour",
             "tip": "Cycling jerseys and souvenirs of the 21 bends."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché de l'Alpe d'Huez",
+            "tip": "Chaque vendredi matin, avec des fromages locaux."
+          },
+          {
+            "name": "Souvenirs du Tour",
+            "tip": "Maillots de cyclisme et souvenirs des 21 virages."
+          }
         ]
       },
       "tips": {
@@ -325,6 +364,12 @@
           "The sun is very strong at this altitude, use sunscreen.",
           "The church is usually open until 6 PM.",
           "Use the free shuttle buses within the resort."
+        ],
+        "fr": [
+          "Portez des chaussures de randonnée confortables, car les sentiers sont souvent escarpés.",
+          "Le soleil est très fort à cette altitude, utilisez de la crème solaire.",
+          "L'église est généralement ouverte jusqu'à 18h00.",
+          "Utilisez les navettes gratuites à l'intérieur de la station."
         ]
       },
       "variants": {
@@ -587,7 +632,8 @@
             "de": "Morgendlicher Schutz in der modernen Kirche vor dem Gebirgsregen. Mittags erkunden wir das Museum von Huez, während es draußen gießt. Der Nachmittag gehört den Indoor-Aktivitäten im Palais des Sports. Am Abend spazieren wir durch die mystische Nebellandschaft oberhalb der berühmten 21 Kehren.",
             "hu": "Reggeli menedék a modern templomban a hegyi eső elől. Délben a Huez múzeum tárlatait fedezzük fel, amíg kint szakad. A délutánt a Palais des Sports beltéri sportpályáin töltjük szárazon. Este a misztikus ködbe burkolózó 21 kanyar felett sétálva zárjuk a napot a friss alpesi levegőn.",
             "ro": "Dimineața ne adăpostim în biserica modernă de ploaia montană. La prânz explorăm muzeul din Huez în timp ce afară plouă torențial. După-amiaza este dedicată activităților indoor de la Palais des Sports. Seara ne plimbăm prin ceața mistică de deasupra celor 21 de curbe celebre.",
-            "en": "Morning shelter in the modern church from the mountain rain. At noon, we explore the Huez Museum while it pours outside. The afternoon is dedicated to indoor activities at the Palais des Sports. In the evening, we walk through the mystical mist above the famous 21 bends."
+            "en": "Morning shelter in the modern church from the mountain rain. At noon, we explore the Huez Museum while it pours outside. The afternoon is dedicated to indoor activities at the Palais des Sports. In the evening, we walk through the mystical mist above the famous 21 bends.",
+            "fr": "Matinée à l'abri dans l'église moderne pour échapper à la pluie de montagne. À midi, nous explorons le musée d'Huez pendant qu'il pleut dehors. L'après-midi est consacré aux activités intérieures au Palais des Sports. Le soir, nous marchons dans la brume mystique au-dessus des célèbres 21 virages."
           },
           "stops": [
             {
@@ -596,7 +642,8 @@
                 "de": "Trockener Ort, um die Architektur zu bewundern.",
                 "hu": "Száraz hely a modern építészet megcsodálására.",
                 "ro": "Loc uscat pentru a admira arhitectura modernă.",
-                "en": "A dry place to admire the unique modern architecture."
+                "en": "A dry place to admire the unique modern architecture.",
+                "fr": "Un endroit sec pour admirer l'architecture moderne unique."
               }
             },
             {
@@ -605,7 +652,8 @@
                 "de": "Perfekt, um den stärksten Regen abzuwarten.",
                 "hu": "Tökéletes hely a legnagyobb felhőszakadás kivárására.",
                 "ro": "Perfect pentru a aștepta trecerea celei mai mari ploi.",
-                "en": "Perfect spot to wait out the heaviest downpour."
+                "en": "Perfect spot to wait out the heaviest downpour.",
+                "fr": "L'endroit parfait pour attendre la fin de l'averse."
               }
             },
             {
@@ -614,7 +662,8 @@
                 "de": "Großes Indoor-Zentrum mit Schwimmbad und Klettern.",
                 "hu": "Hatalmas beltéri központ medencével és falmászással.",
                 "ro": "Centru indoor mare cu piscină și escaladă.",
-                "en": "Huge indoor center with swimming and climbing."
+                "en": "Huge indoor center with swimming and climbing.",
+                "fr": "Immense centre intérieur avec piscine et escalade."
               }
             },
             {
@@ -623,7 +672,8 @@
                 "de": "Oft neblig hier, was eine andächtige Stimmung erzeugt.",
                 "hu": "Gyakran ködös, ami meghitt hangulatot áraszt.",
                 "ro": "Adesea cețos, creând o atmosferă solemnă.",
-                "en": "Often misty here, creating a solemn atmosphere."
+                "en": "Often misty here, creating a solemn atmosphere.",
+                "fr": "Souvent brumeux ici, créant une atmosphère solennelle."
               }
             },
             {
@@ -632,7 +682,8 @@
                 "de": "Vorsicht, die Pfade können sehr matschig sein.",
                 "hu": "Vigyázat, az ösvények nagyon sárosak lehetnek.",
                 "ro": "Atenție, potecile pot fi foarte noroioase.",
-                "en": "Be careful, the paths can get very muddy."
+                "en": "Be careful, the paths can get very muddy.",
+                "fr": "Attention, les sentiers peuvent devenir très boueux."
               }
             },
             {
@@ -641,7 +692,8 @@
                 "de": "Die Wolken hängen oft tief in den Kehren.",
                 "hu": "A felhők gyakran mélyen beülnek a kanyarokba.",
                 "ro": "Norii coboară adesea jos în curbe.",
-                "en": "Clouds often hang low in the famous bends."
+                "en": "Clouds often hang low in the famous bends.",
+                "fr": "Les nuages s'accrochent souvent bas dans les célèbres virages."
               }
             }
           ],
@@ -669,6 +721,12 @@
               "Palais des Sports offers plenty of indoor options.",
               "Museums are ideal shelters during thunderstorms.",
               "Watch out for slippery stones on the hiking paths."
+            ],
+            "fr": [
+              "Un bon imperméable et des chaussures de randonnée sont obligatoires.",
+              "Le Palais des Sports offre de nombreuses options en intérieur.",
+              "Les musées sont des abris idéaux pendant les orages.",
+              "Attention aux pierres glissantes sur les sentiers de randonnée."
             ]
           }
         },
@@ -677,7 +735,8 @@
             "de": "Ein verschneiter Morgen an der Kirche, deren Architektur wie ein Eiskristall wirkt. Mittags wärmen wir uns im Museum bei lokaler Geschichte auf. Nachmittags genießen wir die Wintersonne am Palais des Sports. Der Abend bricht früh über den Ruinen von Brandes herein und taucht die 21 Kehren in blaues Licht.",
             "hu": "Havas reggel a templomnál, melynek formája jégkristályra emlékeztet. Délben a múzeumban melegszünk fel a helyi történeteket hallgatva. Délután a téli napsütést élvezzük a Palais des Sports környékén. Az este korán érkezik Brandes romjaihoz, kék fénybe vonva a 21 kanyart.",
             "ro": "O dimineață înzăpezită la biserică, a cărei formă amintește de un cristal de gheață. La prânz ne încălzim în muzeu cu istoria locală. După-amiaza ne bucurăm de soarele de iarnă la Palais des Sports. Seara vine devreme peste ruinele din Brandes, luminând curbele.",
-            "en": "A snowy morning at the church, which looks like an ice crystal. At noon, we warm up in the museum with local history. In the afternoon, we enjoy the winter sun near the Palais des Sports. Evening falls early over the Brandes ruins, casting a blue light on the 21 bends."
+            "en": "A snowy morning at the church, which looks like an ice crystal. At noon, we warm up in the museum with local history. In the afternoon, we enjoy the winter sun near the Palais des Sports. Evening falls early over the Brandes ruins, casting a blue light on the 21 bends.",
+            "fr": "Matinée enneigée à l'église, qui ressemble à un cristal de glace. À midi, nous nous réchauffons au musée avec l'histoire locale. L'après-midi, nous profitons du soleil d'hiver près du Palais des Sports. Le soir tombe tôt sur les ruines de Brandes, jetant une lumière bleue sur les 21 virages."
           },
           "stops": [
             {
@@ -686,7 +745,8 @@
                 "de": "Wunderschön im Schnee, innen ist es angenehm warm.",
                 "hu": "Gyönyörű a hóban, belül kellemes meleg vár.",
                 "ro": "Frumoasă în zăpadă, interiorul este plăcut încălzit.",
-                "en": "Beautiful in the snow, the interior is pleasantly warm."
+                "en": "Beautiful in the snow, the interior is pleasantly warm.",
+                "fr": "Magnifique sous la neige, l'intérieur est agréablement chaud."
               }
             },
             {
@@ -695,7 +755,8 @@
                 "de": "Ein gemütlicher Ort zum Aufwärmen zwischen den Stopps.",
                 "hu": "Kellemes hely a felmelegedésre a megállók között.",
                 "ro": "Un loc primitor pentru a te încălzi între opriri.",
-                "en": "A cozy place to warm up between stops."
+                "en": "A cozy place to warm up between stops.",
+                "fr": "Un endroit confortable pour se réchauffer entre deux arrêts."
               }
             },
             {
@@ -704,7 +765,8 @@
                 "de": "Besuchen Sie die Eisbahn für echtes Winterfeeling.",
                 "hu": "Látogasson el a jégpályára az igazi téli élményért.",
                 "ro": "Vizitați patinoarul pentru o experiență autentică de iarnă.",
-                "en": "Visit the ice rink for a true winter feeling."
+                "en": "Visit the ice rink for a true winter feeling.",
+                "fr": "Visitez la patinoire pour une véritable ambiance hivernale."
               }
             },
             {
@@ -713,7 +775,8 @@
                 "de": "Vorsicht vor Glatteis auf dem Vorplatz.",
                 "hu": "Vigyázzon a jegesedésre az emlékmű előtt.",
                 "ro": "Atenție la polei pe platforma din față.",
-                "en": "Watch out for black ice on the plaza."
+                "en": "Watch out for black ice on the plaza.",
+                "fr": "Attention au verglas sur la place."
               }
             },
             {
@@ -722,7 +785,8 @@
                 "de": "Schneeschuhe sind bei tiefem Schnee empfehlenswert.",
                 "hu": "Mély hó esetén hótalphasználat javasolt.",
                 "ro": "Rachetele de zăpadă sunt recomandate în zăpadă mare.",
-                "en": "Snowshoes recommended if the snow is deep."
+                "en": "Snowshoes recommended if the snow is deep.",
+                "fr": "Raquettes recommandées si la neige est profonde."
               }
             },
             {
@@ -731,7 +795,8 @@
                 "de": "Der Sonnenuntergang um 17:00 Uhr ist spektakulär.",
                 "hu": "A naplemente 17:00-kor lenyűgöző látvány innen.",
                 "ro": "Apusul de la ora 17:00 este spectaculos de aici.",
-                "en": "The sunset at 17:00 is spectacular from here."
+                "en": "The sunset at 17:00 is spectacular from here.",
+                "fr": "Le coucher du soleil à 17h00 est spectaculaire d'ici."
               }
             }
           ],
@@ -759,6 +824,12 @@
               "The sun sets around 17:00 behind the mountains.",
               "Some walking paths may be closed in winter.",
               "Enjoy a hot chocolate in the village center."
+            ],
+            "fr": [
+              "Portez des vêtements thermiques et des bottes antidérapantes.",
+              "Le soleil se couche vers 17h00 derrière les montagnes.",
+              "Certains sentiers de randonnée peuvent être fermés en hiver.",
+              "Dégustez un chocolat chaud dans le centre du village."
             ]
           }
         }
@@ -793,7 +864,8 @@
             "de": "Jede Kehre ist einem Tour-Sieger gewidmet.",
             "hu": "Minden kanyart egy-egy Tour-győztesnek szenteltek.",
             "ro": "Fiecare curbă este dedicată unui câștigător de etapă.",
-            "en": "Each bend is dedicated to a Tour winner."
+            "en": "Each bend is dedicated to a Tour winner.",
+            "fr": "Chaque virage est dédié à un vainqueur du Tour."
           }
         },
         {
@@ -817,7 +889,8 @@
             "de": "Stellen Sie Ihr Rad sicher am Eingang ab.",
             "hu": "Parkolja le biztonságosan a kerékpárját a bejáratnál.",
             "ro": "Parcați bicicleta în siguranță la intrare.",
-            "en": "Park your bike safely at the entrance."
+            "en": "Park your bike safely at the entrance.",
+            "fr": "Garez votre vélo en toute sécurité à l'entrée."
           }
         },
         {
@@ -841,7 +914,8 @@
             "de": "Anstrengender Aufstieg, aber die Aussicht lohnt sich.",
             "hu": "Fárasztó emelkedő, de a kilátás megéri.",
             "ro": "Urcare solicitantă, dar priveliștea merită.",
-            "en": "Strenuous climb, but the view is worth it."
+            "en": "Strenuous climb, but the view is worth it.",
+            "fr": "Montée épuisante, mais la vue en vaut la peine."
           }
         },
         {
@@ -865,7 +939,8 @@
             "de": "Wunderschöne Abfahrt durch wilde Natur.",
             "hu": "Gyönyörű lejtő a vad természeten keresztül.",
             "ro": "O coborâre superbă prin natura sălbatică.",
-            "en": "Beautiful descent through wild nature."
+            "en": "Beautiful descent through wild nature.",
+            "fr": "Magnifique descente à travers une nature sauvage."
           }
         },
         {
@@ -889,7 +964,8 @@
             "de": "Kurzer Stopp vor der Rückkehr ins Zentrum.",
             "hu": "Rövid megálló a központba való visszatérés előtt.",
             "ro": "O scurtă oprire înainte de întoarcerea în centru.",
-            "en": "A short stop before returning to the center."
+            "en": "A short stop before returning to the center.",
+            "fr": "Un court arrêt avant de retourner au centre."
           }
         }
       ],
@@ -897,7 +973,8 @@
         "de": "Für Radsportbegeisterte beginnt der Tag mit den legendären 21 Kehren. Nach einer kurzen Besinnung in der Bergkirche führt die Route hinauf zum Lac Blanc, einem kristallklaren Bergsee.\n\nDie Mittagspause verbringen Sie am Seeufer, bevor Sie durch die beeindruckende Sarenne-Schlucht abfahren. Ein kurzer Halt an der mittelalterlichen Fundstätte Brandes rundet Ihre sportliche Tour durch die Alpen ab.",
         "hu": "A kerékpározás szerelmeseinek a nap a legendás 21 kanyarral kezdődik. A hegyi templomban tett rövid látogatás után az út a Lac Blanc-hoz, egy kristálytiszta tengerszemhez vezet.\n\nAebédszünetet a tóparton töltse, majd ereszkedjen le a lenyűgöző Sarenne-szurdokon keresztül. Egy rövid megálló a középkori Brandes lelőhelyén zárja az alpesi sporttúrát.",
         "ro": "Pentru pasionații de ciclism, ziua începe cu cele 21 de curbe legendare. După o scurtă vizită la biserica de munte, traseul urcă spre Lac Blanc, un lac montan de cristal.\n\nPetreceți pauza de prânz pe malul lacului înainte de a coborî prin impresionantele Chei Sarenne. O scurtă oprire la situl medieval Brandes completează turul sportiv prin Alpi.",
-        "en": "For cycling enthusiasts, the day starts with the legendary 21 bends. After a brief visit to the mountain church, the route climbs to Lac Blanc, a crystal-clear mountain lake.\n\nSpend your lunch break by the lakeshore before descending through the impressive Sarenne Gorge. A short stop at the medieval site of Brandes rounds off your sporting tour through the Alps."
+        "en": "For cycling enthusiasts, the day starts with the legendary 21 bends. After a brief visit to the mountain church, the route climbs to Lac Blanc, a crystal-clear mountain lake.\n\nSpend your lunch break by the lakeshore before descending through the impressive Sarenne Gorge. A short stop at the medieval site of Brandes rounds off your sporting tour through the Alps.",
+        "fr": "Pour les passionnés de cyclisme, la journée commence par les légendaires 21 virages. Après une courte visite de l'église de montagne, l'itinéraire grimpe jusqu'au Lac Blanc, un lac de montagne aux eaux cristallines.\n\nPassez votre pause déjeuner au bord du lac avant de descendre par les impressionnantes Gorges de la Sarenne. Un court arrêt sur le site médiéval de Brandes clôture votre tour sportif dans les Alpes."
       },
       "gastro_picks": {
         "de": [
@@ -938,6 +1015,16 @@
           {
             "name": "Tarte aux Myrtilles",
             "tip": "Fresh blueberry tart as a reward after the climb."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Barre énergétique alpine",
+            "tip": "Barres énergétiques artisanales dans les boulangeries locales."
+          },
+          {
+            "name": "Tarte aux Myrtilles",
+            "tip": "Une tarte aux myrtilles fraîches en récompense après la montée."
           }
         ]
       },
@@ -989,6 +1076,18 @@
             "tip": "Perfect for a quiet break by the water.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Col de Sarenne",
+            "tip": "Beaucoup plus calme que la montée principale vers Huez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rives du Lac Blanc",
+            "tip": "Parfait pour une pause tranquille au bord de l'eau.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1031,6 +1130,16 @@
             "name": "L'Alpe de Fromage",
             "tip": "Cheese directly from the producer for the picnic."
           }
+        ],
+        "fr": [
+          {
+            "name": "Cycles Et Sports",
+            "tip": "Tout pour le cycliste professionnel."
+          },
+          {
+            "name": "L'Alpe de Fromage",
+            "tip": "Fromage en direct du producteur pour le pique-nique."
+          }
         ]
       },
       "tips": {
@@ -1057,6 +1166,12 @@
           "Take enough water, there are few fountains along the way.",
           "E-bikes can be rented in the center.",
           "Pay attention to the weather, thunderstorms roll in quickly."
+        ],
+        "fr": [
+          "Vérifiez vos freins avant la descente des Gorges de la Sarenne.",
+          "Prenez assez d'eau, il y a peu de fontaines en chemin.",
+          "Des vélos électriques peuvent être loués dans le centre.",
+          "Faites attention à la météo, les orages arrivent vite."
         ]
       },
       "variants": {
@@ -1305,7 +1420,8 @@
             "de": "Regnerische Auffahrt über die 21 Kehren, der Asphalt ist rutschig. Kurze Rast an der Kirche zum Trocknen. Mittags kämpfen wir uns zum Lac Blanc hoch, wo der Regen in Graupel übergehen kann. Der Nachmittag in der Sarenne-Schlucht ist nass, aber wild. Abends Rückkehr zur Basis mit viel Schlamm am Rad.",
             "hu": "Esős felfelé menet a 21 kanyaron, az aszfalt csúszik. Rövid pihenő a templomnál száradni. Délben felküzdjük magunkat a Lac Blanc-hoz, ahol az eső havas esőbe válthat. A délután a Sarenne-szurdokban nedves, de vadregényes. Este sárosan érünk vissza a bázisra.",
             "ro": "Urcare ploioasă pe cele 21 de curbe, asfaltul este alunecos. Scurt popas la biserică pentru uscare. La prânz urcăm spre Lac Blanc, unde ploaia se poate transforma în lapoviță. După-amiaza în Cheile Sarenne este umedă și sălbatică. Seara revenim la bază plini de noroi.",
-            "en": "Rainy climb up the 21 bends, the asphalt is slippery. Short rest at the church to dry off. At noon, we push up to Lac Blanc where rain can turn into sleet. The afternoon in Sarenne Gorge is wet and wild. Evening return to base with plenty of mud on the bike."
+            "en": "Rainy climb up the 21 bends, the asphalt is slippery. Short rest at the church to dry off. At noon, we push up to Lac Blanc where rain can turn into sleet. The afternoon in Sarenne Gorge is wet and wild. Evening return to base with plenty of mud on the bike.",
+            "fr": "Montée pluvieuse des 21 virages, l'asphalte est glissant. Court repos à l'église pour se sécher. À midi, nous poussons jusqu'au Lac Blanc où la pluie peut se transformer en neige fondue. L'après-midi dans les Gorges de la Sarenne est humide et sauvage. Retour le soir avec beaucoup de boue sur le vélo."
           },
           "stops": [
             {
@@ -1314,7 +1430,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Asphalt.",
                 "hu": "Vigyázzon a fékezéssel a nedves aszfalton.",
                 "ro": "Atenție la frânare pe asfaltul ud.",
-                "en": "Be careful when braking on wet asphalt."
+                "en": "Be careful when braking on wet asphalt.",
+                "fr": "Soyez prudent lors du freinage sur asphalte mouillé."
               }
             },
             {
@@ -1323,7 +1440,8 @@
                 "de": "Guter Unterstand für eine kurze Regenpause.",
                 "hu": "Jó menedék egy rövid esőszünetre.",
                 "ro": "Adăpost bun pentru o scurtă pauză de ploaie.",
-                "en": "Good shelter for a quick rain break."
+                "en": "Good shelter for a quick rain break.",
+                "fr": "Bon abri pour une pause rapide sous la pluie."
               }
             },
             {
@@ -1332,7 +1450,8 @@
                 "de": "Harte Bedingungen oben, warme Schichten nötig.",
                 "hu": "Kemény körülmények fent, meleg rétegek kellenek.",
                 "ro": "Condiții dure sus, aveți nevoie de straturi calde.",
-                "en": "Harsh conditions at the top, warm layers needed."
+                "en": "Harsh conditions at the top, warm layers needed.",
+                "fr": "Conditions rudes au sommet, couches chaudes nécessaires."
               }
             },
             {
@@ -1341,7 +1460,8 @@
                 "de": "Schlammige Passagen, Mountainbike empfohlen.",
                 "hu": "Saras szakaszok, hegyi kerékpár ajánlott.",
                 "ro": "Pasaje noroioase, se recomandă mountain bike.",
-                "en": "Muddy sections, mountain bike recommended."
+                "en": "Muddy sections, mountain bike recommended.",
+                "fr": "Sections boueuses, VTT recommandé."
               }
             },
             {
@@ -1350,7 +1470,8 @@
                 "de": "Die Wiesenwege sind bei Regen sehr rutschig.",
                 "hu": "A füves utak esőben nagyon csúszósak.",
                 "ro": "Potecile cu iarbă sunt foarte alunecoase pe ploaie.",
-                "en": "Grassy paths are very slippery in the rain."
+                "en": "Grassy paths are very slippery in the rain.",
+                "fr": "Les sentiers herbeux sont très glissants sous la pluie."
               }
             }
           ],
@@ -1378,6 +1499,12 @@
               "Reduce tire pressure for better grip.",
               "Disc brakes are safer in wet conditions.",
               "Pack your belongings in waterproof bags."
+            ],
+            "fr": [
+              "Utilisez des garde-boue pour rester plus sec.",
+              "Réduisez la pression des pneus pour une meilleure adhérence.",
+              "Les freins à disque sont plus sûrs par temps mouillé.",
+              "Rangez vos affaires dans des sacs étanches."
             ]
           }
         },
@@ -1386,7 +1513,8 @@
             "de": "Start in der Kälte bei den 21 Kehren, Fatbike empfohlen. Ein kurzer Stopp an der Kirche zum Aufwärmen. Mittags ist die Auffahrt zum Lac Blanc eine echte Herausforderung im Schnee. Nachmittags erkunden wir die vereiste Sarenne-Schlucht. Der Tag endet bei Sonnenuntergang an den Ruinen von Brandes.",
             "hu": "Hideg rajt a 21 kanyarnál, fatbike ajánlott. Rövid megálló a templomnál melegedni. Délben a Lac Blanc-hoz vezető út igazi kihívás a hóban. Délután a jeges Sarenne-szurdokot fedezzük fel. A nap naplementekor ér véget Brandes romjainál.",
             "ro": "Start în frig la cele 21 de curbe, se recomandă fatbike. Scurt popas la biserică pentru încălzire. La prânz, urcarea spre Lac Blanc e o provocare în zăpadă. După-amiaza explorăm Cheile Sarenne înghețate. Ziua se termină la apus la ruinele din Brandes.",
-            "en": "Cold start at the 21 bends, fatbike recommended. A short stop at the church to warm up. At noon, the climb to Lac Blanc is a real challenge in the snow. Afternoon spent exploring the icy Sarenne Gorge. The day ends at sunset by the Brandes ruins."
+            "en": "Cold start at the 21 bends, fatbike recommended. A short stop at the church to warm up. At noon, the climb to Lac Blanc is a real challenge in the snow. Afternoon spent exploring the icy Sarenne Gorge. The day ends at sunset by the Brandes ruins.",
+            "fr": "Départ glacial aux 21 virages, fatbike recommandé. Un court arrêt à l'église pour se réchauffer. À midi, la montée au Lac Blanc est un vrai défi dans la neige. Après-midi à explorer les Gorges de la Sarenne glacées. La journée se termine au coucher du soleil près des ruines de Brandes."
           },
           "stops": [
             {
@@ -1395,7 +1523,8 @@
                 "de": "Vorsicht vor Eisplatten im Schatten der Felsen.",
                 "hu": "Vigyázzon a jégfoltokra a sziklák árnyékában.",
                 "ro": "Atenție la porțiunile înghețate la umbra stâncilor.",
-                "en": "Watch out for ice patches in the shadows."
+                "en": "Watch out for ice patches in the shadows.",
+                "fr": "Attention aux plaques de glace dans les zones d'ombre."
               }
             },
             {
@@ -1404,7 +1533,8 @@
                 "de": "Ein warmer Ort für eine kurze Verschnaufpause.",
                 "hu": "Meleg hely egy rövid kifújásra.",
                 "ro": "Un loc cald pentru o scurtă pauză de respirație.",
-                "en": "A warm place for a short breather."
+                "en": "A warm place for a short breather.",
+                "fr": "Un endroit chaud pour un court répit."
               }
             },
             {
@@ -1413,7 +1543,8 @@
                 "de": "Nur mit Spikereifen oder Fatbike erreichbar.",
                 "hu": "Csak szöges gumival vagy fatbike-kal elérhető.",
                 "ro": "Accesibil doar cu anvelope cu ținte sau fatbike.",
-                "en": "Only accessible with studded tires or fatbike."
+                "en": "Only accessible with studded tires or fatbike.",
+                "fr": "Accessible uniquement en pneus cloutés ou en fatbike."
               }
             },
             {
@@ -1422,7 +1553,8 @@
                 "de": "Die Abfahrt kann extrem kalt und windig sein.",
                 "hu": "A lefelé menet rendkívül hideg és szeles lehet.",
                 "ro": "Coborârea poate fi extrem de rece și vântoasă.",
-                "en": "The descent can be extremely cold and windy."
+                "en": "The descent can be extremely cold and windy.",
+                "fr": "La descente peut être extrêmement froide et venteuse."
               }
             },
             {
@@ -1431,7 +1563,8 @@
                 "de": "Kurzer Stopp vor dem frühen Sonnenuntergang.",
                 "hu": "Rövid megálló a korai naplemente előtt.",
                 "ro": "Scurtă oprire înainte de apusul devreme.",
-                "en": "Short stop before the early sunset."
+                "en": "Short stop before the early sunset.",
+                "fr": "Court arrêt avant le coucher du soleil précoce."
               }
             }
           ],
@@ -1459,6 +1592,12 @@
               "Winter gloves and shoe covers are vital.",
               "Batteries drain significantly faster in the cold.",
               "Plan your return before 17:00."
+            ],
+            "fr": [
+              "Utilisez des pneus larges pour une meilleure stabilité dans la neige.",
+              "Les gants d'hiver et les surchaussures sont essentiels.",
+              "Les batteries se vident beaucoup plus vite avec le froid.",
+              "Prévoyez votre retour avant 17h00."
             ]
           }
         }
@@ -1493,7 +1632,8 @@
             "de": "Fahren Sie mit der Seilbahn zum Gipfel.",
             "hu": "Menjen fel felvonóval a csúcsra.",
             "ro": "Luați telecabina până la vârf.",
-            "en": "Take the cable car to the summit."
+            "en": "Take the cable car to the summit.",
+            "fr": "Prenez le téléphérique jusqu'au sommet."
           }
         },
         {
@@ -1517,7 +1657,8 @@
             "de": "Bewundern Sie die Eisskulpturen im Gletscher.",
             "hu": "Csodálja meg a jégszobrokat a gleccserben.",
             "ro": "Admirați sculpturile în gheață din ghețar.",
-            "en": "Admire the ice sculptures inside the glacier."
+            "en": "Admire the ice sculptures inside the glacier.",
+            "fr": "Admirez les sculptures de glace à l'intérieur du glacier."
           }
         },
         {
@@ -1541,7 +1682,8 @@
             "de": "Parken Sie an der Station DMC 1800.",
             "hu": "Parkoljon a DMC 1800 állomásnál.",
             "ro": "Parcați la stația DMC 1800.",
-            "en": "Park at the DMC 1800 station."
+            "en": "Park at the DMC 1800 station.",
+            "fr": "Garez-vous à la station DMC 1800."
           }
         },
         {
@@ -1565,7 +1707,8 @@
             "de": "Die schmale Straße erfordert volle Konzentration.",
             "hu": "A keskeny út teljes koncentrációt igényel.",
             "ro": "Drumul îngust necesită concentrare maximă.",
-            "en": "The narrow road requires full concentration."
+            "en": "The narrow road requires full concentration.",
+            "fr": "La route étroite demande une concentration totale."
           }
         },
         {
@@ -1589,7 +1732,8 @@
             "de": "Parken Sie im Dorfzentrum.",
             "hu": "Parkoljon a falu központjában.",
             "ro": "Parcați în centrul satului.",
-            "en": "Park in the village center."
+            "en": "Park in the village center.",
+            "fr": "Garez-vous au centre du village."
           }
         }
       ],
@@ -1597,7 +1741,8 @@
         "de": "Mit dem Auto erreichen Sie die spektakulärsten Aussichtspunkte. Starten Sie mit der Auffahrt zum Pic Blanc auf über 3300 Metern für ein 360-Grad-Panorama. Direkt daneben wartet die magische Eishöhle im Gletscher.\n\nMittags entspannen Sie am Lac Blanc, bevor Sie die abenteuerliche Fahrt durch die Sarenne-Schlucht antreten. Zum Abschluss des Tages besuchen Sie die moderne Kirche im Ortskern von Alpe d'Huez.",
         "hu": "Autóval a leglátványosabb kilátópontokat is elérheti. Kezdje a Pic Blanc felé vezető úttal 3300 méter felett a 360 fokos panorámáért. Közvetlenül mellette várja a gleccserben kialakított mágikus jégbarlang.\n\nDélben lazítson a Lac Blanc-nál, majd induljon el a kalandos úton a Sarenne-szurdokon keresztül. A nap zárásaként látogasson el Alpe d'Huez központjának modern templomába.",
         "ro": "Cu mașina puteți ajunge la cele mai spectaculoase puncte de belvedere. Începeți cu urcarea la Pic Blanc, la peste 3300 de metri, pentru o panoramă de 360 de grade. Chiar lângă se află magica peșteră de gheață din ghețar.\n\nLa prânz, relaxați-vă la Lac Blanc înainte de a porni pe drumul aventuros prin Cheile Sarenne. La finalul zilei, vizitați biserica modernă din centrul stațiunii Alpe d'Huez.",
-        "en": "By car, you can reach the most spectacular viewpoints. Start with the ascent to Pic Blanc at over 3300 meters for a 360-degree panorama. Right next to it awaits the magical ice cave inside the glacier.\n\nAt noon, relax at Lac Blanc before embarking on the adventurous drive through the Sarenne Gorge. To end the day, visit the modern church in the heart of Alpe d'Huez."
+        "en": "By car, you can reach the most spectacular viewpoints. Start with the ascent to Pic Blanc at over 3300 meters for a 360-degree panorama. Right next to it awaits the magical ice cave inside the glacier.\n\nAt noon, relax at Lac Blanc before embarking on the adventurous drive through the Sarenne Gorge. To end the day, visit the modern church in the heart of Alpe d'Huez.",
+        "fr": "En voiture, vous pouvez atteindre les points de vue les plus spectaculaires. Commencez par l'ascension au Pic Blanc à plus de 3300 mètres pour un panorama à 360 degrés. Juste à côté vous attend la grotte de glace magique à l'intérieur du glacier.\n\nÀ midi, détendez-vous au Lac Blanc avant d'entamer la route aventureuse à travers les Gorges de la Sarenne. Pour finir la journée, visitez l'église moderne au cœur de l'Alpe d'Huez."
       },
       "gastro_picks": {
         "de": [
@@ -1638,6 +1783,16 @@
           {
             "name": "Le Signal Restaurant",
             "tip": "Panoramic restaurant with excellent cuisine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Crozets de Savoie",
+            "tip": "Petites pâtes carrées, souvent gratinées au fromage."
+          },
+          {
+            "name": "Restaurant Le Signal",
+            "tip": "Restaurant panoramique avec une excellente cuisine."
           }
         ]
       },
@@ -1689,6 +1844,18 @@
             "tip": "Almost deserted early in the morning.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Sommet du Pic Blanc",
+            "tip": "Profitez du silence au-dessus des nuages.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac Blanc",
+            "tip": "Presque désert tôt le matin.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1731,6 +1898,16 @@
             "name": "La Boite à Skis",
             "tip": "High-quality outdoor apparel."
           }
+        ],
+        "fr": [
+          {
+            "name": "Sherpa Supermarché",
+            "tip": "Produits locaux comme le miel et la charcuterie."
+          },
+          {
+            "name": "La Boite à Skis",
+            "tip": "Vêtements de plein air de haute qualité."
+          }
         ]
       },
       "tips": {
@@ -1757,6 +1934,12 @@
           "In summer, prefer parking in the multi-story car parks.",
           "Four-wheel drive is recommended for secondary routes.",
           "Check for road closures due to sporting events."
+        ],
+        "fr": [
+          "La route du Pic Blanc nécessite de bonnes compétences de conduite.",
+          "En été, préférez le stationnement dans les parkings couverts.",
+          "Le quatre roues motrices est recommandé pour les itinéraires secondaires.",
+          "Vérifiez les fermetures de routes dues aux événements sportifs."
         ]
       },
       "variants": {
@@ -2005,7 +2188,8 @@
             "de": "Fahrt zum Pic Blanc, oben herrscht oft dichter Nebel. Mittags besuchen wir die Eishöhle, die unter dem Gletscher Schutz bietet. Später geht es zum Lac Blanc, die Sicht ist durch Wolken eingeschränkt. Nachmittags Fahrt durch die nasse Sarenne-Schlucht. Der Tag endet an der Kirche im Dorf.",
             "hu": "Autózás a Pic Blanc-hoz, fent gyakran sűrű a köd. Délben a jégbarlangot látogatjuk meg, ami a gleccser alatt nyújt védelmet. Később a Lac Blanc következik, a kilátást korlátozzák a felhők. Délután a nedves Sarenne-szurdokon hajtunk át. A nap a falu templománál zárul.",
             "ro": "Drum spre Pic Blanc, sus este adesea ceață densă. La prânz vizităm peștera de gheață, care oferă adăpost sub ghețar. Mai târziu mergem la Lac Blanc, vizibilitatea e limitată. După-amiaza conducem prin Cheile Sarenne umede. Ziua se încheie la biserică.",
-            "en": "Drive to Pic Blanc, often dense fog at the top. At noon, we visit the ice cave, offering shelter under the glacier. Later to Lac Blanc, views limited by clouds. Afternoon drive through the wet Sarenne Gorge. The day ends at the church in the village."
+            "en": "Drive to Pic Blanc, often dense fog at the top. At noon, we visit the ice cave, offering shelter under the glacier. Later to Lac Blanc, views limited by clouds. Afternoon drive through the wet Sarenne Gorge. The day ends at the church in the village.",
+            "fr": "Route vers le Pic Blanc, souvent dans un brouillard épais au sommet. À midi, nous visitons la grotte de glace, offrant un abri sous le glacier. Plus tard au Lac Blanc, la vue est limitée par les nuages. Après-midi sur la route humide des Gorges de la Sarenne. La journée se termine à l'église du village."
           },
           "stops": [
             {
@@ -2014,7 +2198,8 @@
                 "de": "Bei starkem Wind und Nebel kann die Sicht Null sein.",
                 "hu": "Erős szélben és ködben a látótávolság nulla lehet.",
                 "ro": "În vânt puternic și ceață, vizibilitatea poate fi zero.",
-                "en": "Visibility can be zero in strong wind and fog."
+                "en": "Visibility can be zero in strong wind and fog.",
+                "fr": "La visibilité peut être nulle par vent fort et brouillard."
               }
             },
             {
@@ -2023,7 +2208,8 @@
                 "de": "Ein faszinierender Ort, der völlig wetterunabhängig ist.",
                 "hu": "Lenyűgöző hely, teljesen független az időjárástól.",
                 "ro": "Un loc fascinant, complet independent de vreme.",
-                "en": "A fascinating place, completely weather-independent."
+                "en": "A fascinating place, completely weather-independent.",
+                "fr": "Un lieu fascinant, totalement indépendant de la météo."
               }
             },
             {
@@ -2032,7 +2218,8 @@
                 "de": "Parken Sie vorsichtig auf dem aufgeweichten Boden.",
                 "hu": "Parkoljon óvatosan a felázott talajon.",
                 "ro": "Parcați cu atenție pe terenul moale.",
-                "en": "Park carefully on the softened ground."
+                "en": "Park carefully on the softened ground.",
+                "fr": "Garez-vous prudemment sur les sols meubles."
               }
             },
             {
@@ -2041,7 +2228,8 @@
                 "de": "Vorsicht vor Steinschlag bei starkem Regen.",
                 "hu": "Vigyázzon a kőomlásra erős esőzés idején.",
                 "ro": "Atenție la căderile de pietre pe ploaie torențială.",
-                "en": "Watch out for rockfalls during heavy rain."
+                "en": "Watch out for rockfalls during heavy rain.",
+                "fr": "Attention aux chutes de pierres pendant les fortes pluies."
               }
             },
             {
@@ -2050,7 +2238,8 @@
                 "de": "Bequem erreichbar direkt am Straßenrand.",
                 "hu": "Kényelmesen elérhető közvetlenül az út mellett.",
                 "ro": "Accesibilă ușor direct de la marginea drumului.",
-                "en": "Easily accessible right by the roadside."
+                "en": "Easily accessible right by the roadside.",
+                "fr": "Facilement accessible juste au bord de la route."
               }
             }
           ],
@@ -2078,6 +2267,12 @@
               "Gorge roads are narrow and slippery.",
               "Check if cable cars run in windy conditions.",
               "Keep distance from road edges."
+            ],
+            "fr": [
+              "Allumez vos feux de croisement en cas de brouillard.",
+              "Les routes des gorges sont étroites et glissantes.",
+              "Vérifiez si les téléphériques fonctionnent par grand vent.",
+              "Restez à distance du bord de la route."
             ]
           }
         },
@@ -2086,7 +2281,8 @@
             "de": "Auffahrt zum Pic Blanc, der Blick auf die verschneiten Alpen ist gewaltig. Mittags erkunden wir die Eishöhle tief im Gletscher. Danach geht es zum Lac Blanc, der komplett zugefroren ist. Nachmittags Panoramafahrt durch die Sarenne-Schlucht. Der Tag endet bei einbrechender Dunkelheit an der beleuchteten Kirche.",
             "hu": "Felmenetel a Pic Blanc-hoz, a kilátás a havas Alpokra hatalmas. Délben a gleccser mélyén lévő jégbarlangot fedezzük fel. Ezután a Lac Blanc következik, mely teljesen be van fagyva. Délután panorámaút a Sarenne-szurdokon át. A nap sötétedéskor zárul a kivilágított templomnál.",
             "ro": "Urcare la Pic Blanc, vederea spre Alpii înzăpeziți este uriașă. La prânz explorăm peștera de gheață din ghețar. Apoi mergem la Lac Blanc, care este complet înghețat. După-amiaza, drum panoramic prin Cheile Sarenne. Ziua se încheie la biserica iluminată.",
-            "en": "Climb to Pic Blanc, the view of the snowy Alps is massive. At noon, we explore the ice cave deep in the glacier. Then to Lac Blanc, which is completely frozen. Afternoon panoramic drive through Sarenne Gorge. The day ends at dusk at the illuminated church."
+            "en": "Climb to Pic Blanc, the view of the snowy Alps is massive. At noon, we explore the ice cave deep in the glacier. Then to Lac Blanc, which is completely frozen. Afternoon panoramic drive through Sarenne Gorge. The day ends at dusk at the illuminated church.",
+            "fr": "Montée au Pic Blanc, la vue sur les Alpes enneigées est immense. À midi, nous explorons la grotte de glace au cœur du glacier. Puis direction le Lac Blanc, complètement gelé. Après-midi panoramique à travers les Gorges de la Sarenne. La journée se termine au crépuscule devant l'église illuminée."
           },
           "stops": [
             {
@@ -2095,7 +2291,8 @@
                 "de": "Extrem kalt, warme Winterbekleidung ist nötig.",
                 "hu": "Rendkívül hideg, meleg téli ruházat szükséges.",
                 "ro": "Extrem de frig, este necesară îmbrăcăminte groasă.",
-                "en": "Extremely cold, warm winter clothing is necessary."
+                "en": "Extremely cold, warm winter clothing is necessary.",
+                "fr": "Extrêmement froid, des vêtements d'hiver chauds sont nécessaires."
               }
             },
             {
@@ -2104,7 +2301,8 @@
                 "de": "Konstante Temperaturen, aber glatter Boden.",
                 "hu": "Állandó hőmérséklet, de csúszós talaj.",
                 "ro": "Temperaturi constante, dar podea alunecoasă.",
-                "en": "Constant temperatures but slippery floor."
+                "en": "Constant temperatures but slippery floor.",
+                "fr": "Températures constantes mais sol glissant."
               }
             },
             {
@@ -2113,7 +2311,8 @@
                 "de": "Wunderschönes Fotomotiv im Winterkleid.",
                 "hu": "Gyönyörű fotótéma téli ruhában.",
                 "ro": "Subiect foto superb în haine de iarnă.",
-                "en": "Beautiful photo subject in winter dress."
+                "en": "Beautiful photo subject in winter dress.",
+                "fr": "Sujet photo magnifique dans son manteau d'hiver."
               }
             },
             {
@@ -2122,7 +2321,8 @@
                 "de": "Straßenzustand prüfen, Schneeketten mitführen.",
                 "hu": "Ellenőrizze az útviszonyokat, vigyen hóláncot.",
                 "ro": "Verificați drumul, purtați lanțuri de zăpadă.",
-                "en": "Check road conditions, carry snow chains."
+                "en": "Check road conditions, carry snow chains.",
+                "fr": "Vérifiez l'état des routes, emportez des chaînes."
               }
             },
             {
@@ -2131,7 +2331,8 @@
                 "de": "Abends festlich beleuchtet und sehr fotogen.",
                 "hu": "Este ünnepien kivilágítva és nagyon fotogén.",
                 "ro": "Seara este iluminată festiv și foarte fotogenică.",
-                "en": "Festively lit in the evening and very photogenic."
+                "en": "Festively lit in the evening and very photogenic.",
+                "fr": "Festivement illuminée le soir et très photogénique."
               }
             }
           ],
@@ -2159,6 +2360,12 @@
               "Avoid driving in the gorge during snowstorms.",
               "The sun disappears early behind the peaks.",
               "Keep your windshield washer fluid frost-free."
+            ],
+            "fr": [
+              "Les pneus hiver et les chaînes sont légalement obligatoires.",
+              "Évitez de conduire dans les gorges pendant les tempêtes de neige.",
+              "Le soleil disparaît tôt derrière les sommets.",
+              "Utilisez un liquide lave-glace antigel."
             ]
           }
         }
@@ -2193,7 +2400,8 @@
             "de": "Haltestelle 'Office de Tourisme' nutzen.",
             "hu": "Használja az 'Office de Tourisme' megállót.",
             "ro": "Folosiți stația 'Office de Tourisme'.",
-            "en": "Use the 'Office de Tourisme' stop."
+            "en": "Use the 'Office de Tourisme' stop.",
+            "fr": "Utilisez l'arrêt 'Office de Tourisme'."
           }
         },
         {
@@ -2217,7 +2425,8 @@
             "de": "Zentraler Knotenpunkt der Pendelbusse.",
             "hu": "A transzferbuszok központi csomópontja.",
             "ro": "Nod central pentru autobuzele de transfer.",
-            "en": "Central hub for shuttle buses."
+            "en": "Central hub for shuttle buses.",
+            "fr": "Plataforme centrale pour les navettes."
           }
         },
         {
@@ -2241,7 +2450,8 @@
             "de": "Eintritt oft im 'Pass Alpe' enthalten.",
             "hu": "A belépő gyakran benne van a 'Pass Alpe' kártyában.",
             "ro": "Intrarea este adesea inclusă în 'Pass Alpe'.",
-            "en": "Admission is often included in the 'Pass Alpe'."
+            "en": "Admission is often included in the 'Pass Alpe'.",
+            "fr": "L'entrée est souvent incluse dans le 'Pass Alpe'."
           }
         },
         {
@@ -2265,7 +2475,8 @@
             "de": "Die Telecentre-Bahn verbindet die Ortsteile.",
             "hu": "A Telecentre felvonó összeköti a falu részeit.",
             "ro": "Telecabina Telecentre leagă cartierele.",
-            "en": "The Telecentre lift connects the village districts."
+            "en": "The Telecentre lift connects the village districts.",
+            "fr": "L'ascenseur Télécentre relie les quartiers du village."
           }
         },
         {
@@ -2289,7 +2500,8 @@
             "de": "In der Nähe der Haltestelle 'Place de Cognet'.",
             "hu": "A 'Place de Cognet' megálló közelében.",
             "ro": "Lângă stația 'Place de Cognet'.",
-            "en": "Near the 'Place de Cognet' stop."
+            "en": "Near the 'Place de Cognet' stop.",
+            "fr": "Près de l'arrêt 'Place du Cognet'."
           }
         }
       ],
@@ -2297,7 +2509,8 @@
         "de": "Nutzen Sie die effizienten Pendelbusse und Seilbahnen von Alpe d'Huez. Beginnen Sie bei der modernen Kirche und fahren Sie zum Sportpalast. Ein Besuch im Museum gibt Ihnen Einblicke in die traditionelle Lebensweise der Bergbevölkerung.\n\nNachmittags bringt Sie die Seilbahn bequem Richtung Pic Blanc für unvergessliche Aussichten. Die Tour endet am zentralen Ehrenmal, von wo aus Sie alle Ortsteile wieder leicht erreichen können.",
         "hu": "Használja ki Alpe d'Huez hatékony transzferbuszait és felvonóit. Kezdje a modern templomnál, majd utazzon a Sportpalotához. A múzeumlátogatás bepillantást enged a hegyi lakosság hagyományos életmódjába.\n\nDélután a felvonó kényelmesen repíti a Pic Blanc felé a felejthetetlen kilátásért. A túra a központi emlékműnél ér véget, ahonnan minden falurész könnyen elérhető.",
         "ro": "Profități de autobuzele și telecabinele eficiente din Alpe d'Huez. Începeți de la biserica modernă și mergeți la Palatul Sporturilor. O vizită la muzeu vă va oferi o imagine asupra stilului de viață tradițional al populației montane.\n\nDupă-amiaza, telecabina vă duce confortabil spre Pic Blanc pentru vederi de neuitat. Turul se încheie la monumentul central, de unde puteți ajunge ușor în toate zonele stațiunii.",
-        "en": "Take advantage of Alpe d'Huez's efficient shuttle buses and cable cars. Start at the modern church and travel to the Palais des Sports. A museum visit gives you insight into the traditional lifestyle of the mountain people.\n\nIn the afternoon, the cable car takes you comfortably towards Pic Blanc for unforgettable views. The tour ends at the central memorial, from where all village districts are easily accessible."
+        "en": "Take advantage of Alpe d'Huez's efficient shuttle buses and cable cars. Start at the modern church and travel to the Palais des Sports. A museum visit gives you insight into the traditional lifestyle of the mountain people.\n\nIn the afternoon, the cable car takes you comfortably towards Pic Blanc for unforgettable views. The tour ends at the central memorial, from where all village districts are easily accessible.",
+        "fr": "Profitez des navettes et téléphériques efficaces de l'Alpe d'Huez. Commencez par l'église moderne et rendez-vous au Palais des Sports. Une visite au musée vous donnera un aperçu du mode de vie traditionnel des montagnards.\n\nL'après-midi, le téléphérique vous emmène confortablement vers le Pic Blanc pour des vues inoubliables. Le tour se termine au mémorial central, d'où tous les quartiers du village sont facilement accessibles."
       },
       "gastro_picks": {
         "de": [
@@ -2338,6 +2551,16 @@
           {
             "name": "Vin Chaud",
             "tip": "Warming mulled wine, ideal after a mountain tour."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Raclette",
+            "tip": "Essayez-la à 'La Cremaillere' près de l'arrêt de bus."
+          },
+          {
+            "name": "Vin Chaud",
+            "tip": "Un vin chaud réconfortant, idéal après une sortie en montagne."
           }
         ]
       },
@@ -2389,6 +2612,18 @@
             "tip": "Ideal for watching the village life go by.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Station intermédiaire DMC",
+            "tip": "Point de vue calme loin de la foule.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancs au Palais",
+            "tip": "Idéal pour regarder la vie du village défiler.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2431,6 +2666,16 @@
             "name": "La Boulangerie de l'Alpe",
             "tip": "Traditional pastries and bread."
           }
+        ],
+        "fr": [
+          {
+            "name": "Galerie Marchande",
+            "tip": "Galerie marchande couverte au centre."
+          },
+          {
+            "name": "La Boulangerie de l'Alpe",
+            "tip": "Pâtisseries et pains traditionnels."
+          }
         ]
       },
       "tips": {
@@ -2457,6 +2702,12 @@
           "Check the cable car schedules for your return journey.",
           "A 'Pass Alpe' is worth it for multiple trips a day.",
           "Buses run every 15 minutes."
+        ],
+        "fr": [
+          "Les navettes sont gratuites à l'intérieur de la station.",
+          "Vérifiez les horaires des téléphériques pour votre retour.",
+          "Un 'Pass Alpe' vaut le coup pour plusieurs trajets par jour.",
+          "Les bus passent toutes les 15 minutes."
         ]
       },
       "variants": {
@@ -2705,7 +2956,8 @@
             "de": "Morgendliche Fahrt mit dem Shuttle zur Kirche. Mittags bleiben wir trocken im Palais des Sports. Später geht es mit dem Bus zum Museum. Nachmittags nutzen wir die Seilbahn zum Pic Blanc, um über den Regenwolken zu sein. Der Tag endet sicher im trockenen Bus zurück zum Denkmal.",
             "hu": "Reggeli utazás a busszal a templomhoz. Délben szárazon maradunk a Palais des Sports-ban. Később busszal megyünk a múzeumhoz. Délután a felvonót használjuk a Pic Blanc-hoz, hogy az esőfelhők fölé kerüljünk. A nap biztonságban, a száraz buszon ér véget az emlékműnél.",
             "ro": "Călătorie de dimineață cu autobuzul la biserică. La prânz rămânem uscați la Palais des Sports. Mai târziu mergem cu autobuzul la muzeu. După-amiaza folosim telecabina spre Pic Blanc pentru a fi deasupra norilor. Ziua se încheie în siguranță în autobuz.",
-            "en": "Morning trip with the shuttle to the church. At noon, we stay dry at Palais des Sports. Later, we take the bus to the museum. In the afternoon, we use the cable car to Pic Blanc to get above the rain clouds. The day ends safely in the dry bus back to the memorial."
+            "en": "Morning trip with the shuttle to the church. At noon, we stay dry at Palais des Sports. Later, we take the bus to the museum. In the afternoon, we use the cable car to Pic Blanc to get above the rain clouds. The day ends safely in the dry bus back to the memorial.",
+            "fr": "Trajet matinal en navette jusqu'à l'église. À midi, nous restons au sec au Palais des Sports. Plus tard, nous prenons le bus pour le musée. L'après-midi, nous utilisons le téléphérique pour le Pic Blanc afin de passer au-dessus des nuages. La journée se termine en toute sécurité au sec dans le bus de retour au mémorial."
           },
           "stops": [
             {
@@ -2714,7 +2966,8 @@
                 "de": "Bushaltestelle ist nur wenige Meter entfernt.",
                 "hu": "A buszmegálló csak néhány méterre van.",
                 "ro": "Stația de autobuz este la doar câțiva metri.",
-                "en": "The bus stop is just a few meters away."
+                "en": "The bus stop is just a few meters away.",
+                "fr": "L'arrêt de bus est à seulement quelques mètres."
               }
             },
             {
@@ -2723,7 +2976,8 @@
                 "de": "Idealer Ort, um auf den nächsten Bus zu warten.",
                 "hu": "Ideális hely a következő busz megvárására.",
                 "ro": "Loc ideal pentru a aștepta următorul autobuz.",
-                "en": "Ideal place to wait for the next bus."
+                "en": "Ideal place to wait for the next bus.",
+                "fr": "Endroit idéal pour attendre le prochain bus."
               }
             },
             {
@@ -2732,7 +2986,8 @@
                 "de": "Einfach erreichbar mit dem kostenlosen Ortsbus.",
                 "hu": "Könnyen elérhető az ingyenes helyi busszal.",
                 "ro": "Ușor de ajuns cu autobuzul local gratuit.",
-                "en": "Easily accessible with the free local shuttle."
+                "en": "Easily accessible with the free local shuttle.",
+                "fr": "Facilement accessible avec la navette locale gratuite."
               }
             },
             {
@@ -2741,7 +2996,8 @@
                 "de": "Die Kabine bietet vollen Schutz vor dem Wind.",
                 "hu": "A kabin teljes védelmet nyújt a szél ellen.",
                 "ro": "Cabina oferă protecție completă împotriva vântului.",
-                "en": "The cabin offers full protection from the wind."
+                "en": "The cabin offers full protection from the wind.",
+                "fr": "La cabine offre une protection totale contre le vent."
               }
             },
             {
@@ -2750,7 +3006,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle im Zentrum.",
                 "hu": "Rövid séta a központi megállótól.",
                 "ro": "Scurtă plimbare de la stația din centru.",
-                "en": "Short walk from the center bus stop."
+                "en": "Short walk from the center bus stop.",
+                "fr": "À quelques pas de l'arrêt de bus central."
               }
             }
           ],
@@ -2778,6 +3035,12 @@
               "Cable cars may stop running in high winds.",
               "Schedules may vary during bad weather.",
               "Wear waterproof clothing for waiting times."
+            ],
+            "fr": [
+              "Utilisez les navettes gratuites pour rester au sec.",
+              "Les téléphériques peuvent s'arrêter par vent fort.",
+              "Les horaires peuvent varier en cas de mauvais temps.",
+              "Portez des vêtements imperméables pour les temps d'attente."
             ]
           }
         },
@@ -2786,7 +3049,8 @@
             "de": "Winterlicher Start mit dem Bus zur verschneiten Kirche. Mittags besuchen wir das Palais des Sports zum Aufwärmen. Danach geht es per Transit zum Museum. Nachmittags Highlight: Die Seilbahn zum Pic Blanc über den Skipisten. Der Tag endet stimmungsvoll am Denkmal, wenn die Lichter angehen.",
             "hu": "Téli kezdés busszal a havas templomhoz. Délben a Palais des Sports-ba megyünk melegedni. Ezután tömegközlekedéssel a múzeumhoz. Délutáni fénypont: a felvonó a Pic Blanc-hoz a sípályák felett. A nap hangulatosan zárul az emlékműnél, amikor kigyúlnak a fények.",
             "ro": "Start de iarnă cu autobuzul la biserica înzăpezită. La prânz mergem la Palais des Sports pentru încălzire. Apoi mergem cu transportul la muzeu. Momentul culminant: telecabina spre Pic Blanc deasupra pârtiilor. Ziua se încheie la monument.",
-            "en": "Winter start by bus to the snowy church. At noon, we visit Palais des Sports to warm up. Then by transit to the museum. Afternoon highlight: the cable car to Pic Blanc over the ski slopes. The day ends atmospherically at the memorial as the lights come on."
+            "en": "Winter start by bus to the snowy church. At noon, we visit Palais des Sports to warm up. Then by transit to the museum. Afternoon highlight: the cable car to Pic Blanc over the ski slopes. The day ends atmospherically at the memorial as the lights come on.",
+            "fr": "Départ hivernal en bus vers l'église enneigée. À midi, nous visitons le Palais des Sports pour nous réchauffer. Puis transport vers le musée. Point fort de l'après-midi : le téléphérique vers le Pic Blanc survolant les pistes de ski. La journée se termine dans une ambiance magique au mémorial quand les lumières s'allument."
           },
           "stops": [
             {
@@ -2795,7 +3059,8 @@
                 "de": "Warme Busse machen die Anfahrt sehr angenehm.",
                 "hu": "A fűtött buszok kényelmessé teszik az utat.",
                 "ro": "Autobuzele încălzite fac drumul foarte plăcut.",
-                "en": "Heated buses make the trip very pleasant."
+                "en": "Heated buses make the trip very pleasant.",
+                "fr": "Les bus chauffés rendent le trajet très agréable."
               }
             },
             {
@@ -2804,7 +3069,8 @@
                 "de": "Großes Indoor-Angebot für die ganze Familie.",
                 "hu": "Nagy beltéri kínálat az egész családnak.",
                 "ro": "Ofertă indoor variată pentru toată familia.",
-                "en": "Great indoor offer for the whole family."
+                "en": "Great indoor offer for the whole family.",
+                "fr": "Excellente offre intérieure pour toute la famille."
               }
             },
             {
@@ -2813,7 +3079,8 @@
                 "de": "Perfekter Ort, um die Kälte draußen zu vergessen.",
                 "hu": "Tökéletes hely, hogy elfelejtsük a kinti hideget.",
                 "ro": "Locul perfect pentru a uita de frigul de afară.",
-                "en": "Perfect place to forget the cold outside."
+                "en": "Perfect place to forget the cold outside.",
+                "fr": "Lieu parfait pour oublier le froid extérieur."
               }
             },
             {
@@ -2822,7 +3089,8 @@
                 "de": "Aussicht auf die Skifahrer unter Ihnen genießen.",
                 "hu": "Élvezze a kilátást az Ön alatt lévő síelőkre.",
                 "ro": "Bucurați-vă de vederea spre schiori.",
-                "en": "Enjoy the view of the skiers below you."
+                "en": "Enjoy the view of the skiers below you.",
+                "fr": "Profitez de la vue sur les skieurs en dessous de vous."
               }
             },
             {
@@ -2831,7 +3099,8 @@
                 "de": "Achten Sie auf die letzte Busverbindung des Tages.",
                 "hu": "Ügyeljen a nap utolsó buszjáratára.",
                 "ro": "Atenție la ultima cursă de autobuz a zilei.",
-                "en": "Check the last bus connection of the day."
+                "en": "Check the last bus connection of the day.",
+                "fr": "Vérifiez la dernière correspondance de bus de la journée."
               }
             }
           ],
@@ -2859,6 +3128,12 @@
               "The Pic Blanc cable car closes during storms.",
               "Buses run less frequently in the evening.",
               "Keep your ticket in a warm place."
+            ],
+            "fr": [
+              "Utilisez les skibus, ils sont souvent gratuits.",
+              "Le téléphérique du Pic Blanc ferme pendant les tempêtes.",
+              "Les bus circulent moins fréquemment le soir.",
+              "Gardez votre ticket dans un endroit chaud."
             ]
           }
         }

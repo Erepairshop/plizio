@@ -36,7 +36,8 @@
             "de": "Genießen Sie den morgendlichen Kaffee am Eingang des Dorfes.",
             "hu": "Élvezze a reggeli kávét a falu bejáratánál.",
             "ro": "Savurați o cafea de dimineață la intrarea în sat.",
-            "en": "Enjoy a morning coffee at the village entrance."
+            "en": "Enjoy a morning coffee at the village entrance.",
+            "fr": "Savourez un café matinal à l'entrée du village."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Ein historischer Treffpunkt im Herzen der Gassen.",
             "hu": "Történelmi találkozóhely a sikátorok szívében.",
             "ro": "Un loc de întâlnire istoric în inima străduțelor.",
-            "en": "A historic meeting point in the heart of the alleys."
+            "en": "A historic meeting point in the heart of the alleys.",
+            "fr": "Un point de rencontre historique au cœur des ruelles."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Wachsfiguren zeigen die Geschichte der Provence.",
             "hu": "Viaszfigurák mutatják be Provence történelmét.",
             "ro": "Figurine de ceară prezintă istoria Provence-ului.",
-            "en": "Wax figures depict the history of Provence."
+            "en": "Wax figures depict the history of Provence.",
+            "fr": "Des figures de cire retracent l'histoire de la Provence."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Bewundern Sie die prächtige Barockkapelle St. Clement.",
             "hu": "Csodálja meg a pompás barokk Szent Kelemen-kápolnát.",
             "ro": "Admirați magnifica capelă barocă Sfântul Clement.",
-            "en": "Admire the magnificent baroque St. Clement chapel."
+            "en": "Admire the magnificent baroque St. Clement chapel.",
+            "fr": "Admirez la magnifique chapelle baroque Saint-Clément."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Das Innere wurde vom Künstler Jean-Michel Folon gestaltet.",
             "hu": "A belsőt Jean-Michel Folon művész dekorálta.",
             "ro": "Interiorul a fost decorat de artistul Jean-Michel Folon.",
-            "en": "The interior was decorated by artist Jean-Michel Folon."
+            "en": "The interior was decorated by artist Jean-Michel Folon.",
+            "fr": "L'intérieur a été décoré par l'artiste Jean-Michel Folon."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Spaziergang auf den Mauern mit Blick auf die Alpen.",
             "hu": "Séta a falakon, kilátással az Alpokra.",
             "ro": "Plimbare pe ziduri cu vedere spre Alpi.",
-            "en": "Walk on the walls with views of the Alps."
+            "en": "Walk on the walls with views of the Alps.",
+            "fr": "Marchez sur les murs avec vue sur les Alpes."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Besuchen Sie das Grab von Marc Chagall.",
             "hu": "Látogassa meg Marc Chagall sírját.",
             "ro": "Vizitați mormântul lui Marc Chagall.",
-            "en": "Visit the grave of Marc Chagall."
+            "en": "Visit the grave of Marc Chagall.",
+            "fr": "Visitez la tombe de Marc Chagall."
           }
         },
         {
@@ -197,7 +204,8 @@
             "de": "Einzigartige Skulpturengärten von Miró und Giacometti.",
             "hu": "Miró és Giacometti egyedülálló szoborkertjei.",
             "ro": "Grădini de sculptură unice de Miró și Giacometti.",
-            "en": "Unique sculpture gardens by Miró and Giacometti."
+            "en": "Unique sculpture gardens by Miró and Giacometti.",
+            "fr": "Jardins de sculptures uniques de Miró et Giacometti."
           }
         }
       ],
@@ -205,7 +213,8 @@
         "de": "Beginnen Sie Ihren Tag am Place du Grand Buis, dem Tor zu diesem befestigten Dorf. Schlendern Sie durch die kopfsteingepflasterten Gassen, vorbei an der Grande Fontaine und dem Geschichtsmuseum, um in die provenzalische Vergangenheit einzutauchen.\n\nMittags erkunden Sie die religiösen Schätze: die barocke Stiftskirche und die farbenfrohe Folon-Kapelle. Die künstlerische Atmosphäre der zahlreichen Galerien wird Sie auf Schritt und Tritt begleiten.\n\nNachmittags führt der Weg auf die Stadtmauern. Von hier aus haben Sie einen atemberaubenden Blick über die Täler bis zum Mittelmeer. Ein Besuch am Grab von Marc Chagall bietet einen Moment der Stille.\n\nZum Abschluss wandern Sie zur Fondation Maeght, einem Mekka der modernen Kunst. Zwischen Pinien und außergewöhnlicher Architektur lassen Sie den Tag inmitten von Meisterwerken ausklingen.",
         "hu": "Kezdje a napot a Place du Grand Buis-nél, a megerősített falu kapujánál. Barangoljon a macskaköves utcákon, érintve a Nagy Szökőkutat és a helytörténeti múzeumot, hogy elmerüljön Provence múltjában.\n\nDélben fedezze fel a vallási kincseket: a barokk kollégiumi templomot és a színes Folon-kápolnát. A számos galéria művészi hangulata minden lépésnél elkíséri önt.\n\nDélután az út a városfalakra vezet. Innentől lenyűgöző kilátás nyílik a völgyekre egészen a Földközi-tengerig. Marc Chagall sírjának meglátogatása a csend pillanatát nyújtja.\n\nVégezetül sétáljon el a Maeght Alapítványhoz, a modern művészet fellegvárához. A fenyőfák és a különleges építészet között, remekművek társaságában zárhatja a napot.",
         "ro": "Începeți ziua la Place du Grand Buis, poarta de intrare în acest sat fortificat. Rătăciți pe străzile pietruite, trecând pe lângă Marea Fântână și muzeul de istorie, pentru a vă cufunda în trecutul provensal.\n\nLa prânz, explorați comorile religioase: biserica colegiată barocă și colorata Capelă Folon. Atmosfera artistică a numeroaselor galerii vă va însoți la fiecare pas.\n\nDupă-amiaza, drumul duce pe zidurile cetății. De aici aveți o vedere uluitoare peste văi până la Marea Mediterană. O vizită la mormântul lui Marc Chagall oferă un moment de liniște.\n\nÎn final, mergeți la Fundația Maeght, o mecca a artei moderne. Între pini și arhitectură excepțională, încheiați ziua în mijlocul capodoperelor.",
-        "en": "Start your day at Place du Grand Buis, the gateway to this fortified village. Wander through the cobblestone alleys, passing the Great Fountain and the history museum, to immerse yourself in the Provençal past.\n\nAt midday, explore the religious treasures: the baroque collegiate church and the colorful Folon Chapel. The artistic atmosphere of the numerous galleries will accompany you at every step.\n\nIn the afternoon, head to the city ramparts. From here, you have breathtaking views over the valleys to the Mediterranean. A visit to Marc Chagall's grave offers a moment of silence.\n\nFinally, walk to the Fondation Maeght, a mecca of modern art. Between pine trees and exceptional architecture, end your day surrounded by masterpieces."
+        "en": "Start your day at Place du Grand Buis, the gateway to this fortified village. Wander through the cobblestone alleys, passing the Great Fountain and the history museum, to immerse yourself in the Provençal past.\n\nAt midday, explore the religious treasures: the baroque collegiate church and the colorful Folon Chapel. The artistic atmosphere of the numerous galleries will accompany you at every step.\n\nIn the afternoon, head to the city ramparts. From here, you have breathtaking views over the valleys to the Mediterranean. A visit to Marc Chagall's grave offers a moment of silence.\n\nFinally, walk to the Fondation Maeght, a mecca of modern art. Between pine trees and exceptional architecture, end your day surrounded by masterpieces.",
+        "fr": "Commencez votre journée à la Place du Grand Buis, la porte d'entrée de ce village fortifié. Flânez dans les ruelles pavées, en passant par la Grande Fontaine et le musée d'histoire, pour vous imprégner du passé provençal.\n\nÀ la mi-journée, explorez les trésors religieux : la collégiale baroque et la chapelle colorée de Folon. L'atmosphère artistique des nombreuses galeries vous accompagnera à chaque pas.\n\nL'après-midi, dirigez-vous vers les remparts de la ville. De là, vous aurez une vue imprenable sur les vallées jusqu'à la Méditerranée. Une visite à la tombe de Marc Chagall offre un moment de recueillement.\n\nEnfin, marchez jusqu'à la Fondation Maeght, haut lieu de l'art moderne. Entre les pins et l'architecture exceptionnelle, terminez votre journée entouré de chefs-d'œuvre."
       },
       "gastro_picks": {
         "de": [
@@ -262,6 +271,20 @@
           {
             "name": "Socca",
             "tip": "Try this local chickpea pancake at a market stall."
+          }
+        ],
+        "fr": [
+          {
+            "name": "La Colombe d'Or",
+            "tip": "Restaurant légendaire où Picasso et Matisse payaient leurs repas avec des œuvres d'art."
+          },
+          {
+            "name": "Le Tilleul",
+            "tip": "Cuisine provençale moderne sous un tilleul géant."
+          },
+          {
+            "name": "Socca",
+            "tip": "Goûtez cette galette de pois chiches locale sur un stand du marché."
           }
         ]
       },
@@ -333,6 +356,23 @@
             "tip": "A quiet square at the highest point of the village.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Remparts Sud",
+            "tip": "Endroit parfait pour le coucher du soleil avec vue panoramique.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de la Fondation Maeght",
+            "tip": "Le silence entre les sculptures et les pins ombragés.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Place de l'Église",
+            "tip": "Une place paisible au point le plus élevé du village.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -375,6 +415,16 @@
             "name": "L'Herbier de Saint-Paul",
             "tip": "Handmade soaps and Provençal scents."
           }
+        ],
+        "fr": [
+          {
+            "name": "Galeries d'art",
+            "tip": "Découvrez l'art contemporain dans les innombrables galeries de la Rue Grande."
+          },
+          {
+            "name": "L'Herbier de Saint-Paul",
+            "tip": "Savons artisanaux et senteurs de Provence."
+          }
         ]
       },
       "tips": {
@@ -401,6 +451,12 @@
           "Visit the village early in the morning to avoid the tourist crowds.",
           "Don't miss the Boulodrome where locals play pétanque.",
           "Book restaurants like La Colombe d'Or weeks in advance."
+        ],
+        "fr": [
+          "Portez des chaussures confortables car les rues pavées peuvent être glissantes.",
+          "Visitez le village tôt le matin pour éviter les foules de touristes.",
+          "Ne manquez pas le Boulodrome où les locaux jouent à la pétanque.",
+          "Réservez les restaurants comme La Colombe d'Or des semaines à l'avance."
         ]
       },
       "variants": {
@@ -727,7 +783,8 @@
             "de": "Der Morgen beginnt unter den schützenden Platanen am Place du Grand Buis, während der Regen auf das Kopfsteinpflaster trommelt. Mittags bieten das Regionalmuseum und die Stiftskirche perfekten Schutz vor den Schauern und laden zur inneren Einkehr ein.\nNachmittags erkunden wir die zahlreichen Kunstgalerien entlang der überdachten Passagen der Stadtmauern. Der Tag endet gemütlich in der Fondation Maeght, wo die modernen Meisterwerke im sanften Licht des Regens besonders intensiv wirken.",
             "hu": "A reggel a Place du Grand Buis platánjai alatt indul, miközben az eső kopog a macskakövön. Délben a Helytörténeti Múzeum és a Kolostortemplom falai nyújtanak tökéletes menedéket a záporok elől.\nDélután a városfalak mentén sorakozó galériák és fedett átjárók felfedezésével telik az idő. Az este a Fondation Maeght belső termeiben ér véget, ahol a modern műalkotások különleges hangulatot árasztanak a borús fényben.",
             "ro": "Dimineața începe sub platanii ocrotitori din Place du Grand Buis, în timp ce ploaia bate în caldarâm. La prânz, Muzeul de Istorie Locală și Biserica Collegiate oferă adăpostul perfect împotriva averselor.\nDupă-amiaza este dedicată explorării galeriilor de artă și a pasajelor acoperite de-a lungul zidurilor cetății. Seara se încheie confortabil la Fondation Maeght, unde capodoperele moderne strălucesc sub lumina difuză a ploii.",
-            "en": "The morning begins under the protective plane trees of Place du Grand Buis as rain taps on the cobblestones. At noon, the Local History Museum and the Collegiate Church provide perfect shelter from the showers.\nAfternoon is spent exploring the numerous art galleries and covered passages along the ramparts. The evening concludes cozily at Fondation Maeght, where modern masterpieces take on a unique atmosphere in the soft rainy light."
+            "en": "The morning begins under the protective plane trees of Place du Grand Buis as rain taps on the cobblestones. At noon, the Local History Museum and the Collegiate Church provide perfect shelter from the showers.\nAfternoon is spent exploring the numerous art galleries and covered passages along the ramparts. The evening concludes cozily at Fondation Maeght, where modern masterpieces take on a unique atmosphere in the soft rainy light.",
+            "fr": "La matinée commence sous les platanes protecteurs de la Place du Grand Buis alors que la pluie crépite sur les pavés. À midi, le Musée d'Histoire Locale et la Collégiale offrent un abri parfait contre les averses.\nL'après-midi est consacré à l'exploration des nombreuses galeries d'art et des passages couverts le long des remparts. La soirée se termine confortablement à la Fondation Maeght, où les chefs-d'œuvre modernes prennent une atmosphère unique sous la douce lumière de la pluie."
           },
           "stops": [
             {
@@ -736,7 +793,8 @@
                 "de": "Nutzen Sie die Vordächer der Cafés.",
                 "hu": "Használja a kávézók előtetőit menedékként.",
                 "ro": "Folosiți copertinele cafenelelor pentru adăpost.",
-                "en": "Use the café awnings for shelter."
+                "en": "Use the café awnings for shelter.",
+                "fr": "Utilisez les stores des cafés pour vous abriter."
               }
             },
             {
@@ -745,7 +803,8 @@
                 "de": "Das Plätschern mischt sich mit dem Regen.",
                 "hu": "A szökőkút csobogása keveredik az esővel.",
                 "ro": "Sunetul fântânii se îmbină cu cel al ploii.",
-                "en": "The fountain's splash mixes with the rain."
+                "en": "The fountain's splash mixes with the rain.",
+                "fr": "Le clapotis de la fontaine se mêle à la pluie."
               }
             },
             {
@@ -754,7 +813,8 @@
                 "de": "Idealer Ort, um trocken zu bleiben.",
                 "hu": "Ideális hely a szárazon maradáshoz.",
                 "ro": "Locul ideal pentru a rămâne uscat.",
-                "en": "Ideal place to stay dry and learn history."
+                "en": "Ideal place to stay dry and learn history.",
+                "fr": "Lieu idéal pour rester au sec et apprendre l'histoire."
               }
             },
             {
@@ -763,7 +823,8 @@
                 "de": "Stille und Schutz im Inneren suchen.",
                 "hu": "Keressen csendet és védelmet a falak közt.",
                 "ro": "Căutați liniște și protecție în interior.",
-                "en": "Find silence and protection inside."
+                "en": "Find silence and protection inside.",
+                "fr": "Trouvez le silence et la protection à l'intérieur."
               }
             },
             {
@@ -772,7 +833,8 @@
                 "de": "Bewundern Sie Folons Kunst im Trockenen.",
                 "hu": "Csodálja Folon művészetét a szárazban.",
                 "ro": "Admirați arta lui Folon la adăpost.",
-                "en": "Admire Folon's art while staying dry."
+                "en": "Admire Folon's art while staying dry.",
+                "fr": "Admirez l'art de Folon tout en restant au sec."
               }
             },
             {
@@ -781,7 +843,8 @@
                 "de": "Vorsicht, die Steine können glatt sein.",
                 "hu": "Vigyázat, a kövek csúszósak lehetnek.",
                 "ro": "Atenție, pietrele pot fi alunecoase.",
-                "en": "Caution, the stones can be slippery."
+                "en": "Caution, the stones can be slippery.",
+                "fr": "Attention, les pierres peuvent être glissantes."
               }
             },
             {
@@ -790,7 +853,8 @@
                 "de": "Chagalls Grab wirkt im Regen poetisch.",
                 "hu": "Chagall sírja költői az esőben.",
                 "ro": "Mormântul lui Chagall pare poetic în ploaie.",
-                "en": "Chagall's grave looks poetic in the rain."
+                "en": "Chagall's grave looks poetic in the rain.",
+                "fr": "La tombe de Chagall semble poétique sous la pluie."
               }
             },
             {
@@ -799,7 +863,8 @@
                 "de": "Große Innengalerien laden zum Verweilen ein.",
                 "hu": "Nagy belső galériák várják a látogatókat.",
                 "ro": "Galeriile interioare mari vă invită la vizită.",
-                "en": "Large indoor galleries are perfect for rainy days."
+                "en": "Large indoor galleries are perfect for rainy days.",
+                "fr": "Les grandes galeries intérieures sont parfaites pour les jours de pluie."
               }
             }
           ],
@@ -827,6 +892,12 @@
               "Art galleries serve as perfect micro-museums during showers.",
               "A compact umbrella is more practical in narrow alleys than a large one.",
               "Take time for a long lunch in one of the historic inns."
+            ],
+            "fr": [
+              "Portez des chaussures antidérapantes pour les pavés mouillés.",
+              "Les galeries d'art servent de parfaits micro-musées pendant les averses.",
+              "Un parapluie compact est plus pratique dans les ruelles étroites qu'un grand modèle.",
+              "Prenez le temps d'un long déjeuner dans l'une des auberges historiques."
             ]
           }
         },
@@ -835,7 +906,8 @@
             "de": "Der Wintermorgen empfängt uns mit klarer, kühler Luft am Place du Grand Buis. Mittags wärmt die tiefstehende Mittelmeersonne die Steinmauern der Stiftskirche und lädt zu einem Spaziergang auf den sonnigen Wallanlagen ein.\nAm Nachmittag genießen wir die Ruhe des fast menschenleeren Dorfes und den weiten Blick bis zum Meer. Wenn die Sonne gegen 17:00 Uhr hinter den Bergen verschwindet, erstrahlen die Gassen im warmen Schein der Laternen und führen uns zur Fondation Maeght.",
             "hu": "A téli reggel friss, hűvös levegővel fogad minket a Place du Grand Buis-nál. Délben az alacsonyan járó mediterrán nap felmelegíti a Kolostortemplom kőfalait, kellemessé téve a sétát a napos bástyákon.\nDélután kiélvezzük a szinte üres falu nyugalmát és a tengerig nyíló panorámát. Amikor a nap 17:00 körül eltűnik a hegyek mögött, az utcák lámpafényben úsznak, végül a Fondation Maeght-hoz vezetve minket.",
             "ro": "Dimineața de iarnă ne întâmpină cu un aer clar și răcoros în Place du Grand Buis. La prânz, soarele mediteranean încălzește zidurile de piatră ale bisericii, invitându-ne la o plimbare pe bastioanele însorite.\nDupă-amiaza ne bucurăm de liniștea satului aproape pustiu și de priveliștea largă spre mare. Când soarele apune în jurul orei 17:00, străzile strălucesc în lumina felinarelor, conducându-ne spre Fondation Maeght.",
-            "en": "The winter morning greets us with crisp, cool air at Place du Grand Buis. At noon, the low Mediterranean sun warms the stone walls of the Collegiate Church, making a walk along the sunny ramparts very pleasant.\nIn the afternoon, we enjoy the peace of the nearly empty village and the wide views reaching the sea. As the sun sets around 17:00, the alleys glow in the warm light of streetlamps, leading us finally to Fondation Maeght."
+            "en": "The winter morning greets us with crisp, cool air at Place du Grand Buis. At noon, the low Mediterranean sun warms the stone walls of the Collegiate Church, making a walk along the sunny ramparts very pleasant.\nIn the afternoon, we enjoy the peace of the nearly empty village and the wide views reaching the sea. As the sun sets around 17:00, the alleys glow in the warm light of streetlamps, leading us finally to Fondation Maeght.",
+            "fr": "Le matin d'hiver nous accueille avec un air vif et frais à la Place du Grand Buis. À midi, le bas soleil méditerranéen réchauffe les murs de pierre de la Collégiale, rendant une promenade le long des remparts ensoleillés très agréable.\nL'après-midi, nous profitons du calme du village presque vide et des vues dégagées s'étendant jusqu'à la mer. Alors que le soleil se couche vers 17h00, les ruelles brillent sous la lumière chaude des réverbères, nous menant finalement à la Fondation Maeght."
           },
           "stops": [
             {
@@ -844,7 +916,8 @@
                 "de": "Genießen Sie die Ruhe ohne Touristenmassen.",
                 "hu": "Élvezze a nyugalmat turisták nélkül.",
                 "ro": "Bucurați-vă de liniște fără mase de turiști.",
-                "en": "Enjoy the peace without the tourist crowds."
+                "en": "Enjoy the peace without the tourist crowds.",
+                "fr": "Profitez du calme sans les foules de touristes."
               }
             },
             {
@@ -853,7 +926,8 @@
                 "de": "Das Wasser dampft manchmal in der Kühle.",
                 "hu": "A víz néha gőzölög a hidegben.",
                 "ro": "Apa scoate uneori aburi în răcoarea dimineții.",
-                "en": "The water sometimes steams in the cool morning."
+                "en": "The water sometimes steams in the cool morning.",
+                "fr": "L'eau fume parfois dans la fraîcheur du matin."
               }
             },
             {
@@ -862,7 +936,8 @@
                 "de": "Ein warmer Rückzugsort in der Mittagszeit.",
                 "hu": "Meleg búvóhely a déli órákban.",
                 "ro": "Un refugiu cald la ora prânzului.",
-                "en": "A warm retreat during the midday hours."
+                "en": "A warm retreat during the midday hours.",
+                "fr": "Une retraite chaleureuse pendant les heures de midi."
               }
             },
             {
@@ -871,7 +946,8 @@
                 "de": "Die dicken Mauern speichern die Tageswärme.",
                 "hu": "A vastag falak megtartják a nappali hőt.",
                 "ro": "Zidurile groase păstrează căldura zilei.",
-                "en": "The thick walls retain the day's warmth."
+                "en": "The thick walls retain the day's warmth.",
+                "fr": "Les murs épais conservent la chaleur de la journée."
               }
             },
             {
@@ -880,7 +956,8 @@
                 "de": "Helle Farben trotzen dem grauen Wintertag.",
                 "hu": "Élénk színek dacolnak a szürke téli nappal.",
                 "ro": "Culorile vii sfidează ziua gri de iarnă.",
-                "en": "Bright colors defy the grey winter day."
+                "en": "Bright colors defy the grey winter day.",
+                "fr": "Les couleurs vives défient la grisaille de l'hiver."
               }
             },
             {
@@ -889,7 +966,8 @@
                 "de": "Bester Platz für die warme Mittagssonne.",
                 "hu": "A legjobb hely a meleg déli napsütéshez.",
                 "ro": "Cel mai bun loc pentru soarele cald de prânz.",
-                "en": "Best spot to catch the warm midday sun."
+                "en": "Best spot to catch the warm midday sun.",
+                "fr": "Le meilleur endroit pour profiter du chaud soleil de midi."
               }
             },
             {
@@ -898,7 +976,8 @@
                 "de": "Klares Licht für perfekte Fotos vom Meer.",
                 "hu": "Tiszta fény a tengeri panorámafotókhoz.",
                 "ro": "Lumină clară pentru fotografii perfecte cu marea.",
-                "en": "Crisp light for perfect photos of the sea."
+                "en": "Crisp light for perfect photos of the sea.",
+                "fr": "Une lumière vive pour des photos parfaites de la mer."
               }
             },
             {
@@ -907,7 +986,8 @@
                 "de": "Besuch am späten Nachmittag vor dem Sunset.",
                 "hu": "Látogatás késő délután, naplemente előtt.",
                 "ro": "Vizită după-amiaza târziu, înainte de apus.",
-                "en": "Visit in the late afternoon before sunset."
+                "en": "Visit in the late afternoon before sunset.",
+                "fr": "À visiter en fin d'après-midi avant le coucher du soleil."
               }
             }
           ],
@@ -935,6 +1015,12 @@
               "Sunset around 17:00 is particularly spectacular from here.",
               "Many galleries have shorter opening hours in winter.",
               "Enjoy a hot mulled wine or cocoa in the village taverns."
+            ],
+            "fr": [
+              "Habillez-vous avec plusieurs couches pour la transition entre soleil et ombre.",
+              "Le coucher du soleil vers 17h00 est particulièrement spectaculaire d'ici.",
+              "Beaucoup de galeries ont des horaires d'ouverture réduits en hiver.",
+              "Savourez un vin chaud ou un cacao dans les tavernes du village."
             ]
           }
         }
@@ -968,7 +1054,8 @@
             "de": "Parken Sie Ihr Fahrrad sicher am Dorfeingang.",
             "hu": "Parkolja le biztonságosan a biciklijét a falu bejáratánál.",
             "ro": "Parcați bicicleta în siguranță la intrarea în sat.",
-            "en": "Park your bike safely at the village entrance."
+            "en": "Park your bike safely at the village entrance.",
+            "fr": "Garez votre vélo en toute sécurité à l'entrée du village."
           }
         },
         {
@@ -991,7 +1078,8 @@
             "de": "Fahrräder müssen im inneren Dorf geschoben werden.",
             "hu": "A falun belül tolni kell a kerékpárt.",
             "ro": "Bicicletele trebuie împinse în interiorul satului.",
-            "en": "Bikes must be pushed inside the village."
+            "en": "Bikes must be pushed inside the village.",
+            "fr": "Les vélos doivent être tenus à la main à l'intérieur du village."
           }
         },
         {
@@ -1014,7 +1102,8 @@
             "de": "Der Anstieg zur Stiftung ist steil, aber lohnenswert.",
             "hu": "Az alapítványhoz vezető emelkedő meredek, de megéri.",
             "ro": "Urcarea spre fundație este abruptă, dar merită.",
-            "en": "The climb to the foundation is steep but rewarding."
+            "en": "The climb to the foundation is steep but rewarding.",
+            "fr": "La montée vers la fondation est raide mais gratifiante."
           }
         },
         {
@@ -1037,7 +1126,8 @@
             "de": "Matisses Meisterwerk im benachbarten Vence.",
             "hu": "Matisse remekműve a szomszédos Vence-ben.",
             "ro": "Capodopera lui Matisse în orașul vecin Vence.",
-            "en": "Matisse's masterpiece in neighboring Vence."
+            "en": "Matisse's masterpiece in neighboring Vence.",
+            "fr": "Le chef-d'œuvre de Matisse dans la ville voisine de Vence."
           }
         },
         {
@@ -1060,7 +1150,8 @@
             "de": "Genießen Sie ein Eis auf der Place du Grand Jardin.",
             "hu": "Egyen egy fagyit a Place du Grand Jardin-en.",
             "ro": "Savurați o înghețată în Place du Grand Jardin.",
-            "en": "Enjoy an ice cream at Place du Grand Jardin."
+            "en": "Enjoy an ice cream at Place du Grand Jardin.",
+            "fr": "Savourez une glace sur la Place du Grand Jardin."
           }
         }
       ],
@@ -1068,7 +1159,8 @@
         "de": "Diese Radtour verbindet Kunst und körperliche Anstrengung in der hügeligen Provence. Nach einem kurzen Stopp in Saint-Paul radeln Sie bergauf zur Fondation Maeght. Der Weg führt weiter in das benachbarte Vence, wo Sie die berühmte Matisse-Kapelle besuchen können. Es ist eine sportliche Route mit kulturellen Highlights.",
         "hu": "Ez a biciklis túra ötvözi a művészetet és a fizikai kihívást a dombos Provence-ban. Rövid Saint-Paul-i megálló után tekerjen fel a Maeght Alapítványhoz. Az út továbbvezet a szomszédos Vence-be, ahol meglátogathatja a híres Matisse-kápolnát. Sportos útvonal kulturális fénypontokkal.",
         "ro": "Acest tur cu bicicleta combină arta și efortul fizic în dealurile provensale. După o scurtă oprire în Saint-Paul, pedalați spre Fundația Maeght. Drumul continuă spre Vence-ul vecin, unde puteți vizita faimoasa Capelă Matisse. Este o rută sportivă cu puncte de atracție culturale.",
-        "en": "This cycling tour combines art and physical exertion in the hilly Provence. After a short stop in Saint-Paul, bike up to the Fondation Maeght. The path continues to neighboring Vence, where you can visit the famous Matisse Chapel. It's a sporty route with cultural highlights."
+        "en": "This cycling tour combines art and physical exertion in the hilly Provence. After a short stop in Saint-Paul, bike up to the Fondation Maeght. The path continues to neighboring Vence, where you can visit the famous Matisse Chapel. It's a sporty route with cultural highlights.",
+        "fr": "Ce circuit à vélo combine art et effort physique dans les collines de Provence. Après un court arrêt à Saint-Paul, pédalez jusqu'à la Fondation Maeght. Le chemin continue vers la ville voisine de Vence, où vous pourrez visiter la célèbre chapelle Matisse. C'est un itinéraire sportif avec des points forts culturels."
       },
       "gastro_picks": {
         "de": [
@@ -1110,6 +1202,16 @@
             "name": "Crêperie du Château",
             "tip": "Sweet reward after the climb."
           }
+        ],
+        "fr": [
+          {
+            "name": "Les Tapas de la Victoire",
+            "tip": "En-cas rapides et savoureux à Vence."
+          },
+          {
+            "name": "Crêperie du Château",
+            "tip": "Récompense sucrée après la montée."
+          }
         ]
       },
       "quiet_picks": {
@@ -1140,6 +1242,13 @@
             "tip": "For the ambitious: view over the entire Riviera.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Vue du Col de Vence",
+            "tip": "Pour les plus ambitieux : vue sur toute la Riviera.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1166,6 +1275,12 @@
             "name": "Vence Market",
             "tip": "Local products on Tuesday mornings."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché de Vence",
+            "tip": "Produits locaux le mardi matin."
+          }
         ]
       },
       "tips": {
@@ -1188,6 +1303,11 @@
           "Rent an e-bike if you are not used to steep climbs.",
           "Take plenty of water, especially in summer.",
           "Watch out for traffic on the narrow roads between Saint-Paul and Vence."
+        ],
+        "fr": [
+          "Louez un vélo électrique si vous n'êtes pas habitué aux montées raides.",
+          "Prenez beaucoup d'eau, surtout en été.",
+          "Faites attention à la circulation sur les routes étroites entre Saint-Paul et Vence."
         ]
       },
       "variants": {
@@ -1396,7 +1516,8 @@
             "de": "Der Morgen startet mit einer vorsichtigen Fahrt auf nassen Straßen zum Place du Grand Buis. Mittags bietet die Fahrt zu den Stadtmauern einen dramatischen Blick auf die wolkenverhangenen Hügel.\nAm Nachmittag radeln wir zur Fondation Maeght, wobei der Regen die Pinienwälder intensiv duften lässt. Der Tag endet mit der Abfahrt nach Vence, wobei wir die beleuchtete Altstadt im Regen als silbriges Panorama erleben.",
             "hu": "A reggel óvatos tekeréssel indul a nedves utakon a Place du Grand Buis felé. Délben a városfalakhoz vezető út drámai kilátást nyújt a felhőbe burkolózott dombokra.\nDélután a Fondation Maeght felé biciklizünk, miközben az eső kiemeli a fenyőerdők illatát. A nap a Vence felé tartó lejtővel zárul, ahol az eső áztatta óváros ezüstös panorámaként tűnik fel.",
             "ro": "Dimineața începe cu o tură prudentă pe drumurile ude spre Place du Grand Buis. La prânz, drumul spre zidurile cetății oferă o priveliște dramatică asupra dealurilor acoperite de nori.\nDupă-amiaza pedalăm spre Fondation Maeght, ploaia intensificând parfumul pădurilor de pini. Ziua se încheie cu coborârea spre Vence, unde orașul vechi luminat apare ca o panoramă argintie în ploaie.",
-            "en": "The morning starts with a cautious ride on wet roads toward Place du Grand Buis. At noon, the ride to the ramparts offers dramatic views of the cloud-covered hills.\nIn the afternoon, we cycle to Fondation Maeght, while the rain intensifies the scent of the pine forests. The day ends with a descent to Vence, experiencing the lit-up old town as a silvery panorama in the rain."
+            "en": "The morning starts with a cautious ride on wet roads toward Place du Grand Buis. At noon, the ride to the ramparts offers dramatic views of the cloud-covered hills.\nIn the afternoon, we cycle to Fondation Maeght, while the rain intensifies the scent of the pine forests. The day ends with a descent to Vence, experiencing the lit-up old town as a silvery panorama in the rain.",
+            "fr": "La matinée commence par une conduite prudente sur les routes mouillées vers la Place du Grand Buis. À midi, le trajet vers les remparts offre des vues spectaculaires sur les collines couvertes de nuages.\nL'après-midi, nous pédalons vers la Fondation Maeght, tandis que la pluie intensifie le parfum des forêts de pins. La journée se termine par une descente vers Vence, découvrant la vieille ville illuminée comme un panorama argenté sous la pluie."
           },
           "stops": [
             {
@@ -1405,7 +1526,8 @@
                 "de": "Vorsicht beim Absteigen auf nassem Stein.",
                 "hu": "Vigyázzon a leszállásnál a nedves kövön.",
                 "ro": "Atenție la descălecare pe piatra umedă.",
-                "en": "Be careful when dismounting on wet stone."
+                "en": "Be careful when dismounting on wet stone.",
+                "fr": "Soyez prudent en descendant du vélo sur les pierres mouillées."
               }
             },
             {
@@ -1414,7 +1536,8 @@
                 "de": "Blick auf die stürmische Küste genießen.",
                 "hu": "Élvezze a kilátást a viharos partvidékre.",
                 "ro": "Admirați vederea spre coasta furtunoasă.",
-                "en": "Enjoy the view of the stormy coastline."
+                "en": "Enjoy the view of the stormy coastline.",
+                "fr": "Profitez de la vue sur le littoral tourmenté."
               }
             },
             {
@@ -1423,7 +1546,8 @@
                 "de": "Fahrradständer sind oft ungeschützt, Plane mitbringen.",
                 "hu": "A biciklitárolók fedetlenek, vigyen takarót.",
                 "ro": "Suporturile de biciclete sunt descoperite, luați o prelată.",
-                "en": "Bike racks are often uncovered, bring a cover."
+                "en": "Bike racks are often uncovered, bring a cover.",
+                "fr": "Les porte-vélos sont souvent non couverts, prévoyez une protection."
               }
             },
             {
@@ -1432,7 +1556,8 @@
                 "de": "Kurze Aufwärmpause im Inneren einlegen.",
                 "hu": "Tartson egy rövid melegedő szünetet odabent.",
                 "ro": "Luați o scurtă pauză de încălzire în interior.",
-                "en": "Take a short warm-up break inside."
+                "en": "Take a short warm-up break inside.",
+                "fr": "Faites une courte pause pour vous réchauffer à l'intérieur."
               }
             },
             {
@@ -1441,7 +1566,8 @@
                 "de": "In den engen Gassen ist es oft windgeschützt.",
                 "hu": "A szűk utcák gyakran szélvédettek.",
                 "ro": "Străzile înguste sunt adesea ferite de vânt.",
-                "en": "The narrow streets are often sheltered from wind."
+                "en": "The narrow streets are often sheltered from wind.",
+                "fr": "Les rues étroites sont souvent abritées du vent."
               }
             }
           ],
@@ -1469,6 +1595,12 @@
               "Avoid road markings; they are extremely slippery when wet.",
               "Wear waterproof, breathable clothing.",
               "Allow extra time for navigating the winding roads."
+            ],
+            "fr": [
+              "Vérifiez vos freins avant les descentes raides sous la pluie.",
+              "Évitez les marquages au sol ; ils sont extrêmement glissants lorsqu'ils sont mouillés.",
+              "Portez des vêtements imperméables et respirants.",
+              "Prévoyez plus de temps pour naviguer sur les routes sinueuses."
             ]
           }
         },
@@ -1477,7 +1609,8 @@
             "de": "Ein frischer Wintermorgen am Place du Grand Buis fordert warme Handschuhe für die erste Abfahrt. Mittags ist die Fahrt zu den Ramparts herrlich, da die Sonne die Luft auf angenehme Temperaturen erwärmt.\nNachmittags geht es bergauf zur Fondation Maeght, wobei man schnell ins Schwitzen kommt – Schichten sind hier wichtig. Der Tag endet bei tiefstehender Sonne auf dem Weg nach Vence, wobei die scharfen Schatten der Zypressen den Weg säumen.",
             "hu": "A friss téli reggel a Place du Grand Buis-nál meleg kesztyűt kíván az első lejtőhöz. Délben a bástyákhoz vezető út csodás, mivel a nap kellemesre melegíti a levegőt.\nDélután a Fondation Maeght felé kaptatunk, ami gyorsan megizzaszt – a réteges öltözet itt kulcsfontosságú. A nap az alacsonyan járó napfényben végződik Vence felé, ahol a ciprusok éles árnyékai szegélyezik az utat.",
             "ro": "O dimineață răcoroasă de iarnă în Place du Grand Buis necesită mănuși calde pentru prima coborâre. La prânz, drumul spre bastioane este superb, soarele încălzind aerul plăcut.\nDupă-amiaza urcăm spre Fondation Maeght, efortul ne va încălzi rapid – straturile sunt esențiale. Ziua se încheie cu soarele jos la orizont spre Vence, umbrele lungi ale chiparoșilor marcând drumul.",
-            "en": "A crisp winter morning at Place du Grand Buis requires warm gloves for the first descent. At noon, the ride to the ramparts is wonderful as the sun warms the air to comfortable levels.\nIn the afternoon, we climb toward Fondation Maeght; the effort will warm you up quickly—layers are key here. The day ends with the low sun on the way to Vence, with sharp cypress shadows lining the path."
+            "en": "A crisp winter morning at Place du Grand Buis requires warm gloves for the first descent. At noon, the ride to the ramparts is wonderful as the sun warms the air to comfortable levels.\nIn the afternoon, we climb toward Fondation Maeght; the effort will warm you up quickly—layers are key here. The day ends with the low sun on the way to Vence, with sharp cypress shadows lining the path.",
+            "fr": "Un matin d'hiver vif à la Place du Grand Buis nécessite des gants chauds pour la première descente. À midi, le trajet vers les remparts est merveilleux car le soleil réchauffe l'air à des niveaux confortables.\nL'après-midi, nous grimpons vers la Fondation Maeght ; l'effort vous réchauffera rapidement — le système des couches est ici essentiel. La journée se termine avec un soleil bas sur le chemin de Vence, avec les ombres nettes des cyprès bordant la route."
           },
           "stops": [
             {
@@ -1486,7 +1619,8 @@
                 "de": "Früh starten, solange das Licht klar ist.",
                 "hu": "Induljon korán, amíg tiszta a fény.",
                 "ro": "Porniți devreme, cât timp lumina este clară.",
-                "en": "Start early while the light is still crisp."
+                "en": "Start early while the light is still crisp.",
+                "fr": "Partez tôt tant que la lumière est encore vive."
               }
             },
             {
@@ -1495,7 +1629,8 @@
                 "de": "Windjacke für die exponierten Stellen nötig.",
                 "hu": "Széldzseki szükséges a kitett helyeken.",
                 "ro": "Aveți nevoie de jachetă de vânt pentru locurile expuse.",
-                "en": "Windbreaker needed for the exposed sections."
+                "en": "Windbreaker needed for the exposed sections.",
+                "fr": "Coupe-vent nécessaire pour les sections exposées."
               }
             },
             {
@@ -1504,7 +1639,8 @@
                 "de": "Besuch der Skulpturengärten im milden Winterlicht.",
                 "hu": "Szoborkert látogatása az enyhe téli fényben.",
                 "ro": "Vizitați grădinile cu sculpturi în lumina blândă.",
-                "en": "Visit the sculpture gardens in the mild winter light."
+                "en": "Visit the sculpture gardens in the mild winter light.",
+                "fr": "Visitez les jardins de sculptures sous la douce lumière d'hiver."
               }
             },
             {
@@ -1513,7 +1649,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
                 "hu": "Ellenőrizze előre a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă în prealabil.",
-                "en": "Check winter opening hours in advance."
+                "en": "Check winter opening hours in advance.",
+                "fr": "Vérifiez les horaires d'ouverture d'hiver à l'avance."
               }
             },
             {
@@ -1522,7 +1659,8 @@
                 "de": "Ruhiger Abschluss der Tour am Nachmittag.",
                 "hu": "A túra nyugodt lezárása délután.",
                 "ro": "Încheiere liniștită a turului după-amiaza.",
-                "en": "A peaceful conclusion to the tour in the afternoon."
+                "en": "A peaceful conclusion to the tour in the afternoon.",
+                "fr": "Une conclusion paisible au tour en fin d'après-midi."
               }
             }
           ],
@@ -1550,6 +1688,12 @@
               "The winter sun can be very blinding while riding; bring sunglasses.",
               "Stay hydrated despite the cold temperatures.",
               "Watch out for frost in shaded corners during early morning."
+            ],
+            "fr": [
+              "Des gants chauds sont essentiels pour les longues descentes.",
+              "Le soleil d'hiver peut être très éblouissant à vélo ; apportez des lunettes de soleil.",
+              "Restez hydraté malgré les températures froides.",
+              "Attention au givre dans les coins ombragés tôt le matin."
             ]
           }
         }
@@ -1583,7 +1727,8 @@
             "de": "Nutzen Sie das Parkhaus 'Indigo' am Dorfeingang.",
             "hu": "Használja az Indigo parkolóházat a falu bejáratánál.",
             "ro": "Folosiți parcarea 'Indigo' de la intrarea în sat.",
-            "en": "Use the 'Indigo' parking garage at the village entrance."
+            "en": "Use the 'Indigo' parking garage at the village entrance.",
+            "fr": "Utilisez le parking 'Indigo' à l'entrée du village."
           }
         },
         {
@@ -1606,7 +1751,8 @@
             "de": "Kostenlose Parkplätze direkt vor dem Museum.",
             "hu": "Ingyenes parkolóhelyek közvetlenül a múzeum előtt.",
             "ro": "Parcare gratuită chiar în fața muzeului.",
-            "en": "Free parking available right in front of the museum."
+            "en": "Free parking available right in front of the museum.",
+            "fr": "Parking gratuit disponible juste devant le musée."
           }
         },
         {
@@ -1629,7 +1775,8 @@
             "de": "Eines der schönsten Dörfer Frankreichs mit Panoramablick.",
             "hu": "Franciaország egyik legszebb faluja panorámás kilátással.",
             "ro": "Unul dintre cele mai frumoase sate din Franța cu vedere panoramică.",
-            "en": "One of the most beautiful villages in France with panoramic views."
+            "en": "One of the most beautiful villages in France with panoramic views.",
+            "fr": "L'un des plus beaux villages de France avec des vues panoramiques."
           }
         },
         {
@@ -1652,7 +1799,8 @@
             "de": "Erfrischender Stopp in der Schlucht von Loup.",
             "hu": "Frissítő megálló a Loup-szurdokban.",
             "ro": "Oprire revigorantă în cheile Loup.",
-            "en": "Refreshing stop in the Loup gorge."
+            "en": "Refreshing stop in the Loup gorge.",
+            "fr": "Halte rafraîchissante dans les gorges du Loup."
           }
         },
         {
@@ -1675,7 +1823,8 @@
             "de": "Bekannt als das Dorf der Veilchen.",
             "hu": "Az ibolyák falvaként ismert.",
             "ro": "Cunoscut ca satul viorelelor.",
-            "en": "Known as the village of violets."
+            "en": "Known as the village of violets.",
+            "fr": "Connu comme le village des violettes."
           }
         }
       ],
@@ -1683,7 +1832,8 @@
         "de": "Mit dem Auto erkunden Sie die 'Perlen der Seealpen'. Nach dem Besuch von Saint-Paul und der Fondation Maeght fahren Sie tief in das Hinterland nach Gourdon, das spektakulär auf einem Felsen thront. Der Rückweg führt durch die Loup-Schlucht und das charmante Tourrettes-sur-Loup.",
         "hu": "Autóval fedezze fel a 'Tengeri-Alpok gyöngyszemeit'. Saint-Paul és a Maeght Alapítvány után induljon beljebb a szárazföld felé Gourdonba, amely látványosan trónol egy sziklán. A visszaút a Loup-szurdokon és a bájos Tourrettes-sur-Loup falun keresztül vezet.",
         "ro": "Cu mașina explorați 'Perlele Alpilor Maritimi'. După vizitarea Saint-Paul și a Fundației Maeght, conduceți spre interiorul țării către Gourdon, cocoțat spectaculos pe o stâncă. Drumul de întoarcere trece prin cheile Loup și fermecătorul Tourrettes-sur-Loup.",
-        "en": "By car, explore the 'Pearls of the Maritime Alps'. After visiting Saint-Paul and the Fondation Maeght, drive deeper inland to Gourdon, spectacularly perched on a rock. The return journey leads through the Loup gorge and the charming Tourrettes-sur-Loup."
+        "en": "By car, explore the 'Pearls of the Maritime Alps'. After visiting Saint-Paul and the Fondation Maeght, drive deeper inland to Gourdon, spectacularly perched on a rock. The return journey leads through the Loup gorge and the charming Tourrettes-sur-Loup.",
+        "fr": "En voiture, explorez les « Perles des Alpes-Maritimes ». Après avoir visité Saint-Paul et la Fondation Maeght, enfoncez-vous dans l'arrière-pays jusqu'à Gourdon, spectaculairement perché sur un rocher. Le voyage de retour passe par les gorges du Loup et le charmant village de Tourrettes-sur-Loup."
       },
       "gastro_picks": {
         "de": [
@@ -1725,6 +1875,16 @@
             "name": "Confiserie Florian",
             "tip": "Try the candied flowers in Tourrettes."
           }
+        ],
+        "fr": [
+          {
+            "name": "La Table du Loup",
+            "tip": "Produits locaux frais juste à côté des gorges."
+          },
+          {
+            "name": "Confiserie Florian",
+            "tip": "Goûtez les fleurs cristallisées à Tourrettes."
+          }
         ]
       },
       "quiet_picks": {
@@ -1755,6 +1915,13 @@
             "tip": "Endless expanse with views of the sea.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plateau de Gourdon",
+            "tip": "Étendue infinie avec vue sur la mer.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1781,6 +1948,12 @@
             "name": "Tourrettes Crafts",
             "tip": "Handmade ceramics and weavings."
           }
+        ],
+        "fr": [
+          {
+            "name": "Artisanat de Tourrettes",
+            "tip": "Céramiques et tissages faits main."
+          }
         ]
       },
       "tips": {
@@ -1803,6 +1976,11 @@
           "Inland roads are often narrow and winding.",
           "In Saint-Paul, make sure to park in marked zones, as it is strictly enforced.",
           "A small rental car is ideal for the mountain villages."
+        ],
+        "fr": [
+          "Les routes de l'arrière-pays sont souvent étroites et sinueuses.",
+          "À Saint-Paul, veillez à vous garer dans les zones marquées, car la réglementation est strictement appliquée.",
+          "Une petite voiture de location est idéale pour les villages de montagne."
         ]
       },
       "variants": {
@@ -2011,7 +2189,8 @@
             "de": "Der Morgen beginnt mit einer entspannten Fahrt durch das wolkenverhangene Hinterland nach Saint-Paul-de-Vence. Mittags erkunden wir die Fondation Maeght, während der Regen draußen die modernen Skulpturen glänzen lässt.\nNachmittags führt uns die Route zum 'Adlernest' Gourdon, wo wir über dem Nebelmeer thronen. Der Tag endet an den Saut du Loup Wasserfällen, die durch den Regen besonders imposant und wild wirken.",
             "hu": "A reggel nyugodt autózással indul a felhős hátországban Saint-Paul-de-Vence felé. Délben a Fondation Maeght-ot fedezzük fel, miközben kint az eső megcsillogtatja a modern szobrokat.\nDélután az utunk a 'Sasszészék' Gourdonba vezet, ahol a ködtenger felett trónolunk. A nap a Saut du Loup vízeséseknél ér véget, amelyek az esőnek köszönhetően különösen vadregényesek.",
             "ro": "Dimineața începe cu o condus relaxat prin hinterlandul acoperit de nori spre Saint-Paul-de-Vence. La prânz explorăm Fondation Maeght, în timp ce ploaia face sculpturile moderne să strălucească afară.\nDupă-amiaza ruta ne duce la 'Cuibul de Vulturi' Gourdon, unde stăm deasupra mării de ceață. Ziua se încheie la cascada Saut du Loup, care pare impunătoare și sălbatică datorită ploii.",
-            "en": "The morning starts with a relaxed drive through the cloudy hinterland to Saint-Paul-de-Vence. At noon, we explore Fondation Maeght while the rain outside makes the modern sculptures glisten.\nIn the afternoon, the route leads us to the 'Eagle's Nest' Gourdon, perched above a sea of fog. The day ends at the Saut du Loup waterfalls, which look particularly imposing and wild thanks to the rain."
+            "en": "The morning starts with a relaxed drive through the cloudy hinterland to Saint-Paul-de-Vence. At noon, we explore Fondation Maeght while the rain outside makes the modern sculptures glisten.\nIn the afternoon, the route leads us to the 'Eagle's Nest' Gourdon, perched above a sea of fog. The day ends at the Saut du Loup waterfalls, which look particularly imposing and wild thanks to the rain.",
+            "fr": "La matinée commence par un trajet détendu à travers l'arrière-pays nuageux vers Saint-Paul-de-Vence. À midi, nous explorons la Fondation Maeght pendant que la pluie à l'extérieur fait briller les sculptures modernes.\nL'après-midi, l'itinéraire nous mène au « Nid d'Aigle » de Gourdon, perché au-dessus d'une mer de brouillard. La journée se termine aux cascades du Saut du Loup, qui paraissent particulièrement imposantes et sauvages grâce à la pluie."
           },
           "stops": [
             {
@@ -2020,7 +2199,8 @@
                 "de": "Parkhaus P3 ist nah und bietet Schutz.",
                 "hu": "A P3 parkolóház közel van és védelmet nyújt.",
                 "ro": "Parcarea P3 este aproape și oferă adăpost.",
-                "en": "Parking garage P3 is close and offers shelter."
+                "en": "Parking garage P3 is close and offers shelter.",
+                "fr": "Le parking P3 est proche et offre un abri."
               }
             },
             {
@@ -2029,7 +2209,8 @@
                 "de": "Großer Parkplatz direkt am Eingang vorhanden.",
                 "hu": "Nagy parkoló közvetlenül a bejáratnál.",
                 "ro": "Parcare mare disponibilă chiar la intrare.",
-                "en": "Large parking lot available directly at the entrance."
+                "en": "Large parking lot available directly at the entrance.",
+                "fr": "Grand parking disponible directement à l'entrée."
               }
             },
             {
@@ -2038,7 +2219,8 @@
                 "de": "Vorsicht bei Nebel auf der Auffahrt.",
                 "hu": "Vigyázat köd esetén a felvezető úton.",
                 "ro": "Atenție la ceață pe drumul de urcare.",
-                "en": "Caution during fog on the ascent road."
+                "en": "Caution during fog on the ascent road.",
+                "fr": "Prudence en cas de brouillard sur la route de montée."
               }
             },
             {
@@ -2047,7 +2229,8 @@
                 "de": "Regenschirm für den kurzen Fußweg nötig.",
                 "hu": "Esernyő szükséges a rövid sétához.",
                 "ro": "Aveți nevoie de umbrelă pentru scurta plimbare.",
-                "en": "Umbrella needed for the short walk to the falls."
+                "en": "Umbrella needed for the short walk to the falls.",
+                "fr": "Parapluie nécessaire pour la courte marche vers les chutes."
               }
             },
             {
@@ -2056,7 +2239,8 @@
                 "de": "Zahlreiche Ateliers im Ort bieten Schutz.",
                 "hu": "Számos műhely a faluban védelmet nyújt.",
                 "ro": "Numeroase ateliere din sat oferă adăpost.",
-                "en": "Numerous workshops in the village offer shelter."
+                "en": "Numerous workshops in the village offer shelter.",
+                "fr": "De nombreux ateliers dans le village offrent un abri."
               }
             }
           ],
@@ -2084,6 +2268,12 @@
               "Parking is often easier in the rain due to fewer day-trippers.",
               "Gorges du Loup is a spectacular driving experience in rainy weather.",
               "Watch out for falling rocks in the gorges during heavy rain."
+            ],
+            "fr": [
+              "Les routes sinueuses peuvent être glissantes lorsqu'elles sont mouillées.",
+              "Le stationnement est souvent plus facile sous la pluie car il y a moins de visiteurs.",
+              "Les Gorges du Loup offrent une expérience de conduite spectaculaire par temps de pluie.",
+              "Attention aux chutes de pierres dans les gorges lors de fortes pluies."
             ]
           }
         },
@@ -2092,7 +2282,8 @@
             "de": "Ein klarer Wintermorgen führt uns mit dem Wagen hinauf nach Saint-Paul-de-Vence, wo die Parkplatzsuche nun stressfrei ist. Mittags genießen wir die moderne Kunst in der Fondation Maeght bei strahlendem Sonnenschein.\nAm Nachmittag erklimmen wir mit dem Auto Gourdon und genießen den ungetrübten Blick bis Korsika. Der Tag endet im malerischen Tourrettes-sur-Loup, wo wir die violetten Veilchen – die Spezialität des Ortes – im kühlen Abendlicht bewundern.",
             "hu": "Egy tiszta téli reggelen Saint-Paul-de-Vence-be hajtunk, ahol a parkolás most teljesen stresszmentes. Délben a Fondation Maeght modern művészetét élvezzük a ragyogó napsütésben.\nDélután autóval felkapaszkodunk Gourdonba, és élvezzük a zavartalan kilátást, ami néha Korzikáig ellát. A nap a festői Tourrettes-sur-Loup-ban zárul, ahol a helyi specialitást, az ibolyát csodálhatjuk meg a hűvös esti fényben.",
             "ro": "O dimineață clară de iarnă ne duce cu mașina spre Saint-Paul-de-Vence, unde parcarea este acum fără stres. La prânz ne bucurăm de arta modernă de la Fondation Maeght sub un soare strălucitor.\nDupă-amiaza urcăm cu mașina la Gourdon și savurăm priveliștea neîntreruptă până spre Corsica. Ziua se încheie în pitorescul Tourrettes-sur-Loup, unde admirăm violetele – specialitatea locului.",
-            "en": "A clear winter morning takes us up to Saint-Paul-de-Vence, where parking is now completely stress-free. At noon, we enjoy modern art at Fondation Maeght under the bright sunshine.\nIn the afternoon, we drive up to Gourdon and enjoy unclouded views reaching as far as Corsica. The day ends in picturesque Tourrettes-sur-Loup, where we admire the violets—the local specialty—in the cool evening light."
+            "en": "A clear winter morning takes us up to Saint-Paul-de-Vence, where parking is now completely stress-free. At noon, we enjoy modern art at Fondation Maeght under the bright sunshine.\nIn the afternoon, we drive up to Gourdon and enjoy unclouded views reaching as far as Corsica. The day ends in picturesque Tourrettes-sur-Loup, where we admire the violets—the local specialty—in the cool evening light.",
+            "fr": "Un matin d'hiver clair nous emmène à Saint-Paul-de-Vence, où le stationnement est désormais totalement serein. À midi, nous profitons de l'art moderne à la Fondation Maeght sous un soleil éclatant.\nL'après-midi, nous montons à Gourdon et profitons d'une vue dégagée allant jusqu'à la Corse. La journée se termine dans le pittoresque Tourrettes-sur-Loup, où nous admirons les violettes — la spécialité locale — sous la fraîche lumière du soir."
           },
           "stops": [
             {
@@ -2101,7 +2292,8 @@
                 "de": "Beste Zeit für entspannte Parkplatzwahl.",
                 "hu": "A legjobb időszak a nyugodt parkolóválasztáshoz.",
                 "ro": "Cea mai bună perioadă pentru parcare fără stres.",
-                "en": "Best time for stress-free parking selection."
+                "en": "Best time for stress-free parking selection.",
+                "fr": "Meilleur moment pour un choix de parking sans stress."
               }
             },
             {
@@ -2110,7 +2302,8 @@
                 "de": "Die Gärten sind auch im Winter sehenswert.",
                 "hu": "A kertek télen is megérnek egy látogatást.",
                 "ro": "Grădinile merită vizitate și iarna.",
-                "en": "The gardens are well worth a visit even in winter."
+                "en": "The gardens are well worth a visit even in winter.",
+                "fr": "Les jardins valent bien une visite, même en hiver."
               }
             },
             {
@@ -2119,7 +2312,8 @@
                 "de": "Klarste Fernsicht des ganzen Jahres.",
                 "hu": "Az egész év legtisztább távoli kilátása.",
                 "ro": "Cea mai clară vizibilitate la distanță din an.",
-                "en": "Clearest long-distance views of the entire year."
+                "en": "Clearest long-distance views of the entire year.",
+                "fr": "Les vues lointaines les plus nettes de toute l'année."
               }
             },
             {
@@ -2128,7 +2322,8 @@
                 "de": "Wasserstände sind im Winter oft ideal.",
                 "hu": "A vízállás télen gyakran ideális.",
                 "ro": "Nivelul apei este adesea ideal iarna.",
-                "en": "Water levels are often ideal during winter months."
+                "en": "Water levels are often ideal during winter months.",
+                "fr": "Les niveaux d'eau sont souvent idéaux pendant les mois d'hiver."
               }
             },
             {
@@ -2137,7 +2332,8 @@
                 "de": "Besuchen Sie das Veilchen-Museum im Ort.",
                 "hu": "Látogassa meg a helyi Ibolya-múzeumot.",
                 "ro": "Vizitați Muzeul Violetelor din sat.",
-                "en": "Visit the local Violet Museum in the village."
+                "en": "Visit the local Violet Museum in the village.",
+                "fr": "Visitez le musée local de la Violette dans le village."
               }
             }
           ],
@@ -2165,6 +2361,12 @@
               "Days are short; start your tour by 09:00 at the latest.",
               "Car heating makes the transitions between stops very comfortable.",
               "Check for temporary mountain road closures due to ice."
+            ],
+            "fr": [
+              "Le givre est possible dans les sections ombragées des Gorges du Loup.",
+              "Les journées sont courtes ; commencez votre tour à 09h00 au plus tard.",
+              "Le chauffage de la voiture rend les transitions entre les arrêts très confortables.",
+              "Vérifiez les fermetures temporaires de routes de montagne dues au verglas."
             ]
           }
         }
@@ -2198,7 +2400,8 @@
             "de": "Bus 400 verbindet Nizza mit Saint-Paul.",
             "hu": "A 400-as busz köti össze Nizzát Saint-Paul-lal.",
             "ro": "Autobuzul 400 leagă Nisa de Saint-Paul.",
-            "en": "Bus 400 connects Nice with Saint-Paul."
+            "en": "Bus 400 connects Nice with Saint-Paul.",
+            "fr": "Le bus 400 relie Nice à Saint-Paul."
           }
         },
         {
@@ -2221,7 +2424,8 @@
             "de": "Kurzer Fußweg von der Bushaltestelle bergauf.",
             "hu": "Rövid sétára a buszmegállótól felfelé.",
             "ro": "Scurtă plimbare la deal de la stația de autobuz.",
-            "en": "Short walk uphill from the bus stop."
+            "en": "Short walk uphill from the bus stop.",
+            "fr": "Courte marche en montée depuis l'arrêt de bus."
           }
         },
         {
@@ -2244,7 +2448,8 @@
             "de": "Besuchen Sie das letzte Wohnhaus des Malers Renoir.",
             "hu": "Látogassa meg Renoir festő utolsó lakóházát.",
             "ro": "Vizitați ultima casă a pictorului Renoir.",
-            "en": "Visit the last home of the painter Renoir."
+            "en": "Visit the last home of the painter Renoir.",
+            "fr": "Visitez la dernière demeure du peintre Renoir."
           }
         },
         {
@@ -2267,7 +2472,8 @@
             "de": "Entspannen Sie am Meer vor der Rückfahrt nach Nizza.",
             "hu": "Lazítson a tengerparton a nizzai visszautazás előtt.",
             "ro": "Relaxați-vă la malul mării înainte de întoarcerea la Nisa.",
-            "en": "Relax by the sea before heading back to Nice."
+            "en": "Relax by the sea before heading back to Nice.",
+            "fr": "Détendez-vous au bord de la mer avant de rentrer à Nice."
           }
         }
       ],
@@ -2275,7 +2481,8 @@
         "de": "Dank der Buslinie 400 ist Saint-Paul leicht von der Küste aus erreichbar. Nach einem Vormittag voller Kunst und Geschichte im Dorf fahren Sie hinunter nach Cagnes-sur-Mer. Dort erwartet Sie das Renoir-Museum in einem idyllischen Olivenhain, bevor Sie den Tag am Strand von Cros-de-Cagnes ausklingen lassen.",
         "hu": "A 400-as buszjáratnak köszönhetően Saint-Paul könnyen elérhető a part felől. A faluban töltött művészi délelőtt után utazzon le Cagnes-sur-Mer-be. Ott a Renoir-múzeum várja egy idilli olajfaligetben, mielőtt a napot Cros-de-Cagnes strandján zárná.",
         "ro": "Datorită liniei de autobuz 400, Saint-Paul este ușor accesibil de pe coastă. După o dimineață plină de artă și istorie în sat, coborâți spre Cagnes-sur-Mer. Acolo vă așteaptă Muzeul Renoir într-o livadă de măslini idilică, înainte de a încheia ziua pe plaja din Cros-de-Cagnes.",
-        "en": "Thanks to bus line 400, Saint-Paul is easily accessible from the coast. After a morning full of art and history in the village, travel down to Cagnes-sur-Mer. There, the Renoir Museum awaits in an idyllic olive grove before ending the day at the beach of Cros-de-Cagnes."
+        "en": "Thanks to bus line 400, Saint-Paul is easily accessible from the coast. After a morning full of art and history in the village, travel down to Cagnes-sur-Mer. There, the Renoir Museum awaits in an idyllic olive grove before ending the day at the beach of Cros-de-Cagnes.",
+        "fr": "Grâce à la ligne de bus 400, Saint-Paul est facilement accessible depuis la côte. Après une matinée pleine d'art et d'histoire dans le village, descendez à Cagnes-sur-Mer. Là, le musée Renoir vous attend dans une oliveraie idyllique avant de terminer la journée sur la plage du Cros-de-Cagnes."
       },
       "gastro_picks": {
         "de": [
@@ -2317,6 +2524,16 @@
             "name": "Le Cigalon",
             "tip": "Seafood in Cros-de-Cagnes."
           }
+        ],
+        "fr": [
+          {
+            "name": "L'Art Gourmand",
+            "tip": "Chocolats et glaces artisanaux à Saint-Paul."
+          },
+          {
+            "name": "Le Cigalon",
+            "tip": "Fruits de mer au Cros-de-Cagnes."
+          }
         ]
       },
       "quiet_picks": {
@@ -2347,6 +2564,13 @@
             "tip": "Centenary olive trees providing shade.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin Renoir",
+            "tip": "Oliviers centenaires offrant de l'ombre.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -2373,6 +2597,12 @@
             "name": "Saint-Paul Postcards",
             "tip": "Artistic postcards in the village."
           }
+        ],
+        "fr": [
+          {
+            "name": "Cartes postales de Saint-Paul",
+            "tip": "Cartes postales artistiques dans le village."
+          }
         ]
       },
       "tips": {
@@ -2395,6 +2625,11 @@
           "Check the bus schedule carefully, as the frequency can vary on weekends.",
           "The 'Zou!' app helps with navigating regional public transit.",
           "In Cagnes-sur-Mer, there is a free shuttle bus to the upper town."
+        ],
+        "fr": [
+          "Vérifiez soigneusement les horaires de bus, car la fréquence peut varier le week-end.",
+          "L'application 'Zou !' aide à naviguer dans les transports publics régionaux.",
+          "À Cagnes-sur-Mer, une navette gratuite dessert la ville haute."
         ]
       },
       "variants": {
@@ -2589,7 +2824,8 @@
             "de": "Der Morgen beginnt mit der Busfahrt (Linie 400) zum Dorf Saint-Paul, während wir trocken aus dem Fenster schauen. Mittags verbringen wir viel Zeit in der Fondation Maeght, die als perfekter Indoor-Rückzugsort fungiert.\nNachmittags nehmen wir den Bus nach Cagnes-sur-Mer, um das Renoir-Museum zu besuchen – ein idealer Ort bei Regen. Der Tag endet am Cros-de-Cagnes Strand, wo wir das stürmische Meer von einem gemütlichen Café aus beobachten.",
             "hu": "A reggel a 400-as busszal indul Saint-Paul falu felé, miközben szárazon nézünk ki az ablakon. Délben sok időt töltünk a Fondation Maeght-nál, amely tökéletes fedett menedékként szolgál.\nDélután busszal megyünk Cagnes-sur-Merbe a Renoir Múzeumba – ideális hely esőben. A nap a Cros-de-Cagnes strandon zárul, ahol egy barátságos kávézóból figyeljük a viharos tengert.",
             "ro": "Dimineața începe cu drumul cu autobuzul (linia 400) spre satul Saint-Paul, privind ploaia pe geam. La prânz petrecem mult timp la Fondation Maeght, un refugiu interior perfect.\nDupă-amiaza luăm autobuzul spre Cagnes-sur-Mer pentru a vizita Muzeul Renoir – un loc ideal pe ploaie. Ziua se încheie pe plaja Cros-de-Cagnes, privind marea agitată dintr-o cafenea primitoare.",
-            "en": "The morning starts with a bus ride (line 400) to Saint-Paul village, staying dry while looking out the window. At noon, we spend ample time at Fondation Maeght, which serves as a perfect indoor retreat.\nIn the afternoon, we take the bus to Cagnes-sur-Mer to visit the Renoir Museum—an ideal spot for rainy days. The day ends at Cros-de-Cagnes beach, watching the stormy sea from a cozy café."
+            "en": "The morning starts with a bus ride (line 400) to Saint-Paul village, staying dry while looking out the window. At noon, we spend ample time at Fondation Maeght, which serves as a perfect indoor retreat.\nIn the afternoon, we take the bus to Cagnes-sur-Mer to visit the Renoir Museum—an ideal spot for rainy days. The day ends at Cros-de-Cagnes beach, watching the stormy sea from a cozy café.",
+            "fr": "La matinée commence par un trajet en bus (ligne 400) vers le village de Saint-Paul, en restant au sec tout en regardant par la fenêtre. À midi, nous passons un long moment à la Fondation Maeght, qui sert de parfait refuge intérieur.\nL'après-midi, nous prenons le bus pour Cagnes-sur-Mer afin de visiter le musée Renoir — un endroit idéal pour les jours de pluie. La journée se termine à la plage du Cros-de-Cagnes, en observant la mer agitée depuis un café confortable."
           },
           "stops": [
             {
@@ -2598,7 +2834,8 @@
                 "de": "Das Wartehäuschen bietet begrenzten Schutz.",
                 "hu": "A buszváró korlátozott védelmet nyújt.",
                 "ro": "Adăpostul din stație oferă protecție limitată.",
-                "en": "The bus shelter offers limited protection."
+                "en": "The bus shelter offers limited protection.",
+                "fr": "L'abri de bus offre une protection limitée."
               }
             },
             {
@@ -2607,7 +2844,8 @@
                 "de": "10 Minuten Fußweg vom Bus, Schirm mitnehmen.",
                 "hu": "10 perc séta a busztól, vigyen ernyőt.",
                 "ro": "10 minute de mers de la autobuz, luați umbrela.",
-                "en": "10-minute walk from the bus stop; bring an umbrella."
+                "en": "10-minute walk from the bus stop; bring an umbrella.",
+                "fr": "10 minutes de marche depuis l'arrêt de bus ; apportez un parapluie."
               }
             },
             {
@@ -2616,7 +2854,8 @@
                 "de": "Wunderschöner Indoor-Bereich im Künstlerhaus.",
                 "hu": "Gyönyörű belső terek a művészházban.",
                 "ro": "Spații interioare superbe în casa artistului.",
-                "en": "Beautiful indoor spaces in the artist's house."
+                "en": "Beautiful indoor spaces in the artist's house.",
+                "fr": "Beaux espaces intérieurs dans la maison de l'artiste."
               }
             },
             {
@@ -2625,7 +2864,8 @@
                 "de": "Suchen Sie sich ein Café mit Meerblick.",
                 "hu": "Keressen egy tengerre néző kávézót.",
                 "ro": "Căutați o cafenea cu vedere la mare.",
-                "en": "Find a café with a view of the sea."
+                "en": "Find a café with a view of the sea.",
+                "fr": "Trouvez un café avec vue sur la mer."
               }
             }
           ],
@@ -2653,6 +2893,12 @@
               "Use the 'Lignes d'Azur' app for real-time information.",
               "The walk to Fondation Maeght is slightly uphill and unsheltered.",
               "Have exact change or a contactless card ready for the fare."
+            ],
+            "fr": [
+              "La fréquence des bus peut varier en raison de la circulation par temps de pluie.",
+              "Utilisez l'application 'Lignes d'Azur' pour des informations en temps réel.",
+              "La marche vers la Fondation Maeght est légèrement en montée et non abritée.",
+              "Ayez l'appoint ou une carte sans contact prête pour le ticket."
             ]
           }
         },
@@ -2661,7 +2907,8 @@
             "de": "Ein klarer Wintermorgen am Saint-Paul Village beginnt nach einer ruhigen Busfahrt ohne die üblichen Massen. Mittags genießen wir die Sonne in der Fondation Maeght, bevor wir die Wärme des Busses nach Cagnes suchen.\nAm Nachmittag führt uns der Weg zum Renoir-Museum, dessen Olivenhain im Winterlicht silbrig glänzt. Der Tag endet am Cros-de-Cagnes Strand, wo wir den frühen Sonnenuntergang gegen 17:00 Uhr über dem Mittelmeer bewundern.",
             "hu": "A tiszta téli reggel Saint-Paulban egy nyugodt buszozás után kezdődik, a szokásos tömeg nélkül. Délben a napsütést élvezzük a Fondation Maeght-nál, mielőtt a busz melegébe vágynánk Cagnes felé.\nDélután a Renoir Múzeumba látogatunk, melynek olajfái ezüstösen csillognak a téli fényben. A nap a Cros-de-Cagnes strandon zárul, ahol 17:00 körül megcsodáljuk a korai naplementét a Földközi-tenger felett.",
             "ro": "O dimineață clară de iarnă în Saint-Paul începe după o călătorie liniștită cu autobuzul, fără mulțimi. La prânz ne bucurăm de soare la Fondation Maeght, apoi căutăm căldura autobuzului spre Cagnes.\nDupă-amiaza vizităm Muzeul Renoir, a cărui livadă de măslini strălucește argintiu. Ziua se încheie pe plaja Cros-de-Cagnes, unde admirăm apusul devreme, în jurul orei 17:00.",
-            "en": "A clear winter morning in Saint-Paul begins after a quiet bus ride without the usual crowds. At noon, we enjoy the sun at Fondation Maeght before seeking the warmth of the bus to Cagnes.\nIn the afternoon, we visit the Renoir Museum, where the olive grove glistens silver in the winter light. The day ends at Cros-de-Cagnes beach, watching the early sunset over the Mediterranean around 17:00."
+            "en": "A clear winter morning in Saint-Paul begins after a quiet bus ride without the usual crowds. At noon, we enjoy the sun at Fondation Maeght before seeking the warmth of the bus to Cagnes.\nIn the afternoon, we visit the Renoir Museum, where the olive grove glistens silver in the winter light. The day ends at Cros-de-Cagnes beach, watching the early sunset over the Mediterranean around 17:00.",
+            "fr": "Un matin d'hiver clair à Saint-Paul commence après un trajet en bus tranquille sans les foules habituelles. À midi, nous profitons du soleil à la Fondation Maeght avant de chercher la chaleur du bus vers Cagnes.\nL'après-midi, nous visitons le musée Renoir, où l'oliveraie scintille de reflets argentés dans la lumière hivernale. La journée se termine à la plage du Cros-de-Cagnes, en regardant le coucher de soleil précoce sur la Méditerranée vers 17h00."
           },
           "stops": [
             {
@@ -2670,7 +2917,8 @@
                 "de": "Weniger Wartezeit durch weniger Touristen.",
                 "hu": "Kevesebb várakozási idő a kevesebb turista miatt.",
                 "ro": "Timp de așteptare redus datorită fluxului mic.",
-                "en": "Less waiting time due to fewer tourists."
+                "en": "Less waiting time due to fewer tourists.",
+                "fr": "Moins de temps d'attente car il y a moins de touristes."
               }
             },
             {
@@ -2679,7 +2927,8 @@
                 "de": "Wintersonne im Skulpturengarten genießen.",
                 "hu": "Élvezze a téli napot a szoborkertben.",
                 "ro": "Bucurați-vă de soarele de iarnă în grădină.",
-                "en": "Enjoy the winter sun in the sculpture garden."
+                "en": "Enjoy the winter sun in the sculpture garden.",
+                "fr": "Profitez du soleil d'hiver dans le jardin des sculptures."
               }
             },
             {
@@ -2688,7 +2937,8 @@
                 "de": "Die Gärten sind auch im Winter geöffnet.",
                 "hu": "A kertek télen is látogathatók.",
                 "ro": "Grădinile sunt deschise și pe timp de iarnă.",
-                "en": "The gardens remain open during the winter season."
+                "en": "The gardens remain open during the winter season.",
+                "fr": "Les jardins restent ouverts pendant la saison d'hiver."
               }
             },
             {
@@ -2697,7 +2947,8 @@
                 "de": "Perfekter Ort für den Sonnenuntergang.",
                 "hu": "Tökéletes helyszín a naplementéhez.",
                 "ro": "Locul perfect pentru a vedea apusul.",
-                "en": "Perfect spot to watch the early winter sunset."
+                "en": "Perfect spot to watch the early winter sunset.",
+                "fr": "Endroit parfait pour observer le coucher de soleil précoce d'hiver."
               }
             }
           ],
@@ -2725,6 +2976,12 @@
               "Check the winter schedule; there are fewer trips in the evening.",
               "Dusk at the beach begins well before 17:00.",
               "Combine the trip with a visit to the local market in Cagnes."
+            ],
+            "fr": [
+              "Les bus sont bien chauffés et confortables en hiver.",
+              "Vérifiez les horaires d'hiver ; il y a moins de trajets en soirée.",
+              "Le crépuscule à la plage commence bien avant 17h00.",
+              "Combinez le voyage avec une visite au marché local de Cagnes."
             ]
           }
         }

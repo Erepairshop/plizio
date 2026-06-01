@@ -36,7 +36,8 @@
             "de": "Eine Barockkirche aus dem 18. Jahrhundert im Zentrum.",
             "hu": "18. századi barokk templom a központban.",
             "ro": "O biserică barocă din secolul al XVIII-lea în centru.",
-            "en": "An 18th-century baroque church in the center."
+            "en": "An 18th-century baroque church in the center.",
+            "hr": "Barokna crkva iz 18. stoljeća u središtu mjesta."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Erfahren Sie mehr über das traditionelle Leben in der Lika-Region.",
             "hu": "Ismerje meg a Lika-régió hagyományos életmódját.",
             "ro": "Aflați mai multe despre viața tradițională din regiunea Lika.",
-            "en": "Learn more about the traditional life in the Lika region."
+            "en": "Learn more about the traditional life in the Lika region.",
+            "hr": "Saznajte više o tradicionalnom životu u Lici."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Ein Ort des Gedenkens im Zentrum von Lovinac.",
             "hu": "Emlékhely Lovinac központjában.",
             "ro": "Un loc de comemorare în centrul orașului Lovinac.",
-            "en": "A place of remembrance in the center of Lovinac."
+            "en": "A place of remembrance in the center of Lovinac.",
+            "hr": "Mjesto sjećanja u središtu Lovinca."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Bekanntes Ausflugsziel mit Spielplätzen und Rodelbahn im Winter.",
             "hu": "Népszerű kirándulóhely játszóterekkel, télen szánkópályával.",
             "ro": "Destinație populară de excursie cu locuri de joacă și pistă de sanie iarna.",
-            "en": "Known excursion spot with playgrounds and a sledding hill in winter."
+            "en": "Known excursion spot with playgrounds and a sledding hill in winter.",
+            "hr": "Poznato izletište s dječjim igralištima i sanjkalištem zimi."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Klares Quellwasser in einer friedlichen natürlichen Umgebung.",
             "hu": "Tiszta forrásvíz békés természeti környezetben.",
             "ro": "Apă de izvor limpede într-un mediu natural liniștit.",
-            "en": "Clear spring water in a peaceful natural environment."
+            "en": "Clear spring water in a peaceful natural environment.",
+            "hr": "Bistra izvorska voda u mirnom prirodnom okruženju."
           }
         }
       ],
@@ -136,7 +141,8 @@
         "de": "Ihr Tag in Lovinac beginnt beschaulich im Dorfzentrum. Sie besuchen die Barockkirche des Hl. Michael und die Ethnografische Sammlung, um die Seele der Lika-Region zu verstehen.\n\nMittags machen Sie einen kurzen Spaziergang zum Denkmal im Zentrum, bevor Sie ein traditionelles Mittagessen genießen.\n\nDen Nachmittag verbringen Sie aktiv am Hügel Cvituša, einem beliebten Treffpunkt für Familien und Naturliebhaber.\n\nAm späten Nachmittag wandern Sie zur Mudrica-Quelle, um das erfrischende Wasser direkt aus der Natur zu probieren.",
         "hu": "Lovinaci napja békésen indul a falu központjában. Meglátogatja a barokk Szent Mihály-templomot és a Néprajzi Gyűjteményt, hogy megértse a Lika-régió lelkét.\n\nDélben egy rövid sétát tesz a központi emlékműhöz, mielőtt elfogyasztana egy hagyományos ebédet.\n\nA délutánt aktívan tölti a Cvituša-dombon, amely a családok és a természetbarátok kedvelt találkozóhelye.\n\nKéső délután elsétál a Mudrica-forráshoz, hogy megkóstolja a természetből eredő frissítő vizet.",
         "ro": "Ziua dvs. în Lovinac începe liniștit în centrul satului. Vizitați biserica barocă Sfântul Mihail și Colecția Etnografică pentru a înțelege spiritul regiunii Lika.\n\nLa prânz faceți o scurtă plimbare la monumentul din centru, înainte de a savura un prânz tradițional.\n\nDupă-amiaza o petreceți activ pe dealul Cvituša, un loc popular de întâlnire pentru familii și iubitorii de natură.\n\nSpre seară mergeți până la izvorul Mudrica pentru a gusta apa răcoritoare direct din natură.",
-        "en": "Your day in Lovinac starts peacefully in the village center. You visit the Baroque Church of St. Michael and the Ethnographic Collection to understand the soul of the Lika region.\n\nAt midday, take a short walk to the monument in the center before enjoying a traditional lunch.\n\nSpend the afternoon actively at Cvituša Hill, a favorite meeting spot for families and nature lovers.\n\nIn the late afternoon, hike to the Mudrica Source to taste the refreshing water directly from nature."
+        "en": "Your day in Lovinac starts peacefully in the village center. You visit the Baroque Church of St. Michael and the Ethnographic Collection to understand the soul of the Lika region.\n\nAt midday, take a short walk to the monument in the center before enjoying a traditional lunch.\n\nSpend the afternoon actively at Cvituša Hill, a favorite meeting spot for families and nature lovers.\n\nIn the late afternoon, hike to the Mudrica Source to taste the refreshing water directly from nature.",
+        "hr": "Vaš dan u Lovincu počinje mirno u središtu sela. Posjetite baroknu crkvu sv. Mihovila i Etnografsku zbirku kako biste upoznali dušu Like.\n\nSredinom dana prošećite do spomenika u centru prije tradicionalnog ručka.\n\nPoslijepodne provedite aktivno na brdu Cvituša, omiljenom okupljalištu obitelji i ljubitelja prirode.\n\nKasno poslijepodne pješačite do izvora Mudrica i kušajte osvježavajuću vodu izravno iz prirode."
       },
       "gastro_picks": {
         "de": [
@@ -161,6 +167,12 @@
           {
             "name": "Lika Potatoes",
             "tip": "Try the protected potatoes (Lički krumpir) with local 'Basa' cheese."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lički krumpir",
+            "tip": "Probajte zaštićeni lički krumpir s lokalnim sirom basom."
           }
         ]
       },
@@ -192,6 +204,13 @@
             "tip": "Gentle splashing and fresh forest air.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Izvor Mudrica",
+            "tip": "Lagano prskanje vode i svjež šumski zrak.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -217,6 +236,12 @@
           {
             "name": "Farm Sales",
             "tip": "Buy honey and cheese directly from the locals."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Prodaja na farmama",
+            "tip": "Kupite med i sir izravno od mještana."
           }
         ]
       },
@@ -244,6 +269,12 @@
           "The weather in Lika can change quickly, so take a jacket.",
           "Ask in the village for local guides for longer hikes.",
           "The Mudrica Source is also a great place for a picnic."
+        ],
+        "hr": [
+          "Lovinac je vrlo miran, idealan za laganu rekreaciju.",
+          "Vrijeme u Lici može se brzo promijeniti, pa ponesite jaknu.",
+          "U selu se raspitajte za lokalne vodiče za duža pješačenja.",
+          "Izvor Mudrica je također izvrsno mjesto za piknik."
         ]
       },
       "variants": {
@@ -440,7 +471,8 @@
             "de": "Beginnen Sie Ihren Tag in Lovinac geschützt unter dem Dach der Kirche St. Michael. Mittags bietet die Ethnographische Sammlung den perfekten Rückzugsort vor dem Regen, während Sie in die Geschichte der Lika eintauchen. Nachmittags führt der Weg zum Cvituša-Hügel, wo die tief hängenden Wolken eine mystische Atmosphäre schaffen. Den Tag lassen Sie ruhig ausklingen, während der Regen auf die Mudrica-Quelle prasselt.",
             "hu": "Kezdje a napot Lovinacban a Szent Mihály-templom védelmében. Délben az Néprajzi Gyűjtemény tökéletes menedéket nyújt az eső elől, miközben megismeri Lika történelmét. Délután a Cvituša-domb felé veheti az irányt, ahol az alacsonyan szálló felhők misztikus hangulatot árasztanak. A napot a Mudrica-forrásnál zárhatja, hallgatva az esőcseppek kopogását a vízen.",
             "ro": "Începeți ziua în Lovinac sub protecția Bisericii Sfântul Mihail. La prânz, Colecția Etnografică oferă refugiul perfect împotriva ploii, în timp ce descoperiți istoria regiunii Lika. După-amiaza, drumul duce spre dealul Cvituša, unde norii joși creează o atmosferă mistică. Încheiați ziua liniștit la Izvorul Mudrica, ascultând ropotul ploii pe suprafața apei.",
-            "en": "Start your day in Lovinac sheltered by the Church of St. Michael. At midday, the Ethnographic Collection provides the perfect refuge from the rain while you explore Lika's history. In the afternoon, head towards Cvituša Hill, where low clouds create a mystical atmosphere. End the day peacefully at the Mudrica Source, listening to the rain tapping on the water."
+            "en": "Start your day in Lovinac sheltered by the Church of St. Michael. At midday, the Ethnographic Collection provides the perfect refuge from the rain while you explore Lika's history. In the afternoon, head towards Cvituša Hill, where low clouds create a mystical atmosphere. End the day peacefully at the Mudrica Source, listening to the rain tapping on the water.",
+            "hr": "Započnite dan u Lovincu pod krovom crkve sv. Mihovila. Sredinom dana, Etnografska zbirka pruža savršeno utočište od kiše dok istražujete povijest Like. Poslijepodne se uputite prema brdu Cvituša, gdje niski oblaci stvaraju mističnu atmosferu. Završite dan mirno na izvoru Mudrica, slušajući kišu kako kucka po vodi."
           },
           "stops": [
             {
@@ -449,7 +481,8 @@
                 "de": "Nutzen Sie den Vorraum zum Unterstellen und bewundern Sie die Architektur im Trockenen.",
                 "hu": "Használja az előteret menedékként, és csodálja meg az építészetet szárazon.",
                 "ro": "Folosiți pridvorul pentru adăpost și admirați arhitectura la adăpost de ploaie.",
-                "en": "Use the porch for shelter and admire the architecture while staying dry."
+                "en": "Use the porch for shelter and admire the architecture while staying dry.",
+                "hr": "Iskoristite trijem za zaklon i divite se arhitekturi dok ostajete suhi."
               }
             },
             {
@@ -458,7 +491,8 @@
                 "de": "Der ideale Ort für Regentage; nehmen Sie sich Zeit für die detaillierten Exponate.",
                 "hu": "Ideális hely esős napokra; szánjon időt a részletes kiállítási tárgyakra.",
                 "ro": "Locul ideal pentru zilele ploioase; acordați-vă timp pentru exponatele detaliate.",
-                "en": "Ideal spot for rainy days; take your time with the detailed exhibits."
+                "en": "Ideal spot for rainy days; take your time with the detailed exhibits.",
+                "hr": "Idealno mjesto za kišne dane; ne žurite s pregledom detaljnih izložaka."
               }
             },
             {
@@ -467,7 +501,8 @@
                 "de": "Ein kurzer Stopp unter dem Regenschirm reicht hier völlig aus.",
                 "hu": "Egy rövid megálló esernyő alatt itt bőven elegendő.",
                 "ro": "O oprire scurtă sub umbrelă este suficientă aici.",
-                "en": "A brief stop under an umbrella is quite enough here."
+                "en": "A brief stop under an umbrella is quite enough here.",
+                "hr": "Kratko zaustavljanje pod kišobranom ovdje je sasvim dovoljno."
               }
             },
             {
@@ -476,7 +511,8 @@
                 "de": "Vorsicht, die Pfade können rutschig sein. Festes Schuhwerk ist heute Pflicht.",
                 "hu": "Vigyázat, az ösvények csúszósak lehetnek. A túrabakancs ma kötelező.",
                 "ro": "Atenție, potecile pot fi alunecoase. Încălțămintea solidă este obligatorie astăzi.",
-                "en": "Caution, paths can be slippery. Sturdy footwear is a must today."
+                "en": "Caution, paths can be slippery. Sturdy footwear is a must today.",
+                "hr": "Oprez, staze mogu biti skliske. Čvrsta obuća danas je obavezna."
               }
             },
             {
@@ -485,7 +521,8 @@
                 "de": "Das Wasserrauschen ist bei Regen besonders intensiv; achten Sie auf festen Stand.",
                 "hu": "A víz csobogása esőben különösen intenzív; ügyeljen a stabil állásra.",
                 "ro": "Susurul apei este deosebit de intens pe ploaie; atenție la stabilitatea pe teren.",
-                "en": "The sound of water is especially intense in the rain; watch your footing."
+                "en": "The sound of water is especially intense in the rain; watch your footing.",
+                "hr": "Zvuk vode je posebno intenzivan na kiši; pazite na korak."
               }
             }
           ],
@@ -513,6 +550,12 @@
               "The Ethnographic Collection offers the best protection during heavy showers.",
               "A compact umbrella is more practical than a poncho for quick transitions to indoor sites.",
               "Allocate more time for indoor visits to avoid the heaviest rain periods."
+            ],
+            "hr": [
+              "Nosite vodootporne cipele jer staze oko Cvituše mogu biti blatnjave.",
+              "Etnografska zbirka nudi najbolju zaštitu tijekom jakih pljuskova.",
+              "Kompaktni kišobran praktičniji je od kabanice za brze prijelaze u zatvorene prostore.",
+              "Odvojite više vremena za unutarnje posjete kako biste izbjegli razdoblja najjače kiše."
             ]
           }
         },
@@ -521,7 +564,8 @@
             "de": "Ein klarer Wintermorgen beginnt an der Kirche St. Michael, wo der Frost die Architektur verziert. Mittags wärmen Sie sich in der Ethnographischen Sammlung auf und erfahren mehr über das harte Leben früherer Generationen im Winter. Der Nachmittag am Cvituša-Hügel bietet oft Gelegenheiten zum Rodeln oder für Schneeschuhwanderungen. Vor Sonnenuntergang besuchen Sie die gefrorene Mudrica-Quelle in ihrer eisigen Pracht.",
             "hu": "Egy tiszta téli reggel kezdődik a Szent Mihály-templomnál, ahol a dér díszíti az épületet. Délben a Néprajzi Gyűjteményben melegedhet fel, megismerve a korábbi generációk kemény téli életét. A délután a Cvituša-dombon gyakran ad lehetőséget szánkózásra vagy hótalpas túrázásra. Naplemente előtt látogassa meg a fagyott Mudrica-forrást jégszoborszerű pompájában.",
             "ro": "O dimineață senină de iarnă începe la Biserica Sfântul Mihail, unde chiciura decorează arhitectura. La prânz, încălziți-vă în Colecția Etnografică, aflând despre viața aspră de iarnă a generațiilor trecute. După-amiaza la dealul Cvituša oferă adesea ocazii pentru săniuș sau drumeții cu rachete de zăpadă. Înainte de apus, vizitați Izvorul Mudrica în splendoarea sa înghețată.",
-            "en": "A clear winter morning begins at the Church of St. Michael, where frost decorates the architecture. At midday, warm up in the Ethnographic Collection, learning about the tough winter life of past generations. The afternoon at Cvituša Hill often offers chances for sledding or snowshoeing. Before sunset, visit the frozen Mudrica Source in its icy splendor."
+            "en": "A clear winter morning begins at the Church of St. Michael, where frost decorates the architecture. At midday, warm up in the Ethnographic Collection, learning about the tough winter life of past generations. The afternoon at Cvituša Hill often offers chances for sledding or snowshoeing. Before sunset, visit the frozen Mudrica Source in its icy splendor.",
+            "hr": "Vedro zimsko jutro počinje kod crkve sv. Mihovila, gdje mraz ukrašava arhitekturu. Sredinom dana ugrijte se u Etnografskoj zbirci, učeći o teškom zimskom životu prošlih generacija. Poslijepodne na brdu Cvituša često nudi priliku za sanjkanje ili hodanje na krpljama. Prije zalaska sunca posjetite zaleđeni izvor Mudrica u njegovom ledenom sjaju."
           },
           "stops": [
             {
@@ -530,7 +574,8 @@
                 "de": "Beachten Sie die kurzen Öffnungszeiten im Winter; oft nur zu den Gottesdiensten offen.",
                 "hu": "Ügyeljen a rövid téli nyitvatartásra; gyakran csak a szertatások alatt látogatható.",
                 "ro": "Atenție la programul scurt de iarnă; adesea deschis doar în timpul slujbelor.",
-                "en": "Note the short winter hours; often only open during services."
+                "en": "Note the short winter hours; often only open during services.",
+                "hr": "Obratite pažnju na kratko zimsko radno vrijeme; često otvoreno samo tijekom misa."
               }
             },
             {
@@ -539,7 +584,8 @@
                 "de": "Genießen Sie die Wärme im Inneren und fragen Sie nach lokalen Wintertraditionen.",
                 "hu": "Élvezze a benti meleget, és kérdezzen a helyi téli hagyományokról.",
                 "ro": "Bucurați-vă de căldura din interior și întrebați despre tradițiile locale de iarnă.",
-                "en": "Enjoy the warmth inside and ask about local winter traditions."
+                "en": "Enjoy the warmth inside and ask about local winter traditions.",
+                "hr": "Uživajte u toplini unutra i raspitajte se o lokalnim zimskim tradicijama."
               }
             },
             {
@@ -548,7 +594,8 @@
                 "de": "Der Kontrast des dunklen Denkmals zum weißen Schnee ist ein tolles Fotomotiv.",
                 "hu": "A sötét emlékmű és a fehér hó kontrasztja remek fotótéma.",
                 "ro": "Contrastul monumentului întunecat cu zăpada albă este un motiv fotografic excelent.",
-                "en": "The contrast of the dark monument against the white snow makes for a great photo."
+                "en": "The contrast of the dark monument against the white snow makes for a great photo.",
+                "hr": "Kontrast tamnog spomenika na bijelom snijegu pruža izvrsnu priliku za fotografiju."
               }
             },
             {
@@ -557,7 +604,8 @@
                 "de": "Beliebter Ort zum Rodeln; bringen Sie einen Schlitten mit, wenn Schnee liegt.",
                 "hu": "Népszerű szánkózóhely; hozzon szánkót, ha áll a hó.",
                 "ro": "Loc popular pentru săniuș; aduceți o sanie dacă este zăpadă.",
-                "en": "Popular spot for sledding; bring a sled if there's snow."
+                "en": "Popular spot for sledding; bring a sled if there's snow.",
+                "hr": "Popularno mjesto za sanjkanje; ponesite sanjke ako ima snijega."
               }
             },
             {
@@ -566,7 +614,8 @@
                 "de": "Achten Sie auf Glatteis an den Ufern; die Steine sind extrem rutschig.",
                 "hu": "Ügyeljen a tükörjégre a parton; a kövek rendkívül csúszósak.",
                 "ro": "Atenție la polei pe maluri; pietrele sunt extrem de alunecoase.",
-                "en": "Watch out for black ice on the banks; the stones are extremely slippery."
+                "en": "Watch out for black ice on the banks; the stones are extremely slippery.",
+                "hr": "Čuvajte se poledice na obalama; kamenje je izuzetno sklisko."
               }
             }
           ],
@@ -594,6 +643,12 @@
               "The sun sets as early as 16:30, plan your return in good time.",
               "Check if the Cvituša center is open for hot drinks.",
               "Wear insulated boots as the ground remains frozen for long periods."
+            ],
+            "hr": [
+              "U Lici može biti izuzetno hladno; odjenite se slojevito.",
+              "Sunce zalazi već oko 16:30, planirajte povratak na vrijeme.",
+              "Provjerite je li centar na Cvituši otvoren za tople napitke.",
+              "Nosite izolirane čizme jer tlo ostaje smrznuto dugo vremena."
             ]
           }
         }
@@ -627,7 +682,8 @@
             "de": "Eine malerische Brücke über den Gebirgsbach Suvaja.",
             "hu": "Festői híd a Suvaja hegyi patak felett.",
             "ro": "Un pod pitoresc peste pârâul de munte Suvaja.",
-            "en": "A picturesque bridge over the Suvaja mountain stream."
+            "en": "A picturesque bridge over the Suvaja mountain stream.",
+            "hr": "Slikoviti most preko planinskog potoka Suvaje."
           }
         },
         {
@@ -650,7 +706,8 @@
             "de": "Hier können Sie eine längere Pause einlegen und Fahrräder sicher abstellen.",
             "hu": "Itt hosszabb pihenőt tarthat, és biztonságosan leállíthatja a kerékpárokat.",
             "ro": "Aici puteți lua o pauză mai lungă și puteți parca bicicletele în siguranță.",
-            "en": "Here you can take a longer break and park bikes safely."
+            "en": "Here you can take a longer break and park bikes safely.",
+            "hr": "Ovdje možete napraviti dužu pauzu i sigurno parkirati bicikle."
           }
         },
         {
@@ -673,7 +730,8 @@
             "de": "Interessanter Stopp für kulturelle Einblicke am Rückweg.",
             "hu": "Érdekes megálló kulturális betekintéshez a visszaúton.",
             "ro": "Oprire interesantă pentru incursiuni culturale la întoarcere.",
-            "en": "Interesting stop for cultural insights on the way back."
+            "en": "Interesting stop for cultural insights on the way back.",
+            "hr": "Zanimljiva postaja za kulturni uvid na povratku."
           }
         },
         {
@@ -696,7 +754,8 @@
             "de": "Abschluss Ihrer Tour im Dorfzentrum.",
             "hu": "A túra befejezése a falu központjában.",
             "ro": "Finalul turului dvs. în centrul satului.",
-            "en": "Completion of your tour in the village center."
+            "en": "Completion of your tour in the village center.",
+            "hr": "Završetak vaše ture u središtu sela."
           }
         }
       ],
@@ -704,7 +763,8 @@
         "de": "Mit dem Fahrrad erkunden Sie die weite Ebene von Lovinac. Sie starten morgens an der historischen Steinbrücke am Suvaja-Bach.\n\nMittags erreichen Sie den Cvituša-Hügel, wo Sie sich im Schatten der Bäume erholen können.\n\nAm Nachmittag radeln Sie zurück ins Dorf, besuchen die ethnografische Sammlung und die Kirche, um den Tag abzurunden.\n\nDie Wege sind meist flach und bieten wunderbare Ausblicke auf das Velebit-Massiv.",
         "hu": "Kerékpárral felfedezheti Lovinac tágas síkságát. Reggel a Suvaja-patak történelmi kőhídjánál indul.\n\nDélben eléri a Cvituša-dombot, ahol a fák árnyékában pihenhet.\n\nDélután visszakerekezik a faluba, meglátogatja a néprajzi gyűjteményt és a templomot, hogy teljessé tegye a napot.\n\nAz utak többnyire síkak, és csodálatos kilátást nyújtanak a Velebit-hegységre.",
         "ro": "Cu bicicleta veți explora câmpia largă a orașului Lovinac. Începeți dimineața la podul istoric de piatră de peste pârâul Suvaja.\n\nLa prânz ajungeți la dealul Cvituša, unde vă puteți relaxa la umbra copacilor.\n\nDupă-amiaza pedalați înapoi în sat, vizitați colecția etnografică și biserica pentru a completa ziua.\n\nTraseele sunt în mare parte plate și oferă vederi minunate către masivul Velebit.",
-        "en": "By bike, you explore the wide plain of Lovinac. You start in the morning at the historical stone bridge on the Suvaja stream.\n\nAt midday, you reach Cvituša Hill, where you can relax in the shade of the trees.\n\nIn the afternoon, cycle back to the village, visit the ethnographic collection and the church to round off the day.\n\nThe paths are mostly flat and offer wonderful views of the Velebit massif."
+        "en": "By bike, you explore the wide plain of Lovinac. You start in the morning at the historical stone bridge on the Suvaja stream.\n\nAt midday, you reach Cvituša Hill, where you can relax in the shade of the trees.\n\nIn the afternoon, cycle back to the village, visit the ethnographic collection and the church to round off the day.\n\nThe paths are mostly flat and offer wonderful views of the Velebit massif.",
+        "hr": "Biciklom istražujete prostrano lovinačko polje. Počinjete ujutro na povijesnom kamenom mostu na potoku Suvaja.\n\nSredinom dana stižete do brda Cvituša, gdje se možete opustiti u hladovini drveća.\n\nPoslijepodne se odvezite natrag u selo, posjetite etnografsku zbirku i crkvu kako biste zaokružili dan.\n\nStaze su uglavnom ravne i nude prekrasne vidike na masiv Velebita."
       },
       "gastro_picks": {
         "de": [
@@ -729,6 +789,12 @@
           {
             "name": "Homemade Apple Juice",
             "tip": "Refreshing and natural from local farmers."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Domaći sok od jabuke",
+            "tip": "Osvježavajuće i prirodno od lokalnih farmera."
           }
         ]
       },
@@ -760,6 +826,13 @@
             "tip": "Quiet water and lots of green.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obale Suvaje",
+            "tip": "Tiha voda i puno zelenila.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -785,6 +858,12 @@
           {
             "name": "Lika Wool Products",
             "tip": "Traditional hand-knitted socks."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Proizvodi od ličke vune",
+            "tip": "Tradicionalne ručno pletene čarape."
           }
         ]
       },
@@ -812,6 +891,12 @@
           "The sun can be strong on the plain, use sun protection.",
           "Gravel paths are better suited for mountain bikes.",
           "Refill your water bottles at the Mudrica source."
+        ],
+        "hr": [
+          "Prometa je malo, ali pripazite na životinje na cesti.",
+          "Sunce može biti jako u polju, koristite zaštitu od sunca.",
+          "Makadamski putovi su prikladniji za brdske bicikle.",
+          "Dopunite boce vodom na izvoru Mudrica."
         ]
       },
       "variants": {
@@ -994,7 +1079,8 @@
             "de": "Die Radtour beginnt erfrischend an der Steinbrücke über die Suvaja, wo das Wasser heute kräftiger fließt. Der Aufstieg zum Cvituša-Hügel erfordert bei nassen Wegen Konzentration, belohnt aber mit dramatischer Aussicht. Mittags nutzen Sie die Zeit in der Ethnographischen Sammlung zum Trocknen. Den Abschluss bildet die Kirche St. Michael, bevor Sie die kurze Heimfahrt antreten.",
             "hu": "A biciklitúra frissítően indul a Suvaja kőhídjánál, ahol a víz ma erősebben zúdul. A Cvituša-dombra való felkapaszkodás vizes úton koncentrációt igényel, de drámai kilátással jutalmaz. Délben használja ki az időt a Néprajzi Gyűjteményben a száradásra. A napot a Szent Mihály-templom zárja a rövid hazautazás előtt.",
             "ro": "Turul cu bicicleta începe revigorant la podul de piatră peste Suvaja, unde apa curge mai puternic astăzi. Urcarea pe dealul Cvituša necesită concentrare pe drumurile ude, dar răsplătește cu vederi dramatice. La prânz, profitați de timpul în Colecția Etnografică pentru a vă usca. Încheierea aparține Bisericii Sfântul Mihail înainte de scurta călătorie spre casă.",
-            "en": "The bike tour starts refreshingly at the stone bridge over the Suvaja, where the water flows more powerfully today. The climb to Cvituša Hill requires concentration on wet paths but rewards with dramatic views. At midday, use the time in the Ethnographic Collection to dry off. The day ends at the Church of St. Michael before your short ride home."
+            "en": "The bike tour starts refreshingly at the stone bridge over the Suvaja, where the water flows more powerfully today. The climb to Cvituša Hill requires concentration on wet paths but rewards with dramatic views. At midday, use the time in the Ethnographic Collection to dry off. The day ends at the Church of St. Michael before your short ride home.",
+            "hr": "Biciklistička tura počinje osvježavajuće kod kamenog mosta preko Suvaje, gdje voda danas jače teče. Uspon na brdo Cvituša zahtijeva koncentraciju na mokrim stazama, ali nagrađuje dramatičnim vidicima. Sredinom dana iskoristite vrijeme u Etnografskoj zbirci da se osušite. Dan završava kod crkve sv. Mihovila prije kratke vožnje kući."
           },
           "stops": [
             {
@@ -1003,7 +1089,8 @@
                 "de": "Vorsicht auf dem Steinpflaster der Brücke; es wird bei Nässe sehr glatt.",
                 "hu": "Vigyázat a híd kőburkolatán; nedvesen nagyon csúszóssá válik.",
                 "ro": "Atenție pe pavajul de piatră al podului; devine foarte alunecos când este ud.",
-                "en": "Caution on the stone pavement of the bridge; it gets very slick when wet."
+                "en": "Caution on the stone pavement of the bridge; it gets very slick when wet.",
+                "hr": "Oprez na kamenom opločenju mosta; postaje vrlo sklisko kad je mokro."
               }
             },
             {
@@ -1012,7 +1099,8 @@
                 "de": "Nutzen Sie niedrigere Gänge für den Anstieg auf dem weichen Boden.",
                 "hu": "Használjon alacsonyabb sebességfokozatot a puha talajon való emelkedéshez.",
                 "ro": "Folosiți trepte de viteză inferioare pentru urcarea pe terenul moale.",
-                "en": "Use lower gears for the climb on the soft ground."
+                "en": "Use lower gears for the climb on the soft ground.",
+                "hr": "Koristite niže stupnjeve prijenosa za uspon na mekanom tlu."
               }
             },
             {
@@ -1021,7 +1109,8 @@
                 "de": "Sicherer Abstellplatz für Fahrräder im Außenbereich vorhanden.",
                 "hu": "Biztonságos kerékpártároló áll rendelkezésre a külső területen.",
                 "ro": "Loc sigur pentru parcarea bicicletelor disponibil în zona exterioară.",
-                "en": "Safe bicycle parking area available in the outdoor section."
+                "en": "Safe bicycle parking area available in the outdoor section.",
+                "hr": "Dostupan siguran parking za bicikle u vanjskom dijelu."
               }
             },
             {
@@ -1030,7 +1119,8 @@
                 "de": "Kurze Rast im Trockenen, bevor es zurück geht.",
                 "hu": "Rövid pihenő szárazon, mielőtt visszaindulna.",
                 "ro": "Scurt popas la adăpost înainte de a porni înapoi.",
-                "en": "Short rest in the dry before heading back."
+                "en": "Short rest in the dry before heading back.",
+                "hr": "Kratki odmor na suhom prije povratka."
               }
             }
           ],
@@ -1058,6 +1148,12 @@
               "Check your brake pads; braking efficiency is reduced on wet stones.",
               "Wear a high-visibility rain jacket for better visibility in the mist.",
               "Avoid deep puddles as they might hide potholes."
+            ],
+            "hr": [
+              "Blatobrani su danas neophodni kako biste izbjegli prskanje blata.",
+              "Provjerite kočnice; učinkovitost kočenja smanjena je na mokrom kamenju.",
+              "Nosite uočljivu kišnu jaknu za bolju vidljivost u magli.",
+              "Izbjegavajte duboke lokve jer mogu skrivati rupe na putu."
             ]
           }
         },
@@ -1066,7 +1162,8 @@
             "de": "Erleben Sie eine frostige Wintertour zur historischen Steinbrücke, deren Konturen im Reif glänzen. Der Cvituša-Hügel bietet eine fantastische Winterkulisse für eine kurze Pause. Mittags ist die Ethnographische Sammlung eine willkommene Wärmestube mit kulturellem Mehrwert. Der Besuch der Kirche St. Michael rundet die Tour ab, bevor die Kälte am späten Nachmittag anzieht.",
             "hu": "Éljen át egy deres téli túrát a történelmi kőhídhoz, melynek körvonalai csillognak a zúzmarában. A Cvituša-domb fantasztikus téli hátteret nyújt egy rövid pihenőhöz. Délben a Néprajzi Gyűjtemény szívesen látott melegedő kulturális többletértékkel. A Szent Mihály-templom meglátogatása teszi teljessé a túrát, mielőtt a hideg késő délután beköszönt.",
             "ro": "Experimentați un tur de iarnă geros către podul istoric de piatră, ale cărui contururi strălucesc în chiciură. Dealul Cvituša oferă un decor de iarnă fantastic pentru o scurtă pauză. La prânz, Colecția Etnografică este un refugiu călduros binevenit, cu valoare culturală adăugată. Vizitarea Bisericii Sfântul Mihail completează turul înainte ca frigul să se intensifice după-amiaza târziu.",
-            "en": "Experience a frosty winter ride to the historical stone bridge, its contours glistening in the rime. Cvituša Hill provides a fantastic winter backdrop for a short break. At midday, the Ethnographic Collection is a welcome warm refuge with cultural added value. A visit to the Church of St. Michael rounds off the tour before the cold intensifies in the late afternoon."
+            "en": "Experience a frosty winter ride to the historical stone bridge, its contours glistening in the rime. Cvituša Hill provides a fantastic winter backdrop for a short break. At midday, the Ethnographic Collection is a welcome warm refuge with cultural added value. A visit to the Church of St. Michael rounds off the tour before the cold intensifies in the late afternoon.",
+            "hr": "Doživite ledenu zimsku vožnju do povijesnog kamenog mosta čije konture blistaju pod injem. Brdo Cvituša pruža fantastičnu zimsku kulisu za kratki predah. Sredinom dana, Etnografska zbirka je dobrodošlo toplo utočište s kulturnom vrijednošću. Posjet crkvi sv. Mihovila zaokružuje turu prije nego što hladnoća pojača u kasno poslijepodne."
           },
           "stops": [
             {
@@ -1075,7 +1172,8 @@
                 "de": "Achten Sie auf überfrierende Nässe auf der Brückenoberfläche.",
                 "hu": "Ügyeljen a híd felületén lévő lefagyásokra.",
                 "ro": "Atenție la porțiunile de gheață de pe suprafața podului.",
-                "en": "Watch out for patches of ice on the bridge surface."
+                "en": "Watch out for patches of ice on the bridge surface.",
+                "hr": "Pazite na dijelove leda na površini mosta."
               }
             },
             {
@@ -1084,7 +1182,8 @@
                 "de": "Bleiben Sie auf den geräumten Wegen, um tiefen Schnee zu vermeiden.",
                 "hu": "Maradjon a letakarított utakon a mély hó elkerülése érdekében.",
                 "ro": "Rămâneți pe căile curățate pentru a evita zăpada adâncă.",
-                "en": "Stay on the cleared paths to avoid deep snow."
+                "en": "Stay on the cleared paths to avoid deep snow.",
+                "hr": "Ostanite na očišćenim stazama kako biste izbjegli dubok snijeg."
               }
             },
             {
@@ -1093,7 +1192,8 @@
                 "de": "Nutzen Sie den Stopp für ein warmes Getränk aus der Thermoskanne.",
                 "hu": "Használja ki a megállót egy termoszból töltött meleg italra.",
                 "ro": "Profitați de oprire pentru o băutură caldă din termos.",
-                "en": "Use the stop for a warm drink from your thermos."
+                "en": "Use the stop for a warm drink from your thermos.",
+                "hr": "Iskoristite stajanje za topli napitak iz termice."
               }
             },
             {
@@ -1102,7 +1202,8 @@
                 "de": "Planen Sie den Rückweg vor Einbruch der Dunkelheit ein.",
                 "hu": "Tervezze meg a hazautat sötétedés előtt.",
                 "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
-                "en": "Plan your return trip before darkness falls."
+                "en": "Plan your return trip before darkness falls.",
+                "hr": "Planirajte povratak prije mraka."
               }
             }
           ],
@@ -1130,6 +1231,12 @@
               "Wear windproof clothing as the riding wind amplifies the cold.",
               "Lubricate your chain well as salt and moisture can damage it.",
               "Monitor e-bike battery life; cold temperatures significantly reduce capacity."
+            ],
+            "hr": [
+              "Zimske gume ili gume s dobrim profilom neophodne su za Liku.",
+              "Nosite odjeću otpornu na vjetar jer vjetar tijekom vožnje pojačava osjećaj hladnoće.",
+              "Dobro podmažite lanac jer mu sol i vlaga mogu naškoditi.",
+              "Pratite bateriju e-bicikla; niske temperature značajno smanjuju kapacitet."
             ]
           }
         }
@@ -1163,7 +1270,8 @@
             "de": "Ein markanter Felsen mitten im Lika-Feld; der Aufstieg dauert ca. 1 Stunde.",
             "hu": "Jellegzetes szikla a Lika-mező közepén; a felfutás kb. 1 órát vesz igénybe.",
             "ro": "O stâncă distinctivă în mijlocul câmpului Lika; urcarea durează aproximativ 1 oră.",
-            "en": "A distinctive rock in the middle of the Lika field; the climb takes about 1 hour."
+            "en": "A distinctive rock in the middle of the Lika field; the climb takes about 1 hour.",
+            "hr": "Upečatljiva stijena usred ličkog polja; uspon traje oko sat vremena."
           }
         },
         {
@@ -1186,7 +1294,8 @@
             "de": "Versteckte Höhlen in der Nähe, erkunden Sie sie mit Vorsicht.",
             "hu": "Rejtett barlangok a közelben, óvatosan fedezze fel őket.",
             "ro": "Peșteri ascunse în apropiere, explorați-le cu prudență.",
-            "en": "Hidden caves nearby, explore them with caution."
+            "en": "Hidden caves nearby, explore them with caution.",
+            "hr": "Skrivene pećine u blizini, istražite ih s oprezom."
           }
         },
         {
@@ -1209,7 +1318,8 @@
             "de": "Ein schöner Ort zum Abkühlen nach dem Wandern.",
             "hu": "Szép hely a hűsölésre a túrázás után.",
             "ro": "Un loc frumos pentru răcorire după drumeție.",
-            "en": "A nice place to cool down after hiking."
+            "en": "A nice place to cool down after hiking.",
+            "hr": "Lijepo mjesto za rashlađivanje nakon planinarenja."
           }
         },
         {
@@ -1232,7 +1342,8 @@
             "de": "Leicht mit dem Auto erreichbar, toller Fotostopp.",
             "hu": "Autóval könnyen elérhető, nagyszerű fotómegálló.",
             "ro": "Ușor accesibil cu mașina, punct excelent de fotografiat.",
-            "en": "Easily accessible by car, great photo stop."
+            "en": "Easily accessible by car, great photo stop.",
+            "hr": "Lako dostupno automobilom, izvrsno mjesto za fotografiranje."
           }
         },
         {
@@ -1255,7 +1366,8 @@
             "de": "Ein kurzer kultureller Abschluss Ihrer Fahrt.",
             "hu": "Egy rövid kulturális lezárása az utazásnak.",
             "ro": "O scurtă încheiere culturală a călătoriei dvs.",
-            "en": "A short cultural conclusion to your drive."
+            "en": "A short cultural conclusion to your drive.",
+            "hr": "Kratki kulturni završetak vaše vožnje."
           }
         }
       ],
@@ -1263,7 +1375,8 @@
         "de": "Mit dem Auto erreichen Sie die beeindruckendsten Naturwunder von Lovinac. Der Tag beginnt mit einer Wanderung am Berg Zir, dem markanten Symbol der Region.\n\nMittags erkunden Sie die Sekulić-Höhlen und erfrischen sich anschließend an der Mudrica-Quelle.\n\nAm Nachmittag besuchen Sie die Steinbrücke am Suvaja-Bach und die ethnografische Sammlung im Ort.\n\nDer Tag endet mit einer Fahrt durch die malerische Landschaft der Lika bei Sonnenuntergang.",
         "hu": "Autóval elérheti Lovinac leglenyűgözőbb természeti csodáit. A nap a Zir-hegynél tett túrával kezdődik, amely a régió jellegzetes szimbóluma.\n\nDélben felfedezi a Sekulić-barlangokat, majd felfrissül a Mudrica-forrásnál.\n\nDélután meglátogatja a Suvaja-patak kőhídját és a faluban található néprajzi gyűjteményet.\n\nA napot egy autózással zárja a Lika festői táján a naplementében.",
         "ro": "Cu mașina veți ajunge la cele mai impresionante minuni naturale din Lovinac. Ziua începe cu o drumeție la muntele Zir, simbolul distinctiv al regiunii.\n\nLa prânz explorați peșterile Sekulić și apoi vă răcoriți la izvorul Mudrica.\n\nDupă-amiaza vizitați podul de piatră de pe pârâul Suvaja și colecția etnografică din localitate.\n\nZiua se încheie cu o plimbare cu mașina prin peisajul pitoresc din Lika la apus.",
-        "en": "By car, you reach the most impressive natural wonders of Lovinac. The day starts with a hike at Zir Mountain, the distinctive symbol of the region.\n\nAt midday, explore the Sekulić Caves and then refresh yourself at the Mudrica Source.\n\nIn the afternoon, visit the stone bridge on the Suvaja stream and the ethnographic collection in town.\n\nThe day ends with a drive through the picturesque Lika landscape at sunset."
+        "en": "By car, you reach the most impressive natural wonders of Lovinac. The day starts with a hike at Zir Mountain, the distinctive symbol of the region.\n\nAt midday, explore the Sekulić Caves and then refresh yourself at the Mudrica Source.\n\nIn the afternoon, visit the stone bridge on the Suvaja stream and the ethnographic collection in town.\n\nThe day ends with a drive through the picturesque Lika landscape at sunset.",
+        "hr": "Automobilom stižete do najimpresivnijih prirodnih čuda Lovinca. Dan započinje usponom na brdo Zir, upečatljivi simbol regije.\n\nSredinom dana istražite Sekulića pećine, a zatim se osvježite na izvoru Mudrica.\n\nPoslijepodne posjetite kameni most na potoku Suvaja i etnografsku zbirku u mjestu.\n\nDan završava vožnjom kroz slikoviti lički krajolik uz zalazak sunca."
       },
       "gastro_picks": {
         "de": [
@@ -1288,6 +1401,12 @@
           {
             "name": "Lika Lamb",
             "tip": "Traditionally prepared under the bell (Peka)."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lička janjetina",
+            "tip": "Tradicionalno pripremljena pod pekom."
           }
         ]
       },
@@ -1319,6 +1438,13 @@
             "tip": "360-degree view over the lonely Lika plain.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vrh Zira",
+            "tip": "Pogled od 360 stupnjeva na osamljeno ličko polje.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1344,6 +1470,12 @@
           {
             "name": "Sloe Brandy",
             "tip": "A local specialty made from wild berries."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Rakija od trnina",
+            "tip": "Lokalni specijalitet napravljen od divljih bobica."
           }
         ]
       },
@@ -1371,6 +1503,12 @@
           "Some access roads to natural wonders are gravel paths.",
           "Hiking boots are essential for the Zir climb.",
           "Near the A1 highway, there are good rest stops with local products."
+        ],
+        "hr": [
+          "Natočite gorivo prije vožnje dublje u lička polja.",
+          "Neke pristupne ceste prirodnim čudima su makadamski putovi.",
+          "Planinarske cipele su neophodne za uspon na Zir.",
+          "U blizini autoceste A1 postoje dobra odmorišta s lokalnim proizvodima."
         ]
       },
       "variants": {
@@ -1567,7 +1705,8 @@
             "de": "Die Fahrt beginnt am imposanten Berg Zir, der heute oft geheimnisvoll im Nebel verschwindet. Die Sekulić-Höhlen sind das perfekte Ziel für Regentage, da Sie dort vollkommen trocken bleiben. Nach einem Stopp an der regenreichen Mudrica-Quelle führt die Route zur Steinbrücke. Den Tag beenden Sie in der gemütlichen Atmosphäre der Ethnographischen Sammlung.",
             "hu": "Az út az impozáns Zir-hegynél kezdődik, mely ma gyakran titokzatosan tűnik el a ködben. A Sekulić-barlangok tökéletes célpontok esős napokon, mivel ott teljesen szárazon maradhat. Az esőáztatta Mudrica-forrás után az útvonal a kőhídhoz vezet. A napot a Néprajzi Gyűjtemény hangulatos belső terében zárhatja.",
             "ro": "Călătoria începe la impunătorul munte Zir, care astăzi dispare adesea misterios în ceață. Peșterile Sekulić sunt destinația perfectă pentru zilele ploioase, deoarece acolo rămâneți complet uscați. După o oprire la Izvorul Mudrica bogat în apă, traseul duce la podul de piatră. Încheiați ziua în atmosfera primitoare a Colecției Etnografice.",
-            "en": "The drive starts at the imposing Zir Mountain, which often disappears mysteriously into the mist today. The Sekulić Caves are the perfect destination for rainy days, as you'll stay completely dry there. After a stop at the rain-fed Mudrica Source, the route leads to the stone bridge. End the day in the cozy atmosphere of the Ethnographic Collection."
+            "en": "The drive starts at the imposing Zir Mountain, which often disappears mysteriously into the mist today. The Sekulić Caves are the perfect destination for rainy days, as you'll stay completely dry there. After a stop at the rain-fed Mudrica Source, the route leads to the stone bridge. End the day in the cozy atmosphere of the Ethnographic Collection.",
+            "hr": "Vožnja počinje kod impresivnog brda Zir, koje danas često tajanstveno nestaje u magli. Sekulića pećine su savršeno odredište za kišne dane jer ćete tamo ostati potpuno suhi. Nakon stajanja na izvoru Mudrica, kojeg napaja kiša, ruta vodi do kamenog mosta. Završite dan u ugodnoj atmosferi Etnografske zbirke."
           },
           "stops": [
             {
@@ -1576,7 +1715,8 @@
                 "de": "Der Aussichtspunkt am Fuße ist auch bei Regen gut mit dem Auto erreichbar.",
                 "hu": "A lábánál lévő kilátópont esőben is jól megközelíthető autóval.",
                 "ro": "Punctul de belvedere de la bază este ușor accesibil cu mașina și pe ploaie.",
-                "en": "The viewpoint at the base is easily accessible by car even in the rain."
+                "en": "The viewpoint at the base is easily accessible by car even in the rain.",
+                "hr": "Vidikovac u podnožju lako je dostupan automobilom čak i na kiši."
               }
             },
             {
@@ -1585,7 +1725,8 @@
                 "de": "Völlig wetterunabhängiges Erlebnis; Taschenlampe nicht vergessen.",
                 "hu": "Teljesen időjárásfüggetlen élmény; ne felejtse otthon a zseblámpát.",
                 "ro": "O experiență complet independentă de vreme; nu uitați lanterna.",
-                "en": "A completely weather-independent experience; don't forget your flashlight."
+                "en": "A completely weather-independent experience; don't forget your flashlight.",
+                "hr": "Iskustvo potpuno neovisno o vremenu; ne zaboravite svjetiljku."
               }
             },
             {
@@ -1594,7 +1735,8 @@
                 "de": "Parken Sie vorsichtig am Wegrand; der Boden kann aufgeweicht sein.",
                 "hu": "Parkoljon óvatosan az út szélén; a talaj felázhat.",
                 "ro": "Parcați cu atenție pe marginea drumului; solul poate fi moale.",
-                "en": "Park carefully on the roadside; the ground may be softened."
+                "en": "Park carefully on the roadside; the ground may be softened.",
+                "hr": "Parkirajte pažljivo uz cestu; tlo može biti mekano."
               }
             },
             {
@@ -1603,7 +1745,8 @@
                 "de": "Idealer Fotostopp direkt von der Straße aus.",
                 "hu": "Ideális fotómegálló közvetlenül az út mellől.",
                 "ro": "Oprire ideală pentru fotografii direct de lângă drum.",
-                "en": "Ideal photo stop directly from the roadside."
+                "en": "Ideal photo stop directly from the roadside.",
+                "hr": "Idealno mjesto za fotografiju izravno s ceste."
               }
             },
             {
@@ -1612,7 +1755,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt vor dem Eingang.",
                 "hu": "Használja a közvetlenül a bejárat előtt lévő parkolót.",
                 "ro": "Folosiți parcarea aflată direct în fața intrării.",
-                "en": "Use the parking lot located directly in front of the entrance."
+                "en": "Use the parking lot located directly in front of the entrance.",
+                "hr": "Koristite parkiralište koje se nalazi izravno ispred ulaza."
               }
             }
           ],
@@ -1640,6 +1784,12 @@
               "Watch out for wildlife, which is more active during overcast weather.",
               "Ensure your windshield wipers are in good condition.",
               "Some side roads to natural landmarks might be difficult to navigate during heavy rain."
+            ],
+            "hr": [
+              "Lokalne ceste u Lici mogu biti skliske na kiši; vozite defenzivno.",
+              "Pripazite na divljač koja je aktivnija tijekom oblačnog vremena.",
+              "Provjerite jesu li brisači u dobrom stanju.",
+              "Neke sporedne ceste do prirodnih znamenitosti mogu biti teške za vožnju tijekom jake kiše."
             ]
           }
         },
@@ -1648,7 +1798,8 @@
             "de": "Ein spektakuläres Winterpanorama erwartet Sie am Berg Zir, der oft tief verschneit ist. Die Sekulić-Höhlen bieten im Winter konstante Temperaturen und Schutz vor der Kälte. Entlang der eisigen Mudrica-Quelle führt die Fahrt zur historischen Steinbrücke. Zum Aufwärmen und für kulturelle Einblicke ist die Ethnographische Sammlung der ideale Abschluss Ihrer Wintertour.",
             "hu": "Látványos téli panoráma várja a Zir-hegynél, mely gyakran vastagon havas. A Sekulić-barlangok télen állandó hőmérsékletet és védelmet nyújtanak a hideg ellen. A jeges Mudrica-forrás mentén az út a történelmi kőhídhoz vezet. Melegedéshez és kulturális betekintéshez a Néprajzi Gyűjtemény a téli túra ideális zárása.",
             "ro": "O panoramă spectaculoasă de iarnă vă așteaptă la muntele Zir, adesea acoperit de zăpadă. Peșterile Sekulić oferă temperaturi constante iarna și protecție împotriva frigului. Pe lângă Izvorul Mudrica înghețat, drumul duce la podul istoric de piatră. Pentru încălzire și incursiuni culturale, Colecția Etnografică este finalul ideal al turului de iarnă.",
-            "en": "A spectacular winter panorama awaits at Zir Mountain, often covered in deep snow. The Sekulić Caves offer constant temperatures and shelter from the cold in winter. Driving past the icy Mudrica Source, the route leads to the historical stone bridge. For warming up and cultural insights, the Ethnographic Collection is the ideal conclusion to your winter tour."
+            "en": "A spectacular winter panorama awaits at Zir Mountain, often covered in deep snow. The Sekulić Caves offer constant temperatures and shelter from the cold in winter. Driving past the icy Mudrica Source, the route leads to the historical stone bridge. For warming up and cultural insights, the Ethnographic Collection is the ideal conclusion to your winter tour.",
+            "hr": "Spektakularna zimska panorama čeka vas na brdu Zir, često prekrivenom dubokim snijegom. Sekulića pećine zimi nude stalnu temperaturu i zaklon od hladnoće. Vozeći pored zaleđenog izvora Mudrica, ruta vodi do povijesnog kamenog mosta. Za grijanje i kulturni uvid, Etnografska zbirka je idealan završetak vaše zimske ture."
           },
           "stops": [
             {
@@ -1657,7 +1808,8 @@
                 "de": "Die Zufahrt kann bei Neuschnee schwierig sein; Winterausrüstung ist Pflicht.",
                 "hu": "A behajtás friss hóban nehéz lehet; a téli felszerelés kötelező.",
                 "ro": "Accesul poate fi dificil în caz de zăpadă proaspătă; echipamentul de iarnă este obligatoriu.",
-                "en": "Access can be difficult with fresh snow; winter equipment is mandatory."
+                "en": "Access can be difficult with fresh snow; winter equipment is mandatory.",
+                "hr": "Pristup može biti otežan s novim snijegom; zimska oprema je obavezna."
               }
             },
             {
@@ -1666,7 +1818,8 @@
                 "de": "In der Höhle ist es oft wärmer als draußen; genießen Sie den Temperaturunterschied.",
                 "hu": "A barlangban gyakran melegebb van, mint kint; élvezze a hőmérséklet-különbséget.",
                 "ro": "În peșteră este adesea mai cald decât afară; bucurați-vă de diferența de temperatură.",
-                "en": "Inside the cave, it's often warmer than outside; enjoy the temperature difference."
+                "en": "Inside the cave, it's often warmer than outside; enjoy the temperature difference.",
+                "hr": "Unutar pećine često je toplije nego vani; uživajte u razlici temperature."
               }
             },
             {
@@ -1675,7 +1828,8 @@
                 "de": "Halten Sie nur an sicher geräumten Stellen an.",
                 "hu": "Csak biztonságosan letakarított helyeken álljon meg.",
                 "ro": "Opriți doar în locuri curățate și sigure.",
-                "en": "Only stop at safely cleared spots."
+                "en": "Only stop at safely cleared spots.",
+                "hr": "Zaustavljajte se samo na sigurno očišćenim mjestima."
               }
             },
             {
@@ -1684,7 +1838,8 @@
                 "de": "Vorsicht vor Eiszapfen an den Brückenbögen.",
                 "hu": "Vigyázat a híd íveiről lelógó jégcsapokkal.",
                 "ro": "Atenție la țurțurii de gheață de pe arcadele podului.",
-                "en": "Watch out for icicles on the bridge arches."
+                "en": "Watch out for icicles on the bridge arches.",
+                "hr": "Pripazite na ledenice na lukovima mosta."
               }
             },
             {
@@ -1693,7 +1848,8 @@
                 "de": "Fragen Sie nach den traditionellen Winter-Heizmethoden der Region.",
                 "hu": "Kérdezzen a régió hagyományos téli fűtési módszereiről.",
                 "ro": "Întrebați despre metodele tradiționale de încălzire de iarnă din regiune.",
-                "en": "Ask about traditional winter heating methods in the region."
+                "en": "Ask about traditional winter heating methods in the region.",
+                "hr": "Raspitajte se o tradicionalnim metodama grijanja u regiji."
               }
             }
           ],
@@ -1721,6 +1877,12 @@
               "Keep an eye on your car battery; cold weather can strain it.",
               "Carry a blanket and a shovel for emergencies.",
               "Allow significantly more travel time as snow removal services may be active."
+            ],
+            "hr": [
+              "Zimske gume i lanci često su zakonski obavezni u Lici tijekom zime.",
+              "Pripazite na akumulator automobila; hladnoća ga može opteretiti.",
+              "Nosite deku i lopatu za hitne slučajeve.",
+              "Odvojite znatno više vremena za putovanje jer zimske službe mogu biti aktivne."
             ]
           }
         }
@@ -1754,7 +1916,8 @@
             "de": "Ein kleiner Bahnhof an der historischen Lika-Bahnstrecke.",
             "hu": "Kis állomás a történelmi Lika-vasútvonalon.",
             "ro": "O mică gară pe linia ferată istorică Lika.",
-            "en": "A small station on the historical Lika railway line."
+            "en": "A small station on the historical Lika railway line.",
+            "hr": "Mali kolodvor na povijesnoj ličkoj željezničkoj pruzi."
           }
         },
         {
@@ -1777,7 +1940,8 @@
             "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
             "hu": "Az állomástól könnyen elérhető gyalogosan.",
             "ro": "Ușor accesibil pe jos de la gară.",
-            "en": "Easily reachable on foot from the station."
+            "en": "Easily reachable on foot from the station.",
+            "hr": "Lako dostupno pješice s kolodvora."
           }
         },
         {
@@ -1800,7 +1964,8 @@
             "de": "Direkt im Zentrum von Lovinac.",
             "hu": "Közvetlenül Lovinac központjában.",
             "ro": "Direct în centrul orașului Lovinac.",
-            "en": "Right in the center of Lovinac."
+            "en": "Right in the center of Lovinac.",
+            "hr": "Točno u središtu Lovinca."
           }
         },
         {
@@ -1823,7 +1988,8 @@
             "de": "Ein schöner Ort zum Entspannen vor der Zugabfahrt.",
             "hu": "Szép hely a kikapcsolódásra a vonat indulása előtt.",
             "ro": "Un loc frumos pentru relaxare înainte de plecarea trenului.",
-            "en": "A nice place to relax before your train departure."
+            "en": "A nice place to relax before your train departure.",
+            "hr": "Lijepo mjesto za opuštanje prije polaska vlaka."
           }
         }
       ],
@@ -1831,7 +1997,8 @@
         "de": "Mit dem Zug erreichen Sie Lovinac auf malerische Weise. Vom Bahnhof aus erkunden Sie das Dorfzentrum zu Fuß.\n\nMittags besuchen Sie die ethnografische Sammlung, um mehr über die Region zu erfahren.\n\nNachmittags entspannen Sie am Cvituša-Hügel, der nur einen kurzen Spaziergang entfernt ist.\n\nDer Transit-Modus ist perfekt für Bahnliebhaber und Tagestouren aus größeren Städten wie Gospić.",
         "hu": "Vonattal festői módon érheti el Lovinacot. Az állomástól gyalogosan fedezi fel a falu központját.\n\nDélben meglátogatja a néprajzi gyűjteményt, hogy többet tudjon meg a régióról.\n\nDélután a Cvituša-dombon pihenhet, amely csak egy rövid sétára van.\n\nA tömegközlekedési mód tökéletes a vasút kedvelőinek és a nagyobb városokból, például Gospićból érkező egynapos túráknak.",
         "ro": "Cu trenul veți ajunge în Lovinac într-un mod pitoresc. De la gară explorați centrul satului pe jos.\n\nLa prânz vizitați colecția etnografică pentru a afla mai multe despre regiune.\n\nDupă-amiaza vă relaxați la dealul Cvituša, aflat la doar o scurtă plimbare.\n\nModul de tranzit este perfect pentru iubitorii de călătorii cu trenul și pentru excursii de o zi din orașe mai mari precum Gospić.",
-        "en": "By train, you reach Lovinac in a picturesque way. From the station, you explore the village center on foot.\n\nAt midday, visit the ethnographic collection to learn more about the region.\n\nIn the afternoon, relax at Cvituša Hill, which is just a short walk away.\n\nThe transit mode is perfect for train lovers and day trips from larger cities like Gospić."
+        "en": "By train, you reach Lovinac in a picturesque way. From the station, you explore the village center on foot.\n\nAt midday, visit the ethnographic collection to learn more about the region.\n\nIn the afternoon, relax at Cvituša Hill, which is just a short walk away.\n\nThe transit mode is perfect for train lovers and day trips from larger cities like Gospić.",
+        "hr": "Vlakom stižete u Lovinac na slikovit način. S kolodvora pješice istražujete središte sela.\n\nSredinom dana posjetite etnografsku zbirku kako biste saznali više o regiji.\n\nPoslijepodne se opustite na brdu Cvituša, koje je udaljeno samo kratkom šetnjom.\n\nOvaj način putovanja savršen je za ljubitelje vlakova i jednodnevne izlete iz većih gradova poput Gospića."
       },
       "gastro_picks": {
         "de": [
@@ -1856,6 +2023,12 @@
           {
             "name": "Uštipci",
             "tip": "Homemade dough balls, often available at the station kiosk."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Uštipci",
+            "tip": "Domaći uštipci, često dostupni na kiosku kod kolodvora."
           }
         ]
       },
@@ -1887,6 +2060,13 @@
             "tip": "Nostalgia and silence at the old railway line.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Klupa na kolodvoru",
+            "tip": "Nostalgija i tišina na staroj željezničkoj pruzi.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1912,6 +2092,12 @@
           {
             "name": "Regional Hiking Guide",
             "tip": "Available at the tourist office in the center."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Regionalni planinarski vodič",
+            "tip": "Dostupan u turističkom uredu u centru."
           }
         ]
       },
@@ -1939,6 +2125,12 @@
           "Be sure to check return times in advance (HŽ Putnički prijevoz).",
           "The walk to the village center takes about 15 minutes.",
           "Bring snacks with you, as options at the station are limited."
+        ],
+        "hr": [
+          "Lička pruga je prekrasna, ali vlakovi voze rijetko.",
+          "Obavezno unaprijed provjerite vrijeme povratka (HŽ Putnički prijevoz).",
+          "Šetnja do središta sela traje oko 15 minuta.",
+          "Ponesite grickalice sa sobom jer su opcije na kolodvoru ograničene."
         ]
       },
       "variants": {
@@ -2121,7 +2313,8 @@
             "de": "Ihr Tag beginnt am Bahnhof Lovinac, wo Sie im Trockenen auf den Bus warten können. Die Kirche St. Michael ist der erste Stopp, der Schutz bietet. Mittags verbringen Sie ausgiebig Zeit in der Ethnographischen Sammlung, um dem Regen zu entgehen. Zum Abschluss bietet der Cvituša-Hügel trotz Wolken ein besonderes Erlebnis, bevor es zurück zum Bahnhof geht.",
             "hu": "A nap a Lovinac vasútállomáson kezdődik, ahol szárazon várhatja a buszt. A Szent Mihály-templom az első megálló, mely védelmet nyújt. Délben töltsön több időt a Néprajzi Gyűjteményben, hogy elkerülje az esőt. Végezetül a Cvituša-domb a felhők ellenére is különleges élményt nyújt, mielőtt visszatérne az állomásra.",
             "ro": "Ziua începe la gara Lovinac, unde puteți aștepta autobuzul la adăpost. Biserica Sfântul Mihail este prima oprire care oferă protecție. La prânz, petreceți mai mult timp în Colecția Etnografică pentru a evita ploaia. În final, dealul Cvituša oferă o experiență specială în ciuda norilor, înainte de a reveni la gară.",
-            "en": "Your day starts at Lovinac Train Station, where you can wait for the bus in the dry. The Church of St. Michael is the first stop providing shelter. At midday, spend extended time in the Ethnographic Collection to escape the rain. Finally, Cvituša Hill offers a special experience despite the clouds before heading back to the station."
+            "en": "Your day starts at Lovinac Train Station, where you can wait for the bus in the dry. The Church of St. Michael is the first stop providing shelter. At midday, spend extended time in the Ethnographic Collection to escape the rain. Finally, Cvituša Hill offers a special experience despite the clouds before heading back to the station.",
+            "hr": "Vaš dan počinje na željezničkom kolodvoru Lovinac, gdje možete čekati autobus na suhom. Crkva sv. Mihovila je prva postaja koja pruža zaklon. Sredinom dana provedite više vremena u Etnografskoj zbirci kako biste pobjegli od kiše. Konačno, brdo Cvituša nudi poseban doživljaj unatoč oblacima prije povratka na kolodvor."
           },
           "stops": [
             {
@@ -2130,7 +2323,8 @@
                 "de": "Nutzen Sie den Wartesaal, falls der Zug oder Bus Verspätung hat.",
                 "hu": "Használja a várótermet, ha a vonat vagy a busz késik.",
                 "ro": "Folosiți sala de așteptare în cazul în care trenul sau autobuzul întârzie.",
-                "en": "Use the waiting room if the train or bus is delayed."
+                "en": "Use the waiting room if the train or bus is delayed.",
+                "hr": "Koristite čekaonicu ako vlak ili autobus kasne."
               }
             },
             {
@@ -2139,7 +2333,8 @@
                 "de": "Kurze Fußwege von der Bushaltestelle; halten Sie den Schirm bereit.",
                 "hu": "Rövid séta a buszmegállótól; tartsa készenlétben az esernyőt.",
                 "ro": "Drum scurt pe jos de la stația de autobuz; țineți umbrela la îndemână.",
-                "en": "Short walk from the bus stop; keep your umbrella ready."
+                "en": "Short walk from the bus stop; keep your umbrella ready.",
+                "hr": "Kratka šetnja od autobusne stanice; imajte spreman kišobran."
               }
             },
             {
@@ -2148,7 +2343,8 @@
                 "de": "Ein idealer Ort, um eine längere Regenfront abzuwarten.",
                 "hu": "Ideális hely egy hosszabb esőfront kivárására.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unui front de ploaie mai lung.",
-                "en": "An ideal place to wait out a longer rain front."
+                "en": "An ideal place to wait out a longer rain front.",
+                "hr": "Idealno mjesto za čekanje da prođe duža kišna fronta."
               }
             },
             {
@@ -2157,7 +2353,8 @@
                 "de": "Der Boden kann matschig sein; bleiben Sie auf den befestigten Wegen.",
                 "hu": "A talaj sáros lehet; maradjon a szilárd burkolatú utakon.",
                 "ro": "Solul poate fi noroios; rămâneți pe căile pavate.",
-                "en": "The ground can be muddy; stay on the paved paths."
+                "en": "The ground can be muddy; stay on the paved paths.",
+                "hr": "Tlo može biti blatnjavo; ostanite na popločanim stazama."
               }
             }
           ],
@@ -2185,6 +2382,12 @@
               "Keep small change ready for tickets in case card payment fails.",
               "Some waiting areas at stops are not covered.",
               "Combine bus and train for maximum flexibility during showers."
+            ],
+            "hr": [
+              "Provjerite vozni red online zbog mogućih prekida uzrokovanih vremenom.",
+              "Imajte spreman sitan novac za karte u slučaju da kartično plaćanje ne radi.",
+              "Neka mjesta za čekanje na stanicama nisu natkrivena.",
+              "Kombinirajte autobus i vlak za maksimalnu fleksibilnost tijekom pljuskova."
             ]
           }
         },
@@ -2193,7 +2396,8 @@
             "de": "Ein winterlicher Start am Bahnhof Lovinac führt Sie zur Kirche St. Michael, deren Umrisse sich scharf gegen den Winterschnee abheben. Mittags bietet die Ethnographische Sammlung eine warme Zuflucht und Einblicke in regionale Traditionen. Den Nachmittag verbringen Sie am Cvituša-Hügel, bevor Sie rechtzeitig vor der Abenddunkelheit die Heimreise mit dem ÖPNV antreten.",
             "hu": "A téli kezdés a Lovinac vasútállomáson a Szent Mihály-templomhoz vezet, melynek körvonalai élesen elválnak a téli hótól. Délben a Néprajzi Gyűjtemény nyújt meleg menedéket és betekintést a helyi hagyományokba. A délutánt a Cvituša-dombon töltheti, mielőtt az esti sötétség előtt időben hazaindulna a tömegközlekedéssel.",
             "ro": "Un început de iarnă la gara Lovinac vă duce la Biserica Sfântul Mihail, ale cărei contururi se profilează clar pe zăpada de iarnă. La prânz, Colecția Etnografică oferă un refugiu călduros și incursiuni în tradițiile regionale. Petreceți după-amiaza la dealul Cvituša înainte de a porni spre casă cu transportul public, înainte de lăsarea întunericului.",
-            "en": "A winter start at Lovinac Train Station leads you to the Church of St. Michael, its outlines sharp against the winter snow. At midday, the Ethnographic Collection offers a warm refuge and insights into regional traditions. Spend the afternoon at Cvituša Hill before heading back by public transport in good time before evening darkness."
+            "en": "A winter start at Lovinac Train Station leads you to the Church of St. Michael, its outlines sharp against the winter snow. At midday, the Ethnographic Collection offers a warm refuge and insights into regional traditions. Spend the afternoon at Cvituša Hill before heading back by public transport in good time before evening darkness.",
+            "hr": "Zimski početak na kolodvoru Lovinac vodi vas do crkve sv. Mihovila, čiji su obrisi oštri na zimskom snijegu. Sredinom dana, Etnografska zbirka nudi toplo utočište i uvid u regionalne tradicije. Provedite poslijepodne na brdu Cvituša prije povratka javnim prijevozom na vrijeme prije večernjeg mraka."
           },
           "stops": [
             {
@@ -2202,7 +2406,8 @@
                 "de": "Der Bahnhof ist oft der einzige beheizte öffentliche Raum; nutzen Sie ihn zum Aufwärmen.",
                 "hu": "Az állomás gyakran az egyetlen fűtött közösségi tér; használja felmelegedésre.",
                 "ro": "Gara este adesea singurul spațiu public încălzit; folosiți-o pentru a vă încălzi.",
-                "en": "The station is often the only heated public space; use it to warm up."
+                "en": "The station is often the only heated public space; use it to warm up.",
+                "hr": "Kolodvor je često jedini grijani javni prostor; iskoristite ga za zagrijavanje."
               }
             },
             {
@@ -2211,7 +2416,8 @@
                 "de": "Achten Sie auf gestreute Wege um die Kirche herum.",
                 "hu": "Ügyeljen a templom körüli felszórt utakra.",
                 "ro": "Atenție la căile presărate cu antiderapant în jurul bisericii.",
-                "en": "Watch for sanded paths around the church."
+                "en": "Watch for sanded paths around the church.",
+                "hr": "Pripazite na posute staze oko crkve."
               }
             },
             {
@@ -2220,7 +2426,8 @@
                 "de": "Nutzen Sie die Mittagspause, um sich für den Nachmittag aufzuwärmen.",
                 "hu": "Használja ki a déli szünetet, hogy felmelegedjen délutánra.",
                 "ro": "Profitați de pauza de prânz pentru a vă încălzi pentru după-amiază.",
-                "en": "Use the midday break to warm up for the afternoon."
+                "en": "Use the midday break to warm up for the afternoon.",
+                "hr": "Iskoristite podnevnu pauzu da se ugrijete za poslijepodne."
               }
             },
             {
@@ -2229,7 +2436,8 @@
                 "de": "Informieren Sie sich über die letzte Abfahrt, bevor die Kälte anzieht.",
                 "hu": "Tájékozódjon az utolsó járatról, mielőtt beállna a nagy hideg.",
                 "ro": "Informați-vă despre ultima plecare înainte ca frigul să se intensifice.",
-                "en": "Check for the last departure before the severe cold sets in."
+                "en": "Check for the last departure before the severe cold sets in.",
+                "hr": "Provjerite zadnji polazak prije nego što nastupi jaka hladnoća."
               }
             }
           ],
@@ -2257,6 +2465,12 @@
               "Waiting outdoors can be very unpleasant in windy conditions.",
               "Wear clothing with reflectors as visibility is lower in winter.",
               "Always have a backup plan (taxi number) if connections are cancelled."
+            ],
+            "hr": [
+              "Snježne padaline mogu dovesti do značajnih kašnjenja u željezničkom prometu.",
+              "Čekanje na otvorenom može biti vrlo neugodno u vjetrovitim uvjetima.",
+              "Nosite odjeću s reflektorima jer je vidljivost zimi manja.",
+              "Uvijek imajte rezervni plan (broj taksija) ako linije budu otkazane."
             ]
           }
         }

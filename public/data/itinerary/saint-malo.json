@@ -36,7 +36,8 @@
             "de": "Holen Sie sich einen Stadtplan im Tourismusbüro direkt am Eingang.",
             "hu": "Kérjen várostérképet a bejárat melletti turisztikai irodában.",
             "ro": "Luați o hartă a orașului de la biroul de turism chiar de la intrare.",
-            "en": "Grab a city map at the tourism office right by the entrance."
+            "en": "Grab a city map at the tourism office right by the entrance.",
+            "fr": "Prenez un plan de la ville à l'office de tourisme juste à l'entrée."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Gehen Sie die gesamte Runde für einen 360-Grad-Blick auf das Meer.",
             "hu": "Sétáljon körbe a falakon a teljes 360 fokos tengeri panorámáért.",
             "ro": "Parcurgeți întregul circuit pentru o vedere de 360 de grade asupra mării.",
-            "en": "Walk the entire loop for a full 360-degree view of the sea."
+            "en": "Walk the entire loop for a full 360-degree view of the sea.",
+            "fr": "Faites le tour complet pour une vue à 360 degrés sur la mer."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Bewundern Sie die modernen Glasmalereien im Inneren.",
             "hu": "Csodálja meg a templom modern, színes üvegablakait.",
             "ro": "Admirați vitraliile moderne din interior.",
-            "en": "Admire the modern stained glass windows inside."
+            "en": "Admire the modern stained glass windows inside.",
+            "fr": "Admirez les vitraux modernes à l'intérieur."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Probieren Sie eine Galette Saucisse in den Seitenstraßen.",
             "hu": "Kóstoljon meg egy kolbászos galette-et a mellékutcákban.",
             "ro": "Încercați o galette saucisse pe străzile lăturalnice.",
-            "en": "Try a galette saucisse in the side streets."
+            "en": "Try a galette saucisse in the side streets.",
+            "fr": "Goûtez une galette saucisse dans les rues adjacentes."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Das natürliche Meeresschwimmbecken ist auch bei Ebbe gefüllt.",
             "hu": "A természetes tengervizes medence apálykor is vízzel teli marad.",
             "ro": "Piscina naturală cu apă de mare rămâne plină chiar și la reflux.",
-            "en": "The natural sea water pool stays filled even at low tide."
+            "en": "The natural sea water pool stays filled even at low tide.",
+            "fr": "La piscine naturelle d'eau de mer reste pleine même à marée basse."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Überprüfen Sie die Gezeiten, bevor Sie den Damm überqueren.",
             "hu": "Ellenőrizze az árapályt, mielőtt elindulna a gáton.",
             "ro": "Verificați fluxul și refluxul înainte de a traversa digul.",
-            "en": "Check the tide times before crossing the causeway."
+            "en": "Check the tide times before crossing the causeway.",
+            "fr": "Vérifiez les horaires de marée avant de traverser le passage."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Der perfekte Ort, um den Sonnenuntergang über den Inseln zu sehen.",
             "hu": "Tökéletes hely a naplemente megtekintéséhez a szigetek felett.",
             "ro": "Locul perfect pentru a vedea apusul peste insule.",
-            "en": "The perfect spot to watch the sunset over the islands."
+            "en": "The perfect spot to watch the sunset over the islands.",
+            "fr": "L'endroit parfait pour regarder le coucher de soleil sur les îles."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Beginnen Sie Ihren Tag am majestätischen Porte Saint-Vincent, dem Tor zur befestigten Stadt. Ein Spaziergang auf den Remparts bietet Ihnen spektakuläre Ausblicke auf das Smaragdmeer und die Granitfassaden von Intra-Muros. Mittags tauchen Sie in die engen Gassen ein, um die lokale Gastronomie zu genießen.\n\nNachmittags entspannen Sie am Strand von Bon-Secours oder wagen den Sprung ins Meeresschwimmbecken. Wenn die Ebbe es zulässt, wandern Sie zur Insel Grand Bé, um das Grab des Schriftstellers Chateaubriand zu besuchen. Beenden Sie den Tag auf der Bastion de la Hollande, während die Sonne langsam im Meer versinkt und die Segelboote am Horizont beleuchtet.",
         "hu": "Kezdje a napot a fenséges Szent Vince-kapunál, amely az erődváros bejárata. A városfalakon tett séta látványos kilátást nyújt a Smaragd-partra és az óváros gránit homlokzataira. Délben merüljön el a szűk utcák forgatagában, és kóstolja meg a helyi gasztronómia remekeit.\n\nDélután pihenjen a Bon-Secours strandon, vagy ugorjon egyet a tengervizes medencébe. Ha az apály lehetővé teszi, sétáljon át a Grand Bé szigetre, Chateaubriand sírjához. A napot a Holland-bástyán fejezze be, nézve, ahogy a nap lassan a tengerbe süllyed, megvilágítva a távoli vitorlásokat.",
         "ro": "Începeți ziua la maiestuoasa Poartă Saint-Vincent, intrarea în orașul fortificat. O plimbare pe ziduri vă oferă vederi spectaculoase asupra coastei de smarald și a fațadelor de granit. La prânz, explorați străzile înguste pentru a savura gastronomia locală.\n\nDupă-amiaza, relaxați-vă pe plaja Bon-Secours sau faceți o baie în piscina cu apă de mare. Dacă refluxul permite, mergeți pe jos până la insula Grand Bé pentru a vizita mormântul lui Chateaubriand. Încheiați ziua pe Bastionul Olandei, în timp ce soarele apune în mare, luminând pânzele bărcilor la orizont.",
-        "en": "Start your day at the majestic Porte Saint-Vincent, the gateway to the walled city. A walk along the Remparts offers spectacular views of the Emerald Coast and the granite facades of Intra-Muros. At noon, dive into the narrow streets to enjoy local gastronomy.\n\nIn the afternoon, relax on Bon-Secours beach or take a dip in the sea water pool. If the tide allows, walk over to Grand Bé island to visit the tomb of Chateaubriand. End the day at the Bastion de la Hollande as the sun slowly sinks into the sea, illuminating the sailboats on the horizon."
+        "en": "Start your day at the majestic Porte Saint-Vincent, the gateway to the walled city. A walk along the Remparts offers spectacular views of the Emerald Coast and the granite facades of Intra-Muros. At noon, dive into the narrow streets to enjoy local gastronomy.\n\nIn the afternoon, relax on Bon-Secours beach or take a dip in the sea water pool. If the tide allows, walk over to Grand Bé island to visit the tomb of Chateaubriand. End the day at the Bastion de la Hollande as the sun slowly sinks into the sea, illuminating the sailboats on the horizon.",
+        "fr": "Commencez votre journée à la majestueuse Porte Saint-Vincent, porte d'entrée de la cité corsaire. Une promenade sur les remparts offre des vues spectaculaires sur la Côte d'Émeraude et les façades de granit d'Intra-Muros. À midi, plongez dans les rues étroites pour savourer la gastronomie locale.\n\nL'après-midi, détendez-vous sur la plage de Bon-Secours ou piquez une tête dans la piscine d'eau de mer. Si la marée le permet, marchez jusqu'à l'île du Grand Bé pour visiter le tombeau de Chateaubriand. Terminez la journée au Bastion de la Hollande alors que le soleil s'enfonce lentement dans la mer, illuminant les voiliers à l'horizon."
       },
       "gastro_picks": {
         "de": [
@@ -223,6 +231,16 @@
           {
             "name": "Kouign-Amann",
             "tip": "A buttery, caramelized Breton cake, best enjoyed warm."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Crêperie Le Corps de Garde",
+            "tip": "Dégustez des galettes de sarrasin savoureuses directement sur les remparts."
+          },
+          {
+            "name": "Kouign-Amann",
+            "tip": "Un gâteau breton beurré et caramélisé, meilleur dégusté tiède."
           }
         ]
       },
@@ -274,6 +292,18 @@
             "tip": "Find peace at the edge of the world during low tide.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Petit Bé",
+            "tip": "Un fort solitaire accessible uniquement à marée basse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Coucher de soleil au Grand Bé",
+            "tip": "Trouvez la paix au bout du monde à marée basse.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -316,6 +346,16 @@
             "name": "Marinière",
             "tip": "The classic striped Breton shirt as a souvenir."
           }
+        ],
+        "fr": [
+          {
+            "name": "Beurre Bordier",
+            "tip": "Achetez le plus célèbre beurre artisanal de France à Intra-Muros."
+          },
+          {
+            "name": "Marinière",
+            "tip": "Le classique maillot breton rayé comme souvenir."
+          }
         ]
       },
       "tips": {
@@ -342,6 +382,12 @@
           "Wear comfortable shoes for the cobblestone streets in the old town.",
           "Winds on the city walls can be chilly even in summer.",
           "Book restaurants in advance, especially during weekends."
+        ],
+        "fr": [
+          "Consultez toujours les horaires des marées avant de vous rendre sur les îles.",
+          "Portez des chaussures confortables pour les rues pavées de la vieille ville.",
+          "Le vent sur les remparts peut être frais, même en été.",
+          "Réservez vos restaurants à l'avance, surtout le week-end."
         ]
       },
       "variants": {
@@ -618,7 +664,8 @@
             "de": "Beginnen Sie den Tag unter dem Schutz der Porte Saint-Vincent. Der Spaziergang auf den Stadtmauern bietet trotz Regen ein dramatisches Schauspiel der peitschenden Wellen. Mittags finden Sie Zuflucht in der Kathedrale und den gemütlichen Bistros der Altstadt. Nachmittags ist der Strandspaziergang kurz, aber erfrischend, gefolgt von einem stimmungsvollen, wolkenverhangenen Abend am Bastion.",
             "hu": "Kezdje a napot a Porte Saint-Vincent kapu védelmében. A városfalakon tett séta esőben is lenyűgöző, ahogy a tenger a kövekhez csapódik. Délben a katedrális és az óváros szűk utcái nyújtanak menedéket. Délután a tengerparti levegő frissítő, még ha borús is, az estét pedig a bástyák közötti misztikus, párás hangulat zárja le a sötétedő horizontnál.",
             "ro": "Începeți ziua sub protecția Porții Saint-Vincent. O plimbare pe zidurile cetății oferă un spectacol dramatic al valurilor chiar și pe ploaie. La prânz, refugiul perfect este Catedrala și bistrourile primitoare din Intra-Muros. După-amiaza, aerul sărat de pe plajă este revigorant, iar seara se încheie cu o atmosferă melancolică și misterioasă la Bastion de la Hollande.",
-            "en": "Start your day sheltered by Porte Saint-Vincent. A walk on the ramparts offers a dramatic spectacle of crashing waves despite the rain. At noon, seek refuge in the Cathedral and the cozy bistros of the old town. In the afternoon, the beach air is refreshing even under gray skies, and the evening concludes with a misty, atmospheric view from the Bastion de la Hollande."
+            "en": "Start your day sheltered by Porte Saint-Vincent. A walk on the ramparts offers a dramatic spectacle of crashing waves despite the rain. At noon, seek refuge in the Cathedral and the cozy bistros of the old town. In the afternoon, the beach air is refreshing even under gray skies, and the evening concludes with a misty, atmospheric view from the Bastion de la Hollande.",
+            "fr": "Commencez votre journée à l'abri de la Porte Saint-Vincent. Une balade sur les remparts offre un spectacle dramatique de vagues déchaînées malgré la pluie. À midi, cherchez refuge dans la cathédrale et les bistrots accueillants de la vieille ville. L'après-midi, l'air de la plage est vivifiant même sous un ciel gris, et la soirée se termine par une vue brumeuse et atmosphérique depuis le Bastion de la Hollande."
           },
           "stops": [
             {
@@ -627,7 +674,8 @@
                 "de": "Nutzen Sie den Torbogen als ersten Regenschutz beim Blick auf das Schloss.",
                 "hu": "Használja a kapualjat menedékként, miközben a kastélyt csodálja.",
                 "ro": "Folosiți arcada porții ca prim adăpost în timp ce admirați castelul.",
-                "en": "Use the gate's archway as a first shelter while viewing the castle."
+                "en": "Use the gate's archway as a first shelter while viewing the castle.",
+                "fr": "Utilisez l'arche de la porte comme premier abri tout en admirant le château."
               }
             },
             {
@@ -636,7 +684,8 @@
                 "de": "Vorsicht, die Steine können bei Nässe rutschig sein. Feste Sohlen tragen.",
                 "hu": "Vigyázat, a kövek vizesen csúszhatnak. Viseljen tapadós talpú cipőt.",
                 "ro": "Atenție, pietrele pot fi alunecoase când sunt ude. Purtați tălpi aderente.",
-                "en": "Caution, the stones can be slippery when wet. Wear grippy soles."
+                "en": "Caution, the stones can be slippery when wet. Wear grippy soles.",
+                "fr": "Attention, les pierres peuvent être glissantes lorsqu'elles sont mouillées. Portez des semelles adhérentes."
               }
             },
             {
@@ -645,7 +694,8 @@
                 "de": "Ein idealer Ort, um abzutrocknen und die Glasmalereien zu bewundern.",
                 "hu": "Ideális hely a megszáradáshoz és az üvegablakok megcsodálásához.",
                 "ro": "Un loc ideal pentru a vă usca și a admira vitraliile superbe.",
-                "en": "An ideal place to dry off and admire the beautiful stained glass."
+                "en": "An ideal place to dry off and admire the beautiful stained glass.",
+                "fr": "Un endroit idéal pour se sécher et admirer les magnifiques vitraux."
               }
             },
             {
@@ -654,7 +704,8 @@
                 "de": "Wählen Sie eine Crêperie mit Kaminfeuer für maximale Gemütlichkeit.",
                 "hu": "Válasszon kandallós palacsintázót a maximális kényelemért.",
                 "ro": "Alegeți o clătiterie cu șemineu pentru un confort maxim.",
-                "en": "Choose a crêperie with a fireplace for maximum coziness."
+                "en": "Choose a crêperie with a fireplace for maximum coziness.",
+                "fr": "Choisissez une crêperie avec cheminée pour un maximum de confort."
               }
             },
             {
@@ -663,7 +714,8 @@
                 "de": "Ein kurzer, stürmischer Blick auf das Meer lohnt sich trotz Wind.",
                 "hu": "Egy rövid, viharos pillantás a tengerre a szél ellenére is megéri.",
                 "ro": "O privire scurtă spre marea agitată merită, în ciuda vântului.",
-                "en": "A brief, stormy look at the sea is worth it despite the wind."
+                "en": "A brief, stormy look at the sea is worth it despite the wind.",
+                "fr": "Un bref regard sur la mer tourmentée en vaut la peine malgré le vent."
               }
             },
             {
@@ -672,7 +724,8 @@
                 "de": "Nur bei Ebbe! Achten Sie bei Regen doppelt auf die rutschigen Algen.",
                 "hu": "Csak apálykor! Esőben kétszeresen figyeljen a csúszós algákra.",
                 "ro": "Doar la reflux! Pe ploaie, atenție sporită la algele alunecoase.",
-                "en": "Only at low tide! In rain, pay double attention to slippery algae."
+                "en": "Only at low tide! In rain, pay double attention to slippery algae.",
+                "fr": "Uniquement à marée basse ! Sous la pluie, redoublez d'attention aux algues glissantes."
               }
             },
             {
@@ -681,7 +734,8 @@
                 "de": "Genießen Sie den Blick auf den Hafen unter einem stabilen Regenschirm.",
                 "hu": "Élvezze a kikötői kilátást egy stabil esernyő védelmében.",
                 "ro": "Bucurați-vă de priveliștea portului sub o umbrelă rezistentă.",
-                "en": "Enjoy the harbor view under a sturdy umbrella."
+                "en": "Enjoy the harbor view under a sturdy umbrella.",
+                "fr": "Profitez de la vue sur le port sous un parapluie solide."
               }
             }
           ],
@@ -709,6 +763,12 @@
               "The narrow streets of Intra-Muros often provide natural wind protection.",
               "Check tide times strictly; during storms, the water rises faster.",
               "Warm up in between with a hot cider or tea."
+            ],
+            "fr": [
+              "Portez un imperméable coupe-vent plutôt qu'un parapluie sur les remparts.",
+              "Les rues étroites d'Intra-Muros offrent souvent une protection naturelle contre le vent.",
+              "Vérifiez strictement les horaires de marée ; pendant les tempêtes, l'eau monte plus vite.",
+              "Réchauffez-vous entre deux visites avec un cidre chaud ou un thé."
             ]
           }
         },
@@ -717,7 +777,8 @@
             "de": "Erleben Sie das raue Gesicht der Bretagne im Winter. Die klare Luft an der Porte Saint-Vincent weckt die Geister. Mittags wärmt die Sonne die geschützten Ecken der Stadtmauern, während die Kathedrale eine friedliche Stille ausstrahlt. Der Nachmittag am Strand ist kurz, da die Dämmerung früh einsetzt und den Bastion de la Hollande in ein magisches blaues Licht taucht.",
             "hu": "Ismerje meg Bretagne vad téli arcát. A Porte Saint-Vincentnél a tiszta, hideg levegő azonnal felfrissíti. Délben a nap bágyadtan süti a városfalak védett zugait, míg a katedrálisban a csend és nyugalom várja. A délutáni tengerparti séta rövid, mert a korai szürkület mágikus kék fénybe öltözteti a Bastion de la Hollande-ot.",
             "ro": "Descoperiți fața aspră a Bretaniei pe timp de iarnă. Aerul rece și curat de la Poarta Saint-Vincent vă va trezi simțurile. La prânz, soarele încălzește colțurile adăpostite ale zidurilor, în timp ce Catedrala oferă o liniște profundă. După-amiaza pe plajă este scurtă, căci amurgul timpuriu scaldă Bastionul în lumini magice.",
-            "en": "Experience the raw face of Brittany in winter. The crisp air at Porte Saint-Vincent awakens the senses. At noon, the sun warms the sheltered corners of the ramparts, while the Cathedral offers a peaceful silence. The afternoon beach walk is brief as the early twilight bathes the Bastion de la Hollande in magical blue light."
+            "en": "Experience the raw face of Brittany in winter. The crisp air at Porte Saint-Vincent awakens the senses. At noon, the sun warms the sheltered corners of the ramparts, while the Cathedral offers a peaceful silence. The afternoon beach walk is brief as the early twilight bathes the Bastion de la Hollande in magical blue light.",
+            "fr": "Découvrez le visage brut de la Bretagne en hiver. L'air vif à la Porte Saint-Vincent éveille les sens. À midi, le soleil réchauffe les coins abrités des remparts, tandis que la cathédrale offre un silence paisible. La promenade hivernale sur la plage est brève car le crépuscule précoce baigne le Bastion de la Hollande d'une lumière bleue magique."
           },
           "stops": [
             {
@@ -726,7 +787,8 @@
                 "de": "Warme Handschuhe sind für die Fotos am Schloss unverzichtbar.",
                 "hu": "A kastélynál készített fotókhoz elengedhetetlen a meleg kesztyű.",
                 "ro": "Mănușile călduroase sunt indispensabile pentru pozele de la castel.",
-                "en": "Warm gloves are essential for photos at the castle."
+                "en": "Warm gloves are essential for photos at the castle.",
+                "fr": "Des gants chauds sont essentiels pour les photos au château."
               }
             },
             {
@@ -735,7 +797,8 @@
                 "de": "Genießen Sie die weite Sicht, die durch die klare Winterluft entsteht.",
                 "hu": "Élvezze a tiszta téli levegőnek köszönhető távoli kilátást.",
                 "ro": "Bucurați-vă de vizibilitatea mare oferită de aerul curat de iarnă.",
-                "en": "Enjoy the long-distance views provided by the clear winter air."
+                "en": "Enjoy the long-distance views provided by the clear winter air.",
+                "fr": "Profitez des vues lointaines offertes par l'air pur de l'hiver."
               }
             },
             {
@@ -744,7 +807,8 @@
                 "de": "Besuchen Sie die Weihnachtskrippe, falls Sie im Dezember dort sind.",
                 "hu": "Nézze meg a karácsonyi betlehemet, ha decemberben jár erre.",
                 "ro": "Vizitați ieslea de Crăciun dacă sunteți aici în decembrie.",
-                "en": "Visit the Christmas nativity scene if you are here in December."
+                "en": "Visit the Christmas nativity scene if you are here in December.",
+                "fr": "Visitez la crèche de Noël si vous êtes ici en décembre."
               }
             },
             {
@@ -753,7 +817,8 @@
                 "de": "Probieren Sie herzhafte bretonische Eintöpfe zum Aufwärmen.",
                 "hu": "Kóstolja meg a kiadós breton egytálételeket a felmelegedéshez.",
                 "ro": "Gustați tocănițele bretone consistente pentru a vă încălzi.",
-                "en": "Try hearty Breton stews to warm up."
+                "en": "Try hearty Breton stews to warm up.",
+                "fr": "Goûtez les ragoûts bretons copieux pour vous réchauffer."
               }
             },
             {
@@ -762,7 +827,8 @@
                 "de": "Der Wind ist hier im Winter sehr beißend, Mütze tief ins Gesicht.",
                 "hu": "A szél itt télen metsző, húzza mélyen a fejébe a sapkát.",
                 "ro": "Vântul este tăios aici iarna, trageți căciula bine pe urechi.",
-                "en": "The wind is biting here in winter, pull your hat down low."
+                "en": "The wind is biting here in winter, pull your hat down low.",
+                "fr": "Le vent est mordant ici en hiver, enfoncez bien votre chapeau."
               }
             },
             {
@@ -771,7 +837,8 @@
                 "de": "Achtung: Im Winter sind die Fluten oft höher und kommen schneller.",
                 "hu": "Figyelem: télen a dagály gyakran magasabb és gyorsabban érkezik.",
                 "ro": "Atenție: iarna fluxul este adesea mai înalt și vine mai repede.",
-                "en": "Warning: in winter, tides are often higher and arrive faster."
+                "en": "Warning: in winter, tides are often higher and arrive faster.",
+                "fr": "Attention : en hiver, les marées sont souvent plus hautes et arrivent plus vite."
               }
             },
             {
@@ -780,7 +847,8 @@
                 "de": "Der Sonnenuntergang findet im Winter bereits gegen 17:15 Uhr statt.",
                 "hu": "A naplemente télen már 17:15 körül bekövetkezik.",
                 "ro": "Apusul soarelui are loc deja în jur de ora 17:15 iarna.",
-                "en": "Sunset occurs as early as 5:15 PM in winter."
+                "en": "Sunset occurs as early as 5:15 PM in winter.",
+                "fr": "Le soleil se couche dès 17h15 en hiver."
               }
             }
           ],
@@ -808,6 +876,12 @@
               "Public toilets are open less frequently in winter, plan ahead.",
               "A thermos with a hot drink is the perfect companion on the walls.",
               "Visit the ice rink in front of the city walls if seasonally available."
+            ],
+            "fr": [
+              "Portez plusieurs couches (principe de l'oignon) contre le vent marin.",
+              "Les toilettes publiques sont moins souvent ouvertes en hiver, prévoyez à l'avance.",
+              "Un thermos avec une boisson chaude est le compagnon idéal sur les remparts.",
+              "Visitez la patinoire devant les remparts si elle est installée pour la saison."
             ]
           }
         }
@@ -841,7 +915,8 @@
             "de": "Radeln Sie entlang der Strandpromenade mit Blick auf die Wellenbrecher.",
             "hu": "Kerekezzen a tengerparti sétányon a hullámtörő cölöpök mentén.",
             "ro": "Pedalați de-a lungul promenadei cu vedere la stâlpii sparge-val.",
-            "en": "Cycle along the beachfront promenade with views of the breakwater logs."
+            "en": "Cycle along the beachfront promenade with views of the breakwater logs.",
+            "fr": "Roulez sur la digue avec vue sur les emblématiques brise-lames en bois."
           }
         },
         {
@@ -864,7 +939,8 @@
             "de": "Wilde Klippenlandschaft mit alten Bunkeranlagen aus dem Zweiten Weltkrieg.",
             "hu": "Vad sziklás táj második világháborús bunkerrendszerekkel.",
             "ro": "Peisaj stâncos sălbatic cu buncăre din al Doilea Război Mondial.",
-            "en": "Wild cliff landscape with WWII bunker remains."
+            "en": "Wild cliff landscape with WWII bunker remains.",
+            "fr": "Paysage de falaises sauvages avec des vestiges de bunkers de la Seconde Guerre mondiale."
           }
         },
         {
@@ -887,7 +963,8 @@
             "de": "Über 300 in den Granit gehauene Figuren eines Eremiten.",
             "hu": "Több mint 300, gránitba vájt figura egy remete munkája nyomán.",
             "ro": "Peste 300 de figuri sculptate în granit de către un pustnic.",
-            "en": "Over 300 figures carved into granite by a hermit priest."
+            "en": "Over 300 figures carved into granite by a hermit priest.",
+            "fr": "Plus de 300 figures sculptées dans le granit par un prêtre ermite."
           }
         },
         {
@@ -910,7 +987,8 @@
             "de": "Ein ruhiger Ort, ideal für eine Pause fernab der Massen.",
             "hu": "Csendes hely, ideális pihenőhöz a tömegtől távol.",
             "ro": "Un loc liniștit, ideal pentru o pauză departe de mulțime.",
-            "en": "A quiet spot, ideal for a break away from the crowds."
+            "en": "A quiet spot, ideal for a break away from the crowds.",
+            "fr": "Un endroit calme, idéal pour une pause loin de la foule."
           }
         },
         {
@@ -933,7 +1011,8 @@
             "de": "Bewundern Sie diesen dreifachen Turm aus dem 14. Jahrhundert.",
             "hu": "Csodálja meg ezt a 14. századi, hármas toronyrendszert.",
             "ro": "Admirați acest turn triplu din secolul al XIV-lea.",
-            "en": "Admire this triple tower dating from the 14th century."
+            "en": "Admire this triple tower dating from the 14th century.",
+            "fr": "Admirez cette triple tour datant du XIVe siècle."
           }
         },
         {
@@ -956,7 +1035,8 @@
             "de": "Genießen Sie den Blick auf Saint-Malo Intra-Muros von der Ferne.",
             "hu": "Élvezze a kilátást Saint-Malo óvárosára a távolból.",
             "ro": "Bucurați-vă de vederea asupra Saint-Malo Intra-Muros de la distanță.",
-            "en": "Enjoy the view of Saint-Malo Intra-Muros from across the water."
+            "en": "Enjoy the view of Saint-Malo Intra-Muros from across the water.",
+            "fr": "Profitez de la vue sur Saint-Malo Intra-Muros depuis l'autre rive."
           }
         }
       ],
@@ -964,7 +1044,8 @@
         "de": "Entdecken Sie die Küste von Saint-Malo jenseits der Mauern mit dem Fahrrad. Die Route führt Sie entlang des Sillon-Strandes zu den wilden Klippen der Pointe de la Varde. Ein Highlight sind die faszinierenden Felsenskulpturen von Rothéneuf, die direkt in den Küstengranit gehauen wurden.\n\nNach einem ruhigen Picknick in der Bucht kehren Sie in Richtung Süden zurück zum charmanten Viertel Saint-Servan. Hier dominiert der Tour Solidor die Mündung der Rance. Die Tour endet auf der Cité d'Aleth, dem historischen Geburtsort der Stadt, mit einem unvergleichlichen Panorama auf die befestigte Stadt und das offene Meer.",
         "hu": "Fedezze fel Saint-Malo partvidékét kerékpárral a falakon túl. Az útvonal a Sillon strand mentén vezet a Pointe de la Varde vad szikláihoz. A túra csúcspontja Rothéneuf lenyűgöző sziklaszobrai, amelyeket közvetlenül a parti gránitba véstek.\n\nEgy csendes öbölbeli piknik után térjen vissza délre, Saint-Servan bájos negyedébe. Itt a Solidor-torony uralja a Rance folyó torkolatát. A túra a Cité d'Aleth félszigeten ér véget, amely a város történelmi bölcsője, és páratlan panorámát nyújt az erődített városra és a nyílt tengerre.",
         "ro": "Descoperiți coasta Saint-Malo dincolo de ziduri cu bicicleta. Traseul vă poartă de-a lungul plajei Sillon către stâncile sălbatice de la Pointe de la Varde. Un punct culminant sunt fascinantele sculpturi în stâncă de la Rothéneuf, dăltuite direct în granitul de pe malul mării.\n\nDupă un picnic liniștit în golf, întoarceți-vă spre sud către cartierul fermecător Saint-Servan. Aici, Turnul Solidor domină estuarul Rance. Turul se încheie la Cité d'Aleth, locul istoric de naștere al orașului, cu o panoramă de neegalat asupra cetății și a mării deschise.",
-        "en": "Discover the Saint-Malo coast beyond the walls by bike. The route takes you along Sillon beach to the wild cliffs of Pointe de la Varde. A highlight is the fascinating Rothéneuf rock carvings, hewn directly into the coastal granite.\n\nAfter a quiet picnic in the bay, head back south towards the charming Saint-Servan district. Here, the Tour Solidor dominates the Rance estuary. The tour ends at Cité d'Aleth, the historical birthplace of the city, with an unparalleled panorama of the walled city and the open sea."
+        "en": "Discover the Saint-Malo coast beyond the walls by bike. The route takes you along Sillon beach to the wild cliffs of Pointe de la Varde. A highlight is the fascinating Rothéneuf rock carvings, hewn directly into the coastal granite.\n\nAfter a quiet picnic in the bay, head back south towards the charming Saint-Servan district. Here, the Tour Solidor dominates the Rance estuary. The tour ends at Cité d'Aleth, the historical birthplace of the city, with an unparalleled panorama of the walled city and the open sea.",
+        "fr": "Découvrez la côte malouine au-delà des remparts à vélo. L'itinéraire vous emmène le long de la plage du Sillon jusqu'aux falaises sauvages de la Pointe de la Varde. Un moment fort est la visite des fascinants rochers sculptés de Rothéneuf, taillés directement dans le granit côtier.\n\nAprès un pique-nique tranquille dans la baie, repartez vers le sud en direction du charmant quartier de Saint-Servan. Ici, la Tour Solidor domine l'estuaire de la Rance. Le tour se termine à la Cité d'Aleth, berceau historique de la ville, avec un panorama inégalé sur la cité corsaire et la pleine mer."
       },
       "gastro_picks": {
         "de": [
@@ -1005,6 +1086,16 @@
           {
             "name": "Far Breton",
             "tip": "A traditional prune custard cake, ideal for energy boost."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Benetin",
+            "tip": "Cuisine raffinée avec vue sur les rochers sculptés de Rothéneuf."
+          },
+          {
+            "name": "Far Breton",
+            "tip": "Un gâteau traditionnel au flan et aux pruneaux, idéal pour reprendre des forces."
           }
         ]
       },
@@ -1056,6 +1147,18 @@
             "tip": "Shaded paths under pine trees with sea views.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Anse de Rothéneuf",
+            "tip": "Une crique abritée aux eaux cristallines.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de la Cité d'Aleth",
+            "tip": "Sentiers ombragés sous les pins avec vue sur mer.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1098,6 +1201,16 @@
             "name": "Local Cidre",
             "tip": "Buy a bottle of artisanal cider directly from a producer."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marchés locaux de Saint-Servan",
+            "tip": "Produits frais et moins touristiques que dans la vieille ville."
+          },
+          {
+            "name": "Cidre local",
+            "tip": "Achetez une bouteille de cidre artisanal directement chez un producteur."
+          }
         ]
       },
       "tips": {
@@ -1124,6 +1237,12 @@
           "Watch out for pedestrians on the Sillon promenade.",
           "The route to Rothéneuf is well signposted.",
           "Take enough water and sunscreen with you."
+        ],
+        "fr": [
+          "Louez des vélos électriques car le littoral présente quelques dénivelés.",
+          "Faites attention aux piétons sur la promenade du Sillon.",
+          "L'itinéraire vers Rothéneuf est bien balisé.",
+          "Prévoyez suffisamment d'eau et de crème solaire."
         ]
       },
       "variants": {
@@ -1386,7 +1505,8 @@
             "de": "Eine Radtour im Regen erfordert Entschlossenheit, belohnt aber mit leeren Wegen. Am Sillon peitscht die Gischt über den Radweg. Mittags bieten die Felsen von Rothéneuf einen dramatischen Anblick, bevor Sie sich in Saint-Servan aufwärmen. Die Tour endet mit einer erfrischenden Fahrt durch den Nebel der Cité d'Aleth.",
             "hu": "Egy esős biciklitúra elszántságot igényel, de üres utakkal jutalmaz. A Sillon mentén a tengeri permet átcsap a kerékpárúton. Délben a rothéneuf-i sziklák drámai látványt nyújtanak, mielőtt Saint-Servanban felmelegedne. A túra a Cité d'Aleth ködös, frissítő körútjával zárul.",
             "ro": "O tură cu bicicleta pe ploaie necesită determinare, dar oferă drumuri libere. Pe Sillon, aerosolii marini sar peste pista de biciclete. La prânz, stâncile din Rothéneuf oferă o priveliște dramatică, înainte de a vă încălzi în Saint-Servan. Turul se încheie cu o plimbare răcoritoare prin ceața de la Cité d'Aleth.",
-            "en": "A bike ride in the rain requires determination but rewards you with empty paths. Along the Sillon, sea spray lashes across the bike path. At noon, the Rothéneuf rocks offer a dramatic sight before you warm up in Saint-Servan. The tour ends with a refreshing ride through the mist of Cité d'Aleth."
+            "en": "A bike ride in the rain requires determination but rewards you with empty paths. Along the Sillon, sea spray lashes across the bike path. At noon, the Rothéneuf rocks offer a dramatic sight before you warm up in Saint-Servan. The tour ends with a refreshing ride through the mist of Cité d'Aleth.",
+            "fr": "Une balade à vélo sous la pluie demande de la détermination mais vous récompense par des sentiers déserts. Le long du Sillon, les embruns fouettent la piste cyclable. À midi, les rochers de Rothéneuf offrent un spectacle dramatique avant de vous réchauffer à Saint-Servan. Le tour s'achève par une traversée rafraîchissante dans la brume de la Cité d'Aleth."
           },
           "stops": [
             {
@@ -1395,7 +1515,8 @@
                 "de": "Schutzbleche sind hier Pflicht, um nicht nassgespritzt zu werden.",
                 "hu": "A sárvédő itt kötelező, hogy ne fröcskölje össze magát.",
                 "ro": "Apărătorile de noroi sunt obligatorii aici pentru a nu vă stropi.",
-                "en": "Mudguards are a must here to avoid getting splashed."
+                "en": "Mudguards are a must here to avoid getting splashed.",
+                "fr": "Les garde-boue sont indispensables ici pour éviter les éclaboussures."
               }
             },
             {
@@ -1404,7 +1525,8 @@
                 "de": "Vorsicht bei starkem Seitenwind an den exponierten Klippen.",
                 "hu": "Vigyázzon az erős oldalszélre a kitett szikláknál.",
                 "ro": "Atenție la vântul lateral puternic pe stâncile expuse.",
-                "en": "Watch out for strong side winds on the exposed cliffs."
+                "en": "Watch out for strong side winds on the exposed cliffs.",
+                "fr": "Attention aux vents de côté puissants sur les falaises exposées."
               }
             },
             {
@@ -1413,7 +1535,8 @@
                 "de": "Extrem rutschig bei Regen! Gehen Sie vorsichtig ohne Fahrrad weiter.",
                 "hu": "Esőben rendkívül csúszós! Óvatosan, bicikli nélkül menjen tovább.",
                 "ro": "Extrem de alunecos pe ploaie! Mergeți cu atenție, fără bicicletă.",
-                "en": "Extremely slippery in rain! Proceed carefully without your bike."
+                "en": "Extremely slippery in rain! Proceed carefully without your bike.",
+                "fr": "Extrêmement glissant sous la pluie ! Progressez prudemment à pied sans votre vélo."
               }
             },
             {
@@ -1422,7 +1545,8 @@
                 "de": "Verlegen Sie das Picknick in ein Café im Dorf Rothéneuf.",
                 "hu": "A pikniket helyezze át egy rothéneuf-i falusi kávézóba.",
                 "ro": "Mutați picnicul într-o cafenea din satul Rothéneuf.",
-                "en": "Move your picnic to a café in the village of Rothéneuf."
+                "en": "Move your picnic to a café in the village of Rothéneuf.",
+                "fr": "Déplacez votre pique-nique dans un café du village de Rothéneuf."
               }
             },
             {
@@ -1431,7 +1555,8 @@
                 "de": "Das Museum im Turm ist ein perfekter trockener Stopp.",
                 "hu": "A toronyban lévő múzeum tökéletes száraz megálló.",
                 "ro": "Muzeul din turn este un popas perfect și uscat.",
-                "en": "The museum in the tower is a perfect dry stop."
+                "en": "The museum in the tower is a perfect dry stop.",
+                "fr": "Le musée dans la tour est un arrêt parfait pour rester au sec."
               }
             },
             {
@@ -1440,7 +1565,8 @@
                 "de": "Der Boden kann unter den Bäumen matschig sein, bleiben Sie auf dem Asphalt.",
                 "hu": "A fák alatt sáros lehet a talaj, maradjon az aszfalton.",
                 "ro": "Solul poate fi noroios sub copaci, rămâneți pe asfalt.",
-                "en": "The ground can be muddy under the trees, stay on the asphalt."
+                "en": "The ground can be muddy under the trees, stay on the asphalt.",
+                "fr": "Le sol peut être boueux sous les arbres, restez sur l'asphalte."
               }
             }
           ],
@@ -1468,6 +1594,12 @@
               "Avoid sudden braking on wet asphalt or cobblestones.",
               "Reflective clothing is vital in rain and poor visibility.",
               "Clean the chain after the ride to remove salty seawater."
+            ],
+            "fr": [
+              "Utilisez des sacoches imperméables pour vos objets de valeur.",
+              "Évitez les freinages brusques sur l'asphalte mouillé ou les pavés.",
+              "Les vêtements réfléchissants sont vitaux sous la pluie et par mauvaise visibilité.",
+              "Nettoyez la chaîne après la sortie pour enlever le sel de l'eau de mer."
             ]
           }
         },
@@ -1476,7 +1608,8 @@
             "de": "Winterliches Radeln in Saint-Malo bedeutet klare Horizonte und beißende Kälte. Am Sillon glitzert der Frost. Die Fahrt zur Pointe de la Varde erfordert warme Kleidung gegen den Nordwind. Nach einem schnellen Stopp bei den Felsbildern wärmen Sie sich in Saint-Servan auf, bevor Sie das goldene Licht der tiefstehenden Sonne an der Cité d'Aleth genießen.",
             "hu": "A téli biciklizés Saint-Malóban tiszta horizontot és csípős hideget jelent. A Sillonon csillog a zúzmara. A Pointe de la Varde felé vezető út meleg ruhát igényel az északi szél ellen. A sziklarajzok utáni gyors megálló után Saint-Servanban melegedhet fel, mielőtt élvezné az alacsonyan járó nap arany fényét a Cité d'Alethnél.",
             "ro": "Ciclismul de iarnă în Saint-Malo înseamnă orizonturi senine și frig pătrunzător. Pe Sillon sclipeste chiciura. Drumul spre Pointe de la Varde necesită haine groase împotriva vântului de nord. După un popas scurt la sculpturi, încălziți-vă în Saint-Servan înainte de a prinde lumina aurie de la Cité d'Aleth.",
-            "en": "Winter cycling in Saint-Malo means clear horizons and biting cold. Frost glitters on the Sillon. The ride to Pointe de la Varde requires warm clothing against the north wind. After a quick stop at the rock carvings, warm up in Saint-Servan before enjoying the golden light of the low sun at Cité d'Aleth."
+            "en": "Winter cycling in Saint-Malo means clear horizons and biting cold. Frost glitters on the Sillon. The ride to Pointe de la Varde requires warm clothing against the north wind. After a quick stop at the rock carvings, warm up in Saint-Servan before enjoying the golden light of the low sun at Cité d'Aleth.",
+            "fr": "Le vélo en hiver à Saint-Malo rime avec horizons clairs et froid piquant. Le givre scintille sur le Sillon. La route vers la Pointe de la Varde nécessite des vêtements chauds contre le vent du nord. Après un arrêt rapide aux rochers sculptés, réchauffez-vous à Saint-Servan avant de profiter de la lumière dorée du soleil bas à la Cité d'Aleth."
           },
           "stops": [
             {
@@ -1485,7 +1618,8 @@
                 "de": "Achten Sie auf Glatteis an schattigen Stellen des Radwegs.",
                 "hu": "Ügyeljen a jegesedésre a kerékpárút árnyékos szakaszain.",
                 "ro": "Fiți atenți la polei în zonele umbrite ale pistei.",
-                "en": "Watch out for black ice in shaded areas of the bike path."
+                "en": "Watch out for black ice in shaded areas of the bike path.",
+                "fr": "Attention au verglas dans les zones ombragées de la piste cyclable."
               }
             },
             {
@@ -1494,7 +1628,8 @@
                 "de": "Der Windchill-Effekt ist hier extrem; Gesichtsschutz empfohlen.",
                 "hu": "A szélérzet itt extrém; arcmaszk használata javasolt.",
                 "ro": "Efectul de windchill este extrem aici; se recomandă protecție pentru față.",
-                "en": "The windchill effect is extreme here; face protection recommended."
+                "en": "The windchill effect is extreme here; face protection recommended.",
+                "fr": "L'effet de refroidissement éolien est extrême ici ; protection du visage recommandée."
               }
             },
             {
@@ -1503,7 +1638,8 @@
                 "de": "Im Winter sind die Felsen oft mit Raureif bedeckt, sehr rutschig.",
                 "hu": "Télen a sziklákat gyakran zúzmara fedi, nagyon csúszós.",
                 "ro": "Iarna stâncile sunt adesea acoperite cu promoroacă, foarte alunecoase.",
-                "en": "In winter, the rocks are often covered with hoarfrost, very slippery."
+                "en": "In winter, the rocks are often covered with hoarfrost, very slippery.",
+                "fr": "En hiver, les rochers sont souvent couverts de givre, très glissants."
               }
             },
             {
@@ -1512,7 +1648,8 @@
                 "de": "Ein Picknick im Freien ist nur für Hartgesottene; Thermoskanne mitnehmen.",
                 "hu": "A szabadtéri piknik csak edzetteknek ajánlott; vigyen termoszt.",
                 "ro": "Picnicul în aer liber e doar pentru cei rezistenți; luați un termos.",
-                "en": "Outdoor picnicking is only for the hardy; bring a thermos."
+                "en": "Outdoor picnicking is only for the hardy; bring a thermos.",
+                "fr": "Le pique-nique en plein air est réservé aux courageux ; apportez un thermos."
               }
             },
             {
@@ -1521,7 +1658,8 @@
                 "de": "Genießen Sie den Blick auf die Rance, bevor die Sonne untergeht.",
                 "hu": "Élvezze a kilátást a Rance-ra, mielőtt a nap lemegy.",
                 "ro": "Bucurați-vă de priveliștea spre Rance înainte de apus.",
-                "en": "Enjoy the view of the Rance before the sun sets."
+                "en": "Enjoy the view of the Rance before the sun sets.",
+                "fr": "Profitez de la vue sur la Rance avant le coucher du soleil."
               }
             },
             {
@@ -1530,7 +1668,8 @@
                 "de": "Planen Sie das Ende der Tour bis 16:30 Uhr, um im Hellen anzukommen.",
                 "hu": "Tervezze a túra végét 16:30-ig, hogy még világosban célba érjen.",
                 "ro": "Planificați finalul turei până la 16:30 pentru a ajunge pe lumină.",
-                "en": "Plan to end the tour by 4:30 PM to arrive while it's still light."
+                "en": "Plan to end the tour by 4:30 PM to arrive while it's still light.",
+                "fr": "Prévoyez de terminer le tour vers 16h30 pour arriver avant la nuit."
               }
             }
           ],
@@ -1558,6 +1697,12 @@
               "Check tire pressure; slightly lower pressure gives better grip on slippery ground.",
               "E-bike batteries discharge faster in the cold.",
               "Take a route with more buildings to avoid the wind."
+            ],
+            "fr": [
+              "Portez des gants coupe-vent et un bonnet sous votre casque.",
+              "Vérifiez la pression des pneus ; une pression légèrement plus basse offre une meilleure adhérence sur sol glissant.",
+              "Les batteries de vélos électriques se déchargent plus vite dans le froid.",
+              "Empruntez un itinéraire avec plus de bâtiments pour éviter le vent."
             ]
           }
         }
@@ -1591,7 +1736,8 @@
             "de": "Verpassen Sie nicht die U-Boot-Attraktion 'Nautibus'.",
             "hu": "Ne hagyja ki a 'Nautibus' tengeralattjáró-élményt.",
             "ro": "Nu ratați atracția submarină 'Nautibus'.",
-            "en": "Don't miss the 'Nautibus' submarine attraction."
+            "en": "Don't miss the 'Nautibus' submarine attraction.",
+            "fr": "Ne manquez pas l'attraction du sous-marin 'Nautibus'."
           }
         },
         {
@@ -1614,7 +1760,8 @@
             "de": "Essen Sie frische Austern direkt am Hafen am Wasser.",
             "hu": "Egyen friss osztrigát közvetlenül a kikötőben, a vízparton.",
             "ro": "Mâncați stridii proaspete chiar în port, pe malul apei.",
-            "en": "Eat fresh oysters right at the harbor by the water."
+            "en": "Eat fresh oysters right at the harbor by the water.",
+            "fr": "Dégustez des huîtres fraîches sur le port, au bord de l'eau."
           }
         },
         {
@@ -1637,7 +1784,8 @@
             "de": "Spektakulärer Blick auf die Bucht von Mont-Saint-Michel.",
             "hu": "Látványos kilátás a Mont-Saint-Michel öbölre.",
             "ro": "Vedere spectaculoasă asupra golfului Mont-Saint-Michel.",
-            "en": "Spectacular view of the Mont-Saint-Michel bay."
+            "en": "Spectacular view of the Mont-Saint-Michel bay.",
+            "fr": "Vue spectaculaire sur la baie du Mont-Saint-Michel."
           }
         },
         {
@@ -1660,7 +1808,8 @@
             "de": "Bewundern Sie die Villen der Belle Époque aus dem 19. Jahrhundert.",
             "hu": "Csodálja meg a 19. századi Belle Époque villákat.",
             "ro": "Admirați vilele Belle Époque din secolul al XIX-lea.",
-            "en": "Admire the 19th-century Belle Époque villas."
+            "en": "Admire the 19th-century Belle Époque villas.",
+            "fr": "Admirez les villas Belle Époque du XIXe siècle."
           }
         },
         {
@@ -1683,7 +1832,8 @@
             "de": "Besuchen Sie das weltweit erste kommerzielle Gezeitenkraftwerk.",
             "hu": "Látogassa meg a világ első kereskedelmi árapály-erőművét.",
             "ro": "Vizitați prima centrală mareomotrice comercială din lume.",
-            "en": "Visit the world's first commercial tidal power station."
+            "en": "Visit the world's first commercial tidal power station.",
+            "fr": "Visitez la première usine marémotrice commerciale au monde."
           }
         }
       ],
@@ -1691,7 +1841,8 @@
         "de": "Mit dem Auto erkunden Sie die Umgebung von Saint-Malo in vollen Zügen. Beginnen Sie den Morgen im beeindruckenden Grand Aquarium, bevor Sie in das malerische Fischerdorf Cancale fahren, das für seine Austern weltberühmt ist. Genießen Sie die frische Meeresbrise direkt am Hafenbecken.\n\nAm Nachmittag führt Sie die Fahrt zur Pointe du Grouin, wo Sie ein atemberaubendes Panorama über den Ozean erwartet. Ein kurzer Abstecher über den Rance-Damm bringt Sie nach Dinard, dem eleganten Badeort mit britischem Flair. Auf dem Rückweg halten Sie am Gezeitenkraftwerk, einem technischen Wunderwerk, das die Kraft des Mondes nutzt.",
         "hu": "Autóval Saint-Malo környékét teljes egészében felfedezheti. Kezdje a reggelt a lenyűgöző Nagy Akváriumban, majd hajtson el Cancale festői halászfalujába, amely világhírű az osztrigájáról. Élvezze a friss tengeri szellőt közvetlenül a kikötőben.\n\nDélután az út a Pointe du Grouin-hoz vezet, ahol lélegzetelállító panoráma várja az óceán felett. Egy rövid kitérő a Rance-gáton keresztül Dinard-ba visz, az elegáns, brit hangulatú üdülőhelyre. Visszafelé álljon meg az árapály-erőműnél, amely egy technikai csoda, és a Hold erejét hasznosítja.",
         "ro": "Cu mașina, explorați din plin împrejurimile Saint-Malo. Începeți dimineața la impresionantul Mare Acvariu, înainte de a conduce către satul pitoresc de pescari Cancale, faimos în lume pentru stridiile sale. Bucurați-vă de briza mării direct în port.\n\nDupă-amiaza, drumul vă duce la Pointe du Grouin, unde vă așteaptă o panoramă uluitoare peste ocean. O scurtă abatere peste digul Rance vă aduce la Dinard, stațiunea elegantă cu aer britanic. La întoarcere, opriți-vă la centrala mareomotrice, o minune tehnică ce folosește forța lunii.",
-        "en": "By car, you can explore the surroundings of Saint-Malo to the fullest. Start the morning at the impressive Grand Aquarium before driving to the picturesque fishing village of Cancale, world-famous for its oysters. Enjoy the fresh sea breeze right at the harbor.\n\nIn the afternoon, the journey leads to Pointe du Grouin, where a breathtaking panorama over the ocean awaits. A short detour across the Rance dam takes you to Dinard, the elegant seaside resort with British flair. On the way back, stop at the tidal power station, a technical marvel that harnesses the power of the moon."
+        "en": "By car, you can explore the surroundings of Saint-Malo to the fullest. Start the morning at the impressive Grand Aquarium before driving to the picturesque fishing village of Cancale, world-famous for its oysters. Enjoy the fresh sea breeze right at the harbor.\n\nIn the afternoon, the journey leads to Pointe du Grouin, where a breathtaking panorama over the ocean awaits. A short detour across the Rance dam takes you to Dinard, the elegant seaside resort with British flair. On the way back, stop at the tidal power station, a technical marvel that harnesses the power of the moon.",
+        "fr": "En voiture, vous pouvez explorer pleinement les environs de Saint-Malo. Commencez la matinée par l'impressionnant Grand Aquarium avant de vous rendre au pittoresque village de pêcheurs de Cancale, mondialement connu pour ses huîtres. Profitez de la brise marine directement sur le port.\n\nL'après-midi, le voyage mène à la Pointe du Grouin, où un panorama époustouflant sur l'océan vous attend. Un court détour par le barrage de la Rance vous conduit à Dinard, élégante station balnéaire au flair britannique. Au retour, arrêtez-vous à l'usine marémotrice, une merveille technique qui capte la force de la lune."
       },
       "gastro_picks": {
         "de": [
@@ -1732,6 +1883,16 @@
           {
             "name": "Moules-frites",
             "tip": "Mussels with fries, a classic on the coast."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Huîtres de Cancale",
+            "tip": "Achetez-les directement au marché et jetez les coquilles dans la mer."
+          },
+          {
+            "name": "Moules-frites",
+            "tip": "Des moules avec des frites, un classique de la côte."
           }
         ]
       },
@@ -1783,6 +1944,18 @@
             "tip": "A quiet view of Saint-Malo across the water.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Sentier côtier de la Pointe du Grouin",
+            "tip": "Éloignez-vous un peu du parking pour un véritable silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plage du Prieuré (Dinard)",
+            "tip": "Une vue paisible sur Saint-Malo de l'autre côté de l'eau.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1825,6 +1998,16 @@
             "name": "Breton Biscuits (Palets)",
             "tip": "Buttery biscuits in tin cans as a durable gift."
           }
+        ],
+        "fr": [
+          {
+            "name": "Sel de Guérande",
+            "tip": "Le célèbre sel de mer de la région dans les épiceries fines locales."
+          },
+          {
+            "name": "Palets Bretons",
+            "tip": "Biscuits pur beurre en boîte métallique, un cadeau durable."
+          }
         ]
       },
       "tips": {
@@ -1851,6 +2034,12 @@
           "The coastal road to Cancale is very scenic.",
           "Watch out for the bridge opening times at the Rance station.",
           "In Cancale, there are many free parking spaces above the cliffs."
+        ],
+        "fr": [
+          "Le stationnement à Intra-Muros est difficile ; utilisez les parkings relais.",
+          "La route côtière vers Cancale est magnifique.",
+          "Surveillez les horaires d'ouverture du pont de l'usine de la Rance.",
+          "À Cancale, il y a de nombreuses places de parking gratuites au-dessus des falaises."
         ]
       },
       "variants": {
@@ -2099,7 +2288,8 @@
             "de": "Das Auto ist der perfekte Begleiter für einen verregneten Tag in der Bucht. Starten Sie trocken im Aquarium, bevor Sie nach Cancale fahren. Auch bei Regen ist der Blick auf die Austernbänke faszinierend. Die Pointe du Grouin zeigt sich von ihrer wildesten Seite. Der Abend in Dinard bietet trotz Wolken einen charmanten Blick auf das beleuchtete Saint-Malo.",
             "hu": "Az autó tökéletes társ egy esős napon az öbölben. Kezdje szárazon az Aquariumban, mielőtt Cancale-ba hajtana. Az osztrigatelepek látványa esőben is lenyűgöző. A Pointe du Grouin a legvadabb arcát mutatja. A dinard-i este a felhők ellenére is bájos kilátást nyújt a kivilágított Saint-Malóra.",
             "ro": "Mașina este companionul ideal pentru o zi ploioasă în golf. Începeți la adăpost în Acvariu înainte de a merge la Cancale. Priveliștea crescătoriilor de midii este fascinantă și pe ploaie. Pointe du Grouin se arată în cea mai sălbatică ipostază. Seara în Dinard oferă o priveliște fermecătoare asupra Saint-Malo-ului iluminat.",
-            "en": "The car is the perfect companion for a rainy day in the bay. Start dry at the Aquarium before driving to Cancale. The view of the oyster beds is fascinating even in the rain. Pointe du Grouin shows its wildest side. An evening in Dinard offers a charming view of illuminated Saint-Malo despite the clouds."
+            "en": "The car is the perfect companion for a rainy day in the bay. Start dry at the Aquarium before driving to Cancale. The view of the oyster beds is fascinating even in the rain. Pointe du Grouin shows its wildest side. An evening in Dinard offers a charming view of illuminated Saint-Malo despite the clouds.",
+            "fr": "La voiture est le compagnon idéal pour une journée pluvieuse dans la baie. Commencez au sec à l'Aquarium avant de rouler vers Cancale. La vue sur les parcs à huîtres est fascinante même sous la pluie. La Pointe du Grouin montre son côté le plus sauvage. Une soirée à Dinard offre une vue charmante sur Saint-Malo illuminé malgré les nuages."
           },
           "stops": [
             {
@@ -2108,7 +2298,8 @@
                 "de": "Der ultimative Schlechtwetter-Stopp. Planen Sie mindestens 3 Stunden ein.",
                 "hu": "A végső megálló rossz idő esetén. Tervezzen legalább 3 órát.",
                 "ro": "Popasul suprem pentru vreme rea. Planificați cel puțin 3 ore.",
-                "en": "The ultimate bad-weather stop. Plan at least 3 hours."
+                "en": "The ultimate bad-weather stop. Plan at least 3 hours.",
+                "fr": "L'arrêt ultime par mauvais temps. Prévoyez au moins 3 heures."
               }
             },
             {
@@ -2117,7 +2308,8 @@
                 "de": "Verzehren Sie Ihre Austern in einem der gemütlichen Restaurants am Hafen.",
                 "hu": "Fogyassza el az osztrigát a kikötő egyik hangulatos éttermében.",
                 "ro": "Savurați stridiile într-unul dintre restaurantele primitoare din port.",
-                "en": "Eat your oysters in one of the cozy restaurants by the harbor."
+                "en": "Eat your oysters in one of the cozy restaurants by the harbor.",
+                "fr": "Dégustez vos huîtres dans l'un des restaurants accueillants du port."
               }
             },
             {
@@ -2126,7 +2318,8 @@
                 "de": "Bleiben Sie bei Sturm im Auto und genießen Sie die Aussicht durch die Scheibe.",
                 "hu": "Vihar esetén maradjon az autóban, és élvezze a kilátást az ablakon át.",
                 "ro": "Pe furtună, rămâneți în mașină și admirați peisajul prin parbriz.",
-                "en": "In a storm, stay in the car and enjoy the view through the window."
+                "en": "In a storm, stay in the car and enjoy the view through the window.",
+                "fr": "Pendant une tempête, restez dans la voiture et profitez de la vue par la fenêtre."
               }
             },
             {
@@ -2135,7 +2328,8 @@
                 "de": "Ein Regenspaziergang hier ist dank der Beleuchtung sehr romantisch.",
                 "hu": "Egy esős séta itt a megvilágításnak köszönhetően nagyon romantikus.",
                 "ro": "O plimbare pe ploaie aici este foarte romantică datorită iluminatului.",
-                "en": "A rainy walk here is very romantic thanks to the lighting."
+                "en": "A rainy walk here is very romantic thanks to the lighting.",
+                "fr": "Une promenade sous la pluie ici est très romantique grâce à l'éclairage."
               }
             },
             {
@@ -2144,7 +2338,8 @@
                 "de": "Das Besucherzentrum bietet einen trockenen Einblick in die Technik.",
                 "hu": "A látogatóközpont száraz betekintést nyújt a technológiába.",
                 "ro": "Centrul de vizitare oferă o perspectivă uscată asupra tehnologiei.",
-                "en": "The visitor center offers a dry insight into the technology."
+                "en": "The visitor center offers a dry insight into the technology.",
+                "fr": "Le centre de découverte offre un aperçu de la technologie au sec."
               }
             }
           ],
@@ -2172,6 +2367,12 @@
               "Coastal roads can form deep puddles during heavy rain (aquaplaning).",
               "Keep spare shoes in the trunk in case you get wet.",
               "Use the seat heating after windy coastal stops."
+            ],
+            "fr": [
+              "Les parkings couverts de Saint-Malo Intra-Muros vous gardent au sec en sortant.",
+              "Les routes côtières peuvent former de grandes flaques lors de fortes pluies (aquaplaning).",
+              "Gardez des chaussures de rechange dans le coffre au cas où vous seriez mouillé.",
+              "Utilisez le chauffage des sièges après vos arrêts venteux sur la côte."
             ]
           }
         },
@@ -2180,7 +2381,8 @@
             "de": "Im Winter bietet das Auto den Komfort, die weite Bucht von Mont-Saint-Michel warm zu erkunden. Das Aquarium ist morgens angenehm leer. In Cancale ist die Atmosphäre ruhig und authentisch. Die Pointe du Grouin bietet spektakuläre, klare Aussichten auf das winterliche Meer. Der Tag endet im sanften Licht der Rance-Mündung, während die Heizung für Wohlbefinden sorgt.",
             "hu": "Télen az autó kényelmet nyújt a Mont-Saint-Michel öböl meleg felfedezéséhez. Az Aquarium reggel kellemesen üres. Cancale-ban a hangulat nyugodt és hiteles. A Pointe du Grouin látványos, tiszta kilátást nyújt a téli tengerre. A nap a Rance-torkolat lágy fényeiben ér véget, miközben a fűtés gondoskodik a jó közérzetről.",
             "ro": "Iarna, mașina oferă confortul de a explora golful Mont-Saint-Michel la căldură. Acvariul este plăcut de liber dimineața. În Cancale, atmosfera este calmă și autentică. Pointe du Grouin oferă vederi spectaculoase asupra mării hibernale. Ziua se încheie în lumina blândă a estuarului Rance, în confortul mașinii.",
-            "en": "In winter, the car provides comfort to explore the vast Bay of Mont-Saint-Michel warmly. The Aquarium is pleasantly empty in the morning. In Cancale, the atmosphere is quiet and authentic. Pointe du Grouin offers spectacular, clear views of the winter sea. The day ends in the soft light of the Rance estuary while the heater ensures well-being."
+            "en": "In winter, the car provides comfort to explore the vast Bay of Mont-Saint-Michel warmly. The Aquarium is pleasantly empty in the morning. In Cancale, the atmosphere is quiet and authentic. Pointe du Grouin offers spectacular, clear views of the winter sea. The day ends in the soft light of the Rance estuary while the heater ensures well-being.",
+            "fr": "En hiver, la voiture offre le confort nécessaire pour explorer la vaste baie du Mont-Saint-Michel bien au chaud. L'Aquarium est agréablement vide le matin. À Cancale, l'atmosphère est calme et authentique. La Pointe du Grouin offre des vues spectaculaires et dégagées sur la mer d'hiver. La journée s'achève dans la douce lumière de l'estuaire de la Rance alors que le chauffage assure votre bien-être."
           },
           "stops": [
             {
@@ -2189,7 +2391,8 @@
                 "de": "Ein warmer Start in den Tag, ideal für Familien.",
                 "hu": "Meleg kezdés a naphoz, ideális családoknak.",
                 "ro": "Un început călduros de zi, ideal pentru familii.",
-                "en": "A warm start to the day, ideal for families."
+                "en": "A warm start to the day, ideal for families.",
+                "fr": "Un début de journée au chaud, idéal pour les familles."
               }
             },
             {
@@ -2198,7 +2401,8 @@
                 "de": "Die Austernverkäufer sind auch im Winter da, ziehen Sie sich warm an.",
                 "hu": "Az osztrigaárusok télen is ott vannak, öltözzön fel melegen.",
                 "ro": "Vânzătorii de stridii sunt acolo și iarna, îmbrăcați-vă bine.",
-                "en": "The oyster sellers are there even in winter, dress warmly."
+                "en": "The oyster sellers are there even in winter, dress warmly.",
+                "fr": "Les vendeurs d'huîtres sont là même en hiver, habillez-vous chaudement."
               }
             },
             {
@@ -2207,7 +2411,8 @@
                 "de": "Bester Spot für Fotos vom winterlichen Mont-Saint-Michel in der Ferne.",
                 "hu": "A legjobb hely a távoli, téli Mont-Saint-Michel fotózásához.",
                 "ro": "Cel mai bun loc pentru poze cu Mont-Saint-Michel în depărtare, iarna.",
-                "en": "Best spot for photos of the wintery Mont-Saint-Michel in the distance."
+                "en": "Best spot for photos of the wintery Mont-Saint-Michel in the distance.",
+                "fr": "Meilleur endroit pour photographier le Mont-Saint-Michel hivernal au loin."
               }
             },
             {
@@ -2216,7 +2421,8 @@
                 "de": "Im Winter ist es hier viel ruhiger; genießen Sie die Architektur.",
                 "hu": "Télen itt sokkal csendesebb; élvezze az építészetet.",
                 "ro": "Iarna este mult mai liniște aici; admirați arhitectura.",
-                "en": "It is much quieter here in winter; enjoy the architecture."
+                "en": "It is much quieter here in winter; enjoy the architecture.",
+                "fr": "C'est beaucoup plus calme ici en hiver ; profitez de l'architecture."
               }
             },
             {
@@ -2225,7 +2431,8 @@
                 "de": "Kurzer Stopp, um die Kraft des winterlichen Wassers zu sehen.",
                 "hu": "Rövid megálló, hogy lássa a téli víz erejét.",
                 "ro": "Popas scurt pentru a vedea forța apei pe timp de iarnă.",
-                "en": "Short stop to see the power of the winter water."
+                "en": "Short stop to see the power of the winter water.",
+                "fr": "Court arrêt pour observer la puissance des eaux hivernales."
               }
             }
           ],
@@ -2253,6 +2460,12 @@
               "Coastal parking lots are often free or cheaper in winter.",
               "Plan the drive to Pointe du Grouin before sunset (4:30 PM).",
               "Keep a wool blanket in the car for breaks."
+            ],
+            "fr": [
+              "Vérifiez l'antigel de votre liquide lave-glace.",
+              "Les parkings côtiers sont souvent gratuits ou moins chers en hiver.",
+              "Prévoyez la visite à la Pointe du Grouin avant le coucher du soleil (16h30).",
+              "Gardez une couverture en laine dans la voiture pour les pauses."
             ]
           }
         }
@@ -2286,7 +2499,8 @@
             "de": "Vom Bahnhof nehmen Sie die Linie 1 oder 2 bis zum Hafen.",
             "hu": "A vasútállomástól az 1-es vagy 2-es busszal menjen a kikötőig.",
             "ro": "De la gară, luați linia 1 sau 2 până la port.",
-            "en": "From the station, take line 1 or 2 to the harbor."
+            "en": "From the station, take line 1 or 2 to the harbor.",
+            "fr": "Depuis la gare, prenez la ligne 1 ou 2 vers le port."
           }
         },
         {
@@ -2309,7 +2523,8 @@
             "de": "Ein lebendiges Viertel mit vielen lokalen Geschäften.",
             "hu": "Élettel teli negyed sok helyi üzlettel.",
             "ro": "Un cartier plin de viață cu multe magazine locale.",
-            "en": "A lively district with many local shops."
+            "en": "A lively district with many local shops.",
+            "fr": "Un quartier animé avec de nombreux commerces de proximité."
           }
         },
         {
@@ -2332,7 +2547,8 @@
             "de": "Die Haltestelle 'Aquarium' befindet sich direkt vor dem Eingang.",
             "hu": "Az 'Aquarium' megálló közvetlenül a bejárat előtt van.",
             "ro": "Stația 'Aquarium' se află chiar în fața intrării.",
-            "en": "The 'Aquarium' stop is right in front of the entrance."
+            "en": "The 'Aquarium' stop is right in front of the entrance.",
+            "fr": "L'arrêt 'Aquarium' se trouve juste devant l'entrée."
           }
         },
         {
@@ -2355,7 +2571,8 @@
             "de": "Von hier sind es 10 Minuten Fußweg zu den Skulpturen.",
             "hu": "Innen 10 perc séta a sziklaszobrokig.",
             "ro": "De aici sunt 10 minute de mers pe jos până la sculpturi.",
-            "en": "From here it is a 10-minute walk to the sculptures."
+            "en": "From here it is a 10-minute walk to the sculptures.",
+            "fr": "De là, comptez 10 minutes de marche pour atteindre les sculptures."
           }
         },
         {
@@ -2378,7 +2595,8 @@
             "de": "Steigen Sie am Casino aus für einen Abendspaziergang.",
             "hu": "Szálljon le a Kaszinónál egy esti sétához.",
             "ro": "Coborâți la Casinou pentru o plimbare de seară.",
-            "en": "Get off at the Casino for an evening stroll."
+            "en": "Get off at the Casino for an evening stroll.",
+            "fr": "Descendez au Casino pour une promenade nocturne."
           }
         }
       ],
@@ -2386,7 +2604,8 @@
         "de": "Nutzen Sie das hervorragende Busnetz von Saint-Malo, um die verschiedenen Stadtteile mühelos zu verbinden. Beginnen Sie im historischen Herz Intra-Muros, bevor Sie mit dem Bus nach Saint-Servan fahren, um das authentische Alltagsleben zu schnuppern. Das Grand Aquarium ist bequem mit der Linie 1 erreichbar.\n\nAm Nachmittag bringt Sie die Linie 4 in das charmante Dorf Rothéneuf, wo Sie die Küste und die Kunstwerke eines Einsiedlers erkunden können. Zum Abschluss des Tages kehren Sie zum Sillon-Strand zurück, um die belebte Promenade und das Casino zu genießen, bevor Sie den Bus zurück zum Bahnhof oder zu Ihrer Unterkunft nehmen.",
         "hu": "Használja Saint-Malo kiváló buszhálózatát a különböző városrészek könnyű eléréséhez. Kezdjen a történelmi óvárosban, majd busszal menjen át Saint-Servanba, hogy megismerje a helyiek mindennapjait. A Nagy Akvárium kényelmesen elérhető az 1-es vonallal.\n\nDélután a 4-es járat elviszi Önt Rothéneuf bájos falujába, ahol felfedezheti a partvidéket és egy remete műalkotásait. A nap végén térjen vissza a Sillon strandhoz, élvezze a nyüzsgő sétányt és a Kaszinót, mielőtt visszaszállna a buszra a pályaudvar vagy a szállása felé.",
         "ro": "Folosiți rețeaua excelentă de autobuze din Saint-Malo pentru a conecta fără efort diferitele cartiere. Începeți în inima istorică Intra-Muros, înainte de a lua autobuzul spre Saint-Servan pentru a simți viața locală autentică. Marele Acvariu este ușor accesibil cu linia 1.\n\nDupă-amiaza, linia 4 vă duce în satul fermecător Rothéneuf, unde puteți explora coasta și operele de artă ale unui pustnic. La finalul zilei, întoarceți-vă la plaja Sillon pentru a vă bucura de promenada animată și de cazino, înainte de a lua autobuzul înapoi spre gară sau cazare.",
-        "en": "Use Saint-Malo's excellent bus network to effortlessly connect the different districts. Start in the historical heart of Intra-Muros before taking a bus to Saint-Servan to get a taste of authentic local life. The Grand Aquarium is easily accessible via line 1.\n\nIn the afternoon, line 4 takes you to the charming village of Rothéneuf, where you can explore the coastline and the artworks of a hermit. To end the day, return to Sillon beach to enjoy the busy promenade and the casino before taking the bus back to the station or your accommodation."
+        "en": "Use Saint-Malo's excellent bus network to effortlessly connect the different districts. Start in the historical heart of Intra-Muros before taking a bus to Saint-Servan to get a taste of authentic local life. The Grand Aquarium is easily accessible via line 1.\n\nIn the afternoon, line 4 takes you to the charming village of Rothéneuf, where you can explore the coastline and the artworks of a hermit. To end the day, return to Sillon beach to enjoy the busy promenade and the casino before taking the bus back to the station or your accommodation.",
+        "fr": "Utilisez l'excellent réseau de bus de Saint-Malo pour relier sans effort les différents quartiers. Commencez par le cœur historique d'Intra-Muros avant de prendre un bus pour Saint-Servan pour goûter à la vie locale authentique. Le Grand Aquarium est facilement accessible via la ligne 1.\n\nL'après-midi, la ligne 4 vous emmène au charmant village de Rothéneuf, où vous pourrez explorer le littoral et les œuvres d'un ermite. Pour finir la journée, retournez à la plage du Sillon pour profiter de la promenade animée et du casino avant de reprendre le bus pour la gare ou votre hébergement."
       },
       "gastro_picks": {
         "de": [
@@ -2427,6 +2646,16 @@
           {
             "name": "Crêperie du Port",
             "tip": "Cheap and tasty crêpes in Saint-Servan."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Étrave",
+            "tip": "Réputé pour ses fruits de mer frais près du port."
+          },
+          {
+            "name": "Crêperie du Port",
+            "tip": "Crêpes savoureuses et bon marché à Saint-Servan."
           }
         ]
       },
@@ -2478,6 +2707,18 @@
             "tip": "A hidden gem near Rothéneuf.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Parc de la Briantais",
+            "tip": "Un vaste parc surplombant l'estuaire de la Rance.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plage du Minihic",
+            "tip": "Une perle cachée près de Rothéneuf.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2520,6 +2761,16 @@
             "name": "L'Atelier de l'Ours",
             "tip": "Artisanal crafts and souvenirs in Saint-Servan."
           }
+        ],
+        "fr": [
+          {
+            "name": "Carrefour Saint-Malo",
+            "tip": "Grand choix de produits bretons pour le retour."
+          },
+          {
+            "name": "L'Atelier de l'Ours",
+            "tip": "Artisanat et souvenirs originaux à Saint-Servan."
+          }
         ]
       },
       "tips": {
@@ -2546,6 +2797,12 @@
           "The MAT app shows departure times in real-time.",
           "Buses run more frequently in summer than in winter.",
           "Line 1 connects the station directly to the old town."
+        ],
+        "fr": [
+          "Achetez un ticket journée pour le bus (Pass Journée).",
+          "L'application MAT affiche les horaires de départ en temps réel.",
+          "Les bus circulent plus fréquemment en été qu'en hiver.",
+          "La ligne 1 relie directement la gare à la vieille ville."
         ]
       },
       "variants": {
@@ -2794,7 +3051,8 @@
             "de": "Nutzen Sie das Busnetz, um trocken zwischen den Highlights zu pendeln. Intra-Muros bietet Schutz in den Gassen. Mit der Linie 1 gelangen Sie direkt zum Aquarium, dem besten Zufluchtsort bei Regen. Nachmittags bringt Sie die Linie 4 nach Rothéneuf, wo der raue Ozean beeindruckt. Der Tag endet bequem im Bus zurück zum Sillon.",
             "hu": "Használja a buszhálózatot, hogy szárazon közlekedjen a látnivalók között. Az óváros szűk utcái védelmet nyújtanak. Az 1-es vonallal közvetlenül az Aquariumhoz juthat, ami a legjobb menedék esőben. Délután a 4-es vonal elviszi Rothéneuf-be, ahol a vad óceán lenyűgöző. A nap kényelmesen, a Sillonhoz tartó buszon ér véget.",
             "ro": "Folosiți rețeaua de autobuze pentru a pendula uscat între punctele de interes. Intra-Muros oferă adăpost pe străduțe. Cu linia 1 ajungeți direct la Acvariu, cel mai bun refugiu pe ploaie. După-amiaza, linia 4 vă duce la Rothéneuf, unde oceanul agitat este impresionant. Ziua se încheie confortabil în autobuzul spre Sillon.",
-            "en": "Use the bus network to commute dryly between highlights. Intra-Muros provides shelter in its alleys. Line 1 takes you directly to the Aquarium, the best refuge in the rain. In the afternoon, Line 4 takes you to Rothéneuf, where the raw ocean is impressive. The day ends comfortably on the bus back to Sillon."
+            "en": "Use the bus network to commute dryly between highlights. Intra-Muros provides shelter in its alleys. Line 1 takes you directly to the Aquarium, the best refuge in the rain. In the afternoon, Line 4 takes you to Rothéneuf, where the raw ocean is impressive. The day ends comfortably on the bus back to Sillon.",
+            "fr": "Utilisez le réseau de bus pour circuler au sec entre les points forts. Intra-Muros offre un abri dans ses ruelles. La ligne 1 vous emmène directement à l'Aquarium, le meilleur refuge sous la pluie. L'après-midi, la ligne 4 vous conduit à Rothéneuf, où l'océan brut est impressionnant. La journée se termine confortablement dans le bus vers le Sillon."
           },
           "stops": [
             {
@@ -2803,7 +3061,8 @@
                 "de": "Die Bushaltestellen direkt vor dem Tor haben oft Unterstände.",
                 "hu": "A közvetlenül a kapu előtti buszmegállók gyakran fedettek.",
                 "ro": "Stațiile de autobuz de la poartă au adesea adăposturi.",
-                "en": "The bus stops right in front of the gate often have shelters."
+                "en": "The bus stops right in front of the gate often have shelters.",
+                "fr": "Les arrêts de bus juste devant les portes disposent souvent d'abris."
               }
             },
             {
@@ -2812,7 +3071,8 @@
                 "de": "Kurze Wege zwischen den Bushaltestellen minimieren die Regenzeit.",
                 "hu": "A buszmegállók közötti rövid távolság minimalizálja az esőben töltött időt.",
                 "ro": "Distanțele scurte între stații minimizează timpul petrecut în ploaie.",
-                "en": "Short distances between bus stops minimize time in the rain."
+                "en": "Short distances between bus stops minimize time in the rain.",
+                "fr": "Les courtes distances entre les arrêts minimisent le temps sous la pluie."
               }
             },
             {
@@ -2821,7 +3081,8 @@
                 "de": "Perfekt: Die Haltestelle ist nur wenige Schritte vom Eingang entfernt.",
                 "hu": "Tökéletes: a megálló csak pár lépésre van a bejárattól.",
                 "ro": "Perfect: stația este la doar câțiva pași de intrare.",
-                "en": "Perfect: the stop is just a few steps from the entrance."
+                "en": "Perfect: the stop is just a few steps from the entrance.",
+                "fr": "Parfait : l'arrêt se trouve à quelques pas seulement de l'entrée."
               }
             },
             {
@@ -2830,7 +3091,8 @@
                 "de": "Nutzen Sie die App 'MAT', um die genauen Ankunftszeiten im Regen zu sehen.",
                 "hu": "Használja a 'MAT' alkalmazást a pontos érkezéshez az esőben.",
                 "ro": "Folosiți aplicația 'MAT' pentru a vedea sosirile exacte pe ploaie.",
-                "en": "Use the 'MAT' app to see exact arrival times in the rain."
+                "en": "Use the 'MAT' app to see exact arrival times in the rain.",
+                "fr": "Utilisez l'application 'MAT' pour voir l'heure exacte d'arrivée sous la pluie."
               }
             },
             {
@@ -2839,7 +3101,8 @@
                 "de": "Die großen Fenster der Busse bieten eine tolle Panoramafahrt im Trockenen.",
                 "hu": "A buszok nagy ablakai száraz panorámautat kínálnak.",
                 "ro": "Geamurile mari ale autobuzelor oferă o călătorie panoramică uscată.",
-                "en": "The large bus windows offer a great panoramic ride in the dry."
+                "en": "The large bus windows offer a great panoramic ride in the dry.",
+                "fr": "Les grandes vitres du bus offrent une superbe balade panoramique au sec."
               }
             }
           ],
@@ -2867,6 +3130,12 @@
               "The buses are well-heated, ideal for warming up between stops.",
               "The 'MAT' app offers real-time information on all lines.",
               "Buses run less frequently on weekends, check the schedule carefully."
+            ],
+            "fr": [
+              "Achetez un titre de transport numérique pour éviter d'attendre à la borne sous la pluie.",
+              "Les bus sont bien chauffés, idéal pour se réchauffer entre deux arrêts.",
+              "L'application 'MAT' offre des informations en temps réel sur toutes les lignes.",
+              "Les bus circulent moins souvent le week-end, vérifiez bien les horaires."
             ]
           }
         },
@@ -2875,7 +3144,8 @@
             "de": "Der Bus ist die gemütlichste Art, Saint-Malo im Winter zu entdecken. Von Intra-Muros nach Saint-Servan genießen Sie die Aussicht ohne kalten Wind. Das Aquarium bietet eine willkommene Wärme. In Rothéneuf erleben Sie die winterliche Küste, bevor Sie pünktlich zum frühen Sonnenuntergang mit dem Bus zurück zum Sillon fahren.",
             "hu": "A busz a legkényelmesebb módja Saint-Malo téli felfedezésének. Az óvárosból Saint-Servanba menet hideg szél nélkül élvezheti a kilátást. Az Aquarium szívélyes meleget nyújt. Rothéneuf-ben megtapasztalhatja a téli partvidéket, mielőtt a korai naplementére busszal visszatérne a Sillonhoz.",
             "ro": "Autobuzul este cel mai confortabil mod de a descoperi Saint-Malo iarna. De la Intra-Muros la Saint-Servan admirați peisajul fără vântul rece. Acvariul oferă o căldură binevenită. La Rothéneuf experimentați coasta hibernală înainte de a reveni cu autobuzul la Sillon pentru apusul timpuriu.",
-            "en": "The bus is the coziest way to discover Saint-Malo in winter. From Intra-Muros to Saint-Servan, enjoy the view without the cold wind. The Aquarium offers welcome warmth. In Rothéneuf, experience the winter coastline before heading back by bus to Sillon for the early sunset."
+            "en": "The bus is the coziest way to discover Saint-Malo in winter. From Intra-Muros to Saint-Servan, enjoy the view without the cold wind. The Aquarium offers welcome warmth. In Rothéneuf, experience the winter coastline before heading back by bus to Sillon for the early sunset.",
+            "fr": "Le bus est le moyen le plus confortable pour découvrir Saint-Malo en hiver. D'Intra-Muros à Saint-Servan, profitez de la vue sans le vent glacial. L'Aquarium offre une chaleur bienvenue. À Rothéneuf, découvrez le littoral hivernal avant de revenir en bus vers le Sillon pour le coucher de soleil précoce."
           },
           "stops": [
             {
@@ -2884,7 +3154,8 @@
                 "de": "Starten Sie nach einem warmen Frühstück direkt am Busbahnhof 'Gares'.",
                 "hu": "Kezdjen egy meleg reggeli után közvetlenül a 'Gares' buszpályaudvaron.",
                 "ro": "Începeți după un mic dejun cald direct de la autogara 'Gares'.",
-                "en": "Start after a warm breakfast directly at the 'Gares' bus station."
+                "en": "Start after a warm breakfast directly at the 'Gares' bus station.",
+                "fr": "Commencez après un petit-déjeuner chaud directement à la station 'Gares'."
               }
             },
             {
@@ -2893,7 +3164,8 @@
                 "de": "Nutzen Sie den kurzen Fußweg zum Solidor-Turm für frische Luft.",
                 "hu": "Használja a Solidor-toronyhoz vezető rövid sétát friss levegőért.",
                 "ro": "Folosiți plimbarea scurtă spre Turnul Solidor pentru aer curat.",
-                "en": "Use the short walk to the Solidor tower for fresh air."
+                "en": "Use the short walk to the Solidor tower for fresh air.",
+                "fr": "Profitez de la courte marche vers la tour Solidor pour prendre l'air frais."
               }
             },
             {
@@ -2902,7 +3174,8 @@
                 "de": "Im Winter ist der Bus hier oft angenehm leer.",
                 "hu": "Télen a busz itt gyakran kellemesen üres.",
                 "ro": "Iarna autobuzul este adesea plăcut de liber aici.",
-                "en": "In winter, the bus is often pleasantly empty here."
+                "en": "In winter, the bus is often pleasantly empty here.",
+                "fr": "En hiver, le bus est souvent agréablement vide par ici."
               }
             },
             {
@@ -2911,7 +3184,8 @@
                 "de": "Achten Sie auf den letzten Bus vor Einbruch der Dunkelheit.",
                 "hu": "Figyeljen az utolsó buszra a sötétedés beállta előtt.",
                 "ro": "Atenție la ultimul autobuz înainte de lăsarea întunericului.",
-                "en": "Watch out for the last bus before darkness falls."
+                "en": "Watch out for the last bus before darkness falls.",
+                "fr": "Surveillez le passage du dernier bus avant la tombée de la nuit."
               }
             },
             {
@@ -2920,7 +3194,8 @@
                 "de": "Genießen Sie die beleuchtete Stadtmauer aus dem Busfenster.",
                 "hu": "Élvezze a kivilágított városfalat a busz ablakából.",
                 "ro": "Admirați zidurile cetății iluminate din geamul autobuzului.",
-                "en": "Enjoy the illuminated city walls from the bus window."
+                "en": "Enjoy the illuminated city walls from the bus window.",
+                "fr": "Admirez les remparts illuminés depuis la fenêtre du bus."
               }
             }
           ],
@@ -2948,6 +3223,12 @@
               "The bus stops are good places to briefly get out of the wind.",
               "Keep your phone warm (inner pocket) as the battery is important for the ticket.",
               "Take Line 1 for the fastest connection to the train station."
+            ],
+            "fr": [
+              "Les bus circulent selon un horaire légèrement réduit en hiver.",
+              "Les arrêts de bus sont de bons endroits pour se mettre brièvement à l'abri du vent.",
+              "Gardez votre téléphone au chaud (poche intérieure) car la batterie est importante pour le ticket.",
+              "Prenez la ligne 1 pour la liaison la plus rapide vers la gare SNCF."
             ]
           }
         }

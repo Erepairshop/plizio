@@ -36,7 +36,8 @@
             "de": "Der Fischteich im Inneren ist ein magischer Ort.",
             "hu": "A belső halastó varázslatos hely.",
             "ro": "Iazul cu pești din interior este un loc magic.",
-            "en": "The fish pond inside is a magical spot."
+            "en": "The fish pond inside is a magical spot.",
+            "hr": "Ribnjak unutar ljetnikovca je magično mjesto."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Ein versteckter Barockplatz, ideal für Fotos.",
             "hu": "Rejtett barokk tér, fotózáshoz ideális.",
             "ro": "O piață barocă ascunsă, ideală pentru fotografii.",
-            "en": "A hidden Baroque square, ideal for photos."
+            "en": "A hidden Baroque square, ideal for photos.",
+            "hr": "Skriveni barokni trg, idealan za fotografiranje."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Achten Sie auf das römische Relief an der Mauer.",
             "hu": "Figyelje meg a falon lévő római domborművet.",
             "ro": "Observați relieful roman de pe zid.",
-            "en": "Look for the Roman relief on the wall."
+            "en": "Look for the Roman relief on the wall.",
+            "hr": "Potražite rimski reljef na zidu."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Das Museum beherbergt wertvolle griechische Inschriften.",
             "hu": "A múzeum értékes görög feliratokat őriz.",
             "ro": "Muzeul adăpostește inscripții grecești valoroase.",
-            "en": "The museum houses valuable Greek inscriptions."
+            "en": "The museum houses valuable Greek inscriptions.",
+            "hr": "Muzej čuva vrijedne grčke natpise."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Die alte Hauptstraße mit kleinen Handwerksläden.",
             "hu": "A régi főutca kis kézműves boltokkal.",
             "ro": "Vechea stradă principală cu mici ateliere artizanale.",
-            "en": "The old main street with small artisan shops."
+            "en": "The old main street with small artisan shops.",
+            "hr": "Stara glavna ulica s malim obrtničkim radnjama."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Perfekt für einen Spaziergang entlang der Jachten.",
             "hu": "Tökéletes sétához a jachtok mentén.",
             "ro": "Perfect pentru o plimbare pe lângă iahturi.",
-            "en": "Perfect for a stroll along the yachts."
+            "en": "Perfect for a stroll along the yachts.",
+            "hr": "Savršeno za šetnju uz jahte."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Stari Grad, die älteste Stadt Kroatiens, atmet Geschichte. Beginnen Sie am Tvrdalj, der befestigten Residenz des Dichters Petar Hektorović, und entdecken Sie den Skor-Platz. Die barocke St. Stephan Kirche und das Dominikanerkloster zeugen von der antiken und mittelalterlichen Bedeutung der Stadt.\n\nSpazieren Sie durch die Srinjo Kola, die alte Handelsstraße, und beenden Sie den Tag an der Riva, wo Sie das mediterrane Flair und die tiefe Bucht genießen können.",
         "hu": "Stari Grad, Horvátország legrégebbi városa, minden szegletében történelmet sugároz. Kezdje a Tvrdalj-nál, Petar Hektorović költő erődített lakhelyénél, majd fedezze fel a Skor teret. A barokk Szent István templom és a dominikánus kolostor a város ókori és középkori jelentőségéről tanúskodik.\n\nSétáljon végig a Srinjo Kola régi kereskedőutcán, és zárja a napot a Riván, élvezve a mediterrán hangulatot és a mély öböl látványát.",
         "ro": "Stari Grad, cel mai vechi oraș din Croația, respiră istorie. Începeți la Tvrdalj, reședința fortificată a poetului Petar Hektorović, și descoperiți piața Skor. Biserica barocă Sf. Ștefan și mănăstirea dominicană stau mărturie importanței antice și medievale a orașului.\n\nPlimbați-vă pe Srinjo Kola, vechea stradă comercială, și încheiați ziua pe Riva, unde vă puteți bucura de atmosfera mediteraneană și de golful adânc.",
-        "en": "Stari Grad, the oldest town in Croatia, breathes history. Start at Tvrdalj, the fortified residence of poet Petar Hektorović, and discover Skor Square. The Baroque St. Stephen's church and the Dominican monastery testify to the town's ancient and medieval significance.\n\nWalk through Srinjo Kola, the old trade street, and finish your day at the Riva, enjoying the Mediterranean flair and the deep bay."
+        "en": "Stari Grad, the oldest town in Croatia, breathes history. Start at Tvrdalj, the fortified residence of poet Petar Hektorović, and discover Skor Square. The Baroque St. Stephen's church and the Dominican monastery testify to the town's ancient and medieval significance.\n\nWalk through Srinjo Kola, the old trade street, and finish your day at the Riva, enjoying the Mediterranean flair and the deep bay.",
+        "hr": "Stari Grad, najstariji grad u Hrvatskoj, odiše poviješću. Započnite kod Tvrdalja, utvrđene rezidencije pjesnika Petra Hektorovića, i otkrijte trg Škor. Barokna crkva sv. Stjepana i dominikanski samostan svjedoče o antičkoj i srednjovjekovnoj važnosti grada.\n\nProšećite kroz Srinjo kolu, staru trgovačku ulicu, i završite dan na Rivi, uživajući u mediteranskom ugođaju i dubokom zaljevu."
       },
       "gastro_picks": {
         "de": [
@@ -184,6 +191,12 @@
           {
             "name": "Konoba Pineta",
             "tip": "Excellent peka and local wine in a rustic setting."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Pineta",
+            "tip": "Izvrsna peka i lokalno vino u rustikalnom ambijentu."
           }
         ]
       },
@@ -215,6 +228,13 @@
             "tip": "A short climb for the best view over the plain.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Brdo Glavica",
+            "tip": "Kratki uspon za najbolji pogled na Starogradsko polje.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -240,6 +260,12 @@
           {
             "name": "Local Honey & Lavender",
             "tip": "Specialties from the Stari Grad plain."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni med i lavanda",
+            "tip": "Specijaliteti iz Starogradskog polja."
           }
         ]
       },
@@ -267,6 +293,12 @@
           "The Stari Grad Plain is best explored by bicycle.",
           "Park in the large lot at the entrance of the Riva.",
           "Try the famous Starogrojski paprenjok pepper biscuit."
+        ],
+        "hr": [
+          "Posjetite Tvrdalj rano ujutro za najbolje svjetlo.",
+          "Starogradsko polje najbolje je istražiti biciklom.",
+          "Parkirajte na velikom parkiralištu na ulazu u Rivu.",
+          "Probajte poznati starogrojski paprenjok, tradicionalni keks od papra."
         ]
       },
       "variants": {
@@ -275,7 +307,8 @@
             "de": "Morgens suchen Sie Schutz unter den Markisen der Cafés am Škor-Platz. Der Regen verleiht dem Kalkstein einen glänzenden Schimmer.\n\nMittags bieten das Tvrdalj Kastell und das Stadtmuseum trockene Zufluchtsorte mit faszinierenden Einblicken in die Geschichte.\n\nNachmittags erkunden Sie die Kirchen der Altstadt, deren dicke Mauern den prasselnden Regen draußen vergessen lassen.\n\nAbends genießen Sie lokale Spezialitäten in einer gemütlichen Konoba am Hafen, während der Regen auf das Meer fällt.",
             "hu": "Reggel a Škor tér kávézóinak védelme alatt kezdünk, figyelve, ahogy az eső elmossa a kövek porát. \n\nDélben a Tvrdalj Kastély árkádjai és a Városi Múzeum belső terei nyújtanak tökéletes menedéket a záporok elől.\n\nDélután a Szent István és Szent Rókus templomok csendjében fedezzük fel a város szakrális kincseit.\n\nEste egy kikötő menti étterem melegében pihenünk meg, hallgatva az eső kopogását a régi tetőkön.",
             "ro": "Dimineața începe sub copertinele cafenelelor din Piața Škor, admirând cum ploaia curăță străzile vechi de piatră.\n\nLa prânz, Castelul Tvrdalj și Muzeul din Stari Grad oferă adăpost perfect și o incursiune în istoria locală.\n\nDupă-amiaza este dedicată vizitării bisericilor din oraș, unde interiorul liniștit contrastează cu vremea de afară.\n\nSeara se încheie într-o tavernă primitoare de lângă port, savurând un vin local în timp ce plouă liniștit.",
-            "en": "Morning starts under the awnings of Škor square cafes, watching the rain refresh the ancient stone pavements.\n\nMidday, the Tvrdalj Castle and the Stari Grad Museum provide dry havens filled with historical wonders.\n\nAfternoon is ideal for exploring the town's churches, where thick walls keep the rain and wind at bay.\n\nEvening concludes with a warm meal in a cozy konoba near the harbor, as the rain dances on the Adriatic surface."
+            "en": "Morning starts under the awnings of Škor square cafes, watching the rain refresh the ancient stone pavements.\n\nMidday, the Tvrdalj Castle and the Stari Grad Museum provide dry havens filled with historical wonders.\n\nAfternoon is ideal for exploring the town's churches, where thick walls keep the rain and wind at bay.\n\nEvening concludes with a warm meal in a cozy konoba near the harbor, as the rain dances on the Adriatic surface.",
+            "hr": "Jutro počinje pod tendama kafića na trgu Škor, gledajući kako kiša osvježava drevni kameni pločnik.\n\nSredinom dana, dvorac Tvrdalj i Muzej Staroga Grada pružaju suho utočište puno povijesnih čuda.\n\nPoslijepodne je idealno za istraživanje gradskih crkava, gdje debeli zidovi štite od kiše i vjetra.\n\nVečer završava uz topli obrok u ugodnoj konobi blizu luke, dok kiša pleše po površini Jadrana."
           },
           "stops": [
             {
@@ -284,7 +317,8 @@
                 "de": "Wählen Sie ein Café mit großer Markise, um trocken zu bleiben.",
                 "hu": "Válassz egy nagy előtetővel rendelkező kávézót a téren.",
                 "ro": "Alege o cafenea cu o copertină mare pentru a rămâne uscat.",
-                "en": "Choose a cafe with a large awning to stay dry while people-watching."
+                "en": "Choose a cafe with a large awning to stay dry while people-watching.",
+                "hr": "Odaberite kafić s velikom tendom kako biste ostali suhi dok promatrate prolaznike."
               }
             },
             {
@@ -293,7 +327,8 @@
                 "de": "Die Arkaden bieten guten Schutz; achten Sie auf glatte Steine im Hof.",
                 "hu": "Az árkádok jó védelmet nyújtanak; vigyázz a csúszós kövekre az udvaron.",
                 "ro": "Arcadele oferă adăpost bun; atenție la pietrele alunecoase din curte.",
-                "en": "The arcades offer good shelter; watch out for slippery stones in the courtyard."
+                "en": "The arcades offer good shelter; watch out for slippery stones in the courtyard.",
+                "hr": "Arkade nude dobar zaklon; pripazite na klizav kamen u dvorištu."
               }
             },
             {
@@ -302,7 +337,8 @@
                 "de": "Idealer Ort, um einen starken Regenschauer drinnen abzuwarten.",
                 "hu": "Tökéletes helyszín egy nagyobb zápor átvészelésére a beltérben.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale în interior.",
-                "en": "Perfect spot to wait out a heavy rain shower indoors."
+                "en": "Perfect spot to wait out a heavy rain shower indoors.",
+                "hr": "Savršeno mjesto za čekanje da prođe jak pljusak u zatvorenom."
               }
             },
             {
@@ -311,7 +347,8 @@
                 "de": "Besuchen Sie das Museum im Inneren, um trocken zu bleiben.",
                 "hu": "Látogasd meg a belső múzeumot, hogy szárazon maradj.",
                 "ro": "Vizitează muzeul din interior pentru a rămâne la adăpost.",
-                "en": "Visit the interior museum to stay dry and see the Tintoretto painting."
+                "en": "Visit the interior museum to stay dry and see the Tintoretto painting.",
+                "hr": "Posjetite unutrašnjost muzeja kako biste ostali suhi i vidjeli Tintorettovu sliku."
               }
             },
             {
@@ -320,7 +357,8 @@
                 "de": "Der Vorplatz kann bei Regen sehr rutschig sein; vorsichtig gehen.",
                 "hu": "A templom előtti tér esőben nagyon csúszós lehet; óvatosan járj.",
                 "ro": "Piața din fața bisericii poate fi foarte alunecoasă pe ploaie.",
-                "en": "The square in front of the church can be very slippery when wet."
+                "en": "The square in front of the church can be very slippery when wet.",
+                "hr": "Trg ispred crkve može biti vrlo klizav kad je mokar."
               }
             },
             {
@@ -329,7 +367,8 @@
                 "de": "Kleiner, überdachter Eingang bietet kurzen Schutz vor Nieselregen.",
                 "hu": "A kis fedett bejárat rövid védelmet nyújt a szitáló eső ellen.",
                 "ro": "Intrarea mică și acoperită oferă un scurt adăpost împotriva burniței.",
-                "en": "The small covered entrance offers brief protection from drizzle."
+                "en": "The small covered entrance offers brief protection from drizzle.",
+                "hr": "Mali natkriveni ulaz nudi kratku zaštitu od sitne kiše."
               }
             },
             {
@@ -338,7 +377,8 @@
                 "de": "Vermeiden Sie unbefestigte Wege; bei Regen wird die Erde sehr schlammig.",
                 "hu": "Kerüld a földutakat; esőben a talaj rendkívül sárossá válik.",
                 "ro": "Evită drumurile neasfaltate; pământul devine foarte noroios la ploaie.",
-                "en": "Avoid unpaved paths; the red soil becomes very muddy during rain."
+                "en": "Avoid unpaved paths; the red soil becomes very muddy during rain.",
+                "hr": "Izbjegavajte neasfaltirane staze; crvena zemlja postaje vrlo blatnjava tijekom kiše."
               }
             }
           ],
@@ -370,6 +410,13 @@
               "The Town Museum is the best place for a longer rain-induced break.",
               "Watch out for deep puddles in the lower-lying narrow alleys of the old town.",
               "A compact umbrella is more practical in narrow streets than a large walking umbrella."
+            ],
+            "hr": [
+              "Nosite obuću s dobrim prianjanjem; vapnenac u starom gradu postaje izrazito klizav.",
+              "Iskoristite stanke u kiši za fotografiranje kada su boje kamena najživlje.",
+              "Gradski muzej najbolje je mjesto za dužu stanku zbog kiše.",
+              "Pazite na duboke lokve u nižim dijelovima uskih ulica starog grada.",
+              "Kompaktni kišobran praktičniji je u uskim ulicama od velikog kišobrana za hodanje."
             ]
           }
         },
@@ -378,7 +425,8 @@
             "de": "Morgens weht oft eine frische Bora-Brise über den Škor-Platz. Die klare Winterluft macht die Farben der Adria besonders blau.\n\nMittags wärmt die tiefstehende Sonne die Mauern des Tvrdalj Kastells, während das Museum eine angenehme Ruhe ausstrahlt.\n\nNachmittags wandern Sie durch die antike Ebene, wo die kahlen Weinstöcke eine melancholische Schönheit besitzen.\n\nAbends kehrt früh Stille in die Gassen ein. Die Lichter des Hafens spiegeln sich im kalten, ruhigen Wasser wider.",
             "hu": "Reggel friss bóra szél fújhat át a Škor téren, tisztára mosva az eget és a kilátást a tengerre.\n\nDélben a laposan járó nap melengeti a Tvrdalj Kastély falait, a Múzeumban pedig tömeg nélkül böngészhetünk.\n\nDélután az ősi mezőn sétálva csodáljuk meg a téli pihenőt tartó szőlőtőkéket és olajfákat.\n\nEste korán leszáll a csend a városra, a kikötő fényei megcsillannak a hideg, tükörsima vízen.",
             "ro": "Dimineața, briza rece a vântului Bura traversează Piața Škor, oferind o vizibilitate excepțională asupra mării.\n\nLa prânz, soarele blând de iarnă încălzește zidurile Castelului Tvrdalj, iar muzeul este o oază de liniște.\n\nDupă-amiaza, o plimbare prin câmpia antică dezvăluie frumusețea austeră a viilor în repaus vegetativ.\n\nSeara, liniștea se așterne rapid peste străduțe, iar luminile portului se oglindesc în apa rece și calmă.",
-            "en": "Morning often brings a crisp Bora breeze to Škor square, making the Adriatic colors exceptionally vivid.\n\nMidday, the low winter sun warms the ancient walls of Tvrdalj Castle, while the museum offers a peaceful retreat.\n\nAfternoon is perfect for a walk through the Plain, where dormant vineyards showcase a quiet, rustic beauty.\n\nEvening settles in early; the harbor lights reflect on the cold, still water as the town enjoys its off-season calm."
+            "en": "Morning often brings a crisp Bora breeze to Škor square, making the Adriatic colors exceptionally vivid.\n\nMidday, the low winter sun warms the ancient walls of Tvrdalj Castle, while the museum offers a peaceful retreat.\n\nAfternoon is perfect for a walk through the Plain, where dormant vineyards showcase a quiet, rustic beauty.\n\nEvening settles in early; the harbor lights reflect on the cold, still water as the town enjoys its off-season calm.",
+            "hr": "Jutro često donosi svježi povjetarac bure na trg Škor, čineći boje Jadrana izuzetno živopisnima.\n\nSredinom dana, nisko zimsko sunce grije drevne zidine dvorca Tvrdalj, dok muzej nudi mirno utočište.\n\nPoslijepodne je savršeno za šetnju poljem, gdje uspavani vinogradi pokazuju tihu, rustikalnu ljepotu.\n\nVečer se rano spušta; svjetla luke zrcale se na hladnoj, mirnoj vodi dok grad uživa u miru izvan sezone."
           },
           "stops": [
             {
@@ -387,7 +435,8 @@
                 "de": "Genießen Sie einen Kaffee in der Sonne; im Schatten kann es kühl sein.",
                 "hu": "Igyál meg egy kávét a napon; az árnyékban ilyenkor már hűvös van.",
                 "ro": "Savurează o cafea la soare; la umbră poate fi destul de răcoare.",
-                "en": "Enjoy a coffee in the sun; it can be quite chilly in the shadows."
+                "en": "Enjoy a coffee in the sun; it can be quite chilly in the shadows.",
+                "hr": "Uživajte u kavi na suncu; u sjeni može biti prilično hladno."
               }
             },
             {
@@ -396,7 +445,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten; oft nur vormittags geöffnet.",
                 "hu": "Ellenőrizd a téli nyitvatartást; gyakran csak délelőtt látogatható.",
                 "ro": "Verifică programul de iarnă; adesea este deschis doar dimineața.",
-                "en": "Check winter opening hours; often only open in the mornings during off-season."
+                "en": "Check winter opening hours; often only open in the mornings during off-season.",
+                "hr": "Provjerite zimsko radno vrijeme; izvan sezone su često otvoreni samo ujutro."
               }
             },
             {
@@ -405,7 +455,8 @@
                 "de": "Ein warmer Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
                 "hu": "Kellemes, meleg hely, ahol felmelegedhetsz a városi séták között.",
                 "ro": "Un loc călduros unde te poți încălzi între plimbările prin oraș.",
-                "en": "A warm indoor spot to take a break from the winter breeze."
+                "en": "A warm indoor spot to take a break from the winter breeze.",
+                "hr": "Toplo mjesto u zatvorenom za predah od zimskog povjetarca."
               }
             },
             {
@@ -414,7 +465,8 @@
                 "de": "Die Gärten sind im Winter kahl, aber die Klosterruhe ist noch intensiver.",
                 "hu": "A kertek télen kopárak, de a kolostori csend ilyenkor a legmélyebb.",
                 "ro": "Grădinile sunt golașe iarna, dar liniștea mănăstirii este și mai intensă.",
-                "en": "The gardens are dormant in winter, but the monastic silence is profound."
+                "en": "The gardens are dormant in winter, but the monastic silence is profound.",
+                "hr": "Vrtovi miruju zimi, ali samostanska tišina je duboka."
               }
             },
             {
@@ -423,7 +475,8 @@
                 "de": "Besuchen Sie die Gottesdienste, um das lokale Leben im Winter zu sehen.",
                 "hu": "Látogass el egy misére, hogy beleláss a helyiek téli életébe.",
                 "ro": "Participă la o slujbă pentru a vedea viața locală autentică de iarnă.",
-                "en": "Attend a service to witness authentic local life during the winter months."
+                "en": "Attend a service to witness authentic local life during the winter months.",
+                "hr": "Prisustvujte misi kako biste doživjeli autentičan lokalni život tijekom zimskih mjeseci."
               }
             },
             {
@@ -432,7 +485,8 @@
                 "de": "Oft geschlossen im Winter; bewundern Sie die Fassade im Winterlicht.",
                 "hu": "Télen gyakran zárva; csodáld meg a homlokzatot a tiszta téli fényben.",
                 "ro": "Adesea închisă iarna; admiră fațada în lumina clară a sezonului.",
-                "en": "Often closed in winter; admire the facade in the sharp winter light."
+                "en": "Often closed in winter; admire the facade in the sharp winter light.",
+                "hr": "Često zatvoreno zimi; divite se pročelju na oštrom zimskom svjetlu."
               }
             },
             {
@@ -441,7 +495,8 @@
                 "de": "Ideale Zeit für Wanderungen ohne Hitze; warme Kleidung gegen Wind nötig.",
                 "hu": "Ideális idő túrázásra hőség nélkül; szélálló ruha kötelező.",
                 "ro": "Moment ideal pentru drumeții fără căldură; haine groase necesare.",
-                "en": "Ideal time for hiking without the heat; windproof clothing is essential."
+                "en": "Ideal time for hiking without the heat; windproof clothing is essential.",
+                "hr": "Idealno vrijeme za planinarenje bez vrućine; odjeća otporna na vjetar je neophodna."
               }
             }
           ],
@@ -473,6 +528,13 @@
               "Many tourist restaurants are closed; look for spots where locals eat.",
               "Be prepared for the Bora wind; it can be very cold and gusty.",
               "Ferries run less frequently; double-check the winter schedule before traveling."
+            ],
+            "hr": [
+              "Odjenite se slojevito; toplo je na suncu, ali hladnoća se odmah osjeti u hladu.",
+              "Zalazak sunca je zimi oko 16:30; planirajte šetnju poljem rano.",
+              "Mnogi turistički restorani su zatvoreni; tražite mjesta gdje jedu mještani.",
+              "Budite spremni na buru; može biti vrlo hladna i na udare.",
+              "Trajekti plove rjeđe; provjerite zimski red vožnje prije putovanja."
             ]
           }
         }

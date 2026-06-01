@@ -31,7 +31,8 @@
             "de": "Genießen Sie den Blick auf die Jachten bei einem ersten Kaffee.",
             "hu": "Élvezze a jachtok látványát egy reggeli kávé mellett a parton.",
             "ro": "Savurați prima cafea admirând iahturile din port.",
-            "en": "Enjoy the view of the yachts with your morning coffee by the sea."
+            "en": "Enjoy the view of the yachts with your morning coffee by the sea.",
+            "hr": "Uživajte u pogledu na jahte uz jutarnju kavu uz more."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein moderner Jachthafen mit exklusiver Atmosphäre.",
             "hu": "Modern kikötő exkluzív hangulattal és szép hajókkal.",
             "ro": "O marină modernă cu o atmosferă exclusivistă.",
-            "en": "A modern marina with an exclusive Mediterranean atmosphere."
+            "en": "A modern marina with an exclusive Mediterranean atmosphere.",
+            "hr": "Moderna marina s ekskluzivnom mediteranskom atmosferom."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Besuchen Sie die Gärten dieses barocken Sommerhauses.",
             "hu": "Látogasson el a barokk nyaraló gondozott kertjeibe.",
             "ro": "Vizitați grădinile acestui conac baroc de vară.",
-            "en": "Visit the gardens of this historic baroque summer mansion."
+            "en": "Visit the gardens of this historic baroque summer mansion.",
+            "hr": "Posjetite vrtove ovog povijesnog baroknog ljetnikovca."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie frischen Fisch oder das lokale Soparnik.",
             "hu": "Kóstoljon friss halat vagy a helyi Soparnik lepényt.",
             "ro": "Încercați peștele proaspăt sau plăcinta locală Soparnik.",
-            "en": "Try fresh grilled fish or the local Soparnik savory pie."
+            "en": "Try fresh grilled fish or the local Soparnik savory pie.",
+            "hr": "Probajte svježu pečenu ribu ili lokalni soparnik."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Eine friedliche Kirche mit historischer Bedeutung für die Region.",
             "hu": "Békés templom, amely fontos történelmi emlékhely.",
             "ro": "O biserică liniștită cu semnificație istorică pentru regiune.",
-            "en": "A peaceful church with historical significance for the local area."
+            "en": "A peaceful church with historical significance for the local area.",
+            "hr": "Mirna crkva s povijesnim značajem za lokalno područje."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Kristallklares Wasser, ideal zum Schwimmen und Entspannen.",
             "hu": "Kristálytiszta víz, ideális úszáshoz és pihenéshez.",
             "ro": "Apă cristalină, ideală pentru înot și relaxare.",
-            "en": "Crystal clear water, perfect for swimming and relaxation."
+            "en": "Crystal clear water, perfect for swimming and relaxation.",
+            "hr": "Kristalno čisto more, savršeno za kupanje i opuštanje."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Der perfekte Abschluss des Tages mit Blick auf Brač.",
             "hu": "A nap tökéletes zárása kilátással Brač szigetére.",
             "ro": "Finalul perfect al zilei cu vedere spre insula Brač.",
-            "en": "The perfect end to the day with a view towards Brač island."
+            "en": "The perfect end to the day with a view towards Brač island.",
+            "hr": "Savršen kraj dana s pogledom prema otoku Braču."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Grljevac bietet eine perfekte Mischung aus Eleganz und Entspannung. Beginnen Sie Ihren Tag im schicken Jachthafen Marina Lav und tauchen Sie im Ljetnikovac Cindro in die Geschichte ein. Nach einem authentischen dalmatinischen Mittagessen führt Sie ein Spaziergang zur historischen St.-Martins-Kirche, bevor Sie den Nachmittag am weitläufigen Kiesstrand von Grljevac ausklingen lassen.",
         "hu": "Grljevac az elegancia és a pihenés tökéletes egyvelegét kínálja. Kezdje a napot a stílusos Marina Lav kikötőben, majd merüljön el a történelemben a Cindro-nyaralónál. Egy autentikus dalmát ebéd után sétáljon el a Szent Márton-templomhoz, végül töltse a délutánt a Grljevac kavicsos strandján, élvezve az Adriai-tenger nyugalmát.",
         "ro": "Grljevac oferă un amestec perfect de eleganță și relaxare. Începeți ziua în marina stilată Marina Lav, apoi descoperiți istoria la conacul Cindro. După un prânz autentic dalmațian, o plimbare vă va duce la biserica istorică Sf. Martin, înainte de a vă bucura de după-amiaza pe plaja cu pietriș Grljevac, admirând marea.",
-        "en": "Grljevac offers a perfect blend of coastal elegance and relaxation. Start your day at the stylish Marina Lav, then dive into local history at the Cindro Mansion. After an authentic Dalmatian lunch, take a stroll to the historic Church of St. Martin, before spending the afternoon on the pebbled shores of Grljevac Beach."
+        "en": "Grljevac offers a perfect blend of coastal elegance and relaxation. Start your day at the stylish Marina Lav, then dive into local history at the Cindro Mansion. After an authentic Dalmatian lunch, take a stroll to the historic Church of St. Martin, before spending the afternoon on the pebbled shores of Grljevac Beach.",
+        "hr": "Grljevac nudi savršen spoj obalne elegancije i opuštanja. Započnite dan u elegantnoj Marini Lav, a zatim uronite u lokalnu povijest kod ljetnikovca Cindro. Nakon autentičnog dalmatinskog ručka, prošećite do povijesne crkve sv. Martina, prije nego što popodne provedete na šljunčanim obalama plaže Grljevac."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Soparnik",
             "tip": "A traditional chard-filled savory pie from the Poljica region."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Probajte poznati dalmatinski crni rižot."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "Tradicionalna slana pita punjena blitvom iz poljičkog kraja."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "A quieter stretch of beach south of the main center.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vrt ljetnikovca Cindro",
+            "tip": "Sjenovito utočište u povijesnom okruženju.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Obala sv. Martina",
+            "tip": "Mirniji dio plaže južno od glavnog središta.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -281,6 +311,16 @@
             "name": "Lavender Sachets",
             "tip": "A fragrant souvenir from the Dalmatian coast."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno maslinovo ulje",
+            "tip": "Kupite izravno od proizvođača u Podstrani."
+          },
+          {
+            "name": "Vrećice lavande",
+            "tip": "Mirisni suvenir s dalmatinske obale."
+          }
         ]
       },
       "tips": {
@@ -307,6 +347,12 @@
           "Water shoes are recommended due to the pebbled beach.",
           "Bus line 60 stops regularly connect Grljevac with Split and Omiš.",
           "Table reservations are advised for seaside konobas during peak season."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za šetnju obalnom promenadom.",
+          "Preporučuje se obuća za vodu zbog šljunčane plaže.",
+          "Autobusna linija 60 redovito povezuje Grljevac sa Splitom i Omišem.",
+          "Preporučuje se rezervacija stola u obalnim konobama tijekom špice sezone."
         ]
       },
       "variants": {
@@ -315,7 +361,8 @@
             "de": "Genießen Sie Ihren Morgenkaffee unter der schützenden Markise an der Riva, während der Regen auf die Adria peitscht. Ein kurzer Spaziergang mit dem Schirm führt Sie zur eleganten Marina Lav und zum historischen Cindro-Sommerhaus. Mittags wärmen Sie sich bei einer herzhaften Suppe in einer lokalen Konoba auf. Am Nachmittag bietet die St. Martinskirche einen besinnlichen Rückzugsort, gefolgt von einem dramatischen Blick auf das stürmische Meer am Strand von Grljevac. Der Tag endet mit einem kurzen, erfrischenden Spaziergang auf dem glänzenden Asphalt der Promenade.",
             "hu": "Kezdje a reggelt egy forró kávéval a Riva fedett teraszán, hallgatva az eső kopogását a tengeren. Az esernyős séta a Marina Lav kikötőjéhez és a Cindro-nyaralóhoz különleges, melankolikus hangulatot áraszt. Az ebédet töltse egy barátságos konobában, ahol a helyi ételek átmelegítik. Délután a Szent Márton-templom nyújt menedéket, majd nézze meg a viharos hullámokat a Grljevac strandon. Az este egy rövid sétával zárul a vizesen csillogó parton, ahol a tenger illata ilyenkor a legintenzívebb.",
             "ro": "Savurați cafeaua de dimineață sub copertina de pe Riva, ascultând ploaia care cade peste Adriatică. O plimbare scurtă cu umbrela vă duce la eleganta Marina Lav și la casa de vară istorică Cindro. La prânz, încălziți-vă cu o supă consistentă într-o konoba locală. După-amiaza, Biserica Sf. Martin oferă un refugiu liniștit, urmat de o priveliște dramatică a mării înfuriate de pe plaja Grljevac. Ziua se încheie cu o plimbare scurtă pe asfaltul strălucitor al promenadei, profitând de aerul curat de după ploaie.",
-            "en": "Enjoy your morning coffee under a protective awning at the Riva while the rain dances on the Adriatic. A short walk with an umbrella leads you to the elegant Marina Lav and the historic Cindro summer house. At lunch, warm up with a hearty meal in a local konoba. In the afternoon, St. Martin's Church provides a peaceful sanctuary, followed by a dramatic view of the stormy sea at Grljevac beach. The day ends with a brief, refreshing walk on the glistening promenade, where the sea air is at its freshest."
+            "en": "Enjoy your morning coffee under a protective awning at the Riva while the rain dances on the Adriatic. A short walk with an umbrella leads you to the elegant Marina Lav and the historic Cindro summer house. At lunch, warm up with a hearty meal in a local konoba. In the afternoon, St. Martin's Church provides a peaceful sanctuary, followed by a dramatic view of the stormy sea at Grljevac beach. The day ends with a brief, refreshing walk on the glistening promenade, where the sea air is at its freshest.",
+            "hr": "Uživajte u jutarnjoj kavi pod natkrivenom terasom na rivi dok kiša pleše po Jadranu. Kratka šetnja s kišobranom vodi vas do elegantne Marine Lav i povijesnog ljetnikovca Cindro. Za ručak se ugrijte uz krepko jelo u lokalnoj konobi. Poslijepodne crkva sv. Martina pruža mirno utočište, nakon čega slijedi dramatičan pogled na olujno more na plaži Grljevac. Dan završava kratkom, osvježavajućom šetnjom po blistavoj promenadi, gdje je morski zrak najsvježiji."
           },
           "stops": [
             {
@@ -331,7 +378,8 @@
                 "de": "Wählen Sie einen Tisch unter der festen Markise oder im beheizten Innenraum.",
                 "hu": "Válasszon asztalt a fix előtető alatt vagy a fűtött belső térben.",
                 "ro": "Alegeți o masă sub copertina fixă sau în interiorul încălzit.",
-                "en": "Pick a table under the permanent awning or in the heated indoor area."
+                "en": "Pick a table under the permanent awning or in the heated indoor area.",
+                "hr": "Odaberite stol ispod fiksnog natkrova ili u grijanom unutarnjem prostoru."
               }
             },
             {
@@ -347,7 +395,8 @@
                 "de": "Beobachten Sie das Einlaufen der Yachten aus der Lobby des nahen Hotels.",
                 "hu": "Nézze a jachtok érkezését a közeli hotel előteréből.",
                 "ro": "Urmăriți iahturile care intră în port din holul hotelului din apropiere.",
-                "en": "Watch the yachts coming in from the nearby hotel lobby."
+                "en": "Watch the yachts coming in from the nearby hotel lobby.",
+                "hr": "Promatrajte jahte koje dolaze iz lobija obližnjeg hotela."
               }
             },
             {
@@ -363,7 +412,8 @@
                 "de": "Die Steinmauern bieten Schutz vor Wind; Vorsicht auf rutschigen Gartenwegen.",
                 "hu": "A kőfalak védenek a széltől; vigyázzon a csúszós kerti utakon.",
                 "ro": "Zidurile de piatră oferă adăpost împotriva vântului; atenție la potecile alunecoase.",
-                "en": "The stone walls offer wind protection; be careful on slippery garden paths."
+                "en": "The stone walls offer wind protection; be careful on slippery garden paths.",
+                "hr": "Kameni zidovi nude zaštitu od vjetra; budite oprezni na skliskim vrtnim stazama."
               }
             },
             {
@@ -379,7 +429,8 @@
                 "de": "Ideal zum Trocknen der Kleidung am Kamin, während Sie lokale Spezialitäten genießen.",
                 "hu": "Ideális hely a ruhák szárítására a kandallónál a helyi specialitások mellett.",
                 "ro": "Ideal pentru uscarea hainelor lângă șemineu în timp ce savurați specialități locale.",
-                "en": "Ideal for drying off by the fireplace while enjoying local specialties."
+                "en": "Ideal for drying off by the fireplace while enjoying local specialties.",
+                "hr": "Idealno za sušenje uz ognjište dok uživate u lokalnim specijalitetima."
               }
             },
             {
@@ -395,7 +446,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich, um den Regen abzuwarten.",
                 "hu": "Használja a fedett bejárati részt az eső kivárására.",
                 "ro": "Folosiți zona de intrare acoperită pentru a aștepta trecerea ploii.",
-                "en": "Use the covered entrance area to wait out a heavy downpour."
+                "en": "Use the covered entrance area to wait out a heavy downpour.",
+                "hr": "Iskoristite natkriveni ulazni prostor kako biste pričekali da prođe jak pljusak."
               }
             },
             {
@@ -411,7 +463,8 @@
                 "de": "Die geschlossenen Strandcafés bieten oft kleine überdachte Terrassen für Meeresblicke.",
                 "hu": "A zárt strandbüfék gyakran kínálnak kis fedett teraszokat a kilátáshoz.",
                 "ro": "Cafenelele închise de pe plajă oferă adesea mici terase acoperite pentru vedere la mare.",
-                "en": "Closed beach bars often have small covered terraces perfect for wave watching."
+                "en": "Closed beach bars often have small covered terraces perfect for wave watching.",
+                "hr": "Zatvoreni barovi na plaži često imaju male natkrivene terase savršene za promatranje valova."
               }
             },
             {
@@ -427,7 +480,8 @@
                 "de": "Suchen Sie nach Regenbögen über den Inseln, wenn die Wolken aufreißen.",
                 "hu": "Keressen szivárványokat a szigetek felett, ha felszakadozik a felhőzet.",
                 "ro": "Căutați curcubee deasupra insulelor dacă norii încep să se risipească.",
-                "en": "Look for rainbows over the islands if the clouds begin to break."
+                "en": "Look for rainbows over the islands if the clouds begin to break.",
+                "hr": "Potražite dugu nad otocima ako se oblaci počnu razilaziti."
               }
             }
           ],
@@ -455,6 +509,12 @@
               "A sturdy windproof umbrella is essential due to strong gusts common by the sea.",
               "Use local konobas as strategic warming stations between walking segments.",
               "Watch out for puddles and splashing cars on the main road above the beach."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću jer obalne staze mogu postati vrlo skliske kad su mokre.",
+              "Čvrst kišobran otporan na vjetar je neophodan zbog jakih udara uobičajenih uz more.",
+              "Koristite lokalne konobe kao strateške postaje za grijanje između dijelova šetnje.",
+              "Pazite na lokve i prskanje automobila na glavnoj cesti iznad plaže."
             ]
           }
         },
@@ -463,7 +523,8 @@
             "de": "Ein klarer Wintermorgen in Grljevac beginnt mit einem Kaffee in der sanften Dezembersonne. Die Marina Lav wirkt in der Nebensaison friedlich und weitläufig. Besuchen Sie das Cindro-Sommerhaus ohne die Sommerhitze und genießen Sie ein langes, gemütliches Mittagessen mit regionalen Wintergerichten. Der Nachmittag führt zur einsamen St. Martinskirche, bevor Sie den frühen Sonnenuntergang am Strand von Grljevac erleben. Da es um 17 Uhr dunkel wird, endet der Tag mit einem kurzen, belebenden Strandspaziergang in der blauen Stunde.",
             "hu": "A tiszta téli reggel Grljevacban egy kávéval indul a lágy decemberi napsütésben. A Marina Lav ilyenkor békés és tágas, tömeg nélkül. Látogassa meg a Cindro-nyaralót a nyári hőség nélkül, majd élvezze a hosszú, kényelmes ebédet a helyi téli specialitásokkal. A délután az elhagyatott Szent Márton-templomhoz vezet, mielőtt átélné a korai naplementét a parton. Mivel 17 órakor sötétedik, a napot egy rövid, frissítő tengerparti séta zárja a kék órában.",
             "ro": "O dimineață senină de iarnă în Grljevac începe cu o cafea sub soarele blând de decembrie. Marina Lav este liniștită și spațioasă în extrasezon. Vizitați casa de vară Cindro fără căldura verii și bucurați-vă de un prânz lung și confortabil cu preparate locale de iarnă. După-amiaza vă duce la biserica solitară Sf. Martin, înainte de a vedea apusul timpuriu pe plajă. Deoarece se întunecă la ora 17, ziua se încheie cu o plimbare scurtă și revigorantă pe malul mării în ora albastră.",
-            "en": "A crisp winter morning in Grljevac begins with coffee in the gentle December sun. Marina Lav feels peaceful and spacious without the crowds. Visit the Cindro summer house without the summer heat and enjoy a long, cozy lunch featuring local winter specialties. The afternoon leads to the solitary St. Martin's Church before you catch the early sunset at Grljevac beach. Since it gets dark by 5 PM, the day ends with a short, bracing seaside walk during the blue hour."
+            "en": "A crisp winter morning in Grljevac begins with coffee in the gentle December sun. Marina Lav feels peaceful and spacious without the crowds. Visit the Cindro summer house without the summer heat and enjoy a long, cozy lunch featuring local winter specialties. The afternoon leads to the solitary St. Martin's Church before you catch the early sunset at Grljevac beach. Since it gets dark by 5 PM, the day ends with a short, bracing seaside walk during the blue hour.",
+            "hr": "Oštro zimsko jutro u Grljevcu počinje kavom na blagom prosinačkom suncu. Marina Lav djeluje mirno i prostrano bez gužve. Posjetite ljetnikovac Cindro bez ljetne vrućine i uživajte u dugom, ugodnom ručku uz lokalne zimske specijalitete. Poslijepodne vodi do osamljene crkve sv. Martina prije nego što uhvatite rani zalazak sunca na plaži Grljevac. Budući da mrak pada već oko 17 sati, dan završava kratkom, okrepljujućom šetnjom uz more tijekom 'plavog sata'."
           },
           "stops": [
             {
@@ -479,7 +540,8 @@
                 "de": "Suchen Sie einen Sonnenplatz im Freien; die Wintersonne ist oft überraschend warm.",
                 "hu": "Keressen egy napsütötte helyet kint; a téli nap gyakran meglepően meleg.",
                 "ro": "Căutați un loc însorit afară; soarele de iarnă este adesea surprinzător de cald.",
-                "en": "Look for a sunny spot outside; the winter sun is often surprisingly warm."
+                "en": "Look for a sunny spot outside; the winter sun is often surprisingly warm.",
+                "hr": "Potražite sunčano mjesto vani; zimsko sunce je često iznenađujuće toplo."
               }
             },
             {
@@ -495,7 +557,8 @@
                 "de": "Ideal für Fotos von den Alpen-Ausläufern im Norden, die im Winter oft klar sichtbar sind.",
                 "hu": "Ideális fotózni az északi hegyeket, amelyek télen gyakran kristálytisztán látszanak.",
                 "ro": "Ideal pentru fotografii cu munții din nord, care sunt adesea clar vizibili iarna.",
-                "en": "Great for photos of the mountains to the north, which are often crystal clear in winter."
+                "en": "Great for photos of the mountains to the north, which are often crystal clear in winter.",
+                "hr": "Izvrsno za fotografije planina na sjeveru, koje su zimi često kristalno jasne."
               }
             },
             {
@@ -511,7 +574,8 @@
                 "de": "Genießen Sie die Stille des Gartens ohne die Touristenmassen des Sommers.",
                 "hu": "Élvezze a kert csendjét a nyári turistaáradat nélkül.",
                 "ro": "Bucurați-vă de liniștea grădinii fără mulțimile de turiști din timpul verii.",
-                "en": "Enjoy the silence of the garden without the summer tourist crowds."
+                "en": "Enjoy the silence of the garden without the summer tourist crowds.",
+                "hr": "Uživajte u tišini vrta bez ljetnih turističkih gužvi."
               }
             },
             {
@@ -527,7 +591,8 @@
                 "de": "Probieren Sie Peka oder Pašticada – schwere Gerichte, die perfekt für den Winter sind.",
                 "hu": "Kóstolja meg a pekát vagy a pašticadát – laktató ételek, melyek télen a legjobbak.",
                 "ro": "Încercați peka sau pašticada – mâncăruri consistente care sunt cele mai bune iarna.",
-                "en": "Try peka or pašticada – hearty dishes that are perfect for winter weather."
+                "en": "Try peka or pašticada – hearty dishes that are perfect for winter weather.",
+                "hr": "Probajte peku ili pašticadu – krepka jela savršena za zimsko vrijeme."
               }
             },
             {
@@ -543,7 +608,8 @@
                 "de": "Das Licht am frühen Nachmittag betont die mittelalterliche Architektur wunderschön.",
                 "hu": "A kora délutáni fények gyönyörűen kiemelik a középkori építészetet.",
                 "ro": "Lumina de după-amiază devreme scoate în evidență frumos arhitectura medievală.",
-                "en": "Early afternoon light highlights the medieval architecture beautifully."
+                "en": "Early afternoon light highlights the medieval architecture beautifully.",
+                "hr": "Rano poslijepodnevno svjetlo prekrasno naglašava srednjovjekovnu arhitekturu."
               }
             },
             {
@@ -559,7 +625,8 @@
                 "de": "Der Strand ist fast leer; perfekt für einen meditativen Blick auf die Insel Brač.",
                 "hu": "A strand szinte üres; tökéletes egy meditatív kilátáshoz Brač szigete felé.",
                 "ro": "Plaja este aproape goală; perfectă pentru o vedere meditativă spre insula Brač.",
-                "en": "The beach is nearly empty; perfect for a meditative view across to Brač island."
+                "en": "The beach is nearly empty; perfect for a meditative view across to Brač island.",
+                "hr": "Plaža je gotovo prazna; savršeno za meditativni pogled prema otoku Braču."
               }
             },
             {
@@ -575,7 +642,8 @@
                 "de": "Die Sonne geht bereits gegen 16:30 Uhr unter; kommen Sie früher für das beste Licht.",
                 "hu": "A nap már 16:30 körül nyugszik; jöjjön korábban a legjobb fényekért.",
                 "ro": "Soarele apune deja în jurul orei 16:30; veniți mai devreme pentru cea mai bună lumină.",
-                "en": "The sun sets around 4:30 PM in mid-winter; arrive early for the best light."
+                "en": "The sun sets around 4:30 PM in mid-winter; arrive early for the best light.",
+                "hr": "Sunce zalazi oko 16:30 sredinom zime; dođite ranije za najbolje svjetlo."
               }
             }
           ],
@@ -603,6 +671,12 @@
               "Plan outdoor activities before 4:00 PM as the temperature drops quickly after sunset.",
               "Check opening hours in advance as some beachside cafes close for the winter season.",
               "The crisp winter air provides the best visibility for spotting distant islands."
+            ],
+            "hr": [
+              "Odjenite se slojevito jer bura može biti vrlo hladna i prodorna unatoč suncu.",
+              "Planirajte aktivnosti na otvorenom prije 16:00 jer temperatura brzo pada nakon zalaska sunca.",
+              "Unaprijed provjerite radno vrijeme jer se neki kafići uz plažu zatvaraju tijekom zimske sezone.",
+              "Čisti zimski zrak pruža najbolju vidljivost za uočavanje udaljenih otoka."
             ]
           }
         }
@@ -631,7 +705,8 @@
             "de": "Starten Sie Ihre Tour am eleganten Hafen.",
             "hu": "Kezdje a túrát az elegáns kikötőnél.",
             "ro": "Începeți turul în portul elegant.",
-            "en": "Start your bike tour at the elegant marina."
+            "en": "Start your bike tour at the elegant marina.",
+            "hr": "Započnite svoju biciklističku turu u elegantnoj marini."
           }
         },
         {
@@ -649,7 +724,8 @@
             "de": "Kurzer Stopp beim historischen Herrenhaus.",
             "hu": "Rövid megálló a történelmi udvarháznál.",
             "ro": "Scurt popas la conacul istoric.",
-            "en": "Short stop at the historic mansion."
+            "en": "Short stop at the historic mansion.",
+            "hr": "Kratko zaustavljanje kod povijesnog ljetnikovca."
           }
         },
         {
@@ -667,7 +743,8 @@
             "de": "Genießen Sie die Brise auf dem Weg nach Süden.",
             "hu": "Élvezze a szellőt a déli irányba vezető úton.",
             "ro": "Bucurați-vă de briză pe drumul spre sud.",
-            "en": "Enjoy the sea breeze on the path heading south."
+            "en": "Enjoy the sea breeze on the path heading south.",
+            "hr": "Uživajte u morskom povjetarcu na stazi koja vodi prema jugu."
           }
         },
         {
@@ -685,7 +762,8 @@
             "de": "Besichtigung der alten Kirche von St. Martin.",
             "hu": "A Szent Márton templom megtekintése.",
             "ro": "Vizitarea vechii biserici Sf. Martin.",
-            "en": "Visit the ancient Church of St. Martin."
+            "en": "Visit the ancient Church of St. Martin.",
+            "hr": "Posjetite drevnu crkvu sv. Martina."
           }
         },
         {
@@ -703,7 +781,8 @@
             "de": "Energie tanken mit lokalen Spezialitäten.",
             "hu": "Töltődjön fel helyi specialitásokkal.",
             "ro": "Reîncărcați-vă cu specialități locale.",
-            "en": "Refuel with some local Dalmatian specialties."
+            "en": "Refuel with some local Dalmatian specialties.",
+            "hr": "Napunite baterije uz neke lokalne dalmatinske specijalitete."
           }
         },
         {
@@ -721,7 +800,8 @@
             "de": "Lange Pause am Strand zum Schwimmen.",
             "hu": "Hosszú strandolás és úszás a tengerben.",
             "ro": "Pauză lungă la plajă pentru înot.",
-            "en": "Long beach break for swimming and sunbathing."
+            "en": "Long beach break for swimming and sunbathing.",
+            "hr": "Duga pauza na plaži za kupanje i sunčanje."
           }
         }
       ],
@@ -729,7 +809,8 @@
         "de": "Erkunden Sie die Riviera von Podstrana auf zwei Rädern. Von der Marina Lav fahren Sie gemütlich am Meer entlang, vorbei am Cindro-Haus bis zur St.-Martins-Kirche. Der flache Küstenweg bietet herrliche Ausblicke und führt Sie schließlich zurück zum Strand von Grljevac für ein erfrischendes Bad.",
         "hu": "Fedezze fel Podstrana riviéráját két keréken. A Marina Lavtól indulva kényelmesen tekerhet a tenger mentén, érintve a Cindro-házat egészen a Szent Márton-templomig. A sík tengerparti út csodás kilátást nyújt, végül visszavezeti Grljevac strandjára egy frissítő csobbanásra.",
         "ro": "Explorați Riviera Podstrana pe două roți. Plecând din Marina Lav, pedalați lejer de-a lungul mării, trecând pe lângă conacul Cindro până la biserica Sf. Martin. Drumul de coastă plat oferă vederi superbe și vă aduce înapoi la plaja Grljevac pentru o baie răcoritoare.",
-        "en": "Explore the Podstrana Riviera on two wheels. Starting from Marina Lav, enjoy a leisurely ride along the sea, passing the Cindro Mansion all the way to the Church of St. Martin. The flat coastal path offers stunning views and leads you back to Grljevac Beach for a refreshing swim."
+        "en": "Explore the Podstrana Riviera on two wheels. Starting from Marina Lav, enjoy a leisurely ride along the sea, passing the Cindro Mansion all the way to the Church of St. Martin. The flat coastal path offers stunning views and leads you back to Grljevac Beach for a refreshing swim.",
+        "hr": "Istražite rivijeru Podstrane na dva kotača. Krenuvši iz Marine Lav, uživajte u laganoj vožnji uz more, prolazeći pored ljetnikovca Cindro sve do crkve sv. Martina. Ravna obalna staza nudi zadivljujuće vidike i vodi vas natrag do plaže Grljevac na osvježavajuće kupanje."
       },
       "gastro_picks": {
         "de": [
@@ -754,6 +835,12 @@
           {
             "name": "Bistro Jure",
             "tip": "Excellent pasta and seafood located right on the route."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bistro Jure",
+            "tip": "Izvrsna tjestenina i plodovi mora koji se nalaze točno na ruti."
           }
         ]
       },
@@ -785,6 +872,13 @@
             "tip": "Quiet moments cycling under the shade of pine trees.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obalna staza",
+            "tip": "Mirni trenuci bicikliranja pod sjenom borova.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -811,6 +905,12 @@
             "name": "Roadside Fruit Stand",
             "tip": "Fresh local figs and peaches from nearby orchards."
           }
+        ],
+        "hr": [
+          {
+            "name": "Štand s voćem uz cestu",
+            "tip": "Svježe lokalne smokve i breskve iz obližnjih voćnjaka."
+          }
         ]
       },
       "tips": {
@@ -833,6 +933,11 @@
           "The coastal path is mostly flat and suitable for all fitness levels.",
           "Watch out for pedestrians on the shared promenade sections.",
           "Keep hydrated and carry enough water during summer rides."
+        ],
+        "hr": [
+          "Obalna staza je uglavnom ravna i prikladna za sve razine kondicije.",
+          "Pazite na pješake na zajedničkim dijelovima promenade.",
+          "Hidrirajte se i nosite dovoljno vode tijekom ljetnih vožnji."
         ]
       },
       "variants": {
@@ -841,7 +946,8 @@
             "de": "Eine Regenfahrt entlang der Küste erfordert Vorsicht, bietet aber eine erfrischende Perspektive auf Grljevac. Beginnen Sie an der Marina Lav und radeln Sie zum Cindro-Sommerhaus, wobei Sie auf nassem Kopfsteinpflaster langsam fahren sollten. Der Küstenweg führt Sie zur St. Martinskirche, während der Regen die Pinienwälder intensiv duften lässt. Nach einem ausgiebigen Mittagessen zur Stärkung kehren Sie zum Strand von Grljevac zurück, wo die salzige Meeresbrise und der Regen ein wahres Naturerlebnis schaffen.",
             "hu": "Az esős biciklizés a parton óvatosságot igényel, de frissítő élményt nyújt Grljevacban. Induljon a Marina Lavtól és tekerjen a Cindro-nyaralóhoz, lassan haladva a vizes macskaköveken. A parti ösvény a Szent Márton-templomhoz vezet, miközben az eső illatossá teszi a fenyőerdőket. Egy kiadós, melegítő ebéd után térjen vissza a Grljevac strandhoz, ahol a sós tengeri szél és az eső igazi elemi élményt nyújt.",
             "ro": "O plimbare cu bicicleta pe ploaie necesită atenție, dar oferă o perspectivă revigorantă asupra Grljevacului. Începeți de la Marina Lav și pedalați spre casa Cindro, mergând încet pe pavajul umed. Poteca de coastă vă duce la biserica Sf. Martin, în timp ce ploaia face pădurile de pini foarte parfumate. După un prânz consistent pentru reîncărcare, reveniți la plaja Grljevac, unde briza sărată și ploaia creează o experiență naturală autentică.",
-            "en": "Cycling along the coast in the rain requires caution but offers a refreshing perspective of Grljevac. Start at Marina Lav and pedal to the Cindro summer house, taking it slow on the wet stones. The coastal path leads to St. Martin's Church, with the rain bringing out the intense scent of the pine trees. After a hearty lunch to warm up, return to Grljevac beach, where the salty sea breeze and the rain combine for a true elemental experience."
+            "en": "Cycling along the coast in the rain requires caution but offers a refreshing perspective of Grljevac. Start at Marina Lav and pedal to the Cindro summer house, taking it slow on the wet stones. The coastal path leads to St. Martin's Church, with the rain bringing out the intense scent of the pine trees. After a hearty lunch to warm up, return to Grljevac beach, where the salty sea breeze and the rain combine for a true elemental experience.",
+            "hr": "Bicikliranje uz obalu po kiši zahtijeva oprez, ali nudi osvježavajuću perspektivu Grljevca. Krenite od Marine Lav i pedalirajte do ljetnikovca Cindro, polako vozeći po mokrom kamenju. Obalna staza vodi do crkve sv. Martina, dok kiša izvlači intenzivan miris borova. Nakon krepkog ručka za zagrijavanje, vratite se na plažu Grljevac, gdje slani morski povjetarac i kiša stvaraju pravi doživljaj elemenata."
           },
           "stops": [
             {
@@ -857,7 +963,8 @@
                 "de": "Vorsicht beim Fahren auf den glatten Steinfliesen des Hafens.",
                 "hu": "Vigyázzon a kikötő sima kőlapjain való közlekedéssel.",
                 "ro": "Atenție la deplasarea pe dalele de piatră netede din port.",
-                "en": "Be careful when riding on the smooth stone tiles around the marina."
+                "en": "Be careful when riding on the smooth stone tiles around the marina.",
+                "hr": "Budite oprezni pri vožnji po glatkim kamenim pločama oko marine."
               }
             },
             {
@@ -873,7 +980,8 @@
                 "de": "Parken Sie das Rad im überdachten Bereich des Eingangs.",
                 "hu": "Parkolja a kerékpárt a bejárat fedett részén.",
                 "ro": "Parcați bicicleta în zona acoperită a intrării.",
-                "en": "Park your bike in the covered area of the entrance."
+                "en": "Park your bike in the covered area of the entrance.",
+                "hr": "Parkirajte bicikl u natkrivenom dijelu ulaza."
               }
             },
             {
@@ -889,7 +997,8 @@
                 "de": "Achten Sie auf Pfützen und Schlamm auf den unbefestigten Abschnitten.",
                 "hu": "Vigyázzon a tócsákra és a sárra a burkolatlan szakaszokon.",
                 "ro": "Atenție la bălți și noroi pe secțiunile neasfaltate.",
-                "en": "Watch out for deep puddles and mud on unpaved sections."
+                "en": "Watch out for deep puddles and mud on unpaved sections.",
+                "hr": "Pazite na duboke lokve i blato na neasfaltiranim dijelovima."
               }
             },
             {
@@ -905,7 +1014,8 @@
                 "de": "Die Steinmauer bietet einen guten Unterstand bei plötzlichem Starkregen.",
                 "hu": "A kőfal jó menedéket nyújt hirtelen zápor esetén.",
                 "ro": "Zidul de piatră oferă un adăpost bun în caz de ploaie torențială bruscă.",
-                "en": "The stone wall provides good shelter during sudden heavy showers."
+                "en": "The stone wall provides good shelter during sudden heavy showers.",
+                "hr": "Kameni zid pruža dobar zaklon tijekom iznenadnih jakih pljuskova."
               }
             },
             {
@@ -921,7 +1031,8 @@
                 "de": "Stellen Sie sicher, dass Ihr Fahrradschloss im Regen nicht rostet; gut ölen.",
                 "hu": "Győződjön meg róla, hogy a zár nem rozsdásodik az esőben; olajozza meg.",
                 "ro": "Asigurați-vă că lacătul nu ruginiește în ploaie; ungeți-l bine.",
-                "en": "Ensure your bike lock is well-oiled to prevent rust from the rain."
+                "en": "Ensure your bike lock is well-oiled to prevent rust from the rain.",
+                "hr": "Provjerite je li lokot za bicikl dobro nauljen kako biste spriječili hrđu od kiše."
               }
             },
             {
@@ -937,7 +1048,8 @@
                 "de": "Genießen Sie den Blick auf das Meer unter einem Sonnenschirm als Regenschutz.",
                 "hu": "Élvezze a tengeri kilátást egy napernyő alatt, esővédőként használva.",
                 "ro": "Bucurați-vă de vederea la mare sub o umbrelă de soare folosită ca protecție.",
-                "en": "Enjoy the sea view under a beach umbrella used as a rain shield."
+                "en": "Enjoy the sea view under a beach umbrella used as a rain shield.",
+                "hr": "Uživajte u pogledu na more pod suncobranom koji služi kao zaklon od kiše."
               }
             }
           ],
@@ -965,6 +1077,12 @@
               "Brake earlier than usual as brake pads are less effective on wet rims.",
               "Avoid painted road markings like white lines, as they become incredibly slippery.",
               "Wear high-visibility rain gear as driver visibility is significantly reduced in rain."
+            ],
+            "hr": [
+              "Koristite blatobrane kako biste se zaštitili od prskanja s ceste i prljavštine.",
+              "Kočite ranije nego inače jer su kočnice manje učinkovite na mokrim obručima.",
+              "Izbjegavajte obojene oznake na cesti poput bijelih linija jer postaju nevjerojatno skliske.",
+              "Nosite kišnu opremu visoke vidljivosti jer je vidljivost vozača značajno smanjena na kiši."
             ]
           }
         },
@@ -973,7 +1091,8 @@
             "de": "Eine winterliche Radtour in Grljevac ist bei klarem Himmel ein Genuss. Die kühle Luft an der Marina Lav weckt die Lebensgeister, bevor Sie zum ruhigen Cindro-Sommerhaus weiterfahren. Der Küstenweg bietet weite Ausblicke über die kristallklare Adria bis zur St. Martinskirche. Ein warmes Mittagessen ist der Höhepunkt, bevor Sie den Nachmittag am fast menschenleeren Strand von Grljevac verbringen. Da die Sonne früh sinkt, sollten Sie den Rückweg antreten, solange das Licht die Landschaft in goldenes Winterlicht taucht.",
             "hu": "A téli biciklitúra Grljevacban tiszta égbolt mellett igazi élvezet. A hűvös levegő a Marina Lavnál felébreszti az érzékeket, mielőtt a nyugodt Cindro-nyaraló felé indulna. A parti ösvényről pazar kilátás nyílik a kristálytiszta Adriára egészen a Szent Márton-templomig. Egy meleg ebéd a nap fénypontja, mielőtt a délutánt a szinte üres Grljevac strandon töltené. Mivel a nap korán nyugszik, induljon vissza, amíg az arany téli fények bevilágítják a tájat.",
             "ro": "O tură cu bicicleta iarna în Grljevac este o plăcere pe cer senin. Aerul rece de la Marina Lav vă revigorează înainte de a porni spre liniștita casă Cindro. Poteca de coastă oferă vederi largi peste Adriatica de cristal până la biserica Sf. Martin. Un prânz cald este punctul culminant înainte de a petrece după-amiaza pe plaja aproape goală. Deoarece soarele apune devreme, porniți înapoi cât timp lumina aurie de iarnă încă scaldă peisajul.",
-            "en": "A winter bike tour in Grljevac is a delight under clear skies. The crisp air at Marina Lav awakens the senses before you head to the tranquil Cindro summer house. The coastal path offers expansive views over the crystal-clear Adriatic all the way to St. Martin's Church. A warm lunch is the highlight before spending the afternoon at the nearly deserted Grljevac beach. As the sun sets early, begin your return journey while the golden winter light still bathes the landscape."
+            "en": "A winter bike tour in Grljevac is a delight under clear skies. The crisp air at Marina Lav awakens the senses before you head to the tranquil Cindro summer house. The coastal path offers expansive views over the crystal-clear Adriatic all the way to St. Martin's Church. A warm lunch is the highlight before spending the afternoon at the nearly deserted Grljevac beach. As the sun sets early, begin your return journey while the golden winter light still bathes the landscape.",
+            "hr": "Zimska biciklistička tura u Grljevcu je užitak pod vedrim nebom. Oštar zrak u Marini Lav budi osjetila prije nego što krenete prema mirnom ljetnikovcu Cindro. Obalna staza nudi prostrane vidike preko kristalno čistog Jadrana sve do crkve sv. Martina. Topli ručak je vrhunac dana prije popodneva na gotovo pustoj plaži Grljevac. Budući da sunce rano zalazi, krenite natrag dok zlatno zimsko svjetlo još kupa krajolik."
           },
           "stops": [
             {
@@ -989,7 +1108,8 @@
                 "de": "Prüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken.",
                 "hu": "Ellenőrizze a keréknyomást; a hideg levegő miatt kissé csökkenhet.",
                 "ro": "Verificați presiunea în pneuri; aerul rece o poate reduce ușor.",
-                "en": "Check your tire pressure; cold air can cause it to drop slightly."
+                "en": "Check your tire pressure; cold air can cause it to drop slightly.",
+                "hr": "Provjerite tlak u gumama; hladan zrak može uzrokovati njegov blagi pad."
               }
             },
             {
@@ -1005,7 +1125,8 @@
                 "de": "Nehmen Sie einen heißen Tee in der Thermoskanne für die Gartenpause mit.",
                 "hu": "Vigyen magával forró teát termoszban a kerti pihenőhöz.",
                 "ro": "Luați un ceai fierbinte în termos pentru pauza din grădină.",
-                "en": "Bring hot tea in a thermos for your break in the historic garden."
+                "en": "Bring hot tea in a thermos for your break in the historic garden.",
+                "hr": "Ponesite topli čaj u termosici za pauzu u povijesnom vrtu."
               }
             },
             {
@@ -1021,7 +1142,8 @@
                 "de": "Vorsicht vor gefrorenen Pfützen in schattigen Bereichen am frühen Morgen.",
                 "hu": "Vigyázzon a fagyott tócsákra az árnyékos részeken kora reggel.",
                 "ro": "Atenție la bălțile înghețate în zonele umbrite dimineața devreme.",
-                "en": "Watch out for frozen puddles in shaded areas during early morning."
+                "en": "Watch out for frozen puddles in shaded areas during early morning.",
+                "hr": "Pazite na smrznute lokve u sjenovitim područjima rano ujutro."
               }
             },
             {
@@ -1037,7 +1159,8 @@
                 "de": "Ein toller Ort, um die Wintersonne ohne Wind im Schutz der Mauern zu genießen.",
                 "hu": "Remek hely a téli napsütés élvezetére szélmentesen, a falak védelmében.",
                 "ro": "Un loc minunat pentru a savura soarele de iarnă fără vânt, la adăpostul zidurilor.",
-                "en": "A great spot to enjoy the winter sun without wind behind the protective walls."
+                "en": "A great spot to enjoy the winter sun without wind behind the protective walls.",
+                "hr": "Izvrsno mjesto za uživanje u zimskom suncu bez vjetra iza zaštitnih zidova."
               }
             },
             {
@@ -1053,7 +1176,8 @@
                 "de": "Wählen Sie ein Restaurant mit Fahrradständern in Sichtweite der Fenster.",
                 "hu": "Válasszon olyan éttermet, ahol az ablakból látja a kerékpártárolót.",
                 "ro": "Alegeți un restaurant unde puteți vedea rastelul de biciclete de la fereastră.",
-                "en": "Choose a restaurant where you can see the bike racks from your table."
+                "en": "Choose a restaurant where you can see the bike racks from your table.",
+                "hr": "Odaberite restoran u kojem možete vidjeti stalak za bicikle sa svog stola."
               }
             },
             {
@@ -1069,7 +1193,8 @@
                 "de": "Die Wintersonne ist tief; eine Sonnenbrille ist beim Radfahren unerlässlich.",
                 "hu": "A téli nap alacsonyan jár; a napszemüveg elengedhetetlen biciklizéskor.",
                 "ro": "Soarele de iarnă este jos; ochelarii de soare sunt esențiali la ciclism.",
-                "en": "The winter sun sits low; sunglasses are essential while cycling."
+                "en": "The winter sun sits low; sunglasses are essential while cycling.",
+                "hr": "Zimsko sunce je nisko; sunčane naočale su neophodne tijekom bicikliranja."
               }
             }
           ],
@@ -1097,6 +1222,12 @@
               "Ensure your bike lights are fully functional for the early winter dusk.",
               "The Bura can create strong crosswinds; keep a firm grip on the handlebars.",
               "Apply extra chain lube to protect your bike from the salty, damp winter air."
+            ],
+            "hr": [
+              "Nosite rukavice otporne na vjetar jer vam se ruke zbog vjetra mogu brzo smrznuti.",
+              "Provjerite jesu li svjetla na biciklu potpuno ispravna za rani zimski sumrak.",
+              "Bura može stvoriti jake bočne udare vjetra; čvrsto držite upravljač.",
+              "Nanesite dodatno mazivo na lanac kako biste zaštitili bicikl od slanog i vlažnog zimskog zraka."
             ]
           }
         }
@@ -1125,7 +1256,8 @@
             "de": "Parken Sie am Hotel Le Méridien Lav.",
             "hu": "Parkoljon a Le Méridien Lav hotelnél.",
             "ro": "Parcați la hotelul Le Méridien Lav.",
-            "en": "Park near the Le Méridien Lav hotel complex."
+            "en": "Park near the Le Méridien Lav hotel complex.",
+            "hr": "Parkirajte u blizini hotelskog kompleksa Le Méridien Lav."
           }
         },
         {
@@ -1143,7 +1275,8 @@
             "de": "Ein kurzer Spaziergang von der Marina.",
             "hu": "Rövid séta a kikötőtől.",
             "ro": "O scurtă plimbare de la marină.",
-            "en": "A short walk from the marina area."
+            "en": "A short walk from the marina area.",
+            "hr": "Kratka šetnja od područja marine."
           }
         },
         {
@@ -1161,7 +1294,8 @@
             "de": "Fahrt bergauf für Panoramafotos der Küste.",
             "hu": "Autózzon feljebb a panorámafotókért a partról.",
             "ro": "Urcați cu mașina pentru fotografii panoramice.",
-            "en": "Drive slightly uphill for panoramic coastal photos."
+            "en": "Drive slightly uphill for panoramic coastal photos.",
+            "hr": "Vozite lagano uzbrdo za panoramske fotografije obale."
           }
         },
         {
@@ -1179,7 +1313,8 @@
             "de": "Besuchen Sie die Kirche am südlichen Ende.",
             "hu": "Látogassa meg a templomot a déli részen.",
             "ro": "Vizitați biserica în partea de sud.",
-            "en": "Visit the church at the southern end of the town."
+            "en": "Visit the church at the southern end of the town.",
+            "hr": "Posjetite crkvu na južnom kraju mjesta."
           }
         },
         {
@@ -1197,7 +1332,8 @@
             "de": "Regionale Fleisch- und Fischgerichte.",
             "hu": "Regionális hús- és halételek.",
             "ro": "Preparate regionale din carne și pește.",
-            "en": "Authentic regional meat and fish dishes."
+            "en": "Authentic regional meat and fish dishes.",
+            "hr": "Autentična regionalna jela od mesa i ribe."
           }
         },
         {
@@ -1215,7 +1351,8 @@
             "de": "Entspannung am Hauptstrand von Grljevac.",
             "hu": "Pihenés Grljevac fő strandján.",
             "ro": "Relaxare pe plaja principală din Grljevac.",
-            "en": "Relaxation at the main beach of Grljevac."
+            "en": "Relaxation at the main beach of Grljevac.",
+            "hr": "Opuštanje na glavnoj plaži Grljevca."
           }
         },
         {
@@ -1233,7 +1370,8 @@
             "de": "Lassen Sie den Tag am Wasser ausklingen.",
             "hu": "Zárja a napot a vízparton.",
             "ro": "Încheiați ziua pe malul mării.",
-            "en": "Finish your day by the water's edge."
+            "en": "Finish your day by the water's edge.",
+            "hr": "Završite dan tik uz more."
           }
         }
       ],
@@ -1241,7 +1379,8 @@
         "de": "Mit dem Auto entdecken Sie sowohl die Küstenhighlights als auch die Hügel von Podstrana. Nach dem Besuch der Marina Lav und des Cindro-Hauses bietet ein kurzer Abstecher bergauf atemberaubende Ausblicke. Der Tag führt Sie weiter zur St.-Martins-Kirche und endet mit entspannten Stunden am Strand von Grljevac.",
         "hu": "Autóval felfedezheti Podstrana tengerparti gyöngyszemeit és a domboldal kilátópontjait is. A Marina Lav és a Cindro-ház megtekintése után egy rövid hegyi kitérő kínál lenyűgöző panorámát. A nap a Szent Márton-templomnál folytatódik, és a Grljevac strandon való pihenéssel zárul.",
         "ro": "Cu mașina veți descoperi atât punctele de atracție de pe coastă, cât și dealurile din Podstrana. După vizitarea marinei Lav și a conacului Cindro, o scurtă urcare oferă vederi uluitoare. Ziua continuă la biserica Sf. Martin și se încheie cu ore relaxante pe plaja Grljevac.",
-        "en": "By car, you can explore both the coastal highlights and the scenic hills of Podstrana. After visiting Marina Lav and the Cindro Mansion, a short drive uphill offers breathtaking views. The journey continues to the Church of St. Martin and ends with a peaceful afternoon at Grljevac Beach."
+        "en": "By car, you can explore both the coastal highlights and the scenic hills of Podstrana. After visiting Marina Lav and the Cindro Mansion, a short drive uphill offers breathtaking views. The journey continues to the Church of St. Martin and ends with a peaceful afternoon at Grljevac Beach.",
+        "hr": "Automobilom možete istražiti i obalne znamenitosti i slikovita brda Podstrane. Nakon posjeta Marini Lav i ljetnikovcu Cindro, kratka vožnja uzbrdo nudi poglede koji oduzimaju dah. Putovanje se nastavlja do crkve sv. Martina i završava mirnim popodnevom na plaži Grljevac."
       },
       "gastro_picks": {
         "de": [
@@ -1266,6 +1405,12 @@
           {
             "name": "Konoba Galija",
             "tip": "Excellent traditional Peka (slow-cooked under a bell)."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Galija",
+            "tip": "Izvrsna tradicionalna peka (polako kuhana pod pekom)."
           }
         ]
       },
@@ -1297,6 +1442,13 @@
             "tip": "Quiet and vast views above the coastline.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Gornja Podstrana",
+            "tip": "Mirni i prostrani vidici iznad obale.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1323,6 +1475,12 @@
             "name": "Local Honey",
             "tip": "Try the unique sage honey from the local hills."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni med",
+            "tip": "Probajte jedinstveni med od kadulje s lokalnih brda."
+          }
         ]
       },
       "tips": {
@@ -1345,6 +1503,11 @@
           "The main D8 road can be very busy during the summer months.",
           "Paid parking is available at Marina Lav and near the main beaches.",
           "Use the clustering method to minimize parking transitions."
+        ],
+        "hr": [
+          "Glavna cesta D8 može biti vrlo prometna tijekom ljetnih mjeseci.",
+          "Plaćeni parking dostupan je u Marini Lav i u blizini glavnih plaža.",
+          "Koristite metodu grupiranja kako biste minimizirali promjene parkirališta."
         ]
       },
       "variants": {
@@ -1353,7 +1516,8 @@
             "de": "Eine gemütliche Autofahrt ist die beste Art, Grljevac im Regen zu erkunden. Besuchen Sie die Marina Lav und das Cindro-Sommerhaus, wobei Sie nur kurze Strecken durch den Regen laufen müssen. Die Fahrt zum Aussichtspunkt Podstrana bietet trotz Wolken eine dramatische Sicht auf die graue Adria. Nach der St. Martinskirche genießen Sie ein entspanntes Mittagessen in einer warmen Konoba. Den Nachmittag verbringen Sie am Strand von Grljevac, beobachten das Wetter bequem vom Auto aus und beenden den Tag mit einem Blick auf das stürmische Meer.",
             "hu": "A kényelmes autózás a legjobb módja Grljevac felfedezésének esőben. Látogassa meg a Marina Lavot és a Cindro-nyaralót, csak rövid szakaszokat téve meg az esőben. Az autózás a Podstrana kilátóhoz drámai kilátást nyújt a szürke Adriára a felhők ellenére is. A Szent Márton-templom után élvezze a pihentető ebédet egy meleg konobában. A délutánt a Grljevac strandnál töltheti, az autóból figyelve az időjárást, és a napot a viharos tenger látványával zárhatja.",
             "ro": "O plimbare relaxantă cu mașina este cel mai bun mod de a explora Grljevac pe ploaie. Vizitați Marina Lav și casa Cindro, parcurgând doar distanțe scurte prin ploaie. Drumul spre punctul de belvedere Podstrana oferă o vedere dramatică asupra Adriaticii gri, în ciuda norilor. După biserica Sf. Martin, bucurați-vă de un prânz relaxant într-o konoba caldă. Petreceți după-amiaza la plaja Grljevac, observând vremea confortabil din mașină.",
-            "en": "A comfortable drive is the best way to explore Grljevac in the rain. Visit Marina Lav and the Cindro summer house, with only short dashes through the rain. The drive to the Podstrana viewpoint offers a dramatic look at the grey Adriatic despite the clouds. After St. Martin's Church, enjoy a relaxed lunch in a warm konoba. Spend the afternoon by Grljevac beach, watching the weather comfortably from your car, and end the day with the sight of the stormy sea."
+            "en": "A comfortable drive is the best way to explore Grljevac in the rain. Visit Marina Lav and the Cindro summer house, with only short dashes through the rain. The drive to the Podstrana viewpoint offers a dramatic look at the grey Adriatic despite the clouds. After St. Martin's Church, enjoy a relaxed lunch in a warm konoba. Spend the afternoon by Grljevac beach, watching the weather comfortably from your car, and end the day with the sight of the stormy sea.",
+            "hr": "Udobna vožnja najbolji je način za istraživanje Grljevca po kiši. Posjetite Marinu Lav i ljetnikovac Cindro uz tek kratko trčanje kroz kišu. Vožnja do vidikovca Podstrana nudi dramatičan pogled na sivi Jadran unatoč oblacima. Nakon crkve sv. Martina, uživajte u opuštenom ručku u toploj konobi. Provedite popodne uz plažu Grljevac, udobno promatrajući vrijeme iz automobila, i završite dan uz prizor olujnog mora."
           },
           "stops": [
             {
@@ -1369,7 +1533,8 @@
                 "de": "Nutzen Sie das Parkhaus des Hotels für einen trockenen Zugang zur Marina.",
                 "hu": "Használja a hotel parkolóházát a kikötő száraz megközelítéséhez.",
                 "ro": "Folosiți parcarea hotelului pentru un acces uscat la marină.",
-                "en": "Use the hotel parking garage for dry access to the marina area."
+                "en": "Use the hotel parking garage for dry access to the marina area.",
+                "hr": "Koristite hotelsku garažu za suhi pristup području marine."
               }
             },
             {
@@ -1385,7 +1550,8 @@
                 "de": "Parkplätze direkt am Eingang minimieren die Zeit im Regen.",
                 "hu": "A közvetlenül a bejáratnál lévő parkolók minimalizálják az esőben töltött időt.",
                 "ro": "Parcările de lângă intrare minimizează timpul petrecut în ploaie.",
-                "en": "Parking right by the entrance minimizes your time spent in the rain."
+                "en": "Parking right by the entrance minimizes your time spent in the rain.",
+                "hr": "Parkiranje točno kod ulaza minimizira vrijeme provedeno na kiši."
               }
             },
             {
@@ -1401,7 +1567,8 @@
                 "de": "Genießen Sie das Panorama direkt aus dem Auto, wenn der Regen zu stark ist.",
                 "hu": "Élvezze a panorámát közvetlenül az autóból, ha túl erősen esik.",
                 "ro": "Bucurați-vă de panoramă direct din mașină dacă plouă prea tare.",
-                "en": "Enjoy the panoramic view directly from your car if the rain is too heavy."
+                "en": "Enjoy the panoramic view directly from your car if the rain is too heavy.",
+                "hr": "Uživajte u panoramskom pogledu izravno iz automobila ako je kiša previše jaka."
               }
             },
             {
@@ -1417,7 +1584,8 @@
                 "de": "Vorsicht beim Parken auf unbefestigten, schlammigen Seitenstreifen.",
                 "hu": "Vigyázzon a parkolással a burkolatlan, sáros útpadkán.",
                 "ro": "Atenție la parcare pe acostamentele neasfaltate și noroioase.",
-                "en": "Be careful when parking on unpaved, muddy road shoulders near the church."
+                "en": "Be careful when parking on unpaved, muddy road shoulders near the church.",
+                "hr": "Budite oprezni pri parkiranju na neasfaltiranim, blatnjavim rubovima ceste blizu crkve."
               }
             },
             {
@@ -1433,7 +1601,8 @@
                 "de": "Wählen Sie eine Konoba mit Parkplatz direkt vor der Tür.",
                 "hu": "Válasszon olyan konobát, amelynek közvetlenül az ajtó előtt van parkolója.",
                 "ro": "Alegeți o konoba care are parcare chiar în fața ușii.",
-                "en": "Pick a konoba that has parking spots right in front of the entrance."
+                "en": "Pick a konoba that has parking spots right in front of the entrance.",
+                "hr": "Odaberite konobu koja ima parkirna mjesta točno ispred ulaza."
               }
             },
             {
@@ -1449,7 +1618,8 @@
                 "de": "Parken Sie mit Blick auf das Meer für privates Stormwatching.",
                 "hu": "Parkoljon tengerre néző kilátással a privát viharfigyeléshez.",
                 "ro": "Parcați cu vedere la mare pentru a urmări furtuna în privat.",
-                "en": "Park facing the sea for a private session of storm watching."
+                "en": "Park facing the sea for a private session of storm watching.",
+                "hr": "Parkirajte okrenuti prema moru za privatno promatranje oluje."
               }
             },
             {
@@ -1465,7 +1635,8 @@
                 "de": "Die beschlagenen Scheiben lassen sich mit der Klimaanlage schnell klären.",
                 "hu": "A párás szélvédőt a légkondicionálóval gyorsan le tudja tisztítani.",
                 "ro": "Parbrizul aburit se poate curăța rapid cu ajutorul aerului condiționat.",
-                "en": "Clear foggy windows quickly by using the air conditioning's defrost setting."
+                "en": "Clear foggy windows quickly by using the air conditioning's defrost setting.",
+                "hr": "Brzo odmaglite prozore koristeći postavku za odleđivanje klima uređaja."
               }
             }
           ],
@@ -1493,6 +1664,12 @@
               "Check your wipers before starting; visibility can drop suddenly in heavy rain.",
               "The Adriatic coastal road (Magistrala) can become very slippery when wet.",
               "Maintain a larger following distance than usual to the car in front."
+            ],
+            "hr": [
+              "Izbjegavajte velike lokve na rubu ceste kako biste spriječili opasni akvaplaning.",
+              "Provjerite brisače prije kretanja; vidljivost može naglo pasti u jakoj kiši.",
+              "Jadranska magistrala može postati vrlo skliska kada je mokra.",
+              "Održavajte veći razmak od vozila ispred sebe nego inače."
             ]
           }
         },
@@ -1501,7 +1678,8 @@
             "de": "An einem klaren Wintertag ist das Auto der ideale Rückzugsort in Grljevac. Genießen Sie die Fahrt zur Marina Lav und zum Cindro-Sommerhaus ohne sommerliche Staus. Der Aussichtspunkt Podstrana bietet im Winter das klarste Panorama auf die Inseln. Nach einem Besuch der St. Martinskirche lockt ein warmes Mittagessen in einer gemütlich geheizten Konoba. Den Nachmittag verbringen Sie am ruhigen Strand von Grljevac, bevor Sie den frühen, farbenfrohen Sonnenuntergang direkt von der Küstenstraße aus bewundern.",
             "hu": "Egy tiszta téli napon az autó ideális bázis Grljevacban. Élvezze az autózást a Marina Lavhoz és a Cindro-nyaralóhoz a nyári dugók nélkül. A Podstrana kilátó télen a legtisztább panorámát nyújtja a szigetekre. A Szent Márton-templom után egy jól fűtött konoba csalogatja meleg ebéddel. A délutánt a csendes Grljevac strandon töltheti, mielőtt a korai, színpompás naplementét közvetlenül a parti útról csodálná meg.",
             "ro": "Într-o zi senină de iarnă, mașina este baza ideală în Grljevac. Bucurați-vă de drumul spre Marina Lav și casa Cindro fără ambuteiajele de vară. Punctul de belvedere Podstrana oferă iarna cea mai clară panoramă asupra insulelor. După biserica Sf. Martin, o konoba bine încălzită vă atrage cu un prânz cald. Petreceți după-amiaza pe plaja liniștită, înainte de a admira apusul timpuriu și colorat direct de pe drumul de coastă.",
-            "en": "On a clear winter day, the car is your perfect base in Grljevac. Enjoy the drive to Marina Lav and the Cindro summer house without any summer traffic jams. The Podstrana viewpoint offers the clearest panoramas of the islands during winter. After visiting St. Martin's Church, a well-heated konoba invites you for a warm lunch. Spend the afternoon at the quiet Grljevac beach before admiring the early, colorful sunset directly from the coastal road."
+            "en": "On a clear winter day, the car is your perfect base in Grljevac. Enjoy the drive to Marina Lav and the Cindro summer house without any summer traffic jams. The Podstrana viewpoint offers the clearest panoramas of the islands during winter. After visiting St. Martin's Church, a well-heated konoba invites you for a warm lunch. Spend the afternoon at the quiet Grljevac beach before admiring the early, colorful sunset directly from the coastal road.",
+            "hr": "Za vedrog zimskog dana, automobil je vaša savršena baza u Grljevcu. Uživajte u vožnji do Marine Lav i ljetnikovca Cindro bez ljetnih prometnih gužvi. Vidikovac Podstrana nudi najčišće panorame otoka tijekom zime. Nakon posjeta crkvi sv. Martina, dobro zagrijana konoba poziva vas na topli ručak. Provedite popodne na mirnoj plaži Grljevac prije nego što se divite ranom, šarenom zalasku sunca izravno s obalne ceste."
           },
           "stops": [
             {
@@ -1517,7 +1695,8 @@
                 "de": "Im Winter gibt es meist viele freie Parkplätze direkt am Hafen.",
                 "hu": "Télen általában rengeteg szabad parkolóhely van közvetlenül a kikötőnél.",
                 "ro": "Iarna există de obicei multe locuri de parcare libere chiar în port.",
-                "en": "In winter, there are usually plenty of free parking spots right by the harbor."
+                "en": "In winter, there are usually plenty of free parking spots right by the harbor.",
+                "hr": "Zimi obično ima dovoljno besplatnih parkirnih mjesta točno uz luku."
               }
             },
             {
@@ -1533,7 +1712,8 @@
                 "de": "Die Steinmauern speichern die Mittagssonne; ein schöner Ort zum Aufwärmen.",
                 "hu": "A kőfalak elnyelik a déli napsütést; remek hely egy kis melegedéshez.",
                 "ro": "Zidurile de piatră înmagazinează soarele de prânz; un loc bun pentru încălzire.",
-                "en": "The stone walls soak up the midday sun; a lovely spot to warm up outside."
+                "en": "The stone walls soak up the midday sun; a lovely spot to warm up outside.",
+                "hr": "Kameni zidovi upijaju podnevno sunce; lijepo mjesto za zagrijavanje vani."
               }
             },
             {
@@ -1549,7 +1729,8 @@
                 "de": "Achten Sie auf Raureif oder Glätte auf den steilen Zufahrtsstraßen am Morgen.",
                 "hu": "Vigyázzon a dérre vagy csúszós utakra a meredek bekötőutakon reggel.",
                 "ro": "Atenție la chiciură sau polei pe drumurile de acces abrupte dimineața.",
-                "en": "Watch out for frost or slippery patches on steep access roads in the morning."
+                "en": "Watch out for frost or slippery patches on steep access roads in the morning.",
+                "hr": "Pazite na mraz ili skliska mjesta na strmim pristupnim cestama ujutro."
               }
             },
             {
@@ -1565,7 +1746,8 @@
                 "de": "Hinterlassen Sie keine Wertsachen im Auto, auch wenn es im Winter ruhig ist.",
                 "hu": "Ne hagyjon értéket az autóban, még ha télen csendes is a környék.",
                 "ro": "Nu lăsați obiecte de valoare în mașină, chiar dacă iarna este liniște.",
-                "en": "Do not leave valuables in the car, even though it is very quiet in winter."
+                "en": "Do not leave valuables in the car, even though it is very quiet in winter.",
+                "hr": "Ne ostavljajte dragocjenosti u automobilu, iako je zimi vrlo mirno."
               }
             },
             {
@@ -1581,7 +1763,8 @@
                 "de": "Prüfen Sie, ob die Konoba im Winter beheizt ist (viele haben offene Kamine).",
                 "hu": "Ellenőrizze, hogy a konoba fűtött-e (sok helyen van nyitott kandalló).",
                 "ro": "Verificați dacă konoba este încălzită (multe au șeminee deschise).",
-                "en": "Check if the konoba is heated (many have beautiful open fireplaces)."
+                "en": "Check if the konoba is heated (many have beautiful open fireplaces).",
+                "hr": "Provjerite grije li se konoba (mnoge imaju prekrasna otvorena ognjišta)."
               }
             },
             {
@@ -1597,7 +1780,8 @@
                 "de": "Im Winter ist das Parken am Strand oft kostenlos.",
                 "hu": "Télen a parkolás a strandnál gyakran ingyenes.",
                 "ro": "Iarna, parcarea de lângă plajă este adesea gratuită.",
-                "en": "In the winter season, parking by the beach is often free of charge."
+                "en": "In the winter season, parking by the beach is often free of charge.",
+                "hr": "Tijekom zimske sezone parkiranje uz plažu često je besplatno."
               }
             },
             {
@@ -1613,7 +1797,8 @@
                 "de": "Die Sonne steht tief; nutzen Sie die Sonnenblende bei der Fahrt Richtung Westen.",
                 "hu": "A nap alacsonyan áll; használja a napellenzőt nyugat felé autózva.",
                 "ro": "Soarele este jos; folosiți parasolarul când conduceți spre vest.",
-                "en": "The sun is very low; use your sun visor when driving towards the west."
+                "en": "The sun is very low; use your sun visor when driving towards the west.",
+                "hr": "Sunce je vrlo nisko; koristite štitnik za sunce kada vozite prema zapadu."
               }
             }
           ],
@@ -1641,6 +1826,12 @@
               "The Bura wind can cause noticeable buffeting on exposed coastal road sections.",
               "Plan your fuel stops as some smaller stations might have shorter winter hours.",
               "Take advantage of the low winter sun for spectacular photos right from your car seat."
+            ],
+            "hr": [
+              "Provjerite ima li tekućina za pranje stakla dovoljno sredstva protiv smrzavanja.",
+              "Bura može uzrokovati primjetno zanošenje na izloženim dijelovima obalne ceste.",
+              "Planirajte zaustavljanja za gorivo jer neke manje postaje mogu imati kraće zimsko radno vrijeme.",
+              "Iskoristite nisko zimsko sunce za spektakularne fotografije izravno iz automobila."
             ]
           }
         }
@@ -1669,7 +1860,8 @@
             "de": "Bushaltestelle 'Lav' an der Hauptstraße.",
             "hu": "A 'Lav' buszmegálló a főút mellett.",
             "ro": "Stația de autobuz 'Lav' pe drumul principal.",
-            "en": "The 'Lav' bus stop on the main Adriatic highway."
+            "en": "The 'Lav' bus stop on the main Adriatic highway.",
+            "hr": "Autobusna stanica 'Lav' na Jadranskoj magistrali."
           }
         },
         {
@@ -1687,7 +1879,8 @@
             "de": "Zu Fuß erreichbar von der Bushaltestelle.",
             "hu": "Gyalogosan elérhető a buszmegállótól.",
             "ro": "Accesibil pe jos de la stația de autobuz.",
-            "en": "Easily accessible on foot from the bus stop."
+            "en": "Easily accessible on foot from the bus stop.",
+            "hr": "Lako dostupno pješice od autobusne stanice."
           }
         },
         {
@@ -1705,7 +1898,8 @@
             "de": "Dalmatinische Küche genießen.",
             "hu": "Élvezze a dalmát konyhát.",
             "ro": "Bucurați-vă de bucătăria dalmațiană.",
-            "en": "Enjoy some traditional Dalmatian cuisine."
+            "en": "Enjoy some traditional Dalmatian cuisine.",
+            "hr": "Uživajte u tradicionalnoj dalmatinskoj kuhinji."
           }
         },
         {
@@ -1723,7 +1917,8 @@
             "de": "Mit dem Bus 60 zur Haltestelle 'Sveti Martin'.",
             "hu": "A 60-as busszal a 'Sveti Martin' megállóig.",
             "ro": "Cu autobuzul 60 până la stația 'Sveti Martin'.",
-            "en": "Take bus 60 to the 'Sveti Martin' stop."
+            "en": "Take bus 60 to the 'Sveti Martin' stop.",
+            "hr": "Uđite u autobus 60 do stanice 'Sveti Martin'."
           }
         },
         {
@@ -1741,7 +1936,8 @@
             "de": "Rückfahrt mit dem Bus nach Grljevac zum Strand.",
             "hu": "Buszozzon vissza Grljevacra a strandra.",
             "ro": "Reveniți cu autobuzul în Grljevac la plajă.",
-            "en": "Take the bus back to the Grljevac beach area."
+            "en": "Take the bus back to the Grljevac beach area.",
+            "hr": "Vratite se autobusom do područja plaže Grljevac."
           }
         },
         {
@@ -1759,7 +1955,8 @@
             "de": "Kurzer Spaziergang vor der Heimfahrt.",
             "hu": "Rövid séta a hazaút előtt.",
             "ro": "O scurtă plimbare înainte de plecare.",
-            "en": "A short walk before heading back."
+            "en": "A short walk before heading back.",
+            "hr": "Kratka šetnja prije povratka."
           }
         }
       ],
@@ -1767,7 +1964,8 @@
         "de": "Nutzen Sie den lokalen Bus 60, um bequem zwischen den Sehenswürdigkeiten von Podstrana zu pendeln. Beginnen Sie im luxuriösen Viertel rund um Marina Lav und das Cindro-Haus. Nach einem kurzen Bustransfer besuchen Sie die historische St.-Martins-Kirche und kehren schließlich für entspannte Stunden am Grljevac-Strand zurück.",
         "hu": "Használja a helyi 60-as buszt, hogy kényelmesen közlekedjen Podstrana látnivalói között. Kezdjen a Marina Lav és a Cindro-ház környékén, majd egy rövid buszozás után látogassa meg a Szent Márton-templomot. Végül térjen vissza Grljevac strandjára egy kis pihenésre.",
         "ro": "Folosiți autobuzul local 60 pentru a circula ușor între atracțiile din Podstrana. Începeți în zona luxoasă din jurul marinei Lav și a conacului Cindro. După un scurt transfer cu autobuzul, vizitați biserica Sf. Martin și reveniți la plaja Grljevac pentru relaxare.",
-        "en": "Use the local bus line 60 to easily move between the sights of Podstrana. Start in the elegant district around Marina Lav and the Cindro Mansion. After a short bus ride, visit the historic Church of St. Martin, before returning to Grljevac Beach for a relaxing afternoon."
+        "en": "Use the local bus line 60 to easily move between the sights of Podstrana. Start in the elegant district around Marina Lav and the Cindro Mansion. After a short bus ride, visit the historic Church of St. Martin, before returning to Grljevac Beach for a relaxing afternoon.",
+        "hr": "Koristite lokalnu autobusnu liniju 60 kako biste se lako kretali između znamenitosti Podstrane. Započnite u elegantnom dijelu oko Marine Lav i ljetnikovca Cindro. Nakon kratke vožnje autobusom, posjetite povijesnu crkvu sv. Martina, prije povratka na plažu Grljevac za opuštajuće poslijepodne."
       },
       "gastro_picks": {
         "de": [
@@ -1792,6 +1990,12 @@
           {
             "name": "Gastro Fish Lab",
             "tip": "Modern interpretations of fresh local seafood."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Gastro Fish Lab",
+            "tip": "Moderne interpretacije svježih lokalnih plodova mora."
           }
         ]
       },
@@ -1823,6 +2027,13 @@
             "tip": "A beautiful walk away from the main road traffic.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Riva Podstrana",
+            "tip": "Prekrasna šetnja daleko od prometa glavne ceste.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1849,6 +2060,12 @@
             "name": "Souvenir Stands",
             "tip": "Found near the larger hotel complexes."
           }
+        ],
+        "hr": [
+          {
+            "name": "Štandovi sa suvenirima",
+            "tip": "Nalaze se u blizini većih hotelskih kompleksa."
+          }
         ]
       },
       "tips": {
@@ -1871,6 +2088,11 @@
           "Tickets for bus 60 can be purchased directly from the driver.",
           "The bus runs frequently between Split and Omiš along the coast.",
           "Most bus stops are conveniently located on the main D8 road."
+        ],
+        "hr": [
+          "Karte za autobus 60 mogu se kupiti izravno kod vozača.",
+          "Autobus često prometuje između Splita i Omiša duž obale.",
+          "Većina autobusnih stanica povoljno je smještena na glavnoj cesti D8."
         ]
       },
       "variants": {
@@ -1879,7 +2101,8 @@
             "de": "Mit dem Bus durch das verregnete Grljevac zu fahren, ist eine entspannte Option. Starten Sie an der Marina Lav und besuchen Sie das Cindro-Sommerhaus, wobei die Busse oft direkt in der Nähe halten. Ein gemütliches Mittagessen bietet Schutz vor dem Wetter, bevor Sie mit dem Nahverkehr zur St. Martinskirche weiterfahren. Den Nachmittag können Sie am Strand von Grljevac verbringen, wobei Sie die Zeitpläne bequem im Trockenen an der Haltestelle checken können. Der Tag endet mit einer ruhigen Busfahrt entlang der Küste.",
             "hu": "Busszal közlekedni az esős Grljevacban kényelmes és száraz megoldás. Kezdje a Marina Lavnál, majd látogasson el a Cindro-nyaralóhoz, mivel a buszok gyakran közvetlenül a közelben állnak meg. Egy hangulatos ebéd védelmet nyújt az időjárás elől, mielőtt a helyi járattal a Szent Márton-templomhoz utazna. A délutánt a Grljevac strandnál töltheti, a menetrendet a fedett megállóban ellenőrizve. A napot egy nyugodt buszozás zárja a part mentén.",
             "ro": "Călătoria cu autobuzul prin Grljevacul ploios este o opțiune relaxantă. Începeți de la Marina Lav și vizitați casa Cindro, autobuzele oprind adesea chiar în apropiere. Un prânz plăcut vă oferă adăpost împotriva vremii înainte de a continua cu transportul local spre biserica Sf. Martin. După-amiaza o puteți petrece la plaja Grljevac, verificând orarele la adăpostul stației. Ziua se încheie cu o călătorie liniștită cu autobuzul de-a lungul coastei.",
-            "en": "Taking the bus through rainy Grljevac is a relaxed and dry option. Start at Marina Lav and visit the Cindro summer house, as buses often stop right nearby. A cozy lunch provides shelter from the weather before continuing by local transit to St. Martin's Church. You can spend the afternoon by Grljevac beach, checking schedules from the safety of a covered stop. The day ends with a quiet bus ride along the coast."
+            "en": "Taking the bus through rainy Grljevac is a relaxed and dry option. Start at Marina Lav and visit the Cindro summer house, as buses often stop right nearby. A cozy lunch provides shelter from the weather before continuing by local transit to St. Martin's Church. You can spend the afternoon by Grljevac beach, checking schedules from the safety of a covered stop. The day ends with a quiet bus ride along the coast.",
+            "hr": "Vožnja autobusom kroz kišni Grljevac opuštena je i suha opcija. Krenite od Marine Lav i posjetite ljetnikovac Cindro, jer autobusi često staju u neposrednoj blizini. Ugodan ručak pruža zaklon od vremena prije nastavka lokalnim prijevozom do crkve sv. Martina. Poslijepodne možete provesti uz plažu Grljevac, provjeravajući vozni red iz sigurnosti natkrivene stanice. Dan završava mirnom vožnjom autobusom duž obale."
           },
           "stops": [
             {
@@ -1895,7 +2118,8 @@
                 "de": "Die Haltestelle ist nur wenige Gehminuten vom Hafeneingang entfernt.",
                 "hu": "A buszmegálló csak pár perc séta a kikötő bejáratától.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers de intrarea în port.",
-                "en": "The bus stop is just a few minutes' walk from the marina entrance."
+                "en": "The bus stop is just a few minutes' walk from the marina entrance.",
+                "hr": "Autobusna stanica je udaljena samo nekoliko minuta hoda od ulaza u marinu."
               }
             },
             {
@@ -1911,7 +2135,8 @@
                 "de": "Informieren Sie sich über die Buslinie 60, die häufig entlang der Küste verkehrt.",
                 "hu": "Tájékozódjon a 60-as buszról, amely gyakran közlekedik a part mentén.",
                 "ro": "Informați-vă despre autobuzul 60, care circulă frecvent de-a lungul coastei.",
-                "en": "Check the schedule for bus line 60, which runs frequently along the coast."
+                "en": "Check the schedule for bus line 60, which runs frequently along the coast.",
+                "hr": "Provjerite vozni red za liniju 60 koja često vozi duž obale."
               }
             },
             {
@@ -1927,7 +2152,8 @@
                 "de": "Wählen Sie ein Restaurant in der Nähe einer Haltestelle, um den Regenweg zu verkürzen.",
                 "hu": "Válasszon megálló közeli éttermet, hogy lerövidítse az esőben való gyaloglást.",
                 "ro": "Alegeți un restaurant lângă o stație pentru a scurtat drumul prin ploaie.",
-                "en": "Pick an eatery near a stop to minimize walking in the rain."
+                "en": "Pick an eatery near a stop to minimize walking in the rain.",
+                "hr": "Odaberite restoran blizu stanice kako biste minimizirali hodanje po kiši."
               }
             },
             {
@@ -1943,7 +2169,8 @@
                 "de": "Einige Haltestellen in dieser Gegend sind nicht überdacht; Schirm bereithalten.",
                 "hu": "Néhány megálló ezen a részen nem fedett; tartsa készenlétben az esernyőt.",
                 "ro": "Unele stații din această zonă nu sunt acoperite; țineți umbrela la îndemână.",
-                "en": "Some stops in this area are not covered; keep your umbrella ready."
+                "en": "Some stops in this area are not covered; keep your umbrella ready.",
+                "hr": "Neke stanice na ovom području nisu natkrivene; držite kišobran spremnim."
               }
             },
             {
@@ -1959,7 +2186,8 @@
                 "de": "Die App 'Promet Split' hilft, Busse in Echtzeit zu verfolgen.",
                 "hu": "A 'Promet Split' alkalmazás segít a buszok valós idejű követésében.",
                 "ro": "Aplicația 'Promet Split' ajută la urmărirea autobuzelor în timp real.",
-                "en": "Use the 'Promet Split' app to track buses in real-time and stay dry."
+                "en": "Use the 'Promet Split' app to track buses in real-time and stay dry.",
+                "hr": "Koristite aplikaciju 'Promet Split' za praćenje autobusa u stvarnom vremenu."
               }
             },
             {
@@ -1975,7 +2203,8 @@
                 "de": "Abendbusse sind oft weniger überfüllt und bieten eine ruhige Fahrt.",
                 "hu": "Az esti buszok gyakran kevésbé zsúfoltak, nyugodt utazást kínálnak.",
                 "ro": "Autobuzele de seară sunt adesea mai puțin aglomerate, oferind o călătorie liniștită.",
-                "en": "Evening buses are often less crowded, offering a peaceful ride back."
+                "en": "Evening buses are often less crowded, offering a peaceful ride back.",
+                "hr": "Večernji autobusi često su manje krcati, nudeći mirnu vožnju natrag."
               }
             }
           ],
@@ -2003,6 +2232,12 @@
               "Buses may experience slight delays due to increased traffic in rainy weather.",
               "Wear non-slip shoes for safe boarding and alighting on wet road surfaces.",
               "Use bus shelters for cover but make sure you are visible to the driver as they approach."
+            ],
+            "hr": [
+              "Pripremite sitan novac za vozača autobusa ako ne koristite aplikaciju za karte.",
+              "Autobusi mogu imati blaga kašnjenja zbog pojačanog prometa po kišnom vremenu.",
+              "Nosite obuću koja se ne skliže za siguran ulazak i izlazak na mokrim kolnicima.",
+              "Koristite nadstrešnice na stanicama za zaklon, ali osigurajte da vas vozač vidi dok prilazi."
             ]
           }
         },
@@ -2011,7 +2246,8 @@
             "de": "Winter-Transit in Grljevac ist effizient und bietet warme Fahrten zwischen den Sehenswürdigkeiten. Beginnen Sie an der Marina Lav und nutzen Sie den Bus zum ruhigen Cindro-Sommerhaus. Ein langes Mittagessen in einer warmen Gaststätte verkürzt die Wartezeit auf den nächsten Bus zur St. Martinskirche. Der Nachmittag am friedlichen Strand von Grljevac lässt sich gut mit dem Busfahrplan kombinieren, sodass Sie pünktlich zum frühen Sonnenuntergang an der Küste sind. Der Abend endet mit einer gemütlichen Fahrt im beleuchteten Bus.",
             "hu": "A téli tömegközlekedés Grljevacban hatékony és meleg utazást biztosít a látnivalók között. Kezdje a Marina Lavnál, majd busszal menjen a nyugodt Cindro-nyaralóhoz. Egy hosszú ebéd egy meleg vendéglőben segít kivárni a következő buszt a Szent Márton-templom felé. A délutánt a békés Grljevac strandon töltheti, összehangolva a menetrenddel, hogy a korai naplementére a parton legyen. Az este egy kényelmes utazással zárul a kivilágított buszon.",
             "ro": "Transportul de iarnă în Grljevac este eficient și oferă călătorii calde între atracții. Începeți de la Marina Lav și folosiți autobuzul spre liniștita casă Cindro. Un prânz lung într-un local încălzit vă ajută să așteptați următorul autobuz spre biserica Sf. Martin. După-amiaza pe plaja liniștită poate fi combinată cu orarul autobuzelor pentru a prinde apusul timpuriu. Ziua se încheie cu o călătorie confortabilă într-un autobuz luminat.",
-            "en": "Winter transit in Grljevac is efficient, providing warm rides between the sights. Start at Marina Lav and take the bus to the quiet Cindro summer house. A long lunch in a heated restaurant helps pass the time before the next bus to St. Martin's Church. The afternoon at the peaceful Grljevac beach can be easily timed with the schedule to catch the early sunset. The evening ends with a comfortable ride on a well-lit winter bus."
+            "en": "Winter transit in Grljevac is efficient, providing warm rides between the sights. Start at Marina Lav and take the bus to the quiet Cindro summer house. A long lunch in a heated restaurant helps pass the time before the next bus to St. Martin's Church. The afternoon at the peaceful Grljevac beach can be easily timed with the schedule to catch the early sunset. The evening ends with a comfortable ride on a well-lit winter bus.",
+            "hr": "Zimski javni prijevoz u Grljevcu je učinkovit i pruža tople vožnje između znamenitosti. Krenite od Marine Lav i idite autobusom do mirnog ljetnikovca Cindro. Dugi ručak u grijanom restoranu pomaže skratiti vrijeme do sljedećeg autobusa za crkvu sv. Martina. Popodne na mirnoj plaži Grljevac lako se može uskladiti s voznim redom kako bi se uhvatio rani zalazak sunca. Večer završava udobnom vožnjom u dobro osvijetljenom zimskom autobusu."
           },
           "stops": [
             {
@@ -2027,7 +2263,8 @@
                 "de": "Im Winter sind die Busse oft pünktlicher, da weniger Touristen unterwegs sind.",
                 "hu": "Télen a buszok gyakran pontosabbak, mivel kevesebb a turista.",
                 "ro": "Iarna, autobuzele sunt adesea mai punctuale, fiind mai puțini turiști.",
-                "en": "Buses are often more punctual in winter due to lower tourist traffic."
+                "en": "Buses are often more punctual in winter due to lower tourist traffic.",
+                "hr": "Autobusi su zimi često točniji zbog manjeg turističkog prometa."
               }
             },
             {
@@ -2043,7 +2280,8 @@
                 "de": "Prüfen Sie den Winterfahrplan, da einige Abendkurse entfallen könnten.",
                 "hu": "Ellenőrizze a téli menetrendet, mert néhány esti járat kimaradhat.",
                 "ro": "Verificați orarul de iarnă, deoarece unele curse de seară pot fi anulate.",
-                "en": "Check the winter schedule as some late-evening services might be reduced."
+                "en": "Check the winter schedule as some late-evening services might be reduced.",
+                "hr": "Provjerite zimski vozni red jer neke kasnovečernje linije mogu biti reducirane."
               }
             },
             {
@@ -2059,7 +2297,8 @@
                 "de": "Genießen Sie die Wärme im Bus nach einem kühlen Spaziergang zum Restaurant.",
                 "hu": "Élvezze a meleget a buszon egy hűvös séta után az étteremig.",
                 "ro": "Bucurați-vă de căldura din autobuz după o plimbare răcoroasă spre restaurant.",
-                "en": "Enjoy the warmth of the bus after a brisk walk to the restaurant."
+                "en": "Enjoy the warmth of the bus after a brisk walk to the restaurant.",
+                "hr": "Uživajte u toplini autobusa nakon brze šetnje do restorana."
               }
             },
             {
@@ -2075,7 +2314,8 @@
                 "de": "Die Haltestellen sind im Winter oft sehr einsam; haben Sie ein Handy dabei.",
                 "hu": "A megállók télen gyakran elhagyatottak; legyen Önnél mobiltelefon.",
                 "ro": "Stațiile sunt adesea pustii iarna; asigurați-vă că aveți telefonul la dvs.",
-                "en": "Bus stops can be very lonely in winter; make sure you have a charged phone."
+                "en": "Bus stops can be very lonely in winter; make sure you have a charged phone.",
+                "hr": "Autobusne stanice zimi mogu biti vrlo osamljene; pobrinite se da imate napunjen telefon."
               }
             },
             {
@@ -2091,7 +2331,8 @@
                 "de": "Planen Sie die Rückfahrt vor 17:00 Uhr, um nicht im Dunkeln zu warten.",
                 "hu": "Tervezze a visszautat 17:00 előttre, hogy ne a sötétben kelljen várnia.",
                 "ro": "Planificați întoarcerea înainte de ora 17:00 pentru a nu aștepta în întuneric.",
-                "en": "Plan your return before 5 PM to avoid waiting for the bus in the dark."
+                "en": "Plan your return before 5 PM to avoid waiting for the bus in the dark.",
+                "hr": "Planirajte povratak prije 17 sati kako biste izbjegli čekanje autobusa u mraku."
               }
             },
             {
@@ -2107,7 +2348,8 @@
                 "de": "Die Busse sind im Winter gut beheizt und bieten eine gemütliche Rückfahrt.",
                 "hu": "A buszok télen jól fűtöttek, kényelmes visszautat biztosítanak.",
                 "ro": "Autobuzele sunt bine încălzite iarna, oferind o călătorie confortabilă înapoi.",
-                "en": "Buses are well-heated in winter, making for a very cozy ride back home."
+                "en": "Buses are well-heated in winter, making for a very cozy ride back home.",
+                "hr": "Autobusi su zimi dobro grijani, što vožnju natrag čini vrlo ugodnom."
               }
             }
           ],
@@ -2135,6 +2377,12 @@
               "Bus windows often fog up in winter; wipe a small spot to enjoy the coastal view.",
               "Use the transit app to minimize your time spent waiting outside in the cold.",
               "During the blue hour, the bus ride along the shore offers beautiful light and views."
+            ],
+            "hr": [
+              "Toplo se odjenite jer čekanje na nenatkritim stanicama može biti vrlo hladno.",
+              "Prozori autobusa zimi se često zamagle; obrišite mali dio za pogled na obalu.",
+              "Koristite aplikaciju za prijevoz kako biste minimizirali vrijeme čekanja vani na hladnoći.",
+              "Tijekom 'plavog sata', vožnja autobusom uz obalu nudi prekrasno svjetlo i vidike."
             ]
           }
         }

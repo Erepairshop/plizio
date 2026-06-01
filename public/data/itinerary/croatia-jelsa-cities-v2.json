@@ -31,7 +31,8 @@
             "de": "Genießen Sie einen Kaffee am Wasser, während die Fischerboote einlaufen.",
             "hu": "Igyon meg egy kávét a parton, miközben nézi a behajózó halászbárkákat.",
             "ro": "Savurați o cafea lângă apă în timp ce bărcile de pescuit intră în port.",
-            "en": "Enjoy a coffee by the water as the fishing boats come into the harbor."
+            "en": "Enjoy a coffee by the water as the fishing boats come into the harbor.",
+            "hr": "Uživajte u kavi uz more dok ribarski brodovi ulaze u luku."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Einer der größten und schönsten Parks in Dalmatien mit üppiger Vegetation.",
             "hu": "Dalmácia egyik legnagyobb és legszebb parkja buja mediterrán növényzettel.",
             "ro": "Unul dintre cele mai mari și frumoase parcuri din Dalmația, cu vegetație luxuriantă.",
-            "en": "One of the largest and most beautiful parks in Dalmatia with lush vegetation."
+            "en": "One of the largest and most beautiful parks in Dalmatia with lush vegetation.",
+            "hr": "Jedan od najvećih i najljepših parkova u Dalmaciji s bujnom vegetacijom."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ein charmanter kleiner Platz mit Renaissance- und Barockelementen.",
             "hu": "Bájos kis tér reneszánsz és barokk építészeti elemekkel.",
             "ro": "O piață mică și fermecătoare cu elemente renascentiste și baroce.",
-            "en": "A charming small square featuring Renaissance and Baroque elements."
+            "en": "A charming small square featuring Renaissance and Baroque elements.",
+            "hr": "Šarmantan mali trg s renesansnim i baroknim elementima."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Eine beeindruckende Wehrkirche, die im 16. Jahrhundert umgebaut wurde.",
             "hu": "Lenyűgöző erődtemplom, amelyet a 16. században építettek át.",
             "ro": "O biserică fortificată impresionantă, reconstruită în secolul al XVI-lea.",
-            "en": "An impressive fortified church, rebuilt in the 16th century."
+            "en": "An impressive fortified church, rebuilt in the 16th century.",
+            "hr": "Impresivna utvrđena crkva, obnovljena u 16. stoljeću."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Probieren Sie lokalen Fisch mit hausgemachtem Olivenöl aus Hvar.",
             "hu": "Kóstolja meg a helyi halételeket házi hvari olívaolajjal.",
             "ro": "Gustați peștele local cu ulei de măsline de casă din Hvar.",
-            "en": "Try local fish with homemade Hvar olive oil."
+            "en": "Try local fish with homemade Hvar olive oil.",
+            "hr": "Probajte domaću ribu s hvarskim maslinovim uljem."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein flacher Sandstrand, ideal für eine entspannte Pause im klaren Wasser.",
             "hu": "Lassan mélyülő homokos strand, ideális egy pihentető fürdőzéshez.",
             "ro": "O plajă cu nisip puțin adâncă, ideală pentru o pauză relaxantă în apă.",
-            "en": "A shallow sandy beach, ideal for a relaxing break in clear water."
+            "en": "A shallow sandy beach, ideal for a relaxing break in clear water.",
+            "hr": "Plitka pješčana plaža, idealna za opuštanje u čistom moru."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Beobachten Sie, wie die Sonne hinter den Hügeln von Hvar untergeht.",
             "hu": "Nézze végig, ahogy a nap eltűnik a hvari dombok mögött.",
             "ro": "Urmăriți apusul soarelui în spatele dealurilor din Hvar.",
-            "en": "Watch the sun dip behind the Hvar hills."
+            "en": "Watch the sun dip behind the Hvar hills.",
+            "hr": "Gledajte kako sunce zalazi iza hvarskih brda."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Der Tag beginnt entspannt an der Riva von Jelsa, wo das mediterrane Flair sofort spürbar ist. Ein Spaziergang durch den Perivoj-Park bietet Schatten und Ruhe, bevor Sie die historischen Schätze wie den St.-Johannes-Platz und die beeindruckende Marienkirche erkunden. Der Nachmittag gehört dem Strand, gefolgt von einem authentischen Abendessen am Hafen.",
         "hu": "A nap Jelsa hangulatos kikötőjében indul, ahol azonnal magával ragadja a mediterrán életérzés. A Perivoj park árnyas sétányai után felfedezzük a Szent János teret és az erődtemplomot. A délutánt a Mina-strandon töltjük mártózással, majd egy tengerparti vacsorával és naplementével zárjuk a napot.",
         "ro": "Ziua începe relaxat pe faleza din Jelsa, unde atmosfera mediteraneană este imediat sesizabilă. O plimbare prin parcul Perivoj oferă umbră și liniște înainte de a explora comorile istorice, precum Piața Sfântul Ioan și biserica fortificată. După-amiaza este dedicată plajei, urmată de o cină autentică în port.",
-        "en": "The day starts peacefully on Jelsa's waterfront, where the Mediterranean vibe is instantly felt. A stroll through Perivoj park offers shade before exploring historical gems like St. John's Square and the fortified church. The afternoon is reserved for the beach, followed by an authentic harbor-side dinner at sunset."
+        "en": "The day starts peacefully on Jelsa's waterfront, where the Mediterranean vibe is instantly felt. A stroll through Perivoj park offers shade before exploring historical gems like St. John's Square and the fortified church. The afternoon is reserved for the beach, followed by an authentic harbor-side dinner at sunset.",
+        "hr": "Dan počinje mirno na rivi u Jelsi, gdje se odmah osjeća mediteranski ugođaj. Šetnja parkom Perivoj nudi hlad prije istraživanja povijesnih dragulja poput Trga sv. Ivana i utvrđene crkve. Poslijepodne je rezervirano za plažu, a dan završava autentičnom večerom uz luku pri zalasku sunca."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Konoba Nono",
             "tip": "Excellent 'peka' dishes in a rustic setting."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Gregada",
+            "tip": "Tradicionalni hvarski riblji složenac s krumpirom."
+          },
+          {
+            "name": "Konoba Nono",
+            "tip": "Izvrsna jela pod pekom u rustikalnom ambijentu."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "Peaceful spot away from the crowds.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Perivoj Park",
+            "tip": "Mirno utočište pod starim stablima.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kapela sv. Ivana",
+            "tip": "Mirno mjesto podalje od gužve.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -281,6 +311,16 @@
             "name": "Lavender Stalls",
             "tip": "Handmade lavender bags from Hvar."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica",
+            "tip": "Svježe voće i domaće maslinovo ulje."
+          },
+          {
+            "name": "Štandovi s levandom",
+            "tip": "Ručno rađene vrećice lavande s Hvara."
+          }
         ]
       },
       "tips": {
@@ -307,6 +347,12 @@
           "Mina bay is well protected from wind and very shallow.",
           "Try the local white wine called Bogdanuša.",
           "Visit the church in the morning for the best light."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za kamene ulice u centru.",
+          "Uvala Mina je dobro zaštićena od vjetra i vrlo plitka.",
+          "Probajte lokalno bijelo vino Bogdanuša.",
+          "Posjetite crkvu ujutro zbog najboljeg svjetla."
         ]
       },
       "variants": {
@@ -315,7 +361,8 @@
             "de": "Der Regen verleiht der Riva von Jelsa einen besonderen Glanz, während der Duft von Pinien intensiver wird. Den Vormittag verbringen wir unter den Arkaden am Hafen und im geschützten Perivoj-Park. Mittags wärmen wir uns bei einer langen Mahlzeit in einer gemütlichen Konoba auf. Der Nachmittag gehört der Architektur der Marienkirche, bevor wir den Tag bei einem Glas Plavac-Wein mit Blick auf das graue, aber majestätische Meer ausklingen lassen.",
             "hu": "Az eső különleges fényt ad a jelsai Rivának, miközben a fenyők illata felerősödik. A délelőttöt a kikötő árkádjai alatt és a védettebb Perivoj parkban töltjük. Ebédidőben egy hangulatos konobában melegszünk fel egy hosszú, tartalmas étkezéssel. A délután a Mária-templom építészetéé, mielőtt a napot egy pohár Plavac borral zárnánk, nézve a szürke, de fenséges tengert.",
             "ro": "Ploaia oferă Rivei din Jelsa o strălucire aparte, în timp ce mirosul de pini devine mai intens. Petrecem dimineața sub arcadele portului și în parcul protejat Perivoj. La prânz, ne încălzim cu o masă lungă într-o konoba primitoare. După-amiaza este dedicată arhitecturii Bisericii Sfânta Maria, înainte de a încheia ziua cu un pahar de vin Plavac, privind marea gri, dar maiestuoasă.",
-            "en": "The rain gives Jelsa's Riva a special glow while the scent of pine needles intensifies. We spend the morning under the harbor arcades and in the sheltered Perivoj Park. At lunchtime, we warm up with a long meal in a cozy konoba. The afternoon is dedicated to the architecture of St. Mary's Church, before ending the day with a glass of Plavac wine, watching the grey but majestic sea."
+            "en": "The rain gives Jelsa's Riva a special glow while the scent of pine needles intensifies. We spend the morning under the harbor arcades and in the sheltered Perivoj Park. At lunchtime, we warm up with a long meal in a cozy konoba. The afternoon is dedicated to the architecture of St. Mary's Church, before ending the day with a glass of Plavac wine, watching the grey but majestic sea.",
+            "hr": "Kiša daje jelsanskoj rivi poseban sjaj, dok se miris borovih iglica intenzivira. Jutro provodimo pod arkadama luke i u zaštićenom Perivoju. Za ručak se grijemo uz dugi obrok u ugodnoj konobi. Poslijepodne je posvećeno arhitekturi crkve sv. Marije, prije nego što dan završimo uz čašu plavca, promatrajući sivo, ali veličanstveno more."
           },
           "stops": [
             {
@@ -324,7 +371,8 @@
                 "de": "Suchen Sie Schutz unter den Markisen der Cafés; der Steinboden ist bei Nässe sehr rutschig.",
                 "hu": "Keressen menedéket a kávézók napellenzői alatt; a kőburkolat vizesen nagyon csúszik.",
                 "ro": "Căutați adăpost sub copertinele cafenelelor; pavajul de piatră este foarte alunecos când e ud.",
-                "en": "Seek shelter under cafe awnings; the stone pavement is very slippery when wet."
+                "en": "Seek shelter under cafe awnings; the stone pavement is very slippery when wet.",
+                "hr": "Potražite zaklon pod tendama kafića; kameni pločnik je vrlo sklizak kad je mokar."
               }
             },
             {
@@ -333,7 +381,8 @@
                 "de": "Die dichten Baumkronen bieten natürlichen Schutz vor leichtem Nieselregen.",
                 "hu": "A sűrű lombkoronák természetes védelmet nyújtanak az enyhe szemerkélő eső ellen.",
                 "ro": "Coroanele dese ale copacilor oferă protecție naturală împotriva ploii ușoare.",
-                "en": "The thick tree canopies provide natural protection against light drizzle."
+                "en": "The thick tree canopies provide natural protection against light drizzle.",
+                "hr": "Guste krošnje drveća pružaju prirodnu zaštitu od lagane kišice."
               }
             },
             {
@@ -342,7 +391,8 @@
                 "de": "Genießen Sie einen Kaffee in einer der überdachten Bars am Platz.",
                 "hu": "Élvezzen egy kávét a tér egyik fedett bárjában.",
                 "ro": "Savurați o cafea într-unul dintre barurile acoperite din piață.",
-                "en": "Enjoy a coffee in one of the covered bars on the square."
+                "en": "Enjoy a coffee in one of the covered bars on the square.",
+                "hr": "Uživajte u kavi u jednom od natkrivenih barova na trgu."
               }
             },
             {
@@ -351,7 +401,8 @@
                 "de": "Ein idealer, trockener Ort, um die festungsartige Architektur in Ruhe zu bewundern.",
                 "hu": "Ideális, száraz hely az erődtemplom építészetének nyugodt megcsodálásához.",
                 "ro": "Un loc ideal și uscat pentru a admira în liniște arhitectura de tip fortăreață.",
-                "en": "An ideal, dry place to admire the fortress-like architecture in peace."
+                "en": "An ideal, dry place to admire the fortress-like architecture in peace.",
+                "hr": "Idealno, suho mjesto za mirno divljenje utvrđenoj arhitekturi."
               }
             },
             {
@@ -360,7 +411,8 @@
                 "de": "Fragen Sie nach 'Peka' – das Gericht braucht Zeit und passt perfekt zum Wetter.",
                 "hu": "Kérdezzen rá a peka-ra – az étel elkészítése időt igényel, és tökéletesen illik az esőhöz.",
                 "ro": "Întrebați de 'peka' – preparatul necesită timp și se potrivește perfect cu vremea.",
-                "en": "Ask for 'peka' – the dish takes time and fits the rainy weather perfectly."
+                "en": "Ask for 'peka' – the dish takes time and fits the rainy weather perfectly.",
+                "hr": "Naručite peku – jelo zahtijeva vrijeme i savršeno odgovara kišnom vremenu."
               }
             },
             {
@@ -369,7 +421,8 @@
                 "de": "Der Strand ist verlassen; beobachten Sie das Spiel der Regentropfen auf dem Meer.",
                 "hu": "A strand elhagyatott; figyelje az esőcseppek játékát a tengerfelszínen.",
                 "ro": "Plaja este pustie; observați jocul picăturilor de ploaie pe suprafața mării.",
-                "en": "The beach is deserted; watch the raindrops dance on the sea surface."
+                "en": "The beach is deserted; watch the raindrops dance on the sea surface.",
+                "hr": "Plaža je pusta; promatrajte kako kapi kiše plešu na površini mora."
               }
             },
             {
@@ -378,7 +431,8 @@
                 "de": "Die Wolkenformationen bieten oft dramatischere Farben als ein klarer Himmel.",
                 "hu": "A felhőalakzatok gyakran drámaibb színeket produkálnak, mint a tiszta égbolt.",
                 "ro": "Formațiunile de nori oferă adesea culori mai dramatice decât un cer senin.",
-                "en": "Cloud formations often produce more dramatic colors than a clear sky."
+                "en": "Cloud formations often produce more dramatic colors than a clear sky.",
+                "hr": "Formacije oblaka često stvaraju dramatičnije boje nego vedro nebo."
               }
             }
           ],
@@ -406,6 +460,12 @@
               "Take advantage of rain breaks for photos; the colors of the stone houses are more saturated.",
               "Most konobas in the center have covered terraces or cozy interiors.",
               "An umbrella is less effective on the windy Riva than a solid rain poncho."
+            ],
+            "hr": [
+              "Nosite obuću koja dobro prianja, jer je polirani vapnenac izuzetno sklizak kad pada kiša.",
+              "Iskoristite pauze u kiši za fotografiranje; boje kamenih kuća su tada zasićenije.",
+              "Većina konoba u centru ima natkrivene terase ili ugodne interijere.",
+              "Kišobran je na vjetrovitoj rivi manje učinkovit od kvalitetne kabanice."
             ]
           }
         },
@@ -414,7 +474,8 @@
             "de": "Im Winter zeigt Jelsa sein authentisches Gesicht ohne die Sommertouristen. Die Luft ist nach der Bura kristallklar und die Sonne wärmt mittags angenehm auf dem Trg svetog Ivana. Wir spazieren durch den ruhigen Park und bewundern die trutzige Marienkirche. Der Nachmittag in der Konoba wird von lokalen Spezialitäten geprägt, während die Sonne bereits früh hinter den Hügeln verschwindet und die Riva in kühles, blaues Licht taucht.",
             "hu": "Télen Jelsa az autentikus arcát mutatja a nyári turisták nélkül. A levegő a bóra után kristálytiszta, a nap pedig délben kellemesen melegít a Szent János téren. Végigsétálunk a csendes parkon és megcsodáljuk a robusztus Mária-templomot. A délutánt a konobában a helyi specialitások határozzák meg, miközben a nap korán eltűnik a dombok mögött, hűvös kék fénybe vonva a Rivát.",
             "ro": "Iarna, Jelsa își arată chipul autentic, fără turiștii de vară. Aerul este cristalizat după Bura, iar soarele încălzește plăcut la prânz în Piața Sfântul Ioan. Ne plimbăm prin parcul liniștit și admirăm biserica fortificată Sfânta Maria. După-amiaza în konoba este marcată de specialități locale, în timp ce soarele apune devreme după dealuri, scufundând Riva într-o lumină albastră și rece.",
-            "en": "In winter, Jelsa shows its authentic face without the summer crowds. The air is crystal clear after the Bura wind, and the sun warms pleasantly at noon on St. John's Square. We stroll through the quiet park and admire the sturdy St. Mary's Church. The afternoon in the konoba is defined by local specialties, as the sun sets early behind the hills, bathing the Riva in cool, blue light."
+            "en": "In winter, Jelsa shows its authentic face without the summer crowds. The air is crystal clear after the Bura wind, and the sun warms pleasantly at noon on St. John's Square. We stroll through the quiet park and admire the sturdy St. Mary's Church. The afternoon in the konoba is defined by local specialties, as the sun sets early behind the hills, bathing the Riva in cool, blue light.",
+            "hr": "Zimi Jelsa pokazuje svoje autentično lice bez ljetnih gužvi. Zrak je kristalno čist nakon bure, a sunce ugodno grije u podne na Trgu sv. Ivana. Šetamo mirnim parkom i divimo se snažnoj crkvi sv. Marije. Poslijepodne u konobi određuju domaći specijaliteti, dok sunce rano zalazi iza brda, kupajući rivu u hladnom, plavom svjetlu."
           },
           "stops": [
             {
@@ -423,7 +484,8 @@
                 "de": "Achten Sie auf den Bura-Wind; eine winddichte Jacke ist hier unverzichtbar.",
                 "hu": "Vigyázzon a bóra széllel; egy szélálló dzseki itt elengedhetetlen.",
                 "ro": "Atenție la vântul Bura; o jachetă rezistentă la vânt este indispensabilă aici.",
-                "en": "Watch out for the Bura wind; a windproof jacket is essential here."
+                "en": "Watch out for the Bura wind; a windproof jacket is essential here.",
+                "hr": "Čuvajte se bure; vjetrootporna jakna ovdje je neophodna."
               }
             },
             {
@@ -432,7 +494,8 @@
                 "de": "Die Kamelien blühen oft schon im späten Winter; halten Sie Ausschau danach.",
                 "hu": "A kaméliák gyakran már tél végén virágoznak; keresse őket a kertben.",
                 "ro": "Cameliile înfloresc adesea încă de la sfârșitul iernii; căutați-le în grădină.",
-                "en": "Camellias often bloom as early as late winter; keep an eye out for them."
+                "en": "Camellias often bloom as early as late winter; keep an eye out for them.",
+                "hr": "Kamelije često cvjetaju već krajem zime; obratite pažnju na njih."
               }
             },
             {
@@ -441,7 +504,8 @@
                 "de": "Die Cafés in der Sonne sind der Treffpunkt der Einheimischen.",
                 "hu": "A napsütötte kávézók a helyiek találkozóhelyei ilyenkor.",
                 "ro": "Cafenelele la soare sunt locul de întâlnire al localnicilor.",
-                "en": "The cafes in the sun are the local meeting points during this time."
+                "en": "The cafes in the sun are the local meeting points during this time.",
+                "hr": "Kafići na suncu u ovo su vrijeme lokalna mjesta susreta."
               }
             },
             {
@@ -450,7 +514,8 @@
                 "de": "Das Innere bietet Schutz vor dem kalten Wind; oft finden Proben lokaler Chöre statt.",
                 "hu": "A belső tér védelmet nyújt a hideg szél ellen; gyakran hallhatók helyi kórusok próbái.",
                 "ro": "Interiorul oferă protecție împotriva vântului rece; adesea au loc repetiții ale corurilor locale.",
-                "en": "The interior provides shelter from the cold wind; local choir rehearsals often take place."
+                "en": "The interior provides shelter from the cold wind; local choir rehearsals often take place.",
+                "hr": "Unutrašnjost nudi zaklon od hladnog vjetra; često se održavaju probe lokalnih zborova."
               }
             },
             {
@@ -459,7 +524,8 @@
                 "de": "Probieren Sie 'Hvarska gregada', einen wärmenden Fischeintopf.",
                 "hu": "Kóstolja meg a hvarska gregada-t, ami egy melengető halragu.",
                 "ro": "Încercați 'Hvarska gregada', o tocană de pește care vă va încălzi.",
-                "en": "Try 'Hvarska gregada', a warming fish stew."
+                "en": "Try 'Hvarska gregada', a warming fish stew.",
+                "hr": "Probajte hvarsku gregadu, jelo koje će vas ugrijati."
               }
             },
             {
@@ -468,7 +534,8 @@
                 "de": "Perfekt für einen meditativen Spaziergang am leeren Ufer.",
                 "hu": "Tökéletes egy meditatív sétához az üres tengerparton.",
                 "ro": "Perfect pentru o plimbare meditativă pe malul pustiu.",
-                "en": "Perfect for a meditative walk along the empty shore."
+                "en": "Perfect for a meditative walk along the empty shore.",
+                "hr": "Savršeno za meditativnu šetnju praznom obalom."
               }
             },
             {
@@ -477,7 +544,8 @@
                 "de": "Der Sonnenuntergang findet bereits gegen 16:30 Uhr statt.",
                 "hu": "A naplemente már 16:30 körül bekövetkezik.",
                 "ro": "Apusul are loc deja în jurul orei 16:30.",
-                "en": "The sunset occurs as early as 4:30 PM."
+                "en": "The sunset occurs as early as 4:30 PM.",
+                "hr": "Zalazak sunca događa se već oko 16:30."
               }
             }
           ],
@@ -505,6 +573,12 @@
               "Many small souvenir shops are closed, but local oil mills are often open.",
               "Ferries run less frequently; check the schedule for the return journey in advance.",
               "The 'blue hour' after sunset is particularly color-intensive in winter."
+            ],
+            "hr": [
+              "Slojevita odjeća je ključna: sunce grije, ali hladovina na vjetru je ledena.",
+              "Mnoge male suvenirnice su zatvorene, ali lokalne uljare su često otvorene.",
+              "Trajekti plove rjeđe; unaprijed provjerite raspored za povratak.",
+              "\"Plavi sat\" nakon zalaska sunca zimi je posebno intenzivnih boja."
             ]
           }
         }
@@ -533,7 +607,8 @@
             "de": "Parken Sie am Hafen und erkunden Sie den Platz und die Marienkirche zu Fuß.",
             "hu": "Parkoljon a kikötőben, és fedezze fel a teret és a templomot gyalog.",
             "ro": "Parcați în port și explorați piața și biserica pe jos.",
-            "en": "Park at the harbor and explore the square and the church on foot."
+            "en": "Park at the harbor and explore the square and the church on foot.",
+            "hr": "Parkirajte u luci i pješice istražite trg i crkvu."
           }
         },
         {
@@ -551,7 +626,8 @@
             "de": "Ein fast verlassenes Steindorf aus dem 15. Jahrhundert mit Panoramablick.",
             "hu": "Szinte elhagyatott 15. századi kőfalu panorámás kilátással.",
             "ro": "Un sat de piatră din secolul al XV-lea, aproape abandonat, cu vedere panoramică.",
-            "en": "An almost abandoned 15th-century stone village with panoramic views."
+            "en": "An almost abandoned 15th-century stone village with panoramic views.",
+            "hr": "Gotovo napušteno kameno selo iz 15. stoljeća s panoramskim pogledom."
           }
         },
         {
@@ -569,7 +645,8 @@
             "de": "Bedeutende prähistorische Fundstätte in einer faszinierenden Höhle.",
             "hu": "Jelentős őskori leleteket rejtő barlang lenyűgöző cseppkövekkel.",
             "ro": "Situl preistoric important situat într-o peșteră fascinantă.",
-            "en": "Significant prehistoric site located in a fascinating cave."
+            "en": "Significant prehistoric site located in a fascinating cave.",
+            "hr": "Značajno prapovijesno nalazište u fascinantnoj špilji."
           }
         },
         {
@@ -587,7 +664,8 @@
             "de": "Authentische Agrotourismus-Küche in einem urigen Steinhaus.",
             "hu": "Autentikus agroturizmus-konyha egy régi kőházban.",
             "ro": "Bucătărie agroturistică autentică într-o casă de piatră veche.",
-            "en": "Authentic agritourism cuisine in a rustic stone house."
+            "en": "Authentic agritourism cuisine in a rustic stone house.",
+            "hr": "Autentična agroturistička kuhinja u rustikalnoj kamenoj kući."
           }
         },
         {
@@ -605,7 +683,8 @@
             "de": "Kurzer Stopp zum Abkühlen im Meer nach der Besichtigungstour.",
             "hu": "Gyors mártózás a tengerben a kirándulás után.",
             "ro": "Oprire scurtă pentru răcorire în mare după turul de vizitare.",
-            "en": "Quick stop to cool off in the sea after the sightseeing tour."
+            "en": "Quick stop to cool off in the sea after the sightseeing tour.",
+            "hr": "Kratko zaustavljanje za osvježenje u moru nakon obilaska."
           }
         }
       ],
@@ -613,7 +692,8 @@
         "de": "Mit dem Auto verbinden wir das Küstenflair von Jelsa mit der wilden Schönheit des Hinterlandes. Nach einem Vormittag in der Stadt fahren wir zum historischen Steindorf Humac und zur Grapčeva-Höhle, die einen Einblick in die prähistorische Zeit bietet. Ein spätes Mittagessen in Humac rundet das ländliche Erlebnis ab, bevor wir für ein Bad zurückkehren.",
         "hu": "Autóval összekötjük Jelsa tengerparti hangulatát a belső területek vadregényes szépségével. A városi délelőtt után a 15. századi Humac kőfalujába és a Grapčeva-barlangba látogatunk, ahol őskori leleteket is találtak. Egy késői ebéd az agroturizmus keretében teszi teljessé az élményt a tengerparti visszatérés előtt.",
         "ro": "Cu mașina conectăm farmecul de coastă al Jelsei cu frumusețea sălbatică a interiorului insulei. După o dimineață în oraș, mergem în satul istoric Humac și la peștera Grapčeva, care oferă o privire în epoca preistorică. Un prânz târziu în Humac completează experiența rurală înainte de a ne întoarce la mare.",
-        "en": "By car, we combine Jelsa's coastal vibe with the rugged beauty of the inland. After a morning in town, we drive to the historic stone village of Humac and Grapčeva Cave, offering a glimpse into prehistoric times. A late lunch in Humac completes the rural experience before returning for a quick swim."
+        "en": "By car, we combine Jelsa's coastal vibe with the rugged beauty of the inland. After a morning in town, we drive to the historic stone village of Humac and Grapčeva Cave, offering a glimpse into prehistoric times. A late lunch in Humac completes the rural experience before returning for a quick swim.",
+        "hr": "Automobilom spajamo obalni ugođaj Jelse s krševitom ljepotom unutrašnjosti. Nakon jutra u gradu, vozimo se do povijesnog kamenog sela Humac i Grapčeve špilje, koja nudi uvid u prapovijesno doba. Kasni ručak u Humcu upotpunjuje ruralni doživljaj prije povratka na brzo kupanje."
       },
       "gastro_picks": {
         "de": [
@@ -638,6 +718,12 @@
           {
             "name": "Agroturizam Humac",
             "tip": "Try the lamb prepared under the iron bell (peka)."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Agroturizam Humac",
+            "tip": "Probajte janjetinu pripremljenu pod pekom."
           }
         ]
       },
@@ -669,6 +755,13 @@
             "tip": "Absolute silence and wide views over the Adriatic.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Napušteni Humac",
+            "tip": "Apsolutna tišina i široki vidici na Jadran.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -694,6 +787,12 @@
           {
             "name": "Homemade Wine",
             "tip": "Buy wine directly from producers in Humac."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Domaće vino",
+            "tip": "Kupite vino izravno od proizvođača u Humcu."
           }
         ]
       },
@@ -721,6 +820,12 @@
           "Sturdy footwear is required for Grapčeva Cave.",
           "Book your meal in Humac in advance.",
           "Be careful on the narrow mountain roads."
+        ],
+        "hr": [
+          "Cesta za Humac nudi sjajne prilike za fotografiranje.",
+          "Čvrsta obuća je obavezna za Grapčevu špilju.",
+          "Rezervirajte obrok u Humcu unaprijed.",
+          "Budite oprezni na uskim planinskim cestama."
         ]
       },
       "variants": {
@@ -729,7 +834,8 @@
             "de": "Mit dem Auto erkunden wir das Hinterland von Hvar, das im Regen fast mystisch wirkt. Von Jelsa fahren wir in das verlassene Steindorf Humac, wo die grauen Mauern perfekt mit dem Wolkenhimmel harmonieren. Die Grapčeva-Höhle bietet eine natürliche Flucht vor dem Wetter. Mittags genießen wir die urige Atmosphäre am offenen Kamin in Humac, bevor wir über die Küstenstraße zurückkehren, während die Wellen gegen die Felsen peitschen.",
             "hu": "Autóval fedezzük fel Hvar hátországát, amely az esőben szinte misztikusnak tűnik. Jelsából az elhagyatott kőfaluba, Humacba autózunk, ahol a szürke falak tökéletesen harmonizálnak a felhős éggel. A Grapčeva-barlang természetes menedéket nyújt az időjárás elől. Ebédre Humacban a nyitott kandalló melletti autentikus hangulatot élvezzük, majd a tengerparti úton térünk vissza, miközben a hullámok a szikláknak csapódnak.",
             "ro": "Cu mașina explorăm interiorul insulei Hvar, care pare aproape mistic în ploaie. Din Jelsa conducem spre satul de piatră părăsit Humac, unde zidurile gri armonizează perfect cu cerul înnorat. Peștera Grapčeva oferă o evadare naturală din calea vremii. La prânz, ne bucurăm de atmosfera rustică de lângă șemineul deschis din Humac, înainte de a ne întoarce pe drumul de coastă, în timp ce valurile se sparg de stânci.",
-            "en": "By car, we explore Hvar's hinterland, which looks almost mystical in the rain. From Jelsa, we drive to the abandoned stone village of Humac, where the grey walls harmonize perfectly with the cloudy sky. Grapčeva Cave offers a natural escape from the weather. At lunch, we enjoy the rustic atmosphere by the open fireplace in Humac, before returning via the coastal road as the waves crash against the rocks."
+            "en": "By car, we explore Hvar's hinterland, which looks almost mystical in the rain. From Jelsa, we drive to the abandoned stone village of Humac, where the grey walls harmonize perfectly with the cloudy sky. Grapčeva Cave offers a natural escape from the weather. At lunch, we enjoy the rustic atmosphere by the open fireplace in Humac, before returning via the coastal road as the waves crash against the rocks.",
+            "hr": "Automobilom istražujemo hvarsko zaleđe koje na kiši izgleda gotovo mistično. Iz Jelse vozimo do napuštenog sela Humac, gdje se sivi zidovi savršeno stapaju s oblačnim nebom. Grapčeva špilja nudi prirodni bijeg od nevremena. Uz ručak uživamo u rustikalnoj atmosferi uz otvoreni kamin u Humcu, prije povratka obalnom cestom dok valovi udaraju o stijene."
           },
           "stops": [
             {
@@ -738,7 +844,8 @@
                 "de": "Parken Sie in Hafennähe und nutzen Sie kurze Wege zwischen den Sehenswürdigkeiten.",
                 "hu": "Parkoljon a kikötő közelében, és használja a látnivalók közötti rövid útvonalakat.",
                 "ro": "Parcați lângă port și folosiți traseele scurte între atracții.",
-                "en": "Park near the harbor and use short paths between the sights."
+                "en": "Park near the harbor and use short paths between the sights.",
+                "hr": "Parkirajte blizu luke i koristite kratke putove između znamenitosti."
               }
             },
             {
@@ -747,7 +854,8 @@
                 "de": "Das Steindorf wirkt bei Regen besonders dramatisch; ideal für stimmungsvolle Fotos.",
                 "hu": "A kőfalu esőben különösen drámai; ideális hangulatos fotókhoz.",
                 "ro": "Satul de piatră pare deosebit de dramatic în ploaie; ideal pentru fotografii atmosferice.",
-                "en": "The stone village looks particularly dramatic in the rain; ideal for atmospheric photos."
+                "en": "The stone village looks particularly dramatic in the rain; ideal for atmospheric photos.",
+                "hr": "Kameno selo izgleda posebno dramatično na kiši; idealno za atmosferične fotografije."
               }
             },
             {
@@ -756,7 +864,8 @@
                 "de": "Ein natürliches Dach, aber der Zugangsweg kann rutschig sein; festes Schuhwerk!",
                 "hu": "Természetes tető, de a bevezető út csúszós lehet; viseljen túracipőt!",
                 "ro": "Un acoperiș natural, dar poteca de acces poate fi alunecoasă; purtați încălțăminte solidă!",
-                "en": "A natural roof, but the access path can be slippery; wear sturdy shoes!"
+                "en": "A natural roof, but the access path can be slippery; wear sturdy shoes!",
+                "hr": "Prirodni krov, ali pristupna staza može biti skliska; nosite čvrstu obuću!"
               }
             },
             {
@@ -765,7 +874,8 @@
                 "de": "Der Kaminofen sorgt für die gemütlichste Pause auf der ganzen Insel.",
                 "hu": "A kandalló biztosítja a legkellemesebb pihenőt az egész szigeten.",
                 "ro": "Șemineul asigură cea mai confortabilă pauză de pe întreaga insulă.",
-                "en": "The fireplace provides the coziest break on the entire island."
+                "en": "The fireplace provides the coziest break on the entire island.",
+                "hr": "Kamin pruža najugodniji odmor na cijelom otoku."
               }
             },
             {
@@ -774,7 +884,8 @@
                 "de": "Genießen Sie den Blick auf das Meer direkt vom warmen Auto aus.",
                 "hu": "Élvezze a tengerre nyíló kilátást közvetlenül a meleg autóból.",
                 "ro": "Bucurați-vă de priveliștea mării direct din mașina caldă.",
-                "en": "Enjoy the sea view directly from the warmth of your car."
+                "en": "Enjoy the sea view directly from the warmth of your car.",
+                "hr": "Uživajte u pogledu na more iz topline vašeg automobila."
               }
             }
           ],
@@ -802,6 +913,12 @@
               "Check if Grapčeva Cave is accessible during heavy rain (ask local guides).",
               "Parking spaces in Jelsa often fill up faster in the rain as everyone uses their car.",
               "Stop at viewpoints; the clouds over the neighboring islands are spectacular."
+            ],
+            "hr": [
+              "Ceste u zaleđu su uske; potreban je dodatan oprez po kiši.",
+              "Provjerite je li Grapčeva špilja dostupna tijekom jake kiše (pitajte lokalne vodiče).",
+              "Parkirna mjesta u Jelsi često se brže popune po kiši jer svi koriste automobile.",
+              "Stanite na vidikovcima; oblaci iznad susjednih otoka su spektakularni."
             ]
           }
         },
@@ -810,7 +927,8 @@
             "de": "Winterliche Autotouren auf Hvar bieten unverbaute Ausblicke ohne den Sommerdunst. Wir starten im beschaulichen Jelsa und fahren hinauf nach Humac, wo die Stille des Winters fast greifbar ist. Die klare Luft ermöglicht weite Blicke bis zum Festland und nach Brač. Nach einer herzhaften Mahlzeit in einer der wenigen offenen Konobas erkunden wir die Küste, wo die Wintersonne das Meer in ein tiefes Dunkelblau färbt.",
             "hu": "A téli autós túrák Hvaron zavartalan kilátást nyújtanak a nyári pára nélkül. A békés Jelsából indulunk fel Humacba, ahol a téli csend szinte tapintható. A tiszta levegő messzi kilátást enged a szárazföldig és Brač szigetéig. Egy kiadós ebéd után a kevés nyitva tartó konoba egyikében felfedezzük a partvidéket, ahol a téli nap mély sötétkékre festi a tengert.",
             "ro": "Tururile cu mașina pe timp de iarnă în Hvar oferă priveliști neobstrucționate, fără pâcla verii. Pornim din liniștita Jelsa și urcăm spre Humac, unde liniștea iernii este aproape palpabilă. Aerul limpede permite vederi îndepărtate până la continent și insula Brač. După o masă copioasă într-una dintre puținele konobe deschise, explorăm coasta, unde soarele de iarnă colorează marea într-un albastru închis profund.",
-            "en": "Winter car tours on Hvar offer unobstructed views without the summer haze. We start in peaceful Jelsa and drive up to Humac, where the winter silence is almost tangible. The clear air allows for distant views as far as the mainland and Brač. After a hearty meal in one of the few open konobas, we explore the coast, where the winter sun colors the sea a deep dark blue."
+            "en": "Winter car tours on Hvar offer unobstructed views without the summer haze. We start in peaceful Jelsa and drive up to Humac, where the winter silence is almost tangible. The clear air allows for distant views as far as the mainland and Brač. After a hearty meal in one of the few open konobas, we explore the coast, where the winter sun colors the sea a deep dark blue.",
+            "hr": "Zimske ture automobilom na Hvaru nude nesmetane vidike bez ljetne sumaglice. Krećemo iz mirne Jelse i vozimo do Humca, gdje je zimska tišina gotovo opipljiva. Čist zrak omogućuje pogled čak do kopna i Brača. Nakon krepkog obroka u jednoj od rijetkih otvorenih konoba, istražujemo obalu gdje zimsko sunce boji more u duboku tamnoplavu boju."
           },
           "stops": [
             {
@@ -819,7 +937,8 @@
                 "de": "Kostenloses Parken ist im Winter oft in Zonen möglich, die im Sommer kostenpflichtig sind.",
                 "hu": "Télen a parkolás gyakran ingyenes olyan zónákban is, amik nyáron fizetősek.",
                 "ro": "Parcarea gratuită este adesea posibilă iarna în zone care sunt cu plată vara.",
-                "en": "Free parking is often possible in winter in zones that are paid in summer."
+                "en": "Free parking is often possible in winter in zones that are paid in summer.",
+                "hr": "Besplatno parkiranje zimi je često moguće u zonama koje se ljeti plaćaju."
               }
             },
             {
@@ -828,7 +947,8 @@
                 "de": "Genießen Sie die absolute Ruhe; oft sind Sie der einzige Besucher im Dorf.",
                 "hu": "Élvezze a tökéletes nyugalmat; gyakran Ön az egyetlen látogató a faluban.",
                 "ro": "Bucurați-vă de liniștea absolută; adesea sunteți singurul vizitator din sat.",
-                "en": "Enjoy the absolute peace; often you are the only visitor in the village."
+                "en": "Enjoy the absolute peace; often you are the only visitor in the village.",
+                "hr": "Uživajte u apsolutnom miru; često ste jedini posjetitelj u selu."
               }
             },
             {
@@ -837,7 +957,8 @@
                 "de": "Prüfen Sie vorher die Öffnungszeiten, da Führungen im Winter seltener sind.",
                 "hu": "Előre ellenőrizze a nyitvatartást, mert télen ritkábbak a vezetett túrák.",
                 "ro": "Verificați programul înainte, deoarece tururile ghidate sunt mai rare iarna.",
-                "en": "Check the opening hours beforehand, as guided tours are rarer in winter."
+                "en": "Check the opening hours beforehand, as guided tours are rarer in winter.",
+                "hr": "Unaprijed provjerite radno vrijeme, jer su vođene ture rjeđe zimi."
               }
             },
             {
@@ -846,7 +967,8 @@
                 "de": "Reservieren Sie vorab, da die Konobas im Winter oft nur am Wochenende öffnen.",
                 "hu": "Foglaljon előre, mivel a konobák télen gyakran csak hétvégén tartanak nyitva.",
                 "ro": "Rezervați în avans, deoarece konobele sunt adesea deschise doar în weekend iarna.",
-                "en": "Book in advance, as konobas are often only open on weekends in winter."
+                "en": "Book in advance, as konobas are often only open on weekends in winter.",
+                "hr": "Rezervirajte unaprijed, jer su konobe zimi često otvorene samo vikendom."
               }
             },
             {
@@ -855,7 +977,8 @@
                 "de": "Ein schöner Ort für einen Kaffee aus der Thermoskanne mit Blick auf die Adria.",
                 "hu": "Szép hely egy termosz kávéhoz, miközben az Adriát nézzük.",
                 "ro": "Un loc frumos pentru o cafea din termos cu vedere la Marea Adriatică.",
-                "en": "A nice spot for a coffee from a thermos with a view of the Adriatic."
+                "en": "A nice spot for a coffee from a thermos with a view of the Adriatic.",
+                "hr": "Lijepo mjesto za kavu iz termosa s pogledom na Jadran."
               }
             }
           ],
@@ -883,6 +1006,12 @@
               "Gas stations often have shortened opening hours in winter.",
               "Use the clear light for landscape photography from the roadside.",
               "Pack warm blankets if you plan longer stops for the sunset."
+            ],
+            "hr": [
+              "Čuvajte se poledice u sjenovitim zavojima planinskih cesta rano ujutro.",
+              "Benzinske postaje zimi često imaju skraćeno radno vrijeme.",
+              "Iskoristite čisto svjetlo za pejzažnu fotografiju uz cestu.",
+              "Ponesite tople deke ako planirate duža stajanja za zalazak sunca."
             ]
           }
         }
@@ -911,7 +1040,8 @@
             "de": "Bereiten Sie sich am Hafen auf die Tour vor.",
             "hu": "Készüljön fel a túrára a kikötőben.",
             "ro": "Pregătiți-vă pentru tur în port.",
-            "en": "Get ready for the tour at the harbor."
+            "en": "Get ready for the tour at the harbor.",
+            "hr": "Pripremite se za turu u luci."
           }
         },
         {
@@ -929,7 +1059,8 @@
             "de": "Radfahren durch die schattigen Alleen des Parks.",
             "hu": "Kerékpározás a park árnyas sétányain.",
             "ro": "Biciclat prin aleile umbrite ale parcului.",
-            "en": "Cycling through the shaded alleys of the park."
+            "en": "Cycling through the shaded alleys of the park.",
+            "hr": "Bicikliranje kroz sjenovite staze parka."
           }
         },
         {
@@ -947,7 +1078,8 @@
             "de": "Ein anstrengender, aber lohnender Anstieg zum alten Dorf.",
             "hu": "Fárasztó, de megéri a kaptató az ódon faluig.",
             "ro": "O urcare obositoare, dar care merită, până la satul vechi.",
-            "en": "A tiring but rewarding climb to the old village."
+            "en": "A tiring but rewarding climb to the old village.",
+            "hr": "Naporan, ali isplativ uspon do starog sela."
           }
         },
         {
@@ -965,7 +1097,8 @@
             "de": "Erholung bei lokaler Kost mit Blick auf das Meer.",
             "hu": "Pihenés helyi ételekkel és tengeri kilátással.",
             "ro": "Odihnă cu mâncare locală și vedere la mare.",
-            "en": "Rest with local food and sea views."
+            "en": "Rest with local food and sea views.",
+            "hr": "Odmor uz domaću hranu i pogled na more."
           }
         },
         {
@@ -983,7 +1116,8 @@
             "de": "Genießen Sie die Abfahrt zurück zur Küste.",
             "hu": "Élvezze a lejtőt visszafelé a tengerpartra.",
             "ro": "Bucurați-vă de coborârea înapoi spre coastă.",
-            "en": "Enjoy the downhill ride back to the coast."
+            "en": "Enjoy the downhill ride back to the coast.",
+            "hr": "Uživajte u spustu natrag prema obali."
           }
         },
         {
@@ -1001,7 +1135,8 @@
             "de": "Ausklang der Tour im belebten Hafen.",
             "hu": "A túra lezárása a nyüzsgő kikötőben.",
             "ro": "Finalul turului în portul plin de viață.",
-            "en": "Ending the tour in the lively harbor."
+            "en": "Ending the tour in the lively harbor.",
+            "hr": "Završetak ture u živahnoj luci."
           }
         }
       ],
@@ -1009,7 +1144,8 @@
         "de": "Diese Radtour führt uns von der Küste in das authentische Hinterland von Hvar. Wir starten im Perivoj-Park und erklimmen dann die Hügel bis zum Steindorf Humac. Die Belohnung ist ein atemberaubender Blick auf die Adria und die Nachbarinseln. Nach einer Stärkung geht es bergab zurück nach Jelsa zu einer wohlverdienten Pause am Strand.",
         "hu": "Ez a kerékpártúra a parttól a hvari hátország autentikus vidékére vezet. A Perivoj parktól indulunk, majd felkapaszkodunk a dombokon Humac kőfalujáig. A jutalom a lélegzetelállító kilátás az Adriára és a szomszédos szigetekre. Egy kiadós ebéd után legurulunk Jelsába, és a napot a strandon zárjuk.",
         "ro": "Acest tur cu bicicleta ne duce de la coastă în interiorul autentic al insulei Hvar. Pornim din parcul Perivoj și apoi urcăm dealurile până la satul de piatră Humac. Răsplata este o vedere uluitoare asupra Adriaticii și a insulelor vecine. După o masă copioasă, coborâm înapoi în Jelsa pentru o pauză binemeritată la plajă.",
-        "en": "This bike tour takes us from the coast to the authentic inland of Hvar. We start at Perivoj park and then climb the hills to the stone village of Humac. The reward is a breathtaking view of the Adriatic and neighboring islands. After a hearty lunch, we head back down to Jelsa for a well-deserved beach break."
+        "en": "This bike tour takes us from the coast to the authentic inland of Hvar. We start at Perivoj park and then climb the hills to the stone village of Humac. The reward is a breathtaking view of the Adriatic and neighboring islands. After a hearty lunch, we head back down to Jelsa for a well-deserved beach break.",
+        "hr": "Ova biciklistička tura vodi nas od obale do autentične unutrašnjosti Hvara. Krećemo iz parka Perivoj, a zatim se penjemo uz brda do kamenog sela Humac. Nagrada je zadivljujući pogled na Jadran i susjedne otoke. Nakon obilnog ručka, vraćamo se u Jelsu na zasluženi odmor na plaži."
       },
       "gastro_picks": {
         "de": [
@@ -1034,6 +1170,12 @@
           {
             "name": "Local Cheese",
             "tip": "Try the goat cheese stored in oil."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni sir",
+            "tip": "Probajte kozji sir čuvan u ulju."
           }
         ]
       },
@@ -1065,6 +1207,13 @@
             "tip": "Panoramic views with no traffic.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Gornja cesta",
+            "tip": "Panoramski vidici bez prometa.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1090,6 +1239,12 @@
           {
             "name": "Olive Oil",
             "tip": "Freshly pressed oil from groves around Humac."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Maslinovo ulje",
+            "tip": "Svježe prešano ulje iz maslinika oko Humca."
           }
         ]
       },
@@ -1117,6 +1272,12 @@
           "Check your brakes before the downhill section.",
           "An e-bike makes this tour much more relaxed.",
           "Avoid the midday heat on the road."
+        ],
+        "hr": [
+          "Ponesite dovoljno vode za uspon.",
+          "Provjerite kočnice prije spusta.",
+          "Električni bicikl čini ovu turu puno opuštenijom.",
+          "Izbjegavajte podnevnu vrućinu na cesti."
         ]
       },
       "variants": {
@@ -1125,7 +1286,8 @@
             "de": "Radfahren im Regen erfordert in Jelsa gute Ausrüstung, belohnt aber mit einsamen Wegen. Wir starten am Hafen und fahren durch den Park, bevor der Anstieg nach Humac uns warm hält. Der Regen kühlt, während wir die Steinstraßen erkunden. Nach einem stärkenden Mittagessen in der Wärme geht es vorsichtig über den Küstenweg zurück, wo die Gischt der Adria sich mit dem Regen vermischt und eine wilde, ursprüngliche Atmosphäre schafft.",
             "hu": "Az esőben való kerékpározás Jelsában jó felszerelést igényel, de magányos utakkal jutalmaz. A kikötőből indulunk és a parkon keresztül tekerünk, mielőtt a Humac felé vezető emelkedő felmelegítene. Az eső hűsít, miközben a kőutakat fedezzük fel. Egy melegben elfogyasztott erősítő ebéd után óvatosan térünk vissza a tengerparti úton, ahol az Adria permete keveredik az esővel, vad és ősi hangulatot teremtve.",
             "ro": "Mersul pe bicicletă în ploaie necesită echipament bun în Jelsa, dar recompensează cu drumuri pustii. Pornim din port și pedalăm prin parc, înainte ca urcarea spre Humac să ne încălzească. Ploaia ne răcorește în timp ce explorăm drumurile de piatră. După un prânz revigorant la căldură, ne întoarcem cu prudență pe drumul de coastă, unde spray-ul mării se amestecă cu ploaia, creând o atmosferă sălbatică și primordială.",
-            "en": "Cycling in the rain requires good gear in Jelsa but rewards you with lonely paths. We start at the harbor and ride through the park before the climb to Humac keeps us warm. The rain cools us down as we explore the stone paths. After a restorative lunch in the warmth, we carefully return via the coastal road, where the Adriatic spray mixes with the rain, creating a wild, primal atmosphere."
+            "en": "Cycling in the rain requires good gear in Jelsa but rewards you with lonely paths. We start at the harbor and ride through the park before the climb to Humac keeps us warm. The rain cools us down as we explore the stone paths. After a restorative lunch in the warmth, we carefully return via the coastal road, where the Adriatic spray mixes with the rain, creating a wild, primal atmosphere.",
+            "hr": "Bicikliranje po kiši u Jelsi zahtijeva dobru opremu, ali vas nagrađuje osamljenim stazama. Krećemo iz luke, prolazimo kroz park, a uspon prema Humcu nas grije. Kiša nas hladi dok istražujemo kamene putove. Nakon okrepljujućeg ručka na toplom, pažljivo se vraćamo obalnom cestom, gdje se morska pjena miješa s kišom, stvarajući divlju, iskonsku atmosferu."
           },
           "stops": [
             {
@@ -1134,7 +1296,8 @@
                 "de": "Prüfen Sie Ihre Bremsen; der glatte Stein der Riva ist bei Nässe gefährlich.",
                 "hu": "Ellenőrizze a fékeket; a Riva sima kövei vizesen veszélyesek.",
                 "ro": "Verificați frânele; piatra netedă a Rivei este periculoasă pe umezeală.",
-                "en": "Check your brakes; the smooth stone of the Riva is dangerous when wet."
+                "en": "Check your brakes; the smooth stone of the Riva is dangerous when wet.",
+                "hr": "Provjerite kočnice; glatki kamen rive opasan je kad je mokar."
               }
             },
             {
@@ -1143,7 +1306,8 @@
                 "de": "Nutzen Sie den festen Untergrund der Parkwege; meiden Sie matschige Erdpfade.",
                 "hu": "Használja a parkösvények szilárd burkolatát; kerülje a saras földutakat.",
                 "ro": "Folosiți suprafața solidă a aleilor din parc; evitați potecile de pământ noroioase.",
-                "en": "Stick to the solid surfaces of the park paths; avoid muddy dirt trails."
+                "en": "Stick to the solid surfaces of the park paths; avoid muddy dirt trails.",
+                "hr": "Držite se čvrstih površina staza u parku; izbjegavajte blatnjave putove."
               }
             },
             {
@@ -1152,7 +1316,8 @@
                 "de": "Der Anstieg hilft gegen das Frösteln im Regen.",
                 "hu": "Az emelkedő segít a didergés ellen az esőben.",
                 "ro": "Urcarea ajută împotriva frisoanelor în ploaie.",
-                "en": "The climb helps keep the chill away in the rain."
+                "en": "The climb helps keep the chill away in the rain.",
+                "hr": "Uspon pomaže u održavanju topline po kiši."
               }
             },
             {
@@ -1161,7 +1326,8 @@
                 "de": "Ein idealer Ort, um die Kleidung zu trocknen und neue Energie zu tanken.",
                 "hu": "Ideális hely a ruhák szárítására és az energiaraktárak feltöltésére.",
                 "ro": "Un loc ideal pentru a usca hainele și a reîncărca bateriile.",
-                "en": "An ideal place to dry your clothes and recharge your energy."
+                "en": "An ideal place to dry your clothes and recharge your energy.",
+                "hr": "Idealno mjesto za sušenje odjeće i obnavljanje energije."
               }
             },
             {
@@ -1170,7 +1336,8 @@
                 "de": "Fahren Sie langsam; Pfützen können tiefe Schlaglöcher verbergen.",
                 "hu": "Hajtson lassan; a tócsák mély kátyúkat rejthetnek.",
                 "ro": "Mergeți încet; bălțile pot ascunde gropi adânci.",
-                "en": "Ride slowly; puddles can hide deep potholes."
+                "en": "Ride slowly; puddles can hide deep potholes.",
+                "hr": "Vozite polako; lokve mogu skrivati duboke rupe."
               }
             },
             {
@@ -1179,7 +1346,8 @@
                 "de": "Ein heißer Tee nach der Tour ist jetzt die beste Belohnung.",
                 "hu": "Egy forró tea a túra után most a legjobb jutalom.",
                 "ro": "Un ceai fierbinte după tură este acum cea mai bună recompensă.",
-                "en": "A hot tea after the tour is the best reward now."
+                "en": "A hot tea after the tour is the best reward now.",
+                "hr": "Vrući čaj nakon ture sada je najbolja nagrada."
               }
             }
           ],
@@ -1207,6 +1375,12 @@
               "A mudguard is more important in this weather than the weight of the bike.",
               "Wear neon yellow rain gear; visibility for drivers drops significantly.",
               "Clean the chain and brakes from sea salt immediately after returning."
+            ],
+            "hr": [
+              "Izbjegavajte bijele oznake na cesti i metalne poklopce; skliski su poput leda.",
+              "Blatobran je po ovakvom vremenu važniji od težine bicikla.",
+              "Nosite neonsko žutu kabanicu; vidljivost za vozače značajno opada.",
+              "Očistite lanac i kočnice od morske soli odmah po povratku."
             ]
           }
         },
@@ -1215,7 +1389,8 @@
             "de": "Winterliches Radfahren auf Hvar ist bei Radprofis beliebt – die Bura macht die Luft klar und die Anstiege schweißtreibend. Wir radeln von Jelsa hinauf nach Humac, wobei die Wintersonne uns den Rücken wärmt. Die Stille in den Olivenhainen ist beeindruckend. Nach einem Mittagessen mit Blick auf die verschneiten Gipfel des Biokovo-Gebirges am Festland führt uns der Küstenweg zurück, wo die salzige Brise uns erfrischt.",
             "hu": "A téli kerékpározás Hvaron népszerű a profik körében – a bóra tisztává teszi a levegőt, az emelkedők pedig megizzasztanak. Jelsából tekerünk fel Humacba, miközben a téli nap melengeti a hátunkat. Az olajfaligetek csendje lenyűgöző. Ebéd után, a szárazföld havas Biokovo-csúcsaira nyíló kilátással, a tengerparti úton térünk vissza, ahol a sós szellő felfrissít.",
             "ro": "Ciclismul de iarnă în Hvar este popular printre profesioniști – Bura face aerul curat, iar urcările te fac să transpiri. Pedalăm din Jelsa până la Humac, cu soarele de iarnă încălzindu-ne spatele. Liniștea din livezile de măslini este impresionantă. După un prânz cu vedere spre vârfurile înzăpezite ale munților Biokovo de pe continent, drumul de coastă ne conduce înapoi, unde briza sărată ne reîmprospătează.",
-            "en": "Winter cycling on Hvar is popular among pros – the Bura wind clears the air, and the climbs are sweat-inducing. We cycle from Jelsa up to Humac, with the winter sun warming our backs. The silence in the olive groves is impressive. After a lunch with views of the snowy Biokovo peaks on the mainland, the coastal road leads us back, where the salty breeze refreshes us."
+            "en": "Winter cycling on Hvar is popular among pros – the Bura wind clears the air, and the climbs are sweat-inducing. We cycle from Jelsa up to Humac, with the winter sun warming our backs. The silence in the olive groves is impressive. After a lunch with views of the snowy Biokovo peaks on the mainland, the coastal road leads us back, where the salty breeze refreshes us.",
+            "hr": "Zimsko bicikliranje na Hvaru popularno je među profesionalcima – bura pročišćava zrak, a usponi tjeraju znoj na lice. Vozimo od Jelse do Humca, dok nam zimsko sunce grije leđa. Tišina u maslinicima je impresivna. Nakon ručka s pogledom na snježne vrhove Biokova na kopnu, obalna cesta vodi nas natrag uz osvježavajući slani povjetarac."
           },
           "stops": [
             {
@@ -1224,7 +1399,8 @@
                 "de": "Starten Sie erst nach 10 Uhr, wenn die Sonne die nächtliche Kühle vertrieben hat.",
                 "hu": "Csak 10 óra után induljon, amikor a nap már elűzte az éjszakai hideget.",
                 "ro": "Porniți abia după ora 10, când soarele a alungat răceala nopții.",
-                "en": "Start only after 10 AM, once the sun has chased away the night chill."
+                "en": "Start only after 10 AM, once the sun has chased away the night chill.",
+                "hr": "Krenite tek nakon 10 sati, kad sunce rastjera noćnu hladnoću."
               }
             },
             {
@@ -1233,7 +1409,8 @@
                 "de": "Im Schatten der Bäume kann es deutlich kühler sein; halten Sie sich in Bewegung.",
                 "hu": "A fák árnyékában jelentősen hűvösevalóbb lehet; maradjon mozgásban.",
                 "ro": "La umbra copacilor poate fi mult mai răcoare; rămâneți în mișcare.",
-                "en": "It can be significantly cooler in the shade of the trees; keep moving."
+                "en": "It can be significantly cooler in the shade of the trees; keep moving.",
+                "hr": "U sjeni drveća može biti znatno hladnije; ostanite u pokretu."
               }
             },
             {
@@ -1242,7 +1419,8 @@
                 "de": "Die Fernsicht auf das Biokovo-Gebirge ist im Winter am schärfsten.",
                 "hu": "A kilátás a Biokovo-hegységre télen a legélesebb.",
                 "ro": "Vizibilitatea spre munții Biokovo este cea mai clară iarna.",
-                "en": "The distant view of the Biokovo mountains is sharpest in winter."
+                "en": "The distant view of the Biokovo mountains is sharpest in winter.",
+                "hr": "Pogled na Biokovo u daljini najjasniji je zimi."
               }
             },
             {
@@ -1251,7 +1429,8 @@
                 "de": "Setzen Sie sich in die Sonne; sie ist die beste natürliche Heizung.",
                 "hu": "Üljön a napra; ez a legjobb természetes fűtés.",
                 "ro": "Așezați-vă la soare; este cel mai bun sistem de încălzire naturală.",
-                "en": "Sit in the sun; it's the best natural heater."
+                "en": "Sit in the sun; it's the best natural heater.",
+                "hr": "Sjednite na sunce; to je najbolji prirodni grijač."
               }
             },
             {
@@ -1260,7 +1439,8 @@
                 "de": "Achtung bei Abfahrten; der kalte Fahrtwind kühlt den Körper schnell aus.",
                 "hu": "Vigyázat a lejtőkön; a hideg menetszél gyorsan lehűti a testet.",
                 "ro": "Atenție la coborâri; vântul rece de deplasare răcește rapid corpul.",
-                "en": "Caution on descents; the cold wind can quickly chill your body."
+                "en": "Caution on descents; the cold wind can quickly chill your body.",
+                "hr": "Oprez na spustu; hladan vjetar može brzo rashladiti tijelo."
               }
             },
             {
@@ -1269,7 +1449,8 @@
                 "de": "Genießen Sie die Ruhe am Hafen, bevor die Sonne untergeht.",
                 "hu": "Élvezze a kikötői nyugalmat, mielőtt a nap lenyugszik.",
                 "ro": "Bucurați-vă de liniștea din port înainte de apusul soarelui.",
-                "en": "Enjoy the peace at the harbor before the sun sets."
+                "en": "Enjoy the peace at the harbor before the sun sets.",
+                "hr": "Uživajte u miru u luci prije zalaska sunca."
               }
             }
           ],
@@ -1297,6 +1478,12 @@
               "Full-finger gloves are advisable for the fast descents back to Jelsa.",
               "The Bura can come in gusts; keep a firm grip on the handlebars in crosswinds.",
               "Take warm drinks in an insulated bottle."
+            ],
+            "hr": [
+              "Odjenite se slojevito kako biste se mogli raskopčati tijekom uspona i zakopčati tijekom spusta.",
+              "Rukavice s cijelim prstima preporučuju se za brze spusteve natrag u Jelsu.",
+              "Bura može puhati u naletima; čvrsto držite upravljač pri bočnom vjetru.",
+              "Ponesite tople napitke u termo boci."
             ]
           }
         }
@@ -1325,7 +1512,8 @@
             "de": "Zentraler Ankunftspunkt für Busse aus Hvar und Stari Grad.",
             "hu": "Központi érkezési pont a Hvarból és Stari Gradból érkező buszoknak.",
             "ro": "Punct central de sosire pentru autobuzele din Hvar și Stari Grad.",
-            "en": "Central arrival point for buses from Hvar and Stari Grad."
+            "en": "Central arrival point for buses from Hvar and Stari Grad.",
+            "hr": "Središnja točka dolaska autobusa iz Hvara i Starog Grada."
           }
         },
         {
@@ -1343,7 +1531,8 @@
             "de": "Besuchen Sie den St. Johann Platz und die Marienkirche zu Fuß.",
             "hu": "Látogasson el a Szent János térre és az erődtemplomhoz gyalog.",
             "ro": "Vizitați Piața Sf. Ioan și biserica fortificată pe jos.",
-            "en": "Visit St. John's Square and the fortified church on foot."
+            "en": "Visit St. John's Square and the fortified church on foot.",
+            "hr": "Pješice posjetite Trg sv. Ivana i utvrđenu crkvu."
           }
         },
         {
@@ -1361,7 +1550,8 @@
             "de": "Ein entspannter Spaziergang durch den Park zum Hafen.",
             "hu": "Pihentető séta a parkon át a kikötőig.",
             "ro": "O plimbare relaxantă prin parc până în port.",
-            "en": "A relaxed walk through the park to the harbor."
+            "en": "A relaxed walk through the park to the harbor.",
+            "hr": "Opuštena šetnja kroz park do luke."
           }
         },
         {
@@ -1379,7 +1569,8 @@
             "de": "Genießen Sie dalmatinische Spezialitäten in der Altstadt.",
             "hu": "Élvezze a dalmát specialitásokat az óvárosban.",
             "ro": "Savurați specialități dalmate în orașul vechi.",
-            "en": "Enjoy Dalmatian specialties in the old town."
+            "en": "Enjoy Dalmatian specialties in the old town.",
+            "hr": "Uživajte u dalmatinskim specijalitetima u starom gradu."
           }
         },
         {
@@ -1397,7 +1588,8 @@
             "de": "Ein kurzer Transfer oder Spaziergang zum beliebtesten Strand.",
             "hu": "Rövid transzfer vagy séta a legnépszerűbb strandhoz.",
             "ro": "Un transfer scurt sau o plimbare spre cea mai populară plajă.",
-            "en": "A short transfer or walk to the most popular beach."
+            "en": "A short transfer or walk to the most popular beach.",
+            "hr": "Kratki transfer ili šetnja do najpopularnije plaže."
           }
         }
       ],
@@ -1405,7 +1597,8 @@
         "de": "Mit den öffentlichen Bussen ist Jelsa hervorragend erreichbar. Wir erkunden die Stadt in Clustern: erst das historische Zentrum mit seinen Kirchen und Plätzen, dann den weitläufigen Park. Den Nachmittag verbringen wir in der Mina-Bucht, bevor der Bus uns wieder zurück zu anderen Teilen der Insel bringt.",
         "hu": "Jelsa kiválóan elérhető menetrend szerinti buszokkal. A várost csoportosítva fedezzük fel: először a történelmi központot a templomokkal és terekkel, majd a tágas parkot. A délutánt a Mina-öbölben töltjük, mielőtt a busz visszavinne a sziget más részeire.",
         "ro": "Jelsa este ușor accesibilă cu autobuzele publice. Explorăm orașul pe zone: mai întâi centrul istoric cu bisericile și piețele sale, apoi parcul spațios. Petrecem după-amiaza în golful Mina, înainte ca autobuzul să ne ducă înapoi spre alte părți ale insulei.",
-        "en": "Jelsa is easily accessible by public buses. We explore the town in clusters: first the historic center with its churches and squares, then the expansive park. We spend the afternoon at Mina Bay before taking the bus back to other parts of the island."
+        "en": "Jelsa is easily accessible by public buses. We explore the town in clusters: first the historic center with its churches and squares, then the expansive park. We spend the afternoon at Mina Bay before taking the bus back to other parts of the island.",
+        "hr": "Jelsa je lako dostupna javnim autobusima. Grad istražujemo u etapama: prvo povijesnu jezgru s crkvama i trgovima, a zatim prostrani park. Poslijepodne provodimo u uvali Mina prije povratka autobusom u druge dijelove otoka."
       },
       "gastro_picks": {
         "de": [
@@ -1430,6 +1623,12 @@
           {
             "name": "Ice Cream Parlor",
             "tip": "Best ice cream in town right by the water."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Slastičarnica",
+            "tip": "Najbolji sladoled u gradu odmah uz more."
           }
         ]
       },
@@ -1461,6 +1660,13 @@
             "tip": "Ideal for reading in the shade.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Klupe u parku",
+            "tip": "Idealno za čitanje u hladu.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1486,6 +1692,12 @@
           {
             "name": "Souvenir Shop",
             "tip": "Hvar wine and honey to take home."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Suvenirnica",
+            "tip": "Hvarsko vino i med za ponijeti kući."
           }
         ]
       },
@@ -1513,6 +1725,12 @@
           "Tickets can usually be bought directly from the driver.",
           "The bus station is just a few minutes' walk from the center.",
           "Buses can be crowded during high season."
+        ],
+        "hr": [
+          "Provjerite aktualni vozni red na internetu.",
+          "Karte se obično kupuju izravno kod vozača.",
+          "Autobusni kolodvor udaljen je samo nekoliko minuta hoda od centra.",
+          "Autobusi mogu biti krcati tijekom špice sezone."
         ]
       },
       "variants": {
@@ -1521,7 +1739,8 @@
             "de": "Mit dem Lokalbus erkunden wir Jelsa bequem und trocken. Vom Busbahnhof gelangen wir schnell in das historische Viertel, wo wir zwischen den Museen und Kirchen pendeln. Der Regen prasselt gegen die Busscheiben, während wir die Aussicht auf die Olivenhaine genießen. Das Mittagessen in einer Konoba wird zur gemütlichen Pause, bevor der Nachmittagbus uns zur Mina-Bucht bringt, wo wir das stürmische Meer aus der Sicherheit eines Strandcafés beobachten.",
             "hu": "A helyi busszal kényelmesen és szárazon fedezzük fel Jelsát. A buszállomásról gyorsan elérjük a történelmi negyedet, ahol a múzeumok és templomok között ingázunk. Az eső kopog a busz ablakán, miközben az olajfaligetek látványában gyönyörködünk. Az ebéd egy konobában kellemes pihenővé válik, mielőtt a délutáni busz a Mina-öbölbe vinne, ahol egy tengerparti kávézó biztonságából figyeljük a viharos tengert.",
             "ro": "Cu autobuzul local explorăm Jelsa confortabil și la uscat. De la autogară ajungem rapid în cartierul istoric, unde navigăm între muzee și biserici. Ploaia bate în geamurile autobuzului în timp ce admirăm livezile de măslini. Prânzul într-o konoba devine o pauză relaxantă, înainte ca autobuzul de după-amiază să ne ducă la golful Mina, unde observăm marea agitată din siguranța unei cafenele de pe plajă.",
-            "en": "By local bus, we explore Jelsa comfortably and stay dry. From the bus station, we quickly reach the historic quarter, navigating between museums and churches. The rain patters against the bus windows as we enjoy the views of the olive groves. Lunch in a konoba becomes a cozy break before the afternoon bus takes us to Mina Bay, where we watch the stormy sea from the safety of a beach cafe."
+            "en": "By local bus, we explore Jelsa comfortably and stay dry. From the bus station, we quickly reach the historic quarter, navigating between museums and churches. The rain patters against the bus windows as we enjoy the views of the olive groves. Lunch in a konoba becomes a cozy break before the afternoon bus takes us to Mina Bay, where we watch the stormy sea from the safety of a beach cafe.",
+            "hr": "Lokalnim autobusom udobno istražujemo Jelsu i ostajemo suhi. S kolodvora brzo stižemo do povijesne četvrti, krećući se između muzeja i crkava. Kiša bubnja po prozorima autobusa dok uživamo u pogledu na maslinike. Ručak u konobi postaje ugodna pauza prije nego nas popodnevni autobus odveze do uvale Mina, gdje promatramo olujno more iz sigurnosti plažnog kafića."
           },
           "stops": [
             {
@@ -1530,7 +1749,8 @@
                 "de": "Der überdachte Wartebereich schützt vor den schlimmsten Güssen.",
                 "hu": "A fedett várakozóhely megvéd a nagyobb záporoktól.",
                 "ro": "Zona de așteptare acoperită protejează de cele mai mari averse.",
-                "en": "The covered waiting area protects you from the worst downpours."
+                "en": "The covered waiting area protects you from the worst downpours.",
+                "hr": "Natkrivena čekaonica štiti vas od najgorih pljuskova."
               }
             },
             {
@@ -1539,7 +1759,8 @@
                 "de": "Nutzen Sie die kurzen Abstände zwischen den historischen Gebäuden im Zentrum.",
                 "hu": "Használja ki a központ történelmi épületei közötti rövid távolságokat.",
                 "ro": "Folosiți distanțele scurte între clădirile istorice din centru.",
-                "en": "Take advantage of the short distances between the historic buildings in the center."
+                "en": "Take advantage of the short distances between the historic buildings in the center.",
+                "hr": "Iskoristite kratke udaljenosti između povijesnih zgrada u centru."
               }
             },
             {
@@ -1548,7 +1769,8 @@
                 "de": "Die Riva-Cafés sind per Bus gut erreichbar und bieten trockene Logenplätze.",
                 "hu": "A Riva kávézói busszal jól elérhetők, és száraz páholyhelyeket kínálnak.",
                 "ro": "Cafenelele de pe Riva sunt ușor accesibile cu autobuzul și oferă locuri uscate de observație.",
-                "en": "The Riva cafes are easily accessible by bus and offer dry front-row seats."
+                "en": "The Riva cafes are easily accessible by bus and offer dry front-row seats.",
+                "hr": "Kafići na rivi lako su dostupni autobusom i nude suha mjesta u prvom redu."
               }
             },
             {
@@ -1557,7 +1779,8 @@
                 "de": "Wählen Sie eine Konoba in der Nähe einer Bushaltestelle für minimalen Regen-Kontakt.",
                 "hu": "Válasszon buszmegálló közeli konobát a minimális eső-érintkezés érdekében.",
                 "ro": "Alegeți o konoba lângă o stație de autobuz pentru un contact minim cu ploaia.",
-                "en": "Choose a konoba near a bus stop for minimal rain exposure."
+                "en": "Choose a konoba near a bus stop for minimal rain exposure.",
+                "hr": "Odaberite konobu blizu autobusne stanice kako biste se što manje izlagali kiši."
               }
             },
             {
@@ -1566,7 +1789,8 @@
                 "de": "Der Bus hält fast direkt vor dem Strand; ideal bei schlechtem Wetter.",
                 "hu": "A busz szinte közvetlenül a strand előtt áll meg; ideális rossz időben.",
                 "ro": "Autobuzul oprește aproape direct în fața plajei; ideal pe vreme rea.",
-                "en": "The bus stops almost directly in front of the beach; ideal in bad weather."
+                "en": "The bus stops almost directly in front of the beach; ideal in bad weather.",
+                "hr": "Autobus staje gotovo ispred same plaže; idealno u lošim vremenskim uvjetima."
               }
             }
           ],
@@ -1594,6 +1818,12 @@
               "Have your change or card ready for the ticket when boarding.",
               "The bus is often the only connection between villages in winter/rain.",
               "The back seats in the bus often offer the best panoramic views in the rain."
+            ],
+            "hr": [
+              "Provjerite vozni red (Arriva aplikacija); moguća su manja kašnjenja po kiši.",
+              "Pripremite sitniš ili karticu za kartu pri ulasku.",
+              "Autobus je zimi/po kiši često jedina veza između mjesta.",
+              "Stražnja sjedala u autobusu često nude najbolji panoramski pogled po kiši."
             ]
           }
         },
@@ -1602,7 +1832,8 @@
             "de": "Winter-Transit auf Hvar ist ein Erlebnis für sich – man teilt den Bus mit den Einheimischen und Schulkindern. Von Jelsa aus erkunden wir das Zentrum und den Park, bevor wir uns in einer Konoba bei lokalem Wein und Käse aufwärmen. Die Busfahrt bietet entspannte Blicke auf die winterliche Landschaft und die schlafenden Weinberge, während die frühe Dämmerung die Bucht von Mina in sanftes Licht taucht.",
             "hu": "A téli tömegközlekedés Hvaron önmagában is élmény – a buszt helyiekkel és iskolásokkal osztjuk meg. Jelsából indulva fedezzük fel a központot és a parkot, mielőtt egy konobában helyi borral és sajttal melegednénk fel. A buszozás pihentető kilátást nyújt a téli tájra és az alvó szőlőültetvényekre, miközben a korai szürkület lágy fénybe vonja a Mina-öblöt.",
             "ro": "Tranzitul de iarnă în Hvar este o experiență în sine – împărțiți autobuzul cu localnicii și copiii care merg la școală. Din Jelsa explorăm centrul și parcul, înainte de a ne încălzi într-o konoba cu vin local și brânză. Călătoria cu autobuzul oferă vederi relaxate asupra peisajului de iarnă și a podgoriilor adormite, în timp ce amurgul timpuriu scaldă golful Mina într-o lumină blândă.",
-            "en": "Winter transit on Hvar is an experience in itself – you share the bus with locals and schoolchildren. From Jelsa, we explore the center and the park before warming up in a konoba with local wine and cheese. The bus ride offers relaxed views of the winter landscape and sleeping vineyards, while the early twilight bathes Mina Bay in soft light."
+            "en": "Winter transit on Hvar is an experience in itself – you share the bus with locals and schoolchildren. From Jelsa, we explore the center and the park before warming up in a konoba with local wine and cheese. The bus ride offers relaxed views of the winter landscape and sleeping vineyards, while the early twilight bathes Mina Bay in soft light.",
+            "hr": "Zimski prijevoz na Hvaru doživljaj je sam po sebi – dijelite autobus s lokalcima i školarcima. Iz Jelse istražujemo centar i park prije nego se zagrijemo u konobi uz domaće vino i sir. Vožnja autobusom nudi opušten pogled na zimski pejzaž i uspavane vinograde, dok rani sumrak kupa uvalu Mina u mekom svjetlu."
           },
           "stops": [
             {
@@ -1611,7 +1842,8 @@
                 "de": "Im Winter sind die Wartezeiten zwischen den Bussen oft länger; planen Sie genau.",
                 "hu": "Télen a buszok közötti várakozási idő gyakran hosszabb; tervezzen pontosan.",
                 "ro": "Iarna, timpii de așteptare între autobuze sunt adesea mai lungi; planificați exact.",
-                "en": "In winter, waiting times between buses are often longer; plan accurately."
+                "en": "In winter, waiting times between buses are often longer; plan accurately.",
+                "hr": "Zimi su vremena čekanja između autobusa često duža; planirajte precizno."
               }
             },
             {
@@ -1620,7 +1852,8 @@
                 "de": "Die Museen haben im Winter oft nur nach Vereinbarung oder verkürzt offen.",
                 "hu": "A múzeumok télen gyakran csak bejelentkezéssel vagy rövidített ideig vannak nyitva.",
                 "ro": "Muzeele au adesea program redus sau doar cu programare iarna.",
-                "en": "Museums often have reduced hours or are open only by appointment in winter."
+                "en": "Museums often have reduced hours or are open only by appointment in winter.",
+                "hr": "Muzeji zimi često imaju skraćeno radno vrijeme ili su otvoreni samo po dogovoru."
               }
             },
             {
@@ -1629,7 +1862,8 @@
                 "de": "Genießen Sie die Ruhe; die Riva gehört im Winter fast ausschließlich den Jelsanern.",
                 "hu": "Élvezze a csendet; a Riva télen szinte kizárólag a jelsaiaké.",
                 "ro": "Bucurați-vă de liniște; Riva aparține iarna aproape exclusiv localnicilor.",
-                "en": "Enjoy the peace; the Riva belongs almost exclusively to the locals in winter."
+                "en": "Enjoy the peace; the Riva belongs almost exclusively to the locals in winter.",
+                "hr": "Uživajte u miru; riva zimi pripada gotovo isključivo lokalcima."
               }
             },
             {
@@ -1638,7 +1872,8 @@
                 "de": "Ein guter Ort, um die Zeit bis zur nächsten Busabfahrt warm zu überbrücken.",
                 "hu": "Jó hely a következő buszindulásig hátralévő idő melegben történő áthidalására.",
                 "ro": "Un loc bun pentru a aștepta următorul autobuz la căldură.",
-                "en": "A good place to wait for the next bus departure in the warmth."
+                "en": "A good place to wait for the next bus departure in the warmth.",
+                "hr": "Dobro mjesto za čekanje sljedećeg polaska autobusa na toplom."
               }
             },
             {
@@ -1647,7 +1882,8 @@
                 "de": "Prüfen Sie, ob der Bus im Winterfahrplan bis ganz zum Strand fährt.",
                 "hu": "Ellenőrizze, hogy a téli menetrendben a busz teljesen a strandig közlekedik-e.",
                 "ro": "Verificați dacă autobuzul merge până la plajă în programul de iarnă.",
-                "en": "Check if the bus goes all the way to the beach in the winter schedule."
+                "en": "Check if the bus goes all the way to the beach in the winter schedule.",
+                "hr": "Provjerite vozi li autobus u zimskom rasporedu skroz do plaže."
               }
             }
           ],
@@ -1675,6 +1911,12 @@
               "The buses are well-heated and provide a comfortable base for exploration.",
               "Combine the trip with a visit to neighboring Stari Grad.",
               "Talk to the bus driver; they often give tips on which konoba is open today."
+            ],
+            "hr": [
+              "Zimski vozni red je znatno reduciran; fotografirajte raspored na kolodvoru.",
+              "Autobusi su dobro grijani i pružaju udobnu bazu za istraživanje.",
+              "Kombinirajte putovanje s posjetom susjednom Starom Gradu.",
+              "Razgovarajte s vozačem; oni često daju savjete o tome koja je konoba danas otvorena."
             ]
           }
         }

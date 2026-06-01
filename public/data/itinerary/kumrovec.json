@@ -31,7 +31,8 @@
             "de": "Besuchen Sie die Webstube.",
             "hu": "Nézze meg a szövőműhelyt.",
             "ro": "Vizitați atelierul de țesut.",
-            "en": "Visit the weaving workshop."
+            "en": "Visit the weaving workshop.",
+            "hr": "Posjetite tkalačku radionicu."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Achten Sie auf die Statue davor.",
             "hu": "Figyelje meg az előtte álló szobrot.",
             "ro": "Observați statuia din față.",
-            "en": "Note the statue in front."
+            "en": "Note the statue in front.",
+            "hr": "Obratite pozornost na kip ispred."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Authentisches Klassenzimmer.",
             "hu": "Eredeti berendezésű tanterem.",
             "ro": "Sală de clasă autentică.",
-            "en": "Authentic classroom setup."
+            "en": "Authentic classroom setup.",
+            "hr": "Autentičan postav učionice."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Schöner Blick auf das Dorf.",
             "hu": "Szép kilátás a falura.",
             "ro": "Vedere frumoasă spre sat.",
-            "en": "Nice view of the village."
+            "en": "Nice view of the village.",
+            "hr": "Lijep pogled na selo."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ideal für ein kurzes Picknick.",
             "hu": "Ideális egy rövid piknikhez.",
             "ro": "Ideal pentru un scurt picnic.",
-            "en": "Ideal for a short picnic."
+            "en": "Ideal for a short picnic.",
+            "hr": "Idealno za kratki piknik."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Probieren Sie Zagorski Štrukli.",
             "hu": "Kóstolja meg a stájer rétest.",
             "ro": "Gustați Zagorski Štrukli.",
-            "en": "Try the Zagorski Štrukli."
+            "en": "Try the Zagorski Štrukli.",
+            "hr": "Isprobajte zagorske štrukle."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Morgens tauchen Sie im Freilichtmuseum Staro Selo in das ländliche Leben des 19. Jahrhunderts ein. Mittags besuchen Sie das Geburtshaus von Tito und die alte Dorfschule. Nachmittags spazieren Sie zur Rochuskirche und genießen die Ruhe im Park. Der Abend klingt kulinarisch mit regionalen Spezialitäten in der Nähe des Zelenjak-Denkmals aus.",
         "hu": "Reggel a Staro Selo skanzenben visszarepülhet a 19. századi vidéki életbe. Délben Tito szülőházát és a régi népiskolát látogathatja meg. Délután tegyen egy sétát a Szent Rókus-templomhoz, majd pihenjen meg a község parkjában. Az estét a Zelenjak környékén töltheti el, megkóstolva a helyi zagorjei ételeket.",
         "ro": "Dimineața, în muzeul satului Staro Selo, vă întoarceți în viața rurală a secolului XIX. La prânz, vizitați casa natală a lui Tito și vechea școală a satului. După-amiaza, plimbați-vă până la biserica Sf. Rochus și relaxați-vă în parcul local. Seara se încheie cu specialități regionale delicioase în zona Zelenjak.",
-        "en": "In the morning, immerse yourself in 19th-century rural life at the Staro Selo museum. At noon, visit Tito's birthplace and the old village school. In the afternoon, walk up to St. Roch's Church and enjoy the peace of Kumrovec Park. The evening concludes with regional culinary delights near the Zelenjak monument."
+        "en": "In the morning, immerse yourself in 19th-century rural life at the Staro Selo museum. At noon, visit Tito's birthplace and the old village school. In the afternoon, walk up to St. Roch's Church and enjoy the peace of Kumrovec Park. The evening concludes with regional culinary delights near the Zelenjak monument.",
+        "hr": "Ujutro uronite u seoski život 19. stoljeća u muzeju Staro selo. U podne posjetite Titovu rodnu kuću i staru seosku školu. Poslijepodne prošećite do crkve sv. Roka i uživajte u miru parka Kumrovec. Večer završava regionalnim kulinarskim užicima u blizini spomenika u Zelenjaku."
       },
       "gastro_picks": {
         "de": [
@@ -170,6 +177,16 @@
           {
             "name": "Gostionica Kod Starog",
             "tip": "Rustic inn located within the museum area."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Zagorski štrukli",
+            "tip": "Tradicionalno tijesto punjeno sirom."
+          },
+          {
+            "name": "Gostionica Kod Starog",
+            "tip": "Rustikalna gostionica smještena unutar područja muzeja."
           }
         ]
       },
@@ -221,6 +238,18 @@
             "tip": "Shady benches under old trees.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Spomenik u Zelenjaku",
+            "tip": "Mirno mjesto uz rijeku Sutlu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park Kumrovec",
+            "tip": "Sjenovite klupe ispod starih stabala.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -247,6 +276,12 @@
             "name": "Staro Selo Souvenir Shop",
             "tip": "Handmade ceramics and wicker baskets."
           }
+        ],
+        "hr": [
+          {
+            "name": "Suvenirnica Staro selo",
+            "tip": "Ručno izrađena keramika i pletene košare."
+          }
         ]
       },
       "tips": {
@@ -265,6 +300,10 @@
         "en": [
           "Wear comfortable shoes for the cobblestone paths in the museum.",
           "The paths are mostly flat and easy to walk."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za kaldrmirane staze u muzeju.",
+          "Staze su uglavnom ravne i lake za hodanje."
         ]
       },
       "variants": {
@@ -473,7 +512,8 @@
             "de": "Ein verregneter Tag in Kumrovec verleiht dem Museumsdorf Staro Selo eine mystische Atmosphäre. Vormittags erkunden Sie die strohgedeckten Häuser, die perfekten Schutz bieten. Mittags vertiefen Sie sich in die Geschichte von Tito und der alten Schule. Nachmittags führt ein kurzer Spaziergang unter dem Regenschirm zur Kirche und zum Park, bevor Sie den Tag gemütlich in der Vila Zelenjak ausklingen lassen.",
             "hu": "Az esős idő Kumrovecben különleges, nosztalgikus hangulatot áraszt. Délelőtt a Staro Selo nádtetős házai között barangolva behúzódhatunk a kiállítások védelmébe. Délben Tito szülőháza és a régi iskola kínál fedett programot. Délután egy esernyős séta következik a templomhoz és a parkhoz, végül a Vila Zelenjak meleg vendégszeretete zárja a napot a Zelenjak-völgyben.",
             "ro": "O zi ploioasă în Kumrovec oferă satului muzeal Staro Selo o atmosferă mistică. Dimineața explorați casele cu acoperiș de paie, care oferă adăpost perfect. La prânz, vă adânciți în istoria lui Tito și a vechii școli. După-amiaza, o scurtă plimbare sub umbrelă vă duce la biserică și în parc, înainte de a încheia ziua confortabil la Vila Zelenjak.",
-            "en": "A rainy day in Kumrovec gives the Staro Selo museum village a mystical atmosphere. In the morning, explore the thatched houses, which offer perfect shelter. At noon, delve into the history of Tito and the old school. In the afternoon, a short walk under an umbrella leads to the church and the park, before ending the day cozily at Vila Zelenjak."
+            "en": "A rainy day in Kumrovec gives the Staro Selo museum village a mystical atmosphere. In the morning, explore the thatched houses, which offer perfect shelter. At noon, delve into the history of Tito and the old school. In the afternoon, a short walk under an umbrella leads to the church and the park, before ending the day cozily at Vila Zelenjak.",
+            "hr": "Kišni dan u Kumrovcu pruža muzejskom selu Staro selo mističnu atmosferu. Ujutro istražite kuće sa slamnatim krovovima koje nude savršeno utočište. U podne uronite u povijest Tita i stare škole. Poslijepodne kratka šetnja pod kišobranom vodi do crkve i parka, prije nego što dan ugodno završite u Vili Zelenjak."
           },
           "stops": [
             {
@@ -482,7 +522,8 @@
                 "de": "Nutzen Sie die Innenräume der Häuser, um trocken zu bleiben.",
                 "hu": "Használja ki a házak belső tereit, hogy száraz maradjon.",
                 "ro": "Folosiți interioarele caselor pentru a rămâne uscat.",
-                "en": "Use the interiors of the houses to stay dry."
+                "en": "Use the interiors of the houses to stay dry.",
+                "hr": "Koristite unutrašnjost kuća kako biste ostali suhi."
               }
             },
             {
@@ -491,7 +532,8 @@
                 "de": "Der Eingangsbereich ist überdacht, ideal bei Schauern.",
                 "hu": "A bejárat fedett, ideális hirtelen zápor esetén.",
                 "ro": "Zona de intrare este acoperită, ideală în caz de aversă.",
-                "en": "The entrance area is covered, ideal during showers."
+                "en": "The entrance area is covered, ideal during showers.",
+                "hr": "Ulazni prostor je natkriven, idealno tijekom pljuskova."
               }
             },
             {
@@ -500,7 +542,8 @@
                 "de": "Ein gemütlicher Ort, um dem Regen für eine Stunde zu entfliehen.",
                 "hu": "Hangulatos hely, ahol egy órára elmenekülhet az eső elől.",
                 "ro": "Un loc primitor pentru a scăpa de ploaie timp de o oră.",
-                "en": "A cozy place to escape the rain for an hour."
+                "en": "A cozy place to escape the rain for an hour.",
+                "hr": "Ugodno mjesto za bijeg od kiše na sat vremena."
               }
             },
             {
@@ -509,7 +552,8 @@
                 "de": "Der kurze Anstieg kann bei Nässe etwas rutschig sein.",
                 "hu": "A rövid emelkedő esőben kissé csúszós lehet.",
                 "ro": "Scurta urcare poate fi puțin alunecoasă pe timp de ploaie.",
-                "en": "The short climb can be a bit slippery when wet."
+                "en": "The short climb can be a bit slippery when wet.",
+                "hr": "Kratki uspon može biti pomalo sklizak kad je mokro."
               }
             },
             {
@@ -518,7 +562,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
                 "hu": "Maradjon a kövezett utakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe potecile pavate pentru a evita noroiul.",
-                "en": "Stay on the paved paths to avoid mud."
+                "en": "Stay on the paved paths to avoid mud.",
+                "hr": "Ostanite na popločanim stazama kako biste izbjegli blato."
               }
             },
             {
@@ -527,7 +572,8 @@
                 "de": "Genießen Sie den Blick auf den verregneten Wald vom Fensterplatz.",
                 "hu": "Élvezze az esős erdő látványát az ablak melletti asztaltól.",
                 "ro": "Bucurați-vă de priveliștea pădurii ploioase de la fereastră.",
-                "en": "Enjoy the view of the rainy forest from a window seat."
+                "en": "Enjoy the view of the rainy forest from a window seat.",
+                "hr": "Uživajte u pogledu na kišnu šumu s mjesta uz prozor."
               }
             }
           ],
@@ -555,6 +601,12 @@
               "A large umbrella is more practical here than a rain poncho.",
               "Spend more time exploring the indoor museum exhibits.",
               "There is an umbrella stand at the entrance of Vila Zelenjak."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću jer su seoske staze nepopločane i mogu postati blatne.",
+              "Veliki kišobran je ovdje praktičniji od kabanice.",
+              "Provedite više vremena istražujući zatvorene muzejske izloške.",
+              "Na ulazu u Vilu Zelenjak nalazi se stalak za kišobrane."
             ]
           }
         },
@@ -563,7 +615,8 @@
             "de": "Kumrovec im Winter wirkt wie aus der Zeit gefallen, besonders wenn Schnee die Dächer bedeckt. Vormittags wärmen Sie sich in den Ausstellungen von Staro Selo auf. Mittags erkunden Sie Titos Erbe. Da die Sonne früh hinter den Hügeln des Zagorje verschwindet, besuchen Sie Kirche und Park am frühen Nachmittag. Der Tag endet bei Kaminfeuer und herzhaften Spezialitäten in der Vila Zelenjak.",
             "hu": "A téli Kumrovec olyan, mintha megállt volna az idő, főleg ha hó fedi a nádtetőket. Délelőtt a Staro Selo fűtött kiállítótereiben melegedhetünk. Délben Tito örökségét kutatjuk. Mivel a nap korán eltűnik a Zagorje dombjai mögött, a templomot és a parkot kora délután keressük fel. A napot kandallótűz és bőséges falatok mellett zárjuk a Vila Zelenjakban.",
             "ro": "Kumrovec iarna pare desprins din timp, mai ales când zăpada acoperă acoperișurile. Dimineața vă încălziți în expozițiile din Staro Selo. La prânz explorați moștenirea lui Tito. Deoarece soarele apune devreme după dealurile Zagorje, vizitați biserica și parcul devreme. Ziua se încheie lângă șemineu cu specialități consistente la Vila Zelenjak.",
-            "en": "Kumrovec in winter feels like a place out of time, especially when snow covers the roofs. In the morning, warm up in the Staro Selo exhibits. At noon, explore Tito's legacy. As the sun sets early behind the Zagorje hills, visit the church and park in the early afternoon. The day ends by the fireplace with hearty specialties at Vila Zelenjak."
+            "en": "Kumrovec in winter feels like a place out of time, especially when snow covers the roofs. In the morning, warm up in the Staro Selo exhibits. At noon, explore Tito's legacy. As the sun sets early behind the Zagorje hills, visit the church and park in the early afternoon. The day ends by the fireplace with hearty specialties at Vila Zelenjak.",
+            "hr": "Kumrovec zimi djeluje kao mjesto izvan vremena, osobito kad snijeg prekrije krovove. Ujutro se zagrijte u izlošcima Starog sela. U podne istražite Titovu ostavštinu. Kako sunce rano zalazi iza zagorskih brežuljaka, posjetite crkvu i park rano poslijepodne. Dan završava uz kamin s krepkim specijalitetima u Vili Zelenjak."
           },
           "stops": [
             {
@@ -572,7 +625,8 @@
                 "de": "Einige Häuser sind beheizt, ideal für kurze Aufwärmpausen.",
                 "hu": "Néhány ház fűtött, ideális egy rövid melegedőre.",
                 "ro": "Unele case sunt încălzite, ideale pentru scurte pauze de încălzire.",
-                "en": "Some houses are heated, ideal for short warm-up breaks."
+                "en": "Some houses are heated, ideal for short warm-up breaks.",
+                "hr": "Neke su kuće grijane, idealne za kratke pauze za zagrijavanje."
               }
             },
             {
@@ -581,7 +635,8 @@
                 "de": "Warme Kleidung ist wichtig, da die Steinhäuser kühl sind.",
                 "hu": "Fontos a meleg ruha, mert a kőházak hűvösek maradnak.",
                 "ro": "Hainele groase sunt importante, deoarece casele de piatră sunt reci.",
-                "en": "Warm clothing is important as the stone houses remain cool."
+                "en": "Warm clothing is important as the stone houses remain cool.",
+                "hr": "Topla odjeća je važna jer kamene kuće ostaju hladne."
               }
             },
             {
@@ -590,7 +645,8 @@
                 "de": "Besuchen Sie diesen Ort vor 15:00 Uhr wegen des natürlichen Lichts.",
                 "hu": "A természetes fény miatt érdemes 15:00 előtt ideérni.",
                 "ro": "Vizitați acest loc înainte de ora 15:00 pentru lumina naturală.",
-                "en": "Visit this place before 3:00 PM to benefit from natural light."
+                "en": "Visit this place before 3:00 PM to benefit from natural light.",
+                "hr": "Posjetite ovo mjesto prije 15:00 kako biste iskoristili prirodno svjetlo."
               }
             },
             {
@@ -599,7 +655,8 @@
                 "de": "In der Kirche ist es oft kälter als draußen.",
                 "hu": "A templomban gyakran hidegebb van, mint odakint.",
                 "ro": "În biserică este adesea mai frig decât afară.",
-                "en": "It is often colder inside the church than outside."
+                "en": "It is often colder inside the church than outside.",
+                "hr": "Unutar crkve je često hladnije nego vani."
               }
             },
             {
@@ -608,7 +665,8 @@
                 "de": "Genießen Sie die Winterstille im verschneiten Park.",
                 "hu": "Élvezze a téli csendet a havas parkban.",
                 "ro": "Bucurați-vă de liniștea iernii în parcul înzăpezit.",
-                "en": "Enjoy the winter silence in the snowy park."
+                "en": "Enjoy the winter silence in the snowy park.",
+                "hr": "Uživajte u zimskoj tišini u snježnom parku."
               }
             },
             {
@@ -617,7 +675,8 @@
                 "de": "Probieren Sie die traditionelle Zagorje-Suppe zum Aufwärmen.",
                 "hu": "Kóstolja meg a hagyományos zagorjei levest a felmelegedéshez.",
                 "ro": "Încercați supa tradițională din Zagorje pentru a vă încălzi.",
-                "en": "Try the traditional Zagorje soup to warm up."
+                "en": "Try the traditional Zagorje soup to warm up.",
+                "hr": "Probajte tradicionalnu zagorsku juhu za zagrijavanje."
               }
             }
           ],
@@ -645,6 +704,12 @@
               "Watch out for icy patches on the cobblestone paths.",
               "Many outdoor areas of the museum close earlier during winter.",
               "Layered clothing is ideal for switching between indoor and outdoor areas."
+            ],
+            "hr": [
+              "Sunce zimi zalazi iza planina oko 16:15.",
+              "Pripazite na zaleđene dijelove na kaldrmiranim stazama.",
+              "Mnogi vanjski dijelovi muzeja zatvaraju se ranije tijekom zime.",
+              "Slojevita odjeća idealna je za prebacivanje između zatvorenih i otvorenih prostora."
             ]
           }
         }
@@ -673,7 +738,8 @@
             "de": "Parkplatz für Räder am Eingang.",
             "hu": "Kerékpártároló a bejáratnál.",
             "ro": "Parcare pentru biciclete la intrare.",
-            "en": "Bike parking at the entrance."
+            "en": "Bike parking at the entrance.",
+            "hr": "Parking za bicikle na ulazu."
           }
         },
         {
@@ -691,7 +757,8 @@
             "de": "Schöne Fahrt entlang der Sutla.",
             "hu": "Szép út a Szutla mentén.",
             "ro": "Drum frumos de-a lungul Sutlei.",
-            "en": "Beautiful ride along the Sutla."
+            "en": "Beautiful ride along the Sutla.",
+            "hr": "Prekrasna vožnja uz Sutlu."
           }
         },
         {
@@ -709,7 +776,8 @@
             "de": "Kurze Pause im Grünen.",
             "hu": "Rövid pihenő a zöldben.",
             "ro": "Scurtă pauză în verdeață.",
-            "en": "Short break in the greenery."
+            "en": "Short break in the greenery.",
+            "hr": "Kratka pauza u zelenilu."
           }
         },
         {
@@ -727,7 +795,8 @@
             "de": "Lokale Kunstwerke bestaunen.",
             "hu": "Helyi műalkotások megtekintése.",
             "ro": "Admirați opere de artă locale.",
-            "en": "Admire local artworks."
+            "en": "Admire local artworks.",
+            "hr": "Divite se lokalnim umjetničkim djelima."
           }
         },
         {
@@ -745,7 +814,8 @@
             "de": "Interessante Zeitgeschichte.",
             "hu": "Érdekes kortörténet.",
             "ro": "Istorie contemporană interesantă.",
-            "en": "Interesting contemporary history."
+            "en": "Interesting contemporary history.",
+            "hr": "Zanimljiva suvremena povijest."
           }
         },
         {
@@ -763,7 +833,8 @@
             "de": "Stärkung nach der tour.",
             "hu": "Felfrissülés a túra után.",
             "ro": "Reîmprospătare după tur.",
-            "en": "Refreshment after the tour."
+            "en": "Refreshment after the tour.",
+            "hr": "Osvježenje nakon ture."
           }
         }
       ],
@@ -771,7 +842,8 @@
         "de": "Starten Sie am Museum Staro Selo und radeln Sie dann südwärts zum Zelenjak-Denkmal durch das malerische Sutla-Tal. Mittags kehren Sie ins Dorfzentrum zurück, um die Galerie und die alte Schule zu besichtigen. Den Abschluss bildet eine entspannte Mahlzeit in einer traditionellen Gaststätte.",
         "hu": "Kezdjen a Staro Selo múzeumnál, majd tekerjen délre a Zelenjak emlékműhöz a festői Szutla-völgyön keresztül. Délben térjen vissza a faluközpontba, hogy megnézze a galériát és a régi iskolát. A napot egy nyugodt ebéddel zárhatja egy hagyományos étteremben.",
         "ro": "Începeți la muzeul Staro Selo, apoi pedalați spre sud către monumentul Zelenjak prin valea pitorească a Sutlei. La prânz, reveniți în centrul satului pentru a vizita galeria și vechea școală. Încheiați ziua cu o masă relaxată într-un restaurant tradițional.",
-        "en": "Start at the Staro Selo museum, then cycle south to the Zelenjak monument through the picturesque Sutla Valley. At noon, return to the village center to visit the gallery and the old school. Finish the day with a relaxed meal in a traditional inn."
+        "en": "Start at the Staro Selo museum, then cycle south to the Zelenjak monument through the picturesque Sutla Valley. At noon, return to the village center to visit the gallery and the old school. Finish the day with a relaxed meal in a traditional inn.",
+        "hr": "Započnite u muzeju Staro selo, a zatim vozite bicikl na jug do spomenika u Zelenjaku kroz slikovitu dolinu Sutle. U podne se vratite u središte sela kako biste posjetili galeriju i staru školu. Završite dan opuštenim obrokom u tradicionalnoj gostionici."
       },
       "gastro_picks": {
         "de": [
@@ -796,6 +868,12 @@
           {
             "name": "Zagorje Platter",
             "tip": "Assorted meats and side dishes."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Zagorska plata",
+            "tip": "Razne vrste mesa i priloga."
           }
         ]
       },
@@ -827,6 +905,13 @@
             "tip": "Quiet path right by the water.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obala Sutle",
+            "tip": "Mirna staza tik uz vodu.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -853,6 +938,12 @@
             "name": "Village Market",
             "tip": "Fresh fruit from local farmers."
           }
+        ],
+        "hr": [
+          {
+            "name": "Seoska tržnica",
+            "tip": "Svježe voće od lokalnih poljoprivrednika."
+          }
         ]
       },
       "tips": {
@@ -871,6 +962,10 @@
         "en": [
           "The route along the river is mostly flat.",
           "Watch out for hikers in the park zones."
+        ],
+        "hr": [
+          "Ruta uz rijeku je uglavnom ravna.",
+          "Pripazite na pješake u zonama parka."
         ]
       },
       "variants": {
@@ -1043,7 +1138,8 @@
             "de": "Radfahren im Regen durch das Zagorje erfordert gute Ausrüstung, bietet aber leere Wege. Vormittags erkunden Sie Staro Selo. Danach führt die Tour zum Hymnen-Denkmal, wobei der Wind den Regen peitscht. Mittags suchen Sie Schutz im Park und der Galerie. Nachmittags geht es zurück zur alten Schule, bevor die verdiente Einkehr in der Villa Zelenjak ansteht.",
             "hu": "A Zagorje dombjai közötti esős kerékpározás jó felszerelést igényel, de cserébe üres utakat kínál. Délelőtt a Staro Selót fedezzük fel, majd a horvát himnusz emlékművéhez tekerünk. Délben a park és a galéria nyújt menedéket. Délután a régi iskola következik, mielőtt megérkeznénk a megérdemelt pihenőre a Villa Zelenjakba.",
             "ro": "Ciclismul prin Zagorje pe ploaie necesită echipament bun, dar oferă drumuri libere. Dimineața explorați Staro Selo. Apoi turul duce la Monumentul Imnului, unde vântul bate ploaia. La prânz căutați adăpost în parc și la galerie. După-amiaza vă întoarceți la vechea școală, înainte de binemeritata oprire la Villa Zelenjak.",
-            "en": "Cycling through Zagorje in the rain requires good gear but offers empty paths. In the morning, explore Staro Selo. Then the tour leads to the Anthem Monument, with the wind whipping the rain. At noon, seek shelter in the park and gallery. In the afternoon, return to the old school before a well-deserved stop at Villa Zelenjak."
+            "en": "Cycling through Zagorje in the rain requires good gear but offers empty paths. In the morning, explore Staro Selo. Then the tour leads to the Anthem Monument, with the wind whipping the rain. At noon, seek shelter in the park and gallery. In the afternoon, return to the old school before a well-deserved stop at Villa Zelenjak.",
+            "hr": "Vožnja biciklom kroz Zagorje po kiši zahtijeva dobru opremu, ali nudi prazne staze. Ujutro istražite Staro selo. Zatim tura vodi do spomenika hrvatskoj himni, dok vjetar kovitla kišu. U podne potražite zaklon u parku i galeriji. Poslijepodne se vratite u staru školu prije zasluženog zaustavljanja u Vili Zelenjak."
           },
           "stops": [
             {
@@ -1052,7 +1148,8 @@
                 "de": "Stellen Sie Ihr Fahrrad unter den Dachüberständen der Häuser ab.",
                 "hu": "Parkolja le kerékpárját a házak eresze alá.",
                 "ro": "Parcați bicicleta sub streșinile caselor.",
-                "en": "Park your bike under the eaves of the houses."
+                "en": "Park your bike under the eaves of the houses.",
+                "hr": "Parkirajte bicikl ispod streha kuća."
               }
             },
             {
@@ -1061,7 +1158,8 @@
                 "de": "Vorsicht, der Bereich um das Denkmal kann bei Regen rutschig sein.",
                 "hu": "Vigyázat, az emlékmű környéke esőben csúszós lehet.",
                 "ro": "Atenție, zona din jurul monumentului poate fi alunecoasă pe ploaie.",
-                "en": "Caution, the area around the monument can be slippery in the rain."
+                "en": "Caution, the area around the monument can be slippery in the rain.",
+                "hr": "Oprez, područje oko spomenika može biti sklisko na kiši."
               }
             },
             {
@@ -1070,7 +1168,8 @@
                 "de": "Nutzen Sie den Pavillon als trockenen Sammelpunkt.",
                 "hu": "Használja a pavilont száraz gyülekezőhelyként.",
                 "ro": "Folosiți pavilionul ca punct de întâlnire uscat.",
-                "en": "Use the pavilion as a dry meeting point."
+                "en": "Use the pavilion as a dry meeting point.",
+                "hr": "Koristite paviljon kao suho mjesto za sastanak."
               }
             },
             {
@@ -1079,7 +1178,8 @@
                 "de": "Gute Gelegenheit, Kleidung und Ausrüstung kurz zu trocknen.",
                 "hu": "Jó alkalom a ruhák és felszerelések rövid szárítására.",
                 "ro": "O oportunitate bună de a usca puțin hainele și echipamentul.",
-                "en": "A good opportunity to briefly dry your clothes and gear."
+                "en": "A good opportunity to briefly dry your clothes and gear.",
+                "hr": "Dobra prilika za kratko sušenje odjeće i opreme."
               }
             },
             {
@@ -1088,7 +1188,8 @@
                 "de": "Achten Sie auf Pfützen auf dem Weg zur Schule.",
                 "hu": "Ügyeljen a tócsákra az iskolához vezető úton.",
                 "ro": "Fiți atenți la bălți pe drumul spre școală.",
-                "en": "Watch out for puddles on the way to the school."
+                "en": "Watch out for puddles on the way to the school.",
+                "hr": "Pripazite na lokve na putu do škole."
               }
             },
             {
@@ -1097,7 +1198,8 @@
                 "de": "Es gibt überdachte Plätze im Außenbereich für Radler.",
                 "hu": "Vannak fedett kültéri helyek a kerékpárosok számára.",
                 "ro": "Există locuri exterioare acoperite pentru bicicliști.",
-                "en": "There are covered outdoor seats for cyclists."
+                "en": "There are covered outdoor seats for cyclists.",
+                "hr": "Postoje natkrivena vanjska sjedala za bicikliste."
               }
             }
           ],
@@ -1125,6 +1227,12 @@
               "Avoid sudden braking on wet cobblestones.",
               "Waterproof panniers will protect your camera and documents.",
               "Wear high-visibility rain gear for better safety on the road."
+            ],
+            "hr": [
+              "Blatobrani su obavezni na nepopločanim stazama u Kumrovcu.",
+              "Izbjegavajte naglo kočenje na mokroj kaldrmi.",
+              "Vodootporne torbe zaštitit će vaš fotoaparat i dokumente.",
+              "Nosite uočljivu kišnu opremu radi bolje sigurnosti na cesti."
             ]
           }
         },
@@ -1133,7 +1241,8 @@
             "de": "Winterliches Radeln in Kumrovec ist für Abenteurer bei klarer Luft reizvoll. Vormittags erkunden Sie Staro Selo, wenn die Kälte noch klirrt. Die Fahrt zum Hymnen-Denkmal bietet weite Blicke über das kahle Zagorje. Mittags wärmen Sie sich in der Galerie und der alten Schule auf. Beenden Sie die Tour vor dem frühen Sonnenuntergang mit einer heißen Mahlzeit in der Villa Zelenjak.",
             "hu": "A téli kerékpározás Kumrovecben a tiszta levegő miatt vonzó a kalandoroknak. Délelőtt a Staro Selót nézzük meg, amikor még csípős a hideg. A himnusz emlékműhöz vezető út tiszta kilátást nyújt a kopár Zagorjéra. Délben a galéria és a régi iskola fűtött tereiben melegedhetünk. A túrát a korai naplemente előtt fejezzük be a Villa Zelenjakban.",
             "ro": "Ciclismul de iarnă în Kumrovec este atractiv pentru aventurieri datorită aerului curat. Dimineața explorați Staro Selo când frigul este încă pătrunzător. Drumul spre Monumentul Imnului oferă vederi largi peste Zagorje. La prânz vă încălziți în galerie și la vechea școală. Încheiați turul înainte de apusul devreme cu o masă caldă la Villa Zelenjak.",
-            "en": "Winter cycling in Kumrovec is appealing for adventurers due to the crisp air. In the morning, explore Staro Selo while it is still freezing cold. The ride to the Anthem Monument offers wide views over the bare Zagorje landscape. At noon, warm up in the gallery and the old school. Finish the tour before the early sunset with a hot meal at Villa Zelenjak."
+            "en": "Winter cycling in Kumrovec is appealing for adventurers due to the crisp air. In the morning, explore Staro Selo while it is still freezing cold. The ride to the Anthem Monument offers wide views over the bare Zagorje landscape. At noon, warm up in the gallery and the old school. Finish the tour before the early sunset with a hot meal at Villa Zelenjak.",
+            "hr": "Zimska vožnja biciklom u Kumrovcu privlačna je avanturistima zbog oštrog zraka. Ujutro istražite Staro selo dok je još ledeno hladno. Vožnja do spomenika himni nudi široke vidike na ogoljeli zagorski krajolik. U podne se zagrijte u galeriji i staroj školi. Završite turu prije ranog zalaska sunca uz topli obrok u Vili Zelenjak."
           },
           "stops": [
             {
@@ -1142,7 +1251,8 @@
                 "de": "Achten Sie auf vereiste Stellen zwischen den Häusern.",
                 "hu": "Ügyeljen a házak közötti jeges szakaszokra.",
                 "ro": "Atenție la porțiunile înghețate dintre case.",
-                "en": "Watch out for icy spots between the houses."
+                "en": "Watch out for icy spots between the houses.",
+                "hr": "Pripazite na zaleđena mjesta između kuća."
               }
             },
             {
@@ -1151,7 +1261,8 @@
                 "de": "Der Wind kann hier im Tal besonders beißend sein.",
                 "hu": "A szél ebben a völgyben különösen csípős lehet.",
                 "ro": "Vântul poate fi deosebit de tăios aici în vale.",
-                "en": "The wind can be particularly biting here in the valley."
+                "en": "The wind can be particularly biting here in the valley.",
+                "hr": "Vjetar ovdje u dolini može biti posebno oštar."
               }
             },
             {
@@ -1160,7 +1271,8 @@
                 "de": "Kurzer Stopp, um die gefrorene Natur zu bewundern.",
                 "hu": "Rövid megálló a fagyos természet megcsodálására.",
                 "ro": "Scurtă oprire pentru a admira natura înghețată.",
-                "en": "Short stop to admire the frozen nature."
+                "en": "Short stop to admire the frozen nature.",
+                "hr": "Kratko zaustavljanje radi divljenja smrznutoj prirodi."
               }
             },
             {
@@ -1169,7 +1281,8 @@
                 "de": "Idealer Ort, um die Hände wieder aufzuwärmen.",
                 "hu": "Ideális hely a kezek felmelegítésére.",
                 "ro": "Loc ideal pentru a vă reîncălzi mâinile.",
-                "en": "Ideal place to warm up your hands again."
+                "en": "Ideal place to warm up your hands again.",
+                "hr": "Idealno mjesto za ponovno zagrijavanje ruku."
               }
             },
             {
@@ -1178,7 +1291,8 @@
                 "de": "Die Holzfußböden können im Winter sehr kalt sein.",
                 "hu": "A fapadló télen nagyon hideg lehet.",
                 "ro": "Podelele de lemn pot fi foarte reci iarna.",
-                "en": "The wooden floors can be very cold in winter."
+                "en": "The wooden floors can be very cold in winter.",
+                "hr": "Drveni podovi zimi mogu biti vrlo hladni."
               }
             },
             {
@@ -1187,7 +1301,8 @@
                 "de": "Ein heißer Tee oder Glühwein wirkt hier Wunder.",
                 "hu": "Egy forró tea vagy forralt bor csodákra képes itt.",
                 "ro": "Un ceai fierbinte sau un vin fiert face minuni aici.",
-                "en": "A hot tea or mulled wine works wonders here."
+                "en": "A hot tea or mulled wine works wonders here.",
+                "hr": "Vrući čaj ili kuhano vino čine čuda."
               }
             }
           ],
@@ -1215,6 +1330,12 @@
               "E-bike batteries drain faster in cold temperatures.",
               "Darkness sets in the valley as early as 4:00 PM.",
               "Avoid shaded forest paths, as frost lingers longer there."
+            ],
+            "hr": [
+              "Nosite rukavice otporne na vjetar i kapu ispod kacige.",
+              "Baterije e-bicikala brže se prazne na niskim temperaturama.",
+              "Mrak se u dolini spušta već oko 16:00.",
+              "Izbjegavajte sjenovite šumske staze jer se mraz tamo duže zadržava."
             ]
           }
         }
@@ -1243,7 +1364,8 @@
             "de": "Großer Parkplatz in der Nähe.",
             "hu": "Nagy parkoló a közelben.",
             "ro": "Parcare mare în apropiere.",
-            "en": "Large parking lot nearby."
+            "en": "Large parking lot nearby.",
+            "hr": "Veliko parkiralište u blizini."
           }
         },
         {
@@ -1261,7 +1383,8 @@
             "de": "Kurzer Stopp am Denkmal.",
             "hu": "Rövid megálló az emlékműnél.",
             "ro": "Scurtă oprire la monument.",
-            "en": "Short stop at the monument."
+            "en": "Short stop at the monument.",
+            "hr": "Kratko zaustavljanje kod spomenika."
           }
         },
         {
@@ -1279,7 +1402,8 @@
             "de": "Nur 20 Min. Fahrt von Kumrovec.",
             "hu": "Csak 20 perc autóval Kumrovectől.",
             "ro": "Doar 20 min cu mașina de Kumrovec.",
-            "en": "Only 20 min drive from Kumrovec."
+            "en": "Only 20 min drive from Kumrovec.",
+            "hr": "Samo 20 minuta vožnje od Kumrovca."
           }
         },
         {
@@ -1297,7 +1421,8 @@
             "de": "Blick auf die Architektur.",
             "hu": "Építészeti érdekesség.",
             "ro": "Punct de interes arhitectural.",
-            "en": "Architectural point of interest."
+            "en": "Architectural point of interest.",
+            "hr": "Arhitektonski zanimljivo mjesto."
           }
         },
         {
@@ -1315,7 +1440,8 @@
             "de": "Reichhaltige Portionen.",
             "hu": "Bőséges adagok.",
             "ro": "Porții generoase.",
-            "en": "Hearty portions."
+            "en": "Hearty portions.",
+            "hr": "Obilne porcije."
           }
         }
       ],
@@ -1323,7 +1449,8 @@
         "de": "Nutzen Sie das Auto für einen Ausflug zum nahegelegenen Schloss Veliki Tabor nach der Besichtigung von Kumrovec. Vormittags erkunden Sie das Museumsdorf und das Tito-Haus. Nachmittags bewundern Sie das Herrenhaus der Familie Broz und genießen ein Abendessen im Ort.",
         "hu": "Használja az autót egy kiránduláshoz a közeli Veliki Tabor várhoz Kumrovec megtekintése után. Délelőtt fedezze fel a múzeumfalut és Tito szülőházát. Délután csodálja meg a Broz-család udvarházát, majd vacsorázzon a községben.",
         "ro": "Folosiți mașina pentru o excursie la castelul Veliki Tabor din apropiere după vizitarea Kumrovec. Dimineața explorați satul muzeu și casa lui Tito. După-amiaza admirați conacul familiei Broz și bucurați-vă de o cină în localitate.",
-        "en": "Use your car for a trip to nearby Veliki Tabor castle after visiting Kumrovec. In the morning, explore the museum village and Tito's house. In the afternoon, admire the Broz family manor and enjoy dinner in town."
+        "en": "Use your car for a trip to nearby Veliki Tabor castle after visiting Kumrovec. In the morning, explore the museum village and Tito's house. In the afternoon, admire the Broz family manor and enjoy dinner in town.",
+        "hr": "Nakon posjeta Kumrovcu, koristite automobil za izlet do obližnjeg dvorca Veliki Tabor. Ujutro istražite muzejsko selo i Titovu kuću. Poslijepodne se divite kuriji obitelji Broz i uživajte u večeri u mjestu."
       },
       "gastro_picks": {
         "de": [
@@ -1348,6 +1475,12 @@
           {
             "name": "Game dishes",
             "tip": "Specialty of the Zagorje region."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Jela od divljači",
+            "tip": "Specijalitet zagorske regije."
           }
         ]
       },
@@ -1379,6 +1512,13 @@
             "tip": "Panoramic view of the hills.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vrt dvorca Tabor",
+            "tip": "Panoramski pogled na brežuljke.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1405,6 +1545,12 @@
             "name": "Homemade wine",
             "tip": "Buy directly from local farms."
           }
+        ],
+        "hr": [
+          {
+            "name": "Domaće vino",
+            "tip": "Kupite izravno s lokalnih poljoprivrednih gospodarstava."
+          }
         ]
       },
       "tips": {
@@ -1423,6 +1569,10 @@
         "en": [
           "Park directly at the museum entrance.",
           "Combine Kumrovec with Veliki Tabor castle."
+        ],
+        "hr": [
+          "Parkirajte izravno na ulazu u muzej.",
+          "Kombinirajte Kumrovec s dvorcem Veliki Tabor."
         ]
       },
       "variants": {
@@ -1586,7 +1736,8 @@
             "de": "Regen im Zagorje macht die Fahrt durch die hügelige Landschaft besonders atmosphärisch. Vormittags besuchen Sie Staro Selo und das Tito-Haus. Mittags führt die Fahrt zum Hymnen-Denkmal und weiter zum imposanten Schloss Veliki Tabor, das im Regen noch trutziger wirkt. Nachmittags kehren Sie zum Herrenhaus Broz zurück, bevor Sie den Tag gemütlich bei regionaler Kost beenden.",
             "hu": "Az eső a Zagorjéban különleges hangulatot ad a dombos tájon való autózásnak. Délelőtt a Staro Selót és a Tito-házat látogatjuk meg. Délben az út a himnusz emlékműhöz, majd a lenyűgöző Veliki Tabor várához vezet, amely esőben még zordabbnak tűnik. Délután a Broz-kúria következik, végül egy hangulatos étteremben zárjuk a napot.",
             "ro": "Ploaia în Zagorje face condusul prin peisajul deluros deosebit de atmosferic. Dimineața vizitați Staro Selo și casa lui Tito. La prânz, drumul duce la Monumentul Imnului și mai departe la impunătorul Castel Veliki Tabor. După-amiaza vă întoarceți la Conacul Broz, înainte de a încheia ziua confortabil cu preparate regionale.",
-            "en": "Rain in Zagorje makes driving through the hilly landscape particularly atmospheric. In the morning, visit Staro Selo and the Tito House. At noon, the drive leads to the Anthem Monument and further to the imposing Veliki Tabor Castle, which looks even more defiant in the rain. In the afternoon, return to the Broz Manor before ending the day cozily with regional food."
+            "en": "Rain in Zagorje makes driving through the hilly landscape particularly atmospheric. In the morning, visit Staro Selo and the Tito House. At noon, the drive leads to the Anthem Monument and further to the imposing Veliki Tabor Castle, which looks even more defiant in the rain. In the afternoon, return to the Broz Manor before ending the day cozily with regional food.",
+            "hr": "Kiša u Zagorju čini vožnju kroz brdoviti krajolik posebno atmosferskom. Ujutro posjetite Staro selo i Titovu kuću. U podne vožnja vodi do spomenika himni i dalje do impozantnog dvorca Veliki Tabor, koji na kiši izgleda još prkosnije. Poslijepodne se vratite u kuriju Broz prije nego što dan ugodno završite uz regionalnu hranu."
           },
           "stops": [
             {
@@ -1595,7 +1746,8 @@
                 "de": "Parken Sie nah am Eingang, um den Fußweg im Regen kurz zu halten.",
                 "hu": "Parkoljon közel a bejárathoz, hogy esőben rövid legyen a séta.",
                 "ro": "Parcați aproape de intrare pentru a scurta drumul pe jos prin ploaie.",
-                "en": "Park close to the entrance to keep the walk in the rain short."
+                "en": "Park close to the entrance to keep the walk in the rain short.",
+                "hr": "Parkirajte blizu ulaza kako bi šetnja po kiši bila kratka."
               }
             },
             {
@@ -1604,7 +1756,8 @@
                 "de": "Man kann das Denkmal gut vom Auto aus sehen, falls es stark regnet.",
                 "hu": "Heves esőzés esetén az autóból is jól látható az emlékmű.",
                 "ro": "Monumentul poate fi văzut bine din mașină dacă plouă torențial.",
-                "en": "The monument can be seen well from the car if it is raining hard."
+                "en": "The monument can be seen well from the car if it is raining hard.",
+                "hr": "Spomenik se dobro vidi iz automobila ako jako pada kiša."
               }
             },
             {
@@ -1613,7 +1766,8 @@
                 "de": "Die Auffahrt zum Schloss ist bei Regen gut befestigt.",
                 "hu": "A várhoz vezető feljáró esőben is jól járható.",
                 "ro": "Drumul de acces către castel este bine pavat în caz de ploaie.",
-                "en": "The access road to the castle is well-paved even in the rain."
+                "en": "The access road to the castle is well-paved even in the rain.",
+                "hr": "Prilazna cesta dvorcu dobro je popločana čak i po kiši."
               }
             },
             {
@@ -1622,7 +1776,8 @@
                 "de": "Im Inneren finden Sie interessante Ausstellungen im Trockenen.",
                 "hu": "Odabent érdekes kiállításokat találhat, védve az esőtől.",
                 "ro": "În interior veți găsi expoziții interesante la adăpost.",
-                "en": "Inside you will find interesting exhibits protected from the rain."
+                "en": "Inside you will find interesting exhibits protected from the rain.",
+                "hr": "Unutra ćete naći zanimljive izloške zaštićene od kiše."
               }
             },
             {
@@ -1631,7 +1786,8 @@
                 "de": "Fragen Sie nach einem Platz in der Nähe der Heizung zum Trocknen.",
                 "hu": "Kérjen asztalt a fűtés közelében, hogy megszáradhasson.",
                 "ro": "Cereți un loc lângă calorifer pentru a vă usca.",
-                "en": "Ask for a seat near the heater to dry off."
+                "en": "Ask for a seat near the heater to dry off.",
+                "hr": "Tražite mjesto u blizini grijača kako biste se osušili."
               }
             }
           ],
@@ -1659,6 +1815,12 @@
               "Watch out for tractors that may bring mud onto the roadway.",
               "Use the windshield defroster against fogging in high humidity.",
               "An umbrella in the trunk is essential for the short walks."
+            ],
+            "hr": [
+              "Ceste u Zagorju su zavojite; budite oprezni na mokrim površinama.",
+              "Pripazite na traktore koji mogu nanijeti blato na kolnik.",
+              "Koristite odmagljivač vjetrobranskog stakla protiv magljenja pri visokoj vlažnosti.",
+              "Kišobran u prtljažniku je neophodan za kratke šetnje."
             ]
           }
         },
@@ -1667,7 +1829,8 @@
             "de": "Eine winterliche Autofahrt nach Kumrovec zeigt das Zagorje von seiner stillen Seite. Vormittags erkunden Sie die Museen im Dorf. Mittags führt die Panoramafahrt zum Hymnen-Denkmal und hinauf zum Schloss Veliki Tabor, das majestätisch über den verschneiten Hügeln thront. Nachmittags besuchen Sie das Herrenhaus Broz, bevor Sie sich in einer warmen Gaststätte aufwärmen.",
             "hu": "A téli autózás Kumrovecbe Zagorje csendes arcát mutatja meg. Délelőtt a falu múzeumait járjuk körbe. Délben panorámaút vezet a himnusz emlékműhöz és fel a Veliki Tabor várához, amely fenségesen magasodik a havas dombok fölé. Délután a Broz-kúria következik, mielőtt egy meleg vendéglőben felmelegednénk.",
             "ro": "O călătorie cu mașina iarna la Kumrovec arată partea liniștită a regiunii Zagorje. Dimineața explorați muzeele din sat. La prânz, drumul panoramic duce la Monumentul Imnului și sus la Castelul Veliki Tabor. După-amiaza vizitați Conacul Broz, înainte de a vă încălzi într-un restaurant primitor.",
-            "en": "A winter car trip to Kumrovec shows the quiet side of Zagorje. In the morning, explore the museums in the village. At noon, a scenic drive leads to the Anthem Monument and up to Veliki Tabor Castle, which towers majestically over the snowy hills. In the afternoon, visit the Broz Manor before warming up in a cozy restaurant."
+            "en": "A winter car trip to Kumrovec shows the quiet side of Zagorje. In the morning, explore the museums in the village. At noon, a scenic drive leads to the Anthem Monument and up to Veliki Tabor Castle, which towers majestically over the snowy hills. In the afternoon, visit the Broz Manor before warming up in a cozy restaurant.",
+            "hr": "Zimski izlet automobilom u Kumrovec pokazuje mirnu stranu Zagorja. Ujutro istražite muzeje u selu. U podne slikovita vožnja vodi do spomenika himni i gore do dvorca Veliki Tabor, koji se veličanstveno uzdiže nad snježnim brežuljcima. Poslijepodne posjetite kuriju Broz prije zagrijavanja u ugodnom restoranu."
           },
           "stops": [
             {
@@ -1676,7 +1839,8 @@
                 "de": "Prüfen Sie vorab, ob die Parkplätze geräumt sind.",
                 "hu": "Indulás előtt ellenőrizze, hogy a parkolók le vannak-e takarítva.",
                 "ro": "Verificați din timp dacă parcările sunt deszăpezite.",
-                "en": "Check beforehand if the parking lots are cleared of snow."
+                "en": "Check beforehand if the parking lots are cleared of snow.",
+                "hr": "Unaprijed provjerite jesu li parkirališta očišćena od snijega."
               }
             },
             {
@@ -1685,7 +1849,8 @@
                 "de": "Der Parkplatz hier kann im Winter glatt sein.",
                 "hu": "Az itteni parkoló télen jeges, csúszós lehet.",
                 "ro": "Parcarea de aici poate fi alunecoasă iarna.",
-                "en": "The parking lot here can be slippery in winter."
+                "en": "The parking lot here can be slippery in winter.",
+                "hr": "Parkiralište ovdje zimi može biti sklisko."
               }
             },
             {
@@ -1694,7 +1859,8 @@
                 "de": "Winterreifen sind für die steile Auffahrt zwingend erforderlich.",
                 "hu": "A meredek feljáróhoz a téli gumi elengedhetetlen.",
                 "ro": "Anvelopele de iarnă sunt obligatorii pentru urcarea abruptă.",
-                "en": "Winter tires are mandatory for the steep drive up."
+                "en": "Winter tires are mandatory for the steep drive up.",
+                "hr": "Zimske gume su obavezne za strmi uspon."
               }
             },
             {
@@ -1703,7 +1869,8 @@
                 "de": "Ein schöner Ort, um kurz aus der Kälte zu entfliehen.",
                 "hu": "Szép hely, ahol rövid időre elmenekülhetünk a hideg elől.",
                 "ro": "Un loc frumos pentru a scăpa scurt de frig.",
-                "en": "A beautiful place to briefly escape the cold."
+                "en": "A beautiful place to briefly escape the cold.",
+                "hr": "Prekrasno mjesto za kratki bijeg od hladnoće."
               }
             },
             {
@@ -1712,7 +1879,8 @@
                 "de": "Genießen Sie den Sonnenuntergang durch die Panoramascheiben.",
                 "hu": "Élvezze a naplementét a panorámaablakokon keresztül.",
                 "ro": "Bucurați-vă de apusul soarelui prin ferestrele panoramice.",
-                "en": "Enjoy the sunset through the panoramic windows."
+                "en": "Enjoy the sunset through the panoramic windows.",
+                "hr": "Uživajte u zalasku sunca kroz panoramske prozore."
               }
             }
           ],
@@ -1740,6 +1908,12 @@
               "Check the antifreeze in your windshield washer system.",
               "Avoid parking under tall trees due to the risk of falling snow.",
               "Plan your return journey before darkness falls (around 4:30 PM)."
+            ],
+            "hr": [
+              "Nosite lance za snijeg jer se sporedne ceste često čiste posljednje.",
+              "Provjerite antifriz u sustavu za pranje vjetrobranskog stakla.",
+              "Izbjegavajte parkiranje ispod visokih stabala zbog opasnosti od pada snijega.",
+              "Planirajte povratak prije mraka (oko 16:30)."
             ]
           }
         }
@@ -1768,7 +1942,8 @@
             "de": "Busstop Kumrovec-Centar.",
             "hu": "Kumrovec-központ buszmegálló.",
             "ro": "Stație de autobuz Kumrovec-Centar.",
-            "en": "Kumrovec-Centar bus stop."
+            "en": "Kumrovec-Centar bus stop.",
+            "hr": "Autobusna stanica Kumrovec-Centar."
           }
         },
         {
@@ -1786,7 +1961,8 @@
             "de": "Kurzer Spaziergang vom Zentrum.",
             "hu": "Rövid séta a központtól.",
             "ro": "Scurtă plimbare din centru.",
-            "en": "Short walk from the center."
+            "en": "Short walk from the center.",
+            "hr": "Kratka šetnja od centra."
           }
         },
         {
@@ -1804,7 +1980,8 @@
             "de": "Wechselnde Ausstellungen.",
             "hu": "Változó kiállítások.",
             "ro": "Expoziții temporare.",
-            "en": "Changing exhibitions."
+            "en": "Changing exhibitions.",
+            "hr": "Povremene izložbe."
           }
         },
         {
@@ -1822,7 +1999,8 @@
             "de": "Picknick im Schatten.",
             "hu": "Piknik az árnyékban.",
             "ro": "Picnic la umbră.",
-            "en": "Picnic in the shade."
+            "en": "Picnic in the shade.",
+            "hr": "Piknik u hladu."
           }
         },
         {
@@ -1840,7 +2018,8 @@
             "de": "Letzte Stärkung vor der Abfahrt.",
             "hu": "Utolsó frissítő az indulás előtt.",
             "ro": "Ultima gustare înainte de plecare.",
-            "en": "Last refreshment before departure."
+            "en": "Last refreshment before departure.",
+            "hr": "Zadnje osvježenje prije polaska."
           }
         }
       ],
@@ -1848,7 +2027,8 @@
         "de": "Kumrovec ist gut mit dem Bus von Zagreb oder Zabok erreichbar. Vormittags steht das Freilichtmuseum im Fokus. Mittags besuchen Sie die Rochuskirche und die Galerie. Der Nachmittag gehört dem Park, bevor Sie den Bus für die Rückreise nehmen.",
         "hu": "Kumrovec busszal jól megközelíthető Zágrábból vagy Zabokból. Délelőtt a skanzen a fő látnivaló. Délben a Szent Rókus-templomot és a galériát látogathatja meg. A délutánt töltse a parkban a hazautazás előtt.",
         "ro": "Kumrovec este ușor accesibil cu autobuzul din Zagreb sau Zabok. Dimineața, muzeul satului este atracția principală. La prânz, vizitați biserica Sf. Rochus și galeria. După-amiaza aparține parcului, înainte de a lua autobuzul spre casă.",
-        "en": "Kumrovec is easily accessible by bus from Zagreb or Zabok. In the morning, focus on the open-air museum. At noon, visit St. Roch's Church and the gallery. Spend the afternoon in the park before catching your bus back."
+        "en": "Kumrovec is easily accessible by bus from Zagreb or Zabok. In the morning, focus on the open-air museum. At noon, visit St. Roch's Church and the gallery. Spend the afternoon in the park before catching your bus back.",
+        "hr": "Kumrovec je lako dostupan autobusom iz Zagreba ili Zaboka. Ujutro se usredotočite na muzej na otvorenom. U podne posjetite crkvu sv. Roka i galeriju. Provedite poslijepodne u parku prije nego što uhvatite autobus za povratak."
       },
       "gastro_picks": {
         "de": [
@@ -1873,6 +2053,12 @@
           {
             "name": "Local soups",
             "tip": "Freshly prepared."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalne juhe",
+            "tip": "Svježe pripremljene."
           }
         ]
       },
@@ -1904,6 +2090,13 @@
             "tip": "Quiet view over the rooftops.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Trg kod crkve",
+            "tip": "Mirni pogled preko krovova.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1930,6 +2123,12 @@
             "name": "Museum Shop",
             "tip": "Books about the region."
           }
+        ],
+        "hr": [
+          {
+            "name": "Muzejska trgovina",
+            "tip": "Knjige o regiji."
+          }
         ]
       },
       "tips": {
@@ -1948,6 +2147,10 @@
         "en": [
           "Check the bus schedule in advance.",
           "Tickets can be bought from the driver."
+        ],
+        "hr": [
+          "Unaprijed provjerite vozni red autobusa.",
+          "Karte se mogu kupiti kod vozača."
         ]
       },
       "variants": {
@@ -2111,7 +2314,8 @@
             "de": "Mit Bus und Bahn durch das verregnete Zagorje zu reisen, hat einen ganz eigenen Charme. Vormittags erreichen Sie Kumrovec und besuchen Staro Selo. Mittags bieten die Kirche und die Galerie Schutz vor den Schauern. Nachmittags spazieren Sie kurz durch den Park, bevor Sie den Tag in einem Bistro ausklingen lassen und auf den Rückbus warten.",
             "hu": "Busszal és vonattal utazni az esős Zagorjén keresztül sajátos bájjal bír. Délelőtt érkezés Kumrovecbe, majd Staro Selo megtekintése. Délben a templom és a galéria nyújt védelmet a záporok elől. Délután egy rövid séta a parkban, végül egy bisztróban várhatjuk meg a hazafelé tartó buszt.",
             "ro": "Călătoria cu autobuzul prin Zagorje pe ploaie are un farmec aparte. Dimineața ajungeți la Kumrovec și vizitați Staro Selo. La prânz, biserica și galeria oferă protecție împotriva averselor. După-amiaza vă plimbați scurt prin parc, înainte de a încheia ziua într-un bistro în așteptarea autobuzului.",
-            "en": "Traveling by bus and train through the rainy Zagorje has its own charm. In the morning, arrive in Kumrovec and visit Staro Selo. At noon, the church and gallery offer protection from the showers. In the afternoon, take a short walk through the park before ending the day in a bistro while waiting for the return bus."
+            "en": "Traveling by bus and train through the rainy Zagorje has its own charm. In the morning, arrive in Kumrovec and visit Staro Selo. At noon, the church and gallery offer protection from the showers. In the afternoon, take a short walk through the park before ending the day in a bistro while waiting for the return bus.",
+            "hr": "Putovanje autobusom i vlakom kroz kišno Zagorje ima svoj šarm. Ujutro stignite u Kumrovec i posjetite Staro selo. U podne crkva i galerija nude zaštitu od pljuskova. Poslijepodne prošećite parkom prije nego što završite dan u bistrou dok čekate povratni autobus."
           },
           "stops": [
             {
@@ -2120,7 +2324,8 @@
                 "de": "Vom Busstopp zum Museum sind es nur wenige Gehminuten.",
                 "hu": "A buszmegállótól csak pár perc séta a múzeum.",
                 "ro": "Sunt doar câteva minute de mers de la stația de autobuz la muzeu.",
-                "en": "It is only a few minutes' walk from the bus stop to the museum."
+                "en": "It is only a few minutes' walk from the bus stop to the museum.",
+                "hr": "Od autobusne stanice do muzeja ima samo nekoliko minuta hoda."
               }
             },
             {
@@ -2129,7 +2334,8 @@
                 "de": "Ein ruhiger, trockener Ort für eine Pause.",
                 "hu": "Csendes, száraz hely egy kis pihenőre.",
                 "ro": "Un loc liniștit și uscat pentru o pauză.",
-                "en": "A quiet, dry place for a break."
+                "en": "A quiet, dry place for a break.",
+                "hr": "Mirno i suho mjesto za predah."
               }
             },
             {
@@ -2138,7 +2344,8 @@
                 "de": "Nutzen Sie die Zeit hier, um die Fahrpläne online zu checken.",
                 "hu": "Használja ki az időt a menetrendek online ellenőrzésére.",
                 "ro": "Folosiți timpul aici pentru a verifica orarele online.",
-                "en": "Use your time here to check bus schedules online."
+                "en": "Use your time here to check bus schedules online.",
+                "hr": "Iskoristite vrijeme ovdje za provjeru voznog reda online."
               }
             },
             {
@@ -2147,7 +2354,8 @@
                 "de": "Abkürzung zum Park nehmen, um weniger Zeit im Regen zu verbringen.",
                 "hu": "Vágjon át a parkon, hogy kevesebb időt töltsön az esőben.",
                 "ro": "Luați o scurtătură prin parc pentru a petrece mai puțin timp în ploaie.",
-                "en": "Take a shortcut to the park to spend less time in the rain."
+                "en": "Take a shortcut to the park to spend less time in the rain.",
+                "hr": "Skratite put do parka kako biste proveli manje vremena na kiši."
               }
             },
             {
@@ -2156,7 +2364,8 @@
                 "de": "Idealer Warteraum für den nächsten Bus.",
                 "hu": "Ideális váróhely a következő buszig.",
                 "ro": "Sală de așteptare ideală pentru următorul autobuz.",
-                "en": "Ideal waiting area for the next bus."
+                "en": "Ideal waiting area for the next bus.",
+                "hr": "Idealno područje za čekanje sljedećeg autobusa."
               }
             }
           ],
@@ -2184,6 +2393,12 @@
               "The bus shelters in Kumrovec offer limited protection from the wind.",
               "Wear reflective gear at bus stops during poor visibility.",
               "Download the local transit app for real-time information."
+            ],
+            "hr": [
+              "Autobusne veze mogu malo kasniti tijekom jake kiše.",
+              "Nadstrešnice na stanicama u Kumrovcu nude ograničenu zaštitu od vjetra.",
+              "Nosite reflektirajuću opremu na autobusnim stanicama pri lošoj vidljivosti.",
+              "Preuzmite aplikaciju za lokalni prijevoz za informacije u stvarnom vremenu."
             ]
           }
         },
@@ -2192,7 +2407,8 @@
             "de": "Die Anreise mit öffentlichen Verkehrsmitteln nach Kumrovec ist im Winter entspannt, da man die Landschaft genießen kann. Vormittags erkunden Sie Staro Selo. Mittags wärmen Sie sich in der Kirche und der Galerie auf. Nachmittags bietet der verschneite Park ein schönes Fotomotiv, bevor Sie sich im Bistro bei einem heißen Getränk auf die Rückfahrt vorbereiten.",
             "hu": "A tömegközlekedéssel való utazás Kumrovecbe télen pihentető, így élvezheti a tájat. Délelőtt a Staro Selót fedezzük fel. Délben a templom és a galéria falai között melegedhetünk. Délután a havas park szép fotótéma, végül a bisztróban egy forró itallal készülhetünk a hazautazásra.",
             "ro": "Călătoria cu transportul public spre Kumrovec este relaxantă iarna, permițându-vă să admirați peisajul. Dimineața explorați Staro Selo. La prânz vă încălziți în biserică și la galerie. După-amiaza, parcul înzăpezit oferă oportunități foto frumoase, înainte de a vă pregăti de plecare cu o băutură caldă.",
-            "en": "Traveling by public transport to Kumrovec in winter is relaxing as you can enjoy the landscape. In the morning, explore Staro Selo. At noon, warm up in the church and the gallery. In the afternoon, the snowy park offers great photo opportunities before preparing for the return journey with a hot drink in the bistro."
+            "en": "Traveling by public transport to Kumrovec in winter is relaxing as you can enjoy the landscape. In the morning, explore Staro Selo. At noon, warm up in the church and the gallery. In the afternoon, the snowy park offers great photo opportunities before preparing for the return journey with a hot drink in the bistro.",
+            "hr": "Putovanje javnim prijevozom u Kumrovec zimi je opuštajuće jer možete uživati u krajoliku. Ujutro istražite Staro selo. U podne se zagrijte u crkvi i galeriji. Poslijepodne snježni park nudi izvrsne prilike za fotografiranje prije pripreme za povratak uz topli napitak u bistrou."
           },
           "stops": [
             {
@@ -2201,7 +2417,8 @@
                 "de": "Die Wege im Museumsbereich werden im Winter geräumt.",
                 "hu": "A múzeum területén az utakat télen is takarítják.",
                 "ro": "Drumurile din zona muzeului sunt deszăpezite iarna.",
-                "en": "The paths within the museum area are cleared of snow in winter."
+                "en": "The paths within the museum area are cleared of snow in winter.",
+                "hr": "Staze unutar područja muzeja zimi se čiste od snijega."
               }
             },
             {
@@ -2210,7 +2427,8 @@
                 "de": "Kurzer, aber steiler Weg; achten Sie auf glatte Stufen.",
                 "hu": "Rövid, de meredek út; ügyeljen a csúszós lépcsőkre.",
                 "ro": "Drum scurt, dar abrupt; atenție la treptele alunecoase.",
-                "en": "Short but steep path; watch out for slippery steps."
+                "en": "Short but steep path; watch out for slippery steps.",
+                "hr": "Kratka, ali strma staza; pripazite na skliske stepenice."
               }
             },
             {
@@ -2219,7 +2437,8 @@
                 "de": "Ein gut beheizter Raum für Kunstliebhaber.",
                 "hu": "Jól fűtött helyiség a művészetkedvelők számára.",
                 "ro": "Un spațiu bine încălzit pentru iubitorii de artă.",
-                "en": "A well-heated space for art lovers."
+                "en": "A well-heated space for art lovers.",
+                "hr": "Dobro zagrijan prostor za ljubitelje umjetnosti."
               }
             },
             {
@@ -2228,7 +2447,8 @@
                 "de": "Suchen Sie eine sonnige Bank für eine kurze Rast.",
                 "hu": "Keressen egy napsütötte padot egy rövid pihenőre.",
                 "ro": "Căutați o bancă însorită pentru un scurt popas.",
-                "en": "Look for a sunny bench for a short rest."
+                "en": "Look for a sunny bench for a short rest.",
+                "hr": "Potražite sunčanu klupu za kratki odmor."
               }
             },
             {
@@ -2237,7 +2457,8 @@
                 "de": "Perfekt, um bis zur Busabfahrt im Warmen zu bleiben.",
                 "hu": "Tökéletes, hogy a busz indulásáig melegben maradjunk.",
                 "ro": "Perfect pentru a sta la căldură până la plecarea autobuzului.",
-                "en": "Perfect for staying in the warm until the bus departs."
+                "en": "Perfect for staying in the warm until the bus departs.",
+                "hr": "Savršeno za boravak na toplom do polaska autobusa."
               }
             }
           ],
@@ -2265,6 +2486,12 @@
               "Warm shoes are essential for waiting at the bus stop.",
               "The last bus connection is often in the late afternoon.",
               "Buy tickets online in advance if possible."
+            ],
+            "hr": [
+              "Autobusi zimi mogu voziti rjeđe; provjerite aktualni vozni red.",
+              "Topla obuća je neophodna za čekanje na stanici.",
+              "Zadnja autobusna veza često je u kasnim poslijepodnevnim satima.",
+              "Ako je moguće, kupite karte online unaprijed."
             ]
           }
         }

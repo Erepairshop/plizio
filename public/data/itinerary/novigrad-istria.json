@@ -36,7 +36,8 @@
             "de": "Besteigen Sie den Turm für den Rundumblick.",
             "hu": "Másszon fel a toronyba a körpanorámáért.",
             "ro": "Urcați în turn pentru o vedere panoramică.",
-            "en": "Climb the tower for a 360-degree view."
+            "en": "Climb the tower for a 360-degree view.",
+            "hr": "Popnite se na zvonik za pogled od 360 stupnjeva."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bewundern Sie die barocke Innenausstattung.",
             "hu": "Csodálja meg a barokk belső díszítést.",
             "ro": "Admirați decorațiunile interioare baroce.",
-            "en": "Admire the Baroque interior decorations."
+            "en": "Admire the Baroque interior decorations.",
+            "hr": "Divite se baroknim ukrasima u unutrašnjosti."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Moderne Architektur trifft auf antike Steine.",
             "hu": "Modern építészet találkozik az ókori kövekkel.",
             "ro": "Arhitectura modernă întâlnește pietrele antice.",
-            "en": "Modern architecture meets ancient stones."
+            "en": "Modern architecture meets ancient stones.",
+            "hr": "Moderna arhitektura susreće drevni kamen."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Ein Spaziergang direkt am Meer entlang der Mauer.",
             "hu": "Séta közvetlenül a tengerparton a fal mentén.",
             "ro": "O plimbare chiar pe malul mării de-a lungul zidului.",
-            "en": "A walk directly by the sea along the wall."
+            "en": "A walk directly by the sea along the wall.",
+            "hr": "Šetnja uz more neposredno uz zidine."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Spannende Modelle alter Kriegsschiffe.",
             "hu": "Régi hadihajók izgalmas makettjei.",
             "ro": "Modele fascinante de nave de război vechi.",
-            "en": "Exciting models of old warships."
+            "en": "Exciting models of old warships.",
+            "hr": "Uzbudljivi modeli starih ratnih brodova."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Perfekt für einen Drink zum Abschluss.",
             "hu": "Tökéletes egy italra a nap végén.",
             "ro": "Perfect pentru o băutură la finalul zilei.",
-            "en": "Perfect for a drink to end the day."
+            "en": "Perfect for a drink to end the day.",
+            "hr": "Savršeno za piće na kraju dana."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Morgens beginnen Sie im Herzen der Altstadt am markanten Glockenturm, der Ihnen eine Orientierung über die Stadt bietet. Danach besuchen Sie die benachbarte Pelagius-Kirche.\n\nMittags tauchen Sie im Lapidarium-Museum in die Geschichte ein und schlendern anschließend entlang der historischen Stadtmauer direkt am Meer.\n\nNachmittags widmen Sie sich der maritimen Vergangenheit im Gallerion-Museum, das eine beeindruckende Sammlung bietet.\n\nAbends genießen Sie das entspannte Treiben an der Riva von Novigrad, während die Fischerboote in den Hafen zurückkehren.",
         "hu": "Reggel az óváros szívében, a jellegzetes harangtoronynál kezdünk, amely segít tájékozódni a városban. Ezután meglátogatjuk a szomszédos Pelagius-templomot.\n\nDélben a Lapidárium Múzeumban merülünk el a történelemben, majd végigsétálunk a történelmi városfal mentén közvetlenül a tengerparton.\n\nDélután a tengerészeti múltnak szenteljük az időt a Gallerion Múzeumban, amely lenyűgöző gyűjteménnyel rendelkezik.\n\nEste élvezzük a novigradi Riva nyugodt nyüzsgését, miközben a halászhajók visszatérnek a kikötőbe.",
         "ro": "Dimineața începeți în inima orașului vechi, la turnul clopotniță distinctiv care vă ajută să vă orientați. Apoi vizitați biserica Pelagius din vecinătate.\n\nLa prânz vă scufundați în istorie la Muzeul Lapidarium și apoi vă plimbați de-a lungul zidurilor istorice chiar pe malul mării.\n\nDupă-amiaza vă dedicați trecutului maritim la muzeul Gallerion, care oferă o colecție impresionantă.\n\nSeara vă bucurați de animația relaxată de pe Riva din Novigrad, în timp ce bărcile de pescuit se întorc în port.",
-        "en": "In the morning, start in the heart of the old town at the distinctive bell tower, which provides an orientation of the city. Then visit the neighboring Pelagius Church.\n\nAt noon, dive into history at the Lapidarium Museum and then stroll along the historic city walls right by the sea.\n\nIn the afternoon, dedicate time to the maritime past at the Gallerion Museum, which offers an impressive collection.\n\nIn the evening, enjoy the relaxed hustle and bustle at the Novigrad Riva as the fishing boats return to the harbor."
+        "en": "In the morning, start in the heart of the old town at the distinctive bell tower, which provides an orientation of the city. Then visit the neighboring Pelagius Church.\n\nAt noon, dive into history at the Lapidarium Museum and then stroll along the historic city walls right by the sea.\n\nIn the afternoon, dedicate time to the maritime past at the Gallerion Museum, which offers an impressive collection.\n\nIn the evening, enjoy the relaxed hustle and bustle at the Novigrad Riva as the fishing boats return to the harbor.",
+        "hr": "Ujutro započnite u srcu starog grada kod prepoznatljivog zvonika koji služi za orijentaciju. Zatim posjetite susjednu crkvu sv. Pelagija.\n\nU podne uronite u povijest u Muzeju Lapidarium, a potom prošećite povijesnim gradskim zidinama tik uz more.\n\nPoslijepodne posvetite pomorskoj prošlosti u muzeju Gallerion, koji nudi impresivnu zbirku.\n\nNavečer uživajte u opuštenoj vrevi na novigradskoj rivi dok se ribarski brodovi vraćaju u luku."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "Konoba Čok",
             "tip": "Authentic Istrian dishes in a family atmosphere."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Damir & Ornella",
+            "tip": "Vrhunski doživljaj kuhinje s morskim zvjezdicama i svježom ribom."
+          },
+          {
+            "name": "Konoba Čok",
+            "tip": "Autentična istarska jela u obiteljskoj atmosferi."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "Quieter corners for the sunset.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Park Novigradske biskupije",
+            "tip": "Zelena oaza u središtu starog grada.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dio plaže Karpinjan",
+            "tip": "Mirniji kutci za promatranje zalaska sunca.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +322,16 @@
             "name": "Riva Market",
             "tip": "Local olive oil and truffle products."
           }
+        ],
+        "hr": [
+          {
+            "name": "Agata Atelier",
+            "tip": "Ručno rađena umjetnost i suveniri."
+          },
+          {
+            "name": "Tržnica Riva",
+            "tip": "Lokalno maslinovo ulje i proizvodi od tartufa."
+          }
         ]
       },
       "tips": {
@@ -319,6 +358,12 @@
           "Visit the Gallerion if you are interested in maritime history.",
           "The city wall offers great shade from the sun in the afternoon.",
           "Combine the visit with a wine tasting in the surrounding area."
+        ],
+        "hr": [
+          "Novigrad je vrlo ravan i idealan za opuštenu šetnju.",
+          "Posjetite Gallerion ako vas zanima pomorska povijest.",
+          "Gradske zidine nude sjajnu hladovinu od sunca u poslijepodnevnim satima.",
+          "Kombinirajte posjet s kušanjem vina u okolici."
         ]
       },
       "variants": {
@@ -327,7 +372,8 @@
             "de": "Morgens am nebligen Mandrač-Hafen beginnt die Tour trotz Regen ruhig.\nMittags bieten die Mauern und die Loggia Windschutz, während man das graue Meer beobachtet.\nAm Nachmittag ist das Lapidarium-Museum der perfekte trockene Ort für Kultur.\nAbends lässt man den Tag bei einem Glas istrischen Wein in der Marina gemütlich ausklingen.",
             "hu": "Reggel a ködös Mandrač-kikötőben az eső ellenére is nyugodtan indul a nap.\nDélben a városfalak és a Loggia nyújtanak menedéket a szél elől a tengerparton.\nDélután a Lapidarium Múzeum kiváló fedett programot kínál a kultúra kedvelőinek.\nEste a kikötői negyed egyik meleg éttermében érdemes megkóstolni a helyi borokat.",
             "ro": "Dimineața în portul Mandrač începe liniștit, în ciuda ploii și a ceții.\nLa prânz, zidurile cetății și Loggia oferă protecție împotriva vântului marin.\nDupă-amiaza, Muzeul Lapidarium este refugiul cultural perfect de la interior.\nSeara se încheie cu o cină caldă în zona marinei, ascultând sunetul ploii pe mare.",
-            "en": "Morning at the misty Mandrač harbor starts peacefully despite the light rain.\nAt midday, the city walls and the Loggia provide a good windbreak by the sea.\nIn the afternoon, the Lapidarium Museum is the ideal indoor spot to stay dry.\nIn the evening, enjoy the cozy atmosphere of a local bistro in the marina area."
+            "en": "Morning at the misty Mandrač harbor starts peacefully despite the light rain.\nAt midday, the city walls and the Loggia provide a good windbreak by the sea.\nIn the afternoon, the Lapidarium Museum is the ideal indoor spot to stay dry.\nIn the evening, enjoy the cozy atmosphere of a local bistro in the marina area.",
+            "hr": "Jutro u maglovitoj luci Mandrač počinje mirno unatoč laganoj kiši.\nU podne gradske zidine i loža pružaju dobar zaklon od vjetra uz more.\nPoslijepodne je Muzej Lapidarium idealno mjesto u zatvorenom kako biste ostali suhi.\nNavečer uživajte u ugodnoj atmosferi lokalnog bistroa u području marine."
           },
           "stops": [
             {
@@ -336,7 +382,8 @@
                 "de": "Vorsicht, rutschige Steine am Kai bei Nässe.",
                 "hu": "Vigyázat, a nedves kövek nagyon csúsznak a mólón.",
                 "ro": "Atenție la pietrele alunecoase de pe chei.",
-                "en": "Watch out for slippery stones on the quay."
+                "en": "Watch out for slippery stones on the quay.",
+                "hr": "Pripazite na sklisko kamenje na rivi."
               }
             },
             {
@@ -345,7 +392,8 @@
                 "de": "Die Pinien bieten nur minimalen Schutz vor Regen.",
                 "hu": "A fenyőfák csak minimális védelmet adnak az eső ellen.",
                 "ro": "Pinii oferă doar o protecție minimă împotriva ploii.",
-                "en": "Pine trees offer only minimal shelter from the rain."
+                "en": "Pine trees offer only minimal shelter from the rain.",
+                "hr": "Borovi nude samo minimalnu zaštitu od kiše."
               }
             },
             {
@@ -354,7 +402,8 @@
                 "de": "Hervorragender, überdachter Aussichtspunkt bei Schauern.",
                 "hu": "Kiváló fedett kilátópont záporok idején.",
                 "ro": "Punct de observație acoperit, ideal în timpul averselor.",
-                "en": "Excellent covered viewpoint during rain showers."
+                "en": "Excellent covered viewpoint during rain showers.",
+                "hr": "Izvrsna natkrivena točka za promatranje tijekom pljuskova."
               }
             },
             {
@@ -363,7 +412,8 @@
                 "de": "Ein ruhiger, trockener Ort für eine Pause.",
                 "hu": "Csendes és száraz hely egy rövid pihenőhöz.",
                 "ro": "Un loc liniștit și uscat pentru o scurtă pauză.",
-                "en": "A quiet and dry place for a short break."
+                "en": "A quiet and dry place for a short break.",
+                "hr": "Mirno i suho mjesto za kratki predah."
               }
             },
             {
@@ -372,7 +422,8 @@
                 "de": "Bester Ort, um den stärksten Regen abzuwarten.",
                 "hu": "A legjobb hely a nagyobb eső kivárására.",
                 "ro": "Cel mai bun loc pentru a aștepta trecerea ploii.",
-                "en": "The best place to wait out the heaviest rain."
+                "en": "The best place to wait out the heaviest rain.",
+                "hr": "Najbolje mjesto za čekanje najjače kiše."
               }
             },
             {
@@ -381,7 +432,8 @@
                 "de": "Kurzer Zwischenstopp im Trockenen möglich.",
                 "hu": "Rövid, száraz pihenőre alkalmas helyszín.",
                 "ro": "Loc potrivit pentru un scurt popas la adăpost.",
-                "en": "A good spot for a short indoor break."
+                "en": "A good spot for a short indoor break.",
+                "hr": "Dobro mjesto za kratku stanku u zatvorenom."
               }
             },
             {
@@ -390,7 +442,8 @@
                 "de": "Viele Cafés mit beheizten Terrassen vorhanden.",
                 "hu": "Sok kávézó kínál fűtött teraszt a kikötőben.",
                 "ro": "Multe cafenele cu terase încălzite în marină.",
-                "en": "Many cafes offer heated terraces in the marina."
+                "en": "Many cafes offer heated terraces in the marina.",
+                "hr": "Mnogi kafići nude grijane terase u marini."
               }
             }
           ],
@@ -418,6 +471,12 @@
               "The Belvedere Loggia is the only historical outdoor spot with real rain protection.",
               "Take your time in the Lapidarium Museum for a more detailed visit.",
               "The marina features modern shelters and wind-protected glass terraces."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću jer pločnik u starom gradu postaje vrlo sklizak kad je mokar.",
+              "Loža Belvedere jedino je povijesno mjesto na otvorenom s pravom zaštitom od kiše.",
+              "Uzmite si vremena u Muzeju Lapidarium za detaljniji obilazak.",
+              "Marina ima moderna skloništa i ostakljene terase zaštićene od vjetra."
             ]
           }
         },
@@ -426,7 +485,8 @@
             "de": "Der Morgen am Hafen ist klirrend kalt, wenn die Bura-Winde wehen.\nMittags spaziert man entlang der leeren Stadtmauern und genießt das klare Licht.\nNachmittags wärmt man sich im modernen Museum oder in der barocken Kirche auf.\nDa die Sonne bereits gegen 16:45 Uhr sinkt, endet der Tag früh bei Kerzenschein.",
             "hu": "A reggel a kikötőben metszően hideg lehet, ha fúj a bóra szél.\nDélben a néptelen városfalak mentén sétálva élvezhetjük a tiszta téli fényeket.\nDélután a modern múzeumban vagy a barokk templomban melegedhetünk fel.\nMivel a nap már 16:45 körül lemegy, a nap korán, gyertyafényes vacsorával zárul.",
             "ro": "Dimineața în port este geroasă, mai ales când bate vântul Bura.\nLa prânz, o plimbare pe zidurile pustii oferă o lumină de iarnă spectaculoasă.\nDupă-amiaza, interiorul muzeului sau al bisericii oferă căldura necesară.\nSoarele apune devreme, în jur de ora 16:45, invitând la o seară relaxantă.",
-            "en": "Morning at the harbor is crisp and cold, especially when the Bura wind blows.\nAt midday, enjoy the clear winter light while walking along the empty city walls.\nIn the afternoon, warm up inside the modern museum or the baroque church.\nSince the sun sets around 4:45 PM, the day ends early with a cozy dinner."
+            "en": "Morning at the harbor is crisp and cold, especially when the Bura wind blows.\nAt midday, enjoy the clear winter light while walking along the empty city walls.\nIn the afternoon, warm up inside the modern museum or the baroque church.\nSince the sun sets around 4:45 PM, the day ends early with a cozy dinner.",
+            "hr": "Jutro u luci je svježe i hladno, posebno kada puše bura.\nU podne uživajte u čistom zimskom svjetlu dok šetate uz prazne gradske zidine.\nPoslijepodne se ugrijte unutar modernog muzeja ili barokne crkve.\nBudući da sunce zalazi oko 16:45 sati, dan rano završava ugodnom večerom."
           },
           "stops": [
             {
@@ -435,7 +495,8 @@
                 "de": "Bura-Wind kann hier extrem ungemütlich sein.",
                 "hu": "A bóra szél itt rendkívül kellemetlen tud lenni.",
                 "ro": "Vântul Bura poate fi extrem de tăios aici.",
-                "en": "The Bura wind can be extremely biting here."
+                "en": "The Bura wind can be extremely biting here.",
+                "hr": "Bura ovdje može biti izuzetno oštra."
               }
             },
             {
@@ -444,7 +505,8 @@
                 "de": "Dick anziehen, der Wind vom Meer ist eisig.",
                 "hu": "Öltözzön rétegesen, a tenger felőli szél jeges.",
                 "ro": "Îmbrăcați-vă gros, vântul de pe mare este înghețat.",
-                "en": "Dress warmly, the sea wind is icy."
+                "en": "Dress warmly, the sea wind is icy.",
+                "hr": "Odjenite se toplo, morski vjetar je leden."
               }
             },
             {
@@ -453,7 +515,8 @@
                 "de": "Windiger Ort, aber herrlicher Blick auf die Wintersee.",
                 "hu": "Szeles hely, de pazar kilátás a téli tengerre.",
                 "ro": "Loc vântos, dar cu o vedere superbă spre marea de iarnă.",
-                "en": "Windy spot, but great views of the winter sea."
+                "en": "Windy spot, but great views of the winter sea.",
+                "hr": "Vjetrovito mjesto, ali s prekrasnim pogledom na zimsko more."
               }
             },
             {
@@ -462,7 +525,8 @@
                 "de": "Oft wärmer als im Außenbereich der Stadt.",
                 "hu": "Gyakran melegebb, mint a város utcáin.",
                 "ro": "Aeseori este mai cald aici decât pe străzile orașului.",
-                "en": "Often warmer inside than on the city streets."
+                "en": "Often warmer inside than on the city streets.",
+                "hr": "Često je toplije unutra nego na gradskim ulicama."
               }
             },
             {
@@ -471,7 +535,8 @@
                 "de": "Beheizte Ausstellungsräume bieten Komfort.",
                 "hu": "A fűtött kiállítóterek kényelmes pihenést nyújtanak.",
                 "ro": "Sălile de expoziție încălzite oferă confort termic.",
-                "en": "Heated exhibition halls provide comfort."
+                "en": "Heated exhibition halls provide comfort.",
+                "hr": "Grijane izložbene dvorane pružaju udobnost."
               }
             },
             {
@@ -480,7 +545,8 @@
                 "de": "Kurze Besichtigung schützt vor der Kälte.",
                 "hu": "A rövid látogatás védelmet nyújt a hideg ellen.",
                 "ro": "O vizită scurtă vă protejează de frig.",
-                "en": "A short visit offers protection from the cold."
+                "en": "A short visit offers protection from the cold.",
+                "hr": "Kratki posjet nudi zaštitu od hladnoće."
               }
             },
             {
@@ -489,7 +555,8 @@
                 "de": "Genießen Sie den Sonnenuntergang vor 17:00 Uhr.",
                 "hu": "Élvezze a naplementét délután 5 óra előtt.",
                 "ro": "Bucurați-vă de apusul soarelui înainte de ora 17:00.",
-                "en": "Enjoy the sunset before 5:00 PM."
+                "en": "Enjoy the sunset before 5:00 PM.",
+                "hr": "Uživajte u zalasku sunca prije 17:00 sati."
               }
             }
           ],
@@ -517,6 +584,12 @@
               "Sun sets early in winter, so plan your outdoor activities before 4:00 PM.",
               "Many restaurants in the old town are closed for winter; check the marina area.",
               "The Lapidarium is a quiet retreat in winter without the tourist crowds."
+            ],
+            "hr": [
+              "Bura može drastično sniziti subjektivni osjećaj temperature; vjetrovka je obavezna.",
+              "Zimi sunce rano zalazi, pa planirajte aktivnosti na otvorenom prije 16:00 sati.",
+              "Mnogi restorani u starom gradu su zimi zatvoreni; provjerite područje marine.",
+              "Lapidarium je tiho utočište zimi bez turističkih gužvi."
             ]
           }
         }
@@ -550,7 +623,8 @@
             "de": "Startpunkt an den historischen Fischerbooten.",
             "hu": "Kiindulópont a történelmi halászhajóknál.",
             "ro": "Punct de plecare de la bărcile de pescuit istorice.",
-            "en": "Starting point at the historic fishing boats."
+            "en": "Starting point at the historic fishing boats.",
+            "hr": "Polazna točka kod povijesnih ribarskih brodova."
           }
         },
         {
@@ -573,7 +647,8 @@
             "de": "Gut ausgebauter Radweg entlang der Küste.",
             "hu": "Jól kiépített kerékpárút a part mentén.",
             "ro": "Pistă de biciclete bine amenajată de-a lungul coastei.",
-            "en": "Well-maintained cycling path along the coast."
+            "en": "Well-maintained cycling path along the coast.",
+            "hr": "Dobro održavana biciklistička staza uz obalu."
           }
         },
         {
@@ -596,7 +671,8 @@
             "de": "Schattenparken für das Fahrrad und Badestopp.",
             "hu": "Árnyékos parkolás a biciklinek és fürdőzés.",
             "ro": "Parcare umbrită pentru bicicletă și pauză de baie.",
-            "en": "Shady parking for your bike and a swimming stop."
+            "en": "Shady parking for your bike and a swimming stop.",
+            "hr": "Sjenovito mjesto za bicikl i stanku za kupanje."
           }
         },
         {
@@ -619,7 +695,8 @@
             "de": "Ruhige Wege durch die Agrikulturzone.",
             "hu": "Csendes utak a mezőgazdasági zónán keresztül.",
             "ro": "Drumuri liniștite prin zona agricolă.",
-            "en": "Quiet paths through the agricultural zone."
+            "en": "Quiet paths through the agricultural zone.",
+            "hr": "Mirne staze kroz poljoprivrednu zonu."
           }
         },
         {
@@ -642,7 +719,8 @@
             "de": "Beobachten Sie Vögel an der Mirna-Mündung.",
             "hu": "Figyelje meg a madarakat a Mirna torkolatánál.",
             "ro": "Observați păsările la gura de vărsare a râului Mirna.",
-            "en": "Observe birds at the Mirna river estuary."
+            "en": "Observe birds at the Mirna river estuary.",
+            "hr": "Promatrajte ptice na ušću rijeke Mirne."
           }
         },
         {
@@ -665,7 +743,8 @@
             "de": "Entspannter Ausklang der Tour.",
             "hu": "A túra pihentető befejezése.",
             "ro": "Final relaxat al turului.",
-            "en": "Relaxing conclusion of the tour."
+            "en": "Relaxing conclusion of the tour.",
+            "hr": "Opuštajući završetak ture."
           }
         }
       ],
@@ -673,7 +752,8 @@
         "de": "Morgens starten Sie am malerischen Hafen Mandrač und radeln auf gut ausgebauten Wegen entlang der Nordküste Richtung Karpinjan.\n\nMittags erreichen Sie die schattigen Pinienwälder von Mareda, ideal für eine ausgiebige Badepause im sauberen Meer.\n\nNachmittags verlassen Sie die Küste und erkunden das hügelige Hinterland mit seinen Weinbergen und Olivenhainen, bevor Sie die Mirna-Mündung erreichen.\n\nAbends kehren Sie nach Novigrad zurück und genießen den Stolz der absolvierten Kilometer bei einem Drink an der Riva.",
         "hu": "Reggel a festői Mandrač kikötőből indulunk, és jól kiépített utakon tekerünk az északi part mentén Karpinjan felé.\n\nDélben elérjük Mareda árnyas fenyőerdőit, amely ideális egy alapos fürdőzéshez a tiszta tengerben.\n\nDélután elhagyjuk a partot, és felfedezzük a dombos hátországot szőlőültetvényeivel és olajfaligeteivel, mielőtt elérnénk a Mirna torkolatát.\n\nEste visszatérünk Novigradba, és élvezzük a megtett kilométerek feletti büszkeséget egy ital mellett a Riván.",
         "ro": "Dimineața începeți din portul pitoresc Mandrač și pedalați pe drumuri bine amenajate de-a lungul coastei de nord spre Karpinjan.\n\nLa prânz ajungeți la pădurile de pini umbroase din Mareda, ideale pentru o pauză lungă de baie în marea curată.\n\nDupă-amiaza părăsiți coasta și explorați interiorul deluros cu podgoriile și livezile sale de măslini, înainte de a ajunge la gura râului Mirna.\n\nSeara reveniți în Novigrad și savurați mândria kilometrilor parcurși cu o băutură pe Riva.",
-        "en": "In the morning, start at the picturesque Mandrač harbor and cycle on well-maintained paths along the north coast towards Karpinjan.\n\nAt noon, you reach the shady pine forests of Mareda, ideal for an extensive swimming break in the clean sea.\n\nIn the afternoon, leave the coast and explore the hilly hinterland with its vineyards and olive groves before reaching the Mirna estuary.\n\nIn the evening, return to Novigrad and enjoy the pride of the completed kilometers with a drink at the Riva."
+        "en": "In the morning, start at the picturesque Mandrač harbor and cycle on well-maintained paths along the north coast towards Karpinjan.\n\nAt noon, you reach the shady pine forests of Mareda, ideal for an extensive swimming break in the clean sea.\n\nIn the afternoon, leave the coast and explore the hilly hinterland with its vineyards and olive groves before reaching the Mirna estuary.\n\nIn the evening, return to Novigrad and enjoy the pride of the completed kilometers with a drink at the Riva.",
+        "hr": "Ujutro krenite iz slikovite luke Mandrač i vozite bicikl uređenim stazama uz sjevernu obalu prema Karpinjanu.\n\nU podne stižete do sjenovitih borovih šuma Mareda, idealnih za dužu stanku za kupanje u čistom moru.\n\nPoslijepodne napustite obalu i istražite brežuljkasto zaleđe s vinogradima i maslinicima prije dolaska do ušća rijeke Mirne.\n\nNavečer se vratite u Novigrad i uživajte u ponosu na prijeđene kilometre uz piće na rivi."
       },
       "gastro_picks": {
         "de": [
@@ -698,6 +778,12 @@
           {
             "name": "Beach Bar Mareda",
             "tip": "Cold drinks and snacks in the shade of pine trees."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Beach Bar Mareda",
+            "tip": "Hladna pića i grickalice u sjeni borova."
           }
         ]
       },
@@ -729,6 +815,13 @@
             "tip": "Bird watching post in absolute silence.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Ušće Mirne",
+            "tip": "Promatračnica za ptice u apsolutnoj tišini.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -754,6 +847,12 @@
           {
             "name": "Novigrad Wine Cellar",
             "tip": "Local Malvazija wine directly from the barrel."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Novigradska vinska kiselina",
+            "tip": "Lokalna malvazija izravno iz bačve."
           }
         ]
       },
@@ -781,6 +880,12 @@
           "Take binoculars for the Mirna estuary.",
           "In high summer, it can be very hot on the inland farm roads.",
           "Rent e-bikes for the hills in the hinterland."
+        ],
+        "hr": [
+          "Ruta do Marede gotovo je potpuno ravna i prikladna za početnike.",
+          "Ponesite dalekozor za ušće Mirne.",
+          "U jeku ljeta može biti vrlo vruće na poljskim putevima u unutrašnjosti.",
+          "Unajmite e-bicikle za brežuljke u zaleđu."
         ]
       },
       "variants": {
@@ -789,7 +894,8 @@
             "de": "Morgens startet die Radtour an der Marina bei leichtem Nieselregen.\nMittags führt der Weg zur Mirna-Mündung, wo der Wind kräftig wehen kann.\nNachmittags geht es zurück in den Hafen für eine Pause im Unterstand.\nDer Tag endet mit einer vorsichtigen Fahrt entlang der glatten Stadtmauern.",
             "hu": "Reggel a kikötőből indul a kerékpártúra szemerkélő esőben.\nDélben az út a Mirna-torkolathoz vezet, ahol a szél felerősödhet.\nDélután visszatérünk a kikötőbe egy fedett pihenőre.\nA nap a városfalak mentén tett óvatos tekeréssel zárul a csúszós köveken.",
             "ro": "Dimineața începe turul cu bicicleta de la marină, sub o ploaie ușoară.\nLa prânz, drumul duce spre estuarul Mirna, unde vântul poate fi puternic.\nDupă-amiaza ne întoarcem în port pentru o pauză la adăpost.\nZiua se încheie cu o plimbare precaută pe bicicletă de-a lungul zidurilor.",
-            "en": "Morning bike tour starts at the marina in light drizzle.\nAt midday, the route leads to the Mirna estuary, where winds can pick up.\nIn the afternoon, return to the harbor for a break under a shelter.\nThe day ends with a cautious ride along the slippery city walls."
+            "en": "Morning bike tour starts at the marina in light drizzle.\nAt midday, the route leads to the Mirna estuary, where winds can pick up.\nIn the afternoon, return to the harbor for a break under a shelter.\nThe day ends with a cautious ride along the slippery city walls.",
+            "hr": "Jutarnja tura biciklom počinje u marini uz laganu kišicu.\nU podne ruta vodi do ušća Mirne, gdje vjetar može pojačati.\nPoslijepodne se vratite u luku radi stanke pod nadstrešnicom.\nDan završava opreznom vožnjom uz skliske gradske zidine."
           },
           "stops": [
             {
@@ -798,7 +904,8 @@
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start auf nassen Wegen.",
                 "hu": "Indulás előtt ellenőrizze a fékeket a vizes utakon.",
                 "ro": "Verificați frânele înainte de a porni pe drumuri ude.",
-                "en": "Check your brakes before starting on wet roads."
+                "en": "Check your brakes before starting on wet roads.",
+                "hr": "Provjerite kočnice prije polaska na mokre ceste."
               }
             },
             {
@@ -807,7 +914,8 @@
                 "de": "Guter Ort für einen kurzen Regenstopp.",
                 "hu": "Jó hely egy rövid eső elleni megállóra.",
                 "ro": "Loc bun pentru un scurt popas împotriva ploii.",
-                "en": "Good spot for a short rain break."
+                "en": "Good spot for a short rain break.",
+                "hr": "Dobro mjesto za kratki predah od kiše."
               }
             },
             {
@@ -816,7 +924,8 @@
                 "de": "Achtung: Sehr exponiert und windig bei Schlechtwetter.",
                 "hu": "Figyelem: Nagyon kitett és szeles rossz időben.",
                 "ro": "Atenție: Foarte expus și vântos pe vreme rea.",
-                "en": "Warning: Very exposed and windy in bad weather."
+                "en": "Warning: Very exposed and windy in bad weather.",
+                "hr": "Upozorenje: Vrlo izloženo i vjetrovito pri lošem vremenu."
               }
             },
             {
@@ -825,7 +934,8 @@
                 "de": "Schieben Sie das Rad auf den glatten Kais.",
                 "hu": "A csúszós rakparton inkább tolja a kerékpárt.",
                 "ro": "Mai bine împingeți bicicleta pe cheiul alunecos.",
-                "en": "Better push your bike on the slippery quays."
+                "en": "Better push your bike on the slippery quays.",
+                "hr": "Bolje gurajte bicikl na skliskim rivama."
               }
             },
             {
@@ -834,7 +944,8 @@
                 "de": "Vermeiden Sie scharfe Kurven auf dem Kopfsteinpflaster.",
                 "hu": "Kerülje az éles kanyarokat a macskaköveken.",
                 "ro": "Evitați virajele bruște pe pavajul de piatră.",
-                "en": "Avoid sharp turns on the cobblestones."
+                "en": "Avoid sharp turns on the cobblestones.",
+                "hr": "Izbjegavajte oštre zavoje na kamenim kockama."
               }
             },
             {
@@ -843,7 +954,8 @@
                 "de": "Parken Sie das Rad trocken unter den Arkaden.",
                 "hu": "Parkolja a biciklit száraz helyre az árkádok alatt.",
                 "ro": "Parcați bicicleta la uscat sub arcade.",
-                "en": "Park your bike in a dry spot under the arches."
+                "en": "Park your bike in a dry spot under the arches.",
+                "hr": "Parkirajte bicikl na suhom mjestu ispod lukova."
               }
             }
           ],
@@ -871,6 +983,12 @@
               "The old town cobblestones become extremely slippery when wet.",
               "The road to Antenal can be slightly flooded during heavy rain.",
               "Avoid braking on white road markings."
+            ],
+            "hr": [
+              "Blatobrani na biciklu su neophodni zbog lokvi u Istri.",
+              "Kamene kocke u starom gradu postaju izuzetno skliske kad su mokre.",
+              "Cesta prema Antenalu može biti blago poplavljena tijekom jake kiše.",
+              "Izbjegavajte kočenje na bijelim oznakama na cesti."
             ]
           }
         },
@@ -879,7 +997,8 @@
             "de": "Morgens weht eine frische Brise an der Marina, ideal für schnelle Radler.\nMittags bietet die Fahrt nach Antenal weite Blicke über das Tal der Mirna.\nNachmittags kehrt man in die Stadt zurück, bevor der eisige Abendwind einsetzt.\nDie Tour endet pünktlich zum Sonnenuntergang an der Belvedere Loggia.",
             "hu": "Reggel friss szellő fúj a kikötőben, ideális a gyors tempóhoz.\nDélben az Antenal felé vezető út tágas kilátást nyújt a Mirna-völgyre.\nDélután térünk vissza a városba, még mielőtt a jeges esti szél feltámadna.\nA túra pontosan naplementekor ér véget a Belvedere Loggiánál.",
             "ro": "Dimineața aduce o briză proaspătă în marină, ideală pentru cicliști.\nLa prânz, drumul spre Antenal oferă vederi largi peste valea Mirna.\nDupă-amiaza revenim în oraș înainte să apară vântul înghețat de seară.\nTurul se încheie exact la apusul soarelui la Loggia Belvedere.",
-            "en": "Morning brings a fresh breeze at the marina, great for maintaining speed.\nAt midday, the ride to Antenal offers wide views over the Mirna valley.\nIn the afternoon, return to town before the icy evening wind sets in.\nThe tour ends right at sunset at the Belvedere Loggia."
+            "en": "Morning brings a fresh breeze at the marina, great for maintaining speed.\nAt midday, the ride to Antenal offers wide views over the Mirna valley.\nIn the afternoon, return to town before the icy evening wind sets in.\nThe tour ends right at sunset at the Belvedere Loggia.",
+            "hr": "Jutro donosi svjež povjetarac u marini, odličan za održavanje brzine.\nU podne vožnja do Antenala nudi široke poglede na dolinu Mirne.\nPoslijepodne se vratite u grad prije nego što nastupi ledeni večernji vjetar.\nTura završava točno u zalazak sunca kod lože Belvedere."
           },
           "stops": [
             {
@@ -888,7 +1007,8 @@
                 "de": "Warme Handschuhe sind bei Fahrtwind wichtig.",
                 "hu": "A menetszél miatt a meleg kesztyű elengedhetetlen.",
                 "ro": "Mănușile groase sunt importante din cauza vântului.",
-                "en": "Warm gloves are important due to the wind chill."
+                "en": "Warm gloves are important due to the wind chill.",
+                "hr": "Tople rukavice su važne zbog hladnog vjetra."
               }
             },
             {
@@ -897,7 +1017,8 @@
                 "de": "Ein geschützter Ort abseits des Meereswindes.",
                 "hu": "Szélvédett hely, távol a tengeri fuvallattól.",
                 "ro": "Un loc protejat, departe de vântul de pe mare.",
-                "en": "A sheltered spot away from the sea breeze."
+                "en": "A sheltered spot away from the sea breeze.",
+                "hr": "Zaklonjeno mjesto podalje od morskog povjetarca."
               }
             },
             {
@@ -906,7 +1027,8 @@
                 "de": "Achtung: Hier ist es im Winter deutlich kälter als im Ort.",
                 "hu": "Figyelem: Itt télen jóval hidegebb van, mint a városban.",
                 "ro": "Atenție: Aici este mult mai frig iarna decât în oraș.",
-                "en": "Warning: It is significantly colder here in winter than in town."
+                "en": "Warning: It is significantly colder here in winter than in town.",
+                "hr": "Upozorenje: Ovdje je zimi znatno hladnije nego u gradu."
               }
             },
             {
@@ -915,7 +1037,8 @@
                 "de": "Die Wintersonne steht tief und blendet am Wasser.",
                 "hu": "A téli nap alacsonyan jár és vakít a víznél.",
                 "ro": "Soarele de iarnă stă jos și este orbitor lângă apă.",
-                "en": "The winter sun is low and glaring near the water."
+                "en": "The winter sun is low and glaring near the water.",
+                "hr": "Zimsko sunce je nisko i blješti u blizini vode."
               }
             },
             {
@@ -924,7 +1047,8 @@
                 "de": "Genießen Sie die klare Sicht bis nach Italien.",
                 "hu": "Élvezze a tiszta kilátást akár Olaszországig.",
                 "ro": "Bucurați-vă de vizibilitatea clară până în Italia.",
-                "en": "Enjoy the clear views as far as Italy."
+                "en": "Enjoy the clear views as far as Italy.",
+                "hr": "Uživajte u čistom pogledu sve do Italije."
               }
             },
             {
@@ -933,7 +1057,8 @@
                 "de": "Bester Platz für das letzte Tageslicht.",
                 "hu": "A legjobb hely az utolsó napsugarakhoz.",
                 "ro": "Cel mai bun loc pentru ultima lumină a zilei.",
-                "en": "The best place for the last daylight."
+                "en": "The best place for the last daylight.",
+                "hr": "Najbolje mjesto za posljednje dnevno svjetlo."
               }
             }
           ],
@@ -961,6 +1086,12 @@
               "The wind in the Mirna valley can be very strong and cold in winter.",
               "Watch out for frost on wooden bridges or shaded paths.",
               "Cycle paths are empty in winter, allowing for a relaxed ride."
+            ],
+            "hr": [
+              "Odjenite se slojevito jer ćete se brzo oznojiti dok pedalirate.",
+              "Vjetar u dolini Mirne zimi može biti vrlo jak i hladan.",
+              "Pripazite na mraz na drvenim mostovima ili sjenovitim stazama.",
+              "Biciklističke staze su zimi prazne, što omogućuje opuštenu vožnju."
             ]
           }
         }
@@ -994,7 +1125,8 @@
             "de": "Großer Parkplatz am Eingang zum Cluster A.",
             "hu": "Nagy parkoló az A klaszter bejáratánál.",
             "ro": "Parcare mare la intrarea în clusterul A.",
-            "en": "Large parking lot at the entrance to Cluster A."
+            "en": "Large parking lot at the entrance to Cluster A.",
+            "hr": "Veliko parkiralište na ulazu u zonu A."
           }
         },
         {
@@ -1017,7 +1149,8 @@
             "de": "Zentrum von Cluster A zu Fuß erkunden.",
             "hu": "Az A klaszter központjának gyalogos felfedezése.",
             "ro": "Explorarea centrului clusterului A pe jos.",
-            "en": "Explore the center of Cluster A on foot."
+            "en": "Explore the center of Cluster A on foot.",
+            "hr": "Istražite središte zone A pješice."
           }
         },
         {
@@ -1040,7 +1173,8 @@
             "de": "Kulturspaziergang innerhalb der Mauern.",
             "hu": "Kulturális séta a falakon belül.",
             "ro": "Plimbare culturală în interiorul zidurilor.",
-            "en": "Cultural walk within the walls."
+            "en": "Cultural walk within the walls.",
+            "hr": "Kulturna šetnja unutar zidina."
           }
         },
         {
@@ -1063,7 +1197,8 @@
             "de": "Fahrt zum Außenbezirk-Cluster B.",
             "hu": "Autózás a B külvárosi klaszterhez.",
             "ro": "Călătorie spre clusterul periferic B.",
-            "en": "Drive to the suburban Cluster B."
+            "en": "Drive to the suburban Cluster B.",
+            "hr": "Vožnja do prigradske zone B."
           }
         },
         {
@@ -1086,7 +1221,8 @@
             "de": "Kurzer Stopp in Cluster C für die Natur.",
             "hu": "Rövid megálló a C klaszterben a természetért.",
             "ro": "Scurtă oprire în clusterul C pentru natură.",
-            "en": "Short stop in Cluster C for nature."
+            "en": "Short stop in Cluster C for nature.",
+            "hr": "Kratko zaustavljanje u zoni C radi prirode."
           }
         },
         {
@@ -1109,7 +1245,8 @@
             "de": "Letzter Stopp zurück in der Altstadt.",
             "hu": "Utolsó megálló vissza az óvárosban.",
             "ro": "Ultima oprire înapoi în orașul vechi.",
-            "en": "Last stop back in the old town."
+            "en": "Last stop back in the old town.",
+            "hr": "Posljednja postaja natrag u starom gradu."
           }
         },
         {
@@ -1132,7 +1269,8 @@
             "de": "Den Tag am Wasser ausklingen lassen.",
             "hu": "A nap lezárása a vízparton.",
             "ro": "Încheierea zilei pe malul apei.",
-            "en": "End the day by the water."
+            "en": "End the day by the water.",
+            "hr": "Završite dan uz vodu."
           }
         }
       ],
@@ -1140,7 +1278,8 @@
         "de": "Morgens parken Sie am Stadtrand von Novigrad und erkunden den historischen Cluster A zu Fuß, um die Pelagius-Kirche und das Lapidarium stressfrei zu besichtigen.\n\nMittags verlassen Sie die Stadt und fahren zum Wasserpark Istralandia in Cluster B, wo Action und Spaß für den Großteil des Tages auf dem Plan stehen.\n\nNachmittags machen Sie einen kurzen Naturstopp an der Mirna-Mündung in Cluster C, bevor Sie zurück ins Zentrum fahren.\n\nAbends genießen Sie ein erstklassiges Abendessen in einem der Fischrestaurants am Hafen, nachdem Sie das maritime Gallerion-Museum besucht haben.",
         "hu": "Reggel Novigrad szélén parkolunk, és gyalogosan fedezzük fel a történelmi A klasztert, a Pelagius-templomot és a Lapidáriumot stresszmentesen meglátogatva.\n\nDélben elhagyjuk a várost, és a B klaszterben található Istralandia víziparkba autózunk, ahol a nap nagy részében az akció és a szórakozásé a főszerep.\n\nDélután teszünk egy rövid természeti megállót a Mirna torkolatánál a C klaszterben, mielőtt visszatérnénk a központba.\n\nEste kiváló vacsorát élvezünk a kikötői haléttermek egyikében, miután meglátogattuk a Gallerion tengerészeti múzeumot.",
         "ro": "Dimineața parcați la marginea Novigradului și explorați clusterul istoric A pe jos, vizitând biserica Pelagius și Lapidarium fără stres.\n\nLa prânz părăsiți orașul și conduceți spre parcul acvatic Istralandia din clusterul B, unde distracția este pe primul loc pentru cea mai mare parte a zilei.\n\nDupă-amiaza faceți o scurtă oprire în natură la gura de vărsare a râului Mirna în clusterul C, înainte de a reveni în centru.\n\nSeara savurați o cină de top într-unul dintre restaurantele cu specific pescăresc din port, după vizitarea muzeului maritim Gallerion.",
-        "en": "In the morning, park on the outskirts of Novigrad and explore the historic Cluster A on foot, visiting the Pelagius Church and the Lapidarium stress-free.\n\nAt noon, leave the city and drive to the Istralandia water park in Cluster B, where action and fun are on the agenda for most of the day.\n\nIn the afternoon, make a short nature stop at the Mirna estuary in Cluster C before returning to the center.\n\nIn the evening, enjoy a first-class dinner at one of the fish restaurants at the harbor after visiting the Gallerion maritime museum."
+        "en": "In the morning, park on the outskirts of Novigrad and explore the historic Cluster A on foot, visiting the Pelagius Church and the Lapidarium stress-free.\n\nAt noon, leave the city and drive to the Istralandia water park in Cluster B, where action and fun are on the agenda for most of the day.\n\nIn the afternoon, make a short nature stop at the Mirna estuary in Cluster C before returning to the center.\n\nIn the evening, enjoy a first-class dinner at one of the fish restaurants at the harbor after visiting the Gallerion maritime museum.",
+        "hr": "Ujutro se parkirajte na rubu Novigrada i pješice istražite povijesnu zonu A, posjećujući bez stresa crkvu sv. Pelagija i Lapidarium.\n\nU podne napustite grad i odvezite se do vodenog parka Istralandia u zoni B, gdje su akcija i zabava na rasporedu veći dio dana.\n\nPoslijepodne nakratko stanite u prirodi na ušću Mirne u zoni C prije povratka u centar.\n\nNavečer uživajte u prvorazrednoj večeri u jednom od ribljih restorana u luci nakon posjeta pomorskom muzeju Gallerion."
       },
       "gastro_picks": {
         "de": [
@@ -1182,6 +1321,16 @@
             "name": "Konoba Gatto Nero",
             "tip": "Excellent black pasta and local wines."
           }
+        ],
+        "hr": [
+          {
+            "name": "Restaurant Marina",
+            "tip": "Ekskluzivna kuhinja s fokusom na plodove mora."
+          },
+          {
+            "name": "Konoba Gatto Nero",
+            "tip": "Izvrsna crna tjestenina i lokalna vina."
+          }
         ]
       },
       "quiet_picks": {
@@ -1212,6 +1361,13 @@
             "tip": "Bird watching possible directly from the car.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Kabina na delti Mirne",
+            "tip": "Promatranje ptica moguće izravno iz automobila.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1237,6 +1393,12 @@
           {
             "name": "Plodine Novigrad",
             "tip": "Large selection of Istrian products available for shopping."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Plodine Novigrad",
+            "tip": "Veliki izbor istarskih proizvoda dostupnih za kupnju."
           }
         ]
       },
@@ -1264,6 +1426,12 @@
           "The road to Istralandia is well signposted.",
           "In summer, there are often traffic jams at the Antenal bridge.",
           "Plan at least half a day for Istralandia."
+        ],
+        "hr": [
+          "Parkiranje u starom gradu zabranjeno je za nerezidente, koristite velika parkirališta.",
+          "Cesta do Istralandije je dobro označena.",
+          "Ljeti su česte gužve na mostu Antenal.",
+          "Planirajte barem pola dana za Istralandiju."
         ]
       },
       "variants": {
@@ -1272,7 +1440,8 @@
             "de": "Morgens parkt man bequem an der Marina, während der Regen prasselt.\nMittags bietet das Lapidarium Schutz vor den stärksten Schauern.\nNachmittags führt die Fahrt ins Hinterland nach Brtonigla zu einer Weinprobe.\nDer Tag endet mit einem kurzen Lauf vom Parkplatz zum Mandrač-Hafen.",
             "hu": "Reggel kényelmesen parkolhatunk a kikötőben az esőben.\nDélben a Lapidarium nyújt menedéket a leghevesebb záporok elől.\nDélután a belső területek felé, Brtoniglába autózunk egy borkóstolóra.\nA nap rövid futással zárul a parkolótól a Mandrač-kikötőig.",
             "ro": "Dimineața parcăm confortabil în marină, în timp ce plouă afară.\nLa prânz, Lapidarium oferă adăpost împotriva celor mai puternice averse.\nDupă-amiaza, conducem spre interior la Brtonigla pentru o degustare de vinuri.\nZiua se încheie cu un drum scurt de la parcare la portul Mandrač.",
-            "en": "Morning parking at the marina is easy while the rain pours.\nAt midday, the Lapidarium provides shelter from the heaviest showers.\nIn the afternoon, drive inland to Brtonigla for a local wine tasting.\nThe day ends with a quick dash from the parking lot to Mandrač harbor."
+            "en": "Morning parking at the marina is easy while the rain pours.\nAt midday, the Lapidarium provides shelter from the heaviest showers.\nIn the afternoon, drive inland to Brtonigla for a local wine tasting.\nThe day ends with a quick dash from the parking lot to Mandrač harbor.",
+            "hr": "Jutarnje parkiranje u marini je jednostavno dok pljušti kiša.\nU podne Lapidarium pruža utočište od najjačih pljuskova.\nPoslijepodne se odvezite u unutrašnjost do Brtonigle na kušanje lokalnih vina.\nDan završava brzim trkom od parkirališta do luke Mandrač."
           },
           "stops": [
             {
@@ -1281,7 +1450,8 @@
                 "de": "Großer, befestigter Parkplatz direkt am Hafen.",
                 "hu": "Nagy, szilárd burkolatú parkoló közvetlenül a kikötőnél.",
                 "ro": "Parcare mare, asfaltată, chiar lângă port.",
-                "en": "Large, paved parking lot right by the harbor."
+                "en": "Large, paved parking lot right by the harbor.",
+                "hr": "Veliko, asfaltirano parkiralište odmah uz luku."
               }
             },
             {
@@ -1290,7 +1460,8 @@
                 "de": "Kurze Gehwege vom Parkplatz zum Eingang.",
                 "hu": "Rövid gyalogút a parkolótól a bejáratig.",
                 "ro": "Drum scurt pe jos de la parcare la intrare.",
-                "en": "Short walk from the parking lot to the entrance."
+                "en": "Short walk from the parking lot to the entrance.",
+                "hr": "Kratka šetnja od parkirališta do ulaza."
               }
             },
             {
@@ -1299,7 +1470,8 @@
                 "de": "Vom Auto aus hat man einen guten Blick auf das Meer.",
                 "hu": "Az autóból is jó kilátás nyílik a tengerre.",
                 "ro": "Din mașină aveți o vedere bună spre mare.",
-                "en": "You get a good view of the sea from the car."
+                "en": "You get a good view of the sea from the car.",
+                "hr": "Imate dobar pogled na more iz automobila."
               }
             },
             {
@@ -1308,7 +1480,8 @@
                 "de": "Parken Sie in der Nähe des Stadtzentrums.",
                 "hu": "Parkoljon a városközpont közelében.",
                 "ro": "Parcați în apropierea centrului orașului.",
-                "en": "Park near the city center."
+                "en": "Park near the city center.",
+                "hr": "Parkirajte u blizini centra grada."
               }
             },
             {
@@ -1317,7 +1490,8 @@
                 "de": "Perfektes Ziel bei Regen: Gemütliche Konobas.",
                 "hu": "Tökéletes célpont esőben: hangulatos konobák.",
                 "ro": "Destinația perfectă pe ploaie: taverne primitoare.",
-                "en": "Perfect rainy day destination: cozy taverns."
+                "en": "Perfect rainy day destination: cozy taverns.",
+                "hr": "Savršeno odredište za kišni dan: ugodne konobe."
               }
             },
             {
@@ -1326,7 +1500,8 @@
                 "de": "Achtung beim Aussteigen wegen Pfützen.",
                 "hu": "Vigyázzon kiszálláskor a tócsákra.",
                 "ro": "Atenție la bălți când coborâți din mașină.",
-                "en": "Watch out for puddles when getting out of the car."
+                "en": "Watch out for puddles when getting out of the car.",
+                "hr": "Pripazite na lokve pri izlasku iz automobila."
               }
             }
           ],
@@ -1354,6 +1529,12 @@
               "Use the parking lots at the marina; they are often less crowded.",
               "Brtonigla offers excellent oil mills and wine cellars for rainy day visits.",
               "Keep an umbrella in the trunk for the walk into the old town."
+            ],
+            "hr": [
+              "Vozite oprezno zavojitim cestama do Brtonigle.",
+              "Koristite parkirališta u marini; često su manje popunjena.",
+              "Brtonigla nudi izvrsne uljare i vinske podrume za posjete tijekom kišnih dana.",
+              "Držite kišobran u prtljažniku za šetnju do starog grada."
             ]
           }
         },
@@ -1362,7 +1543,8 @@
             "de": "Morgens genießt man die freie Parkplatzwahl an der Marina im Winter.\nMittags ist das Lapidarium ein warmer Zwischenstopp auf der Tour.\nNachmittags führt die Fahrt durch das schlafende istrische Hinterland.\nZum Abschluss erlebt man den Mandrač-Hafen im stimmungsvollen Winterlicht.",
             "hu": "Reggel télen bőséges parkolóhely vár ránk a kikötőben.\nDélben a Lapidarium kellemesen meleg megállót jelent a túra során.\nDélután az alvó isztriai vidékeken át autózunk Brtoniglába.\nA nap végén a Mandrač-kikötőt láthatjuk hangulatos téli fényben.",
             "ro": "Dimineața vă bucurați de libertatea de a alege parcarea în marină iarna.\nLa prânz, Lapidarium este o oprire caldă în timpul turului.\nDupă-amiaza, conducem prin peisajul adormit al provinciei istriene.\nLa final, experimentați portul Mandrač în lumina atmosferică de iarnă.",
-            "en": "Morning starts with plenty of parking choices at the marina in winter.\nAt midday, the Lapidarium is a warm stopover on the tour.\nIn the afternoon, drive through the sleeping Istrian hinterland to Brtonigla.\nTo finish, experience Mandrač harbor in the atmospheric winter light."
+            "en": "Morning starts with plenty of parking choices at the marina in winter.\nAt midday, the Lapidarium is a warm stopover on the tour.\nIn the afternoon, drive through the sleeping Istrian hinterland to Brtonigla.\nTo finish, experience Mandrač harbor in the atmospheric winter light.",
+            "hr": "Jutro počinje s mnogo slobodnih mjesta za parkiranje u marini zimi.\nU podne je Lapidarium toplo stajalište na turi.\nPoslijepodne se odvezite kroz usnulo istarsko zaleđe do Brtonigle.\nZa kraj doživite luku Mandrač u atmosferičnom zimskom svjetlu."
           },
           "stops": [
             {
@@ -1371,7 +1553,8 @@
                 "de": "Parkgebühren sind im Winter oft reduziert.",
                 "hu": "Télen a parkolási díjak gyakran alacsonyabbak.",
                 "ro": "Taxele de parcare sunt adesea reduse iarna.",
-                "en": "Parking fees are often reduced in winter."
+                "en": "Parking fees are often reduced in winter.",
+                "hr": "Naknade za parkiranje su zimi često snižene."
               }
             },
             {
@@ -1380,7 +1563,8 @@
                 "de": "Ideal, um die Kälte für eine Stunde zu vergessen.",
                 "hu": "Ideális hely egy órára elfelejteni a hideget.",
                 "ro": "Ideal pentru a uita de frig timp de o oră.",
-                "en": "Ideal place to forget the cold for an hour."
+                "en": "Ideal place to forget the cold for an hour.",
+                "hr": "Idealno mjesto da na sat vremena zaboravite hladnoću."
               }
             },
             {
@@ -1389,7 +1573,8 @@
                 "de": "Parken Sie kurz für ein Foto vom Sonnenuntergang.",
                 "hu": "Álljon meg rövid időre egy naplementés fotóhoz.",
                 "ro": "Parcați scurt pentru o fotografie cu apusul.",
-                "en": "Park briefly for a photo of the sunset."
+                "en": "Park briefly for a photo of the sunset.",
+                "hr": "Kratko parkirajte za fotografiju zalaska sunca."
               }
             },
             {
@@ -1398,7 +1583,8 @@
                 "de": "In der Nähe gibt es oft freie Plätze direkt am Meer.",
                 "hu": "A közelben gyakran van szabad hely közvetlenül a tengerparton.",
                 "ro": "În apropiere sunt adesea locuri libere chiar lângă mare.",
-                "en": "There are often free spots right by the sea nearby."
+                "en": "There are often free spots right by the sea nearby.",
+                "hr": "U blizini se često nađu slobodna mjesta tik uz more."
               }
             },
             {
@@ -1407,7 +1593,8 @@
                 "de": "Spezialitäten der Saison: Trüffel und junger Wein.",
                 "hu": "Szezonális különlegességek: szarvasgomba és újbor.",
                 "ro": "Specialități de sezon: trufe și vin tânăr.",
-                "en": "Seasonal specialties: truffles and young wine."
+                "en": "Seasonal specialties: truffles and young wine.",
+                "hr": "Sezonski specijaliteti: tartufi i mlado vino."
               }
             },
             {
@@ -1416,7 +1603,8 @@
                 "de": "Die Fischerboote sind im Winter besonders fotogen.",
                 "hu": "A halászhajók télen különösen fotogének.",
                 "ro": "Bărcile de pescuit sunt deosebit de fotogenice iarna.",
-                "en": "The fishing boats are particularly photogenic in winter."
+                "en": "The fishing boats are particularly photogenic in winter.",
+                "hr": "Ribarski brodovi su zimi posebno fotogenični."
               }
             }
           ],
@@ -1444,6 +1632,12 @@
               "Parking in Novigrad is extremely easy during the winter months.",
               "Visit a local winery in Brtonigla for an authentic winter atmosphere.",
               "Days are short, so start your tour no later than 9 AM."
+            ],
+            "hr": [
+              "Provjerite uvjete na cesti zbog mraza prije vožnje u zaleđe.",
+              "Parkiranje u Novigradu je izuzetno jednostavno tijekom zimskih mjeseci.",
+              "Posjetite lokalnu vinariju u Brtonigli za autentičnu zimsku atmosferu.",
+              "Dani su kratki, pa započnite turu najkasnije u 9 ujutro."
             ]
           }
         }
@@ -1477,7 +1671,8 @@
             "de": "Ankunftsort für Fernbusse aus Poreč oder Umag.",
             "hu": "Érkezési hely a Porečből vagy Umagból érkező buszoknak.",
             "ro": "Locul de sosire pentru autobuzele din Poreč sau Umag.",
-            "en": "Arrival point for long-distance buses from Poreč or Umag."
+            "en": "Arrival point for long-distance buses from Poreč or Umag.",
+            "hr": "Dolazna točka za međugradske autobuse iz Poreča ili Umaga."
           }
         },
         {
@@ -1500,7 +1695,8 @@
             "de": "Kurzer Spaziergang von der Haltestelle ins Zentrum.",
             "hu": "Rövid séta a megállótól a központba.",
             "ro": "Scurtă plimbare de la stație spre centru.",
-            "en": "Short walk from the stop to the center."
+            "en": "Short walk from the stop to the center.",
+            "hr": "Kratka šetnja od stanice do centra."
           }
         },
         {
@@ -1523,7 +1719,8 @@
             "de": "Genießen Sie die Cluster-Besichtigung zu Fuß.",
             "hu": "Élvezze a klaszter gyalogos bejárását.",
             "ro": "Bucurați-vă de vizitarea clusterului pe jos.",
-            "en": "Enjoy the cluster sightseeing on foot."
+            "en": "Enjoy the cluster sightseeing on foot.",
+            "hr": "Uživajte u razgledavanju pješice."
           }
         },
         {
@@ -1546,7 +1743,8 @@
             "de": "Einfach erreichbar im kompakten Zentrum.",
             "hu": "Könnyen elérhető a kompakt központban.",
             "ro": "Ușor accesibil în centrul compact.",
-            "en": "Easily accessible in the compact center."
+            "en": "Easily accessible in the compact center.",
+            "hr": "Lako dostupno u kompaktnom središtu."
           }
         },
         {
@@ -1569,7 +1767,8 @@
             "de": "Längerer Spaziergang oder Shuttle-Bus nutzen.",
             "hu": "Hosszabb séta vagy használja a transzferbuszt.",
             "ro": "Plimbare mai lungă sau folosiți microbuzul de transfer.",
-            "en": "Longer walk or use the shuttle bus."
+            "en": "Longer walk or use the shuttle bus.",
+            "hr": "Dulja šetnja ili koristite lokalni shuttle bus."
           }
         },
         {
@@ -1592,7 +1791,8 @@
             "de": "Rechtzeitig am Bahnhof für den Bus sein.",
             "hu": "Érkezzen időben az állomásra a buszhoz.",
             "ro": "Fiți la timp la autogară pentru autobuz.",
-            "en": "Be at the station in time for the bus."
+            "en": "Be at the station in time for the bus.",
+            "hr": "Dođite na stanicu na vrijeme za autobus."
           }
         }
       ],
@@ -1600,7 +1800,8 @@
         "de": "Morgens erreichen Sie Novigrad mit dem öffentlichen Bus und betreten direkt das historische Cluster A, wo der Glockenturm und die Stadtmauer auf engem Raum zu Fuß erkundet werden können.\n\nMittags widmen Sie sich der Kultur im Gallerion-Museum, bevor Sie die belebten Gassen für ein Mittagessen nutzen.\n\nNachmittags begeben Sie sich zum Karpinjan-Strand, der entweder zu Fuß oder mit einem lokalen Shuttle leicht erreichbar ist, um die Sonne zu genießen.\n\nAbends kehren Sie zum Busbahnhof zurück, von wo aus Sie bequem Ihre Rückreise in andere istrische Küstenstädte antreten können.",
         "hu": "Reggel tömegközlekedési busszal érkezünk Novigradba, és közvetlenül a történelmi A klaszterbe lépünk, ahol a harangtorony és a városfal gyalogosan fedezhető fel.\n\nDélben a Gallerion Múzeumban a kultúrának szenteljük az időt, majd a nyüzsgő utcákat választjuk egy ebédre.\n\nDélután a Karpinjan strandra megyünk, amely gyalog vagy helyi transzferrel is könnyen elérhető a napsütés élvezetéhez.\n\nEste visszatérünk a buszpályaudvarra, ahonnan kényelmesen utazhatunk vissza más isztriai partmenti városokba.",
         "ro": "Dimineața ajungeți în Novigrad cu autobuzul public și intrați direct în clusterul istoric A, unde turnul clopotniță și zidul cetății pot fi explorate pe jos.\n\nLa prânz vă dedicați culturii la muzeul Gallerion, înainte de a alege o masă pe străzile animate.\n\nDupă-amiaza mergeți spre plaja Karpinjan, ușor accesibilă pe jos sau cu un transfer local, pentru a vă bucura de soare.\n\nSeara reveniți la autogară, de unde puteți porni confortabil spre alte orașe de pe coasta Istriei.",
-        "en": "In the morning, reach Novigrad by public bus and enter the historic Cluster A directly, where the bell tower and city walls can be explored on foot in a small area.\n\nAt noon, dedicate time to culture at the Gallerion Museum before choosing one of the lively streets for lunch.\n\nIn the afternoon, head to Karpinjan Beach, easily accessible on foot or by local shuttle, to enjoy the sun.\n\nIn the evening, return to the bus station, from where you can comfortably embark on your return journey to other Istrian coastal towns."
+        "en": "In the morning, reach Novigrad by public bus and enter the historic Cluster A directly, where the bell tower and city walls can be explored on foot in a small area.\n\nAt noon, dedicate time to culture at the Gallerion Museum before choosing one of the lively streets for lunch.\n\nIn the afternoon, head to Karpinjan Beach, easily accessible on foot or by local shuttle, to enjoy the sun.\n\nIn the evening, return to the bus station, from where you can comfortably embark on your return journey to other Istrian coastal towns.",
+        "hr": "Ujutro dođite u Novigrad javnim autobusom i uđite izravno u povijesnu zonu A, gdje se zvonik i gradske zidine mogu istražiti pješice na malom prostoru.\n\nU podne posvetite vrijeme kulturi u muzeju Gallerion prije nego što odaberete jednu od živahnih ulica za ručak.\n\nPoslijepodne se uputite na plažu Karpinjan, lako dostupnu pješice ili lokalnim shuttleom, kako biste uživali u suncu.\n\nNavečer se vratite na autobusni kolodvor odakle se možete udobno uputiti na povratak u druge istarske obalne gradove."
       },
       "gastro_picks": {
         "de": [
@@ -1625,6 +1826,12 @@
           {
             "name": "Bistro Lungomare",
             "tip": "Snacks right by the seaside path for transit travelers."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bistro Lungomare",
+            "tip": "Grickalice tik uz obalnu stazu za putnike u prolazu."
           }
         ]
       },
@@ -1656,6 +1863,13 @@
             "tip": "Colorful and shaded spot for a break.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Ulica kišobrana",
+            "tip": "Šareno i sjenovito mjesto za predah.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1681,6 +1895,12 @@
           {
             "name": "Central Tobacco Shop",
             "tip": "Bus tickets and local postcards available."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Središnji Tobacco shop",
+            "tip": "Dostupne autobusne karte i lokalne razglednice."
           }
         ]
       },
@@ -1708,6 +1928,12 @@
           "The old town is almost entirely car-free, ideal for transit tourists.",
           "Free city maps are available at the tourist information office.",
           "Buy water at the bus station kiosk, as prices are higher in the center."
+        ],
+        "hr": [
+          "Autobusi za Umag i Poreč redovito voze s glavnog kolodvora.",
+          "Stari grad je gotovo u potpunosti bez automobila, idealno za turiste koji koriste javni prijevoz.",
+          "Besplatne karte grada dostupne su u turističkom uredu.",
+          "Kupite vodu na kiosku na autobusnom kolodvoru jer su cijene u centru više."
         ]
       },
       "variants": {
@@ -1716,7 +1942,8 @@
             "de": "Morgens kommt man trocken mit dem Bus an der Station an.\nMittags bietet der Hafenweg kurze Wege zwischen den überdachten Cafés.\nNachmittags ist das Lapidarium das kulturelle Highlight ohne Regengefahr.\nDer Tag endet mit der Rückfahrt von der Marina im warmen Bus.",
             "hu": "Reggel szárazon érkezünk meg busszal az állomásra.\nDélben a kikötői út rövid sétákat kínál a fedett kávézók között.\nDélután a Lapidarium a kulturális fénypont, beázás veszélye nélkül.\nA nap a kikötőtől való visszautazással zárul a meleg buszon.",
             "ro": "Dimineața ajungem la uscat cu autobuzul la autogară.\nLa prânz, drumul prin port oferă distanțe scurte între cafenelele acoperite.\nDupă-amiaza, Lapidarium este punctul culminant cultural, fără risc de ploaie.\nZiua se încheie cu drumul de întoarcere de la marină cu autobuzul cald.",
-            "en": "Morning arrival at the bus station keeps you dry from the start.\nAt midday, the harbor walk offers short distances between covered cafes.\nIn the afternoon, the Lapidarium is the cultural highlight with no rain risk.\nThe day ends with a return trip from the marina on a warm bus."
+            "en": "Morning arrival at the bus station keeps you dry from the start.\nAt midday, the harbor walk offers short distances between covered cafes.\nIn the afternoon, the Lapidarium is the cultural highlight with no rain risk.\nThe day ends with a return trip from the marina on a warm bus.",
+            "hr": "Jutarnji dolazak na autobusni kolodvor čuva vas suhima od samog početka.\nU podne šetnja lukom nudi kratke udaljenosti između natkrivenih kafića.\nPoslijepodne je Lapidarium kulturni vrhunac bez rizika od kiše.\nDan završava povratkom iz marine toplim autobusom."
           },
           "stops": [
             {
@@ -1725,7 +1952,8 @@
                 "de": "Warteraum bietet Schutz vor Wind und Wetter.",
                 "hu": "A váróterem védelmet nyújt a szél és az eső elől.",
                 "ro": "Sala de așteptare oferă protecție împotriva intemperiilor.",
-                "en": "The waiting room offers protection from wind and rain."
+                "en": "The waiting room offers protection from wind and rain.",
+                "hr": "Čekaonica nudi zaštitu od vjetra i kiše."
               }
             },
             {
@@ -1734,7 +1962,8 @@
                 "de": "Schneller Zugang zu Cafés bei plötzlichen Schauern.",
                 "hu": "Gyors bejutás a kávézókba hirtelen zápor esetén.",
                 "ro": "Acces rapid la cafenele în caz de averse bruște.",
-                "en": "Quick access to cafes during sudden showers."
+                "en": "Quick access to cafes during sudden showers.",
+                "hr": "Brz pristup kafićima tijekom iznenadnih pljuskova."
               }
             },
             {
@@ -1743,7 +1972,8 @@
                 "de": "Ideal erreichbar zu Fuß vom Zentrum.",
                 "hu": "Könnyen elérhető gyalogosan a központból.",
                 "ro": "Ușor de ajuns pe jos din centru.",
-                "en": "Easily accessible on foot from the center."
+                "en": "Easily accessible on foot from the center.",
+                "hr": "Lako dostupno pješice iz centra."
               }
             },
             {
@@ -1752,7 +1982,8 @@
                 "de": "Kurze Gehdistanz zum nächsten Unterstand.",
                 "hu": "Rövid sétatávolság a következő fedett helyig.",
                 "ro": "Distanță scurtă de mers până la următorul adăpost.",
-                "en": "Short walking distance to the next shelter."
+                "en": "Short walking distance to the next shelter.",
+                "hr": "Kratka pješačka udaljenost do sljedećeg zaklona."
               }
             },
             {
@@ -1761,7 +1992,8 @@
                 "de": "Die Bushaltestelle ist in der Nähe des Hafens.",
                 "hu": "A buszmegálló a kikötő közelében található.",
                 "ro": "Stația de autobuz este aproape de marină.",
-                "en": "The bus stop is near the marina area."
+                "en": "The bus stop is near the marina area.",
+                "hr": "Autobusna stanica je u blizini područja marine."
               }
             }
           ],
@@ -1789,6 +2021,12 @@
               "The bus station is the best place to wait for your next connection in the dry.",
               "Avoid long waits outdoors; cafes are good interim stops.",
               "Use the app for real-time bus arrival information."
+            ],
+            "hr": [
+              "Provjerite vozni red jer jaka kiša može uzrokovati kašnjenja.",
+              "Autobusni kolodvor je najbolje mjesto za čekanje sljedeće veze na suhom.",
+              "Izbjegavajte duga čekanja na otvorenom; kafići su dobre usputne stanice.",
+              "Koristite aplikaciju za informacije o dolasku autobusa u stvarnom vremenu."
             ]
           }
         },
@@ -1797,7 +2035,8 @@
             "de": "Morgens ist es an der Busstation ruhig und friedlich im Winter.\nMittags spaziert man durch die leere Stadt zum Hafen für frische Seeluft.\nNachmittags bietet das Lapidarium eine willkommene Aufwärmpause.\nDer Tag endet früh, bevor die Winterkälte am Abend zunimmt.",
             "hu": "Reggel a buszállomáson csend és nyugalom fogad minket télen.\nDélben a néptelen városon át sétálunk a kikötőbe friss tengeri levegőért.\nDélután a Lapidarium szívesen látott melegedőhelyet jelent.\nA nap korán véget ér, még mielőtt az esti téli hideg felerősödne.",
             "ro": "Dimineața este liniște și pace la autogară în timpul iernii.\nLa prânz, ne plimbăm prin orașul pustiu spre port pentru aer curat de mare.\nDupă-amiaza, Muzeul Lapidarium oferă o pauză de încălzire binevenită.\nZiua se încheie devreme, înainte ca gerul serii să se intensifice.",
-            "en": "Morning at the bus station is quiet and peaceful in winter.\nAt midday, walk through the empty town to the harbor for fresh sea air.\nIn the afternoon, the Lapidarium provides a welcome warm-up break.\nThe day ends early before the evening winter cold intensifies."
+            "en": "Morning at the bus station is quiet and peaceful in winter.\nAt midday, walk through the empty town to the harbor for fresh sea air.\nIn the afternoon, the Lapidarium provides a welcome warm-up break.\nThe day ends early before the evening winter cold intensifies.",
+            "hr": "Jutro na autobusnom kolodvoru je tiho i mirno zimi.\nU podne prošećite kroz prazan grad do luke na svježi morski zrak.\nPoslijepodne Lapidarium pruža dobrodošlu stanku za zagrijavanje.\nDan rano završava prije nego što večernja zimska hladnoća pojača."
           },
           "stops": [
             {
@@ -1806,7 +2045,8 @@
                 "de": "Achtung: Eingeschränkter Winterfahrplan beachten.",
                 "hu": "Figyelem: Ügyeljen a korlátozott téli menetrendre.",
                 "ro": "Atenție: Respectați programul de iarnă redus.",
-                "en": "Warning: Note the limited winter schedule."
+                "en": "Warning: Note the limited winter schedule.",
+                "hr": "Upozorenje: Obratite pozornost na ograničeni zimski vozni red."
               }
             },
             {
@@ -1815,7 +2055,8 @@
                 "de": "Der Hafen ist im Winter fast menschenleer.",
                 "hu": "A kikötő télen szinte teljesen néptelen.",
                 "ro": "Portul este aproape pustiu în timpul iernii.",
-                "en": "The harbor is almost empty in winter."
+                "en": "The harbor is almost empty in winter.",
+                "hr": "Luka je zimi gotovo prazna."
               }
             },
             {
@@ -1824,7 +2065,8 @@
                 "de": "Warme Kleidung für den Weg zwischen den Stationen nötig.",
                 "hu": "Meleg ruházat szükséges az állomások közötti útra.",
                 "ro": "Haine groase necesare pentru drumul între stații.",
-                "en": "Warm clothing needed for the walk between stops."
+                "en": "Warm clothing needed for the walk between stops.",
+                "hr": "Potrebna topla odjeća za šetnju između stanica."
               }
             },
             {
@@ -1833,7 +2075,8 @@
                 "de": "Ein Ort der Stille in der Nebensaison.",
                 "hu": "A csend helyszíne az utószezonban.",
                 "ro": "Un loc al liniștii în extrasezon.",
-                "en": "A place of silence in the low season."
+                "en": "A place of silence in the low season.",
+                "hr": "Mjesto tišine izvan sezone."
               }
             },
             {
@@ -1842,7 +2085,8 @@
                 "de": "Letzte Busse fahren oft früher ab als im Sommer.",
                 "hu": "Az utolsó buszok gyakran korábban indulnak, mint nyáron.",
                 "ro": "Ultimele autobuze pleacă adesea mai devreme decât vara.",
-                "en": "Last buses often depart earlier than in summer."
+                "en": "Last buses often depart earlier than in summer.",
+                "hr": "Posljednji autobusi često kreću ranije nego ljeti."
               }
             }
           ],
@@ -1870,6 +2114,12 @@
               "Buses are well-heated and comfortable in winter.",
               "Most tourist-oriented lines run less frequently in winter.",
               "Buy tickets online as some ticket offices may be closed in winter."
+            ],
+            "hr": [
+              "Zimski vozni red autobusa znatno je smanjen u usporedbi s ljetnim.",
+              "Autobusi su zimi dobro zagrijani i udobni.",
+              "Većina turističkih linija zimi vozi rjeđe.",
+              "Kupite karte putem interneta jer neke blagajne zimi mogu biti zatvorene."
             ]
           }
         }

@@ -31,7 +31,8 @@
             "de": "Beginnen Sie den Tag mit dem Anblick luxuriöser Yachten.",
             "hu": "Kezdje a napot a luxusjachtok látványával.",
             "ro": "Începeți ziua cu vederea iahturilor de lux.",
-            "en": "Start the day with the sight of luxury yachts."
+            "en": "Start the day with the sight of luxury yachts.",
+            "hr": "Započnite dan pogledom na luksuzne jahte."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Die barocke Innenausstattung ist beeindruckend.",
             "hu": "A barokk belső díszítés lenyűgöző.",
             "ro": "Interiorul baroc este impresionant.",
-            "en": "The baroque interior is impressive."
+            "en": "The baroque interior is impressive.",
+            "hr": "Barokna unutrašnjost je impresivna."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Überreste einer römischen Stadt direkt am Ufer.",
             "hu": "Egy római város maradványai közvetlenül a parton.",
             "ro": "Rămășițele unui oraș roman chiar pe malul mării.",
-            "en": "Remains of a Roman town right on the shore."
+            "en": "Remains of a Roman town right on the shore.",
+            "hr": "Ostaci rimskog grada na samoj obali."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Friedliche Kapelle inmitten der Ruinen.",
             "hu": "Békés kápolna a romok közepette.",
             "ro": "Capelă liniștită în mijlocul ruinelor.",
-            "en": "Peaceful chapel amidst the ruins."
+            "en": "Peaceful chapel amidst the ruins.",
+            "hr": "Mirna kapelica usred ruševina."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Fantastischer Rundblick über den Archipel.",
             "hu": "Fantasztikus körpanoráma a szigetvilágra.",
             "ro": "Panoramă circulară fantastică asupra arhipelagului.",
-            "en": "Fantastic panoramic view over the archipelago."
+            "en": "Fantastic panoramic view over the archipelago.",
+            "hr": "Fantastičan panoramski pogled na arhipelag."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Türkisfarbenes Wasser und feiner Sand.",
             "hu": "Türkizkék víz és finom homok.",
             "ro": "Apă turcoaz și nisip fin.",
-            "en": "Turquoise water and fine sand."
+            "en": "Turquoise water and fine sand.",
+            "hr": "Tirkizno more i fini pijesak."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Der beliebteste Strand der Insel, ideal zum Baden.",
             "hu": "A sziget legnépszerűbb strandja, ideális fürdésre.",
             "ro": "Cea mai populară plajă de pe insulă, ideală pentru scăldat.",
-            "en": "The island's most popular beach, ideal for swimming."
+            "en": "The island's most popular beach, ideal for swimming.",
+            "hr": "Najpopularnija plaža na otoku, idealna za kupanje."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Morgens erleben Sie das nautische Flair in der Marina Hramina und besuchen die majestätische St.-Michael-Kirche.\n\nMittags tauchen Sie in die antike Geschichte von Colentum ein und genießen die Aussicht vom Gradina-Hügel.\n\nNachmittags entspannen Sie an den traumhaften Stränden Podvrške und Slanica, die für ihr klares Wasser berühmt sind.\n\nAbends spazieren Sie gemütlich zurück zum Hafen, wo Sie in einer der Konobas den Tag bei frischem Fisch abschließen.",
         "hu": "Reggel tapasztalja meg a tengeri hangulatot a Marina Hraminában, és látogassa meg a fenséges Szent Mihály-templomot.\n\nDélben merüljön el Colentum ókori történelmében, és élvezze a kilátást a Gradina-dombról.\n\nDélután pihenjen a lenyűgöző Podvrške és Slanica strandokon, amelyek tiszta vizükről híresek.\n\nEste sétáljon kényelmesen vissza a kikötőbe, ahol az egyik konobában friss hallal zárhatja a napot.",
         "ro": "Dimineața experimentați atmosfera nautică în Marina Hramina și vizitați maiestuoasa biserică Sfântul Mihail.\n\nLa prânz scufundați-vă în istoria antică a orașului Colentum și bucurați-vă de priveliștea de pe dealul Gradina.\n\nDupă-amiaza relaxați-vă pe plajele superbe Podvrške și Slanica, faimoase pentru apa lor limpede.\n\nSeara plimbați-vă agale înapoi spre port, unde puteți încheia ziua cu pește proaspăt la una dintre konobe.",
-        "en": "In the morning, experience the nautical flair in Marina Hramina and visit the majestic St. Michael's Church.\n\nAt midday, dive into the ancient history of Colentum and enjoy the view from Gradina Hill.\n\nIn the afternoon, relax at the stunning beaches of Podvrške and Slanica, famous for their clear water.\n\nIn the evening, take a leisurely stroll back to the port, where you can end the day with fresh fish at one of the konobas."
+        "en": "In the morning, experience the nautical flair in Marina Hramina and visit the majestic St. Michael's Church.\n\nAt midday, dive into the ancient history of Colentum and enjoy the view from Gradina Hill.\n\nIn the afternoon, relax at the stunning beaches of Podvrške and Slanica, famous for their clear water.\n\nIn the evening, take a leisurely stroll back to the port, where you can end the day with fresh fish at one of the konobas.",
+        "hr": "Ujutro doživite nautički ugođaj u Marini Hramina i posjetite veličanstvenu crkvu sv. Mihovila.\n\nU podne uronite u antičku povijest Colentuma i uživajte u pogledu s brda Gradina.\n\nPoslijepodne se opustite na prekrasnim plažama Podvrške i Slanica, poznatima po kristalno čistom moru.\n\nNavečer se lagano vratite u luku, gdje dan možete završiti uz svježu ribu u jednoj od konoba."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Restaurant Fabro",
             "tip": "Excellent grilled fish right by the water."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Boba",
+            "tip": "Vrhunska kuhinja s najboljim sastojcima s otoka."
+          },
+          {
+            "name": "Restaurant Fabro",
+            "tip": "Izvrsna riba s roštilja tik uz more."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "Almost deserted and magical in the early morning.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Brdo Gradina",
+            "tip": "Miran i panoramski pogled na kornatsko otočje.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaža Podvrške",
+            "tip": "Gotovo pusta i čarobna rano ujutro.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -264,6 +294,12 @@
           {
             "name": "Boutique Murter",
             "tip": "Local fashion and handmade jewelry."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Boutique Murter",
+            "tip": "Lokalna moda i ručno izrađen nakit."
           }
         ]
       },
@@ -291,6 +327,12 @@
           "Hike to Gradina Hill for the best holiday photos.",
           "Colentum is free to access and offers a great archaeology park.",
           "Taste the local olive oil, it's considered one of the best in Croatia."
+        ],
+        "hr": [
+          "Plaže mogu biti vrlo napučene u srpnju i kolovozu.",
+          "Popnite se na brdo Gradinu za najbolje blagdanske fotografije.",
+          "Pristup Colentumu je besplatan i nudi sjajan arheološki park.",
+          "Kušajte domaće maslinovo ulje, smatra se jednim od najboljih u Hrvatskoj."
         ]
       },
       "variants": {
@@ -516,7 +558,8 @@
             "de": "Beginnen Sie den Tag in der Marina Hramina, wo das Klappern der Segelmasten im Regen eine mystische Atmosphäre schafft. In der Pfarrkirche finden Sie mittags trockenen Unterschlupf und besinnliche Ruhe. Am Nachmittag trotzen Sie dem Wetter bei den Ruinen von Colentum, wo die Steine im Regen glänzen. Beenden Sie den Tag am Strand Slanica und beobachten Sie die Kraft des stürmischen Meeres von einem geschützten Café aus.",
             "hu": "Kezdje a napot a Marina Hramina kikötőben, ahol az esőben ringatózó árbocok látványa különleges hangulatot áraszt. Délben a Szent Mihály templom nyújt száraz menedéket és csendes elmélyülést. Délután Colentum romjainál az esőben fénylő kövek között sétálhat, majd a napot a Slanica strandon zárhatja, egy közeli kávézó fedezékéből figyelve a hullámzó tengert.",
             "ro": "Începeți ziua în Marina Hramina, unde sunetul catargelor în ploaie creează o atmosferă mistică. La prânz, biserica parohială oferă adăpost uscat și liniște. După-amiaza, explorați ruinele Colentum, unde pietrele strălucesc sub ploaie. Încheiați ziua la plaja Slanica, admirând marea agitată de la adăpostul unei cafenele din apropiere.",
-            "en": "Start your day at Marina Hramina, where the sound of clattering masts in the rain creates a mystic atmosphere. At noon, the parish church provides dry shelter and peaceful contemplation. In the afternoon, explore the ruins of Colentum, where the stones glisten in the rain. End the day at Slanica beach, watching the powerful sea from the comfort of a nearby cafe."
+            "en": "Start your day at Marina Hramina, where the sound of clattering masts in the rain creates a mystic atmosphere. At noon, the parish church provides dry shelter and peaceful contemplation. In the afternoon, explore the ruins of Colentum, where the stones glisten in the rain. End the day at Slanica beach, watching the powerful sea from the comfort of a nearby cafe.",
+            "hr": "Započnite dan u Marini Hramina, gdje zvuk jarbola na kiši stvara mističnu atmosferu. U podne župna crkva pruža suho utočište i mirno razmišljanje. Poslijepodne istražite ruševine Colentuma, gdje se kamenje sjaji na kiši. Završite dan na plaži Slanica, promatrajući moćno more iz udobnosti obližnjeg kafića."
           },
           "stops": [
             {
@@ -525,7 +568,8 @@
                 "de": "Die Cafés direkt am Wasser bieten einen tollen Blick auf die stürmische Bucht.",
                 "hu": "A vízparti kávézók remek kilátást nyújtanak a viharos öbölre.",
                 "ro": "Cafenelele de pe mal oferă o priveliște excelentă asupra golfului agitat.",
-                "en": "Waterfront cafes offer a great view of the stormy bay while staying dry."
+                "en": "Waterfront cafes offer a great view of the stormy bay while staying dry.",
+                "hr": "Kafići uz obalu nude sjajan pogled na olujni zaljev dok ste na suhom."
               }
             },
             {
@@ -534,7 +578,8 @@
                 "de": "Ein idealer Ort, um den stärksten Regenguss im Inneren abzuwarten.",
                 "hu": "Ideális hely a legnagyobb felhőszakadás átvészelésére a beltérben.",
                 "ro": "Un loc ideal pentru a aștepta trecerea ploii torențiale în interior.",
-                "en": "An ideal place to wait out the heaviest downpour indoors."
+                "en": "An ideal place to wait out the heaviest downpour indoors.",
+                "hr": "Idealno mjesto za čekanje da prođe najjači pljusak u zatvorenom."
               }
             },
             {
@@ -543,7 +588,8 @@
                 "de": "Vorsicht auf den antiken Steinen, sie können bei Nässe sehr rutschig sein.",
                 "hu": "Vigyázat az antik köveken, nedvesen nagyon csúszósak lehetnek.",
                 "ro": "Atenție pe pietrele antice, pot fi foarte alunecoase când sunt ude.",
-                "en": "Be careful on the ancient stones; they can be very slippery when wet."
+                "en": "Be careful on the ancient stones; they can be very slippery when wet.",
+                "hr": "Budite oprezni na antičkom kamenju; može biti vrlo sklisko kad je mokro."
               }
             },
             {
@@ -552,7 +598,8 @@
                 "de": "Der kleine Vorraum bietet kurzzeitigen Schutz vor dem Wind.",
                 "hu": "A kis előtér rövid ideig védelmet nyújt a szél elől.",
                 "ro": "Pridvorul mic oferă un adăpost temporar împotriva vântului.",
-                "en": "The small porch provides temporary shelter from the wind."
+                "en": "The small porch provides temporary shelter from the wind.",
+                "hr": "Mali trijem pruža privremeni zaklon od vjetra."
               }
             },
             {
@@ -561,7 +608,8 @@
                 "de": "Die Aussicht auf die Kornaten wirkt bei Regen besonders dramatisch.",
                 "hu": "A kilátás a Kornati-szigetekre esőben különösen drámainak tűnik.",
                 "ro": "Priveliștea spre insulele Kornati pare deosebit de dramatică în ploaie.",
-                "en": "The view towards the Kornati islands looks particularly dramatic in the rain."
+                "en": "The view towards the Kornati islands looks particularly dramatic in the rain.",
+                "hr": "Pogled prema Kornatima izgleda posebno dramatično na kiši."
               }
             },
             {
@@ -570,7 +618,8 @@
                 "de": "Die Pinienbäume bieten einen natürlichen Regenschutz für einen kurzen Stopp.",
                 "hu": "A fenyőfák természetes esővédelmet nyújtanak egy rövid megállóhoz.",
                 "ro": "Pinii oferă o protecție naturală împotriva ploii pentru o scurtă oprire.",
-                "en": "The pine trees offer natural rain protection for a quick stop."
+                "en": "The pine trees offer natural rain protection for a quick stop.",
+                "hr": "Borovi nude prirodnu zaštitu od kiše za kratko zaustavljanje."
               }
             },
             {
@@ -579,7 +628,8 @@
                 "de": "Besuchen Sie ein Restaurant am Strand für ein gemütliches Essen bei Meeresrauschen.",
                 "hu": "Látogasson el egy strandmenti étterembe egy hangulatos ebédre az esőben.",
                 "ro": "Vizitați un restaurant de pe plajă pentru o masă relaxantă ascultând marea.",
-                "en": "Visit a beachside restaurant for a cozy meal while listening to the rain and waves."
+                "en": "Visit a beachside restaurant for a cozy meal while listening to the rain and waves.",
+                "hr": "Posjetite restoran uz plažu za ugodan obrok uz zvuk kiše i valova."
               }
             }
           ],
@@ -607,6 +657,12 @@
               "The marina has several covered terraces with outdoor heaters.",
               "Use breaks in the rain to hike up to the viewpoints.",
               "A sturdy umbrella is essential due to the often strong winds (Jugo)."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću za pješačenje jer staze do arheoloških nalazišta mogu biti blatnjave.",
+              "Marina ima nekoliko natkrivenih terasa s vanjskim grijačima.",
+              "Iskoristite pauze u kiši za uspon do vidikovaca.",
+              "Čvrst kišobran je neophodan zbog često jakog vjetra (Juga)."
             ]
           }
         },
@@ -615,7 +671,8 @@
             "de": "Erleben Sie die Stille von Murter bei einem morgendlichen Spaziergang in der Marina. Mittags führt der Weg durch die menschenleere Altstadt zur St. Michael Kirche. Am frühen Nachmittag genießen Sie die klare Winterluft auf dem Hügel Gradina, bevor die Sonne früh über den Kornaten untergeht. Den Abend verbringen Sie gemütlich in einer der wenigen geöffneten Konobas im Ortskern.",
             "hu": "Ismerje meg Murter csendes arcát egy reggeli sétával a kikötőben. Délben a néptelen óvároson keresztül vezet az út a Szent Mihály templomhoz. Kora délután élvezze a friss téli levegőt a Gradina-dombon, mielőtt a nap korán lenyugszik a Kornati-szigetek felett. Az estét töltse egy hangulatos, nyitva tartó helyi konobában.",
             "ro": "Descoperiți fața liniștită a localității Murter cu o plimbare matinală în marină. La prânz, drumul trece prin centrul vechi pustiu spre biserica Sf. Mihail. După-amiaza devreme, bucurați-vă de aerul curat de iarnă pe dealul Gradina, înainte ca soarele să apună devreme peste Kornati. Seara, relaxați-vă într-o tavernă locală deschisă.",
-            "en": "Experience the quiet side of Murter with a morning stroll in the marina. At noon, the path leads through the deserted old town to St. Michael's church. In the early afternoon, enjoy the crisp winter air on Gradina Hill before the sun sets early over the Kornati islands. Spend the evening cozily in one of the few open local taverns."
+            "en": "Experience the quiet side of Murter with a morning stroll in the marina. At noon, the path leads through the deserted old town to St. Michael's church. In the early afternoon, enjoy the crisp winter air on Gradina Hill before the sun sets early over the Kornati islands. Spend the evening cozily in one of the few open local taverns.",
+            "hr": "Doživite mirnu stranu Murtera uz jutarnju šetnju marinom. U podne put vodi kroz pusti stari grad do crkve sv. Mihovila. Rano poslijepodne uživajte u svježem zimskom zraku na brdu Gradina prije nego što sunce rano zađe nad Kornatima. Provedite večer ugodno u jednoj od rijetkih otvorenih lokalnih konoba."
           },
           "stops": [
             {
@@ -624,7 +681,8 @@
                 "de": "Genießen Sie die Ruhe ohne die Sommermassen bei einem heißen Tee.",
                 "hu": "Élvezze a nyári tömeg nélküli nyugalmat egy forró tea mellett.",
                 "ro": "Bucurați-vă de liniște fără mulțimile de vară cu un ceai fierbinte.",
-                "en": "Enjoy the tranquility without the summer crowds with a hot tea."
+                "en": "Enjoy the tranquility without the summer crowds with a hot tea.",
+                "hr": "Uživajte u miru bez ljetne gužve uz topli čaj."
               }
             },
             {
@@ -633,7 +691,8 @@
                 "de": "Die Kirche strahlt im Winter eine besondere, friedliche Kälte aus.",
                 "hu": "A templom télen különleges, békés nyugalmat áraszt.",
                 "ro": "Biserica emană o răceală specială și pașnică în timpul iernii.",
-                "en": "The church radiates a special, peaceful calm during the winter."
+                "en": "The church radiates a special, peaceful calm during the winter.",
+                "hr": "Crkva zrači posebnim, spokojnim mirom tijekom zime."
               }
             },
             {
@@ -642,7 +701,8 @@
                 "de": "Beste Zeit für Fotos ohne andere Touristen im Bild.",
                 "hu": "A legjobb időszak fotózáshoz, más turisták nélkül a háttérben.",
                 "ro": "Cel mai bun moment pentru fotografii fără alți turiști în cadru.",
-                "en": "Best time for photos without other tourists in the frame."
+                "en": "Best time for photos without other tourists in the frame.",
+                "hr": "Najbolje vrijeme za fotografije bez drugih turista u kadru."
               }
             },
             {
@@ -651,7 +711,8 @@
                 "de": "Ein geschützter Ort, um die Wintersonne für einen Moment zu genießen.",
                 "hu": "Védett hely, ahol egy pillanatra élvezheti a téli napsütést.",
                 "ro": "Un loc ferit unde vă puteți bucura de soarele de iarnă pentru o clipă.",
-                "en": "A sheltered spot to enjoy the winter sun for a moment."
+                "en": "A sheltered spot to enjoy the winter sun for a moment.",
+                "hr": "Zaklonjeno mjesto za kratko uživanje u zimskom suncu."
               }
             },
             {
@@ -660,7 +721,8 @@
                 "de": "Achtung: Der Wind (Bura) kann hier oben sehr schneidend und kalt sein.",
                 "hu": "Figyelem: A szél (Bura) itt fent nagyon metsző és hideg lehet.",
                 "ro": "Atenție: Vântul (Bura) poate fi foarte tăios și rece aici sus.",
-                "en": "Caution: The wind (Bura) can be very biting and cold up here."
+                "en": "Caution: The wind (Bura) can be very biting and cold up here.",
+                "hr": "Oprez: vjetar (bura) ovdje gore može biti vrlo oštar i hladan."
               }
             },
             {
@@ -669,7 +731,8 @@
                 "de": "Ideal für einen meditativen Spaziergang am leeren Ufer.",
                 "hu": "Ideális egy meditatív sétához az üres tengerparton.",
                 "ro": "Ideal pentru o plimbare meditativă pe țărmul pustiu.",
-                "en": "Ideal for a meditative stroll along the empty shoreline."
+                "en": "Ideal for a meditative stroll along the empty shoreline.",
+                "hr": "Idealno za meditativnu šetnju uz praznu obalu."
               }
             },
             {
@@ -678,7 +741,8 @@
                 "de": "Beachten Sie, dass die meisten Strandbars im Winter geschlossen sind.",
                 "hu": "Vegye figyelembe, hogy a legtöbb strandbár télen zárva tart.",
                 "ro": "Rețineți că majoritatea barurilor de pe plajă sunt închise iarna.",
-                "en": "Note that most beach bars are closed during the winter season."
+                "en": "Note that most beach bars are closed during the winter season.",
+                "hr": "Imajte na umu da je većina barova na plaži zatvorena tijekom zimske sezone."
               }
             }
           ],
@@ -706,6 +770,12 @@
               "Warm, windproof clothing is essential due to the Bura winds.",
               "Many restaurants are closed for the season; check openings in the village center.",
               "The clear winter air provides the best long-distance views of the islands."
+            ],
+            "hr": [
+              "Sunce zimi zalazi oko 16:30, pa planirajte uspon ranije.",
+              "Topla odjeća otporna na vjetar je neophodna zbog bure.",
+              "Mnogi restorani su zatvoreni izvan sezone; provjerite radno vrijeme u centru mjesta.",
+              "Čisti zimski zrak pruža najbolju vidljivost prema udaljenim otocima."
             ]
           }
         }
@@ -734,7 +804,8 @@
             "de": "Flache Wege rund um das Hafenbecken.",
             "hu": "Sík utak a kikötőmedence körül.",
             "ro": "Trasee plane în jurul bazinului portuar.",
-            "en": "Flat paths around the harbor basin."
+            "en": "Flat paths around the harbor basin.",
+            "hr": "Ravne staze oko lučkog bazena."
           }
         },
         {
@@ -752,7 +823,8 @@
             "de": "Ein schöner Radweg führt direkt am Meer hierher.",
             "hu": "Egy szép kerékpárút vezet közvetlenül a tenger mentén ide.",
             "ro": "O pistă frumoasă de biciclete duce chiar pe malul mării până aici.",
-            "en": "A beautiful bike path leads right along the sea to here."
+            "en": "A beautiful bike path leads right along the sea to here.",
+            "hr": "Prekrasna biciklistička staza vodi uz more sve do ovdje."
           }
         },
         {
@@ -770,7 +842,8 @@
             "de": "Ideal für eine Pause mit dem Rad im Schatten der Kiefern.",
             "hu": "Ideális egy pihenőhöz kerékpárral a fenyők árnyékában.",
             "ro": "Ideal pentru o pauză cu bicicleta la umbra pinilor.",
-            "en": "Ideal for a break with the bike in the shade of the pines."
+            "en": "Ideal for a break with the bike in the shade of the pines.",
+            "hr": "Idealno za odmor s biciklom u hladu borova."
           }
         },
         {
@@ -788,7 +861,8 @@
             "de": "Historische Kapelle oberhalb des alten Dorfes.",
             "hu": "Történelmi kápolna az ófalu felett.",
             "ro": "Capelă istorică deasupra satului vechi.",
-            "en": "Historical chapel above the old village."
+            "en": "Historical chapel above the old village.",
+            "hr": "Povijesna kapelica iznad starog sela."
           }
         },
         {
@@ -806,7 +880,8 @@
             "de": "Beenden Sie die Tour mit einem Sprung ins Meer.",
             "hu": "Zárja a túrát egy ugrással a tengerbe.",
             "ro": "Încheiați turul cu o săritură în mare.",
-            "en": "End the tour with a jump into the sea."
+            "en": "End the tour with a jump into the sea.",
+            "hr": "Završite turu skokom u more."
           }
         }
       ],
@@ -814,7 +889,8 @@
         "de": "Radeln Sie morgens entspannt entlang der Marina und weiter auf dem Küstenweg zu den Ruinen von Colentum.\n\nDer Weg führt durch schattige Pinienwälder zum Strand Podvrške, einem Paradies für Radfahrer.\n\nMittags erkunden Sie die Anhöhen rund um Murter mit der kleinen Rochus-Kirche.\n\nDie Tour endet am Strand Slanica, wo Sie Ihr Rad parken und den Nachmittag im Wasser genießen können.",
         "hu": "Kerékpározzon reggel kényelmesen a kikötő mentén, majd tovább a parti úton Colentum romjaihoz.\n\nAz út árnyas fenyőerdőkön keresztül vezet a Podvrške-strandhoz, amely a kerékpárosok paradicsoma.\n\nDélben fedezze fel Murter környéki magaslatokat a kis Szent Rókus-templommal.\n\nA túra a Slanica-strandon ér véget, ahol leparkolhatja a biciklit, és a délutánt a vízben töltheti.",
         "ro": "Pedalați dimineața relaxat de-a lungul marinei și continuați pe drumul de coastă spre ruinele din Colentum.\n\nTraseul trece prin păduri de pini umbroase spre plaja Podvrške, un paradis pentru bicicliști.\n\nLa prânz explorați înălțimile din jurul orașului Murter cu mica biserică Sfântul Rochus.\n\nTurul se încheie la plaja Slanica, unde vă puteți parca bicicleta și vă puteți bucura de după-amiază în apă.",
-        "en": "Cycle relaxed in the morning along the marina and further on the coastal path to the ruins of Colentum.\n\nThe path leads through shady pine forests to Podvrške beach, a paradise for cyclists.\n\nAt midday, explore the heights around Murter with the small St. Roch church.\n\nThe tour ends at Slanica beach, where you can park your bike and enjoy the afternoon in the water."
+        "en": "Cycle relaxed in the morning along the marina and further on the coastal path to the ruins of Colentum.\n\nThe path leads through shady pine forests to Podvrške beach, a paradise for cyclists.\n\nAt midday, explore the heights around Murter with the small St. Roch church.\n\nThe tour ends at Slanica beach, where you can park your bike and enjoy the afternoon in the water.",
+        "hr": "Ujutro lagano biciklirajte uz marinu i dalje obalnom stazom do ruševina Colentuma.\n\nPut vodi kroz sjenovite borove šume do plaže Podvrške, raja za bicikliste.\n\nU podne istražite uzvisine oko Murtera uz malu crkvicu sv. Roka.\n\nTura završava na plaži Slanica, gdje možete parkirati bicikl i uživati u poslijepodnevu u moru."
       },
       "gastro_picks": {
         "de": [
@@ -839,6 +915,12 @@
           {
             "name": "Konoba Tic-Tac",
             "tip": "Legendary fish soup and homemade pasta."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Tic-Tac",
+            "tip": "Legendarna riblja juha i domaća tjestenina."
           }
         ]
       },
@@ -870,6 +952,13 @@
             "tip": "Pure nature experience right by the water.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Biciklistička staza oko poluotoka Vrške",
+            "tip": "Čisti doživljaj prirode tik uz more.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -895,6 +984,12 @@
           {
             "name": "Oil mill Murter",
             "tip": "Buy fresh olive oil directly from the producer."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Uljara Murter",
+            "tip": "Kupite svježe maslinovo ulje izravno od proizvođača."
           }
         ]
       },
@@ -922,6 +1017,12 @@
           "A helmet is advisable on the gravel paths around Colentum.",
           "Avoid the midday heat in midsummer for longer rides.",
           "Rent an e-bike for the hilly routes in the island's interior."
+        ],
+        "hr": [
+          "Obalne staze su uglavnom ravne i prikladne za sve razine kondicije.",
+          "Preporučuje se kaciga na makadamskim stazama oko Colentuma.",
+          "Izbjegavajte podnevne vrućine usred ljeta za duže vožnje.",
+          "Unajmite e-bicikl za brdovite rute u unutrašnjosti otoka."
         ]
       },
       "variants": {
@@ -1093,7 +1194,8 @@
             "de": "Eine sportliche Herausforderung: Starten Sie an der Marina und spüren Sie die Meeresbrise. Die Fahrt zu den Ruinen von Colentum führt über teils rutschige Pfade. Am Strand Podvrške bieten die Pinien kurzen Schutz, bevor es weiter zur Rochus-Kirche geht. Ein kurzer Sprint zum Strand Slanica beendet die Tour, wo Sie sich in einem Café aufwärmen können.",
             "hu": "Sportos kihívás: induljon a kikötőből, és érezze a tengeri szellőt. Az út Colentum romjaihoz néhol csúszós ösvényeken vezet. A Podvrške strandon a fenyők nyújtanak rövid menedéket, mielőtt továbbindulna a Szent Rókus templomhoz. Egy rövid sprint a Slanica strandig zárja a túrát, ahol egy kávézóban melegedhet fel.",
             "ro": "O provocare sportivă: porniți din marină și simțiți briza mării. Drumul spre ruinele Colentum trece pe poteci parțial alunecoase. La plaja Podvrške, pinii oferă un scurt adăpost înainte de a continua spre biserica Sf. Rochus. Un sprint scurt spre plaja Slanica încheie turul, unde vă puteți încălzi la o cafenea.",
-            "en": "A sporty challenge: start at the marina and feel the sea breeze. The ride to Colentum ruins leads over partly slippery paths. At Podvrške beach, pines offer short shelter before continuing to St. Roch's church. A short sprint to Slanica beach ends the tour, where you can warm up in a cafe."
+            "en": "A sporty challenge: start at the marina and feel the sea breeze. The ride to Colentum ruins leads over partly slippery paths. At Podvrške beach, pines offer short shelter before continuing to St. Roch's church. A short sprint to Slanica beach ends the tour, where you can warm up in a cafe.",
+            "hr": "Sportski izazov: započnite u marini i osjetite morski povjetarac. Vožnja do ruševina Colentuma vodi preko djelomično skliskih staza. Na plaži Podvrške borovi nude kratak zaklon prije nastavka do crkve sv. Roka. Kratki sprint do plaže Slanica završava turu, gdje se možete ugrijati u kafiću."
           },
           "stops": [
             {
@@ -1102,7 +1204,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen aufbrechen.",
                 "hu": "Ellenőrizze a fékeket, mielőtt elindulna a nedves utakra.",
                 "ro": "Verificați frânele înainte de a pleca pe drumurile ude.",
-                "en": "Check your brakes before setting off on the wet roads."
+                "en": "Check your brakes before setting off on the wet roads.",
+                "hr": "Provjerite kočnice prije kretanja na mokre ceste."
               }
             },
             {
@@ -1111,7 +1214,8 @@
                 "de": "Fahren Sie vorsichtig auf den Schotterwegen, Matschgefahr.",
                 "hu": "Közlekedjen óvatosan a kavicsos utakon, sárveszély várható.",
                 "ro": "Conduceți cu atenție pe drumurile cu pietriș, pericol de noroi.",
-                "en": "Ride carefully on the gravel paths; expect muddy sections."
+                "en": "Ride carefully on the gravel paths; expect muddy sections.",
+                "hr": "Vozite oprezno makadamskim stazama; očekujte blatnjave dijelove."
               }
             },
             {
@@ -1120,7 +1224,8 @@
                 "de": "Die asphaltierte Zufahrt ist auch bei Regen gut befahrbar.",
                 "hu": "Az aszfaltozott bejáró esőben is jól járható.",
                 "ro": "Accesul asfaltat este practicabil chiar și pe ploaie.",
-                "en": "The paved access road is easily rideable even in the rain."
+                "en": "The paved access road is easily rideable even in the rain.",
+                "hr": "Asfaltirana prilazna cesta lako je prohodna čak i po kiši."
               }
             },
             {
@@ -1129,7 +1234,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab, um trocken zu bleiben.",
                 "hu": "Parkolja le a bringát az eresztető alatt, hogy száraz maradjon.",
                 "ro": "Parcați bicicleta sub streașină pentru a o păstra uscată.",
-                "en": "Park your bike under the roof overhang to keep it dry."
+                "en": "Park your bike under the roof overhang to keep it dry.",
+                "hr": "Parkirajte bicikl ispod nadstrešnice kako bi ostao suh."
               }
             },
             {
@@ -1138,7 +1244,8 @@
                 "de": "Das Ziel bietet gute Möglichkeiten, das Rad sicher und trocken abzustellen.",
                 "hu": "A célpontnál jó lehetőségek vannak a bicikli biztonságos és száraz tárolására.",
                 "ro": "Destinația oferă opțiuni bune pentru a lăsa bicicleta în siguranță și la uscat.",
-                "en": "The destination offers good options to park your bike safely and dryly."
+                "en": "The destination offers good options to park your bike safely and dryly.",
+                "hr": "Odredište nudi dobre opcije za sigurno i suho parkiranje bicikla."
               }
             }
           ],
@@ -1166,6 +1273,12 @@
               "Full rain gear and mudguards are highly recommended.",
               "The coastal road may have sea spray whipped onto it during strong winds.",
               "Keep riding time short to avoid getting too cold."
+            ],
+            "hr": [
+              "Izbjegavajte oštro kočenje na glatkim kamenim površinama starog grada.",
+              "Toplo se preporučuje potpuna oprema za kišu i blatobrani.",
+              "Obalna cesta može biti poprskana morskom pjenom tijekom jakog vjetra.",
+              "Neka vrijeme vožnje bude kratko kako biste izbjegli preveliko hlađenje."
             ]
           }
         },
@@ -1174,7 +1287,8 @@
             "de": "Genießen Sie eine erfrischende Wintertour entlang der Küste von Murter. Ohne den Sommertrubel gehören die Wege Ihnen ganz allein. Nach dem Besuch von Colentum führt die Route durch Pinienwälder zum Strand Podvrške. Ein kurzer Stopp an der Rochus-Kirche bietet Weitblick, bevor die Tour am Strand Slanica im goldenen Licht des frühen Abends endet.",
             "hu": "Élvezze a frissítő téli túrát Murter partjai mentén. A nyári nyüzsgés nélkül az utak csak az Önéi. Colentum után az út fenyőerdőkön keresztül vezet a Podvrške strandhoz. Egy rövid megálló a Szent Rókus templomnál szép kilátást kínál, mielőtt a túra a Slanica strandon, a kora esti aranyfényben véget ér.",
             "ro": "Bucurați-vă de un tur revigorant de iarnă de-a lungul coastei Murter. Fără agitația de vară, drumurile sunt doar ale voastre. După vizitarea Colentum, traseul trece prin păduri de pini spre plaja Podvrške. O scurtă oprire la biserica Sf. Rochus oferă o panoramă frumoasă, înainte ca turul să se încheie la plaja Slanica în lumina aurie a serii.",
-            "en": "Enjoy a refreshing winter tour along the coast of Murter. Without the summer hustle, the paths are all yours. After Colentum, the route leads through pine forests to Podvrške beach. A short stop at St. Roch's church offers great views before the tour ends at Slanica beach in the golden light of early evening."
+            "en": "Enjoy a refreshing winter tour along the coast of Murter. Without the summer hustle, the paths are all yours. After Colentum, the route leads through pine forests to Podvrške beach. A short stop at St. Roch's church offers great views before the tour ends at Slanica beach in the golden light of early evening.",
+            "hr": "Uživajte u osvježavajućoj zimskoj turi obalom Murtera. Bez ljetne gužve, staze su samo vaše. Nakon Colentuma, ruta vodi kroz borove šume do plaže Podvrške. Kratko zaustavljanje kod crkve sv. Roka nudi sjajan pogled prije nego što tura završi na plaži Slanica u zlatnom svjetlu rane večeri."
           },
           "stops": [
             {
@@ -1183,7 +1297,8 @@
                 "de": "Tragen Sie Handschuhe, der Fahrtwind kann im Winter sehr kalt sein.",
                 "hu": "Viseljen kesztyűt, a menetszél télen nagyon hideg lehet.",
                 "ro": "Purtați mănuși, curentul de aer poate fi foarte rece iarna.",
-                "en": "Wear gloves; the headwind can be very cold in winter."
+                "en": "Wear gloves; the headwind can be very cold in winter.",
+                "hr": "Nosite rukavice; vjetar u prsa može biti vrlo hladan zimi."
               }
             },
             {
@@ -1192,7 +1307,8 @@
                 "de": "Das Gelände ist im Winter wunderbar ruhig für Erkundungen.",
                 "hu": "A terület télen csodálatosan csendes a felfedezéshez.",
                 "ro": "Zona este minunat de liniștită iarna pentru explorări.",
-                "en": "The site is wonderfully quiet in winter for exploration."
+                "en": "The site is wonderfully quiet in winter for exploration.",
+                "hr": "Mjesto je zimi predivno tiho za istraživanje."
               }
             },
             {
@@ -1201,7 +1317,8 @@
                 "de": "Machen Sie eine kurze Pause im Windschatten der Bäume.",
                 "hu": "Tartson egy rövid szünetet a fák szélárnyékában.",
                 "ro": "Faceți o scurtă pauză la adăpostul copacilor.",
-                "en": "Take a short break in the wind shadow of the trees."
+                "en": "Take a short break in the wind shadow of the trees.",
+                "hr": "Napravite kratku pauzu u zavjetrini drveća."
               }
             },
             {
@@ -1210,7 +1327,8 @@
                 "de": "Ein toller Aussichtspunkt, um den Sonnenstand zu prüfen.",
                 "hu": "Remek kilátópont a nap állásának ellenőrzéséhez.",
                 "ro": "Un punct de belvedere excelent pentru a verifica poziția soarelui.",
-                "en": "A great viewpoint to check the sun's position."
+                "en": "A great viewpoint to check the sun's position.",
+                "hr": "Sjajan vidikovac za provjeru položaja sunca."
               }
             },
             {
@@ -1219,7 +1337,8 @@
                 "de": "Das Winterlicht auf dem Wasser ist perfekt für stimmungsvolle Fotos.",
                 "hu": "A vízen tükröződő téli fény tökéletes hangulatos fotókhoz.",
                 "ro": "Lumina de iarnă pe apă este perfectă pentru fotografii atmosferice.",
-                "en": "The winter light on the water is perfect for atmospheric photos."
+                "en": "The winter light on the water is perfect for atmospheric photos.",
+                "hr": "Zimsko svjetlo na vodi savršeno je za atmosferske fotografije."
               }
             }
           ],
@@ -1247,6 +1366,12 @@
               "Check tire pressure, as cold air can reduce it.",
               "Bring a thermos with a warm drink.",
               "Finish your tour before dark (around 4:30 PM)."
+            ],
+            "hr": [
+              "Slojevita odjeća štiti od hladnog vjetra u prsa.",
+              "Provjerite tlak u gumama, jer hladan zrak može smanjiti tlak.",
+              "Ponesite termosicu s toplim napitkom.",
+              "Završite turu prije mraka (oko 16:30)."
             ]
           }
         }
@@ -1275,7 +1400,8 @@
             "de": "Großer Parkplatz direkt am Hafeneingang vorhanden.",
             "hu": "Nagy parkoló közvetlenül a kikötő bejáratánál.",
             "ro": "Parcare mare disponibilă chiar la intrarea în port.",
-            "en": "Large parking lot available right at the harbor entrance."
+            "en": "Large parking lot available right at the harbor entrance.",
+            "hr": "Veliko parkiralište dostupno odmah na ulazu u luku."
           }
         },
         {
@@ -1293,7 +1419,8 @@
             "de": "Kurze Fahrt nach Norden, Parken am Strand möglich.",
             "hu": "Rövid út északra, parkolás a strandon lehetséges.",
             "ro": "Drum scurt spre nord, parcare posibilă la plajă.",
-            "en": "Short drive north, parking possible at the beach."
+            "en": "Short drive north, parking possible at the beach.",
+            "hr": "Kratka vožnja prema sjeveru, parkiranje moguće kod plaže."
           }
         },
         {
@@ -1311,7 +1438,8 @@
             "de": "Der Aussichtspunkt ist per Auto fast bis oben erreichbar.",
             "hu": "A kilátópont autóval szinte a tetejéig megközelíthető.",
             "ro": "Punctul de belvedere este accesibil cu mașina aproape până sus.",
-            "en": "The viewpoint is reachable by car almost to the top."
+            "en": "The viewpoint is reachable by car almost to the top.",
+            "hr": "Vidikovac je dostupan automobilom gotovo do samog vrha."
           }
         },
         {
@@ -1329,7 +1457,8 @@
             "de": "Zentral gelegen, Parkplatzsuche in der Nähe nötig.",
             "hu": "Központi fekvésű, parkolóhely keresése szükséges a közelben.",
             "ro": "Situat central, necesită căutarea unui loc de parcare în apropiere.",
-            "en": "Centrally located, parking search needed nearby."
+            "en": "Centrally located, parking search needed nearby.",
+            "hr": "Središnja lokacija, potrebno je potražiti parking u blizini."
           }
         },
         {
@@ -1347,7 +1476,8 @@
             "de": "Wunderschöner Naturstrand, Parkgebühr im Sommer.",
             "hu": "Gyönyörű természetes strand, nyáron parkolási díjjal.",
             "ro": "Plajă naturală minunată, taxă de parcare vara.",
-            "en": "Beautiful natural beach, parking fee in summer."
+            "en": "Beautiful natural beach, parking fee in summer.",
+            "hr": "Prekrasna prirodna plaža, ljeti se naplaćuje parking."
           }
         },
         {
@@ -1365,7 +1495,8 @@
             "de": "Viel Platz, Bars und Restaurants in direkter Nähe.",
             "hu": "Sok hely, bárok és éttermek a közvetlen közelben.",
             "ro": "Mult spațiu, baruri și restaurante în imediata apropiere.",
-            "en": "Lots of space, bars and restaurants in immediate vicinity."
+            "en": "Lots of space, bars and restaurants in immediate vicinity.",
+            "hr": "Puno prostora, barovi i restorani u neposrednoj blizini."
           }
         }
       ],
@@ -1373,7 +1504,8 @@
         "de": "Entdecken Sie Murter komfortabel mit dem Auto, beginnend am geschäftigen Yachthafen Hramina.\n\nBesuchen Sie die antike Stadt Colentum und den Gradina-Hügel, ohne weite Strecken zu Fuß zurücklegen zu müssen.\n\nMittags erkunden Sie die prächtige Pfarrkirche im Zentrum, bevor Sie zu den berühmtesten Stränden der Insel aufbrechen.\n\nDer Nachmittag gehört dem Strandleben in Slanica, wo Sie den Wagen bequem auf den großen Parkplätzen abstellen können.",
         "hu": "Fedezze fel Murtert kényelmesen autóval, a nyüzsgő Hramina jachtkikötőből indulva.\n\nLátogasson el Colentum ókori városába és a Gradina-dombra anélkül, hogy hosszú távokat kellene gyalog megtennie.\n\nDélben fedezze fel a központi plébániatemplomot, mielőtt elindulna a sziget leghíresebb strandjaihoz.\n\nA délután a Slanica strandé, ahol kényelmesen leparkolhat a nagy parkolókban.",
         "ro": "Descoperiți Murter confortabil cu mașina, începând de la portul de iahturi Hramina plin de viață.\n\nVizitați orașul antic Colentum și dealul Gradina fără a fi nevoie să parcurgeți distanțe mari pe jos.\n\nLa prânz explorați biserica parohială din centru înainte de a pleca spre cele mai faimoase plaje ale insulei.\n\nDupă-amiaza aparține plajei Slanica, unde vă puteți lăsa mașina confortabil în marile parcări.",
-        "en": "Discover Murter comfortably by car, starting from the busy Hramina marina.\n\nVisit the ancient city of Colentum and Gradina Hill without having to walk long distances.\n\nAt midday, explore the grand parish church in the center before heading to the island's most famous beaches.\n\nThe afternoon belongs to beach life in Slanica, where you can easily park your car in the large lots."
+        "en": "Discover Murter comfortably by car, starting from the busy Hramina marina.\n\nVisit the ancient city of Colentum and Gradina Hill without having to walk long distances.\n\nAt midday, explore the grand parish church in the center before heading to the island's most famous beaches.\n\nThe afternoon belongs to beach life in Slanica, where you can easily park your car in the large lots.",
+        "hr": "Udobno otkrijte Murter automobilom, počevši od živahne marine Hramina.\n\nPosjetite antički grad Colentum i brdo Gradinu bez potrebe za dugim pješačenjem.\n\nU podne istražite veliku župnu crkvu u centru prije nego što krenete prema najpoznatijim plažama otoka.\n\nPoslijepodne pripada plažnom životu u Slanici, gdje možete lako parkirati automobil na velikim parkiralištima."
       },
       "gastro_picks": {
         "de": [
@@ -1398,6 +1530,12 @@
           {
             "name": "Restoran Reba",
             "tip": "Family atmosphere and huge portions of grilled meat."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Reba",
+            "tip": "Obiteljska atmosfera i ogromne porcije mesa s roštilja."
           }
         ]
       },
@@ -1429,6 +1567,13 @@
             "tip": "Romantic view over the red roofs of Murter.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac kod crkve sv. Roka",
+            "tip": "Romantičan pogled na crvene krovove Murtera.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1454,6 +1599,12 @@
           {
             "name": "Local winery",
             "tip": "Taste the white wine Debit directly from the barrel."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna vinarija",
+            "tip": "Kušajte bijelo vino Debit izravno iz bačve."
           }
         ]
       },
@@ -1481,6 +1632,12 @@
           "The road to Slanica beach can be very dusty and narrow in summer.",
           "A rental car also allows for a visit to the nearby Krka National Park.",
           "Slanica offers the best infrastructure for a full day at the beach."
+        ],
+        "hr": [
+          "Koristite lučka parkirališta za posjet centru.",
+          "Cesta do plaže Slanica ljeti može biti vrlo prašnjava i uska.",
+          "Najam automobila omogućuje i posjet obližnjem Nacionalnom parku Krka.",
+          "Slanica nudi najbolju infrastrukturu za cijeli dan na plaži."
         ]
       },
       "variants": {
@@ -1661,7 +1818,8 @@
             "de": "Genießen Sie Murter bequem vom Auto aus. Starten Sie an der Marina und fahren Sie zur antiken Stätte Colentum. Ein kurzer Stopp am Gradina Hügel bietet tolle Ausblicke trotz Regenwolken. Besuchen Sie die Pfarrkirche und fahren Sie anschließend zu den Stränden Podvrške und Slanica, wo Sie das Meer direkt vom Parkplatz aus beobachten können.",
             "hu": "Élvezze Murtert kényelmesen az autóból. Kezdje a kikötőnél, majd hajtson az antik Colentumhoz. Egy rövid megálló a Gradina-dombnál remek kilátást nyújt az esőfelhők ellenére is. Látogassa meg a plébániatemplomot, majd hajtson a Podvrške és Slanica strandokhoz, ahol a parkolóból is figyelheti a tengert.",
             "ro": "Bucurați-vă de Murter confortabil din mașină. Începeți la marină și conduceți spre situl antic Colentum. O scurtă oprire la dealul Gradina oferă priveliști excelente în ciuda norilor de ploaie. Vizitați biserica parohială, apoi mergeți la plajele Podvrške și Slanica, unde puteți admira marea direct din parcarea mașinii.",
-            "en": "Enjoy Murter comfortably from your car. Start at the marina and drive to the ancient site of Colentum. A short stop at Gradina Hill offers great views despite the rain clouds. Visit the parish church, then drive to Podvrške and Slanica beaches, where you can watch the sea directly from the parking lot."
+            "en": "Enjoy Murter comfortably from your car. Start at the marina and drive to the ancient site of Colentum. A short stop at Gradina Hill offers great views despite the rain clouds. Visit the parish church, then drive to Podvrške and Slanica beaches, where you can watch the sea directly from the parking lot.",
+            "hr": "Uživajte u Murteru udobno iz svog automobila. Započnite u marini i odvezite se do antičkog nalazišta Colentum. Kratko zaustavljanje na brdu Gradina nudi sjajan pogled unatoč kišnim oblacima. Posjetite župnu crkvu, a zatim se odvezite do plaža Podvrške i Slanica, gdje možete promatrati more izravno s parkirališta."
           },
           "stops": [
             {
@@ -1670,7 +1828,8 @@
                 "de": "Parken Sie nah am Hafeneingang für einen kurzen Weg zu den Cafés.",
                 "hu": "Parkoljon közel a kikötő bejáratához a kávézók gyors eléréséhez.",
                 "ro": "Parcați aproape de intrarea în marină pentru acces rapid la cafenele.",
-                "en": "Park close to the marina entrance for a short walk to the cafes."
+                "en": "Park close to the marina entrance for a short walk to the cafes.",
+                "hr": "Parkirajte blizu ulaza u marinu za kratku šetnju do kafića."
               }
             },
             {
@@ -1679,7 +1838,8 @@
                 "de": "Es gibt Parkmöglichkeiten direkt an der Zufahrtsstraße.",
                 "hu": "Közvetlenül a bevezető út mellett vannak parkolási lehetőségek.",
                 "ro": "Există locuri de parcare chiar lângă drumul de acces.",
-                "en": "There are parking options directly along the access road."
+                "en": "There are parking options directly along the access road.",
+                "hr": "Postoje opcije parkiranja izravno uz prilaznu cestu."
               }
             },
             {
@@ -1688,7 +1848,8 @@
                 "de": "Genießen Sie das Panorama durch das Panoramafenster Ihres Autos.",
                 "hu": "Élvezze a panorámát az autó szélvédőjén keresztül.",
                 "ro": "Bucurați-vă de panoramă prin parbrizul mașinii.",
-                "en": "Enjoy the panorama through your car window if it's pouring."
+                "en": "Enjoy the panorama through your car window if it's pouring.",
+                "hr": "Uživajte u panorami kroz prozor automobila ako jako pljušti."
               }
             },
             {
@@ -1697,7 +1858,8 @@
                 "de": "Die engen Gassen zum Parken meiden, lieber am Hauptplatz parken.",
                 "hu": "Kerülje a szűk utcákat, inkább a főtéren parkoljon.",
                 "ro": "Evitați străzile înguste pentru parcare, parcați mai degrabă în piața principală.",
-                "en": "Avoid narrow streets for parking; prefer the main square instead."
+                "en": "Avoid narrow streets for parking; prefer the main square instead.",
+                "hr": "Izbjegavajte uske ulice za parkiranje; radije odaberite glavni trg."
               }
             },
             {
@@ -1706,7 +1868,8 @@
                 "de": "Der Parkplatz ist nah am Wasser, ideal für einen schnellen Blick.",
                 "hu": "A parkoló közel van a vízhez, ideális egy gyors körbenézéshez.",
                 "ro": "Parcarea este aproape de apă, ideală pentru o privire rapidă.",
-                "en": "The parking lot is close to the water, ideal for a quick look."
+                "en": "The parking lot is close to the water, ideal for a quick look.",
+                "hr": "Parkiralište je blizu vode, idealno za brzi pogled."
               }
             },
             {
@@ -1715,7 +1878,8 @@
                 "de": "Viele Parkplätze direkt am Meer ermöglichen das Beobachten der Wellen.",
                 "hu": "Sok tengerparti parkoló teszi lehetővé a hullámok megfigyelését.",
                 "ro": "Multe locuri de parcare la malul mării permit observarea valurilor.",
-                "en": "Many beachfront parking spots allow for wave watching from the car."
+                "en": "Many beachfront parking spots allow for wave watching from the car.",
+                "hr": "Mnogi parkirni prostori uz plažu omogućuju promatranje valova iz auta."
               }
             }
           ],
@@ -1743,6 +1907,12 @@
               "Watch out for puddles: some roads can flood slightly during heavy rain.",
               "In the off-season, many parking lots are free or cheaper.",
               "Drive defensively on the narrow, wet roads of the island."
+            ],
+            "hr": [
+              "Koristite klima uređaj kako biste spriječili zamagljivanje stakala.",
+              "Pripazite na lokve: neke ceste mogu lagano poplaviti tijekom jake kiše.",
+              "Izvan sezone mnoga su parkirališta besplatna ili jeftinija.",
+              "Vozite defenzivno uskim, mokrim cestama otoka."
             ]
           }
         },
@@ -1751,7 +1921,8 @@
             "de": "Erkunden Sie Murter im Winter ganz entspannt mit dem Auto. Beginnen Sie an der ruhigen Marina und fahren Sie zur antiken Stätte Colentum. Der Gradina Hügel bietet im klaren Winterlicht eine fantastische Fernsicht. Nach einem Besuch der St. Michael Kirche führt die Route zu den einsamen Winterstränden Podvrške und Slanica, perfekt für kurze, erfrischende Spaziergänge.",
             "hu": "Fedezze fel Murtert télen, teljesen ellazulva, autóval. Kezdje a csendes kikötőnél, majd hajtson Colentumhoz. A Gradina-domb a tiszta téli fényben fantasztikus kilátást nyújt. A Szent Mihály templom után az út az elhagyatott téli strandokhoz, Podvrškéhez és Slanicához vezet, amelyek tökéletesek egy rövid, frissítő sétához.",
             "ro": "Explorați Murter iarna, relaxat, cu mașina. Începeți la marina liniștită și conduceți spre situl antic Colentum. Dealul Gradina oferă o vizibilitate fantastică în lumina clară de iarnă. După o vizită la biserica Sf. Mihail, traseul duce spre plajele pustii de iarnă Podvrške și Slanica, perfecte pentru scurte plimbări revigorante.",
-            "en": "Explore Murter in winter in a relaxed way by car. Start at the quiet marina and drive to the ancient site of Colentum. Gradina Hill offers fantastic views in the clear winter light. After a visit to St. Michael's church, the route leads to the deserted winter beaches of Podvrške and Slanica, perfect for short, refreshing walks."
+            "en": "Explore Murter in winter in a relaxed way by car. Start at the quiet marina and drive to the ancient site of Colentum. Gradina Hill offers fantastic views in the clear winter light. After a visit to St. Michael's church, the route leads to the deserted winter beaches of Podvrške and Slanica, perfect for short, refreshing walks.",
+            "hr": "Istražite Murter zimi na opušten način automobilom. Krenite iz mirne marine i odvezite se do antičkog nalazišta Colentum. Brdo Gradina nudi fantastične vidike na čistom zimskom svjetlu. Nakon posjeta crkvi sv. Mihovila, ruta vodi do pustih zimskih plaža Podvrške i Slanica, savršenih za kratke, osvježavajuće šetnje."
           },
           "stops": [
             {
@@ -1760,7 +1931,8 @@
                 "de": "Parkplätze sind im Winter im Überfluss vorhanden.",
                 "hu": "Télen bőven van szabad parkolóhely.",
                 "ro": "Locurile de parcare sunt abundente în timpul iernii.",
-                "en": "Parking spaces are available in abundance during the winter."
+                "en": "Parking spaces are available in abundance during the winter.",
+                "hr": "Parkirna mjesta zimi su dostupna u izobilju."
               }
             },
             {
@@ -1769,7 +1941,8 @@
                 "de": "Nutzen Sie den Parkplatz als Startpunkt für einen windgeschützten Spaziergang.",
                 "hu": "Használja a parkolót egy szélvédett séta kiindulópontjaként.",
                 "ro": "Folosiți parcarea ca punct de plecare pentru o plimbare ferită de vânt.",
-                "en": "Use the parking lot as a starting point for a wind-sheltered walk."
+                "en": "Use the parking lot as a starting point for a wind-sheltered walk.",
+                "hr": "Koristite parkiralište kao polazište za šetnju u zavjetrini."
               }
             },
             {
@@ -1778,7 +1951,8 @@
                 "de": "Idealer Fotostopp, wenn es draußen zu kalt für langes Wandern ist.",
                 "hu": "Ideális fotómegálló, ha kint túl hideg van a hosszú túrázáshoz.",
                 "ro": "Oprire ideală pentru fotografii dacă este prea rece afară pentru drumeții lungi.",
-                "en": "Ideal photo stop if it's too cold outside for long hikes."
+                "en": "Ideal photo stop if it's too cold outside for long hikes.",
+                "hr": "Idealno mjesto za fotografiranje ako je vani prehladno za duge šetnje."
               }
             },
             {
@@ -1787,7 +1961,8 @@
                 "de": "Besuchen Sie die Kirche für einen Moment der Stille und Wärme.",
                 "hu": "Látogassa meg a templomot egy pillanatnyi csendre és melegre.",
                 "ro": "Vizitați biserica pentru un moment de liniște și căldură.",
-                "en": "Visit the church for a moment of silence and relative warmth."
+                "en": "Visit the church for a moment of silence and relative warmth.",
+                "hr": "Posjetite crkvu za trenutak tišine i relativne topline."
               }
             },
             {
@@ -1796,7 +1971,8 @@
                 "de": "Die Zufahrt durch den Wald ist im Winter besonders idyllisch.",
                 "hu": "Az erdőn keresztül vezető út télen különösen idilli.",
                 "ro": "Accesul prin pădure este deosebit de idilic iarna.",
-                "en": "The drive through the forest is particularly idyllic in winter."
+                "en": "The drive through the forest is particularly idyllic in winter.",
+                "hr": "Vožnja kroz šumu posebno je idilična zimi."
               }
             },
             {
@@ -1805,7 +1981,8 @@
                 "de": "Genießen Sie den Sonnenuntergang direkt aus dem warmen Auto.",
                 "hu": "Élvezze a naplementét közvetlenül a meleg autóból.",
                 "ro": "Bucurați-vă de apus direct din mașina caldă.",
-                "en": "Enjoy the sunset directly from the comfort of your warm car."
+                "en": "Enjoy the sunset directly from the comfort of your warm car.",
+                "hr": "Uživajte u zalasku sunca izravno iz udobnosti svog toplog automobila."
               }
             }
           ],
@@ -1833,6 +2010,12 @@
               "The car provides a perfect retreat from the cold winter wind.",
               "Parking fees are often completely waived during the winter months.",
               "Pack blankets for a winter picnic with a view from your car."
+            ],
+            "hr": [
+              "Unaprijed provjerite jesu li ceste zatvorene zbog olujne bure.",
+              "Automobil pruža savršeno utočište od hladnog zimskog vjetra.",
+              "Naknade za parkiranje često su potpuno ukinute tijekom zimskih mjeseci.",
+              "Spakirajte deke za zimski piknik s pogledom iz automobila."
             ]
           }
         }
@@ -1861,7 +2044,8 @@
             "de": "Zentraler Ankunftspunkt für alle regionalen Busse.",
             "hu": "Központi érkezési pont minden regionális busz számára.",
             "ro": "Punct central de sosire pentru toate autobuzele regionale.",
-            "en": "Central arrival point for all regional buses."
+            "en": "Central arrival point for all regional buses.",
+            "hr": "Središnja točka dolaska za sve regionalne autobuse."
           }
         },
         {
@@ -1879,7 +2063,8 @@
             "de": "Kurzer Spaziergang von der Bushaltestelle im Zentrum.",
             "hu": "Rövid séta a központi buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz din centru.",
-            "en": "Short walk from the bus stop in the center."
+            "en": "Short walk from the bus stop in the center.",
+            "hr": "Kratka šetnja od autobusne stanice u centru."
           }
         },
         {
@@ -1897,7 +2082,8 @@
             "de": "Vom Zentrum aus gut per Fuß oder Lokalbus erreichbar.",
             "hu": "A központtól gyalog vagy helyi busszal jól elérhető.",
             "ro": "Accesibil bine pe jos sau cu autobuzul local din centru.",
-            "en": "Well accessible on foot or by local bus from the center."
+            "en": "Well accessible on foot or by local bus from the center.",
+            "hr": "Lako dostupno pješice ili lokalnim autobusom iz centra."
           }
         },
         {
@@ -1915,7 +2101,8 @@
             "de": "Direkt neben Colentum, kein extra Transport nötig.",
             "hu": "Közvetlenül Colentum mellett, nincs szükség külön közlekedésre.",
             "ro": "Chiar lângă Colentum, nu este nevoie de transport suplimentar.",
-            "en": "Right next to Colentum, no extra transport needed."
+            "en": "Right next to Colentum, no extra transport needed.",
+            "hr": "Odmah pored Colentuma, nije potreban dodatni prijevoz."
           }
         },
         {
@@ -1933,7 +2120,8 @@
             "de": "Im Sommer pendelt oft ein Touristenzug hierher.",
             "hu": "Nyáron gyakran közlekedik ide városi kisvonat.",
             "ro": "Vara circulă adesea un trenuleț turistic până aici.",
-            "en": "A tourist train often shuttles here in summer."
+            "en": "A tourist train often shuttles here in summer.",
+            "hr": "Ljeti ovdje često vozi turistički vlakić."
           }
         }
       ],
@@ -1941,7 +2129,8 @@
         "de": "Kommen Sie entspannt mit dem Bus in Murter an und starten Sie Ihre Erkundung am geschäftigen Hafen.\n\nBesuchen Sie die historische Michael-Kirche und wandern Sie zu den Ausgrabungen von Colentum auf der Nordseite des Ortes.\n\nMittags bietet sich der Gradina-Hügel für eine kurze Pause an, bevor Sie den lokalen Transit zum Slanica-Strand nutzen.\n\nGenießen Sie das Meer und den Sandstrand, bevor Sie am Nachmittag wieder den Bus für Ihre Rückreise nehmen.",
         "hu": "Érkezzen pihenten busszal Murterbe, és kezdje a felfedezést a nyüzsgő kikötőben.\n\nLátogassa meg a történelmi Szent Mihály-templomot, és sétáljon el a Colentum ásatásokhoz a város északi oldalán.\n\nDélben a Gradina-domb kínál lehetőséget egy rövid pihenőre, mielőtt igénybe venné a helyi közlekedést a Slanica-strandhoz.\n\nÉlvezze a tengert és a homokos partot, mielőtt délután ismét buszra szállna a hazaúthoz.",
         "ro": "Sosiți relaxat cu autobuzul în Murter și începeți explorarea în portul plin de viață.\n\nVizitați biserica istorică Sfântul Mihail și mergeți la săpăturile din Colentum pe partea de nord a orașului.\n\nLa prânz, dealul Gradina oferă ocazia pentru o scurtă pauză înainte de a folosi transportul local spre plaja Slanica.\n\nBucurați-vă de mare și de plaja cu nisip înainte de a lua din nou autobuzul după-amiaza pentru întoarcere.",
-        "en": "Arrive relaxed by bus in Murter and start your exploration at the busy harbor.\n\nVisit the historical St. Michael's Church and walk to the excavations of Colentum on the north side of town.\n\nAt midday, Gradina Hill offers a chance for a short break before using local transit to Slanica beach.\n\nEnjoy the sea and the sandy beach before taking the bus again in the afternoon for your return trip."
+        "en": "Arrive relaxed by bus in Murter and start your exploration at the busy harbor.\n\nVisit the historical St. Michael's Church and walk to the excavations of Colentum on the north side of town.\n\nAt midday, Gradina Hill offers a chance for a short break before using local transit to Slanica beach.\n\nEnjoy the sea and the sandy beach before taking the bus again in the afternoon for your return trip.",
+        "hr": "Opušteno doputujte autobusom u Murter i započnite istraživanje u živahnoj luci.\n\nPosjetite povijesnu crkvu sv. Mihovila i prošećite do iskopina Colentuma na sjevernoj strani mjesta.\n\nU podne brdo Gradina nudi priliku za kratki predah prije korištenja lokalnog prijevoza do plaže Slanica.\n\nUživajte u moru i pješčanoj plaži prije nego što se poslijepodne ponovno ukrcate na autobus za povratak."
       },
       "gastro_picks": {
         "de": [
@@ -1966,6 +2155,12 @@
           {
             "name": "Pizzeria Lantana",
             "tip": "Legendary pizza right on Slanica beach."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pizzeria Lantana",
+            "tip": "Legendarna pizza na samoj plaži Slanica."
           }
         ]
       },
@@ -1997,6 +2192,13 @@
             "tip": "Shady benches for resting while waiting for the bus.",
             "emoji": "🌳"
           }
+        ],
+        "hr": [
+          {
+            "name": "Lučki park",
+            "tip": "Sjenovite klupe za odmor dok čekate autobus.",
+            "emoji": "🌳"
+          }
         ]
       },
       "shopping_picks": {
@@ -2022,6 +2224,12 @@
           {
             "name": "Tommy Supermarket",
             "tip": "Cheap drinks and snacks for the journey."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Tommy Supermarket",
+            "tip": "Jeftina pića i grickalice za putovanje."
           }
         ]
       },
@@ -2049,6 +2257,12 @@
           "Ask for the 'Tourist Train' (Vlak), which runs to the beaches in summer.",
           "Tickets to Šibenik or Zadar should be bought in advance in summer.",
           "Everything in the town of Murter is easily accessible on foot for fit walkers."
+        ],
+        "hr": [
+          "Autobusna stanica se nalazi na vrlo središnjoj lokaciji uz rub marine.",
+          "Raspitajte se za 'turistički vlakić' koji ljeti vozi do plaža.",
+          "Karte za Šibenik ili Zadar ljeti treba kupiti unaprijed.",
+          "Sve u mjestu Murter lako je dostupno pješice za aktivnije šetače."
         ]
       },
       "variants": {
@@ -2220,7 +2434,8 @@
             "de": "Nutzen Sie lokale Taxis oder Busse, um Murter im Regen zu erkunden. Starten Sie an der Marina und lassen Sie sich zur Pfarrkirche bringen. Ein kurzer Besuch bei den Colentum-Ruinen ist auch bei Regen lohnenswert, bevor Sie zum Gradina Hügel weiterfahren. Beenden Sie den Tag entspannt am Strand Slanica, gut geschützt vor dem Wetter.",
             "hu": "Használjon helyi taxit vagy buszt Murter felfedezéséhez esőben. Kezdje a kikötőnél, majd vitessze magát a plébániatemplomhoz. Colentum romjainak meglátogatása esőben is megéri, mielőtt a Gradina-dombhoz indulna. A napot zárja lazítással a Slanica strandon, jól védve az időjárástól.",
             "ro": "Folosiți taxiuri locale sau autobuze pentru a explora Murter pe ploaie. Începeți la marină și mergeți spre biserica parohială. O scurtă vizită la ruinele Colentum merită chiar și pe ploaie, înainte de a continua spre dealul Gradina. Încheiați ziua relaxat la plaja Slanica, bine protejat de vreme.",
-            "en": "Use local taxis or buses to explore Murter in the rain. Start at the marina and have yourself taken to the parish church. A short visit to the Colentum ruins is worthwhile even in the rain before continuing to Gradina Hill. End the day relaxed at Slanica beach, well protected from the weather."
+            "en": "Use local taxis or buses to explore Murter in the rain. Start at the marina and have yourself taken to the parish church. A short visit to the Colentum ruins is worthwhile even in the rain before continuing to Gradina Hill. End the day relaxed at Slanica beach, well protected from the weather.",
+            "hr": "Koristite lokalne taksije ili autobuse za istraživanje Murtera po kiši. Započnite u marini i neka vas odvezu do župne crkve. Kratak posjet ruševinama Colentuma isplati se čak i po kiši prije nastavka do brda Gradina. Završite dan opušteno na plaži Slanica, dobro zaštićeni od vremenskih prilika."
           },
           "stops": [
             {
@@ -2229,7 +2444,8 @@
                 "de": "Zentraler Punkt, um ein Taxi für den nächsten Stopp zu rufen.",
                 "hu": "Központi hely, ahol könnyen hívhat taxit a következő megállóhoz.",
                 "ro": "Punct central pentru a chema un taxi pentru următoarea oprire.",
-                "en": "Central point to call a taxi for your next stop."
+                "en": "Central point to call a taxi for your next stop.",
+                "hr": "Središnja točka za pozivanje taksija za sljedeću postaju."
               }
             },
             {
@@ -2238,7 +2454,8 @@
                 "de": "Warten Sie im Inneren auf Ihre nächste Verbindung.",
                 "hu": "Várja a beltérben a következő csatlakozást.",
                 "ro": "Așteptați în interior următoarea legătură.",
-                "en": "Wait inside for your next connection or taxi arrival."
+                "en": "Wait inside for your next connection or taxi arrival.",
+                "hr": "Pričekajte unutra sljedeću liniju ili dolazak taksija."
               }
             },
             {
@@ -2247,7 +2464,8 @@
                 "de": "Lassen Sie sich am Eingang absetzen, um den Fußweg zu minimieren.",
                 "hu": "Szálljon ki a bejáratnál, hogy minimalizálja a gyaloglást.",
                 "ro": "Cereți să fiți lăsat la intrare pentru a minimiza mersul pe jos.",
-                "en": "Get dropped off at the entrance to minimize walking in the rain."
+                "en": "Get dropped off at the entrance to minimize walking in the rain.",
+                "hr": "Neka vas ostave na samom ulazu kako biste pješačenje po kiši sveli na minimum."
               }
             },
             {
@@ -2256,7 +2474,8 @@
                 "de": "Vereinbaren Sie eine Abholzeit, da hier oben wenig Transit ist.",
                 "hu": "Beszéljen meg egy időpontot a visszfuvarra, mert itt fent kevés a járat.",
                 "ro": "Stabiliți o oră de preluare, deoarece aici sus sunt puține mijloace de transport.",
-                "en": "Arrange a pickup time, as there is little transit frequency up here."
+                "en": "Arrange a pickup time, as there is little transit frequency up here.",
+                "hr": "Dogovorite vrijeme povratka jer ovdje gore promet nije čest."
               }
             },
             {
@@ -2265,7 +2484,8 @@
                 "de": "Die Strandcafés sind gute Orte, um auf den Bus oder das Taxi zu warten.",
                 "hu": "A strand menti kávézók jó helyek a buszra vagy taxira való várakozáshoz.",
                 "ro": "Cafenelele de pe plajă sunt locuri bune pentru a aștepta autobuzul sau taxiul.",
-                "en": "Beach cafes are good places to wait for your bus or taxi."
+                "en": "Beach cafes are good places to wait for your bus or taxi.",
+                "hr": "Kafići na plaži dobra su mjesta za čekanje autobusa ili taksija."
               }
             }
           ],
@@ -2293,6 +2513,12 @@
               "Taxis are a reliable alternative to the infrequent local bus service.",
               "Wear reflective clothing for better visibility in the rain.",
               "Plan buffer times for possible weather-related delays."
+            ],
+            "hr": [
+              "Provjerite vozni red autobusa online jer može varirati tijekom kišnog vremena.",
+              "Taksiji su pouzdana alternativa rjeđim lokalnim autobusnim linijama.",
+              "Nosite reflektirajuću odjeću za bolju vidljivost na kiši.",
+              "Planirajte dodatno vrijeme za moguća kašnjenja uzrokovana vremenom."
             ]
           }
         },
@@ -2301,7 +2527,8 @@
             "de": "Ein ruhiger Wintertag in Murter mit öffentlichen Verkehrsmitteln. Beginnen Sie an der Marina und nutzen Sie den lokalen Bus zur Pfarrkirche. Nach einer kurzen Wanderung zur antiken Stätte Colentum bietet der Gradina Hügel klare Winteransichten. Den Abschluss bildet der Strand Slanica, bevor Sie mit dem letzten Bus oder Taxi zurückfahren.",
             "hu": "Egy csendes téli nap Murterben, tömegközlekedéssel. Kezdje a kikötőnél, és menjen helyi busszal a plébániatemplomhoz. Egy rövid séta után Colentumhoz, a Gradina-domb tiszta téli kilátást kínál. A zárás a Slanica strand, mielőtt az utolsó busszal vagy taxival visszatérne.",
             "ro": "O zi liniștită de iarnă în Murter cu transportul public. Începeți la marină și luați autobuzul local spre biserica parohială. După o scurtă plimbare spre situl antic Colentum, dealul Gradina oferă vederi clare de iarnă. Finalul este la plaja Slanica, înainte de a vă întoarce cu ultimul autobuz sau taxi.",
-            "en": "A quiet winter day in Murter using public transport. Start at the marina and take the local bus to the parish church. After a short walk to Colentum, Gradina Hill offers clear winter views. The finish is at Slanica beach before returning by the last bus or taxi."
+            "en": "A quiet winter day in Murter using public transport. Start at the marina and take the local bus to the parish church. After a short walk to Colentum, Gradina Hill offers clear winter views. The finish is at Slanica beach before returning by the last bus or taxi.",
+            "hr": "Mirni zimski dan u Murteru koristeći javni prijevoz. Započnite u marini i idite lokalnim autobusom do župne crkve. Nakon kratke šetnje do Colentuma, brdo Gradina nudi jasne zimske vidike. Završetak je na plaži Slanica prije povratka zadnjim autobusom ili taksijem."
           },
           "stops": [
             {
@@ -2310,7 +2537,8 @@
                 "de": "Im Winter sind die Wartebereiche im Freien oft ungemütlich.",
                 "hu": "Télen a szabadtéri váróhelyek gyakran barátságtalanok.",
                 "ro": "Iarna, zonele de așteptare în aer liber sunt adesea neprimitoare.",
-                "en": "Outdoor waiting areas can be uncomfortable in winter."
+                "en": "Outdoor waiting areas can be uncomfortable in winter.",
+                "hr": "Vanjski prostori za čekanje zimi mogu biti neudobni."
               }
             },
             {
@@ -2319,7 +2547,8 @@
                 "de": "Nutzen Sie die Kirche als windgeschützten Warteort.",
                 "hu": "Használja a templomot szélvédett várakozóhelyként.",
                 "ro": "Folosiți biserica ca loc de așteptare ferit de vânt.",
-                "en": "Use the church as a wind-sheltered place to wait."
+                "en": "Use the church as a wind-sheltered place to wait.",
+                "hr": "Koristite crkvu kao mjesto za čekanje zaštićeno od vjetra."
               }
             },
             {
@@ -2328,7 +2557,8 @@
                 "de": "Planen Sie den Rückweg zur Bushaltestelle vor Einbruch der Dunkelheit.",
                 "hu": "Tervezze meg a visszautat a buszmegállóhoz még sötétedés előtt.",
                 "ro": "Planificați drumul de întoarcere la stație înainte de lăsarea întunericului.",
-                "en": "Plan your walk back to the bus stop before it gets dark."
+                "en": "Plan your walk back to the bus stop before it gets dark.",
+                "hr": "Planirajte povratak do autobusne stanice prije nego što padne mrak."
               }
             },
             {
@@ -2337,7 +2567,8 @@
                 "de": "Taxis sind im Winter oft schneller verfügbar.",
                 "hu": "Télen a taxik gyakran gyorsabban elérhetők.",
                 "ro": "Taxiurile sunt adesea disponibile mai rapid în timpul iernii.",
-                "en": "Taxis are often more quickly available in the winter season."
+                "en": "Taxis are often more quickly available in the winter season.",
+                "hr": "Taksiji su često brže dostupni u zimskoj sezoni."
               }
             },
             {
@@ -2346,7 +2577,8 @@
                 "de": "Prüfen Sie den Fahrplan des letzten Busses sorgfältig.",
                 "hu": "Alaposan ellenőrizze az utolsó busz menetrendjét.",
                 "ro": "Verificați cu atenție programul ultimului autobuz.",
-                "en": "Check the schedule for the last bus very carefully."
+                "en": "Check the schedule for the last bus very carefully.",
+                "hr": "Vrlo pažljivo provjerite vozni red za posljednji autobus."
               }
             }
           ],
@@ -2374,6 +2606,12 @@
               "Wait at well-lit stops as it gets dark early.",
               "Some bus connections end as early as the late afternoon.",
               "Save the number of a local taxi company for emergencies."
+            ],
+            "hr": [
+              "Vozni red autobusa zimi je znatno smanjen.",
+              "Čekajte na dobro osvijetljenim stajalištima jer rano pada mrak.",
+              "Neke autobusne linije završavaju već u kasnim poslijepodnevnim satima.",
+              "Spremite broj lokalne taksi službe za hitne slučajeve."
             ]
           }
         }

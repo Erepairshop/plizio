@@ -36,7 +36,8 @@
             "de": "Fischerboote beobachten.",
             "hu": "Halászhajók megfigyelése.",
             "ro": "Observați bărcile.",
-            "en": "Watch the boats."
+            "en": "Watch the boats.",
+            "fr": "Observez les bateaux."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Museum besuchen.",
             "hu": "Múzeumlátogatás.",
             "ro": "Vizitați muzeul.",
-            "en": "Visit the museum."
+            "en": "Visit the museum.",
+            "fr": "Visitez le musée."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Altar bewundern.",
             "hu": "Az oltár megtekintése.",
             "ro": "Admirați altarul.",
-            "en": "Admire the altar."
+            "en": "Admire the altar.",
+            "fr": "Admirez l'autel."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Frische Köstlichkeiten.",
             "hu": "Friss finomságok.",
             "ro": "Delicii proaspete.",
-            "en": "Fresh delicacies."
+            "en": "Fresh delicacies.",
+            "fr": "Délices frais."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Blick auf St-Tropez.",
             "hu": "Kilátás St-Tropez-ra.",
             "ro": "Vedere spre St-Tropez.",
-            "en": "View of St-Tropez."
+            "en": "View of St-Tropez.",
+            "fr": "Vue sur St-Tropez."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Exotische Pflanzen.",
             "hu": "Egzotikus növények.",
             "ro": "Plante exotice.",
-            "en": "Exotic plants."
+            "en": "Exotic plants.",
+            "fr": "Plantes exotiques."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Erleben Sie Sainte-Maxime zu Fuß. Starten Sie am Hafen und besichtigen Sie den Tour Carrée. Nach der Kirche erkunden Sie den Marché Couvert. Mittags schlendern Sie entlang der Promenade mit Blick auf Saint-Tropez, bevor Sie den Tag im botanischen Garten Jardin des Myrtes ausklingen lassen.",
         "hu": "Fedezze fel Sainte-Maxime-ot gyalog. Kezdje a kikötőnél, és nézze meg a Tour Carrée toronyt. A templom után irány a piac. Délben sétáljon a sétányon, élvezve a kilátást Saint-Tropez-ra, majd zárja a napot a Jardin des Myrtes kertben.",
         "ro": "Experimentați Sainte-Maxime pe jos. Începeți în port și vizitați Tour Carrée. După biserică, explorați piața acoperită. La prânz, plimbați-vă pe faleză cu vedere spre Saint-Tropez, apoi încheiați ziua în grădină botanică Jardin des Myrtes.",
-        "en": "Experience Sainte-Maxime on foot. Start at the harbor and visit the Tour Carrée. After the church, explore the Marché Couvert. At midday, stroll along the promenade with a view of Saint-Tropez, before ending your day in the Jardin des Myrtes botanical garden."
+        "en": "Experience Sainte-Maxime on foot. Start at the harbor and visit the Tour Carrée. After the church, explore the Marché Couvert. At midday, stroll along the promenade with a view of Saint-Tropez, before ending your day in the Jardin des Myrtes botanical garden.",
+        "fr": "Découvrez Sainte-Maxime à pied. Commencez par le port et visitez la Tour Carrée. Après l'église, explorez le Marché Couvert. À midi, flânez sur la promenade avec vue sur Saint-Tropez, avant de terminer votre journée au Jardin des Myrtes."
       },
       "gastro_picks": {
         "de": [
@@ -184,6 +191,12 @@
           {
             "name": "La Belle Aurore",
             "tip": "Fine dining by the sea."
+          }
+        ],
+        "fr": [
+          {
+            "name": "La Belle Aurore",
+            "tip": "Cuisine raffinée au bord de l'eau."
           }
         ]
       },
@@ -215,6 +228,13 @@
             "tip": "Pure nature.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Pointe des Sardinaux",
+            "tip": "Nature pure.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -241,6 +261,12 @@
             "name": "Old Town Boutiques",
             "tip": "Local fashion."
           }
+        ],
+        "fr": [
+          {
+            "name": "Boutiques de la Vieille Ville",
+            "tip": "Mode locale."
+          }
         ]
       },
       "tips": {
@@ -259,6 +285,10 @@
         "en": [
           "Market in the morning.",
           "Comfortable shoes."
+        ],
+        "fr": [
+          "Marché le matin.",
+          "Chaussures confortables."
         ]
       }
     },
@@ -290,7 +320,8 @@
             "de": "Startpunkt.",
             "hu": "Kiindulópont.",
             "ro": "Punct de plecare.",
-            "en": "Starting point."
+            "en": "Starting point.",
+            "fr": "Point de départ."
           }
         },
         {
@@ -313,7 +344,8 @@
             "de": "Radweg am Meer.",
             "hu": "Parti kerékpárút.",
             "ro": "Pistă lângă mare.",
-            "en": "Coastal bike path."
+            "en": "Coastal bike path.",
+            "fr": "Piste cyclable côtière."
           }
         },
         {
@@ -336,7 +368,8 @@
             "de": "Pause im Garten.",
             "hu": "Pihenő a kertben.",
             "ro": "Pauză în grădină.",
-            "en": "Break in the garden."
+            "en": "Break in the garden.",
+            "fr": "Pause dans le jardin."
           }
         },
         {
@@ -359,7 +392,8 @@
             "de": "Schöner Badestrand.",
             "hu": "Szép strand.",
             "ro": "Plajă frumoasă.",
-            "en": "Nice beach."
+            "en": "Nice beach.",
+            "fr": "Belle plage."
           }
         },
         {
@@ -382,7 +416,8 @@
             "de": "Letzter Halt.",
             "hu": "Utolsó állomás.",
             "ro": "Ultima oprire.",
-            "en": "Last stop."
+            "en": "Last stop.",
+            "fr": "Dernière étape."
           }
         }
       ],
@@ -390,7 +425,8 @@
         "de": "Entdecken Sie Sainte-Maxime mit dem Rad. Fahren Sie vom Hafen über die Promenade bis zum Jardin des Myrtes. Weiter geht es zur herrlichen Plage de la Nartelle für einen Nachmittag in der Sonne. Auf dem Rückweg halten Sie beim Tour Carrée.",
         "hu": "Fedezze fel Sainte-Maxime-ot biciklivel. Tekerjen a kikötőből a sétányon át a Jardin des Myrtes kertig. Folytassa az utat a La Nartelle strandig, majd visszafelé álljon meg a Tour Carrée toronynál.",
         "ro": "Descoperiți Sainte-Maxime cu bicicleta. Pedalați din port pe faleză până la Jardin des Myrtes. Continuați spre plaja La Nartelle, iar la întoarcere opriți-vă la Tour Carrée.",
-        "en": "Discover Sainte-Maxime by bike. Ride from the harbor along the promenade to Jardin des Myrtes. Continue to the magnificent La Nartelle beach, and on the way back, stop at Tour Carrée."
+        "en": "Discover Sainte-Maxime by bike. Ride from the harbor along the promenade to Jardin des Myrtes. Continue to the magnificent La Nartelle beach, and on the way back, stop at Tour Carrée.",
+        "fr": "Découvrez Sainte-Maxime à vélo. Roulez du port le long de la promenade jusqu'au Jardin des Myrtes. Continuez vers la magnifique plage de la Nartelle, et au retour, arrêtez-vous à la Tour Carrée."
       },
       "gastro_picks": {
         "de": [
@@ -415,6 +451,12 @@
           {
             "name": "Beach Club La Nartelle",
             "tip": "Dining in the sand."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Beach Club La Nartelle",
+            "tip": "Dîner les pieds dans le sable."
           }
         ]
       },
@@ -446,6 +488,13 @@
             "tip": "Sea breeze.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Promenade",
+            "tip": "Brise marine.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -472,6 +521,12 @@
             "name": "Bike Rental",
             "tip": "City bikes."
           }
+        ],
+        "fr": [
+          {
+            "name": "Location de Vélos",
+            "tip": "Vélos de ville."
+          }
         ]
       },
       "tips": {
@@ -490,6 +545,10 @@
         "en": [
           "Use coastal paths.",
           "Avoid the main road."
+        ],
+        "fr": [
+          "Suivez les sentiers côtiers.",
+          "Évitez la route principale."
         ]
       }
     },
@@ -521,7 +580,8 @@
             "de": "Start mit Parkplatz.",
             "hu": "Indulás parkolóval.",
             "ro": "Start cu parcare.",
-            "en": "Start with parking."
+            "en": "Start with parking.",
+            "fr": "Commencez par le parking."
           }
         },
         {
@@ -544,7 +604,8 @@
             "de": "Öffentlicher Parkplatz.",
             "hu": "Nyilvános parkoló.",
             "ro": "Parcare publică.",
-            "en": "Public parking."
+            "en": "Public parking.",
+            "fr": "Parking public."
           }
         },
         {
@@ -567,7 +628,8 @@
             "de": "Schöner Blick.",
             "hu": "Szép kilátás.",
             "ro": "Vedere frumoasă.",
-            "en": "Beautiful view."
+            "en": "Beautiful view.",
+            "fr": "Vue magnifique."
           }
         },
         {
@@ -590,7 +652,8 @@
             "de": "Venedig der Provence.",
             "hu": "Provence Velencéje.",
             "ro": "Veneția Provence-ului.",
-            "en": "Venice of Provence."
+            "en": "Venice of Provence.",
+            "fr": "La Venise de Provence."
           }
         },
         {
@@ -613,7 +676,8 @@
             "de": "Abendessen am Hafen.",
             "hu": "Vacsora a kikötőben.",
             "ro": "Cină în port.",
-            "en": "Dinner at the harbor."
+            "en": "Dinner at the harbor.",
+            "fr": "Dîner au port."
           }
         }
       ],
@@ -621,7 +685,8 @@
         "de": "Erkunden Sie Sainte-Maxime und Umgebung mit dem Auto. Starten Sie beim Tour Carrée und fahren Sie zur Plage La Nartelle. Ein Abstecher nach Beauvallon bietet Ausblicke, bevor Sie das pittoreske Port Grimaud besuchen. Den Tag beenden Sie am Hafen von Sainte-Maxime.",
         "hu": "Fedezze fel Sainte-Maxime-ot és környékét autóval. Kezdje a Tour Carrée toronynál, majd irány a La Nartelle strand. Beauvallon szép kilátást nyújt, mielőtt Port Grimaud-ba látogatna. A napot a kikötőben zárja.",
         "ro": "Explorați Sainte-Maxime și împrejurimile cu mașina. Începeți la Tour Carrée spre plaja La Nartelle. O oprire la Beauvallon oferă priveliști, apoi vizitați Port Grimaud. Încheiați ziua în portul Sainte-Maxime.",
-        "en": "Explore Sainte-Maxime and surroundings by car. Start at Tour Carrée and drive to La Nartelle beach. A detour to Beauvallon offers views before visiting picturesque Port Grimaud. End your day at the harbor."
+        "en": "Explore Sainte-Maxime and surroundings by car. Start at Tour Carrée and drive to La Nartelle beach. A detour to Beauvallon offers views before visiting picturesque Port Grimaud. End your day at the harbor.",
+        "fr": "Explorez Sainte-Maxime et ses environs en voiture. Commencez par la Tour Carrée et conduisez jusqu'à la plage de la Nartelle. Un détour par les collines de Beauvallon offre de superbes vues avant de visiter le pittoresque Port Grimaud. Terminez votre journée au port."
       },
       "gastro_picks": {
         "de": [
@@ -646,6 +711,12 @@
           {
             "name": "Restaurant Le Gruppi",
             "tip": "Fresh fish."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Restaurant Le Gruppi",
+            "tip": "Poisson frais."
           }
         ]
       },
@@ -677,6 +748,13 @@
             "tip": "Quiet view.",
             "emoji": "⛰️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Collines de Beauvallon",
+            "tip": "Vue paisible.",
+            "emoji": "⛰️"
+          }
         ]
       },
       "shopping_picks": {
@@ -703,6 +781,12 @@
             "name": "Grimaud Markets",
             "tip": "Local products."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marchés de Grimaud",
+            "tip": "Produits locaux."
+          }
         ]
       },
       "tips": {
@@ -721,6 +805,10 @@
         "en": [
           "Use main parking lots.",
           "Enjoy the coastal road."
+        ],
+        "fr": [
+          "Utilisez les parkings principaux.",
+          "Profitez de la route côtière."
         ]
       }
     },
@@ -752,7 +840,8 @@
             "de": "Zentraler Halt.",
             "hu": "Központi megálló.",
             "ro": "Oprire centrală.",
-            "en": "Central stop."
+            "en": "Central stop.",
+            "fr": "Arrêt central."
           }
         },
         {
@@ -775,7 +864,8 @@
             "de": "Kurzer Fußweg.",
             "hu": "Rövid séta.",
             "ro": "Scurtă plimbare.",
-            "en": "Short walk."
+            "en": "Short walk.",
+            "fr": "Courte marche."
           }
         },
         {
@@ -798,7 +888,8 @@
             "de": "Shuttle-Bus nehmen.",
             "hu": "Használja az ingajáratot.",
             "ro": "Luați autobuzul.",
-            "en": "Take the shuttle."
+            "en": "Take the shuttle.",
+            "fr": "Prenez la navette."
           }
         },
         {
@@ -821,7 +912,8 @@
             "de": "Stadtzentrum.",
             "hu": "Városközpont.",
             "ro": "Centrul orașului.",
-            "en": "City center."
+            "en": "City center.",
+            "fr": "Centre-ville."
           }
         },
         {
@@ -844,7 +936,8 @@
             "de": "Einzigartige Sammlung.",
             "hu": "Egyedi gyűjtemény.",
             "ro": "Colecție unică.",
-            "en": "Unique collection."
+            "en": "Unique collection.",
+            "fr": "Collection unique."
           }
         }
       ],
@@ -852,7 +945,8 @@
         "de": "Entdecken Sie Sainte-Maxime mit Öffentlichen. Starten Sie am Hafen und besuchen Sie den Markt. Ein Shuttle-Bus bringt Sie zur Plage La Nartelle. Nachmittags schlendern Sie über die Promenade und besuchen das Phonographenmuseum.",
         "hu": "Fedezze fel Sainte-Maxime-ot tömegközlekedéssel. Induljon a kikötőből a piacra. Az ingajárat elviszi a La Nartelle strandra, délután pedig sétáljon a sétányon és látogassa meg a Fonográf Múzeumot.",
         "ro": "Descoperiți Sainte-Maxime cu transportul public. Mergeți din port la piață. Autobuzul de transfer vă duce la plaja La Nartelle, apoi plimbați-vă pe faleză și vizitați Muzeul Fonografului.",
-        "en": "Explore Sainte-Maxime by public transport. Go from the harbor to the market. The shuttle takes you to La Nartelle beach, then stroll along the promenade and visit the Phonograph Museum."
+        "en": "Explore Sainte-Maxime by public transport. Go from the harbor to the market. The shuttle takes you to La Nartelle beach, then stroll along the promenade and visit the Phonograph Museum.",
+        "fr": "Explorez Sainte-Maxime en transports en commun. Allez du port au marché. La navette vous emmène à la plage de la Nartelle, puis flânez sur la promenade et visitez le Musée du Phonographe."
       },
       "gastro_picks": {
         "de": [
@@ -877,6 +971,12 @@
           {
             "name": "Le Bistrot de Louis",
             "tip": "Cozy place."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Bistrot de Louis",
+            "tip": "Endroit chaleureux."
           }
         ]
       },
@@ -908,6 +1008,13 @@
             "tip": "Quiet spot.",
             "emoji": "⛪"
           }
+        ],
+        "fr": [
+          {
+            "name": "Église Paroissiale",
+            "tip": "Lieu de calme.",
+            "emoji": "⛪"
+          }
         ]
       },
       "shopping_picks": {
@@ -934,6 +1041,12 @@
             "name": "Marché Couvert",
             "tip": "Local wines."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Vins locaux."
+          }
         ]
       },
       "tips": {
@@ -952,6 +1065,10 @@
         "en": [
           "Use the boats.",
           "Check the bus."
+        ],
+        "fr": [
+          "Utilisez les bateaux.",
+          "Vérifiez les bus."
         ]
       }
     }

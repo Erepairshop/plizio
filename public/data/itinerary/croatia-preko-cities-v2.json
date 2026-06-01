@@ -31,7 +31,8 @@
             "de": "Genießen Sie den Kaffee am Hafenbecken bei der Ankunft der Fähre.",
             "hu": "Igyon egy kávét a kikötőben, miközben nézi az érkező kompokat.",
             "ro": "Savurați o cafea în port în timp ce urmăriți sosirea feribotului.",
-            "en": "Enjoy a coffee at the harbor while watching the ferries arrive."
+            "en": "Enjoy a coffee at the harbor while watching the ferries arrive.",
+            "hr": "Uživajte u kavi u luci dok gledate dolazak trajekata."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Entdecken Sie die steinernen Gassen des alten Ortskerns.",
             "hu": "Fedezze fel az ófalu szűk, kőből épült sikátorait.",
             "ro": "Explorați străduțele înguste de piatră ale centrului vechi.",
-            "en": "Explore the narrow stone alleys of the old village core."
+            "en": "Explore the narrow stone alleys of the old village core.",
+            "hr": "Istražite uske kamene uličice stare jezgre mjesta."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Nehmen Sie ein kleines Boot (Barkajol), um zum Inselfriedhof zu gelangen.",
             "hu": "Szálljon egy kis bárkába (barkajol), hogy átjusson a kolostorszigetre.",
             "ro": "Luați o barcă mică (barkajol) pentru a ajunge pe insula mănăstirii.",
-            "en": "Take a small traditional boat (barkajol) to reach the monastery islet."
+            "en": "Take a small traditional boat (barkajol) to reach the monastery islet.",
+            "hr": "Odvezite se malim tradicionalnim čamcem (barkajolom) do otočića sa samostanom."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie frischen Fisch mit Mangold und Kartoffeln.",
             "hu": "Kóstolja meg a friss halat mángolddal és burgonyával.",
             "ro": "Încercați peștele proaspăt cu mangold și cartofi.",
-            "en": "Try fresh grilled fish served with chard and potatoes."
+            "en": "Try fresh grilled fish served with chard and potatoes.",
+            "hr": "Probajte svježu ribu na žaru s blitvom i krumpirom."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Der flache Sandstrand ist ideal zum Entspannen im klaren Wasser.",
             "hu": "A sekély, homokos tengerpart tökéletes a pihenéshez.",
             "ro": "Plaja cu nisip puțin adâncă este ideală pentru relaxare.",
-            "en": "The shallow sandy beach is perfect for relaxing in clear water."
+            "en": "The shallow sandy beach is perfect for relaxing in clear water.",
+            "hr": "Plitka pješčana plaža savršena je za opuštanje u čistom moru."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Der Aufstieg lohnt sich für das 360-Grad-Panorama des Archipels.",
             "hu": "A meredek kaptató végén a szigetvilág legszebb panorámája várja.",
             "ro": "Urcarea merită pentru panorama de 360 de grade asupra arhipelagului.",
-            "en": "The steep climb is worth it for the 360-degree archipelago panorama."
+            "en": "The steep climb is worth it for the 360-degree archipelago panorama.",
+            "hr": "Strmi uspon se isplati zbog panorame arhipelaga od 360 stupnjeva."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Beobachten Sie, wie die Sonne hinter den Kornaten im Meer versinkt.",
             "hu": "Nézze végig, ahogy a nap lebukik a Kornati-szigetek mögött.",
             "ro": "Priviți cum soarele apune în mare în spatele insulelor Kornati.",
-            "en": "Watch the sun dip into the sea behind the Kornati islands."
+            "en": "Watch the sun dip into the sea behind the Kornati islands.",
+            "hr": "Gledajte kako sunce uranja u more iza Kornata."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Preko ist das Tor zur Insel Ugljan. Ihr Tag beginnt entspannt am malerischen Hafen und führt Sie durch den alten Dorfkern. Ein absolutes Highlight ist die winzige Insel Galevac mit ihrem friedlichen Kloster. Nach einem ausgiebigen Badetag am Jaz-Strand wandern Sie am späten Nachmittag hinauf zur Michaelsfestung, um den spektakulärsten Sonnenuntergang der gesamten Zadar-Region zu erleben.",
         "hu": "Preko Ugljan szigetének kapuja. A nap reggeli kávéval indul a kikötőben, majd az ófalu kövei között folytatódik. A Galevac-sziget kolostora igazi lelki béke, a Jaz strand pedig a tökéletes délutáni felfrissülés. A napot a Szent Mihály várba vezető túra koronázza meg, ahonnan belátni az egész zadari szigetvilágot a lenyugvó nap fényében.",
         "ro": "Preko este poarta de intrare pe insula Ugljan. Ziua începe cu o cafea în port, urmată de o plimbare prin centrul vechi. Un punct forte este insula Galevac cu mănăstirea sa liniștită. După o după-amiază de relaxare pe plaja Jaz, veți urca spre fortăreața Sf. Mihail pentru a admira cel mai spectaculos apus de soare din regiunea Zadar.",
-        "en": "Preko is the gateway to Ugljan island. Your day begins at the charming marina and leads through the historic village core. A highlight is the tiny Galevac islet with its peaceful monastery. After a long swim at Jaz beach, take the afternoon hike up to St. Michael’s fortress to witness the most spectacular sunset in the entire Zadar archipelago."
+        "en": "Preko is the gateway to Ugljan island. Your day begins at the charming marina and leads through the historic village core. A highlight is the tiny Galevac islet with its peaceful monastery. After a long swim at Jaz beach, take the afternoon hike up to St. Michael’s fortress to witness the most spectacular sunset in the entire Zadar archipelago.",
+        "hr": "Preko su ulazna vrata otoka Ugljana. Vaš dan započinje u šarmantnoj marini i vodi kroz povijesnu jezgru mjesta. Vrhunac je maleni otočić Galevac s mirnim samostanom. Nakon dugog kupanja na plaži Jaz, poslijepodne se popnite do tvrđave sv. Mihovila kako biste doživjeli najspektakularniji zalazak sunca u cijelom zadarskom arhipelagu."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Local Olive Oil",
             "tip": "Ugljan island is famous for its high-quality, locally produced olive oil."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Barbara",
+            "tip": "Tradicionalna dalmatinska kuhinja smještena tik uz obalnu šetnicu."
+          },
+          {
+            "name": "Lokalno maslinovo ulje",
+            "tip": "Otok Ugljan poznat je po visokokvalitetnom, domaćem maslinovom ulju."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "Breathtaking panorama in the quiet heights.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Samostan Galevac",
+            "tip": "Mjesto potpune tišine okruženo bujnim zelenilom.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tvrđava sv. Mihovila",
+            "tip": "Očaravajuća panorama u tišini visina.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -264,6 +294,12 @@
           {
             "name": "Local Market",
             "tip": "Fresh fruit and vegetables sourced directly from island gardens."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica",
+            "tip": "Svježe voće i povrće izravno iz otočkih vrtova."
           }
         ]
       },
@@ -291,6 +327,12 @@
           "Wear sturdy shoes for the hike up to the fortress.",
           "Consider renting a bike to explore the neighboring villages.",
           "Bring plenty of water for the steep uphill walk."
+        ],
+        "hr": [
+          "Trajekt iz Zadra vozi gotovo svaki sat.",
+          "Nosite čvrstu obuću za uspon do tvrđave.",
+          "Razmislite o najmu bicikla za istraživanje susjednih mjesta.",
+          "Ponesite dovoljno vode za strmi uspon."
         ]
       },
       "variants": {
@@ -299,7 +341,8 @@
             "de": "Morgens erleben Sie den Hafen von Preko im sanften Regen, der die Farben des Meeres vertieft. Mittags erkunden Sie die geschützten Gassen der Altstadt und genießen regionale Spezialitäten in einer gemütlichen, warmen Konoba. Nachmittags führt der Weg zur Insel Galevac und zum Strand Jaz, wo die Brandung besonders beeindruckend ist. Abends bietet die Festung St. Michael eine mystische Aussicht durch die Wolken.",
             "hu": "Reggel a kikötő ködös, esős hangulatát élvezheti, miközben a tenger mélyszürkévé válik. Délben az óváros szűk, védett utcáin sétálhat, majd egy meleg konobában ebédelhet. Délután a Galevac-sziget kolostora és a Jaz-strand vizes partja várja, ahol a hullámzás látványos. Este a Szent Mihály-erőd misztikus, felhős panorámája és a pára feletti fények zárják a napot.",
             "ro": "Dimineața, portul Preko vă întâmpină cu o atmosferă ploioasă care intensifică culorile mării. La prânz, explorați străzile protejate ale centrului vechi și savurați prânzul într-o tavernă primitoare. După-amiaza vizitați mănăstirea de pe insula Galevac și plaja Jaz. Seara, fortăreața Sf. Mihail oferă o priveliște mistică printre nori, ideală pentru fotografii dramatice.",
-            "en": "In the morning, enjoy the misty harbor of Preko as the rain deepens the colors of the Adriatic. At noon, wander through the sheltered alleys of the old town and have a warm lunch in a local tavern. In the afternoon, visit Galevac island and the rainy Jaz beach for a dramatic coastal experience. In the evening, St. Michael’s fortress offers a mystical panorama through the shifting clouds."
+            "en": "In the morning, enjoy the misty harbor of Preko as the rain deepens the colors of the Adriatic. At noon, wander through the sheltered alleys of the old town and have a warm lunch in a local tavern. In the afternoon, visit Galevac island and the rainy Jaz beach for a dramatic coastal experience. In the evening, St. Michael’s fortress offers a mystical panorama through the shifting clouds.",
+            "hr": "Ujutro uživajte u maglovitoj luci Preka dok kiša produbljuje boje Jadrana. U podne prošećite zaklonjenim uličicama starog grada i toplo ručajte u lokalnoj konobi. Poslijepodne posjetite otočić Galevac i kišnu plažu Jaz za dramatičan obalni doživljaj. Navečer tvrđava sv. Mihovila nudi mističnu panoramu kroz promjenjive oblake."
           },
           "stops": [
             {
@@ -390,6 +433,12 @@
               "A rain poncho is more practical than an umbrella due to frequent winds.",
               "Small boats to Galevac usually operate during light rain.",
               "Use the breaks between rain showers for the ascent to the fortress."
+            ],
+            "hr": [
+              "Izbjegavajte japanke jer kamenje u starom gradu postaje sklisko poput ogledala kad je mokro.",
+              "Kišna kabanica je praktičnija od kišobrana zbog čestih vjetrova.",
+              "Mali čamci za Galevac obično voze i tijekom lagane kiše.",
+              "Iskoristite pauze između pljuskova za uspon do tvrđave."
             ]
           }
         },
@@ -398,7 +447,8 @@
             "de": "Morgens weht eine frische Brise durch Preko, während die Sonne tief über dem Festland steht. Mittags genießen Sie die Ruhe der Insel ohne Sommertouristen und probieren herzhafte Wintereintöpfe. Nachmittags ist die Luft kristallklar, was die Sicht von Galevac und dem Strand Jaz bis nach Zadar perfekt macht. Abends erleben Sie einen leuchtend roten Sonnenuntergang von der Festung, bevor es früh dunkel wird.",
             "hu": "Reggel friss szellő fúj Preko kikötőjében, miközben a nap alacsonyan jár a szárazföld felett. Délben élvezheti a sziget csendjét a nyári tömeg nélkül, és megkóstolhatja a tápláló téli ételeket. Délután a levegő kristálytiszta, így Galevacról és a Jaz-strandról tökéletes a kilátás Zadar felé. Este ragyogó vörös naplementét láthat az erődből, mielőtt korán leszáll az éj.",
             "ro": "Dimineața, o briză proaspătă suflă prin Preko, în timp ce soarele strălucește jos deasupra continentului. La prânz, bucurați-vă de liniștea insulei fără turiști și încercați preparate tradiționale de iarnă. După-amiaza, aerul este cristalizat, oferind o vizibilitate perfectă spre Zadar. Seara, veți vedea un apus roșu aprins de la fortăreață, înainte ca întunericul să se lase devreme.",
-            "en": "In the morning, a fresh breeze blows through Preko as the sun sits low over the mainland. At noon, enjoy the island's peace without the summer crowds and try hearty winter stews. In the afternoon, the air is crystal clear, making the views from Galevac and Jaz beach towards Zadar perfect. In the evening, witness a brilliant red sunset from the fortress before the early nightfall."
+            "en": "In the morning, a fresh breeze blows through Preko as the sun sits low over the mainland. At noon, enjoy the island's peace without the summer crowds and try hearty winter stews. In the afternoon, the air is crystal clear, making the views from Galevac and Jaz beach towards Zadar perfect. In the evening, witness a brilliant red sunset from the fortress before the early nightfall.",
+            "hr": "Ujutro svježi povjetarac puše kroz Preko dok je sunce nisko nad kopnom. U podne uživajte u otočkom miru bez ljetnih gužvi i kušajte krepka zimska variva. Poslijepodne je zrak kristalno čist, što poglede s Galevca i plaže Jaz prema Zadru čini savršenima. Navečer doživite blistav crveni zalazak sunca s tvrđave prije ranog mraka."
           },
           "stops": [
             {
@@ -489,6 +539,12 @@
               "Ferries from Zadar run less frequently in winter; check the schedule.",
               "Many ice cream parlors are closed, but cafes offer great cakes.",
               "Visibility is often twice as high in winter compared to summer."
+            ],
+            "hr": [
+              "Nosite odjeću otpornu na vjetar, posebno za uspon na tvrđavu.",
+              "Trajekti iz Zadra zimi voze rjeđe; provjerite red plovidbe.",
+              "Mnoge slastičarnice su zatvorene, ali kafići nude izvrsne kolače.",
+              "Vidljivost je zimi često dvostruko veća nego ljeti."
             ]
           }
         }
@@ -517,7 +573,8 @@
             "de": "Prüfen Sie Ihr Fahrrad vor der Abfahrt ins Hinterland.",
             "hu": "Ellenőrizze a biciklit, mielőtt elindul a dombok felé.",
             "ro": "Verificați bicicleta înainte de a pleca spre dealuri.",
-            "en": "Check your bike before heading into the island hills."
+            "en": "Check your bike before heading into the island hills.",
+            "hr": "Provjerite bicikl prije nego što krenete u otočka brda."
           }
         },
         {
@@ -535,7 +592,8 @@
             "de": "Schieben Sie das Rad durch die engsten Gassen.",
             "hu": "A legszűkebb utcákban tolja a biciklit.",
             "ro": "Împingeți bicicleta pe cele mai înguste străzi.",
-            "en": "Push your bike through the narrowest stone alleys."
+            "en": "Push your bike through the narrowest stone alleys.",
+            "hr": "Gurajte bicikl kroz najuže kamene uličice."
           }
         },
         {
@@ -553,7 +611,8 @@
             "de": "Ein anspruchsvoller Anstieg auf asphaltierter Straße.",
             "hu": "Kihívást jelentő emelkedő aszfaltozott úton.",
             "ro": "O urcare solicitantă pe un drum asfaltat.",
-            "en": "A challenging climb on a paved road worth the effort."
+            "en": "A challenging climb on a paved road worth the effort.",
+            "hr": "Izazovan uspon asfaltiranom cestom vrijedan truda."
           }
         },
         {
@@ -571,7 +630,8 @@
             "de": "Ruhen Sie sich im Schatten der Olivenbäume aus.",
             "hu": "Pihenjen meg az olajfák hűs árnyékában.",
             "ro": "Odihniți-vă la umbra măslinilor.",
-            "en": "Rest in the cool shade of ancient olive trees."
+            "en": "Rest in the cool shade of ancient olive trees.",
+            "hr": "Odmorite se u hladovini starih maslina."
           }
         },
         {
@@ -589,7 +649,8 @@
             "de": "Kühlen Sie die Beine im Meer nach der Radtour.",
             "hu": "Hűtse le a lábait a tengerben a tekerés után.",
             "ro": "Răcoriți-vă picioarele în mare după turul cu bicicleta.",
-            "en": "Cool your legs in the sea after the bike ride."
+            "en": "Cool your legs in the sea after the bike ride.",
+            "hr": "Rashladite noge u moru nakon vožnje biciklom."
           }
         },
         {
@@ -607,7 +668,8 @@
             "de": "Lassen Sie das Rad sicher am Ufer stehen.",
             "hu": "Hagyja a biciklit biztonságos helyen a parton.",
             "ro": "Lăsați bicicleta într-un loc sigur pe mal.",
-            "en": "Leave your bike in a secure spot on the shore."
+            "en": "Leave your bike in a secure spot on the shore.",
+            "hr": "Ostavite bicikl na sigurnom mjestu na obali."
           }
         },
         {
@@ -625,7 +687,8 @@
             "de": "Radeln Sie entspannt entlang der Küstenpromenade.",
             "hu": "Tekerjen végig kényelmesen a tengerparti korzón.",
             "ro": "Pedalați relaxat de-a lungul promenadei de pe țărm.",
-            "en": "Take a relaxed ride along the seaside promenade."
+            "en": "Take a relaxed ride along the seaside promenade.",
+            "hr": "Lagano se provozajte uz morsku šetnicu."
           }
         }
       ],
@@ -633,7 +696,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Preko und sein bergiges Hinterland intensiver. Der Tag fordert Sie mit dem Anstieg zur Michaelsfestung heraus, belohnt aber mit unvergleichlichen Ausblicken. Danach gleiten Sie zurück zur Küste für eine wohlverdiente Abkühlung am Jaz-Strand und beenden den Tag mit einer ruhigen Fahrt entlang der Uferpromenade.",
         "hu": "Biciklivel Preko és a hegyes háttérország is közelebb kerül. A nap legnehezebb része a Szent Mihály várba vezető emelkedő, de a látvány kárpótol mindenért. Ezután visszagurulhat a tengerpartra, hogy megmártózzon a Jaz strandon, a napot pedig egy kellemes tekeréssel zárhatja a parti sétányon.",
         "ro": "Cu bicicleta veți explora Preko și interiorul său deluros mai intens. Ziua vă provoacă cu urcarea spre cetatea Sf. Mihail, dar vă răsplătește cu vederi de neegalat. Ulterior, coborâți spre coastă pentru o răcorire binemeritată pe plaja Jaz și încheiați ziua cu o plimbare liniștită de-a lungul promenadei.",
-        "en": "Exploring Preko by bike lets you conquer its hilly interior. The highlight is the challenging ascent to St. Michael’s fortress, offering rewarding views. Afterward, coast back down to the shore for a well-deserved swim at Jaz beach and end the day with a gentle ride along the waterfront promenade."
+        "en": "Exploring Preko by bike lets you conquer its hilly interior. The highlight is the challenging ascent to St. Michael’s fortress, offering rewarding views. Afterward, coast back down to the shore for a well-deserved swim at Jaz beach and end the day with a gentle ride along the waterfront promenade.",
+        "hr": "Istraživanje Preka biciklom omogućuje vam svladavanje njegove brdovite unutrašnjosti. Vrhunac je izazovan uspon do tvrđave sv. Mihovila, koji nudi nagrađujuće poglede. Nakon toga se spustite natrag do obale na zasluženo kupanje na plaži Jaz i završite dan laganom vožnjom uz obalnu šetnicu."
       },
       "gastro_picks": {
         "de": [
@@ -658,6 +722,12 @@
           {
             "name": "Bura",
             "tip": "Great pizzas and snacks perfect for active cyclists."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bura",
+            "tip": "Odlične pizze i zalogaji savršeni za aktivne bicikliste."
           }
         ]
       },
@@ -689,6 +759,13 @@
             "tip": "Quiet paths tucked away from the main roads.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Maslinici",
+            "tip": "Mirne staze skrivene od glavnih cesta.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -715,6 +792,12 @@
             "name": "Lavender Shop",
             "tip": "Fragrant island souvenirs to take home."
           }
+        ],
+        "hr": [
+          {
+            "name": "Trgovina lavande",
+            "tip": "Mirisni otočki suveniri koje možete ponijeti kući."
+          }
         ]
       },
       "tips": {
@@ -733,6 +816,10 @@
         "en": [
           "Bring a puncture repair kit.",
           "Avoid the midday heat for the steep uphill climb."
+        ],
+        "hr": [
+          "Ponesite pribor za popravak guma.",
+          "Izbjegavajte podnevnu vrućinu za strmi uspon."
         ]
       },
       "variants": {
@@ -741,7 +828,8 @@
             "de": "Morgens radeln Sie vorsichtig am Hafen entlang, wo der Asphalt glänzt. Mittags führt die Tour durch die Altstadt zu einer warmen Rast im Inselinneren. Nachmittags ist die Fahrt zum Strand Jaz und nach Galevac erfrischend, trotz feuchter Luft. Abends radeln Sie über die Riva, während die Lichter von Zadar auf der nassen Oberfläche tanzen.",
             "hu": "Reggel óvatosan kerékpározhat a kikötőben a csillogó aszfalton. Délben a túra az óvároson át a sziget belsejébe vezet egy meleg pihenőre. Délután a Jaz-strand és Galevac felé tartó tekerés frissítő a párás levegőben. Este a mólón tekerve a zadari fények táncolnak a vizes útfelületen.",
             "ro": "Dimineața, pedalați cu atenție de-a lungul portului pe asfaltul lucios. La prânz, turul continuă prin centrul vechi spre interiorul insulei pentru o pauză caldă. După-amiaza, drumul spre plaja Jaz și Galevac este revigorant. Seara, pedalați pe faleză în timp ce luminile din Zadar se reflectă pe drumul umed.",
-            "en": "In the morning, cycle carefully along the harbor where the asphalt glistens. At noon, the tour leads through the old town to a warm break in the island's interior. In the afternoon, the ride to Jaz beach and Galevac is refreshing despite the damp air. In the evening, cycle along the Riva as Zadar's lights dance on the wet surface."
+            "en": "In the morning, cycle carefully along the harbor where the asphalt glistens. At noon, the tour leads through the old town to a warm break in the island's interior. In the afternoon, the ride to Jaz beach and Galevac is refreshing despite the damp air. In the evening, cycle along the Riva as Zadar's lights dance on the wet surface.",
+            "hr": "Ujutro oprezno vozite bicikl uz luku gdje asfalt svjetluca. U podne tura vodi kroz stari grad do toplog odmora u unutrašnjosti otoka. Poslijepodne je vožnja do plaže Jaz i Galevca osvježavajuća unatoč vlažnom zraku. Navečer vozite bicikl uz Rivu dok zadarska svjetla plešu na mokroj površini."
           },
           "stops": [
             {
@@ -832,6 +920,12 @@
               "Mudguards are your best friend today.",
               "Avoid puddles as they might hide deep potholes.",
               "Wear a yellow or reflective rain jacket for better visibility."
+            ],
+            "hr": [
+              "Provjerite kočnice prije polaska; vlaga produljuje put kočenja.",
+              "Blatobrani su vam danas najbolji prijatelji.",
+              "Izbjegavajte lokve jer mogu skrivati duboke rupe.",
+              "Nosite žutu ili reflektirajuću kišnu kabanicu za bolju vidljivost."
             ]
           }
         },
@@ -840,7 +934,8 @@
             "de": "Morgens radeln Sie durch die kühle Meeresluft, die Ihre Sinne weckt. Mittags erklimmen Sie die Festung St. Michael, wobei die Anstrengung Sie angenehm wärmt. Nachmittags gleiten Sie durch die friedliche Winterlandschaft zum Strand Jaz und Galevac. Abends beenden Sie die Tour an der Riva, während die Wintersonne die Adria in goldenes Licht taucht.",
             "hu": "Reggel a hűvös tengeri levegőn tekerve frissen indul a nap. Délben felkapaszkodhat a Szent Mihály-erődhöz, a mozgás kellemesen felmelegíti. Délután a békés téli tájon át gurulhat a Jaz-strandhoz és Galevachoz. Este a mólón fejezheti be a túrát, miközben a téli nap arany fénybe vonja az Adriát.",
             "ro": "Dimineața, pedalați prin aerul răcoros al mării care vă trezește simțurile. La prânz, urcați la fortăreața Sf. Mihail, efortul încălzindu-vă plăcut. După-amiaza, alunecați prin peisajul liniștit de iarnă spre plaja Jaz și Galevac. Seara, încheiați turul pe faleză în lumina aurie a soarelui de iarnă.",
-            "en": "In the morning, cycle through the cool sea air that awakens your senses. At noon, climb up to St. Michael’s fortress; the effort will keep you pleasantly warm. In the afternoon, glide through the peaceful winter landscape towards Jaz beach and Galevac. In the evening, end the tour at the Riva as the winter sun bathes the Adriatic in golden light."
+            "en": "In the morning, cycle through the cool sea air that awakens your senses. At noon, climb up to St. Michael’s fortress; the effort will keep you pleasantly warm. In the afternoon, glide through the peaceful winter landscape towards Jaz beach and Galevac. In the evening, end the tour at the Riva as the winter sun bathes the Adriatic in golden light.",
+            "hr": "Ujutro pedalirajte kroz hladan morski zrak koji budi osjetila. U podne se popnite do tvrđave sv. Mihovila; napor će vas ugodno zagrijati. Poslijepodne klizite kroz mirni zimski krajolik prema plaži Jaz i Galevcu. Navečer završite turu na Rivi dok zimsko sunce kupa Jadran zlatnom svjetlošću."
           },
           "stops": [
             {
@@ -931,6 +1026,12 @@
               "The clear winter air provides phenomenal long-distance views from the fortress.",
               "Wear a headband under your helmet to protect your ears from the cold.",
               "Check tire pressure; cold air slightly reduces it."
+            ],
+            "hr": [
+              "Koristite slojevitu odjeću za dionice uzbrdo.",
+              "Čist zimski zrak pruža fenomenalan pogled u daljinu s tvrđave.",
+              "Nosite traku za glavu ispod kacige kako biste zaštitili uši od hladnoće.",
+              "Provjerite tlak u gumama; hladan zrak ga lagano smanjuje."
             ]
           }
         }
@@ -959,7 +1060,8 @@
             "de": "Parken Sie am Hafenbecken.",
             "hu": "Parkoljon a kikötői medence mellett.",
             "ro": "Parcați lângă bazinul portului.",
-            "en": "Park your car near the harbor basin."
+            "en": "Park your car near the harbor basin.",
+            "hr": "Parkirajte automobil u blizini luke."
           }
         },
         {
@@ -977,7 +1079,8 @@
             "de": "Kurzer Spaziergang vom Hafen.",
             "hu": "Rövid séta a kikötőtől.",
             "ro": "O scurtă plimbare de la port.",
-            "en": "A short walk from the harbor parking."
+            "en": "A short walk from the harbor parking.",
+            "hr": "Kratka šetnja od parkirališta u luci."
           }
         },
         {
@@ -995,7 +1098,8 @@
             "de": "Bootstransfer zur Insel.",
             "hu": "Csónakos átkelés a szigetre.",
             "ro": "Transfer cu barca pe insulă.",
-            "en": "Boat transfer to the islet."
+            "en": "Boat transfer to the islet.",
+            "hr": "Prijevoz čamcem do otočića."
           }
         },
         {
@@ -1013,7 +1117,8 @@
             "de": "Bequeme Fahrt bis zum Gipfel.",
             "hu": "Kényelmes autózás egészen a csúcsig.",
             "ro": "O călătorie confortabilă până la vârf.",
-            "en": "A comfortable drive all the way to the top."
+            "en": "A comfortable drive all the way to the top.",
+            "hr": "Udobna vožnja skroz do vrha."
           }
         },
         {
@@ -1031,7 +1136,8 @@
             "de": "Genießen Sie den Blick beim Essen.",
             "hu": "Élvezze a kilátást ebéd közben.",
             "ro": "Bucurați-vă de priveliște în timp ce mâncați.",
-            "en": "Enjoy the panoramic view while you dine."
+            "en": "Enjoy the panoramic view while you dine.",
+            "hr": "Uživajte u panoramskom pogledu dok večerate."
           }
         },
         {
@@ -1049,7 +1155,8 @@
             "de": "Öffentlicher Parkplatz in Strandnähe.",
             "hu": "Nyilvános parkoló a strand közelében.",
             "ro": "Parcare publică în apropierea plajei.",
-            "en": "Public parking available near the beach area."
+            "en": "Public parking available near the beach area.",
+            "hr": "Javno parkiralište dostupno u blizini plaže."
           }
         },
         {
@@ -1067,7 +1174,8 @@
             "de": "Letzter Blick auf Zadar.",
             "hu": "Utolsó pillantás Zadarra.",
             "ro": "O ultimă privire spre Zadar.",
-            "en": "Final glance across the water to Zadar."
+            "en": "Final glance across the water to Zadar.",
+            "hr": "Posljednji pogled preko mora prema Zadru."
           }
         }
       ],
@@ -1075,7 +1183,8 @@
         "de": "Mit dem Auto verbinden Sie mühelos die Schätze von Preko. Beginnen Sie im Küstencluster mit dem Besuch des Galevac-Klosters und fahren Sie dann bequem hinauf zur Michaelsfestung, ohne den mühsamen Aufstieg. Der Tag endet entspannt am Jaz-Strand, wobei Sie flexibel zwischen den schönsten Spots der Insel wechseln können.",
         "hu": "Autóval könnyedén összekötheti Preko legszebb pontjait. Kezdjen a kikötői negyedben a Galevac-sziget meglátogatásával, majd autózzon fel kényelmesen a Szent Mihály várba, megspórolva a gyalogos kaptatót. A nap végén a Jaz strandon pihenhet, miközben az autóval szabadon mozoghat a sziget partjai mentén.",
         "ro": "Cu mașina veți conecta fără efort comorile din Preko. Începeți în zona de coastă cu vizitarea mănăstirii Galevac, apoi urcați confortabil spre cetatea Sf. Mihail, evitând urcarea obositoare pe jos. Ziua se încheie relaxat pe plaja Jaz, având flexibilitatea de a vă deplasa între cele mai frumoase puncte ale insulei.",
-        "en": "Traveling by car lets you easily connect Preko’s top attractions. Start in the coastal cluster with a visit to Galevac islet, then enjoy a scenic drive up to St. Michael’s fortress, skipping the steep hike. Finish your day relaxing at Jaz beach, benefiting from the freedom to move between the island's best spots at your own pace."
+        "en": "Traveling by car lets you easily connect Preko’s top attractions. Start in the coastal cluster with a visit to Galevac islet, then enjoy a scenic drive up to St. Michael’s fortress, skipping the steep hike. Finish your day relaxing at Jaz beach, benefiting from the freedom to move between the island's best spots at your own pace.",
+        "hr": "Putovanje automobilom omogućuje vam lako povezivanje najboljih atrakcija Preka. Započnite uz obalu posjetom otočiću Galevcu, a zatim uživajte u slikovitoj vožnji do tvrđave sv. Mihovila, preskačući strmi uspon. Završite dan opuštajući se na plaži Jaz, koristeći slobodu kretanja između najboljih mjesta na otoku vlastitim tempom."
       },
       "gastro_picks": {
         "de": [
@@ -1100,6 +1209,12 @@
           {
             "name": "Konoba Joso",
             "tip": "Excellent grilled meat and fish specialties."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Joso",
+            "tip": "Izvrsni specijaliteti od mesa i ribe s roštilja."
           }
         ]
       },
@@ -1131,6 +1246,13 @@
             "tip": "Easily accessible by car for a quiet moment.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac sv. Mihovila",
+            "tip": "Lako dostupan automobilom za trenutak mira.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1157,6 +1279,12 @@
             "name": "Plodine Supermarket",
             "tip": "Wide selection of supplies for island travelers."
           }
+        ],
+        "hr": [
+          {
+            "name": "Supermarket Plodine",
+            "tip": "Širok izbor namirnica za putnike na otoku."
+          }
         ]
       },
       "tips": {
@@ -1175,6 +1303,10 @@
         "en": [
           "Parking often requires payment during summer.",
           "The road to the fortress is narrow; drive carefully."
+        ],
+        "hr": [
+          "Parkiranje se ljeti često naplaćuje.",
+          "Cesta do tvrđave je uska; vozite oprezno."
         ]
       },
       "variants": {
@@ -1183,7 +1315,8 @@
             "de": "Morgens genießen Sie den Blick auf die verregnete Marina bequem aus dem trockenen Auto. Mittags erkunden Sie die Altstadt bei kurzen Wegen und speisen in einer gemütlichen Konoba. Nachmittags führt die Fahrt zur Festung St. Michael, wo der Ausblick trotz Regen faszinierend bleibt. Abends lassen Sie den Tag am Ufer ausklingen, während die Tropfen an den Scheiben perlen.",
             "hu": "Reggel kényelmesen, a száraz autóból csodálhatja az esős kikötőt. Délben az óvárost rövid sétákkal fedezheti fel, majd egy barátságos konobában ebédelhet. Délután a Szent Mihály-erődhöz vezet az út, ahonnan az eső ellenére is lenyűgöző a kilátás. Este a parton zárhatja a napot, miközben az esőcseppek az ablaküvegen kopognak.",
             "ro": "Dimineața, bucurați-vă de vederea spre portul ploios din confortul mașinii. La prânz, explorați centrul vechi cu plimbări scurte și luați masa într-o tavernă primitoare. După-amiaza, conduceți spre fortăreața Sf. Mihail, unde priveliștea rămâne fascinantă. Seara, încheiați ziua la malul mării, în timp ce picăturile se scurg pe geamuri.",
-            "en": "In the morning, enjoy the view of the rainy marina from the comfort of your dry car. At noon, explore the old town with short walks and dine in a cozy tavern. In the afternoon, drive up to St. Michael’s fortress, where the view remains fascinating despite the rain. In the evening, end the day by the shore as raindrops bead on the windows."
+            "en": "In the morning, enjoy the view of the rainy marina from the comfort of your dry car. At noon, explore the old town with short walks and dine in a cozy tavern. In the afternoon, drive up to St. Michael’s fortress, where the view remains fascinating despite the rain. In the evening, end the day by the shore as raindrops bead on the windows.",
+            "hr": "Ujutro uživajte u pogledu na kišnu marinu iz udobnosti svog suhog automobila. U podne istražite stari grad kratkim šetnjama i večerajte u ugodnoj konobi. Poslijepodne se odvezite do tvrđave sv. Mihovila, gdje pogled ostaje fascinantan unatoč kiši. Navečer završite dan uz obalu dok se kapi kiše slijevaju niz prozore."
           },
           "stops": [
             {
@@ -1274,6 +1407,12 @@
               "Visibility may be limited on island roads during heavy rain.",
               "Keep a towel in the car in case you get wet.",
               "Check if the ferry is running on schedule during strong winds (Jugo)."
+            ],
+            "hr": [
+              "Pazite na rupe na cesti koje mogu biti skrivene lokvama.",
+              "Vidljivost može biti ograničena na otočkim cestama tijekom jake kiše.",
+              "Držite ručnik u autu za slučaj da pokisnete.",
+              "Provjerite plovi li trajekt prema redu plovidbe tijekom jakog juga."
             ]
           }
         },
@@ -1282,7 +1421,8 @@
             "de": "Morgens fahren Sie durch das verschlafene Winter-Preko zum Hafen. Mittags erkunden Sie die historischen Schätze der Insel bei angenehmen Temperaturen im Wagen. Nachmittags ist die Aussicht von der Festung St. Michael dank der klaren Winterluft weitreichend und spektakulär. Abends genießen Sie die letzten Sonnenstrahlen am Ufer, bevor die Nacht kühl einbricht.",
             "hu": "Reggel az álmos, téli Prekón át autózhat a kikötőbe. Délben az autó kényelméből fedezheti fel a sziget történelmi kincseit. Délután a Szent Mihály-erőd panorámája a tiszta téli levegőnek köszönhetően messzire nyúló és lenyűgöző. Este a parton élvezheti az utolsó napsugarakat, mielőtt a hideg éjszaka leszáll.",
             "ro": "Dimineața, conduceți prin Preko cel somnoros de iarnă spre port. La prânz, explorați comorile istorice ale insulei în confortul mașinii. După-amiaza, priveliștea de la fortăreața Sf. Mihail este spectaculoasă datorită aerului curat. Seara, bucurați-vă de ultimele raze de soare la malul mării înainte de lăsarea frigului.",
-            "en": "In the morning, drive through sleepy winter Preko to the harbor. At noon, explore the island's historical treasures in the comfort of your car. In the afternoon, the view from St. Michael’s fortress is spectacular and far-reaching thanks to the clear winter air. In the evening, enjoy the last rays of sun by the shore before the cold night sets in."
+            "en": "In the morning, drive through sleepy winter Preko to the harbor. At noon, explore the island's historical treasures in the comfort of your car. In the afternoon, the view from St. Michael’s fortress is spectacular and far-reaching thanks to the clear winter air. In the evening, enjoy the last rays of sun by the shore before the cold night sets in.",
+            "hr": "Ujutro se provezite kroz usnuli zimski Preko do luke. U podne istražite otočka povijesna blaga u udobnosti svog automobila. Poslijepodne je pogled s tvrđave sv. Mihovila spektakularan i seže daleko zahvaljujući čistom zimskom zraku. Navečer uživajte u posljednjim zrakama sunca uz obalu prije nego što nastupi hladna noć."
           },
           "stops": [
             {
@@ -1373,6 +1513,12 @@
               "Check tire pressure before driving over the mountain roads.",
               "Bring a warm blanket for outdoor photo stops.",
               "Winter sunsets are often more colorful than summer ones."
+            ],
+            "hr": [
+              "Otočke ceste mogu biti skliske u zasjenjenim područjima tijekom mraza.",
+              "Provjerite tlak u gumama prije vožnje planinskim cestama.",
+              "Ponesite toplu deku za zaustavljanja radi fotografiranja na otvorenom.",
+              "Zimski zalasci sunca često su šareniji od ljetnih."
             ]
           }
         }
@@ -1401,7 +1547,8 @@
             "de": "Direkte Verbindung von Zadar.",
             "hu": "Közvetlen kompösszeköttetés Zadarból.",
             "ro": "Legătură directă cu feribotul din Zadar.",
-            "en": "Direct ferry connection from Zadar old town or Gaženica."
+            "en": "Direct ferry connection from Zadar old town or Gaženica.",
+            "hr": "Izravna trajektna linija iz starog grada Zadra ili Gaženice."
           }
         },
         {
@@ -1419,7 +1566,8 @@
             "de": "Zu Fuß vom Fähranleger erreichbar.",
             "hu": "Gyalogosan elérhető a kompkikötőtől.",
             "ro": "Accesibil pe jos de la terminalul de feribot.",
-            "en": "Easily reachable on foot from the ferry terminal."
+            "en": "Easily reachable on foot from the ferry terminal.",
+            "hr": "Lako dostupno pješice s trajektnog terminala."
           }
         },
         {
@@ -1437,7 +1585,8 @@
             "de": "Nutzen Sie den lokalen Bootsservice.",
             "hu": "Vegye igénybe a helyi csónakos szolgáltatást.",
             "ro": "Folosiți serviciul local de bărci.",
-            "en": "Use the local boat service to cross to the islet."
+            "en": "Use the local boat service to cross to the islet.",
+            "hr": "Koristite lokalnu brodsku liniju za prijelaz na otočić."
           }
         },
         {
@@ -1455,7 +1604,8 @@
             "de": "Viele Restaurants nahe der Bushaltestelle.",
             "hu": "Számos étterem a buszmegálló közelében.",
             "ro": "Multe restaurante în apropierea stației de autobuz.",
-            "en": "Plenty of restaurants located near the bus stop area."
+            "en": "Plenty of restaurants located near the bus stop area.",
+            "hr": "Brojni restorani smješteni u blizini autobusne stanice."
           }
         },
         {
@@ -1473,7 +1623,8 @@
             "de": "Nur ein kurzer Spaziergang entlang der Küste.",
             "hu": "Csak egy rövid séta a part mentén.",
             "ro": "Doar o scurtă plimbare de-a lungul coastei.",
-            "en": "Just a short walk along the coast from the center."
+            "en": "Just a short walk along the coast from the center.",
+            "hr": "Samo kratka šetnja uz obalu iz centra."
           }
         },
         {
@@ -1491,7 +1642,8 @@
             "de": "Der Bus verbindet Preko mit anderen Inselorten.",
             "hu": "A busz összeköti Prekót a sziget többi településével.",
             "ro": "Autobuzul conectează Preko de alte sate de pe insulă.",
-            "en": "The island bus connects Preko to other coastal villages."
+            "en": "The island bus connects Preko to other coastal villages.",
+            "hr": "Otočki autobus povezuje Preko s ostalim obalnim mjestima."
           }
         }
       ],
@@ -1499,7 +1651,8 @@
         "de": "Preko ist perfekt für Nutzer öffentlicher Verkehrsmittel erschlossen. Nach der Ankunft mit der Fähre aus Zadar liegt Ihnen das Zentrum zu Füßen. Besuchen Sie das Inselchen Galevac und entspannen Sie am Jaz-Strand, bevor Sie vielleicht mit dem Inselfahrrad oder dem Bus die Nachbarorte Kali oder Ugljan erkunden. Ein unkomplizierter Tag ohne Parkplatzsorgen.",
         "hu": "Preko tökéletesen megközelíthető tömegközlekedéssel. A zadari komp megérkezése után a központ karnyújtásnyira van. Látogassa meg a Galevac-szigetet és pihenjen a Jaz strandon, mielőtt a helyi busszal felfedezné a szomszédos Kali vagy Ugljan településeket. Egy egyszerű, gondtalan nap parkolási nehézségek nélkül.",
         "ro": "Preko este perfect accesibil cu transportul public. După sosirea cu feribotul din Zadar, centrul este la picioarele tale. Vizitați insula Galevac și relaxați-vă pe plaja Jaz, înainte de a explora eventual satele vecine Kali sau Ugljan cu autobuzul local. O zi simplă, fără grija parcării.",
-        "en": "Preko is perfectly accessible by public transit. Upon arrival by ferry from Zadar, the village center is right at your doorstep. Visit the Galevac islet and unwind at Jaz beach before potentially using the local island bus to explore nearby Kali or Ugljan villages. A hassle-free day with no parking worries."
+        "en": "Preko is perfectly accessible by public transit. Upon arrival by ferry from Zadar, the village center is right at your doorstep. Visit the Galevac islet and unwind at Jaz beach before potentially using the local island bus to explore nearby Kali or Ugljan villages. A hassle-free day with no parking worries.",
+        "hr": "Preko je savršeno dostupno javnim prijevozom. Po dolasku trajektom iz Zadra, centar mjesta vam je na pragu. Posjetite otočić Galevac i opustite se na plaži Jaz prije nego što eventualno iskoristite lokalni otočki autobus za istraživanje obližnjih mjesta Kali ili Ugljan. Dan bez brige oko parkiranja."
       },
       "gastro_picks": {
         "de": [
@@ -1524,6 +1677,12 @@
           {
             "name": "Bistro Galeb",
             "tip": "Quick and tasty meals conveniently located near the ferry."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Brzi i ukusni obroci na prikladnoj lokaciji u blizini trajekta."
           }
         ]
       },
@@ -1555,6 +1714,13 @@
             "tip": "A quiet place for peaceful reflection.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Groblje Galevac",
+            "tip": "Mirno mjesto za spokojno razmišljanje.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1581,6 +1747,12 @@
             "name": "Harbor Kiosk",
             "tip": "Local newspapers and postcards of the island."
           }
+        ],
+        "hr": [
+          {
+            "name": "Kiosk u luci",
+            "tip": "Lokalne novine i razglednice otoka."
+          }
         ]
       },
       "tips": {
@@ -1599,6 +1771,10 @@
         "en": [
           "Check the local island ferry schedule.",
           "Tickets can be purchased at the ferry terminal."
+        ],
+        "hr": [
+          "Provjerite red plovidbe lokalnog trajekta.",
+          "Karte se mogu kupiti na trajektnom terminalu."
         ]
       },
       "variants": {
@@ -1607,7 +1783,8 @@
             "de": "Morgens erreichen Sie Preko mit der Fähre und genießen den Blick auf die regnerische Küste vom Salon aus. Mittags spazieren Sie durch die Altstadt und wärmen sich in einer Konoba am Hafen auf. Nachmittags besuchen Sie Galevac und den Strand Jaz, wobei die Busfahrt kurze Wege im Regen ermöglicht. Abends nehmen Sie den Bus zurück zur Fähre, während die See draußen rauscht.",
             "hu": "Reggel komppal érkezik Prekóba, a szalonból csodálva az esős partvidéket. Délben az óvárosban sétálhat, majd a kikötő egyik konobájában melegedhet fel. Délután Galevac és a Jaz-strand a cél, a buszozás segít elkerülni a hosszú ázást. Este busszal térhet vissza a komphoz, miközben odakint zúg a tenger.",
             "ro": "Dimineața ajungeți în Preko cu feribotul, admirând coasta ploioasă din salon. La prânz, vă plimbați prin centrul vechi și vă încălziți într-o tavernă din port. După-amiaza vizitați Galevac și plaja Jaz, călătoria cu autobuzul reducând timpul petrecut în ploaie. Seara, luați autobuzul înapoi spre feribot.",
-            "en": "In the morning, arrive in Preko by ferry, enjoying the rainy coastline from the cabin. At noon, wander through the old town and warm up in a harbor tavern. In the afternoon, visit Galevac and Jaz beach; using the bus helps avoid long walks in the rain. In the evening, take the bus back to the ferry as the sea roars outside."
+            "en": "In the morning, arrive in Preko by ferry, enjoying the rainy coastline from the cabin. At noon, wander through the old town and warm up in a harbor tavern. In the afternoon, visit Galevac and Jaz beach; using the bus helps avoid long walks in the rain. In the evening, take the bus back to the ferry as the sea roars outside.",
+            "hr": "Ujutro stignite u Preko trajektom, uživajući u kišnoj obali iz kabine. U podne prošećite starim gradom i ugrijte se u lučkoj konobi. Poslijepodne posjetite Galevac i plažu Jaz; korištenje autobusa pomaže u izbjegavanju dugih šetnji po kiši. Navečer se vratite autobusom do trajekta dok more vani huči."
           },
           "stops": [
             {
@@ -1689,6 +1866,12 @@
               "The ferries from Zadar are large enough to stay stable even in rain.",
               "The wait for the bus can be comfortably spent in the harbor cafes.",
               "Keep your ticket handy and dry."
+            ],
+            "hr": [
+              "Kupite dnevnu kartu za otočki autobus izravno kod vozača.",
+              "Trajekti iz Zadra dovoljno su veliki da ostanu stabilni čak i po kiši.",
+              "Čekanje na autobus može se ugodno provesti u lučkim kafićima.",
+              "Držite kartu pri ruci i na suhom."
             ]
           }
         },
@@ -1697,7 +1880,8 @@
             "de": "Morgens genießen Sie die klare Sicht auf Zadar von der Fähre aus. Mittags erkunden Sie die ruhige Altstadt von Preko und probieren lokale Winterspezialitäten. Nachmittags führt die Busfahrt zum Strand Jaz und nach Galevac, wobei die Wintersonne die Landschaft verzaubert. Abends kehren Sie mit dem Bus zum Hafen zurück, bevor die kühle Nachtluft übernimmt.",
             "hu": "Reggel a kompról élvezheti a tiszta kilátást Zadar felé. Délben felfedezheti Preko csendes óvárosát és megkóstolhatja a helyi téli ételeket. Délután a busz elviszi a Jaz-strandhoz és Galevachoz, miközben a téli nap fénye beragyogja a tájat. Este busszal térhet vissza a kikötőbe a hűvös éjszaka előtt.",
             "ro": "Dimineața, bucurați-vă de vederea clară spre Zadar de pe feribot. La prânz, explorați centrul vechi liniștit din Preko și încercați specialități locale de iarnă. După-amiaza, călătoria cu autobuzul vă duce la plaja Jaz și Galevac. Seara, reveniți cu autobuzul în port înainte ca aerul rece de noapte să se instaleze.",
-            "en": "In the morning, enjoy the clear view of Zadar from the ferry. At noon, explore the quiet old town of Preko and try local winter specialties. In the afternoon, the bus takes you to Jaz beach and Galevac as the winter sun enchants the landscape. In the evening, return to the harbor by bus before the cool night air takes over."
+            "en": "In the morning, enjoy the clear view of Zadar from the ferry. At noon, explore the quiet old town of Preko and try local winter specialties. In the afternoon, the bus takes you to Jaz beach and Galevac as the winter sun enchants the landscape. In the evening, return to the harbor by bus before the cool night air takes over.",
+            "hr": "Ujutro uživajte u jasnom pogledu na Zadar s trajekta. U podne istražite mirni stari grad Preko i probajte lokalne zimske specijalitete. Poslijepodne vas autobus vodi do plaže Jaz i Galevca dok zimsko sunce očarava krajolik. Navečer se vratite u luku autobusom prije nego što nastupi hladan noćni zrak."
           },
           "stops": [
             {
@@ -1779,6 +1963,12 @@
               "The 'Jadrolinija' ferry is often the only lively spot in winter.",
               "Bring warm clothing for the waiting periods at the bus stops.",
               "A hot tea in Preko is the perfect preparation for the return trip."
+            ],
+            "hr": [
+              "Obavezno provjerite posebni zimski red vožnje za autobusnu liniju 101.",
+              "Trajekt 'Jadrolinija' često je jedino živahno mjesto zimi.",
+              "Ponesite toplu odjeću za razdoblja čekanja na autobusnim stanicama.",
+              "Vrući čaj u Preku savršena je priprema za povratak."
             ]
           }
         }

@@ -36,7 +36,8 @@
             "de": "Achten Sie auf die griechischen Straßennamen.",
             "hu": "Figyeld a görög feliratú utcatáblákat.",
             "ro": "Observați numele străzilor în greacă.",
-            "en": "Look for the Greek street names."
+            "en": "Look for the Greek street names.",
+            "fr": "Cherchez les noms de rues en grec."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bewundern Sie die Ikonostase aus dem 17. Jahrhundert.",
             "hu": "Csodáld meg a 17. századi ikonfalat.",
             "ro": "Admirați iconostasul din secolul al XVII-lea.",
-            "en": "Admire the 17th-century iconostasis."
+            "en": "Admire the 17th-century iconostasis.",
+            "fr": "Admirez l'iconostase du XVIIe siècle."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Genießen Sie den Blick auf den Golf von Sagone.",
             "hu": "Élvezd a kilátást a Sagone-öbölre.",
             "ro": "Bucurați-vă de vederea spre Golful Sagone.",
-            "en": "Enjoy the view over the Gulf of Sagone."
+            "en": "Enjoy the view over the Gulf of Sagone.",
+            "fr": "Profitez de la vue sur le golfe de Sagone."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Ideal für einen Kaffee direkt am Wasser.",
             "hu": "Tökéletes hely egy kávéhoz a vízparton.",
             "ro": "Ideal pentru o cafea pe malul apei.",
-            "en": "Perfect for a coffee by the water."
+            "en": "Perfect for a coffee by the water.",
+            "fr": "Idéal pour un café au bord de l'eau."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Glasklares Wasser, ideal zum Schnorcheln.",
             "hu": "Kristálytiszta víz, ideális sznorkelezéshez.",
             "ro": "Apă cristalină, ideală pentru snorkeling.",
-            "en": "Crystal clear water, ideal for snorkeling."
+            "en": "Crystal clear water, ideal for snorkeling.",
+            "fr": "Une eau cristalline, idéale pour le snorkeling."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Ein ruhiger Ort für den Abschluss des Tages.",
             "hu": "Csendes hely a nap lezárásához.",
             "ro": "Un loc liniștit pentru finalul zilei.",
-            "en": "A quiet spot to end the day."
+            "en": "A quiet spot to end the day.",
+            "fr": "Un endroit calme pour terminer la journée."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Morgens erkunden Sie die verwinkelten Gassen von Cargèse, die von der griechischen Einwanderung im 17. Jahrhundert geprägt sind. Mittags besuchen Sie die zwei ikonischen Kirchen, die sich gegenüberstehen – ein Symbol religiöser Toleranz. Am Nachmittag entspannen Sie am türkisfarbenen Wasser der Plage de Menasina. Den Abend lassen Sie ruhig im Hafen oder bei der kleinen Kapelle Saint-Antoine mit Blick auf das Meer ausklingen.",
         "hu": "Reggel Cargèse kanyargós utcáin kalandozunk, ahol a 17. századi görög betelepülés nyomait kutatjuk. Délben meglátogatjuk a két ikonikus templomot, melyek egymással szemben állnak – a vallási türelem jelképei. Délután a Menasina strand türkizkék vizében pihenünk. Az estét a kikötőben vagy a tengerre néző Szent Antal kápolnánál zárjuk egy békés pillanattal.",
         "ro": "Dimineața explorați străzile șerpuite din Cargèse, marcate de imigrația greacă din secolul al XVII-lea. La prânz, vizitați cele două biserici iconice care stau față în față – un simbol al toleranței religioase. După-amiaza vă relaxați pe apele turcoaz ale plajei Menasina. Seara se încheie liniștit în port sau la mica capelă Saint-Antoine, cu vedere spre mare.",
-        "en": "In the morning, explore the winding streets of Cargèse, shaped by the Greek immigration of the 17th century. At midday, visit the two iconic churches facing each other – a symbol of religious tolerance. In the afternoon, relax by the turquoise waters of Menasina Beach. End the evening peacefully at the marina or by the Saint-Antoine chapel overlooking the sea."
+        "en": "In the morning, explore the winding streets of Cargèse, shaped by the Greek immigration of the 17th century. At midday, visit the two iconic churches facing each other – a symbol of religious tolerance. In the afternoon, relax by the turquoise waters of Menasina Beach. End the evening peacefully at the marina or by the Saint-Antoine chapel overlooking the sea.",
+        "fr": "Le matin, explorez les ruelles sinueuses de Cargèse, façonnées par l'immigration grecque du XVIIe siècle. À midi, visitez les deux églises emblématiques qui se font face – un symbole de tolérance religieuse. L'après-midi, détendez-vous au bord des eaux turquoise de la plage de Menasina. Terminez la soirée paisiblement au port de plaisance ou près de la chapelle Saint-Antoine dominant la mer."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "Restaurant L'Ancre",
             "tip": "Fresh seafood served right at the Cargèse marina."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Omelette au Brocciu",
+            "tip": "Goûtez ce fromage frais corse emblématique dans une omelette locale."
+          },
+          {
+            "name": "Restaurant L'Ancre",
+            "tip": "Produits de la mer frais servis directement sur le port de plaisance de Cargèse."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "A quiet coastal path for a peaceful walk.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Chapelle Saint-Antoine",
+            "tip": "Le calme et une vue panoramique magnifique.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sentier des Douaniers",
+            "tip": "Un sentier côtier tranquille pour une promenade paisible.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +322,16 @@
             "name": "Corsican Crafts",
             "tip": "Handmade knives and coral jewelry."
           }
+        ],
+        "fr": [
+          {
+            "name": "A Loghja",
+            "tip": "Spécialités corses locales et vins régionaux."
+          },
+          {
+            "name": "Artisanat Corse",
+            "tip": "Couteaux faits main et bijoux en corail."
+          }
         ]
       },
       "tips": {
@@ -319,6 +358,12 @@
           "Churches are often only open in the morning.",
           "Park at the village entrance, the center is very narrow.",
           "Carry enough water for the walk to the beach."
+        ],
+        "fr": [
+          "Portez des chaussures confortables car le village possède des ruelles escarpées.",
+          "Les églises ne sont souvent ouvertes que le matin.",
+          "Garez-vous à l'entrée du village, le centre est très étroit.",
+          "Prévoyez suffisamment d'eau pour la marche jusqu'à la plage."
         ]
       }
     },
@@ -350,7 +395,8 @@
             "de": "Startpunkt für Küstentouren.",
             "hu": "Tökéletes startpont a parti túrákhoz.",
             "ro": "Punct de plecare pentru tururi de coastă.",
-            "en": "Starting point for coastal tours."
+            "en": "Starting point for coastal tours.",
+            "fr": "Point de départ des excursions côtières."
           }
         },
         {
@@ -373,7 +419,8 @@
             "de": "Langer Sandstrand, ideal für eine Pause.",
             "hu": "Hosszú homokos part, ideális pihenőhely.",
             "ro": "Plajă lungă cu nisip, ideală pentru o pauză.",
-            "en": "Long sandy beach, ideal for a break."
+            "en": "Long sandy beach, ideal for a break.",
+            "fr": "Longue plage de sable, idéale pour une pause."
           }
         },
         {
@@ -396,7 +443,8 @@
             "de": "Ein einsamer Genueserturm auf der Klippe.",
             "hu": "Magányos genoai torony a szikla szélén.",
             "ro": "Un turn genovez solitar pe faleză.",
-            "en": "A solitary Genoese tower on the cliff edge."
+            "en": "A solitary Genoese tower on the cliff edge.",
+            "fr": "Une tour génoise solitaire au bord de la falaise."
           }
         },
         {
@@ -419,7 +467,8 @@
             "de": "Beliebter Strand mit Wassersportmöglichkeiten.",
             "hu": "Népszerű strand vízi sport lehetőségekkel.",
             "ro": "Plajă populară cu facilități pentru sporturi nautice.",
-            "en": "Popular beach with water sports options."
+            "en": "Popular beach with water sports options.",
+            "fr": "Plage populaire proposant des sports nautiques."
           }
         },
         {
@@ -442,7 +491,8 @@
             "de": "Genießen Sie ein Eis zum Abschluss.",
             "hu": "Zárd a napot egy kézműves fagyival.",
             "ro": "Bucurați-vă de o înghețată la final.",
-            "en": "Enjoy an ice cream at the end."
+            "en": "Enjoy an ice cream at the end.",
+            "fr": "Dégustez une glace pour finir."
           }
         }
       ],
@@ -450,7 +500,8 @@
         "de": "Diese Radtour führt Sie entlang der wilden Küste nördlich von Cargèse. Sie starten am Hafen und radeln zum weiten Strand von Pero. Das Highlight ist die Fahrt zur Omigna-Spitze, wo ein stolzer Genueserturm über das Meer wacht. Nach einer Pause am Strand von Chiuni kehren Sie ins Dorf zurück, während die Sonne langsam tiefer sinkt und die Felsen rot färbt.",
         "hu": "Ez a kerékpártúra Cargèse-től északra, a vad tengerpart mentén vezet. A kikötőből indulva tekerünk a tágas Pero strandig. A túra fénypontja az Omigna-fok, ahol egy büszke genoai torony őrzi a vizet. A Chiuni strandon tartott pihenő után térünk vissza a faluba, miközben a lemenő nap vörösre festi a parti sziklákat.",
         "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei sălbatice la nord de Cargèse. Începeți din port și pedalați spre plaja largă Pero. Punctul culminant este drumul spre vârful Omigna, unde un turn genovez mândru veghează marea. După o pauză pe plaja Chiuni, reveniți în sat în timp ce soarele apune lent, colorând stâncile în roșu.",
-        "en": "This bike tour takes you along the wild coast north of Cargèse. Starting at the marina, cycle to the wide Pero beach. The highlight is the ride to the Omigna point, where a proud Genoese tower watches over the sea. After a break at Chiuni beach, return to the village as the setting sun begins to paint the rocks red."
+        "en": "This bike tour takes you along the wild coast north of Cargèse. Starting at the marina, cycle to the wide Pero beach. The highlight is the ride to the Omigna point, where a proud Genoese tower watches over the sea. After a break at Chiuni beach, return to the village as the setting sun begins to paint the rocks red.",
+        "fr": "Ce tour à vélo vous emmène le long de la côte sauvage au nord de Cargèse. En partant du port de plaisance, pédalez jusqu'à la grande plage de Pero. Le point fort est la balade jusqu'à la pointe d'Omigna, où une fière tour génoise veille sur la mer. Après une pause à la plage de Chiuni, retournez au village alors que le soleil couchant commence à teinter les rochers de rouge."
       },
       "gastro_picks": {
         "de": [
@@ -491,6 +542,16 @@
           {
             "name": "Beach Bar Chiuni",
             "tip": "Light summer salads with a great sea view."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Miel de Corse",
+            "tip": "Goûtez le célèbre 'Mele di Corsica' sur une baguette fraîche."
+          },
+          {
+            "name": "Bar de plage Chiuni",
+            "tip": "Salades d'été légères avec une superbe vue sur la mer."
           }
         ]
       },
@@ -542,6 +603,18 @@
             "tip": "Hidden spots among the rocks.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Tour d'Omigna",
+            "tip": "La solitude et le bruit des vagues.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Criques de Pero",
+            "tip": "Des endroits cachés parmi les rochers.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -567,6 +640,12 @@
           {
             "name": "Le Panier Corse",
             "tip": "Wickerwork and local delicacies."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Panier Corse",
+            "tip": "Vannerie et délices locaux."
           }
         ]
       },
@@ -594,6 +673,12 @@
           "Watch out for hikers on the coastal trails.",
           "The route is hilly, do not underestimate the sun.",
           "Secure your bike well during beach breaks."
+        ],
+        "fr": [
+          "Un VTT est recommandé pour les sentiers menant à la tour.",
+          "Attention aux randonneurs sur les sentiers côtiers.",
+          "L'itinéraire est vallonné, ne sous-estimez pas le soleil.",
+          "Sécurisez bien votre vélo pendant les pauses à la plage."
         ]
       }
     },
@@ -625,7 +710,8 @@
             "de": "Beide Kirchen in einem Stopp besuchen.",
             "hu": "Látogasd meg mindkét templomot egyszerre.",
             "ro": "Vizitați ambele biserici într-o singură oprire.",
-            "en": "Visit both churches in one stop."
+            "en": "Visit both churches in one stop.",
+            "fr": "Visitez les deux églises en un seul arrêt."
           }
         },
         {
@@ -648,7 +734,8 @@
             "de": "Fantastischer Weitblick über die Küste.",
             "hu": "Fantasztikus távlati kilátás a partvidékre.",
             "ro": "Vedere panoramică fantastică asupra coastei.",
-            "en": "Fantastic panoramic view over the coast."
+            "en": "Fantastic panoramic view over the coast.",
+            "fr": "Vue panoramique fantastique sur la côte."
           }
         },
         {
@@ -671,7 +758,8 @@
             "de": "Ideal für ein langes Bad am Mittag.",
             "hu": "Ideális egy hosszú déli fürdőzéshez.",
             "ro": "Ideal pentru o baie lungă la prânz.",
-            "en": "Ideal for a long midday swim."
+            "en": "Ideal for a long midday swim.",
+            "fr": "Idéal pour une longue baignade à la mi-journée."
           }
         },
         {
@@ -694,7 +782,8 @@
             "de": "Schauen Sie den Fischerbooten zu.",
             "hu": "Nézd a beérkező halászhajókat.",
             "ro": "Urmăriți bărcile de pescuit.",
-            "en": "Watch the fishing boats coming in."
+            "en": "Watch the fishing boats coming in.",
+            "fr": "Regardez les bateaux de pêche rentrer au port."
           }
         },
         {
@@ -717,7 +806,8 @@
             "de": "Abendessen in den Gassen.",
             "hu": "Vacsora a hangulatos sikátorokban.",
             "ro": "Cina pe străduțele înguste.",
-            "en": "Dinner in the charming alleys."
+            "en": "Dinner in the charming alleys.",
+            "fr": "Dîner dans les ruelles charmantes."
           }
         }
       ],
@@ -725,7 +815,8 @@
         "de": "Mit dem Auto erweitern Sie Ihren Radius zu den entlegeneren Genuesertürmen. Nach der Besichtigung der einzigartigen Kirchen im Dorfzentrum fahren Sie zur Halbinsel Orchino, um den dortigen Wachturm zu bestaunen. Den Nachmittag verbringen Sie am weitläufigen Strand von Chiuni, bevor Sie am frühen Abend zum Hafen von Cargèse zurückkehren und den Tag bei einem Glas korsischen Wein im Herzen des Dorfes beenden.",
         "hu": "Autóval kibővítjük a sugarat a távolabbi genoai tornyokig. A faluközpont egyedülálló templomainak megtekintése után az Orchino-félszigetre autózunk az ottani őrtoronyhoz. A délutánt a Chiuni strand tágas partján töltjük, majd kora este visszatérünk Cargèse kikötőjébe, és a napot egy pohár korzikai borral zárjuk a falu szívében.",
         "ro": "Cu mașina vă extindeți raza către turnurile genoveze mai îndepărtate. După vizitarea bisericilor unice din centrul satului, conduceți spre peninsula Orchino pentru a admira turnul de veghe. După-amiaza o petreceți pe plaja întinsă Chiuni, înainte de a reveni în portul Cargèse spre seară, încheind ziua cu un pahar de vin corsican în inima satului.",
-        "en": "By car, you can expand your reach to the more distant Genoese towers. After visiting the unique churches in the village center, drive to the Orchino peninsula to admire the watchtower. Spend the afternoon at the expansive Chiuni beach before returning to the Cargèse marina in the early evening to end the day with a glass of Corsican wine in the heart of the village."
+        "en": "By car, you can expand your reach to the more distant Genoese towers. After visiting the unique churches in the village center, drive to the Orchino peninsula to admire the watchtower. Spend the afternoon at the expansive Chiuni beach before returning to the Cargèse marina in the early evening to end the day with a glass of Corsican wine in the heart of the village.",
+        "fr": "En voiture, vous pouvez élargir votre rayon d'action vers les tours génoises plus lointaines. Après avoir visité les églises uniques du centre du village, roulez vers la presqu'île d'Orchino pour admirer la tour de guet. Passez l'après-midi sur la vaste plage de Chiuni avant de revenir au port de Cargèse en début de soirée pour finir la journée avec un verre de vin corse au cœur du village."
       },
       "gastro_picks": {
         "de": [
@@ -767,6 +858,16 @@
             "name": "Cazalibre",
             "tip": "Restaurant offering a stunning view of the gulf."
           }
+        ],
+        "fr": [
+          {
+            "name": "Charcuterie Corse",
+            "tip": "Le Prisutu et le Lonzu sont des incontournables."
+          },
+          {
+            "name": "Cazalibre",
+            "tip": "Restaurant offrant une vue imprenable sur le golfe."
+          }
         ]
       },
       "quiet_picks": {
@@ -797,6 +898,13 @@
             "tip": "Pure peace with a long-distance view.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Belvédère d'Orchino",
+            "tip": "Un calme absolu avec une vue lointaine.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -822,6 +930,12 @@
           {
             "name": "U Muntagnolu",
             "tip": "Direct sale of sheep cheese and olive oil."
+          }
+        ],
+        "fr": [
+          {
+            "name": "U Muntagnolu",
+            "tip": "Vente directe de fromage de brebis et d'huile d'olive."
           }
         ]
       },
@@ -849,6 +963,12 @@
           "Parking at Chiuni beach is limited in summer.",
           "Refuel in advance as gas stations are scarce.",
           "Watch out for goats on the road."
+        ],
+        "fr": [
+          "Les routes sont étroites et sinueuses, conduisez prudemment.",
+          "Le stationnement à la plage de Chiuni est limité en été.",
+          "Faites le plein à l'avance car les stations-service sont rares.",
+          "Attention aux chèvres sur la route."
         ]
       }
     },
@@ -880,7 +1000,8 @@
             "de": "Zentraler Ankunftspunkt der Busse.",
             "hu": "A buszok központi érkezési pontja.",
             "ro": "Punctul central de sosire a autobuzelor.",
-            "en": "Central arrival point for buses."
+            "en": "Central arrival point for buses.",
+            "fr": "Point d'arrivée central pour les bus."
           }
         },
         {
@@ -903,7 +1024,8 @@
             "de": "Kurzer Fußweg vom Dorfzentrum.",
             "hu": "Rövid séta a falu központjától.",
             "ro": "Scurtă plimbare din centrul satului.",
-            "en": "Short walk from the village center."
+            "en": "Short walk from the village center.",
+            "fr": "À quelques pas du centre du village."
           }
         },
         {
@@ -926,7 +1048,8 @@
             "de": "Vom Dorf aus zu Fuß oder per Shuttle erreichbar.",
             "hu": "Gyalog vagy shuttle járattal is elérhető.",
             "ro": "Accesibilă pe jos sau cu naveta din sat.",
-            "en": "Accessible on foot or via shuttle from the village."
+            "en": "Accessible on foot or via shuttle from the village.",
+            "fr": "Accessible à pied ou via la navette depuis le village."
           }
         },
         {
@@ -949,7 +1072,8 @@
             "de": "Letzter Stopp vor der Rückreise.",
             "hu": "Utolsó megálló a visszautazás előtt.",
             "ro": "Ultima oprire înainte de plecare.",
-            "en": "Final stop before heading back."
+            "en": "Final stop before heading back.",
+            "fr": "Dernier arrêt avant le retour."
           }
         }
       ],
@@ -957,7 +1081,8 @@
         "de": "Cargèse lässt sich auch gut ohne eigenes Auto entdecken. Sie starten im Dorfzentrum mit seinen historischen Gebäuden und den berühmten Kirchen. Nach einer kurzen Wanderung oder Fahrt erreichen Sie den Strand von Pero für entspannte Stunden am Meer. Den Nachmittag verbringen Sie im Hafenbereich, wo Sie das maritime Flair genießen können, bevor Ihr Bus Sie wieder abholt.",
         "hu": "Cargèse autó nélkül is jól felfedezhető. A faluközpontban kezdünk a történelmi épületekkel és a híres templomokkal. Rövid séta vagy utazás után elérjük a Pero strandot, ahol a tengerparton pihenhetünk. A délutánt a kikötőben töltjük, élvezve a tengeri hangulatot, mielőtt a busz visszaindulna.",
         "ro": "Cargèse poate fi descoperit cu ușurință și fără mașină personală. Începeți în centrul satului cu clădirile sale istorice și bisericile faimoase. După o scurtă plimbare sau călătorie, ajungeți la plaja Pero pentru ore relaxante la mare. După-amiaza o petreceți în zona portului, savurând atmosfera maritimă înainte de plecarea autobuzului.",
-        "en": "Cargèse can be easily explored without a car. Start in the village center with its historical buildings and famous churches. After a short walk or ride, reach Pero beach for relaxing hours by the sea. Spend the afternoon in the marina area, enjoying the maritime atmosphere before your bus departs."
+        "en": "Cargèse can be easily explored without a car. Start in the village center with its historical buildings and famous churches. After a short walk or ride, reach Pero beach for relaxing hours by the sea. Spend the afternoon in the marina area, enjoying the maritime atmosphere before your bus departs.",
+        "fr": "Cargèse peut être facilement explorée sans voiture. Commencez par le centre du village avec ses bâtiments historiques et ses célèbres églises. Après une courte marche ou un trajet, rejoignez la plage de Pero pour des heures de détente au bord de la mer. Passez l'après-midi dans le secteur du port de plaisance, en profitant de l'atmosphère maritime avant le départ de votre bus."
       },
       "gastro_picks": {
         "de": [
@@ -982,6 +1107,12 @@
           {
             "name": "Corsican Beer (Pietra)",
             "tip": "A unique beer brewed with chestnut flour."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Bière Corse (Pietra)",
+            "tip": "Une bière unique brassée à la farine de châtaigne."
           }
         ]
       },
@@ -1013,6 +1144,13 @@
             "tip": "Small park located between the sacred buildings.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin des Églises",
+            "tip": "Petit parc situé entre les édifices sacrés.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1038,6 +1176,12 @@
           {
             "name": "Village Bakery",
             "tip": "Fresh Canistrelli (local Corsican cookies)."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Canistrelli frais (biscuits corses locaux)."
           }
         ]
       },
@@ -1065,6 +1209,12 @@
           "The stop is usually located on the main road.",
           "In summer, seasonal shuttles to the beaches are available.",
           "Allow some buffer time for potential delays."
+        ],
+        "fr": [
+          "Vérifiez les horaires actuels des bus interurbains.",
+          "L'arrêt est généralement situé sur la route principale.",
+          "En été, des navettes saisonnières vers les plages sont disponibles.",
+          "Prévoyez une marge de manœuvre pour d'éventuels retards."
         ]
       }
     }

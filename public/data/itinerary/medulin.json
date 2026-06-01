@@ -36,7 +36,8 @@
             "de": "Die weißen Doppeltürme sind das Wahrzeichen Medulins.",
             "hu": "A fehér ikertornyok Medulin jelképei.",
             "ro": "Turnurile duble albe sunt emblema Medulinului.",
-            "en": "The white twin towers are Medulin's landmark."
+            "en": "The white twin towers are Medulin's landmark.",
+            "hr": "Bijeli tornjevi blizanci su simbol Medulina."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Einzigartige restaurierte Windmühle direkt am Meer.",
             "hu": "Egyedülállóan felújított szélmalom közvetlenül a tengerparton.",
             "ro": "Moară de vânt restaurată, unică pe malul mării.",
-            "en": "Uniquely restored windmill right on the coast."
+            "en": "Uniquely restored windmill right on the coast.",
+            "hr": "Jedinstveno obnovljena vjetrenjača na samoj obali."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Zahlreiche Cafés und Restaurants laden zur Pause ein.",
             "hu": "Számos kávézó és étterem hívogat pihenőre.",
             "ro": "Numeroase cafenele și restaurante vă invită la o pauză.",
-            "en": "Numerous cafes and restaurants invite for a break."
+            "en": "Numerous cafes and restaurants invite for a break.",
+            "hr": "Brojni kafići i restorani pozivaju na odmor."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Erkunden Sie die Ruinen einer antiken römischen Villa.",
             "hu": "Fedezze fel egy ókori római villa romjait.",
             "ro": "Explorați ruinele unei vile romane antice.",
-            "en": "Explore the ruins of an ancient Roman villa."
+            "en": "Explore the ruins of an ancient Roman villa.",
+            "hr": "Istražite ruševine antičke rimske vile."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Der bekannteste Sandstrand Istriens, ideal für Familien.",
             "hu": "Isztria leghíresebb homokos strandja, ideális családoknak.",
             "ro": "Cea mai faimoasă plajă cu nisip din Istria, ideală pentru familii.",
-            "en": "The most famous sandy beach in Istria, ideal for families."
+            "en": "The most famous sandy beach in Istria, ideal for families.",
+            "hr": "Najpoznatija pješčana plaža u Istri, idealna za obitelji."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Ein ruhiger Abschluss des Tages.",
             "hu": "A nap csendes lezárása.",
             "ro": "Un final de zi liniștit.",
-            "en": "A quiet conclusion to the day."
+            "en": "A quiet conclusion to the day.",
+            "hr": "Miran završetak dana."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Entdecken Sie Medulin zu Fuß. Beginnen Sie bei der weithin sichtbaren Agnes-Kirche und wandern Sie zur historischen Windmühle am Hafen.\n\nMittags schlendern Sie entlang der lebhaften Uferpromenade, wo Sie lokale Spezialitäten genießen können.\n\nDer Nachmittag gehört der Geschichte auf der Halbinsel Vižula und dem entspannten Badevergnügen am Sandstrand Bijeca.\n\nBeenden Sie Ihren Rundgang bei der kleinen Gesundheitskirche und genießen Sie den Blick über die Bucht von Medulin.",
         "hu": "Fedezze fel Medulint gyalogosan. Kezdje a messziről látható Szent Ágnes-templomnál, majd sétáljon el a kikötőben található történelmi szélmalomhoz.\n\nDélben sétáljon végig a pezsgő tengerparti sétányon, ahol megkóstolhatja a helyi specialitásokat.\n\nA délután a történelemé a Vižula-félszigeten, majd a pihentető fürdőzésé a Bijeca homokos strandon.\n\nZárja a túrát a kis Egészség-templomnál, és élvezze a Medulini-öbölre nyíló kilátást.",
         "ro": "Descoperiți Medulinul la pas. Începeți de la biserica Sfânta Agnes, vizibilă de departe, și mergeți spre moara de vânt istorică din port.\n\nLa prânz, plimbați-vă pe faleza plină de viață, unde puteți savura specialități locale.\n\nDupă-amiaza este dedicată istoriei pe peninsula Vižula și relaxării pe plaja de nisip Bijeca.\n\nÎncheiați turul la mica biserică a Sănătății și bucurați-vă de vederea spre golful Medulin.",
-        "en": "Discover Medulin on foot. Start at the visible-from-afar St. Agnes Church and walk to the historical windmill in the harbor.\n\nAt noon, stroll along the lively waterfront promenade where you can enjoy local specialties.\n\nSpend your afternoon exploring history on the Vižula peninsula and relaxing at the sandy Bijeca beach.\n\nConclude your walk at the small Church of Health and enjoy the view over Medulin bay."
+        "en": "Discover Medulin on foot. Start at the visible-from-afar St. Agnes Church and walk to the historical windmill in the harbor.\n\nAt noon, stroll along the lively waterfront promenade where you can enjoy local specialties.\n\nSpend your afternoon exploring history on the Vižula peninsula and relaxing at the sandy Bijeca beach.\n\nConclude your walk at the small Church of Health and enjoy the view over Medulin bay.",
+        "hr": "Otkrijte Medulin pješice. Započnite kod izdaleka vidljive crkve sv. Agneze i prošećite do povijesne vjetrenjače u luci.\n\nU podne prošećite živahnom rivom gdje možete uživati u lokalnim specijalitetima.\n\nPoslijepodne provedite istražujući povijest na poluotoku Vižula i opuštajući se na pješčanoj plaži Bijeca.\n\nZavršite šetnju kod male crkve od Zdravlja i uživajte u pogledu na Medulinski zaljev."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "Istrian Truffle Pasta",
             "tip": "A must-try in this region."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Salt & Pepper",
+            "tip": "Moderna kuhinja s naglaskom na meso i ribu."
+          },
+          {
+            "name": "Istarska tjestenina s tartufima",
+            "tip": "Obavezno probati u ovoj regiji."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "Quiet retreat above the center.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Poluotok Vižula",
+            "tip": "Daleko od plažne gužve, mir možete pronaći u šumi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Crkva od Zdravlja",
+            "tip": "Mirno utočište iznad centra.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -277,6 +306,12 @@
             "name": "Night Market at Riva",
             "tip": "Souvenirs, jewelry, and local crafts."
           }
+        ],
+        "hr": [
+          {
+            "name": "Noćna tržnica na Rivi",
+            "tip": "Suveniri, nakit i lokalni rukotvorini."
+          }
         ]
       },
       "tips": {
@@ -299,6 +334,11 @@
           "Bijeca is very shallow, perfect for children.",
           "Vižula offers plenty of shade under the pines.",
           "In the evening, the promenade is very lively, ideal for people-watching."
+        ],
+        "hr": [
+          "Bijeca je vrlo plitka, savršena za djecu.",
+          "Vižula nudi obilje hlada ispod borova.",
+          "Navečer je šetnica vrlo živahna, idealna za promatranje ljudi."
         ]
       },
       "variants": {
@@ -541,7 +581,8 @@
             "de": "Beginnen Sie den Tag in der geschützten Atmosphäre der Kirche der Heiligen Agnes. Ein kurzer Spaziergang führt zur Windmühle, wo Sie den Regen kurz abwarten können. Mittags bietet die Uferpromenade Cafés mit festen Überdachungen für einen Blick auf die graue Adria. Nachmittags sind die Wege in Vižula zwar feucht, aber die antiken Ruinen wirken im Nebel besonders mystisch. Der Tag endet ruhig an der kleinen Marienkirche.",
             "hu": "A reggelt a Szent Ágnes templom oltalmában kezdjük, ahol az eső kopogása csak még meghittebbé teszi a teret. Délben a kikötő fedett teraszain élvezhetjük a tenger látványát egy forró kávé mellett. Délután a Vižula park fenyőfái alatt sétálva fedezzük fel a római romokat, ahol a nedves föld illata betölti a levegőt. Az estét a kis fogadalmi templom csendes falai között zárjuk, távol a városi zajtól.",
             "ro": "Dimineața începe sub protecția turnurilor gemene ale bisericii Sfânta Agneza. La prânz, faleza din Medulin oferă refugiu în cafenelele cu terase acoperite, de unde puteți admira marea agitată. După-amiaza, parcul Vižula devine mistic sub picăturile de ploaie, oferind o perspectivă diferită asupra ruinelor romane. Seara se încheie la biserica Maicii Domnului a Sănătății, un loc liniștit pentru reflecție înainte de cină.",
-            "en": "Start your morning inside the sheltered twin-towered church of Saint Agnes. By noon, seek cover under the sturdy awnings of the waterfront cafes while watching the rain over the Adriatic. Afternoon at Vižula offers a moody atmosphere among the Roman ruins, with the scent of wet pine needles. Finish your day at the small Church of Our Lady of Health, providing a peaceful end to a damp but refreshing walk."
+            "en": "Start your morning inside the sheltered twin-towered church of Saint Agnes. By noon, seek cover under the sturdy awnings of the waterfront cafes while watching the rain over the Adriatic. Afternoon at Vižula offers a moody atmosphere among the Roman ruins, with the scent of wet pine needles. Finish your day at the small Church of Our Lady of Health, providing a peaceful end to a damp but refreshing walk.",
+            "hr": "Započnite jutro u zaštićenoj crkvi sv. Agneze s njezina dva tornja. Do podneva potražite zaklon ispod čvrstih tendi kafića na rivi dok promatrate kišu nad Jadranom. Poslijepodne na Vižuli nudi sjetnu atmosferu među rimskim ruševinama, uz miris mokrih borovih iglica. Završite dan u maloj crkvi Majke Božje od Zdravlja, koja pruža miran kraj vlažnoj, ali osvježavajućoj šetnji."
           },
           "stops": [
             {
@@ -550,7 +591,8 @@
                 "de": "Nutzen Sie die Zeit im Inneren, um die Architektur bei Regen in Ruhe zu bewundern.",
                 "hu": "Használja ki az esős időt a templom belső terének és részleteinek felfedezésére.",
                 "ro": "Admirați detaliile interioare în liniște în timp ce așteptați să treacă ploaia.",
-                "en": "Take shelter inside and admire the interior architecture while waiting for the shower to pass."
+                "en": "Take shelter inside and admire the interior architecture while waiting for the shower to pass.",
+                "hr": "Sklonite se unutra i divite se arhitekturi interijera dok čekate da pljusak prođe."
               }
             },
             {
@@ -559,7 +601,8 @@
                 "de": "Die renovierte Mühle bietet einen schnellen Unterschlupf und tolle Fotomotive.",
                 "hu": "A felújított malom belseje gyors menedéket és kiváló fotótémát kínál.",
                 "ro": "Interiorul morii renovate oferă un adăpost rapid și oportunități foto excelente.",
-                "en": "The renovated interior of the mill offers a quick refuge and great photo opportunities."
+                "en": "The renovated interior of the mill offers a quick refuge and great photo opportunities.",
+                "hr": "Obnovljena unutrašnjost mlina nudi brzo utočište i sjajne prilike za fotografiranje."
               }
             },
             {
@@ -568,7 +611,8 @@
                 "de": "Wählen Sie ein Café mit fester Überdachung direkt am Wasser.",
                 "hu": "Válasszon egy fix tetővel rendelkező kávézót közvetlenül a vízparton.",
                 "ro": "Alegeți o cafenea cu terasă acoperită situată direct pe malul mării.",
-                "en": "Choose a cafe with a permanent roof located directly on the water's edge."
+                "en": "Choose a cafe with a permanent roof located directly on the water's edge.",
+                "hr": "Odaberite kafić s trajnim krovom koji se nalazi izravno na rubu mora."
               }
             },
             {
@@ -577,7 +621,8 @@
                 "de": "Bleiben Sie auf den befestigten Kieswegen, um Schlamm zu vermeiden.",
                 "hu": "Maradjon a kavicsos ösvényeken, hogy elkerülje a saras szakaszokat.",
                 "ro": "Rămâneți pe aleile pietruite pentru a evita zonele noroioase din parc.",
-                "en": "Stick to the gravel paths to avoid muddy sections during your walk."
+                "en": "Stick to the gravel paths to avoid muddy sections during your walk.",
+                "hr": "Držite se šljunčanih staza kako biste izbjegli blatnjave dijelove tijekom šetnje."
               }
             },
             {
@@ -586,7 +631,8 @@
                 "de": "Der Sand ist bei Regen fest und ideal für einen kurzen Strandspaziergang.",
                 "hu": "Az esőben tömörödött homok ideális egy rövid parti sétához.",
                 "ro": "Nisipul umed este compact și perfect pentru o plimbare scurtă pe malul mării.",
-                "en": "The wet sand is firm and perfect for a brisk walk along the shoreline."
+                "en": "The wet sand is firm and perfect for a brisk walk along the shoreline.",
+                "hr": "Mokri pijesak je čvrst i savršen za brzu šetnju uz obalu."
               }
             },
             {
@@ -595,7 +641,8 @@
                 "de": "Ein kleiner, trockener Rückzugsort am Ende Ihrer Tour.",
                 "hu": "Egy apró, száraz menedékhely a gyalogos túra végén.",
                 "ro": "Un mic refugiu uscat la finalul turului dumneavoastră pietonal.",
-                "en": "A small, dry sanctuary at the end of your walking tour."
+                "en": "A small, dry sanctuary at the end of your walking tour.",
+                "hr": "Malo, suho utočište na kraju vaše pješačke ture."
               }
             }
           ],
@@ -623,6 +670,12 @@
               "The Malin windmill is a great spot to duck into during a sudden downpour.",
               "Many waterfront restaurants offer enclosed and heated seating areas.",
               "A rain poncho is often more effective than an umbrella due to coastal wind gusts."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću jer kameni pločnici mogu postati skliski kad su mokri.",
+              "Vjetrenjača Malin odlično je mjesto za skloniti se tijekom iznenadnog pljuska.",
+              "Mnogi restorani na rivi nude zatvorene i grijane prostore za sjedenje.",
+              "Kišna kabanica je često učinkovitija od kišobrana zbog naleta obalnog vjetra."
             ]
           }
         },
@@ -631,7 +684,8 @@
             "de": "Erleben Sie die frische Winterluft am Morgen an der Kirche der Heiligen Agnes. Die Uferpromenade gehört Ihnen im Winter fast allein, ideal für einen ruhigen Spaziergang zur Windmühle. Mittags wärmen Sie sich in einer der wenigen offenen Konobas auf. Der archäologische Park Vižula bietet ohne Laub freien Blick auf die römischen Grundmauern. Beenden Sie den Tag bei Sonnenuntergang gegen 16:30 Uhr an der kleinen Kirche am Hafen.",
             "hu": "A friss téli reggelt a Szent Ágnes templom tornyai alatt kezdjük. A szélmalomhoz vezető út ilyenkor csendes, a turisták tömege nélkül élvezhetjük a tengeri levegőt. Délben keressünk egy nyitva tartó konobát egy tál meleg hallevesre. Délután a Vižula parkban a csupasz fák között jobban kirajzolódnak a római villák alapjai. A napot a korai, fél öt körüli naplementében zárjuk a kikötői kistemplomnál.",
             "ro": "Bucurați-vă de aerul proaspăt de iarnă la biserica Sfânta Agneza dis-de-dimineață. Faleza este aproape pustie, oferind o liniște rară în drum spre moara de vânt. La prânz, încălziți-vă într-o tavernă locală cu o supă caldă. Parcul Vižula oferă o vizibilitate mai bună asupra ruinelor romane fără frunzișul dens. Încheiați ziua la apusul devreme, în jurul orei 16:30, lângă biserica mică din port.",
-            "en": "Experience the crisp winter morning air at Saint Agnes Church. The waterfront is peaceful and quiet in winter, perfect for a solitary stroll to the windmill. At noon, warm up in a local konoba with some traditional stew. Afternoon at Vižula provides clear views of the Roman foundations without the summer foliage. End your day as the sun sets early around 4:30 PM by the atmospheric harbor church."
+            "en": "Experience the crisp winter morning air at Saint Agnes Church. The waterfront is peaceful and quiet in winter, perfect for a solitary stroll to the windmill. At noon, warm up in a local konoba with some traditional stew. Afternoon at Vižula provides clear views of the Roman foundations without the summer foliage. End your day as the sun sets early around 4:30 PM by the atmospheric harbor church.",
+            "hr": "Doživite svježi zimski jutarnji zrak kod crkve sv. Agneze. Riva je zimi mirna i tiha, savršena za osamljenu šetnju do vjetrenjače. U podne se ugrijte u lokalnoj konobi uz tradicionalno varivo. Poslijepodne na Vižuli pruža jasan pogled na rimske temelje bez ljetnog zelenila. Završite dan uz atmosferičnu crkvu u luci dok sunce rano zalazi oko 16:30."
           },
           "stops": [
             {
@@ -640,7 +694,8 @@
                 "de": "Die dicken Mauern speichern eine gewisse Grundwärme im Inneren.",
                 "hu": "A vastag falak bent tartják a viszonylagos meleget a kinti hideghez képest.",
                 "ro": "Zidurile groase mențin o temperatură constantă și plăcută în interior.",
-                "en": "The thick stone walls keep the interior relatively warm during cold days."
+                "en": "The thick stone walls keep the interior relatively warm during cold days.",
+                "hr": "Debeli kameni zidovi održavaju unutrašnjost relativno toplom tijekom hladnih dana."
               }
             },
             {
@@ -649,7 +704,8 @@
                 "de": "Ein einsames Fotomotiv ohne die sommerlichen Touristenmassen.",
                 "hu": "Kiváló fotótéma a nyári turistatömeg és sorban állás nélkül.",
                 "ro": "O oportunitate foto solitară fără aglomerația specifică verii.",
-                "en": "A perfect, solitary photo spot without the usual summer crowds."
+                "en": "A perfect, solitary photo spot without the usual summer crowds.",
+                "hr": "Savršeno, osamljeno mjesto za fotografiranje bez uobičajene ljetne gužve."
               }
             },
             {
@@ -658,7 +714,8 @@
                 "de": "Genießen Sie die raue Schönheit der winterlichen Adria bei einem Spaziergang.",
                 "hu": "Élvezze a téli Adria vad és tiszta szépségét a parti sétányon.",
                 "ro": "Admirați frumusețea sălbatică a Adriaticii pe timpul iernii.",
-                "en": "Enjoy the raw and clean beauty of the Adriatic sea during winter."
+                "en": "Enjoy the raw and clean beauty of the Adriatic sea during winter.",
+                "hr": "Uživajte u sirovoj i čistoj ljepoti Jadranskog mora tijekom zime."
               }
             },
             {
@@ -667,7 +724,8 @@
                 "de": "Die fehlende Vegetation erlaubt einen besseren Blick auf die Ruinen.",
                 "hu": "A lombkorona hiánya miatt ilyenkor jobban látszanak a romok kontúrjai.",
                 "ro": "Lipsa vegetației dense permite o vedere mai clară asupra ruinelor.",
-                "en": "The lack of dense foliage offers a better view of the archaeological layout."
+                "en": "The lack of dense foliage offers a better view of the archaeological layout.",
+                "hr": "Nedostatak gustog lišća nudi bolji pogled na arheološki raspored."
               }
             },
             {
@@ -676,7 +734,8 @@
                 "de": "Ideal für eine meditative Pause am fast menschenleeren Strand.",
                 "hu": "Ideális helyszín egy meditatív sétához a szinte néptelen strandon.",
                 "ro": "Locul ideal pentru o pauză meditativă pe plaja aproape pustie.",
-                "en": "The ideal spot for a meditative pause on the nearly empty beach."
+                "en": "The ideal spot for a meditative pause on the nearly empty beach.",
+                "hr": "Idealno mjesto za meditativnu pauzu na gotovo praznoj plaži."
               }
             },
             {
@@ -685,7 +744,8 @@
                 "de": "Beobachten Sie hier das frühe Lichtspiel des Sonnenuntergangs über dem Hafen.",
                 "hu": "Itt érdemes megvárni a korai naplemente fényeit a kikötő felett.",
                 "ro": "Urmăriți jocurile de lumină ale apusului devreme peste port.",
-                "en": "Watch the early sunset colors reflecting over the quiet harbor."
+                "en": "Watch the early sunset colors reflecting over the quiet harbor.",
+                "hr": "Promatrajte boje ranog zalaska sunca koje se odražavaju nad mirnom lukom."
               }
             }
           ],
@@ -713,6 +773,12 @@
               "The sun sets as early as 4:30 PM in December; plan your walk accordingly.",
               "Some waterfront cafes may have limited opening hours during the low season.",
               "Take advantage of the peace in Vižula for an undisturbed look at the ancient villas."
+            ],
+            "hr": [
+              "Hladna bura može biti vrlo oštra; nosite odjeću otpornu na vjetar.",
+              "Sunce u prosincu zalazi već u 16:30; planirajte svoju šetnju u skladu s tim.",
+              "Neki kafići na rivi mogu imati ograničeno radno vrijeme tijekom predsezone.",
+              "Iskoristite mir na Vižuli za nesmetan pregled antičkih vila."
             ]
           }
         }
@@ -746,7 +812,8 @@
             "de": "Genießen Sie die frische Meeresbrise am Morgen.",
             "hu": "Élvezze a friss tengeri szellőt reggel.",
             "ro": "Bucurați-vă de briza mării dimineața.",
-            "en": "Enjoy the fresh sea breeze in the morning."
+            "en": "Enjoy the fresh sea breeze in the morning.",
+            "hr": "Uživajte u svježem morskom povjetarcu ujutro."
           }
         },
         {
@@ -769,7 +836,8 @@
             "de": "Tolle Radwege entlang der Küste.",
             "hu": "Nagyszerű kerékpárutak a part mentén.",
             "ro": "Piste de biciclete superbe de-a lungul coastei.",
-            "en": "Great bike paths along the coast."
+            "en": "Great bike paths along the coast.",
+            "hr": "Odlične biciklističke staze uz obalu."
           }
         },
         {
@@ -792,7 +860,8 @@
             "de": "Bootstransfer ab Medulin Hafen.",
             "hu": "Hajótranszfer Medulin kikötőjéből.",
             "ro": "Transfer cu barca din portul Medulin.",
-            "en": "Boat transfer from Medulin harbor."
+            "en": "Boat transfer from Medulin harbor.",
+            "hr": "Transfer brodom iz medulinske luke."
           }
         },
         {
@@ -815,7 +884,8 @@
             "de": "Bequem mit dem Rad zu erkunden.",
             "hu": "Kényelmesen felfedezhető kerékpárral.",
             "ro": "Confortabil de explorat cu bicicleta.",
-            "en": "Comfortable to explore by bike."
+            "en": "Comfortable to explore by bike.",
+            "hr": "Ugodno za istraživanje biciklom."
           }
         },
         {
@@ -838,7 +908,8 @@
             "de": "Fotostopp zum Abschluss.",
             "hu": "Fotómegálló a végére.",
             "ro": "Oprire pentru fotografii la final.",
-            "en": "Photo stop to wrap up."
+            "en": "Photo stop to wrap up.",
+            "hr": "Foto pauza za kraj."
           }
         }
       ],
@@ -846,7 +917,8 @@
         "de": "Radeln Sie entlang der wunderschönen Bucht von Medulin. Die Route führt Sie von der Promenade zur weiten Halbinsel Kažela.\n\nEin Highlight ist der Abstecher zur Insel Ceja, die per Boot erreichbar ist und fantastisches Wasser bietet.\n\nAm Nachmittag erkunden Sie die Radwege von Vižula und kehren schließlich zur Windmühle zurück.\n\nDiese Tour bietet die perfekte Mischung aus Aktivität, Natur und Kultur.",
         "hu": "Tekerjen a gyönyörű Medulini-öböl mentén. Az útvonal a sétánytól a tágas Kažela-félszigetig vezet.\n\nA túra fénypontja a Ceja-sziget, amely hajóval érhető el és fantasztikus vízzel várja a látogatókat.\n\nDélután fedezze fel Vižula kerékpárútjait, majd térjen vissza a szélmalomhoz.\n\nEz a túra az aktivitás, a természet és a kultúra tökéletes keverékét nyújtja.",
         "ro": "Pedalați de-a lungul frumosului golf Medulin. Traseul vă duce de la faleză spre vasta peninsulă Kažela.\n\nUn punct forte este escapada pe insula Ceja, accesibilă cu barca, care oferă ape fantastice.\n\nDupă-amiaza explorați pistele de biciclete de pe Vižula și reveniți în final la moara de vânt.\n\nAcest tur oferă amestecul perfect de activitate, natură și cultură.",
-        "en": "Cycle along the beautiful Medulin Bay. The route takes you from the promenade to the vast Kažela Peninsula.\n\nA highlight is the detour to Ceja Island, reachable by boat, offering fantastic waters.\n\nIn the afternoon, explore the bike paths of Vižula and finally return to the windmill.\n\nThis tour offers the perfect mix of activity, nature, and culture."
+        "en": "Cycle along the beautiful Medulin Bay. The route takes you from the promenade to the vast Kažela Peninsula.\n\nA highlight is the detour to Ceja Island, reachable by boat, offering fantastic waters.\n\nIn the afternoon, explore the bike paths of Vižula and finally return to the windmill.\n\nThis tour offers the perfect mix of activity, nature, and culture.",
+        "hr": "Vozite bicikl uz prekrasan Medulinski zaljev. Ruta vas vodi od rive do prostranog poluotoka Kažela.\n\nVrhunac je izlet na otok Ceja, dostupan brodom, koji nudi fantastično more.\n\nPoslijepodne istražite biciklističke staze Vižule i na kraju se vratite do vjetrenjače.\n\nOva tura nudi savršen spoj aktivnosti, prirode i kulture."
       },
       "gastro_picks": {
         "de": [
@@ -871,6 +943,12 @@
           {
             "name": "Beach Bar Barracuda",
             "tip": "Laid-back atmosphere for a drink."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Beach Bar Barracuda",
+            "tip": "Opuštena atmosfera za piće."
           }
         ]
       },
@@ -902,6 +980,13 @@
             "tip": "Rocky sections with plenty of solitude.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obala Kažela",
+            "tip": "Stjenoviti dijelovi s puno osame.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -928,6 +1013,12 @@
             "name": "Medulin Bike Rental",
             "tip": "Professional equipment for your tour."
           }
+        ],
+        "hr": [
+          {
+            "name": "Medulin Bike Rental",
+            "tip": "Profesionalna oprema za vašu turu."
+          }
         ]
       },
       "tips": {
@@ -950,6 +1041,11 @@
           "Avoid the main road, use the waterfront paths.",
           "Lock your bike securely during breaks.",
           "Sunscreen is a must on the open paths."
+        ],
+        "hr": [
+          "Izbjegavajte glavnu cestu, koristite staze uz obalu.",
+          "Sigurno zaključajte bicikl tijekom pauza.",
+          "Krema za sunčanje je obavezna na otvorenim stazama."
         ]
       },
       "variants": {
@@ -1142,7 +1238,8 @@
             "de": "Starten Sie vorsichtig an der nassen Uferpromenade. Die Fahrt zur Kažela-Halbinsel erfordert bei Regen gute Kleidung, bietet aber eine erfrischende Meeresbrise. Die Überfahrt zur Insel Ceja hängt stark vom Wetter ab; prüfen Sie die Boote. Mittags erkunden Sie die Wege von Vižula, die bei Nässe etwas rutschig sein können. Beenden Sie die Tour an der Windmühle, bevor der Regen stärker wird.",
             "hu": "Kezdje óvatosan a tekerést a vizes vízparti sétányon. A Kažela-félszigetre vezető út esőben jó felszerelést igényel, de frissítő tengeri szellőt kínál. A Ceja-szigetre való átkelés az időjárástól függ; ellenőrizze a hajójáratokat. Délben a Vižula park ösvényein kalandozhatunk, amelyek nedvesen csúszósak lehetnek. A túrát a szélmalomnál fejezzük be, mielőtt az eső jobban rákezdene.",
             "ro": "Începeți cu atenție pedalarea pe faleza umedă. Drumul spre peninsula Kažela necesită echipament adecvat pe ploaie, dar oferă o briză marină revigorantă. Transferul către insula Ceja depinde de condițiile meteo; verificați programul baricilor. La prânz, explorați potecile din Vižula, care pot fi alunecoase. Încheiați turul la moara de vânt înainte ca ploaia să se intensifice.",
-            "en": "Start carefully on the wet waterfront promenade. The ride to Kažela Peninsula requires good rain gear but offers a refreshing sea breeze. The transfer to Ceja Island depends on the weather; check boat availability first. At noon, explore the paths of Vižula, which can be slippery when wet. Finish your cycling tour at the windmill before the rain gets heavier."
+            "en": "Start carefully on the wet waterfront promenade. The ride to Kažela Peninsula requires good rain gear but offers a refreshing sea breeze. The transfer to Ceja Island depends on the weather; check boat availability first. At noon, explore the paths of Vižula, which can be slippery when wet. Finish your cycling tour at the windmill before the rain gets heavier.",
+            "hr": "Započnite oprezno na mokroj rivi. Vožnja do poluotoka Kažela zahtijeva dobru kišnu opremu, ali nudi osvježavajući morski povjetarac. Transfer do otoka Ceja ovisi o vremenu; prvo provjerite dostupnost broda. U podne istražite staze Vižule koje mogu biti skliske kad su mokre. Završite svoju biciklističku turu kod vjetrenjače prije nego što kiša pojača."
           },
           "stops": [
             {
@@ -1151,7 +1248,8 @@
                 "de": "Vermeiden Sie schnelle Kurven auf den glatten Pflastersteinen am Hafen.",
                 "hu": "Kerülje a hirtelen kanyarodást a kikötő csúszós kövein.",
                 "ro": "Evitați virajele bruște pe pietrele lustruite și umede din port.",
-                "en": "Avoid sharp turns on the smooth, wet pavement stones along the harbor."
+                "en": "Avoid sharp turns on the smooth, wet pavement stones along the harbor.",
+                "hr": "Izbjegavajte oštra skretanja na glatkim, mokrim kamenim pločama u luci."
               }
             },
             {
@@ -1160,7 +1258,8 @@
                 "de": "Die unbefestigten Wege können bei starkem Regen schlammig sein.",
                 "hu": "A burkolatlan utak heves esőzés után sárosak lehetnek.",
                 "ro": "Drumurile neasfaltate pot deveni noroioase după o ploaie puternică.",
-                "en": "Unpaved paths can become muddy after heavy rainfall."
+                "en": "Unpaved paths can become muddy after heavy rainfall.",
+                "hr": "Neasfaltirane staze mogu postati blatnjave nakon jake kiše."
               }
             },
             {
@@ -1169,7 +1268,8 @@
                 "de": "Prüfen Sie vorab, ob die Boote bei Regen und Wind überhaupt verkehren.",
                 "hu": "Előzetesen ellenőrizze, hogy esőben és szélben járnak-e a hajók.",
                 "ro": "Verificați în prealabil dacă bărcile circulă pe timp de ploaie și vânt.",
-                "en": "Check in advance if boats are operating during rainy and windy conditions."
+                "en": "Check in advance if boats are operating during rainy and windy conditions.",
+                "hr": "Unaprijed provjerite plove li brodovi u kišnim i vjetrovitim uvjetima."
               }
             },
             {
@@ -1178,7 +1278,8 @@
                 "de": "Achten Sie auf Wurzeln und glitschige Steine auf den Waldwegen.",
                 "hu": "Ügyeljen a gyökerekre és a csúszós kövekre az erdei ösvényeken.",
                 "ro": "Atenție la rădăcini și pietre alunecoase pe potecile din pădure.",
-                "en": "Watch out for roots and slippery stones on the wooded paths."
+                "en": "Watch out for roots and slippery stones on the wooded paths.",
+                "hr": "Pazite na korijenje i sklisko kamenje na šumskim stazama."
               }
             },
             {
@@ -1187,7 +1288,8 @@
                 "de": "Ein guter Ort, um das Rad kurz abzustellen und sich unterzustellen.",
                 "hu": "Jó hely a bicikli leállítására és egy rövid menedékre.",
                 "ro": "Un loc bun pentru a parca bicicleta și a vă adăposti scurt timp.",
-                "en": "A good place to park your bike and take a quick break from the rain."
+                "en": "A good place to park your bike and take a quick break from the rain.",
+                "hr": "Dobro mjesto za parkiranje bicikla i kratki predah od kiše."
               }
             }
           ],
@@ -1215,6 +1317,12 @@
               "Wear a high-visibility rain jacket for better safety in gloomy weather.",
               "Paths towards Kažela are partly unpaved and can develop large puddles.",
               "Park your bike under the cafe awnings along the promenade for shelter."
+            ],
+            "hr": [
+              "Disk kočnice su pouzdanije u mokrim uvjetima od onih na obruču.",
+              "Nosite uočljivu kišnu jaknu radi veće sigurnosti u tmurnom vremenu.",
+              "Staze prema Kaželi su djelomično neasfaltirane i mogu imati velike lokve.",
+              "Parkirajte bicikl ispod tendi kafića uz rivu kako biste se sklonili."
             ]
           }
         },
@@ -1223,7 +1331,8 @@
             "de": "Genießen Sie eine zügige Fahrt an der fast leeren Promenade am kühlen Morgen. Die Strecke nach Kažela bietet weite Ausblicke über die winterliche Adria, ist aber dem Wind ausgesetzt. Mittags lohnt sich der Transfer zur Insel Ceja nur bei ruhiger See. Der archäologische Park Vižula ist im Winter ideal für eine entspannte Radrunde ohne Fußgängerverkehr. Beenden Sie die Tour an der Windmühle bei tiefstehender Wintersonne.",
             "hu": "Élvezze a lendületes tekerést a szinte üres sétányon a hűvös reggelen. A Kažela felé vezető szakasz tágas kilátást nyújt a téli Adriára, de ki van téve a szélnek. Délben a Ceja-szigetre való átkelés csak szélcsendes időben ajánlott. A Vižula park télen ideális egy nyugodt biciklizéshez a gyalogosforgalom hiánya miatt. A túrát a szélmalomnál zárjuk a hűvös, lemenő téli napfényben.",
             "ro": "Bucurați-vă de o tură rapidă pe faleza aproape goală în dimineața răcoroasă. Traseul spre Kažela oferă vederi largi peste Adriatica hibernală, dar este expus vântului. La prânz, transferul către Ceja merită doar dacă marea este calmă. Parcul Vižula este ideal iarna pentru o tură relaxată, fără traficul pietonal intens. Încheiați turul la moara de vânt sub lumina joasă a soarelui de iarnă.",
-            "en": "Enjoy a brisk ride along the nearly empty promenade on a cool winter morning. The route to Kažela Peninsula offers wide views of the Adriatic but is exposed to the Bura wind. At noon, the boat to Ceja Island is only recommended if the sea is calm. Vižula Park is perfect in winter for a relaxed cycle without tourist crowds. Finish your tour at the windmill under the low winter sun."
+            "en": "Enjoy a brisk ride along the nearly empty promenade on a cool winter morning. The route to Kažela Peninsula offers wide views of the Adriatic but is exposed to the Bura wind. At noon, the boat to Ceja Island is only recommended if the sea is calm. Vižula Park is perfect in winter for a relaxed cycle without tourist crowds. Finish your tour at the windmill under the low winter sun.",
+            "hr": "Uživajte u brzoj vožnji uz gotovo praznu rivu u prohladno zimsko jutro. Ruta do poluotoka Kažela nudi široke poglede na Jadran, ali je izložena buri. U podne se brod za otok Ceja preporučuje samo ako je more mirno. Park Vižula savršen je zimi za opuštenu vožnju biciklom bez turističkih gužvi. Završite turu kod vjetrenjače pod niskim zimskim suncem."
           },
           "stops": [
             {
@@ -1232,7 +1341,8 @@
                 "de": "Achten Sie auf gefrorene Stellen an schattigen Plätzen am Morgen.",
                 "hu": "Figyeljen a reggeli jeges foltokra az árnyékosabb részeken.",
                 "ro": "Atenție la porțiunile înghețate în zonele umbrite dimineața.",
-                "en": "Watch out for icy patches in shaded areas early in the morning."
+                "en": "Watch out for icy patches in shaded areas early in the morning.",
+                "hr": "Pazite na zaleđene dijelove u sjenovitim područjima rano ujutro."
               }
             },
             {
@@ -1241,7 +1351,8 @@
                 "de": "Der Wind kann hier im Winter sehr stark und kalt sein.",
                 "hu": "A szél itt télen nagyon erős és hideg lehet.",
                 "ro": "Vântul poate fi foarte puternic și rece aici pe timpul iernii.",
-                "en": "The wind can be very strong and cold on this exposed peninsula."
+                "en": "The wind can be very strong and cold on this exposed peninsula.",
+                "hr": "Vjetar može biti vrlo jak i hladan na ovom izloženom poluotoku."
               }
             },
             {
@@ -1250,7 +1361,8 @@
                 "de": "Warme Kleidung ist für die kurze Bootsfahrt unbedingt erforderlich.",
                 "hu": "A rövid hajóúthoz mindenképpen szükség lesz meleg ruházatra.",
                 "ro": "Hainele groase sunt absolut necesare pentru scurta călătorie cu barca.",
-                "en": "Warm clothing is essential for the short boat trip across the water."
+                "en": "Warm clothing is essential for the short boat trip across the water.",
+                "hr": "Topla odjeća je neophodna za kratku vožnju brodom preko mora."
               }
             },
             {
@@ -1259,7 +1371,8 @@
                 "de": "Nutzen Sie die leeren Wege für eine entspannte Erkundung per Rad.",
                 "hu": "Használja ki az üres ösvényeket a park kényelmes felfedezéséhez.",
                 "ro": "Profită de aleile pustii pentru o explorare relaxată pe bicicletă.",
-                "en": "Take advantage of the empty paths for a relaxed ride through the park."
+                "en": "Take advantage of the empty paths for a relaxed ride through the park.",
+                "hr": "Iskoristite prazne staze za opuštenu vožnju parkom."
               }
             },
             {
@@ -1268,7 +1381,8 @@
                 "de": "Das warme Licht der Wintersonne ist perfekt für Fotos von der Mühle.",
                 "hu": "A téli napfény meleg színei tökéletesek a malom fotózásához.",
                 "ro": "Lumina caldă a soarelui de iarnă este perfectă pentru fotografii.",
-                "en": "The warm winter sunlight is perfect for photographing the windmill."
+                "en": "The warm winter sunlight is perfect for photographing the windmill.",
+                "hr": "Topla zimska sunčeva svjetlost savršena je za fotografiranje vjetrenjače."
               }
             }
           ],
@@ -1296,6 +1410,12 @@
               "Days are short; ensure your bicycle lights are in good working order.",
               "The strong Bura wind can make cycling difficult on open coastal stretches.",
               "Check your tire pressure as cold air can lead to lower volume."
+            ],
+            "hr": [
+              "Nosite rukavice i termo kapu ispod kacige kako biste blokirali hladan vjetar.",
+              "Dani su kratki; provjerite jesu li vam svjetla na biciklu ispravna.",
+              "Jaka bura može otežati vožnju bicikla na otvorenim obalnim dijelovima.",
+              "Provjerite tlak u gumama jer hladan zrak može dovesti do nižeg volumena."
             ]
           }
         }
@@ -1329,7 +1449,8 @@
             "de": "Parkplatz direkt an der Kirche.",
             "hu": "Parkoló közvetlenül a templomnál.",
             "ro": "Parcare chiar lângă biserică.",
-            "en": "Parking right next to the church."
+            "en": "Parking right next to the church.",
+            "hr": "Parking odmah pored crkve."
           }
         },
         {
@@ -1352,7 +1473,8 @@
             "de": "Großer Parkplatz am Eingang der Halbinsel.",
             "hu": "Nagy parkoló a félsziget bejáratánál.",
             "ro": "Parcare mare la intrarea pe peninsulă.",
-            "en": "Large parking lot at the peninsula entrance."
+            "en": "Large parking lot at the peninsula entrance.",
+            "hr": "Veliki parking na ulazu u poluotok."
           }
         },
         {
@@ -1375,7 +1497,8 @@
             "de": "Zentraler Anlaufpunkt für Gastronomie.",
             "hu": "Központi hely a gasztronómiához.",
             "ro": "Punct central pentru gastronomie.",
-            "en": "Central point for gastronomy."
+            "en": "Central point for gastronomy.",
+            "hr": "Središnja točka za gastronomiju."
           }
         },
         {
@@ -1398,7 +1521,8 @@
             "de": "Gebührenpflichtiger Parkplatz in Strandnähe.",
             "hu": "Fizetős parkoló a strand közelében.",
             "ro": "Parcare cu plată în apropierea plajei.",
-            "en": "Paid parking near the beach."
+            "en": "Paid parking near the beach.",
+            "hr": "Plaćeni parking u blizini plaže."
           }
         },
         {
@@ -1421,7 +1545,8 @@
             "de": "Fahrt bis zum Kap für den Sonnenuntergang.",
             "hu": "Hajtson ki a fokhoz a naplementéhez.",
             "ro": "Mergeți până la capăt pentru apus.",
-            "en": "Drive to the cape for the sunset."
+            "en": "Drive to the cape for the sunset.",
+            "hr": "Vožnja do rta za zalazak sunca."
           }
         }
       ],
@@ -1429,7 +1554,8 @@
         "de": "Das Auto erlaubt Ihnen, Medulins Highlights stressfrei zu verbinden. Beginnen Sie im Zentrum und besuchen Sie die antiken Stätten auf Vižula.\n\nMittags parken Sie nahe der Riva für ein erstklassiges Mittagessen.\n\nDer Nachmittag ist für Entspannung am Bijeca-Strand reserviert, gefolgt von einer Fahrt zur Halbinsel Kažela.\n\nGenießen Sie die Freiheit, auch die Randbereiche der Bucht ohne weite Fußwege zu erkunden.",
         "hu": "Az autó lehetővé teszi Medulin fénypontjainak stresszmentes összekötését. Kezdjen a központban, és látogassa meg Vižula ókori helyszíneit.\n\nDélben parkoljon a sétány közelében egy kiváló ebédhez.\n\nA délután a Bijeca-strandon való pihenésé, majd egy autózásé a Kažela-félszigetre.\n\nÉlvezze a szabadságot, és fedezze fel az öböl távolabbi részeit is hosszú gyaloglás nélkül.",
         "ro": "Mașina vă permite să conectați punctele de atracție din Medulin fără stres. Începeți în centru și vizitați siturile antice de pe Vižula.\n\nLa prânz, parcați lângă faleză pentru un prânz excelent.\n\nDupă-amiaza este rezervată relaxării pe plaja Bijeca, urmată de o plimbare spre peninsula Kažela.\n\nBucurați-vă de libertatea de a explora zonele periferice ale golfului fără a merge mult pe jos.",
-        "en": "The car allows you to combine Medulin's highlights without stress. Start in the center and visit the ancient sites on Vižula.\n\nAt noon, park near the Riva for a top-quality lunch.\n\nSpend your afternoon relaxing at Bijeca beach, followed by a drive to the Kažela Peninsula.\n\nEnjoy the freedom to explore the outer reaches of the bay without long walks."
+        "en": "The car allows you to combine Medulin's highlights without stress. Start in the center and visit the ancient sites on Vižula.\n\nAt noon, park near the Riva for a top-quality lunch.\n\nSpend your afternoon relaxing at Bijeca beach, followed by a drive to the Kažela Peninsula.\n\nEnjoy the freedom to explore the outer reaches of the bay without long walks.",
+        "hr": "Automobil vam omogućuje da bez stresa kombinirate medulinske znamenitosti. Započnite u centru i posjetite antička nalazišta na Vižuli.\n\nU podne parkirajte u blizini Rive za vrhunski ručak.\n\nPoslijepodne se opustite na plaži Bijeca, a zatim se odvezite do poluotoka Kažela.\n\nUživajte u slobodi istraživanja udaljenih dijelova zaljeva bez dugih šetnji."
       },
       "gastro_picks": {
         "de": [
@@ -1454,6 +1580,12 @@
           {
             "name": "Restaurant Vizula",
             "tip": "View of the park and Mediterranean cuisine."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restaurant Vizula",
+            "tip": "Pogled na park i mediteranska kuhinja."
           }
         ]
       },
@@ -1485,6 +1617,13 @@
             "tip": "View of the open sea.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Rt Kažela",
+            "tip": "Pogled na otvoreno more.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1511,6 +1650,12 @@
             "name": "Plodine Medulin",
             "tip": "Large supermarket for all holiday shopping."
           }
+        ],
+        "hr": [
+          {
+            "name": "Plodine Medulin",
+            "tip": "Veliki supermarket za svu blagdansku kupovinu."
+          }
         ]
       },
       "tips": {
@@ -1533,6 +1678,11 @@
           "In high season, parking spots at the Riva fill up quickly.",
           "A trip to Cape Kamenjak (15 min drive) is worth it.",
           "Watch out for one-way streets in the town center."
+        ],
+        "hr": [
+          "U visokoj sezoni parkirna mjesta na Rivi se brzo popune.",
+          "Izlet na Rt Kamenjak (15 min vožnje) se isplati.",
+          "Pazite na jednosmjerne ulice u centru grada."
         ]
       },
       "variants": {
@@ -1725,7 +1875,8 @@
             "de": "Fahren Sie bequem zur Kirche der Heiligen Agnes und parken Sie in der Nähe. Der archäologische Park Vižula ist auch bei Regen gut erreichbar; die Wege sind fest. Mittags bietet die Uferpromenade Parkplätze direkt bei den Cafés. Den Nachmittag können Sie entspannt am Bijeca-Strand im Auto verbringen und den Regen auf das Meer prasseln sehen. Beenden Sie die Tour an der Kažela-Halbinsel mit Blick auf die stürmische See.",
             "hu": "Hajtson kényelmesen a Szent Ágnes templomhoz, a közelben talál parkolót. A Vižula park esőben is jól megközelíthető, az utak stabilak. Délben a parton közvetlenül a kávézók közelében parkolhat. A délutánt töltse a Bijeca strandnál, akár az autóból figyelve a tengerre hulló esőt. A túrát a Kažela-félszigeten zárjuk, ahol a viharos tenger látványa lenyűgöző.",
             "ro": "Conduceți confortabil către biserica Sfânta Agneza; veți găsi parcare în apropiere. Parcul Vižula este accesibil chiar și pe ploaie, aleile fiind stabile. La prânz, faleza oferă locuri de parcare chiar lângă cafenele. Petreceți după-amiaza la plaja Bijeca, admirând ploaia peste mare din confortul mașinii. Încheiați turul la peninsula Kažela pentru o vedere panoramică asupra mării agitate.",
-            "en": "Drive comfortably to Saint Agnes Church; parking is easily available nearby. Vižula Archaeological Park is accessible even in the rain, with stable paths. At noon, the waterfront offers parking spots right next to the cafes. Spend a relaxed afternoon at Bijeca Beach, perhaps watching the rain hit the sea from your car. End the tour at Kažela Peninsula for a dramatic view of the stormy Adriatic."
+            "en": "Drive comfortably to Saint Agnes Church; parking is easily available nearby. Vižula Archaeological Park is accessible even in the rain, with stable paths. At noon, the waterfront offers parking spots right next to the cafes. Spend a relaxed afternoon at Bijeca Beach, perhaps watching the rain hit the sea from your car. End the tour at Kažela Peninsula for a dramatic view of the stormy Adriatic.",
+            "hr": "Udobno se odvezite do crkve sv. Agneze; parking je lako dostupan u blizini. Arheološki park Vižula pristupačan je i po kiši, sa stabilnim stazama. U podne riva nudi parkirna mjesta odmah do kafića. Provedite opušteno poslijepodne na plaži Bijeca, možda promatrajući kako kiša udara u more iz vašeg automobila. Završite turu na poluotoku Kažela za dramatičan pogled na olujni Jadran."
           },
           "stops": [
             {
@@ -1734,7 +1885,8 @@
                 "de": "Parkplätze befinden sich direkt unterhalb der Kirche im Zentrum.",
                 "hu": "Parkolók közvetlenül a templom alatt, a központban találhatók.",
                 "ro": "Locurile de parcare se află direct sub biserică, în centrul orașului.",
-                "en": "Parking spaces are located directly below the church in the center."
+                "en": "Parking spaces are located directly below the church in the center.",
+                "hr": "Parkirna mjesta nalaze se izravno ispod crkve u centru."
               }
             },
             {
@@ -1743,7 +1895,8 @@
                 "de": "Nutzen Sie den großen Parkplatz am Eingang des Parks.",
                 "hu": "Használja ki a park bejáratánál található tágas parkolót.",
                 "ro": "Folosiți parcarea mare situată chiar la intrarea în parc.",
-                "en": "Make use of the large parking lot right at the park entrance."
+                "en": "Make use of the large parking lot right at the park entrance.",
+                "hr": "Iskoristite veliki parking odmah na ulazu u park."
               }
             },
             {
@@ -1752,7 +1905,8 @@
                 "de": "Parken Sie entlang der Promenade für einen kurzen Weg zum Café.",
                 "hu": "Parkoljon a sétány mentén, hogy csak pár lépés legyen a kávézó.",
                 "ro": "Parcați de-a lungul falezei pentru un acces rapid la cafenele.",
-                "en": "Park along the promenade for a very short walk to the nearest cafe."
+                "en": "Park along the promenade for a very short walk to the nearest cafe.",
+                "hr": "Parkirajte uz rivu za vrlo kratku šetnju do najbližeg kafića."
               }
             },
             {
@@ -1761,7 +1915,8 @@
                 "de": "Vom Parkplatz aus haben Sie einen tollen Blick auf die Bucht.",
                 "hu": "A parkolóból remek kilátás nyílik az egész öbölre.",
                 "ro": "Din parcare aveți o vedere excelentă asupra întregului golf.",
-                "en": "The parking area offers a great view over the entire bay."
+                "en": "The parking area offers a great view over the entire bay.",
+                "hr": "Parkiralište nudi prekrasan pogled na cijeli zaljev."
               }
             },
             {
@@ -1770,7 +1925,8 @@
                 "de": "Bleiben Sie auf den befestigten Parkflächen am Ende der Straße.",
                 "hu": "Maradjon a burkolt parkolófelületeken az út végén.",
                 "ro": "Rămâneți pe suprafețele de parcare amenajate de la capătul drumului.",
-                "en": "Stay on the paved parking areas at the end of the road."
+                "en": "Stay on the paved parking areas at the end of the road.",
+                "hr": "Ostanite na asfaltiranim parkirnim površinama na kraju ceste."
               }
             }
           ],
@@ -1798,6 +1954,12 @@
               "Avoid unpaved road shoulders that might become soft due to rain.",
               "Take advantage of the short walking distances from the car to the sights.",
               "Check your windshield wipers before driving along the coastal roads."
+            ],
+            "hr": [
+              "Parkirnih mjesta u Medulinu ima na pretek tijekom kišne i zimske sezone.",
+              "Izbjegavajte neasfaltirane rubove cesta koji bi mogli postati meki zbog kiše.",
+              "Iskoristite kratke udaljenosti hoda od automobila do znamenitosti.",
+              "Provjerite brisače vjetrobranskog stakla prije vožnje obalnim cestama."
             ]
           }
         },
@@ -1806,7 +1968,8 @@
             "de": "Ein entspannter Wintermorgen beginnt mit der Fahrt zur Kirche der Heiligen Agnes. Besuchen Sie anschließend Vižula, wo Sie fast allein auf dem großen Parkplatz stehen. Mittags finden Sie leicht einen Parkplatz an der Uferpromenade für einen Besuch in einer Konoba. Der Bijeca-Strand wirkt im Winterlicht fast magisch und verlassen. Beenden Sie den Tag auf der Kažela-Halbinsel, um den Sonnenuntergang bequem vom Auto aus zu genießen.",
             "hu": "A nyugodt téli reggel a Szent Ágnes templomhoz való autózással indul. Ezután látogasson el Vižulába, ahol szinte egyedül állhat a hatalmas parkolóban. Délben könnyen talál helyet a sétányon egy finom ebédhez. A Bijeca strand a téli fényekben szinte varázslatos és teljesen néptelen. A napot a Kažela-félszigeten zárjuk, ahol az autóból is kényelmesen élvezheti a naplementét.",
             "ro": "O dimineață relaxantă de iarnă începe cu drumul spre biserica Sfânta Agneza. Vizitați apoi Vižula, unde veți găsi parcarea aproape goală. La prânz, veți găsi cu ușurință parcare pe faleză pentru o vizită la o tavernă. Plaja Bijeca pare magică și pustie sub lumina iernii. Încheiați ziua la peninsula Kažela pentru a admira apusul din confortul mașinii.",
-            "en": "A relaxed winter morning starts with a drive to Saint Agnes Church. Next, visit Vižula Park, where you'll have the large parking lot almost to yourself. At noon, easily find a spot along the waterfront for lunch at a local restaurant. Bijeca Beach looks magical and deserted in the winter light. Finish your day at Kažela Peninsula to enjoy the sunset from the comfort of your car."
+            "en": "A relaxed winter morning starts with a drive to Saint Agnes Church. Next, visit Vižula Park, where you'll have the large parking lot almost to yourself. At noon, easily find a spot along the waterfront for lunch at a local restaurant. Bijeca Beach looks magical and deserted in the winter light. Finish your day at Kažela Peninsula to enjoy the sunset from the comfort of your car.",
+            "hr": "Opušteno zimsko jutro počinje vožnjom do crkve sv. Agneze. Zatim posjetite park Vižula, gdje ćete imati veliki parking gotovo samo za sebe. U podne lako pronađite mjesto uz rivu za ručak u lokalnom restoranu. Plaža Bijeca izgleda čarobno i pusto na zimskom svjetlu. Završite dan na poluotoku Kažela kako biste uživali u zalasku sunca iz udobnosti svog automobila."
           },
           "stops": [
             {
@@ -1815,7 +1978,8 @@
                 "de": "Kostenloses Parken ist in der Nebensaison oft im Zentrum möglich.",
                 "hu": "A központban a főszezonon kívül gyakran ingyenes a parkolás.",
                 "ro": "Parcarea în centru este adesea gratuită în extrasezon.",
-                "en": "Parking in the center is often free during the low season."
+                "en": "Parking in the center is often free during the low season.",
+                "hr": "Parking u centru je često besplatan tijekom predsezone."
               }
             },
             {
@@ -1824,7 +1988,8 @@
                 "de": "Der Parkplatz ist im Winter idealer Ausgangspunkt für kleine Spaziergänge.",
                 "hu": "A parkoló télen ideális kiindulópont rövidebb sétákhoz is.",
                 "ro": "Parcarea este punctul ideal de plecare pentru plimbări scurte iarna.",
-                "en": "The parking lot is a perfect starting point for short winter walks."
+                "en": "The parking lot is a perfect starting point for short winter walks.",
+                "hr": "Parkiralište je savršeno polazište za kratke zimske šetnje."
               }
             },
             {
@@ -1833,7 +1998,8 @@
                 "de": "Kein Parkplatzstress – wählen Sie den Platz mit der besten Aussicht.",
                 "hu": "Nincs parkolási stressz – válassza a legjobb kilátást nyújtó helyet.",
                 "ro": "Fără stresul parcării – alegeți locul cu cea mai bună vedere.",
-                "en": "No parking stress – simply choose the spot with the best view."
+                "en": "No parking stress – simply choose the spot with the best view.",
+                "hr": "Nema stresa oko parkiranja – jednostavno odaberite mjesto s najboljim pogledom."
               }
             },
             {
@@ -1842,7 +2008,8 @@
                 "de": "Genießen Sie die Stille am leeren Strand direkt vom Parkplatz aus.",
                 "hu": "Élvezze a csendet az üres strandon közvetlenül a parkolóból.",
                 "ro": "Bucurați-vă de liniștea plajei pustii chiar din parcare.",
-                "en": "Enjoy the silence of the empty beach directly from the parking area."
+                "en": "Enjoy the silence of the empty beach directly from the parking area.",
+                "hr": "Uživajte u tišini prazne plaže izravno s parkirališta."
               }
             },
             {
@@ -1851,7 +2018,8 @@
                 "de": "Perfekter Ort für den Sonnenuntergang, wenn es draußen zu kalt ist.",
                 "hu": "Tökéletes helyszín a naplementéhez, ha kint túl hideg van.",
                 "ro": "Locul perfect pentru apus dacă este prea frig afară.",
-                "en": "The perfect spot for sunset if it is too cold to stand outside."
+                "en": "The perfect spot for sunset if it is too cold to stand outside.",
+                "hr": "Savršeno mjesto za zalazak sunca ako je prehladno za stajanje vani."
               }
             }
           ],
@@ -1879,6 +2047,12 @@
               "Parking fees are waived in many locations during the winter months.",
               "Keep a windshield de-icer ready in case of overnight frost.",
               "Enjoy driving through Medulin without the usual summer traffic jams."
+            ],
+            "hr": [
+              "Provjerite tlak u gumama prije vožnje na niskim temperaturama.",
+              "Naknade za parkiranje se ne naplaćuju na mnogim lokacijama tijekom zimskih mjeseci.",
+              "Držite sredstvo za odmrzavanje vjetrobranskog stakla spremnim u slučaju noćnog mraza.",
+              "Uživajte u vožnji kroz Medulin bez uobičajenih ljetnih prometnih gužvi."
             ]
           }
         }
@@ -1912,7 +2086,8 @@
             "de": "Zentrale Bushaltestelle in der Nähe.",
             "hu": "Központi buszmegálló a közelben.",
             "ro": "Stație de autobuz centrală în apropiere.",
-            "en": "Central bus stop nearby."
+            "en": "Central bus stop nearby.",
+            "hr": "Središnja autobusna stanica u blizini."
           }
         },
         {
@@ -1935,7 +2110,8 @@
             "de": "Vom Zentrum aus gut zu Fuß erreichbar.",
             "hu": "A központból gyalogosan is jól elérhető.",
             "ro": "Ușor accesibilă pe jos din centru.",
-            "en": "Easily accessible on foot from the center."
+            "en": "Easily accessible on foot from the center.",
+            "hr": "Lako dostupno pješice iz centra."
           }
         },
         {
@@ -1958,7 +2134,8 @@
             "de": "Perfekt für das Mittagessen.",
             "hu": "Tökéletes ebédre.",
             "ro": "Perfect pentru prânz.",
-            "en": "Perfect for lunch."
+            "en": "Perfect for lunch.",
+            "hr": "Savršeno za ručak."
           }
         },
         {
@@ -1981,7 +2158,8 @@
             "de": "Leicht erreichbar mit dem Linienbus aus Pula.",
             "hu": "Könnyen elérhető a Pulából induló buszjáratokkal.",
             "ro": "Ușor accesibilă cu autobuzul din Pula.",
-            "en": "Easily accessible by bus from Pula."
+            "en": "Easily accessible by bus from Pula.",
+            "hr": "Lako dostupno autobusom iz Pule."
           }
         }
       ],
@@ -1989,7 +2167,8 @@
         "de": "Medulin ist durch Regionalbusse (Linie 25 ab Pula) hervorragend angebunden. Starten Sie Ihren Tag im historischen Kern.\n\nNach der Besichtigung der Wahrzeichen erreichen Sie die Promenade und den Bijeca-Strand bequem zu Fuß.\n\nGenießen Sie die maritime Atmosphäre ohne Parkplatzsorgen.\n\nDer Transit-Mode eignet sich ideal für Gäste, die in Pula wohnen und einen Tagesausflug machen.",
         "hu": "Medulin kiválóan megközelíthető helyközi buszokkal (25-ös járat Pulából). Kezdje a napot a történelmi központban.\n\nA nevezetességek megtekintése után a sétány és a Bijeca-strand kényelmesen elérhető gyalog.\n\nÉlvezze a tengerparti hangulatot parkolási gondok nélkül.\n\nA tömegközlekedési mód ideális a Pulában megszálló vendégeknek egy egynapos kiránduláshoz.",
         "ro": "Medulin este foarte bine conectat prin autobuze regionale (linia 25 din Pula). Începeți ziua în centrul istoric.\n\nDupă vizitarea monumentelor, faleza și plaja Bijeca sunt ușor accesibile pe jos.\n\nBucurați-vă de atmosfera maritimă fără grija parcării.\n\nModul de tranzit este ideal pentru turiștii cazați în Pula care fac o excursie de o zi.",
-        "en": "Medulin is excellently connected by regional buses (line 25 from Pula). Start your day in the historical core.\n\nAfter visiting the landmarks, the promenade and Bijeca beach are easily accessible on foot.\n\nEnjoy the maritime atmosphere without parking worries.\n\nThe transit mode is ideal for guests staying in Pula for a day trip."
+        "en": "Medulin is excellently connected by regional buses (line 25 from Pula). Start your day in the historical core.\n\nAfter visiting the landmarks, the promenade and Bijeca beach are easily accessible on foot.\n\nEnjoy the maritime atmosphere without parking worries.\n\nThe transit mode is ideal for guests staying in Pula for a day trip.",
+        "hr": "Medulin je izvrsno povezan regionalnim autobusima (linija 25 iz Pule). Započnite dan u povijesnoj jezgri.\n\nNakon obilaska znamenitosti, šetnica i plaža Bijeca lako su dostupni pješice.\n\nUživajte u morskom ugođaju bez brige o parkiranju.\n\nTranzitni način rada idealan je za goste koji borave u Puli na jednodnevnom izletu."
       },
       "gastro_picks": {
         "de": [
@@ -2014,6 +2193,12 @@
           {
             "name": "Konoba Willi",
             "tip": "Family-run place with traditional recipes."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Willi",
+            "tip": "Obiteljski vođeno mjesto s tradicionalnim receptima."
           }
         ]
       },
@@ -2045,6 +2230,13 @@
             "tip": "Find a shaded spot under the pines.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Plažna pergola",
+            "tip": "Pronađite sjenovito mjesto pod borovima.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -2071,6 +2263,12 @@
             "name": "Local Markets",
             "tip": "During the season, there are often small stalls with local honey."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalne tržnice",
+            "tip": "Tijekom sezone često postoje mali štandovi s lokalnim medom."
+          }
         ]
       },
       "tips": {
@@ -2093,6 +2291,11 @@
           "The bus stop is on the main road above the center.",
           "Get a timetable from the tourist information office.",
           "The bus to Pula runs regularly."
+        ],
+        "hr": [
+          "Autobusna stanica je na glavnoj cesti iznad centra.",
+          "Uzmite vozni red u turističkom uredu.",
+          "Autobus za Pulu vozi redovito."
         ]
       },
       "variants": {
@@ -2271,7 +2474,8 @@
             "de": "Nutzen Sie den Bus, um trocken zur Kirche der Heiligen Agnes zu gelangen. Ein kurzer Sprint bringt Sie zur Windmühle Malin. Mittags bietet die Uferpromenade viele überdachte Plätze, während Sie auf den nächsten Bus warten. Den Nachmittag verbringen Sie am Bijeca-Strand, wobei Sie die Fahrpläne für den Rückweg im Blick behalten sollten. Die Busfahrt bietet einen entspannten Blick auf die regnerische Küste.",
             "hu": "Használja a buszt, hogy szárazon jusson el a Szent Ágnes templomhoz. Egy rövid vágta, és már a Malin szélmalomnál is van. Délben a sétányon számos fedett helyet talál, miközben a következő buszra vár. A délutánt a Bijeca strandnál töltheti, de figyelje a menetrendet a visszajutáshoz. A buszozás közben kényelmesen nézheti az esős tengerparti tájat.",
             "ro": "Folosiți autobuzul pentru a ajunge la biserica Sfânta Agneza fără a vă uda. Un scurt sprint vă va duce la moara de vânt Malin. La prânz, faleza oferă multe locuri acoperite unde puteți aștepta următorul autobuz. Petreceți după-amiaza la plaja Bijeca, verificând constant orarul de întoarcere. Călătoria cu autobuzul oferă o vedere relaxantă asupra coastei ploiase.",
-            "en": "Use the local bus to reach Saint Agnes Church while staying dry. A short dash will get you to the Malin windmill. At noon, the waterfront offers many sheltered spots while you wait for your next connection. Spend the afternoon at Bijeca Beach, but keep an eye on the schedules for your return journey. The bus ride offers a relaxed view of the rainy coastline."
+            "en": "Use the local bus to reach Saint Agnes Church while staying dry. A short dash will get you to the Malin windmill. At noon, the waterfront offers many sheltered spots while you wait for your next connection. Spend the afternoon at Bijeca Beach, but keep an eye on the schedules for your return journey. The bus ride offers a relaxed view of the rainy coastline.",
+            "hr": "Koristite lokalni autobus da dođete do crkve sv. Agneze dok ostajete suhi. Kratki trk odvest će vas do vjetrenjače Malin. U podne riva nudi mnoga zaklonjena mjesta dok čekate svoju sljedeću liniju. Provedite poslijepodne na plaži Bijeca, ali pratite vozni red za povratak. Vožnja autobusom nudi opušten pogled na kišnu obalu."
           },
           "stops": [
             {
@@ -2280,7 +2484,8 @@
                 "de": "Die Bushaltestelle befindet sich nur wenige Gehminuten von der Kirche entfernt.",
                 "hu": "A buszmegálló mindössze pár perc sétára található a templomtól.",
                 "ro": "Stația de autobuz se află la doar câteva minute de mers pe jos de biserică.",
-                "en": "The bus stop is located just a few minutes' walk from the church."
+                "en": "The bus stop is located just a few minutes' walk from the church.",
+                "hr": "Autobusna stanica nalazi se na samo nekoliko minuta hoda od crkve."
               }
             },
             {
@@ -2289,7 +2494,8 @@
                 "de": "Planen Sie den Besuch so, dass Sie rechtzeitig zur nächsten Abfahrt zurück sind.",
                 "hu": "Tervezze úgy a látogatást, hogy időben visszaérjen a következő járathoz.",
                 "ro": "Planificați vizita astfel încât să reveniți la timp pentru următoarea plecare.",
-                "en": "Plan your visit so that you return in time for the next bus departure."
+                "en": "Plan your visit so that you return in time for the next bus departure.",
+                "hr": "Planirajte svoj posjet tako da se vratite na vrijeme za sljedeći polazak autobusa."
               }
             },
             {
@@ -2298,7 +2504,8 @@
                 "de": "Die Haltestellen an der Promenade bieten oft nur begrenzten Regenschutz.",
                 "hu": "A sétányon lévő megállók gyakran csak korlátozott esővédelmet nyújtanak.",
                 "ro": "Stațiile de pe faleză oferă adesea protecție limitată împotriva ploii.",
-                "en": "Bus stops along the promenade often provide limited shelter from the rain."
+                "en": "Bus stops along the promenade often provide limited shelter from the rain.",
+                "hr": "Autobusne stanice uz rivu često pružaju ograničen zaklon od kiše."
               }
             },
             {
@@ -2307,7 +2514,8 @@
                 "de": "Warten Sie in einem nahegelegenen Café, bis der Bus kommt.",
                 "hu": "Várjon egy közeli kávézóban, amíg megérkezik a busza.",
                 "ro": "Așteptați într-o cafenea din apropiere până când sosește autobuzul.",
-                "en": "Wait in a nearby cafe until your bus is scheduled to arrive."
+                "en": "Wait in a nearby cafe until your bus is scheduled to arrive.",
+                "hr": "Pričekajte u obližnjem kafiću dok ne dođe vrijeme polaska vašeg autobusa."
               }
             }
           ],
@@ -2335,6 +2543,12 @@
               "Wear layers to stay warm and dry while waiting at exposed bus stops.",
               "Bus frequency may be lower during the winter and in bad weather.",
               "Have your change or ticket ready for a quick boarding process."
+            ],
+            "hr": [
+              "Preuzmite aplikaciju za javni prijevoz kako biste pratili potencijalna kašnjenja zbog kiše.",
+              "Obucite se slojevito kako biste ostali topli i suhi dok čekate na izloženim stanicama.",
+              "Učestalost autobusa može biti manja zimi i u lošim vremenskim uvjetima.",
+              "Imajte spreman sitniš ili kartu za brzi ulazak u autobus."
             ]
           }
         },
@@ -2343,7 +2557,8 @@
             "de": "Starten Sie Ihren Wintertag mit dem Bus zur Kirche der Heiligen Agnes. Die kühle Brise an der Windmühle ist belebend. Mittags wärmen Sie sich in einem Café an der Promenade auf, während Sie den Busfahrplan prüfen. Der Bijeca-Strand ist im Winterlicht besonders ruhig. Achten Sie auf die selteneren Busverbindungen in der Nebensaison, um rechtzeitig vor Einbruch der Dunkelheit zurückzukehren.",
             "hu": "Indítsa a téli napot buszozással a Szent Ágnes templomhoz. A hűvös szél a szélmalomnál frissítő lesz. Délben melegedjen fel egy kávézóban a sétányon, miközben a buszmenetrendet böngészi. A Bijeca strand a téli fényben különösen békés. Ügyeljen a ritkább buszjáratokra a főszezonon kívül, hogy sötétedés előtt visszaérjen.",
             "ro": "Începeți ziua de iarnă cu autobuzul până la biserica Sfânta Agneza. Briza rece de la moara de vânt este revigorantă. La prânz, încălziți-vă într-o cafenea de pe faleză în timp ce verificați orarul autobuzelor. Plaja Bijeca este deosebit de liniștită sub lumina iernii. Atenție la cursele mai rare în extrasezon pentru a reveni înainte de lăsarea întunericului.",
-            "en": "Start your winter day by taking the bus to Saint Agnes Church. The cool breeze by the windmill is invigorating. At noon, warm up in a cafe along the promenade while checking the bus schedule. Bijeca Beach is exceptionally peaceful in the winter light. Mind the less frequent bus services in the low season to ensure a timely return before dark."
+            "en": "Start your winter day by taking the bus to Saint Agnes Church. The cool breeze by the windmill is invigorating. At noon, warm up in a cafe along the promenade while checking the bus schedule. Bijeca Beach is exceptionally peaceful in the winter light. Mind the less frequent bus services in the low season to ensure a timely return before dark.",
+            "hr": "Započnite svoj zimski dan vožnjom autobusom do crkve sv. Agneze. Hladan povjetarac kod vjetrenjače osnažuje. U podne se ugrijte u kafiću uz rivu dok provjeravate vozni red. Plaža Bijeca je iznimno mirna na zimskom svjetlu. Pripazite na rjeđe autobusne linije u predsezoni kako biste osigurali pravovremeni povratak prije mraka."
           },
           "stops": [
             {
@@ -2352,7 +2567,8 @@
                 "de": "Der Bus hält direkt im Herzen des winterlichen Medulin.",
                 "hu": "A busz közvetlenül a téli Medulin szívében áll meg.",
                 "ro": "Autobuzul oprește chiar în inima stațiunii Medulin pe timp de iarnă.",
-                "en": "The bus stops right in the heart of Medulin during the winter."
+                "en": "The bus stops right in the heart of Medulin during the winter.",
+                "hr": "Autobus staje u samom srcu Medulina tijekom zime."
               }
             },
             {
@@ -2361,7 +2577,8 @@
                 "de": "Ein kurzer Fußweg verbindet die Bushaltestelle mit der Mühle.",
                 "hu": "Rövid séta köti össze a buszmegállót a szélmalommal.",
                 "ro": "O scurtă plimbare leagă stația de autobuz de moara de vânt.",
-                "en": "A short walk connects the bus stop with the iconic windmill."
+                "en": "A short walk connects the bus stop with the iconic windmill.",
+                "hr": "Kratka šetnja povezuje autobusnu stanicu s kultnom vjetrenjačom."
               }
             },
             {
@@ -2370,7 +2587,8 @@
                 "de": "Warten Sie im Warmen, da die Busse im Winter seltener fahren.",
                 "hu": "Várjon meleg helyen, mivel a buszok télen ritkábban járnak.",
                 "ro": "Așteptați într-un loc încălzit, deoarece autobuzele sunt mai rare iarna.",
-                "en": "Wait in a warm place as buses run less frequently in the winter."
+                "en": "Wait in a warm place as buses run less frequently in the winter.",
+                "hr": "Čekajte na toplom mjestu jer autobusi zimi voze rjeđe."
               }
             },
             {
@@ -2379,7 +2597,8 @@
                 "de": "Die letzte Busverbindung des Tages ist im Winter oft früher.",
                 "hu": "Az utolsó buszjárat télen gyakran korábban indul vissza.",
                 "ro": "Ultima cursă de autobuz a zilei este adesea mai devreme iarna.",
-                "en": "The last bus connection of the day is often earlier in the winter."
+                "en": "The last bus connection of the day is often earlier in the winter.",
+                "hr": "Posljednja autobusna linija u danu često je ranija zimi."
               }
             }
           ],
@@ -2407,6 +2626,12 @@
               "Plan your return trip before 5:00 PM as it gets dark early.",
               "Bus stops can be drafty in winter; make sure to dress warmly.",
               "Confirm the current winter schedule with the driver upon boarding."
+            ],
+            "hr": [
+              "Autobusi voze znatno rjeđe tijekom predsezone nego ljeti.",
+              "Planirajte povratak prije 17:00 jer rano pada mrak.",
+              "Autobusne stanice zimi mogu biti vjetrovite; svakako se toplo obucite.",
+              "Potvrdite trenutni zimski vozni red kod vozača prilikom ulaska."
             ]
           }
         }

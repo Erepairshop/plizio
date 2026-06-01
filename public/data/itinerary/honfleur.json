@@ -31,7 +31,8 @@
             "de": "Früh morgens ist das Licht für Fotos am Hafen am besten.",
             "hu": "Kora reggel a legszebbek a fények a kikötői fotókhoz.",
             "ro": "Dimineața devreme lumina este cea mai bună pentru fotografii în port.",
-            "en": "Early morning light is best for harbor photography."
+            "en": "Early morning light is best for harbor photography.",
+            "fr": "La lumière du matin est idéale pour photographier le port."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die Decke, die wie ein umgedrehter Schiffsrumpf aussieht.",
             "hu": "Csodálja meg a mennyezetet, amely úgy néz ki, mint egy felfordított hajótest.",
             "ro": "Admirați tavanul care arată ca o cocă de navă inversată.",
-            "en": "Admire the ceiling which looks like an upturned ship hull."
+            "en": "Admire the ceiling which looks like an upturned ship hull.",
+            "fr": "Admirez le plafond en forme de coque de bateau renversée."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Entdecken Sie die Werke des Lehrers von Claude Monet.",
             "hu": "Fedezze fel Claude Monet tanárának alkotásait.",
             "ro": "Descoperiți lucrările profesorului lui Claude Monet.",
-            "en": "Discover the works of Claude Monet's teacher."
+            "en": "Discover the works of Claude Monet's teacher.",
+            "fr": "Découvrez les œuvres du maître de Claude Monet."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie frische Miesmuscheln mit Blick auf den Hafen.",
             "hu": "Kóstolja meg a friss kagylót a kikötőre néző teraszon.",
             "ro": "Gustați scoici proaspete cu vedere la port.",
-            "en": "Try fresh mussels with a view of the harbor."
+            "en": "Try fresh mussels with a view of the harbor.",
+            "fr": "Dégustez des moules fraîches face au bassin."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Suchen Sie die Büsten berühmter Bewohner wie Erik Satie.",
             "hu": "Keresse meg a híres lakók, például Erik Satie mellszobrait.",
             "ro": "Căutați busturile locuitorilor celebri precum Erik Satie.",
-            "en": "Look for the busts of famous residents like Erik Satie."
+            "en": "Look for the busts of famous residents like Erik Satie.",
+            "fr": "Cherchez les bustes d'habitants célèbres comme Erik Satie."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Genießen Sie den Panoramablick auf die Seine-Mündung.",
             "hu": "Élvezze a panorámás kilátást a Szajna torkolatára.",
             "ro": "Bucurați-vă de vederea panoramică asupra estuarului Senei.",
-            "en": "Enjoy the panoramic view of the Seine estuary."
+            "en": "Enjoy the panoramic view of the Seine estuary.",
+            "fr": "Profitez du panorama sur l'estuaire de la Seine."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag am ikonischen Vieux Bassin, dem Herzen von Honfleur. Bewundern Sie die hölzerne Architektur der Sainte-Catherine Kirche und tauchen Sie im Boudin-Museum in die Kunst ein. Nach einem Mittagessen am Kai spazieren Sie durch den Garten der Persönlichkeiten. Beenden Sie die Tour mit einem Aufstieg zur Kapelle Notre-Dame de Grâce für eine spektakuläre Aussicht auf die Normandie-Brücke.",
         "hu": "Kezdje a napot az ikonikus Vieux Bassin kikötőnél, Honfleur szívében. Csodálja meg a Sainte-Catherine templom különleges faépítészetét, majd merüljön el a művészetben a Boudin Múzeumban. A kikötőparti ebéd után sétáljon végig a Hírességek Kertjén. A túrát a Notre-Dame de Grâce kápolnához való felkapaszkodással zárja, ahonnan pazar kilátás nyílik a Normandia-hídra.",
         "ro": "Începeți ziua la emblematicul Vieux Bassin, inima orașului Honfleur. Admirați arhitectura din lemn a bisericii Sainte-Catherine și explorați arta la Muzeul Boudin. După un prânz pe chei, plimbați-vă prin Grădina Personalităților. Încheiați turul cu o urcare la capela Notre-Dame de Grâce pentru o vedere spectaculoasă asupra podului Normandia.",
-        "en": "Start your day at the iconic Vieux Bassin, the heart of Honfleur. Admire the unique wooden architecture of Sainte-Catherine Church and dive into art at the Boudin Museum. After a harbor-side lunch, stroll through the Garden of Personalities. End the tour by climbing up to the Notre-Dame de Grâce chapel for a spectacular view of the Normandy Bridge."
+        "en": "Start your day at the iconic Vieux Bassin, the heart of Honfleur. Admire the unique wooden architecture of Sainte-Catherine Church and dive into art at the Boudin Museum. After a harbor-side lunch, stroll through the Garden of Personalities. End the tour by climbing up to the Notre-Dame de Grâce chapel for a spectacular view of the Normandy Bridge.",
+        "fr": "Commencez votre journée au Vieux Bassin, le cœur emblématique de Honfleur. Admirez l'architecture en bois unique de l'église Sainte-Catherine et plongez dans l'art au musée Boudin. Après un déjeuner sur le port, flânez dans le Jardin des Personnalités. Terminez la visite en montant à la chapelle Notre-Dame de Grâce pour une vue spectaculaire sur le pont de Normandie."
       },
       "gastro_picks": {
         "de": [
@@ -170,6 +177,16 @@
           {
             "name": "Normandy Cider",
             "tip": "Refreshing local apple cider."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Moules fraîches à la marinière sur le port."
+          },
+          {
+            "name": "Cidre de Normandie",
+            "tip": "Cidre de pomme local rafraîchissant."
           }
         ]
       },
@@ -221,6 +238,18 @@
             "tip": "A peaceful park away from the crowds.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Chapelle Notre-Dame de Grâce",
+            "tip": "Un coin paisible avec vue sur la mer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Personnalités",
+            "tip": "Un parc tranquille à l'écart de l'agitation.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -263,6 +292,16 @@
             "name": "Antique shops",
             "tip": "In the alleys behind the harbor."
           }
+        ],
+        "fr": [
+          {
+            "name": "La Compagnie des Terroirs",
+            "tip": "Produits locaux comme le Calvados et le caramel."
+          },
+          {
+            "name": "Antiquaires",
+            "tip": "Dans les ruelles derrière le port."
+          }
         ]
       },
       "tips": {
@@ -289,6 +328,12 @@
           "Central parking fills up quickly, use the peripheral lots.",
           "Be sure to try the galettes in the small creperies.",
           "Visit during the week to avoid the weekend crowds."
+        ],
+        "fr": [
+          "Honfleur est très pavée, prévoyez des chaussures confortables.",
+          "Les parkings du centre se remplissent vite, utilisez les parkings périphériques.",
+          "Goûtez absolument aux galettes dans les petites crêperies.",
+          "Privilégiez une visite en semaine pour éviter la foule du week-end."
         ]
       },
       "variants": {
@@ -521,7 +566,8 @@
             "de": "Morgens spiegeln sich die Schieferdächer im nassen Pflaster des Vieux Bassin. Die Holzkirche Sainte-Catherine bietet perfekten Schutz vor den Schauern. Mittags genießen Sie die Kunst im Musée Eugène Boudin, während es draußen regnet. Der Nachmittag im Garten ist kurz, gefolgt von einem stimmungsvollen Aufstieg zur Kapelle. Den Abend lassen Sie in einem gemütlichen Bistro am Kai ausklingen.",
             "hu": "Reggel a pala tetők tükröződnek a Vieux Bassin vizes kövein. A Szent Katalin fatemplom tökéletes menedéket nyújt a záporok elől. Délben az Eugène Boudin Múzeum műalkotásai között bújhat el az eső elől. A délutáni kerti séta rövid lesz, majd hangulatos út vezet fel a kápolnához. Az estét egy vízparti bisztró melegében, a kikötő fényeit nézve zárhatja.",
             "ro": "Dimineața, acoperișurile de ardezie se reflectă în pavajul umed din Vieux Bassin. Biserica de lemn Sfânta Ecaterina oferă adăpostul perfect împotriva averselor. La prânz, admirați arta la Muzeul Eugène Boudin în timp ce afară plouă. După-amiaza în grădină va fi scurtă, urmată de o urcare atmosferică spre capelă. Seara se încheie într-un bistro primitor pe chei.",
-            "en": "In the morning, slate roofs reflect in the wet pavement of the Vieux Bassin. The wooden Sainte-Catherine church provides perfect shelter from showers. At noon, enjoy the art in the Eugène Boudin Museum while it rains outside. The afternoon in the garden will be brief, followed by an atmospheric walk to the chapel. End the evening in a cozy bistro by the quay."
+            "en": "In the morning, slate roofs reflect in the wet pavement of the Vieux Bassin. The wooden Sainte-Catherine church provides perfect shelter from showers. At noon, enjoy the art in the Eugène Boudin Museum while it rains outside. The afternoon in the garden will be brief, followed by an atmospheric walk to the chapel. End the evening in a cozy bistro by the quay.",
+            "fr": "Le matin, les toits d'ardoise se reflètent sur les pavés mouillés du Vieux Bassin. L'église en bois Sainte-Catherine offre un abri parfait contre les averses. À midi, profitez des collections du musée Eugène Boudin pendant qu'il pleut dehors. La promenade au jardin sera brève, suivie d'une montée atmosphérique vers la chapelle. Finissez la soirée dans un bistro chaleureux sur le quai."
           },
           "stops": [
             {
@@ -530,7 +576,8 @@
                 "de": "Die nassen Kopfsteinpflaster sind rutschig; tragen Sie festes Schuhwerk für den Hafenrundgang.",
                 "hu": "A vizes macskakő csúszós; viseljen tapadós talpú cipőt a kikötői séta során.",
                 "ro": "Pavajul umed este alunecos; purtați încălțăminte aderentă pentru plimbarea în port.",
-                "en": "Wet cobblestones are slippery; wear sturdy shoes for the harbor walk."
+                "en": "Wet cobblestones are slippery; wear sturdy shoes for the harbor walk.",
+                "fr": "Les pavés mouillés glissent ; portez de bonnes chaussures pour le port."
               }
             },
             {
@@ -539,7 +586,8 @@
                 "de": "Ein idealer Ort, um einen starken Regenschauer unter dem historischen Holzdach abzuwarten.",
                 "hu": "Ideális hely egy erős zápor átvészelésére a történelmi fatető alatt.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse sub acoperișul istoric de lemn.",
-                "en": "An ideal place to wait out a heavy rain shower under the historic wooden roof."
+                "en": "An ideal place to wait out a heavy rain shower under the historic wooden roof.",
+                "fr": "Un endroit idéal pour attendre la fin d'une averse sous la charpente historique."
               }
             },
             {
@@ -548,7 +596,8 @@
                 "de": "Nutzen Sie die Garderobe für nasse Mäntel und Regenschirme vor dem Museumsbesuch.",
                 "hu": "Használja a ruhatárat a vizes kabátok és esernyők elhelyezésére a múzeumlátogatás előtt.",
                 "ro": "Folosiți garderoba pentru haine umede și umbrele înainte de vizitarea muzeului.",
-                "en": "Use the cloakroom for wet coats and umbrellas before visiting the museum galleries."
+                "en": "Use the cloakroom for wet coats and umbrellas before visiting the museum galleries.",
+                "fr": "Utilisez le vestiaire pour vos manteaux et parapluies mouillés avant la visite."
               }
             },
             {
@@ -557,7 +606,8 @@
                 "de": "Wählen Sie ein Restaurant mit überdachter Terrasse oder Innenplätzen mit Blick auf das Becken.",
                 "hu": "Válasszon fedett teraszos vagy beltéri asztalt, ahonnan rálátni a kikötőmedencére.",
                 "ro": "Alegeți un restaurant cu terasă acoperită sau locuri în interior cu vedere la bazin.",
-                "en": "Choose a restaurant with a covered terrace or indoor seating overlooking the basin."
+                "en": "Choose a restaurant with a covered terrace or indoor seating overlooking the basin.",
+                "fr": "Choisissez un restaurant avec terrasse couverte ou salle vue sur le bassin."
               }
             },
             {
@@ -566,7 +616,8 @@
                 "de": "Die Pfade können matschig sein; bleiben Sie auf den befestigten Wegen zwischen den Büsten.",
                 "hu": "Az ösvények sárosak lehetnek; maradjon a szilárd burkolatú utakon a szobrok között.",
                 "ro": "Potecile pot fi noroioase; rămâneți pe traseele pavate printre busturi.",
-                "en": "Paths can be muddy; stay on the paved walkways between the statues."
+                "en": "Paths can be muddy; stay on the paved walkways between the statues.",
+                "fr": "Les sentiers peuvent être boueux ; restez sur les allées pavées entre les statues."
               }
             },
             {
@@ -575,7 +626,8 @@
                 "de": "Die Bäume auf dem Weg bieten etwas Schutz, aber oben ist es bei Wind und Regen sehr exponiert.",
                 "hu": "Az út menti fák adnak némi védelmet, de fent a szél és eső erősen érezhető.",
                 "ro": "Copacii de pe drum oferă protecție, dar sus este expus la vânt și ploaie.",
-                "en": "Trees along the way offer some cover, but it is very exposed to wind and rain at the top."
+                "en": "Trees along the way offer some cover, but it is very exposed to wind and rain at the top.",
+                "fr": "Les arbres offrent un peu d'abri, mais le sommet est très exposé au vent et à la pluie."
               }
             }
           ],
@@ -607,6 +659,13 @@
               "Watch out for rain gutters on old houses that often drain directly onto the sidewalk.",
               "Warm Calvados tastings are particularly cozy during rainy weather.",
               "The tourist office on the quay provides free maps showing covered passages."
+            ],
+            "fr": [
+              "Portez un bon imperméable, car le vent de la Manche casse souvent les parapluies.",
+              "Les nombreuses galeries d'art des ruelles sont des refuges parfaits au sec.",
+              "Attention aux gargouilles des vieilles maisons qui se déversent parfois sur le trottoir.",
+              "Une dégustation de Calvados chaud est particulièrement réconfortante par temps de pluie.",
+              "L'office de tourisme sur le quai propose des plans montrant les passages couverts."
             ]
           }
         },
@@ -615,7 +674,8 @@
             "de": "Ein klarer Wintermorgen am dampfenden Hafenbecken beginnt erfrischend. Der Besuch der Sainte-Catherine Kirche wärmt den Geist. Mittags wärmen Sie sich im Museum bei den Werken der Impressionisten auf. Der Nachmittag bietet einen goldenen Sonnenuntergang am Jardin des Personnalités. Den Tag beenden Sie bei Kerzenschein und lokaler Küche in der Altstadt.",
             "hu": "A ködösen gőzölgő kikötőmedence látványa frissítő téli reggelt ígér. A Szent Katalin templom látogatása megnyugtatja a lelket. Délben a múzeumban, az impresszionisták művei között melegedhet fel. A délután aranyló naplementét kínál a Jardin des Personnalités kertjében. A napot gyertyafényes vacsorával zárhatja az óvárosban.",
             "ro": "O dimineață senină de iarnă lângă bazinul aburind începe revigorant. Vizita la biserica Sainte-Catherine încălzește spiritul. La prânz, încălziți-vă în muzeu printre lucrările impresioniștilor. După-amiaza oferă un apus auriu la Jardin des Personnalités. Încheiați ziua la lumina lumânărilor cu bucătărie locală în centrul vechi.",
-            "en": "A crisp winter morning by the steaming harbor basin begins refreshingly. A visit to Sainte-Catherine church warms the spirit. At noon, warm up in the museum among Impressionist works. The afternoon offers a golden sunset at the Jardin des Personnalités. End the day by candlelight with local cuisine in the old town."
+            "en": "A crisp winter morning by the steaming harbor basin begins refreshingly. A visit to Sainte-Catherine church warms the spirit. At noon, warm up in the museum among Impressionist works. The afternoon offers a golden sunset at the Jardin des Personnalités. End the day by candlelight with local cuisine in the old town.",
+            "fr": "Un matin d'hiver frais près du bassin fumant commence de façon tonifiante. La visite de l'église Sainte-Catherine réchauffe l'esprit. À midi, réchauffez-vous au musée parmi les œuvres impressionnistes. L'après-midi offre un coucher de soleil doré au Jardin des Personnalités. Terminez la journée aux chandelles avec la cuisine locale dans la vieille ville."
           },
           "stops": [
             {
@@ -624,7 +684,8 @@
                 "de": "Genießen Sie die Ruhe ohne die Sommermassen und das besondere Licht auf dem Wasser.",
                 "hu": "Élvezze a csendet a nyári tömeg nélkül és a vízen megcsillanó különleges téli fényeket.",
                 "ro": "Bucurați-vă de liniștea fără mulțimile de vară și de lumina specială de pe apă.",
-                "en": "Enjoy the silence without summer crowds and the unique winter light on the water."
+                "en": "Enjoy the silence without summer crowds and the unique winter light on the water.",
+                "fr": "Profitez du silence sans la foule estivale et de la lumière hivernale sur l'eau."
               }
             },
             {
@@ -633,7 +694,8 @@
                 "de": "Die Holzkirche kann im Winter recht kühl sein; behalten Sie Ihren Mantel an.",
                 "hu": "A fatemplom télen elég hűvös lehet; ne vegye le a kabátját a látogatás alatt.",
                 "ro": "Biserica de lemn poate fi destul de răcoroasă iarna; păstrați-vă haina pe dvs.",
-                "en": "The wooden church can be quite chilly in winter; keep your coat on during the visit."
+                "en": "The wooden church can be quite chilly in winter; keep your coat on during the visit.",
+                "fr": "L'église en bois peut être froide en hiver ; gardez votre manteau pendant la visite."
               }
             },
             {
@@ -642,7 +704,8 @@
                 "de": "Ein perfekt beheizter Ort, um die Meereslandschaften ohne Zugluft zu bewundern.",
                 "hu": "Tökéletesen fűtött hely a tengerparti tájképek megcsodálására a huzatmentes szobákban.",
                 "ro": "Un loc perfect încălzit pentru a admira peisajele marine fără curenți de aer.",
-                "en": "A perfectly heated place to admire seascapes without the winter draft."
+                "en": "A perfectly heated place to admire seascapes without the winter draft.",
+                "fr": "Un lieu parfaitement chauffé pour admirer les marines sans les courants d'air."
               }
             },
             {
@@ -651,7 +714,8 @@
                 "de": "Bestellen Sie eine 'Soupe à l'oignon' (Zwiebelsuppe), um sich für den Nachmittag aufzuwärmen.",
                 "hu": "Rendeljen egy hagymalevest (Soupe à l'oignon), hogy felmelegedjen a délután előtt.",
                 "ro": "Comandați o supă de ceapă (Soupe à l'oignon) pentru a vă încălzi înainte de după-amiază.",
-                "en": "Order an onion soup (Soupe à l'oignon) to warm up for the rest of the day."
+                "en": "Order an onion soup (Soupe à l'oignon) to warm up for the rest of the day.",
+                "fr": "Commandez une soupe à l'oignon pour vous réchauffer pour la suite de la journée."
               }
             },
             {
@@ -660,7 +724,8 @@
                 "de": "Der Sonnenuntergang ist hier gegen 17:00 Uhr besonders malerisch über der Mündung.",
                 "hu": "A naplemente 17:00 körül különösen festői innen a folyótorkolat felett.",
                 "ro": "Apusul este deosebit de pitoresc aici, în jurul orei 17:00, deasupra estuarului.",
-                "en": "Sunset is particularly picturesque here around 17:00 over the estuary."
+                "en": "Sunset is particularly picturesque here around 17:00 over the estuary.",
+                "fr": "Le coucher de soleil est particulièrement pittoresque ici vers 17h00 sur l'estuaire."
               }
             },
             {
@@ -669,7 +734,8 @@
                 "de": "Der Weg nach oben hält Sie warm, aber oben bläst oft ein eisiger Seewind.",
                 "hu": "A felfelé vezető út melegen tartja, de fent gyakran fúj a jeges tengeri szél.",
                 "ro": "Urcarea vă va ține de cald, dar sus suflă adesea un vânt marin înghețat.",
-                "en": "The walk up will keep you warm, but an icy sea breeze often blows at the top."
+                "en": "The walk up will keep you warm, but an icy sea breeze often blows at the top.",
+                "fr": "La montée vous réchauffera, mais une brise marine glaciale souffle souvent au sommet."
               }
             }
           ],
@@ -701,6 +767,13 @@
               "Many cafes offer spiced hot cider (Cidre chaud) during the winter months.",
               "Christmas lights at the harbor are a must-see from late November.",
               "Cobblestones can be very slippery during frost; be careful near the quay edges."
+            ],
+            "fr": [
+              "Superposez les couches et prévoyez des vêtements coupe-vent pour le bord de mer.",
+              "Le soleil se couche tôt (env. 17h00) ; prévoyez les sorties en extérieur le matin.",
+              "Beaucoup de cafés proposent du cidre chaud épicé pendant les mois d'hiver.",
+              "Les illuminations de Noël sur le port sont incontournables dès fin novembre.",
+              "Les pavés peuvent être très glissants en cas de gel ; prudence au bord du quai."
             ]
           }
         }
@@ -729,7 +802,8 @@
             "de": "Schieben Sie das Rad am Hafenbecken.",
             "hu": "Tolja a biciklit a kikötő medencéje mellett.",
             "ro": "Împingeți bicicleta pe lângă bazinul portului.",
-            "en": "Push your bike along the harbor basin."
+            "en": "Push your bike along the harbor basin.",
+            "fr": "Poussez votre vélo le long du bassin du port."
           }
         },
         {
@@ -747,7 +821,8 @@
             "de": "Schöne Radwege führen hier am Wasser entlang.",
             "hu": "Szép kerékpárutak vezetnek itt a víz mentén.",
             "ro": "Piste frumoase de biciclete duc pe lângă apă.",
-            "en": "Beautiful bike paths lead here along the water."
+            "en": "Beautiful bike paths lead here along the water.",
+            "fr": "De belles pistes cyclables mènent ici au bord de l'eau."
           }
         },
         {
@@ -765,7 +840,8 @@
             "de": "Ideal für eine Pause mit Blick auf das Meer.",
             "hu": "Ideális egy szünetre a tengerre néző kilátással.",
             "ro": "Ideal pentru o pauză cu vedere la mare.",
-            "en": "Ideal for a break with a sea view."
+            "en": "Ideal for a break with a sea view.",
+            "fr": "Idéal pour une pause avec vue sur la mer."
           }
         },
         {
@@ -783,7 +859,8 @@
             "de": "Ein schöner Fotostopp am Leuchtturm.",
             "hu": "Szép fotómegálló a világítótoronynál.",
             "ro": "O oprire frumoasă pentru fotografii la far.",
-            "en": "A nice photo stop at the lighthouse."
+            "en": "A nice photo stop at the lighthouse.",
+            "fr": "Un bel arrêt photo près du phare."
           }
         },
         {
@@ -801,7 +878,8 @@
             "de": "Achtung, steiler Anstieg zur Kapelle!",
             "hu": "Vigyázat, meredek emelkedő a kápolnáig!",
             "ro": "Atenție, urcare abruptă spre capelă!",
-            "en": "Watch out, steep climb to the chapel!"
+            "en": "Watch out, steep climb to the chapel!",
+            "fr": "Attention, montée raide vers la chapelle !"
           }
         },
         {
@@ -819,7 +897,8 @@
             "de": "Belohnen Sie sich mit einem Eis.",
             "hu": "Jutalmazza meg magát egy fagyival.",
             "ro": "Răsplătiți-vă cu o înghețată.",
-            "en": "Reward yourself with an ice cream."
+            "en": "Reward yourself with an ice cream.",
+            "fr": "Récompensez-vous avec une glace."
           }
         }
       ],
@@ -827,7 +906,8 @@
         "de": "Erkunden Sie Honfleur und seine Umgebung mit dem Fahrrad. Radeln Sie vom Hafen zum Strand und weiter zum Leuchtturm. Der anspruchsvollste Teil ist der Anstieg zur Côte de Grâce, aber der Ausblick belohnt jede Mühe. Die Route führt Sie durch Parks und entlang der Küste, weit weg vom Trubel der Innenstadt.",
         "hu": "Fedezze fel Honfleurt és környékét kerékpárral. Tekerjen a kikötőtől a strandig, majd tovább a világítótoronyhoz. A legnehezebb rész a Côte de Grâce emelkedője, de a kilátás kárpótol minden fáradtságért. Az útvonal parkokon és a part mentén vezet, távol a belváros zsúfoltságától.",
         "ro": "Explorați Honfleur și împrejurimile sale cu bicicleta. Pedalați de la port la plajă și apoi la far. Cea mai dificilă parte este urcarea spre Côte de Grâce, dar priveliștea merită efortul. Traseul vă poartă prin parcuri și de-a lungul coastei, departe de agitația centrului.",
-        "en": "Explore Honfleur and its surroundings by bike. Cycle from the harbor to the beach and on to the lighthouse. The most challenging part is the climb to Côte de Grâce, but the view rewards every effort. The route takes you through parks and along the coast, away from the hustle and bustle of the town center."
+        "en": "Explore Honfleur and its surroundings by bike. Cycle from the harbor to the beach and on to the lighthouse. The most challenging part is the climb to Côte de Grâce, but the view rewards every effort. The route takes you through parks and along the coast, away from the hustle and bustle of the town center.",
+        "fr": "Explorez Honfleur et ses environs à vélo. Pédalez du port vers la plage puis vers le phare. La partie la plus difficile est la montée vers la Côte de Grâce, mais la vue récompense tous les efforts. L'itinéraire traverse des parcs et longe la côte, loin de l'agitation du centre-ville."
       },
       "gastro_picks": {
         "de": [
@@ -868,6 +948,16 @@
           {
             "name": "Artisanal Cider",
             "tip": "Buy directly from the producer."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Glaces de la Ferme",
+            "tip": "Glaces artisanales au lait local."
+          },
+          {
+            "name": "Cidre Artisanal",
+            "tip": "Achetez directement chez le producteur."
           }
         ]
       },
@@ -919,6 +1009,18 @@
             "tip": "Forest paths above the town.",
             "emoji": "🌳"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plage du Butin",
+            "tip": "Section de plage calme en lisière de ville.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Bois de la Côte",
+            "tip": "Sentiers forestiers surplombant la ville.",
+            "emoji": "🌳"
+          }
         ]
       },
       "shopping_picks": {
@@ -945,6 +1047,12 @@
             "name": "Marché Bio",
             "tip": "Organic market on Saturday mornings."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché Bio",
+            "tip": "Marché biologique le samedi matin."
+          }
         ]
       },
       "tips": {
@@ -967,6 +1075,11 @@
           "Rent e-bikes for the climb to the chapel.",
           "The coastal road can be windy.",
           "Park your bike securely at the harbor."
+        ],
+        "fr": [
+          "Louez des vélos électriques pour faciliter la montée vers la chapelle.",
+          "La route côtière peut être très venteuse.",
+          "Garez votre vélo de manière sécurisée sur le port."
         ]
       },
       "variants": {
@@ -1179,7 +1292,8 @@
             "de": "Starten Sie vorsichtig am regnerischen Vieux Bassin. Die Fahrt zum Garten ist kurz und bietet Schutz unter Bäumen. Am Strand peitscht der Regen, was die Natur wild und dramatisch wirken lässt. Ein kurzer Halt am Leuchtturm, dann geht es bergauf zur Côte de Grâce. Mittags wärmen Sie sich in einem Café auf, bevor Sie durch die nassen Gassen zurückkehren.",
             "hu": "Óvatosan induljon a szemerkélő esőben a Vieux Bassin mellől. A kertig tartó út rövid, a fák némi védelmet nyújtanak. A strandon vad és drámai a természet az esőben. Rövid megálló a világítótoronynál, majd irány felfelé a Côte de Grâce-hoz. Délben melegedjen fel egy kávézóban, mielőtt visszatérne a vizes utcákon.",
             "ro": "Porniți cu atenție din Vieux Bassin pe ploaie. Drumul spre grădină este scurt și oferă adăpost sub copaci. Pe plajă, natura pare sălbatică și dramatică sub ploaie. O scurtă oprire la far, apoi urcați spre Côte de Grâce. La prânz, încălziți-vă într-o cafenea înainte de a reveni pe străzile umede.",
-            "en": "Start carefully by the rainy Vieux Bassin. The ride to the garden is short and offers some tree cover. At the beach, the rain makes nature feel wild and dramatic. A brief stop at the lighthouse, then uphill to Côte de Grâce. At noon, warm up in a cafe before returning through the wet streets."
+            "en": "Start carefully by the rainy Vieux Bassin. The ride to the garden is short and offers some tree cover. At the beach, the rain makes nature feel wild and dramatic. A brief stop at the lighthouse, then uphill to Côte de Grâce. At noon, warm up in a cafe before returning through the wet streets.",
+            "fr": "Commencez prudemment par le Vieux Bassin sous la pluie. Le trajet vers le jardin est court et offre un peu d'abri sous les arbres. À la plage, la pluie rend la nature sauvage et dramatique. Un bref arrêt au phare, puis montée vers la Côte de Grâce. À midi, réchauffez-vous dans un café avant de rentrer par les rues mouillées."
           },
           "stops": [
             {
@@ -1188,7 +1302,8 @@
                 "de": "Vorsicht beim Anfahren; nasse Metallschienen und Kopfsteinpflaster sind extrem rutschig.",
                 "hu": "Vigyázzon induláskor; a vizes fémsínek és macskakövek rendkívül csúszósak.",
                 "ro": "Atenție la plecare; șinele metalice umede și pavajul sunt extrem de alunecoase.",
-                "en": "Be careful when starting; wet metal rails and cobblestones are extremely slippery."
+                "en": "Be careful when starting; wet metal rails and cobblestones are extremely slippery.",
+                "fr": "Attention au départ ; les rails métalliques et pavés mouillés sont extrêmement glissants."
               }
             },
             {
@@ -1197,7 +1312,8 @@
                 "de": "Parken Sie Ihr Rad unter dem Vordach am Eingang, um den Sattel trocken zu halten.",
                 "hu": "Parkolja le a bringát a bejáratnál lévő előtető alatt, hogy száraz maradjon a nyereg.",
                 "ro": "Parcați bicicleta sub copertina de la intrare pentru a păstra șaua uscată.",
-                "en": "Park your bike under the overhang at the entrance to keep the saddle dry."
+                "en": "Park your bike under the overhang at the entrance to keep the saddle dry.",
+                "fr": "Garez votre vélo sous l'auvent à l'entrée pour garder la selle au sec."
               }
             },
             {
@@ -1206,7 +1322,8 @@
                 "de": "Der Wind am Meer kann stark sein; halten Sie den Lenker fest und meiden Sie tiefe Pfützen.",
                 "hu": "A tengerparti szél erős lehet; fogja szorosan a kormányt és kerülje a mély tócsákat.",
                 "ro": "Vântul la mare poate fi puternic; țineți bine ghidonul și evitați bălțile adânci.",
-                "en": "Seaside winds can be strong; hold the handlebars firmly and avoid deep puddles."
+                "en": "Seaside winds can be strong; hold the handlebars firmly and avoid deep puddles.",
+                "fr": "Les vents marins peuvent être forts ; tenez bien le guidon et évitez les grandes flaques."
               }
             },
             {
@@ -1215,7 +1332,8 @@
                 "de": "Kurzer Fotostopp; der Weg hierher ist exponiert, nutzen Sie wasserfeste Handschuhe.",
                 "hu": "Gyors fotómegálló; az idevezető út nyitott, használjon vízálló kesztyűt.",
                 "ro": "Oprire scurtă pentru poze; drumul este expus, folosiți mănuși impermeabile.",
-                "en": "Brief photo stop; the path here is exposed, use waterproof gloves."
+                "en": "Brief photo stop; the path here is exposed, use waterproof gloves.",
+                "fr": "Bref arrêt photo ; le sentier ici est exposé, prévoyez des gants imperméables."
               }
             },
             {
@@ -1224,7 +1342,8 @@
                 "de": "Schalten Sie in einen niedrigen Gang; der nasse Asphalt erfordert kontrolliertes Treten.",
                 "hu": "Váltson alacsony fokozatba; a vizes aszfalt kontrollált tekerést igényel a lejtőn.",
                 "ro": "Schimbați într-o viteză mică; asfaltul umed necesită pedalare controlată pe pantă.",
-                "en": "Shift to a low gear; wet asphalt requires controlled pedaling on the climb."
+                "en": "Shift to a low gear; wet asphalt requires controlled pedaling on the climb.",
+                "fr": "Passez sur un petit braquet ; l'asphalte mouillé demande un pédalage contrôlé en montée."
               }
             },
             {
@@ -1233,7 +1352,8 @@
                 "de": "Nutzen Sie die Fahrradständer in der Nähe der Restaurants mit Markisen.",
                 "hu": "Használja az éttermek közelében lévő kerékpártámaszokat az árnyékolók alatt.",
                 "ro": "Folosiți suporturile de biciclete de lângă restaurantele cu copertine.",
-                "en": "Use the bike racks near restaurants that have awnings for extra cover."
+                "en": "Use the bike racks near restaurants that have awnings for extra cover.",
+                "fr": "Utilisez les arceaux près des restaurants dotés de stores pour plus d'abri."
               }
             }
           ],
@@ -1265,6 +1385,13 @@
               "Wear high-visibility rain gear for better safety in gloomy weather.",
               "A plastic bag over the saddle while parked works wonders.",
               "Avoid coastal paths during heavy rain due to potential sea spray."
+            ],
+            "fr": [
+              "Utilisez des garde-boue pour éviter les éclaboussures sur vos vêtements.",
+              "Vérifiez vos freins avant de descendre la Côte de Grâce ; la distance de freinage est plus longue.",
+              "Portez des vêtements de pluie haute visibilité pour plus de sécurité par temps gris.",
+              "Un sac plastique sur la selle pendant le stationnement fait des merveilles.",
+              "Évitez les sentiers côtiers en cas de forte pluie à cause des embruns."
             ]
           }
         },
@@ -1273,7 +1400,8 @@
             "de": "Ein frostiger Morgen beginnt am Hafen. Die Fahrt zum Jardin des Personnalités lässt den Atem gefrieren, bietet aber klare Sicht. Am Strand weht eine eisige Brise, perfekt für eine kurze, belebende Runde. Der Aufstieg zur Côte de Grâce bringt den Kreislauf in Schwung. Den Abschluss bildet ein heißes Getränk auf der Place Sainte-Catherine in der Wintersonne.",
             "hu": "Fagyos reggel indul a kikötőben. A kertig tartó tekerés közben látszik a lehelete, de a kilátás tiszta. A strandon jeges szellő fúj, tökéletes egy rövid, frissítő körre. A Côte de Grâce-ra való feltekerés felpezsdíti a vérkeringést. A túrát egy forró ital zárja a Szent Katalin téren a téli napsütésben.",
             "ro": "O dimineață geroasă începe în port. Drumul spre grădină vă face respirația vizibilă, dar oferă o vedere clară. Pe plajă suflă o briză înghețată, perfectă pentru o tură scurtă revigorantă. Urcarea spre Côte de Grâce vă va pune sângele în mișcare. Finalul aduce o băutură caldă în Place Sainte-Catherine la soarele de iarnă.",
-            "en": "A frosty morning starts at the harbor. The ride to the garden freezes your breath but offers clear views. At the beach, an icy breeze blows, perfect for a short, invigorating circuit. The climb to Côte de Grâce gets your circulation going. End with a hot drink at Place Sainte-Catherine in the winter sun."
+            "en": "A frosty morning starts at the harbor. The ride to the garden freezes your breath but offers clear views. At the beach, an icy breeze blows, perfect for a short, invigorating circuit. The climb to Côte de Grâce gets your circulation going. End with a hot drink at Place Sainte-Catherine in the winter sun.",
+            "fr": "Un matin givré débute au port. Le trajet vers le jardin gèle le souffle mais offre des vues dégagées. À la plage, une brise glaciale souffle, parfaite pour un petit circuit tonifiant. La montée vers la Côte de Grâce stimule la circulation. Finissez par une boisson chaude place Sainte-Catherine sous le soleil d'hiver."
           },
           "stops": [
             {
@@ -1282,7 +1410,8 @@
                 "de": "Achten Sie auf Raureif auf den Holzstegen rund um das Becken.",
                 "hu": "Ügyeljen a zúzmarára a medence körüli fapallókon.",
                 "ro": "Atenție la chiciură pe podurile de lemn din jurul bazinului.",
-                "en": "Watch out for hoarfrost on the wooden walkways around the basin."
+                "en": "Watch out for hoarfrost on the wooden walkways around the basin.",
+                "fr": "Attention au givre sur les passerelles en bois autour du bassin."
               }
             },
             {
@@ -1291,7 +1420,8 @@
                 "de": "Die Statuen wirken im Frost besonders skulptural; ideal für Fotos.",
                 "hu": "A szobrok a zúzmarában különösen látványosak; ideális fotótéma.",
                 "ro": "Statuile par deosebit de sculpturale în îngheț; ideal pentru fotografii.",
-                "en": "The statues look especially sculptural in the frost; ideal for photos."
+                "en": "The statues look especially sculptural in the frost; ideal for photos.",
+                "fr": "Les statues ont un aspect particulièrement sculptural sous le gel ; idéal pour les photos."
               }
             },
             {
@@ -1300,7 +1430,8 @@
                 "de": "Bleiben Sie in Bewegung, um nicht auszukühlen; der Wind ist hier am stärksten.",
                 "hu": "Maradjon mozgásban, hogy ne hűljön ki; itt a legerősebb a szél.",
                 "ro": "Rămâneți în mișcare pentru a nu îngheța; vântul este cel mai puternic aici.",
-                "en": "Keep moving to stay warm; the wind is strongest here by the open water."
+                "en": "Keep moving to stay warm; the wind is strongest here by the open water.",
+                "fr": "Restez en mouvement pour ne pas avoir froid ; le vent est fort ici au bord de l'eau."
               }
             },
             {
@@ -1309,7 +1440,8 @@
                 "de": "Klarste Sicht auf Le Havre; nutzen Sie den Halt für eine kurze Dehnung.",
                 "hu": "Tiszta kilátás Le Havre-ra; használja a megállót egy rövid nyújtásra.",
                 "ro": "Cea mai clară vedere spre Le Havre; folosiți oprirea pentru o scurtă întindere.",
-                "en": "Clearest views toward Le Havre; use the stop for a quick warm-up stretch."
+                "en": "Clearest views toward Le Havre; use the stop for a quick warm-up stretch.",
+                "fr": "Vues très claires vers Le Havre ; profitez de l'arrêt pour un étirement rapide."
               }
             },
             {
@@ -1318,7 +1450,8 @@
                 "de": "Die Anstrengung wärmt; genießen Sie oben den Panoramablick über die Flussmündung.",
                 "hu": "A megerőltetés felmelegíti; élvezze fent a panorámát a folyótorkolatra.",
                 "ro": "Efortul vă va încălzi; bucurați-vă de panorama estuarului de sus.",
-                "en": "The effort will warm you up; enjoy the panoramic view over the estuary at the top."
+                "en": "The effort will warm you up; enjoy the panoramic view over the estuary at the top.",
+                "fr": "L'effort vous réchauffera ; profitez de la vue panoramique sur l'estuaire au sommet."
               }
             },
             {
@@ -1327,7 +1460,8 @@
                 "de": "Schließen Sie Ihr Rad ab und suchen Sie sich einen Platz nah am Heizstrahler.",
                 "hu": "Lakatolja le a bringát és keressen helyet a hősugárzók közelében.",
                 "ro": "Încuiați bicicleta și căutați un loc aproape de radiator.",
-                "en": "Lock your bike and find a spot close to a terrace heater."
+                "en": "Lock your bike and find a spot close to a terrace heater.",
+                "fr": "Attachez votre vélo et trouvez une place près d'un chauffage de terrasse."
               }
             }
           ],
@@ -1359,6 +1493,13 @@
               "Use the midday sun for the longer rides along the beach.",
               "A thermos of warm tea in the bottle cage is worth its weight in gold.",
               "Dusk starts early; make sure your bike lights are fully functional."
+            ],
+            "fr": [
+              "Portez des gants thermiques ; les doigts se refroidissent vite sur le guidon.",
+              "Vérifiez la pression des pneus ; l'air froid la fait légèrement baisser.",
+              "Profitez du soleil de midi pour les plus longues balades le long de la plage.",
+              "Un thermos de thé chaud dans le porte-bidon vaut de l'or.",
+              "La nuit tombe tôt ; assurez-vous que vos éclairages sont parfaitement fonctionnels."
             ]
           }
         }
@@ -1387,7 +1528,8 @@
             "de": "Nutzen Sie das Parkhaus am Hafen.",
             "hu": "Használja a kikötői parkolóházat.",
             "ro": "Folosiți parcarea de lângă port.",
-            "en": "Use the parking garage by the harbor."
+            "en": "Use the parking garage by the harbor.",
+            "fr": "Utilisez le parking couvert près du port."
           }
         },
         {
@@ -1405,7 +1547,8 @@
             "de": "Halten Sie am Aussichtspunkt vor der Mautstelle.",
             "hu": "Álljon meg a kilátópontnál a fizetőkapu előtt.",
             "ro": "Opriți-vă la punctul de belvedere înainte de stația de taxare.",
-            "en": "Stop at the viewpoint before the toll plaza."
+            "en": "Stop at the viewpoint before the toll plaza.",
+            "fr": "Arrêtez-vous au point de vue avant le péage."
           }
         },
         {
@@ -1423,7 +1566,8 @@
             "de": "Ein riesiges Tropenhaus mit Schmetterlingen.",
             "hu": "Hatalmas trópusi ház pillangókkal.",
             "ro": "O casă tropicală uriașă cu fluturi.",
-            "en": "A huge tropical house with butterflies."
+            "en": "A huge tropical house with butterflies.",
+            "fr": "Une immense serre tropicale avec des papillons."
           }
         },
         {
@@ -1441,7 +1585,8 @@
             "de": "Gutes Viertel für traditionelle Küche.",
             "hu": "Jó negyed a hagyományos konyhához.",
             "ro": "Cartier bun pentru bucătăria tradițională.",
-            "en": "Good district for traditional cuisine."
+            "en": "Good district for traditional cuisine.",
+            "fr": "Bon quartier pour la cuisine traditionnelle."
           }
         },
         {
@@ -1459,7 +1604,8 @@
             "de": "Kostenloser Parkplatz direkt an der Kapelle.",
             "hu": "Ingyenes parkoló közvetlenül a kápolnánál.",
             "ro": "Parcare gratuită chiar lângă capelă.",
-            "en": "Free parking right by the chapel."
+            "en": "Free parking right by the chapel.",
+            "fr": "Parking gratuit juste à côté de la chapelle."
           }
         },
         {
@@ -1477,7 +1623,8 @@
             "de": "Cider-Verkostung in einem echten Herrenhaus.",
             "hu": "Szider kóstolás egy igazi udvarházban.",
             "ro": "Degustare de cidru într-un conac adevărat.",
-            "en": "Cider tasting in a real manor house."
+            "en": "Cider tasting in a real manor house.",
+            "fr": "Dégustation de cidre dans un véritable manoir."
           }
         }
       ],
@@ -1485,7 +1632,8 @@
         "de": "Mit dem Auto erreichen Sie auch die Highlights außerhalb des Zentrums. Überqueren Sie die beeindruckende Normandie-Brücke und besuchen Sie das Schmetterlingshaus Naturospace. Nach dem Mittagessen fahren Sie zur Côte de Grâce und beenden den Tag bei einer Cider-Verkostung in einem nahegelegenen Apfelhain.",
         "hu": "Autóval a központon kívüli látnivalókat is elérheti. Keljen át a lenyűgöző Normandia-hídon, és látogassa meg a Naturospace pillangóházat. Ebéd után hajtson fel a Côte de Grâce-hoz, majd zárja a napot egy szider kóstolóval egy közeli almáskertben.",
         "ro": "Cu mașina puteți ajunge și la atracțiile din afara centrului. Treceți peste impresionantul pod Normandia și vizitați casa fluturilor Naturospace. După prânz, conduceți spre Côte de Grâce și încheiați ziua cu o degustare de cidru într-o livadă de meri din apropiere.",
-        "en": "By car, you can also reach the highlights outside the center. Cross the impressive Normandy Bridge and visit the Naturospace butterfly house. After lunch, drive up to Côte de Grâce and end the day with a cider tasting at a nearby apple orchard."
+        "en": "By car, you can also reach the highlights outside the center. Cross the impressive Normandy Bridge and visit the Naturospace butterfly house. After lunch, drive up to Côte de Grâce and end the day with a cider tasting at a nearby apple orchard.",
+        "fr": "En voiture, vous pouvez aussi atteindre les points forts hors du centre. Traversez l'impressionnant pont de Normandie et visitez la serre aux papillons Naturospace. Après le déjeuner, montez à la Côte de Grâce et terminez la journée par une dégustation de cidre dans un verger voisin."
       },
       "gastro_picks": {
         "de": [
@@ -1510,6 +1658,12 @@
           {
             "name": "Restaurant L'Ancre",
             "tip": "Fine dining with regional products."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Restaurant L'Ancre",
+            "tip": "Cuisine raffinée avec des produits régionaux."
           }
         ]
       },
@@ -1541,6 +1695,13 @@
             "tip": "Watch birds in the nature reserve.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Estuaire de la Seine",
+            "tip": "Observez les oiseaux dans la réserve naturelle.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1567,6 +1728,12 @@
             "name": "Village des Marques",
             "tip": "Outlet center near the bridge."
           }
+        ],
+        "fr": [
+          {
+            "name": "Village des Marques",
+            "tip": "Centre de marques (outlet) près du pont."
+          }
         ]
       },
       "tips": {
@@ -1589,6 +1756,11 @@
           "The Normandy Bridge is a toll bridge.",
           "Parking in the center is expensive, use P+R lots.",
           "Watch out for narrow one-way streets in the old town."
+        ],
+        "fr": [
+          "Le passage du pont de Normandie est payant (péage).",
+          "Le stationnement en centre-ville est cher, utilisez les parkings relais.",
+          "Attention aux rues à sens unique étroites dans la vieille ville."
         ]
       },
       "variants": {
@@ -1765,7 +1937,8 @@
             "de": "Genießen Sie den Hafen Vieux Bassin bequem vom Auto aus oder bei einem kurzen Sprint zum Kai. Die Fahrt über die Pont de Normandie ist bei Regen dramatisch und bietet eine tolle Aussicht. Das Naturospace ist das Highlight: ein tropisches Paradies, perfekt für regnerische Stunden. Nachmittags erkunden Sie die Côte de Grâce, bevor Sie den Tag beim Cidre-Tasting im Manoir d'Apreval trocken beenden.",
             "hu": "Élvezze a Vieux Bassin látványát az autóból, vagy egy gyors sprinttel a rakpartig. Az átkelés a Pont de Normandie hídon esőben drámai, remek kilátással. A Naturospace a nap fénypontja: trópusi paradicsom, ideális esős órákra. Délután fedezze fel a Côte de Grâce környékét, majd zárja a napot szárazon a Manoir d'Apreval birtokon.",
             "ro": "Bucurați-vă de Vieux Bassin confortabil din mașină sau cu un sprint scurt pe chei. Traversarea Pont de Normandie pe ploaie este dramatică, oferind o vedere excelentă. Naturospace este punctul culminant: un paradis tropical, perfect pentru orele ploioase. După-amiaza explorați Côte de Grâce, apoi încheiați ziua la adăpost la Manoir d'Apreval.",
-            "en": "Enjoy the Vieux Bassin comfortably from the car or with a quick sprint to the quay. The drive across Pont de Normandie is dramatic in the rain with great views. Naturospace is the highlight: a tropical paradise perfect for rainy hours. In the afternoon explore Côte de Grâce, then end the day dry with a cider tasting at Manoir d'Apreval."
+            "en": "Enjoy the Vieux Bassin comfortably from the car or with a quick sprint to the quay. The drive across Pont de Normandie is dramatic in the rain with great views. Naturospace is the highlight: a tropical paradise perfect for rainy hours. In the afternoon explore Côte de Grâce, then end the day dry with a cider tasting at Manoir d'Apreval.",
+            "fr": "Profitez du Vieux Bassin confortablement depuis la voiture ou avec un sprint rapide vers le quai. La traversée du pont de Normandie est spectaculaire sous la pluie. Naturospace est le point fort : un paradis tropical parfait pour les heures pluvieuses. L'après-midi, explorez la Côte de Grâce, puis finissez au sec avec une dégustation au Manoir d'Apreval."
           },
           "stops": [
             {
@@ -1774,7 +1947,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Parking du Centre' für einen trockenen Zugang zur Altstadt.",
                 "hu": "Használja a 'Parking du Centre' parkolót a száraz bejutáshoz az óvárosba.",
                 "ro": "Folosiți parcarea 'Parking du Centre' pentru acces uscat în centrul vechi.",
-                "en": "Use the 'Parking du Centre' garage for dry access to the old town."
+                "en": "Use the 'Parking du Centre' garage for dry access to the old town.",
+                "fr": "Utilisez le Parking du Centre pour un accès au sec vers la vieille ville."
               }
             },
             {
@@ -1783,7 +1957,8 @@
                 "de": "Bei starkem Regen und Wind: Lenkrad fest halten, Sicht kann eingeschränkt sein.",
                 "hu": "Erős esőben és szélben fogja szorosan a kormányt, a látótávolság korlátozott lehet.",
                 "ro": "Pe ploaie și vânt puternic: țineți bine volanul, vizibilitatea poate fi redusă.",
-                "en": "In heavy rain and wind: keep a firm grip on the wheel, visibility may be limited."
+                "en": "In heavy rain and wind: keep a firm grip on the wheel, visibility may be limited.",
+                "fr": "Par vent et pluie forts : tenez fermement le volant, la visibilité peut être réduite."
               }
             },
             {
@@ -1792,7 +1967,8 @@
                 "de": "Das ultimative Regenwetter-Ziel; genießen Sie das tropische Klima im Inneren.",
                 "hu": "A tökéletes úticél esőben; élvezze a trópusi klímát a beltérben.",
                 "ro": "Destinația supremă pe ploaie; bucurați-vă de climatul tropical din interior.",
-                "en": "The ultimate rainy weather destination; enjoy the tropical climate indoors."
+                "en": "The ultimate rainy weather destination; enjoy the tropical climate indoors.",
+                "fr": "La destination ultime par temps de pluie ; profitez du climat tropical à l'intérieur."
               }
             },
             {
@@ -1801,7 +1977,8 @@
                 "de": "Kurze Wege zu den umliegenden Bistros; Parkplätze direkt am Platz sind oft besetzt.",
                 "hu": "Rövid séta a környező bisztrókhoz; a téren lévő parkolók gyakran foglaltak.",
                 "ro": "Distanțe scurte spre bistrouri; locurile de parcare din piață sunt adesea ocupate.",
-                "en": "Short walks to nearby bistros; parking spots directly on the square fill up fast."
+                "en": "Short walks to nearby bistros; parking spots directly on the square fill up fast.",
+                "fr": "Courts trajets à pied vers les bistros ; les places sur la place partent vite."
               }
             },
             {
@@ -1810,7 +1987,8 @@
                 "de": "Parken Sie direkt an der Kapelle; die Aussichtspunkte sind nur wenige Schritte entfernt.",
                 "hu": "Parkoljon közvetlenül a kápolnánál; a kilátópontok pár lépésre vannak.",
                 "ro": "Parcați direct lângă capelă; punctele de belvedere sunt la doar câțiva pași.",
-                "en": "Park directly by the chapel; the viewpoints are just a few steps away."
+                "en": "Park directly by the chapel; the viewpoints are just a few steps away.",
+                "fr": "Garez-vous directement devant la chapelle ; les points de vue sont à quelques pas."
               }
             },
             {
@@ -1819,7 +1997,8 @@
                 "de": "Die Verkostungsräume sind überdacht; ideal, um regionale Produkte im Trockenen zu kaufen.",
                 "hu": "A kóstolótermek fedettek; ideális helyi termékek vásárlására az eső elől bújva.",
                 "ro": "Sălile de degustare sunt acoperite; ideal pentru cumpărături la adăpost.",
-                "en": "The tasting rooms are covered; ideal for buying regional products while staying dry."
+                "en": "The tasting rooms are covered; ideal for buying regional products while staying dry.",
+                "fr": "Les salles de dégustation sont couvertes ; idéal pour acheter des produits locaux au sec."
               }
             }
           ],
@@ -1851,6 +2030,13 @@
               "Avoid parking directly on the low quays during high tide storm warnings.",
               "Naturospace offers a wonderful break in tropical warmth from the rain.",
               "Winding roads to Côte de Grâce can be slippery with wet leaves."
+            ],
+            "fr": [
+              "Vérifiez vos essuie-glaces, ils sont essentiels face aux embruns sur le pont.",
+              "Utilisez une application de stationnement pour prolonger votre temps sans sortir de la voiture.",
+              "Évitez de vous garer sur les quais bas lors des alertes tempête à marée haute.",
+              "Naturospace offre une pause merveilleuse dans la chaleur tropicale loin de la pluie.",
+              "Les routes sinueuses vers la Côte de Grâce peuvent glisser avec les feuilles mortes mouillées."
             ]
           }
         },
@@ -1859,7 +2045,8 @@
             "de": "Ein klarer Wintermorgen beginnt mit einer Panoramafahrt durch Honfleur. Die Pont de Normandie bietet eine weite Sicht über die eisige Seine. Mittags wärmt Sie das tropische Klima im Naturospace auf. Nach einem kurzen Stopp an der Côte de Grâce in der klaren Luft führt die Fahrt zum Manoir d'Apreval, wo Sie lokale Spezialitäten in winterlicher Ruhe entdecken. Ein perfekter Tag für Entdecker mit Auto.",
             "hu": "Tiszta téli reggel indul panorámás autózással Honfleur-ben. A Pont de Normandie-ról széles kilátás nyílik a jeges Szajnára. Délben a Naturospace trópusi klímája melengeti fel. Rövid megálló a Côte de Grâce-nál a friss levegőn, majd irány a Manoir d'Apreval, ahol téli nyugalomban fedezheti fel a helyi specialitásokat.",
             "ro": "O dimineață senină de iarnă începe cu o tură panoramică prin Honfleur. Pont de Normandie oferă o vedere largă peste Sena înghețată. La prânz, climatul tropical din Naturospace vă va încălzi. După o scurtă oprire la Côte de Grâce, drumul duce spre Manoir d'Apreval pentru specialități locale în liniște.",
-            "en": "A clear winter morning starts with a scenic drive through Honfleur. Pont de Normandie offers wide views over the icy Seine. At noon, the tropical climate in Naturospace warms you up. After a short stop at Côte de Grâce in the crisp air, head to Manoir d'Apreval to discover local specialties in winter peace."
+            "en": "A clear winter morning starts with a scenic drive through Honfleur. Pont de Normandie offers wide views over the icy Seine. At noon, the tropical climate in Naturospace warms you up. After a short stop at Côte de Grâce in the crisp air, head to Manoir d'Apreval to discover local specialties in winter peace.",
+            "fr": "Un matin d'hiver clair commence par une route panoramique à travers Honfleur. Le pont de Normandie offre de larges vues sur la Seine glacée. À midi, le climat tropical de Naturospace vous réchauffe. Après un court arrêt à la Côte de Grâce au grand air, direction le Manoir d'Apreval pour découvrir les spécialités locales au calme."
           },
           "stops": [
             {
@@ -1868,7 +2055,8 @@
                 "de": "Das Licht am Morgen ist perfekt für Fotos aus dem Auto oder vom Kai.",
                 "hu": "A reggeli fények tökéletesek a fotózáshoz az autóból vagy a rakpartról.",
                 "ro": "Lumina dimineții este perfectă pentru poze din mașină sau de pe chei.",
-                "en": "The morning light is perfect for photos from the car or the quay."
+                "en": "The morning light is perfect for photos from the car or the quay.",
+                "fr": "La lumière du matin est parfaite pour les photos depuis la voiture ou le quai."
               }
             },
             {
@@ -1877,7 +2065,8 @@
                 "de": "Achten Sie auf Seitenwinde auf der Brücke, die im Winter oft stärker wehen.",
                 "hu": "Figyeljen az oldalszélre a hídon, ami télen gyakran erősebben fúj.",
                 "ro": "Atenție la vântul lateral pe pod, care suflă adesea mai tare iarna.",
-                "en": "Watch out for crosswinds on the bridge, which often blow harder in winter."
+                "en": "Watch out for crosswinds on the bridge, which often blow harder in winter.",
+                "fr": "Attention aux vents de travers sur le pont, souvent plus violents en hiver."
               }
             },
             {
@@ -1886,7 +2075,8 @@
                 "de": "Der Kontrast zwischen Winterkälte und Tropenhaus ist ein tolles Erlebnis.",
                 "hu": "A téli hideg és a trópusi ház közötti kontraszt fantasztikus élmény.",
                 "ro": "Contrastul dintre frigul iernii și sera tropicală este o experiență grozavă.",
-                "en": "The contrast between winter cold and the tropical house is a great experience."
+                "en": "The contrast between winter cold and the tropical house is a great experience.",
+                "fr": "Le contraste entre le froid hivernal et la serre tropicale est une belle expérience."
               }
             },
             {
@@ -1895,7 +2085,8 @@
                 "de": "Suchen Sie sich einen Parkplatz nah an einem gemütlichen Café mit Kamin.",
                 "hu": "Keressen parkolót egy hangulatos, kandallós kávézó közelében.",
                 "ro": "Căutați un loc de parcare aproape de o cafenea primitoare cu șemineu.",
-                "en": "Find a parking spot close to a cozy cafe with a fireplace."
+                "en": "Find a parking spot close to a cozy cafe with a fireplace.",
+                "fr": "Trouvez une place de parking proche d'un café avec cheminée."
               }
             },
             {
@@ -1904,7 +2095,8 @@
                 "de": "Die Fernsicht im Winter ist oft besser als im Sommer; Fernglas nicht vergessen.",
                 "hu": "A téli látótávolság gyakran jobb, mint nyáron; ne felejtse otthon a távcsövet.",
                 "ro": "Vizibilitatea iarna este adesea mai bună decât vara; nu uitați binoclul.",
-                "en": "Winter visibility is often better than in summer; don't forget your binoculars."
+                "en": "Winter visibility is often better than in summer; don't forget your binoculars.",
+                "fr": "La visibilité hivernale est souvent meilleure qu'en été ; n'oubliez pas vos jumelles."
               }
             },
             {
@@ -1913,7 +2105,8 @@
                 "de": "Prüfen Sie die Winter-Öffnungszeiten vorab; ideal für Geschenkkäufe.",
                 "hu": "Ellenőrizze előre a téli nyitvatartást; ideális ajándékok beszerzésére.",
                 "ro": "Verificați programul de iarnă în prealabil; ideal pentru cumpărături de cadouri.",
-                "en": "Check winter opening hours in advance; ideal for buying holiday gifts."
+                "en": "Check winter opening hours in advance; ideal for buying holiday gifts.",
+                "fr": "Vérifiez les horaires d'hiver à l'avance ; idéal pour les cadeaux de fin d'année."
               }
             }
           ],
@@ -1945,6 +2138,13 @@
               "The car heater provides cozy segments between the stops.",
               "Visit Naturospace at midday to completely forget about the cold.",
               "In winter, there are often more free parking spots near the harbor."
+            ],
+            "fr": [
+              "Assurez-vous que votre liquide lave-glace contient de l'antigel.",
+              "Le péage du pont peut se payer sans contact ; pas besoin de baisser la vitre dans le froid.",
+              "Le chauffage de la voiture offre des moments douillets entre les arrêts.",
+              "Visitez Naturospace à la mi-journée pour oublier complètement le froid.",
+              "En hiver, il y a souvent plus de places de parking libres près du port."
             ]
           }
         }
@@ -1973,7 +2173,8 @@
             "de": "Der Busbahnhof ist der zentrale Knotenpunkt.",
             "hu": "A buszpályaudvar a központi csomópont.",
             "ro": "Autogara este nodul central.",
-            "en": "The bus station is the central hub."
+            "en": "The bus station is the central hub.",
+            "fr": "La gare routière est le hub central."
           }
         },
         {
@@ -1991,7 +2192,8 @@
             "de": "Vom Busbahnhof sind es nur 5 Minuten zu Fuß.",
             "hu": "A buszpályaudvartól mindössze 5 perc séta.",
             "ro": "De la autogară sunt doar 5 minute de mers pe jos.",
-            "en": "It's only a 5-minute walk from the bus station."
+            "en": "It's only a 5-minute walk from the bus station.",
+            "fr": "À seulement 5 minutes à pied de la gare routière."
           }
         },
         {
@@ -2009,7 +2211,8 @@
             "de": "Mitten im belebten Zentrum gelegen.",
             "hu": "A nyüzsgő központ közepén található.",
             "ro": "Situat în mijlocul centrului animat.",
-            "en": "Located in the middle of the busy center."
+            "en": "Located in the middle of the busy center.",
+            "fr": "Situé au milieu du centre animé."
           }
         },
         {
@@ -2027,7 +2230,8 @@
             "de": "Viele Restaurants in der Nähe der Haltestellen.",
             "hu": "Sok étterem a megállók közelében.",
             "ro": "Multe restaurante în apropierea stațiilor.",
-            "en": "Many restaurants near the stops."
+            "en": "Many restaurants near the stops.",
+            "fr": "Nombreux restaurants à proximité des arrêts."
           }
         },
         {
@@ -2045,7 +2249,8 @@
             "de": "Nutzen Sie den Shuttle-Bus 'Ho'Bus'.",
             "hu": "Használja a 'Ho'Bus' ingajáratot.",
             "ro": "Folosiți autobuzul navetă 'Ho'Bus'.",
-            "en": "Use the 'Ho'Bus' shuttle."
+            "en": "Use the 'Ho'Bus' shuttle.",
+            "fr": "Utilisez la navette Ho'Bus."
           }
         }
       ],
@@ -2053,7 +2258,8 @@
         "de": "Honfleur ist gut mit regionalen Bussen (Nomad) erreichbar. Vom Busbahnhof aus erreichen Sie das Hafenbecken in wenigen Minuten. Nutzen Sie den städtischen Shuttle Ho'Bus, um zum Schmetterlingshaus oder zum Strand zu gelangen. Die Stadt ist kompakt, so dass Sie die meisten Wege zwischen den Haltestellen bequem zu Fuß zurücklegen können.",
         "hu": "Honfleur jól megközelíthető regionális buszokkal (Nomad). A buszpályaudvartól pár perc alatt elérhető a kikötő. Használja a helyi Ho'Bus járatot, hogy eljusson a pillangóházhoz vagy a strandra. A város kompakt, így a megállók közötti legtöbb út kényelmesen megtehető gyalog is.",
         "ro": "Honfleur este bine deservit de autobuzele regionale (Nomad). De la autogară puteți ajunge la bazinul portului în câteva minute. Folosiți naveta locală Ho'Bus pentru a ajunge la casa fluturilor sau la plajă. Orașul este compact, astfel încât majoritatea distanțelor dintre stații pot fi parcurse ușor pe jos.",
-        "en": "Honfleur is well-served by regional buses (Nomad). From the bus station, you can reach the harbor basin in a few minutes. Use the local Ho'Bus shuttle to get to the butterfly house or the beach. The town is compact, so most distances between stops can easily be covered on foot."
+        "en": "Honfleur is well-served by regional buses (Nomad). From the bus station, you can reach the harbor basin in a few minutes. Use the local Ho'Bus shuttle to get to the butterfly house or the beach. The town is compact, so most distances between stops can easily be covered on foot.",
+        "fr": "Honfleur est bien desservie par les bus régionaux (Nomad). Depuis la gare routière, rejoignez le bassin du port en quelques minutes. Utilisez la navette locale Ho'Bus pour aller à la serre aux papillons ou à la plage. La ville est compacte, donc l'essentiel se fait facilement à pied entre les arrêts."
       },
       "gastro_picks": {
         "de": [
@@ -2078,6 +2284,12 @@
           {
             "name": "Crêperie du Port",
             "tip": "Quick and tasty galettes."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Galettes rapides et savoureuses."
           }
         ]
       },
@@ -2109,6 +2321,13 @@
             "tip": "Small green area in the center.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Parc de la Mairie",
+            "tip": "Petit espace vert en plein centre.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2135,6 +2354,12 @@
             "name": "Artist Workshops",
             "tip": "Buy art directly from the painter."
           }
+        ],
+        "fr": [
+          {
+            "name": "Ateliers d'artistes",
+            "tip": "Achetez de l'art directement auprès du peintre."
+          }
         ]
       },
       "tips": {
@@ -2157,6 +2382,11 @@
           "Check the schedule for buses to Le Havre or Caen.",
           "Tickets can be bought from the driver or via app.",
           "Fewer buses run on Sundays."
+        ],
+        "fr": [
+          "Vérifiez les horaires des bus pour Le Havre ou Caen.",
+          "Les tickets s'achètent auprès du conducteur ou via l'application.",
+          "Il y a moins de bus le dimanche."
         ]
       },
       "variants": {
@@ -2324,7 +2554,8 @@
             "de": "Starten Sie am Busbahnhof und nutzen Sie die kurzen Busverbindungen zum Hafen. Das Vieux Bassin wirkt im Regen melancholisch und schön. Die Kirche Sainte-Catherine ist nur einen kurzen Sprint entfernt. Mittags stärken Sie sich am Quai, bevor Sie den Shuttle zum Naturospace nehmen, um trocken die Tropen zu erleben. Der Bus bringt Sie bequem zurück zum Ausgangspunkt.",
             "hu": "Kezdjen az autóbusz-állomáson, és használja a rövid járatokat a kikötőig. A Vieux Bassin esőben melankolikus és szép. A Szent Katalin templom csak egy gyors sprintre van. Délben egyen a Quai-on, majd menjen busszal a Naturospace-be, hogy szárazon élvezze a trópusokat. A busz kényelmesen visszaviszi a kiindulópontra.",
             "ro": "Începeți la autogară și folosiți autobuzele scurte spre port. Vieux Bassin pare melancolic și frumos sub ploaie. Biserica Sainte-Catherine este la doar un sprint distanță. La prânz, mâncați pe Quai, apoi luați autobuzul spre Naturospace pentru a vedea tropicele la adăpost.",
-            "en": "Start at the bus station and use short bus connections to the harbor. The Vieux Bassin looks melancholic and beautiful in the rain. Sainte-Catherine church is just a short sprint away. At noon, eat at the Quai, then take the shuttle to Naturospace to experience the tropics while staying dry."
+            "en": "Start at the bus station and use short bus connections to the harbor. The Vieux Bassin looks melancholic and beautiful in the rain. Sainte-Catherine church is just a short sprint away. At noon, eat at the Quai, then take the shuttle to Naturospace to experience the tropics while staying dry.",
+            "fr": "Commencez à la gare routière et utilisez les courtes liaisons de bus vers le port. Le Vieux Bassin est mélancolique et magnifique sous la pluie. L'église Sainte-Catherine n'est qu'à un court sprint. À midi, mangez sur le quai, puis prenez la navette vers Naturospace pour vivre les tropiques au sec."
           },
           "stops": [
             {
@@ -2333,7 +2564,8 @@
                 "de": "Warten Sie im Gebäude auf Ihren Anschluss, um trocken zu bleiben.",
                 "hu": "Várjon az állomás épületében a csatlakozásra, hogy száraz maradjon.",
                 "ro": "Așteptați în interiorul gării pentru a rămâne uscat.",
-                "en": "Wait inside the station building for your connection to stay dry."
+                "en": "Wait inside the station building for your connection to stay dry.",
+                "fr": "Attendez votre correspondance à l'intérieur de la gare pour rester au sec."
               }
             },
             {
@@ -2342,7 +2574,8 @@
                 "de": "Die Bushaltestelle 'Mairie' ist am nächsten zum Hafenbecken.",
                 "hu": "A 'Mairie' buszmegálló van a legközelebb a kikötőmedencéhez.",
                 "ro": "Stația de autobuz 'Mairie' este cea mai apropiată de bazinul portului.",
-                "en": "The 'Mairie' bus stop is the closest one to the harbor basin."
+                "en": "The 'Mairie' bus stop is the closest one to the harbor basin.",
+                "fr": "L'arrêt 'Mairie' est le plus proche du bassin du port."
               }
             },
             {
@@ -2351,7 +2584,8 @@
                 "de": "Nutzen Sie den kurzen Fußweg zwischen den Schauern für die Besichtigung.",
                 "hu": "Használja ki a záporok közötti szünetet a rövid sétához a templomig.",
                 "ro": "Folosiți scurta plimbare între averse pentru a vizita biserica.",
-                "en": "Utilize the short walking window between showers to reach the church."
+                "en": "Utilize the short walking window between showers to reach the church.",
+                "fr": "Profitez d'une accalmie entre deux averses pour rejoindre l'église."
               }
             },
             {
@@ -2360,7 +2594,8 @@
                 "de": "Viele Restaurants hier liegen nah an den Bushaltestellen der Linie 20/120.",
                 "hu": "Sok étterem közel van a 20/120-as buszjárat megállóihoz.",
                 "ro": "Multe restaurante de aici sunt aproape de stațiile liniilor 20/120.",
-                "en": "Many restaurants here are close to the stops for lines 20/120."
+                "en": "Many restaurants here are close to the stops for lines 20/120.",
+                "fr": "De nombreux restaurants ici sont proches des arrêts des lignes 20/120."
               }
             },
             {
@@ -2369,7 +2604,8 @@
                 "de": "Der Shuttle-Bus (Navette) hält fast direkt vor dem Eingang zum Tropenhaus.",
                 "hu": "A navette busz szinte közvetlenül a trópusi ház bejárata előtt áll meg.",
                 "ro": "Autobuzul navetă oprește aproape direct în fața intrării la sera tropicală.",
-                "en": "The shuttle bus (navette) stops almost directly in front of the tropical house entrance."
+                "en": "The shuttle bus (navette) stops almost directly in front of the tropical house entrance.",
+                "fr": "La navette s'arrête presque devant l'entrée de la serre tropicale."
               }
             }
           ],
@@ -2401,6 +2637,13 @@
               "Buses are well-heated and offer a dry break between your stops.",
               "During heavy rain, the schedule of small navettes may vary slightly.",
               "Tickets can often be paid contactless directly with the driver."
+            ],
+            "fr": [
+              "Téléchargez l'app 'Nomad Car' pour les infos en temps réel sur les retards liés à la pluie.",
+              "Gardez votre ticket prêt pour éviter de le chercher sous l'averse.",
+              "Les bus sont bien chauffés et offrent une pause au sec entre vos visites.",
+              "Par forte pluie, les horaires des petites navettes peuvent varier légèrement.",
+              "Les tickets peuvent souvent être payés sans contact directement auprès du chauffeur."
             ]
           }
         },
@@ -2409,7 +2652,8 @@
             "de": "Ein frischer Wintermorgen am Busbahnhof läutet den Tag ein. Die kurze Fahrt zum Hafen zeigt Honfleur in seinem ruhigen Winterkleid. Besuchen Sie die Holzkirche und wärmen Sie sich auf, bevor es zum Quai geht. Nachmittags bringt Sie die Navette zum Naturospace, wo Sie die Kälte vergessen können. Der Transit-Tag endet entspannt mit der Rückfahrt zum Busbahnhof in der Dämmerung.",
             "hu": "Friss téli reggel az autóbusz-állomáson. A rövid út a kikötőig megmutatja Honfleur csendes téli arcát. Látogasson el a fatemplomba melegedni, mielőtt a Quai-ra indulna. Délután a Navette elviszi a Naturospace-be, ahol elfelejtheti a hideget. A napot kényelmes buszos visszautazás zárja a szürkületben.",
             "ro": "O dimineață proaspătă de iarnă la autogară. Drumul scurt spre port arată fața liniștită a orașului Honfleur. Vizitați biserica de lemn pentru a vă încălzi înainte de Quai. După-amiaza, naveta vă duce la Naturospace pentru a uita de frig. Ziua se încheie relaxat cu drumul de întoarcere la autogară în amurg.",
-            "en": "A fresh winter morning at the bus station starts the day. The short ride to the harbor shows Honfleur's quiet winter side. Visit the wooden church to warm up before heading to the Quai. In the afternoon, the navette takes you to Naturospace where you can forget the cold. The transit day ends relaxingly with a ride back to the station at dusk."
+            "en": "A fresh winter morning at the bus station starts the day. The short ride to the harbor shows Honfleur's quiet winter side. Visit the wooden church to warm up before heading to the Quai. In the afternoon, the navette takes you to Naturospace where you can forget the cold. The transit day ends relaxingly with a ride back to the station at dusk.",
+            "fr": "Un matin d'hiver frais à la gare routière lance la journée. Le court trajet vers le port montre le côté calme de Honfleur en hiver. Visitez l'église en bois pour vous réchauffer avant de rejoindre le quai. L'après-midi, la navette vous emmène à Naturospace pour oublier le froid. La journée se termine par un retour relaxant vers la gare au crépuscule."
           },
           "stops": [
             {
@@ -2418,7 +2662,8 @@
                 "de": "Der Warteraum ist beheizt; ideal für kalte Wintermorgen.",
                 "hu": "A váróterem fűtött; ideális a hideg téli reggeleken.",
                 "ro": "Sala de așteptare este încălzită; ideal pentru diminețile reci de iarnă.",
-                "en": "The waiting room is heated; ideal for cold winter mornings."
+                "en": "The waiting room is heated; ideal for cold winter mornings.",
+                "fr": "La salle d'attente est chauffée ; idéal pour les matins d'hiver glacials."
               }
             },
             {
@@ -2427,7 +2672,8 @@
                 "de": "Genießen Sie den Blick auf die Weihnachtsbeleuchtung direkt aus dem Bus.",
                 "hu": "Élvezze a kilátást a karácsonyi fényekre közvetlenül a buszból.",
                 "ro": "Bucurați-vă de vederea luminilor de Crăciun direct din autobuz.",
-                "en": "Enjoy the view of the Christmas lights directly from the bus window."
+                "en": "Enjoy the view of the Christmas lights directly from the bus window.",
+                "fr": "Profitez des illuminations de Noël directement depuis la vitre du bus."
               }
             },
             {
@@ -2436,7 +2682,8 @@
                 "de": "Nur wenige Gehminuten von den zentralen Haltestellen entfernt.",
                 "hu": "Csak pár perc séta a központi buszmegállóktól.",
                 "ro": "La doar câteva minute de mers pe jos de stațiile centrale.",
-                "en": "Just a few minutes' walk from the central bus stops."
+                "en": "Just a few minutes' walk from the central bus stops.",
+                "fr": "À seulement quelques minutes de marche des arrêts de bus centraux."
               }
             },
             {
@@ -2445,7 +2692,8 @@
                 "de": "Die Bushaltestellen bieten hier oft kleine Unterstände gegen den Wind.",
                 "hu": "A buszmegállók itt gyakran rendelkeznek kis szélvédő váróval.",
                 "ro": "Stațiile de autobuz au adesea adăposturi mici împotriva vântului.",
-                "en": "Bus stops here often have small shelters to shield you from the wind."
+                "en": "Bus stops here often have small shelters to shield you from the wind.",
+                "fr": "Les arrêts de bus ici ont souvent de petits abris pour se protéger du vent."
               }
             },
             {
@@ -2454,7 +2702,8 @@
                 "de": "Die Navette fährt im Winter seltener; prüfen Sie den Fahrplan vorab.",
                 "hu": "A navette télen ritkábban jár; ellenőrizze előre a menetrendet.",
                 "ro": "Naveta circulă mai rar iarna; verificați programul în prealabil.",
-                "en": "The shuttle runs less frequently in winter; check the schedule beforehand."
+                "en": "The shuttle runs less frequently in winter; check the schedule beforehand.",
+                "fr": "La navette circule moins fréquemment en hiver ; vérifiez les horaires au préalable."
               }
             }
           ],
@@ -2486,6 +2735,13 @@
               "Use the bus crossing the bridge for a warm panoramic sightseeing tour.",
               "It gets dark after 17:00; plan your return journey accordingly.",
               "Buses are usually very warm inside, wear layers for easy adjustment."
+            ],
+            "fr": [
+              "Les horaires d'hiver peuvent différer de ceux d'été ; vérifiez en ligne avant de partir.",
+              "Les gares routières de Honfleur et du Havre sont de bons points de repli pour se réchauffer.",
+              "Prenez le bus traversant le pont pour un tour panoramique au chaud.",
+              "Il fait nuit dès 17h00 ; planifiez votre trajet de retour en conséquence.",
+              "Les bus sont généralement très chauffés, portez des couches faciles à enlever."
             ]
           }
         }

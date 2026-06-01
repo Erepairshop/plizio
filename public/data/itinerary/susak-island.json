@@ -36,7 +36,8 @@
             "de": "Der Hafenbereich ist ideal für einen ersten Kaffee.",
             "hu": "A kikötő környéke ideális egy reggeli kávéhoz.",
             "ro": "Zona portului este ideală pentru o primă cafea.",
-            "en": "The harbor area is ideal for a first coffee."
+            "en": "The harbor area is ideal for a first coffee.",
+            "hr": "Područje luke idealno je za prvu kavu."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bewundern Sie das Votivschiff im Inneren.",
             "hu": "Csodálja meg a belső térben található fogadalmi hajót.",
             "ro": "Admirați nava votivă din interior.",
-            "en": "Admire the votive ship inside."
+            "en": "Admire the votive ship inside.",
+            "hr": "Divite se zavjetnom brodu u unutrašnjosti."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Die engen Gassen bieten tollen Schatten.",
             "hu": "A szűk utcák kellemes árnyékot adnak.",
             "ro": "Străduțele înguste oferă o umbră plăcută.",
-            "en": "The narrow streets offer great shade."
+            "en": "The narrow streets offer great shade.",
+            "hr": "Uske ulice nude odličan hlad."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Probieren Sie den lokalen Wein direkt beim Bauern.",
             "hu": "Kóstolja meg a helyi bort közvetlenül a gazdánál.",
             "ro": "Gustați vinul local direct de la producător.",
-            "en": "Taste the local wine directly from the farmer."
+            "en": "Taste the local wine directly from the farmer.",
+            "hr": "Kušajte domaće vino izravno kod vinara."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Höchster Punkt der Insel mit tollem Rundblick.",
             "hu": "A sziget legmagasabb pontja, pazar körpanorámával.",
             "ro": "Cel mai înalt punct al insulei, cu o panoramă superbă.",
-            "en": "Highest point of the island with a great view."
+            "en": "Highest point of the island with a great view.",
+            "hr": "Najviša točka otoka s odličnim pogledom."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Sehr flaches Wasser, ideal zum Entspannen.",
             "hu": "Nagyon sekély víz, ideális a pihenéshez.",
             "ro": "Apă foarte puțin adâncă, ideală pentru relaxare.",
-            "en": "Very shallow water, ideal for relaxing."
+            "en": "Very shallow water, ideal for relaxing.",
+            "hr": "Vrlo plitka voda, idealna za opuštanje."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Perfekt für den Sonnenuntergang über dem Meer.",
             "hu": "Tökéletes hely a tenger feletti naplementéhez.",
             "ro": "Perfect pentru apusul soarelui peste mare.",
-            "en": "Perfect for the sunset over the sea."
+            "en": "Perfect for the sunset over the sea.",
+            "hr": "Savršeno za zalazak sunca nad morem."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Susak ist ein einzigartiges Naturphänomen aus feinem gelbem Sand auf einem Kalksteinsockel. Ihr Tag beginnt im geschäftigen Unterdorf Donje Selo, bevor Sie in das ruhigere Oberdorf aufsteigen. Entdecken Sie die spirituelle Ruhe in der St. Nikolaus Kirche und wandern Sie durch die duftenden Weinhänge zum Leuchtturm auf dem Berg Garba. Den Nachmittag verbringen Sie am seltenen Sandstrand Spiaza, bevor der Tag am Kap Arat mit einem weiten Blick über die Adria endet.",
         "hu": "Susak egyedülálló természeti jelenség: finom sárga homok borítja a mészkőalapot. A napot az élénk Alsófaluban kezdjük, majd felkapaszkodunk a csendesebb Felsőfaluba. Fedezze fel a Szent Miklós-templom nyugalmát, és sétáljon végig az illatos szőlőskerteken a Garba-hegyi világítótoronyhoz. A délutánt a ritka homokos strandon, a Spiazán töltjük, majd a napot az Arat-foknál zárjuk, ahonnan pazar kilátás nyílik az Adriára.",
         "ro": "Susak este un fenomen natural unic, format din nisip galben fin pe o bază de calcar. Ziua începe în Satul de Jos, plin de viață, înainte de a urca în Satul de Sus, mai liniștit. Descoperiți liniștea spirituală la Biserica Sf. Nicolae și plimbați-vă prin podgoriile parfumate până la farul de pe muntele Garba. Petreceți după-amiaza pe rara plajă de nisip Spiaza, înainte de a încheia ziua la Capul Arat, cu o vedere panoramică peste Adriatica.",
-        "en": "Susak is a unique natural phenomenon of fine yellow sand on a limestone base. Your day begins in the bustling Lower Village before ascending to the quieter Upper Village. Discover spiritual peace at St. Nicholas Church and hike through the fragrant vineyards to the lighthouse on Mount Garba. Spend the afternoon at the rare Spiaza sandy beach, before ending the day at Cape Arat with a sweeping view over the Adriatic Sea."
+        "en": "Susak is a unique natural phenomenon of fine yellow sand on a limestone base. Your day begins in the bustling Lower Village before ascending to the quieter Upper Village. Discover spiritual peace at St. Nicholas Church and hike through the fragrant vineyards to the lighthouse on Mount Garba. Spend the afternoon at the rare Spiaza sandy beach, before ending the day at Cape Arat with a sweeping view over the Adriatic Sea.",
+        "hr": "Susak je jedinstveni prirodni fenomen sitnog žutog pijeska na vapnenačkoj podlozi. Vaš dan započinje u užurbanom Donjem Selu prije uspona u mirnije Gornje Selo. Otkrijte duhovni mir u crkvi sv. Nikole i pješačite kroz mirisne vinograde do svjetionika na brdu Garba. Provedite poslijepodne na rijetkoj pješčanoj plaži Spiaza, prije završetka dana na rtu Arat s prekrasnim pogledom na Jadransko more."
       },
       "gastro_picks": {
         "de": [
@@ -223,6 +231,16 @@
           {
             "name": "Dried Octopus",
             "tip": "A local delicacy, often served in the harbor."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Vino Sansego",
+            "tip": "Probajte suho crno vino od lokalnog grožđa."
+          },
+          {
+            "name": "Sušena hobotnica",
+            "tip": "Lokalni specijalitet, često se poslužuje u luci."
           }
         ]
       },
@@ -274,6 +292,18 @@
             "tip": "A place of deep silence above the sea.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Rt Arat",
+            "tip": "Osamljeni pogled na susjedne otoke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Groblje Susak",
+            "tip": "Mjesto duboke tišine iznad mora.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -299,6 +329,12 @@
           {
             "name": "Susak Folk Costume Doll",
             "tip": "Miniature of the unique, short traditional dress."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lutka u sušačkoj narodnoj nošnji",
+            "tip": "Miniatura jedinstvene, kratke tradicionalne haljine."
           }
         ]
       },
@@ -326,6 +362,12 @@
           "There are no cars on the island, everything is reachable on foot.",
           "Take enough cash, ATMs are rare.",
           "Respect the privacy of locals in the narrow alleys."
+        ],
+        "hr": [
+          "Nosite zatvorenu obuću, pijeska ima posvuda.",
+          "Na otoku nema automobila, sve je dostupno pješice.",
+          "Ponesite dovoljno gotovine, bankomati su rijetki.",
+          "Poštujte privatnost lokalnog stanovništva u uskim uličicama."
         ]
       },
       "variants": {
@@ -586,7 +628,8 @@
             "de": "Beginnen Sie Ihren Tag im Hafen von Susak mit einem Regenschirm und erkunden Sie die engen Gassen von Donje Selo. Mittags bietet die St. Nikolaus Kirche trockenen Unterschlupf für Besichtigungen. Am Nachmittag führt der Weg durch die sandigen Pfade der Weinberge, die bei Regen weicher werden. Den Tag lassen wir in einer gemütlichen lokalen Konoba ausklingen, während der Regen auf die Dächer prasselt.",
             "hu": "Kezdje a napot Susak kikötőjében esernyővel, felfedezve Alsófalu szűk utcáit. Délben a Szent Miklós plébániatemplom nyújt száraz menedéket a látogatáshoz. Délután a dűnék közötti szőlőültetvények homokos ösvényei következnek, melyek esőben puhábbak lesznek. A napot egy hangulatos helyi konobában zárjuk, hallgatva a tetőkön kopogó esőt.",
             "ro": "Începeți ziua în portul Susak cu o umbrelă, explorând străzile înguste din Satul de Jos. La prânz, Biserica Sf. Nicolae oferă un adăpost uscat pentru vizitare. După-amiaza, traseul continuă prin potecile nisipoase ale podgoriilor, care devin mai moi sub ploaie. Încheiem ziua într-o tavernă locală primitoare, ascultând picăturile de ploaie pe acoperișuri.",
-            "en": "Start your day at Susak harbor with an umbrella, exploring the narrow alleys of the Lower Village. At noon, St. Nicholas Parish Church provides dry shelter for sightseeing. In the afternoon, the sandy paths through the vineyards become softer under the rain. We end the day in a cozy local konoba, listening to the rain tapping on the roofs."
+            "en": "Start your day at Susak harbor with an umbrella, exploring the narrow alleys of the Lower Village. At noon, St. Nicholas Parish Church provides dry shelter for sightseeing. In the afternoon, the sandy paths through the vineyards become softer under the rain. We end the day in a cozy local konoba, listening to the rain tapping on the roofs.",
+            "hr": "Započnite dan u luci Susak s kišobranom, istražujući uske uličice Donjeg Sela. U podne, župna crkva sv. Nikole pruža suho utočište za razgledavanje. Poslijepodne, pješčane staze kroz vinograde postaju mekše pod kišom. Dan završavamo u ugodnoj lokalnoj konobi, slušajući lupkanje kiše po krovovima."
           },
           "stops": [
             {
@@ -595,7 +638,8 @@
                 "de": "Nutzen Sie die Vordächer der Steinhäuser als Schutz vor Schauern.",
                 "hu": "Használja a kőházak ereszeit menedékként a záporok elől.",
                 "ro": "Folosiți streșinile caselor de piatră ca adăpost împotriva averselor.",
-                "en": "Use the eaves of stone houses as shelter from showers."
+                "en": "Use the eaves of stone houses as shelter from showers.",
+                "hr": "Koristite strehe kamenih kuća kao zaklon od pljuskova."
               }
             },
             {
@@ -604,7 +648,8 @@
                 "de": "Ein perfekter Ort, um das Interieur trocken zu bewundern.",
                 "hu": "Tökéletes hely a belső tér szárazon történő megcsodálására.",
                 "ro": "Un loc perfect pentru a admira interiorul stând la adăpost.",
-                "en": "A perfect place to admire the interior while staying dry."
+                "en": "A perfect place to admire the interior while staying dry.",
+                "hr": "Savršeno mjesto za divljenje unutrašnjosti dok ostajete suhi."
               }
             },
             {
@@ -613,7 +658,8 @@
                 "de": "Vorsicht auf den gepflasterten Wegen, sie können rutschig sein.",
                 "hu": "Vigyázat a kövezett utakon, esőben csúszósak lehetnek.",
                 "ro": "Atenție pe drumurile pavate, pot fi alunecoase când plouă.",
-                "en": "Be careful on the paved paths; they can be slippery when wet."
+                "en": "Be careful on the paved paths; they can be slippery when wet.",
+                "hr": "Budite oprezni na popločanim stazama; mogu biti skliske kad su mokre."
               }
             },
             {
@@ -622,7 +668,8 @@
                 "de": "Der Sandboden absorbiert Wasser gut, kann aber tief werden.",
                 "hu": "A homokos talaj jól elnyeli a vizet, de mélyebbé válhat.",
                 "ro": "Solul nisipos absoarbe bine apa, dar poate deveni adânc.",
-                "en": "The sandy soil absorbs water well but can become soft."
+                "en": "The sandy soil absorbs water well but can become soft.",
+                "hr": "Pješčano tlo dobro upija vodu, ali može postati mekano."
               }
             },
             {
@@ -631,7 +678,8 @@
                 "de": "Die Sicht auf das Meer ist bei stürmischem Regen dramatisch.",
                 "hu": "A kilátás a tengerre drámai a viharos esőben.",
                 "ro": "Vederea spre mare este dramatică în timpul ploii furtunoase.",
-                "en": "The view of the sea is dramatic during stormy rain."
+                "en": "The view of the sea is dramatic during stormy rain.",
+                "hr": "Pogled na more je dramatičan tijekom olujne kiše."
               }
             },
             {
@@ -640,7 +688,8 @@
                 "de": "Der nasse Sand ist fest und ideal für einen Spaziergang.",
                 "hu": "A vizes homok kemény és ideális egy sétához.",
                 "ro": "Nisipul umed este ferm și ideal pentru o plimbare.",
-                "en": "The wet sand is firm and ideal for a walk."
+                "en": "The wet sand is firm and ideal for a walk.",
+                "hr": "Mokri pijesak je čvrst i idealan za šetnju."
               }
             },
             {
@@ -649,7 +698,8 @@
                 "de": "Vermeiden Sie die Kanten bei starkem Wind und Regen.",
                 "hu": "Kerülje a széleket erős szél és eső esetén.",
                 "ro": "Evitați marginile în caz de vânt puternic și ploaie.",
-                "en": "Avoid the edges in case of strong wind and rain."
+                "en": "Avoid the edges in case of strong wind and rain.",
+                "hr": "Izbjegavajte rubove u slučaju jakog vjetra i kiše."
               }
             }
           ],
@@ -681,6 +731,13 @@
               "Local konobas are very cozy during rainy weather.",
               "Time your church visit for the heaviest showers.",
               "Allow more time for the softer sandy paths."
+            ],
+            "hr": [
+              "Nosite vodootporne cipele za trekking zbog pješčanog terena.",
+              "Čvrst kišobran je neophodan zbog vjetra.",
+              "Lokalne konobe su vrlo ugodne tijekom kišnog vremena.",
+              "Tempirajte posjet crkvi tijekom najjačih pljuskova.",
+              "Odvojite više vremena za mekše pješčane staze."
             ]
           }
         },
@@ -689,7 +746,8 @@
             "de": "Erleben Sie die Stille von Susak im Wintermorgen bei frischer Meeresbrise. Mittags wärmt ein Besuch in der Kirche Geist und Körper. Da die Sonne früh untergeht, genießen wir den Nachmittag in den Weinbergen im goldenen Winterlicht. Der Abend gehört der Ruhe des Unteren Dorfes, wo nur das Rauschen der Wellen zu hören ist und lokale Spezialitäten in den wenigen geöffneten Lokalen warten.",
             "hu": "Tapasztalja meg Susak téli csendjét a friss tengeri szélben. Délben a templomlátogatás felmelegíti a testet és lelket. Mivel a nap korán nyugszik, a délutánt a szőlőhegyek aranyló téli fényeiben élvezzük. Az este az Alsófalu nyugalmáé, ahol csak a hullámok zúgása hallatszik, és a kevés nyitva tartó helyen helyi különlegességek várják.",
             "ro": "Experimentați liniștea iernii în Susak, în briza proaspătă a mării. La prânz, vizita la biserică încălzește corpul și sufletul. Deoarece soarele apune devreme, ne bucurăm de după-amiază în lumina aurie a podgoriilor. Seara aparține liniștii din Satul de Jos, unde se aude doar sunetul valurilor și specialitățile locale vă așteaptă în puținele locuri deschise.",
-            "en": "Experience the winter silence of Susak in the fresh sea breeze. At noon, a church visit warms both body and soul. Since the sun sets early, we enjoy the afternoon in the golden winter light of the vineyards. The evening belongs to the tranquility of the Lower Village, where only the sound of waves is heard, and local specialties await in the few open venues."
+            "en": "Experience the winter silence of Susak in the fresh sea breeze. At noon, a church visit warms both body and soul. Since the sun sets early, we enjoy the afternoon in the golden winter light of the vineyards. The evening belongs to the tranquility of the Lower Village, where only the sound of waves is heard, and local specialties await in the few open venues.",
+            "hr": "Doživite zimsku tišinu Suska na svježem morskom povjetarcu. U podne, posjet crkvi grije i tijelo i dušu. Budući da sunce rano zalazi, uživamo u poslijepodnevu u zlatnom zimskom svjetlu vinograda. Večer pripada miru Donjeg Sela, gdje se čuje samo šum valova, a lokalni specijaliteti čekaju u nekoliko otvorenih objekata."
           },
           "stops": [
             {
@@ -698,7 +756,8 @@
                 "de": "Warme Kleidung ist wegen des kalten Bora-Windes nötig.",
                 "hu": "Meleg ruházat szükséges a hideg bóra szél miatt.",
                 "ro": "Îmbrăcămintea groasă este necesară din cauza vântului rece Bora.",
-                "en": "Warm clothing is necessary due to the cold Bora wind."
+                "en": "Warm clothing is necessary due to the cold Bora wind.",
+                "hr": "Topla odjeća je neophodna zbog hladne bure."
               }
             },
             {
@@ -707,7 +766,8 @@
                 "de": "Oft der wärmste öffentliche Ort auf der Insel.",
                 "hu": "Gyakran a legmelegebb nyilvános hely a szigeten.",
                 "ro": "Adesea cel mai cald loc public de pe insulă.",
-                "en": "Often the warmest public place on the island."
+                "en": "Often the warmest public place on the island.",
+                "hr": "Često najtoplije javno mjesto na otoku."
               }
             },
             {
@@ -716,7 +776,8 @@
                 "de": "Genießen Sie den weiten Blick ohne sommerlichen Dunst.",
                 "hu": "Élvezze a távoli kilátást a nyári pára nélkül.",
                 "ro": "Bucurați-vă de vederea la distanță fără negura verii.",
-                "en": "Enjoy the distant views without the summer haze."
+                "en": "Enjoy the distant views without the summer haze.",
+                "hr": "Uživajte u pogledima u daljinu bez ljetne izmaglice."
               }
             },
             {
@@ -725,7 +786,8 @@
                 "de": "Die Wintersonne steht tief und färbt den Sand golden.",
                 "hu": "A téli nap alacsonyan jár, aranyra festi a homokot.",
                 "ro": "Soarele de iarnă apune devreme, colorând nisipul în auriu.",
-                "en": "The winter sun is low, painting the sand golden."
+                "en": "The winter sun is low, painting the sand golden.",
+                "hr": "Zimsko sunce je nisko, bojeći pijesak u zlatno."
               }
             },
             {
@@ -734,7 +796,8 @@
                 "de": "Klarste Sicht des Jahres auf die benachbarten Inseln.",
                 "hu": "Az év legtisztább kilátása a szomszédos szigetekre.",
                 "ro": "Cea mai clară vedere din an spre insulele vecine.",
-                "en": "The clearest view of the year to the neighboring islands."
+                "en": "The clearest view of the year to the neighboring islands.",
+                "hr": "Najčišći pogled godine na susjedne otoke."
               }
             },
             {
@@ -743,7 +806,8 @@
                 "de": "Ideal für einen meditativen Strandspaziergang in Stille.",
                 "hu": "Ideális egy meditatív tengerparti sétához csendben.",
                 "ro": "Ideal pentru o plimbare meditativă pe plajă în liniște.",
-                "en": "Ideal for a meditative beach walk in silence."
+                "en": "Ideal for a meditative beach walk in silence.",
+                "hr": "Idealno za meditativnu šetnju plažom u tišini."
               }
             },
             {
@@ -752,7 +816,8 @@
                 "de": "Vorsicht, die Sonne geht hier bereits gegen 16:30 Uhr unter.",
                 "hu": "Vigyázat, a nap itt már 16:30 körül nyugszik.",
                 "ro": "Atenție, soarele apune aici deja în jurul orei 16:30.",
-                "en": "Note that the sun sets here as early as 4:30 PM."
+                "en": "Note that the sun sets here as early as 4:30 PM.",
+                "hr": "Imajte na umu da sunce ovdje zalazi već oko 16:30."
               }
             }
           ],
@@ -784,6 +849,13 @@
               "Many restaurants are closed; check with locals for options.",
               "Hiking trails are very quiet and secluded in winter.",
               "Carry a thermos with hot tea for the walk."
+            ],
+            "hr": [
+              "Bura može biti vrlo hladna; slojevito odijevanje je ključno.",
+              "Zalazak sunca je zimi već oko 16:30.",
+              "Mnogi restorani su zatvoreni; provjerite opcije kod lokalnog stanovništva.",
+              "Planinarske staze su zimi vrlo mirne i osamljene.",
+              "Nosite termosicu s toplim čajem za šetnju."
             ]
           }
         }
@@ -817,7 +889,8 @@
             "de": "Startpunkt am Hafen.",
             "hu": "Kiindulópont a kikötőnél.",
             "ro": "Punct de plecare la port.",
-            "en": "Starting point at the harbor."
+            "en": "Starting point at the harbor.",
+            "hr": "Početna točka u luci."
           }
         },
         {
@@ -840,7 +913,8 @@
             "de": "Steiler Anstieg, schieben ist okay.",
             "hu": "Meredek emelkedő, tolni is ér.",
             "ro": "Urcare abruptă, este în regulă să împingeți bicicleta.",
-            "en": "Steep climb, pushing is okay."
+            "en": "Steep climb, pushing is okay.",
+            "hr": "Strmi uspon, guranje bicikla je sasvim u redu."
           }
         },
         {
@@ -863,7 +937,8 @@
             "de": "Schöne Aussicht auf das offene Meer.",
             "hu": "Gyönyörű kilátás a nyílt tengerre.",
             "ro": "Vedere frumoasă la marea deschisă.",
-            "en": "Beautiful view of the open sea."
+            "en": "Beautiful view of the open sea.",
+            "hr": "Prekrasan pogled na otvoreno more."
           }
         },
         {
@@ -886,7 +961,8 @@
             "de": "Der Weg führt durch Schilf und Sand.",
             "hu": "Az út nádon és homokon keresztül vezet.",
             "ro": "Drumul trece prin stuf și nisip.",
-            "en": "The path leads through reeds and sand."
+            "en": "The path leads through reeds and sand.",
+            "hr": "Staza vodi kroz trstiku i pijesak."
           }
         },
         {
@@ -909,7 +985,8 @@
             "de": "Fahren Sie vorsichtig auf den sandigen Pfaden.",
             "hu": "Óvatosan tekerjen a homokos ösvényeken.",
             "ro": "Mergeți cu atenție pe potecile nisipoase.",
-            "en": "Ride carefully on the sandy paths."
+            "en": "Ride carefully on the sandy paths.",
+            "hr": "Vozite oprezno po pješčanim stazama."
           }
         },
         {
@@ -932,7 +1009,8 @@
             "de": "Bikes am Rand parken, Sand ist tief.",
             "hu": "A bringákat a szélén hagyja, mély a homok.",
             "ro": "Parcați bicicletele la margine, nisipul este adânc.",
-            "en": "Park bikes at the edge, sand is deep."
+            "en": "Park bikes at the edge, sand is deep.",
+            "hr": "Parkirajte bicikle na rubu, pijesak je dubok."
           }
         },
         {
@@ -955,7 +1033,8 @@
             "de": "Letzter Stopp vor der Abfahrt.",
             "hu": "Utolsó megálló az indulás előtt.",
             "ro": "Ultima oprire înainte de plecare.",
-            "en": "Last stop before departure."
+            "en": "Last stop before departure.",
+            "hr": "Posljednja stanica prije polaska."
           }
         }
       ],
@@ -963,7 +1042,8 @@
         "de": "Eine Radtour auf Susak ist ein Abenteuer auf sandigen Pfaden. Sie starten am Hafen und kämpfen sich den Hügel zum Oberdorf hinauf. Von dort aus führen Wege durch die charakteristischen Weinhänge zum Leuchtturm und zum Friedhof, der einsam über den Klippen thront. Nach der staubigen Fahrt bietet der seichte Sandstrand Spiaza die perfekte Abkühlung, bevor Sie den Tag in der kühlen St. Nikolaus Kirche ausklingen lassen.",
         "hu": "Egy kerékpártúra Susakon kaland a homokos ösvényeken. A kikötőből indulva küzdje fel magát a dombra a Felsőfaluig. Innen utak vezetnek a jellegzetes szőlőskerteken át a világítótoronyhoz és a temetőhöz, amely magányosan trónol a sziklák felett. A poros út után a sekély homokos strand, a Spiaza kínál tökéletes felfrissülést, majd a napot a hűvös Szent Miklós-templomban zárhatja.",
         "ro": "Un tur cu bicicleta pe Susak este o aventură pe poteci nisipoase. Începeți din port și urcați dealul spre Satul de Sus. De acolo, drumurile duc prin podgoriile caracteristice către far și cimitirul care tronează solitar deasupra stâncilor. După drumul prăfuit, plaja de nisip puțin adâncă Spiaza oferă răcorirea perfectă, înainte de a încheia ziua în răcoarea Bisericii Sf. Nicolae.",
-        "en": "A bike tour on Susak is an adventure on sandy paths. You start at the harbor and fight your way up the hill to the Upper Village. From there, paths lead through the characteristic vineyards to the lighthouse and the cemetery, which sits lonely above the cliffs. After the dusty ride, the shallow sandy Spiaza beach offers the perfect cool down, before ending the day in the cool St. Nicholas Church."
+        "en": "A bike tour on Susak is an adventure on sandy paths. You start at the harbor and fight your way up the hill to the Upper Village. From there, paths lead through the characteristic vineyards to the lighthouse and the cemetery, which sits lonely above the cliffs. After the dusty ride, the shallow sandy Spiaza beach offers the perfect cool down, before ending the day in the cool St. Nicholas Church.",
+        "hr": "Biciklistička tura na Susku je avantura na pješčanim stazama. Krećete iz luke i probijate se uzbrdo do Gornjeg Sela. Odande staze vode kroz karakteristične vinograde do svjetionika i groblja koje usamljeno stoji iznad litica. Nakon prašnjave vožnje, plitka pješčana plaža Spiaza nudi savršeno osvježenje, prije završetka dana u hladnoj crkvi sv. Nikole."
       },
       "gastro_picks": {
         "de": [
@@ -988,6 +1068,12 @@
           {
             "name": "Susak Sheep Cheese",
             "tip": "Savory and locally produced."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Sušački ovčji sir",
+            "tip": "Pikantan i lokalno proizveden."
           }
         ]
       },
@@ -1019,6 +1105,13 @@
             "tip": "Quieter than Spiaza, only by bike/foot.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Uvala Bok",
+            "tip": "Mirnije od Spiaze, dostupno samo biciklom ili pješice.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1044,6 +1137,12 @@
           {
             "name": "Local Honey",
             "tip": "Aromatic due to the island flora."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni med",
+            "tip": "Aromatičan zbog otočne flore."
           }
         ]
       },
@@ -1071,6 +1170,12 @@
           "Watch out for hikers on the narrow paths.",
           "The sun burns strongly, shade is rare.",
           "Take plenty of water, there are few kiosks on the way."
+        ],
+        "hr": [
+          "Brdski bicikli sa širokim gumama ovdje su obavezni.",
+          "Pazite na pješake na uskim stazama.",
+          "Sunce jako peče, hlad je rijedak.",
+          "Uzmite puno vode, na putu je malo kioska."
         ]
       },
       "variants": {
@@ -1295,7 +1400,8 @@
             "de": "Eine Radtour auf Susak im Regen erfordert Vorsicht auf den Sandwegen. Morgens erkunden wir das Untere Dorf, bevor wir mittags zum Oberen Dorf aufsteigen. Der sandige Boden bietet überraschend guten Grip, wird aber an einigen Stellen schlammig. Nachmittags erreichen wir den Leuchtturm, wobei die Abfahrten auf nassem Gras vorsichtig angegangen werden sollten, bevor wir den Tag am Hafen beenden.",
             "hu": "Egy kerékpártúra Susakon esőben óvatosságot igényel a homokos utakon. Reggel az Alsófalut fedezzük fel, mielőtt délben feltekernénk a Felsőfaluba. A homokos talaj meglepően jól tapad, de néhol sáros lehet. Délután elérjük a világítótornyot, a vizes füvön óvatosan ereszkedve, majd a napot a kikötőben zárjuk.",
             "ro": "O tură cu bicicleta în Susak pe ploaie necesită prudență pe drumurile de nisip. Dimineața explorăm Satul de Jos, înainte de a urca spre Satul de Sus la prânz. Solul nisipos oferă o aderență surprinzător de bună, dar poate fi noroios pe alocuri. După-amiaza ajungem la far, coborând cu grijă pe iarba umedă, terminând ziua în port.",
-            "en": "A bike tour on Susak in the rain requires caution on sandy paths. In the morning, we explore the Lower Village before climbing to the Upper Village at noon. The sandy ground offers surprisingly good grip but can be muddy in places. In the afternoon, we reach the lighthouse, descending carefully on wet grass before ending the day at the harbor."
+            "en": "A bike tour on Susak in the rain requires caution on sandy paths. In the morning, we explore the Lower Village before climbing to the Upper Village at noon. The sandy ground offers surprisingly good grip but can be muddy in places. In the afternoon, we reach the lighthouse, descending carefully on wet grass before ending the day at the harbor.",
+            "hr": "Biciklistička tura na Susku po kiši zahtijeva oprez na pješčanim stazama. Ujutro istražujemo Donje Selo prije uspona u Gornje Selo u podne. Pješčano tlo nudi iznenađujuće dobro prianjanje, ali mjestimice može biti blatno. Poslijepodne stižemo do svjetionika, pažljivo se spuštajući po mokroj travi prije završetka dana u luci."
           },
           "stops": [
             {
@@ -1304,7 +1410,8 @@
                 "de": "Vorsicht auf dem nassen Pflaster am Hafenbecken.",
                 "hu": "Vigyázat a vizes kövezeten a kikötőmedencénél.",
                 "ro": "Atenție pe pavajul umed de lângă bazinul portului.",
-                "en": "Be careful on the wet pavement near the harbor basin."
+                "en": "Be careful on the wet pavement near the harbor basin.",
+                "hr": "Budite oprezni na mokrom popločenju u blizini lučkog bazena."
               }
             },
             {
@@ -1313,7 +1420,8 @@
                 "de": "Der Anstieg ist auf nassem Untergrund anstrengender.",
                 "hu": "Az emelkedő vizes talajon megterhelőbb.",
                 "ro": "Urcarea este mai solicitantă pe teren umed.",
-                "en": "The climb is more strenuous on wet ground."
+                "en": "The climb is more strenuous on wet ground.",
+                "hr": "Uspon je naporniji na mokrom tlu."
               }
             },
             {
@@ -1322,7 +1430,8 @@
                 "de": "Stellen Sie das Rad sicher auf festem Grund ab.",
                 "hu": "Állítsa le a kerékpárt biztonságosan szilárd talajon.",
                 "ro": "Parcați bicicleta în siguranță pe teren solid.",
-                "en": "Park your bike safely on solid ground."
+                "en": "Park your bike safely on solid ground.",
+                "hr": "Sigurno parkirajte bicikl na čvrstom tlu."
               }
             },
             {
@@ -1331,7 +1440,8 @@
                 "de": "Bremsen Sie frühzeitig auf den sandigen Abfahrten.",
                 "hu": "Fékezzen időben a homokos lejtőkön.",
                 "ro": "Frânați din timp pe coborârile nisipoase.",
-                "en": "Brake early on the sandy descents."
+                "en": "Brake early on the sandy descents.",
+                "hr": "Kočite ranije na pješčanim nizbrdicama."
               }
             },
             {
@@ -1340,7 +1450,8 @@
                 "de": "Schlammige Stellen können die Kette verschmutzen.",
                 "hu": "A sáros részek beszennyezhetik a láncot.",
                 "ro": "Zonele noroioase pot murdări lanțul.",
-                "en": "Muddy patches can dirty your bike chain."
+                "en": "Muddy patches can dirty your bike chain.",
+                "hr": "Blatnjave mrlje mogu zaprljati lanac vašeg bicikla."
               }
             },
             {
@@ -1349,7 +1460,8 @@
                 "de": "Fahren Sie nicht zu nah an die Wasserlinie im Sand.",
                 "hu": "Ne hajtson túl közel a vízparthoz a homokban.",
                 "ro": "Nu mergeți cu bicicleta prea aproape de apă pe nisip.",
-                "en": "Don't cycle too close to the waterline in the sand."
+                "en": "Don't cycle too close to the waterline in the sand.",
+                "hr": "Ne vozite preblizu linije vode u pijesku."
               }
             },
             {
@@ -1358,7 +1470,8 @@
                 "de": "Nutzen Sie den Kircheneingang als Regenschutz.",
                 "hu": "Használja a templombejáratot esővédőként.",
                 "ro": "Folosiți intrarea bisericii ca protecție contra ploii.",
-                "en": "Use the church entrance as rain protection."
+                "en": "Use the church entrance as rain protection.",
+                "hr": "Koristite ulaz u crkvu kao zaštitu od kiše."
               }
             }
           ],
@@ -1390,6 +1503,13 @@
               "Check tire pressure for better grip in muddy areas.",
               "Clean the sand off your chain after the ride.",
               "Wear a high-visibility rain jacket."
+            ],
+            "hr": [
+              "Izbjegavajte naglo kočenje na mokrom pijesku.",
+              "Blatobrani su toplo preporučljivi po ovom vremenu.",
+              "Provjerite tlak u gumama za bolje prianjanje u blatnjavim područjima.",
+              "Očistite pijesak s lanca nakon vožnje.",
+              "Nosite uočljivu kabanicu."
             ]
           }
         },
@@ -1398,7 +1518,8 @@
             "de": "Winterliches Radfahren auf Susak bietet klare Luft und einsame Wege. Morgens radeln wir durch das ruhige Untere Dorf, mittags geht es hinauf zum Friedhof und zum Leuchtturm. Die Wintersonne wärmt angenehm bei den Anstiegen, aber der Wind kühlt bei den Abfahrten schnell aus. Der Nachmittag führt uns durch die Weinberge zurück zur St. Nikolaus Kirche, bevor die frühe Dämmerung den Tag beendet.",
             "hu": "A téli kerékpározás Susakon tiszta levegőt és elhagyatott utakat kínál. Reggel a csendes Alsófaluban tekerünk, délben felmegyünk a temetőhöz és a világítótoronyhoz. A téli nap kellemesen melegít az emelkedőkön, de a szél a lejtőkön gyorsan lehűt. Délután a szőlőhegyeken át térünk vissza a templomhoz, mielőtt a korai szürkület véget vet a napnak.",
             "ro": "Ciclismul de iarnă în Susak oferă aer curat și drumuri pustii. Dimineața pedalăm prin Satul de Jos liniștit, la prânz urcăm la cimitir și la far. Soarele de iarnă încălzește plăcut la urcări, dar vântul răcește rapid la coborâri. După-amiaza ne întoarcem prin podgorii la biserică, înainte ca amurgul timpuriu să încheie ziua.",
-            "en": "Winter cycling on Susak offers crisp air and lonely paths. In the morning, we cycle through the quiet Lower Village; at noon, we head up to the cemetery and the lighthouse. The winter sun warms pleasantly during climbs, but the wind cools you down quickly on descents. The afternoon leads us back through the vineyards to the church before early dusk ends the day."
+            "en": "Winter cycling on Susak offers crisp air and lonely paths. In the morning, we cycle through the quiet Lower Village; at noon, we head up to the cemetery and the lighthouse. The winter sun warms pleasantly during climbs, but the wind cools you down quickly on descents. The afternoon leads us back through the vineyards to the church before early dusk ends the day.",
+            "hr": "Zimsko bicikliranje na Susku nudi oštar zrak i osamljene staze. Ujutro prolazimo biciklom kroz mirno Donje Selo; u podne se upućujemo prema groblju i svjetioniku. Zimsko sunce ugodno grije tijekom uspona, ali vjetar vas brzo hladi na nizbrdicama. Poslijepodne nas vodi natrag kroz vinograde do crkve prije nego što rani sumrak završi dan."
           },
           "stops": [
             {
@@ -1407,7 +1528,8 @@
                 "de": "Tragen Sie winddichte Handschuhe beim Radfahren.",
                 "hu": "Viseljen szélálló kesztyűt kerékpározás közben.",
                 "ro": "Purtați mănuși rezistente la vânt când pedalați.",
-                "en": "Wear windproof gloves while cycling."
+                "en": "Wear windproof gloves while cycling.",
+                "hr": "Nosite rukavice otporne na vjetar tijekom vožnje."
               }
             },
             {
@@ -1416,7 +1538,8 @@
                 "de": "Die Auffahrt hilft, die Körpertemperatur zu halten.",
                 "hu": "A felfelé menet segít fenntartani a testhőt.",
                 "ro": "Urcarea ajută la menținerea temperaturii corpului.",
-                "en": "The uphill climb helps maintain body temperature."
+                "en": "The uphill climb helps maintain body temperature.",
+                "hr": "Uspon uzbrdo pomaže u održavanju tjelesne temperature."
               }
             },
             {
@@ -1425,7 +1548,8 @@
                 "de": "Der Ort ist im Winter sehr windanfällig.",
                 "hu": "A hely télen nagyon szeles lehet.",
                 "ro": "Locul este foarte expus la vânt iarna.",
-                "en": "The location is very exposed to wind in winter."
+                "en": "The location is very exposed to wind in winter.",
+                "hr": "Lokacija je zimi vrlo izložena vjetru."
               }
             },
             {
@@ -1434,7 +1558,8 @@
                 "de": "Hinter dem Gebäude finden Sie Schutz vor der Bora.",
                 "hu": "Az épület mögött szélvédett helyet találhat a bóra elől.",
                 "ro": "În spatele clădirii puteți găsi adăpost de vântul Bora.",
-                "en": "You can find shelter from the Bora behind the building."
+                "en": "You can find shelter from the Bora behind the building.",
+                "hr": "Iza zgrade možete pronaći zaklon od bure."
               }
             },
             {
@@ -1443,7 +1568,8 @@
                 "de": "Nutzen Sie das letzte Tageslicht gegen 16:00 Uhr.",
                 "hu": "Használja ki az utolsó nappali fényeket 16:00 körül.",
                 "ro": "Profitați de ultima lumină a zilei în jurul orei 16:00.",
-                "en": "Make use of the last daylight around 4:00 PM."
+                "en": "Make use of the last daylight around 4:00 PM.",
+                "hr": "Iskoristite posljednje dnevno svjetlo oko 16:00 sati."
               }
             },
             {
@@ -1452,7 +1578,8 @@
                 "de": "Der Sand ist im Winter oft fester gefroren.",
                 "hu": "A homok télen gyakran keményebbre fagy.",
                 "ro": "Nisipul este adesea mai tare înghețat iarna.",
-                "en": "The sand is often frozen harder in winter."
+                "en": "The sand is often frozen harder in winter.",
+                "hr": "Pijesak je zimi često jače smrznut."
               }
             },
             {
@@ -1461,7 +1588,8 @@
                 "de": "Ein ruhiger Abschluss des Tages vor der Dunkelheit.",
                 "hu": "A nap csendes lezárása a sötétedés előtt.",
                 "ro": "O încheiere liniștită a zilei înainte de întuneric.",
-                "en": "A quiet end to the day before darkness falls."
+                "en": "A quiet end to the day before darkness falls.",
+                "hr": "Miran završetak dana prije nego padne mrak."
               }
             }
           ],
@@ -1493,6 +1621,13 @@
               "The wind chill factor is high while cycling.",
               "Paths are dry but often dusty in winter.",
               "Take high-energy snacks to combat the cold."
+            ],
+            "hr": [
+              "Slojevita odjeća je neophodna.",
+              "Koristite prednja i stražnja svjetla zbog ranog sumraka.",
+              "Osjet hladnoće zbog vjetra je visok tijekom vožnje.",
+              "Staze su suhe, ali često prašnjave zimi.",
+              "Ponesite energetske grickalice za borbu protiv hladnoće."
             ]
           }
         }
@@ -1526,7 +1661,8 @@
             "de": "Ankunft mit der Fähre.",
             "hu": "Érkezés a komppal.",
             "ro": "Sosire cu feribotul.",
-            "en": "Arrival by ferry."
+            "en": "Arrival by ferry.",
+            "hr": "Dolazak trajektom."
           }
         },
         {
@@ -1549,7 +1685,8 @@
             "de": "Zentrum des religiösen Lebens.",
             "hu": "A hitélet központja.",
             "ro": "Centrul vieții religioase.",
-            "en": "Center of religious life."
+            "en": "Center of religious life.",
+            "hr": "Središte religijskog života."
           }
         },
         {
@@ -1572,7 +1709,8 @@
             "de": "Blick bis zur Insel Lošinj.",
             "hu": "Kilátás egészen Lošinj szigetéig.",
             "ro": "Vedere până la insula Lošinj.",
-            "en": "View all the way to Lošinj island."
+            "en": "View all the way to Lošinj island.",
+            "hr": "Pogled sve do otoka Lošinja."
           }
         },
         {
@@ -1595,7 +1733,8 @@
             "de": "Die Architektur ist hier besonders ursprünglich.",
             "hu": "Az építészet itt különösen eredeti.",
             "ro": "Arhitectura de aici este deosebit de originală.",
-            "en": "The architecture here is especially original."
+            "en": "The architecture here is especially original.",
+            "hr": "Arhitektura je ovdje posebno izvorna."
           }
         },
         {
@@ -1618,7 +1757,8 @@
             "de": "Entspannung pur im warmen Sand.",
             "hu": "Tiszta pihenés a meleg homokban.",
             "ro": "Relaxare totală în nisipul cald.",
-            "en": "Pure relaxation in the warm sand."
+            "en": "Pure relaxation in the warm sand.",
+            "hr": "Čisto opuštanje u toplom pijesku."
           }
         },
         {
@@ -1641,7 +1781,8 @@
             "de": "Abschluss mit Weitblick.",
             "hu": "Zárás nagyívű kilátással.",
             "ro": "Încheiere cu o vedere largă.",
-            "en": "Conclusion with a wide view."
+            "en": "Conclusion with a wide view.",
+            "hr": "Zaključak sa širokim pogledom."
           }
         }
       ],
@@ -1649,7 +1790,8 @@
         "de": "Da Susak autofrei ist, simuliert dieser Modus eine umfassende Insel-Erkundung (ggf. mit Traktortransport oder Boot). Sie erleben die kulturellen Höhepunkte von der St. Nikolaus Kirche bis zum malerischen Gornje Selo. Genießen Sie die Weite am Kap Arat und die sanften Wellen am Spiaza Strand, bevor der Leuchtturm am späten Nachmittag einen majestätischen Überblick über dieses staubig-schöne Paradies bietet.",
         "hu": "Mivel Susak autómentes, ez a mód egy átfogó szigetfelfedezést szimulál (esetleg traktoros transzferrel vagy hajóval). Megismerheti a kulturális csúcspontokat a Szent Miklós-templomtól a festői Felsőfaluig. Élvezze a tágasságot az Arat-foknál és a lágy hullámokat a Spiaza strandon, mielőtt a világítótorony késő délután fenséges áttekintést nyújtana erről a poros-szép paradicsomról.",
         "ro": "Deoarece Susak este fără mașini, acest mod simulează o explorare cuprinzătoare a insulei (eventual cu transport cu tractorul sau barca). Veți experimenta punctele culminante culturale, de la Biserica Sf. Nicolae până la pitorescul Sat de Sus. Bucurați-vă de imensitate la Capul Arat și de valurile blânde de pe plaja Spiaza, înainte ca farul să ofere, după-amiaza târziu, o privire maiestuoasă asupra acestui paradis prăfuit și frumos.",
-        "en": "Since Susak is car-free, this mode simulates a comprehensive island exploration (possibly via tractor transfer or boat). You will experience the cultural highlights from St. Nicholas Church to the picturesque Upper Village. Enjoy the openness at Cape Arat and the gentle waves at Spiaza beach, before the lighthouse in the late afternoon offers a majestic overview of this dusty-beautiful paradise."
+        "en": "Since Susak is car-free, this mode simulates a comprehensive island exploration (possibly via tractor transfer or boat). You will experience the cultural highlights from St. Nicholas Church to the picturesque Upper Village. Enjoy the openness at Cape Arat and the gentle waves at Spiaza beach, before the lighthouse in the late afternoon offers a majestic overview of this dusty-beautiful paradise.",
+        "hr": "Budući da na Susku nema automobila, ovaj način simulira sveobuhvatno istraživanje otoka (moguće putem transfera traktorom ili brodom). Doživjet ćete kulturne vrhunce od crkve sv. Nikole do slikovitog Gornjeg Sela. Uživajte u prostranstvu rta Arat i laganim valovima na plaži Spiaza, prije nego što svjetionik u kasnim poslijepodnevnim satima ponudi veličanstven pogled na ovaj prašnjavo-lijepi raj."
       },
       "gastro_picks": {
         "de": [
@@ -1674,6 +1816,12 @@
           {
             "name": "Fish Soup",
             "tip": "Freshly caught, rich in flavors."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Riblja juha",
+            "tip": "Svježe ulovljena, bogata okusima."
           }
         ]
       },
@@ -1705,6 +1853,13 @@
             "tip": "Silence among the vines.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Gornje staze kroz vinograde",
+            "tip": "Tišina među trsovima.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1730,6 +1885,12 @@
           {
             "name": "Dried Herbs",
             "tip": "Sage and rosemary from the island."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Sušeno začinsko bilje",
+            "tip": "Kadulja i ružmarin s otoka."
           }
         ]
       },
@@ -1757,6 +1918,12 @@
           "Tractors are the only 'cars' here.",
           "Plan your time according to ferry schedules.",
           "The island is small, getting lost is hardly possible."
+        ],
+        "hr": [
+          "Ne zaboravite da ovdje nema pravih cesta.",
+          "Traktori su ovdje jedini 'automobili'.",
+          "Planirajte svoje vrijeme prema rasporedu trajekata.",
+          "Otok je mali, gotovo je nemoguće izgubiti se."
         ]
       },
       "variants": {
@@ -1967,7 +2134,8 @@
             "de": "Da auf Susak fast keine Autos fahren (nur Traktoren), bezieht sich diese Route auf die Erreichbarkeit per Boot und kurzen Fußwegen. Morgens erreichen wir den Hafen im Regen, mittags besichtigen wir die Kirche im trockenen Schutz. Nachmittags bietet der Aussichtspunkt Arat trotz Wolken einen weiten Blick, bevor wir uns am Strand bei Regen entspannen und den Tag am Leuchtturm beenden.",
             "hu": "Mivel Susakon szinte nincsenek autók (csak traktorok), ez az útvonal a hajós elérhetőségre és rövid sétákra utal. Reggel esőben érkezünk a kikötőbe, délben a templomot nézzük meg szárazon. Délután az Arat kilátópont a felhők ellenére is tágas kilátást nyújt, majd a strandon pihenünk az esőben, a napot pedig a világítótoronynál zárjuk.",
             "ro": "Deoarece în Susak aproape nu există mașini (doar tractoare), acest traseu se referă la accesibilitatea cu barca și plimbări scurte. Dimineața ajungem în port pe ploaie, la prânz vizităm biserica la adăpost. După-amiaza, punctul de belvedere Arat oferă o vedere largă în ciuda norilor, apoi ne relaxăm pe plajă pe ploaie, încheind ziua la far.",
-            "en": "Since there are almost no cars on Susak (only tractors), this route refers to boat accessibility and short walks. In the morning, we reach the harbor in the rain; at noon, we visit the church in dry shelter. In the afternoon, the Arat viewpoint offers a wide view despite clouds, then we relax on the beach in the rain, ending the day at the lighthouse."
+            "en": "Since there are almost no cars on Susak (only tractors), this route refers to boat accessibility and short walks. In the morning, we reach the harbor in the rain; at noon, we visit the church in dry shelter. In the afternoon, the Arat viewpoint offers a wide view despite clouds, then we relax on the beach in the rain, ending the day at the lighthouse.",
+            "hr": "Budući da na Susku gotovo nema automobila (samo traktori), ova se ruta odnosi na dostupnost brodom i kratke šetnje. Ujutro stižemo u luku po kiši; u podne posjećujemo crkvu u suhom zaklonu. Poslijepodne vidikovac Arat nudi širok pogled unatoč oblacima, zatim se opuštamo na plaži po kiši, završavajući dan kod svjetionika."
           },
           "stops": [
             {
@@ -1976,7 +2144,8 @@
                 "de": "Vorsicht beim Aussteigen aus dem Boot auf nasse Kais.",
                 "hu": "Vigyázat a hajóból való kiszálláskor a vizes mólón.",
                 "ro": "Atenție la debarcare pe cheiul umed.",
-                "en": "Be careful when disembarking onto wet piers."
+                "en": "Be careful when disembarking onto wet piers.",
+                "hr": "Budite oprezni pri iskrcaju na mokre gatove."
               }
             },
             {
@@ -1985,7 +2154,8 @@
                 "de": "Die Kirche bietet den besten Schutz vor Starkregen.",
                 "hu": "A templom kínálja a legjobb védelmet a heves eső elől.",
                 "ro": "Biserica oferă cea mai bună protecție contra ploii torențiale.",
-                "en": "The church offers the best protection from heavy rain."
+                "en": "The church offers the best protection from heavy rain.",
+                "hr": "Crkva nudi najbolju zaštitu od jake kiše."
               }
             },
             {
@@ -1994,7 +2164,8 @@
                 "de": "Die Wolkenformationen über dem Meer sind fotogen.",
                 "hu": "A tenger feletti felhőalakzatok nagyon fotogének.",
                 "ro": "Formațiunile de nori de deasupra mării sunt fotogenice.",
-                "en": "The cloud formations over the sea are very photogenic."
+                "en": "The cloud formations over the sea are very photogenic.",
+                "hr": "Formacije oblaka iznad mora su vrlo fotogenične."
               }
             },
             {
@@ -2003,7 +2174,8 @@
                 "de": "Die schmalen Gassen bieten teilweise Windschutz.",
                 "hu": "A szűk utcák részben szélvédelmet nyújtanak.",
                 "ro": "Străzile înguste oferă parțial protecție contra vântului.",
-                "en": "The narrow alleys provide partial wind protection."
+                "en": "The narrow alleys provide partial wind protection.",
+                "hr": "Uske uličice pružaju djelomičnu zaštitu od vjetra."
               }
             },
             {
@@ -2012,7 +2184,8 @@
                 "de": "Ein Spaziergang am leeren Strand ist bei Regen besonders.",
                 "hu": "Egy séta az üres strandon esőben különleges élmény.",
                 "ro": "O plimbare pe plaja goală pe ploaie este specială.",
-                "en": "A walk on the empty beach in the rain is a unique experience."
+                "en": "A walk on the empty beach in the rain is a unique experience.",
+                "hr": "Šetnja praznom plažom po kiši jedinstven je doživljaj."
               }
             },
             {
@@ -2021,7 +2194,8 @@
                 "de": "Das Licht des Turms wirkt im Regen noch stärker.",
                 "hu": "A torony fénye még erősebbnek tűnik az esőben.",
                 "ro": "Lumina farului pare și mai puternică prin ploaie.",
-                "en": "The lighthouse beam seems even stronger in the rain."
+                "en": "The lighthouse beam seems even stronger in the rain.",
+                "hr": "Zraka svjetionika čini se još jačom na kiši."
               }
             }
           ],
@@ -2053,6 +2227,13 @@
               "Waterproof bags for electronics are essential on the boat.",
               "Ferries may not run during strong winds.",
               "Use the church as a fixed meeting point in the rain."
+            ],
+            "hr": [
+              "Na Susku nema rent-a-car usluga; sve je prohodno pješice.",
+              "Pazite na traktore koji se kreću stazama.",
+              "Vodootporne torbe za elektroniku su neophodne na brodu.",
+              "Trajekti možda neće ploviti tijekom jakog vjetra.",
+              "Koristite crkvu kao fiksnu točku sastanka na kiši."
             ]
           }
         },
@@ -2061,7 +2242,8 @@
             "de": "Ein Winterbesuch auf Susak ist eine Reise in die Einsamkeit. Morgens erreichen wir den Hafen bei kühler Brise, mittags erkunden wir die St. Nikolaus Kirche. Nachmittags genießen wir die weite Sicht vom Aussichtspunkt Arat im klaren Winterlicht, bevor wir Gornje Selo erkunden. Den Tag beenden wir früh am Strand und am Leuchtturm, da die Dunkelheit die Insel schnell einhüllt.",
             "hu": "Egy téli látogatás Susakon utazás a magányba. Reggel hűvös szélben érkezünk a kikötőbe, délben a Szent Miklós templomot fedezzük fel. Délután az Arat kilátópontról csodáljuk a kilátást a tiszta téli fényben, majd Felsőfalut járjuk be. A napot korán zárjuk a strandon és a világítótoronynál, mert a sötétség gyorsan beborítja a szigetet.",
             "ro": "O vizită de iarnă în Susak este o călătorie în singurătate. Dimineața ajungem în port pe o briză rece, la prânz explorăm biserica Sf. Nicolae. După-amiaza ne bucurăm de vederea largă de la punctul Arat în lumina clară de iarnă, apoi explorăm Satul de Sus. Încheiem ziua devreme pe plajă și la far, deoarece întunericul cuprinde rapid insula.",
-            "en": "A winter visit to Susak is a journey into solitude. In the morning, we reach the harbor in a cool breeze; at noon, we explore St. Nicholas Church. In the afternoon, we enjoy the vast views from the Arat viewpoint in the clear winter light before exploring the Upper Village. We end the day early at the beach and the lighthouse as darkness quickly envelops the island."
+            "en": "A winter visit to Susak is a journey into solitude. In the morning, we reach the harbor in a cool breeze; at noon, we explore St. Nicholas Church. In the afternoon, we enjoy the vast views from the Arat viewpoint in the clear winter light before exploring the Upper Village. We end the day early at the beach and the lighthouse as darkness quickly envelops the island.",
+            "hr": "Zimski posjet Susku putovanje je u osamu. Ujutro stižemo u luku na hladnom povjetarcu; u podne istražujemo crkvu sv. Nikole. Poslijepodne uživamo u prostranim pogledima s vidikovca Arat na čistom zimskom svjetlu prije istraživanja Gornjeg Sela. Dan završavamo rano na plaži i kod svjetionika dok tama brzo obavija otok."
           },
           "stops": [
             {
@@ -2070,7 +2252,8 @@
                 "de": "Die Winterfähren haben einen eingeschränkten Fahrplan.",
                 "hu": "A téli kompok korlátozott menetrend szerint járnak.",
                 "ro": "Feriboturile de iarnă au un program restricționat.",
-                "en": "Winter ferries operate on a limited schedule."
+                "en": "Winter ferries operate on a limited schedule.",
+                "hr": "Zimski trajekti plove prema ograničenom redu plovidbe."
               }
             },
             {
@@ -2079,7 +2262,8 @@
                 "de": "Der friedlichste Ort der Insel in der Winterzeit.",
                 "hu": "A sziget legnyugodtabb helye a téli időszakban.",
                 "ro": "Cel mai liniștit loc de pe insulă în timpul iernii.",
-                "en": "The most peaceful place on the island during winter."
+                "en": "The most peaceful place on the island during winter.",
+                "hr": "Najmirnije mjesto na otoku tijekom zime."
               }
             },
             {
@@ -2088,7 +2272,8 @@
                 "de": "Bringen Sie ein Fernglas für die klare Fernsicht mit.",
                 "hu": "Vigyen távcsövet a tiszta távoli kilátáshoz.",
                 "ro": "Luați un binoclu pentru vederea clară la distanță.",
-                "en": "Bring binoculars for the clear distant views."
+                "en": "Bring binoculars for the clear distant views.",
+                "hr": "Ponesite dalekozor za čiste poglede u daljinu."
               }
             },
             {
@@ -2097,7 +2282,8 @@
                 "de": "Fast alle Ferienhäuser sind nun leer und still.",
                 "hu": "Szinte minden nyaraló üres és csendes ilyenkor.",
                 "ro": "Aproape toate casele de vacanță sunt goale și tăcute.",
-                "en": "Almost all vacation homes are empty and quiet now."
+                "en": "Almost all vacation homes are empty and quiet now.",
+                "hr": "Gotovo sve kuće za odmor sada su prazne i tihe."
               }
             },
             {
@@ -2106,7 +2292,8 @@
                 "de": "Sammeln Sie Muscheln, die der Wintersturm anspült.",
                 "hu": "Gyűjtsön kagylókat, amiket a téli vihar mosott ki.",
                 "ro": "Colectați scoici aduse la mal de furtunile de iarnă.",
-                "en": "Collect seashells washed up by winter storms."
+                "en": "Collect seashells washed up by winter storms.",
+                "hr": "Skupljajte školjke koje su izbacile zimske oluje."
               }
             },
             {
@@ -2115,7 +2302,8 @@
                 "de": "Ein magischer Ort für den frühen Sonnenuntergang.",
                 "hu": "Varázslatos hely a korai naplementéhez.",
                 "ro": "Un loc magic pentru apusul soarelui timpuriu.",
-                "en": "A magical spot for the early sunset."
+                "en": "A magical spot for the early sunset.",
+                "hr": "Čarobno mjesto za rani zalazak sunca."
               }
             }
           ],
@@ -2147,6 +2335,13 @@
               "The sun sets around 4:30 PM in winter.",
               "Bring provisions as few shops are open.",
               "Double-check catamaran return times carefully."
+            ],
+            "hr": [
+              "Nema automobila; pripremite se za hodanje.",
+              "Nosite odjeću otpornu na vjetar u luci i na vidikovcima.",
+              "Sunce zalazi oko 16:30 zimi.",
+              "Ponesite zalihe jer je malo trgovina otvoreno.",
+              "Pažljivo provjerite vrijeme povratka katamarana."
             ]
           }
         }
@@ -2180,7 +2375,8 @@
             "de": "Tor zur Insel.",
             "hu": "Kapu a szigethez.",
             "ro": "Poarta către insulă.",
-            "en": "Gateway to the island."
+            "en": "Gateway to the island.",
+            "hr": "Vrata otoka."
           }
         },
         {
@@ -2203,7 +2399,8 @@
             "de": "Direkt neben dem Hafen.",
             "hu": "Közvetlenül a kikötő mellett.",
             "ro": "Chiar lângă port.",
-            "en": "Right next to the harbor."
+            "en": "Right next to the harbor.",
+            "hr": "Odmah pored luke."
           }
         },
         {
@@ -2226,7 +2423,8 @@
             "de": "Fußweg bergauf.",
             "hu": "Gyalogút felfelé.",
             "ro": "Potecă în urcare.",
-            "en": "Footpath uphill."
+            "en": "Footpath uphill.",
+            "hr": "Pješačka staza uzbrdo."
           }
         },
         {
@@ -2249,7 +2447,8 @@
             "de": "Hinter Gornje Selo.",
             "hu": "Gornje Selo mögött.",
             "ro": "În spatele Gornje Selo.",
-            "en": "Behind Gornje Selo."
+            "en": "Behind Gornje Selo.",
+            "hr": "Iza Gornjeg Sela."
           }
         },
         {
@@ -2272,7 +2471,8 @@
             "de": "Wanderung durch den Sand.",
             "hu": "Túra a homokon keresztül.",
             "ro": "Drumeție prin nisip.",
-            "en": "Hike through the sand."
+            "en": "Hike through the sand.",
+            "hr": "Pješačenje kroz pijesak."
           }
         },
         {
@@ -2295,7 +2495,8 @@
             "de": "Noch ein Eis am Hafen.",
             "hu": "Még egy fagyit a kikötőben.",
             "ro": "Încă o înghețată la port.",
-            "en": "One last ice cream at the harbor."
+            "en": "One last ice cream at the harbor.",
+            "hr": "Još jedan posljednji sladoled u luci."
           }
         }
       ],
@@ -2303,7 +2504,8 @@
         "de": "Der Transit-Modus auf Susak konzentriert sich auf die fußläufige Erreichbarkeit vom Hafen aus. Nach der Ankunft geht es direkt zum berühmten Sandstrand Spiaza. Später erkunden Sie die historischen Gassen von Gornje Selo und die St. Nikolaus Kirche. Eine Wanderung zum Kap Arat rundet das Naturerlebnis ab, bevor Sie sich im Unterdorf bei einem Drink auf die Rückfahrt mit der Fähre vorbereiten.",
         "hu": "A tranzit mód Susakon a kikötőből elérhető gyalogos távolságokra összpontosít. Érkezés után egyből a híres Spiaza homokos strandhoz megyünk. Később felfedezzük Gornje Selo történelmi utcáit és a Szent Miklós-templomot. Egy túra az Arat-fokhoz teszi teljessé a természetközeli élményt, mielőtt az Alsófaluban egy itallal készülnénk fel a visszakompozásra.",
         "ro": "Modul tranzit pe Susak se concentrează pe accesibilitatea pe jos de la port. După sosire, mergeți direct la celebra plajă de nisip Spiaza. Mai târziu, explorați străzile istorice din Gornje Selo și Biserica Sf. Nicolae. O drumeție la Capul Arat completează experiența naturală, înainte de a vă pregăti în Satul de Jos, cu o băutură, pentru întoarcerea cu feribotul.",
-        "en": "The transit mode on Susak focuses on walking distances from the harbor. After arrival, head straight to the famous Spiaza sandy beach. Later, explore the historical alleys of Gornje Selo and St. Nicholas Church. A hike to Cape Arat rounds off the nature experience, before preparing for the return ferry trip with a drink in the Lower Village."
+        "en": "The transit mode on Susak focuses on walking distances from the harbor. After arrival, head straight to the famous Spiaza sandy beach. Later, explore the historical alleys of Gornje Selo and St. Nicholas Church. A hike to Cape Arat rounds off the nature experience, before preparing for the return ferry trip with a drink in the Lower Village.",
+        "hr": "Tranzitni način na Susku fokusira se na pješačku udaljenost od luke. Nakon dolaska, uputite se ravno na poznatu pješčanu plažu Spiaza. Kasnije istražite povijesne uličice Gornjeg Sela i crkvu sv. Nikole. Planinarenje do rta Arat zaokružuje doživljaj prirode, prije pripreme za povratak trajektom uz piće u Donjem Selu."
       },
       "gastro_picks": {
         "de": [
@@ -2328,6 +2530,12 @@
           {
             "name": "Homemade Strudel",
             "tip": "Often filled with local berries."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Domaća štrudla",
+            "tip": "Često punjena lokalnim bobicama."
           }
         ]
       },
@@ -2359,6 +2567,13 @@
             "tip": "When the day tourists are gone.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Uvala Spiaza (navečer)",
+            "tip": "Kad dnevni turisti odu.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -2384,6 +2599,12 @@
           {
             "name": "Susak Postcards",
             "tip": "In the small shop at the harbor."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Razglednice Suska",
+            "tip": "U maloj trgovini u luci."
           }
         ]
       },
@@ -2411,6 +2632,12 @@
           "Pay close attention to departure times, often there is only one return trip.",
           "In summer the beach fills up early.",
           "The paths are sandy and can be dusty."
+        ],
+        "hr": [
+          "Vaša veza su trajekti iz Malog Lošinja ili Rijeke.",
+          "Pripazite na vrijeme polaska, često postoji samo jedan povratni put.",
+          "Ljeti se plaža rano napuni.",
+          "Staze su pješčane i mogu biti prašnjave."
         ]
       },
       "variants": {
@@ -2621,7 +2848,8 @@
             "de": "Der öffentliche Nahverkehr auf Susak besteht aus der Fähre und den eigenen Beinen. Morgens kommen wir im Regen am Hafen an, mittags suchen wir Schutz am Sandstrand Spiaza. Nachmittags erkunden wir das Obere Dorf und die Kirche, bevor wir den Aussichtspunkt Arat besuchen. Der Tag endet am Hafen von Donje Selo, während wir auf die Rückfähre im Regen warten.",
             "hu": "A tömegközlekedés Susakon a kompból és a saját lábunkból áll. Reggel esőben érkezünk a kikötőbe, délben a Spiaza homokos partján keresünk menedéket. Délután a Felsőfalut és a templomot fedezzük fel, mielőtt ellátogatnánk az Arat kilátóhoz. A nap az Alsófalu kikötőjében ér véget, miközben az esőben várjuk a visszainduló kompot.",
             "ro": "Transportul public în Susak constă în feribot și propriile picioare. Dimineața sosesim în port pe ploaie, la prânz căutăm adăpost pe plaja de nisip Spiaza. După-amiaza explorăm Satul de Sus și biserica, înainte de a vizita punctul Arat. Ziua se încheie în portul Satului de Jos, așteptând feribotul de întoarcere pe ploaie.",
-            "en": "Public transit on Susak consists of the ferry and your own feet. In the morning, we arrive at the harbor in the rain; at noon, we seek shelter at Spiaza sand beach. In the afternoon, we explore the Upper Village and the church before visiting the Arat viewpoint. The day ends at the Lower Village harbor while waiting for the return ferry in the rain."
+            "en": "Public transit on Susak consists of the ferry and your own feet. In the morning, we arrive at the harbor in the rain; at noon, we seek shelter at Spiaza sand beach. In the afternoon, we explore the Upper Village and the church before visiting the Arat viewpoint. The day ends at the Lower Village harbor while waiting for the return ferry in the rain.",
+            "hr": "Javni prijevoz na Susku sastoji se od trajekta i vlastitih nogu. Ujutro stižemo u luku po kiši; u podne tražimo zaklon na pješčanoj plaži Spiaza. Poslijepodne istražujemo Gornje Selo i crkvu prije posjeta vidikovcu Arat. Dan završava u luci Donjeg Sela dok čekamo povratni trajekt na kiši."
           },
           "stops": [
             {
@@ -2630,7 +2858,8 @@
                 "de": "Das Hafenterminal bietet einen kleinen Unterstand.",
                 "hu": "A kikötői terminál egy kis esőbeállót kínál.",
                 "ro": "Terminalul portuar oferă un mic adăpost.",
-                "en": "The harbor terminal offers a small shelter."
+                "en": "The harbor terminal offers a small shelter.",
+                "hr": "Lučki terminal nudi mali zaklon."
               }
             },
             {
@@ -2639,7 +2868,8 @@
                 "de": "Die Strandbars haben bei Regen oft geschlossene Bereiche.",
                 "hu": "A tengerparti bárok esőben gyakran fedett részekkel várnak.",
                 "ro": "Barurile de pe plajă au adesea zone închise pe ploaie.",
-                "en": "Beach bars often have closed areas during rain."
+                "en": "Beach bars often have closed areas during rain.",
+                "hr": "Barovi na plaži često imaju zatvorene dijelove tijekom kiše."
               }
             },
             {
@@ -2648,7 +2878,8 @@
                 "de": "Planen Sie den Rückweg zum Hafen rechtzeitig ein.",
                 "hu": "Időben tervezze meg a visszautat a kikötőhöz.",
                 "ro": "Planificați din timp drumul de întoarcere la port.",
-                "en": "Plan your return trip to the harbor in good time."
+                "en": "Plan your return trip to the harbor in good time.",
+                "hr": "Planirajte povratak u luku na vrijeme."
               }
             },
             {
@@ -2657,7 +2888,8 @@
                 "de": "Ein guter Ort, um die Zeit bis zur Fähre trocken zu verbringen.",
                 "hu": "Jó hely a komp indulásáig hátralévő idő száraz eltöltésére.",
                 "ro": "Un loc bun pentru a petrece timpul până la feribot la uscat.",
-                "en": "A good place to wait dry until the ferry departs."
+                "en": "A good place to wait dry until the ferry departs.",
+                "hr": "Dobro mjesto za čekanje na suhom do polaska trajekta."
               }
             },
             {
@@ -2666,7 +2898,8 @@
                 "de": "Bei Regen ist der Weg hierher etwas rutschig.",
                 "hu": "Esőben az idevezető út kissé csúszós.",
                 "ro": "Pe ploaie, drumul spre acest punct este puțin alunecos.",
-                "en": "The path here is a bit slippery when it rains."
+                "en": "The path here is a bit slippery when it rains.",
+                "hr": "Staza je ovdje malo skliska kad pada kiša."
               }
             },
             {
@@ -2675,7 +2908,8 @@
                 "de": "Prüfen Sie, ob die Fähre wetterbedingt Verspätung hat.",
                 "hu": "Ellenőrizze, hogy a komp az időjárás miatt késik-e.",
                 "ro": "Verificați dacă feribotul are întârzieri din cauza vremii.",
-                "en": "Check if the ferry is delayed due to weather conditions."
+                "en": "Check if the ferry is delayed due to weather conditions.",
+                "hr": "Provjerite kasni li trajekt zbog vremenskih uvjeta."
               }
             }
           ],
@@ -2707,6 +2941,13 @@
               "Allow buffer time for the walk back to the harbor.",
               "Wear rain gear both on the boat and on the island.",
               "In case of storms, the catamaran may be replaced by a larger ferry."
+            ],
+            "hr": [
+              "Trajekt je vaša jedina veza s kopnom.",
+              "Kupite karte unaprijed u slučaju da se blagajna zatvori zbog kiše.",
+              "Ostavite dovoljno vremena za povratak pješice do luke.",
+              "Nosite kišnu opremu i na brodu i na otoku.",
+              "U slučaju nevremena, katamaran može biti zamijenjen većim trajektom."
             ]
           }
         },
@@ -2715,7 +2956,8 @@
             "de": "Winterreisen nach Susak hängen stark vom Fahrplan der Fähren ab. Morgens kommen wir im kühlen Wind an, mittags verbringen wir Zeit am menschenleeren Spiaza Strand. Nachmittags erkunden wir das stille Gornje Selo und die St. Nikolaus Kirche, bevor wir den Aussichtspunkt Arat besuchen. Den Tag schließen wir im Hafen von Donje Selo ab, bevor die Abendfähre uns in der Dunkelheit abholt.",
             "hu": "A téli utazás Susakra nagyban függ a kompok menetrendjétől. Reggel hűvös szélben érkezünk, délben a néptelen Spiaza strandon töltjük az időt. Délután a csendes Felsőfalut és a templomot fedezzük fel, mielőtt ellátogatnánk az Arat kilátóhoz. A napot Alsófalu kikötőjében zárjuk, mielőtt az esti komp felvesz minket a sötétben.",
             "ro": "Călătoriile de iarnă spre Susak depind mult de programul feriboturilor. Dimineața sosesim pe un vânt răcoros, la prânz petrecem timp pe plaja pustie Spiaza. După-amiaza explorăm Satul de Sus liniștit și biserica, înainte de a vizita punctul Arat. Încheiem ziua în portul Satului de Jos, înainte ca feribotul de seară să ne ia pe întuneric.",
-            "en": "Winter travel to Susak depends heavily on ferry schedules. In the morning, we arrive in a cool wind; at noon, we spend time at the deserted Spiaza beach. In the afternoon, we explore the quiet Upper Village and the church before visiting the Arat viewpoint. We close the day at the Lower Village harbor before the evening ferry picks us up in the dark."
+            "en": "Winter travel to Susak depends heavily on ferry schedules. In the morning, we arrive in a cool wind; at noon, we spend time at the deserted Spiaza beach. In the afternoon, we explore the quiet Upper Village and the church before visiting the Arat viewpoint. We close the day at the Lower Village harbor before the evening ferry picks us up in the dark.",
+            "hr": "Zimsko putovanje na Susak uvelike ovisi o redu plovidbe trajekata. Ujutro stižemo na hladnom vjetru; u podne provodimo vrijeme na napuštenoj plaži Spiaza. Poslijepodne istražujemo mirno Gornje Selo i crkvu prije posjeta vidikovcu Arat. Dan zatvaramo u luci Donjeg Sela prije nego što nas večernji trajekt pokupi u mraku."
           },
           "stops": [
             {
@@ -2724,7 +2966,8 @@
                 "de": "Der Warteraum am Hafen ist im Winter beheizt.",
                 "hu": "A kikötői váróterem télen fűtött.",
                 "ro": "Sala de așteptare din port este încălzită iarna.",
-                "en": "The waiting room at the harbor is heated in winter."
+                "en": "The waiting room at the harbor is heated in winter.",
+                "hr": "Čekaonica u luci se zimi grije."
               }
             },
             {
@@ -2733,7 +2976,8 @@
                 "de": "Genießen Sie die absolute Stille des Winters.",
                 "hu": "Élvezze a tél abszolút csendjét.",
                 "ro": "Bucurați-vă de liniștea absolută a iernii.",
-                "en": "Enjoy the absolute silence of winter."
+                "en": "Enjoy the absolute silence of winter.",
+                "hr": "Uživajte u apsolutnoj tišini zime."
               }
             },
             {
@@ -2742,7 +2986,8 @@
                 "de": "Die Sonne verschwindet hier im Winter hinter den Hügeln.",
                 "hu": "A nap itt télen korán eltűnik a dombok mögött.",
                 "ro": "Soarele dispare aici devreme după dealuri iarna.",
-                "en": "The sun disappears behind the hills early here in winter."
+                "en": "The sun disappears behind the hills early here in winter.",
+                "hr": "Sunce ovdje zimi rano nestaje iza brda."
               }
             },
             {
@@ -2751,7 +2996,8 @@
                 "de": "Ein Ort der Einkehr in der kalten Jahreszeit.",
                 "hu": "Az elmélyülés helye a hideg évszakban.",
                 "ro": "Un loc de reculegere în sezonul rece.",
-                "en": "A place for reflection during the cold season."
+                "en": "A place for reflection during the cold season.",
+                "hr": "Mjesto za razmišljanje tijekom hladne sezone."
               }
             },
             {
@@ -2760,7 +3006,8 @@
                 "de": "Der Wind weht hier im Winter besonders kräftig.",
                 "hu": "A szél itt télen különösen erősen fúj.",
                 "ro": "Vântul bate aici deosebit de tare iarna.",
-                "en": "The wind blows particularly hard here in winter."
+                "en": "The wind blows particularly hard here in winter.",
+                "hr": "Vjetar ovdje zimi puše posebno jako."
               }
             },
             {
@@ -2769,7 +3016,8 @@
                 "de": "Die Abfahrt der Abendfähre erfolgt oft schon in Dunkelheit.",
                 "hu": "Az esti komp indulása gyakran már sötétben történik.",
                 "ro": "Plecarea feribotului de seară are loc adesea pe întuneric.",
-                "en": "The evening ferry often departs in total darkness."
+                "en": "The evening ferry often departs in total darkness.",
+                "hr": "Večernji trajekt često polazi u potpunom mraku."
               }
             }
           ],
@@ -2801,6 +3049,13 @@
               "There are limited dining options during winter.",
               "Warm clothing is needed for staying on deck.",
               "The island feels almost like it's from another time in winter."
+            ],
+            "hr": [
+              "Provjerite zimski red plovidbe za linije 9308 ili 310.",
+              "Prijelaz može biti naporan ako je more nemirno.",
+              "Mogućnosti objedovanja su tijekom zime ograničene.",
+              "Topla odjeća je potrebna za boravak na palubi.",
+              "Otok zimi djeluje gotovo kao iz nekog drugog vremena."
             ]
           }
         }

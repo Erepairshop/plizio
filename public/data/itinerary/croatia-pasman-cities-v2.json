@@ -31,7 +31,8 @@
             "de": "Trinken Sie einen Kaffee am Hafen, bevor Sie den Hügel besteigen.",
             "hu": "Igyon meg egy kávét a kikötőben a hegymászás előtt.",
             "ro": "Beți o cafea în port înainte de a urca dealul.",
-            "en": "Enjoy a coffee at the harbor before starting your uphill walk."
+            "en": "Enjoy a coffee at the harbor before starting your uphill walk.",
+            "hr": "Uživajte u kavi u luci prije početka uspona."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besuchen Sie das letzte aktive Benediktinerkloster auf den Inseln.",
             "hu": "Látogassa meg az utolsó aktív bencés kolostort a szigeteken.",
             "ro": "Vizitați ultima mănăstire benedictină activă de pe insule.",
-            "en": "Visit the last active Benedictine monastery on the Croatian islands."
+            "en": "Visit the last active Benedictine monastery on the Croatian islands.",
+            "hr": "Posjetite posljednji aktivni benediktinski samostan na hrvatskim otocima."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Probieren Sie frischen Oktopussalat oder gegrillten Fisch.",
             "hu": "Kóstolja meg a friss polipsalátát vagy a grillezett halat.",
             "ro": "Încercați salata proaspătă de caracatiță sau peștele la grătar.",
-            "en": "Try fresh octopus salad or grilled fish from the local waters."
+            "en": "Try fresh octopus salad or grilled fish from the local waters.",
+            "hr": "Probajte svježu salatu od hobotnice ili ribu na žaru iz lokalnih voda."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Kristallklares Wasser dank der starken Strömung im Kanal.",
             "hu": "Kristálytiszta víz a csatorna erős áramlatainak köszönhetően.",
             "ro": "Apă de cristal datorită curenților puternici din canal.",
-            "en": "Crystal clear water thanks to the strong currents in the channel."
+            "en": "Crystal clear water thanks to the strong currents in the channel.",
+            "hr": "Kristalno čisto more zahvaljujući jakim strujama u kanalu."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Beobachten Sie das Treiben der Fischerboote.",
             "hu": "Figyelje meg a halászhajók forgalmát.",
             "ro": "Observați activitatea bărcilor de pescuit.",
-            "en": "Watch the traditional fishing boats coming and going."
+            "en": "Watch the traditional fishing boats coming and going.",
+            "hr": "Promatrajte tradicionalne ribarske brodove kako dolaze i odlaze."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Genießen Sie den Blick auf das Festland im Abendlicht.",
             "hu": "Élvezze a kilátást a szárazföldre az esti fényekben.",
             "ro": "Bucurați-vă de vederea spre continent în lumina serii.",
-            "en": "Enjoy the view of the mainland in the soft evening light."
+            "en": "Enjoy the view of the mainland in the soft evening light.",
+            "hr": "Uživajte u pogledu na kopno u mekom večernjem svjetlu."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ein entspannter Tag in Tkon beginnt am lebhaften Hafen. Der Aufstieg zum Ćokovac-Kloster wird mit spiritueller Ruhe und Panoramablick belohnt. Nach einem authentischen dalmatinischen Mittagessen verbringen Sie den Nachmittag an den sauberen Kiesstränden, bevor der Tag bei einem gemütlichen Spaziergang am Meer ausklingt.",
         "hu": "Egy pihentető nap Tkonban a nyüzsgő kikötőben kezdődik. A Ćokovac-kolostorhoz vezető séta spirituális nyugalommal és panorámás kilátással ajándékozza meg. Egy autentikus dalmát ebéd után a délutánt a tiszta kavicsos strandokon töltheti, majd a napot egy kellemes tengerparti sétával zárhatja.",
         "ro": "O zi relaxantă în Tkon începe în portul plin de viață. Urcarea la mănăstirea Ćokovac este răsplătită cu liniște spirituală și vederi panoramice. După un prânz dalmat autentic, petreceți după-amiaza pe plajele curate cu pietriș, înainte de a încheia ziua cu o plimbare plăcută pe malul mării.",
-        "en": "A relaxing day in Tkon starts at the vibrant harbor. The walk up to Ćokovac monastery rewards you with spiritual peace and panoramic views. After an authentic Dalmatian lunch, spend the afternoon on the clean pebble beaches before ending the day with a gentle stroll by the sea."
+        "en": "A relaxing day in Tkon starts at the vibrant harbor. The walk up to Ćokovac monastery rewards you with spiritual peace and panoramic views. After an authentic Dalmatian lunch, spend the afternoon on the clean pebble beaches before ending the day with a gentle stroll by the sea.",
+        "hr": "Opuštajući dan u Tkonu započinje u živopisnoj luci. Šetnja do samostana Ćokovac nagrađuje vas duhovnim mirom i panoramskim pogledom. Nakon autentičnog dalmatinskog ručka, provedite poslijepodne na čistim šljunčanim plažama prije nego što dan završite laganom šetnjom uz more."
       },
       "gastro_picks": {
         "de": [
@@ -154,6 +161,12 @@
           {
             "name": "Konoba Sovinja",
             "tip": "Homemade pasta with fresh seafood."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Sovinja",
+            "tip": "Domaća tjestenina sa svježim plodovima mora."
           }
         ]
       },
@@ -185,6 +198,13 @@
             "tip": "Quiet moments under ancient pines.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Brdo Ćokovac",
+            "tip": "Mirni trenuci pod drevnim borovima.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -210,6 +230,12 @@
           {
             "name": "Tkon Local Market",
             "tip": "Island olive oil and local honey."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica Tkon",
+            "tip": "Otočko maslinovo ulje i domaći med."
           }
         ]
       },
@@ -237,6 +263,12 @@
           "The ferry from Biograd runs almost every hour.",
           "The channel currents keep the sea water exceptionally clean.",
           "The island is wonderfully peaceful during the off-season."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za uspon do samostana.",
+          "Trajekt iz Biograda vozi gotovo svaki sat.",
+          "Struje u kanalu održavaju morsku vodu izuzetno čistom.",
+          "Otok je predivno miran izvan glavne sezone."
         ]
       },
       "variants": {
@@ -245,7 +277,8 @@
             "de": "Der Tag beginnt am Hafen von Tkon, wo die Cafés Schutz vor dem Regen bieten. Der Aufstieg zum Kloster Ćokovac führt durch dichte Pinienwälder, die wie ein natürlicher Schirm wirken. Mittags wärmt eine Konoba mit Peka und lokalem Wein. Der Nachmittag an der Plaža Vruljica ist stürmisch, aber die salzige Luft ist erfrischend. Den Abend verbringt man gemütlich an der Riva von Tkon.",
             "hu": "A reggel a tkoni kikötő fedett kávézóiban indul, amíg elvonul a zápor. A Ćokovac-kolostorhoz vezető út fenyvesei természetes ernyőként védenek a cseppektől. Délben egy helyi konobában melegedünk fel kiadós ételekkel. Délután a Vruljica-strand a viharos tenger látványát kínálja. Az estét a parton zárjuk, ahol az eső utáni tengerillat a legintenzívebb.",
             "ro": "Ziua începe în portul Tkon, unde cafenelele oferă adăpost împotriva ploii. Urcarea spre mănăstirea Ćokovac trece prin păduri de pini care opresc picăturile. La prânz, o konoba locală oferă căldură și preparate tradiționale. După-amiaza la plaja Vruljica este agitată, dar aerul sărat este revigorant. Seara se încheie pe faleza din Tkon, ascultând valurile.",
-            "en": "The day starts in Tkon harbor, where cafes provide shelter from the rain. The walk to Ćokovac monastery leads through pine forests that act as natural umbrellas. At noon, a local konoba warms you up with traditional food. The afternoon at Vruljica beach offers a dramatic view of the stormy sea. The evening ends on the promenade in Tkon, enjoying the intense scent of the sea."
+            "en": "The day starts in Tkon harbor, where cafes provide shelter from the rain. The walk to Ćokovac monastery leads through pine forests that act as natural umbrellas. At noon, a local konoba warms you up with traditional food. The afternoon at Vruljica beach offers a dramatic view of the stormy sea. The evening ends on the promenade in Tkon, enjoying the intense scent of the sea.",
+            "hr": "Dan počinje u luci Tkon, gdje kafići nude zaklon od kiše. Šetnja do samostana Ćokovac vodi kroz borove šume koje djeluju kao prirodni kišobrani. U podne vas lokalna konoba grije tradicionalnim jelima. Poslijepodne na plaži Vruljica nudi dramatičan pogled na olujno more. Večer završava na rivi u Tkonu, uz intenzivan miris mora."
           },
           "stops": [
             {
@@ -254,7 +287,8 @@
                 "de": "Warte den Guss in der Bar am Fähranleger ab.",
                 "hu": "Várd meg a záport a komp melletti bárban.",
                 "ro": "Așteaptă trecerea ploii în barul de lângă feribot.",
-                "en": "Wait for the rain to pass in the bar by the ferry."
+                "en": "Wait for the rain to pass in the bar by the ferry.",
+                "hr": "Pričekajte da kiša prođe u baru kod trajekta."
               }
             },
             {
@@ -263,7 +297,8 @@
                 "de": "Der Innenhof bietet Schutz vor Wind und Regen.",
                 "hu": "A belső udvar védelmet nyújt a szél és eső ellen.",
                 "ro": "Curtea interioară oferă protecție contra vântului.",
-                "en": "The inner courtyard provides protection from wind."
+                "en": "The inner courtyard provides protection from wind.",
+                "hr": "Unutarnje dvorište pruža zaštitu od vjetra."
               }
             },
             {
@@ -272,7 +307,8 @@
                 "de": "Frage nach Plätzen am Kamin.",
                 "hu": "Kérj asztalt a kandalló közelében.",
                 "ro": "Cere o masă lângă șemineu.",
-                "en": "Ask for a table near the fireplace."
+                "en": "Ask for a table near the fireplace.",
+                "hr": "Tražite stol pored kamina."
               }
             },
             {
@@ -281,7 +317,8 @@
                 "de": "Vorsicht, die nassen Steine sind sehr rutschig.",
                 "hu": "Vigyázat, a nedves kövek nagyon csúszósak.",
                 "ro": "Atenție, pietrele umede sunt foarte alunecoase.",
-                "en": "Caution, wet stones are very slippery."
+                "en": "Caution, wet stones are very slippery.",
+                "hr": "Oprez, mokro kamenje je vrlo klizavo."
               }
             },
             {
@@ -290,7 +327,8 @@
                 "de": "Feste Schuhe sind bei Regen auf dem Pflaster wichtig.",
                 "hu": "Esőben fontos a tapadós talpú cipő a kövön.",
                 "ro": "Încălțămintea aderentă e vitală pe pavajul umed.",
-                "en": "Grip shoes are vital on the wet pavement."
+                "en": "Grip shoes are vital on the wet pavement.",
+                "hr": "Obuća koja dobro prianja ključna je na mokrom pločniku."
               }
             },
             {
@@ -299,7 +337,8 @@
                 "de": "Genieße das dramatische Wolkenspiel vom Café aus.",
                 "hu": "Élvezd a drámai felhőket egy kávézó ablakából.",
                 "ro": "Admiră norii dramatici din fereastra unei cafenele.",
-                "en": "Enjoy the dramatic clouds from a café window."
+                "en": "Enjoy the dramatic clouds from a café window.",
+                "hr": "Uživajte u dramatičnim oblacima s prozora kafića."
               }
             }
           ],
@@ -331,6 +370,13 @@
               "Use the time in konobas for local food tastings.",
               "A stable stick umbrella is better than a foldable one due to wind.",
               "The monasteries are ideal dry retreats."
+            ],
+            "hr": [
+              "Nosite vodootporne cipele za planinarenje za šumske staze.",
+              "Kamene ploče u Tkonu na kiši postaju glatke poput ogledala.",
+              "Iskoristite vrijeme u konobama za kušanje lokalnih jela.",
+              "Stabilan štapni kišobran bolji je od sklopivog zbog vjetra.",
+              "Samostani su idealna suha utočišta."
             ]
           }
         },
@@ -339,7 +385,8 @@
             "de": "Ein klarer Wintermorgen in Tkon bietet weite Sichten bis zum Festland. Der Weg zum Benediktinerkloster Ćokovac ist bei kühler Luft angenehm und ruhig. Das Mittagessen besteht aus herzhaften Inselgerichten, die Energie spenden. Nachmittags zeigt sich die Plaža Vruljica in rauer Schönheit ohne Touristenmassen. Der Sonnenuntergang erfolgt früh, färbt den Himmel aber in tiefes Violett und Orange.",
             "hu": "A tiszta téli reggelen Tkonból ellátni egészen a szárazföldig. A Ćokovac-kolostorhoz vezető séta a friss levegőn nyugodt és csendes. Az ebéd kiadós szigeti ételekből áll, amik energiát adnak a naphoz. Délután a Vruljica-strand nyers szépségét turisták nélkül élvezhetjük. A naplemente korán érkezik, de mély lila és narancs színekbe öltözteti az eget.",
             "ro": "O dimineață senină de iarnă în Tkon oferă vederi largi spre continent. Drumul spre mănăstirea Ćokovac este plăcut și liniștit în aerul rece. Prânzul constă în mâncăruri consistente de pe insulă care oferă energie. După-amiaza, plaja Vruljica își arată frumusețea brută, fără mulțimi de turiști. Apusul vine devreme, colorând cerul în violet și portocaliu intens.",
-            "en": "A clear winter morning in Tkon offers wide views across to the mainland. The walk to Ćokovac monastery is pleasant and quiet in the crisp air. Lunch consists of hearty island dishes that provide energy. In the afternoon, Vruljica beach shows its raw beauty without the tourist crowds. Sunset arrives early, painting the sky in deep purple and orange tones."
+            "en": "A clear winter morning in Tkon offers wide views across to the mainland. The walk to Ćokovac monastery is pleasant and quiet in the crisp air. Lunch consists of hearty island dishes that provide energy. In the afternoon, Vruljica beach shows its raw beauty without the tourist crowds. Sunset arrives early, painting the sky in deep purple and orange tones.",
+            "hr": "Vedro zimsko jutro u Tkonu nudi široke poglede prema kopnu. Šetnja do samostana Ćokovac ugodna je i tiha na svježem zraku. Ručak se sastoji od krepkih otočkih jela koja daju energiju. Poslijepodne plaža Vruljica pokazuje svoju sirovu ljepotu bez turističkih gužvi. Zalazak sunca dolazi rano, bojajući nebo u duboke ljubičaste i narančaste tonove."
           },
           "stops": [
             {
@@ -348,7 +395,8 @@
                 "de": "Zieh dich winddicht an, die Bura kann kühl sein.",
                 "hu": "Öltözz szélállóan, a Bóra hűvös lehet.",
                 "ro": "Îmbracă-te rezistent la vânt, Bora poate fi rece.",
-                "en": "Dress windproof, the Bura wind can be chilly."
+                "en": "Dress windproof, the Bura wind can be chilly.",
+                "hr": "Odjenite se otporno na vjetar, bura može biti prohladna."
               }
             },
             {
@@ -357,7 +405,8 @@
                 "de": "Genieße die Stille des Klosters in der Nebensaison.",
                 "hu": "Élvezd a kolostor csendjét a főszezonon kívül.",
                 "ro": "Bucură-te de liniștea mănăstirii în afara sezonului.",
-                "en": "Enjoy the silence of the monastery out of season."
+                "en": "Enjoy the silence of the monastery out of season.",
+                "hr": "Uživajte u tišini samostana izvan sezone."
               }
             },
             {
@@ -366,7 +415,8 @@
                 "de": "Probiere den winterlichen Lammeintopf.",
                 "hu": "Kóstold meg a téli bárányragut.",
                 "ro": "Încearcă tocană de miel specifică iernii.",
-                "en": "Try the winter lamb stew."
+                "en": "Try the winter lamb stew.",
+                "hr": "Probajte zimski gulaš od janjetine."
               }
             },
             {
@@ -375,7 +425,8 @@
                 "de": "Ideal für einen meditativen Spaziergang am Meer.",
                 "hu": "Ideális egy meditatív sétához a tengerparton.",
                 "ro": "Ideal pentru o plimbare meditativă pe malul mării.",
-                "en": "Ideal for a meditative walk by the sea."
+                "en": "Ideal for a meditative walk by the sea.",
+                "hr": "Idealno za meditativnu šetnju uz more."
               }
             },
             {
@@ -384,7 +435,8 @@
                 "de": "Die Wintersonne wärmt an windgeschützten Stellen.",
                 "hu": "A téli nap felmelegít a szélvédett helyeken.",
                 "ro": "Soarele de iarnă încălzește locurile ferite de vânt.",
-                "en": "Winter sun warms up wind-sheltered spots."
+                "en": "Winter sun warms up wind-sheltered spots.",
+                "hr": "Zimsko sunce grije mjesta zaklonjena od vjetra."
               }
             },
             {
@@ -393,7 +445,8 @@
                 "de": "Der Sonnenuntergang ist bereits gegen 16:30 Uhr.",
                 "hu": "A naplemente már 16:30 körül bekövetkezik.",
                 "ro": "Apusul are loc deja în jurul orei 16:30.",
-                "en": "Sunset already occurs around 4:30 PM."
+                "en": "Sunset already occurs around 4:30 PM.",
+                "hr": "Zalazak sunca događa se već oko 16:30."
               }
             }
           ],
@@ -425,6 +478,13 @@
               "Many restaurants have limited opening hours.",
               "Plan your return before darkness falls.",
               "Wear a hat against the often strong sea wind."
+            ],
+            "hr": [
+              "Slojevita odjeća štiti vas od otočkog vjetra.",
+              "Vidljivost je zimi često puno bolja nego ljeti.",
+              "Mnogi restorani imaju ograničeno radno vrijeme.",
+              "Planirajte povratak prije nego što padne mrak.",
+              "Nosite kapu protiv često jakog morskog vjetra."
             ]
           }
         }
@@ -453,7 +513,8 @@
             "de": "Mieten Sie ein Mountainbike für die Schotterwege.",
             "hu": "Béreljen hegyi kerékpárt a murvás utakhoz.",
             "ro": "Închiriați o bicicletă de munte pentru drumurile cu pietriș.",
-            "en": "Rent a mountain bike to handle the island's gravel paths."
+            "en": "Rent a mountain bike to handle the island's gravel paths.",
+            "hr": "Unajmite brdski bicikl za svladavanje otočkih makadamskih staza."
           }
         },
         {
@@ -471,7 +532,8 @@
             "de": "Ein friedlicher Ort im Dorf Kraj.",
             "hu": "Békés hely Kraj faluban.",
             "ro": "Un loc liniștit în satul Kraj.",
-            "en": "A peaceful spot located in the village of Kraj."
+            "en": "A peaceful spot located in the village of Kraj.",
+            "hr": "Mirno mjesto smješteno u selu Kraj."
           }
         },
         {
@@ -489,7 +551,8 @@
             "de": "Ein schöner Sandstrand zum Abkühlen.",
             "hu": "Szép homokos strand a hűsöléshez.",
             "ro": "O plajă frumoasă de nisip pentru răcorire.",
-            "en": "A lovely sandy beach perfect for a quick cool-off."
+            "en": "A lovely sandy beach perfect for a quick cool-off.",
+            "hr": "Prekrasna pješčana plaža savršena za brzo osvježenje."
           }
         },
         {
@@ -507,7 +570,8 @@
             "de": "Der höchste Punkt der Insel mit 360-Grad-Blick.",
             "hu": "A sziget legmagasabb pontja 360 fokos kilátással.",
             "ro": "Cel mai înalt punct al insulei cu vedere de 360 de grade.",
-            "en": "The highest peak of Pašman offering 360-degree views."
+            "en": "The highest peak of Pašman offering 360-degree views.",
+            "hr": "Najviši vrh Pašmana koji nudi pogled od 360 stupnjeva."
           }
         },
         {
@@ -525,7 +589,8 @@
             "de": "Genießen Sie lokale Spezialitäten in der Natur.",
             "hu": "Élvezze a helyi finomságokat a természetben.",
             "ro": "Bucurați-vă de specialități locale în natură.",
-            "en": "Enjoy some local snacks surrounded by Mediterranean nature."
+            "en": "Enjoy some local snacks surrounded by Mediterranean nature.",
+            "hr": "Uživajte u domaćim zalogajima okruženi mediteranskom prirodom."
           }
         },
         {
@@ -543,7 +608,8 @@
             "de": "Entspannte Fahrt entlang der Küstenstraße.",
             "hu": "Pihentető tekerés a tengerparti úton.",
             "ro": "Drum relaxant pe șoseaua de coastă.",
-            "en": "Enjoy a scenic ride back along the coastal road."
+            "en": "Enjoy a scenic ride back along the coastal road.",
+            "hr": "Uživajte u slikovitoj vožnji natrag obalnom cestom."
           }
         },
         {
@@ -561,7 +627,8 @@
             "de": "Belohnen Sie sich mit einem hausgemachten Eis.",
             "hu": "Jutalmazza meg magát egy házi fagyival.",
             "ro": "Răsplătiți-vă cu o înghețată de casă.",
-            "en": "Reward your efforts with some delicious local gelato."
+            "en": "Reward your efforts with some delicious local gelato.",
+            "hr": "Nagradite svoj trud ukusnim domaćim gelatom."
           }
         }
       ],
@@ -569,7 +636,8 @@
         "de": "Erkunden Sie Pašman auf zwei Rädern! Von Tkon aus führt die Route zum ruhigen Kraj-Kloster und dann hinauf zum Veliki Bokolj, wo Sie die gesamte Inselwelt der Kornaten überblicken können. Die Rückfahrt führt an versteckten Buchten vorbei, ideal für einen Sprung ins Meer, bevor Sie den Tag gemütlich im Hafen ausklingen lassen.",
         "hu": "Fedezze fel Pašmant két keréken! Tkoni indulással az út a csendes kraj-i kolostorhoz, majd fel a Veliki Bokolj-hoz vezet, ahonnan beláthatja az egész Kornati-szigetvilágot. A visszaút rejtett öblök mellett halad el, amelyek ideálisak egy csobbanáshoz, mielőtt a kikötőben kényelmesen zárná a napot.",
         "ro": "Explorați Pašman pe două roți! Plecând din Tkon, traseul duce la mănăstirea liniștită din Kraj și apoi sus pe Veliki Bokolj, de unde puteți vedea întregul arhipelag Kornati. Drumul de întoarcere trece pe lângă golfuri ascunse, ideale pentru o baie în mare, înainte de a încheia ziua relaxat în port.",
-        "en": "Explore Pašman on two wheels! Starting from Tkon, the route takes you to the serene Kraj monastery and then up to Veliki Bokolj, offering a bird's-eye view of the Kornati islands. The ride back passes hidden coves perfect for a swim, ending with a well-deserved rest at the harbor."
+        "en": "Explore Pašman on two wheels! Starting from Tkon, the route takes you to the serene Kraj monastery and then up to Veliki Bokolj, offering a bird's-eye view of the Kornati islands. The ride back passes hidden coves perfect for a swim, ending with a well-deserved rest at the harbor.",
+        "hr": "Istražite Pašman na dva kotača! Polazeći iz Tkona, ruta vas vodi do mirnog samostana u Kraju, a zatim gore do Velikog Bokolja, nudeći pogled na Kornate iz ptičje perspektive. Povratak vodi pored skrivenih uvala savršenih za kupanje, a završava zasluženim odmorom u luci."
       },
       "gastro_picks": {
         "de": [
@@ -594,6 +662,12 @@
           {
             "name": "Restaurant Đardin",
             "tip": "Grilled lamb or fresh fish specialties."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Đardin",
+            "tip": "Specijaliteti od janjetine na žaru ili svježe ribe."
           }
         ]
       },
@@ -625,6 +699,13 @@
             "tip": "Infinite horizons and a fresh sea breeze.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vrh Veliki Bokolj",
+            "tip": "Beskrajni obzori i svježi morski povjetarac.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -650,6 +731,12 @@
           {
             "name": "Tkon Souvenir Shop",
             "tip": "Dried figs and traditional herbal liqueurs."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Suvenirnica Tkon",
+            "tip": "Suhe smokve i tradicionalni biljni likeri."
           }
         ]
       },
@@ -677,6 +764,12 @@
           "A helmet is essential for the gravel mountain paths.",
           "The cycling trails are generally well-marked.",
           "Start early to beat the midday Mediterranean heat."
+        ],
+        "hr": [
+          "Ponesite dovoljno vode jer ima malo hlada.",
+          "Kaciga je neophodna za planinske makadamske staze.",
+          "Biciklističke staze su općenito dobro označene.",
+          "Krenite rano kako biste izbjegli podnevnu mediteransku vrućinu."
         ]
       },
       "variants": {
@@ -685,7 +778,8 @@
             "de": "Die Radtour startet trotz Regen in Tkon, wobei gute Ausrüstung entscheidend ist. Die Fahrt zum Kloster St. Duje führt über befestigte Wege, die weniger schlammig sind. Mittags bietet der Strand von Mrljane ein dramatisches Panorama. Der Aufstieg zum Veliki Bokolj wird bei Nässe zur sportlichen Herausforderung. Nach einem kurzen Snack kehrt man sicher und erfrischt nach Tkon zurück.",
             "hu": "A kerékpártúra az eső ellenére indul Tkonból, a jó felszerelés elengedhetetlen. A Szent Duje-kolostorhoz vezető út burkolt szakaszai kevésbé sárásak. Délben Mrljane strandja drámai panorámát nyújt a szürke ég alatt. A Veliki Bokolj megmászása nedves időben igazi sportteljesítmény. Egy rövid snack után biztonságban és felfrissülve térünk vissza Tkonba.",
             "ro": "Turul cu bicicleta începe din Tkon în ciuda ploii, echipamentul bun fiind esențial. Drumul spre mănăstirea Sf. Duje urmează căi pavate, care sunt mai puțin noroioase. La prânz, plaja Mrljane oferă o panoramă dramatică. Urcarea pe Veliki Bokolj devine o provocare sportivă pe umezeală. După o gustare scurtă, revenim în siguranță și revigorați în Tkon.",
-            "en": "The bike tour starts in Tkon despite the rain, with good gear being essential. The ride to St. Duje monastery follows paved paths that are less muddy. At noon, Mrljane beach offers a dramatic panorama under grey skies. Climbing Veliki Bokolj becomes a sporting challenge in the wet. After a short snack, return safely and refreshed to Tkon."
+            "en": "The bike tour starts in Tkon despite the rain, with good gear being essential. The ride to St. Duje monastery follows paved paths that are less muddy. At noon, Mrljane beach offers a dramatic panorama under grey skies. Climbing Veliki Bokolj becomes a sporting challenge in the wet. After a short snack, return safely and refreshed to Tkon.",
+            "hr": "Biciklistička tura počinje u Tkonu unatoč kiši, pri čemu je dobra oprema ključna. Vožnja do samostana sv. Duje vodi popločanim stazama koje su manje blatnjave. U podne plaža Mrljane nudi dramatičnu panoramu pod sivim nebom. Uspon na Veliki Bokolj postaje sportski izazov po mokrom. Nakon kratkog zalogaja, vratite se sigurni i osvježeni u Tkon."
           },
           "stops": [
             {
@@ -694,7 +788,8 @@
                 "de": "Frage nach einem Rad mit Schutzblechen.",
                 "hu": "Kérj sárvédővel felszerelt kerékpárt.",
                 "ro": "Cere o bicicletă echipată cu aripi de protecție.",
-                "en": "Ask for a bike equipped with mudguards."
+                "en": "Ask for a bike equipped with mudguards.",
+                "hr": "Tražite bicikl opremljen blatobranima."
               }
             },
             {
@@ -703,7 +798,8 @@
                 "de": "Parke das Rad unter dem Dachvorsprung am Eingang.",
                 "hu": "Parkolj a tetőnyúlvány alatt a bejáratnál.",
                 "ro": "Parchează bicicleta sub streașina de la intrare.",
-                "en": "Park the bike under the roof overhang at the entrance."
+                "en": "Park the bike under the roof overhang at the entrance.",
+                "hr": "Parkirajte bicikl ispod nadstrešnice na ulazu."
               }
             },
             {
@@ -712,7 +808,8 @@
                 "de": "Kurze Pause unter den Bäumen am Strandrand.",
                 "hu": "Rövid pihenő a fák alatt a strand szélén.",
                 "ro": "Pauză scurtă sub copacii de la marginea plajei.",
-                "en": "Short break under the trees at the beach edge."
+                "en": "Short break under the trees at the beach edge.",
+                "hr": "Kratka pauza pod drvećem na rubu plaže."
               }
             },
             {
@@ -721,7 +818,8 @@
                 "de": "Vorsicht auf dem Schotter, er wird bei Regen instabil.",
                 "hu": "Vigyázz a murván, esőben instabillá válik.",
                 "ro": "Atenție pe pietriș, devine instabil la ploaie.",
-                "en": "Be careful on the gravel, it becomes unstable in rain."
+                "en": "Be careful on the gravel, it becomes unstable in rain.",
+                "hr": "Budite oprezni na makadamu, postaje nestabilan na kiši."
               }
             },
             {
@@ -730,7 +828,8 @@
                 "de": "Suche dir einen überdachten Platz in einer Bar.",
                 "hu": "Keress egy fedett helyet valamelyik bárban.",
                 "ro": "Caută un loc acoperit într-un bar local.",
-                "en": "Look for a covered spot in a local bar."
+                "en": "Look for a covered spot in a local bar.",
+                "hr": "Potražite natkriveno mjesto u lokalnom baru."
               }
             },
             {
@@ -739,7 +838,8 @@
                 "de": "Fahre vorsichtig, die Bremswege verlängern sich.",
                 "hu": "Óvatosan hajts, a fékút jelentősen meghosszabbodik.",
                 "ro": "Condu cu grijă, distanța de frânare crește.",
-                "en": "Drive carefully, braking distance increases."
+                "en": "Drive carefully, braking distance increases.",
+                "hr": "Vozite oprezno, put kočenja se produljuje."
               }
             },
             {
@@ -748,7 +848,8 @@
                 "de": "Wähle lieber einen warmen Tee statt Eis.",
                 "hu": "Válassz inkább meleg teát fagylalt helyett.",
                 "ro": "Alege mai degrabă un ceai cald în loc de înghețată.",
-                "en": "Choose a warm tea instead of ice cream."
+                "en": "Choose a warm tea instead of ice cream.",
+                "hr": "Odaberite topli čaj umjesto sladoleda."
               }
             }
           ],
@@ -780,6 +881,13 @@
               "Disc brakes are much more reliable in the wet.",
               "Clean the chain from sand and salt after the ride.",
               "Approach curves much slower than in dry conditions."
+            ],
+            "hr": [
+              "Nosite vodootpornu kišnu jaknu i hlače.",
+              "Izbjegavajte neasfaltirane ceste jer mogu postati vrlo blatnjave.",
+              "Disk kočnice su puno pouzdanije na mokrom.",
+              "Očistite lanac od pijeska i soli nakon vožnje.",
+              "Zavoje savladavajte puno sporije nego u suhim uvjetima."
             ]
           }
         },
@@ -788,7 +896,8 @@
             "de": "Die winterliche Radtour führt durch die stille Insellandschaft von Pašman. Das Kloster St. Duje ist ein friedlicher Zwischenstopp in der Morgensonne. Am verlassenen Strand von Mrljane spürt man die Freiheit der Nebensaison. Die Auffahrt zum Veliki Bokolj belohnt mit einer kristallklaren Fernsicht bis zu den Kornaten. Der Tag endet im Hafen von Tkon bei einem Heißgetränk, während die Sonne früh versinkt.",
             "hu": "A téli kerékpártúra Pašman csendes szigeti tájain vezet keresztül. A Szent Duje-kolostor békés megálló a reggeli napsütésben. Mrljane elhagyatott strandján érezni igazán a főszezonon kívüli szabadságot. A Veliki Bokolj-ra való feljutás kristálytiszta kilátást ad egészen a Kornati-szigetekig. A nap Tkon kikötőjében zárul egy forró itallal, ahogy a nap korán nyugovóra tér.",
             "ro": "Turul de iarnă cu bicicleta trece prin peisajul liniștit al insulei Pašman. Mănăstirea Sf. Duje este o oprire pașnică în soarele dimineții. Pe plaja pustie Mrljane se simte libertatea din afara sezonului. Urcarea pe Veliki Bokolj recompensează cu o vedere cristalină până la Insulele Kornati. Ziua se termină în portul Tkon cu o băutură caldă, în timp ce soarele apune devreme.",
-            "en": "The winter bike tour leads through the quiet island landscape of Pašman. St. Duje monastery is a peaceful stop in the morning sun. At the deserted Mrljane beach, you can feel the true freedom of the low season. The climb to Veliki Bokolj rewards you with crystal-clear views all the way to the Kornati islands. The day ends in Tkon harbor with a hot drink as the sun sets early."
+            "en": "The winter bike tour leads through the quiet island landscape of Pašman. St. Duje monastery is a peaceful stop in the morning sun. At the deserted Mrljane beach, you can feel the true freedom of the low season. The climb to Veliki Bokolj rewards you with crystal-clear views all the way to the Kornati islands. The day ends in Tkon harbor with a hot drink as the sun sets early.",
+            "hr": "Zimska biciklistička tura vodi kroz tihi otočki krajolik Pašmana. Samostan sv. Duje mirna je postaja na jutarnjem suncu. Na pustoj plaži Mrljane možete osjetiti pravu slobodu izvan sezone. Uspon na Veliki Bokolj nagrađuje vas kristalno čistim pogledom sve do Kornata. Dan završava u luci Tkon uz topli napitak dok sunce rano zalazi."
           },
           "stops": [
             {
@@ -797,7 +906,8 @@
                 "de": "Prüfe den Reifendruck, Kälte beeinflusst ihn.",
                 "hu": "Ellenőrizd a guminyomást, a hideg befolyásolja.",
                 "ro": "Verifică presiunea pneurilor, frigul o afectează.",
-                "en": "Check tire pressure, cold temperatures affect it."
+                "en": "Check tire pressure, cold temperatures affect it.",
+                "hr": "Provjerite tlak u gumama, hladnoća utječe na njega."
               }
             },
             {
@@ -806,7 +916,8 @@
                 "de": "Besuche das kleine Museum im Inneren.",
                 "hu": "Látogasd meg a benti kis múzeumot.",
                 "ro": "Vizitează micul muzeu din interior.",
-                "en": "Visit the small museum inside."
+                "en": "Visit the small museum inside.",
+                "hr": "Posjetite mali muzej unutar samostana."
               }
             },
             {
@@ -815,7 +926,8 @@
                 "de": "Die Bura weht hier oft direkt vom Festland.",
                 "hu": "A Bóra itt gyakran közvetlenül a szárazföld felől fúj.",
                 "ro": "Bora suflă aici adesea direct de pe continent.",
-                "en": "The Bura wind often blows directly from the mainland here."
+                "en": "The Bura wind often blows directly from the mainland here.",
+                "hr": "Ovdje bura često puše izravno s kopna."
               }
             },
             {
@@ -824,7 +936,8 @@
                 "de": "Oben ist es deutlich kühler, nimm eine Jacke mit.",
                 "hu": "Fent jóval hűvösebb van, vigyél magaddal dzsekit.",
                 "ro": "Sus e mult mai rece, ia o jachetă cu tine.",
-                "en": "It's much cooler at the top, take a jacket with you."
+                "en": "It's much cooler at the top, take a jacket with you.",
+                "hr": "Na vrhu je puno hladnije, ponesite jaknu."
               }
             },
             {
@@ -833,7 +946,8 @@
                 "de": "Heiße Getränke sind jetzt wichtiger als Snacks.",
                 "hu": "A forró italok most fontosabbak, mint a harapnivaló.",
                 "ro": "Băuturile calde sunt acum mai importante ca gustările.",
-                "en": "Hot drinks are more important than snacks now."
+                "en": "Hot drinks are more important than snacks now.",
+                "hr": "Topli napitci su sada važniji od grickalica."
               }
             },
             {
@@ -842,7 +956,8 @@
                 "de": "Achte auf die Schatten, dort ist es kälter.",
                 "hu": "Figyelj az árnyékos részekre, ott sokkal hidegebb van.",
                 "ro": "Atenție la zonele umbrite, acolo e mai frig.",
-                "en": "Watch out for shaded areas, it's colder there."
+                "en": "Watch out for shaded areas, it's colder there.",
+                "hr": "Pazite na zasjenjena područja, tamo je hladnije."
               }
             },
             {
@@ -851,7 +966,8 @@
                 "de": "Gönne dir einen heißen Kakao oder Tee.",
                 "hu": "Kényeztesd magad egy forró kakaóval vagy teával.",
                 "ro": "Răsfață-te cu o ciocolată caldă sau un ceai.",
-                "en": "Treat yourself to a hot cocoa or tea."
+                "en": "Treat yourself to a hot cocoa or tea.",
+                "hr": "Počastite se toplim kakaom ili čajem."
               }
             }
           ],
@@ -883,6 +999,13 @@
               "Bike lights are mandatory due to early dusk.",
               "The Bura wind can make cycling very strenuous.",
               "Take a thermos with a hot drink with you."
+            ],
+            "hr": [
+              "Nosite rukavice jer vjetar jako hladi prste.",
+              "Zimsko sunce je nisko i može biti zasljepljujuće.",
+              "Svjetla za bicikl su obavezna zbog ranog sumraka.",
+              "Bura može učiniti bicikliranje vrlo napornim.",
+              "Ponesite termosicu s toplim napitkom."
             ]
           }
         }
@@ -911,7 +1034,8 @@
             "de": "Erster Blick über den Pašman-Kanal.",
             "hu": "Első pillantás a Pašman-csatornára.",
             "ro": "Prima vedere asupra canalului Pašman.",
-            "en": "Your first panoramic view over the Pašman channel."
+            "en": "Your first panoramic view over the Pašman channel.",
+            "hr": "Vaš prvi panoramski pogled preko Pašmanskog kanala."
           }
         },
         {
@@ -929,7 +1053,8 @@
             "de": "Parken Sie direkt am Klosterzugang.",
             "hu": "Parkoljon közvetlenül a kolostor bejáratánál.",
             "ro": "Parcați chiar la intrarea în mănăstire.",
-            "en": "Park right by the monastery entrance for easy access."
+            "en": "Park right by the monastery entrance for easy access.",
+            "hr": "Parkirajte odmah uz ulaz u samostan za lakši pristup."
           }
         },
         {
@@ -947,7 +1072,8 @@
             "de": "Blick auf die berühmte Herzinsel vom Hügel aus.",
             "hu": "Kilátás a híres szív-szigetre a dombról.",
             "ro": "Vedere asupra celebrei insule în formă de inimă de pe deal.",
-            "en": "View the famous heart-shaped island from the coastal heights."
+            "en": "View the famous heart-shaped island from the coastal heights.",
+            "hr": "Pogledajte poznati otok u obliku srca s obalnih visina."
           }
         },
         {
@@ -965,7 +1091,8 @@
             "de": "Genießen Sie fangfrischen Fisch im Dorfzentrum.",
             "hu": "Élvezze a frissen fogott halat a falu központjában.",
             "ro": "Bucurați-vă de pește proaspăt prins în centrul satului.",
-            "en": "Enjoy some freshly caught fish in the heart of the village."
+            "en": "Enjoy some freshly caught fish in the heart of the village.",
+            "hr": "Uživajte u svježe ulovljenoj ribi u srcu mjesta."
           }
         },
         {
@@ -983,7 +1110,8 @@
             "de": "Ruhige Bucht auf der Südseite der Insel.",
             "hu": "Csendes öböl a sziget déli oldalán.",
             "ro": "Golf liniștit pe partea de sud a insulei.",
-            "en": "A peaceful bay located on the southern side of the island."
+            "en": "A peaceful bay located on the southern side of the island.",
+            "hr": "Mirna uvala smještena na južnoj strani otoka."
           }
         },
         {
@@ -1001,7 +1129,8 @@
             "de": "Letzter Blick auf das Meer vor der Fähre.",
             "hu": "Utolsó pillantás a tengerre a komp előtt.",
             "ro": "Ultima vedere asupra mării înainte de feribot.",
-            "en": "One last look at the sea before heading to the ferry."
+            "en": "One last look at the sea before heading to the ferry.",
+            "hr": "Još jedan pogled na more prije odlaska na trajekt."
           }
         }
       ],
@@ -1009,7 +1138,8 @@
         "de": "Mit dem Auto lässt sich die ganze Vielfalt von Pašman entdecken. Von den historischen Klöstern im Süden führt die Fahrt nach Norden zu den besten Aussichtspunkten auf die Herzinsel Galešnjak. Der Nachmittag gehört einer abgelegenen Bucht auf der wilden Südseite, bevor Sie pünktlich zur Fähre wieder in Tkon eintreffen.",
         "hu": "Autóval Pašman teljes sokszínűsége felfedezhető. A déli történelmi kolostoroktól az út északra vezet a legjobb kilátópontokhoz, ahonnan rálátni a Galešnjak szív-szigetre. A délutánt egy eldugott öbölben töltheti a vadregényes déli oldalon, majd pontban a komphoz érkezik vissza Tkonba.",
         "ro": "Cu mașina puteți descoperi întreaga diversitate a insulei Pašman. De la mănăstirile istorice din sud, drumul duce spre nord la cele mai bune puncte de belvedere asupra insulei în formă de inimă Galešnjak. După-amiaza aparține unui golf izolat de pe partea sudică sălbatică, înainte de a reveni în Tkon la timp pentru feribot.",
-        "en": "Discover the full diversity of Pašman by car. From the historic monasteries in the south, drive north to find the best viewpoints of the heart-shaped Galešnjak island. Spend a peaceful afternoon in a secluded bay on the island's wild southern side before returning to Tkon for your ferry."
+        "en": "Discover the full diversity of Pašman by car. From the historic monasteries in the south, drive north to find the best viewpoints of the heart-shaped Galešnjak island. Spend a peaceful afternoon in a secluded bay on the island's wild southern side before returning to Tkon for your ferry.",
+        "hr": "Otkrijte punu raznolikost Pašmana automobilom. Od povijesnih samostana na jugu, vozite prema sjeveru kako biste pronašli najbolje vidikovce na otok Galešnjak u obliku srca. Provedite mirno poslijepodne u osamljenoj uvali na divljoj južnoj strani otoka prije povratka u Tkon na trajekt."
       },
       "gastro_picks": {
         "de": [
@@ -1034,6 +1164,12 @@
           {
             "name": "Konoba Deat",
             "tip": "Traditional 'Peka' (order in advance)."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Deat",
+            "tip": "Tradicionalna 'Peka' (naručiti unaprijed)."
           }
         ]
       },
@@ -1065,6 +1201,13 @@
             "tip": "Pure nature away from any crowds.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Južne uvale",
+            "tip": "Čista priroda daleko od gužve.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1090,6 +1233,12 @@
           {
             "name": "OPG Matulić",
             "tip": "Award-winning chili sauces and cosmetics."
+          }
+        ],
+        "hr": [
+          {
+            "name": "OPG Matulić",
+            "tip": "Nagrađivani chili umaci i kozmetika."
           }
         ]
       },
@@ -1117,6 +1266,12 @@
           "Parking in the villages is mostly free of charge.",
           "Fuel up on the mainland; gas stations are scarce on the island.",
           "Stop at roadside stalls for fresh local fruit."
+        ],
+        "hr": [
+          "Ceste mogu biti uske, stoga vozite oprezno.",
+          "Parkiranje u selima je uglavnom besplatno.",
+          "Natočite gorivo na kopnu; benzinske postaje su rijetke na otoku.",
+          "Zaustavite se na štandovima uz cestu za svježe domaće voće."
         ]
       },
       "variants": {
@@ -1125,7 +1280,8 @@
             "de": "Mit dem Auto lässt sich Pašman auch bei Regen komfortabel erkunden. Vom Aussichtspunkt Tkon blickt man auf das graue Meer, bevor es zum Kloster St. Duje geht. Die Küstenstraße bietet spektakuläre Ausblicke auf die herzförmige Insel Galešnjak im Regen. Mittags genießt man lokale Spezialitäten im Dorf Pašman. Der Nachmittag an der Uvala Soline ist ruhig, während der Regen gegen das Autodach trommelt.",
             "hu": "Autóval Pašman esőben is kényelmesen felfedezhető. A tkoni kilátópontról a szürke tengerre látunk, mielőtt a Szent Duje-kolostorhoz hajtanánk. A parti út esőben is látványos kilátást nyújt a szív alakú Galešnjak-szigetre. Délben helyi specialitásokat kóstolunk Pašman faluban. Délután a Soline-öbölben pihenünk, miközben az eső kopog az autó tetőjén.",
             "ro": "Cu mașina, Pašman poate fi explorat confortabil chiar și pe ploaie. De la punctul de belvedere Tkon privim marea gri înainte de a merge la mănăstirea Sf. Duje. Drumul de coastă oferă vederi spectaculoase spre insula Galešnjak în ploaie. La prânz, savurăm specialități locale în satul Pašman. După-amiaza la Uvala Soline este liniștită, ascultând ploaia pe plafon.",
-            "en": "By car, Pašman can be explored comfortably even in the rain. From the Tkon viewpoint, look out over the grey sea before heading to St. Duje monastery. The coastal road offers spectacular views of the heart-shaped Galešnjak island in the rain. At noon, enjoy local specialties in Pašman village. The afternoon at Uvala Soline is peaceful, listening to the rain on the car roof."
+            "en": "By car, Pašman can be explored comfortably even in the rain. From the Tkon viewpoint, look out over the grey sea before heading to St. Duje monastery. The coastal road offers spectacular views of the heart-shaped Galešnjak island in the rain. At noon, enjoy local specialties in Pašman village. The afternoon at Uvala Soline is peaceful, listening to the rain on the car roof.",
+            "hr": "Automobilom se Pašman može udobno istraživati čak i na kiši. S vidikovca u Tkonu promatrajte sivo more prije odlaska u samostan sv. Duje. Obalna cesta nudi spektakularne poglede na Galešnjak pod kišom. U podne uživajte u lokalnim specijalitetima u mjestu Pašman. Poslijepodne u uvali Soline je mirno, slušajući kišu na krovu automobila."
           },
           "stops": [
             {
@@ -1134,7 +1290,8 @@
                 "de": "Bleibe im Auto und genieße die Aussicht durch das Fenster.",
                 "hu": "Maradj az autóban, és élvezd a kilátást az ablakból.",
                 "ro": "Rămâi în mașină și admiră vederea prin geam.",
-                "en": "Stay in the car and enjoy the view through the window."
+                "en": "Stay in the car and enjoy the view through the window.",
+                "hr": "Ostanite u autu i uživajte u pogledu kroz prozor."
               }
             },
             {
@@ -1143,7 +1300,8 @@
                 "de": "Parke so nah wie möglich am Eingang.",
                 "hu": "Parkolj a lehető legközelebb a bejárathoz.",
                 "ro": "Parchează cât mai aproape de intrare.",
-                "en": "Park as close as possible to the entrance."
+                "en": "Park as close as possible to the entrance.",
+                "hr": "Parkirajte što bliže ulazu."
               }
             },
             {
@@ -1152,7 +1310,8 @@
                 "de": "Wische die Scheiben frei für das perfekte Foto.",
                 "hu": "Töröld le a szélvédőt a tökéletes fotóért.",
                 "ro": "Șterge geamurile pentru fotografia perfectă.",
-                "en": "Wipe the windows for the perfect photo."
+                "en": "Wipe the windows for the perfect photo.",
+                "hr": "Obrišite prozore za savršenu fotografiju."
               }
             },
             {
@@ -1161,7 +1320,8 @@
                 "de": "Es gibt Parkplätze direkt vor den Konobas.",
                 "hu": "A konobák előtt közvetlenül vannak parkolók.",
                 "ro": "Există locuri de parcare direct în fața tavernelor.",
-                "en": "There are parking spaces directly in front of the taverns."
+                "en": "There are parking spaces directly in front of the taverns.",
+                "hr": "Ima parkirnih mjesta izravno ispred konoba."
               }
             },
             {
@@ -1170,7 +1330,8 @@
                 "de": "Beobachte das Wetterspiel bei einer Tasse Kaffee.",
                 "hu": "Figyeld az időjárást egy csésze kávé mellett.",
                 "ro": "Observă jocul vremii la o ceașcă de cafea.",
-                "en": "Watch the weather patterns over a cup of coffee."
+                "en": "Watch the weather patterns over a cup of coffee.",
+                "hr": "Promatrajte promjene vremena uz šalicu kave."
               }
             },
             {
@@ -1179,7 +1340,8 @@
                 "de": "Fahre vorsichtig, Aquaplaning-Gefahr auf der Magistrale.",
                 "hu": "Vezess óvatosan, felúszásveszély a főúton.",
                 "ro": "Condu cu grijă, pericol de acvaplanare pe drum.",
-                "en": "Drive carefully, danger of aquaplaning on the road."
+                "en": "Drive carefully, danger of aquaplaning on the road.",
+                "hr": "Vozite oprezno, opasnost od akvaplaninga na cesti."
               }
             }
           ],
@@ -1211,6 +1373,13 @@
               "Take advantage of beach parking, it's often empty now.",
               "Use dipped headlights for better visibility.",
               "Keep a blanket in the car in case it gets cold."
+            ],
+            "hr": [
+              "Provjerite brisače prije polaska.",
+              "Otočke ceste mogu biti klizave na kiši.",
+              "Iskoristite parkirališta uz plaže, sada su često prazna.",
+              "Koristite oborena svjetla za bolju vidljivost.",
+              "Držite deku u autu u slučaju da zahladi."
             ]
           }
         },
@@ -1219,7 +1388,8 @@
             "de": "Pašman im Winter mit dem Auto ist ein Erlebnis purer Ruhe. Der Aussichtspunkt Tkon bietet eine kristallklare Sicht auf das Velebit-Gebirge. Die Fahrt führt zum Kloster St. Duje und weiter entlang der Küste mit Blick auf Galešnjak. Das Mittagessen im Dorf Pašman ist authentisch und ohne Hektik. An der Uvala Soline genießt man die Wintersonne, bevor man den frühen, aber farbenfrohen Sonnenuntergang erlebt.",
             "hu": "Pašman télen autóval a tiszta nyugalom élménye. A tkoni kilátópontról kristálytisztán látszik a Velebit-hegység. Az út a Szent Duje-kolostorhoz vezet, majd tovább a part mentén, rálátással Galešnjakra. Az ebéd Pašman faluban autentikus és sietség nélküli. A Soline-öbölben élvezzük a téli napsütést, mielőtt a korai, de színpompás naplementét megcsodálnánk.",
             "ro": "Pašman iarna cu mașina este o experiență de liniște pură. Belvedere Tkon oferă o vedere clară spre munții Velebit. Drumul duce la mănăstirea Sf. Duje și de-a lungul coastei cu vedere spre Galešnjak. Prânzul în satul Pašman este autentic și fără grabă. La Uvala Soline ne bucurăm de soarele de iarnă înainte de apusul devreme, dar colorat.",
-            "en": "Pašman in winter by car is an experience of pure tranquility. The Tkon viewpoint offers crystal-clear views of the Velebit mountains. The drive leads to St. Duje monastery and further along the coast with views of Galešnjak. Lunch in Pašman village is authentic and unhurried. At Uvala Soline, enjoy the winter sun before witnessing the early but colorful sunset."
+            "en": "Pašman in winter by car is an experience of pure tranquility. The Tkon viewpoint offers crystal-clear views of the Velebit mountains. The drive leads to St. Duje monastery and further along the coast with views of Galešnjak. Lunch in Pašman village is authentic and unhurried. At Uvala Soline, enjoy the winter sun before witnessing the early but colorful sunset.",
+            "hr": "Pašman zimi automobilom doživljaj je potpunog mira. Vidikovac Tkon nudi kristalno čist pogled na Velebit. Vožnja vodi do samostana sv. Duje i dalje uz obalu s pogledom na Galešnjak. Ručak u mjestu Pašman je autentičan i opušten. U uvali Soline uživajte u zimskom suncu prije nego što doživite rani, ali šareni zalazak sunca."
           },
           "stops": [
             {
@@ -1228,7 +1398,8 @@
                 "de": "Beste Zeit für Fernfotos vom Velebit.",
                 "hu": "A legjobb idő távoli fotókhoz a Velebitről.",
                 "ro": "Cel mai bun moment pentru fotografii spre Velebit.",
-                "en": "Best time for long-distance photos of Velebit."
+                "en": "Best time for long-distance photos of Velebit.",
+                "hr": "Najbolje vrijeme za fotografije Velebita iz daljine."
               }
             },
             {
@@ -1237,7 +1408,8 @@
                 "de": "Im Winter sind die Mönche oft für Gespräche offen.",
                 "hu": "Télen a szerzetesek gyakran nyitottak egy beszélgetésre.",
                 "ro": "Iarna, călugării sunt adesea deschiși la discuții.",
-                "en": "In winter, the monks are often open to conversations."
+                "en": "In winter, the monks are often open to conversations.",
+                "hr": "Zimi su redovnici često otvoreni za razgovor."
               }
             },
             {
@@ -1246,7 +1418,8 @@
                 "de": "Die Insel wirkt im Winterlicht besonders plastisch.",
                 "hu": "A sziget a téli fényben különösen plasztikusnak tűnik.",
                 "ro": "Insula pare foarte definită în lumina de iarnă.",
-                "en": "The island looks particularly vivid in the winter light."
+                "en": "The island looks particularly vivid in the winter light.",
+                "hr": "Otok izgleda posebno živopisno u zimskom svjetlu."
               }
             },
             {
@@ -1255,7 +1428,8 @@
                 "de": "Einige Lokale haben nur am Wochenende geöffnet.",
                 "hu": "Néhány hely csak hétvégén van nyitva.",
                 "ro": "Unele localuri sunt deschise doar în weekend.",
-                "en": "Some places are only open on weekends."
+                "en": "Some places are only open on weekends.",
+                "hr": "Neka su mjesta otvorena samo vikendom."
               }
             },
             {
@@ -1264,7 +1438,8 @@
                 "de": "Genieße die absolute Einsamkeit am Strand.",
                 "hu": "Élvezd a strand abszolút magányát.",
                 "ro": "Bucură-te de singurătatea absolută de pe plajă.",
-                "en": "Enjoy the absolute solitude on the beach."
+                "en": "Enjoy the absolute solitude on the beach.",
+                "hr": "Uživajte u apsolutnoj samoći na plaži."
               }
             },
             {
@@ -1273,7 +1448,8 @@
                 "de": "Achte auf Wildtiere, die die Straße überqueren.",
                 "hu": "Vigyázz a vadállatokra, amik átkelhetnek az úton.",
                 "ro": "Atenție la animalele sălbatice care traversează drumul.",
-                "en": "Watch out for wildlife crossing the road."
+                "en": "Watch out for wildlife crossing the road.",
+                "hr": "Pazite na divljač koja prelazi cestu."
               }
             }
           ],
@@ -1305,6 +1481,13 @@
               "Island gas stations often have shorter hours in winter.",
               "The roads are almost empty, enjoy the drive.",
               "Take a warm thermos for your breaks."
+            ],
+            "hr": [
+              "Grijanje u autu osigurava ugodno putovanje.",
+              "Naknade za parkiranje često se ne naplaćuju izvan sezone.",
+              "Otočke benzinske postaje zimi često imaju kraće radno vrijeme.",
+              "Ceste su gotovo prazne, uživajte u vožnji.",
+              "Ponesite toplu termosicu za pauze."
             ]
           }
         }
@@ -1333,7 +1516,8 @@
             "de": "Prüfen Sie den Busfahrplan direkt am Hafen.",
             "hu": "Ellenőrizze a buszmenetrendet a kikötőben.",
             "ro": "Verificați mersul autobuzelor chiar în port.",
-            "en": "Check the local bus schedule at the harbor upon arrival."
+            "en": "Check the local bus schedule at the harbor upon arrival.",
+            "hr": "Provjerite lokalni vozni red autobusa u luci odmah po dolasku."
           }
         },
         {
@@ -1351,7 +1535,8 @@
             "de": "Fahrt mit dem Inselebus nach Kraj.",
             "hu": "Utazás a szigeti busszal Krajba.",
             "ro": "Călătorie cu autobuzul insulei până în Kraj.",
-            "en": "Take the island bus from Tkon to the village of Kraj."
+            "en": "Take the island bus from Tkon to the village of Kraj.",
+            "hr": "Idite otočkim autobusom iz Tkona do sela Kraj."
           }
         },
         {
@@ -1369,7 +1554,8 @@
             "de": "Kurzer Fußweg vom Kloster zum Strand.",
             "hu": "Rövid séta a kolostortól a strandig.",
             "ro": "Scurtă plimbare de la mănăstire la plajă.",
-            "en": "A very short walk from the monastery to the beach."
+            "en": "A very short walk from the monastery to the beach.",
+            "hr": "Vrlo kratka šetnja od samostana do plaže."
           }
         },
         {
@@ -1387,7 +1573,8 @@
             "de": "Zeit für ein spätes Mittagessen am Hafen.",
             "hu": "Idő egy késői ebédre a kikötőben.",
             "ro": "Timp pentru un prânz târziu în port.",
-            "en": "Time for a late lunch by the Tkon harbor side."
+            "en": "Time for a late lunch by the Tkon harbor side.",
+            "hr": "Vrijeme za kasni ručak uz obalu u Tkonu."
           }
         },
         {
@@ -1405,7 +1592,8 @@
             "de": "Letzter Stopp zu Fuß vom Hafen aus.",
             "hu": "Utolsó megálló gyalogosan a kikötőből.",
             "ro": "Ultima oprire pe jos din port.",
-            "en": "The final stop, reachable by foot from the harbor."
+            "en": "The final stop, reachable by foot from the harbor.",
+            "hr": "Posljednja postaja, dostupna pješice iz luke."
           }
         }
       ],
@@ -1413,7 +1601,8 @@
         "de": "Mit Fähre und Bus lässt sich Pašman wunderbar entspannt erleben. Nach der Ankunft in Tkon bringt Sie der Inselebus zum Kloster in Kraj und den umliegenden Stränden. Den späten Nachmittag verbringen Sie wieder in Tkon, mit einem kurzen Spaziergang zum Ćokovac-Kloster für den perfekten Abschluss.",
         "hu": "Komppal és busszal Pašman csodálatosan pihentető módon élhető át. Tkoni érkezés után a szigeti busz elviszi a kraj-i kolostorhoz és a környező strandokhoz. A késő délutánt ismét Tkonban tölti, egy rövid sétával a Ćokovac-kolostorhoz a tökéletes befejezés érdekében.",
         "ro": "Cu feribotul și autobuzul, Pašman poate fi experimentat într-un mod minunat de relaxant. După sosirea în Tkon, autobuzul insulei vă duce la mănăstirea din Kraj și la plajele din jur. Petreceți după-amiaza târzie din nou în Tkon, cu o scurtă plimbare la mănăstirea Ćokovac pentru finalul perfect.",
-        "en": "Experience Pašman in a truly relaxed way using the ferry and local bus. After arriving in Tkon, take the bus to the Kraj monastery and nearby beaches. Spend your late afternoon back in Tkon with a gentle walk up to Ćokovac monastery for a perfect end to the day."
+        "en": "Experience Pašman in a truly relaxed way using the ferry and local bus. After arriving in Tkon, take the bus to the Kraj monastery and nearby beaches. Spend your late afternoon back in Tkon with a gentle walk up to Ćokovac monastery for a perfect end to the day.",
+        "hr": "Doživite Pašman na doista opušten način koristeći trajekt i lokalni autobus. Nakon dolaska u Tkon, idite autobusom do samostana Kraj i obližnjih plaža. Kasno poslijepodne provedite ponovno u Tkonu uz lagani uspon do samostana Ćokovac za savršen kraj dana."
       },
       "gastro_picks": {
         "de": [
@@ -1438,6 +1627,12 @@
           {
             "name": "Tkon Bakery",
             "tip": "Try some local 'Burek' for a quick snack."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pekara Tkon",
+            "tip": "Probajte lokalni burek za brzi zalogaj."
           }
         ]
       },
@@ -1469,6 +1664,13 @@
             "tip": "A perfect spot for quiet reflection.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vrt samostana Kraj",
+            "tip": "Savršeno mjesto za tiho razmišljanje.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1494,6 +1696,12 @@
           {
             "name": "Harbor Kiosk",
             "tip": "Pick up island postcards and magazines."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Kiosk u luci",
+            "tip": "Nabavite otočke razglednice i časopise."
           }
         ]
       },
@@ -1521,6 +1729,12 @@
           "Purchase your tickets directly from the driver.",
           "Bus services are significantly reduced on Sundays.",
           "Keep some small change ready for the bus fare."
+        ],
+        "hr": [
+          "Autobusi su usklađeni s dolascima trajekata.",
+          "Kupite karte izravno kod vozača.",
+          "Autobusne linije su značajno reducirane nedjeljom.",
+          "Pripremite sitan novac za autobusnu kartu."
         ]
       },
       "variants": {
@@ -1529,7 +1743,8 @@
             "de": "Der Tag beginnt mit der Überfahrt der Fähre nach Tkon, wobei man den Regen vom geschützten Deck aus beobachtet. Mit dem Inselbus geht es zum Kloster St. Duje. Ein ausgedehntes Mittagessen in Kraj bietet Schutz und lokale Köstlichkeiten. Nachmittags kehrt man nach Tkon zurück, um die gemütliche Atmosphäre in den Hafencafés zu genießen. Der Abschluss bildet der Besuch des Klosters Ćokovac.",
             "hu": "A nap a tkoni komppal indul, ahol a fedett fedélzetről figyeljük az esőt. A szigeti busszal utazunk a Szent Duje-kolostorhoz. Egy hosszú ebéd Krajban védelmet és helyi finomságokat kínál. Délután visszatérünk Tkonba, hogy kiélvezzük a kikötői kávézók hangulatát. A napot a Ćokovac-kolostor meglátogatása zárja.",
             "ro": "Ziua începe cu feribotul spre Tkon, observând ploaia de pe puntea protejată. Cu autobuzul insulei mergem spre mănăstirea Sf. Duje. Un prânz prelungit în Kraj oferă adăpost și delicatese locale. După-amiaza revenim în Tkon pentru a savura atmosfera cafenelelor din port. Finalul este marcat de vizita la mănăstirea Ćokovac.",
-            "en": "The day begins with the ferry crossing to Tkon, watching the rain from the protected deck. Take the island bus to St. Duje monastery. An extended lunch in Kraj offers shelter and local delicacies. In the afternoon, return to Tkon to enjoy the cozy atmosphere of the harbor cafes. The day concludes with a visit to Ćokovac monastery."
+            "en": "The day begins with the ferry crossing to Tkon, watching the rain from the protected deck. Take the island bus to St. Duje monastery. An extended lunch in Kraj offers shelter and local delicacies. In the afternoon, return to Tkon to enjoy the cozy atmosphere of the harbor cafes. The day concludes with a visit to Ćokovac monastery.",
+            "hr": "Dan počinje vožnjom trajektom do Tkona, promatrajući kišu sa zaštićene palube. Idite otočkim autobusom do samostana sv. Duje. Produženi ručak u Kraju nudi zaklon i lokalne delicije. Poslijepodne se vratite u Tkon kako biste uživali u ugodnoj atmosferi lučkih kafića. Dan završava posjetom samostanu Ćokovac."
           },
           "stops": [
             {
@@ -1538,7 +1753,8 @@
                 "de": "Bleibe im Passagierraum, bis das Schiff anlegt.",
                 "hu": "Maradj az utastérben, amíg a hajó kiköt.",
                 "ro": "Rămâi în salonul de pasageri până la acostare.",
-                "en": "Stay in the passenger lounge until the ship docks."
+                "en": "Stay in the passenger lounge until the ship docks.",
+                "hr": "Ostanite u salonu za putnike dok brod ne pristane."
               }
             },
             {
@@ -1547,7 +1763,8 @@
                 "de": "Die Bushaltestelle ist nur wenige Schritte entfernt.",
                 "hu": "A buszmegálló csak pár lépésre van.",
                 "ro": "Stația de autobuz este la doar câțiva pași.",
-                "en": "The bus stop is just a few steps away."
+                "en": "The bus stop is just a few steps away.",
+                "hr": "Autobusna stanica je udaljena samo nekoliko koraka."
               }
             },
             {
@@ -1556,7 +1773,8 @@
                 "de": "Verlängere die Mittagspause, bis der Regen nachlässt.",
                 "hu": "Hosszabbítsd meg az ebédet, amíg csendesedik az eső.",
                 "ro": "Prelungește pauza de prânz până se oprește ploaia.",
-                "en": "Extend your lunch break until the rain eases off."
+                "en": "Extend your lunch break until the rain eases off.",
+                "hr": "Produžite pauzu za ručak dok kiša ne oslabi."
               }
             },
             {
@@ -1565,7 +1783,8 @@
                 "de": "Nutze die Zeit im Bus für die Reiseplanung.",
                 "hu": "Használd a buszozást a további tervezésre.",
                 "ro": "Folosește timpul din autobuz pentru planificare.",
-                "en": "Use the time on the bus for travel planning."
+                "en": "Use the time on the bus for travel planning.",
+                "hr": "Iskoristite vrijeme u autobusu za planiranje putovanja."
               }
             },
             {
@@ -1574,7 +1793,8 @@
                 "de": "Achte auf den Fahrplan der Fähre für die Rückreise.",
                 "hu": "Figyeld a komp menetrendjét a visszautazáshoz.",
                 "ro": "Verifică programul feribotului pentru retur.",
-                "en": "Check the ferry schedule for your return trip."
+                "en": "Check the ferry schedule for your return trip.",
+                "hr": "Provjerite vozni red trajekta za povratak."
               }
             }
           ],
@@ -1606,6 +1826,13 @@
               "Always have some small change ready for the bus ticket.",
               "The harbor cafes in Tkon offer free Wi-Fi.",
               "A small backpack with a rain cover is practical."
+            ],
+            "hr": [
+              "Provjerite vozni red, može se razlikovati na kiši.",
+              "Trajekt je najpouzdaniji prijevoz po vjetrovitom vremenu.",
+              "Uvijek imajte sitniš spreman za autobusnu kartu.",
+              "Lučki kafići u Tkonu nude besplatan Wi-Fi.",
+              "Mali ruksak s navlakom za kišu je praktičan."
             ]
           }
         },
@@ -1614,7 +1841,8 @@
             "de": "Mit der Winterfähre erreicht man das ruhige Tkon. Die Busfahrt über die Insel bietet weite Ausblicke auf die Adria und das Festland. Das Kloster St. Duje ist ein besinnlicher Ort in der klaren Winterluft. Nach einem gemütlichen Mittagessen in Kraj geht es zurück nach Tkon. Hier genießt man die authentische Atmosphäre der Insel in der Nebensaison, bevor man das Kloster Ćokovac besucht.",
             "hu": "A téli komppal érkezünk a csendes Tkonba. A buszozás a szigeten át széles kilátást nyújt az Adriára és a szárazföldre. A Szent Duje-kolostor meghitt hely a tiszta téli levegőben. Egy kényelmes ebéd után Krajban visszatérünk Tkonba. Itt kiélvezhetjük a sziget autentikus hangulatát utószezonban, mielőtt meglátogatnánk a Ćokovac-kolostort.",
             "ro": "Cu feribotul de iarnă ajungem în liniștitul Tkon. Călătoria cu autobuzul oferă vederi largi spre Adriatica și continent. Mănăstirea Sf. Duje este un loc de reculegere în aerul curat de iarnă. După un prânz plăcut în Kraj, revenim în Tkon. Aici savurăm atmosfera autentică a insulei în extrasezon, înainte de a vizita mănăstirea Ćokovac.",
-            "en": "Take the winter ferry to reach the quiet Tkon. The bus ride across the island offers wide views of the Adriatic and the mainland. St. Duje monastery is a contemplative place in the clear winter air. After a cozy lunch in Kraj, return to Tkon. Here, enjoy the authentic atmosphere of the island in the low season before visiting Ćokovac monastery."
+            "en": "Take the winter ferry to reach the quiet Tkon. The bus ride across the island offers wide views of the Adriatic and the mainland. St. Duje monastery is a contemplative place in the clear winter air. After a cozy lunch in Kraj, return to Tkon. Here, enjoy the authentic atmosphere of the island in the low season before visiting Ćokovac monastery.",
+            "hr": "Krenite zimskim trajektom do tihog Tkona. Vožnja autobusom preko otoka nudi široke poglede na Jadran i kopno. Samostan sv. Duje je kontemplativno mjesto na čistom zimskom zraku. Nakon ugodnog ručka u Kraju, vratite se u Tkon. Ovdje uživajte u autentičnoj atmosferi otoka izvan sezone prije posjeta samostanu Ćokovac."
           },
           "stops": [
             {
@@ -1623,7 +1851,8 @@
                 "de": "Im Winter gibt es weniger Fährverbindungen.",
                 "hu": "Télen kevesebb komp járat indul.",
                 "ro": "Iarna sunt mai puține curse de feribot.",
-                "en": "There are fewer ferry connections in winter."
+                "en": "There are fewer ferry connections in winter.",
+                "hr": "Zimi ima manje trajektnih linija."
               }
             },
             {
@@ -1632,7 +1861,8 @@
                 "de": "Wärme dich im Inneren der Kirche auf.",
                 "hu": "Melegedj fel a templom belsejében.",
                 "ro": "Încălzește-te în interiorul bisericii.",
-                "en": "Warm up inside the church."
+                "en": "Warm up inside the church.",
+                "hr": "Ugrijte se unutar crkve."
               }
             },
             {
@@ -1641,7 +1871,8 @@
                 "de": "Frage nach den Tagesgerichten für Einheimische.",
                 "hu": "Kérdezz rá a helyieknek készült napi ajánlatokra.",
                 "ro": "Întreabă de meniul zilei pentru localnici.",
-                "en": "Ask for the daily specials made for locals."
+                "en": "Ask for the daily specials made for locals.",
+                "hr": "Pitajte za dnevne specijalitete pripremljene za domaće ljude."
               }
             },
             {
@@ -1650,7 +1881,8 @@
                 "de": "Der Bus fährt im Winter seltener, plane voraus.",
                 "hu": "A busz télen ritkábban jár, tervezz előre.",
                 "ro": "Autobuzul circulă mai rar iarna, planifică din timp.",
-                "en": "The bus runs less frequently in winter, plan ahead."
+                "en": "The bus runs less frequently in winter, plan ahead.",
+                "hr": "Autobus zimi vozi rjeđe, planirajte unaprijed."
               }
             },
             {
@@ -1659,7 +1891,8 @@
                 "de": "Der Aufstieg hält dich auch im Winter warm.",
                 "hu": "A felkapaszkodás télen is melegen tart.",
                 "ro": "Urcușul te va menține cald și iarna.",
-                "en": "The climb will keep you warm even in winter."
+                "en": "The climb will keep you warm even in winter.",
+                "hr": "Uspon će vas ugrijati čak i zimi."
               }
             }
           ],
@@ -1691,6 +1924,13 @@
               "Dress warmly, it's often drafty on the ship.",
               "Keep the schedules with you digitally or printed.",
               "Use the time for conversations with the islanders."
+            ],
+            "hr": [
+              "Zimski vozni red autobusa je značajno reduciran.",
+              "Trajekt može biti otkazan tijekom jakog juga.",
+              "Odjenite se toplo, na brodu je često propuh.",
+              "Nosite vozne redove sa sobom u digitalnom ili tiskanom obliku.",
+              "Iskoristite vrijeme za razgovor s otočanima."
             ]
           }
         }

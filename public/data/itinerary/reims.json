@@ -36,7 +36,8 @@
             "de": "Bewundern Sie das Lächeln des Engels am Westportal.",
             "hu": "Keresse meg a mosolygó angyalt a nyugati kapunál.",
             "ro": "Admirați îngerul zâmbitor de la portalul de vest.",
-            "en": "Look for the Smiling Angel on the west portal."
+            "en": "Look for the Smiling Angel on the west portal.",
+            "fr": "Cherchez l'Ange au Sourire sur le portail ouest."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Sehen Sie sich den Talisman von Karl dem Großen an.",
             "hu": "Nézze meg Nagy Károly talizmánját a kincstárban.",
             "ro": "Vedeți talismanul lui Carol cel Mare în tezaur.",
-            "en": "See Charlemagne's talisman in the treasury."
+            "en": "See Charlemagne's talisman in the treasury.",
+            "fr": "Découvrez le talisman de Charlemagne dans le trésor."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Perfekter Ort für Fotos der Statue von Ludwig XV.",
             "hu": "Tökéletes hely fotózni XV. Lajos szobrát.",
             "ro": "Loc perfect pentru poze cu statuia lui Ludovic al XV-lea.",
-            "en": "Perfect spot for photos of Louis XV's statue."
+            "en": "Perfect spot for photos of Louis XV's statue.",
+            "fr": "Spot parfait pour des photos de la statue de Louis XV."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Verpassen Sie nicht die Werke von Camille Corot.",
             "hu": "Ne hagyja ki Camille Corot műveit.",
             "ro": "Nu ratați lucrările lui Camille Corot.",
-            "en": "Don't miss the works by Camille Corot."
+            "en": "Don't miss the works by Camille Corot.",
+            "fr": "Ne manquez pas les œuvres de Camille Corot."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Der größte erhaltene römische Bogen seiner Art.",
             "hu": "A legnagyobb fennmaradt római diadalív a típusában.",
             "ro": "Cel mai mare arc roman păstrat de acest tip.",
-            "en": "The largest surviving Roman arch of its kind."
+            "en": "The largest surviving Roman arch of its kind.",
+            "fr": "Le plus grand arc romain de ce type encore debout."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Genießen Sie ein Glas Champagner in einem Straßencafé.",
             "hu": "Igyon meg egy pohár pezsgőt egy teraszon.",
             "ro": "Savurați un pahar de șampanie la o terasă.",
-            "en": "Enjoy a glass of champagne at a sidewalk cafe."
+            "en": "Enjoy a glass of champagne at a sidewalk cafe.",
+            "fr": "Savourez une coupe de champagne à la terrasse d'un café."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Beginnen Sie Ihren Tag an der majestätischen Kathedrale, in der einst die Könige Frankreichs gekrönt wurden. Der Vormittag führt Sie durch die Geschichte des Palais du Tau und die elegante Place Royale. Nach einem künstlerischen Mittag im Musée des Beaux-Arts spazieren Sie zur antiken Porte de Mars. Den Abend lassen Sie gemütlich bei Champagner und lokalem Gebäck auf der belebten Place d'Erlon ausklingen.",
         "hu": "Kezdje a napot a fenséges katedrálisnál, ahol egykor a francia királyokat koronázták. A délelőtt a Palais du Tau történelmi falai és az elegáns Place Royale között telik. Egy művészeti kitérő után a Szépművészeti Múzeumban, sétáljon el az ókori Mars-kapuhoz. Az estét töltse a nyüzsgő Place d'Erlon téren, megkóstolva a helyi pezsgőt és a híres rózsaszín kekszet.",
         "ro": "Începeți ziua la catedrala maiestuoasă unde erau încoronați regii Franței. Dimineața vă poartă prin istoria de la Palais du Tau și eleganța Pieței Regale. După o după-amiază artistică la Muzeul de Arte Frumoase, plimbați-vă până la antica Poartă a lui Marte. Seara se încheie relaxat cu șampanie și biscuiți roz locali în vibranta Piață d'Erlon.",
-        "en": "Start your day at the majestic cathedral where French kings were once crowned. The morning takes you through history at the Palais du Tau and the elegant Place Royale. After an artistic midday at the Museum of Fine Arts, walk to the ancient Porte de Mars. End your evening comfortably with champagne and local biscuits at the lively Place d'Erlon."
+        "en": "Start your day at the majestic cathedral where French kings were once crowned. The morning takes you through history at the Palais du Tau and the elegant Place Royale. After an artistic midday at the Museum of Fine Arts, walk to the ancient Porte de Mars. End your evening comfortably with champagne and local biscuits at the lively Place d'Erlon.",
+        "fr": "Commencez votre journée à la majestueuse cathédrale où les rois de France étaient autrefois sacrés. La matinée vous emmène à travers l'histoire au Palais du Tau et sur l'élégante Place Royale. Après une mi-journée artistique au Musée des Beaux-Arts, marchez jusqu'à l'antique Porte de Mars. Terminez votre soirée confortablement avec du champagne et des biscuits locaux sur la dynamique Place d'Erlon."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "Le Café du Palais",
             "tip": "Historic bistro with fantastic decor."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Biscuits Roses de Reims",
+            "tip": "Goûtez-les à la Maison Fossier."
+          },
+          {
+            "name": "Le Café du Palais",
+            "tip": "Bistrot historique au décor fantastique."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "Stunning Art Deco peace.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Square de la Patte d'Oie",
+            "tip": "Parc paisible avec des fontaines.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bibliothèque Carnegie",
+            "tip": "Un havre de paix Art déco éblouissant.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +322,16 @@
             "name": "Trésors de Champagne",
             "tip": "Best selection of local growers."
           }
+        ],
+        "fr": [
+          {
+            "name": "Les Halles du Boulingrin",
+            "tip": "Halle de marché historique pour les gourmets."
+          },
+          {
+            "name": "Trésors de Champagne",
+            "tip": "Meilleure sélection de vignerons locaux."
+          }
         ]
       },
       "tips": {
@@ -323,6 +362,13 @@
           "Wear comfortable shoes for the cobblestones.",
           "Most sights are within walking distance of each other.",
           "The illuminated cathedral is a must-see at night."
+        ],
+        "fr": [
+          "Le centre-ville est très compact et idéal pour la marche.",
+          "Réservez les visites de la cathédrale à l'avance.",
+          "Portez des chaussures confortables pour les pavés.",
+          "La plupart des sites sont accessibles à pied les uns des autres.",
+          "La cathédrale illuminée est à voir absolument de nuit."
         ]
       },
       "variants": {
@@ -589,7 +635,8 @@
             "de": "Beginnen Sie Ihren Tag in der prächtigen Kathedrale, wo das prasselnde Geräusch des Regens auf den hohen Fenstern eine mystische Atmosphäre schafft. Der benachbarte Palais du Tau bietet perfekten Schutz und faszinierende königliche Schätze.\n\nMittags führt ein kurzer, erfrischender Spaziergang zur Place Royale. Suchen Sie sich ein gemütliches Bistro in den umliegenden Straßen, um die lokale Küche trocken zu genießen, während der Regen die Kalksteinfassaden glänzen lässt.\n\nDer Nachmittag gehört der Kunst im Musée des Beaux-Arts. In den gut temperierten Galerien vergisst man schnell das graue Wetter draußen. Ein kurzer Abstecher zur Porte de Mars zeigt die römische Pracht auch unter Wolken.\n\nAbends bietet die Place d'Erlon mit ihren zahlreichen überdachten Terrassen und beheizten Außenbereichen den idealen Ort für ein Glas Champagner, um den Tag entspannt ausklingen zu lassen, ganz ungeachtet der Regenschauer.",
             "hu": "Kezdje a napot a székesegyházban, ahol a hatalmas ólomüveg ablakokon kopogó eső misztikus hangulatot áraszt. A szomszédos Palais du Tau tökéletes menedéket nyújt a királyi kincsek felfedezéséhez.\n\nDélben egy rövid séta vezet a Place Royale-hoz. Keressen egy hangulatos bisztrót a közeli utcákban, ahol szárazon élvezheti a helyi gasztronómiát, miközben az eső fényesre mossa a mészkő homlokzatokat.\n\nA délutánt szentelje a szépművészeti múzeumnak. A meleg galériákban hamar elfelejti a kinti szürkeséget. A Porte de Mars római boltívei alatt még esőben is érezhető a történelem nagysága.\n\nEste a Place d'Erlon fedett teraszai és fűtött beülői várják. Egy pohár helyi pezsgő mellett nézheti az utcai forgatagot, miközben biztonságban marad a záporoktól, lezárva ezt a tartalmas napot.",
             "ro": "Începeți ziua în catedrala maiestuoasă, unde sunetul ploii pe vitraliile uriașe creează o atmosferă mistică. Palais du Tau din apropiere oferă un adăpost perfect pentru a explora comorile regale.\n\nLa prânz, o scurtă plimbare vă duce la Place Royale. Alegeți un bistro primitor pe străzile adiacente pentru a savura bucătăria locală la adăpost, în timp ce ploaia face fațadele de calcar să strălucească.\n\nDupă-amiaza este dedicată artei la Musée des Beaux-Arts. În galeriile bine încălzite, veți uita rapid de vremea gri de afară. O scurtă vizită la Porte de Mars dezvăluie grandoarea romană chiar și sub nori.\n\nSeara, Place d'Erlon, cu numeroasele sale terase acoperite, este locul ideal pentru un pahar de șampanie. Vă puteți relaxa privind trecătorii prin perdeaua de ploaie, încheind ziua într-o notă elegantă și confortabilă.",
-            "en": "Start your day in the magnificent cathedral, where the sound of rain on the stained glass creates a mystical aura. The adjacent Palais du Tau offers perfect shelter and fascinating royal treasures to explore.\n\nAt noon, a short walk leads to Place Royale. Find a cozy bistro in the surrounding streets to enjoy local cuisine in the dry, while the rain makes the limestone facades glisten beautifully.\n\nThe afternoon belongs to art at the Musée des Beaux-Arts. In the warm galleries, you'll quickly forget the grey weather outside. A quick detour to Porte de Mars shows Roman grandeur even under the clouds.\n\nIn the evening, Place d'Erlon with its many covered terraces and heated areas is the ideal spot for a glass of Champagne. Enjoy the city vibe while staying dry, concluding your rainy day in style."
+            "en": "Start your day in the magnificent cathedral, where the sound of rain on the stained glass creates a mystical aura. The adjacent Palais du Tau offers perfect shelter and fascinating royal treasures to explore.\n\nAt noon, a short walk leads to Place Royale. Find a cozy bistro in the surrounding streets to enjoy local cuisine in the dry, while the rain makes the limestone facades glisten beautifully.\n\nThe afternoon belongs to art at the Musée des Beaux-Arts. In the warm galleries, you'll quickly forget the grey weather outside. A quick detour to Porte de Mars shows Roman grandeur even under the clouds.\n\nIn the evening, Place d'Erlon with its many covered terraces and heated areas is the ideal spot for a glass of Champagne. Enjoy the city vibe while staying dry, concluding your rainy day in style.",
+            "fr": "Commencez votre journée dans la magnifique cathédrale, où le bruit de la pluie sur les vitraux crée une aura mystique. Le Palais du Tau adjacent offre un abri parfait et des trésors royaux fascinants à explorer.\n\nÀ midi, une courte marche mène à la Place Royale. Trouvez un bistrot chaleureux dans les rues environnantes pour déguster la cuisine locale au sec, tandis que la pluie fait briller magnifiquement les façades en pierre calcaire.\n\nL'après-midi appartient à l'art au Musée des Beaux-Arts. Dans les galeries chaleureuses, vous oublierez vite le temps gris extérieur. Un rapide détour par la Porte de Mars montre la grandeur romaine même sous les nuages.\n\nLe soir, la Place d'Erlon avec ses nombreuses terrasses couvertes et zones chauffées est l'endroit idéal pour une coupe de Champagne. Profitez de l'ambiance de la ville tout en restant au sec, concluant votre journée pluvieuse avec style."
           },
           "stops": [
             {
@@ -598,7 +645,8 @@
                 "de": "Nutzen Sie den Regen für eine ausgiebige Innenbesichtigung der Details.",
                 "hu": "Használja ki az esőt a belső részletek alapos felfedezésére.",
                 "ro": "Profitați de ploaie pentru o explorare detaliată a interiorului.",
-                "en": "Use the rain as an excuse for an extensive interior exploration."
+                "en": "Use the rain as an excuse for an extensive interior exploration.",
+                "fr": "Utilisez la pluie comme excuse pour une exploration intérieure approfondie."
               }
             },
             {
@@ -607,7 +655,8 @@
                 "de": "Komplett überdacht, ideal um längeren Schauern zu entgehen.",
                 "hu": "Teljesen fedett, ideális a hosszabb záporok elkerülésére.",
                 "ro": "Complet acoperit, ideal pentru a evita aversa prelungită.",
-                "en": "Fully indoor, perfect for escaping longer rain showers."
+                "en": "Fully indoor, perfect for escaping longer rain showers.",
+                "fr": "Entièrement en intérieur, parfait pour échapper aux averses prolongées."
               }
             },
             {
@@ -616,7 +665,8 @@
                 "de": "Die Arkaden bieten einen trockenen Durchgang zu den Geschäften.",
                 "hu": "Az árkádok száraz átjárást biztosítanak az üzletek felé.",
                 "ro": "Arcadele oferă o trecere uscată către magazinele din jur.",
-                "en": "The arcades provide a dry passage to nearby shops."
+                "en": "The arcades provide a dry passage to nearby shops.",
+                "fr": "Les arcades offrent un passage sec vers les boutiques voisines."
               }
             },
             {
@@ -625,7 +675,8 @@
                 "de": "Perfekter Ort für eine zweistündige Pause im Trockenen.",
                 "hu": "Tökéletes helyszín egy kétórás száraz pihenőhöz.",
                 "ro": "Locul perfect pentru o pauză de două ore la adăpost.",
-                "en": "Perfect venue for a two-hour break in the dry."
+                "en": "Perfect venue for a two-hour break in the dry.",
+                "fr": "Lieu idéal pour une pause de deux heures au sec."
               }
             },
             {
@@ -634,7 +685,8 @@
                 "de": "Der Bogen bietet kurzzeitig Schutz bei plötzlichen Güssen.",
                 "hu": "A boltív rövid ideig menedéket nyújt a hirtelen záporok elől.",
                 "ro": "Arcul oferă adăpost temporar în caz de aversă bruscă.",
-                "en": "The arch provides brief shelter during sudden downpours."
+                "en": "The arch provides brief shelter during sudden downpours.",
+                "fr": "L'arc offre un abri bref lors d'averses soudaines."
               }
             },
             {
@@ -643,7 +695,8 @@
                 "de": "Viele Cafés haben große Markisen und Schirme gegen Regen.",
                 "hu": "Sok kávézó nagy ponyvával és ernyővel véd az eső ellen.",
                 "ro": "Multe cafenele au copertine mari și umbrele anti-ploaie.",
-                "en": "Many cafes have large awnings and umbrellas against rain."
+                "en": "Many cafes have large awnings and umbrellas against rain.",
+                "fr": "De nombreux cafés disposent de grands auvents et parasols contre la pluie."
               }
             }
           ],
@@ -675,6 +728,13 @@
               "Use Passage Subé for dry shortcuts while shopping.",
               "An umbrella is more practical than a poncho on narrow sidewalks.",
               "Book lunch tables in the inner, dry sections of the bistros."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables car les pavés peuvent devenir glissants.",
+              "La cathédrale et les musées sont les meilleurs refuges lors de fortes pluies.",
+              "Utilisez le Passage Subé pour des raccourcis au sec pendant le shopping.",
+              "Un parapluie est plus pratique qu'un poncho sur les trottoirs étroits.",
+              "Réservez des tables de déjeuner dans les sections intérieures sèches des bistrots."
             ]
           }
         },
@@ -683,7 +743,8 @@
             "de": "Die Kathedrale empfängt Sie in der frostigen Morgenluft mit feierlicher Stille. Die warme Beleuchtung im Inneren bildet einen herrlichen Kontrast zur winterlichen Kälte draußen auf dem Vorplatz.\n\nMittags erstrahlt die Place Royale im klaren Winterlicht. Suchen Sie sich einen Platz in einer Brasserie, die traditionelle, herzhafte Gerichte wie Pot-au-feu anbietet, um sich für den Nachmittag aufzuwärmen.\n\nDer Besuch im Museum ist im Winter besonders gemütlich. Wenn die Sonne gegen 17 Uhr untergeht, taucht das Dämmerlicht die römische Porte de Mars in eine fast mystische, bläuliche Atmosphäre.\n\nAbends verwandelt sich die Place d'Erlon in ein Lichtermeer. Genießen Sie die winterliche Stimmung bei einem Glas Champagner in einer beheizten Bar und beobachten Sie das abendliche Treiben der Stadtbewohner.",
             "hu": "A székesegyház a fagyos reggeli levegőben ünnepi csenddel fogadja. A belső tér meleg világítása pompás kontrasztot alkot a kinti téli hideggel a templom előtti téren.\n\nDélben a Place Royale tiszta téli fényben tündököl. Keressen egy brasserie-t, amely hagyományos, kiadós ételeket kínál, hogy felmelegedjen a délutáni felfedezés előtt.\n\nA múzeumlátogatás télen különösen otthonos program. Amikor a nap 17 óra körül nyugodni kezd, a szürkület szinte misztikus, kékes fénybe vonja a római Porte de Mars ívét.\n\nEste a Place d'Erlon fényárba borul. Élvezze a téli hangulatot egy pohár pezsgővel egy fűtött bárban, és figyelje a város esti lüktetését a melegből.",
             "ro": "Catedrala vă întâmpină în aerul înghețat al dimineții cu o liniște solemnă. Iluminarea caldă din interior creează un contrast superb cu frigul iernii de afară, din piață.\n\nLa prânz, Place Royale strălucește în lumina clară a iernii. Căutați o braserie care oferă preparate tradiționale consistente pentru a vă încălzi înainte de restul traseului.\n\nVizita la muzeu este deosebit de plăcută iarna. Când soarele apune în jurul orei 17:00, amurgul scaldă Porte de Mars într-o atmosferă mistică, aproape albăstruie.\n\nSeara, Place d'Erlon se transformă într-o mare de lumini. Bucurați-vă de atmosfera de iarnă cu un pahar de șampanie într-un bar încălzit, observând forfota orașului la final de zi.",
-            "en": "The cathedral welcomes you in the frosty morning air with solemn silence. The warm lighting inside creates a magnificent contrast to the winter cold outside on the square.\n\nAt noon, Place Royale shines in the clear winter light. Find a brasserie offering traditional, hearty dishes to warm up for the afternoon exploration ahead.\n\nA museum visit is especially cozy in winter. As the sun sets around 5 PM, the twilight bathes the Roman Porte de Mars in an almost mystical, bluish atmosphere.\n\nIn the evening, Place d'Erlon transforms into a sea of lights. Enjoy the winter ambiance with a glass of Champagne in a heated bar, watching the city's evening pulse."
+            "en": "The cathedral welcomes you in the frosty morning air with solemn silence. The warm lighting inside creates a magnificent contrast to the winter cold outside on the square.\n\nAt noon, Place Royale shines in the clear winter light. Find a brasserie offering traditional, hearty dishes to warm up for the afternoon exploration ahead.\n\nA museum visit is especially cozy in winter. As the sun sets around 5 PM, the twilight bathes the Roman Porte de Mars in an almost mystical, bluish atmosphere.\n\nIn the evening, Place d'Erlon transforms into a sea of lights. Enjoy the winter ambiance with a glass of Champagne in a heated bar, watching the city's evening pulse.",
+            "fr": "La cathédrale vous accueille dans l'air glacial du matin avec un silence solennel. L'éclairage chaleureux à l'intérieur crée un contraste magnifique avec le froid hivernal à l'extérieur sur le parvis.\n\nÀ midi, la Place Royale brille sous la lumière claire de l'hiver. Trouvez une brasserie proposant des plats traditionnels et copieux pour vous réchauffer avant l'exploration de l'après-midi.\n\nUne visite de musée est particulièrement douillette en hiver. Au coucher du soleil vers 17h, le crépuscule baigne la Porte de Mars romaine dans une atmosphère bleutée presque mystique.\n\nLe soir, la Place d'Erlon se transforme en une mer de lumières. Profitez de l'ambiance hivernale avec une coupe de Champagne dans un bar chauffé, en observant le pouls nocturne de la ville."
           },
           "stops": [
             {
@@ -692,7 +753,8 @@
                 "de": "Ziehen Sie sich warm an, die großen Hallen können kühl sein.",
                 "hu": "Öltözzön melegen, a hatalmas csarnokok hűvösek lehetnek.",
                 "ro": "Îmbrăcați-vă bine, marile săli pot fi destul de răcoroase.",
-                "en": "Dress warmly; the large halls can be quite chilly."
+                "en": "Dress warmly; the large halls can be quite chilly.",
+                "fr": "Habillez-vous chaudement ; les grandes salles peuvent être assez fraîches."
               }
             },
             {
@@ -701,7 +763,8 @@
                 "de": "Perfekt beheizt, ein guter Ort zum Aufwärmen nach dem Frost.",
                 "hu": "Kiválóan fűtött, jó hely a felmelegedésre a fagy után.",
                 "ro": "Bine încălzit, un loc bun pentru încălzire după ger.",
-                "en": "Well-heated, a good spot to warm up after the frost."
+                "en": "Well-heated, a good spot to warm up after the frost.",
+                "fr": "Bien chauffé, un bon endroit pour se réchauffer après le gel."
               }
             },
             {
@@ -710,7 +773,8 @@
                 "de": "Genießen Sie das klare Licht für Fotos der Architektur.",
                 "hu": "Élvezze a tiszta fényeket az építészeti fotókhoz.",
                 "ro": "Bucurați-vă de lumina clară pentru fotografii arhitecturale.",
-                "en": "Enjoy the clear light for architectural photography."
+                "en": "Enjoy the clear light for architectural photography.",
+                "fr": "Profitez de la lumière claire pour la photographie d'architecture."
               }
             },
             {
@@ -719,7 +783,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
                 "hu": "Használja a ruhatárat a nehéz téli kabátok elhelyezésére.",
                 "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
-                "en": "Use the cloakroom for your heavy winter clothing."
+                "en": "Use the cloakroom for your heavy winter clothing.",
+                "fr": "Utilisez le vestiaire pour vos lourds vêtements d'hiver."
               }
             },
             {
@@ -728,7 +793,8 @@
                 "de": "Besuch bei Sonnenuntergang (ca. 16:45 Uhr) ist am schönsten.",
                 "hu": "A látogatás naplementekor (kb. 16:45) a legszebb.",
                 "ro": "Vizita la apus (aprox. 16:45) este cea mai spectaculoasă.",
-                "en": "Visiting at sunset (around 4:45 PM) is most beautiful."
+                "en": "Visiting at sunset (around 4:45 PM) is most beautiful.",
+                "fr": "La visite au coucher du soleil (vers 16h45) est la plus belle."
               }
             },
             {
@@ -737,7 +803,8 @@
                 "de": "Im Dezember findet hier oft ein kleiner Weihnachtsmarkt statt.",
                 "hu": "Decemberben gyakran tartanak itt kis karácsonyi vásárt.",
                 "ro": "În decembrie, aici are loc adesea un mic târg de Crăciun.",
-                "en": "In December, a small Christmas market often takes place here."
+                "en": "In December, a small Christmas market often takes place here.",
+                "fr": "En décembre, un petit marché de Noël a souvent lieu ici."
               }
             }
           ],
@@ -769,6 +836,13 @@
               "Hot chocolate is the perfect afternoon alternative to Champagne.",
               "Gloves are essential for taking photos in the windy squares.",
               "Use lunchtime for extended, warming meals."
+            ],
+            "fr": [
+              "Portez des semelles thermiques pour rester debout sur les sols en pierre froide.",
+              "Notez que les musées ferment souvent dès 17h30 ou 18h00.",
+              "Le chocolat chaud est l'alternative parfaite de l'après-midi au Champagne.",
+              "Les gants sont essentiels pour prendre des photos sur les places venteuses.",
+              "Profitez de l'heure du déjeuner pour des repas prolongés et réconfortants."
             ]
           }
         }
@@ -802,7 +876,8 @@
             "de": "Sicherer Fahrradständer in der Nähe.",
             "hu": "Biztonságos biciklitárolók a közelben.",
             "ro": "Rastel de biciclete sigur în apropiere.",
-            "en": "Secure bike racks nearby."
+            "en": "Secure bike racks nearby.",
+            "fr": "Supports à vélos sécurisés à proximité."
           }
         },
         {
@@ -825,7 +900,8 @@
             "de": "UNESCO-Weltkulturerbe, weniger überlaufen.",
             "hu": "UNESCO világörökség, kevésbé zsúfolt.",
             "ro": "Patrimoniu UNESCO, mai puțin aglomerat.",
-            "en": "UNESCO site, less crowded than the cathedral."
+            "en": "UNESCO site, less crowded than the cathedral.",
+            "fr": "Site de l'UNESCO, moins fréquenté que la cathédrale."
           }
         },
         {
@@ -848,7 +924,8 @@
             "de": "Perfekter Ort für eine Pause im Grünen.",
             "hu": "Tökéletes hely egy zöld pihenőre.",
             "ro": "Loc perfect pentru o pauză în natură.",
-            "en": "Perfect spot for a green break."
+            "en": "Perfect spot for a green break.",
+            "fr": "Endroit parfait pour une pause au vert."
           }
         },
         {
@@ -871,7 +948,8 @@
             "de": "Führung durch die Kreidekeller (Crayères).",
             "hu": "Vezetett túra a kréta pincékben.",
             "ro": "Tur ghidat prin cramele de cretă.",
-            "en": "Guided tour through the chalk cellars."
+            "en": "Guided tour through the chalk cellars.",
+            "fr": "Visite guidée à travers les crayères."
           }
         },
         {
@@ -894,7 +972,8 @@
             "de": "Radweg entlang des Kanals.",
             "hu": "Kerékpárút a csatorna mentén.",
             "ro": "Pistă de biciclete de-a lungul canalului.",
-            "en": "Bicycle path along the canal."
+            "en": "Bicycle path along the canal.",
+            "fr": "Piste cyclable le long du canal."
           }
         },
         {
@@ -917,7 +996,8 @@
             "de": "Bester Blick bei Sonnenuntergang.",
             "hu": "Legjobb kilátás naplementekor.",
             "ro": "Cea mai bună vedere la apus.",
-            "en": "Best view at sunset."
+            "en": "Best view at sunset.",
+            "fr": "Meilleure vue au coucher du soleil."
           }
         }
       ],
@@ -925,7 +1005,8 @@
         "de": "Erkunden Sie Reims auf zwei Rädern! Nach dem Start an der Kathedrale radeln Sie zur ruhigen Basilika Saint-Remi. Der Mittag gehört dem weitläufigen Parc de Champagne und einem Besuch der berühmten Veuve Clicquot Weinkeller. Eine entspannte Fahrt entlang der Coulée Verte am Kanal führt Sie schließlich zurück zur beeindruckenden Porte de Mars. Ein perfekter Mix aus Kultur, Natur und Champagner.",
         "hu": "Fedezze fel Reims-t két keréken! A katedrálistól indulva tekerjen el a békés Szent Remi-bazilikához. A délutánt töltse a tágas Champagne parkban és látogasson el a híres Veuve Clicquot pincékbe. Egy pihentető biciklizés a csatorna menti Coulée Verte útvonalon visszaviszi az impozáns Mars-kapuhoz. A kultúra, a természet és a pezsgő tökéletes keveréke.",
         "ro": "Explorați Reims pe două roți! După pornirea de la catedrală, pedalați spre liniștita Bazilică Saint-Remi. Prânzul aparține vastului Parc de Champagne și unei vizite la faimoasele crame Veuve Clicquot. O plimbare relaxantă de-a lungul Coulée Verte pe malul canalului vă duce înapoi la impresionanta Poartă a lui Marte. Un amestec perfect de cultură, natură și șampanie.",
-        "en": "Explore Reims on two wheels! After starting at the cathedral, cycle to the peaceful Saint-Remi Basilica. Spend your midday in the spacious Parc de Champagne and visit the famous Veuve Clicquot cellars. A relaxing ride along the Coulée Verte by the canal leads you back to the impressive Porte de Mars. A perfect mix of culture, nature, and champagne."
+        "en": "Explore Reims on two wheels! After starting at the cathedral, cycle to the peaceful Saint-Remi Basilica. Spend your midday in the spacious Parc de Champagne and visit the famous Veuve Clicquot cellars. A relaxing ride along the Coulée Verte by the canal leads you back to the impressive Porte de Mars. A perfect mix of culture, nature, and champagne.",
+        "fr": "Explorez Reims sur deux roues ! Après avoir débuté à la cathédrale, pédalez jusqu'à la paisible Basilique Saint-Remi. Passez votre mi-journée dans le vaste Parc de Champagne et visitez les célèbres caves Veuve Clicquot. Une balade relaxante le long de la Coulée Verte au bord du canal vous ramène à l'impressionnante Porte de Mars. Un mélange parfait de culture, de nature et de champagne."
       },
       "gastro_picks": {
         "de": [
@@ -966,6 +1047,16 @@
           {
             "name": "Au Cul de Poule",
             "tip": "Modern restaurant with local products."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Champagne Pommery",
+            "tip": "Visitez les caves artistiques."
+          },
+          {
+            "name": "Au Cul de Poule",
+            "tip": "Restaurant moderne avec des produits locaux."
           }
         ]
       },
@@ -1017,6 +1108,18 @@
             "tip": "Quiet view of the vineyards.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Coulée Verte",
+            "tip": "Couloir vert de plusieurs kilomètres.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de la Butte Saint-Nicaise",
+            "tip": "Vue tranquille sur les vignobles.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1059,6 +1162,16 @@
             "name": "Terroir des Rois",
             "tip": "Specialties from the Champagne region."
           }
+        ],
+        "fr": [
+          {
+            "name": "Velo Reims",
+            "tip": "Location de vélos et accessoires."
+          },
+          {
+            "name": "Terroir des Rois",
+            "tip": "Spécialités de la région Champagne."
+          }
         ]
       },
       "tips": {
@@ -1089,6 +1202,13 @@
           "The hills to the south can be a bit of a challenge.",
           "Bike locks are essential in the city.",
           "The canal path is particularly flat and relaxing."
+        ],
+        "fr": [
+          "Reims dispose de nombreuses pistes cyclables bien aménagées.",
+          "Utilisez l'application 'Champagne à vélo' pour les itinéraires.",
+          "Les collines au sud peuvent représenter un petit défi.",
+          "Les antivols sont essentiels en ville.",
+          "Le sentier du canal est particulièrement plat et relaxant."
         ]
       },
       "variants": {
@@ -1355,7 +1475,8 @@
             "de": "Starten Sie Ihre Radtour trotz Regen an der Kathedrale. Die kurzen Wege in der Stadt ermöglichen es, schnell zwischen den Sehenswürdigkeiten zu wechseln.\n\nMittags führt die Route zur Basilika Saint-Remi. Die Fahrt durch den Parc de Champagne ist bei Regen besonders erfrischend, da die Natur in sattem Grün leuchtet.\n\nDer Nachmittag ist perfekt für die Veuve Clicquot Keller. Tief unter der Erde ist es trocken und konstant warm, der ideale Rückzugsort vor den Schauern.\n\nAbends radeln Sie entspannt über die Coulée Verte zurück. Das Wasser des Kanals kräuselt sich unter den Tropfen, bevor Sie die Porte de Mars im Abendlicht erreichen.",
             "hu": "Kezdje a biciklis túrát az eső ellenére a katedrálisnál. A városi rövid távok lehetővé teszik a gyors váltást a látnivalók között.\n\nDélben az út a Saint-Remi bazilikához vezet. A Parc de Champagne-on keresztüli tekerés esőben különösen frissítő, a természet ilyenkor élénkzöldben pompázik.\n\nA délután tökéletes a Veuve Clicquot pincékhez. Mélyen a föld alatt száraz és állandó a hőmérséklet, ideális menedék a záporok elől.\n\nEste tekerjen vissza a Coulée Verte mentén. A csatorna vize fodrozódik az esőcseppektől, mielőtt eléri a Porte de Mars-t az esti fényekben.",
             "ro": "Începeți turul cu bicicleta de la catedrală, în ciuda ploii. Distanțele scurte din oraș permit deplasarea rapidă între obiective.\n\nLa prânz, traseul duce la Basilica Saint-Remi. Plimbarea prin Parc de Champagne pe ploaie este revigorantă, natura strălucind într-un verde intens.\n\nDupă-amiaza este ideală pentru cramele Veuve Clicquot. Adânc sub pământ este uscat și cald, refugiul perfect în fața averselor.\n\nSeara, pedalați relaxat pe Coulée Verte. Apa canalului încrețită de picături oferă un decor aparte înainte de a ajunge la Porte de Mars în lumina serii.",
-            "en": "Start your bike tour at the cathedral despite the rain. Short city distances allow for quick hops between sights.\n\nAt noon, the route leads to Saint-Remi Basilica. Riding through Parc de Champagne in the rain is refreshing, as nature glows in deep green.\n\nThe afternoon is perfect for Veuve Clicquot cellars. Deep underground, it's dry and constantly warm—the ideal retreat from showers.\n\nIn the evening, cycle back along the Coulée Verte. The canal water ripples under the raindrops before you reach Porte de Mars in the evening light."
+            "en": "Start your bike tour at the cathedral despite the rain. Short city distances allow for quick hops between sights.\n\nAt noon, the route leads to Saint-Remi Basilica. Riding through Parc de Champagne in the rain is refreshing, as nature glows in deep green.\n\nThe afternoon is perfect for Veuve Clicquot cellars. Deep underground, it's dry and constantly warm—the ideal retreat from showers.\n\nIn the evening, cycle back along the Coulée Verte. The canal water ripples under the raindrops before you reach Porte de Mars in the evening light.",
+            "fr": "Commencez votre tour à vélo à la cathédrale malgré la pluie. Les courtes distances en ville permettent de sauter rapidement d'un site à l'autre.\n\nÀ midi, l'itinéraire mène à la Basilique Saint-Remi. Rouler dans le Parc de Champagne sous la pluie est rafraîchissant, car la nature rayonne d'un vert profond.\n\nL'après-midi est parfait pour les caves Veuve Clicquot. Profondément sous terre, il fait sec et la température est constante — le refuge idéal contre les averses.\n\nLe soir, revenez en pédalant le long de la Coulée Verte. L'eau du canal ondule sous les gouttes de pluie avant d'atteindre la Porte de Mars dans la lumière du soir."
           },
           "stops": [
             {
@@ -1364,7 +1485,8 @@
                 "de": "Nutzen Sie die Fahrradständer direkt am Vorplatz.",
                 "hu": "Használja a közvetlenül a tér mellett található kerékpártárolókat.",
                 "ro": "Folosiți suporturile de biciclete direct din piața din față.",
-                "en": "Use the bike racks located directly on the square."
+                "en": "Use the bike racks located directly on the square.",
+                "fr": "Utilisez les supports à vélos situés directement sur la place."
               }
             },
             {
@@ -1373,7 +1495,8 @@
                 "de": "Der Innenhof bietet Schutz beim Anschließen der Räder.",
                 "hu": "A belső udvar védelmet nyújt a biciklik lezárása közben.",
                 "ro": "Curtea interioară oferă adăpost la legarea bicicletelor.",
-                "en": "The inner courtyard offers shelter while locking the bikes."
+                "en": "The inner courtyard offers shelter while locking the bikes.",
+                "fr": "La cour intérieure offre un abri pendant que vous attachez les vélos."
               }
             },
             {
@@ -1382,7 +1505,8 @@
                 "de": "Vorsicht auf den befestigten Wegen, diese können rutschig sein.",
                 "hu": "Vigyázat a burkolt utakon, ezek csúszósak lehetnek.",
                 "ro": "Atenție pe aleile pavate, acestea pot fi alunecoase.",
-                "en": "Be careful on paved paths as they can be slippery."
+                "en": "Be careful on paved paths as they can be slippery.",
+                "fr": "Soyez prudent sur les sentiers pavés car ils peuvent être glissants."
               }
             },
             {
@@ -1391,7 +1515,8 @@
                 "de": "Sie können Ihre Regenkleidung am Empfang abgeben.",
                 "hu": "Az esőruházatot a recepciónál le lehet adni.",
                 "ro": "Vă puteți lăsa hainele de ploaie la recepție.",
-                "en": "You can leave your rain gear at the reception desk."
+                "en": "You can leave your rain gear at the reception desk.",
+                "fr": "Vous pouvez laisser vos vêtements de pluie à la réception."
               }
             },
             {
@@ -1400,7 +1525,8 @@
                 "de": "Die Bäume bieten teilweisen Schutz vor leichtem Nieselregen.",
                 "hu": "A fák részleges védelmet nyújtanak a könnyű szitáló eső ellen.",
                 "ro": "Copacii oferă protecție parțială împotriva burniței ușoare.",
-                "en": "Trees provide partial shelter from light drizzle."
+                "en": "Trees provide partial shelter from light drizzle.",
+                "fr": "Les arbres offrent un abri partiel contre la bruine légère."
               }
             },
             {
@@ -1409,7 +1535,8 @@
                 "de": "Kurzer Stopp unter dem Bogen bei plötzlichem Regen.",
                 "hu": "Rövid megálló a boltív alatt hirtelen eső esetén.",
                 "ro": "Scurt popas sub arc în caz de ploaie bruscă.",
-                "en": "Brief stop under the arch if sudden rain occurs."
+                "en": "Brief stop under the arch if sudden rain occurs.",
+                "fr": "Bref arrêt sous l'arc en cas de pluie soudaine."
               }
             }
           ],
@@ -1441,6 +1568,13 @@
               "Champagne cellars are the ultimate bad-weather stops for cyclists.",
               "Waterproof gloves keep your hands warm while steering.",
               "Check tire pressure; slightly lower pressure increases grip."
+            ],
+            "fr": [
+              "Assurez-vous que les garde-boue de votre vélo de location fonctionnent bien.",
+              "Évitez de freiner sur les marquages au sol lorsque la chaussée est mouillée.",
+              "Les caves de Champagne sont les ultimes arrêts de mauvais temps pour les cyclistes.",
+              "Des gants imperméables gardent vos mains au chaud pendant la conduite.",
+              "Vérifiez la pression des pneus ; une pression légèrement plus basse augmente l'adhérence."
             ]
           }
         },
@@ -1449,7 +1583,8 @@
             "de": "Ein frischer Start an der Kathedrale weckt die Geister. Die kalte Luft ist klar und die Radwege sind im Winter angenehm leer.\n\nMittags erreichen Sie Saint-Remi. Ein Umweg durch den winterlichen Parc de Champagne zeigt die skulpturale Schönheit der kahlen Bäume vor grauem Himmel.\n\nDer Nachmittag bei Veuve Clicquot ist ein Highlight, da die Kellertemperatur von 10-12 Grad sich im Vergleich zu draußen fast warm anfühlt.\n\nAbends radeln Sie entlang der Coulée Verte, während die Stadtbeleuchtung sich im Wasser spiegelt, und beenden die Tour bei der Porte de Mars, bevor es zu dunkel wird.",
             "hu": "Egy friss indítás a katedrálisnál felébreszti az érzékeket. A hideg levegő tiszta, a kerékpárutak pedig télen kellemesen üresek.\n\nDélben eléri a Saint-Remi-t. Egy kitérő a téli Parc de Champagne-ban megmutatja a csupasz fák szoborszerű szépségét a szürke égbolt előtt.\n\nA délután a Veuve Clicquot-nál a csúcspont, mivel a pincék 10-12 fokos hőmérséklete kinti hideghez képest szinte melegnek hat.\n\nEste tekerjen a Coulée Verte mentén, miközben a város fényei tükröződnek a vízen, és fejezze be a túrát a Porte de Mars-nál, mielőtt túl sötét lesz.",
             "ro": "Un început revigorant la catedrală vă va trezi toate simțurile. Aerul rece este curat, iar pistele de biciclete sunt liberă iarna.\n\nLa prânz ajungeți la Saint-Remi. O abatere prin Parc de Champagne iarna dezvăluie frumusețea sculpturală a copacilor golași pe cerul gri.\n\nDupă-amiaza la Veuve Clicquot este punctul culminant, temperatura de 10-12 grade din cramă simțindu-se aproape caldă față de exterior.\n\nSeara, pedalați pe Coulée Verte în timp ce luminile orașului se reflectă în apă și încheiați turul la Porte de Mars înainte de lăsarea întunericului.",
-            "en": "A fresh start at the cathedral wakes up the spirits. The cold air is clear, and the bike paths are pleasantly empty in winter.\n\nAt noon, you reach Saint-Remi. A detour through the wintry Parc de Champagne shows the sculptural beauty of bare trees against the grey sky.\n\nThe afternoon at Veuve Clicquot is a highlight, as the cellar temperature of 10-12°C feels almost warm compared to outside.\n\nIn the evening, cycle along the Coulée Verte as city lights reflect in the water, and finish the tour at Porte de Mars before it gets too dark."
+            "en": "A fresh start at the cathedral wakes up the spirits. The cold air is clear, and the bike paths are pleasantly empty in winter.\n\nAt noon, you reach Saint-Remi. A detour through the wintry Parc de Champagne shows the sculptural beauty of bare trees against the grey sky.\n\nThe afternoon at Veuve Clicquot is a highlight, as the cellar temperature of 10-12°C feels almost warm compared to outside.\n\nIn the evening, cycle along the Coulée Verte as city lights reflect in the water, and finish the tour at Porte de Mars before it gets too dark.",
+            "fr": "Un départ tonique à la cathédrale réveille les esprits. L'air froid est pur et les pistes cyclables sont agréablement vides en hiver.\n\nÀ midi, vous atteignez Saint-Remi. Un détour par le Parc de Champagne hivernal montre la beauté sculpturale des arbres nus contre le ciel gris.\n\nL'après-midi chez Veuve Clicquot est un moment fort, car la température de la cave (10-12°C) semble presque chaude par rapport à l'extérieur.\n\nLe soir, pédalez le long de la Coulée Verte alors que les lumières de la ville se reflètent dans l'eau, et terminez le tour à la Porte de Mars avant qu'il ne fasse trop sombre."
           },
           "stops": [
             {
@@ -1458,7 +1593,8 @@
                 "de": "Kaltes Metall: Tragen Sie Handschuhe beim Bedienen des Schlosses.",
                 "hu": "Hideg fém: viseljen kesztyűt a lakat kezelésekor.",
                 "ro": "Metal rece: purtați mănuși când manevrați lacătul.",
-                "en": "Cold metal: wear gloves when handling the bike lock."
+                "en": "Cold metal: wear gloves when handling the bike lock.",
+                "fr": "Métal froid : portez des gants pour manipuler l'antivol."
               }
             },
             {
@@ -1467,7 +1603,8 @@
                 "de": "Kurze Aufwärmpause im Inneren der Basilika einlegen.",
                 "hu": "Tartson egy rövid melegedő szünetet a bazilika belsejében.",
                 "ro": "Luați o scurtă pauză de încălzire în interiorul basilicii.",
-                "en": "Take a short warming break inside the basilica."
+                "en": "Take a short warming break inside the basilica.",
+                "fr": "Faites une courte pause réchauffante à l'intérieur de la basilique."
               }
             },
             {
@@ -1476,7 +1613,8 @@
                 "de": "Früh schließen die Tore (ca. 17:00 Uhr im Winter).",
                 "hu": "A kapuk korán zárnak (télen kb. 17:00-kor).",
                 "ro": "Porțile se închid devreme (aprox. 17:00 iarna).",
-                "en": "Gates close early (around 5:00 PM in winter)."
+                "en": "Gates close early (around 5:00 PM in winter).",
+                "fr": "Les grilles ferment tôt (vers 17h00 en hiver)."
               }
             },
             {
@@ -1485,7 +1623,8 @@
                 "de": "Konstante 10°C – idealer Schutz vor Frost.",
                 "hu": "Állandó 10°C – ideális védelem a fagy ellen.",
                 "ro": "Constant 10°C – protecție ideală împotriva gerului.",
-                "en": "Constant 10°C – ideal protection from the frost."
+                "en": "Constant 10°C – ideal protection from the frost.",
+                "fr": "10°C constants – protection idéale contre le gel."
               }
             },
             {
@@ -1494,7 +1633,8 @@
                 "de": "Vorsicht bei Laubresten oder überfrierender Nässe.",
                 "hu": "Vigyázat az avarral vagy a lefagyott nedvességgel.",
                 "ro": "Atenție la resturile de frunze sau umezeala înghețată.",
-                "en": "Watch out for leaf residue or freezing moisture."
+                "en": "Watch out for leaf residue or freezing moisture.",
+                "fr": "Attention aux résidus de feuilles ou à l'humidité verglaçante."
               }
             },
             {
@@ -1503,7 +1643,8 @@
                 "de": "Achten Sie auf funktionierende Lichter für den Rückweg.",
                 "hu": "Ellenőrizze a lámpákat a visszaúthoz a sötétben.",
                 "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
-                "en": "Ensure your bike lights are working for the return trip."
+                "en": "Ensure your bike lights are working for the return trip.",
+                "fr": "Assurez-vous que l'éclairage de votre vélo fonctionne pour le retour."
               }
             }
           ],
@@ -1535,6 +1676,13 @@
               "Plan the tour to be back before 5:00 PM.",
               "Protect your face with a scarf from the wind chill.",
               "Paths along the canal are often windier in winter than in the city."
+            ],
+            "fr": [
+              "Principe des couches : plusieurs couches minces vous gardent au chaud à vélo.",
+              "Un mug thermique avec du thé s'adapte souvent au porte-bidon.",
+              "Planifiez le tour pour être de retour avant 17h00.",
+              "Protégez votre visage du vent froid avec une écharpe.",
+              "Les sentiers le long du canal sont souvent plus venteux en hiver qu'en ville."
             ]
           }
         }
@@ -1568,7 +1716,8 @@
             "de": "Parkhaus 'Cathedrale' direkt darunter.",
             "hu": "A 'Cathedrale' parkolóház közvetlenül alatta van.",
             "ro": "Parcarea 'Cathedrale' este chiar sub ea.",
-            "en": "Parking garage 'Cathedrale' right underneath."
+            "en": "Parking garage 'Cathedrale' right underneath.",
+            "fr": "Parking souterrain 'Cathédrale' juste en dessous."
           }
         },
         {
@@ -1591,7 +1740,8 @@
             "de": "Kostenlose Parkplätze oft in der Nähe zu finden.",
             "hu": "Gyakran találni ingyenes parkolót a közelben.",
             "ro": "Se găsesc adesea locuri de parcare gratuite în apropiere.",
-            "en": "Free parking can often be found nearby."
+            "en": "Free parking can often be found nearby.",
+            "fr": "On peut souvent trouver des parkings gratuits à proximité."
           }
         },
         {
@@ -1614,7 +1764,8 @@
             "de": "Besichtigung der antiken römischen Steinbrüche.",
             "hu": "Látogasson el az ókori római kőfejtőkbe.",
             "ro": "Vizitați fostele cariere romane de piatră.",
-            "en": "Tour the ancient Roman stone quarries."
+            "en": "Tour the ancient Roman stone quarries.",
+            "fr": "Visitez les anciennes crayères romaines."
           }
         },
         {
@@ -1637,7 +1788,8 @@
             "de": "Heimat von Dom Pérignon.",
             "hu": "Dom Pérignon otthona.",
             "ro": "Casa lui Dom Pérignon.",
-            "en": "The home of Dom Pérignon."
+            "en": "The home of Dom Pérignon.",
+            "fr": "La demeure de Dom Pérignon."
           }
         },
         {
@@ -1660,7 +1812,8 @@
             "de": "Weinmuseum in einem Leuchtturm.",
             "hu": "Bormúzeum egy világítótoronyban.",
             "ro": "Muzeul vinului într-un far.",
-            "en": "Wine museum inside a lighthouse."
+            "en": "Wine museum inside a lighthouse.",
+            "fr": "Musée du vin à l'intérieur d'un phare."
           }
         }
       ],
@@ -1668,7 +1821,8 @@
         "de": "Mit dem Auto entdecken Sie nicht nur Reims, sondern auch das Herz der Champagne. Nach den historischen Highlights der Stadt wie der Kathedrale und Saint-Remi führt Sie die Route in das charmante Dorf Hautvillers, die Wiege des Champagners. Den krönenden Abschluss bildet der Leuchtturm von Verzenay inmitten der Weinberge, der einen Panoramablick über das gesamte Umland bietet.",
         "hu": "Autóval nemcsak Reims-t, hanem a Champagne-vidék szívét is felfedezheti. A város történelmi látnivalói, a katedrális és a Szent Remi után az út Hautvillers bájos falujába vezet, amely a pezsgő bölcsője. A napot a Verzenay világítótoronynál zárja a szőlőültetvények közepén, ahonnan panorámás kilátás nyílik az egész környékre.",
         "ro": "Cu mașina veți descoperi nu doar orașul Reims, ci și inima regiunii Champagne. După atracțiile istorice ale orașului, precum catedrala și Saint-Remi, traseul vă duce în satul fermecător Hautvillers, leagănul șampaniei. Ziua se încheie la farul din Verzenay, în mijlocul podgoriilor, oferind o vedere panoramică asupra întregii regiuni.",
-        "en": "By car, you will discover not only Reims but also the heart of the Champagne region. After the city's historical highlights like the cathedral and Saint-Remi, the route leads you to the charming village of Hautvillers, the cradle of champagne. The crowning finish is the lighthouse of Verzenay amidst the vineyards, offering a panoramic view over the entire countryside."
+        "en": "By car, you will discover not only Reims but also the heart of the Champagne region. After the city's historical highlights like the cathedral and Saint-Remi, the route leads you to the charming village of Hautvillers, the cradle of champagne. The crowning finish is the lighthouse of Verzenay amidst the vineyards, offering a panoramic view over the entire countryside.",
+        "fr": "En voiture, vous découvrirez non seulement Reims mais aussi le cœur de la région Champagne. Après les points forts historiques de la ville comme la cathédrale et Saint-Remi, la route vous mène au charmant village d'Hautvillers, berceau du champagne. Le couronnement final est le phare de Verzenay au milieu des vignes, offrant une vue panoramique sur toute la campagne."
       },
       "gastro_picks": {
         "de": [
@@ -1709,6 +1863,16 @@
           {
             "name": "Distillerie Guillon",
             "tip": "French whisky from the region."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Auberge de l'Abbaye",
+            "tip": "Cuisine traditionnelle à Hautvillers."
+          },
+          {
+            "name": "Distillerie Guillon",
+            "tip": "Whisky français de la région."
           }
         ]
       },
@@ -1760,6 +1924,18 @@
             "tip": "Magical forest with bizarre beeches.",
             "emoji": "🌳"
           }
+        ],
+        "fr": [
+          {
+            "name": "Point de vue de Mutigny",
+            "tip": "Vue panoramique sur la vallée.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forêt de Verzy",
+            "tip": "Forêt magique avec des hêtres bizarres (Faux de Verzy).",
+            "emoji": "🌳"
+          }
         ]
       },
       "shopping_picks": {
@@ -1802,6 +1978,16 @@
             "name": "Hautvillers Souvenirs",
             "tip": "Crafts from the wine village."
           }
+        ],
+        "fr": [
+          {
+            "name": "Village de marques",
+            "tip": "Shopping outlet près de Reims."
+          },
+          {
+            "name": "Hautvillers Souvenirs",
+            "tip": "Artisanat du village viticole."
+          }
         ]
       },
       "tips": {
@@ -1832,6 +2018,13 @@
           "The roads through the vineyards are very narrow.",
           "A GPS is helpful for the smaller villages.",
           "Many cellar tours require advance booking."
+        ],
+        "fr": [
+          "Ne buvez pas si vous conduisez - soyez prudent lors des dégustations.",
+          "Le stationnement en centre-ville n'est pas gratuit.",
+          "Les routes à travers les vignobles sont très étroites.",
+          "Un GPS est utile pour les plus petits villages.",
+          "De nombreuses visites de caves nécessitent une réservation préalable."
         ]
       },
       "variants": {
@@ -2084,7 +2277,8 @@
             "de": "Starten Sie bequem im Auto an der Kathedrale. Der Regen macht die Anfahrt zum Saint-Remi Viertel stressfrei und trocken.\n\nMittags verlassen Sie die Stadt Richtung Champagner-Häuser wie Taittinger. In den tiefen Kreidekellern spielt das Wetter keine Rolle.\n\nDer Nachmittag führt nach Hautvillers. Die Weinberge im Nebel und Regen haben eine ganz eigene, romantische Ausstrahlung. Ein Stopp in einem lokalen Winzerkeller ist jetzt besonders gemütlich.\n\nZum Abschluss besuchen Sie den Phare de Verzenay. Das dortige Weinmuseum bietet einen fantastischen, trockenen Rundumblick über die regnerische Champagne.",
             "hu": "Kezdje kényelmesen az autóban a katedrálisnál. Az esőben az út a Saint-Remi negyedbe így stresszmentes és száraz marad.\n\nDélben hagyja el a várost a Taittinger-hez hasonló pezsgőházak felé. A mély kréta-pincékben az időjárás nem számít.\n\nA délután Hautvillers-be vezet. A ködös és esős szőlőültetvényeknek sajátos, romantikus kisugárzása van. Egy megálló egy helyi borásznál most különösen hangulatos.\n\nZárásként látogasson el a Phare de Verzenay-hoz. Az ottani bormúzeum fantasztikus, száraz körpanorámát nyújt az esős Champagne vidékére.",
             "ro": "Începeți confortabil cu mașina de la catedrală. Ploaia face drumul către cartierul Saint-Remi lipsit de stres și uscat.\n\nLa prânz, părăsiți orașul spre casele de șampanie precum Taittinger. În pivnițele adânci de cretă, vremea nu contează.\n\nDupă-amiaza duce la Hautvillers. Podgoriile în ceață și ploaie au o aură romantică aparte. O oprire la un vinificator local este acum extrem de primitoare.\n\nLa final, vizitați Phare de Verzenay. Muzeul vinului de acolo oferă o panoramă superbă și uscată peste regiunea Champagne sub ploaie.",
-            "en": "Start comfortably in your car at the cathedral. The rain makes the drive to the Saint-Remi district stress-free and dry.\n\nAt noon, leave the city for Champagne houses like Taittinger. In the deep chalk cellars, the weather doesn't matter.\n\nThe afternoon leads to Hautvillers. The vineyards in mist and rain have a very unique, romantic aura. A stop at a local winemaker's cellar is especially cozy now.\n\nTo finish, visit Phare de Verzenay. The wine museum there offers a fantastic, dry panoramic view over the rainy Champagne region."
+            "en": "Start comfortably in your car at the cathedral. The rain makes the drive to the Saint-Remi district stress-free and dry.\n\nAt noon, leave the city for Champagne houses like Taittinger. In the deep chalk cellars, the weather doesn't matter.\n\nThe afternoon leads to Hautvillers. The vineyards in mist and rain have a very unique, romantic aura. A stop at a local winemaker's cellar is especially cozy now.\n\nTo finish, visit Phare de Verzenay. The wine museum there offers a fantastic, dry panoramic view over the rainy Champagne region.",
+            "fr": "Commencez confortablement dans votre voiture à la cathédrale. La pluie rend le trajet vers le quartier Saint-Remi sans stress et au sec.\n\nÀ midi, quittez la ville pour les maisons de Champagne comme Taittinger. Dans les crayères profondes, la météo n'a aucune importance.\n\nL'après-midi mène à Hautvillers. Les vignobles dans la brume et la pluie ont une aura romantique unique. Un arrêt dans la cave d'un vigneron local est particulièrement chaleureux maintenant.\n\nPour finir, visitez le Phare de Verzenay. Le musée du vin offre une vue panoramique fantastique et sèche sur la Champagne pluvieuse."
           },
           "stops": [
             {
@@ -2093,7 +2287,8 @@
                 "de": "Parkhaus 'Cathédrale' nutzen, um direkt trocken anzukommen.",
                 "hu": "Használja a 'Cathédrale' parkolóházat a közvetlen, száraz érkezéshez.",
                 "ro": "Folosiți parcarea 'Cathédrale' pentru a ajunge direct la adăpost.",
-                "en": "Use the 'Cathédrale' parking garage for direct dry access."
+                "en": "Use the 'Cathédrale' parking garage for direct dry access.",
+                "fr": "Utilisez le parking 'Cathédrale' pour un accès direct au sec."
               }
             },
             {
@@ -2102,7 +2297,8 @@
                 "de": "Parkplätze befinden sich meist nah am Eingang.",
                 "hu": "A parkolóhelyek többnyire a bejárat közelében vannak.",
                 "ro": "Locurile de parcare sunt de obicei aproape de intrare.",
-                "en": "Parking spots are usually located close to the entrance."
+                "en": "Parking spots are usually located close to the entrance.",
+                "fr": "Les places de parking sont généralement situées près de l'entrée."
               }
             },
             {
@@ -2111,7 +2307,8 @@
                 "de": "Ideal bei Regen, da das gesamte Erlebnis unterirdisch ist.",
                 "hu": "Ideális esőben, mivel az egész élmény a föld alatt zajlik.",
                 "ro": "Ideal pe ploaie, deoarece întreaga experiență este subterană.",
-                "en": "Ideal in the rain as the entire experience is underground."
+                "en": "Ideal in the rain as the entire experience is underground.",
+                "fr": "Idéal sous la pluie car toute l'expérience se déroule sous terre."
               }
             },
             {
@@ -2120,7 +2317,8 @@
                 "de": "Viele Winzer haben überdachte Parkmöglichkeiten im Hof.",
                 "hu": "Sok borásznak van fedett parkolója az udvarban.",
                 "ro": "Mulți vinificatori au locuri de parcare acoperite în curte.",
-                "en": "Many winemakers have covered parking in their courtyards."
+                "en": "Many winemakers have covered parking in their courtyards.",
+                "fr": "De nombreux vignerons disposent de parkings couverts dans leurs cours."
               }
             },
             {
@@ -2129,7 +2327,8 @@
                 "de": "Das Museum ist komplett überdacht und trocken.",
                 "hu": "A múzeum teljesen fedett és száraz.",
                 "ro": "Muzeul este complet acoperit și uscat.",
-                "en": "The museum is completely covered and dry."
+                "en": "The museum is completely covered and dry.",
+                "fr": "Le musée est entièrement couvert et sec."
               }
             }
           ],
@@ -2161,6 +2360,13 @@
               "Watch out for tractors in the vineyards that might bring mud onto the road.",
               "Keep an umbrella within reach on the back seat.",
               "Champagne tastings: the driver should only sniff or use spittoons."
+            ],
+            "fr": [
+              "Les routes de campagne en Champagne peuvent être glissantes sous la pluie.",
+              "Utilisez les parkings souterrains à Reims pour éviter les longues marches sous la pluie.",
+              "Attention aux tracteurs dans les vignes qui peuvent ramener de la boue sur la route.",
+              "Gardez un parapluie à portée de main sur le siège arrière.",
+              "Dégustations de Champagne : le conducteur ne doit que sentir ou utiliser les crachoirs."
             ]
           }
         },
@@ -2169,7 +2375,8 @@
             "de": "Im vorgeheizten Auto beginnt der Tag an der prächtigen Kathedrale. Die winterliche Stadt lässt sich so ohne Frieren erkunden.\n\nMittags fahren Sie zu den Champagner-Häusern. Die frostigen Weinberge glitzern in der Ferne, während Sie drinnen die Wärme und den Champagner genießen.\n\nDer Nachmittag in Hautvillers ist im Winter besonders friedlich. Die engen Gassen des Dorfes wirken wie aus einer anderen Zeit, wenn der Frost auf den Dächern liegt.\n\nZum Sonnenuntergang erreichen Sie den Phare de Verzenay. Das goldene Winterlicht über den ruhenden Reben ist ein unvergesslicher Anblick, bevor Sie gemütlich zurückfahren.",
             "hu": "Az előmelegített autóban kezdődik a nap a pompás katedrálisnál. A téli várost így fázás nélkül fedezheti fel.\n\nDélben hajtson a pezsgőházakhoz. A fagyos szőlőültetvények csillognak a távolban, miközben Ön bent élvezi a meleget és a pezsgőt.\n\nA délután Hautvillers-ben télen különösen békés. A falu szűk utcái mintha egy másik korból származnának, amikor zúzmara fedi a tetőket.\n\nNaplementére érje el a Phare de Verzenay-t. Az aranyló téli fény a pihenő tőkék felett felejthetetlen látvány, mielőtt kényelmesen visszaindulna.",
             "ro": "Ziua începe la catedrală în mașina preîncălzită. Orașul hivernal poate fi astfel explorat fără a îngheța.\n\nLa prânz conduceți spre casele de șampanie. Podgoriile înghețate sclipesc în depărtare, în timp ce în interior vă bucurați de căldură și șampanie.\n\nDupă-amiaza în Hautvillers este extrem de liniștită iarna. Străzile înguste ale satului par dintr-o altă epocă când chiciura acoperă acoperișurile.\n\nLa apus ajungeți la Phare de Verzenay. Lumina aurie a iernii peste viile aflate în repaus este o priveliște de neuitat înainte de drumul de întoarcere.",
-            "en": "In a preheated car, the day begins at the magnificent cathedral. The winter city can be explored without freezing.\n\nAt noon, drive to the Champagne houses. The frosty vineyards glisten in the distance while you enjoy the warmth and Champagne inside.\n\nThe afternoon in Hautvillers is especially peaceful in winter. The narrow streets of the village seem like they're from another time with frost on the roofs.\n\nBy sunset, reach Phare de Verzenay. The golden winter light over the dormant vines is an unforgettable sight before a cozy drive back."
+            "en": "In a preheated car, the day begins at the magnificent cathedral. The winter city can be explored without freezing.\n\nAt noon, drive to the Champagne houses. The frosty vineyards glisten in the distance while you enjoy the warmth and Champagne inside.\n\nThe afternoon in Hautvillers is especially peaceful in winter. The narrow streets of the village seem like they're from another time with frost on the roofs.\n\nBy sunset, reach Phare de Verzenay. The golden winter light over the dormant vines is an unforgettable sight before a cozy drive back.",
+            "fr": "Dans une voiture préchauffée, la journée commence à la magnifique cathédrale. La ville hivernale peut être explorée sans geler.\n\nÀ midi, roulez vers les maisons de Champagne. Les vignes givrées scintillent au loin pendant que vous profitez de la chaleur et du Champagne à l'intérieur.\n\nL'après-midi à Hautvillers est particulièrement paisible en hiver. Les rues étroites du village semblent sorties d'une autre époque avec le givre sur les toits.\n\nAu coucher du soleil, atteignez le Phare de Verzenay. La lumière dorée de l'hiver sur les vignes dormantes est un spectacle inoubliable avant un retour douillet."
           },
           "stops": [
             {
@@ -2178,7 +2385,8 @@
                 "de": "Parken Sie zentral, um die Zeit im Freien kurz zu halten.",
                 "hu": "Parkoljon központilag, hogy lerövidítse a szabadban töltött időt.",
                 "ro": "Parcați central pentru a reduce timpul petrecut afară.",
-                "en": "Park centrally to keep outdoor time to a minimum."
+                "en": "Park centrally to keep outdoor time to a minimum.",
+                "fr": "Garez-vous au centre pour limiter le temps passé dehors."
               }
             },
             {
@@ -2187,7 +2395,8 @@
                 "de": "Die Heizung in der Basilika ist im Winter oft begrenzt.",
                 "hu": "A bazilikában a fűtés télen gyakran korlátozott.",
                 "ro": "Încălzirea în basilică este adesea limitată iarna.",
-                "en": "Heating in the basilica is often limited in winter."
+                "en": "Heating in the basilica is often limited in winter.",
+                "fr": "Le chauffage dans la basilique est souvent limité en hiver."
               }
             },
             {
@@ -2196,7 +2405,8 @@
                 "de": "Jacke anbehalten, die Keller haben immer ca. 11°C.",
                 "hu": "Tartsa magán a kabátot, a pincékben mindig kb. 11°C van.",
                 "ro": "Păstrați haina pe dvs., pivnițele au mereu cam 11°C.",
-                "en": "Keep your jacket on; the cellars are always around 11°C."
+                "en": "Keep your jacket on; the cellars are always around 11°C.",
+                "fr": "Gardez votre veste ; les caves sont toujours aux alentours de 11°C."
               }
             },
             {
@@ -2205,7 +2415,8 @@
                 "de": "Vorsicht bei Glätte auf den steilen Dorfstraßen.",
                 "hu": "Vigyázat a csúszós utakkal a meredek falusi utcákon.",
                 "ro": "Atenție la polei pe străzile abrupte din sat.",
-                "en": "Watch out for ice on the steep village streets."
+                "en": "Watch out for ice on the steep village streets.",
+                "fr": "Attention au verglas dans les rues escarpées du village."
               }
             },
             {
@@ -2214,7 +2425,8 @@
                 "de": "Warmer Kakao im Museumsshop nach dem Rundgang.",
                 "hu": "Meleg kakaó a múzeumi boltban a körbejárás után.",
                 "ro": "Cacao caldă în magazinul muzeului după vizită.",
-                "en": "Hot cocoa available in the museum shop after the tour."
+                "en": "Hot cocoa available in the museum shop after the tour.",
+                "fr": "Chocolat chaud disponible à la boutique du musée après la visite."
               }
             }
           ],
@@ -2246,6 +2458,13 @@
               "Many small winemakers have altered hours in January/February.",
               "Use seat heating for maximum comfort between stops.",
               "Pack blankets if you plan to stay outside longer for photos."
+            ],
+            "fr": [
+              "Vérifiez l'adéquation de vos pneus pour l'hiver (pneus hiver recommandés).",
+              "Les routes de campagne peuvent geler rapidement dans les zones basses.",
+              "De nombreux petits vignerons ont des horaires modifiés en janvier/février.",
+              "Utilisez les sièges chauffants pour un confort maximal entre les arrêts.",
+              "Prévoyez des couvertures si vous comptez rester dehors plus longtemps pour des photos."
             ]
           }
         }
@@ -2279,7 +2498,8 @@
             "de": "Haltestelle 'Opéra-Cathedrale'.",
             "hu": "'Opéra-Cathedrale' megálló.",
             "ro": "Stația 'Opéra-Cathedrale'.",
-            "en": "Stop 'Opéra-Cathedrale'."
+            "en": "Stop 'Opéra-Cathedrale'.",
+            "fr": "Arrêt 'Opéra-Cathédrale'."
           }
         },
         {
@@ -2302,7 +2522,8 @@
             "de": "Tram A oder B bis 'Boulingrin'.",
             "hu": "A vagy B villamos a 'Boulingrin' megállóig.",
             "ro": "Tramvaiul A sau B până la 'Boulingrin'.",
-            "en": "Tram A or B to 'Boulingrin'."
+            "en": "Tram A or B to 'Boulingrin'.",
+            "fr": "Tram A ou B jusqu'à 'Boulingrin'."
           }
         },
         {
@@ -2325,7 +2546,8 @@
             "de": "Bus Linie 4 bis 'Saint-Remi'.",
             "hu": "4-es busz a 'Saint-Remi' megállóig.",
             "ro": "Autobuzul linia 4 până la 'Saint-Remi'.",
-            "en": "Bus line 4 to 'Saint-Remi'."
+            "en": "Bus line 4 to 'Saint-Remi'.",
+            "fr": "Ligne de bus 4 jusqu'à 'Saint-Remi'."
           }
         },
         {
@@ -2348,7 +2570,8 @@
             "de": "Direkt neben dem Museum.",
             "hu": "Közvetlenül a múzeum mellett.",
             "ro": "Chiar lângă muzeu.",
-            "en": "Right next to the museum."
+            "en": "Right next to the museum.",
+            "fr": "Juste à côté du musée."
           }
         },
         {
@@ -2371,7 +2594,8 @@
             "de": "Tram bis 'Langlet' oder 'Gare Centre'.",
             "hu": "Villamos 'Langlet' vagy 'Gare Centre' felé.",
             "ro": "Tramvaiul spre 'Langlet' sau 'Gare Centre'.",
-            "en": "Tram to 'Langlet' or 'Gare Centre'."
+            "en": "Tram to 'Langlet' or 'Gare Centre'.",
+            "fr": "Tram vers 'Langlet' ou 'Gare Centre'."
           }
         }
       ],
@@ -2379,7 +2603,8 @@
         "de": "Nutzen Sie das effiziente Straßenbahnnetz von Reims! Starten Sie an der Kathedrale und fahren Sie mit der Tram zur römischen Porte de Mars. Der Mittag führt Sie mit dem Bus zur Basilika und zum Museum Saint-Remi. Den späten Nachmittag verbringen Sie auf der Place d'Erlon, dem Herz des gesellschaftlichen Lebens, bevor Sie bequem mit der Tram zum Bahnhof oder Hotel zurückkehren.",
         "hu": "Használja Reims hatékony villamoshálózatát! Kezdje a katedrálisnál, majd villamosozzon el a római Mars-kapuhoz. A délután folyamán busszal érheti el a Szent Remi-bazilikát és múzeumot. A késő délutánt töltse a Place d'Erlon téren, a társasági élet központjában, mielőtt kényelmesen visszatérne villamossal a vasútállomáshoz vagy a szállodájához.",
         "ro": "Utilizați rețeaua eficientă de tramvaie din Reims! Începeți la catedrală și luați tramvaiul spre Poarta romană a lui Marte. După-amiaza vă poartă cu autobuzul la Bazilica și Muzeul Saint-Remi. Petreceți restul zilei în Piața d'Erlon, inima vieții sociale, înainte de a reveni confortabil cu tramvaiul la gară sau la hotel.",
-        "en": "Use the efficient tram network of Reims! Start at the cathedral and take the tram to the Roman Porte de Mars. The afternoon takes you by bus to the Saint-Remi Basilica and Museum. Spend your late afternoon at Place d'Erlon, the heart of social life, before returning comfortably by tram to the station or your hotel."
+        "en": "Use the efficient tram network of Reims! Start at the cathedral and take the tram to the Roman Porte de Mars. The afternoon takes you by bus to the Saint-Remi Basilica and Museum. Spend your late afternoon at Place d'Erlon, the heart of social life, before returning comfortably by tram to the station or your hotel.",
+        "fr": "Utilisez le réseau de tramway efficace de Reims ! Commencez à la cathédrale et prenez le tram jusqu'à l'antique Porte de Mars. L'après-midi vous emmène en bus jusqu'à la Basilique et au Musée Saint-Remi. Passez votre fin d'après-midi sur la Place d'Erlon, cœur de la vie sociale, avant de revenir confortablement en tram vers la gare ou votre hôtel."
       },
       "gastro_picks": {
         "de": [
@@ -2420,6 +2645,16 @@
           {
             "name": "L'Epicerie au Bon Manger",
             "tip": "Delicatessen and light bites."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Brasserie du Boulingrin",
+            "tip": "Brasserie traditionnelle près du tramway."
+          },
+          {
+            "name": "L'Epicerie au Bon Manger",
+            "tip": "Épicerie fine et petites bouchées."
           }
         ]
       },
@@ -2471,6 +2706,18 @@
             "tip": "Unique Japanese art.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin de la Patte d'Oie",
+            "tip": "Oasis de verdure près de la gare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chapelle Foujita",
+            "tip": "Art japonais unique.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2513,6 +2760,16 @@
             "name": "Maison Fossier",
             "tip": "Pink biscuits right at the station."
           }
+        ],
+        "fr": [
+          {
+            "name": "Rue de Vesle",
+            "tip": "Principale rue commerçante le long de la ligne de tram."
+          },
+          {
+            "name": "Maison Fossier",
+            "tip": "Biscuits roses juste à côté de la gare."
+          }
         ]
       },
       "tips": {
@@ -2543,6 +2800,13 @@
           "Validate your ticket every time you board.",
           "The 'Citura' app shows real-time departures.",
           "The tram is accessible and modern."
+        ],
+        "fr": [
+          "Achetez un pass journalier (Ticket Journée).",
+          "Les lignes de tram A et B desservent parfaitement le centre.",
+          "Validez votre ticket à chaque montée.",
+          "L'application 'Citura' affiche les départs en temps réel.",
+          "Le tramway est accessible et moderne."
         ]
       },
       "variants": {
@@ -2795,7 +3059,8 @@
             "de": "Nutzen Sie die moderne Straßenbahn, um trocken zur Kathedrale zu gelangen. Der kurze Fußweg von der Haltestelle 'Opéra' ist gut zu bewältigen.\n\nMittags bringt Sie der Bus direkt zur Porte de Mars und weiter zum Musée Saint-Remi. Die Fahrt bietet einen geschützten Blick auf das regnerische Stadtbild.\n\nDer Nachmittag in der Basilika und im Museum Saint-Remi ist ideal, um dem Wetter zu entfliehen. Die weitläufigen Ausstellungsräume sind komplett überdacht.\n\nAbends fahren Sie zurück zur Place d'Erlon. Die beleuchteten Trams, die durch den Regen gleiten, verleihen der Stadt eine moderne, urbane Romantik.",
             "hu": "Használja a modern villamost, hogy szárazon jusson a katedrálishoz. Az 'Opéra' megállótól csak rövid sétát kell tennie.\n\nDélben a busz közvetlenül a Porte de Mars-hoz, majd a Saint-Remi múzeumhoz viszi. Az utazás védett kilátást nyújt az esős városképre.\n\nA délután a bazilikában és a Saint-Remi múzeumban ideális az időjárás elöli menekülésre. A tágas kiállítóterek teljesen fedettek.\n\nEste utazzon vissza a Place d'Erlon-hoz. Az esőben sikló kivilágított villamosok modern, városi romantikát kölcsönöznek a városnak.",
             "ro": "Folosiți tramvaiul modern pentru a ajunge uscat la catedrală. Scurta plimbare de la stația 'Opéra' este ușor de parcurs.\n\nLa prânz, autobuzul vă duce direct la Porte de Mars și apoi la Muzeul Saint-Remi. Călătoria oferă o vedere protejată asupra orașului ploios.\n\nDupă-amiaza la basilică și la Muzeul Saint-Remi este ideală pentru a scăpa de vremea rea. Sălile vaste de expoziție sunt complet acoperite.\n\nSeara, întoarceți-vă la Place d'Erlon. Tramvaiele iluminate care alunecă prin ploaie dau orașului o notă de romantism urban modern.",
-            "en": "Use the modern tram to reach the cathedral while staying dry. The short walk from the 'Opéra' stop is easy to manage.\n\nAt noon, the bus takes you directly to Porte de Mars and then to the Saint-Remi Museum. The ride offers a sheltered view of the rainy cityscape.\n\nThe afternoon at the Basilica and Saint-Remi Museum is ideal for escaping the weather. The extensive exhibition spaces are fully covered.\n\nIn the evening, head back to Place d'Erlon. The illuminated trams gliding through the rain give the city a modern, urban romantic feel."
+            "en": "Use the modern tram to reach the cathedral while staying dry. The short walk from the 'Opéra' stop is easy to manage.\n\nAt noon, the bus takes you directly to Porte de Mars and then to the Saint-Remi Museum. The ride offers a sheltered view of the rainy cityscape.\n\nThe afternoon at the Basilica and Saint-Remi Museum is ideal for escaping the weather. The extensive exhibition spaces are fully covered.\n\nIn the evening, head back to Place d'Erlon. The illuminated trams gliding through the rain give the city a modern, urban romantic feel.",
+            "fr": "Utilisez le tramway moderne pour rejoindre la cathédrale tout en restant au sec. La courte marche depuis l'arrêt 'Opéra' est facile à gérer.\n\nÀ midi, le bus vous emmène directement à la Porte de Mars puis au Musée Saint-Remi. Le trajet offre une vue abritée sur le paysage urbain pluvieux.\n\nL'après-midi à la Basilique et au Musée Saint-Remi est idéal pour échapper aux intempéries. Les vastes espaces d'exposition sont entièrement couverts.\n\nLe soir, retournez vers la Place d'Erlon. Les trams illuminés glissant sous la pluie donnent à la ville une atmosphère de romantisme urbain moderne."
           },
           "stops": [
             {
@@ -2804,7 +3069,8 @@
                 "de": "Haltestelle 'Opéra' ist nur 3 Gehminuten entfernt.",
                 "hu": "Az 'Opéra' megálló mindössze 3 perc sétára van.",
                 "ro": "Stația 'Opéra' este la doar 3 minute de mers pe jos.",
-                "en": "The 'Opéra' stop is just a 3-minute walk away."
+                "en": "The 'Opéra' stop is just a 3-minute walk away.",
+                "fr": "L'arrêt 'Opéra' est à seulement 3 minutes à pied."
               }
             },
             {
@@ -2813,7 +3079,8 @@
                 "de": "Die Tramhaltestelle 'Boulingrin' liegt direkt daneben.",
                 "hu": "A 'Boulingrin' villamosmegálló közvetlenül mellette van.",
                 "ro": "Stația de tramvai 'Boulingrin' este chiar lângă.",
-                "en": "The 'Boulingrin' tram stop is located right next to it."
+                "en": "The 'Boulingrin' tram stop is located right next to it.",
+                "fr": "L'arrêt de tram 'Boulingrin' est situé juste à côté."
               }
             },
             {
@@ -2822,7 +3089,8 @@
                 "de": "Buslinie 4 oder 6 hält fast vor der Tür.",
                 "hu": "A 4-es vagy 6-os busz szinte az ajtó előtt áll meg.",
                 "ro": "Linia de autobuz 4 sau 6 oprește aproape în față.",
-                "en": "Bus line 4 or 6 stops almost right at the entrance."
+                "en": "Bus line 4 or 6 stops almost right at the entrance.",
+                "fr": "La ligne de bus 4 ou 6 s'arrête presque devant l'entrée."
               }
             },
             {
@@ -2831,7 +3099,8 @@
                 "de": "Kurzer, trockener Übergang vom Museum möglich.",
                 "hu": "Rövid, száraz átjárás lehetséges a múzeumból.",
                 "ro": "Trecere scurtă și uscată posibilă de la muzeu.",
-                "en": "A short, dry transition from the museum is possible."
+                "en": "A short, dry transition from the museum is possible.",
+                "fr": "Une transition courte et sèche depuis le musée est possible."
               }
             },
             {
@@ -2840,7 +3109,8 @@
                 "de": "Zentraler Knotenpunkt für fast alle Linien zurück.",
                 "hu": "Központi csomópont szinte minden visszamenő járatnak.",
                 "ro": "Nod central pentru aproape toate liniile de retur.",
-                "en": "Central hub for almost all return transit lines."
+                "en": "Central hub for almost all return transit lines.",
+                "fr": "Plaque tournante pour presque toutes les lignes de retour."
               }
             }
           ],
@@ -2872,6 +3142,13 @@
               "Use the 'CITURA' app for real-time info during delays.",
               "Buses are warm and dry, ideal for warming up.",
               "Keep your ticket handy to avoid searching for it in the rain."
+            ],
+            "fr": [
+              "Achetez un pass journalier (Ticket 24h) facilement via l'application.",
+              "Les arrêts de tram sont pour la plupart bien couverts.",
+              "Utilisez l'application 'CITURA' pour les infos en temps réel en cas de retards.",
+              "Les bus sont chauds et secs, parfaits pour se réchauffer.",
+              "Gardez votre ticket à portée de main pour éviter de le chercher sous la pluie."
             ]
           }
         },
@@ -2880,7 +3157,8 @@
             "de": "Starten Sie den Wintertag mit der Tram zur Kathedrale. Die beheizten Wagen machen die Anreise am frühen Morgen sehr angenehm.\n\nMittags bringt Sie der Nahverkehr schnell zur Porte de Mars. Ein kurzer Spaziergang durch die kühle Winterluft führt Sie zu den nächsten warmen Innenräumen.\n\nDer Nachmittag im Museum Saint-Remi ist perfekt, um die Kälte draußen zu lassen. Genießen Sie die Geschichte der Champagne in wohliger Wärme.\n\nAbends erreichen Sie die Place d'Erlon, wenn die Weihnachtsbeleuchtung (im Dezember) die Stadt erstrahlt. Die Trams verkehren bis spät, sodass Sie die winterliche Stimmung voll auskosten können.",
             "hu": "Kezdje a téli napot villamossal a katedrálishoz. A fűtött kocsik nagyon kellemessé teszik a kora reggeli utazást.\n\nDélben a tömegközlekedés gyorsan a Porte de Mars-hoz viszi. Egy rövid séta a hűvös téli levegőn elvezeti a következő meleg belső térhez.\n\nA délután a Saint-Remi múzeumban tökéletes arra, hogy kint hagyja a hideget. Élvezze Champagne történelmét kellemes melegben.\n\nEste érje el a Place d'Erlon-t, amikor a karácsonyi fények (decemberben) ragyogják be a várost. A villamosok későig járnak, így teljesen kiélvezheti a téli hangulatot.",
             "ro": "Începeți ziua de iarnă cu tramvaiul către catedrală. Vagoanele încălzite fac deplasarea de dimineață foarte plăcută.\n\nLa prânz, transportul în comun vă duce rapid la Porte de Mars. O scurtă plimbare prin aerul rece vă va conduce către următoarele spații calde.\n\nDupă-amiaza la Muzeul Saint-Remi este perfectă pentru a lăsa frigul afară. Bucurați-vă de istoria regiunii Champagne la căldură.\n\nSeara ajungeți la Place d'Erlon, când luminile de Crăciun (în decembrie) fac orașul să strălucească. Tramvaiele circulă până târziu, deci puteți profita din plin de atmosfera de iarnă.",
-            "en": "Start your winter day with the tram to the cathedral. The heated cars make the early morning journey very pleasant.\n\nAt noon, public transit takes you quickly to Porte de Mars. A short walk through the cool winter air leads you to the next warm indoor space.\n\nThe afternoon at the Saint-Remi Museum is perfect for leaving the cold outside. Enjoy the history of Champagne in cozy warmth.\n\nIn the evening, reach Place d'Erlon when the Christmas lights (in December) make the city shine. Trams run late, so you can fully enjoy the winter ambiance."
+            "en": "Start your winter day with the tram to the cathedral. The heated cars make the early morning journey very pleasant.\n\nAt noon, public transit takes you quickly to Porte de Mars. A short walk through the cool winter air leads you to the next warm indoor space.\n\nThe afternoon at the Saint-Remi Museum is perfect for leaving the cold outside. Enjoy the history of Champagne in cozy warmth.\n\nIn the evening, reach Place d'Erlon when the Christmas lights (in December) make the city shine. Trams run late, so you can fully enjoy the winter ambiance.",
+            "fr": "Commencez votre journée d'hiver avec le tramway vers la cathédrale. Les rames chauffées rendent le trajet matinal très agréable.\n\nÀ midi, les transports en commun vous emmènent rapidement à la Porte de Mars. Une courte marche dans l'air frais de l'hiver vous mène au prochain espace intérieur chauffé.\n\nL'après-midi au Musée Saint-Remi est parfait pour laisser le froid dehors. Profitez de l'histoire de la Champagne dans une chaleur douillette.\n\nLe soir, rejoignez la Place d'Erlon quand les illuminations de Noël (en décembre) font briller la ville. Les trams circulent tard, vous permettant de profiter pleinement de l'ambiance hivernale."
           },
           "stops": [
             {
@@ -2889,7 +3167,8 @@
                 "de": "Die Tram A/B fährt alle paar Minuten Richtung Zentrum.",
                 "hu": "Az A/B villamos pár percenként jár a központ felé.",
                 "ro": "Tramvaiul A/B circulă la fiecare câteva minute spre centru.",
-                "en": "Tram A/B runs every few minutes towards the center."
+                "en": "Tram A/B runs every few minutes towards the center.",
+                "fr": "Le tram A/B passe toutes les quelques minutes vers le centre."
               }
             },
             {
@@ -2898,7 +3177,8 @@
                 "de": "Vom Bahnhof (Gare Centre) nur eine Haltestelle entfernt.",
                 "hu": "A vasútállomástól (Gare Centre) mindössze egy megálló.",
                 "ro": "La doar o stație distanță de gară (Gare Centre).",
-                "en": "Just one stop away from the main station (Gare Centre)."
+                "en": "Just one stop away from the main station (Gare Centre).",
+                "fr": "À seulement un arrêt de la gare principale (Gare Centre)."
               }
             },
             {
@@ -2907,7 +3187,8 @@
                 "de": "Nutzen Sie den Bus, um die Gehzeit in der Kälte zu minimieren.",
                 "hu": "Használja a buszt, hogy minimalizálja a hidegben való gyaloglást.",
                 "ro": "Folosiți autobuzul pentru a minimiza timpul de mers prin frig.",
-                "en": "Use the bus to minimize walking time in the cold."
+                "en": "Use the bus to minimize walking time in the cold.",
+                "fr": "Utilisez le bus pour minimiser le temps de marche dans le froid."
               }
             },
             {
@@ -2916,7 +3197,8 @@
                 "de": "Wärmen Sie sich im Bus auf dem Weg zum nächsten Ziel auf.",
                 "hu": "Melegedjen fel a buszon a következő úticél felé.",
                 "ro": "Încălziți-vă în autobuz în drum spre următoarea destinație.",
-                "en": "Warm up on the bus while heading to your next stop."
+                "en": "Warm up on the bus while heading to your next stop.",
+                "fr": "Réchauffez-vous dans le bus en vous rendant à votre prochain arrêt."
               }
             },
             {
@@ -2925,7 +3207,8 @@
                 "de": "Hauptknotenpunkt für den späten Rückweg zum Hotel.",
                 "hu": "Fő csomópont a késői visszatéréshez a szállodába.",
                 "ro": "Nod principal pentru întoarcerea târzie la hotel.",
-                "en": "Main hub for the late return trip to your hotel."
+                "en": "Main hub for the late return trip to your hotel.",
+                "fr": "Plaque tournante principale pour le retour tardif à votre hôtel."
               }
             }
           ],
@@ -2957,6 +3240,13 @@
               "Avoid waiting outside by using the real-time app.",
               "Wear a hat and scarf for the short segments between stops.",
               "Buses and trams are often crowded in the evenings during market season."
+            ],
+            "fr": [
+              "Les horaires peuvent varier pendant les jours fériés d'hiver.",
+              "Les arrêts de tram disposent souvent d'afficheurs numériques pour les temps d'attente.",
+              "Évitez d'attendre dehors en utilisant l'application en temps réel.",
+              "Portez un bonnet et une écharpe pour les courts segments entre les arrêts.",
+              "Les bus et trams sont souvent bondés le soir pendant la saison des marchés."
             ]
           }
         }

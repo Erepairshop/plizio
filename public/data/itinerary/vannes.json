@@ -36,7 +36,8 @@
             "de": "Besuchen Sie die Markthalle an Markttagen.",
             "hu": "Látogasson el a piaccsarnokba piaci napokon.",
             "ro": "Vizitați hala pieței în zilele de târg.",
-            "en": "Visit the covered market hall on market days."
+            "en": "Visit the covered market hall on market days.",
+            "fr": "Visitez la halle du marché couvert les jours de marché."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bewundern Sie die Mischung aus Gotik und Renaissance.",
             "hu": "Csodálja meg a gótika és a reneszánsz keveredését.",
             "ro": "Admirați amestecul de stil gotic și renașcentist.",
-            "en": "Admire the blend of Gothic and Renaissance styles."
+            "en": "Admire the blend of Gothic and Renaissance styles.",
+            "fr": "Admirez le mélange des styles gothique et Renaissance."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Suchen Sie diese berühmte Skulptur an der Straßenecke.",
             "hu": "Keresse ezt a híres szobrot az utcasarkon.",
             "ro": "Căutați această sculptură faimoasă la colțul străzii.",
-            "en": "Look for this famous sculpture on the street corner."
+            "en": "Look for this famous sculpture on the street corner.",
+            "fr": "Cherchez cette célèbre sculpture à l'angle de la rue."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Hervorragende Sammlung zeitgenössischer Kunst.",
             "hu": "Kiváló kortárs művészeti gyűjtemény.",
             "ro": "Colecție excelentă de artă contemporană.",
-            "en": "Excellent collection of contemporary art."
+            "en": "Excellent collection of contemporary art.",
+            "fr": "Excellente collection d'art contemporain."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Spaziergang durch die perfekt gepflegten Gärten.",
             "hu": "Sétáljon a tökéletesen gondozott kertekben.",
             "ro": "Plimbare prin grădinile perfect întreținute.",
-            "en": "Walk through the perfectly manicured gardens."
+            "en": "Walk through the perfectly manicured gardens.",
+            "fr": "Promenez-vous dans les jardins parfaitement entretenus."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Die malerischsten alten Waschhäuser am Fluss.",
             "hu": "A legfestőibb régi mosóházak a folyóparton.",
             "ro": "Cele mai pitorești spălătorii vechi de pe râu.",
-            "en": "The most picturesque old washhouses by the river."
+            "en": "The most picturesque old washhouses by the river.",
+            "fr": "Les anciens lavoirs les plus pittoresques au bord de la rivière."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Perfekt für einen Drink am frühen Abend.",
             "hu": "Tökéletes hely egy kora esti italhoz.",
             "ro": "Locul perfect pentru o băutură devreme seara.",
-            "en": "Perfect place for an early evening drink."
+            "en": "Perfect place for an early evening drink.",
+            "fr": "Endroit idéal pour prendre un verre en début de soirée."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Herzen von Vannes am Place des Lices, wo die Fachwerkhäuser die reiche Handelsgeschichte der Stadt widerspiegeln. Mittags erkunden Sie die spirituelle Seite in der Kathedrale Saint-Pierre und entdecken die charmante Skulptur 'Vannes und seine Frau'. Am Nachmittag spazieren Sie entlang der beeindruckenden Stadtmauern und besichtigen die Lavoirs de la Garenne. Den Abend lassen Sie am belebten Hafen bei frischen Meeresfrüchten ausklingen.",
         "hu": "Kezdje a napot Vannes történelmi szívében, a Place des Lices téren, ahol a favázas házak a város gazdag kereskedelmi múltját idézik. Délben fedezze fel a spirituális oldalt a Szent Péter-székesegyházban, és keresse meg a bájos 'Vannes és felesége' szobrot. Délután sétáljon a lenyűgöző városfalak mentén és látogassa meg a Garenne mosóházakat. Az estét töltse a nyüzsgő kikötőben, friss tengeri ételeket kóstolva.",
         "ro": "Începeți ziua în inima istorică a orașului Vannes, în Place des Lices, unde casele cu bârne de lemn reflectă istoria comercială bogată. La prânz, explorați latura spirituală la Catedrala Saint-Pierre și descoperiți sculptura fermecătoare 'Vannes și soția sa'. După-amiaza, plimbați-vă de-a lungul zidurilor impresionante ale orașului și vizitați spălătoriile Garenne. Încheiați seara în portul plin de viață, savurând fructe de mare proaspete.",
-        "en": "Start your day in the historic heart of Vannes at Place des Lices, where half-timbered houses reflect the city's rich commercial past. At midday, explore the spiritual side at Saint-Pierre Cathedral and find the charming 'Vannes and his Wife' sculpture. In the afternoon, stroll along the impressive city walls and visit the Lavoirs de la Garenne. End your evening at the lively port, enjoying fresh seafood by the water."
+        "en": "Start your day in the historic heart of Vannes at Place des Lices, where half-timbered houses reflect the city's rich commercial past. At midday, explore the spiritual side at Saint-Pierre Cathedral and find the charming 'Vannes and his Wife' sculpture. In the afternoon, stroll along the impressive city walls and visit the Lavoirs de la Garenne. End your evening at the lively port, enjoying fresh seafood by the water.",
+        "fr": "Commencez votre journée au cœur historique de Vannes, sur la place des Lices, où les maisons à pans de bois témoignent du riche passé commercial de la ville. À la mi-journée, explorez la dimension spirituelle à la cathédrale Saint-Pierre et découvrez la charmante sculpture « Vannes et sa femme ». L'après-midi, flânez le long des impressionnants remparts et visitez les lavoirs de la Garenne. Terminez votre soirée sur le port animé, en dégustant des fruits de mer frais au bord de l'eau."
       },
       "gastro_picks": {
         "de": [
@@ -207,6 +215,12 @@
           {
             "name": "Crêperie Dan Ewen",
             "tip": "Try a traditional buckwheat galette."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Crêperie Dan Ewen",
+            "tip": "Goûtez une galette de sarrasin traditionnelle."
           }
         ]
       },
@@ -238,6 +252,13 @@
             "tip": "Quiet park beneath the city walls.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin des Remparts",
+            "tip": "Parc paisible au pied des remparts.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -264,6 +285,12 @@
             "name": "Halles des Lices",
             "tip": "Fresh Breton products and local flavors."
           }
+        ],
+        "fr": [
+          {
+            "name": "Halles des Lices",
+            "tip": "Produits bretons frais et saveurs locales."
+          }
         ]
       },
       "tips": {
@@ -282,6 +309,10 @@
         "en": [
           "Vannes is very pedestrian-friendly.",
           "Wear comfortable shoes for the cobblestone streets."
+        ],
+        "fr": [
+          "Vannes est une ville très facile à parcourir à pied.",
+          "Portez des chaussures confortables pour les rues pavées."
         ]
       },
       "variants": {
@@ -498,7 +529,8 @@
             "de": "Morgens bieten die mittelalterlichen Fachwerkhäuser am Place des Lices Schutz. Mittags bewundern wir die Kathedrale und flüchten in das La Cohue Museum vor dem Regen. Nachmittags spazieren wir unter dem Regenschirm an den Stadtmauern entlang. Abends genießen wir Galettes in einer gemütlichen Crêperie am Hafen.",
             "hu": "Reggel a Place des Lices középkori házai nyújtanak némi menedéket. Délben a katedrálist csodáljuk meg, majd a La Cohue múzeumba menekülünk az eső elől. Délután esernyővel sétálunk a városfalak mentén. Este egy hangulatos kikötői palacsintázóban élvezzük a helyi galette-eket.",
             "ro": "Dimineața, casele medievale din Place des Lices oferă adăpost. La prânz admirăm catedrala și ne refugiem de ploaie în Muzeul La Cohue. După-amiaza ne plimbăm cu umbrela pe lângă zidurile orașului. Seara savurăm galettes într-o creperie primitoare din port.",
-            "en": "Morning offers some shelter under the medieval timber-framed houses of Place des Lices. At noon, we admire the cathedral and escape the rain in La Cohue Museum. In the afternoon, we walk by the city walls with an umbrella. In the evening, enjoy local galettes in a cozy port-side crêperie."
+            "en": "Morning offers some shelter under the medieval timber-framed houses of Place des Lices. At noon, we admire the cathedral and escape the rain in La Cohue Museum. In the afternoon, we walk by the city walls with an umbrella. In the evening, enjoy local galettes in a cozy port-side crêperie.",
+            "fr": "La matinée offre quelques abris sous les maisons médiévales à pans de bois de la place des Lices. À midi, nous admirons la cathédrale et échappons à la pluie au musée de La Cohue. L'après-midi, nous marchons près des remparts avec un parapluie. En soirée, savourez des galettes locales dans une crêperie chaleureuse sur le port."
           },
           "stops": [
             {
@@ -507,7 +539,8 @@
                 "de": "Nutzen Sie die Arkaden und Dachüberstände bei Schauern.",
                 "hu": "Használja az árkádokat és a tetőket zápor esetén.",
                 "ro": "Folosiți arcadele și streșinile în caz de aversă.",
-                "en": "Use the arcades and roof overhangs during showers."
+                "en": "Use the arcades and roof overhangs during showers.",
+                "fr": "Utilisez les arcades et les surplombs de toit pendant les averses."
               }
             },
             {
@@ -516,7 +549,8 @@
                 "de": "Ein perfekter, trockener Ort für Besichtigungen.",
                 "hu": "Tökéletes száraz hely a nézelődéshez.",
                 "ro": "Un loc perfect și uscat pentru vizitare.",
-                "en": "A perfect dry spot for sightseeing."
+                "en": "A perfect dry spot for sightseeing.",
+                "fr": "Un endroit sec parfait pour les visites."
               }
             },
             {
@@ -525,7 +559,8 @@
                 "de": "Ein schnelles Foto unter dem Regenschirm.",
                 "hu": "Egy gyors fotó az esernyő alól.",
                 "ro": "O fotografie rapidă de sub umbrelă.",
-                "en": "A quick photo from under your umbrella."
+                "en": "A quick photo from under your umbrella.",
+                "fr": "Une photo rapide sous votre parapluie."
               }
             },
             {
@@ -534,7 +569,8 @@
                 "de": "Ideal, um den stärksten Regen im Trockenen zu verbringen.",
                 "hu": "Ideális a legerősebb eső átvészelésére szárazon.",
                 "ro": "Ideal pentru a petrece cea mai puternică ploaie la adăpost.",
-                "en": "Ideal for spending the heaviest rain in the dry."
+                "en": "Ideal for spending the heaviest rain in the dry.",
+                "fr": "Idéal pour passer les moments de forte pluie au sec."
               }
             },
             {
@@ -543,7 +579,8 @@
                 "de": "Vorsicht, das Kopfsteinpflaster kann rutschig sein.",
                 "hu": "Vigyázat, a macskaköves út csúszós lehet.",
                 "ro": "Atenție, pavajul de piatră poate fi alunecos.",
-                "en": "Caution, the cobblestones can be slippery."
+                "en": "Caution, the cobblestones can be slippery.",
+                "fr": "Attention, les pavés peuvent être glissants."
               }
             },
             {
@@ -552,7 +589,8 @@
                 "de": "Die historischen Waschhäuser bieten etwas Überdachung.",
                 "hu": "A történelmi mosóházak némi fedéllel szolgálnak.",
                 "ro": "Spălătoriile istorice oferă puțin adăpost.",
-                "en": "The historic washhouses provide some overhead cover."
+                "en": "The historic washhouses provide some overhead cover.",
+                "fr": "Les lavoirs historiques offrent un certain abri."
               }
             },
             {
@@ -561,7 +599,8 @@
                 "de": "Wählen Sie ein Restaurant mit Blick auf das Regenbecken.",
                 "hu": "Válasszon egy éttermet kilátással az esős kikötőre.",
                 "ro": "Alegeți un restaurant cu vedere spre portul ploios.",
-                "en": "Choose a restaurant with a view of the rainy port."
+                "en": "Choose a restaurant with a view of the rainy port.",
+                "fr": "Choisissez un restaurant avec vue sur le port sous la pluie."
               }
             }
           ],
@@ -589,6 +628,12 @@
               "Use the Passage Central for short dry shortcuts.",
               "Visit Les Halles market for regional snacks.",
               "A sturdy umbrella is essential due to the coastal wind."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables pour les rues pavées.",
+              "Utilisez le Passage Central pour des raccourcis au sec.",
+              "Visitez les Halles pour des spécialités régionales.",
+              "Un parapluie solide est essentiel à cause du vent côtier."
             ]
           }
         },
@@ -597,7 +642,8 @@
             "de": "Der Wintermorgen am Place des Lices ist ruhig und frisch. Mittags wärmt uns die spirituelle Atmosphäre der Kathedrale, bevor wir im Museum Kunst genießen. Der Spaziergang an den Stadtmauern bietet klare Ausblicke. Da die Sonne früh untergeht, beenden wir den Tag bei einem heißen Cidre am stimmungsvoll beleuchteten Hafen.",
             "hu": "A téli reggel a Place des Lices-en csendes és friss. Délben a katedrális spirituális légköre melegít fel, mielőtt a múzeumban művészetet élveznénk. A városfalak menti séta tiszta kilátást nyújt. Mivel a nap korán nyugszik, a napot egy forró cidre mellett zárjuk a hangulatosan kivilágított kikötőben.",
             "ro": "Dimineața de iarnă în Place des Lices este liniștită și proaspătă. La prânz, atmosfera spirituală a catedralei ne încălzește înainte de a savura arta la muzeu. Plimbarea pe ziduri oferă priveliști clare. Deoarece soarele apune devreme, încheiem ziua cu un cidru fierbinte în portul luminat feeric.",
-            "en": "The winter morning at Place des Lices is quiet and crisp. At noon, the cathedral's spiritual atmosphere warms us before enjoying art at the museum. The walk by the city walls offers clear views. As the sun sets early, we end the day with a hot cider at the atmospherically lit port."
+            "en": "The winter morning at Place des Lices is quiet and crisp. At noon, the cathedral's spiritual atmosphere warms us before enjoying art at the museum. The walk by the city walls offers clear views. As the sun sets early, we end the day with a hot cider at the atmospherically lit port.",
+            "fr": "Le matin d'hiver sur la place des Lices est calme et vivifiant. À midi, l'atmosphère spirituelle de la cathédrale nous réchauffe avant d'admirer l'art au musée. La promenade près des remparts offre des vues dégagées. Comme le soleil se couche tôt, nous terminons la journée avec un cidre chaud sur le port joliment éclairé."
           },
           "stops": [
             {
@@ -606,7 +652,8 @@
                 "de": "Genießen Sie die klare Winterluft auf dem Platz.",
                 "hu": "Élvezze a tiszta téli levegőt a téren.",
                 "ro": "Bucurați-vă de aerul curat de iarnă în piață.",
-                "en": "Enjoy the crisp winter air in the square."
+                "en": "Enjoy the crisp winter air in the square.",
+                "fr": "Profitez de l'air frais de l'hiver sur la place."
               }
             },
             {
@@ -615,7 +662,8 @@
                 "de": "Ein ruhiger Ort zur inneren Einkehr im Winter.",
                 "hu": "Csendes hely a belső elmélyüléshez télen.",
                 "ro": "Un loc liniștit pentru reflecție pe timp de iarnă.",
-                "en": "A quiet place for inner reflection in winter."
+                "en": "A quiet place for inner reflection in winter.",
+                "fr": "Un lieu paisible pour le recueillement en hiver."
               }
             },
             {
@@ -624,7 +672,8 @@
                 "de": "Die Skulptur wirkt im Winterlicht besonders markant.",
                 "hu": "A szobor a téli fényben különösen karakteres.",
                 "ro": "Sculptura pare deosebit de marcantă în lumina iernii.",
-                "en": "The sculpture looks particularly striking in winter light."
+                "en": "The sculpture looks particularly striking in winter light.",
+                "fr": "La sculpture est particulièrement frappante sous la lumière d'hiver."
               }
             },
             {
@@ -633,7 +682,8 @@
                 "de": "Aufwärmpause inmitten regionaler Kunstwerke.",
                 "hu": "Melegedő szünet regionális műalkotások között.",
                 "ro": "Pauză de încălzire în mijlocul operelor de artă.",
-                "en": "Warm-up break surrounded by regional artworks."
+                "en": "Warm-up break surrounded by regional artworks.",
+                "fr": "Pause réconfortante entourée d'œuvres d'art régionales."
               }
             },
             {
@@ -642,7 +692,8 @@
                 "de": "Bester Blick auf die Gärten, oft ohne Touristenströme.",
                 "hu": "A legjobb kilátás a kertekre, turistaáradat nélkül.",
                 "ro": "Cea mai bună vedere spre grădini, fără mulțimi.",
-                "en": "Best view of the gardens, often without the crowds."
+                "en": "Best view of the gardens, often without the crowds.",
+                "fr": "La meilleure vue sur les jardins, souvent sans la foule."
               }
             },
             {
@@ -651,7 +702,8 @@
                 "de": "Die Kälte verleiht dem Ort eine besondere Stille.",
                 "hu": "A hideg különleges csendet ad a helynek.",
                 "ro": "Frigul oferă locului o liniște aparte.",
-                "en": "The cold gives the place a special silence."
+                "en": "The cold gives the place a special silence.",
+                "fr": "Le froid confère au lieu un silence particulier."
               }
             },
             {
@@ -660,7 +712,8 @@
                 "de": "Dämmerung am Hafen beginnt bereits gegen 17 Uhr.",
                 "hu": "A szürkület a kikötőben már 17 óra körül elkezdődik.",
                 "ro": "Amurgul în port începe deja în jurul orei 17.",
-                "en": "Dusk at the port begins as early as 5 PM."
+                "en": "Dusk at the port begins as early as 5 PM.",
+                "fr": "Le crépuscule sur le port commence dès 17h00."
               }
             }
           ],
@@ -688,6 +741,12 @@
               "The sun sinks below the horizon around 5:15 PM.",
               "Drink a hot Breton cider to warm up.",
               "Many shops close a bit earlier in winter."
+            ],
+            "fr": [
+              "Des gants chauds sont conseillés contre la brise du port.",
+              "Le soleil descend sous l'horizon vers 17h15.",
+              "Buvez un cidre breton chaud pour vous réchauffer.",
+              "Beaucoup de boutiques ferment un peu plus tôt en hiver."
             ]
           }
         }
@@ -721,7 +780,8 @@
             "de": "Mieten Sie hier Ihr Fahrrad.",
             "hu": "Itt bérelheti ki a kerékpárját.",
             "ro": "Închiriați bicicleta de aici.",
-            "en": "Rent your bike here near the pier."
+            "en": "Rent your bike here near the pier.",
+            "fr": "Louez votre vélo ici, près de l'embarcadère."
           }
         },
         {
@@ -744,7 +804,8 @@
             "de": "Breite, baumbestandene Allee am Wasser.",
             "hu": "Széles, fákkal szegélyezett sétány a víz mellett.",
             "ro": "Alee largă, mărginită de copaci, pe malul apei.",
-            "en": "Wide, tree-lined avenue along the water."
+            "en": "Wide, tree-lined avenue along the water.",
+            "fr": "Large avenue bordée d'arbres le long de l'eau."
           }
         },
         {
@@ -767,7 +828,8 @@
             "de": "Wunderschöner Blick auf den Golf von Morbihan.",
             "hu": "Gyönyörű kilátás a Morbihani-öbölre.",
             "ro": "Vedere minunată asupra Golfului Morbihan.",
-            "en": "Beautiful view of the Gulf of Morbihan."
+            "en": "Beautiful view of the Gulf of Morbihan.",
+            "fr": "Magnifique vue sur le golfe du Morbihan."
           }
         },
         {
@@ -790,7 +852,8 @@
             "de": "Ideal für ein Picknick oder ein Bad im Meerwasserbecken.",
             "hu": "Ideális piknikhez vagy fürdéshez a tengervizes medencében.",
             "ro": "Ideal pentru un picnic sau o baie în piscina cu apă de mare.",
-            "en": "Ideal for a picnic or a swim in the seawater pool."
+            "en": "Ideal for a picnic or a swim in the seawater pool.",
+            "fr": "Idéal pour un pique-nique ou une baignade dans la piscine d'eau de mer."
           }
         },
         {
@@ -813,7 +876,8 @@
             "de": "Entdecken Sie die Meeresfauna des Golfs.",
             "hu": "Fedezze fel az öböl tengeri élővilágát.",
             "ro": "Descoperiți fauna marină a golfului.",
-            "en": "Discover the marine life of the Gulf."
+            "en": "Discover the marine life of the Gulf.",
+            "fr": "Découvrez la vie marine du Golfe."
           }
         },
         {
@@ -836,7 +900,8 @@
             "de": "Geben Sie das Rad ab und genießen Sie ein Getränk.",
             "hu": "Adja le a biciklit és élvezze a frissítőt.",
             "ro": "Returnați bicicleta și savurați o băutură.",
-            "en": "Return the bike and enjoy a refreshment."
+            "en": "Return the bike and enjoy a refreshment.",
+            "fr": "Rendez le vélo et profitez d'un rafraîchissement."
           }
         }
       ],
@@ -844,7 +909,8 @@
         "de": "Entdecken Sie den Golf von Morbihan mit dem Fahrrad. Starten Sie am Hafen und radeln Sie die Promenade de la Rabine entlang. Erreichen Sie die Halbinsel Conleau für einen entspannten Mittag am Strand. Nachmittags besuchen Sie das Aquarium, bevor Sie gemütlich zum Hafen zurückkehren.",
         "hu": "Fedezze fel a Morbihani-öböl környékét kerékpárral. Induljon a kikötőből, és tekerjen végig a La Rabine sétányon. Érje el a Conleau-félszigetet egy pihentető déli fürdőzésre. Délután látogasson el az akváriumba, mielőtt kényelmesen visszatérne a kikötőbe.",
         "ro": "Descoperiți împrejurimile Golfului Morbihan cu bicicleta. Porniți din port și pedalați de-a lungul promenadei La Rabine. Ajungeți la peninsula Conleau pentru o amiază relaxantă la plajă. După-amiaza vizitați acvariul înainte de a reveni în port.",
-        "en": "Discover the surroundings of the Gulf of Morbihan by bike. Start at the port and cycle along the Promenade de la Rabine. Reach the Conleau Peninsula for a relaxing midday at the beach. In the afternoon, visit the aquarium before a leisurely return to the port."
+        "en": "Discover the surroundings of the Gulf of Morbihan by bike. Start at the port and cycle along the Promenade de la Rabine. Reach the Conleau Peninsula for a relaxing midday at the beach. In the afternoon, visit the aquarium before a leisurely return to the port.",
+        "fr": "Découvrez les environs du golfe du Morbihan à vélo. Partez du port et roulez le long de la promenade de la Rabine. Rejoignez la presqu'île de Conleau pour une pause détente à la plage à la mi-journée. L'après-midi, visitez l'aquarium avant un retour tranquille vers le port."
       },
       "gastro_picks": {
         "de": [
@@ -869,6 +935,12 @@
           {
             "name": "Le Roof",
             "tip": "Seafood with a view of the Gulf."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Roof",
+            "tip": "Fruits de mer avec vue sur le Golfe."
           }
         ]
       },
@@ -900,6 +972,13 @@
             "tip": "Quiet beach section.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plage de Conleau",
+            "tip": "Partie de plage tranquille.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -926,6 +1005,12 @@
             "name": "Biscuiterie de Vannes",
             "tip": "Traditional Breton biscuits."
           }
+        ],
+        "fr": [
+          {
+            "name": "Biscuiterie de Vannes",
+            "tip": "Biscuits bretons traditionnels."
+          }
         ]
       },
       "tips": {
@@ -944,6 +1029,10 @@
         "en": [
           "The paths are flat and well-signposted.",
           "Take enough water for the ride."
+        ],
+        "fr": [
+          "Les chemins sont plats et bien balisés.",
+          "Prévoyez suffisamment d'eau pour la balade."
         ]
       },
       "variants": {
@@ -1146,7 +1235,8 @@
             "de": "Die Radtour startet am Hafen mit stürmischem Wind. Entlang der Rabine-Promenade spüren wir die Gischt. In Conleau machen wir eine lange Pause in einer windgeschützten Bar. Nachmittags besuchen wir das Aquarium, um dem Wetter zu entfliehen, bevor wir zum linken Ufer zurückkehren.",
             "hu": "A kerékpártúra a kikötőben indul viharos szélben. A Rabine sétány mentén érezzük a tenger permetét. Conleau-ban hosszú szünetet tartunk egy szélvédett bárban. Délután meglátogatjuk az akváriumot, hogy elmeneküljünk az időjárás elől, mielőtt visszatérnénk a bal partra.",
             "ro": "Turul cu bicicleta începe în port cu vânt puternic. Pe faleza Rabine simțim stropii mării. În Conleau facem o pauză lungă într-un bar ferit de vânt. După-amiaza vizităm acvariul pentru a scăpa de vreme, înainte de a ne întoarce pe malul stâng.",
-            "en": "The bike tour starts at the port with gusty winds. Along the Rabine promenade, we feel the sea spray. In Conleau, we take a long break in a sheltered bar. In the afternoon, we visit the aquarium to escape the weather before returning to the left bank."
+            "en": "The bike tour starts at the port with gusty winds. Along the Rabine promenade, we feel the sea spray. In Conleau, we take a long break in a sheltered bar. In the afternoon, we visit the aquarium to escape the weather before returning to the left bank.",
+            "fr": "Le tour à vélo commence au port avec des vents soutenus. Le long de la promenade de la Rabine, nous sentons les embruns. À Conleau, nous faisons une longue pause dans un bar abrité. L'après-midi, nous visitons l'aquarium pour échapper au mauvais temps avant de revenir vers la rive gauche."
           },
           "stops": [
             {
@@ -1155,7 +1245,8 @@
                 "de": "Vorsicht beim Losfahren auf rutschigen Wegen.",
                 "hu": "Vigyázzon az induláskor a csúszós utakon.",
                 "ro": "Atenție la plecare pe drumurile alunecoase.",
-                "en": "Be careful when starting off on slippery paths."
+                "en": "Be careful when starting off on slippery paths.",
+                "fr": "Soyez prudent au démarrage sur les chemins glissants."
               }
             },
             {
@@ -1164,7 +1255,8 @@
                 "de": "Wind von der Bucht kann das Treten erschweren.",
                 "hu": "Az öböl felőli szél megnehezítheti a tekerést.",
                 "ro": "Vântul dinspre golf poate îngreuna pedalarea.",
-                "en": "Wind from the bay can make pedaling harder."
+                "en": "Wind from the bay can make pedaling harder.",
+                "fr": "Le vent de la baie peut rendre le pédalage plus difficile."
               }
             },
             {
@@ -1173,7 +1265,8 @@
                 "de": "Kurzer Stopp, der Weg kann schlammig sein.",
                 "hu": "Rövid megálló, az út saras lehet.",
                 "ro": "Oprire scurtă, drumul poate fi noroios.",
-                "en": "Short stop, the path might be muddy."
+                "en": "Short stop, the path might be muddy.",
+                "fr": "Arrêt court, le chemin peut être boueux."
               }
             },
             {
@@ -1182,7 +1275,8 @@
                 "de": "Suchen Sie Schutz in der 'Café de la Marine'.",
                 "hu": "Keressen menedéket a 'Café de la Marine'-ban.",
                 "ro": "Căutați adăpost în 'Café de la Marine'.",
-                "en": "Seek shelter in 'Café de la Marine'."
+                "en": "Seek shelter in 'Café de la Marine'.",
+                "fr": "Cherchez refuge au « Café de la Marine »."
               }
             },
             {
@@ -1191,7 +1285,8 @@
                 "de": "Perfekter Ort, um das Fahrrad sicher zu parken.",
                 "hu": "Tökéletes hely a bicikli biztonságos leállításához.",
                 "ro": "Loc perfect pentru a parca bicicleta în siguranță.",
-                "en": "Perfect place to park the bike safely."
+                "en": "Perfect place to park the bike safely.",
+                "fr": "Endroit parfait pour garer le vélo en toute sécurité."
               }
             },
             {
@@ -1200,7 +1295,8 @@
                 "de": "Beenden Sie die Tour schnell bei starkem Regen.",
                 "hu": "Fejezze be gyorsan a túrát heves esőben.",
                 "ro": "Încheiați rapid turul în caz de ploaie torențială.",
-                "en": "End the tour quickly if the rain gets heavy."
+                "en": "End the tour quickly if the rain gets heavy.",
+                "fr": "Terminez le tour rapidement si la pluie s'intensifie."
               }
             }
           ],
@@ -1228,6 +1324,12 @@
               "Avoid puddles, they might be deep.",
               "Ensure you have mudguards to stay dry.",
               "Brake early on wet surfaces."
+            ],
+            "fr": [
+              "Portez une tenue de pluie complète pour la balade.",
+              "Évitez les flaques d'eau, elles peuvent être profondes.",
+              "Assurez-vous d'avoir des garde-boue pour rester au sec.",
+              "Freinez tôt sur les surfaces mouillées."
             ]
           }
         },
@@ -1236,7 +1338,8 @@
             "de": "Morgens radeln wir durch die frische Hafenluft. Die Promenade de la Rabine glänzt im Frost. In Conleau genießen wir die winterliche Einsamkeit der Halbinsel bei einem wärmenden Tee. Nachmittags besuchen wir das beheizte Aquarium, bevor wir pünktlich zum Sonnenuntergang am Hafen eintreffen.",
             "hu": "Reggel a friss kikötői levegőben kerekezünk. A Rabine sétány csillog a dértől. Conleau-ban a félsziget téli magányát élvezzük egy melengető tea mellett. Délután meglátogatjuk a fűtött akváriumot, mielőtt pontosan naplementére a kikötőbe érnénk.",
             "ro": "Dimineața pedalăm în aerul proaspăt din port. Faleza Rabine strălucește de brumă. În Conleau ne bucurăm de singurătatea iernatică a peninsulei cu un ceai cald. După-amiaza vizităm acvariul încălzit, înainte de a ajunge la port fix la apus.",
-            "en": "Morning ride through the fresh port air. The Rabine promenade glistens with frost. In Conleau, we enjoy the winter solitude of the peninsula with a warming tea. In the afternoon, visit the heated aquarium before arriving at the port exactly for sunset."
+            "en": "Morning ride through the fresh port air. The Rabine promenade glistens with frost. In Conleau, we enjoy the winter solitude of the peninsula with a warming tea. In the afternoon, visit the heated aquarium before arriving at the port exactly for sunset.",
+            "fr": "Balade matinale dans l'air frais du port. La promenade de la Rabine scintille de givre. À Conleau, nous profitons de la solitude hivernale de la presqu'île avec un thé bien chaud. L'après-midi, visitez l'aquarium chauffé avant d'arriver au port exactement pour le coucher du soleil."
           },
           "stops": [
             {
@@ -1245,7 +1348,8 @@
                 "de": "Handschuhe sind bei der morgendlichen Kälte Pflicht.",
                 "hu": "A reggeli hidegben a kesztyű kötelező.",
                 "ro": "Mănușile sunt obligatorii în frigul dimineții.",
-                "en": "Gloves are a must in the morning cold."
+                "en": "Gloves are a must in the morning cold.",
+                "fr": "Les gants sont indispensables dans le froid du matin."
               }
             },
             {
@@ -1254,7 +1358,8 @@
                 "de": "Vorsicht vor überfrierender Nässe im Schatten.",
                 "hu": "Vigyázzon a lefagyott foltokra az árnyékban.",
                 "ro": "Atenție la gheața din zonele umbrite.",
-                "en": "Watch out for black ice in shaded areas."
+                "en": "Watch out for black ice in shaded areas.",
+                "fr": "Attention au verglas dans les zones ombragées."
               }
             },
             {
@@ -1263,7 +1368,8 @@
                 "de": "Hervorragende Fernsicht über den Golf bei Frost.",
                 "hu": "Kiváló kilátás az öbölre fagyos időben.",
                 "ro": "Vizibilitate excelentă peste golf pe timp de îngheț.",
-                "en": "Excellent long-distance views over the Gulf during frost."
+                "en": "Excellent long-distance views over the Gulf during frost.",
+                "fr": "Excellentes vues lointaines sur le Golfe par temps de gel."
               }
             },
             {
@@ -1272,7 +1378,8 @@
                 "de": "Das Meerwasser wirkt im Winter besonders dunkel.",
                 "hu": "A tengervíz télen különösen sötétnek tűnik.",
                 "ro": "Apa mării pare deosebit de închisă la culoare iarna.",
-                "en": "The seawater looks particularly dark in winter."
+                "en": "The seawater looks particularly dark in winter.",
+                "fr": "L'eau de mer semble particulièrement sombre en hiver."
               }
             },
             {
@@ -1281,7 +1388,8 @@
                 "de": "Eine willkommene Wärmeunterbrechung der Tour.",
                 "hu": "A túra örvendetes melegedő állomása.",
                 "ro": "O pauză de încălzire binevenită în timpul turului.",
-                "en": "A welcome warm-up break during the tour."
+                "en": "A welcome warm-up break during the tour.",
+                "fr": "Une pause réchauffement bienvenue pendant le tour."
               }
             },
             {
@@ -1290,7 +1398,8 @@
                 "de": "Licht am Fahrrad für den Rückweg prüfen.",
                 "hu": "Ellenőrizze a biciklilámpát a visszaúthoz.",
                 "ro": "Verificați luminile bicicletei pentru drumul de întoarcere.",
-                "en": "Check bike lights for the return journey."
+                "en": "Check bike lights for the return journey.",
+                "fr": "Vérifiez l'éclairage du vélo pour le trajet du retour."
               }
             }
           ],
@@ -1318,6 +1427,12 @@
               "Watch out for slippery leaves on the ground.",
               "The sun disappears around 5:15 PM.",
               "Keep your water bottle close to your body to prevent freezing."
+            ],
+            "fr": [
+              "Habillez-vous avec plusieurs couches pour la balade.",
+              "Attention aux feuilles glissantes sur le sol.",
+              "Le soleil disparaît vers 17h15.",
+              "Gardez votre gourde près du corps pour éviter que l'eau ne gèle."
             ]
           }
         }
@@ -1351,7 +1466,8 @@
             "de": "Parken Sie im Parkhaus am Hafen.",
             "hu": "Parkoljon a kikötői parkolóházban.",
             "ro": "Parcați în parcarea din port.",
-            "en": "Park in the underground parking at the port."
+            "en": "Park in the underground parking at the port.",
+            "fr": "Garez-vous dans le parking souterrain du port."
           }
         },
         {
@@ -1374,7 +1490,8 @@
             "de": "Spektakulärer Panoramablick auf die Inseln.",
             "hu": "Látványos panoráma a szigetekre.",
             "ro": "Panoramă spectaculoasă asupra insulelor.",
-            "en": "Spectacular panoramic view of the islands."
+            "en": "Spectacular panoramic view of the islands.",
+            "fr": "Vue panoramique spectaculaire sur les îles."
           }
         },
         {
@@ -1397,7 +1514,8 @@
             "de": "Probieren Sie Austern direkt vom Erzeuger.",
             "hu": "Kóstoljon osztrigát közvetlenül a termelőtől.",
             "ro": "Gustați scoici direct de la producător.",
-            "en": "Taste oysters directly from the producer."
+            "en": "Taste oysters directly from the producer.",
+            "fr": "Goûtez des huîtres directement chez le producteur."
           }
         },
         {
@@ -1420,7 +1538,8 @@
             "de": "Bootstour zur megalithischen Fundstätte.",
             "hu": "Hajókirándulás a megalitikus emlékhelyhez.",
             "ro": "Tur cu barca la situl megalitic.",
-            "en": "Boat trip to the megalithic site."
+            "en": "Boat trip to the megalithic site.",
+            "fr": "Excursion en bateau vers le site mégalithique."
           }
         },
         {
@@ -1443,7 +1562,8 @@
             "de": "Rückkehr nach Vannes für das Abendessen.",
             "hu": "Visszatérés Vannes-ba vacsorázni.",
             "ro": "Revenire în Vannes pentru cină.",
-            "en": "Return to Vannes for dinner."
+            "en": "Return to Vannes for dinner.",
+            "fr": "Retour à Vannes pour le dîner."
           }
         }
       ],
@@ -1451,7 +1571,8 @@
         "de": "Mit dem Auto erkunden Sie die weitere Umgebung des Golfs von Morbihan. Nach einem kurzen Besuch in der Altstadt von Vannes fahren Sie nach Arradon für atemberaubende Ausblicke. Mittags genießen Sie Austern in Larmor-Baden und besuchen den mystischen Cairn de Gavrinis per Boot.",
         "hu": "Autóval fedezze fel a Morbihani-öböl tágabb környékét. Vannes óvárosának rövid megtekintése után irány Arradon a lélegzetelállító kilátásért. Délben kóstoljon osztrigát Larmor-Badenben, majd látogasson el hajóval a misztikus Gavrinis kőhalomhoz.",
         "ro": "Cu mașina veți explora împrejurimile mai largi ale Golfului Morbihan. După o scurtă vizită în centrul vechi din Vannes, mergeți spre Arradon pentru vederi uluitoare. La prânz, savurați stridii în Larmor-Baden și vizitați misticul Cairn de Gavrinis cu barca.",
-        "en": "By car, explore the wider surroundings of the Gulf of Morbihan. After a short visit to Vannes old town, head to Arradon for breathtaking views. At midday, enjoy oysters in Larmor-Baden and visit the mystical Gavrinis Cairn by boat."
+        "en": "By car, explore the wider surroundings of the Gulf of Morbihan. After a short visit to Vannes old town, head to Arradon for breathtaking views. At midday, enjoy oysters in Larmor-Baden and visit the mystical Gavrinis Cairn by boat.",
+        "fr": "En voiture, explorez les environs plus larges du golfe du Morbihan. Après une courte visite de la vieille ville de Vannes, dirigez-vous vers Arradon pour des panoramas à couper le souffle. À midi, dégustez des huîtres à Larmor-Baden et visitez le mystique cairn de Gavrinis en bateau."
       },
       "gastro_picks": {
         "de": [
@@ -1476,6 +1597,12 @@
           {
             "name": "Ostréiculture Larmor-Baden",
             "tip": "Fresh oysters directly by the water."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Ostréiculture Larmor-Baden",
+            "tip": "Huîtres fraîches directement au bord de l'eau."
           }
         ]
       },
@@ -1507,6 +1634,13 @@
             "tip": "Perfect spot for the sunset.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Pointe d'Arradon",
+            "tip": "Endroit parfait pour le coucher du soleil.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1533,6 +1667,12 @@
             "name": "Cidrerie du Golfe",
             "tip": "Local cider and apple juice."
           }
+        ],
+        "fr": [
+          {
+            "name": "Cidrerie du Golfe",
+            "tip": "Cidre local et jus de pomme."
+          }
         ]
       },
       "tips": {
@@ -1551,6 +1691,10 @@
         "en": [
           "Coastal roads are narrow, drive carefully.",
           "Book the Gavrinis tour in advance."
+        ],
+        "fr": [
+          "Les routes côtières sont étroites, conduisez prudemment.",
+          "Réservez la visite de Gavrinis à l'avance."
         ]
       },
       "variants": {
@@ -1739,7 +1883,8 @@
             "de": "Regnerischer Morgen in der Altstadt von Vannes. Mittags fahren wir zur Pointe de l'Anse, wo der Golf grau und dramatisch wirkt. In Larmor-Baden genießen wir frische Austern im Trockenen. Nachmittags besuchen wir den Cairn von Gavrinis (Reservierung nötig, wetterfest). Abends Rückkehr zum beleuchteten Hafen.",
             "hu": "Esős reggel Vannes óvárosában. Délben az Arradon Pointe de l'Anse-hoz hajtunk, ahol az öböl szürke és drámai. Larmor-Badenben friss osztrigát eszünk fedett helyen. Délután a Gavrinis Cairnt látogatjuk meg. Este visszatérünk a kivilágított kikötőbe.",
             "ro": "Dimineață ploioasă în centrul vechi din Vannes. La prânz conducem spre Pointe de l'Anse, unde golful pare gri și dramatic. În Larmor-Baden savurăm scoici la adăpost. După-amiaza vizităm Cairn de Gavrinis. Seara revenim în portul luminat.",
-            "en": "Rainy morning in Vannes Old Town. At noon, we drive to Pointe de l'Anse where the Gulf looks grey and dramatic. In Larmor-Baden, enjoy fresh oysters in the dry. In the afternoon, visit the Gavrinis Cairn. In the evening, return to the illuminated port."
+            "en": "Rainy morning in Vannes Old Town. At noon, we drive to Pointe de l'Anse where the Gulf looks grey and dramatic. In Larmor-Baden, enjoy fresh oysters in the dry. In the afternoon, visit the Gavrinis Cairn. In the evening, return to the illuminated port.",
+            "fr": "Matinée pluvieuse dans la vieille ville de Vannes. À midi, nous roulons jusqu'à la pointe de l'Anse où le Golfe paraît gris et spectaculaire. À Larmor-Baden, savourez des huîtres fraîches bien au sec. L'après-midi, visitez le cairn de Gavrinis. Le soir, retournez au port illuminé."
           },
           "stops": [
             {
@@ -1748,7 +1893,8 @@
                 "de": "Parken Sie im Parkhaus 'Centre' für einen trockenen Start.",
                 "hu": "Parkoljon a 'Centre' parkolóházban a száraz kezdéshez.",
                 "ro": "Parcați în parcarea 'Centre' pentru un start uscat.",
-                "en": "Park in the 'Centre' parking garage for a dry start."
+                "en": "Park in the 'Centre' parking garage for a dry start.",
+                "fr": "Garez-vous au parking « Centre » pour un départ au sec."
               }
             },
             {
@@ -1757,7 +1903,8 @@
                 "de": "Blick aus dem Auto bei starkem Regen genießen.",
                 "hu": "Élvezze a kilátást az autóból heves esőben.",
                 "ro": "Bucurați-vă de vedere din mașină în caz de ploaie.",
-                "en": "Enjoy the view from the car during heavy rain."
+                "en": "Enjoy the view from the car during heavy rain.",
+                "fr": "Profitez de la vue depuis la voiture lors des fortes pluies."
               }
             },
             {
@@ -1766,7 +1913,8 @@
                 "de": "Restaurants am Hafen bieten guten Wetterschutz.",
                 "hu": "A kikötői éttermek jó védelmet nyújtanak.",
                 "ro": "Restaurantele din port oferă protecție bună.",
-                "en": "Port restaurants offer good weather protection."
+                "en": "Port restaurants offer good weather protection.",
+                "fr": "Les restaurants du port offrent une bonne protection."
               }
             },
             {
@@ -1775,7 +1923,8 @@
                 "de": "Die Bootsfahrt kann bei Regen etwas nass werden.",
                 "hu": "A hajóút esőben kissé vizes lehet.",
                 "ro": "Călătoria cu barca poate fi puțin umedă pe ploaie.",
-                "en": "The boat trip can get a bit wet in the rain."
+                "en": "The boat trip can get a bit wet in the rain.",
+                "fr": "La traversée en bateau peut être un peu humide sous la pluie."
               }
             },
             {
@@ -1784,7 +1933,8 @@
                 "de": "Leichter Zugang zu Parkplätzen direkt am Hafen.",
                 "hu": "Könnyű hozzáférés a kikötői parkolókhoz.",
                 "ro": "Acces facil la parcările de lângă port.",
-                "en": "Easy access to parking spaces right by the port."
+                "en": "Easy access to parking spaces right by the port.",
+                "fr": "Accès facile aux places de parking juste à côté du port."
               }
             }
           ],
@@ -1812,6 +1962,12 @@
               "Check boat departures to Gavrinis during storms.",
               "Drive carefully on the narrow coastal roads.",
               "Keep an umbrella in the car at all times."
+            ],
+            "fr": [
+              "Utilisez les parkings couverts en centre-ville.",
+              "Vérifiez les départs de bateaux pour Gavrinis en cas de tempête.",
+              "Roulez prudemment sur les routes côtières étroites.",
+              "Gardez toujours un parapluie dans la voiture."
             ]
           }
         },
@@ -1820,7 +1976,8 @@
             "de": "Ein klarer Wintertag beginnt in der Altstadt von Vannes. Die Fahrt nach Arradon bietet weite, frostige Ausblicke über den Golf. In Larmor-Baden wärmen wir uns bei einem Kaffee, bevor wir den prähistorischen Cairn besuchen. Den Tag schließen wir am Hafen ab, wenn die Lichter der Stadt im Wasser funkeln.",
             "hu": "Egy tiszta téli nap kezdődik Vannes óvárosában. Az út Arradonba széles, zúzmarás kilátást nyújt az öbölre. Larmor-Badenben egy kávé mellett melegszünk fel, mielőtt meglátogatjuk a történelem előtti cairnt. A napot a kikötőben zárjuk, amikor a város fényei csillognak a vízben.",
             "ro": "O zi senină de iarnă începe în centrul vechi din Vannes. Drumul spre Arradon oferă priveliști largi și înghețate peste golf. În Larmor-Baden ne încălzim cu o cafea înainte de a vizita monumentul preistoric. Încheiem ziua în port, când luminile orașului sclipesc în apă.",
-            "en": "A clear winter day begins in Vannes Old Town. The drive to Arradon offers wide, frosty views over the Gulf. In Larmor-Baden, we warm up with a coffee before visiting the prehistoric cairn. We close the day at the port as the city lights sparkle in the water."
+            "en": "A clear winter day begins in Vannes Old Town. The drive to Arradon offers wide, frosty views over the Gulf. In Larmor-Baden, we warm up with a coffee before visiting the prehistoric cairn. We close the day at the port as the city lights sparkle in the water.",
+            "fr": "Une journée d'hiver limpide commence dans la vieille ville de Vannes. Le trajet vers Arradon offre de larges vues givrées sur le Golfe. À Larmor-Baden, on se réchauffe avec un café avant de visiter le cairn préhistorique. Nous terminons la journée au port alors que les lumières de la ville scintillent sur l'eau."
           },
           "stops": [
             {
@@ -1829,7 +1986,8 @@
                 "de": "Morgendlicher Frost macht das Kopfsteinpflaster rutschig.",
                 "hu": "A reggeli fagy csúszóssá teszi a macskakövet.",
                 "ro": "Înghețul de dimineață face pavajul alunecos.",
-                "en": "Morning frost makes the cobblestones slippery."
+                "en": "Morning frost makes the cobblestones slippery.",
+                "fr": "Le givre matinal rend les pavés glissants."
               }
             },
             {
@@ -1838,7 +1996,8 @@
                 "de": "Wunderbares Licht für Fotografen im Winter.",
                 "hu": "Csodálatos fények fotósoknak télen.",
                 "ro": "Lumină minunată pentru fotografi iarna.",
-                "en": "Wonderful light for photographers in winter."
+                "en": "Wonderful light for photographers in winter.",
+                "fr": "Lumière magnifique pour les photographes en hiver."
               }
             },
             {
@@ -1847,7 +2006,8 @@
                 "de": "Viele Lokale haben im Winter verkürzte Öffnungszeiten.",
                 "hu": "Sok helynek télen rövidített nyitvatartása van.",
                 "ro": "Multe localuri au program redus iarna.",
-                "en": "Many places have shorter opening hours in winter."
+                "en": "Many places have shorter opening hours in winter.",
+                "fr": "De nombreux lieux ont des horaires d'ouverture réduits en hiver."
               }
             },
             {
@@ -1856,7 +2016,8 @@
                 "de": "Warme Kleidung für die Überfahrt einplanen.",
                 "hu": "Tervezzen meleg ruhát az átkeléshez.",
                 "ro": "Pregătiți haine groase pentru traversare.",
-                "en": "Plan for warm clothing for the crossing."
+                "en": "Plan for warm clothing for the crossing.",
+                "fr": "Prévoyez des vêtements chauds pour la traversée."
               }
             },
             {
@@ -1865,7 +2026,8 @@
                 "de": "Sonnenuntergang am Golf gegen 17:15 Uhr.",
                 "hu": "Naplemente az öbölnél 17:15 körül.",
                 "ro": "Apusul peste golf în jurul orei 17:15.",
-                "en": "Sunset over the Gulf around 5:15 PM."
+                "en": "Sunset over the Gulf around 5:15 PM.",
+                "fr": "Coucher de soleil sur le Golfe vers 17h15."
               }
             }
           ],
@@ -1893,6 +2055,12 @@
               "Car heating makes the travel stages cozy.",
               "Refuel in time as consumption increases in winter.",
               "Gavrinis visits often require advance booking."
+            ],
+            "fr": [
+              "Attention à la brume matinale sur le Golfe.",
+              "Le chauffage de la voiture rend les étapes du voyage douillettes.",
+              "Faites le plein à temps car la consommation augmente en hiver.",
+              "Les visites de Gavrinis nécessitent souvent une réservation."
             ]
           }
         }
@@ -1926,7 +2094,8 @@
             "de": "Zentraler Busknotenpunkt in Vannes.",
             "hu": "Vannes központi buszcsomópontja.",
             "ro": "Principalul nod de autobuz din Vannes.",
-            "en": "Main bus hub in Vannes."
+            "en": "Main bus hub in Vannes.",
+            "fr": "Principal pôle de bus de Vannes."
           }
         },
         {
@@ -1949,7 +2118,8 @@
             "de": "Das älteste Viertel der Stadt.",
             "hu": "A város legősibb negyede.",
             "ro": "Cel mai vechi cartier al orașului.",
-            "en": "The oldest district of the city."
+            "en": "The oldest district of the city.",
+            "fr": "Le plus ancien quartier de la ville."
           }
         },
         {
@@ -1972,7 +2142,8 @@
             "de": "Schönes Gebäude aus dem 19. Jahrhundert.",
             "hu": "Szép 19. századi épület.",
             "ro": "Clădire frumoasă din secolul al XIX-lea.",
-            "en": "Beautiful 19th-century building."
+            "en": "Beautiful 19th-century building.",
+            "fr": "Bel édifice du XIXe siècle."
           }
         },
         {
@@ -1995,7 +2166,8 @@
             "de": "Einfach erreichbar mit der Kicéo-Linie 2.",
             "hu": "Könnyen elérhető a Kicéo 2-es vonalával.",
             "ro": "Ușor accesibil cu linia Kicéo 2.",
-            "en": "Easily accessible with Kicéo line 2."
+            "en": "Easily accessible with Kicéo line 2.",
+            "fr": "Facilement accessible avec la ligne Kicéo 2."
           }
         },
         {
@@ -2018,7 +2190,8 @@
             "de": "Ort für Ausflugsboote und Freizeit.",
             "hu": "Kirándulóhajók és szabadidő helyszíne.",
             "ro": "Loc pentru bărci de excursie și timp liber.",
-            "en": "Site for excursion boats and leisure."
+            "en": "Site for excursion boats and leisure.",
+            "fr": "Site pour les bateaux d'excursion et les loisirs."
           }
         },
         {
@@ -2041,7 +2214,8 @@
             "de": "Abendessen im Herzen des Hafens.",
             "hu": "Vacsora a kikötő szívében.",
             "ro": "Cină în inima portului.",
-            "en": "Dinner in the heart of the port."
+            "en": "Dinner in the heart of the port.",
+            "fr": "Dîner au cœur du port."
           }
         }
       ],
@@ -2049,7 +2223,8 @@
         "de": "Nutzen Sie das Kicéo-Busnetz, um Vannes stressfrei zu erkunden. Beginnen Sie am Place de la République und spazieren Sie durch Saint-Patern. Nehmen Sie die Linie 2 zum Strand von Conleau für ein erfrischendes Bad und beenden Sie den Tag am Parc du Golfe.",
         "hu": "Használja a Kicéo buszhálózatot Vannes stresszmentes felfedezéséhez. Kezdjen a Köztársaság téren, és sétáljon Saint-Patern negyedében. Utazzon a 2-es vonallal a Conleau strandra egy frissítő fürdőre, majd zárja a napot az Öböl Parkban.",
         "ro": "Utilizați rețeaua de autobuze Kicéo pentru a explora Vannes fără stres. Începeți în Piața Republicii și plimbați-vă prin cartierul Saint-Patern. Luați linia 2 către plaja Conleau pentru o baie răcoritoare și încheiați ziua în Parcul Golfului.",
-        "en": "Use the Kicéo bus network to explore Vannes stress-free. Start at Place de la République and stroll through the Saint-Patern district. Take line 2 to Conleau beach for a refreshing swim and end the day at Parc du Golfe."
+        "en": "Use the Kicéo bus network to explore Vannes stress-free. Start at Place de la République and stroll through the Saint-Patern district. Take line 2 to Conleau beach for a refreshing swim and end the day at Parc du Golfe.",
+        "fr": "Utilisez le réseau de bus Kicéo pour explorer Vannes sans stress. Commencez à la place de la République et flânez dans le quartier Saint-Patern. Prenez la ligne 2 jusqu'à la plage de Conleau pour une baignade rafraîchissante et terminez la journée au Parc du Golfe."
       },
       "gastro_picks": {
         "de": [
@@ -2074,6 +2249,12 @@
           {
             "name": "A l'Aise Breizh Café",
             "tip": "Modern Breton cuisine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "A l'Aise Breizh Café",
+            "tip": "Cuisine bretonne moderne."
           }
         ]
       },
@@ -2105,6 +2286,13 @@
             "tip": "Quiet lake in the north.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Étang au Duc",
+            "tip": "Lac paisible au nord.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2131,6 +2319,12 @@
             "name": "Rue Saint-Vincent",
             "tip": "Boutiques in the pedestrian zone."
           }
+        ],
+        "fr": [
+          {
+            "name": "Rue Saint-Vincent",
+            "tip": "Boutiques dans la zone piétonne."
+          }
         ]
       },
       "tips": {
@@ -2149,6 +2343,10 @@
         "en": [
           "Buy a day pass for the bus.",
           "Download the Kicéo app for schedules."
+        ],
+        "fr": [
+          "Achetez un pass journée pour le bus.",
+          "Téléchargez l'application Kicéo pour les horaires."
         ]
       },
       "variants": {
@@ -2351,7 +2549,8 @@
             "de": "Der Tag beginnt an der Place de la République, wo wir schnell in den Bus springen. Im Stadtteil Saint-Patern nutzen wir die engen Gassen als Schutz. Mittags geht es mit dem Bus 2 zum Strand von Conleau, wo wir das Aquarium besuchen, um dem Regen zu entgehen. Abends wärmen wir uns in einer Bar im Stadtzentrum auf.",
             "hu": "A nap a Place de la République-en indul, ahol gyorsan buszra szállunk. Saint-Patern negyedben a szűk utcákat használjuk menedékként. Délben a 2-es busszal a Conleau strandra megyünk, ahol meglátogatjuk az akváriumot az eső elől. Este a városközpont egyik bárjában melegszünk fel.",
             "ro": "Ziua începe în Place de la République, unde sărim repede în autobuz. În cartierul Saint-Patern folosim străzile înguste ca adăpost. La prânz luăm autobuzul 2 spre plaja Conleau, unde vizităm acvariul pentru a evita ploaia. Seara ne încălzim într-un bar din centru.",
-            "en": "The day starts at Place de la République where we quickly hop on a bus. In the Saint-Patern district, we use narrow streets for shelter. At noon, take bus 2 to Conleau beach where we visit the aquarium to avoid the rain. In the evening, warm up in a city center bar."
+            "en": "The day starts at Place de la République where we quickly hop on a bus. In the Saint-Patern district, we use narrow streets for shelter. At noon, take bus 2 to Conleau beach where we visit the aquarium to avoid the rain. In the evening, warm up in a city center bar.",
+            "fr": "La journée commence à la place de la République où nous sautons rapidement dans un bus. Dans le quartier Saint-Patern, nous utilisons les rues étroites pour nous abriter. À midi, prenez le bus 2 pour la plage de Conleau où nous visitons l'aquarium pour éviter la pluie. Le soir, réchauffez-vous dans un bar du centre-ville."
           },
           "stops": [
             {
@@ -2360,7 +2559,8 @@
                 "de": "Zentraler Knotenpunkt mit überdachten Haltestellen.",
                 "hu": "Központi csomópont fedett megállókkal.",
                 "ro": "Nod central cu stații acoperite.",
-                "en": "Central hub with sheltered bus stops."
+                "en": "Central hub with sheltered bus stops.",
+                "fr": "Pôle central avec des abris de bus protégés."
               }
             },
             {
@@ -2369,7 +2569,8 @@
                 "de": "Viele Cafés für eine spontane Regenpause.",
                 "hu": "Sok kávézó egy spontán esőszünethez.",
                 "ro": "Multe cafenele pentru o pauză spontană de ploaie.",
-                "en": "Many cafes for a spontaneous rain break."
+                "en": "Many cafes for a spontaneous rain break.",
+                "fr": "Nombreux cafés pour une pause pluie improvisée."
               }
             },
             {
@@ -2378,7 +2579,8 @@
                 "de": "Trockener Wartebereich im Bahnhofsgebäude.",
                 "hu": "Száraz várakozóhely a pályaudvar épületében.",
                 "ro": "Zonă de așteptare uscată în clădirea gării.",
-                "en": "Dry waiting area inside the station building."
+                "en": "Dry waiting area inside the station building.",
+                "fr": "Zone d'attente au sec à l'intérieur du bâtiment de la gare."
               }
             },
             {
@@ -2387,7 +2589,8 @@
                 "de": "Das Restaurant 'Le Corlazo' bietet guten Schutz.",
                 "hu": "A 'Le Corlazo' étterem jó védelmet nyújt.",
                 "ro": "Restaurantul 'Le Corlazo' oferă protecție bună.",
-                "en": "The 'Le Corlazo' restaurant offers good shelter."
+                "en": "The 'Le Corlazo' restaurant offers good shelter.",
+                "fr": "Le restaurant « Le Corlazo » offre un bon abri."
               }
             },
             {
@@ -2396,7 +2599,8 @@
                 "de": "In der Nähe des Aquariums gibt es viele Indoor-Aktivitäten.",
                 "hu": "Az akvárium közelében sok beltéri program van.",
                 "ro": "Lângă acvariu sunt multe activități de interior.",
-                "en": "Near the aquarium there are many indoor activities."
+                "en": "Near the aquarium there are many indoor activities.",
+                "fr": "Près de l'aquarium, il y a beaucoup d'activités en intérieur."
               }
             },
             {
@@ -2405,7 +2609,8 @@
                 "de": "Kurzer Fußweg von den Bushaltestellen zum Hafen.",
                 "hu": "Rövid séta a buszmegállóktól a kikötőig.",
                 "ro": "Drum scurt pe jos de la stații spre port.",
-                "en": "Short walk from the bus stops to the port."
+                "en": "Short walk from the bus stops to the port.",
+                "fr": "Courte marche depuis les arrêts de bus jusqu'au port."
               }
             }
           ],
@@ -2433,6 +2638,12 @@
               "Buses are often punctual even in the rain.",
               "Use real-time displays at the bus stops.",
               "A small umbrella fits well in your bag."
+            ],
+            "fr": [
+              "Achetez vos billets à l'avance via l'application Kicéo.",
+              "Les bus sont souvent ponctuels, même sous la pluie.",
+              "Utilisez les affichages en temps réel aux arrêts de bus.",
+              "Un petit parapluie tient facilement dans votre sac."
             ]
           }
         },
@@ -2441,7 +2652,8 @@
             "de": "Morgens nutzen wir den Bus, um der winterlichen Kälte zu entgehen. Im Saint-Patern Viertel genießen wir die weihnachtliche Dekoration. Mittags bringt uns der Bus 2 nach Conleau, wo wir die frische Meeresbrise bei einem Spaziergang erleben. Den späten Nachmittag verbringen wir im Aquarium, bevor wir mit dem Bus zurück zum beleuchteten Hafen fahren.",
             "hu": "Reggel busszal kerüljük el a téli hideget. A Saint-Patern negyedben a karácsonyi dekorációt élvezzük. Délben a 2-es busz visz Conleauba, ahol egy séta során tapasztaljuk meg a friss tengeri szellőt. A késő délutánt az akváriumban töltjük, majd busszal megyünk vissza a kivilágított kikötőbe.",
             "ro": "Dimineața folosim autobuzul pentru a evita frigul iernii. În cartierul Saint-Patern ne bucurăm de decorațiunile de Crăciun. La prânz, autobuzul 2 ne duce la Conleau, unde simțim briza mării la o plimbare. Petrecem după-amiaza la acvariu, apoi revenim cu autobuzul în port.",
-            "en": "In the morning, use the bus to avoid the winter cold. In the Saint-Patern district, enjoy the Christmas decorations. At noon, bus 2 takes us to Conleau where we experience the fresh sea breeze during a walk. Spend the late afternoon at the aquarium before returning by bus to the lit-up port."
+            "en": "In the morning, use the bus to avoid the winter cold. In the Saint-Patern district, enjoy the Christmas decorations. At noon, bus 2 takes us to Conleau where we experience the fresh sea breeze during a walk. Spend the late afternoon at the aquarium before returning by bus to the lit-up port.",
+            "fr": "Le matin, utilisez le bus pour éviter le froid hivernal. Dans le quartier Saint-Patern, profitez des décorations de Noël. À midi, le bus 2 nous emmène à Conleau pour respirer l'air marin lors d'une promenade. Passez la fin d'après-midi à l'aquarium avant de revenir en bus vers le port illuminé."
           },
           "stops": [
             {
@@ -2450,7 +2662,8 @@
                 "de": "Beheizte Busse sind ein idealer Rückzugsort.",
                 "hu": "A fűtött buszok ideális menedékhelyek.",
                 "ro": "Autobuzele încălzite sunt un refugiu ideal.",
-                "en": "Heated buses are an ideal retreat."
+                "en": "Heated buses are an ideal retreat.",
+                "fr": "Les bus chauffés sont un refuge idéal."
               }
             },
             {
@@ -2459,7 +2672,8 @@
                 "de": "Die Winterbeleuchtung macht die Gassen magisch.",
                 "hu": "A téli kivilágítás varázslatossá teszi az utcákat.",
                 "ro": "Iluminatul de iarnă face străzile magice.",
-                "en": "Winter lighting makes the alleys magical."
+                "en": "Winter lighting makes the alleys magical.",
+                "fr": "L'éclairage d'hiver rend les ruelles magiques."
               }
             },
             {
@@ -2468,7 +2682,8 @@
                 "de": "Gute Anbindung, um schnell zurück ins Warme zu kommen.",
                 "hu": "Jó összeköttetés, hogy gyorsan visszaérjünk a melegbe.",
                 "ro": "Conexiuni bune pentru a reveni rapid la căldură.",
-                "en": "Good connections to quickly get back to the warmth."
+                "en": "Good connections to quickly get back to the warmth.",
+                "fr": "Bonnes correspondances pour revenir vite au chaud."
               }
             },
             {
@@ -2477,7 +2692,8 @@
                 "de": "Achten Sie auf den Winterfahrplan der Linie 2.",
                 "hu": "Ügyeljen a 2-es vonal téli menetrendjére.",
                 "ro": "Atenție la orarul de iarnă al liniei 2.",
-                "en": "Check the winter schedule for line 2."
+                "en": "Check the winter schedule for line 2.",
+                "fr": "Vérifiez les horaires d'hiver de la ligne 2."
               }
             },
             {
@@ -2486,7 +2702,8 @@
                 "de": "Das Aquarium ist im Winter ein beliebter Aufwärmort.",
                 "hu": "Az akvárium télen népszerű melegedőhely.",
                 "ro": "Acvariul este un loc popular de încălzire iarna.",
-                "en": "The aquarium is a popular warm-up spot in winter."
+                "en": "The aquarium is a popular warm-up spot in winter.",
+                "fr": "L'aquarium est un lieu apprécié pour se réchauffer en hiver."
               }
             },
             {
@@ -2495,7 +2712,8 @@
                 "de": "Die Busse verkehren bis spät in den Abend.",
                 "hu": "A buszok késő estig közlekednek.",
                 "ro": "Autobuzele circulă până seara târziu.",
-                "en": "Buses run until late in the evening."
+                "en": "Buses run until late in the evening.",
+                "fr": "Les bus circulent jusque tard dans la soirée."
               }
             }
           ],
@@ -2523,6 +2741,12 @@
               "The sun sets around 5:15 PM.",
               "Wait in the glass-enclosed bus shelters.",
               "Wear warm clothing for the waiting times."
+            ],
+            "fr": [
+              "Les horaires d'hiver s'appliquent dès début novembre.",
+              "Le soleil se couche vers 17h15.",
+              "Attendez dans les abribus vitrés.",
+              "Portez des vêtements chauds pour les temps d'attente."
             ]
           }
         }

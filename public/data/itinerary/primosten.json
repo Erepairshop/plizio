@@ -31,7 +31,8 @@
             "de": "Früher Morgenbesuch für die beste Atmosphäre.",
             "hu": "Reggel a legcsendesebb a felfedezéshez.",
             "ro": "Vizitați dimineața devreme pentru atmosferă.",
-            "en": "Early morning visit for the best atmosphere."
+            "en": "Early morning visit for the best atmosphere.",
+            "hr": "Ranojutarnji posjet za najbolju atmosferu."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Historischer Eingang zur Halbinsel.",
             "hu": "A félsziget történelmi bejárata.",
             "ro": "Intrarea istorică în peninsulă.",
-            "en": "Historical entrance to the peninsula."
+            "en": "Historical entrance to the peninsula.",
+            "hr": "Povijesni ulaz na poluotok."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Kleine Votivkirche aus dem 17. Jahrhundert.",
             "hu": "Kis fogadalmi templom a 17. századból.",
             "ro": "Mică biserică votivă din secolul al XVII-lea.",
-            "en": "Small 17th-century votive church."
+            "en": "Small 17th-century votive church.",
+            "hr": "Mala zavjetna crkva iz 17. stoljeća."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Panoramablick vom höchsten Punkt der Insel.",
             "hu": "Panoráma a sziget legmagasabb pontjáról.",
             "ro": "Vedere panoramică din cel mai înalt punct.",
-            "en": "Panoramic views from the highest point."
+            "en": "Panoramic views from the highest point.",
+            "hr": "Panoramski pogled s najviše točke."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ideal für einen entspannten Mittagsspaziergang.",
             "hu": "Ideális egy pihentető déli sétához.",
             "ro": "Ideal pentru o plimbare relaxantă la prânz.",
-            "en": "Ideal for a relaxed midday stroll."
+            "en": "Ideal for a relaxed midday stroll.",
+            "hr": "Idealno za opuštenu podnevnu šetnju."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Berühmter Kiesstrand mit klarem Wasser.",
             "hu": "Híres kavicsos strand tiszta vízzel.",
             "ro": "Plajă faimoasă cu pietriș și apă clară.",
-            "en": "Famous pebble beach with clear water."
+            "en": "Famous pebble beach with clear water.",
+            "hr": "Poznata šljunčana plaža s čistim morem."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Morgen in der charmanten Altstadt von Primošten und spazieren Sie durch das historische Stadttor. Besuchen Sie die kleine Kirche St. Rochus, bevor Sie zur Pfarrkirche St. Georg auf dem Hügel hinaufsteigen, um den atemberaubenden Blick auf die Adria zu genießen. Mittags lockt ein gemütlicher Spaziergang entlang der Küstenpromenade. Den Nachmittag verbringen Sie am herrlichen Strand Mala Raduča. Beenden Sie den Tag bei einem Glas lokalem Babić-Wein in einer Konoba.",
         "hu": "Kezdje a reggelt Primošten bájos óvárosában, áthaladva a történelmi városkapun. Látogassa meg a Szent Rókus-templomot, majd kapaszkodjon fel a dombtetőn álló Szent György-templomhoz a lenyűgöző adriai panorámáért. Délben tegyen egy kellemes sétát a tengerparti sétányon. A délutánt töltse a csodálatos Mala Raduča strandon. A napot egy pohár helyi Babić borral zárja valamelyik hangulatos konobában.",
         "ro": "Începeți dimineața în fermecătorul oraș vechi din Primošten, trecând prin poarta istorică. Vizitați mica biserică Sf. Roch înainte de a urca la biserica parohială Sf. Gheorghe pentru o vedere uluitoare asupra Adriaticii. La prânz, bucurați-vă de o plimbare pe faleză. Petreceți după-amiaza pe superba plajă Mala Raduča. Încheiați ziua cu un pahar de vin local Babić într-o tavernă tradițională.",
-        "en": "Start your morning in the charming old town of Primošten, walking through the historic city gate. Visit the small St. Roch church before climbing up to the Parish Church of St. George for breathtaking Adriatic views. At midday, enjoy a leisurely stroll along the coastal promenade. Spend the afternoon at the stunning Mala Raduča beach. End your day with a glass of local Babić wine in a cozy konoba."
+        "en": "Start your morning in the charming old town of Primošten, walking through the historic city gate. Visit the small St. Roch church before climbing up to the Parish Church of St. George for breathtaking Adriatic views. At midday, enjoy a leisurely stroll along the coastal promenade. Spend the afternoon at the stunning Mala Raduča beach. End your day with a glass of local Babić wine in a cozy konoba.",
+        "hr": "Započnite jutro u šarmantnoj staroj jezgri Primoštena, prolazeći kroz povijesna gradska vrata. Posjetite malu crkvu sv. Roka prije uspona do župne crkve sv. Jurja za prekrasan pogled na Jadran. U podne uživajte u laganoj šetnji obalnom šetnicom. Poslijepodne provedite na zadivljujućoj plaži Mala Raduča. Završite dan uz čašu lokalnog vina Babić u ugodnoj konobi."
       },
       "gastro_picks": {
         "de": [
@@ -170,6 +177,16 @@
           {
             "name": "Peka",
             "tip": "Traditional slow-cooked meat or octopus under a bell."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Vino Babić",
+            "tip": "Probajte ovo robusno crno vino u konobi Toni."
+          },
+          {
+            "name": "Peka",
+            "tip": "Tradicionalno sporo pripremano meso ili hobotnica pod pekom."
           }
         ]
       },
@@ -221,6 +238,18 @@
             "tip": "Hidden spots north of the town center.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Groblje sv. Jurja",
+            "tip": "Mirno mjesto s najboljim pogledom na zalazak sunca.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stjenovite uvale",
+            "tip": "Skrivena mjesta sjeverno od centra grada.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -246,6 +275,12 @@
           {
             "name": "Local Olive Oil",
             "tip": "Buy directly from producers in the old town."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno maslinovo ulje",
+            "tip": "Kupite izravno od proizvođača u starom gradu."
           }
         ]
       },
@@ -273,6 +308,12 @@
           "Visit the church in the late afternoon for the best light.",
           "Book a table in the konobas for dinner in advance.",
           "Bring water shoes for the pebble beach."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za popločane ulice.",
+          "Posjetite crkvu u kasno poslijepodne za najbolje svjetlo.",
+          "Unaprijed rezervirajte stol u konobama za večeru.",
+          "Ponesite obuću za vodu za šljunčanu plažu."
         ]
       },
       "variants": {
@@ -489,7 +530,8 @@
             "de": "Beginnen Sie den Tag in den engen Gassen der Altstadt, die natürlichen Schutz vor Wind und leichtem Regen bieten. Die Kirchen St. Rochus und St. Georg sind ideale Rückzugsorte, um die Architektur im Trockenen zu bewundern. Mittags empfiehlt sich ein Aufenthalt in einem der Cafés mit Blick auf die aufgewühlte Adria. Der Spaziergang am Strand Mala Raduča zeigt die wilde Seite der Küste.",
             "hu": "Kezdje a napot az óváros szűk utcáin, amelyek védelmet nyújtanak a szél és az eső elől. A Szent Rókus és Szent György templomok kiváló menedéket jelentenek, ahol szárazon csodálhatja meg a belső teret. Ebédidőben keressen egy tengerre néző kávézót a hullámok megfigyeléséhez. A Mala Raduča strand menti séta esőben is különleges látványt nyújt a tajtékzó tengerrel.",
             "ro": "Începeți ziua pe străzile înguste ale orașului vechi, care oferă protecție naturală împotriva vântului și a ploii ușoare. Bisericile Sf. Rochus și Sf. Gheorghe sunt refugii ideale pentru a admira arhitectura la adăpost. La prânz, alegeți o cafenea cu vedere la Adriatica agitată. Plimbarea pe plaja Mala Raduča dezvăluie latura sălbatică a coastei sub picăturile de ploaie.",
-            "en": "Start the day in the narrow alleys of the old town, which provide natural shelter from wind and light rain. St. Roch and St. George churches are ideal retreats to admire the architecture while staying dry. At noon, enjoy a coffee while watching the turbulent Adriatic waves. A walk by Mala Raduča beach offers a dramatic view of the coastline's wild side in rainy weather."
+            "en": "Start the day in the narrow alleys of the old town, which provide natural shelter from wind and light rain. St. Roch and St. George churches are ideal retreats to admire the architecture while staying dry. At noon, enjoy a coffee while watching the turbulent Adriatic waves. A walk by Mala Raduča beach offers a dramatic view of the coastline's wild side in rainy weather.",
+            "hr": "Započnite dan u uskim uličicama starog grada koje pružaju prirodni zaklon od vjetra i lagane kiše. Crkve sv. Roka i sv. Jurja idealna su utočišta za divljenje arhitekturi dok ostajete suhi. U podne uživajte u kavi promatrajući uzburkane jadranske valove. Šetnja uz plažu Mala Raduča nudi dramatičan pogled na divlju stranu obale po kišnom vremenu."
           },
           "stops": [
             {
@@ -575,6 +617,13 @@
               "Take advantage of rain breaks to photograph the dramatic waves.",
               "Some konobas have heated or well-sheltered terraces.",
               "Umbrellas are impractical in sea winds; use a raincoat or poncho."
+            ],
+            "hr": [
+              "Nosite obuću s potplatima koji se ne kližu za hodanje po starogradskom popločenju.",
+              "Crkve pružaju najbolji zaklon tijekom iznenadnih oluja.",
+              "Iskoristite prekide kiše za fotografiranje dramatičnih valova.",
+              "Neke konobe imaju grijane ili dobro natkrivene terase.",
+              "Kišobrani su nepraktični na morskom vjetru; koristite kabanicu ili pončo."
             ]
           }
         },
@@ -583,7 +632,8 @@
             "de": "Erleben Sie Primošten in winterlicher Ruhe ohne Touristenströme. Die klare Winterluft ermöglicht weite Sicht von der St. Georg Kirche über die Inselwelt. Mittags wärmt die tiefstehende Sonne die Steingassen auf. Da es bereits gegen 16:30 Uhr dunkel wird, bietet der Strand Mala Raduča einen einsamen Ort für einen frühen, farbenfrohen Sonnenuntergang.",
             "hu": "Fedezze fel Primoštent téli nyugalmában, turisták nélkül. A tiszta téli levegő messzi kilátást enged a Szent György templomtól a szigetvilágra. Délben az alacsonyan járó nap kellemesen melegíti az óváros köveit. Mivel 16:30 körül sötétedik, a Mala Raduča strand magányos helyszín egy korai, színes naplementéhez.",
             "ro": "Experimentați Primošten în liniștea iernii, fără mulțimi de turiști. Aerul clar de iarnă permite vederi panoramice de la Biserica Sf. Gheorghe peste insule. La prânz, soarele blând încălzește străzile de piatră. Deoarece se întunecă în jur de ora 16:30, plaja Mala Raduča este locul perfect pentru un apus timpuriu și colorat.",
-            "en": "Experience Primošten in winter tranquility without the tourist crowds. The crisp winter air allows for expansive views from St. George Church over the islands. At noon, the low sun warms the stone alleys. As it gets dark around 4:30 PM, Mala Raduča beach offers a solitary spot for an early, colorful sunset."
+            "en": "Experience Primošten in winter tranquility without the tourist crowds. The crisp winter air allows for expansive views from St. George Church over the islands. At noon, the low sun warms the stone alleys. As it gets dark around 4:30 PM, Mala Raduča beach offers a solitary spot for an early, colorful sunset.",
+            "hr": "Doživite Primošten u zimskom miru bez turističkih gužvi. Oštar zimski zrak omogućuje široke vidike s crkve sv. Jurja prema otocima. U podne nisko sunce grije kamene uličice. Kako se mrak spušta oko 16:30, plaža Mala Raduča nudi usamljeno mjesto za rani, šareni zalazak sunca."
           },
           "stops": [
             {
@@ -669,6 +719,13 @@
               "Many restaurants are closed for winter; look for year-round venues.",
               "The Bura wind can be very strong; avoid exposed cliffs then.",
               "Lighting conditions for photographers are exceptionally clear in winter."
+            ],
+            "hr": [
+              "Odjenite se slojevito protiv hladnog morskog vjetra.",
+              "Sunce nestaje iza horizonta već u 16:30.",
+              "Mnogi restorani su zimi zatvoreni; tražite objekte koji rade cijelu godinu.",
+              "Bura može biti vrlo jaka; tada izbjegavajte izložene litice.",
+              "Uvjeti osvjetljenja za fotografe su izuzetno čisti zimi."
             ]
           }
         }
@@ -697,7 +754,8 @@
             "de": "Flache Strecke entlang des Meeres.",
             "hu": "Lapos szakasz a tenger mentén.",
             "ro": "Traseu plat de-a lungul mării.",
-            "en": "Flat route along the seaside."
+            "en": "Flat route along the seaside.",
+            "hr": "Ravna ruta uz more."
           }
         },
         {
@@ -715,7 +773,8 @@
             "de": "Fahrräder müssen in der Altstadt geschoben werden.",
             "hu": "Az óvárosban tolni kell a kerékpárt.",
             "ro": "Bicicletele trebuie împinse în centrul vechi.",
-            "en": "Bikes must be pushed in the old town area."
+            "en": "Bikes must be pushed in the old town area.",
+            "hr": "Bicikle je potrebno gurati u zoni starog grada."
           }
         },
         {
@@ -733,7 +792,8 @@
             "de": "Kurzer, steiler Anstieg zum Gipfel.",
             "hu": "Rövid, meredek emelkedő a csúcsra.",
             "ro": "Urcare scurtă și abruptă spre vârf.",
-            "en": "Short, steep climb to the top."
+            "en": "Short, steep climb to the top.",
+            "hr": "Kratak, strm uspon do vrha."
           }
         },
         {
@@ -751,7 +811,8 @@
             "de": "Riesige Statue auf dem Berg Gaj.",
             "hu": "Hatalmas szobor a Gaj-hegyen.",
             "ro": "Statuie uriașă pe muntele Gaj.",
-            "en": "Massive statue on Gaj hill."
+            "en": "Massive statue on Gaj hill.",
+            "hr": "Golemi kip na brdu Gaj."
           }
         },
         {
@@ -769,7 +830,8 @@
             "de": "Das berühmte 'Steinspitzen'-Muster der Reben.",
             "hu": "A szőlőtőkék híres kőcsipke mintázata.",
             "ro": "Celebrul model de 'dantelă de piatră'.",
-            "en": "The famous 'stone lace' pattern of vines."
+            "en": "The famous 'stone lace' pattern of vines.",
+            "hr": "Poznati uzorak vinove loze 'kamena čipka'."
           }
         },
         {
@@ -787,7 +849,8 @@
             "de": "Belohnung nach der Tour im kühlen Nass.",
             "hu": "Jutalmazza meg magát egy csobbanással.",
             "ro": "Recompensa după tur: o baie răcoritoare.",
-            "en": "Reward yourself with a swim after the ride."
+            "en": "Reward yourself with a swim after the ride.",
+            "hr": "Nagradite se kupanjem nakon vožnje."
           }
         }
       ],
@@ -795,7 +858,8 @@
         "de": "Erkunden Sie die Umgebung von Primošten mit dem Rad. Starten Sie an der Küstenpromenade und machen Sie einen Abstecher in die Altstadt. Der anspruchsvolle Anstieg zur Loreto-Statue wird mit einem Rundumblick belohnt. Fahren Sie weiter zu den Bucavac-Weinbergen, einem UNESCO-Anwärter, und bewundern Sie die mühsam errichteten Steinmauern. Den Abschluss bildet ein entspannter Aufenthalt am Mala Raduča Strand.",
         "hu": "Fedezze fel Primošten környékét kerékpárral. Kezdjen a tengerparti sétányon, majd tegyen egy kitérőt az óvárosba. A Loretói Szűzanya szobrához vezető kaptatót pazar körpanoráma hálálja meg. Tekerjen tovább a Bucavac szőlőültetvényekhez, a világörökségi várományos kőfalak közé. A túrát egy jól megérdemelt pihenéssel zárja a Mala Raduča strandon.",
         "ro": "Explorați împrejurimile orașului Primošten cu bicicleta. Începeți pe faleză, apoi faceți o oprire în orașul vechi. Urcarea spre statuia Loreto este răsplătită cu o panoramă de 360 de grade. Continuați spre podgoriile Bucavac, admirând zidurile de piatră construite manual. Încheiați ziua relaxându-vă pe plaja Mala Raduča.",
-        "en": "Explore Primošten's surroundings by bike. Start along the coastal promenade and take a detour into the old town. The challenging climb to the Loreto statue is rewarded with 360-degree views. Ride on to the Bucavac vineyards, a UNESCO tentative site, to see the intricate stone walls. Finish your tour with a well-earned rest at Mala Raduča beach."
+        "en": "Explore Primošten's surroundings by bike. Start along the coastal promenade and take a detour into the old town. The challenging climb to the Loreto statue is rewarded with 360-degree views. Ride on to the Bucavac vineyards, a UNESCO tentative site, to see the intricate stone walls. Finish your tour with a well-earned rest at Mala Raduča beach.",
+        "hr": "Istražite okolicu Primoštena biciklom. Krenite obalnom šetnicom i skrenite u staru jezgru. Izazovan uspon do kipa Gospe od Loreta bit će nagrađen pogledom od 360 stupnjeva. Nastavite vožnju do vinograda Bucavac, koji su na UNESCO-ovom pristupnom popisu, kako biste vidjeli fascinantne kamene suhozide. Završite turu zasluženim odmorom na plaži Mala Raduča."
       },
       "gastro_picks": {
         "de": [
@@ -820,6 +884,12 @@
           {
             "name": "Prosciutto and Cheese",
             "tip": "Ideal energy snack in the hinterland villages."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pršut i sir",
+            "tip": "Idealan energetski zalogaj u selima u zaleđu."
           }
         ]
       },
@@ -851,6 +921,13 @@
             "tip": "Peace and quiet among historical vines.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Bucavac",
+            "tip": "Mir i tišina među povijesnim lozama.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -876,6 +953,12 @@
           {
             "name": "Bottle of Babić",
             "tip": "A premium souvenir directly from the winery."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Boca Babića",
+            "tip": "Vrhunski suvenir izravno iz vinarije."
           }
         ]
       },
@@ -903,6 +986,12 @@
           "Carry plenty of water for the hinterland ride.",
           "The stone walls are private property; please don't climb them.",
           "Consider an e-bike for the steeper hills."
+        ],
+        "hr": [
+          "Provjerite kočnice prije spuštanja s brda Gaj.",
+          "Ponesite dovoljno vode za vožnju kroz zaleđe.",
+          "Kameni suhozidi su privatno vlasništvo; molimo vas da se ne penjete na njih.",
+          "Razmislite o električnom biciklu za strmija brda."
         ]
       },
       "variants": {
@@ -1083,7 +1172,8 @@
             "de": "Radfahren im Regen erfordert in Primošten Vorsicht auf den Küstenwegen. Starten Sie an der Promenade, wo der Asphalt griffig bleibt. Meiden Sie bei Nässe die steilen, gepflasterten Wege in der Altstadt. Die Tour zur Loreto-Statue bietet trotz Wolken einen weiten Blick, während die Weinberge von Bucavac bei Regen besonders grün und frisch wirken.",
             "hu": "Az esőben való kerékpározás óvatosságot igényel a tengerparti utakon. Kezdjen a sétányon, ahol az aszfalt kevésbé csúszik. Kerülje a meredek, köves utakat az óváros közelében. A Loreto szoborhoz vezető túra felhős időben is tágas kilátást nyújt, a Bucavac szőlőskertjei pedig ilyenkor különösen zöldnek és frissnek hatnak.",
             "ro": "Ciclismul pe ploaie necesită prudență pe drumurile de coastă din Primošten. Începeți de pe faleză, unde asfaltul oferă aderență. Evitați drumurile pavate abrupte din zona veche. Turul către statuia Loreto oferă o vedere panoramică chiar și sub nori, în timp ce podgoriile Bucavac par proaspete și verzi pe ploaie.",
-            "en": "Cycling in the rain requires caution on the coastal paths of Primošten. Start at the promenade where the asphalt remains grippy. Avoid steep, paved paths near the old town when wet. The tour to the Loreto statue offers wide views despite the clouds, while the Bucavac vineyards look especially green and fresh in the rain."
+            "en": "Cycling in the rain requires caution on the coastal paths of Primošten. Start at the promenade where the asphalt remains grippy. Avoid steep, paved paths near the old town when wet. The tour to the Loreto statue offers wide views despite the clouds, while the Bucavac vineyards look especially green and fresh in the rain.",
+            "hr": "Bicikliranje na kiši zahtijeva oprez na obalnim stazama Primoštena. Krenite sa šetnice gdje asfalt ostaje hvatljiv. Izbjegavajte strme, popločane staze u blizini starog grada kada su mokre. Tura do kipa Gospe od Loreta nudi široke vidike unatoč oblacima, dok vinogradi Bucavac izgledaju posebno zeleno i svježe na kiši."
           },
           "stops": [
             {
@@ -1169,6 +1259,13 @@
               "Avoid sharp turns on the narrow coastal roads.",
               "The Loreto statue offers little shelter; it is often windy at the top.",
               "Bring waterproof bags for your valuables and phone."
+            ],
+            "hr": [
+              "Koristite bicikl s blatobranima za zaštitu od prskanja.",
+              "Kočite rano i nježno na mokrim površinama.",
+              "Izbjegavajte oštra skretanja na uskim obalnim cestama.",
+              "Kip Gospe od Loreta nudi malo zaklona; na vrhu je često vjetrovito.",
+              "Ponesite vodootporne torbe za dragocjenosti i telefon."
             ]
           }
         },
@@ -1177,7 +1274,8 @@
             "de": "Eine Wintertour mit dem Rad bietet klare Luft und einsame Wege. Starten Sie an der Promenade und genießen Sie die Ruhe. Der Anstieg zur Loreto-Statue hält den Körper warm und belohnt mit einer Fernsicht bis nach Vis. In Bucavac können Sie die einzigartige Struktur der Weinfelder ohne sommerliche Hitze studieren. Der Tag endet am Strand, bevor die Kälte nach Sonnenuntergang spürbar wird.",
             "hu": "A téli kerékpáros túra tiszta levegőt és elhagyatott utakat kínál. Kezdjen a sétányon és élvezze a csendet. A Loreto szoborhoz vezető emelkedő segít melegen maradni, a jutalom pedig a távoli kilátás akár Vis szigetéig. Bucavacban a szőlőskertek egyedi szerkezetét tanulmányozhatja hőség nélkül. A nap a strandon ér véget, mielőtt a naplemente utáni lehűlés beállna.",
             "ro": "Un tur de iarnă cu bicicleta oferă aer curat și drumuri libere. Începeți de pe faleză și bucurați-vă de liniște. Urcarea spre statuia Loreto vă va menține calzi și vă va răsplăti cu o vedere până la insula Vis. La Bucavac puteți vedea structura unică a viilor fără caniculă. Ziua se încheie la plajă, înainte ca frigul să se simtă după apus.",
-            "en": "A winter bike tour offers crisp air and solitary paths. Start at the promenade and enjoy the quietness. The climb to the Loreto statue keeps you warm and rewards you with views as far as Vis island. In Bucavac, you can study the unique vineyard structures without the summer heat. The day ends at the beach before the post-sunset chill sets in."
+            "en": "A winter bike tour offers crisp air and solitary paths. Start at the promenade and enjoy the quietness. The climb to the Loreto statue keeps you warm and rewards you with views as far as Vis island. In Bucavac, you can study the unique vineyard structures without the summer heat. The day ends at the beach before the post-sunset chill sets in.",
+            "hr": "Zimska biciklistička tura nudi oštar zrak i puste staze. Krenite sa šetnice i uživajte u tišini. Uspon do kipa Gospe od Loreta će vas zagrijati i nagraditi pogledom sve do otoka Visa. U Bucavcu možete proučavati jedinstvene strukture vinograda bez ljetnih vrućina. Dan završava na plaži prije nego što nastupi poslijepodnevna hladnoća."
           },
           "stops": [
             {
@@ -1263,6 +1361,13 @@
               "Bring a thermos with warm tea along.",
               "Plan to be back by 4:30 PM at the latest.",
               "Check tire pressure; cold air can cause it to drop slightly."
+            ],
+            "hr": [
+              "Slojevita topla odjeća neophodna je za bicikliste.",
+              "Spustovi s brda mogu biti vrlo hladni.",
+              "Ponesite termosicu s toplim čajem.",
+              "Planirajte povratak najkasnije do 16:30.",
+              "Provjerite tlak u gumama; hladan zrak može uzrokovati blagi pad."
             ]
           }
         }
@@ -1291,7 +1396,8 @@
             "de": "Parken Sie auf dem großen Parkplatz am Ortseingang.",
             "hu": "Parkoljon a város bejáratánál lévő nagy parkolóban.",
             "ro": "Parcați în parcarea mare de la intrarea în oraș.",
-            "en": "Park in the large lot at the town entrance."
+            "en": "Park in the large lot at the town entrance.",
+            "hr": "Parkirajte na velikom parkiralištu na ulazu u grad."
           }
         },
         {
@@ -1309,7 +1415,8 @@
             "de": "Die Straße nach oben ist schmal, aber asphaltiert.",
             "hu": "Az út felfelé keskeny, de aszfaltozott.",
             "ro": "Drumul spre vârf este îngust, dar asfaltat.",
-            "en": "The road up is narrow but paved."
+            "en": "The road up is narrow but paved.",
+            "hr": "Cesta do vrha je uska, ali asfaltirana."
           }
         },
         {
@@ -1327,7 +1434,8 @@
             "de": "Bester Fotostopp direkt an der Straße.",
             "hu": "A legjobb fotópont közvetlenül az út mentén.",
             "ro": "Cel mai bun punct foto chiar lângă drum.",
-            "en": "Best photo stop right by the road."
+            "en": "Best photo stop right by the road.",
+            "hr": "Najbolje mjesto za fotografiranje odmah uz cestu."
           }
         },
         {
@@ -1345,7 +1453,8 @@
             "de": "Zweiter Besuch der Halbinsel für das Mittagessen.",
             "hu": "Második látogatás a félszigeten egy ebédre.",
             "ro": "A doua vizită în peninsulă pentru prânz.",
-            "en": "Second visit to the peninsula for lunch."
+            "en": "Second visit to the peninsula for lunch.",
+            "hr": "Drugi posjet poluotoku za ručak."
           }
         },
         {
@@ -1363,7 +1472,8 @@
             "de": "Entspannung bis zum Sonnenuntergang.",
             "hu": "Pihenés egészen naplementéig.",
             "ro": "Relaxare până la apusul soarelui.",
-            "en": "Relaxation until sunset."
+            "en": "Relaxation until sunset.",
+            "hr": "Opuštanje do zalaska sunca."
           }
         }
       ],
@@ -1371,7 +1481,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Primošten. Nach einem Bummel durch die Altstadt fahren Sie hinauf zur monumentalen Statue der Muttergottes von Loreto. Von dort geht es weiter zu den fotogenen Bucavac-Weinbergen. Kehren Sie für ein authentisches Mittagessen ins Zentrum zurück und verbringen Sie den restlichen Nachmittag am kristallklaren Wasser des Mala Raduča Strandes. Ein perfekter Tag für Entdecker und Genießer.",
         "hu": "Autóval kényelmesen elérheti Primošten legszebb pontjait. Az óvárosi séta után hajtson fel a Loretói Szűzanya monumentális szobrához. Innen folytassa útját a fotogén Bucavac szőlőskertjeihez. Térjen vissza a központba egy autentikus ebédre, majd töltse a délutánt a Mala Raduča strand kristálytiszta vizében. Tökéletes nap a felfedezőknek és a kikapcsolódni vágyóknak egyaránt.",
         "ro": "Cu mașina puteți ajunge ușor la cele mai frumoase puncte din Primošten. După o plimbare prin centrul vechi, urcați la statuia monumentală Loreto. Continuați spre podgoriile fotogenice Bucavac. Reveniți în centru pentru un prânz autentic și petreceți după-amiaza pe plaja Mala Raduča. O zi perfectă pentru exploratori și iubitorii de confort.",
-        "en": "By car, you can comfortably reach Primošten's highlights. After a stroll through the old town, drive up to the monumental Loreto statue. From there, continue to the photogenic Bucavac vineyards. Return to the center for an authentic lunch and spend the rest of the afternoon at the crystal-clear Mala Raduča beach. A perfect day for explorers and sun-seekers alike."
+        "en": "By car, you can comfortably reach Primošten's highlights. After a stroll through the old town, drive up to the monumental Loreto statue. From there, continue to the photogenic Bucavac vineyards. Return to the center for an authentic lunch and spend the rest of the afternoon at the crystal-clear Mala Raduča beach. A perfect day for explorers and sun-seekers alike.",
+        "hr": "Automobilom možete udobno doći do najzanimljivijih mjesta u Primoštenu. Nakon šetnje starom jezgrom, odvezite se do monumentalnog kipa Gospe od Loreta. Odande nastavite do fotogeničnih vinograda Bucavac. Vratite se u centar na autentičan ručak i provedite ostatak poslijepodneva na kristalno čistoj plaži Mala Raduča. Savršen dan za istraživače i ljubitelje sunca."
       },
       "gastro_picks": {
         "de": [
@@ -1396,6 +1507,12 @@
           {
             "name": "Fresh Fish",
             "tip": "Enjoy it at Konoba Santa Marina right by the sea."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Svježa riba",
+            "tip": "Uživajte u njoj u konobi Santa Marina tik uz more."
           }
         ]
       },
@@ -1427,6 +1544,13 @@
             "tip": "Spectacular sunset over the islands.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Loreto",
+            "tip": "Spektakularan zalazak sunca nad otocima.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1452,6 +1576,12 @@
           {
             "name": "Farm-gate Wine Sales",
             "tip": "Look for signs in the hinterland villages."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Prodaja vina na kućnom pragu",
+            "tip": "Potražite natpise u selima u zaleđu."
           }
         ]
       },
@@ -1479,6 +1609,12 @@
           "Drive carefully on the tight bends up to Gaj hill.",
           "Combine this trip with a visit to nearby Rogoznica.",
           "Do not drink and drive."
+        ],
+        "hr": [
+          "Cijene parkinga mogu biti visoke tijekom ljeta.",
+          "Vozite oprezno uskim zavojima prema brdu Gaj.",
+          "Kombinirajte ovaj izlet s posjetom obližnjoj Rogoznici.",
+          "Ne pijte dok vozite."
         ]
       },
       "variants": {
@@ -1650,7 +1786,8 @@
             "de": "Mit dem Auto erkunden Sie Primošten bei Regen komfortabel und trocken. Beginnen Sie in der Altstadt, wo Parkplätze direkt am Eingang das Umsteigen erleichtern. Die Fahrt zur Loreto-Statue bietet einen Panorama-Blick aus dem geschützten Fahrzeug. In Bucavac können Sie die Weinfelder vom Straßenrand bewundern, bevor Sie den Tag bei der St. Georg Kirche und am Strand Mala Raduča ausklingen lassen.",
             "hu": "Autóval kényelmesen és szárazon fedezheti fel Primoštent esőben is. Kezdjen az óvárosnál, ahol a bejárat melletti parkolók megkönnyítik a bejutást. A Loreto szoborhoz vezető út alatt a kocsiból is élvezheti a panorámát. Bucavacban az út széléről csodálhatja meg a dűlőket, majd a napot a Szent György templomnál és a Mala Raduča strandnál zárhatja.",
             "ro": "Cu mașina puteți explora Primošten confortabil și uscat chiar și pe ploaie. Începeți la orașul vechi, unde parcările de la intrare facilitează accesul. Drumul spre statuia Loreto oferă o panoramă din interiorul protejat al vehiculului. La Bucavac puteți admira viile de la marginea drumului, apoi încheiați ziua la Biserica Sf. Gheorghe și plaja Mala Raduča.",
-            "en": "By car, you can explore Primošten comfortably and dry even in the rain. Start at the old town, where parking spots right at the entrance make access easy. The drive to the Loreto statue offers panoramic views from the sheltered vehicle. In Bucavac, admire the vineyards from the roadside before ending the day at St. George Church and Mala Raduča beach."
+            "en": "By car, you can explore Primošten comfortably and dry even in the rain. Start at the old town, where parking spots right at the entrance make access easy. The drive to the Loreto statue offers panoramic views from the sheltered vehicle. In Bucavac, admire the vineyards from the roadside before ending the day at St. George Church and Mala Raduča beach.",
+            "hr": "Automobilom možete istraživati Primošten udobno i na suhom čak i po kiši. Počnite od starog grada, gdje parkirna mjesta odmah na ulazu olakšavaju pristup. Vožnja do kipa Gospe od Loreta nudi panoramski pogled iz zaklonjenog vozila. U Bucavcu se divite vinogradima uz cestu prije nego što završite dan kod crkve sv. Jurja i plaže Mala Raduča."
           },
           "stops": [
             {
@@ -1727,6 +1864,13 @@
               "Drive with extra caution on narrow rural roads.",
               "Do not leave valuables visible inside the car.",
               "The access road to the Loreto statue is steep but well-paved."
+            ],
+            "hr": [
+              "Automobil služi kao savršeno utočište tijekom jake kiše.",
+              "Cijene parkinga su često niže izvan špice sezone.",
+              "Vozite s posebnim oprezom na uskim seoskim cestama.",
+              "Ne ostavljajte dragocjenosti na vidljivom mjestu u automobilu.",
+              "Pristupna cesta do kipa Gospe od Loreta je strma, ali dobro asfaltirana."
             ]
           }
         },
@@ -1735,7 +1879,8 @@
             "de": "Im Winter genießen Autofahrer die einfache Parkplatzsuche in Primošten. Die Route führt Sie zur ruhigen Altstadt und hinauf zur Loreto-Statue, wo die Wintersonne spektakuläre Lichtspiele auf dem Meer erzeugt. Besuchen Sie die Weinberge von Bucavac für ein Foto der markanten Steinmauern und beenden Sie die Tour an der St. Georg Kirche für den besten Ausblick, bevor Sie sich am Strand Mala Raduča entspannen.",
             "hu": "Télen az autósok élvezhetik a könnyű parkolást Primoštenben. Az útvonal a csendes óvároshoz és a Loreto szoborhoz vezet, ahol a téli nap látványos fényeket vet a tengerre. Látogasson el Bucavacba a különleges kőfalak fotózásához, majd zárja a túrát a Szent György templomnál a legjobb kilátásért, mielőtt megpihenne a Mala Raduča strandon.",
             "ro": "Iarna, șoferii profită de parcarea ușoară în Primošten. Ruta vă duce la orașul vechi liniștit și sus la statuia Loreto, unde soarele de iarnă creează jocuri de lumină pe mare. Vizitați viile Bucavac pentru o poză cu zidurile de piatră și încheiați turul la Biserica Sf. Gheorghe pentru cea mai bună vedere.",
-            "en": "In winter, drivers enjoy the ease of finding parking in Primošten. The route takes you to the quiet old town and up to the Loreto statue, where the winter sun creates spectacular light displays on the sea. Visit the Bucavac vineyards for a photo of the striking stone walls and end the tour at St. George Church for the best views."
+            "en": "In winter, drivers enjoy the ease of finding parking in Primošten. The route takes you to the quiet old town and up to the Loreto statue, where the winter sun creates spectacular light displays on the sea. Visit the Bucavac vineyards for a photo of the striking stone walls and end the tour at St. George Church for the best views.",
+            "hr": "Zimi vozači uživaju u lakom pronalaženju parkinga u Primoštenu. Ruta vas vodi do mirne stare jezgre i gore do kipa Gospe od Loreta, gdje zimsko sunce stvara spektakularne svjetlosne efekte na moru. Posjetite vinograde Bucavac za fotografiju upečatljivih kamenih suhozida i završite turu kod crkve sv. Jurja za najbolje vidike."
           },
           "stops": [
             {
@@ -1812,6 +1957,13 @@
               "Avoid driving to exposed high areas during Bura alerts.",
               "Take advantage of short walking distances from free parking spots.",
               "Roads are often empty in winter, but watch out for frost."
+            ],
+            "hr": [
+              "Provjerite antifriz u tekućini za pranje stakla.",
+              "Nisko zimsko sunce može jako zaslijepiti tijekom vožnje.",
+              "Izbjegavajte vožnju u izložena visoka područja tijekom upozorenja na buru.",
+              "Iskoristite kratke pješačke udaljenosti od besplatnih parkirnih mjesta.",
+              "Ceste su zimi često prazne, ali pripazite na mraz."
             ]
           }
         }
@@ -1840,7 +1992,8 @@
             "de": "Die Bushaltestelle liegt direkt an der Hauptstraße.",
             "hu": "A buszmegálló közvetlenül a főút mellett van.",
             "ro": "Stația de autobuz este chiar pe drumul principal.",
-            "en": "The bus stop is right on the main road."
+            "en": "The bus stop is right on the main road.",
+            "hr": "Autobusna stanica je na samoj glavnoj cesti."
           }
         },
         {
@@ -1858,7 +2011,8 @@
             "de": "Kurzer Spaziergang von der Haltestelle.",
             "hu": "Rövid séta a megállótól.",
             "ro": "Scurtă plimbare de la stație.",
-            "en": "Short walk from the bus stop."
+            "en": "Short walk from the bus stop.",
+            "hr": "Kratka šetnja od autobusne stanice."
           }
         },
         {
@@ -1876,7 +2030,8 @@
             "de": "Höchster begehbarer Punkt der Insel.",
             "hu": "A sziget legmagasabb pontja gyalog.",
             "ro": "Cel mai înalt punct accesibil pe jos.",
-            "en": "Highest walkable point on the island."
+            "en": "Highest walkable point on the island.",
+            "hr": "Najviša točka na otoku do koje se može pješice."
           }
         },
         {
@@ -1894,7 +2049,8 @@
             "de": "Verbindet die Halbinsel mit den Stränden.",
             "hu": "Összeköti a félszigetet a strandokkal.",
             "ro": "Conectează peninsula cu plajele.",
-            "en": "Connects the peninsula with the beaches."
+            "en": "Connects the peninsula with the beaches.",
+            "hr": "Povezuje poluotok s plažama."
           }
         },
         {
@@ -1912,7 +2068,8 @@
             "de": "Nur wenige Gehminuten zur Bushaltestelle.",
             "hu": "Pár perc séta a buszmegállóig.",
             "ro": "Doar câteva minute de mers până la autobuz.",
-            "en": "Just a few minutes' walk to the bus stop."
+            "en": "Just a few minutes' walk to the bus stop.",
+            "hr": "Samo nekoliko minuta hoda do autobusne stanice."
           }
         }
       ],
@@ -1920,7 +2077,8 @@
         "de": "Primošten ist ideal mit dem öffentlichen Bus erreichbar. Die Haltestelle liegt zentral, von wo aus Sie direkt in die Altstadt spazieren können. Besuchen Sie die historischen Kirchen und genießen Sie die maritime Atmosphäre auf der Promenade. Den Nachmittag verbringen Sie entspannt am Strand Mala Raduča, der ebenfalls fußläufig zur Haltestelle liegt. Eine stressfreie Art, dieses Juwel an der Adria ohne eigenes Auto zu erleben.",
         "hu": "Primošten ideálisan elérhető távolsági buszokkal. A megálló központi helyen van, ahonnan azonnal az óvárosba sétálhat. Látogassa meg a történelmi templomokat, és élvezze a tengerparti sétány hangulatát. A délutánt töltse pihenéssel a Mala Raduča strandon, amely szintén sétatávolságra van a buszmegállótól. Stresszmentes módja az adriai ékszerdoboz felfedezésének autó nélkül.",
         "ro": "Primošten este ușor accesibil cu autobuzul public. Stația este centrală, permițându-vă să mergeți direct în orașul vechi. Vizitați bisericile istorice și bucurați-vă de atmosfera maritimă de pe faleză. Petreceți după-amiaza pe plaja Mala Raduča, aflată aproape de stație. O modalitate fără stres de a experimenta această bijuterie a Adriaticii fără mașină.",
-        "en": "Primošten is easily accessible by public bus. The stop is centrally located, letting you walk straight into the old town. Visit the historic churches and soak up the maritime atmosphere on the promenade. Spend a relaxing afternoon at Mala Raduča beach, also within walking distance of the bus stop. A stress-free way to experience this Adriatic gem without a car."
+        "en": "Primošten is easily accessible by public bus. The stop is centrally located, letting you walk straight into the old town. Visit the historic churches and soak up the maritime atmosphere on the promenade. Spend a relaxing afternoon at Mala Raduča beach, also within walking distance of the bus stop. A stress-free way to experience this Adriatic gem without a car.",
+        "hr": "Primošten je lako dostupan javnim autobusom. Stanica je smještena centralno, što vam omogućuje da ušetate izravno u staru jezgru. Posjetite povijesne crkve i upijte morsku atmosferu na šetnici. Provedite opuštajuće poslijepodne na plaži Mala Raduča, koja je također na pješačkoj udaljenosti od autobusne stanice. Način za doživjeti ovaj jadranski dragulj bez stresa i automobila."
       },
       "gastro_picks": {
         "de": [
@@ -1945,6 +2103,12 @@
           {
             "name": "Ice Cream",
             "tip": "Get a scoop at the stalls along the promenade."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Sladoled",
+            "tip": "Kupite kuglicu na štandovima uz šetnicu."
           }
         ]
       },
@@ -1976,6 +2140,13 @@
             "tip": "Small escape from the crowds.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vrt crkve sv. Roka",
+            "tip": "Mali bijeg od gužve.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2001,6 +2172,12 @@
           {
             "name": "Postcards",
             "tip": "Available at kiosks near the bus stop."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Razglednice",
+            "tip": "Dostupne na kioscima u blizini autobusne stanice."
           }
         ]
       },
@@ -2028,6 +2205,12 @@
           "Tickets can often be bought directly from the driver.",
           "Buses are crowded in summer; arrive at the stop early.",
           "Use the 'Arriva' app for real-time information."
+        ],
+        "hr": [
+          "Unaprijed provjerite vozni red autobusa za povratak.",
+          "Karte se često mogu kupiti izravno kod vozača.",
+          "Autobusi su ljeti puni; dođite ranije na stanicu.",
+          "Koristite aplikaciju 'Arriva' za informacije u stvarnom vremenu."
         ]
       },
       "variants": {
@@ -2199,7 +2382,8 @@
             "de": "Nutzen Sie den Transit für einen entspannten Tag in Primošten trotz Regen. Die Busse bringen Sie nahe an die Altstadt, von wo aus Sie die Kirchen St. Rochus und St. Georg besichtigen können. Verbringen Sie den Mittag in den geschützten Cafés an der Promenade. Da der Strand Mala Raduča im Regen leer ist, bietet er einen ruhigen Abschluss, bevor Sie bequem mit dem Bus zurückfahren.",
             "hu": "Használja a tömegközlekedést egy pihentető naphoz Primoštenben esőben is. A buszok közel visznek az óvároshoz, ahonnan meglátogathatja a Szent Rókus és Szent György templomokat. Töltse a délidőt a sétány védett kávézóiban. Mivel a Mala Raduča strand esőben üres, nyugodt lezárást nyújt, mielőtt kényelmesen visszautazna a busszal.",
             "ro": "Folosiți transportul în comun pentru o zi relaxantă în Primošten, în ciuda ploii. Autobuzele vă lasă aproape de orașul vechi, de unde puteți vizita bisericile Sf. Rochus și Sf. Gheorghe. Petreceți prânzul în cafenelele protejate de pe faleză. Plaja Mala Raduča oferă un final liniștit înainte de a lua autobuzul înapoi.",
-            "en": "Use transit for a relaxed day in Primošten despite the rain. Buses drop you off near the old town, from where you can visit St. Roch and St. George churches. Spend midday in the sheltered cafes along the promenade. As Mala Raduča beach is empty in the rain, it offers a peaceful conclusion before your comfortable bus ride back."
+            "en": "Use transit for a relaxed day in Primošten despite the rain. Buses drop you off near the old town, from where you can visit St. Roch and St. George churches. Spend midday in the sheltered cafes along the promenade. As Mala Raduča beach is empty in the rain, it offers a peaceful conclusion before your comfortable bus ride back.",
+            "hr": "Koristite javni prijevoz za opušten dan u Primoštenu unatoč kiši. Autobusi vas ostavljaju blizu starog grada, odakle možete posjetiti crkve sv. Roka i sv. Jurja. Provedite podne u zaklonjenim kafićima uz šetnicu. Budući da je plaža Mala Raduča prazna na kiši, nudi miran završetak prije udobne vožnje autobusom natrag."
           },
           "stops": [
             {
@@ -2276,6 +2460,13 @@
               "The main bus stop usually has a roof for rain protection.",
               "Use the bus ride to view the scenery while staying dry.",
               "Buses run less frequently in the off-season; plan carefully."
+            ],
+            "hr": [
+              "Provjerite vozne redove autobusa jer se mogu razlikovati tijekom kišnog vremena.",
+              "Pripremite sitan novac ili karticu za kartu.",
+              "Glavna autobusna stanica obično ima krov za zaštitu od kiše.",
+              "Iskoristite vožnju autobusom za razgledavanje krajolika dok ste na suhom.",
+              "Autobusi voze rjeđe izvan sezone; pažljivo planirajte."
             ]
           }
         },
@@ -2284,7 +2475,8 @@
             "de": "Winterlicher Transit nach Primošten ist ideal für einen stressfreien Besuch. Die Busse bringen Sie zum Eingang der ruhigen Altstadt. Genießen Sie den Spaziergang zur St. Georg Kirche bei klarer Luft und den einsamen Blick auf die Küstenpromenade. Da es früh dunkel wird, nutzen Sie die Nachmittagsstunden am Strand Mala Raduča, bevor Sie den Bus für die Rückfahrt nehmen.",
             "hu": "A téli tömegközlekedés Primoštenbe ideális egy stresszmentes látogatáshoz. A buszok a csendes óváros bejáratához viszik. Élvezze a sétát a Szent György templomhoz a tiszta levegőben, és a magányos kilátást a tengerparti sétányról. Mivel korán sötétedik, használja ki a délutáni órákat a Mala Raduča strandon a visszabuszozás előtt.",
             "ro": "Transportul de iarnă spre Primošten este ideal pentru o vizită fără stres. Autobuzele vă lasă la intrarea în orașul vechi liniștit. Bucurați-vă de plimbarea spre Biserica Sf. Gheorghe în aerul curat. Deoarece se întunecă devreme, profitați de orele după-amiezii la plajă înainte de a lua autobuzul înapoi.",
-            "en": "Winter transit to Primošten is ideal for a stress-free visit. Buses drop you off at the entrance of the quiet old town. Enjoy the walk to St. George Church in the crisp air and the solitary view of the coastal promenade. As it gets dark early, utilize the afternoon hours at Mala Raduča beach before catching the bus back."
+            "en": "Winter transit to Primošten is ideal for a stress-free visit. Buses drop you off at the entrance of the quiet old town. Enjoy the walk to St. George Church in the crisp air and the solitary view of the coastal promenade. As it gets dark early, utilize the afternoon hours at Mala Raduča beach before catching the bus back.",
+            "hr": "Zimski javni prijevoz do Primoštena idealan je za posjet bez stresa. Autobusi vas ostavljaju na ulazu u mirnu staru jezgru. Uživajte u šetnji do crkve sv. Jurja na oštrom zraku i osamljenom pogledu na obalnu šetnicu. Budući da rano pada mrak, iskoristite poslijepodnevne sate na plaži Mala Raduča prije nego što uhvatite autobus natrag."
           },
           "stops": [
             {
@@ -2361,6 +2553,13 @@
               "A hot drink to-go makes waiting more comfortable.",
               "The last return trip is often in the early evening.",
               "Schedule information is usually posted at the stop."
+            ],
+            "hr": [
+              "Autobusi voze rjeđe zimi (zimski vozni red).",
+              "Čekajte u zavjetrini stanice.",
+              "Topli napitak za van učinit će čekanje ugodnijim.",
+              "Zadnji povratak je često rano navečer.",
+              "Informacije o voznom redu obično su istaknute na stanici."
             ]
           }
         }

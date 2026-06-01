@@ -31,7 +31,8 @@
             "de": "Besuchen Sie die lokale Kirche für einen Moment der Ruhe.",
             "hu": "Látogasson el a helyi templomba egy csendes percre.",
             "ro": "Vizitați biserica locală pentru un moment de liniște.",
-            "en": "Visit the local church for a moment of peace."
+            "en": "Visit the local church for a moment of peace.",
+            "hr": "Posjetite lokalnu crkvu za trenutak mira."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Genießen Sie einen kroatischen Kaffee im Dorfzentrum.",
             "hu": "Élvezzen egy horvát kávét a falu központjában.",
             "ro": "Savurați o cafea croată în centrul satului.",
-            "en": "Enjoy a Croatian coffee in the village center."
+            "en": "Enjoy a Croatian coffee in the village center.",
+            "hr": "Uživajte u kavi u centru mjesta."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Erkunden Sie die natürliche Umgebung dieses lokalen Punktes.",
             "hu": "Fedezze fel a helyi pont természetes környezetét.",
             "ro": "Explorați împrejurimile naturale ale acestui punct local.",
-            "en": "Explore the natural surroundings of this local spot."
+            "en": "Explore the natural surroundings of this local spot.",
+            "hr": "Istražite prirodno okruženje ovog mjesta."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie lokale Spezialitäten aus dem Hinterland.",
             "hu": "Kóstolja meg a hátország helyi specialitásait.",
             "ro": "Gustați specialități locale din interiorul țării.",
-            "en": "Taste local specialties from the hinterland."
+            "en": "Taste local specialties from the hinterland.",
+            "hr": "Kušajte lokalne specijalitete zaleđa."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Genießen Sie den Blick über das weite Sinjsko polje.",
             "hu": "Élvezze a kilátást a tágas Sinjsko polje felé.",
             "ro": "Bucurați-vă de priveliștea peste câmpia Sinjsko polje.",
-            "en": "Enjoy the view over the vast Sinjsko polje."
+            "en": "Enjoy the view over the vast Sinjsko polje.",
+            "hr": "Uživajte u pogledu na prostrano Sinjsko polje."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein schöner Abschluss des Tages mit Blick auf das Dorf.",
             "hu": "Szép befejezése a napnak kilátással a falura.",
             "ro": "Un final frumos al zilei cu vedere spre sat.",
-            "en": "A beautiful end to the day with a view of the village."
+            "en": "A beautiful end to the day with a view of the village.",
+            "hr": "Lijep završetak dana s pogledom na selo."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ein entspannter Spaziergang durch Glavice führt Sie zu historischen Sakralbauten und durch die ruhige Natur des dalmatinischen Hinterlands. Der Vormittag beginnt spirituell und setzt sich mit lokalem Kaffeegenuss fort. Nach einem herzhaften Mittagessen in einer traditionellen Konoba erkunden Sie die Ränder des weiten Sinjsko polje, bevor der Tag bei einem sanften Sonnenuntergang ausklingt.",
         "hu": "Egy pihentető séta Glavicében elvezeti Önt a történelmi szakrális épületekhez és a dalmát hátország csendes természetébe. A délelőtt spirituálisan indul, majd helyi kávézással folytatódik. Egy kiadós ebéd után egy hagyományos konobában fedezze fel a tágas Sinjsko polje széleit, mielőtt a nap egy lágy naplementével véget érne.",
         "ro": "O plimbare relaxantă prin Glavice vă poartă spre clădiri sacre istorice și prin natura liniștită a interiorului Dalmației. Dimineața începe spiritual și continuă cu savurarea unei cafele locale. După un prânz copios într-o konoba tradițională, explorați marginile câmpiei Sinjsko polje, înainte ca ziua să se încheie cu un apus blând.",
-        "en": "A relaxed walk through Glavice takes you to historical sacred buildings and through the quiet nature of the Dalmatian hinterland. The morning starts spiritually and continues with local coffee. After a hearty lunch in a traditional konoba, explore the edges of the vast Sinjsko polje before the day concludes with a soft sunset."
+        "en": "A relaxed walk through Glavice takes you to historical sacred buildings and through the quiet nature of the Dalmatian hinterland. The morning starts spiritually and continues with local coffee. After a hearty lunch in a traditional konoba, explore the edges of the vast Sinjsko polje before the day concludes with a soft sunset.",
+        "hr": "Opuštena šetnja kroz Glavice vodi vas do povijesnih sakralnih građevina i kroz tihu prirodu dalmatinskog zaleđa. Jutro počinje duhovno, a nastavlja se uz domaću kavu. Nakon krepkog ručka u tradicionalnoj konobi, istražite rubove prostranog Sinjskog polja prije nego što dan završi blagim zalaskom sunca."
       },
       "gastro_picks": {
         "de": [
@@ -154,6 +161,12 @@
           {
             "name": "Pršut & Cheese",
             "tip": "Try the air-dried ham and cheese of the region."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pršut i sir",
+            "tip": "Probajte domaći pršut i sir iz ove regije."
           }
         ]
       },
@@ -185,6 +198,13 @@
             "tip": "Quiet path with a wide horizon.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Staza rubom Sinjskog polja",
+            "tip": "Mirna staza sa širokim horizontom.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -211,6 +231,12 @@
             "name": "Local Honey",
             "tip": "Fresh honey from local beekeepers."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni med",
+            "tip": "Svježi med lokalnih pčelara."
+          }
         ]
       },
       "tips": {
@@ -229,6 +255,10 @@
         "en": [
           "Wear comfortable walking shoes.",
           "The midday sun in the hinterland can be very intense."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za hodanje.",
+          "Podnevno sunce u zaleđu može biti vrlo intenzivno."
         ]
       },
       "variants": {
@@ -237,7 +267,8 @@
             "de": "Morgenandacht in der Kirche schützt vor dem Regen. Mittags wärmen Kaffee und ein herzhaftes Essen in der Konoba auf. Nachmittags bietet das Sinjsko polje eine mystische Nebelstimmung. Der Tag endet trotz Wolken mit einem weiten Blick über die feuchte Ebene.",
             "hu": "A reggeli eső elől a templom hűvös falaiba menekülünk. Délben egy forró kávé és a konoba vendégszeretete ad erőt a folytatáshoz. Délután a Sinjsko polje ködbe burkolózó tája különleges látvány. Az estét a párás horizonton átszűrődő fények zárják.",
             "ro": "Dimineața începe la adăpostul bisericii, feriți de ploaie. La prânz, cafeaua și masa caldă la konobă oferă confortul necesar. După-amiaza, câmpia Sinjsko polje capătă o atmosferă mistică în ceață. Seara se încheie cu o panoramă dramatică peste câmpia umedă.",
-            "en": "Morning start in the church to escape the drizzle. Midday is spent drying off in a cozy cafe and enjoying a long lunch. Afternoon walk through the misty fields requires an umbrella. The day ends with a moody, overcast view of the Sinj valley."
+            "en": "Morning start in the church to escape the drizzle. Midday is spent drying off in a cozy cafe and enjoying a long lunch. Afternoon walk through the misty fields requires an umbrella. The day ends with a moody, overcast view of the Sinj valley.",
+            "hr": "Jutarnji početak u crkvi kako biste pobjegli od kišice. Podne provedite sušeći se u ugodnom kafiću uz dugi ručak. Popodnevna šetnja kroz maglovita polja zahtijeva kišobran. Dan završava sjetnim, oblačnim pogledom na Sinjsku dolinu."
           },
           "stops": [
             {
@@ -246,7 +277,8 @@
                 "de": "Trockener Rückzugsort bei Regen.",
                 "hu": "Tökéletes menedék az eső elől.",
                 "ro": "Un loc uscat și liniștit.",
-                "en": "Dry retreat from the rain."
+                "en": "Dry retreat from the rain.",
+                "hr": "Sklonište od kiše."
               }
             },
             {
@@ -255,7 +287,8 @@
                 "de": "Heißer Tee zum Aufwärmen.",
                 "hu": "Forró tea a felmelegedéshez.",
                 "ro": "Ceai fierbinte pentru încălzire.",
-                "en": "Hot tea to warm up."
+                "en": "Hot tea to warm up.",
+                "hr": "Vrući čaj za zagrijavanje."
               }
             },
             {
@@ -264,7 +297,8 @@
                 "de": "Vorsicht, rutschige Steine.",
                 "hu": "Vigyázat, csúszós kövek.",
                 "ro": "Atenție, pietre alunecoase.",
-                "en": "Caution, slippery stones."
+                "en": "Caution, slippery stones.",
+                "hr": "Oprez, sklisko kamenje."
               }
             },
             {
@@ -273,7 +307,8 @@
                 "de": "Regenschirm am Eingang lassen.",
                 "hu": "Az esernyőt hagyd a bejáratnál.",
                 "ro": "Lăsați umbrela la intrare.",
-                "en": "Leave your umbrella at the entry."
+                "en": "Leave your umbrella at the entry.",
+                "hr": "Ostavite kišobran na ulazu."
               }
             },
             {
@@ -282,7 +317,8 @@
                 "de": "Feste Gummistiefel empfohlen.",
                 "hu": "Gumicsizma ajánlott ide.",
                 "ro": "Cizme de gumă recomandate.",
-                "en": "Rubber boots recommended here."
+                "en": "Rubber boots recommended here.",
+                "hr": "Preporučuju se gumene čizme."
               }
             },
             {
@@ -291,7 +327,8 @@
                 "de": "Starker Wind auf der Anhöhe.",
                 "hu": "Erős szél várható a dombon.",
                 "ro": "Vânt puternic pe culme.",
-                "en": "Strong wind on the hill."
+                "en": "Strong wind on the hill.",
+                "hr": "Jak vjetar na brdu."
               }
             }
           ],
@@ -319,6 +356,12 @@
               "A sturdy umbrella is essential due to potential wind.",
               "The local konoba is a great spot to dry off during lunch.",
               "Time your church visit to coincide with heavier showers."
+            ],
+            "hr": [
+              "Nosite nepromočive cipele za poljske staze.",
+              "Čvrst kišobran je neophodan zbog mogućeg vjetra.",
+              "Lokalna konoba je odlično mjesto za ugrijati se tijekom ručka.",
+              "Planirajte posjet crkvi tijekom jačih pljuskova."
             ]
           }
         },
@@ -327,7 +370,8 @@
             "de": "Die kalte Morgenluft begleitet den Kirchenbesuch. Mittags lockt das warme Café mit lokalen Spezialitäten gegen den Frost. Nachmittags zeigt sich das Sinjsko polje in kargem Winterglanz unter tiefstehender Sonne. Der Aussichtspunkt bietet einen klaren, eiskalten Blick.",
             "hu": "A csípős reggeli levegőben látogatjuk meg a templomot. Délben a meleg kávézó és a laktató ebéd segít a hideg ellen. Délután a téli nap alacsony szöge különleges fénybe vonja a mezőt. A napot egy kristálytiszta, de fagyos panoráma zárja a dombtetőn.",
             "ro": "Aerul rece de dimineață însoțește vizita la biserică. La prânz, cafeneaua caldă și masa copioasă alungă gerul. După-amiaza, câmpia Sinjsko polje strălucește sub soarele jos de iarnă. Seara se încheie cu o vedere clară, dar înghețată.",
-            "en": "Crisp winter air greets you at the church. Midday is perfect for warming up with local coffee and hearty Sinj dishes. Afternoon light on the fields is harsh but beautiful in winter. The day ends early at the viewpoint with a clear, freezing vista."
+            "en": "Crisp winter air greets you at the church. Midday is perfect for warming up with local coffee and hearty Sinj dishes. Afternoon light on the fields is harsh but beautiful in winter. The day ends early at the viewpoint with a clear, freezing vista.",
+            "hr": "Oštar zimski zrak dočekat će vas kod crkve. Podne je savršeno za zagrijavanje uz kavu i krepka sinjska jela. Popodnevno svjetlo na poljima je oštro, ali prekrasno zimi. Dan završava rano na vidikovcu s čistim, hladnim pogledom."
           },
           "stops": [
             {
@@ -336,7 +380,8 @@
                 "de": "In der Kirche ist es sehr kühl.",
                 "hu": "A templom belül nagyon hideg.",
                 "ro": "În biserică este foarte răcoare.",
-                "en": "It is quite chilly inside the church."
+                "en": "It is quite chilly inside the church.",
+                "hr": "Prilično je hladno unutar crkve."
               }
             },
             {
@@ -345,7 +390,8 @@
                 "de": "Heißer Sinjer Kaffee probieren.",
                 "hu": "Kóstold meg a forró sinji kávét.",
                 "ro": "Gustați cafeaua fierbinte din Sinj.",
-                "en": "Try the hot local Sinj coffee."
+                "en": "Try the hot local Sinj coffee.",
+                "hr": "Probajte toplu domaću kavu."
               }
             },
             {
@@ -354,7 +400,8 @@
                 "de": "Sonnige Plätze am Hang suchen.",
                 "hu": "Keress napos helyet a lejtőn.",
                 "ro": "Căutați locuri însorite pe pantă.",
-                "en": "Look for sunny spots on the slope."
+                "en": "Look for sunny spots on the slope.",
+                "hr": "Potražite sunčana mjesta na padini."
               }
             },
             {
@@ -363,7 +410,8 @@
                 "de": "Ideal für Sinjer Arambaši.",
                 "hu": "Ideális a sinji arambašihoz.",
                 "ro": "Ideal pentru Sinjski arambaši.",
-                "en": "Ideal for Sinjski arambaši stew."
+                "en": "Ideal for Sinjski arambaši stew.",
+                "hr": "Idealno za porciju sinjskih arambaša."
               }
             },
             {
@@ -372,7 +420,8 @@
                 "de": "Warme Kleidung gegen den Wind.",
                 "hu": "Meleg ruha kell a szél ellen.",
                 "ro": "Haine groase împotriva vântului.",
-                "en": "Warm clothes needed against wind."
+                "en": "Warm clothes needed against wind.",
+                "hr": "Potrebna topla odjeća protiv vjetra."
               }
             },
             {
@@ -381,7 +430,8 @@
                 "de": "Sonnenuntergang schon um 16:30.",
                 "hu": "Naplemente már 16:30-kor.",
                 "ro": "Apusul este deja la ora 16:30.",
-                "en": "Sunset is already at 16:30."
+                "en": "Sunset is already at 16:30.",
+                "hr": "Zalazak sunca je već u 16:30."
               }
             }
           ],
@@ -409,6 +459,12 @@
               "Watch out for frozen puddles on the walking paths.",
               "Sunset is very early in winter, arrive early at the hill.",
               "Warm soups in the konoba are a must-try in winter."
+            ],
+            "hr": [
+              "Odjenite se slojevito kako biste se zaštitili od bure.",
+              "Pripazite na smrznute lokve na pješačkim stazama.",
+              "Zalazak sunca je zimi vrlo rano, dođite ranije na brdo.",
+              "Topla juha u konobi je obavezna zimi."
             ]
           }
         }
@@ -437,7 +493,8 @@
             "de": "Startpunkt der Tour.",
             "hu": "A túra kiindulópontja.",
             "ro": "Punctul de plecare al turului.",
-            "en": "Starting point of the tour."
+            "en": "Starting point of the tour.",
+            "hr": "Početna točka ture."
           }
         },
         {
@@ -455,7 +512,8 @@
             "de": "Kurzer Stopp in der Natur.",
             "hu": "Rövid megálló a természetben.",
             "ro": "Scurtă oprire în natură.",
-            "en": "Short stop in nature."
+            "en": "Short stop in nature.",
+            "hr": "Kratko zaustavljanje u prirodi."
           }
         },
         {
@@ -473,7 +531,8 @@
             "de": "Erfrischende Pause am Flussufer.",
             "hu": "Frissítő pihenő a folyóparton.",
             "ro": "Pauză revigorantă pe malul râului.",
-            "en": "Refreshing break by the riverbank."
+            "en": "Refreshing break by the riverbank.",
+            "hr": "Osvježavajuća pauza uz obalu rijeke."
           }
         },
         {
@@ -491,7 +550,8 @@
             "de": "Ideal für eine Pause im Schatten.",
             "hu": "Ideális egy árnyékos pihenőhöz.",
             "ro": "Ideal pentru o pauză la umbră.",
-            "en": "Ideal for a break in the shade."
+            "en": "Ideal for a break in the shade.",
+            "hr": "Idealno za odmor u hladu."
           }
         },
         {
@@ -509,7 +569,8 @@
             "de": "Flache Wege durch die landwirtschaftliche Ebene.",
             "hu": "Lapos utak a mezőgazdasági síkságon át.",
             "ro": "Drumuri plane prin câmpia agricolă.",
-            "en": "Flat paths through the agricultural plain."
+            "en": "Flat paths through the agricultural plain.",
+            "hr": "Ravne staze kroz poljoprivrednu ravnicu."
           }
         },
         {
@@ -527,7 +588,8 @@
             "de": "Kurze Rast im Zentrum.",
             "hu": "Rövid pihenő a központban.",
             "ro": "Scurt popas în centru.",
-            "en": "Short rest in the center."
+            "en": "Short rest in the center.",
+            "hr": "Kratki odmor u centru."
           }
         },
         {
@@ -545,7 +607,8 @@
             "de": "Belohnung nach der Tour.",
             "hu": "Jutalom a túra után.",
             "ro": "Răsplată după tur.",
-            "en": "Reward after the tour."
+            "en": "Reward after the tour.",
+            "hr": "Nagrada nakon ture."
           }
         }
       ],
@@ -553,7 +616,8 @@
         "de": "Diese Biketour erkundet die weite Ebene des Sinjsko polje und führt bis an die erfrischenden Ufer der Cetina. Die Strecke ist überwiegend flach und bietet weite Ausblicke auf die umliegenden Berge. Nach einem Picknick am Wasser geht es durch die Felder zurück nach Glavice.",
         "hu": "Ez a kerékpártúra felfedezi a Sinjsko polje tágas síkságát és elvezet a Cetina frissítő partjaihoz. Az útvonal főként sík, és tágas kilátást nyújt a környező hegyekre. Egy vízparti piknik után a mezőkön át vezet az út vissza Glavicébe.",
         "ro": "Acest tur cu bicicleta explorează câmpia largă Sinjsko polje și duce până la malurile revigorante ale râului Cetina. Traseul este în mare parte plat și oferă vederi largi asupra munților din jur. După un picnic pe malul apei, drumul se întoarce prin câmpuri spre Glavice.",
-        "en": "This bike tour explores the vast plain of Sinjsko polje and leads to the refreshing banks of the Cetina. The route is mostly flat and offers wide views of the surrounding mountains. After a picnic by the water, the path returns through the fields to Glavice."
+        "en": "This bike tour explores the vast plain of Sinjsko polje and leads to the refreshing banks of the Cetina. The route is mostly flat and offers wide views of the surrounding mountains. After a picnic by the water, the path returns through the fields to Glavice.",
+        "hr": "Ova biciklistička tura istražuje prostranu ravnicu Sinjskog polja i vodi do osvježavajućih obala Cetine. Ruta je uglavnom ravna i nudi široke poglede na okolne planine. Nakon piknika uz vodu, put se vraća kroz polja do Glavica."
       },
       "gastro_picks": {
         "de": [
@@ -578,6 +642,12 @@
           {
             "name": "Local Cheese",
             "tip": "Perfect for the picnic."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni sir",
+            "tip": "Savršen za piknik."
           }
         ]
       },
@@ -609,6 +679,13 @@
             "tip": "Quiet spot by the flowing water.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obala Cetine",
+            "tip": "Mirno mjesto uz tekuću vodu.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -635,6 +712,12 @@
             "name": "Farm Shop",
             "tip": "Regional products directly from the farmer."
           }
+        ],
+        "hr": [
+          {
+            "name": "Seoska trgovina",
+            "tip": "Regionalni proizvodi izravno od proizvođača."
+          }
         ]
       },
       "tips": {
@@ -653,6 +736,10 @@
         "en": [
           "Take enough water with you.",
           "Sun protection is important on the open plain."
+        ],
+        "hr": [
+          "Ponesite dovoljno vode sa sobom.",
+          "Zaštita od sunca je važna na otvorenoj ravnici."
         ]
       },
       "variants": {
@@ -661,7 +748,8 @@
             "de": "Trotz Regen bietet die Radtour durch Glavice ihren Reiz. Nach dem kurzen Kirchenbesuch führt der Weg zum Fluss Cetina, der im Regen besonders kraftvoll wirkt. Das Picknick wird unter ein festes Dach verlegt. Die Tour endet mit einem heißen Getränk im Dorfzentrum.",
             "hu": "Az eső ellenére a kerékpártúra különleges élmény. A rövid templomlátogatás után a Cetina folyóhoz tekerünk, amely esőben még vadabbnak tűnik. A pikniket egy fedett helyre költöztetjük. A napot egy meleg ital zárja a falu központjában.",
             "ro": "În ciuda ploii, turul cu bicicleta are farmecul său. După scurta vizită la biserică, drumul duce spre râul Cetina, care pare mai puternic. Picnicul este mutat sub un adăpost fix. Turul se încheie cu o băutură caldă în centrul satului.",
-            "en": "Rain won't stop the cycling adventure in Glavice. After a church visit, ride to the Cetina river, which looks powerful in the rain. The picnic is moved under a shelter. The day wraps up with a hot drink back at the village square."
+            "en": "Rain won't stop the cycling adventure in Glavice. After a church visit, ride to the Cetina river, which looks powerful in the rain. The picnic is moved under a shelter. The day wraps up with a hot drink back at the village square.",
+            "hr": "Kiša neće zaustaviti biciklističku avanturu u Glavicama. Nakon posjeta crkvi, vozite do rijeke Cetine koja po kiši izgleda moćno. Piknik se seli pod nadstrešnicu. Dan završava uz topli napitak na seoskom trgu."
           },
           "stops": [
             {
@@ -670,7 +758,8 @@
                 "de": "Kurze Pause zum Unterstellen.",
                 "hu": "Rövid megálló az eső elől.",
                 "ro": "Scurt popas sub adăpost.",
-                "en": "Short stop to take cover."
+                "en": "Short stop to take cover.",
+                "hr": "Kratko stajanje radi zaklona."
               }
             },
             {
@@ -679,7 +768,8 @@
                 "de": "Bremsweg auf nassem Asphalt beachten.",
                 "hu": "Vizes úton hosszabb féktáv.",
                 "ro": "Atenție la frânarea pe ud.",
-                "en": "Mind the braking distance on wet roads."
+                "en": "Mind the braking distance on wet roads.",
+                "hr": "Pripazite na put kočenja na mokrim cestama."
               }
             },
             {
@@ -688,7 +778,8 @@
                 "de": "Spritzschutz am Rad ist nötig.",
                 "hu": "Sárvédő használata javasolt.",
                 "ro": "Apărători de noroi necesare.",
-                "en": "Mudguards are necessary here."
+                "en": "Mudguards are necessary here.",
+                "hr": "Blatobrani su ovdje neophodni."
               }
             },
             {
@@ -697,7 +788,8 @@
                 "de": "Überdachte Stelle suchen.",
                 "hu": "Keress fedett helyet a piknikhez.",
                 "ro": "Căutați un loc acoperit.",
-                "en": "Look for a covered spot."
+                "en": "Look for a covered spot.",
+                "hr": "Potražite natkriveno mjesto."
               }
             },
             {
@@ -706,7 +798,8 @@
                 "de": "Vorsicht bei tiefen Pfützen.",
                 "hu": "Vigyázza a mély tócsákkal.",
                 "ro": "Atenție la bălțile adânci.",
-                "en": "Watch out for deep puddles."
+                "en": "Watch out for deep puddles.",
+                "hr": "Pripazite na duboke lokve."
               }
             },
             {
@@ -715,7 +808,8 @@
                 "de": "Rad sicher und trocken parken.",
                 "hu": "Parkold a biciklit száraz helyre.",
                 "ro": "Parcați bicicleta la loc uscat.",
-                "en": "Park your bike in a dry spot."
+                "en": "Park your bike in a dry spot.",
+                "hr": "Parkirajte bicikl na suhom mjestu."
               }
             },
             {
@@ -724,7 +818,8 @@
                 "de": "Heißes Getränk statt Eis wählen.",
                 "hu": "Válassz meleg italt fagyi helyett.",
                 "ro": "Alegeți o băutură caldă.",
-                "en": "Choose a hot drink instead of gelato."
+                "en": "Choose a hot drink instead of gelato.",
+                "hr": "Odaberite topli napitak umjesto sladoleda."
               }
             }
           ],
@@ -752,6 +847,12 @@
               "Avoid sharp turns on wet leaves or mud.",
               "Wipe your brake rims regularly for better performance.",
               "Consider moving the picnic to a local indoor bistro."
+            ],
+            "hr": [
+              "Koristite punu opremu za kišu, uključujući navlake za cipele.",
+              "Izbjegavajte oštra skretanja na mokrom lišću ili blatu.",
+              "Redovito brišite rubove kočnica za bolji učinak.",
+              "Razmislite o premještanju piknika u lokalni zatvoreni bistro."
             ]
           }
         },
@@ -760,7 +861,8 @@
             "de": "Die frostige Winterluft erfordert gute Vorbereitung für die Radtour. Nach dem Start an der Kirche führt die Route durch das weite, stille Sinjsko polje bis zur Cetina. Ein heißer Tee am Flussufer ersetzt das Picknick. Der Tag endet gemütlich bei einer heißen Schokolade im Dorf.",
             "hu": "A fagyos téli levegő alapos felkészülést igényel a túrához. A templomtól indulva a csendes Sinjsko polje mezőin át tekerünk a Cetináig. A folyóparton a pikniket forró tea váltja fel. A napot egy sűrű forró csokoládé zárja a faluban.",
             "ro": "Aerul înghețat de iarnă cere o pregătire bună pentru tur. De la biserică, traseul traversează câmpia liniștită până la Cetina. Un ceai fierbinte pe mal înlocuiește picnicul. Ziua se încheie cu o ciocolată caldă în sat.",
-            "en": "Freezing winter air means you need warm layers for this ride. From the church, pedal through the quiet Sinjsko polje towards the Cetina. A thermos of tea is better than a picnic today. Wrap up with a thick hot chocolate back in Glavice."
+            "en": "Freezing winter air means you need warm layers for this ride. From the church, pedal through the quiet Sinjsko polje towards the Cetina. A thermos of tea is better than a picnic today. Wrap up with a thick hot chocolate back in Glavice.",
+            "hr": "Hladan zimski zrak znači da vam trebaju topli slojevi za ovu vožnju. Od crkve pedalirajte kroz tiho Sinjsko polje prema Cetini. Termosica čaja je bolja ideja od piknika danas. Završite dan uz gustu toplu čokoladu u Glavicama."
           },
           "stops": [
             {
@@ -769,7 +871,8 @@
                 "de": "Kurze Aufwärmpause im Inneren.",
                 "hu": "Rövid melegedő pihenő bent.",
                 "ro": "Scurtă pauză de încălzire în interior.",
-                "en": "Short warming break inside."
+                "en": "Short warming break inside.",
+                "hr": "Kratka pauza za grijanje unutra."
               }
             },
             {
@@ -778,7 +881,8 @@
                 "de": "Vorsicht vor überfrierender Nässe.",
                 "hu": "Vigyázz a lefagyott nedvességre.",
                 "ro": "Atenție la porțiunile înghețate.",
-                "en": "Watch out for black ice on the road."
+                "en": "Watch out for black ice on the road.",
+                "hr": "Pripazite na poledicu na cesti."
               }
             },
             {
@@ -787,7 +891,8 @@
                 "de": "Windfeste Handschuhe sind wichtig.",
                 "hu": "Szélálló kesztyű kötelező.",
                 "ro": "Mănuși rezistente la vânt.",
-                "en": "Windproof gloves are essential."
+                "en": "Windproof gloves are essential.",
+                "hr": "Rukavice otporne na vjetar su neophodne."
               }
             },
             {
@@ -796,7 +901,8 @@
                 "de": "Thermo-Sitzkissen mitnehmen.",
                 "hu": "Vigyél magaddal hőszigetelő párnát.",
                 "ro": "Luați un suport termoizolant.",
-                "en": "Take a thermal seat pad with you."
+                "en": "Take a thermal seat pad with you.",
+                "hr": "Ponesite termo podložak za sjedenje."
               }
             },
             {
@@ -805,7 +911,8 @@
                 "de": "Tiefstehende Sonne blendet stark.",
                 "hu": "Az alacsony nap erősen vakíthat.",
                 "ro": "Soarele jos poate fi orbitor.",
-                "en": "Low sun can be very blinding."
+                "en": "Low sun can be very blinding.",
+                "hr": "Nisko sunce može biti vrlo zasljepljujuće."
               }
             },
             {
@@ -814,7 +921,8 @@
                 "de": "Rad schnell im Trockenen abstellen.",
                 "hu": "Gyorsan parkolj le fedett helyen.",
                 "ro": "Parcați rapid la adăpost.",
-                "en": "Park quickly in a sheltered area."
+                "en": "Park quickly in a sheltered area.",
+                "hr": "Brzo parkirajte u zaklonjenom području."
               }
             },
             {
@@ -823,7 +931,8 @@
                 "de": "Bestellen Sie heiße Schokolade.",
                 "hu": "Rendelj forró csokoládét.",
                 "ro": "Comandați o ciocolată caldă.",
-                "en": "Order a thick hot chocolate instead."
+                "en": "Order a thick hot chocolate instead.",
+                "hr": "Radije naručite gustu toplu čokoladu."
               }
             }
           ],
@@ -851,6 +960,12 @@
               "Keep your water bottle inside your jacket to prevent freezing.",
               "Keep outdoor stops short if temperatures drop significantly.",
               "Check tire pressure for better grip on frozen surfaces."
+            ],
+            "hr": [
+              "Nosite odjeću otpornu na vjetar radi zaštite od hladnoće.",
+              "Držite bocu s vodom unutar jakne kako se ne bi smrznula.",
+              "Neka pauze na otvorenom budu kratke ako temperatura značajno padne.",
+              "Provjerite tlak u gumama za bolje prianjanje na smrznutim površinama."
             ]
           }
         }
@@ -879,7 +994,8 @@
             "de": "Parken Sie hier im Dorfzentrum.",
             "hu": "Parkoljon itt a falu központjában.",
             "ro": "Parcați aici în centrul satului.",
-            "en": "Park here in the village center."
+            "en": "Park here in the village center.",
+            "hr": "Parkirajte ovdje u centru mjesta."
           }
         },
         {
@@ -897,7 +1013,8 @@
             "de": "Kurze Wanderung vom Parkplatz aus.",
             "hu": "Rövid túra a parkolótól.",
             "ro": "Scurtă drumeție de la parcare.",
-            "en": "Short hike from the parking lot."
+            "en": "Short hike from the parking lot.",
+            "hr": "Kratka šetnja od parkirališta."
           }
         },
         {
@@ -915,7 +1032,8 @@
             "de": "Panoramafahrt durch die Ebene.",
             "hu": "Panorámás autózás a síkságon át.",
             "ro": "Călătorie panoramică prin câmpie.",
-            "en": "Scenic drive through the plain."
+            "en": "Scenic drive through the plain.",
+            "hr": "Slikovita vožnja kroz ravnicu."
           }
         },
         {
@@ -933,7 +1051,8 @@
             "de": "Besuchen Sie die nahegelegene Stadt für mehr Auswahl.",
             "hu": "Látogasson el a közeli városba a nagyobb választékért.",
             "ro": "Vizitați orașul din apropiere pentru mai multe opțiuni.",
-            "en": "Visit the nearby town for more choice."
+            "en": "Visit the nearby town for more choice.",
+            "hr": "Posjetite obližnji grad za veći izbor."
           }
         },
         {
@@ -951,7 +1070,8 @@
             "de": "Schöner Fotostopp am Fluss.",
             "hu": "Szép fotómegálló a folyónál.",
             "ro": "Loc frumos de fotografiat la râu.",
-            "en": "Nice photo stop by the river."
+            "en": "Nice photo stop by the river.",
+            "hr": "Lijepo mjesto za fotografiranje uz rijeku."
           }
         },
         {
@@ -969,7 +1089,8 @@
             "de": "Kurzer Fußweg direkt am Wasser.",
             "hu": "Rövid séta közvetlenül a víznél.",
             "ro": "Scurtă plimbare direct pe malul apei.",
-            "en": "Short walk directly by the water."
+            "en": "Short walk directly by the water.",
+            "hr": "Kratka šetnja izravno uz vodu."
           }
         },
         {
@@ -987,7 +1108,8 @@
             "de": "Letzter Halt zurück in Glavice.",
             "hu": "Utolsó megálló vissza Glavicében.",
             "ro": "Ultima oprire înapoi în Glavice.",
-            "en": "Last stop back in Glavice."
+            "en": "Last stop back in Glavice.",
+            "hr": "Zadnja stanica povratak u Glavice."
           }
         },
         {
@@ -1005,7 +1127,8 @@
             "de": "Blick über das Tal zum Abschluss.",
             "hu": "Kilátás a völgyre a befejezéshez.",
             "ro": "Vedere peste vale la final.",
-            "en": "View over the valley to finish."
+            "en": "View over the valley to finish.",
+            "hr": "Pogled na dolinu za kraj."
           }
         }
       ],
@@ -1013,7 +1136,8 @@
         "de": "Mit dem Auto kombinieren Sie das lokale Flair von Glavice mit der Weite des Sinjsko polje und der Schönheit der Cetina. Nach dem Besuch der Dorfkirche fahren Sie in die Ebene und genießen die Natur, gefolgt von einem Abstecher in die nahegelegene Stadt Sinj zum Mittagessen. Den Nachmittag verbringen Sie am Fluss, bevor Sie pünktlich zum Sonnenuntergang nach Glavice zurückkehren.",
         "hu": "Autóval kombinálhatja Glavice helyi hangulatát a Sinjsko polje tágasságával és a Cetina szépségével. A falusi templom meglátogatása után a síkságra autózik, élvezi a természetet, majd ebédre ellátogat a közeli Sinj városába. A délutánt a folyónál tölti, mielőtt pontosan a naplementére visszatérne Glavicébe.",
         "ro": "Cu mașina, combinați farmecul local din Glavice cu întinderea câmpiei Sinjsko polje și frumusețea râului Cetina. După vizitarea bisericii din sat, conduceți în câmpie și vă bucurați de natură, urmată de o vizită în orașul Sinj din apropiere pentru prânz. Petreceți după-amiaza la râu, înainte de a vă întoarce în Glavice exact la timp pentru apus.",
-        "en": "By car, you combine the local flair of Glavice with the expanse of Sinjsko polje and the beauty of the Cetina. After visiting the village church, drive into the plain and enjoy nature, followed by a visit to the nearby town of Sinj for lunch. Spend the afternoon by the river before returning to Glavice just in time for sunset."
+        "en": "By car, you combine the local flair of Glavice with the expanse of Sinjsko polje and the beauty of the Cetina. After visiting the village church, drive into the plain and enjoy nature, followed by a visit to the nearby town of Sinj for lunch. Spend the afternoon by the river before returning to Glavice just in time for sunset.",
+        "hr": "Automobilom kombinirate lokalni ugođaj Glavica s prostranstvom Sinjskog polja i ljepotom Cetine. Nakon posjeta seoskoj crkvi, odvezite se u ravnicu i uživajte u prirodi, a zatim posjetite obližnji grad Sinj za ručak. Provedite poslijepodne uz rijeku prije povratka u Glavice taman na zalazak sunca."
       },
       "gastro_picks": {
         "de": [
@@ -1038,6 +1162,12 @@
           {
             "name": "Sinjski Arambaši",
             "tip": "Traditional meat dish from Sinj."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Sinjski arambaši",
+            "tip": "Tradicionalno mesno jelo iz Sinja."
           }
         ]
       },
@@ -1069,6 +1199,13 @@
             "tip": "Idyllic spots along the river course.",
             "emoji": "🌿"
           }
+        ],
+        "hr": [
+          {
+            "name": "Dolina Cetine",
+            "tip": "Idilična mjesta uz tok rijeke.",
+            "emoji": "🌿"
+          }
         ]
       },
       "shopping_picks": {
@@ -1095,6 +1232,12 @@
             "name": "Weekly Market Sinj",
             "tip": "If you are there on market day."
           }
+        ],
+        "hr": [
+          {
+            "name": "Tjedna tržnica u Sinju",
+            "tip": "Ako ste tamo na dan tržnice."
+          }
         ]
       },
       "tips": {
@@ -1113,6 +1256,10 @@
         "en": [
           "There are good parking options in Sinj.",
           "The roads in the hinterland are well maintained."
+        ],
+        "hr": [
+          "Postoje dobre opcije za parkiranje u Sinju.",
+          "Ceste u zaleđu su dobro održavane."
         ]
       },
       "variants": {
@@ -1121,7 +1268,8 @@
             "de": "Die Autofahrt bietet bei Regen maximalen Komfort zwischen den Sehenswürdigkeiten. Vormittags besuchen wir die Kirche und Pripuzovica, bevor es zum Mittagessen ins trockene Sinj geht. Nachmittags genießen wir den Blick auf die Cetina bequem vom Wagen aus oder bei kurzen Spaziergängen.",
             "hu": "Az autós túra a legkényelmesebb választás esős időben. Délelőtt a templomot és Pripuzovicát érintjük, majd Sinj belvárosában ebédelünk fedett helyen. Délután a Cetina-part látványát élvezzük, rövid sétákkal tarkítva a kocsiból.",
             "ro": "Turul cu mașina oferă confort maxim pe timp de ploaie. Dimineața vizităm biserica și Pripuzovica, apoi mergem la prânz în Sinj. După-amiaza admirăm râul Cetina din mașină sau cu scurte plimbări între reprizele de ploaie.",
-            "en": "Driving is the most comfortable way to see Glavice in the rain. Visit the church and Pripuzovica in the morning, then head to Sinj for a dry lunch. In the afternoon, enjoy views of the Cetina river with short walks during breaks in the rain."
+            "en": "Driving is the most comfortable way to see Glavice in the rain. Visit the church and Pripuzovica in the morning, then head to Sinj for a dry lunch. In the afternoon, enjoy views of the Cetina river with short walks during breaks in the rain.",
+            "hr": "Vožnja automobilom je najudobniji način za obilazak Glavica po kiši. Posjetite crkvu i Pripuzovicu ujutro, a zatim se uputite u Sinj na ručak. Poslijepodne uživajte u pogledu na rijeku Cetinu uz kratke šetnje tijekom stanki od kiše."
           },
           "stops": [
             {
@@ -1130,7 +1278,8 @@
                 "de": "Parkplatz direkt vor der Tür.",
                 "hu": "Parkoló közvetlenül a bejáratnál.",
                 "ro": "Parcare chiar lângă intrare.",
-                "en": "Parking right next to the entrance."
+                "en": "Parking right next to the entrance.",
+                "hr": "Parking odmah uz ulaz."
               }
             },
             {
@@ -1139,7 +1288,8 @@
                 "de": "Kurzer Weg vom Auto zum Aussichtspunkt.",
                 "hu": "Rövid séta a kocsitól a kilátóig.",
                 "ro": "Drum scurt de la mașină la belvedere.",
-                "en": "Short walk from the car to the view."
+                "en": "Short walk from the car to the view.",
+                "hr": "Kratka šetnja od auta do vidikovca."
               }
             },
             {
@@ -1148,7 +1298,8 @@
                 "de": "Fensterbelüftung gegen Beschlagen nutzen.",
                 "hu": "Használd a páramentesítőt.",
                 "ro": "Folosiți dezaburirea geamurilor.",
-                "en": "Use the defogger for clear windows."
+                "en": "Use the defogger for clear windows.",
+                "hr": "Koristite odmagljivač za čista stakla."
               }
             },
             {
@@ -1157,7 +1308,8 @@
                 "de": "Parkhaus im Zentrum empfohlen.",
                 "hu": "Sinj központjában keress parkolóházat.",
                 "ro": "Recomandăm parcarea etajată din centru.",
-                "en": "Use a parking garage in Sinj center."
+                "en": "Use a parking garage in Sinj center.",
+                "hr": "Koristite garažu u centru Sinja."
               }
             },
             {
@@ -1166,7 +1318,8 @@
                 "de": "Kurzer Stopp auf der Brücke möglich.",
                 "hu": "Rövid megálló a hídon lehetséges.",
                 "ro": "Scurtă oprire posibilă pe pod.",
-                "en": "Short stop possible on the bridge."
+                "en": "Short stop possible on the bridge.",
+                "hr": "Moguće kratko zaustavljanje na mostu."
               }
             },
             {
@@ -1175,7 +1328,8 @@
                 "de": "Regenschirm griffbereit halten.",
                 "hu": "Legyen kéznél az esernyő.",
                 "ro": "Țineți umbrela la îndemână.",
-                "en": "Keep your umbrella within reach."
+                "en": "Keep your umbrella within reach.",
+                "hr": "Držite kišobran nadohvat ruke."
               }
             },
             {
@@ -1184,7 +1338,8 @@
                 "de": "Gemütliches Café mit Parkplatz.",
                 "hu": "Hangulatos kávézó parkolóval.",
                 "ro": "Cafenea primitoare cu parcare.",
-                "en": "Cozy cafe with nearby parking."
+                "en": "Cozy cafe with nearby parking.",
+                "hr": "Ugodan kafić s parkingom u blizini."
               }
             },
             {
@@ -1193,7 +1348,8 @@
                 "de": "Sicht kann durch Wolken begrenzt sein.",
                 "hu": "A felhők korlátozhatják a kilátást.",
                 "ro": "Norii pot limita vizibilitatea.",
-                "en": "Clouds might limit the view today."
+                "en": "Clouds might limit the view today.",
+                "hr": "Oblaci bi danas mogli ograničiti pogled."
               }
             }
           ],
@@ -1221,6 +1377,12 @@
               "Use your AC to keep windows from fogging up.",
               "Watch out for deep puddles and hydroplaning risks.",
               "Park as close to the restaurant in Sinj as possible."
+            ],
+            "hr": [
+              "Vozite posebno oprezno na uskim seoskim cestama po kiši.",
+              "Koristite klimu kako biste spriječili zamagljivanje stakala.",
+              "Pripazite na duboke lokve i rizik od akvaplaninga.",
+              "Parkirajte što bliže restoranu u Sinju."
             ]
           }
         },
@@ -1229,7 +1391,8 @@
             "de": "Mit dem Auto lässt sich die winterliche Landschaft um Glavice sicher erkunden. Nach dem kulturellen Start an der Kirche wärmen wir uns bei der Fahrt durch das Polje auf. In Sinj genießen wir ein langes, warmes Mittagessen, bevor wir die zugefrorenen Ränder der Cetina besuchen. Der Tag endet am Aussichtspunkt.",
             "hu": "Autóval biztonságosan fedezhetjük fel Glavice téli tájait. A templomi kezdés után a fűtött kocsiból csodáljuk a fagyos mezőt. Sinjben egy hosszú, forró ebéd vár ránk, majd megnézzük a Cetina jeges partjait. A napot a tiszta téli panoráma zárja a dombon.",
             "ro": "Cu mașina puteți explora în siguranță peisajele de iarnă din Glavice. După startul la biserică, ne încălzim în drum spre câmpie. În Sinj savurăm un prânz cald, apoi vizităm malurile înghețate ale Cetinei. Ziua se termină la punctul de belvedere.",
-            "en": "Explore the wintry landscapes of Glavice from the warmth of your car. After the church visit, drive through the frosty fields. Enjoy a long, hearty lunch in Sinj before checking out the icy edges of the Cetina river. End the day with a crisp sunset view."
+            "en": "Explore the wintry landscapes of Glavice from the warmth of your car. After the church visit, drive through the frosty fields. Enjoy a long, hearty lunch in Sinj before checking out the icy edges of the Cetina river. End the day with a crisp sunset view.",
+            "hr": "Istražite zimske pejzaže Glavica iz topline svog automobila. Nakon posjeta crkvi, provezite se kroz mrazom prekrivena polja. Uživajte u dugom, krepkom ručku u Sinju prije nego što obiđete zaleđene obale Cetine. Završite dan uz oštar pogled na zalazak sunca."
           },
           "stops": [
             {
@@ -1238,7 +1401,8 @@
                 "de": "Vorsicht beim Einparken auf Reif.",
                 "hu": "Vigyázz a parkolásnál a dérre.",
                 "ro": "Atenție la parcarea pe chiciură.",
-                "en": "Watch out for frost when parking."
+                "en": "Watch out for frost when parking.",
+                "hr": "Pripazite na mraz pri parkiranju."
               }
             },
             {
@@ -1247,7 +1411,8 @@
                 "de": "Der Weg kann vereist sein.",
                 "hu": "Az út jeges lehet felfelé.",
                 "ro": "Drumul poate fi poleit.",
-                "en": "The path might be icy uphill."
+                "en": "The path might be icy uphill.",
+                "hr": "Staza uzbrdo mogla bi biti zaleđena."
               }
             },
             {
@@ -1256,7 +1421,8 @@
                 "de": "Scheibenwaschwasser mit Frostschutz.",
                 "hu": "Fagyálló szélvédőmosót használj.",
                 "ro": "Folosiți lichid de parbriz de iarnă.",
-                "en": "Use winter windshield washer fluid."
+                "en": "Use winter windshield washer fluid.",
+                "hr": "Koristite zimsku tekućinu za pranje stakla."
               }
             },
             {
@@ -1265,7 +1431,8 @@
                 "de": "Warmer Stopp im Herzen der Stadt.",
                 "hu": "Melegedő pihenő a város szívében.",
                 "ro": "Popas cald în inima orașului.",
-                "en": "Warm break in the heart of town."
+                "en": "Warm break in the heart of town.",
+                "hr": "Topla pauza u srcu grada."
               }
             },
             {
@@ -1274,7 +1441,8 @@
                 "de": "Brücken frieren zuerst ein.",
                 "hu": "A hidak fagynak le először.",
                 "ro": "Podurile îngheață primele.",
-                "en": "Bridges freeze over first."
+                "en": "Bridges freeze over first.",
+                "hr": "Mostovi se prvi zaleđuju."
               }
             },
             {
@@ -1283,7 +1451,8 @@
                 "de": "Kurzer Spaziergang reicht aus.",
                 "hu": "Egy rövid séta is elég a parton.",
                 "ro": "O scurtă plimbare este suficientă.",
-                "en": "A short walk is enough by the river."
+                "en": "A short walk is enough by the river.",
+                "hr": "Kratka šetnja uz rijeku je dovoljna."
               }
             },
             {
@@ -1292,7 +1461,8 @@
                 "de": "Heißgetränk zum Abschluss.",
                 "hu": "Forró ital a nap végére.",
                 "ro": "O băutură caldă la final.",
-                "en": "A hot drink to wrap up the day."
+                "en": "A hot drink to wrap up the day.",
+                "hr": "Topli napitak za kraj dana."
               }
             },
             {
@@ -1301,7 +1471,8 @@
                 "de": "Frühzeitig vor Sonnenuntergang da sein.",
                 "hu": "Érkezz meg jóval naplemente előtt.",
                 "ro": "Ajungeți cu mult înainte de apus.",
-                "en": "Arrive well before the early sunset."
+                "en": "Arrive well before the early sunset.",
+                "hr": "Dođite znatno prije ranog zalaska sunca."
               }
             }
           ],
@@ -1329,6 +1500,12 @@
               "Check your car battery on cold mornings.",
               "Keep a blanket and a thermos of hot tea in the car.",
               "Avoid driving in the field areas during heavy snow."
+            ],
+            "hr": [
+              "Zimske gume su obavezne u ovoj regiji.",
+              "Provjerite akumulator u hladna jutra.",
+              "Držite deku i termosicu s toplim čajem u autu.",
+              "Izbjegavajte vožnju poljskim putovima tijekom jakog snijega."
             ]
           }
         }
@@ -1357,7 +1534,8 @@
             "de": "Lokaler Bus nach Sinj.",
             "hu": "Helyi busz Sinjbe.",
             "ro": "Autobuz local spre Sinj.",
-            "en": "Local bus to Sinj."
+            "en": "Local bus to Sinj.",
+            "hr": "Lokalni autobus za Sinj."
           }
         },
         {
@@ -1375,7 +1553,8 @@
             "de": "Vom Bus aus leicht zu Fuß erreichbar.",
             "hu": "A busztól könnyen elérhető gyalog.",
             "ro": "Ușor de ajuns pe jos de la autobuz.",
-            "en": "Easily accessible on foot from the bus."
+            "en": "Easily accessible on foot from the bus.",
+            "hr": "Lako dostupno pješice s autobusne stanice."
           }
         },
         {
@@ -1393,7 +1572,8 @@
             "de": "Erkunden Sie das Zentrum von Sinj.",
             "hu": "Fedezze fel Sinj központját.",
             "ro": "Explorați centrul orașului Sinj.",
-            "en": "Explore the center of Sinj."
+            "en": "Explore the center of Sinj.",
+            "hr": "Istražite centar Sinja."
           }
         },
         {
@@ -1411,7 +1591,8 @@
             "de": "Zentrale Restaurants am Hauptplatz.",
             "hu": "Központi éttermek a főtéren.",
             "ro": "Restaurante centrale în piața principală.",
-            "en": "Central restaurants at the main square."
+            "en": "Central restaurants at the main square.",
+            "hr": "Središnji restorani na glavnom trgu."
           }
         },
         {
@@ -1429,7 +1610,8 @@
             "de": "Schöner Weg zurück Richtung Glavice.",
             "hu": "Szép út vissza Glavice felé.",
             "ro": "Drum frumos înapoi spre Glavice.",
-            "en": "Nice path back towards Glavice."
+            "en": "Nice path back towards Glavice.",
+            "hr": "Lijepa staza natrag prema Glavicama."
           }
         },
         {
@@ -1447,7 +1629,8 @@
             "de": "Letzte Busverbindung am Nachmittag.",
             "hu": "Utolsó buszjárat délután.",
             "ro": "Ultima legătură de autobuz după-amiaza.",
-            "en": "Last bus connection in the afternoon."
+            "en": "Last bus connection in the afternoon.",
+            "hr": "Zadnja autobusna veza u poslijepodnevnim satima."
           }
         }
       ],
@@ -1455,7 +1638,8 @@
         "de": "Nutzen Sie die lokalen Busverbindungen, um Glavice und die benachbarte Stadt Sinj zu erkunden. Diese Tour konzentriert sich auf die kulturellen Highlights im Zentrum und bietet gleichzeitig Einblicke in die ländliche Umgebung. Der Tag ist entspannt gestaltet, mit genügend Zeit für kulinarische Entdeckungen.",
         "hu": "Használja a helyi buszjáratokat Glavice és a szomszédos Sinj felfedezéséhez. Ez a túra a központ kulturális látnivalóira összpontosít, miközben betekintést nyújt a vidéki környezetbe is. A nap kényelmesen van kialakítva, elég időt hagyva a kulináris felfedezésekre.",
         "ro": "Utilizați legăturile locale de autobuz pentru a explora Glavice și orașul vecin Sinj. Acest tur se concentrează pe atracțiile culturale din centru și oferă, în același timp, o privire asupra împrejurimilor rurale. Ziua este concepută relaxat, cu suficient timp pentru descoperiri culinare.",
-        "en": "Use the local bus connections to explore Glavice and the neighboring town of Sinj. This tour focuses on the cultural highlights in the center while also offering a glimpse into the rural surroundings. The day is designed to be relaxed, with plenty of time for culinary discoveries."
+        "en": "Use the local bus connections to explore Glavice and the neighboring town of Sinj. This tour focuses on the cultural highlights in the center while also offering a glimpse into the rural surroundings. The day is designed to be relaxed, with plenty of time for culinary discoveries.",
+        "hr": "Koristite lokalne autobusne veze za istraživanje Glavica i susjednog grada Sinja. Ova tura fokusira se na kulturne znamenitosti u centru, nudeći istovremeno uvid u ruralno okruženje. Dan je osmišljen opušteno, s dovoljno vremena za kulinarska otkrića."
       },
       "gastro_picks": {
         "de": [
@@ -1480,6 +1664,12 @@
           {
             "name": "Coffee in Sinj",
             "tip": "The coffee culture at the main square is vibrant."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Kava u Sinju",
+            "tip": "Kultura ispijanja kave na glavnom trgu je vrlo živa."
           }
         ]
       },
@@ -1511,6 +1701,13 @@
             "tip": "Quiet park in the city center.",
             "emoji": "🌳"
           }
+        ],
+        "hr": [
+          {
+            "name": "Gradski park u Sinju",
+            "tip": "Mirni park u centru grada.",
+            "emoji": "🌳"
+          }
         ]
       },
       "shopping_picks": {
@@ -1537,6 +1734,12 @@
             "name": "Bakery",
             "tip": "Fresh bread and pastries for the way."
           }
+        ],
+        "hr": [
+          {
+            "name": "Pekara",
+            "tip": "Svježi kruh i peciva za put."
+          }
         ]
       },
       "tips": {
@@ -1555,6 +1758,10 @@
         "en": [
           "Check the current bus schedule.",
           "Have small change ready for the bus driver."
+        ],
+        "hr": [
+          "Provjerite aktualni vozni red autobusa.",
+          "Pripremite sitan novac za vozača."
         ]
       },
       "variants": {
@@ -1563,7 +1770,8 @@
             "de": "Mit dem Bus erreichen wir Glavice auch bei Regen gut. Der Vormittag gehört der Kirche, bevor uns der Transit nach Sinj bringt, wo wir im Trockenen zu Mittag essen. Nachmittags erkunden wir den Rand des Polje, wobei wir die Busfahrpläne für kurze Aufwärmpausen nutzen. Die Rückreise erfolgt am späten Nachmittag.",
             "hu": "Busszal esőben is könnyen elérhető Glavice. A délelőttöt a templomnál töltjük, majd busszal Sinjbe utazunk egy kellemes ebédre. Délután a mező szélét fedezzük fel, a buszmenetrendet használva rövid melegedőkre. A nap végén busszal térünk vissza a szállásra.",
             "ro": "Cu autobuzul ajungem ușor în Glavice chiar și pe ploaie. Dimineața e dedicată bisericii, apoi mergem cu tranzitul în Sinj pentru prânz. După-amiaza explorăm marginea câmpiei, folosind orarul autobuzelor pentru pauze. Revenim cu autobuzul spre seară.",
-            "en": "Public transport makes Glavice accessible even in the rain. Start at the church, then take the bus to Sinj for a cozy lunch. Spend the afternoon exploring the edge of the fields, using bus stops as temporary shelters. Return by bus in the late afternoon."
+            "en": "Public transport makes Glavice accessible even in the rain. Start at the church, then take the bus to Sinj for a cozy lunch. Spend the afternoon exploring the edge of the fields, using bus stops as temporary shelters. Return by bus in the late afternoon.",
+            "hr": "Javni prijevoz čini Glavice dostupnima čak i po kiši. Počnite kod crkve, a zatim idite autobusom do Sinja na ugodan ručak. Poslijepodne provedite istražujući rub polja, koristeći autobusne stanice kao privremena skloništa. Vratite se autobusom kasno poslijepodne."
           },
           "stops": [
             {
@@ -1572,7 +1780,8 @@
                 "de": "Überdachte Bushaltestelle suchen.",
                 "hu": "Keress fedett buszmegállót.",
                 "ro": "Căutați o stație acoperită.",
-                "en": "Look for a sheltered bus stop."
+                "en": "Look for a sheltered bus stop.",
+                "hr": "Potražite natkrivenu stanicu."
               }
             },
             {
@@ -1581,7 +1790,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle.",
                 "hu": "Rövid séta a megállótól.",
                 "ro": "Drum scurt de la stație.",
-                "en": "Short walk from the bus stop."
+                "en": "Short walk from the bus stop.",
+                "hr": "Kratka šetnja od autobusne stanice."
               }
             },
             {
@@ -1590,7 +1800,8 @@
                 "de": "Fahrplan online vorab prüfen.",
                 "hu": "Ellenőrizd előre a menetrendet.",
                 "ro": "Verificați orarul online în prealabil.",
-                "en": "Check the schedule online beforehand."
+                "en": "Check the schedule online beforehand.",
+                "hr": "Prethodno provjerite vozni red online."
               }
             },
             {
@@ -1599,7 +1810,8 @@
                 "de": "Nahe der Busstation einkehren.",
                 "hu": "Ebédelj a buszmegálló közelében.",
                 "ro": "Mâncați aproape de autogară.",
-                "en": "Dine near the bus station."
+                "en": "Dine near the bus station.",
+                "hr": "Ručajte u blizini autobusnog kolodvora."
               }
             },
             {
@@ -1608,7 +1820,8 @@
                 "de": "Weg zur Haltestelle im Blick behalten.",
                 "hu": "Figyeld a távolságot a megállótól.",
                 "ro": "Atenție la distanța până la stație.",
-                "en": "Keep an eye on the distance to the stop."
+                "en": "Keep an eye on the distance to the stop.",
+                "hr": "Pripazite na udaljenost do stanice."
               }
             },
             {
@@ -1617,7 +1830,8 @@
                 "de": "Pünktlich an der Haltestelle sein.",
                 "hu": "Légy pontosan a megállóban.",
                 "ro": "Fiți punctuali în stație.",
-                "en": "Be punctual at the bus stop."
+                "en": "Be punctual at the bus stop.",
+                "hr": "Budite točni na stanici."
               }
             }
           ],
@@ -1645,6 +1859,12 @@
               "Have small change ready for the ticket.",
               "Bus frequency may be lower on weekends.",
               "Stay in Sinj cafes during heavy downpours."
+            ],
+            "hr": [
+              "Koristite mobilnu aplikaciju za informacije o busu u stvarnom vremenu.",
+              "Pripremite sitan novac za kartu.",
+              "Učestalost autobusa može biti manja vikendom.",
+              "Ostanite u sinjskim kafićima tijekom jakih pljuskova."
             ]
           }
         },
@@ -1653,7 +1873,8 @@
             "de": "Der Winter-Transit zwischen Glavice und Sinj ist verlässlich. Nach dem morgendlichen Kirchenbesuch bringt uns der Bus schnell ins warme Zentrum von Sinj. Ein kräftiges Mittagessen stärkt uns für den winterlichen Spaziergang am Polje-Rand. Die Rückfahrt erfolgt, bevor es ganz dunkel wird.",
             "hu": "A téli buszközlekedés megbízható Glavice és Sinj között. A reggeli templomlátogatás után a busz gyorsan bevisz Sinj meleg központjába. Egy kiadós ebéd után teszünk egy sétát a mező szélén, majd még sötétedés előtt visszautazunk.",
             "ro": "Tranzitul de iarnă între Glavice și Sinj este fiabil. După vizita la biserică, autobuzul ne duce rapid în centrul cald al orașului Sinj. Un prânz copios ne dă energie pentru plimbarea pe câmpie. Revenim înainte de lăsarea întunericului.",
-            "en": "Winter transit between Glavice and Sinj is reliable. After the morning church visit, hop on the bus to the warm center of Sinj. Following a hearty lunch, take a crisp walk at the edge of the fields. Head back before the early winter darkness sets in."
+            "en": "Winter transit between Glavice and Sinj is reliable. After the morning church visit, hop on the bus to the warm center of Sinj. Following a hearty lunch, take a crisp walk at the edge of the fields. Head back before the early winter darkness sets in.",
+            "hr": "Zimski prijevoz između Glavica i Sinja je pouzdan. Nakon jutarnjeg posjeta crkvi, uskočite u autobus do toplog centra Sinja. Nakon krepkog ručka, prošećite rubom polja na svježem zraku. Krenite natrag prije ranog zimskog mraka."
           },
           "stops": [
             {
@@ -1662,7 +1883,8 @@
                 "de": "Windgeschützte Stelle zum Warten.",
                 "hu": "Szélvédett helyet keress a várakozáshoz.",
                 "ro": "Căutați un loc ferit de vânt.",
-                "en": "Find a wind-sheltered spot to wait."
+                "en": "Find a wind-sheltered spot to wait.",
+                "hr": "Pronađite mjesto zaklonjeno od vjetra za čekanje."
               }
             },
             {
@@ -1671,7 +1893,8 @@
                 "de": "Kleiden Sie sich warm für den Weg.",
                 "hu": "Öltözz melegen a sétához.",
                 "ro": "Îmbrăcați-vă gros pentru drum.",
-                "en": "Dress warmly for the walk."
+                "en": "Dress warmly for the walk.",
+                "hr": "Odjenite se toplo za šetnju."
               }
             },
             {
@@ -1680,7 +1903,8 @@
                 "de": "Beheizte Busse genießen.",
                 "hu": "Élvezd a fűtött buszt.",
                 "ro": "Bucurați-vă de căldura din autobuz.",
-                "en": "Enjoy the heated buses."
+                "en": "Enjoy the heated buses.",
+                "hr": "Uživajte u grijanim autobusima."
               }
             },
             {
@@ -1689,7 +1913,8 @@
                 "de": "Reservieren Sie einen Tisch drinnen.",
                 "hu": "Foglalj asztalt bentre.",
                 "ro": "Rezervați o masă la interior.",
-                "en": "Reserve a table indoors."
+                "en": "Reserve a table indoors.",
+                "hr": "Rezervirajte stol u zatvorenom."
               }
             },
             {
@@ -1698,7 +1923,8 @@
                 "de": "Rückfahrt rechtzeitig planen.",
                 "hu": "Tervezd meg időben a visszautat.",
                 "ro": "Planificați returul din timp.",
-                "en": "Plan your return trip early."
+                "en": "Plan your return trip early.",
+                "hr": "Planirajte povratak ranije."
               }
             },
             {
@@ -1707,7 +1933,8 @@
                 "de": "Letzte Busse vor dem Abend nutzen.",
                 "hu": "Használd az utolsó esti buszokat.",
                 "ro": "Luați ultimele autobuze de seară.",
-                "en": "Take the last buses before dark."
+                "en": "Take the last buses before dark.",
+                "hr": "Uhvatite zadnje autobuse prije mraka."
               }
             }
           ],
@@ -1735,6 +1962,12 @@
               "Wait in heated indoor areas if possible.",
               "Wear reflective gear in the early darkness.",
               "Check special holiday schedules during winter."
+            ],
+            "hr": [
+              "Budite spremni na kašnjenja zbog vremenskih uvjeta.",
+              "Čekajte u grijanim zatvorenim prostorima ako je moguće.",
+              "Nosite reflektirajuću opremu kad padne rani mrak.",
+              "Provjerite posebne blagdanske vozne redove zimi."
             ]
           }
         }

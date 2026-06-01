@@ -31,7 +31,8 @@
             "de": "Anlegestelle für Wassertaxis von Hvar.",
             "hu": "A Hvarról érkező vízitaxik kikötője.",
             "ro": "Locul de acostare pentru taxiurile pe apă din Hvar.",
-            "en": "The landing point for water taxis from Hvar."
+            "en": "The landing point for water taxis from Hvar.",
+            "hr": "Mjesto pristajanja taxi brodova iz Hvara."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Exotische Pflanzenwelt und Kunstgalerie im Freien.",
             "hu": "Egzotikus növényvilág és szabadtéri galéria.",
             "ro": "Floră exotică și galerie de artă în aer liber.",
-            "en": "Exotic plant life and open-air art gallery."
+            "en": "Exotic plant life and open-air art gallery.",
+            "hr": "Egzotično bilje i umjetnička galerija na otvorenom."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Türkisfarbenes Wasser, ideal zum Schnorcheln.",
             "hu": "Türkizkék víz, ideális búvárkodáshoz.",
             "ro": "Apă turcoaz, ideală pentru snorkeling.",
-            "en": "Turquoise water, ideal for snorkeling."
+            "en": "Turquoise water, ideal for snorkeling.",
+            "hr": "Tirkizno more, idealno za ronjenje s maskom."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Kleine Votivkirche inmitten von Pinien.",
             "hu": "Kicsi fogadalmi templom fenyőfák között.",
             "ro": "Mică biserică votivă printre pini.",
-            "en": "Small votive church amidst pine trees."
+            "en": "Small votive church amidst pine trees.",
+            "hr": "Mala zavjetna crkva usred borove šume."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ruhigere Alternative mit feinem Kies.",
             "hu": "Csendesebb alternatíva finom kaviccsal.",
             "ro": "Alternativă mai liniștită cu pietriș fin.",
-            "en": "Quieter alternative with fine pebbles."
+            "en": "Quieter alternative with fine pebbles.",
+            "hr": "Mirnija alternativa s finim šljunkom."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Ihr Tag beginnt am geschäftigen Jachthafen von Palmižana, dem Tor zu diesem idyllischen Archipel. Ein kurzer Spaziergang führt Sie in den Botanischen Garten der Familie Meneghello, wo Kunst und exotische Flora verschmelzen. Mittags lockt das kristallklare Wasser der Bucht Vinogradišće zum Baden und Entspannen in exklusiven Beach-Clubs.\n\nAm Nachmittag wandern Sie auf schattigen Pfaden zur einsamen Kapelle des Heiligen Klemens, einem Ort der Stille. Den Ausklang finden Sie in der malerischen Mlini-Bucht, bevor Sie das Boot zurück in den Trubel von Hvar nehmen. Ein perfekter Mix aus Naturgenuss und mediterranem Lifestyle.",
         "hu": "A nap a nyüzsgő Palmižana marinában kezdődik, amely az idilli szigetvilág kapuja. Rövid séta után a Meneghello család botanikus kertjében találja magát, ahol a művészet és az egzotikus növényvilág találkozik. Délben a Vinogradišće-öböl kristálytiszta vize csábít fürdőzésre és pihenésre az exkluzív strandklubokban.\n\nDélután árnyas ösvényeken túrázhat a Szent Kelemen-kápolnához, amely a nyugalom szigete. A napot a festői Mlini-öbölben zárhatja, mielőtt hajóval visszatérne Hvar lüktetésébe. A természet közelsége és a mediterrán életérzés tökéletes egyvelege ez a nap.",
         "ro": "Ziua începe în marina plină de viață Palmižana, poarta către acest arhipelag idilic. O scurtă plimbare vă duce în Grădina Botanică a familiei Meneghello, unde arta și flora exotică se contopesc. La prânz, apa cristalină a golfului Vinogradišće vă invită la baie și relaxare în beach-cluburi exclusiviste.\n\nDupă-amiaza, parcurgeți cărări umbrite până la capela Sfântul Clement, un loc de liniște profundă. Încheiați ziua în pitorescul golf Mlini, înainte de a lua barca înapoi spre agitația din Hvar. Un mix perfect între plăcerea naturii și stilul de viață mediteranean.",
-        "en": "Your day starts at the bustling Palmižana marina, the gateway to this idyllic archipelago. A short walk leads you into the Meneghello family's botanical garden, where art and exotic flora merge. At noon, the crystal-clear water of Vinogradišće Bay invites you for a swim and relaxation in exclusive beach clubs.\n\nIn the afternoon, hike along shaded paths to the secluded chapel of Saint Clement, a place of profound silence. End your day at the picturesque Mlini Bay before taking the boat back to the buzz of Hvar. A perfect blend of natural beauty and Mediterranean lifestyle."
+        "en": "Your day starts at the bustling Palmižana marina, the gateway to this idyllic archipelago. A short walk leads you into the Meneghello family's botanical garden, where art and exotic flora merge. At noon, the crystal-clear water of Vinogradišće Bay invites you for a swim and relaxation in exclusive beach clubs.\n\nIn the afternoon, hike along shaded paths to the secluded chapel of Saint Clement, a place of profound silence. End your day at the picturesque Mlini Bay before taking the boat back to the buzz of Hvar. A perfect blend of natural beauty and Mediterranean lifestyle.",
+        "hr": "Vaš dan počinje u užurbanoj marini Palmižana, vratima ovog idiličnog arhipelaga. Kratka šetnja vodi vas u botanički vrt obitelji Meneghello, gdje se spajaju umjetnost i egzotična flora. U podne vas kristalno čisto more uvale Vinogradišće poziva na kupanje i opuštanje u ekskluzivnim beach klubovima.\n\nPoslijepodne pješačite zasjenjenim stazama do osamljene crkvice Svetog Klementa, mjesta duboke tišine. Završite dan u slikovitoj uvali Mlini prije povratka brodom u hvarsku vrevu. Savršen spoj prirodne ljepote i mediteranskog načina života."
       },
       "gastro_picks": {
         "de": [
@@ -152,6 +158,16 @@
           {
             "name": "Laganini Lounge Bar",
             "tip": "Grilled octopus and creative cocktails by the sea."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Toto's Palmižana",
+            "tip": "Svježa riba i domaća tjestenina u okruženju zelenila."
+          },
+          {
+            "name": "Laganini Lounge Bar",
+            "tip": "Hobotnica s roštilja i kreativni kokteli uz more."
           }
         ]
       },
@@ -203,6 +219,18 @@
             "tip": "Silent retreat in the forest.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Skriveni kutci vrta Meneghello",
+            "tip": "Skrivene klupe među kaktusima.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Crkvica sv. Klementa",
+            "tip": "Tiho utočište u šumi.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -229,6 +257,12 @@
             "name": "Meneghello Art Gallery",
             "tip": "Local art and ceramics."
           }
+        ],
+        "hr": [
+          {
+            "name": "Art galerija Meneghello",
+            "tip": "Lokalna umjetnost i keramika."
+          }
         ]
       },
       "tips": {
@@ -251,6 +285,11 @@
           "Wear sturdy shoes as the paths are often rocky.",
           "Book water taxis for the return trip in advance.",
           "Sun protection is essential in the open bays."
+        ],
+        "hr": [
+          "Nosite čvrstu obuću jer su staze često stjenovite.",
+          "Unaprijed rezervirajte taxi brod za povratak.",
+          "Zaštita od sunca je neophodna u otvorenim uvalama."
         ]
       },
       "variants": {
@@ -454,7 +493,8 @@
             "de": "Der Tag beginnt an der Marina, wo der Regen auf die Masten trommelt. Ein Spaziergang zum Botanischen Garten bietet unter dichten Pinien Schutz. Mittags suchen wir Zuflucht in der Vinogradišće-Bucht, während der Regen das Meer glättet. Nachmittags bietet die kleine Klemens-Kirche einen ruhigen, trockenen Ort, bevor wir in Mlini den dramatischen Himmel über der Adria beobachten.",
             "hu": "A nap a kikötőben indul, ahol az eső kopog az árbocokon. A botanikus kert sűrű fenyvesei természetes ernyőt nyújtanak. Délben a Vinogradišće-öböl fedett teraszai alatt figyeljük a tengert. Délután a Szent Kelemen-templom ad csendes menedéket a zápor elől, majd a Mlini-öbölnél a viharos, drámai tenger látványával zárjuk a sétát a friss, sós levegőn.",
             "ro": "Ziua începe în marină, cu sunetul ploii pe catarge. O plimbare spre grădina botanică oferă adăpost sub pinii deși. La prânz, ne refugiem în golful Vinogradišće, privind marea sub ploaie. După-amiaza, biserica Sf. Clement oferă un loc liniștit și uscat, iar în golful Mlini încheiem ziua admirând cerul dramatic deasupra Adriaticii, protejați de echipamentul impermeabil.",
-            "en": "The day begins at the marina with the sound of rain on the masts. A walk to the botanical garden provides shelter under dense pines. At noon, we find refuge in Vinogradišće Bay, watching the rain smooth the sea. Afternoon brings us to St. Clement's Church for a quiet, dry retreat, before ending at Mlini Bay, where the dramatic stormy sky creates a unique Adriatic atmosphere."
+            "en": "The day begins at the marina with the sound of rain on the masts. A walk to the botanical garden provides shelter under dense pines. At noon, we find refuge in Vinogradišće Bay, watching the rain smooth the sea. Afternoon brings us to St. Clement's Church for a quiet, dry retreat, before ending at Mlini Bay, where the dramatic stormy sky creates a unique Adriatic atmosphere.",
+            "hr": "Dan počinje u marini uz zvuk kiše na jarbolima. Šetnja do botaničkog vrta pruža zaklon pod gustim borovima. U podne nalazimo utočište u uvali Vinogradišće, promatrajući kako kiša smiruje more. Poslijepodne nas vodi do crkve sv. Klementa za tiho i suho povlačenje, prije završetka u uvali Mlini, gdje dramatično olujno nebo stvara jedinstven jadranski ugođaj."
           },
           "stops": [
             {
@@ -463,7 +503,8 @@
                 "de": "Das Büro der Marina bietet Schutz und aktuelle Wetterberichte für den Tag.",
                 "hu": "A kikötői iroda jó menedék és pontos időjárási infókat kaphatunk.",
                 "ro": "Biroul marinei oferă adăpost și prognoze meteo actualizate pentru zi.",
-                "en": "The marina office provides shelter and up-to-date weather forecasts."
+                "en": "The marina office provides shelter and up-to-date weather forecasts.",
+                "hr": "Ured marine pruža zaklon i najnovije vremenske prognoze."
               }
             },
             {
@@ -472,7 +513,8 @@
                 "de": "Dichte Pinienkronen wirken wie ein natürlicher Regenschirm beim Wandern.",
                 "hu": "A sűrű fenyőágak természetes esernyőként védenek a séta közben.",
                 "ro": "Coroanele dese de pini acționează ca o umbrelă naturală în timpul plimbării.",
-                "en": "Dense pine canopies act as a natural umbrella while walking."
+                "en": "Dense pine canopies act as a natural umbrella while walking.",
+                "hr": "Guste krošnje borova služe kao prirodni kišobran tijekom šetnje."
               }
             },
             {
@@ -481,7 +523,8 @@
                 "de": "Die überdachten Terrassen der Restaurants bieten einen tollen Blick auf den Regen.",
                 "hu": "Az éttermek fedett teraszairól pazar kilátás nyílik az esős öbölre.",
                 "ro": "Terasele acoperite ale restaurantelor oferă o vedere excelentă spre golf.",
-                "en": "Covered restaurant terraces offer great views of the rainy bay."
+                "en": "Covered restaurant terraces offer great views of the rainy bay.",
+                "hr": "Natkrivene terase restorana nude prekrasan pogled na kišnu uvalu."
               }
             },
             {
@@ -490,7 +533,8 @@
                 "de": "Ein idealer, trockener Ort für eine kurze Meditation während eines Schauers.",
                 "hu": "Ideális, száraz hely egy rövid elmélkedésre egy-egy zápor idején.",
                 "ro": "Un loc uscat ideal pentru o scurtă meditație în timpul unei averse.",
-                "en": "An ideal, dry place for a short meditation during a downpour."
+                "en": "An ideal, dry place for a short meditation during a downpour.",
+                "hr": "Idealno, suho mjesto za kratku meditaciju tijekom pljuska."
               }
             },
             {
@@ -499,7 +543,8 @@
                 "de": "Vorsicht auf den nassen Steinen am Ufer; feste Sohlen sind hier wichtig.",
                 "hu": "Vigyázat a vizes köveken a parton; a csúszásmentes talp itt elengedhetetlen.",
                 "ro": "Atenție pe pietrele ude de la mal; talpa aderentă este esențială aici.",
-                "en": "Careful on the wet rocks by the shore; non-slip soles are essential here."
+                "en": "Careful on the wet rocks by the shore; non-slip soles are essential here.",
+                "hr": "Oprezno na mokrim stijenama uz obalu; neklizajući potplati su ovdje neophodni."
               }
             }
           ],
@@ -531,6 +576,13 @@
               "Restaurants in Vinogradišće are good spots for longer breaks during rain.",
               "Pack your camera in a waterproof bag for dramatic seaside photos.",
               "Check water taxi schedules, as they may vary during heavy rainfall."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću za pješačenje jer šumske staze mogu postati blatnjave.",
+              "Koristite gustu vegetaciju kao prirodni zaklon od vjetra i pljuskova.",
+              "Restorani u Vinogradišću su dobra mjesta za duže pauze tijekom kiše.",
+              "Spakirajte fotoaparat u vodootpornu torbu za dramatične fotografije obale.",
+              "Provjerite raspored taxi brodova jer može varirati tijekom jake kiše."
             ]
           }
         },
@@ -539,7 +591,8 @@
             "de": "Im Winter herrscht in der Marina eine magische Stille. Der Botanische Garten zeigt seine immergrüne Struktur unter der tiefstehenden Sonne. Mittags genießen wir die milde Wärme in der geschützten Vinogradišće-Bucht. Nachmittags besuchen wir die einsame Klemens-Kirche, bevor wir in Mlini den frühen, spektakulären Sonnenuntergang über den einsamen Inseln erleben.",
             "hu": "Télen a kikötőben mágikus csend fogad. A botanikus kert az örökzöldekkel a gyenge napsütésben is gyönyörű. Délben a szélvédett Vinogradišće-öbölben élvezzük a tenger morajlását. Délután felkeressük az elhagyatott Szent Kelemen-templomot, majd Mlini-nél megnézzük a korai, látványos naplementét a kihalt szigetek felett.",
             "ro": "Iarna, în marină domnește o liniște magică. Grădina botanică își arată structura mereu verde sub soarele palid. La prânz, ne bucurăm de căldura blândă în golful adăpostit Vinogradišće. După-amiaza vizităm biserica solitară Sf. Clement, iar în golful Mlini admirăm apusul spectaculos și timpuriu peste insulele pustii.",
-            "en": "In winter, a magical silence greets you at the marina. The botanical garden shows its evergreen structure under the low winter sun. At noon, enjoy the mild warmth in the sheltered Vinogradišće Bay. Afternoon visits the lonely St. Clement's Church, before experiencing the early, spectacular sunset over the deserted islands at Mlini Bay."
+            "en": "In winter, a magical silence greets you at the marina. The botanical garden shows its evergreen structure under the low winter sun. At noon, enjoy the mild warmth in the sheltered Vinogradišće Bay. Afternoon visits the lonely St. Clement's Church, before experiencing the early, spectacular sunset over the deserted islands at Mlini Bay.",
+            "hr": "Zimi vas u marini dočekuje magična tišina. Botanički vrt pokazuje svoju zimzelenu strukturu pod niskim zimskim suncem. U podne uživajte u blagoj toplini u zaštićenoj uvali Vinogradišće. Poslijepodne posjetite usamljenu crkvu sv. Klementa, prije nego što doživite rani, spektakularni zalazak sunca nad pustim otocima u uvali Mlini."
           },
           "stops": [
             {
@@ -548,7 +601,8 @@
                 "de": "Warme Kleidung ist wichtig, da der Wind in der Marina kühl sein kann.",
                 "hu": "Meleg öltözet ajánlott, mert a kikötőben a szél hűvös lehet.",
                 "ro": "Hainele groase sunt importante, deoarece vântul în marină poate fi rece.",
-                "en": "Warm clothing is important as the wind in the marina can be chilly."
+                "en": "Warm clothing is important as the wind in the marina can be chilly.",
+                "hr": "Topla odjeća je važna jer vjetar u marini može biti hladan."
               }
             },
             {
@@ -557,7 +611,8 @@
                 "de": "Die Exoten sind auch im Winter grün; ideal für ruhige Naturbeobachtungen.",
                 "hu": "Az egzotikus növények télen is zöldellnek; ideális csendes megfigyeléshez.",
                 "ro": "Plantele exotice sunt verzi și iarna; ideal pentru observarea naturii.",
-                "en": "Exotic plants stay green in winter; ideal for quiet nature watching."
+                "en": "Exotic plants stay green in winter; ideal for quiet nature watching.",
+                "hr": "Egzotične biljke ostaju zelene i zimi; idealno za mirno promatranje prirode."
               }
             },
             {
@@ -566,7 +621,8 @@
                 "de": "Suchen Sie sich einen sonnigen, windgeschützten Platz an den Felsen.",
                 "hu": "Keressen egy napsütötte, szélvédett helyet a sziklák mentén.",
                 "ro": "Căutați un loc însorit și ferit de vânt de-a lungul stâncilor.",
-                "en": "Look for a sunny, wind-sheltered spot along the rocks."
+                "en": "Look for a sunny, wind-sheltered spot along the rocks.",
+                "hr": "Potražite sunčano mjesto zaklonjeno od vjetra uz stijene."
               }
             },
             {
@@ -575,7 +631,8 @@
                 "de": "Die dicken Steinmauern halten die Kälte draußen; ein Ort der Besinnung.",
                 "hu": "A vastag kőfalak kint tartják a hideget; a csendes elmélyülés helye.",
                 "ro": "Zidurile groase de piatră țin frigul afară; un loc de reflecție.",
-                "en": "The thick stone walls keep the cold out; a place for reflection."
+                "en": "The thick stone walls keep the cold out; a place for reflection.",
+                "hr": "Debeli kameni zidovi zadržavaju hladnoću vani; mjesto za razmišljanje."
               }
             },
             {
@@ -584,7 +641,8 @@
                 "de": "Bringen Sie eine Thermoskanne mit; der Sonnenuntergang ist hier um 16:30 Uhr.",
                 "hu": "Hozzon termoszt; a naplemente itt már 16:30 körül elkezdődik.",
                 "ro": "Aduceți un termos; apusul începe aici în jur de ora 16:30.",
-                "en": "Bring a thermos; the sunset starts here around 16:30."
+                "en": "Bring a thermos; the sunset starts here around 16:30.",
+                "hr": "Ponesite termosicu; zalazak sunca ovdje počinje oko 16:30."
               }
             }
           ],
@@ -616,6 +674,13 @@
               "Many restaurants are closed in winter, take enough food and water with you.",
               "Layered clothing helps against the changing sea wind.",
               "Water taxis run less frequently; check the winter schedule in advance."
+            ],
+            "hr": [
+              "Sunce rano zalazi (oko 16:30), planirajte povratak na vrijeme.",
+              "Staze su puste; uživajte u miru, ali ostanite na označenim putovima.",
+              "Mnogi restorani su zimi zatvoreni, ponesite dovoljno hrane i vode sa sobom.",
+              "Slojevita odjeća pomaže protiv promjenjivog morskog vjetra.",
+              "Taxi brodovi voze rjeđe; unaprijed provjerite zimski red vožnje."
             ]
           }
         }
@@ -644,7 +709,8 @@
             "de": "Startpunkt für Erkundungen.",
             "hu": "Felfedező túrák kiindulópontja.",
             "ro": "Punctul de plecare pentru explorări.",
-            "en": "Starting point for explorations."
+            "en": "Starting point for explorations.",
+            "hr": "Početna točka za istraživanja."
           }
         },
         {
@@ -662,7 +728,8 @@
             "de": "Schöner Fotostopp am Wegrand.",
             "hu": "Szép fotómegálló az út mentén.",
             "ro": "Un loc frumos pentru fotografii pe drum.",
-            "en": "A beautiful photo stop along the way."
+            "en": "A beautiful photo stop along the way.",
+            "hr": "Prekrasno mjesto za fotografiranje usput."
           }
         },
         {
@@ -680,7 +747,8 @@
             "de": "Spuren der Antike direkt am Weinberg.",
             "hu": "Az antikvitás nyomai a szőlőskert mellett.",
             "ro": "Urme de antichitate chiar lângă podgorie.",
-            "en": "Traces of antiquity right next to the vineyard."
+            "en": "Traces of antiquity right next to the vineyard.",
+            "hr": "Tragovi antike odmah uz vinograd."
           }
         },
         {
@@ -698,7 +766,8 @@
             "de": "Idyllischer Ort zum Abkühlen.",
             "hu": "Idilli hely a hűsölésre.",
             "ro": "Loc idilic pentru răcorire.",
-            "en": "Idyllic spot to cool off."
+            "en": "Idyllic spot to cool off.",
+            "hr": "Idilično mjesto za osvježenje."
           }
         },
         {
@@ -716,7 +785,8 @@
             "de": "Belohnung am Ende der Tour.",
             "hu": "Jutalom a túra végén.",
             "ro": "Răsplata la finalul turului.",
-            "en": "Reward at the end of the tour."
+            "en": "Reward at the end of the tour.",
+            "hr": "Nagrada na kraju ture."
           }
         }
       ],
@@ -724,7 +794,8 @@
         "de": "Diese Route führt Sie auf dem Fahrrad (oder zu Fuß bei anspruchsvollem Gelände) tiefer in die Inselwelt der Pakleni-Inseln. Von der Marina geht es vorbei an der einsamen Klemens-Kirche bis zum westlichen Ende nach Vlaka. Hier entdecken Sie römische Villenruinen inmitten von Weinbergen und Olivenhainen.\n\nNach der Kultur folgt die Natur in der Zdrilca-Bucht, bevor Sie rechtzeitig zur goldenen Stunde wieder in Palmižana ankommen. Eine Tour für Abenteurer, die mehr als nur den Strand sehen wollen.",
         "hu": "Ez az útvonal kerékpárral (vagy gyalog nehezebb terepen) a Pakleni-szigetek mélyére vezeti Önt. A marinától a magányos Szent Kelemen-templom mellett elhaladva a nyugati végéig, Vlakáig tekerhet. Itt római villák romjait fedezheti fel szőlőültetvények és olajfaligetek között.\n\nA kultúra után a természet következik a Zdrilca-öbölben, mielőtt az aranyórában visszatérne Palmižanába. Túra kalandoroknak, akik többet akarnak látni a strandnál.",
         "ro": "Acest traseu vă poartă cu bicicleta (sau pe jos pe teren accidentat) mai adânc în arhipelagul insulelor Pakleni. De la marină treceți pe lângă biserica izolată Sf. Clement până în capătul vestic, la Vlaka. Aici descoperiți ruinele vilelor romane printre podgorii și livezi de măslini.\n\nDupă cultură urmează natura în golful Zdrilca, înainte de a reveni la Palmižana la ora de aur. Un tur pentru aventurieri care doresc să vadă mai mult decât plaja.",
-        "en": "This route takes you on a bike (or hike on challenging terrain) deeper into the Pakleni Islands. From the marina, pass the lonely St. Clement church to the western end at Vlaka. Here you discover Roman villa ruins amidst vineyards and olive groves.\n\nAfter culture comes nature at Zdrilca Bay, before returning to Palmižana just in time for the golden hour. A tour for adventurers wanting to see more than just the beach."
+        "en": "This route takes you on a bike (or hike on challenging terrain) deeper into the Pakleni Islands. From the marina, pass the lonely St. Clement church to the western end at Vlaka. Here you discover Roman villa ruins amidst vineyards and olive groves.\n\nAfter culture comes nature at Zdrilca Bay, before returning to Palmižana just in time for the golden hour. A tour for adventurers wanting to see more than just the beach.",
+        "hr": "Ova ruta vodi vas biciklom (ili pješačenjem po zahtjevnom terenu) dublje u Paklene otoke. Iz marine prođite pored usamljene crkve sv. Klementa do zapadnog kraja u Vlaki. Ovdje ćete otkriti ostatke rimske vile usred vinograda i maslinika.\n\nNakon kulture dolazi priroda u uvali Ždrilca, prije povratka na Palmižanu točno na vrijeme za 'zlatni sat'. Tura za avanturiste koji žele vidjeti više od same plaže."
       },
       "gastro_picks": {
         "de": [
@@ -749,6 +820,12 @@
           {
             "name": "Konoba Dionis",
             "tip": "Rustic dining in Vlaka, famous for Peka."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Dionis",
+            "tip": "Rustikalna večera u Vlaki, poznata po peki."
           }
         ]
       },
@@ -780,6 +857,13 @@
             "tip": "Absolute silence at the island's end.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vinogradi Vlaka",
+            "tip": "Apsolutna tišina na samom kraju otoka.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -806,6 +890,12 @@
             "name": "Vlaka Local Market",
             "tip": "Local honey and olive oil."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica Vlaka",
+            "tip": "Domaći med i maslinovo ulje."
+          }
         ]
       },
       "tips": {
@@ -824,6 +914,10 @@
         "en": [
           "Paths are often gravel, mountain bikes recommended.",
           "Vlaka is very secluded, bring enough water."
+        ],
+        "hr": [
+          "Staze su često makadamske, preporučuju se brdski bicikli.",
+          "Vlaka je vrlo osamljena, ponesite dovoljno vode."
         ]
       },
       "variants": {
@@ -987,7 +1081,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den Pfaden ab der Marina. Zur Klemens-Kirche führt ein nasser, aber befestigter Weg. Die Ruinen in Vlaka wirken im Nebel mystisch. In der Zdrilca-Bucht machen wir eine Pause, bevor wir zurück nach Vinogradišće fahren, wo die salzige Luft und der Regen das Erlebnis intensivieren.",
             "hu": "Az esős bringázás óvatosságot igényel a kikötőtől induló ösvényeken. A Szent Kelemen-templomhoz vizes, de stabil út vezet. Vlaka római romjai misztikusnak tűnnek a ködben. A Zdrilca-öbölben tartunk pihenőt, majd visszatekerünk Vinogradišćébe, ahol a sós pára és az eső teszi teljessé az élményt.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe potecile din marină. Spre biserica Sf. Clement duce un drum ud, dar stabil. Ruinele din Vlaka par mistice în ceață. În golful Zdrilca facem o pauză, înainte de a reveni la Vinogradišće, unde aerul sărat și ploaia intensifică experiența.",
-            "en": "Biking in the rain requires caution on the paths starting from the marina. A wet but solid path leads to St. Clement's Church. The ruins in Vlaka look mystical in the fog. We take a break in Zdrilca Bay before heading back to Vinogradišće, where the salty air and rain intensify the experience."
+            "en": "Biking in the rain requires caution on the paths starting from the marina. A wet but solid path leads to St. Clement's Church. The ruins in Vlaka look mystical in the fog. We take a break in Zdrilca Bay before heading back to Vinogradišće, where the salty air and rain intensify the experience.",
+            "hr": "Bicikliranje na kiši zahtijeva oprez na stazama koje kreću iz marine. Mokra, ali čvrsta staza vodi do crkve sv. Klementa. Ruševine u Vlaki izgledaju mistično u magli. Radimo pauzu u uvali Ždrilca prije povratka u Vinogradišće, gdje slani zrak i kiša pojačavaju doživljaj."
           },
           "stops": [
             {
@@ -996,7 +1091,8 @@
                 "de": "Prüfen Sie Ihre Bremsen; nasse Wege können rutschig sein.",
                 "hu": "Ellenőrizze a fékeket; a vizes utak csúszósak lehetnek.",
                 "ro": "Verificați frânele; drumurile ude pot fi alunecoase.",
-                "en": "Check your brakes; wet paths can be slippery."
+                "en": "Check your brakes; wet paths can be slippery.",
+                "hr": "Provjerite kočnice; mokre staze mogu biti skliske."
               }
             },
             {
@@ -1005,7 +1101,8 @@
                 "de": "Der Vorplatz bietet Schutz zum Abstellen der Räder während eines Gusses.",
                 "hu": "A templom előtere védett helyet kínál a bringák tárolására egy zápor alatt.",
                 "ro": "Curtea oferă protecție pentru a lăsa bicicletele în timpul unei averse.",
-                "en": "The church courtyard offers shelter for parking bikes during a downpour."
+                "en": "The church courtyard offers shelter for parking bikes during a downpour.",
+                "hr": "Dvorište crkve nudi zaklon za parkiranje bicikala tijekom pljuska."
               }
             },
             {
@@ -1014,7 +1111,8 @@
                 "de": "Vermeiden Sie das Fahren direkt auf den alten Steinen; Sturzgefahr bei Nässe.",
                 "hu": "Ne hajtson közvetlenül a régi kövekre; nedvesen nagyon csúsznak.",
                 "ro": "Evitați să pedalați direct pe pietrele vechi; risc de cădere pe umezeală.",
-                "en": "Avoid biking directly on the old stones; fall risk when wet."
+                "en": "Avoid biking directly on the old stones; fall risk when wet.",
+                "hr": "Izbjegavajte vožnju izravno preko starog kamenja; opasnost od pada kad je mokro."
               }
             },
             {
@@ -1023,7 +1121,8 @@
                 "de": "Ein geschützter Ort am Wasser, um die Regenkleidung kurz zu lüften.",
                 "hu": "Védett hely a vízparton, ahol röviden átszellőztethetjük az esőruhát.",
                 "ro": "Un loc adăpostit la apă pentru a aerisi scurt echipamentul de ploaie.",
-                "en": "A sheltered spot by the water to briefly air out your rain gear."
+                "en": "A sheltered spot by the water to briefly air out your rain gear.",
+                "hr": "Zaklonjeno mjesto uz vodu za kratko prozračivanje kišne opreme."
               }
             },
             {
@@ -1032,7 +1131,8 @@
                 "de": "Das Ziel der Tour; trocknen Sie sich in einem der Cafés ab.",
                 "hu": "A túra célpontja; szárítkozzunk meg az egyik kávézóban.",
                 "ro": "Destinația turului; uscați-vă hainele într-una dintre cafenele.",
-                "en": "The tour's end; dry off in one of the local cafes."
+                "en": "The tour's end; dry off in one of the local cafes.",
+                "hr": "Kraj ture; osušite se u jednom od lokalnih kafića."
               }
             }
           ],
@@ -1064,6 +1164,13 @@
               "Fenders are highly recommended on island paths during rain.",
               "Wear glasses to protect your eyes from water splashes.",
               "The paths to Vlaka are challenging when wet, cycle slowly."
+            ],
+            "hr": [
+              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrim stazama.",
+              "Izbjegavajte nagla kočenja na stjenovitim dijelovima.",
+              "Blatobrani su toplo preporučljivi na otočkim stazama tijekom kiše.",
+              "Nosite naočale kako biste zaštitili oči od prskanja vode.",
+              "Staze do Vlake su izazovne kad su mokre, vozite polako."
             ]
           }
         },
@@ -1072,7 +1179,8 @@
             "de": "Winterliches Radfahren auf Palmižana ist purer Genuss ohne Menschenmassen. Von der Marina geht es zur einsamen Klemens-Kirche. In Vlaka erkunden wir die römischen Ruinen im klaren Winterlicht. Die Fahrt zur Zdrilca-Bucht ist erfrischend, und der Tag endet in Vinogradišće bei tiefstehender Sonne und kühler Meeresbrise.",
             "hu": "A téli bringázás Palmižanán tiszta élvezet a tömeg nélkül. A kikötőből a magányos Szent Kelemen-templomhoz tekerünk. Vlakában a tiszta téli fényben fedezzük fel a római romokat. A Zdrilca-öböl felé vezető út frissítő, a nap pedig Vinogradišćében zárul a lemenő nap sugarai és a hűvös tengeri szellő kíséretében.",
             "ro": "Ciclismul de iarnă în Palmižana este o plăcere pură fără mulțimi. De la marină mergem spre biserica solitară Sf. Clement. În Vlaka explorăm ruinele romane în lumina clară de iarnă. Drumul spre golful Zdrilca este revigorant, iar ziua se încheie în Vinogradišće sub soarele palid.",
-            "en": "Winter cycling on Palmižana is pure bliss without the crowds. From the marina, head to the lonely St. Clement's Church. In Vlaka, explore Roman ruins in the clear winter light. The ride to Zdrilca Bay is refreshing, and the day ends in Vinogradišće with the low sun and a cool sea breeze."
+            "en": "Winter cycling on Palmižana is pure bliss without the crowds. From the marina, head to the lonely St. Clement's Church. In Vlaka, explore Roman ruins in the clear winter light. The ride to Zdrilca Bay is refreshing, and the day ends in Vinogradišće with the low sun and a cool sea breeze.",
+            "hr": "Zimsko bicikliranje na Palmižani je čisti užitak bez gužve. Iz marine se uputite prema usamljenoj crkvi sv. Klementa. U Vlaki istražite rimske ruševine na čistom zimskom svjetlu. Vožnja do uvale Ždrilca je osvježavajuća, a dan završava u Vinogradišću uz nisko sunce i hladan morski povjetarac."
           },
           "stops": [
             {
@@ -1081,7 +1189,8 @@
                 "de": "Starten Sie spät am Vormittag, wenn die Sonne die Wege etwas gewärmt hat.",
                 "hu": "Késő délelőtt induljon, amikor a nap már kissé felmelegítette az utakat.",
                 "ro": "Porniți târziu dimineața, când soarele a încălzit puțin drumurile.",
-                "en": "Start late in the morning when the sun has warmed the paths a bit."
+                "en": "Start late in the morning when the sun has warmed the paths a bit.",
+                "hr": "Krenite kasno ujutro kada je sunce malo zagrijalo staze."
               }
             },
             {
@@ -1090,7 +1199,8 @@
                 "de": "Im Winter ein stiller Ort; ideal für eine Pause in der Sonne am Kircheneingang.",
                 "hu": "Télen csendes hely; ideális pihenőre a napon a templombejáratnál.",
                 "ro": "Un loc liniștit iarna; ideal pentru o pauză la soare lângă intrare.",
-                "en": "A quiet place in winter; ideal for a break in the sun near the entrance."
+                "en": "A quiet place in winter; ideal for a break in the sun near the entrance.",
+                "hr": "Mirno mjesto zimi; idealno za pauzu na suncu blizu ulaza."
               }
             },
             {
@@ -1099,7 +1209,8 @@
                 "de": "Die klare Sicht erlaubt weite Blicke über das Meer zu den Nachbarinseln.",
                 "hu": "A tiszta látási viszonyok távoli kilátást engednek a szomszédos szigetekre.",
                 "ro": "Vizibilitatea clară permite vederi panoramice spre insulele vecine.",
-                "en": "Clear visibility allows for far-reaching views across the sea to neighboring islands."
+                "en": "Clear visibility allows for far-reaching views across the sea to neighboring islands.",
+                "hr": "Čista vidljivost omogućuje dalekosežne poglede preko mora na susjedne otoke."
               }
             },
             {
@@ -1108,7 +1219,8 @@
                 "de": "Achten Sie auf kühle Böen; die Bucht ist im Winter windanfällig.",
                 "hu": "Figyeljen a hűvös széllökésekre; az öböl télen szeles lehet.",
                 "ro": "Atenție la rafalele reci; golful este expus vântului iarna.",
-                "en": "Watch out for cool gusts; the bay is prone to wind in winter."
+                "en": "Watch out for cool gusts; the bay is prone to wind in winter.",
+                "hr": "Pazite na hladne nalete vjetra; uvala je zimi podložna vjetru."
               }
             },
             {
@@ -1117,7 +1229,8 @@
                 "de": "Beenden Sie die Tour vor 16:00 Uhr, danach wird es schlagartig kühl.",
                 "hu": "Fejezze be a túrát 16:00 előtt, utána hirtelen lehűl a levegő.",
                 "ro": "Încheiați turul înainte de ora 16:00, după care se face brusc frig.",
-                "en": "End the tour before 16:00, as it gets cold very quickly after that."
+                "en": "End the tour before 16:00, as it gets cold very quickly after that.",
+                "hr": "Završite turu prije 16:00, jer nakon toga vrlo brzo zahladi."
               }
             }
           ],
@@ -1149,6 +1262,13 @@
               "Pay attention to shaded areas, it can be significantly cooler there.",
               "Enjoy the empty paths, but expect less assistance on-site.",
               "Drink enough even in the cold, as dry winter air dehydrates."
+            ],
+            "hr": [
+              "Tople rukavice su neophodne za nizbrdice.",
+              "Dani su kratki; ponesite set svjetala sa sobom za hitne slučajeve.",
+              "Obratite pozornost na sjenovita područja, tamo može biti znatno hladnije.",
+              "Uživajte u praznim stazama, ali očekujte manje pomoći na licu mjesta.",
+              "Pijte dovoljno čak i na hladnoći, jer suhi zimski zrak dehidrira."
             ]
           }
         }
@@ -1177,7 +1297,8 @@
             "de": "Check-in für private Bootstouren.",
             "hu": "Privát hajótúrák bejelentkezése.",
             "ro": "Check-in pentru tururi private cu barca.",
-            "en": "Check-in for private boat tours."
+            "en": "Check-in for private boat tours.",
+            "hr": "Prijava za privatne ture brodom."
           }
         },
         {
@@ -1195,7 +1316,8 @@
             "de": "Nur per Boot erreichbare Sandbucht.",
             "hu": "Csak hajóval elérhető homokos öböl.",
             "ro": "Golf cu nisip accesibil doar cu barca.",
-            "en": "Sandy bay accessible only by boat."
+            "en": "Sandy bay accessible only by boat.",
+            "hr": "Pješčana uvala dostupna samo brodom."
           }
         },
         {
@@ -1213,7 +1335,8 @@
             "de": "Historischer Halt im Nordwesten.",
             "hu": "Történelmi megálló északnyugaton.",
             "ro": "Oprire istorică în nord-vest.",
-            "en": "Historical stop in the northwest."
+            "en": "Historical stop in the northwest.",
+            "hr": "Povijesno stajalište na sjeverozapadu."
           }
         },
         {
@@ -1231,7 +1354,8 @@
             "de": "Ankern im beliebtesten Revier.",
             "hu": "Horgonyzás a legnépszerűbb helyen.",
             "ro": "Ancorare în cel mai popular golf.",
-            "en": "Anchoring in the most popular bay."
+            "en": "Anchoring in the most popular bay.",
+            "hr": "Sidrenje u najpopularnijoj uvali."
           }
         }
       ],
@@ -1239,7 +1363,8 @@
         "de": "Da Palmižana autofrei ist, entspricht der Autokurs einer privaten Motorboottour ('Sea-Car'). Sie gleiten zur abgelegenen Perna-Bucht, einem der seltenen Sandstrände der Region. Nach einem Badestopp geht es weiter nach Vlaka, um die antiken Ruinen bequem vom Wasser aus zu erreichen.\n\nDer Nachmittag gehört der Vinogradišće-Bucht, wo Sie stilvoll ankern können. Diese exklusive Route zeigt Ihnen die Inselgruppe ohne Anstrengung, aber mit maximalem Komfort.",
         "hu": "Mivel Palmižana autómentes, ez az útvonal egy privát motorcsónakos túrának ('tengeri autó') felel meg. A távoli Perna-öbölbe siklik, amely a régió ritka homokos strandjainak egyike. Egy fürdőzés után Vlaka felé halad tovább, hogy a vízi úton kényelmesen érje el az antik romokat.\n\nA délután a Vinogradišće-öbölé, ahol stílusosan horgonyozhat le. Ez az exkluzív útvonal megerőltetés nélkül, de maximális kényelemben mutatja be a szigetcsoportot.",
         "ro": "Deoarece Palmižana este fără mașini, acest traseu corespunde unui tur privat cu barca cu motor ('Sea-Car'). Glisați spre golful izolat Perna, una dintre rarele plaje cu nisip din regiune. După o oprire pentru baie, continuați spre Vlaka pentru a ajunge la ruinele antice confortabil pe apă.\n\nDupă-amiaza aparține golfului Vinogradišće, unde puteți ancora cu stil. Acest traseu exclusivist vă arată arhipelagul fără efort, dar cu confort maxim.",
-        "en": "Since Palmižana is car-free, this route corresponds to a private motorboat tour ('Sea-Car'). Glide to the remote Perna Bay, one of the rare sandy beaches in the region. After a swimming stop, continue to Vlaka to reach the ancient ruins comfortably by water.\n\nThe afternoon belongs to Vinogradišće Bay, where you can anchor in style. This exclusive route shows you the archipelago without exertion but with maximum comfort."
+        "en": "Since Palmižana is car-free, this route corresponds to a private motorboat tour ('Sea-Car'). Glide to the remote Perna Bay, one of the rare sandy beaches in the region. After a swimming stop, continue to Vlaka to reach the ancient ruins comfortably by water.\n\nThe afternoon belongs to Vinogradišće Bay, where you can anchor in style. This exclusive route shows you the archipelago without exertion but with maximum comfort.",
+        "hr": "Budući da je Palmižana zona bez automobila, ova ruta odgovara privatnoj turi motornim brodom ('Morski automobil'). Klizite do udaljene uvale Perna, jedne od rijetkih pješčanih plaža u regiji. Nakon pauze za kupanje, nastavite do Vlake kako biste udobno stigli do antičkih ruševina morskim putem.\n\nPoslijepodne pripada uvali Vinogradišće, gdje se možete usidriti sa stilom. Ova ekskluzivna ruta pokazuje vam arhipelag bez napora, ali uz maksimalnu udobnost."
       },
       "gastro_picks": {
         "de": [
@@ -1264,6 +1389,12 @@
           {
             "name": "Zori Restaurant",
             "tip": "Fine dining right on the bay."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Zori",
+            "tip": "Vrhunska gastronomija izravno u uvali."
           }
         ]
       },
@@ -1295,6 +1426,13 @@
             "tip": "Almost empty in the mornings.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Uvala Perna",
+            "tip": "Gotovo prazna u jutarnjim satima.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1321,6 +1459,12 @@
             "name": "Hvar Wine",
             "tip": "Directly from the winery in Vlaka."
           }
+        ],
+        "hr": [
+          {
+            "name": "Hvarsko vino",
+            "tip": "Izravno iz vinarije u Vlaki."
+          }
         ]
       },
       "tips": {
@@ -1339,6 +1483,10 @@
         "en": [
           "Rent a boat with a skipper for relaxed sightseeing.",
           "Only anchor in designated zones."
+        ],
+        "hr": [
+          "Unajmite brod sa skiperom za opušteno razgledavanje.",
+          "Sidrite se samo u označenim zonama."
         ]
       },
       "variants": {
@@ -1493,7 +1641,8 @@
             "de": "Da auf Palmižana Autos kaum erlaubt sind (Inselerfahrung), bezieht sich dies auf Transfers. Bei Regen ist die Ankunft an der Marina ungemütlich. Die Fahrt zur Perna-Bucht zeigt die raue Natur. In Vlaka bieten die Ruinen im Regen einen melancholischen Anblick, und der Tag endet in Vinogradišće, wo wir geschützt im Fahrzeug oder Café bleiben.",
             "hu": "Mivel Palmižanán alig van autóforgalom, ez a mód a transzferekre vonatkozik. Esőben a kikötői érkezés barátságtalan. A Perna-öböl felé vezető út a természet zord oldalát mutatja. Vlakában a romok az esőben melankolikus látványt nyújtanak, a nap pedig Vinogradišćében zárul, fedett helyen.",
             "ro": "Deoarece în Palmižana mașinile sunt rare, acest mod se referă la transferuri. Pe ploaie, sosirea în marină este inconfortabilă. Drumul spre golful Perna arată latura aspră a naturii. În Vlaka, ruinele oferă o vedere melancolică sub ploaie, iar ziua se încheie în Vinogradišće, la adăpost.",
-            "en": "Since cars are rare on Palmižana, this mode focuses on transfers. In the rain, arriving at the marina is uncomfortable. The trip to Perna Bay shows the rugged side of nature. In Vlaka, the ruins offer a melancholy sight in the rain, and the day ends in Vinogradišće, staying protected indoors."
+            "en": "Since cars are rare on Palmižana, this mode focuses on transfers. In the rain, arriving at the marina is uncomfortable. The trip to Perna Bay shows the rugged side of nature. In Vlaka, the ruins offer a melancholy sight in the rain, and the day ends in Vinogradišće, staying protected indoors.",
+            "hr": "S obzirom na to da su automobili rijetki na Palmižani, ovaj se način rada fokusira na transfere. Na kiši je dolazak u marinu neudoban. Izlet do uvale Perna pokazuje surovu stranu prirode. U Vlaki ruševine nude melankoličan prizor na kiši, a dan završava u Vinogradišću, ostajući zaštićeni u zatvorenom prostoru."
           },
           "stops": [
             {
@@ -1502,7 +1651,8 @@
                 "de": "Lassen Sie sich so nah wie möglich am überdachten Bereich absetzen.",
                 "hu": "Kérje a kiszállást a lehető legközelebb a fedett részekhez.",
                 "ro": "Cereți să fiți lăsat cât mai aproape de zonele acoperite.",
-                "en": "Ask to be dropped off as close as possible to covered areas."
+                "en": "Ask to be dropped off as close as possible to covered areas.",
+                "hr": "Zatražite iskrcaj što je bliže moguće natkrivenim područjima."
               }
             },
             {
@@ -1511,7 +1661,8 @@
                 "de": "Bleiben Sie bei starkem Guss im Fahrzeug und genießen Sie die Aussicht.",
                 "hu": "Erős zápor esetén maradjon a járműben és élvezze a kilátást.",
                 "ro": "Rămâneți în vehicul în timpul averselor puternice și admirați vederea.",
-                "en": "Stay in the vehicle during heavy downpours and enjoy the view."
+                "en": "Stay in the vehicle during heavy downpours and enjoy the view.",
+                "hr": "Ostanite u plovilu tijekom jakih pljuskova i uživajte u pogledu."
               }
             },
             {
@@ -1520,7 +1671,8 @@
                 "de": "Die Zufahrtswege können rutschig sein; vorsichtig fahren.",
                 "hu": "A bekötőutak csúszósak lehetnek; vezessen óvatosan.",
                 "ro": "Drumurile de acces pot fi alunecoase; conduceți cu prudență.",
-                "en": "Access roads can be slippery; drive carefully."
+                "en": "Access roads can be slippery; drive carefully.",
+                "hr": "Prilazni putevi mogu biti skliski; vozite pažljivo."
               }
             },
             {
@@ -1529,7 +1681,8 @@
                 "de": "Parken Sie strategisch, um kurze Wege zum nächsten Unterstand zu haben.",
                 "hu": "Parkoljon stratégiailag, hogy közel legyen a következő menedékhely.",
                 "ro": "Parcați strategic pentru a avea drumuri scurte spre cel mai apropiat adăpost.",
-                "en": "Park strategically to have short walks to the nearest shelter."
+                "en": "Park strategically to have short walks to the nearest shelter.",
+                "hr": "Parkirajte strateški kako biste imali kratku šetnju do najbližeg zaklona."
               }
             }
           ],
@@ -1561,6 +1714,13 @@
               "Keep windows fog-free for good views of the coast.",
               "Have an umbrella ready when leaving the car.",
               "Parking options on the island are extremely limited."
+            ],
+            "hr": [
+              "Koristite plovilo kao bazu za suhu odjeću.",
+              "Izbjegavajte neasfaltirane rubove cesta koji omekšaju s kišom.",
+              "Održavajte prozore čistima za dobar pogled na obalu.",
+              "Imajte spreman kišobran pri izlasku.",
+              "Mogućnosti parkiranja na otoku su izuzetno ograničene."
             ]
           }
         },
@@ -1569,7 +1729,8 @@
             "de": "Ein Winterausflug mit dem Fahrzeug (Transfer) bietet Komfort bei kühlen Temperaturen. Von der Marina geht es zur sonnigen Perna-Bucht. In Vlaka bewundern wir die antiken Steine ohne die Sommerhitze. Der Tag klingt in Vinogradišće aus, wo wir die Einsamkeit der Insel in der Wintersonne genießen, bevor es zurück geht.",
             "hu": "A téli autós kirándulás (transzfer) kényelmet nyújt a hűvös időben. A kikötőből a napsütötte Perna-öbölbe megyünk. Vlakában a nyári hőség nélkül csodáljuk meg az antik köveket. A nap Vinogradišćében ér véget, ahol a téli napsütésben élvezzük a sziget magányát.",
             "ro": "O excursie de iarnă cu vehiculul (transfer) oferă confort la temperaturi scăzute. De la marină mergem spre golful însorit Perna. În Vlaka admirăm pietrele antice fără căldura verii. Ziua se încheie în Vinogradišće, bucurându-ne de singurătatea insulei sub soarele de iarnă.",
-            "en": "A winter vehicle trip (transfer) offers comfort in cool temperatures. From the marina, head to the sunny Perna Bay. In Vlaka, admire ancient stones without the summer heat. The day winds down in Vinogradišće, enjoying the island's solitude in the winter sun."
+            "en": "A winter vehicle trip (transfer) offers comfort in cool temperatures. From the marina, head to the sunny Perna Bay. In Vlaka, admire ancient stones without the summer heat. The day winds down in Vinogradišće, enjoying the island's solitude in the winter sun.",
+            "hr": "Zimsko putovanje vozilom (transfer) nudi udobnost na hladnim temperaturama. Iz marine se uputite u sunčanu uvalu Perna. U Vlaki se divite antičkom kamenju bez ljetnih vrućina. Dan završava u Vinogradišću, uživajući u otočkoj samoći na zimskom suncu."
           },
           "stops": [
             {
@@ -1578,7 +1739,8 @@
                 "de": "Nutzen Sie die Heizung im Wagen, um sich nach dem Bootstransfer aufzuwärmen.",
                 "hu": "Használja az autó fűtését, hogy felmelegedjen a hajós transzfer után.",
                 "ro": "Folosiți încălzirea în mașină pentru a vă încălzi după transferul cu barca.",
-                "en": "Use the car heater to warm up after the boat transfer."
+                "en": "Use the car heater to warm up after the boat transfer.",
+                "hr": "Koristite grijač u kabini da se zagrijete nakon transfera brodom."
               }
             },
             {
@@ -1587,7 +1749,8 @@
                 "de": "Die Wintersonne steht tief; Sonnenbrille beim Fahren nicht vergessen.",
                 "hu": "A téli nap alacsonyan jár; ne felejtse el a napszemüveget vezetéskor.",
                 "ro": "Soarele de iarnă este jos; nu uitați ochelarii de soare la condus.",
-                "en": "The winter sun is low; don't forget sunglasses while driving."
+                "en": "The winter sun is low; don't forget sunglasses while driving.",
+                "hr": "Zimsko sunce je nisko; ne zaboravite sunčane naočale tijekom vožnje."
               }
             },
             {
@@ -1596,7 +1759,8 @@
                 "de": "Die Luft ist hier im Winter besonders klar und erfrischend.",
                 "hu": "A levegő itt télen különösen tiszta és frissítő.",
                 "ro": "Aerul de aici este deosebit de clar și revigorant iarna.",
-                "en": "The air here is particularly clear and refreshing in winter."
+                "en": "The air here is particularly clear and refreshing in winter.",
+                "hr": "Zrak je ovdje zimi posebno čist i osvježavajuć."
               }
             },
             {
@@ -1605,7 +1769,8 @@
                 "de": "Genießen Sie den Blick aus dem Wagen, wenn der Wind am Abend auffrischt.",
                 "hu": "Élvezze a kilátást az autóból, ha este feltámad a szél.",
                 "ro": "Bucurați-vă de vedere din mașină dacă vântul se intensifică seara.",
-                "en": "Enjoy the view from the car if the wind picks up in the evening."
+                "en": "Enjoy the view from the car if the wind picks up in the evening.",
+                "hr": "Uživajte u pogledu iz vozila ako se navečer digne vjetar."
               }
             }
           ],
@@ -1637,6 +1802,13 @@
               "Take warm blankets for stops at viewpoints.",
               "Narrow roads are often covered with leaves in winter; slip risk.",
               "Note that fewer service stations are open in winter."
+            ],
+            "hr": [
+              "Kapacitet baterije može pasti na hladnoći; provjerite vozilo.",
+              "Planirajte povratak prije ranog pada mraka.",
+              "Ponesite tople deke za zaustavljanja na vidikovcima.",
+              "Uski putovi su zimi često prekriveni lišćem; rizik od proklizavanja.",
+              "Imajte na umu da je zimi otvoreno manje uslužnih stanica."
             ]
           }
         }
@@ -1665,7 +1837,8 @@
             "de": "Ankunft des Linienboots.",
             "hu": "A menetrend szerinti hajó érkezése.",
             "ro": "Sosirea bărcii de linie.",
-            "en": "Arrival of the scheduled boat."
+            "en": "Arrival of the scheduled boat.",
+            "hr": "Dolazak redovne linije broda."
           }
         },
         {
@@ -1683,7 +1856,8 @@
             "de": "Kurzer Fußweg vom Hafen.",
             "hu": "Rövid séta a kikötőtől.",
             "ro": "Scurtă plimbare de la port.",
-            "en": "Short walk from the port."
+            "en": "Short walk from the port.",
+            "hr": "Kratka šetnja od luke."
           }
         },
         {
@@ -1701,7 +1875,8 @@
             "de": "Mit dem kleinen Bootshuttle erreichbar.",
             "hu": "Kis kishajóval érhető el.",
             "ro": "Accesibil cu un mic transfer cu barca.",
-            "en": "Accessible via small boat shuttle."
+            "en": "Accessible via small boat shuttle.",
+            "hr": "Dostupno malim brodskim shuttleom."
           }
         },
         {
@@ -1719,7 +1894,8 @@
             "de": "Nächster Stopp der Shuttle-Verbindung.",
             "hu": "A hajójárat következő megállója.",
             "ro": "Următoarea stație a cursei de transfer.",
-            "en": "Next stop on the shuttle route."
+            "en": "Next stop on the shuttle route.",
+            "hr": "Sljedeća stanica na shuttle ruti."
           }
         }
       ],
@@ -1727,7 +1903,8 @@
         "de": "Der Transit auf den Pakleni-Inseln erfolgt per Hop-on-Hop-off Booten. Sie landen in Palmižana und verbringen den Vormittag am Strand. Mittags wechseln Sie mit dem lokalen Bootshuttle zur Mlini-Bucht und weiter nach Zdrilca. Diese Route ist ideal für alle, die ohne eigenes Boot verschiedene Buchten unkompliziert erleben möchten.",
         "hu": "A Pakleni-szigeteken a közlekedés Hop-on-Hop-off hajókkal történik. Kiköt Palmižanában, és a délelőttöt a strandon tölti. Délben a helyi kishajóval átmegy a Mlini-öbölbe, majd tovább Zdrilcára. Ez az útvonal ideális mindazoknak, akik saját hajó nélkül is szeretnének több öblöt egyszerűen felfedezni.",
         "ro": "Tranzitul în insulele Pakleni se face cu bărci Hop-on-Hop-off. Debarcați la Palmižana și petreceți dimineața la plajă. La prânz, schimbați cu transferul local cu barca spre golful Mlini și apoi spre Zdrilca. Acest traseu este ideal pentru cei care doresc să experimenteze diferite golfuri fără barcă proprie.",
-        "en": "Transit in the Pakleni Islands is managed via Hop-on-Hop-off boats. Land in Palmižana and spend the morning at the beach. At noon, switch to the local boat shuttle to Mlini Bay and further to Zdrilca. This route is ideal for those who want to experience various bays easily without their own boat."
+        "en": "Transit in the Pakleni Islands is managed via Hop-on-Hop-off boats. Land in Palmižana and spend the morning at the beach. At noon, switch to the local boat shuttle to Mlini Bay and further to Zdrilca. This route is ideal for those who want to experience various bays easily without their own boat.",
+        "hr": "Prijevoz na Paklenim otocima organiziran je putem Hop-on-Hop-off brodova. Iskrcajte se na Palmižani i provedite jutro na plaži. U podne prijeđite na lokalni brodski shuttle do uvale Mlini i dalje do Ždrilca. Ova je ruta idealna za one koji žele lako doživjeti razne uvale bez vlastitog broda."
       },
       "gastro_picks": {
         "de": [
@@ -1752,6 +1929,12 @@
           {
             "name": "Patak",
             "tip": "Affordable fish dishes in Zdrilca."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Patak",
+            "tip": "Pristupačna riblja jela u Ždrilcu."
           }
         ]
       },
@@ -1783,6 +1966,13 @@
             "tip": "Relaxing afternoon by the water.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Uvala Ždrilca",
+            "tip": "Opuštajuće poslijepodne uz vodu.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1809,6 +1999,12 @@
             "name": "Palmižana Kiosk",
             "tip": "Postcards and sunscreen."
           }
+        ],
+        "hr": [
+          {
+            "name": "Kiosk Palmižana",
+            "tip": "Razglednice i krema za sunčanje."
+          }
         ]
       },
       "tips": {
@@ -1827,6 +2023,10 @@
         "en": [
           "Ask for the schedule of the last boat.",
           "Buy a day ticket for the shuttles."
+        ],
+        "hr": [
+          "Raspitajte se za vrijeme polaska zadnjeg broda.",
+          "Kupite dnevnu kartu za shuttle brodove."
         ]
       },
       "variants": {
@@ -1981,7 +2181,8 @@
             "de": "Transit bedeutet hier Wassertaxis. Bei Regen ist die Überfahrt von der Marina ein Erlebnis für sich. In Vinogradišće suchen wir Schutz in Meeresnähe. Mlini und Zdrilca wirken im Regen ruhig und verlassen. Die salzige Gischt vermischt sich mit dem Regenwasser auf den Decks der Boote.",
             "hu": "A tömegközlekedés itt a vízitaxikat jelenti. Esőben az átkelés a kikötőből önmagában is élmény. Vinogradišćében a tenger közelében keresünk menedéket. Mlini és Zdrilca esőben csendes és elhagyatott. A sós permet keveredik az esővízzel a hajók fedélzetén.",
             "ro": "Tranzitul aici înseamnă taxiuri pe apă. Pe ploaie, traversarea din marină este o experiență în sine. În Vinogradišće căutăm adăpost lângă mare. Mlini și Zdrilca par liniștite și pustii pe ploaie. Pulverizarea sărată se amestecă cu apa de ploaie pe punțile bărcilor.",
-            "en": "Transit here means water taxis. In the rain, the crossing from the marina is an experience in itself. In Vinogradišće, find shelter near the sea. Mlini and Zdrilca seem quiet and deserted in the rain. Salt spray mixes with rainwater on the boat decks."
+            "en": "Transit here means water taxis. In the rain, the crossing from the marina is an experience in itself. In Vinogradišće, find shelter near the sea. Mlini and Zdrilca seem quiet and deserted in the rain. Salt spray mixes with rainwater on the boat decks.",
+            "hr": "Tranzit ovdje znači taxi brodove. Na kiši je prijelaz iz marine doživljaj sam po sebi. U Vinogradišću pronađite zaklon blizu mora. Mlini i Ždrilca čine se tihi i pusti na kiši. Morska maglica miješa se s kišnicom na palubama brodova."
           },
           "stops": [
             {
@@ -1990,7 +2191,8 @@
                 "de": "Warten Sie im überdachten Bereich der Marina auf das nächste Boot.",
                 "hu": "Várjon a kikötő fedett részén a következő hajóra.",
                 "ro": "Așteptați în zona acoperită a marinei următoarea barcă.",
-                "en": "Wait in the marina's covered area for the next boat."
+                "en": "Wait in the marina's covered area for the next boat.",
+                "hr": "Pričekajte u natkrivenom dijelu marine sljedeći brod."
               }
             },
             {
@@ -1999,7 +2201,8 @@
                 "de": "Die Boote legen hier oft direkt am Strand an; Vorsicht beim Aussteigen.",
                 "hu": "A hajók gyakran közvetlenül a parton kötnek ki; vigyázat a kiszálláskor.",
                 "ro": "Bărcile acostează adesea direct pe plajă; atenție la debarcare.",
-                "en": "Boats often dock directly on the beach; be careful when disembarking."
+                "en": "Boats often dock directly on the beach; be careful when disembarking.",
+                "hr": "Brodovi često pristaju izravno na plažu; budite oprezni pri iskrcaju."
               }
             },
             {
@@ -2008,7 +2211,8 @@
                 "de": "Nutzen Sie den Unterstand am Anleger, um trocken zu bleiben.",
                 "hu": "Használja a kikötőhely melletti tetőt, hogy száraz maradjon.",
                 "ro": "Folosiți adăpostul de la debarcader pentru a rămâne uscați.",
-                "en": "Use the shelter at the pier to stay dry."
+                "en": "Use the shelter at the pier to stay dry.",
+                "hr": "Koristite zaklon na gatu kako biste ostali suhi."
               }
             },
             {
@@ -2017,7 +2221,8 @@
                 "de": "Prüfen Sie, ob das Boot ein Verdeck hat, bevor Sie einsteigen.",
                 "hu": "Ellenőrizze, hogy a hajónak van-e ponyvája, mielőtt beszállna.",
                 "ro": "Verificați dacă barca are coviltir înainte de a urca.",
-                "en": "Check if the boat has a canopy before boarding."
+                "en": "Check if the boat has a canopy before boarding.",
+                "hr": "Prije ukrcaja provjerite ima li brod tendu."
               }
             }
           ],
@@ -2049,6 +2254,13 @@
               "Keep valuables in waterproof bags.",
               "Travel times may be delayed in bad weather.",
               "Ask the skipper about the safest disembarkation points."
+            ],
+            "hr": [
+              "Taxi brodovi mogu obustaviti uslugu tijekom jakog mora.",
+              "Nosite kišnu jaknu jer su brodovi često otvoreni.",
+              "Držite dragocjenosti u vodootpornim torbama.",
+              "Vrijeme putovanja može biti odgođeno u lošim vremenskim uvjetima.",
+              "Pitajte skipera o najsigurnijim mjestima za iskrcaj."
             ]
           }
         },
@@ -2057,7 +2269,8 @@
             "de": "Im Winter sind die Wassertaxis seltener, aber die Überfahrten sind herrlich einsam. Von der Marina geht es in die ruhige Vinogradišće-Bucht. Mlini und Zdrilca zeigen sich in ihrer natürlichen Winterpracht. Die kühle Brise auf dem Boot weckt die Geister, während man die glitzernde Adria überquert.",
             "hu": "Télen a vízitaxik ritkábban járnak, de az átkelés csodásan magányos. A kikötőből a nyugodt Vinogradišće-öbölbe tartunk. Mlini és Zdrilca természetes téli pompájukban mutatkoznak meg. A hűvös szellő a hajón felfrissít, miközben a csillogó Adriát szeljük.",
             "ro": "Iarna, taxiurile pe apă sunt mai rare, dar traversările sunt minunat de solitare. De la marină mergem spre golful liniștit Vinogradišće. Mlini și Zdrilca se arată în splendoarea lor naturală de iarnă. Briza rece de pe barcă te trezește la viață în timp ce traversezi Adriatica sclipitoare.",
-            "en": "In winter, water taxis are less frequent, but the crossings are wonderfully lonely. From the marina, head to the calm Vinogradišće Bay. Mlini and Zdrilca show themselves in their natural winter glory. The cool breeze on the boat awakens the senses while crossing the sparkling Adriatic."
+            "en": "In winter, water taxis are less frequent, but the crossings are wonderfully lonely. From the marina, head to the calm Vinogradišće Bay. Mlini and Zdrilca show themselves in their natural winter glory. The cool breeze on the boat awakens the senses while crossing the sparkling Adriatic.",
+            "hr": "Zimi su taxi brodovi rjeđi, ali su prijelazi predivno usamljeni. Iz marine krenite prema mirnoj uvali Vinogradišće. Mlini i Ždrilca pokazuju se u svom prirodnom zimskom sjaju. Hladan povjetarac na brodu budi osjetila dok prelazite svjetlucavi Jadran."
           },
           "stops": [
             {
@@ -2066,7 +2279,8 @@
                 "de": "Erkundigen Sie sich vorab nach dem reduzierten Winterfahrplan.",
                 "hu": "Érdeklődjön előre a ritkított téli menetrendről.",
                 "ro": "Informați-vă în prealabil despre programul redus de iarnă.",
-                "en": "Inquire in advance about the reduced winter schedule."
+                "en": "Inquire in advance about the reduced winter schedule.",
+                "hr": "Unaprijed se raspitajte o reduciranom zimskom redu vožnje."
               }
             },
             {
@@ -2075,7 +2289,8 @@
                 "de": "Die Sonne wärmt hier mittags gut; ideal für einen Winter-Stopp.",
                 "hu": "A nap délben itt jól melegít; ideális egy téli pihenőhöz.",
                 "ro": "Soarele încălzește bine aici la prânz; ideal pentru o oprire de iarnă.",
-                "en": "The sun warms well here at noon; ideal for a winter stop."
+                "en": "The sun warms well here at noon; ideal for a winter stop.",
+                "hr": "Sunce ovdje dobro grije u podne; idealno za zimsko stajalište."
               }
             },
             {
@@ -2084,7 +2299,8 @@
                 "de": "In der Nebensaison fast menschenleer; genießen Sie die totale Ruhe.",
                 "hu": "Utószezonban szinte teljesen néptelen; élvezze a tökéletes csendet.",
                 "ro": "Aproape pustiu în extrasezon; bucurați-vă de liniștea totală.",
-                "en": "Almost deserted in the low season; enjoy the total peace."
+                "en": "Almost deserted in the low season; enjoy the total peace.",
+                "hr": "Gotovo pusto u predsezoni; uživajte u potpunom miru."
               }
             },
             {
@@ -2093,7 +2309,8 @@
                 "de": "Vergewissern Sie sich, dass Sie eine Abholmöglichkeit für den Rückweg haben.",
                 "hu": "Győződjön meg róla, hogy van visszaútja, mielőtt itt maradna.",
                 "ro": "Asigurați-vă că aveți o opțiune de preluare pentru drumul de întoarcere.",
-                "en": "Ensure you have a pickup option for the return trip."
+                "en": "Ensure you have a pickup option for the return trip.",
+                "hr": "Osigurajte mogućnost povratnog prijevoza (pickup)."
               }
             }
           ],
@@ -2125,6 +2342,13 @@
               "Time your transfers for the midday hours when it's warmest.",
               "The last return trip is often before the 16:30 sunset.",
               "Keep the phone number of a local skipper handy."
+            ],
+            "hr": [
+              "Taxi brodovi zimi često voze samo na poziv.",
+              "Prijelaz može biti vrlo hladan zbog vjetra; nosite kapu.",
+              "Planirajte transfere za podnevne sate kada je najtoplije.",
+              "Zadnji povratak je često prije zalaska sunca u 16:30.",
+              "Imajte pri ruci telefonski broj lokalnog skipera."
             ]
           }
         }

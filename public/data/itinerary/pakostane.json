@@ -31,7 +31,8 @@
             "de": "Frühmorgens den Fischern beim Entladen zusehen.",
             "hu": "Kora reggel nézze meg a halászok érkezését.",
             "ro": "Priviți pescarii descărcând captura dimineața devreme.",
-            "en": "Watch the fishermen unload their catch early in the morning."
+            "en": "Watch the fishermen unload their catch early in the morning.",
+            "hr": "Gledajte ribare kako istovaruju ulov rano ujutro."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein zentraler Treffpunkt mit Blick auf das Meer.",
             "hu": "Központi találkozóhely kilátással a tengerre.",
             "ro": "Un punct de întâlnire central cu vedere la mare.",
-            "en": "A central meeting point with a view of the sea."
+            "en": "A central meeting point with a view of the sea.",
+            "hr": "Središnje mjesto susreta s pogledom na more."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die lokale Steinmetzkunst der Fassade.",
             "hu": "Csodálja meg a homlokzat helyi kőfaragásait.",
             "ro": "Admirați lucrările locale în piatră ale fațadei.",
-            "en": "Admire the local stonework of the facade."
+            "en": "Admire the local stonework of the facade.",
+            "hr": "Divite se lokalnoj kamenoj izradi fasade."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Nur mit dem Boot oder schwimmend erreichbar, tolles Fotomotiv.",
             "hu": "Csak csónakkal vagy úszva érhető el, kiváló fotótéma.",
             "ro": "Accesibilă doar cu barca sau înotând, un subiect foto grozav.",
-            "en": "Accessible only by boat or swimming, great photo spot."
+            "en": "Accessible only by boat or swimming, great photo spot.",
+            "hr": "Dostupno samo brodom ili plivanjem, sjajno mjesto za fotografiranje."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Flaches Wasser, ideal für Familien mit Kindern.",
             "hu": "Sekély víz, ideális kisgyermekes családoknak.",
             "ro": "Apă puțin adâncă, ideală pentru familii cu copii.",
-            "en": "Shallow water, ideal for families with children."
+            "en": "Shallow water, ideal for families with children.",
+            "hr": "Plitka voda, idealno za obitelji s djecom."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Einzigartige Strohhütten im dichten Pinienwald.",
             "hu": "Egyedülálló nádtetős kunyhók a sűrű fenyvesben.",
             "ro": "Colibe de stuf unice în pădurea de pini densă.",
-            "en": "Unique straw huts in the dense pine forest."
+            "en": "Unique straw huts in the dense pine forest.",
+            "hr": "Jedinstvene slamnate kućice u gustoj borovoj šumi."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Pakoštane besticht durch seine Lage zwischen dem Meer und dem Vrana-See. Der Vormittag beginnt am belebten Hafen, wo die Meeresbrise die Sinne weckt. Ein Spaziergang führt zur monumentalen Pfarrkirche und zur kleinen Insel St. Justina, die wie ein Wächter in der Bucht liegt. Mittags lädt der Strand Janice zum Entspannen ein, bevor der Tag im schattigen Pinienwald des Resorts ausklingt.",
         "hu": "Pakoštane varázsát a tenger és a Vrana-tó közötti fekvése adja. A délelőtt a pezsgő kikötőben indul, ahol a tengeri szellő ébreszti az érzékeket. Rövid séta vezet a monumentális plébániatemplomhoz és a Szent Jusztina-szigethez, amely őrszemként áll az öbölben. Délben a Janice strand hívogat pihenésre, mielőtt a napot az üdülőhely árnyas fenyvesében zárnánk.",
         "ro": "Pakoštane captivează prin locația sa între mare și Lacul Vrana. Dimineața începe în portul plin de viață, unde briza mării trezește simțurile. O plimbare duce la biserica parohială monumentală și la mica insulă Sfânta Iustina, care stă ca o santinelă în golf. La prânz, plaja Janice vă invită la relaxare, înainte ca ziua să se încheie în pădurea de pini umbrită a complexului.",
-        "en": "Pakoštane charms with its position between the sea and Lake Vrana. The morning starts at the bustling harbor, where the sea breeze wakes the senses. A stroll leads to the monumental parish church and the small islet of St. Justina, standing like a sentinel in the bay. At noon, Janice Beach invites relaxation before the day concludes in the shaded pine forest of the resort."
+        "en": "Pakoštane charms with its position between the sea and Lake Vrana. The morning starts at the bustling harbor, where the sea breeze wakes the senses. A stroll leads to the monumental parish church and the small islet of St. Justina, standing like a sentinel in the bay. At noon, Janice Beach invites relaxation before the day concludes in the shaded pine forest of the resort.",
+        "hr": "Pakoštane očaravaju svojim položajem između mora i Vranskog jezera. Jutro počinje u živahnoj luci, gdje morski povjetarac budi osjetila. Šetnja vodi do monumentalne župne crkve i malog otočića Svete Justine, koji stoji poput stražara u uvali. U podne plaža Janice poziva na opuštanje prije nego što dan završi u sjenovitoj borovoj šumi resorta."
       },
       "gastro_picks": {
         "de": [
@@ -170,6 +177,16 @@
           {
             "name": "Restoran Tri Feral",
             "tip": "Freshly caught grilled fish is a must here."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Pakostane",
+            "tip": "Probajte salatu od hobotnice s domaćim maslinovim uljem."
+          },
+          {
+            "name": "Restoran Tri Feral",
+            "tip": "Svježe ulovljena riba na žaru je ovdje obavezna."
           }
         ]
       },
@@ -221,6 +238,18 @@
             "tip": "Enjoy the silence by the seashore.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Staza uz liticu do Draga",
+            "tip": "Panoramski pogled na Kornate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vidikovac Sveta Justina",
+            "tip": "Uživajte u tišini uz morsku obalu.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -263,6 +292,16 @@
             "name": "Riva Souvenir Shop",
             "tip": "Handmade coral jewelry."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica",
+            "tip": "Suhe smokve i med iz regije."
+          },
+          {
+            "name": "Suvenirnica Riva",
+            "tip": "Ručno rađeni nakit od koralja."
+          }
         ]
       },
       "tips": {
@@ -289,6 +328,12 @@
           "Renting a small boat to St. Justina islet is worth it.",
           "Sunscreen is essential in summer as the promenade offers little shade.",
           "Visit the harbor in the late afternoon for the best lighting mood."
+        ],
+        "hr": [
+          "Nosite udobne sandale za šetnju uz obalu.",
+          "Najam malog čamca do otočića Svete Justine se isplati.",
+          "Krema za sunčanje je neophodna ljeti jer šetnica nudi malo hlada.",
+          "Posjetite luku kasno poslijepodne za najbolji ugođaj osvjetljenja."
         ]
       },
       "variants": {
@@ -521,7 +566,8 @@
             "de": "Beginnen Sie Ihren Tag am Hafen von Pakoštane, wo die Fischerboote im Regen tanzen. Ein kurzer Spaziergang führt Sie zum Tuđman-Denkmal und zur schützenden Pfarrkirche. Mittags bietet die Kirche St. Justina auf ihrer kleinen Insel einen mystischen Anblick durch den Regenschleier. Den Nachmittag verbringen Sie am Strand Janice, bevor Sie den Tag gemütlich im Pine Beach Resort ausklingen lassen.",
             "hu": "Kezdje a napot a pakoštanei kikötőben, ahol az esőben ringatózó halászhajók látványa fogadja. Egy rövid séta elviszi a Tuđman-emlékműhöz és a menedéket nyújtó plébániatemplomhoz. Délben a Szent Jusztina-templom misztikus látványt nyújt a ködös tengeren. A délutánt a Janice-strandon töltheti, majd a napot a Pine Beach Resort fenyvesei között, az eső illatával zárhatja.",
             "ro": "Începeți ziua în portul Pakoštane, unde bărcile de pescuit dansează în ploaie. O scurtă plimbare vă duce la monumentul Tuđman și la biserica parohială protectoare. La prânz, biserica Sf. Iustina de pe mica insulă oferă o vedere mistică prin perdeaua de ploaie. Petreceți după-amiaza la plaja Janice, înainte de a încheia ziua confortabil în zona Pine Beach Resort.",
-            "en": "Start your day at Pakoštane harbor, where fishing boats sway in the rain. A short walk leads you to the Tuđman monument and the sheltering parish church. At noon, St. Justina church on its islet offers a mystic sight through the rain veil. Spend the afternoon near Janice beach, then wrap up your day at the Pine Beach Resort area, enjoying the scent of wet pine trees."
+            "en": "Start your day at Pakoštane harbor, where fishing boats sway in the rain. A short walk leads you to the Tuđman monument and the sheltering parish church. At noon, St. Justina church on its islet offers a mystic sight through the rain veil. Spend the afternoon near Janice beach, then wrap up your day at the Pine Beach Resort area, enjoying the scent of wet pine trees.",
+            "hr": "Započnite dan u luci Pakoštane, gdje se ribarski brodovi njišu na kiši. Kratka šetnja vodi vas do spomenika Tuđmanu i zaklonjene župne crkve. U podne crkva Svete Justine na svom otočiću nudi mističan prizor kroz veo kiše. Provedite poslijepodne u blizini plaže Janice, a zatim završite dan u području Pine Beach Resorta, uživajući u mirisu mokrih borova."
           },
           "stops": [
             {
@@ -603,6 +649,12 @@
               "The stone pavement at the harbor can be slippery when wet.",
               "Seek shelter in the parish church during heavy downpours.",
               "Wear waterproof shoes for the beach walk."
+            ],
+            "hr": [
+              "Čvrst kišobran je neophodan zbog morskog povjetarca.",
+              "Kameni pločnik u luci može biti klizav kada je mokar.",
+              "Potražite zaklon u župnoj crkvi tijekom jakih pljuskova.",
+              "Nosite vodootpornu obuću za šetnju plažom."
             ]
           }
         },
@@ -611,7 +663,8 @@
             "de": "Erleben Sie die Stille des winterlichen Pakoštane am Hafen, wo die Luft klar und salzig ist. Besuchen Sie das Tuđman-Denkmal und die Pfarrkirche in der milden Wintersonne. Mittags blicken Sie zur einsamen Insel St. Justina hinüber. Der Nachmittag am Strand Janice bietet Ruhe pur, bevor Sie im Pine Beach Resort die frühe Dämmerung zwischen den duftenden Pinien genießen.",
             "hu": "Tapasztalja meg a téli Pakoštane csendjét a kikötőben, ahol a levegő tiszta és sós. Látogasson el a Tuđman-emlékműhöz és a plébániatemplomhoz a lágy téli napsütésben. Délben a magányos Szent Jusztina-sziget látványában gyönyörködhet. A Janice-strandon töltött délután tiszta nyugalmat áraszt, mielőtt a Pine Beach Resort fenyői között élvezné a korai alkonyt.",
             "ro": "Experimentați liniștea orașului Pakoštane iarna în port, unde aerul este proaspăt și sărat. Vizitați monumentul Tuđman și biserica parohială sub soarele blând de iarnă. La prânz, priviți spre insula solitară Sf. Iustina. După-amiaza la plaja Janice oferă relaxare pură, înainte de a vă bucura de amurgul timpuriu printre pinii parfumați din Pine Beach Resort.",
-            "en": "Experience the silence of winter Pakoštane at the harbor, where the air is crisp and salty. Visit the Tuđman monument and the parish church in the mild winter sun. At noon, gaze across to the lonely St. Justina islet. The afternoon at Janice beach offers pure tranquility before enjoying the early dusk among the fragrant pines at Pine Beach Resort."
+            "en": "Experience the silence of winter Pakoštane at the harbor, where the air is crisp and salty. Visit the Tuđman monument and the parish church in the mild winter sun. At noon, gaze across to the lonely St. Justina islet. The afternoon at Janice beach offers pure tranquility before enjoying the early dusk among the fragrant pines at Pine Beach Resort.",
+            "hr": "Doživite tišinu zimskih Pakoštana u luci, gdje je zrak svjež i slan. Posjetite spomenik Tuđmanu i župnu crkvu na blagom zimskom suncu. U podne promatrajte usamljeni otočić Svete Justine. Poslijepodne na plaži Janice nudi čisti mir prije uživanja u ranom sumraku među mirisnim borovima u Pine Beach Resortu."
           },
           "stops": [
             {
@@ -693,6 +746,12 @@
               "The Bura wind can significantly lower the perceived temperature.",
               "Many beach cafes have limited opening hours in winter.",
               "Layered clothing protects against the cool sea wind."
+            ],
+            "hr": [
+              "Sunce zalazi već u 16:30 u prosincu.",
+              "Bura može značajno sniziti osjet temperature.",
+              "Mnogi kafići na plaži imaju ograničeno radno vrijeme zimi.",
+              "Slojevita odjeća štiti od hladnog morskog vjetra."
             ]
           }
         }
@@ -721,7 +780,8 @@
             "de": "Startpunkt für die Tour um den See.",
             "hu": "A tó körüli túra kiindulópontja.",
             "ro": "Punctul de plecare pentru turul în jurul lacului.",
-            "en": "Starting point for the tour around the lake."
+            "en": "Starting point for the tour around the lake.",
+            "hr": "Početna točka ture oko jezera."
           }
         },
         {
@@ -739,7 +799,8 @@
             "de": "Vogelbeobachtungsturm am Nordufer besuchen.",
             "hu": "Látogassa meg a madármegfigyelő tornyot az északi parton.",
             "ro": "Vizitați turnul de observare a păsărilor de pe malul nordic.",
-            "en": "Visit the birdwatching tower on the north shore."
+            "en": "Visit the birdwatching tower on the north shore.",
+            "hr": "Posjetite toranj za promatranje ptica na sjevernoj obali."
           }
         },
         {
@@ -757,7 +818,8 @@
             "de": "Die nördlichste osmanische Festung Europas.",
             "hu": "Európa legészakibb oszmán erődítménye.",
             "ro": "Cea mai nordică fortăreață otomană din Europa.",
-            "en": "The northernmost Ottoman fortress in Europe."
+            "en": "The northernmost Ottoman fortress in Europe.",
+            "hr": "Najsjevernija osmanska utvrda u Europi."
           }
         },
         {
@@ -775,7 +837,8 @@
             "de": "Ein kühler Rückzugsort nach der Fahrt.",
             "hu": "Hűvös menedék a biciklizés után.",
             "ro": "Un refugiu răcoros după plimbare.",
-            "en": "A cool retreat after the ride."
+            "en": "A cool retreat after the ride.",
+            "hr": "Hladno utočište nakon vožnje."
           }
         },
         {
@@ -793,7 +856,8 @@
             "de": "Sprung ins kühle Nass zur Belohnung.",
             "hu": "Jutalomként csobbanjon egyet a hűvös vízben.",
             "ro": "Săriți în apa rece ca recompensă.",
-            "en": "Jump into the cool water as a reward."
+            "en": "Jump into the cool water as a reward.",
+            "hr": "Skočite u hladnu vodu kao nagradu."
           }
         }
       ],
@@ -801,7 +865,8 @@
         "de": "Die Fahrradtour verbindet das mediterrane Flair der Küste mit der wilden Natur des Hinterlandes. Der Weg führt entlang des Vrana-Sees, einem Paradies für Ornithologen. Das Highlight ist der Maškovića Han, eine beeindruckende Karawanserei aus dem 17. Jahrhundert. Nach der historischen Entdeckung führt der Weg zurück ans Meer, wo eine Erfrischung am Strand Janice auf die Radfahrer wartet.",
         "hu": "A kerékpártúra összeköti a tengerpart mediterrán hangulatát a hátország vad természetével. Az út a Vrana-tó mentén vezet, amely az ornitológusok paradicsoma. A csúcspont a Maškovića Han, egy lenyűgöző 17. századi karavánszeráj. A történelmi felfedezés után az út visszavezet a tengerhez, ahol a Janice strandon frissítő várja a bringásokat.",
         "ro": "Turul cu bicicleta combină flerul mediteranean al coastei cu natura sălbatică a hinterlandului. Drumul duce de-a lungul Lacului Vrana, un paradis pentru ornitologi. Punctul culminant este Hanul Maškovića, un caravanserai impresionant din secolul al XVII-lea. După descoperirea istorică, drumul se întoarce la mare, unde o răcorire pe plaja Janice îi așteaptă pe bicicliști.",
-        "en": "The bike tour combines the Mediterranean flair of the coast with the wild nature of the hinterland. The path leads along Lake Vrana, a paradise for ornithologists. The highlight is Maškovića Han, an impressive 17th-century caravanserai. After the historical discovery, the path returns to the sea, where a refreshment at Janice Beach awaits the cyclists."
+        "en": "The bike tour combines the Mediterranean flair of the coast with the wild nature of the hinterland. The path leads along Lake Vrana, a paradise for ornithologists. The highlight is Maškovića Han, an impressive 17th-century caravanserai. After the historical discovery, the path returns to the sea, where a refreshment at Janice Beach awaits the cyclists.",
+        "hr": "Biciklistička tura spaja mediteranski šarm obale s divljom prirodom zaleđa. Put vodi uz Vransko jezero, raj za ornitologe. Vrhunac je Maškovića Han, impresivni karavansaraj iz 17. stoljeća. Nakon povijesnog otkrića, put se vraća na more, gdje bicikliste čeka osvježenje na plaži Janice."
       },
       "gastro_picks": {
         "de": [
@@ -826,6 +891,12 @@
           {
             "name": "Han Restaurant",
             "tip": "Traditional bread and meat dishes in a historical setting."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Han Restaurant",
+            "tip": "Tradicionalna jela od kruha i mesa u povijesnom ambijentu."
           }
         ]
       },
@@ -857,6 +928,13 @@
             "tip": "Listen to bird calls on the lakeshore.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Ornitološki rezervat",
+            "tip": "Slušajte glasanje ptica na obali jezera.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -882,6 +960,12 @@
           {
             "name": "Vrana Lake Info Center",
             "tip": "Nature guides and local products."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Info centar Vransko jezero",
+            "tip": "Vodiči kroz prirodu i lokalni proizvodi."
           }
         ]
       },
@@ -909,6 +993,12 @@
           "The paths at Lake Vrana are partially graveled.",
           "Take enough water, there are few springs along the way.",
           "Binoculars are highly recommended at the lake."
+        ],
+        "hr": [
+          "Provjerite tlak u gumama prije odlaska do jezera.",
+          "Staze kod Vranskog jezera su djelomično makadamske.",
+          "Uzmite dovoljno vode, na putu je malo izvora.",
+          "Dalekozor se toplo preporučuje kod jezera."
         ]
       },
       "variants": {
@@ -1080,7 +1170,8 @@
             "de": "Starten Sie am Hafen und radeln Sie vorsichtig zum Naturpark Vrana-See, wo die Natur im Regen auflebt. Das Maškovića Han bietet den perfekten trockenen Rückzugsort für eine geschichtsträchtige Pause. Zurück im Ort besuchen Sie die Pfarrkirche, bevor Sie am Strand Janice die Gischt des stürmischen Meeres bewundern.",
             "hu": "Induljon a kikötőből, és biciklizzen óvatosan a Vrana-tavi Natúrparkba, ahol a természet újjáéled az esőben. A Maškovića Han tökéletes száraz menedéket nyújt egy történelmi szünethez. A faluba visszatérve látogassa meg a plébániatemplomot, majd a Janice-strandon csodálja meg a viharos tenger habjait.",
             "ro": "Porniți din port și pedalați cu atenție spre Parcul Natural Lacul Vrana, unde natura prinde viață sub ploaie. Maškovića Han oferă refugiul uscat perfect pentru o pauză istorică. Revenind în localitate, vizitați biserica parohială înainte de a admira spuma mării agitate la plaja Janice.",
-            "en": "Start at the harbor and cycle carefully to Vrana Lake Nature Park, where nature revives in the rain. Maškovića Han provides the perfect dry retreat for a historical break. Returning to town, visit the parish church before admiring the spray of the stormy sea at Janice beach."
+            "en": "Start at the harbor and cycle carefully to Vrana Lake Nature Park, where nature revives in the rain. Maškovića Han provides the perfect dry retreat for a historical break. Returning to town, visit the parish church before admiring the spray of the stormy sea at Janice beach.",
+            "hr": "Krenite iz luke i pažljivo biciklirajte do Parka prirode Vransko jezero, gdje priroda oživljava na kiši. Maškovića Han pruža savršeno suho utočište za povijesni predah. Povratkom u grad posjetite župnu crkvu prije nego što se počnete diviti morskoj pjeni uzburkanog mora na plaži Janice."
           },
           "stops": [
             {
@@ -1153,6 +1244,12 @@
               "Avoid sharp turns on the slippery shore paths of Vrana Lake.",
               "A bright tail light is mandatory during poor visibility caused by rain.",
               "Clean your bike from mud and salt after the tour."
+            ],
+            "hr": [
+              "Nosite kabanicu i vodootporne nadhlače.",
+              "Izbjegavajte oštra skretanja na klizavim obalnim stazama Vranskog jezera.",
+              "Svijetlo stražnje svjetlo je obavezno tijekom loše vidljivosti uzrokovane kišom.",
+              "Očistite bicikl od blata i soli nakon ture."
             ]
           }
         },
@@ -1161,7 +1258,8 @@
             "de": "Starten Sie erfrischt am Hafen und nutzen Sie das klare Winterlicht für eine Tour zum Vrana-See. Das historische Ambiente des Maškovića Han wärmt Körper und Geist. Zurück im Ort bietet die Pfarrkirche einen Moment der Stille, bevor Sie die winterliche Einsamkeit am Strand Janice bei einer kurzen Radpause genießen.",
             "hu": "Frissen induljon a kikötőből, és használja ki a tiszta téli fényt egy túrához a Vrana-tóhoz. A Maškovića Han történelmi környezete felmelegíti a testet és a lelket. A faluba visszatérve a plébániatemplom csendes pillanatot kínál, mielőtt a Janice-strandon élvezné a téli magányt.",
             "ro": "Porniți revigorați din port și profitați de lumina clară de iarnă pentru o tură la lacul Vrana. Ambianța istorică de la Maškovića Han încălzește corpul și spiritul. Revenind în localitate, biserica parohială oferă un moment de liniște înainte de a vă bucura de singurătatea iernii la plaja Janice.",
-            "en": "Start refreshed at the harbor and take advantage of the clear winter light for a tour to Vrana Lake. The historical ambiance of Maškovića Han warms body and soul. Returning to town, the parish church offers a moment of silence before enjoying winter solitude at Janice beach during a brief bike break."
+            "en": "Start refreshed at the harbor and take advantage of the clear winter light for a tour to Vrana Lake. The historical ambiance of Maškovića Han warms body and soul. Returning to town, the parish church offers a moment of silence before enjoying winter solitude at Janice beach during a brief bike break.",
+            "hr": "Krenite osvježeni iz luke i iskoristite čisto zimsko svjetlo za turu do Vranskog jezera. Povijesni ambijent Maškovića Hana grije tijelo i dušu. Povratkom u grad, župna crkva nudi trenutak tišine prije uživanja u zimskoj samoći na plaži Janice tijekom kratke pauze od bicikliranja."
           },
           "stops": [
             {
@@ -1234,6 +1332,12 @@
               "Wear thermal cycling clothing, especially for the legs.",
               "The paths by the lake can be very hard and uneven in case of frost.",
               "A hot drink in a thermos will keep you warm from the inside."
+            ],
+            "hr": [
+              "Planirajte povratak prije 16:30 kako biste stigli dok je još dan.",
+              "Nosite termo odjeću za biciklizam, posebno za noge.",
+              "Staze uz jezero mogu biti vrlo tvrde i neravne u slučaju mraza.",
+              "Topli napitak u termosu grijat će vas iznutra."
             ]
           }
         }
@@ -1262,7 +1366,8 @@
             "de": "Besichtigen Sie das Museum im Inneren des Han.",
             "hu": "Látogassa meg a Han belső múzeumát.",
             "ro": "Vizitați muzeul din interiorul hanului.",
-            "en": "Visit the museum inside the Han."
+            "en": "Visit the museum inside the Han.",
+            "hr": "Posjetite muzej unutar Hana."
           }
         },
         {
@@ -1280,7 +1385,8 @@
             "de": "Fahrt zum Aussichtspunkt Kamenjak für den besten Blick.",
             "hu": "Hajtson fel a Kamenjak kilátóhoz a legjobb kilátásért.",
             "ro": "Mergeți la punctul de belvedere Kamenjak pentru cea mai bună vedere.",
-            "en": "Drive to the Kamenjak viewpoint for the best view."
+            "en": "Drive to the Kamenjak viewpoint for the best view.",
+            "hr": "Odvezite se do vidikovca Kamenjak za najbolji pogled."
           }
         },
         {
@@ -1298,7 +1404,8 @@
             "de": "Kurzer Halt im Stadtzentrum.",
             "hu": "Rövid megálló a városközpontban.",
             "ro": "Scurtă oprire în centrul orașului.",
-            "en": "Short stop in the city center."
+            "en": "Short stop in the city center.",
+            "hr": "Kratko zaustavljanje u centru grada."
           }
         },
         {
@@ -1316,7 +1423,8 @@
             "de": "Mittagessen in Hafennähe genießen.",
             "hu": "Élvezze az ebédet a kikötő közelében.",
             "ro": "Bucurați-vă de prânz în apropierea portului.",
-            "en": "Enjoy lunch near the harbor."
+            "en": "Enjoy lunch near the harbor.",
+            "hr": "Uživajte u ručku blizu luke."
           }
         },
         {
@@ -1334,7 +1442,8 @@
             "de": "Parkplatz direkt hinter dem Strand nutzen.",
             "hu": "Használja a strand közvetlen mögötti parkolót.",
             "ro": "Folosiți parcarea situată direct în spatele plajei.",
-            "en": "Use the parking lot directly behind the beach."
+            "en": "Use the parking lot directly behind the beach.",
+            "hr": "Koristite parkiralište odmah iza plaže."
           }
         },
         {
@@ -1352,7 +1461,8 @@
             "de": "Abendspaziergang durch das Resortgelände.",
             "hu": "Esti séta az üdülőhely területén.",
             "ro": "Plimbare de seară prin zona complexului.",
-            "en": "Evening walk through the resort grounds."
+            "en": "Evening walk through the resort grounds.",
+            "hr": "Večernja šetnja kroz krug resorta."
           }
         }
       ],
@@ -1360,7 +1470,8 @@
         "de": "Mit dem Auto lassen sich die Kontraste von Pakoštane am besten erkunden. Die Reise beginnt im Landesinneren bei der osmanischen Festung Maškovića Han und führt zum spektakulären Aussichtspunkt Kamenjak über dem Vrana-See. Danach kehrt man zur Küste zurück, um das pulsierende Leben im Hafen und die Entspannung an den weiten Stränden zu genießen. Ein Tag voller Geschichte und Natur.",
         "hu": "Autóval fedezhetők fel legjobban Pakoštane kontrasztjai. Az utazás a hátországban kezdődik a Maškovića Han oszmán erődítményénél, majd a Vrana-tó feletti látványos Kamenjak kilátóhoz vezet. Ezután visszatérünk a partra, hogy élvezzük a kikötő lüktető életét és a pihenést a tágas strandokon. Történelemmel és természettel teli nap.",
         "ro": "Cu mașina, contrastele din Pakoštane pot fi explorate cel mai bine. Călătoria începe în interiorul țării, la fortăreața otomană Hanul Maškovića, și duce la spectaculosul punct de belvedere Kamenjak deasupra Lacului Vrana. Apoi, vă întoarceți la coastă pentru a vă bucura de viața vibrantă din port și de relaxarea pe plajele întinse. O zi plină de istorie și natură.",
-        "en": "By car, the contrasts of Pakoštane can be explored best. The journey begins inland at the Ottoman fortress Maškovića Han and leads to the spectacular Kamenjak viewpoint over Lake Vrana. Then you return to the coast to enjoy the vibrant life in the harbor and relaxation on the wide beaches. A day full of history and nature."
+        "en": "By car, the contrasts of Pakoštane can be explored best. The journey begins inland at the Ottoman fortress Maškovića Han and leads to the spectacular Kamenjak viewpoint over Lake Vrana. Then you return to the coast to enjoy the vibrant life in the harbor and relaxation on the wide beaches. A day full of history and nature.",
+        "hr": "Automobilom se najbolje mogu istražiti kontrasti Pakoštana. Putovanje počinje u zaleđu kod osmanske utvrde Maškovića Han i vodi do spektakularnog vidikovca Kamenjak iznad Vranskog jezera. Zatim se vraćate na obalu kako biste uživali u živahnom životu u luci i opuštanju na prostranim plažama. Dan pun povijesti i prirode."
       },
       "gastro_picks": {
         "de": [
@@ -1385,6 +1496,12 @@
           {
             "name": "Restoran Kamenjak",
             "tip": "Homemade pršut with a view over the islands."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Kamenjak",
+            "tip": "Domaći pršut s pogledom na otoke."
           }
         ]
       },
@@ -1416,6 +1533,13 @@
             "tip": "Sunset over the Kornati islands.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Kamenjak",
+            "tip": "Zalazak sunca nad Kornatima.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1441,6 +1565,12 @@
           {
             "name": "Vrana Olive Oil",
             "tip": "Direct sale from farmers in Vrana."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Maslinovo ulje Vrana",
+            "tip": "Izravna prodaja od poljoprivrednika u Vrani."
           }
         ]
       },
@@ -1468,6 +1598,12 @@
           "Parking in the harbor area is paid in summer.",
           "Combine the visit to Vrana with lunch at the Han.",
           "Refuel in Pakoštane before heading inland."
+        ],
+        "hr": [
+          "Cesta do Kamenjaka je uska, vozite oprezno.",
+          "Parkiranje u području luke se plaća ljeti.",
+          "Kombinirajte posjet Vrani s ručkom u Hanu.",
+          "Natočite gorivo u Pakoštanima prije odlaska u zaleđe."
         ]
       },
       "variants": {
@@ -1648,7 +1784,8 @@
             "de": "Beginnen Sie Ihre Tour bequem im Maškovića Han, wo Sie dem Regen in historischer Pracht entfliehen. Ein Abstecher zum Vrana-See zeigt die Natur in satten Farben. Im Ort Pakoštane besuchen Sie das Tuđman-Denkmal und den Hafen, bevor Sie den Tag am Strand Janice und dem Pine Beach Resort mit Blick auf die stürmische See beschließen.",
             "hu": "Kezdje túráját kényelmesen a Maškovića Hanban, ahol történelmi pompában menekülhet az eső elől. Egy kitérő a Vrana-tóhoz megmutatja a természet telt színeit. Pakoštanéban látogasson el a Tuđman-emlékműhöz és a kikötőbe, majd zárja a napot a Janice-strandon és a Pine Beach Resortnál.",
             "ro": "Începeți turul confortabil la Maškovića Han, unde scăpați de ploaie în splendoarea istorică. O excursie la lacul Vrana arată natura în culori bogate. În Pakoštane, vizitați monumentul Tuđman și portul, înainte de a încheia ziua la plaja Janice și Pine Beach Resort cu vedere la marea agitată.",
-            "en": "Start your tour comfortably at Maškovića Han, escaping the rain in historical splendor. A detour to Vrana Lake shows nature in rich colors. In Pakoštane, visit the Tuđman monument and the harbor before ending the day at Janice beach and Pine Beach Resort with a view of the stormy sea."
+            "en": "Start your tour comfortably at Maškovića Han, escaping the rain in historical splendor. A detour to Vrana Lake shows nature in rich colors. In Pakoštane, visit the Tuđman monument and the harbor before ending the day at Janice beach and Pine Beach Resort with a view of the stormy sea.",
+            "hr": "Započnite svoju turu udobno u Maškovića Hanu, bježeći od kiše u povijesnom sjaju. Izlet do Vranskog jezera pokazuje prirodu u bogatim bojama. U Pakoštanima posjetite spomenik Tuđmanu i luku prije nego što završite dan na plaži Janice i u Pine Beach Resortu s pogledom na uzburkano more."
           },
           "stops": [
             {
@@ -1730,6 +1867,12 @@
               "Use parking lots near the harbor for short walks to cafes.",
               "Maškovića Han offers excellent interior spaces for rainy hours.",
               "Watch out for aquaplaning on the Jadranska Magistrala."
+            ],
+            "hr": [
+              "Vidljivost može biti ograničena na obalnoj cesti tijekom jake kiše.",
+              "Koristite parkirališta u blizini luke za kratke šetnje do kafića.",
+              "Maškovića Han nudi izvrsne unutarnje prostore za kišne sate.",
+              "Pazite na akvaplaning na Jadranskoj magistrali."
             ]
           }
         },
@@ -1738,7 +1881,8 @@
             "de": "Beginnen Sie Ihren Wintertag im geschichtsträchtigen Maškovića Han, gefolgt von einer Panoramafahrt entlang des Vrana-Sees. Im ruhigen Pakoštane besuchen Sie das Tuđman-Denkmal und den Hafen unter der tiefstehenden Sonne. Der Nachmittag am Strand Janice und ein Blick auf das winterliche Pine Beach Resort runden die Tour ab.",
             "hu": "Kezdje téli napját a történelmi Maškovića Hanban, majd tegyen panorámás utat a Vrana-tó mentén. A csendes Pakoštanéban látogasson el a Tuđman-emlékműhöz és a kikötőbe az alacsonyan járó nap fényében. A Janice-strand és a téli Pine Beach Resort megtekintése zárja a túrát.",
             "ro": "Începeți ziua de iarnă la istoricul Maškovića Han, urmat de o plimbare panoramică de-a lungul lacului Vrana. În liniștitul Pakoštane, vizitați monumentul Tuđman și portul sub soarele de joasă altitudine. După-amiaza la plaja Janice și o privire spre Pine Beach Resort iarna completează turul.",
-            "en": "Start your winter day at the historic Maškovića Han, followed by a panoramic drive along Vrana Lake. In quiet Pakoštane, visit the Tuđman monument and the harbor under the low-lying sun. The afternoon at Janice beach and a look at the wintery Pine Beach Resort round off the tour."
+            "en": "Start your winter day at the historic Maškovića Han, followed by a panoramic drive along Vrana Lake. In quiet Pakoštane, visit the Tuđman monument and the harbor under the low-lying sun. The afternoon at Janice beach and a look at the wintery Pine Beach Resort round off the tour.",
+            "hr": "Započnite zimski dan u povijesnom Maškovića Hanu, nakon čega slijedi panoramska vožnja uz Vransko jezero. U mirnim Pakoštanima posjetite spomenik Tuđmanu i luku pod niskim suncem. Poslijepodne na plaži Janice i pogled na zimski Pine Beach Resort upotpunjuju turu."
           },
           "stops": [
             {
@@ -1820,6 +1964,12 @@
               "Utilize daylight until 16:30 for the best photos.",
               "Roads are empty in winter, but be careful in shaded areas.",
               "Many restaurants in town are closed in winter; Maškovića Han is a safe bet."
+            ],
+            "hr": [
+              "Provjerite grijanje u unajmljenom automobilu prije puta.",
+              "Iskoristite dnevno svjetlo do 16:30 za najbolje fotografije.",
+              "Ceste su zimi prazne, ali budite oprezni u sjenovitim područjima.",
+              "Mnogi restorani u gradu su zatvoreni zimi; Maškovića Han je siguran izbor."
             ]
           }
         }
@@ -1848,7 +1998,8 @@
             "de": "Zentraler Busstopp an der Magistrale.",
             "hu": "Központi buszmegálló a főút mentén.",
             "ro": "Stație de autobuz centrală pe magistrală.",
-            "en": "Central bus stop on the main road."
+            "en": "Central bus stop on the main road.",
+            "hr": "Središnja autobusna stanica na glavnoj cesti."
           }
         },
         {
@@ -1866,7 +2017,8 @@
             "de": "Leicht zu Fuß vom Busstopp erreichbar.",
             "hu": "Könnyen elérhető gyalog a buszmegállótól.",
             "ro": "Ușor accesibilă pe jos de la stația de autobuz.",
-            "en": "Easily accessible on foot from the bus stop."
+            "en": "Easily accessible on foot from the bus stop.",
+            "hr": "Lako dostupno pješice s autobusnog stajališta."
           }
         },
         {
@@ -1884,7 +2036,8 @@
             "de": "Ideal für einen langen Strandvormittag.",
             "hu": "Ideális egy hosszú délelőtti strandoláshoz.",
             "ro": "Ideal pentru o dimineață lungă la plajă.",
-            "en": "Ideal for a long morning at the beach."
+            "en": "Ideal for a long morning at the beach.",
+            "hr": "Idealno za dugo jutro na plaži."
           }
         },
         {
@@ -1902,7 +2055,8 @@
             "de": "Nahe der Gastronomie im Zentrum.",
             "hu": "Közel a központi éttermekhez.",
             "ro": "Aproape de restaurantele din centru.",
-            "en": "Near the restaurants in the center."
+            "en": "Near the restaurants in the center.",
+            "hr": "Blizu restorana u centru."
           }
         },
         {
@@ -1920,7 +2074,8 @@
             "de": "Kurzer lokaler Bustransfer möglich.",
             "hu": "Rövid helyi buszos transzfer lehetséges.",
             "ro": "Scurt transfer cu autobuzul local disponibil.",
-            "en": "Short local bus transfer possible."
+            "en": "Short local bus transfer possible.",
+            "hr": "Moguć kratki transfer lokalnim autobusom."
           }
         }
       ],
@@ -1928,7 +2083,8 @@
         "de": "Pakoštane ist über die Küstenstraße gut an das regionale Busnetz angebunden. Der Tag beginnt im Zentrum, von wo aus alle wichtigen Sehenswürdigkeiten und Strände bequem zu Fuß oder mit kurzen Fahrten erreichbar sind. Die entspannte Atmosphäre des Ortes lässt sich wunderbar ohne eigenes Auto genießen, besonders bei einem Tag am Strand Janice oder einem Besuch der historischen Kirchen.",
         "hu": "Pakoštane a tengerparti út révén jól kapcsolódik a regionális buszhálózathoz. A nap a központban indul, ahonnan minden fontos látnivaló és strand kényelmesen elérhető gyalog vagy rövid utazással. A település nyugodt légköre remekül élvezhető saját autó nélkül is, különösen egy Janice strandos nap vagy a történelmi templomok meglátogatása során.",
         "ro": "Pakoštane este bine conectat la rețeaua regională de autobuze prin drumul de coastă. Ziua începe în centru, de unde toate atracțiile importante și plajele sunt ușor accesibile pe jos sau cu călătorii scurte. Atmosfera relaxată a localității poate fi savurată minunat fără mașină proprie, în special în timpul unei zile pe plaja Janice sau a unei vizite la bisericile istorice.",
-        "en": "Pakoštane is well-connected to the regional bus network via the coastal road. The day starts in the center, from where all important sights and beaches are easily accessible on foot or with short rides. The relaxed atmosphere of the place can be wonderfully enjoyed without a car, especially during a day at Janice Beach or a visit to the historical churches."
+        "en": "Pakoštane is well-connected to the regional bus network via the coastal road. The day starts in the center, from where all important sights and beaches are easily accessible on foot or with short rides. The relaxed atmosphere of the place can be wonderfully enjoyed without a car, especially during a day at Janice Beach or a visit to the historical churches.",
+        "hr": "Pakoštane su dobro povezane s regionalnom autobusnom mrežom preko obalne ceste. Dan počinje u centru, odakle su sve važne znamenitosti i plaže lako dostupne pješice ili kratkim vožnjama. U opuštenoj atmosferi mjesta može se divno uživati bez automobila, posebno tijekom dana na plaži Janice ili posjeta povijesnim crkvama."
       },
       "gastro_picks": {
         "de": [
@@ -1953,6 +2109,12 @@
           {
             "name": "Pizzeria Libero",
             "tip": "Popular with locals, right on the main road."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pizzeria Libero",
+            "tip": "Popularna među lokalnim stanovništvom, odmah na glavnoj cesti."
           }
         ]
       },
@@ -1984,6 +2146,13 @@
             "tip": "Cool benches near the church.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Sjenoviti park",
+            "tip": "Hladne klupe u blizini crkve.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -2009,6 +2178,12 @@
           {
             "name": "Konzum Supermarket",
             "tip": "For travel provisions and snacks."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konzum Supermarket",
+            "tip": "Za putne potrepštine i grickalice."
           }
         ]
       },
@@ -2036,6 +2211,12 @@
           "Buy tickets directly from the driver for local rides.",
           "Stops are often simply marked, ask locals.",
           "Plan buffer time as buses can be delayed."
+        ],
+        "hr": [
+          "Provjerite vozni red autobusa online na Arriva ili Liburnija.",
+          "Kupite karte izravno kod vozača za lokalne vožnje.",
+          "Stajališta su često jednostavno označena, pitajte mještane.",
+          "Planirajte dodatno vrijeme jer autobusi mogu kasniti."
         ]
       },
       "variants": {
@@ -2207,7 +2388,8 @@
             "de": "Starten Sie am Hafen, wo die Busse in Meeresnähe halten. Besuchen Sie die schützende Pfarrkirche, bevor Sie den Strand Janice erreichen. Das Tuđman-Denkmal lässt sich bei einem kurzen Spaziergang besichtigen, bevor Sie den Tag am Pine Beach Resort ausklingen lassen, während der Regen auf das Meer prasselt.",
             "hu": "Kezdje a kikötőben, ahol a buszok a tenger közelében állnak meg. Látogassa meg a menedéket nyújtó plébániatemplomot, mielőtt elérné a Janice-strandot. A Tuđman-emlékmű egy rövid séta alatt megtekinthető, majd zárja a napot a Pine Beach Resortnál, miközben az eső a tengerre hull.",
             "ro": "Începeți în port, unde autobuzele opresc aproape de mare. Vizitați biserica parohială protectoare înainte de a ajunge la plaja Janice. Monumentul Tuđman poate fi vizitat în timpul unei scurte plimbări, înainte de a încheia ziua la Pine Beach Resort în timp ce ploaia cade peste mare.",
-            "en": "Start at the harbor where buses stop near the sea. Visit the sheltering parish church before reaching Janice beach. The Tuđman monument can be seen during a short walk before ending the day at Pine Beach Resort as rain patters on the sea."
+            "en": "Start at the harbor where buses stop near the sea. Visit the sheltering parish church before reaching Janice beach. The Tuđman monument can be seen during a short walk before ending the day at Pine Beach Resort as rain patters on the sea.",
+            "hr": "Započnite u luci gdje autobusi staju blizu mora. Posjetite zaklonjenu župnu crkvu prije dolaska na plažu Janice. Spomenik Tuđmanu može se vidjeti tijekom kratke šetnje prije završetka dana u Pine Beach Resortu dok kiša udara po moru."
           },
           "stops": [
             {
@@ -2280,6 +2462,12 @@
               "The 'Arriva' app helps tracking the lines in real time.",
               "Wear waterproof clothing for the walks between stops and destinations.",
               "Keep change ready for the ticket in case card payment fails."
+            ],
+            "hr": [
+              "Autobusi mogu imati mala kašnjenja tijekom jake kiše.",
+              "Aplikacija 'Arriva' pomaže u praćenju linija u stvarnom vremenu.",
+              "Nosite vodootpornu odjeću za šetnje između stajališta i odredišta.",
+              "Pripremite sitniš za kartu u slučaju da plaćanje karticom ne uspije."
             ]
           }
         },
@@ -2288,7 +2476,8 @@
             "de": "Genießen Sie den Hafen von Pakoštane im Winterlicht, bequem erreichbar mit dem Bus. Besuchen Sie die Pfarrkirche und schlendern Sie zum Strand Janice, wo die Brandung das einzige Geräusch ist. Ein kurzer Besuch am Tuđman-Denkmal und beim winterlichen Pine Beach Resort rundet Ihren entspannten Ausflug ab.",
             "hu": "Élvezze a pakoštanei kikötőt a téli fényben, busszal kényelmesen megközelítve. Látogassa meg a plébániatemplomot, és sétáljon el a Janice-strandra, ahol csak a hullámverés hallatszik. Rövid látogatás a Tuđman-emlékműnél és a téli Pine Beach Resortnál zárja a pihentető kirándulást.",
             "ro": "Bucurați-vă de portul Pakoštane în lumina iernii, accesibil confortabil cu autobuzul. Vizitați biserica parohială și plimbați-vă până la plaja Janice, unde valurile sunt singurul sunet. O scurtă vizită la monumentul Tuđman și la Pine Beach Resort iarna vă completează excursia relaxantă.",
-            "en": "Enjoy Pakoštane harbor in the winter light, easily accessible by bus. Visit the parish church and stroll to Janice beach, where the surf is the only sound. A short visit to the Tuđman monument and the wintery Pine Beach Resort rounds off your relaxed excursion."
+            "en": "Enjoy Pakoštane harbor in the winter light, easily accessible by bus. Visit the parish church and stroll to Janice beach, where the surf is the only sound. A short visit to the Tuđman monument and the wintery Pine Beach Resort rounds off your relaxed excursion.",
+            "hr": "Uživajte u luci Pakoštane na zimskom svjetlu, lako dostupnoj autobusom. Posjetite župnu crkvu i prošećite do plaže Janice, gdje je šum valova jedini zvuk. Kratki posjet spomeniku Tuđmanu i zimski Pine Beach Resort upotpunjuju vaš opušteni izlet."
           },
           "stops": [
             {
@@ -2361,6 +2550,12 @@
               "Buses can be very cold on long distances in winter; dress warmly.",
               "Utilize the midday hours for your excursions to catch the light.",
               "Stops are often windy in winter; seek wind protection behind buildings."
+            ],
+            "hr": [
+              "Unaprijed provjerite zimski vozni red online na 'GetByBus'.",
+              "Autobusi mogu biti vrlo hladni na dugim relacijama zimi; odjenite se toplo.",
+              "Iskoristite podnevne sate za izlete kako biste uhvatili svjetlo.",
+              "Stajališta su zimi često vjetrovita; potražite zaštitu od vjetra iza zgrada."
             ]
           }
         }

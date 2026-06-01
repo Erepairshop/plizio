@@ -36,7 +36,8 @@
             "de": "Trinken Sie hier Ihren ersten Espresso.",
             "hu": "Itt igyuk meg a reggeli kávénkat.",
             "ro": "Savurați prima cafea a zilei aici.",
-            "en": "Enjoy your morning coffee here."
+            "en": "Enjoy your morning coffee here.",
+            "hr": "Uživajte u jutarnjoj kavi ovdje."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Endpunkt der historischen Josephinerstraße.",
             "hu": "A történelmi Jozefina út végpontja.",
             "ro": "Punctul final al drumului istoric Iosefina.",
-            "en": "The end point of the historic Josephine road."
+            "en": "The end point of the historic Josephine road.",
+            "hr": "Završna točka povijesne Jozefinske ceste."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Bewundern Sie die romanischen Fassadendetails.",
             "hu": "Csodáljuk meg a román stílusú homlokzatot.",
             "ro": "Admirați detaliile fațadei romanice.",
-            "en": "Admire the Romanesque facade details."
+            "en": "Admire the Romanesque facade details.",
+            "hr": "Divite se detaljima romaničkog pročelja."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Erfahren Sie mehr über die Uskoken-Piraten.",
             "hu": "Ismerjük meg az uszkók kalózok történetét.",
             "ro": "Aflați povestea piraților uscoc.",
-            "en": "Learn about the Uskok pirates."
+            "en": "Learn about the Uskok pirates.",
+            "hr": "Naučite nešto o senjskim uskocima."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Der beste Blick über den Velebit-Kanal.",
             "hu": "A legszebb kilátás a Velebit-csatornára.",
             "ro": "Cea mai bună vedere asupra Canalului Velebit.",
-            "en": "The best view over the Velebit Channel."
+            "en": "The best view over the Velebit Channel.",
+            "hr": "Najbolji pogled na Velebitski kanal."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Ein Foto genau auf der halben Strecke zum Pol.",
             "hu": "Fotózkodjunk félúton az Egyenlítő és a Sark között.",
             "ro": "O fotografie exact la jumătatea distanței spre Pol.",
-            "en": "A photo exactly halfway to the Pole."
+            "en": "A photo exactly halfway to the Pole.",
+            "hr": "Fotografija točno na pola puta do pola."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Kristallklares Wasser direkt am Stadtzentrum.",
             "hu": "Kristálytiszta víz közvetlenül a városközpontban.",
             "ro": "Apă de cristal chiar lângă centrul orașului.",
-            "en": "Crystal clear water right by the city center."
+            "en": "Crystal clear water right by the city center.",
+            "hr": "Kristalno čisto more tik uz centar grada."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Der Morgen beginnt im historischen Kern von Senj am Cilnica-Platz, gefolgt von der Besichtigung des prachtvollen Großen Tores. Danach erkunden Sie die Kathedrale und das Stadtmuseum im Vukasović-Palast.\n\nMittags erklimmen Sie den Hügel zur imposanten Festung Nehaj, dem Symbol der Stadt. Genießen Sie die Aussicht und erfahren Sie alles über die tapferen Uskoken, die hier einst die Küste verteidigten.\n\nAm Nachmittag spazieren Sie nach Norden zum Denkmal des 45. Breitengrades. Es ist ein faszinierender Ort, der markiert, dass Sie sich genau zwischen Äquator und Nordpol befinden.\n\nDen Abend lassen Sie entspannt am Strand Banja ausklingen. Beobachten Sie, wie die Sonne hinter der Insel Krk im Meer versinkt, während die frische Meeresbrise des Velebit-Kanals kühlt.",
         "hu": "A reggel Zengg történelmi magjában indul a Cilnica téren, majd megcsodáljuk a monumentális Nagy Kaput. Ezután a Szűz Mária-székesegyház és a Vukasović-palotában működő múzeum következik.\n\nDélben felkapaszkodunk a Nehaj-dombra a város jelképéhez, a Nehaj-várhoz. Élvezzük a panorámát és ismerjük meg a bátor uszkókok történetét, akik innen védték az Adria partjait.\n\nDélután észak felé sétálunk a 45. szélességi kör emlékművéhez. Érdekes pont, amely jelzi, hogy pontosan félúton járunk az Egyenlítő és az Északi-sark között.\n\nAz estét a Banja strandon zárjuk. Nézzük végig, ahogy a nap lebukik a Krk-sziget mögött, miközben a Velebit-csatorna frissítő szele lengedezik a város felett.",
         "ro": "Dimineața începe în nucleul istoric al orașului Senj, în Piața Cilnica, urmată de vizitarea monumentalei Porți Mari. Apoi explorăm Catedrala și Muzeul Orașului găzduit în Palatul Vukasović.\n\nLa prânz urcăm dealul către impunătoarea Cetate Nehaj, simbolul orașului. Bucurați-vă de priveliște și aflați totul despre curajoșii uscoci care au apărat coasta de aici.\n\nDupă-amiaza ne plimbăm spre nord până la Monumentul Paralelei 45. Este un loc fascinant care marchează faptul că vă aflați exact la jumătatea distanței dintre Ecuator și Polul Nord.\n\nSeara se încheie relaxat pe plaja Banja. Urmăriți cum soarele apune în mare în spatele insulei Krk, în timp ce briza proaspătă a Canalului Velebit răcorește orașul.",
-        "en": "Morning starts in the historic core of Senj at Cilnica Square, followed by a visit to the magnificent Great Gate. Then explore the Cathedral and the City Museum in the Vukasović Palace.\n\nAt noon, climb the hill to the imposing Nehaj Fortress, the symbol of the city. Enjoy the view and learn everything about the brave Uskoks who once defended the coast from here.\n\nIn the afternoon, walk north to the 45th Parallel Monument. It is a fascinating spot marking that you are exactly halfway between the Equator and the North Pole.\n\nEnd the evening relaxed at Banja Beach. Watch the sun sink into the sea behind the island of Krk, while the fresh breeze of the Velebit Channel cools the town."
+        "en": "Morning starts in the historic core of Senj at Cilnica Square, followed by a visit to the magnificent Great Gate. Then explore the Cathedral and the City Museum in the Vukasović Palace.\n\nAt noon, climb the hill to the imposing Nehaj Fortress, the symbol of the city. Enjoy the view and learn everything about the brave Uskoks who once defended the coast from here.\n\nIn the afternoon, walk north to the 45th Parallel Monument. It is a fascinating spot marking that you are exactly halfway between the Equator and the North Pole.\n\nEnd the evening relaxed at Banja Beach. Watch the sun sink into the sea behind the island of Krk, while the fresh breeze of the Velebit Channel cools the town.",
+        "hr": "Jutro započinje u povijesnoj jezgri Senja na trgu Cilnica, nakon čega slijedi posjet veličanstvenim Velikim vratima. Zatim istražite katedralu i Gradski muzej u palači Vukasović.\n\nU podne se popnite na brdo do impozantne tvrđave Nehaj, simbola grada. Uživajte u pogledu i saznajte sve o hrabrim Uskocima koji su odavde nekada branili obalu.\n\nPoslijepodne prošećite prema sjeveru do spomenika 45. paraleli. To je fascinantno mjesto koje označava da se nalazite točno na pola puta između ekvatora i Sjevernog pola.\n\nVečer završite opušteno na plaži Banja. Gledajte kako sunce tone u more iza otoka Krka, dok svježi povjetarac iz Velebitskog kanala hladi grad."
       },
       "gastro_picks": {
         "de": [
@@ -223,6 +231,16 @@
           {
             "name": "Senjski Uskok",
             "tip": "Fresh fish straight from the Velebit Channel."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Val",
+            "tip": "Probajte domaće šurlice s kozicama."
+          },
+          {
+            "name": "Senjski Uskok",
+            "tip": "Svježa riba izravno iz Velebitskog kanala."
           }
         ]
       },
@@ -274,6 +292,18 @@
             "tip": "Quiet walking paths around the castle.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Brdo tvrđave Nehaj",
+            "tip": "Panoramski pogled na zalazak sunca u blizini utvrde.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park Nehaj",
+            "tip": "Mirne staze za šetnju oko dvorca.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -300,6 +330,12 @@
             "name": "Senj Honey Market",
             "tip": "Velebit sage honey is a unique local specialty."
           }
+        ],
+        "hr": [
+          {
+            "name": "Tržnica meda u Senju",
+            "tip": "Velebitski med od kadulje jedinstveni je lokalni specijalitet."
+          }
         ]
       },
       "tips": {
@@ -322,6 +358,11 @@
           "Senj is famous for the 'Bura' wind; check the weather forecast.",
           "Wear sturdy shoes for the climb to the fortress.",
           "Harbor parking fills up quickly, try the surrounding areas."
+        ],
+        "hr": [
+          "Senj je poznat po buri; provjerite vremensku prognozu.",
+          "Nosite čvrstu obuću za uspon do tvrđave.",
+          "Parking u luci se brzo popuni, pokušajte u okolnim ulicama."
         ]
       },
       "variants": {
@@ -578,7 +619,8 @@
             "de": "Beginnen Sie Ihren nassen Morgen am Cilnica-Platz und dem Großen Tor. Mittags bieten die Kathedrale und das Stadtmuseum perfekten Schutz vor dem Regen. Nachmittags trotzen Sie dem Wetter auf dem Weg zur Festung Nehaj. Abends beobachten Sie das stürmische Meer am Banja-Strand.",
             "hu": "Kezdje az esős reggelt a Cilnica téren és a Nagy Kapunál. Délben a katedrális és a Városi Múzeum tökéletes menedéket nyújt. Délután dacoljon az időjárással a Nehaj erőd felé vezető úton. Este nézze meg a viharos tengert a Banja strandon.",
             "ro": "Începeți dimineața ploioasă la Piața Cilnica și Poarta Mare. La prânz, Catedrala și Muzeul Orașului oferă un adăpost perfect. După-amiaza, înfruntați vremea spre Cetatea Nehaj. Seara, priviți marea furtunoasă de la plaja Banja.",
-            "en": "Start your wet morning at Cilnica Square and the Great Gate. At noon, the Cathedral and City Museum offer perfect shelter from the rain. In the afternoon, brave the weather on the way to Nehaj Fortress. In the evening, watch the stormy sea at Banja Beach."
+            "en": "Start your wet morning at Cilnica Square and the Great Gate. At noon, the Cathedral and City Museum offer perfect shelter from the rain. In the afternoon, brave the weather on the way to Nehaj Fortress. In the evening, watch the stormy sea at Banja Beach.",
+            "hr": "Započnite svoje kišno jutro na trgu Cilnica i kod Velikih vrata. U podne katedrala i Gradski muzej nude savršen zaklon od kiše. Poslijepodne prkositi vremenu na putu do tvrđave Nehaj. Navečer promatrajte olujno more na plaži Banja."
           },
           "stops": [
             {
@@ -587,7 +629,8 @@
                 "de": "Vorsicht auf dem rutschigen Kopfsteinpflaster.",
                 "hu": "Vigyázz a csúszós macskaköveken.",
                 "ro": "Atenție la pietrele cubice alunecoase.",
-                "en": "Watch your step on the slippery cobblestones."
+                "en": "Watch your step on the slippery cobblestones.",
+                "hr": "Pazite na korak na skliskom popločenju."
               }
             },
             {
@@ -596,7 +639,8 @@
                 "de": "Ein guter Ort für ein geschütztes Foto.",
                 "hu": "Jó hely egy védett fotó készítéséhez.",
                 "ro": "Un loc bun pentru o fotografie la adăpost.",
-                "en": "A good spot for a sheltered photo."
+                "en": "A good spot for a sheltered photo.",
+                "hr": "Dobro mjesto za fotografiju pod zaklonom."
               }
             },
             {
@@ -605,7 +649,8 @@
                 "de": "Genießen Sie das trockene, friedliche Innere.",
                 "hu": "Élvezze a száraz, békés belső teret.",
                 "ro": "Bucurați-vă de interiorul uscat și liniștit.",
-                "en": "Enjoy the dry, peaceful interior."
+                "en": "Enjoy the dry, peaceful interior.",
+                "hr": "Uživajte u suhoj i mirnoj unutrašnjosti."
               }
             },
             {
@@ -614,7 +659,8 @@
                 "de": "Perfekte Indoor-Aktivität bei starkem Regen.",
                 "hu": "Tökéletes beltéri program heves esőben.",
                 "ro": "Activitate de interior perfectă pentru ploaie abundentă.",
-                "en": "Perfect indoor activity for heavy rain."
+                "en": "Perfect indoor activity for heavy rain.",
+                "hr": "Savršena aktivnost u zatvorenom za jaku kišu."
               }
             },
             {
@@ -623,7 +669,8 @@
                 "de": "Hier oben kann es bei Sturm extrem windig sein.",
                 "hu": "Idefent vihar idején rendkívül szeles lehet.",
                 "ro": "Aici sus poate fi extrem de vântos în timpul furtunilor.",
-                "en": "It can be extremely windy up here during storms."
+                "en": "It can be extremely windy up here during storms.",
+                "hr": "Ovdje može biti izuzetno vjetrovito tijekom oluje."
               }
             },
             {
@@ -632,7 +679,8 @@
                 "de": "Kurzer Fotostopp, halten Sie die Kamera trocken.",
                 "hu": "Rövid fotómegálló, tartsa szárazon a kamerát.",
                 "ro": "Oprire scurtă pentru foto, păstrați camera uscată.",
-                "en": "Quick photo stop, keep your camera dry."
+                "en": "Quick photo stop, keep your camera dry.",
+                "hr": "Brzo fotografiranje, držite fotoaparat suhim."
               }
             },
             {
@@ -641,7 +689,8 @@
                 "de": "Beobachten Sie die Wellen aus sicherer Entfernung.",
                 "hu": "Figyelje a hullámokat biztonságos távolságból.",
                 "ro": "Priviți valurile de la o distanță sigură.",
-                "en": "Watch the waves from a safe distance."
+                "en": "Watch the waves from a safe distance.",
+                "hr": "Promatrajte valove s sigurne udaljenosti."
               }
             }
           ],
@@ -673,6 +722,13 @@
               "Wear waterproof walking shoes.",
               "Watch out for slippery stones in the old town.",
               "The Bora winds can make the rain blow in from the side."
+            ],
+            "hr": [
+              "Ponesite vrlo čvrst kišobran, u Senju je često vjetrovito.",
+              "Muzeji i crkve nude odličan zaklon od pljuskova.",
+              "Nosite nepromočivu obuću za hodanje.",
+              "Pazite na sklisko kamenje u starom gradu.",
+              "Bura može uzrokovati da kiša pada vodoravno."
             ]
           }
         },
@@ -681,7 +737,8 @@
             "de": "Ein frischer Morgen am Cilnica-Platz und dem Großen Tor. Mittags wärmen Sie sich in der Kathedrale und im Museum auf. Nachmittags steigen Sie in warmen Mänteln zur windigen Festung Nehaj hinauf. Abends genießen Sie den frühen Sonnenuntergang am 45. Breitengrad und am ruhigen Banja-Strand.",
             "hu": "Friss reggel a Cilnica téren és a Nagy Kapunál. Délben melegedjen fel a katedrálisban és a múzeumban. Délután meleg kabátban másszon fel a szeles Nehaj erődhöz. Este élvezze a korai naplementét a 45. szélességi foknál és a csendes Banja strandon.",
             "ro": "O dimineață răcoroasă la Piața Cilnica și Poarta Mare. La prânz, încălziți-vă în Catedrală și Muzeu. După-amiaza, urcați cu haine groase la Cetatea Nehaj cea bătută de vânt. Seara, bucurați-vă de apusul devreme la Paralela 45 și plaja liniștită Banja.",
-            "en": "A crisp morning at Cilnica Square and the Great Gate. At noon, warm up in the Cathedral and Museum. In the afternoon, climb up to the windy Nehaj Fortress in warm coats. In the evening, enjoy the early sunset at the 45th Parallel and the quiet Banja Beach."
+            "en": "A crisp morning at Cilnica Square and the Great Gate. At noon, warm up in the Cathedral and Museum. In the afternoon, climb up to the windy Nehaj Fortress in warm coats. In the evening, enjoy the early sunset at the 45th Parallel and the quiet Banja Beach.",
+            "hr": "Oštro jutro na trgu Cilnica i kod Velikih vrata. U podne se ugrijte u katedrali i muzeju. Poslijepodne se u toplim kaputima popnite do vjetrovite tvrđave Nehaj. Navečer uživajte u ranom zalasku sunca na 45. paraleli i mirnoj plaži Banja."
           },
           "stops": [
             {
@@ -690,7 +747,8 @@
                 "de": "Der historische Platz ist im Winter sehr ruhig.",
                 "hu": "A történelmi tér télen nagyon csendes.",
                 "ro": "Piața istorică este foarte liniștită iarna.",
-                "en": "The historic square is very quiet in winter."
+                "en": "The historic square is very quiet in winter.",
+                "hr": "Povijesni trg je vrlo tih zimi."
               }
             },
             {
@@ -699,7 +757,8 @@
                 "de": "Ziehen Sie sich warm an, hier zieht der Wind durch.",
                 "hu": "Öltözzön fel melegen, itt átsüvít a szél.",
                 "ro": "Îmbrăcați-vă gros, vântul bate puternic aici.",
-                "en": "Bundle up, the wind funnels through here."
+                "en": "Bundle up, the wind funnels through here.",
+                "hr": "Dobro se zamotajte, vjetar ovdje pojačava."
               }
             },
             {
@@ -708,7 +767,8 @@
                 "de": "Ein ruhiger Rückzugsort vor der Kälte.",
                 "hu": "Csendes menedék a hideg elől.",
                 "ro": "Un refugiu liniștit din calea frigului.",
-                "en": "A quiet retreat from the cold."
+                "en": "A quiet retreat from the cold.",
+                "hr": "Mirno utočište od hladnoće."
               }
             },
             {
@@ -717,7 +777,8 @@
                 "de": "Prüfen Sie vorab die Winteröffnungszeiten.",
                 "hu": "Előre ellenőrizze a téli nyitvatartást.",
                 "ro": "Verificați în prealabil programul de iarnă.",
-                "en": "Check winter opening hours in advance."
+                "en": "Check winter opening hours in advance.",
+                "hr": "Unaprijed provjerite zimsko radno vrijeme."
               }
             },
             {
@@ -726,7 +787,8 @@
                 "de": "Atemberaubende Aussicht, aber eisige Winde.",
                 "hu": "Lélegzetelállító kilátás, de fagyos szelek.",
                 "ro": "Priveliști uimitoare, dar vânturi înghețate.",
-                "en": "Breathtaking views, but freezing winds."
+                "en": "Breathtaking views, but freezing winds.",
+                "hr": "Pogled koji oduzima dah, ali ledeni vjetrovi."
               }
             },
             {
@@ -735,7 +797,8 @@
                 "de": "Schönes Licht zur Goldenen Stunde im Winter.",
                 "hu": "Gyönyörű fény a téli aranyórában.",
                 "ro": "Lumină frumoasă la ora de aur în timpul iernii.",
-                "en": "Beautiful golden hour light in winter."
+                "en": "Beautiful golden hour light in winter.",
+                "hr": "Prekrasno svjetlo 'zlatnog sata' zimi."
               }
             },
             {
@@ -744,7 +807,8 @@
                 "de": "Ein friedlicher Ort für einen zügigen Winterspaziergang.",
                 "hu": "Békés hely egy élénk téli sétához.",
                 "ro": "Un loc liniștit pentru o plimbare vioaie de iarnă.",
-                "en": "A peaceful spot for a brisk winter stroll."
+                "en": "A peaceful spot for a brisk winter stroll.",
+                "hr": "Mirno mjesto za brzu zimsku šetnju."
               }
             }
           ],
@@ -776,6 +840,13 @@
               "Sunset is often around 16:30.",
               "Some harbor cafes might be closed in winter.",
               "Nehaj Fortress is particularly cold, do not forget a scarf and hat."
+            ],
+            "hr": [
+              "Čuvajte se poznate senjske bure.",
+              "Nosite slojevitu i toplu odjeću.",
+              "Zalazak sunca je često oko 16:30.",
+              "Neki kafići u luci mogu biti zatvoreni zimi.",
+              "Tvrđava Nehaj je posebno hladna, ne zaboravite šal i kapu."
             ]
           }
         }
@@ -809,7 +880,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Központi indulópont.",
             "ro": "Punct de start central.",
-            "en": "Central starting point."
+            "en": "Central starting point.",
+            "hr": "Središnja polazna točka."
           }
         },
         {
@@ -832,7 +904,8 @@
             "de": "Historisches Stadttor.",
             "hu": "Történelmi városkapu.",
             "ro": "Poartă istorică a orașului.",
-            "en": "Historic city gate."
+            "en": "Historic city gate.",
+            "hr": "Povijesna gradska vrata."
           }
         },
         {
@@ -855,7 +928,8 @@
             "de": "Schöne Fahrt entlang der Küste.",
             "hu": "Szép szakasz a tengerpart mentén.",
             "ro": "Drum frumos de-a lungul coastei.",
-            "en": "Nice ride along the coast."
+            "en": "Nice ride along the coast.",
+            "hr": "Lijepa vožnja uz obalu."
           }
         },
         {
@@ -878,7 +952,8 @@
             "de": "Anstrengender Aufstieg, aber es lohnt sich.",
             "hu": "Fárasztó emelkedő, de megéri.",
             "ro": "Urcare solicitantă, dar merită.",
-            "en": "Tough climb, but worth it."
+            "en": "Tough climb, but worth it.",
+            "hr": "Težak uspon, ali se isplati."
           }
         },
         {
@@ -901,7 +976,8 @@
             "de": "Verdiente Abkühlung.",
             "hu": "Megérdemelt hűsölés.",
             "ro": "Răcorire binemeritată.",
-            "en": "Well-deserved cooling off."
+            "en": "Well-deserved cooling off.",
+            "hr": "Zasluženo hlađenje."
           }
         },
         {
@@ -924,7 +1000,8 @@
             "de": "Ein ruhiger spiritueller Ort.",
             "hu": "Csendes lelki központ.",
             "ro": "Un loc spiritual liniștit.",
-            "en": "A quiet spiritual place."
+            "en": "A quiet spiritual place.",
+            "hr": "Mirno duhovno mjesto."
           }
         }
       ],
@@ -932,7 +1009,8 @@
         "de": "Starten Sie am Cilnica-Platz und fahren Sie durch das Große Tor nach Norden zum 45. Breitengrad. Die Küstenstraße bietet herrliche Ausblicke.\n\nZurück im Zentrum fordern Sie Ihre Kondition beim Aufstieg zur Festung Nehaj heraus. Die Belohnung ist der weiteste Blick der Region.\n\nNach der Abfahrt ist der Strand Banja der ideale Ort für eine lange Pause im klaren Wasser.\n\nZum Abschluss besuchen Sie die Kirche des Heiligen Franziskus, bevor Sie die Räder im Hafenviertel zurückgeben.",
         "hu": "Induljunk a Cilnica térről, majd a Nagy Kapun át tekintsünk északnak a 45. szélességi körhöz. A parti út csodás kilátást nyújt.\n\nA központba visszatérve tegyük próbára erőnlétünket a Nehaj-várhoz vezető emelkedőn. A jutalom a régió legszebb panorámája.\n\nA lejtőzés után a Banja strand tökéletes hely egy hosszú pihenőre a tiszta vízben.\n\nZárásként látogassuk meg a Szent Ferenc-templomot, mielőtt visszaadnánk a bringákat a kikötőben.",
         "ro": "Porniți din Piața Cilnica și treceți prin Poarta Mare spre nord, până la Paralela 45. Drumul de coastă oferă vederi superbe.\n\nReveniți în centru și testați-vă condiția fizică la urcarea spre Cetatea Nehaj. Răsplata este cea mai vastă panoramă din regiune.\n\nDupă coborâre, plaja Banja este locul ideal pentru o pauză lungă în apa limpede.\n\nLa final, vizitați Biserica Sfântul Francisc înainte de a returna bicicletele în zona portului.",
-        "en": "Start at Cilnica Square and ride through the Great Gate north to the 45th Parallel. The coastal road offers magnificent views.\n\nBack in the center, challenge your fitness with the climb to Nehaj Fortress. The reward is the widest view in the region.\n\nAfter the descent, Banja Beach is the ideal place for a long break in the clear water.\n\nFinally, visit the Church of St. Francis before returning the bikes in the harbor area."
+        "en": "Start at Cilnica Square and ride through the Great Gate north to the 45th Parallel. The coastal road offers magnificent views.\n\nBack in the center, challenge your fitness with the climb to Nehaj Fortress. The reward is the widest view in the region.\n\nAfter the descent, Banja Beach is the ideal place for a long break in the clear water.\n\nFinally, visit the Church of St. Francis before returning the bikes in the harbor area.",
+        "hr": "Krenite s trga Cilnica i vozite kroz Velika vrata prema sjeveru do 45. paralele. Obalna cesta nudi veličanstvene vidike.\n\nPovratkom u centar, testirajte svoju kondiciju usponom do tvrđave Nehaj. Nagrada je najširi pogled u regiji.\n\nNakon spusta, plaža Banja idealno je mjesto za duži odmor uz čisto more.\n\nNa kraju posjetite crkvu sv. Franje prije vraćanja bicikala u lučkom području."
       },
       "gastro_picks": {
         "de": [
@@ -957,6 +1035,12 @@
           {
             "name": "Konoba Ivka",
             "tip": "Homemade ham and cheese."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Ivka",
+            "tip": "Domaći pršut i sir."
           }
         ]
       },
@@ -988,6 +1072,13 @@
             "tip": "Quiet paths above the town.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Padine Velebita",
+            "tip": "Mirne staze iznad grada.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1014,6 +1105,12 @@
             "name": "Nehaj Souvenir Shop",
             "tip": "Small fortress replicas."
           }
+        ],
+        "hr": [
+          {
+            "name": "Suvenirnica Nehaj",
+            "tip": "Male replike tvrđave."
+          }
         ]
       },
       "tips": {
@@ -1036,6 +1133,11 @@
           "Watch out for strong winds, especially on open coastal sections.",
           "A mountain bike is recommended due to the steep castle climb.",
           "Take plenty of water for the ascent."
+        ],
+        "hr": [
+          "Pazite na jake udare vjetra, posebno na otvorenim obalnim dionicama.",
+          "Preporučuje se brdski bicikl zbog strmog uspona do utvrde.",
+          "Ponesite dovoljno vode za uspon."
         ]
       },
       "variants": {
@@ -1242,7 +1344,8 @@
             "de": "Morgens radeln Sie vorsichtig durch den nassen Cilnica-Platz und das Große Tor. Mittags erreichen Sie das Denkmal des 45. Breitengrads und dann die Festung Nehaj. Nachmittags machen Sie eine Pause in Regenkleidung am Banja-Strand. Abends beenden Sie die Tour an der Franziskuskirche, um sich abzutrocknen.",
             "hu": "Reggel óvatosan tekerjen át a nedves Cilnica téren és a Nagy Kapun. Délben érje el a 45. szélességi fok emlékművét, majd a Nehaj erődöt. Délután tartson szünetet esőruhában a Banja strandon. Este fejezze be a túrát a Szent Ferenc templomnál, hogy megszáradjon.",
             "ro": "Dimineața, pedalați cu grijă prin Piața Cilnica udă și Poarta Mare. La prânz, ajungeți la monumentul Paralelei 45 și apoi la Cetatea Nehaj. După-amiaza, faceți o pauză în haine de ploaie la plaja Banja. Seara, terminați turul la Biserica Sf. Francisc pentru a vă usca.",
-            "en": "In the morning, cycle carefully through the wet Cilnica Square and Great Gate. At noon, reach the 45th Parallel monument and then Nehaj Fortress. In the afternoon, take a break in rain gear at Banja Beach. In the evening, end the tour at St. Francis Church to dry off."
+            "en": "In the morning, cycle carefully through the wet Cilnica Square and Great Gate. At noon, reach the 45th Parallel monument and then Nehaj Fortress. In the afternoon, take a break in rain gear at Banja Beach. In the evening, end the tour at St. Francis Church to dry off.",
+            "hr": "Ujutro pažljivo biciklirajte kroz mokri trg Cilnica i Velika vrata. U podne dođite do spomenika 45. paraleli, a zatim do tvrđave Nehaj. Poslijepodne napravite pauzu u kišnoj opremi na plaži Banja. Navečer završite turu kod crkve sv. Franje kako biste se osušili."
           },
           "stops": [
             {
@@ -1251,7 +1354,8 @@
                 "de": "Nasses Pflaster ist für Reifen extrem rutschig.",
                 "hu": "A nedves burkolat rendkívül csúszós a gumiknak.",
                 "ro": "Pavajul ud este extrem de alunecos pentru anvelope.",
-                "en": "Wet pavement is extremely slippery for tires."
+                "en": "Wet pavement is extremely slippery for tires.",
+                "hr": "Mokri kolnik je izuzetno sklisak za gume."
               }
             },
             {
@@ -1260,7 +1364,8 @@
                 "de": "Kurz unterstellen, um die Brille abzuwischen.",
                 "hu": "Álljon be egy pillanatra, hogy letörölje a szemüvegét.",
                 "ro": "Adăpostiți-vă scurt pentru a vă șterge ochelarii.",
-                "en": "Take brief cover to wipe your glasses."
+                "en": "Take brief cover to wipe your glasses.",
+                "hr": "Nakratko se sklonite kako biste obrisali naočale."
               }
             },
             {
@@ -1269,7 +1374,8 @@
                 "de": "Vorsicht vor Seitenwinden auf der offenen Straße.",
                 "hu": "Vigyázzon az oldalszélre a nyílt úton.",
                 "ro": "Atenție la vânturile laterale pe drumul deschis.",
-                "en": "Watch out for crosswinds on the open road."
+                "en": "Watch out for crosswinds on the open road.",
+                "hr": "Pazite na bočni vjetar na otvorenoj cesti."
               }
             },
             {
@@ -1278,7 +1384,8 @@
                 "de": "Der Anstieg ist bei Regen anstrengend.",
                 "hu": "Az emelkedő esőben fárasztó.",
                 "ro": "Urcarea este obositoare pe timp de ploaie.",
-                "en": "The climb is exhausting in the rain."
+                "en": "The climb is exhausting in the rain.",
+                "hr": "Uspon je iscrpljujući na kiši."
               }
             },
             {
@@ -1287,7 +1394,8 @@
                 "de": "Suchen Sie Schutz unter den Bäumen.",
                 "hu": "Keressen menedéket a fák alatt.",
                 "ro": "Căutați adăpost sub copaci.",
-                "en": "Seek shelter under the trees."
+                "en": "Seek shelter under the trees.",
+                "hr": "Potražite zaklon ispod drveća."
               }
             },
             {
@@ -1296,7 +1404,8 @@
                 "de": "Ein ruhiger Ort, um sich vom Regen zu erholen.",
                 "hu": "Csendes hely az eső utáni pihenésre.",
                 "ro": "Un loc liniștit pentru a vă recupera după ploaie.",
-                "en": "A quiet place to recover from the rain."
+                "en": "A quiet place to recover from the rain.",
+                "hr": "Mirno mjesto za oporavak od kiše."
               }
             }
           ],
@@ -1328,6 +1437,13 @@
               "Avoid sudden braking on wet stone.",
               "The wind can get dangerously strong in Senj, dismount if in doubt.",
               "Bring waterproof bags for your valuables."
+            ],
+            "hr": [
+              "Koristite blatobrane na biciklu.",
+              "Nosite uočljivu nepromočivu odjeću.",
+              "Izbjegavajte naglo kočenje na mokrom kamenu.",
+              "Vjetar u Senju može postati opasno jak, siđite s bicikla ako ste u nedoumici.",
+              "Ponesite vodootporne torbe za dragocjenosti."
             ]
           }
         },
@@ -1336,7 +1452,8 @@
             "de": "Morgens radeln Sie frisch durch die historischen Plätze. Mittags fahren Sie zum 45. Breitengrad und wärmen sich beim Anstieg zur Festung Nehaj auf. Nachmittags genießen Sie den menschenleeren Banja-Strand. Abends beenden Sie die Tour vor Einbruch der Dunkelheit an der Franziskuskirche.",
             "hu": "Reggel frissen tekerjen át a történelmi tereken. Délben menjen a 45. szélességi fokhoz, és melegedjen fel a Nehaj erőd felé vezető emelkedőn. Délután élvezze az elhagyatott Banja strandot. Este fejezze be a túrát sötétedés előtt a Szent Ferenc templomnál.",
             "ro": "Dimineața, pedalați proaspăt prin piețele istorice. La prânz, mergeți la Paralela 45 și încălziți-vă urcând spre Cetatea Nehaj. După-amiaza, bucurați-vă de plaja pustie Banja. Seara, terminați turul înainte de lăsarea întunericului la Biserica Sf. Francisc.",
-            "en": "In the morning, cycle briskly through the historic squares. At noon, ride to the 45th Parallel and warm up on the climb to Nehaj Fortress. In the afternoon, enjoy the deserted Banja Beach. In the evening, end the tour before dark at St. Francis Church."
+            "en": "In the morning, cycle briskly through the historic squares. At noon, ride to the 45th Parallel and warm up on the climb to Nehaj Fortress. In the afternoon, enjoy the deserted Banja Beach. In the evening, end the tour before dark at St. Francis Church.",
+            "hr": "Ujutro žustro biciklirajte kroz povijesne trgove. U podne se odvezite do 45. paralele i ugrijte se na usponu do tvrđave Nehaj. Poslijepodne uživajte u pustoj plaži Banja. Navečer završite turu prije mraka kod crkve sv. Franje."
           },
           "stops": [
             {
@@ -1345,7 +1462,8 @@
                 "de": "Achten Sie auf Raureif am frühen Morgen.",
                 "hu": "Ügyeljen a kora reggeli zúzmarára.",
                 "ro": "Atenție la bruma dimineții devreme.",
-                "en": "Watch out for frost in the early morning."
+                "en": "Watch out for frost in the early morning.",
+                "hr": "Pazite na mraz rano ujutro."
               }
             },
             {
@@ -1354,7 +1472,8 @@
                 "de": "Fahren Sie langsam durch den Torbogen.",
                 "hu": "Lassan hajtson át a boltív alatt.",
                 "ro": "Conduceți încet prin arcadă.",
-                "en": "Ride slowly through the archway."
+                "en": "Ride slowly through the archway.",
+                "hr": "Vozite polako kroz nadsvođeni prolaz."
               }
             },
             {
@@ -1363,7 +1482,8 @@
                 "de": "Guter Ort für eine Pause in der Wintersonne.",
                 "hu": "Jó hely egy pihenőre a téli napsütésben.",
                 "ro": "Loc bun pentru o pauză în soarele de iarnă.",
-                "en": "Good spot for a break in the winter sun."
+                "en": "Good spot for a break in the winter sun.",
+                "hr": "Dobro mjesto za odmor na zimskom suncu."
               }
             },
             {
@@ -1372,7 +1492,8 @@
                 "de": "Der Aufstieg hält Sie bei Kälte warm.",
                 "hu": "A mászás melegen tartja a hidegben.",
                 "ro": "Urcarea vă va menține cald pe frig.",
-                "en": "The climb will keep you warm in the cold."
+                "en": "The climb will keep you warm in the cold.",
+                "hr": "Uspon će vas ugrijati na hladnoći."
               }
             },
             {
@@ -1381,7 +1502,8 @@
                 "de": "Der Wind vom Meer ist hier eisig.",
                 "hu": "A tenger felől fújó szél itt fagyos.",
                 "ro": "Vântul dinspre mare este înghețat aici.",
-                "en": "The wind from the sea is icy here."
+                "en": "The wind from the sea is icy here.",
+                "hr": "Vjetar s mora je ovdje leden."
               }
             },
             {
@@ -1390,7 +1512,8 @@
                 "de": "Ein schöner, ruhiger Abschluss der kalten Tour.",
                 "hu": "A hideg túra szép, csendes lezárása.",
                 "ro": "Un final frumos și liniștit pentru turul rece.",
-                "en": "A beautiful, quiet end to the cold tour."
+                "en": "A beautiful, quiet end to the cold tour.",
+                "hr": "Prekrasan, miran završetak hladne ture."
               }
             }
           ],
@@ -1422,6 +1545,13 @@
               "Wear thermal gloves and a helmet cap.",
               "Finish your ride before it gets dark around 16:30.",
               "Check tire pressure, it often drops in the cold."
+            ],
+            "hr": [
+              "Pazite na led u sjenovitim kutovima.",
+              "Jaka bura čini bicikliranje vrlo iscrpljujućim.",
+              "Nosite termo rukavice i kapu ispod kacige.",
+              "Završite vožnju prije nego što padne mrak oko 16:30.",
+              "Provjerite tlak u gumama, često opada na hladnoći."
             ]
           }
         }
@@ -1455,7 +1585,8 @@
             "de": "Parken direkt am Eingang möglich.",
             "hu": "Parkolás közvetlenül a bejáratnál.",
             "ro": "Parcare disponibilă chiar la intrare.",
-            "en": "Parking available right at the entrance."
+            "en": "Parking available right at the entrance.",
+            "hr": "Parking dostupan odmah na ulazu."
           }
         },
         {
@@ -1478,7 +1609,8 @@
             "de": "Nutzen Sie den großen Parkplatz am Hafen.",
             "hu": "Használjuk a nagy kikötői parkolót.",
             "ro": "Folosiți parcarea mare din port.",
-            "en": "Use the large harbor parking lot."
+            "en": "Use the large harbor parking lot.",
+            "hr": "Koristite veliki lučki parking."
           }
         },
         {
@@ -1501,7 +1633,8 @@
             "de": "Kurzer Stopp direkt an der Hauptstraße.",
             "hu": "Gyors megálló a főút mentén.",
             "ro": "Oprire scurtă chiar pe drumul principal.",
-            "en": "Quick stop right on the main road."
+            "en": "Quick stop right on the main road.",
+            "hr": "Brzo stajanje odmah uz glavnu cestu."
           }
         },
         {
@@ -1524,7 +1657,8 @@
             "de": "Besuchen Sie das Heiligtum Unserer Lieben Frau von Krasno.",
             "hu": "Látogassuk meg a krasnói Mária-kegyhelyet.",
             "ro": "Vizitați sanctuarul Maicii Domnului din Krasno.",
-            "en": "Visit the Sanctuary of Our Lady of Krasno."
+            "en": "Visit the Sanctuary of Our Lady of Krasno.",
+            "hr": "Posjetite Svetište Majke Božje od Krasna."
           }
         },
         {
@@ -1547,7 +1681,8 @@
             "de": "Spaziergang an der Riva zum Abschluss.",
             "hu": "Séta a parton a nap végén.",
             "ro": "O plimbare pe faleză la finalul zilei.",
-            "en": "A walk on the Riva to end the day."
+            "en": "A walk on the Riva to end the day.",
+            "hr": "Šetnja rivom za kraj dana."
           }
         }
       ],
@@ -1555,7 +1690,8 @@
         "de": "Beginnen Sie mit der Festung Nehaj, bevor die Busse kommen. Danach fahren Sie ins Zentrum zum Cilnica-Platz.\n\nEin kurzer Stopp am 45. Breitengrad führt Sie weiter ins Velebit-Gebirge nach Krasno. Die Fahrt durch die Serpentinen bietet spektakuläre Ausblicke auf die Kvarner-Inseln.\n\nIn Krasno genießen Sie die kühle Bergluft und besuchen das berühmte Bergheiligtum.\n\nZum Abend kehren Sie nach Senj zurück und genießen das geschäftige Treiben im Hafen, während die Sonne untergeht.",
         "hu": "Kezdjük a Nehaj-várral, mielőtt megérkeznek a buszos csoportok. Ezután hajtsunk a központba a Cilnica térhez.\n\nEgy rövid megálló a 45. szélességi körnél, majd irány a Velebit-hegység és Krasno. A szerpentineken felfelé haladva látványos kilátás nyílik a Kvarner-szigetekre.\n\nKrasnóban élvezzük a hűvös hegyi levegőt és látogassuk meg a híres kegyhelyet.\n\nEstére térjünk vissza Zenggbe, és élvezzük a kikötői nyüzsgést a naplementében.",
         "ro": "Începeți cu Cetatea Nehaj înainte de sosirea autocarelor. Apoi mergeți în centru, în Piața Cilnica.\n\nO oprire scurtă la Paralela 45 vă conduce mai departe în munții Velebit, spre Krasno. Drumul prin serpentine oferă vederi spectaculoase asupra insulelor Kvarner.\n\nÎn Krasno bucurați-vă de aerul răcoros de munte și vizitați faimosul sanctuar montan.\n\nSeara reveniți în Senj și bucurați-vă de agitația din port în timp ce soarele apune.",
-        "en": "Start with Nehaj Fortress before the tour buses arrive. Then drive to the center to Cilnica Square.\n\nA short stop at the 45th Parallel leads you further into the Velebit Mountains to Krasno. The drive through the serpentines offers spectacular views of the Kvarner islands.\n\nIn Krasno, enjoy the cool mountain air and visit the famous mountain sanctuary.\n\nIn the evening, return to Senj and enjoy the bustling harbor as the sun sets."
+        "en": "Start with Nehaj Fortress before the tour buses arrive. Then drive to the center to Cilnica Square.\n\nA short stop at the 45th Parallel leads you further into the Velebit Mountains to Krasno. The drive through the serpentines offers spectacular views of the Kvarner islands.\n\nIn Krasno, enjoy the cool mountain air and visit the famous mountain sanctuary.\n\nIn the evening, return to Senj and enjoy the bustling harbor as the sun sets.",
+        "hr": "Započnite s tvrđavom Nehaj prije nego stignu turistički autobusi. Zatim se odvezite do centra do trga Cilnica.\n\nKratko zaustavljanje na 45. paraleli vodi vas dalje u planine Velebita do Krasna. Vožnja kroz serpentine nudi spektakularne poglede na kvarnerske otoke.\n\nU Krasnu uživajte u svježem planinskom zraku i posjetite poznato planinsko svetište.\n\nNavečer se vratite u Senj i uživajte u živahnoj luci dok sunce zalazi."
       },
       "gastro_picks": {
         "de": [
@@ -1580,6 +1716,12 @@
           {
             "name": "Bistro Riva",
             "tip": "Try the Senj fish platter."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Probajte senjsku riblju platu."
           }
         ]
       },
@@ -1611,6 +1753,13 @@
             "tip": "Perfect for panoramic photos.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac iznad Senja",
+            "tip": "Savršeno za panoramske fotografije.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1637,6 +1786,12 @@
             "name": "Krasno Cheese Cooperative",
             "tip": "Excellent mountain cheese."
           }
+        ],
+        "hr": [
+          {
+            "name": "Sirana Krasno",
+            "tip": "Izvrstan planinski sir."
+          }
         ]
       },
       "tips": {
@@ -1659,6 +1814,11 @@
           "The road to Krasno is narrow and curvy, drive carefully.",
           "Park at the harbor, the old town is mostly walkable.",
           "Refuel in Senj, there are fewer gas stations in the mountains."
+        ],
+        "hr": [
+          "Cesta za Krasno je uska i zavojita, vozite oprezno.",
+          "Parkirajte u luci, stari grad je uglavnom pješačka zona.",
+          "Natočite gorivo u Senju, u planinama ima manje benzinskih postaja."
         ]
       },
       "variants": {
@@ -1851,7 +2011,8 @@
             "de": "Morgens fahren Sie zur Festung Nehaj und parken direkt dort. Mittags besuchen Sie den Cilnica-Platz und das Denkmal am 45. Breitengrad. Nachmittags fahren Sie vorsichtig auf nassen Straßen nach Krasno. Abends beenden Sie den Tag gemütlich im Auto am Hafen von Senj.",
             "hu": "Reggel hajtson a Nehaj erődhöz, és parkoljon közvetlenül ott. Délben látogasson el a Cilnica térre és a 45. szélességi fok emlékművéhez. Délután óvatosan vezessen a nedves utakon Krasno felé. Este fejezze be a napot kényelmesen az autóban a senji kikötőben.",
             "ro": "Dimineața, conduceți la Cetatea Nehaj și parcați chiar acolo. La prânz, vizitați Piața Cilnica și monumentul Paralelei 45. După-amiaza, conduceți cu prudență pe drumurile umede spre Krasno. Seara, încheiați ziua confortabil în mașină la portul Senj.",
-            "en": "In the morning, drive to Nehaj Fortress and park right there. At noon, visit Cilnica Square and the 45th Parallel Monument. In the afternoon, drive carefully on wet roads to Krasno. In the evening, end the day comfortably in the car at Senj Harbor."
+            "en": "In the morning, drive to Nehaj Fortress and park right there. At noon, visit Cilnica Square and the 45th Parallel Monument. In the afternoon, drive carefully on wet roads to Krasno. In the evening, end the day comfortably in the car at Senj Harbor.",
+            "hr": "Ujutro se odvezite do tvrđave Nehaj i parkirajte odmah tamo. U podne posjetite trg Cilnica i spomenik 45. paraleli. Poslijepodne vozite oprezno po mokrim cestama do Krasna. Navečer ugodno završite dan u automobilu u senjskoj luci."
           },
           "stops": [
             {
@@ -1860,7 +2021,8 @@
                 "de": "Parken Sie nah am Eingang, um nicht nass zu werden.",
                 "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el.",
                 "ro": "Parcați aproape de intrare pentru a nu vă uda.",
-                "en": "Park close to the entrance to avoid getting wet."
+                "en": "Park close to the entrance to avoid getting wet.",
+                "hr": "Parkirajte blizu ulaza kako biste izbjegli močenje."
               }
             },
             {
@@ -1869,7 +2031,8 @@
                 "de": "Halten Sie einen Regenschirm im Auto bereit.",
                 "hu": "Tartson esernyőt az autóban készenlétben.",
                 "ro": "Țineți o umbrelă pregătită în mașină.",
-                "en": "Keep an umbrella ready in the car."
+                "en": "Keep an umbrella ready in the car.",
+                "hr": "Neka vam kišobran bude spreman u autu."
               }
             },
             {
@@ -1878,7 +2041,8 @@
                 "de": "Ein kurzer Stopp am Straßenrand ist auch bei Regen gut.",
                 "hu": "Egy rövid megálló az út szélén esőben is jó.",
                 "ro": "O oprire scurtă pe marginea drumului este bună și pe ploaie.",
-                "en": "A quick roadside stop is fine even in the rain."
+                "en": "A quick roadside stop is fine even in the rain.",
+                "hr": "Brzo stajanje uz cestu je u redu i po kiši."
               }
             },
             {
@@ -1887,7 +2051,8 @@
                 "de": "Fahren Sie sehr langsam auf den kurvigen Bergstraßen.",
                 "hu": "Vezessen nagyon lassan a kanyargós hegyi utakon.",
                 "ro": "Conduceți foarte încet pe drumurile montane virajate.",
-                "en": "Drive very slowly on the winding mountain roads."
+                "en": "Drive very slowly on the winding mountain roads.",
+                "hr": "Vozite vrlo polako po zavojitim planinskim cestama."
               }
             },
             {
@@ -1896,7 +2061,8 @@
                 "de": "Genießen Sie den Blick auf den Regen vom warmen Auto aus.",
                 "hu": "Élvezze az eső látványát a meleg autóból.",
                 "ro": "Bucurați-vă de priveliștea ploii din mașina caldă.",
-                "en": "Enjoy the view of the rain from the warm car."
+                "en": "Enjoy the view of the rain from the warm car.",
+                "hr": "Uživajte u pogledu na kišu iz toplog automobila."
               }
             }
           ],
@@ -1928,6 +2094,13 @@
               "Parking is usually much easier on rainy days.",
               "Keep the AC running to prevent windows from fogging up.",
               "During severe storms, the coastal road may be closed."
+            ],
+            "hr": [
+              "Vozite posebno oprezno na obalnim cestama po kiši.",
+              "Pazite na moguće odrone kamenja na putu prema Velebitu.",
+              "Parkiranje je obično puno lakše kišnih dana.",
+              "Držite klimu upaljenom kako biste spriječili magljenje stakala.",
+              "Tijekom jakih oluja, obalna cesta može biti zatvorena."
             ]
           }
         },
@@ -1936,7 +2109,8 @@
             "de": "Morgens machen Sie eine Winterfahrt zur Festung Nehaj. Mittags stoppen Sie am Cilnica-Platz und am 45. Breitengrad. Nachmittags wagen Sie eine kalte, vielleicht verschneite Fahrt hinauf nach Krasno im Velebit. Abends kehren Sie vor dem zeitigen Sonnenuntergang zum Hafen zurück.",
             "hu": "Reggel tegyen egy téli autózást a Nehaj erődhöz. Délben álljon meg a Cilnica téren és a 45. szélességi foknál. Délután merészkedjen fel egy hideg, havas útra Krasnóba a Velebitben. Este térjen vissza a kikötőbe a korai naplemente előtt.",
             "ro": "Dimineața, faceți o plimbare de iarnă până la Cetatea Nehaj. La prânz, opriți la Piața Cilnica și la Paralela 45. După-amiaza, aventurați-vă pe un drum rece, poate înzăpezit, spre Krasno în Velebit. Seara, întoarceți-vă în port înainte de apusul devreme.",
-            "en": "In the morning, take a winter drive to Nehaj Fortress. At noon, stop at Cilnica Square and the 45th Parallel. In the afternoon, brave a cold, possibly snowy drive up to Krasno in Velebit. In the evening, return to the harbor before the early sunset."
+            "en": "In the morning, take a winter drive to Nehaj Fortress. At noon, stop at Cilnica Square and the 45th Parallel. In the afternoon, brave a cold, possibly snowy drive up to Krasno in Velebit. In the evening, return to the harbor before the early sunset.",
+            "hr": "Ujutro krenite na zimsku vožnju do tvrđave Nehaj. U podne stanite na trgu Cilnica i kod 45. paralele. Poslijepodne se odvažite na hladnu, možda i snježnu vožnju do Krasna na Velebitu. Navečer se vratite u luku prije ranog zalaska sunca."
           },
           "stops": [
             {
@@ -1945,7 +2119,8 @@
                 "de": "Der Parkplatz kann im Winter sehr zugig sein.",
                 "hu": "A parkoló télen nagyon huzatos lehet.",
                 "ro": "Parcarea poate fi foarte expusă curenților de aer iarna.",
-                "en": "The parking lot can be very drafty in winter."
+                "en": "The parking lot can be very drafty in winter.",
+                "hr": "Na parkiralištu zimi može biti vrlo propuh."
               }
             },
             {
@@ -1954,7 +2129,8 @@
                 "de": "Parkplätze sind in der Nebensaison reichlich vorhanden.",
                 "hu": "A parkolóhelyek bőségesek az utószezonban.",
                 "ro": "Locurile de parcare sunt abundente în extrasezon.",
-                "en": "Parking spots are plentiful in the off-season."
+                "en": "Parking spots are plentiful in the off-season.",
+                "hr": "Parkirnih mjesta ima na pretek izvan sezone."
               }
             },
             {
@@ -1963,7 +2139,8 @@
                 "de": "Bleiben Sie auf der windabgewandten Seite des Autos.",
                 "hu": "Maradjon az autó szélvédett oldalán.",
                 "ro": "Rămâneți pe partea ferită de vânt a mașinii.",
-                "en": "Stay on the sheltered side of the car."
+                "en": "Stay on the sheltered side of the car.",
+                "hr": "Ostanite na strani automobila koja je u zavjetrini."
               }
             },
             {
@@ -1972,7 +2149,8 @@
                 "de": "Prüfen Sie vorher, ob die Bergstraße schneefrei ist.",
                 "hu": "Előre ellenőrizze, hogy a hegyi út hómentes-e.",
                 "ro": "Verificați dinainte dacă drumul montan este deszăpezit.",
-                "en": "Check beforehand if the mountain road is clear of snow."
+                "en": "Check beforehand if the mountain road is clear of snow.",
+                "hr": "Prethodno provjerite je li planinska cesta očišćena od snijega."
               }
             },
             {
@@ -1981,7 +2159,8 @@
                 "de": "Ein großartiger Ort für den frühen Sonnenuntergang.",
                 "hu": "Nagyszerű hely a korai naplementéhez.",
                 "ro": "Un loc grozav pentru apusul devreme.",
-                "en": "A great spot for the early sunset."
+                "en": "A great spot for the early sunset.",
+                "hr": "Odlično mjesto za rani zalazak sunca."
               }
             }
           ],
@@ -2013,6 +2192,13 @@
               "Check for road closures to Krasno due to snow.",
               "Plan your return before 16:30 to avoid driving in the dark.",
               "Always keep a blanket and hot tea in the car."
+            ],
+            "hr": [
+              "Zimske gume su obavezne za izlete na Velebit.",
+              "Pazite na jake bočne udare vjetra na mostovima i obalnim cestama.",
+              "Provjerite prohodnost ceste prema Krasnu zbog snijega.",
+              "Planirajte povratak prije 16:30 kako biste izbjegli vožnju po mraku.",
+              "Uvijek držite deku i topli čaj u autu."
             ]
           }
         }
@@ -2046,7 +2232,8 @@
             "de": "Zentraler Knotenpunkt für alle Linien.",
             "hu": "Minden járat központi csomópontja.",
             "ro": "Nod central pentru toate liniile.",
-            "en": "Central hub for all lines."
+            "en": "Central hub for all lines.",
+            "hr": "Središnje čvorište za sve linije."
           }
         },
         {
@@ -2069,7 +2256,8 @@
             "de": "In der Nähe der Haltestelle gelegen.",
             "hu": "A megálló közelében található.",
             "ro": "Situată aproape de stație.",
-            "en": "Located near the stop."
+            "en": "Located near the stop.",
+            "hr": "Nalazi se u blizini stanice."
           }
         },
         {
@@ -2092,7 +2280,8 @@
             "de": "Vom Hafen aus bergauf laufen.",
             "hu": "A kikötőtől gyalog kell felmenni.",
             "ro": "Urcați pe jos din port.",
-            "en": "Walk uphill from the harbor."
+            "en": "Walk uphill from the harbor.",
+            "hr": "Hodajte uzbrdo iz luke."
           }
         },
         {
@@ -2115,7 +2304,8 @@
             "de": "Vom Zentrum aus gut erreichbar.",
             "hu": "Könnyen elérhető a központból.",
             "ro": "Ușor accesibil din centru.",
-            "en": "Easily accessible from the center."
+            "en": "Easily accessible from the center.",
+            "hr": "Lako dostupno iz centra."
           }
         },
         {
@@ -2138,7 +2328,8 @@
             "de": "Letzter Stopp vor der Abfahrt.",
             "hu": "Utolsó megálló indulás előtt.",
             "ro": "Ultima oprire înainte de plecare.",
-            "en": "Final stop before departure."
+            "en": "Final stop before departure.",
+            "hr": "Zadnja stanica prije polaska."
           }
         }
       ],
@@ -2146,7 +2337,8 @@
         "de": "Beginnen Sie am Hafen, wo die meisten Überlandbusse halten. Besuchen Sie zuerst die nahegelegene Kathedrale.\n\nDanach steht der Aufstieg zur Festung Nehaj an. Es gibt keinen direkten Bus zur Burg, aber der Weg bietet schöne Fotomotive.\n\nVerbringen Sie die Mittagszeit am Strand Banja, der nur einen kurzen Spaziergang vom Hafen entfernt liegt.\n\nZum Abschluss genießen Sie das Flair auf dem Cilnica-Platz, bevor Sie Ihren Bus für die Weiterreise besteigen.",
         "hu": "Kezdjünk a kikötőben, ahol a legtöbb távolsági busz megáll. Elsőként a közeli székesegyházat keressük fel.\n\nEzután következik a séta a Nehaj-várhoz. Közvetlen járat nincs a várhoz, de az út szép fotótémákat kínál.\n\nA déli órákat töltsük a Banja strandon, amely csak egy rövid séta a kikötőtől.\n\nZárásként élvezzük a Cilnica tér hangulatát, mielőtt felszállnánk a továbbutazó buszra.",
         "ro": "Începeți în port, unde opresc majoritatea autobuzelor interurbane. Vizitați mai întâi catedrala din apropiere.\n\nApoi urmează urcarea la Cetatea Nehaj. Nu există autobuz direct către cetate, dar drumul oferă cadre foto frumoase.\n\nPetreceți orele prânzului pe plaja Banja, aflată la scurtă distanță de mers pe jos de port.\n\nLa final, bucurați-vă de atmosfera din Piața Cilnica înainte de a urca în autobuzul pentru plecare.",
-        "en": "Start at the harbor, where most intercity buses stop. First, visit the nearby Cathedral.\n\nThen comes the walk up to Nehaj Fortress. There is no direct bus to the castle, but the route offers nice photo opportunities.\n\nSpend the midday at Banja Beach, which is just a short walk from the harbor.\n\nFinally, enjoy the flair at Cilnica Square before boarding your bus for the onward journey."
+        "en": "Start at the harbor, where most intercity buses stop. First, visit the nearby Cathedral.\n\nThen comes the walk up to Nehaj Fortress. There is no direct bus to the castle, but the route offers nice photo opportunities.\n\nSpend the midday at Banja Beach, which is just a short walk from the harbor.\n\nFinally, enjoy the flair at Cilnica Square before boarding your bus for the onward journey.",
+        "hr": "Započnite u luci, gdje staje većina međugradskih autobusa. Prvo posjetite obližnju katedralu.\n\nZatim slijedi šetnja do tvrđave Nehaj. Do utvrde nema izravnog autobusa, ali ruta nudi lijepe prilike za fotografiranje.\n\nProvedite podne na plaži Banja, koja je tek kratka šetnja udaljena od luke.\n\nNa kraju uživajte u ugođaju na trgu Cilnica prije ulaska u autobus za nastavak putovanja."
       },
       "gastro_picks": {
         "de": [
@@ -2171,6 +2363,12 @@
           {
             "name": "Pizzeria Tropicana",
             "tip": "Fast and good pizza at the harbor."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pizzeria Tropicana",
+            "tip": "Brza i dobra pizza u luci."
           }
         ]
       },
@@ -2202,6 +2400,13 @@
             "tip": "Quiet spot at the end of the pier.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Lučki gat",
+            "tip": "Mirno mjesto na kraju gata.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2228,6 +2433,12 @@
             "name": "Harbor Kiosk",
             "tip": "Postcards and local guidebooks."
           }
+        ],
+        "hr": [
+          {
+            "name": "Kiosk u luci",
+            "tip": "Razglednice i lokalni vodiči."
+          }
         ]
       },
       "tips": {
@@ -2250,6 +2461,11 @@
           "The bus station is located directly at the harbor.",
           "Schedules are posted at the central kiosk.",
           "Senj is an important hub for buses to Zadar and Rijeka."
+        ],
+        "hr": [
+          "Autobusni kolodvor nalazi se izravno u luci.",
+          "Vozni redovi su izvješeni na središnjem kiosku.",
+          "Senj je važno čvorište za autobuse prema Zadru i Rijeci."
         ]
       },
       "variants": {
@@ -2442,7 +2658,8 @@
             "de": "Morgens kommen Sie an der Bushaltestelle an und flüchten in die nahe Kathedrale. Mittags nehmen Sie den Bus oder laufen zügig zur Festung Nehaj. Nachmittags werfen Sie nur einen kurzen Blick auf den Banja-Strand. Abends warten Sie in einem Café am Cilnica-Platz auf den Bus.",
             "hu": "Reggel érkezzen meg a buszmegállóba, és meneküljön a közeli katedrálisba. Délben busszal vagy gyors sétával menjen a Nehaj erődhöz. Délután csak egy gyors pillantást vessen a Banja strandra. Este egy kávézóban várja a buszt a Cilnica téren.",
             "ro": "Dimineața, ajungeți la stația de autobuz și refugiați-vă în Catedrala din apropiere. La prânz, luați autobuzul sau mergeți rapid la Cetatea Nehaj. După-amiaza, aruncați doar o privire scurtă la plaja Banja. Seara, așteptați autobuzul într-o cafenea din Piața Cilnica.",
-            "en": "In the morning, arrive at the bus stop and flee into the nearby Cathedral. At noon, take the bus or walk briskly to Nehaj Fortress. In the afternoon, just take a quick look at Banja Beach. In the evening, wait for the bus in a cafe at Cilnica Square."
+            "en": "In the morning, arrive at the bus stop and flee into the nearby Cathedral. At noon, take the bus or walk briskly to Nehaj Fortress. In the afternoon, just take a quick look at Banja Beach. In the evening, wait for the bus in a cafe at Cilnica Square.",
+            "hr": "Ujutro dođite na autobusnu stanicu i sklonite se u obližnju katedralu. U podne idite autobusom ili prošećite žustro do tvrđave Nehaj. Poslijepodne samo nakratko pogledajte plažu Banja. Navečer pričekajte autobus u kafiću na trgu Cilnica."
           },
           "stops": [
             {
@@ -2451,7 +2668,8 @@
                 "de": "Warten Sie unter dem Unterstand auf den Bus.",
                 "hu": "Várja a buszt a beálló alatt.",
                 "ro": "Așteptați autobuzul sub acoperiș.",
-                "en": "Wait for the bus under the shelter."
+                "en": "Wait for the bus under the shelter.",
+                "hr": "Pričekajte autobus pod nadstrešnicom."
               }
             },
             {
@@ -2460,7 +2678,8 @@
                 "de": "Nah an der Bushaltestelle und herrlich trocken.",
                 "hu": "Közel a buszmegállóhoz és csodálatosan száraz.",
                 "ro": "Aproape de stația de autobuz și minunat de uscată.",
-                "en": "Close to the bus stop and wonderfully dry."
+                "en": "Close to the bus stop and wonderfully dry.",
+                "hr": "Blizu autobusne stanice i predivno suho."
               }
             },
             {
@@ -2469,7 +2688,8 @@
                 "de": "Ein steiler Weg, öffnen Sie Ihren Regenschirm vorsichtig.",
                 "hu": "Meredek út, óvatosan nyissa ki az esernyőjét.",
                 "ro": "O potecă abruptă, deschideți umbrela cu grijă.",
-                "en": "A steep path, open your umbrella carefully."
+                "en": "A steep path, open your umbrella carefully.",
+                "hr": "Strma staza, pažljivo otvorite kišobran."
               }
             },
             {
@@ -2478,7 +2698,8 @@
                 "de": "Bei Regen nur für einen sehr kurzen Besuch geeignet.",
                 "hu": "Esőben csak nagyon rövid látogatásra alkalmas.",
                 "ro": "Potrivit doar pentru o vizită foarte scurtă pe ploaie.",
-                "en": "Only suitable for a very short visit in the rain."
+                "en": "Only suitable for a very short visit in the rain.",
+                "hr": "Pogodno samo za vrlo kratak posjet na kiši."
               }
             },
             {
@@ -2487,7 +2708,8 @@
                 "de": "Viele überdachte Cafés zum Warten.",
                 "hu": "Sok fedett kávézó várja a várakozókat.",
                 "ro": "Multe cafenele acoperite pentru a aștepta.",
-                "en": "Many covered cafes for waiting."
+                "en": "Many covered cafes for waiting.",
+                "hr": "Mnogo natkrivenih kafića za čekanje."
               }
             }
           ],
@@ -2519,6 +2741,13 @@
               "Cafes are ideal for waiting for the next bus.",
               "Wear shoes that can withstand puddles well.",
               "Check online for up-to-date schedules."
+            ],
+            "hr": [
+              "Vozni redovi autobusa mogu kasniti tijekom oluja.",
+              "Spakirajte mali sklopivi kišobran.",
+              "Kafići su idealni za čekanje sljedećeg autobusa.",
+              "Nosite obuću koja dobro podnosi lokve.",
+              "Provjerite ažurne vozne redove na internetu."
             ]
           }
         },
@@ -2527,7 +2756,8 @@
             "de": "Morgens starten Sie am Hafen und wärmen sich in der Kathedrale auf. Mittags besuchen Sie die imposante Festung Nehaj. Nachmittags unternehmen Sie einen zügigen Spaziergang am Banja-Strand. Abends trinken Sie etwas Warmes am Cilnica-Platz, bevor der Bus abfährt.",
             "hu": "Reggel kezdjen a kikötőben, és melegedjen fel a katedrálisban. Délben látogassa meg az impozáns Nehaj erődöt. Délután tegyen egy gyors sétát a Banja strandon. Este igyon valami meleget a Cilnica téren, mielőtt a busz indul.",
             "ro": "Dimineața, începeți în port și încălziți-vă în Catedrală. La prânz, vizitați impunătoarea Cetate Nehaj. După-amiaza, faceți o plimbare vioaie pe plaja Banja. Seara, beți ceva cald în Piața Cilnica înainte de plecarea autobuzului.",
-            "en": "In the morning, start at the harbor and warm up in the Cathedral. At noon, visit the imposing Nehaj Fortress. In the afternoon, take a brisk walk along Banja Beach. In the evening, have a warm drink at Cilnica Square before the bus leaves."
+            "en": "In the morning, start at the harbor and warm up in the Cathedral. At noon, visit the imposing Nehaj Fortress. In the afternoon, take a brisk walk along Banja Beach. In the evening, have a warm drink at Cilnica Square before the bus leaves.",
+            "hr": "Ujutro krenite iz luke i ugrijte se u katedrali. U podne posjetite impozantnu tvrđavu Nehaj. Poslijepodne žustro prošećite uz plažu Banja. Navečer popijte topli napitak na trgu Cilnica prije polaska autobusa."
           },
           "stops": [
             {
@@ -2536,7 +2766,8 @@
                 "de": "Der Wind pfeift oft kalt über den Busbahnhof.",
                 "hu": "A szél gyakran hidegen fúj át a buszpályaudvaron.",
                 "ro": "Vântul suflă adesea rece prin stația de autobuz.",
-                "en": "The wind often whistles cold across the bus station."
+                "en": "The wind often whistles cold across the bus station.",
+                "hr": "Vjetar često hladno fijuče preko autobusnog kolodvora."
               }
             },
             {
@@ -2545,7 +2776,8 @@
                 "de": "Perfekt, um aufzutauen nach der Busanreise.",
                 "hu": "Tökéletes a felolvadásra a buszozás után.",
                 "ro": "Perfect pentru a vă dezgheța după drumul cu autobuzul.",
-                "en": "Perfect for thawing out after the bus ride."
+                "en": "Perfect for thawing out after the bus ride.",
+                "hr": "Savršeno za odmrzavanje nakon vožnje autobusom."
               }
             },
             {
@@ -2554,7 +2786,8 @@
                 "de": "Die dicken Mauern halten den starken Winterwind ab.",
                 "hu": "A vastag falak felfogják az erős téli szelet.",
                 "ro": "Zidurile groase opresc vântul puternic de iarnă.",
-                "en": "The thick walls keep out the strong winter wind."
+                "en": "The thick walls keep out the strong winter wind.",
+                "hr": "Debeli zidovi štite od jake zimske bure."
               }
             },
             {
@@ -2563,7 +2796,8 @@
                 "de": "Gehen Sie zügig, um warm zu bleiben.",
                 "hu": "Sétáljon gyorsan, hogy melegen tartsa magát.",
                 "ro": "Mergeți repede pentru a vă menține de cald.",
-                "en": "Walk briskly to stay warm."
+                "en": "Walk briskly to stay warm.",
+                "hr": "Hodajte žustro kako biste ostali topli."
               }
             },
             {
@@ -2572,7 +2806,8 @@
                 "de": "Gehen Sie nach drinnen, während Sie auf den Bus warten.",
                 "hu": "Menjen be valahova, amíg a buszra vár.",
                 "ro": "Intrați înăuntru în timp ce așteptați autobuzul.",
-                "en": "Head indoors while waiting for the bus."
+                "en": "Head indoors while waiting for the bus.",
+                "hr": "Uđite u zatvoreno dok čekate autobus."
               }
             }
           ],
@@ -2604,6 +2839,13 @@
               "Dress very warmly for waiting times outdoors.",
               "Local bus lines often end their service earlier in the evening.",
               "Check holiday schedules as they may vary."
+            ],
+            "hr": [
+              "Autobusi zimi često voze po reduciranom voznom redu.",
+              "Čekajte unutra u kafićima ili pekarnicama ako je moguće.",
+              "Obucite se vrlo toplo za vrijeme čekanja na otvorenom.",
+              "Lokalne autobusne linije često završavaju s radom ranije navečer.",
+              "Provjerite vozni red za praznike jer se može razlikovati."
             ]
           }
         }

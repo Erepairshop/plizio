@@ -31,7 +31,8 @@
             "de": "Spazieren Sie durch die engen Gassen des historischen Kerns.",
             "hu": "Sétáljon a történelmi mag szűk, kővel burkolt utcáin.",
             "ro": "Plimbați-vă pe străzile înguste ale nucleului istoric.",
-            "en": "Stroll through the narrow stone streets of the historic core."
+            "en": "Stroll through the narrow stone streets of the historic core.",
+            "hr": "Prošećite uskim kamenim ulicama povijesne jezgre."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die Architektur dieser Kirche aus dem 16. Jahrhundert.",
             "hu": "Csodálja meg ennek a 16. századi templomnak az építészetét.",
             "ro": "Admirați arhitectura acestei biserici din secolul al XVI-lea.",
-            "en": "Admire the architecture of this 16th-century church."
+            "en": "Admire the architecture of this 16th-century church.",
+            "hr": "Divite se arhitekturi ove crkve iz 16. stoljeća."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Besuchen Sie die Kirche Johannes des Täufers im Zentrum.",
             "hu": "Látogassa meg a Keresztelő Szent János-templomot a központban.",
             "ro": "Vizitați Biserica Sfântului Ioan Botezătorul din centru.",
-            "en": "Visit the Church of St. John the Baptist in the center."
+            "en": "Visit the Church of St. John the Baptist in the center.",
+            "hr": "Posjetite crkvu sv. Ivana Krstitelja u centru."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein entspannter Spaziergang entlang der dalmatinischen Küste.",
             "hu": "Egy pihentető séta a dalmát tengerpart mentén.",
             "ro": "O plimbare relaxantă de-a lungul coastei dalmate.",
-            "en": "A relaxing walk along the Dalmatian coastline."
+            "en": "A relaxing walk along the Dalmatian coastline.",
+            "hr": "Opuštajuća šetnja duž dalmatinske obale."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Probieren Sie frischen Fisch oder Peka in einer lokalen Taverne.",
             "hu": "Kóstoljon friss halat vagy pekát egy helyi tavernábana.",
             "ro": "Gustați pește proaspăt sau peka într-o tavernă locală.",
-            "en": "Taste fresh fish or peka in a local tavern."
+            "en": "Taste fresh fish or peka in a local tavern.",
+            "hr": "Kušajte svježu ribu ili peku u lokalnoj konobi."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Genießen Sie das klare Wasser und den Kieselstrand.",
             "hu": "Élvezze a tiszta vizet és a kavicsos strandot.",
             "ro": "Bucurați-vă de apa limpede și de plaja cu pietriș.",
-            "en": "Enjoy the clear water and the pebble beach."
+            "en": "Enjoy the clear water and the pebble beach.",
+            "hr": "Uživajte u čistom moru i šljunčanoj plaži."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Der perfekte Ort für Fotos vom Sonnenuntergang über dem Zadar-Archipel.",
             "hu": "Tökéletes hely naplementés fotókhoz a zárai szigetvilág felett.",
             "ro": "Locul perfect pentru fotografii cu apusul peste arhipelagul Zadar.",
-            "en": "The perfect spot for sunset photos over the Zadar archipelago."
+            "en": "The perfect spot for sunset photos over the Zadar archipelago.",
+            "hr": "Savršeno mjesto za fotografije zalaska sunca nad zadarskim arhipelagom."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Der Morgen in Bibinje beginnt im Staro selo, dem alten Dorfzentrum mit seinen charakteristischen Steinhäusern. Besuchen Sie die historischen Kirchen St. Rochus und St. Johannes, bevor Sie die belebte Uferpromenade Riva erkunden. Nach einem authentischen dalmatinischen Mittagessen in einer Konoba verbringen Sie den Nachmittag am Kieselstrand Punta Rožica. Den Tag lassen Sie mit einem malerischen Sonnenuntergang am Meer ausklingen.",
         "hu": "A bibinjei reggel a Staro selóban, az ófalu központjában kezdődik, jellegzetes kőházaival. Látogassa meg a Szent Rókus és Keresztelő Szent János történelmi templomokat, mielőtt felfedezné a nyüzsgő Riva sétányt. Egy autentikus dalmát ebéd után egy helyi konobában, töltse a délutánt a kavicsos Punta Rožica strandon. A napot egy festői naplementével zárja a tengerparton.",
         "ro": "Dimineața în Bibinje începe în Staro selo, centrul vechi al satului, cu casele sale caracteristice din piatră. Vizitați bisericile istorice Sf. Rochus și Sf. Ioan Botezătorul înainte de a explora faleza animată Riva. După un prânz dalmat autentic într-o konoba locală, petreceți după-amiaza pe plaja cu pietriș Punta Rožica. Încheiați ziua cu un apus pitoresc pe malul mării.",
-        "en": "The morning in Bibinje begins in Staro selo, the old village center with its characteristic stone houses. Visit the historical churches of St. Roch and St. John the Baptist before exploring the lively Riva waterfront. After an authentic Dalmatian lunch in a local konoba, spend the afternoon at the pebble beach Punta Rožica. End the day with a picturesque sunset by the sea."
+        "en": "The morning in Bibinje begins in Staro selo, the old village center with its characteristic stone houses. Visit the historical churches of St. Roch and St. John the Baptist before exploring the lively Riva waterfront. After an authentic Dalmatian lunch in a local konoba, spend the afternoon at the pebble beach Punta Rožica. End the day with a picturesque sunset by the sea.",
+        "hr": "Jutro u Bibinju počinje u Starom selu, staroj jezgri mjesta s karakterističnim kamenim kućama. Posjetite povijesne crkve sv. Roka i sv. Ivana Krstitelja prije istraživanja živahne Rive. Nakon autentičnog dalmatinskog ručka u lokalnoj konobi, provedite poslijepodne na šljunčanoj plaži Punta Rožica. Završite dan uz slikovit zalazak sunca uz more."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Konoba u Ribara",
             "tip": "Excellent seafood right by the water."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Dalmatinska peka",
+            "tip": "Meso ili hobotnica pripremljeni pod pekom."
+          },
+          {
+            "name": "Konoba u Ribara",
+            "tip": "Izvrsni plodovi mora tik uz vodu."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "A place of silence in the historic core.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Šetnica u luci",
+            "tip": "Tiha šetnja rano ujutro.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Crkva sv. Roka",
+            "tip": "Mjesto tišine u povijesnoj jezgri.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -264,6 +294,12 @@
           {
             "name": "Homemade olive oil",
             "tip": "Buy directly from local farmers in the village."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Domaće maslinovo ulje",
+            "tip": "Kupite izravno od lokalnih poljoprivrednika u selu."
           }
         ]
       },
@@ -291,6 +327,12 @@
           "Wear water shoes at Punta Rožica beach because of the pebbles.",
           "Local konobas often accept cash only.",
           "The Riva is the best place in the evening to meet locals."
+        ],
+        "hr": [
+          "Bibinje je vrlo pogodno za pješake, sve su znamenitosti blizu jedna drugoj.",
+          "Nosite obuću za more na plaži Punta Rožica zbog kamenčića.",
+          "Lokalne konobe često primaju samo gotovinu.",
+          "Riva je navečer najbolje mjesto za susret s lokalnim stanovništvom."
         ]
       },
       "variants": {
@@ -299,7 +341,8 @@
             "de": "Ein regnerischer Morgen im Staro selo versprüht einen ganz eigenen, melancholischen Charme in den engen Gassen. Mittags suchen wir Zuflucht in einer warmen Konoba, wo der Duft von dalmatinischem Eintopf die Luft erfüllt. Nachmittags beobachten wir das graue Meer vom Schutz der Kirchenportale aus. Der Abend klingt bei prasselndem Regen und einem Glas Wein in einer gemütlichen Taverne am Hafen aus.",
             "hu": "A Staro selo esős reggelen különleges, melankolikus hangulatot áraszt a szűk utcák között. Délben egy meleg konobában keresünk menedéket, ahol a dalmát egytálételek illata tölti be a teret. Délután a templomok oszlopcsarnokai alól figyeljük a szürke tengert. Az este a kikötő egyik hangulatos tavernájában ér véget, miközben az ablakon kopog az eső.",
             "ro": "O dimineață ploioasă în Staro selo oferă un farmec melancolic străzilor înguste. La prânz ne adăpostim într-o konoba caldă, unde aroma tocanelor dalmate umple aerul. După-amiaza privim marea cenușie de sub arcadele bisericilor. Seara se încheie într-o tavernă primitoare din port, ascultând ploaia cu un pahar de vin local.",
-            "en": "A rainy morning in Staro selo brings a unique, melancholic charm to the narrow stone streets. At noon, we find refuge in a warm konoba, where the scent of Dalmatian stews fills the air. In the afternoon, we watch the grey sea from the shelter of church porches. The evening ends in a cozy harbor tavern, listening to the rain with a glass of local wine."
+            "en": "A rainy morning in Staro selo brings a unique, melancholic charm to the narrow stone streets. At noon, we find refuge in a warm konoba, where the scent of Dalmatian stews fills the air. In the afternoon, we watch the grey sea from the shelter of church porches. The evening ends in a cozy harbor tavern, listening to the rain with a glass of local wine.",
+            "hr": "Kišno jutro u Starom selu donosi jedinstven, melankoličan šarm uskim kamenim ulicama. U podne utočište nalazimo u toploj konobi, gdje miris dalmatinskih variva ispunjava zrak. Poslijepodne promatramo sivo more iz zaklona crkvenih trijemova. Večer završava u ugodnoj lučkoj konobi, slušajući kišu uz čašu domaćeg vina."
           },
           "stops": [
             {
@@ -308,7 +351,8 @@
                 "de": "Die glatten Steine sind rutschig; festes Schuhwerk ist heute ein Muss.",
                 "hu": "A sima kövek csúszósak; a stabil lábbeli ma elengedhetetlen.",
                 "ro": "Pietrele netede sunt alunecoase; încălțămintea stabilă este obligatorie.",
-                "en": "The smooth stones are slippery; sturdy footwear is a must today."
+                "en": "The smooth stones are slippery; sturdy footwear is a must today.",
+                "hr": "Glatko kamenje je sklisko; čvrsta obuća je danas obavezna."
               }
             },
             {
@@ -317,7 +361,8 @@
                 "de": "Nutzen Sie den Kircheneingang als trockenen Aussichtspunkt.",
                 "hu": "Használja a templom bejáratát száraz kilátópontként.",
                 "ro": "Folosiți intrarea bisericii ca punct de observație uscat.",
-                "en": "Use the church entrance as a dry viewpoint."
+                "en": "Use the church entrance as a dry viewpoint.",
+                "hr": "Koristite ulaz u crkvu kao suhi vidikovac."
               }
             },
             {
@@ -326,7 +371,8 @@
                 "de": "Ein perfekter Moment für stille Einkehr während der Regenschauer.",
                 "hu": "Tökéletes pillanat a csendes elvonuláshoz az eső idején.",
                 "ro": "Un moment perfect pentru reculegere în timpul ploii.",
-                "en": "A perfect moment for quiet reflection during the rain showers."
+                "en": "A perfect moment for quiet reflection during the rain showers.",
+                "hr": "Savršen trenutak za tihu refleksiju tijekom pljuskova."
               }
             },
             {
@@ -335,7 +381,8 @@
                 "de": "Die Cafés mit Markisen bieten Schutz und Blick auf die Boote.",
                 "hu": "A napellenzős kávézók védelmet és kilátást nyújtanak a hajókra.",
                 "ro": "Cafenelele cu copertine oferă protecție și vedere la bărci.",
-                "en": "Cafes with awnings provide shelter and views of the boats."
+                "en": "Cafes with awnings provide shelter and views of the boats.",
+                "hr": "Kafići s tendama pružaju zaklon i pogled na brodove."
               }
             },
             {
@@ -344,7 +391,8 @@
                 "de": "Bestellen Sie eine heiße Suppe, um sich richtig aufzuwärmen.",
                 "hu": "Rendeljen egy forró levest, hogy alaposan átmelegedjen.",
                 "ro": "Comandați o supă fierbinte pentru a vă încălzi bine.",
-                "en": "Order a hot soup to warm up properly."
+                "en": "Order a hot soup to warm up properly.",
+                "hr": "Naručite toplu juhu da se pošteno ugrijete."
               }
             },
             {
@@ -353,7 +401,8 @@
                 "de": "Das Rauschen der Wellen im Regen wirkt fast meditativ.",
                 "hu": "A hullámok morajlása az esőben szinte meditatív hatású.",
                 "ro": "Sunetul valurilor în ploaie este aproape meditativ.",
-                "en": "The sound of waves in the rain feels almost meditative."
+                "en": "The sound of waves in the rain feels almost meditative.",
+                "hr": "Zvuk valova na kiši djeluje gotovo meditativno."
               }
             },
             {
@@ -362,7 +411,8 @@
                 "de": "Auch bei Wolken ist das Licht über der Adria dramatisch schön.",
                 "hu": "A felhők mögül is drámai fények érkeznek az Adriára.",
                 "ro": "Chiar și cu nori, lumina peste Adria este dramatic de frumoasă.",
-                "en": "Even with clouds, the light over the Adriatic is dramatically beautiful."
+                "en": "Even with clouds, the light over the Adriatic is dramatically beautiful.",
+                "hr": "Čak i s oblacima, svjetlost nad Jadranom je dramatično lijepa."
               }
             }
           ],
@@ -394,6 +444,13 @@
               "Plan for longer breaks in the heated interiors of the konobas.",
               "Use the churches as architectural shelters during heavy showers.",
               "Waterproof shoes with good grip are essential for the Riva walk."
+            ],
+            "hr": [
+              "Nosite vodootpornu kabanicu umjesto kišobrana zbog vjetra.",
+              "Kameno popločanje u starom gradu postaje izuzetno sklisko kad je mokro.",
+              "Planirajte duže pauze u grijanim interijerima konoba.",
+              "Koristite crkve kao arhitektonska skloništa tijekom jakih pljuskova.",
+              "Vodootporna obuća s dobrim prianjanjem neophodna je za šetnju Rivom."
             ]
           }
         },
@@ -402,7 +459,8 @@
             "de": "Die winterliche Ruhe in Bibinje lässt die historische Substanz des Staro selo klar hervortreten. Mittags genießen wir die wärmende Sonne in windgeschützten Ecken der Marina. Nachmittags färbt das tiefe Licht den Strand von Punta Rožica in goldene Töne. Da die Sonne bereits gegen 16:30 Uhr sinkt, nutzen wir die blaue Stunde für einen besinnlichen Spaziergang entlang der menschenleeren Riva.",
             "hu": "Bibinje téli nyugalma engedi érvényesülni a Staro selo történelmi értékeit. Délben a marina szélvédett sarkaiban élvezzük a melengető napsütést. Délután a mélyen járó nap aranytónusokba festi a Punta Rožica strandját. Mivel a nap már 16:30 körül lebukik, a kék órát egy csendes, elmélyült sétára használjuk az üres Riván.",
             "ro": "Liniștea iernii în Bibinje permite valorilor istorice din Staro selo să iasă în evidență. La prânz ne bucurăm de soarele blând în colțurile ferite de vânt ale marinei. După-amiaza, lumina joasă pictează plaja Punta Rožica în nuanțe aurii. Deoarece soarele apune deja în jur de 16:30, folosim ora albastră pentru o plimbare liniștită pe faleza pustie.",
-            "en": "The winter tranquility in Bibinje allows the historical essence of Staro selo to shine through. At noon, we enjoy the warming sun in the wind-sheltered corners of the marina. In the afternoon, the low sun paints Punta Rožica beach in golden tones. As the sun sets around 4:30 PM, we use the blue hour for a contemplative walk along the empty Riva."
+            "en": "The winter tranquility in Bibinje allows the historical essence of Staro selo to shine through. At noon, we enjoy the warming sun in the wind-sheltered corners of the marina. In the afternoon, the low sun paints Punta Rožica beach in golden tones. As the sun sets around 4:30 PM, we use the blue hour for a contemplative walk along the empty Riva.",
+            "hr": "Zimski mir u Bibinju omogućuje da povijesna bit Starog sela dođe do izražaja. U podne uživamo u toplom suncu u zavjetrinskim kutovima marine. Poslijepodne nisko sunce boji plažu Punta Rožica u zlatne tonove. Kako sunce zalazi oko 16:30, koristimo plavi sat za kontemplativnu šetnju uz praznu Rivu."
           },
           "stops": [
             {
@@ -411,7 +469,8 @@
                 "de": "Die klare Winterluft ermöglicht gestochen scharfe Fotos der alten Mauern.",
                 "hu": "A tiszta téli levegő éles fotókat tesz lehetővé a régi falakról.",
                 "ro": "Aerul curat de iarnă permite fotografii clare ale zidurilor vechi.",
-                "en": "The crisp winter air allows for sharp photos of the ancient walls."
+                "en": "The crisp winter air allows for sharp photos of the ancient walls.",
+                "hr": "Oštar zimski zrak omogućuje jasne fotografije drevnih zidina."
               }
             },
             {
@@ -420,7 +479,8 @@
                 "de": "Achten Sie auf die besonderen Lichtspiele der tiefstehenden Sonne.",
                 "hu": "Figyelje meg az alacsonyan járó nap különleges fényjátékait.",
                 "ro": "Observați jocurile de lumină ale soarelui care stă jos la orizont.",
-                "en": "Observe the special light patterns from the low-hanging sun."
+                "en": "Observe the special light patterns from the low-hanging sun.",
+                "hr": "Promatrajte posebne svjetlosne uzorke niskog sunca."
               }
             },
             {
@@ -429,7 +489,8 @@
                 "de": "Im Inneren herrscht eine friedliche Stille, fernab vom Sommertrubel.",
                 "hu": "Belül békés csend uralkodik, távol a nyári nyüzsgéstől.",
                 "ro": "În interior domnește o liniște deplină, departe de agitația verii.",
-                "en": "Peaceful silence reigns inside, far from the summer crowds."
+                "en": "Peaceful silence reigns inside, far from the summer crowds.",
+                "hr": "Unutra vlada mirna tišina, daleko od ljetnih gužvi."
               }
             },
             {
@@ -438,7 +499,8 @@
                 "de": "Warme Kleidung ist nötig, wenn die Bura vom Velebit weht.",
                 "hu": "Meleg ruha szükséges, ha fúj a bóra a Velebit felől.",
                 "ro": "Hainele groase sunt necesare când bate vântul bura dinspre Velebit.",
-                "en": "Warm clothing is necessary when the Bura wind blows from Velebit."
+                "en": "Warm clothing is necessary when the Bura wind blows from Velebit.",
+                "hr": "Topla odjeća je neophodna kada puše bura s Velebita."
               }
             },
             {
@@ -447,7 +509,8 @@
                 "de": "Genießen Sie saisonale Gerichte wie getrockneten Schinken und Käse.",
                 "hu": "Kóstolja meg a szezonális ételeket, mint a pršut és a sajt.",
                 "ro": "Gustați preparatele sezoniere, precum pršut-ul și brânza locală.",
-                "en": "Taste seasonal dishes like local prosciutto and cheese."
+                "en": "Taste seasonal dishes like local prosciutto and cheese.",
+                "hr": "Kušajte sezonska jela poput domaćeg pršuta i sira."
               }
             },
             {
@@ -456,7 +519,8 @@
                 "de": "Ideal für einen ausgedehnten, einsamen Strandspaziergang.",
                 "hu": "Ideális egy hosszú, magányos tengerparti sétához.",
                 "ro": "Ideal pentru o plimbare lungă și solitară pe malul mării.",
-                "en": "Ideal for a long, solitary walk along the shoreline."
+                "en": "Ideal for a long, solitary walk along the shoreline.",
+                "hr": "Idealno za dugu, samotnu šetnju obalom."
               }
             },
             {
@@ -465,7 +529,8 @@
                 "de": "Wegen des frühen Sonnenuntergangs sollten Sie gegen 16:15 Uhr hier sein.",
                 "hu": "A korai napnyugta miatt már 16:15-kor érdemes itt lenni.",
                 "ro": "Datorită apusului timpuriu, ar trebui să fiți aici pe la 16:15.",
-                "en": "Due to the early sunset, aim to be here by 4:15 PM."
+                "en": "Due to the early sunset, aim to be here by 4:15 PM.",
+                "hr": "Zbog ranog zalaska sunca, planirajte biti ovdje do 16:15."
               }
             }
           ],
@@ -497,6 +562,13 @@
               "Many local establishments may have limited opening hours during winter.",
               "The Bura wind can be very strong and icy coming down from the mountains.",
               "Clear winter visibility often allows views all the way to the Kornati Islands."
+            ],
+            "hr": [
+              "Ne podcjenjujte hladan vjetar uz more; slojevito odijevanje se toplo preporučuje.",
+              "Zalazak sunca zimi nastupa znatno ranije, oko 16:30.",
+              "Mnogi lokalni objekti mogu imati ograničeno radno vrijeme tijekom zime.",
+              "Bura može biti vrlo jaka i ledena dok se spušta s planina.",
+              "Čista zimska vidljivost često omogućuje pogled sve do Kornata."
             ]
           }
         }
@@ -525,7 +597,8 @@
             "de": "Starten Sie Ihre Radtour im historischen Herzen des Dorfes.",
             "hu": "Kezdje kerékpártúráját a falu történelmi szívében.",
             "ro": "Începeți turul cu bicicleta în inima istorică a satului.",
-            "en": "Start your bike tour in the historic heart of the village."
+            "en": "Start your bike tour in the historic heart of the village.",
+            "hr": "Započnite svoju biciklističku turu u povijesnom srcu mjesta."
           }
         },
         {
@@ -543,7 +616,8 @@
             "de": "Besuchen Sie eine der größten Marinas an der Adria.",
             "hu": "Látogasson el az Adria egyik legnagyobb jachtkikötőjébe.",
             "ro": "Vizitați una dintre cele mai mari marine de la Marea Adriatică.",
-            "en": "Visit one of the largest marinas on the Adriatic Sea."
+            "en": "Visit one of the largest marinas on the Adriatic Sea.",
+            "hr": "Posjetite jednu od najvećih marina na Jadranskom moru."
           }
         },
         {
@@ -561,7 +635,8 @@
             "de": "Genießen Sie gehobene Küche mit Blick auf die Yachten.",
             "hu": "Élvezze a finom ételeket a jachtokra nyíló kilátással.",
             "ro": "Bucurați-vă de bucătărie rafinată cu vedere la iahturi.",
-            "en": "Enjoy fine dining with a view of the yachts."
+            "en": "Enjoy fine dining with a view of the yachts.",
+            "hr": "Uživajte u finoj hrani s pogledom na jahte."
           }
         },
         {
@@ -579,7 +654,8 @@
             "de": "Fahren Sie entlang der Küstenstraße bis zum Hauptstrand.",
             "hu": "Tekerjen a tengerparti úton a fő strandig.",
             "ro": "Pedalați de-a lungul drumului de coastă până la plaja principală.",
-            "en": "Ride along the coastal road to the main beach."
+            "en": "Ride along the coastal road to the main beach.",
+            "hr": "Vozite se obalnom cestom do glavne plaže."
           }
         },
         {
@@ -597,7 +673,8 @@
             "de": "Ein kultureller Stopp am Nachmittag im Zentrum.",
             "hu": "Délutáni kulturális megálló a központban.",
             "ro": "O oprire culturală după-amiaza în centru.",
-            "en": "An afternoon cultural stop in the center."
+            "en": "An afternoon cultural stop in the center.",
+            "hr": "Poslijepodnevna kulturna postaja u centru."
           }
         },
         {
@@ -615,7 +692,8 @@
             "de": "Beobachten Sie die ein- und ausfahrenden Fischerboote.",
             "hu": "Figyelje a ki- és befutó halászhajókat.",
             "ro": "Urmăriți bărcile de pescuit care intră și ies.",
-            "en": "Watch the fishing boats coming in and out."
+            "en": "Watch the fishing boats coming in and out.",
+            "hr": "Promatrajte ribarske brodove kako ulaze i izlaze."
           }
         }
       ],
@@ -623,7 +701,8 @@
         "de": "Erkunden Sie Bibinje und seine Umgebung bequem mit dem Fahrrad. Von der Altstadt Staro selo führt die Tour zur beeindruckenden Marina Dalmacija, einem der modernsten Häfen Kroatiens. Genießen Sie dort ein exquisites Mittagessen, bevor Sie gemütlich zurück zur Punta Rožica radeln, um im Meer zu entspannen. Der Tag endet mit einem Besuch der St. Rochus Kirche und einem Blick auf den malerischen Fischerhafen.",
         "hu": "Fedezze fel Bibinjét és környékét kényelmesen kerékpárral. Az óvárosból, a Staro selóból az út a lenyűgöző Marina Dalmacija felé vezet, amely Horvátország egyik legmodernebb kikötője. Élvezzen ott egy ízletes ebédet, majd tekerjen vissza a Punta Rožica strandra egy kis tengeri pihenésre. A napot a Szent Rókus templom meglátogatásával és a festői halászkikötő megtekintésével zárja.",
         "ro": "Explorați Bibinje și împrejurimile sale confortabil cu bicicleta. Din centrul vechi, Staro selo, turul duce spre impresionanta Marina Dalmacija, unul dintre cele mai moderne porturi din Croația. Savurați acolo un prânz rafinat înainte de a pedala înapoi spre Punta Rožica pentru o relaxare în mare. Ziua se încheie cu o vizită la biserica Sf. Rochus și o privire asupra portului pitoresc de pescuit.",
-        "en": "Explore Bibinje and its surroundings comfortably by bike. From the old town, Staro selo, the tour leads to the impressive Marina Dalmacija, one of Croatia's most modern marinas. Enjoy an exquisite lunch there before cycling back to Punta Rožica to relax in the sea. The day ends with a visit to St. Roch Church and a view of the picturesque fishing harbor."
+        "en": "Explore Bibinje and its surroundings comfortably by bike. From the old town, Staro selo, the tour leads to the impressive Marina Dalmacija, one of Croatia's most modern marinas. Enjoy an exquisite lunch there before cycling back to Punta Rožica to relax in the sea. The day ends with a visit to St. Roch Church and a view of the picturesque fishing harbor.",
+        "hr": "Istražite Bibinje i njegovu okolicu udobno biciklom. Iz stare jezgre, Starog sela, tura vodi do impresivne Marine Dalmacija, jedne od najmodernijih marina u Hrvatskoj. Uživajte u vrhunskom ručku prije nego što se odvezete natrag do Punte Rožica na opuštanje u moru. Dan završava posjetom crkvi sv. Roka i pogledom na slikovitu ribarsku luku."
       },
       "gastro_picks": {
         "de": [
@@ -648,6 +727,12 @@
           {
             "name": "Restaurant Laguna",
             "tip": "Fine dining in Marina Dalmacija."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Laguna",
+            "tip": "Vrhunska kuhinja u Marini Dalmacija."
           }
         ]
       },
@@ -679,6 +764,13 @@
             "tip": "Walk to the end of the breakwater.",
             "emoji": "🌊"
           }
+        ],
+        "hr": [
+          {
+            "name": "Valobran marine",
+            "tip": "Šetnja do samog kraja valobrana.",
+            "emoji": "🌊"
+          }
         ]
       },
       "shopping_picks": {
@@ -704,6 +796,12 @@
           {
             "name": "Yacht gear shops",
             "tip": "Maritime fashion and equipment in the marina."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Trgovine nautičkom opremom",
+            "tip": "Pomorska moda i oprema u marini."
           }
         ]
       },
@@ -731,6 +829,12 @@
           "Use the bike paths along the coast for the best views.",
           "There are plenty of bike racks in the marina.",
           "A helmet is recommended, especially on the short street sections."
+        ],
+        "hr": [
+          "Ruta do marine je ravna i vrlo lagana za vožnju.",
+          "Koristite biciklističke staze uz obalu za najbolje poglede.",
+          "U marini ima mnogo stalaka za bicikle.",
+          "Preporučuje se kaciga, posebno na kratkim dionicama ceste."
         ]
       },
       "variants": {
@@ -739,7 +843,8 @@
             "de": "Regnerische Radtour durch Bibinje erfordert Vorsicht auf dem nassen Asphalt. Der Vormittag führt uns zügig zur Marina Dalmacija, wo wir im Trockenen das geschäftige Treiben beobachten. Mittags wärmen wir uns bei einem ausgiebigen Essen in der Marina auf. Nachmittags radeln wir durch die leeren Gassen zurück, während der Wind uns den Regen entgegenpeitscht. Der Tag endet sicher im Hafenbereich.",
             "hu": "Az esős kerékpározás Bibinjében óvatosságot igényel a vizes aszfalton. A délelőtt gyorsan a Marina Dalmacija felé vezet, ahol fedett helyről figyeljük a forgalmat. Délben egy bőséges ebéddel melegszünk fel a kikötőben. Délután a szélfútta esőben tekerünk vissza az üres utcákon. A nap biztonságban, a kikötői negyedben ér véget.",
             "ro": "O tură cu bicicleta prin Bibinje pe ploaie necesită prudență pe asfaltul ud. Dimineața ne îndreptăm rapid spre Marina Dalmacija, unde urmărim activitatea de la adăpost. La prânz ne încălzim cu o masă bogată în marină. După-amiaza pedalăm înapoi prin străzile pustii, în timp ce vântul bate ploaia. Ziua se încheie în siguranță în zona portului.",
-            "en": "A rainy bike tour through Bibinje requires caution on the wet asphalt. The morning leads us quickly to Marina Dalmacija, where we watch the activity from a dry spot. At noon, we warm up with a hearty meal in the marina. In the afternoon, we cycle back through empty streets as the wind whips the rain against us. The day ends safely in the harbor area."
+            "en": "A rainy bike tour through Bibinje requires caution on the wet asphalt. The morning leads us quickly to Marina Dalmacija, where we watch the activity from a dry spot. At noon, we warm up with a hearty meal in the marina. In the afternoon, we cycle back through empty streets as the wind whips the rain against us. The day ends safely in the harbor area.",
+            "hr": "Kišna biciklistička tura kroz Bibinje zahtijeva oprez na mokrom asfaltu. Jutro nas brzo vodi do Marine Dalmacija, gdje promatramo aktivnosti sa suhog mjesta. U podne se grijemo uz obilan obrok u marini. Poslijepodne se vraćamo kroz prazne ulice dok vjetar šiba kišu o nas. Dan sigurno završava u području luke."
           },
           "stops": [
             {
@@ -748,7 +853,8 @@
                 "de": "Vorsicht beim Bremsen auf dem alten Kopfsteinpflaster.",
                 "hu": "Óvatosan fékezzen a régi macskaköveken.",
                 "ro": "Frânați cu prudență pe pavajul vechi de piatră.",
-                "en": "Exercise caution when braking on the old cobblestones."
+                "en": "Exercise caution when braking on the old cobblestones.",
+                "hr": "Budite oprezni pri kočenju na staroj kaldrmi."
               }
             },
             {
@@ -757,7 +863,8 @@
                 "de": "Parken Sie Ihr Rad unter dem Vordach des Hauptgebäudes.",
                 "hu": "Parkolja le kerékpárját a főépület előtetője alatt.",
                 "ro": "Parcați bicicleta sub copertina clădirii principale.",
-                "en": "Park your bike under the awning of the main building."
+                "en": "Park your bike under the awning of the main building.",
+                "hr": "Parkirajte bicikl ispod tende glavne zgrade."
               }
             },
             {
@@ -766,7 +873,8 @@
                 "de": "Ein idealer Ort, um die Regenkleidung kurz zu trocknen.",
                 "hu": "Ideális hely az esőruházat rövid szárítására.",
                 "ro": "Un loc ideal pentru a vă usca scurt hainele de ploaie.",
-                "en": "An ideal place to briefly dry your rain gear."
+                "en": "An ideal place to briefly dry your rain gear.",
+                "hr": "Idealno mjesto za kratko sušenje kišne opreme."
               }
             },
             {
@@ -775,7 +883,8 @@
                 "de": "Der befestigte Weg bleibt auch bei Regen gut befahrbar.",
                 "hu": "A kiépített út esőben is jól járható marad kerékpárral.",
                 "ro": "Drumul amenajat rămâne practicabil chiar și pe ploaie.",
-                "en": "The paved path remains easily cyclable even in the rain."
+                "en": "The paved path remains easily cyclable even in the rain.",
+                "hr": "Popločana staza ostaje lako prohodna i po kiši."
               }
             },
             {
@@ -784,7 +893,8 @@
                 "de": "Kurzer Stopp unter dem Portal, um die Route zu prüfen.",
                 "hu": "Rövid megálló a kapu alatt az útvonal ellenőrzéséhez.",
                 "ro": "O scurtă oprire sub portal pentru a verifica traseul.",
-                "en": "Short stop under the porch to check the route."
+                "en": "Short stop under the porch to check the route.",
+                "hr": "Kratko zaustavljanje pod trijemom radi provjere rute."
               }
             },
             {
@@ -793,7 +903,8 @@
                 "de": "Vermeiden Sie schnelle Kurven auf der nassen Mole.",
                 "hu": "Kerülje a gyors kanyarodást a vizes mólón.",
                 "ro": "Evitați virajele rapide pe digul umed.",
-                "en": "Avoid sharp turns on the wet pier."
+                "en": "Avoid sharp turns on the wet pier.",
+                "hr": "Izbjegavajte oštra skretanja na mokrom molu."
               }
             }
           ],
@@ -825,6 +936,13 @@
               "Avoid deep puddles as they can hide potholes.",
               "Use mudguards to protect yourself from road spray.",
               "Wrap your belongings in waterproof plastic bags."
+            ],
+            "hr": [
+              "Provjerite kočnice; put kočenja se znatno produžuje na mokrom asfaltu.",
+              "Nosite uočljivu kišnu opremu jer se vidljivost vozača smanjuje na kiši.",
+              "Izbjegavajte duboke lokve jer mogu skrivati rupe na cesti.",
+              "Koristite blatobrane kako biste se zaštitili od prskanja s ceste.",
+              "Zamotajte svoje stvari u vodootporne plastične vrećice."
             ]
           }
         },
@@ -833,7 +951,8 @@
             "de": "Eine Wintertour mit dem Rad bietet herrlich freie Wege in Bibinje. Am Vormittag radeln wir entspannt zur Marina Dalmacija, begleitet von einer kühlen Brise. Mittags kehren wir für ein stärkendes Mahl ein, bevor wir nachmittags die Küstenlinie bis Punta Rožica erkunden. Das flache Licht der Wintersonne macht die Fahrt zur Crkva sv. Roka besonders fotogen, bevor es nach Sonnenuntergang schnell kühl wird.",
             "hu": "A téli kerékpáros túra csodálatosan szabad utakat kínál Bibinjében. Délelőtt nyugodtan tekerünk a Marina Dalmacija felé, hűvös szellő kíséretében. Délben betérünk egy erősítő étkezésre, majd délután a partvonalat fedezzük fel Punta Rožicáig. A téli nap alacsony fénye különösen fotogénné teszi a Crkva sv. Rokához vezető utat, mielőtt napnyugta után gyorsan lehűl az idő.",
             "ro": "O tură de iarnă cu bicicleta oferă drumuri minunat de libere în Bibinje. Dimineața pedalăm relaxat spre Marina Dalmacija, acompaniați de o briză rece. La prânz ne oprim pentru o masă consistentă, apoi după-amiaza explorăm linia de coastă până la Punta Rožica. Lumina joasă a soarelui de iarnă face drumul spre Crkva sv. Roka foarte fotogenic înainte ca frigul să se lase rapid după apus.",
-            "en": "A winter bike tour offers wonderfully clear paths in Bibinje. In the morning, we cycle leisurely to Marina Dalmacija, accompanied by a cool breeze. At noon, we stop for a strengthening meal before exploring the coastline to Punta Rožica in the afternoon. The low winter light makes the ride to Crkva sv. Roka particularly photogenic before it cools down quickly after sunset."
+            "en": "A winter bike tour offers wonderfully clear paths in Bibinje. In the morning, we cycle leisurely to Marina Dalmacija, accompanied by a cool breeze. At noon, we stop for a strengthening meal before exploring the coastline to Punta Rožica in the afternoon. The low winter light makes the ride to Crkva sv. Roka particularly photogenic before it cools down quickly after sunset.",
+            "hr": "Zimska biciklistička tura nudi prekrasno čiste staze u Bibinju. Ujutro lagano pedaliramo do Marine Dalmacija, praćeni hladnim povjetarcem. U podne stajemo na okrepljujući obrok prije istraživanja obale do Punte Rožica poslijepodne. Nisko zimsko svjetlo čini vožnju do crkve sv. Roka posebno fotogeničnom prije nego što se nakon zalaska sunca brzo ohladi."
           },
           "stops": [
             {
@@ -842,7 +961,8 @@
                 "de": "Genießen Sie die leeren Plätze ohne die Touristenmassen.",
                 "hu": "Élvezze az üres tereket a turistatömegek nélkül.",
                 "ro": "Bucurați-vă de piețele libere, fără mulțimile de turiști.",
-                "en": "Enjoy the empty squares without the tourist crowds."
+                "en": "Enjoy the empty squares without the tourist crowds.",
+                "hr": "Uživajte u praznim trgovima bez turističkih gužvi."
               }
             },
             {
@@ -851,7 +971,8 @@
                 "de": "Ideal für eine Pause an einem der sonnigen, windgeschützten Plätze.",
                 "hu": "Ideális egy szünetre a napsütötte, szélvédett helyek egyikén.",
                 "ro": "Ideal pentru o pauză într-unul dintre locurile însorite și ferite de vânt.",
-                "en": "Ideal for a break in one of the sunny, sheltered spots."
+                "en": "Ideal for a break in one of the sunny, sheltered spots.",
+                "hr": "Idealno za pauzu na jednom od sunčanih, zaklonjenih mjesta."
               }
             },
             {
@@ -860,7 +981,8 @@
                 "de": "Wählen Sie einen Platz am Fenster, um die Wintersonne zu nutzen.",
                 "hu": "Válasszon ablak melletti helyet a téli napsütés kihasználásához.",
                 "ro": "Alegeți un loc la fereastră pentru a profita de soarele de iarnă.",
-                "en": "Choose a window seat to make the most of the winter sun."
+                "en": "Choose a window seat to make the most of the winter sun.",
+                "hr": "Odaberite mjesto uz prozor kako biste maksimalno iskoristili zimsko sunce."
               }
             },
             {
@@ -869,7 +991,8 @@
                 "de": "Kühle Meeresbrise genießen – Handschuhe beim Fahren nicht vergessen.",
                 "hu": "Élvezze a hűvös tengeri szellőt – ne feledje a kesztyűt tekerés közben.",
                 "ro": "Bucurați-vă de briza mării – nu uitați mănușile în timp ce pedalați.",
-                "en": "Enjoy the cool sea breeze – don't forget gloves while riding."
+                "en": "Enjoy the cool sea breeze – don't forget gloves while riding.",
+                "hr": "Uživajte u svježem morskom povjetarcu – ne zaboravite rukavice tijekom vožnje."
               }
             },
             {
@@ -878,7 +1001,8 @@
                 "de": "Das Licht am späten Nachmittag ist hier im Winter fantastisch.",
                 "hu": "A késő délutáni fények itt télen fantasztikusak.",
                 "ro": "Lumina de după-amiază târzie este fantastică aici iarna.",
-                "en": "The late afternoon light is fantastic here in winter."
+                "en": "The late afternoon light is fantastic here in winter.",
+                "hr": "Kasno poslijepodnevno svjetlo je ovdje fantastično zimi."
               }
             },
             {
@@ -887,7 +1011,8 @@
                 "de": "Bringen Sie die Tour vor 17:00 Uhr zu Ende, bevor es dunkel wird.",
                 "hu": "Fejezze be a túrát 17:00 előtt, mielőtt sötét lesz.",
                 "ro": "Încheiați turul înainte de ora 17:00, înainte de a se întuneca.",
-                "en": "Finish the tour before 5:00 PM, before it gets dark."
+                "en": "Finish the tour before 5:00 PM, before it gets dark.",
+                "hr": "Završite turu prije 17:00, prije nego što padne mrak."
               }
             }
           ],
@@ -919,6 +1044,13 @@
               "Drink enough water during the tour despite the cold weather.",
               "Paths are much emptier in winter, allowing for a very relaxed ride.",
               "Use bike lights as it starts to get dark early in winter."
+            ],
+            "hr": [
+              "Rukavice i traka za glavu su neophodni zbog hladnoće vjetra tijekom vožnje.",
+              "Pripazite na zaleđene dijelove u sjenovitim područjima rano ujutro.",
+              "Pijte dovoljno vode tijekom ture unatoč hladnom vremenu.",
+              "Staze su zimi mnogo praznije, što omogućuje vrlo opuštenu vožnju.",
+              "Koristite svjetla na biciklu jer zimi rano počinje padati mrak."
             ]
           }
         }
@@ -947,7 +1079,8 @@
             "de": "Parken Sie am Eingang des historischen Zentrums (Cluster A).",
             "hu": "Parkoljon a történelmi központ bejáratánál (A klaszter).",
             "ro": "Parcați la intrarea în centrul istoric (Cluster A).",
-            "en": "Park at the entrance of the historic center (Cluster A)."
+            "en": "Park at the entrance of the historic center (Cluster A).",
+            "hr": "Parkirajte na ulazu u povijesnu jezgru (Klaster A)."
           }
         },
         {
@@ -965,7 +1098,8 @@
             "de": "Kurzer Spaziergang von der Altstadt (Cluster A).",
             "hu": "Rövid séta az óvárostól (A klaszter).",
             "ro": "Scurtă plimbare de la orașul vechi (Cluster A).",
-            "en": "Short walk from the old town (Cluster A)."
+            "en": "Short walk from the old town (Cluster A).",
+            "hr": "Kratka šetnja iz starog grada (Klaster A)."
           }
         },
         {
@@ -983,7 +1117,8 @@
             "de": "Letzter Stopp im Zentrum, bevor Sie zur Marina fahren.",
             "hu": "Utolsó megálló a központban, mielőtt a kikötőbe hajtana.",
             "ro": "Ultima oprire în centru înainte de a merge la marină.",
-            "en": "Last stop in the center before driving to the marina."
+            "en": "Last stop in the center before driving to the marina.",
+            "hr": "Posljednja postaja u centru prije vožnje do marine."
           }
         },
         {
@@ -1001,7 +1136,8 @@
             "de": "Fahren Sie zum Cluster B und nutzen Sie den großen Parkplatz.",
             "hu": "Hajtson a B klaszterhez, használja a nagy parkolót.",
             "ro": "Conduceți spre Cluster B și folosiți parcarea mare.",
-            "en": "Drive to Cluster B and use the large parking lot."
+            "en": "Drive to Cluster B and use the large parking lot.",
+            "hr": "Odvezite se do Klastera B i koristite veliko parkiralište."
           }
         },
         {
@@ -1019,7 +1155,8 @@
             "de": "Dalmatinische Spezialitäten in der Nähe der Marina (Cluster B).",
             "hu": "Dalmát specialitások a kikötő közelében (B klaszter).",
             "ro": "Specialități dalmate lângă marină (Cluster B).",
-            "en": "Dalmatian specialties near the marina (Cluster B)."
+            "en": "Dalmatian specialties near the marina (Cluster B).",
+            "hr": "Dalmatinski specijaliteti u blizini marine (Klaster B)."
           }
         },
         {
@@ -1037,7 +1174,8 @@
             "de": "Parken Sie in der Nähe des Strandes für einen entspannten Nachmittag.",
             "hu": "Parkoljon a strand közelében a pihentető délutánhoz.",
             "ro": "Parcați lângă plajă pentru o după-amiază relaxantă.",
-            "en": "Park near the beach for a relaxed afternoon."
+            "en": "Park near the beach for a relaxed afternoon.",
+            "hr": "Parkirajte u blizini plaže za opušteno poslijepodne."
           }
         },
         {
@@ -1055,7 +1193,8 @@
             "de": "Ein letzter Stopp mit Panoramablick vor der Abfahrt.",
             "hu": "Utolsó megálló panorámás kilátással távozás előtt.",
             "ro": "O ultimă oprire cu vedere panoramică înainte de plecare.",
-            "en": "A last stop with panoramic views before departure."
+            "en": "A last stop with panoramic views before departure.",
+            "hr": "Posljednja postaja s panoramskim pogledom prije odlaska."
           }
         }
       ],
@@ -1063,7 +1202,8 @@
         "de": "Mit dem Auto lässt sich Bibinje flexibel in Clustern erkunden. Beginnen Sie im historischen Zentrum (Cluster A), wo Sie die Kirchen zu Fuß besuchen. Danach fahren Sie zur Marina Dalmacija (Cluster B), um die beeindruckende Hafenanlage und die gastronomischen Angebote zu genießen. Den Nachmittag verbringen Sie am beliebten Strand Punta Rožica, bevor Sie mit dem Wagen einen höher gelegenen Aussichtspunkt für den perfekten Blick über die Adria ansteuern.",
         "hu": "Autóval Bibinje klaszterekben, rugalmasan fedezhető fel. Kezdjen a történelmi központban (A klaszter), ahol gyalog látogatja meg a templomokat. Ezután hajtson a Marina Dalmacijához (B klaszter), hogy élvezze a lenyűgöző kikötőt és a gasztronómiai kínálatot. A délutánt a népszerű Punta Rožica strandon töltse, majd autóval keressen fel egy magasabb kilátópontot a tökéletes adriai panorámáért.",
         "ro": "Cu mașina, Bibinje poate fi explorat flexibil în clustere. Începeți în centrul istoric (Cluster A), unde vizitați bisericile pe jos. Apoi conduceți spre Marina Dalmacija (Cluster B) pentru a vă bucura de portul impresionant și de ofertele gastronomice. Petreceți după-amiaza pe populara plajă Punta Rožica, înainte de a merge cu mașina la un punct de belvedere mai înalt pentru panorama perfectă asupra Adriaticii.",
-        "en": "By car, Bibinje can be explored flexibly in clusters. Start in the historic center (Cluster A), where you visit the churches on foot. Then drive to Marina Dalmacija (Cluster B) to enjoy the impressive marina and gastronomic offerings. Spend the afternoon at the popular Punta Rožica beach, before driving to a higher viewpoint for the perfect view over the Adriatic."
+        "en": "By car, Bibinje can be explored flexibly in clusters. Start in the historic center (Cluster A), where you visit the churches on foot. Then drive to Marina Dalmacija (Cluster B) to enjoy the impressive marina and gastronomic offerings. Spend the afternoon at the popular Punta Rožica beach, before driving to a higher viewpoint for the perfect view over the Adriatic.",
+        "hr": "Automobilom se Bibinje može fleksibilno istraživati po zonama. Započnite u povijesnoj jezgri (Klaster A), gdje ćete crkve obići pješice. Zatim se odvezite do Marine Dalmacija (Klaster B) kako biste uživali u impresivnoj marini i gastronomskoj ponudi. Poslijepodne provedite na popularnoj plaži Punta Rožica, prije nego što se odvezete do višeg vidikovca za savršen pogled na Jadran."
       },
       "gastro_picks": {
         "de": [
@@ -1088,6 +1228,12 @@
           {
             "name": "Konoba Jaz",
             "tip": "Family atmosphere and top-notch grilled fish."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Jaz",
+            "tip": "Obiteljska atmosfera i vrhunska riba na žaru."
           }
         ]
       },
@@ -1119,6 +1265,13 @@
             "tip": "Quiet spot with a view of Zadar and the islands.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Brdo iznad Bibinja",
+            "tip": "Mirno mjesto s pogledom na Zadar i otoke.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1144,6 +1297,12 @@
           {
             "name": "Local wines",
             "tip": "Direct sale in small wine cellars in the village."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna vina",
+            "tip": "Izravna prodaja u malim vinskim podrumima u selu."
           }
         ]
       },
@@ -1171,6 +1330,12 @@
           "The streets in the old core are very narrow, better to park slightly outside.",
           "Use the coastal road towards Sukošan for a beautiful panoramic drive.",
           "Pay attention to one-way street regulations in the center."
+        ],
+        "hr": [
+          "U mjestu postoji nekoliko besplatnih parkirališta, posebno izvan sezone.",
+          "Ulice u staroj jezgri su vrlo uske, bolje je parkirati malo izvan nje.",
+          "Koristite obalnu cestu prema Sukošanu za prekrasnu panoramsku vožnju.",
+          "Obratite pozornost na propise o jednosmjernim ulicama u centru."
         ]
       },
       "variants": {
@@ -1179,7 +1344,8 @@
             "de": "Bei Regen ist das Auto die komfortabelste Wahl für Bibinje. Den Vormittag verbringen wir in den historischen Kernen und Kirchen, wobei das Auto uns trocken von Ort zu Ort bringt. Mittags genießen wir die Gemütlichkeit in einer Konoba, während draußen der Regen fällt. Nachmittags fahren wir zur Marina und blicken aus dem warmen Wagen auf die peitschende Adria am Küstenaussichtspunkt.",
             "hu": "Esőben az autó a legkényelmesebb választás Bibinjében. A délelőttöt a történelmi központban és templomokban töltjük, az autó szárazon juttat el egyik helyről a másikra. Délben a konoba melegét élvezzük, miközben kint esik. Délután a marinához hajtunk, majd a meleg kocsiból nézzük a felkorbácsolt Adriát a tengerparti kilátópontnál.",
             "ro": "Pe ploaie, mașina este alegerea cea mai confortabilă pentru Bibinje. Petrecem dimineața în centrul istoric și la biserici, mașina transportându-ne uscați de la un loc la altul. La prânz ne bucurăm de confortul unei taverne în timp ce afară plouă. După-amiaza mergem la marină și privim din mașina caldă marea agitată de la punctul de observație.",
-            "en": "In the rain, a car is the most comfortable choice for Bibinje. We spend the morning in the historical center and churches, with the car keeping us dry between stops. At noon, we enjoy the coziness of a konoba while it rains outside. In the afternoon, we drive to the marina and look out from the warm car at the churning Adriatic from the coastal viewpoint."
+            "en": "In the rain, a car is the most comfortable choice for Bibinje. We spend the morning in the historical center and churches, with the car keeping us dry between stops. At noon, we enjoy the coziness of a konoba while it rains outside. In the afternoon, we drive to the marina and look out from the warm car at the churning Adriatic from the coastal viewpoint.",
+            "hr": "Po kiši, automobil je najudobniji izbor za Bibinje. Jutro provodimo u povijesnoj jezgri i crkvama, dok nas automobil održava suhima između postaja. U podne uživamo u ugodnoj atmosferi konobe dok vani pada kiša. Poslijepodne se vozimo do marine i iz toplog automobila gledamo u uzburkani Jadran s obalnog vidikovca."
           },
           "stops": [
             {
@@ -1188,7 +1354,8 @@
                 "de": "Parkplätze sind bei Regen oft näher am Eingang frei.",
                 "hu": "Esőben a parkolóhelyek gyakran közelebb szabadulnak fel a bejárathoz.",
                 "ro": "Locurile de parcare sunt adesea libere mai aproape de intrare pe ploaie.",
-                "en": "Parking spots are often available closer to the entrance in the rain."
+                "en": "Parking spots are often available closer to the entrance in the rain.",
+                "hr": "Parkirna mjesta su po kiši često dostupna bliže ulazu."
               }
             },
             {
@@ -1197,7 +1364,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz; Schirm bereithalten.",
                 "hu": "Rövid séta a parkolótól; készítse elő az esernyőt.",
                 "ro": "Drum scurt pe jos de la parcare; țineți umbrela la îndemână.",
-                "en": "Short walk from the parking area; have your umbrella ready."
+                "en": "Short walk from the parking area; have your umbrella ready.",
+                "hr": "Kratka šetnja od parkirališta; pripremite kišobran."
               }
             },
             {
@@ -1206,7 +1374,8 @@
                 "de": "Die engen Gassen erfordern vorsichtiges Navigieren bei Nässe.",
                 "hu": "A szűk utcák óvatos navigációt igényelnek nedves időben.",
                 "ro": "Străzile înguste necesită navigare prudentă pe carosabil umed.",
-                "en": "The narrow streets require careful navigation in wet conditions."
+                "en": "The narrow streets require careful navigation in wet conditions.",
+                "hr": "Uske ulice zahtijevaju pažljivu vožnju u mokrim uvjetima."
               }
             },
             {
@@ -1215,7 +1384,8 @@
                 "de": "Großer befestigter Parkplatz, ideal bei Regenwetter.",
                 "hu": "Nagy, kiépített parkoló, ideális esős időben.",
                 "ro": "Parcare mare amenajată, ideală pe vreme ploioasă.",
-                "en": "Large paved parking area, ideal for rainy weather."
+                "en": "Large paved parking area, ideal for rainy weather.",
+                "hr": "Veliko asfaltirano parkiralište, idealno za kišno vrijeme."
               }
             },
             {
@@ -1224,7 +1394,8 @@
                 "de": "Nutzen Sie den Komfort des nahen Parkens direkt vor dem Lokal.",
                 "hu": "Használja ki a közvetlenül a hely előtt található közeli parkolás kényelmét.",
                 "ro": "Profitați de confortul parcării chiar în fața localului.",
-                "en": "Take advantage of the convenience of parking right in front of the venue."
+                "en": "Take advantage of the convenience of parking right in front of the venue.",
+                "hr": "Iskoristite pogodnost parkiranja točno ispred lokala."
               }
             },
             {
@@ -1233,7 +1404,8 @@
                 "de": "Genießen Sie den Blick aufs Meer direkt aus dem trockenen Auto.",
                 "hu": "Élvezze a tengeri kilátást közvetlenül a száraz autóból.",
                 "ro": "Bucurați-vă de vederea la mare direct din mașina uscată.",
-                "en": "Enjoy the sea view directly from the dry car."
+                "en": "Enjoy the sea view directly from the dry car.",
+                "hr": "Uživajte u pogledu na more izravno iz suhog automobila."
               }
             },
             {
@@ -1242,7 +1414,8 @@
                 "de": "Perfekt, um das Wetterphänomen stürmischer See sicher zu beobachten.",
                 "hu": "Tökéletes a viharos tenger biztonságos megfigyeléséhez.",
                 "ro": "Perfect pentru a observa în siguranță marea înfuriată.",
-                "en": "Perfect for safely observing the stormy sea weather phenomenon."
+                "en": "Perfect for safely observing the stormy sea weather phenomenon.",
+                "hr": "Savršeno za sigurno promatranje olujnog mora kao prirodnog fenomena."
               }
             }
           ],
@@ -1274,6 +1447,13 @@
               "Do not leave wet umbrellas on the car seats.",
               "Watch out for pedestrians who may cross the road carelessly in the rain.",
               "Check the condition of your windshield wipers before starting."
+            ],
+            "hr": [
+              "Budite oprezni u uskim ulicama; asfalt može biti prilično sklisk.",
+              "Koristite veća parkirališta u marini za duže boravke.",
+              "Ne ostavljajte mokre kišobrane na sjedalima automobila.",
+              "Pripazite na pješake koji po kiši mogu neoprezno prelaziti cestu.",
+              "Provjerite stanje brisača prije polaska."
             ]
           }
         },
@@ -1282,7 +1462,8 @@
             "de": "Im Winter ermöglicht das Auto eine flexible Erkundung von Bibinje ohne Frieren. Vormittags besuchen wir die Kirchen und den alten Kern, während wir zwischendurch im warmen Wagen entspannen. Mittags kehren wir gemütlich ein. Nachmittags führt uns die Fahrt zur Marina Dalmacija und weiter zum Küstenaussichtspunkt, wo wir den spektakulären Winter-Sonnenuntergang bei angenehmer Temperatur im Auto erleben.",
             "hu": "Télen az autó lehetővé teszi Bibinje rugalmas felfedezését fagyoskodás nélkül. Délelőtt meglátogatjuk a templomokat és az óvárost, közben a meleg kocsiban pihenünk. Délben kényelmesen ebédelünk. Délután a Marina Dalmacija felé autózunk, majd a tengerparti kilátópontnál fejezzük be a napot, ahol a látványos téli naplementét az autó melegéből nézzük végig.",
             "ro": "Iarna, mașina permite explorarea flexibilă a localității Bibinje fără a îngheța. Dimineața vizităm bisericile și centrul vechi, relaxându-ne între timp în mașina caldă. La prânz luăm masa în tihnă. După-amiaza mergem spre Marina Dalmacija și apoi la punctul de observație, unde admirăm apusul spectaculos de iarnă din confortul mașinii.",
-            "en": "In winter, a car allows for flexible exploration of Bibinje without the chill. In the morning, we visit the churches and the old town, warming up in the car in between stops. At noon, we enjoy a cozy lunch. In the afternoon, we drive to Marina Dalmacija and then to the coastal viewpoint, experiencing the spectacular winter sunset from the warm car."
+            "en": "In winter, a car allows for flexible exploration of Bibinje without the chill. In the morning, we visit the churches and the old town, warming up in the car in between stops. At noon, we enjoy a cozy lunch. In the afternoon, we drive to Marina Dalmacija and then to the coastal viewpoint, experiencing the spectacular winter sunset from the warm car.",
+            "hr": "Zimi automobil omogućuje fleksibilno istraživanje Bibinja bez hladnoće. Ujutro posjećujemo crkve i stari grad, grijući se u automobilu između postaja. U podne uživamo u ugodnom ručku. Poslijepodne se vozimo do Marine Dalmacija, a zatim do obalnog vidikovca, doživljavajući spektakularan zimski zalazak sunca iz toplog automobila."
           },
           "stops": [
             {
@@ -1291,7 +1472,8 @@
                 "de": "Die Parkplatzsuche ist im Winter völlig unproblematisch.",
                 "hu": "A parkolóhely-keresés télen teljesen problémamentes.",
                 "ro": "Căutarea unui loc de parcare este total lipsită de probleme iarna.",
-                "en": "Finding a parking spot is completely effortless in winter."
+                "en": "Finding a parking spot is completely effortless in winter.",
+                "hr": "Pronalaženje parkirnog mjesta zimi je potpuno bez napora."
               }
             },
             {
@@ -1300,7 +1482,8 @@
                 "de": "Das Auto bietet schnellen Schutz vor der beißenden Bura.",
                 "hu": "Az autó gyors védelmet nyújt a metsző bóra ellen.",
                 "ro": "Mașina oferă adăpost rapid împotriva vântului tăios Bura.",
-                "en": "The car provides quick shelter from the biting Bura wind."
+                "en": "The car provides quick shelter from the biting Bura wind.",
+                "hr": "Automobil pruža brz zaklon od grizuće bure."
               }
             },
             {
@@ -1309,7 +1492,8 @@
                 "de": "Nutzen Sie die Heizung zwischen den kurzen Besichtigungen.",
                 "hu": "Használja a fűtést a rövid látogatások között.",
                 "ro": "Folosiți încălzirea între vizitele scurte.",
-                "en": "Use the car's heater between short sightseeing stops."
+                "en": "Use the car's heater between short sightseeing stops.",
+                "hr": "Koristite grijanje automobila između kratkih razgledavanja."
               }
             },
             {
@@ -1318,7 +1502,8 @@
                 "de": "Ein schöner Ort für eine Kaffeepause mit Blick aus dem Fenster.",
                 "hu": "Szép hely egy kávészünetre, kilátással az ablakból.",
                 "ro": "Un loc frumos pentru o pauză de cafea cu vedere la fereastră.",
-                "en": "A lovely spot for a coffee break with a view from the window."
+                "en": "A lovely spot for a coffee break with a view from the window.",
+                "hr": "Lijepo mjesto za pauzu za kavu s pogledom s prozora."
               }
             },
             {
@@ -1327,7 +1512,8 @@
                 "de": "Fragen Sie nach einem Tisch in der Nähe des Kamins, falls vorhanden.",
                 "hu": "Kérjen asztalt a kandalló közelében, ha van ilyen.",
                 "ro": "Cereți o masă lângă șemineu, dacă există.",
-                "en": "Ask for a table near the fireplace if one is available."
+                "en": "Ask for a table near the fireplace if one is available.",
+                "hr": "Tražite stol u blizini kaminu ako je dostupan."
               }
             },
             {
@@ -1336,7 +1522,8 @@
                 "de": "Kurzer Strandgang möglich, da das warme Auto direkt daneben parkt.",
                 "hu": "Rövid parti séta után a meleg autó közvetlenül ott várja.",
                 "ro": "O scurtă plimbare pe plajă este posibilă, mașina caldă fiind parcată chiar lângă.",
-                "en": "A short beach walk is possible since the warm car is parked right next to it."
+                "en": "A short beach walk is possible since the warm car is parked right next to it.",
+                "hr": "Kratka šetnja plažom je moguća jer je topli automobil parkiran odmah pored nje."
               }
             },
             {
@@ -1345,7 +1532,8 @@
                 "de": "Der beste Ort für Fotos, ohne der Kälte lange ausgesetzt zu sein.",
                 "hu": "A legjobb hely fotózáshoz anélkül, hogy sokáig a hidegben lenne.",
                 "ro": "Cel mai bun loc pentru fotografii fără a fi expuși mult timp la frig.",
-                "en": "The best place for photos without prolonged exposure to the cold."
+                "en": "The best place for photos without prolonged exposure to the cold.",
+                "hr": "Najbolje mjesto za fotografije bez dugotrajnog izlaganja hladnoći."
               }
             }
           ],
@@ -1377,6 +1565,13 @@
               "Roads in the hinterland can be slippery in the mornings.",
               "Drive defensively if strong Bura gusts occur.",
               "Have an ice scraper ready in case of frost."
+            ],
+            "hr": [
+              "Imajte na umu da se akumulatori brže prazne na hladnom vremenu.",
+              "Parkirajte na zaklonjenim mjestima kako biste usporili hlađenje automobila.",
+              "Ceste u zaleđu ujutro mogu biti skiske.",
+              "Vozite defenzivno ako se pojave jaki udari bure.",
+              "Imajte spreman strugač za led u slučaju mraza."
             ]
           }
         }
@@ -1405,7 +1600,8 @@
             "de": "Zentraler Ankunftspunkt mit dem Lokalbus aus Zadar.",
             "hu": "Központi érkezési pont a Zárából érkező helyi busszal.",
             "ro": "Punct central de sosire cu autobuzul local din Zadar.",
-            "en": "Central arrival point with the local bus from Zadar."
+            "en": "Central arrival point with the local bus from Zadar.",
+            "hr": "Središnja točka dolaska lokalnim autobusom iz Zadra."
           }
         },
         {
@@ -1423,7 +1619,8 @@
             "de": "Besuchen Sie St. Rochus und St. Johannes zu Fuß (Cluster A).",
             "hu": "Látogassa meg gyalog a Szent Rókus és Szent János templomokat (A klaszter).",
             "ro": "Vizitați pe jos Sf. Rochus și Sf. Ioan (Cluster A).",
-            "en": "Visit St. Roch and St. John churches on foot (Cluster A)."
+            "en": "Visit St. Roch and St. John churches on foot (Cluster A).",
+            "hr": "Pješice posjetite crkve sv. Roka i sv. Ivana (Klaster A)."
           }
         },
         {
@@ -1441,7 +1638,8 @@
             "de": "Nehmen Sie den Bus oder ein Taxi zum südlichen Cluster B.",
             "hu": "Menjen busszal vagy taxival a déli B klaszterhez.",
             "ro": "Luați autobuzul sau un taxi spre clusterul sudic B.",
-            "en": "Take the bus or a taxi to the southern Cluster B."
+            "en": "Take the bus or a taxi to the southern Cluster B.",
+            "hr": "Sjednite na autobus ili uzmite taksi do južnog Klastera B."
           }
         },
         {
@@ -1459,7 +1657,8 @@
             "de": "Rückkehr ins Zentrum für ein Mittagessen in einer Konoba.",
             "hu": "Visszatérés a központba egy ebédre egy konobában.",
             "ro": "Revenire în centru pentru un prânz într-o konoba.",
-            "en": "Return to the center for lunch in a konoba."
+            "en": "Return to the center for lunch in a konoba.",
+            "hr": "Vratite se u centar na ručak u konobi."
           }
         },
         {
@@ -1477,7 +1676,8 @@
             "de": "Entspannung am Hauptstrand, nur wenige Gehminuten vom Zentrum.",
             "hu": "Pihenés a fő strandon, pár perc sétára a központtól.",
             "ro": "Relaxare pe plaja principală, la câteva minute de mers de centru.",
-            "en": "Relaxation at the main beach, just a few minutes walk from the center."
+            "en": "Relaxation at the main beach, just a few minutes walk from the center.",
+            "hr": "Opuštanje na glavnoj plaži, samo nekoliko minuta hoda od centra."
           }
         },
         {
@@ -1495,7 +1695,8 @@
             "de": "Gemütlicher Ausklang an der Uferpromenade vor der Rückfahrt.",
             "hu": "Kellemes levezetés a tengerparti sétányon a visszautazás előtt.",
             "ro": "Final relaxat pe faleză înainte de plecare.",
-            "en": "Leisurely end at the waterfront before the return trip."
+            "en": "Leisurely end at the waterfront before the return trip.",
+            "hr": "Lagani završetak na obali prije povratka."
           }
         }
       ],
@@ -1503,7 +1704,8 @@
         "de": "Bibinje ist durch lokale Busverbindungen gut an Zadar angebunden. Der Tag beginnt im Staro selo, gefolgt von einem kurzen Spaziergang zu den Kirchen im Zentrum. Ein Transit-Hop bringt Sie zur beeindruckenden Marina Dalmacija im Süden. Nach der Besichtigung kehren Sie für ein gemütliches Mittagessen ins Dorfzentrum zurück und genießen den Nachmittag am Strand Punta Rožica, bevor Sie von der Riva aus den Bus zurück nehmen.",
         "hu": "Bibinje helyi buszjáratokkal jól kapcsolódik Zárához. A nap a Staro selóban kezdődik, majd egy rövid séta következik a központ templomaihoz. Egy rövid buszozással vagy taxival eljuthat a déli Marina Dalmacijához. A látogatás után térjen vissza a faluközpontba egy kényelmes ebédre, és töltse a délutánt a Punta Rožica strandon, mielőtt a Riváról induló busszal hazautazna.",
         "ro": "Bibinje este bine conectat de Zadar prin linii de autobuz locale. Ziua începe în Staro selo, urmată de o scurtă plimbare la bisericile din centru. Un transfer rapid vă duce la impresionanta Marina Dalmacija din sud. După vizitare, reveniți în centrul satului pentru un prânz relaxat și petreceți după-amiaza pe plaja Punta Rožica, înainte de a lua autobuzul înapoi de pe faleză.",
-        "en": "Bibinje is well connected to Zadar by local bus lines. The day starts in Staro selo, followed by a short walk to the churches in the center. A transit hop takes you to the impressive Marina Dalmacija in the south. After the visit, return to the village center for a leisurely lunch and spend the afternoon at Punta Rožica beach, before taking the bus back from the Riva."
+        "en": "Bibinje is well connected to Zadar by local bus lines. The day starts in Staro selo, followed by a short walk to the churches in the center. A transit hop takes you to the impressive Marina Dalmacija in the south. After the visit, return to the village center for a leisurely lunch and spend the afternoon at Punta Rožica beach, before taking the bus back from the Riva.",
+        "hr": "Bibinje je dobro povezano sa Zadrom lokalnim autobusnim linijama. Dan počinje u Starom selu, nakon čega slijedi kratka šetnja do crkvi u centru. Kratka vožnja javnim prijevozom vodi vas do impresivne Marine Dalmacija na jugu. Nakon posjeta, vratite se u centar mjesta na lagani ručak i provedite poslijepodne na plaži Punta Rožica, prije povratka autobusom s Rive."
       },
       "gastro_picks": {
         "de": [
@@ -1528,6 +1730,12 @@
           {
             "name": "Bakery in the center",
             "tip": "Get fresh burek for on the go."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pekara u centru",
+            "tip": "Uzmite svježi burek za usput."
           }
         ]
       },
@@ -1559,6 +1767,13 @@
             "tip": "Small green area in the center for a break.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Park uz more",
+            "tip": "Mala zelena površina u centru za predah.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1584,6 +1799,12 @@
           {
             "name": "Local honey",
             "tip": "Often sold at small stands in the village."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Domaći med",
+            "tip": "Često se prodaje na malim štandovima u selu."
           }
         ]
       },
@@ -1611,6 +1832,12 @@
           "The bus stops are located on the main road above the village.",
           "Buy tickets directly from the bus driver (cash payment).",
           "In high season, buses can often be delayed."
+        ],
+        "hr": [
+          "Autobusna linija 201 redovito povezuje Zadar s Bibinjem.",
+          "Autobusna stajališta nalaze se na glavnoj cesti iznad mjesta.",
+          "Karte kupite izravno kod vozača autobusa (plaćanje gotovinom).",
+          "U jeku sezone autobusi često mogu kasniti."
         ]
       },
       "variants": {
@@ -1619,7 +1846,8 @@
             "de": "Regenwetter in Bibinje lässt uns die lokalen Busverbindungen schätzen. Vormittags erreichen wir den alten Kern und besichtigen die Kirchen wetterfest. Mittags kehren wir für ein warmes Essen ein. Nachmittags führt uns der Transit zur Marina Dalmacija, wo wir die Schiffe im Regenhafen beobachten. Der Tag endet mit einem kurzen Spaziergang an der Riva, bevor wir den nächsten Bus zurück nehmen.",
             "hu": "Esős időben értékeljük csak igazán a helyi buszjáratokat Bibinjében. Délelőtt elérjük az óvárost és megnézzük a templomokat. Délben egy meleg ebédre térünk be. Délután busszal megyünk a Marina Dalmacijához, ahol az eső áztatta hajókat figyeljük. A nap egy rövid rivai sétával zárul, mielőtt felszállunk a visszajáratra.",
             "ro": "Vremea ploioasă ne face să apreciem legăturile locale de autobuz din Bibinje. Dimineața ajungem în centrul vechi și vizităm bisericile protejați de ploaie. La prânz ne oprim pentru o masă caldă. După-amiaza, transportul ne duce la Marina Dalmacija, unde urmărim navele în portul udat de ploaie. Ziua se încheie cu o scurtă plimbare pe faleză înainte de a lua autobuzul înapoi.",
-            "en": "Rainy weather in Bibinje makes us appreciate the local bus connections. In the morning, we reach the old town and visit the churches while staying dry. At noon, we stop for a warm meal. In the afternoon, transit takes us to Marina Dalmacija, where we watch the ships in the rainy harbor. The day ends with a short stroll on the Riva before taking the next bus back."
+            "en": "Rainy weather in Bibinje makes us appreciate the local bus connections. In the morning, we reach the old town and visit the churches while staying dry. At noon, we stop for a warm meal. In the afternoon, transit takes us to Marina Dalmacija, where we watch the ships in the rainy harbor. The day ends with a short stroll on the Riva before taking the next bus back.",
+            "hr": "Kišno vrijeme u Bibinju tjera nas da cijenimo lokalne autobusne veze. Ujutro stižemo u stari grad i posjećujemo crkve dok ostajemo suhi. U podne stajemo na topli obrok. Poslijepodne nas prijevoz vodi do Marine Dalmacija, gdje promatramo brodove u kišnoj luci. Dan završava kratkom šetnjom Rivom prije povratka sljedećim autobusom."
           },
           "stops": [
             {
@@ -1628,7 +1856,8 @@
                 "de": "Die Bushaltestelle bietet oft ein kleines Dach zum Unterstellen.",
                 "hu": "A buszmegálló gyakran rendelkezik kis tetővel a várakozáshoz.",
                 "ro": "Stația de autobuz are adesea un mic acoperiș pentru adăpost.",
-                "en": "The bus stop often has a small roof to wait under."
+                "en": "The bus stop often has a small roof to wait under.",
+                "hr": "Autobusna stanica često ima mali krov ispod kojeg se može čekati."
               }
             },
             {
@@ -1637,7 +1866,8 @@
                 "de": "Kurze Wege zwischen den Haltestellen und den Eingängen einplanen.",
                 "hu": "Tervezzen rövid utakat a megállók és a bejáratok között.",
                 "ro": "Planificați trasee scurte între stații și intrări.",
-                "en": "Plan short walking routes between stops and entrances."
+                "en": "Plan short walking routes between stops and entrances.",
+                "hr": "Planirajte kratke pješačke rute između stajališta i ulaza."
               }
             },
             {
@@ -1646,7 +1876,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten genau, um nicht im Regen zu warten.",
                 "hu": "Pontosan ellenőrizze az indulási időket, hogy ne várjon az esőben.",
                 "ro": "Verificați exact orele de plecare pentru a nu aștepta în ploaie.",
-                "en": "Check departure times carefully to avoid waiting in the rain."
+                "en": "Check departure times carefully to avoid waiting in the rain.",
+                "hr": "Pažljivo provjerite vrijeme polaska kako biste izbjegli čekanje na kiši."
               }
             },
             {
@@ -1655,7 +1886,8 @@
                 "de": "Lokal wählen, das nahe an einer Transitverbindung liegt.",
                 "hu": "Válasszon olyan helyet, amely közel van a közlekedési csomóponthoz.",
                 "ro": "Alegeți un local situat aproape de o conexiune de transport.",
-                "en": "Choose a venue located near a transit connection."
+                "en": "Choose a venue located near a transit connection.",
+                "hr": "Odaberite objekt koji se nalazi u blizini stanice javnog prijevoza."
               }
             },
             {
@@ -1664,7 +1896,8 @@
                 "de": "Nur kurz besichtigen und den nächsten Bus anpeilen.",
                 "hu": "Csak rövid látogatást tegyen, és célozza meg a következő buszt.",
                 "ro": "Faceți doar o vizită scurtă și vizați următorul autobuz.",
-                "en": "Take only a short visit and aim for the next bus."
+                "en": "Take only a short visit and aim for the next bus.",
+                "hr": "Samo kratko posjetite i ciljajte na sljedeći autobus."
               }
             },
             {
@@ -1673,7 +1906,8 @@
                 "de": "Vom Hafen aus ist die Haltestelle in wenigen Minuten erreichbar.",
                 "hu": "A kikötőből a megálló néhány perc alatt elérhető.",
                 "ro": "Din port, stația este accesibilă în câteva minute.",
-                "en": "The bus stop is reachable in a few minutes from the harbor."
+                "en": "The bus stop is reachable in a few minutes from the harbor.",
+                "hr": "Autobusna stanica je udaljena nekoliko minuta od luke."
               }
             }
           ],
@@ -1705,6 +1939,13 @@
               "Have small change ready for the ticket to avoid delays.",
               "Buses can be more crowded than usual during rainy weather.",
               "Watch out for puddles near the bus stopping areas."
+            ],
+            "hr": [
+              "Koristite mobilnu aplikaciju za vozni red u stvarnom vremenu ako je dostupna.",
+              "Nosite odjeću koja vas štiti na otvorenom čak i na vjetru i kiši.",
+              "Pripremite sitniš za kartu kako biste izbjegli kašnjenja.",
+              "Autobusi mogu biti puniji nego inače tijekom kišnog vremena.",
+              "Pripazite na lokve u blizini autobusnih stajališta."
             ]
           }
         },
@@ -1713,7 +1954,8 @@
             "de": "Winterlicher Transit in Bibinje ist ruhig und effizient. Am Vormittag besuchen wir den alten Kern und die Kirchen, wobei wir die Pausen in den beheizten Bussen schätzen. Mittags genießen wir die Sonne am Meer bei einem Essen. Nachmittags fahren wir zur Marina Dalmacija, bevor wir bei einsetzender Dunkelheit und kühler Luft die Riva besichtigen und zeitnah die Rückfahrt antreten.",
             "hu": "A téli közösségi közlekedés Bibinjében nyugodt és hatékony. Délelőtt meglátogatjuk az óvárost és a templomokat, értékelve a fűtött buszokban töltött perceket. Délben a tengerparti napsütésben ebédelünk. Délután a Marina Dalmacija felé utazunk, majd a sötétedéskor lehűlő levegőben megnézzük a Rivát, és időben elindulunk vissza.",
             "ro": "Transportul de iarnă în Bibinje este liniștit și eficient. Dimineața vizităm centrul vechi și bisericile, apreciind pauzele în autobuzele încălzite. La prânz luăm masa la soare pe malul mării. După-amiaza mergem la Marina Dalmacija, iar la lăsarea întunericului vizităm faleza și pornim la timp înapoi.",
-            "en": "Winter transit in Bibinje is calm and efficient. In the morning, we visit the old town and churches, appreciating the warmth of the heated buses. At noon, we enjoy lunch in the seaside sun. In the afternoon, we travel to Marina Dalmacija before visiting the Riva as it gets dark and the air cools, heading back in good time."
+            "en": "Winter transit in Bibinje is calm and efficient. In the morning, we visit the old town and churches, appreciating the warmth of the heated buses. At noon, we enjoy lunch in the seaside sun. In the afternoon, we travel to Marina Dalmacija before visiting the Riva as it gets dark and the air cools, heading back in good time.",
+            "hr": "Zimski javni prijevoz u Bibinju je miran i učinkovit. Ujutro posjećujemo stari grad i crkve, cijeneći toplinu grijanih autobusa. U podne uživamo u ručku na suncu uz more. Poslijepodne putujemo do Marine Dalmacija prije posjeta Rivi dok pada mrak i zrak se hladi, vraćajući se na vrijeme."
           },
           "stops": [
             {
@@ -1722,7 +1964,8 @@
                 "de": "Im Winter sind die Busse oft fast leer und sehr pünktlich.",
                 "hu": "Télen a buszok gyakran szinte üresek és nagyon pontosak.",
                 "ro": "Iarna, autobuzele sunt adesea aproape goale și foarte punctuale.",
-                "en": "In winter, buses are often nearly empty and very punctual."
+                "en": "In winter, buses are often nearly empty and very punctual.",
+                "hr": "Zimi su autobusi često gotovo prazni i vrlo točni."
               }
             },
             {
@@ -1731,7 +1974,8 @@
                 "de": "Warme Kleidung für die Wartezeiten an den Haltestellen nötig.",
                 "hu": "Meleg ruha szükséges a megállókban való várakozáshoz.",
                 "ro": "Haine groase necesare pentru perioadele de așteptare în stații.",
-                "en": "Warm clothing is necessary for wait times at the stops."
+                "en": "Warm clothing is necessary for wait times at the stops.",
+                "hr": "Topla odjeća je neophodna za vrijeme čekanja na stanicama."
               }
             },
             {
@@ -1740,7 +1984,8 @@
                 "de": "Nutzen Sie den Winterfahrplan, der seltener getaktet sein kann.",
                 "hu": "Használja a téli menetrendet, amely ritkább járatokat tartalmazhat.",
                 "ro": "Consultați orarul de iarnă, care poate avea curse mai rare.",
-                "en": "Check the winter schedule, which may have less frequent service."
+                "en": "Check the winter schedule, which may have less frequent service.",
+                "hr": "Provjerite zimski vozni red koji može imati rjeđe linije."
               }
             },
             {
@@ -1749,7 +1994,8 @@
                 "de": "Suchen Sie ein Restaurant, das ganzjährig geöffnet hat.",
                 "hu": "Keressen olyan éttermet, amely egész évben nyitva tart.",
                 "ro": "Căutați un restaurant care este deschis tot timpul anului.",
-                "en": "Look for a restaurant that stays open year-round."
+                "en": "Look for a restaurant that stays open year-round.",
+                "hr": "Potražite restoran koji ostaje otvoren cijele godine."
               }
             },
             {
@@ -1758,7 +2004,8 @@
                 "de": "Ein schöner Ort für einen kurzen Stopp in der Wintersonne.",
                 "hu": "Szép hely egy rövid megállóra a téli napsütésben.",
                 "ro": "Un loc frumos pentru o scurtă oprire la soarele de iarnă.",
-                "en": "A lovely spot for a short stop in the winter sun."
+                "en": "A lovely spot for a short stop in the winter sun.",
+                "hr": "Lijepo mjesto za kratko zaustavljanje na zimskom suncu."
               }
             },
             {
@@ -1767,7 +2014,8 @@
                 "de": "Der Rückweg zur Haltestelle ist kurz und gut beleuchtet.",
                 "hu": "A visszaút a megállóhoz rövid és jól kivilágított.",
                 "ro": "Drumul de întoarcere la stație este scurt și bine iluminat.",
-                "en": "The walk back to the stop is short and well-lit."
+                "en": "The walk back to the stop is short and well-lit.",
+                "hr": "Šetnja natrag do stanice je kratka i dobro osvijetljena."
               }
             }
           ],
@@ -1799,6 +2047,13 @@
               "Wear reflectors as it starts to get dark early in winter.",
               "The Bura wind can be uncomfortable at open bus stops.",
               "Plan your return trip before the late evening hours."
+            ],
+            "hr": [
+              "Zimski vozni red može se razlikovati od uobičajenog ljetnog vremena.",
+              "Čekajte u blizini trgovina ili kafića kako biste ostali na toplom dok čekate autobus.",
+              "Nosite reflektirajuće detalje jer zimi rano počinje padati mrak.",
+              "Bura može biti neugodna na otvorenim autobusnim stanicama.",
+              "Planirajte povratak prije kasnih večernjih sati."
             ]
           }
         }

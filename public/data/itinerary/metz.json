@@ -36,7 +36,8 @@
             "de": "Suchen Sie das Fenster von Marc Chagall im Nordschiff.",
             "hu": "Keresse meg Marc Chagall üvegablakát az északi hajóban.",
             "ro": "Căutați vitraliul lui Marc Chagall în nava de nord.",
-            "en": "Look for the Marc Chagall window in the north aisle."
+            "en": "Look for the Marc Chagall window in the north aisle.",
+            "fr": "Cherchez les vitraux de Marc Chagall dans le bas-côté nord."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Probieren Sie Pâté Lorrain oder lokalen Ziegenkäse.",
             "hu": "Kóstolja meg a Pâté Lorrain-t vagy a helyi kecskesajtot.",
             "ro": "Încercați Pâté Lorrain sau brânza locală de capră.",
-            "en": "Try some Pâté Lorrain or local goat cheese."
+            "en": "Try some Pâté Lorrain or local goat cheese.",
+            "fr": "Goûtez au Pâté Lorrain ou au fromage de chèvre local."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Die beste Aussicht auf den Temple Neuf hat man vom Moyen Pont.",
             "hu": "A legjobb kilátás a Temple Neufre a Moyen Pont hídról nyílik.",
             "ro": "Cea mai bună vedere spre Temple Neuf este de pe Moyen Pont.",
-            "en": "The best view of Temple Neuf is from the Moyen Pont."
+            "en": "The best view of Temple Neuf is from the Moyen Pont.",
+            "fr": "La meilleure vue sur le Temple Neuf se trouve depuis le Moyen Pont."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Verpassen Sie nicht die antiken römischen Thermen im Keller.",
             "hu": "Ne hagyja ki az alagsorban található ókori római fürdőket.",
             "ro": "Nu ratați băile romane antice din subteran.",
-            "en": "Don't miss the ancient Roman baths in the basement."
+            "en": "Don't miss the ancient Roman baths in the basement.",
+            "fr": "Ne manquez pas les thermes romains antiques au sous-sol."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Genießen Sie eine klassische Quiche Lorraine auf der Terrasse.",
             "hu": "Élvezzen egy klasszikus Quiche Lorraine-t a teraszon.",
             "ro": "Savurați un Quiche Lorraine clasic pe terasă.",
-            "en": "Enjoy a classic Quiche Lorraine on the terrace."
+            "en": "Enjoy a classic Quiche Lorraine on the terrace.",
+            "fr": "Dégustez une Quiche Lorraine classique en terrasse."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Spazieren Sie über die befestigte Brücke des Stadttors.",
             "hu": "Sétáljon át a városkapu erődített hídján.",
             "ro": "Plimbați-vă pe podul fortificat al porții orașului.",
-            "en": "Walk across the fortified bridge of the city gate."
+            "en": "Walk across the fortified bridge of the city gate.",
+            "fr": "Traversez le pont fortifié de la porte de la ville."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Perfekt für einen entspannten Abendspaziergang mit Parkblick.",
             "hu": "Tökéletes egy pihentető esti sétához a parkban.",
             "ro": "Perfect pentru o plimbare relaxantă de seară cu vedere la parc.",
-            "en": "Perfect for a relaxing evening stroll with park views."
+            "en": "Perfect for a relaxing evening stroll with park views.",
+            "fr": "Parfait pour une promenade nocturne relaxante avec vue sur le parc."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Herzen von Metz an der prächtigen Kathedrale, gefolgt von einem Besuch der lebhaften Markthalle für lokale Delikatessen. Mittags tauchen Sie in die reiche gallo-römische Geschichte im Cour d'Or Museum ein. Am Nachmittag schlendern Sie durch die mittelalterlichen Gassen zum imposanten Deutschen Tor. Den Abend lassen Sie entspannt auf der Esplanade ausklingen, während die Sonne hinter den historischen Mauern versinkt.",
         "hu": "Kezdje a napot Metz történelmi szívében, a pompás katedrálisnál, majd látogasson el a nyüzsgő fedett piacra helyi finomságokért. Délben merüljön el a gazdag gall-római történelemben a Cour d'Or múzeumban. Délután sétáljon végig a középkori utcákon az impozáns Német-kapuig. Az estét töltse pihenéssel az Esplanade parkban, miközben a nap lassan eltűnik a történelmi falak mögött.",
         "ro": "Începeți ziua în inima istorică a orașului Metz, la catedrala magnifică, urmată de o vizită în piața acoperită plină de viață pentru delicii locale. La prânz, scufundați-vă în bogata istorie galo-romană la Muzeul Cour d'Or. După-amiaza, plimbați-vă pe străzile medievale până la impunătoarea Poartă a Germanilor. Încheiați seara relaxându-vă pe Esplanadă, în timp ce soarele apune peste zidurile istorice.",
-        "en": "Start your day in the historic heart of Metz at the magnificent cathedral, followed by a visit to the lively covered market for local delicacies. At midday, dive into the rich Gallo-Roman history at the Cour d'Or Museum. In the afternoon, stroll through the medieval streets to the imposing Germans' Gate. Finish the evening relaxing on the Esplanade as the sun sets behind the historic walls."
+        "en": "Start your day in the historic heart of Metz at the magnificent cathedral, followed by a visit to the lively covered market for local delicacies. At midday, dive into the rich Gallo-Roman history at the Cour d'Or Museum. In the afternoon, stroll through the medieval streets to the imposing Germans' Gate. Finish the evening relaxing on the Esplanade as the sun sets behind the historic walls.",
+        "fr": "Commencez votre journée dans le cœur historique de Metz par la magnifique cathédrale, suivie d'une visite au marché couvert animé pour des délices locaux. À midi, plongez dans la riche histoire gallo-romaine au Musée de la Cour d'Or. L'après-midi, flânez dans les rues médiévales jusqu'à l'imposante Porte des Allemands. Terminez la soirée en vous relaxant sur l'Esplanade alors que le soleil se couche derrière les remparts historiques."
       },
       "gastro_picks": {
         "de": [
@@ -240,6 +248,20 @@
             "name": "Mirabelle Plum Specialties",
             "tip": "Liqueurs and tarts made from the famous Lorraine fruit."
           }
+        ],
+        "fr": [
+          {
+            "name": "Le Marché Couvert",
+            "tip": "Halle de marché avec des produits locaux et des stands de nourriture."
+          },
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Goûtez l'originale à la Boulangerie Maurice."
+          },
+          {
+            "name": "Spécialités à la Mirabelle",
+            "tip": "Liqueurs et tartes confectionnées à partir du célèbre fruit lorrain."
+          }
         ]
       },
       "quiet_picks": {
@@ -290,6 +312,18 @@
             "tip": "Relaxation by the water with city views.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Cloître des Récollets",
+            "tip": "Un jardin de cloître caché et paisible.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plan d'Eau",
+            "tip": "Détente au bord de l'eau avec vue sur la ville.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -332,6 +366,16 @@
             "name": "Boutique de l'Office de Tourisme",
             "tip": "Souvenirs and mirabelle products."
           }
+        ],
+        "fr": [
+          {
+            "name": "Rue Serpenoise",
+            "tip": "La principale rue commerçante de Metz."
+          },
+          {
+            "name": "Boutique de l'Office de Tourisme",
+            "tip": "Souvenirs et produits à base de mirabelle."
+          }
         ]
       },
       "tips": {
@@ -358,6 +402,12 @@
           "The cathedral is beautifully lit in golden yellow in the evening.",
           "Many museums are closed on Mondays or Tuesdays, check opening hours.",
           "Metz is called the 'golden city' due to the Jaumont stone used in its buildings."
+        ],
+        "fr": [
+          "Le centre-ville est compact et parfait pour être exploré à pied.",
+          "La cathédrale est magnifiquement illuminée en jaune doré le soir.",
+          "De nombreux musées sont fermés le lundi ou le mardi, vérifiez les horaires d'ouverture.",
+          "Metz est surnommée la « ville d'or » en raison de la pierre de Jaumont utilisée pour ses bâtiments."
         ]
       },
       "variants": {
@@ -650,7 +700,8 @@
             "de": "Morgens bietet die Kathedrale trockenen Unterschlupf und farbenfrohes Licht. Mittags lockt der Marché Couvert mit regionalen Köstlichkeiten im Trockenen. Nachmittags erkunden wir das Cour d'Or Museum, perfekt für regnerische Stunden. Abends lassen wir den Tag gemütlich bei der Porte des Allemands ausklingen.",
             "hu": "Reggel a katedrális nyújt menedéket az eső elől, csodás fényjátékkal. Délben a fedett piacon kóstolhatunk helyi falatokat szárazon. Délután a Cour d'Or múzeum labirintusa tökéletes esős program. Este a kivilágított Porte des Allemands bástyái közt zárjuk a napot.",
             "ro": "Dimineața, catedrala oferă adăpost uscat și o lumină colorată superbă. La prânz, piața acoperită este ideală pentru a degusta produse locale fără umbrelă. După-amiaza, muzeul Cour d'Or este refugiul perfect împotriva ploii. Seara se încheie melancolic lângă zidurile de la Porte des Allemands.",
-            "en": "Morning starts at the cathedral, providing a dry sanctuary with vibrant light. At noon, the covered market is the perfect spot to enjoy local food away from the rain. In the afternoon, the Cour d'Or museum offers a deep dive into history while staying dry. The evening ends at the atmospheric Porte des Allemands."
+            "en": "Morning starts at the cathedral, providing a dry sanctuary with vibrant light. At noon, the covered market is the perfect spot to enjoy local food away from the rain. In the afternoon, the Cour d'Or museum offers a deep dive into history while staying dry. The evening ends at the atmospheric Porte des Allemands.",
+            "fr": "Le matin commence à la cathédrale, offrant un sanctuaire au sec avec une lumière vibrante. À midi, le marché couvert est l'endroit idéal pour savourer la cuisine locale à l'abri de la pluie. L'après-midi, le musée de la Cour d'Or propose une immersion profonde dans l'histoire tout en restant au sec. La soirée se termine à l'atmosphère singulière de la Porte des Allemands."
           },
           "stops": [
             {
@@ -659,7 +710,8 @@
                 "de": "Bewundern Sie die Chagall-Fenster, die bei Regen besonders mystisch leuchten.",
                 "hu": "Csodálja meg a Chagall-ablakokat, melyek esőben különleges fényben tündökölnek.",
                 "ro": "Admirați vitraliile lui Chagall, care strălucesc mistic pe timp de ploaie.",
-                "en": "Admire the Chagall windows, which glow mystically during rainy weather."
+                "en": "Admire the Chagall windows, which glow mystically during rainy weather.",
+                "fr": "Admirez les vitraux de Chagall, qui brillent mystiquement par temps de pluie."
               }
             },
             {
@@ -668,7 +720,8 @@
                 "de": "Der ideale Ort für eine trockene Pause mit frischen Metzer Spezialitäten.",
                 "hu": "Ideális hely egy száraz pihenőre friss metzi specialitásokkal.",
                 "ro": "Locul ideal pentru o pauză uscată cu specialități proaspete din Metz.",
-                "en": "The ideal spot for a dry break with fresh Metz specialties."
+                "en": "The ideal spot for a dry break with fresh Metz specialties.",
+                "fr": "L'endroit idéal pour une pause au sec avec des spécialités fraîches de Metz."
               }
             },
             {
@@ -677,7 +730,8 @@
                 "de": "Das Temple Neuf bietet von der Brücke aus ein dramatisches Fotomotiv im Regen.",
                 "hu": "A Temple Neuf drámai fotótéma a hídról nézve, még esőben is.",
                 "ro": "Temple Neuf oferă un subiect foto dramatic de pe pod, chiar și pe ploaie.",
-                "en": "Temple Neuf offers a dramatic photo opportunity from the bridge, even in the rain."
+                "en": "Temple Neuf offers a dramatic photo opportunity from the bridge, even in the rain.",
+                "fr": "Le Temple Neuf offre une opportunité de photo spectaculaire depuis le pont, même sous la pluie."
               }
             },
             {
@@ -686,7 +740,8 @@
                 "de": "Nutzen Sie die Regenzeit, um die umfangreichen römischen Thermen im Inneren zu erkunden.",
                 "hu": "Használja ki az esőt a benti kiterjedt római termák felfedezésére.",
                 "ro": "Folosiți timpul ploios pentru a explora termele romane extinse din interior.",
-                "en": "Take advantage of the rain to explore the extensive Roman baths inside."
+                "en": "Take advantage of the rain to explore the extensive Roman baths inside.",
+                "fr": "Profitez de la pluie pour explorer les vastes thermes romains à l'intérieur."
               }
             },
             {
@@ -695,7 +750,8 @@
                 "de": "Wählen Sie ein Restaurant mit Blick auf die nasse Fassade der Kathedrale.",
                 "hu": "Válasszon egy éttermet kilátással a katedrális vizes homlokzatára.",
                 "ro": "Alegeți un restaurant cu vedere la fațada umedă a catedralei.",
-                "en": "Choose a restaurant with a view of the cathedral's wet facade."
+                "en": "Choose a restaurant with a view of the cathedral's wet facade.",
+                "fr": "Choisissez un restaurant avec vue sur la façade humide de la cathédrale."
               }
             },
             {
@@ -704,7 +760,8 @@
                 "de": "Die dicken Mauern der Festung bieten Schutz vor kurzen Schauern.",
                 "hu": "Az erőd vastag falai védelmet nyújtanak a rövid záporok ellen.",
                 "ro": "Zidurile groase ale cetății oferă protecție împotriva averselor scurte.",
-                "en": "The fortress's thick walls offer shelter from short showers."
+                "en": "The fortress's thick walls offer shelter from short showers.",
+                "fr": "Les murs épais de la forteresse offrent un abri contre les courtes averses."
               }
             },
             {
@@ -713,7 +770,8 @@
                 "de": "Das Arsenal bietet oft kurzfristige Indoor-Ausstellungen bei schlechtem Wetter.",
                 "hu": "Az Arsenal gyakran kínál beltéri kiállításokat rossz idő esetén.",
                 "ro": "Arsenalul oferă adesea expoziții interioare în caz de vreme rea.",
-                "en": "The Arsenal often hosts indoor exhibitions during bad weather."
+                "en": "The Arsenal often hosts indoor exhibitions during bad weather.",
+                "fr": "L'Arsenal propose souvent des expositions en intérieur en cas de mauvais temps."
               }
             }
           ],
@@ -741,6 +799,12 @@
               "The Covered Market is your best bet for a dry lunch.",
               "The Cour d'Or Museum is massive and provides hours of indoor exploration.",
               "Wear waterproof shoes as the cobblestones can be slippery when wet."
+            ],
+            "fr": [
+              "Utilisez les nombreuses arcades du centre-ville comme abri contre la pluie.",
+              "Le Marché Couvert est votre meilleure option pour un déjeuner au sec.",
+              "Le musée de la Cour d'Or est immense et permet des heures d'exploration en intérieur.",
+              "Portez des chaussures imperméables car les pavés peuvent être glissants lorsqu'ils sont mouillés."
             ]
           }
         },
@@ -749,7 +813,8 @@
             "de": "Morgens wärmen wir uns in der majestätischen Kathedrale auf. Mittags genießen wir die wohlige Atmosphäre des Marktes bei einer heißen Quiche. Nachmittags tauchen wir in die Geschichte im Cour d'Or ein, bevor es früh dunkel wird. Abends leuchtet die Porte des Allemands festlich in der Winterkälte.",
             "hu": "Reggel a fenséges katedrális falai közt melegedünk. Délben a piac barátságos hangulatában egy forró Quiche-t élvezünk. Délután a Cour d'Or múzeumban mélyedünk el a múltban a korai sötétedés előtt. Este a Porte des Allemands ünnepi fényben úszik a téli hidegben.",
             "ro": "Dimineața ne încălzim între zidurile maiestuoase ale catedralei. La prânz, savurăm o Quiche fierbinte în atmosfera primitoare a pieței. După-amiaza explorăm istoria la Cour d'Or înainte de lăsarea timpurie a serii. Seara, Porte des Allemands strălucește festiv în frigul iernii.",
-            "en": "Morning starts with warmth inside the majestic cathedral. At noon, enjoy a hot Quiche in the cozy atmosphere of the market. In the afternoon, dive into history at the Cour d'Or museum before the early sunset. The evening ends with the festive glow of the Porte des Allemands in the winter chill."
+            "en": "Morning starts with warmth inside the majestic cathedral. At noon, enjoy a hot Quiche in the cozy atmosphere of the market. In the afternoon, dive into history at the Cour d'Or museum before the early sunset. The evening ends with the festive glow of the Porte des Allemands in the winter chill.",
+            "fr": "Le matin commence par la chaleur à l'intérieur de la majestueuse cathédrale. À midi, dégustez une quiche chaude dans l'atmosphère chaleureuse du marché. L'après-midi, plongez dans l'histoire au musée de la Cour d'Or avant le coucher du soleil précoce. La soirée se termine par l'éclat festif de la Porte des Allemands dans la fraîcheur hivernale."
           },
           "stops": [
             {
@@ -758,7 +823,8 @@
                 "de": "Ein warmer Zufluchtsort, um die winterliche Stille zu genießen.",
                 "hu": "Meleg menedékhely a téli csend élvezetéhez.",
                 "ro": "Un refugiu cald pentru a savura liniștea iernii.",
-                "en": "A warm sanctuary to enjoy the winter silence."
+                "en": "A warm sanctuary to enjoy the winter silence.",
+                "fr": "Un sanctuaire chaleureux pour profiter du silence hivernal."
               }
             },
             {
@@ -767,7 +833,8 @@
                 "de": "Probieren Sie eine heiße Quiche Lorraine direkt aus dem Ofen.",
                 "hu": "Kóstoljon meg egy forró Quiche Lorraine-t egyenesen a sütőből.",
                 "ro": "Gustați o Quiche Lorraine fierbinte direct din cuptor.",
-                "en": "Try a hot Quiche Lorraine straight from the oven."
+                "en": "Try a hot Quiche Lorraine straight from the oven.",
+                "fr": "Essayez une Quiche Lorraine chaude sortant tout juste du four."
               }
             },
             {
@@ -776,7 +843,8 @@
                 "de": "Der Temple Neuf sieht mit einer Frostschicht auf den Dächern märchenhaft aus.",
                 "hu": "A Temple Neuf mesébe illő a tetőket borító dérréteggel.",
                 "ro": "Temple Neuf arată ca în povești cu un strat de chiciură pe acoperișuri.",
-                "en": "Temple Neuf looks like a fairytale with frost on its roofs."
+                "en": "Temple Neuf looks like a fairytale with frost on its roofs.",
+                "fr": "Le Temple Neuf ressemble à un conte de fées avec du givre sur ses toits."
               }
             },
             {
@@ -785,7 +853,8 @@
                 "de": "Perfekt temperierte Räume für einen langen Winternachmittag.",
                 "hu": "Tökéletesen temperált termek egy hosszú téli délutánhoz.",
                 "ro": "Săli cu temperatură perfectă pentru o după-amiază lungă de iarnă.",
-                "en": "Perfectly tempered rooms for a long winter afternoon."
+                "en": "Perfectly tempered rooms for a long winter afternoon.",
+                "fr": "Des salles parfaitement tempérées pour un long après-midi d'hiver."
               }
             },
             {
@@ -794,7 +863,8 @@
                 "de": "Genießen Sie den Blick auf den Weihnachtsmarkt, falls Saison ist.",
                 "hu": "Élvezze a kilátást a karácsonyi vásárra, ha szezon van.",
                 "ro": "Bucurați-vă de vederea spre târgul de Crăciun, dacă este sezon.",
-                "en": "Enjoy the view of the Christmas market if it's the season."
+                "en": "Enjoy the view of the Christmas market if it's the season.",
+                "fr": "Profitez de la vue sur le marché de Noël si c'est la saison."
               }
             },
             {
@@ -803,7 +873,8 @@
                 "de": "Besuchen Sie diesen Ort vor 17 Uhr, um ihn im Tageslicht zu sehen.",
                 "hu": "Látogasson el ide 17 óra előtt, hogy még nappali fényben lássa.",
                 "ro": "Vizitați acest loc înainte de ora 17 pentru a-l vedea la lumina zilei.",
-                "en": "Visit this spot before 5 PM to see it in daylight."
+                "en": "Visit this spot before 5 PM to see it in daylight.",
+                "fr": "Visitez ce site avant 17h pour le voir à la lumière du jour."
               }
             },
             {
@@ -812,7 +883,8 @@
                 "de": "Die Gärten sind oft mit festlicher Winterbeleuchtung geschmückt.",
                 "hu": "A kerteket gyakran ünnepi téli kivilágítás díszíti.",
                 "ro": "Grădinile sunt adesea decorate cu iluminat festiv de iarnă.",
-                "en": "The gardens are often decorated with festive winter lighting."
+                "en": "The gardens are often decorated with festive winter lighting.",
+                "fr": "Les jardins sont souvent décorés d'illuminations hivernales festives."
               }
             }
           ],
@@ -840,6 +912,12 @@
               "Warm up in the many cafes around Place Saint-Louis between stops.",
               "Visit the cathedral early to make the most of the daylight.",
               "Dress in layers as the museums are well-heated inside."
+            ],
+            "fr": [
+              "Le soleil se couche vers 17h00 en hiver.",
+              "Réchauffez-vous dans les nombreux cafés autour de la place Saint-Louis entre deux étapes.",
+              "Visitez la cathédrale tôt pour profiter au maximum de la lumière du jour.",
+              "Habillez-vous avec plusieurs couches car les musées sont bien chauffés à l'intérieur."
             ]
           }
         }
@@ -873,7 +951,8 @@
             "de": "Bewundern Sie die kaiserliche Architektur der deutschen Besatzungszeit.",
             "hu": "Csodálja meg a német megszállás idejéből származó császári építészetet.",
             "ro": "Admirați arhitectura imperială din perioada ocupației germane.",
-            "en": "Admire the imperial architecture from the German occupation period."
+            "en": "Admire the imperial architecture from the German occupation period.",
+            "fr": "Admirez l'architecture impériale de l'époque de l'occupation allemande."
           }
         },
         {
@@ -896,7 +975,8 @@
             "de": "Das Dachdesign ist von einem chinesischen Hut inspiriert.",
             "hu": "A tető kialakítását egy kínai kalap ihlette.",
             "ro": "Designul acoperișului este inspirat de o pălărie chinezească.",
-            "en": "The roof design is inspired by a Chinese hat."
+            "en": "The roof design is inspired by a Chinese hat.",
+            "fr": "Le design du toit est inspiré d'un chapeau chinois."
           }
         },
         {
@@ -919,7 +999,8 @@
             "de": "Fahren Sie durch die Alleen mit prachtvollen Villen.",
             "hu": "Tekerjen végig a pompás villákkal szegélyezett sugárutakon.",
             "ro": "Pedalați pe bulevardele mărginite de vile somptuoase.",
-            "en": "Cycle through the avenues lined with magnificent villas."
+            "en": "Cycle through the avenues lined with magnificent villas.",
+            "fr": "Pédalez dans les avenues bordées de magnifiques villas."
           }
         },
         {
@@ -942,7 +1023,8 @@
             "de": "Genießen Sie den flachen Radweg entlang des Wassers.",
             "hu": "Élvezze a sík kerékpárutat a víz mentén.",
             "ro": "Bucurați-vă de pista de biciclete plată de-a lungul apei.",
-            "en": "Enjoy the flat bike path along the water."
+            "en": "Enjoy the flat bike path along the water.",
+            "fr": "Profitez de la piste cyclable plate au bord de l'eau."
           }
         },
         {
@@ -965,7 +1047,8 @@
             "de": "Dieser mittelalterliche Platz bietet tolle Cafés unter Arkaden.",
             "hu": "Ez a középkori tér remek kávézókat kínál az árkádok alatt.",
             "ro": "Această piață medievală oferă cafenele grozave sub arcade.",
-            "en": "This medieval square offers great cafes under the arcades."
+            "en": "This medieval square offers great cafes under the arcades.",
+            "fr": "Cette place médiévale offre d'excellents cafés sous les arcades."
           }
         },
         {
@@ -988,7 +1071,8 @@
             "de": "Ein schöner Umweg für Pflanzenliebhaber.",
             "hu": "Szép kitérő a növénybarátoknak.",
             "ro": "O abatere frumoasă pentru iubitorii de plante.",
-            "en": "A beautiful detour for plant lovers."
+            "en": "A beautiful detour for plant lovers.",
+            "fr": "A beau détour pour les amoureux des plantes."
           }
         },
         {
@@ -1011,7 +1095,8 @@
             "de": "Beenden Sie Ihre Tour am höchsten Punkt des Hügels.",
             "hu": "Zárja a túrát a domb legmagasabb pontján.",
             "ro": "Încheiați turul în cel mai înalt punct al dealului.",
-            "en": "End your tour at the highest point of the hill."
+            "en": "End your tour at the highest point of the hill.",
+            "fr": "Terminez votre tour au point le plus élevé de la colline."
           }
         }
       ],
@@ -1019,7 +1104,8 @@
         "de": "Entdecken Sie Metz auf zwei Rädern, beginnend am beeindruckenden Bahnhof und dem futuristischen Centre Pompidou. Radeln Sie durch das prachtvolle Kaiserviertel und genießen Sie die grünen Wege entlang der Mosel am Plan d'Eau. Nach einem entspannten Mittagessen auf dem mittelalterlichen Place Saint-Louis führt Sie die Route zum wunderschönen Botanischen Garten, bevor Sie die Tour an der majestätischen Kathedrale im Herzen der Stadt abschließen.",
         "hu": "Fedezze fel Metzet két keréken, kezdve az impozáns vasútállomással és a futurisztikus Centre Pompidou-val. Tekerjen át a pompás Császári negyeden, és élvezze a Moselle menti zöld utakat a Plan d'Eau-nál. Egy pihentető ebéd után a középkori Place Saint-Louis-n, az út a gyönyörű Botanikus kertbe vezet, majd a túrát a város szívében található fenséges katedrálisnál zárja.",
         "ro": "Descoperiți Metz pe două roți, începând cu gara impresionantă și centrul futurist Pompidou. Pedalați prin cartierul imperial somptuos și bucurați-vă de potecile verzi de-a lungul Moselei la Plan d'Eau. După un prânz relaxant în Piața Saint-Louis, traseul vă duce la frumoasa Grădină Botanică, înainte de a încheia turul la catedrala maiestuoasă din inima orașului.",
-        "en": "Explore Metz on two wheels, starting with the impressive railway station and the futuristic Centre Pompidou. Cycle through the grand Imperial Quarter and enjoy the green paths along the Moselle at Plan d'Eau. After a relaxed lunch at the medieval Place Saint-Louis, the route takes you to the beautiful Botanical Garden, finishing the tour at the majestic cathedral in the heart of the city."
+        "en": "Explore Metz on two wheels, starting with the impressive railway station and the futuristic Centre Pompidou. Cycle through the grand Imperial Quarter and enjoy the green paths along the Moselle at Plan d'Eau. After a relaxed lunch at the medieval Place Saint-Louis, the route takes you to the beautiful Botanical Garden, finishing the tour at the majestic cathedral in the heart of the city.",
+        "fr": "Explorez Metz sur deux roues, en commençant par l'impressionnante gare et le futuriste Centre Pompidou. Pédalez à travers le grand Quartier Impérial et profitez des sentiers verdoyants le long de la Moselle au Plan d'Eau. Après un déjeuner détendu sur la place médiévale Saint-Louis, l'itinéraire vous mène au magnifique Jardin Botanique, pour terminer la visite à la majestueuse cathédrale au cœur de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -1060,6 +1146,16 @@
           {
             "name": "Le Fox",
             "tip": "Popular bistro for a quick, regional lunch."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Place Saint-Louis",
+            "tip": "De nombreux restaurants avec terrasses dans un cadre historique."
+          },
+          {
+            "name": "Le Fox",
+            "tip": "Bistro populaire pour un déjeuner régional rapide."
           }
         ]
       },
@@ -1111,6 +1207,18 @@
             "tip": "Relaxed cycling away from traffic.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin Botanique",
+            "tip": "Oasis de calme en bordure de ville.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sentiers des berges de la Moselle",
+            "tip": "Cyclisme détendu loin de la circulation.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1136,6 +1244,12 @@
           {
             "name": "Metz Vélo",
             "tip": "Bike rental and accessories at the station."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Metz Vélo",
+            "tip": "Location de vélos et accessoires à la gare."
           }
         ]
       },
@@ -1163,6 +1277,12 @@
           "The paths along the Moselle are flat and very well maintained.",
           "Cobblestones are common in the city center, cycle carefully.",
           "Metz offers many free bicycle parking spots."
+        ],
+        "fr": [
+          "Utilisez le service de location 'Metz Vélo' situé directement à la gare.",
+          "Les sentiers le long de la Moselle sont plats et très bien entretenus.",
+          "Les pavés sont fréquents en centre-ville, pédalez prudemment.",
+          "Metz offre de nombreux emplacements de stationnement gratuits pour vélos."
         ]
       },
       "variants": {
@@ -1423,7 +1543,8 @@
             "de": "Morgens radeln wir vorsichtig zum Bahnhof, der im Regen glänzt. Mittags bietet das Centre Pompidou trockene Kultur und Architektur. Nachmittags folgen wir der Mosel, deren Ufer im Regen eine besondere Ruhe ausstrahlen. Abends beenden wir die Tour sicher an der Kathedrale.",
             "hu": "Reggel óvatosan tekerünk az esőben csillogó pályaudvarhoz. Délben a Centre Pompidou nyújt száraz kulturális élményt. Délután a Moselle partját követjük, mely esőben különleges nyugalmat áraszt. Este biztonságban zárjuk a túrát a katedrálisnál.",
             "ro": "Dimineața pedalăm cu atenție spre gară, care strălucește în ploaie. La prânz, Centre Pompidou oferă cultură și arhitectură la adăpost. După-amiaza urmăm malul râului Moselle, care emană o liniște aparte pe ploaie. Seara încheiem turul în siguranță la catedrală.",
-            "en": "Morning starts with a cautious ride to the train station, glistening in the rain. At noon, Centre Pompidou provides dry culture and architectural wonder. In the afternoon, follow the Moselle riverside for a peaceful, rain-soaked view. The evening concludes safely back at the cathedral."
+            "en": "Morning starts with a cautious ride to the train station, glistening in the rain. At noon, Centre Pompidou provides dry culture and architectural wonder. In the afternoon, follow the Moselle riverside for a peaceful, rain-soaked view. The evening concludes safely back at the cathedral.",
+            "fr": "Le matin commence par une balade prudente jusqu'à la gare, qui brille sous la pluie. À midi, le Centre Pompidou offre culture au sec et merveille architecturale. L'après-midi, suivez les berges de la Moselle pour une vue paisible sous la pluie. La soirée se termine en toute sécurité de retour à la cathédrale."
           },
           "stops": [
             {
@@ -1432,7 +1553,8 @@
                 "de": "Vorsicht vor rutschigen Markierungen auf dem Bahnhofsvorplatz.",
                 "hu": "Vigyázat, a pályaudvar előtti jelzések csúszósak lehetnek.",
                 "ro": "Atenție la marcajele alunecoase din fața gării.",
-                "en": "Watch out for slippery markings in front of the station."
+                "en": "Watch out for slippery markings in front of the station.",
+                "fr": "Attention aux marquages au sol glissants devant la gare."
               }
             },
             {
@@ -1441,7 +1563,8 @@
                 "de": "Es gibt überdachte Fahrradständer direkt am Eingang.",
                 "hu": "Közvetlenül a bejáratnál fedett biciklitárolók találhatók.",
                 "ro": "Există suporturi de biciclete acoperite chiar la intrare.",
-                "en": "There are covered bike racks right at the entrance."
+                "en": "There are covered bike racks right at the entrance.",
+                "fr": "Il y a des porte-vélos couverts juste à l'entrée."
               }
             },
             {
@@ -1450,7 +1573,8 @@
                 "de": "Die Architektur wirkt bei grauem Himmel besonders imposant.",
                 "hu": "Az építészet szürke égbolt mellett különösen monumentális.",
                 "ro": "Arhitectura pare deosebit de impunătoare sub cerul gri.",
-                "en": "The architecture looks particularly imposing under grey skies."
+                "en": "The architecture looks particularly imposing under grey skies.",
+                "fr": "L'architecture semble particulièrement imposante sous un ciel gris."
               }
             },
             {
@@ -1459,7 +1583,8 @@
                 "de": "Die Wege sind gut asphaltiert, aber achten Sie auf Pfützen.",
                 "hu": "Az utak jól aszfaltozottak, de ügyeljen a tócsákra.",
                 "ro": "Pistele sunt bine asfaltate, dar atenție la bălți.",
-                "en": "The paths are well-paved, but watch out for puddles."
+                "en": "The paths are well-paved, but watch out for puddles.",
+                "fr": "Les sentiers sont bien goudronnés, mais surveillez les flaques d'eau."
               }
             },
             {
@@ -1468,7 +1593,8 @@
                 "de": "Die Arkaden bieten Platz, um das Rad kurz im Trockenen abzustellen.",
                 "hu": "Az árkádok alatt rövid időre szárazon hagyhatja a biciklit.",
                 "ro": "Arcadele oferă spațiu pentru a lăsa bicicleta la uscat scurt timp.",
-                "en": "The arcades offer a space to leave your bike dry for a moment."
+                "en": "The arcades offer a space to leave your bike dry for a moment.",
+                "fr": "Les arcades offrent un espace pour laisser votre vélo au sec un instant."
               }
             },
             {
@@ -1477,7 +1603,8 @@
                 "de": "Besuchen Sie die Gewächshäuser, um dem Regen zu entfliehen.",
                 "hu": "Látogassa meg az üvegházakat, hogy elmeneküljön az eső elől.",
                 "ro": "Vizitați serele pentru a scăpa de ploaie.",
-                "en": "Visit the greenhouses to escape the rain."
+                "en": "Visit the greenhouses to escape the rain.",
+                "fr": "Visitez les serres pour échapper à la pluie."
               }
             },
             {
@@ -1486,7 +1613,8 @@
                 "de": "Ein würdiger Abschluss unter dem schützenden Portal.",
                 "hu": "Méltó befejezés a védelmező kapualj alatt.",
                 "ro": "Un final demn sub portalul protector.",
-                "en": "A worthy finish under the protective portal."
+                "en": "A worthy finish under the protective portal.",
+                "fr": "Une fin digne de ce nom sous le portail protecteur."
               }
             }
           ],
@@ -1514,6 +1642,12 @@
               "Brake early and gently on wet cobblestones.",
               "Riverside paths might have minor flooding during heavy rain.",
               "Metz offers many covered bike parking spots in public garages."
+            ],
+            "fr": [
+              "Utilisez des sacoches imperméables pour votre équipement.",
+              "Freinez tôt et doucement sur les pavés mouillés.",
+              "Les sentiers de bord de rivière peuvent présenter de légères inondations lors de fortes pluies.",
+              "Metz offre de nombreux parkings à vélos couverts dans les garages publics."
             ]
           }
         },
@@ -1522,7 +1656,8 @@
             "de": "Morgens radeln wir durch die frische Winterluft zum historischen Bahnhof. Mittags wärmt uns die moderne Kunst im Centre Pompidou auf. Nachmittags genießen wir die klare Sicht entlang der Mosel, bevor die Dämmerung einsetzt. Abends erreichen wir die festlich beleuchtete Kathedrale.",
             "hu": "Reggel a friss téli levegőben tekerünk a történelmi pályaudvarhoz. Délben a Centre Pompidou modern művészete melegít fel. Délután a Moselle mentén élvezzük a tiszta kilátást a szürkület beállta előtt. Este érjük el az ünnepi fényben úszó katedrálist.",
             "ro": "Dimineața pedalăm prin aerul rece de iarnă spre gara istorică. La prânz, arta modernă de la Centre Pompidou ne încălzește. După-amiaza savurăm vizibilitatea clară de-a lungul râului înainte de amurg. Seara ajungem la catedrala iluminată festiv.",
-            "en": "Morning ride through the crisp winter air to the historic station. At noon, warm up with modern art inside Centre Pompidou. In the afternoon, enjoy the clear winter views along the Moselle before dusk sets in. Reach the festively lit cathedral by evening."
+            "en": "Morning ride through the crisp winter air to the historic station. At noon, warm up with modern art inside Centre Pompidou. In the afternoon, enjoy the clear winter views along the Moselle before dusk sets in. Reach the festively lit cathedral by evening.",
+            "fr": "Balade matinale dans l'air vif de l'hiver jusqu'à la gare historique. À midi, réchauffez-vous avec de l'art moderne à l'intérieur du Centre Pompidou. L'après-midi, profitez des vues dégagées de l'hiver le long de la Moselle avant la tombée de la nuit. Rejoignez la cathédrale festivellement illuminée en soirée."
           },
           "stops": [
             {
@@ -1531,7 +1666,8 @@
                 "de": "Tragen Sie warme Handschuhe, der Fahrtwind ist im Winter eisig.",
                 "hu": "Viseljen meleg kesztyűt, a menetszél télen jeges.",
                 "ro": "Purtați mănuși calde, vântul este înghețat iarna.",
-                "en": "Wear warm gloves, the wind chill is icy in winter."
+                "en": "Wear warm gloves, the wind chill is icy in winter.",
+                "fr": "Portez des gants chauds, le vent est glacial en hiver."
               }
             },
             {
@@ -1540,7 +1676,8 @@
                 "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung abzugeben.",
                 "hu": "Használja a ruhatárat a nehéz téli ruhák leadására.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
-                "en": "Use the cloakroom to drop off heavy winter clothes."
+                "en": "Use the cloakroom to drop off heavy winter clothes.",
+                "fr": "Utilisez le vestiaire pour déposer vos vêtements d'hiver lourds."
               }
             },
             {
@@ -1549,7 +1686,8 @@
                 "de": "Die monumentalen Gebäude speichern die Kälte, bleiben Sie in Bewegung.",
                 "hu": "A monumentális épületek ontják a hideget, maradjon mozgásban.",
                 "ro": "Clădirile monumentale păstrează frigul, rămâneți în mișcare.",
-                "en": "The monumental buildings retain the cold, keep moving."
+                "en": "The monumental buildings retain the cold, keep moving.",
+                "fr": "Les bâtiments monumentaux conservent le froid, restez en mouvement."
               }
             },
             {
@@ -1558,7 +1696,8 @@
                 "de": "Achten Sie auf überfrierende Nässe auf den Brücken.",
                 "hu": "Ügyeljen a hidakon előforduló jegesedésre.",
                 "ro": "Atenție la polei pe poduri.",
-                "en": "Watch out for black ice on the bridges."
+                "en": "Watch out for black ice on the bridges.",
+                "fr": "Attention au verglas sur les ponts."
               }
             },
             {
@@ -1567,7 +1706,8 @@
                 "de": "Suchen Sie ein Lokal mit Fahrrad-Sichtkontakt aus dem Fenster.",
                 "hu": "Keressen olyan helyet, ahol az ablakból látja a biciklijét.",
                 "ro": "Căutați un local unde puteți vedea bicicleta pe fereastră.",
-                "en": "Find a place where you can keep an eye on your bike from the window."
+                "en": "Find a place where you can keep an eye on your bike from the window.",
+                "fr": "Trouvez un endroit où vous pouvez garder un œil sur votre vélo depuis la fenêtre."
               }
             },
             {
@@ -1576,7 +1716,8 @@
                 "de": "Die Winterblüte in den Gewächshäusern ist ein Muss.",
                 "hu": "Az üvegházak téli virágzása kötelező látnivaló.",
                 "ro": "Înflorirea de iarnă în sere este obligatorie de văzut.",
-                "en": "The winter blooms in the greenhouses are a must-see."
+                "en": "The winter blooms in the greenhouses are a must-see.",
+                "fr": "Les floraisons hivernales dans les serres sont à voir absolument."
               }
             },
             {
@@ -1585,7 +1726,8 @@
                 "de": "Das gelbe Jaumont-Gestein wirkt im Winterlicht besonders warm.",
                 "hu": "A sárga Jaumont-kő különösen melegnek hat a téli fényben.",
                 "ro": "Piatra galbenă de Jaumont pare deosebit de caldă în lumina iernii.",
-                "en": "The yellow Jaumont stone looks particularly warm in winter light."
+                "en": "The yellow Jaumont stone looks particularly warm in winter light.",
+                "fr": "La pierre jaune de Jaumont paraît particulièrement chaleureuse dans la lumière d'hiver."
               }
             }
           ],
@@ -1613,6 +1755,12 @@
               "Avoid sudden steering movements in freezing conditions.",
               "A hot tea in a thermos helps fight the cold.",
               "Check the shorter winter opening hours of the Botanical Garden."
+            ],
+            "fr": [
+              "Assurez-vous que vos lumières fonctionnent car il fait nuit tôt.",
+              "Évitez les mouvements brusques de direction en cas de gel.",
+              "Un thé chaud dans un thermos aide à lutter contre le froid.",
+              "Vérifiez les horaires d'ouverture hivernaux plus courts du Jardin Botanique."
             ]
           }
         }
@@ -1646,7 +1794,8 @@
             "de": "Großer Parkplatz direkt am Museum vorhanden.",
             "hu": "Nagy parkoló közvetlenül a múzeumnál.",
             "ro": "Parcare mare disponibilă chiar la muzeu.",
-            "en": "Large parking lot available right at the museum."
+            "en": "Large parking lot available right at the museum.",
+            "fr": "Grand parking disponible juste à côté du musée."
           }
         },
         {
@@ -1669,7 +1818,8 @@
             "de": "Nutzen Sie das Parkhaus 'Cathédrale' unter dem Platz.",
             "hu": "Használja a 'Cathédrale' mélygarázst a tér alatt.",
             "ro": "Folosiți parcarea subterană 'Cathédrale' de sub piață.",
-            "en": "Use the 'Cathédrale' underground parking under the square."
+            "en": "Use the 'Cathédrale' underground parking under the square.",
+            "fr": "Utilisez le parking souterrain 'Cathédrale' sous la place."
           }
         },
         {
@@ -1692,7 +1842,8 @@
             "de": "Zentraler geht es nicht für ein lothringisches Mittagessen.",
             "hu": "Ennél központibb helyet nem talál egy lotharingiai ebédhez.",
             "ro": "Nu se poate mai central pentru un prânz din Lorena.",
-            "en": "You can't get more central for a Lorraine lunch."
+            "en": "You can't get more central for a Lorraine lunch.",
+            "fr": "On ne peut pas faire plus central pour un déjeuner lorrain."
           }
         },
         {
@@ -1715,7 +1866,8 @@
             "de": "Besuchen Sie das Grab des Gründervaters von Europa.",
             "hu": "Látogassa meg Európa egyik alapító atyjának sírját.",
             "ro": "Vizitați mormântul unuia dintre părinții fondatori ai Europei.",
-            "en": "Visit the tomb of one of the founding fathers of Europe."
+            "en": "Visit the tomb of one of the founding fathers of Europe.",
+            "fr": "Visitez la tombe de l'un des pères fondateurs de l'Europe."
           }
         },
         {
@@ -1738,7 +1890,8 @@
             "de": "Bester Panoramablick über Metz und das Moseltal.",
             "hu": "A legjobb panoráma Metzre és a Moselle-völgyre.",
             "ro": "Cea mai bună panoramă asupra orașului Metz și văii Moselei.",
-            "en": "Best panoramic view over Metz and the Moselle valley."
+            "en": "Best panoramic view over Metz and the Moselle valley.",
+            "fr": "Meilleure vue panoramique sur Metz et la vallée de la Moselle."
           }
         },
         {
@@ -1761,7 +1914,8 @@
             "de": "Parken Sie im 'Arsenal'-Parkhaus für den perfekten Abschluss.",
             "hu": "Parkoljon az 'Arsenal' parkolóházban a tökéletes záráshoz.",
             "ro": "Parcați în parcarea 'Arsenal' pentru încheierea perfectă.",
-            "en": "Park in the 'Arsenal' garage for the perfect finish."
+            "en": "Park in the 'Arsenal' garage for the perfect finish.",
+            "fr": "Garez-vous au parking 'Arsenal' pour une fin parfaite."
           }
         }
       ],
@@ -1769,7 +1923,8 @@
         "de": "Mit dem Auto entdecken Sie sowohl die Highlights im Zentrum als auch die geschichtsträchtige Umgebung von Metz. Nach dem Centre Pompidou und der Kathedrale fahren Sie ins nahegelegene Scy-Chazelles zum Haus von Robert Schuman. Ein Stopp auf dem Mont Saint-Quentin bietet Ihnen einen unvergesslichen Panoramablick über das Moseltal, bevor Sie den Tag in den Gärten der Esplanade in der Innenstadt ausklingen lassen.",
         "hu": "Autóval mind a központi látnivalókat, mind Metz történelmi környezetét felfedezheti. A Centre Pompidou és a székesegyház után utazzon a közeli Scy-Chazelles-be, Robert Schuman házához. Egy megálló a Mont Saint-Quentin-en felejthetetlen panorámát nyújt a Moselle-völgyre, mielőtt a napot a belvárosi Esplanade kertjeiben zárná.",
         "ro": "Cu mașina descoperiți atât punctele de atracție din centru, cât și împrejurimile pline de istorie ale orașului Metz. După Centre Pompidou și catedrală, conduceți până în Scy-Chazelles la casa lui Robert Schuman. O oprire pe Mont Saint-Quentin vă oferă o panoramă de neuitat asupra văii Moselei, înainte de a încheia ziua în grădinile Esplanadei din centrul orașului.",
-        "en": "By car, you can discover both the city center highlights and the historic surroundings of Metz. After the Centre Pompidou and the cathedral, drive to nearby Scy-Chazelles to visit Robert Schuman's house. A stop at Mont Saint-Quentin offers an unforgettable panoramic view of the Moselle valley, before ending your day in the Esplanade gardens back in the city center."
+        "en": "By car, you can discover both the city center highlights and the historic surroundings of Metz. After the Centre Pompidou and the cathedral, drive to nearby Scy-Chazelles to visit Robert Schuman's house. A stop at Mont Saint-Quentin offers an unforgettable panoramic view of the Moselle valley, before ending your day in the Esplanade gardens back in the city center.",
+        "fr": "En voiture, vous pouvez découvrir à la fois les points forts du centre-ville et les environs historiques de Metz. Après le Centre Pompidou et la cathédrale, conduisez jusqu'à Scy-Chazelles pour visiter la maison de Robert Schuman. Un arrêt au Mont Saint-Quentin offre une vue panoramique inoubliable sur la vallée de la Moselle, avant de terminer votre journée dans les jardins de l'Esplanade de retour au centre-ville."
       },
       "gastro_picks": {
         "de": [
@@ -1794,6 +1949,12 @@
           {
             "name": "Chez Mauricette",
             "tip": "Traditional Lorraine dishes in the covered market hall."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Chez Mauricette",
+            "tip": "Plats traditionnels lorrains dans la halle du marché couvert."
           }
         ]
       },
@@ -1825,6 +1986,13 @@
             "tip": "Peace and broad views over the valley.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Mont Saint-Quentin",
+            "tip": "Paix et larges vues sur la vallée.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1850,6 +2018,12 @@
           {
             "name": "Centre Commercial Muse",
             "tip": "Modern shopping mall right next to the Pompidou."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Centre Commercial Muse",
+            "tip": "Centre commercial moderne juste à côté du Pompidou."
           }
         ]
       },
@@ -1877,6 +2051,12 @@
           "Use P+R parking lots on the city outskirts for stress-free access.",
           "The city center is partially pedestrianized, park in the peripheral garages.",
           "Be aware of the low-emission zone; a Crit'Air vignette is often required."
+        ],
+        "fr": [
+          "Le système de guidage de stationnement à Metz est très efficace.",
+          "Utilisez les parkings-relais (P+R) en périphérie pour un accès sans stress.",
+          "Le centre-ville est partiellement piétonnier, garez-vous dans les parkings périphériques.",
+          "Soyez conscient de la zone à faibles émissions ; une vignette Crit'Air est souvent requise."
         ]
       },
       "variants": {
@@ -2087,7 +2267,8 @@
             "de": "Morgens parken wir bequem am Centre Pompidou, geschützt vor dem Regen. Mittags führt uns die Fahrt zur Kathedrale, deren Details auch bei Grau strahlen. Nachmittags besuchen wir das Schuman-Haus in Scy-Chazelles, eine perfekte Indoor-Option. Abends genießen wir den Blick von der Esplanade.",
             "hu": "Reggel kényelmesen parkolunk a Centre Pompidou-nál, védve az esőtől. Délben a katedrálishoz autózunk, melynek részletei szürkeségben is ragyognak. Délután a Scy-Chazelles-i Schuman-házat keressük fel, ami tökéletes beltéri program. Este az Esplanade kilátását élvezzük.",
             "ro": "Dimineața parcăm comod la Centre Pompidou, protejați de ploaie. La prânz conducem spre catedrală, ale cărei detalii strălucesc și pe gri. După-amiaza vizităm casa lui Schuman din Scy-Chazelles, o opțiune indoor perfectă. Seara admirăm priveliștea de la Esplanade.",
-            "en": "Morning starts with easy parking at Centre Pompidou, sheltered from the rain. At noon, drive to the cathedral, where details shine even under grey skies. In the afternoon, visit Robert Schuman's House in Scy-Chazelles, a perfect indoor option. The evening ends with views from the Esplanade."
+            "en": "Morning starts with easy parking at Centre Pompidou, sheltered from the rain. At noon, drive to the cathedral, where details shine even under grey skies. In the afternoon, visit Robert Schuman's House in Scy-Chazelles, a perfect indoor option. The evening ends with views from the Esplanade.",
+            "fr": "Le matin commence par un stationnement facile au Centre Pompidou, à l'abri de la pluie. À midi, conduisez jusqu'à la cathédrale, dont les détails brillent même sous un ciel gris. L'après-midi, visitez la maison de Robert Schuman à Scy-Chazelles, une option parfaite en intérieur. La soirée se termine par les vues depuis l'Esplanade."
           },
           "stops": [
             {
@@ -2096,7 +2277,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Gare' für direkten trockenen Zugang.",
                 "hu": "Használja a 'Gare' parkolóházat a közvetlen, száraz bejutáshoz.",
                 "ro": "Folosiți parcarea 'Gare' pentru acces direct și uscat.",
-                "en": "Use the 'Gare' parking garage for direct dry access."
+                "en": "Use the 'Gare' parking garage for direct dry access.",
+                "fr": "Utilisez le parking 'Gare' pour un accès direct au sec."
               }
             },
             {
@@ -2105,7 +2287,8 @@
                 "de": "Parkhaus 'Cathédrale' liegt direkt unter dem Platz.",
                 "hu": "A 'Cathédrale' parkolóház közvetlenül a tér alatt található.",
                 "ro": "Parcarea 'Cathédrale' se află chiar sub piață.",
-                "en": "The 'Cathédrale' parking garage is located right under the square."
+                "en": "The 'Cathédrale' parking garage is located right under the square.",
+                "fr": "Le parking 'Cathédrale' est situé juste sous la place."
               }
             },
             {
@@ -2114,7 +2297,8 @@
                 "de": "Lassen Sie das Auto stehen und erkunden Sie die Gastronomie zu Fuß.",
                 "hu": "Hagyja az autót a parkolóban, és gyalog fedezze fel a gasztronómiát.",
                 "ro": "Lăsați mașina în parcare și explorați gastronomia la pas.",
-                "en": "Leave the car parked and explore the dining scene on foot."
+                "en": "Leave the car parked and explore the dining scene on foot.",
+                "fr": "Laissez la voiture garée et explorez les restaurants à pied."
               }
             },
             {
@@ -2123,7 +2307,8 @@
                 "de": "Kostenlose Parkplätze direkt vor dem Museumseingang.",
                 "hu": "Ingyenes parkolóhelyek közvetlenül a múzeum bejárata előtt.",
                 "ro": "Locuri de parcare gratuite chiar în fața intrării muzeului.",
-                "en": "Free parking spots directly in front of the museum entrance."
+                "en": "Free parking spots directly in front of the museum entrance.",
+                "fr": "Places de parking gratuites directement devant l'entrée du musée."
               }
             },
             {
@@ -2132,7 +2317,8 @@
                 "de": "Bei starkem Regen kann die Sicht eingeschränkt sein.",
                 "hu": "Heves esőzéskor a kilátás korlátozott lehet.",
                 "ro": "În caz de ploaie torențială, vizibilitatea poate fi limitată.",
-                "en": "Visibility may be limited during heavy rain."
+                "en": "Visibility may be limited during heavy rain.",
+                "fr": "La visibilité peut être limitée lors de fortes pluies."
               }
             },
             {
@@ -2141,7 +2327,8 @@
                 "de": "Parkhaus 'Arsenal' bietet Schutz bis zum Abend.",
                 "hu": "Az 'Arsenal' parkolóház estig védelmet nyújt.",
                 "ro": "Parcarea 'Arsenal' oferă protecție până seara.",
-                "en": "The 'Arsenal' parking garage provides shelter until evening."
+                "en": "The 'Arsenal' parking garage provides shelter until evening.",
+                "fr": "Le parking 'Arsenal' offre un abri jusqu'au soir."
               }
             }
           ],
@@ -2169,6 +2356,12 @@
               "Avoid the narrow city center; use the underground garages.",
               "The road to Scy-Chazelles can be slippery when wet.",
               "An umbrella in the car is a must for this itinerary."
+            ],
+            "fr": [
+              "Utilisez l'application 'Metz Park' pour des informations sur le stationnement en temps réel.",
+              "Évitez les rues étroites du centre-ville ; utilisez les parkings souterrains.",
+              "La route vers Scy-Chazelles peut être glissante par temps humide.",
+              "Un parapluie dans la voiture est indispensable pour cet itinéraire."
             ]
           }
         },
@@ -2177,7 +2370,8 @@
             "de": "Morgens starten wir warm im Auto zum Centre Pompidou. Mittags bewundern wir die winterliche Kathedrale, bevor wir uns in einem nahen Restaurant stärken. Nachmittags führt uns die Fahrt ins geschichtsträchtige Scy-Chazelles. Abends genießen wir die Aussicht vom Mont Saint-Quentin im klaren Winterlicht.",
             "hu": "Reggel meleg autóval indulunk a Centre Pompidou-hoz. Délben a téli katedrálist csodáljuk meg, majd egy közeli étteremben erősödünk meg. Délután a történelmi Scy-Chazelles-be autózunk. Este a Mont Saint-Quentin kilátását élvezzük a tiszta téli fényben.",
             "ro": "Dimineața pornim cu mașina încălzită spre Centre Pompidou. La prânz admirăm catedrala hibernală înainte de a mânca la un restaurant apropiat. După-amiaza conducem spre Scy-Chazelles-ul plin de istorie. Seara savurăm vederea de pe Mont Saint-Quentin în lumina clară de iarnă.",
-            "en": "Morning starts in a warm car heading to Centre Pompidou. At noon, admire the winter cathedral before recharging at a nearby restaurant. In the afternoon, drive to the historic Scy-Chazelles. The evening ends with views from Mont Saint-Quentin in clear winter light."
+            "en": "Morning starts in a warm car heading to Centre Pompidou. At noon, admire the winter cathedral before recharging at a nearby restaurant. In the afternoon, drive to the historic Scy-Chazelles. The evening ends with views from Mont Saint-Quentin in clear winter light.",
+            "fr": "Le matin commence dans une voiture chaude en direction du Centre Pompidou. À midi, admirez la cathédrale en hiver avant de vous ressourcer dans un restaurant voisin. L'après-midi, roulez vers le site historique de Scy-Chazelles. La soirée se termine avec les vues depuis le Mont Saint-Quentin sous une lumière d'hiver claire."
           },
           "stops": [
             {
@@ -2186,7 +2380,8 @@
                 "de": "Das Parkhaus ist gut beheizt und bietet Komfort.",
                 "hu": "A parkolóház jól fűtött és kényelmes.",
                 "ro": "Parcarea este bine încălzită și oferă confort.",
-                "en": "The parking garage is well-heated and comfortable."
+                "en": "The parking garage is well-heated and comfortable.",
+                "fr": "Le parking est bien chauffé et confortable."
               }
             },
             {
@@ -2195,7 +2390,8 @@
                 "de": "Besuchen Sie die Krypta für eine wärmere Besichtigung.",
                 "hu": "Látogassa meg a kriptát a melegebb nézelődéshez.",
                 "ro": "Vizitați cripta pentru o vizionare mai călduroasă.",
-                "en": "Visit the crypt for a warmer sightseeing experience."
+                "en": "Visit the crypt for a warmer sightseeing experience.",
+                "fr": "Visitez la crypte pour une expérience de visite plus chaleureuse."
               }
             },
             {
@@ -2204,7 +2400,8 @@
                 "de": "Viele Restaurants haben gemütliche Wintergärten.",
                 "hu": "Sok étterem rendelkezik hangulatos télikerttel.",
                 "ro": "Multe restaurante au grădini de iarnă primitoare.",
-                "en": "Many restaurants have cozy winter gardens."
+                "en": "Many restaurants have cozy winter gardens.",
+                "fr": "De nombreux restaurants disposent de jardins d'hiver accueillants."
               }
             },
             {
@@ -2213,7 +2410,8 @@
                 "de": "Die Gärten sind im Winter oft früher geschlossen.",
                 "hu": "A kertek télen gyakran korábban zárnak.",
                 "ro": "Grădinile sunt adesea închise mai devreme iarna.",
-                "en": "The gardens often close earlier in the winter."
+                "en": "The gardens often close earlier in the winter.",
+                "fr": "Les jardins ferment souvent plus tôt en hiver."
               }
             },
             {
@@ -2222,7 +2420,8 @@
                 "de": "Achten Sie auf Glatteis auf der steilen Auffahrt.",
                 "hu": "Ügyeljen a jegesedésre a meredek felhajtón.",
                 "ro": "Atenție la polei pe urcarea abruptă.",
-                "en": "Watch out for black ice on the steep ascent."
+                "en": "Watch out for black ice on the steep ascent.",
+                "fr": "Attention au verglas lors de la montée raide."
               }
             },
             {
@@ -2231,7 +2430,8 @@
                 "de": "Ein schöner Ort, um den Sonnenuntergang gegen 17 Uhr zu sehen.",
                 "hu": "Szép hely a naplemente megtekintéséhez 17 óra körül.",
                 "ro": "Un loc frumos pentru a vedea apusul în jurul orei 17.",
-                "en": "A beautiful spot to watch the sunset around 5 PM."
+                "en": "A beautiful spot to watch the sunset around 5 PM.",
+                "fr": "Un bel endroit pour regarder le coucher du soleil vers 17h."
               }
             }
           ],
@@ -2259,6 +2459,12 @@
               "Use parking garages to keep your car ice-free.",
               "The drive to Scy-Chazelles offers great views of the Moselle valley.",
               "Plan your return trip before darkness falls."
+            ],
+            "fr": [
+              "Vérifiez l'état des routes avant de vous rendre au Mont Saint-Quentin.",
+              "Utilisez les parkings couverts pour garder votre voiture hors gel.",
+              "Le trajet vers Scy-Chazelles offre de superbes vues sur la vallée de la Moselle.",
+              "Planifiez votre trajet de retour avant la tombée de la nuit."
             ]
           }
         }
@@ -2292,7 +2498,8 @@
             "de": "Direkt neben dem Hauptbahnhof gelegen.",
             "hu": "Közvetlenül a főpályaudvar mellett található.",
             "ro": "Situat chiar lângă gara principală.",
-            "en": "Located right next to the main railway station."
+            "en": "Located right next to the main railway station.",
+            "fr": "Situé juste à côté de la gare principale."
           }
         },
         {
@@ -2315,7 +2522,8 @@
             "de": "Zentraler Knotenpunkt für alle Mettis-Linien (A und B).",
             "hu": "Központi csomópont minden Mettis vonalhoz (A és B).",
             "ro": "Nod central pentru toate liniile Mettis (A și B).",
-            "en": "Central hub for all Mettis lines (A and B)."
+            "en": "Central hub for all Mettis lines (A and B).",
+            "fr": "Plaque tournante centrale pour toutes les lignes Mettis (A et B)."
           }
         },
         {
@@ -2338,7 +2546,8 @@
             "de": "Mettis Haltestelle 'République' oder 'Hôtel de Ville'.",
             "hu": "Mettis megálló: 'République' vagy 'Hôtel de Ville'.",
             "ro": "Stația Mettis 'République' sau 'Hôtel de Ville'.",
-            "en": "Mettis stop 'République' or 'Hôtel de Ville'."
+            "en": "Mettis stop 'République' or 'Hôtel de Ville'.",
+            "fr": "Arrêt Mettis 'République' ou 'Hôtel de Ville'."
           }
         },
         {
@@ -2361,7 +2570,8 @@
             "de": "Kurzer Fußweg von der Haltestelle République über die Brücke.",
             "hu": "Rövid séta a République megállótól a hídon át.",
             "ro": "Scurtă plimbare de la stația République peste pod.",
-            "en": "Short walk from the République stop across the bridge."
+            "en": "Short walk from the République stop across the bridge.",
+            "fr": "Courte marche depuis l'arrêt République en traversant le pont."
           }
         },
         {
@@ -2384,7 +2594,8 @@
             "de": "Nehmen Sie die Linie B bis zur Haltestelle 'Porte des Allemands'.",
             "hu": "Szálljon a B vonalra a 'Porte des Allemands' megállóig.",
             "ro": "Luați linia B până la stația 'Porte des Allemands'.",
-            "en": "Take line B to the 'Porte des Allemands' stop."
+            "en": "Take line B to the 'Porte des Allemands' stop.",
+            "fr": "Prenez la ligne B jusqu'à l'arrêt 'Porte des Allemands'."
           }
         },
         {
@@ -2407,7 +2618,8 @@
             "de": "Ideal für einen Kaffee vor der Rückreise zum Bahnhof.",
             "hu": "Ideális egy kávéra az állomásra való visszatérés előtt.",
             "ro": "Ideal pentru o cafea înainte de întoarcerea la gară.",
-            "en": "Ideal for a coffee before heading back to the station."
+            "en": "Ideal for a coffee before heading back to the station.",
+            "fr": "Idéal pour un café avant de retourner à la gare."
           }
         }
       ],
@@ -2415,7 +2627,8 @@
         "de": "Nutzen Sie das moderne Mettis-Bussystem, um Metz bequem zu erkunden. Beginnen Sie beim Centre Pompidou und dem architektonisch einzigartigen Bahnhof. Die Mettis-Linien bringen Sie schnell zur Kathedrale und zur Place de la Comédie. Ein kleiner Transfer führt Sie zum historischen Deutschen Tor und zurück zum gemütlichen Place Saint-Louis, wo Sie die Atmosphäre der Stadt bei einem Drink genießen können, bevor es zurück zum Bahnhof geht.",
         "hu": "Használja a modern Mettis buszrendszert Metz kényelmes felfedezéséhez. Kezdjen a Centre Pompidou-nál és az építészetileg egyedülálló vasútállomásnál. A Mettis vonalak gyorsan eljuttatják a katedrálishoz és a Place de la Comédie-hez. Egy rövid utazás után eljuthat a történelmi Német-kapuhoz, majd vissza a hangulatos Place Saint-Louis-ra, ahol élvezheti a város légkörét egy ital mellett az állomásra való visszatérés előtt.",
         "ro": "Folosiți sistemul modern de autobuze Mettis pentru a explora Metz confortabil. Începeți la Centre Pompidou și la gara unică din punct de vedere arhitectural. Liniile Mettis vă duc rapid la catedrală și în Piața Comédie. Un scurt transfer vă duce la istorica Poartă a Germanilor și înapoi în primitoarea Piață Saint-Louis, unde puteți savura atmosfera orașului cu o băutură înainte de a reveni la gară.",
-        "en": "Use the modern Mettis bus system to explore Metz comfortably. Start at the Centre Pompidou and the architecturally unique railway station. The Mettis lines take you quickly to the cathedral and Place de la Comédie. A short transfer leads you to the historic Germans' Gate and back to the cozy Place Saint-Louis, where you can enjoy the city atmosphere with a drink before heading back to the station."
+        "en": "Use the modern Mettis bus system to explore Metz comfortably. Start at the Centre Pompidou and the architecturally unique railway station. The Mettis lines take you quickly to the cathedral and Place de la Comédie. A short transfer leads you to the historic Germans' Gate and back to the cozy Place Saint-Louis, where you can enjoy the city atmosphere with a drink before heading back to the station.",
+        "fr": "Utilisez le système moderne de bus Mettis pour explorer Metz confortablement. Commencez par le Centre Pompidou et la gare à l'architecture unique. Les lignes Mettis vous emmènent rapidement à la cathédrale et à la place de la Comédie. Une courte correspondance vous mène à l'historique Porte des Allemands et retour à la chaleureuse place Saint-Louis, où vous pourrez profiter de l'ambiance de la ville avec un verre avant de retourner à la gare."
       },
       "gastro_picks": {
         "de": [
@@ -2440,6 +2653,12 @@
           {
             "name": "L'Epicerie",
             "tip": "Cozy tea room with homemade cakes."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Epicerie",
+            "tip": "Salon de thé chaleureux avec des gâteaux faits maison."
           }
         ]
       },
@@ -2471,6 +2690,13 @@
             "tip": "One of the oldest churches in France.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Eglise Saint-Pierre-aux-Nonnains",
+            "tip": "L'une des plus anciennes églises de France.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2496,6 +2722,12 @@
           {
             "name": "Galeries Lafayette",
             "tip": "Classic department store near the République stop."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Grand magasin classique près de l'arrêt République."
           }
         ]
       },
@@ -2523,6 +2755,12 @@
           "Buy a day ticket directly at the ticket machine at the stop.",
           "The buses are accessible and very comfortable.",
           "The 'République' stop is the central transfer point."
+        ],
+        "fr": [
+          "Les bus Mettis (lignes A et B) passent toutes les 10 minutes.",
+          "Achetez un ticket journée directement à l'automate de l'arrêt.",
+          "Les bus sont accessibles et très confortables.",
+          "L'arrêt 'République' est le point de correspondance central."
         ]
       },
       "variants": {
@@ -2733,7 +2971,8 @@
             "de": "Morgens nutzen wir den Mettis-Bus zum Centre Pompidou, perfekt im Trockenen. Mittags bringt uns die Linie A zur Kathedrale, mitten ins Herz der Stadt. Nachmittags erkunden wir die Porte des Allemands, bevor wir zum Abendessen einkehren. Abends gleiten wir entspannt mit dem Bus zurück.",
             "hu": "Reggel a Mettis busszal megyünk a Centre Pompidou-hoz, tökéletesen szárazon. Délben az A vonal visz a katedrálishoz, a város szívébe. Délután a Porte des Allemands-t fedezzük fel az ebéd előtt. Este lazán gurulunk vissza a busszal.",
             "ro": "Dimineața folosim autobuzul Mettis spre Centre Pompidou, perfect la adăpost. La prânz, linia A ne duce la catedrală, în inima orașului. După-amiaza explorăm Porte des Allemands înainte de cină. Seara ne întoarcem relaxați cu autobuzul.",
-            "en": "Morning starts with the Mettis bus to Centre Pompidou, staying perfectly dry. At noon, line A takes us to the cathedral in the heart of the city. In the afternoon, explore Porte des Allemands before settling in for a meal. The evening concludes with a smooth bus ride back."
+            "en": "Morning starts with the Mettis bus to Centre Pompidou, staying perfectly dry. At noon, line A takes us to the cathedral in the heart of the city. In the afternoon, explore Porte des Allemands before settling in for a meal. The evening concludes with a smooth bus ride back.",
+            "fr": "Le matin commence par le bus Mettis vers le Centre Pompidou, en restant parfaitement au sec. À midi, la ligne A nous emmène à la cathédrale au cœur de la ville. L'après-midi, explorez la Porte des Allemands avant de vous installer pour un repas. La soirée se termine par un trajet en bus fluide pour le retour."
           },
           "stops": [
             {
@@ -2742,7 +2981,8 @@
                 "de": "Die Mettis-Haltestelle 'Gare' ist nur wenige Schritte entfernt.",
                 "hu": "A Mettis 'Gare' megállója csak pár lépésre van.",
                 "ro": "Stația Mettis 'Gare' este la doar câțiva pași distanță.",
-                "en": "The Mettis stop 'Gare' is just a few steps away."
+                "en": "The Mettis stop 'Gare' is just a few steps away.",
+                "fr": "L'arrêt Mettis 'Gare' n'est qu'à quelques pas."
               }
             },
             {
@@ -2751,7 +2991,8 @@
                 "de": "Nutzen Sie die Wartehalle als trockenen Treffpunkt.",
                 "hu": "Használja a várócsarnokot száraz találkozóhelyként.",
                 "ro": "Folosiți sala de așteptare ca punct de întâlnire uscat.",
-                "en": "Use the station hall as a dry meeting point."
+                "en": "Use the station hall as a dry meeting point.",
+                "fr": "Utilisez le hall de la gare comme point de rendez-vous au sec."
               }
             },
             {
@@ -2760,7 +3001,8 @@
                 "de": "Haltestelle 'République' bietet viele Anschlusslinien im Trockenen.",
                 "hu": "A 'République' megálló sok csatlakozást kínál fedett helyen.",
                 "ro": "Stația 'République' oferă multe conexiuni la adăpost.",
-                "en": "The 'République' stop offers many connections under shelter."
+                "en": "The 'République' stop offers many connections under shelter.",
+                "fr": "L'arrêt 'République' offre de nombreuses correspondances sous abri."
               }
             },
             {
@@ -2769,7 +3011,8 @@
                 "de": "Ein kurzer Sprint vom Bus schützt vor dem Regen.",
                 "hu": "Egy rövid sprint a busztól megvéd az esőtől.",
                 "ro": "Un sprint scurt de la autobuz vă ferește de ploaie.",
-                "en": "A short sprint from the bus protects you from the rain."
+                "en": "A short sprint from the bus protects you from the rain.",
+                "fr": "Un court sprint depuis le bus vous protège de la pluie."
               }
             },
             {
@@ -2778,7 +3021,8 @@
                 "de": "Die Linien 4 und 5 halten ganz in der Nähe der Festung.",
                 "hu": "A 4-es és 5-ös járatok az erőd közvetlen közelében állnak meg.",
                 "ro": "Liniile 4 și 5 opresc foarte aproape de cetate.",
-                "en": "Lines 4 and 5 stop very close to the fortress."
+                "en": "Lines 4 and 5 stop very close to the fortress.",
+                "fr": "Les lignes 4 et 5 s'arrêtent très près de la forteresse."
               }
             },
             {
@@ -2787,7 +3031,8 @@
                 "de": "Die Bushaltestellen hier sind meist gut überdacht.",
                 "hu": "Az itteni buszmegállók többnyire jól fedettek.",
                 "ro": "Stațiile de autobuz de aici sunt de obicei bine acoperite.",
-                "en": "The bus stops here are mostly well-sheltered."
+                "en": "The bus stops here are mostly well-sheltered.",
+                "fr": "Les arrêts de bus ici sont pour la plupart bien abrités."
               }
             }
           ],
@@ -2815,6 +3060,12 @@
               "Buy a day pass at the ticket machines found at the stops.",
               "The 'LE MET'' app provides real-time departure information.",
               "Buses are climate-controlled and protect you from the damp weather."
+            ],
+            "fr": [
+              "Le bus Mettis circule toutes les 10 minutes et est très fiable.",
+              "Achetez un pass journée aux automates situés aux arrêts.",
+              "L'application 'LE MET'' fournit des informations de départ en temps réel.",
+              "Les bus sont climatisés et vous protègent du temps humide."
             ]
           }
         },
@@ -2823,7 +3074,8 @@
             "de": "Morgens bringt uns der beheizte Bus direkt zum Centre Pompidou. Mittags wärmen wir uns im Mettis auf dem Weg zur Kathedrale auf. Nachmittags erkunden wir die Stadtgeschichte, bevor wir den Tag bei einem heißen Getränk an der Place Saint-Louis beenden. Abends gleiten wir sicher durch die Winterstadt.",
             "hu": "Reggel a fűtött busz közvetlenül a Centre Pompidou-hoz visz. Délben a Mettis-ben melegszünk fel a katedrálishoz menet. Délután a város történelmét fedezzük fel, majd a napot egy forró itallal zárjuk a Place Saint-Louis-n. Este biztonságban utazunk a téli városban.",
             "ro": "Dimineața autobuzul încălzit ne duce direct la Centre Pompidou. La prânz ne încălzim în Mettis în drum spre catedrală. După-amiaza explorăm istoria orașului, apoi încheiem ziua cu o băutură caldă în Place Saint-Louis. Seara călătorim în siguranță prin orașul hibernal.",
-            "en": "Morning starts with a heated bus ride directly to Centre Pompidou. At noon, warm up in the Mettis bus on the way to the cathedral. In the afternoon, explore city history before ending the day with a hot drink at Place Saint-Louis. Glide safely through the winter city in the evening."
+            "en": "Morning starts with a heated bus ride directly to Centre Pompidou. At noon, warm up in the Mettis bus on the way to the cathedral. In the afternoon, explore city history before ending the day with a hot drink at Place Saint-Louis. Glide safely through the winter city in the evening.",
+            "fr": "Le matin commence par un trajet en bus chauffé directement vers le Centre Pompidou. À midi, réchauffez-vous dans le bus Mettis en direction de la cathédrale. L'après-midi, explorez l'histoire de la ville avant de terminer la journée avec une boisson chaude place Saint-Louis. Glissez en toute sécurité à travers la ville hivernale en soirée."
           },
           "stops": [
             {
@@ -2832,7 +3084,8 @@
                 "de": "Der Mettis-Bus ist im Winter die wärmste Verbindung zum Museum.",
                 "hu": "A Mettis busz télen a legmelegebb összeköttetés a múzeumhoz.",
                 "ro": "Autobuzul Mettis este cea mai caldă conexiune spre muzeu iarna.",
-                "en": "The Mettis bus is the warmest connection to the museum in winter."
+                "en": "The Mettis bus is the warmest connection to the museum in winter.",
+                "fr": "Le bus Mettis est la liaison la plus chaude vers le musée en hiver."
               }
             },
             {
@@ -2841,7 +3094,8 @@
                 "de": "Der Bahnhof ist ein guter Ort, um auf den nächsten Bus zu warten.",
                 "hu": "A pályaudvar jó hely a következő busz megvárására.",
                 "ro": "Gara este un loc bun pentru a aștepta următorul autobuz.",
-                "en": "The station is a good place to wait for the next bus."
+                "en": "The station is a good place to wait for the next bus.",
+                "fr": "La gare est un bon endroit pour attendre le prochain bus."
               }
             },
             {
@@ -2850,7 +3104,8 @@
                 "de": "Nutzen Sie den kurzen Fußweg von der Haltestelle zur Wärme der Kirche.",
                 "hu": "Használja a rövid sétát a megállótól a templom melegéig.",
                 "ro": "Folosiți plimbarea scurtă de la stație până la căldura bisericii.",
-                "en": "Take the short walk from the stop to the warmth of the church."
+                "en": "Take the short walk from the stop to the warmth of the church.",
+                "fr": "Faites la courte marche depuis l'arrêt jusqu'à la chaleur de l'église."
               }
             },
             {
@@ -2859,7 +3114,8 @@
                 "de": "Der Blick auf die beleuchtete Oper ist im Winter magisch.",
                 "hu": "A kivilágított Opera látványa télen varázslatos.",
                 "ro": "Vederea operei iluminate este magică iarna.",
-                "en": "The view of the illuminated Opera is magical in winter."
+                "en": "The view of the illuminated Opera is magical in winter.",
+                "fr": "La vue sur l'Opéra illuminé est magique en hiver."
               }
             },
             {
@@ -2868,7 +3124,8 @@
                 "de": "Die Haltestellen sind abends gut beleuchtet und sicher.",
                 "hu": "A megállók este jól kivilágítottak és biztonságosak.",
                 "ro": "Stațiile sunt bine iluminate și sigure seara.",
-                "en": "The bus stops are well-lit and safe in the evening."
+                "en": "The bus stops are well-lit and safe in the evening.",
+                "fr": "Les arrêts de bus sont bien éclairés et sûrs le soir."
               }
             },
             {
@@ -2877,7 +3134,8 @@
                 "de": "Genießen Sie die weihnachtliche Beleuchtung aus dem Busfenster.",
                 "hu": "Élvezze a karácsonyi kivilágítást a busz ablakából.",
                 "ro": "Bucurați-vă de iluminatul de Crăciun de la fereastra autobuzului.",
-                "en": "Enjoy the Christmas lighting from the bus window."
+                "en": "Enjoy the Christmas lighting from the bus window.",
+                "fr": "Profitez des illuminations de Noël depuis la fenêtre du bus."
               }
             }
           ],
@@ -2905,6 +3163,12 @@
               "Use the 'P+R' (Park and Ride) service for a stress-free entry into the city.",
               "Allow extra time if snow slows down the traffic.",
               "The Mettis schedule remains frequent and stable in winter."
+            ],
+            "fr": [
+              "Les véhicules Mettis sont très bien chauffés pendant l'hiver.",
+              "Utilisez le service 'P+R' (parking-relais) pour une entrée en ville sans stress.",
+              "Prévoyez un temps supplémentaire si la neige ralentit la circulation.",
+              "Les horaires Mettis restent fréquents et stables en hiver."
             ]
           }
         }

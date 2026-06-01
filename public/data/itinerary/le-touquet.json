@@ -36,7 +36,8 @@
             "de": "Probieren Sie den lokalen Fisch.",
             "hu": "Kóstolja meg a helyi halakat.",
             "ro": "Gustați peștele local.",
-            "en": "Try the local fish."
+            "en": "Try the local fish.",
+            "fr": "Goûtez le poisson local."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Ideal für Souvenirs.",
             "hu": "Ideális ajándéktárgyakhoz.",
             "ro": "Ideal pentru suveniruri.",
-            "en": "Ideal for souvenirs."
+            "en": "Ideal for souvenirs.",
+            "fr": "Idéal pour les souvenirs."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Achten Sie auf die Glasmalereien.",
             "hu": "Figyelje meg az üvegablakokat.",
             "ro": "Admirați vitraliile.",
-            "en": "Admire the stained glass windows."
+            "en": "Admire the stained glass windows.",
+            "fr": "Admirez les vitraux."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Wunderschöne Architektur.",
             "hu": "Gyönyörű építészet.",
             "ro": "Arhitectură superbă.",
-            "en": "Beautiful architecture."
+            "en": "Beautiful architecture.",
+            "fr": "Belle architecture."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Frische Meeresfrüchte genießen.",
             "hu": "Élvezze a friss tenger gyümölcseit.",
             "ro": "Savurați fructe de mare proaspete.",
-            "en": "Enjoy fresh seafood."
+            "en": "Enjoy fresh seafood.",
+            "fr": "Dégustez des fruits de mer frais."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Langer Sandstrand.",
             "hu": "Hosszú homokos part.",
             "ro": "Plajă lungă cu nisip.",
-            "en": "Long sandy beach."
+            "en": "Long sandy beach.",
+            "fr": "Longue plage de sable."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Tolle Aussicht von oben.",
             "hu": "Nagyszerű kilátás fentről.",
             "ro": "O vedere excelentă de sus.",
-            "en": "Great view from the top."
+            "en": "Great view from the top.",
+            "fr": "Superbe vue depuis le sommet."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem lebhaften überdachten Markt und schlendern Sie dann durch die Rue Saint-Jean zum Einkaufen. Mittags erkunden Sie die prächtigen historischen Villen im Waldviertel.\n\nNach einem köstlichen Mittagessen mit Meeresfrüchten verbringen Sie den Nachmittag am weitläufigen Sandstrand. Zum Abschluss genießen Sie die Aussicht vom majestätischen Leuchtturm bei Sonnenuntergang.",
         "hu": "Kezdje a napot a nyüzsgő fedett piacon, majd sétáljon végig a Rue Saint-Jean bevásárlóutcán. Délben fedezze fel az erdős negyed pompás történelmi villáit.\n\nEgy finom tengeri ebéd után töltse a délutánt a végtelen homokos strandon. Végezetül élvezze a kilátást a fenséges világítótoronyból a naplementében.",
         "ro": "Începeți ziua la piața acoperită plină de viață, apoi plimbați-vă pe strada comercială Rue Saint-Jean. La prânz, explorați vilele istorice magnifice din cartierul împădurit.\n\nDupă un prânz delicios cu fructe de mare, petreceți după-amiaza pe plaja întinsă cu nisip. În final, bucurați-vă de priveliștea de la farul maiestuos la apus.",
-        "en": "Start your day at the lively covered market, then stroll down the Rue Saint-Jean for some shopping. At midday, explore the magnificent historic villas in the forested district.\n\nAfter a delicious seafood lunch, spend the afternoon on the vast sandy beach. Finally, enjoy the view from the majestic lighthouse at sunset."
+        "en": "Start your day at the lively covered market, then stroll down the Rue Saint-Jean for some shopping. At midday, explore the magnificent historic villas in the forested district.\n\nAfter a delicious seafood lunch, spend the afternoon on the vast sandy beach. Finally, enjoy the view from the majestic lighthouse at sunset.",
+        "fr": "Commencez votre journée au marché couvert animé, puis flânez dans la rue Saint-Jean pour faire du shopping. À midi, explorez les magnifiques villas historiques dans le quartier de la forêt.\n\nAprès un délicieux déjeuner de fruits de mer, passez l'après-midi sur la vaste plage de sable. Enfin, profitez de la vue depuis le majestueux phare au coucher du soleil."
       },
       "gastro_picks": {
         "de": [
@@ -224,6 +232,16 @@
             "name": "Seafood Platter",
             "tip": "Fresh from the Channel."
           }
+        ],
+        "fr": [
+          {
+            "name": "Le Paris",
+            "tip": "Brasserie française classique."
+          },
+          {
+            "name": "Plateau de fruits de mer",
+            "tip": "Frais de la Manche."
+          }
         ]
       },
       "quiet_picks": {
@@ -254,6 +272,13 @@
             "tip": "Quiet walk in nature.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Sentier des Dunes",
+            "tip": "Promenade paisible en pleine nature.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -280,6 +305,12 @@
             "name": "Rue Saint-Jean",
             "tip": "Boutiques and brand stores."
           }
+        ],
+        "fr": [
+          {
+            "name": "Rue Saint-Jean",
+            "tip": "Boutiques et magasins de marque."
+          }
         ]
       },
       "tips": {
@@ -298,6 +329,10 @@
         "en": [
           "Comfortable shoes for the beach are essential.",
           "Book restaurants in advance."
+        ],
+        "fr": [
+          "Des chaussures confortables pour la plage sont essentielles.",
+          "Réservez vos restaurants à l'avance."
         ]
       },
       "variants": {
@@ -530,7 +565,8 @@
             "de": "Beginnen Sie den Tag trocken in der Art-Déco-Markthalle, wo lokale Köstlichkeiten locken. Mittags bieten die Arkaden der Rue Saint-Jean Schutz vor dem Regen beim Bummeln.\n\nNachmittags führt der Weg durch die Villenviertel, wobei die Pinien einen natürlichen Schirm bilden. Ein kurzer, erfrischender Gang am grauen Strand belebt die Geister.\n\nDen Abschluss bildet der Leuchtturm, der bei Regen besonders atmosphärisch wirkt. Ein warmer Tee im Zentrum lässt den feuchten Tag gemütlich ausklingen.",
             "hu": "Kezdje a napot a fedett piacon, amely tökéletes menedék az eső elől. Ebédidőben a Rue Saint-Jean boltjai és árkádjai alatt szárazon nézelődhet.\n\nDélután a fenyőerdő villái között sétálhat, ahol a sűrű lombok felfogják a cseppeket. A tengerparti séta ilyenkor szeles, de a sós pára tisztítja a tüdőt.\n\nA napot a világítótoronynál zárjuk, amely misztikusan fest a szürke égbolt alatt. Egy forró ital a belvárosban segít felmelegedni az esti órákban.",
             "ro": "Începeți ziua la adăpost în piața acoperită, explorând produsele locale artizanale. La prânz, arcadele de pe Rue Saint-Jean oferă protecție împotriva ploii în timpul cumpărăturilor.\n\nDupă-amiaza, plimbarea printre vilele istorice este facilitată de pinii care opresc stropii. O vizită scurtă pe plajă oferă un peisaj dramatic și revigorant.\n\nSeara se încheie la farul din Canche, care pare impunător prin ceață. Relaxați-vă cu o băutură caldă într-o cafenea primitoare din centru.",
-            "en": "Start your day dry at the Art Deco covered market, perfect for sampling local treats. At noon, the shop awnings of Rue Saint-Jean provide shelter for a pleasant stroll.\n\nIn the afternoon, walk through the villa district where pine trees act as a natural umbrella. A brisk walk on the beach is refreshing despite the coastal drizzle.\n\nFinish the day at the lighthouse, looking moody against the grey sky. Enjoy a warm drink in the center to dry off and relax as evening falls."
+            "en": "Start your day dry at the Art Deco covered market, perfect for sampling local treats. At noon, the shop awnings of Rue Saint-Jean provide shelter for a pleasant stroll.\n\nIn the afternoon, walk through the villa district where pine trees act as a natural umbrella. A brisk walk on the beach is refreshing despite the coastal drizzle.\n\nFinish the day at the lighthouse, looking moody against the grey sky. Enjoy a warm drink in the center to dry off and relax as evening falls.",
+            "fr": "Commencez votre journée au sec au marché couvert Art Déco, parfait pour déguster des spécialités locales. À midi, les auvents des magasins de la rue Saint-Jean offrent un abri pour une agréable promenade.\n\nL'après-midi, marchez dans le quartier des villas où les pins font office de parapluie naturel. Une marche tonique sur la plage est rafraîchissante malgré la bruine côtière.\n\nTerminez la journée au phare, à l'ambiance mélancolique sous le ciel gris. Savourez une boisson chaude en centre-ville pour vous sécher et vous détendre à la tombée de la nuit."
           },
           "stops": [
             {
@@ -539,7 +575,8 @@
                 "de": "Perfekter Unterschlupf bei Schauern unter dem historischen Dach.",
                 "hu": "Tökéletes menedék záporok idején a történelmi tető alatt.",
                 "ro": "Adăpost perfect împotriva averselor sub acoperișul istoric.",
-                "en": "Perfect shelter during showers under the historic roof."
+                "en": "Perfect shelter during showers under the historic roof.",
+                "fr": "Abri parfait pendant les averses sous le toit historique."
               }
             },
             {
@@ -548,7 +585,8 @@
                 "de": "Nutzen Sie die Markisen der Geschäfte für einen trockenen Bummel.",
                 "hu": "Használja az üzletek előtetőit a száraz nézelődéshez.",
                 "ro": "Folosiți copertinele magazinelor pentru o plimbare uscată.",
-                "en": "Use the shop awnings for a dry stroll through the boutiques."
+                "en": "Use the shop awnings for a dry stroll through the boutiques.",
+                "fr": "Utilisez les auvents des magasins pour une promenade au sec dans les boutiques."
               }
             },
             {
@@ -557,7 +595,8 @@
                 "de": "Ein ruhiger Ort für eine Pause, während es draußen regnet.",
                 "hu": "Csendes hely egy pihenőre, amíg odakint esik az eső.",
                 "ro": "Un loc liniștit pentru o pauză în timp ce plouă afară.",
-                "en": "A quiet place for a break while it rains outside."
+                "en": "A quiet place for a break while it rains outside.",
+                "fr": "Un endroit calme pour une pause pendant qu'il pleut dehors."
               }
             },
             {
@@ -566,7 +605,8 @@
                 "de": "Die dichten Pinienbäume im Wald bieten natürlichen Regenschutz.",
                 "hu": "A sűrű fenyőfák az erdőben természetes esővédelmet nyújtanak.",
                 "ro": "Pinii deși din pădure oferă o protecție naturală contra ploii.",
-                "en": "The dense pine trees in the forest provide natural rain cover."
+                "en": "The dense pine trees in the forest provide natural rain cover.",
+                "fr": "Les pins denses de la forêt offrent une protection naturelle contre la pluie."
               }
             },
             {
@@ -575,7 +615,8 @@
                 "de": "Wählen Sie ein Restaurant mit gemütlichem Innenbereich.",
                 "hu": "Válasszon éttermet barátságos belső térrel.",
                 "ro": "Alegeți un restaurant cu un interior primitor.",
-                "en": "Choose a restaurant with a cozy indoor seating area."
+                "en": "Choose a restaurant with a cozy indoor seating area.",
+                "fr": "Choisissez un restaurant avec une salle intérieure chaleureuse."
               }
             },
             {
@@ -584,7 +625,8 @@
                 "de": "Gummistiefel sind ideal für einen Gang am nassen Sand.",
                 "hu": "A gumicsizma ideális a vizes homokban való sétához.",
                 "ro": "Cizmele de gumă sunt ideale pentru plimbarea pe nisip ud.",
-                "en": "Rubber boots are ideal for a walk on the wet sand."
+                "en": "Rubber boots are ideal for a walk on the wet sand.",
+                "fr": "Des bottes en caoutchouc sont idéales pour une marche sur le sable mouillé."
               }
             },
             {
@@ -593,7 +635,8 @@
                 "de": "Die Aussicht ist bei Regen besonders mystisch und grau.",
                 "hu": "A kilátás esőben különösen misztikus és szürke.",
                 "ro": "Priveliștea este deosebit de mistică și gri pe ploaie.",
-                "en": "The view is particularly mystical and grey in the rain."
+                "en": "The view is particularly mystical and grey in the rain.",
+                "fr": "La vue est particulièrement mystique et grise sous la pluie."
               }
             }
           ],
@@ -621,6 +664,12 @@
               "The covered market is the best morning spot to stay dry.",
               "Utilize the passages in the center for shortcuts between shops.",
               "Watch out for slippery pavements in the wooded villa districts."
+            ],
+            "fr": [
+              "Portez un imperméable coupe-vent, car la côte peut être venteuse sous la pluie.",
+              "Le marché couvert est le meilleur endroit le matin pour rester au sec.",
+              "Utilisez les passages du centre pour raccourcir les trajets entre les boutiques.",
+              "Attention aux trottoirs glissants dans les quartiers boisés des villas."
             ]
           }
         },
@@ -629,7 +678,8 @@
             "de": "Erleben Sie die frische Winterluft am Morgen auf dem Markt. Die Rue Saint-Jean strahlt auch in der kalten Jahreszeit eine elegante Atmosphäre aus.\n\nMittags wärmen Sie sich bei einem herzhaften Essen auf, bevor es zu den Villen geht. Das Licht der tiefstehenden Wintersonne lässt die Fassaden golden leuchten.\n\nDer Strandbesuch am Nachmittag ist kurz, aber intensiv bei klirrender Kälte. Beobachten Sie den Sonnenuntergang gegen 17:00 Uhr direkt an der Küste.\n\nDer beleuchtete Leuchtturm führt Sie zurück ins Stadtzentrum. Beenden Sie den Tag mit einer heißen Schokolade am Kamin in einem der Cafés.",
             "hu": "Élvezze a friss téli levegőt reggel a helyi piacon. A Rue Saint-Jean elegáns hangulata a hideg évszakban is vonzó és életteli.\n\nEbédnél melegedjen fel egy bőséges fogással, mielőtt a villák felé indulna. Az alacsony téli napfény különleges arany fényt ad a homlokzatoknak.\n\nDélután a tengerparti séta rövid, de frissítő a csípős hidegben. A naplemente korán, délután 5 körül érkezik a tenger felett.\n\nA kivilágított világítótorony mutatja az utat vissza a városba. Zárja a napot egy forró csokoládéval egy kandallós kávézóban.",
             "ro": "Bucurați-vă de aerul proaspăt de iarnă dimineața la piața locală. Rue Saint-Jean păstrează o atmosferă elegantă și în sezonul rece.\n\nLa prânz, încălziți-vă cu un preparat consistent înainte de a vizita vilele. Lumina joasă a soarelui de iarnă oferă fațadelor o strălucire aurie.\n\nDupă-amiaza, vizita pe plajă este scurtă, dar revigorantă în frigul tăios. Apusul de soare are loc devreme, în jur de ora 17:00, la malul mării.\n\nFarul iluminat vă ghidează înapoi spre centrul orașului. Încheiați ziua cu o ciocolată caldă lângă un șemineu într-o cafenea.",
-            "en": "Enjoy the crisp winter air in the morning at the local market. Rue Saint-Jean maintains its elegant atmosphere even in the cold season.\n\nWarm up with a hearty lunch at noon before heading to the forest villas. The low winter sun creates long shadows and a golden glow on the facades.\n\nIn the afternoon, the beach walk is short but invigorating in the biting cold. Catch the sunset around 5 PM directly on the coastline.\n\nThe illuminated lighthouse guides you back to the town center. Finish the day with a hot chocolate by a fireplace in a cozy café."
+            "en": "Enjoy the crisp winter air in the morning at the local market. Rue Saint-Jean maintains its elegant atmosphere even in the cold season.\n\nWarm up with a hearty lunch at noon before heading to the forest villas. The low winter sun creates long shadows and a golden glow on the facades.\n\nIn the afternoon, the beach walk is short but invigorating in the biting cold. Catch the sunset around 5 PM directly on the coastline.\n\nThe illuminated lighthouse guides you back to the town center. Finish the day with a hot chocolate by a fireplace in a cozy café.",
+            "fr": "Profitez de l'air frais de l'hiver le matin au marché local. La rue Saint-Jean conserve son atmosphère élégante même pendant la saison froide.\n\nRéchauffez-vous avec un déjeuner copieux à midi avant de vous diriger vers les villas de la forêt. Le bas soleil d'hiver crée de longues ombres et une lueur dorée sur les façades.\n\nL'après-midi, la promenade sur la plage est courte mais vivifiante dans le froid piquant. Admirez le coucher du soleil vers 17h directement sur le littoral.\n\nLe phare illuminé vous guide vers le centre-ville. Terminez la journée avec un chocolat chaud près d'une cheminée dans un café accueillant."
           },
           "stops": [
             {
@@ -638,7 +688,8 @@
                 "de": "Kaufen Sie regionale Produkte für ein gemütliches Winterabendessen.",
                 "hu": "Vásároljon helyi termékeket egy hangulatos téli vacsorához.",
                 "ro": "Cumpărați produse locale pentru o cină de iarnă primitoare.",
-                "en": "Buy regional products for a cozy winter dinner."
+                "en": "Buy regional products for a cozy winter dinner.",
+                "fr": "Achetez des produits régionaux pour un dîner d'hiver chaleureux."
               }
             },
             {
@@ -647,7 +698,8 @@
                 "de": "Die Schaufenster sind im Winter oft festlich dekoriert.",
                 "hu": "A kirakatok télen gyakran ünnepi díszben tündökölnek.",
                 "ro": "Vitrinele magazinelor sunt adesea decorate festiv iarna.",
-                "en": "The shop windows are often festively decorated in winter."
+                "en": "The shop windows are often festively decorated in winter.",
+                "fr": "Les vitrines sont souvent décorées de manière festive en hiver."
               }
             },
             {
@@ -656,7 +708,8 @@
                 "de": "Ein ruhiger Rückzugsort, um der Kälte kurz zu entkommen.",
                 "hu": "Csendes menedék, hogy rövid időre megmeneküljön a hidegtől.",
                 "ro": "Un refugiu liniștit pentru a scăpa scurt de frig.",
-                "en": "A quiet retreat to briefly escape the outdoor cold."
+                "en": "A quiet retreat to briefly escape the outdoor cold.",
+                "fr": "Un refuge calme pour échapper brièvement au froid extérieur."
               }
             },
             {
@@ -665,7 +718,8 @@
                 "de": "Das Licht der tiefstehenden Sonne betont die Architektur.",
                 "hu": "Az alacsonyan járó nap fénye kiemeli az építészetet.",
                 "ro": "Lumina soarelui de iarnă accentuează arhitectura vilelor.",
-                "en": "The low winter sun beautifully highlights the architecture."
+                "en": "The low winter sun beautifully highlights the architecture.",
+                "fr": "Le bas soleil d'hiver souligne magnifiquement l'architecture."
               }
             },
             {
@@ -674,7 +728,8 @@
                 "de": "Probieren Sie eine warme Meeresfrüchtesuppe zur Stärkung.",
                 "hu": "Kóstoljon meg egy meleg tenger gyümölcsei levest az erőgyűjtéshez.",
                 "ro": "Încercați o supă caldă de fructe de mare pentru energie.",
-                "en": "Try a warm seafood soup to recharge and stay warm."
+                "en": "Try a warm seafood soup to recharge and stay warm.",
+                "fr": "Goûtez une soupe de poisson chaude pour recharger les batteries et rester au chaud."
               }
             },
             {
@@ -683,7 +738,8 @@
                 "de": "Warme Kleidung ist Pflicht für den kalten Seewind.",
                 "hu": "A meleg ruházat kötelező a hideg tengeri szélben.",
                 "ro": "Îmbrăcămintea groasă este obligatorie pentru vântul rece.",
-                "en": "Warm clothing is mandatory for the biting sea wind."
+                "en": "Warm clothing is mandatory for the biting sea wind.",
+                "fr": "Des vêtements chauds sont obligatoires pour le vent marin piquant."
               }
             },
             {
@@ -692,7 +748,8 @@
                 "de": "Besuchen Sie ihn vor 17 Uhr, um das Tageslicht zu nutzen.",
                 "hu": "Látogassa meg 17 óra előtt, hogy kihasználja a nappali fényt.",
                 "ro": "Vizitați-l înainte de ora 17:00 pentru a profita de lumină.",
-                "en": "Visit before 5 PM to make the most of the daylight."
+                "en": "Visit before 5 PM to make the most of the daylight.",
+                "fr": "Visitez avant 17h pour profiter au maximum de la lumière du jour."
               }
             }
           ],
@@ -720,6 +777,12 @@
               "Sunset is around 5 PM, so plan your beach visit before that.",
               "Many cafés have outdoor heaters on their terraces in winter.",
               "Pavements can be icy in the early morning in shaded areas."
+            ],
+            "fr": [
+              "Portez des couches thermiques, le vent marin est glacial en hiver.",
+              "Le coucher du soleil est vers 17h, prévoyez donc votre visite à la plage avant.",
+              "De nombreux cafés ont des chauffages extérieurs sur leurs terrasses en hiver.",
+              "Les trottoirs peuvent être verglacés tôt le matin dans les zones ombragées."
             ]
           }
         }
@@ -753,7 +816,8 @@
             "de": "Bester Startpunkt.",
             "hu": "Legjobb kezdőpont.",
             "ro": "Cel mai bun punct de plecare.",
-            "en": "Best starting point."
+            "en": "Best starting point.",
+            "fr": "Meilleur point de départ."
           }
         },
         {
@@ -776,7 +840,8 @@
             "de": "Ideal zum Radfahren.",
             "hu": "Ideális kerékpározáshoz.",
             "ro": "Ideal pentru ciclism.",
-            "en": "Ideal for cycling."
+            "en": "Ideal for cycling.",
+            "fr": "Idéal pour le vélo."
           }
         },
         {
@@ -799,7 +864,8 @@
             "de": "Elegante Anlage.",
             "hu": "Elegáns létesítmény.",
             "ro": "Complex elegant.",
-            "en": "Elegant facility."
+            "en": "Elegant facility.",
+            "fr": "Installation élégante."
           }
         },
         {
@@ -822,7 +888,8 @@
             "de": "Schattige Wege.",
             "hu": "Árnyas utak.",
             "ro": "Poteci umbrite.",
-            "en": "Shady paths."
+            "en": "Shady paths.",
+            "fr": "Sentiers ombragés."
           }
         },
         {
@@ -845,7 +912,8 @@
             "de": "Frische Brise.",
             "hu": "Friss szellő.",
             "ro": "Briză proaspătă.",
-            "en": "Fresh breeze."
+            "en": "Fresh breeze.",
+            "fr": "Brise fraîche."
           }
         },
         {
@@ -868,7 +936,8 @@
             "de": "Gemütlicher Ausklang.",
             "hu": "Hangulatos befejezés.",
             "ro": "Final relaxant.",
-            "en": "Cozy finish."
+            "en": "Cozy finish.",
+            "fr": "Fin de journée chaleureuse."
           }
         }
       ],
@@ -876,7 +945,8 @@
         "de": "Erkunden Sie Le Touquet auf zwei Rädern, angefangen beim historischen Leuchtturm bis zum weiten Naturpark Baie de Canche. Radeln Sie vorbei am eleganten Hippodrom und durch die schattigen Alleen mit prachtvollen Waldvillen.\n\nGenießen Sie die Fahrt entlang der Meerespromenade, bevor Sie den Tag in einem gemütlichen Café im Stadtzentrum ausklingen lassen.",
         "hu": "Fedezze fel Le Touquet-t két keréken, a történelmi világítótoronytól kezdve a Baie de Canche hatalmas natúrparkjáig. Kerekezzen el az elegáns lóversenypálya mellett és a pompás erdei villák árnyas fasorai között.\n\nÉlvezze a biciklizést a tengerparti sétányon, mielőtt a napot egy hangulatos belvárosi kávézóban zárná.",
         "ro": "Explorați Le Touquet pe două roți, începând de la farul istoric până la vastul parc natural Baie de Canche. Pedalați pe lângă hipodromul elegant și prin aleile umbrite cu vile superbe de pădure.\n\nBucurați-vă de plimbarea pe faleza mării înainte de a încheia ziua într-o cafenea primitoare din centrul orașului.",
-        "en": "Explore Le Touquet on two wheels, starting from the historic lighthouse to the vast Baie de Canche nature park. Cycle past the elegant hippodrome and through the shady avenues with magnificent forest villas.\n\nEnjoy the ride along the seaside promenade before ending the day in a cozy café in the city center."
+        "en": "Explore Le Touquet on two wheels, starting from the historic lighthouse to the vast Baie de Canche nature park. Cycle past the elegant hippodrome and through the shady avenues with magnificent forest villas.\n\nEnjoy the ride along the seaside promenade before ending the day in a cozy café in the city center.",
+        "fr": "Explorez Le Touquet sur deux roues, en partant du phare historique jusqu'au vaste parc naturel de la Baie de Canche. Pédalez devant l'élégant hippodrome et à travers les avenues ombragées bordées de magnifiques villas forestières.\n\nProfitez de la balade le long de la promenade de bord de mer avant de terminer la journée dans un café chaleureux du centre-ville."
       },
       "gastro_picks": {
         "de": [
@@ -901,6 +971,12 @@
           {
             "name": "Chez Perard",
             "tip": "Famous fish soup."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Chez Perard",
+            "tip": "Célèbre soupe de poisson."
           }
         ]
       },
@@ -932,6 +1008,13 @@
             "tip": "Bird watching.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Baie de Canche",
+            "tip": "Observation des oiseaux.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -958,6 +1041,12 @@
             "name": "Bike Rental",
             "tip": "Rent a Touquet bike."
           }
+        ],
+        "fr": [
+          {
+            "name": "Location de vélos",
+            "tip": "Louez un vélo Touquetois."
+          }
         ]
       },
       "tips": {
@@ -976,6 +1065,10 @@
         "en": [
           "Use the marked cycle paths.",
           "A lock is essential."
+        ],
+        "fr": [
+          "Utilisez les pistes cyclables balisées.",
+          "Un antivol est indispensable."
         ]
       },
       "variants": {
@@ -1178,7 +1271,8 @@
             "de": "Starten Sie am Leuchtturm mit wasserfester Ausrüstung. Die Fahrt durch den Baie de Canche Park ist erfrischend, wenn man auf die Pfützen achtet.\n\nMittags bietet das Hippodrom einen interessanten Blickfang, bevor es in den Wald geht. Die Villen unter Pinien bieten Schutz vor stärkeren Güssen.\n\nNachmittags rollen Sie entlang der Strandpromenade, wobei der Wind die Regentropfen wegweht. Es ist eine belebende Fahrt für wetterfeste Radler.\n\nDer Tag endet bei einem Kaffee im Zentrum. Das Abstellen der Räder ist unkompliziert, und die Wärme der Innenräume ist nach der Fahrt besonders willkommen.",
             "hu": "Induljon a világítótoronytól vízálló felszerelésben. A Baie de Canche parkon átvezető út frissítő, ha ügyel a tócsákra.\n\nEbédidőben a Lóversenypálya látványa fogadja, mielőtt az erdőbe kanyarodna. A fenyők alatti villák védelmet nyújtanak a nagyobb záporoktól.\n\nDélután a tengerparti sétányon gurulhat, ahol a szél elfújja az esőcseppeket. Életerővel teli túra ez a kitartó bringásoknak.\n\nA nap egy belvárosi kávézóban zárul. A biciklik leparkolása gyors, a belső terek melege pedig különösen jól esik a tekerés után.",
             "ro": "Porniți de la far echipat cu haine impermeabile. Traseul prin parcul Baie de Canche este revigorant dacă evitați bălțile mari.\n\nLa prânz, Hipodromul oferă o priveliște interesantă înainte de a intra în pădure. Vilele sub pini oferă un adăpost natural contra ploii.\n\nDupă-amiaza, pedalați pe faleză, unde vântul alungă picăturile de ploaie. Este o cursă energizantă pentru bicicliștii rezistenți.\n\nZiua se încheie cu o cafea în centru. Parcarea bicicletelor este simplă, iar căldura interiorului este binevenită după traseu.",
-            "en": "Start at the lighthouse with full waterproof gear. The ride through Baie de Canche Park is refreshing if you watch out for puddles.\n\nAt noon, pass the Hippodrome before heading into the forest. The villas sheltered by pines offer protection from heavier downpours.\n\nIn the afternoon, cruise along the beach promenade where the wind blows the raindrops away. It’s an invigorating ride for hardy cyclists.\n\nEnd the day with a coffee in the center. Parking the bikes is easy, and the warmth of the café is especially welcome after the ride."
+            "en": "Start at the lighthouse with full waterproof gear. The ride through Baie de Canche Park is refreshing if you watch out for puddles.\n\nAt noon, pass the Hippodrome before heading into the forest. The villas sheltered by pines offer protection from heavier downpours.\n\nIn the afternoon, cruise along the beach promenade where the wind blows the raindrops away. It’s an invigorating ride for hardy cyclists.\n\nEnd the day with a coffee in the center. Parking the bikes is easy, and the warmth of the café is especially welcome after the ride.",
+            "fr": "Partez du phare avec un équipement imperméable complet. La promenade dans le parc de la Baie de Canche est rafraîchissante si vous faites attention aux flaques d'eau.\n\nÀ midi, passez devant l'Hippodrome avant de vous enfoncer dans la forêt. Les villas abritées par les pins offrent une protection contre les fortes averses.\n\nL'après-midi, longez la promenade de la plage où le vent chasse les gouttes de pluie. C'est une balade tonifiante pour les cyclistes courageux.\n\nTerminez la journée avec un café dans le centre. Garer les vélos est facile, et la chaleur du café est particulièrement bienvenue après la route."
           },
           "stops": [
             {
@@ -1187,7 +1281,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, da nasse Straßen rutschig sein können.",
                 "hu": "Ellenőrizze a fékeket, mert a vizes út csúszós lehet.",
                 "ro": "Verificați frânele, deoarece drumurile ude pot fi alunecoase.",
-                "en": "Check your brakes, as wet roads can be slippery."
+                "en": "Check your brakes, as wet roads can be slippery.",
+                "fr": "Vérifiez vos freins, car les routes mouillées peuvent être glissantes."
               }
             },
             {
@@ -1196,7 +1291,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
                 "hu": "Maradjon a szilárd utakon, hogy elkerülje a sarat.",
                 "ro": "Rămâneți pe potecile pavate pentru a evita noroiul.",
-                "en": "Stick to the paved paths to avoid getting muddy."
+                "en": "Stick to the paved paths to avoid getting muddy.",
+                "fr": "Restez sur les sentiers pavés pour éviter de vous salir."
               }
             },
             {
@@ -1205,7 +1301,8 @@
                 "de": "Ein schneller Halt für Fotos; die Tribünen bieten kurzen Schutz.",
                 "hu": "Gyors megálló fotózni; a lelátók rövid menedéket adnak.",
                 "ro": "O oprire rapidă pentru poze; tribunele oferă adăpost scurt.",
-                "en": "A quick stop for photos; the stands offer brief shelter."
+                "en": "A quick stop for photos; the stands offer brief shelter.",
+                "fr": "Un arrêt rapide pour les photos ; les tribunes offrent un bref abri."
               }
             },
             {
@@ -1214,7 +1311,8 @@
                 "de": "Vorsicht vor nassen Tannennadeln, sie können glatt sein.",
                 "hu": "Vigyázzon a vizes fenyőtűkre, mert nagyon csúszhatnak.",
                 "ro": "Atenție la acele de pin ude, pot fi extrem de alunecoase.",
-                "en": "Be careful with wet pine needles, they can be very slippery."
+                "en": "Be careful with wet pine needles, they can be very slippery.",
+                "fr": "Attention aux aiguilles de pin mouillées, elles peuvent être très glissantes."
               }
             },
             {
@@ -1223,7 +1321,8 @@
                 "de": "Der Wind kommt meist von der Seite; festen Griff behalten.",
                 "hu": "A szél többnyire oldalról fúj; fogja erősen a kormányt.",
                 "ro": "Vântul vine de obicei din lateral; țineți bine ghidonul.",
-                "en": "The wind usually comes from the side; keep a firm grip."
+                "en": "The wind usually comes from the side; keep a firm grip.",
+                "fr": "Le vent vient généralement de côté ; tenez fermement le guidon."
               }
             },
             {
@@ -1232,7 +1331,8 @@
                 "de": "Nutzen Sie Fahrradständer mit Überdachung, falls vorhanden.",
                 "hu": "Használja a fedett kerékpártárolókat, ha talál ilyet.",
                 "ro": "Folosiți suporturile de biciclete acoperite dacă sunt disponibile.",
-                "en": "Use covered bike racks if available to keep your seat dry."
+                "en": "Use covered bike racks if available to keep your seat dry.",
+                "fr": "Utilisez des porte-vélos couverts si disponibles pour garder votre selle au sec."
               }
             }
           ],
@@ -1260,6 +1360,12 @@
               "Avoid braking on wet road markings as they become slick.",
               "A waterproof bag will keep your valuables dry during the ride.",
               "Le Touquet offers many bike paths that remain accessible in the rain."
+            ],
+            "fr": [
+              "Les garde-boue sont un accessoire essentiel par ce temps.",
+              "Évitez de freiner sur les marquages au sol mouillés car ils deviennent glissants.",
+              "Un sac étanche gardera vos objets de valeur au sec pendant la balade.",
+              "Le Touquet propose de nombreuses pistes cyclables qui restent accessibles sous la pluie."
             ]
           }
         },
@@ -1268,7 +1374,8 @@
             "de": "Frühmorgens geht es zum Leuchtturm, wenn der Frost noch auf den Gräsern liegt. Die Fahrt durch den Baie de Canche Park ist klar und ruhig.\n\nMittags erreichen Sie das Hippodrom; die kühle Luft hält wach und konzentriert. Der Villen-Rundgang im Wald zeigt die Architektur ohne störendes Laub.\n\nNachmittags radeln Sie an der Promenade, während die Sonne bereits tief steht. Die goldene Stunde am Meer ist im Winter besonders kurz und kostbar.\n\nZum Aufwärmen steuern Sie ein Café im Zentrum an. Geben Sie die Räder rechtzeitig zurück, bevor es gegen 17:30 Uhr ganz dunkel wird.",
             "hu": "Kora reggel induljon a világítótoronyhoz, amikor még dér fedi a füvet. A Baie de Canche parkon átvezető út ilyenkor tiszta és csendes.\n\nEbédidőben éri el a Lóversenypályát; a hűvös levegő frissen tartja. Az erdei villatúra során a lombok nélkül jobban érvényesül az építészet.\n\nDélután a sétányon tekerhet, miközben a nap már alacsonyan jár. Az aranyóra a tengerparton télen különösen rövid és értékes.\n\nBemelegítésként keressen fel egy belvárosi kávézót. A bicikliket időben adja le, mielőtt 17:30 körül teljesen besötétedik.",
             "ro": "Dimineața devreme porniți spre far, când bruma încă acoperă iarba. Traseul prin parcul Baie de Canche este clar și liniștit iarna.\n\nLa prânz ajungeți la Hipodrom; aerul rece vă menține alert și concentrat. Turul vilelor din pădure dezvăluie arhitectura fără frunzișul dens.\n\nDupă-amiaza pedalați pe faleză în timp ce soarele este deja jos. Ora de aur la malul mării este extrem de scurtă și prețioasă iarna.\n\nPentru încălzire, mergeți la o cafenea în centru. Returnați bicicletele la timp, înainte de a se întuneca complet pe la 17:30.",
-            "en": "Head to the lighthouse early in the morning when frost still covers the grass. The ride through Baie de Canche Park is crisp and quiet.\n\nReach the Hippodrome at noon; the cool air keeps you sharp and focused. The forest villa tour shows the architecture clearly without the summer foliage.\n\nIn the afternoon, cycle along the promenade as the sun hangs low. The golden hour at the sea is particularly short and precious in winter.\n\nWarm up at a café in the town center. Make sure to return your bikes on time before it gets completely dark around 5:30 PM."
+            "en": "Head to the lighthouse early in the morning when frost still covers the grass. The ride through Baie de Canche Park is crisp and quiet.\n\nReach the Hippodrome at noon; the cool air keeps you sharp and focused. The forest villa tour shows the architecture clearly without the summer foliage.\n\nIn the afternoon, cycle along the promenade as the sun hangs low. The golden hour at the sea is particularly short and precious in winter.\n\nWarm up at a café in the town center. Make sure to return your bikes on time before it gets completely dark around 5:30 PM.",
+            "fr": "Dirigez-vous vers le phare tôt le matin quand le givre recouvre encore l'herbe. La balade dans le parc de la Baie de Canche est vivifiante et paisible.\n\nAtteignez l'Hippodrome à midi ; l'air frais vous garde alerte et concentré. Le tour des villas en forêt permet de voir clairement l'architecture sans le feuillage estival.\n\nL'après-midi, pédalez le long de la promenade alors que le soleil est bas. L'heure dorée au bord de la mer est particulièrement courte et précieuse en hiver.\n\nRéchauffez-vous dans un café du centre-ville. Assurez-vous de rendre vos vélos à temps avant qu'il ne fasse complètement nuit vers 17h30."
           },
           "stops": [
             {
@@ -1277,7 +1384,8 @@
                 "de": "Warme Handschuhe sind für die Fahrt am Morgen unerlässlich.",
                 "hu": "A meleg kesztyű elengedhetetlen a reggeli tekeréshez.",
                 "ro": "Mănușile groase sunt esențiale pentru tura de dimineață.",
-                "en": "Warm gloves are essential for the early morning ride."
+                "en": "Warm gloves are essential for the early morning ride.",
+                "fr": "Des gants chauds sont essentiels pour la balade matinale."
               }
             },
             {
@@ -1286,7 +1394,8 @@
                 "de": "Achten Sie auf Raureif auf den Wegen; es kann glatt sein.",
                 "hu": "Ügyeljen a zúzmarára az utakon; helyenként csúszós lehet.",
                 "ro": "Atenție la chiciura de pe poteci; poate fi alunecos.",
-                "en": "Watch out for hoarfrost on the paths; it can be slippery."
+                "en": "Watch out for hoarfrost on the paths; it can be slippery.",
+                "fr": "Attention au givre sur les sentiers ; cela peut être glissant."
               }
             },
             {
@@ -1295,7 +1404,8 @@
                 "de": "Die weite Fläche ist im Winter oft windig; Kälteschutz nutzen.",
                 "hu": "A nyílt terep télen szeles; használjon arcvédő sálat.",
                 "ro": "Zona deschisă este adesea vântoasă; folosiți protecție.",
-                "en": "The open area is often windy in winter; use face protection."
+                "en": "The open area is often windy in winter; use face protection.",
+                "fr": "La zone dégagée est souvent venteuse en hiver ; utilisez une protection faciale."
               }
             },
             {
@@ -1304,7 +1414,8 @@
                 "de": "Genießen Sie den freien Blick auf die Villen ohne Blätter.",
                 "hu": "Élvezze a villákra nyíló szabad kilátást lombok nélkül.",
                 "ro": "Bucurați-vă de vederea clară spre vile fără frunziș.",
-                "en": "Enjoy the clear views of the villas without summer leaves."
+                "en": "Enjoy the clear views of the villas without summer leaves.",
+                "fr": "Profitez d'une vue dégagée sur les villas sans les feuilles d'été."
               }
             },
             {
@@ -1313,7 +1424,8 @@
                 "de": "Das Licht für Fotos ist kurz vor Sonnenuntergang am besten.",
                 "hu": "A fotózáshoz a fény közvetlenül naplemente előtt a legjobb.",
                 "ro": "Lumina pentru fotografii este cea mai bună înainte de apus.",
-                "en": "The light for photos is best just before the early sunset."
+                "en": "The light for photos is best just before the early sunset.",
+                "fr": "La lumière pour les photos est meilleure juste avant le coucher de soleil précoce."
               }
             },
             {
@@ -1322,7 +1434,8 @@
                 "de": "Ein heißer Punsch oder Tee hilft, die Glieder zu lockern.",
                 "hu": "Egy forró puncs vagy tea segít ellazítani a végtagokat.",
                 "ro": "Un punci sau un ceai fierbinte vă va ajuta să vă dezmorțiți.",
-                "en": "A hot punch or tea will help loosen up your cold limbs."
+                "en": "A hot punch or tea will help loosen up your cold limbs.",
+                "fr": "Un punch chaud ou un thé aidera à détendre vos membres engourdis par le froid."
               }
             }
           ],
@@ -1350,6 +1463,12 @@
               "Ensure your bike lights are working perfectly for the early dusk.",
               "Drink enough water during the tour, even in cold weather.",
               "Plan more time for breaks in heated indoor spaces."
+            ],
+            "fr": [
+              "Habillez-vous en plusieurs couches pour vous protéger du vent d'hiver.",
+              "Assurez-vous que l'éclairage de votre vélo fonctionne parfaitement pour le crépuscule précoce.",
+              "Buvez suffisamment d'eau pendant le tour, même par temps froid.",
+              "Prévoyez plus de temps pour des pauses dans des espaces intérieurs chauffés."
             ]
           }
         }
@@ -1383,7 +1502,8 @@
             "de": "Großer Parkplatz vorhanden.",
             "hu": "Nagy parkoló áll rendelkezésre.",
             "ro": "Parcare mare disponibilă.",
-            "en": "Large parking available."
+            "en": "Large parking available.",
+            "fr": "Grand parking disponible."
           }
         },
         {
@@ -1406,7 +1526,8 @@
             "de": "Authentisches Flair.",
             "hu": "Autentikus hangulat.",
             "ro": "Atmosferă autentică.",
-            "en": "Authentic flair."
+            "en": "Authentic flair.",
+            "fr": "Ambiance authentique."
           }
         },
         {
@@ -1429,7 +1550,8 @@
             "de": "Frischester Fisch.",
             "hu": "Legfrissebb hal.",
             "ro": "Pește foarte proaspăt.",
-            "en": "Freshest fish."
+            "en": "Freshest fish.",
+            "fr": "Poisson très frais."
           }
         },
         {
@@ -1452,7 +1574,8 @@
             "de": "Wahrzeichen der Stadt.",
             "hu": "A város jelképe.",
             "ro": "Simbolul orașului.",
-            "en": "Landmark of the city."
+            "en": "Landmark of the city.",
+            "fr": "Emblème de la ville."
           }
         },
         {
@@ -1475,7 +1598,8 @@
             "de": "Prachtvolle Anwesen.",
             "hu": "Pompás birtokok.",
             "ro": "Domenii magnifice.",
-            "en": "Magnificent estates."
+            "en": "Magnificent estates.",
+            "fr": "Magnifiques propriétés."
           }
         },
         {
@@ -1498,7 +1622,8 @@
             "de": "Perfekter Abschluss.",
             "hu": "Tökéletes befejezés.",
             "ro": "Final perfect.",
-            "en": "Perfect finish."
+            "en": "Perfect finish.",
+            "fr": "Fin de journée parfaite."
           }
         }
       ],
@@ -1506,7 +1631,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Baie de Canche und den benachbarten Fischerhafen Étaples, wo Sie authentisches maritimes Flair genießen können. Nach einem frischen Fisch-Mittagessen kehren Sie nach Le Touquet zurück.\n\nBesuchen Sie den Leuchtturm und fahren Sie durch die exklusiven Villenviertel am Golfplatz. Den späten Nachmittag verbringen Sie entspannt am weiten Sandstrand von Paris-Plage.",
         "hu": "Autóval kényelmesen elérheti a Baie de Canche-t és a szomszédos Étaples halászkikötőt, ahol autentikus tengeri hangulatot élvezhet. Egy friss halas ebéd után térjen vissza Le Touquet-ba.\n\nLátogasson el a világítótoronyhoz, és autózzon át a golfpálya melletti exkluzív villanegyedeken. A késő délutánt töltse pihenéssel a Paris-Plage hatalmas homokos strandján.",
         "ro": "Cu mașina puteți ajunge ușor la Baie de Canche și la portul pescăresc vecin Étaples, unde vă puteți bucura de o atmosferă maritimă autentică. După un prânz cu pește proaspăt, reveniți în Le Touquet.\n\nVizitați farul și conduceți prin cartierele exclusiviste de vile de lângă terenul de golf. Petreceți după-amiaza târziu relaxându-vă pe plaja întinsă cu nisip din Paris-Plage.",
-        "en": "By car, you can easily reach the Baie de Canche and the neighboring fishing port of Étaples, where you can enjoy authentic maritime flair. After a fresh fish lunch, return to Le Touquet.\n\nVisit the lighthouse and drive through the exclusive villa districts by the golf course. Spend the late afternoon relaxing on the vast sandy beach of Paris-Plage."
+        "en": "By car, you can easily reach the Baie de Canche and the neighboring fishing port of Étaples, where you can enjoy authentic maritime flair. After a fresh fish lunch, return to Le Touquet.\n\nVisit the lighthouse and drive through the exclusive villa districts by the golf course. Spend the late afternoon relaxing on the vast sandy beach of Paris-Plage.",
+        "fr": "En voiture, vous pouvez facilement rejoindre la Baie de Canche et le port de pêche voisin d'Étaples, où vous pourrez profiter d'une ambiance maritime authentique. Après un déjeuner de poisson frais, retournez au Touquet.\n\nVisitez le phare et traversez les quartiers de villas exclusifs près du golf. Passez la fin d'après-midi à vous détendre sur la vaste plage de sable de Paris-Plage."
       },
       "gastro_picks": {
         "de": [
@@ -1531,6 +1657,12 @@
           {
             "name": "Aux Pêcheurs d'Étaples",
             "tip": "Right by the harbor."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Aux Pêcheurs d'Étaples",
+            "tip": "Juste à côté du port."
           }
         ]
       },
@@ -1562,6 +1694,13 @@
             "tip": "Quiet forest location.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Forêt du Golf",
+            "tip": "Emplacement forestier calme.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1588,6 +1727,12 @@
             "name": "Étaples Fish Market",
             "tip": "Freshest catch."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché aux poissons d'Étaples",
+            "tip": "La pêche la plus fraîche."
+          }
         ]
       },
       "tips": {
@@ -1606,6 +1751,10 @@
         "en": [
           "Parking in the center is often paid.",
           "Watch out for one-way streets."
+        ],
+        "fr": [
+          "Le stationnement au centre est souvent payant.",
+          "Attention aux rues à sens unique."
         ]
       },
       "variants": {
@@ -1808,7 +1957,8 @@
             "de": "Fahren Sie morgens entspannt zum Baie de Canche; der Regen stört im Auto nicht. Danach geht es zum Fischerhafen von Étaples, wo man das Treiben beobachten kann.\n\nMittags genießen Sie die regionale Küche in Étaples, während es draußen prasselt. Der Leuchtturm ist der nächste Halt, bequem erreichbar trotz Schauern.\n\nNachmittags erkunden Sie die Villen in der Avenue du Golf vom trockenen Fahrzeug aus. Die Architektur wirkt auch durch die Windschutzscheibe beeindruckend.\n\nDer Tag endet am Strand von Le Touquet. Parken Sie nah an der Promenade und genießen Sie den Blick auf die tosende See, ohne nass zu werden.",
             "hu": "Reggel kényelmesen hajtson a Baie de Canche-hoz; az autóban nem zavarja az eső. Ezután látogasson el Étaples halászkikötőjébe a friss fogásokért.\n\nEbédeljen Étaples-ben, miközben kint dobol az eső. A világítótorony a következő állomás, amely záporok idején is könnyen megközelíthető.\n\nDélután az Avenue du Golf villáit fedezheti fel a száraz utastérből. Az építészet a szélvédőn keresztül is lenyűgöző látványt nyújt.\n\nA nap a tengerparton zárul. Parkoljon közel a sétányhoz, és élvezze a háborgó tenger látványát anélkül, hogy bőrig ázna.",
             "ro": "Conduceți relaxat dimineața spre Baie de Canche; ploaia nu deranjează în mașină. Apoi mergeți în portul de pescuit Étaples pentru atmosfera locală.\n\nLa prânz savurați bucătăria regională în Étaples, în timp ce afară plouă. Farul este următoarea oprire, accesibil confortabil în ciuda vremii.\n\nDupă-amiaza explorați vilele de pe Avenue du Golf din habitaclul uscat. Arhitectura este impresionantă chiar și prin parbrizul mașinii.\n\nZiua se încheie pe plaja din Le Touquet. Parcați aproape de faleză și admirați marea agitată fără a vă uda deloc.",
-            "en": "Drive comfortably in the morning to Baie de Canche; the rain won't bother you inside. Then head to the Étaples fishing port to watch the local bustle.\n\nEnjoy regional cuisine in Étaples for lunch while the rain drums outside. The lighthouse is the next stop, easily reachable despite the showers.\n\nIn the afternoon, explore the villas on Avenue du Golf from the dryness of your car. The architecture looks impressive even through the windshield.\n\nEnd the day at Le Touquet beach. Park close to the promenade and enjoy the view of the roaring sea without getting wet."
+            "en": "Drive comfortably in the morning to Baie de Canche; the rain won't bother you inside. Then head to the Étaples fishing port to watch the local bustle.\n\nEnjoy regional cuisine in Étaples for lunch while the rain drums outside. The lighthouse is the next stop, easily reachable despite the showers.\n\nIn the afternoon, explore the villas on Avenue du Golf from the dryness of your car. The architecture looks impressive even through the windshield.\n\nEnd the day at Le Touquet beach. Park close to the promenade and enjoy the view of the roaring sea without getting wet.",
+            "fr": "Conduisez confortablement le matin vers la Baie de Canche ; la pluie ne vous dérangera pas à l'intérieur. Dirigez-vous ensuite vers le port de pêche d'Étaples pour observer l'agitation locale.\n\nDégustez une cuisine régionale à Étaples pour le déjeuner pendant que la pluie tambourine dehors. Le phare est l'étape suivante, facilement accessible malgré les averses.\n\nL'après-midi, explorez les villas de l'avenue du Golf depuis le confort de votre voiture. L'architecture est impressionnante même à travers le pare-brise.\n\nTerminez la journée à la plage du Touquet. Garez-vous près de la promenade et profitez de la vue sur la mer déchaînée sans vous mouiller."
           },
           "stops": [
             {
@@ -1817,7 +1967,8 @@
                 "de": "Parken Sie am Eingang für einen kurzen Blick auf das Panorama.",
                 "hu": "Parkoljon a bejáratnál egy gyors panorámás pillantásért.",
                 "ro": "Parcați la intrare pentru o privire rapidă asupra panoramei.",
-                "en": "Park near the entrance for a quick look at the panorama."
+                "en": "Park near the entrance for a quick look at the panorama.",
+                "fr": "Garez-vous près de l'entrée pour un aperçu rapide du panorama."
               }
             },
             {
@@ -1826,7 +1977,8 @@
                 "de": "Der Fischmarkt ist überdacht und ein tolles Regen-Ziel.",
                 "hu": "A halpiac fedett, így kiváló célpont esős időben is.",
                 "ro": "Piața de pește este acoperită și o destinație excelentă pe ploaie.",
-                "en": "The fish market is covered, making it a great rainy-day goal."
+                "en": "The fish market is covered, making it a great rainy-day goal.",
+                "fr": "Le marché aux poissons est couvert, ce qui en fait un excellent but par temps de pluie."
               }
             },
             {
@@ -1835,7 +1987,8 @@
                 "de": "Es gibt viele Parkplätze direkt vor den Restaurants.",
                 "hu": "Számos parkolóhely található közvetlenül az éttermek előtt.",
                 "ro": "Există multe locuri de parcare chiar în fața restaurantelor.",
-                "en": "There are plenty of parking spots right in front of the restaurants."
+                "en": "There are plenty of parking spots right in front of the restaurants.",
+                "fr": "Il y a de nombreuses places de parking juste devant les restaurants."
               }
             },
             {
@@ -1844,7 +1997,8 @@
                 "de": "Ideal für einen schnellen Fotostopp direkt vom Parkplatz.",
                 "hu": "Ideális egy gyors fotómegállóhoz közvetlenül a parkolóból.",
                 "ro": "Ideal pentru o oprire foto rapidă direct din parcare.",
-                "en": "Ideal for a quick photo stop directly from the parking lot."
+                "en": "Ideal for a quick photo stop directly from the parking lot.",
+                "fr": "Idéal pour un arrêt photo rapide directement depuis le parking."
               }
             },
             {
@@ -1853,7 +2007,8 @@
                 "de": "Eine gemütliche Rundfahrt durch die Alleen im Trockenen.",
                 "hu": "Kellemes körutazás az utcákon át a száraz utastérben.",
                 "ro": "O plimbare plăcută prin alei în interiorul mașinii.",
-                "en": "A cozy drive through the avenues from the dry interior."
+                "en": "A cozy drive through the avenues from the dry interior.",
+                "fr": "Une promenade agréable à travers les avenues depuis l'intérieur sec."
               }
             },
             {
@@ -1862,7 +2017,8 @@
                 "de": "Genießen Sie den Meerblick aus dem Auto bei Meeresrauschen.",
                 "hu": "Élvezze a tengeri kilátást az autóból a hullámzást hallgatva.",
                 "ro": "Admirați marea din mașină ascultând zgomotul valurilor.",
-                "en": "Enjoy the sea view from the car while listening to the waves."
+                "en": "Enjoy the sea view from the car while listening to the waves.",
+                "fr": "Profitez de la vue sur la mer depuis la voiture en écoutant les vagues."
               }
             }
           ],
@@ -1890,6 +2046,12 @@
               "Use the beach parking lots for the best views while staying dry.",
               "Avoid deep puddles on forest-adjacent roads during heavy rain.",
               "Keep a microfiber cloth handy to clear fogged-up windows."
+            ],
+            "fr": [
+              "Vérifiez l'état de vos essuie-glaces avant de commencer le voyage.",
+              "Utilisez les parkings de la plage pour avoir les meilleures vues tout en restant au sec.",
+              "Évitez les flaques d'eau profondes sur les routes de forêt pendant les fortes pluies.",
+              "Gardez un chiffon en microfibre à portée de main pour essuyer la buée sur les vitres."
             ]
           }
         },
@@ -1898,7 +2060,8 @@
             "de": "Starten Sie am frostigen Morgen bequem mit Sitzheizung Richtung Baie de Canche. Danach führt die kurze Fahrt nach Étaples zum lebhaften Hafen.\n\nMittags wärmen Sie sich in einem Restaurant in Étaples bei regionalen Spezialitäten auf. Der Leuchtturm glänzt in der klaren Winterluft am Nachmittag.\n\nNachmittags fahren Sie entlang der Avenue du Golf und bewundern die historischen Villen. Das warme Licht der Wintersonne ist ideal für Architekturfotos.\n\nDer Tag endet am Strand von Le Touquet. Erleben Sie den spektakulären Sonnenuntergang gegen 17:00 Uhr direkt aus dem gewärmten Auto heraus.",
             "hu": "Induljon a fagyos reggelen kényelmesen, ülésfűtéssel a Baie de Canche felé. Ezután egy rövid autózás viszi Étaples nyüzsgő kikötőjébe.\n\nEbédnél melegedjen fel egy étáples-i étteremben helyi specialitásokkal. A világítótorony délután ragyog a tiszta téli levegőben.\n\nDélután az Avenue du Golf mentén hajtson, megcsodálva a történelmi villákat. A téli nap meleg fénye ideális az építészeti fotókhoz.\n\nA nap a tengerparton zárul. Csodálja meg a látványos naplementét 17 óra körül közvetlenül a fűtött autóból.",
             "ro": "Porniți în dimineața geroasă confortabil, cu încălzirea în scaune, spre Baie de Canche. Apoi o scurtă cursă vă duce în portul plin de viață Étaples.\n\nLa prânz încălziți-vă într-un restaurant din Étaples cu specialități locale. Farul strălucește în aerul curat de iarnă după-amiaza.\n\nDupă-amiaza conduceți de-a lungul Avenue du Golf, admirând vilele istorice. Lumina caldă a soarelui este ideală pentru fotografii de arhitectură.\n\nZiua se încheie pe plaja din Le Touquet. Experimentați apusul spectaculos în jur de ora 17:00 direct din mașina încălzită.",
-            "en": "Start the frosty morning comfortably with seat heating towards Baie de Canche. Then, a short drive takes you to the lively Étaples harbor.\n\nWarm up with local specialties at a restaurant in Étaples for lunch. The lighthouse shines in the crisp winter air during the afternoon.\n\nIn the afternoon, drive along Avenue du Golf and admire the historic villas. The warm light of the winter sun is ideal for architectural photography.\n\nThe day ends at Le Touquet beach. Experience the spectacular sunset around 5 PM directly from the warmth of your car."
+            "en": "Start the frosty morning comfortably with seat heating towards Baie de Canche. Then, a short drive takes you to the lively Étaples harbor.\n\nWarm up with local specialties at a restaurant in Étaples for lunch. The lighthouse shines in the crisp winter air during the afternoon.\n\nIn the afternoon, drive along Avenue du Golf and admire the historic villas. The warm light of the winter sun is ideal for architectural photography.\n\nThe day ends at Le Touquet beach. Experience the spectacular sunset around 5 PM directly from the warmth of your car.",
+            "fr": "Commencez la matinée glaciale confortablement avec les sièges chauffants en direction de la Baie de Canche. Ensuite, un court trajet vous mène au port animé d'Étaples.\n\nRéchauffez-vous avec des spécialités locales dans un restaurant à Étaples pour le déjeuner. Le phare brille dans l'air frais de l'hiver pendant l'après-midi.\n\nL'après-midi, longez l'avenue du Golf et admirez les villas historiques. La lumière chaude du soleil d'hiver est idéale pour la photographie d'architecture.\n\nLa journée se termine à la plage du Touquet. Vivez le coucher de soleil spectaculaire vers 17h directement depuis la chaleur de votre voiture."
           },
           "stops": [
             {
@@ -1907,7 +2070,8 @@
                 "de": "Genießen Sie die klare Sicht über die Bucht vom Auto aus.",
                 "hu": "Élvezze a tiszta kilátást az öbölre az autóból.",
                 "ro": "Bucurați-vă de vederea clară spre golf din mașină.",
-                "en": "Enjoy the clear view over the bay from the car."
+                "en": "Enjoy the clear view over the bay from the car.",
+                "fr": "Profitez de la vue dégagée sur la baie depuis la voiture."
               }
             },
             {
@@ -1916,7 +2080,8 @@
                 "de": "Ein kurzer Gang zum Hafenbecken lohnt sich trotz Kälte.",
                 "hu": "Egy rövid séta a kikötőmedencéhez megéri a hideg ellenére is.",
                 "ro": "O scurtă plimbare spre port merită în ciuda frigului.",
-                "en": "A short walk to the harbor basin is worth it despite the cold."
+                "en": "A short walk to the harbor basin is worth it despite the cold.",
+                "fr": "Une courte promenade jusqu'au bassin du port vaut le coup malgré le froid."
               }
             },
             {
@@ -1925,7 +2090,8 @@
                 "de": "Parken Sie windgeschützt hinter Gebäuden, falls möglich.",
                 "hu": "Parkoljon szélvédett helyen az épületek mögött, ha lehet.",
                 "ro": "Parcați ferit de vânt în spatele clădirilor, dacă e posibil.",
-                "en": "Park in a wind-sheltered spot behind buildings if possible."
+                "en": "Park in a wind-sheltered spot behind buildings if possible.",
+                "fr": "Garez-vous dans un endroit à l'abri du vent derrière des bâtiments si possible."
               }
             },
             {
@@ -1934,7 +2100,8 @@
                 "de": "Die Anlage ist im Winter oft weniger besucht und sehr ruhig.",
                 "hu": "A környék télen kevésbé látogatott és nagyon csendes.",
                 "ro": "Zona este adesea mai puțin vizitată iarna și foarte liniștită.",
-                "en": "The area is often less crowded and very quiet in winter."
+                "en": "The area is often less crowded and very quiet in winter.",
+                "fr": "La zone est souvent moins fréquentée et très calme en hiver."
               }
             },
             {
@@ -1943,7 +2110,8 @@
                 "de": "Perfekt für eine gemütliche Sightseeing-Runde ohne Kälte.",
                 "hu": "Tökéletes egy kényelmes városnézéshez a hideg nélkül.",
                 "ro": "Perfect pentru un tur de vizitare relaxat, fără frig.",
-                "en": "Perfect for a cozy sightseeing loop without facing the cold."
+                "en": "Perfect for a cozy sightseeing loop without facing the cold.",
+                "fr": "Parfait pour une boucle touristique confortable sans affronter le froid."
               }
             },
             {
@@ -1952,7 +2120,8 @@
                 "de": "Stellen Sie das Auto in Richtung Westen für den Sonnenuntergang.",
                 "hu": "Állítsa az autót nyugati irányba a naplemente megtekintéséhez.",
                 "ro": "Poziționați mașina spre vest pentru a vedea apusul.",
-                "en": "Position your car facing west to catch the winter sunset."
+                "en": "Position your car facing west to catch the winter sunset.",
+                "fr": "Positionnez votre voiture face à l'ouest pour admirer le coucher de soleil d'hiver."
               }
             }
           ],
@@ -1980,6 +2149,12 @@
               "Ensure you have anti-freeze in your windshield washer fluid.",
               "Finding a parking spot at the beach is much easier in winter.",
               "Do not leave the engine idling unnecessarily while parked."
+            ],
+            "fr": [
+              "Attention aux plaques de verglas sur les petites routes forestières.",
+              "Assurez-vous d'avoir de l'antigel dans votre liquide lave-glace.",
+              "Trouver une place de parking à la plage est beaucoup plus facile en hiver.",
+              "Ne laissez pas le moteur tourner inutilement à l'arrêt."
             ]
           }
         }
@@ -2013,7 +2188,8 @@
             "de": "Nutzen Sie den Shuttle-Bus.",
             "hu": "Használja az ingajáratot.",
             "ro": "Folosiți autobuzul navetă.",
-            "en": "Use the shuttle bus."
+            "en": "Use the shuttle bus.",
+            "fr": "Utilisez la navette."
           }
         },
         {
@@ -2036,7 +2212,8 @@
             "de": "Zentraler Busstopp.",
             "hu": "Központi buszmegálló.",
             "ro": "Stație centrală de autobuz.",
-            "en": "Central bus stop."
+            "en": "Central bus stop.",
+            "fr": "Arrêt de bus central."
           }
         },
         {
@@ -2059,7 +2236,8 @@
             "de": "Fußläufig erreichbar.",
             "hu": "Gyalogosan elérhető.",
             "ro": "Accesibil pe jos.",
-            "en": "Accessible on foot."
+            "en": "Accessible on foot.",
+            "fr": "Accessible à pied."
           }
         },
         {
@@ -2082,7 +2260,8 @@
             "de": "Bus hält nah am Meer.",
             "hu": "A busz a tenger közelében áll meg.",
             "ro": "Autobuzul oprește aproape de mare.",
-            "en": "Bus stops near the sea."
+            "en": "Bus stops near the sea.",
+            "fr": "Arrêts de bus près de la mer."
           }
         },
         {
@@ -2105,7 +2284,8 @@
             "de": "Schöner Spaziergang zurück.",
             "hu": "Szép séta visszafelé.",
             "ro": "O plimbare frumoasă înapoi.",
-            "en": "Nice walk back."
+            "en": "Nice walk back.",
+            "fr": "Belle promenade pour le retour."
           }
         }
       ],
@@ -2113,7 +2293,8 @@
         "de": "Reisen Sie bequem mit dem Zug an und nutzen Sie den Shuttle-Bus ins Zentrum von Le Touquet. Besuchen Sie den überdachten Markt und die berühmte Rue Saint-Jean, bevor Sie einen langen Nachmittag am Strand verbringen.\n\nDer Leuchtturm ist ein Muss vor der Rückfahrt zum Bahnhof. Die lokalen Busse verbinden die wichtigsten Punkte der Stadt effizient.",
         "hu": "Érkezzen kényelmesen vonattal, és használja az ingajáratot Le Touquet központjába. Látogasson el a fedett piacra és a híres Rue Saint-Jean-ra, mielőtt egy hosszú délutánt töltene a strandon.\n\nA világítótorony kötelező látnivaló a vasútállomásra való visszatérés előtt. A helyi buszok hatékonyan kötik össze a város főbb pontjait.",
         "ro": "Sosiți confortabil cu trenul și folosiți autobuzul navetă către centrul orașului Le Touquet. Vizitați piața acoperită și celebra Rue Saint-Jean înainte de a petrece o după-amiază lungă pe plajă.\n\nFarul este un obiectiv obligatoriu înainte de întoarcerea la gară. Autobuzele locale conectează eficient principalele puncte ale orașului.",
-        "en": "Arrive comfortably by train and use the shuttle bus to the center of Le Touquet. Visit the covered market and the famous Rue Saint-Jean before spending a long afternoon on the beach.\n\nThe lighthouse is a must-see before returning to the station. Local buses efficiently connect the city's main points."
+        "en": "Arrive comfortably by train and use the shuttle bus to the center of Le Touquet. Visit the covered market and the famous Rue Saint-Jean before spending a long afternoon on the beach.\n\nThe lighthouse is a must-see before returning to the station. Local buses efficiently connect the city's main points.",
+        "fr": "Arrivez confortablement en train et utilisez la navette pour rejoindre le centre du Touquet. Visitez le marché couvert et la célèbre rue Saint-Jean avant de passer un long après-midi à la plage.\n\nLe phare est un incontournable avant de retourner à la gare. Les bus locaux relient efficacement les principaux points de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -2138,6 +2319,12 @@
           {
             "name": "Le Matisse",
             "tip": "Popular bistro in the center."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Matisse",
+            "tip": "Bistro populaire au centre."
           }
         ]
       },
@@ -2169,6 +2356,13 @@
             "tip": "Pure relaxation.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Cabines de plage",
+            "tip": "Détente pure.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -2195,6 +2389,12 @@
             "name": "Market Square",
             "tip": "Regional products."
           }
+        ],
+        "fr": [
+          {
+            "name": "Place du Marché",
+            "tip": "Produits régionaux."
+          }
         ]
       },
       "tips": {
@@ -2213,6 +2413,10 @@
         "en": [
           "Check the shuttle schedule.",
           "Tickets available from the driver."
+        ],
+        "fr": [
+          "Vérifiez les horaires des navettes.",
+          "Billets disponibles auprès du chauffeur."
         ]
       },
       "variants": {
@@ -2401,7 +2605,8 @@
             "de": "Starten Sie am Bahnhof Étaples-Le Touquet und nutzen Sie den Shuttle-Bus ins Zentrum. Die Markthalle ist der erste trockene Stopp des Tages.\n\nMittags schlendern Sie durch die Rue Saint-Jean, wo die Geschäfte Schutz bieten. Der Bus bringt Sie bequem in die Nähe des Strandes.\n\nNachmittags können Sie den Strandbesuch verkürzen und stattdessen die Aussicht aus dem Bus genießen. Das Licht am Meer ist bei Regen besonders silbrig.\n\nDer Leuchtturm ist per Bus gut erreichbar; ein kurzer Sprint zum Eingang genügt. Beenden Sie den Tag im Warmen, bevor der Zug zurück nach Hause fährt.",
             "hu": "Kezdje az Étaples-Le Touquet állomáson, és használja a transzferbuszt a központba. A fedett piac az első száraz állomás a nap folyamán.\n\nEbédidőben a Rue Saint-Jean-on sétálhat, ahol az üzletek védelmet nyújtanak. A busz kényelmesen elviszi a tengerpart közelébe.\n\nDélután lerövidítheti a parti sétát, és inkább a buszablakból élvezheti a kilátást. A tenger fénye esőben különösen ezüstös.\n\nA világítótorony busszal jól megközelíthető; egy rövid sprint a bejáratig elég. Zárja a napot egy meleg helyen a hazafelé tartó vonat előtt.",
             "ro": "Porniți din gara Étaples-Le Touquet și folosiți autobuzul spre centru. Piața acoperită este prima oprire uscată a zilei.\n\nLa prânz plimbați-vă pe Rue Saint-Jean, unde magazinele oferă adăpost. Autobuzul vă duce confortabil aproape de plajă.\n\nDupă-amiaza puteți scurta vizita pe plajă și să admirați priveliștea de la fereastra autobuzului. Lumina mării este argintie pe ploaie.\n\nFarul este ușor accesibil cu autobuzul; un sprint scurt până la intrare este suficient. Încheiați ziua la căldură înainte de trenul spre casă.",
-            "en": "Start at the Étaples-Le Touquet station and take the shuttle bus to the center. The covered market is your first dry stop of the day.\n\nAt noon, stroll along Rue Saint-Jean where shops provide cover. The bus conveniently takes you close to the beach area.\n\nIn the afternoon, you can shorten the beach walk and enjoy the view from the bus window instead. The sea light is particularly silvery in the rain.\n\nThe lighthouse is easily accessible by bus; a short sprint to the entrance is all it takes. End the day somewhere warm before your train home."
+            "en": "Start at the Étaples-Le Touquet station and take the shuttle bus to the center. The covered market is your first dry stop of the day.\n\nAt noon, stroll along Rue Saint-Jean where shops provide cover. The bus conveniently takes you close to the beach area.\n\nIn the afternoon, you can shorten the beach walk and enjoy the view from the bus window instead. The sea light is particularly silvery in the rain.\n\nThe lighthouse is easily accessible by bus; a short sprint to the entrance is all it takes. End the day somewhere warm before your train home.",
+            "fr": "Commencez à la gare d'Étaples-Le Touquet et prenez la navette pour le centre. Le marché couvert est votre premier arrêt au sec de la journée.\n\nÀ midi, flânez dans la rue Saint-Jean où les boutiques offrent un abri. Le bus vous dépose commodément près de la plage.\n\nL'après-midi, vous pouvez raccourcir la promenade sur la plage et profiter de la vue depuis la fenêtre du bus. La lumière de la mer est particulièrement argentée sous la pluie.\n\nLe phare est facilement accessible en bus ; un court sprint jusqu'à l'entrée suffit. Terminez la journée dans un endroit chaud avant votre train de retour."
           },
           "stops": [
             {
@@ -2410,7 +2615,8 @@
                 "de": "Warten Sie in der Bahnhofshalle auf den Shuttle-Bus.",
                 "hu": "Várjon az állomás várótermében a transzferbuszra.",
                 "ro": "Așteptați în holul gării autobuzul de transfer.",
-                "en": "Wait inside the station hall for the shuttle bus to arrive."
+                "en": "Wait inside the station hall for the shuttle bus to arrive.",
+                "fr": "Attendez la navette à l'intérieur du hall de la gare."
               }
             },
             {
@@ -2419,7 +2625,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus zu überbrücken.",
                 "hu": "Ideális hely az idő eltöltésére a következő buszig.",
                 "ro": "Un loc ideal pentru a aștepta următorul autobuz.",
-                "en": "An ideal place to pass the time until the next bus."
+                "en": "An ideal place to pass the time until the next bus.",
+                "fr": "Un endroit idéal pour passer le temps jusqu'au prochain bus."
               }
             },
             {
@@ -2428,7 +2635,8 @@
                 "de": "Die Bushaltestellen hier haben meist gute Überdachungen.",
                 "hu": "Az itteni buszmegállók többnyire jól fedettek.",
                 "ro": "Stațiile de autobuz de aici au de obicei copertine bune.",
-                "en": "The bus stops here usually have good overhead cover."
+                "en": "The bus stops here usually have good overhead cover.",
+                "fr": "Les arrêts de bus ici ont généralement une bonne protection au-dessus."
               }
             },
             {
@@ -2437,7 +2645,8 @@
                 "de": "Der Bus hält nur wenige Gehminuten von der Promenade entfernt.",
                 "hu": "A busz mindössze pár perc sétára áll meg a sétánytól.",
                 "ro": "Autobuzul oprește la doar câteva minute de mers de faleză.",
-                "en": "The bus stops just a few minutes' walk from the promenade."
+                "en": "The bus stops just a few minutes' walk from the promenade.",
+                "fr": "Le bus s'arrête à quelques minutes à pied de la promenade."
               }
             },
             {
@@ -2446,7 +2655,8 @@
                 "de": "Prüfen Sie den Fahrplan genau, um unnötiges Warten zu vermeiden.",
                 "hu": "Ellenőrizze pontosan a menetrendet a felesleges várakozás elkerülésére.",
                 "ro": "Verificați programul exact pentru a evita așteptarea inutilă.",
-                "en": "Check the schedule carefully to avoid waiting in the rain."
+                "en": "Check the schedule carefully to avoid waiting in the rain.",
+                "fr": "Vérifiez attentivement les horaires pour éviter d'attendre sous la pluie."
               }
             }
           ],
@@ -2474,6 +2684,12 @@
               "The 'Navette' shuttle buses are very practical in the center.",
               "Keep your ticket ready to board quickly and stay dry.",
               "Buses are often more crowded on rainy days, so plan accordingly."
+            ],
+            "fr": [
+              "Utilisez l'application de transport local pour obtenir des informations en temps réel sur les bus.",
+              "Les navettes sont très pratiques dans le centre.",
+              "Gardez votre billet prêt pour monter rapidement et rester au sec.",
+              "Les bus sont souvent plus bondés les jours de pluie, prévoyez en conséquence."
             ]
           }
         },
@@ -2482,7 +2698,8 @@
             "de": "Starten Sie am Morgen am Bahnhof Étaples-Le Touquet; der Shuttle bringt Sie direkt in das winterliche Stadtzentrum.\n\nMittags bietet die Rue Saint-Jean festliche Beleuchtung und Wärme in den Cafés. Mit dem Bus geht es weiter zum Strand für einen frischen Spaziergang.\n\nNachmittags ist die Fahrt entlang der Küste im beheizten Bus besonders angenehm. Genießen Sie die Aussicht auf die weite Nordsee im Winterlicht.\n\nDer Leuchtturm ist der letzte Halt, bevor Sie der Bus zurück zum Bahnhof bringt. Planen Sie die Rückfahrt vor Einbruch der frühen Dunkelheit ein.",
             "hu": "Kezdje a reggelt az Étaples-Le Touquet állomáson; a transzferbusz közvetlenül a téli városközpontba viszi.\n\nEbédidőben a Rue Saint-Jean ünnepi fényekkel és meleg kávézókkal várja. Busszal menjen tovább a tengerpartra egy frissítő sétára.\n\nDélután a fűtött buszból nézheti a tengerparti tájat. Élvezze az északi-tengeri kilátást a különleges téli fényekben.\n\nA világítótorony az utolsó állomás, mielőtt a busz visszavinné az állomásra. Tervezze a visszautat a korai sötétedés beállta előtt.",
             "ro": "Porniți dimineața din gara Étaples-Le Touquet; transferul vă duce direct în centrul orașului iernatic.\n\nLa prânz, Rue Saint-Jean oferă iluminat festiv și căldură în cafenele. Continuați cu autobuzul spre plajă pentru o plimbare revigorantă.\n\nDupă-amiaza, drumul de-a lungul coastei în autobuzul încălzit este foarte plăcut. Admirați Marea Nordului în lumina iernii.\n\nFarul este ultima oprire înainte ca autobuzul să vă ducă înapoi la gară. Planificați întoarcerea înainte de lăsarea întunericului.",
-            "en": "Start the morning at the Étaples-Le Touquet station; the shuttle takes you directly into the wintery town center.\n\nAt noon, Rue Saint-Jean offers festive lights and warmth in the local cafés. Take the bus to the beach for a fresh, brisk walk.\n\nIn the afternoon, the ride along the coast in a heated bus is particularly pleasant. Enjoy the view of the North Sea in the winter light.\n\nThe lighthouse is the last stop before the bus takes you back to the station. Plan your return trip before the early darkness sets in."
+            "en": "Start the morning at the Étaples-Le Touquet station; the shuttle takes you directly into the wintery town center.\n\nAt noon, Rue Saint-Jean offers festive lights and warmth in the local cafés. Take the bus to the beach for a fresh, brisk walk.\n\nIn the afternoon, the ride along the coast in a heated bus is particularly pleasant. Enjoy the view of the North Sea in the winter light.\n\nThe lighthouse is the last stop before the bus takes you back to the station. Plan your return trip before the early darkness sets in.",
+            "fr": "Commencez la matinée à la gare d'Étaples-Le Touquet ; la navette vous emmène directement dans le centre-ville hivernal.\n\nÀ midi, la rue Saint-Jean offre ses lumières festives et de la chaleur dans les cafés locaux. Prenez le bus vers la plage pour une promenade vivifiante et fraîche.\n\nL'après-midi, le trajet le long de la côte dans un bus chauffé est particulièrement agréable. Profitez de la vue sur la mer du Nord dans la lumière hivernale.\n\nLe phare est la dernière étape avant que le bus ne vous ramène à la gare. Prévoyez votre trajet de retour avant que l'obscurité ne s'installe tôt."
           },
           "stops": [
             {
@@ -2491,7 +2708,8 @@
                 "de": "Die Wartehalle ist im Winter beheizt und komfortabel.",
                 "hu": "Az állomás váróterme télen fűtött és kényelmes.",
                 "ro": "Sala de așteptare este încălzită și confortabilă iarna.",
-                "en": "The station waiting hall is heated and comfortable in winter."
+                "en": "The station waiting hall is heated and comfortable in winter.",
+                "fr": "Le hall d'attente de la gare est chauffé et confortable en hiver."
               }
             },
             {
@@ -2500,7 +2718,8 @@
                 "de": "Ein guter Ort, um sich zwischen zwei Busfahrten aufzuwärmen.",
                 "hu": "Jó hely a felmelegedésre két buszjárat között.",
                 "ro": "Un loc bun pentru a vă încălzi între două curse de autobuz.",
-                "en": "A good place to warm up between two bus rides."
+                "en": "A good place to warm up between two bus rides.",
+                "fr": "Un bon endroit pour se réchauffer entre deux trajets en bus."
               }
             },
             {
@@ -2509,7 +2728,8 @@
                 "de": "Genießen Sie die Weihnachtsbeleuchtung am späten Nachmittag.",
                 "hu": "Élvezze a karácsonyi kivilágítást késő délután.",
                 "ro": "Bucurați-vă de iluminatul festiv la sfârșitul după-amiezii.",
-                "en": "Enjoy the festive Christmas lights in the late afternoon."
+                "en": "Enjoy the festive Christmas lights in the late afternoon.",
+                "fr": "Profitez des illuminations de Noël en fin d'après-midi."
               }
             },
             {
@@ -2518,7 +2738,8 @@
                 "de": "Gehen Sie zügig zur Haltestelle zurück, um nicht auszukühlen.",
                 "hu": "Menjen vissza gyorsan a megállóba, hogy ne hűljön ki.",
                 "ro": "Mergeți rapid înapoi în stație pentru a nu vă răci.",
-                "en": "Return to the stop promptly to avoid getting too cold."
+                "en": "Return to the stop promptly to avoid getting too cold.",
+                "fr": "Retournez à l'arrêt à temps pour éviter d'avoir trop froid."
               }
             },
             {
@@ -2527,7 +2748,8 @@
                 "de": "Der letzte Bus zum Bahnhof fährt oft kurz nach Sonnenuntergang.",
                 "hu": "Az utolsó busz az állomásra gyakran naplemente után indul.",
                 "ro": "Ultimul autobuz spre gară pleacă adesea după apus.",
-                "en": "The last bus to the station often departs shortly after sunset."
+                "en": "The last bus to the station often departs shortly after sunset.",
+                "fr": "Le dernier bus pour la gare part souvent peu après le coucher du soleil."
               }
             }
           ],
@@ -2555,6 +2777,12 @@
               "Buses are usually well-heated and cozy during winter months.",
               "Wear a hat as it can be quite windy while waiting at stops.",
               "Plan to catch a bus before 6 PM to ensure you make your train."
+            ],
+            "fr": [
+              "Notez les horaires d'hiver légèrement modifiés pour les bus.",
+              "Les bus sont généralement bien chauffés et confortables pendant les mois d'hiver.",
+              "Portez un bonnet car il peut y avoir beaucoup de vent en attendant aux arrêts.",
+              "Prévoyez de prendre un bus avant 18h pour être sûr d'avoir votre train."
             ]
           }
         }

@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die goldenen Gitter von Jean Lamour am Morgen.",
             "hu": "Csodáld meg Jean Lamour aranyozott kovácsoltvas kapuit reggeli fényben.",
             "ro": "Admirați porțile aurite ale lui Jean Lamour în lumina dimineții.",
-            "en": "Admire Jean Lamour's gilded wrought-iron gates in the morning light."
+            "en": "Admire Jean Lamour's gilded wrought-iron gates in the morning light.",
+            "fr": "Admirez les grilles en fer forgé doré de Jean Lamour à la lumière du matin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besuchen Sie den Rosengarten und den kleinen Zoo im Park.",
             "hu": "Látogasd meg a rózsakertet és a park kis állatkertjét.",
             "ro": "Vizitați rozariul și mica grădină zoologică din interiorul parcului.",
-            "en": "Visit the rose garden and the small zoo inside the park."
+            "en": "Visit the rose garden and the small zoo inside the park.",
+            "fr": "Visitez la roseraie et le petit zoo à l'intérieur du parc."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Achten Sie auf die beeindruckenden Glasmalereien im Inneren.",
             "hu": "Figyeld meg a lenyűgöző színes üvegablakokat belül.",
             "ro": "Observați vitraliile impresionante din interiorul basilicii.",
-            "en": "Observe the impressive stained glass windows inside."
+            "en": "Observe the impressive stained glass windows inside.",
+            "fr": "Observez les impressionnants vitraux à l'intérieur."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Das Renaissance-Tor ist ein Meisterwerk der Steinmetzkunst.",
             "hu": "A reneszánsz kapu a kőfaragás igazi mesterműve.",
             "ro": "Poarta renascentistă este o capodoperă a sculpturii în piatră.",
-            "en": "The Renaissance portal is a masterpiece of stonework."
+            "en": "The Renaissance portal is a masterpiece of stonework.",
+            "fr": "Le portail Renaissance est un chef-d'œuvre de sculpture."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Das älteste Stadttor von Nancy aus dem 14. Jahrhundert.",
             "hu": "Nancy legrégebbi városkapuja a 14. századból.",
             "ro": "Cea mai veche poartă a orașului Nancy, datând din secolul XIV.",
-            "en": "The oldest city gate of Nancy, dating back to the 14th century."
+            "en": "The oldest city gate of Nancy, dating back to the 14th century.",
+            "fr": "La plus ancienne porte de Nancy, datant du XIVe siècle."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Genießen Sie die harmonische Symmetrie dieser UNESCO-Stätte.",
             "hu": "Élvezd az UNESCO világörökségi helyszín harmonikus szimmetriáját.",
             "ro": "Bucurați-vă de simetria armonioasă a acestui sit UNESCO.",
-            "en": "Enjoy the harmonious symmetry of this UNESCO World Heritage site."
+            "en": "Enjoy the harmonious symmetry of this UNESCO World Heritage site.",
+            "fr": "Appréciez la symétrie harmonieuse de ce site classé au patrimoine mondial de l'UNESCO."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Bewundern Sie die Barockfassade und die prächtige Orgel.",
             "hu": "Csodáld meg a barokk homlokzatot és a pompás orgonát.",
             "ro": "Admirați fațada barocă și orga magnifică.",
-            "en": "Admire the Baroque facade and the magnificent organ."
+            "en": "Admire the Baroque facade and the magnificent organ.",
+            "fr": "Admirez la façade baroque et le magnifique orgue."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Entdecken Sie das Herz von Nancy zu Fuß. Der Morgen beginnt am prachtvollen Place Stanislas, gefolgt von einem entspannten Spaziergang durch den Parc de la Pépinière. Mittags erkunden Sie die Gassen der Altstadt und den Herzogspalast. Am Nachmittag bewundern Sie die mittelalterliche Porte de la Craffe und beenden den Tag an der Kathedrale, umgeben von barocker Eleganz.",
         "hu": "Fedezze fel Nancy szívét gyalogosan. A reggel a pompás Place Stanislas téren indul, majd egy pihentető séta következik a Pépinière parkban. Délben az óváros szűk utcáit és a hercegi palotát fedezzük fel. Délután a középkori Porte de la Craffe kaput csodáljuk meg, a napot pedig a katedrálisnál zárjuk, barokk eleganciával körbevéve.",
         "ro": "Descoperiți inima orașului Nancy la pas. Dimineața începe în magnifica Piață Stanislas, urmată de o plimbare relaxantă în Parcul Pépinière. La prânz explorăm străduțele orașului vechi și Palatul Ducal. După-amiaza admirăm poarta medievală Craffe și încheiem ziua la catedrală, înconjurați de eleganța barocă.",
-        "en": "Discover the heart of Nancy on foot. The morning begins at the magnificent Place Stanislas, followed by a relaxing stroll through Parc de la Pépinière. At midday, explore the narrow streets of the Old Town and the Ducal Palace. In the afternoon, admire the medieval Porte de la Craffe and end the day at the cathedral, surrounded by Baroque elegance."
+        "en": "Discover the heart of Nancy on foot. The morning begins at the magnificent Place Stanislas, followed by a relaxing stroll through Parc de la Pépinière. At midday, explore the narrow streets of the Old Town and the Ducal Palace. In the afternoon, admire the medieval Porte de la Craffe and end the day at the cathedral, surrounded by Baroque elegance.",
+        "fr": "Découvrez le cœur de Nancy à pied. La matinée commence sur la magnifique Place Stanislas, suivie d'une promenade relaxante au Parc de la Pépinière. À midi, explorez les ruelles de la Vieille Ville et le Palais Ducal. L'après-midi, admirez la Porte de la Craffe médiévale et terminez la journée à la cathédrale, entourée d'élégance baroque."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Maison des Sœurs Macarons",
             "tip": "The famous Macarons de Nancy since 1793."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boulangerie Gwizdak",
+            "tip": "Goûtez l'authentique Quiche Lorraine."
+          },
+          {
+            "name": "Maison des Sœurs Macarons",
+            "tip": "Les célèbres Macarons de Nancy depuis 1793."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "A quiet, intimate square away from the crowds.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin Godron",
+            "tip": "Un jardin botanique pour une pause au calme.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Place de l'Alliance",
+            "tip": "Une place calme et intime à l'écart de la foule.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -281,6 +311,16 @@
             "name": "L'Échoppe de Stanislas",
             "tip": "Souvenirs and Bergamote candies."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché Central",
+            "tip": "Produits locaux et spécialités de Lorraine."
+          },
+          {
+            "name": "L'Échoppe de Stanislas",
+            "tip": "Souvenirs et bonbons à la Bergamote."
+          }
         ]
       },
       "tips": {
@@ -307,6 +347,12 @@
           "Consider buying a museum pass for better value.",
           "Place Stanislas is beautifully illuminated at night.",
           "Most sights are within easy walking distance."
+        ],
+        "fr": [
+          "Le centre-ville est plat et idéal pour les piétons.",
+          "Envisagez l'achat d'un pass musée pour un meilleur rapport qualité-prix.",
+          "La Place Stanislas est magnifiquement illuminée la nuit.",
+          "La plupart des sites sont facilement accessibles à pied."
         ]
       },
       "variants": {
@@ -548,7 +594,8 @@
             "de": "Der Morgen beginnt am Place Stanislas, wo der Regen die goldenen Tore zum Glänzen bringt. Ein kurzer Spaziergang führt durch den Pepinière-Park, dessen Alleen im Regen eine melancholische Schönheit entfalten.\n\nMittags suchen wir Zuflucht in der Basilika Saint-Epvre und im Herzogspalast, wo die dicken Mauern vor dem Wetter schützen. Die Geschichte Lothringens lässt sich hier im Trockenen erleben.\n\nAm Nachmittag führt der Weg unter den Bögen des Porte de la Craffe hindurch. Der Place de la Carrière wirkt im grauen Licht besonders elegant und weitläufig.\n\nDer Tag endet in der majestätischen Kathedrale von Nancy. Das sanfte Trommeln des Regens auf das Dach begleitet die Besichtigung des barocken Innenraums.",
             "hu": "A reggel a Place Stanislas-on indul, ahol az eső még fényesebbé teszi az aranyozott kapukat. Egy gyors séta a Pépinière parkban ilyenkor is frissítő, a vizes aszfalt tükrözi a város fényeit.\n\nDélben a Saint-Epvre bazilika és a lotharingiai hercegi palota nyújt menedéket. A belső terek gazdag díszítése elfeledteti a kinti barátságtalan időjárást.\n\nDélután a Porte de la Craffe boltívei alatt haladunk tovább, kihasználva a fedett részeket. A Place de la Carrière ilyenkor csendesebb, elegáns szürkeségbe öltözik.\n\nAz este a katedrálisban ér véget, ahol a gyertyák fénye barátságos menedéket nyújt. Az eső kopogása a kupolán különleges hangulatot áraszt.",
             "ro": "Dimineața începe în Place Stanislas, unde ploaia face porțile aurite să strălucească intens. O scurtă plimbare prin parcul Pépinière oferă o perspectivă melancolică asupra naturii urbane.\n\nLa prânz, bazilica Saint-Epvre și Palatul Ducilor de Lorena oferă adăpostul perfect. Istoria regiunii poate fi explorată în tihnă, departe de stropii de ploaie.\n\nDupă-amiaza continuă spre Porte de la Craffe, unde arcadele vechi oferă protecție. Place de la Carrière pare mai vastă și mai elegantă sub cerul plumburiu.\n\nSeara se încheie la Catedrala din Nancy, un refugiu spiritual și arhitectural. Sunetul ploii pe vitralii creează o atmosferă de liniște profundă.",
-            "en": "The morning starts at Place Stanislas, where the rain makes the gilded gates shimmer. A quick stroll through Parc de la Pépinière offers a refreshing perspective on the city's green heart.\n\nAt noon, Basilique Saint-Epvre and the Palace of the Dukes of Lorraine provide the perfect indoor refuge. Explore the rich history of Lorraine while staying completely dry.\n\nIn the afternoon, pass under the protective arches of Porte de la Craffe. Place de la Carrière takes on a quiet, elegant atmosphere under the grey sky.\n\nThe day concludes at the Nancy Cathedral, a peaceful sanctuary from the weather. The sound of rain on the roof adds a unique charm to the baroque interior."
+            "en": "The morning starts at Place Stanislas, where the rain makes the gilded gates shimmer. A quick stroll through Parc de la Pépinière offers a refreshing perspective on the city's green heart.\n\nAt noon, Basilique Saint-Epvre and the Palace of the Dukes of Lorraine provide the perfect indoor refuge. Explore the rich history of Lorraine while staying completely dry.\n\nIn the afternoon, pass under the protective arches of Porte de la Craffe. Place de la Carrière takes on a quiet, elegant atmosphere under the grey sky.\n\nThe day concludes at the Nancy Cathedral, a peaceful sanctuary from the weather. The sound of rain on the roof adds a unique charm to the baroque interior.",
+            "fr": "La matinée commence Place Stanislas, où la pluie fait scintiller les grilles dorées. Une courte promenade au Parc de la Pépinière offre une perspective rafraîchissante sur le poumon vert de la ville.\n\nÀ midi, la Basilique Saint-Epvre et le Palais des Ducs de Lorraine offrent un refuge intérieur parfait. Découvrez l'histoire riche de la Lorraine tout en restant au sec.\n\nL'après-midi, passez sous les arches protectrices de la Porte de la Craffe. La Place de la Carrière prend une atmosphère calme et élégante sous le ciel gris.\n\nLa journée s'achève à la Cathédrale de Nancy, un sanctuaire paisible à l'abri des intempéries. Le son de la pluie sur le toit ajoute un charme unique à l'intérieur baroque."
           },
           "stops": [
             {
@@ -557,7 +604,8 @@
                 "de": "Die Pfützen auf dem Pflaster spiegeln die Fassaden wunderschön wider.",
                 "hu": "A kövezeten megálló víz gyönyörűen tükrözi az épületeket.",
                 "ro": "Bălțile de pe pavaj reflectă superb fațadele clădirilor.",
-                "en": "The puddles on the pavement reflect the facades beautifully."
+                "en": "The puddles on the pavement reflect the facades beautifully.",
+                "fr": "Les flaques d'eau sur le sol reflètent magnifiquement les façades."
               }
             },
             {
@@ -566,7 +614,8 @@
                 "de": "Nutzen Sie die asphaltierten Wege, um Matsch zu vermeiden.",
                 "hu": "Használja az aszfaltozott utakat a sár elkerülése érdekében.",
                 "ro": "Folosiți aleile asfaltate pentru a evita noroiul.",
-                "en": "Stick to the paved paths to avoid the mud."
+                "en": "Stick to the paved paths to avoid the mud.",
+                "fr": "Restez sur les sentiers goudronnés pour éviter la boue."
               }
             },
             {
@@ -575,7 +624,8 @@
                 "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten.",
                 "hu": "Ideális helyszín egy nagyobb zápor átvészelésére.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale.",
-                "en": "An ideal spot to wait out a heavy downpour."
+                "en": "An ideal spot to wait out a heavy downpour.",
+                "fr": "Un endroit idéal pour attendre la fin d'une grosse averse."
               }
             },
             {
@@ -584,7 +634,8 @@
                 "de": "Die Ausstellungen im Innenraum sind komplett wetterfest.",
                 "hu": "A benti kiállítások teljesen védettek az időjárástól.",
                 "ro": "Expozițiile interioare sunt complet ferite de intemperii.",
-                "en": "The indoor exhibitions are completely weatherproof."
+                "en": "The indoor exhibitions are completely weatherproof.",
+                "fr": "Les expositions intérieures sont totalement à l'abri des intempéries."
               }
             },
             {
@@ -593,7 +644,8 @@
                 "de": "Die massiven Mauern bieten Schutz vor Wind und Regen.",
                 "hu": "A vastag falak védelmet nyújtanak a szél és az eső ellen.",
                 "ro": "Zidurile masive oferă protecție împotriva vântului și ploii.",
-                "en": "The massive walls offer shelter from wind and rain."
+                "en": "The massive walls offer shelter from wind and rain.",
+                "fr": "Les murs massifs offrent un abri contre le vent et la pluie."
               }
             },
             {
@@ -602,7 +654,8 @@
                 "de": "Vorsicht, das historische Pflaster kann bei Nässe glatt sein.",
                 "hu": "Vigyázat, a történelmi macskakő nedvesen csúszós lehet.",
                 "ro": "Atenție, pavajul istoric poate fi alunecos când este ud.",
-                "en": "Watch out, the historic cobblestones can be slippery when wet."
+                "en": "Watch out, the historic cobblestones can be slippery when wet.",
+                "fr": "Attention, les pavés historiques peuvent être glissants lorsqu'ils sont mouillés."
               }
             },
             {
@@ -611,7 +664,8 @@
                 "de": "Genießen Sie die Stille und die Wärme des Kerzenlichts.",
                 "hu": "Élvezze a csendet és a gyertyafény melegét.",
                 "ro": "Bucurați-vă de liniște și de căldura luminii lumânărilor.",
-                "en": "Enjoy the silence and the warmth of the candlelight."
+                "en": "Enjoy the silence and the warmth of the candlelight.",
+                "fr": "Appréciez le silence et la chaleur de la lueur des bougies."
               }
             }
           ],
@@ -643,6 +697,13 @@
               "Take advantage of the passages and arcades around the center.",
               "An umbrella is essential due to wind gusts in the open squares.",
               "Warm up with a local bergamot-flavored tea."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables pour les rues pavées de la vieille ville.",
+              "Les musées autour de la Place Stanislas sont des refuges parfaits les jours de pluie.",
+              "Profitez des passages et arcades autour du centre.",
+              "Un parapluie est indispensable en raison des rafales de vent sur les places ouvertes.",
+              "Réchauffez-vous avec un thé local aromatisé à la bergamote."
             ]
           }
         },
@@ -651,7 +712,8 @@
             "de": "Der frostige Morgen am Place Stanislas wird durch den großen Weihnachtsbaum erhellt. Die goldene Dekoration wirkt im Winterlicht besonders edel.\n\nMittags bietet der Pepinière-Park eine klare Luft für einen kurzen Spaziergang, bevor es in die warme Basilika Saint-Epvre geht. Die Ruhe des Winters liegt über der Stadt.\n\nAm Nachmittag erkunden wir den Herzogspalast, dessen dicke Mauern die Kälte draußen halten. Ein Besuch der Porte de la Craffe fühlt sich im Winter wie eine Zeitreise an.\n\nSobald die Dämmerung gegen 17:00 Uhr einsetzt, erstrahlt Nancy im Lichterglanz. Der Tag endet gemütlich in der Nähe der Kathedrale bei einem warmen Getränk.",
             "hu": "A fagyos reggelt a Place Stanislas-on a hatalmas karácsonyfa és az ünnepi fények teszik meleggé. Az arany díszítések ragyognak a téli napsütésben.\n\nDélben a Pépinière park friss levegője után a Saint-Epvre bazilika csendje fogad. A téli nyugalom teljesen áthatja az óváros utcáit.\n\nDélután a hercegi palota falai között keressük a meleget és a történelmet. A Porte de la Craffe tornyai zord, középkori hangulatot árasztanak a hidegben.\n\nA korai, 17:00 órás naplemente után a város díszkivilágítása lenyűgöző. A séta a katedrálisnál ér véget, ahol az esti fények ünnepi keretet adnak a napnak.",
             "ro": "Dimineața geroasă în Place Stanislas este luminată de bradul uriaș de Crăciun. Decorațiunile aurii strălucesc elegant în lumina palidă de iarnă.\n\nLa prânz, parcul Pépinière oferă aer curat pentru o plimbare scurtă, înainte de a intra în căldura bazilicii Saint-Epvre. Liniștea iernii stăpânește întreg orașul.\n\nDupă-amiaza explorăm Palatul Ducilor, unde zidurile groase țin frigul la distanță. Vizitarea porții Craffe iarna pare o adevărată călătorie în timp.\n\nOdată cu apusul de la ora 17:00, Nancy strălucește sub mii de luminițe. Ziua se încheie confortabil lângă Catedrală, cu o băutură caldă în mână.",
-            "en": "The frosty morning at Place Stanislas is brightened by the giant Christmas tree. The golden decorations look particularly noble in the winter light.\n\nAt noon, Parc de la Pépinière offers crisp air for a short walk before heading into the warm Basilique Saint-Epvre. Winter's silence settles over the city.\n\nIn the afternoon, explore the Palace of the Dukes, where thick walls keep the cold at bay. A visit to Porte de la Craffe feels like time travel in the winter chill.\n\nAs dusk falls around 17:00, Nancy lights up with festive illuminations. The day ends cozily near the Cathedral with a warm drink in hand."
+            "en": "The frosty morning at Place Stanislas is brightened by the giant Christmas tree. The golden decorations look particularly noble in the winter light.\n\nAt noon, Parc de la Pépinière offers crisp air for a short walk before heading into the warm Basilique Saint-Epvre. Winter's silence settles over the city.\n\nIn the afternoon, explore the Palace of the Dukes, where thick walls keep the cold at bay. A visit to Porte de la Craffe feels like time travel in the winter chill.\n\nAs dusk falls around 17:00, Nancy lights up with festive illuminations. The day ends cozily near the Cathedral with a warm drink in hand.",
+            "fr": "La matinée glaciale sur la Place Stanislas est égayée par le sapin de Noël géant. Les décorations dorées semblent particulièrement nobles sous la lumière hivernale.\n\nÀ midi, le Parc de la Pépinière offre un air vif pour une courte promenade avant de rejoindre la chaleur de la Basilique Saint-Epvre. Le silence de l'hiver s'installe sur la ville.\n\nL'après-midi, explorez le Palais des Ducs, où les murs épais protègent du froid. Une visite à la Porte de la Craffe ressemble à un voyage dans le temps dans la fraîcheur hivernale.\n\nÀ la tombée de la nuit vers 17h00, Nancy s'illumine de décorations festives. La journée se termine confortablement près de la Cathédrale avec une boisson chaude à la main."
           },
           "stops": [
             {
@@ -660,7 +722,8 @@
                 "de": "Bewundern Sie die festliche Beleuchtung und den Weihnachtsbaum.",
                 "hu": "Csodálja meg az ünnepi kivilágítást és a karácsonyfát.",
                 "ro": "Admirați iluminatul festiv și bradul de Crăciun.",
-                "en": "Admire the festive lighting and the Christmas tree."
+                "en": "Admire the festive lighting and the Christmas tree.",
+                "fr": "Admirez les illuminations festives et le sapin de Noël."
               }
             },
             {
@@ -669,7 +732,8 @@
                 "de": "Die Statuen wirken im Frost besonders mystisch.",
                 "hu": "A szobrok különösen misztikusak a zúzmarás reggeleken.",
                 "ro": "Statuile par deosebit de mistice în îngheț.",
-                "en": "The statues look particularly mystical in the frost."
+                "en": "The statues look particularly mystical in the frost.",
+                "fr": "Les statues semblent particulièrement mystiques sous le givre."
               }
             },
             {
@@ -678,7 +742,8 @@
                 "de": "Ein ruhiger Rückzugsort zum Aufwärmen und Besinnen.",
                 "hu": "Csendes hely a felmelegedéshez és az elmélyüléshez.",
                 "ro": "Un refugiu liniștit pentru a vă încălzi și reflecta.",
-                "en": "A quiet retreat for warming up and reflection."
+                "en": "A quiet retreat for warming up and reflection.",
+                "fr": "Un refuge paisible pour se réchauffer et se recueillir."
               }
             },
             {
@@ -687,7 +752,8 @@
                 "de": "Planen Sie mehr Zeit im Inneren ein, um der Kälte zu entgehen.",
                 "hu": "Tervezzen több időt bentre, hogy elkerülje a hideget.",
                 "ro": "Planificați mai mult timp în interior pentru a evita frigul.",
-                "en": "Plan more time inside to escape the cold."
+                "en": "Plan more time inside to escape the cold.",
+                "fr": "Prévoyez plus de temps à l'intérieur pour échapper au froid."
               }
             },
             {
@@ -696,7 +762,8 @@
                 "de": "Achtung, der Wind zieht durch die Toreinfahrt.",
                 "hu": "Vigyázat, a kapualjban felerősödhet a szél.",
                 "ro": "Atenție, vântul se intensifică prin poartă.",
-                "en": "Watch out, the wind can be biting through the gateway."
+                "en": "Watch out, the wind can be biting through the gateway.",
+                "fr": "Attention, le vent peut être piquant sous la porte."
               }
             },
             {
@@ -705,7 +772,8 @@
                 "de": "Nutzen Sie das letzte Tageslicht vor dem frühen Sonnenuntergang.",
                 "hu": "Használja ki az utolsó fényeket a korai naplemente előtt.",
                 "ro": "Profitați de ultima lumină a zilei înainte de apusul timpuriu.",
-                "en": "Take advantage of the last daylight before the early sunset."
+                "en": "Take advantage of the last daylight before the early sunset.",
+                "fr": "Profitez de la dernière lumière du jour avant le coucher de soleil précoce."
               }
             },
             {
@@ -714,7 +782,8 @@
                 "de": "Die Abendmesse bietet eine besonders warme Atmosphäre.",
                 "hu": "Az esti mise különösen meghitt hangulatot áraszt.",
                 "ro": "Slujba de seară oferă o atmosferă deosebit de caldă.",
-                "en": "The evening mass offers a particularly warm atmosphere."
+                "en": "The evening mass offers a particularly warm atmosphere.",
+                "fr": "La messe du soir offre une atmosphère particulièrement chaleureuse."
               }
             }
           ],
@@ -746,6 +815,13 @@
               "Wear thermal layers as the wind in Nancy can be biting.",
               "Museums often close slightly earlier in winter than in summer.",
               "Saint Nicholas (Dec 6th) is more important in Nancy than Christmas."
+            ],
+            "fr": [
+              "Le soleil se couche tôt, vers 17h00.",
+              "Visitez le marché de Noël pour un vin chaud.",
+              "Portez des couches thermiques car le vent à Nancy peut être piquant.",
+              "Les musées ferment souvent un peu plus tôt en hiver qu'en été.",
+              "La Saint-Nicolas (6 déc.) est plus importante à Nancy que Noël."
             ]
           }
         }
@@ -774,7 +850,8 @@
             "de": "Startpunkt mit perfektem Asphalt.",
             "hu": "Kiváló aszfaltozott kezdőpont.",
             "ro": "Punct de plecare cu asfalt perfect.",
-            "en": "Starting point with perfect asphalt."
+            "en": "Starting point with perfect asphalt.",
+            "fr": "Point de départ avec un asphalte parfait."
           }
         },
         {
@@ -792,7 +869,8 @@
             "de": "Ein Juwel des Jugendstils (Art Nouveau).",
             "hu": "A szecesszió (Art Nouveau) ékköve.",
             "ro": "O bijuterie a stilului Art Nouveau.",
-            "en": "A jewel of Art Nouveau architecture."
+            "en": "A jewel of Art Nouveau architecture.",
+            "fr": "Un joyau de l'architecture Art Nouveau."
           }
         },
         {
@@ -810,7 +888,8 @@
             "de": "Faszinierende Möbel und Glaskunst.",
             "hu": "Lenyűgöző bútorok és üvegművészet.",
             "ro": "Mobilier și artă în sticlă fascinantă.",
-            "en": "Fascinating furniture and glass art."
+            "en": "Fascinating furniture and glass art.",
+            "fr": "Mobilier et art verrier fascinants."
           }
         },
         {
@@ -828,7 +907,8 @@
             "de": "Ideal für eine Picknickpause im Grünen.",
             "hu": "Ideális egy piknikhez a zöldben.",
             "ro": "Ideal pentru o pauză de picnic în aer liber.",
-            "en": "Ideal for a picnic break in the greenery."
+            "en": "Ideal for a picnic break in the greenery.",
+            "fr": "Idéal pour une pause pique-nique dans la verdure."
           }
         },
         {
@@ -846,7 +926,8 @@
             "de": "Radeln Sie entspannt am Wasser entlang.",
             "hu": "Kerekezz kényelmesen a vízpart mentén.",
             "ro": "Pedalați relaxat de-a lungul apei.",
-            "en": "Cycle relaxingly along the water."
+            "en": "Cycle relaxingly along the water.",
+            "fr": "Pédalez en toute décontraction au bord de l'eau."
           }
         },
         {
@@ -864,7 +945,8 @@
             "de": "Ein prächtiges Tor am Rand der Altstadt.",
             "hu": "Pompás kapu az óváros szélén.",
             "ro": "O poartă magnifică la marginea orașului vechi.",
-            "en": "A magnificent gate at the edge of the old town."
+            "en": "A magnificent gate at the edge of the old town.",
+            "fr": "Une porte magnifique à la lisière de la vieille ville."
           }
         }
       ],
@@ -872,7 +954,8 @@
         "de": "Erfahren Sie Nancy auf zwei Rädern. Von der Place Stanislas radeln Sie zum Viertel des Jugendstils, besuchen die Villa Majorelle und das Museum der Schule von Nancy. Nach einer Pause im Parc Sainte-Marie genießen Sie die Fahrt entlang des Kanals zurück zur historischen Altstadt.",
         "hu": "Fedezze fel Nancyt két keréken. A Place Stanislas-tól a szecessziós negyedbe tekerünk, meglátogatjuk a Villa Majorelle-t és a nancy-i iskola múzeumát. A Parc Sainte-Marie-ban tartott pihenő után a csatorna mentén tekerünk vissza a történelmi óvárosba.",
         "ro": "Explorați Nancy pe două roți. De la Piața Stanislas pedalați spre cartierul Art Nouveau, vizitând Villa Majorelle și Muzeul Școlii din Nancy. După o pauză în Parcul Sainte-Marie, bucurați-vă de drumul de-a lungul canalului înapoi spre centrul istoric.",
-        "en": "Experience Nancy on two wheels. From Place Stanislas, cycle to the Art Nouveau district, visiting Villa Majorelle and the Museum of the School of Nancy. After a break in Parc Sainte-Marie, enjoy a ride along the canal back to the historic old town."
+        "en": "Experience Nancy on two wheels. From Place Stanislas, cycle to the Art Nouveau district, visiting Villa Majorelle and the Museum of the School of Nancy. After a break in Parc Sainte-Marie, enjoy a ride along the canal back to the historic old town.",
+        "fr": "Découvrez Nancy sur deux roues. Depuis la Place Stanislas, pédalez vers le quartier Art Nouveau, en visitant la Villa Majorelle et le Musée de l'École de Nancy. Après une pause au Parc Sainte-Marie, profitez d'une balade le long du canal pour revenir vers la vieille ville historique."
       },
       "gastro_picks": {
         "de": [
@@ -897,6 +980,12 @@
           {
             "name": "Le V-Four",
             "tip": "Modern cuisine near the canal."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le V-Four",
+            "tip": "Cuisine moderne à proximité du canal."
           }
         ]
       },
@@ -928,6 +1017,13 @@
             "tip": "Quiet cycling paths along the riverbank.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Rives de Meurthe",
+            "tip": "Pistes cyclables tranquilles le long de la rivière.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -953,6 +1049,12 @@
           {
             "name": "Vélostan",
             "tip": "Bike rentals and local accessories."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Vélostan",
+            "tip": "Location de vélos et accessoires locaux."
           }
         ]
       },
@@ -980,6 +1082,12 @@
           "The paths along the canal are flat and safe.",
           "Watch out for cobblestones in the Old Town.",
           "Nancy has a well-developed network of cycle lanes."
+        ],
+        "fr": [
+          "Utilisez le système de vélos en libre-service 'VélOstan'.",
+          "Les pistes le long du canal sont plates et sécurisées.",
+          "Attention aux pavés dans la Vieille Ville.",
+          "Nancy dispose d'un réseau de pistes cyclables bien développé."
         ]
       },
       "variants": {
@@ -1160,7 +1268,8 @@
             "de": "Wir starten unsere Radtour am glänzenden Place Stanislas. Der Weg führt zur Villa Majorelle, wobei die Jugendstil-Fassaden im Regen eine glänzende Patina zeigen.\n\nMittags besuchen wir das Musée de l'École de Nancy. Das Fahrrad parkt sicher im Trockenen, während wir die Kunstschätze im Inneren bewundern.\n\nAm Nachmittag radeln wir durch den Parc Sainte-Marie. Die nassen Wege erfordern Vorsicht, aber die frische, feuchte Luft ist belebend.\n\nDie Tour führt entlang des Canal de la Marne au Rhin, wo das Wasser grau in grau mit dem Himmel verschmilzt. Den Abschluss bildet die historische Porte de la Citadelle.",
             "hu": "Kerékpáros túránk a vizes Place Stanislas-ról indul. A Villa Majorelle felé haladva a szecessziós homlokzatok az esőben különleges fényben tündökölnek.\n\nDélben a Musée de l'École de Nancy kertjében hagyjuk a gépet. A múzeum belseje tökéletes hely a felmelegedésre és a száradásra.\n\nDélután a Parc Sainte-Marie-n keresztül tekerünk. A vizes utakon óvatosan kell kanyarodni, de a park ilyenkor is illatos és friss.\n\nA Marne-Rhin csatorna mentén haladva az esőcseppek táncolnak a vízen. A túra a Porte de la Citadelle-nél zárul, ahol fedett helyen pihenhetünk meg.",
             "ro": "Pornim turul pe bicicletă din Place Stanislas, sub o ploaie ușoară. Spre Villa Majorelle, fațadele Art Nouveau capătă o strălucire aparte în umezeală.\n\nLa prânz, vizităm Musée de l'École de Nancy. Bicicleta stă în siguranță afară, în timp ce noi ne bucurăm de interioarele rafinate.\n\nDupă-amiaza pedalăm prin Parc Sainte-Marie. Aleile umede necesită atenție sporită, dar aerul proaspăt este extrem de revigorant.\n\nTraseul continuă de-a lungul canalului Marne-Rhin, unde cerul se oglindește în apă. Încheiem la Porte de la Citadelle, un punct istoric de reper.",
-            "en": "We start our bike tour at the glistening Place Stanislas. Heading towards Villa Majorelle, the Art Nouveau facades show a shiny patina in the rain.\n\nAt noon, we visit the Musée de l'École de Nancy. The bike is parked while we admire the art treasures inside, away from the drizzle.\n\nIn the afternoon, we cycle through Parc Sainte-Marie. The wet paths require caution, but the fresh, moist air is invigorating.\n\nThe tour follows the Canal de la Marne au Rhin, where the water merges with the grey sky. We conclude at the historic Porte de la Citadelle."
+            "en": "We start our bike tour at the glistening Place Stanislas. Heading towards Villa Majorelle, the Art Nouveau facades show a shiny patina in the rain.\n\nAt noon, we visit the Musée de l'École de Nancy. The bike is parked while we admire the art treasures inside, away from the drizzle.\n\nIn the afternoon, we cycle through Parc Sainte-Marie. The wet paths require caution, but the fresh, moist air is invigorating.\n\nThe tour follows the Canal de la Marne au Rhin, where the water merges with the grey sky. We conclude at the historic Porte de la Citadelle.",
+            "fr": "Nous commençons notre tour à vélo sur la Place Stanislas scintillante. En direction de la Villa Majorelle, les façades Art Nouveau affichent une patine brillante sous la pluie.\n\nÀ midi, nous visitons le Musée de l'École de Nancy. Le vélo est stationné pendant que nous admirons les trésors artistiques à l'intérieur, à l'abri de la bruine.\n\nL'après-midi, nous pédalons à travers le Parc Sainte-Marie. Les sentiers mouillés demandent de la prudence, mais l'air frais et humide est vivifiant.\n\nLe circuit suit le Canal de la Marne au Rhin, où l'eau se confond avec le ciel gris. Nous terminons à la Porte de la Citadelle historique."
           },
           "stops": [
             {
@@ -1169,7 +1278,8 @@
                 "de": "Vorsicht beim Losfahren auf den glatten Steinplatten.",
                 "hu": "Vigyázat az induláskor a csúszós kőlapokon.",
                 "ro": "Atenție la plecare pe plăcile de piatră alunecoase.",
-                "en": "Be careful when starting off on the slippery stone slabs."
+                "en": "Be careful when starting off on the slippery stone slabs.",
+                "fr": "Faites attention au départ sur les dalles de pierre glissantes."
               }
             },
             {
@@ -1178,7 +1288,8 @@
                 "de": "Kurzer Stopp für Fotos, dann schnell wieder ins Trockene.",
                 "hu": "Gyors fotómegálló, majd irány vissza a fedezékbe.",
                 "ro": "Oprire scurtă pentru poze, apoi repede la adăpost.",
-                "en": "Short photo stop, then quickly back to cover."
+                "en": "Short photo stop, then quickly back to cover.",
+                "fr": "Court arrêt photo, puis retour rapide à l'abri."
               }
             },
             {
@@ -1187,7 +1298,8 @@
                 "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
                 "hu": "Kerékpártárolók a bejárat közelében találhatók.",
                 "ro": "Suporturile de biciclete sunt situate lângă intrare.",
-                "en": "Bike racks are located near the entrance."
+                "en": "Bike racks are located near the entrance.",
+                "fr": "Des porte-vélos sont situés près de l'entrée."
               }
             },
             {
@@ -1196,7 +1308,8 @@
                 "de": "Vermeiden Sie tief hängende Äste, die Wasser abwerfen.",
                 "hu": "Kerülje az alacsonyan lógó, vizes ágakat.",
                 "ro": "Evitați crengile joase care pot picura apă.",
-                "en": "Avoid low-hanging branches that might drop water."
+                "en": "Avoid low-hanging branches that might drop water.",
+                "fr": "Évitez les branches basses qui pourraient laisser tomber de l'eau."
               }
             },
             {
@@ -1205,7 +1318,8 @@
                 "de": "Der Radweg am Kanal kann bei Regen schlammig sein.",
                 "hu": "A csatorna menti kerékpárút sáros lehet esőben.",
                 "ro": "Pista de biciclete de lângă canal poate fi noroioasă.",
-                "en": "The canal bike path can be muddy in the rain."
+                "en": "The canal bike path can be muddy in the rain.",
+                "fr": "La piste cyclable du canal peut être boueuse sous la pluie."
               }
             },
             {
@@ -1214,7 +1328,8 @@
                 "de": "Ein guter Ort, um das Fahrrad für eine Pause unterzustellen.",
                 "hu": "Jó hely a kerékpár leállítására egy rövid pihenőhöz.",
                 "ro": "Un loc bun pentru a lăsa bicicleta în timpul unei pauze.",
-                "en": "A good place to shelter your bike for a break."
+                "en": "A good place to shelter your bike for a break.",
+                "fr": "Un bon endroit pour abriter votre vélo pendant une pause."
               }
             }
           ],
@@ -1246,6 +1361,13 @@
               "Wear a bright raincoat for better visibility in traffic.",
               "Avoid road markings, as they become extremely slippery.",
               "Most bike paths in the center are well-paved."
+            ],
+            "fr": [
+              "Utilisez les vélos de location VélOstan équipés de garde-boue.",
+              "Freinez tôt et doucement sur les pavés mouillés.",
+              "Portez un imperméable de couleur vive pour être bien visible.",
+              "Évitez les marquages au sol, car ils deviennent extrêmement glissants.",
+              "La plupart des pistes cyclables du centre sont bien goudronnées."
             ]
           }
         },
@@ -1254,7 +1376,8 @@
             "de": "Ein kühler Morgen am Place Stanislas startet die Radtour. Die klare Winterluft macht das Treten in die Pedale zur Villa Majorelle zu einem erfrischenden Erlebnis.\n\nMittags erreichen wir das Musée de l'École de Nancy. Die warme Atmosphäre im Inneren ist die perfekte Belohnung für die Fahrt durch die Kälte.\n\nAm Nachmittag führt die Route durch den Parc Sainte-Marie, wo die kahlen Bäume weite Sichtachsen bieten. Die Wege sind meist trocken und gut befahrbar.\n\nEntlang des Canal de la Marne au Rhin weht eine frische Brise. Der Tag endet an der Porte de la Citadelle, während die Abendsonne tief über Nancy steht.",
             "hu": "Hűvös reggel köszönt ránk a Place Stanislas-on. A tiszta téli levegőben élmény a tekerés a Villa Majorelle szecessziós remekműve felé.\n\nDélben érkezünk a Musée de l'École de Nancy-hoz. A benti meleg és a gazdag művészeti tárlat tökéletes jutalom a hidegben való tekerés után.\n\nDélután a Parc Sainte-Marie kopár fái között biciklizünk, ahol ilyenkor messzebbre látni a ligetekben. Az utak általában tiszták és jól tarthatóak.\n\nA Marne-Rhin csatorna partján hideg szél fújhat, de a látvány kárpótol. A túra a Porte de la Citadelle-nél zárul, mire a téli nap nyugovóra tér.",
             "ro": "O dimineață răcoroasă în Place Stanislas marchează începutul turului. Aerul curat de iarnă face pedalatul spre Villa Majorelle o experiență energizantă.\n\nLa prânz ajungem la Musée de l'École de Nancy. Atmosfera caldă din interior este recompensa perfectă pentru drumul prin frig.\n\nDupă-amiaza, traseul trece prin Parc Sainte-Marie, unde copacii desbuiați oferă perspective largi. Aleile sunt de obicei uscate și ușor de parcurs.\n\nPe marginea canalului Marne-Rhin bate o briză rece. Ziua se încheie la Porte de la Citadelle, în timp ce soarele de iarnă apune peste Nancy.",
-            "en": "A cool morning at Place Stanislas kicks off the bike tour. The crisp winter air makes pedaling towards Villa Majorelle an invigorating experience.\n\nAt noon, we reach the Musée de l'École de Nancy. The warm atmosphere inside is the perfect reward for riding through the cold.\n\nIn the afternoon, the route leads through Parc Sainte-Marie, where the bare trees offer wide vistas. The paths are usually dry and easy to ride.\n\nAlong the Canal de la Marne au Rhin, a fresh breeze blows. The day ends at the Porte de la Citadelle as the winter sun hangs low over Nancy."
+            "en": "A cool morning at Place Stanislas kicks off the bike tour. The crisp winter air makes pedaling towards Villa Majorelle an invigorating experience.\n\nAt noon, we reach the Musée de l'École de Nancy. The warm atmosphere inside is the perfect reward for riding through the cold.\n\nIn the afternoon, the route leads through Parc Sainte-Marie, where the bare trees offer wide vistas. The paths are usually dry and easy to ride.\n\nAlong the Canal de la Marne au Rhin, a fresh breeze blows. The day ends at the Porte de la Citadelle as the winter sun hangs low over Nancy.",
+            "fr": "Une matinée fraîche Place Stanislas lance ce tour à vélo. L'air vif de l'hiver fait du pédalage vers la Villa Majorelle une expérience revigorante.\n\nÀ midi, nous atteignons le Musée de l'École de Nancy. L'atmosphère chaleureuse à l'intérieur est la récompense parfaite après avoir roulé dans le froid.\n\nL'après-midi, l'itinéraire mène au Parc Sainte-Marie, où les arbres nus offrent de larges perspectives. Les sentiers sont généralement secs et faciles à parcourir.\n\nLe long du Canal de la Marne au Rhin, une brise fraîche souffle. La journée se termine à la Porte de la Citadelle alors que le soleil d'hiver est bas sur Nancy."
           },
           "stops": [
             {
@@ -1263,7 +1386,8 @@
                 "de": "Handschuhe sind bei Fahrtwind im Winter unerlässlich.",
                 "hu": "A kesztyű elengedhetetlen a menetszél miatt télen.",
                 "ro": "Mănușile sunt esențiale din cauza vântului iarna.",
-                "en": "Gloves are essential to protect against the winter wind chill."
+                "en": "Gloves are essential to protect against the winter wind chill.",
+                "fr": "Les gants sont essentiels pour se protéger du vent glacial."
               }
             },
             {
@@ -1272,7 +1396,8 @@
                 "de": "Die Fassade leuchtet in der tiefstehenden Wintersonne.",
                 "hu": "A homlokzat gyönyörűen csillog az alacsonyan járó téli napban.",
                 "ro": "Fațada strălucește în soarele de iarnă care stă jos.",
-                "en": "The facade glows in the low winter sun."
+                "en": "The facade glows in the low winter sun.",
+                "fr": "La façade brille sous le bas soleil d'hiver."
               }
             },
             {
@@ -1281,7 +1406,8 @@
                 "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen der Hände.",
                 "hu": "Használja ki a múzeumi látogatást a kezek felmelegítésére.",
                 "ro": "Folosiți vizita la muzeu pentru a vă încălzi mâinile.",
-                "en": "Use the museum visit to warm up your hands."
+                "en": "Use the museum visit to warm up your hands.",
+                "fr": "Profitez de la visite du musée pour vous réchauffer les mains."
               }
             },
             {
@@ -1290,7 +1416,8 @@
                 "de": "Achten Sie auf vereiste Stellen im Schatten der Bäume.",
                 "hu": "Ügyeljen a jeges foltokra a fák árnyékos oldalán.",
                 "ro": "Atenție la porțiunile înghețate de la umbra copacilor.",
-                "en": "Watch out for icy patches in the shade of the trees."
+                "en": "Watch out for icy patches in the shade of the trees.",
+                "fr": "Attention aux plaques de verglas à l'ombre des arbres."
               }
             },
             {
@@ -1299,7 +1426,8 @@
                 "de": "Ein Halstuch schützt vor dem kalten Wind am Wasser.",
                 "hu": "Egy sál megvéd a vízparti hideg széltől.",
                 "ro": "Un fular vă protejează de vântul rece de lângă apă.",
-                "en": "A scarf protects against the cold wind near the water."
+                "en": "A scarf protects against the cold wind near the water.",
+                "fr": "Une écharpe protège du vent froid près de l'eau."
               }
             },
             {
@@ -1308,7 +1436,8 @@
                 "de": "Beenden Sie die Tour, bevor es um 17 Uhr dunkel wird.",
                 "hu": "Fejezze be a túrát, mielőtt 17 órakor sötétedni kezd.",
                 "ro": "Încheiați turul înainte de a se întuneca la ora 17.",
-                "en": "Finish your tour before it gets dark around 17:00."
+                "en": "Finish your tour before it gets dark around 17:00.",
+                "fr": "Terminez votre tour avant la tombée de la nuit vers 17h00."
               }
             }
           ],
@@ -1340,6 +1469,13 @@
               "Check your tire pressure before starting the ride.",
               "The low-lying sun can be quite blinding while cycling.",
               "Use bright lights even when it's just getting dusky."
+            ],
+            "fr": [
+              "Surveillez l'autonomie de la batterie des vélos électriques (elle chute avec le froid).",
+              "Portez plusieurs couches de vêtements pour vous protéger du vent.",
+              "Vérifiez la pression de vos pneus avant de partir.",
+              "Le soleil bas peut être très éblouissant à vélo.",
+              "Utilisez des éclairages puissants dès que la luminosité baisse."
             ]
           }
         }
@@ -1368,7 +1504,8 @@
             "de": "Parken Sie im unterirdischen Parkhaus Stanislas.",
             "hu": "Parkoljon a Stanislas mélygarázsban.",
             "ro": "Parcați în parcarea subterană Stanislas.",
-            "en": "Park in the Stanislas underground parking lot."
+            "en": "Park in the Stanislas underground parking lot.",
+            "fr": "Garez-vous au parking souterrain Stanislas."
           }
         },
         {
@@ -1386,7 +1523,8 @@
             "de": "Das 'Versailles von Lothringen' vor den Toren der Stadt.",
             "hu": "Lotharingia Versailles-ja a város kapujában.",
             "ro": "Versailles-ul Lorenei la porțile orașului.",
-            "en": "The 'Versailles of Lorraine' just outside the city."
+            "en": "The 'Versailles of Lorraine' just outside the city.",
+            "fr": "Le 'Versailles lorrain' situé juste aux portes de la ville."
           }
         },
         {
@@ -1404,7 +1542,8 @@
             "de": "Ein heiliger Berg mit Panoramablick über die Region.",
             "hu": "Szent hegy panorámás kilátással a régióra.",
             "ro": "Un munte sfânt cu vedere panoramică asupra regiunii.",
-            "en": "A sacred mountain with panoramic views over the region."
+            "en": "A sacred mountain with panoramic views over the region.",
+            "fr": "Une montagne sacrée avec une vue panoramique sur la région."
           }
         },
         {
@@ -1422,7 +1561,8 @@
             "de": "Kostenlose Parkplätze oft in den Nebenstraßen.",
             "hu": "Ingyenes parkolás gyakran a mellékutcákban.",
             "ro": "Parcare gratuită adesea pe străzile laterale.",
-            "en": "Free parking often available in side streets."
+            "en": "Free parking often available in side streets.",
+            "fr": "Parking gratuit souvent disponible dans les rues adjacentes."
           }
         },
         {
@@ -1440,7 +1580,8 @@
             "de": "Kurzer Halt für ein Abschlussfoto.",
             "hu": "Rövid megálló egy záró fotóhoz.",
             "ro": "O scurtă oprire pentru o fotografie finală.",
-            "en": "Short stop for a final photo."
+            "en": "Short stop for a final photo.",
+            "fr": "Court arrêt pour une dernière photo."
           }
         }
       ],
@@ -1448,7 +1589,8 @@
         "de": "Diese Tour kombiniert Nancy mit regionalen Highlights. Nach dem Start im Zentrum fahren Sie zum prachtvollen Schloss Lunéville. Mittags genießen Sie die Aussicht vom Hügel Sion. Den Nachmittag verbringen Sie im Jugendstil-Museum von Nancy, bevor Sie den Tag in der eleganten Unterstadt ausklingen lassen.",
         "hu": "Ez a túra kombinálja Nancyt a régió látnivalóival. A központból indulva a pompás Lunéville-i kastélyhoz hajtunk. Délben a Sion-domb kilátását élvezzük. A délutánt a nancy-i szecessziós múzeumban töltjük, majd az elegáns belvárosban zárjuk a napot.",
         "ro": "Acest tur combină Nancy cu atracțiile regionale. După startul în centru, conduceți spre magnificul Castel Lunéville. La prânz vă bucurați de vederea de pe dealul Sion. Petreceți după-amiaza în muzeul Art Nouveau din Nancy, înainte de a încheia ziua în centrul elegant.",
-        "en": "This tour combines Nancy with regional highlights. After starting in the center, drive to the magnificent Château de Lunéville. At midday, enjoy the views from Sion Hill. Spend the afternoon in Nancy's Art Nouveau museum before ending the day in the elegant city center."
+        "en": "This tour combines Nancy with regional highlights. After starting in the center, drive to the magnificent Château de Lunéville. At midday, enjoy the views from Sion Hill. Spend the afternoon in Nancy's Art Nouveau museum before ending the day in the elegant city center.",
+        "fr": "Ce circuit combine Nancy avec des points forts régionaux. Après avoir commencé au centre, roulez vers le magnifique Château de Lunéville. À midi, profitez de la vue depuis la Colline de Sion. Passez l'après-midi dans le musée Art Nouveau de Nancy avant de terminer la journée dans l'élégant centre-ville."
       },
       "gastro_picks": {
         "de": [
@@ -1473,6 +1615,12 @@
           {
             "name": "Le Petit Comptoir",
             "tip": "High-end Lorraine cuisine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Petit Comptoir",
+            "tip": "Cuisine lorraine haut de gamme."
           }
         ]
       },
@@ -1504,6 +1652,13 @@
             "tip": "Absolute silence and wide views.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Colline de Sion",
+            "tip": "Silence absolu et vues panoramiques.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1529,6 +1684,12 @@
           {
             "name": "Château de Lunéville Shop",
             "tip": "Exclusive local crafts."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutique du Château de Lunéville",
+            "tip": "Artisanat local exclusif."
           }
         ]
       },
@@ -1556,6 +1717,12 @@
           "Roads to Lunéville are well-maintained.",
           "Avoid late afternoon rush hour.",
           "A GPS is recommended for the drive to Sion."
+        ],
+        "fr": [
+          "Les parkings souterrains centraux sont les plus pratiques.",
+          "Les routes vers Lunéville sont bien entretenues.",
+          "Évitez les heures de pointe en fin d'après-midi.",
+          "Un GPS est recommandé pour le trajet vers Sion."
         ]
       },
       "variants": {
@@ -1727,7 +1894,8 @@
             "de": "Vom Place Stanislas aus starten wir die Fahrt nach Lunéville. Das Auto bietet perfekten Schutz vor dem Regen auf der Autobahn.\n\nMittags erreichen wir das Schloss Lunéville, das 'Versailles von Lothringen'. Die prunkvollen Innenräume lassen den Regen draußen vergessen.\n\nAm Nachmittag fahren wir nach Sion-sur-Madon. Obwohl die Aussicht wolkenverhangen sein kann, hat der mystische Hügel im Regen seinen ganz eigenen Reiz.\n\nZurück in Nancy besuchen wir das Musée de l'École de Nancy und beenden den Tag am Place de la Carrière im Herzen der beleuchteten Stadt.",
             "hu": "A Place Stanislas mellől indulva Lunéville felé vesszük az irányt. Az autó tökéletes menedék az autópályán szakadó esőben.\n\nDélben érkezünk a Lunéville-i kastélyhoz, amely 'Lotharingia Versailles-ja'. A pompás belső terekben észre sem vesszük a kinti zuhogást.\n\nDélután Sion-sur-Madon felé autózunk. Bár a kilátás felhős lehet, a dombtető misztikus hangulata esőben is különleges élmény.\n\nVisszatérve Nancy-ba, a Musée de l'École de Nancy kincseit fedezzük fel, majd a Place de la Carrière esti fényeiben gyönyörködünk.",
             "ro": "Plecăm de lângă Place Stanislas spre Lunéville. Mașina oferă protecție perfectă împotriva ploii pe autostradă.\n\nLa prânz ajungem la Castelul Lunéville, supranumit 'Versailles-ul Lorenei'. Interioarele fastuoase ne fac să uităm de ploaia de afară.\n\nDupă-amiaza conducem spre Sion-sur-Madon. Deși panorama poate fi umbrită de nori, dealul mistic are un farmec aparte pe ploaie.\n\nReveniți în Nancy, vizităm Musée de l'École de Nancy și încheiem ziua în Place de la Carrière, în inima orașului iluminat.",
-            "en": "From near Place Stanislas, we head towards Lunéville. The car provides perfect protection from the rain on the highway.\n\nAt noon, we reach the Château de Lunéville, the 'Versailles of Lorraine'. The magnificent interiors make you forget the rain outside.\n\nIn the afternoon, we drive to Sion-sur-Madon. Although the view might be cloudy, the mystical hill has its own charm in the rain.\n\nBack in Nancy, we visit the Musée de l'École de Nancy and end the day at Place de la Carrière in the heart of the lit city."
+            "en": "From near Place Stanislas, we head towards Lunéville. The car provides perfect protection from the rain on the highway.\n\nAt noon, we reach the Château de Lunéville, the 'Versailles of Lorraine'. The magnificent interiors make you forget the rain outside.\n\nIn the afternoon, we drive to Sion-sur-Madon. Although the view might be cloudy, the mystical hill has its own charm in the rain.\n\nBack in Nancy, we visit the Musée de l'École de Nancy and end the day at Place de la Carrière in the heart of the lit city.",
+            "fr": "Depuis les environs de la Place Stanislas, nous nous dirigeons vers Lunéville. La voiture offre une protection parfaite contre la pluie sur l'autoroute.\n\nÀ midi, nous atteignons le Château de Lunéville, le 'Versailles lorrain'. Les intérieurs magnifiques font oublier la pluie extérieure.\n\nL'après-midi, nous roulons vers Sion-sur-Madon. Bien que la vue puisse être bouchée, la colline mystique a son propre charme sous la pluie.\n\nDe retour à Nancy, nous visitons le Musée de l'École de Nancy et terminons la journée à la Place de la Carrière au cœur de la ville illuminée."
           },
           "stops": [
             {
@@ -1736,7 +1904,8 @@
                 "de": "Parken Sie im unterirdischen Parkhaus, um trocken zu bleiben.",
                 "hu": "Használja a mélygarázst, hogy szárazon maradjon.",
                 "ro": "Parcați în parcarea subterană pentru a rămâne uscat.",
-                "en": "Park in the underground garage to stay dry."
+                "en": "Park in the underground garage to stay dry.",
+                "fr": "Garez-vous dans le parking souterrain pour rester au sec."
               }
             },
             {
@@ -1745,7 +1914,8 @@
                 "de": "Der Parkplatz ist nur einen kurzen Fußweg vom Eingang entfernt.",
                 "hu": "A parkoló csak egy rövid sétára van a bejárattól.",
                 "ro": "Parcarea se află la doar o scurtă plimbare de intrare.",
-                "en": "The parking lot is just a short walk from the entrance."
+                "en": "The parking lot is just a short walk from the entrance.",
+                "fr": "Le parking est à seulement quelques pas de l'entrée."
               }
             },
             {
@@ -1754,7 +1924,8 @@
                 "de": "Vorsicht bei Nebel auf der Auffahrt zum Hügel.",
                 "hu": "Vigyázat a köddel a dombra vezető felhajtón.",
                 "ro": "Atenție la ceață pe drumul de urcare spre deal.",
-                "en": "Watch out for fog on the road leading up the hill."
+                "en": "Watch out for fog on the road leading up the hill.",
+                "fr": "Attention au brouillard sur la route qui monte à la colline."
               }
             },
             {
@@ -1763,7 +1934,8 @@
                 "de": "Parkplätze in der direkten Umgebung sind begrenzt.",
                 "hu": "A közvetlen környéken korlátozott a parkolóhelyek száma.",
                 "ro": "Locurile de parcare din imediata apropiere sunt limitate.",
-                "en": "Parking spaces in the immediate vicinity are limited."
+                "en": "Parking spaces in the immediate vicinity are limited.",
+                "fr": "Les places de parking à proximité immédiate sont limitées."
               }
             },
             {
@@ -1772,7 +1944,8 @@
                 "de": "Ein kurzer Stopp zum Fotografieren reicht bei Regen aus.",
                 "hu": "Esőben egy rövid fotómegálló is elegendő itt.",
                 "ro": "O scurtă oprire pentru fotografii este suficientă pe ploaie.",
-                "en": "A short photo stop is sufficient here when it's raining."
+                "en": "A short photo stop is sufficient here when it's raining.",
+                "fr": "Un court arrêt photo suffit ici lorsqu'il pleut."
               }
             }
           ],
@@ -1804,6 +1977,13 @@
               "The A31 highway can have a lot of spray during heavy rain.",
               "Book your tickets for Lunéville online in advance.",
               "Visibility in Sion can be very limited with low-hanging clouds."
+            ],
+            "fr": [
+              "Vérifiez l'état de vos essuie-glaces avant de partir.",
+              "Privilégiez les parkings couverts plutôt que de stationner sous les arbres.",
+              "L'autoroute A31 peut présenter beaucoup de projections d'eau par forte pluie.",
+              "Réservez vos billets pour Lunéville en ligne à l'avance.",
+              "La visibilité à Sion peut être très limitée avec des nuages bas."
             ]
           }
         },
@@ -1812,7 +1992,8 @@
             "de": "Vom festlich geschmückten Place Stanislas führt uns die Fahrt durch die winterliche lothringische Landschaft nach Lunéville.\n\nMittags besichtigen wir das Schloss Lunéville. Die beheizten Säle bieten eine prachtvolle Flucht vor den kalten Außentemperaturen.\n\nAm Nachmittag geht es hinauf nach Sion-sur-Madon. Bei klarem Winterwetter bietet der Hügel einen spektakulären Blick bis zu den verschneiten Vogesen.\n\nZurück in Nancy wärmen wir uns im Musée de l'École de Nancy auf, bevor wir den Tag am Place de la Carrière bei stimmungsvoller Abendbeleuchtung ausklingen lassen.",
             "hu": "A díszes Place Stanislas mellől indulunk a téli lotharingiai tájon át Lunéville irányába.\n\nDélben a Lunéville-i kastélyt látogatjuk meg. A fűtött termek pazar menedéket nyújtanak a kinti metsző hideg elől.\n\nDélután Sion-sur-Madon dombjára kapaszkodunk fel. Tiszta téli időben a kilátás egészen a havas Vogézekig is ellátszhat.\n\nVisszatérve Nancy-ba, a Musée de l'École de Nancy-ban melegszünk fel, majd a Place de la Carrière ünnepi fényeivel zárjuk a napot.",
             "ro": "De lângă Place Stanislas, decorată festiv, drumul ne poartă prin peisajul hibernal al Lorenei spre Lunéville.\n\nLa prânz vizităm Castelul Lunéville. Sălile încălzite oferă un refugiu fastuos împotriva temperaturilor scăzute de afară.\n\nDupă-amiaza urcăm la Sion-sur-Madon. Pe vreme senină de iarnă, dealul oferă o priveliște spectaculoasă până la munții Vosgi înzăpeziți.\n\nReveniți în Nancy, ne încălzim la Musée de l'École de Nancy, înainte de a încheia ziua în Place de la Carrière, sub luminițele de seară.",
-            "en": "From the festively decorated Place Stanislas, our drive takes us through the winter landscape of Lorraine towards Lunéville.\n\nAt noon, we tour the Château de Lunéville. The heated halls offer a magnificent escape from the freezing outdoor temperatures.\n\nIn the afternoon, we head up to Sion-sur-Madon. In clear winter weather, the hill provides a spectacular view as far as the snow-capped Vosges.\n\nBack in Nancy, we warm up at the Musée de l'École de Nancy before ending the day at Place de la Carrière under the atmospheric evening lights."
+            "en": "From the festively decorated Place Stanislas, our drive takes us through the winter landscape of Lorraine towards Lunéville.\n\nAt noon, we tour the Château de Lunéville. The heated halls offer a magnificent escape from the freezing outdoor temperatures.\n\nIn the afternoon, we head up to Sion-sur-Madon. In clear winter weather, the hill provides a spectacular view as far as the snow-capped Vosges.\n\nBack in Nancy, we warm up at the Musée de l'École de Nancy before ending the day at Place de la Carrière under the atmospheric evening lights.",
+            "fr": "Depuis la Place Stanislas décorée pour les fêtes, notre trajet nous mène à travers les paysages hivernaux de la Lorraine vers Lunéville.\n\nÀ midi, nous visitons le Château de Lunéville. Les salles chauffées offrent une évasion magnifique contre les températures glaciales extérieures.\n\nL'après-midi, nous montons à Sion-sur-Madon. Par temps d'hiver clair, la colline offre une vue spectaculaire jusqu'aux Vosges enneigées.\n\nDe retour à Nancy, nous nous réchauffons au Musée de l'École de Nancy avant de terminer la journée Place de la Carrière sous les lumières du soir."
           },
           "stops": [
             {
@@ -1821,7 +2002,8 @@
                 "de": "Das Auto im Parkhaus ist vor Frost und Eis geschützt.",
                 "hu": "A mélygarázsban hagyott autó védett a fagytól és jégtől.",
                 "ro": "Mașina lăsată în parcare este protejată de îngheț și gheață.",
-                "en": "Keeping the car in a parking garage protects it from frost and ice."
+                "en": "Keeping the car in a parking garage protects it from frost and ice.",
+                "fr": "Laisser la voiture au parking souterrain la protège du givre et de la glace."
               }
             },
             {
@@ -1830,7 +2012,8 @@
                 "de": "Genießen Sie den Blick auf den Schlossgarten im Winterkleid.",
                 "hu": "Élvezze a kastélypark látványát téli köntösében.",
                 "ro": "Bucurați-vă de vederea grădinii castelului în haine de iarnă.",
-                "en": "Enjoy the view of the castle gardens in their winter coat."
+                "en": "Enjoy the view of the castle gardens in their winter coat.",
+                "fr": "Appréciez la vue sur les jardins du château dans leur manteau d'hiver."
               }
             },
             {
@@ -1839,7 +2022,8 @@
                 "de": "Tragen Sie feste Schuhe für den Weg zum Aussichtspunkt.",
                 "hu": "Viseljen stabil cipőt a kilátóhoz vezető úton.",
                 "ro": "Purtați încălțăminte stabilă pentru drumul spre punctul de belvedere.",
-                "en": "Wear sturdy shoes for the walk to the viewpoint."
+                "en": "Wear sturdy shoes for the walk to the viewpoint.",
+                "fr": "Portez des chaussures solides pour la marche vers le point de vue."
               }
             },
             {
@@ -1848,7 +2032,8 @@
                 "de": "Das Museum ist gut geheizt und sehr gemütlich.",
                 "hu": "A múzeum jól fűtött és nagyon barátságos hangulatú.",
                 "ro": "Muzeul este bine încălzit și foarte primitor.",
-                "en": "The museum is well-heated and very cozy."
+                "en": "The museum is well-heated and very cozy.",
+                "fr": "Le musée est bien chauffé et très accueillant."
               }
             },
             {
@@ -1857,7 +2042,8 @@
                 "de": "Die Beleuchtung ist im Winter besonders beeindruckend.",
                 "hu": "A kivilágítás télen különösen lenyűgöző ezen a téren.",
                 "ro": "Iluminatul este deosebit de impresionant iarna.",
-                "en": "The lighting is particularly impressive in winter."
+                "en": "The lighting is particularly impressive in winter.",
+                "fr": "L'éclairage est particulièrement impressionnant en hiver."
               }
             }
           ],
@@ -1889,6 +2075,13 @@
               "Fill your windshield washer tank with antifreeze fluid.",
               "The Lunéville park closes as early as 17:00 in winter.",
               "Keep a warm blanket in the car for emergencies."
+            ],
+            "fr": [
+              "Les pneus hiver sont fortement recommandés dans cette région.",
+              "Attention aux plaques de verglas sur les routes de campagne vers Sion.",
+              "Remplissez votre réservoir de lave-glace avec du liquide antigel.",
+              "Le parc de Lunéville ferme dès 17h00 en hiver.",
+              "Gardez une couverture chaude dans la voiture en cas d'urgence."
             ]
           }
         }
@@ -1917,7 +2110,8 @@
             "de": "Zentraler Knotenpunkt für Busse und Trams.",
             "hu": "Központi busz- és villamoscsomópont.",
             "ro": "Nod central pentru autobuze și tramvaie.",
-            "en": "Central hub for buses and trams."
+            "en": "Central hub for buses and trams.",
+            "fr": "Plaque tournante centrale pour les bus et les trams."
           }
         },
         {
@@ -1935,7 +2129,8 @@
             "de": "Sehen Sie die Daum-Glaskollektion im Keller.",
             "hu": "Nézze meg a Daum üveggyűjteményt az alagsorban.",
             "ro": "Vedeți colecția de sticlă Daum de la subsol.",
-            "en": "See the Daum glass collection in the basement."
+            "en": "See the Daum glass collection in the basement.",
+            "fr": "Découvrez la collection de verre Daum au sous-sol."
           }
         },
         {
@@ -1953,7 +2148,8 @@
             "de": "Mit Buslinie A oder Tram erreichbar.",
             "hu": "Az A busszal vagy villamossal elérhető.",
             "ro": "Accesibil cu linia de autobuz A sau tramvaiul.",
-            "en": "Accessible via bus line A or tram."
+            "en": "Accessible via bus line A or tram.",
+            "fr": "Accessible via la ligne de bus A ou le tram."
           }
         },
         {
@@ -1971,7 +2167,8 @@
             "de": "Entspannung mitten in der Stadt.",
             "hu": "Kikapcsolódás a város közepén.",
             "ro": "Relaxare în mijlocul orașului.",
-            "en": "Relaxation in the middle of the city."
+            "en": "Relaxation in the middle of the city.",
+            "fr": "Détente au milieu de la ville."
           }
         },
         {
@@ -1989,7 +2186,8 @@
             "de": "In der Nähe der Altstadt-Haltestelle.",
             "hu": "Az óvárosi megálló közelében.",
             "ro": "Lângă stația din orașul vechi.",
-            "en": "Near the Old Town stop."
+            "en": "Near the Old Town stop.",
+            "fr": "Près de l'arrêt Vieille Ville."
           }
         },
         {
@@ -2007,7 +2205,8 @@
             "de": "Perfekt für letzte Besorgungen vor der Abfahrt.",
             "hu": "Tökéletes az utolsó bevásárláshoz indulás előtt.",
             "ro": "Perfect pentru ultimele cumpărături înainte de plecare.",
-            "en": "Perfect for last-minute shopping before departure."
+            "en": "Perfect for last-minute shopping before departure.",
+            "fr": "Parfait pour des achats de dernière minute avant le départ."
           }
         }
       ],
@@ -2015,7 +2214,8 @@
         "de": "Nutzen Sie Nancys modernes Nahverkehrssystem, um Kunst und Geschichte zu verbinden. Beginnen Sie im Museum der Schönen Künste an der Place Stanislas, fahren Sie dann in das Art Nouveau Viertel zum Museum der Schule von Nancy. Den Nachmittag verbringen Sie in den Parks und Kirchen der Altstadt, bevor Sie am Zentralmarkt enden.",
         "hu": "Használja Nancy modern tömegközlekedését a művészet és történelem összekapcsolásához. Kezdjen a Szépművészeti Múzeumban a Place Stanislas-nál, majd utazzon a szecessziós negyedbe. A délutánt az óváros parkjaiban és templomaiban töltjük, végül a központi piacon zárunk.",
         "ro": "Folosiți transportul public modern din Nancy pentru a îmbina arta și istoria. Începeți la Muzeul de Arte Frumoase din Piața Stanislas, apoi mergeți în cartierul Art Nouveau. Petreceți după-amiaza în parcurile și bisericile din orașul vechi, înainte de a termina la Piața Centrală.",
-        "en": "Use Nancy's modern transit system to bridge art and history. Start at the Fine Arts Museum by Place Stanislas, then travel to the Art Nouveau district. Spend the afternoon in the parks and churches of the Old Town before ending at the Central Market."
+        "en": "Use Nancy's modern transit system to bridge art and history. Start at the Fine Arts Museum by Place Stanislas, then travel to the Art Nouveau district. Spend the afternoon in the parks and churches of the Old Town before ending at the Central Market.",
+        "fr": "Utilisez le système de transport moderne de Nancy pour relier l'art et l'histoire. Commencez au Musée des Beaux-Arts près de la Place Stanislas, puis rendez-vous dans le quartier Art Nouveau. Passez l'après-midi dans les parcs et églises de la Vieille Ville avant de finir au Marché Central."
       },
       "gastro_picks": {
         "de": [
@@ -2040,6 +2240,12 @@
           {
             "name": "Excelsior",
             "tip": "Famous Art Nouveau brasserie near the station."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Excelsior",
+            "tip": "Célèbre brasserie Art Nouveau près de la gare."
           }
         ]
       },
@@ -2071,6 +2277,13 @@
             "tip": "A quiet place for reflection.",
             "emoji": "⛪"
           }
+        ],
+        "fr": [
+          {
+            "name": "Eglise Saint-Sébastien",
+            "tip": "Un lieu calme pour le recueillement.",
+            "emoji": "⛪"
+          }
         ]
       },
       "shopping_picks": {
@@ -2096,6 +2309,12 @@
           {
             "name": "Centre Commercial Saint Sébastien",
             "tip": "Large shopping mall in the center."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Centre Commercial Saint Sébastien",
+            "tip": "Grand centre commercial en plein centre."
           }
         ]
       },
@@ -2123,6 +2342,12 @@
           "Buy 24-hour passes at the ticket machines.",
           "Remember to validate your ticket upon boarding.",
           "Buses run at frequent intervals."
+        ],
+        "fr": [
+          "La ligne de tram T1 traverse toute la ville.",
+          "Achetez des pass 24h aux bornes automatiques.",
+          "N'oubliez pas de valider votre ticket à la montée.",
+          "Les bus circulent à intervalles fréquents."
         ]
       },
       "variants": {
@@ -2303,7 +2528,8 @@
             "de": "Vom Place Stanislas aus nutzen wir das dichte Busnetz, um trocken zum Musée des Beaux-Arts zu gelangen. Kunst und Kultur sind die besten Begleiter bei Regen.\n\nMittags bringt uns der Bus zum Musée de l'École de Nancy. Die Fahrt durch die Stadt bietet einen entspannten Blick auf die regennassen Straßen.\n\nAm Nachmittag besuchen wir den Parc de la Pépinière. Ein kurzer Spaziergang zwischen den Schauern ist dank der guten Anbindung jederzeit möglich.\n\nNach der Basilika Saint-Epvre beenden wir den Tag im Marché Central. Die Markthalle ist der perfekte Ort, um lokale Spezialitäten im Trockenen zu genießen.",
             "hu": "A Place Stanislas-ról indulva a sűrű buszhálózatot használjuk, hogy szárazon jussunk el a Szépművészeti Múzeumba. A művészet a legjobb társ esőben.\n\nDélben busszal utazunk a Musée de l'École de Nancy-hoz. A városnézés a buszablakból kényelmes módja az esős utcák megfigyelésének.\n\nDélután a Pépinière parkot ejtjük útba. Egy rövid séta két zápor között a jó közlekedésnek köszönhetően bármikor beiktatható.\n\nA Saint-Epvre bazilika után a napot a Marché Centralban zárjuk. A fedett piac tökéletes hely a helyi finomságok megkóstolására, védve az esőtől.",
             "ro": "Din Place Stanislas folosim rețeaua densă de autobuze pentru a ajunge uscați la Musée des Beaux-Arts. Arta este cel mai bun partener pe ploaie.\n\nLa prânz, autobuzul ne duce la Musée de l'École de Nancy. Călătoria prin oraș oferă o vedere relaxată asupra străzilor udate de ploaie.\n\nDupă-amiaza vizităm parcul Pépinière. O scurtă plimbare între două averse este oricând posibilă datorită conexiunilor bune.\n\nDupă bazilica Saint-Epvre, încheiem ziua la Marché Central. Piața acoperită este locul ideal pentru a savura specialități locale la adăpost.",
-            "en": "From Place Stanislas, we use the dense bus network to get to the Musée des Beaux-Arts while staying dry. Art and culture are the best companions in the rain.\n\nAt noon, the bus takes us to the Musée de l'École de Nancy. The ride through the city offers a relaxed view of the rain-slicked streets.\n\nIn the afternoon, we visit Parc de la Pépinière. A short walk between showers is possible at any time thanks to the excellent connections.\n\nAfter Basilique Saint-Epvre, we end the day at Marché Central. The covered market is the perfect place to enjoy local specialties in the dry."
+            "en": "From Place Stanislas, we use the dense bus network to get to the Musée des Beaux-Arts while staying dry. Art and culture are the best companions in the rain.\n\nAt noon, the bus takes us to the Musée de l'École de Nancy. The ride through the city offers a relaxed view of the rain-slicked streets.\n\nIn the afternoon, we visit Parc de la Pépinière. A short walk between showers is possible at any time thanks to the excellent connections.\n\nAfter Basilique Saint-Epvre, we end the day at Marché Central. The covered market is the perfect place to enjoy local specialties in the dry.",
+            "fr": "Depuis la Place Stanislas, nous utilisons le réseau dense de bus pour rejoindre le Musée des Beaux-Arts tout en restant au sec. L'art et la culture sont les meilleurs compagnons sous la pluie.\n\nÀ midi, le bus nous emmène au Musée de l'École de Nancy. Le trajet à travers la ville offre une vue relaxante sur les rues mouillées.\n\nL'après-midi, nous visitons le Parc de la Pépinière. Une courte promenade entre deux averses est possible à tout moment grâce aux excellentes correspondances.\n\nAprès la Basilique Saint-Epvre, nous terminons la journée au Marché Central. Le marché couvert est l'endroit idéal pour déguster des spécialités locales au sec."
           },
           "stops": [
             {
@@ -2312,7 +2538,8 @@
                 "de": "Zentrale Haltestellen befinden sich direkt am Rand des Platzes.",
                 "hu": "A központi megállók közvetlenül a tér szélén találhatók.",
                 "ro": "Stațiile centrale se află chiar la marginea pieței.",
-                "en": "Central bus stops are located right at the edge of the square."
+                "en": "Central bus stops are located right at the edge of the square.",
+                "fr": "Les arrêts de bus centraux sont situés juste au bord de la place."
               }
             },
             {
@@ -2321,7 +2548,8 @@
                 "de": "Direkt am Platz gelegen, minimiert es die Zeit im Regen.",
                 "hu": "Közvetlenül a téren található, minimalizálva az esőben töltött időt.",
                 "ro": "Situat chiar în piață, minimizează timpul petrecut în ploaie.",
-                "en": "Located right on the square, it minimizes your time in the rain."
+                "en": "Located right on the square, it minimizes your time in the rain.",
+                "fr": "Situé directement sur la place, il minimise votre temps sous la pluie."
               }
             },
             {
@@ -2330,7 +2558,8 @@
                 "de": "Die Buslinie bringt Sie fast direkt vor den Eingang.",
                 "hu": "A buszjárat szinte közvetlenül a bejáratig visz.",
                 "ro": "Linia de autobuz vă lasă aproape direct în fața intrării.",
-                "en": "The bus line drops you off almost directly in front of the entrance."
+                "en": "The bus line drops you off almost directly in front of the entrance.",
+                "fr": "La ligne de bus vous dépose presque directement devant l'entrée."
               }
             },
             {
@@ -2339,7 +2568,8 @@
                 "de": "Nutzen Sie den Haupteingang in der Nähe der Bushaltestelle.",
                 "hu": "Használja a buszmegállóhoz közeli főbejáratot.",
                 "ro": "Folosiți intrarea principală din apropierea stației de autobuz.",
-                "en": "Use the main entrance near the bus stop."
+                "en": "Use the main entrance near the bus stop.",
+                "fr": "Utilisez l'entrée principale près de l'arrêt de bus."
               }
             },
             {
@@ -2348,7 +2578,8 @@
                 "de": "Viele Linien halten in der historischen Altstadt.",
                 "hu": "Számos járat áll meg a történelmi óvárosban.",
                 "ro": "Multe linii opresc în centrul istoric.",
-                "en": "Many lines stop within the historic old town."
+                "en": "Many lines stop within the historic old town.",
+                "fr": "De nombreuses lignes s'arrêtent au sein de la vieille ville historique."
               }
             },
             {
@@ -2357,7 +2588,8 @@
                 "de": "Ein idealer, komplett überdachter Ort für den Tagesabschluss.",
                 "hu": "Ideális, teljesen fedett helyszín a nap zárásához.",
                 "ro": "Un loc ideal, complet acoperit, pentru finalul zilei.",
-                "en": "An ideal, fully covered location to end your day."
+                "en": "An ideal, fully covered location to end your day.",
+                "fr": "Un lieu idéal et entièrement couvert pour terminer votre journée."
               }
             }
           ],
@@ -2389,6 +2621,13 @@
               "Keep your ticket dry when boarding.",
               "Buses are well-climatized and offer protection from the wet.",
               "Marché Central is the best place for a late lunch when it's raining."
+            ],
+            "fr": [
+              "Utilisez l'application 'Stan' pour les horaires en temps réel.",
+              "Achetez un pass journée pour des transferts illimités.",
+              "Gardez votre ticket au sec lors de la montée.",
+              "Les bus sont bien climatisés et offrent une protection contre l'humidité.",
+              "Le Marché Central est le meilleur endroit pour un déjeuner tardif quand il pleut."
             ]
           }
         },
@@ -2397,7 +2636,8 @@
             "de": "Der festliche Place Stanislas ist unser Ausgangspunkt. Mit dem Bus fahren wir gemütlich zum Musée des Beaux-Arts, während draußen der Winterwind weht.\n\nMittags bringt uns der Transit zum Musée de l'École de Nancy. Die Wärme im Bus ist eine willkommene Pause zwischen den Sehenswürdigkeiten.\n\nAm Nachmittag spazieren wir kurz durch den winterlichen Parc de la Pépinière, bevor wir mit dem Bus zurück in die Altstadt zur Basilika Saint-Epvre fahren.\n\nDen Tag beschließen wir im Marché Central. Die warme, geschäftige Atmosphäre der Markthalle ist im Winter besonders einladend.",
             "hu": "Az ünnepi Place Stanislas a kiindulópontunk. Busszal kényelmesen utazunk a Szépművészeti Múzeumba, miközben kint süvít a téli szél.\n\nDélben a Musée de l'École de Nancy felé vesszük az irányt. A busz melege kellemes pihenőt jelent a látnivalók között.\n\nDélután teszünk egy rövid sétát a téli Pépinière parkban, majd busszal térünk vissza az óvárosba, a Saint-Epvre bazilikához.\n\nA napot a Marché Centralban zárjuk. A piaccsarnok meleg, pezsgő hangulata télen különösen hívogató.",
             "ro": "Punctul nostru de plecare este Place Stanislas. Cu autobuzul mergem confortabil la Musée des Beaux-Arts, în timp ce afară bate vântul de iarnă.\n\nLa prânz folosim transportul în comun spre Musée de l'École de Nancy. Căldura din autobuz este o pauză binevenită între obiectivele turistice.\n\nDupă-amiaza ne plimbăm scurt prin parcul Pépinière hibernal, înainte de a reveni cu autobuzul în centrul vechi la bazilica Saint-Epvre.\n\nÎncheiem ziua la Marché Central. Atmosfera caldă și animată a pieței este deosebit de primitoare iarna.",
-            "en": "The festive Place Stanislas is our starting point. We take a cozy bus ride to the Musée des Beaux-Arts while the winter wind blows outside.\n\nAt noon, transit takes us to the Musée de l'École de Nancy. The warmth on the bus is a welcome break between the sights.\n\nIn the afternoon, we take a short stroll through the wintery Parc de la Pépinière before taking the bus back to the old town to Basilique Saint-Epvre.\n\nWe conclude the day at Marché Central. The warm, bustling atmosphere of the market hall is particularly inviting in winter."
+            "en": "The festive Place Stanislas is our starting point. We take a cozy bus ride to the Musée des Beaux-Arts while the winter wind blows outside.\n\nAt noon, transit takes us to the Musée de l'École de Nancy. The warmth on the bus is a welcome break between the sights.\n\nIn the afternoon, we take a short stroll through the wintery Parc de la Pépinière before taking the bus back to the old town to Basilique Saint-Epvre.\n\nWe conclude the day at Marché Central. The warm, bustling atmosphere of the market hall is particularly inviting in winter.",
+            "fr": "La Place Stanislas festive est notre point de départ. Nous prenons un bus confortable vers le Musée des Beaux-Arts pendant que le vent d'hiver souffle dehors.\n\nÀ midi, les transports nous mènent au Musée de l'École de Nancy. La chaleur dans le bus est une pause bienvenue entre les sites.\n\nL'après-midi, nous faisons une courte promenade dans le Parc de la Pépinière hivernal avant de reprendre le bus vers la vieille ville pour la Basilique Saint-Epvre.\n\nNous concluons la journée au Marché Central. L'atmosphère chaleureuse et animée de la halle du marché est particulièrement invitante en hiver."
           },
           "stops": [
             {
@@ -2406,7 +2646,8 @@
                 "de": "Warten Sie in den beheizten Cafés rund um den Platz auf den Bus.",
                 "hu": "Várja a buszt a tér körüli fűtött kávézók egyikében.",
                 "ro": "Așteptați autobuzul în cafenelele încălzite din jurul pieței.",
-                "en": "Wait for the bus in one of the heated cafes around the square."
+                "en": "Wait for the bus in one of the heated cafes around the square.",
+                "fr": "Attendez le bus dans l'un des cafés chauffés autour de la place."
               }
             },
             {
@@ -2415,7 +2656,8 @@
                 "de": "Garderoben im Inneren bieten Platz für dicke Wintermäntel.",
                 "hu": "A benti ruhatárakban kényelmesen leteheti a vastag télikabátot.",
                 "ro": "Garderobele din interior oferă spațiu pentru paltoanele groase.",
-                "en": "Cloakrooms inside provide space for heavy winter coats."
+                "en": "Cloakrooms inside provide space for heavy winter coats.",
+                "fr": "Les vestiaires à l'intérieur permettent de déposer les gros manteaux d'hiver."
               }
             },
             {
@@ -2424,7 +2666,8 @@
                 "de": "Die Bushaltestelle ist im Winter gut beleuchtet.",
                 "hu": "A buszmegálló télen is jól kivilágított.",
                 "ro": "Stația de autobuz este bine iluminată iarna.",
-                "en": "The bus stop is well-lit in winter."
+                "en": "The bus stop is well-lit in winter.",
+                "fr": "L'arrêt de bus est bien éclairé en hiver."
               }
             },
             {
@@ -2433,7 +2676,8 @@
                 "de": "Ein kurzer Winterspaziergang belebt den Kreislauf.",
                 "hu": "Egy rövid téli séta felpezsdíti a vérkeringést.",
                 "ro": "O scurtă plimbare de iarnă vă va revigora.",
-                "en": "A short winter walk will revitalize your circulation."
+                "en": "A short winter walk will revitalize your circulation.",
+                "fr": "Une courte marche hivernale relancera votre circulation."
               }
             },
             {
@@ -2442,7 +2686,8 @@
                 "de": "Die Kirche bietet einen prachtvollen, windgeschützten Raum.",
                 "hu": "A templom csodálatos, szélvédett belső teret kínál.",
                 "ro": "Biserica oferă un spațiu fastuos, protejat de vânt.",
-                "en": "The church offers a magnificent, wind-protected space."
+                "en": "The church offers a magnificent, wind-protected space.",
+                "fr": "L'église offre un magnifique espace protégé du vent."
               }
             },
             {
@@ -2451,7 +2696,8 @@
                 "de": "Probieren Sie heiße Spezialitäten direkt an den Marktständen.",
                 "hu": "Kóstolja meg a forró specialitásokat közvetlenül az árusoknál.",
                 "ro": "Gustați specialități fierbinți direct de la standurile pieței.",
-                "en": "Try hot specialties directly at the market stalls."
+                "en": "Try hot specialties directly at the market stalls.",
+                "fr": "Goûtez des spécialités chaudes directement aux étals du marché."
               }
             }
           ],
@@ -2483,6 +2729,13 @@
               "Use short-distance tickets for trips within the center.",
               "Waiting times at stops can be chillier in the evening.",
               "Marché Central stays open until 19:00 on Saturdays."
+            ],
+            "fr": [
+              "Les bus circulent de manière fiable en hiver et sont bien chauffés.",
+              "La nuit tombe tôt, et la ville est alors magnifiquement éclairée.",
+              "Utilisez des tickets courte distance pour les trajets dans le centre.",
+              "L'attente aux arrêts peut être plus fraîche en soirée.",
+              "Le Marché Central reste ouvert jusqu'à 19h00 le samedi."
             ]
           }
         }

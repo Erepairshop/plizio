@@ -36,7 +36,8 @@
             "de": "Beachten Sie die neoklassizistische Fassade im Herzen des Dorfes.",
             "hu": "Figyelje meg a neoklasszicista homlokzatot a falu szívében.",
             "ro": "Observați fațada neoclasică din inima satului.",
-            "en": "Note the neoclassical facade in the heart of the village."
+            "en": "Note the neoclassical facade in the heart of the village.",
+            "hr": "Uočite neoklasicističko pročelje u srcu sela."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Genießen Sie die Ruhe bevor Sie zur Küste aufbrechen.",
             "hu": "Élvezze a nyugalmat, mielőtt elindulna a tengerpartra.",
             "ro": "Bucurați-vă de liniște înainte de a pleca spre coastă.",
-            "en": "Enjoy the peace before heading to the coast."
+            "en": "Enjoy the peace before heading to the coast.",
+            "hr": "Uživajte u miru prije odlaska na obalu."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Eine kleine Kapelle mit wunderschönen Mosaikresten.",
             "hu": "Kis kápolna gyönyörű mozaikmaradványokkal.",
             "ro": "O mică capelă cu frumoase resturi de mozaic.",
-            "en": "A small chapel with beautiful mosaic remains."
+            "en": "A small chapel with beautiful mosaic remains.",
+            "hr": "Mala kapelica s prekrasnim ostacima mozaika."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Perfekt zum Schwimmen und für archäologische Entdeckungen.",
             "hu": "Tökéletes úszáshoz és régészeti felfedezésekhez.",
             "ro": "Perfect pentru înot și descoperiri arheologice.",
-            "en": "Perfect for swimming and archaeological discoveries."
+            "en": "Perfect for swimming and archaeological discoveries.",
+            "hr": "Savršeno za kupanje i arheološka otkrića."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Probieren Sie frischen Fisch oder istrischen Schinken.",
             "hu": "Kóstolja meg a friss halat vagy az isztriai sonkát.",
             "ro": "Încercați pește proaspăt sau șuncă istriană.",
-            "en": "Try fresh fish or Istrian ham."
+            "en": "Try fresh fish or Istrian ham.",
+            "hr": "Probajte svježu ribu ili istarski pršut."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Beobachten Sie die kleinen Fischerboote im Abendlicht.",
             "hu": "Nézze meg a kis halászhajókat az esti fényben.",
             "ro": "Priviți micile bărci de pescuit în lumina serii.",
-            "en": "Watch the small fishing boats in the evening light."
+            "en": "Watch the small fishing boats in the evening light.",
+            "hr": "Gledajte male ribarske brodice u večernjem svjetlu."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Der perfekte Abschluss für einen entspannten Tag.",
             "hu": "A tökéletes lezárása egy pihentető napnak.",
             "ro": "Finalul perfect pentru o zi relaxantă.",
-            "en": "The perfect end to a relaxing day."
+            "en": "The perfect end to a relaxing day.",
+            "hr": "Savršen završetak opuštajućeg dana."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Beginnen Sie Ihren Tag im ruhigen Zentrum von Ližnjan mit dem Besuch der neoklassizistischen St. Martinskirche. Nach einem gemütlichen Kaffee schlendern Sie hinunter zur Küste zur geschichtsträchtigen Kuje-Bucht.\n\nMittags tauchen Sie in die antike Atmosphäre bei der kleinen Kapelle der Muttergottes von Kuj ein, bevor Sie den Nachmittag mit Schwimmen und Sonnenbaden im kristallklaren Wasser der Bucht verbringen.\n\nAm späten Nachmittag kehren Sie ins Dorf zurück, um in einer traditionellen Konoba lokale Spezialitäten zu genießen. Ein Spaziergang zum Hafen lässt Sie das authentische Fischerleben spüren.\n\nDen Abend lassen Sie bei einem malerischen Sonnenuntergang ausklingen, während der Blick über die Adria und die nahegelegenen Inseln schweift.",
         "hu": "Kezdje a napot Ližnjan csendes központjában a neoklasszicista Szent Márton-templom meglátogatásával. Egy kellemes kávé után sétáljon le a tengerpartra a történelmi Kuje-öbölhöz.\n\nDélben merüljön el az antik hangulatban a Kuji Boldogasszony kis kápolnánál, majd töltse a délutánt úszással és napozással az öböl kristálytiszta vizében.\n\nKéső délután térjen vissza a faluba, hogy egy hagyományos konobában helyi specialitásokat kóstoljon. Egy séta a kikötőben segít átélni az autentikus halászéletet.\n\nAz estét zárja egy festői naplementével, miközben a kilátás az Adriára és a közeli szigetekre nyílik.",
         "ro": "Începeți ziua în centrul liniștit al localității Ližnjan cu o vizită la biserica neoclasică Sfântul Martin. După o cafea relaxantă, coborâți spre coastă către golful istoric Kuje.\n\nLa prânz, scufundați-vă în atmosfera antică de la mica capelă a Maicii Domnului din Kuj, apoi petreceți după-amiaza înotând și făcând plajă în apele cristaline ale golfului.\n\nSpre seară, reveniți în sat pentru a savura specialități locale într-o konoba tradițională. O plimbare prin port vă va face să simțiți viața autentică de pescar.\n\nÎncheiați seara cu un apus pitoresc, în timp ce privirea alunecă peste Marea Adriatică și insulele din apropiere.",
-        "en": "Start your day in the quiet center of Ližnjan by visiting the neoclassical St. Martin's Church. After a cozy coffee, stroll down to the coast to the historic Kuje Bay.\n\nAt midday, immerse yourself in the ancient atmosphere at the small chapel of the Mother of God from Kuj, then spend the afternoon swimming and sunbathing in the bay's crystal-clear waters.\n\nIn the late afternoon, return to the village to enjoy local specialties in a traditional konoba. A walk to the harbour lets you experience the authentic fisherman's life.\n\nEnd the evening with a picturesque sunset, as the view stretches across the Adriatic and the nearby islands."
+        "en": "Start your day in the quiet center of Ližnjan by visiting the neoclassical St. Martin's Church. After a cozy coffee, stroll down to the coast to the historic Kuje Bay.\n\nAt midday, immerse yourself in the ancient atmosphere at the small chapel of the Mother of God from Kuj, then spend the afternoon swimming and sunbathing in the bay's crystal-clear waters.\n\nIn the late afternoon, return to the village to enjoy local specialties in a traditional konoba. A walk to the harbour lets you experience the authentic fisherman's life.\n\nEnd the evening with a picturesque sunset, as the view stretches across the Adriatic and the nearby islands.",
+        "hr": "Započnite dan u mirnom središtu Ližnjana posjetom neoklasicističkoj crkvi sv. Martina. Nakon ugodne kave, prošećite do obale do povijesne uvale Kuje.\n\nU podne uronite u drevnu atmosferu u maloj kapelici Majke Božje od Kuj, a zatim provedite poslijepodne plivajući i sunčajući se u kristalno čistom moru uvale.\n\nKasno poslijepodne vratite se u selo kako biste uživali u lokalnim specijalitetima u tradicionalnoj konobi. Šetnja do luke omogućuje vam da doživite autentičan život ribara.\n\nVečer završite slikovitim zalaskom sunca, dok se pogled pruža preko Jadrana i obližnjih otoka."
       },
       "gastro_picks": {
         "de": [
@@ -224,6 +232,16 @@
             "name": "Maneštra",
             "tip": "Traditional Istrian vegetable stew."
           }
+        ],
+        "hr": [
+          {
+            "name": "Istarski pršut",
+            "tip": "Sušena i tanko narezana delicija."
+          },
+          {
+            "name": "Maneštra",
+            "tip": "Tradicionalno istarsko varivo od povrća."
+          }
         ]
       },
       "quiet_picks": {
@@ -254,6 +272,13 @@
             "tip": "Quiet spot in the morning hours.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Uvala Kuje",
+            "tip": "Mirno mjesto u jutarnjim satima.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -280,6 +305,12 @@
             "name": "Local Olive Oil",
             "tip": "Directly from the producer in Ližnjan."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno maslinovo ulje",
+            "tip": "Izravno od proizvođača u Ližnjanu."
+          }
         ]
       },
       "tips": {
@@ -302,6 +333,11 @@
           "Wear comfortable shoes for the walk to the bay.",
           "Bring water shoes for the pebble beach.",
           "Reserve a table in the konoba during peak season."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za šetnju do uvale.",
+          "Ponesite cipele za vodu za šljunčanu plažu.",
+          "Rezervirajte stol u konobi tijekom vrhunca sezone."
         ]
       },
       "variants": {
@@ -310,7 +346,8 @@
             "de": "Beginnen Sie den Tag in der schützenden St. Martinskirche. Genießen Sie einen heißen Tee am Dorfplatz, während der Regen gegen die Fenster prasselt. Mittags bietet die Bucht von Kuje eine dramatische Kulisse mit aufgewühltem Meer. Den Nachmittag verbringen Sie gemütlich in einer warmen Konoba bei istrischen Spezialitäten, bevor ein kurzer, erfrischender Hafenspaziergang den Tag abrundet.",
             "hu": "Kezdje a napot a Szent Márton-templom védelmében. Élvezzen egy forró teát a falu főterén, miközben az eső kopog az ablakon. Délben a Kuje-öböl drámai látványt nyújt a felkorbolt tengerrel. A délutánt töltheti egy meleg konobában isztriai ételek mellett, majd egy rövid, frissítő kikötői séta zárja a napot, ahol a sós tengeri levegő esővel keveredik.",
             "ro": "Începeți ziua sub protecția bisericii Sf. Martin. Savurați un ceai fierbinte în piața satului în timp ce ploaia bate în geamuri. La prânz, golful Kuje oferă un peisaj dramatic cu marea agitată. Petreceți după-amiaza într-o konoba călduroasă cu specialități istriene, iar seara o scurtă plimbare revigorantă prin port încheie ziua în aerul sărat.",
-            "en": "Start the day under the protection of St. Martin's Church. Enjoy a hot tea at the village square while the rain taps on the windows. At noon, Kuje Bay offers a dramatic backdrop with the churning sea. Spend the afternoon in a warm konoba with Istrian specialties, and a short, refreshing harbour walk concludes the day in the salty, rain-washed air."
+            "en": "Start the day under the protection of St. Martin's Church. Enjoy a hot tea at the village square while the rain taps on the windows. At noon, Kuje Bay offers a dramatic backdrop with the churning sea. Spend the afternoon in a warm konoba with Istrian specialties, and a short, refreshing harbour walk concludes the day in the salty, rain-washed air.",
+            "hr": "Započnite dan pod zaštitom crkve sv. Martina. Uživajte u toplom čaju na seoskom trgu dok kiša lupka po prozorima. U podne uvala Kuje nudi dramatičnu kulisu s uzburkanim morem. Provedite poslijepodne u toploj konobi uz istarske specijalitete, a kratka, osvježavajuća šetnja lukom zaključuje dan u slanom zraku opranom kišom."
           },
           "stops": [
             {
@@ -405,6 +442,13 @@
               "Use church visits as natural rain breaks.",
               "A pocket umbrella is more practical than a large one due to the wind.",
               "Watch out for puddles on the unpaved paths to the bay."
+            ],
+            "hr": [
+              "Nosite vodootporne pješačke cipele za obalne staze.",
+              "Konobe u centru sela najbolja su utočišta tijekom jake kiše.",
+              "Posjete crkvi iskoristite kao prirodne pauze od kiše.",
+              "Džepni kišobran je praktičniji od velikog zbog vjetra.",
+              "Pripazite na lokve na neasfaltiranim stazama do uvale."
             ]
           }
         },
@@ -413,7 +457,8 @@
             "de": "Die Wintersonne über Ližnjan ist mild, aber die Bora kann kühl wehen. Morgens besichtigen Sie die ruhigen Kirchen ohne Touristenströme. Mittags wärmen Sie sich bei einem Kaffee am Platz auf. Die Bucht von Kuje lädt zu einem einsamen Spaziergang ein. Da die Sonne gegen 16:30 Uhr untergeht, genießen Sie das goldene Licht am Hafen frühzeitig vor einem gemütlichen Abendessen.",
             "hu": "A téli nap Ližnjan felett enyhe, de a bóra hideg lehet. Reggel látogassa meg a csendes templomokat turisták nélkül. Délben melegedjen fel egy kávéval a téren. A Kuje-öböl magányos sétára hívogat. Mivel a nap 16:30 körül nyugszik, élvezze korán az aranyló fényeket a kikötőben, mielőtt egy hangulatos vacsorára indulna.",
             "ro": "Soarele de iarnă peste Ližnjan este blând, dar bora poate fi rece. Dimineața vizitați bisericile liniștite, fără fluxuri de turiști. La prânz încălziți-vă cu o cafea în piață. Golful Kuje invită la o plimbare solitară. Deoarece soarele apune în jur de 16:30, savurați lumina aurie în port devreme, înainte de o cină primitoare.",
-            "en": "The winter sun over Ližnjan is mild, but the Bora wind can be chilly. In the morning, visit the quiet churches without the tourist crowds. At noon, warm up with a coffee at the square. Kuje Bay invites you for a solitary walk. Since the sun sets around 4:30 PM, enjoy the golden light at the harbour early before a cozy dinner."
+            "en": "The winter sun over Ližnjan is mild, but the Bora wind can be chilly. In the morning, visit the quiet churches without the tourist crowds. At noon, warm up with a coffee at the square. Kuje Bay invites you for a solitary walk. Since the sun sets around 4:30 PM, enjoy the golden light at the harbour early before a cozy dinner.",
+            "hr": "Zimsko sunce nad Ližnjanom je blago, ali bura može biti hladna. Ujutro posjetite mirne crkve bez turističkih gužvi. U podne se ugrijte uz kavu na trgu. Uvala Kuje poziva vas na osamljenu šetnju. Budući da sunce zalazi oko 16:30, rano uživajte u zlatnom svjetlu u luci prije ugodne večere."
           },
           "stops": [
             {
@@ -508,6 +553,13 @@
               "Many cafe terraces have outdoor heaters.",
               "Visit the archaeological sites in Kuje without the summer heat.",
               "Bora winds can be very strong on the coast."
+            ],
+            "hr": [
+              "Slojevita odjeća pomaže protiv hladnog vjetra.",
+              "Sunce rano nestaje iza brda.",
+              "Mnoge terase kafića imaju vanjske grijalice.",
+              "Posjetite arheološka nalazišta u Kujama bez ljetnih vrućina.",
+              "Bura na obali može biti vrlo jaka."
             ]
           }
         }
@@ -541,7 +593,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Kiindulópont a központban.",
             "ro": "Punct de plecare în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "hr": "Početna točka u centru."
           }
         },
         {
@@ -564,7 +617,8 @@
             "de": "Unberührte Natur und Schotterwege entlang der Küste.",
             "hu": "Érintetlen természet és kavicsos utak a part mentén.",
             "ro": "Natură neatinsă și drumuri pietruite de-a lungul coastei.",
-            "en": "Untouched nature and gravel paths along the coast."
+            "en": "Untouched nature and gravel paths along the coast.",
+            "hr": "Netaknuta priroda i makadamske staze uz obalu."
           }
         },
         {
@@ -587,7 +641,8 @@
             "de": "Ein einsamer Leuchtturm mit Blick auf die Insel Cres.",
             "hu": "Magányos világítótorony kilátással Cres szigetére.",
             "ro": "Un far singuratic cu vedere spre insula Cres.",
-            "en": "A lonely lighthouse with a view of Cres island."
+            "en": "A lonely lighthouse with a view of Cres island.",
+            "hr": "Usamljeni svjetionik s pogledom na otok Cres."
           }
         },
         {
@@ -610,7 +665,8 @@
             "de": "Finden Sie Ihren eigenen Platz am felsigen Ufer.",
             "hu": "Találja meg saját helyét a sziklás parton.",
             "ro": "Găsiți-vă propriul loc pe țărmul stâncos.",
-            "en": "Find your own spot on the rocky shore."
+            "en": "Find your own spot on the rocky shore.",
+            "hr": "Pronađite svoje mjesto na stjenovitoj obali."
           }
         },
         {
@@ -633,7 +689,8 @@
             "de": "Stärken Sie sich für den Rest der Tour.",
             "hu": "Gyűjtsön erőt a túra hátralévő részéhez.",
             "ro": "Primiți energie pentru restul turului.",
-            "en": "Get energy for the rest of the tour."
+            "en": "Get energy for the rest of the tour.",
+            "hr": "Skupite energiju za ostatak ture."
           }
         },
         {
@@ -656,7 +713,8 @@
             "de": "Ein kurzer Stopp an der archäologischen Stätte.",
             "hu": "Rövid megálló a régészeti lelőhelynél.",
             "ro": "O scurtă oprire la situl arheologic.",
-            "en": "A short stop at the archaeological site."
+            "en": "A short stop at the archaeological site.",
+            "hr": "Kratko zaustavljanje na arheološkom nalazištu."
           }
         },
         {
@@ -679,7 +737,8 @@
             "de": "Letzte Besichtigung vor der Rückkehr.",
             "hu": "Utolsó látnivaló a visszatérés előtt.",
             "ro": "Ultima vizită înainte de întoarcere.",
-            "en": "Last visit before returning."
+            "en": "Last visit before returning.",
+            "hr": "Zadnji posjet prije povratka."
           }
         },
         {
@@ -702,7 +761,8 @@
             "de": "Verdiente Abkühlung nach der Fahrt.",
             "hu": "Megérdemelt hűsítő a tekerés után.",
             "ro": "Răcorire binemeritată după plimbare.",
-            "en": "Well-deserved cool down after the ride."
+            "en": "Well-deserved cool down after the ride.",
+            "hr": "Zasluženo hlađenje nakon vožnje."
           }
         }
       ],
@@ -710,7 +770,8 @@
         "de": "Erkunden Sie die wilde Schönheit von Ližnjan mit dem Fahrrad. Von der St. Martinskirche führt der Weg zur unberührten Halbinsel Marlera, wo Schotterwege und eine raue Küste auf Sie warten.\n\nBesuchen Sie den einsamen Leuchtturm am Ende der Halbinsel und genießen Sie die Stille. Eine Pause in einer der versteckten Buchten bietet die perfekte Erfrischung im Meer.\n\nNach einem stärkenden Mittagessen im Dorf radeln Sie zur Kuje-Bucht, um die archäologischen Schätze und die kleine Kapelle zu besichtigen.\n\nDer Tag endet entspannt mit einem hausgemachten Eis im Dorfzentrum, während Sie die Kilometer des Tages Revue passieren lassen.",
         "hu": "Fedezze fel Ližnjan vad szépségét kerékpárral. A Szent Márton-templomtól az út az érintetlen Marlera-félszigetre vezet, ahol kavicsos utak és vadpart várja.\n\nLátogassa meg a magányos világítótornyot a félsziget végén, és élvezze a csendet. Egy pihenő az egyik rejtett öbölben tökéletes felfrissülést nyújt a tengerben.\n\nEgy laktató falusi ebéd után tekerjen el a Kuje-öbölhöz, hogy megtekintse a régészeti kincseket és a kis kápolnát.\n\nA napot egy házi fagyival zárhatja a falu központjában, miközben felidézi a nap során megtett kilométereket.",
         "ro": "Explorați frumusețea sălbatică a localității Ližnjan cu bicicleta. De la biserica Sfântul Martin, drumul duce spre peninsula neatinsă Marlera, unde vă așteaptă drumuri de pietriș și o coastă aspră.\n\nVizitați farul singuratic de la capătul peninsulei și bucurați-vă de liniște. O pauză într-unul dintre golfurile ascunse oferă reîmprospătarea perfectă în mare.\n\nDupă un prânz consistent în sat, pedalați spre golful Kuje pentru a vedea comorile arheologice și mica capelă.\n\nZiua se încheie relaxat cu o înghețată artizanală în centrul satului, în timp ce treceți în revistă kilometrii parcurși.",
-        "en": "Explore the wild beauty of Ližnjan by bike. From St. Martin's Church, the path leads to the untouched Marlera Peninsula, where gravel paths and a rugged coast await you.\n\nVisit the lonely lighthouse at the end of the peninsula and enjoy the silence. A break in one of the hidden coves offers the perfect refreshment in the sea.\n\nAfter a hearty lunch in the village, cycle to Kuje Bay to see the archaeological treasures and the small chapel.\n\nThe day ends relaxedly with a homemade gelato in the village center, as you review the kilometers covered during the day."
+        "en": "Explore the wild beauty of Ližnjan by bike. From St. Martin's Church, the path leads to the untouched Marlera Peninsula, where gravel paths and a rugged coast await you.\n\nVisit the lonely lighthouse at the end of the peninsula and enjoy the silence. A break in one of the hidden coves offers the perfect refreshment in the sea.\n\nAfter a hearty lunch in the village, cycle to Kuje Bay to see the archaeological treasures and the small chapel.\n\nThe day ends relaxedly with a homemade gelato in the village center, as you review the kilometers covered during the day.",
+        "hr": "Istražite divlju ljepotu Ližnjana biciklom. Od crkve sv. Martina staza vodi do netaknutog poluotoka Marlera, gdje vas čekaju makadamski putovi i krševita obala.\n\nPosjetite usamljeni svjetionik na kraju poluotoka i uživajte u tišini. Predah u jednoj od skrivenih uvala nudi savršeno osvježenje u moru.\n\nNakon obilnog ručka u selu, odvezite se do uvale Kuje kako biste vidjeli arheološka blaga i malu kapelicu.\n\nDan završava opušteno uz domaći sladoled u centru sela, dok prebirate prijeđene kilometre tijekom dana."
       },
       "gastro_picks": {
         "de": [
@@ -735,6 +796,12 @@
           {
             "name": "Istrian Pasta (Fuži)",
             "tip": "Often served with truffles or goulash."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Istarski fuži",
+            "tip": "Često se poslužuju s tartufima ili gulašem."
           }
         ]
       },
@@ -766,6 +833,13 @@
             "tip": "Pure solitude by the sea.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Svjetionik Marlera",
+            "tip": "Čista osama uz more.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -792,6 +866,12 @@
             "name": "Regional Honey",
             "tip": "Spicy sage honey."
           }
+        ],
+        "hr": [
+          {
+            "name": "Regionalni med",
+            "tip": "Aromatični med od kadulje."
+          }
         ]
       },
       "tips": {
@@ -814,6 +894,11 @@
           "Check tire pressure before the ride to Marlera.",
           "Take enough water, as there is no shade on the peninsula.",
           "A mountain bike is ideal for the gravel paths."
+        ],
+        "hr": [
+          "Provjerite tlak u gumama prije vožnje do Marlere.",
+          "Uzmite dovoljno vode jer na poluotoku nema hlada.",
+          "Planinski bicikl je idealan za makadamske staze."
         ]
       },
       "variants": {
@@ -822,7 +907,8 @@
             "de": "Eine Radtour im Regen erfordert gute Ausrüstung. Besuchen Sie die Kirche St. Martin, bevor Sie zur Marlera-Halbinsel aufbrechen. Der unbefestigte Weg kann schlammig sein, was das Abenteuer steigert. Suchen Sie Schutz am Leuchtturm und genießen Sie die Aussicht. Nach dem Mittagessen im Dorf wärmen Sie sich in der Kuje-Bucht auf, bevor ein Eisstopp den nassen, aber aktiven Tag abschließt.",
             "hu": "Egy kerékpártúra esőben jó felszerelést igényel. Látogassa meg a Szent Márton-templomot, mielőtt a Marlera-félszigetre indulna. A burkolatlan út saras lehet, ami növeli a kalandot. Keressen menedéket a világítótoronynál és élvezze a kilátást. Ebéd után a faluban melegedjen fel a Kuje-öbölben, majd egy fagylaltozás zárja ezt a vizes, de aktív napot.",
             "ro": "O tură cu bicicleta pe ploaie necesită echipament bun. Vizitați biserica Sf. Martin înainte de a pleca spre peninsula Marlera. Drumul neasfaltat poate fi noroios, ceea ce sporește aventura. Căutați adăpost la far și savurați priveliștea. După prânzul în sat, încălziți-vă în golful Kuje, iar o oprire pentru înghețată încheie această zi udă, dar activă.",
-            "en": "A bike tour in the rain requires good gear. Visit St. Martin's Church before heading to the Marlera peninsula. The unpaved path can be muddy, which adds to the adventure. Seek shelter at the lighthouse and enjoy the view. After lunch in the village, warm up near Kuje Bay, and a gelato stop concludes this wet but active day."
+            "en": "A bike tour in the rain requires good gear. Visit St. Martin's Church before heading to the Marlera peninsula. The unpaved path can be muddy, which adds to the adventure. Seek shelter at the lighthouse and enjoy the view. After lunch in the village, warm up near Kuje Bay, and a gelato stop concludes this wet but active day.",
+            "hr": "Biciklistička tura po kiši zahtijeva dobru opremu. Posjetite crkvu sv. Martina prije odlaska na poluotok Marleru. Neasfaltirani put može biti blatan, što doprinosi avanturi. Potražite zaklon kod svjetionika i uživajte u pogledu. Nakon ručka u selu, ugrijte se u blizini uvale Kuje, a posjet slastičarnici zaključuje ovaj mokar, ali aktivan dan."
           },
           "stops": [
             {
@@ -926,6 +1012,13 @@
               "Pack valuables in waterproof bags.",
               "Paths on Marlera can become impassable during heavy rain.",
               "Choose a route with more asphalt sections."
+            ],
+            "hr": [
+              "Blatobrani su obavezni na makadamskim stazama.",
+              "Izbjegavajte naglo kočenje na mokrom asfaltu.",
+              "Dragocjenosti spakirajte u vodootporne torbe.",
+              "Staze na Marleri mogu postati neprohodne tijekom jake kiše.",
+              "Odaberite rutu s više asfaltiranih dijelova."
             ]
           }
         },
@@ -934,7 +1027,8 @@
             "de": "Eine Winter-Radtour führt Sie durch die klare istrische Luft. Nach der St. Martinskirche erkunden Sie die Marlera-Halbinsel, die im Winter fast menschenleer ist. Der Leuchtturm bietet ein raues Panorama. Statt Schwimmen genießen Sie ein Picknick mit Aussicht. Mittags wärmt Sie die Sonne im Dorf auf. Die Kuje-Bucht zeigt sich von ihrer ruhigen Seite, bevor Sie den Tag mit einem Heißgetränk beenden.",
             "hu": "Egy téli biciklitúra a tiszta isztriai levegőn vezet keresztül. A Szent Márton-templom után fedezze fel a Marlera-félszigetet, amely télen szinte néptelen. A világítótorony nyers panorámát kínál. Úszás helyett élvezzen egy pikniket a kilátással. Délben a nap felmelegíti a faluban. A Kuje-öböl a nyugodt arcát mutatja, mielőtt egy forró itallal zárná a napot.",
             "ro": "O tură de iarnă cu bicicleta vă poartă prin aerul curat istrian. După biserica Sf. Martin, explorați peninsula Marlera, aproape pustie iarna. Farul oferă o panoramă aspră. În loc de înot, savurați un picnic cu vedere. La prânz, soarele vă încălzește în sat. Golful Kuje își arată latura liniștită, înainte de a încheia ziua cu o băutură fierbinte.",
-            "en": "A winter bike tour takes you through the crisp Istrian air. After St. Martin's Church, explore the Marlera peninsula, which is almost deserted in winter. The lighthouse offers a rugged panorama. Instead of swimming, enjoy a picnic with a view. At noon, the sun warms you up in the village. Kuje Bay shows its quiet side before you end the day with a hot drink."
+            "en": "A winter bike tour takes you through the crisp Istrian air. After St. Martin's Church, explore the Marlera peninsula, which is almost deserted in winter. The lighthouse offers a rugged panorama. Instead of swimming, enjoy a picnic with a view. At noon, the sun warms you up in the village. Kuje Bay shows its quiet side before you end the day with a hot drink.",
+            "hr": "Zimska biciklistička tura vodi vas kroz svjež istarski zrak. Nakon crkve sv. Martina, istražite poluotok Marleru, koji je zimi gotovo pust. Svjetionik nudi krševitu panoramu. Umjesto kupanja, uživajte u pikniku s pogledom. U podne će vas sunce ugrijati u selu. Uvala Kuje pokazuje svoju mirnu stranu prije nego što dan završite toplim napitkom."
           },
           "stops": [
             {
@@ -1038,6 +1132,13 @@
               "Unpaved paths are often firmer in winter than in summer.",
               "Drink enough water even in the cold.",
               "Visibility towards the Kvarner islands is often better in winter."
+            ],
+            "hr": [
+              "Nosite rukavice; osjet hladnoće zbog vjetra je zimi leden.",
+              "Pripazite na kraće dane; provjerite svjetla na biciklu.",
+              "Neasfaltirane staze su zimi često čvršće nego ljeti.",
+              "Pijte dovoljno vode čak i na hladnoći.",
+              "Vidljivost prema kvarnerskim otocima često je bolja zimi."
             ]
           }
         }
@@ -1071,7 +1172,8 @@
             "de": "Parken Sie im Dorfzentrum.",
             "hu": "Parkoljon a falu központjában.",
             "ro": "Parcați în centrul satului.",
-            "en": "Park in the village center."
+            "en": "Park in the village center.",
+            "hr": "Parkirajte u centru sela."
           }
         },
         {
@@ -1094,7 +1196,8 @@
             "de": "Genießen Sie die Atmosphäre des istrischen Alltags.",
             "hu": "Élvezze az isztriai mindennapok hangulatát.",
             "ro": "Bucurați-vă de atmosfera vieții cotidiene istriene.",
-            "en": "Enjoy the atmosphere of everyday Istrian life."
+            "en": "Enjoy the atmosphere of everyday Istrian life.",
+            "hr": "Uživajte u atmosferi svakodnevnog istarskog života."
           }
         },
         {
@@ -1117,7 +1220,8 @@
             "de": "Einfache Anfahrt über die asphaltierte Straße zur Bucht.",
             "hu": "Egyszerű megközelítés az öbölhöz vezető aszfaltozott úton.",
             "ro": "Acces ușor prin drumul asfaltat spre golf.",
-            "en": "Easy access via the paved road to the bay."
+            "en": "Easy access via the paved road to the bay.",
+            "hr": "Lak pristup asfaltiranom cestom do uvale."
           }
         },
         {
@@ -1140,7 +1244,8 @@
             "de": "Besuchen Sie die Überreste der römischen Villa.",
             "hu": "Látogassa meg a római villa maradványait.",
             "ro": "Vizitați resturile vilei romane.",
-            "en": "Visit the remains of the Roman villa."
+            "en": "Visit the remains of the Roman villa.",
+            "hr": "Posjetite ostatke rimske vile."
           }
         },
         {
@@ -1163,7 +1268,8 @@
             "de": "Vorsicht auf dem unbefestigten Weg, langsam fahren.",
             "hu": "Vigyázat a nem szilárd burkolatú úton, vezessen lassan.",
             "ro": "Atenție pe drumul neasfaltat, conduceți încet.",
-            "en": "Caution on the unpaved path, drive slowly."
+            "en": "Caution on the unpaved path, drive slowly.",
+            "hr": "Oprez na neasfaltiranom putu, vozite polako."
           }
         },
         {
@@ -1186,7 +1292,8 @@
             "de": "Lassen Sie den Tag bei gutem Essen ausklingen.",
             "hu": "Zárja a napot egy jó étkezéssel.",
             "ro": "Încheiați ziua cu o masă bună.",
-            "en": "End the day with a good meal."
+            "en": "End the day with a good meal.",
+            "hr": "Završite dan dobrim obrokom."
           }
         }
       ],
@@ -1194,7 +1301,8 @@
         "de": "Erleben Sie Ližnjan komfortabel mit dem Auto. Starten Sie im Dorfzentrum bei der St. Martinskirche und genießen Sie einen Kaffee, bevor Sie zur geschichtsträchtigen Kuje-Bucht fahren.\n\nDort entdecken Sie die antiken Überreste einer römischen Villa und die charmante Kapelle der Muttergottes von Kuj. Die Bucht lädt auch zu einer entspannten Badepause ein.\n\nWeiter geht es zum südlichsten Punkt, dem Leuchtturm Marlera. Die Fahrt führt über unbefestigte Wege durch eine wilde Naturlandschaft mit weiten Ausblicken auf das Meer.\n\nZurück im Dorf erwartet Sie ein exzellentes Abendessen in einer der lokalen Konobas, wo Sie die Aromen Istriens genießen können.",
         "hu": "Fedezze fel Ližnjant kényelmesen autóval. Kezdjen a falu központjában a Szent Márton-templomnál, és igyon meg egy kávét, mielőtt a történelmi Kuje-öbölhöz hajtana.\n\nOtt fedezze fel egy római villa antik maradványait és a Kuji Boldogasszony bájos kápolnáját. Az öböl pihentető fürdőzésre is csábít.\n\nFolytassa útját a legdélebbi pontig, a Marlera világítótoronyhoz. Az út nem aszfaltozott ösvényeken vezet keresztül a vad természeti tájon, tágas kilátással a tengerre.\n\nVisszatérve a faluba, kiváló vacsora várja az egyik helyi konobában, ahol élvezheti Isztria ízeit.",
         "ro": "Experimentați Ližnjan confortabil cu mașina. Începeți în centrul satului la biserica Sfântul Martin și savurați o cafea înainte de a merge la golful istoric Kuje.\n\nAcolo veți descoperi resturile antice ale unei vile romane și fermecătoarea capelă a Maicii Domnului din Kuj. Golful vă invită, de asemenea, la o pauză de baie relaxantă.\n\nContinuați spre cel mai sudic punct, farul Marlera. Drumul duce pe poteci neasfaltate printr-un peisaj natural sălbatic, cu vederi largi spre mare.\n\nReveniți în sat pentru o cină excelentă la una dintre konobele locale, unde puteți savura aromele Istriei.",
-        "en": "Experience Ližnjan comfortably by car. Start in the village center at St. Martin's Church and enjoy a coffee before driving to the historic Kuje Bay.\n\nThere you will discover the ancient remains of a Roman villa and the charming chapel of the Mother of God from Kuj. The bay also invites you for a relaxing swim break.\n\nContinue to the southernmost point, the Marlera Lighthouse. The drive leads over unpaved paths through a wild natural landscape with wide views of the sea.\n\nBack in the village, an excellent dinner awaits you in one of the local konobas, where you can enjoy the flavors of Istria."
+        "en": "Experience Ližnjan comfortably by car. Start in the village center at St. Martin's Church and enjoy a coffee before driving to the historic Kuje Bay.\n\nThere you will discover the ancient remains of a Roman villa and the charming chapel of the Mother of God from Kuj. The bay also invites you for a relaxing swim break.\n\nContinue to the southernmost point, the Marlera Lighthouse. The drive leads over unpaved paths through a wild natural landscape with wide views of the sea.\n\nBack in the village, an excellent dinner awaits you in one of the local konobas, where you can enjoy the flavors of Istria.",
+        "hr": "Doživite Ližnjan udobno automobilom. Započnite u centru sela kod crkve sv. Martina i uživajte u kavi prije vožnje do povijesne uvale Kuje.\n\nTamo ćete otkriti drevne ostatke rimske vile i šarmantnu kapelicu Majke Božje od Kuj. Uvala vas također poziva na opuštajuću pauzu za kupanje.\n\nNastavite do najjužnije točke, svjetionika Marlera. Vožnja vodi preko neasfaltiranih staza kroz divlji prirodni krajolik s prostranim pogledom na more.\n\nPovratak u selo, gdje vas čeka izvrsna večera u jednoj od lokalnih konoba, gdje možete uživati u okusima Istre."
       },
       "gastro_picks": {
         "de": [
@@ -1219,6 +1327,12 @@
           {
             "name": "Fresh Seafood",
             "tip": "Directly from the nets of local fishermen."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Svježi plodovi mora",
+            "tip": "Izravno iz mreža lokalnih ribara."
           }
         ]
       },
@@ -1250,6 +1364,13 @@
             "tip": "Wide nature without crowds.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Poluotok Marlera",
+            "tip": "Prostrana priroda bez gužve.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1276,6 +1397,12 @@
             "name": "Local Wine",
             "tip": "Malvazija or Teran from the winery."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno vino",
+            "tip": "Malvazija ili Teran iz vinarije."
+          }
         ]
       },
       "tips": {
@@ -1298,6 +1425,11 @@
           "The road to the lighthouse is stony, drive carefully.",
           "Parking in the center is mostly free.",
           "Combine the trip with a visit to nearby Medulin."
+        ],
+        "hr": [
+          "Cesta do svjetionika je kamenita, vozite oprezno.",
+          "Parking u centru je uglavnom besplatan.",
+          "Kombinirajte izlet s posjetom obližnjem Medulinu."
         ]
       },
       "variants": {
@@ -1306,7 +1438,8 @@
             "de": "Mit dem Auto ist Ližnjan auch bei Regen komfortabel. Besuchen Sie die St. Martinskirche und entspannen Sie bei einem Kaffee im Zentrum. Die Fahrt zur Bucht von Kuje bietet tolle Ausblicke auf die stürmische See, ohne nass zu werden. Der Marlera-Leuchtturm wirkt bei Regen besonders mystisch. Ein ausgedehntes Mittagessen in einer Konoba macht den Regentag zum kulinarischen Erlebnis.",
             "hu": "Autóval Ližnjan esőben is kényelmes. Látogassa meg a Szent Márton-templomot és pihenjen egy kávé mellett a központban. Az út a Kuje-öbölbe nagyszerű kilátást nyújt a viharos tengerre anélkül, hogy megázna. A marlerai világítótorony esőben különösen misztikus. Egy hosszú ebéd egy konobában a borús napot gasztronómiai élménnyé teszi.",
             "ro": "Cu mașina, Ližnjan este confortabil chiar și pe ploaie. Vizitați biserica Sf. Martin și relaxați-vă cu o cafea în centru. Drumul spre golful Kuje oferă vederi superbe spre marea înfuriată, fără să vă udați. Farul Marlera pare deosebit de mistic pe ploaie. Un prânz prelungit într-o konoba transformă ziua ploioasă într-o experiență culinară.",
-            "en": "Ližnjan is comfortable by car even in the rain. Visit St. Martin's Church and relax with a coffee in the center. The drive to Kuje Bay offers great views of the stormy sea without getting wet. The Marlera lighthouse looks particularly mystical in the rain. A long lunch in a konoba turns the rainy day into a culinary highlight."
+            "en": "Ližnjan is comfortable by car even in the rain. Visit St. Martin's Church and relax with a coffee in the center. The drive to Kuje Bay offers great views of the stormy sea without getting wet. The Marlera lighthouse looks particularly mystical in the rain. A long lunch in a konoba turns the rainy day into a culinary highlight.",
+            "hr": "Ližnjan je ugodan automobilom čak i po kiši. Posjetite crkvu sv. Martina i opustite se uz kavu u centru. Vožnja do uvale Kuje nudi prekrasan pogled na olujno more bez močenja. Svjetionik Marlera izgleda posebno mistično na kiši. Dug ručak u konobi pretvara kišni dan u kulinarski vrhunac."
           },
           "stops": [
             {
@@ -1392,6 +1525,13 @@
               "Use the AC to prevent windows from fogging up.",
               "Do not park under trees during potential storms.",
               "Don't leave wet umbrellas on the car seats."
+            ],
+            "hr": [
+              "Vozite oprezno na uskim cestama zbog rizika od akvaplaninga.",
+              "Pristup svjetioniku može biti blatan tijekom jake kiše.",
+              "Koristite klimu kako biste spriječili zamagljivanje stakala.",
+              "Ne parkirajte ispod drveća tijekom mogućih oluja.",
+              "Ne ostavljajte mokre kišobrane na sjedalima automobila."
             ]
           }
         },
@@ -1400,7 +1540,8 @@
             "de": "Im Winter bietet das Auto die ideale Basis, um Ližnjan warm zu erkunden. Starten Sie bei St. Martin und genießen Sie die klare Luft. Die Fahrt zum Marlera-Leuchtturm ist im Winter ungestört; das raue Meer ist ein toller Anblick. In der Kuje-Bucht können Sie kurz verweilen, bevor Sie im Dorf zu Mittag essen. Dank des Autos erreichen Sie alle Punkte bequem vor Einbruch der frühen Dunkelheit.",
             "hu": "Télen az autó ideális bázist nyújt Ližnjan meleg felfedezéséhez. Kezdjen a Szent Mártonnál és élvezze a tiszta levegőt. Az út a marlerai világítótoronyhoz télen zavartalan; a nyers tenger látványa lenyűgöző. A Kuje-öbölben tehet egy rövid kitérőt az ebéd előtt. Az autónak köszönhetően minden pontot kényelmesen elér a korai sötétedés előtt.",
             "ro": "Iarna, mașina oferă baza ideală pentru a explora Ližnjan la căldură. Începeți la Sf. Martin și savurați aerul curat. Drumul spre farul Marlera este neîntrerupt iarna; marea aspră e o priveliște superbă. În golful Kuje puteți zăbovi scurt înainte de prânz. Datorită mașinii, ajungeți confortabil la toate punctele înainte de lăsarea întunericului.",
-            "en": "In winter, the car provides an ideal warm base for exploring Ližnjan. Start at St. Martin's and enjoy the crisp air. The drive to the Marlera lighthouse is peaceful in winter; the rugged sea is a great sight. You can linger briefly at Kuje Bay before lunching in the village. Thanks to the car, you'll reach all spots comfortably before the early darkness sets in."
+            "en": "In winter, the car provides an ideal warm base for exploring Ližnjan. Start at St. Martin's and enjoy the crisp air. The drive to the Marlera lighthouse is peaceful in winter; the rugged sea is a great sight. You can linger briefly at Kuje Bay before lunching in the village. Thanks to the car, you'll reach all spots comfortably before the early darkness sets in.",
+            "hr": "Zimi automobil pruža idealnu toplu bazu za istraživanje Ližnjana. Počnite kod sv. Martina i uživajte u svježem zraku. Vožnja do svjetionika Marlera zimi je mirna; uzburkano more je sjajan prizor. Možete se kratko zadržati u uvali Kuje prije ručka u selu. Zahvaljujući automobilu, udobno ćete stići do svih mjesta prije ranog mraka."
           },
           "stops": [
             {
@@ -1486,6 +1627,13 @@
               "Keep de-icer spray ready for the windshield.",
               "Coastal roads can be slippery during frost.",
               "Use seat heating for extra comfort after walks."
+            ],
+            "hr": [
+              "Provjerite tlak u gumama; hladnoća utječe na njega.",
+              "Zimske gume su obavezne u Hrvatskoj u zimskim uvjetima.",
+              "Imajte spreman sprej za odmrzavanje vjetrobranskog stakla.",
+              "Obalne ceste mogu biti skliske tijekom mraza.",
+              "Koristite grijanje sjedala za dodatnu udobnost nakon šetnji."
             ]
           }
         }
@@ -1519,7 +1667,8 @@
             "de": "Ankunft mit dem Bus aus Pula oder Medulin.",
             "hu": "Érkezés busszal Pulából vagy Medulinból.",
             "ro": "Sosire cu autobuzul din Pula sau Medulin.",
-            "en": "Arrival by bus from Pula or Medulin."
+            "en": "Arrival by bus from Pula or Medulin.",
+            "hr": "Dolazak autobusom iz Pule ili Medulina."
           }
         },
         {
@@ -1542,7 +1691,8 @@
             "de": "Nur ein kurzer Fußweg von der Haltestelle.",
             "hu": "Csak rövid séta a megállótól.",
             "ro": "La doar o scurtă plimbare de stație.",
-            "en": "Just a short walk from the stop."
+            "en": "Just a short walk from the stop.",
+            "hr": "Samo kratka šetnja od stanice."
           }
         },
         {
@@ -1565,7 +1715,8 @@
             "de": "Wanderung durch die Felder zur Küste.",
             "hu": "Túra a mezőkön keresztül a tengerpartig.",
             "ro": "Drumeție prin câmpuri spre coastă.",
-            "en": "Hike through the fields to the coast."
+            "en": "Hike through the fields to the coast.",
+            "hr": "Pješačenje kroz polja do obale."
           }
         },
         {
@@ -1588,7 +1739,8 @@
             "de": "Genießen Sie den Nachmittag am Meer.",
             "hu": "Élvezze a délutánt a tengerparton.",
             "ro": "Bucurați-vă de după-amiază la mare.",
-            "en": "Enjoy the afternoon by the sea."
+            "en": "Enjoy the afternoon by the sea.",
+            "hr": "Uživajte u poslijepodnevu uz more."
           }
         },
         {
@@ -1611,7 +1763,8 @@
             "de": "Rückweg ins Dorf für eine Mahlzeit.",
             "hu": "Visszaút a faluba egy étkezésre.",
             "ro": "Întoarcere în sat pentru o masă.",
-            "en": "Way back to the village for a meal."
+            "en": "Way back to the village for a meal.",
+            "hr": "Povratak u selo na obrok."
           }
         },
         {
@@ -1634,7 +1787,8 @@
             "de": "Entspannen vor der Rückfahrt mit dem Bus.",
             "hu": "Pihenés a visszautazás előtt.",
             "ro": "Relaxare înainte de întoarcerea cu autobuzul.",
-            "en": "Relax before the return bus trip."
+            "en": "Relax before the return bus trip.",
+            "hr": "Opustite se prije povratka autobusom."
           }
         }
       ],
@@ -1642,7 +1796,8 @@
         "de": "Erkunden Sie Ližnjan nachhaltig mit öffentlichen Verkehrsmitteln. Nach der Ankunft an der Busstation ist es nur ein kurzer Sprung zur St. Martinskirche.\n\nEin schöner Spaziergang führt Sie durch die istrische Landschaft hinunter zur Kuje-Bucht, wo Sie die kleine Kapelle besichtigen und einen langen, entspannten Nachmittag am Strand verbringen können.\n\nSpäter wandern Sie zurück ins Dorf, um sich in einer traditionellen Konoba zu stärken. Den Tag beschließen Sie mit einem kühlen Getränk am Hafen, bevor Sie den Bus für die Rückreise nehmen.\n\nDieser Modus ermöglicht es Ihnen, das Tempo zu drosseln und die Umgebung zu Fuß zu genießen, während das Auto stehen bleibt.",
         "hu": "Fedezze fel Ližnjant fenntartható módon, tömegközlekedéssel. A buszmegállóba érkezés után csak egy rövid ugrás a Szent Márton-templom.\n\nEgy szép séta vezet végig az isztriai tájon le a Kuje-öbölhöz, ahol megtekintheti a kis kápolnát, és egy hosszú, pihentető délutánt tölthet a strandon.\n\nKésőbb sétáljon vissza a faluba, hogy egy hagyományos konobában felfrissüljön. A napot egy hűsítő itallal zárja a kikötőben, mielőtt felszállna a visszainduló buszra.\n\nEz a mód lehetővé teszi, hogy lelassítsa a tempót és gyalogosan élvezze a környezetet, miközben az autó pihen.",
         "ro": "Explorați Ližnjan în mod sustenabil cu transportul public. După sosirea la stația de autobuz, este doar o scurtă plimbare până la biserica Sfântul Martin.\n\nO plimbare frumoasă vă poartă prin peisajul istrian jos spre golful Kuje, unde puteți vizita mica capelă și puteți petrece o după-amiază lungă și relaxantă pe plajă.\n\nMai târziu, mergeți înapoi în sat pentru a vă reîmprospăta într-o konoba tradițională. Încheiați ziua cu o băutură rece în port înainte de a lua autobuzul înapoi.\n\nAcest mod vă permite să reduceți ritmul și să vă bucurați de împrejurimi pe jos, în timp ce mașina rămâne parcată.",
-        "en": "Explore Ližnjan sustainably using public transport. After arriving at the bus station, it's just a short hop to St. Martin's Church.\n\nA lovely walk takes you through the Istrian landscape down to Kuje Bay, where you can visit the small chapel and spend a long, relaxed afternoon on the beach.\n\nLater, hike back to the village to refresh in a traditional konoba. Conclude the day with a cool drink at the harbour before catching the return bus.\n\nThis mode allows you to slow down and enjoy the surroundings on foot while leaving the car behind."
+        "en": "Explore Ližnjan sustainably using public transport. After arriving at the bus station, it's just a short hop to St. Martin's Church.\n\nA lovely walk takes you through the Istrian landscape down to Kuje Bay, where you can visit the small chapel and spend a long, relaxed afternoon on the beach.\n\nLater, hike back to the village to refresh in a traditional konoba. Conclude the day with a cool drink at the harbour before catching the return bus.\n\nThis mode allows you to slow down and enjoy the surroundings on foot while leaving the car behind.",
+        "hr": "Istražite Ližnjan održivo koristeći javni prijevoz. Nakon dolaska na autobusnu stanicu, samo je kratki korak do crkve sv. Martina.\n\nLjupka šetnja vodi vas kroz istarski krajolik do uvale Kuje, gdje možete posjetiti malu kapelicu i provesti dugo, opušteno poslijepodne na plaži.\n\nKasnije se pješke vratite u selo na osvježenje u tradicionalnoj konobi. Dan zaključite hladnim pićem u luci prije povratka autobusom.\n\nOvaj način omogućuje vam da usporite i uživate u okruženju pješice dok automobil ostavljate iza sebe."
       },
       "gastro_picks": {
         "de": [
@@ -1667,6 +1822,12 @@
           {
             "name": "Istrian Cheese",
             "tip": "Sheep or goat cheese with olive oil."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Istarski sir",
+            "tip": "Ovčji ili kozji sir s maslinovim uljem."
           }
         ]
       },
@@ -1698,6 +1859,13 @@
             "tip": "Silence and contemplation near the bay.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Crkva Majke Božje od Kuj",
+            "tip": "Tišina i kontemplacija u blizini uvale.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1724,6 +1892,12 @@
             "name": "Dried Figs",
             "tip": "A healthy snack for the hike."
           }
+        ],
+        "hr": [
+          {
+            "name": "Suhe smokve",
+            "tip": "Zdravi međuobrok za planinarenje."
+          }
         ]
       },
       "tips": {
@@ -1746,6 +1920,11 @@
           "Check the current bus schedule online in advance.",
           "Take sun protection for the walk to the bay.",
           "Wear sturdy shoes for the unpaved paths."
+        ],
+        "hr": [
+          "Unaprijed provjerite aktualni vozni red autobusa online.",
+          "Uzmite zaštitu od sunca za šetnju do uvale.",
+          "Nosite čvrstu obuću za neasfaltirane staze."
         ]
       },
       "variants": {
@@ -1754,7 +1933,8 @@
             "de": "Mit dem Bus erreichen Sie Ližnjan auch bei Regen sicher. Verbringen Sie Zeit in den Kirchen und im gemütlichen Dorfkern. Der Weg zur Kuje-Bucht ist bei Regen eine Herausforderung, aber der Blick auf die Adria belohnt Sie. Ein warmes Mittagessen ist der Höhepunkt, bevor Sie sich am Hafen von der stürmischen See verabschieden und den Bus zurück nehmen.",
             "hu": "Busszal esőben is biztonságosan elérheti Ližnjant. Töltsön időt a templomokban és a barátságos faluközpontban. Az út a Kuje-öbölhöz esőben kihívást jelenthet, de az Adriára nyíló kilátás kárpótolja. Egy meleg ebéd a nap fénypontja, mielőtt a kikötőben elbúcsúzna a viharos tengertől és visszaszállna a buszra.",
             "ro": "Cu autobuzul ajungeți în siguranță la Ližnjan chiar și pe ploaie. Petreceți timp în biserici și în centrul primitor al satului. Drumul spre golful Kuje e o provocare pe ploaie, dar vederea spre Adriatică merită. Un prânz cald e punctul culminant, înainte de a vă lua rămas bun de la marea agitată în port și a lua busul înapoi.",
-            "en": "You can reach Ližnjan safely by bus even in the rain. Spend time in the churches and the cozy village core. The walk to Kuje Bay is a challenge in the rain, but the view of the Adriatic rewards you. A warm lunch is the highlight before you say goodbye to the stormy sea at the harbour and catch the bus back."
+            "en": "You can reach Ližnjan safely by bus even in the rain. Spend time in the churches and the cozy village core. The walk to Kuje Bay is a challenge in the rain, but the view of the Adriatic rewards you. A warm lunch is the highlight before you say goodbye to the stormy sea at the harbour and catch the bus back.",
+            "hr": "Do Ližnjana možete sigurno doći autobusom čak i po kiši. Provedite vrijeme u crkvama i ugodnoj jezgri sela. Šetnja do uvale Kuje izazov je na kiši, ali pogled na Jadran vas nagrađuje. Topao ručak je vrhunac prije nego što se u luci oprostite od olujnog mora i krenete autobusom natrag."
           },
           "stops": [
             {
@@ -1840,6 +2020,13 @@
               "Have small change ready for the bus ticket.",
               "Buses often travel a bit slower in the rain.",
               "Village bus stops usually have small shelters."
+            ],
+            "hr": [
+              "Unaprijed provjerite vozni red autobusa online (Pulapromet).",
+              "Nosite reflektirajuću opremu na kiši radi bolje vidljivosti.",
+              "Pripremite sitniš za autobusnu kartu.",
+              "Autobusi po kiši često voze malo sporije.",
+              "Seoska autobusna stajališta obično imaju male nadstrešnice."
             ]
           }
         },
@@ -1848,7 +2035,8 @@
             "de": "Ein Winterausflug mit dem Bus nach Ližnjan zeigt das Dorf von seiner authentischsten Seite. Nach der Ankunft besichtigen Sie die Kirchen und genießen die Stille. Ein Spaziergang zur Kuje-Bucht ist bei Wintersonne herrlich. Das Mittagessen in der Konoba wärmt Sie auf, bevor ein Abschiedsgetränk am Hafen den Ausflug abrundet. Achten Sie auf den Busplan, da die Frequenz im Winter geringer sein kann.",
             "hu": "Egy téli buszos kirándulás Ližnjanba a falu legautentikusabb arcát mutatja meg. Érkezés után nézze meg a templomokat és élvezze a csendet. Egy séta a Kuje-öbölhöz a téli napsütésben csodálatos. Az ebéd a konobában felmelegíti, mielőtt egy búcsúital a kikötőben lezárná a kirándulást. Ügyeljen a buszmenetrendre, mert télen ritkább lehet.",
             "ro": "O excursie de iarnă cu autobuzul la Ližnjan arată satul în cea mai autentică formă. După sosire, vizitați bisericile și savurați liniștea. O plimbare spre golful Kuje sub soarele de iarnă e minunată. Prânzul în konoba vă încălzește înainte ca o băutură în port să încheie excursia. Atenție la orar, frecvența autobuzelor poate fi mai mică iarna.",
-            "en": "A winter trip by bus to Ližnjan shows the village at its most authentic. After arrival, visit the churches and enjoy the silence. A walk to Kuje Bay in the winter sun is wonderful. Lunch in the konoba warms you up before a farewell drink at the harbour rounds off the trip. Keep an eye on the bus schedule, as frequency may be lower in winter."
+            "en": "A winter trip by bus to Ližnjan shows the village at its most authentic. After arrival, visit the churches and enjoy the silence. A walk to Kuje Bay in the winter sun is wonderful. Lunch in the konoba warms you up before a farewell drink at the harbour rounds off the trip. Keep an eye on the bus schedule, as frequency may be lower in winter.",
+            "hr": "Zimski izlet autobusom u Ližnjan pokazuje selo u njegovom najautentičnijem izdanju. Nakon dolaska posjetite crkve i uživajte u tišini. Šetnja do uvale Kuje na zimskom suncu je prekrasna. Ručak u konobi će vas ugrijati prije nego što oproštajno piće u luci zaokruži putovanje. Pratite vozni red autobusa jer zimi polasci mogu biti rjeđi."
           },
           "stops": [
             {
@@ -1934,6 +2122,13 @@
               "Buses are usually well-heated in winter.",
               "Use the Pulapromet app for real-time info.",
               "The last bus often departs early in the evening."
+            ],
+            "hr": [
+              "Zimi je vikendom manje autobusnih veza.",
+              "Putovanje od Pule do Ližnjana traje oko 20 minuta.",
+              "Autobusi su zimi obično dobro grijani.",
+              "Koristite aplikaciju Pulapromet za informacije u stvarnom vremenu.",
+              "Zadnji autobus često polazi rano navečer."
             ]
           }
         }

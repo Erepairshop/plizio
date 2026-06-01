@@ -31,7 +31,8 @@
             "de": "Besuchen Sie den Renaissance-Garten.",
             "hu": "Nézze meg a reneszánsz kertet.",
             "ro": "Vizitați grădina renascentistă.",
-            "en": "Visit the Renaissance garden."
+            "en": "Visit the Renaissance garden.",
+            "hr": "Posjetite renesansni vrt."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die gotische Architektur.",
             "hu": "Csodálja meg a gótikus építészetet.",
             "ro": "Admirați arhitectura gotică.",
-            "en": "Admire the Gothic architecture."
+            "en": "Admire the Gothic architecture.",
+            "hr": "Divite se gotičkoj arhitekturi."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Schatten unter exotischen Palmen.",
             "hu": "Árnyék az egzotikus pálmák alatt.",
             "ro": "Umbră sub palmieri exotici.",
-            "en": "Shade under exotic palms."
+            "en": "Shade under exotic palms.",
+            "hr": "Hlad pod egzotičnim palmama."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Bester Panoramablick auf die Elaphiten.",
             "hu": "A legjobb panoráma az Elafit-szigetekre.",
             "ro": "Cea mai bună panoramă asupra Elafiti.",
-            "en": "Best panoramic view of the Elafiti."
+            "en": "Best panoramic view of the Elafiti.",
+            "hr": "Najbolji panoramski pogled na Elafite."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein ruhiger Ort vor dem Strand.",
             "hu": "Csendes hely a strand előtt.",
             "ro": "Un loc liniștit înainte de plajă.",
-            "en": "A quiet spot before the beach."
+            "en": "A quiet spot before the beach.",
+            "hr": "Mirno mjesto prije plaže."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Feiner Sandstrand, ideal zum Baden.",
             "hu": "Finom homokos strand, ideális úszáshoz.",
             "ro": "Plajă cu nisip fin, ideală pentru înot.",
-            "en": "Fine sandy beach, ideal for swimming."
+            "en": "Fine sandy beach, ideal for swimming.",
+            "hr": "Fina pješčana plaža, idealna za kupanje."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag am Hafen und spazieren Sie zum prächtigen Franziskanerkloster. Nach der Besichtigung des Rektorenpalastes genießen Sie die Kühle im Botanischen Garten. Ein Aufstieg zur Festung belohnt Sie mit Aussichten, bevor Sie den Nachmittag am berühmten Sandstrand Šunj verbringen.",
         "hu": "Kezdje a napot a kikötőben, és sétáljon el a pompás ferences kolostorhoz. A Rektori palota megtekintése után élvezze a hűvöst a botanikus kertben. A várba való felkapaszkodás kilátással jutalmazza, mielőtt a délutánt a híres Šunj homokos strandon töltené.",
         "ro": "Începeți ziua în port și mergeți la mănăstirea franciscană. După vizitarea Palatului Rectorului, bucurați-vă de răcoare în grădina botanică. O urcare la fortăreață vă răsplătește cu priveliști înainte de a petrece după-amiaza pe celebra plajă cu nisip Šunj.",
-        "en": "Start your day at the harbor and walk to the magnificent Franciscan monastery. After visiting the Rector's Palace, enjoy the cool in the botanical garden. A climb to the fortress rewards you with views before spending the afternoon at the famous Šunj sandy beach."
+        "en": "Start your day at the harbor and walk to the magnificent Franciscan monastery. After visiting the Rector's Palace, enjoy the cool in the botanical garden. A climb to the fortress rewards you with views before spending the afternoon at the famous Šunj sandy beach.",
+        "hr": "Započnite dan u luci i prošetajte do veličanstvenog franjevačkog samostana. Nakon posjeta Kneževu dvoru, uživajte u svježini botaničkog vrta. Uspon do tvrđave nagradit će vas pogledom prije nego što poslijepodne provedete na poznatoj pješčanoj plaži Šunj."
       },
       "gastro_picks": {
         "de": [
@@ -171,6 +178,16 @@
             "name": "Lopud Cake",
             "tip": "Traditional almond pastry."
           }
+        ],
+        "hr": [
+          {
+            "name": "Obala Restaurant",
+            "tip": "Svježa riba tik uz more."
+          },
+          {
+            "name": "Lopudska torta",
+            "tip": "Tradicionalna slastica od badema."
+          }
         ]
       },
       "quiet_picks": {
@@ -201,6 +218,13 @@
             "tip": "Quietness and vastness.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Sutvrač",
+            "tip": "Tišina i prostranstvo.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -227,6 +251,12 @@
             "name": "Local Olive Oils",
             "tip": "Buy directly from producers."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna maslinova ulja",
+            "tip": "Kupujte izravno od proizvođača."
+          }
         ]
       },
       "tips": {
@@ -245,6 +275,10 @@
         "en": [
           "Wear comfortable shoes for the walk to Šunj beach.",
           "There are no cars on the island, only golf carts."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za šetnju do plaže Šunj.",
+          "Na otoku nema automobila, samo električni buggyji."
         ]
       },
       "variants": {
@@ -433,7 +467,8 @@
             "de": "Der Tag beginnt am Franziskanerkloster, das Schutz vor dem Regen bietet. Mittags erkunden Sie den Rektorenpalast und genießen die historischen Innenräume. Nachmittags führt der Weg durch den Park zur Festung, wobei Sie auf rutschige Pfade achten sollten. Der Abend klingt an der Kirche und dem dramatisch wirkenden Strand von Šunj aus, wo die Wellen gegen die Küste peitschen.",
             "hu": "A nap a ferences kolostornál indul, amely kiváló menedéket nyújt az eső elől. Délben a Rektori Palota belső kiállításait fedezzük fel szárazon. Délután a parkon keresztül kapaszkodunk fel a várhoz, vigyázva a csúszós kövekre. Az estét a Šunj-öböl templománál és a viharos tenger látványánál zárjuk, élvezve a magányos tengerparti hangulatot.",
             "ro": "Ziua începe la Mănăstirea Franciscană, oferind un adăpost perfect împotriva ploii. La prânz explorăm Palatul Rectorului și interioarele sale istorice. După-amiaza traseul trece prin parc spre cetate, necesitând atenție pe potecile alunecoase. Seara se încheie la biserica de lângă plaja Šunj, unde marea agitată oferă un spectacol dramatic și liniștit.",
-            "en": "The day starts at the Franciscan Monastery, providing a safe haven from the rain. At noon, explore the Rector's Palace and its dry, historic interiors. In the afternoon, head through the park towards the fortress, being careful on the slippery paths. The evening ends by the church and the dramatic Šunj beach, where the waves create a powerful atmosphere."
+            "en": "The day starts at the Franciscan Monastery, providing a safe haven from the rain. At noon, explore the Rector's Palace and its dry, historic interiors. In the afternoon, head through the park towards the fortress, being careful on the slippery paths. The evening ends by the church and the dramatic Šunj beach, where the waves create a powerful atmosphere.",
+            "hr": "Dan počinje u franjevačkom samostanu, koji pruža sigurno utočište od kiše. U podne istražite Knežev dvor i njegove suhe, povijesne interijere. Poslijepodne se uputite kroz park prema tvrđavi, pazeći na skliske staze. Večer završava kod crkve i dramatične plaže Šunj, gdje valovi stvaraju snažnu atmosferu."
           },
           "stops": [
             {
@@ -442,7 +477,8 @@
                 "de": "Nutzen Sie den Kreuzgang als trockenen Unterstand bei Schauern.",
                 "hu": "Használja a kerengőt száraz menedékként a záporok idején.",
                 "ro": "Folosiți claustrul ca adăpost uscat în timpul averselor.",
-                "en": "Use the cloister as a dry shelter during rain showers."
+                "en": "Use the cloister as a dry shelter during rain showers.",
+                "hr": "Koristite samostansko dvorište kao suhi zaklon tijekom pljuskova."
               }
             },
             {
@@ -451,7 +487,8 @@
                 "de": "Perfekter Ort, um die Regenzeit mit Kultur im Trockenen zu verbringen.",
                 "hu": "Ideális hely a záporok átvészelésére a történelmi falak között.",
                 "ro": "Locul perfect pentru a petrece timpul ploios explorând cultura.",
-                "en": "Perfect place to spend the rainy time exploring culture indoors."
+                "en": "Perfect place to spend the rainy time exploring culture indoors.",
+                "hr": "Savršeno mjesto za provođenje kišnog vremena istražujući kulturu u zatvorenom."
               }
             },
             {
@@ -460,7 +497,8 @@
                 "de": "Die dichten Baumkronen bieten natürlichen Schutz vor leichtem Nieselregen.",
                 "hu": "A sűrű lombkoronák természetes védelmet nyújtanak az enyhe szitálás ellen.",
                 "ro": "Coroanele dese ale copacilor oferă protecție naturală împotriva burniței.",
-                "en": "Dense tree canopies provide natural protection against light drizzle."
+                "en": "Dense tree canopies provide natural protection against light drizzle.",
+                "hr": "Guste krošnje drveća pružaju prirodnu zaštitu od lagane kiše."
               }
             },
             {
@@ -469,7 +507,8 @@
                 "de": "Vorsicht auf den Steinstufen, diese werden bei Nässe extrem rutschig.",
                 "hu": "Vigyázat a lépcsőkön, a nedves kövek rendkívül csúszóssá válnak.",
                 "ro": "Atenție pe treptele de piatră, acestea devin extrem de alunecoase.",
-                "en": "Be careful on the stone steps, as they become extremely slippery when wet."
+                "en": "Be careful on the stone steps, as they become extremely slippery when wet.",
+                "hr": "Budite oprezni na kamenim stepenicama jer postaju iznimno skliske kad su mokre."
               }
             },
             {
@@ -478,7 +517,8 @@
                 "de": "Ein stiller, trockener Rückzugsort vor dem Erreichen des Strandes.",
                 "hu": "Csendes, száraz menedékhely a tengerpart elérése előtt.",
                 "ro": "Un refugiu liniștit și uscat înainte de a ajunge la plajă.",
-                "en": "A quiet, dry retreat before reaching the beach area."
+                "en": "A quiet, dry retreat before reaching the beach area.",
+                "hr": "Mirno, suho utočište prije dolaska do područja plaže."
               }
             },
             {
@@ -487,7 +527,8 @@
                 "de": "Die Strandbars sind meist zu; bringen Sie eigene Heißgetränke mit.",
                 "hu": "A bárok zárva lehetnek; vigyen magával forró italt termoszban.",
                 "ro": "Barurile de pe plajă pot fi închise; aduceți băuturi calde proprii.",
-                "en": "Beach bars might be closed; bring your own hot drinks in a thermos."
+                "en": "Beach bars might be closed; bring your own hot drinks in a thermos.",
+                "hr": "Barovi na plaži bi mogli biti zatvoreni; ponesite vlastite tople napitke u termosici."
               }
             }
           ],
@@ -519,6 +560,13 @@
               "Check the ferry schedule, as strong winds can affect boat transfers.",
               "Seek shelter in churches or the palace during heavy downpours.",
               "The paths to Šunj beach can become muddy in some areas during rain."
+            ],
+            "hr": [
+              "Nosite planinarske cipele s dobrim prianjanjem za skliske kamene površine.",
+              "Odaberite kvalitetnu kabanicu; kišobrani su beskorisni na otočkom vjetru.",
+              "Provjerite plovidbeni red, jer jaki vjetrovi mogu utjecati na prijevoz brodom.",
+              "Potražite zaklon u crkvama ili dvoru tijekom jakih pljuskova.",
+              "Staze do plaže Šunj mogu postati blatnjave na nekim mjestima tijekom kiše."
             ]
           }
         },
@@ -527,7 +575,8 @@
             "de": "Morgens herrscht am Kloster eine friedliche Stille, die nur im Winter erlebbar ist. Mittags bietet der Rektorenpalast Einblicke in die Geschichte ohne sommerliche Hitze. Nachmittags genießen Sie die klare Sicht von der Festung, bevor die Sonne früh über der Adria untergeht. Der Abend endet mit einem meditativen Spaziergang am verlassenen, weiten Sandstrand von Šunj.",
             "hu": "Reggel a kolostornál olyan békés csend fogadja, ami csak télen tapasztalható. Délben a Rektori Palota hűvös falaiban gyönyörködhetünk tömeg nélkül. Délután a várból nyíló kristálytiszta kilátást élvezzük, mielőtt a nap korán nyugovóra tér. Az estét egy meditatív séta zárja az üres és végtelennek tűnő Šunj homokos partján.",
             "ro": "Dimineața aduce o liniște profundă la mănăstire, specifică doar sezonului rece. La prânz, Palatul Rectorului oferă o experiență culturală intimă, fără mulțimi. După-amiaza vă bucurați de vizibilitatea clară de la cetate înainte de apusul timpuriu. Seara se încheie cu o plimbare meditativă pe plaja pustie și vastă de la Šunj.",
-            "en": "Morning at the monastery brings a deep peace that only winter can offer. At noon, the Rector's Palace provides an intimate cultural experience without the crowds. In the afternoon, enjoy the crystal-clear views from the fortress before the early sunset. The evening concludes with a meditative walk on the empty and vast sandy shores of Šunj."
+            "en": "Morning at the monastery brings a deep peace that only winter can offer. At noon, the Rector's Palace provides an intimate cultural experience without the crowds. In the afternoon, enjoy the crystal-clear views from the fortress before the early sunset. The evening concludes with a meditative walk on the empty and vast sandy shores of Šunj.",
+            "hr": "Jutro u samostanu donosi duboki mir koji samo zima može ponuditi. U podne Knežev dvor pruža intiman kulturni doživljaj bez gužve. Poslijepodne uživajte u kristalno čistom pogledu s tvrđave prije ranog zalaska sunca. Večer završava meditativnom šetnjom praznim i prostranim pješčanim obalama Šunja."
           },
           "stops": [
             {
@@ -536,7 +585,8 @@
                 "de": "Genießen Sie die absolute Ruhe; im Winter sind Sie fast allein hier.",
                 "hu": "Élvezze a teljes csendet; télen szinte egyedül lehet itt.",
                 "ro": "Bucurați-vă de liniștea absolută; iarna sunteți aproape singur aici.",
-                "en": "Enjoy the absolute silence; in winter, you are almost alone here."
+                "en": "Enjoy the absolute silence; in winter, you are almost alone here.",
+                "hr": "Uživajte u apsolutnoj tišini; zimi ste ovdje gotovo sami."
               }
             },
             {
@@ -545,7 +595,8 @@
                 "de": "Beachten Sie die verkürzten Öffnungszeiten in der Nebensaison.",
                 "hu": "Ügyeljen a holtszezonban érvényes rövidített nyitvatartási időre.",
                 "ro": "Atenție la programul de vizitare redus în extrasezon.",
-                "en": "Note the shortened opening hours during the low season."
+                "en": "Note the shortened opening hours during the low season.",
+                "hr": "Obratite pozornost na skraćeno radno vrijeme tijekom niske sezone."
               }
             },
             {
@@ -554,7 +605,8 @@
                 "de": "Die mediterrane Vegetation bleibt auch im Winter grün und belebend.",
                 "hu": "A mediterrán növényzet télen is zöldellő és frissítő marad.",
                 "ro": "Vegetația mediteraneană rămâne verde și revigorantă chiar și iarna.",
-                "en": "The Mediterranean vegetation remains green and refreshing even in winter."
+                "en": "The Mediterranean vegetation remains green and refreshing even in winter.",
+                "hr": "Mediteranska vegetacija ostaje zelena i osvježavajuća čak i zimi."
               }
             },
             {
@@ -563,7 +615,8 @@
                 "de": "Die Winterluft sorgt für die beste Fernsicht bis zu den Nachbarinseln.",
                 "hu": "A téli levegő biztosítja a legtisztább kilátást a szomszédos szigetekre.",
                 "ro": "Aerul de iarnă oferă cea mai clară vizibilitate către insulele vecine.",
-                "en": "The winter air provides the clearest views to the neighboring islands."
+                "en": "The winter air provides the clearest views to the neighboring islands.",
+                "hr": "Zimski zrak pruža najjasniji pogled na susjedne otoke."
               }
             },
             {
@@ -572,7 +625,8 @@
                 "de": "Ein geschützter Ort, um sich vor dem Seewind kurz aufzuwärmen.",
                 "hu": "Védett hely, ahol kicsit felmelegedhet a tengeri szél elől.",
                 "ro": "Un loc adăpostit pentru a vă încălzi puțin ferit de vântul marin.",
-                "en": "A sheltered spot to warm up briefly from the sea breeze."
+                "en": "A sheltered spot to warm up briefly from the sea breeze.",
+                "hr": "Zaklonjeno mjesto za kratko zagrijavanje od morskog povjetarca."
               }
             },
             {
@@ -581,7 +635,8 @@
                 "de": "Ideal für lange, einsame Strandspaziergänge in dicker Winterkleidung.",
                 "hu": "Ideális hosszú, magányos tengerparti sétákhoz meleg ruházatban.",
                 "ro": "Ideal pentru plimbări lungi și solitare pe plajă în haine groase.",
-                "en": "Ideal for long, solitary beach walks in warm winter clothing."
+                "en": "Ideal for long, solitary beach walks in warm winter clothing.",
+                "hr": "Idealno za duge, osamljene šetnje plažom u toploj zimskoj odjeći."
               }
             }
           ],
@@ -613,6 +668,13 @@
               "Dress in layers to protect yourself from the changeable island wind.",
               "Ferries run less frequently; be sure to check the winter schedule.",
               "Enjoy the island without the day-trippers in its most authentic form."
+            ],
+            "hr": [
+              "Planirajte povratak prije 17:00, jer zimi rano pada mrak.",
+              "Većina restorana je zatvorena; ponesite vlastite grickalice i vodu.",
+              "Odjenite se slojevito kako biste se zaštitili od promjenjivog otočkog vjetra.",
+              "Trajekti voze rjeđe; obavezno provjerite zimski plovidbeni red.",
+              "Uživajte u otoku bez jednodnevnih izletnika u njegovom najizvornijem obliku."
             ]
           }
         }
@@ -641,7 +703,8 @@
             "de": "Mieten Sie ein Fahrrad in der Nähe.",
             "hu": "Béreljen kerékpárt a közelben.",
             "ro": "Închiriați o bicicletă în apropiere.",
-            "en": "Rent a bike nearby."
+            "en": "Rent a bike nearby.",
+            "hr": "Iznajmite bicikl u blizini."
           }
         },
         {
@@ -659,7 +722,8 @@
             "de": "Architektonisches Denkmal der Moderne.",
             "hu": "A modern építészet emléke.",
             "ro": "Monument de arhitectură modernă.",
-            "en": "Architectural monument of modernism."
+            "en": "Architectural monument of modernism.",
+            "hr": "Arhitektonski spomenik modernizma."
           }
         },
         {
@@ -677,7 +741,8 @@
             "de": "Fahren Sie vorsichtig in der Nähe des Parks.",
             "hu": "Vezessen óvatosan a park közelében.",
             "ro": "Conduceți cu atenție lângă parc.",
-            "en": "Ride carefully near the park."
+            "en": "Ride carefully near the park.",
+            "hr": "Vozite oprezno blizu parka."
           }
         },
         {
@@ -695,7 +760,8 @@
             "de": "Genießen Sie die Pinienwälder.",
             "hu": "Élvezze a fenyőerdőket.",
             "ro": "Bucurați-vă de pădurile de pini.",
-            "en": "Enjoy the pine forests."
+            "en": "Enjoy the pine forests.",
+            "hr": "Uživajte u borovim šumama."
           }
         },
         {
@@ -713,7 +779,8 @@
             "de": "Stellen Sie das Rad am Eingang ab.",
             "hu": "Hagyja a biciklit a bejáratnál.",
             "ro": "Lăsați bicicleta la intrare.",
-            "en": "Park your bike at the entrance."
+            "en": "Park your bike at the entrance.",
+            "hr": "Parkirajte bicikl na ulazu."
           }
         }
       ],
@@ -721,7 +788,8 @@
         "de": "Erkunden Sie Lopud auf zwei Rädern. Starten Sie im Zentrum und radeln Sie vorbei an historischen Villen und dem Grand Hotel. Der Weg führt Sie durch schattige Wälder bis zum Šunj-Strand, wo Sie den Rest des Tages entspannen können.",
         "hu": "Fedezze fel Lopudot két keréken. Kezdje a központban, és kerekezzen el a történelmi villák és a Grand Hotel mellett. Az út árnyas erdőkön keresztül vezet a Šunj strandig, ahol a nap hátralévő részét pihenéssel töltheti.",
         "ro": "Explorați Lopud pe două roți. Începeți în centru și pedalați pe lângă vile istorice și Grand Hotel. Drumul vă poartă prin păduri umbroase până la plaja Šunj, unde vă puteți relaxa restul zilei.",
-        "en": "Explore Lopud on two wheels. Start in the center and cycle past historic villas and the Grand Hotel. The path leads you through shaded forests to Šunj beach, where you can relax for the rest of the day."
+        "en": "Explore Lopud on two wheels. Start in the center and cycle past historic villas and the Grand Hotel. The path leads you through shaded forests to Šunj beach, where you can relax for the rest of the day.",
+        "hr": "Istražite Lopud na dva kotača. Krenite iz centra i vozite pored povijesnih vila i hotela Grand. Put vas vodi kroz sjenovite šume do plaže Šunj, gdje se možete opuštati ostatak dana."
       },
       "gastro_picks": {
         "de": [
@@ -746,6 +814,12 @@
           {
             "name": "Šunj Beach Bar",
             "tip": "Refreshing cocktails."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Beach Bar Šunj",
+            "tip": "Osvježavajući kokteli."
           }
         ]
       },
@@ -777,6 +851,13 @@
             "tip": "Lonely bays.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Staza sjevernom obalom",
+            "tip": "Usamljene uvale.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -803,6 +884,12 @@
             "name": "Lopud Souvenirs",
             "tip": "Handmade jewelry."
           }
+        ],
+        "hr": [
+          {
+            "name": "Suveniri Lopud",
+            "tip": "Ručno rađen nakit."
+          }
         ]
       },
       "tips": {
@@ -817,6 +904,9 @@
         ],
         "en": [
           "Some paths are steep, take enough water with you."
+        ],
+        "hr": [
+          "Neki su putevi strmi, ponesite dovoljno vode sa sobom."
         ]
       },
       "variants": {
@@ -976,7 +1066,8 @@
             "de": "Die Radtour beginnt am Hafen, wo die Luft feucht und salzig ist. Vorbei am Grand Hotel führt der Weg in den Park, der Schutz vor Wind bietet. Der Rundweg verlangt Konzentration auf nassem Untergrund, belohnt aber mit einsamer Natur. Am Strand Šunj erleben Sie die Kraft des Regens über dem Meer, bevor Sie den Rückweg antreten.",
             "hu": "A bringatúra a kikötőben indul a párás, sós levegőben. A Grand Hotelt elhagyva a parkba érünk, amely védelmet nyújt a szél ellen. A szigeti körút fokozott figyelmet igényel a nedves úton, de magányos tájakkal hálálja meg. A Šunj strandnál átélhetjük az eső erejét a tenger felett, mielőtt visszaindulnánk.",
             "ro": "Turul cu bicicleta începe în port, unde aerul este umed și sărat. Trecând pe lângă Grand Hotel, ajungem în parc, care oferă protecție contra vântului. Traseul circular cere atenție pe suprafața umedă, dar oferă peisaje solitare. La plaja Šunj experimentați forța ploii deasupra mării înainte de întoarcere.",
-            "en": "The bike tour starts at the port in the humid, salty air. Passing the Grand Hotel, the path leads into the park, providing some wind shelter. The island loop requires focus on wet ground but rewards you with solitary nature. At Šunj beach, experience the power of the rain over the sea before heading back."
+            "en": "The bike tour starts at the port in the humid, salty air. Passing the Grand Hotel, the path leads into the park, providing some wind shelter. The island loop requires focus on wet ground but rewards you with solitary nature. At Šunj beach, experience the power of the rain over the sea before heading back.",
+            "hr": "Biciklistička tura počinje u luci na vlažnom, slanom zraku. Prolazeći pored hotela Grand, staza vodi u park, pružajući određeni zaklon od vjetra. Krug oko otoka zahtijeva fokus na mokrom tlu, ali nagrađuje osamljenom prirodom. Na plaži Šunj doživite snagu kiše nad morem prije povratka."
           },
           "stops": [
             {
@@ -985,7 +1076,8 @@
                 "de": "Vorsicht beim Absteigen auf den nassen, glatten Hafensteinen.",
                 "hu": "Vigyázzon a leszállásnál a nedves, csúszós kikötői köveken.",
                 "ro": "Atenție la coborâre pe pietrele umede și alunecoase din port.",
-                "en": "Be careful when dismounting on the wet, slippery harbor stones."
+                "en": "Be careful when dismounting on the wet, slippery harbor stones.",
+                "hr": "Budite oprezni pri silaženju s bicikla na mokrom i skliskom kamenju u luci."
               }
             },
             {
@@ -994,7 +1086,8 @@
                 "de": "Nutzen Sie das Vordach für einen kurzen Check der Regenkleidung.",
                 "hu": "Használja az előtetőt az esőruházat gyors ellenőrzésére.",
                 "ro": "Folosiți copertina pentru o verificare rapidă a hainelor de ploaie.",
-                "en": "Use the canopy for a quick check of your rain gear."
+                "en": "Use the canopy for a quick check of your rain gear.",
+                "hr": "Iskoristite nadstrešnicu za brzu provjeru kišne opreme."
               }
             },
             {
@@ -1003,7 +1096,8 @@
                 "de": "Fahren Sie langsam; herabgefallene Blätter können rutschig sein.",
                 "hu": "Hajtson lassan; a lehullott levelek csúszósak lehetnek.",
                 "ro": "Mergeți încet; frunzele căzute pot fi foarte alunecoase.",
-                "en": "Ride slowly; fallen leaves can be very slippery on the paths."
+                "en": "Ride slowly; fallen leaves can be very slippery on the paths.",
+                "hr": "Vozite polako; otpalo lišće na stazama može biti vrlo sklisko."
               }
             },
             {
@@ -1012,7 +1106,8 @@
                 "de": "Pfützen können tief sein; umfahren Sie diese sicherheitshalber.",
                 "hu": "A tócsák mélyek lehetnek; a biztonság kedvéért kerülje ki őket.",
                 "ro": "Bălțile pot fi adânci; ocoliți-le pentru siguranță.",
-                "en": "Puddles can be deep; avoid riding through them just in case."
+                "en": "Puddles can be deep; avoid riding through them just in case.",
+                "hr": "Lokve mogu biti duboke; za svaki slučaj izbjegavajte vožnju kroz njih."
               }
             },
             {
@@ -1021,7 +1116,8 @@
                 "de": "Parken Sie das Rad an einem windgeschützten Ort nahe der Bäume.",
                 "hu": "Parkolja le a bringát szélvédett helyen, közel a fákhoz.",
                 "ro": "Parcați bicicleta într-un loc ferit de vânt, lângă copaci.",
-                "en": "Park your bike in a wind-sheltered spot near the trees."
+                "en": "Park your bike in a wind-sheltered spot near the trees.",
+                "hr": "Parkirajte bicikl na mjestu zaštićenom od vjetra u blizini drveća."
               }
             }
           ],
@@ -1053,6 +1149,13 @@
               "A waterproof bag for your phone and valuables is essential.",
               "Use roadside shelters as a resting spot during heavy rain.",
               "Wear glasses to keep rain droplets out of your eyes while riding."
+            ],
+            "hr": [
+              "Obavezno provjerite kočnice na unajmljenom biciklu prije polaska.",
+              "Izbjegavajte oštra skretanja na skliskim betonskim stazama.",
+              "Vodootporna torba za telefon i dragocjenosti je neophodna.",
+              "Koristite zaklone uz cestu kao mjesta za odmor tijekom jake kiše.",
+              "Nosite naočale kako vam kapljice kiše ne bi ulazile u oči tijekom vožnje."
             ]
           }
         },
@@ -1061,7 +1164,8 @@
             "de": "Die Wintertour per Rad bietet eine frische Meeresbrise und leere Wege. Vom Hafen geht es vorbei am Grand Hotel in den ruhigen Park. Der Insel-Rundweg zeigt die raue Schönheit der Küste bei klarem Winterlicht. Am Strand Šunj genießen Sie die Weite des Meeres in Einsamkeit, bevor Sie sich auf den Weg zurück zum Hafen machen.",
             "hu": "A téli kerékpártúra friss tengeri szellőt és üres utakat ígér. A kikötőtől a Grand Hotel mellett elhaladva érjük el a csendes parkot. A szigeti körút a partvidék vad szépségét mutatja meg tiszta téli fényben. A Šunj strandnál magányosan élvezhetjük a tenger tágasságát, mielőtt visszatekernénk a kikötőbe.",
             "ro": "Turul de iarnă cu bicicleta oferă briză marină proaspătă și drumuri goale. Din port treceți pe lângă Grand Hotel spre parcul liniștit. Traseul circular arată frumusețea sălbatică a coastei în lumina clară de iarnă. La plaja Šunj vă bucurați de imensitatea mării în singurătate înainte de întoarcere.",
-            "en": "The winter bike tour offers a fresh sea breeze and empty paths. From the port, pass the Grand Hotel into the quiet park. The island loop reveals the rugged beauty of the coast in clear winter light. At Šunj beach, enjoy the vastness of the sea in solitude before cycling back to the harbor."
+            "en": "The winter bike tour offers a fresh sea breeze and empty paths. From the port, pass the Grand Hotel into the quiet park. The island loop reveals the rugged beauty of the coast in clear winter light. At Šunj beach, enjoy the vastness of the sea in solitude before cycling back to the harbor.",
+            "hr": "Zimska biciklistička tura nudi svjež morski povjetarac i prazne staze. Iz luke prođite pored hotela Grand u tihi park. Krug oko otoka otkriva robusnu ljepotu obale na čistom zimskom svjetlu. Na plaži Šunj uživajte u prostranstvu mora u samoći prije povratka u luku."
           },
           "stops": [
             {
@@ -1070,7 +1174,8 @@
                 "de": "Ziehen Sie sich warm an; der Wind am Hafen ist im Winter beißend.",
                 "hu": "Öltözzön melegen; a kikötői szél télen metsző tud lenni.",
                 "ro": "Îmbrăcați-vă gros; vântul din port este tăios în timpul iernii.",
-                "en": "Dress warmly; the wind at the harbor can be biting in winter."
+                "en": "Dress warmly; the wind at the harbor can be biting in winter.",
+                "hr": "Odjenite se toplo; vjetar u luci zimi može biti oštar."
               }
             },
             {
@@ -1079,7 +1184,8 @@
                 "de": "Bewundern Sie die imposante Architektur in winterlicher Stille.",
                 "hu": "Csodálja meg az impozáns építészetet a téli nyugalomban.",
                 "ro": "Admirați arhitectura impunătoare în liniștea iernii.",
-                "en": "Admire the imposing architecture in the winter silence."
+                "en": "Admire the imposing architecture in the winter silence.",
+                "hr": "Divite se impresivnoj arhitekturi u zimskoj tišini."
               }
             },
             {
@@ -1088,7 +1194,8 @@
                 "de": "Die Wege sind trocken und perfekt für eine zügige Fahrt.",
                 "hu": "Az utak szárazak és tökéletesek egy tempósabb tekeréshez.",
                 "ro": "Drumurile sunt uscate și perfecte pentru o cursă rapidă.",
-                "en": "The paths are dry and perfect for a steady ride."
+                "en": "The paths are dry and perfect for a steady ride.",
+                "hr": "Staze su suhe i savršene za ujednačenu vožnju."
               }
             },
             {
@@ -1097,7 +1204,8 @@
                 "de": "Die kühle Luft macht die Steigungen weniger anstrengend.",
                 "hu": "A hűvös levegő miatt az emelkedők kevésbé fárasztóak.",
                 "ro": "Aerul rece face urcușurile mai puțin obositoare.",
-                "en": "The cool air makes the climbs feel less exhausting."
+                "en": "The cool air makes the climbs feel less exhausting.",
+                "hr": "Hladan zrak čini uspone manje iscrpljujućima."
               }
             },
             {
@@ -1106,7 +1214,8 @@
                 "de": "Perfekter Ort für eine Pause; packen Sie einen heißen Tee ein.",
                 "hu": "Tökéletes hely egy pihenőre; vigyen magával forró teát.",
                 "ro": "Locul perfect pentru o pauză; luați un ceai fierbinte la pachet.",
-                "en": "A perfect spot for a break; pack some hot tea for the stop."
+                "en": "A perfect spot for a break; pack some hot tea for the stop.",
+                "hr": "Savršeno mjesto za odmor; spakirajte topli čaj za pauzu."
               }
             }
           ],
@@ -1138,6 +1247,13 @@
               "Avoid shaded forest paths, as it is significantly cooler there.",
               "Check if bike rental shops are actually open during the winter.",
               "Drink plenty of fluids, even if you feel less thirsty in the cold."
+            ],
+            "hr": [
+              "Rukavice su neophodne za vožnju bicikla tijekom zimskih mjeseci.",
+              "Iskoristite dnevno svjetlo; krenite natrag najkasnije do 16:00.",
+              "Izbjegavajte sjenovite šumske staze jer je tamo znatno hladnije.",
+              "Provjerite rade li trgovine za najam bicikala uopće tijekom zime.",
+              "Pijte puno tekućine, čak i ako osjećate manju žeđ na hladnoći."
             ]
           }
         }
@@ -1166,7 +1282,8 @@
             "de": "Nutzen Sie den Elektro-Buggy-Service.",
             "hu": "Vegye igénybe az elektromos kisautó szervizt.",
             "ro": "Folosiți serviciul de buggy electric.",
-            "en": "Use the electric buggy service."
+            "en": "Use the electric buggy service.",
+            "hr": "Koristite uslugu električnog buggyja."
           }
         },
         {
@@ -1184,7 +1301,8 @@
             "de": "Einfacher Zugang mit dem Buggy.",
             "hu": "Könnyű megközelítés kisautóval.",
             "ro": "Acces ușor cu buggy-ul.",
-            "en": "Easy access with the buggy."
+            "en": "Easy access with the buggy.",
+            "hr": "Lak pristup uz buggy."
           }
         },
         {
@@ -1202,7 +1320,8 @@
             "de": "Blick auf alte Sommerresidenzen.",
             "hu": "Kilátás a régi nyári rezidenciákra.",
             "ro": "Vedere la vechile reședințe de vară.",
-            "en": "View of old summer residences."
+            "en": "View of old summer residences.",
+            "hr": "Pogled na stare ljetnikovce."
           }
         },
         {
@@ -1220,7 +1339,8 @@
             "de": "Der Buggy bringt Sie direkt zum Strand.",
             "hu": "A kisautó közvetlenül a strandra viszi.",
             "ro": "Buggy-ul vă duce direct la plajă.",
-            "en": "The buggy takes you directly to the beach."
+            "en": "The buggy takes you directly to the beach.",
+            "hr": "Buggy vas vodi izravno do plaže."
           }
         }
       ],
@@ -1228,7 +1348,8 @@
         "de": "Da Lopud autofrei ist, ersetzt der Elektro-Buggy das Auto. Lassen Sie sich bequem zu den Sehenswürdigkeiten und quer über die Insel zum Šunj-Strand fahren. Perfekt für Familien oder bei großer Hitze.",
         "hu": "Mivel Lopud autómentes, az elektromos kisautó helyettesíti az autót. Vitessen el magát kényelmesen a látnivalókhoz és a szigeten át a Šunj strandhoz. Tökéletes családoknak vagy nagy hőségben.",
         "ro": "Deoarece Lopud este fără mașini, buggy-ul electric înlocuiește mașina. Lăsați-vă condus confortabil la obiectivele turistice și peste insulă până la plaja Šunj. Perfect pentru familii sau pe căldură mare.",
-        "en": "Since Lopud is car-free, the electric buggy replaces the car. Get driven comfortably to the sights and across the island to Šunj beach. Perfect for families or in great heat."
+        "en": "Since Lopud is car-free, the electric buggy replaces the car. Get driven comfortably to the sights and across the island to Šunj beach. Perfect for families or in great heat.",
+        "hr": "Budući da na Lopudu nema automobila, električni buggy zamjenjuje auto. Neka vas udobno odvezu do znamenitosti i preko otoka do plaže Šunj. Savršeno za obitelji ili velike vrućine."
       },
       "gastro_picks": {
         "de": [
@@ -1253,6 +1374,12 @@
           {
             "name": "La Villa",
             "tip": "Gourmet cuisine at the harbor."
+          }
+        ],
+        "hr": [
+          {
+            "name": "La Villa",
+            "tip": "Gurmanska kuhinja u luci."
           }
         ]
       },
@@ -1284,6 +1411,13 @@
             "tip": "Sound of the sea without the crowds.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Južni rt",
+            "tip": "Zvuk mora bez gužve.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1310,6 +1444,12 @@
             "name": "Local market",
             "tip": "Dried figs."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica",
+            "tip": "Suhe smokve."
+          }
         ]
       },
       "tips": {
@@ -1328,6 +1468,10 @@
         "en": [
           "Negotiate the price for the buggy ride in advance.",
           "The ride to Šunj beach takes about 10-15 minutes."
+        ],
+        "hr": [
+          "Unaprijed dogovorite cijenu vožnje buggyjem.",
+          "Vožnja do plaže Šunj traje oko 10-15 minuta."
         ]
       },
       "variants": {
@@ -1482,7 +1626,8 @@
             "de": "Die Fahrt mit dem Buggy startet am Hafen unter einer Schutzplane. Das Kloster besuchen wir zügig zwischen den Schauern. Im Insel-Zentrum genießen wir den Blick auf das regnerische Hinterland, bevor der Buggy uns zum Strand Šunj bringt. Dort beobachten wir das stürmische Meer aus der Sicherheit des überdachten Fahrzeugs.",
             "hu": "A buggy-túra a kikötőtől indul védőponyva alatt. A kolostort két zápor között, gyorsan látogatjuk meg. A sziget közepén a felhős tájat csodáljuk, mielőtt a buggy elvisz a Šunj strandhoz. Ott a fedett jármű biztonságából figyelhetjük a viharos tengert.",
             "ro": "Călătoria cu buggy-ul începe din port sub o prelată de protecție. Vizităm mănăstirea rapid între două averse. În centrul insulei admirăm peisajul înnorat înainte ca buggy-ul să ne ducă la plaja Šunj. Acolo observăm marea agitată din siguranța vehiculului acoperit.",
-            "en": "The buggy tour starts from the harbor under a protective canopy. We visit the monastery quickly between showers. In the island center, we admire the cloudy landscape before the buggy takes us to Šunj beach. There, we watch the stormy sea from the safety of the covered vehicle."
+            "en": "The buggy tour starts from the harbor under a protective canopy. We visit the monastery quickly between showers. In the island center, we admire the cloudy landscape before the buggy takes us to Šunj beach. There, we watch the stormy sea from the safety of the covered vehicle.",
+            "hr": "Tura buggyjem polazi iz luke pod zaštitnim krovom. Posjećujemo samostan brzo između pljuskova. U unutrašnjosti otoka divimo se oblačnom krajoliku prije nego nas buggy odveze do plaže Šunj. Tamo promatramo olujno more iz sigurnosti natkrivenog vozila."
           },
           "stops": [
             {
@@ -1491,7 +1636,8 @@
                 "de": "Wählen Sie ein Fahrzeug mit funktionierendem Regenschutz.",
                 "hu": "Válasszon olyan járművet, amelynek jó az esővédő ponyvája.",
                 "ro": "Alegeți un vehicul cu o prelată de protecție funcțională.",
-                "en": "Choose a vehicle with a functional rain cover or canopy."
+                "en": "Choose a vehicle with a functional rain cover or canopy.",
+                "hr": "Odaberite vozilo s funkcionalnom zaštitom od kiše ili krovom."
               }
             },
             {
@@ -1500,7 +1646,8 @@
                 "de": "Der Buggy bringt Sie fast bis zum Eingang, wenig Fußweg im Regen.",
                 "hu": "A buggy majdnem a bejáratig viszi, így keveset kell esőben gyalogolni.",
                 "ro": "Buggy-ul vă duce aproape de intrare, evitând mersul prin ploaie.",
-                "en": "The buggy takes you almost to the entrance, minimizing walking in rain."
+                "en": "The buggy takes you almost to the entrance, minimizing walking in rain.",
+                "hr": "Buggy vas vodi gotovo do ulaza, smanjujući hodanje po kiši."
               }
             },
             {
@@ -1509,7 +1656,8 @@
                 "de": "Genießen Sie den Panoramablick direkt aus dem trockenen Buggy.",
                 "hu": "Élvezze a panorámát közvetlenül a száraz járműből.",
                 "ro": "Bucurați-vă de panoramă direct din buggy-ul uscat.",
-                "en": "Enjoy the panoramic view directly from the dry buggy."
+                "en": "Enjoy the panoramic view directly from the dry buggy.",
+                "hr": "Uživajte u panoramskom pogledu izravno iz suhog buggyja."
               }
             },
             {
@@ -1518,7 +1666,8 @@
                 "de": "Bitten Sie den Fahrer, an einer geschützten Stelle zu warten.",
                 "hu": "Kérje meg a sofőrt, hogy egy szélvédett helyen várakozzon.",
                 "ro": "Rugați șoferul să aștepte într-un loc ferit de vânt.",
-                "en": "Ask the driver to wait in a wind-sheltered spot for you."
+                "en": "Ask the driver to wait in a wind-sheltered spot for you.",
+                "hr": "Zamolite vozača da vas pričeka na mjestu zaštićenom od vjetra."
               }
             }
           ],
@@ -1550,6 +1699,13 @@
               "Watch out for water splashing from puddles during the ride.",
               "Keep your camera and phone in waterproof cases for taking photos.",
               "Travel time may slightly increase due to limited visibility."
+            ],
+            "hr": [
+              "Rezervirajte prijevoz buggyjem unaprijed jer se potražnja povećava tijekom kiše.",
+              "Ponesite malu dekicu; vožnja u otvorenom vozilu može biti prohladna.",
+              "Pazite na prskanje vode iz lokvi tijekom vožnje.",
+              "Držite fotoaparat i telefon u vodootpornim futrolama za fotografiranje.",
+              "Vrijeme putovanja može se malo povećati zbog smanjene vidljivosti."
             ]
           }
         },
@@ -1558,7 +1714,8 @@
             "de": "Im Winter ist die Buggy-Fahrt über die Insel ein erfrischendes Erlebnis. Vom Hafen geht es zügig zum Kloster, wo wir die Stille genießen. Das Insel-Zentrum zeigt sich in klaren Farben unter der Wintersonne. Zum Abschluss bringt uns der Buggy zum weiten Strand Šunj, wo wir die kühle Meeresluft einatmen, bevor es zurück zum Hafen geht.",
             "hu": "Télen a buggy-túra a szigeten át frissítő és különleges élmény. A kikötőtől gyorsan eljutunk a kolostorhoz, élvezve a csendet. A sziget közepe tiszta színekben pompázik a téli napfényben. Végül a buggy elvisz a tágas Šunj strandhoz, ahol belélegezzük a hűvös tengeri levegőt a visszatérés előtt.",
             "ro": "Iarna, plimbarea cu buggy-ul pe insulă este o experiență revigorantă. Din port ajungem rapid la mănăstire, unde ne bucurăm de liniște. Centrul insulei se arată în culori clare sub soarele de iarnă. La final, buggy-ul ne duce la plaja vastă Šunj pentru o gură de aer marin răcoros.",
-            "en": "In winter, the buggy ride across the island is a refreshing and unique experience. From the port, we quickly reach the monastery, enjoying the silence. The island center shows off clear colors under the winter sun. Finally, the buggy takes us to the vast Šunj beach for a breath of cool sea air."
+            "en": "In winter, the buggy ride across the island is a refreshing and unique experience. From the port, we quickly reach the monastery, enjoying the silence. The island center shows off clear colors under the winter sun. Finally, the buggy takes us to the vast Šunj beach for a breath of cool sea air.",
+            "hr": "Zimi je vožnja buggyjem preko otoka osvježavajuće i jedinstveno iskustvo. Iz luke brzo stižemo do samostana, uživajući u tišini. Unutrašnjost otoka pokazuje jasne boje pod zimskim suncem. Naposljetku, buggy nas vodi do prostrane plaže Šunj na dašak hladnog morskog zraka."
           },
           "stops": [
             {
@@ -1567,7 +1724,8 @@
                 "de": "Fragen Sie nach einer Decke für die oft windige Überfahrt.",
                 "hu": "Kérjen takarót a sokszor szeles átkeléshez.",
                 "ro": "Cereți o pătură pentru traversarea adesea vântoasă.",
-                "en": "Ask for a blanket for the often windy ride across the island."
+                "en": "Ask for a blanket for the often windy ride across the island.",
+                "hr": "Zatražite deku za često vjetrovitu vožnju preko otoka."
               }
             },
             {
@@ -1576,7 +1734,8 @@
                 "de": "Nutzen Sie die gewonnene Zeit für eine ausführliche Besichtigung.",
                 "hu": "Használja ki a megspórolt időt egy alaposabb látogatásra.",
                 "ro": "Folosiți timpul economisit pentru o vizită detaliată.",
-                "en": "Use the time saved by the buggy for a more detailed visit."
+                "en": "Use the time saved by the buggy for a more detailed visit.",
+                "hr": "Iskoristite vrijeme ušteđeno buggyjem za detaljniji posjet."
               }
             },
             {
@@ -1585,7 +1744,8 @@
                 "de": "Kurzer Fotostopp; die Fernsicht ist im Winter am besten.",
                 "hu": "Rövid fotómegálló; a kilátás télen a legtisztább.",
                 "ro": "Scurt popas pentru poze; vizibilitatea este maximă iarna.",
-                "en": "Short photo stop; the distant views are best during winter."
+                "en": "Short photo stop; the distant views are best during winter.",
+                "hr": "Kratka pauza za fotografiranje; pogledi u daljinu su najbolji zimi."
               }
             },
             {
@@ -1594,7 +1754,8 @@
                 "de": "Der Buggy holt Sie pünktlich ab, bevor es zu kalt wird.",
                 "hu": "A buggy pontosan érted jön, mielőtt túl hideg lenne.",
                 "ro": "Buggy-ul vă va lua la timp, înainte de a se face prea frig.",
-                "en": "The buggy will pick you up promptly before it gets too cold."
+                "en": "The buggy will pick you up promptly before it gets too cold.",
+                "hr": "Buggy će vas pokupiti točno na vrijeme prije nego što postane prehladno."
               }
             }
           ],
@@ -1626,6 +1787,13 @@
               "Buggies run less frequently in winter; book by phone if possible.",
               "Enjoy the quick connection between the island's main sights.",
               "Sunglasses protect your eyes from the wind even in winter."
+            ],
+            "hr": [
+              "Topla odjeća i vjetrovka su obavezni za vožnju.",
+              "Dogovorite fiksno vrijeme povratka s plaže.",
+              "Buggyji zimi voze rjeđe; ako je moguće, rezervirajte telefonom.",
+              "Uživajte u brzoj povezanosti između glavnih znamenitosti otoka.",
+              "Sunčane naočale štite vaše oči od vjetra čak i zimi."
             ]
           }
         }
@@ -1654,7 +1822,8 @@
             "de": "Prüfen Sie die Rückfahrzeiten der Fähre.",
             "hu": "Ellenőrizze a komp visszaindulási idejét.",
             "ro": "Verificați orele de întoarcere ale feribotului.",
-            "en": "Check the ferry return times."
+            "en": "Check the ferry return times.",
+            "hr": "Provjerite vrijeme povratka trajekta."
           }
         },
         {
@@ -1672,7 +1841,8 @@
             "de": "Kleine historische Kirche.",
             "hu": "Kis történelmi templom.",
             "ro": "Mică biserică istorică.",
-            "en": "Small historical church."
+            "en": "Small historical church.",
+            "hr": "Mala povijesna crkva."
           }
         },
         {
@@ -1690,7 +1860,8 @@
             "de": "Ein Muss für Pflanzenliebhaber.",
             "hu": "Növénykedvelőknek kötelező.",
             "ro": "Obligatoriu pentru iubitorii de plante.",
-            "en": "A must for plant lovers."
+            "en": "A must for plant lovers.",
+            "hr": "Obavezno za ljubitelje biljaka."
           }
         },
         {
@@ -1708,7 +1879,8 @@
             "de": "Nehmen Sie den Elektro-Shuttle vom Park.",
             "hu": "Vegye igénybe az elektromos buszt a parktól.",
             "ro": "Luați naveta electrică din parc.",
-            "en": "Take the electric shuttle from the park."
+            "en": "Take the electric shuttle from the park.",
+            "hr": "Uzmite električni shuttle iz parka."
           }
         }
       ],
@@ -1716,7 +1888,8 @@
         "de": "Nutzen Sie die Ankunft mit der Fähre als Startpunkt. Besuchen Sie die nahegelegenen Kirchen und entspannen Sie im Park. Ein regelmäßiger Elektro-Shuttle verbindet den Hafenbereich mit dem Šunj-Strand auf der anderen Inselseite.",
         "hu": "Használja a komppal való érkezést kiindulópontként. Látogassa meg a közeli templomokat és lazítson a parkban. Rendszeres elektromos ingajárat köti össze a kikötőt a sziget túloldalán lévő Šunj stranddal.",
         "ro": "Folosiți sosirea cu feribotul ca punct de plecare. Vizitați bisericile din apropiere și relaxați-vă în parc. O navetă electrică regulată leagă zona portului de plaja Šunj de pe cealaltă parte a insulei.",
-        "en": "Use the arrival by ferry as a starting point. Visit the nearby churches and relax in the park. A regular electric shuttle connects the harbor area with Šunj beach on the other side of the island."
+        "en": "Use the arrival by ferry as a starting point. Visit the nearby churches and relax in the park. A regular electric shuttle connects the harbor area with Šunj beach on the other side of the island.",
+        "hr": "Iskoristite dolazak trajektom kao početnu točku. Posjetite obližnje crkve i opustite se u parku. Redoviti električni shuttle povezuje područje luke s plažom Šunj na drugoj strani otoka."
       },
       "gastro_picks": {
         "de": [
@@ -1741,6 +1914,12 @@
           {
             "name": "Mandrac Pizzeria",
             "tip": "Good pizza at the harbor."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pizzeria Mandrac",
+            "tip": "Dobra pizza u luci."
           }
         ]
       },
@@ -1772,6 +1951,13 @@
             "tip": "Enjoy the birdsong.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Klupe u parku",
+            "tip": "Uživajte u pjevu ptica.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1798,6 +1984,12 @@
             "name": "Postcard shop",
             "tip": "Beautiful island motifs."
           }
+        ],
+        "hr": [
+          {
+            "name": "Trgovina razglednicama",
+            "tip": "Prekrasni otočki motivi."
+          }
         ]
       },
       "tips": {
@@ -1816,6 +2008,10 @@
         "en": [
           "Buy ferry tickets online in advance.",
           "The electric shuttle is not free."
+        ],
+        "hr": [
+          "Kupite karte za trajekt putem interneta unaprijed.",
+          "Električni shuttle se naplaćuje."
         ]
       },
       "variants": {
@@ -1970,7 +2166,8 @@
             "de": "Vom Fähranleger führt der Weg bei Regen zur nahen Nikolauskirche. Im Park finden wir unter den Bäumen Schutz, während wir auf den Insel-Transfer warten. Der Transfer bringt uns komfortabel zum Strand Šunj, wo wir den Blick auf die regnerische Adria genießen. Am Abend kehren wir mit der Fähre zum Festland zurück, begleitet vom Rauschen der Regentropfen auf dem Deck.",
             "hu": "A révkikötőtől esőben a közeli Szent Miklós-templom felé vesszük az irányt. A parkban a fák alatt keresünk menedéket, amíg a szigeti transzferre várunk. A transzfer kényelmesen elvisz a Šunj strandhoz, ahol a felhős Adria látványában gyönyörködünk. Este a komppal térünk vissza, hallgatva az eső kopogását a fedélzeten.",
             "ro": "De la debarcader mergem spre biserica Sf. Nicolae în timp ce plouă. În parc căutăm adăpost sub copaci așteptând transferul local. Transferul ne duce confortabil la plaja Šunj pentru a vedea marea înnorată. Seara ne întoarcem cu feribotul, ascultând ploaia care bate în punte.",
-            "en": "From the ferry pier, we head to St. Nicholas Church during the rain. In the park, we seek shelter under trees while waiting for the local transfer. The transfer takes us comfortably to Šunj beach to enjoy the cloudy Adriatic view. In the evening, we return by ferry, listening to the rain tapping on the deck."
+            "en": "From the ferry pier, we head to St. Nicholas Church during the rain. In the park, we seek shelter under trees while waiting for the local transfer. The transfer takes us comfortably to Šunj beach to enjoy the cloudy Adriatic view. In the evening, we return by ferry, listening to the rain tapping on the deck.",
+            "hr": "S trajektnog pristaništa krećemo prema crkvi sv. Nikole tijekom kiše. U parku tražimo zaklon pod drvećem dok čekamo lokalni prijevoz. Prijevoz nas udobno vodi do plaže Šunj kako bismo uživali u oblačnom pogledu na Jadran. Navečer se vraćamo trajektom, slušajući kišu kako kucka po palubi."
           },
           "stops": [
             {
@@ -1979,7 +2176,8 @@
                 "de": "Warten Sie im überdachten Bereich des Terminals auf die Fähre.",
                 "hu": "Várja a kompot a terminál fedett részén.",
                 "ro": "Așteptați feribotul în zona acoperită a terminalului.",
-                "en": "Wait for the ferry in the covered area of the terminal."
+                "en": "Wait for the ferry in the covered area of the terminal.",
+                "hr": "Pričekajte trajekt u natkrivenom dijelu terminala."
               }
             },
             {
@@ -1988,7 +2186,8 @@
                 "de": "Ein schöner Ort für eine kurze, trockene Pause nahe dem Hafen.",
                 "hu": "Szép hely egy rövid, száraz pihenőre a kikötő közelében.",
                 "ro": "Un loc frumos pentru o scurtă pauză uscată lângă port.",
-                "en": "A lovely spot for a short, dry break near the harbor area."
+                "en": "A lovely spot for a short, dry break near the harbor area.",
+                "hr": "Lijepo mjesto za kratku, suhu pauzu u blizini luke."
               }
             },
             {
@@ -1997,7 +2196,8 @@
                 "de": "Die Wartehäuschen am Rande des Parks bieten Schutz vor Regen.",
                 "hu": "A park szélén található beállók védelmet nyújtanak az eső elől.",
                 "ro": "Refugiile de la marginea parcului oferă protecție contra ploii.",
-                "en": "The shelters at the edge of the park provide protection from rain."
+                "en": "The shelters at the edge of the park provide protection from rain.",
+                "hr": "Zakloni na rubu parka pružaju zaštitu od kiše."
               }
             },
             {
@@ -2006,7 +2206,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten des Buggy-Transfers bei Regen.",
                 "hu": "Ellenőrizze a buggy-transzfer visszaindulási idejét esőben.",
                 "ro": "Verificați orele de întoarcere ale transferului în caz de ploaie.",
-                "en": "Check the return times for the buggy transfer during rainy weather."
+                "en": "Check the return times for the buggy transfer during rainy weather.",
+                "hr": "Provjerite vrijeme povratka buggy prijevoza tijekom kišnog vremena."
               }
             }
           ],
@@ -2038,6 +2239,13 @@
               "The shared buggy transfer is the driest way to reach the beach.",
               "Stay inside the ferry cabin to remain dry during the crossing.",
               "An umbrella is often impractical at the harbor due to the wind."
+            ],
+            "hr": [
+              "Kupite karte za trajekt putem interneta kako biste izbjegli čekanje u redu na kiši.",
+              "Trajekt može kasniti ili biti otkazan u slučaju grubog mora.",
+              "Zajednički prijevoz buggyjem je najsuši način da dođete do plaže.",
+              "Ostanite unutar kabine trajekta kako biste ostali suhi tijekom plovidbe.",
+              "Kišobran je često nepraktičan u luci zbog vjetra."
             ]
           }
         },
@@ -2046,7 +2254,8 @@
             "de": "Vom winterlichen Fähranleger spazieren wir zur stillen Nikolauskirche. Der Park wirkt im Winterlicht besonders weitläufig und friedlich. Der lokale Transfer bringt uns zum fast menschenleeren Strand Šunj, wo wir die reine Meeresluft genießen. Den Tag lassen wir entspannt ausklingen, bevor uns die Abendfähre zurück zum Festland bringt.",
             "hu": "A téli révkikötőtől a csendes Szent Miklós-templomhoz sétálunk. A park a téli fényben különösen tágasnak és békésnek tűnik. A helyi transzfer elvisz a szinte teljesen üres Šunj strandhoz, ahol élvezzük a tiszta tengeri levegőt. A napot nyugodtan zárjuk, mielőtt az esti komp visszavisz a szárazföldre.",
             "ro": "De la debarcaderul de iarnă mergem spre biserica liniștită Sf. Nicolae. Parcul pare deosebit de vast și pașnic în lumina rece. Transferul local ne duce la plaja Šunj aproape pustie, unde savurăm aerul curat. Încheiem ziua relaxați înainte ca feribotul de seară să ne ducă înapoi.",
-            "en": "From the winter ferry pier, we walk to the quiet St. Nicholas Church. The park feels especially spacious and peaceful in the winter light. The local transfer takes us to the almost deserted Šunj beach, where we enjoy the fresh sea air. We end the day in a relaxed mood before the evening ferry takes us back."
+            "en": "From the winter ferry pier, we walk to the quiet St. Nicholas Church. The park feels especially spacious and peaceful in the winter light. The local transfer takes us to the almost deserted Šunj beach, where we enjoy the fresh sea air. We end the day in a relaxed mood before the evening ferry takes us back.",
+            "hr": "Sa zimskog trajektnog pristaništa šetamo do tihe crkve sv. Nikole. Park djeluje posebno prostrano i mirno na zimskom svjetlu. Lokalni prijevoz nas vodi do gotovo puste plaže Šunj, gdje uživamo u svježem morskom zraku. Dan završavamo u opuštenom raspoloženju prije nego nas večernji trajekt odveze natrag."
           },
           "stops": [
             {
@@ -2055,7 +2264,8 @@
                 "de": "Beachten Sie den deutlich reduzierten Winterfahrplan der Fähren.",
                 "hu": "Ügyeljen a kompok jelentősen ritkított téli menetrendjére.",
                 "ro": "Atenție la programul de iarnă redus al feriboturilor.",
-                "en": "Note the significantly reduced winter ferry schedule."
+                "en": "Note the significantly reduced winter ferry schedule.",
+                "hr": "Obratite pozornost na znatno smanjeni zimski plovidbeni red trajekata."
               }
             },
             {
@@ -2064,7 +2274,8 @@
                 "de": "Ein Ort der Einkehr, abseits der sommerlichen Touristenpfade.",
                 "hu": "Az elmélyülés helye, távol a nyári turistaútvonalaktól.",
                 "ro": "Un loc de reculegere, departe de traseele turistice de vară.",
-                "en": "A place for contemplation, away from the summer tourist paths."
+                "en": "A place for contemplation, away from the summer tourist paths.",
+                "hr": "Mjesto za razmišljanje, daleko od ljetnih turističkih staza."
               }
             },
             {
@@ -2073,7 +2284,8 @@
                 "de": "Genießen Sie den Spaziergang in der klaren, kühlen Winterluft.",
                 "hu": "Élvezze a sétát a kristálytiszta, hűvös téli levegőben.",
                 "ro": "Bucurați-vă de o plimbare în aerul curat și rece de iarnă.",
-                "en": "Enjoy a leisurely walk in the clear, cool winter air."
+                "en": "Enjoy a leisurely walk in the clear, cool winter air.",
+                "hr": "Uživajte u laganoj šetnji na čistom, hladnom zimskom zraku."
               }
             },
             {
@@ -2082,7 +2294,8 @@
                 "de": "Die letzte Rückfahrt des Transfers ist im Winter oft früher.",
                 "hu": "A transzfer utolsó visszajárata télen gyakran korábban van.",
                 "ro": "Ultima cursă de întoarcere este adesea mai devreme iarna.",
-                "en": "The last return trip of the transfer is often earlier in winter."
+                "en": "The last return trip of the transfer is often earlier in winter.",
+                "hr": "Zadnja povratna vožnja prijevoza često je ranije zimi."
               }
             }
           ],
@@ -2114,6 +2327,13 @@
               "In winter, the buggy transfer is the only comfortable option to reach the beach.",
               "There is less staff available; check schedules independently in advance.",
               "Combine the trip with a visit to one of the local cafes at the harbor."
+            ],
+            "hr": [
+              "Dvaput provjerite plovi li doista zadnji trajekt tog dana.",
+              "Nosite odjeću otpornu na vjetar za prijelaz ako ostajete na palubi.",
+              "Zimi je prijevoz buggyjem jedina udobna opcija za dolazak do plaže.",
+              "Dostupno je manje osoblja; unaprijed samostalno provjerite plovidbene redove.",
+              "Kombinirajte izlet s posjetom jednom od lokalnih kafića u luci."
             ]
           }
         }

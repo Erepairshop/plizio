@@ -31,7 +31,8 @@
             "de": "Frühstücken Sie hier mit Blick auf die Schlossmauern.",
             "hu": "Reggelizzen itt közvetlenül a várfalak tövében.",
             "ro": "Luați micul dejun aici, chiar sub zidurile castelului.",
-            "en": "Have breakfast here right under the castle walls."
+            "en": "Have breakfast here right under the castle walls.",
+            "fr": "Prenez votre petit-déjeuner ici, juste sous les remparts du château."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besuchen Sie die Grabstätte von Leonardo da Vinci in der Kapelle.",
             "hu": "Látogassa meg Leonardo da Vinci sírját a kápolnában.",
             "ro": "Vizitați mormântul lui Leonardo da Vinci în capelă.",
-            "en": "Visit the tomb of Leonardo da Vinci in the chapel."
+            "en": "Visit the tomb of Leonardo da Vinci in the chapel.",
+            "fr": "Visitez le tombeau de Léonard de Vinci dans la chapelle."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die romanischen Kapitelle in dieser historischen Kirche.",
             "hu": "Csodálja meg a román stílusú oszlopfőket a templomban.",
             "ro": "Admirați capitelurile romanice în această biserică istorică.",
-            "en": "Admire the Romanesque capitals in this historic church."
+            "en": "Admire the Romanesque capitals in this historic church.",
+            "fr": "Admirez les chapiteaux romans de cette église historique."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Testen Sie Leonardos Erfindungen im weitläufigen Park.",
             "hu": "Próbálja ki Leonardo találmányait a tágas parkban.",
             "ro": "Testați invențiile lui Leonardo în parcul generos.",
-            "en": "Test Leonardo's inventions in the spacious park."
+            "en": "Test Leonardo's inventions in the spacious park.",
+            "fr": "Testez les inventions de Léonard dans le vaste parc."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Entdecken Sie die ersten Renaissance-Gärten Frankreichs.",
             "hu": "Fedezze fel Franciaország első reneszánsz kertjeit.",
             "ro": "Descoperiți primele grădini renascentiste din Franța.",
-            "en": "Discover the first Renaissance gardens of France."
+            "en": "Discover the first Renaissance gardens of France.",
+            "fr": "Découvrez les premiers jardins de la Renaissance en France."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Genießen Sie den Sonnenuntergang an den Ufern der Loire.",
             "hu": "Élvezze a naplementét a Loire folyó partján.",
             "ro": "Bucurați-vă de apusul de soare pe malul Loarei.",
-            "en": "Enjoy the sunset on the banks of the Loire river."
+            "en": "Enjoy the sunset on the banks of the Loire river.",
+            "fr": "Profitez du coucher de soleil sur les rives de la Loire."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Amboise auf der Place Michel Debré, bevor Sie das majestätische Königsschloss erkunden. Am Vormittag spazieren Sie zur Kirche Saint-Denis und tauchen in die mittelalterliche Atmosphäre ein. Der Nachmittag steht ganz im Zeichen Leonardos im Clos Lucé und den prächtigen Gärten des Château Gaillard. Zum Abschluss bietet ein Spaziergang am Loire-Ufer den perfekten Ausklang eines kulturellen Tages.",
         "hu": "Kezdje a napot Amboise szívében a Place Michel Debré téren, majd fedezze fel a fenséges királyi várkastélyt. Délelőtt sétáljon el a Saint-Denis templomhoz, élvezve a középkori hangulatot. A délutánt szentelje Leonardo örökségének a Clos Lucé-ban és a Château Gaillard pompás kertjeiben. Végezetül a Loire-parti séta nyújt tökéletes lezárást ennek a kulturális napnak.",
         "ro": "Începeți ziua în inima orașului Amboise în Piața Michel Debré, înainte de a explora maiestuosul castel regal. Dimineața, plimbați-vă până la biserica Saint-Denis, cufundându-vă în atmosfera medievală. După-amiaza este dedicată moștenirii lui Leonardo la Clos Lucé și grădinilor superbe de la Château Gaillard. La final, o plimbare pe malul Loarei oferă încheierea perfectă a unei zile culturale.",
-        "en": "Start your day in the heart of Amboise at Place Michel Debré before exploring the majestic Royal Castle. In the morning, stroll to Saint-Denis church, soaking in the medieval atmosphere. Spend the afternoon dedicated to Leonardo's legacy at Clos Lucé and the magnificent gardens of Château Gaillard. Finally, a walk along the Loire banks offers the perfect conclusion to a cultural day."
+        "en": "Start your day in the heart of Amboise at Place Michel Debré before exploring the majestic Royal Castle. In the morning, stroll to Saint-Denis church, soaking in the medieval atmosphere. Spend the afternoon dedicated to Leonardo's legacy at Clos Lucé and the magnificent gardens of Château Gaillard. Finally, a walk along the Loire banks offers the perfect conclusion to a cultural day.",
+        "fr": "Commencez votre journée au cœur d'Amboise, place Michel Debré, avant d'explorer le majestueux Château Royal. Le matin, flânez jusqu'à l'église Saint-Denis pour vous imprégner de son atmosphère médiévale. Consacrez l'après-midi à l'héritage de Léonard au Clos Lucé et aux magnifiques jardins du Château Gaillard. Enfin, une promenade sur les bords de la Loire conclura parfaitement cette journée culturelle."
       },
       "gastro_picks": {
         "de": [
@@ -154,6 +161,12 @@
           {
             "name": "Le Lion d'Or",
             "tip": "Traditional Loire cuisine right by the castle."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Lion d'Or",
+            "tip": "Cuisine traditionnelle de la Loire juste à côté du château."
           }
         ]
       },
@@ -185,6 +198,13 @@
             "tip": "Quiet spot for birdwatching.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Bords de Loire",
+            "tip": "Endroit calme pour l'observation des oiseaux.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -210,6 +230,12 @@
           {
             "name": "Boulangerie Bigot",
             "tip": "Famous macarons and pastries since 1913."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boulangerie Bigot",
+            "tip": "Célèbres macarons et pâtisseries depuis 1913."
           }
         ]
       },
@@ -237,6 +263,12 @@
           "Book castle tickets online to avoid long queues.",
           "The Sunday market is a must for food lovers.",
           "Amboise is very compact and ideal to explore on foot."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les rues pavées.",
+          "Réservez vos billets pour le château en ligne pour éviter les files d'attente.",
+          "Le marché du dimanche est un incontournable pour les gourmets.",
+          "Amboise est très compacte et idéale à explorer à pied."
         ]
       },
       "variants": {
@@ -417,7 +449,8 @@
             "de": "Der Morgen beginnt regnerisch am Place Michel Debré; ein Schirm ist in den engen Gassen unerlässlich. Im Schloss finden Sie Schutz in den prunkvollen Sälen. Mittags bietet das Clos Lucé trockene Pfade durch Leonardos Genie. Der Tag endet mit einem grauen, aber mystischen Blick auf die Loire vom Quai aus.",
             "hu": "Az eső kopog a Place Michel Debré kövein; egy esernyő kötelező a szűk utcákban. A várkastély vastag falai között biztonságban böngészheti a történelmet. Délután a Clos Lucé fedett kiállításai kínálnak menedéket. A nap a Loire-parti ködös, misztikus látvánnyal zárul a rakparton.",
             "ro": "Dimineața începe ploioasă în Place Michel Debré; o umbrelă este esențială pe străzile înguste. Castelul oferă adăpost în sălile sale fastuoase. La prânz, Clos Lucé vă invită să descoperiți geniul lui Leonardo în spații ferite. Ziua se încheie cu o priveliște mistică asupra Loarei de pe chei.",
-            "en": "The morning starts rainy at Place Michel Debré; an umbrella is essential in the narrow streets. The castle walls provide excellent shelter as you explore the royal rooms. Afternoon at Clos Lucé focuses on indoor exhibits of Da Vinci's genius. The day ends with a misty, atmospheric view of the Loire."
+            "en": "The morning starts rainy at Place Michel Debré; an umbrella is essential in the narrow streets. The castle walls provide excellent shelter as you explore the royal rooms. Afternoon at Clos Lucé focuses on indoor exhibits of Da Vinci's genius. The day ends with a misty, atmospheric view of the Loire.",
+            "fr": "La matinée commence sous la pluie place Michel Debré ; un parapluie est indispensable dans les rues étroites. Les murs du château offrent un excellent abri pendant que vous explorez les salles royales. L'après-midi au Clos Lucé se concentre sur les expositions intérieures du génie de De Vinci. La journée se termine par une vue brumeuse et atmosphérique de la Loire."
           },
           "stops": [
             {
@@ -426,7 +459,8 @@
                 "de": "Suchen Sie Schutz unter den Markisen der Cafés.",
                 "hu": "Keressen menedéket a kávézók előtetői alatt.",
                 "ro": "Căutați adăpost sub copertinele cafenelelor.",
-                "en": "Seek shelter under the cafe awnings if the rain picks up."
+                "en": "Seek shelter under the cafe awnings if the rain picks up.",
+                "fr": "Cherchez refuge sous les stores des cafés si la pluie s'intensifie."
               }
             },
             {
@@ -435,7 +469,8 @@
                 "de": "Konzentrieren Sie sich auf die Innenräume und die Kapelle.",
                 "hu": "Fókuszáljon a belső termekre és a kápolnára.",
                 "ro": "Concentrați-vă pe vizitarea interiorului și a capelei.",
-                "en": "Focus on the interior rooms and the Saint-Hubert chapel."
+                "en": "Focus on the interior rooms and the Saint-Hubert chapel.",
+                "fr": "Concentrez-vous sur les salles intérieures et la chapelle Saint-Hubert."
               }
             },
             {
@@ -444,7 +479,8 @@
                 "de": "Ein perfekter Ort, um einen starken Schauer abzuwarten.",
                 "hu": "Tökéletes hely egy hirtelen zápor átvészelésére.",
                 "ro": "Un loc perfect pentru a aștepta trecerea unei averse.",
-                "en": "A perfect quiet spot to wait out a heavy downpour."
+                "en": "A perfect quiet spot to wait out a heavy downpour.",
+                "fr": "Un endroit calme parfait pour attendre la fin d'une forte averse."
               }
             },
             {
@@ -453,7 +489,8 @@
                 "de": "Besuchen Sie zuerst die Modelle im Untergeschoss.",
                 "hu": "Először az alagsori makettkiállítást nézze meg.",
                 "ro": "Vizitați mai întâi machetele din subsol.",
-                "en": "Visit the basement model collection first to stay dry."
+                "en": "Visit the basement model collection first to stay dry.",
+                "fr": "Visitez d'abord la collection de maquettes au sous-sol pour rester au sec."
               }
             },
             {
@@ -462,7 +499,8 @@
                 "de": "Die Orangerie bietet Schutz vor dem Regen.",
                 "hu": "Az oranzsárium jó búvóhely az eső elől.",
                 "ro": "Oranjeria oferă un bun adăpost împotriva ploii.",
-                "en": "The orangery provides a nice retreat from the rain."
+                "en": "The orangery provides a nice retreat from the rain.",
+                "fr": "L'orangerie offre une agréable retraite loin de la pluie."
               }
             },
             {
@@ -471,7 +509,8 @@
                 "de": "Vorsicht vor rutschigen Steinen am Flussufer.",
                 "hu": "Vigyázzon a csúszós kövekre a folyóparton.",
                 "ro": "Atenție la pietrele alunecoase de pe malul râului.",
-                "en": "Be careful of slippery stones along the riverbank."
+                "en": "Be careful of slippery stones along the riverbank.",
+                "fr": "Faites attention aux pierres glissantes le long de la rive."
               }
             }
           ],
@@ -499,6 +538,12 @@
               "Local museums have cloakrooms for wet coats and umbrellas.",
               "Use the narrow alleyways for temporary shelter while moving.",
               "The river looks exceptionally dramatic in the rainy mist."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables pour les rues pavées.",
+              "Les musées locaux disposent de vestiaires pour les manteaux mouillés et parapluies.",
+              "Utilisez les ruelles étroites pour vous abriter temporairement lors de vos déplacements.",
+              "Le fleuve est particulièrement spectaculaire dans la brume de pluie."
             ]
           }
         },
@@ -507,7 +552,8 @@
             "de": "Ein klarer Wintermorgen am Place Michel Debré, wo der Frost die Fachwerkhäuser glitzern lässt. Das Schloss ist festlich geschmückt und bietet wohlige Wärme an den Kaminen. Nachmittags wärmt ein Tee im Clos Lucé, bevor die Sonne früh über der Loire versinkt. Der Abend am Quai ist kühl, aber beleuchtet.",
             "hu": "Deres téli reggel a Place Michel Debré-n, ahol a fagy megcsillan a gerendás házakon. A várkastély karácsonyi díszben úszik, a kandallók melege hívogató. Délután a Clos Lucé teázójában melegedhet fel, mielőtt a nap korán lenyugszik a Loire felett. A rakparti este hideg, de ünnepi fények díszítik.",
             "ro": "O dimineață geroasă în Place Michel Debré, cu chiciură pe casele vechi. Castelul este decorat festiv, iar șemineele oferă o căldură plăcută. După-amiaza, un ceai cald la Clos Lucé este binevenit înainte de apusul timpuriu. Seara pe chei este rece, dar frumos iluminată.",
-            "en": "A crisp winter morning at Place Michel Debré with frost sparkling on timber houses. The castle is festively decorated, offering warmth by grand fireplaces. Enjoy a hot drink at Clos Lucé as the sun sets early over the Loire. The evening walk along the Quai is cold but beautifully lit."
+            "en": "A crisp winter morning at Place Michel Debré with frost sparkling on timber houses. The castle is festively decorated, offering warmth by grand fireplaces. Enjoy a hot drink at Clos Lucé as the sun sets early over the Loire. The evening walk along the Quai is cold but beautifully lit.",
+            "fr": "Une matinée d'hiver tonifiante place Michel Debré avec le givre scintillant sur les maisons à colombages. Le château est décoré de façon festive, offrant de la chaleur près des grandes cheminées. Savourez une boisson chaude au Clos Lucé alors que le soleil se couche tôt sur la Loire. La promenade du soir le long du quai est froide mais magnifiquement éclairée."
           },
           "stops": [
             {
@@ -516,7 +562,8 @@
                 "de": "Genießen Sie eine heiße Schokolade zum Aufwärmen.",
                 "hu": "Igyon egy forró csokoládét a bemelegítéshez.",
                 "ro": "Savurați o ciocolată caldă pentru a vă încălzi.",
-                "en": "Grab a hot chocolate to warm your hands early on."
+                "en": "Grab a hot chocolate to warm your hands early on.",
+                "fr": "Prenez un chocolat chaud pour vous réchauffer les mains dès le début."
               }
             },
             {
@@ -525,7 +572,8 @@
                 "de": "Bewundern Sie die Weihnachtsdekorationen in den Sälen.",
                 "hu": "Csodálja meg az ünnepi díszítést a királyi termekben.",
                 "ro": "Admirați decorațiunile de Crăciun din sălile regale.",
-                "en": "Check out the special Christmas displays in the royal rooms."
+                "en": "Check out the special Christmas displays in the royal rooms.",
+                "fr": "Découvrez les décorations de Noël spéciales dans les salles royales."
               }
             },
             {
@@ -534,7 +582,8 @@
                 "de": "Die Kirche kann im Winter sehr kühl sein.",
                 "hu": "A templom télen elég hűvös lehet, tartsa magán a kabátot.",
                 "ro": "Biserica poate fi destul de rece iarna.",
-                "en": "The church can be quite chilly; keep your coat on inside."
+                "en": "The church can be quite chilly; keep your coat on inside.",
+                "fr": "L'église peut être assez fraîche ; gardez votre manteau à l'intérieur."
               }
             },
             {
@@ -543,7 +592,8 @@
                 "de": "Der Park ist bei Frost besonders malerisch.",
                 "hu": "A park zúzmarás időben különösen festői látvány.",
                 "ro": "Parcul este extrem de pitoresc când e înghețat.",
-                "en": "The park looks like a winter wonderland in frosty weather."
+                "en": "The park looks like a winter wonderland in frosty weather.",
+                "fr": "Le parc ressemble à un paradis hivernal par temps de givre."
               }
             },
             {
@@ -552,7 +602,8 @@
                 "de": "Wärmen Sie sich in der gemütlichen Orangerie auf.",
                 "hu": "Melegedjen fel a hangulatos oranzsáriumban.",
                 "ro": "Încălziți-vă în oranjeria primitoare.",
-                "en": "Warm up in the cozy atmosphere of the historic orangery."
+                "en": "Warm up in the cozy atmosphere of the historic orangery.",
+                "fr": "Réchauffez-vous dans l'atmosphère chaleureuse de l'orangerie historique."
               }
             },
             {
@@ -561,7 +612,8 @@
                 "de": "Der Sonnenuntergang ist im Winter bereits gegen 17:00 Uhr.",
                 "hu": "A naplemente télen már 17:00 körül bekövetkezik.",
                 "ro": "Apusul are loc deja în jurul orei 17:00 iarna.",
-                "en": "Winter sunset occurs early, usually around 5:00 PM."
+                "en": "Winter sunset occurs early, usually around 5:00 PM.",
+                "fr": "Le coucher du soleil hivernal est précoce, généralement vers 17h00."
               }
             }
           ],
@@ -589,6 +641,12 @@
               "Note that museums often close an hour earlier in winter.",
               "Look for cafes with fireplaces for your lunch break.",
               "Holiday lights are best viewed right after the 5 PM sunset."
+            ],
+            "fr": [
+              "Habillez-vous en plusieurs couches pour contrer le vent froid du fleuve.",
+              "Notez que les musées ferment souvent une heure plus tôt en hiver.",
+              "Cherchez des cafés avec cheminée pour votre pause déjeuner.",
+              "Les illuminations de Noël sont plus belles juste après le coucher du soleil à 17h."
             ]
           }
         }
@@ -617,7 +675,8 @@
             "de": "Startpunkt für den Radweg 'Loire à Vélo'.",
             "hu": "A 'Loire à Vélo' kerékpárút kiindulópontja.",
             "ro": "Punct de plecare pentru traseul ciclist 'Loire à Vélo'.",
-            "en": "Starting point for the 'Loire à Vélo' bike path."
+            "en": "Starting point for the 'Loire à Vélo' bike path.",
+            "fr": "Point de départ pour l'itinéraire cyclable 'La Loire à Vélo'."
           }
         },
         {
@@ -635,7 +694,8 @@
             "de": "Genießen Sie den Panoramablick vom Gipfel der Pagode.",
             "hu": "Élvezze a panorámát a pagoda tetejéről.",
             "ro": "Bucurați-vă de panorama din vârful pagodei.",
-            "en": "Enjoy the panoramic view from the top of the pagoda."
+            "en": "Enjoy the panoramic view from the top of the pagoda.",
+            "fr": "Profitez de la vue panoramique depuis le sommet de la pagode."
           }
         },
         {
@@ -653,7 +713,8 @@
             "de": "Es gibt sichere Fahrradparkplätze am Eingang.",
             "hu": "Biztonságos kerékpártárolók vannak a bejáratnál.",
             "ro": "Există parcări sigure pentru biciclete la intrare.",
-            "en": "There are secure bike racks at the entrance."
+            "en": "There are secure bike racks at the entrance.",
+            "fr": "Des porte-vélos sécurisés sont disponibles à l'entrée."
           }
         },
         {
@@ -671,7 +732,8 @@
             "de": "Perfekter Ort für ein Picknick mit Blick auf das Schloss.",
             "hu": "Tökéletes hely egy piknikhez, kilátással a várra.",
             "ro": "Loc perfect pentru un picnic cu vedere la castel.",
-            "en": "Perfect spot for a picnic with a view of the castle."
+            "en": "Perfect spot for a picnic with a view of the castle.",
+            "fr": "Endroit parfait pour un pique-nique avec vue sur le château."
           }
         },
         {
@@ -689,7 +751,8 @@
             "de": "Verkosten Sie lokale Weine aus der Touraine.",
             "hu": "Kóstoljon helyi Touraine-i borokat.",
             "ro": "Degustați vinuri locale din regiunea Touraine.",
-            "en": "Taste local Touraine wines here."
+            "en": "Taste local Touraine wines here.",
+            "fr": "Dégustez ici les vins locaux de Touraine."
           }
         }
       ],
@@ -697,7 +760,8 @@
         "de": "Erkunden Sie Amboise auf zwei Rädern entlang der Loire. Radeln Sie zur Pagode de Chanteloup für eine tolle Aussicht und besuchen Sie dann Leonardos Residenz. Den Nachmittag verbringen Sie entspannt auf der Île d'Or, bevor Sie den Tag mit einer Weinverkostung abschließen.",
         "hu": "Fedezze fel Amboise-t két keréken a Loire mentén. Tekerjen el a Chanteloup pagodához a kilátásért, majd látogassa meg Leonardo rezidenciáját. A délutánt töltse pihenéssel az Île d'Or szigeten, mielőtt borkóstolóval zárná a napot.",
         "ro": "Explorați Amboise pe două roți de-a lungul Loarei. Pedalați până la Pagoda Chanteloup pentru priveliște, apoi vizitați reședința lui Leonardo. După-amiaza relaxați-vă pe insula Île d'Or, înainte de a încheia ziua cu o degustare de vinuri.",
-        "en": "Explore Amboise on two wheels along the Loire. Cycle to the Chanteloup Pagoda for views, then visit Leonardo's residence. Spend the afternoon relaxing on Île d'Or before ending the day with a wine tasting."
+        "en": "Explore Amboise on two wheels along the Loire. Cycle to the Chanteloup Pagoda for views, then visit Leonardo's residence. Spend the afternoon relaxing on Île d'Or before ending the day with a wine tasting.",
+        "fr": "Explorez Amboise sur deux roues le long de la Loire. Pédalez jusqu'à la Pagode de Chanteloup pour la vue, puis visitez la demeure de Léonard. Passez l'après-midi à vous détendre sur l'Île d'Or avant de terminer la journée par une dégustation de vin."
       },
       "gastro_picks": {
         "de": [
@@ -722,6 +786,12 @@
           {
             "name": "Caveau de la Maison",
             "tip": "Regional wines and cheese platters."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Caveau de la Maison",
+            "tip": "Vins régionaux et plateaux de fromages."
           }
         ]
       },
@@ -753,6 +823,13 @@
             "tip": "Vast grounds for relaxation.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Parc de Chanteloup",
+            "tip": "Vastes terrains propices à la détente.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -778,6 +855,12 @@
           {
             "name": "Velo Val de Loire",
             "tip": "Bike rental and accessories."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Velo Val de Loire",
+            "tip": "Location de vélos et accessoires."
           }
         ]
       },
@@ -805,6 +888,12 @@
           "Watch out for one-way streets in the old town.",
           "A bike lock is essential at tourist sites.",
           "The pagoda is a bit outside, allow time for the ride."
+        ],
+        "fr": [
+          "Utilisez le sentier plat de 'La Loire à Vélo'.",
+          "Attention aux rues à sens unique dans la vieille ville.",
+          "Un antivol est indispensable sur les sites touristiques.",
+          "La pagode est un peu excentrée, prévoyez du temps pour le trajet."
         ]
       },
       "variants": {
@@ -976,7 +1065,8 @@
             "de": "Ein feuchter Start am Quai du Mail; gute Regenkleidung ist Pflicht. Die Fahrt zur Pagode führt durch den Wald, der etwas Schutz bietet. Mittags trocknen Sie im Clos Lucé, bevor Sie zur Île d'Or radeln. Der Tag endet gemütlich bei einer Weinprobe im Chai de la Maison.",
             "hu": "Nedves kezdés a Quai du Mail-nél; a jó esőruha elengedhetetlen. A Pagodához vezető út erdőn át visz, ami ad némi védelmet. Délben a Clos Lucé-ben száradhat meg, majd irány az Île d'Or. A napot egy hangulatos borkóstoló zárja a Chai de la Maison-ban.",
             "ro": "Un început umed pe Quai du Mail; hainele de ploaie sunt obligatorii. Drumul spre Pagodă trece prin pădure, oferind puțin adăpost. La prânz vă uscați la Clos Lucé, apoi pedalați spre Île d'Or. Ziua se încheie cu o degustare de vinuri la Chai de la Maison.",
-            "en": "A damp start at Quai du Mail; waterproof gear is a must today. The ride to the Pagoda goes through woods, offering some natural cover. Noon is spent drying off at Clos Lucé before heading to Île d'Or. End the day with a cozy wine tasting at Chai de la Maison."
+            "en": "A damp start at Quai du Mail; waterproof gear is a must today. The ride to the Pagoda goes through woods, offering some natural cover. Noon is spent drying off at Clos Lucé before heading to Île d'Or. End the day with a cozy wine tasting at Chai de la Maison.",
+            "fr": "Un départ humide Quai du Mail ; un équipement imperméable est de mise aujourd'hui. Le trajet vers la Pagode traverse des bois, offrant un abri naturel. Le midi est consacré au séchage au Clos Lucé avant de se diriger vers l'Île d'Or. Terminez la journée par une dégustation de vin chaleureuse au Chai de la Maison."
           },
           "stops": [
             {
@@ -985,7 +1075,8 @@
                 "de": "Prüfen Sie Ihre Bremsen bei Nässe.",
                 "hu": "Ellenőrizze a fékeket a nedves úton.",
                 "ro": "Verificați frânele pe carosabil umed.",
-                "en": "Check your brakes before starting on wet pavement."
+                "en": "Check your brakes before starting on wet pavement.",
+                "fr": "Vérifiez vos freins avant de partir sur une chaussée mouillée."
               }
             },
             {
@@ -994,7 +1085,8 @@
                 "de": "Der Aufstieg zur Pagode ist bei Regen rutschig.",
                 "hu": "A Pagodához vezető lépcsők csúszósak lehetnek esőben.",
                 "ro": "Urcarea spre Pagodă poate fi alunecoasă pe ploaie.",
-                "en": "The steps to the Pagoda can be slippery when wet."
+                "en": "The steps to the Pagoda can be slippery when wet.",
+                "fr": "Les marches de la Pagode peuvent être glissantes lorsqu'elles sont mouillées."
               }
             },
             {
@@ -1003,7 +1095,8 @@
                 "de": "Nutzen Sie die überdachten Fahrradständer am Eingang.",
                 "hu": "Használja a bejáratnál lévő fedett biciklitárolókat.",
                 "ro": "Folosiți suporturile de biciclete acoperite de la intrare.",
-                "en": "Use the covered bike racks located near the entrance."
+                "en": "Use the covered bike racks located near the entrance.",
+                "fr": "Utilisez les porte-vélos couverts situés près de l'entrée."
               }
             },
             {
@@ -1012,7 +1105,8 @@
                 "de": "Meiden Sie Pfützen auf den unbefestigten Wegen.",
                 "hu": "Kerülje el a tócsákat a ki nem épített ösvényeken.",
                 "ro": "Evitați bălțile de pe potecile neamenajate.",
-                "en": "Watch out for large puddles on the unpaved paths."
+                "en": "Watch out for large puddles on the unpaved paths.",
+                "fr": "Attention aux grandes flaques d'eau sur les chemins non goudronnés."
               }
             },
             {
@@ -1021,7 +1115,8 @@
                 "de": "Stellen Sie Ihr Rad im Innenhof unter.",
                 "hu": "Parkolja le a biciklit a belső udvar védett részén.",
                 "ro": "Parcați bicicleta în zona protejată a curții interioare.",
-                "en": "Park your bike in the sheltered area of the courtyard."
+                "en": "Park your bike in the sheltered area of the courtyard.",
+                "fr": "Garez votre vélo dans la zone abritée de la cour."
               }
             }
           ],
@@ -1049,6 +1144,12 @@
               "Make sure your bike has fenders to avoid mud splashes.",
               "Forest paths can be quite muddy after heavy rainfall.",
               "Choose less busy roads if visibility is reduced by rain."
+            ],
+            "fr": [
+              "Faites attention aux feuilles mouillées sur la piste 'La Loire à Vélo'.",
+              "Assurez-vous que votre vélo a des garde-boue pour éviter les éclaboussures.",
+              "Les sentiers forestiers peuvent être assez boueux après de fortes pluies.",
+              "Choisissez des routes moins fréquentées si la visibilité est réduite par la pluie."
             ]
           }
         },
@@ -1057,7 +1158,8 @@
             "de": "Ein frostiger Morgen am Quai; Handschuhe sind beim Radfahren unerlässlich. Die klare Luft bietet eine weite Sicht von der Pagode aus. Mittags wärmen Sie sich im Clos Lucé auf, bevor Sie die winterliche Stille der Île d'Or genießen. Der Tag endet mit einem wärmenden Glas Wein im Chai.",
             "hu": "Deres reggel a rakparton; a kesztyű elengedhetetlen a biciklizéshez. A tiszta levegő messzi kilátást enged a Pagodától. Délben melegedjen fel a Clos Lucé-ben, majd élvezze az Île d'Or téli csendjét. A napot egy melengető pohár borral zárja a Chai-ban.",
             "ro": "O dimineață geroasă pe chei; mănușile sunt indispensabile pentru ciclism. Aerul curat oferă o vizibilitate mare de la Pagodă. La prânz vă încălziți la Clos Lucé, apoi vă bucurați de liniștea hibernală de pe Île d'Or. Ziua se încheie cu un pahar de vin reconfortant.",
-            "en": "A freezing morning on the quay; gloves are mandatory for cycling. The crisp air offers great visibility from the Pagoda. Warm up at Clos Lucé at noon before enjoying the winter silence of Île d'Or. End your ride with a warming glass of wine at the Chai."
+            "en": "A freezing morning on the quay; gloves are mandatory for cycling. The crisp air offers great visibility from the Pagoda. Warm up at Clos Lucé at noon before enjoying the winter silence of Île d'Or. End your ride with a warming glass of wine at the Chai.",
+            "fr": "Une matinée glaciale sur le quai ; les gants sont obligatoires pour pédaler. L'air vif offre une excellente visibilité depuis la Pagode. Réchauffez-vous au Clos Lucé à midi avant de profiter du silence hivernal de l'Île d'Or. Terminez votre balade avec un verre de vin réconfortant au Chai."
           },
           "stops": [
             {
@@ -1066,7 +1168,8 @@
                 "de": "Vorsicht vor überfrorener Nässe auf der Straße.",
                 "hu": "Vigyázzon az úttesten előforduló lefagyásokra.",
                 "ro": "Atenție la porțiunile înghețate de pe șosea.",
-                "en": "Watch out for patches of black ice on the road."
+                "en": "Watch out for patches of black ice on the road.",
+                "fr": "Attention aux plaques de verglas sur la route."
               }
             },
             {
@@ -1075,7 +1178,8 @@
                 "de": "Die Aussicht ist bei Frost besonders klar.",
                 "hu": "A kilátás tiszta, fagyos időben a legszebb.",
                 "ro": "Priveliștea este extrem de clară pe timp de ger.",
-                "en": "The panoramic view is exceptionally clear in cold weather."
+                "en": "The panoramic view is exceptionally clear in cold weather.",
+                "fr": "La vue panoramique est exceptionnellement claire par temps froid."
               }
             },
             {
@@ -1084,7 +1188,8 @@
                 "de": "Der Parkteich ist im Winter oft zugefroren.",
                 "hu": "A park tava télen gyakran be van fagyva.",
                 "ro": "Iazul din parc este adesea înghețat iarna.",
-                "en": "The park pond is often frozen over during winter months."
+                "en": "The park pond is often frozen over during winter months.",
+                "fr": "L'étang du parc est souvent gelé pendant les mois d'hiver."
               }
             },
             {
@@ -1093,7 +1198,8 @@
                 "de": "Genießen Sie die Ruhe ohne die Sommermassen.",
                 "hu": "Élvezze a csendet a nyári tömeg nélkül.",
                 "ro": "Bucurați-vă de liniște fără mulțimile de vară.",
-                "en": "Enjoy the peaceful atmosphere without the summer crowds."
+                "en": "Enjoy the peaceful atmosphere without the summer crowds.",
+                "fr": "Profitez de l'atmosphère paisible sans les foules estivales."
               }
             },
             {
@@ -1102,7 +1208,8 @@
                 "de": "Fragen Sie nach einem Glas Glühwein.",
                 "hu": "Kérdezzen rá, hogy van-e forralt boruk.",
                 "ro": "Întrebați dacă servesc vin fiert.",
-                "en": "Ask if they have any mulled wine available to warm up."
+                "en": "Ask if they have any mulled wine available to warm up.",
+                "fr": "Demandez s'ils proposent du vin chaud pour vous réchauffer."
               }
             }
           ],
@@ -1130,6 +1237,12 @@
               "Days are short; ensure your bike lights are working properly.",
               "Take frequent breaks to keep your circulation going.",
               "Avoid shaded forest paths where frost stays longer."
+            ],
+            "fr": [
+              "Portez des vêtements coupe-vent, surtout à proximité du fleuve.",
+              "Les journées sont courtes ; assurez-vous que vos lumières fonctionnent bien.",
+              "Faites des pauses fréquentes pour maintenir votre circulation.",
+              "Évitez les sentiers forestiers ombragés où le givre persiste plus longtemps."
             ]
           }
         }
@@ -1158,7 +1271,8 @@
             "de": "Zentraler Parkplatz, ideal für den Schlosspark.",
             "hu": "Központi parkoló, ideális a vár meglátogatásához.",
             "ro": "Parcare centrală, ideală pentru vizitarea castelului.",
-            "en": "Central parking, ideal for visiting the castle."
+            "en": "Central parking, ideal for visiting the castle.",
+            "fr": "Parking central, idéal pour visiter le château."
           }
         },
         {
@@ -1176,7 +1290,8 @@
             "de": "Genießen Sie den Blick auf die Loire von den Terrassen.",
             "hu": "Élvezze a kilátást a Loire-ra a teraszokról.",
             "ro": "Bucurați-vă de vederea spre Loara de pe terase.",
-            "en": "Enjoy the view of the Loire from the terraces."
+            "en": "Enjoy the view of the Loire from the terraces.",
+            "fr": "Profitez de la vue sur la Loire depuis les terrasses."
           }
         },
         {
@@ -1194,7 +1309,8 @@
             "de": "Das Schloss über dem Fluss Cher ist nur 20 Min. entfernt.",
             "hu": "A Cher folyó feletti kastély csak 20 percre van.",
             "ro": "Castelul de peste râul Cher este la doar 20 de minute.",
-            "en": "The castle over the Cher river is only 20 mins away."
+            "en": "The castle over the Cher river is only 20 mins away.",
+            "fr": "Le château sur le Cher n'est qu'à 20 minutes."
           }
         },
         {
@@ -1212,7 +1328,8 @@
             "de": "Alle Loire-Schlösser in Miniaturform an einem Ort.",
             "hu": "Az összes Loire-menti kastély miniatűrben egy helyen.",
             "ro": "Toate castelele de pe Loara în miniatură într-un singur loc.",
-            "en": "All Loire castles in miniature form in one place."
+            "en": "All Loire castles in miniature form in one place.",
+            "fr": "Tous les châteaux de la Loire en miniature en un seul lieu."
           }
         },
         {
@@ -1230,7 +1347,8 @@
             "de": "Besichtigen Sie die in den Fels gehauenen Weinkeller.",
             "hu": "Látogassa meg a sziklába vájt borospincéket.",
             "ro": "Vizitați cramele săpate în stâncă.",
-            "en": "Visit the wine cellars carved into the rock."
+            "en": "Visit the wine cellars carved into the rock.",
+            "fr": "Visitez les caves à vin creusées dans le rocher."
           }
         }
       ],
@@ -1238,7 +1356,8 @@
         "de": "Mit dem Auto verbinden Sie Amboise mit dem berühmten Chenonceau. Beginnen Sie in Amboise, fahren Sie dann zum prächtigen Wasserschloss Chenonceau. Am Nachmittag erleben Sie das Tal im Miniaturpark und beenden die Tour mit einer Kellerbesichtigung bei Ambacia.",
         "hu": "Autóval Amboise-t a híres Chenonceau-val is összekötheti. Kezdjen Amboise-ban, majd hajtson át a pompás vízi kastélyhoz, Chenonceau-hoz. Délután nézze meg a völgyet a miniatűr parkban, majd zárja a túrát az Ambacia pincerendszerében.",
         "ro": "Cu mașina puteți combina Amboise cu celebrul Chenonceau. Începeți în Amboise, apoi conduceți până la splendidul castel pe apă Chenonceau. După-amiaza vedeți valea în parcul miniaturilor și încheiați turul cu o vizită la cramele Ambacia.",
-        "en": "By car, combine Amboise with the famous Chenonceau. Start in Amboise, then drive to the magnificent water castle Chenonceau. In the afternoon, see the valley in the miniature park and end the tour with a cellar visit at Ambacia."
+        "en": "By car, combine Amboise with the famous Chenonceau. Start in Amboise, then drive to the magnificent water castle Chenonceau. In the afternoon, see the valley in the miniature park and end the tour with a cellar visit at Ambacia.",
+        "fr": "En voiture, combinez Amboise avec le célèbre Chenonceau. Commencez à Amboise, puis roulez jusqu'au magnifique château sur l'eau de Chenonceau. L'après-midi, découvrez la vallée au parc des miniatures et terminez la visite par une cave à Ambacia."
       },
       "gastro_picks": {
         "de": [
@@ -1263,6 +1382,12 @@
           {
             "name": "L'Orangerie",
             "tip": "Fine dining in the Chenonceau castle park."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Orangerie",
+            "tip": "Cuisine raffinée dans le parc du château de Chenonceau."
           }
         ]
       },
@@ -1294,6 +1419,13 @@
             "tip": "Quiet walking paths away from the crowds.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardins Royaux",
+            "tip": "Sentiers de promenade calmes loin des foules.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1319,6 +1451,12 @@
           {
             "name": "Maison de la Presse",
             "tip": "Local guidebooks and postcards."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Guides locaux et cartes postales."
           }
         ]
       },
@@ -1346,6 +1484,12 @@
           "The road to Chenonceau is very scenic.",
           "Avoid peak hours at the castles.",
           "It is always cool in the cave cellars (troglo), bring a jacket."
+        ],
+        "fr": [
+          "Garez-vous au Quai à Amboise, c'est souvent gratuit.",
+          "La route vers Chenonceau est très pittoresque.",
+          "Évitez les heures de pointe aux châteaux.",
+          "Il fait toujours frais dans les caves troglodytiques, apportez une veste."
         ]
       },
       "variants": {
@@ -1517,7 +1661,8 @@
             "de": "Ein regnerischer Tag im Loiretal lässt sich am besten im Auto bewältigen. Nach dem Schlossbesuch fahren Sie zum majestätischen Chenonceau, das über dem Fluss thront und perfekten Schutz bietet. Die Mini-Châteaux besuchen Sie zügig, bevor Sie den Tag in den Höhlen von Ambacia trocken ausklingen lassen.",
             "hu": "Az esős Loire-völgyet a legjobb autóval bejárni. A királyi vár után irány a fenséges Chenonceau, amely a folyó felett átívelve remek búvóhely. A Mini-Châteaux parkot érdemes gyorsan bejárni, majd a napot az Ambacia barlangjaiban, szárazon zárni.",
             "ro": "O zi ploioasă în Valea Loarei este cel mai bine gestionată cu mașina. După castel, mergeți la maiestuosul Chenonceau, care oferă adăpost perfect peste râu. Vizitați rapid Mini-Châteaux înainte de a încheia ziua la adăpost, în peșterile Ambacia.",
-            "en": "A rainy day in the Loire Valley is best managed by car. After visiting the castle, drive to the majestic Chenonceau, which spans the river and offers great cover. Visit Mini-Châteaux quickly, then end your day dry inside the Ambacia caves."
+            "en": "A rainy day in the Loire Valley is best managed by car. After visiting the castle, drive to the majestic Chenonceau, which spans the river and offers great cover. Visit Mini-Châteaux quickly, then end your day dry inside the Ambacia caves.",
+            "fr": "Une journée pluvieuse dans la vallée de la Loire se gère mieux en voiture. Après avoir visité le château, roulez vers le majestueux Chenonceau qui enjambe la rivière et offre un bon abri. Visitez rapidement les Mini-Châteaux, puis terminez votre journée au sec dans les caves d'Ambacia."
           },
           "stops": [
             {
@@ -1526,7 +1671,8 @@
                 "de": "Parken Sie nah am Aufgang zum Schloss.",
                 "hu": "Parkoljon a lehető legközelebb a vár feljáratához.",
                 "ro": "Parcați cât mai aproape de intrarea în castel.",
-                "en": "Park as close to the castle entrance as possible."
+                "en": "Park as close to the castle entrance as possible.",
+                "fr": "Garez-vous aussi près que possible de l'entrée du château."
               }
             },
             {
@@ -1535,7 +1681,8 @@
                 "de": "Nutzen Sie den überdachten Gang zum Turm.",
                 "hu": "Használja a toronyhoz vezető fedett folyosót.",
                 "ro": "Folosiți culoarul acoperit spre turn.",
-                "en": "Use the covered ramp leading up to the tower."
+                "en": "Use the covered ramp leading up to the tower.",
+                "fr": "Utilisez la rampe couverte menant à la tour."
               }
             },
             {
@@ -1544,7 +1691,8 @@
                 "de": "Die Galerie über dem Cher ist ideal bei Regen.",
                 "hu": "A Cher folyó feletti galéria ideális esőben.",
                 "ro": "Galeria de peste râul Cher este ideală pe ploaie.",
-                "en": "The grand gallery over the Cher river is perfect for rain."
+                "en": "The grand gallery over the Cher river is perfect for rain.",
+                "fr": "La grande galerie sur le Cher est parfaite en cas de pluie."
               }
             },
             {
@@ -1553,7 +1701,8 @@
                 "de": "Leihen Sie sich am Eingang einen Regenschirm.",
                 "hu": "Kérjen kölcsön esernyőt a bejáratnál.",
                 "ro": "Împrumutați o umbrelă de la intrare.",
-                "en": "Borrow an umbrella at the entrance for the outdoor walk."
+                "en": "Borrow an umbrella at the entrance for the outdoor walk.",
+                "fr": "Empruntez un parapluie à l'entrée pour la promenade extérieure."
               }
             },
             {
@@ -1562,7 +1711,8 @@
                 "de": "In den Höhlen bleiben Sie garantiert trocken.",
                 "hu": "A barlangokban garantáltan szárazon marad.",
                 "ro": "În peșteri veți rămâne garantat la adăpost.",
-                "en": "You are guaranteed to stay dry inside the limestone caves."
+                "en": "You are guaranteed to stay dry inside the limestone caves.",
+                "fr": "Vous êtes assuré de rester au sec à l'intérieur des caves de calcaire."
               }
             }
           ],
@@ -1590,6 +1740,12 @@
               "Chenonceau has a large parking lot with trees for some cover.",
               "The limestone caves at Ambacia provide natural rain shelter.",
               "Utilize the parking garages in Amboise city center."
+            ],
+            "fr": [
+              "Attention à l'aquaplaning sur les routes de campagne.",
+              "Chenonceau dispose d'un grand parking avec des arbres pour s'abriter.",
+              "Les caves de calcaire d'Ambacia offrent un abri naturel contre la pluie.",
+              "Utilisez les parkings couverts du centre-ville d'Amboise."
             ]
           }
         },
@@ -1598,7 +1754,8 @@
             "de": "Eine winterliche Tour durch das Loiretal beginnt bequem im beheizten Auto. Das Schloss Amboise glänzt im Frost, gefolgt vom weihnachtlichen Chenonceau. Mittags bestaunen Sie die Mini-Châteaux im Winterschlaf, bevor Sie sich bei einer Weinprobe in den Caves Ambacia aufwärmen. Die Rückfahrt bietet Blicke auf den dunklen Cher.",
             "hu": "A téli Loire-völgyi túra kényelmesen, a fűtött autóban kezdődik. Az amboise-i vár a fagyban ragyog, majd következik a karácsonyi Chenonceau. Délben nézze meg a téli álmot alvó Mini-Châteaux-t, mielőtt felmelegedne az Ambacia barlangjaiban. A visszaút a sötét Cher folyóra enged kilátást.",
             "ro": "Un tur hibernal în Valea Loarei începe confortabil în mașina încălzită. Castelul Amboise strălucește în ger, urmat de Chenonceau decorat de Crăciun. La prânz vedeți Mini-Châteaux în haine de iarnă, apoi vă încălziți la Ambacia. Drumul de întoarcere oferă priveliști spre râul Cher.",
-            "en": "A winter tour of the Loire Valley begins in the comfort of a heated car. Amboise castle sparkles in the frost, followed by a festive Chenonceau. See the Mini-Châteaux in their winter sleep at noon, then warm up with a wine tasting at Caves Ambacia. The drive back offers views of the dark Cher."
+            "en": "A winter tour of the Loire Valley begins in the comfort of a heated car. Amboise castle sparkles in the frost, followed by a festive Chenonceau. See the Mini-Châteaux in their winter sleep at noon, then warm up with a wine tasting at Caves Ambacia. The drive back offers views of the dark Cher.",
+            "fr": "Un tour hivernal de la vallée de la Loire commence dans le confort d'une voiture chauffée. Le château d'Amboise scintille sous le givre, suivi d'un Chenonceau festif. Découvrez les Mini-Châteaux dans leur sommeil hivernal à midi, puis réchauffez-vous avec une dégustation de vin aux Caves Ambacia. Le trajet du retour offre des vues sur le Cher sombre."
           },
           "stops": [
             {
@@ -1607,7 +1764,8 @@
                 "de": "Lassen Sie keine Wertsachen im kalten Auto.",
                 "hu": "Ne hagyjon értéket a lehűlő autóban.",
                 "ro": "Nu lăsați obiecte de valoare în mașina rece.",
-                "en": "Don't leave valuables in the car as it cools down."
+                "en": "Don't leave valuables in the car as it cools down.",
+                "fr": "Ne laissez pas d'objets de valeur dans la voiture car elle refroidit vite."
               }
             },
             {
@@ -1616,7 +1774,8 @@
                 "de": "Die Aussichtsterrassen können bei Frost glatt sein.",
                 "hu": "A kilátóteraszok csúszósak lehetnek a fagy miatt.",
                 "ro": "Terasele panoramice pot fi alunecoase din cauza gerului.",
-                "en": "Panoramic terraces can be slippery due to frost."
+                "en": "Panoramic terraces can be slippery due to frost.",
+                "fr": "Les terrasses panoramiques peuvent être glissantes à cause du givre."
               }
             },
             {
@@ -1625,7 +1784,8 @@
                 "de": "Besuchen Sie die prächtige Floristikwerkstatt.",
                 "hu": "Nézze meg a kastély híres virágműhelyét.",
                 "ro": "Vizitați atelierul floral renumit al castelului.",
-                "en": "Visit the famous castle floral workshop for winter arrangements."
+                "en": "Visit the famous castle floral workshop for winter arrangements.",
+                "fr": "Visitez l'atelier floral du château pour les compositions d'hiver."
               }
             },
             {
@@ -1634,7 +1794,8 @@
                 "de": "Prüfen Sie die kürzeren Winteröffnungszeiten.",
                 "hu": "Ellenőrizze a rövidebb téli nyitvatartást.",
                 "ro": "Verificați programul mai scurt de funcționare iarna.",
-                "en": "Double-check the shorter winter opening hours."
+                "en": "Double-check the shorter winter opening hours.",
+                "fr": "Vérifiez bien les horaires d'ouverture hivernaux plus courts."
               }
             },
             {
@@ -1643,7 +1804,8 @@
                 "de": "Die Höhlentemperatur ist das ganze Jahr über konstant.",
                 "hu": "A barlang hőmérséklete egész évben állandó.",
                 "ro": "Temperatura în peșteri este constantă tot anul.",
-                "en": "Cave temperatures remain constant and mild all year."
+                "en": "Cave temperatures remain constant and mild all year.",
+                "fr": "Les températures des caves restent constantes et douces toute l'année."
               }
             }
           ],
@@ -1671,6 +1833,12 @@
               "Chenonceau is world-famous for its Christmas decorations.",
               "The Ambacia caves offer a cozy and warm atmosphere.",
               "Many wineries offer special indoor tastings in winter."
+            ],
+            "fr": [
+              "Conduisez prudemment s'il y a du verglas le matin.",
+              "Chenonceau est mondialement connu pour ses décorations de Noël.",
+              "Les caves Ambacia offrent une atmosphère chaleureuse et accueillante.",
+              "De nombreux domaines viticoles proposent des dégustations spéciales en intérieur l'hiver."
             ]
           }
         }
@@ -1699,7 +1867,8 @@
             "de": "Ankunft mit dem Zug aus Tours oder Paris.",
             "hu": "Érkezés vonattal Tours vagy Párizs felől.",
             "ro": "Sosirea cu trenul dinspre Tours sau Paris.",
-            "en": "Arrival by train from Tours or Paris."
+            "en": "Arrival by train from Tours or Paris.",
+            "fr": "Arrivée en train depuis Tours ou Paris."
           }
         },
         {
@@ -1717,7 +1886,8 @@
             "de": "Bester Fotospot für die Stadtsilhouette.",
             "hu": "A legjobb fotópont a város sziluettjéhez.",
             "ro": "Cel mai bun loc pentru poze cu silueta orașului.",
-            "en": "Best photo spot for the city skyline."
+            "en": "Best photo spot for the city skyline.",
+            "fr": "Meilleur spot photo pour la silhouette de la ville."
           }
         },
         {
@@ -1735,7 +1905,8 @@
             "de": "Vom Schlossberg haben Sie alles im Blick.",
             "hu": "A várhegyről mindent belátni.",
             "ro": "De pe dealul castelului aveți o vedere de ansamblu.",
-            "en": "You have a great view from the castle hill."
+            "en": "You have a great view from the castle hill.",
+            "fr": "Vous avez une vue magnifique depuis la colline du château."
           }
         },
         {
@@ -1753,7 +1924,8 @@
             "de": "Nur 15 Min. Fußweg vom Schloss entfernt.",
             "hu": "Csak 15 perc séta a vártól.",
             "ro": "La doar 15 minute de mers pe jos de castel.",
-            "en": "Only a 15 min walk from the castle."
+            "en": "Only a 15 min walk from the castle.",
+            "fr": "À seulement 15 minutes de marche du château."
           }
         },
         {
@@ -1771,7 +1943,8 @@
             "de": "Busse halten direkt im Zentrum.",
             "hu": "A buszok közvetlenül a központban állnak meg.",
             "ro": "Autobuzele opresc chiar în centru.",
-            "en": "Buses stop right in the center."
+            "en": "Buses stop right in the center.",
+            "fr": "Les bus s'arrêtent en plein centre."
           }
         }
       ],
@@ -1779,7 +1952,8 @@
         "de": "Nutzen Sie den Zug und lokale Busse für einen stressfreien Tag. Starten Sie am Bahnhof und überqueren Sie die Brücke für das beste Foto. Besuchen Sie das Schloss und das Clos Lucé bequem zu Fuß. Beenden Sie den Tag im Stadtzentrum, bevor Sie zurück zum Bahnhof fahren.",
         "hu": "Használja a vonatot és a helyi buszokat a stresszmentes naphoz. Kezdjen az állomáson, majd menjen át a hídon a legjobb fotóért. Látogassa meg a várat és a Clos Lucé-t kényelmesen gyalog. Zárja a napot a belvárosban, mielőtt visszatérne az állomásra.",
         "ro": "Folosiți trenul și autobuzele locale pentru o zi fără stres. Începeți la gară și traversați podul pentru cea mai bună poză. Vizitați castelul și Clos Lucé confortabil pe jos. Încheiați ziua în centrul orașului înainte de a vă întoarce la gară.",
-        "en": "Use the train and local buses for a stress-free day. Start at the station and cross the bridge for the best photo. Visit the castle and Clos Lucé comfortably on foot. End the day in the city center before returning to the station."
+        "en": "Use the train and local buses for a stress-free day. Start at the station and cross the bridge for the best photo. Visit the castle and Clos Lucé comfortably on foot. End the day in the city center before returning to the station.",
+        "fr": "Utilisez le train et les bus locaux pour une journée sans stress. Commencez à la gare et traversez le pont pour la meilleure photo. Visitez le château et le Clos Lucé confortablement à pied. Terminez la journée au centre-ville avant de retourner à la gare."
       },
       "gastro_picks": {
         "de": [
@@ -1804,6 +1978,12 @@
           {
             "name": "Crêperie Anne de Bretagne",
             "tip": "Cheap and delicious crepes in the center."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Crêperie Anne de Bretagne",
+            "tip": "Crêpes délicieuses et abordables au centre."
           }
         ]
       },
@@ -1835,6 +2015,13 @@
             "tip": "Quiet place for reflection.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Chapelle Saint Hubert",
+            "tip": "Lieu calme propice au recueillement.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1860,6 +2047,12 @@
           {
             "name": "Caveau des Producteurs",
             "tip": "Direct sale of regional wines."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Caveau des Producteurs",
+            "tip": "Vente directe de vins régionaux."
           }
         ]
       },
@@ -1887,6 +2080,12 @@
           "Check the schedules for 'Remi' buses.",
           "Most routes in Amboise are shorter on foot than by bus.",
           "Buy your ticket on the train or at station machines."
+        ],
+        "fr": [
+          "La gare se trouve de l'autre côté de la Loire.",
+          "Consultez les horaires des bus 'Rémi'.",
+          "La plupart des trajets à Amboise sont plus courts à pied qu'en bus.",
+          "Achetez votre billet dans le train ou aux automates de la gare."
         ]
       },
       "variants": {
@@ -2058,7 +2257,8 @@
             "de": "Ein regnerischer Start am Bahnhof von Amboise; die Busverbindungen sind bei Nässe eine gute Alternative. Das Schloss und das Clos Lucé bieten Schutz vor den Schauern. Mittags genießen Sie die französische Küche im trockenen Stadtzentrum. Der Tag endet mit der Rückfahrt im warmen Zug.",
             "hu": "Esős kezdés az amboise-i vasútállomáson; a buszjáratok jó alternatívát jelentenek. A várkastély és a Clos Lucé védelmet nyújt a záporok elől. Délben élvezze a francia konyhát a száraz belvárosi éttermekben. A napot a meleg vonaton ülve zárhatja.",
             "ro": "Un început ploios la gara din Amboise; autobuzele sunt o alternativă bună pe ploaie. Castelul și Clos Lucé oferă adăpost împotriva averselor. La prânz savurați bucătăria franceză în centrul orașului. Ziua se încheie cu drumul spre gară în trenul încălzit.",
-            "en": "A rainy start at Amboise station; local buses are a great alternative to walking. The castle and Clos Lucé provide excellent cover during showers. Enjoy French cuisine in dry city center bistros at noon. The day ends with a warm train ride back."
+            "en": "A rainy start at Amboise station; local buses are a great alternative to walking. The castle and Clos Lucé provide excellent cover during showers. Enjoy French cuisine in dry city center bistros at noon. The day ends with a warm train ride back.",
+            "fr": "Un départ pluvieux à la gare d'Amboise ; les bus locaux sont une excellente alternative à la marche. Le château et le Clos Lucé offrent un excellent abri pendant les averses. Savourez la cuisine française dans les bistrots du centre-ville au sec à midi. La journée se termine par un trajet en train chauffé pour le retour."
           },
           "stops": [
             {
@@ -2067,7 +2267,8 @@
                 "de": "Warten Sie in der Bahnhofshalle auf den Bus.",
                 "hu": "Várja meg a buszt az állomás várótermében.",
                 "ro": "Așteptați autobuzul în sala de așteptare a gării.",
-                "en": "Wait for the bus inside the station waiting room."
+                "en": "Wait for the bus inside the station waiting room.",
+                "fr": "Attendez le bus à l'intérieur de la salle d'attente de la gare."
               }
             },
             {
@@ -2076,7 +2277,8 @@
                 "de": "Nutzen Sie den überdachten Wartebereich an der Haltestelle.",
                 "hu": "Használja a buszmegálló fedett váróját.",
                 "ro": "Folosiți zona de așteptare acoperită din stație.",
-                "en": "Use the sheltered waiting area at the bus stop."
+                "en": "Use the sheltered waiting area at the bus stop.",
+                "fr": "Utilisez la zone d'attente abritée à l'arrêt de bus."
               }
             },
             {
@@ -2085,7 +2287,8 @@
                 "de": "Der Shop am Eingang bietet Regenponchos an.",
                 "hu": "A bejárati boltban vehet esőponcsót.",
                 "ro": "Magazinul de la intrare vinde pelerine de ploaie.",
-                "en": "The entrance shop sells emergency rain ponchos."
+                "en": "The entrance shop sells emergency rain ponchos.",
+                "fr": "La boutique à l'entrée vend des ponchos de pluie d'urgence."
               }
             },
             {
@@ -2094,7 +2297,8 @@
                 "de": "Die Café-Terrasse ist teilweise überdacht.",
                 "hu": "A kávézó terasza részben fedett.",
                 "ro": "Terasa cafenelei este parțial acoperită.",
-                "en": "The cafe terrace is partially covered for outdoor seating."
+                "en": "The cafe terrace is partially covered for outdoor seating.",
+                "fr": "La terrasse du café est partiellement couverte pour s'asseoir dehors."
               }
             },
             {
@@ -2103,7 +2307,8 @@
                 "de": "Viele Restaurants haben gemütliche Innenräume.",
                 "hu": "Sok étteremnek van hangulatos belső tere.",
                 "ro": "Multe restaurante au spații interioare primitoare.",
-                "en": "Many restaurants feature cozy indoor seating areas."
+                "en": "Many restaurants feature cozy indoor seating areas.",
+                "fr": "De nombreux restaurants disposent de salles intérieures confortables."
               }
             }
           ],
@@ -2131,6 +2336,12 @@
               "Check the schedule to minimize waiting time in the rain.",
               "Buy your tickets in advance using the mobile app.",
               "The walk from the station to the center is long in the rain."
+            ],
+            "fr": [
+              "La navette 'Le Fil bleu' relie les principaux sites touristiques.",
+              "Consultez les horaires pour minimiser l'attente sous la pluie.",
+              "Achetez vos billets à l'avance via l'application mobile.",
+              "La marche de la gare au centre est longue sous la pluie."
             ]
           }
         },
@@ -2139,7 +2350,8 @@
             "de": "Ein frostiger Start am Bahnhof; der kurze Fußweg ins Zentrum belebt die Geister. Das weihnachtlich geschmückte Schloss Amboise ist ein Winter-Highlight. Mittags wärmen Sie sich bei regionalen Spezialitäten im Zentrum auf, bevor Sie das winterliche Clos Lucé besuchen. Der Abend endet am beleuchteten Flussufer.",
             "hu": "Deres reggel az állomáson; a rövid séta a központba felfrissíti a szellemet. A karácsonyi díszbe öltözött amboise-i vár téli fénypont. Délben melegedjen fel helyi ételekkel a belvárosban, majd látogasson el a téli Clos Lucé-be. Az este a kivilágított folyóparton ér véget.",
             "ro": "O dimineață geroasă la gară; scurta plimbare spre centru vă va înviora. Castelul Amboise decorat festiv este punctul culminant al iernii. La prânz încălziți-vă cu specialități locale, apoi vizitați Clos Lucé. Seara se încheie pe malul iluminat al râului.",
-            "en": "A freezing start at the station; the short walk to the center is refreshing. The festively decorated Amboise castle is a winter highlight. Warm up with local specialties in the center at noon before visiting winter Clos Lucé. The evening ends by the lit-up riverbank."
+            "en": "A freezing start at the station; the short walk to the center is refreshing. The festively decorated Amboise castle is a winter highlight. Warm up with local specialties in the center at noon before visiting winter Clos Lucé. The evening ends by the lit-up riverbank.",
+            "fr": "Un départ glacial à la gare ; la courte marche vers le centre est rafraîchissante. Le château d'Amboise, décoré pour les fêtes, est un moment fort de l'hiver. Réchauffez-vous avec des spécialités locales au centre à midi avant de visiter le Clos Lucé hivernal. La soirée se termine sur les bords du fleuve illuminé."
           },
           "stops": [
             {
@@ -2148,7 +2360,8 @@
                 "de": "Nehmen Sie einen Bus, wenn es zu kalt zum Laufen ist.",
                 "hu": "Szálljon buszra, ha túl hideg van a gyalogláshoz.",
                 "ro": "Luați un autobuz dacă este prea frig pentru mers pe jos.",
-                "en": "Take a bus if it's too cold for the walk to the center."
+                "en": "Take a bus if it's too cold for the walk to the center.",
+                "fr": "Prenez un bus s'il fait trop froid pour marcher jusqu'au centre."
               }
             },
             {
@@ -2157,7 +2370,8 @@
                 "de": "Genießen Sie den Blick auf das vereiste Ufer.",
                 "hu": "Élvezze a kilátást a jeges folyópartra.",
                 "ro": "Bucurați-vă de priveliștea malului înghețat.",
-                "en": "Enjoy the view of the icy riverbanks from the bridge."
+                "en": "Enjoy the view of the icy riverbanks from the bridge.",
+                "fr": "Admirez la vue sur les rives glacées depuis le pont."
               }
             },
             {
@@ -2166,7 +2380,8 @@
                 "de": "Die Innenräume sind angenehm beheizt.",
                 "hu": "A belső termek kellemesen fűtöttek.",
                 "ro": "Sălile interioare sunt încălzite plăcut.",
-                "en": "The interior rooms are comfortably heated for visitors."
+                "en": "The interior rooms are comfortably heated for visitors.",
+                "fr": "Les salles intérieures sont confortablement chauffées pour les visiteurs."
               }
             },
             {
@@ -2175,7 +2390,8 @@
                 "de": "Besuchen Sie den Shop für weihnachtliche Geschenke.",
                 "hu": "Nézzen szét az ajándékboltban karácsonyi meglepetésekért.",
                 "ro": "Vizitați magazinul pentru cadouri de Crăciun.",
-                "en": "Visit the gift shop for unique Renaissance-themed gifts."
+                "en": "Visit the gift shop for unique Renaissance-themed gifts.",
+                "fr": "Visitez la boutique pour des cadeaux uniques sur le thème de la Renaissance."
               }
             },
             {
@@ -2184,7 +2400,8 @@
                 "de": "Probieren Sie den lokalen 'Vin Chaud' (Glühwein).",
                 "hu": "Kóstolja meg a helyi forralt bort (Vin Chaud).",
                 "ro": "Gustați vinul fiert local (Vin Chaud).",
-                "en": "Try some local 'Vin Chaud' (mulled wine) in the square."
+                "en": "Try some local 'Vin Chaud' (mulled wine) in the square.",
+                "fr": "Goûtez du vin chaud local sur la place."
               }
             }
           ],
@@ -2212,6 +2429,12 @@
               "Waiting times at the station can feel long in the cold.",
               "Many city center cafes offer special winter tea menus.",
               "Use the 'Fil bleu' app for real-time bus tracking."
+            ],
+            "fr": [
+              "Les trains entre Tours et Amboise sont bien chauffés.",
+              "L'attente à la gare peut paraître longue par grand froid.",
+              "De nombreux cafés du centre proposent des cartes de thés d'hiver.",
+              "Utilisez l'application 'Fil bleu' pour suivre les bus en temps réel."
             ]
           }
         }

@@ -42,7 +42,8 @@
             "de": "Schlendern Sie durch die engen Steingassen mit Blick auf die Bucht.",
             "hu": "Sétáljon végig a szűk kőutcákon, csodás kilátással az öbölre.",
             "ro": "Plimbați-vă pe străduțele înguste de piatră cu vedere la golf.",
-            "en": "Wander the narrow stone alleys with sweeping bay views."
+            "en": "Wander the narrow stone alleys with sweeping bay views.",
+            "hr": "Lutajte uskim kamenim uličicama s prekrasnim pogledom na zaljev."
           }
         },
         {
@@ -71,7 +72,8 @@
             "de": "Kleine Pfarrkirche mit barockem Altar, kurzer Stopp lohnt sich.",
             "hu": "Kis plébániatemplom barokk oltárral, érdemes betérni egy percre.",
             "ro": "Bisericuță parohială cu altar baroc, o oprire scurtă merită.",
-            "en": "Small parish church with a baroque altar, worth a short stop."
+            "en": "Small parish church with a baroque altar, worth a short stop.",
+            "hr": "Mala župna crkva s baroknim oltarom, vrijedna kratkog zaustavljanja."
           }
         },
         {
@@ -100,7 +102,8 @@
             "de": "Eine der größten ACI-Marinas Kroatiens, ideal zum Yachten-Schauen.",
             "hu": "Horvátország egyik legnagyobb ACI kikötője, remek hely jachtnézésre.",
             "ro": "Una dintre cele mai mari marini ACI din Croația, perfectă pentru yachturi.",
-            "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting."
+            "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting.",
+            "hr": "Jedna od najvećih marina u Hrvatskoj, savršena za promatranje jahti."
           }
         },
         {
@@ -129,7 +132,8 @@
             "de": "Kies-Sand-Mix mit flachem Einstieg, perfekt für eine längere Badepause.",
             "hu": "Kavics-homok keverék lankás bemenettel, hosszabb fürdéshez ideális.",
             "ro": "Mix de pietriș și nisip cu intrare lină, ideal pentru o baie lungă.",
-            "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break."
+            "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break.",
+            "hr": "Mješavina šljunka i pijeska s blagim ulazom, idealna za dužu pauzu za kupanje."
           }
         },
         {
@@ -158,7 +162,8 @@
             "de": "Salzwasser-Karst-See mit Klippen, Badeschuhe gegen scharfe Steine mitnehmen.",
             "hu": "Karsztos sósvizű tó sziklákkal, hozzon úszócipőt az éles kövek miatt.",
             "ro": "Lac carstic cu apă sărată și stânci, luați încălțăminte de apă.",
-            "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks."
+            "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks.",
+            "hr": "Krško slano jezero s liticama, ponesite obuću za vodu zbog oštrog kamenja."
           }
         },
         {
@@ -187,7 +192,8 @@
             "de": "Felsige Landzunge mit kleiner Kapelle, beliebt für den Sonnenuntergang.",
             "hu": "Sziklás földnyelv kis kápolnával, naplementekor a legszebb.",
             "ro": "Limbă stâncoasă de pământ cu o capelă mică, superbă la apus.",
-            "en": "Rocky headland with a small chapel, popular at sunset."
+            "en": "Rocky headland with a small chapel, popular at sunset.",
+            "hr": "Stjenoviti rt s malom kapelicom, popularno mjesto za zalazak sunca."
           }
         }
       ],
@@ -195,7 +201,8 @@
         "de": "Morgens erkunden Sie die charmanten Gassen der Altstadt auf der Insel. Mittags schlendern Sie durch die luxuriöse Marina Frapa, eine der schönsten an der Adria. Nachmittags entspannen Sie am Strand Miline und besuchen das Naturphänomen des Drachenaugen-Sees. Den Abend lassen Sie bei einem romantischen Spaziergang zum Kap Gradina ausklingen.",
         "hu": "A reggelt a szigeten fekvő óváros hangulatos utcáin kezdjük. Délben a Marina Frapa luxusjachtjai között sétálunk, ami az Adria egyik legszebb kikötője. Délután a Miline strandon pihenünk, majd megnézzük a Sárkány-szem tó természeti csodáját. Az estét egy romantikus sétával zárjuk a Gradina-fokhoz.",
         "ro": "Dimineața explorați străduțele fermecătoare ale orașului vechi de pe insulă. La prânz vă plimbați prin luxoasa Marina Frapa, una dintre cele mai frumoase porturi de la Adriatică. După-amiaza vă relaxați pe plaja Miline și vizitați fenomenul natural al Lacului Ochiul Dragonului. Încheiați seara cu o plimbare romantică spre Capul Gradina.",
-        "en": "Start your morning in the charming streets of the old town on the island. At noon, stroll through the luxurious Marina Frapa, one of the most beautiful marinas on the Adriatic. In the afternoon, relax at Miline Beach and visit the natural phenomenon of Dragon's Eye Lake. Finish the evening with a romantic walk to Cape Gradina."
+        "en": "Start your morning in the charming streets of the old town on the island. At noon, stroll through the luxurious Marina Frapa, one of the most beautiful marinas on the Adriatic. In the afternoon, relax at Miline Beach and visit the natural phenomenon of Dragon's Eye Lake. Finish the evening with a romantic walk to Cape Gradina.",
+        "hr": "Započnite jutro u šarmantnim uličicama stare jezgre na otoku. U podne prošećite luksuznom Marinom Frapa, jednom od najljepših marina na Jadranu. Poslijepodne se opustite na plaži Miline i posjetite prirodni fenomen, jezero Zmajevo oko. Večer završite romantičnom šetnjom do rta Gradina."
       },
       "gastro_picks": {
         "de": [
@@ -236,6 +243,16 @@
           {
             "name": "Pršut & Cheese",
             "tip": "Local delicacies at Konoba Škoj"
+          }
+        ],
+        "hr": [
+          {
+            "name": "Rogoznička popara",
+            "tip": "Riblji složenac u restoranu Antonijo"
+          },
+          {
+            "name": "Pršut i sir",
+            "tip": "Lokalne delicije u konobi Škoj"
           }
         ]
       },
@@ -287,6 +304,18 @@
             "tip": "Fragrant relaxation in the greenery",
             "emoji": "🌿"
           }
+        ],
+        "hr": [
+          {
+            "name": "Kapelica Gospe od Kapelice",
+            "tip": "Mirno mjesto tik uz more",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labirint lavande",
+            "tip": "Mirisno opuštanje u zelenilu",
+            "emoji": "🌿"
+          }
         ]
       },
       "shopping_picks": {
@@ -329,6 +358,16 @@
             "name": "Marina Shop",
             "tip": "Exclusive sailing apparel"
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica",
+            "tip": "Svježe voće i maslinovo ulje"
+          },
+          {
+            "name": "Marina Shop",
+            "tip": "Ekskluzivna nautička odjeća"
+          }
         ]
       },
       "tips": {
@@ -355,6 +394,12 @@
           "Wear water shoes for the Dragon's Eye Lake.",
           "Marina Frapa offers free Wi-Fi for visitors.",
           "Shade is scarce at Cape Gradina, bring a hat."
+        ],
+        "hr": [
+          "Rogoznica je otok povezan s kopnom nasipom.",
+          "Nosite obuću za vodu za posjet jezeru Zmajevo oko.",
+          "Marina Frapa nudi besplatan Wi-Fi za posjetitelje.",
+          "Na rtu Gradina ima malo hlada, ponesite šešir."
         ]
       },
       "variants": {
@@ -617,7 +662,8 @@
             "de": "Der Morgen in der Altstadt von Rogoznica beginnt trotz Regen stimmungsvoll in den engen Gassen. Mittags bietet die Marina Frapa exzellente überdachte Plätze, um das Wetter bei einem Kaffee zu beobachten. Nachmittags zeigt sich der Drachenaugensee in dramatischem Licht, während die Wolken tief hängen. Der Abend klingt gemütlich in einer der küstennahen Konobas bei prasselndem Regen aus.",
             "hu": "A reggel az óváros szűk utcáin esőben is hangulatos, a kőházak védelmet nyújtanak a szél ellen. Délben a Marina Frapa elegáns fedett teraszai tökéletesek a pihenésre. Délután a Sárkányszem-tó misztikus látványt nyújt a borús égbolt alatt. Az este egy helyi konobában, a tenger morajlását hallgatva, egy tál meleg halleves mellett a legkellemesebb.",
             "ro": "Dimineața în orașul vechi din Rogoznica este atmosferică chiar și pe ploaie, străzile înguste oferind un farmec aparte. La prânz, Marina Frapa oferă adăpost excelent și vederi frumoase spre port. După-amiaza, Lacul Ochiul Dragonului capătă nuanțe dramatice sub cerul înnorat. Seara se încheie perfect într-o tavernă locală, savurând preparate calde în timp ce ploaia bate în geam.",
-            "en": "Morning in Rogoznica's old town remains atmospheric despite the rain, with narrow stone alleys providing some shelter. At noon, Marina Frapa offers excellent covered spots to enjoy the view of the yachts. In the afternoon, Dragon's Eye Lake looks mystical under the heavy clouds. The evening is best spent in a cozy local konoba, listening to the rain while enjoying fresh seafood."
+            "en": "Morning in Rogoznica's old town remains atmospheric despite the rain, with narrow stone alleys providing some shelter. At noon, Marina Frapa offers excellent covered spots to enjoy the view of the yachts. In the afternoon, Dragon's Eye Lake looks mystical under the heavy clouds. The evening is best spent in a cozy local konoba, listening to the rain while enjoying fresh seafood.",
+            "hr": "Jutro u starom gradu Rogoznice ostaje atmosfersko unatoč kiši, a uske kamene uličice pružaju određeni zaklon. U podne, Marina Frapa nudi izvrsna natkrita mjesta za uživanje u pogledu na jahte. Poslijepodne, jezero Zmajevo oko izgleda mistično pod teškim oblacima. Večer je najbolje provesti u ugodnoj lokalnoj konobi, slušajući kišu uz svježe plodove mora."
           },
           "stops": [
             {
@@ -626,7 +672,8 @@
                 "de": "Kopfsteinpflaster ist rutschig, tragen Sie feste Schuhe.",
                 "hu": "A macskakő csúszós, viseljen tapadós talpú cipőt.",
                 "ro": "Pavelele sunt alunecoase, purtați încălțăminte adecvată.",
-                "en": "Cobblestones are slippery when wet, wear grippy shoes."
+                "en": "Cobblestones are slippery when wet, wear grippy shoes.",
+                "hr": "Kaldrma je skliska kad je mokra, nosite obuću koja se ne kliže."
               }
             },
             {
@@ -635,7 +682,8 @@
                 "de": "Ein idealer trockener Ort für Besinnung und Architektur.",
                 "hu": "Tökéletes száraz menedék a belső tér megcsodálására.",
                 "ro": "Un loc uscat ideal pentru a admira arhitectura interioară.",
-                "en": "A perfect dry sanctuary to admire the local architecture."
+                "en": "A perfect dry sanctuary to admire the local architecture.",
+                "hr": "Savršeno suho utočište za divljenje lokalnoj arhitekturi."
               }
             },
             {
@@ -644,7 +692,8 @@
                 "de": "Nutzen Sie die überdachten Arkaden für den Spaziergang.",
                 "hu": "Használja a fedett árkádokat a sétához a kikötőben.",
                 "ro": "Folosiți arcadele acoperite pentru plimbarea prin marină.",
-                "en": "Use the covered arcades for your walk around the marina."
+                "en": "Use the covered arcades for your walk around the marina.",
+                "hr": "Koristite natkrivene arkade za šetnju oko marine."
               }
             },
             {
@@ -653,7 +702,8 @@
                 "de": "Kurzer Stopp unter dem Vordach eines geschlossenen Cafés.",
                 "hu": "Rövid megálló egy zárt kávézó előtetője alatt.",
                 "ro": "Oprire scurtă sub copertina unei cafenele închise.",
-                "en": "Quick stop under the awning of a closed beach cafe."
+                "en": "Quick stop under the awning of a closed beach cafe.",
+                "hr": "Brzo zaustavljanje pod tendom zatvorenog plažnog kafića."
               }
             },
             {
@@ -662,7 +712,8 @@
                 "de": "Vorsicht am Rand, die Felsen können sehr glatt sein.",
                 "hu": "Vigyázat a parton, a sziklák rendkívül csúszósak lehetnek.",
                 "ro": "Atenție pe margine, stâncile pot fi foarte alunecoase.",
-                "en": "Be careful at the edge, the rocks can be very slippery."
+                "en": "Be careful at the edge, the rocks can be very slippery.",
+                "hr": "Budite oprezni na rubu, stijene mogu biti vrlo skliske."
               }
             },
             {
@@ -671,7 +722,8 @@
                 "de": "Genießen Sie die Brandung aus sicherer Entfernung.",
                 "hu": "Élvezze a hullámtörést biztonságos távolságból.",
                 "ro": "Admirați valurile izbindu-se de țărm de la distanță.",
-                "en": "Enjoy the dramatic waves from a safe distance."
+                "en": "Enjoy the dramatic waves from a safe distance.",
+                "hr": "Uživajte u dramatičnim valovima sa sigurne udaljenosti."
               }
             }
           ],
@@ -699,6 +751,12 @@
               "Marina Frapa provides the best indoor facilities in town.",
               "Many old town alleys offer natural cover from the rain.",
               "Wear waterproof hiking shoes for the natural segments."
+            ],
+            "hr": [
+              "Kišobran otporan na vjetar je neophodan zbog obalnih naleta.",
+              "Marina Frapa nudi najbolje zatvorene sadržaje u gradu.",
+              "Mnoge uličice starog grada nude prirodni zaklon od kiše.",
+              "Nosite vodootpornu obuću za pješačenje za prirodne dionice."
             ]
           }
         },
@@ -707,7 +765,8 @@
             "de": "Ein klarer Wintermorgen in Rogoznica ist erfrischend und friedlich ohne die Sommermassen. Mittags wärmt die Sonne die hellen Steine der Marina, ideal für einen kurzen Aufenthalt im Freien. Der frühe Sonnenuntergang am Nachmittag taucht das Kap Gradina in goldenes Licht. Abends kehrt Stille im Dorf ein, die man am besten am Kamin einer offenen Taverne genießt.",
             "hu": "A téli reggel Rogoznicában frissítő és békés, tömegek nélkül fedezhetjük fel az utcákat. Délben a nap kellemesen melengeti a Marina fehér köveit, alkalmat adva egy sétára. A korai naplemente délután aranyba öltözteti a Gradina-fokot. Az este csendes, a legkellemesebb egy kandallóval fűtött helyi vendéglőben elidőzni.",
             "ro": "O dimineață de iarnă în Rogoznica este revigorantă și liniștită, fără mulțimile de vară. La prânz, soarele încălzește pietrele albe din marină, perfect pentru o scurtă pauză. Apusul timpuriu de după-amiază scaldă Capul Gradina în lumină aurie. Seara aduce o liniște deplină, ideală pentru a fi savurată lângă un șemineu local.",
-            "en": "A crisp winter morning in Rogoznica is refreshing and peaceful without the summer crowds. At noon, the sun warms the bright stones of the marina, perfect for a short stroll. The early afternoon sunset paints Cape Gradina in golden hues. The evening brings a deep silence to the village, best enjoyed by the fireplace of a local tavern."
+            "en": "A crisp winter morning in Rogoznica is refreshing and peaceful without the summer crowds. At noon, the sun warms the bright stones of the marina, perfect for a short stroll. The early afternoon sunset paints Cape Gradina in golden hues. The evening brings a deep silence to the village, best enjoyed by the fireplace of a local tavern.",
+            "hr": "Oštro zimsko jutro u Rogoznici je osvježavajuće i mirno bez ljetnih gužvi. U podne sunce grije svijetle kamene marine, što je savršeno za kratku šetnju. Rani poslijepodnevni zalazak sunca boji rt Gradina u zlatne nijanse. Večer donosi duboku tišinu u mjesto, u kojoj je najbolje uživati uz kamin lokalne konobe."
           },
           "stops": [
             {
@@ -716,7 +775,8 @@
                 "de": "Die Steine speichern die Mittagssonne sehr gut.",
                 "hu": "A kövek jól tárolják a déli napsütés melegét.",
                 "ro": "Pietrele rețin bine căldura soarelui de la prânz.",
-                "en": "The stones retain the midday sun warmth very well."
+                "en": "The stones retain the midday sun warmth very well.",
+                "hr": "Kamenje vrlo dobro zadržava toplinu podnevnog sunca."
               }
             },
             {
@@ -725,7 +785,8 @@
                 "de": "Im Inneren ist es oft wärmer als im kalten Seewind.",
                 "hu": "Odabent gyakran melegebb van, mint a kinti szélben.",
                 "ro": "În interior este adesea mai cald decât în vântul mării.",
-                "en": "It is often warmer inside than in the cold sea breeze."
+                "en": "It is often warmer inside than in the cold sea breeze.",
+                "hr": "Unutra je često toplije nego na hladnom morskom povjetarcu."
               }
             },
             {
@@ -734,7 +795,8 @@
                 "de": "Nur wenige Cafés sind offen, prüfen Sie die Marina.",
                 "hu": "Csak néhány kávézó van nyitva, nézzen szét a marinában.",
                 "ro": "Puține cafenele sunt deschise, verificați în marină.",
-                "en": "Only a few cafes remain open, check the marina area."
+                "en": "Only a few cafes remain open, check the marina area.",
+                "hr": "Samo nekoliko kafića ostaje otvoreno, provjerite područje marine."
               }
             },
             {
@@ -743,7 +805,8 @@
                 "de": "Ideal für einen einsamen Spaziergang in der Wintersonne.",
                 "hu": "Tökéletes egy magányos sétához a téli napsütésben.",
                 "ro": "Ideal pentru o plimbare solitară în soarele de iarnă.",
-                "en": "Perfect for a solitary walk in the winter sun."
+                "en": "Perfect for a solitary walk in the winter sun.",
+                "hr": "Savršeno za osamljenu šetnju na zimskom suncu."
               }
             },
             {
@@ -752,7 +815,8 @@
                 "de": "Das Wasser ist im Winter oft kristallklar und ruhig.",
                 "hu": "A víz télen gyakran kristálytiszta és teljesen nyugodt.",
                 "ro": "Apa este adesea cristalină și liniștită în timpul iernii.",
-                "en": "The water is often crystal clear and calm in winter."
+                "en": "The water is often crystal clear and calm in winter.",
+                "hr": "Voda je zimi često kristalno čista i mirna."
               }
             },
             {
@@ -761,7 +825,8 @@
                 "de": "Seien Sie vor 16:30 Uhr hier für den Sonnenuntergang.",
                 "hu": "Érkezzen 16:30 előtt, ha látni akarja a naplementét.",
                 "ro": "Sosiți înainte de 16:30 pentru a vedea apusul.",
-                "en": "Be here before 16:30 to catch the winter sunset."
+                "en": "Be here before 16:30 to catch the winter sunset.",
+                "hr": "Budite ovdje prije 16:30 kako biste uhvatili zimski zalazak sunca."
               }
             }
           ],
@@ -789,6 +854,12 @@
               "Watch out for the Bura, the cold northeastern wind.",
               "Many tourist-oriented restaurants close for the season.",
               "Layered clothing is vital to block the sea wind."
+            ],
+            "hr": [
+              "Zalazak sunca je rano, oko 16:30 sredinom zime.",
+              "Pazite na buru, hladan sjeveroistočni vjetar.",
+              "Mnogi restorani orijentirani na turiste zatvaraju se tijekom sezone.",
+              "Slojevita odjeća je ključna za zaštitu od morskog vjetra."
             ]
           }
         }
@@ -828,7 +899,8 @@
             "de": "Eine der größten ACI-Marinas Kroatiens, ideal zum Yachten-Schauen.",
             "hu": "Horvátország egyik legnagyobb ACI kikötője, remek hely jachtnézésre.",
             "ro": "Una dintre cele mai mari marini ACI din Croația, perfectă pentru yachturi.",
-            "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting."
+            "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting.",
+            "hr": "Jedna od najvećih marina u Hrvatskoj, savršena za promatranje jahti."
           }
         },
         {
@@ -857,7 +929,8 @@
             "de": "Salzwasser-Karst-See mit Klippen, Badeschuhe gegen scharfe Steine mitnehmen.",
             "hu": "Karsztos sósvizű tó sziklákkal, hozzon úszócipőt az éles kövek miatt.",
             "ro": "Lac carstic cu apă sărată și stânci, luați încălțăminte de apă.",
-            "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks."
+            "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks.",
+            "hr": "Krško slano jezero s liticama, ponesite obuću za vodu zbog oštrog kamenja."
           }
         },
         {
@@ -886,7 +959,8 @@
             "de": "Duftendes Labyrinth aus Lavendelhecken, im Juni in voller Blüte.",
             "hu": "Illatos labirintus levendulasövényekből, júniusban virágzik a legszebben.",
             "ro": "Labirint parfumat de tufișuri de lavandă, în floare în iunie.",
-            "en": "Fragrant lavender hedge maze, in full bloom in June."
+            "en": "Fragrant lavender hedge maze, in full bloom in June.",
+            "hr": "Mirisni labirint od lavande, u punom cvatu u lipnju."
           }
         },
         {
@@ -915,7 +989,8 @@
             "de": "Kleine Küstenkapelle mit Blick aufs Meer, ein ruhiger Halt.",
             "hu": "Apró tengerparti kápolna nyílt tengeri kilátással, csendes megálló.",
             "ro": "Capelă mică de coastă cu vedere la mare, oprire liniștită.",
-            "en": "Tiny coastal chapel with sea views, a peaceful stop."
+            "en": "Tiny coastal chapel with sea views, a peaceful stop.",
+            "hr": "Mala obalna kapelica s pogledom na more, mirna stanica."
           }
         },
         {
@@ -944,7 +1019,8 @@
             "de": "Kies-Sand-Mix mit flachem Einstieg, perfekt für eine längere Badepause.",
             "hu": "Kavics-homok keverék lankás bemenettel, hosszabb fürdéshez ideális.",
             "ro": "Mix de pietriș și nisip cu intrare lină, ideal pentru o baie lungă.",
-            "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break."
+            "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break.",
+            "hr": "Mješavina šljunka i pijeska s blagim ulazom, idealna za dužu pauzu za kupanje."
           }
         },
         {
@@ -973,7 +1049,8 @@
             "de": "Schlendern Sie durch die engen Steingassen mit Blick auf die Bucht.",
             "hu": "Sétáljon végig a szűk kőutcákon, csodás kilátással az öbölre.",
             "ro": "Plimbați-vă pe străduțele înguste de piatră cu vedere la golf.",
-            "en": "Wander the narrow stone alleys with sweeping bay views."
+            "en": "Wander the narrow stone alleys with sweeping bay views.",
+            "hr": "Lutajte uskim kamenim uličicama s prekrasnim pogledom na zaljev."
           }
         },
         {
@@ -1002,7 +1079,8 @@
             "de": "Felsige Landzunge mit kleiner Kapelle, beliebt für den Sonnenuntergang.",
             "hu": "Sziklás földnyelv kis kápolnával, naplementekor a legszebb.",
             "ro": "Limbă stâncoasă de pământ cu o capelă mică, superbă la apus.",
-            "en": "Rocky headland with a small chapel, popular at sunset."
+            "en": "Rocky headland with a small chapel, popular at sunset.",
+            "hr": "Stjenoviti rt s malom kapelicom, popularno mjesto za zalazak sunca."
           }
         }
       ],
@@ -1010,7 +1088,8 @@
         "de": "Diese Radtour führt Sie entlang der malerischen Küste von Rogoznica. Sie beginnen an der Marina, umrunden den Drachenaugen-See und radeln zum Lavendel-Labyrinth. Nach einer langen Badepause am Strand Miline erkunden Sie die historische Altstadt und beenden den Tag am Kap Gradina.",
         "hu": "Ez a kerékpártúra Rogoznica festői partvidékén vezet végig. A kikötőben kezdünk, megkerüljük a Sárkány-szem tavat, majd eltekerünk a levendula-labirintushoz. Egy hosszú strandolás után a Miline parton, felfedezzük a történelmi óvárost, és a napot a Gradina-foknál zárjuk.",
         "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei pitorești din Rogoznica. Începeți la marină, ocoliți Lacul Ochiul Dragonului și pedalați spre Labirintul de lavandă. După o pauză lungă de baie pe plaja Miline, explorați centrul istoric și încheiați ziua la Capul Gradina.",
-        "en": "This bike tour takes you along the picturesque coast of Rogoznica. Start at the marina, circle the Dragon's Eye Lake, and cycle to the Lavender Labyrinth. After a long swimming break at Miline Beach, explore the historical old town and end the day at Cape Gradina."
+        "en": "This bike tour takes you along the picturesque coast of Rogoznica. Start at the marina, circle the Dragon's Eye Lake, and cycle to the Lavender Labyrinth. After a long swimming break at Miline Beach, explore the historical old town and end the day at Cape Gradina.",
+        "hr": "Ova biciklistička tura vodi vas uz pitoresknu obalu Rogoznice. Započnite kod marine, obiđite jezero Zmajevo oko i odvezite se do Labirinta lavande. Nakon duže pauze za kupanje na plaži Miline, istražite povijesnu staru jezgru i završite dan na rtu Gradina."
       },
       "gastro_picks": {
         "de": [
@@ -1035,6 +1114,12 @@
           {
             "name": "Grilled Squid",
             "tip": "Freshly caught at Konoba Mario"
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lignje na žaru",
+            "tip": "Svježe ulovljene u konobi Mario"
           }
         ]
       },
@@ -1066,6 +1151,13 @@
             "tip": "Cool shade for breaks",
             "emoji": "🌲"
           }
+        ],
+        "hr": [
+          {
+            "name": "Borova šuma na rtu",
+            "tip": "Hladovina za pauze",
+            "emoji": "🌲"
+          }
         ]
       },
       "shopping_picks": {
@@ -1091,6 +1183,12 @@
           {
             "name": "Homemade Honey",
             "tip": "Sale at roadside stalls"
+          }
+        ],
+        "hr": [
+          {
+            "name": "Domaći med",
+            "tip": "Prodaja na štandovima uz cestu"
           }
         ]
       },
@@ -1118,6 +1216,12 @@
           "Be careful of strong winds (Bura) on open sections.",
           "Rent e-bikes for the hills in the hinterland.",
           "Bicycle helmets are mandatory for children under 16."
+        ],
+        "hr": [
+          "Obalne staze su uglavnom ravne i lake za vožnju.",
+          "Budite oprezni zbog jakog vjetra (bure) na otvorenim dijelovima.",
+          "Unajmite e-bicikle za brda u zaleđu.",
+          "Biciklističke kacige su obavezne za djecu mlađu od 16 godina."
         ]
       },
       "variants": {
@@ -1342,7 +1446,8 @@
             "de": "Ein verregneter Vormittag auf dem Rad führt entlang der glänzenden Küstenstraße zur Marina. Mittags bietet der Drachenaugensee einen dramatischen Anblick unter dunklen Wolken. Der Nachmittag erfordert Vorsicht auf den Pfaden zum Lavendellabyrinth, da der Boden aufweicht. Am Abend ist man froh, das Rad abzustellen und sich in einer warmen Bar in der Altstadt aufzuwärmen.",
             "hu": "Az esős délelőtt a fényes tengerparti úton vezet a kikötő felé. Délben a Sárkányszem-tó sötét felhők alatt mutatja meg vad arcát. Délután óvatosság kell a Levendula-labirintus felé, az utak sárosak lehetnek. Este jól esik leparkolni a bringát és beülni egy forró italra az óváros egyik bárjába.",
             "ro": "O dimineață ploioasă pe bicicletă urmează drumul strălucitor de pe coastă. La prânz, Lacul Ochiul Dragonului oferă o priveliște dramatică sub norii grei. După-amiaza necesită prudență pe drumul spre Labirintul de Lavandă din cauza noroiului. Seara, e o plăcere să lași bicicleta și să te încălzești într-un bar din centru.",
-            "en": "A rainy morning on the bike follows the shiny coastal road towards the marina. At noon, Dragon's Eye Lake shows its wild side under dark clouds. The afternoon ride to the Lavender Labyrinth requires caution as paths get muddy. In the evening, it feels great to park the bike and warm up with a drink in an old town bar."
+            "en": "A rainy morning on the bike follows the shiny coastal road towards the marina. At noon, Dragon's Eye Lake shows its wild side under dark clouds. The afternoon ride to the Lavender Labyrinth requires caution as paths get muddy. In the evening, it feels great to park the bike and warm up with a drink in an old town bar.",
+            "hr": "Kišno jutro na biciklu prati sjajnu obalnu cestu prema marini. U podne, jezero Zmajevo oko pokazuje svoju divlju stranu pod tamnim oblacima. Poslijepodnevna vožnja do Labirinta lavande zahtijeva oprez jer staze postaju blatne. Navečer je sjajan osjećaj parkirati bicikl i ugrijati se pićem u baru u starom gradu."
           },
           "stops": [
             {
@@ -1351,7 +1456,8 @@
                 "de": "Überdachte Fahrradständer vorhanden, nutzen Sie diese.",
                 "hu": "Vannak fedett kerékpártárolók, használja őket.",
                 "ro": "Există suporturi de biciclete acoperite, folosiți-le.",
-                "en": "Covered bike racks are available, make use of them."
+                "en": "Covered bike racks are available, make use of them.",
+                "hr": "Dostupni su natkriveni stalci za bicikle, iskoristite ih."
               }
             },
             {
@@ -1360,7 +1466,8 @@
                 "de": "Der Boden ist felsig und bei Regen extrem rutschig.",
                 "hu": "A talaj sziklás és esőben rendkívül csúszós.",
                 "ro": "Terenul este stâncos și extrem de alunecos pe ploaie.",
-                "en": "The terrain is rocky and extremely slippery in rain."
+                "en": "The terrain is rocky and extremely slippery in rain.",
+                "hr": "Teren je stjenovit i izuzetno sklizak na kiši."
               }
             },
             {
@@ -1369,7 +1476,8 @@
                 "de": "Die unbefestigten Wege können sehr schlammig sein.",
                 "hu": "A kiépítetlen utak nagyon sárosak lehetnek.",
                 "ro": "Drumurile neasfaltate pot deveni foarte noroioase.",
-                "en": "The unpaved paths can become quite muddy."
+                "en": "The unpaved paths can become quite muddy.",
+                "hr": "Neasfaltirane staze mogu postati prilično blatnjave."
               }
             },
             {
@@ -1378,7 +1486,8 @@
                 "de": "Ein ruhiger Ort für eine Pause vom Regen.",
                 "hu": "Csendes hely egy rövid pihenőre az eső elől.",
                 "ro": "Un loc liniștit pentru o pauză scurtă de ploaie.",
-                "en": "A quiet spot for a brief break from the rain."
+                "en": "A quiet spot for a brief break from the rain.",
+                "hr": "Mirno mjesto za kratki predah od kiše."
               }
             },
             {
@@ -1387,7 +1496,8 @@
                 "de": "Vermeiden Sie das Fahren direkt auf dem nassen Kies.",
                 "hu": "Kerülje a közvetlenül a nedves kavicson való tekerést.",
                 "ro": "Evitați să pedalați direct pe pietrișul ud.",
-                "en": "Avoid riding directly on the wet pebbles."
+                "en": "Avoid riding directly on the wet pebbles.",
+                "hr": "Izbjegavajte vožnju izravno po mokrom šljunku."
               }
             },
             {
@@ -1396,7 +1506,8 @@
                 "de": "Schieben Sie das Rad in den engsten Gassen.",
                 "hu": "A legszűkebb utcákban érdemes tolni a biciklit.",
                 "ro": "E recomandat să împingeți bicicleta în zonele strâmte.",
-                "en": "Better to push your bike in the narrowest alleys."
+                "en": "Better to push your bike in the narrowest alleys.",
+                "hr": "Bolje je gurati bicikl u najužim uličicama."
               }
             },
             {
@@ -1405,7 +1516,8 @@
                 "de": "Achten Sie auf starke Windböen von der Seeseite.",
                 "hu": "Vigyázzon az erős széllökésekre a tenger felől.",
                 "ro": "Atenție la rafalele puternice de vânt dinspre mare.",
-                "en": "Watch out for strong wind gusts from the sea side."
+                "en": "Watch out for strong wind gusts from the sea side.",
+                "hr": "Pazite na jake nalete vjetra s morske strane."
               }
             }
           ],
@@ -1433,6 +1545,12 @@
               "Avoid puddles as they might hide deep potholes.",
               "Mudguards are essential to keep your clothes dry.",
               "Wear a high-visibility rain jacket for safety."
+            ],
+            "hr": [
+              "Testiranje kočnica na mokrom asfaltu ključno je za sigurnost.",
+              "Izbjegavajte lokve jer mogu skriti duboke rupe.",
+              "Blatobrani su neophodni kako bi vam odjeća ostala suha.",
+              "Nosite uočljivu kabanicu radi sigurnosti."
             ]
           }
         },
@@ -1441,7 +1559,8 @@
             "de": "An einem frischen Wintermorgen ist die Radtour zur Marina belebend. Mittags bietet die Sonne am Drachenaugensee genügend Wärme für eine kurze Pause. Der Nachmittag führt durch die kargere, aber dennoch schöne Winterlandschaft zum Lavendellabyrinth. Da es früh dunkel wird, endet die Tour am späten Nachmittag in der gemütlichen Altstadt von Rogoznica.",
             "hu": "A friss téli reggelen a tekerés a Marina felé felpezsdítő. Délben a nap a Sárkányszem-tónál elegendő meleget ad egy pihenőhöz. Délután a kopárabb, de szép téli tájon át vezet az út a labirintushoz. Mivel korán sötétedik, a túra késő délután az óváros meghitt fényeiben ér véget.",
             "ro": "O dimineață răcoroasă de iarnă face tura spre marină revigorantă. La prânz, soarele de la Lacul Ochiul Dragonului oferă destulă căldură. După-amiaza traversează peisajul de iarnă spre Labirintul de Lavandă. Deoarece se întunecă devreme, turul se încheie spre seară în centrul vechi.",
-            "en": "A crisp winter morning makes the bike ride to the marina invigorating. At noon, the sun by Dragon's Eye Lake provides enough warmth for a break. The afternoon route goes through the stark but beautiful winter landscape. As darkness falls early, the tour finishes in the late afternoon in the cozy old town."
+            "en": "A crisp winter morning makes the bike ride to the marina invigorating. At noon, the sun by Dragon's Eye Lake provides enough warmth for a break. The afternoon route goes through the stark but beautiful winter landscape. As darkness falls early, the tour finishes in the late afternoon in the cozy old town.",
+            "hr": "Oštro zimsko jutro čini vožnju biciklom do marine okrepljujućom. U podne, sunce pored jezera Zmajevo oko pruža dovoljno topline za odmor. Poslijepodnevna ruta prolazi kroz ogoljen, ali prekrasan zimski krajolik. Kako mrak pada rano, tura završava kasno poslijepodne u ugodnom starom gradu."
           },
           "stops": [
             {
@@ -1450,7 +1569,8 @@
                 "de": "Die Wege sind trocken, aber der Wind ist kalt.",
                 "hu": "Az utak szárazak, de a szél nagyon hideg.",
                 "ro": "Drumurile sunt uscate, dar vântul este rece.",
-                "en": "The paths are dry, but the sea breeze is chilly."
+                "en": "The paths are dry, but the sea breeze is chilly.",
+                "hr": "Staze su suhe, ali morski povjetarac je hladan."
               }
             },
             {
@@ -1459,7 +1579,8 @@
                 "de": "Im Winter ist der See oft spiegelglatt.",
                 "hu": "Télen a tó vize gyakran tükörsima.",
                 "ro": "Iarna, lacul este adesea neted ca o oglindă.",
-                "en": "The lake is often perfectly still during winter."
+                "en": "The lake is often perfectly still during winter.",
+                "hr": "Jezero je zimi često savršeno mirno."
               }
             },
             {
@@ -1468,7 +1589,8 @@
                 "de": "Der Lavendel blüht nicht, die Struktur ist aber sichtbar.",
                 "hu": "A levendula nem virágzik, de a formája látható.",
                 "ro": "Lavanda nu este înflorită, dar structura e vizibilă.",
-                "en": "Lavender isn't blooming, but the pattern is visible."
+                "en": "Lavender isn't blooming, but the pattern is visible.",
+                "hr": "Lavanda ne cvjeta, ali uzorak labirinta je vidljiv."
               }
             },
             {
@@ -1477,7 +1599,8 @@
                 "de": "Ein schöner Aussichtspunkt für die Wintersonne.",
                 "hu": "Szép kilátópont a téli napsütés élvezetéhez.",
                 "ro": "Un punct de observație frumos pentru soarele de iarnă.",
-                "en": "A beautiful viewpoint to catch some winter sun."
+                "en": "A beautiful viewpoint to catch some winter sun.",
+                "hr": "Prekrasan vidikovac za hvatanje malo zimskog sunca."
               }
             },
             {
@@ -1486,7 +1609,8 @@
                 "de": "Der Wind am Strand kann im Winter sehr beißend sein.",
                 "hu": "A strandnál a szél télen nagyon csípős lehet.",
                 "ro": "Vântul pe plajă poate fi foarte tăios iarna.",
-                "en": "The wind at the beach can be biting in winter."
+                "en": "The wind at the beach can be biting in winter.",
+                "hr": "Vjetar na plaži zimi može biti vrlo oštar."
               }
             },
             {
@@ -1495,7 +1619,8 @@
                 "de": "Genießen Sie die leeren Straßen für Fotos.",
                 "hu": "Használja ki az üres utcákat a fotózáshoz.",
                 "ro": "Profitați de străzile goale pentru fotografii.",
-                "en": "Take advantage of the empty streets for photos."
+                "en": "Take advantage of the empty streets for photos.",
+                "hr": "Iskoristite prazne ulice za fotografiranje."
               }
             },
             {
@@ -1504,7 +1629,8 @@
                 "de": "Warme Handschuhe sind für die Rückfahrt nötig.",
                 "hu": "Meleg kesztyű kell a visszaúthoz a hidegben.",
                 "ro": "Mănușile groase sunt necesare pentru drumul înapoi.",
-                "en": "Warm gloves are needed for the ride back."
+                "en": "Warm gloves are needed for the ride back.",
+                "hr": "Za povratak su potrebne tople rukavice."
               }
             }
           ],
@@ -1532,6 +1658,12 @@
               "Sunset is around 16:30, ensure your lights work.",
               "Avoid shaded areas as they can stay icy or frosty.",
               "Keep hydrated even if you don't feel thirsty in the cold."
+            ],
+            "hr": [
+              "Tople rukavice i zaštita za uši su obavezni.",
+              "Zalazak sunca je oko 16:30, provjerite rade li vam svjetla.",
+              "Izbjegavajte sjenovita područja jer mogu ostati zaleđena.",
+              "Pijte dovoljno tekućine čak i ako na hladnoći ne osjećate žeđ."
             ]
           }
         }

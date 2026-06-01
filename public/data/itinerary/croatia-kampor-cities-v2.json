@@ -31,7 +31,8 @@
             "de": "Besuchen Sie die Klosterbibliothek mit alten Handschriften.",
             "hu": "Nézze meg a kolostor könyvtárának régi kéziratait.",
             "ro": "Vizitați biblioteca mănăstirii cu manuscrise vechi.",
-            "en": "Visit the monastery library with ancient manuscripts."
+            "en": "Visit the monastery library with ancient manuscripts.",
+            "hr": "Posjetite samostansku knjižnicu s drevnim rukopisima."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Genießen Sie den Blick auf die Fischerboote am frühen Morgen.",
             "hu": "Élvezze a kilátást a halászhajókra kora reggel.",
             "ro": "Bucurați-vă de vederea bărcii de pescuit dimineața devreme.",
-            "en": "Enjoy the view of the fishing boats in the early morning."
+            "en": "Enjoy the view of the fishing boats in the early morning.",
+            "hr": "Uživajte u pogledu na ribarske brodice u rano jutro."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ein Ort der Stille und des Gedenkens in der Natur.",
             "hu": "A csend és az emlékezés helyszíne a természetben.",
             "ro": "Un loc de liniște și amintire în natură.",
-            "en": "A place of silence and remembrance in nature."
+            "en": "A place of silence and remembrance in nature.",
+            "hr": "Mjesto tišine i sjećanja u prirodi."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie frischen Fisch aus der Adria mit Mangold.",
             "hu": "Kóstolja meg a friss adriai halat mángolddal.",
             "ro": "Încercați pește proaspăt din Adria cu mangold.",
-            "en": "Try fresh Adriatic fish with Swiss chard."
+            "en": "Try fresh Adriatic fish with Swiss chard.",
+            "hr": "Probajte svježu jadransku ribu s blitvom."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ideal für Familien wegen des sehr flachen Wassers.",
             "hu": "Ideális családoknak a nagyon sekély víz miatt.",
             "ro": "Ideal pentru familii datorită apei foarte puțin adânci.",
-            "en": "Ideal for families due to the very shallow water."
+            "en": "Ideal for families due to the very shallow water.",
+            "hr": "Idealno za obitelji zbog vrlo plitke vode."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Der schönste Blick auf die Bucht im Abendlicht.",
             "hu": "A legszebb kilátás az öbölre az esti fényekben.",
             "ro": "Cea mai frumoasă vedere a golfului în lumina serii.",
-            "en": "The best view of the bay in the evening light."
+            "en": "The best view of the bay in the evening light.",
+            "hr": "Najbolji pogled na uvalu u večernjim satima."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ihr Tag in Kampor beginnt kulturell am Kloster der Heiligen Eufemia, das stolz am Ende der Bucht wacht. Nach einem ruhigen Spaziergang entlang der Uferpromenade führt der Weg zum eindrucksvollen Gedenkpark. Den Nachmittag verbringen Sie entspannt am Sandstrand Mel, berühmt für sein seichtes Wasser, bevor Sie den Tag bei einem Glas lokalem Wein und dem Blick auf das glitzernde Meer ausklingen lassen.",
         "hu": "A nap Kamporban kulturális élménnyel indul a Szent Eufémia kolostornál, amely büszkén őrzi az öböl bejáratát. A vízparti sétányon tett nyugodt séta után az út a megrendítő Emlékparkhoz vezet. A délutánt a Mel homokos strandján töltheti, amely sekély vizéről híres, majd a napot egy pohár helyi borral és a csillogó tenger látványával zárhatja a kikötőben.",
         "ro": "Ziua în Kampor începe cultural la mănăstirea Sfânta Eufemia, care veghează mândră la capătul golfului. După o plimbare liniștită pe faleză, drumul duce la impresionantul Parc Memorial. După-amiaza o veți petrece relaxat pe plaja cu nisip Mel, faimoasă pentru apa sa puțin adâncă, înainte de a încheia ziua cu un pahar de vin local și vederea mării sclipitoare.",
-        "en": "Your day in Kampor begins culturally at the Monastery of St. Euphemia, standing guard at the end of the bay. After a quiet stroll along the waterfront promenade, the path leads to the moving Memorial Park. Spend the afternoon relaxing on the sandy Mel Beach, famous for its shallow water, before ending the day with a glass of local wine and the view of the glittering sea."
+        "en": "Your day in Kampor begins culturally at the Monastery of St. Euphemia, standing guard at the end of the bay. After a quiet stroll along the waterfront promenade, the path leads to the moving Memorial Park. Spend the afternoon relaxing on the sandy Mel Beach, famous for its shallow water, before ending the day with a glass of local wine and the view of the glittering sea.",
+        "hr": "Vaš dan u Kamporu započinje kulturno u Samostanu sv. Eufemije, koji bdije na kraju uvale. Nakon mirne šetnje obalnom šetnicom, put vodi do dirljivog Spomen-parka. Provedite poslijepodne opuštajući se na pješčanoj plaži Mel, poznatoj po plitkom moru, prije nego što dan završite uz čašu domaćeg vina i pogled na svjetlucavo more."
       },
       "gastro_picks": {
         "de": [
@@ -170,6 +177,16 @@
           {
             "name": "Fresh Scampi",
             "tip": "Enjoy at a local konoba by the harbor."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Rabska torta",
+            "tip": "Tradicionalni kolač od badema s otoka Raba."
+          },
+          {
+            "name": "Svježi škampi",
+            "tip": "Uživajte u lokalnoj konobi uz luku."
           }
         ]
       },
@@ -221,6 +238,18 @@
             "tip": "Perfect for a meditative beach walk.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Samostanski vrt",
+            "tip": "Mjesto mira iza starih zidina.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uvala Mel",
+            "tip": "Savršena za meditativnu šetnju plažom.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -263,6 +292,16 @@
             "name": "Olive Oil",
             "tip": "Directly from the farmers of Rab island."
           }
+        ],
+        "hr": [
+          {
+            "name": "Domaći med",
+            "tip": "Od lokalnih pčelara u Kamporu."
+          },
+          {
+            "name": "Maslinovo ulje",
+            "tip": "Izravno od poljoprivrednika s otoka Raba."
+          }
         ]
       },
       "tips": {
@@ -289,6 +328,12 @@
           "Wear water shoes at Mel beach due to small stones at the edges.",
           "The monastery often closes at noon, so arrive early.",
           "Park in the village center if you plan to continue on foot."
+        ],
+        "hr": [
+          "Kampor je vrlo ravan, idealan za ugodne šetnje.",
+          "Nosite obuću za vodu na plaži Mel zbog sitnog kamenja na rubovima.",
+          "Samostan se često zatvara u podne, pa dođite ranije.",
+          "Parkirajte u centru mjesta ako planirate nastaviti pješice."
         ]
       },
       "variants": {
@@ -297,7 +342,8 @@
             "de": "Der Tag beginnt im Schutz des Klosters der hl. Eufemia, wo die dicken Mauern eine mystische Ruhe vor dem Regen bieten. Mittags spazieren wir mit dem Schirm an der Riva entlang und beobachten das Spiel der Tropfen auf dem Meer.\nNachmittags genießen wir die gemütliche Wärme einer Konoba bei traditionellen Gerichten. Den Tag lassen wir mit dem Blick auf die dramatischen, grauen Wolken am Strand von Mel ausklingen, während der Regen leise auf den Sand prasselt.",
             "hu": "A reggelt a Szent Eufémia-kolostor vastag falai között kezdjük, ahol a történelmi falak védelmet nyújtanak az eső ellen. Délben esernyővel sétálunk a Riva mentén, figyelve a tenger morajlását és a vízen kopogó cseppeket.\nKésőbb egy helyi konoba barátságos melegében élvezzük a rapska tortát és a forró italokat. Az estét a Mel-strandon zárjuk, ahol a felhős égbolt alatt a természet nyers ereje és a tenger illata válik hangsúlyossá.",
             "ro": "Dimineața începe sub adăpostul mănăstirii Sf. Eufemia, unde zidurile groase oferă o liniște mistică ferită de ploaie. La prânz ne plimbăm cu umbrela pe faleză, observând jocul picăturilor pe suprafața mării.\nDupă-amiaza ne bucurăm de căldura primitoare a unei konoba, savurând preparate tradiționale. Încheiem ziua privind norii dramatici de deasupra plajei Mel, în timp ce ploaia cade ușor pe nisipul ud.",
-            "en": "The day begins in the shelter of St. Euphemia Monastery, where thick walls offer a mystical silence away from the rain. At noon, we walk along the Riva with umbrellas, watching the raindrops dance on the sea surface.\nIn the afternoon, we enjoy the cozy warmth of a local konoba with traditional dishes. We end the day admiring the dramatic clouds over Mel Beach, as the rain softly patters on the wet sand."
+            "en": "The day begins in the shelter of St. Euphemia Monastery, where thick walls offer a mystical silence away from the rain. At noon, we walk along the Riva with umbrellas, watching the raindrops dance on the sea surface.\nIn the afternoon, we enjoy the cozy warmth of a local konoba with traditional dishes. We end the day admiring the dramatic clouds over Mel Beach, as the rain softly patters on the wet sand.",
+            "hr": "Dan počinje u zaklonu samostana sv. Eufemije, gdje debeli zidovi nude mističnu tišinu daleko od kiše. U podne šetamo Rivom s kišobranima, promatrajući ples kapi kiše na morskoj površini.\nPoslijepodne uživamo u ugodnoj toplini lokalne konobe uz tradicionalna jela. Dan završavamo diveći se dramatičnim oblacima iznad plaže Mel, dok kiša tiho lupka po mokrom pijesku."
           },
           "stops": [
             {
@@ -306,7 +352,8 @@
                 "de": "Perfekter Rückzugsort im Trockenen, um die Museumsausstellung in Ruhe zu besichtigen.",
                 "hu": "Tökéletes száraz menedék, ideális a múzeumi kiállítás nyugodt megtekintéséhez.",
                 "ro": "Refugiu perfect la uscat, ideal pentru vizitarea expoziției muzeului în liniște.",
-                "en": "Perfect dry retreat, ideal for visiting the museum exhibition in peace."
+                "en": "Perfect dry retreat, ideal for visiting the museum exhibition in peace.",
+                "hr": "Savršeno suho utočište, idealno za razgledavanje muzejske izložbe u miru."
               }
             },
             {
@@ -315,7 +362,8 @@
                 "de": "Vorsicht auf den Steinplatten, diese können bei Nässe rutschig sein.",
                 "hu": "Vigyázat a kőlapokkal, esőben csúszóssá válhatnak a kikötőben.",
                 "ro": "Atenție pe dalele de piatră, pot fi alunecoase când sunt ude.",
-                "en": "Be careful on the stone slabs; they can be slippery when wet."
+                "en": "Be careful on the stone slabs; they can be slippery when wet.",
+                "hr": "Budite oprezni na kamenim pločama; mogu biti skliske kad su mokre."
               }
             },
             {
@@ -324,7 +372,8 @@
                 "de": "Kurzer Besuch empfohlen, da das Gelände weitläufig und ungeschützt ist.",
                 "hu": "Rövid látogatás javasolt, mivel a terület nyitott és nincs fedett rész.",
                 "ro": "Vizită scurtă recomandată, deoarece terenul este deschis și neprotejat.",
-                "en": "Short visit recommended as the area is open and unprotected."
+                "en": "Short visit recommended as the area is open and unprotected.",
+                "hr": "Preporučuje se kratak posjet jer je područje otvoreno i nezaštićeno."
               }
             },
             {
@@ -333,7 +382,8 @@
                 "de": "Wählen Sie einen Tisch am Kamin, um sich nach dem Spaziergang aufzuwärmen.",
                 "hu": "Válasszunk asztalt a kandalló közelében, hogy átmelegedjünk a séta után.",
                 "ro": "Alegeți o masă lângă șemineu pentru a vă încălzi după plimbare.",
-                "en": "Choose a table near the fireplace to warm up after the walk."
+                "en": "Choose a table near the fireplace to warm up after the walk.",
+                "hr": "Odaberite stol blizu kamina kako biste se ugrijali nakon šetnje."
               }
             },
             {
@@ -342,7 +392,8 @@
                 "de": "Der flache Sandstrand wirkt bei Regen besonders weitläufig und melancholisch.",
                 "hu": "A sekély homokos part esőben különösen tágasnak és melankolikusnak hat.",
                 "ro": "Plaja cu nisip fin pare deosebit de vastă și melancolică pe ploaie.",
-                "en": "The shallow sandy beach looks particularly vast and melancholic in the rain."
+                "en": "The shallow sandy beach looks particularly vast and melancholic in the rain.",
+                "hr": "Plitka pješčana plaža u kiši izgleda posebno prostrano i melankolično."
               }
             },
             {
@@ -351,7 +402,8 @@
                 "de": "Auch bei Wolken bietet das graue Meer ein faszinierendes Fotomotiv.",
                 "hu": "A felhők mögül átszűrődő fény és a szürke tenger látványos fotótéma.",
                 "ro": "Chiar și cu nori, marea cenușie oferă un subiect fotografic fascinant.",
-                "en": "Even with clouds, the gray sea offers a fascinating photo subject."
+                "en": "Even with clouds, the gray sea offers a fascinating photo subject.",
+                "hr": "Čak i s oblacima, sivo more nudi fascinantan motiv za fotografiju."
               }
             }
           ],
@@ -379,6 +431,12 @@
               "Wear waterproof shoes for the unpaved paths in the park and near the beach.",
               "Many konobas in Kampor offer an especially cozy atmosphere when it rains.",
               "Use the rainy spells to explore the monastery's library."
+            ],
+            "hr": [
+              "Uzmite čvrst kišobran jer na obali može biti vjetrovito.",
+              "Nosite vodootpornu obuću za neasfaltirane staze u parku i blizu plaže.",
+              "Mnoge konobe u Kamporu nude posebno ugodnu atmosferu kad pada kiša.",
+              "Iskoristite kišne sate za istraživanje samostanske knjižnice."
             ]
           }
         },
@@ -387,7 +445,8 @@
             "de": "Die klare Winterluft am Morgen macht den Besuch des Klosters zu einem erfrischenden Erlebnis voller Stille. Mittags genießen wir die Sonne bei einem zügigen Spaziergang entlang der menschenleeren Riva.\nIn der Konoba wärmen wir uns bei kräftigen Eintöpfen auf, während draußen die milde Inselsonne scheint. Der frühe Sonnenuntergang am Strand von Mel taucht die Bucht in ein sanftes, goldenes Licht, bevor die kühle Nacht einbricht.",
             "hu": "A kristálytiszta téli reggelen a kolostor csendje még mélyebbnek és megnyugtatóbbnak tűnik. Délben a kihalt Riva mentén sétálunk, élvezve a téli nap szikrázó erejét és a sós levegőt.\nA konobában gőzölgő hallevessel és helyi borokkal melegszünk fel a hűvös után. A korai naplemente a Mel-strandon aranyba vonja az öblöt, felejthetetlen látványt nyújtva a korai sötétedés előtt.",
             "ro": "Aerul curat de iarnă transformă vizita la mănăstire într-o experiență revigorantă și plină de liniște. La prânz, ne bucurăm de soare în timpul unei plimbări rapide pe faleza pustie.\nÎn tavernă ne încălzim cu supe consistente, în timp ce soarele blând al insulei strălucește afară. Apusul timpuriu de pe plaja Mel scaldă golful într-o lumină aurie delicată înainte de lăsarea serii.",
-            "en": "The crisp winter air in the morning makes the monastery visit a refreshing experience full of silence. At noon, we enjoy the sun during a brisk walk along the deserted Riva.\nIn the konoba, we warm up with hearty stews while the mild island sun shines outside. The early sunset at Mel Beach bathes the bay in soft, golden light before the cool night sets in."
+            "en": "The crisp winter air in the morning makes the monastery visit a refreshing experience full of silence. At noon, we enjoy the sun during a brisk walk along the deserted Riva.\nIn the konoba, we warm up with hearty stews while the mild island sun shines outside. The early sunset at Mel Beach bathes the bay in soft, golden light before the cool night sets in.",
+            "hr": "Oštar zimski zrak ujutro posjet samostanu čini osvježavajućim iskustvom punim tišine. U podne uživamo u suncu tijekom brze šetnje duž puste Rive.\nU konobi se grijemo uz krepka variva dok vani sja blago otočko sunce. Rani zalazak sunca na plaži Mel kupa uvalu u mekom, zlatnom svjetlu prije nego što nastupi hladna noć."
           },
           "stops": [
             {
@@ -396,7 +455,8 @@
                 "de": "Genießen Sie die absolute Stille der Anlage in der Nebensaison.",
                 "hu": "Élvezze a komplexum abszolút csendjét a főszezonon kívül.",
                 "ro": "Bucurați-vă de liniștea absolută a complexului în extrasezon.",
-                "en": "Enjoy the absolute silence of the complex during the off-season."
+                "en": "Enjoy the absolute silence of the complex during the off-season.",
+                "hr": "Uživajte u apsolutnoj tišini kompleksa tijekom izvansezone."
               }
             },
             {
@@ -405,7 +465,8 @@
                 "de": "Warme Kleidung ist wichtig, da der Seewind im Winter schneidend sein kann.",
                 "hu": "Réteges öltözet szükséges, a tengeri szél télen metsző lehet.",
                 "ro": "Îmbrăcămintea groasă este esențială, deoarece vântul mării poate fi tăios iarna.",
-                "en": "Warm clothing is important as the sea breeze can be piercing in winter."
+                "en": "Warm clothing is important as the sea breeze can be piercing in winter.",
+                "hr": "Topla odjeća je važna jer morski povjetarac zimi može biti prodoran."
               }
             },
             {
@@ -414,7 +475,8 @@
                 "de": "Die kahle Vegetation ermöglicht weite Sichtachsen über das Denkmalareal.",
                 "hu": "A ritka növényzet télen szélesebb kilátást enged az emlékhely területére.",
                 "ro": "Vegetația rară permite perspective largi asupra întregului monument.",
-                "en": "The bare vegetation allows for wider vistas across the memorial area."
+                "en": "The bare vegetation allows for wider vistas across the memorial area.",
+                "hr": "Oskudna vegetacija omogućuje šire vidike preko spomen-područja."
               }
             },
             {
@@ -423,7 +485,8 @@
                 "de": "Probieren Sie saisonale Winterspezialitäten wie getrockneten Oktopus.",
                 "hu": "Kóstolja meg a szezonális téli ételeket, például a szárított polipot.",
                 "ro": "Gustați specialitățile sezoniere de iarnă, cum ar fi caracatița uscată.",
-                "en": "Try seasonal winter specialties like dried octopus."
+                "en": "Try seasonal winter specialties like dried octopus.",
+                "hr": "Probajte sezonske zimske specijalitete poput sušene hobotnice."
               }
             },
             {
@@ -432,7 +495,8 @@
                 "de": "Ideal für einen langen, einsamen Strandspaziergang in der Wintersonne.",
                 "hu": "Ideális egy hosszú, magányos tengerparti sétához a téli napsütésben.",
                 "ro": "Ideal pentru o plimbare lungă și solitară pe plajă în soarele de iarnă.",
-                "en": "Ideal for a long, solitary beach walk in the winter sun."
+                "en": "Ideal for a long, solitary beach walk in the winter sun.",
+                "hr": "Idealno za dugu, samotnu šetnju plažom na zimskom suncu."
               }
             },
             {
@@ -441,7 +505,8 @@
                 "de": "Achtung: Der Sonnenuntergang findet im Winter bereits gegen 16:30 Uhr statt.",
                 "hu": "Figyelem: télen a naplemente már 16:30 körül bekövetkezik.",
                 "ro": "Atenție: iarna, apusul soarelui are loc deja în jurul orei 16:30.",
-                "en": "Note: In winter, the sunset occurs as early as 4:30 PM."
+                "en": "Note: In winter, the sunset occurs as early as 4:30 PM.",
+                "hr": "Napomena: Zimi sunce zalazi već oko 16:30."
               }
             }
           ],
@@ -469,6 +534,12 @@
               "Stop for a hot tea in one of the few cafes open during this season.",
               "The winter sun on Rab can be strong; sunscreen for the face is advised.",
               "Visit local producers for fresh olive oil and honey."
+            ],
+            "hr": [
+              "Planirajte dan ranije jer mrak pada već nakon 17:00 sati.",
+              "Svratite na topli čaj u jedan od rijetkih kafića otvorenih u ovo doba godine.",
+              "Zimsko sunce na Rabu može biti jako; savjetuje se krema za sunčanje za lice.",
+              "Posjetite lokalne proizvođače za svježe maslinovo ulje i med."
             ]
           }
         }
@@ -497,7 +568,8 @@
             "de": "Sicherer Fahrradständer vor dem Klostereingang.",
             "hu": "Biztonságos biciklitároló a kolostor bejárata előtt.",
             "ro": "Suport de biciclete securizat în fața mănăstirii.",
-            "en": "Secure bike rack in front of the monastery entrance."
+            "en": "Secure bike rack in front of the monastery entrance.",
+            "hr": "Siguran stalak za bicikle ispred ulaza u samostan."
           }
         },
         {
@@ -515,7 +587,8 @@
             "de": "Wunderbare Waldwege im Schatten der Pinien.",
             "hu": "Csodálatos erdei utak a fenyők árnyékában.",
             "ro": "Trasee forestiere minunate la umbra pinilor.",
-            "en": "Wonderful forest trails in the shade of pines."
+            "en": "Wonderful forest trails in the shade of pines.",
+            "hr": "Prekrasne šumske staze u hladu borova."
           }
         },
         {
@@ -533,7 +606,8 @@
             "de": "Kurzer Stopp vor dem nächsten Sight.",
             "hu": "Rövid megálló a következő látnivaló előtt.",
             "ro": "Scurtă oprire înainte de următoarea atracție.",
-            "en": "Short stop before the next sight."
+            "en": "Short stop before the next sight.",
+            "hr": "Kratko zaustavljanje prije sljedeće znamenitosti."
           }
         },
         {
@@ -551,7 +625,8 @@
             "de": "Das Denkmal ist auch per Rad gut erreichbar.",
             "hu": "Az emlékmű kerékpárral is könnyen megközelíthető.",
             "ro": "Monumentul este ușor accesibil și cu bicicleta.",
-            "en": "The monument is easily accessible by bike."
+            "en": "The monument is easily accessible by bike.",
+            "hr": "Spomenik je lako dostupan biciklom."
           }
         },
         {
@@ -569,7 +644,8 @@
             "de": "Kohlenhydrate tanken mit Pasta und Meeresfrüchten.",
             "hu": "Töltődjön fel szénhidráttal: tészta és tenger gyümölcsei.",
             "ro": "Reîncărcați cu carbohidrați: paste și fructe de mare.",
-            "en": "Refuel with carbs: pasta and seafood."
+            "en": "Refuel with carbs: pasta and seafood.",
+            "hr": "Nadoknadite ugljikohidrate: tjestenina i plodovi mora."
           }
         },
         {
@@ -587,7 +663,8 @@
             "de": "Entspannung pur nach der Waldtour.",
             "hu": "Tiszta relaxáció az erdei túra után.",
             "ro": "Relaxare pură după turul pădurii.",
-            "en": "Pure relaxation after the forest tour."
+            "en": "Pure relaxation after the forest tour.",
+            "hr": "Potpuno opuštanje nakon šumske ture."
           }
         },
         {
@@ -605,7 +682,8 @@
             "de": "Goldene Stunde am Rand der Bucht.",
             "hu": "Aranyóra az öböl szélén.",
             "ro": "Ora de aur la marginea golfului.",
-            "en": "Golden hour at the edge of the bay."
+            "en": "Golden hour at the edge of the bay.",
+            "hr": "Zlatni sat na rubu uvale."
           }
         }
       ],
@@ -613,7 +691,8 @@
         "de": "Erkunden Sie Kampor und die Halbinsel Kalifront auf zwei Rädern. Nach dem Start am Kloster radeln Sie tief in den geschützten Wald von Kalifront, wo kühle Luft und schattige Wege warten. Über den historischen Gedenkpark geht es zurück ins Dorf zum Mittagessen. Der Nachmittag gehört dem Strand Mel, bevor die goldene Stunde die Bucht in ein magisches Licht taucht.",
         "hu": "Fedezze fel Kamport és a Kalifront-félszigetet két keréken. A kolostortól indulva tekerjen be a Kalifront védett erdejébe, ahol hűvös levegő és árnyas utak várják. A történelmi Emlékparkon keresztül térjen vissza a faluba ebédelni. A délután a Mel strandé, mielőtt az aranyóra mágikus fénybe öltözteti az öblöt.",
         "ro": "Explorați Kampor și peninsula Kalifront pe două roți. După startul la mănăstire, pedalați adânc în pădurea protejată Kalifront, unde vă așteaptă aer răcoros și poteci umbrite. Prin Parcul Memorial istoric reveniți în sat pentru prânz. După-amiaza aparține plajei Mel, înainte ca ora de aur să scalde golful într-o lumină magică.",
-        "en": "Explore Kampor and the Kalifront peninsula on two wheels. Starting at the monastery, cycle deep into the protected Kalifront forest, where cool air and shaded paths await. Return to the village via the historical Memorial Park for lunch. The afternoon is dedicated to Mel Beach before the golden hour bathes the bay in magical light."
+        "en": "Explore Kampor and the Kalifront peninsula on two wheels. Starting at the monastery, cycle deep into the protected Kalifront forest, where cool air and shaded paths await. Return to the village via the historical Memorial Park for lunch. The afternoon is dedicated to Mel Beach before the golden hour bathes the bay in magical light.",
+        "hr": "Istražite Kampor i poluotok Kalifront na dva kotača. Krenuvši od samostana, vozite duboko u zaštićenu šumu Kalifront, gdje vas čekaju svjež zrak i sjenovite staze. Vratite se u selo preko povijesnog Spomen-parka na ručak. Poslijepodne je posvećeno plaži Mel prije nego što zlatni sat okupa uvalu u čarobnom svjetlu."
       },
       "gastro_picks": {
         "de": [
@@ -654,6 +733,16 @@
           {
             "name": "Fresh Cheese",
             "tip": "Local sheep cheese from Rab island."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Domaći njoki",
+            "tip": "S kaduljom i maslacem, vrlo hranjivi."
+          },
+          {
+            "name": "Svježi sir",
+            "tip": "Lokalni ovčji sir s otoka Raba."
           }
         ]
       },
@@ -705,6 +794,18 @@
             "tip": "A place for reflection.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Šuma Kalifront",
+            "tip": "Apsolutna tišina pod drevnim hrastovima.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Čistina u Spomen-parku",
+            "tip": "Mjesto za razmišljanje.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -730,6 +831,12 @@
           {
             "name": "Dried Figs",
             "tip": "A healthy snack for the ride."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Suhe smokve",
+            "tip": "Zdrav međuobrok za vožnju."
           }
         ]
       },
@@ -757,6 +864,12 @@
           "Take enough water, there are no kiosks in the forest.",
           "Bike rental is available in Kampor center.",
           "Watch out for hikers in narrow forest sections."
+        ],
+        "hr": [
+          "Staze u šumi Kalifront djelomično su makadamske.",
+          "Ponesite dovoljno vode, u šumi nema kioska.",
+          "Najam bicikala dostupan je u centru Kampora.",
+          "Pazite na pješake u uskim šumskim dijelovima."
         ]
       },
       "variants": {
@@ -765,7 +878,8 @@
             "de": "Trotz Regen starten wir die Radtour zum Kloster, geschützt durch gute Funktionskleidung. Die Fahrt durch den Kalifront-Wald ist ein Erlebnis für die Sinne, da der Regen den Duft der Kiefern intensiviert.\nNach einer Aufwärmpause im Hafen führt uns der Weg zum Spomen-park, wo die Monumente im grauen Licht besonders eindrucksvoll wirken. Den Tag beenden wir mit einer vorsichtigen Rückfahrt, während wir die frische, feuchte Meeresluft genießen.",
             "hu": "Az eső ellenére nekivágunk a kolostorhoz vezető útnak, vízálló ruházatban. A Kalifront-erdőn át tekerni különleges élmény: az eső felerősíti a fenyők és a föld illatát.\nEgy kikötői melegedő után a Spomen-park felé vesszük az irányt, ahol az emlékművek drámai hatást keltenek a szürkületben. A napot óvatos pedálozással zárjuk a nedves utakon, élvezve a friss, párás tengeri levegőt.",
             "ro": "În ciuda ploii, pornim în tura cu bicicleta spre mănăstire, protejați de echipament impermeabil. Plimbarea prin pădurea Kalifront este o experiență senzorială, ploaia intensificând parfumul pinilor.\nDupă o pauză de încălzire în port, drumul ne duce la Spomen-park, unde monumentele par deosebit de impresionante în lumina gri. Încheiem ziua cu o întoarcere prudentă, savurând aerul proaspăt și umed al mării.",
-            "en": "Despite the rain, we start the bike tour to the monastery, protected by functional gear. Cycling through Kalifront forest is a sensory experience as the rain intensifies the scent of pine needles.\nAfter a warm-up break at the harbor, the path leads to Spomen-park, where the monuments look particularly impressive in the gray light. We end the day with a careful ride back, enjoying the fresh, damp sea air."
+            "en": "Despite the rain, we start the bike tour to the monastery, protected by functional gear. Cycling through Kalifront forest is a sensory experience as the rain intensifies the scent of pine needles.\nAfter a warm-up break at the harbor, the path leads to Spomen-park, where the monuments look particularly impressive in the gray light. We end the day with a careful ride back, enjoying the fresh, damp sea air.",
+            "hr": "Unatoč kiši, krećemo na biciklističku turu do samostana, zaštićeni funkcionalnom opremom. Vožnja kroz šumu Kalifront poseban je osjetilni doživljaj jer kiša pojačava miris borovih iglica.\nNakon pauze za zagrijavanje u luci, put vodi do Spomen-parka, gdje spomenici izgledaju posebno impresivno u sivom svjetlu. Dan završavamo opreznom vožnjom natrag, uživajući u svježem, vlažnom morskom zraku."
           },
           "stops": [
             {
@@ -774,7 +888,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder.",
                 "hu": "Használja a fedett bejárati részt a biciklik tárolására.",
                 "ro": "Folosiți zona acoperită de la intrare pentru a parca bicicletele.",
-                "en": "Use the covered entrance area to park your bikes."
+                "en": "Use the covered entrance area to park your bikes.",
+                "hr": "Koristite natkriveni ulazni prostor za parkiranje bicikala."
               }
             },
             {
@@ -783,7 +898,8 @@
                 "de": "Vorsicht vor rutschigen Wurzeln und Matsch auf den Waldwegen.",
                 "hu": "Vigyázat a csúszós gyökerekkel és a sárral az erdei utakon.",
                 "ro": "Atenție la rădăcinile alunecoase și noroiul de pe potecile din pădure.",
-                "en": "Beware of slippery roots and mud on the forest paths."
+                "en": "Beware of slippery roots and mud on the forest paths.",
+                "hr": "Pazite na sklisko korijenje i blato na šumskim stazama."
               }
             },
             {
@@ -792,7 +908,8 @@
                 "de": "Ein heißer Espresso hilft, die Kälte der Fahrt zu vertreiben.",
                 "hu": "Egy forró eszpresszó segít elűzni a tekerés közbeni nyirkosságot.",
                 "ro": "Un espresso fierbinte ajută la alungarea frigului de pe drum.",
-                "en": "A hot espresso helps to chase away the chill from the ride."
+                "en": "A hot espresso helps to chase away the chill from the ride.",
+                "hr": "Vrući espresso pomaže odagnati hladnoću od vožnje."
               }
             },
             {
@@ -801,7 +918,8 @@
                 "de": "Die asphaltierten Wege im Park sind auch bei Regen gut befahrbar.",
                 "hu": "A park aszfaltozott útjai esőben is jól járhatóak kerékpárral.",
                 "ro": "Aleile asfaltate din parc sunt ușor de parcurs chiar și pe ploaie.",
-                "en": "The paved paths in the park are easy to cycle even in the rain."
+                "en": "The paved paths in the park are easy to cycle even in the rain.",
+                "hr": "Asfaltirane staze u parku lako je voziti čak i po kiši."
               }
             },
             {
@@ -810,7 +928,8 @@
                 "de": "Suchen Sie ein Restaurant mit Platz für nasse Fahrradbekleidung.",
                 "hu": "Keressünk olyan éttermet, ahol van hely a vizes kerékpáros ruháknak.",
                 "ro": "Căutați un restaurant cu spațiu pentru echipamentul umed de ciclism.",
-                "en": "Look for a restaurant with space for wet cycling gear."
+                "en": "Look for a restaurant with space for wet cycling gear.",
+                "hr": "Potražite restoran s prostorom za mokru biciklističku opremu."
               }
             },
             {
@@ -819,7 +938,8 @@
                 "de": "Der feine Sand kann bei Nässe sehr klebrig an den Reifen haften.",
                 "hu": "A finom homok esőben erősen rátapadhat a gumiabroncsokra.",
                 "ro": "Nisipul fin se poate lipi foarte tare de anvelope când este ud.",
-                "en": "The fine sand can stick heavily to the tires when wet."
+                "en": "The fine sand can stick heavily to the tires when wet.",
+                "hr": "Fini pijesak se može jako lijepiti za gume kad je mokar."
               }
             },
             {
@@ -828,7 +948,8 @@
                 "de": "Ein kurzer Stopp reicht, um nicht auszukühlen.",
                 "hu": "Egy rövid megálló is elég, hogy ne hűljünk ki teljesen.",
                 "ro": "O scurtă oprire este suficientă pentru a nu vă răci.",
-                "en": "A short stop is enough to avoid getting too cold."
+                "en": "A short stop is enough to avoid getting too cold.",
+                "hr": "Kratko zaustavljanje dovoljno je da se previše ne ohladite."
               }
             }
           ],
@@ -856,6 +977,12 @@
               "Mudguards are essential on your bike in this weather.",
               "Pack spare socks and dry clothes in waterproof bags.",
               "Avoid steep descents on gravel paths during heavy rain."
+            ],
+            "hr": [
+              "Provjerite kočnice, jer je put kočenja duži na mokrim cestama.",
+              "Blatobrani su neophodni na biciklu po ovakvom vremenu.",
+              "Spakirajte rezervne čarape i suhu odjeću u vodootporne torbe.",
+              "Izbjegavajte strme nizbrdice na makadamskim stazama tijekom jake kiše."
             ]
           }
         },
@@ -864,7 +991,8 @@
             "de": "Die winterliche Radtour startet bei kühler, klarer Luft in Richtung Kloster. Der Kalifront-Wald bietet im Winter eine herbe Schönheit und schützt ein wenig vor dem kalten Wind.\nNach einem schnellen Kaffee im Hafen erreichen wir den geschichtsträchtigen Spomen-park. Ein wärmendes Mittagessen gibt Kraft für den letzten Abschnitt zum Strand von Mel, wo wir den frühen, aber spektakulären Sonnenuntergang direkt vom Sattel aus erleben.",
             "hu": "A téli kerékpártúra hűvös, tiszta időben indul a kolostor felé. A Kalifront-erdő ilyenkor zordabb szépséget mutat, és némi védelmet nyújt a hideg szél ellen.\nEgy gyors kikötői kávé után érjük el a történelmi emlékparkot. A bőséges ebéd erőt ad az utolsó szakaszhoz a Mel-strandig, ahol a korai, de látványos naplementét közvetlenül a nyeregből csodáljuk meg.",
             "ro": "Tura de iarnă cu bicicleta începe în aerul rece și limpede spre mănăstire. Pădurea Kalifront oferă o frumusețe aspră iarna și protejează puțin de vântul rece.\nDupă o cafea rapidă în port, ajungem în parcul istoric Spomen-park. Un prânz cald ne dă putere pentru ultima etapă spre plaja Mel, unde admirăm apusul timpuriu, dar spectaculos, direct din șa.",
-            "en": "The winter bike tour starts in cool, clear air toward the monastery. Kalifront forest offers a rugged beauty in winter and provides some shelter from the cold wind.\nAfter a quick coffee at the harbor, we reach the historic Spomen-park. A warming lunch provides energy for the final stretch to Mel Beach, where we witness the early but spectacular sunset right from the saddle."
+            "en": "The winter bike tour starts in cool, clear air toward the monastery. Kalifront forest offers a rugged beauty in winter and provides some shelter from the cold wind.\nAfter a quick coffee at the harbor, we reach the historic Spomen-park. A warming lunch provides energy for the final stretch to Mel Beach, where we witness the early but spectacular sunset right from the saddle.",
+            "hr": "Zimska biciklistička tura počinje na hladnom, čistom zraku prema samostanu. Šuma Kalifront zimi nudi robusnu ljepotu i pruža zaklon od hladnog vjetra.\nNakon brze kave u luci, dolazimo do povijesnog Spomen-parka. Topli ručak daje energiju za posljednju dionicu do plaže Mel, gdje svjedočimo ranom, ali spektakularnom zalasku sunca izravno iz sjedala."
           },
           "stops": [
             {
@@ -873,7 +1001,8 @@
                 "de": "Die kühle Luft im Kreuzgang ist sehr erfrischend nach der Fahrt.",
                 "hu": "A kerengő hűvös levegője nagyon frissítő a tekerés után.",
                 "ro": "Aerul rece din mănăstire este foarte revigorant după drum.",
-                "en": "The cool air in the cloister is very refreshing after the ride."
+                "en": "The cool air in the cloister is very refreshing after the ride.",
+                "hr": "Hladan zrak u samostanskom dvorištu vrlo je osvježavajući nakon vožnje."
               }
             },
             {
@@ -882,7 +1011,8 @@
                 "de": "Tragen Sie Handschuhe, da der Fahrtwind im Wald sehr kalt sein kann.",
                 "hu": "Viseljen kesztyűt, mert az erdei menetszél nagyon hideg lehet.",
                 "ro": "Purtați mănuși, deoarece curentul de aer din pădure poate fi foarte rece.",
-                "en": "Wear gloves, as the wind chill in the forest can be very cold."
+                "en": "Wear gloves, as the wind chill in the forest can be very cold.",
+                "hr": "Nosite rukavice, jer hladnoća vjetra u šumi može biti vrlo jaka."
               }
             },
             {
@@ -891,7 +1021,8 @@
                 "de": "Suchen Sie einen Platz an der Sonne, um Vitamin D zu tanken.",
                 "hu": "Keressen egy napsütötte helyet, hogy feltöltődjön D-vitaminnal.",
                 "ro": "Căutați un loc la soare pentru a vă reîncărca cu vitamina D.",
-                "en": "Find a sunny spot to soak up some vitamin D."
+                "en": "Find a sunny spot to soak up some vitamin D.",
+                "hr": "Pronađite sunčano mjesto kako biste upili malo vitamina D."
               }
             },
             {
@@ -900,7 +1031,8 @@
                 "de": "Kurze Gehpausen zwischendurch halten die Füße warm.",
                 "hu": "A rövid séták a parkban segítenek melegen tartani a lábakat.",
                 "ro": "Pauzele scurte de mers pe jos ajută la menținerea picioarelor calde.",
-                "en": "Short walking breaks in between help keep your feet warm."
+                "en": "Short walking breaks in between help keep your feet warm.",
+                "hr": "Povremene kratke stanke za hodanje pomažu u održavanju topline stopala."
               }
             },
             {
@@ -909,7 +1041,8 @@
                 "de": "Setzen Sie auf kohlenhydratreiche Kost für die Wärmeproduktion des Körpers.",
                 "hu": "Válasszon szénhidrátban gazdag ételeket a testhőmérséklet fenntartásához.",
                 "ro": "Mizați pe alimente bogate în carbohidrați pentru a menține căldura corpului.",
-                "en": "Focus on carb-rich meals to help your body generate heat."
+                "en": "Focus on carb-rich meals to help your body generate heat.",
+                "hr": "Fokusirajte se na obroke bogate ugljikohidratima kako biste pomogli tijelu generirati toplinu."
               }
             },
             {
@@ -918,7 +1051,8 @@
                 "de": "Im Winter ist der Strand fest und lässt sich gut befahren.",
                 "hu": "Télen a homok tömörtebb, így könnyebb rajta kerékpározni.",
                 "ro": "Iarna, nisipul este mai compact și mai ușor de parcurs cu bicicleta.",
-                "en": "In winter, the sand is firmer and easier to cycle on."
+                "en": "In winter, the sand is firmer and easier to cycle on.",
+                "hr": "Zimi je pijesak čvršći i lakši za vožnju biciklom."
               }
             },
             {
@@ -927,7 +1061,8 @@
                 "de": "Haben Sie Licht am Fahrrad für die Rückfahrt nach 17 Uhr.",
                 "hu": "Legyen világítás a biciklin a 17 óra utáni visszajutáshoz.",
                 "ro": "Asigurați-vă că aveți lumini pe bicicletă pentru întoarcerea după ora 17:00.",
-                "en": "Make sure you have bike lights for the ride back after 5 PM."
+                "en": "Make sure you have bike lights for the ride back after 5 PM.",
+                "hr": "Pobrinite se da imate svjetla na biciklu za povratak nakon 17:00 sati."
               }
             }
           ],
@@ -955,6 +1090,12 @@
               "Wool socks are a lifesaver for winter bike rides on the coast.",
               "Days are short; make sure to start punctually at 9 AM.",
               "Carry a thermos with a hot beverage."
+            ],
+            "hr": [
+              "Odjenite se slojevito kako biste izbjegli pregrijavanje tijekom uspona.",
+              "Vunene čarape su spas za zimske vožnje biciklom na obali.",
+              "Dani su kratki; svakako krenite točno u 09:00 sati.",
+              "Nosite termosicu s toplim napitkom."
             ]
           }
         }
@@ -983,7 +1124,8 @@
             "de": "Großer Parkplatz direkt vor dem Kloster vorhanden.",
             "hu": "Nagy parkoló közvetlenül a kolostor előtt.",
             "ro": "Parcare mare disponibilă chiar în fața mănăstirii.",
-            "en": "Large parking lot available right in front of the monastery."
+            "en": "Large parking lot available right in front of the monastery.",
+            "hr": "Veliko parkiralište dostupno je odmah ispred samostana."
           }
         },
         {
@@ -1001,7 +1143,8 @@
             "de": "Kurzer Fotostopp mit Blick auf die Kampor-Bucht.",
             "hu": "Rövid fotómegálló kilátással a Kampor-öbölre.",
             "ro": "Scurtă oprire foto cu vedere la golful Kampor.",
-            "en": "Short photo stop with a view of Kampor bay."
+            "en": "Short photo stop with a view of Kampor bay.",
+            "hr": "Kratka stanka za fotografiranje s pogledom na uvalu Kampor."
           }
         },
         {
@@ -1019,7 +1162,8 @@
             "de": "Bequemes Parken am Eingang des Parks.",
             "hu": "Kényelmes parkolás a park bejáratánál.",
             "ro": "Parcare convenabilă la intrarea în parc.",
-            "en": "Convenient parking at the park entrance."
+            "en": "Convenient parking at the park entrance.",
+            "hr": "Praktično parkiranje na ulazu u park."
           }
         },
         {
@@ -1037,7 +1181,8 @@
             "de": "Lassen Sie das Auto auf dem Strandparkplatz stehen.",
             "hu": "Hagyja az autót a strand parkolójában.",
             "ro": "Lăsați mașina în parcarea plajei.",
-            "en": "Leave your car in the beach parking lot."
+            "en": "Leave your car in the beach parking lot.",
+            "hr": "Ostavite automobil na parkiralištu plaže."
           }
         },
         {
@@ -1055,7 +1200,8 @@
             "de": "Zu Fuß vom Strand aus erreichbar.",
             "hu": "Gyalogosan elérhető a strandtól.",
             "ro": "Accesibil pe jos de la plajă.",
-            "en": "Accessible on foot from the beach."
+            "en": "Accessible on foot from the beach.",
+            "hr": "Dostupno pješice s plaže."
           }
         },
         {
@@ -1073,7 +1219,8 @@
             "de": "Parken Sie am Waldrand für einen Spaziergang.",
             "hu": "Parkoljon az erdő szélén egy sétához.",
             "ro": "Parcați la marginea pădurii pentru o plimbare.",
-            "en": "Park at the forest edge for a walk."
+            "en": "Park at the forest edge for a walk.",
+            "hr": "Parkirajte na rubu šume za šetnju."
           }
         },
         {
@@ -1091,7 +1238,8 @@
             "de": "Abschluss des Tages in einer lokalen Taverne.",
             "hu": "A nap zárása egy helyi tavernban.",
             "ro": "Încheierea zilei într-o tavernă locală.",
-            "en": "Closing the day in a local tavern."
+            "en": "Closing the day in a local tavern.",
+            "hr": "Završetak dana u lokalnoj konobi."
           }
         }
       ],
@@ -1099,7 +1247,8 @@
         "de": "Mit dem Auto erkunden Sie die Highlights von Kampor mühelos. Beginnen Sie am geschichtsträchtigen Kloster Eufemia, fahren Sie entlang der Panoramastraße zum Gedenkpark und verbringen Sie die Mittagszeit am Strand Mel. Ein Ausflug zum Rand des Kalifront-Waldes bietet Natur pur, bevor Sie bequem zurück ins Dorfzentrum für ein authentisches Abendessen fahren.",
         "hu": "Autóval könnyedén felfedezheti Kampor legfontosabb látnivalóit. Kezdjen a patinás Eufémia kolostornál, autózzon végig a panorámaúton az Emlékparkig, és töltse a delet a Mel strandon. Egy kirándulás a Kalifront-erdő széléhez tiszta természetet kínál, mielőtt kényelmesen visszahajtana a falu központjába egy hiteles vacsorára.",
         "ro": "Cu mașina veți explora atracțiile din Kampor fără efort. Începeți la mănăstirea istorică Eufemia, conduceți pe drumul panoramic spre Parcul Memorial și petreceți timpul prânzului pe plaja Mel. O excursie la marginea pădurii Kalifront oferă natură pură, înainte de a reveni confortabil în centrul satului pentru o cină autentică.",
-        "en": "By car, you can explore the highlights of Kampor effortlessly. Start at the historic Eufemia Monastery, drive along the panoramic road to the Memorial Park, and spend midday at Mel Beach. A trip to the edge of the Kalifront forest offers pure nature before driving back to the village center for an authentic dinner."
+        "en": "By car, you can explore the highlights of Kampor effortlessly. Start at the historic Eufemia Monastery, drive along the panoramic road to the Memorial Park, and spend midday at Mel Beach. A trip to the edge of the Kalifront forest offers pure nature before driving back to the village center for an authentic dinner.",
+        "hr": "Automobilom možete bez napora istražiti najvažnije točke Kampora. Počnite od povijesnog samostana sv. Eufemije, vozite panoramskom cestom do Spomen-parka i provedite sredinu dana na plaži Mel. Izlet do ruba šume Kalifront nudi čistu prirodu prije povratka u centar mjesta na autentičnu večeru."
       },
       "gastro_picks": {
         "de": [
@@ -1140,6 +1289,16 @@
           {
             "name": "House Wine",
             "tip": "Try the local white wine of the region."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Janjetina pod pekom",
+            "tip": "Otočki specijalitet, polako kuhan u pećnici."
+          },
+          {
+            "name": "Domaće vino",
+            "tip": "Probajte lokalno bijelo vino ove regije."
           }
         ]
       },
@@ -1191,6 +1350,18 @@
             "tip": "Still water in the morning.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Ulaz u Kalifront",
+            "tip": "Mirno parkiranje u zelenilu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uvala Eufemija",
+            "tip": "Mirna voda u jutarnjim satima.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1216,6 +1387,12 @@
           {
             "name": "Lavender Products",
             "tip": "Scented bags and oils from the island."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Proizvodi od lavande",
+            "tip": "Mirisne vrećice i ulja s otoka."
           }
         ]
       },
@@ -1243,6 +1420,12 @@
           "Parking fees at Mel beach are common in summer.",
           "Refuel in Rab town; there is no gas station in Kampor.",
           "Use Google Maps as some house numbers can be confusing."
+        ],
+        "hr": [
+          "Ceste u Kamporu su uske, stoga vozite oprezno.",
+          "Naknade za parkiranje na plaži Mel uobičajene su ljeti.",
+          "Natočite gorivo u gradu Rabu; u Kamporu nema benzinske postaje.",
+          "Koristite Google Maps jer neki kućni brojevi mogu biti zbunjujući."
         ]
       },
       "variants": {
@@ -1251,7 +1434,8 @@
             "de": "Eine gemütliche Panoramafahrt führt uns morgens zum Kloster, während die Scheibenwischer den Blick auf die Adria freihalten. Ein kurzer Stopp am Aussichtspunkt zeigt die dramatische Küste im Regen.\nNach dem Besuch des historischen Parks lockt der Strand von Mel für einen Blick aus dem trockenen Auto. Das Mittagessen in Meeresnähe genießen wir mit dem beruhigenden Geräusch des Regens auf dem Autodach, bevor wir den Tag im Dorf ausklingen lassen.",
             "hu": "Reggel kényelmes autóúttal indulunk a kolostorhoz, miközben az ablaktörlők mögül figyeljük az Adriát. A kilátópontnál tett rövid megálló drámai képet fest az eső áztatta partvidékről.\nA történelmi emlékpark után a Mel-strandot vesszük célba, ahol a száraz autóból csodáljuk a hullámokat. A tengerparti ebéd közben az autó tetején kopogó eső hangja ad megnyugtató aláfestést a napnak.",
             "ro": "O plimbare panoramică relaxantă ne duce dimineața la mănăstire, în timp ce ștergătoarele eliberează vederea spre Adriatica. O scurtă oprire la punctul de belvedere dezvăluie coasta dramatică sub ploaie.\nDupă vizitarea parcului istoric, plaja Mel ne atrage pentru o privire din mașina uscată. Savurăm prânzul lângă mare cu sunetul relaxant al ploii pe plafonul mașinii, înainte de a încheia ziua în sat.",
-            "en": "A cozy panoramic drive takes us to the monastery in the morning as the wipers clear the view of the Adriatic. A quick stop at the viewpoint shows the dramatic coastline in the rain.\nAfter visiting the historic park, Mel Beach beckons for a view from the dry car. We enjoy lunch near the sea with the soothing sound of rain on the car roof before ending the day in the village."
+            "en": "A cozy panoramic drive takes us to the monastery in the morning as the wipers clear the view of the Adriatic. A quick stop at the viewpoint shows the dramatic coastline in the rain.\nAfter visiting the historic park, Mel Beach beckons for a view from the dry car. We enjoy lunch near the sea with the soothing sound of rain on the car roof before ending the day in the village.",
+            "hr": "Ugodna panoramska vožnja vodi nas ujutro do samostana dok brisači čiste pogled na Jadran. Brzo zaustavljanje na vidikovcu pokazuje dramatičnu obalu na kiši.\nNakon posjeta povijesnom parku, plaža Mel mami na pogled iz suhog automobila. Uživamo u ručku u blizini mora uz umirujući zvuk kiše na krovu automobila prije završetka dana u selu."
           },
           "stops": [
             {
@@ -1260,7 +1444,8 @@
                 "de": "Parkplätze befinden sich in unmittelbarer Nähe zum Eingang.",
                 "hu": "A parkolóhelyek közvetlenül a bejárat közelében találhatóak.",
                 "ro": "Locurile de parcare se află în imediata apropiere a intrării.",
-                "en": "Parking spaces are located in the immediate vicinity of the entrance."
+                "en": "Parking spaces are located in the immediate vicinity of the entrance.",
+                "hr": "Parkirna mjesta nalaze se u neposrednoj blizini ulaza."
               }
             },
             {
@@ -1269,7 +1454,8 @@
                 "de": "Bleiben Sie kurz im Auto, um die Aussicht ohne nass zu werden zu genießen.",
                 "hu": "Maradjon az autóban, és élvezze a kilátást anélkül, hogy megázna.",
                 "ro": "Rămâneți scurt în mașină pentru a savura priveliștea fără a vă uda.",
-                "en": "Stay in the car briefly to enjoy the view without getting wet."
+                "en": "Stay in the car briefly to enjoy the view without getting wet.",
+                "hr": "Ostanite kratko u autu kako biste uživali u pogledu bez močenja."
               }
             },
             {
@@ -1278,7 +1464,8 @@
                 "de": "Vorsicht bei der Einfahrt auf die unbefestigten Parkflächen.",
                 "hu": "Vigyázat a behajtáskor a nem aszfaltozott parkolóterületekre.",
                 "ro": "Atenție la intrarea pe zonele de parcare neasfaltate.",
-                "en": "Be careful when entering unpaved parking areas."
+                "en": "Be careful when entering unpaved parking areas.",
+                "hr": "Budite oprezni pri ulasku na neasfaltirana parkirališta."
               }
             },
             {
@@ -1287,7 +1474,8 @@
                 "de": "Parken Sie mit Blick auf das Meer für ein privates Strandkino.",
                 "hu": "Parkoljon a tengerre nézve, mintha saját autósmozija lenne a parton.",
                 "ro": "Parcați cu fața spre mare pentru un spectacol privat la plajă.",
-                "en": "Park facing the sea for a private 'beach cinema' experience."
+                "en": "Park facing the sea for a private 'beach cinema' experience.",
+                "hr": "Parkirajte licem prema moru za privatni doživljaj plažnog kina."
               }
             },
             {
@@ -1296,7 +1484,8 @@
                 "de": "Reservieren Sie einen Tisch am Fenster, um den Regen draußen zu beobachten.",
                 "hu": "Foglaljon asztalt az ablaknál, hogy figyelhesse a kinti esőt.",
                 "ro": "Rezervați o masă la fereastră pentru a observa ploaia de afară.",
-                "en": "Reserve a table by the window to watch the rain outside."
+                "en": "Reserve a table by the window to watch the rain outside.",
+                "hr": "Rezervirajte stol uz prozor kako biste promatrali kišu vani."
               }
             },
             {
@@ -1305,7 +1494,8 @@
                 "de": "Vom Parkplatz aus lassen sich die hohen Bäume gut bestaunen.",
                 "hu": "A parkolóból is jól megcsodálhatóak a hatalmas fák.",
                 "ro": "De în parcare se pot admira bine copacii înalți.",
-                "en": "The tall trees can be admired well even from the parking lot."
+                "en": "The tall trees can be admired well even from the parking lot.",
+                "hr": "Visokim stablima se može diviti čak i s parkirališta."
               }
             },
             {
@@ -1314,7 +1504,8 @@
                 "de": "Kurze Wege zwischen Parkplatz und Restaurant sind bei Regen ideal.",
                 "hu": "A parkoló és az étterem közötti rövid távolság esőben ideális.",
                 "ro": "Distanțele scurte între parcare și restaurant sunt ideale pe ploaie.",
-                "en": "Short distances between the parking lot and restaurant are ideal in the rain."
+                "en": "Short distances between the parking lot and restaurant are ideal in the rain.",
+                "hr": "Kratke udaljenosti između parkirališta i restorana idealne su po kiši."
               }
             }
           ],
@@ -1342,6 +1533,12 @@
               "Keep the air conditioning running to prevent the windows from fogging up.",
               "Keep an umbrella in the car for short walks from the parking lot.",
               "Enjoy the drive with some relaxing music."
+            ],
+            "hr": [
+              "Pazite na duboke lokve na sporednim cestama Kampora.",
+              "Neka klima uređaj radi kako biste spriječili zamagljivanje stakala.",
+              "Držite kišobran u autu za kratke šetnje od parkirališta.",
+              "Uživajte u vožnji uz opuštajuću glazbu."
             ]
           }
         },
@@ -1350,7 +1547,8 @@
             "de": "Mit dem Auto erreichen wir morgens entspannt das Kloster, während die Heizung für Wohlbefinden sorgt. Die Küstenfahrt bietet bei der tiefstehenden Wintersonne glitzernde Ausblicke auf die Adria.\nNach einem Spaziergang im kühlen Park wärmen wir uns im Wagen auf dem Weg zum Strand von Mel auf. Das Mittagessen am Meer ist ein Genuss, bevor wir den Tag mit einer kurzen Fahrt durch den winterlichen Wald und einem gemütlichen Abendessen im Dorf beenden.",
             "hu": "Reggel kényelmesen, fűtött autóval érkezünk a kolostorhoz. A parti út a téli napsütésben szikrázó kilátást nyújt az Adriára, amit az autóból a legjobban élvezhetünk.\nA hűvös emlékpark után az autóban melegedünk fel a Mel-strand felé menet. A tengerparti ebéd után teszünk egy rövid kört a téli erdőben, majd a napot egy hangulatos falusi vacsorával zárjuk.",
             "ro": "Cu mașina ajungem relaxați dimineața la mănăstire, în timp ce încălzirea ne asigură confortul. Drumul de coastă oferă priveliști sclipitoare asupra Adriaticii sub soarele de iarnă.\nDupă o plimbare în parcul rece, ne încălzim în mașină în drum spre plaja Mel. Prânzul lângă mare este o desfătare, înainte de a încheia ziua cu o scurtă plimbare prin pădurea de iarnă și o cină caldă în sat.",
-            "en": "We reach the monastery comfortably by car in the morning while the heater keeps us warm. The coastal drive offers sparkling views of the Adriatic under the low winter sun.\nAfter a walk in the cool park, we warm up in the car on the way to Mel Beach. Lunch by the sea is a delight before ending the day with a short drive through the winter forest and a cozy dinner in the village."
+            "en": "We reach the monastery comfortably by car in the morning while the heater keeps us warm. The coastal drive offers sparkling views of the Adriatic under the low winter sun.\nAfter a walk in the cool park, we warm up in the car on the way to Mel Beach. Lunch by the sea is a delight before ending the day with a short drive through the winter forest and a cozy dinner in the village.",
+            "hr": "Ujutro udobno dolazimo do samostana automobilom dok nas grijanje utopljava. Obalna vožnja nudi blistave poglede na Jadran pod niskim zimskim suncem.\nNakon šetnje u hladnom parku, grijemo se u autu na putu do plaže Mel. Ručak uz more pravi je užitak prije završetka dana kratkom vožnjom kroz zimsku šumu i ugodnom večerom u selu."
           },
           "stops": [
             {
@@ -1359,7 +1557,8 @@
                 "de": "Parken Sie in der Sonne, damit das Auto beim Besuch nicht auskühlt.",
                 "hu": "Parkoljon napos helyen, hogy az autó ne hűljön ki a látogatás alatt.",
                 "ro": "Parcați la soare pentru ca mașina să nu se răcească în timpul vizitei.",
-                "en": "Park in the sun so the car doesn't cool down during your visit."
+                "en": "Park in the sun so the car doesn't cool down during your visit.",
+                "hr": "Parkirajte na suncu kako se auto ne bi ohladio tijekom vašeg posjeta."
               }
             },
             {
@@ -1368,7 +1567,8 @@
                 "de": "Die klare Winterluft sorgt für eine enorme Fernsicht bis zum Festland.",
                 "hu": "A tiszta téli levegő miatt messzire ellátni, akár a szárazföldig is.",
                 "ro": "Aerul curat de iarnă asigură o vizibilitate enormă până la continent.",
-                "en": "The clear winter air provides exceptional visibility all the way to the mainland."
+                "en": "The clear winter air provides exceptional visibility all the way to the mainland.",
+                "hr": "Čist zimski zrak pruža iznimnu vidljivost sve do kopna."
               }
             },
             {
@@ -1377,7 +1577,8 @@
                 "de": "Der Parkplatz ist im Winter meist menschenleer.",
                 "hu": "A parkoló télen általában teljesen üres.",
                 "ro": "Parcarea este de cele mai multe ori pustie iarna.",
-                "en": "The parking lot is mostly deserted in winter."
+                "en": "The parking lot is mostly deserted in winter.",
+                "hr": "Parkiralište je zimi uglavnom pustno."
               }
             },
             {
@@ -1386,7 +1587,8 @@
                 "de": "Genießen Sie den Kaffee aus der Thermoskanne mit Blick aufs Meer.",
                 "hu": "Élvezze a termoszban hozott kávét a tengerre nézve.",
                 "ro": "Savurați cafeaua din termos cu vedere la mare.",
-                "en": "Enjoy some thermos coffee with a view of the sea."
+                "en": "Enjoy some thermos coffee with a view of the sea.",
+                "hr": "Uživajte u kavi iz termosice s pogledom na more."
               }
             },
             {
@@ -1395,7 +1597,8 @@
                 "de": "In der Nebensaison sind die Parkplätze direkt am Restaurant frei.",
                 "hu": "Szezonon kívül a parkolóhelyek közvetlenül az étteremnél szabadok.",
                 "ro": "În extrasezon, locurile de parcare de lângă restaurant sunt libere.",
-                "en": "In the off-season, parking spots directly at the restaurant are available."
+                "en": "In the off-season, parking spots directly at the restaurant are available.",
+                "hr": "Izvan sezone dostupna su parkirna mjesta izravno kod restorana."
               }
             },
             {
@@ -1404,7 +1607,8 @@
                 "de": "Im Winter sind die Lichtverhältnisse im Wald für Fotos ideal.",
                 "hu": "Télen az erdei fényviszonyok ideálisak a fotózáshoz.",
                 "ro": "Iarna, condițiile de lumină din pădure sunt ideale pentru fotografii.",
-                "en": "In winter, the light conditions in the forest are ideal for photography."
+                "en": "In winter, the light conditions in the forest are ideal for photography.",
+                "hr": "Zimi su svjetlosni uvjeti u šumi idealni za fotografiranje."
               }
             },
             {
@@ -1413,7 +1617,8 @@
                 "de": "Das Dorf wirkt im Winter sehr authentisch und ruhig.",
                 "hu": "A falu télen nagyon autentikus és nyugodt arcát mutatja.",
                 "ro": "Satul pare foarte autentic și liniștit iarna.",
-                "en": "The village feels very authentic and peaceful in winter."
+                "en": "The village feels very authentic and peaceful in winter.",
+                "hr": "Selo zimi djeluje vrlo autentično i mirno."
               }
             }
           ],
@@ -1441,6 +1646,12 @@
               "A battery check before the trip is advisable in cold weather.",
               "Roads can be slippery in shaded forest sections.",
               "Head to the beach in good time for the sunset."
+            ],
+            "hr": [
+              "Provjerite antifriz u tekućini za pranje vjetrobranskog stakla.",
+              "Preporučljivo je provjeriti akumulator prije puta po hladnom vremenu.",
+              "Ceste mogu biti skliske u sjenovitim šumskim dijelovima.",
+              "Krenite prema plaži na vrijeme za zalazak sunca."
             ]
           }
         }
@@ -1469,7 +1680,8 @@
             "de": "Bushaltestelle ist ca. 5 Minuten Fußweg entfernt.",
             "hu": "A buszmegálló kb. 5 perc sétára van.",
             "ro": "Stația de autobuz este la aproximativ 5 minute de mers pe jos.",
-            "en": "The bus stop is about a 5-minute walk away."
+            "en": "The bus stop is about a 5-minute walk away.",
+            "hr": "Autobusna stanica je udaljena oko 5 minuta hoda."
           }
         },
         {
@@ -1487,7 +1699,8 @@
             "de": "Zentraler Knotenpunkt für den Inselbus.",
             "hu": "A szigeti buszközlekedés központi csomópontja.",
             "ro": "Nod central pentru autobuzul insulei.",
-            "en": "Central hub for the island bus."
+            "en": "Central hub for the island bus.",
+            "hr": "Središte za otočke autobuse."
           }
         },
         {
@@ -1505,7 +1718,8 @@
             "de": "Fragen Sie den Fahrer nach dem Ausstieg am Park.",
             "hu": "Kérdezze a sofőrt a parknál való leszállásról.",
             "ro": "Întrebați șoferul despre coborârea la parc.",
-            "en": "Ask the driver for the park stop."
+            "en": "Ask the driver for the park stop.",
+            "hr": "Pitajte vozača za stanicu kod parka."
           }
         },
         {
@@ -1523,7 +1737,8 @@
             "de": "Viele Restaurants in Gehweite der Haltestelle.",
             "hu": "Számos étterem sétatávolságra a megállótól.",
             "ro": "Multe restaurante la mică distanță de stație.",
-            "en": "Many restaurants within walking distance of the stop."
+            "en": "Many restaurants within walking distance of the stop.",
+            "hr": "Mnogi restorani na pješačkoj udaljenosti od stanice."
           }
         },
         {
@@ -1541,7 +1756,8 @@
             "de": "Bester Badestopp der Tour.",
             "hu": "A túra legjobb fürdőhelye.",
             "ro": "Cea mai bună oprire pentru înot din tur.",
-            "en": "Best swimming stop of the tour."
+            "en": "Best swimming stop of the tour.",
+            "hr": "Najbolja stanica za kupanje na turi."
           }
         },
         {
@@ -1559,7 +1775,8 @@
             "de": "Kaufen Sie Postkarten vor der Rückfahrt.",
             "hu": "Vásároljon képeslapokat a visszautazás előtt.",
             "ro": "Cumpărați vederi înainte de plecare.",
-            "en": "Buy postcards before the return trip."
+            "en": "Buy postcards before the return trip.",
+            "hr": "Kupite razglednice prije povratka."
           }
         }
       ],
@@ -1567,7 +1784,8 @@
         "de": "Nutzen Sie den Inselbus von Rab, um die Schätze Kampors zu entdecken. Vom Kloster Eufemia führt Sie der Weg zum Hafen und weiter zum Gedenkpark. Nach einem gemütlichen Mittagessen verbringen Sie den Nachmittag am Sandstrand Mel. Diese stressfreie Variante ermöglicht es Ihnen, die Aussicht zu genießen, ohne sich um das Parken kümmern zu müssen.",
         "hu": "Használja a Rab-szigeti buszt Kampor kincseinek felfedezéséhez. Az Eufémia kolostortól az út a kikötőbe, majd tovább az Emlékparkhoz vezet. Egy hangulatos ebéd után töltse a délutánt a Mel homokos strandján. Ez a stresszmentes változat lehetővé teszi, hogy élvezze a kilátást anélkül, hogy a parkolás miatt kellene aggódnia.",
         "ro": "Folosiți autobuzul insulei din Rab pentru a descoperi comorile din Kampor. De la mănăstirea Eufemia, drumul vă duce la port și mai departe la Parcul Memorial. După un prânz plăcut, petreceți după-amiaza pe plaja cu nisip Mel. Această variantă fără stres vă permite să vă bucurați de priveliște fără să vă faceți griji pentru parcare.",
-        "en": "Use the Rab island bus to discover the treasures of Kampor. From the Eufemia Monastery, the path leads to the harbor and on to the Memorial Park. After a pleasant lunch, spend the afternoon at the sandy Mel Beach. This stress-free option allows you to enjoy the views without worrying about parking."
+        "en": "Use the Rab island bus to discover the treasures of Kampor. From the Eufemia Monastery, the path leads to the harbor and on to the Memorial Park. After a pleasant lunch, spend the afternoon at the sandy Mel Beach. This stress-free option allows you to enjoy the views without worrying about parking.",
+        "hr": "Koristite otočki autobus s Raba kako biste otkrili blaga Kampora. Od samostana sv. Eufemije put vodi do luke i dalje do Spomen-parka. Nakon ugodnog ručka, provedite poslijepodne na pješčanoj plaži Mel. Ova opcija bez stresa omogućuje vam da uživate u pogledima bez brige o parkiranju."
       },
       "gastro_picks": {
         "de": [
@@ -1592,6 +1810,12 @@
           {
             "name": "Seafood Salad",
             "tip": "A light lunch for hot days."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Salata od plodova mora",
+            "tip": "Lagan ručak za vruće dane."
           }
         ]
       },
@@ -1623,6 +1847,13 @@
             "tip": "Sit down and watch the sea.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Klupe na Rivi",
+            "tip": "Sjednite i promatrajte more.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1648,6 +1879,12 @@
           {
             "name": "Local Crafts",
             "tip": "In small shops near the bus stop."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni rukotvorine",
+            "tip": "U malim trgovinama blizu autobusne stanice."
           }
         ]
       },
@@ -1675,6 +1912,12 @@
           "Buy tickets directly from the bus driver.",
           "Buses can be very crowded during high season.",
           "Taxis are a good alternative if the bus is not running."
+        ],
+        "hr": [
+          "Vozni red otočkih autobusa mijenja se ovisno o sezoni.",
+          "Kupite karte izravno kod vozača autobusa.",
+          "Autobusi mogu biti vrlo puni tijekom glavne sezone.",
+          "Taksiji su dobra alternativa ako autobus ne vozi."
         ]
       },
       "variants": {
@@ -1683,7 +1926,8 @@
             "de": "Mit dem Bus erreichen wir morgens bequem das Kloster, während wir den Regen draußen beobachten. Nach dem kulturellen Stopp führt uns der Weg ins Zentrum von Kampor, wo wir im Schutz der Cafés an der Riva verweilen.\nDas Mittagessen im Hafen ist ein gemütlicher Höhepunkt, bevor wir mit dem Bus zum Mel-Strand fahren, um die stürmische See zu bewundern. Vor der Rückfahrt nutzen wir die Zeit für einen kleinen Souvenir-Kauf im Trockenen.",
             "hu": "Reggel busszal kényelmesen jutunk el a kolostorhoz, miközben az ablakból nézzük az esőt. A kulturális megálló után Kampor központjába megyünk, ahol a Riva menti kávézók fedezékében pihenünk.\nA kikötői ebéd a nap barátságos fénypontja, majd busszal indulunk a Mel-strandra, hogy megcsodáljuk a viharos tengert. A hazatérés előtt marad idő egy kis ajándékvásárlásra is fedett helyen.",
             "ro": "Cu autobuzul ajungem confortabil dimineața la mănăstire, în timp ce privim ploaia de afară. După oprirea culturală, drumul ne duce în centrul localității Kampor, unde zăbovim la adăpostul cafenelelor de pe faleză.\nPrânzul în port este un punct culminant relaxant, înainte de a merge cu autobuzul la plaja Mel pentru a admira marea învolburată. Înainte de întoarcere, profităm de timp pentru a cumpăra câteva suvenire la adăpost.",
-            "en": "We comfortably reach the monastery by bus in the morning while watching the rain outside. After the cultural stop, we head to Kampor center, lingering in the shelter of the cafes along the Riva.\nLunch at the harbor is a cozy highlight before taking the bus to Mel Beach to admire the stormy sea. Before heading back, we take time for some souvenir shopping in the dry."
+            "en": "We comfortably reach the monastery by bus in the morning while watching the rain outside. After the cultural stop, we head to Kampor center, lingering in the shelter of the cafes along the Riva.\nLunch at the harbor is a cozy highlight before taking the bus to Mel Beach to admire the stormy sea. Before heading back, we take time for some souvenir shopping in the dry.",
+            "hr": "Ujutro udobno dolazimo do samostana autobusom promatrajući kišu vani. Nakon kulturne stanice, idemo u centar Kampora, zadržavajući se u zaklonu kafića duž Rive.\nRučak u luci ugodan je vrhunac dana prije odlaska autobusom na plažu Mel kako bismo se divili olujnom moru. Prije povratka, odvajamo vrijeme za kupnju suvenira na suhom."
           },
           "stops": [
             {
@@ -1692,7 +1936,8 @@
                 "de": "Die Bushaltestelle bietet Schutz bei kurzen Regenschauern.",
                 "hu": "A buszmegálló védelmet nyújt a rövid záporok idején.",
                 "ro": "Stația de autobuz oferă protecție în timpul averselor scurte.",
-                "en": "The bus stop provides shelter during short rain showers."
+                "en": "The bus stop provides shelter during short rain showers.",
+                "hr": "Autobusna stanica pruža zaklon tijekom kratkih pljuskova."
               }
             },
             {
@@ -1701,7 +1946,8 @@
                 "de": "Die Cafés hier haben oft überdachte Terrassen.",
                 "hu": "Az itteni kávézók gyakran rendelkeznek fedett terasszal.",
                 "ro": "Cafenelele de aici au adesea terase acoperite.",
-                "en": "The cafes here often have covered terraces."
+                "en": "The cafes here often have covered terraces.",
+                "hr": "Kafići ovdje često imaju natkrivene terase."
               }
             },
             {
@@ -1710,7 +1956,8 @@
                 "de": "Prüfen Sie den Fahrplan genau, da Busse im Regen seltener fahren könnten.",
                 "hu": "Ellenőrizze pontosan a menetrendet, esőben ritkább lehet a járat.",
                 "ro": "Verificați bine programul, autobuzele pot circula mai rar pe ploaie.",
-                "en": "Check the schedule carefully; buses might run less frequently in the rain."
+                "en": "Check the schedule carefully; buses might run less frequently in the rain.",
+                "hr": "Pažljivo provjerite vozni red; autobusi po kiši mogu voziti rjeđe."
               }
             },
             {
@@ -1719,7 +1966,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus trocken zu überbrücken.",
                 "hu": "Ideális hely a következő buszig tartó idő szárazon való eltöltésére.",
                 "ro": "Un loc ideal pentru a aștepta următorul autobuz la uscat.",
-                "en": "An ideal place to wait for the next bus while staying dry."
+                "en": "An ideal place to wait for the next bus while staying dry.",
+                "hr": "Idealno mjesto za čekanje sljedećeg autobusa na suhom."
               }
             },
             {
@@ -1728,7 +1976,8 @@
                 "de": "Vom Bus aus hat man eine gute Sicht auf den Strand.",
                 "hu": "A buszból is jó rálátás nyílik a tengerpartra.",
                 "ro": "Din autobuz aveți o vedere bună asupra plajei.",
-                "en": "You get a good view of the beach from the bus."
+                "en": "You get a good view of the beach from the bus.",
+                "hr": "Iz autobusa se pruža dobar pogled na plažu."
               }
             },
             {
@@ -1737,7 +1986,8 @@
                 "de": "In den kleinen Läden lässt es sich gemütlich stöbern.",
                 "hu": "A kis boltokban kényelmesen lehet böngészni az eső elől menekülve.",
                 "ro": "În magazinele mici puteți răsfoi produsele în liniște.",
-                "en": "The small shops are great for browsing comfortably while it rains."
+                "en": "The small shops are great for browsing comfortably while it rains.",
+                "hr": "Male trgovine izvrsne su za ugodno razgledavanje dok pada kiša."
               }
             }
           ],
@@ -1765,6 +2015,12 @@
               "Have some small change ready for the bus ticket.",
               "Buses on Rab are well-heated during winter and rain.",
               "Use the waiting times to take photos of the rainy coastline."
+            ],
+            "hr": [
+              "Preuzmite aplikaciju s voznim redom lokalnog prijevoza.",
+              "Pripremite sitan novac za autobusnu kartu.",
+              "Autobusi na Rabu su zimi i po kiši dobro zagrijani.",
+              "Iskoristite vrijeme čekanja za fotografiranje kišovite obale."
             ]
           }
         },
@@ -1773,7 +2029,8 @@
             "de": "Die Wintertour mit dem Bus startet morgens in Richtung Kloster, wo wir die klare Luft genießen. Danach geht es ins ruhige Zentrum von Kampor, um die Riva in ihrer winterlichen Stille zu erleben.\nDas Mittagessen im Hafen bietet lokale Herzlichkeit, bevor uns der Bus zum Strand von Mel bringt. Den frühen Sonnenuntergang genießen wir ausgiebig, bevor wir rechtzeitig zum Souvenir-Kauf und der Rückfahrt aufbrechen.",
             "hu": "A téli buszos túra reggel indul a kolostorhoz, ahol élvezzük a friss levegőt. Ezután Kampor csendes központja felé vesszük az irányt, hogy átéljük a Riva téli nyugalmát.\nA kikötői ebéd során élvezzük a helyi vendégszeretetet, majd busszal utazunk a Mel-strandra. A korai naplementét alaposan kiélvezzük, mielőtt elindulnánk ajándékot venni és visszatérnénk a szállásra.",
             "ro": "Tura de iarnă cu autobuzul începe dimineața spre mănăstire, unde savurăm aerul curat. Apoi mergem în centrul liniștit al localității Kampor pentru a experimenta liniștea de iarnă a falezei.\nPrânzul în port oferă ospitalitate locală, înainte ca autobuzul să ne ducă la plaja Mel. Ne bucurăm din plin de apusul timpuriu, înainte de a pleca spre cumpărăturile de suvenire și drumul de întoarcere.",
-            "en": "The winter bus tour starts in the morning toward the monastery, where we enjoy the crisp air. Then we head to the quiet center of Kampor to experience the winter silence of the Riva.\nLunch at the harbor offers local warmth before the bus takes us to Mel Beach. We thoroughly enjoy the early sunset before heading off for some souvenir shopping and the ride back."
+            "en": "The winter bus tour starts in the morning toward the monastery, where we enjoy the crisp air. Then we head to the quiet center of Kampor to experience the winter silence of the Riva.\nLunch at the harbor offers local warmth before the bus takes us to Mel Beach. We thoroughly enjoy the early sunset before heading off for some souvenir shopping and the ride back.",
+            "hr": "Zimska tura autobusom počinje ujutro prema samostanu, gdje uživamo u oštrom zraku. Zatim idemo u mirno središte Kampora kako bismo doživjeli zimsku tišinu Rive.\nRučak u luci nudi lokalnu toplinu prije nego nas autobus odveze do plaže Mel. Uživamo u ranom zalasku sunca prije odlaska u kupnju suvenira i vožnje natrag."
           },
           "stops": [
             {
@@ -1782,7 +2039,8 @@
                 "de": "Der Bus hält direkt vor dem Klosterareal.",
                 "hu": "A busz közvetlenül a kolostor területe előtt áll meg.",
                 "ro": "Autobuzul oprește chiar în fața complexului mănăstirii.",
-                "en": "The bus stops right in front of the monastery grounds."
+                "en": "The bus stops right in front of the monastery grounds.",
+                "hr": "Autobus staje odmah ispred posjeda samostana."
               }
             },
             {
@@ -1791,7 +2049,8 @@
                 "de": "Im Winter sind die Plätze in den Cafés leicht zu finden.",
                 "hu": "Télen könnyű szabad helyet találni a kávézókban.",
                 "ro": "Iarna, locurile în cafenele se găsesc foarte ușor.",
-                "en": "In winter, it's easy to find a seat in the cafes."
+                "en": "In winter, it's easy to find a seat in the cafes.",
+                "hr": "Zimi je lako pronaći mjesto u kafićima."
               }
             },
             {
@@ -1800,7 +2059,8 @@
                 "de": "Nutzen Sie den Bus, um die kühle Strecke zwischen den Zielen zu überbrücken.",
                 "hu": "Használja a buszt, hogy átvészelje a megállók közötti hűvös szakaszokat.",
                 "ro": "Folosiți autobuzul pentru a parcurge distanțele reci între obiective.",
-                "en": "Use the bus to cover the chilly distances between the sites."
+                "en": "Use the bus to cover the chilly distances between the sites.",
+                "hr": "Koristite autobus kako biste prešli hladne udaljenosti između znamenitosti."
               }
             },
             {
@@ -1809,7 +2069,8 @@
                 "de": "Suchen Sie ein Restaurant, das von Einheimischen besucht wird.",
                 "hu": "Keressen olyan éttermet, ahová a helyiek is járnak.",
                 "ro": "Căutați un restaurant frecventat de localnici.",
-                "en": "Look for a restaurant frequented by locals."
+                "en": "Look for a restaurant frequented by locals.",
+                "hr": "Potražite restoran u koji odlaze lokalni stanovnici."
               }
             },
             {
@@ -1818,7 +2079,8 @@
                 "de": "Die letzte Rückfahrt des Busses ist im Winter oft früher.",
                 "hu": "Télen az utolsó buszjárat gyakran korábban indul vissza.",
                 "ro": "Iarna, ultima cursă de întoarcere a autobuzului este adesea mai devreme.",
-                "en": "In winter, the last bus back often leaves earlier."
+                "en": "In winter, the last bus back often leaves earlier.",
+                "hr": "Zimi posljednji autobus za povratak često kreće ranije."
               }
             },
             {
@@ -1827,7 +2089,8 @@
                 "de": "Kaufen Sie Raber Honig als gesundes Winter-Souvenir.",
                 "hu": "Vásároljon rabi mézet, ami egészséges téli ajándék.",
                 "ro": "Cumpărați miere de Rab ca suvenir sănătos de iarnă.",
-                "en": "Buy Rab honey as a healthy winter souvenir."
+                "en": "Buy Rab honey as a healthy winter souvenir.",
+                "hr": "Kupite rabski med kao zdrav zimski suvenir."
               }
             }
           ],
@@ -1855,6 +2118,12 @@
               "Wear warm shoes for the waiting times at the bus stops.",
               "The bus ride offers great views of the winter island landscape.",
               "Combine the trip with a visit to the old town of Rab."
+            ],
+            "hr": [
+              "Budite svjesni reduciranog zimskog voznog reda autobusa.",
+              "Nosite toplu obuću za vrijeme čekanja na autobusnim stanicama.",
+              "Vožnja autobusom nudi sjajne poglede na zimski otočki krajolik.",
+              "Kombinirajte izlet s posjetom starom gradu Rabu."
             ]
           }
         }

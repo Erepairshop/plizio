@@ -31,7 +31,8 @@
             "de": "Probieren Sie frische Austern direkt an den Marktständen.",
             "hu": "Kóstolja meg a friss osztrigát közvetlenül a piaci standoknál.",
             "ro": "Gustați scoici proaspete direct la tarabele din piață.",
-            "en": "Try fresh oysters directly at the market stalls."
+            "en": "Try fresh oysters directly at the market stalls.",
+            "fr": "Dégustez des huîtres fraîches directement aux étals du marché."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Beobachten Sie die Fischerboote bei der Einfahrt in den Hafen.",
             "hu": "Figyelje meg a kikötőbe érkező halászhajókat.",
             "ro": "Priviți bărcile de pescuit care intră în port.",
-            "en": "Watch the fishing boats entering the harbor."
+            "en": "Watch the fishing boats entering the harbor.",
+            "fr": "Observez les bateaux de pêche entrer dans le port."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Die hölzerne Promenade ist weniger überlaufen als in Deauville.",
             "hu": "A fapallós sétány kevésbé zsúfolt, mint Deauville-ben.",
             "ro": "Promenada de lemn este mai puțin aglomerată decât cea din Deauville.",
-            "en": "The wooden boardwalk is less crowded than in Deauville."
+            "en": "The wooden boardwalk is less crowded than in Deauville.",
+            "fr": "Les planches sont moins fréquentées qu'à Deauville."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Bewundern Sie die prächtige Architektur aus dem 19. Jahrhundert.",
             "hu": "Csodálja meg a 19. századi pompás építészetet.",
             "ro": "Admirați arhitectura magnifică din secolul al XIX-lea.",
-            "en": "Admire the magnificent 19th-century architecture."
+            "en": "Admire the magnificent 19th-century architecture.",
+            "fr": "Admirez la magnifique architecture du XIXe siècle."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Genießen Sie den Blick auf das Meer vom Museumsgarten aus.",
             "hu": "Élvezze a tengerre nyíló kilátást a múzeum kertjéből.",
             "ro": "Bucurați-vă de vederea la mare din grădina muzeului.",
-            "en": "Enjoy the sea view from the museum garden."
+            "en": "Enjoy the sea view from the museum garden.",
+            "fr": "Profitez de la vue sur la mer depuis le jardin du musée."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein perfekter Ort, um den Tag am Flussufer ausklingen zu lassen.",
             "hu": "Tökéletes hely a nap befejezésére a folyóparton.",
             "ro": "Un loc perfect pentru a încheia ziua pe malul râului.",
-            "en": "A perfect place to end the day by the riverbank."
+            "en": "A perfect place to end the day by the riverbank.",
+            "fr": "Un endroit parfait pour finir la journée sur les berges de la rivière."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Morgen am historischen Fischmarkt, wo die Atmosphäre der Belle Époque noch lebendig ist. Mittags schlendern Sie entlang der berühmten Holzpromenaden und genießen den weiten Sandstrand. Am Nachmittag erkunden Sie das Casino und die Villa Montebello, die Kunst und Geschichte vereinen. Den Abend lassen Sie entspannt am Hafenkai ausklingen, während die Sonne über der Touques untergeht.",
         "hu": "Kezdje a reggelt a történelmi halpiacon, ahol a Belle Époque hangulata még mindig él. Délben sétáljon végig a híres fapallós sétányokon, és élvezze a széles homokos strandot. Délután fedezze fel a Kaszinót és a Villa Montebellót, ahol a művészet és a történelem találkozik. Az estét töltse pihenéssel a kikötői rakparton, miközben a nap lenyugszik a Touques folyó felett.",
         "ro": "Începeți dimineața la piața istorică de pește, unde atmosfera din Belle Époque este încă vie. La prânz, plimbați-vă pe faimoasele promenade de lemn și bucurați-vă de plaja largă de nisip. După-amiaza, explorați Cazinoul și Villa Montebello, care îmbină arta și istoria. Încheiați seara relaxat pe cheiul portului, în timp ce soarele apune peste râul Touques.",
-        "en": "Start your morning at the historic fish market, where the Belle Époque atmosphere is still alive. At midday, stroll along the famous wooden boardwalks and enjoy the wide sandy beach. In the afternoon, explore the Casino and Villa Montebello, combining art and history. End the evening relaxed by the harbor quayside as the sun sets over the Touques river."
+        "en": "Start your morning at the historic fish market, where the Belle Époque atmosphere is still alive. At midday, stroll along the famous wooden boardwalks and enjoy the wide sandy beach. In the afternoon, explore the Casino and Villa Montebello, combining art and history. End the evening relaxed by the harbor quayside as the sun sets over the Touques river.",
+        "fr": "Commencez votre matinée au marché aux poissons historique, où l'atmosphère de la Belle Époque est toujours vivante. À midi, flânez sur les célèbres planches en bois et profitez de la grande plage de sable. L'après-midi, explorez le Casino et la Villa Montebello, mêlant art et histoire. Terminez la soirée en toute décontraction sur les quais du port, alors que le soleil se couche sur la Touques."
       },
       "gastro_picks": {
         "de": [
@@ -171,6 +178,16 @@
             "name": "Norman Cider",
             "tip": "A local apple cider that pairs perfectly with seafood."
           }
+        ],
+        "fr": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Goûtez cette spécialité chez Les Vapeurs sur le port."
+          },
+          {
+            "name": "Cidre Normand",
+            "tip": "Un cidre de pomme local qui se marie parfaitement avec les fruits de mer."
+          }
         ]
       },
       "quiet_picks": {
@@ -201,6 +218,13 @@
             "tip": "A quiet garden with a sea view.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin de la Villa Montebello",
+            "tip": "Un jardin paisible avec vue sur la mer.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -226,6 +250,12 @@
           {
             "name": "Sunday Market",
             "tip": "A colorful market along the river every Sunday."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Marché du dimanche",
+            "tip": "Un marché coloré le long de la rivière chaque dimanche."
           }
         ]
       },
@@ -253,6 +283,12 @@
           "Visit the fish market early in the morning for the best selection.",
           "Trouville is hillier than Deauville, be prepared for some slopes.",
           "Use the 'Le Bac' ferry to cross over to Deauville."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les planches.",
+          "Visitez le marché aux poissons tôt le matin pour le meilleur choix.",
+          "Trouville est plus escarpée que Deauville, préparez-vous à quelques pentes.",
+          "Utilisez le ferry 'Le Bac' pour traverser vers Deauville."
         ]
       }
     },
@@ -279,7 +315,8 @@
             "de": "Ein flacher Weg entlang des Flusses.",
             "hu": "Lapos út a folyó mentén.",
             "ro": "O potecă plană de-a lungul râului.",
-            "en": "A flat path along the river."
+            "en": "A flat path along the river.",
+            "fr": "Un chemin plat le long de la rivière."
           }
         },
         {
@@ -297,7 +334,8 @@
             "de": "Herausfordernde Steigung mit Panoramablick.",
             "hu": "Kihívást jelentő emelkedő panorámás kilátással.",
             "ro": "Pantă provocatoare cu vedere panoramică.",
-            "en": "Challenging climb with panoramic views."
+            "en": "Challenging climb with panoramic views.",
+            "fr": "Montée exigeante avec vue panoramique."
           }
         },
         {
@@ -315,7 +353,8 @@
             "de": "Ein ruhigerer Strand außerhalb der Stadt.",
             "hu": "Csendesebb strand a városon kívül.",
             "ro": "O plajă mai liniștită în afara orașului.",
-            "en": "A quieter beach outside the city."
+            "en": "A quieter beach outside the city.",
+            "fr": "Une plage plus calme à l'extérieur de la ville."
           }
         },
         {
@@ -333,7 +372,8 @@
             "de": "Typische Architektur des Hinterlandes.",
             "hu": "A hátország jellegzetes építészete.",
             "ro": "Arhitectură tipică din hinterland.",
-            "en": "Typical architecture of the hinterland."
+            "en": "Typical architecture of the hinterland.",
+            "fr": "Architecture typique de l'arrière-pays."
           }
         },
         {
@@ -351,7 +391,8 @@
             "de": "Belohnung nach der Tour mit lokalen Köstlichkeiten.",
             "hu": "Jutalom a túra után helyi finomságokkal.",
             "ro": "Răsplată după tur cu delicii locale.",
-            "en": "Reward after the tour with local delicacies."
+            "en": "Reward after the tour with local delicacies.",
+            "fr": "Récompense après le tour avec des délices locaux."
           }
         }
       ],
@@ -359,7 +400,8 @@
         "de": "Diese Radtour führt Sie entlang der Touques und hinauf auf die Klippen der Corniche. Genießen Sie die Fahrt in das malerische Dorf Villerville, das für den Film 'Ein Affe im Winter' bekannt ist. Entdecken Sie die grüne normannische Landschaft und kehren Sie für einen verdienten Snack zum Hafen zurück.",
         "hu": "Ez a kerékpártúra a Touques mentén és a Corniche szikláira vezet. Élvezze az utat a festői Villerville faluba, amely a 'Majom a télben' című filmről híres. Fedezze fel a zöld normandiai tájat, és térjen vissza a kikötőbe egy megérdemelt uzsonnára.",
         "ro": "Acest tur cu bicicleta vă poartă de-a lungul râului Touques și pe faleza Corniche. Bucurați-vă de plimbarea până în satul pitoresc Villerville, renumit pentru filmul 'O maimuță în timpul iernii'. Descoperiți peisajul verde normand și întoarceți-vă în port pentru o gustare binemeritată.",
-        "en": "This bike tour takes you along the Touques and up onto the cliffs of the Corniche. Enjoy the ride to the picturesque village of Villerville, famous for the film 'A Monkey in Winter'. Discover the green Norman countryside and return to the harbor for a well-deserved snack."
+        "en": "This bike tour takes you along the Touques and up onto the cliffs of the Corniche. Enjoy the ride to the picturesque village of Villerville, famous for the film 'A Monkey in Winter'. Discover the green Norman countryside and return to the harbor for a well-deserved snack.",
+        "fr": "Cette randonnée à vélo vous emmène le long de la Touques et sur les falaises de la Corniche. Profitez de la balade jusqu'au village pittoresque de Villerville, célèbre pour le film 'Un singe en hiver'. Découvrez la campagne normande verdoyante et revenez au port pour un goûter bien mérité."
       },
       "gastro_picks": {
         "de": [
@@ -384,6 +426,12 @@
           {
             "name": "Tarte Normande",
             "tip": "Apple tart with cream after cycling."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Tarte Normande",
+            "tip": "Tarte aux pommes avec de la crème après l'effort."
           }
         ]
       },
@@ -415,6 +463,13 @@
             "tip": "Lonely paths above the coast.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Falaises de Villerville",
+            "tip": "Sentiers isolés au-dessus de la côte.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -440,6 +495,12 @@
           {
             "name": "Local Farms",
             "tip": "Buy cheese directly from the producer in the surrounding area."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Fermes locales",
+            "tip": "Achetez du fromage directement au producteur dans les environs."
           }
         ]
       },
@@ -467,6 +528,12 @@
           "The coastal road to Villerville is beautiful but narrow.",
           "Watch out for the wind, which can be strong on the coast.",
           "Take enough water with you."
+        ],
+        "fr": [
+          "Louez un vélo électrique pour les sections de falaises.",
+          "La route côtière vers Villerville est belle mais étroite.",
+          "Attention au vent, qui peut être fort sur la côte.",
+          "Emportez suffisamment d'eau avec vous."
         ]
       }
     },
@@ -493,7 +560,8 @@
             "de": "Parken Sie am Quai Fernand Moureaux.",
             "hu": "Parkoljon a Quai Fernand Moureaux-nál.",
             "ro": "Parcați la Quai Fernand Moureaux.",
-            "en": "Park at Quai Fernand Moureaux."
+            "en": "Park at Quai Fernand Moureaux.",
+            "fr": "Garez-vous au Quai Fernand Moureaux."
           }
         },
         {
@@ -511,7 +579,8 @@
             "de": "Besuchen Sie das berühmte Vieux Bassin.",
             "hu": "Látogasson el a híres Vieux Bassin-hoz.",
             "ro": "Vizitați faimosul Vieux Bassin.",
-            "en": "Visit the famous Vieux Bassin."
+            "en": "Visit the famous Vieux Bassin.",
+            "fr": "Visitez le célèbre Vieux Bassin."
           }
         },
         {
@@ -529,7 +598,8 @@
             "de": "Eine beeindruckende Schrägseilbrücke.",
             "hu": "Egy lenyűgöző ferdekábeles híd.",
             "ro": "Un pod hobanat impresionant.",
-            "en": "An impressive cable-stayed bridge."
+            "en": "An impressive cable-stayed bridge.",
+            "fr": "Un impressionnant pont à haubans."
           }
         },
         {
@@ -547,7 +617,8 @@
             "de": "Erfahren Sie alles über die Herstellung von Calvados.",
             "hu": "Tudjon meg mindent a Calvados készítéséről.",
             "ro": "Aflați totul despre producția de Calvados.",
-            "en": "Learn all about the production of Calvados."
+            "en": "Learn all about the production of Calvados.",
+            "fr": "Apprenez tout sur la production du Calvados."
           }
         },
         {
@@ -565,7 +636,8 @@
             "de": "Blick auf die Klippen von Trouville.",
             "hu": "Kilátás Trouville szikláira.",
             "ro": "Vedere asupra falezelor din Trouville.",
-            "en": "View of the Trouville cliffs."
+            "en": "View of the Trouville cliffs.",
+            "fr": "Vue sur les falaises de Trouville."
           }
         }
       ],
@@ -573,7 +645,8 @@
         "de": "Nutzen Sie das Auto, um die Perlen der Blumenküste zu entdecken. Nach einem Start in Trouville fahren Sie ins malerische Honfleur, das Lieblingsobjekt der Impressionisten. Überqueren Sie die Pont de Normandie und tauchen Sie im Hinterland in die Welt des Calvados ein, bevor Sie rechtzeitig zum Sonnenuntergang an die Klippen zurückkehren.",
         "hu": "Használja az autót a Virágpart gyöngyszemeinek felfedezéséhez. A Trouville-i kezdés után hajtson a festői Honfleur-be, az impresszionisták kedvenc helyszínére. Keljen át a Normandiai hídon, és merüljön el a Calvados világában a hátországban, mielőtt a naplementére visszatérne a sziklákhoz.",
         "ro": "Folosiți mașina pentru a descoperi perlele Coastei de Flori. După un început în Trouville, conduceți spre pitorescul Honfleur, subiectul preferat al impresioniștilor. Traversați Podul Normandiei și scufundați-vă în lumea Calvados-ului în hinterland, înainte de a vă întoarce la faleză la timp pentru apus.",
-        "en": "Use the car to discover the pearls of the Flower Coast. After starting in Trouville, drive to picturesque Honfleur, the favorite subject of the Impressionists. Cross the Normandy Bridge and dive into the world of Calvados in the hinterland before returning to the cliffs in time for sunset."
+        "en": "Use the car to discover the pearls of the Flower Coast. After starting in Trouville, drive to picturesque Honfleur, the favorite subject of the Impressionists. Cross the Normandy Bridge and dive into the world of Calvados in the hinterland before returning to the cliffs in time for sunset.",
+        "fr": "Utilisez la voiture pour découvrir les perles de la Côte Fleurie. Après avoir débuté à Trouville, roulez vers le pittoresque Honfleur, sujet favori des impressionnistes. Traversez le Pont de Normandie et plongez dans l'univers du Calvados dans l'arrière-pays avant de revenir vers les falaises à temps pour le coucher du soleil."
       },
       "gastro_picks": {
         "de": [
@@ -598,6 +671,12 @@
           {
             "name": "Calvados",
             "tip": "Try the region's famous apple brandy."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Calvados",
+            "tip": "Goûtez la célèbre eau-de-vie de pomme de la région."
           }
         ]
       },
@@ -629,6 +708,13 @@
             "tip": "Quiet orchards in Pays d'Auge.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Arrière-pays de Honfleur",
+            "tip": "Vergers paisibles dans le Pays d'Auge.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -654,6 +740,12 @@
           {
             "name": "Village des Marques",
             "tip": "Outlet shopping near Honfleur."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Village des Marques",
+            "tip": "Magasins d'usine près de Honfleur."
           }
         ]
       },
@@ -681,6 +773,12 @@
           "Plan for the toll fee for the Normandy Bridge.",
           "Visit a distillery for authentic souvenirs.",
           "Drive carefully on narrow country roads."
+        ],
+        "fr": [
+          "Les places de parking à Honfleur sont très limitées en été.",
+          "Prévoyez le péage pour le Pont de Normandie.",
+          "Visitez une distillerie pour des souvenirs authentiques.",
+          "Conduisez prudemment sur les routes de campagne étroites."
         ]
       }
     },
@@ -707,7 +805,8 @@
             "de": "Zentraler Verkehrsknotenpunkt.",
             "hu": "Központi közlekedési csomópont.",
             "ro": "Hub central de transport.",
-            "en": "Central transport hub."
+            "en": "Central transport hub.",
+            "fr": "Pôle de transport central."
           }
         },
         {
@@ -725,7 +824,8 @@
             "de": "Luxusboutiquen und berühmte Architektur.",
             "hu": "Luxusbutikok és híres építészet.",
             "ro": "Boutique-uri de lux și arhitectură faimoasă.",
-            "en": "Luxury boutiques and famous architecture."
+            "en": "Luxury boutiques and famous architecture.",
+            "fr": "Boutiques de luxe et architecture célèbre."
           }
         },
         {
@@ -743,7 +843,8 @@
             "de": "Besuchen Sie eine Pferderennbahn.",
             "hu": "Látogasson el egy lóversenypályára.",
             "ro": "Vizitați o pistă de curse de cai.",
-            "en": "Visit a horse racing track."
+            "en": "Visit a horse racing track.",
+            "fr": "Visitez un hippodrome."
           }
         },
         {
@@ -761,7 +862,8 @@
             "de": "Ein Symbol für Eleganz.",
             "hu": "Az elegancia szimbóluma.",
             "ro": "Un simbol al eleganței.",
-            "en": "A symbol of elegance."
+            "en": "A symbol of elegance.",
+            "fr": "Un symbole d'élégance."
           }
         },
         {
@@ -779,7 +881,8 @@
             "de": "Berühmt für die bunten Sonnenschirme.",
             "hu": "Híres a színes napernyőiről.",
             "ro": "Faimoasă pentru umbrelele colorate.",
-            "en": "Famous for the colorful parasols."
+            "en": "Famous for the colorful parasols.",
+            "fr": "Célèbre pour ses parasols colorés."
           }
         }
       ],
@@ -787,7 +890,8 @@
         "de": "Nutzen Sie die Busverbindung, um beide Zwillingsstädte bequem zu erkunden. Vom gemeinsamen Bahnhof aus gelangen Sie schnell zu den schicken Boutiquen von Deauville, der prestigeträchtigen Pferderennbahn und dem legendären Strand mit seinen bunten Sonnenschirmen. Ein Tag voller Glamour ohne Parkplatzsorgen.",
         "hu": "Használja a buszjáratokat a két ikerváros kényelmes felfedezéséhez. A közös vasútállomástól gyorsan elérheti Deauville elegáns butikjait, a neves lóversenypályát és a legendás strandot színes napernyőivel. Egy csillogással teli nap parkolási gondok nélkül.",
         "ro": "Utilizați conexiunea cu autobuzul pentru a explora convenabil ambele orașe gemene. De la gara comună puteți ajunge rapid la buticurile șic din Deauville, la prestigiosul hipodrom și la plaja legendară cu umbrelele sale colorate. O zi plină de farmec fără griji legate de parcare.",
-        "en": "Use the bus connection to conveniently explore both twin cities. From the shared train station, you can quickly reach the chic boutiques of Deauville, the prestigious horse racing track, and the legendary beach with its colorful parasols. A day full of glamour without parking worries."
+        "en": "Use the bus connection to conveniently explore both twin cities. From the shared train station, you can quickly reach the chic boutiques of Deauville, the prestigious horse racing track, and the legendary beach with its colorful parasols. A day full of glamour without parking worries.",
+        "fr": "Utilisez la liaison par bus pour explorer facilement les deux villes jumelles. Depuis la gare commune, vous rejoindrez rapidement les boutiques chics de Deauville, le prestigieux hippodrome et la plage légendaire avec ses parasols colorés. Une journée pleine de glamour sans soucis de stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -812,6 +916,12 @@
           {
             "name": "Macarons",
             "tip": "Sweet specialty in the fine patisseries."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Macarons",
+            "tip": "Spécialité sucrée dans les pâtisseries fines."
           }
         ]
       },
@@ -843,6 +953,13 @@
             "tip": "Quiet park behind the beach.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Parc des Lais de Mer",
+            "tip": "Parc calme derrière la plage.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -868,6 +985,12 @@
           {
             "name": "Avenue de la République",
             "tip": "Luxury shopping street in Deauville."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Avenue de la République",
+            "tip": "Rue commerçante de luxe à Deauville."
           }
         ]
       },
@@ -895,6 +1018,12 @@
           "The lines connect Trouville and Deauville efficiently.",
           "Use the app for real-time schedules.",
           "Plan for buffer times in case of traffic."
+        ],
+        "fr": [
+          "Achetez un ticket à la journée pour le réseau de bus local.",
+          "Les lignes relient efficacement Trouville et Deauville.",
+          "Utilisez l'application pour les horaires en temps réel.",
+          "Prévoyez des marges de temps en cas de trafic."
         ]
       }
     }

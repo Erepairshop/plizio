@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die gotische Architektur dieser kleinen, charmanten Kirche aus dem 14. Jahrhundert.",
             "hu": "Csodálja meg a 14. századi gótikus kis templom puritán szépségét és nyugalmát.",
             "ro": "Admirați arhitectura gotică a acestei mici biserici fermecătoare din secolul al XIV-lea.",
-            "en": "Admire the Gothic architecture of this small, charming 14th-century church."
+            "en": "Admire the Gothic architecture of this small, charming 14th-century church.",
+            "hr": "Divite se gotičkoj arhitekturi ove male, šarmantne crkve iz 14. stoljeća."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein geschütztes Naturdenkmal mit seltenen Pflanzenarten und angenehmem Schatten.",
             "hu": "Védett természeti műemlék ritka növényfajokkal és hűsítő árnyékkal a tengerpart mellett.",
             "ro": "Un monument natural protejat, cu specii rare de plante și umbră plăcută.",
-            "en": "A protected natural monument featuring rare plant species and pleasant shade."
+            "en": "A protected natural monument featuring rare plant species and pleasant shade.",
+            "hr": "Zaštićeni spomenik prirode s rijetkim biljnim vrstama i ugodnom hladovinom."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Das ehemalige Sommerhaus der Familie Borelli zeugt von der aristokratischen Vergangenheit.",
             "hu": "A Borelli család egykori nyári rezidenciája a település arisztokratikus múltját idézi.",
             "ro": "Fosta casă de vară a familiei Borelli depune mărturie despre trecutul aristocratic.",
-            "en": "The former summer house of the Borelli family bears witness to the aristocratic past."
+            "en": "The former summer house of the Borelli family bears witness to the aristocratic past.",
+            "hr": "Bivši ljetnikovac obitelji Borelli svjedoči o aristokratskoj prošlosti."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie frischen Fisch direkt vom Grill in einem der traditionellen Restaurants.",
             "hu": "Kóstolja meg a frissen fogott tengeri halakat egy hagyományos, családi vendéglőben.",
             "ro": "Gustați peștele proaspăt la grătar într-unul dintre restaurantele tradiționale locale.",
-            "en": "Try fresh fish straight from the grill in one of the traditional local restaurants."
+            "en": "Try fresh fish straight from the grill in one of the traditional local restaurants.",
+            "hr": "Probajte svježu ribu izravno s roštilja u jednom od tradicionalnih lokalnih restorana."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Genießen Sie das kristallklare Wasser an diesem mit der Blauen Flagge ausgezeichneten Strand.",
             "hu": "Élvezze a kristálytiszta vizet ezen a Kék Zászló minősítéssel rendelkező strandon.",
             "ro": "Bucurați-vă de apa cristalină de pe această plajă premiată cu Steagul Albastru.",
-            "en": "Enjoy the crystal-clear water at this Blue Flag-awarded beach."
+            "en": "Enjoy the crystal-clear water at this Blue Flag-awarded beach.",
+            "hr": "Uživajte u kristalno čistom moru na ovoj plaži s Plavom zastavom."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Der perfekte Ort, um den Tag mit Blick auf die Inseln des Pasman-Kanals ausklingen zu lassen.",
             "hu": "Tökéletes hely a nap lezárásához, kilátással a Pašman-csatorna kis szigeteire.",
             "ro": "Locul perfect pentru a încheia ziua cu o vedere spre insulele canalului Pašman.",
-            "en": "The perfect spot to end the day with a view of the Pašman Channel islands."
+            "en": "The perfect spot to end the day with a view of the Pašman Channel islands.",
+            "hr": "Savršeno mjesto za završetak dana uz pogled na otoke Pašmanskog kanala."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ihr Tag beginnt im historischen Herzen von Sveti Filip i Jakov mit der Besichtigung der St.-Rochus-Kirche. Danach schlendern Sie durch den schattigen Park Borelli zum beeindruckenden Sommerhaus der gleichnamigen Familie. Mittags genießen Sie dalmatinische Spezialitäten in einer lokalen Konoba. Den Nachmittag verbringen Sie entspannt am Strand Iza Banja, bevor Sie den Abend mit einem spektakulären Sonnenuntergang an der Riva krönen.",
         "hu": "A napot a Szent Rókus-templom meglátogatásával indítjuk a történelmi központban. Ezután a Borelli-park hűvösében sétálunk el az egykori nemesi nyaralóhoz, majd a helyi gasztronómia rejtelmeibe merülünk egy tengerparti vendéglőben. A délután a pihenésé az Iza Banja strandon, a napot pedig egy emlékezetes mólón tett sétával és a Pasman-csatorna feletti naplementével zárjuk.",
         "ro": "Ziua începe în inima istorică a orașului cu vizitarea bisericii Sfântul Roch. Apoi, vă plimbați prin parcul Borelli spre impresionanta casă de vară a familiei nobiliare. La prânz, savurați specialități dalmate într-o tavernă locală. După-amiaza este dedicată relaxării pe plaja Iza Banja, iar seara se încheie cu un apus spectaculos pe faleza orașului.",
-        "en": "Your day starts in the historical heart of Sveti Filip i Jakov with a visit to St. Roch Church. Afterwards, stroll through the shaded Borelli Park to the impressive summer house of the noble family. For lunch, enjoy Dalmatian specialties in a local konoba. Spend the afternoon relaxing at Iza Banja beach before crowning the evening with a spectacular sunset at the waterfront."
+        "en": "Your day starts in the historical heart of Sveti Filip i Jakov with a visit to St. Roch Church. Afterwards, stroll through the shaded Borelli Park to the impressive summer house of the noble family. For lunch, enjoy Dalmatian specialties in a local konoba. Spend the afternoon relaxing at Iza Banja beach before crowning the evening with a spectacular sunset at the waterfront.",
+        "hr": "Vaš dan započinje u povijesnom srcu Svetog Filipa i Jakova posjetom crkvi sv. Roka. Nakon toga prošetajte kroz sjenoviti park Borelli do impresivnog ljetnikovca plemićke obitelji. Za ručak uživajte u dalmatinskim specijalitetima u lokalnoj konobi. Poslijepodne provedite opuštajući se na plaži Iza Banja prije nego što večer okrunite spektakularnim zalaskom sunca na rivi."
       },
       "gastro_picks": {
         "de": [
@@ -170,6 +177,16 @@
           {
             "name": "Grilled Sea Fish",
             "tip": "Fresh sea bream or sea bass served with Swiss chard."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Dalmatinska peka",
+            "tip": "Hobotnica ili meso pečeno s krumbirom pod pekom."
+          },
+          {
+            "name": "Morska riba na žaru",
+            "tip": "Svježa orada ili brancin poslužen s blitvom."
           }
         ]
       },
@@ -221,6 +238,18 @@
             "tip": "Rocky sections away from the main crowds.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Park Borelli",
+            "tip": "Mirno utočište pod borovima.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sjeverne uvale",
+            "tip": "Stjenoviti dijelovi udaljeni od glavne gužve.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -263,6 +292,16 @@
             "name": "Lavender Bags",
             "tip": "Traditional handmade souvenir from local crops."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno maslinovo ulje",
+            "tip": "Hladno prešano ulje iz obližnjih maslinika."
+          },
+          {
+            "name": "Vrećice lavande",
+            "tip": "Tradicionalni ručno rađeni suvenir od lokalnog bilja."
+          }
         ]
       },
       "tips": {
@@ -289,6 +328,12 @@
           "Visit the church in the morning for the best light.",
           "Book a table at the konoba during high season.",
           "The waterfront is ideal for a morning espresso by the sea."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za vodu za šljunčane plaže.",
+          "Posjetite crkvu ujutro za najbolje svjetlo.",
+          "Rezervirajte stol u konobi tijekom glavne sezone.",
+          "Riva je idealna za jutarnji espresso uz more."
         ]
       },
       "variants": {
@@ -297,7 +342,8 @@
             "de": "Beginnen Sie den Tag in der schützenden Atmosphäre der St. Rochus-Kirche. Der Park Borelli bietet unter dichten Baumkronen etwas Schutz vor leichtem Regen. Mittags genießen Sie die gemütliche Wärme einer lokalen Konoba bei traditionellen Gerichten. Am Nachmittag lädt der Strand Iza Banja zu einem stimmungsvollen Spaziergang unter dem Regenschirm ein, bevor der Tag am Hafen ausklingt.",
             "hu": "Kezdje a napot a Szent Rókus-templom védelmében. A Borelli-park sűrű fái alatt keressen menedéket a szemerkélő esőben. Ebédidőben élvezze egy helyi konoba barátságos melegét és a házias ízeket. Délután az Iza Banja strand egy hangulatos, esernyős sétára hív a tengerparton, mielőtt a napot a kikötőben zárná, figyelve a hullámokat.",
             "ro": "Începeți ziua în atmosfera protectoare a Bisericii Sf. Rochus. Parcul Borelli oferă adăpost sub coroanele dese ale copacilor în timpul ploii ușoare. La prânz, bucurați-vă de căldura primitoare a unei konoba locale. După-amiaza, plaja Iza Banja vă invită la o plimbare atmosferică sub umbrelă, înainte de a încheia ziua în port, privind marea sub ploaie.",
-            "en": "Start your day in the protective atmosphere of St. Roch Church. Park Borelli offers some shelter under dense treetops during light rain. At noon, enjoy the cozy warmth of a local konoba with traditional dishes. In the afternoon, Iza Banja beach invites you to an atmospheric umbrella walk along the shore before ending the day at the harbor, watching the rainy sea."
+            "en": "Start your day in the protective atmosphere of St. Roch Church. Park Borelli offers some shelter under dense treetops during light rain. At noon, enjoy the cozy warmth of a local konoba with traditional dishes. In the afternoon, Iza Banja beach invites you to an atmospheric umbrella walk along the shore before ending the day at the harbor, watching the rainy sea.",
+            "hr": "Započnite dan u zaštitničkoj atmosferi crkve sv. Roka. Park Borelli nudi zaklon pod gustim krošnjama tijekom lagane kiše. U podne uživajte u ugodnoj toplini lokalne konobe uz tradicionalna jela. Poslijepodne vas plaža Iza Banja poziva na atmosfersku šetnju s kišobranom uz obalu prije završetka dana u luci, promatrajući kišno more."
           },
           "stops": [
             {
@@ -306,7 +352,8 @@
                 "de": "Perfekter Ort, um den ersten Regenschauer trocken abzuwarten.",
                 "hu": "Tökéletes hely az első esőfelhők elöli menedékre.",
                 "ro": "Loc perfect pentru a aștepta trecerea primei ploi.",
-                "en": "Perfect place to wait out the first rain shower in the dry."
+                "en": "Perfect place to wait out the first rain shower in the dry.",
+                "hr": "Savršeno mjesto da na suhom pričekate dok prođe prvi pljusak."
               }
             },
             {
@@ -315,7 +362,8 @@
                 "de": "Die Wege können rutschig sein, bleiben Sie auf den befestigten Pfaden.",
                 "hu": "Az utak csúszósak lehetnek, maradjon a kiépített ösvényeken.",
                 "ro": "Potecile pot fi alunecoase, rămâneți pe traseele pavate.",
-                "en": "Paths can be slippery, stay on the paved walkways."
+                "en": "Paths can be slippery, stay on the paved walkways.",
+                "hr": "Staze mogu biti skliske, držite se popločanih putova."
               }
             },
             {
@@ -324,7 +372,8 @@
                 "de": "Bewundern Sie die Architektur vom überdachten Eingangsbereich aus.",
                 "hu": "Csodálja meg az építészetet a fedett bejárati részről.",
                 "ro": "Admirați arhitectura de sub zona de intrare acoperită.",
-                "en": "Admire the architecture from the covered entrance area."
+                "en": "Admire the architecture from the covered entrance area.",
+                "hr": "Divite se arhitekturi iz natkrivenog ulaznog prostora."
               }
             },
             {
@@ -333,7 +382,8 @@
                 "de": "Bestellen Sie eine warme Suppe, um sich nach dem Spaziergang aufzuwärmen.",
                 "hu": "Rendeljen egy meleg levest, hogy átmelegedjen a séta után.",
                 "ro": "Comandați o supă caldă pentru a vă încălzi după plimbare.",
-                "en": "Order a warm soup to warm up after your walk."
+                "en": "Order a warm soup to warm up after your walk.",
+                "hr": "Naručite toplu juhu da se zagrijete nakon šetnje."
               }
             },
             {
@@ -342,7 +392,8 @@
                 "de": "Die Brandung bei Regen bietet ein einzigartiges Fotomotiv.",
                 "hu": "Az esőben hullámzó tenger egyedi fotótémát kínál.",
                 "ro": "Marea agitată pe ploaie oferă un subiect foto unic.",
-                "en": "The surf during rain provides a unique photo opportunity."
+                "en": "The surf during rain provides a unique photo opportunity.",
+                "hr": "Valovi tijekom kiše pružaju jedinstvenu priliku za fotografiranje."
               }
             },
             {
@@ -351,7 +402,8 @@
                 "de": "Suchen Sie Schutz unter den Vordächern der Strandbars.",
                 "hu": "Keressen menedéket a strandbárok előtetői alatt.",
                 "ro": "Căutați adăpost sub copertinele barurilor de pe plajă.",
-                "en": "Find shelter under the eaves of the beach bars."
+                "en": "Find shelter under the eaves of the beach bars.",
+                "hr": "Pronađite zaklon pod nadstrešnicama barova na plaži."
               }
             }
           ],
@@ -383,6 +435,13 @@
               "Plan a longer lunch break in the dry.",
               "The church offers the best shelter during sudden downpours.",
               "The colors of the sea are particularly intense in the rain."
+            ],
+            "hr": [
+              "Čvrst kišobran je neophodan zbog obalnih vjetrova.",
+              "Nosite vodootpornu obuću za posjet parku.",
+              "Planirajte dužu pauzu za ručak na suhom.",
+              "Crkva nudi najbolji zaklon tijekom iznenadnih pljuskova.",
+              "Boje mora su posebno intenzivne na kiši."
             ]
           }
         },
@@ -391,7 +450,8 @@
             "de": "Erleben Sie die winterliche Ruhe von Sveti Filip i Jakov. Der Park Borelli wirkt im Winterlicht fast magisch, auch ohne Blätterpracht. Mittags wärmen Sie sich in einer Konoba auf, wo der Kamin oft brennt. Ein Spaziergang am leeren Strand Iza Banja bietet klare Sicht bis zu den Inseln. Da die Sonne früh untergeht, genießen Sie den goldenen Himmel am Hafen schon am späten Nachmittag.",
             "hu": "Fedezze fel Sveti Filip i Jakov téli nyugalmát. A Borelli-park a téli fényekben szinte varázslatos, még lombkorona nélkül is. Ebédidőben melegedjen fel egy konobában, ahol gyakran lobog a tűz. Egy séta az üres Iza Banja strandon tiszta kilátást nyújt a szigetekre. Mivel a nap korán nyugszik, a kikötő aranyló egét már késő délután megcsodálhatja.",
             "ro": "Experimentați liniștea iernatică din Sveti Filip i Jakov. Parcul Borelli pare magic în lumina iernii, chiar și fără frunziș. La prânz, încălziți-vă într-o konoba locală primitoare. O plimbare pe plaja pustie Iza Banja oferă o vedere clară până la insule. Deoarece soarele apune devreme, bucurați-vă de cerul auriu din port încă de la sfârșitul după-amiezii.",
-            "en": "Experience the winter tranquility of Sveti Filip i Jakov. Park Borelli looks almost magical in the winter light, even without its leaves. At noon, warm up in a local konoba where the fireplace is often lit. A walk on the empty Iza Banja beach offers clear views to the islands. Since the sun sets early, enjoy the golden sky at the harbor by late afternoon."
+            "en": "Experience the winter tranquility of Sveti Filip i Jakov. Park Borelli looks almost magical in the winter light, even without its leaves. At noon, warm up in a local konoba where the fireplace is often lit. A walk on the empty Iza Banja beach offers clear views to the islands. Since the sun sets early, enjoy the golden sky at the harbor by late afternoon.",
+            "hr": "Doživite zimski mir Svetog Filipa i Jakova. Park Borelli izgleda gotovo magično na zimskom svjetlu, čak i bez lišća. U podne se ugrijte u lokalnoj konobi gdje je kamin često zapaljen. Šetnja praznom plažom Iza Banja nudi jasne poglede na otoke. Budući da sunce rano zalazi, uživajte u zlatnom nebu u luci već kasno poslijepodne."
           },
           "stops": [
             {
@@ -400,7 +460,8 @@
                 "de": "Drinnen ist es oft kühler als draußen, behalten Sie die Jacke an.",
                 "hu": "Odabent gyakran hűvösebb van, mint kint, tartsa magán a kabátot.",
                 "ro": "În interior este adesea mai răcoare, păstrați haina pe dvs.",
-                "en": "It's often cooler inside than out, keep your jacket on."
+                "en": "It's often cooler inside than out, keep your jacket on.",
+                "hr": "Unutra je često hladnije nego vani, zadržite jaknu."
               }
             },
             {
@@ -409,7 +470,8 @@
                 "de": "Genießen Sie die klare Winterluft unter den immergrünen Pinien.",
                 "hu": "Élvezze a tiszta téli levegőt az örökzöld fenyők alatt.",
                 "ro": "Bucurați-vă de aerul curat de iarnă sub pinii mereu verzi.",
-                "en": "Enjoy the clear winter air under the evergreen pines."
+                "en": "Enjoy the clear winter air under the evergreen pines.",
+                "hr": "Uživajte u čistom zimskom zraku pod vazdazelenim borovima."
               }
             },
             {
@@ -418,7 +480,8 @@
                 "de": "Das historische Gebäude wirkt in der Winterstille besonders edel.",
                 "hu": "A történelmi épület a téli csendben különösen nemesnek hat.",
                 "ro": "Clădirea istorică pare deosebit de nobilă în liniștea iernii.",
-                "en": "The historic building looks particularly noble in the winter silence."
+                "en": "The historic building looks particularly noble in the winter silence.",
+                "hr": "Povijesna zgrada izgleda posebno plemenito u zimskoj tišini."
               }
             },
             {
@@ -427,7 +490,8 @@
                 "de": "Fragen Sie nach Saisongerichten wie Eintöpfen oder Wild.",
                 "hu": "Kérjen szezonális ételeket, például egytálételeket vagy vadat.",
                 "ro": "Cereți preparate de sezon, cum ar fi tocănițele sau vânatul.",
-                "en": "Ask for seasonal dishes like stews or game meat."
+                "en": "Ask for seasonal dishes like stews or game meat.",
+                "hr": "Pitajte za sezonska jela poput variva ili divljači."
               }
             },
             {
@@ -436,7 +500,8 @@
                 "de": "Die Bura kann hier sehr stark wehen, schützen Sie Ihre Ohren.",
                 "hu": "A Bóra itt nagyon erősen fújhat, védje a füleit.",
                 "ro": "Vântul Bura poate sufla foarte tare aici, protejați-vă urechile.",
-                "en": "The Bura wind can blow very strongly here, protect your ears."
+                "en": "The Bura wind can blow very strongly here, protect your ears.",
+                "hr": "Bura ovdje može puhati vrlo snažno, zaštitite uši."
               }
             },
             {
@@ -445,7 +510,8 @@
                 "de": "Der Sonnenuntergang findet im Winter bereits gegen 16:30 Uhr statt.",
                 "hu": "Télen a naplemente már 16:30 körül bekövetkezik.",
                 "ro": "Apusul are loc în jurul orei 16:30 în timpul iernii.",
-                "en": "Sunset occurs as early as 4:30 PM in winter."
+                "en": "Sunset occurs as early as 4:30 PM in winter.",
+                "hr": "Zalazak sunca zimi nastupa već oko 16:30."
               }
             }
           ],
@@ -477,6 +543,13 @@
               "Many cafes have limited opening hours in winter.",
               "The air is extremely clear and healthy during north winds (Bura).",
               "Wear a windproof hat by the sea."
+            ],
+            "hr": [
+              "Odjenite se slojevito protiv vjetra.",
+              "Pripazite na rano vrijeme zalaska sunca.",
+              "Mnogi kafići imaju ograničeno radno vrijeme zimi.",
+              "Zrak je izuzetno čist i zdrav tijekom bure.",
+              "Nosite kapu koja štiti od vjetra uz more."
             ]
           }
         }
@@ -505,7 +578,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "A túra kiindulópontja a faluközpontban.",
             "ro": "Punctul de plecare în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "hr": "Polazišna točka u centru."
           }
         },
         {
@@ -523,7 +597,8 @@
             "de": "Kurze Pause im Grünen.",
             "hu": "Rövid megálló a zöldben.",
             "ro": "Scurtă pauză în natură.",
-            "en": "Brief break in the greenery."
+            "en": "Brief break in the greenery.",
+            "hr": "Kratki predah u zelenilu."
           }
         },
         {
@@ -541,7 +616,8 @@
             "de": "Ein moderater Anstieg mit fantastischem Panoramablick.",
             "hu": "Mérsékelt emelkedő fantasztikus panorámával a csúcson.",
             "ro": "O urcare moderată cu o vedere panoramică fantastică.",
-            "en": "A moderate climb with a fantastic panoramic view."
+            "en": "A moderate climb with a fantastic panoramic view.",
+            "hr": "Umjeren uspon s fantastičnim panoramskim pogledom."
           }
         },
         {
@@ -559,7 +635,8 @@
             "de": "Stärken Sie sich nach der Fahrt.",
             "hu": "Frissüljön fel a tekerés után.",
             "ro": "Reîncărcați-vă după plimbare.",
-            "en": "Recharge after the ride."
+            "en": "Recharge after the ride.",
+            "hr": "Napunite baterije nakon vožnje."
           }
         },
         {
@@ -577,7 +654,8 @@
             "de": "Badezeit.",
             "hu": "Ideje a csobbanásnak.",
             "ro": "Timp pentru înot.",
-            "en": "Time for a swim."
+            "en": "Time for a swim.",
+            "hr": "Vrijeme za kupanje."
           }
         },
         {
@@ -595,7 +673,8 @@
             "de": "Entspannung am Wasser.",
             "hu": "Lazítás a vízparton.",
             "ro": "Relaxare la malul apei.",
-            "en": "Relaxing by the water."
+            "en": "Relaxing by the water.",
+            "hr": "Opuštanje uz vodu."
           }
         },
         {
@@ -613,7 +692,8 @@
             "de": "Abschluss im Herrenhaus.",
             "hu": "Zárjuk a napot az úri rezidenciánál.",
             "ro": "Încheiere la reședința nobiliară.",
-            "en": "End the day at the manor house."
+            "en": "End the day at the manor house.",
+            "hr": "Završite dan kod ljetnikovca."
           }
         }
       ],
@@ -621,7 +701,8 @@
         "de": "Entdecken Sie die Umgebung auf zwei Rädern. Nach der Besichtigung der Altstadt radeln Sie hinauf zum Aussichtspunkt Rogovo, von wo aus Sie den gesamten Pasman-Kanal überblicken können. Die Abfahrt führt Sie direkt zurück zum Hafen für ein stärkendes Mittagessen. Den Nachmittag verbringen Sie am Strand, bevor Sie gemütlich zum Borelli-Anwesen zurückkehren.",
         "hu": "Fedezze fel a környéket két keréken. Az óváros megismerése után tekerjen fel a Rogovo kilátóhoz, ahonnan belátni az egész Pašman-csatornát. A lejtmenet után a kikötőben ebédelünk, majd a délutáni pihenést az Iza Banja strandon töltjük, végül a Borelli-birtoknál fejezzük be a túrát.",
         "ro": "Descoperiți împrejurimile pe două roți. După explorarea centrului vechi, pedalați până la punctul de belvedere Rogovo, de unde puteți vedea întregul canal Pašman. Coborârea vă duce direct în port pentru prânz. Petreceți după-amiaza pe plajă înainte de a reveni la domeniul Borelli.",
-        "en": "Explore the surroundings on two wheels. After seeing the old town, cycle up to the Rogovo viewpoint for a panoramic view of the Pašman Channel. The descent leads you back to the harbor for lunch. Spend the afternoon at the beach before a final visit to the Borelli estate."
+        "en": "Explore the surroundings on two wheels. After seeing the old town, cycle up to the Rogovo viewpoint for a panoramic view of the Pašman Channel. The descent leads you back to the harbor for lunch. Spend the afternoon at the beach before a final visit to the Borelli estate.",
+        "hr": "Istražite okolicu na dva kotača. Nakon razgledavanja stare jezgre, odvezite se do vidikovca Rogovo za panoramski pogled na Pašmanski kanal. Spust vas vodi natrag u luku na ručak. Poslijepodne provedite na plaži prije završnog posjeta imanju Borelli."
       },
       "gastro_picks": {
         "de": [
@@ -646,6 +727,12 @@
           {
             "name": "Black Risotto",
             "tip": "Cuttlefish risotto, a coastal specialty."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Crni rižot",
+            "tip": "Rižot od sipa, obalni specijalitet."
           }
         ]
       },
@@ -677,6 +764,13 @@
             "tip": "Vast views and peace.",
             "emoji": "🌄"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vrh Rogovo",
+            "tip": "Prostrani vidici i mir.",
+            "emoji": "🌄"
+          }
         ]
       },
       "shopping_picks": {
@@ -703,6 +797,12 @@
             "name": "Local Honey",
             "tip": "Nearby sage honey."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni med",
+            "tip": "Med od kadulje iz obližnjih krajeva."
+          }
         ]
       },
       "tips": {
@@ -721,6 +821,10 @@
         "en": [
           "The route to Rogovo requires some fitness.",
           "Use the bike paths along the coast."
+        ],
+        "hr": [
+          "Ruta do Rogova zahtijeva određenu kondiciju.",
+          "Koristite biciklističke staze uz obalu."
         ]
       },
       "variants": {
@@ -729,7 +833,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine ruhige Kulisse. Starten Sie im Ort und fahren Sie vorsichtig zum Aussichtspunkt Rogovo; der Aufstieg hält Sie warm. Nach dem Mittagessen im Hafen führt der Weg am Strand Iza Banja entlang. Die salzige Gischt vermischt sich mit dem Regen für ein echtes Küstenerlebnis. Beenden Sie die Tour am Herrenhaus Borelli, bevor es zu nass wird.",
             "hu": "Az esőben való kerékpározás óvatosságot igényel, de nyugodt környezetet biztosít. Kezdje a faluban, és tekerjen óvatosan a Rogovo kilátóhoz; a felfelé vezető út melegen tartja. A kikötői ebéd után az út az Iza Banja strand mentén halad. A sós permet keveredik az esővel az igazi tengerparti élményért. Zárja a túrát a Borelli-kúriánál, mielőtt túl vizes lenne.",
             "ro": "O plimbare cu bicicleta pe ploaie necesită prudență, dar oferă un cadru liniștit. Începeți în localitate și pedalați cu atenție spre punctul de belvedere Rogovo. După prânzul în port, traseul trece pe lângă plaja Iza Banja. Aerosolii sărați se amestecă cu ploaia pentru o experiență autentică. Încheiați turul la conacul Borelli înainte de a vă uda prea tare.",
-            "en": "Cycling in the rain requires caution but offers a quiet backdrop. Start in the village and ride carefully to the Rogovo viewpoint; the climb will keep you warm. After lunch in the harbor, the route leads along Iza Banja beach. The salty spray mixes with the rain for a true coastal experience. End the tour at the Borelli mansion before it gets too wet."
+            "en": "Cycling in the rain requires caution but offers a quiet backdrop. Start in the village and ride carefully to the Rogovo viewpoint; the climb will keep you warm. After lunch in the harbor, the route leads along Iza Banja beach. The salty spray mixes with the rain for a true coastal experience. End the tour at the Borelli mansion before it gets too wet.",
+            "hr": "Bicikliranje na kiši zahtijeva oprez, ali nudi mirnu kulisu. Krenite iz mjesta i pažljivo se vozite do vidikovca Rogovo; uspon će vas ugrijati. Nakon ručka u luci, ruta vodi uz plažu Iza Banja. Miris soli miješa se s kišom za pravi doživljaj obale. Završite turu kod ljetnikovca Borelli prije nego što postane premokro."
           },
           "stops": [
             {
@@ -738,7 +843,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Vordach ab, um den Sattel trocken zu halten.",
                 "hu": "Parkoljon az előtető alatt, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați sub copertină pentru a păstra șaua uscată.",
-                "en": "Park under the eave to keep your saddle dry."
+                "en": "Park under the eave to keep your saddle dry.",
+                "hr": "Parkirajte pod nadstrešnicom kako bi sjedalo ostalo suho."
               }
             },
             {
@@ -747,7 +853,8 @@
                 "de": "Vorsicht vor nassem Laub auf den Wegen.",
                 "hu": "Vigyázzon az utakon lévő nedves levelekre.",
                 "ro": "Atenție la frunzele ude de pe poteci.",
-                "en": "Watch out for wet leaves on the paths."
+                "en": "Watch out for wet leaves on the paths.",
+                "hr": "Pazite na mokro lišće na stazama."
               }
             },
             {
@@ -756,7 +863,8 @@
                 "de": "Die Abfahrt bei Regen erfordert erhöhte Bremsbereitschaft.",
                 "hu": "Az esőben való leereszkedés fokozott fékkészenlétet igényel.",
                 "ro": "Coborârea pe ploaie necesită o atenție sporită la frânare.",
-                "en": "Descending in the rain requires increased braking readiness."
+                "en": "Descending in the rain requires increased braking readiness.",
+                "hr": "Spuštanje na kiši zahtijeva povećanu spremnost za kočenje."
               }
             },
             {
@@ -765,7 +873,8 @@
                 "de": "Nutzen Sie die Pause, um Ihre Kleidung zu trocknen.",
                 "hu": "Használja ki a szünetet a ruhái megszárítására.",
                 "ro": "Folosiți pauza pentru a vă usca hainele.",
-                "en": "Use the break to dry your clothes."
+                "en": "Use the break to dry your clothes.",
+                "hr": "Iskoristite pauzu da osušite odjeću."
               }
             },
             {
@@ -774,7 +883,8 @@
                 "de": "Fahren Sie langsam auf sandigen oder schlammigen Abschnitten.",
                 "hu": "Hajtson lassan a homokos vagy sáros szakaszokon.",
                 "ro": "Pedalați încet pe porțiunile cu nisip sau noroi.",
-                "en": "Ride slowly on sandy or muddy sections."
+                "en": "Ride slowly on sandy or muddy sections.",
+                "hr": "Vozite polako na pješčanim ili blatnim dionicama."
               }
             },
             {
@@ -783,7 +893,8 @@
                 "de": "Ein heißer Espresso wirkt Wunder gegen die Kälte.",
                 "hu": "Egy forró eszpresszó csodákra képes a hideg ellen.",
                 "ro": "Un espresso fierbinte face minuni împotriva frigului.",
-                "en": "A hot espresso works wonders against the cold."
+                "en": "A hot espresso works wonders against the cold.",
+                "hr": "Vrući espresso čini čuda protiv hladnoće."
               }
             },
             {
@@ -792,7 +903,8 @@
                 "de": "Kurzer Stopp für ein Foto, dann ab ins Trockene.",
                 "hu": "Rövid megálló egy fotóra, aztán irány a száraz hely.",
                 "ro": "Oprire scurtă pentru o poză, apoi mergeți la adăpost.",
-                "en": "Short stop for a photo, then head to the dry."
+                "en": "Short stop for a photo, then head to the dry.",
+                "hr": "Kratko zaustavljanje za fotografiju, a zatim u suho."
               }
             }
           ],
@@ -824,6 +936,13 @@
               "Mudguards prevent dirt from splashing on your clothes.",
               "Avoid unpaved forest paths during heavy rain.",
               "Wipe the saddle dry after every stop."
+            ],
+            "hr": [
+              "Provjerite kočnice prije polaska.",
+              "Nosite fluorescentnu kabanicu za bolju vidljivost.",
+              "Blatobrani sprječavaju prskanje prljavštine po odjeći.",
+              "Izbjegavajte neasfaltirane šumske staze tijekom jake kiše.",
+              "Obrišite sjedalo nakon svakog zaustavljanja."
             ]
           }
         },
@@ -832,7 +951,8 @@
             "de": "Winterliches Radfahren in Dalmatien ist erfrischend. Der Anstieg nach Rogovo ist ideal, um die Durchblutung anzuregen und mit einem Panoramablick belohnt zu werden. Mittags lockt der Hafen mit warmen Speisen. Die flache Strecke am Strand Iza Banja entlang bietet die beste Sicht auf die gegenüberliegenden Inseln der Kornaten. Denken Sie daran, die Tour rechtzeitig vor dem frühen Sonnenuntergang zu beenden.",
             "hu": "A téli kerékpározás Dalmáciában frissítő élmény. A Rogovo felé vezető emelkedő ideális a vérkeringés felpezsdítésére, a jutalom pedig a panoráma. Ebédidőben a kikötő hívogat meleg ételekkel. Az Iza Banja strand menti sík szakasz kínálja a legjobb kilátást a szemközti Kornati-szigetekre. Ne felejtse el időben, a korai naplemente előtt befejezni a túrát.",
             "ro": "Ciclismul de iarnă în Dalmația este revigorant. Urcarea spre Rogovo este ideală pentru a vă pune sângele în mișcare, fiind răsplătită cu o vedere panoramică. La prânz, portul vă atrage cu mâncăruri calde. Traseul plat de-a lungul plajei Iza Banja oferă cea mai bună vedere spre insulele Kornati. Nu uitați să încheiați turul înainte de apusul timpuriu.",
-            "en": "Winter cycling in Dalmatia is refreshing. The climb to Rogovo is ideal for getting your circulation going, rewarded with a panoramic view. At noon, the harbor attracts with warm meals. The flat route along Iza Banja beach offers the best views of the opposite Kornati islands. Remember to finish the tour in time before the early sunset."
+            "en": "Winter cycling in Dalmatia is refreshing. The climb to Rogovo is ideal for getting your circulation going, rewarded with a panoramic view. At noon, the harbor attracts with warm meals. The flat route along Iza Banja beach offers the best views of the opposite Kornati islands. Remember to finish the tour in time before the early sunset.",
+            "hr": "Zimsko bicikliranje u Dalmaciji je osvježavajuće. Uspon na Rogovo idealan je za poticanje cirkulacije, nagrađen panoramskim pogledom. U podne luka privlači toplim obrocima. Ravna ruta uz plažu Iza Banja nudi najbolje poglede na nasuprotne Kornate. Ne zaboravite završiti turu na vrijeme prije ranog zalaska sunca."
           },
           "stops": [
             {
@@ -841,7 +961,8 @@
                 "de": "Die Sonne steht tief, achten Sie auf Blendung beim Fahren.",
                 "hu": "A nap alacsonyan jár, ügyeljen a vakításra vezetés közben.",
                 "ro": "Soarele este jos, atenție la orbire în timp ce pedalați.",
-                "en": "The sun is low, watch out for glare while riding."
+                "en": "The sun is low, watch out for glare while riding.",
+                "hr": "Sunce je nisko, pazite na odsjaj tijekom vožnje."
               }
             },
             {
@@ -850,7 +971,8 @@
                 "de": "Im Schatten der Bäume kann es deutlich kühler sein.",
                 "hu": "A fák árnyékában jelentősen hűvösebb lehet.",
                 "ro": "În umbra copacilor poate fi mult mai răcoare.",
-                "en": "It can be significantly cooler in the shade of the trees."
+                "en": "It can be significantly cooler in the shade of the trees.",
+                "hr": "U hladu drveća može biti znatno hladnije."
               }
             },
             {
@@ -859,7 +981,8 @@
                 "de": "Ziehen Sie für die Abfahrt eine winddichte Schicht an.",
                 "hu": "A leereszkedéshez vegyen fel egy szélálló réteget.",
                 "ro": "Puneți un strat rezistent la vânt pentru coborâre.",
-                "en": "Put on a windproof layer for the descent."
+                "en": "Put on a windproof layer for the descent.",
+                "hr": "Obucite sloj otporan na vjetar za spust."
               }
             },
             {
@@ -868,7 +991,8 @@
                 "de": "Ein warmer Tee ist der ideale Begleiter zur Pause.",
                 "hu": "Egy meleg tea ideális kísérő a szünetben.",
                 "ro": "Un ceai cald este însoțitorul ideal pentru pauză.",
-                "en": "A warm tea is the ideal companion for the break."
+                "en": "A warm tea is the ideal companion for the break.",
+                "hr": "Topli čaj je idealan pratitelj za pauzu."
               }
             },
             {
@@ -877,7 +1001,8 @@
                 "de": "Genießen Sie die Ruhe am sonst so belebten Strand.",
                 "hu": "Élvezze a nyugalmat az egyébként forgalmas strandon.",
                 "ro": "Bucurați-vă de liniște pe plaja altfel aglomerată.",
-                "en": "Enjoy the tranquility on the otherwise busy beach."
+                "en": "Enjoy the tranquility on the otherwise busy beach.",
+                "hr": "Uživajte u miru na inače prometnoj plaži."
               }
             },
             {
@@ -886,7 +1011,8 @@
                 "de": "Die Wintersonne im Gesicht gibt neue Energie.",
                 "hu": "A téli napsütés az arcán új energiát ad.",
                 "ro": "Soarele de iarnă pe față vă oferă energie nouă.",
-                "en": "The winter sun on your face gives new energy."
+                "en": "The winter sun on your face gives new energy.",
+                "hr": "Zimsko sunce na licu daje novu energiju."
               }
             },
             {
@@ -895,7 +1021,8 @@
                 "de": "Achten Sie auf funktionierende Lichter für den Rückweg.",
                 "hu": "Ügyeljen a működő lámpákra a visszúton.",
                 "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
-                "en": "Make sure your lights are working for the way back."
+                "en": "Make sure your lights are working for the way back.",
+                "hr": "Provjerite rade li vam svjetla za povratak."
               }
             }
           ],
@@ -927,6 +1054,13 @@
               "Use the midday sun for the longest stages.",
               "Ride in the dark only with lights.",
               "Humidity is often lower in winter."
+            ],
+            "hr": [
+              "Nosite rukavice otporne na vjetar protiv hladnoće.",
+              "Termo donje rublje će vas grijati tijekom vožnje.",
+              "Iskoristite podnevno sunce za najduže dionice.",
+              "Vozite po mraku samo sa svjetlima.",
+              "Vlažnost zraka je zimi često niža."
             ]
           }
         }
@@ -955,7 +1089,8 @@
             "de": "Parken Sie zentral und erkunden Sie den Park.",
             "hu": "Parkoljon a központban, és fedezze fel a parkot.",
             "ro": "Parcați în centru și explorați parcul.",
-            "en": "Park centrally and explore the garden."
+            "en": "Park centrally and explore the garden.",
+            "hr": "Parkirajte u centru i istražite vrt."
           }
         },
         {
@@ -973,7 +1108,8 @@
             "de": "Kurzer Spaziergang vom Park.",
             "hu": "Rövid séta a parktól.",
             "ro": "Scurtă plimbare de la parc.",
-            "en": "Short walk from the park."
+            "en": "Short walk from the park.",
+            "hr": "Kratka šetnja od parka."
           }
         },
         {
@@ -991,7 +1127,8 @@
             "de": "Fahrt auf den Hügel für das beste Panorama.",
             "hu": "Autózzon fel a dombra a legjobb panorámáért.",
             "ro": "Conduceți până pe deal pentru cea mai bună panoramă.",
-            "en": "Drive up the hill for the best panorama."
+            "en": "Drive up the hill for the best panorama.",
+            "hr": "Odvezite se uz brdo za najbolju panoramu."
           }
         },
         {
@@ -1009,7 +1146,8 @@
             "de": "Zurück im Zentrum für Kultur.",
             "hu": "Vissza a központba egy kis kultúráért.",
             "ro": "Înapoi în centru pentru cultură.",
-            "en": "Back in the center for a bit of culture."
+            "en": "Back in the center for a bit of culture.",
+            "hr": "Povratak u centar radi malo kulture."
           }
         },
         {
@@ -1027,7 +1165,8 @@
             "de": "Genießen Sie lokale Weine.",
             "hu": "Kóstolja meg a helyi borokat.",
             "ro": "Degustați vinurile locale.",
-            "en": "Enjoy some local wines."
+            "en": "Enjoy some local wines.",
+            "hr": "Uživajte u lokalnim vinima."
           }
         },
         {
@@ -1045,7 +1184,8 @@
             "de": "Baden und Entspannen.",
             "hu": "Fürdőzés és pihenés.",
             "ro": "Înot și relaxare.",
-            "en": "Swimming and relaxing."
+            "en": "Swimming and relaxing.",
+            "hr": "Kupanje i opuštanje."
           }
         },
         {
@@ -1063,7 +1203,8 @@
             "de": "Letzter Spaziergang.",
             "hu": "Utolsó séta a parton.",
             "ro": "Ultima plimbare pe faleză.",
-            "en": "Final stroll along the shore."
+            "en": "Final stroll along the shore.",
+            "hr": "Završna šetnja uz obalu."
           }
         }
       ],
@@ -1071,7 +1212,8 @@
         "de": "Mit dem Auto erreichen Sie bequem sowohl die Sehenswürdigkeiten im Zentrum als auch den höher gelegenen Punkt Rogovo. Beginnen Sie im Park Borelli, fahren Sie dann für den Ausblick nach Rogovo und kehren Sie für das Mittagessen und einen entspannten Nachmittag am Strand Iza Banja in den Ort zurück.",
         "hu": "Autóval kényelmesen felfedezheti a központi látnivalókat és a falu feletti Rogovo dombot is. Kezdje a Borelli-parkban, tegyen egy kitérőt a panorámáért, majd térjen vissza a tengerpartra egy ízletes ebédre és egy hosszú délutáni strandolásra az Iza Banja parton.",
         "ro": "Cu mașina puteți ajunge confortabil atât la obiectivele din centru, cât și la punctul de belvedere Rogovo. Începeți în parcul Borelli, apoi conduceți pentru vedere la Rogovo și reveniți în localitate pentru prânz și o după-amiază relaxantă pe plaja Iza Banja.",
-        "en": "By car, you can comfortably reach both the central sights and the higher Rogovo point. Start in Borelli Park, then drive for the views to Rogovo, and return to the village for lunch and a relaxing afternoon at Iza Banja beach."
+        "en": "By car, you can comfortably reach both the central sights and the higher Rogovo point. Start in Borelli Park, then drive for the views to Rogovo, and return to the village for lunch and a relaxing afternoon at Iza Banja beach.",
+        "hr": "Automobilom možete udobno doći i do središnjih znamenitosti i do više točke Rogovo. Započnite u parku Borelli, zatim se odvezite do Rogova radi pogleda, te se vratite u mjesto na ručak i opuštajuće poslijepodne na plaži Iza Banja."
       },
       "gastro_picks": {
         "de": [
@@ -1096,6 +1238,12 @@
           {
             "name": "Maraschino",
             "tip": "Famous liqueur from the nearby Zadar region."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Maraschino",
+            "tip": "Poznati liker iz obližnje zadarske regije."
           }
         ]
       },
@@ -1127,6 +1275,13 @@
             "tip": "Quiet stroll after dark.",
             "emoji": "🌙"
           }
+        ],
+        "hr": [
+          {
+            "name": "Riva noću",
+            "tip": "Mirna šetnja nakon mraka.",
+            "emoji": "🌙"
+          }
         ]
       },
       "shopping_picks": {
@@ -1153,6 +1308,12 @@
             "name": "Pag Cheese",
             "tip": "Famous sheep cheese from the island of Pag."
           }
+        ],
+        "hr": [
+          {
+            "name": "Paški sir",
+            "tip": "Poznati ovčji sir s otoka Paga."
+          }
         ]
       },
       "tips": {
@@ -1171,6 +1332,10 @@
         "en": [
           "Parking is available at the harbor and near the beaches.",
           "The roads to Rogovo are narrow but paved."
+        ],
+        "hr": [
+          "Parking je dostupan u luci i u blizini plaža.",
+          "Ceste do Rogova su uske, ali asfaltirane."
         ]
       },
       "variants": {
@@ -1179,7 +1344,8 @@
             "de": "Mit dem Auto ist Sveti Filip i Jakov auch bei Regen komfortabel zu erkunden. Beginnen Sie beim Park Borelli, wo das Auto in der Nähe geparkt werden kann. Die Fahrt zum Rogovo Aussichtspunkt bietet dramatische Ausblicke auf die stürmische Adria. Genießen Sie ein ausgiebiges Mittagessen im Ort, während der Regen gegen die Fenster prasselt. Die Küstenstraße eignet sich perfekt für eine entspannte Panoramafahrt am Nachmittag.",
             "hu": "Autóval Sveti Filip i Jakov esőben is kényelmesen felfedezhető. Kezdje a Borelli-parknál, ahol a közelben parkolhat. A Rogovo kilátóhoz vezető út drámai kilátást nyújt a viharos Adriára. Élvezze a bőséges ebédet a faluban, miközben az eső kopog az ablakon. A tengerparti út tökéletes egy pihentető panorámaautózáshoz délután.",
             "ro": "Cu mașina, Sveti Filip i Jakov este confortabil de explorat chiar și pe ploaie. Începeți la Parcul Borelli, unde puteți parca în apropiere. Drumul spre punctul Rogovo oferă vederi dramatice asupra Adriaticii furtunoase. Bucurați-vă de un prânz lung în localitate. Șoseaua de coastă este perfectă pentru o plimbare panoramică relaxată după-amiaza.",
-            "en": "By car, Sveti Filip i Jakov is comfortable to explore even in the rain. Start at Park Borelli, where you can park nearby. The drive to the Rogovo viewpoint offers dramatic views of the stormy Adriatic. Enjoy a hearty lunch in the village while the rain drums against the windows. The coastal road is perfect for a relaxed panoramic drive in the afternoon."
+            "en": "By car, Sveti Filip i Jakov is comfortable to explore even in the rain. Start at Park Borelli, where you can park nearby. The drive to the Rogovo viewpoint offers dramatic views of the stormy Adriatic. Enjoy a hearty lunch in the village while the rain drums against the windows. The coastal road is perfect for a relaxed panoramic drive in the afternoon.",
+            "hr": "Automobilom je Sveti Filip i Jakov ugodno istraživati čak i po kiši. Započnite kod parka Borelli, gdje možete parkirati u blizini. Vožnja do vidikovca Rogovo nudi dramatične poglede na olujni Jadran. Uživajte u obilnom ručku u mjestu dok kiša bubnja po prozorima. Obalna cesta savršena je za opuštenu panoramsku vožnju poslijepodne."
           },
           "stops": [
             {
@@ -1188,7 +1354,8 @@
                 "de": "Parken Sie am Eingang, um Laufwege im Regen zu minimieren.",
                 "hu": "Parkoljon a bejáratnál, hogy minimalizálja az esőben való gyaloglást.",
                 "ro": "Parcați la intrare pentru a minimiza mersul prin ploaie.",
-                "en": "Park at the entrance to minimize walking in the rain."
+                "en": "Park at the entrance to minimize walking in the rain.",
+                "hr": "Parkirajte na ulazu kako biste minimalno hodali po kiši."
               }
             },
             {
@@ -1197,7 +1364,8 @@
                 "de": "Ein tolles Fotomotiv direkt vom Parkplatz aus.",
                 "hu": "Remek fotótéma közvetlenül a parkolóból.",
                 "ro": "O oportunitate foto excelentă direct din parcare.",
-                "en": "A great photo opportunity directly from the parking lot."
+                "en": "A great photo opportunity directly from the parking lot.",
+                "hr": "Izvrsna prilika za fotografiju izravno s parkirališta."
               }
             },
             {
@@ -1206,7 +1374,8 @@
                 "de": "Bleiben Sie bei starkem Wind im Auto und genießen Sie die Aussicht.",
                 "hu": "Erős szélben maradjon az autóban, és onnan élvezze a kilátást.",
                 "ro": "Rămâneți în mașină în caz de vânt puternic și admirați vederea.",
-                "en": "Stay in the car during strong winds and enjoy the view from there."
+                "en": "Stay in the car during strong winds and enjoy the view from there.",
+                "hr": "Ostanite u autu tijekom jakog vjetra i uživajte u pogledu."
               }
             },
             {
@@ -1215,7 +1384,8 @@
                 "de": "Der Parkplatz ist nur wenige Schritte vom Eingang entfernt.",
                 "hu": "A parkoló csak néhány lépésre van a bejárattól.",
                 "ro": "Parcarea este la doar câțiva pași de intrare.",
-                "en": "The parking lot is just a few steps from the entrance."
+                "en": "The parking lot is just a few steps from the entrance.",
+                "hr": "Parkiralište je samo nekoliko koraka od ulaza."
               }
             },
             {
@@ -1224,7 +1394,8 @@
                 "de": "Warme, traditionelle Küche ist heute besonders wohltuend.",
                 "hu": "A meleg, hagyományos konyha ma különösen jól esik.",
                 "ro": "Bucătăria caldă, tradițională, este deosebit de binevenită astăzi.",
-                "en": "Warm, traditional cuisine is especially comforting today."
+                "en": "Warm, traditional cuisine is especially comforting today.",
+                "hr": "Topla, tradicionalna kuhinja danas je posebno ugodna."
               }
             },
             {
@@ -1233,7 +1404,8 @@
                 "de": "Beobachten Sie die Meeresgischt gemütlich aus dem trockenen Auto.",
                 "hu": "Figyelje a tengeri permetet kényelmesen a száraz autóból.",
                 "ro": "Urmăriți aerosolii marini confortabil din mașina uscată.",
-                "en": "Watch the sea spray comfortably from the dry car."
+                "en": "Watch the sea spray comfortably from the dry car.",
+                "hr": "Promatrajte morsku pjenu udobno iz suhog automobila."
               }
             },
             {
@@ -1242,7 +1414,8 @@
                 "de": "Kurzer Ausstieg für frische Meeresluft zwischen den Schauern.",
                 "hu": "Rövid kiszállás a friss tengeri levegőért a záporok között.",
                 "ro": "Ieșire scurtă pentru aer marin proaspăt între averse.",
-                "en": "Short exit for fresh sea air between showers."
+                "en": "Short exit for fresh sea air between showers.",
+                "hr": "Kratki izlazak na svježi morski zrak između pljuskova."
               }
             }
           ],
@@ -1274,6 +1447,13 @@
               "Use the air conditioning to defog the windows.",
               "Keep your headlights on at all times in the rain.",
               "An umbrella in the car is worth its weight in gold during stops."
+            ],
+            "hr": [
+              "Izbjegavajte parkiranje ispod velikih borova ako postoji opasnost od oluje.",
+              "Pazite na akvaplaning na obalnoj cesti.",
+              "Koristite klima uređaj za odmagljivanje stakala.",
+              "Uvijek držite upaljena svjetla na kiši.",
+              "Kišobran u autu vrijedi zlata tijekom zaustavljanja."
             ]
           }
         },
@@ -1282,7 +1462,8 @@
             "de": "Entdecken Sie den winterlichen Charme der Region bequem mit dem Auto. Die Fahrt zum Aussichtspunkt Rogovo bietet bei der oft klaren Winterluft eine unglaubliche Fernsicht bis tief ins Archipel. Mittags genießen Sie die Gastfreundschaft in einer beheizten Konoba im Zentrum. Am Nachmittag lädt die Küste zu kurzen Stopps ein, um die raue Schönheit der Adria ohne die Sommerhitze zu erleben. Der Tag endet mit einem weiten Blick auf den frühen Sonnenuntergang.",
             "hu": "Fedezze fel a régió téli báját kényelmesen, autóval. A Rogovo kilátóhoz vezető út a gyakran tiszta téli levegőben hihetetlen tálati kilátást nyújt mélyen a szigetvilágba. Ebédidőben élvezze a vendégszeretetet egy fűtött konobában a központban. Délután a tengerpart rövid megállókra hív, hogy megtapasztalja az Adria nyers szépségét a nyári hőség nélkül. A nap a korai naplemente pazar látványával zárul.",
             "ro": "Descoperiți farmecul iernatic al regiunii confortabil cu mașina. Drumul spre Rogovo oferă o vizibilitate incredibilă asupra arhipelagului în aerul curat de iarnă. La prânz, bucurați-vă de ospitalitate într-o konoba încălzită. După-amiaza, coasta vă invită la opriri scurte pentru a experimenta frumusețea brută a Adriaticii. Ziua se încheie cu o vedere panoramică asupra apusului timpuriu.",
-            "en": "Discover the winter charm of the region comfortably by car. The drive to the Rogovo viewpoint offers incredible distant views deep into the archipelago in the often clear winter air. At noon, enjoy the hospitality in a heated konoba in the center. In the afternoon, the coast invites for short stops to experience the raw beauty of the Adriatic without the summer heat. The day ends with a wide view of the early sunset."
+            "en": "Discover the winter charm of the region comfortably by car. The drive to the Rogovo viewpoint offers incredible distant views deep into the archipelago in the often clear winter air. At noon, enjoy the hospitality in a heated konoba in the center. In the afternoon, the coast invites for short stops to experience the raw beauty of the Adriatic without the summer heat. The day ends with a wide view of the early sunset.",
+            "hr": "Otkrijte zimski šarm regije udobno automobilom. Vožnja do vidikovca Rogovo nudi nevjerojatne vidike duboko u arhipelag na često čistom zimskom zraku. U podne uživajte u gostoprimstvu u grijanoj konobi u centru. Poslijepodne obala poziva na kratka zaustavljanja kako biste doživjeli sirovu ljepotu Jadrana bez ljetnih vrućina. Dan završava širokim pogledom na rani zalazak sunca."
           },
           "stops": [
             {
@@ -1291,7 +1472,8 @@
                 "de": "Die Anlage ist im Winter fast menschenleer und sehr fotogen.",
                 "hu": "A park télen szinte néptelen és nagyon fotogén.",
                 "ro": "Complexul este aproape pustiu iarna și foarte fotogenic.",
-                "en": "The grounds are almost deserted in winter and very photogenic."
+                "en": "The grounds are almost deserted in winter and very photogenic.",
+                "hr": "Tereni su zimi gotovo pusti i vrlo fotogenični."
               }
             },
             {
@@ -1300,7 +1482,8 @@
                 "de": "Bewundern Sie die Details der Fassade im klaren Winterlicht.",
                 "hu": "Csodálja meg a homlokzat részleteit a tiszta téli fényben.",
                 "ro": "Admirați detaliile fațadei în lumina clară de iarnă.",
-                "en": "Admire the details of the facade in the clear winter light."
+                "en": "Admire the details of the facade in the clear winter light.",
+                "hr": "Divite se detaljima pročelja na čistom zimskom svjetlu."
               }
             },
             {
@@ -1309,7 +1492,8 @@
                 "de": "Bester Zeitpunkt für Fernsicht-Fotos bei Nordwind.",
                 "hu": "A legjobb időpont a távlati fotókhoz északi szél idején.",
                 "ro": "Cel mai bun moment pentru fotografii la distanță în timpul vântului de nord.",
-                "en": "Best time for long-distance photos during north winds."
+                "en": "Best time for long-distance photos during north winds.",
+                "hr": "Najbolje vrijeme za fotografije dalekih vizura tijekom bure."
               }
             },
             {
@@ -1318,7 +1502,8 @@
                 "de": "Kurzer Besuch der historischen Kirche ohne Touristenströme.",
                 "hu": "Rövid látogatás a történelmi templomban turisták nélkül.",
                 "ro": "Vizită scurtă la biserica istorică fără fluxul de turiști.",
-                "en": "Short visit to the historic church without the tourist crowds."
+                "en": "Short visit to the historic church without the tourist crowds.",
+                "hr": "Kratki posjet povijesnoj crkvi bez turističkih gužvi."
               }
             },
             {
@@ -1327,7 +1512,8 @@
                 "de": "Probieren Sie lokale Spezialitäten der Wintersaison.",
                 "hu": "Kóstolja meg a téli szezon helyi különlegességeit.",
                 "ro": "Gustați specialitățile locale ale sezonului de iarnă.",
-                "en": "Try local specialties of the winter season."
+                "en": "Try local specialties of the winter season.",
+                "hr": "Probajte lokalne specijalitete zimske sezone."
               }
             },
             {
@@ -1336,7 +1522,8 @@
                 "de": "Ein einsamer Strandspaziergang ist im Winter besonders erholsam.",
                 "hu": "Egy magányos tengerparti séta télen különösen pihentető.",
                 "ro": "O plimbare solitară pe plajă este deosebit de relaxantă iarna.",
-                "en": "A lonely beach walk is particularly relaxing in winter."
+                "en": "A lonely beach walk is particularly relaxing in winter.",
+                "hr": "Usamljena šetnja plažom posebno opušta zimi."
               }
             },
             {
@@ -1345,7 +1532,8 @@
                 "de": "Genießen Sie den Sonnenuntergang direkt aus dem Auto.",
                 "hu": "Élvezze a naplementét közvetlenül az autóból.",
                 "ro": "Bucurați-vă de apus direct din mașină.",
-                "en": "Enjoy the sunset directly from your car."
+                "en": "Enjoy the sunset directly from your car.",
+                "hr": "Uživajte u zalasku sunca izravno iz automobila."
               }
             }
           ],
@@ -1377,6 +1565,13 @@
               "Preheat the car well before longer drives.",
               "Plan the route so you arrive before dark.",
               "Winter tires are rarely mandatory on the coast, but useful."
+            ],
+            "hr": [
+              "Ujutro pripazite na zaleđena mjesta u sjenovitim područjima.",
+              "Vidljivost na daljinu je zimi često bolja nego ljeti.",
+              "Dobro zagrijte automobil prije dužih vožnji.",
+              "Planirajte rutu tako da stignete prije mraka.",
+              "Zimske gume na obali rijetko su obvezne, ali su korisne."
             ]
           }
         }
@@ -1405,7 +1600,8 @@
             "de": "Zentraler Ankunftspunkt.",
             "hu": "Központi érkezési pont.",
             "ro": "Punct de sosire central.",
-            "en": "Central arrival point."
+            "en": "Central arrival point.",
+            "hr": "Središnja točka dolaska."
           }
         },
         {
@@ -1423,7 +1619,8 @@
             "de": "Entspannung in der Natur.",
             "hu": "Természetközeli pihenés.",
             "ro": "Relaxare în natură.",
-            "en": "Relaxing in nature."
+            "en": "Relaxing in nature.",
+            "hr": "Opuštanje u prirodi."
           }
         },
         {
@@ -1441,7 +1638,8 @@
             "de": "Historisches Erbe.",
             "hu": "Történelmi örökség.",
             "ro": "Moștenire istorică.",
-            "en": "Historical heritage."
+            "en": "Historical heritage.",
+            "hr": "Povijesna baština."
           }
         },
         {
@@ -1459,7 +1657,8 @@
             "de": "Regionale Küche genießen.",
             "hu": "Élvezze a tájegység ízeit.",
             "ro": "Savurați bucătăria regională.",
-            "en": "Enjoy regional cuisine."
+            "en": "Enjoy regional cuisine.",
+            "hr": "Uživajte u regionalnoj kuhinji."
           }
         },
         {
@@ -1477,7 +1676,8 @@
             "de": "Baden im sauberen Meer.",
             "hu": "Fürdőzés a tiszta tengerben.",
             "ro": "Înot în marea curată.",
-            "en": "Swimming in the clean sea."
+            "en": "Swimming in the clean sea.",
+            "hr": "Kupanje u čistom moru."
           }
         },
         {
@@ -1495,7 +1695,8 @@
             "de": "Abschluss an der Riva.",
             "hu": "Zárás a mólón.",
             "ro": "Final pe faleză.",
-            "en": "Final stop at the waterfront."
+            "en": "Final stop at the waterfront.",
+            "hr": "Završna stanica na rivi."
           }
         }
       ],
@@ -1503,7 +1704,8 @@
         "de": "Dieser Plan konzentriert sich auf die fußläufig erreichbaren Highlights im Zentrum, die ideal mit dem Bus aus umliegenden Städten erreichbar sind. Besuchen Sie die historischen Stätten, genießen Sie ein exzellentes Mittagessen und verbringen Sie einen entspannten Nachmittag am Strand, bevor Sie Ihre Heimreise antreten.",
         "hu": "Ez a terv a központban gyalogosan elérhető látnivalókra összpontosít, amelyek ideálisan megközelíthetők a környékbeli városokból érkező buszokkal. Ismerje meg a történelmi helyszíneket, ebédeljen egy kiváló vendéglőben, és pihenjen a strandon, mielőtt visszaindulna.",
         "ro": "Acest plan se concentrează pe punctele de interes accesibile pe jos din centru, ideale pentru cei care sosesc cu autobuzul din orașele învecinate. Vizitați siturile istorice, bucurați-vă de un prânz excelent și petreceți o după-amiază relaxantă pe plajă înainte de plecare.",
-        "en": "This plan focuses on the central highlights reachable on foot, ideal for those arriving by bus from neighboring towns. Visit the historical sites, enjoy an excellent lunch, and spend a relaxing afternoon at the beach before your return journey."
+        "en": "This plan focuses on the central highlights reachable on foot, ideal for those arriving by bus from neighboring towns. Visit the historical sites, enjoy an excellent lunch, and spend a relaxing afternoon at the beach before your return journey.",
+        "hr": "Ovaj plan fokusira se na središnje znamenitosti dostupne pješice, idealno za one koji dolaze autobusom iz susjednih gradova. Posjetite povijesna mjesta, uživajte u izvrsnom ručku i provedite opuštajuće poslijepodne na plaži prije povratka."
       },
       "gastro_picks": {
         "de": [
@@ -1528,6 +1730,12 @@
           {
             "name": "Pršut",
             "tip": "Famous Dalmatian air-dried ham."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pršut",
+            "tip": "Poznati dalmatinski pršut sušen na buri."
           }
         ]
       },
@@ -1559,6 +1767,13 @@
             "tip": "A quiet shaded spot in the heart of the village.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Središnji park",
+            "tip": "Mirno sjenovito mjesto u srcu mjesta.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1585,6 +1800,12 @@
             "name": "Postcards",
             "tip": "Local souvenirs at the kiosks."
           }
+        ],
+        "hr": [
+          {
+            "name": "Razglednice",
+            "tip": "Lokalni suveniri na kioscima."
+          }
         ]
       },
       "tips": {
@@ -1603,6 +1824,10 @@
         "en": [
           "The bus stop is on the main road, just minutes from the center.",
           "Check the Liburnija bus schedules."
+        ],
+        "hr": [
+          "Autobusna stanica je na glavnoj cesti, samo nekoliko minuta od centra.",
+          "Provjerite vozni red Liburnije."
         ]
       },
       "variants": {
@@ -1611,7 +1836,8 @@
             "de": "Nutzen Sie den öffentlichen Nahverkehr, um Sveti Filip i Jakov entspannt im Regen zu erleben. Die Busstationen bieten Schutz vor Güssen. Beginnen Sie bei der St. Rochus-Kirche und erkunden Sie den Park Borelli zwischen den Schauern. Ein ausgiebiges Mittagessen in der Nähe des Hafens ist der perfekte Zufluchtsort im Trockenen. Nachmittags bietet der Strand Iza Banja eine melancholische Schönheit, bevor Sie den Bus zurück nehmen.",
             "hu": "Használja a tömegközlekedést, hogy esőben is pihentetően fedezze fel Sveti Filip i Jakovot. A buszmegállók védelmet nyújtanak a záporok ellen. Kezdje a Szent Rókus-templomnál, és fedezze fel a Borelli-parkot a záporok között. Egy bőséges ebéd a kikötő közelében tökéletes száraz menedék. Délután az Iza Banja strand melankolikus szépséget áraszt, mielőtt visszabuszozna.",
             "ro": "Folosiți transportul public pentru a descoperi Sveti Filip i Jakov pe ploaie. Stațiile de autobuz oferă protecție împotriva averselor. Începeți la Biserica Sf. Rochus și explorați Parcul Borelli între ploi. Un prânz bogat lângă port este refugiul perfect. După-amiaza, plaja Iza Banja emană o frumusețe melancolică înainte de a lua autobuzul înapoi.",
-            "en": "Use public transport to discover Sveti Filip i Jakov relaxedly in the rain. Bus stations provide shelter from downpours. Start at St. Roch Church and explore Park Borelli between showers. A hearty lunch near the harbor is the perfect dry sanctuary. In the afternoon, Iza Banja beach radiates a melancholic beauty before you take the bus back."
+            "en": "Use public transport to discover Sveti Filip i Jakov relaxedly in the rain. Bus stations provide shelter from downpours. Start at St. Roch Church and explore Park Borelli between showers. A hearty lunch near the harbor is the perfect dry sanctuary. In the afternoon, Iza Banja beach radiates a melancholic beauty before you take the bus back.",
+            "hr": "Koristite javni prijevoz kako biste opušteno otkrili Sveti Filip i Jakov po kiši. Autobusne stanice pružaju zaklon od pljuskova. Započnite kod crkve sv. Roka i istražite park Borelli između pljuskova. Obilan ručak u blizini luke savršeno je suho utočište. Poslijepodne plaža Iza Banja zrači melankoličnom ljepotom prije povratka autobusom."
           },
           "stops": [
             {
@@ -1620,7 +1846,8 @@
                 "de": "Gute Anbindung an die Hauptstraße, ideal bei Regen.",
                 "hu": "Jó összeköttetés a főúttal, ideális esőben.",
                 "ro": "Conexiune bună la drumul principal, ideal pe ploaie.",
-                "en": "Good connection to the main road, ideal in the rain."
+                "en": "Good connection to the main road, ideal in the rain.",
+                "hr": "Dobra povezanost s glavnom cestom, idealno po kiši."
               }
             },
             {
@@ -1629,7 +1856,8 @@
                 "de": "Nutzen Sie die Wartehäuschen an den Haltestellen als Unterstand.",
                 "hu": "Használja a megállóhelyek váróit menedékként.",
                 "ro": "Folosiți adăposturile din stații pentru a vă feri de ploaie.",
-                "en": "Use the bus stop shelters as cover."
+                "en": "Use the bus stop shelters as cover.",
+                "hr": "Koristite nadstrešnice autobusnih stanica kao zaklon."
               }
             },
             {
@@ -1638,7 +1866,8 @@
                 "de": "Das Gebäude ist nur einen kurzen Fußweg von der Haltestelle entfernt.",
                 "hu": "Az épület csak egy rövid sétára van a megállótól.",
                 "ro": "Clădirea este la doar o scurtă plimbare de stație.",
-                "en": "The building is just a short walk from the stop."
+                "en": "The building is just a short walk from the stop.",
+                "hr": "Zgrada je na samo par minuta hoda od stanice."
               }
             },
             {
@@ -1647,7 +1876,8 @@
                 "de": "Viele Restaurants liegen direkt an der Transitroute.",
                 "hu": "Sok étterem közvetlenül a tranzitútvonal mentén található.",
                 "ro": "Multe restaurante sunt situate direct pe ruta de tranzit.",
-                "en": "Many restaurants are located directly along the transit route."
+                "en": "Many restaurants are located directly along the transit route.",
+                "hr": "Mnogi restorani nalaze se izravno uz rutu prijevoza."
               }
             },
             {
@@ -1656,7 +1886,8 @@
                 "de": "Verkürzen Sie den Aufenthalt am Strand bei starkem Regen.",
                 "hu": "Heves esőzéskor rövidítse le a strandon tartózkodást.",
                 "ro": "Scurtați șederea pe plajă în caz de ploaie torențială.",
-                "en": "Shorten your stay at the beach during heavy rain."
+                "en": "Shorten your stay at the beach during heavy rain.",
+                "hr": "Skratite boravak na plaži tijekom jake kiše."
               }
             },
             {
@@ -1665,7 +1896,8 @@
                 "de": "Prüfen Sie den Busfahrplan für die Rückfahrt im Voraus.",
                 "hu": "Előre ellenőrizze a buszmenetrendet a visszúthoz.",
                 "ro": "Verificați din timp programul autobuzelor pentru retur.",
-                "en": "Check the bus schedule for the return trip in advance."
+                "en": "Check the bus schedule for the return trip in advance.",
+                "hr": "Unaprijed provjerite vozni red za povratak."
               }
             }
           ],
@@ -1697,6 +1929,13 @@
               "Wear a light raincoat for the walk to the stop.",
               "The main station offers the best protection from rain.",
               "Use a transit app for real-time information."
+            ],
+            "hr": [
+              "Imajte spreman sitan novac ili kartu.",
+              "Autobusi mogu kasniti u lošim vremenskim uvjetima.",
+              "Nosite laganu kabanicu za hodanje do stanice.",
+              "Glavna stanica nudi najbolju zaštitu od kiše.",
+              "Koristite aplikaciju za prijevoz za informacije u stvarnom vremenu."
             ]
           }
         },
@@ -1705,7 +1944,8 @@
             "de": "Entdecken Sie die winterliche Ruhe dalmatinischer Küstenorte mit dem Bus. Sveti Filip i Jakov bietet im Winter eine entspannte Atmosphäre ohne die üblichen Besuchermassen. Beginnen Sie bei der historischen St. Rochus-Kirche und spazieren Sie durch den Park Borelli. Ein warmes Mittagessen im Ort stärkt Sie für den Nachmittag am Strand Iza Banja. Achten Sie auf die winterlichen Busfahrpläne, um den frühen Abend gemütlich ausklingen zu lassen.",
             "hu": "Fedezze fel a dalmát tengerparti falvak téli nyugalmát busszal. Sveti Filip i Jakov télen pihentető légkört kínál a megszokott tömeg nélkül. Kezdje a történelmi Szent Rókus-templomnál, és sétáljon át a Borelli-parkon. Egy meleg ebéd a faluban erőt ad az Iza Banja strandon töltött délutánhoz. Ügyeljen a téli buszmenetrendre, hogy kényelmesen zárhassa a kora estét.",
             "ro": "Descoperiți liniștea de iarnă a satelor de pe coasta dalmată cu autobuzul. Sveti Filip i Jakov oferă o atmosferă relaxată iarna, fără mulțimile obișnuite. Începeți la biserica istorică Sf. Rochus și plimbați-vă prin Parcul Borelli. Un prânz cald vă va da energie pentru după-amiaza pe plaja Iza Banja. Atenție la programele de iarnă ale autobuzelor pentru a încheia seara confortabil.",
-            "en": "Discover the winter tranquility of Dalmatian coastal villages by bus. Sveti Filip i Jakov offers a relaxed atmosphere in winter without the usual crowds. Start at the historic St. Roch Church and walk through Park Borelli. A warm lunch in the village strengthens you for the afternoon at Iza Banja beach. Be aware of the winter bus schedules to end the early evening comfortably."
+            "en": "Discover the winter tranquility of Dalmatian coastal villages by bus. Sveti Filip i Jakov offers a relaxed atmosphere in winter without the usual crowds. Start at the historic St. Roch Church and walk through Park Borelli. A warm lunch in the village strengthens you for the afternoon at Iza Banja beach. Be aware of the winter bus schedules to end the early evening comfortably.",
+            "hr": "Otkrijte zimski mir dalmatinskih obalnih mjesta autobusom. Sveti Filip i Jakov zimi nudi opuštenu atmosferu bez uobičajenih gužvi. Započnite kod povijesne crkve sv. Roka i prošetajte kroz park Borelli. Topli ručak u mjestu okrijepit će vas za poslijepodne na plaži Iza Banja. Pripazite na zimski vozni red autobusa kako biste ugodno završili večer."
           },
           "stops": [
             {
@@ -1714,7 +1954,8 @@
                 "de": "Die Haltestelle befindet sich in unmittelbarer Nähe zur Kirche.",
                 "hu": "A megálló közvetlenül a templom közelében található.",
                 "ro": "Stația se află în imediata apropiere a bisericii.",
-                "en": "The stop is located in the immediate vicinity of the church."
+                "en": "The stop is located in the immediate vicinity of the church.",
+                "hr": "Stanica se nalazi u neposrednoj blizini crkve."
               }
             },
             {
@@ -1723,7 +1964,8 @@
                 "de": "Im Winter ist der Park ein Ort absoluter Stille.",
                 "hu": "Télen a park az abszolút csend helyszíne.",
                 "ro": "Iarna, parcul este un loc de liniște absolută.",
-                "en": "In winter, the park is a place of absolute silence."
+                "en": "In winter, the park is a place of absolute silence.",
+                "hr": "Zimi je park mjesto apsolutne tišine."
               }
             },
             {
@@ -1732,7 +1974,8 @@
                 "de": "Kurze Wege zwischen den Sehenswürdigkeiten sparen Zeit im Freien.",
                 "hu": "A látnivalók közötti rövid utak időt takarítanak meg a szabadban.",
                 "ro": "Distanțele scurte între obiective economisesc timp în aer liber.",
-                "en": "Short distances between sights save time outdoors."
+                "en": "Short distances between sights save time outdoors.",
+                "hr": "Kratke udaljenosti između znamenitosti štede vrijeme vani."
               }
             },
             {
@@ -1741,7 +1984,8 @@
                 "de": "Suchen Sie ein Restaurant mit gemütlicher Innenheizung.",
                 "hu": "Keressen egy éttermet barátságos belső fűtéssel.",
                 "ro": "Căutați un restaurant cu încălzire interioară primitoare.",
-                "en": "Look for a restaurant with cozy indoor heating."
+                "en": "Look for a restaurant with cozy indoor heating.",
+                "hr": "Potražite restoran s ugodnim unutarnjim grijanjem."
               }
             },
             {
@@ -1750,7 +1994,8 @@
                 "de": "Die Busfrequenz kann im Winter reduziert sein.",
                 "hu": "A buszjáratok gyakorisága télen csökkenhet.",
                 "ro": "Frecvența autobuzelor poate fi redusă iarna.",
-                "en": "Bus frequency may be reduced in winter."
+                "en": "Bus frequency may be reduced in winter.",
+                "hr": "Učestalost autobusa može biti smanjena zimi."
               }
             },
             {
@@ -1759,7 +2004,8 @@
                 "de": "Warten Sie in einem nahegelegenen Café auf den nächsten Bus.",
                 "hu": "Várjon a következő buszra egy közeli kávézóban.",
                 "ro": "Așteptați următorul autobuz într-o cafenea din apropiere.",
-                "en": "Wait for the next bus in a nearby cafe."
+                "en": "Wait for the next bus in a nearby cafe.",
+                "hr": "Pričekajte sljedeći autobus u obližnjem kafiću."
               }
             }
           ],
@@ -1791,6 +2037,13 @@
               "Wear warm clothing for the waiting time at stops.",
               "Dalmatia is very affordable to travel by bus in winter.",
               "Plan buffer times for connections."
+            ],
+            "hr": [
+              "Pažljivo provjerite zimski vozni red (van sezone).",
+              "Zadnji autobusi često kreću ranije nego ljeti.",
+              "Obucite toplu odjeću za vrijeme čekanja na stanicama.",
+              "Putovanje autobusom u Dalmaciji zimi je vrlo povoljno.",
+              "Planirajte dodatno vrijeme za presjedanja."
             ]
           }
         }

@@ -36,7 +36,8 @@
             "de": "Beginnen Sie hier mit einem Frühstück am Wasser.",
             "hu": "Kezdje a napot egy vízparti reggelivel.",
             "ro": "Începeți ziua cu un mic dejun pe malul apei.",
-            "en": "Start your day with a waterfront breakfast."
+            "en": "Start your day with a waterfront breakfast.",
+            "hr": "Započnite dan doručkom uz obalu."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Beobachten Sie die starke Strömung unter der Brücke.",
             "hu": "Figyelje meg az erős áramlatot a híd alatt.",
             "ro": "Observați curentul puternic de sub pod.",
-            "en": "Watch the strong current flowing under the bridge."
+            "en": "Watch the strong current flowing under the bridge.",
+            "hr": "Promatrajte jaku struju koja teče ispod mosta."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Das Wasser ist hier wärmer als im großen See.",
             "hu": "A víz itt melegebb, mint a Nagy-tóban.",
             "ro": "Apa de aici este mai caldă decât în lacul mare.",
-            "en": "The water here is warmer than in the large lake."
+            "en": "The water here is warmer than in the large lake.",
+            "hr": "Voda je ovdje toplija nego u Velikom jezeru."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Nehmen Sie das Solarboot zur Insel.",
             "hu": "Szálljon fel a napelemes hajóra a szigetre.",
             "ro": "Luați barca solară către insulă.",
-            "en": "Take the solar-powered boat to the island."
+            "en": "Take the solar-powered boat to the island.",
+            "hr": "Idite solarnim brodom na otočić."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Bester Panoramablick über den gesamten Nationalpark.",
             "hu": "A legjobb panoráma az egész nemzeti parkra.",
             "ro": "Cea mai bună vedere panoramică asupra parcului.",
-            "en": "Best panoramic view over the entire national park."
+            "en": "Best panoramic view over the entire national park.",
+            "hr": "Najbolji panoramski pogled na cijeli nacionalni park."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Eine friedliche kleine Kirche nahe Pomena.",
             "hu": "Békés kis templom Pomena közelében.",
             "ro": "O biserică mică și liniștită lângă Pomena.",
-            "en": "A peaceful small church near Pomena."
+            "en": "A peaceful small church near Pomena.",
+            "hr": "Mirna crkvica u blizini Pomene."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Beginnen Sie Ihren Tag in der malerischen Pomena-Bucht, dem Tor zum Nationalpark. Ein kurzer Spaziergang führt Sie zur Mali Most, wo die Seen aufeinandertreffen.\n\nMittags erkunden Sie das Malo jezero und fahren mit dem Boot zur Insel der Heiligen Maria. Das dortige Benediktinerkloster ist eine Oase der Ruhe.\n\nAm Nachmittag wandern Sie hinauf zum Montokuc. Die Anstrengung wird mit einem atemberaubenden Blick auf die tiefblauen Seen und das offene Meer belohnt.\n\nDen Abend lassen Sie in Pomena ausklingen, nachdem Sie die kleine St.-Johannes-Kirche besucht haben. Genießen Sie die frische Meeresbrise am Hafen.",
         "hu": "Kezdje a napot a festői Pomena-öbölben, a nemzeti park kapujában. Rövid séta vezet a Mali Mosthoz, ahol a két tó vize találkozik.\n\nDélben fedezze fel a Kis-tavat, majd hajózzon át a Szent Mária-szigetre. Az itt található bencés kolostor a nyugalom igazi szigete.\n\nDélután túrázzon fel a Montokuc kilátóhoz. Az erőfeszítést kárpótolja a mélykék tavakra és a nyílt tengerre nyíló lélegzetelállító kilátás.\n\nAz estét töltse Pomenában, a Keresztelő Szent János-templom megtekintése után. Élvezze a friss tengeri szellőt a kikötőben.",
         "ro": "Începeți ziua în pitorescul golf Pomena, poarta de intrare în Parcul Național. O scurtă plimbare vă duce la Mali Most, unde se întâlnesc cele două lacuri.\n\nLa prânz, explorați Lacul Mic și luați barca spre Insula Sfânta Maria. Mănăstirea benedictină de acolo este o adevărată oază de liniște.\n\nDupă-amiaza, urcați spre punctul de belvedere Montokuc. Efortul va fi răsplătit cu o vedere uluitoare asupra lacurilor albastre și a mării deschise.\n\nÎncheiați seara în Pomena, după vizitarea micii biserici Sfântul Ioan. Bucurați-vă de briza proaspătă a mării în port.",
-        "en": "Start your day in the scenic Pomena Bay, the gateway to the National Park. A short walk leads you to Mali Most, where the two lakes meet.\n\nAt midday, explore Malo jezero and take a boat to St. Mary's Island. The Benedictine monastery there is a true oasis of peace.\n\nIn the afternoon, hike up to the Montokuc viewpoint. The effort is rewarded with a breathtaking view over the deep blue lakes and the open sea.\n\nFinish your evening in Pomena after visiting the small St. John's Church. Enjoy the fresh sea breeze at the harbor."
+        "en": "Start your day in the scenic Pomena Bay, the gateway to the National Park. A short walk leads you to Mali Most, where the two lakes meet.\n\nAt midday, explore Malo jezero and take a boat to St. Mary's Island. The Benedictine monastery there is a true oasis of peace.\n\nIn the afternoon, hike up to the Montokuc viewpoint. The effort is rewarded with a breathtaking view over the deep blue lakes and the open sea.\n\nFinish your evening in Pomena after visiting the small St. John's Church. Enjoy the fresh sea breeze at the harbor.",
+        "hr": "Započnite dan u slikovitoj uvali Pomena, vratima Nacionalnog parka. Kratka šetnja vodi vas do Malog mosta, mjesta gdje se spajaju dva jezera.\n\nU podne istražite Malo jezero i brodom se uputite na otočić Svete Marije. Tamošnji benediktinski samostan prava je oaza mira.\n\nPoslijepodne se popnite do vidikovca Montokuc. Trud će biti nagrađen očaravajućim pogledom na tamnoplava jezera i otvoreno more.\n\nVečer završite u Pomeni nakon posjeta crkvici svetog Ivana. Uživajte u svježem morskom povjetarcu u luci."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +207,16 @@
           {
             "name": "Konoba Herc",
             "tip": "Fresh seafood right in the Pomena harbor."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Mljetska peka",
+            "tip": "Hobotnica tradicionalno pripremljena pod pekom."
+          },
+          {
+            "name": "Konoba Herc",
+            "tip": "Svježi plodovi mora izravno u luci Pomena."
           }
         ]
       },
@@ -251,6 +268,18 @@
             "tip": "Hidden spot at the end of the large lake.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vrh Montokuc",
+            "tip": "Tišina i prostranstvo iznad borovih šuma.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uvala Soline",
+            "tip": "Skriveno mjesto na kraju Velikog jezera.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +322,16 @@
             "name": "Olive Oil",
             "tip": "Directly from the local island farmers."
           }
+        ],
+        "hr": [
+          {
+            "name": "Mljetski med",
+            "tip": "Poznat po aromi samoniklog bilja."
+          },
+          {
+            "name": "Maslinovo ulje",
+            "tip": "Izravno od lokalnih otočkih poljoprivrednika."
+          }
         ]
       },
       "tips": {
@@ -319,6 +358,12 @@
           "The National Park ticket includes one boat trip to the island.",
           "Bring swimwear, the lakes are wonderful for swimming.",
           "ATMs are sparse in Pomena, keep some cash handy."
+        ],
+        "hr": [
+          "Nosite čvrstu obuću za uspon na Montokuc.",
+          "Ulaznica za Nacionalni park uključuje jednu vožnju brodom do otočića.",
+          "Ponesite kupaći kostim, jezera su predivna za kupanje.",
+          "Bankomati su rijetki u Pomeni, imajte nešto gotovine kod sebe."
         ]
       },
       "variants": {
@@ -581,7 +626,8 @@
             "de": "Der Morgen in Pomena beginnt mit mystischem Nebel über der Bucht. Mittags bietet das Kloster auf der Insel St. Maria einen perfekten Rückzugsort vor dem Regen. Am Nachmittag schlendern wir unter dem dichten Blätterdach der Pinienwälder am Malo jezero entlang. Abends genießen wir die beruhigende Atmosphäre der regennassen Kais in der geschützten Bucht von Pomena.",
             "hu": "A reggel ködbe burkolózó öbölben indul, ahol az eső illata keveredik a fenyőével. Délben a Szent Mária-sziget kolostora nyújt menedéket a zápor elől. Délután a kis-tó partján, a fák védelmében sétálunk tovább a friss levegőn. Az estét a kikötő egyik fedett teraszán zárjuk, figyelve a tengerre hulló esőcseppeket a szürkületben.",
             "ro": "Dimineața începe cu o ceață mistică deasupra golfului Pomena, sub o ploaie ușoară. La prânz, mănăstirea de pe Insula Sfânta Maria oferă adăpostul perfect împotriva vremii. După-amiaza ne plimbăm pe lângă lacul Malo jezero, protejați de pădurea de pini. Seara ne relaxăm pe malul mării, ascultând sunetul ploii care cade peste portul liniștit.",
-            "en": "Morning starts with mystical mist over Pomena Bay under a gentle drizzle. At noon, the monastery on St. Mary's Island provides the perfect shelter from the rain. In the afternoon, we walk along the shores of Malo jezero, protected by the dense pine canopy. Evening is spent enjoying the soothing atmosphere of the rain-kissed docks in the protected harbor."
+            "en": "Morning starts with mystical mist over Pomena Bay under a gentle drizzle. At noon, the monastery on St. Mary's Island provides the perfect shelter from the rain. In the afternoon, we walk along the shores of Malo jezero, protected by the dense pine canopy. Evening is spent enjoying the soothing atmosphere of the rain-kissed docks in the protected harbor.",
+            "hr": "Jutro počinje mističnom maglicom iznad uvale Pomena pod laganom kišom. U podne, samostan na otočiću Svete Marije nudi savršen zaklon od kiše. Poslijepodne šetamo obalama Malog jezera, zaštićeni gustom krošnjom borova. Večer provodimo uživajući u umirujućoj atmosferi kišom natopljenih dokova u zaštićenoj luci."
           },
           "stops": [
             {
@@ -590,7 +636,8 @@
                 "de": "Die gepflasterte Uferpromenade kann bei Nässe rutschig sein; vorsichtig gehen.",
                 "hu": "A kövezett sétány nedvesen csúszós lehet, érdemes tapadós talpú cipőben érkezni.",
                 "ro": "Promenada pavată poate fi alunecoasă când este udă; mergeți cu atenție.",
-                "en": "The paved waterfront can be slippery when wet; walk with caution."
+                "en": "The paved waterfront can be slippery when wet; walk with caution.",
+                "hr": "Popločana obala može biti skliska kad je mokra; hodajte oprezno."
               }
             },
             {
@@ -599,7 +646,8 @@
                 "de": "Unter den Bäumen am Brückenkopf findet man kurzzeitig Schutz vor Schauern.",
                 "hu": "A híd melletti sűrű fenyvesek alatt rövid ideig menedéket találhatunk az eső elől.",
                 "ro": "Sub copacii de lângă pod puteți găsi adăpost temporar împotriva ploii.",
-                "en": "Dense pine trees near the bridge offer temporary shelter from sudden showers."
+                "en": "Dense pine trees near the bridge offer temporary shelter from sudden showers.",
+                "hr": "Gusti borovi blizu mosta nude privremeni zaklon od iznenadnih pljuskova."
               }
             },
             {
@@ -608,7 +656,8 @@
                 "de": "Der Waldweg bietet guten Schutz; die Farben der Seen sind im Regen besonders tief.",
                 "hu": "Az erdei út jól védett; a tavak színe esőben különlegesen mély türkizkékben játszik.",
                 "ro": "Drumul prin pădure oferă protecție; culorile lacului sunt intense pe timp de ploaie.",
-                "en": "The forest path provides good cover; the lake colors are uniquely deep in the rain."
+                "en": "The forest path provides good cover; the lake colors are uniquely deep in the rain.",
+                "hr": "Šumska staza nudi dobar zaklon; boje jezera su jedinstveno duboke na kiši."
               }
             },
             {
@@ -617,7 +666,8 @@
                 "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung des alten Klosters.",
                 "hu": "Használja ki az időt a régi kolostor és a templom belső tereinek felfedezésére.",
                 "ro": "Folosiți timpul pentru a vizita interiorul vechii mănăstiri și al bisericii.",
-                "en": "Take your time to explore the indoor halls of the ancient monastery and church."
+                "en": "Take your time to explore the indoor halls of the ancient monastery and church.",
+                "hr": "Odvojite vrijeme za istraživanje unutrašnjosti drevnog samostana i crkve."
               }
             },
             {
@@ -626,7 +676,8 @@
                 "de": "Vorsicht auf den Felsen! Bei starkem Regen ist die Sicht oft durch Wolken begrenzt.",
                 "hu": "Vigyázat a sziklákon! Erős esőben a kilátás korlátozott lehet a felhők miatt.",
                 "ro": "Atenție pe stânci! În caz de ploaie puternică, vizibilitatea poate fi limitată.",
-                "en": "Careful on the rocks! During heavy rain, visibility might be limited by low clouds."
+                "en": "Careful on the rocks! During heavy rain, visibility might be limited by low clouds.",
+                "hr": "Oprez na stijenama! Tijekom jake kiše vidljivost može biti ograničena niskim oblacima."
               }
             },
             {
@@ -635,7 +686,8 @@
                 "de": "Ein ruhiger Ort für Besinnung, während man auf das Ende des Regens wartet.",
                 "hu": "Csendes hely az elmélyülésre, miközben várjuk az eső elálltát a túra végén.",
                 "ro": "Un loc liniștit pentru reflecție în timp ce așteptați oprirea ploii.",
-                "en": "A peaceful place for reflection while waiting for the rain to stop."
+                "en": "A peaceful place for reflection while waiting for the rain to stop.",
+                "hr": "Mirno mjesto za razmišljanje dok čekate da kiša prestane."
               }
             }
           ],
@@ -667,6 +719,13 @@
               "Hiking shoes with good grip are mandatory on wet forest trails.",
               "The dense pine forests provide natural cover against light drizzle.",
               "Keep your electronics in waterproof bags during the boat crossings."
+            ],
+            "hr": [
+              "Nosite kvalitetnu kabanicu jer vjetar može pojačati u blizini jezera.",
+              "Brodovi za otočić Svete Marije voze po rasporedu i tijekom kiše.",
+              "Planinarske cipele s dobrim prianjanjem obavezne su na mokrim šumskim stazama.",
+              "Guste borove šume pružaju prirodnu zaštitu od lagane kiše.",
+              "Elektroniku držite u vodonepropusnim torbama tijekom vožnje brodom."
             ]
           }
         },
@@ -675,7 +734,8 @@
             "de": "Die Wintermorgensonne glitzert kühl auf der Adria in Pomena. Mittags herrscht auf der Insel St. Maria eine fast meditative Stille, fernab der Sommermassen. Am Nachmittag wandern wir durch die immergrünen Wälder, die auch im Winter ihren Duft verströmen. Da die Sonne bereits gegen 16:30 Uhr untergeht, genießen wir die blaue Stunde in der einsamen Bucht.",
             "hu": "A téli reggeli napsütés hűvösen csillog az Adrián Pomena öblében. Délben a Szent Mária-szigeten szinte meditatív csend honol, távol a nyári tömegtől. Délután az örökzöld fenyvesekben kirándulunk, amelyek télen is ontják illatukat. Mivel a nap már fél öt körül nyugszik, a kék órát már a kikötő magányában élvezhetjük.",
             "ro": "Soarele rece de iarnă strălucește peste Marea Adriatică în golful Pomena. La prânz, pe insula Sfânta Maria domnește o liniște meditativă, departe de agitație. După-amiaza explorăm pădurile veșnic verzi, care își păstrează parfumul și iarna. Deoarece soarele apune devreme, ne bucurăm de ora albastră în golful solitar.",
-            "en": "The winter morning sun glitters coolly on the Adriatic in Pomena Bay. At noon, St. Mary's Island is wrapped in meditative silence, far from the summer crowds. In the afternoon, we hike through evergreen forests that retain their scent even in winter. With sunset arriving around 4:30 PM, we enjoy the blue hour in the solitary harbor."
+            "en": "The winter morning sun glitters coolly on the Adriatic in Pomena Bay. At noon, St. Mary's Island is wrapped in meditative silence, far from the summer crowds. In the afternoon, we hike through evergreen forests that retain their scent even in winter. With sunset arriving around 4:30 PM, we enjoy the blue hour in the solitary harbor.",
+            "hr": "Zimsko jutarnje sunce hladno ljeska na Jadranu u uvali Pomena. U podne, otočić Svete Marije omotan je meditativnom tišinom, daleko od ljetnih gužvi. Poslijepodne planinarimo kroz zimzelene šume koje zadržavaju svoj miris čak i zimi. Budući da zalazak sunca stiže oko 16:30, uživamo u plavom satu u usamljenoj luci."
           },
           "stops": [
             {
@@ -684,7 +744,8 @@
                 "de": "Genießen Sie die Einsamkeit; fast alle Boote und Touristen sind verschwunden.",
                 "hu": "Élvezze a magányt; télen szinte az összes hajó és turista eltűnik az öbölből.",
                 "ro": "Bucurați-vă de singurătate; aproape toate bărcile și turiștii au dispărut.",
-                "en": "Enjoy the solitude; almost all boats and tourists are gone for the season."
+                "en": "Enjoy the solitude; almost all boats and tourists are gone for the season.",
+                "hr": "Uživajte u samoći; gotovo svi brodovi i turisti su otišli za sezonu."
               }
             },
             {
@@ -693,7 +754,8 @@
                 "de": "Der Windkanal zwischen den Seen kann im Winter sehr kühl sein; Mütze aufsetzen.",
                 "hu": "A tavak közötti szűkületben felerősödhet a hideg szél; viseljen sapkát.",
                 "ro": "Vântul dintre lacuri poate fi foarte rece iarna; purtați o căciulă.",
-                "en": "The wind between the lakes can be very chilly in winter; wear a hat."
+                "en": "The wind between the lakes can be very chilly in winter; wear a hat.",
+                "hr": "Vjetar između jezera zimi može biti vrlo hladan; nosite kapu."
               }
             },
             {
@@ -702,7 +764,8 @@
                 "de": "Das Wasser ist glasklar, aber zu kalt zum Baden. Perfekt für Naturfotografie.",
                 "hu": "A víz kristálytiszta, de fürdéshez túl hideg. Ideális természetfotózáshoz.",
                 "ro": "Apa este extrem de clară, dar prea rece pentru înot. Perfect pentru fotografii.",
-                "en": "The water is crystal clear but too cold for swimming. Great for photography."
+                "en": "The water is crystal clear but too cold for swimming. Great for photography.",
+                "hr": "Voda je kristalno čista, ali prehladna za kupanje. Izvrsno za fotografiju."
               }
             },
             {
@@ -711,7 +774,8 @@
                 "de": "Prüfen Sie den Winterfahrplan der Boote; Überfahrten sind seltener.",
                 "hu": "Ellenőrizze a téli menetrendet; a kishajók ritkábban járnak a szigetre.",
                 "ro": "Verificați orarul de iarnă; traversările cu barca sunt mai rare.",
-                "en": "Check the winter boat schedule; crossings to the island are less frequent."
+                "en": "Check the winter boat schedule; crossings to the island are less frequent.",
+                "hr": "Provjerite zimski red vožnje brodova; polasci za otočić su rjeđi."
               }
             },
             {
@@ -720,7 +784,8 @@
                 "de": "Beginnen Sie den Abstieg vor 16:00 Uhr, um nicht von der Dunkelheit überrascht zu werden.",
                 "hu": "Kezdje meg a leereszkedést 16:00 előtt, hogy ne sötétben kelljen botorkálnia.",
                 "ro": "Începeți coborârea înainte de ora 16:00 pentru a nu fi surprins de întuneric.",
-                "en": "Start your descent before 4:00 PM to avoid being caught by early darkness."
+                "en": "Start your descent before 4:00 PM to avoid being caught by early darkness.",
+                "hr": "Krenite s uspona prije 16:00 kako vas ne bi uhvatio rani mrak."
               }
             },
             {
@@ -729,7 +794,8 @@
                 "de": "Die Kirche bietet Schutz vor dem kalten Seewind am Ende des Tages.",
                 "hu": "A templom falai védelmet nyújtanak a hideg tengeri szél ellen a nap végén.",
                 "ro": "Biserica oferă adăpost împotriva vântului rece de mare la sfârșitul zilei.",
-                "en": "The church walls offer shelter from the cold sea breeze at the end of the day."
+                "en": "The church walls offer shelter from the cold sea breeze at the end of the day.",
+                "hr": "Crkveni zidovi nude zaklon od hladnog morskog povjetarca na kraju dana."
               }
             }
           ],
@@ -761,6 +827,13 @@
               "Dress in layers for the transitions between sheltered forests and windy coasts.",
               "National Park entry fees are often significantly lower during the winter season.",
               "Bring a thermos with hot tea for your breaks by the lakes."
+            ],
+            "hr": [
+              "Većina restorana u Pomeni zatvorena je zimi; ponesite vlastitu hranu i vodu.",
+              "Zalazak sunca je rano iza brda; planirajte kraće dionice kako biste završili prije mraka.",
+              "Odjenite se slojevito zbog prijelaza između zaštićenih šuma i vjetrovite obale.",
+              "Ulaznice za Nacionalni park često su znatno jeftinije tijekom zimske sezone.",
+              "Ponesite termosicu s toplim čajem za odmore uz jezera."
             ]
           }
         }
@@ -794,7 +867,8 @@
             "de": "Mieten Sie ein Fahrrad direkt am Hafen.",
             "hu": "Béreljen kerékpárt közvetlenül a kikötőben.",
             "ro": "Închiriați o bicicletă chiar din port.",
-            "en": "Rent a bike directly at the harbor."
+            "en": "Rent a bike directly at the harbor.",
+            "hr": "Unajmite bicikl izravno u luci."
           }
         },
         {
@@ -817,7 +891,8 @@
             "de": "Radeln Sie auf dem schattigen Pfad um den See.",
             "hu": "Kerekezzen az árnyas úton a tó körül.",
             "ro": "Pedalați pe poteca umbrită din jurul lacului.",
-            "en": "Cycle along the shaded path around the lake."
+            "en": "Cycle along the shaded path around the lake.",
+            "hr": "Vozite se zasjenjenom stazom oko jezera."
           }
         },
         {
@@ -840,7 +915,8 @@
             "de": "Besuchen Sie die Ruinen in Polače.",
             "hu": "Nézze meg a romokat Polače falujában.",
             "ro": "Vizitați ruinele din localitatea Polače.",
-            "en": "Visit the ruins in the village of Polače."
+            "en": "Visit the ruins in the village of Polače.",
+            "hr": "Posjetite ostatke rimske palače u Polačama."
           }
         },
         {
@@ -863,7 +939,8 @@
             "de": "Lassen Sie die Räder am Anleger stehen.",
             "hu": "Hagyja a kerékpárokat a kikötőben.",
             "ro": "Lăsați bicicletele la debarcader.",
-            "en": "Leave your bikes at the boat pier."
+            "en": "Leave your bikes at the boat pier.",
+            "hr": "Ostavite bicikle na pristaništu broda."
           }
         },
         {
@@ -886,7 +963,8 @@
             "de": "Perfekter Ort für ein schnelles Bad.",
             "hu": "Tökéletes hely egy gyors mártózáshoz.",
             "ro": "Locul perfect pentru o baie rapidă.",
-            "en": "Perfect spot for a quick dip."
+            "en": "Perfect spot for a quick dip.",
+            "hr": "Savršeno mjesto za brzinski skok u vodu."
           }
         },
         {
@@ -909,7 +987,8 @@
             "de": "Ruhigerer See für Entspannung.",
             "hu": "Csendesebb tó a kikapcsolódáshoz.",
             "ro": "Lac mai liniștit pentru relaxare.",
-            "en": "Quieter lake for relaxation."
+            "en": "Quieter lake for relaxation.",
+            "hr": "Mirnije jezero za opuštanje."
           }
         }
       ],
@@ -917,7 +996,8 @@
         "de": "Mit dem Fahrrad lässt sich Mljet am besten erkunden. Von Pomena aus fahren Sie direkt zum großen See und weiter nach Polače, um den römischen Palast zu bestaunen.\n\nNach der Kultur folgt die Natur: Radeln Sie zurück zum Anleger und setzen Sie zur Klosterinsel über. Die schattigen Wege um die Seen sind ideal für heiße Tage.\n\nAm Nachmittag überqueren Sie die Mali Most und genießen die warme Strömung des kleinen Sees.\n\nDie Tour endet wieder in Pomena, wo Sie den Tag bei einem kühlen Getränk ausklingen lassen können.",
         "hu": "Kerékpárral a legjobb felfedezni Mljettet. Pomenából indulva tekerjen a Nagy-tó mentén egészen Polače faluig, ahol megcsodálhatja a római palota romjait.\n\nA kultúra után jöhet a természet: tekerjen vissza a hajókikötőbe és látogasson el a kolostorszigetre. Az árnyas utak a tavak körül ideálisak a meleg napokon.\n\nDélután keljen át a Mali Moston, és élvezze a Kis-tó meleg vizét.\n\nA túra Pomenában ér véget, ahol egy hűsítő ital mellett pihenheti ki a nap fáradalmait.",
         "ro": "Bicicleta este cel mai bun mod de a explora Mljet. Din Pomena, pedalați de-a lungul Lacului Mare până în Polače, unde puteți admira ruinele palatului roman.\n\nDupă cultură urmează natura: pedalați înapoi la debarcader și vizitați insula cu mănăstire. Potecile umbrite din jurul lacurilor sunt ideale în zilele toride.\n\nDupă-amiaza, treceți peste Mali Most și bucurați-vă de apa caldă a Lacului Mic.\n\nTurul se încheie în Pomena, unde vă puteți relaxa în port cu o băutură răcoritoare.",
-        "en": "Cycling is the best way to explore Mljet. From Pomena, ride along the Large Lake to Polače, where you can admire the Roman palace ruins.\n\nAfter culture comes nature: cycle back to the boat pier and visit the monastery island. The shaded paths around the lakes are ideal for hot days.\n\nIn the afternoon, cross the Mali Most and enjoy the warm waters of the Small Lake.\n\nThe tour ends back in Pomena, where you can unwind with a refreshing drink."
+        "en": "Cycling is the best way to explore Mljet. From Pomena, ride along the Large Lake to Polače, where you can admire the Roman palace ruins.\n\nAfter culture comes nature: cycle back to the boat pier and visit the monastery island. The shaded paths around the lakes are ideal for hot days.\n\nIn the afternoon, cross the Mali Most and enjoy the warm waters of the Small Lake.\n\nThe tour ends back in Pomena, where you can unwind with a refreshing drink.",
+        "hr": "Bicikliranje je najbolji način za istraživanje Mljeta. Iz Pomene se vozite uz Veliko jezero do Polača, gdje se možete diviti ostacima rimske palače.\n\nNakon kulture slijedi priroda: odvezite se natrag do pristaništa i posjetite otočić sa samostanom. Zasjenjene staze oko jezera idealne su za vruće dane.\n\nPoslijepodne prijeđite Mali most i uživajte u toploj vodi Malog jezera.\n\nTura završava povratkom u Pomenu, gdje se možete opustiti uz osvježavajuće piće."
       },
       "gastro_picks": {
         "de": [
@@ -942,6 +1022,12 @@
           {
             "name": "Goat Cheese in Oil",
             "tip": "A local island delicacy."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Kozji sir u ulju",
+            "tip": "Lokalna otočka delicija."
           }
         ]
       },
@@ -973,6 +1059,13 @@
             "tip": "Quieter harbor than Pomena.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obala Polače",
+            "tip": "Mirnija luka od Pomene.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -999,6 +1092,12 @@
             "name": "Herb Brandy",
             "tip": "Travarica made with island herbs."
           }
+        ],
+        "hr": [
+          {
+            "name": "Travarica",
+            "tip": "Rakija napravljena od lokalnog otočkog bilja."
+          }
         ]
       },
       "tips": {
@@ -1021,6 +1120,11 @@
           "The paths are mostly flat, but there are some inclines.",
           "Always lock your bike, even if it seems safe.",
           "Island cycling requires plenty of water, carry enough."
+        ],
+        "hr": [
+          "Staze su uglavnom ravne, ali ima nekoliko uspona.",
+          "Uvijek zaključajte bicikl, čak i ako se čini sigurno.",
+          "Bicikliranje otokom zahtijeva puno vode, ponesite dovoljno."
         ]
       },
       "variants": {
@@ -1227,7 +1331,8 @@
             "de": "Eine sportliche Regenfahrt beginnt in Pomena. Wir nutzen die asphaltierten Wege rund um den Veliko jezero, die auch bei Nässe guten Grip bieten. Mittags besichtigen wir den römischen Palast in Polače, der Schutz unter antiken Mauern bietet. Nachmittags geht es zurück durch den duftenden Wald, wobei wir auf rutschige Piniennadeln achten.",
             "hu": "Sportos esős tekerés indul Pomenából. A Nagy-tó körüli aszfaltozott utakat használjuk, amelyek esőben is biztonságosak. Délben a polačei római palota romjai között keresünk menedéket. Délután a sűrű fenyveseken keresztül pedálozunk vissza, figyelve a csúszós tűlevelekre az utakon.",
             "ro": "O tură cu bicicleta prin ploaie începe în Pomena. Folosim drumurile asfaltate din jurul lacului Veliko jezero pentru aderență bună. La prânz vizităm Palatul Roman din Polače, oferind adăpost sub zidurile antice. După-amiaza ne întoarcem prin pădurea parfumată, atenți la acele de pin alunecoase.",
-            "en": "A sporty rainy ride starts in Pomena. We utilize the paved paths around Veliko jezero, which offer good grip even when wet. At noon, we visit the Roman Palace in Polače, finding shelter under ancient walls. Afternoon is spent cycling back through the fragrant forest, watching out for slippery pine needles."
+            "en": "A sporty rainy ride starts in Pomena. We utilize the paved paths around Veliko jezero, which offer good grip even when wet. At noon, we visit the Roman Palace in Polače, finding shelter under ancient walls. Afternoon is spent cycling back through the fragrant forest, watching out for slippery pine needles.",
+            "hr": "Sportska kišna vožnja počinje u Pomeni. Koristimo asfaltirane staze oko Velikog jezera koje dobro prianjaju čak i kad su mokre. U podne posjećujemo Rimsku palaču u Polačama, pronalazeći zaklon pod drevnim zidovima. Poslijepodne provodimo vozeći se natrag kroz mirisnu šumu, pazeći na skliske borove iglice."
           },
           "stops": [
             {
@@ -1236,7 +1341,8 @@
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start; nasse Felgen bremsen verzögert.",
                 "hu": "Indulás előtt ellenőrizze a fékeket; a nedves felni lassabban fog.",
                 "ro": "Verificați frânele înainte de plecare; jantele ude frânează mai greu.",
-                "en": "Check your brakes before starting; wet rims have longer braking distances."
+                "en": "Check your brakes before starting; wet rims have longer braking distances.",
+                "hr": "Provjerite kočnice prije polaska; mokri obruči kotača imaju duži put kočenja."
               }
             },
             {
@@ -1245,7 +1351,8 @@
                 "de": "Die Uferstraße ist asphaltiert und sicher; meiden Sie unbefestigte Waldpfade.",
                 "hu": "A tóparti út aszfaltozott és biztonságos; kerülje a földes erdei ösvényeket.",
                 "ro": "Drumul de pe mal este asfaltat și sigur; evitați potecile de pământ.",
-                "en": "The lakeside road is paved and safe; avoid unpaved muddy forest tracks."
+                "en": "The lakeside road is paved and safe; avoid unpaved muddy forest tracks.",
+                "hr": "Cesta uz jezero je asfaltirana i sigurna; izbjegavajte neasfaltirane blatne šumske putove."
               }
             },
             {
@@ -1254,7 +1361,8 @@
                 "de": "Stellen Sie die Räder unter dem Torbogen ab und erkunden Sie die Ruinen trocken.",
                 "hu": "Hagyja a bicikliket a boltív alatt, és fedezze fel szárazon a romokat.",
                 "ro": "Lăsați bicicletele sub arcade și explorați ruinele la adăpost.",
-                "en": "Park the bikes under the archways and explore the ruins while staying dry."
+                "en": "Park the bikes under the archways and explore the ruins while staying dry.",
+                "hr": "Parkirajte bicikle pod lukovima i istražite ruševine ostajući suhi."
               }
             },
             {
@@ -1263,7 +1371,8 @@
                 "de": "Fahrräder bleiben am Anleger; die Überfahrt bietet eine kurze Pause vom Treten.",
                 "hu": "A biciklik a kikötőben maradnak; a hajóút rövid pihenőt jelent a tekerésben.",
                 "ro": "Bicicletele rămân la debarcader; traversarea oferă o pauză de la pedalat.",
-                "en": "Bikes stay at the pier; the boat crossing offers a short break from pedaling."
+                "en": "Bikes stay at the pier; the boat crossing offers a short break from pedaling.",
+                "hr": "Bicikli ostaju na pristaništu; vožnja brodom nudi kratak odmor od pedaliranja."
               }
             },
             {
@@ -1272,7 +1381,8 @@
                 "de": "Vorsicht auf der Brücke; die Holz- oder Steinelemente können extrem glatt sein.",
                 "hu": "Vigyázat a hídon; a fa- vagy kőelemek rendkívül csúszósak lehetnek.",
                 "ro": "Atenție pe pod; elementele de lemn sau piatră pot fi extrem de alunecoase.",
-                "en": "Caution on the bridge; wood or stone elements can be extremely slippery."
+                "en": "Caution on the bridge; wood or stone elements can be extremely slippery.",
+                "hr": "Oprez na mostu; drveni ili kameni elementi mogu biti izuzetno skliski."
               }
             },
             {
@@ -1281,7 +1391,8 @@
                 "de": "Beenden Sie die Tour langsam; nasse Piniennadeln in den Kurven sind tückisch.",
                 "hu": "Lassan fejezze be a túrát; a kanyarokban lévő nedves tűlevelek csalókák.",
                 "ro": "Încheiați tura lent; acele de pin umede în curbe sunt înșelătoare.",
-                "en": "Finish your tour slowly; wet pine needles in curves can be treacherous."
+                "en": "Finish your tour slowly; wet pine needles in curves can be treacherous.",
+                "hr": "Završite turu polako; mokre borove iglice u zavojima mogu biti opasne."
               }
             }
           ],
@@ -1313,6 +1424,13 @@
               "Wear clear waterproof eyewear to maintain visibility while cycling.",
               "The paved loop roads around the lakes are the safest choice when wet.",
               "Polače has small cafes where you can take a short break to warm up."
+            ],
+            "hr": [
+              "Blatobrani na biciklu su neophodni u ovakvom vremenu kako biste ostali čisti.",
+              "Izbjegavajte oštra skretanja na obojenim oznakama na cesti ili glatkim kamenim površinama.",
+              "Nosite prozirne vodootporne naočale kako biste zadržali vidljivost tijekom vožnje.",
+              "Asfaltirane kružne ceste oko jezera su najsigurniji izbor kad je mokro.",
+              "Polače imaju male kafiće u kojima možete napraviti kratku stanku za zagrijavanje."
             ]
           }
         },
@@ -1321,7 +1439,8 @@
             "de": "Kühle Brisen und leere Wege erwarten uns auf der Wintertour. Wir radeln von Pomena zu den römischen Ruinen in Polače, wobei die Luft herrlich erfrischend ist. Mittags erkunden wir die Stille von St. Maria ohne die Hitze des Sommers. Die Rückfahrt entlang der Seen bietet im tiefstehenden Winterlicht spektakuläre Fotomotive, bevor es kühl wird.",
             "hu": "Hűvös szellő és néptelen utak várnak ránk a téli kerékpártúrán. Pomenából a polačei római romokhoz tekerünk, a levegő frissítően hideg. Délben Szent Mária-sziget nyugalmát élvezzük a nyári hőség nélkül. A visszaút a tavak mentén a mélyen járó téli nap fényében csodás fotótémákat kínál, mielőtt bealkonyodik.",
             "ro": "Brize reci și drumuri pustii ne așteaptă în tura de iarnă. Pedalăm de la Pomena la ruinele romane din Polače, aerul fiind revigorant. La prânz explorăm liniștea de pe insula Sfânta Maria fără arșița verii. Drumul de întoarcere pe lângă lacuri oferă peisaje superbe în lumina joasă a iernii.",
-            "en": "Cool breezes and empty paths await us on this winter bike tour. We cycle from Pomena to the Roman ruins in Polače, where the air is brilliantly refreshing. At noon, explore the silence of St. Mary's without the summer heat. The return ride along the lakes offers spectacular photo ops in the low winter light."
+            "en": "Cool breezes and empty paths await us on this winter bike tour. We cycle from Pomena to the Roman ruins in Polače, where the air is brilliantly refreshing. At noon, explore the silence of St. Mary's without the summer heat. The return ride along the lakes offers spectacular photo ops in the low winter light.",
+            "hr": "Hladan povjetarac i prazne staze čekaju nas na ovoj zimskoj biciklističkoj turi. Vozimo se od Pomene do rimskih ruševina u Polačama, gdje je zrak nevjerojatno osvježavajući. U podne istražite tišinu Svete Marije bez ljetne vrućine. Povratna vožnja uz jezera nudi spektakularne prilike za fotografiranje na niskom zimskom svjetlu."
           },
           "stops": [
             {
@@ -1330,7 +1449,8 @@
                 "de": "Tragen Sie Handschuhe; der Fahrtwind ist im Winter deutlich kälter.",
                 "hu": "Viseljen kesztyűt; a menetszél télen sokkal hidegebbnek érződik.",
                 "ro": "Purtați mănuși; vântul din timpul mersului este mult mai rece iarna.",
-                "en": "Wear gloves; the wind chill while cycling is significantly colder in winter."
+                "en": "Wear gloves; the wind chill while cycling is significantly colder in winter.",
+                "hr": "Nosite rukavice; osjet hladnoće vjetra tijekom vožnje bicikla znatno je jači."
               }
             },
             {
@@ -1339,7 +1459,8 @@
                 "de": "Die tiefstehende Sonne kann blenden; eine Sonnenbrille ist auch im Winter ratsam.",
                 "hu": "Az alacsonyan járó nap elvakíthat; napszemüveg télen is javasolt.",
                 "ro": "Soarele jos poate fi orbitor; ochelarii de soare sunt utili și iarna.",
-                "en": "The low winter sun can be blinding; sunglasses are recommended even now."
+                "en": "The low winter sun can be blinding; sunglasses are recommended even now.",
+                "hr": "Nisko zimsko sunce može zaslijepiti; sunčane naočale se preporučuju i sada."
               }
             },
             {
@@ -1348,7 +1469,8 @@
                 "de": "Machen Sie eine kurze Pause; die Steinmauern strahlen im Winter Kälte ab.",
                 "hu": "Tartson rövid pihenőt; a kőfalak télen ontják magukból a hideget.",
                 "ro": "Faceți o pauză scurtă; zidurile de piatră emană frig iarna.",
-                "en": "Take a quick break; the stone walls radiate cold during the winter months."
+                "en": "Take a quick break; the stone walls radiate cold during the winter months.",
+                "hr": "Napravite kratku pauzu; kameni zidovi zrače hladnoćom tijekom zimskih mjeseci."
               }
             },
             {
@@ -1357,7 +1479,8 @@
                 "de": "Perfekte Zeit für Fotos vom Kloster ohne störende Touristenmassen.",
                 "hu": "Tökéletes időpont a kolostor fotózására a zavaró turistatömeg nélkül.",
                 "ro": "Moment perfect pentru fotografii cu mănăstirea fără mulțimi de turiști.",
-                "en": "Perfect time for photos of the monastery without the tourist crowds."
+                "en": "Perfect time for photos of the monastery without the tourist crowds.",
+                "hr": "Savršeno vrijeme za fotografije samostana bez turističkih gužvi."
               }
             },
             {
@@ -1366,7 +1489,8 @@
                 "de": "Der Wind pfeift hier oft stärker; ziehen Sie Ihre Jacke fest zu.",
                 "hu": "Itt gyakran erősebben fúj a szél; húzza szorosra a kabátját.",
                 "ro": "Vântul bate adesea mai tare aici; încheiați-vă bine jacheta.",
-                "en": "The wind often whistles stronger here; zip up your jacket tightly."
+                "en": "The wind often whistles stronger here; zip up your jacket tightly.",
+                "hr": "Vjetar ovdje često jače zviždi; čvrsto zakopčajte jaknu."
               }
             },
             {
@@ -1375,7 +1499,8 @@
                 "de": "Beenden Sie die Fahrt rechtzeitig, bevor die Temperaturen nach Sonnenuntergang sinken.",
                 "hu": "Fejezze be a túrát időben, mielőtt a naplemente után leesik a hőmérséklet.",
                 "ro": "Încheiați tura la timp, înainte ca temperaturile să scadă după apus.",
-                "en": "Finish your ride on time before temperatures drop after sunset."
+                "en": "Finish your ride on time before temperatures drop after sunset.",
+                "hr": "Završite vožnju na vrijeme prije nego što temperature padnu nakon zalaska sunca."
               }
             }
           ],
@@ -1407,6 +1532,13 @@
               "Schedule your return journey to be back by 4:15 PM at the latest.",
               "Paths may be covered with damp leaves in winter; cycle with caution.",
               "National Park ferries operate on a reduced schedule during winter."
+            ],
+            "hr": [
+              "Koristite traku za glavu ili kapu ispod kacige kako biste blokirali hladan vjetar.",
+              "Zrak je vrlo suh; ne zaboravite piti dovoljno vode unatoč hladnoći.",
+              "Planirajte povratak najkasnije do 16:15.",
+              "Staze zimi mogu biti prekrivene vlažnim lišćem; vozite oprezno.",
+              "Trajekti u Nacionalnom parku voze po smanjenom redu vožnje tijekom zime."
             ]
           }
         }
@@ -1440,7 +1572,8 @@
             "de": "Parken Sie außerhalb des Zentrums.",
             "hu": "Parkoljon a központon kívül.",
             "ro": "Parcați în afara centrului.",
-            "en": "Park outside the center."
+            "en": "Park outside the center.",
+            "hr": "Parkirajte izvan centra."
           }
         },
         {
@@ -1463,7 +1596,8 @@
             "de": "Das Wahrzeichen von Polače.",
             "hu": "Polače jelképe.",
             "ro": "Simbolul localității Polače.",
-            "en": "The landmark of Polače."
+            "en": "The landmark of Polače.",
+            "hr": "Simbol Polača."
           }
         },
         {
@@ -1486,7 +1620,8 @@
             "de": "Nehmen Sie das Boot zur Insel von hier.",
             "hu": "Innen indulhat a hajóval a szigetre.",
             "ro": "Luați barca spre insulă de aici.",
-            "en": "Take the boat to the island from here."
+            "en": "Take the boat to the island from here.",
+            "hr": "Odavde idite brodom na otočić."
           }
         },
         {
@@ -1509,7 +1644,8 @@
             "de": "Schöne Aussicht auf die Adria.",
             "hu": "Szép kilátás az Adriára.",
             "ro": "Vedere frumoasă spre Adria.",
-            "en": "Beautiful view of the Adriatic."
+            "en": "Beautiful view of the Adriatic.",
+            "hr": "Prekrasan pogled na Jadran."
           }
         }
       ],
@@ -1517,7 +1653,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die weiter entfernten Highlights der Insel. Besuchen Sie zuerst den beeindruckenden römischen Palast in Polače.\n\nAnschließend geht es zurück zum Nationalpark-Eingang, um die großen Seen und die Klosterinsel zu erkunden. Parkplätze sind hier begrenzt, kommen Sie früh.\n\nAm Nachmittag fahren Sie entlang der Küstenstraße zur Kirche des Heiligen Johannes.\n\nDer Tag endet in der ruhigen Bucht von Pomena bei einem Abendessen am Wasser.",
         "hu": "Autóval kényelmesen elérheti a sziget távolabbi pontjait is. Kezdje a napot a lenyűgöző római palotával Polače falujában.\n\nEzután térjen vissza a nemzeti park bejáratához, hogy felfedezze a Nagy-tavakat és a kolostorszigetet. A parkolás korlátozott, érdemes időben érkezni.\n\nDélután autózzon végig a parti úton a Keresztelő Szent János-templomhoz.\n\nA napot Pomena nyugodt öblében zárja egy vízparti vacsorával.",
         "ro": "Cu mașina puteți ajunge confortabil la cele mai îndepărtate atracții ale insulei. Vizitați mai întâi impresionantul palat roman din Polače.\n\nApoi reveniți la intrarea în Parcul Național pentru a explora lacurile mari și insula cu mănăstire. Parcarea este limitată, veniți devreme.\n\nDupă-amiaza, conduceți pe drumul de coastă până la biserica Sfântul Ioan.\n\nZiua se încheie în golful liniștit Pomena cu o cină pe malul apei.",
-        "en": "By car, you can easily reach the island's more distant highlights. Start with the impressive Roman palace in Polače.\n\nThen head back to the National Park entrance to explore the large lakes and the monastery island. Parking is limited, so arrive early.\n\nIn the afternoon, drive along the coastal road to St. John's Church.\n\nThe day concludes in the quiet Pomena Bay with a dinner by the water."
+        "en": "By car, you can easily reach the island's more distant highlights. Start with the impressive Roman palace in Polače.\n\nThen head back to the National Park entrance to explore the large lakes and the monastery island. Parking is limited, so arrive early.\n\nIn the afternoon, drive along the coastal road to St. John's Church.\n\nThe day concludes in the quiet Pomena Bay with a dinner by the water.",
+        "hr": "Automobilom lako možete doći do udaljenijih znamenitosti otoka. Započnite s impresivnom rimskom palačom u Polačama.\n\nZatim se vratite do ulaza u Nacionalni park kako biste istražili velika jezera i otočić sa samostanom. Parking je ograničen, pa dođite ranije.\n\nPoslijepodne se vozite obalnom cestom do crkve svetog Ivana.\n\nDan završava u mirnoj uvali Pomena uz večeru uz more."
       },
       "gastro_picks": {
         "de": [
@@ -1542,6 +1679,12 @@
           {
             "name": "Lamb under Peka",
             "tip": "Particularly tender and aromatic."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Janjetina pod pekom",
+            "tip": "Posebno mekana i aromatična."
           }
         ]
       },
@@ -1573,6 +1716,13 @@
             "tip": "View over the green island interior.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Babino Polje",
+            "tip": "Pogled na zelenu unutrašnjost otoka.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1599,6 +1749,12 @@
             "name": "Handmade Souvenirs",
             "tip": "Wooden carvings from the island."
           }
+        ],
+        "hr": [
+          {
+            "name": "Ručno rađeni suveniri",
+            "tip": "Drvene rukotvorine s otoka."
+          }
         ]
       },
       "tips": {
@@ -1621,6 +1777,11 @@
           "Cars are not allowed in the core National Park area.",
           "The roads are narrow and winding.",
           "Watch out for wildlife on the roads."
+        ],
+        "hr": [
+          "Automobili nisu dopušteni u užem području Nacionalnog parka.",
+          "Ceste su uske i zavojite.",
+          "Pazite na divlje životinje na cestama."
         ]
       },
       "variants": {
@@ -1799,7 +1960,8 @@
             "de": "Mit dem Auto erkunden wir die Insel Mljet wetterunabhängig. Von Pomena geht es zum römischen Palast nach Polače, wo wir direkt an den Ruinen parken können. Mittags bietet die Fahrt entlang der Seen durch die verregneten Wälder dramatische Ausblicke. Den Tag beschließen wir trocken und komfortabel bei der St. Johannes Kirche.",
             "hu": "Autóval az időjárástól függetlenül fedezzük fel Mljet szigetét. Pomenából a polačei római palotához hajtunk, ahol közvetlenül a romoknál parkolhatunk. Délben a tavak menti autózás az esős fenyveseken keresztül drámai látványt nyújt. A napot kényelemben és szárazon zárjuk a Szent János-templomnál.",
             "ro": "Explorăm insula Mljet cu mașina, independent de vreme. De la Pomena mergem la Palatul Roman din Polače, unde putem parca lângă ruine. La prânz, drumul pe lângă lacuri prin pădurile ploioase oferă priveliști dramatice. Încheiem ziua confortabil la biserica Sfântul Ioan.",
-            "en": "Explore Mljet island by car, independent of the weather. From Pomena, drive to the Roman Palace in Polače, where you can park right by the ruins. At noon, the drive along the lakes through rainy forests offers dramatic views. We conclude the day dry and comfortable at St. John's Church."
+            "en": "Explore Mljet island by car, independent of the weather. From Pomena, drive to the Roman Palace in Polače, where you can park right by the ruins. At noon, the drive along the lakes through rainy forests offers dramatic views. We conclude the day dry and comfortable at St. John's Church.",
+            "hr": "Istražite otok Mljet automobilom, neovisno o vremenu. Iz Pomene se odvezite do Rimske palače u Polačama, gdje se možete parkirati tik uz ruševine. U podne, vožnja uz jezera kroz kišne šume nudi dramatične prizore. Dan završavamo na suhom i udobnom kod crkve svetog Ivana."
           },
           "stops": [
             {
@@ -1808,7 +1970,8 @@
                 "de": "Parken Sie nah am Zentrum, um die Laufwege im Regen zu minimieren.",
                 "hu": "Parkoljon közel a központhoz, hogy minimalizálja az esőben való gyaloglást.",
                 "ro": "Parcați aproape de centru pentru a minimiza mersul pe jos prin ploaie.",
-                "en": "Park close to the center to minimize walking distance in the rain."
+                "en": "Park close to the center to minimize walking distance in the rain.",
+                "hr": "Parkirajte blizu centra kako biste smanjili udaljenost hodanja po kiši."
               }
             },
             {
@@ -1817,7 +1980,8 @@
                 "de": "Ein idealer Stopp bei Regen; die massiven Mauern bieten viel Schutz.",
                 "hu": "Ideális megálló esőben; a masszív falak jó védelmet nyújtanak.",
                 "ro": "O oprire ideală pe ploaie; zidurile masive oferă mult adăpost.",
-                "en": "An ideal stop during rain; the massive stone walls provide plenty of cover."
+                "en": "An ideal stop during rain; the massive stone walls provide plenty of cover.",
+                "hr": "Idealno zaustavljanje tijekom kiše; masivni kameni zidovi pružaju dovoljno zaklona."
               }
             },
             {
@@ -1826,7 +1990,8 @@
                 "de": "Nutzen Sie die Parkplätze an den Aussichtspunkten für kurze Fotostopps.",
                 "hu": "Használja a kilátópontoknál lévő parkolókat rövid fotómegállókhoz.",
                 "ro": "Folosiți parcările de la punctele de belvedere pentru opriri foto scurte.",
-                "en": "Use the parking areas at viewpoints for quick photo stops between showers."
+                "en": "Use the parking areas at viewpoints for quick photo stops between showers.",
+                "hr": "Koristite parkirališta na vidikovcima za brze fotografije između pljuskova."
               }
             },
             {
@@ -1835,7 +2000,8 @@
                 "de": "Der Parkplatz ist direkt bei der Kirche; kaum nass werden beim Aussteigen.",
                 "hu": "A parkoló közvetlenül a templomnál van, kiszálláskor alig éri eső.",
                 "ro": "Parcarea este chiar lângă biserică; aproape că nu vă udați la coborâre.",
-                "en": "The parking lot is right by the church; you'll barely get wet when exiting."
+                "en": "The parking lot is right by the church; you'll barely get wet when exiting.",
+                "hr": "Parkiralište je odmah uz crkvu; jedva ćete se pokisnuti pri izlasku."
               }
             }
           ],
@@ -1867,6 +2033,13 @@
               "Finding parking spaces in the harbors is much easier during rainy weather.",
               "Use your air conditioning to prevent the windshield from fogging up.",
               "Keep an umbrella in the car for short walks to the various sites."
+            ],
+            "hr": [
+              "Budite oprezni na uskim otočkim cestama; mogu biti skliske kad su mokre.",
+              "Pazite na odrone kamenja na dionicama ceste uz litice nakon jake kiše.",
+              "Pronalaženje parkirnih mjesta u lukama puno je lakše tijekom kišnog vremena.",
+              "Koristite klima uređaj kako biste spriječili zamagljivanje vjetrobranskog stakla.",
+              "Držite kišobran u autu za kratke šetnje do raznih lokacija."
             ]
           }
         },
@@ -1875,7 +2048,8 @@
             "de": "Mljet im Winter bedeutet freie Straßen und absolute Ruhe. Morgens fahren wir entspannt von Pomena aus los. Mittags erreichen wir Polače, wo wir die antiken Ruinen fast für uns allein haben. Nachmittags genießen wir die Panoramafahrt entlang der Seen im klaren Winterlicht, bevor wir den Tag an der einsamen Johanneskirche ausklingen lassen.",
             "hu": "Mljet télen üres utakat és abszolút nyugalmat jelent. Reggel kényelmesen indulunk Pomenából. Délben érkezünk Polačéba, ahol a romokat szinte egyedül fedezhetjük fel. Délután a tavak menti panorámautat élvezzük a tiszta téli fényben, majd a napot a magányos Szent János-templomnál zárjuk.",
             "ro": "Mljet iarna înseamnă drumuri libere și liniște absolută. Dimineața plecăm relaxați din Pomena. La prânz ajungem în Polače, unde avem ruinele aproape doar pentru noi. După-amiaza ne bucurăm de drumul panoramic de-a lungul lacurilor, încheind ziua la biserica solitară.",
-            "en": "Mljet in winter means empty roads and absolute tranquility. Start your morning with a relaxed drive from Pomena. At noon, reach Polače, where you'll have the ancient ruins almost entirely to yourself. In the afternoon, enjoy the scenic drive along the lakes in clear winter light before ending at the lonely church."
+            "en": "Mljet in winter means empty roads and absolute tranquility. Start your morning with a relaxed drive from Pomena. At noon, reach Polače, where you'll have the ancient ruins almost entirely to yourself. In the afternoon, enjoy the scenic drive along the lakes in clear winter light before ending at the lonely church.",
+            "hr": "Mljet zimi znači prazne ceste i apsolutni mir. Započnite jutro opuštenom vožnjom iz Pomene. U podne dođite do Polača, gdje ćete drevne ruševine imati gotovo u potpunosti za sebe. Poslijepodne uživajte u slikovitoj vožnji uz jezera na čistom zimskom svjetlu prije nego što završite kod usamljene crkve."
           },
           "stops": [
             {
@@ -1884,7 +2058,8 @@
                 "de": "Keine Parkgebühren im Winter; Sie können überall bequem halten.",
                 "hu": "Télen nincs parkolási díj; bárhol kényelmesen megállhat.",
                 "ro": "Fără taxe de parcare iarna; puteți opri confortabil oriunde.",
-                "en": "No parking fees in winter; you can stop anywhere conveniently."
+                "en": "No parking fees in winter; you can stop anywhere conveniently.",
+                "hr": "Zimi nema naknada za parkiranje; možete se praktično svugdje zaustaviti."
               }
             },
             {
@@ -1893,7 +2068,8 @@
                 "de": "Die Ruinen sind im Winter frei zugänglich und bieten tolle Fotomotive.",
                 "hu": "A romok télen szabadon látogathatók és remek fotótémákat kínálnak.",
                 "ro": "Ruinele sunt accesibile liber iarna și oferă subiecte foto grozave.",
-                "en": "The ruins are freely accessible in winter and offer great photo opportunities."
+                "en": "The ruins are freely accessible in winter and offer great photo opportunities.",
+                "hr": "Ruševine su zimi slobodno dostupne i nude izvrsne prilike za fotografiranje."
               }
             },
             {
@@ -1902,7 +2078,8 @@
                 "de": "Die Aussichtspunkte sind verwaist; nehmen Sie sich Zeit für den Ausblick.",
                 "hu": "A kilátópontok néptelenek; szánjon időt a panoráma élvezetére.",
                 "ro": "Punctele de belvedere sunt pustii; acordați-vă timp pentru priveliște.",
-                "en": "Viewpoints are deserted; take your time to enjoy the panoramic views."
+                "en": "Viewpoints are deserted; take your time to enjoy the panoramic views.",
+                "hr": "Vidikovci su pusti; odvojite vrijeme za uživanje u panoramskom pogledu."
               }
             },
             {
@@ -1911,7 +2088,8 @@
                 "de": "Genießen Sie den Sonnenuntergang über dem Meer direkt vom Auto aus.",
                 "hu": "Élvezze a tenger feletti naplementét közvetlenül az autóból.",
                 "ro": "Bucurați-vă de apusul peste mare direct din mașină.",
-                "en": "Enjoy the sunset over the sea directly from the comfort of your car."
+                "en": "Enjoy the sunset over the sea directly from the comfort of your car.",
+                "hr": "Uživajte u zalasku sunca nad morem izravno iz udobnosti svog automobila."
               }
             }
           ],
@@ -1943,6 +2121,13 @@
               "Roads in shaded forest areas can be damp and slippery in the mornings.",
               "Almost all tourist services are closed; ensure you have your own supplies.",
               "Take advantage of the clear winter air for far-reaching views over the Adriatic."
+            ],
+            "hr": [
+              "Natočite gorivo unaprijed; neke benzinske postaje na otoku zimi rade kraće.",
+              "Divlje životinje poput jelena mogu češće prelaziti ceste u mirnoj zimi.",
+              "Ceste u sjenovitim šumskim područjima ujutro mogu biti vlažne i skliske.",
+              "Gotovo sve turističke usluge su zatvorene; osigurajte vlastite zalihe.",
+              "Iskoristite čisti zimski zrak za dalekosežne poglede preko Jadrana."
             ]
           }
         }
@@ -1976,7 +2161,8 @@
             "de": "Nutzen Sie das Elektro-Shuttle zum See.",
             "hu": "Használja az elektromos buszt a tóhoz.",
             "ro": "Folosiți microbuzul electric spre lac.",
-            "en": "Use the electric shuttle to the lake."
+            "en": "Use the electric shuttle to the lake.",
+            "hr": "Koristite električni shuttle do jezera."
           }
         },
         {
@@ -1999,7 +2185,8 @@
             "de": "Zentraler Knotenpunkt für Boote.",
             "hu": "A hajók központi csomópontja.",
             "ro": "Nod central pentru bărci.",
-            "en": "Central hub for boats."
+            "en": "Central hub for boats.",
+            "hr": "Središnje čvorište za brodove."
           }
         },
         {
@@ -2022,7 +2209,8 @@
             "de": "Das Boot fährt stündlich.",
             "hu": "A hajó óránként közlekedik.",
             "ro": "Barca pleacă la fiecare oră.",
-            "en": "The boat runs hourly."
+            "en": "The boat runs hourly.",
+            "hr": "Brod vozi svakih sat vremena."
           }
         },
         {
@@ -2045,7 +2233,8 @@
             "de": "Wandern Sie am Ufer entlang zum nächsten Shuttle.",
             "hu": "Sétáljon a parton a következő buszig.",
             "ro": "Mergeți pe mal până la următorul microbuz.",
-            "en": "Walk along the shore to the next shuttle."
+            "en": "Walk along the shore to the next shuttle.",
+            "hr": "Šetajte obalom do sljedećeg shuttlea."
           }
         }
       ],
@@ -2053,7 +2242,8 @@
         "de": "Dank der Elektro-Shuttles und Solarboote ist der Nationalpark auch ohne eigenes Fahrzeug leicht zu erkunden. Starten Sie in Pomena mit dem Shuttle.\n\nDas Boot bringt Sie sicher zur Insel der Heiligen Maria, dem kulturellen Herzstück von Mljet.\n\nNachmittags genießen Sie die Ruhe am großen See, bevor Sie mit dem Shuttle zurück nach Pomena fahren.\n\nDiese umweltfreundliche Art des Reisens passt perfekt zur unberührten Natur der Insel.",
         "hu": "Az elektromos buszoknak és napelemes hajóknak köszönhetően a nemzeti park saját jármű nélkül is könnyen felfedezhető. Induljon Pomenából busszal.\n\nA hajó biztonságosan elviszi a Szent Mária-szigetre, amely Mljet kulturális központja.\n\nDélután élvezze a Nagy-tó nyugalmát, mielőtt visszatérne a busszal Pomenába.\n\nEz a környezetbarát utazási mód tökéletesen illik a sziget érintetlen természetéhez.",
         "ro": "Datorită microbuzelor electrice și bărcilor solare, parcul național este ușor de explorat și fără vehicul propriu. Începeți din Pomena cu microbuzul.\n\nBarca vă duce în siguranță pe Insula Sfânta Maria, inima culturală a insulei Mljet.\n\nDupă-amiaza, bucurați-vă de liniștea lacului mare înainte de a reveni cu microbuzul în Pomena.\n\nAcest mod ecologic de călătorie se potrivește perfect cu natura virgină a insulei.",
-        "en": "Thanks to electric shuttles and solar boats, the national park is easy to explore even without your own vehicle. Start in Pomena with the shuttle.\n\nThe boat takes you safely to St. Mary's Island, the cultural heart of Mljet.\n\nIn the afternoon, enjoy the peace of the large lake before taking the shuttle back to Pomena.\n\nThis eco-friendly way of traveling fits perfectly with the island's untouched nature."
+        "en": "Thanks to electric shuttles and solar boats, the national park is easy to explore even without your own vehicle. Start in Pomena with the shuttle.\n\nThe boat takes you safely to St. Mary's Island, the cultural heart of Mljet.\n\nIn the afternoon, enjoy the peace of the large lake before taking the shuttle back to Pomena.\n\nThis eco-friendly way of traveling fits perfectly with the island's untouched nature.",
+        "hr": "Zahvaljujući električnim shuttle vozilima i solarnim brodovima, nacionalni park je lako istražiti čak i bez vlastitog vozila. Krenite iz Pomene shuttleom.\n\nBrod vas sigurno vozi do otočića Svete Marije, kulturnog srca Mljeta.\n\nPoslijepodne uživajte u miru Velikog jezera prije povratka shuttleom u Pomenu.\n\nOvaj ekološki prihvatljiv način putovanja savršeno se uklapa u netaknutu prirodu otoka."
       },
       "gastro_picks": {
         "de": [
@@ -2078,6 +2268,12 @@
           {
             "name": "Local Figs",
             "tip": "Often sold as a snack along the paths."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalne smokve",
+            "tip": "Često se prodaju kao zalogaj uz staze."
           }
         ]
       },
@@ -2109,6 +2305,13 @@
             "tip": "Silence among old stone walls.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Samostanski vrt",
+            "tip": "Tišina među starim kamenim zidovima.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -2135,6 +2338,12 @@
             "name": "Postcards",
             "tip": "Available in the small island shop."
           }
+        ],
+        "hr": [
+          {
+            "name": "Razglednice",
+            "tip": "Dostupne u maloj otočkoj trgovini."
+          }
         ]
       },
       "tips": {
@@ -2157,6 +2366,11 @@
           "Pay close attention to the boat schedules.",
           "Shuttles are included in the National Park ticket.",
           "Dogs are allowed on the boats but must be leashed."
+        ],
+        "hr": [
+          "Pažljivo pratite red vožnje brodova.",
+          "Shuttle prijevoz je uključen u ulaznicu za Nacionalni park.",
+          "Psi su dopušteni na brodovima, ali moraju biti na uzici."
         ]
       },
       "variants": {
@@ -2335,7 +2549,8 @@
             "de": "Mit dem Boot und dem Shuttlebus des Nationalparks erkunden wir Mljet im Regen. Von Pomena aus nutzen wir die überdachten Boote nach St. Maria. Mittags bietet das Kloster Schutz. Die Fahrt am Seeufer entlang ermöglicht es, die Landschaft trocken zu genießen, während der Regen auf die Wasseroberfläche peitscht.",
             "hu": "A nemzeti park kishajóival és buszaival fedezzük fel Mljettet esőben is. Pomenából fedett hajóval megyünk a Szent Mária-szigetre. Délben a kolostor falai között pihenünk. A tóparti utazás során szárazon élvezhetjük a tájat, miközben az eső a vízfelszínt korbácsolja.",
             "ro": "Explorăm Mljet cu barca și autobuzul parcului național chiar și pe ploaie. Din Pomena folosim bărcile acoperite spre insula Sfânta Maria. La prânz ne odihnim în mănăstire. Călătoria pe malul lacului ne permite să vedem peisajul fără să ne udăm.",
-            "en": "Explore Mljet using the national park's boats and shuttle buses even in the rain. From Pomena, take the covered boats to St. Mary's Island. Spend your noon within the monastery walls. The lakeside transit allows you to enjoy the scenery while staying dry as rain hits the water."
+            "en": "Explore Mljet using the national park's boats and shuttle buses even in the rain. From Pomena, take the covered boats to St. Mary's Island. Spend your noon within the monastery walls. The lakeside transit allows you to enjoy the scenery while staying dry as rain hits the water.",
+            "hr": "Istražite Mljet koristeći brodove i shuttle autobuse nacionalnog parka čak i po kiši. Iz Pomene krenite natkrivenim brodovima do otočića Svete Marije. Provedite podne unutar samostanskih zidina. Prijevoz uz jezero omogućuje vam uživanje u krajoliku dok ostajete suhi dok kiša udara o površinu vode."
           },
           "stops": [
             {
@@ -2344,7 +2559,8 @@
                 "de": "Warten Sie im Kassenhäuschen oder unter den Vordächern auf das Boot.",
                 "hu": "Várjon a jegypénztárnál vagy az előtetők alatt a kishajóra.",
                 "ro": "Așteptați barca la casa de bilete sau sub copertine.",
-                "en": "Wait for the boat at the ticket office or under the nearby overhangs."
+                "en": "Wait for the boat at the ticket office or under the nearby overhangs.",
+                "hr": "Čekajte brod u uredu za prodaju karata ili pod obližnjim natstrešnicama."
               }
             },
             {
@@ -2353,7 +2569,8 @@
                 "de": "Hier halten die Elektrobusse; nutzen Sie die kurzen Wartezeiten im Trockenen.",
                 "hu": "Itt állnak meg az elektromos buszok; várja meg az indulást fedett helyen.",
                 "ro": "Aici opresc autobuzele electrice; așteptați plecarea la adăpost.",
-                "en": "This is a stop for electric buses; wait for departure in a sheltered spot."
+                "en": "This is a stop for electric buses; wait for departure in a sheltered spot.",
+                "hr": "Ovo je stanica za električne autobuse; pričekajte polazak na zaštićenom mjestu."
               }
             },
             {
@@ -2362,7 +2579,8 @@
                 "de": "Die Boote sind überdacht; Sie bleiben während der Überfahrt trocken.",
                 "hu": "A kishajók fedettek; az átkelés alatt szárazon maradhat.",
                 "ro": "Bărcile sunt acoperite; veți rămâne uscat în timpul traversării.",
-                "en": "The boats are covered; you will stay dry during the short crossing."
+                "en": "The boats are covered; you will stay dry during the short crossing.",
+                "hr": "Brodovi su natkriveni; ostat ćete suhi tijekom kratkog prijelaza."
               }
             },
             {
@@ -2371,7 +2589,8 @@
                 "de": "Genießen Sie den Blick aus dem Fenster des Shuttlebusses auf den See.",
                 "hu": "Élvezze a kilátást a tóra a busz ablakából az esős időben.",
                 "ro": "Bucurați-vă de vederea spre lac de la fereastra autobuzului.",
-                "en": "Enjoy the lake views through the shuttle bus windows during the rain."
+                "en": "Enjoy the lake views through the shuttle bus windows during the rain.",
+                "hr": "Uživajte u pogledu na jezero kroz prozore shuttle autobusa tijekom kiše."
               }
             }
           ],
@@ -2403,6 +2622,13 @@
               "Use the national park's waiting areas as shelter from the rain.",
               "Boats provide the best protection from rain while moving between sites.",
               "Combine boat and bus trips to minimize the time spent walking outside."
+            ],
+            "hr": [
+              "Provjerite jesu li brodske linije ograničene zbog jakog vjetra tijekom oluje.",
+              "Učestalost shuttle prijevoza može varirati ovisno o vremenskim uvjetima.",
+              "Koristite čekaonice nacionalnog parka kao zaklon od kiše.",
+              "Brodovi pružaju najbolju zaštitu od kiše tijekom kretanja između lokacija.",
+              "Kombinirajte vožnju brodom i autobusom kako biste smanjili vrijeme hodanja na otvorenom."
             ]
           }
         },
@@ -2411,7 +2637,8 @@
             "de": "Ruhe pur auf Mljet: Mit dem eingeschränkten Winterfahrplan des Parks erkunden wir die Insel. Morgens startet das Boot in der stillen Pomena-Bucht. Mittags genießen wir die Einsamkeit auf St. Maria. Der Shuttlebus bringt uns am Nachmittag entlang der Seen zurück, wobei wir die klare Luft und die menschenleere Natur bewundern.",
             "hu": "Tiszta nyugalom Mljettben: a park korlátozott téli menetrendjével fedezzük fel a szigetet. Reggel indul a kishajó a csendes pomonai öbölből. Délben a Szent Mária-sziget magányát élvezzük. Délután a busz visz vissza a tavak mentén, miközben a tiszta levegőt és a néptelen természetet csodáljuk.",
             "ro": "Liniște pură pe Mljet: explorăm insula cu programul de iarnă al parcului. Dimineața barca pleacă din golful liniștit Pomena. La prânz ne bucurăm de singurătatea de pe insula Sfânta Maria. Autobuzul ne aduce înapoi după-amiaza pe lângă lacuri.",
-            "en": "Pure tranquility on Mljet: explore the island using the park's limited winter schedule. In the morning, the boat leaves from the quiet Pomena Bay. At noon, enjoy the solitude of St. Mary's Island. The shuttle bus takes us back along the lakes in the afternoon, admiring the clear air and empty nature."
+            "en": "Pure tranquility on Mljet: explore the island using the park's limited winter schedule. In the morning, the boat leaves from the quiet Pomena Bay. At noon, enjoy the solitude of St. Mary's Island. The shuttle bus takes us back along the lakes in the afternoon, admiring the clear air and empty nature.",
+            "hr": "Čisti mir na Mljetu: istražite otok koristeći ograničeni zimski red vožnje parka. Ujutro brod polazi iz mirne uvale Pomena. U podne uživajte u samoći otočića Svete Marije. Shuttle autobus nas vozi natrag uz jezera poslijepodne, dok se divimo čistom zraku i praznoj prirodi."
           },
           "stops": [
             {
@@ -2420,7 +2647,8 @@
                 "de": "Informieren Sie sich vorab über die reduzierten Winterabfahrtszeiten.",
                 "hu": "Tájékozódjon előre a ritkított téli indulási időpontokról.",
                 "ro": "Informați-vă din timp despre orele de plecare reduse pe timp de iarnă.",
-                "en": "Check the reduced winter departure times at the ticket office in advance."
+                "en": "Check the reduced winter departure times at the ticket office in advance.",
+                "hr": "Unaprijed provjerite reducirana zimska vremena polazaka u uredu za prodaju karata."
               }
             },
             {
@@ -2429,7 +2657,8 @@
                 "de": "Der Shuttlebus verkehrt im Winter seltener; Pünktlichkeit ist wichtig.",
                 "hu": "A busz télen ritkábban jár; fontos a menetrend pontos betartása.",
                 "ro": "Autobuzul circulă mai rar iarna; punctualitatea este importantă.",
-                "en": "The shuttle bus runs less frequently in winter; punctuality is key."
+                "en": "The shuttle bus runs less frequently in winter; punctuality is key.",
+                "hr": "Shuttle autobus zimi vozi rjeđe; točnost je ključna."
               }
             },
             {
@@ -2438,7 +2667,8 @@
                 "de": "Genießen Sie die Stille im Klostergarten, der im Winter fast leer ist.",
                 "hu": "Élvezze a csendet a kolostorkertben, amely télen szinte teljesen üres.",
                 "ro": "Bucurați-vă de liniștea din grădina mănăstirii, aproape goală iarna.",
-                "en": "Enjoy the silence in the monastery garden, which is almost empty in winter."
+                "en": "Enjoy the silence in the monastery garden, which is almost empty in winter.",
+                "hr": "Uživajte u tišini u samostanskom vrtu koji je zimi gotovo prazan."
               }
             },
             {
@@ -2447,7 +2677,8 @@
                 "de": "Achten Sie auf die letzte Busverbindung vor Sonnenuntergang.",
                 "hu": "Ügyeljen az utolsó buszjáratra még a naplemente előtt.",
                 "ro": "Fiți atenți la ultima cursă de autobuz înainte de apusul soarelui.",
-                "en": "Make sure to catch the last bus connection before sunset."
+                "en": "Make sure to catch the last bus connection before sunset.",
+                "hr": "Obavezno uhvatite posljednju autobusnu vezu prije zalaska sunca."
               }
             }
           ],
@@ -2479,6 +2710,13 @@
               "Buy your ticket in the morning to cover the entire day's travel.",
               "Waiting times between connections can be longer than in the summer.",
               "Use the time between bus and boat transfers for short scenic walks."
+            ],
+            "hr": [
+              "Zimski red vožnje obično stupa na snagu od studenog nadalje.",
+              "Brodske linije mogu biti otkazane zbog nemirnog mora u zimskim mjesecima.",
+              "Kupite kartu ujutro kako biste pokrili putovanje tijekom cijelog dana.",
+              "Vrijeme čekanja između veza može biti duže nego ljeti.",
+              "Iskoristite vrijeme između transfera autobusom i brodom za kratke slikovite šetnje."
             ]
           }
         }

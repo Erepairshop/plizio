@@ -34,7 +34,8 @@
             "de": "Frischer Kaffee mit Blick auf die Fischerboote.",
             "hu": "Friss kávé a halászhajók látványával.",
             "ro": "Cafea proaspătă cu vedere la bărcile de pescuit.",
-            "en": "Fresh coffee with a view of the fishing boats."
+            "en": "Fresh coffee with a view of the fishing boats.",
+            "hr": "Svježa kava s pogledom na ribarske brodove."
           }
         },
         {
@@ -52,7 +53,8 @@
             "de": "Historische Brunnen, die einst die Wasserversorgung sicherten.",
             "hu": "Történelmi kutak, amelyek egykor a vízellátást biztosították.",
             "ro": "Fântâni istorice care asigurau odinioară alimentarea cu apă.",
-            "en": "Historical wells that once ensured the water supply."
+            "en": "Historical wells that once ensured the water supply.",
+            "hr": "Povijesni bunari koji su nekada osiguravali opskrbu vodom."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Eine charmante kleine Kirche aus dem 14. Jahrhundert.",
             "hu": "Egy bájos kis templom a 14. századból.",
             "ro": "O mică biserică fermecătoare din secolul al XIV-lea.",
-            "en": "A charming small church from the 14th century."
+            "en": "A charming small church from the 14th century.",
+            "hr": "Šarmantna mala crkva iz 14. stoljeća."
           }
         },
         {
@@ -91,7 +94,8 @@
             "de": "Probieren Sie gegrillten Fisch oder Tintenfischsalat.",
             "hu": "Kóstolja meg a grillezett halat vagy polipsalátát.",
             "ro": "Încercați peștele la grătar sau salata de caracatiță.",
-            "en": "Try the grilled fish or octopus salad."
+            "en": "Try the grilled fish or octopus salad.",
+            "hr": "Probajte ribu na žaru ili salatu od hobotnice."
           }
         },
         {
@@ -112,7 +116,8 @@
             "de": "Genießen Sie die Meeresbrise auf dem Weg zum Strand.",
             "hu": "Élvezze a tengeri szellőt a strand felé vezető úton.",
             "ro": "Bucurați-vă de briza mării în drum spre plajă.",
-            "en": "Enjoy the sea breeze on the way to the beach."
+            "en": "Enjoy the sea breeze on the way to the beach.",
+            "hr": "Uživajte u morskom povjetarcu na putu do plaže."
           }
         },
         {
@@ -133,7 +138,8 @@
             "de": "Flaches Wasser, ideal zum Entspannen im Sand.",
             "hu": "Sekély víz, ideális a homokban való pihenéshez.",
             "ro": "Apă puțin adâncă, ideală pentru relaxare în nisip.",
-            "en": "Shallow water, ideal for relaxing in the sand."
+            "en": "Shallow water, ideal for relaxing in the sand.",
+            "hr": "Plitka voda, idealna za opuštanje u pijesku."
           }
         },
         {
@@ -154,7 +160,8 @@
             "de": "Der perfekte Abschluss mit Blick auf den Horizont.",
             "hu": "Tökéletes lezárás a horizont látványával.",
             "ro": "Finalul perfect cu vedere la orizont.",
-            "en": "The perfect ending with a view of the horizon."
+            "en": "The perfect ending with a view of the horizon.",
+            "hr": "Savršen završetak s pogledom na horizont."
           }
         }
       ],
@@ -162,7 +169,8 @@
         "de": "Beginnen Sie den Tag im ruhigen Hafen von Privlaka, bevor Sie die historischen Brunnen erkunden, die von der reichen Tradition der Region zeugen. Nach dem Besuch der St.-Vitus-Kirche lädt eine lokale Konoba zu dalmatinischen Spezialitäten ein. Der Nachmittag gehört dem Meer und dem flachen Sandstrand, bevor der Tag bei einem malerischen Sonnenuntergang an der Riva entspannt ausklingt.",
         "hu": "Kezdje a napot Privlaka nyugodt kikötőjében, majd fedezze fel a történelmi kutakat, amelyek a régió gazdag hagyományairól tanúskodnak. A Szent Vid-templom meglátogatása után egy helyi konoba hívogat dalmát különlegességekkel. A délután a tengeré és a sekély homokos strandé, mielőtt a napot egy festői naplementével zárná a Rivan.",
         "ro": "Începeți ziua în portul liniștit din Privlaka, înainte de a explora fântânile istorice care atestă tradiția bogată a regiunii. După vizitarea bisericii Sf. Vitus, o konoba locală vă invită la specialități dalmate. După-amiaza aparține mării și plajei cu nisip puțin adâncă, înainte de a încheia ziua relaxat cu un apus de soare pitoresc pe Riva.",
-        "en": "Start your day in the peaceful harbor of Privlaka before exploring the historical wells that testify to the region's rich traditions. After visiting St. Vitus Church, a local konoba invites you for Dalmatian specialties. The afternoon is dedicated to the sea and the shallow sandy beach, before ending the day relaxed with a picturesque sunset on the Riva."
+        "en": "Start your day in the peaceful harbor of Privlaka before exploring the historical wells that testify to the region's rich traditions. After visiting St. Vitus Church, a local konoba invites you for Dalmatian specialties. The afternoon is dedicated to the sea and the shallow sandy beach, before ending the day relaxed with a picturesque sunset on the Riva.",
+        "hr": "Započnite dan u mirnoj luci Privlake prije istraživanja povijesnih bunara koji svjedoče o bogatoj tradiciji regije. Nakon posjeta crkvi sv. Vida, lokalna konoba vas poziva na dalmatinske specijalitete. Poslijepodne je posvećeno moru i plitkoj pješčanoj plaži, prije nego što dan završite opušteno uz slikovit zalazak sunca na rivi."
       },
       "gastro_picks": {
         "de": [
@@ -204,6 +212,16 @@
             "name": "Grilled Bream",
             "tip": "Freshly caught fish with olive oil and chard."
           }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Planura",
+            "tip": "Domaća tjestenina s plodovima mora."
+          },
+          {
+            "name": "Orada na žaru",
+            "tip": "Svježe ulovljena riba s maslinovim uljem i blitvom."
+          }
         ]
       },
       "quiet_picks": {
@@ -234,6 +252,13 @@
             "tip": "Quiet spot for watching the waves.",
             "emoji": "🌊"
           }
+        ],
+        "hr": [
+          {
+            "name": "Molo Kuta",
+            "tip": "Mirno mjesto za promatranje valova.",
+            "emoji": "🌊"
+          }
         ]
       },
       "shopping_picks": {
@@ -259,6 +284,12 @@
           {
             "name": "Local Olive Oil",
             "tip": "Available directly from local farmers."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno maslinovo ulje",
+            "tip": "Dostupno izravno kod lokalnih poljoprivrednika."
           }
         ]
       },
@@ -286,6 +317,12 @@
           "The shallow beaches are perfect for families with children.",
           "Wear comfortable sandals for the harbor promenade.",
           "The area is very flat, ideal for easy strolls."
+        ],
+        "hr": [
+          "Privlaka je poznata po naslagama ljekovitog blata.",
+          "Plitke plaže savršene su za obitelji s djecom.",
+          "Nosite udobne sandale za šetnju lukom.",
+          "Područje je vrlo ravno, idealno za lagane šetnje."
         ]
       },
       "variants": {
@@ -294,7 +331,8 @@
             "de": "Regnerischer Morgen am Hafen mit ausgedehntem Frühstück im Trockenen. Wir besuchen die historischen Brunnen und die Kirche Sveti Vid, die guten Schutz bieten. Mittags genießen wir die dalmatinische Küche in einer gemütlichen Konoba. Ein kurzer Spaziergang mit Regenschirm entlang der Riva führt uns zum Strand, wo wir das stürmische Meer aus einem Café beobachten, bevor der Tag gemütlich endet.",
             "hu": "Esős reggel a kikötőben, hosszú reggelivel a fedett teraszon. A Privlački bunari és a Szent Vid-templom látogatása közben az épületek nyújtanak menedéket. Ebédre egy meleg konobát választunk, ahol helyi specialitásokat kóstolunk. Délután esernyővel sétálunk a Riva mentén, a tengerparti panorámát pedig egy hangulatos kávézó ablakából csodáljuk meg, mielőtt visszatérnénk a szállásra.",
             "ro": "O dimineață ploioasă în port, cu un mic dejun prelungit la adăpost. Vizităm fântânile istorice și biserica Sfântul Vid, care oferă protecție bună împotriva ploii. La prânz ne bucurăm de bucătăria dalmată într-o tavernă primitoare. O scurtă plimbare cu umbrela de-a lungul falezii Riva ne duce spre plajă, unde observăm marea agitată dintr-o cafenea înainte ca ziua să se încheie confortabil.",
-            "en": "A rainy morning at the harbor with an extended breakfast under cover. We visit the historical wells and St. Vitus Church, which provide good shelter. At lunch, we enjoy Dalmatian cuisine in a cozy konoba. A short walk with an umbrella along the Riva leads us to the beach, where we watch the stormy sea from a cafe before the day ends in a relaxed atmosphere."
+            "en": "A rainy morning at the harbor with an extended breakfast under cover. We visit the historical wells and St. Vitus Church, which provide good shelter. At lunch, we enjoy Dalmatian cuisine in a cozy konoba. A short walk with an umbrella along the Riva leads us to the beach, where we watch the stormy sea from a cafe before the day ends in a relaxed atmosphere.",
+            "hr": "Kišno jutro u luci uz produženi doručak pod krovom. Posjećujeme povijesne bunare i crkvu sv. Vida koji pružaju dobar zaklon. Za ručak uživamo u dalmatinskoj kuhinji u ugodnoj konobi. Kratka šetnja s kišobranom uz rivu vodi nas do plaže, gdje promatramo olujno more iz kafića prije nego što dan završi u opuštenoj atmosferi."
           },
           "stops": [
             {
@@ -303,7 +341,8 @@
                 "de": "Wählen Sie einen Platz im Innenbereich für einen trockenen Start.",
                 "hu": "Válasszunk belső asztalt, hogy szárazon indítsuk a napot.",
                 "ro": "Alegeți o masă în interior pentru un început de zi uscat.",
-                "en": "Choose an indoor table for a dry start to the day."
+                "en": "Choose an indoor table for a dry start to the day.",
+                "hr": "Odaberite stol u zatvorenom za suhi početak dana."
               }
             },
             {
@@ -312,7 +351,8 @@
                 "de": "Die historischen Brunnenanlagen bieten begrenzten Schutz unter den Bögen.",
                 "hu": "A történelmi kutak boltívei alatt némi menedéket találunk.",
                 "ro": "Arcadele fântânilor istorice oferă un adăpost limitat.",
-                "en": "The arches of the historical wells offer limited shelter."
+                "en": "The arches of the historical wells offer limited shelter.",
+                "hr": "Lukovi povijesnih bunara nude ograničen zaklon."
               }
             },
             {
@@ -321,7 +361,8 @@
                 "de": "Idealer Ort, um einen kurzen Schauer im stillen Innenraum abzuwarten.",
                 "hu": "Ideális hely egy rövid zápor kivárására a csendes belső térben.",
                 "ro": "Loc ideal pentru a aștepta trecerea unei scurte averse în interior.",
-                "en": "Ideal place to wait out a short shower in the quiet interior."
+                "en": "Ideal place to wait out a short shower in the quiet interior.",
+                "hr": "Idealno mjesto za pričekati kratki pljusak u mirnoj unutrašnjosti."
               }
             },
             {
@@ -330,7 +371,8 @@
                 "de": "Genießen Sie ein langes, warmes Mittagessen am Kamin.",
                 "hu": "Élvezze a hosszú, meleg ebédet a kandalló mellett.",
                 "ro": "Savurați un prânz lung și cald lângă șemineu.",
-                "en": "Enjoy a long, warm lunch near the fireplace."
+                "en": "Enjoy a long, warm lunch near the fireplace.",
+                "hr": "Uživajte u dugom, toplom ručku blizu kamina."
               }
             },
             {
@@ -339,7 +381,8 @@
                 "de": "Tragen Sie wasserfeste Schuhe, da die Steine rutschig sein können.",
                 "hu": "Viseljünk vízálló cipőt, mert a kövek csúszósak lehetnek.",
                 "ro": "Purtați pantofi impermeabili, pietrele pot fi alunecoase.",
-                "en": "Wear waterproof shoes as the stones can be slippery."
+                "en": "Wear waterproof shoes as the stones can be slippery.",
+                "hr": "Nosite vodonepropusnu obuću jer kamenje može biti sklisko."
               }
             },
             {
@@ -348,7 +391,8 @@
                 "de": "Die Strandbar bietet einen tollen Blick auf die Regenwolken über dem Meer.",
                 "hu": "A strandbár remek kilátást nyújt a tenger feletti esőfelhőkre.",
                 "ro": "Barul de pe plajă oferă o priveliște excelentă spre norii de ploaie.",
-                "en": "The beach bar offers a great view of the rain clouds over the sea."
+                "en": "The beach bar offers a great view of the rain clouds over the sea.",
+                "hr": "Beach bar nudi sjajan pogled na kišne oblake nad morem."
               }
             },
             {
@@ -357,7 +401,8 @@
                 "de": "Trotz Wolken sorgt das diffuse Licht für eine besondere Stimmung.",
                 "hu": "A felhők ellenére a szórt fény különleges hangulatot áraszt.",
                 "ro": "În ciuda norilor, lumina difuză creează o atmosferă specială.",
-                "en": "Despite the clouds, the diffused light creates a special mood."
+                "en": "Despite the clouds, the diffused light creates a special mood.",
+                "hr": "Unatoč oblacima, difuzno svjetlo stvara poseban ugođaj."
               }
             }
           ],
@@ -385,6 +430,12 @@
               "The stone paving in the center becomes very slippery when wet.",
               "Many cafes have covered terraces with wind protection.",
               "Use rain breaks to photograph the glistening streets."
+            ],
+            "hr": [
+              "Čvrst kišobran je neophodan zbog obalnih vjetrova.",
+              "Kameno popločenje in centru postaje vrlo sklisko kad je mokro.",
+              "Mnogi kafići imaju natkrivene terase sa zaštitom od vjetra.",
+              "Iskoristite stanke od kiše za fotografiranje svjetlucavih ulica."
             ]
           }
         },
@@ -393,7 +444,8 @@
             "de": "Ein frischer Wintermorgen beginnt am Hafen mit heißem Kaffee. Die historischen Brunnen wirken in der tiefstehenden Sonne fast mystisch. Nach dem Besuch der Kirche Sveti Vid wärmen wir uns bei einem herzhaften Mittagessen in einer Konoba auf. Der Nachmittagsspaziergang an der Riva ist belebend, und am menschenleeren Strand genießen wir die Ruhe, bevor die Sonne bereits gegen 16:30 Uhr untergeht.",
             "hu": "Friss téli reggel a kikötőben, forró kávéval indítva. A Privlački bunari az alacsonyan járó napfényben szinte misztikus látványt nyújt. A Szent Vid-templom után egy kiadós ebéddel melegszünk fel a konobában. A délutáni séta a Riván frissítő, az üres strandon pedig élvezzük a csendet, mielőtt a nap már fél öt körül lenyugszik a horizont alatt.",
             "ro": "O dimineață răcoroasă de iarnă începe în port cu o cafea fierbinte. Fântânile istorice par mistice în lumina soarelui de iarnă. După vizitarea bisericii Sfântul Vid, ne încălzim cu un prânz copios într-o tavernă. Plimbarea de după-amiază pe Riva este revigorantă, iar pe plaja pustie savurăm liniștea înainte ca soarele să apună deja în jurul orei 16:30.",
-            "en": "A crisp winter morning starts at the harbor with hot coffee. The historical wells look almost mystical in the low winter sun. After visiting St. Vitus Church, we warm up with a hearty lunch in a konoba. The afternoon walk along the Riva is invigorating, and on the deserted beach, we enjoy the silence before the sun sets as early as 4:30 PM."
+            "en": "A crisp winter morning starts at the harbor with hot coffee. The historical wells look almost mystical in the low winter sun. After visiting St. Vitus Church, we warm up with a hearty lunch in a konoba. The afternoon walk along the Riva is invigorating, and on the deserted beach, we enjoy the silence before the sun sets as early as 4:30 PM.",
+            "hr": "Svježe zimsko jutro počinje u luci uz toplu kavu. Povijesni bunari izgledaju gotovo mistično na niskom zimskom suncu. Nakon posjeta crkvi sv. Vida, grijemo se uz obilan ručak u konobi. Poslijepodnevna šetnja rivom okrepljuje, a na pustoj plaži uživamo u tišini prije nego što sunce zađe već u 16:30."
           },
           "stops": [
             {
@@ -402,7 +454,8 @@
                 "de": "Fragen Sie nach lokalem Kräutertee zum Aufwärmen.",
                 "hu": "Kérjünk helyi gyógyteát a felmelegedéshez.",
                 "ro": "Cereți un ceai de plante local pentru a vă încălzi.",
-                "en": "Ask for local herbal tea to warm up."
+                "en": "Ask for local herbal tea to warm up.",
+                "hr": "Zatražite lokalni biljni čaj za zagrijavanje."
               }
             },
             {
@@ -411,7 +464,8 @@
                 "de": "Das Licht am Vormittag ist ideal für Fotos ohne Touristenmassen.",
                 "hu": "A délelőtti fények ideálisak a fotózáshoz tömeg nélkül.",
                 "ro": "Lumina dimineții este ideală pentru fotografii fără mulțimi.",
-                "en": "The morning light is ideal for photos without tourist crowds."
+                "en": "The morning light is ideal for photos without tourist crowds.",
+                "hr": "Jutarnje svjetlo je idealno za fotografije bez turističkih gužvi."
               }
             },
             {
@@ -420,7 +474,8 @@
                 "de": "Beachten Sie die kurzen Öffnungszeiten im Winter.",
                 "hu": "Ügyeljünk a téli időszakban rövidebb nyitvatartásra.",
                 "ro": "Atenție la programul scurt de vizitare în timpul iernii.",
-                "en": "Note the shorter opening hours during winter."
+                "en": "Note the shorter opening hours during winter.",
+                "hr": "Obratite pozornost na kraće radno vrijeme zimi."
               }
             },
             {
@@ -429,7 +484,8 @@
                 "de": "Probieren Sie 'Peka', ein traditionelles Wintergericht.",
                 "hu": "Kóstoljuk meg a 'Pekát', egy tradicionális téli ételt.",
                 "ro": "Încercați 'Peka', un fel de mâncare tradițional de iarnă.",
-                "en": "Try 'Peka', a traditional winter dish."
+                "en": "Try 'Peka', a traditional winter dish.",
+                "hr": "Probajte 'Peku', tradicionalno zimsko jelo."
               }
             },
             {
@@ -438,7 +494,8 @@
                 "de": "Winddichte Kleidung schützt vor der kalten Bura.",
                 "hu": "Szélálló ruházat véd a hideg bóra szél ellen.",
                 "ro": "Hainele rezistente la vânt protejează împotriva vântului Bura.",
-                "en": "Windproof clothing protects against the cold Bura wind."
+                "en": "Windproof clothing protects against the cold Bura wind.",
+                "hr": "Odjeća otporna na vjetar štiti od hladne bure."
               }
             },
             {
@@ -447,7 +504,8 @@
                 "de": "Perfekt für einen meditativen Spaziergang in absoluter Ruhe.",
                 "hu": "Tökéletes egy meditatív sétához a teljes nyugalomban.",
                 "ro": "Perfect pentru o plimbare meditativă în liniște absolută.",
-                "en": "Perfect for a meditative walk in absolute peace."
+                "en": "Perfect for a meditative walk in absolute peace.",
+                "hr": "Savršeno za meditativnu šetnju u apsolutnom miru."
               }
             },
             {
@@ -456,7 +514,8 @@
                 "de": "Die Sonne geht früh unter, seien Sie spätestens um 16:15 Uhr hier.",
                 "hu": "A nap korán nyugszik, legyünk itt legkésőbb 16:15-kor.",
                 "ro": "Soarele apune devreme, fiți aici cel târziu la ora 16:15.",
-                "en": "The sun sets early, be here by 4:15 PM at the latest."
+                "en": "The sun sets early, be here by 4:15 PM at the latest.",
+                "hr": "Sunce rano zalazi, budite ovdje najkasnije u 16:15."
               }
             }
           ],
@@ -484,6 +543,12 @@
               "The Bura wind can be very cold, pack a hat and gloves.",
               "Many seasonal places are closed, look for year-round konobas.",
               "Take advantage of the clear winter air for views of distant islands."
+            ],
+            "hr": [
+              "Odjenite se slojevito jer sunce tijekom dana još uvijek može biti toplo.",
+              "Bura može biti vrlo hladna, spakirajte kapu i rukavice.",
+              "Mnoga sezonska mjesta su zatvorena, tražite konobe koje rade cijelu godinu.",
+              "Iskoristite čisti zimski zrak za pogled na udaljene otoke."
             ]
           }
         }
@@ -515,7 +580,8 @@
             "de": "Holen Sie sich Ihr Rad für die Halbinsel-Tour.",
             "hu": "Béreljen kerékpárt a félsziget túrához.",
             "ro": "Luați-vă bicicleta pentru turul peninsulei.",
-            "en": "Get your bike for the peninsula tour."
+            "en": "Get your bike for the peninsula tour.",
+            "hr": "Uzmite svoj bicikl za turu poluotokom."
           }
         },
         {
@@ -533,7 +599,8 @@
             "de": "Ikonische Kirche auf einer kleinen Landzunge.",
             "hu": "Ikonikus templom egy kis földnyelven.",
             "ro": "Biserică iconică pe o mică limbă de pământ.",
-            "en": "Iconic church on a small spit of land."
+            "en": "Iconic church on a small spit of land.",
+            "hr": "Kultna crkvica na malom rtu."
           }
         },
         {
@@ -554,7 +621,8 @@
             "de": "Schöner Radweg entlang der Dünen.",
             "hu": "Gyönyörű kerékpárút a dűnék mentén.",
             "ro": "Pistă de biciclete frumoasă de-a lungul dunelor.",
-            "en": "Beautiful bike path along the dunes."
+            "en": "Beautiful bike path along the dunes.",
+            "hr": "Prekrasna biciklistička staza uz dine."
           }
         },
         {
@@ -572,7 +640,8 @@
             "de": "Berühmter Sandstrand, ideal zum Kitesurfen.",
             "hu": "Híres homokos strand, ideális kitesurfözéshez.",
             "ro": "Plajă celebră cu nisip, ideală pentru kitesurfing.",
-            "en": "Famous sandy beach, ideal for kitesurfing."
+            "en": "Famous sandy beach, ideal for kitesurfing.",
+            "hr": "Poznata pješčana plaža, idealna za kitesurfing."
           }
         },
         {
@@ -593,7 +662,8 @@
             "de": "Stärken Sie sich für den Rückweg.",
             "hu": "Gyűjtsön erőt a visszaúthoz.",
             "ro": "Prindeți puteri pentru drumul de întoarcere.",
-            "en": "Recharge for the way back."
+            "en": "Recharge for the way back.",
+            "hr": "Napunite baterije za povratak."
           }
         },
         {
@@ -611,7 +681,8 @@
             "de": "Kurzer Stopp bei den historischen Brunnen.",
             "hu": "Rövid megálló a történelmi kutaknál.",
             "ro": "Scurt popas la fântânile istorice.",
-            "en": "Short stop at the historical wells."
+            "en": "Short stop at the historical wells.",
+            "hr": "Kratko zaustavljanje kod povijesnih bunara."
           }
         },
         {
@@ -629,7 +700,8 @@
             "de": "Ein letzter kultureller Einblick.",
             "hu": "Egy utolsó kulturális betekintés.",
             "ro": "O ultimă incursiune culturală.",
-            "en": "A final cultural insight."
+            "en": "A final cultural insight.",
+            "hr": "Posljednji kulturni uvid."
           }
         },
         {
@@ -650,7 +722,8 @@
             "de": "Geben Sie die Räder ab und genießen Sie den Abend.",
             "hu": "Adja le a bicikliket és élvezze az estét.",
             "ro": "Predați bicicletele și bucurați-vă de seară.",
-            "en": "Return the bikes and enjoy the evening."
+            "en": "Return the bikes and enjoy the evening.",
+            "hr": "Vratite bicikle i uživajte u večeri."
           }
         }
       ],
@@ -658,7 +731,8 @@
         "de": "Erkunden Sie die gesamte Halbinsel von Privlaka mit dem Fahrrad. Von der einsamen St.-Nikolaus-Kirche an der Spitze führt der Weg entlang der Küste zum berühmten Sandstrand Sabunike. Nach einem ausgiebigen Badestopp radeln Sie zurück ins Zentrum, besuchen die historischen Brunnen und beenden die Tour gemütlich im Hafen bei einem dalmatinischen Abendessen.",
         "hu": "Fedezze fel Privlaka egész félszigetét kerékpárral. A csúcson lévő magányos Szent Miklós-templomtól az út a part mentén vezet a híres Sabunike homokos strandhoz. Egy kiadós fürdőzés után tekerjen vissza a központba, látogassa meg a történelmi kutakat, és zárja a túrát kényelmesen a kikötőben egy dalmát vacsorával.",
         "ro": "Explorați întreaga peninsulă Privlaka cu bicicleta. De la biserica solitară Sf. Nicolae din vârf, drumul duce de-a lungul coastei spre celebra plajă cu nisip Sabunike. După o oprire prelungită pentru baie, pedalați înapoi spre centru, vizitați fântânile istorice și încheiați turul relaxat în port cu o cină dalmată.",
-        "en": "Explore the entire peninsula of Privlaka by bike. From the lonely St. Nicholas Church at the tip, the path leads along the coast to the famous Sabunike sandy beach. After a long swimming stop, cycle back to the center, visit the historical wells, and end the tour comfortably in the harbor with a Dalmatian dinner."
+        "en": "Explore the entire peninsula of Privlaka by bike. From the lonely St. Nicholas Church at the tip, the path leads along the coast to the famous Sabunike sandy beach. After a long swimming stop, cycle back to the center, visit the historical wells, and end the tour comfortably in the harbor with a Dalmatian dinner.",
+        "hr": "Istražite cijeli poluotok Privlaku biciklom. Od usamljene crkve sv. Nikole na samom vrhu, staza vodi uz obalu do poznate pješčane plaže Sabunike. Nakon duge stanke za kupanje, odvezite se natrag do centra, posjetite povijesne bunare i ugodno završite turu u luci uz dalmatinsku večeru."
       },
       "gastro_picks": {
         "de": [
@@ -683,6 +757,12 @@
           {
             "name": "Pizzeria Amico",
             "tip": "Good pizzas for quick hunger while cycling."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pizzeria Amico",
+            "tip": "Dobre pizze za brzu glad tijekom vožnje."
           }
         ]
       },
@@ -714,6 +794,13 @@
             "tip": "Lonely spot with wide sea views.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Rt sv. Nikole",
+            "tip": "Osamljeno mjesto sa širokim pogledom na more.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -739,6 +826,12 @@
           {
             "name": "Honey from the Beekeeper",
             "tip": "Local sage honey from the region."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Med od pčelara",
+            "tip": "Lokalni med od kadulje iz regije."
           }
         ]
       },
@@ -766,6 +859,12 @@
           "Take enough water, especially for the way to Sabunike.",
           "A mountain bike is not strictly necessary, trekking bikes are enough.",
           "Watch out for the wind, which can be strong on the coast."
+        ],
+        "hr": [
+          "Ruta je ravna i vrlo ugodna za vožnju.",
+          "Ponosite dovoljno vode, posebno za put do Sabunika.",
+          "Planinski bicikl nije nužan, dovoljni su trekking bicikli.",
+          "Pripazite na vjetar koji na obali može biti jak."
         ]
       },
       "variants": {
@@ -774,7 +873,8 @@
             "de": "Trotz Regen starten wir die Radtour am Hafen mit voller Regenmontur. Wir fahren vorsichtig zur Kirche Sveti Nikola und weiter entlang der Küste nach Sabunike. Der Boden ist aufgeweicht, daher wählen wir befestigte Wege. Ein langes Mittagessen in Sabunike lässt den stärksten Guss vorbeiziehen. Nachmittags kehren wir über die historischen Brunnen zum Hafen zurück, wo ein heißes Getränk auf uns wartet.",
             "hu": "Az eső ellenére teljes menetfelszerelésben indulunk a kikötőből. Óvatosan tekerünk a Szent Miklós-templomhoz, majd tovább a part mentén Sabunike felé. A talaj felázott, így a szilárd burkolatú utakat választjuk. Egy hosszú ebéd Sabunikében segít átvészelni a legnagyobb felhőszakadást. Délután a kutak érintésével térünk vissza a kikötőbe egy forró italra.",
             "ro": "În ciuda ploii, începem tura cu bicicleta din port echipați complet. Pedalăm cu atenție spre biserica Sfântul Nicolae și continuăm pe coastă spre Sabunike. Terenul este moale, așa că alegem drumurile asfaltate. Un prânz lung în Sabunike ne ajută să trecem de cea mai mare aversă. După-amiază ne întoarcem în port prin zona fântânilor pentru o băutură caldă.",
-            "en": "Despite the rain, we start the bike tour at the harbor in full rain gear. We cycle carefully to St. Nicholas Church and continue along the coast to Sabunike. The ground is soft, so we stick to paved paths. A long lunch in Sabunike helps us wait out the heaviest downpour. In the afternoon, we return to the harbor via the wells for a hot drink."
+            "en": "Despite the rain, we start the bike tour at the harbor in full rain gear. We cycle carefully to St. Nicholas Church and continue along the coast to Sabunike. The ground is soft, so we stick to paved paths. A long lunch in Sabunike helps us wait out the heaviest downpour. In the afternoon, we return to the harbor via the wells for a hot drink.",
+            "hr": "Unatoč kiši, započinjemo biciklističku turu u luci u punoj kišnoj opremi. Oprezno vozimo do crkve sv. Nikole i nastavljamo uz obalu do Sabunika. Tlo je mekano, pa se držimo asfaltiranih staza. Dugi ručak u Sabunikama pomaže nam da pričekamo najjači pljusak. Poslijepodne se vraćamo u luku preko bunara na topli napitak."
           },
           "stops": [
             {
@@ -783,7 +883,8 @@
                 "de": "Prüfen Sie die Schutzbleche und die Bremsbeläge vor dem Start.",
                 "hu": "Indulás előtt ellenőrizzük a sárvédőket és a fékbetéteket.",
                 "ro": "Verificați aripile și plăcuțele de frână înainte de plecare.",
-                "en": "Check the mudguards and brake pads before starting."
+                "en": "Check the mudguards and brake pads before starting.",
+                "hr": "Provjerite blatobrane i kočnice prije polaska."
               }
             },
             {
@@ -792,7 +893,8 @@
                 "de": "Der Vorplatz kann bei Nässe sehr rutschig sein.",
                 "hu": "A templom előtti tér vizesen nagyon csúszós lehet.",
                 "ro": "Piațeta din fața bisericii poate fi foarte alunecoasă pe ploaie.",
-                "en": "The square in front of the church can be very slippery when wet."
+                "en": "The square in front of the church can be very slippery when wet.",
+                "hr": "Trg ispred crkve može biti vrlo sklisk kad je mokro."
               }
             },
             {
@@ -801,7 +903,8 @@
                 "de": "Meiden Sie die unbefestigten Klippenpfade bei starkem Regen.",
                 "hu": "Kerüljük a kiépítetlen sziklaparti ösvényeket heves esőben.",
                 "ro": "Evitați potecile neamenajate de pe faleză în timpul ploii abundente.",
-                "en": "Avoid unpaved cliff paths during heavy rain."
+                "en": "Avoid unpaved cliff paths during heavy rain.",
+                "hr": "Izbjegavajte neasfaltirane staze uz litice tijekom jake kiše."
               }
             },
             {
@@ -810,7 +913,8 @@
                 "de": "Ein kurzer Blick auf den grauen Ozean, dann weiter ins Trockene.",
                 "hu": "Egy gyors pillantás a szürke óceánra, majd irány a fedett hely.",
                 "ro": "O privire scurtă spre oceanul gri, apoi mergem la adăpost.",
-                "en": "A quick look at the gray ocean, then head for shelter."
+                "en": "A quick look at the gray ocean, then head for shelter.",
+                "hr": "Brzi pogled na sivo more, a zatim potražite zaklon."
               }
             },
             {
@@ -819,7 +923,8 @@
                 "de": "Idealer Ort, um die Kleidung etwas zu trocknen.",
                 "hu": "Ideális hely a ruházat némiképp kiszárítására.",
                 "ro": "Loc ideal pentru a vă usca puțin hainele.",
-                "en": "Ideal place to dry your clothes a bit."
+                "en": "Ideal place to dry your clothes a bit.",
+                "hr": "Idealno mjesto da malo osušite odjeću."
               }
             },
             {
@@ -828,7 +933,8 @@
                 "de": "Vorsicht beim Absteigen auf nassem Untergrund.",
                 "hu": "Vigyázzunk a leszálláskor a vizes talajon.",
                 "ro": "Atenție la coborârea de pe bicicletă pe solul ud.",
-                "en": "Be careful when dismounting on wet ground."
+                "en": "Be careful when dismounting on wet ground.",
+                "hr": "Budite oprezni pri silasku s bicikla na mokrom tlu."
               }
             },
             {
@@ -837,7 +943,8 @@
                 "de": "Kurzer Stopp für ein Foto im Regenlicht.",
                 "hu": "Rövid megálló egy fotóra az esős fényekben.",
                 "ro": "Oprire scurtă pentru o poză în lumina ploioasă.",
-                "en": "Short stop for a photo in the rainy light."
+                "en": "Short stop for a photo in the rainy light.",
+                "hr": "Kratko zaustavljanje za fotografiju na kišnom svjetlu."
               }
             },
             {
@@ -846,7 +953,8 @@
                 "de": "Verstauen Sie das Rad an einem geschützten Ort.",
                 "hu": "Tároljuk a kerékpárt védett helyen.",
                 "ro": "Depozitați bicicleta într-un loc protejat.",
-                "en": "Store the bike in a protected place."
+                "en": "Store the bike in a protected place.",
+                "hr": "Spremite bicikl na zaštićeno mjesto."
               }
             }
           ],
@@ -874,6 +982,12 @@
               "Wear neon rain gear for better visibility.",
               "Keep the chain clean and oiled after the tour.",
               "Coastal wind gusts can make cycling more difficult."
+            ],
+            "hr": [
+              "Izbjegavajte naglo kočenje na mokrom asfaltu.",
+              "Nosite neonsku kišnu opremu radi bolje vidljivosti.",
+              "Očistite i nauljite lanac nakon ture.",
+              "Naleti obalnog vjetra mogu otežati vožnju bicikla."
             ]
           }
         },
@@ -882,7 +996,8 @@
             "de": "Der Wintertag auf dem Rad beginnt frisch am Hafen. Wir folgen der Küstenstraße zur Kirche Sveti Nikola, wobei uns die Wintersonne begleitet. In Sabunike genießen wir die klare Sicht auf das Velebit-Gebirge. Nach einem wärmenden Mittagessen führen uns ruhige Nebenstraßen zu den historischen Brunnen. Wir beenden die Tour am Hafen, bevor die Kälte des Abends einsetzt.",
             "hu": "Frissen indul a téli bringás nap a kikötőből. A tengerparti úton tekerünk a Szent Miklós-templomhoz, miközben a téli nap végigkísér minket. Sabunikében élvezzük a tiszta kilátást a Velebit-hegységre. Egy melengető ebéd után csendes mellékutakon érjük el a kutakat. Még az esti lehűlés előtt befejezzük a túrát a kikötőben.",
             "ro": "Ziua de iarnă pe bicicletă începe răcoros în port. Urmăm drumul de coastă spre biserica Sfântul Nicolae, însoțiți de soarele de iarnă. În Sabunike ne bucurăm de vederea clară spre munții Velebit. După un prânz cald, drumuri secundare liniștite ne duc spre fântâni. Încheiem tura în port înainte de lăsarea frigului serii.",
-            "en": "The winter day on the bike starts fresh at the harbor. We follow the coastal road to St. Nicholas Church, accompanied by the winter sun. In Sabunike, we enjoy the clear view of the Velebit mountains. After a warming lunch, quiet side roads lead us to the wells. We finish the tour at the harbor before the evening chill sets in."
+            "en": "The winter day on the bike starts fresh at the harbor. We follow the coastal road to St. Nicholas Church, accompanied by the winter sun. In Sabunike, we enjoy the clear view of the Velebit mountains. After a warming lunch, quiet side roads lead us to the wells. We finish the tour at the harbor before the evening chill sets in.",
+            "hr": "Zimski dan na biciklu počinje svježe u luci. Pratimo obalnu cestu do crkve sv. Nikole, uz pratnju zimskog sunca. U Sabunikama uživamo u čistom pogledu na planinu Velebit. Nakon okrepljujućeg ručka, mirne sporedne ceste vode nas do bunara. Turu završavamo u luci prije nego što nastupi večernja hladnoća."
           },
           "stops": [
             {
@@ -891,7 +1006,8 @@
                 "de": "Handschuhe sind bei Fahrtwind im Winter unverzichtbar.",
                 "hu": "A menetszél miatt télen a kesztyű nélkülözhetetlen.",
                 "ro": "Mănușile sunt indispensabile iarna din cauza vântului.",
-                "en": "Gloves are essential in winter due to the wind chill."
+                "en": "Gloves are essential in winter due to the wind chill.",
+                "hr": "Rukavice su neophodne zimi zbog hladnog vjetra."
               }
             },
             {
@@ -900,7 +1016,8 @@
                 "de": "Nutzen Sie das klare Licht für Panoramaaufnahmen.",
                 "hu": "Használjuk ki a tiszta fényeket a panorámafotókhoz.",
                 "ro": "Profită de lumina clară pentru fotografii panoramice.",
-                "en": "Take advantage of the clear light for panoramic shots."
+                "en": "Take advantage of the clear light for panoramic shots.",
+                "hr": "Iskoristite čisto svjetlo za panoramske snimke."
               }
             },
             {
@@ -909,7 +1026,8 @@
                 "de": "Der Wind kann hier deutlich kälter sein als im Ort.",
                 "hu": "A szél itt jóval hidegebb lehet, mint a településen.",
                 "ro": "Vântul poate fi mult mai rece aici decât în localitate.",
-                "en": "The wind here can be much colder than in the village."
+                "en": "The wind here can be much colder than in the village.",
+                "hr": "Vjetar ovdje može biti mnogo hladniji nego u selu."
               }
             },
             {
@@ -918,7 +1036,8 @@
                 "de": "Kurzer Stopp für den Ausblick, halten Sie den Körper in Bewegung.",
                 "hu": "Rövid megálló a kilátásért, tartsuk mozgásban a testünket.",
                 "ro": "Oprire scurtă pentru priveliște, mențineți corpul în mișcare.",
-                "en": "Short stop for the view, keep your body moving."
+                "en": "Short stop for the view, keep your body moving.",
+                "hr": "Kratka stanka za pogled, ostanite u pokretu."
               }
             },
             {
@@ -927,7 +1046,8 @@
                 "de": "Bestellen Sie eine heiße Suppe als Vorspeise.",
                 "hu": "Rendeljünk egy forró levest előételnek.",
                 "ro": "Comandați o supă fierbinte ca aperitiv.",
-                "en": "Order a hot soup as an appetizer."
+                "en": "Order a hot soup as an appetizer.",
+                "hr": "Naručite toplu juhu kao predjelo."
               }
             },
             {
@@ -936,7 +1056,8 @@
                 "de": "Die Anlage ist im Winter angenehm leer.",
                 "hu": "A helyszín télen kellemesen üres.",
                 "ro": "Locația este plăcut de goală în timpul iernii.",
-                "en": "The site is pleasantly empty in winter."
+                "en": "The site is pleasantly empty in winter.",
+                "hr": "Lokacija je zimi ugodno prazna."
               }
             },
             {
@@ -945,7 +1066,8 @@
                 "de": "Die Sonne steht tief, achten Sie auf Schattenwurf beim Fotografieren.",
                 "hu": "A nap alacsonyan jár, ügyeljünk az árnyékokra fotózáskor.",
                 "ro": "Soarele este jos, atenție la umbre când fotografiați.",
-                "en": "The sun is low, watch out for shadows when taking photos."
+                "en": "The sun is low, watch out for shadows when taking photos.",
+                "hr": "Sunce je nisko, pripazite na sjene pri fotografiranju."
               }
             },
             {
@@ -954,7 +1076,8 @@
                 "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
                 "hu": "Győződjünk meg róla, hogy a kerékpár lámpái működnek.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează.",
-                "en": "Make sure your bike lights are working."
+                "en": "Make sure your bike lights are working.",
+                "hr": "Provjerite rade li svjetla na biciklu."
               }
             }
           ],
@@ -982,6 +1105,12 @@
               "Days are short, plan to return before 4:30 PM.",
               "Watch out for frost on shaded sections of the road.",
               "A hot tea in a thermos is a good companion."
+            ],
+            "hr": [
+              "Nosite termo čarape kako biste izbjegli hladna stopala.",
+              "Dani su kratki, planirajte povratak prije 16:30.",
+              "Pripazite na mraz na zasjenjenim dijelovima ceste.",
+              "Topli čaj u termosici je dobar suputnik."
             ]
           }
         }
@@ -1013,7 +1142,8 @@
             "de": "Parken Sie hier für den Rundgang im Zentrum.",
             "hu": "Parkoljon itt a központi körúthoz.",
             "ro": "Parcați aici pentru turul în centru.",
-            "en": "Park here for the center walk."
+            "en": "Park here for the center walk.",
+            "hr": "Parkirajte ovdje za šetnju centrom."
           }
         },
         {
@@ -1031,7 +1161,8 @@
             "de": "Zu Fuß erreichbar vom Parkplatz.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos de la parcare.",
-            "en": "Walkable from the parking lot."
+            "en": "Walkable from the parking lot.",
+            "hr": "Dostupno pješice s parkirališta."
           }
         },
         {
@@ -1049,7 +1180,8 @@
             "de": "Kleiner Spaziergang im historischen Kern.",
             "hu": "Rövid séta a történelmi magban.",
             "ro": "Scurtă plimbare în nucleul istoric.",
-            "en": "Short walk in the historical core."
+            "en": "Short walk in the historical core.",
+            "hr": "Kratka šetnja u povijesnoj jezgri."
           }
         },
         {
@@ -1067,7 +1199,8 @@
             "de": "Fahrt zum großen Sandstrand.",
             "hu": "Utazás a nagy homokos strandhoz.",
             "ro": "Drum spre marea plajă cu nisip.",
-            "en": "Drive to the large sandy beach."
+            "en": "Drive to the large sandy beach.",
+            "hr": "Vožnja do velike pješčane plaže."
           }
         },
         {
@@ -1088,7 +1221,8 @@
             "de": "Restaurants direkt in Strandnähe.",
             "hu": "Éttermek közvetlenül a strand közelében.",
             "ro": "Restaurante chiar lângă plajă.",
-            "en": "Restaurants right near the beach."
+            "en": "Restaurants right near the beach.",
+            "hr": "Restorani u neposrednoj blizini plaže."
           }
         },
         {
@@ -1109,7 +1243,8 @@
             "de": "Letzter Stopp an der Nordwestspitze.",
             "hu": "Utolsó megálló az északnyugati csúcson.",
             "ro": "Ultima oprire în vârful de nord-vest.",
-            "en": "Last stop at the northwest tip."
+            "en": "Last stop at the northwest tip.",
+            "hr": "Zadnja stanica na sjeverozapadnom vrhu."
           }
         },
         {
@@ -1127,7 +1262,8 @@
             "de": "Kurzer Fußweg zur Kapelle am Meer.",
             "hu": "Rövid séta a tengerparti kápolnához.",
             "ro": "Scurtă plimbare până la capela de pe malul mării.",
-            "en": "Short walk to the seaside chapel."
+            "en": "Short walk to the seaside chapel.",
+            "hr": "Kratka šetnja do kapelice uz more."
           }
         },
         {
@@ -1148,7 +1284,8 @@
             "de": "Bester Platz für Fotos.",
             "hu": "A legjobb hely fotózáshoz.",
             "ro": "Cel mai bun loc pentru fotografii.",
-            "en": "Best place for photos."
+            "en": "Best place for photos.",
+            "hr": "Najbolje mjesto za fotografije."
           }
         }
       ],
@@ -1156,7 +1293,8 @@
         "de": "Nutzen Sie das Auto, um bequem zwischen den Clustern von Privlaka zu wechseln. Beginnen Sie im historischen Kern mit den Brunnen und der St.-Vitus-Kirche. Danach fahren Sie zum weitläufigen Sabunike-Strand für einen entspannten Nachmittag im Sand. Zum Abschluss führt die Fahrt zur Spitze der Halbinsel, wo die St.-Nikolaus-Kapelle die perfekte Kulisse für den Sonnenuntergang bietet.",
         "hu": "Használja az autót, hogy kényelmesen váltson Privlaka helyszínei között. Kezdje a történelmi magban a kutakkal és a Szent Vid-templommal. Ezután hajtson át a tágas Sabunike strandra egy nyugodt homokos délutánért. Végezetül az út a félsziget csúcsához vezet, ahol a Szent Miklós-kápolna tökéletes hátteret biztosít a naplementéhez.",
         "ro": "Folosiți mașina pentru a schimba confortabil între zonele din Privlaka. Începeți în nucleul istoric cu fântânile și biserica Sf. Vitus. Apoi conduceți spre plaja Sabunike pentru o după-amiază relaxată în nisip. În final, drumul duce spre vârful peninsulei, unde capela Sf. Nicolae oferă cadrul perfect pentru apusul soarelui.",
-        "en": "Use the car to conveniently switch between the clusters of Privlaka. Start in the historical core with the wells and St. Vitus Church. Then drive to the expansive Sabunike beach for a relaxed afternoon in the sand. Finally, the journey leads to the tip of the peninsula, where St. Nicholas Chapel provides the perfect backdrop for the sunset."
+        "en": "Use the car to conveniently switch between the clusters of Privlaka. Start in the historical core with the wells and St. Vitus Church. Then drive to the expansive Sabunike beach for a relaxed afternoon in the sand. Finally, the journey leads to the tip of the peninsula, where St. Nicholas Chapel provides the perfect backdrop for the sunset.",
+        "hr": "Koristite automobil za praktično prebacivanje između dijelova Privlake. Započnite u povijesnoj jezgri s bunarima i crkvom sv. Vida. Zatim se odvezite do prostrane plaže Sabunike na opušteno poslijepodne u pijesku. Na kraju, put vodi do vrha poluotoka, gdje kapelica sv. Nikole pruža savršenu kulisu za zalazak sunca."
       },
       "gastro_picks": {
         "de": [
@@ -1181,6 +1319,12 @@
           {
             "name": "Konoba Branimir",
             "tip": "Traditional meat dishes cooked under the Peka bell."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Branimir",
+            "tip": "Tradicionalna mesna jela pripremljena pod pekom."
           }
         ]
       },
@@ -1212,6 +1356,13 @@
             "tip": "Quiet retreat far from the hustle and bustle.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obala rta",
+            "tip": "Mirno utočište daleko od gužve i vreve.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1237,6 +1388,12 @@
           {
             "name": "Local Wine",
             "tip": "Dalmatian wines from the surrounding vineyards."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno vino",
+            "tip": "Dalmatinska vina iz okolnih vinograda."
           }
         ]
       },
@@ -1264,6 +1421,12 @@
           "The roads to Sabunike are well-maintained.",
           "Drive slowly as there are often cyclists on the road.",
           "There are limited parking options at the cape, arrive early for the sunset."
+        ],
+        "hr": [
+          "Parkiranje u centru je obično jednostavno.",
+          "Ceste prema Sabunikama su dobro održavane.",
+          "Vozite polako jer su na cesti često biciklisti.",
+          "Na rtu su ograničene mogućnosti parkiranja, dođite ranije za zalazak sunca."
         ]
       },
       "variants": {
@@ -1272,7 +1435,8 @@
             "de": "Regnerische Fahrt durch Privlaka. Wir parken bequem im Zentrum und besuchen die historischen Brunnen und die Kirche Sveti Vid, wobei das Auto als trockener Rückzugsort dient. Die Fahrt nach Sabunike bietet Ausblicke auf die aufgewühlte Adria. Ein gemütliches Mittagessen im Trockenen wird durch eine kurze Fahrt zum Kap ergänzt, bevor wir den Tag entspannt ausklingen lassen.",
             "hu": "Esős autózás Privlakában. Kényelmesen parkolunk a központban, és meglátogatjuk a kutakat, valamint a Szent Vid-templomot, az autó pedig száraz menedékként szolgál. A Sabunike felé vezető út látványos kilátást nyújt a felkorbácsolt Adriára. Egy hangulatos beltéri ebéd után rövid kitérőt teszünk a fokhoz, majd pihentetően zárjuk a napot.",
             "ro": "O plimbare cu mașina prin Privlaka pe ploaie. Parcăm confortabil în centru și vizităm fântânile și biserica Sfântul Vid, mașina fiind un refugiu uscat. Drumul spre Sabunike oferă vederi spre marea Adriatică agitată. Un prânz plăcut la interior este completat de o scurtă vizită la capătul falezei înainte de a încheia ziua relaxați.",
-            "en": "A rainy drive through Privlaka. We park conveniently in the center and visit the wells and St. Vitus Church, using the car as a dry retreat. The drive to Sabunike offers views of the turbulent Adriatic. A cozy indoor lunch is followed by a short trip to the cape before ending the day in a relaxed manner."
+            "en": "A rainy drive through Privlaka. We park conveniently in the center and visit the wells and St. Vitus Church, using the car as a dry retreat. The drive to Sabunike offers views of the turbulent Adriatic. A cozy indoor lunch is followed by a short trip to the cape before ending the day in a relaxed manner.",
+            "hr": "Kišna vožnja kroz Privlaku. Parkiramo praktično u centru i posjećujemo bunare i crkvu sv. Vida, koristeći automobil kao suho utočište. Vožnja do Sabunika nudi pogled na uzburkani Jadran. Nakon ugodnog ručka u zatvorenom slijedi kratki izlet do rta prije opuštenog završetka dana."
           },
           "stops": [
             {
@@ -1281,7 +1445,8 @@
                 "de": "Parken Sie nah am Eingang des Cafés.",
                 "hu": "Parkoljunk közel a kávézó bejáratához.",
                 "ro": "Parcați aproape de intrarea cafenelei.",
-                "en": "Park close to the cafe entrance."
+                "en": "Park close to the cafe entrance.",
+                "hr": "Parkirajte blizu ulaza u kafić."
               }
             },
             {
@@ -1290,7 +1455,8 @@
                 "de": "Kurzer Sprint vom Auto zu den Brunnen.",
                 "hu": "Rövid futás az autótól a kutakig.",
                 "ro": "Un scurt sprint de la mașină la fântâni.",
-                "en": "A short sprint from the car to the wells."
+                "en": "A short sprint from the car to the wells.",
+                "hr": "Kratki sprint od auta do bunara."
               }
             },
             {
@@ -1299,7 +1465,8 @@
                 "de": "Parkplätze direkt vor der Kirche vorhanden.",
                 "hu": "Parkolóhelyek közvetlenül a templom előtt találhatók.",
                 "ro": "Locuri de parcare disponibile chiar în fața bisericii.",
-                "en": "Parking spaces available right in front of the church."
+                "en": "Parking spaces available right in front of the church.",
+                "hr": "Parkirna mjesta dostupna točno ispred crkve."
               }
             },
             {
@@ -1308,7 +1475,8 @@
                 "de": "Genießen Sie den Blick aus dem warmen Auto.",
                 "hu": "Élvezzük a kilátást a meleg autóból.",
                 "ro": "Bucurați-vă de priveliște din mașina caldă.",
-                "en": "Enjoy the view from the warm car."
+                "en": "Enjoy the view from the warm car.",
+                "hr": "Uživajte u pogledu iz toplog automobila."
               }
             },
             {
@@ -1317,7 +1485,8 @@
                 "de": "Reservieren Sie einen Tisch mit Meerblick im Trockenen.",
                 "hu": "Foglaljunk asztalt tengeri kilátással, de fedett helyen.",
                 "ro": "Rezervați o masă cu vedere la mare la interior.",
-                "en": "Reserve a table with a sea view indoors."
+                "en": "Reserve a table with a sea view indoors.",
+                "hr": "Rezervirajte stol s pogledom na more u zatvorenom."
               }
             },
             {
@@ -1326,7 +1495,8 @@
                 "de": "Ideal, um das Wetterphänomen sicher zu beobachten.",
                 "hu": "Ideális az időjárási jelenségek biztonságos megfigyelésére.",
                 "ro": "Ideal pentru a observa fenomenele meteo în siguranță.",
-                "en": "Ideal for observing weather phenomena safely."
+                "en": "Ideal for observing weather phenomena safely.",
+                "hr": "Idealno za sigurno promatranje vremenskih pojava."
               }
             },
             {
@@ -1335,7 +1505,8 @@
                 "de": "Ein schirmfreier Moment für ein schnelles Foto.",
                 "hu": "Egy esernyőmentes pillanat egy gyors fotóhoz.",
                 "ro": "Un moment fără umbrelă pentru o poză rapidă.",
-                "en": "An umbrella-free moment for a quick photo."
+                "en": "An umbrella-free moment for a quick photo.",
+                "hr": "Trenutak bez kišobrana za brzu fotografiju."
               }
             },
             {
@@ -1344,7 +1515,8 @@
                 "de": "Das Licht wirkt durch die Wolken dramatisch.",
                 "hu": "A fények a felhőkön keresztül drámai hatást keltenek.",
                 "ro": "Lumina prin nori creează un efect dramatic.",
-                "en": "The light through the clouds creates a dramatic effect."
+                "en": "The light through the clouds creates a dramatic effect.",
+                "hr": "Svjetlo kroz oblake stvara dramatičan efekt."
               }
             }
           ],
@@ -1372,6 +1544,12 @@
               "Drive carefully on coastal roads due to aquaplaning risk.",
               "Keep a towel in the car for wet clothes.",
               "Use parking apps to avoid paying in the rain."
+            ],
+            "hr": [
+              "Provjerite stanje brisača vjetrobranskog stakla.",
+              "Vozite oprezno obalnim cestama zbog rizika od akvaplaninga.",
+              "Držite ručnik u autu za mokru odjeću.",
+              "Koristite aplikacije za parkiranje kako biste izbjegli plaćanje na kiši."
             ]
           }
         },
@@ -1380,7 +1558,8 @@
             "de": "Winterliche Entdeckungstour mit dem Auto. Nach einem gemütlichen Start im Zentrum erkunden wir die historischen Stätten von Privlaka. Die Fahrt nach Sabunike bei tiefstehender Sonne ist malerisch. Ein wärmendes Mittagessen stärkt uns für den Besuch des Kaps, wo uns eine steife Brise erwartet. Wir genießen den frühen Sonnenuntergang am Ponton direkt aus dem Wagen.",
             "hu": "Téli felfedezőtúra autóval. A központban tett kényelmes kezdés után bejárjuk Privlaka történelmi helyszíneit. Az alacsony napállás melletti autózás Sabunike felé festői látvány. Egy melengető ebéd után ellátogatunk a fokhoz, ahol friss szél fogad minket. A korai naplementét a mólónál közvetlenül a kocsiból élvezzük.",
             "ro": "Tur de explorare de iarnă cu mașina. După un început confortabil în centru, explorăm locurile istorice din Privlaka. Drumul spre Sabunike în lumina soarelui de iarnă este pitoresc. Un prânz cald ne întărește pentru vizita la capătul falezei, unde ne așteaptă un vânt puternic. Savurăm apusul timpuriu de la ponton direct din mașină.",
-            "en": "Winter discovery tour by car. After a comfortable start in the center, we explore the historical sites of Privlaka. The drive to Sabunike in the low sun is picturesque. A warming lunch strengthens us for the visit to the cape, where a stiff breeze awaits. We enjoy the early sunset at the pontoon directly from the car."
+            "en": "Winter discovery tour by car. After a comfortable start in the center, we explore the historical sites of Privlaka. The drive to Sabunike in the low sun is picturesque. A warming lunch strengthens us for the visit to the cape, where a stiff breeze awaits. We enjoy the early sunset at the pontoon directly from the car.",
+            "hr": "Zimski obilazak automobilom. Nakon ugodnog početka u centru, istražujemo povijesne znamenitosti Privlake. Vožnja do Sabunika na niskom suncu je slikovita. Topli ručak nas krijepi za posjet rtu, gdje nas čeka jak vjetar. Uživamo u ranom zalasku sunca kod rta izravno iz automobila."
           },
           "stops": [
             {
@@ -1389,7 +1568,8 @@
                 "de": "Lassen Sie den Motor kurz warmlaufen.",
                 "hu": "Hagyjuk a motort kicsit bemelegedni.",
                 "ro": "Lăsați motorul să se încălzească puțin.",
-                "en": "Let the engine warm up for a moment."
+                "en": "Let the engine warm up for a moment.",
+                "hr": "Pustite motor da se malo zagrije."
               }
             },
             {
@@ -1398,7 +1578,8 @@
                 "de": "Die Wintersonne wirft lange Schatten auf die Anlage.",
                 "hu": "A téli nap hosszú árnyékokat vet a területre.",
                 "ro": "Soarele de iarnă aruncă umbre lungi asupra locației.",
-                "en": "The winter sun casts long shadows on the site."
+                "en": "The winter sun casts long shadows on the site.",
+                "hr": "Zimsko sunce baca duge sjene na lokaciju."
               }
             },
             {
@@ -1407,7 +1588,8 @@
                 "de": "Besuchen Sie den Innenraum für eine kurze Aufwärmpause.",
                 "hu": "Látogassunk el a belső térbe egy rövid melegedőre.",
                 "ro": "Vizitați interiorul pentru o scurtă pauză de încălzire.",
-                "en": "Visit the interior for a short warm-up break."
+                "en": "Visit the interior for a short warm-up break.",
+                "hr": "Posjećujte unutrašnjost radi kratke stanke za zagrijavanje."
               }
             },
             {
@@ -1416,7 +1598,8 @@
                 "de": "Parken Sie windgeschützt hinter Dünen.",
                 "hu": "Parkoljunk a dűnék mögött, szélvédett helyen.",
                 "ro": "Parcați la adăpost de vânt în spatele dunelor.",
-                "en": "Park sheltered from the wind behind dunes."
+                "en": "Park sheltered from the wind behind dunes.",
+                "hr": "Parkirajte u zavjetrini iza dina."
               }
             },
             {
@@ -1425,7 +1608,8 @@
                 "de": "Die Heizung in den Restaurants ist im Winter sehr willkommen.",
                 "hu": "Az éttermek fűtése télen nagyon hívogató.",
                 "ro": "Încălzirea din restaurante este binevenită iarna.",
-                "en": "The heating in restaurants is very welcome in winter."
+                "en": "The heating in restaurants is very welcome in winter.",
+                "hr": "Grijanje u restoranima je zimi vrlo dobrodošlo."
               }
             },
             {
@@ -1434,7 +1618,8 @@
                 "de": "Bleiben Sie bei starker Bura lieber im Fahrzeug.",
                 "hu": "Erős bóra esetén maradjunk inkább a járműben.",
                 "ro": "În caz de Bura puternică, rămâneți în vehicul.",
-                "en": "In case of strong Bura, stay in the vehicle."
+                "en": "In case of strong Bura, stay in the vehicle.",
+                "hr": "U slučaju jake bure, ostanite u vozilu."
               }
             },
             {
@@ -1443,7 +1628,8 @@
                 "de": "Ein einsamer Ort mit großartiger Winter-Aura.",
                 "hu": "Magányos hely, nagyszerű téli aurával.",
                 "ro": "Un loc solitar cu o aură de iarnă extraordinară.",
-                "en": "A lonely place with a great winter aura."
+                "en": "A lonely place with a great winter aura.",
+                "hr": "Osamljeno mjesto sa sjajnom zimskom aurom."
               }
             },
             {
@@ -1452,7 +1638,8 @@
                 "de": "Das Spektakel beginnt bereits um 16:15 Uhr.",
                 "hu": "A látványosság már 16:15-kor elkezdődik.",
                 "ro": "Spectacolul începe deja la ora 16:15.",
-                "en": "The spectacle begins as early as 4:15 PM."
+                "en": "The spectacle begins as early as 4:15 PM.",
+                "hr": "Spektakl počinje već u 16:15."
               }
             }
           ],
@@ -1480,6 +1667,12 @@
               "Keep the windows free of ice for good visibility.",
               "Avoid coastal sections during extreme Bura due to salt spray.",
               "A hot drink in the cup holder adds to the comfort."
+            ],
+            "hr": [
+              "Provjerite tlak u gumama na niskim temperaturama.",
+              "Držite prozore čistima od leda radi dobre vidljivosti.",
+              "Izbjegavajte obalne dijelove tijekom jake bure zbog morske posolice.",
+              "Topli napitak u držaču za čaše pridonosi udobnosti."
             ]
           }
         }
@@ -1511,7 +1704,8 @@
             "de": "Zentraler Ankunftspunkt für Regionalbusse.",
             "hu": "Központi érkezési pont a távolsági buszokhoz.",
             "ro": "Punct central de sosire pentru autobuzele regionale.",
-            "en": "Central arrival point for regional buses."
+            "en": "Central arrival point for regional buses.",
+            "hr": "Središnja točka dolaska regionalnih autobusa."
           }
         },
         {
@@ -1529,7 +1723,8 @@
             "de": "Kurzer Fußweg vom Busstopp.",
             "hu": "Rövid séta a buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz.",
-            "en": "Short walk from the bus stop."
+            "en": "Short walk from the bus stop.",
+            "hr": "Kratka šetnja od autobusne stanice."
           }
         },
         {
@@ -1547,7 +1742,8 @@
             "de": "Kultureller Halt im Dorf.",
             "hu": "Kulturális megálló a faluban.",
             "ro": "Oprire culturală în sat.",
-            "en": "Cultural stop in the village."
+            "en": "Cultural stop in the village.",
+            "hr": "Kultna stanica u mjestu."
           }
         },
         {
@@ -1568,7 +1764,8 @@
             "de": "Nutzen Sie den Shuttle oder Lokalbus.",
             "hu": "Használja a transzfert vagy helyi buszt.",
             "ro": "Folosiți transferul sau autobuzul local.",
-            "en": "Use the shuttle or local bus."
+            "en": "Use the shuttle or local bus.",
+            "hr": "Koristite shuttle ili lokalni autobus."
           }
         },
         {
@@ -1586,7 +1783,8 @@
             "de": "Genießen Sie den weiten Sandstrand.",
             "hu": "Élvezze a tágas homokos strandot.",
             "ro": "Bucurați-vă de plaja largă cu nisip.",
-            "en": "Enjoy the wide sandy beach."
+            "en": "Enjoy the wide sandy beach.",
+            "hr": "Uživajte na prostranoj pješčanoj plaži."
           }
         },
         {
@@ -1607,7 +1805,8 @@
             "de": "Snacks und leichte Mahlzeiten.",
             "hu": "Snackek és könnyű ételek.",
             "ro": "Gustări și mese ușoare.",
-            "en": "Snacks and light meals."
+            "en": "Snacks and light meals.",
+            "hr": "Grickalice i lagana jela."
           }
         },
         {
@@ -1628,7 +1827,8 @@
             "de": "Letzter Bus zurück zum Ausgangspunkt.",
             "hu": "Utolsó busz vissza a kiindulópontra.",
             "ro": "Ultimul autobuz înapoi la punctul de plecare.",
-            "en": "Last bus back to the starting point."
+            "en": "Last bus back to the starting point.",
+            "hr": "Zadnji autobus natrag do početne točke."
           }
         }
       ],
@@ -1636,7 +1836,8 @@
         "de": "Mit den regionalen Busverbindungen lässt sich Privlaka stressfrei erkunden. Starten Sie im Dorfzentrum, besichtigen Sie die historischen Brunnen und die St.-Vitus-Kirche. Eine kurze Busfahrt bringt Sie zum berühmten Sabunike-Strand, wo Sie den Nachmittag verbringen können. Die Rückfahrt zum Zentrum ermöglicht einen entspannten Tagesabschluss am Hafen.",
         "hu": "A regionális buszjáratokkal Privlaka stresszmentesen felfedezhető. Kezdjen a falu központjában, nézze meg a történelmi kutakat és a Szent Vid-templomot. Egy rövid buszút elviszi a híres Sabunike strandra, ahol eltöltheti a délutánt. A visszautazás a központba lehetővé teszi a nap pihentető lezárását a kikötőben.",
         "ro": "Cu conexiunile de autobuz regionale, Privlaka poate fi explorată fără stres. Începeți în centrul satului, vizitați fântânile istorice și biserica Sf. Vitus. O scurtă călătorie cu autobuzul vă duce la celebra plajă Sabunike, unde vă puteți petrece după-amiaza. Returul în centru permite o încheiere relaxată a zilei în port.",
-        "en": "With regional bus connections, Privlaka can be explored stress-free. Start in the village center, see the historical wells and St. Vitus Church. A short bus ride takes you to the famous Sabunike beach where you can spend the afternoon. The return trip to the center allows for a relaxed end to the day at the harbor."
+        "en": "With regional bus connections, Privlaka can be explored stress-free. Start in the village center, see the historical wells and St. Vitus Church. A short bus ride takes you to the famous Sabunike beach where you can spend the afternoon. The return trip to the center allows for a relaxed end to the day at the harbor.",
+        "hr": "Regionalnim autobusnim vezama Privlaka se može istražiti bez stresa. Započnite u centru mjesta, razgledajte povijesne bunare i crkvu sv. Vida. Kratka vožnja autobusom vodi vas do poznate plaže Sabunike gdje možete provesti poslijepodne. Povratak u centar omogućuje opušten završetak dana u luci."
       },
       "gastro_picks": {
         "de": [
@@ -1661,6 +1862,12 @@
           {
             "name": "Beach Bar Sabunike",
             "tip": "Refreshing drinks and cocktails at the beach."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Beach Bar Sabunike",
+            "tip": "Osvježavajuća pića i kokteli na plaži."
           }
         ]
       },
@@ -1692,6 +1899,13 @@
             "tip": "Quiet path away from the main beach areas.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Šetnja dinama",
+            "tip": "Mirna staza daleko od glavnih plaža.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1717,6 +1931,12 @@
           {
             "name": "Local Market",
             "tip": "Fresh fruit and vegetables in the center during the morning."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica",
+            "tip": "Svježe voće i povrće u centru tijekom jutra."
           }
         ]
       },
@@ -1744,6 +1964,12 @@
           "Buses mostly run towards Zadar or Nin.",
           "Tickets can often be bought directly from the driver.",
           "Plan buffer times for the return journey."
+        ],
+        "hr": [
+          "Unaprijed provjerite vozni red autobusa jer učestalost može varirati.",
+          "Autobusi uglavnom voze prema Zadru ili Ninu.",
+          "Karte se često mogu kupiti izravno kod vozača.",
+          "Planirajte dodatno vrijeme za povratak."
         ]
       },
       "variants": {
@@ -1752,7 +1978,8 @@
             "de": "Regnerischer Tag mit dem Bus in Privlaka. Wir nutzen die Wartezeiten im Zentrum für ein Frühstück im Trockenen. Die Besichtigung der Brunnen und der Kirche Sveti Vid planen wir zwischen den Schauern. Eine Busfahrt bringt uns nach Sabunike, wo wir den Strand kurz besuchen und dann ein ausgiebiges Mittagessen am Meer genießen, bevor es zurück ins Zentrum geht.",
             "hu": "Esős nap busszal Privlakában. A várakozási időt a központban egy fedett reggelire használjuk. A kutak és a Szent Vid-templom megtekintését a záporok közé időzítjük. Busszal utazunk Sabunike felé, ahol rövid tengerparti látogatás után egy kiadós ebédet fogyasztunk a tenger mellett, majd visszatérünk a központba.",
             "ro": "O zi ploioasă cu autobuzul în Privlaka. Folosim timpii de așteptare din centru pentru un mic dejun la adăpost. Planificăm vizitarea fântânilor și a bisericii între averse. O călătorie cu autobuzul ne duce la Sabunike pentru o scurtă vizită pe plajă și un prânz copios.",
-            "en": "A rainy day by bus in Privlaka. We use the waiting times in the center for a dry breakfast. We plan our visit to the wells and St. Vitus Church between showers. A bus ride takes us to Sabunike, where we briefly visit the beach and then enjoy a hearty lunch by the sea before returning to the center."
+            "en": "A rainy day by bus in Privlaka. We use the waiting times in the center for a dry breakfast. We plan our visit to the wells and St. Vitus Church between showers. A bus ride takes us to Sabunike, where we briefly visit the beach and then enjoy a hearty lunch by the sea before returning to the center.",
+            "hr": "Kišni dan autobusom u Privlaci. Vrijeme čekanja u centru koristimo za suhi doručak. Planiramo posjet bunarima i crkvi sv. Vida između pljuskova. Vožnja autobusom vodi nas do Sabunika, gdje nakratko posjećujemo plažu, a zatim uživamo u obilnom ručku uz more prije povratka u centar."
           },
           "stops": [
             {
@@ -1761,7 +1988,8 @@
                 "de": "Das Wartehäuschen bietet nur begrenzten Schutz.",
                 "hu": "A buszváró csak korlátozott védelmet nyújt.",
                 "ro": "Stația de autobuz oferă un adăpost limitat.",
-                "en": "The bus shelter offers only limited protection."
+                "en": "The bus shelter offers only limited protection.",
+                "hr": "Nadstrešnica na stanici nudi samo ograničenu zaštitu."
               }
             },
             {
@@ -1770,7 +1998,8 @@
                 "de": "Besuchen Sie die Brunnen schnell zwischen zwei Schauern.",
                 "hu": "Látogassuk meg a kutakat gyorsan két zápor között.",
                 "ro": "Vizitați fântânile rapid între două averse.",
-                "en": "Visit the wells quickly between two showers."
+                "en": "Visit the wells quickly between two showers.",
+                "hr": "Brzo posjetite bunare između dva pljuska."
               }
             },
             {
@@ -1779,7 +2008,8 @@
                 "de": "Ein guter Ort, um den Busfahrplan im Trockenen zu prüfen.",
                 "hu": "Jó hely a buszmenetrend szárazon történő ellenőrzésére.",
                 "ro": "Un loc bun pentru a verifica orarul autobuzelor la adăpost.",
-                "en": "A good place to check the bus schedule in the dry."
+                "en": "A good place to check the bus schedule in the dry.",
+                "hr": "Dobro mjesto za provjeru voznog reda na suhom."
               }
             },
             {
@@ -1788,7 +2018,8 @@
                 "de": "Die Fahrt bietet einen trockenen Platz mit Aussicht.",
                 "hu": "Az utazás száraz helyet és jó kilátást biztosít.",
                 "ro": "Călătoria oferă un loc uscat și o priveliște bună.",
-                "en": "The ride offers a dry seat with a view."
+                "en": "The ride offers a dry seat with a view.",
+                "hr": "Vožnja nudi suho sjedalo s pogledom."
               }
             },
             {
@@ -1797,7 +2028,8 @@
                 "de": "Laufen Sie zügig zum Restaurant, um trocken zu bleiben.",
                 "hu": "Sétáljunk tempósan az étteremig, hogy szárazon maradjunk.",
                 "ro": "Mergeți rapid spre restaurant pentru a rămâne uscați.",
-                "en": "Walk briskly to the restaurant to stay dry."
+                "en": "Walk briskly to the restaurant to stay dry.",
+                "hr": "Brzo hodajte do restorana kako biste ostali suhi."
               }
             },
             {
@@ -1806,7 +2038,8 @@
                 "de": "Wärmen Sie sich bei einem heißen Getränk auf.",
                 "hu": "Melegedjünk fel egy forró ital mellett.",
                 "ro": "Încălziți-vă cu o băutură fierbinte.",
-                "en": "Warm up with a hot drink."
+                "en": "Warm up with a hot drink.",
+                "hr": "Ugrijte se toplim napitkom."
               }
             },
             {
@@ -1815,7 +2048,8 @@
                 "de": "Seien Sie rechtzeitig an der Haltestelle, um den Bus nicht zu verpassen.",
                 "hu": "Legyünk időben a megállóban, hogy ne késsük le a buszt.",
                 "ro": "Fiți la timp în stație pentru a nu pierde autobuzul.",
-                "en": "Be at the stop on time so you don't miss the bus."
+                "en": "Be at the stop on time so you don't miss the bus.",
+                "hr": "Budite na stanici na vrijeme kako ne biste propustili autobus."
               }
             }
           ],
@@ -1843,6 +2077,12 @@
               "A small foldable umbrella fits in any bag.",
               "Expect minor delays during heavy rain.",
               "The buses are usually well heated/air-conditioned."
+            ],
+            "hr": [
+              "Koristite aplikaciju za prijevoz za informacije u stvarnom vremenu.",
+              "Mali sklopivi kišobran stane u svaku torbu.",
+              "Očekujte manja kašnjenja tijekom jake kiše.",
+              "Autobusi su obično dobro grijani/klimatizirani."
             ]
           }
         },
@@ -1851,7 +2091,8 @@
             "de": "Winterlicher Ausflug mit dem Bus. Wir starten am Zentrum und erkunden die historischen Brunnen und die Kirche im klaren Winterlicht. Eine Busfahrt führt uns ins ruhige Sabunike, wo wir die Weite des Strandes fast allein genießen. Nach einem warmen Mittagessen in Meeresnähe kehren wir rechtzeitig vor dem frühen Sonnenuntergang ins Zentrum zurück.",
             "hu": "Téli kirándulás busszal. A központból indulva fedezzük fel a történelmi kutakat és a templomot a tiszta téli fényben. Buszozás után a csendes Sabunikébe érünk, ahol szinte egyedül élvezzük a strand tágasságát. Egy meleg, tengerparti ebéd után még a korai naplemente előtt visszatérünk a központba.",
             "ro": "Excursie de iarnă cu autobuzul. Pornim din centru și explorăm fântânile istorice și biserica în lumina clară de iarnă. O călătorie cu autobuzul ne duce în liniștitul Sabunike, unde savurăm plaja pustie. După un prânz cald lângă mare, ne întoarcem în centru înainte de apusul timpuriu.",
-            "en": "Winter excursion by bus. We start at the center and explore the historical wells and the church in the clear winter light. A bus ride takes us to quiet Sabunike, where we enjoy the vastness of the beach almost alone. After a warm lunch near the sea, we return to the center in time for the early sunset."
+            "en": "Winter excursion by bus. We start at the center and explore the historical wells and the church in the clear winter light. A bus ride takes us to quiet Sabunike, where we enjoy the vastness of the beach almost alone. After a warm lunch near the sea, we return to the center in time for the early sunset.",
+            "hr": "Zimski izlet autobusom. Krećemo iz centra i istražujemo povijesne bunare i crkvu u čistom zimskom svjetlu. Vožnja autobusom vodi nas do mirnih Sabunika, gdje uživamo u prostranstvu plaže gotovo sami. Nakon toplog ručka blizu mora, vraćamo se u centar na vrijeme za rani zalazak sunca."
           },
           "stops": [
             {
@@ -1860,7 +2101,8 @@
                 "de": "Halten Sie sich durch leichte Bewegung warm.",
                 "hu": "Tartsuk magunkat melegen némi mozgással.",
                 "ro": "Mențineți-vă cald prin mișcare ușoară.",
-                "en": "Keep warm by moving around a little."
+                "en": "Keep warm by moving around a little.",
+                "hr": "Ugrijte se laganim kretanjem."
               }
             },
             {
@@ -1869,7 +2111,8 @@
                 "de": "Ein ruhiger Ort für Besinnlichkeit im Winter.",
                 "hu": "Csendes hely az elmélyüléshez télen.",
                 "ro": "Un loc liniștit pentru reflecție în timpul iernii.",
-                "en": "A quiet place for reflection in winter."
+                "en": "A quiet place for reflection in winter.",
+                "hr": "Mirno mjesto za razmišljanje zimi."
               }
             },
             {
@@ -1878,7 +2121,8 @@
                 "de": "Achten Sie auf die Gottesdienstzeiten, dann ist es drinnen wärmer.",
                 "hu": "Figyeljük a miseidőket, olyankor bent melegebb van.",
                 "ro": "Atenție la orele slujbelor, atunci este mai cald în interior.",
-                "en": "Check service times, it's warmer inside then."
+                "en": "Check service times, it's warmer inside then.",
+                "hr": "Provjerite vrijeme usluge, unutra je toplije."
               }
             },
             {
@@ -1887,7 +2131,8 @@
                 "de": "Genießen Sie die Aussicht auf die schneebedeckten Berge im Hintergrund.",
                 "hu": "Élvezzük a háttérben lévő havas hegyek látványát.",
                 "ro": "Bucurați-vă de vederea munților înzăpeziți din fundal.",
-                "en": "Enjoy the view of the snow-capped mountains in the background."
+                "en": "Enjoy the view of the snow-capped mountains in the background.",
+                "hr": "Uživajte u pogledu na snijegom prekrivene planine u pozadini."
               }
             },
             {
@@ -1896,7 +2141,8 @@
                 "de": "Der Wind am Strand ist im Winter sehr erfrischend.",
                 "hu": "A tengerparti szél télen nagyon frissítő.",
                 "ro": "Vântul de pe plajă este foarte revigorant iarna.",
-                "en": "The wind on the beach is very refreshing in winter."
+                "en": "The wind on the beach is very refreshing in winter.",
+                "hr": "Vjetar na plaži je zimi vrlo okrepljujući."
               }
             },
             {
@@ -1905,7 +2151,8 @@
                 "de": "Probieren Sie lokalen Wein zur Stärkung.",
                 "hu": "Kóstoljunk helyi bort a felfrissüléshez.",
                 "ro": "Încercați vinul local pentru revigorare.",
-                "en": "Try local wine for some refreshment."
+                "en": "Try local wine for some refreshment.",
+                "hr": "Probajte lokalno vino za osvježenje."
               }
             },
             {
@@ -1914,7 +2161,8 @@
                 "de": "Der letzte Bus fährt im Winter oft früher.",
                 "hu": "A téli időszakban az utolsó busz gyakran korábban indul.",
                 "ro": "Ultimul autobuz pleacă adesea mai devreme iarna.",
-                "en": "The last bus often departs earlier in winter."
+                "en": "The last bus often departs earlier in winter.",
+                "hr": "Zadnji autobus zimi često polazi ranije."
               }
             }
           ],
@@ -1942,6 +2190,12 @@
               "Wear warm clothes, especially for the waiting periods.",
               "Look for heated waiting areas in nearby cafes.",
               "The clear air provides great views from the bus window."
+            ],
+            "hr": [
+              "Obratite pozornost na smanjeni zimski vozni red autobusa.",
+              "Odjenite toplu odjeću, posebno za periode čekanja.",
+              "Potražite grijane prostore za čekanje u obližnjim kafićima.",
+              "Čisti zrak pruža sjajne poglede s prozora autobusa."
             ]
           }
         }

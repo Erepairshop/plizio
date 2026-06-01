@@ -31,7 +31,8 @@
             "de": "Genießen Sie den ersten Kaffee mit Blick auf den Hafen.",
             "hu": "Igya meg reggeli kávéját a kikötőre néző teraszok egyikén.",
             "ro": "Savurați prima cafea cu vedere la port pe terasă.",
-            "en": "Enjoy your morning coffee with a view of the harbor."
+            "en": "Enjoy your morning coffee with a view of the harbor.",
+            "hr": "Uživajte u jutarnjoj kavi s pogledom na luku."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Das älteste erhaltene Klostergebäude der Stadt.",
             "hu": "A város legrégebbi fennmaradt kolostorépülete.",
             "ro": "Cea mai veche clădire monahală păstrată din oraș.",
-            "en": "The oldest surviving monastery building in the city."
+            "en": "The oldest surviving monastery building in the city.",
+            "hr": "Najstarija sačuvana samostanska zgrada u gradu."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Erfahren Sie alles über die römische Vergangenheit der Region.",
             "hu": "Ismerje meg a régió római kori múltját és régészeti leleteit.",
             "ro": "Aflați totul despre trecutul roman al regiunii.",
-            "en": "Learn all about the Roman past of the region."
+            "en": "Learn all about the Roman past of the region.",
+            "hr": "Saznajte sve o rimskoj prošlosti ove regije."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Bewundern Sie über 100 Fischarten aus der Adria und den Tropen.",
             "hu": "Csodáljon meg több mint 100 halfajt az Adriáról és a trópusokról.",
             "ro": "Admirați peste 100 de specii de pești din Adria și tropice.",
-            "en": "Admire over 100 species of fish from the Adriatic and tropics."
+            "en": "Admire over 100 species of fish from the Adriatic and tropics.",
+            "hr": "Divite se više od 100 vrsta riba iz Jadrana i tropa."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein ehemaliges Kloster, das heute ein charmantes Hotel ist.",
             "hu": "Egykori kolostor, amely ma hangulatos szállodaként működik.",
             "ro": "O fostă mănăstire, astăzi un hotel plin de farmec.",
-            "en": "A former monastery that is now a charming hotel."
+            "en": "A former monastery that is now a charming hotel.",
+            "hr": "Bivši samostan koji je danas šarmantan hotel."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Der bekannteste Sandstrand der Stadt mit flachem Wasser.",
             "hu": "A város legismertebb homokos strandja sekély vízzel.",
             "ro": "Cea mai faimoasă plajă cu nisip din oraș, cu apă mică.",
-            "en": "The city's most famous sandy beach with shallow water."
+            "en": "The city's most famous sandy beach with shallow water.",
+            "hr": "Najpoznatija gradska pješčana plaža s plitkim morem."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem zentralen Stjepan-Radić-Platz, dem pulsierenden Herz der Stadt. Besuchen Sie anschließend die historische Marienkirche und tauchen Sie im Stadtmuseum in die Geschichte ein.\n\nMittags erkunden Sie die faszinierende Unterwasserwelt im Aquarium, bevor Sie das Hotel Kaštel in einem ehemaligen Kloster bewundern.\n\nDer Nachmittag gehört der Entspannung am beliebten Sandstrand Crni molo, ideal für ein erfrischendes Bad in der Adria.\n\nLassen Sie den Abend bei einem Spaziergang entlang der Uferpromenade ausklingen und genießen Sie die Meeresbrise.",
         "hu": "Kezdje a napot a Stjepan Radić téren, a város pezsgő szívében. Látogasson el a történelmi Mária Mennybemenetele templomhoz, majd merüljön el a múltban a Városi Múzeumban.\n\nDélben fedezze fel az Akvárium lenyűgöző vízi világát, mielőtt megcsodálná a Hotel Kaštel patinás épületét.\n\nA délután a pihenésé a népszerű Crni molo homokos strandon, amely tökéletes egy frissítő csobbanáshoz az Adriában.\n\nZárja az estét egy sétával a tengerparti sétányon, élvezve a lágy sós szellőt.",
         "ro": "Începeți ziua în Piața Stjepan Radić, inima vibrantă a orașului. Vizitați apoi biserica istorică Sfânta Maria și pătrundeți în istorie la Muzeul Orașului.\n\nLa prânz, explorați lumea subacvatică fascinantă de la Acvariu, înainte de a admira Hotelul Kaštel într-o fostă mănăstire.\n\nDupă-amiaza este dedicată relaxării pe populara plajă cu nisip Crni molo, ideală pentru o baie răcoritoare în Marea Adriatică.\n\nÎncheiați seara cu o plimbare de-a lungul falezei, bucurându-vă de briza mării.",
-        "en": "Start your day at Stjepan Radić Square, the vibrant heart of the city. Then visit the historic Church of the Assumption and dive into history at the City Museum.\n\nAt midday, explore the fascinating underwater world at the Aquarium before admiring Hotel Kaštel in a former monastery.\n\nThe afternoon belongs to relaxation at the popular sandy beach Crni molo, ideal for a refreshing dip in the Adriatic.\n\nEnd the evening with a stroll along the seaside promenade, enjoying the gentle sea breeze."
+        "en": "Start your day at Stjepan Radić Square, the vibrant heart of the city. Then visit the historic Church of the Assumption and dive into history at the City Museum.\n\nAt midday, explore the fascinating underwater world at the Aquarium before admiring Hotel Kaštel in a former monastery.\n\nThe afternoon belongs to relaxation at the popular sandy beach Crni molo, ideal for a refreshing dip in the Adriatic.\n\nEnd the evening with a stroll along the seaside promenade, enjoying the gentle sea breeze.",
+        "hr": "Započnite dan na Trgu Stjepana Radića, živahnom srcu grada. Zatim posjetite povijesnu Crkvu Uznesenja i uronite u povijest u Muzeju Grada Crikvenice.\n\nU podne istražite fascinantan podvodni svijet u Akvariju prije nego što se divite Hotelu Kaštel u bivšem samostanu.\n\nPoslijepodne je rezervirano za opuštanje na popularnoj pješčanoj plaži Crni molo, idealnoj za osvježavajuće kupanje u Jadranu.\n\nZavršite večer šetnjom obalnom šetnicom, uživajući u laganom morskom povjetarcu."
       },
       "gastro_picks": {
         "de": [
@@ -170,6 +177,16 @@
           {
             "name": "Konoba Karoca",
             "tip": "Fresh fish directly from the grill in a cozy atmosphere."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bura",
+            "tip": "Probajte domaću tjesteninu s lokalnim škampima."
+          },
+          {
+            "name": "Konoba Karoca",
+            "tip": "Svježa riba izravno s roštilja u ugodnoj atmosferi."
           }
         ]
       },
@@ -221,6 +238,18 @@
             "tip": "Perfect spot for sunset far from the crowds.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Labirint ljubavi",
+            "tip": "Mirno mjesto za meditaciju među grmovima lovora.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lučki gat",
+            "tip": "Savršeno mjesto za zalazak sunca daleko od gužve.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -263,6 +292,16 @@
             "name": "Downtown Souvenirs",
             "tip": "Handmade local ceramics."
           }
+        ],
+        "hr": [
+          {
+            "name": "Tržnica Crikvenica",
+            "tip": "Lokalna tržnica za maslinovo ulje i proizvode od lavande."
+          },
+          {
+            "name": "Suveniri u centru",
+            "tip": "Ručno rađena lokalna keramika."
+          }
         ]
       },
       "tips": {
@@ -289,6 +328,12 @@
           "Use the early morning hours for the Love Path to avoid the heat.",
           "The Aquarium is a great alternative during rain or strong sun.",
           "In most restaurants, the service charge (Coperto) is added to the bill."
+        ],
+        "hr": [
+          "Obalna šetnica je gotovo potpuno ravna i idealna za duge šetnje.",
+          "Iskoristite rane jutarnje sate za Ljubavnu cesticu kako biste izbjegli vrućinu.",
+          "Akvarij je izvrsna alternativa tijekom kiše ili jakog sunca.",
+          "U većini restorana naknada za postavu stola (Coperto) dodaje se na račun."
         ]
       },
       "variants": {
@@ -521,7 +566,8 @@
             "de": "Ein verregneter Vormittag am Stjepan-Radić-Platz führt uns schnell in die schützende Kirche.\r\nMittags bieten das Stadtmuseum und das Aquarium perfekte Zufluchtsorte vor dem Küstenregen.\r\nNachmittags genießen wir die historische Atmosphäre im Hotel Kaštel bei einem warmen Getränk.\r\nAbends spazieren wir trotz Regens kurz am Crni molo entlang, bevor wir ein lokales Restaurant aufsuchen.",
             "hu": "A borús, esős délelőttöt a főtéren kezdjük, majd gyorsan behúzódunk a Mária Mennybevétele templomba.\r\nDélben a Városi Múzeum és az Aquarium nyújt száraz és tartalmas menedéket a tengerparti zápor elől.\r\nDélután a patinás Hotel Kaštel falai között pihenünk meg egy forró kávé mellett.\r\nEste egy rövid, esernyős séta következik a Crni molo strandon, ahol a hullámverés ilyenkor a legvadabb.",
             "ro": "O dimineață ploioasă în Piața Stjepan Radić ne trimite rapid spre interiorul liniștit al bisericii.\r\nLa prânz, Muzeul Orașului și Acvariul oferă refugiul perfect împotriva ploii de pe coastă.\r\nDupă-amiaza ne bucurăm de atmosfera istorică de la Hotel Kaštel cu o băutură caldă în mână.\r\nSeara facem o scurtă plimbare pe plaja Crni molo, admirând marea agitată înainte de cină.",
-            "en": "A rainy morning at Stjepan Radić Square leads us quickly to the protective walls of the church.\r\nAt noon, the City Museum and the Aquarium provide perfect shelters from the coastal downpour.\r\nIn the afternoon, we enjoy the historic atmosphere at Hotel Kaštel with a warm drink.\r\nIn the evening, we take a short walk along Crni molo despite the rain before finding a local tavern."
+            "en": "A rainy morning at Stjepan Radić Square leads us quickly to the protective walls of the church.\r\nAt noon, the City Museum and the Aquarium provide perfect shelters from the coastal downpour.\r\nIn the afternoon, we enjoy the historic atmosphere at Hotel Kaštel with a warm drink.\r\nIn the evening, we take a short walk along Crni molo despite the rain before finding a local tavern.",
+            "hr": "Kišovito jutro na Trgu Stjepana Radića brzo nas vodi do zaštitnih zidova crkve.\r\nU podne, Gradski muzej i Akvarij pružaju savršena skloništa od obalnog pljuska.\r\nPoslijepodne uživamo u povijesnoj atmosferi Hotela Kaštel uz topli napitak.\r\nNavečer, unatoč kiši, kratko prošećemo plažom Crni molo prije nego što pronađemo lokalnu konobu."
           },
           "stops": [
             {
@@ -530,7 +576,8 @@
                 "de": "Kiosk für Regenschirme direkt am Platz.",
                 "hu": "Az újságosnál vehetünk esernyőt, ha otthon maradt.",
                 "ro": "Chioșc pentru umbrele chiar în piață.",
-                "en": "Newstand on the square sells umbrellas if needed."
+                "en": "Newstand on the square sells umbrellas if needed.",
+                "hr": "Kiosk na trgu prodaje kišobrane ako su potrebni."
               }
             },
             {
@@ -539,7 +586,8 @@
                 "de": "Stille und trockene Zuflucht vor dem Regen.",
                 "hu": "Csendes és száraz menedék a kinti zápor elől.",
                 "ro": "Refugiu liniștit și uscat împotriva ploii.",
-                "en": "Quiet and dry refuge from the coastal rain."
+                "en": "Quiet and dry refuge from the coastal rain.",
+                "hr": "Mirno i suho utočište od obalne kiše."
               }
             },
             {
@@ -548,7 +596,8 @@
                 "de": "Garderobe für nasse Mäntel im Eingangsbereich.",
                 "hu": "Használjuk a ruhatárat a vizes kabátoknak.",
                 "ro": "Garderobă pentru haine ude la intrare.",
-                "en": "Use the cloakroom for wet coats at the entrance."
+                "en": "Use the cloakroom for wet coats at the entrance.",
+                "hr": "Na ulazu koristite garderobu za mokre kapute."
               }
             },
             {
@@ -557,7 +606,8 @@
                 "de": "Idealer Ort, um eine Stunde im Trockenen zu verbringen.",
                 "hu": "Tökéletes helyszín egy órát szárazon tölteni.",
                 "ro": "Locul ideal pentru a petrece o oră la adăpost.",
-                "en": "Ideal place to spend an hour staying dry."
+                "en": "Ideal place to spend an hour staying dry.",
+                "hr": "Idealno mjesto za provesti sat vremena na suhom."
               }
             },
             {
@@ -566,7 +616,8 @@
                 "de": "Kaffeehaus im Inneren mit historischem Ambiente.",
                 "hu": "Belső kávézó történelmi hangulattal.",
                 "ro": "Cafenea interioară cu ambianță istorică.",
-                "en": "Indoor café area with a great historic feel."
+                "en": "Indoor café area with a great historic feel.",
+                "hr": "Unutarnji prostor kafića s odličnim povijesnim ugođajem."
               }
             },
             {
@@ -575,7 +626,8 @@
                 "de": "Betonierte Wege sind weniger schlammig.",
                 "hu": "A betonozott sétány nem lesz sáros az esőben.",
                 "ro": "Căile betonate sunt mai puțin noroioase.",
-                "en": "Paved paths are less muddy during rain."
+                "en": "Paved paths are less muddy during rain.",
+                "hr": "Popločane staze su manje blatnjave tijekom kiše."
               }
             }
           ],
@@ -603,6 +655,12 @@
               "Rubber boots are practical around the harbor area.",
               "Most central restaurants have covered terraces.",
               "Watch out for slippery cobblestones in the old town."
+            ],
+            "hr": [
+              "Planirajte posjete muzejima tijekom najjačih pljuskova.",
+              "Gumene čizme su praktične u području luke.",
+              "Većina restorana u centru ima natkrivene terase.",
+              "Pripazite na sklisko kamenje u starom gradu."
             ]
           }
         },
@@ -611,7 +669,8 @@
             "de": "Frische Winterluft am fast leeren Hauptplatz weckt die Lebensgeister am frühen Morgen.\r\nMittags suchen wir die Wärme der Museen auf, während die Wintersonne tief über der Adria steht.\r\nNachmittags bewundern wir das ehemalige Kloster Kaštel, bevor das Licht gegen 16:30 Uhr schwindet.\r\nDen Abend lassen wir bei einem Glas Wein aus dem Vinodol-Tal in einer beheizten Konoba ausklingen.",
             "hu": "A friss téli tengeri levegő a szinte üres főtéren gyorsan felébreszt minket reggel.\r\nDélben a múzeumok melegében bújunk meg, miközben a téli nap alacsonyan jár az Adria felett.\r\nDélután az egykori kolostorból lett Kaštelt csodáljuk meg a korai sötétedés előtt.\r\nAz estét egy pohár Vinodol-völgyi borral zárjuk egy fűtött helyi konobában.",
             "ro": "Aerul proaspăt de iarnă din piața principală aproape goală ne trezește simțurile dimineața devreme.\r\nLa prânz căutăm căldura muzeelor, în timp ce soarele de iarnă stă jos deasupra Adriaticii.\r\nDupă-amiaza admirăm fostul complex Kaštel, înainte ca lumina să scadă în jur de ora 16:30.\r\nÎncheiem seara cu un pahar de vin din valea Vinodol într-o tavernă încălzită.",
-            "en": "Fresh winter air at the almost empty main square wakes us up early in the morning.\r\nAt noon, we seek the warmth of the museums while the winter sun hangs low over the Adriatic.\r\nIn the afternoon, we admire the former monastery Kaštel before the light fades around 16:30.\r\nWe end the evening with a glass of Vinodol valley wine in a heated local konoba."
+            "en": "Fresh winter air at the almost empty main square wakes us up early in the morning.\r\nAt noon, we seek the warmth of the museums while the winter sun hangs low over the Adriatic.\r\nIn the afternoon, we admire the former monastery Kaštel before the light fades around 16:30.\r\nWe end the evening with a glass of Vinodol valley wine in a heated local konoba.",
+            "hr": "Svježi zimski zrak na gotovo praznom glavnom trgu budi nas rano ujutro.\r\nU podne tražimo toplinu muzeja dok zimsko sunce nisko stoji nad Jadranom.\r\nPoslijepodne se divimo bivšem samostanu Kaštel prije nego što se svjetlo ugasi oko 16:30.\r\nVečer završavamo čašom vina iz Vinodolske doline u grijanoj lokalnoj konobi."
           },
           "stops": [
             {
@@ -620,7 +679,8 @@
                 "de": "Warme Kleidung wegen der Bura-Winde nötig.",
                 "hu": "Meleg ruházat kötelező a Bóra szél miatt.",
                 "ro": "Haine groase necesare din cauza vântului Bura.",
-                "en": "Warm clothing needed due to Bura winds."
+                "en": "Warm clothing needed due to Bura winds.",
+                "hr": "Potrebna topla odjeća zbog vjetra bure."
               }
             },
             {
@@ -629,7 +689,8 @@
                 "de": "Oft windgeschützter als der offene Platz.",
                 "hu": "Gyakran szélvédettebb hely, mint a nyitott tér.",
                 "ro": "Adesea mai ferită de vânt decât piața deschisă.",
-                "en": "Often more sheltered from wind than the open square."
+                "en": "Often more sheltered from wind than the open square.",
+                "hr": "Često zaklonjenije od vjetra nego otvoreni trg."
               }
             },
             {
@@ -638,7 +699,8 @@
                 "de": "Gut beheizte Ausstellungsräume.",
                 "hu": "Kellemesen fűtött kiállítótermek.",
                 "ro": "Săli de expoziție bine încălzite.",
-                "en": "Well-heated exhibition rooms."
+                "en": "Well-heated exhibition rooms.",
+                "hr": "Dobro zagrijane izložbene prostorije."
               }
             },
             {
@@ -647,7 +709,8 @@
                 "de": "Ganzjährig geöffnet, angenehm temperiert.",
                 "hu": "Egész évben nyitva, kellemes a benti hőmérséklet.",
                 "ro": "Deschis tot anul, temperatură interioară plăcută.",
-                "en": "Open year-round, pleasant indoor temperature."
+                "en": "Open year-round, pleasant indoor temperature.",
+                "hr": "Otvoreno tijekom cijele godine, ugodna unutarnja temperatura."
               }
             },
             {
@@ -656,7 +719,8 @@
                 "de": "Frühzeitige Dämmerung betont die Beleuchtung.",
                 "hu": "A korai sötétedés kiemeli az épület fényeit.",
                 "ro": "Amurgul timpuriu subliniază iluminatul clădirii.",
-                "en": "Early dusk highlights the building's lighting."
+                "en": "Early dusk highlights the building's lighting.",
+                "hr": "Rani sumrak naglašava osvjetljenje zgrade."
               }
             },
             {
@@ -665,7 +729,8 @@
                 "de": "Perfekt für einsame Sonnenuntergangsfotos.",
                 "hu": "Tökéletes magányos naplementés fotókhoz.",
                 "ro": "Perfect pentru fotografii cu apusul în singurătate.",
-                "en": "Perfect for lonely sunset photos."
+                "en": "Perfect for lonely sunset photos.",
+                "hr": "Savršeno za osamljene fotografije zalaska sunca."
               }
             }
           ],
@@ -693,6 +758,12 @@
               "Windproof jackets are essential due to the Bura.",
               "Visit cafés with indoor seating along the Riviera.",
               "The town is very quiet and relaxed in winter."
+            ],
+            "hr": [
+              "Sunce zimi zalazi već u 16:30.",
+              "Vjetrootporne jakne su neophodne zbog bure.",
+              "Posjetite kafiće s unutarnjim sjedenjem duž rivijere.",
+              "Grad je zimi vrlo miran i opušten."
             ]
           }
         }
@@ -721,7 +792,8 @@
             "de": "Ein schattiger Waldweg, ideal für Mountainbikes.",
             "hu": "Árnyas erdei út, amely kiváló hegyi kerékpározáshoz.",
             "ro": "O potecă de pădure umbrită, ideală pentru mountain bike.",
-            "en": "A shaded forest path, ideal for mountain biking."
+            "en": "A shaded forest path, ideal for mountain biking.",
+            "hr": "Staza u sjeni šume, idealna za brdski biciklizam."
           }
         },
         {
@@ -739,7 +811,8 @@
             "de": "Ein botanisches Labyrinth direkt am Waldrand.",
             "hu": "Botanikai labirintus közvetlenül az erdő szélén.",
             "ro": "Un labirint botanic chiar la marginea pădurii.",
-            "en": "A botanical labyrinth right at the edge of the forest."
+            "en": "A botanical labyrinth right at the edge of the forest.",
+            "hr": "Botanički labirint na samom rubu šume."
           }
         },
         {
@@ -757,7 +830,8 @@
             "de": "Zeitgenössische Kunst lokaler kroatischer Künstler.",
             "hu": "Kortárs művészet helyi horvát művészektől.",
             "ro": "Artă contemporană a artiștilor locali croați.",
-            "en": "Contemporary art by local Croatian artists."
+            "en": "Contemporary art by local Croatian artists.",
+            "hr": "Suvremena umjetnost lokalnih hrvatskih umjetnika."
           }
         },
         {
@@ -775,7 +849,8 @@
             "de": "Ehrt den Schutzpatron der Seefahrer.",
             "hu": "Szent Miklós szobra a tengerészek védőszentje előtt tiszteleg.",
             "ro": "Onorează sfântul patron al marinarilor.",
-            "en": "Honors the patron saint of sailors."
+            "en": "Honors the patron saint of sailors.",
+            "hr": "Odaje počast zaštitniku pomoraca."
           }
         },
         {
@@ -793,7 +868,8 @@
             "de": "Parken Sie Ihr Rad sicher an den markierten Ständern.",
             "hu": "Zárja le biciklijét biztonságosan a kijelölt tárolóknál.",
             "ro": "Parcați bicicleta în siguranță la suporturile marcate.",
-            "en": "Park your bike safely at the marked racks."
+            "en": "Park your bike safely at the marked racks.",
+            "hr": "Sigurno parkirajte svoj bicikl na označenim stalcima."
           }
         }
       ],
@@ -801,7 +877,8 @@
         "de": "Erkunden Sie Crikvenica auf zwei Rädern. Starten Sie mit dem Liebespfad, der Sie durch grüne Wälder führt. Besuchen Sie das botanische Liebeslabyrinth für einen Moment der Ruhe.\n\nFahren Sie zurück zur Küste, besuchen Sie die Stadtgalerie und bewundern Sie die Statue des Heiligen Nikolaus.\n\nDer Nachmittag endet entspannt am Strand Crni molo, wo Sie sich nach der Fahrt im Meer abkühlen können.",
         "hu": "Fedezze fel Crikvenicát két keréken. Kezdje a Szerelem-ösvénnyel, amely zöld erdőkön vezet át. Látogasson el a botanikus Szerelem-labirintusba egy kis nyugalomért.\n\nTekerjen vissza a partra, nézze meg a Városi Galériát, és csodálja meg Szent Miklós szobrát.\n\nA délután pihentetően zárul a Crni molo strandon, ahol a tekerés után lehűtheti magát a tengerben.",
         "ro": "Explorați Crikvenica pe două roți. Începeți cu Cărarea Iubirii, care vă poartă prin păduri verzi. Vizitați labirintul botanic al iubirii pentru un moment de liniște.\n\nPedalați înapoi spre coastă, vizitați Galeria Orașului și admirați statuia Sfântului Nicolae.\n\nDupă-amiaza se încheie relaxat pe plaja Crni molo, unde vă puteți răcori în mare după plimbare.",
-        "en": "Explore Crikvenica on two wheels. Start with the Love Path, which takes you through green forests. Visit the botanical Love Labyrinth for a moment of peace.\n\nCycle back to the coast, visit the City Gallery, and admire the statue of St. Nicholas.\n\nThe afternoon ends relaxingly at Crni molo beach, where you can cool off in the sea after your ride."
+        "en": "Explore Crikvenica on two wheels. Start with the Love Path, which takes you through green forests. Visit the botanical Love Labyrinth for a moment of peace.\n\nCycle back to the coast, visit the City Gallery, and admire the statue of St. Nicholas.\n\nThe afternoon ends relaxingly at Crni molo beach, where you can cool off in the sea after your ride.",
+        "hr": "Istražite Crikvenicu na dva kotača. Započnite Ljubavnom cesticom koja vas vodi kroz zelene šume. Posjetite botanički Labirint ljubavi za trenutak mira.\n\nOdvezite se biciklom natrag do obale, posjetite Gradsku galeriju i divite se kipu sv. Nikole.\n\nPoslijepodne završava opuštajuće na plaži Crni molo, gdje se nakon vožnje možete rashladiti u moru."
       },
       "gastro_picks": {
         "de": [
@@ -826,6 +903,12 @@
           {
             "name": "Bistro Mendula",
             "tip": "Quick and healthy snacks for cyclists."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bistro Mendula",
+            "tip": "Brzi i zdravi zalogaji za bicikliste."
           }
         ]
       },
@@ -857,6 +940,13 @@
             "tip": "Short climb to a castle ruin with a panorama.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Badanj",
+            "tip": "Kratki uspon do ruševina dvorca s panoramom.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -883,6 +973,12 @@
             "name": "Lidl / Konzum",
             "tip": "Ideal for restocking your provisions."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lidl / Konzum",
+            "tip": "Idealno za obnavljanje zaliha hrane i pića."
+          }
         ]
       },
       "tips": {
@@ -905,6 +1001,11 @@
           "There is a continuous bike path along the riviera from Selce to Kačjak.",
           "Avoid the main road D8, use the side streets by the sea.",
           "Helmets are mandatory in Croatia for children under 16."
+        ],
+        "hr": [
+          "Postoji neprekidna biciklistička staza duž rivijere od Selca do Kačjaka.",
+          "Izbjegavajte glavnu cestu D8, koristite sporedne ulice uz more.",
+          "U Hrvatskoj su kacige obvezne za djecu mlađu od 16 godina."
         ]
       },
       "variants": {
@@ -1072,7 +1173,8 @@
             "de": "Vorsicht auf dem Liebespfad, der Waldboden kann bei Regen rutschig sein.\r\nMittags suchen wir das Labyrinth auf, bevor der Regen im Zentrum stärker wird.\r\nDie Stadtgalerie bietet den perfekten kulturellen Stopp im Trockenen am Nachmittag.\r\nAbends beenden wir die Tour am Crni molo, wo der Asphalt auch nass gut befahrbar ist.",
             "hu": "Vigyázzunk a Szerelmi ösvényen, az erdei talaj esőben csúszós lehet.\r\nDélben még felfedezzük a labirintust, mielőtt bezúdulna a nagyobb eső.\r\nA Városi Galéria tökéletes délutáni kulturális megálló a szárazban.\r\nEste a Crni molónál zárjuk a túrát, ahol az aszfalt vizesen is jól tekerhető.",
             "ro": "Atenție pe Cărarea Iubirii, solul pădurii poate fi alunecos pe ploaie.\r\nLa prânz vizităm Labirintul înainte ca ploaia să se intensifice în centru.\r\nGaleria Orașului oferă oprirea culturală perfectă la adăpost după-amiaza.\r\nSeara încheiem turul la Crni molo, unde asfaltul e practicabil și ud.",
-            "en": "Be careful on the Love Path, as the forest floor can be slippery in the rain.\r\nAt noon we visit the labyrinth before the rain gets heavier in the center.\r\nThe City Gallery offers the perfect indoor cultural stop in the afternoon.\r\nIn the evening, we end at Crni molo, where the asphalt is safe even when wet."
+            "en": "Be careful on the Love Path, as the forest floor can be slippery in the rain.\r\nAt noon we visit the labyrinth before the rain gets heavier in the center.\r\nThe City Gallery offers the perfect indoor cultural stop in the afternoon.\r\nIn the evening, we end at Crni molo, where the asphalt is safe even when wet.",
+            "hr": "Budite oprezni na Ljubavnoj cestici jer šumsko tlo na kiši može biti sklisko.\r\nU podne posjećujemo labirint prije nego što kiša pojača u centru.\r\nGradska galerija nudi savršenu unutarnju kulturnu postaju poslijepodne.\r\nNavečer završavamo na Crnom molu, gdje je asfalt siguran čak i kad je mokar."
           },
           "stops": [
             {
@@ -1081,7 +1183,8 @@
                 "de": "Vorsicht bei nassen Baumwurzeln auf dem Weg.",
                 "hu": "Vigyázzunk a nedves fagyökerekre az úton.",
                 "ro": "Atenție la rădăcinile ude de pe potecă.",
-                "en": "Watch out for wet tree roots on the path."
+                "en": "Watch out for wet tree roots on the path.",
+                "hr": "Pripazite na mokro korijenje drveća na stazi."
               }
             },
             {
@@ -1090,7 +1193,8 @@
                 "de": "Kieswege können Pfützen bilden.",
                 "hu": "A kavicsos utakon tócsák alakulhatnak ki.",
                 "ro": "Pe aleile cu pietriș se pot forma bălți.",
-                "en": "Gravel paths might form puddles."
+                "en": "Gravel paths might form puddles.",
+                "hr": "Na šljunčanim stazama mogu se stvoriti lokve."
               }
             },
             {
@@ -1099,7 +1203,8 @@
                 "de": "Sicherer Abstellplatz für Räder in der Nähe.",
                 "hu": "Biztonságos kerékpártároló a közelben.",
                 "ro": "Loc sigur de parcare pentru biciclete în apropiere.",
-                "en": "Safe bike parking available nearby."
+                "en": "Safe bike parking available nearby.",
+                "hr": "Dostupan siguran parking za bicikle u blizini."
               }
             },
             {
@@ -1108,7 +1213,8 @@
                 "de": "Kurzer Fotostopp, dann schnell weiter ins Trockene.",
                 "hu": "Gyors fotó, aztán irány vissza a fedett részre.",
                 "ro": "Oprire scurtă pentru poze, apoi rapid la adăpost.",
-                "en": "Quick photo stop, then head back to shelter."
+                "en": "Quick photo stop, then head back to shelter.",
+                "hr": "Brzo fotografiranje, a zatim povratak u zaklon."
               }
             },
             {
@@ -1117,7 +1223,8 @@
                 "de": "Bei Regen ist die Promenade fast menschenleer.",
                 "hu": "Esőben a sétány szinte teljesen üres.",
                 "ro": "Pe ploaie, promenada este aproape goală.",
-                "en": "The promenade is almost empty during rain."
+                "en": "The promenade is almost empty during rain.",
+                "hr": "Šetnica je gotovo prazna tijekom kiše."
               }
             }
           ],
@@ -1145,6 +1252,12 @@
               "Avoid sudden braking on wet asphalt.",
               "Check tire pressure for better grip on wet surfaces.",
               "Forest paths can remain muddy after the rain."
+            ],
+            "hr": [
+              "Nosite vodootpornu opremu i koristite blatobrane.",
+              "Izbjegavajte naglo kočenje na mokrom asfaltu.",
+              "Provjerite tlak u gumama za bolje prianjanje na mokrim površinama.",
+              "Šumske staze mogu ostati blatnjave i nakon kiše."
             ]
           }
         },
@@ -1153,7 +1266,8 @@
             "de": "Kalte Brise am Liebespfad – die klare Sicht entschädigt für die Kälte.\r\nMittags radeln wir durch das Labyrinth, die mediterranen Düfte sind auch im Winter präsent.\r\nDie Stadtgalerie bietet am Nachmittag eine willkommene Aufwärmpause.\r\nVor Sonnenuntergang erreichen wir den Crni molo für die letzte Etappe im Winterlicht.",
             "hu": "Hideg szellő fúj a Szerelmi ösvényen – a tiszta kilátás kárpótol a fagyért.\r\nDélben a labirintuson tekerünk át, a mediterrán illatok télen is érezhetőek.\r\nA Városi Galéria délután szívesen látott melegedő megállóhely.\r\nNaplemente előtt érjük el a Crni molót a téli fények utolsó sugaraiban.",
             "ro": "Briză rece pe Cărarea Iubirii – vizibilitatea clară compensează frigul.\r\nLa prânz pedalăm prin Labirint, mirosurile mediteraneene sunt prezente și iarna.\r\nGaleria Orașului oferă o pauză de încălzire binevenită după-amiaza.\r\nÎnainte de apus ajungem la Crni molo pentru ultima etapă în lumina iernii.",
-            "en": "Cold breeze on the Love Path – the clear views make up for the chill.\r\nAt noon we cycle through the labyrinth; Mediterranean scents are present even in winter.\r\nThe City Gallery provides a welcome warming break in the afternoon.\r\nBefore sunset, we reach Crni molo for the final stretch in the winter light."
+            "en": "Cold breeze on the Love Path – the clear views make up for the chill.\r\nAt noon we cycle through the labyrinth; Mediterranean scents are present even in winter.\r\nThe City Gallery provides a welcome warming break in the afternoon.\r\nBefore sunset, we reach Crni molo for the final stretch in the winter light.",
+            "hr": "Hladan povjetarac na Ljubavnoj cestici – čisti vidici nadoknađuju hladnoću.\r\nU podne se vozimo kroz labirint; mediteranski mirisi prisutni su i zimi.\r\nGradska galerija pruža dobrodošlu toplu stanku poslijepodne.\r\nPrije zalaska sunca stižemo do Crnog mola za posljednju dionicu na zimskom svjetlu."
           },
           "stops": [
             {
@@ -1162,7 +1276,8 @@
                 "de": "Handschuhe sind bei der Abfahrt unerlässlich.",
                 "hu": "A kesztyű elengedhetetlen a lejtőkön.",
                 "ro": "Mănușile sunt esențiale la coborâre.",
-                "en": "Gloves are essential for the downhill parts."
+                "en": "Gloves are essential for the downhill parts.",
+                "hr": "Rukavice su neophodne za nizbrdice."
               }
             },
             {
@@ -1171,7 +1286,8 @@
                 "de": "Klare Winterluft lässt die Farben leuchten.",
                 "hu": "A tiszta téli levegőben élénkebbek a színek.",
                 "ro": "Aerul curat de iarnă face culorile să strălucească.",
-                "en": "Clear winter air makes the colors pop."
+                "en": "Clear winter air makes the colors pop.",
+                "hr": "Čisti zimski zrak čini boje intenzivnijima."
               }
             },
             {
@@ -1180,7 +1296,8 @@
                 "de": "Perfekt zum Aufwärmen zwischen den Etappen.",
                 "hu": "Tökéletes melegedő az egyes etapok között.",
                 "ro": "Perfect pentru încălzire între etape.",
-                "en": "Perfect for warming up between stages."
+                "en": "Perfect for warming up between stages.",
+                "hr": "Savršeno za zagrijavanje između etapa."
               }
             },
             {
@@ -1189,7 +1306,8 @@
                 "de": "Kurzer Stopp am windigen Ufer.",
                 "hu": "Rövid megálló a szeles parton.",
                 "ro": "Scurtă oprire pe țărmul vântos.",
-                "en": "Short stop on the windy shore."
+                "en": "Short stop on the windy shore.",
+                "hr": "Kratko zaustavljanje na vjetrovitoj obali."
               }
             },
             {
@@ -1198,7 +1316,8 @@
                 "de": "Wintersonne genießen, bevor es kalt wird.",
                 "hu": "Élvezzük a napsütést, mielőtt lehűl az idő.",
                 "ro": "Bucurați-vă de soare înainte să se facă frig.",
-                "en": "Enjoy the sun before the temperature drops."
+                "en": "Enjoy the sun before the temperature drops.",
+                "hr": "Uživajte u suncu prije pada temperature."
               }
             }
           ],
@@ -1226,6 +1345,12 @@
               "Bring warm drinks in a thermos flask.",
               "Days are short, check your bike lights.",
               "Avoid cycling during strong Bura wind warnings."
+            ],
+            "hr": [
+              "Slojevita odjeća štiti od hladnog vjetra.",
+              "Ponesite tople napitke u termosici.",
+              "Dani su kratki, provjerite svjetla na biciklu.",
+              "Izbjegavajte vožnju tijekom upozorenja na jaku buru."
             ]
           }
         }
@@ -1254,7 +1379,8 @@
             "de": "Das charmante Nachbardorf mit einer schönen Promenade.",
             "hu": "A bájos szomszédos település gyönyörű sétánnyal.",
             "ro": "Satul vecin fermecător cu o faleză frumoasă.",
-            "en": "The charming neighboring village with a beautiful promenade."
+            "en": "The charming neighboring village with a beautiful promenade.",
+            "hr": "Šarmantno susjedno mjesto s prekrasnom šetnicom."
           }
         },
         {
@@ -1272,7 +1398,8 @@
             "de": "Parken Sie am Hafenparkplatz in der Nähe.",
             "hu": "Parkoljon a közeli kikötői parkolóban.",
             "ro": "Parcați în parcarea portului din apropiere.",
-            "en": "Park at the harbor parking lot nearby."
+            "en": "Park at the harbor parking lot nearby.",
+            "hr": "Parkirajte na obližnjem lučkom parkiralištu."
           }
         },
         {
@@ -1290,7 +1417,8 @@
             "de": "Tolle Klippen und kristallklares Wasser zum Schnorcheln.",
             "hu": "Csodálatos sziklák és kristálytiszta víz búvárkodáshoz.",
             "ro": "Stânci grozave și apă cristalină pentru snorkeling.",
-            "en": "Great cliffs and crystal clear water for snorkeling."
+            "en": "Great cliffs and crystal clear water for snorkeling.",
+            "hr": "Odlične stijene i kristalno čisto more za ronjenje."
           }
         },
         {
@@ -1308,7 +1436,8 @@
             "de": "Spektakulärer Blick über die gesamte Riviera und Krk.",
             "hu": "Látványos kilátás az egész riviérára és Krk szigetére.",
             "ro": "Vedere spectaculoasă peste întreaga rivieră și insula Krk.",
-            "en": "Spectacular view over the entire riviera and Krk island."
+            "en": "Spectacular view over the entire riviera and Krk island.",
+            "hr": "Spektakularan pogled na cijelu rivijeru i otok Krk."
           }
         },
         {
@@ -1326,7 +1455,8 @@
             "de": "Großer gebührenpflichtiger Parkplatz direkt am Strand.",
             "hu": "Nagy fizetős parkoló közvetlenül a strand mellett.",
             "ro": "Parcare mare cu plată chiar lângă plajă.",
-            "en": "Large paid parking lot right by the beach."
+            "en": "Large paid parking lot right by the beach.",
+            "hr": "Veliko naplatno parkiralište tik uz plažu."
           }
         }
       ],
@@ -1334,7 +1464,8 @@
         "de": "Mit dem Auto entdecken Sie die Vielfalt der Riviera. Starten Sie im beschaulichen Selce und besuchen Sie dann das Aquarium im Zentrum von Crikvenica.\n\nFahren Sie weiter zur Halbinsel Kačjak für ein Naturerlebnis abseits der Massen. Ein Highlight ist die Fahrt ins Hinterland zu den Aussichtspunkten der Vinodol.\n\nBeenden Sie den Tag entspannt am Crni molo Strand, bevor Sie zurückfahren.",
         "hu": "Autóval felfedezheti a riviéra sokszínűségét. Kezdjen a békés Selcében, majd látogasson el a crikvenicai Akváriumba.\n\nFolytassa útját a Kačjak-félszigetre a tömegtől távoli természeti élményért. Kiemelt pont a Vinodol-völgy kilátóinak felkeresése a hátországban.\n\nA napot a Crni molo strandon zárhatja egy kis pihenéssel a hazaindulás előtt.",
         "ro": "Cu mașina veți descoperi diversitatea rivierei. Începeți în liniștitul Selce și vizitați apoi Acvariul din centrul orașului Crikvenica.\n\nContinuați spre peninsula Kačjak pentru o experiență naturală departe de mulțime. Un punct culminant este drumul spre punctele de belvedere din Vinodol.\n\nÎncheiați ziua relaxat pe plaja Crni molo înainte de a porni spre casă.",
-        "en": "By car, you will discover the diversity of the riviera. Start in peaceful Selce and then visit the Aquarium in the center of Crikvenica.\n\nContinue to the Kačjak peninsula for a nature experience away from the crowds. A highlight is the drive into the hinterland to the Vinodol viewpoints.\n\nEnd the day relaxing at Crni molo beach before heading back."
+        "en": "By car, you will discover the diversity of the riviera. Start in peaceful Selce and then visit the Aquarium in the center of Crikvenica.\n\nContinue to the Kačjak peninsula for a nature experience away from the crowds. A highlight is the drive into the hinterland to the Vinodol viewpoints.\n\nEnd the day relaxing at Crni molo beach before heading back.",
+        "hr": "Automobilom ćete otkriti raznolikost rivijere. Započnite u mirnom Selcu, a zatim posjetite Akvarij u centru Crikvenice.\n\nNastavite do poluotoka Kačjak za doživljaj prirode daleko od gužve. Vrhunac je vožnja u zaleđe do vidikovaca Vinodola.\n\nZavršite dan opuštajući se na plaži Crni molo prije povratka."
       },
       "gastro_picks": {
         "de": [
@@ -1359,6 +1490,12 @@
           {
             "name": "Vagabundo (Bribir)",
             "tip": "Excellent meat from the hinterland."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Vagabundo (Bribir)",
+            "tip": "Izvrsno meso iz zaleđa."
           }
         ]
       },
@@ -1390,6 +1527,13 @@
             "tip": "Secluded bays at the end of the peninsula.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Stijene Kačjak",
+            "tip": "Skrivene uvale na kraju poluotoka.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1416,6 +1560,12 @@
             "name": "Duga Mall",
             "tip": "Larger shopping mall on the outskirts of town."
           }
+        ],
+        "hr": [
+          {
+            "name": "Duga Mall",
+            "tip": "Veći trgovački centar na rubu grada."
+          }
         ]
       },
       "tips": {
@@ -1438,6 +1588,11 @@
           "Parking spaces are very scarce in the center in summer; use the outskirts.",
           "The roads into the hinterland are narrow and winding; drive carefully.",
           "Parking fees can often be paid via SMS."
+        ],
+        "hr": [
+          "Parkirna mjesta u centru su ljeti vrlo rijetka; koristite rubne dijelove grada.",
+          "Ceste prema zaleđu su uske i zavojite; vozite oprezno.",
+          "Naknade za parkiranje često se mogu platiti putem SMS-a."
         ]
       },
       "variants": {
@@ -1605,7 +1760,8 @@
             "de": "Die Fahrt nach Selce ist auch bei Regen entspannt, Parkplätze sind reichlich vorhanden.\r\nMittags ist das Aquarium in Crikvenica das perfekte Ziel für die ganze Familie.\r\nDie Halbinsel Kacjak wirkt im Nebel mystisch, ein kurzer Rundgang lohnt sich.\r\nDer Aussichtspunkt bietet eine dramatische Sicht auf die Wolken über dem Vinodol.",
             "hu": "Az út Selcébe esőben is pihentető, parkolóhelyből ilyenkor bőven akad.\r\nDélben a crikvenicai Aquarium tökéletes célpont az egész családnak.\r\nA Kačjak-félsziget misztikusnak tűnik a ködben, egy rövid körutat megér.\r\nA kilátópontról drámai látvány nyílik a Vinodol feletti felhőkre.",
             "ro": "Drumul spre Selce este relaxant și pe ploaie, locurile de parcare sunt din abundență.\r\nLa prânz, Acvariul din Crikvenica este destinația perfectă pentru familie.\r\nPeninsula Kačjak pare mistică în ceață, merită o scurtă plimbare.\r\nPunctul de belvedere oferă o vedere dramatică asupra norilor deasupra Vinodol.",
-            "en": "The drive to Selce is relaxed even in rain, with plenty of parking available.\r\nAt noon, the Aquarium in Crikvenica is the perfect destination for the family.\r\nThe Kačjak peninsula looks mystical in the mist; a short walk is worth it.\r\nThe viewpoint offers a dramatic view of the clouds over the Vinodol valley."
+            "en": "The drive to Selce is relaxed even in rain, with plenty of parking available.\r\nAt noon, the Aquarium in Crikvenica is the perfect destination for the family.\r\nThe Kačjak peninsula looks mystical in the mist; a short walk is worth it.\r\nThe viewpoint offers a dramatic view of the clouds over the Vinodol valley.",
+            "hr": "Vožnja do Selca je opuštena čak i po kiši, uz dovoljno slobodnih parkirnih mjesta.\r\nU podne je Akvarij u Crikvenici savršeno odredište za obitelj.\r\nPoluotok Kačjak izgleda mistično u magli; kratka šetnja se isplati.\r\nVidikovac nudi dramatičan pogled na oblake nad Vinodolskom dolinom."
           },
           "stops": [
             {
@@ -1614,7 +1770,8 @@
                 "de": "Parkplatz direkt am Meer oft frei bei Regen.",
                 "hu": "A tengerparti parkoló esőben gyakran üres.",
                 "ro": "Parcarea de lângă mare e adesea liberă pe ploaie.",
-                "en": "Seaside parking is often available during rain."
+                "en": "Seaside parking is often available during rain.",
+                "hr": "Parking uz more često je dostupan tijekom kiše."
               }
             },
             {
@@ -1623,7 +1780,8 @@
                 "de": "Parkhaus 'Gradska' ist nur wenige Gehminuten entfernt.",
                 "hu": "A Gradska parkolóház pár perc sétára van.",
                 "ro": "Parcarea Gradska este la câteva minute de mers.",
-                "en": "Gradska parking garage is just a short walk away."
+                "en": "Gradska parking garage is just a short walk away.",
+                "hr": "Gradska parkirna garaža udaljena je samo kratku šetnju."
               }
             },
             {
@@ -1632,7 +1790,8 @@
                 "de": "Vorsicht auf unbefestigten Straßenabschnitten.",
                 "hu": "Vigyázzunk a burkolatlan útszakaszokon.",
                 "ro": "Atenție pe secțiunile de drum neasfaltate.",
-                "en": "Be careful on unpaved road sections."
+                "en": "Be careful on unpaved road sections.",
+                "hr": "Budite oprezni na neasfaltiranim dijelovima ceste."
               }
             },
             {
@@ -1641,7 +1800,8 @@
                 "de": "Bei starkem Nebel ist die Sicht eingeschränkt.",
                 "hu": "Erős ködben a kilátás korlátozott lehet.",
                 "ro": "În caz de ceață densă, vizibilitatea este redusă.",
-                "en": "Visibility might be limited in heavy fog."
+                "en": "Visibility might be limited in heavy fog.",
+                "hr": "Vidljivost može biti ograničena u gustoj magli."
               }
             },
             {
@@ -1650,7 +1810,8 @@
                 "de": "Bequem im Auto die Aussicht auf die Wellen genießen.",
                 "hu": "A kocsiból is kényelmesen nézhetjük a hullámokat.",
                 "ro": "Bucurați-vă de vederea valurilor din mașină.",
-                "en": "Enjoy the view of the waves from the car comfort."
+                "en": "Enjoy the view of the waves from the car comfort.",
+                "hr": "Uživajte u pogledu na valove iz udobnosti automobila."
               }
             }
           ],
@@ -1678,6 +1839,12 @@
               "Winding roads to the hinterland can be slippery.",
               "Use parking garages for dry access to the center.",
               "Many parking spots are free during the off-season."
+            ],
+            "hr": [
+              "Prije puta provjerite brisače i svjetla.",
+              "Zavojite ceste prema zaleđu mogu biti skliske.",
+              "Koristite parkirne garaže za suhi pristup centru.",
+              "Mnogi parkirni prostori su besplatni izvan sezone."
             ]
           }
         },
@@ -1686,7 +1853,8 @@
             "de": "Selce ist im Winter wunderbar ruhig, ideal für Fotos ohne Menschenmassen.\r\nDas Aquarium bietet eine warme Pause, bevor es auf die Halbinsel Kacjak geht.\r\nDie Fahrt zu den 'Augen der Vinodol' bietet im Winter oft die klarste Fernsicht.\r\nZum Abschluss genießen wir die kühle Meeresbrise am Crni molo im Auto.",
             "hu": "Selce télen csodásan nyugodt, ideális tömeg nélküli fotózáshoz.\r\nAz Aquarium meleg pihenőt nyújt a Kačjak-félsziget előtt.\r\nA Vinodol szemeihez vezető út télen kínálja a legtisztább kilátást.\r\nZárásként a Crni molónál élvezzük a hűvös tengeri szellőt az autóból.",
             "ro": "Selce este minunat de liniștit iarna, ideal pentru poze fără mulțimi.\r\nAcvariul oferă o pauză caldă înainte de a merge spre peninsula Kačjak.\r\nDrumul spre „Ochii Vinodolului” oferă adesea cea mai clară vedere iarna.\r\nLa final ne bucurăm de briza rece la Crni molo, din mașină.",
-            "en": "Selce is wonderfully quiet in winter, ideal for photos without the crowds.\r\nThe Aquarium offers a warm break before heading to the Kačjak peninsula.\r\nThe drive to the 'Eyes of Vinodol' often provides the clearest views in winter.\r\nFinally, we enjoy the cool sea breeze at Crni molo from the comfort of the car."
+            "en": "Selce is wonderfully quiet in winter, ideal for photos without the crowds.\r\nThe Aquarium offers a warm break before heading to the Kačjak peninsula.\r\nThe drive to the 'Eyes of Vinodol' often provides the clearest views in winter.\r\nFinally, we enjoy the cool sea breeze at Crni molo from the comfort of the car.",
+            "hr": "Selce je zimi predivno mirno, idealno za fotografije bez gužve.\r\nAkvarij nudi toplu stanku prije odlaska na poluotok Kačjak.\r\nVožnja do 'Očiju Vinodola' zimi često pruža najčišće poglede.\r\nNa kraju uživamo u hladnom morskom povjetarcu na Crnom molu iz udobnosti automobila."
           },
           "stops": [
             {
@@ -1695,7 +1863,8 @@
                 "de": "Viele Cafés haben im Winter geschlossen, Zentrum ist ruhig.",
                 "hu": "Sok kávézó zárva van télen, a központ csendes.",
                 "ro": "Multe cafenele sunt închise iarna, centrul e liniștit.",
-                "en": "Many cafés are closed in winter; the center is quiet."
+                "en": "Many cafés are closed in winter; the center is quiet.",
+                "hr": "Mnogi kafići su zimi zatvoreni; centar je miran."
               }
             },
             {
@@ -1704,7 +1873,8 @@
                 "de": "Perfekter Ort für einen Stopp bei winterlicher Kälte.",
                 "hu": "Tökéletes megálló a téli hidegben.",
                 "ro": "Locul perfect pentru o oprire pe frigul iernii.",
-                "en": "Perfect place for a stop during winter cold."
+                "en": "Perfect place for a stop during winter cold.",
+                "hr": "Savršeno mjesto za stanku tijekom zimske hladnoće."
               }
             },
             {
@@ -1713,7 +1883,8 @@
                 "de": "Starker Wind an der Spitze möglich.",
                 "hu": "Erős szél várható a félsziget csúcsán.",
                 "ro": "Vânt puternic posibil în vârful peninsulei.",
-                "en": "Strong winds possible at the tip of the peninsula."
+                "en": "Strong winds possible at the tip of the peninsula.",
+                "hr": "Mogući jaki udari vjetra na vrhu poluotoka."
               }
             },
             {
@@ -1722,7 +1893,8 @@
                 "de": "Kristallklare Sicht bis zu den Inseln Krk und Cres.",
                 "hu": "Kristálytiszta kilátás Krk és Cres szigetéig.",
                 "ro": "Vedere de cristal până la insulele Krk și Cres.",
-                "en": "Crystal clear views all the way to Krk and Cres islands."
+                "en": "Crystal clear views all the way to Krk and Cres islands.",
+                "hr": "Kristalno čisti pogledi sve do otoka Krka i Cresa."
               }
             },
             {
@@ -1731,7 +1903,8 @@
                 "de": "Parken direkt am Strand im Winter kein Problem.",
                 "hu": "A parkolás a strandnál télen nem probléma.",
                 "ro": "Parcarea lângă plajă nu e o problemă iarna.",
-                "en": "Parking by the beach is no problem in winter."
+                "en": "Parking by the beach is no problem in winter.",
+                "hr": "Parking uz plažu zimi nije problem."
               }
             }
           ],
@@ -1759,6 +1932,12 @@
               "Watch out for black ice in shaded corners.",
               "Bura winds can make steering difficult on open bridges.",
               "Use the short days for 'Golden Hour' photography."
+            ],
+            "hr": [
+              "U zaleđu su često obvezne zimske gume.",
+              "Pripazite na poledicu u sjenovitim zavojima.",
+              "Udari bure mogu otežati upravljanje na otvorenim mostovima.",
+              "Iskoristite kratke dane za fotografiranje u 'zlatnom satu'."
             ]
           }
         }
@@ -1787,7 +1966,8 @@
             "de": "Zentraler Ankunftspunkt für Fernbusse aus Rijeka und Zagreb.",
             "hu": "Központi érkezési pont a Rijeka és Zágráb felől érkező buszoknak.",
             "ro": "Punct central de sosire pentru autobuzele din Rijeka și Zagreb.",
-            "en": "Central arrival point for long-distance buses from Rijeka and Zagreb."
+            "en": "Central arrival point for long-distance buses from Rijeka and Zagreb.",
+            "hr": "Središnja točka dolaska međugradskih autobusa iz Rijeke i Zagre."
           }
         },
         {
@@ -1805,7 +1985,8 @@
             "de": "Nur 5 Minuten zu Fuß vom Busbahnhof entfernt.",
             "hu": "Csak 5 perc séta a buszpályaudvartól.",
             "ro": "La doar 5 minute de mers pe jos de autogară.",
-            "en": "Just a 5-minute walk from the bus station."
+            "en": "Just a 5-minute walk from the bus station.",
+            "hr": "Samo 5 minuta hoda od autobusnog kolodvora."
           }
         },
         {
@@ -1823,7 +2004,8 @@
             "de": "Direkt in der Fußgängerzone gelegen.",
             "hu": "Közvetlenül a sétálóövezetben található.",
             "ro": "Situat chiar în zona pietonală.",
-            "en": "Located right in the pedestrian zone."
+            "en": "Located right in the pedestrian zone.",
+            "hr": "Nalazi se točno u pješačkoj zoni."
           }
         },
         {
@@ -1841,7 +2023,8 @@
             "de": "Nutzen Sie den City-Bus (Zvonko), um zum Strand zu gelangen.",
             "hu": "Használja a helyi kisbuszt (Zvonko) a strandra jutáshoz.",
             "ro": "Folosiți autobuzul local (Zvonko) pentru a ajunge la plajă.",
-            "en": "Use the local city bus (Zvonko) to get to the beach."
+            "en": "Use the local city bus (Zvonko) to get to the beach.",
+            "hr": "Koristite lokalni gradski autobus (Zvonko) za odlazak na plažu."
           }
         },
         {
@@ -1859,7 +2042,8 @@
             "de": "Gute Busverbindung zurück nach Crikvenica alle 30-60 Min.",
             "hu": "Jó buszközlekedés vissza Crikvenicába 30-60 percenként.",
             "ro": "Conexiune bună de autobuz înapoi spre Crikvenica la fiecare 30-60 min.",
-            "en": "Good bus connection back to Crikvenica every 30-60 min."
+            "en": "Good bus connection back to Crikvenica every 30-60 min.",
+            "hr": "Dobra autobusna veza natrag do Crikvenice svakih 30-60 min."
           }
         }
       ],
@@ -1867,7 +2051,8 @@
         "de": "Crikvenica ist mit öffentlichen Verkehrsmitteln gut erreichbar. Starten Sie am Busbahnhof und erkunden Sie das Zentrum zu Fuß.\n\nNach dem Besuch des Aquariums bringt Sie der lokale Busshuttle zum beliebten Crni molo Strand.\n\nAm Nachmittag lohnt sich ein Ausflug mit dem Bus ins benachbarte Selce, bevor Sie die Heimreise antreten.",
         "hu": "Crikvenica jól megközelíthető tömegközlekedéssel. Kezdjen a buszpályaudvaron, és fedezze fel a központot gyalog.\n\nAz Akvárium megtekintése után a helyi buszjárat elviszi a népszerű Crni molo strandra.\n\nDélután érdemes busszal átmenni a szomszédos Selcébe, mielőtt elindulna hazafelé.",
         "ro": "Crikvenica este ușor accesibilă cu transportul public. Începeți la autogară și explorați centrul pe jos.\n\nDupă vizitarea Acvariului, autobuzul local vă va duce la populara plajă Crni molo.\n\nDupă-amiaza, merită o excursie cu autobuzul în Selce vecin înainte de a pleca spre casă.",
-        "en": "Crikvenica is easily accessible by public transport. Start at the bus station and explore the center on foot.\n\nAfter visiting the Aquarium, the local bus shuttle will take you to the popular Crni molo beach.\n\nIn the afternoon, a bus trip to neighboring Selce is worthwhile before you start your journey home."
+        "en": "Crikvenica is easily accessible by public transport. Start at the bus station and explore the center on foot.\n\nAfter visiting the Aquarium, the local bus shuttle will take you to the popular Crni molo beach.\n\nIn the afternoon, a bus trip to neighboring Selce is worthwhile before you start your journey home.",
+        "hr": "Crikvenica je lako dostupna javnim prijevozom. Započnite na autobusnom kolodvoru i istražite centar pješice.\n\nNakon posjeta Akvariju, lokalni gradski autobus odvest će vas do popularne plaže Crni molo.\n\nPoslijepodne se isplati otići autobusom do susjednog Selca prije nego što krenete kući."
       },
       "gastro_picks": {
         "de": [
@@ -1892,6 +2077,12 @@
           {
             "name": "Pizzeria Maslina",
             "tip": "Good pizza near the bus station."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pizzeria Maslina",
+            "tip": "Dobra pizza u blizini autobusnog kolodvora."
           }
         ]
       },
@@ -1923,6 +2114,13 @@
             "tip": "Shady park in the center for a break.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Spa park",
+            "tip": "Hladovit park u centru za odmor.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1949,6 +2147,12 @@
             "name": "Tisak Kiosk",
             "tip": "Buy your bus tickets here in advance."
           }
+        ],
+        "hr": [
+          {
+            "name": "Kiosk Tisak",
+            "tip": "Ovdje unaprijed kupite svoje autobusne karte."
+          }
         ]
       },
       "tips": {
@@ -1971,6 +2175,11 @@
           "The 'Zvonko' city bus regularly connects all parts of the city in summer.",
           "Bus tickets can be bought directly from the driver (cash only).",
           "Long-distance buses to Rijeka run frequently and are punctual."
+        ],
+        "hr": [
+          "Gradski autobus 'Zvonko' ljeti redovito povezuje sve dijelove grada.",
+          "Autobusne karte mogu se kupiti izravno kod vozača (samo gotovina).",
+          "Međugradski autobusi za Rijeku voze često i točni su."
         ]
       },
       "variants": {
@@ -2138,7 +2347,8 @@
             "de": "Der Busbahnhof bietet Schutz beim Warten auf den lokalen Bus.\r\nAm Stjepan-Radić-Platz steigen wir schnell aus und flüchten ins nächste Café.\r\nDas Aquarium ist nur einen kurzen Fußweg von der Bushaltestelle entfernt.\r\nDer Bus nach Selce bringt uns trocken zurück nach einem Tag am Meer.",
             "hu": "A buszpályaudvar fedett peronjai védenek várakozás közben.\r\nA Stjepan Radić téren gyorsan leszállunk és egy kávézóba menekülünk.\r\nAz Aquarium csak egy rövid sétára van a legközelebbi buszmegállótól.\r\nA Selcébe tartó busz szárazon visz vissza minket a parti nap után.",
             "ro": "Autogara oferă protecție în timp ce așteptați autobuzul local.\r\nCoborâm rapid în Piața Stjepan Radić și ne refugiem în cafenea.\r\nAcvariul este la doar o scurtă plimbare de stația de autobuz.\r\nAutobuzul spre Selce ne duce înapoi uscați după o zi la mare.",
-            "en": "The bus station provides shelter while waiting for the local bus.\r\nAt Stjepan Radić Square, we get off quickly and head into a nearby café.\r\nThe Aquarium is just a short walk from the bus stop.\r\nThe bus to Selce takes us back dry after a day by the sea."
+            "en": "The bus station provides shelter while waiting for the local bus.\r\nAt Stjepan Radić Square, we get off quickly and head into a nearby café.\r\nThe Aquarium is just a short walk from the bus stop.\r\nThe bus to Selce takes us back dry after a day by the sea.",
+            "hr": "Autobusni kolodvor pruža zaklon dok čekate lokalni autobus.\r\nNa Trgu Stjepana Radića brzo izlazimo i odlazimo u obližnji kafić.\r\nAkvarij je samo kratka šetnja od autobusne stanice.\r\nAutobus za Selce vraća nas suhe nakon dana uz more."
           },
           "stops": [
             {
@@ -2147,7 +2357,8 @@
                 "de": "Überdachte Wartebereiche vorhanden.",
                 "hu": "Fedett várakozóhelyek állnak rendelkezésre.",
                 "ro": "Zone de așteptare acoperite disponibile.",
-                "en": "Covered waiting areas are available."
+                "en": "Covered waiting areas are available.",
+                "hr": "Dostupna su natkrivena mjesta za čekanje."
               }
             },
             {
@@ -2156,7 +2367,8 @@
                 "de": "Bushaltestelle direkt am Platz, kurze Wege.",
                 "hu": "Buszmegálló közvetlenül a téren, rövid séta.",
                 "ro": "Stație de autobuz chiar în piață, distanțe scurte.",
-                "en": "Bus stop right on the square, short distances."
+                "en": "Bus stop right on the square, short distances.",
+                "hr": "Autobusna stanica na samom trgu, kratke udaljenosti."
               }
             },
             {
@@ -2165,7 +2377,8 @@
                 "de": "Hintereingang oft schneller erreichbar bei Regen.",
                 "hu": "A hátsó bejárat esőben gyakran gyorsabban elérhető.",
                 "ro": "Intrarea din spate e adesea mai accesibilă pe ploaie.",
-                "en": "The back entrance is often quicker to reach in rain."
+                "en": "The back entrance is often quicker to reach in rain.",
+                "hr": "Do stražnjeg ulaza često se brže stiže po kiši."
               }
             },
             {
@@ -2174,7 +2387,8 @@
                 "de": "Haltestelle 'Thalassotherapia' nutzen.",
                 "hu": "Használjuk a 'Thalassotherapia' megállót.",
                 "ro": "Folosiți stația „Thalassotherapia”.",
-                "en": "Use the 'Thalassotherapia' stop for the beach."
+                "en": "Use the 'Thalassotherapia' stop for the beach.",
+                "hr": "Za plažu koristite stanicu 'Thalassotherapia'."
               }
             },
             {
@@ -2183,7 +2397,8 @@
                 "de": "Bus hält im Herzen des Ortes, nah an Lokalen.",
                 "hu": "A busz a település szívében áll meg, közel a helyekhez.",
                 "ro": "Autobuzul oprește în inima stațiunii, aproape de localuri.",
-                "en": "The bus stops in the heart of town, near restaurants."
+                "en": "The bus stops in the heart of town, near restaurants.",
+                "hr": "Autobus staje u srcu mjesta, blizu restorana."
               }
             }
           ],
@@ -2211,6 +2426,12 @@
               "Have small change ready for buying tickets from the driver.",
               "Buses might have slight delays during heavy rain.",
               "Use the City-Bus for short distances within the center."
+            ],
+            "hr": [
+              "Provjerite rasporede u aplikaciji 'Arriva' za informacije u stvarnom vremenu.",
+              "Pripremite sitan novac za kupnju karata kod vozača.",
+              "Autobusi mogu imati manja kašnjenja tijekom jake kiše.",
+              "Koristite City-Bus za kratke udaljenosti unutar centra."
             ]
           }
         },
@@ -2219,7 +2440,8 @@
             "de": "Ein ruhiger Morgen am Busbahnhof, die Busse fahren seltener als im Sommer.\r\nIm Zentrum angekommen, genießen wir die winterliche Stille am Hauptplatz.\r\nDas Aquarium bietet eine willkommene Aufwärmpause vom winterlichen Wind.\r\nDer Abendbus bringt uns zurück nach Selce, während die Lichter am Ufer funkeln.",
             "hu": "Csendes reggel a buszpályaudvaron, a buszok ritkábban járnak, mint nyáron.\r\nA központba érve élvezzük a főtér téli nyugalmát.\r\nAz Aquarium szívesen látott melegedő a téli szél elől.\r\nAz esti busz visz vissza Selcébe, miközben a parti fények már csillognak.",
             "ro": "O dimineață liniștită la autogară, autobuzele circulă mai rar decât vara.\r\nAjunși în centru, ne bucurăm de liniștea iernii în piața principală.\r\nAcvariul oferă o pauză de încălzire binevenită împotriva vântului.\r\nAutobuzul de seară ne duce înapoi în Selce, în timp ce luminile sclipesc.",
-            "en": "A quiet morning at the bus station; buses run less frequently than in summer.\r\nArriving in the center, we enjoy the winter silence at the main square.\r\nThe Aquarium provides a welcome warming break from the winter wind.\r\nThe evening bus takes us back to Selce while the shore lights sparkle."
+            "en": "A quiet morning at the bus station; buses run less frequently than in summer.\r\nArriving in the center, we enjoy the winter silence at the main square.\r\nThe Aquarium provides a welcome warming break from the winter wind.\r\nThe evening bus takes us back to Selce while the shore lights sparkle.",
+            "hr": "Mirno jutro na autobusnom kolodvoru; autobusi voze rjeđe nego ljeti.\r\nDolaskom u centar uživamo u zimskoj tišini na glavnom trgu.\r\nAkvarij pruža dobrodošlu toplu stanku od zimskog vjetra.\r\nVečernji autobus vraća nas u Selce dok obalna svjetla svjetlucaju."
           },
           "stops": [
             {
@@ -2228,7 +2450,8 @@
                 "de": "Wartesaal im Hauptgebäude ist im Winter beheizt.",
                 "hu": "A főépület váróterme télen fűtött.",
                 "ro": "Sala de așteptare din clădirea principală e încălzită.",
-                "en": "The waiting room in the main building is heated in winter."
+                "en": "The waiting room in the main building is heated in winter.",
+                "hr": "Čekaonica u glavnoj zgradi se zimi grije."
               }
             },
             {
@@ -2237,7 +2460,8 @@
                 "de": "Abends festliche Beleuchtung in der Adventszeit.",
                 "hu": "Advent idején ünnepi kivilágítás a téren.",
                 "ro": "Iluminat festiv în timpul Adventului în piață.",
-                "en": "Festive lighting on the square during Advent."
+                "en": "Festive lighting on the square during Advent.",
+                "hr": "Svečano osvjetljenje na trgu tijekom Adventa."
               }
             },
             {
@@ -2246,7 +2470,8 @@
                 "de": "Guter Ort, um auf den nächsten Bus zu warten.",
                 "hu": "Jó hely megvárni a következő buszt.",
                 "ro": "Loc bun pentru a aștepta următorul autobuz.",
-                "en": "Good place to wait for the next bus."
+                "en": "Good place to wait for the next bus.",
+                "hr": "Dobro mjesto za čekanje sljedećeg autobusa."
               }
             },
             {
@@ -2255,7 +2480,8 @@
                 "de": "Bushaltestelle ohne viel Windschutz, warm anziehen.",
                 "hu": "A buszmegálló nem szélvédett, öltözzünk melegen.",
                 "ro": "Stația de autobuz nu e ferită de vânt, îmbrăcați-vă gros.",
-                "en": "Bus stop is exposed to wind; dress warmly."
+                "en": "Bus stop is exposed to wind; dress warmly.",
+                "hr": "Autobusna stanica je izložena vjetru; odjenite se toplo."
               }
             },
             {
@@ -2264,7 +2490,8 @@
                 "de": "Letzte Busse fahren im Winter oft früher.",
                 "hu": "Az utolsó buszok télen gyakran korábban indulnak.",
                 "ro": "Ultimele autobuze pleacă adesea mai devreme iarna.",
-                "en": "The last buses often depart earlier in winter."
+                "en": "The last buses often depart earlier in winter.",
+                "hr": "Zadnji autobusi zimi često polaze ranije."
               }
             }
           ],
@@ -2292,6 +2519,12 @@
               "Very few buses run on Sundays.",
               "Wear reflectors as it gets dark early.",
               "Buy round-trip tickets to save money."
+            ],
+            "hr": [
+              "Zimski vozni red je značajno smanjen.",
+              "Vrlo malo autobusa vozi nedjeljom.",
+              "Nosite reflektirajuće oznake jer rano pada mrak.",
+              "Kupite povratne karte kako biste uštedjeli novac."
             ]
           }
         }

@@ -36,7 +36,8 @@
             "de": "Besuchen Sie den friedlichen Kreuzgang.",
             "hu": "Nézze meg a csendes kerengőt.",
             "ro": "Vizitați claustrul liniștit.",
-            "en": "Visit the peaceful cloister."
+            "en": "Visit the peaceful cloister.",
+            "hr": "Posjetite mirni klaustar."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Ein restauriertes Juwel der Republik Ragusa.",
             "hu": "A Raguzai Köztársaság restaurált ékköve.",
             "ro": "O bijuterie restaurată a Republicii Ragusa.",
-            "en": "A restored gem of the Republic of Ragusa."
+            "en": "A restored gem of the Republic of Ragusa.",
+            "hr": "Obnovljeni dragulj Dubrovačke Republike."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Achten Sie auf die barocken Altäre.",
             "hu": "Figyelje meg a barokk oltárokat.",
             "ro": "Admirați altarele baroce.",
-            "en": "Notice the baroque altars."
+            "en": "Notice the baroque altars.",
+            "hr": "Obratite pažnju na barokne oltare."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Antike Funde direkt vor dem Kloster.",
             "hu": "Antik leletek közvetlenül a kolostor előtt.",
             "ro": "Descoperiri antice chiar în fața mănăstirii.",
-            "en": "Ancient finds right in front of the monastery."
+            "en": "Ancient finds right in front of the monastery.",
+            "hr": "Antički nalazi ispred samostana."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Ideal für Familien mit flachem Wasser.",
             "hu": "Ideális családoknak a sekély víz miatt.",
             "ro": "Ideal pentru familii datorită apei puțin adânci.",
-            "en": "Ideal for families with shallow water."
+            "en": "Ideal for families with shallow water.",
+            "hr": "Idealno za obitelji zbog plitke vode."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Perfekt für einen Drink zum Sonnenuntergang.",
             "hu": "Tökéletes egy italhoz naplementekor.",
             "ro": "Perfect pentru o băutură la apus.",
-            "en": "Perfect for a drink at sunset."
+            "en": "Perfect for a drink at sunset.",
+            "hr": "Savršeno za piće uz zalazak sunca."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Der Tag beginnt im spirituellen Zentrum Slanos am Franziskanerkloster, umgeben von Geschichte und antiken Sarkophagen. Mittags erkunden Sie die prächtige Architektur des Rektorenpalastes und die barocke St. Blasius Kirche.\nDen Nachmittag verbringen Sie entspannt am Strand Grgurići, wo das klare Wasser zur Erfrischung einlädt. Der Abend klingt elegant an der modernen Marina aus, während die Yachten im Hafen schaukeln.",
         "hu": "A nap Slano spirituális központjában, a ferences kolostornál kezdődik, történelem és antik szarkofágok gyűrűjében. Délben felfedezzük a Rektori Palota pompás építészetét és a barokk Szent Balázs templomot.\nA délutánt pihenéssel töltjük a Grgurići strandon, ahol a tiszta víz hűsítő élményt nyújt. Az este elegánsan zárul a modern kikötőben, miközben a jachtok ringatóznak az öbölben.",
         "ro": "Ziua începe în centrul spiritual din Slano, la mănăstirea franciscană, înconjurată de istorie și sarcofage antice. La prânz, explorați arhitectura magnifică a Palatului Rectorului și biserica barocă Sf. Blasiu.\nDupă-amiaza este dedicată relaxării pe plaja Grgurići, unde apa limpede vă invită la răcorire. Seara se încheie elegant la marina modernă, în timp ce iahturile se leagănă în port.",
-        "en": "The day starts in the spiritual center of Slano at the Franciscan monastery, surrounded by history and ancient sarcophagi. At noon, explore the magnificent architecture of the Rector's Palace and the baroque St. Blaise Church.\nSpend the afternoon relaxing at Grgurići beach, where the clear water invites you for a dip. The evening ends elegantly at the modern marina as yachts sway in the bay."
+        "en": "The day starts in the spiritual center of Slano at the Franciscan monastery, surrounded by history and ancient sarcophagi. At noon, explore the magnificent architecture of the Rector's Palace and the baroque St. Blaise Church.\nSpend the afternoon relaxing at Grgurići beach, where the clear water invites you for a dip. The evening ends elegantly at the modern marina as yachts sway in the bay.",
+        "hr": "Dan počinje u duhovnom središtu Slana, u franjevačkom samostanu, okruženom poviješću i antičkim sarkofazima. U podne istražite veličanstvenu arhitekturu Kneževa dvora i baroknu crkvu sv. Vlaha.\nPoslijepodne provedite opuštajući se na plaži Grgurići, gdje vas čisto more poziva na kupanje. Večer završava elegantno u modernoj marini dok se jahte njišu u zaljevu."
       },
       "gastro_picks": {
         "de": [
@@ -184,6 +191,12 @@
           {
             "name": "Gastro Slano",
             "tip": "Try fresh local oysters."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Gastro Slano",
+            "tip": "Probajte svježe domaće kamenice."
           }
         ]
       },
@@ -215,6 +228,13 @@
             "tip": "A quiet viewpoint over the bay.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Crkva sv. Roka",
+            "tip": "Mirni vidikovac s pogledom na zaljev.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -241,6 +261,12 @@
             "name": "Local Market",
             "tip": "Olive oil and honey from local farmers."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica",
+            "tip": "Maslinovo ulje i med lokalnih poljoprivrednika."
+          }
         ]
       },
       "tips": {
@@ -259,6 +285,10 @@
         "en": [
           "Wear comfortable shoes for exploring the palace.",
           "Book a table at the marina for the evening."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za istraživanje dvora.",
+          "Rezervirajte stol u marini za večer."
         ]
       },
       "variants": {
@@ -461,7 +491,8 @@
             "de": "Ein verregneter Vormittag im Kloster St. Hieronymus bietet Stille. Mittags lockt der Rektorenpalast mit seiner Geschichte und trockenem Schutz. Am Nachmittag führt der Weg entlang der Küste zur Bucht von Slano. Der Abend klingt gemütlich in einem Café an der Marina aus, während der Regen auf die Masten trommelt.",
             "hu": "Az esős délelőtt a Szent Jeromos kolostor falaiban csendes elvonulást kínál. Délben a Rektori Palota kiállításai nyújtanak száraz menedéket a történelem kedvelőinek. Délután a tengerparti sétány szürke párája közt érjük el a strandot. Az estét a modern marina egyik fedett teraszán, a hajók látványával zárjuk.",
             "ro": "O dimineață ploioasă la mănăstirea Sf. Ieronim oferă liniște. La prânz, Palatul Rectorului oferă adăpost uscat și istorie fascinantă. După-amiaza, plimbarea pe malul mării duce spre plajă prin ceața fină. Seara se încheie confortabil la marina, ascultând ploaia care bate în catargele iahturilor din port.",
-            "en": "A rainy morning at St. Jerome Monastery offers quiet reflection. At noon, the Rector's Palace provides a dry refuge and local history. Afternoon brings a walk along the misty shore to the beach. The evening ends cozily at the marina, watching the rain dance on the luxury boat decks."
+            "en": "A rainy morning at St. Jerome Monastery offers quiet reflection. At noon, the Rector's Palace provides a dry refuge and local history. Afternoon brings a walk along the misty shore to the beach. The evening ends cozily at the marina, watching the rain dance on the luxury boat decks.",
+            "hr": "Kišno jutro u samostanu sv. Jeronima nudi mir i tišinu. U podne Knežev dvor pruža suho utočište i lokalnu povijest. Poslijepodne donosi šetnju maglovitom obalom do plaže. Večer završava ugodno u marini, promatrajući ples kiše na palubama luksuznih brodova."
           },
           "stops": [
             {
@@ -470,7 +501,8 @@
                 "de": "Schirm am Eingang lassen.",
                 "hu": "Hagyd az esernyőt a bejáratnál.",
                 "ro": "Lăsați umbrela la intrare.",
-                "en": "Leave your umbrella at the entrance."
+                "en": "Leave your umbrella at the entrance.",
+                "hr": "Ostavite kišobran na ulazu."
               }
             },
             {
@@ -479,7 +511,8 @@
                 "de": "Ideal bei Regen, da komplett überdacht.",
                 "hu": "Ideális esőben, teljesen fedett múzeum.",
                 "ro": "Ideal pe ploaie, muzeu complet acoperit.",
-                "en": "Ideal for rain, fully covered museum."
+                "en": "Ideal for rain, fully covered museum.",
+                "hr": "Idealno za kišu, potpuno natkriveni muzej."
               }
             },
             {
@@ -488,7 +521,8 @@
                 "de": "Trockener Ort für ein kurzes Gebet.",
                 "hu": "Száraz hely egy rövid pihenőre.",
                 "ro": "Loc uscat pentru o scurtă pauză.",
-                "en": "A dry place for a short break."
+                "en": "A dry place for a short break.",
+                "hr": "Suho mjesto za kratki odmor."
               }
             },
             {
@@ -497,7 +531,8 @@
                 "de": "Kurzer Stopp, Steine sind rutschig.",
                 "hu": "Gyors megálló, a kövek csúszhatnak.",
                 "ro": "Oprire scurtă, pietrele sunt alunecoase.",
-                "en": "Quick stop, stones can be slippery."
+                "en": "Quick stop, stones can be slippery.",
+                "hr": "Brzo zaustavljanje, kamenje može biti sklisko."
               }
             },
             {
@@ -506,7 +541,8 @@
                 "de": "Mystische Stimmung am grauen Meer.",
                 "hu": "Misztikus hangulat a szürke tengernél.",
                 "ro": "Atmosferă mistică la marea gri.",
-                "en": "Mystical atmosphere by the gray sea."
+                "en": "Mystical atmosphere by the gray sea.",
+                "hr": "Mistična atmosfera uz sivo more."
               }
             },
             {
@@ -515,7 +551,8 @@
                 "de": "Cafés mit Blick auf die Segelschiffe.",
                 "hu": "Kávézók kilátással a vitorlásokra.",
                 "ro": "Cafenele cu vedere la iahturi.",
-                "en": "Cafes with views of the sailing boats."
+                "en": "Cafes with views of the sailing boats.",
+                "hr": "Kafići s pogledom na jedrilice."
               }
             }
           ],
@@ -547,6 +584,13 @@
               "The marina offers modern, well-heated indoor areas.",
               "Avoid the beach rocks when they are wet and slippery.",
               "Central cafes provide welcoming shelters from the rain."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću za skliske kamene ulice.",
+              "Knežev dvor je najbolje mjesto za čekanje da prođe jaka kiša.",
+              "Marina nudi moderne, dobro zagrijane zatvorene prostore.",
+              "Izbjegavajte stijene na plaži kada su mokre i skliske.",
+              "Kafići u centru nude ugodna skloništa od kiše."
             ]
           }
         },
@@ -555,7 +599,8 @@
             "de": "Ein klarer Wintermorgen beginnt am stillen Kloster. Mittags wärmt die tiefstehende Sonne die Mauern des Palastes. Der Nachmittag bietet eine einsame Wanderung am Strand unter weitem Himmel. Der Abend kommt früh, ideal für ein Glas Wein in der Marina, während die Bura über die Bucht weht.",
             "hu": "A kristálytiszta téli reggel a csendes kolostornál indul. Délben az alacsonyan járó nap sugarai melengetik a palota falait. Délután magányos séta vár a strandon a tágas égbolt alatt. Az este korán érkezik, tökéletes egy pohár borhoz a marinában, miközben a bóra fúj az öböl felett.",
             "ro": "O dimineață de iarnă senină începe la mănăstirea tăcută. La prânz, soarele blând încălzește zidurile palatului. După-amiaza oferă o plimbare solitară pe plajă sub cerul vast. Seara vine devreme, ideală pentru un pahar de vin la marină în timp ce vântul bura suflă peste golf.",
-            "en": "A crisp winter morning begins at the quiet monastery. At noon, the low sun warms the historic walls of the palace. Afternoon offers a solitary walk along the beach under wide open skies. Evening arrives early, perfect for a glass of wine at the marina while the Bura wind blows across the bay."
+            "en": "A crisp winter morning begins at the quiet monastery. At noon, the low sun warms the historic walls of the palace. Afternoon offers a solitary walk along the beach under wide open skies. Evening arrives early, perfect for a glass of wine at the marina while the Bura wind blows across the bay.",
+            "hr": "Svježe zimsko jutro počinje u tihom samostanu. U podne nisko sunce grije povijesne zidine dvora. Poslijepodne nudi osamljenu šetnju plažom pod otvorenim nebom. Večer stiže rano, savršena za čašu vina u marini dok bura puše zaljevom."
           },
           "stops": [
             {
@@ -564,7 +609,8 @@
                 "de": "Friedliche Stille ohne Sommertouristen.",
                 "hu": "Békés csend a nyári tömeg nélkül.",
                 "ro": "Liniște deplină fără turiștii de vară.",
-                "en": "Peaceful silence without summer crowds."
+                "en": "Peaceful silence without summer crowds.",
+                "hr": "Mirna tišina bez ljetnih gužvi."
               }
             },
             {
@@ -573,7 +619,8 @@
                 "de": "Prüfen Sie die kürzeren Winteröffnungszeiten.",
                 "hu": "Ellenőrizd a rövidített téli nyitvatartást.",
                 "ro": "Verificați programul scurt de iarnă.",
-                "en": "Check the shorter winter opening hours."
+                "en": "Check the shorter winter opening hours.",
+                "hr": "Provjerite kraće zimsko radno vrijeme."
               }
             },
             {
@@ -582,7 +629,8 @@
                 "de": "Im Inneren ist es wärmer als draußen.",
                 "hu": "Odabent melegebb van, mint az utcán.",
                 "ro": "În interior este mai cald decât afară.",
-                "en": "It is warmer inside than on the street."
+                "en": "It is warmer inside than on the street.",
+                "hr": "Unutra je toplije nego na ulici."
               }
             },
             {
@@ -591,7 +639,8 @@
                 "de": "Tiefstehende Sonne betont die Reliefs.",
                 "hu": "Az alacsony nap kiemeli a faragásokat.",
                 "ro": "Soarele jos scoate în evidență basoreliefurile.",
-                "en": "Low sun highlights the ancient carvings."
+                "en": "Low sun highlights the ancient carvings.",
+                "hr": "Nisko sunce naglašava drevne rezbarije."
               }
             },
             {
@@ -600,7 +649,8 @@
                 "de": "Frische Seeluft bei einem zügigen Marsch.",
                 "hu": "Friss tengeri levegő egy gyors sétához.",
                 "ro": "Aer curat de mare la o plimbare rapidă.",
-                "en": "Fresh sea air during a brisk walk."
+                "en": "Fresh sea air during a brisk walk.",
+                "hr": "Svježi morski zrak tijekom brze šetnje."
               }
             },
             {
@@ -609,7 +659,8 @@
                 "de": "Sonnenuntergang gegen 16:30 Uhr genießen.",
                 "hu": "Élvezd a naplementét 16:30 körül.",
                 "ro": "Bucurați-vă de apus în jurul orei 16:30.",
-                "en": "Enjoy the sunset around 4:30 PM."
+                "en": "Enjoy the sunset around 4:30 PM.",
+                "hr": "Uživajte u zalasku sunca oko 16:30."
               }
             }
           ],
@@ -641,6 +692,13 @@
               "Plan your activities until 4:00 PM due to early darkness.",
               "Many restaurants are closed; check the marina area for options.",
               "Paths are often damp; wear shoes with good grip."
+            ],
+            "hr": [
+              "Pripazite na hladnu buru koja puše s planina.",
+              "Slojevita odjeća je neophodna tijekom zimske sezone.",
+              "Planirajte aktivnosti do 16:00 sati zbog ranog mraka.",
+              "Mnogi restorani su zatvoreni; potražite opcije u području marine.",
+              "Staze su često vlažne; nosite obuću s dobrim prianjanjem."
             ]
           }
         }
@@ -674,7 +732,8 @@
             "de": "Guter Startpunkt für Radtouren.",
             "hu": "Jó kiindulópont kerékpártúrákhoz.",
             "ro": "Un punct bun de plecare pentru trasee.",
-            "en": "Good starting point for bike tours."
+            "en": "Good starting point for bike tours.",
+            "hr": "Dobra polazna točka za biciklističke ture."
           }
         },
         {
@@ -697,7 +756,8 @@
             "de": "Historischer Adelssitz am Meer.",
             "hu": "Történelmi nemesi rezidencia a tengernél.",
             "ro": "Reședință nobiliară istorică la mare.",
-            "en": "Historic noble residence by the sea."
+            "en": "Historic noble residence by the sea.",
+            "hr": "Povijesna plemićka rezidencija uz more."
           }
         },
         {
@@ -720,7 +780,8 @@
             "de": "Kurzer Anstieg, tolle Aussicht.",
             "hu": "Rövid emelkedő, remek kilátás.",
             "ro": "Urcare scurtă, vedere excelentă.",
-            "en": "Short climb, great view."
+            "en": "Short climb, great view.",
+            "hr": "Kratak uspon, sjajan pogled."
           }
         },
         {
@@ -743,7 +804,8 @@
             "de": "Fahrradständer sind vorhanden.",
             "hu": "Kerékpártárolók elérhetőek.",
             "ro": "Există suporturi pentru biciclete.",
-            "en": "Bike racks are available."
+            "en": "Bike racks are available.",
+            "hr": "Dostupni su stalci za bicikle."
           }
         },
         {
@@ -766,7 +828,8 @@
             "de": "Besichtigung zum Abschluss.",
             "hu": "Megtekintés befejezésként.",
             "ro": "Vizită la finalul turului.",
-            "en": "Visit as the finale."
+            "en": "Visit as the finale.",
+            "hr": "Posjetite kao finale."
           }
         }
       ],
@@ -774,7 +837,8 @@
         "de": "Mit dem Rad erkunden Sie die gesamte Bucht von Slano, angefangen bei der Marina bis zum historischen Ohmučević Sommerhaus. Ein kleiner Anstieg zur St. Rochus Kirche belohnt mit Panoramablicken.\nNachmittags genießen Sie die Freiheit auf zwei Rädern am Weg zum Grgurići Strand für eine lange Badepause. Der Tag endet kulturell mit der Besichtigung des beeindruckenden Rektorenpalastes.",
         "hu": "Kerékpárral fedezzük fel a Slano-öböl egészét, a kikötőtől kezdve a történelmi Ohmučević nyaralóig. Egy kis emelkedő a Szent Rókus templomhoz panorámás kilátással jutalmaz.\nDélután élvezze a szabadságot két keréken a Grgurići strand felé vezető úton egy hosszú fürdőzésre. A nap kulturális élménnyel zárul a lenyűgöző Rektori Palota meglátogatásával.",
         "ro": "Cu bicicleta explorați întregul golf Slano, începând de la marină până la casa istorică de vară Ohmučević. O mică urcare spre biserica Sf. Rochus vă răsplătește cu vederi panoramice.\nDupă-amiaza bucurați-vă de libertatea pe două roți în drum spre plaja Grgurići pentru o pauză lungă de înot. Ziua se încheie cultural cu vizitarea impresionantului Palat al Rectorului.",
-        "en": "By bike, explore the entire bay of Slano, starting from the marina to the historic Ohmučević summer house. A small climb to St. Rochus church rewards you with panoramic views.\nIn the afternoon, enjoy the freedom on two wheels on the way to Grgurići beach for a long swim break. The day ends culturally with a visit to the impressive Rector's Palace."
+        "en": "By bike, explore the entire bay of Slano, starting from the marina to the historic Ohmučević summer house. A small climb to St. Rochus church rewards you with panoramic views.\nIn the afternoon, enjoy the freedom on two wheels on the way to Grgurići beach for a long swim break. The day ends culturally with a visit to the impressive Rector's Palace.",
+        "hr": "Biciklom istražite cijeli zaljev Slana, počevši od marine do povijesnog ljetnikovca Ohmučević. Lagani uspon do crkve sv. Roka nagradit će vas panoramskim pogledom.\nPoslijepodne uživajte u slobodi na dva kotača na putu do plaže Grgurići za dugu stanku za kupanje. Dan završava kulturno posjetom impresivnom Kneževu dvoru."
       },
       "gastro_picks": {
         "de": [
@@ -799,6 +863,12 @@
           {
             "name": "Kulinarium Slano",
             "tip": "Light Mediterranean pasta for cyclists."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Kulinarium Slano",
+            "tip": "Lagana mediteranska tjestenina za bicikliste."
           }
         ]
       },
@@ -830,6 +900,13 @@
             "tip": "Quiet cycling along the water.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Šetnica u zaljevu",
+            "tip": "Mirna vožnja biciklom uz more.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -856,6 +933,12 @@
             "name": "Souvenir Slano",
             "tip": "Lavender bags and herbal liqueurs."
           }
+        ],
+        "hr": [
+          {
+            "name": "Souvenir Slano",
+            "tip": "Vrećice lavande i biljni likeri."
+          }
         ]
       },
       "tips": {
@@ -874,6 +957,10 @@
         "en": [
           "Use the flat paths along the coast.",
           "Take enough water for the climb to St. Rochus."
+        ],
+        "hr": [
+          "Koristite ravne staze uz obalu.",
+          "Ponesite dovoljno vode za uspon do sv. Roka."
         ]
       },
       "variants": {
@@ -1062,7 +1149,8 @@
             "de": "Morgens radeln wir vorsichtig zur Marina Slano. Mittags bietet das Sommerhaus Ohmučević einen historischen Einblick im Trockenen. Der Nachmittag führt trotz Regens zum Strand von Grgurići. Der Tag endet am Rektorenpalast, wo wir die Räder sicher abstellen und die Kultur genießen.",
             "hu": "Reggel óvatosan tekerünk a slanói marina felé. Délben az Ohmučević nyaraló kínál történelmi betekintést szárazon. Délután az eső ellenére is érintjük a Grgurići strandot. A nap a Rektori Palotánál zárul, ahol biztonságban lelakatolhatjuk a bringákat a városnézéshez.",
             "ro": "Dimineața pedalăm cu atenție spre marina Slano. La prânz, casa de vară Ohmučević oferă o perspectivă istorică la adăpost. După-amiaza ajungem la plaja Grgurići în ciuda ploii. Ziua se încheie la Palatul Rectorului, unde lăsăm bicicletele pentru a vizita muzeul.",
-            "en": "Morning cycling requires caution towards Slano Marina. At noon, Ohmučević Summer House provides a dry historical insight. Afternoon takes us to Grgurići Beach despite the rain. The day ends at the Rector's Palace, where we can park the bikes and enjoy the local culture."
+            "en": "Morning cycling requires caution towards Slano Marina. At noon, Ohmučević Summer House provides a dry historical insight. Afternoon takes us to Grgurići Beach despite the rain. The day ends at the Rector's Palace, where we can park the bikes and enjoy the local culture.",
+            "hr": "Jutarnja vožnja biciklom zahtijeva oprez prema marini Slano. U podne ljetnikovac Ohmučević pruža suhi povijesni uvid. Poslijepodne nas vodi do plaže Grgurići unatoč kiši. Dan završava u Kneževu dvoru, gdje možemo parkirati bicikle i uživati u lokalnoj kulturi."
           },
           "stops": [
             {
@@ -1071,7 +1159,8 @@
                 "de": "Vorsicht auf nassen Holzstegen am Hafen.",
                 "hu": "Vigyázz a vizes fapallókon a kikötőben.",
                 "ro": "Atenție la podețele de lemn ude din port.",
-                "en": "Careful on wet wooden piers in the harbor."
+                "en": "Careful on wet wooden piers in the harbor.",
+                "hr": "Oprezno na mokrim drvenim molićima u luci."
               }
             },
             {
@@ -1080,7 +1169,8 @@
                 "de": "Kurze Pause im Trockenen einplanen.",
                 "hu": "Tarts egy rövid szünetet a szárazon.",
                 "ro": "Planificați o scurtă pauză la adăpost.",
-                "en": "Plan a short break in the dry area."
+                "en": "Plan a short break in the dry area.",
+                "hr": "Planirajte kratki odmor u suhom prostoru."
               }
             },
             {
@@ -1089,7 +1179,8 @@
                 "de": "Steile Zufahrt kann bei Regen rutschig sein.",
                 "hu": "A meredek feljáró esőben csúszós lehet.",
                 "ro": "Accesul abrupt poate fi alunecos pe ploaie.",
-                "en": "Steep access can be slippery in the rain."
+                "en": "Steep access can be slippery in the rain.",
+                "hr": "Strmi pristup može biti sklisak po kiši."
               }
             },
             {
@@ -1098,7 +1189,8 @@
                 "de": "Fester Radweg direkt hinter dem Strand.",
                 "hu": "Szilárd kerékpárút közvetlenül a strand mögött.",
                 "ro": "Pistă de biciclete stabilă chiar în spatele plajei.",
-                "en": "Stable bike path right behind the beach."
+                "en": "Stable bike path right behind the beach.",
+                "hr": "Stabilna biciklistička staza odmah iza plaže."
               }
             },
             {
@@ -1107,7 +1199,8 @@
                 "de": "Überdachter Abstellplatz in der Nähe.",
                 "hu": "Fedett biciklitároló a közelben.",
                 "ro": "Loc de parcare acoperit în apropiere.",
-                "en": "Covered parking spot nearby."
+                "en": "Covered parking spot nearby.",
+                "hr": "Natkriveno parkirno mjesto u blizini."
               }
             }
           ],
@@ -1139,6 +1232,13 @@
               "Avoid road markings as they become extremely slippery.",
               "A waterproof phone case for navigation is recommended.",
               "Wear bright, reflective rain gear for visibility."
+            ],
+            "hr": [
+              "Koristite blatobrane kako biste izbjegli prskanje blatom.",
+              "Kočite rano i nježno na mokrom asfaltu.",
+              "Izbjegavajte cestovne oznake jer postaju iznimno skliske.",
+              "Preporučuje se vodootporna torbica za telefon za navigaciju.",
+              "Nosite svijetlu, reflektirajuću kišnu opremu za vidljivost."
             ]
           }
         },
@@ -1147,7 +1247,8 @@
             "de": "Der Wintermorgen an der Marina ist frisch und belebend. Mittags wärmen wir uns am Ohmučević-Haus in der Sonne auf. Am Nachmittag führt die Radtour zur St. Rochus Kirche mit Blick über die Bucht. Den Abschluss bildet der Besuch im Rektorenpalast, bevor die Kälte des Abends einsetzt.",
             "hu": "A téli reggel a marinánál friss és élettel teli. Délben az Ohmučević-háznál melegszünk a napon. Délután a túra a Szent Rókus templomhoz vezet, ahonnan belátni az öblöt. A napot a Rektori Palota látogatása zárja, mielőtt beállna az esti hideg.",
             "ro": "Dimineața de iarnă la marină este proaspătă și revigorantă. La prânz ne încălzim la soare lângă casa Ohmučević. După-amiaza, turul duce la biserica Sf. Roch cu vedere peste golf. Finalul aparține vizitei la Palatul Rectorului înainte de frigul serii.",
-            "en": "The winter morning at the marina is fresh and invigorating. At noon, we warm up in the sun by the Ohmučević house. Afternoon cycling leads to St. Rochus Church with views over the bay. We conclude with a visit to the Rector's Palace before the evening chill sets in."
+            "en": "The winter morning at the marina is fresh and invigorating. At noon, we warm up in the sun by the Ohmučević house. Afternoon cycling leads to St. Rochus Church with views over the bay. We conclude with a visit to the Rector's Palace before the evening chill sets in.",
+            "hr": "Zimsko jutro u marini je svježe i okrepljujuće. U podne se grijemo na suncu kod kuće Ohmučević. Poslijepodnevna vožnja vodi do crkve sv. Roka s pogledom na zaljev. Zaključujemo posjetom Kneževu dvoru prije nego što nastupi večernja hladnoća."
           },
           "stops": [
             {
@@ -1156,7 +1257,8 @@
                 "de": "Handschuhe gegen den kalten Fahrtwind tragen.",
                 "hu": "Viselj kesztyűt a hideg menetszél ellen.",
                 "ro": "Purtați mănuși împotriva vântului rece.",
-                "en": "Wear gloves against the cold wind."
+                "en": "Wear gloves against the cold wind.",
+                "hr": "Nosite rukavice protiv hladnog vjetra."
               }
             },
             {
@@ -1165,7 +1267,8 @@
                 "de": "Sonnige Plätze für eine Pause nutzen.",
                 "hu": "Használd ki a napos helyeket a pihenéshez.",
                 "ro": "Folosiți locurile însorite pentru pauză.",
-                "en": "Take advantage of sunny spots for a break."
+                "en": "Take advantage of sunny spots for a break.",
+                "hr": "Iskoristite sunčana mjesta za odmor."
               }
             },
             {
@@ -1174,7 +1277,8 @@
                 "de": "Klarer Weitblick über das winterliche Meer.",
                 "hu": "Tiszta kilátás a téli tengerre.",
                 "ro": "Vedere clară peste marea de iarnă.",
-                "en": "Clear views over the winter sea."
+                "en": "Clear views over the winter sea.",
+                "hr": "Jasni vidici nad zimskim morem."
               }
             },
             {
@@ -1183,7 +1287,8 @@
                 "de": "Radeln hält bei kühlen Temperaturen warm.",
                 "hu": "A tekerés melegen tart a hűvös időben.",
                 "ro": "Pedalatul vă menține cald pe temperaturi scăzute.",
-                "en": "Cycling keeps you warm in cool temperatures."
+                "en": "Cycling keeps you warm in cool temperatures.",
+                "hr": "Vožnja bicikla grije vas na niskim temperaturama."
               }
             },
             {
@@ -1192,7 +1297,8 @@
                 "de": "Kurze Tage: Licht am Fahrrad prüfen.",
                 "hu": "Rövid nappalok: ellenőrizd a lámpákat.",
                 "ro": "Zile scurte: verificați luminile bicicletei.",
-                "en": "Short days: check your bike lights."
+                "en": "Short days: check your bike lights.",
+                "hr": "Kratki dani: provjerite svjetla na biciklu."
               }
             }
           ],
@@ -1224,6 +1330,13 @@
               "Tire pressure should be slightly lower for better grip.",
               "Finish your tour before sunset (around 4:30 PM).",
               "Wear windproof clothing because of the Bura wind."
+            ],
+            "hr": [
+              "Pijte dovoljno vode čak i po hladnom vremenu.",
+              "Održavajte ekstremitete (ruke, noge) posebno toplima.",
+              "Tlak u gumama trebao bi biti malo niži za bolje prianjanje.",
+              "Završite turu prije zalaska sunca (oko 16:30).",
+              "Nosite odjeću otpornu na vjetar zbog bure."
             ]
           }
         }
@@ -1257,7 +1370,8 @@
             "de": "Parkplatz direkt im Zentrum vorhanden.",
             "hu": "Parkoló közvetlenül a központban.",
             "ro": "Parcare disponibilă direct în centru.",
-            "en": "Parking available directly in the center."
+            "en": "Parking available directly in the center.",
+            "hr": "Parking dostupan izravno u centru."
           }
         },
         {
@@ -1280,7 +1394,8 @@
             "de": "Kurzer Fußweg vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking lot."
+            "en": "Short walk from the parking lot.",
+            "hr": "Kratka šetnja od parkirališta."
           }
         },
         {
@@ -1303,7 +1418,8 @@
             "de": "Ein Ausflug zum nahegelegenen Arboretum.",
             "hu": "Kirándulás a közeli arborétumhoz.",
             "ro": "O excursie la arboretul din apropiere.",
-            "en": "A trip to the nearby arboretum."
+            "en": "A trip to the nearby arboretum.",
+            "hr": "Izlet u obližnji arboretum."
           }
         },
         {
@@ -1326,7 +1442,8 @@
             "de": "Großer Parkplatz hinter dem Strand.",
             "hu": "Nagy parkoló a strand mögött.",
             "ro": "Parcare mare în spatele plajei.",
-            "en": "Large parking lot behind the beach."
+            "en": "Large parking lot behind the beach.",
+            "hr": "Veliko parkiralište iza plaže."
           }
         },
         {
@@ -1349,7 +1466,8 @@
             "de": "Besuchen Sie die Hafenbar.",
             "hu": "Látogasson el a kikötői bárba.",
             "ro": "Vizitați barul din port.",
-            "en": "Visit the harbor bar."
+            "en": "Visit the harbor bar.",
+            "hr": "Posjetite bar u luci."
           }
         },
         {
@@ -1372,7 +1490,8 @@
             "de": "Zufahrt über eine schmale Straße.",
             "hu": "Megközelítés keskeny úton.",
             "ro": "Acces printr-un drum îngust.",
-            "en": "Access via a narrow road."
+            "en": "Access via a narrow road.",
+            "hr": "Pristup uskom cestom."
           }
         }
       ],
@@ -1380,7 +1499,8 @@
         "de": "Mit dem Auto kombinieren Sie das historische Slano mit einem Ausflug zum weltberühmten Arboretum Trsteno. Vormittags besichtigen Sie den Rektorenpalast und die Hauptkirche im Dorfzentrum.\nMittags fahren Sie die Küstenstraße entlang für fantastische Ausblicke. Den Nachmittag verbringen Sie am weitläufigen Grgurići Strand, bevor Sie den Tag entspannt an der Marina und dem Aussichtspunkt St. Rochus beenden.",
         "hu": "Autóval kombináljuk a történelmi Slanót egy kirándulással a világhírű Trsteno Arborétumba. Délelőtt a Rektori Palotát és a falu központjában lévő főtemplomot tekintjük meg.\nDélben a tengerparti úton haladunk a fantasztikus kilátásért. A délutánt a tágas Grgurići strandon töltjük, majd a napot a kikötőben és a Szent Rókus kilátópontnál zárjuk.",
         "ro": "Cu mașina, combinați Slano istoric cu o excursie la faimosul Arboretum Trsteno. Dimineața vizitați Palatul Rectorului și biserica principală din centrul satului.\nLa prânz conduceți pe drumul de coastă pentru vederi fantastice. După-amiaza o petreceți pe plaja Grgurići, înainte de a încheia ziua relaxat la marină și la punctul de observație Sf. Rochus.",
-        "en": "By car, combine historic Slano with a trip to the world-famous Trsteno Arboretum. In the morning, visit the Rector's Palace and the main church in the village center.\nAt noon, drive along the coastal road for fantastic views. Spend the afternoon at the spacious Grgurići beach before ending the day relaxed at the marina and the St. Rochus viewpoint."
+        "en": "By car, combine historic Slano with a trip to the world-famous Trsteno Arboretum. In the morning, visit the Rector's Palace and the main church in the village center.\nAt noon, drive along the coastal road for fantastic views. Spend the afternoon at the spacious Grgurići beach before ending the day relaxed at the marina and the St. Rochus viewpoint.",
+        "hr": "Automobilom kombinirajte povijesno Slano s izletom u svjetski poznati Arboretum Trsteno. Ujutro posjetite Knežev dvor i glavnu crkvu u centru mjesta.\nU podne se vozite obalnom cestom za fantastične vidike. Poslijepodne provedite na prostranoj plaži Grgurići prije nego što opušteno završite dan u marini i na vidikovcu sv. Roka."
       },
       "gastro_picks": {
         "de": [
@@ -1405,6 +1525,12 @@
           {
             "name": "Konoba Miris Bora",
             "tip": "Fish specialties under the pines."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Miris Bora",
+            "tip": "Riblji specijaliteti ispod borova."
           }
         ]
       },
@@ -1436,6 +1562,13 @@
             "tip": "Hidden bay nearby.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Uvala Banići",
+            "tip": "Skrivena uvala u blizini.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1462,6 +1595,12 @@
             "name": "Wine Shop Slano",
             "tip": "Wines from the Pelješac region."
           }
+        ],
+        "hr": [
+          {
+            "name": "Wine Shop Slano",
+            "tip": "Vina iz regije Pelješac."
+          }
         ]
       },
       "tips": {
@@ -1480,6 +1619,10 @@
         "en": [
           "Parking is paid during summer.",
           "The coastal road offers many photo stops."
+        ],
+        "hr": [
+          "Parking se naplaćuje tijekom ljeta.",
+          "Obalna cesta nudi mnoga mjesta za fotografiranje."
         ]
       },
       "variants": {
@@ -1682,7 +1825,8 @@
             "de": "Regen in Slano lässt sich am besten im Auto überbrücken. Morgens besuchen wir den Rektorenpalast und die Kirche St. Blasius. Mittags fahren wir zum Aussichtspunkt Trsteno, wo die Wolken tief über der Adria hängen. Nachmittags geht es zur Marina, um den Tag bei einem Kaffee im Trockenen zu beenden.",
             "hu": "Az esős Slanót autóval a legkényelmesebb felfedezni. Reggel a Rektori Palotát és a Szent Balázs templomot látogatjuk meg. Délben a Trsteno kilátóhoz autózunk, ahol a felhők alacsonyan szállnak az Adria felett. Délután a marinánál zárjuk a napot egy forró kávé mellett, szárazon.",
             "ro": "Slano pe ploaie este cel mai bine explorat cu mașina. Dimineața vizităm Palatul Rectorului și biserica Sf. Blasiu. La prânz conducem spre punctul de belvedere Trsteno, unde norii plutesc jos peste Adriatică. După-amiaza mergem la marină pentru a încheia ziua la o cafea, la adăpost.",
-            "en": "Rainy Slano is best explored by car. In the morning, we visit the Rector's Palace and St. Blaise Church. At noon, we drive to the Trsteno viewpoint where clouds hang low over the Adriatic. Afternoon takes us to the marina to end the day with a coffee in the dry."
+            "en": "Rainy Slano is best explored by car. In the morning, we visit the Rector's Palace and St. Blaise Church. At noon, we drive to the Trsteno viewpoint where clouds hang low over the Adriatic. Afternoon takes us to the marina to end the day with a coffee in the dry.",
+            "hr": "Kišno Slano najbolje je istražiti automobilom. Ujutro posjećujemo Knežev dvor i crkvu sv. Vlaha. U podne se vozimo do vidikovca Trsteno gdje se oblaci nisko nadvijaju nad Jadranom. Poslijepodne nas vodi do marine kako bismo dan završili uz kavu na suhom."
           },
           "stops": [
             {
@@ -1691,7 +1835,8 @@
                 "de": "Parkplätze direkt vor dem Eingang verfügbar.",
                 "hu": "Parkolóhelyek közvetlenül a bejáratnál.",
                 "ro": "Locuri de parcare disponibile chiar la intrare.",
-                "en": "Parking spaces available right at the entrance."
+                "en": "Parking spaces available right at the entrance.",
+                "hr": "Parkirna mjesta dostupna odmah na ulazu."
               }
             },
             {
@@ -1700,7 +1845,8 @@
                 "de": "Kurzer Weg vom Parkplatz ins Trockene.",
                 "hu": "Rövid séta a parkolótól a bejáratig.",
                 "ro": "Scurtă plimbare de la parcare la interior.",
-                "en": "Short walk from the parking lot to the dry inside."
+                "en": "Short walk from the parking lot to the dry inside.",
+                "hr": "Kratka šetnja od parkinga do suhe unutrašnjosti."
               }
             },
             {
@@ -1709,7 +1855,8 @@
                 "de": "Vorsicht bei Nebel auf der Küstenstraße.",
                 "hu": "Vigyázz a ködre a tengerparti úton.",
                 "ro": "Atenție la ceață pe drumul de coastă.",
-                "en": "Watch out for fog on the coastal road."
+                "en": "Watch out for fog on the coastal road.",
+                "hr": "Pripazite na maglu na obalnoj cesti."
               }
             },
             {
@@ -1718,7 +1865,8 @@
                 "de": "Blick auf das Meer aus dem warmen Auto.",
                 "hu": "Kilátás a tengerre a meleg autóból.",
                 "ro": "Vedere la mare din mașina caldă.",
-                "en": "View of the sea from the warm car."
+                "en": "View of the sea from the warm car.",
+                "hr": "Pogled na more iz toplog automobila."
               }
             },
             {
@@ -1727,7 +1875,8 @@
                 "de": "Parkhaus oder überdachte Plätze suchen.",
                 "hu": "Keress fedett parkolót a közelben.",
                 "ro": "Căutați parcare acoperită în apropiere.",
-                "en": "Look for covered parking nearby."
+                "en": "Look for covered parking nearby.",
+                "hr": "Potražite natkriveni parking u blizini."
               }
             },
             {
@@ -1736,7 +1885,8 @@
                 "de": "Anfahrt über schmale, nasse Straßen.",
                 "hu": "Behajtás szűk, vizes utcákon át.",
                 "ro": "Acces prin străzi înguste și ude.",
-                "en": "Access via narrow, wet streets."
+                "en": "Access via narrow, wet streets.",
+                "hr": "Pristup uskim, mokrim ulicama."
               }
             }
           ],
@@ -1768,6 +1918,13 @@
               "Use the marina parking for dry access to facilities.",
               "Watch out for large puddles in low-lying areas.",
               "Keep your windshield fog-free using the air conditioning."
+            ],
+            "hr": [
+              "Upalite kratka svjetla tijekom kiše.",
+              "Obalna cesta može biti vrlo skliska tijekom prvih kiša.",
+              "Koristite parking marine za suhi pristup sadržajima.",
+              "Pripazite na velike lokve u nižim područjima.",
+              "Održavajte vjetrobransko staklo čistim pomoću klima uređaja."
             ]
           }
         },
@@ -1776,7 +1933,8 @@
             "de": "Ein winterlicher Roadtrip beginnt am Rektorenpalast. Die Fahrt nach Trsteno bietet spektakuläre Ausblicke auf das tiefblaue, ruhige Meer. Mittags wärmt die Sonne die Bucht von Slano. Der Nachmittag endet an der St. Rochus Kirche, von wo aus man den Sonnenuntergang über den Inseln perfekt beobachten kann.",
             "hu": "Téli autós kirándulás indul a Rektori Palotától. A Trsteno felé vezető út csodás kilátást nyújt a mélykék, nyugodt tengerre. Délben a nap melengeti a slanói öblöt. A délután a Szent Rókus templomnál zárul, ahonnan tökéletesen látszik a szigetek feletti naplemente.",
             "ro": "O excursie de iarnă cu mașina începe la Palatul Rectorului. Drumul spre Trsteno oferă vederi spectaculoase spre marea albastru închis. La prânz, soarele încălzește golful Slano. După-amiaza se încheie la biserica Sf. Roch, de unde puteți vedea apusul peste insule.",
-            "en": "A winter road trip starts at the Rector's Palace. The drive to Trsteno offers spectacular views of the deep blue, calm sea. At noon, the sun warms the bay of Slano. The afternoon ends at St. Rochus Church, a perfect spot to watch the sunset over the islands."
+            "en": "A winter road trip starts at the Rector's Palace. The drive to Trsteno offers spectacular views of the deep blue, calm sea. At noon, the sun warms the bay of Slano. The afternoon ends at St. Rochus Church, a perfect spot to watch the sunset over the islands.",
+            "hr": "Zimski izlet automobilom počinje kod Kneževa dvora. Vožnja do Trstena nudi spektakularne poglede na duboko plavo, mirno more. U podne sunce grije zaljev Slana. Poslijepodne završava kod crkve sv. Roka, savršenog mjesta za promatranje zalaska sunca nad otocima."
           },
           "stops": [
             {
@@ -1785,7 +1943,8 @@
                 "de": "Kurze Wege sparen Zeit im kalten Wind.",
                 "hu": "A rövid sétákkal időt nyersz a hideg szélben.",
                 "ro": "Drumurile scurte economisesc timp în vântul rece.",
-                "en": "Short walks save time in the cold wind."
+                "en": "Short walks save time in the cold wind.",
+                "hr": "Kratke šetnje štede vrijeme na hladnom vjetru."
               }
             },
             {
@@ -1794,7 +1953,8 @@
                 "de": "Besuchen Sie die Kirche zur Mittagszeit.",
                 "hu": "Látogasd meg a templomot délidőben.",
                 "ro": "Vizitați biserica la ora prânzului.",
-                "en": "Visit the church around lunchtime."
+                "en": "Visit the church around lunchtime.",
+                "hr": "Posjetite crkvu u vrijeme ručka."
               }
             },
             {
@@ -1803,7 +1963,8 @@
                 "de": "Heizung im Auto genießen, Aussicht ist klar.",
                 "hu": "Élvezd a fűtést, a kilátás ilyenkor tiszta.",
                 "ro": "Bucurați-vă de căldură, vederea este clară.",
-                "en": "Enjoy the heater; the view is very clear now."
+                "en": "Enjoy the heater; the view is very clear now.",
+                "hr": "Uživajte u grijanju; pogled je sada vrlo jasan."
               }
             },
             {
@@ -1812,7 +1973,8 @@
                 "de": "Ideal für einen kurzen Fotostopp.",
                 "hu": "Ideális egy gyors fotómegállóra.",
                 "ro": "Ideal pentru o scurtă oprire foto.",
-                "en": "Ideal for a quick photo stop."
+                "en": "Ideal for a quick photo stop.",
+                "hr": "Idealno za brzu stanku za fotografiranje."
               }
             },
             {
@@ -1821,7 +1983,8 @@
                 "de": "Genügend Parkplätze in der Nebensaison.",
                 "hu": "Elegendő parkolóhely a holtszezonban.",
                 "ro": "Suficiente locuri de parcare în extrasezon.",
-                "en": "Plenty of parking spaces in the off-season."
+                "en": "Plenty of parking spaces in the off-season.",
+                "hr": "Puno parkirnih mjesta izvan sezone."
               }
             },
             {
@@ -1830,7 +1993,8 @@
                 "de": "Bester Ort für den frühen Sonnenuntergang.",
                 "hu": "A legjobb hely a korai naplementéhez.",
                 "ro": "Cel mai bun loc pentru apusul devreme.",
-                "en": "Best spot for the early sunset."
+                "en": "Best spot for the early sunset.",
+                "hr": "Najbolje mjesto za rani zalazak sunca."
               }
             }
           ],
@@ -1862,6 +2026,13 @@
               "Avoid driving during strong Bura winds (crosswinds).",
               "Plan your return journey before it gets dark.",
               "The roads are often emptier and more relaxed in winter."
+            ],
+            "hr": [
+              "Provjerite tlak u gumama kako temperature padaju.",
+              "Uvijek držite strugalicu za led u pretincu.",
+              "Izbjegavajte vožnju tijekom jake bure (bočni vjetar).",
+              "Planirajte povratak prije nego što padne mrak.",
+              "Ceste su zimi često praznije i opuštenije."
             ]
           }
         }
@@ -1895,7 +2066,8 @@
             "de": "Ankunft aus Dubrovnik oder Ston.",
             "hu": "Érkezés Dubrovnikból vagy Stonból.",
             "ro": "Sosire din Dubrovnik sau Ston.",
-            "en": "Arrival from Dubrovnik or Ston."
+            "en": "Arrival from Dubrovnik or Ston.",
+            "hr": "Dolazak iz Dubrovnika ili Stona."
           }
         },
         {
@@ -1918,7 +2090,8 @@
             "de": "Nur 5 Min zu Fuß von der Haltestelle.",
             "hu": "Csak 5 perc séta a megállótól.",
             "ro": "Doar 5 minute de mers de la stație.",
-            "en": "Only 5 min walk from the stop."
+            "en": "Only 5 min walk from the stop.",
+            "hr": "Samo 5 min hoda od stanice."
           }
         },
         {
@@ -1941,7 +2114,8 @@
             "de": "Das wichtigste Museum des Ortes.",
             "hu": "A település legfontosabb múzeuma.",
             "ro": "Cel mai important muzeu din zonă.",
-            "en": "The most important museum in town."
+            "en": "The most important museum in town.",
+            "hr": "Najvažniji muzej u gradu."
           }
         },
         {
@@ -1964,7 +2138,8 @@
             "de": "Restaurants und Cafés am Wasser.",
             "hu": "Éttermek és kávézók a vízen.",
             "ro": "Restaurante și cafenele la mal.",
-            "en": "Restaurants and cafes by the water."
+            "en": "Restaurants and cafes by the water.",
+            "hr": "Restorani i kafići uz more."
           }
         },
         {
@@ -1987,7 +2162,8 @@
             "de": "Leicht erreichbar per Spaziergang.",
             "hu": "Könnyen elérhető sétával.",
             "ro": "Ușor accesibil printr-o plimbare.",
-            "en": "Easily accessible via a walk."
+            "en": "Easily accessible via a walk.",
+            "hr": "Lako dostupno šetnjom."
           }
         }
       ],
@@ -1995,7 +2171,8 @@
         "de": "Dank der guten Busverbindung zwischen Dubrovnik und Ston ist Slano ideal mit Transit erreichbar. Vom Dorfzentrum aus liegen das Kloster und der Rektorenpalast in unmittelbarer Nähe.\nMittags genießen Sie die Atmosphäre an der Marina, bevor Sie den Nachmittag am Grgurići Strand verbringen. Alle Ziele sind gut zu Fuß vom Busstopp erreichbar.",
         "hu": "A Dubrovnik és Ston közötti jó buszközlekedésnek köszönhetően Slano tömegközlekedéssel is könnyen elérhető. A falu központjából a kolostor és a palota sétatávolságra van.\nDélben élvezze a kikötői hangulatot, mielőtt a délutánt a Grgurići strandon töltené. Minden célpont kényelmesen elérhető gyalog a buszmegállótól.",
         "ro": "Datorită conexiunilor bune de autobuz între Dubrovnik și Ston, Slano este ușor accesibil. Din centrul satului, mănăstirea și palatul sunt în imediata apropiere.\nLa prânz bucurați-vă de atmosfera din marină, înainte de a petrece după-amiaza pe plaja Grgurići. Toate obiectivele sunt ușor de atins pe jos de la stație.",
-        "en": "Thanks to good bus connections between Dubrovnik and Ston, Slano is easily accessible by transit. From the village center, the monastery and palace are within easy walking distance.\nAt noon, enjoy the atmosphere at the marina before spending the afternoon at Grgurići beach. All destinations are easily reachable on foot from the bus stop."
+        "en": "Thanks to good bus connections between Dubrovnik and Ston, Slano is easily accessible by transit. From the village center, the monastery and palace are within easy walking distance.\nAt noon, enjoy the atmosphere at the marina before spending the afternoon at Grgurići beach. All destinations are easily reachable on foot from the bus stop.",
+        "hr": "Zahvaljujući dobrim autobusnim vezama između Dubrovnika i Stona, Slano je lako dostupno javnim prijevozom. Iz centra mjesta samostan i dvor su na pješačkoj udaljenosti.\nU podne uživajte u atmosferi u marini prije nego što poslijepodne provedete na plaži Grgurići. Sva su odredišta lako dostupna pješice s autobusne stanice."
       },
       "gastro_picks": {
         "de": [
@@ -2020,6 +2197,12 @@
           {
             "name": "Bistro Kantun",
             "tip": "Affordable lunch for travelers."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Bistro Kantun",
+            "tip": "Povoljan ručak za putnike."
           }
         ]
       },
@@ -2051,6 +2234,13 @@
             "tip": "A place of silence and meditation.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Samostanski vrt",
+            "tip": "Mjesto tišine i meditacije.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2077,6 +2267,12 @@
             "name": "Slano Kiosk",
             "tip": "Local newspapers and postcards."
           }
+        ],
+        "hr": [
+          {
+            "name": "Kiosk Slano",
+            "tip": "Lokalne novine i razglednice."
+          }
         ]
       },
       "tips": {
@@ -2095,6 +2291,10 @@
         "en": [
           "Check the timetable of line 15.",
           "Buy tickets directly from the driver."
+        ],
+        "hr": [
+          "Provjerite vozni red linije 15.",
+          "Kupite karte izravno kod vozača."
         ]
       },
       "variants": {
@@ -2283,7 +2483,8 @@
             "de": "An der zentralen Haltestelle in Slano beginnt der Regentag. Das Kloster bietet Schutz für den Vormittag. Mittags lockt der Rektorenpalast mit Kultur im Trockenen. Nachmittags fahren wir zur Marina, wo wir den Blick auf die Segelschiffe bei einem warmen Getränk genießen, bevor der Bus uns zurückbringt.",
             "hu": "A slanói központi buszmegállóban indul az esős nap. A kolostor védelmet nyújt délelőttre. Délben a Rektori Palota kulturális kincsei várnak szárazon. Délután a marinához utazunk, ahol egy meleg ital mellett nézzük a vitorlásokat, mielőtt a busz visszavinne.",
             "ro": "Ziua ploioasă începe la stația centrală din Slano. Mănăstirea oferă adăpost pentru dimineață. La prânz, Palatul Rectorului oferă cultură la adăpost. După-amiaza mergem la marină pentru o băutură caldă cu vedere la iahturi, înainte de plecarea autobuzului.",
-            "en": "The rainy day begins at Slano's central bus stop. The monastery offers shelter for the morning. At noon, the Rector's Palace provides indoor culture. Afternoon takes us to the marina for a warm drink and a view of the sailboats before the bus takes us back."
+            "en": "The rainy day begins at Slano's central bus stop. The monastery offers shelter for the morning. At noon, the Rector's Palace provides indoor culture. Afternoon takes us to the marina for a warm drink and a view of the sailboats before the bus takes us back.",
+            "hr": "Kišni dan počinje na glavnoj autobusnoj stanici u Slanu. Samostan nudi utočište za jutro. U podne Knežev dvor pruža kulturu u zatvorenom. Poslijepodne nas vodi do marine na topli napitak i pogled na jedrilice prije nego što nas autobus odveze natrag."
           },
           "stops": [
             {
@@ -2292,7 +2493,8 @@
                 "de": "Unterstand nutzen, Fahrplan prüfen.",
                 "hu": "Használd az esőbeállót, nézd a menetrendet.",
                 "ro": "Folosiți adăpostul, verificați programul.",
-                "en": "Use the shelter, check the schedule."
+                "en": "Use the shelter, check the schedule.",
+                "hr": "Koristite nadstrešnicu, provjerite vozni red."
               }
             },
             {
@@ -2301,7 +2503,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle.",
                 "hu": "Rövid séta a buszmegállótól.",
                 "ro": "Scurtă plimbare de la stație.",
-                "en": "Short walk from the bus stop."
+                "en": "Short walk from the bus stop.",
+                "hr": "Kratka šetnja od autobusne stanice."
               }
             },
             {
@@ -2310,7 +2513,8 @@
                 "de": "Perfekt, um auf den nächsten Bus zu warten.",
                 "hu": "Tökéletes hely a következő busz várására.",
                 "ro": "Loc perfect pentru a aștepta următorul autobuz.",
-                "en": "Perfect place to wait for the next bus."
+                "en": "Perfect place to wait for the next bus.",
+                "hr": "Savršeno mjesto za čekanje sljedećeg autobusa."
               }
             },
             {
@@ -2319,7 +2523,8 @@
                 "de": "Warten Sie im Café auf die Abfahrt.",
                 "hu": "Várj a kávézóban az indulásig.",
                 "ro": "Așteptați în cafenea până la plecare.",
-                "en": "Wait in the cafe until departure."
+                "en": "Wait in the cafe until departure.",
+                "hr": "Čekajte u kafiću do polaska."
               }
             },
             {
@@ -2328,7 +2533,8 @@
                 "de": "Bei starkem Regen eher im Bus bleiben.",
                 "hu": "Nagy esőben maradj inkább a buszon.",
                 "ro": "Pe ploaie torențială, rămâneți în autobuz.",
-                "en": "In heavy rain, better stay on the bus."
+                "en": "In heavy rain, better stay on the bus.",
+                "hr": "Po jakoj kiši bolje ostanite u autobusu."
               }
             }
           ],
@@ -2360,6 +2566,13 @@
               "Bus stops often have limited rain protection.",
               "Expect minor delays during rainy weather.",
               "Use the Libertas app for real-time bus information."
+            ],
+            "hr": [
+              "Provjerite zimski vozni red linije 15 (Libertas).",
+              "Imajte sitniš ili karticu spremnu za kartu.",
+              "Autobusne stanice često imaju ograničenu zaštitu od kiše.",
+              "Očekujte manja kašnjenja tijekom kišnog vremena.",
+              "Koristite aplikaciju Libertas za informacije o autobusima u stvarnom vremenu."
             ]
           }
         },
@@ -2368,7 +2581,8 @@
             "de": "Der Wintertag beginnt ruhig an der Haltestelle Slano. Das Kloster und der Rektorenpalast sind morgens fast menschenleer. Mittags genießen wir die Sonne am Hafenbecken. Der Nachmittag bietet Zeit für die Marina, bevor der letzte Nachmittagsbus uns zurück in Richtung Dubrovnik bringt.",
             "hu": "A téli nap csendesen indul a slanói megállóban. A kolostor és a Rektori Palota reggel szinte néptelen. Délben a kikötőnél élvezzük a napsütést. A délután jut idő a marinára, mielőtt az utolsó délutáni busz visszavinne Dubrovnik irányába.",
             "ro": "Ziua de iarnă începe liniștit la stația din Slano. Mănăstirea și Palatul Rectorului sunt aproape pustii dimineața. La prânz ne bucurăm de soare lângă port. După-amiaza oferă timp pentru marină înainte ca ultimul autobuz să plece spre Dubrovnik.",
-            "en": "The winter day begins quietly at the Slano stop. The monastery and Rector's Palace are almost deserted in the morning. At noon, we enjoy the sun by the harbor. Afternoon offers time for the marina before the last afternoon bus heads back towards Dubrovnik."
+            "en": "The winter day begins quietly at the Slano stop. The monastery and Rector's Palace are almost deserted in the morning. At noon, we enjoy the sun by the harbor. Afternoon offers time for the marina before the last afternoon bus heads back towards Dubrovnik.",
+            "hr": "Zimski dan počinje tiho na stanici u Slanu. Samostan i Knežev dvor su ujutro gotovo pusti. U podne uživamo u suncu uz luku. Poslijepodne nudi vrijeme za marinu prije nego što posljednji poslijepodnevni autobus krene natrag prema Dubrovniku."
           },
           "stops": [
             {
@@ -2377,7 +2591,8 @@
                 "de": "Winterfahrplan weicht stark vom Sommer ab.",
                 "hu": "A téli menetrend nagyban eltér a nyáritól.",
                 "ro": "Programul de iarnă diferă mult de cel de vară.",
-                "en": "Winter schedule differs greatly from summer."
+                "en": "Winter schedule differs greatly from summer.",
+                "hr": "Zimski vozni red se uvelike razlikuje od ljetnog."
               }
             },
             {
@@ -2386,7 +2601,8 @@
                 "de": "Genießen Sie die Ruhe der Nebensaison.",
                 "hu": "Élvezd a holtszezon nyugalmát.",
                 "ro": "Bucurați-vă de liniștea extrasezonului.",
-                "en": "Enjoy the peace of the off-season."
+                "en": "Enjoy the peace of the off-season.",
+                "hr": "Uživajte u miru izvan sezone."
               }
             },
             {
@@ -2395,7 +2611,8 @@
                 "de": "Wärmen Sie sich in den Ausstellungsräumen.",
                 "hu": "Melegedj fel a kiállítótermekben.",
                 "ro": "Încălziți-vă în sălile de expoziție.",
-                "en": "Warm up in the exhibition rooms."
+                "en": "Warm up in the exhibition rooms.",
+                "hr": "Zagrijte se u izložbenim prostorima."
               }
             },
             {
@@ -2404,7 +2621,8 @@
                 "de": "Letzter Kaffee vor der Busrückfahrt.",
                 "hu": "Utolsó kávé a busz visszaindulása előtt.",
                 "ro": "Ultima cafea înainte de întoarcerea cu autobuzul.",
-                "en": "Last coffee before the bus return trip."
+                "en": "Last coffee before the bus return trip.",
+                "hr": "Posljednja kava prije povratka autobusom."
               }
             },
             {
@@ -2413,7 +2631,8 @@
                 "de": "Kurzer Spaziergang, Bus kommt bald.",
                 "hu": "Rövid séta, hamarosan jön a busz.",
                 "ro": "Scurtă plimbare, autobuzul vine curând.",
-                "en": "Short walk, the bus is coming soon."
+                "en": "Short walk, the bus is coming soon.",
+                "hr": "Kratka šetnja, autobus uskoro stiže."
               }
             }
           ],
@@ -2445,6 +2664,13 @@
               "The ride offers great views of the snowy mountains.",
               "Ask the driver about the last return trip.",
               "Wear warm clothing for the waiting periods."
+            ],
+            "hr": [
+              "Autobusi zimi voze rjeđe; pažljivo planirajte.",
+              "Utoplite se na stanici (ostanite aktivni).",
+              "Vožnja nudi sjajne poglede na snježne planine.",
+              "Pitajte vozača za zadnju povratnu vožnju.",
+              "Nosite toplu odjeću za razdoblja čekanja."
             ]
           }
         }

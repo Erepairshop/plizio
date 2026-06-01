@@ -36,7 +36,8 @@
             "de": "Besuchen Sie den Markt am Dienstagmorgen.",
             "hu": "Kedd reggelenként hangulatos piac van itt.",
             "ro": "Vizitați piața în diminețile de marți.",
-            "en": "Visit the market on Tuesday mornings."
+            "en": "Visit the market on Tuesday mornings.",
+            "fr": "Visitez le marché le mardi matin."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bewundern Sie die Orgel aus dem 19. Jahrhundert.",
             "hu": "Csodálja meg a 19. századi orgonát.",
             "ro": "Admirați orga din secolul al XIX-lea.",
-            "en": "Admire the 19th-century organ."
+            "en": "Admire the 19th-century organ.",
+            "fr": "Admirez l'orgue du XIXe siècle."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Buchen Sie Tickets vorab, um Warteschlangen zu vermeiden.",
             "hu": "Foglaljon jegyet előre a sorban állás elkerülésére.",
             "ro": "Rezervați bilete în avans pentru a evita cozile.",
-            "en": "Book tickets in advance to avoid queues."
+            "en": "Book tickets in advance to avoid queues.",
+            "fr": "Réservez vos billets à l'avance pour éviter les files d'attente."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Ein ruhiger Ort für eine kurze Pause.",
             "hu": "Csendes hely egy rövid pihenőhöz.",
             "ro": "Un loc liniștit pentru o scurtă pauză.",
-            "en": "A quiet spot for a short break."
+            "en": "A quiet spot for a short break.",
+            "fr": "Un endroit calme pour une courte pause."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Füttern Sie die riesigen Karpfen vom Pavillon aus.",
             "hu": "Etessük meg az óriási pontyokat a pavilon mellől.",
             "ro": "Hrăniți crapii uriași de lângă pavilion.",
-            "en": "Feed the giant carp from near the pavilion."
+            "en": "Feed the giant carp from near the pavilion.",
+            "fr": "Nourrissez les carpes géantes près du pavillon."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Größtes formales Gartenbeet Europas.",
             "hu": "Európa legnagyobb szabályos kertje.",
             "ro": "Cea mai mare grădină formală din Europa.",
-            "en": "Europe's largest formal garden bed."
+            "en": "Europe's largest formal garden bed.",
+            "fr": "Le plus grand parterre de jardin à la française d'Europe."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Probieren Sie den lokalen Fontainebleau-Käse.",
             "hu": "Kóstolja meg a helyi Fontainebleau sajtot.",
             "ro": "Gustați brânza locală Fontainebleau.",
-            "en": "Try the local Fontainebleau cheese."
+            "en": "Try the local Fontainebleau cheese.",
+            "fr": "Goûtez le fromage local, le Fontainebleau."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Beginnen Sie Ihren Tag im lebhaften Stadtzentrum auf der Place de la République. Nach einem kurzen Besuch der Kirche Saint-Louis widmen Sie den Vormittag dem prachtvollen Schloss Fontainebleau, der Residenz vieler französischer Monarchen. Der Nachmittag gehört den weitläufigen Gärten: vom intimen Garten der Diana bis zum monumentalen Großen Parterre. Beenden Sie den Tag mit kulinarischen Entdeckungen in der Rue de la Paroisse.",
         "hu": "Kezdje a napot a város pezsgő központjában, a Köztársaság téren. A Szent Lajos-templom megtekintése után a délelőttöt a francia uralkodók kedvenc rezidenciájának, a Fontainebleau-i kastélynak szenteljük. Délután a királyi kerteké a főszerep: a meghitt Diána-kerttől a monumentális Nagy Parterre-ig. A napot a Rue de la Paroisse gasztronómiai kínálatával zárjuk, ahol megkóstolhatjuk a helyi különlegességeket.",
         "ro": "Începeți ziua în centrul vibrant al orașului, în Piața Republicii. După o scurtă vizită la biserica Saint-Louis, dedicați dimineața magnificului Castel Fontainebleau, reședința multor monarhi francezi. După-amiaza aparține grădinilor vaste: de la Grădina Dianei, mai intimă, până la monumentalul Mare Parter. Încheiați ziua cu descoperiri culinare pe strada Paroisse.",
-        "en": "Start your day in the lively city center at Place de la République. After a brief visit to Saint-Louis Church, devote your morning to the magnificent Palace of Fontainebleau, the residence of many French monarchs. The afternoon is dedicated to the vast gardens, from the intimate Diana's Garden to the monumental Grand Parterre. Finish your day with culinary delights on Rue de la Paroisse."
+        "en": "Start your day in the lively city center at Place de la République. After a brief visit to Saint-Louis Church, devote your morning to the magnificent Palace of Fontainebleau, the residence of many French monarchs. The afternoon is dedicated to the vast gardens, from the intimate Diana's Garden to the monumental Grand Parterre. Finish your day with culinary delights on Rue de la Paroisse.",
+        "fr": "Commencez votre journée au centre-ville animé, sur la place de la République. Après une brève visite de l'église Saint-Louis, consacrez votre matinée au magnifique château de Fontainebleau, résidence de nombreux monarques français. L'après-midi est dédié aux vastes jardins, du jardin de Diane intime au monumental Grand Parterre. Terminez votre journée par des délices culinaires rue de la Paroisse."
       },
       "gastro_picks": {
         "de": [
@@ -223,6 +231,16 @@
           {
             "name": "Le Petit Palais",
             "tip": "Classic French bistro cuisine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Délice Impérial",
+            "tip": "Pâtisserie traditionnelle située à l'entrée du château."
+          },
+          {
+            "name": "Le Petit Palais",
+            "tip": "Cuisine de bistro français classique."
           }
         ]
       },
@@ -274,6 +292,18 @@
             "tip": "A winding, quiet park section.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Pavillon de l'Étang aux Carpes",
+            "tip": "Une vue paisible sur l'eau.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin Anglais",
+            "tip": "Une section de parc sinueuse et calme.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -316,6 +346,16 @@
             "name": "Fontainebleau Market",
             "tip": "Fresh regional products."
           }
+        ],
+        "fr": [
+          {
+            "name": "Fromagerie Barthélémy",
+            "tip": "Excellente sélection de fromages locaux."
+          },
+          {
+            "name": "Marché de Fontainebleau",
+            "tip": "Produits régionaux frais."
+          }
         ]
       },
       "tips": {
@@ -342,6 +382,12 @@
           "Buy your picnic supplies at the market before heading to the palace gardens.",
           "The palace is closed on Tuesdays.",
           "The gardens are free to enter."
+        ],
+        "fr": [
+          "Des chaussures confortables sont indispensables pour les rues pavées et les longs sentiers du parc.",
+          "Achetez vos provisions pour pique-nique au marché avant de vous rendre dans les jardins du château.",
+          "Le château est fermé le mardi.",
+          "L'entrée des jardins est gratuite."
         ]
       },
       "variants": {
@@ -618,7 +664,8 @@
             "de": "Der Vormittag beginnt am Place de la République, wo man unter den Arkaden Schutz suchen kann, bevor man die nahegelegene Kirche besucht.\nMittags bietet das prächtige Schloss Fontainebleau den perfekten trockenen Zufluchtsort für eine stundenlange Erkundung.\nNachmittags laden die Gärten zu einem kurzen, erfrischenden Spaziergang im Regen ein, ideal mit einem stabilen Regenschirm.\nAbends wärmen Sie sich in den gemütlichen Restaurants der Rue de la Paroisse bei einem Glas Wein auf.",
             "hu": "A délelőtt a Köztársaság téren kezdődik, ahol a közeli kávézók nyújtanak menedéket a szitáló eső elől a templomlátogatás előtt.\nDélben a Fontainebleau-i kastély pazar termei kínálnak tökéletes és száraz programot a hosszú felfedezéshez.\nDélután a kertek és a tavi sétány esőben is hangulatosak, ha van nálunk egy jó esernyő a friss levegőhöz.\nEste a Rue de la Paroisse barátságos éttermeiben melegedhetünk fel egy kiadós vacsora mellett.",
             "ro": "Dimineața începe în Piața Republicii, unde cafenelele oferă adăpost înainte de a vizita biserica Saint-Louis.\nLa prânz, interiorul somptuos al Castelului Fontainebleau este refugiul ideal împotriva ploii pentru câteva ore de cultură.\nDupă-amiaza, grădinile și iazul cu crapi au un farmec aparte sub stropii de ploaie, fiind perfecte pentru o plimbare rapidă.\nSeara se încheie confortabil în restaurantele de pe Rue de la Paroisse, savurând preparate locale la căldură.",
-            "en": "The morning starts at Republic Square, where nearby cafes provide shelter before visiting the Saint-Louis church.\nAt midday, the magnificent Palace of Fontainebleau offers the perfect dry sanctuary for hours of interior exploration.\nIn the afternoon, the gardens and the Carp Pond have a unique atmosphere in the rain, best enjoyed with a sturdy umbrella.\nThe evening concludes warmly in the cozy bistros of Rue de la Paroisse, away from the wet streets."
+            "en": "The morning starts at Republic Square, where nearby cafes provide shelter before visiting the Saint-Louis church.\nAt midday, the magnificent Palace of Fontainebleau offers the perfect dry sanctuary for hours of interior exploration.\nIn the afternoon, the gardens and the Carp Pond have a unique atmosphere in the rain, best enjoyed with a sturdy umbrella.\nThe evening concludes warmly in the cozy bistros of Rue de la Paroisse, away from the wet streets.",
+            "fr": "La matinée commence sur la place de la République, où les cafés voisins offrent un abri avant de visiter l'église Saint-Louis.\nÀ la mi-journée, le magnifique château de Fontainebleau offre un sanctuaire sec idéal pour des heures d'exploration intérieure.\nL'après-midi, les jardins et l'étang aux Carpes dégagent une atmosphère unique sous la pluie, à apprécier muni d'un solide parapluie.\nLa soirée se termine chaleureusement dans les bistros accueillants de la rue de la Paroisse, loin des rues mouillées."
           },
           "stops": [
             {
@@ -627,7 +674,8 @@
                 "de": "Nutzen Sie die Café-Markisen als Regenschutz.",
                 "hu": "Használja a kávézók előtetőit esővédőnek.",
                 "ro": "Folosiți copertinele cafenelelor pentru adăpost.",
-                "en": "Use the cafe awnings for quick rain shelter."
+                "en": "Use the cafe awnings for quick rain shelter.",
+                "fr": "Utilisez les auvents des cafés pour vous abriter rapidement de la pluie."
               }
             },
             {
@@ -636,7 +684,8 @@
                 "de": "Ein ruhiger und trockener Ort zur Besinnung.",
                 "hu": "Csendes és száraz hely az elmélyüléshez.",
                 "ro": "Un loc liniștit și uscat pentru reculegere.",
-                "en": "A quiet and dry place for reflection."
+                "en": "A quiet and dry place for reflection.",
+                "fr": "Un lieu calme et sec propice à la réflexion."
               }
             },
             {
@@ -645,7 +694,8 @@
                 "de": "Ideales Ziel bei Regen; viel Zeit drinnen verbringen.",
                 "hu": "Ideális esős időben; töltsön sok időt bent.",
                 "ro": "Destinație ideală pe ploaie; stați mult în interior.",
-                "en": "Ideal rainy day spot; spend plenty of time inside."
+                "en": "Ideal rainy day spot; spend plenty of time inside.",
+                "fr": "Lieu idéal par temps de pluie ; passez beaucoup de temps à l'intérieur."
               }
             },
             {
@@ -654,7 +704,8 @@
                 "de": "Die Wege können bei Nässe etwas rutschig sein.",
                 "hu": "Az utak nedvesen kissé csúszósak lehetnek.",
                 "ro": "Potecile pot fi alunecoase când sunt ude.",
-                "en": "Paths can be a bit slippery when wet."
+                "en": "Paths can be a bit slippery when wet.",
+                "fr": "Les sentiers peuvent être un peu glissants lorsqu'ils sont mouillés."
               }
             },
             {
@@ -663,7 +714,8 @@
                 "de": "Regenschirm ist auf den offenen Wegen Pflicht.",
                 "hu": "A nyitott sétányokon az esernyő kötelező.",
                 "ro": "Umbrela este obligatorie pe aleile deschise.",
-                "en": "Umbrella is essential on the open paths."
+                "en": "Umbrella is essential on the open paths.",
+                "fr": "Un parapluie est indispensable sur les allées découvertes."
               }
             },
             {
@@ -672,7 +724,8 @@
                 "de": "Kurzer Fotostopp; wenig Schutz vor Wind und Regen.",
                 "hu": "Gyors fotómegálló; kevés a védett hely itt.",
                 "ro": "Oprire scurtă; puțin adăpost împotriva ploii.",
-                "en": "Quick photo stop; little shelter from the rain."
+                "en": "Quick photo stop; little shelter from the rain.",
+                "fr": "Arrêt photo rapide ; peu d'abris contre la pluie."
               }
             },
             {
@@ -681,7 +734,8 @@
                 "de": "Perfekt für ein warmes Fondue bei Regenwetter.",
                 "hu": "Tökéletes hely egy meleg vacsorához esőben.",
                 "ro": "Perfect pentru o cină caldă pe vreme ploioasă.",
-                "en": "Perfect for a warm dinner in rainy weather."
+                "en": "Perfect for a warm dinner in rainy weather.",
+                "fr": "Parfait pour un dîner chaleureux par temps pluvieux."
               }
             }
           ],
@@ -713,6 +767,13 @@
               "The palace has a cloakroom where you can leave your wet coats.",
               "The market hall at Republic Square provides dry access to local goods on market days.",
               "Spend extra time in the palace interiors to wait out the heaviest rain showers."
+            ],
+            "fr": [
+              "Un grand parapluie de golf est plus utile dans les jardins du château qu'un petit modèle pliable.",
+              "Portez des chaussures imperméables car les allées en gravier du jardin peuvent former des flaques d'eau.",
+              "Le château dispose d'un vestiaire où vous pouvez laisser vos manteaux mouillés.",
+              "La halle du marché sur la place de la République permet d'accéder aux produits locaux au sec les jours de marché.",
+              "Passez plus de temps dans les salles intérieures du château pour laisser passer les plus fortes averses."
             ]
           }
         },
@@ -721,7 +782,8 @@
             "de": "Ein frischer Wintermorgen beginnt in der Stadt, wo der heiße Kaffee am Marktplatz besonders gut schmeckt.\nMittags wärmen Sie sich in den prunkvollen, beheizten Sälen des Schlosses auf und bewundern die königliche Pracht.\nNachmittags sorgt die tiefstehende Wintersonne für magisches Licht in den Gärten, bevor es gegen 17:00 Uhr dämmert.\nAbends genießen Sie die festliche Beleuchtung der Innenstadt und kehren in ein gemütliches Bistro ein.",
             "hu": "A friss téli reggel a városban kezdődik, ahol a főtéri forró kávé segít elindítani a napot.\nDélben a kastély fűtött, díszes termeiben melegedhetünk fel, miközben a királyi pompát csodáljuk.\nDélután az alacsonyan járó téli nap különleges fénybe öltözteti a kerteket a korai, 17:00 órai naplemente előtt.\nEste élvezze a belváros ünnepi fényeit és a helyi vendéglők barátságos, meleg hangulatát.",
             "ro": "O dimineață răcoroasă de iarnă începe în oraș, unde o cafea fierbinte în piață este binevenită.\nLa prânz, interiorul încălzit al castelului oferă confortul necesar pentru a admira arta regală fără grabă.\nDupă-amiaza, soarele palid de iarnă creează o atmosferă magică în grădini înainte de apusul de la ora 17:00.\nSeara, bucurați-vă de luminile festive ale orașului și de atmosfera primitoare a bistrourilor locale.",
-            "en": "A crisp winter morning begins in town, where hot coffee at the market square is the perfect start.\nAt midday, warm up in the heated, ornate halls of the palace while admiring the royal splendor.\nIn the afternoon, the low winter sun casts a magical light over the gardens before the early 5:00 PM sunset.\nThe evening is best spent enjoying the festive city lights and the warm ambiance of local eateries."
+            "en": "A crisp winter morning begins in town, where hot coffee at the market square is the perfect start.\nAt midday, warm up in the heated, ornate halls of the palace while admiring the royal splendor.\nIn the afternoon, the low winter sun casts a magical light over the gardens before the early 5:00 PM sunset.\nThe evening is best spent enjoying the festive city lights and the warm ambiance of local eateries.",
+            "fr": "Une matinée d'hiver tonique commence en ville, où un café chaud sur la place du marché est le début parfait.\nÀ la mi-journée, réchauffez-vous dans les salles chauffées et richement décorées du château tout en admirant la splendeur royale.\nL'après-midi, le bas soleil d'hiver jette une lumière magique sur les jardins avant le coucher du soleil précoce vers 17h00.\nLa soirée est idéale pour profiter des illuminations festives de la ville et de l'ambiance chaleureuse des restaurants locaux."
           },
           "stops": [
             {
@@ -730,7 +792,8 @@
                 "de": "Holen Sie sich einen heißen Kakao zum Mitnehmen.",
                 "hu": "Vegyél egy forró csokit elvitelre.",
                 "ro": "Luați o ciocolată caldă la pachet.",
-                "en": "Get a hot cocoa to go for your walk."
+                "en": "Get a hot cocoa to go for your walk.",
+                "fr": "Prenez un chocolat chaud à emporter pour votre promenade."
               }
             },
             {
@@ -739,7 +802,8 @@
                 "de": "Windgeschützter Ort; oft kühler als das Schloss.",
                 "hu": "Szélvédett hely; gyakran hűvösebb, mint a kastély.",
                 "ro": "Loc ferit de vânt; adesea mai răcoros decât castelul.",
-                "en": "Sheltered from wind; often cooler than the palace."
+                "en": "Sheltered from wind; often cooler than the palace.",
+                "fr": "Abrité du vent ; souvent plus frais que le château."
               }
             },
             {
@@ -748,7 +812,8 @@
                 "de": "Angenehm beheizt; ideal für den Mittag.",
                 "hu": "Kellemesen fűtött; ideális délidőben.",
                 "ro": "Încălzit plăcut; ideal pentru prânz.",
-                "en": "Pleasantly heated; ideal for midday."
+                "en": "Pleasantly heated; ideal for midday.",
+                "fr": "Agréablement chauffé ; idéal pour la mi-journée."
               }
             },
             {
@@ -757,7 +822,8 @@
                 "de": "Kurzer Spaziergang; achten Sie auf glatte Stellen.",
                 "hu": "Rövid séta; ügyeljen a jeges foltokra.",
                 "ro": "Plimbare scurtă; atenție la porțiunile înghețate.",
-                "en": "Short walk; watch out for icy patches."
+                "en": "Short walk; watch out for icy patches.",
+                "fr": "Courte marche ; attention aux plaques de verglas."
               }
             },
             {
@@ -766,7 +832,8 @@
                 "de": "Wunderschön im Frost; warm anziehen.",
                 "hu": "Gyönyörű dér idején; öltözzön melegen.",
                 "ro": "Superb pe ger; îmbrăcați-vă bine.",
-                "en": "Beautiful in the frost; dress warmly."
+                "en": "Beautiful in the frost; dress warmly.",
+                "fr": "Magnifique sous le givre ; habillez-vous chaudement."
               }
             },
             {
@@ -775,7 +842,8 @@
                 "de": "Hier ist es im Winter oft sehr windig.",
                 "hu": "Télen itt gyakran nagyon erős a szél.",
                 "ro": "Aici este adesea foarte vântos iarna.",
-                "en": "It is often very windy here in winter."
+                "en": "It is often very windy here in winter.",
+                "fr": "Il y a souvent beaucoup de vent ici en hiver."
               }
             },
             {
@@ -784,7 +852,8 @@
                 "de": "Wählen Sie ein Restaurant mit gemütlichem Kamin.",
                 "hu": "Válasszon egy kandallós éttermet vacsorára.",
                 "ro": "Alegeți un restaurant cu șemineu pentru cină.",
-                "en": "Choose a restaurant with a cozy fireplace."
+                "en": "Choose a restaurant with a cozy fireplace.",
+                "fr": "Choisissez un restaurant avec une cheminée accueillante."
               }
             }
           ],
@@ -816,6 +885,13 @@
               "The palace is less crowded in winter, providing a more peaceful experience.",
               "Some garden areas might be closed during heavy frost or snowfall.",
               "Enjoy typical French winter specialties like onion soup in the city center."
+            ],
+            "fr": [
+              "Le soleil se couche vers 17h00 en hiver ; prévoyez les visites des jardins plus tôt dans la journée.",
+              "Portez des couches thermiques car le vent peut être piquant dans les zones ouvertes du parc.",
+              "Le château est moins fréquenté en hiver, offrant une expérience plus paisible.",
+              "Certaines zones du jardin peuvent être fermées en cas de fort gel ou de chutes de neige.",
+              "Dégustez des spécialités hivernales typiques comme la soupe à l'oignon dans le centre-ville."
             ]
           }
         }
@@ -849,7 +925,8 @@
             "de": "Nutzen Sie die Fahrradständer am Haupteingang.",
             "hu": "Használja a kerékpártárolókat a főbejáratnál.",
             "ro": "Folosiți rastelele de biciclete de la intrarea principală.",
-            "en": "Use the bike racks at the main entrance."
+            "en": "Use the bike racks at the main entrance.",
+            "fr": "Utilisez les supports à vélos à l'entrée principale."
           }
         },
         {
@@ -872,7 +949,8 @@
             "de": "Fahren Sie vorsichtig auf den breiten Wegen.",
             "hu": "Óvatosan kerekezzen a széles utakon.",
             "ro": "Mergeți cu atenție pe aleile largi.",
-            "en": "Ride carefully on the wide paths."
+            "en": "Ride carefully on the wide paths.",
+            "fr": "Roulez prudemment sur les larges allées."
           }
         },
         {
@@ -895,7 +973,8 @@
             "de": "Folgen Sie den markierten Radwegen.",
             "hu": "Kövessék a kijelölt kerékpárutakat.",
             "ro": "Urmați pistele de biciclete marcate.",
-            "en": "Follow the marked cycle paths."
+            "en": "Follow the marked cycle paths.",
+            "fr": "Suivez les pistes cyclables balisées."
           }
         },
         {
@@ -918,7 +997,8 @@
             "de": "Panoramablick über den gesamten Wald.",
             "hu": "Panorámás kilátás az egész erdőre.",
             "ro": "Vedere panoramică asupra întregii păduri.",
-            "en": "Panoramic view over the entire forest."
+            "en": "Panoramic view over the entire forest.",
+            "fr": "Vue panoramique sur toute la forêt."
           }
         },
         {
@@ -941,7 +1021,8 @@
             "de": "Das Dorf der berühmten Landschaftsmaler.",
             "hu": "A híres tájképfestők faluja.",
             "ro": "Satul faimoșilor pictori peisagiști.",
-            "en": "The village of famous landscape painters."
+            "en": "The village of famous landscape painters.",
+            "fr": "Le village des célèbres peintres paysagistes."
           }
         },
         {
@@ -964,7 +1045,8 @@
             "de": "Geben Sie die Mieträder im Zentrum zurück.",
             "hu": "Adja le a bérelt kerékpárokat a központban.",
             "ro": "Returnați bicicletele închiriate în centru.",
-            "en": "Return rental bikes in the center."
+            "en": "Return rental bikes in the center.",
+            "fr": "Rendez les vélos de location au centre-ville."
           }
         }
       ],
@@ -972,7 +1054,8 @@
         "de": "Erkunden Sie Fontainebleau und seine Umgebung sportlich mit dem Rad. Nach einer Besichtigung des Schlosses und seiner Gärten radeln Sie tief in den berühmten Wald hinein. Der Denecourt-Turm bietet Ihnen eine spektakuläre Aussicht, bevor es weiter in das charmante Künstlerdorf Barbizon geht. Die Rückfahrt führt Sie durch schattige Waldwege zurück ins belebte Stadtzentrum.",
         "hu": "Fedezze fel Fontainebleau-t és környékét sportosan, kerékpárral. A kastély és a kertek megtekintése után tekerjen be a híres erdő mélyére. A Denecourt-torony látványos kilátást kínál, mielőtt továbbindulna a bájos művészfaluba, Barbizonba. A visszaút árnyas erdei utakon keresztül vezet a nyüzsgő városközpontba.",
         "ro": "Explorați Fontainebleau și împrejurimile sale într-un mod sportiv, cu bicicleta. După vizitarea castelului și a grădinilor, pedalați adânc în faimoasa pădure. Turnul Denecourt vă oferă o vedere spectaculoasă înainte de a continua spre fermecătorul sat de artiști Barbizon. Drumul de întoarcere vă poartă prin poteci umbrite de pădure înapoi în centrul animat al orașului.",
-        "en": "Explore Fontainebleau and its surroundings actively by bike. After touring the palace and its gardens, cycle deep into the famous forest. Denecourt Tower offers spectacular views before you continue to the charming artists' village of Barbizon. The return trip takes you through shaded forest paths back to the bustling city center."
+        "en": "Explore Fontainebleau and its surroundings actively by bike. After touring the palace and its gardens, cycle deep into the famous forest. Denecourt Tower offers spectacular views before you continue to the charming artists' village of Barbizon. The return trip takes you through shaded forest paths back to the bustling city center.",
+        "fr": "Explorez Fontainebleau et ses environs de manière active à vélo. Après avoir visité le château et ses jardins, pédalez au cœur de la célèbre forêt. La tour Denecourt offre des vues spectaculaires avant de poursuivre vers le charmant village d'artistes de Barbizon. Le voyage de retour vous ramène par des sentiers forestiers ombragés vers le centre-ville animé."
       },
       "gastro_picks": {
         "de": [
@@ -1013,6 +1096,16 @@
           {
             "name": "L'Ermitage",
             "tip": "Dining in the heart of the forest nature."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Relais de Barbizon",
+            "tip": "Cuisine copieuse pour les cyclistes affamés."
+          },
+          {
+            "name": "L'Ermitage",
+            "tip": "Dîner au cœur de la nature forestière."
           }
         ]
       },
@@ -1064,6 +1157,18 @@
             "tip": "Solitary viewpoint in the forest.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Gorges d'Apremont",
+            "tip": "Formations rocheuses fascinantes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rocher de Bouligny",
+            "tip": "Point de vue solitaire dans la forêt.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1106,6 +1211,16 @@
             "name": "A l'Alpe",
             "tip": "Outdoor gear for climbers and cyclists."
           }
+        ],
+        "fr": [
+          {
+            "name": "Galeries de Barbizon",
+            "tip": "Œuvres d'art originales de peintres locaux."
+          },
+          {
+            "name": "A l'Alpe",
+            "tip": "Équipement de plein air pour les grimpeurs et les cyclistes."
+          }
         ]
       },
       "tips": {
@@ -1132,6 +1247,12 @@
           "Take plenty of water and a map with you.",
           "Watch out for hikers on shared paths.",
           "Paths are mostly well-marked but flat."
+        ],
+        "fr": [
+          "Louez un VTT pour les sentiers de la forêt.",
+          "Prenez beaucoup d'eau et une carte avec vous.",
+          "Faites attention aux randonneurs sur les sentiers partagés.",
+          "Les chemins sont généralement bien balisés mais plats."
         ]
       },
       "variants": {
@@ -1394,7 +1515,8 @@
             "de": "Ein regnerischer Radtag beginnt am Schloss, wo die gepflasterten Wege bei Nässe Vorsicht erfordern.\nMittags radeln Sie durch den Wald von Fontainebleau, dessen Blätterdach einen gewissen Schutz bietet.\nNachmittags erreichen Sie das Künstlerdorf Barbizon, ideal um in den Galerien dem Regen zu entkommen.\nAbends kehren Sie ins Stadtzentrum zurück und parken Ihr Rad für ein wohlverdientes trockenes Abendessen.",
             "hu": "Az esős bringás nap a kastélynál indul, ahol a nedves macskakő óvatosságot igényel.\nDélben a Fontainebleau-i erdőn át tekerve a lombok némi védelmet nyújtanak a szemerkélő esőben.\nDélután érkezik Barbizonba, ahol a galériák remek búvóhelyet kínálnak az eső elől.\nEste térjen vissza a városközpontba, és tegye le a gépet egy megérdemelt száraz vacsorához.",
             "ro": "O zi ploioasă cu bicicleta începe la castel, unde pavajul umed necesită atenție sporită.\nLa prânz, pedalați prin pădurea Fontainebleau, unde coronamentul copacilor oferă o protecție parțială.\nDupă-amiaza ajungeți în satul Barbizon, ideal pentru a vizita galeriile și a scăpa de ploaie.\nSeara, reveniți în centrul orașului pentru o cină binemeritată la adăpost.",
-            "en": "A rainy cycling day starts at the palace, where wet cobblestones require careful riding.\nAt midday, cycle through the Fontainebleau forest, where the canopy provides some cover from light rain.\nIn the afternoon, reach the village of Barbizon, perfect for ducking into galleries to escape the wet.\nIn the evening, head back to the city center and park your bike for a well-deserved dry dinner."
+            "en": "A rainy cycling day starts at the palace, where wet cobblestones require careful riding.\nAt midday, cycle through the Fontainebleau forest, where the canopy provides some cover from light rain.\nIn the afternoon, reach the village of Barbizon, perfect for ducking into galleries to escape the wet.\nIn the evening, head back to the city center and park your bike for a well-deserved dry dinner.",
+            "fr": "Une journée de cyclisme sous la pluie commence au château, où les pavés mouillés nécessitent une conduite prudente.\nÀ la mi-journée, pédalez à travers la forêt de Fontainebleau, où la canopée offre une certaine protection contre la pluie légère.\nL'après-midi, rejoignez le village de Barbizon, parfait pour se glisser dans les galeries et échapper à l'humidité.\nLe soir, retournez au centre-ville et garez votre vélo pour un dîner au sec bien mérité."
           },
           "stops": [
             {
@@ -1403,7 +1525,8 @@
                 "de": "Vorsicht auf dem nassen Kopfsteinpflaster im Hof.",
                 "hu": "Vigyázzon a nedves macskakőre az udvaron.",
                 "ro": "Atenție la pavajul ud din curtea castelului.",
-                "en": "Be careful on the wet cobblestones in the courtyard."
+                "en": "Be careful on the wet cobblestones in the courtyard.",
+                "fr": "Soyez prudent sur les pavés mouillés de la cour."
               }
             },
             {
@@ -1412,7 +1535,8 @@
                 "de": "Windanfällig; halten Sie die Fahrt kurz.",
                 "hu": "Szeles hely; ne időzzön itt sokat esőben.",
                 "ro": "Expus la vânt; scurtați timpul petrecut aici.",
-                "en": "Windy spot; keep your ride here brief."
+                "en": "Windy spot; keep your ride here brief.",
+                "fr": "Endroit venteux ; écourtez votre arrêt ici."
               }
             },
             {
@@ -1421,7 +1545,8 @@
                 "de": "Sandige Wege werden matschig; Schutzbleche nutzen.",
                 "hu": "A homokos utak sárosak lesznek; használjon sárvédőt.",
                 "ro": "Potecile devin noroioase; folosiți apărători.",
-                "en": "Sandy paths turn muddy; use mudguards."
+                "en": "Sandy paths turn muddy; use mudguards.",
+                "fr": "Les sentiers sablonneux deviennent boueux ; utilisez des garde-boue."
               }
             },
             {
@@ -1430,7 +1555,8 @@
                 "de": "Die Felsen und Treppen sind sehr rutschig.",
                 "hu": "A sziklák és lépcsők nagyon csúszósak.",
                 "ro": "Stâncile și treptele sunt foarte alunecoase.",
-                "en": "Rocks and stairs are very slippery."
+                "en": "Rocks and stairs are very slippery.",
+                "fr": "Les rochers et les escaliers sont très glissants."
               }
             },
             {
@@ -1439,7 +1565,8 @@
                 "de": "Viele Cafés bieten Fahrradständer unter Vordächern.",
                 "hu": "Sok kávézó kínál fedett biciklitárolót.",
                 "ro": "Multe cafenele au suporturi sub copertine.",
-                "en": "Many cafes offer bike racks under awnings."
+                "en": "Many cafes offer bike racks under awnings.",
+                "fr": "De nombreux cafés disposent de supports à vélos sous les auvents."
               }
             },
             {
@@ -1448,7 +1575,8 @@
                 "de": "Endstation; Zeit für trockene Kleidung.",
                 "hu": "Végállomás; ideje száraz ruhát váltani.",
                 "ro": "Punct final; este timpul pentru haine uscate.",
-                "en": "Final stop; time to change into dry clothes."
+                "en": "Final stop; time to change into dry clothes.",
+                "fr": "Dernier arrêt ; temps de mettre des vêtements secs."
               }
             }
           ],
@@ -1480,6 +1608,13 @@
               "Wear a high-quality raincoat and waterproof gloves.",
               "Check your brakes before starting; stopping distance increases on wet roads.",
               "Wipe your saddle dry after every stop before continuing your ride."
+            ],
+            "fr": [
+              "Utilisez des garde-boue pour vous protéger des éclaboussures de boue en forêt.",
+              "Évitez les sentiers forestiers escarpés car les rochers de grès sont glissants lorsqu'ils sont mouillés.",
+              "Portez un imperméable de haute qualité et des gants imperméables.",
+              "Vérifiez vos freins avant de partir ; la distance de freinage augmente sur route mouillée.",
+              "Essuyez votre selle après chaque arrêt avant de reprendre la route."
             ]
           }
         },
@@ -1488,7 +1623,8 @@
             "de": "An einem klaren Wintermorgen radeln Sie zum Schloss, während der Frost die Statuen im Garten überzieht.\nMittags führt die Tour durch den Wald, wo die kahlen Bäume weite Ausblicke auf die Felsformationen freigeben.\nNachmittags wärmen Sie sich im malerischen Barbizon bei einem heißen Getränk auf, bevor die Kälte anzieht.\nAbends erreichen Sie das Stadtzentrum rechtzeitig vor Einbruch der Dunkelheit, wenn die Lichter der Rue Grande erstrahlen.",
             "hu": "A tiszta téli reggelen a kastélyhoz tekerünk, miközben a dér belepi a kert szobrait.\nDélben az erdőn át vezet az út, ahol a kopár fák között messzire ellátni a sziklákig.\nDélután a festői Barbizonban melegedhetünk fel egy forró itallal, mielőtt beállna a fagy.\nEste még sötétedés előtt érjen vissza a városba, amikor kigyúlnak a Rue Grande fényei.",
             "ro": "Într-o dimineață senină de iarnă, pedalați spre castel în timp ce chiciura acoperă statuile.\nLa prânz, turul continuă prin pădure, unde arborii desfrunziți permit vederi largi spre stânci.\nDupă-amiaza, încălziți-vă în pitorescul Barbizon cu o băutură caldă înainte de lăsarea serii.\nSeara, ajungeți în centrul orașului înainte de întuneric, când se aprind luminile pe Rue Grande.",
-            "en": "On a clear winter morning, cycle to the palace as frost covers the statues in the garden.\nAt midday, the tour leads through the forest, where bare trees offer wide views of the rock formations.\nIn the afternoon, warm up in picturesque Barbizon with a hot drink before the cold sets in.\nIn the evening, return to the city center before dark as the lights on Rue Grande begin to glow."
+            "en": "On a clear winter morning, cycle to the palace as frost covers the statues in the garden.\nAt midday, the tour leads through the forest, where bare trees offer wide views of the rock formations.\nIn the afternoon, warm up in picturesque Barbizon with a hot drink before the cold sets in.\nIn the evening, return to the city center before dark as the lights on Rue Grande begin to glow.",
+            "fr": "Par une matinée d'hiver claire, pédalez jusqu'au château alors que le givre recouvre les statues du jardin.\nÀ la mi-journée, le circuit mène à travers la forêt, où les arbres dénudés offrent de larges vues sur les formations rocheuses.\nL'après-midi, réchauffez-vous dans le pittoresque village de Barbizon avec une boisson chaude avant que le froid ne s'installe.\nLe soir, retournez au centre-ville avant la tombée de la nuit alors que les lumières de la rue Grande commencent à briller."
           },
           "stops": [
             {
@@ -1497,7 +1633,8 @@
                 "de": "Achten Sie auf Glatteis in schattigen Bereichen.",
                 "hu": "Ügyeljen a jegesedésre az árnyékos részeken.",
                 "ro": "Atenție la polei în zonele umbrite.",
-                "en": "Watch out for black ice in shaded areas."
+                "en": "Watch out for black ice in shaded areas.",
+                "fr": "Attention au verglas dans les zones ombragées."
               }
             },
             {
@@ -1506,7 +1643,8 @@
                 "de": "Sehr kalt durch den Wind; halten Sie sich in Bewegung.",
                 "hu": "A szél miatt nagyon hideg; maradjon mozgásban.",
                 "ro": "Foarte frig din cauza vântului; rămâneți în mișcare.",
-                "en": "Very cold due to wind; keep moving."
+                "en": "Very cold due to wind; keep moving.",
+                "fr": "Très froid à cause du vent ; restez en mouvement."
               }
             },
             {
@@ -1515,7 +1653,8 @@
                 "de": "Tiefstehende Sonne kann blenden; Sonnenbrille tragen.",
                 "hu": "Az alacsony nap vakíthat; viseljen napszemüveget.",
                 "ro": "Soarele jos poate fi orbitor; purtați ochelari.",
-                "en": "Low sun can be blinding; wear sunglasses."
+                "en": "Low sun can be blinding; wear sunglasses.",
+                "fr": "Le soleil bas peut être aveuglant ; portez des lunettes de soleil."
               }
             },
             {
@@ -1524,7 +1663,8 @@
                 "de": "Festes Schuhwerk für den rutschigen Aufstieg nötig.",
                 "hu": "Stabil bakancs kell a csúszós felkapaszkodáshoz.",
                 "ro": "Încălțăminte stabilă necesară pentru urcarea alunecoasă.",
-                "en": "Sturdy boots needed for the slippery climb."
+                "en": "Sturdy boots needed for the slippery climb.",
+                "fr": "Des bottes robustes sont nécessaires pour la montée glissante."
               }
             },
             {
@@ -1533,7 +1673,8 @@
                 "de": "Genießen Sie einen heißen Apfelwein zur Stärkung.",
                 "hu": "Igyon egy forró almafröccsöt az erőgyűjtéshez.",
                 "ro": "Savurați un cidru cald pentru revigorare.",
-                "en": "Enjoy a hot cider to regain some energy."
+                "en": "Enjoy a hot cider to regain some energy.",
+                "fr": "Dégustez un cidre chaud pour reprendre de l'énergie."
               }
             },
             {
@@ -1542,7 +1683,8 @@
                 "de": "Licht am Fahrrad für die Rückfahrt ist Pflicht.",
                 "hu": "A kerékpárlámpa kötelező a visszautashoz.",
                 "ro": "Luminile de bicicletă sunt obligatorii la întoarcere.",
-                "en": "Bike lights are essential for the ride back."
+                "en": "Bike lights are essential for the ride back.",
+                "fr": "Les éclairages de vélo sont essentiels pour le trajet du retour."
               }
             }
           ],
@@ -1574,6 +1716,13 @@
               "Cycle carefully over leaves as they often hide patches of ice.",
               "Carry a thermos with tea for breaks in the forest.",
               "Ensure your lights are working as it gets dark after 4:30 PM."
+            ],
+            "fr": [
+              "Habillez-vous en plusieurs couches pour éviter de surchauffer en pédalant.",
+              "Surveillez la batterie de votre vélo électrique, car les températures froides réduisent son autonomie.",
+              "Roulez prudemment sur les feuilles car elles cachent souvent des plaques de verglas.",
+              "Emportez un thermos de thé pour les pauses en forêt.",
+              "Assurez-vous que vos éclairages fonctionnent car la nuit tombe après 16h30."
             ]
           }
         }
@@ -1607,7 +1756,8 @@
             "de": "Parkplatz 'Place d'Armes' ist am nächsten.",
             "hu": "A 'Place d'Armes' parkoló van a legközelebb.",
             "ro": "Parcarea 'Place d'Armes' este cea mai apropiată.",
-            "en": "Parking 'Place d'Armes' is the closest."
+            "en": "Parking 'Place d'Armes' is the closest.",
+            "fr": "Le parking 'Place d'Armes' est le plus proche."
           }
         },
         {
@@ -1630,7 +1780,8 @@
             "de": "Einzigartige Sandsteinformationen zum Klettern.",
             "hu": "Egyedülálló homokkő-alakzatok mászáshoz.",
             "ro": "Formațiuni unice de gresie pentru cățărat.",
-            "en": "Unique sandstone formations for climbing."
+            "en": "Unique sandstone formations for climbing.",
+            "fr": "Formations de grès uniques pour l'escalade."
           }
         },
         {
@@ -1653,7 +1804,8 @@
             "de": "Besuchen Sie das Musée des Peintres de Barbizon.",
             "hu": "Látogassa meg a Barbizoni Festők Múzeumát.",
             "ro": "Vizitați Muzeul Pictorilor din Barbizon.",
-            "en": "Visit the Barbizon Painters Museum."
+            "en": "Visit the Barbizon Painters Museum.",
+            "fr": "Visitez le musée des peintres de Barbizon."
           }
         },
         {
@@ -1676,7 +1828,8 @@
             "de": "Die Inspiration für Versailles.",
             "hu": "Versailles ihletője.",
             "ro": "Inspirația pentru Versailles.",
-            "en": "The inspiration for Versailles."
+            "en": "The inspiration for Versailles.",
+            "fr": "L'inspiration de Versailles."
           }
         },
         {
@@ -1699,7 +1852,8 @@
             "de": "Abendessen in der Rue Grande.",
             "hu": "Vacsora a Rue Grande-on.",
             "ro": "Cină pe Rue Grande.",
-            "en": "Dinner on Rue Grande."
+            "en": "Dinner on Rue Grande.",
+            "fr": "Dîner sur la rue Grande."
           }
         }
       ],
@@ -1707,7 +1861,8 @@
         "de": "Mit dem Auto verbinden Sie das prachtvolle Schloss Fontainebleau mit den Highlights der Region. Nach der Palastbesichtigung erkunden Sie die Gorges de Franchard im Wald. Ein Stopp im malerischen Barbizon lässt Sie in die Welt der Maler eintauchen, bevor Sie das atemberaubende Schloss Vaux-le-Vicomte besuchen. Der Tag endet entspannt bei einem Abendessen im Stadtzentrum von Fontainebleau.",
         "hu": "Autóval könnyen összekötheti a fontainebleau-i kastélyt a régió többi látnivalójával. A palota után fedezze fel az erdei Franchard-szurdokot. Egy megálló a festői Barbizonban elrepíti a művészek világába, mielőtt meglátogatná a lenyűgöző Vaux-le-Vicomte kastélyt. A nap végén vacsorázzon kényelmesen Fontainebleau belvárosában.",
         "ro": "Cu mașina, puteți combina magnificul Castel Fontainebleau cu punctele de atracție din regiune. După vizitarea palatului, explorați Gorges de Franchard în pădure. O oprire în pitorescul Barbizon vă introduce în lumea pictorilor, înainte de a vizita uimitorul castel Vaux-le-Vicomte. Ziua se încheie relaxat cu o cină în centrul orașului Fontainebleau.",
-        "en": "By car, you can combine the grand Palace of Fontainebleau with the region's highlights. After the palace tour, explore the Gorges de Franchard in the forest. A stop in picturesque Barbizon immerses you in the world of painters before visiting the breathtaking Vaux-le-Vicomte Palace. The day ends with a relaxed dinner in Fontainebleau city center."
+        "en": "By car, you can combine the grand Palace of Fontainebleau with the region's highlights. After the palace tour, explore the Gorges de Franchard in the forest. A stop in picturesque Barbizon immerses you in the world of painters before visiting the breathtaking Vaux-le-Vicomte Palace. The day ends with a relaxed dinner in Fontainebleau city center.",
+        "fr": "En voiture, vous pouvez combiner le grandiose château de Fontainebleau avec les points forts de la région. Après la visite du château, explorez les Gorges de Franchard en forêt. Un arrêt dans le pittoresque village de Barbizon vous plonge dans l'univers des peintres avant de visiter le château de Vaux-le-Vicomte à couper le souffle. La journée se termine par un dîner décontracté au centre-ville de Fontainebleau."
       },
       "gastro_picks": {
         "de": [
@@ -1748,6 +1903,16 @@
           {
             "name": "La Libellule",
             "tip": "Cozy cafe with regional products."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Auberge de la Table du Roy",
+            "tip": "Excellent restaurant à Barbizon."
+          },
+          {
+            "name": "La Libellule",
+            "tip": "Café chaleureux proposant des produits régionaux."
           }
         ]
       },
@@ -1799,6 +1964,18 @@
             "tip": "Magnificent symmetry and peace.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Parking de la Forêt de Franchard",
+            "tip": "Point de départ de promenades paisibles en forêt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc du château de Vaux-le-Vicomte",
+            "tip": "Symétrie magnifique et sérénité.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1841,6 +2018,16 @@
             "name": "Boutique du Château",
             "tip": "Books and replicas of royal objects."
           }
+        ],
+        "fr": [
+          {
+            "name": "Souvenirs de Vaux-le-Vicomte",
+            "tip": "Articles cadeaux de haute qualité."
+          },
+          {
+            "name": "Boutique du Château",
+            "tip": "Livres et répliques d'objets royaux."
+          }
         ]
       },
       "tips": {
@@ -1867,6 +2054,12 @@
           "Use the parking garages in the city center.",
           "Buy a combined ticket for Vaux-le-Vicomte.",
           "Forest roads are narrow and winding."
+        ],
+        "fr": [
+          "Évitez les heures de pointe des navetteurs vers Paris.",
+          "Utilisez les parkings couverts du centre-ville.",
+          "Achetez un billet combiné pour Vaux-le-Vicomte.",
+          "Les routes forestières sont étroites et sinueuses."
         ]
       },
       "variants": {
@@ -2115,7 +2308,8 @@
             "de": "Die Autofahrt beginnt bequem am Schloss, während der Regen gegen die Scheiben prasselt.\nMittags fahren Sie durch die nebligen Gorges de Franchard, ein mystischer Anblick vom Auto aus.\nNachmittags besuchen Sie das prachtvolle Schloss Vaux-le-Vicomte, dessen Innenräume ein perfektes Schlechtwetterprogramm bieten.\nAbends parken Sie in der Nähe des Zentrums von Fontainebleau und genießen einen kurzen, trockenen Weg zum Restaurant.",
             "hu": "Az autós túra kényelmesen indul a kastélynál, miközben az eső kopog a szélvédőn.\nDélben a ködös Gorges de Franchard sziklái között autózunk, ami misztikus látványt nyújt.\nDélután a pazar Vaux-le-Vicomte kastélyt látogatjuk meg, melynek termei tökéletesek rossz időben.\nEste parkoljon Fontainebleau központjának közelében, így csak pár lépés a száraz étterem.",
             "ro": "Călătoria cu mașina începe confortabil la castel, în timp ce ploaia bate în parbriz.\nLa prânz, conduceți prin zona cețoasă Gorges de Franchard, o priveliște mistică din mașină.\nDupă-amiaza vizitați somptuosul castel Vaux-le-Vicomte, ale cărui interioare sunt perfecte pe ploaie.\nSeara, parcați aproape de centrul orașului Fontainebleau pentru un drum scurt spre restaurant.",
-            "en": "The car tour begins comfortably at the palace while rain drums on the windshield.\nAt midday, drive through the misty Gorges de Franchard, a mystical sight from the car.\nIn the afternoon, visit the grand Vaux-le-Vicomte palace, whose interiors are perfect for bad weather.\nIn the evening, park near the center of Fontainebleau for a short, dry walk to your restaurant."
+            "en": "The car tour begins comfortably at the palace while rain drums on the windshield.\nAt midday, drive through the misty Gorges de Franchard, a mystical sight from the car.\nIn the afternoon, visit the grand Vaux-le-Vicomte palace, whose interiors are perfect for bad weather.\nIn the evening, park near the center of Fontainebleau for a short, dry walk to your restaurant.",
+            "fr": "Le circuit en voiture commence confortablement au château alors que la pluie tambourine sur le pare-brise.\nÀ la mi-journée, traversez les Gorges de Franchard embrumées, un spectacle mystique depuis la voiture.\nL'après-midi, visitez le grand château de Vaux-le-Vicomte, dont les intérieurs sont parfaits en cas de mauvais temps.\nLe soir, garez-vous près du centre de Fontainebleau pour une courte marche au sec jusqu'à votre restaurant."
           },
           "stops": [
             {
@@ -2124,7 +2318,8 @@
                 "de": "Nutzen Sie das Parkhaus direkt am Schlosszentrum.",
                 "hu": "Használja a kastélyközpont melletti parkolóházat.",
                 "ro": "Folosiți parcarea acoperită de lângă castel.",
-                "en": "Use the parking garage right at the palace center."
+                "en": "Use the parking garage right at the palace center.",
+                "fr": "Utilisez le parking couvert situé juste au centre du château."
               }
             },
             {
@@ -2133,7 +2328,8 @@
                 "de": "Aussichtspunkte sind bei Nebel besonders mystisch.",
                 "hu": "A kilátópontok ködben különösen misztikusak.",
                 "ro": "Punctele de observație sunt mistice pe ceață.",
-                "en": "Viewpoints are especially mystical in the mist."
+                "en": "Viewpoints are especially mystical in the mist.",
+                "fr": "Les points de vue sont particulièrement mystiques dans la brume."
               }
             },
             {
@@ -2142,7 +2338,8 @@
                 "de": "Parken Sie nah an den Galerien, um trocken zu bleiben.",
                 "hu": "Parkoljon a galériák közelében, hogy száraz maradjon.",
                 "ro": "Parcați aproape de galerii pentru a rămâne uscat.",
-                "en": "Park close to the galleries to stay dry."
+                "en": "Park close to the galleries to stay dry.",
+                "fr": "Garez-vous près des galeries pour rester au sec."
               }
             },
             {
@@ -2151,7 +2348,8 @@
                 "de": "Großer Parkplatz; Regenschirm für den Weg zum Eingang.",
                 "hu": "Nagy parkoló; esernyő kell a bejáratig.",
                 "ro": "Parcare mare; umbrelă necesară până la intrare.",
-                "en": "Large parking lot; umbrella needed for the entrance walk."
+                "en": "Large parking lot; umbrella needed for the entrance walk.",
+                "fr": "Grand parking ; parapluie nécessaire pour la marche vers l'entrée."
               }
             },
             {
@@ -2160,7 +2358,8 @@
                 "de": "Tiefgarage 'Place d'Armes' bietet direkten Zugang.",
                 "hu": "A 'Place d'Armes' mélygarázs közvetlen utat kínál.",
                 "ro": "Parcarea Place d'Armes oferă acces direct.",
-                "en": "Place d'Armes underground parking offers direct access."
+                "en": "Place d'Armes underground parking offers direct access.",
+                "fr": "Le parking souterrain Place d'Armes offre un accès direct."
               }
             }
           ],
@@ -2192,6 +2391,13 @@
               "Use underground parking lots in the center to minimize walking in the wet.",
               "Check your wiper blades before driving through the forest roads.",
               "The winding forest roads can be prone to aquaplaning during heavy rain."
+            ],
+            "fr": [
+              "Conduisez prudemment dans les zones forestières en raison de l'activité accrue de la faune sous la pluie.",
+              "Vaux-le-Vicomte propose d'excellents audioguides pour une visite intérieure approfondie.",
+              "Utilisez les parkings souterrains du centre pour minimiser la marche sous l'eau.",
+              "Vérifiez vos balais d'essuie-glace avant d'emprunter les routes forestières.",
+              "Les routes forestières sinueuses peuvent être sujettes à l'aquaplanage lors de fortes pluies."
             ]
           }
         },
@@ -2200,7 +2406,8 @@
             "de": "Starten Sie Ihre Wintertour bequem am Schloss, während die Heizung das Auto wärmt.\nMittags erkunden Sie die Gorges de Franchard, wo der Frost die Felsspalten weiß färbt.\nNachmittags bewundern Sie die weihnachtliche Dekoration in Vaux-le-Vicomte, ein Highlight der Region.\nAbends kehren Sie nach Fontainebleau zurück, parken sicher im Parkhaus und genießen die Lichter der Stadt.",
             "hu": "Kezdje a téli túrát kényelmesen a kastélynál, miközben az autó már melegszik.\nDélben fedezze fel a Gorges de Franchard-t, ahol a dér fehérre festi a sziklákat.\nDélután csodálja meg a karácsonyi díszítést Vaux-le-Vicomte-ban, a környék fénypontját.\nEste térjen vissza Fontainebleau-ba, parkoljon le biztonságban, és élvezze a város fényeit.",
             "ro": "Începeți turul de iarnă confortabil la castel, în timp ce căldura din mașină vă relaxează.\nLa prânz, explorați Gorges de Franchard, unde chiciura albește crăpăturile stâncilor.\nDupă-amiaza, admirați decorațiunile de Crăciun de la Vaux-le-Vicomte, un punct forte al regiunii.\nSeara, reveniți la Fontainebleau, parcați în siguranță și bucurați-vă de luminile orașului.",
-            "en": "Start your winter tour comfortably at the palace while the car heater warms up.\nAt midday, explore Gorges de Franchard, where frost whites the crevices of the rocks.\nIn the afternoon, admire the Christmas decorations at Vaux-le-Vicomte, a regional highlight.\nIn the evening, return to Fontainebleau, park safely, and enjoy the city lights."
+            "en": "Start your winter tour comfortably at the palace while the car heater warms up.\nAt midday, explore Gorges de Franchard, where frost whites the crevices of the rocks.\nIn the afternoon, admire the Christmas decorations at Vaux-le-Vicomte, a regional highlight.\nIn the evening, return to Fontainebleau, park safely, and enjoy the city lights.",
+            "fr": "Commencez votre tour hivernal confortablement au château pendant que le chauffage de la voiture monte en température.\nÀ la mi-journée, explorez les Gorges de Franchard, où le givre blanchit les anfractuosités des rochers.\nL'après-midi, admirez les décorations de Noël à Vaux-le-Vicomte, un moment fort de la région.\nLe soir, retournez à Fontainebleau, garez-vous en toute sécurité et profitez des illuminations de la ville."
           },
           "stops": [
             {
@@ -2209,7 +2416,8 @@
                 "de": "Vorsicht beim Aussteigen auf gefrorenem Boden.",
                 "hu": "Vigyázzon a kiszálláskor a fagyott talajon.",
                 "ro": "Atenție la coborâre pe solul înghețat.",
-                "en": "Be careful when stepping out onto frozen ground."
+                "en": "Be careful when stepping out onto frozen ground.",
+                "fr": "Soyez prudent en sortant sur un sol gelé."
               }
             },
             {
@@ -2218,7 +2426,8 @@
                 "de": "Straßen können morgens glatt sein; langsam fahren.",
                 "hu": "Az utak reggel csúszósak lehetnek; vezessen lassan.",
                 "ro": "Drumurile pot fi alunecoase dimineața; conduceți încet.",
-                "en": "Roads can be icy in the morning; drive slowly."
+                "en": "Roads can be icy in the morning; drive slowly.",
+                "fr": "Les routes peuvent être verglacées le matin ; roulez lentement."
               }
             },
             {
@@ -2227,7 +2436,8 @@
                 "de": "Genießen Sie die winterliche Stille des Dorfes.",
                 "hu": "Élvezze a falu téli nyugalmát.",
                 "ro": "Bucurați-vă de liniștea hibernală a satului.",
-                "en": "Enjoy the winter stillness of the village."
+                "en": "Enjoy the winter stillness of the village.",
+                "fr": "Profitez du calme hivernal du village."
               }
             },
             {
@@ -2236,7 +2446,8 @@
                 "de": "Prüfen Sie die Zeiten für die Abendbeleuchtung.",
                 "hu": "Ellenőrizze az esti díszkivilágítás időpontjait.",
                 "ro": "Verificați programul iluminatului festiv de seară.",
-                "en": "Check the schedule for the evening light displays."
+                "en": "Check the schedule for the evening light displays.",
+                "fr": "Consultez les horaires des spectacles lumineux du soir."
               }
             },
             {
@@ -2245,7 +2456,8 @@
                 "de": "Parkhäuser sind im Winter frostfrei und sicher.",
                 "hu": "A parkolóházak télen fagymentesek és biztonságosak.",
                 "ro": "Parcările subterane sunt sigure și ferite de îngheț.",
-                "en": "Parking garages are frost-free and safe in winter."
+                "en": "Parking garages are frost-free and safe in winter.",
+                "fr": "Les parkings couverts sont à l'abri du gel et sûrs en hiver."
               }
             }
           ],
@@ -2277,6 +2489,13 @@
               "Vaux-le-Vicomte is famous for its winter events; book tickets in advance.",
               "Avoid minor forest roads during heavy snowfall.",
               "Keep blankets in the car for protection against the cold in case of emergency."
+            ],
+            "fr": [
+              "Assurez-vous que votre véhicule est équipé de pneus hiver.",
+              "Gardez un grattoir à glace à portée de main si vous vous garez à l'extérieur.",
+              "Vaux-le-Vicomte est célèbre pour ses événements hivernaux ; réservez vos billets à l'avance.",
+              "Évitez les routes forestières secondaires lors de fortes chutes de neige.",
+              "Gardez des couvertures dans la voiture pour vous protéger du froid en cas d'urgence."
             ]
           }
         }
@@ -2310,7 +2529,8 @@
             "de": "Nehmen Sie den Bus Linie 1 zum Schloss.",
             "hu": "Szálljon fel az 1-es buszra a kastély felé.",
             "ro": "Luați autobuzul linia 1 către castel.",
-            "en": "Take bus line 1 to the palace."
+            "en": "Take bus line 1 to the palace.",
+            "fr": "Prenez la ligne de bus 1 jusqu'au château."
           }
         },
         {
@@ -2333,7 +2553,8 @@
             "de": "Haltestelle 'Château' ist direkt davor.",
             "hu": "A 'Château' megálló közvetlenül a kastély előtt van.",
             "ro": "Stația 'Château' este chiar în față.",
-            "en": "The 'Château' stop is right in front."
+            "en": "The 'Château' stop is right in front.",
+            "fr": "L'arrêt 'Château' se trouve juste devant."
           }
         },
         {
@@ -2356,7 +2577,8 @@
             "de": "Historischer Platz am Schlosseingang.",
             "hu": "Történelmi tér a kastély bejáratánál.",
             "ro": "Piață istorică la intrarea în castel.",
-            "en": "Historic square at the palace entrance."
+            "en": "Historic square at the palace entrance.",
+            "fr": "Place historique à l'entrée du château."
           }
         },
         {
@@ -2379,7 +2601,8 @@
             "de": "Ein schöner Ort für Fotos.",
             "hu": "Gyönyörű hely fotózáshoz.",
             "ro": "Un loc frumos pentru fotografii.",
-            "en": "A beautiful spot for photos."
+            "en": "A beautiful spot for photos.",
+            "fr": "Un bel endroit pour les photos."
           }
         },
         {
@@ -2402,7 +2625,8 @@
             "de": "Machen Sie einen langen Spaziergang am Kanal.",
             "hu": "Tegyen egy hosszú sétát a csatorna mentén.",
             "ro": "Faceți o plimbare lungă pe malul canalului.",
-            "en": "Take a long walk along the canal."
+            "en": "Take a long walk along the canal.",
+            "fr": "Faites une longue promenade le long du canal."
           }
         },
         {
@@ -2425,7 +2649,8 @@
             "de": "Hauptgeschäftsstraße von Fontainebleau.",
             "hu": "Fontainebleau fő bevásárlóutcája.",
             "ro": "Principala stradă comercială din Fontainebleau.",
-            "en": "Fontainebleau's main shopping street."
+            "en": "Fontainebleau's main shopping street.",
+            "fr": "La rue commerçante principale de Fontainebleau."
           }
         }
       ],
@@ -2433,7 +2658,8 @@
         "de": "Vom Bahnhof Fontainebleau-Avon aus gelangen Sie bequem mit dem Bus direkt zum Schloss. Entdecken Sie die prunkvollen Säle und die weitläufigen Parkanlagen. Nach einem erholsamen Spaziergang im Schlosspark bietet das Stadtzentrum mit der Rue Grande ideale Möglichkeiten zum Bummeln und Shoppen, bevor Sie der Bus wieder zurück zum Bahnhof bringt.",
         "hu": "A Fontainebleau-Avon vasútállomástól busszal kényelmesen eljuthat közvetlenül a kastélyhoz. Fedezze fel a pompás termeket és a hatalmas parkokat. A kastélyparkban tett pihentető séta után a városközpont és a Rue Grande ideális lehetőséget kínál a sétára és vásárlásra, mielőtt a busz visszaviszi az állomásra.",
         "ro": "De la gara Fontainebleau-Avon, puteți ajunge convenabil cu autobuzul direct la castel. Descoperiți sălile somptuoase și parcurile vaste. După o plimbare relaxantă în parcul castelului, centrul orașului cu Rue Grande oferă oportunități ideale pentru plimbare și cumpărături, înainte ca autobuzul să vă ducă înapoi la gară.",
-        "en": "From Fontainebleau-Avon station, you can conveniently take the bus directly to the palace. Discover the grand halls and extensive parks. After a relaxing stroll in the palace park, the city center and Rue Grande offer ideal opportunities for strolling and shopping before the bus takes you back to the station."
+        "en": "From Fontainebleau-Avon station, you can conveniently take the bus directly to the palace. Discover the grand halls and extensive parks. After a relaxing stroll in the palace park, the city center and Rue Grande offer ideal opportunities for strolling and shopping before the bus takes you back to the station.",
+        "fr": "Depuis la gare de Fontainebleau-Avon, vous pouvez facilement prendre le bus directement pour le château. Découvrez les salles grandioses et les parcs étendus. Après une promenade relaxante dans le parc du château, le centre-ville et la rue Grande offrent des opportunités idéales pour flâner et faire du shopping avant que le bus ne vous ramène à la gare."
       },
       "gastro_picks": {
         "de": [
@@ -2474,6 +2700,16 @@
           {
             "name": "Patisserie Cassel",
             "tip": "Award-winning desserts."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Axotol",
+            "tip": "Bonne cuisine mexicaine au centre-ville."
+          },
+          {
+            "name": "Patisserie Cassel",
+            "tip": "Desserts primés."
           }
         ]
       },
@@ -2525,6 +2761,18 @@
             "tip": "Small, hidden garden.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Canal de Fontainebleau",
+            "tip": "Promenade calme loin de la foule.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardin de l'Orangerie",
+            "tip": "Petit jardin caché.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -2568,6 +2816,16 @@
             "name": "Cadr'Art",
             "tip": "Beautiful art prints and frames."
           }
+        ],
+        "fr": [
+          {
+            "name": "Monoprix Fontainebleau",
+            "tip": "Tout pour les besoins quotidiens."
+          },
+          {
+            "name": "Cadr'Art",
+            "tip": "Belles impressions d'art et cadres."
+          }
         ]
       },
       "tips": {
@@ -2594,6 +2852,12 @@
           "Bus line 1 runs every 15 minutes.",
           "It is about a 30-min walk from Avon station to the palace.",
           "On public holidays, bus service is limited."
+        ],
+        "fr": [
+          "Utilisez le pass 'Navigo' pour le bus.",
+          "La ligne de bus 1 passe toutes les 15 minutes.",
+          "Il y a environ 30 minutes de marche de la gare d'Avon au château.",
+          "Les jours fériés, le service de bus est limité."
         ]
       },
       "variants": {
@@ -2857,7 +3121,8 @@
             "de": "Die Reise beginnt am Bahnhof Avon, von wo aus Sie der Bus direkt zum Schlosseingang bringt.\nMittags verbringen Sie die meiste Zeit im Inneren des Palastes, perfekt geschützt vor dem Wetter.\nNachmittags nutzen Sie die Busverbindung zurück in die Innenstadt für einen gemütlichen Einkaufsbummel.\nAbends kehren Sie mit der Bahn zurück, nachdem Sie den Tag trocken in den Passagen verbracht haben.",
             "hu": "Az utazás az Avon állomáson kezdődik, ahonnan a busz közvetlenül a kastélyhoz viszi.\nDélben töltse az időt a palota belsejében, tökéletes védelmet kapva az időjárás ellen.\nDélután használja a buszjáratokat a belvárosba egy kényelmes, fedett vásárláshoz.\nEste vonattal térjen haza, miután a napot száraz helyeken töltötte.",
             "ro": "Călătoria începe la gara Avon, de unde autobuzul vă duce direct la intrarea castelului.\nLa prânz, petreceți timpul în interiorul palatului, fiind protejat de ploaie.\nDupă-amiaza, folosiți autobuzul pentru a reveni în centrul orașului pentru cumpărături.\nSeara, întoarceți-vă cu trenul după o zi petrecută la adăpost în locuri ferite de ploaie.",
-            "en": "The journey starts at Avon station, where the bus takes you directly to the palace entrance.\nAt midday, spend your time inside the palace, perfectly shielded from the weather.\nIn the afternoon, use the bus connections to return to the city center for some indoor shopping.\nIn the evening, head back by train after a day spent in dry and sheltered locations."
+            "en": "The journey starts at Avon station, where the bus takes you directly to the palace entrance.\nAt midday, spend your time inside the palace, perfectly shielded from the weather.\nIn the afternoon, use the bus connections to return to the city center for some indoor shopping.\nIn the evening, head back by train after a day spent in dry and sheltered locations.",
+            "fr": "Le voyage commence à la gare d'Avon, d'où le bus vous emmène directement à l'entrée du château.\nÀ la mi-journée, passez votre temps à l'intérieur du château, parfaitement protégé des intempéries.\nL'après-midi, utilisez les liaisons par bus pour retourner au centre-ville pour faire du shopping à l'abri.\nLe soir, reprenez le train après une journée passée dans des lieux secs et abrités."
           },
           "stops": [
             {
@@ -2866,7 +3131,8 @@
                 "de": "Warten Sie im Bahnhofsgebäude auf den Bus.",
                 "hu": "Várja a buszt az állomásépületben.",
                 "ro": "Așteptați autobuzul în clădirea gării.",
-                "en": "Wait for the bus inside the station building."
+                "en": "Wait for the bus inside the station building.",
+                "fr": "Attendez le bus à l'intérieur du bâtiment de la gare."
               }
             },
             {
@@ -2875,7 +3141,8 @@
                 "de": "Bus Linie 1 hält direkt vor dem Schloss.",
                 "hu": "Az 1-es busz közvetlenül a kastély előtt áll meg.",
                 "ro": "Autobuzul linia 1 oprește chiar în fața castelului.",
-                "en": "Bus Line 1 stops right in front of the palace."
+                "en": "Bus Line 1 stops right in front of the palace.",
+                "fr": "La ligne de bus 1 s'arrête juste devant le château."
               }
             },
             {
@@ -2884,7 +3151,8 @@
                 "de": "Kurzer Weg zu den überdachten Bereichen.",
                 "hu": "Rövid séta a fedett részekig.",
                 "ro": "Drum scurt până la zonele acoperite.",
-                "en": "Short walk to the sheltered areas."
+                "en": "Short walk to the sheltered areas.",
+                "fr": "Courte marche vers les zones abritées."
               }
             },
             {
@@ -2893,7 +3161,8 @@
                 "de": "Bei starkem Regen besser im Schloss bleiben.",
                 "hu": "Heves esőben érdemesebb a kastélyban maradni.",
                 "ro": "Pe ploaie torențială, mai bine rămâneți în castel.",
-                "en": "Better to stay inside the palace during heavy rain."
+                "en": "Better to stay inside the palace during heavy rain.",
+                "fr": "Mieux vaut rester à l'intérieur du château lors de fortes pluies."
               }
             },
             {
@@ -2902,7 +3171,8 @@
                 "de": "Nur bei Regenpausen besuchen.",
                 "hu": "Csak az esőszünetekben látogassa.",
                 "ro": "Vizitați doar în timpul pauzelor de ploaie.",
-                "en": "Visit only during breaks in the rain."
+                "en": "Visit only during breaks in the rain.",
+                "fr": "Visitez uniquement pendant les accalmies."
               }
             },
             {
@@ -2911,7 +3181,8 @@
                 "de": "Viele Geschäfte bieten Schutz beim Bummeln.",
                 "hu": "Sok üzlet kínál menedéket nézelődés közben.",
                 "ro": "Multe magazine oferă adăpost în timp ce vă plimbați.",
-                "en": "Many shops provide shelter while browsing."
+                "en": "Many shops provide shelter while browsing.",
+                "fr": "De nombreuses boutiques offrent un abri pendant la visite."
               }
             }
           ],
@@ -2943,6 +3214,13 @@
               "Have your ticket ready to avoid standing in the rain while boarding.",
               "Bus stops often have small shelters; always bring an umbrella.",
               "Plan your return to the station early, as buses can be more crowded when it rains."
+            ],
+            "fr": [
+              "Utilisez l'application 'Vianavigo' pour les mises à jour en temps réel des bus par temps de pluie.",
+              "Les bus circulent toutes les 15-20 minutes entre la gare et le château.",
+              "Ayez votre ticket prêt pour éviter de rester sous la pluie en montant à bord.",
+              "Les arrêts de bus disposent souvent de petits abris ; apportez toujours un parapluie.",
+              "Prévoyez votre retour à la gare tôt, car les bus peuvent être plus bondés quand il pleut."
             ]
           }
         },
@@ -2951,7 +3229,8 @@
             "de": "Beginnen Sie Ihren Wintertag mit der Ankunft am Bahnhof Avon, wo der Bus auf Sie wartet.\nMittags genießen Sie die wohlige Wärme im Schloss, fernab der eisigen Winde im Park.\nNachmittags schlendern Sie durch die festlich beleuchteten Straßen der Stadt, bevor der Bus Sie zurückbringt.\nAbends nehmen Sie den Zug zurück, während die Lichter von Fontainebleau hinter Ihnen leuchten.",
             "hu": "Kezdje a téli napot az Avon állomáson, ahol a fűtött busz már várja.\nDélben élvezze a kastély kellemes melegét, távol a park jeges szelétől.\nDélután sétáljon végig a város ünnepi díszbe öltözött utcáin, mielőtt visszabuszolna.\nEste vonattal utazzon vissza, miközben Fontainebleau fényei ragyognak a távolban.",
             "ro": "Începeți ziua de iarnă cu sosirea la gara Avon, unde autobuzul vă așteaptă.\nLa prânz, bucurați-vă de căldura din interiorul castelului, departe de vântul înghețat din park.\nDupă-amiaza, plimbați-vă pe străzile festive ale orașului înainte ca autobuzul să vă preia.\nSeara, luați trenul spre casă, în timp ce luminile din Fontainebleau strălucesc în urmă.",
-            "en": "Start your winter day arriving at Avon station, where the bus is waiting for you.\nAt midday, enjoy the cozy warmth of the palace, away from the icy winds in the park.\nIn the afternoon, stroll through the festively lit streets of the city before catching your bus back.\nIn the evening, take the train back as the lights of Fontainebleau glow behind you."
+            "en": "Start your winter day arriving at Avon station, where the bus is waiting for you.\nAt midday, enjoy the cozy warmth of the palace, away from the icy winds in the park.\nIn the afternoon, stroll through the festively lit streets of the city before catching your bus back.\nIn the evening, take the train back as the lights of Fontainebleau glow behind you.",
+            "fr": "Commencez votre journée d'hiver en arrivant à la gare d'Avon, où le bus vous attend.\nÀ la mi-journée, profitez de la chaleur douillette du château, loin des vents glacés du parc.\nL'après-midi, flânez dans les rues illuminées de la ville avant de reprendre votre bus.\nLe soir, reprenez le train alors que les lumières de Fontainebleau brillent derrière vous."
           },
           "stops": [
             {
@@ -2960,7 +3239,8 @@
                 "de": "Das Bahnhofscafé bietet heiße Getränke zum Aufwärmen.",
                 "hu": "Az állomás kávézója forró italokat kínál a melegedéshez.",
                 "ro": "Cafeneaua din gară oferă băuturi calde pentru încălzire.",
-                "en": "The station cafe offers hot drinks to warm you up."
+                "en": "The station cafe offers hot drinks to warm you up.",
+                "fr": "Le café de la gare propose des boissons chaudes pour vous réchauffer."
               }
             },
             {
@@ -2969,7 +3249,8 @@
                 "de": "Der Schlossrundgang ist im Winter angenehm warm.",
                 "hu": "A kastélynézés télen kellemesen meleg program.",
                 "ro": "Vizita la castel este un program plăcut și cald iarna.",
-                "en": "The palace tour is a pleasantly warm activity in winter."
+                "en": "The palace tour is a pleasantly warm activity in winter.",
+                "fr": "La visite du château est une activité agréablement chauffée en hiver."
               }
             },
             {
@@ -2978,7 +3259,8 @@
                 "de": "Hier halten die Busse in beide Richtungen.",
                 "hu": "Itt állnak meg a buszok mindkét irányba.",
                 "ro": "Aici opresc autobuzele în ambele direcții.",
-                "en": "Buses in both directions stop here."
+                "en": "Buses in both directions stop here.",
+                "fr": "Les bus dans les deux sens s'arrêtent ici."
               }
             },
             {
@@ -2987,7 +3269,8 @@
                 "de": "Schöner Anblick bei Frost; halten Sie sich warm.",
                 "hu": "Szép látvány dér idején; öltözzön melegen.",
                 "ro": "Priveliște frumoasă pe ger; mențineți-vă căldura.",
-                "en": "Beautiful view in the frost; keep yourself warm."
+                "en": "Beautiful view in the frost; keep yourself warm.",
+                "fr": "Belle vue sous le givre ; restez bien au chaud."
               }
             },
             {
@@ -2996,7 +3279,8 @@
                 "de": "Vorsicht bei Glätte auf den freien Wegen.",
                 "hu": "Vigyázzon a csúszós szakaszokon a nyílt utakon.",
                 "ro": "Atenție la porțiunile alunecoase de pe alei.",
-                "en": "Watch out for slippery patches on the open paths."
+                "en": "Watch out for slippery patches on the open paths.",
+                "fr": "Attention aux plaques glissantes sur les sentiers ouverts."
               }
             },
             {
@@ -3005,7 +3289,8 @@
                 "de": "Weihnachtsbeleuchtung ab Ende November genießen.",
                 "hu": "November végétől élvezze a karácsonyi díszkivilágítást.",
                 "ro": "Bucurați-vă de luminile de Crăciun de la finele lui noiembrie.",
-                "en": "Enjoy the Christmas lights from late November onwards."
+                "en": "Enjoy the Christmas lights from late November onwards.",
+                "fr": "Profitez des illuminations de Noël à partir de fin novembre."
               }
             }
           ],
@@ -3037,6 +3322,13 @@
               "Buses are well-heated in winter; a pleasant break between sights.",
               "Keep an eye on the last bus schedule to the station (usually around 8:00 PM).",
               "Wear warm socks as waiting at bus stops can make your feet cold quickly."
+            ],
+            "fr": [
+              "Vérifiez la fréquence des trains le week-end car elle peut être réduite en hiver.",
+              "Utilisez les zones d'attente à la gare d'Avon pour éviter de rester dans le froid.",
+              "Les bus sont bien chauffés en hiver ; une pause agréable entre deux visites.",
+              "Gardez un œil sur l'horaire du dernier bus vers la gare (généralement vers 20h00).",
+              "Portez des chaussettes chaudes car l'attente aux arrêts de bus peut vite refroidir les pieds."
             ]
           }
         }

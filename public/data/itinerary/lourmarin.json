@@ -31,7 +31,8 @@
             "de": "Der Herzschlag des Dorfes, ideal für Fotos.",
             "hu": "A falu szíve, ideális fotózáshoz.",
             "ro": "Inima satului, ideală pentru fotografii.",
-            "en": "The heartbeat of the village, ideal for photos."
+            "en": "The heartbeat of the village, ideal for photos.",
+            "fr": "Le cœur battant du village, idéal pour les photos."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein schöner Glockenturm im Herzen der Gassen.",
             "hu": "Szép harangtorony a szűk utcák mélyén.",
             "ro": "Un turn cu ceas frumos în inima străduțelor.",
-            "en": "A beautiful bell tower in the heart of the alleys."
+            "en": "A beautiful bell tower in the heart of the alleys.",
+            "fr": "Un beau beffroi au cœur des ruelles."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Berühmter Brunnen, ein Symbol des Ortes.",
             "hu": "Híres szökőkút, a település szimbóluma.",
             "ro": "Fântână celebră, un simbol al localității.",
-            "en": "Famous fountain, a symbol of the village."
+            "en": "Famous fountain, a symbol of the village.",
+            "fr": "Fontaine célèbre, symbole du village."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Das erste Renaissance-Schloss der Provence.",
             "hu": "Provence első reneszánsz kastélya.",
             "ro": "Primul castel renascentist din Provence.",
-            "en": "The first Renaissance castle in Provence."
+            "en": "The first Renaissance castle in Provence.",
+            "fr": "Le premier château Renaissance de Provence."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Schlichte und elegante Architektur.",
             "hu": "Egyszerű és elegáns építészet.",
             "ro": "Arhitectură simplă și elegantă.",
-            "en": "Simple and elegant architecture."
+            "en": "Simple and elegant architecture.",
+            "fr": "Architecture simple et élégante."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Wunderschönes romanisches Portal.",
             "hu": "Csodálatos román stílusú kapuzat.",
             "ro": "Portal romanic superb.",
-            "en": "Beautiful Romanesque portal."
+            "en": "Beautiful Romanesque portal.",
+            "fr": "Beau portail roman."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Ein bescheidenes Grab für einen großen Geist.",
             "hu": "Mérsékelt sírhely egy nagy elme számára.",
             "ro": "Un mormânt modest pentru o minte luminată.",
-            "en": "A modest grave for a great mind."
+            "en": "A modest grave for a great mind.",
+            "fr": "Une tombe modeste pour un grand esprit."
           }
         },
         {
@@ -157,7 +164,8 @@
             "de": "Historische Brücke über die Aigue Brun.",
             "hu": "Történelmi híd az Aigue Brun felett.",
             "ro": "Pod istoric peste râul Aigue Brun.",
-            "en": "Historical bridge over the Aigue Brun."
+            "en": "Historical bridge over the Aigue Brun.",
+            "fr": "Pont historique sur l'Aigue Brun."
           }
         }
       ],
@@ -165,7 +173,8 @@
         "de": "Genießen Sie den Morgen auf der Place de l'Ormeau mit einem Kaffee. Schlendern Sie durch die Gassen zum Beffroi und zum Maskenbrunnen. Das prächtige Renaissanceschloss ist der Höhepunkt des Vormittags. Nach dem Mittagessen besuchen Sie den protestantischen Tempel und die romanische Kirche. Ein Spaziergang zum Friedhof führt Sie zum Grab von Camus, bevor der Tag an der römischen Brücke endet.",
         "hu": "Élvezze a reggelt a Place de l'Ormeau-n egy kávéval. Sétáljon a sikátorokon át a harangtoronyhoz és a maszkos kúthoz. A pazar reneszánsz kastély a délelőtt fénypontja. Ebéd után látogassa meg a protestáns templomot és a román stílusú templomot. Egy séta a temetőhöz elvezeti Camus sírjához, majd a nap a római hídnál zárul.",
         "ro": "Savurați dimineața în Place de l'Ormeau cu o cafea. Plimbați-vă pe străduțe spre turnul cu ceas și fântâna cu măști. Castelul renascentist superb este punctul culminant al dimineții. După prânz, vizitați templul protestant și biserica romanică. O plimbare spre cimitir vă duce la mormântul lui Camus, iar ziua se încheie la podul roman.",
-        "en": "Enjoy the morning at Place de l'Ormeau with a coffee. Stroll through the alleys to the bell tower and the masked fountain. The magnificent Renaissance castle is the highlight of the morning. After lunch, visit the Protestant temple and the Romanesque church. A walk to the cemetery leads you to Camus's grave before the day ends at the Roman bridge."
+        "en": "Enjoy the morning at Place de l'Ormeau with a coffee. Stroll through the alleys to the bell tower and the masked fountain. The magnificent Renaissance castle is the highlight of the morning. After lunch, visit the Protestant temple and the Romanesque church. A walk to the cemetery leads you to Camus's grave before the day ends at the Roman bridge.",
+        "fr": "Profitez de la matinée à la Place de l'Ormeau avec un café. Flânez dans les ruelles jusqu'au beffroi et à la fontaine aux masques. Le magnifique château Renaissance est le point fort de la matinée. Après le déjeuner, visitez le temple protestant et l'église romane. Une promenade au cimetière vous mène à la tombe d'Albert Camus avant que la journée ne se termine au pont romain."
       },
       "gastro_picks": {
         "de": [
@@ -206,6 +215,16 @@
           {
             "name": "Café Gaby",
             "tip": "Classic bistro experience."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Numéro 9",
+            "tip": "Menu raffiné au cœur du village."
+          },
+          {
+            "name": "Café Gaby",
+            "tip": "Expérience bistro classique."
           }
         ]
       },
@@ -257,6 +276,18 @@
             "tip": "Enjoy the sound of the water.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Cimetière de Lourmarin",
+            "tip": "Silence paisible et cyprès.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rives de l'Aigue Brun",
+            "tip": "Profitez du clapotis de l'eau.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -282,6 +313,12 @@
           {
             "name": "Friday Market",
             "tip": "One of the best markets in Provence."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Marché du Vendredi",
+            "tip": "L'un des meilleurs marchés de Provence."
           }
         ]
       },
@@ -309,6 +346,12 @@
           "The village is almost completely flat and easy to walk.",
           "Many art galleries are hidden in the alleys.",
           "In summer, evening concerts are held at the castle."
+        ],
+        "fr": [
+          "Arrivez très tôt le vendredi pour le marché.",
+          "Le village est presque entièrement plat et facile à parcourir à pied.",
+          "De nombreuses galeries d'art sont cachées dans les ruelles.",
+          "En été, des concerts du soir sont organisés au château."
         ]
       }
     },
@@ -335,7 +378,8 @@
             "de": "Schöner Radweg rund um das Schloss.",
             "hu": "Szép kerékpárút a kastély körül.",
             "ro": "Pistă de biciclete frumoasă în jurul castelului.",
-            "en": "Nice bike path around the castle."
+            "en": "Nice bike path around the castle.",
+            "fr": "Belle piste cyclable autour du château."
           }
         },
         {
@@ -353,7 +397,8 @@
             "de": "Ruhige Nebenstraße für Radfahrer.",
             "hu": "Csendes mellékút kerékpárosoknak.",
             "ro": "Drum secundar liniștit pentru bicicliști.",
-            "en": "Quiet side road for cyclists."
+            "en": "Quiet side road for cyclists.",
+            "fr": "Route secondaire tranquille pour les cyclistes."
           }
         },
         {
@@ -371,7 +416,8 @@
             "de": "Fahrt durch die Weinberge des Luberon.",
             "hu": "Tekerjen át a Luberon szőlőültetvényein.",
             "ro": "Drum prin podgoriile din Luberon.",
-            "en": "Ride through the Luberon vineyards."
+            "en": "Ride through the Luberon vineyards.",
+            "fr": "Roulez à travers les vignobles du Luberon."
           }
         },
         {
@@ -389,7 +435,8 @@
             "de": "Stellen Sie Ihr Rad sicher ab.",
             "hu": "Biztonságosan zárja le a kerékpárját.",
             "ro": "Parcați bicicleta în siguranță.",
-            "en": "Park your bike securely."
+            "en": "Park your bike securely.",
+            "fr": "Garez votre vélo en toute sécurité."
           }
         },
         {
@@ -407,7 +454,8 @@
             "de": "Einfache Fahrt bergab zum Friedhof.",
             "hu": "Könnyű lejtős út a temetőhöz.",
             "ro": "Drum ușor în pantă spre cimitir.",
-            "en": "Easy downhill ride to the cemetery."
+            "en": "Easy downhill ride to the cemetery.",
+            "fr": "Descente facile vers le cimetière."
           }
         }
       ],
@@ -415,7 +463,8 @@
         "de": "Erkunden Sie das Luberon-Tal auf dem Fahrrad. Nach dem Schloss führt die Route zur römischen Brücke und durch malerische Weinberge. Zum Mittagessen kehren Sie ins Dorfzentrum zurück. Die flachen Wege rund um Lourmarin sind ideal für entspanntes Radeln, bevor Sie den Tag am Friedhof abschließen.",
         "hu": "Fedezze fel a Luberon-völgyet kerékpáron. A kastély után az útvonal a római hídhoz és festői szőlőültetvényekhez vezet. Ebédre térjen vissza a falu központjába. A Lourmarin körüli sík utak ideálisak a pihentető tekeréshez, mielőtt a napot a temetőnél zárná.",
         "ro": "Explorați valea Luberon pe bicicletă. După castel, ruta duce la podul roman și prin podgorii pitorești. Pentru prânz, reveniți în centrul satului. Drumurile plate din jurul Lourmarin sunt ideale pentru pedalat relaxat, înainte de a încheia ziua la cimitir.",
-        "en": "Explore the Luberon valley by bike. After the castle, the route leads to the Roman bridge and through picturesque vineyards. For lunch, return to the village center. The flat paths around Lourmarin are ideal for relaxed cycling before ending the day at the cemetery."
+        "en": "Explore the Luberon valley by bike. After the castle, the route leads to the Roman bridge and through picturesque vineyards. For lunch, return to the village center. The flat paths around Lourmarin are ideal for relaxed cycling before ending the day at the cemetery.",
+        "fr": "Explorez la vallée du Luberon à vélo. Après le château, l'itinéraire mène au pont romain et traverse des vignobles pittoresques. Pour le déjeuner, retournez au centre du village. Les sentiers plats autour de Lourmarin sont idéaux pour une balade détendue avant de terminer la journée au cimetière."
       },
       "gastro_picks": {
         "de": [
@@ -440,6 +489,12 @@
           {
             "name": "Picnic in the Vines",
             "tip": "Local cheese and wine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Pique-nique dans les vignes",
+            "tip": "Fromage local et vin."
           }
         ]
       },
@@ -471,6 +526,13 @@
             "tip": "Shady break spots.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Oliveraies",
+            "tip": "Lieux de pause ombragés.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -496,6 +558,12 @@
           {
             "name": "Domaine de la Citadelle",
             "tip": "Wine sales direct from the producer."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Domaine de la Citadelle",
+            "tip": "Vente de vin direct producteur."
           }
         ]
       },
@@ -523,6 +591,12 @@
           "Wear a helmet, even on side roads.",
           "The paths are very dusty in summer.",
           "Watch out for tractors during the harvest."
+        ],
+        "fr": [
+          "Louez un vélo électrique pour de plus longues excursions dans les environs.",
+          "Portez un casque, même sur les routes secondaires.",
+          "Les chemins sont très poussiéreux en été.",
+          "Attention aux tracteurs pendant les vendanges."
         ]
       }
     },
@@ -549,7 +623,8 @@
             "de": "Großer Besucherparkplatz vorhanden.",
             "hu": "Nagy látogatói parkoló áll rendelkezésre.",
             "ro": "Parcare mare pentru vizitatori disponibilă.",
-            "en": "Large visitor parking available."
+            "en": "Large visitor parking available.",
+            "fr": "Grand parking visiteur disponible."
           }
         },
         {
@@ -567,7 +642,8 @@
             "de": "Blick auf Lourmarin von der gegenüberliegenden Seite.",
             "hu": "Kilátás Lourmarinra a túloldalról.",
             "ro": "Vedere spre Lourmarin de pe partea opusă.",
-            "en": "View of Lourmarin from the opposite side."
+            "en": "View of Lourmarin from the opposite side.",
+            "fr": "Vue sur Lourmarin depuis le versant opposé."
           }
         },
         {
@@ -585,7 +661,8 @@
             "de": "Parken Sie am Dorfeingang.",
             "hu": "Parkoljon a falu bejáratánál.",
             "ro": "Parcați la intrarea în sat.",
-            "en": "Park at the village entrance."
+            "en": "Park at the village entrance.",
+            "fr": "Garez-vous à l'entrée du village."
           }
         },
         {
@@ -603,7 +680,8 @@
             "de": "Haltemöglichkeit direkt an der Brücke.",
             "hu": "Megállási lehetőség közvetlenül a hídnál.",
             "ro": "Posibilitate de oprire chiar la pod.",
-            "en": "Stopping possibility right at the bridge."
+            "en": "Stopping possibility right at the bridge.",
+            "fr": "Possibilité de s'arrêter juste au pont."
           }
         },
         {
@@ -621,7 +699,8 @@
             "de": "Besuch eines weiteren 'schönsten Dorfes'.",
             "hu": "Látogasson el egy másik 'legszebb faluba'.",
             "ro": "Vizitați un alt 'cel mai frumos sat'.",
-            "en": "Visit another 'most beautiful village'."
+            "en": "Visit another 'most beautiful village'.",
+            "fr": "Visitez un autre « plus beau village »."
           }
         }
       ],
@@ -629,7 +708,8 @@
         "de": "Das Auto erlaubt Ihnen, die Schönheit des Luberon weiträumig zu erkunden. Nach dem Schloss von Lourmarin fahren Sie nach Bonnieux für ein tolles Panorama. Das Mittagessen genießen Sie wieder in Lourmarin. Am Nachmittag besuchen Sie die römische Brücke und das charmante Nachbardorf Ansouis.",
         "hu": "Az autó lehetővé teszi a Luberon szépségeinek szélesebb körű felfedezését. A lourmarini kastély után utazzon Bonnieux-be a remek panorámáért. Az ebédet ismét Lourmarinban fogyassza el. Délután látogassa meg a római hidat és a bájos szomszédos falut, Ansouis-t.",
         "ro": "Mașina vă permite să explorați frumusețea Luberonului pe scară largă. După castelul din Lourmarin, mergeți la Bonnieux pentru o panoramă grozavă. Savurați prânzul din nou în Lourmarin. După-amiaza, vizitați podul roman și satul vecin fermecător Ansouis.",
-        "en": "The car allows you to explore the beauty of the Luberon widely. After the castle in Lourmarin, drive to Bonnieux for a great panorama. Enjoy lunch back in Lourmarin. In the afternoon, visit the Roman bridge and the charming neighboring village of Ansouis."
+        "en": "The car allows you to explore the beauty of the Luberon widely. After the castle in Lourmarin, drive to Bonnieux for a great panorama. Enjoy lunch back in Lourmarin. In the afternoon, visit the Roman bridge and the charming neighboring village of Ansouis.",
+        "fr": "La voiture vous permet d'explorer largement la beauté du Luberon. Après le château de Lourmarin, conduisez jusqu'à Bonnieux pour un superbe panorama. Déjeunez de retour à Lourmarin. L'après-midi, visitez le pont romain et le charmant village voisin d'Ansouis."
       },
       "gastro_picks": {
         "de": [
@@ -654,6 +734,12 @@
           {
             "name": "L'Auberge de la Fenière",
             "tip": "Starred cuisine nearby."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Auberge de la Fenière",
+            "tip": "Cuisine étoilée à proximité."
           }
         ]
       },
@@ -685,6 +771,13 @@
             "tip": "Giant cedars and silence.",
             "emoji": "🌲"
           }
+        ],
+        "fr": [
+          {
+            "name": "Forêt des Cèdres",
+            "tip": "Cèdres géants et silence.",
+            "emoji": "🌲"
+          }
         ]
       },
       "shopping_picks": {
@@ -710,6 +803,12 @@
           {
             "name": "Huilerie Bastide du Laval",
             "tip": "Best olive oil in the region."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Huilerie Bastide du Laval",
+            "tip": "La meilleure huile d'olive de la région."
           }
         ]
       },
@@ -737,6 +836,12 @@
           "Park in the large 'Parking des Cerisiers' lot.",
           "The drive through the Combe de Lourmarin is spectacular.",
           "Avoid the village center by car."
+        ],
+        "fr": [
+          "Les routes sont étroites ; conduisez prudemment.",
+          "Garez-vous dans le grand parking des Cerisiers.",
+          "La traversée de la Combe de Lourmarin est spectaculaire.",
+          "Évitez le centre du village en voiture."
         ]
       }
     },
@@ -763,7 +868,8 @@
             "de": "Zentraler Halt für Busse aus Aix-en-Provence.",
             "hu": "Központi megálló az Aix-en-Provence-ból érkező buszoknak.",
             "ro": "Stație centrală pentru autobuzele din Aix-en-Provence.",
-            "en": "Central stop for buses from Aix-en-Provence."
+            "en": "Central stop for buses from Aix-en-Provence.",
+            "fr": "Arrêt central pour les bus venant d'Aix-en-Provence."
           }
         },
         {
@@ -781,7 +887,8 @@
             "de": "Kurzer Fußweg von der Haltestelle.",
             "hu": "Rövid séta a megállótól.",
             "ro": "Scurtă plimbare de la stație.",
-            "en": "Short walk from the stop."
+            "en": "Short walk from the stop.",
+            "fr": "Courte marche depuis l'arrêt."
           }
         },
         {
@@ -799,7 +906,8 @@
             "de": "Zentrum des dörflichen Lebens.",
             "hu": "A falusi élet központja.",
             "ro": "Centrul vieții satului.",
-            "en": "Center of village life."
+            "en": "Center of village life.",
+            "fr": "Centre de la vie du village."
           }
         },
         {
@@ -817,7 +925,8 @@
             "de": "Der Friedhof liegt am Ortsrand.",
             "hu": "A temető a falu szélén található.",
             "ro": "Cimitirul se află la marginea satului.",
-            "en": "The cemetery is located on the outskirts."
+            "en": "The cemetery is located on the outskirts.",
+            "fr": "Le cimetière est situé à la périphérie."
           }
         },
         {
@@ -835,7 +944,8 @@
             "de": "Oft für kulturelle Events genutzt.",
             "hu": "Gyakran használt kulturális eseményekre.",
             "ro": "Deseori folosit pentru evenimente culturale.",
-            "en": "Often used for cultural events."
+            "en": "Often used for cultural events.",
+            "fr": "Souvent utilisé pour des événements culturels."
           }
         }
       ],
@@ -843,7 +953,8 @@
         "de": "Reisen Sie mit dem Bus aus Aix oder Pertuis an. Vom zentralen Halt erreichen Sie das Schloss in wenigen Minuten. Erkunden Sie das historische Zentrum und den Marktplatz zu Fuß. Nach einer Pause besuchen Sie das Grab von Camus und den protestantischen Tempel, bevor Sie den Bus zur Rückreise nehmen.",
         "hu": "Érkezzen busszal Aix-ből vagy Pertuis-ből. A központi megállótól pár perc alatt elérheti a kastélyt. Gyalog fedezze fel a történelmi központot és a piacteret. Egy pihenő után látogassa meg Camus sírját és a protestáns templomot, mielőtt buszra szállna a visszaúthoz.",
         "ro": "Călătoriți cu autobuzul din Aix sau Pertuis. De la stația centrală ajungeți la castel în câteva minute. Explorați centrul istoric și piața pe jos. După o pauză, vizitați mormântul lui Camus și templul protestant, înainte de a lua autobuzul pentru întoarcere.",
-        "en": "Travel by bus from Aix or Pertuis. From the central stop, you can reach the castle in a few minutes. Explore the historic center and the marketplace on foot. After a break, visit Camus's grave and the Protestant temple before taking the bus back."
+        "en": "Travel by bus from Aix or Pertuis. From the central stop, you can reach the castle in a few minutes. Explore the historic center and the marketplace on foot. After a break, visit Camus's grave and the Protestant temple before taking the bus back.",
+        "fr": "Voyagez en bus depuis Aix ou Pertuis. De l'arrêt central, vous pouvez rejoindre le château en quelques minutes. Explorez le centre historique et la place du marché à pied. Après une pause, visitez la tombe de Camus et le temple protestant avant de reprendre le bus."
       },
       "gastro_picks": {
         "de": [
@@ -868,6 +979,12 @@
           {
             "name": "Boulangerie du Village",
             "tip": "Sandwiches for the go."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Sandwichs pour la route."
           }
         ]
       },
@@ -899,6 +1016,13 @@
             "tip": "Find shade and peace.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Petites ruelles",
+            "tip": "Trouvez de l'ombre et du calme.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -924,6 +1048,12 @@
           {
             "name": "Souvenir du Luberon",
             "tip": "Lavender sachets and soaps."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Souvenir du Luberon",
+            "tip": "Sachets de lavande et savons."
           }
         ]
       },
@@ -951,6 +1081,12 @@
           "Fewer buses run on weekends.",
           "Tickets can be bought from the driver.",
           "Lourmarin is an ideal transit hub in the Luberon."
+        ],
+        "fr": [
+          "Consultez les horaires de la ligne 908 (Zou!).",
+          "Moins de bus circulent le week-end.",
+          "Les billets peuvent être achetés auprès du chauffeur.",
+          "Lourmarin est un carrefour de transit idéal dans le Luberon."
         ]
       }
     }

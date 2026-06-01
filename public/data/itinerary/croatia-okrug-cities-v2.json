@@ -31,7 +31,8 @@
             "de": "Genießen Sie die Ruhe am Morgen im historischen Kern.",
             "hu": "Élvezze a reggeli csendet a történelmi faluközpontban.",
             "ro": "Bucurați-vă de liniștea dimineții în centrul istoric.",
-            "en": "Enjoy the morning quiet in the historic village center."
+            "en": "Enjoy the morning quiet in the historic village center.",
+            "hr": "Uživajte u jutarnjem miru u povijesnoj jezgri sela."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besichtigen Sie diese barocke Kirche aus dem 18. Jahrhundert.",
             "hu": "Tekintse meg ezt a 18. századi barokk templomot.",
             "ro": "Vizitați această biserică barocă din secolul al XVIII-lea.",
-            "en": "Visit this 18th-century Baroque church."
+            "en": "Visit this 18th-century Baroque church.",
+            "hr": "Posjetite ovu baroknu crkvu iz 18. stoljeća."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Eine charmante kleine Kirche in Küstennähe.",
             "hu": "Egy bájos kis templom a tengerpart közelében.",
             "ro": "O biserică mică și fermecătoare lângă coastă.",
-            "en": "A charming small church near the coast."
+            "en": "A charming small church near the coast.",
+            "hr": "Šarmantna mala crkva blizu obale."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie frischen Fisch oder gegrilltes Fleisch.",
             "hu": "Kóstolja meg a friss halat vagy a grillezett húsokat.",
             "ro": "Încercați peștele proaspăt sau carnea la grătar.",
-            "en": "Try the fresh fish or grilled meats."
+            "en": "Try the fresh fish or grilled meats.",
+            "hr": "Probajte svježu ribu ili meso s roštilja."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Der lebhafteste Strand der Insel mit vielen Bars.",
             "hu": "A sziget legélénkebb strandja számos bárral.",
             "ro": "Cea mai animată plajă de pe insulă, cu multe baruri.",
-            "en": "The liveliest beach on the island with many bars."
+            "en": "The liveliest beach on the island with many bars.",
+            "hr": "Najživlja plaža na otoku s brojnim barovima."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein schöner Uferspaziergang bei sanfter Meeresbrise.",
             "hu": "Kellemes tengerparti séta lágy szellőben.",
             "ro": "O plimbare frumoasă pe malul mării în briza ușoară.",
-            "en": "A beautiful waterfront stroll in the gentle breeze."
+            "en": "A beautiful waterfront stroll in the gentle breeze.",
+            "hr": "Lijepa šetnja uz more na laganom povjetarcu."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Genießen Sie den Sonnenuntergang in dieser ruhigen Bucht.",
             "hu": "Élvezze a naplementét ebben a csendes öbölben.",
             "ro": "Bucurați-vă de apusul soarelui în acest golf liniștit.",
-            "en": "Enjoy the sunset in this peaceful bay."
+            "en": "Enjoy the sunset in this peaceful bay.",
+            "hr": "Uživajte u zalasku sunca u ovoj mirnoj uvali."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Verbringen Sie einen perfekten Tag in Okrug Gornji. Beginnen Sie im ruhigen alten Dorf bei den historischen Kirchen sv. Karlo Boromejski und sv. Teodor. Nach einem ausgiebigen dalmatinischen Mittagessen in einer lokalen Konoba können Sie den Nachmittag am beliebten Copacabana-Strand genießen. Den Abschluss bildet ein stimmungsvoller Spaziergang zur Uvala Duboka für einen spektakulären Sonnenuntergang.",
         "hu": "Töltsön el egy tökéletes napot Okrug Gornjiban. Kezdje a reggelt a csendes ófaluban, látogassa meg a sv. Karlo Boromejski és sv. Teodor templomokat. Egy kiadós dalmát ebéd után egy helyi konobában, élvezze a délutánt a népszerű Copacabana strandon. A napot egy hangulatos séta zárja az Uvala Duboka felé, ahol megcsodálhatja a látványos naplementét.",
         "ro": "Petreceți o zi perfectă în Okrug Gornji. Începeți dimineața în satul vechi liniștit, vizitând bisericile istorice sv. Karlo Boromejski și sv. Teodor. După un prânz dalmațian copios într-o konoba locală, bucurați-vă de după-amiază pe populara plajă Copacabana. Ziua se încheie cu o plimbare atmosferică spre Uvala Duboka pentru un apus de soare spectaculos.",
-        "en": "Spend a perfect day in Okrug Gornji. Start your morning in the quiet old village, visiting the historic churches of sv. Karlo Boromejski and sv. Teodor. After a hearty Dalmatian lunch at a local konoba, enjoy the afternoon at the popular Copacabana beach. The day concludes with an atmospheric walk to Uvala Duboka for a spectacular sunset."
+        "en": "Spend a perfect day in Okrug Gornji. Start your morning in the quiet old village, visiting the historic churches of sv. Karlo Boromejski and sv. Teodor. After a hearty Dalmatian lunch at a local konoba, enjoy the afternoon at the popular Copacabana beach. The day concludes with an atmospheric walk to Uvala Duboka for a spectacular sunset.",
+        "hr": "Provedite savršen dan u Okrugu Gornjem. Započnite jutro u mirnoj staroj jezgri sela, posjećujući povijesne crkve sv. Karla Boromejskog i sv. Teodora. Nakon krepkog dalmatinskog ručka u lokalnoj konobi, uživajte u popodnevu na popularnoj plaži Copacabana. Dan završava atmosferskom šetnjom do uvale Duboka uz spektakularan zalazak sunca."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Konoba Samut",
             "tip": "Authentic Dalmatian cuisine in a cozy atmosphere."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Crni rižoto",
+            "tip": "Obalni klasik pripremljen s crnilom lignje i sipe."
+          },
+          {
+            "name": "Konoba Samut",
+            "tip": "Autentična dalmatinska kuhinja u ugodnom ambijentu."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "Authentic flair away from the bars.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Uvala Duboka",
+            "tip": "Mirno utočište na južnoj strani.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stara jezgra sela",
+            "tip": "Autentični štih daleko od barova.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -281,6 +311,16 @@
             "name": "Olive Oil",
             "tip": "Directly from the local farmers."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni med",
+            "tip": "Proizveden od bilja s otoka Čiova."
+          },
+          {
+            "name": "Maslinovo ulje",
+            "tip": "Izravno od lokalnih poljoprivrednika."
+          }
         ]
       },
       "tips": {
@@ -307,6 +347,12 @@
           "Parking spots near Copacabana fill up quickly in summer.",
           "Walk to the south coast for the sunset.",
           "There are water taxis connecting Okrug to Trogir."
+        ],
+        "hr": [
+          "Ponesite obuću za vodu za šljunčanu plažu.",
+          "Parkirna mjesta blizu Copacabane ljeti se brzo popune.",
+          "Prošećite do južne obale za zalazak sunca.",
+          "Postoje brodski taksiji koji povezuju Okrug s Trogirom."
         ]
       },
       "variants": {
@@ -315,7 +361,8 @@
             "de": "Beginnen Sie den Tag gemütlich im alten Dorf bei einem starken Kaffee, während der Regen gegen die Fenster prasselt. Die nahen Kirchen bieten perfekten Schutz und Ruhe für eine besinnliche Besichtigung.\n\nMittags ziehen Sie sich in eine warme Konoba zurück. Genießen Sie lokale Spezialitäten, während draußen der Schauer vorbeizieht. Die Steinwände sorgen für eine wohlige Atmosphäre.\n\nDer Nachmittag am Copacabana-Strand ist windig, aber die salzige Luft unter dem Regenschirm ist erfrischend. Ein kurzer Spaziergang an der Riva zeigt das raue, authentische Gesicht der Adria.\n\nZum Abschluss bietet die Uvala Duboka ein dramatisches Schauspiel aus Wolken und Wellen. Der Rückweg durch die nassen Gassen des Dorfes leuchtet im Schein der Straßenlaternen besonders schön.",
             "hu": "Kezdje a napot az ófalu egyik fedett kávézójában, figyelve az esőcseppeket a macskaköveken. A közeli templomok vastag falai között szárazon és nyugodtan merülhet el a történelemben.\n\nEbédidőben keressen egy kandallós konobát. A helyi ételek illata és a barátságos belső tér feledteti a kinti szürkeséget. Ideális időpont egy hosszú, ráérős étkezéshez.\n\nDélután az esernyő alatt tett séta a Copacabana strandon különleges élmény: a tenger ilyenkor haragos és fenséges. A kikötőben a ringatózó hajók látványa esőben is megnyugtató.\n\nAz estét a Duboka-öbölnél zárja, ahol a felhők közül néha áttörő fények drámai panorámát nyújtanak. A vizes aszfalton tükröződő fények kísérik vissza a szálláshelyre.",
             "ro": "Începeți ziua în satul vechi cu o cafea fierbinte, la adăpost de ploaie. Bisericile locale sunt refugii perfecte pentru a admira arhitectura sacră fără a vă uda.\n\nLa prânz, alegeți o konoba tradițională cu interior primitor. Aroma preparatelor locale și ambianța caldă vă vor face să uitați de vremea de afară. Este momentul ideal pentru relaxare.\n\nDupă-amiaza pe plaja Copacabana oferă un peisaj dramatic sub umbrelă. Briza sărată și sunetul ploii pe mare creează o atmosferă melancolică, dar revigorantă în port.\n\nSeara se încheie la Golful Duboka, unde spectacolul norilor peste mare este fascinant. Drumul de întoarcere prin străzile umede reflectă luminile orașului, oferind un cadru fotografic unic.",
-            "en": "Start your day in the old village with a warm coffee while watching the rain on the cobblestones. The nearby churches provide excellent shelter and a peaceful atmosphere for sightseeing.\n\nAt lunchtime, retreat to a cozy konoba. The scent of local dishes and the sturdy stone walls offer a perfect refuge from the downpour outside. Take your time with a long meal.\n\nAn afternoon walk at Copacabana beach with an umbrella is surprisingly refreshing. The sea looks powerful under grey skies, and the harbor remains charming despite the weather.\n\nFinish the day at Duboka Bay, where the clouds create a dramatic backdrop over the Adriatic. The wet streets of Okrug glisten under the evening lights as you head back."
+            "en": "Start your day in the old village with a warm coffee while watching the rain on the cobblestones. The nearby churches provide excellent shelter and a peaceful atmosphere for sightseeing.\n\nAt lunchtime, retreat to a cozy konoba. The scent of local dishes and the sturdy stone walls offer a perfect refuge from the downpour outside. Take your time with a long meal.\n\nAn afternoon walk at Copacabana beach with an umbrella is surprisingly refreshing. The sea looks powerful under grey skies, and the harbor remains charming despite the weather.\n\nFinish the day at Duboka Bay, where the clouds create a dramatic backdrop over the Adriatic. The wet streets of Okrug glisten under the evening lights as you head back.",
+            "hr": "Započnite dan u starom selu uz toplu kavu dok gledate kišu na kamenim ulicama. Obližnje crkve pružaju izvrsno sklonište i mirnu atmosferu za razgledavanje.\n\nU vrijeme ručka povucite se u ugodnu konobu. Miris domaćih jela i čvrsti kameni zidovi nude savršeno utočište od pljuska vani. Uzmite si vremena za dugi obrok.\n\nPopodnevna šetnja plažom Copacabana s kišobranom iznenađujuće je osvježavajuća. More pod sivim nebom izgleda moćno, a luka ostaje šarmantna unatoč vremenu.\n\nZavršite dan u uvali Duboka, gdje oblaci stvaraju dramatičnu kulisu nad Jadranom. Mokre ulice Okruga ljeskaju se pod večernjim svjetlima dok se vraćate."
           },
           "stops": [
             {
@@ -324,7 +371,8 @@
                 "de": "Suchen Sie sich einen Platz am Fenster, um den Regen zu beobachten.",
                 "hu": "Válasszon ablak melletti asztalt a hangulatos esőnézéshez.",
                 "ro": "Alegeți o masă la fereastră pentru a vedea ploaia pe străduțe.",
-                "en": "Pick a window seat to enjoy the rainy village atmosphere."
+                "en": "Pick a window seat to enjoy the rainy village atmosphere.",
+                "hr": "Odaberite mjesto uz prozor kako biste uživali u kišnom ambijentu sela."
               }
             },
             {
@@ -333,7 +381,8 @@
                 "de": "Ein trockener Ort mit beeindruckender Barockakustik.",
                 "hu": "Száraz menedék lenyűgöző barokk belsővel és akusztikával.",
                 "ro": "Un refugiu uscat cu o acustică barocă impresionantă.",
-                "en": "A dry sanctuary with impressive baroque acoustics."
+                "en": "A dry sanctuary with impressive baroque acoustics.",
+                "hr": "Suho utočište s impresivnom baroknom akustikom."
               }
             },
             {
@@ -342,7 +391,8 @@
                 "de": "Achten Sie auf die rutschigen Steinstufen vor dem Eingang.",
                 "hu": "Vigyázzon a bejárat előtti csúszós kőlépcsőkre.",
                 "ro": "Atenție la treptele de piatră alunecoase de la intrare.",
-                "en": "Be careful with the slippery stone steps at the entrance."
+                "en": "Be careful with the slippery stone steps at the entrance.",
+                "hr": "Budite oprezni s klizavim kamenim stepenicama na ulazu."
               }
             },
             {
@@ -351,7 +401,8 @@
                 "de": "Fragen Sie nach einem Tisch nahe dem Kamin oder Grill.",
                 "hu": "Kérjen asztalt a kandalló vagy a grill közelében.",
                 "ro": "Cereți o masă lângă șemineu sau grătarul interior.",
-                "en": "Ask for a table near the fireplace or indoor grill."
+                "en": "Ask for a table near the fireplace or indoor grill.",
+                "hr": "Tražite stol blizu kamina ili unutarnjeg roštilja."
               }
             },
             {
@@ -360,7 +411,8 @@
                 "de": "Ein stabiler Regenschirm ist bei Meeresbrise unerlässlich.",
                 "hu": "A tengeri szélben egy erős esernyő elengedhetetlen.",
                 "ro": "O umbrelă rezistentă este esențială din cauza brizelor.",
-                "en": "A sturdy umbrella is essential due to the sea breeze."
+                "en": "A sturdy umbrella is essential due to the sea breeze.",
+                "hr": "Čvrst kišobran je neophodan zbog morskog povjetarca."
               }
             },
             {
@@ -369,7 +421,8 @@
                 "de": "Die Cafés an der Riva haben meist beheizte Außenbereiche.",
                 "hu": "A parti kávézók többsége fűtött terasszal várja.",
                 "ro": "Cafenelele de pe rivă au de obicei terase încălzite.",
-                "en": "Most cafes on the Riva have heated outdoor sections."
+                "en": "Most cafes on the Riva have heated outdoor sections.",
+                "hr": "Većina kafića na rivi ima grijane vanjske dijelove."
               }
             },
             {
@@ -378,7 +431,8 @@
                 "de": "Die Felsen sind bei Nässe sehr glatt, bleiben Sie auf dem Weg.",
                 "hu": "A sziklák nedvesen nagyon csúsznak, maradjon az úton.",
                 "ro": "Stâncile sunt alunecoase; rămâneți pe poteca principală.",
-                "en": "Rocks are very slippery when wet; stay on the paved path."
+                "en": "Rocks are very slippery when wet; stay on the paved path.",
+                "hr": "Stijene su vrlo klizave kad su mokre; ostanite na asfaltiranoj stazi."
               }
             }
           ],
@@ -410,6 +464,13 @@
               "Konobas in the old village are often cozier than open beach bars in the rain.",
               "A wind-resistant travel umbrella is more practical than a large, bulky one.",
               "Keep your electronics in a waterproof sleeve or bag during the walk."
+            ],
+            "hr": [
+              "Nosite obuću s dobrim prianjanjem jer vapnenac postaje izuzetno klizav kad je mokar.",
+              "Koristite posjete crkvama kao prirodna skloništa od kiše u svom itineraru.",
+              "Konobe u starom selu često su ugodnije od otvorenih barova na plaži po kiši.",
+              "Putni kišobran otporan na vjetar praktičniji je od velikog i glomaznog.",
+              "Držite elektroniku u vodootpornoj futroli ili torbi tijekom šetnje."
             ]
           }
         },
@@ -418,7 +479,8 @@
             "de": "Genießen Sie die klare Wintermorgenluft im fast menschenleeren alten Dorf. Der Kaffee schmeckt in der ruhigen Nebensaison besonders authentisch, während die Sonne tief über der Adria steht.\n\nDie Kirchenbesuche bieten einen Moment der Stille ohne die sommerlichen Touristenmassen. Das milde dalmatinische Winterlicht setzt die Architektur perfekt in Szene.\n\nEin ausgiebiges Mittagessen in einer beheizten Konoba wärmt auf. Danach führt der Weg zum Copacabana-Strand, der im Winter eine fast meditative Ruhe ausstrahlt.\n\nBeenden Sie den Tag früh in der Uvala Duboka, da die Sonne bereits gegen 16:30 Uhr untergeht. Der goldene Himmel über dem kühlen Meer ist ein unvergesslicher Anblick, bevor Sie ins warme Dorf zurückkehren.",
             "hu": "Élvezze a friss téli reggelt a szinte néptelen ófaluban. A kávé íze az autentikus csendben még intenzívebb, miközben a nap alacsonyan jár az Adriai-tenger felett.\n\nA templomok ilyenkor a nyugalom szigetei, tömeg nélkül csodálhatja meg a belső díszítéseket. A téli fények különleges kontrasztot adnak a régi kőfalaknak.\n\nEgy melengető ebéd után a fűtött konobában irány a tengerpart. A Copacabana strand télen meditatív és békés, tökéletes hely a gondolatok kitisztítására.\n\nA napot zárja korán a Duboka-öbölben, hiszen a naplemente már fél 5 körül beköszönt. Az aranyló égbolt a hűvös tenger felett lenyűgöző látvány a korai szürkületben.",
             "ro": "Bucurați-vă de aerul curat al dimineții de iarnă în satul vechi aproape pustiu. Cafeaua are un gust autentic în liniștea extrasezonului, cu soarele jos la orizont.\n\nVizitele la biserici oferă momente de reculegere fără aglomerația verii. Lumina blândă de iarnă scoate în evidență detaliile arhitecturale ale pietrei vechi.\n\nDupă un prânz copios într-o konoba încălzită, plimbarea pe plaja Copacabana este terapeutică. Liniștea mării în timpul iernii este de o frumusețe rară.\n\nÎncheiați ziua devreme la Golful Duboka, deoarece soarele apune în jur de ora 16:30. Cerul auriu deasupra mării reci este un spectacol ce nu trebuie ratat înainte de seară.",
-            "en": "Enjoy the crisp winter morning air in the nearly empty old village. Coffee tastes more authentic in the quiet off-season as the sun hangs low over the Adriatic.\n\nChurch visits offer moments of silence without the summer crowds. The winter light perfectly highlights the textures of the ancient stone architecture.\n\nA hearty lunch in a heated konoba warms you up for the afternoon. The walk to Copacabana beach reveals a meditative side of the coast usually hidden in summer.\n\nEnd your day early at Duboka Bay, as sunset occurs around 4:30 PM. The golden sky over the cool sea is a stunning sight before heading back to the cozy village."
+            "en": "Enjoy the crisp winter morning air in the nearly empty old village. Coffee tastes more authentic in the quiet off-season as the sun hangs low over the Adriatic.\n\nChurch visits offer moments of silence without the summer crowds. The winter light perfectly highlights the textures of the ancient stone architecture.\n\nA hearty lunch in a heated konoba warms you up for the afternoon. The walk to Copacabana beach reveals a meditative side of the coast usually hidden in summer.\n\nEnd your day early at Duboka Bay, as sunset occurs around 4:30 PM. The golden sky over the cool sea is a stunning sight before heading back to the cozy village.",
+            "hr": "Uživajte u svježem zimskom jutarnjem zraku u gotovo praznom starom selu. Kava ima autentičniji okus u mirnoj predsezoni dok sunce nisko visi nad Jadranom.\n\nPosjeti crkvama nude trenutke tišine bez ljetnih gužvi. Zimsko svjetlo savršeno naglašava teksture drevne kamene arhitekture.\n\nKrepki ručak u grijanoj konobi zagrijat će vas za poslijepodne. Šetnja do plaže Copacabana otkriva meditativnu stranu obale koja je ljeti obično skrivena.\n\nZavršite dan ranije u uvali Duboka, jer zalazak sunca nastupa oko 16:30. Zlatno nebo nad hladnim morem zadivljujući je prizor prije povratka u ugodno selo."
           },
           "stops": [
             {
@@ -427,7 +489,8 @@
                 "de": "Genießen Sie die Sonne auf einem windgeschützten Platz im Freien.",
                 "hu": "Élvezze a napsütést egy szélvédett külső asztalnál.",
                 "ro": "Bucurați-vă de soare la o masă exterioară ferită de vânt.",
-                "en": "Enjoy the winter sun at a wind-protected outdoor table."
+                "en": "Enjoy the winter sun at a wind-protected outdoor table.",
+                "hr": "Uživajte u zimskom suncu za vanjskim stolom zaštićenim od vjetra."
               }
             },
             {
@@ -436,7 +499,8 @@
                 "de": "Im Inneren ist es oft kühler als draußen, behalten Sie die Jacke an.",
                 "hu": "Bent gyakran hűvösebb van, mint kint, ne vegye le a kabátját.",
                 "ro": "În interior este adesea mai răcoare; păstrați jacheta pe dvs.",
-                "en": "It is often cooler inside than outside; keep your jacket on."
+                "en": "It is often cooler inside than outside; keep your jacket on.",
+                "hr": "Unutra je često hladnije nego vani; ne skidajte jaknu."
               }
             },
             {
@@ -445,7 +509,8 @@
                 "de": "Das Licht der tiefstehenden Sonne ist ideal für Fotos der Fassade.",
                 "hu": "Az alacsony napállás fénye tökéletes a homlokzat fotózásához.",
                 "ro": "Lumina soarelui jos este ideală pentru fotografierea fațadei.",
-                "en": "The low winter sun provides perfect lighting for facade photos."
+                "en": "The low winter sun provides perfect lighting for facade photos.",
+                "hr": "Nisko zimsko sunce pruža savršeno osvjetljenje za fotografije fasada."
               }
             },
             {
@@ -454,7 +519,8 @@
                 "de": "Probieren Sie saisonale Wintergerichte wie Pašticada.",
                 "hu": "Kóstolja meg a szezonális téli ételeket, például a Pašticadát.",
                 "ro": "Încercați preparate sezoniere de iarnă, cum ar fi Pašticada.",
-                "en": "Try seasonal winter dishes like Pašticada."
+                "en": "Try seasonal winter dishes like Pašticada.",
+                "hr": "Probajte sezonska zimska jela poput pašticade."
               }
             },
             {
@@ -463,7 +529,8 @@
                 "de": "Ideal für einen langen, ungestörten Strandspaziergang.",
                 "hu": "Tökéletes időpont egy hosszú, zavartalan parti sétához.",
                 "ro": "Ideal pentru o plimbare lungă și neîntreruptă pe plajă.",
-                "en": "Ideal for a long, undisturbed stroll along the shore."
+                "en": "Ideal for a long, undisturbed stroll along the shore.",
+                "hr": "Idealno za dugu, neometanu šetnju obalom."
               }
             },
             {
@@ -472,7 +539,8 @@
                 "de": "Warmer Tee oder Glühwein in den wenigen offenen Cafés.",
                 "hu": "Meleg tea vagy forralt bor a kevés nyitva tartó kávézóban.",
                 "ro": "Ceai cald sau vin fiert în puținele cafenele deschise.",
-                "en": "Hot tea or mulled wine in the few open cafes."
+                "en": "Hot tea or mulled wine in the few open cafes.",
+                "hr": "Topli čaj ili kuhano vino u nekoliko otvorenih kafića."
               }
             },
             {
@@ -481,7 +549,8 @@
                 "de": "Seien Sie spätestens um 16:15 Uhr hier für den Sonnenuntergang.",
                 "hu": "Legyen itt legkésőbb 16:15-kor a naplemente megtekintéséhez.",
                 "ro": "Fiți aici cel târziu la 16:15 pentru a prinde apusul.",
-                "en": "Be here by 4:15 PM at the latest to catch the sunset."
+                "en": "Be here by 4:15 PM at the latest to catch the sunset.",
+                "hr": "Budite ovdje najkasnije u 16:15 kako biste uhvatili zalazak sunca."
               }
             }
           ],
@@ -513,6 +582,13 @@
               "Be aware that some tourist-oriented cafes might be closed during winter.",
               "Plan your outdoor activities to finish before the early sunset at 4:30 PM.",
               "High humidity near the sea can make the air feel colder than it is."
+            ],
+            "hr": [
+              "Odjenite se slojevito; sunce je toplo, ali sjene brzo postaju hladne.",
+              "Bura može biti vrlo hladna; vjetrootporna jakna je obavezna.",
+              "Imajte na umu da bi neki turistički orijentirani kafići mogli biti zatvoreni zimi.",
+              "Planirajte aktivnosti na otvorenom tako da završite prije ranog zalaska sunca u 16:30.",
+              "Visoka vlažnost u blizini mora može učiniti da zrak djeluje hladnije nego što jest."
             ]
           }
         }
@@ -541,7 +617,8 @@
             "de": "Starten Sie mit Blick auf das Meer.",
             "hu": "Kezdje a napot tengerre néző kilátással.",
             "ro": "Începeți ziua cu vedere la mare.",
-            "en": "Start your day with a sea view."
+            "en": "Start your day with a sea view.",
+            "hr": "Započnite dan s pogledom na more."
           }
         },
         {
@@ -559,7 +636,8 @@
             "de": "Ein kurzer Anstieg zum alten Ortskern.",
             "hu": "Rövid emelkedő az ófaluba.",
             "ro": "O urcare scurtă până în satul vechi.",
-            "en": "A short climb to the old village center."
+            "en": "A short climb to the old village center.",
+            "hr": "Kratki uspon do stare jezgre sela."
           }
         },
         {
@@ -577,7 +655,8 @@
             "de": "Ruhige Fahrt entlang der Nordküste.",
             "hu": "Csendes tekerés az északi part mentén.",
             "ro": "O plimbare liniștită de-a lungul coastei de nord.",
-            "en": "Quiet ride along the north coast."
+            "en": "Quiet ride along the north coast.",
+            "hr": "Mirna vožnja uz sjevernu obalu."
           }
         },
         {
@@ -595,7 +674,8 @@
             "de": "Genießen Sie den weiten Blick über die Adria.",
             "hu": "Élvezze a tágas kilátást az Adriára.",
             "ro": "Bucurați-vă de vederea panoramică asupra Adriaticii.",
-            "en": "Enjoy the wide view over the Adriatic."
+            "en": "Enjoy the wide view over the Adriatic.",
+            "hr": "Uživajte u širokom pogledu na Jadran."
           }
         },
         {
@@ -613,7 +693,8 @@
             "de": "Stärken Sie sich für die Weiterfahrt.",
             "hu": "Gyűjtsön erőt a folytatáshoz.",
             "ro": "Reîncărcați-vă bateriile pentru drum.",
-            "en": "Fuel up for the rest of the ride."
+            "en": "Fuel up for the rest of the ride.",
+            "hr": "Napunite baterije za ostatak vožnje."
           }
         },
         {
@@ -631,7 +712,8 @@
             "de": "Perfekt für eine erfrischende Badepause.",
             "hu": "Tökéletes egy frissítő fürdőzéshez.",
             "ro": "Perfect pentru o pauză de înot revigorantă.",
-            "en": "Perfect for a refreshing swim break."
+            "en": "Perfect for a refreshing swim break.",
+            "hr": "Savršeno za osvježavajuću pauzu za kupanje."
           }
         },
         {
@@ -649,7 +731,8 @@
             "de": "Lassen Sie die Tour am belebten Strand ausklingen.",
             "hu": "Zárja a túrát az élénk strandon.",
             "ro": "Încheiați turul pe plaja animată.",
-            "en": "End the tour at the lively beach."
+            "en": "End the tour at the lively beach.",
+            "hr": "Završite turu na živahnoj plaži."
           }
         }
       ],
@@ -657,7 +740,8 @@
         "de": "Erkunden Sie die Insel Čiovo rund um Okrug mit dem Fahrrad. Diese Tour führt Sie von der geschäftigen Riva zu den historischen Kirchen und bietet atemberaubende Ausblicke auf die Südküste. Genießen Sie die Mischung aus kulturellen Sehenswürdigkeiten wie sv. Karla Boromejskog und entspannten Badepausen in der Uvala Duboka, bevor Sie den Tag am Hauptstrand Copacabana beenden.",
         "hu": "Fedezze fel Čiovo szigetét Okrug környékén kerékpárral. Ez a túra a nyüzsgő rivától a történelmi templomokhoz vezet, és lenyűgöző kilátást nyújt a déli partra. Élvezze a kulturális látnivalók, mint a sv. Karla Boromejskog, és a pihentető fürdőzés keverékét az Uvala Dubokában, mielőtt a napot a Copacabana főstrandon zárná.",
         "ro": "Explorați insula Čiovo în jurul localității Okrug cu bicicleta. Acest tur vă poartă de la faleza animată la bisericile istorice și oferă priveliști uimitoare ale coastei de sud. Bucurați-vă de amestecul de obiective culturale, precum sv. Karla Boromejskog, și pauze de înot relaxante în Uvala Duboka, înainte de a încheia ziua pe plaja principală Copacabana.",
-        "en": "Explore the island of Čiovo around Okrug by bike. This tour takes you from the bustling Riva to the historic churches and offers stunning views of the south coast. Enjoy the mix of cultural sights like sv. Karla Boromejskog and relaxed swimming breaks in Uvala Duboka, before ending the day at the main Copacabana beach."
+        "en": "Explore the island of Čiovo around Okrug by bike. This tour takes you from the bustling Riva to the historic churches and offers stunning views of the south coast. Enjoy the mix of cultural sights like sv. Karla Boromejskog and relaxed swimming breaks in Uvala Duboka, before ending the day at the main Copacabana beach.",
+        "hr": "Istražite otok Čiovo oko Okruga biciklom. Ova tura vodi vas od užurbane rive do povijesnih crkava i nudi zadivljujući pogled na južnu obalu. Uživajte u spoju kulturnih znamenitosti poput sv. Karla Boromejskog i opuštenih pauza za kupanje u uvali Duboka, prije završetka dana na glavnoj plaži Copacabana."
       },
       "gastro_picks": {
         "de": [
@@ -698,6 +782,16 @@
           {
             "name": "Dalmatian Prosciutto",
             "tip": "Perfect for a quick energy boost during the ride."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Hobotnica na žaru",
+            "tip": "Specijalitet lokalnih ribara."
+          },
+          {
+            "name": "Dalmatinski pršut",
+            "tip": "Savršeno za brzi energetski poticaj tijekom vožnje."
           }
         ]
       },
@@ -749,6 +843,18 @@
             "tip": "Peaceful place at the edge of town.",
             "emoji": "⛪"
           }
+        ],
+        "hr": [
+          {
+            "name": "Staze na južnoj obali",
+            "tip": "Usamljene staze s prekrasnim vidicima.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Crkva sv. Teodora",
+            "tip": "Mirno mjesto na rubu mjesta.",
+            "emoji": "⛪"
+          }
         ]
       },
       "shopping_picks": {
@@ -774,6 +880,12 @@
           {
             "name": "Homemade Brandy",
             "tip": "Travarica or Rakija from local producers."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Domaća rakija",
+            "tip": "Travarica ili lozovača od lokalnih proizvođača."
           }
         ]
       },
@@ -801,6 +913,12 @@
           "Take enough water, it gets very hot in summer.",
           "The coastal road to Trogir can be busy.",
           "Use the inland side roads for more peace."
+        ],
+        "hr": [
+          "Provjerite kočnice, ima strmih dionica.",
+          "Uzmite dovoljno vode, ljeti postaje jako vruće.",
+          "Obalna cesta prema Trogiru može biti prometna.",
+          "Koristite unutarnje sporedne ceste za više mira."
         ]
       },
       "variants": {
@@ -809,7 +927,8 @@
             "de": "Starten Sie vorsichtig an der nassen Uferpromenade. Ein kurzer Espresso gibt Energie, bevor Sie die Steigungen zu den Kirchen in Angriff nehmen. Die Straßen sind bei Regen weniger befahren, aber Vorsicht in den Kurven.\n\nDie Fahrt zur Südküste bietet dramatische Ausblicke auf das graue Meer. Der Regen wäscht den Staub von den Pinien und intensiviert ihren Duft.\n\nMittags ist eine lange Pause in einer Konoba wichtig, um die Kleidung zu trocknen. Danach geht es zur Uvala Duboka, wo die Brandung heute besonders lautstark gegen die Felsen schlägt.\n\nDer Rückweg über die Copacabana führt an geschlossenen Sonnenschirmen vorbei. Ein kurzes, intensives Training gegen den Wind beendet diese sportliche Tour durch den dalmatinischen Regen.",
             "hu": "Kezdjen óvatosan a vizes parti sétányon. Egy gyors eszpresszó ad erőt a templomokhoz vezető emelkedők előtt. Az utak ilyenkor kevésbé forgalmasak, de a kanyarokban legyen éber.\n\nA déli part felé tartva drámai kilátás nyílik a szürke tengerre. Az eső lemossa a port a fenyőkről, így illatuk még intenzívebbé válik.\n\nEbédnél tartson hosszabb szünetet egy konobában, hogy megszárítsa ruháit. Ezután irány a Duboka-öböl, ahol a hullámok ma különösen hangosan csapkodják a sziklákat.\n\nA Copacabana strand mellett elhaladva az üres napernyők látványa kíséri. Egy rövid, de intenzív tekerés a széllel szemben zárja ezt az esős, sportos túrát.",
             "ro": "Începeți cu prudență pe faleza umedă. Un espresso rapid vă oferă energie înainte de pantele spre biserici. Șoselele sunt mai libere, dar atenție sporită în curbe.\n\nDrumul spre coasta de sud oferă priveliști dramatice asupra mării cenușii. Ploaia spală praful de pe pini, intensificându-le aroma specifică.\n\nLa prânz, o pauză prelungită la o konoba este esențială pentru a vă usca echipamentul. Continuați spre Golful Duboka, unde valurile se sparg zgomotos de stânci.\n\nÎntoarcerea pe lângă plaja Copacabana trece pe lângă umbrelele închise. Un antrenament scurt și intens împotriva vântului încheie această tură sportivă prin ploaia dalmată.",
-            "en": "Start cautiously on the wet waterfront promenade. A quick espresso boosts your energy before tackling the slopes up to the churches. Traffic is lighter in the rain, but stay alert in turns.\n\nThe ride to the south coast offers dramatic views of the grey sea. The rain washes the dust off the pine trees, making their scent much more intense.\n\nA long lunch break at a konoba is vital to dry your gear. Afterward, head to Duboka Bay, where the surf crashes loudly against the rocks today.\n\nThe return journey past Copacabana beach features closed parasols and empty sands. A short, intense pedal against the wind concludes this athletic rainy tour."
+            "en": "Start cautiously on the wet waterfront promenade. A quick espresso boosts your energy before tackling the slopes up to the churches. Traffic is lighter in the rain, but stay alert in turns.\n\nThe ride to the south coast offers dramatic views of the grey sea. The rain washes the dust off the pine trees, making their scent much more intense.\n\nA long lunch break at a konoba is vital to dry your gear. Afterward, head to Duboka Bay, where the surf crashes loudly against the rocks today.\n\nThe return journey past Copacabana beach features closed parasols and empty sands. A short, intense pedal against the wind concludes this athletic rainy tour.",
+            "hr": "Započnite oprezno na mokroj obalnoj šetnici. Brzi espresso podići će vam energiju prije nego što savladate uspone do crkava. Promet je rjeđi po kiši, ali ostanite oprezni u zavojima.\n\nVožnja do južne obale nudi dramatične vidike na sivo more. Kiša ispire prašinu s borova, čineći njihov miris mnogo intenzivnijim.\n\nDuga pauza za ručak u konobi ključna je za sušenje opreme. Nakon toga se uputite u uvalu Duboka, gdje valovi danas glasno udaraju o stijene.\n\nPovratak pored plaže Copacabana nudi prizor zatvorenih suncobrana i praznog pijeska. Kratko, intenzivno pedaliranje protiv vjetra zaključuje ovu atletsku kišnu turu."
           },
           "stops": [
             {
@@ -818,7 +937,8 @@
                 "de": "Prüfen Sie hier noch einmal Ihre Bremsen vor der Abfahrt.",
                 "hu": "Indulás előtt ellenőrizze újra a fékeket a vizes aszfalt miatt.",
                 "ro": "Verificați frânele înainte de plecare din cauza asfaltului umed.",
-                "en": "Check your brakes here once more before heading out."
+                "en": "Check your brakes here once more before heading out.",
+                "hr": "Ovdje još jednom provjerite kočnice prije polaska."
               }
             },
             {
@@ -827,7 +947,8 @@
                 "de": "Stellen Sie das Rad unter das Vordach eines nahen Gebäudes.",
                 "hu": "Állítsa a kerékpárt egy közeli épület eresze alá.",
                 "ro": "Parcați bicicleta sub streașina unei clădiri din apropiere.",
-                "en": "Park your bike under the eaves of a nearby building."
+                "en": "Park your bike under the eaves of a nearby building.",
+                "hr": "Parkirajte bicikl pod strehom obližnje zgrade."
               }
             },
             {
@@ -836,7 +957,8 @@
                 "de": "Vermeiden Sie die weißen Fahrbahnmarkierungen, sie sind spiegelglatt.",
                 "hu": "Kerülje a fehér útburkolati jeleket, mert rendkívül csúsznak.",
                 "ro": "Evitați marcajele rutiere albe; sunt extrem de alunecoase.",
-                "en": "Avoid white road markings; they are slippery as ice when wet."
+                "en": "Avoid white road markings; they are slippery as ice when wet.",
+                "hr": "Izbjegavajte bijele oznake na cesti; klizave su kao led kad su mokre."
               }
             },
             {
@@ -845,7 +967,8 @@
                 "de": "Kurzer Stopp für ein Foto, halten Sie die Linse trocken.",
                 "hu": "Csak egy gyors fotómegálló, tartsa szárazon az objektívet.",
                 "ro": "Oprire scurtă pentru poze; păstrați lentila camerei uscată.",
-                "en": "Quick photo stop; keep your camera lens dry."
+                "en": "Quick photo stop; keep your camera lens dry.",
+                "hr": "Kratka pauza za fotografiranje; držite objektiv fotoaparata suhim."
               }
             },
             {
@@ -854,7 +977,8 @@
                 "de": "Die Konoba ist die bessere Wahl, um sich aufzuwärmen.",
                 "hu": "A konoba jobb választás ilyenkor a felmelegedéshez.",
                 "ro": "Konoba este alegerea mai bună pentru a vă încălzi.",
-                "en": "The konoba is the better choice to warm up today."
+                "en": "The konoba is the better choice to warm up today.",
+                "hr": "Konoba je bolji izbor za zagrijavanje danas."
               }
             },
             {
@@ -863,7 +987,8 @@
                 "de": "Der Schotterweg zum Strand kann heute schlammig sein.",
                 "hu": "A strandra vezető murvás út ma saras lehet.",
                 "ro": "Drumul cu pietriș spre plajă poate fi noroios astăzi.",
-                "en": "The gravel path to the beach might be muddy today."
+                "en": "The gravel path to the beach might be muddy today.",
+                "hr": "Šljunčana staza do plaže mogla bi danas biti blatnjava."
               }
             },
             {
@@ -872,7 +997,8 @@
                 "de": "Vorsicht vor tiefen Pfützen auf dem Parkplatzgelände.",
                 "hu": "Vigyázzon a mély tócsákra a parkoló környékén.",
                 "ro": "Atenție la bălțile adânci din zona parcării.",
-                "en": "Watch out for deep puddles in the parking area."
+                "en": "Watch out for deep puddles in the parking area.",
+                "hr": "Pripazite na duboke lokve na području parkinga."
               }
             }
           ],
@@ -904,6 +1030,13 @@
               "Slightly reduce tire pressure for better grip on wet asphalt.",
               "Brake early and gently, especially before sharp downhill turns.",
               "A small rag to wipe down your saddle is very practical."
+            ],
+            "hr": [
+              "Blatobrani su danas neophodni na dalmatinskim cestama.",
+              "Nosite fluorescentnu ili svijetlu kišnu odjeću radi bolje vidljivosti vozačima.",
+              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrom asfaltu.",
+              "Kočite rano i nježno, posebno prije oštrih zavoja nizbrdo.",
+              "Mala krpica za brisanje sjedala vrlo je praktična."
             ]
           }
         },
@@ -912,7 +1045,8 @@
             "de": "Ein kühler Start an der Uferpromenade weckt die Lebensgeister. Das Licht ist kristallklar und die Luft rein, ideal für die Fahrt hinauf zu den historischen Kirchen von Okrug.\n\nDie Strecke entlang der Südküste ist im Winter fast verkehrsfrei. Genießen Sie die Einsamkeit und das weite Panorama, während die Wintersonne Ihre Fahrt begleitet.\n\nMittags kehren Sie in eine der wenigen offenen Konobas ein, um neue Energie zu tanken. Ein heißer Tee wirkt Wunder, bevor Sie zur ruhigen Uvala Duboka weiterfahren.\n\nDer späte Nachmittag am Copacabana-Strand ist kurz, aber intensiv. Nutzen Sie das letzte Tageslicht für die Rückfahrt, bevor die Kälte mit dem frühen Sonnenuntergang spürbar zunimmt.",
             "hu": "A hűvös indítás a parti sétányon azonnal felébreszti. A fények kristálytiszták, a levegő friss, ideális a tekeréshez Okrug történelmi templomai felé.\n\nA déli part menti útszakasz télen szinte forgalommentes. Élvezze a magányt és a tágas panorámát, miközben a téli napsütés végigkíséri az útját.\n\nEbédnél térjen be az egyik nyitva tartó konobába energiát gyűjteni. Egy forró tea csodákat tesz, mielőtt továbbindulna a csendes Duboka-öbölbe.\n\nA késő délután a Copacabana strandon rövid, de intenzív élmény. Használja ki az utolsó fényeket a visszatéréshez, mielőtt a korai naplementével a hideg felerősödne.",
             "ro": "Un start răcoros pe faleză vă va trezi simțurile. Lumina este de cristal și aerul pur, ideal pentru urcarea spre bisericile istorice din Okrug.\n\nTraseul de-a lungul coastei de sud este aproape lipsit de trafic iarna. Bucurați-vă de singurătate și de panorama vastă sub soarele blând de iarnă.\n\nLa prânz, opriți-vă la una dintre puținele konobe deschise pentru a vă realimenta. Un ceai fierbinte face minuni înainte de a continua spre Golful Duboka.\n\nDupă-amiaza târzie pe plaja Copacabana este scurtă, dar intensă. Profitați de ultimele raze pentru drumul de întoarcere, înainte ca frigul să se lase odată cu apusul.",
-            "en": "A cool start on the waterfront promenade wakes you up instantly. The light is crystal clear and the air pure, ideal for the climb to the historical churches of Okrug.\n\nThe route along the south coast is nearly traffic-free in winter. Enjoy the solitude and the wide panorama as the winter sun accompanies your ride.\n\nAt lunchtime, stop by one of the few open konobas to recharge. A hot tea works wonders before continuing to the serene Duboka Bay.\n\nLate afternoon at Copacabana beach is short but beautiful. Use the last daylight for the ride back before the temperature drops sharply with the early sunset."
+            "en": "A cool start on the waterfront promenade wakes you up instantly. The light is crystal clear and the air pure, ideal for the climb to the historical churches of Okrug.\n\nThe route along the south coast is nearly traffic-free in winter. Enjoy the solitude and the wide panorama as the winter sun accompanies your ride.\n\nAt lunchtime, stop by one of the few open konobas to recharge. A hot tea works wonders before continuing to the serene Duboka Bay.\n\nLate afternoon at Copacabana beach is short but beautiful. Use the last daylight for the ride back before the temperature drops sharply with the early sunset.",
+            "hr": "Hladan početak na rivi trenutačno će vas razbuditi. Svjetlo je kristalno jasno, a zrak čist, idealno za uspon do povijesnih crkava Okruga.\n\nRuta uz južnu obalu zimi je gotovo bez prometa. Uživajte u osami i širokoj panorami dok vas zimsko sunce prati tijekom vožnje.\n\nU vrijeme ručka svratite u jednu od rijetkih otvorenih konoba da napunite baterije. Topli čaj čini čuda prije nastavka do spokojne uvale Duboka.\n\nKasno poslijepodne na plaži Copacabana je kratko, ali lijepo. Iskoristite posljednje dnevno svjetlo za povratak prije nego što temperatura naglo padne s ranim zalaskom sunca."
           },
           "stops": [
             {
@@ -921,7 +1055,8 @@
                 "de": "Trinken Sie Ihren Kaffee drinnen, um die Körperwärme zu halten.",
                 "hu": "Igya a kávéját bent, hogy megőrizze teste melegét.",
                 "ro": "Beți cafeaua în interior pentru a vă menține căldura corporală.",
-                "en": "Drink your coffee inside to maintain your body heat."
+                "en": "Drink your coffee inside to maintain your body heat.",
+                "hr": "Popijte kavu unutra kako biste održali tjelesnu toplinu."
               }
             },
             {
@@ -930,7 +1065,8 @@
                 "de": "Vermeiden Sie schattige Stellen, dort ist der Asphalt oft klamm.",
                 "hu": "Kerülje az árnyékos részeket, ott az aszfalt gyakran nyirkos.",
                 "ro": "Evitați zonele umbrite; acolo asfaltul rămâne adesea umed.",
-                "en": "Avoid shaded spots; the asphalt there is often damp and slick."
+                "en": "Avoid shaded spots; the asphalt there is often damp and slick.",
+                "hr": "Izbjegavajte sjenovita mjesta; asfalt je tamo često vlažan i sklizak."
               }
             },
             {
@@ -939,7 +1075,8 @@
                 "de": "Kurze Pause, damit die Muskeln nicht zu sehr auskühlen.",
                 "hu": "Csak rövid szünetet tartson, hogy ne hűljenek ki az izmai.",
                 "ro": "Pauză scurtă pentru a nu lăsa mușchii să se răcească prea tare.",
-                "en": "Keep the break short so your muscles don't cool down too much."
+                "en": "Keep the break short so your muscles don't cool down too much.",
+                "hr": "Pauza neka bude kratka kako se mišići ne bi previše ohladili."
               }
             },
             {
@@ -948,7 +1085,8 @@
                 "de": "Handschuhe kurz ausziehen für das Foto, dann sofort wieder an.",
                 "hu": "A fotóhoz vegye le a kesztyűt, de utána azonnal vegye vissza.",
                 "ro": "Scoateți mănușile doar pentru poză, apoi puneți-le la loc.",
-                "en": "Take off gloves for the photo, then put them back on immediately."
+                "en": "Take off gloves for the photo, then put them back on immediately.",
+                "hr": "Skinite rukavice za fotografiju, a zatim ih odmah vratite."
               }
             },
             {
@@ -957,7 +1095,8 @@
                 "de": "Wählen Sie ein warmes Gericht, um die Kerntemperatur zu steigern.",
                 "hu": "Válasszon meleg ételt, hogy növelje testhőmérsékletét.",
                 "ro": "Alegeți un fel de mâncare cald pentru a vă încălzi corpul.",
-                "en": "Choose a warm meal to raise your core temperature."
+                "en": "Choose a warm meal to raise your core temperature.",
+                "hr": "Odaberite topli obrok kako biste podigli tjelesnu temperaturu."
               }
             },
             {
@@ -966,7 +1105,8 @@
                 "de": "Der Wind weht hier im Winter oft stärker als im Dorf.",
                 "hu": "A szél itt télen gyakran erősebben fúj, mint a faluban.",
                 "ro": "Vântul suflă aici iarna mai puternic decât în sat.",
-                "en": "The wind here is often stronger in winter than in the village."
+                "en": "The wind here is often stronger in winter than in the village.",
+                "hr": "Vjetar je ovdje zimi često jači nego u samom mjestu."
               }
             },
             {
@@ -975,7 +1115,8 @@
                 "de": "Achten Sie auf die Uhrzeit, das Licht schwindet jetzt schnell.",
                 "hu": "Figyelje az időt, a fények most már gyorsan fogynak.",
                 "ro": "Atenție la oră; lumina dispare rapid acum.",
-                "en": "Watch the time; the daylight fades very quickly now."
+                "en": "Watch the time; the daylight fades very quickly now.",
+                "hr": "Pripazite na vrijeme; dnevno svjetlo sada nestaje vrlo brzo."
               }
             }
           ],
@@ -1007,6 +1148,13 @@
               "Stay hydrated even if you feel less thirsty than in the summer.",
               "Check your bike lights in case the tour takes a bit longer than planned.",
               "The Bura wind can have dangerous gusts; keep a firm grip on the handlebars."
+            ],
+            "hr": [
+              "Vjetrootporne rukavice i navlake za cipele obavezne su za ovu zimsku vožnju.",
+              "Zimsko sunce je nisko; dobre sunčane naočale pomažu protiv odsjaja.",
+              "Pijte dovoljno tekućine čak i ako osjećate manju žeđ nego ljeti.",
+              "Provjerite svjetla na biciklu u slučaju da tura potraje malo duže od planiranog.",
+              "Bura može imati opasne udare; čvrsto držite upravljač."
             ]
           }
         }
@@ -1035,7 +1183,8 @@
             "de": "Parken Sie im Dorfzentrum.",
             "hu": "Parkoljon a faluközpontban.",
             "ro": "Parcați în centrul satului.",
-            "en": "Park in the village center."
+            "en": "Park in the village center.",
+            "hr": "Parkirajte u centru mjesta."
           }
         },
         {
@@ -1053,7 +1202,8 @@
             "de": "Zu Fuß vom Parkplatz erreichbar.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking area."
+            "en": "Accessible on foot from the parking area.",
+            "hr": "Dostupno pješice s parkirališta."
           }
         },
         {
@@ -1071,7 +1221,8 @@
             "de": "Suchen Sie einen Parkplatz in Strandnähe.",
             "hu": "Keressen parkolót a strand közelében.",
             "ro": "Căutați un loc de parcare lângă plajă.",
-            "en": "Look for a parking spot near the beach."
+            "en": "Look for a parking spot near the beach.",
+            "hr": "Potražite parkirno mjesto blizu plaže."
           }
         },
         {
@@ -1089,7 +1240,8 @@
             "de": "Entspannen Sie am Hauptstrand.",
             "hu": "Lazítson a főstrandon.",
             "ro": "Relaxați-vă pe plaja principală.",
-            "en": "Relax at the main beach."
+            "en": "Relax at the main beach.",
+            "hr": "Opustite se na glavnoj plaži."
           }
         },
         {
@@ -1107,7 +1259,8 @@
             "de": "Zu Fuß vom Strand aus erreichbar.",
             "hu": "Gyalogosan elérhető a strandtól.",
             "ro": "Accesibil pe jos de la plajă.",
-            "en": "Accessible on foot from the beach."
+            "en": "Accessible on foot from the beach.",
+            "hr": "Dostupno pješice s plaže."
           }
         },
         {
@@ -1125,7 +1278,8 @@
             "de": "Fahrt zur ruhigeren Seite der Insel.",
             "hu": "Autózás a sziget csendesebb oldalára.",
             "ro": "Drum spre partea mai liniștită a insulei.",
-            "en": "Drive to the quieter side of the island."
+            "en": "Drive to the quieter side of the island.",
+            "hr": "Vozite se do mirnije strane otoka."
           }
         },
         {
@@ -1143,7 +1297,8 @@
             "de": "Ideal für ein ruhiges Bad.",
             "hu": "Ideális egy nyugodt fürdőzéshez.",
             "ro": "Ideal pentru o baie liniștită.",
-            "en": "Ideal for a quiet swim."
+            "en": "Ideal for a quiet swim.",
+            "hr": "Idealno za mirno kupanje."
           }
         },
         {
@@ -1161,7 +1316,8 @@
             "de": "Abschlussbesuch der historischen Kirche.",
             "hu": "A történelmi templom megtekintése zárásként.",
             "ro": "Vizită de final la biserica istorică.",
-            "en": "Final visit to the historic church."
+            "en": "Final visit to the historic church.",
+            "hr": "Završni posjet povijesnoj crkvi."
           }
         }
       ],
@@ -1169,7 +1325,8 @@
         "de": "Mit dem Auto lassen sich die verschiedenen Facetten von Okrug bequem erkunden. Starten Sie im historischen Kern bei der Kirche sv. Karla Boromejskog. Danach wechseln Sie zum lebhaften Copacabana-Strand für Badevergnügen und Mittagessen. Am Nachmittag führt die Fahrt zur ruhigen Uvala Duboka im Süden und endet bei der malerischen Kirche sv. Teodor an der Nordküste.",
         "hu": "Autóval kényelmesen felfedezheti Okrug különböző arcait. Kezdjen a történelmi központban a sv. Karla Boromejskog templomnál. Ezután váltson a pezsgő Copacabana strandra a fürdőzéshez és ebédhez. Délután az út a déli csendes Uvala Dubokába vezet, majd a napot az északi parton fekvő festői sv. Teodor templomnál zárhatja.",
         "ro": "Cu mașina puteți explora confortabil diferitele fațete ale localității Okrug. Începeți în centrul istoric la biserica sv. Karla Boromejskog. Apoi mergeți la plaja animată Copacabana pentru baie și prânz. După-amiaza, drumul vă duce spre liniștitul golf Uvala Duboka din sud și se încheie la biserica pitorească sv. Teodor de pe coasta de nord.",
-        "en": "By car, you can comfortably explore the different facets of Okrug. Start in the historic center at the church of sv. Karla Boromejskog. Then move to the lively Copacabana beach for swimming and lunch. In the afternoon, the drive takes you to the quiet Uvala Duboka in the south and ends at the picturesque church of sv. Teodor on the north coast."
+        "en": "By car, you can comfortably explore the different facets of Okrug. Start in the historic center at the church of sv. Karla Boromejskog. Then move to the lively Copacabana beach for swimming and lunch. In the afternoon, the drive takes you to the quiet Uvala Duboka in the south and ends at the picturesque church of sv. Teodor on the north coast.",
+        "hr": "Automobilom možete udobno istražiti različita lica Okruga. Započnite u povijesnom središtu kod crkve sv. Karla Boromejskog. Zatim se uputite na živahnu plažu Copacabana za kupanje i ručak. Poslijepodne vas vožnja vodi do mirne uvale Duboka na jugu, a završava kod slikovite crkve sv. Teodora na sjevernoj obali."
       },
       "gastro_picks": {
         "de": [
@@ -1194,6 +1351,12 @@
           {
             "name": "Grilled Lamb Chops",
             "tip": "A hearty classic in local restaurants."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Janjeći kotleti na žaru",
+            "tip": "Krepki klasik u lokalnim restoranima."
           }
         ]
       },
@@ -1225,6 +1388,13 @@
             "tip": "Beautiful view of the neighboring islands.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Parking uvale Duboka",
+            "tip": "Prekrasan pogled na susjedne otoke.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1251,6 +1421,12 @@
             "name": "Souvenirs in Okrug Gornji",
             "tip": "Handmade ceramics and textiles."
           }
+        ],
+        "hr": [
+          {
+            "name": "Suveniri u Okrugu Gornjem",
+            "tip": "Ručno rađena keramika i tekstil."
+          }
         ]
       },
       "tips": {
@@ -1273,6 +1449,11 @@
           "Watch out for one-way streets in the old village.",
           "Park only in marked areas to avoid fines.",
           "Traffic jams are common at the bridge to Trogir in summer."
+        ],
+        "hr": [
+          "Pripazite na jednosmjerne ulice u starom selu.",
+          "Parkirajte samo na označenim mjestima kako biste izbjegli kazne.",
+          "Ljeti su česti zastoji u prometu kod mosta za Trogir."
         ]
       },
       "variants": {
@@ -1281,7 +1462,8 @@
             "de": "Starten Sie entspannt mit dem Auto im alten Dorf. Der Regen ist kein Hindernis, um die Kirchen von Okrug zu besichtigen, da Parkplätze direkt in der Nähe vorhanden sind.\n\nFahren Sie zur Copacabana, wo Sie das Meer bequem aus dem trockenen Fahrzeug beobachten können. Ein kurzes Aussteigen für die frische Meeresluft lohnt sich trotzdem.\n\nDas Mittagessen am Meer ist ein Highlight, wenn der Regen gegen die Panoramascheiben trommelt. Danach geht es weiter zur Südbucht, die auch bei trübem Wetter beeindruckend wirkt.\n\nDie Tour endet an der Kirche sv. Teodor. Die Fahrt durch die regennassen Straßen von Čiovo bietet eine melancholische, aber sichere Möglichkeit, die Insel in ihrer Ruhe zu erleben.",
             "hu": "Kezdje kényelmesen az autós túrát az ófaluban. Az eső nem akadály, hiszen a templomok közelében könnyen talál parkolóhelyet, így szárazon juthat be.\n\nGuruljon le a Copacabana strandra, ahol az autóból is élvezheti a tenger látványát. Egy rövid séta a friss levegőn még így is üdítő lehet.\n\nA tengerparti ebéd különleges élmény, amikor az eső kopog a panorámaablakon. Ezután irány a déli öböl, amely borús időben is tekintélyt parancsoló.\n\nA túra a Szent Tódor-templomnál zárul. Az esős Čiovo-sziget útjain autózva biztonságban, mégis közelről ismerheti meg a környék nyugodtabb arcát.",
             "ro": "Începeți relaxat turul cu mașina în satul vechi. Ploaia nu este un impediment pentru vizitarea bisericilor, deoarece există parcări chiar lângă ele.\n\nMergeți spre Copacabana, unde puteți admira marea din confortul vehiculului uscat. O scurtă ieșire pentru aerul proaspat de mare merită totuși efortul.\n\nPrânzul la malul mării este un punct culminant când ploaia bate în ferestrele panoramice. Continuați spre golful de sud, care impresionează chiar și pe vreme mohorâtă.\n\nTurul se încheie la biserica Sf. Teodor. Condusul pe străzile umede din Čiovo oferă o modalitate sigură și melancolică de a experimenta liniștea insulei.",
-            "en": "Start your car tour comfortably in the old village. The rain won't stop you from visiting the churches, as parking is available right nearby for easy access.\n\nDrive down to Copacabana, where you can watch the waves from the warmth of your vehicle. A brief step outside for the salty sea air is still recommended.\n\nLunch by the sea is a highlight as the rain drums against the restaurant windows. Afterward, proceed to the south bay, which looks powerful even under grey skies.\n\nThe tour ends at St. Theodore’s Church. Driving through the rain-soaked streets of Čiovo offers a safe and moody way to see the island in its quietest state."
+            "en": "Start your car tour comfortably in the old village. The rain won't stop you from visiting the churches, as parking is available right nearby for easy access.\n\nDrive down to Copacabana, where you can watch the waves from the warmth of your vehicle. A brief step outside for the salty sea air is still recommended.\n\nLunch by the sea is a highlight as the rain drums against the restaurant windows. Afterward, proceed to the south bay, which looks powerful even under grey skies.\n\nThe tour ends at St. Theodore’s Church. Driving through the rain-soaked streets of Čiovo offers a safe and moody way to see the island in its quietest state.",
+            "hr": "Započnite svoju turu automobilom udobno u starom selu. Kiša vas neće spriječiti u posjetu crkvama, jer je parking dostupan odmah u blizini za lak pristup.\n\nOdvezite se do Copacabane, gdje možete promatrati valove iz topline svog vozila. Ipak se preporučuje kratak izlazak na slani morski zrak.\n\nRučak uz more je vrhunac dok kiša bubnja po prozorima restorana. Nakon toga nastavite do južne uvale, koja izgleda moćno čak i pod sivim nebom.\n\nTura završava kod crkve sv. Teodora. Vožnja kišom natopljenim ulicama Čiova nudi siguran i sjetan način da vidite otok u njegovom najmirnijem izdanju."
           },
           "stops": [
             {
@@ -1290,7 +1472,8 @@
                 "de": "Nutzen Sie den Parkplatz nahe der Post für kurze Wege.",
                 "hu": "Használja a posta közeli parkolót a rövid gyalogút érdekében.",
                 "ro": "Folosiți parcarea de lângă poștă pentru distanțe scurte de mers.",
-                "en": "Use the parking lot near the post office for short walking distances."
+                "en": "Use the parking lot near the post office for short walking distances.",
+                "hr": "Koristite parkiralište blizu pošte za kratke pješačke udaljenosti."
               }
             },
             {
@@ -1299,7 +1482,8 @@
                 "de": "Lassen Sie den Regenschirm griffbereit im Auto.",
                 "hu": "Tartsa az esernyőt karnyújtásnyira az autóban.",
                 "ro": "Țineți umbrela la îndemână în mașină.",
-                "en": "Keep your umbrella within reach inside the car."
+                "en": "Keep your umbrella within reach inside the car.",
+                "hr": "Držite kišobran na dohvat ruke unutar automobila."
               }
             },
             {
@@ -1308,7 +1492,8 @@
                 "de": "Fahren Sie bis zur Uferstraße vor für den besten Blick.",
                 "hu": "Hajtson le egészen a parti útig a legjobb kilátásért.",
                 "ro": "Conduceți până la drumul de coastă pentru cea mai bună vedere.",
-                "en": "Drive down to the coastal road for the best view from the car."
+                "en": "Drive down to the coastal road for the best view from the car.",
+                "hr": "Odvezite se do obalne ceste za najbolji pogled iz automobila."
               }
             },
             {
@@ -1317,7 +1502,8 @@
                 "de": "Parkplätze sind bei Regen direkt am Strand reichlich vorhanden.",
                 "hu": "Esőben közvetlenül a strandon is bőven talál parkolóhelyet.",
                 "ro": "Locurile de parcare de pe plajă sunt din abundență pe ploaie.",
-                "en": "Parking right by the beach is plentiful during rainy weather."
+                "en": "Parking right by the beach is plentiful during rainy weather.",
+                "hr": "Parking neposredno uz plažu je obilan tijekom kišnog vremena."
               }
             },
             {
@@ -1326,7 +1512,8 @@
                 "de": "Reservieren Sie einen Tisch mit direktem Meerblick.",
                 "hu": "Foglaljon asztalt közvetlen tengeri kilátással.",
                 "ro": "Rezervați o masă cu vedere directă la mare.",
-                "en": "Reserve a table with a direct sea view."
+                "en": "Reserve a table with a direct sea view.",
+                "hr": "Rezervirajte stol s izravnim pogledom na more."
               }
             },
             {
@@ -1335,7 +1522,8 @@
                 "de": "Vorsicht auf den schmalen Zufahrtswegen bei Gegenverkehr.",
                 "hu": "Vigyázzon a szűk bekötőutakon a szembejövő forgalomra.",
                 "ro": "Atenție pe drumurile înguste de acces la traficul din sens opus.",
-                "en": "Be careful on the narrow access roads with oncoming traffic."
+                "en": "Be careful on the narrow access roads with oncoming traffic.",
+                "hr": "Budite oprezni na uskim pristupnim cestama s prometom iz suprotnog smjera."
               }
             },
             {
@@ -1344,7 +1532,8 @@
                 "de": "Die unbefestigten Ränder können bei Regen weich sein.",
                 "hu": "A burkolatlan útpadkák esőben felpuhulhatnak.",
                 "ro": "Marginile neasfaltate pot fi moi din cauza ploii.",
-                "en": "Unpaved road shoulders can be soft due to the rain."
+                "en": "Unpaved road shoulders can be soft due to the rain.",
+                "hr": "Neasfaltirani rubovi ceste mogu biti mekani zbog kiše."
               }
             },
             {
@@ -1353,7 +1542,8 @@
                 "de": "Der Parkplatz ist klein, aber bei Regen meist frei.",
                 "hu": "A parkoló kicsi, de esőben általában van hely.",
                 "ro": "Parcarea este mică, dar de obicei liberă pe ploaie.",
-                "en": "The parking lot is small but usually empty in the rain."
+                "en": "The parking lot is small but usually empty in the rain.",
+                "hr": "Parkiralište je malo, ali obično prazno po kiši."
               }
             }
           ],
@@ -1385,6 +1575,13 @@
               "Do not park under unstable trees during heavy wind gusts.",
               "Visibility can be significantly reduced by spray and rain.",
               "Take the opportunity for a scenic drive along the coastal roads."
+            ],
+            "hr": [
+              "Izbjegavajte duboke lokve jer mogu skrivati udarne rupe.",
+              "Prozori se na kiši brzo magle; neka klima uređaj bude uključen.",
+              "Ne parkirajte ispod nestabilnih stabala tijekom jakih udara vjetra.",
+              "Vidljivost može biti značajno smanjena zbog prskanja i kiše.",
+              "Iskoristite priliku za slikovitu vožnju obalnim cestama."
             ]
           }
         },
@@ -1393,7 +1590,8 @@
             "de": "Erleben Sie Okrug im Winter komfortabel mit dem Auto. Das alte Dorf ist ruhig, und Sie finden problemlos Parkplätze direkt bei den historischen Sehenswürdigkeiten.\n\nDie Fahrt zur Copacabana bietet im milden Winterlicht wunderschöne Fotomotive. Da es kühl ist, schätzt man die Sitzheizung auf dem Weg zwischen den Stopps umso mehr.\n\nEin gemütliches Mittagessen wärmt auf, bevor Sie die Küstenstraße zur Südbucht erkunden. Die klare Sicht erlaubt Ausblicke bis zu den fernen Inseln.\n\nBeenden Sie die Tour pünktlich zum frühen Sonnenuntergang. Die Fahrt zurück über die Hügel von Čiovo bietet im Dämmerlicht eine ganz besondere, friedliche Atmosphäre.",
             "hu": "Fedezze fel Okrugot télen kényelmesen, autóval. Az ófalu csendes, és gond nélkül talál parkolóhelyet közvetlenül a történelmi látnivalóknál.\n\nA Copacabana strandra vezető út a lágy téli fényekben gyönyörű fotótémákat kínál. A hűvös időben jól esik az ülésfűtés a megállók között.\n\nEgy hangulatos ebéd után fedezze fel a déli öbölhöz vezető parti utat. A tiszta levegőben ellátni egészen a távoli szigetekig.\n\nA túrát fejezze be időben a korai naplementéhez. A Čiovo dombjain átvezető út a szürkületben különleges, békés hangulatot áraszt.",
             "ro": "Experimentați Okrug iarna confortabil cu mașina. Satul vechi este liniștit și puteți găsi ușor locuri de parcare chiar lângă obiectivele istorice.\n\nDrumul spre Copacabana oferă motive fotografice superbe în lumina blândă de iarnă. Fiind răcoare, veți aprecia încălzirea în scaune între opriri.\n\nUn prânz primitor vă va încălzi înainte de a explora drumul de coastă spre golful de sud. Vizibilitatea clară permite vederi până la insulele îndepărtate.\n\nÎncheiați turul la timp pentru apusul devreme. Drumul de întoarcere peste dealurile din Čiovo oferă o atmosferă pașnică în lumina amurgului.",
-            "en": "Experience Okrug in winter from the comfort of your car. The old village is peaceful, and you'll find parking easily right next to the historic sites.\n\nThe drive to Copacabana offers beautiful photo opportunities in the soft winter light. Between stops, you'll surely appreciate the seat heating on a chilly day.\n\nA cozy lunch warms you up before exploring the coastal road to the south bay. The clear air allows for views all the way to the distant islands.\n\nEnd your tour in time for the early sunset. The drive back over the hills of Čiovo provides a very special, peaceful atmosphere in the twilight."
+            "en": "Experience Okrug in winter from the comfort of your car. The old village is peaceful, and you'll find parking easily right next to the historic sites.\n\nThe drive to Copacabana offers beautiful photo opportunities in the soft winter light. Between stops, you'll surely appreciate the seat heating on a chilly day.\n\nA cozy lunch warms you up before exploring the coastal road to the south bay. The clear air allows for views all the way to the distant islands.\n\nEnd your tour in time for the early sunset. The drive back over the hills of Čiovo provides a very special, peaceful atmosphere in the twilight.",
+            "hr": "Doživite Okrug zimi iz udobnosti svog automobila. Staro selo je mirno, a parking ćete lako pronaći odmah uz povijesne znamenitosti.\n\nVožnja do Copacabane nudi prekrasne prilike za fotografiranje pod blagim zimskim svjetlom. Između zaustavljanja, sigurno ćete cijeniti grijanje sjedala u hladnom danu.\n\nUgodan ručak zagrijat će vas prije istraživanja obalne ceste do južne uvale. Čist zrak omogućuje poglede sve do udaljenih otoka.\n\nZavršite turu na vrijeme za rani zalazak sunca. Vožnja natrag preko brda Čiova pruža poseban, miran ugođaj u sumrak."
           },
           "stops": [
             {
@@ -1402,7 +1600,8 @@
                 "de": "Parkplätze sind im Winter im gesamten Dorfzentrum frei.",
                 "hu": "Télen az egész falu központjában szabadon válogathat a parkolóhelyekből.",
                 "ro": "Locurile de parcare sunt libere iarna în tot centrul satului.",
-                "en": "Parking is plentiful throughout the village center in winter."
+                "en": "Parking is plentiful throughout the village center in winter.",
+                "hr": "Parkinga ima u izobilju u cijelom centru sela zimi."
               }
             },
             {
@@ -1411,7 +1610,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz, ideal bei kühler Bura.",
                 "hu": "Rövid séta a parkolótól, ideális a hűvös bóra szélben.",
                 "ro": "Mers scurt pe jos de la parcare, ideal în caz de vânt rece.",
-                "en": "Very short walk from the car, ideal when the Bura wind blows."
+                "en": "Very short walk from the car, ideal when the Bura wind blows.",
+                "hr": "Vrlo kratka šetnja od automobila, idealno kada puše bura."
               }
             },
             {
@@ -1420,7 +1620,8 @@
                 "de": "Die Parkuhren sind in der Nebensaison oft außer Betrieb.",
                 "hu": "A parkolóórák a főszezonon kívül gyakran nem üzemelnek.",
                 "ro": "Aparatele de taxat parcare sunt adesea scoase din uz în extrasezon.",
-                "en": "Parking meters are often out of service during the off-season."
+                "en": "Parking meters are often out of service during the off-season.",
+                "hr": "Parkirni automati su često izvan funkcije tijekom izvansezone."
               }
             },
             {
@@ -1429,7 +1630,8 @@
                 "de": "Genießen Sie den Blick aus dem Auto bei einem warmen Getränk.",
                 "hu": "Élvezze a kilátást az autóból egy meleg ital mellett.",
                 "ro": "Bucurați-vă de priveliște din mașină cu o băutură caldă.",
-                "en": "Enjoy the view from the car with a hot drink in hand."
+                "en": "Enjoy the view from the car with a hot drink in hand.",
+                "hr": "Uživajte u pogledu iz automobila s toplim napitkom u ruci."
               }
             },
             {
@@ -1438,7 +1640,8 @@
                 "de": "Prüfen Sie vorher die Winteröffnungszeiten der Restaurants.",
                 "hu": "Előre ellenőrizze az éttermek téli nyitvatartását.",
                 "ro": "Verificați din timp programul de iarnă al restaurantelor.",
-                "en": "Check the winter opening hours of restaurants in advance."
+                "en": "Check the winter opening hours of restaurants in advance.",
+                "hr": "Unaprijed provjerite zimsko radno vrijeme restorana."
               }
             },
             {
@@ -1447,7 +1650,8 @@
                 "de": "Bester Aussichtspunkt für die tiefstehende Wintersonne.",
                 "hu": "A legjobb kilátópont az alacsonyan járó téli naphoz.",
                 "ro": "Cel mai bun punct de observație pentru soarele jos de iarnă.",
-                "en": "Best viewpoint for the low-hanging winter sun."
+                "en": "Best viewpoint for the low-hanging winter sun.",
+                "hr": "Najbolja točka za promatranje niskog zimskog sunca."
               }
             },
             {
@@ -1456,7 +1660,8 @@
                 "de": "Der Parkplatz direkt am Wasser ist im Winter fast leer.",
                 "hu": "A közvetlen vízparti parkoló télen szinte üres.",
                 "ro": "Parcarea de lângă apă este aproape goală iarna.",
-                "en": "The parking lot right by the water is nearly empty in winter."
+                "en": "The parking lot right by the water is nearly empty in winter.",
+                "hr": "Parkiralište tik uz more gotovo je prazno zimi."
               }
             },
             {
@@ -1465,7 +1670,8 @@
                 "de": "Nutzen Sie das letzte Tageslicht für die Besichtigung.",
                 "hu": "Használja ki az utolsó nappali fényeket a látogatáshoz.",
                 "ro": "Folosiți ultima lumină a zilei pentru vizită.",
-                "en": "Make use of the last daylight for your visit."
+                "en": "Make use of the last daylight for your visit.",
+                "hr": "Iskoristite posljednje dnevno svjetlo za svoj posjet."
               }
             }
           ],
@@ -1497,6 +1703,13 @@
               "Some coastal roads can be slick in the morning due to sea spray.",
               "Refuel in time, as some gas stations may have shorter winter hours.",
               "Take advantage of free parking at spots that are usually crowded."
+            ],
+            "hr": [
+              "Provjerite je li tekućina za pranje stakla otporna na mraz.",
+              "Bura može otežati vožnju na izloženim dionicama ceste.",
+              "Neke obalne ceste mogu biti skliske ujutro zbog morske posolice.",
+              "Natočite gorivo na vrijeme, jer neke benzinske postaje mogu imati kraće zimsko radno vrijeme.",
+              "Iskoristite besplatno parkiranje na mjestima koja su obično krcata."
             ]
           }
         }
@@ -1525,7 +1738,8 @@
             "de": "Zentraler Ankunftspunkt für Busse aus Trogir.",
             "hu": "Központi érkezési pont a Trogirból érkező buszoknak.",
             "ro": "Punct central de sosire pentru autobuzele din Trogir.",
-            "en": "Central arrival point for buses from Trogir."
+            "en": "Central arrival point for buses from Trogir.",
+            "hr": "Središnja točka dolaska autobusa iz Trogira."
           }
         },
         {
@@ -1543,7 +1757,8 @@
             "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
             "hu": "Csak pár perc séta a megállótól.",
             "ro": "La doar câteva minute de mers pe jos de stație.",
-            "en": "Just a few minutes' walk from the bus stop."
+            "en": "Just a few minutes' walk from the bus stop.",
+            "hr": "Svega nekoliko minuta hoda od autobusne stanice."
           }
         },
         {
@@ -1561,7 +1776,8 @@
             "de": "Ein schöner Spaziergang entlang der Straße.",
             "hu": "Kellemes séta az út mentén.",
             "ro": "O plimbare frumoasă de-a lungul drumului.",
-            "en": "A nice walk along the road."
+            "en": "A nice walk along the road.",
+            "hr": "Lijepa šetnja cestom."
           }
         },
         {
@@ -1579,7 +1795,8 @@
             "de": "Nutzen Sie den lokalen Bus oder das Wassertaxi.",
             "hu": "Használja a helyi buszt vagy a vízi taxit.",
             "ro": "Folosiți autobuzul local sau taxiul pe apă.",
-            "en": "Use the local bus or water taxi."
+            "en": "Use the local bus or water taxi.",
+            "hr": "Koristite lokalni autobus ili brodski taksi."
           }
         },
         {
@@ -1597,7 +1814,8 @@
             "de": "Genießen Sie die Meeresfrüchte direkt an der Riva.",
             "hu": "Élvezze a tenger gyümölcseit közvetlenül a riván.",
             "ro": "Bucurați-vă de fructele de mare direct pe faleză.",
-            "en": "Enjoy the seafood right on the Riva."
+            "en": "Enjoy the seafood right on the Riva.",
+            "hr": "Uživajte u plodovima mora izravno na rivi."
           }
         },
         {
@@ -1615,7 +1833,8 @@
             "de": "Ein ruhiger Ausklang des Tages.",
             "hu": "A nap csendes lezárása.",
             "ro": "O încheiere liniștită a zilei.",
-            "en": "A peaceful end to the day."
+            "en": "A peaceful end to the day.",
+            "hr": "Mirni završetak dana."
           }
         },
         {
@@ -1633,7 +1852,8 @@
             "de": "Prüfen Sie den aktuellen Busfahrplan.",
             "hu": "Ellenőrizze az aktuális buszmenetrendet.",
             "ro": "Verificați orarul actual al autobuzelor.",
-            "en": "Check the current bus timetable."
+            "en": "Check the current bus timetable.",
+            "hr": "Provjerite aktualni vozni red autobusa."
           }
         }
       ],
@@ -1641,7 +1861,8 @@
         "de": "Okrug lässt sich gut mit öffentlichen Verkehrsmitteln von Trogir aus erreichen. Starten Sie an der Hauptbushaltestelle und erkunden Sie die Kirchen sv. Karla Boromejskog und sv. Teodor zu Fuß. Danach bringt Sie der lokale Bus oder ein kurzer Spaziergang zum lebhaften Copacabana-Strand. Genießen Sie dort die Gastronomie, bevor Sie den Tag in der ruhigen Uvala Duboka ausklingen lassen.",
         "hu": "Okrug jól megközelíthető tömegközlekedéssel Trogirból. Kezdjen a fő buszmegállónál, és fedezze fel gyalog a sv. Karla Boromejskog és sv. Teodor templomokat. Ezután a helyi busz vagy egy rövid séta elviszi a nyüzsgő Copacabana strandra. Élvezze ott a vendéglátást, mielőtt a napot a csendes Uvala Dubokában zárná.",
         "ro": "Okrug este ușor accesibil cu transportul public din Trogir. Începeți la stația principală de autobuz și explorați pe jos bisericile sv. Karla Boromejskog și sv. Teodor. Apoi, autobuzul local sau o scurtă plimbare vă va duce la plaja animată Copacabana. Bucurați-vă de gastronomia locală înainte de a încheia ziua în liniștitul golf Uvala Duboka.",
-        "en": "Okrug is easily accessible by public transport from Trogir. Start at the main bus stop and explore the churches of sv. Karla Boromejskog and sv. Teodor on foot. Then, the local bus or a short walk will take you to the lively Copacabana beach. Enjoy the local gastronomy there before ending the day in the peaceful Uvala Duboka."
+        "en": "Okrug is easily accessible by public transport from Trogir. Start at the main bus stop and explore the churches of sv. Karla Boromejskog and sv. Teodor on foot. Then, the local bus or a short walk will take you to the lively Copacabana beach. Enjoy the local gastronomy there before ending the day in the peaceful Uvala Duboka.",
+        "hr": "Okrug je lako dostupan javnim prijevozom iz Trogira. Započnite na glavnoj autobusnoj stanici i pješice istražite crkve sv. Karla Boromejskog i sv. Teodora. Zatim će vas lokalni autobus ili kratka šetnja odvesti do živahne plaže Copacabana. Tamo uživajte u lokalnoj gastronomiji prije završetka dana u mirnoj uvali Duboka."
       },
       "gastro_picks": {
         "de": [
@@ -1666,6 +1887,12 @@
           {
             "name": "Local Cheese and Wine",
             "tip": "Taste them in the small shops or konobas."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni sir i vino",
+            "tip": "Kušajte ih u malim trgovinama ili konobama."
           }
         ]
       },
@@ -1697,6 +1924,13 @@
             "tip": "Beautiful nature path.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Staza do uvale Duboka",
+            "tip": "Prekrasna prirodna staza.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1723,6 +1957,12 @@
             "name": "Lavender Products",
             "tip": "A classic Dalmatian souvenir."
           }
+        ],
+        "hr": [
+          {
+            "name": "Proizvodi od lavande",
+            "tip": "Klasični dalmatinski suvenir."
+          }
         ]
       },
       "tips": {
@@ -1745,6 +1985,11 @@
           "Buy bus tickets from the driver.",
           "Buses run about every 30-60 minutes in summer.",
           "The water taxi to Trogir is a great alternative to the bus."
+        ],
+        "hr": [
+          "Kupite autobusne karte kod vozača.",
+          "Autobusi ljeti voze otprilike svakih 30-60 minuta.",
+          "Brodski taksi do Trogira izvrsna je alternativa autobusu."
         ]
       },
       "variants": {
@@ -1753,7 +1998,8 @@
             "de": "Beginnen Sie Ihren Tag an der Bushaltestelle in Okrug Gornji. Das Warten im Unterstand bietet Schutz, während Sie den ersten Bus nehmen, um zu den nahen Kirchen zu gelangen.\n\nNach der Besichtigung der historischen Stätten bietet der Bus eine trockene Verbindung zur Copacabana. Genießen Sie die Fahrt durch die graue Inselfellandschaft.\n\nEin spätes Mittagessen am Strand lässt Sie den Regen vergessen. Die Restaurants in der Nähe der Haltestellen sind ideal, um trocken zu bleiben.\n\nDer Tag endet mit der Rückfahrt ab Okrug Gornji. Planen Sie etwas Pufferzeit ein, da der Verkehr bei starkem Regen manchmal langsamer fließt.",
             "hu": "Kezdje a napot az Okrug Gornji-i buszmegállóban. A váróterem védelmet nyújt, amíg megérkezik az első járat a közeli templomokhoz.\n\nA történelmi helyszínek megtekintése után a busz száraz összeköttetést biztosít a Copacabana strandhoz. Élvezze az utazást a szürke szigeti tájon át.\n\nEgy késői ebéd a parton segít elfelejteni a rossz időt. A megállókhoz közeli éttermek ideálisak, hogy ne ázzon meg.\n\nA nap az Okrug Gornji-ból induló visszautazással zárul. Számoljon egy kis ráhagyással, mert az esőben a forgalom néha lassabb lehet.",
             "ro": "Începeți ziua la stația de autobuz din Okrug Gornji. Adăpostul oferă protecție în timp ce așteptați primul autobuz spre bisericile din apropiere.\n\nDupă vizitarea siturilor istorice, autobuzul vă oferă o legătură uscată către Copacabana. Bucurați-vă de călătoria prin peisajul gri al insulei.\n\nUn prânz târziu pe plajă vă va face să uitați de ploaie. Restaurantele din apropierea stațiilor sunt ideale pentru a rămâne uscați.\n\nZiua se încheie cu drumul de întoarcere din Okrug Gornji. Planificați puțin timp suplimentar, deoarece traficul poate fi mai lent pe ploaie.",
-            "en": "Start your day at the bus stop in Okrug Gornji. The shelter provides protection while you wait for the first bus to reach the nearby churches.\n\nAfter visiting the historical sites, the bus offers a dry connection to Copacabana. Enjoy the ride through the moody, grey island landscape.\n\nA late lunch by the beach helps you forget the rain. Restaurants near the bus stops are ideal for staying dry during the transition.\n\nThe day ends with the return journey from Okrug Gornji. Allow for some extra time as traffic can be slower during heavy rainfall."
+            "en": "Start your day at the bus stop in Okrug Gornji. The shelter provides protection while you wait for the first bus to reach the nearby churches.\n\nAfter visiting the historical sites, the bus offers a dry connection to Copacabana. Enjoy the ride through the moody, grey island landscape.\n\nA late lunch by the beach helps you forget the rain. Restaurants near the bus stops are ideal for staying dry during the transition.\n\nThe day ends with the return journey from Okrug Gornji. Allow for some extra time as traffic can be slower during heavy rainfall.",
+            "hr": "Započnite dan na autobusnoj stanici u Okrugu Gornjem. Nadstrešnica pruža zaštitu dok čekate prvi autobus do obližnjih crkava.\n\nNakon posjeta povijesnim znamenitostima, autobus nudi suhu vezu s Copacabanom. Uživajte u vožnji kroz sjetni, sivi otočki krajolik.\n\nKasni ručak uz plažu pomoći će vam da zaboravite kišu. Restorani u blizini autobusnih stanica idealni su da ostanete suhi tijekom presjedanja.\n\nDan završava povratnim putovanjem iz Okruga Gornjeg. Predvidite dodatno vrijeme jer promet može biti sporiji tijekom jakih oborina."
           },
           "stops": [
             {
@@ -1762,7 +2008,8 @@
                 "de": "Bleiben Sie im überdachten Bereich des Wartehäuschens.",
                 "hu": "Maradjon a váróterem fedett részén.",
                 "ro": "Stați în zona acoperită a stației.",
-                "en": "Stay inside the covered area of the bus shelter."
+                "en": "Stay inside the covered area of the bus shelter.",
+                "hr": "Ostanite unutar natkrivenog dijela autobusne stanice."
               }
             },
             {
@@ -1771,7 +2018,8 @@
                 "de": "Nur 2 Minuten Fußweg von der Haltestelle entfernt.",
                 "hu": "Csak 2 perc séta a legközelebbi megállótól.",
                 "ro": "Doar 2 minute de mers pe jos de la stație.",
-                "en": "Only a 2-minute walk from the bus stop."
+                "en": "Only a 2-minute walk from the bus stop.",
+                "hr": "Samo 2 minute hoda od autobusne stanice."
               }
             },
             {
@@ -1780,7 +2028,8 @@
                 "de": "Der Bus hält fast direkt vor dem Kirchengelände.",
                 "hu": "A busz szinte közvetlenül a templomkert előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața bisericii.",
-                "en": "The bus stops almost directly in front of the church grounds."
+                "en": "The bus stops almost directly in front of the church grounds.",
+                "hr": "Autobus staje gotovo izravno ispred crkvenog posjeda."
               }
             },
             {
@@ -1789,7 +2038,8 @@
                 "de": "Die Haltestelle bietet bei Regen wenig Schutz, Schirm nutzen.",
                 "hu": "A megálló itt kevés védelmet nyújt, használja az esernyőt.",
                 "ro": "Stația oferă puțin adăpost aici; folosiți umbrela.",
-                "en": "The stop here offers little shelter; keep your umbrella ready."
+                "en": "The stop here offers little shelter; keep your umbrella ready.",
+                "hr": "Stanica ovdje nudi malo zaklona; držite kišobran spreman."
               }
             },
             {
@@ -1798,7 +2048,8 @@
                 "de": "Wählen Sie ein Lokal in Sichtweite der Bushaltestelle.",
                 "hu": "Válasszon egy helyet a buszmegálló látótávolságában.",
                 "ro": "Alegeți un local cu vedere spre stația de autobuz.",
-                "en": "Pick a place within sight of the bus stop."
+                "en": "Pick a place within sight of the bus stop.",
+                "hr": "Odaberite mjesto u vidokrugu autobusne stanice."
               }
             },
             {
@@ -1807,7 +2058,8 @@
                 "de": "Prüfen Sie den Fahrplan für den letzten Bus vor dem Abend.",
                 "hu": "Ellenőrizze az utolsó járat menetrendjét estére.",
                 "ro": "Verificați programul pentru ultimul autobuz de seară.",
-                "en": "Check the schedule for the last bus of the evening."
+                "en": "Check the schedule for the last bus of the evening.",
+                "hr": "Provjerite vozni red za posljednji večernji autobus."
               }
             },
             {
@@ -1816,7 +2068,8 @@
                 "de": "Das Ticket kann meist direkt beim Fahrer gekauft werden.",
                 "hu": "A jegyet általában közvetlenül a sofőrnél is megveheti.",
                 "ro": "Biletul poate fi cumpărat de obicei direct de la șofer.",
-                "en": "Tickets can usually be bought directly from the driver."
+                "en": "Tickets can usually be bought directly from the driver.",
+                "hr": "Karte se obično mogu kupiti izravno kod vozača."
               }
             }
           ],
@@ -1848,6 +2101,13 @@
               "Keep your sightseeing close to stops to minimize time in the rain.",
               "Buses may experience delays during heavy rainfall.",
               "Carry a plastic bag for your wet umbrella when boarding the bus."
+            ],
+            "hr": [
+              "Koristite aplikaciju 'Promet Split' za praćenje autobusa u stvarnom vremenu.",
+              "Pripremite nešto sitniša za kupnju karata kod vozača.",
+              "Držite razgledavanje blizu stanica kako biste smanjili vrijeme na kiši.",
+              "Autobusi mogu kasniti tijekom jakih oborina.",
+              "Ponesite plastičnu vrećicu za mokri kišobran pri ulasku u autobus."
             ]
           }
         },
@@ -1856,7 +2116,8 @@
             "de": "Starten Sie Ihren Wintertag mit dem Bus in Okrug Gornji. Die Busse sind gut beheizt und bieten eine angenehme Fahrt durch die friedliche, winterliche Inselfellandschaft.\n\nBesuchen Sie die Kirchen von Okrug ohne den sommerlichen Trubel. Der Transit ermöglicht es Ihnen, sich zwischen den historischen Stopps im Warmen auszuruhen.\n\nEin gemütliches Mittagessen am Copacabana-Strand ist im Winter besonders entspannend. Die Haltestellen sind auch in der Nebensaison gut angebunden.\n\nBeenden Sie Ihren Tag früh in der Uvala Duboka, um den Sonnenuntergang zu sehen. Achten Sie auf die winterlichen Taktzeiten der Busse für eine sichere Rückfahrt in der frühen Dunkelheit.",
             "hu": "Kezdje a téli napot busszal Okrug Gornjiban. A járatok jól fűtöttek, így kellemes az utazás a békés, téli szigeti tájon át.\n\nLátogassa meg Okrug templomait a nyári tömeg nélkül. A busz lehetővé teszi, hogy a megállók között a melegben pihenjen.\n\nEgy hangulatos ebéd a Copacabana strandon télen különösen pihentető. A buszjáratok a főszezonon kívül is megbízhatóan közlekednek.\n\nA napot zárja korán a Duboka-öbölben a naplemente miatt. Figyeljen a téli menetrendre a biztonságos visszatéréshez a korai sötétségben.",
             "ro": "Începeți ziua de iarnă cu autobuzul în Okrug Gornji. Autobuzele sunt bine încălzite și oferă o călătorie plăcută prin peisajul liniștit al insulei.\n\nVizitați bisericile din Okrug fără agitația verii. Transportul public vă permite să vă odihniți la căldură între opririle istorice.\n\nUn prânz relaxant pe plaja Copacabana este deosebit de plăcut iarna. Stațiile de autobuz sunt bine deservite chiar și în extrasezon.\n\nÎncheiați ziua devreme la Golful Duboka pentru apus. Atenție la orarul de iarnă al autobuzelor pentru o întoarcere sigură pe întuneric.",
-            "en": "Start your winter day by bus in Okrug Gornji. The buses are well-heated and offer a pleasant ride through the peaceful winter island scenery.\n\nVisit the churches of Okrug without the summer hustle. Public transit allows you to stay warm while moving between historical sites.\n\nA cozy lunch at Copacabana beach is especially relaxing in winter. Bus connections remain reliable even during the off-season.\n\nEnd your day early at Duboka Bay to catch the sunset. Keep an eye on the winter bus schedule for a safe return journey in the early evening darkness."
+            "en": "Start your winter day by bus in Okrug Gornji. The buses are well-heated and offer a pleasant ride through the peaceful winter island scenery.\n\nVisit the churches of Okrug without the summer hustle. Public transit allows you to stay warm while moving between historical sites.\n\nA cozy lunch at Copacabana beach is especially relaxing in winter. Bus connections remain reliable even during the off-season.\n\nEnd your day early at Duboka Bay to catch the sunset. Keep an eye on the winter bus schedule for a safe return journey in the early evening darkness.",
+            "hr": "Započnite svoj zimski dan autobusom u Okrugu Gornjem. Autobusi su dobro grijani i nude ugodnu vožnju kroz mirni zimski otočki krajolik.\n\nPosjetite crkve u Okrugu bez ljetne vreve. Javni prijevoz omogućuje vam da ostanete na toplom dok se krećete između povijesnih mjesta.\n\nUgodan ručak na plaži Copacabana posebno je opuštajući zimi. Autobusne veze ostaju pouzdane čak i tijekom izvansezone.\n\nZavršite dan ranije u uvali Duboka kako biste uhvatili zalazak sunca. Pratite zimski vozni red za siguran povratak u ranu večernju tamu."
           },
           "stops": [
             {
@@ -1865,7 +2126,8 @@
                 "de": "Prüfen Sie den Winterfahrplan, da weniger Busse fahren.",
                 "hu": "Ellenőrizze a téli menetrendet, mert ritkábban járnak a buszok.",
                 "ro": "Verificați orarul de iarnă, autobuzele circulă mai rar.",
-                "en": "Check the winter schedule as buses run less frequently."
+                "en": "Check the winter schedule as buses run less frequently.",
+                "hr": "Provjerite zimski vozni red jer autobusi voze rjeđe."
               }
             },
             {
@@ -1874,7 +2136,8 @@
                 "de": "Nutzen Sie den Bus, um die kühle Bura-Luft zu meiden.",
                 "hu": "Használja a buszt, hogy elkerülje a hűvös bóra szelet.",
                 "ro": "Folosiți autobuzul pentru a evita vântul rece Bura.",
-                "en": "Use the bus to avoid the chilly Bura wind between stops."
+                "en": "Use the bus to avoid the chilly Bura wind between stops.",
+                "hr": "Koristite autobus kako biste izbjegli hladnu buru između stanica."
               }
             },
             {
@@ -1883,7 +2146,8 @@
                 "de": "Die Wartezeiten im Freien sollten kurz gehalten werden.",
                 "hu": "A szabadban való várakozást próbálja minimálisra csökkenteni.",
                 "ro": "Încercați să scurtați timpul de așteptare în exterior.",
-                "en": "Try to keep outdoor waiting times to a minimum."
+                "en": "Try to keep outdoor waiting times to a minimum.",
+                "hr": "Pokušajte svesti vrijeme čekanja na otvorenom na minimum."
               }
             },
             {
@@ -1892,7 +2156,8 @@
                 "de": "Busse halten hier seltener, planen Sie genau.",
                 "hu": "A buszok itt ritkábban állnak meg, tervezzen pontosan.",
                 "ro": "Autobuzele opresc mai rar aici; planificați cu atenție.",
-                "en": "Buses stop here less often; plan your visit precisely."
+                "en": "Buses stop here less often; plan your visit precisely.",
+                "hr": "Autobusi ovdje rjeđe staju; precizno planirajte svoj posjet."
               }
             },
             {
@@ -1901,7 +2166,8 @@
                 "de": "Wählen Sie ein Restaurant nahe der Bushaltestelle.",
                 "hu": "Válasszon éttermet a buszmegálló közvetlen közelében.",
                 "ro": "Alegeți un restaurant chiar lângă stația de autobuz.",
-                "en": "Choose a restaurant in the immediate vicinity of the bus stop."
+                "en": "Choose a restaurant in the immediate vicinity of the bus stop.",
+                "hr": "Odaberite restoran u neposrednoj blizini autobusne stanice."
               }
             },
             {
@@ -1910,7 +2176,8 @@
                 "de": "Der letzte Bus fährt im Winter oft früher ab.",
                 "hu": "A téli időszakban az utolsó busz gyakran korábban indul.",
                 "ro": "În perioada de iarnă, ultimul autobuz pleacă adesea mai devreme.",
-                "en": "In winter, the last bus often departs earlier than in summer."
+                "en": "In winter, the last bus often departs earlier than in summer.",
+                "hr": "Zimi posljednji autobus često polazi ranije nego ljeti."
               }
             },
             {
@@ -1919,7 +2186,8 @@
                 "de": "Im Bus ist es warm, perfekt zum Aufwärmen nach dem Tag.",
                 "hu": "A buszon meleg van, tökéletes a felmelegedéshez a nap végén.",
                 "ro": "În autobuz este cald, perfect pentru a vă încălzi după tur.",
-                "en": "The bus is heated, perfect for warming up after your tour."
+                "en": "The bus is heated, perfect for warming up after your tour.",
+                "hr": "Autobus je grijan, savršen za zagrijavanje nakon vaše ture."
               }
             }
           ],
@@ -1951,6 +2219,13 @@
               "Buses are much less crowded in winter compared to summer.",
               "Wear warm clothing for the waiting periods at bus stops.",
               "Ask locals for help if the online schedule seems unclear."
+            ],
+            "hr": [
+              "Učestalost autobusa značajno je smanjena tijekom zimskih mjeseci.",
+              "Posljednja povratna linija obično polazi prije 20:00 sati.",
+              "Autobusi su zimi mnogo manje krcati nego ljeti.",
+              "Nosite toplu odjeću za razdoblja čekanja na autobusnim stanicama.",
+              "Pitajte lokalno stanovništvo za pomoć ako se mrežni vozni red čini nejasan."
             ]
           }
         }

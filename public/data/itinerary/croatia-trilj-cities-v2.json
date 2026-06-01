@@ -31,7 +31,8 @@
             "de": "Entdecken Sie römische Artefakte aus dem nahegelegenen Lager Tilurium.",
             "hu": "Fedezze fel a közeli Tilurium római táborból származó leleteket.",
             "ro": "Descoperiți artefacte romane din tabăra Tilurium din apropiere.",
-            "en": "Explore Roman artifacts from the nearby Tilurium camp."
+            "en": "Explore Roman artifacts from the nearby Tilurium camp.",
+            "hr": "Istražite rimske artefakte iz obližnjeg logora Tilurij."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Genießen Sie den Blick auf den smaragdgrünen Fluss Cetina.",
             "hu": "Élvezze a kilátást a smaragdzöld Cetina-folyóra.",
             "ro": "Bucurați-vă de priveliștea râului Cetina de culoarea smaraldului.",
-            "en": "Enjoy the view of the emerald-green Cetina river."
+            "en": "Enjoy the view of the emerald-green Cetina river.",
+            "hr": "Uživajte u pogledu na smaragdno zelenu rijeku Cetinu."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Probieren Sie die berühmten Cetina-Forellen oder lokale Arambaši.",
             "hu": "Kóstolja meg a híres cetinai pisztrángot vagy a helyi arambašit.",
             "ro": "Gustați păstrăvul faimos din Cetina sau arambași locali.",
-            "en": "Try the famous Cetina trout or local Arambaši."
+            "en": "Try the famous Cetina trout or local Arambaši.",
+            "hr": "Probajte poznatu cetinsku pastrvu ili lokalne arambaše."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein entspannender Weg entlang des kühlen Flussufers.",
             "hu": "Pihentető séta a hűvös folyópart mentén.",
             "ro": "O plimbare relaxantă de-a lungul malului răcoros al râului.",
-            "en": "A relaxing walk along the cool riverbank."
+            "en": "A relaxing walk along the cool riverbank.",
+            "hr": "Opuštajuća šetnja uz hladnu obalu rijeke."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Wanderung zu den Ruinen mit Blick auf den Canyon.",
             "hu": "Túra a romokhoz, ahonnan kilátás nyílik a kanyonra.",
             "ro": "Drumeție spre ruine cu vedere la canion.",
-            "en": "Hike to the ruins overlooking the canyon."
+            "en": "Hike to the ruins overlooking the canyon.",
+            "hr": "Pješačite do ruševina s pogledom na kanjon."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Spektakuläre Farben über der Cetina-Schlucht.",
             "hu": "Látványos színek a Cetina-szurdok felett.",
             "ro": "Culori spectaculoase deasupra defileului Cetina.",
-            "en": "Spectacular colors over the Cetina canyon."
+            "en": "Spectacular colors over the Cetina canyon.",
+            "hr": "Spektakularne boje iznad kanjona Cetine."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Trilj ist das Herz des dalmatinischen Hinterlandes. Ihr Vormittag beginnt im Lokalmuseum mit antiken Schätzen. Nach einem Spaziergang über die Brücke genießen Sie die berühmte Gastronomie am Fluss. Der Nachmittag führt Sie zu den Ruinen der Festung Nutjak, wo die wilde Cetina-Schlucht zu Ihren Füßen liegt.",
         "hu": "Trilj a dalmát hátország szíve. A délelőtt a helyi múzeumban indul antik kincsekkel. A hídon tett séta után élvezze a híres folyóparti gasztronómiát. A délután a Nutjak-erőd romjaihoz vezet, ahol a vad Cetina-szurdok terül el a lábai előtt.",
         "ro": "Trilj este inima hinterlandului dalmat. Dimineața începe la muzeul local cu comori antice. După o plimbare pe pod, savurați gastronomia faimoasă de pe malul râului. După-amiaza vă duce la ruinele cetății Nutjak, unde defileul sălbatic al Cetinei se întinde la picioarele voastre.",
-        "en": "Trilj is the heart of the Dalmatian hinterland. Your morning begins at the local museum with ancient treasures. After a stroll across the bridge, enjoy the famous riverside gastronomy. The afternoon leads you to the ruins of Nutjak fortress, where the wild Cetina canyon lies at your feet."
+        "en": "Trilj is the heart of the Dalmatian hinterland. Your morning begins at the local museum with ancient treasures. After a stroll across the bridge, enjoy the famous riverside gastronomy. The afternoon leads you to the ruins of Nutjak fortress, where the wild Cetina canyon lies at your feet.",
+        "hr": "Trilj je srce dalmatinskog zaleđa. Vaše jutro počinje u lokalnom muzeju s antičkim blagom. Nakon šetnje preko mosta, uživajte u poznatoj gastronomiji uz rijeku. Poslijepodne vas vodi do ruševina utvrde Nutjak, gdje vam pod nogama leži divlji kanjon Cetine."
       },
       "gastro_picks": {
         "de": [
@@ -154,6 +161,12 @@
           {
             "name": "Konoba Cetina",
             "tip": "Homemade cheese and fresh fish directly from the river."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Cetina",
+            "tip": "Domaći sir i svježa riba izravno iz rijeke."
           }
         ]
       },
@@ -185,6 +198,13 @@
             "tip": "Quiet spot in the shade of willow trees.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obala Cetine",
+            "tip": "Mirno mjesto u hladu vrba.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -211,6 +231,12 @@
             "name": "Local Market",
             "tip": "Honey and olive oil from the region."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica",
+            "tip": "Med i maslinovo ulje iz regije."
+          }
         ]
       },
       "tips": {
@@ -233,6 +259,11 @@
           "Wear comfortable hiking boots for the path to Nutjak.",
           "The water temperature of Cetina is very refreshing even in summer.",
           "Visit Trilj in September for local festivals."
+        ],
+        "hr": [
+          "Nosite udobne planinarske cipele za stazu do Nutjaka.",
+          "Temperatura vode Cetine vrlo je osvježavajuća čak i ljeti.",
+          "Posjetite Trilj u rujnu zbog lokalnih festivala."
         ]
       },
       "variants": {
@@ -241,7 +272,8 @@
             "de": "Beginnen Sie den Tag im Museum, um den Regenschauern zu entgehen. Mittags genießen Sie lokale Spezialitäten in einer gemütlichen Konoba am Flussufer. Am Nachmittag ermöglicht eine Regenpause einen kurzen Spaziergang zur Brücke und zur Festung Nutjak, wo der Nebel dem Canyon eine mystische Atmosphäre verleiht. Den Abend lassen Sie bei einem warmen Getränk im Stadtzentrum ausklingen.",
             "hu": "A napot a múzeumban indítjuk, védve az esőtől. Ebédre egy vízparti konobát választunk, ahol a Cetina morajlását hallgathatjuk. Délután, az eső csendesedésekor teszünk egy gyors sétát a hídon és Nutjak váránál, ahol a köd különleges, misztikus hangulatot áraszt a kanyon felett. Az estét egy forró ital mellett, fedett helyen zárjuk.",
             "ro": "Începeți ziua la muzeu pentru a evita ploaia de dimineață. Prânzul este savurat într-o konoba primitoare pe malul râului. După-amiaza, profităm de o pauză a ploii pentru o scurtă plimbare la pod și la fortăreața Nutjak, unde ceața oferă canionului o atmosferă mistică. Seara se încheie confortabil, cu o băutură caldă în centrul orașului.",
-            "en": "Start the day at the museum to escape the morning showers. For lunch, enjoy local specialties in a cozy riverside tavern. In the afternoon, a break in the rain allows for a quick walk to the bridge and Nutjak fortress, where the mist adds a mystical atmosphere to the canyon. End the evening with a warm drink in the town center."
+            "en": "Start the day at the museum to escape the morning showers. For lunch, enjoy local specialties in a cozy riverside tavern. In the afternoon, a break in the rain allows for a quick walk to the bridge and Nutjak fortress, where the mist adds a mystical atmosphere to the canyon. End the evening with a warm drink in the town center.",
+            "hr": "Započnite dan u muzeju kako biste izbjegli jutarnje pljuskove. Za ručak uživajte u lokalnim specijalitetima u ugodnoj konobi uz rijeku. Poslijepodne, stanka u kiši omogućuje brzu šetnju do mosta i utvrde Nutjak, gdje magla dodaje mističnu atmosferu kanjonu. Večer završite toplim napitkom u centru grada."
           },
           "stops": [
             {
@@ -250,7 +282,8 @@
                 "de": "Idealer Zufluchtsort bei Regen, erkunden Sie die Funde von Tilurium im Trockenen.",
                 "hu": "Tökéletes menedék esőben, fedett helyen ismerhetjük meg a római kori leleteket.",
                 "ro": "Refugiu ideal pe ploaie, explorați descoperirile din Tilurium la adăpost.",
-                "en": "Perfect refuge from the rain, explore the Tilurium finds in a dry environment."
+                "en": "Perfect refuge from the rain, explore the Tilurium finds in a dry environment.",
+                "hr": "Savršeno utočište od kiše, istražite nalaze Tilurija u suhom okruženju."
               }
             },
             {
@@ -259,7 +292,8 @@
                 "de": "Vorsicht, der Boden kann rutschig sein; genießen Sie den Blick auf den steigenden Fluss.",
                 "hu": "Vigyázat, a járófelület csúszós lehet; nézze meg a megduzzadt Cetina folyót.",
                 "ro": "Atenție, suprafața poate fi alunecoasă; admirați debitul crescut al râului.",
-                "en": "Caution, the surface may be slippery; enjoy the view of the rising river."
+                "en": "Caution, the surface may be slippery; enjoy the view of the rising river.",
+                "hr": "Oprez, površina može biti skliska; uživajte u pogledu na nabujalu rijeku."
               }
             },
             {
@@ -268,7 +302,8 @@
                 "de": "Wählen Sie einen Tisch am Fenster, um das Regenwetter über der Cetina zu beobachten.",
                 "hu": "Válasszon ablak melletti asztalt, és figyelje az esőt a Cetina felett.",
                 "ro": "Alegeți o masă lângă fereastră pentru a urmări ploaia peste râul Cetina.",
-                "en": "Pick a window seat to watch the rain falling over the Cetina river."
+                "en": "Pick a window seat to watch the rain falling over the Cetina river.",
+                "hr": "Odaberite mjesto uz prozor kako biste promatrali kišu nad Cetinom."
               }
             },
             {
@@ -277,7 +312,8 @@
                 "de": "Ein stabiler Regenschirm ist bei den Windböen am Flussufer unerlässlich.",
                 "hu": "Egy erős esernyő elengedhetetlen a folyóparti széllökések miatt.",
                 "ro": "O umbrelă rezistentă este esențială din cauza rafalelor de vânt de pe mal.",
-                "en": "A sturdy umbrella is essential due to the wind gusts along the river."
+                "en": "A sturdy umbrella is essential due to the wind gusts along the river.",
+                "hr": "Čvrst kišobran je neophodan zbog naleta vjetra uz rijeku."
               }
             },
             {
@@ -286,7 +322,8 @@
                 "de": "Die Pfade sind schlammig; wasserfeste Wanderschuhe sind absolut notwendig.",
                 "hu": "Az ösvények sárosak; vízálló túrabakancs használata kötelező.",
                 "ro": "Potecile sunt noroioase; bocancii impermeabili sunt absolut necesari.",
-                "en": "The paths are muddy; waterproof hiking boots are strictly necessary."
+                "en": "The paths are muddy; waterproof hiking boots are strictly necessary.",
+                "hr": "Staze su blatnjave; vodootporne planinarske cipele su strogo potrebne."
               }
             },
             {
@@ -295,7 +332,8 @@
                 "de": "Bei Regen oft neblig; die dramatischen Wolkenformationen sind dennoch fotogen.",
                 "hu": "Esőben gyakran ködös, de a drámai felhők látványa így is fotogén.",
                 "ro": "Adesea cețos pe ploaie; norii dramatici sunt totuși foarte fotogenici.",
-                "en": "Often misty in the rain; the dramatic cloud formations are still photogenic."
+                "en": "Often misty in the rain; the dramatic cloud formations are still photogenic.",
+                "hr": "Često maglovito na kiši; dramatične formacije oblaka i dalje su fotogenične."
               }
             }
           ],
@@ -327,6 +365,13 @@
               "Wear non-slip soles as the stone paths in Trilj become very slippery.",
               "Enjoy local Cetina trout in the heated interiors of the taverns.",
               "A raincoat is more practical than an umbrella in the windy canyon area."
+            ],
+            "hr": [
+              "Iskoristite razmake između pljuskova za vanjske posjete utvrdi.",
+              "Unutrašnjost muzeja pruža izvrstan zaklon tijekom jakih pljuskova.",
+              "Nosite potplate koji se ne kližu jer kamene staze u Trilju postaju vrlo skliske.",
+              "Uživajte u lokalnoj cetinskoj pastrvi u grijanim prostorima konoba.",
+              "Kabanica je praktičnija od kišobrana u vjetrovitom području kanjona."
             ]
           }
         },
@@ -335,7 +380,8 @@
             "de": "Erkunden Sie Trilj an einem klaren Wintertag. Die frische Luft macht den Besuch im Museum am Morgen besonders angenehm. Mittags wärmen Sie sich mit herzhaften Eintöpfen in einer lokalen Gaststätte auf. Der Nachmittag führt zur Festung Nutjak, wo die tiefstehende Wintersonne den Canyon in goldenes Licht taucht. Wegen des frühen Sonnenuntergangs gegen 16:30 Uhr endet die Tour rechtzeitig im gemütlichen Cafe.",
             "hu": "Fedezze fel Triljt egy tiszta téli napon. A friss levegő után a múzeum fűtött terei jól fognak esni délelőtt. Ebédre válasszon tápláló helyi ételeket, mint a sinji arambaši. Délután a Nutjak várához sétálunk, ahol az alacsony téli nap aranyba vonja a kanyont. A korai, 16:30-as naplemente után már egy meleg kávézóban pihenünk.",
             "ro": "Explorați Trilj într-o zi senină de iarnă. Aerul proaspăt face vizita la muzeu de dimineață foarte plăcută. La prânz, încălziți-vă cu preparate locale consistente. După-amiaza duce spre fortăreața Nutjak, unde soarele palid de iarnă scaldă canionul în lumină aurie. Din cauza apusului devreme, în jurul orei 16:30, turul se încheie la o cafenea primitoare.",
-            "en": "Explore Trilj on a crisp winter day. The fresh air makes the morning museum visit particularly pleasant. At lunch, warm up with hearty stews in a local eatery. The afternoon leads to Nutjak fortress, where the low winter sun bathes the canyon in golden light. Due to the early sunset around 4:30 PM, the tour ends perfectly in a cozy cafe."
+            "en": "Explore Trilj on a crisp winter day. The fresh air makes the morning museum visit particularly pleasant. At lunch, warm up with hearty stews in a local eatery. The afternoon leads to Nutjak fortress, where the low winter sun bathes the canyon in golden light. Due to the early sunset around 4:30 PM, the tour ends perfectly in a cozy cafe.",
+            "hr": "Istražite Trilj u vedrom zimskom danu. Svjež zrak čini jutarnji posjet muzeju posebno ugodnim. Za ručak se zagrijte krepkim varivima u lokalnom restoranu. Poslijepodne vodi do utvrde Nutjak, gdje nisko zimsko sunce kupa kanjon u zlatnom svjetlu. Zbog ranog zalaska sunca oko 16:30, tura savršeno završava u ugodnom kafiću."
           },
           "stops": [
             {
@@ -344,7 +390,8 @@
                 "de": "Gut beheizte Räume; perfekt, um sich vor dem weiteren Spaziergang aufzuwärmen.",
                 "hu": "Jól fűtött helyiségek; tökéletes bemelegítés a további séta előtt.",
                 "ro": "Spații bine încălzite; perfect pentru a vă încălzi înainte de restul plimbării.",
-                "en": "Well-heated rooms; perfect for warming up before continuing the walk."
+                "en": "Well-heated rooms; perfect for warming up before continuing the walk.",
+                "hr": "Dobro zagrijane prostorije; savršeno za zagrijavanje prije nastavka šetnje."
               }
             },
             {
@@ -353,7 +400,8 @@
                 "de": "Bei Bura-Wind sehr kalt; achten Sie auf mögliche Glätte auf den Steinen.",
                 "hu": "Bura szélben nagyon hideg; figyeljen az esetleges jegesedésre a köveken.",
                 "ro": "Foarte frig când bate vântul Bura; atenție la gheața de pe pietre.",
-                "en": "Very cold during Bura wind; watch out for possible ice on the stones."
+                "en": "Very cold during Bura wind; watch out for possible ice on the stones.",
+                "hr": "Vrlo hladno tijekom bure; pripazite na mogući led na kamenju."
               }
             },
             {
@@ -362,7 +410,8 @@
                 "de": "Fragen Sie nach Sinjski Arambaši, einem typischen Wintergericht der Region.",
                 "hu": "Kérjen sinji arambašit, a régió jellegzetes téli ételét.",
                 "ro": "Cereți Sinjski Arambaši, un preparat tradițional de iarnă din regiune.",
-                "en": "Ask for Sinjski Arambaši, a typical regional winter dish."
+                "en": "Ask for Sinjski Arambaši, a typical regional winter dish.",
+                "hr": "Tražite sinjske arambaše, tipično regionalno zimsko jelo."
               }
             },
             {
@@ -371,7 +420,8 @@
                 "de": "Tragen Sie warme Kleidung; die Luftfeuchtigkeit am Fluss verstärkt die Kälte.",
                 "hu": "Öltözzön rétegesen; a folyóparti pára miatt hidegebbnek érződik az idő.",
                 "ro": "Purtați haine groase; umiditatea de lângă râu accentuează senzația de frig.",
-                "en": "Dress warmly; the humidity near the river increases the chill factor."
+                "en": "Dress warmly; the humidity near the river increases the chill factor.",
+                "hr": "Toplo se obucite; vlaga u blizini rijeke povećava osjećaj hladnoće."
               }
             },
             {
@@ -380,7 +430,8 @@
                 "de": "Beste Zeit ist 15:00 Uhr für das goldene Licht vor dem Sonnenuntergang.",
                 "hu": "A legjobb időpont 15:00 óra az aranyló fényekhez a naplemente előtt.",
                 "ro": "Momentul ideal este ora 15:00 pentru lumina aurie de dinaintea apusului.",
-                "en": "The best time is 3:00 PM for the golden light before sunset."
+                "en": "The best time is 3:00 PM for the golden light before sunset.",
+                "hr": "Najbolje vrijeme je 15:00 sati za zlatno svjetlo prije zalaska sunca."
               }
             },
             {
@@ -389,7 +440,8 @@
                 "de": "Die Sonne verschwindet im Winter früh hinter den Bergen; bringen Sie eine Taschenlampe mit.",
                 "hu": "A nap télen korán eltűnik a hegyek mögött; legyen önnél zseblámpa.",
                 "ro": "Soarele apune devreme după munți iarna; aduceți o lanternă pentru întoarcere.",
-                "en": "The sun sets early behind the mountains in winter; bring a flashlight."
+                "en": "The sun sets early behind the mountains in winter; bring a flashlight.",
+                "hr": "Sunce zimi rano zalazi iza planina; ponesite svjetiljku."
               }
             }
           ],
@@ -421,6 +473,13 @@
               "Schedule all outdoor activities before 4:00 PM.",
               "Warm up periodically with hot tea in the local cafes.",
               "Sturdy boots protect against the ground cold on the nature trails."
+            ],
+            "hr": [
+              "Nosite odjeću otpornu na vjetar, posebno ako puše bura.",
+              "Zimsko sunce je jako, ali sjene u kanjonu su vrlo hladne.",
+              "Planirajte sve aktivnosti na otvorenom prije 16:00 sati.",
+              "Povremeno se zagrijte vrućim čajem u lokalnim kafićima.",
+              "Čvrste čizme štite od hladnoće tla na prirodnim stazama."
             ]
           }
         }
@@ -449,7 +508,8 @@
             "de": "Bewundern Sie die jahrhundertealten Wassermühlen am Fluss Grab.",
             "hu": "Csodálja meg az évszázados vízimalmokat a Grab-folyónál.",
             "ro": "Admirați morile de apă vechi de secole de pe râul Grab.",
-            "en": "Admire the centuries-old water mills on the Grab river."
+            "en": "Admire the centuries-old water mills on the Grab river.",
+            "hr": "Divite se stoljetnim mlinicama na rijeci Grab."
           }
         },
         {
@@ -467,7 +527,8 @@
             "de": "Historische Ausgrabungen auf dem Hügel von Gardun.",
             "hu": "Történelmi ásatások a Gardun-dombon.",
             "ro": "Săpături istorice pe dealul Gardun.",
-            "en": "Historical excavations on the hill of Gardun."
+            "en": "Historical excavations on the hill of Gardun.",
+            "hr": "Povijesna iskapanja na brdu Gardun."
           }
         },
         {
@@ -485,7 +546,8 @@
             "de": "Eine wohlverdiente Pause nach dem Aufstieg nach Gardun.",
             "hu": "Megérdemelt pihenő a garduni emelkedő után.",
             "ro": "O pauză binemeritată după urcarea spre Gardun.",
-            "en": "A well-deserved break after the climb to Gardun."
+            "en": "A well-deserved break after the climb to Gardun.",
+            "hr": "Zasluženi odmor nakon uspona na Gardun."
           }
         },
         {
@@ -503,7 +565,8 @@
             "de": "Das Wahrzeichen der Stadt Trilj.",
             "hu": "Trilj városának jelképe.",
             "ro": "Simbolul orașului Trilj.",
-            "en": "The landmark of Trilj city."
+            "en": "The landmark of Trilj city.",
+            "hr": "Simbol grada Trilja."
           }
         },
         {
@@ -521,7 +584,8 @@
             "de": "Schließen Sie die historische Reise hier ab.",
             "hu": "Zárja itt a történelmi utazást.",
             "ro": "Încheiați călătoria istorică aici.",
-            "en": "Complete the historical journey here."
+            "en": "Complete the historical journey here.",
+            "hr": "Ovdje završite svoje povijesno putovanje."
           }
         }
       ],
@@ -529,7 +593,8 @@
         "de": "Diese Radtour verbindet die Naturquellen von Grab mit der römischen Geschichte von Tilurium. Die Route nach Grab ist flach und idyllisch, während der Aufstieg nach Gardun Ihre Ausdauer fordert, aber mit einem atemberaubenden Panorama belohnt.",
         "hu": "Ez a kerékpártúra összeköti Grab természeti forrásait Tilurium római történelmével. Az út Grab felé sík és idilli, míg a Gardunra való feljutás próbára teszi az állóképességét, de lélegzetelállító panorámával jutalmaz.",
         "ro": "Acest tur cu bicicleta combină izvoarele naturale din Grab cu istoria romană din Tilurium. Traseul spre Grab este plat și idilic, în timp ce urcarea spre Gardun vă testează rezistența, dar vă răsplătește cu o panoramă uluitoare.",
-        "en": "This bike tour connects the natural springs of Grab with the Roman history of Tilurium. The route to Grab is flat and idyllic, while the climb to Gardun tests your endurance but rewards you with a breathtaking panorama."
+        "en": "This bike tour connects the natural springs of Grab with the Roman history of Tilurium. The route to Grab is flat and idyllic, while the climb to Gardun tests your endurance but rewards you with a breathtaking panorama.",
+        "hr": "Ova biciklistička tura povezuje prirodne izvore Graba s rimskom poviješću Tilurija. Ruta do Graba je ravna i idilična, dok uspon na Gardun testira vašu izdržljivost, ali vas nagrađuje panoramom koja oduzima dah."
       },
       "gastro_picks": {
         "de": [
@@ -554,6 +619,12 @@
           {
             "name": "Restoran Premijer",
             "tip": "Known for local game dishes and pâtés."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Premijer",
+            "tip": "Poznat po jelima od divljači i paštetama."
           }
         ]
       },
@@ -585,6 +656,13 @@
             "tip": "Magical spring surrounded by old mills.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Izvor Graba",
+            "tip": "Magični izvor okružen starim mlinicama.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -611,6 +689,12 @@
             "name": "Grab Mill",
             "tip": "Buy freshly ground flour directly from the mill."
           }
+        ],
+        "hr": [
+          {
+            "name": "Mlinice Grab",
+            "tip": "Kupite svježe mljeveno brašno izravno iz mlina."
+          }
         ]
       },
       "tips": {
@@ -633,6 +717,11 @@
           "Check your brakes before descending from Gardun.",
           "There are many shaded picnic spots in Grab.",
           "The roads are mostly low-traffic."
+        ],
+        "hr": [
+          "Provjerite kočnice prije spuštanja s Garduna.",
+          "U Grabu ima mnogo sjenovitih mjesta za piknik.",
+          "Ceste su uglavnom s malo prometa."
         ]
       },
       "variants": {
@@ -641,7 +730,8 @@
             "de": "Eine nasse, aber erfrischende Tour durch das Triljer Hinterland. Am Vormittag besuchen wir die Grab-Mühlen, wo das Wasser heute besonders laut tost. Mittags suchen wir Schutz in einem Restaurant am Fluss. Die Fahrt zum römischen Lager Tilurium erfordert bei Regen Konzentration, bietet aber einsame Wege. Die Tour endet mit einem kulturellen Stopp im Museum, während das Fahrrad sicher draußen parkt.",
             "hu": "Vizes, de frissítő túra Trilj környékén. Délelőtt a Grabi malmokat nézzük meg, ahol a víz morajlása esőben még hangosabb. Ebédre egy folyóparti étteremben keresünk menedéket. A Tilurium római táborhoz vezető út esőben több koncentrációt igényel, de csendes utakat ígér. A napot a múzeumban zárjuk, ahol fedett helyen kulturálódhatunk.",
             "ro": "O tură umedă, dar revigorantă prin împrejurimile orașului Trilj. Dimineața vizităm morile din Grab, unde vuietul apei este mai puternic pe ploaie. La prânz căutăm adăpost într-un restaurant de pe malul râului. Drumul spre tabăra romană Tilurium necesită concentrare pe ploaie, dar oferă drumuri pustii. Turul se încheie cu o vizită culturală la muzeu.",
-            "en": "A wet but refreshing bike tour through the Trilj hinterland. In the morning, we visit the Grab mills, where the water roars louder in the rain. For lunch, seek shelter in a riverside restaurant. The ride to the Tilurium Roman camp requires focus in the rain but offers quiet roads. The tour ends with a cultural stop at the museum while you dry off."
+            "en": "A wet but refreshing bike tour through the Trilj hinterland. In the morning, we visit the Grab mills, where the water roars louder in the rain. For lunch, seek shelter in a riverside restaurant. The ride to the Tilurium Roman camp requires focus in the rain but offers quiet roads. The tour ends with a cultural stop at the museum while you dry off.",
+            "hr": "Mokra, ali osvježavajuća biciklistička tura kroz triljsko zaleđe. Ujutro posjećujemo mlinice na Grabu, gdje voda na kiši šumi još jače. Za ručak potražite zaklon u restoranu uz rijeku. Vožnja do rimskog logora Tilurij zahtijeva fokus na kiši, ali nudi mirne ceste. Tura završava kulturnim zaustavljanjem u muzeju dok se sušite."
           },
           "stops": [
             {
@@ -650,7 +740,8 @@
                 "de": "Die Holzstege sind bei Nässe extrem rutschig; schieben Sie das Fahrrad lieber.",
                 "hu": "A fapallók esőben rendkívül csúszósak; inkább tolja a kerékpárt.",
                 "ro": "Podețele de lemn sunt extrem de alunecoase pe ploaie; mai bine împingeți bicicleta.",
-                "en": "The wooden walkways are extremely slippery when wet; better push your bike."
+                "en": "The wooden walkways are extremely slippery when wet; better push your bike.",
+                "hr": "Drvene staze su izuzetno skliske kad su mokre; radije gurajte bicikl."
               }
             },
             {
@@ -659,7 +750,8 @@
                 "de": "Offenes Gelände; achten Sie auf Windböen beim Bergauffahren.",
                 "hu": "Nyitott terep; figyeljen a széllökésekre a felfelé vezető úton.",
                 "ro": "Teren deschis; atenție la rafalele de vânt în timpul urcării.",
-                "en": "Open terrain; watch out for wind gusts while cycling uphill."
+                "en": "Open terrain; watch out for wind gusts while cycling uphill.",
+                "hr": "Otvoren teren; pazite na nalete vjetra tijekom vožnje uzbrdo."
               }
             },
             {
@@ -668,7 +760,8 @@
                 "de": "Nutzen Sie die Zeit zum Trocknen Ihrer Kleidung; fragen Sie nach einem Heizkörper.",
                 "hu": "Használja ki az időt a ruhái szárítására; kérdezzen rá a fűtőtestre.",
                 "ro": "Folosiți timpul pentru a vă usca hainele; întrebați de un calorifer.",
-                "en": "Use the time to dry your gear; ask for a radiator if available."
+                "en": "Use the time to dry your gear; ask for a radiator if available.",
+                "hr": "Iskoristite vrijeme za sušenje opreme; pitajte za radijator ako je dostupan."
               }
             },
             {
@@ -677,7 +770,8 @@
                 "de": "Bremsen Sie frühzeitig; die Markierungen auf der Brücke sind glatt.",
                 "hu": "Fékezzen időben; a hídon lévő útburkolati jelek csúsznak.",
                 "ro": "Frânați din timp; marcajele rutiere de pe pod sunt alunecoase.",
-                "en": "Brake early; the road markings on the bridge are slippery."
+                "en": "Brake early; the road markings on the bridge are slippery.",
+                "hr": "Kočite ranije; oznake na cesti na mostu su skliske."
               }
             },
             {
@@ -686,7 +780,8 @@
                 "de": "Sicherer Abstellplatz für Fahrräder vorhanden; idealer Abschluss im Trockenen.",
                 "hu": "Biztonságos kerékpárparkoló elérhető; ideális befejezés száraz helyen.",
                 "ro": "Loc sigur de parcare pentru biciclete; final ideal la adăpost.",
-                "en": "Safe bike parking available; ideal ending in a dry place."
+                "en": "Safe bike parking available; ideal ending in a dry place.",
+                "hr": "Dostupan siguran parking za bicikle; idealan završetak na suhom mjestu."
               }
             }
           ],
@@ -718,6 +813,13 @@
               "Wear a waterproof but breathable cycling jacket.",
               "Look out for small covered shelters along the Cetina river.",
               "Check tire pressure for better grip on wet roads."
+            ],
+            "hr": [
+              "Dobri blatobrani su neophodni na makadamskim cestama do Graba.",
+              "Izbjegavajte naglo kočenje na mokrom asfaltu ili kamenim površinama.",
+              "Nosite vodootpornu, ali prozračnu biciklističku jaknu.",
+              "Potražite male natkrivene zaklone uz rijeku Cetinu.",
+              "Provjerite tlak u gumama za bolje prianjanje na mokrim cestama."
             ]
           }
         },
@@ -726,7 +828,8 @@
             "de": "Eine frostige, aber sonnige Wintertour. Wir starten früh in Grab, um die Eiszapfen an den alten Mühlen zu sehen. Der Anstieg nach Tilurium hält den Körper warm, oben bietet sich ein klarer Blick auf die schneebedeckten Berge. Nach einem wärmenden Mittagessen in Trilj führt der Weg über die Brücke direkt zum Museum, wo wir den Tag gemütlich ausklingen lassen.",
             "hu": "Fagyos, de napsütéses téli túra. Korán indulunk Grabba, hogy lássuk a jégcsapokat a régi malmoknál. A Tiluriumhoz vezető emelkedő segít melegen tartani a testet, fentről tiszta kilátás nyílik a havas hegyekre. Egy meleg trilji ebéd után a hídon át egyenesen a múzeumba megyünk, ahol kényelmesen fejezzük be a napot.",
             "ro": "O tură de iarnă geroasă, dar însorită. Pornim devreme spre Grab pentru a vedea țurțurii la vechile mori. Urcarea spre Tilurium menține corpul cald, iar de sus se vede clar spre munții înzăpeziți. După un prânz cald în Trilj, drumul peste pod ne duce direct la muzeu, unde încheiem ziua confortabil.",
-            "en": "A frosty but sunny winter bike tour. We start early in Grab to see the icicles on the old mills. The climb to Tilurium keeps the body warm, and the top offers a clear view of the snowy mountains. After a warming lunch in Trilj, the path over the bridge leads straight to the museum for a cozy finale."
+            "en": "A frosty but sunny winter bike tour. We start early in Grab to see the icicles on the old mills. The climb to Tilurium keeps the body warm, and the top offers a clear view of the snowy mountains. After a warming lunch in Trilj, the path over the bridge leads straight to the museum for a cozy finale.",
+            "hr": "Prohladna, ali sunčana zimska biciklistička tura. Krećemo rano u Grabu kako bismo vidjeli ledenice na starim mlinicama. Uspon na Tilurij održava tijelo toplim, a vrh nudi jasan pogled na snježne planine. Nakon toplog ručka u Trilju, put preko mosta vodi ravno u muzej za ugodan završetak."
           },
           "stops": [
             {
@@ -735,7 +838,8 @@
                 "de": "Oft gefrorene Pfützen am Morgen; fahren Sie vorsichtig in den schattigen Bereichen.",
                 "hu": "Reggelente gyakoriak a fagyott tócsák; óvatosan hajtson az árnyékos részeken.",
                 "ro": "Bălți înghețate dimineața; conduceți cu prudență în zonele umbrite.",
-                "en": "Frozen puddles are common in the morning; ride carefully in shaded areas."
+                "en": "Frozen puddles are common in the morning; ride carefully in shaded areas.",
+                "hr": "Zaleđene lokve su česte ujutro; vozite oprezno u sjenovitim područjima."
               }
             },
             {
@@ -744,7 +848,8 @@
                 "de": "Sehr windexponiert; ziehen Sie eine extra Schicht für die Abfahrt an.",
                 "hu": "Nagyon szeles hely; vegyen fel egy plusz réteget a leereszkedés előtt.",
                 "ro": "Expus la vânt; puneți un strat suplimentar de haine pentru coborâre.",
-                "en": "Very exposed to wind; put on an extra layer for the downhill ride."
+                "en": "Very exposed to wind; put on an extra layer for the downhill ride.",
+                "hr": "Vrlo izloženo vjetru; obucite dodatni sloj za vožnju nizbrdo."
               }
             },
             {
@@ -753,7 +858,8 @@
                 "de": "Suchen Sie einen Platz nah am Ofen oder Grill, um die Kälte aus den Knochen zu vertreiben.",
                 "hu": "Keressen helyet a kályha vagy a grill közelében, hogy átmelegedjen.",
                 "ro": "Căutați un loc lângă sobă sau grătar pentru a vă încălzi oasele.",
-                "en": "Find a seat near the stove or grill to drive away the chill."
+                "en": "Find a seat near the stove or grill to drive away the chill.",
+                "hr": "Pronađite mjesto blizu peći ili roštilja kako biste otjerali hladnoću."
               }
             },
             {
@@ -762,7 +868,8 @@
                 "de": "Starke Kaltluftströme über dem Wasser; halten Sie den Kopf und Hals warm.",
                 "hu": "Erős hideg légáramlatok a víz felett; védje a fejét és a nyakát.",
                 "ro": "Curenți de aer rece deasupra apei; protejați-vă capul și gâtul.",
-                "en": "Strong cold air currents over the water; keep your head and neck warm."
+                "en": "Strong cold air currents over the water; keep your head and neck warm.",
+                "hr": "Jake hladne zračne struje iznad vode; utoplite glavu i vrat."
               }
             },
             {
@@ -771,7 +878,8 @@
                 "de": "Die Wärme im Museum ist nach der Tour eine wahre Wohltat.",
                 "hu": "A múzeumi meleg igazi áldás a téli biciklizés után.",
                 "ro": "Căldura din muzeu este o adevărată binecuvântare după tură.",
-                "en": "The warmth of the museum is a true blessing after the ride."
+                "en": "The warmth of the museum is a true blessing after the ride.",
+                "hr": "Toplina muzeja je pravi blagoslov nakon vožnje."
               }
             }
           ],
@@ -803,6 +911,13 @@
               "Electric bike batteries discharge faster in the cold.",
               "Keep the tour short and intense to avoid getting chilled.",
               "Drink warm beverages from a thermos during breaks."
+            ],
+            "hr": [
+              "Nosite termalne rukavice; prsti se brzo ohlade na upravljaču.",
+              "Koristite balzam za usne protiv hladnog čeonog vjetra.",
+              "Baterije na električnim biciklima brže se prazne na hladnoći.",
+              "Neka tura bude kratka i intenzivna kako biste izbjegli pothlađivanje.",
+              "Pijte tople napitke iz termosa tijekom stanki."
             ]
           }
         }
@@ -831,7 +946,8 @@
             "de": "Parken Sie an der Hauptstraße und gehen Sie den Pfad zur Festung.",
             "hu": "Parkoljon a főúton, és sétáljon az ösvényen az erődhöz.",
             "ro": "Parcați pe drumul principal și mergeți pe potecă spre cetate.",
-            "en": "Park on the main road and walk the path to the fortress."
+            "en": "Park on the main road and walk the path to the fortress.",
+            "hr": "Parkirajte na glavnoj cesti i prošetajte stazom do utvrde."
           }
         },
         {
@@ -849,7 +965,8 @@
             "de": "Die antike Militärbasis bietet einen weiten Blick über das Feld.",
             "hu": "Az ókori katonai bázis tágas kilátást nyújt a mezőre.",
             "ro": "Baza militară antică oferă o vedere largă asupra câmpului.",
-            "en": "The ancient military base offers a wide view over the field."
+            "en": "The ancient military base offers a wide view over the field.",
+            "hr": "Drevna vojna baza nudi širok pogled na polje."
           }
         },
         {
@@ -867,7 +984,8 @@
             "de": "Zentraler Treffpunkt in Trilj.",
             "hu": "Trilj központi találkozóhelye.",
             "ro": "Loc de întâlnire central în Trilj.",
-            "en": "Central meeting point in Trilj."
+            "en": "Central meeting point in Trilj.",
+            "hr": "Središnje mjesto susreta u Trilju."
           }
         },
         {
@@ -885,7 +1003,8 @@
             "de": "Genießen Sie lokale Spezialitäten am Flussufer.",
             "hu": "Élvezze a helyi specialitásokat a folyóparton.",
             "ro": "Savurați specialități locale pe malul râului.",
-            "en": "Enjoy local specialties by the riverbank."
+            "en": "Enjoy local specialties by the riverbank.",
+            "hr": "Uživajte u lokalnim specijalitetima uz obalu rijeke."
           }
         },
         {
@@ -903,7 +1022,8 @@
             "de": "Vertiefen Sie Ihr Wissen über die lokale Geschichte.",
             "hu": "Mélyítse el tudását a helyi történelemről.",
             "ro": "Aprofundați-vă cunoștințele despre istoria locală.",
-            "en": "Deepen your knowledge of local history."
+            "en": "Deepen your knowledge of local history.",
+            "hr": "Produbite svoje znanje o lokalnoj povijesti."
           }
         },
         {
@@ -921,7 +1041,8 @@
             "de": "Besuchen Sie die funktionstüchtigen Mühlen am Ende des Tages.",
             "hu": "Látogassa meg a működő malmokat a nap végén.",
             "ro": "Vizitați morile funcționale la sfârșitul zilei.",
-            "en": "Visit the working mills at the end of the day."
+            "en": "Visit the working mills at the end of the day.",
+            "hr": "Posjetite aktivne mlinice na kraju dana."
           }
         }
       ],
@@ -929,7 +1050,8 @@
         "de": "Mit dem Auto erreichen Sie mühelos alle Highlights von Trilj. Beginnen Sie bei der Festung Nutjak und dem römischen Tilurium, bevor Sie ins Zentrum für ein Mittagessen am Fluss einkehren. Den Abschluss bildet die idyllische Siedlung Grab mit ihren historischen Wassermühlen.",
         "hu": "Autóval könnyedén elérheti Trilj összes látnivalóját. Kezdje a Nutjak-erődnél és a római Tiluriumnál, mielőtt a központba térne egy folyóparti ebédre. A napot Grab idilli települése és történelmi vízimalmai zárják.",
         "ro": "Cu mașina puteți ajunge fără efort la toate atracțiile din Trilj. Începeți la cetatea Nutjak și Tiluriumul roman, înainte de a reveni în centru pentru un prânz pe malul râului. Ziua se încheie cu așezarea idilică Grab și morile sale de apă istorice.",
-        "en": "By car, you can effortlessly reach all the highlights of Trilj. Start at Nutjak fortress and Roman Tilurium before heading to the center for a riverside lunch. The day concludes with the idyllic settlement of Grab and its historical water mills."
+        "en": "By car, you can effortlessly reach all the highlights of Trilj. Start at Nutjak fortress and Roman Tilurium before heading to the center for a riverside lunch. The day concludes with the idyllic settlement of Grab and its historical water mills.",
+        "hr": "Automobilom možete bez napora doći do svih znamenitosti Trilja. Započnite kod utvrde Nutjak i rimskog Tilurija prije nego što krenete u centar na ručak uz rijeku. Dan završava u idiličnom naselju Grab i njegovim povijesnim mlinicama."
       },
       "gastro_picks": {
         "de": [
@@ -954,6 +1076,12 @@
           {
             "name": "Gostionica Dalmacija",
             "tip": "Traditional Arambaši and homemade pasta."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Gostionica Dalmacija",
+            "tip": "Tradicionalni arambaši i domaća tjestenina."
           }
         ]
       },
@@ -985,6 +1113,13 @@
             "tip": "View over the entire Cetina field.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Gardun",
+            "tip": "Pogled na cijelo Cetinsko polje.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1011,6 +1146,12 @@
             "name": "OPG Stalls in Trilj",
             "tip": "Buy cheese and cured meats directly from the producers."
           }
+        ],
+        "hr": [
+          {
+            "name": "OPG štandovi u Trilju",
+            "tip": "Kupite sir i suhomesnate proizvode izravno od proizvođača."
+          }
         ]
       },
       "tips": {
@@ -1033,6 +1174,11 @@
           "Parking in the city center is usually easy.",
           "The road to Grab is narrow, drive carefully.",
           "There is little shade in Tilurium, bring a sun hat."
+        ],
+        "hr": [
+          "Parkiranje u centru grada obično je jednostavno.",
+          "Cesta do Graba je uska, vozite oprezno.",
+          "U Tiluriju ima malo hlada, ponesite šešir za sunce."
         ]
       },
       "variants": {
@@ -1041,7 +1187,8 @@
             "de": "Trilj mit dem Auto bietet den besten Komfort an einem Regentag. Wir besuchen die Festung Nutjak und Tilurium zwischen den Schauern. Mittags genießen wir ein entspanntes Essen im trockenen Stadtzentrum. Der Nachmittag gehört dem Museum und den Grab-Mühlen, die man bequem über befestigte Straßen erreicht. So bleibt man trotz Wetter flexibel und trocken.",
             "hu": "Autóval Trilj felfedezése kényelmes marad esős időben is. A Nutjak várat és Tiluriumot a záporok közötti szünetekben nézzük meg. Ebédre egy kellemes éttermet választunk a városközpontban. Délután a múzeum és a Grabi malmok következnek, melyek aszfaltozott úton könnyen elérhetők. Így az időjárástól függetlenül szárazak maradunk.",
             "ro": "Explorarea orașului Trilj cu mașina oferă cel mai bun confort într-o zi ploioasă. Vizităm fortăreața Nutjak și Tilurium între averse. La prânz ne bucurăm de o masă relaxată în centrul orașului. După-amiaza aparține muzeului și morilor din Grab, accesibile pe drumuri asfaltate. Astfel rămâneți flexibili și uscați.",
-            "en": "Exploring Trilj by car provides the best comfort on a rainy day. We visit Nutjak fortress and Tilurium between the showers. At lunch, enjoy a relaxed meal in the dry city center. The afternoon is dedicated to the museum and the Grab mills, easily reached via paved roads. This way, you stay flexible and dry regardless of the weather."
+            "en": "Exploring Trilj by car provides the best comfort on a rainy day. We visit Nutjak fortress and Tilurium between the showers. At lunch, enjoy a relaxed meal in the dry city center. The afternoon is dedicated to the museum and the Grab mills, easily reached via paved roads. This way, you stay flexible and dry regardless of the weather.",
+            "hr": "Istraživanje Trilja automobilom pruža najbolju udobnost u kišnom danu. Posjećujemo utvrdu Nutjak i Tilurij između pljuskova. Za ručak uživajte u opuštenom obroku u suhom centru grada. Poslijepodne je posvećeno muzeju i mlinicama na Grabu, do kojih se lako dolazi asfaltiranim cestama. Tako ostajete fleksibilni i suhi bez obzira na vrijeme."
           },
           "stops": [
             {
@@ -1050,7 +1197,8 @@
                 "de": "Parken Sie nah am Pfad, um den Weg im Regen zu verkürzen.",
                 "hu": "Parkoljon minél közelebb az ösvényhez, hogy lerövidítse az utat az esőben.",
                 "ro": "Parcați aproape de potecă pentru a scurta drumul prin ploaie.",
-                "en": "Park close to the path to shorten the walk in the rain."
+                "en": "Park close to the path to shorten the walk in the rain.",
+                "hr": "Parkirajte blizu staze kako biste skratili hodanje po kiši."
               }
             },
             {
@@ -1059,7 +1207,8 @@
                 "de": "Die Zufahrtsstraße kann bei starkem Regen rutschig sein; fahren Sie vorsichtig.",
                 "hu": "A bekötőút erős esőben csúszós lehet; vezessen óvatosan.",
                 "ro": "Drumul de acces poate fi alunecos pe ploaie torențială; conduceți cu grijă.",
-                "en": "The access road can be slippery in heavy rain; drive carefully."
+                "en": "The access road can be slippery in heavy rain; drive carefully.",
+                "hr": "Pristupna cesta može biti skliska pri jakoj kiši; vozite oprezno."
               }
             },
             {
@@ -1068,7 +1217,8 @@
                 "de": "Kurzer Fotostopp direkt aus dem Auto möglich, falls es zu stark regnet.",
                 "hu": "Rövid fotómegálló az autóból is lehetséges, ha túl erősen esne az eső.",
                 "ro": "Oprire foto scurtă direct din mașină, dacă plouă prea tare.",
-                "en": "Short photo stop possible directly from the car if it rains too hard."
+                "en": "Short photo stop possible directly from the car if it rains too hard.",
+                "hr": "Kratka stanka za fotografiranje moguća je izravno iz auta ako previše pada."
               }
             },
             {
@@ -1077,7 +1227,8 @@
                 "de": "Parkplätze in der Nähe der Restaurants vorhanden; kein langer Fußweg nötig.",
                 "hu": "Parkolóhelyek elérhetők az éttermek közelében; nem kell sokat gyalogolni.",
                 "ro": "Locuri de parcare disponibile lângă restaurante; nu e nevoie de mers pe jos mult.",
-                "en": "Parking spaces available near the restaurants; no long walk needed."
+                "en": "Parking spaces available near the restaurants; no long walk needed.",
+                "hr": "Parkirna mjesta dostupna u blizini restorana; nije potrebna duga šetnja."
               }
             },
             {
@@ -1086,7 +1237,8 @@
                 "de": "Perfekt für den späten Nachmittag, wenn der Regen zunimmt.",
                 "hu": "Tökéletes késő délutáni program, amikor erősödik az eső.",
                 "ro": "Perfect pentru după-amiaza târzie, când ploaia se intensifică.",
-                "en": "Perfect for late afternoon when the rain intensifies."
+                "en": "Perfect for late afternoon when the rain intensifies.",
+                "hr": "Savršeno za kasno poslijepodne kada se kiša pojača."
               }
             },
             {
@@ -1095,7 +1247,8 @@
                 "de": "Achten Sie auf Pfützen auf der schmalen Straße nach Grab.",
                 "hu": "Figyeljen a pocsolyákra a Grab felé vezető keskeny úton.",
                 "ro": "Atenție la bălțile de pe drumul îngust spre Grab.",
-                "en": "Watch out for puddles on the narrow road to Grab."
+                "en": "Watch out for puddles on the narrow road to Grab.",
+                "hr": "Pazite na lokve na uskoj cesti do Graba."
               }
             }
           ],
@@ -1127,6 +1280,13 @@
               "Use the heater to reduce humidity inside the vehicle.",
               "Plan the Tilurium visit for a break in the rain.",
               "Rural roads can be greasy and slippery when wet."
+            ],
+            "hr": [
+              "Provjerite brisače prije odlaska u zaleđe.",
+              "Držite kišobran u autu za kratke šetnje do ruševina.",
+              "Koristite grijanje kako biste smanjili vlagu unutar vozila.",
+              "Planirajte posjet Tiluriju za vrijeme stanke u kiši.",
+              "Seoske ceste mogu biti masne i skliske kad su mokre."
             ]
           }
         },
@@ -1135,7 +1295,8 @@
             "de": "Eine gemütliche Wintertour durch das Cetina-Tal. Mit dem Auto erreichen wir die Festung Nutjak am Morgen ohne Frostbeulen. Tilurium bietet im Winter eine glasklare Fernsicht. Nach einem herzhaften Mittagessen in Trilj besuchen wir das warme Museum. Den Tag krönen die Grab-Mühlen, wo das Wasser im Winter oft magisch dampft, bevor es dunkel wird.",
             "hu": "Kellemes téli túra a Cetina-völgyben. Autóval fagyoskodás nélkül érjük el reggel Nutjak várát. Tilurium télen kristálytiszta távlati kilátást nyújt. Egy laktató trilji ebéd után a meleg múzeumot látogatjuk meg. A napot a Grabi malmok koronázzák meg, ahol a víz télen gyakran mágikusan gőzölög sötétedés előtt.",
             "ro": "Un tur de iarnă confortabil prin valea Cetinei. Cu mașina ajungem dimineața la fortăreața Nutjak fără să înghețăm. Tilurium oferă iarna o vedere clară la distanță. După un prânz consistent în Trilj, vizităm muzeul călduros. Ziua este încununată de morile din Grab, unde apa aburește adesea magic înainte de lăsarea întunericului.",
-            "en": "A cozy winter tour through the Cetina Valley. By car, we reach Nutjak fortress in the morning without freezing. Tilurium offers crystal clear views in winter. After a hearty lunch in Trilj, we visit the warm museum. The day is crowned by the Grab mills, where the water often steams magically before dark."
+            "en": "A cozy winter tour through the Cetina Valley. By car, we reach Nutjak fortress in the morning without freezing. Tilurium offers crystal clear views in winter. After a hearty lunch in Trilj, we visit the warm museum. The day is crowned by the Grab mills, where the water often steams magically before dark.",
+            "hr": "Ugodna zimska tura kroz dolinu Cetine. Automobilom ujutro dolazimo do utvrde Nutjak bez smrzavanja. Tilurij nudi kristalno čiste poglede zimi. Nakon krepkog ručka u Trilju, posjećujemo topli muzej. Dan krune mlinice na Grabu, gdje voda često magično isparava prije mraka."
           },
           "stops": [
             {
@@ -1144,7 +1305,8 @@
                 "de": "Lassen Sie den Motor nicht zu lange im Leerlauf; genießen Sie die klare Winterluft.",
                 "hu": "Ne járassa sokáig a motort álló helyzetben; élvezze a tiszta téli levegőt.",
                 "ro": "Nu lăsați motorul pornit în staționare; bucurați-vă de aerul curat de iarnă.",
-                "en": "Don't idle the engine too long; enjoy the crisp winter air."
+                "en": "Don't idle the engine too long; enjoy the crisp winter air.",
+                "hr": "Ne ostavljajte motor da radi predugo; uživajte u svježem zimskom zraku."
               }
             },
             {
@@ -1153,7 +1315,8 @@
                 "de": "Achten Sie auf Reifglätte auf der schattigen Auffahrt am Morgen.",
                 "hu": "Figyeljen a dér miatti csúszósságra az árnyékos emelkedőn reggel.",
                 "ro": "Atenție la polei pe urcarea umbrită de dimineață.",
-                "en": "Watch out for frost on the shaded uphill road in the morning."
+                "en": "Watch out for frost on the shaded uphill road in the morning.",
+                "hr": "Pazite na mraz na sjenovitoj uzbrdici ujutro."
               }
             },
             {
@@ -1162,7 +1325,8 @@
                 "de": "Bei Minusgraden kann die Brückenoberfläche tückisch glatt sein.",
                 "hu": "Fagypont alatt a híd felülete csalókán csúszós lehet.",
                 "ro": "La temperaturi sub zero, suprafața podului poate fi înșelător de alunecoasă.",
-                "en": "Below freezing, the bridge surface can be treacherously slippery."
+                "en": "Below freezing, the bridge surface can be treacherously slippery.",
+                "hr": "Ispod nule, površina mosta može biti varljivo skliska."
               }
             },
             {
@@ -1171,7 +1335,8 @@
                 "de": "Nutzen Sie die Sitzheizung nach dem Aufenthalt im Freien.",
                 "hu": "Használja az ülésfűtést a szabadban tett séta után.",
                 "ro": "Folosiți încălzirea în scaune după timpul petrecut afară.",
-                "en": "Use the seat heaters after your time spent outdoors."
+                "en": "Use the seat heaters after your time spent outdoors.",
+                "hr": "Koristite grijače sjedala nakon vremena provedenog na otvorenom."
               }
             },
             {
@@ -1180,7 +1345,8 @@
                 "de": "Ein warmer Stopp, um die Batterien für die letzte Etappe aufzuladen.",
                 "hu": "Meleg pihenő, hogy feltöltődjünk az utolsó szakasz előtt.",
                 "ro": "O oprire caldă pentru a vă reîncărca bateriile înainte de ultima etapă.",
-                "en": "A warm stop to recharge for the final stage of the day."
+                "en": "A warm stop to recharge for the final stage of the day.",
+                "hr": "Topla stanka za punjenje baterija prije završne etape dana."
               }
             },
             {
@@ -1189,7 +1355,8 @@
                 "de": "Besuchen Sie diesen Ort vor 16:00 Uhr, um das restliche Tageslicht zu nutzen.",
                 "hu": "Látogasson el ide du. 4 óra előtt, hogy kihasználja a maradék fényt.",
                 "ro": "Vizitați acest loc înainte de ora 16:00 pentru a profita de lumină.",
-                "en": "Visit here before 4:00 PM to make use of the remaining daylight."
+                "en": "Visit here before 4:00 PM to make use of the remaining daylight.",
+                "hr": "Posjetite ovo mjesto prije 16:00 sati kako biste iskoristili preostalo svjetlo."
               }
             }
           ],
@@ -1221,6 +1388,13 @@
               "The Bura wind can affect the handling of high-profile vehicles.",
               "Keep blankets in the car for longer stops at viewpoints.",
               "An ice scraper is essential for the mornings in Trilj."
+            ],
+            "hr": [
+              "Zimske gume preporučuju se u dalmatinskom zaleđu od studenog.",
+              "Koristite tekućinu za pranje stakla otpornu na mraz.",
+              "Bura može utjecati na upravljanje visokim vozilima.",
+              "Držite deke u autu za dulje stanke na vidikovcima.",
+              "Strugalica za led je neophodna za jutra u Trilju."
             ]
           }
         }
@@ -1249,7 +1423,8 @@
             "de": "Ankunft mit dem Bus aus Split oder Sinj.",
             "hu": "Érkezés busszal Splitből vagy Sinjből.",
             "ro": "Sosire cu autobuzul din Split sau Sinj.",
-            "en": "Arrival by bus from Split or Sinj."
+            "en": "Arrival by bus from Split or Sinj.",
+            "hr": "Dolazak autobusom iz Splita ili Sinja."
           }
         },
         {
@@ -1267,7 +1442,8 @@
             "de": "Nur wenige Gehminuten von der Bushaltestelle entfernt.",
             "hu": "Csak pár perc séta a buszmegállótól.",
             "ro": "La doar câteva minute de mers pe jos de stația de autobuz.",
-            "en": "Just a few minutes' walk from the bus stop."
+            "en": "Just a few minutes' walk from the bus stop.",
+            "hr": "Samo nekoliko minuta hoda od autobusne stanice."
           }
         },
         {
@@ -1285,7 +1461,8 @@
             "de": "Beobachten Sie das lokale Leben bei einem Kaffee.",
             "hu": "Figyelje a helyi életet egy kávé mellett.",
             "ro": "Observați viața locală la o cafea.",
-            "en": "Observe local life over a coffee."
+            "en": "Observe local life over a coffee.",
+            "hr": "Promatrajte lokalni život uz kavu."
           }
         },
         {
@@ -1303,7 +1480,8 @@
             "de": "Ein lokales Taxi oder ein kurzer Aufstieg bringt Sie hierher.",
             "hu": "Helyi taxi vagy egy rövid kaptató visz fel ide.",
             "ro": "Un taxi local sau o scurtă urcare vă aduce aici.",
-            "en": "A local taxi or a short climb brings you here."
+            "en": "A local taxi or a short climb brings you here.",
+            "hr": "Lokalni taksi ili kratki uspon dovest će vas ovamo."
           }
         },
         {
@@ -1321,7 +1499,8 @@
             "de": "Frische Produkte aus der Region.",
             "hu": "Friss termékek a régióból.",
             "ro": "Produse proaspete din regiune.",
-            "en": "Fresh products from the region."
+            "en": "Fresh products from the region.",
+            "hr": "Svježi proizvodi iz regije."
           }
         },
         {
@@ -1339,7 +1518,8 @@
             "de": "Entspannen Sie vor der Rückreise.",
             "hu": "Pihenjen a visszautazás előtt.",
             "ro": "Relaxați-vă înainte de drumul de întoarcere.",
-            "en": "Relax before the journey back."
+            "en": "Relax before the journey back.",
+            "hr": "Opustite se prije povratka."
           }
         }
       ],
@@ -1347,7 +1527,8 @@
         "de": "Mit dem Bus aus Split erreichen Sie Trilj bequem. Dieser Tag konzentriert sich auf das Stadtzentrum und den historischen Hügel Gardun. Genießen Sie die entspannte Atmosphäre am Fluss und die tiefen Einblicke in die römische Vergangenheit der Region.",
         "hu": "Splitből busszal kényelmesen elérheti Triljt. Ez a nap a városközpontra és a történelmi Gardun-dombra összpontosít. Élvezze a folyóparti nyugodt légkört és a régió római múltjába való mély betekintést.",
         "ro": "Puteți ajunge confortabil în Trilj cu autobuzul din Split. Această zi se concentrează pe centrul orașului și dealul istoric Gardun. Bucurați-vă de atmosfera relaxată de pe malul râului și de incursiunea în trecutul roman al regiunii.",
-        "en": "You can easily reach Trilj by bus from Split. This day focuses on the city center and the historical Gardun hill. Enjoy the relaxed riverside atmosphere and deep insights into the region's Roman past."
+        "en": "You can easily reach Trilj by bus from Split. This day focuses on the city center and the historical Gardun hill. Enjoy the relaxed riverside atmosphere and deep insights into the region's Roman past.",
+        "hr": "Do Trilja možete lako doći autobusom iz Splita. Ovaj dan fokusira se na centar grada i povijesno brdo Gardun. Uživajte u opuštenoj atmosferi uz rijeku i dubokom uvidu u rimsku prošlost regije."
       },
       "gastro_picks": {
         "de": [
@@ -1372,6 +1553,12 @@
           {
             "name": "Caffe Bar Bridge",
             "tip": "Best spot for an espresso with a view of the Cetina."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Caffe Bar Bridge",
+            "tip": "Najbolje mjesto za espresso s pogledom na Cetinu."
           }
         ]
       },
@@ -1403,6 +1590,13 @@
             "tip": "Small green oasis in the center.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Gradski park Trilj",
+            "tip": "Mala zelena oaza u centru.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1429,6 +1623,12 @@
             "name": "Local Bakery",
             "tip": "Try burek or local pastries."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna pekarnica",
+            "tip": "Probajte burek ili lokalna peciva."
+          }
         ]
       },
       "tips": {
@@ -1451,6 +1651,11 @@
           "Bus schedules are often flexible, plan buffer time.",
           "Everything in the center is within walking distance.",
           "Ask locals for the way to Gardun."
+        ],
+        "hr": [
+          "Vozni redovi autobusa često su fleksibilni, planirajte dodatno vrijeme.",
+          "Sve u centru je na pješačkoj udaljenosti.",
+          "Pitajte lokalno stanovništvo za put do Garduna."
         ]
       },
       "variants": {
@@ -1459,7 +1664,8 @@
             "de": "Trilj mit öffentlichen Verkehrsmitteln erfordert an Regentagen Planung. Wir starten an der Brücke und flüchten schnell ins Museum. Ein warmer Kaffee am Hauptplatz überbrückt die Zeit bis zum nächsten Bus nach Tilurium. Mittags wärmen wir uns bei einem Folyóparti ebéd auf, bevor wir den Tag mit einem kurzen Korzó am Fluss beenden, wenn der Regen nachlässt.",
             "hu": "A tömegközlekedés Triljben esős napokon tervezést igényel. A hídnál kezdünk, majd gyorsan a múzeumba menekülünk. Egy meleg kávé a főtéren segít kivárni a következő buszt Tilurium felé. Ebédre folyóparti fogásokat választunk, majd a napot egy rövid korzózással zárjuk a folyónál, amikor csendesedik az eső.",
             "ro": "Transportul public în Trilj necesită planificare în zilele ploioase. Începem la pod și ne refugiem rapid în muzeu. O cafea caldă în piața centrală ajută la trecerea timpului până la următorul autobuz spre Tilurium. La prânz ne încălzim cu preparate pe malul râului, încheind ziua cu o scurtă plimbare pe corso.",
-            "en": "Using public transit in Trilj on rainy days requires planning. We start at the bridge and quickly seek refuge in the museum. A warm coffee in the main square helps bridge the time until the next bus to Tilurium. For lunch, warm up with riverside dishes before ending the day with a short walk along the river as the rain lets up."
+            "en": "Using public transit in Trilj on rainy days requires planning. We start at the bridge and quickly seek refuge in the museum. A warm coffee in the main square helps bridge the time until the next bus to Tilurium. For lunch, warm up with riverside dishes before ending the day with a short walk along the river as the rain lets up.",
+            "hr": "Korištenje javnog prijevoza u Trilju u kišnim danima zahtijeva planiranje. Krećemo kod mosta i brzo tražimo utočište u muzeju. Topla kava na glavnom trgu pomaže skratiti vrijeme do sljedećeg autobusa za Tilurij. Za ručak se zagrijte jelima uz rijeku prije nego što dan završite kratkom šetnjom uz rijeku čim kiša popusti."
           },
           "stops": [
             {
@@ -1468,7 +1674,8 @@
                 "de": "Die Bushaltestelle bietet nur begrenzten Schutz; halten Sie den Schirm bereit.",
                 "hu": "A buszmegálló csak korlátozott védelmet nyújt; tartsa készenlétben az esernyőt.",
                 "ro": "Stația de autobuz oferă adăpost limitat; țineți umbrela pregătită.",
-                "en": "The bus stop offers limited shelter; keep your umbrella ready."
+                "en": "The bus stop offers limited shelter; keep your umbrella ready.",
+                "hr": "Autobusna stanica nudi ograničen zaklon; držite kišobran spreman."
               }
             },
             {
@@ -1477,7 +1684,8 @@
                 "de": "Guter Ort, um auf die nächste Verbindung zu warten, ohne nass zu werden.",
                 "hu": "Jó hely a következő csatlakozásra várni anélkül, hogy megáznánk.",
                 "ro": "Loc bun pentru a aștepta următoarea legătură fără să vă udați.",
-                "en": "Good place to wait for the next connection without getting wet."
+                "en": "Good place to wait for the next connection without getting wet.",
+                "hr": "Dobro mjesto za čekanje sljedeće veze bez močenja."
               }
             },
             {
@@ -1486,7 +1694,8 @@
                 "de": "Wählen Sie ein Café mit Blick auf die Bushaltestelle.",
                 "hu": "Válasszon olyan kávézót, ahonnan rálátni a buszmegállóra.",
                 "ro": "Alegeți o cafenea cu vedere spre stația de autobuz.",
-                "en": "Choose a cafe with a view of the bus stop."
+                "en": "Choose a cafe with a view of the bus stop.",
+                "hr": "Odaberite kafić s pogledom na autobusnu stanicu."
               }
             },
             {
@@ -1495,7 +1704,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten genau, um nicht im Regen warten zu müssen.",
                 "hu": "Pontosan ellenőrizze a visszaindulási időket, hogy ne kelljen az esőben várnia.",
                 "ro": "Verificați exact orele de întoarcere pentru a nu aștepta în ploaie.",
-                "en": "Check return times carefully to avoid waiting in the rain."
+                "en": "Check return times carefully to avoid waiting in the rain.",
+                "hr": "Pažljivo provjerite vremena povratka kako biste izbjegli čekanje na kiši."
               }
             },
             {
@@ -1504,7 +1714,8 @@
                 "de": "Bitten Sie das Personal, Ihnen ein Taxi zu rufen, falls der Regen zu stark wird.",
                 "hu": "Kérje a személyzetet, hogy hívjanak taxit, ha túl erősen esne az eső.",
                 "ro": "Rugați personalul să vă cheme un taxi dacă ploaia devine prea puternică.",
-                "en": "Ask the staff to call a taxi for you if the rain becomes too heavy."
+                "en": "Ask the staff to call a taxi for you if the rain becomes too heavy.",
+                "hr": "Zamolite osoblje da vam pozove taksi ako kiša postane pre jaka."
               }
             },
             {
@@ -1513,7 +1724,8 @@
                 "de": "Abkürzung zum Busbahnhof über die beleuchteten Hauptwege nehmen.",
                 "hu": "Használja a kivilágított főutakat rövidítésként a buszmegálló felé.",
                 "ro": "Folosiți drumurile principale iluminate ca scurtătură spre stație.",
-                "en": "Take shortcuts via illuminated main paths back to the bus stop."
+                "en": "Take shortcuts via illuminated main paths back to the bus stop.",
+                "hr": "Vratite se prečacima putem osvijetljenih glavnih staza do stanice."
               }
             }
           ],
@@ -1545,6 +1757,13 @@
               "Make use of waiting times by visiting museums or cafes.",
               "Keep small change ready for buying bus tickets from the driver.",
               "Expect weather-related delays in bus services."
+            ],
+            "hr": [
+              "Preuzmite lokalnu aplikaciju za prijevoz ili fotografirajte vozni red.",
+              "Nosite vodootpornu obuću za hodanje između stanica.",
+              "Iskoristite vrijeme čekanja za posjet muzejima ili kafićima.",
+              "Imajte sitni novac spreman za kupnju autobusnih karata kod vozača.",
+              "Očekujte kašnjenja u autobusnom prometu zbog vremenskih uvjeta."
             ]
           }
         },
@@ -1553,7 +1772,8 @@
             "de": "Trilj im Winter per Transit ist eine Reise der Kontraste. Wir starten an der kühlen Brücke und suchen bald die Wärme des Museums. Ein heißer Kaffee bereitet uns auf den kurzen Ausflug nach Tilurium vor. Nach einem stärkenden Mittagessen nutzen wir die letzte Tageshelligkeit für einen Spaziergang am Fluss, bevor uns der beheizte Bus zurückbringt.",
             "hu": "Téli utazás Triljben tömegközlekedéssel: a kontrasztok napja. A hűvös hídnál kezdünk, majd hamar a múzeum melegébe húzódunk. Egy forró kávé felkészít a rövid Tilurium-i kiruccanásra. Egy laktató ebéd után kihasználjuk az utolsó fényeket a folyóparti sétához, mielőtt a fűtött busz hazavisz.",
             "ro": "Călătoria de iarnă în Trilj cu transportul public: o zi a contrastelor. Începem la podul răcoros și căutăm rapid căldura muzeului. O cafea fierbinte ne pregătește pentru scurta excursie la Tilurium. După un prânz consistent, profităm de ultima lumină pentru o plimbare pe râu, înainte ca autobuzul încălzit să ne preia.",
-            "en": "Winter travel in Trilj by transit is a journey of contrasts. We start at the chilly bridge and soon seek the warmth of the museum. A hot coffee prepares us for the short excursion to Tilurium. After a fortifying lunch, we use the last daylight for a walk along the river before the heated bus takes us back."
+            "en": "Winter travel in Trilj by transit is a journey of contrasts. We start at the chilly bridge and soon seek the warmth of the museum. A hot coffee prepares us for the short excursion to Tilurium. After a fortifying lunch, we use the last daylight for a walk along the river before the heated bus takes us back.",
+            "hr": "Zimsko putovanje u Trilj javnim prijevozom putovanje je kontrasta. Krećemo kod prohladnog mosta i ubrzo tražimo toplinu muzeja. Vruća kava nas priprema za kratki izlet u Tilurij. Nakon okrepljujućeg ručka, koristimo posljednje dnevno svjetlo za šetnju uz rijeku prije nego nas grijani autobus odveze natrag."
           },
           "stops": [
             {
@@ -1562,7 +1782,8 @@
                 "de": "Zügig zur nächsten Station gehen, um nicht auszukühlen.",
                 "hu": "Haladjon tempósan a következő állomásig, hogy ne hűljön le.",
                 "ro": "Mergeți vioi spre următoarea oprire pentru a nu vă răci.",
-                "en": "Walk briskly to the next stop to avoid getting cold."
+                "en": "Walk briskly to the next stop to avoid getting cold.",
+                "hr": "Brzo hodajte do sljedeće stanice kako vam ne bi bilo hladno."
               }
             },
             {
@@ -1571,7 +1792,8 @@
                 "de": "Idealer Ort, um die Zeit bis zum warmen Mittagsbus zu verbringen.",
                 "hu": "Ideális hely az időtöltésre a fűtött déli buszig.",
                 "ro": "Loc ideal pentru a petrece timpul până la autobuzul de prânz.",
-                "en": "Ideal place to spend time until the warm midday bus arrives."
+                "en": "Ideal place to spend time until the warm midday bus arrives.",
+                "hr": "Idealno mjesto za provođenje vremena do dolaska toplog podnevnog autobusa."
               }
             },
             {
@@ -1580,7 +1802,8 @@
                 "de": "Wärmen Sie Ihre Hände an einer Tasse heißer Schokolade.",
                 "hu": "Melegítse fel kezeit egy csésze forró csokoládéval.",
                 "ro": "Încălziți-vă mâinile cu o ceașcă de ciocolată caldă.",
-                "en": "Warm your hands on a cup of hot chocolate."
+                "en": "Warm your hands on a cup of hot chocolate.",
+                "hr": "Zagrijte ruke na šalici tople čokolade."
               }
             },
             {
@@ -1589,7 +1812,8 @@
                 "de": "Die Wartezeit an der Haltestelle oben kann im Winter sehr kalt sein; bewegen Sie sich.",
                 "hu": "A fenti buszmegállóban a várakozás télen nagyon hideg lehet; mozogjon.",
                 "ro": "Așteptarea în stația de sus poate fi foarte rece iarna; mișcați-vă.",
-                "en": "Waiting at the uphill bus stop can be very cold in winter; keep moving."
+                "en": "Waiting at the uphill bus stop can be very cold in winter; keep moving.",
+                "hr": "Čekanje na stanici uzbrdo može biti vrlo hladno zimi; ostanite u pokretu."
               }
             },
             {
@@ -1598,7 +1822,8 @@
                 "de": "Genießen Sie die Wärme der Gaststube so lange wie möglich.",
                 "hu": "Élvezze az étterem melegét, ameddig csak lehet.",
                 "ro": "Bucurați-vă de căldura restaurantului cât mai mult posibil.",
-                "en": "Enjoy the warmth of the restaurant as long as possible."
+                "en": "Enjoy the warmth of the restaurant as long as possible.",
+                "hr": "Uživajte u toplini restorana što je dulje moguće."
               }
             },
             {
@@ -1607,7 +1832,8 @@
                 "de": "Beachten Sie, dass es nach 16:30 Uhr schnell dunkel und kälter wird.",
                 "hu": "Vegye figyelembe, hogy du. fél 5 után gyorsan sötétedik és hűl le az idő.",
                 "ro": "Rețineți că după ora 16:30 se întunecă rapid și se face mai frig.",
-                "en": "Note that it gets dark and colder quickly after 4:30 PM."
+                "en": "Note that it gets dark and colder quickly after 4:30 PM.",
+                "hr": "Imajte na umu da mrak i hladnoća brzo nastupaju nakon 16:30."
               }
             }
           ],
@@ -1639,6 +1865,13 @@
               "A hot tea in a thermos is a great companion.",
               "Plan your return journey before it gets dark.",
               "Check if winter schedules differ from summer ones."
+            ],
+            "hr": [
+              "Autobusi su zimi obično dobro grijani, ali stanice su vjetrovite.",
+              "Nosite termalne uloške za čekanje na hladnom pločniku.",
+              "Vrući čaj u termosu odličan je suputnik.",
+              "Planirajte povratak prije nego što padne mrak.",
+              "Provjerite razlikuju li se zimski vozni redovi od ljetnih."
             ]
           }
         }

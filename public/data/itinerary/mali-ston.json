@@ -37,7 +37,8 @@
             "de": "Osztrigás ládák a vízben.",
             "hu": "Osztrigás ládák a vízben.",
             "ro": "Lăzi cu stridii în apă.",
-            "en": "Oyster crates in the water."
+            "en": "Oyster crates in the water.",
+            "hr": "Gajbe s kamenicama u vodi."
           }
         },
         {
@@ -61,7 +62,8 @@
             "de": "Riesiges Verteidigungssystem.",
             "hu": "Hatalmas védelmi rendszer.",
             "ro": "Sistem de apărare masiv.",
-            "en": "Massive defense system."
+            "en": "Massive defense system.",
+            "hr": "Masivni obrambeni sustav."
           }
         },
         {
@@ -85,7 +87,8 @@
             "de": "Längste Mauer Europas.",
             "hu": "Európa leghosszabb várfala.",
             "ro": "Cel mai lung zid.",
-            "en": "Longest wall in Europe."
+            "en": "Longest wall in Europe.",
+            "hr": "Najduži zid u Europi."
           }
         },
         {
@@ -109,7 +112,8 @@
             "de": "Direkt vom Boot.",
             "hu": "Frissen a hajóról.",
             "ro": "Direct de pe barcă.",
-            "en": "Fresh from the boat."
+            "en": "Fresh from the boat.",
+            "hr": "Svježe s broda."
           }
         },
         {
@@ -133,7 +137,8 @@
             "de": "Történelmi épület.",
             "hu": "Történelmi épület.",
             "ro": "Clădire istorică.",
-            "en": "Historic village building."
+            "en": "Historic village building.",
+            "hr": "Povijesna seoska zgrada."
           }
         }
       ],
@@ -141,7 +146,8 @@
         "de": "Mali Ston ist berühmt für seine Austern und Mauern. Beginnen Sie Ihren Rundgang am ruhigen Hafen. Mittags erklimmen Sie die monumentalen Mauern von Ston. Belohnen Sie sich danach mit einer Verkostung der berühmten Austern direkt am Wasser. Beenden Sie Ihren Besuch mit einem Spaziergang durch die engen Gassen dieses historischen Fischerdorfes.",
         "hu": "Mali Ston világhírű az osztrigáiról és a falairól. Kezdje a sétát a csendes kikötőben. Délben másszon fel a monumentális stoni falakra. Jutalmazza meg magát utána egy osztriga kóstolóval közvetlenül a vízparton. Zárja a látogatást egy sétával a történelmi halászfalu szűk utcácskáiban.",
         "ro": "Mali Ston este renumit pentru stridii și ziduri. Începeți plimbarea în portul liniștit. La prânz, urcați pe zidurile monumentale din Ston. Răsplătiți-vă apoi cu o degustare de stridii chiar pe malul apei. Încheiați vizita cu o plimbare pe străzile înguste ale acestui sat istoric.",
-        "en": "Mali Ston is world-famous for its oysters and walls. Start your tour at the peaceful harbor. At midday, climb the monumental Walls of Ston. Reward yourself afterwards with an oyster tasting right by the water. End your visit with a stroll through the narrow streets of this historic fishing village."
+        "en": "Mali Ston is world-famous for its oysters and walls. Start your tour at the peaceful harbor. At midday, climb the monumental Walls of Ston. Reward yourself afterwards with an oyster tasting right by the water. End your visit with a stroll through the narrow streets of this historic fishing village.",
+        "hr": "Mali Ston je svjetski poznat po svojim kamenicama i zidinama. Započnite obilazak u mirnoj luci. U podne se popnite na monumentalne Stonske zidine. Nakon toga se nagradite kušanjem kamenica tik uz more. Posjet završite šetnjom uskim ulicama ovog povijesnog ribarskog sela."
       },
       "gastro_picks": {
         "de": [
@@ -166,6 +172,12 @@
           {
             "name": "Ston Oysters",
             "tip": "World-famous flavor."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Stonske kamenice",
+            "tip": "Svjetski poznat okus."
           }
         ]
       },
@@ -197,6 +209,13 @@
             "tip": "Quiet sea views.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Malostonski zaljev",
+            "tip": "Mirni pogledi na more.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -223,6 +242,12 @@
             "name": "Ston Salt",
             "tip": "Local sea salt."
           }
+        ],
+        "hr": [
+          {
+            "name": "Stonska sol",
+            "tip": "Lokalna morska sol."
+          }
         ]
       },
       "tips": {
@@ -241,6 +266,10 @@
         "en": [
           "Wear sturdy shoes.",
           "Try local mussels too."
+        ],
+        "hr": [
+          "Nosite čvrstu obuću.",
+          "Isprobajte i lokalne dagnje."
         ]
       },
       "variants": {
@@ -249,7 +278,8 @@
             "de": "Morgens erkunden wir den Hafen im Regen, die Spiegelungen auf dem Kopfsteinpflaster bieten tolle Fotomotive. Mittags besichtigen wir die Koruna-Festung und die Mauern, wo die Steinstufen bei Nässe rutschig sein können. Nachmittags suchen wir Schutz in der St.-Joseph-Kirche und genießen Austern unter den Vordächern am Wasser. Der Tag endet gemütlich in einer Taverne in der Nähe des Toljevac-Turms.",
             "hu": "Reggel az esőben fürdő kikötőt fedezzük fel, a vizes macskakövek tükröződései különleges látványt nyújtanak. Délben a Koruna erőd és a várfalak következnek, ahol a csúszós lépcsők miatt óvatosság ajánlott. Délután a Szent József-templom nyújt menedéket, majd a parton, fedett helyen kóstolunk osztrigát. A napot egy hangulatos helyi tavernánál zárjuk a Toljevac-torony közelében.",
             "ro": "Dimineața explorăm portul în ploaie, reflexiile de pe pavaj oferind oportunități foto unice. La prânz vizităm cetatea Koruna și zidurile, unde treptele de piatră pot fi alunecoase când sunt ude. După-amiaza ne adăpostim în biserica Sf. Iosif și degustăm stridii sub copertinele de la malul mării. Ziua se încheie confortabil într-o tavernă locală lângă turnul Toljevac.",
-            "en": "In the morning, we explore the rain-soaked port, where reflections on the cobblestones create unique photo opportunities. At noon, we visit Koruna Fortress and the walls, staying cautious on slippery stone steps. Afternoon brings us to St. Joseph Church for shelter, followed by oyster tasting under covered waterfront areas. The day ends warmly in a local tavern near the Toljevac Tower."
+            "en": "In the morning, we explore the rain-soaked port, where reflections on the cobblestones create unique photo opportunities. At noon, we visit Koruna Fortress and the walls, staying cautious on slippery stone steps. Afternoon brings us to St. Joseph Church for shelter, followed by oyster tasting under covered waterfront areas. The day ends warmly in a local tavern near the Toljevac Tower.",
+            "hr": "Ujutro istražujemo kišom natopljenu luku, gdje odsjaji na kaldrmi stvaraju jedinstvene prilike za fotografiranje. U podne posjećujemo tvrđavu Koruna i zidine, uz oprez na klizavim kamenim stepenicama. Popodne nas vodi do crkve sv. Josipa koja nudi zaklon, a zatim slijedi kušanje kamenica u natkrivenim dijelovima uz obalu. Dan završava u toplini lokalne konobe u blizini kule Toljevac."
           },
           "stops": [
             {
@@ -258,7 +288,8 @@
                 "de": "Die Cafés am Kai bieten trockene Plätze.",
                 "hu": "A rakparti kávézók fedett helyet kínálnak.",
                 "ro": "Cafenelele de pe chei oferă locuri uscate.",
-                "en": "Cafes on the quay offer dry spots."
+                "en": "Cafes on the quay offer dry spots.",
+                "hr": "Kafići na rivi nude suha mjesta."
               }
             },
             {
@@ -267,7 +298,8 @@
                 "de": "Vorsicht auf den nassen Steinstufen.",
                 "hu": "Vigyázat a vizes, csúszós kőlépcsőkön.",
                 "ro": "Atenție la treptele de piatră umede.",
-                "en": "Be careful on the wet stone steps."
+                "en": "Be careful on the wet stone steps.",
+                "hr": "Budite oprezni na mokrim kamenim stepenicama."
               }
             },
             {
@@ -276,7 +308,8 @@
                 "de": "Feste Schuhe mit gutem Grip sind Pflicht.",
                 "hu": "Jó tapadású, vízálló cipő kötelező.",
                 "ro": "Pantofii cu aderență bună sunt obligatorii.",
-                "en": "Shoes with good grip are mandatory."
+                "en": "Shoes with good grip are mandatory.",
+                "hr": "Obuća koja ne kliže je obavezna."
               }
             },
             {
@@ -285,7 +318,8 @@
                 "de": "Ideal, um einen kräftigen Schauer abzuwarten.",
                 "hu": "Ideális egy nagyobb zápor átvészelésére.",
                 "ro": "Ideal pentru a aștepta trecerea unei averse.",
-                "en": "Ideal place to wait out a heavy shower."
+                "en": "Ideal place to wait out a heavy shower.",
+                "hr": "Idealno mjesto za čekanje da prođe jak pljusak."
               }
             },
             {
@@ -294,7 +328,8 @@
                 "de": "Verkostung findet in überdachten Booten statt.",
                 "hu": "A kóstoló fedett csónakokban történik.",
                 "ro": "Degustarea are loc în bărci acoperite.",
-                "en": "Tasting takes place in covered boats."
+                "en": "Tasting takes place in covered boats.",
+                "hr": "Kušanje se odvija u natkrivenim brodicama."
               }
             },
             {
@@ -303,7 +338,8 @@
                 "de": "Der Blick auf das graue Meer ist mystisch.",
                 "hu": "A szürke tenger látványa misztikus.",
                 "ro": "Vederea mării gri este mistică.",
-                "en": "The view of the gray sea is mystical."
+                "en": "The view of the gray sea is mystical.",
+                "hr": "Pogled na sivo more je mističan."
               }
             }
           ],
@@ -331,6 +367,12 @@
               "The limestone steps of the wall become very slippery when wet.",
               "Waterproof hiking shoes are recommended for the terrain.",
               "The narrow alleys provide good shelter from the wind."
+            ],
+            "hr": [
+              "Čvrst kišobran je neophodan zbog morskog povjetarca.",
+              "Vapnenačke stepenice zidina postaju vrlo klizave kada su mokre.",
+              "Preporučuje se vodootporna obuća za pješačenje zbog terena.",
+              "Uske uličice pružaju dobar zaklon od vjetra."
             ]
           }
         },
@@ -339,7 +381,8 @@
             "de": "Der Wintermorgen am Hafen ist ruhig und klar. Mittags erklimmen wir die Festung Koruna und die Mauern, die bei mildem Winterwetter angenehm zu begehen sind. Nachmittags besichtigen wir die Kirche und wärmen uns bei einer Austernverkostung mit lokalem Wein auf. Da die Sonne gegen 16:30 Uhr untergeht, genießen wir das blaue Licht am Toljevac-Turm vor dem Abendessen.",
             "hu": "A téli reggel a kikötőben csendes és tiszta. Délben másszuk meg a Koruna erődöt és a várfalakat, ami a hűvös időben kevésbé megterhelő. Délután megtekintjük a templomot, majd osztrigakóstolóval és helyi borral melegszünk fel. Mivel a nap 16:30 körül nyugszik, a Toljevac-toronynál még elkapjuk a kék órát a vacsora előtt.",
             "ro": "Dimineața de iarnă în port este liniștită și senină. La prânz urcăm la cetatea Koruna și pe ziduri, activitate plăcută pe vreme răcoroasă. După-amiaza vizităm biserica și ne încălzim cu o degustare de stridii și vin local. Deoarece soarele apune în jur de 16:30, ne bucurăm de lumina albastră la turnul Toljevac înainte de cină.",
-            "en": "A winter morning at the port is quiet and crisp. At noon, we climb Koruna Fortress and the walls, which is pleasant in the cooler weather. Afternoon includes a visit to the church and warming up with an oyster tasting paired with local wine. Since the sun sets around 4:30 PM, we enjoy the blue hour at Toljevac Tower before heading to dinner."
+            "en": "A winter morning at the port is quiet and crisp. At noon, we climb Koruna Fortress and the walls, which is pleasant in the cooler weather. Afternoon includes a visit to the church and warming up with an oyster tasting paired with local wine. Since the sun sets around 4:30 PM, we enjoy the blue hour at Toljevac Tower before heading to dinner.",
+            "hr": "Zimsko jutro u luci je tiho i svježe. U podne se penjemo na tvrđavu Koruna i zidine, što je ugodno po hladnijem vremenu. Poslijepodne uključuje posjet crkvi i grijanje uz kušanje kamenica uz domaće vino. Budući da sunce zalazi oko 16:30, uživamo u plavom satu kod kule Toljevac prije odlaska na večeru."
           },
           "stops": [
             {
@@ -348,7 +391,8 @@
                 "de": "Warme Kleidung gegen die Bura-Winde tragen.",
                 "hu": "Öltözzön rétegesen a bóra szél ellen.",
                 "ro": "Purtați haine groase împotriva vântului Bura.",
-                "en": "Wear warm layers against the Bura winds."
+                "en": "Wear warm layers against the Bura winds.",
+                "hr": "Odjenite se slojevito i toplo zbog bure."
               }
             },
             {
@@ -357,7 +401,8 @@
                 "de": "Die Wintersonne steht tief für tolle Fotos.",
                 "hu": "A téli nap alacsonyan jár, kiváló fotókhoz.",
                 "ro": "Soarele de iarnă este jos, perfect pentru poze.",
-                "en": "The winter sun is low, perfect for photos."
+                "en": "The winter sun is low, perfect for photos.",
+                "hr": "Zimsko sunce je nisko, savršeno za fotografije."
               }
             },
             {
@@ -366,7 +411,8 @@
                 "de": "Im Winter ist es hier viel weniger überlaufen.",
                 "hu": "Télen sokkal kisebb itt a tömeg.",
                 "ro": "Iarna este mult mai puțin aglomerat aici.",
-                "en": "It is much less crowded here in winter."
+                "en": "It is much less crowded here in winter.",
+                "hr": "Zimi je ovdje puno manja gužva."
               }
             },
             {
@@ -375,7 +421,8 @@
                 "de": "Ein Ort der Stille und inneren Einkehr.",
                 "hu": "A csend és az elmélyülés helyszíne.",
                 "ro": "Un loc de liniște și reflexie interioară.",
-                "en": "A place of silence and inner reflection."
+                "en": "A place of silence and inner reflection.",
+                "hr": "Mjesto tišine i unutarnjeg razmišljanja."
               }
             },
             {
@@ -384,7 +431,8 @@
                 "de": "Austern schmecken in den kalten Monaten am besten.",
                 "hu": "Az osztriga a hideg hónapokban a legfinomabb.",
                 "ro": "Stridiile sunt cele mai bune în lunile reci.",
-                "en": "Oysters are at their best in the cold months."
+                "en": "Oysters are at their best in the cold months.",
+                "hr": "Kamenice su najbolje u hladnim mjesecima."
               }
             },
             {
@@ -393,7 +441,8 @@
                 "de": "Frühzeitiger Aufbruch wegen des frühen Sonnenuntergangs.",
                 "hu": "Induljon időben a korai naplemente miatt.",
                 "ro": "Plecați devreme din cauza apusului timpuriu.",
-                "en": "Start early due to the early sunset."
+                "en": "Start early due to the early sunset.",
+                "hr": "Krenite rano zbog ranog zalaska sunca."
               }
             }
           ],
@@ -421,6 +470,12 @@
               "Sunset is already around 4:30 PM.",
               "Many small shops have shortened winter hours.",
               "Oyster season peaks in March, but winter is excellent."
+            ],
+            "hr": [
+              "Bura može biti vrlo hladna i snažna.",
+              "Zalazak sunca je već oko 16:30.",
+              "Mnoge male trgovine imaju skraćeno zimsko radno vrijeme.",
+              "Sezona kamenica vrhunac doseže u ožujku, ali zima je izvrsna."
             ]
           }
         }

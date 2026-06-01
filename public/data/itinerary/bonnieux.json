@@ -31,7 +31,8 @@
             "de": "Besuchen Sie den lokalen Markt am Freitagmorgen.",
             "hu": "Péntek délelőttönként nézze meg a helyi piacot.",
             "ro": "Vizitați piața locală în diminețile de vineri.",
-            "en": "Visit the local market on Friday mornings."
+            "en": "Visit the local market on Friday mornings.",
+            "fr": "Visitez le marché local le vendredi matin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Entdecken Sie die Geschichte des provenzalischen Brotes.",
             "hu": "Fedezze fel a provence-i kenyérkészítés történetét.",
             "ro": "Descoperiți istoria pâinii provensale.",
-            "en": "Discover the history of Provençal bread-making."
+            "en": "Discover the history of Provençal bread-making.",
+            "fr": "Découvrez l'histoire de la panification provençale."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die Architektur aus dem 19. Jahrhundert.",
             "hu": "Csodálja meg a 19. századi építészetet.",
             "ro": "Admirați arhitectura din secolul al XIX-lea.",
-            "en": "Admire the 19th-century architecture."
+            "en": "Admire the 19th-century architecture.",
+            "fr": "Admirez l'architecture du XIXe siècle."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Der Aufstieg über die Treppen lohnt sich für die Aussicht.",
             "hu": "A lépcsőkön való felkapaszkodás megéri a kilátásért.",
             "ro": "Urcarea pe scări merită pentru priveliște.",
-            "en": "The climb up the stairs is worth it for the view."
+            "en": "The climb up the stairs is worth it for the view.",
+            "fr": "La montée des escaliers en vaut la peine pour la vue."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein geheimnisvoller Turm mit Blick auf den Luberon.",
             "hu": "Rejtélyes torony kilátással a Luberon-völgyre.",
             "ro": "Un turn misterios cu vedere spre Luberon.",
-            "en": "A mysterious tower with views over the Luberon."
+            "en": "A mysterious tower with views over the Luberon.",
+            "fr": "Une tour mystérieuse avec vue sur le Luberon."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Beginnen Sie Ihren Morgen auf dem lebhaften Place de la Liberté, dem pulsierenden Herz des Dorfes. Tauchen Sie anschließend im Bäckereimuseum in die kulinarischen Traditionen der Region ein.\n\nMittags erkunden Sie die Église Neuve, bevor Sie den malerischen Aufstieg zur Église Vieille wagen. Die kühle Brise in den Gassen bietet eine willkommene Erholung von der provenzalischen Sonne.\n\nDer Nachmittag steht ganz im Zeichen der Geschichte beim Besuch der Tour Philippe. Von hier aus haben Sie einen atemberaubenden Blick auf die umliegenden Weinberge und Ockerfelsen.\n\nLassen Sie den Tag mit einem entspannten Spaziergang durch die steilen Treppengassen ausklingen. Genießen Sie die goldene Stunde, wenn die Steinfassaden in warmem Licht leuchten.",
         "hu": "Kezdje a reggelt a forgalmas Place de la Liberté-n, a falu lüktető szívében. Ezután merüljön el a régió kulináris hagyományaiban a Pék-múzeumban.\n\nDélben fedezze fel az Église Neuve-t, mielőtt nekivágna a festői emelkedőnek az Église Vieille-hez. A szűk utcák hűvös szellője felüdülést nyújt a provence-i napsütésben.\n\nA délután a történelem jegyében telik a Tour Philippe meglátogatásával. Innen lenyűgöző kilátás nyílik a környező szőlőültetvényekre és az okkersárga sziklákra.\n\nZárja a napot egy pihentető sétával a meredek lépcsős utcákon. Élvezze az arany órát, amikor a kőhomlokzatok meleg fényben ragyognak.",
         "ro": "Începeți dimineața în animata Place de la Liberté, inima vibrantă a satului. Apoi, scufundați-vă în tradițiile culinare ale regiunii la Muzeul Brutăriei.\n\nLa prânz, explorați Église Neuve înainte de a urca panta pitorească spre Église Vieille. Briza răcoroasă din străduțe oferă o relaxare binevenită față de soarele provensal.\n\nDupă-amiaza este dedicată istoriei, vizitând Tour Philippe. De aici aveți o vedere uluitoare asupra podgoriilor înconjurătoare și a stâncilor de ocru.\n\nÎncheiați ziua cu o plimbare relaxantă pe străzile cu trepte abrupte. Bucurați-vă de ora de aur, când fațadele de piatră strălucesc în lumină caldă.",
-        "en": "Start your morning at the bustling Place de la Liberté, the vibrant heart of the village. Then, immerse yourself in the culinary traditions of the region at the Bakery Museum.\n\nAt midday, explore the Église Neuve before tackling the picturesque climb to the Église Vieille. The cool breeze in the narrow streets offers a welcome respite from the Provençal sun.\n\nAfternoon is dedicated to history with a visit to Tour Philippe. From here, you have a breathtaking view of the surrounding vineyards and ochre cliffs.\n\nEnd the day with a relaxing stroll through the steep, stepped streets. Enjoy the golden hour when the stone facades glow in warm light."
+        "en": "Start your morning at the bustling Place de la Liberté, the vibrant heart of the village. Then, immerse yourself in the culinary traditions of the region at the Bakery Museum.\n\nAt midday, explore the Église Neuve before tackling the picturesque climb to the Église Vieille. The cool breeze in the narrow streets offers a welcome respite from the Provençal sun.\n\nAfternoon is dedicated to history with a visit to Tour Philippe. From here, you have a breathtaking view of the surrounding vineyards and ochre cliffs.\n\nEnd the day with a relaxing stroll through the steep, stepped streets. Enjoy the golden hour when the stone facades glow in warm light.",
+        "fr": "Commencez votre matinée sur la trépidante Place de la Liberté, le cœur vibrant du village. Plongez ensuite dans les traditions culinaires de la région au Musée de la Boulangerie.\n\nÀ la mi-journée, explorez l'Église Neuve avant d'entamer la montée pittoresque vers l'Église Vieille. La brise fraîche dans les ruelles étroites offre un répit bienvenu face au soleil provençal.\n\nL'après-midi est dédié à l'histoire avec une visite de la Tour Philippe. De là, vous aurez une vue imprenable sur les vignobles environnants et les falaises d'ocre.\n\nTerminez la journée par une promenade relaxante dans les rues escarpées et en escaliers. Profitez de l'heure dorée, lorsque les façades en pierre s'illuminent d'une lumière chaude."
       },
       "gastro_picks": {
         "de": [
@@ -152,6 +158,16 @@
           {
             "name": "Cavaillon Melon",
             "tip": "A local sweet specialty, perfect as a starter."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Fournil",
+            "tip": "Goûtez le pain artisanal dans ce restaurant aménagé dans la roche."
+          },
+          {
+            "name": "Cavaillon Melon",
+            "tip": "Une spécialité sucrée locale, parfaite en entrée."
           }
         ]
       },
@@ -203,6 +219,18 @@
             "tip": "Quiet forest path above the village.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Terrasse supérieure de l'Église Vieille",
+            "tip": "Vue panoramique sur le Luberon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sentier vers la Forêt des Cèdres",
+            "tip": "Chemin forestier paisible au-dessus du village.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -229,6 +257,12 @@
             "name": "Bonnieux Market",
             "tip": "Local olive oils and lavender products."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché de Bonnieux",
+            "tip": "Huiles d'olive locales et produits à la lavande."
+          }
         ]
       },
       "tips": {
@@ -247,6 +281,10 @@
         "en": [
           "Wear comfortable shoes for the many stairs.",
           "Park at the bottom of the village as the streets are very narrow."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les nombreux escaliers.",
+          "Garez-vous au bas du village, car les rues sont très étroites."
         ]
       }
     },
@@ -273,7 +311,8 @@
             "de": "Startpunkt mit Wasserstelle.",
             "hu": "Kiindulópont vízvételi lehetőséggel.",
             "ro": "Punct de plecare cu sursă de apă.",
-            "en": "Starting point with a water station."
+            "en": "Starting point with a water station.",
+            "fr": "Point de départ avec point d'eau."
           }
         },
         {
@@ -291,7 +330,8 @@
             "de": "Alte römische Brücke, ideal für Fotos.",
             "hu": "Régi római híd, ideális fotózáshoz.",
             "ro": "Pod roman vechi, ideal pentru fotografii.",
-            "en": "Old Roman bridge, ideal for photos."
+            "en": "Old Roman bridge, ideal for photos.",
+            "fr": "Vieux pont romain, idéal pour les photos."
           }
         },
         {
@@ -309,7 +349,8 @@
             "de": "Schattige Wege im Zedernwald.",
             "hu": "Árnyas utak a cédruserdőben.",
             "ro": "Trasee umbrite în pădurea de cedri.",
-            "en": "Shady paths in the cedar forest."
+            "en": "Shady paths in the cedar forest.",
+            "fr": "Sentiers ombragés dans la forêt de cèdres."
           }
         },
         {
@@ -327,7 +368,8 @@
             "de": "Traditionelle Steinhütten der Provence.",
             "hu": "Hagyományos provence-i kőkunyhók.",
             "ro": "Colibe tradiționale de piatră din Provence.",
-            "en": "Traditional stone huts of Provence."
+            "en": "Traditional stone huts of Provence.",
+            "fr": "Cabanes en pierre traditionnelles de Provence."
           }
         },
         {
@@ -345,7 +387,8 @@
             "de": "Letzter Anstieg für die beste Aussicht.",
             "hu": "Utolsó emelkedő a legjobb kilátásért.",
             "ro": "Ultima urcare pentru cea mai bună vedere.",
-            "en": "Final climb for the best view."
+            "en": "Final climb for the best view.",
+            "fr": "Montée finale pour la meilleure vue."
           }
         }
       ],
@@ -353,7 +396,8 @@
         "de": "Radeln Sie am Morgen hinunter zum antiken Pont Julien, einem Meisterwerk römischer Ingenieurskunst. Die Strecke führt durch weite Wein- und Lavendelfelder.\n\nMittags erklimmen Sie die Wege zum Zedernwald, wo die kühle Waldluft neue Energie spendet. Es ist der perfekte Ort für ein Picknick im Schatten der majestätischen Bäume.\n\nNachmittags geht es weiter zu den Enclos des Bories, um die faszinierende Trockenmauer-Architektur zu bestaunen. Ein Zeugnis des ländlichen Lebens vergangener Jahrhunderte.\n\nBeenden Sie Ihre Tour mit einem anspruchsvollen Anstieg zurück ins Dorf. Die Belohnung ist ein unvergleichliches Panorama über das Calavon-Tal beim Sonnenuntergang.",
         "hu": "Tekerjen le reggel az antik Pont Julienhez, a római mérnöki munka remekművéhez. Az út tágas szőlő- és levendulamezőkön vezet keresztül.\n\nDélben másszon fel a cédruserdőhöz vezető utakon, ahol a hűvös erdei levegő új energiát ad. Tökéletes hely egy piknikhez a fenséges fák árnyékában.\n\nDélután folytassa útját az Enclos des Bories felé, hogy megcsodálja a lenyűgöző szárazon rakott kőépítészetet. A múlt századok vidéki életének tanúbizonysága.\n\nZárja túráját egy kihívást jelentő emelkedővel vissza a faluba. A jutalom egy páratlan panoráma a Calavon-völgyre a naplementében.",
         "ro": "Pedalați dimineața până la anticul Pont Julien, o capodoperă a ingineriei romane. Traseul trece prin câmpuri vaste de viță de vie și lavandă.\n\nLa prânz, urcați pe drumurile spre pădurea de cedri, unde aerul răcoros al pădurii oferă energie nouă. Este locul perfect pentru un picnic la umbra arborilor maiestuoși.\n\nDupă-amiaza continuați spre Enclos des Bories pentru a admira arhitectura fascinantă din piatră uscată. O mărturie a vieții rurale din secolele trecute.\n\nÎncheiați turul cu o urcare solicitantă înapoi în sat. Recompensa este o panoramă inegalabilă asupra văii Calavon la apus.",
-        "en": "Cycle down in the morning to the ancient Pont Julien, a masterpiece of Roman engineering. The route passes through wide vineyards and lavender fields.\n\nAt midday, climb the paths to the Cedar Forest, where the cool forest air gives new energy. It's the perfect spot for a picnic in the shade of the majestic trees.\n\nIn the afternoon, continue to the Enclos des Bories to marvel at the fascinating dry-stone architecture. A testament to the rural life of past centuries.\n\nEnd your tour with a challenging climb back into the village. The reward is an unparalleled panorama over the Calavon valley at sunset."
+        "en": "Cycle down in the morning to the ancient Pont Julien, a masterpiece of Roman engineering. The route passes through wide vineyards and lavender fields.\n\nAt midday, climb the paths to the Cedar Forest, where the cool forest air gives new energy. It's the perfect spot for a picnic in the shade of the majestic trees.\n\nIn the afternoon, continue to the Enclos des Bories to marvel at the fascinating dry-stone architecture. A testament to the rural life of past centuries.\n\nEnd your tour with a challenging climb back into the village. The reward is an unparalleled panorama over the Calavon valley at sunset.",
+        "fr": "Descendez à vélo le matin jusqu'à l'antique Pont Julien, un chef-d'œuvre de l'ingénierie romaine. L'itinéraire traverse de vastes vignobles et des champs de lavande.\n\nÀ la mi-journée, gravissez les sentiers vers la Forêt des Cèdres, où l'air frais de la forêt redonne de l'énergie. C'est l'endroit idéal pour un pique-nique à l'ombre des arbres majestueux.\n\nL'après-midi, continuez vers l'Enclos des Bories pour admirer la fascinante architecture en pierre sèche, témoignage de la vie rurale des siècles passés.\n\nTerminez votre tour par une montée exigeante pour revenir au village. La récompense est un panorama inégalé sur la vallée du Calavon au coucher du soleil."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +422,12 @@
           {
             "name": "Edon",
             "tip": "Modern Provençal cuisine with regional products."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Edon",
+            "tip": "Cuisine provençale moderne avec des produits régionaux."
           }
         ]
       },
@@ -409,6 +459,13 @@
             "tip": "Silence under 150-year-old trees.",
             "emoji": "🌲"
           }
+        ],
+        "fr": [
+          {
+            "name": "Forêt des Cèdres",
+            "tip": "Le silence sous des arbres de 150 ans.",
+            "emoji": "🌲"
+          }
         ]
       },
       "shopping_picks": {
@@ -435,6 +492,12 @@
             "name": "Domaine de la Citadelle",
             "tip": "Excellent local wines directly from the estate."
           }
+        ],
+        "fr": [
+          {
+            "name": "Domaine de la Citadelle",
+            "tip": "Excellents vins locaux directement au domaine."
+          }
         ]
       },
       "tips": {
@@ -453,6 +516,10 @@
         "en": [
           "An e-bike is highly recommended due to the steep slopes.",
           "Watch out for traffic on the way to Pont Julien."
+        ],
+        "fr": [
+          "Un vélo électrique est fortement recommandé en raison des pentes raides.",
+          "Attention à la circulation sur la route du Pont Julien."
         ]
       }
     },
@@ -479,7 +546,8 @@
             "de": "Kostenloser Parkplatz direkt an der Brücke.",
             "hu": "Ingyenes parkoló közvetlenül a hídnál.",
             "ro": "Parcare gratuită direct la pod.",
-            "en": "Free parking right by the bridge."
+            "en": "Free parking right by the bridge.",
+            "fr": "Parking gratuit juste à côté du pont."
           }
         },
         {
@@ -497,7 +565,8 @@
             "de": "Schmale Zufahrt, vorsichtig fahren.",
             "hu": "Szűk bekötőút, óvatosan vezessen.",
             "ro": "Acces îngust, conduceți cu atenție.",
-            "en": "Narrow access road, drive carefully."
+            "en": "Narrow access road, drive carefully.",
+            "fr": "Route d'accès étroite, conduisez prudemment."
           }
         },
         {
@@ -515,7 +584,8 @@
             "de": "Parken Sie auf dem Parkplatz P1.",
             "hu": "Parkoljon a P1 parkolóban.",
             "ro": "Parcați în parcarea P1.",
-            "en": "Park in the P1 parking lot."
+            "en": "Park in the P1 parking lot.",
+            "fr": "Garez-vous sur le parking P1."
           }
         },
         {
@@ -533,7 +603,8 @@
             "de": "Ideal für einen Spaziergang nach dem Mittagessen.",
             "hu": "Ideális egy ebéd utáni sétához.",
             "ro": "Ideal pentru o plimbare după prânz.",
-            "en": "Ideal for a post-lunch stroll."
+            "en": "Ideal for a post-lunch stroll.",
+            "fr": "Idéal pour une promenade après le déjeuner."
           }
         },
         {
@@ -551,7 +622,8 @@
             "de": "Schöne Aussicht auf den Mont Ventoux.",
             "hu": "Szép kilátás a Mont Ventoux-ra.",
             "ro": "Vedere frumoasă spre Mont Ventoux.",
-            "en": "Beautiful view of Mont Ventoux."
+            "en": "Beautiful view of Mont Ventoux.",
+            "fr": "Belle vue sur le Mont Ventoux."
           }
         }
       ],
@@ -559,7 +631,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer kurzen Fahrt zum Pont Julien, bevor die Tourbusse ankommen. Setzen Sie Ihre Reise zu den Enclos des Bories fort, um die ländliche Architektur zu erkunden.\n\nMittags kehren Sie ins Dorfzentrum zurück, um das Bäckereimuseum zu besuchen. Genießen Sie anschließend ein ausgiebiges provenzalisches Mittagessen in einem der Terrassenrestaurants.\n\nDer Nachmittag gehört der Natur im Zedernwald. Die kurvenreiche Straße bietet spektakuläre Ausblicke auf das Luberon-Massiv und das Tal.\n\nSchließen Sie den Tag mit einem Besuch der Tour Philippe ab. Die ruhige Atmosphäre am späten Nachmittag ist ideal, um die Weite der Provence auf sich wirken zu lassen.",
         "hu": "Kezdje a napot egy rövid autóúttal a Pont Julienhez, mielőtt a turistabuszok megérkeznének. Folytassa útját az Enclos des Bories-hoz a vidéki építészet felfedezéséhez.\n\nDélben térjen vissza a falu központjába a Pék-múzeum meglátogatására. Ezután élvezze a bőséges provence-i ebédet az egyik teraszos étteremben.\n\nA délután a természeté a cédruserdőben. A kanyargós út látványos kilátást nyújt a Luberon-masszívumra és a völgyre.\n\nZárja a napot a Tour Philippe meglátogatásával. A késő délutáni nyugodt légkör ideális Provence tágasságának befogadására.",
         "ro": "Începeți ziua cu o scurtă călătorie cu mașina până la Pont Julien, înainte de sosirea autocarelor. Continuați spre Enclos des Bories pentru a explora arhitectura rurală.\n\nLa prânz, reveniți în centrul satului pentru a vizita Muzeul Brutăriei. Savurați apoi un prânz provensal bogat la unul dintre restaurantele cu terasă.\n\nDupă-amiaza aparține naturii în pădurea de cedri. Drumul sinuos oferă priveliști spectaculoase asupra masivului Luberon și a văii.\n\nÎncheiați ziua cu o vizită la Tour Philippe. Atmosfera liniștită de după-amiază târziu este ideală pentru a simți imensitatea Provence-ului.",
-        "en": "Start your day with a short drive to Pont Julien before the tour buses arrive. Continue your journey to the Enclos des Bories to explore the rural architecture.\n\nAt midday, return to the village center to visit the Bakery Museum. Then enjoy a hearty Provençal lunch at one of the terrace restaurants.\n\nThe afternoon belongs to nature in the Cedar Forest. The winding road offers spectacular views of the Luberon massif and the valley.\n\nClose the day with a visit to Tour Philippe. The calm late-afternoon atmosphere is ideal for taking in the vastness of Provence."
+        "en": "Start your day with a short drive to Pont Julien before the tour buses arrive. Continue your journey to the Enclos des Bories to explore the rural architecture.\n\nAt midday, return to the village center to visit the Bakery Museum. Then enjoy a hearty Provençal lunch at one of the terrace restaurants.\n\nThe afternoon belongs to nature in the Cedar Forest. The winding road offers spectacular views of the Luberon massif and the valley.\n\nClose the day with a visit to Tour Philippe. The calm late-afternoon atmosphere is ideal for taking in the vastness of Provence.",
+        "fr": "Commencez votre journée par un court trajet jusqu'au Pont Julien avant l'arrivée des bus touristiques. Poursuivez votre route vers l'Enclos des Bories pour explorer l'architecture rurale.\n\nÀ la mi-journée, retournez au centre du village pour visiter le Musée de la Boulangerie. Profitez ensuite d'un copieux déjeuner provençal sur la terrasse de l'un des restaurants.\n\nL'après-midi appartient à la nature dans la Forêt des Cèdres. La route sinueuse offre des vues spectaculaires sur le massif du Luberon et la vallée.\n\nClôturez la journée par une visite de la Tour Philippe. L'atmosphère calme de la fin d'après-midi est idéale pour contempler l'immensité de la Provence."
       },
       "gastro_picks": {
         "de": [
@@ -584,6 +657,12 @@
           {
             "name": "L'Arôme",
             "tip": "Gourmet cuisine in a historic building."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Arôme",
+            "tip": "Cuisine gastronomique dans un bâtiment historique."
           }
         ]
       },
@@ -615,6 +694,13 @@
             "tip": "Quiet spot with 360-degree views.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Belvédère de la Crête du Luberon",
+            "tip": "Endroit calme avec vue à 360 degrés.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -641,6 +727,12 @@
             "name": "Confiserie du Luberon",
             "tip": "Candied fruits and honey from the region."
           }
+        ],
+        "fr": [
+          {
+            "name": "Confiserie du Luberon",
+            "tip": "Fruits confits et miel de la région."
+          }
         ]
       },
       "tips": {
@@ -659,6 +751,10 @@
         "en": [
           "Parking spaces in the village fill up quickly in summer.",
           "The road to the Cedar Forest is winding but well-maintained."
+        ],
+        "fr": [
+          "Les places de parking dans le village se remplissent vite en été.",
+          "La route vers la Forêt des Cèdres est sinueuse mais bien entretenue."
         ]
       }
     },
@@ -685,7 +781,8 @@
             "de": "Zentraler Bushalt (ZOU Bus).",
             "hu": "Központi buszmegálló (ZOU busz).",
             "ro": "Stație centrală de autobuz (ZOU Bus).",
-            "en": "Central bus stop (ZOU Bus)."
+            "en": "Central bus stop (ZOU Bus).",
+            "fr": "Arrêt de bus central (Bus ZOU)."
           }
         },
         {
@@ -703,7 +800,8 @@
             "de": "Nur wenige Gehminuten vom Bushalt entfernt.",
             "hu": "Csak pár perc séta a buszmegállótól.",
             "ro": "La doar câteva minute de mers pe jos de stație.",
-            "en": "Only a few minutes' walk from the bus stop."
+            "en": "Only a few minutes' walk from the bus stop.",
+            "fr": "À seulement quelques minutes à pied de l'arrêt de bus."
           }
         },
         {
@@ -721,7 +819,8 @@
             "de": "Barrierefreier Zugang möglich.",
             "hu": "Akadálymentes hozzáférés lehetséges.",
             "ro": "Acces fără bariere posibil.",
-            "en": "Barrier-free access possible."
+            "en": "Barrier-free access possible.",
+            "fr": "Accès sans barrière possible."
           }
         },
         {
@@ -739,7 +838,8 @@
             "de": "Nutzen Sie den befestigten Weg statt der Treppen.",
             "hu": "Használja a kiépített utat a lépcsők helyett.",
             "ro": "Folosiți drumul asfaltat în locul treptelor.",
-            "en": "Use the paved path instead of the stairs."
+            "en": "Use the paved path instead of the stairs.",
+            "fr": "Utilisez le chemin pavé au lieu des escaliers."
           }
         }
       ],
@@ -747,7 +847,8 @@
         "de": "Nutzen Sie die regionalen ZOU-Busse, um das malerische Bonnieux zu erreichen. Beginnen Sie Ihren Besuch am zentralen Place de la Liberté, dem idealen Ausgangspunkt.\n\nMittags steht die Kultur im Vordergrund: Besuchen Sie das Bäckereimuseum und spazieren Sie zur Église Neuve. Alles ist bequem zu Fuß erreichbar.\n\nDer Nachmittag lädt zum Erkunden der Église Vieille ein. Der Weg bietet immer wieder neue Perspektiven auf das Dorf und die Umgebung.\n\nBevor Ihr Bus zurückfährt, genießen Sie einen Kaffee auf dem Hauptplatz. Beobachten Sie das gemächliche Treiben in diesem typisch provenzalischen Dorf.",
         "hu": "Használja a regionális ZOU buszokat Bonnieux festői falujának eléréséhez. Kezdje látogatását a központi Place de la Liberté-n, amely ideális kiindulópont.\n\nDélben a kultúráé a főszerep: látogassa meg a Pék-múzeumot és sétáljon el az Église Neuve-höz. Minden kényelmesen elérhető gyalog.\n\nA délután hívogat az Église Vieille felfedezésére. Az út újra és újra új perspektívákat kínál a falura és a környékre.\n\nMielőtt visszaindulna a busza, élvezzen ki egy kávét a főtéren. Figyelje meg a komótos nyüzsgést ebben a tipikus provence-i faluban.",
         "ro": "Utilizați autobuzele regionale ZOU pentru a ajunge în pitorescul Bonnieux. Începeți vizita în centrul Place de la Liberté, punctul de plecare ideal.\n\nLa prânz, cultura este în prim-plan: vizitați Muzeul Brutăriei și mergeți spre Église Neuve. Totul este ușor accesibil pe jos.\n\nDupă-amiaza vă invită să explorați Église Vieille. Drumul oferă mereu noi perspective asupra satului și a împrejurimimilor.\n\nÎnainte ca autobuzul să plece înapoi, savurați o cafea în piața principală. Observați animația liniștită a acestui sat tipic provensal.",
-        "en": "Use the regional ZOU buses to reach the picturesque Bonnieux. Start your visit at the central Place de la Liberté, the ideal starting point.\n\nAt midday, culture is in focus: visit the Bakery Museum and walk to the Église Neuve. Everything is easily accessible on foot.\n\nThe afternoon invites you to explore the Église Vieille. The path offers constantly changing perspectives of the village and its surroundings.\n\nBefore your bus returns, enjoy a coffee in the main square. Watch the leisurely bustle in this typical Provençal village."
+        "en": "Use the regional ZOU buses to reach the picturesque Bonnieux. Start your visit at the central Place de la Liberté, the ideal starting point.\n\nAt midday, culture is in focus: visit the Bakery Museum and walk to the Église Neuve. Everything is easily accessible on foot.\n\nThe afternoon invites you to explore the Église Vieille. The path offers constantly changing perspectives of the village and its surroundings.\n\nBefore your bus returns, enjoy a coffee in the main square. Watch the leisurely bustle in this typical Provençal village.",
+        "fr": "Utilisez les bus régionaux ZOU pour rejoindre le pittoresque Bonnieux. Commencez votre visite à la Place de la Liberté, point de départ idéal.\n\nÀ la mi-journée, place à la culture : visitez le Musée de la Boulangerie et marchez jusqu'à l'Église Neuve. Tout est facilement accessible à pied.\n\nL'après-midi vous invite à explorer l'Église Vieille. Le sentier offre des perspectives changeantes sur le village et ses environs.\n\nAvant que votre bus ne reparte, savourez un café sur la place principale. Observez l'animation tranquille de ce village typiquement provençal."
       },
       "gastro_picks": {
         "de": [
@@ -772,6 +873,12 @@
           {
             "name": "Boulangerie Alary",
             "tip": "Pick up a fresh baguette for the go."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boulangerie Alary",
+            "tip": "Prenez une baguette fraîche pour la route."
           }
         ]
       },
@@ -803,6 +910,13 @@
             "tip": "Quiet spot in the shade.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Petits bancs derrière l'Église Neuve",
+            "tip": "Coin tranquille à l'ombre.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -829,6 +943,12 @@
             "name": "Bakery Museum Gift Shop",
             "tip": "Interesting books and local accessories."
           }
+        ],
+        "fr": [
+          {
+            "name": "Boutique du Musée de la Boulangerie",
+            "tip": "Livres intéressants et accessoires locaux."
+          }
         ]
       },
       "tips": {
@@ -847,6 +967,10 @@
         "en": [
           "Check the bus schedule in advance (Line 915).",
           "Buses run less frequently on Sundays and public holidays."
+        ],
+        "fr": [
+          "Vérifiez les horaires de bus à l'avance (Ligne 915).",
+          "Les bus circulent moins fréquemment les dimanches et jours fériés."
         ]
       }
     }

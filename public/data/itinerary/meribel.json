@@ -31,7 +31,8 @@
             "de": "Besuchen Sie die Eislaufbahn aus dem Jahr 1992.",
             "hu": "Nézd meg az 1992-es téli olimpia jégpályáját.",
             "ro": "Vizitați patinoarul construit pentru olimpiada din 1992.",
-            "en": "Visit the ice rink built for the 1992 Olympics."
+            "en": "Visit the ice rink built for the 1992 Olympics.",
+            "fr": "Visitez la patinoire construite pour les JO de 1992."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Eine moderne Kapelle mit warmem Holzinterieur.",
             "hu": "Modern kápolna meleg fa belsővel.",
             "ro": "O capelă modernă cu un interior cald din lemn.",
-            "en": "A modern chapel with a warm wooden interior."
+            "en": "A modern chapel with a warm wooden interior.",
+            "fr": "Une chapelle moderne à l'intérieur chaleureux en bois."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Perfekt für ein Picknick am kristallklaren Wasser.",
             "hu": "Tökéletes hely egy piknikhez a kristálytiszta víznél.",
             "ro": "Perfect pentru un picnic lângă apa cristalină.",
-            "en": "Perfect for a picnic by the crystal clear water."
+            "en": "Perfect for a picnic by the crystal clear water.",
+            "fr": "Parfait pour un pique-nique au bord de l'eau cristalline."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Achten Sie auf die geschützten Zirbelkiefern.",
             "hu": "Figyeld a védett havasi cincéreket és fenyőket.",
             "ro": "Observați pinii cembru protejați din rezervație.",
-            "en": "Look out for the protected stone pines in the reserve."
+            "en": "Look out for the protected stone pines in the reserve.",
+            "fr": "Guettez les pins cembro protégés dans la réserve."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Probieren Sie lokalen Beaufort-Käse.",
             "hu": "Kóstold meg a helyi Beaufort sajtot.",
             "ro": "Gustați brânza locală Beaufort.",
-            "en": "Try some local Beaufort cheese."
+            "en": "Try some local Beaufort cheese.",
+            "fr": "Goûtez au fromage Beaufort local."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Beginnen Sie Ihren Tag im Parc Olympique, dem Herzen der sportlichen Geschichte von Méribel. Ein gemütlicher Spaziergang führt Sie zur modernen Kapelle Notre-Dame-des-Neiges, bevor Sie in die alpine Natur eintauchen. Am Lac de Tuéda genießen Sie die frische Bergluft und das Panorama. Der Nachmittag gehört der Erkundung des Naturschutzgebietes, gefolgt von einem herzhaften savoyischen Abendessen im Zentrum.",
         "hu": "Kezdje a napot az Olimpiai Parkban, Méribel sporttörténeti központjában. Egy kellemes séta elvezeti a modern Notre-Dame-des-Neiges kápolnához, mielőtt elmerülne az alpesi természetben. A Tuéda-tónál élvezze a friss hegyi levegőt és a panorámát. A délután a természetvédelmi terület felfedezéséé, majd a napot egy kiadós savoyai vacsorával zárjuk a központban.",
         "ro": "Începeți ziua la Parcul Olimpic, inima istoriei sportive din Méribel. O plimbare relaxantă vă duce la capela modernă Notre-Dame-des-Neiges înainte de a intra în natura alpină. La Lac de Tuéda, bucurați-vă de aerul proaspăt de munte și de panoramă. După-amiaza este dedicată explorării rezervației naturale, urmată de o cină savoyardă copioasă în centru.",
-        "en": "Start your day at the Olympic Park, the heart of Méribel's sporting history. A pleasant walk takes you to the modern Notre-Dame-des-Neiges chapel before diving into Alpine nature. At Lac de Tuéda, enjoy the fresh mountain air and the panorama. The afternoon is dedicated to exploring the nature reserve, followed by a hearty Savoyard dinner in the center."
+        "en": "Start your day at the Olympic Park, the heart of Méribel's sporting history. A pleasant walk takes you to the modern Notre-Dame-des-Neiges chapel before diving into Alpine nature. At Lac de Tuéda, enjoy the fresh mountain air and the panorama. The afternoon is dedicated to exploring the nature reserve, followed by a hearty Savoyard dinner in the center.",
+        "fr": "Commencez votre journée au Parc Olympique, le cœur de l'histoire sportive de Méribel. Une agréable promenade vous mène à la chapelle moderne Notre-Dame-des-Neiges avant de plonger dans la nature alpine. Au lac de Tuéda, profitez de l'air pur de la montagne et du panorama. L'après-midi est dédié à l'exploration de la réserve naturelle, suivie d'un copieux dîner savoyard dans le centre."
       },
       "gastro_picks": {
         "de": [
@@ -152,6 +158,16 @@
           {
             "name": "La Fromagerie",
             "tip": "The best place for fondue and raclette in the center."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Clos Bernard",
+            "tip": "Chalet rustique avec une cuisine traditionnelle au feu de bois."
+          },
+          {
+            "name": "La Fromagerie",
+            "tip": "La meilleure adresse pour la fondue et la raclette dans le centre."
           }
         ]
       },
@@ -203,6 +219,18 @@
             "tip": "Lonely path through fragrant pine forests.",
             "emoji": "🌲"
           }
+        ],
+        "fr": [
+          {
+            "name": "Rives du lac de Tuéda",
+            "tip": "Coin tranquille au bord de l'eau pour la méditation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sentier forestier de l'Altiport",
+            "tip": "Chemin solitaire à travers les forêts de pins odorants.",
+            "emoji": "🌲"
+          }
         ]
       },
       "shopping_picks": {
@@ -245,6 +273,16 @@
             "name": "Sport 2000 Front de Neige",
             "tip": "High-quality mountain gear and fashion."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché de Méribel",
+            "tip": "Produits locaux et artisanat (mardi/vendredi)."
+          },
+          {
+            "name": "Sport 2000 Front de Neige",
+            "tip": "Équipement de montagne et mode de haute qualité."
+          }
         ]
       },
       "tips": {
@@ -275,6 +313,13 @@
           "The sun is strong in the mountains, don't forget sun protection.",
           "Book restaurants for dinner in advance.",
           "Visit the Maison de la Réserve by the lake for nature information."
+        ],
+        "fr": [
+          "Portez des chaussures de randonnée confortables car les sentiers peuvent être caillouteux.",
+          "Utilisez les navettes gratuites Méribus pour les sections à forte pente.",
+          "Le soleil est fort en montagne, n'oubliez pas votre protection solaire.",
+          "Réservez vos restaurants pour le dîner à l'avance.",
+          "Visitez la Maison de la Réserve au bord du lac pour des informations sur la nature."
         ]
       },
       "variants": {
@@ -502,7 +547,8 @@
             "de": "Beginnen Sie den Tag im Parc Olympique, wo Schwimmbad und Spa Schutz vor dem Regen bieten. Mittags dient die Kapelle als stiller, trockener Rückzugsort. Nachmittags erleben Sie die mystische, neblige Atmosphäre am Lac de Tuéda zwischen duftenden Zirben. Der Abend klingt bei einem herzhaften Savoyer Käseessen gemütlich in einem lokalen Bistro aus.",
             "hu": "Kezdje a reggelt a Parc Olympique fedett létesítményeiben, ahol az uszoda és a spa nyújt menedéket az eső elől. Délben a kápolna csendes és száraz búvóhelyként szolgál. Délután élvezze a Lac de Tuéda misztikus, ködös látványát a friss fenyőillatban. Az estét egy bőséges savoyard sajtvacsorával zárja egy barátságos helyi bisztróban.",
             "ro": "Începeți ziua la Parc Olympique, unde piscina și centrul spa vă oferă adăpost de ploaie. La prânz, capela servește ca un refugiu liniștit și uscat. După-amiaza, experimentați atmosfera mistică și cețoasă de la Lac de Tuéda printre pinii parfumați. Seara se încheie confortabil cu o cină cu brânzeturi savoyarde într-un bistro local.",
-            "en": "Start the day at Parc Olympique, where the pool and spa offer shelter from the rain. At noon, the chapel serves as a quiet, dry sanctuary. In the afternoon, experience the mystical, misty atmosphere at Lac de Tuéda among fragrant pines. The evening ends cozily with a hearty Savoyard cheese dinner in a local bistro."
+            "en": "Start the day at Parc Olympique, where the pool and spa offer shelter from the rain. At noon, the chapel serves as a quiet, dry sanctuary. In the afternoon, experience the mystical, misty atmosphere at Lac de Tuéda among fragrant pines. The evening ends cozily with a hearty Savoyard cheese dinner in a local bistro.",
+            "fr": "Commencez la journée au Parc Olympique, où la piscine et le spa offrent un abri contre la pluie. À midi, la chapelle sert de sanctuaire calme et sec. L'après-midi, découvrez l'atmosphère mystique et brumeuse du lac de Tuéda parmi les pins odorants. La soirée se termine chaleureusement par un copieux dîner au fromage savoyard dans un bistro local."
           },
           "stops": [
             {
@@ -511,7 +557,8 @@
                 "de": "Perfekt bei Regen: Nutzen Sie das Hallenbad oder die Eislaufhalle.",
                 "hu": "Esőben ideális: használja a fedett medencét vagy a jégpályát.",
                 "ro": "Perfect pe ploaie: folosiți piscina interioară sau patinoarul.",
-                "en": "Perfect for rain: use the indoor pool or the ice skating rink."
+                "en": "Perfect for rain: use the indoor pool or the ice skating rink.",
+                "fr": "Parfait pour la pluie : profitez de la piscine intérieure ou de la patinoire."
               }
             },
             {
@@ -520,7 +567,8 @@
                 "de": "Ein schöner Ort, um kurz im Trockenen innezuhalten.",
                 "hu": "Szép hely egy rövid, száraz pihenőre a séta közben.",
                 "ro": "Un loc frumos pentru un scurt popas la adăpost de ploaie.",
-                "en": "A beautiful place for a short, dry pause during your walk."
+                "en": "A beautiful place for a short, dry pause during your walk.",
+                "fr": "Un bel endroit pour une petite pause au sec pendant votre promenade."
               }
             },
             {
@@ -529,7 +577,8 @@
                 "de": "Feste Schuhe nötig, der Uferweg kann bei Regen matschig sein.",
                 "hu": "Vízálló cipő kell, a tóparti ösvény esőben saras lehet.",
                 "ro": "Pantofi impermeabili necesari, poteca poate fi noroioasă.",
-                "en": "Waterproof shoes needed, the lakeside path can be muddy."
+                "en": "Waterproof shoes needed, the lakeside path can be muddy.",
+                "fr": "Chaussures imperméables nécessaires, le sentier du lac peut être boueux."
               }
             },
             {
@@ -538,7 +587,8 @@
                 "de": "Die Bäume bieten etwas Schutz, aber Regenschirm ist Pflicht.",
                 "hu": "A fák adnak némi védelmet, de az esernyő kötelező.",
                 "ro": "Copacii oferă puțin adăpost, dar umbrela este obligatorie.",
-                "en": "Trees provide some shelter, but an umbrella is mandatory."
+                "en": "Trees provide some shelter, but an umbrella is mandatory.",
+                "fr": "Les arbres offrent un certain abri, mais le parapluie est obligatoire."
               }
             },
             {
@@ -547,7 +597,8 @@
                 "de": "Genießen Sie regionale Spezialitäten in warmer Atmosphäre.",
                 "hu": "Élvezze a helyi specialitásokat meleg, barátságos környezetben.",
                 "ro": "Savurați specialități regionale într-o atmosferă caldă.",
-                "en": "Enjoy regional specialties in a warm, cozy atmosphere."
+                "en": "Enjoy regional specialties in a warm, cozy atmosphere.",
+                "fr": "Savourez des spécialités régionales dans une ambiance chaleureuse et cosy."
               }
             }
           ],
@@ -579,6 +630,13 @@
               "Mountain trails can be slippery, so stick to the main paths.",
               "Use the free Méribus shuttles to stay dry between locations.",
               "Local sports shops sell high-quality rain ponchos if needed."
+            ],
+            "fr": [
+              "Portez des chaussures de randonnée imperméables de qualité pour les sentiers du lac.",
+              "Le Parc Olympique est le meilleur quartier général en cas de pluie persistante.",
+              "Les sentiers de montagne peuvent être glissants, restez sur les chemins principaux.",
+              "Utilisez les navettes gratuites Méribus pour rester au sec entre les sites.",
+              "Les magasins de sport locaux vendent des ponchos de pluie de haute qualité si besoin."
             ]
           }
         },
@@ -587,7 +645,8 @@
             "de": "Starten Sie den Wintermorgen im verschneiten Olympiazentrum. Mittags bietet die von Schneewechten umgebene Kapelle ein märchenhaftes Fotomotiv. Nachmittags wandern Sie auf präparierten Winterwanderwegen zum gefrorenen Lac de Tuéda. Da die Sonne gegen 17:00 Uhr hinter den Gipfeln verschwindet, endet der Tag früh bei Kerzenschein und einem Fondue im Dorf.",
             "hu": "Indítsa a téli reggelt a hófödte olimpiai központnál. Délben a hófalakkal körülvett kápolna mesebeli fotótémát kínál. Délután sétáljon a jól karbantartott téli ösvényeken a befagyott Lac de Tuéda felé. Mivel a nap 17:00 körül eltűnik a csúcsok mögött, a nap korán, gyertyafényes fondue-vel zárul a faluban.",
             "ro": "Începeți dimineața de iarnă la centrul olimpic înzăpezit. La prânz, capela înconjurată de troiene oferă un cadru de poveste pentru fotografii. După-amiaza, plimbați-vă pe potecile de iarnă amenajate spre Lac de Tuéda înghețat. Deoarece soarele apune după creste în jurul orei 17:00, ziua se încheie devreme cu un fondue la lumina lumânărilor.",
-            "en": "Start your winter morning at the snow-covered Olympic center. At noon, the chapel surrounded by snowdrifts offers a fairytale photo opportunity. In the afternoon, walk along the groomed winter paths to the frozen Lac de Tuéda. As the sun sets behind the peaks around 17:00, the day ends early with candlelight and fondue in the village."
+            "en": "Start your winter morning at the snow-covered Olympic center. At noon, the chapel surrounded by snowdrifts offers a fairytale photo opportunity. In the afternoon, walk along the groomed winter paths to the frozen Lac de Tuéda. As the sun sets behind the peaks around 17:00, the day ends early with candlelight and fondue in the village.",
+            "fr": "Commencez votre matinée d'hiver au centre olympique enneigé. À midi, la chapelle entourée de congères offre une occasion de photo féerique. L'après-midi, marchez le long des sentiers d'hiver damés jusqu'au lac de Tuéda gelé. Alors que le soleil se couche derrière les sommets vers 17h00, la journée se termine tôt avec une fondue aux chandelles dans le village."
           },
           "stops": [
             {
@@ -596,7 +655,8 @@
                 "de": "Perfekt zum Aufwärmen nach dem ersten Schneespaziergang.",
                 "hu": "Tökéletes hely a felmelegedésre az első havas séta után.",
                 "ro": "Perfect pentru a vă încălzi după prima plimbare prin zăpadă.",
-                "en": "Perfect for warming up after your first snow walk."
+                "en": "Perfect for warming up after your first snow walk.",
+                "fr": "Parfait pour se réchauffer après votre première marche dans la neige."
               }
             },
             {
@@ -605,7 +665,8 @@
                 "de": "Vorsicht, die Stufen zur Kapelle können vereist sein.",
                 "hu": "Vigyázat, a kápolnához vezető lépcsők jegesek lehetnek.",
                 "ro": "Atenție, treptele spre chapelă pot fi înghețate.",
-                "en": "Be careful, the steps to the chapel can be icy."
+                "en": "Be careful, the steps to the chapel can be icy.",
+                "fr": "Attention, les marches de la chapelle peuvent être verglacées."
               }
             },
             {
@@ -614,7 +675,8 @@
                 "de": "Der See ist oft komplett zugefroren, Betreten verboten.",
                 "hu": "A tó gyakran teljesen befagy, de a jégre lépni tilos.",
                 "ro": "Lacul este adesea complet înghețat, accesul pe gheață interzis.",
-                "en": "The lake is often completely frozen, but walking on ice is forbidden."
+                "en": "The lake is often completely frozen, but walking on ice is forbidden.",
+                "fr": "Le lac est souvent totalement gelé, mais marcher sur la glace est interdit."
               }
             },
             {
@@ -623,7 +685,8 @@
                 "de": "Wunderschön verschneite Zirbenwälder, bleiben Sie auf den Wegen.",
                 "hu": "Gyönyörű havas fenyőerdő, kérjük maradjon a kijelölt utakon.",
                 "ro": "Păduri de pini superbe înzăpezite, rămâneți pe poteci.",
-                "en": "Beautiful snowy pine forests, please stay on the marked paths."
+                "en": "Beautiful snowy pine forests, please stay on the marked paths.",
+                "fr": "Magnifiques forêts de pins enneigées, veuillez rester sur les sentiers balisés."
               }
             },
             {
@@ -632,7 +695,8 @@
                 "de": "Ideal für einen heißen Kakao oder Glühwein am Kamin.",
                 "hu": "Ideális egy forró csokira vagy forralt borra a kandallónál.",
                 "ro": "Ideal pentru o ciocolată caldă sau vin fiert lângă șemineu.",
-                "en": "Ideal for a hot chocolate or mulled wine by the fireplace."
+                "en": "Ideal for a hot chocolate or mulled wine by the fireplace.",
+                "fr": "Idéal pour un chocolat chaud ou un vin chaud au coin du feu."
               }
             }
           ],
@@ -664,6 +728,13 @@
               "Use ice grips on your shoes for slippery, icy pavements.",
               "The walking paths in Plan de Tuéda are groomed for pedestrians.",
               "Head back early before the evening chill sets in."
+            ],
+            "fr": [
+              "Habillez-vous en plusieurs couches (principe de l'oignon) et portez de bonnes chaussettes thermiques.",
+              "Le soleil disparaît derrière les montagnes vers 16h30.",
+              "Utilisez des crampons de marche sur vos chaussures pour les trottoirs glacés et glissants.",
+              "Les sentiers de randonnée du Plan de Tuéda sont damés pour les piétons.",
+              "Rentrez tôt avant que le froid du soir ne s'installe."
             ]
           }
         }
@@ -692,7 +763,8 @@
             "de": "Eine legendäre Etappe der Tour de France.",
             "hu": "A Tour de France egyik legendás szakasza.",
             "ro": "O etapă legendară a Turului Franței.",
-            "en": "A legendary stage of the Tour de France."
+            "en": "A legendary stage of the Tour de France.",
+            "fr": "Une étape légendaire du Tour de France."
           }
         },
         {
@@ -710,7 +782,8 @@
             "de": "Sehen Sie kleinen Flugzeugen beim Starten in den Alpen zu.",
             "hu": "Nézd meg a kisrepülőket felszállni az Alpokban.",
             "ro": "Urmăriți avioanele mici decolând în Alpi.",
-            "en": "Watch small planes take off in the Alps."
+            "en": "Watch small planes take off in the Alps.",
+            "fr": "Regardez les petits avions décoller dans les Alpes."
           }
         },
         {
@@ -728,7 +801,8 @@
             "de": "Rundweg um den See ist auch mit dem Rad befahrbar.",
             "hu": "A tó körüli út kerékpárral is járható.",
             "ro": "Drumul din jurul lacului este practicabil și cu bicicleta.",
-            "en": "The path around the lake is also accessible by bike."
+            "en": "The path around the lake is also accessible by bike.",
+            "fr": "Le sentier autour du lac est également accessible à vélo."
           }
         },
         {
@@ -746,7 +820,8 @@
             "de": "Erfahren Sie alles über das ursprüngliche Dorfleben.",
             "hu": "Tudj meg mindent az eredeti falusi életről.",
             "ro": "Aflați totul despre viața originală din sat.",
-            "en": "Learn all about the original village life."
+            "en": "Learn all about the original village life.",
+            "fr": "Apprenez tout sur la vie originale du village."
           }
         },
         {
@@ -764,7 +839,8 @@
             "de": "Barocke Kirche im traditionellen Les Allues.",
             "hu": "Barokk templom a hagyományos Les Allues-ben.",
             "ro": "Biserică barocă în tradiționalul Les Allues.",
-            "en": "Baroque church in traditional Les Allues."
+            "en": "Baroque church in traditional Les Allues.",
+            "fr": "Église baroque dans le village traditionnel des Allues."
           }
         }
       ],
@@ -772,7 +848,8 @@
         "de": "Diese Biketour verbindet sportliche Herausforderung mit Kultur. Der Aufstieg zum Col de la Loze bietet atemberaubende Ausblicke. Nach einer rasanten Abfahrt passieren Sie den Altiport und erreichen das idyllische Mottaret am See. Der Weg führt schließlich bergab ins Tal nach Les Allues, wo Sie im Museum und in der alten Kirche tief in die Geschichte der Region eintauchen.",
         "hu": "Ez a kerékpártúra a sportos kihívást ötvözi a kultúrával. A Col de la Loze hágóra való felkapaszkodás lélegzetelállító kilátást nyújt. Egy gyors lejtmenet után elhalad az Altiport mellett, és eléri az idilli Mottaret-t a tónál. Az út végül lefelé vezet a völgybe Les Allues-be, ahol a múzeumban és a régi templomban elmerülhet a régió történelmében.",
         "ro": "Acest tur cu bicicleta combină provocarea sportivă cu cultura. Urcarea spre Col de la Loze oferă priveliști uluitoare. După o coborâre rapidă, treceți pe lângă Altiport și ajungeți la idilicul Mottaret de lângă lac. Drumul duce în cele din urmă la vale, în Les Allues, unde vă puteți cufunda în istoria regiunii la muzeu și în vechea biserică.",
-        "en": "This bike tour combines sporting challenge with culture. The climb to Col de la Loze offers breathtaking views. After a fast descent, you pass the Altiport and reach idyllic Mottaret by the lake. The path finally leads downhill into the valley to Les Allues, where you can immerse yourself in the region's history at the museum and the old church."
+        "en": "This bike tour combines sporting challenge with culture. The climb to Col de la Loze offers breathtaking views. After a fast descent, you pass the Altiport and reach idyllic Mottaret by the lake. The path finally leads downhill into the valley to Les Allues, where you can immerse yourself in the region's history at the museum and the old church.",
+        "fr": "Ce circuit à vélo allie défi sportif et culture. La montée au col de la Loze offre des vues à couper le souffle. Après une descente rapide, vous passez devant l'Altiport et rejoignez l'idyllique Mottaret au bord du lac. Le sentier descend enfin dans la vallée vers Les Allues, où vous pourrez vous imprégner de l'histoire de la région au musée et à la vieille église."
       },
       "gastro_picks": {
         "de": [
@@ -813,6 +890,16 @@
           {
             "name": "La Tsaretta",
             "tip": "Excellent pizza and pub atmosphere in Les Allues."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Adray Télébar",
+            "tip": "Arrêt parfait pour un chocolat chaud en terrasse."
+          },
+          {
+            "name": "La Tsaretta",
+            "tip": "Excellentes pizzas et ambiance pub aux Allues."
           }
         ]
       },
@@ -864,6 +951,18 @@
             "tip": "Winding paths away from the lifts.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Sommet du col de la Loze",
+            "tip": "Le petit matin est absolument silencieux ici-haut.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sentiers forestiers près des Allues",
+            "tip": "Chemins sinueux à l'écart des remontées mécaniques.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -889,6 +988,12 @@
           {
             "name": "Eskiador",
             "tip": "Specialized bike rental and accessories."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Eskiador",
+            "tip": "Location de vélos spécialisée et accessoires."
           }
         ]
       },
@@ -920,6 +1025,13 @@
           "Always wear a helmet and take enough water with you.",
           "Mountain paths are often shared with hikers, please be careful.",
           "Some gondolas also transport bicycles in the summer."
+        ],
+        "fr": [
+          "Louez un vélo électrique pour les montées raides vers le col de la Loze.",
+          "Vérifiez vos freins avant la descente vers Les Allues.",
+          "Portez toujours un casque et emportez suffisamment d'eau.",
+          "Les sentiers de montagne sont souvent partagés avec les randonneurs, soyez prudent.",
+          "Certaines télécabines transportent également les vélos en été."
         ]
       },
       "variants": {
@@ -1131,7 +1243,8 @@
             "de": "Trotz Regen bietet die Auffahrt zum Col de la Loze eine sportliche Herausforderung mit dramatischen Wolkenspielen. Mittags bietet der Altiport einen kurzen Stopp, bevor es hinab zum Lac de Tuéda geht. Nachmittags ist ein Besuch im Museum in Les Allues die perfekte trockene Pause. Der Tag endet mit der Besichtigung der Kirche, während der Regen gegen die alten Mauern trommelt.",
             "hu": "Az eső ellenére a Col de la Loze felkapaszkodása sportos kihívást és drámai felhőjátékot ígér. Délben az Altiportnál tarthat rövid pihenőt, mielőtt leereszkedik a tóhoz. Délután a Les Allues-i múzeum látogatása a tökéletes száraz program. A nap a templom megtekintésével zárul, miközben az eső kopog a régi falakon.",
             "ro": "În ciuda ploii, urcarea spre Col de la Loze oferă o provocare sportivă cu jocuri de nori dramatice. La prânz, Altiport oferă o scurtă oprire înainte de coborârea spre lac. După-amiaza, vizita la muzeul din Les Allues este pauza perfectă la uscat. Ziua se încheie cu vizitarea bisericii, în timp ce ploaia bate în zidurile vechi.",
-            "en": "Despite the rain, the climb to Col de la Loze offers a sporty challenge with dramatic cloud formations. At noon, the Altiport provides a brief stop before descending to Lac de Tuéda. In the afternoon, a visit to the museum in Les Allues is the perfect dry break. The day ends with a visit to the church while rain taps against the ancient walls."
+            "en": "Despite the rain, the climb to Col de la Loze offers a sporty challenge with dramatic cloud formations. At noon, the Altiport provides a brief stop before descending to Lac de Tuéda. In the afternoon, a visit to the museum in Les Allues is the perfect dry break. The day ends with a visit to the church while rain taps against the ancient walls.",
+            "fr": "Malgré la pluie, la montée au col de la Loze offre un défi sportif avec des formations nuageuses dramatiques. À midi, l'Altiport permet une brève halte avant de descendre vers le lac de Tuéda. L'après-midi, une visite au musée des Allues est la pause idéale au sec. La journée se termine par la visite de l'église alors que la pluie crépite sur les murs anciens."
           },
           "stops": [
             {
@@ -1140,7 +1253,8 @@
                 "de": "Vorsicht bei der Abfahrt, der Asphalt kann rutschig sein.",
                 "hu": "Vigyázzon a leereszkedésnél, az aszfalt csúszós lehet.",
                 "ro": "Atenție la coborâre, asfaltul poate fi alunecos.",
-                "en": "Be careful during the descent, the asphalt can be slippery."
+                "en": "Be careful during the descent, the asphalt can be slippery.",
+                "fr": "Prudence lors de la descente, l'asphalte peut être glissant."
               }
             },
             {
@@ -1149,7 +1263,8 @@
                 "de": "Ein kurzer Stopp im Terminal bietet Schutz vor Schauern.",
                 "hu": "A terminálban tartott rövid pihenő védelmet nyújt a záporoktól.",
                 "ro": "O scurtă oprire la terminal oferă adăpost de averse.",
-                "en": "A short stop at the terminal provides shelter from showers."
+                "en": "A short stop at the terminal provides shelter from showers.",
+                "fr": "Un court arrêt au terminal permet de s'abriter des averses."
               }
             },
             {
@@ -1158,7 +1273,8 @@
                 "de": "Schutzbleche am Rad sind hier bei Regen ein Muss.",
                 "hu": "A sárvédő a kerékpáron itt esőben kötelező.",
                 "ro": "Apărătorile de noroi sunt obligatorii aici pe ploaie.",
-                "en": "Mudguards on your bike are a must here in the rain."
+                "en": "Mudguards on your bike are a must here in the rain.",
+                "fr": "Des garde-boue sur votre vélo sont indispensables ici sous la pluie."
               }
             },
             {
@@ -1167,7 +1283,8 @@
                 "de": "Die ideale Gelegenheit, um Kleidung und Rad zu trocknen.",
                 "hu": "Ideális alkalom a ruházat és a kerékpár megszárítására.",
                 "ro": "Oportunitatea ideală pentru a vă usca hainele și bicicleta.",
-                "en": "The ideal opportunity to dry off your clothes and bike."
+                "en": "The ideal opportunity to dry off your clothes and bike.",
+                "fr": "L'occasion idéale de faire sécher vos vêtements et votre vélo."
               }
             },
             {
@@ -1176,7 +1293,8 @@
                 "de": "Parken Sie das Rad unter dem Vordach, falls möglich.",
                 "hu": "Ha lehet, parkolja a kerékpárt az előtető alá.",
                 "ro": "Parcați bicicleta sub streașină, dacă este posibil.",
-                "en": "Park your bike under the overhang if possible."
+                "en": "Park your bike under the overhang if possible.",
+                "fr": "Garez votre vélo sous l'auvent si possible."
               }
             }
           ],
@@ -1208,6 +1326,13 @@
               "Wear a bright raincoat for better visibility to others.",
               "Avoid unpaved forest paths when it is raining.",
               "A helmet with a visor helps keep your vision clear in the rain."
+            ],
+            "fr": [
+              "Assurez-vous d'utiliser des garde-boue contre les projections de la route.",
+              "Vérifiez vos plaquettes de frein ; la distance de freinage augmente sur sol mouillé.",
+              "Portez un imperméable de couleur vive pour être mieux vu par les autres.",
+              "Évitez les sentiers forestiers non goudronnés quand il pleut.",
+              "Un casque avec visière aide à garder une vision claire sous la pluie."
             ]
           }
         },
@@ -1216,7 +1341,8 @@
             "de": "Mit dem Fatbike geht es am Morgen hinauf zum sonnigen, aber kalten Col de la Loze. Mittags führt die Tour am Altiport vorbei, wo der Schnee glitzert. Nachmittags erreichen wir den gefrorenen See von Tuéda, ein Highlight der Wintertour. Ein kurzer Kulturstopp im Museum in Les Allues wärmt die Glieder auf, bevor die Tour an der alten Kirche Saint-Odon endet.",
             "hu": "Fatbike-kal vágunk neki reggel a napsütötte, de hideg Col de la Loze hágónak. Délben az Altiport mellett haladunk el, ahol szikrázik a hó. Délután elérjük a befagyott Tuéda-tavat, ami a téli túra fénypontja. Egy rövid kulturális pihenő a Les Allues-i múzeumban átmelegíti a végtagokat a templomnál tett zárás előtt.",
             "ro": "Cu fatbike-ul urcăm dimineața spre Col de la Loze, însorit dar rece. La prânz, turul trece pe lângă Altiport, unde zăpada strălucește. După-amiaza ajungem la lacul înghețat Tuéda, punctul culminant al turului de iarnă. O scurtă oprire culturală la muzeul din Les Allues ne încălzește înainte de finalul la biserică.",
-            "en": "With a fatbike, we climb up to the sunny but cold Col de la Loze in the morning. At noon, the tour passes the Altiport where the snow glistens. In the afternoon, we reach the frozen Lake Tuéda, a highlight of the winter tour. A short cultural stop at the museum in Les Allues warms up your limbs before ending at the church."
+            "en": "With a fatbike, we climb up to the sunny but cold Col de la Loze in the morning. At noon, the tour passes the Altiport where the snow glistens. In the afternoon, we reach the frozen Lake Tuéda, a highlight of the winter tour. A short cultural stop at the museum in Les Allues warms up your limbs before ending at the church.",
+            "fr": "En fatbike, nous grimpons le matin vers le col de la Loze, ensoleillé mais froid. À midi, le circuit passe par l'Altiport où la neige scintille. L'après-midi, nous atteignons le lac de Tuéda gelé, un point fort de la randonnée hivernale. Une courte halte culturelle au musée des Allues réchauffe vos membres avant de terminer à l'église."
           },
           "stops": [
             {
@@ -1225,7 +1351,8 @@
                 "de": "Nur mit Fatbike und breiten Reifen bei Schnee befahrbar.",
                 "hu": "Hóban csak fatbike-kal és széles gumikkal járható.",
                 "ro": "Accesibil pe zăpadă doar cu fatbike și anvelope late.",
-                "en": "Accessible on snow only with a fatbike and wide tires."
+                "en": "Accessible on snow only with a fatbike and wide tires.",
+                "fr": "Accessible sur la neige uniquement en fatbike avec des pneus larges."
               }
             },
             {
@@ -1234,7 +1361,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf der Fahrbahn.",
                 "hu": "Ügyeljen az úttesten előforduló jeges foltokra.",
                 "ro": "Fiți atenți la porțiunile înghețate de pe carosabil.",
-                "en": "Watch out for icy patches on the roadway."
+                "en": "Watch out for icy patches on the roadway.",
+                "fr": "Attention aux plaques de glace sur la chaussée."
               }
             },
             {
@@ -1243,7 +1371,8 @@
                 "de": "Traumhafte Kulisse, aber sehr kalt durch die Tallage.",
                 "hu": "Csodás látvány, de a völgy fekvése miatt nagyon hideg van.",
                 "ro": "Peisaj de vis, dar foarte frig din cauza poziției în vale.",
-                "en": "Dreamy scenery, but very cold due to its valley location."
+                "en": "Dreamy scenery, but very cold due to its valley location.",
+                "fr": "Paysage de rêve, mais très froid en raison de sa situation en fond de vallée."
               }
             },
             {
@@ -1252,7 +1381,8 @@
                 "de": "Perfekt, um die eingefrorenen Finger kurz aufzuwärmen.",
                 "hu": "Tökéletes hely az elgémberedett ujjak átmelegítésére.",
                 "ro": "Perfect pentru a vă încălzi puțin degetele înghețate.",
-                "en": "Perfect for a quick warm-up of frozen fingers."
+                "en": "Perfect for a quick warm-up of frozen fingers.",
+                "fr": "Parfait pour un réchauffement rapide des doigts gelés."
               }
             },
             {
@@ -1261,7 +1391,8 @@
                 "de": "Die Kirche bietet eine andächtige Stille im Winter.",
                 "hu": "A templom áhítatos csendet nyújt a téli napokon.",
                 "ro": "Biserica oferă o liniște pioasă în timpul iernii.",
-                "en": "The church offers a prayerful silence during winter."
+                "en": "The church offers a prayerful silence during winter.",
+                "fr": "L'église offre un silence propice au recueillement pendant l'hiver."
               }
             }
           ],
@@ -1293,6 +1424,13 @@
               "E-bike batteries discharge faster in cold weather.",
               "Avoid late rides as paths can ice over very quickly.",
               "A neck buff protects your face from the cold headwind."
+            ],
+            "fr": [
+              "Utilisez un fatbike pour une meilleure adhérence sur la neige.",
+              "Portez des gants chauds coupe-vent et des couvre-chaussures.",
+              "Les batteries de vélos électriques se déchargent plus vite par temps froid.",
+              "Évitez les sorties tardives car les sentiers peuvent geler très rapidement.",
+              "Un cache-cou protège votre visage du vent froid de face."
             ]
           }
         }
@@ -1321,7 +1459,8 @@
             "de": "Kostenlose Parkplätze direkt beim Museum im Dorf.",
             "hu": "Ingyenes parkolás közvetlenül a faluban a múzeumnál.",
             "ro": "Parcare gratuită direct la muzeul din sat.",
-            "en": "Free parking directly at the museum in the village."
+            "en": "Free parking directly at the museum in the village.",
+            "fr": "Parking gratuit directement au musée du village."
           }
         },
         {
@@ -1339,7 +1478,8 @@
             "de": "Bewundern Sie die barocken Altarbilder.",
             "hu": "Csodáld meg a barokk oltárképeket.",
             "ro": "Admirați altarele baroce.",
-            "en": "Admire the baroque altarpieces."
+            "en": "Admire the baroque altarpieces.",
+            "fr": "Admirez les retables baroques."
           }
         },
         {
@@ -1357,7 +1497,8 @@
             "de": "Fahren Sie mit der Gondel auf 2950m für das beste Panorama.",
             "hu": "Menj fel a felvonóval 2950m-re a legjobb panorámáért.",
             "ro": "Urcați cu telegondola la 2950m pentru cea mai bună panoramă.",
-            "en": "Take the gondola to 2950m for the best panorama."
+            "en": "Take the gondola to 2950m for the best panorama.",
+            "fr": "Prenez la télécabine jusqu'à 2950 m pour le meilleur panorama."
           }
         },
         {
@@ -1375,7 +1516,8 @@
             "de": "Großer Parkplatz in der Nähe des Seezugangs.",
             "hu": "Nagy parkoló a tó bejáratának közelében.",
             "ro": "Parcare mare în apropierea accesului la lac.",
-            "en": "Large parking lot near the lake access."
+            "en": "Large parking lot near the lake access.",
+            "fr": "Grand parking à proximité de l'accès au lac."
           }
         },
         {
@@ -1393,7 +1535,8 @@
             "de": "Zentrale Tiefgarage nutzen, um Stress zu vermeiden.",
             "hu": "Használd a központi mélygarázst a stressz elkerülésére.",
             "ro": "Folosiți parcarea subterană centrală pentru a evita stresul.",
-            "en": "Use the central underground parking to avoid stress."
+            "en": "Use the central underground parking to avoid stress.",
+            "fr": "Utilisez le parking souterrain central pour éviter le stress."
           }
         },
         {
@@ -1411,7 +1554,8 @@
             "de": "Wunderschöner Sonnenuntergang über dem Tal.",
             "hu": "Gyönyörű naplemente a völgy felett.",
             "ro": "Apus de soare minunat peste vale.",
-            "en": "Beautiful sunset over the valley."
+            "en": "Beautiful sunset over the valley.",
+            "fr": "Magnifique coucher de soleil sur la vallée."
           }
         }
       ],
@@ -1419,7 +1563,8 @@
         "de": "Entdecken Sie die gesamte Vielfalt des Tals mit dem Auto. Wir beginnen im Tal bei den historischen Stätten von Les Allues. Danach führt die Fahrt steil hinauf nach Mottaret, von wo aus Sie den Mont Vallon erklimmen. Nach einem entspannten Halt am Lac de Tuéda kehren wir ins pulsierende Méribel Centre zurück, um die Boutiquen zu erkunden, und schließen den Tag mit einem Panorama am Altiport ab.",
         "hu": "Fedezze fel a völgy teljes sokszínűségét autóval. A völgyben kezdünk Les Allues történelmi helyszíneinél. Ezután az út meredeken vezet fel Mottaret-be, ahonnan megmásszuk a Mont Vallon-t (felvonóval). Egy pihentető megálló után a Tuéda-tónál visszatérünk a vibráló Méribel központjába a butikok felfedezésére, a napot pedig az Altiport panorámájával zárjuk.",
         "ro": "Descoperiți întreaga diversitate a văii cu mașina. Începem în vale la siturile istorice din Les Allues. Apoi drumul urcă abrupt spre Mottaret, de unde veți urca pe Mont Vallon. După o oprire relaxantă la Lac de Tuéda, ne întoarcem în centrul vibrant Méribel pentru a explora buticurile și încheiem ziua cu o panoramă la Altiport.",
-        "en": "Discover the entire diversity of the valley by car. We start in the valley at the historical sites of Les Allues. Then the drive leads steeply up to Mottaret, from where you will climb Mont Vallon. After a relaxed stop at Lac de Tuéda, we return to the vibrant Méribel Centre to explore the boutiques, and close the day with a panorama at the Altiport."
+        "en": "Discover the entire diversity of the valley by car. We start in the valley at the historical sites of Les Allues. Then the drive leads steeply up to Mottaret, from where you will climb Mont Vallon. After a relaxed stop at Lac de Tuéda, we return to the vibrant Méribel Centre to explore the boutiques, and close the day with a panorama at the Altiport.",
+        "fr": "Découvrez toute la diversité de la vallée en voiture. Nous commençons dans la vallée par les sites historiques des Allues. Ensuite, la route monte raide jusqu'à Mottaret, d'où vous grimperez au Mont Vallon. Après une pause détente au lac de Tuéda, nous retournons dans le centre animé de Méribel pour explorer les boutiques, et terminons la journée par un panorama à l'Altiport."
       },
       "gastro_picks": {
         "de": [
@@ -1460,6 +1605,16 @@
           {
             "name": "Le Blanchot",
             "tip": "Right at the Altiport, ideal for a fine lunch."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Allis",
+            "tip": "Cuisine moderne avec une touche régionale en plein centre."
+          },
+          {
+            "name": "Le Blanchot",
+            "tip": "Juste à côté de l'Altiport, idéal pour un déjeuner raffiné."
           }
         ]
       },
@@ -1511,6 +1666,18 @@
             "tip": "Starting point for quiet village walks.",
             "emoji": "🏘️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Sommet du Mont Vallon",
+            "tip": "Au-dessus des nuages à près de 3000 mètres.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Parking des Allues",
+            "tip": "Point de départ pour des promenades tranquilles dans le village.",
+            "emoji": "🏘️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1536,6 +1703,12 @@
           {
             "name": "Le Grenier de Méribel",
             "tip": "Beautiful Savoyard decor and gifts."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Grenier de Méribel",
+            "tip": "Belle décoration savoyarde et cadeaux."
           }
         ]
       },
@@ -1567,6 +1740,13 @@
           "All-wheel drive is not necessary in summer, but good brakes are.",
           "Refuel in the valley (Moûtiers), it's much more expensive up top.",
           "Watch out for hikers and cyclists on the road edges."
+        ],
+        "fr": [
+          "Les routes sont sinueuses, conduisez prudemment.",
+          "En été, les parkings du centre sont souvent payants.",
+          "Le mode quatre roues motrices n'est pas nécessaire en été, mais de bons freins le sont.",
+          "Faites le plein dans la vallée (Moûtiers), c'est beaucoup plus cher en haut.",
+          "Faites attention aux randonneurs et cyclistes sur les bords de route."
         ]
       },
       "variants": {
@@ -1787,7 +1967,8 @@
             "de": "Regnerische Tage in den Bergen lassen sich am besten mit dem Auto überbrücken. Morgens besuchen wir das trockene Museum in Les Allues und die benachbarte Kirche. Mittags fahren wir zur Gondelstation am Mont Vallon, wo wir im Restaurant die Aussicht genießen. Der Nachmittag gehört dem Shopping im Zentrum, bevor wir am Altiport die Wolkenformationen beobachten.",
             "hu": "Az esős hegyi napokat legkönnyebben autóval hidalhatjuk át. Reggel a Les Allues-i múzeumot és a szomszédos templomot látogatjuk meg. Délben a Mont Vallon felvonóállomáshoz hajtunk, ahol az étteremből élvezzük a kilátást. A délután a központi vásárlásé, mielőtt az Altiportnál megfigyeljük a felhőket.",
             "ro": "Zilele ploioase la munte sunt cel mai ușor de parcurs cu mașina. Dimineața vizităm muzeul din Les Allues și biserica vecină. La prânz mergem la stația de telegondolă Mont Vallon, unde savurăm priveliștea din restaurant. După-amiaza este dedicată cumpărăturilor, înainte de a observa norii la Altiport.",
-            "en": "Rainy mountain days are best managed by car. In the morning, we visit the dry museum in Les Allues and the neighboring church. At noon, we drive to the Mont Vallon gondola station to enjoy the view from the restaurant. The afternoon is for shopping in the center before observing the cloud formations at the Altiport."
+            "en": "Rainy mountain days are best managed by car. In the morning, we visit the dry museum in Les Allues and the neighboring church. At noon, we drive to the Mont Vallon gondola station to enjoy the view from the restaurant. The afternoon is for shopping in the center before observing the cloud formations at the Altiport.",
+            "fr": "Les journées pluvieuses en montagne se gèrent mieux en voiture. Le matin, nous visitons le musée au sec aux Allues et l'église voisine. À midi, nous nous rendons à la gare de la télécabine du Mont Vallon pour profiter de la vue depuis le restaurant. L'après-midi est consacré au shopping dans le centre avant d'observer les formations nuageuses à l'Altiport."
           },
           "stops": [
             {
@@ -1796,7 +1977,8 @@
                 "de": "Parken Sie im Dorfzentrum, das Museum ist nah.",
                 "hu": "Parkoljon a falu központjában, a múzeum közel van.",
                 "ro": "Parcați în centrul satului, muzeul este aproape.",
-                "en": "Park in the village center; the museum is close by."
+                "en": "Park in the village center; the museum is close by.",
+                "fr": "Garez-vous au centre du village ; le musée est tout proche."
               }
             },
             {
@@ -1805,7 +1987,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zur Kirche.",
                 "hu": "Rövid séta a parkolótól a templomig.",
                 "ro": "Scurtă plimbare de la parcare la biserică.",
-                "en": "Short walk from the parking lot to the church."
+                "en": "Short walk from the parking lot to the church.",
+                "fr": "Courte marche depuis le parking jusqu'à l'église."
               }
             },
             {
@@ -1814,7 +1997,8 @@
                 "de": "Die Gondelkabinen halten Sie bei der Fahrt trocken.",
                 "hu": "A felvonó kabinjai szárazon tartják az utazás alatt.",
                 "ro": "Cabinele de telegondolă vă mențin uscați în timpul urcării.",
-                "en": "The gondola cabins keep you dry during the ride."
+                "en": "The gondola cabins keep you dry during the ride.",
+                "fr": "Les cabines de la télécabine vous gardent au sec pendant le trajet."
               }
             },
             {
@@ -1823,7 +2007,8 @@
                 "de": "Nutzen Sie den Parkplatz Mottaret, direkt am See.",
                 "hu": "Használja a Mottaret parkolót, közvetlenül a tónál.",
                 "ro": "Folosiți parcarea Mottaret, situată direct lângă lac.",
-                "en": "Use the Mottaret parking lot, right next to the lake."
+                "en": "Use the Mottaret parking lot, right next to the lake.",
+                "fr": "Utilisez le parking de Mottaret, juste à côté du lac."
               }
             },
             {
@@ -1832,7 +2017,8 @@
                 "de": "Das Parkhaus im Zentrum bietet direkten Zugang zu den Läden.",
                 "hu": "A központi parkolóház közvetlen hozzáférést ad a boltokhoz.",
                 "ro": "Parcarea etajată din centru oferă acces direct la magazine.",
-                "en": "The central parking garage offers direct access to shops."
+                "en": "The central parking garage offers direct access to shops.",
+                "fr": "Le parking central offre un accès direct aux boutiques."
               }
             },
             {
@@ -1841,7 +2027,8 @@
                 "de": "Genießen Sie die Stimmung bequem vom Auto aus.",
                 "hu": "Élvezze a hangulatot kényelmesen az autóból.",
                 "ro": "Savurați atmosfera confortabil din mașină.",
-                "en": "Enjoy the atmosphere comfortably from your car."
+                "en": "Enjoy the atmosphere comfortably from your car.",
+                "fr": "Profitez de l'atmosphère confortablement installé dans votre voiture."
               }
             }
           ],
@@ -1873,6 +2060,13 @@
               "Check if the Mont Vallon gondola is running in windy conditions.",
               "Keep an umbrella handy for the short walks from the car.",
               "Roads can be slippery due to wet leaves and moisture."
+            ],
+            "fr": [
+              "Utilisez les parkings couverts de Méribel Centre.",
+              "La visibilité sur les routes de montagne peut être mauvaise en cas de forte pluie.",
+              "Vérifiez si la télécabine du Mont Vallon fonctionne par temps venteux.",
+              "Gardez un parapluie à portée de main pour les courts trajets depuis la voiture.",
+              "Les routes peuvent être glissantes à cause des feuilles mouillées et de l'humidité."
             ]
           }
         },
@@ -1881,7 +2075,8 @@
             "de": "Eine Wintertour mit dem Auto erfordert Vorsicht, bietet aber maximalen Komfort. Morgens besuchen wir die verschneiten Allues, bevor es mittags zur Talstation am Mont Vallon geht. Von dort oben bietet sich ein grandioses Panorama. Nachmittags besuchen wir den gefrorenen Lac de Tuéda. Der Tag endet mit Shopping im festlich beleuchteten Zentrum und einem frühen Sonnenuntergang am Altiport.",
             "hu": "Az autós téli túra óvatosságot igényel, de maximális kényelmet nyújt. Reggel a havas Allues falut látogatjuk meg, majd délben a Mont Vallon alsó állomásához hajtunk. Onnan fentről lenyűgöző a panoráma. Délután a befagyott Tuéda-tavat nézzük meg. A nap vásárlással zárul a díszkivilágításban úszó központban és naplementével az Altiportnál.",
             "ro": "Un tur de iarnă cu mașina necesită prudență, dar oferă confort maxim. Dimineața vizităm Les Allues înzăpezit, apoi mergem la stația de jos Mont Vallon. De sus, panorama este grandioasă. După-amiaza vizităm lacul înghețat Tuéda. Ziua se încheie cu cumpărături în centrul iluminat festiv și un apus la Altiport.",
-            "en": "A winter car tour requires caution but offers maximum comfort. In the morning, we visit snowy Les Allues before driving to the Mont Vallon base station at noon. The panorama from the top is grand. In the afternoon, we visit the frozen Lake Tuéda. The day ends with shopping in the festively lit center and an early sunset at the Altiport."
+            "en": "A winter car tour requires caution but offers maximum comfort. In the morning, we visit snowy Les Allues before driving to the Mont Vallon base station at noon. The panorama from the top is grand. In the afternoon, we visit the frozen Lake Tuéda. The day ends with shopping in the festively lit center and an early sunset at the Altiport.",
+            "fr": "Un tour en voiture en hiver demande de la prudence mais offre un maximum de confort. Le matin, nous visitons Les Allues sous la neige avant de nous rendre à la station de départ du Mont Vallon à midi. Le panorama au sommet est grandiose. L'après-midi, nous visitons le lac de Tuéda gelé. La journée se termine par du shopping dans le centre illuminé et un coucher de soleil précoce à l'Altiport."
           },
           "stops": [
             {
@@ -1890,7 +2085,8 @@
                 "de": "Achten Sie auf Schneehaufen am Straßenrand beim Parken.",
                 "hu": "Parkoláskor ügyeljen az út menti hórakásokra.",
                 "ro": "Atenție la mormanele de zăpadă de la marginea drumului.",
-                "en": "Watch out for snowbanks at the roadside when parking."
+                "en": "Watch out for snowbanks at the roadside when parking.",
+                "fr": "Attention aux talus de neige au bord de la route lors du stationnement."
               }
             },
             {
@@ -1899,7 +2095,8 @@
                 "de": "Der Weg zur Kirche wird meist gut geräumt.",
                 "hu": "A templomhoz vezető utat általában jól takarítják.",
                 "ro": "Drumul spre biserică este de obicei bine deszăpezit.",
-                "en": "The path to the church is usually well-cleared of snow."
+                "en": "The path to the church is usually well-cleared of snow.",
+                "fr": "Le chemin vers l'église est généralement bien déneigé."
               }
             },
             {
@@ -1908,7 +2105,8 @@
                 "de": "Die Auffahrt bietet einen tollen Blick auf die Skifahrer.",
                 "hu": "A felfelé út remek kilátást nyújt a síelőkre.",
                 "ro": "Urcarea oferă o priveliște excelentă asupra schiorilor.",
-                "en": "The ascent offers a great view of the skiers below."
+                "en": "The ascent offers a great view of the skiers below.",
+                "fr": "La montée offre une superbe vue sur les skieurs en contrebas."
               }
             },
             {
@@ -1917,7 +2115,8 @@
                 "de": "Vorsicht, der Parkplatz kann morgens glatt sein.",
                 "hu": "Vigyázat, a parkoló reggelente jeges lehet.",
                 "ro": "Atenție, parcarea poate fi poleită dimineața.",
-                "en": "Be careful, the parking lot can be icy in the morning."
+                "en": "Be careful, the parking lot can be icy in the morning.",
+                "fr": "Soyez prudent, le parking peut être verglacé le matin."
               }
             },
             {
@@ -1926,7 +2125,8 @@
                 "de": "Perfekt, um Weihnachtsgeschenke im Warmen zu kaufen.",
                 "hu": "Tökéletes hely karácsonyi ajándékok beszerzésére a melegben.",
                 "ro": "Perfect pentru a cumpăra cadouri de Crăciun la căldură.",
-                "en": "Perfect for buying Christmas gifts in a warm environment."
+                "en": "Perfect for buying Christmas gifts in a warm environment.",
+                "fr": "Parfait pour acheter des cadeaux de Noël dans une ambiance chaleureuse."
               }
             },
             {
@@ -1935,7 +2135,8 @@
                 "de": "Der frühe Sonnenuntergang färbt den Schnee rosa.",
                 "hu": "A korai naplemente rózsaszínűre festi a havat.",
                 "ro": "Apusul timpuriu colorează zăpada în roz.",
-                "en": "The early sunset colors the snow in pink hues."
+                "en": "The early sunset colors the snow in pink hues.",
+                "fr": "Le coucher de soleil précoce colore la neige de teintes roses."
               }
             }
           ],
@@ -1967,6 +2168,13 @@
               "Parking lots fill up quickly after lifts close (around 17:00).",
               "Completely clear all snow from the roof of your car.",
               "Keep antifreeze and an ice scraper ready in the car."
+            ],
+            "fr": [
+              "Les pneus hiver et les chaînes à neige sont obligatoires en hiver.",
+              "Ne laissez pas tourner le moteur inutilement à l'arrêt.",
+              "Les parkings se remplissent vite après la fermeture des remontées (vers 17h00).",
+              "Déneigez complètement le toit de votre voiture.",
+              "Gardez de l'antigel et un grattoir à portée de main dans la voiture."
             ]
           }
         }
@@ -1995,7 +2203,8 @@
             "de": "Zentraler Knotenpunkt für alle kostenlosen Buslinien.",
             "hu": "Központi csomópont minden ingyenes buszjáratnak.",
             "ro": "Nod central pentru toate liniile de autobuz gratuite.",
-            "en": "Central hub for all free bus lines."
+            "en": "Central hub for all free bus lines.",
+            "fr": "Plaque tournante centrale pour toutes les lignes de bus gratuites."
           }
         },
         {
@@ -2013,7 +2222,8 @@
             "de": "Haltestelle 'La Chaudanne' ist direkt davor.",
             "hu": "A 'La Chaudanne' megálló közvetlenül előtte van.",
             "ro": "Stația 'La Chaudanne' este chiar în față.",
-            "en": "Stop 'La Chaudanne' is right in front."
+            "en": "Stop 'La Chaudanne' is right in front.",
+            "fr": "L'arrêt 'La Chaudanne' se trouve juste devant."
           }
         },
         {
@@ -2031,7 +2241,8 @@
             "de": "Linie C bringt Sie direkt nach Mottaret.",
             "hu": "A C vonal közvetlenül Mottaret-be visz.",
             "ro": "Linia C vă duce direct la Mottaret.",
-            "en": "Line C takes you directly to Mottaret."
+            "en": "Line C takes you directly to Mottaret.",
+            "fr": "La ligne C vous emmène directement à Mottaret."
           }
         },
         {
@@ -2049,7 +2260,8 @@
             "de": "Nehmen Sie den Bus bergab nach Les Allues.",
             "hu": "Szállj buszra lefelé Les Allues-be.",
             "ro": "Luați autobuzul la vale spre Les Allues.",
-            "en": "Take the bus downhill to Les Allues."
+            "en": "Take the bus downhill to Les Allues.",
+            "fr": "Prenez le bus en direction de la vallée vers Les Allues."
           }
         },
         {
@@ -2067,7 +2279,8 @@
             "de": "Besichtigen Sie das traditionelle Rathausviertel.",
             "hu": "Nézd meg a hagyományos városháza környékét.",
             "ro": "Vizitați zona tradițională a primăriei.",
-            "en": "Visit the traditional town hall district."
+            "en": "Visit the traditional town hall district.",
+            "fr": "Visitez le quartier traditionnel de la mairie."
           }
         }
       ],
@@ -2075,7 +2288,8 @@
         "de": "Dank des exzellenten Bussystems von Méribel können Sie das Tal stressfrei erkunden. Wir starten im Zentrum und besuchen das Olympia-Gelände. Mit dem Shuttle geht es hinauf zum See von Mottaret für eine Naturpause. Am Nachmittag bringt uns der Bus hinunter in das historische Les Allues, um das Museum zu besuchen, bevor wir bequem wieder in das Hauptresort zurückkehren.",
         "hu": "Méribel kiváló buszhálózatának köszönhetően stresszmentesen fedezheti fel a völgyet. A központban kezdünk és meglátogatjuk az olimpiai helyszínt. A busszal felmegyünk a mottaret-i tóhoz egy természetközeli pihenőre. Délután a busz levisz minket a történelmi Les Allues-be a múzeum megtekintésére, mielőtt kényelmesen visszatérnénk a fő üdülőhelyre.",
         "ro": "Datorită sistemului excelent de autobuze din Méribel, puteți explora valea fără stres. Începem în centru și vizităm zona olimpică. Cu naveta mergem sus la lacul din Mottaret pentru o pauză în natură. După-amiaza, autobuzul ne duce jos în istoricul Les Allues pentru a vizita muzeul, înainte de a ne întoarce confortabil în stațiunea principală.",
-        "en": "Thanks to Méribel's excellent bus system, you can explore the valley stress-free. We start in the center and visit the Olympic site. With the shuttle we go up to the lake in Mottaret for a nature break. In the afternoon, the bus takes us down to historical Les Allues to visit the museum, before comfortably returning to the main resort."
+        "en": "Thanks to Méribel's excellent bus system, you can explore the valley stress-free. We start in the center and visit the Olympic site. With the shuttle we go up to the lake in Mottaret for a nature break. In the afternoon, the bus takes us down to historical Les Allues to visit the museum, before comfortably returning to the main resort.",
+        "fr": "Grâce à l'excellent réseau de bus de Méribel, explorez la vallée sans stress. Nous commençons au centre et visitons le site olympique. Avec la navette, nous montons jusqu'au lac à Mottaret pour une pause nature. L'après-midi, le bus nous emmène aux Allues historiques pour visiter le musée, avant de retourner confortablement à la station principale."
       },
       "gastro_picks": {
         "de": [
@@ -2116,6 +2330,16 @@
           {
             "name": "L'Abreuvoir",
             "tip": "Cozy bar with local specialties in the center."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Mottaret",
+            "tip": "Terrasse ensoleillée juste à côté de l'arrêt de bus."
+          },
+          {
+            "name": "L'Abreuvoir",
+            "tip": "Bar chaleureux proposant des spécialités locales au centre."
           }
         ]
       },
@@ -2167,6 +2391,18 @@
             "tip": "Quiet, old village streets without the ski bustle.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Partie arrière du lac de Tuéda",
+            "tip": "À l'écart des foules de touristes, à l'orée de la forêt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruelles des Allues",
+            "tip": "Vieilles rues de village calmes, loin de l'agitation du ski.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2192,6 +2428,12 @@
           {
             "name": "Sherpa Méribel",
             "tip": "Large selection of local cheese and cold cuts."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Sherpa Méribel",
+            "tip": "Large choix de fromages et charcuteries locales."
           }
         ]
       },
@@ -2223,6 +2465,13 @@
           "Buses run less frequently in summer than winter, check the schedule.",
           "Hold on tight, the roads have many sharp turns.",
           "The main line connects Méribel Centre, Mottaret, and Les Allues."
+        ],
+        "fr": [
+          "Les navettes Méribus sont gratuites dans toute la station.",
+          "Téléchargez l'application Méribel pour les horaires en temps réel.",
+          "Les bus circulent moins fréquemment en été qu'en hiver, vérifiez les horaires.",
+          "Tenez-vous bien, les routes comportent de nombreux virages serrées.",
+          "La ligne principale relie Méribel Centre, Mottaret et Les Allues."
         ]
       },
       "variants": {
@@ -2434,7 +2683,8 @@
             "de": "Die kostenlosen Méribus-Shuttles sind der ideale Begleiter an Regentagen. Morgens geht es bequem zum Parc Olympique. Mittags bringt uns der Bus zum Lac de Tuéda, wo wir die mystische Natur erleben. Nachmittags ist das Museum in Les Allues das Ziel, bevor wir den Tag im Rathaus-Viertel ausklingen lassen. Trocken von A nach B zu kommen ist hier kein Problem.",
             "hu": "Az ingyenes Méribus járatok a legjobb barátaink az esős napokon. Reggel kényelmesen jutunk el a Parc Olympique-hoz. Délben a busz a Lac de Tuéda-hoz visz, ahol átélhetjük a természet misztikumát. Délután a Les Allues-i múzeum a célpont, mielőtt a napot a városháza környékén zárjuk. Itt nem gond szárazon eljutni egyik pontból a másikba.",
             "ro": "Autobuzele gratuite Méribus sunt partenerul ideal în zilele ploioase. Dimineața ajungem confortabil la Parc Olympique. La prânz, autobuzul ne duce la Lac de Tuéda. După-amiaza destinația este muzeul din Les Allues, înainte de a încheia ziua în zona primăriei. A ajunge la destinație uscat nu este o problemă aici.",
-            "en": "The free Méribus shuttles are the ideal companions on rainy days. In the morning, you can travel comfortably to the Parc Olympique. At noon, the bus takes us to Lac de Tuéda to experience nature's mystery. In the afternoon, the museum in Les Allues is the goal before ending the day in the town hall area. Getting around dry is no problem here."
+            "en": "The free Méribus shuttles are the ideal companions on rainy days. In the morning, you can travel comfortably to the Parc Olympique. At noon, the bus takes us to Lac de Tuéda to experience nature's mystery. In the afternoon, the museum in Les Allues is the goal before ending the day in the town hall area. Getting around dry is no problem here.",
+            "fr": "Les navettes gratuites Méribus sont les alliées idéales les jours de pluie. Le matin, vous pouvez vous rendre confortablement au Parc Olympique. À midi, le bus nous emmène au lac de Tuéda pour découvrir le mystère de la nature. L'après-midi, direction le musée des Allues avant de terminer la journée dans le quartier de la mairie. Se déplacer au sec n'est pas un problème ici."
           },
           "stops": [
             {
@@ -2443,7 +2693,8 @@
                 "de": "Überdachter Wartebereich schützt vor Regen.",
                 "hu": "Fedett várakozóhely véd az esőtől.",
                 "ro": "Zona de așteptare acoperită vă protejează de ploaie.",
-                "en": "Covered waiting area protects you from the rain."
+                "en": "Covered waiting area protects you from the rain.",
+                "fr": "La zone d'attente couverte vous protège de la pluie."
               }
             },
             {
@@ -2452,7 +2703,8 @@
                 "de": "Die Haltestelle ist fast direkt vor dem Eingang.",
                 "hu": "A megálló szinte közvetlenül a bejárat előtt van.",
                 "ro": "Stația este situată aproape direct în fața intrării.",
-                "en": "The bus stop is almost directly in front of the entrance."
+                "en": "The bus stop is almost directly in front of the entrance.",
+                "fr": "L'arrêt de bus est presque directement devant l'entrée."
               }
             },
             {
@@ -2461,7 +2713,8 @@
                 "de": "Von der Haltestelle sind es nur wenige Schritte zum See.",
                 "hu": "A megállótól csak pár lépésnyire van a tó.",
                 "ro": "Sunt doar câțiva pași de la stație până la lac.",
-                "en": "It is only a few steps from the stop to the lake."
+                "en": "It is only a few steps from the stop to the lake.",
+                "fr": "Il n'y a que quelques pas à faire entre l'arrêt et le lac."
               }
             },
             {
@@ -2470,7 +2723,8 @@
                 "de": "Nutzen Sie die Linie, die Méribel mit Les Allues verbindet.",
                 "hu": "Használja a Méribelt és Les Alluest összekötő vonalat.",
                 "ro": "Folosiți linia care leagă Méribel de Les Allues.",
-                "en": "Use the line that connects Méribel with Les Allues."
+                "en": "Use the line that connects Méribel with Les Allues.",
+                "fr": "Utilisez la ligne qui relie Méribel aux Allues."
               }
             },
             {
@@ -2479,7 +2733,8 @@
                 "de": "Zentrale Haltestelle im historischen Dorf.",
                 "hu": "Központi megálló a történelmi faluban.",
                 "ro": "Stație centrală în satul istoric.",
-                "en": "Central bus stop in the historical village."
+                "en": "Central bus stop in the historical village.",
+                "fr": "Arrêt de bus central dans le village historique."
               }
             }
           ],
@@ -2511,6 +2766,13 @@
               "Check the bus frequency, as it may vary during rainy weather.",
               "A small travel umbrella fits well in your hand luggage.",
               "The main line (A) runs very frequently between districts."
+            ],
+            "fr": [
+              "Téléchargez l'application Méribus pour les horaires de départ en direct.",
+              "Les bus sont généralement chauds et secs à l'intérieur.",
+              "Vérifiez la fréquence des bus, car elle peut varier par temps de pluie.",
+              "Un petit parapluie de voyage tient bien dans votre bagage à main.",
+              "La ligne principale (A) circule très fréquemment entre les quartiers."
             ]
           }
         },
@@ -2519,7 +2781,8 @@
             "de": "Im Winter ist der Méribus die Lebensader des Tals. Morgens fahren wir mit Skifahrern zum Olympiazentrum. Mittags geht es zum Mottaret für einen Spaziergang am gefrorenen See. Nachmittags besuchen wir das gemütliche Les Allues und sein Museum. Der Bus ist der sicherste Weg, um abends nach einem Fondue-Essen zurück zur Unterkunft zu kommen.",
             "hu": "Télen a Méribus a völgy életereje. Reggel síelőkkel együtt utazunk az olimpiai központhoz. Délben Mottaret felé vesszük az irányt a befagyott tónál tett sétához. Délután a hangulatos Les Allues falut és múzeumát látogatjuk meg. A busz a legbiztonságosabb módja az esti fondue-vacsora utáni hazajutásnak.",
             "ro": "Iarna, Méribus este artera vitală a văii. Dimineața călătorim cu schiorii spre centrul olimpic. La prânz mergem spre Mottaret pentru o plimbare la lacul înghețat. După-amiaza vizităm Les Allues și muzeul său. Autobuzul este cea mai sigură cale de întoarcere seara, după o cină cu fondue.",
-            "en": "In winter, the Méribus is the lifeline of the valley. In the morning, we ride with skiers to the Olympic center. At noon, we head to Mottaret for a walk by the frozen lake. In the afternoon, we visit cozy Les Allues and its museum. The bus is the safest way to get back to your accommodation after a fondue dinner in the evening."
+            "en": "In winter, the Méribus is the lifeline of the valley. In the morning, we ride with skiers to the Olympic center. At noon, we head to Mottaret for a walk by the frozen lake. In the afternoon, we visit cozy Les Allues and its museum. The bus is the safest way to get back to your accommodation after a fondue dinner in the evening.",
+            "fr": "En hiver, le Méribus est le cordon ombilical de la vallée. Le matin, nous voyageons avec les skieurs vers le centre olympique. À midi, direction Mottaret pour une promenade au bord du lac gelé. L'après-midi, nous visitons le charmant village des Allues et son musée. Le bus est le moyen le plus sûr de regagner votre hébergement après une fondue le soir."
           },
           "stops": [
             {
@@ -2528,7 +2791,8 @@
                 "de": "Im Winter herrscht hier reges Treiben durch die Skifahrer.",
                 "hu": "Télen nagy itt a nyüzsgés a síelők miatt.",
                 "ro": "Iarna este multă agitație aici din cauza schiorilor.",
-                "en": "In winter, this place is bustling with skiers."
+                "en": "In winter, this place is bustling with skiers.",
+                "fr": "En hiver, cet endroit fourmille de skieurs."
               }
             },
             {
@@ -2537,7 +2801,8 @@
                 "de": "Ideal, um nach dem Skifahren direkt ins Spa zu gehen.",
                 "hu": "Ideális, ha síelés után közvetlenül a spába menne.",
                 "ro": "Ideal pentru a merge direct la spa după schi.",
-                "en": "Ideal for going straight to the spa after skiing."
+                "en": "Ideal for going straight to the spa after skiing.",
+                "fr": "Idéal pour se rendre directement au spa après le ski."
               }
             },
             {
@@ -2546,7 +2811,8 @@
                 "de": "Achten Sie auf die Skibusse, die hier oft halten.",
                 "hu": "Figyeljen a síbuszokra, amelyek itt gyakran megállnak.",
                 "ro": "Atenție la autobuzele de schi care opresc des aici.",
-                "en": "Watch out for the ski buses that frequently stop here."
+                "en": "Watch out for the ski buses that frequently stop here.",
+                "fr": "Attention aux bus de skieurs qui s'arrêtent fréquemment ici."
               }
             },
             {
@@ -2555,7 +2821,8 @@
                 "de": "Die Busfahrt ins Tal bietet tolle Ausblicke auf die Alpen.",
                 "hu": "A völgybe vezető buszút remek kilátást nyújt az Alpokra.",
                 "ro": "Călătoria cu autobuzul oferă vederi superbe spre Alpi.",
-                "en": "The bus ride down the valley offers great views of the Alps."
+                "en": "The bus ride down the valley offers great views of the Alps.",
+                "fr": "Le trajet en bus vers la vallée offre de superbes vues sur les Alpes."
               }
             },
             {
@@ -2564,7 +2831,8 @@
                 "de": "Endstation für viele gemütliche Winterspaziergänge.",
                 "hu": "Sok kellemes téli séta végállomása.",
                 "ro": "Capăt de linie pentru multe plimbări plăcute de iarnă.",
-                "en": "The end point for many cozy winter walks."
+                "en": "The end point for many cozy winter walks.",
+                "fr": "Point final de nombreuses et agréables promenades hivernales."
               }
             }
           ],
@@ -2596,6 +2864,13 @@
               "The last bus usually runs until late in the evening.",
               "In winter, the Méribus is the best alternative to driving yourself.",
               "Use the heated waiting areas at the main transit hubs."
+            ],
+            "fr": [
+              "Les navettes gratuites sont souvent bondées ; prévoyez un temps de trajet supplémentaire.",
+              "Les chaussures de ski sont autorisées dans les bus, mais soyez prudent en montant.",
+              "Le dernier bus circule généralement jusqu'à tard dans la soirée.",
+              "En hiver, le Méribus est la meilleure alternative à la conduite personnelle.",
+              "Utilisez les zones d'attente chauffées aux principaux pôles de correspondance."
             ]
           }
         }

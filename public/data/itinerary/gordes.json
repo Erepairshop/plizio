@@ -111,7 +111,8 @@
         "de": "Morgens beginnen Sie am berühmten Aussichtspunkt, um Gordes in seiner ganzen Pracht zu sehen. Der Vormittag gehört dem historischen Zentrum mit dem imposanten Schloss und dem lebhaften Hauptplatz. Mittags steigen Sie in die geheimnisvollen unterirdischen Keller hinab, um die industrielle Vergangenheit zu entdecken. Nachmittags bietet die Kirche Saint-Firmin einen Moment der Stille. Abends lassen Sie den Tag bei einem Glas lokalem Rosé auf der Piazza ausklingen.",
         "hu": "Kezdje a reggelt a híres kilátópontnál, hogy teljes pompájában láthassa Gordest. A délelőtt a történelmi központé, az impozáns várral és a nyüzsgő főtérrel. Délben ereszkedjen le a titokzatos földalatti pincékbe, hogy felfedezze a falu ipari múltját. Délután a Saint-Firmin templom kínál egy pillanatnyi csendet. Este zárja a napot egy pohár helyi rozéval a főtéren, élvezve a provence-i hangulatot.",
         "ro": "Începeți dimineața la celebrul punct de belvedere pentru a vedea Gordes în toată splendoarea sa. Dimineața aparține centrului istoric, cu castelul impunător și piața principală plină de viață. La prânz, coborâți în pivnițele subterane misterioase pentru a descoperi trecutul industrial. După-amiaza, biserica Saint-Firmin oferă un moment de liniște. Seara, încheiați ziua cu un pahar de rosé local în piață.",
-        "en": "Start your morning at the famous viewpoint to see Gordes in all its hilltop glory. Mid-morning is dedicated to the historic center, featuring the imposing castle and the lively main square. At noon, descend into the mysterious underground cellars to discover the village's industrial past. In the afternoon, Saint-Firmin church offers a moment of quiet. Finish your evening with a glass of local rosé on the square, soaking in the Provencal atmosphere."
+        "en": "Start your morning at the famous viewpoint to see Gordes in all its hilltop glory. Mid-morning is dedicated to the historic center, featuring the imposing castle and the lively main square. At noon, descend into the mysterious underground cellars to discover the village's industrial past. In the afternoon, Saint-Firmin church offers a moment of quiet. Finish your evening with a glass of local rosé on the square, soaking in the Provencal atmosphere.",
+        "fr": "Commencez votre matinée au célèbre point de vue pour admirer Gordes dans toute sa splendeur perchée. Le milieu de matinée est dédié au centre historique, avec son château imposant et sa place principale animée. À midi, descendez dans les mystérieuses caves souterraines pour découvrir le passé industriel du village. L'après-midi, l'église Saint-Firmin offre un moment de calme. Terminez votre soirée avec un verre de rosé local sur la place, en profitant de l'ambiance provençale."
       },
       "gastro_picks": {
         "de": [
@@ -152,6 +153,16 @@
           {
             "name": "Luberon Wines",
             "tip": "Visit the Cave de Gordes for a tasting of regional rosé wines."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Omelette aux Truffes",
+            "tip": "Goûtez cette spécialité locale au restaurant L'Artegal."
+          },
+          {
+            "name": "Vins du Luberon",
+            "tip": "Visitez la Cave de Gordes pour une dégustation de vins rosés régionaux."
           }
         ]
       },
@@ -203,6 +214,18 @@
             "tip": "The quiet stone-paved paths (calades) behind the church.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Belvédère de Gordes",
+            "tip": "Parfait pour regarder le coucher du soleil.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruelles dérobées",
+            "tip": "Les sentiers pavés de pierres (calades) derrière l'église sont très calmes.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -245,6 +268,16 @@
             "name": "Pottery",
             "tip": "Handmade ceramics in the small workshops of the village."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché du Mardi",
+            "tip": "Produits locaux comme l'huile d'olive et le miel de lavande."
+          },
+          {
+            "name": "Poterie",
+            "tip": "Céramiques artisanales dans les petits ateliers du village."
+          }
         ]
       },
       "tips": {
@@ -271,6 +304,12 @@
           "Visit the village early in the morning to avoid the tourist crowds.",
           "The Tuesday market is very popular, so find parking early.",
           "Don't forget your camera for the panoramic views."
+        ],
+        "fr": [
+          "Portez des chaussures confortables car les rues sont escarpées et pavées de pierres.",
+          "Visitez le village tôt le matin pour éviter les foules de touristes.",
+          "Le marché du mardi est très populaire, arrivez tôt pour trouver une place de parking.",
+          "N'oubliez pas votre appareil photo pour les vues panoramiques."
         ]
       },
       "variants": {
@@ -469,7 +508,8 @@
             "de": "Ein regnerischer Morgen in Gordes beginnt mit einem mystischen Blick auf das im Nebel versinkende Tal. Die gepflasterten Gassen glänzen im Regen, während man Schutz in den Torbögen sucht.\r\n\r\nMittags bietet der Place Genty Pantaly gemütliche Cafés, um dem Schauer zu entgehen. Die Atmosphäre ist ruhig, fernab der üblichen Touristenströme.\r\n\r\nDer Nachmittag gehört dem Schloss und den Kellern des Palais Saint-Firmin, die als unterirdische Zufluchtsorte perfekt vor dem Wetter schützen.\r\n\r\nDen Abend lassen wir in der Stille der Église Saint-Firmin ausklingen, wo das Prasseln des Regens gegen die alten Fenster eine andächtige Stimmung erzeugt.",
             "hu": "A ködös, esős reggel Gordes-ban misztikus látványt nyújt, ahogy a völgy eltűnik a pára mögött. A nedves macskaköveken óvatosan haladva keressünk menedéket a városka boltívei alatt.\r\n\r\nDélben a Place Genty Pantaly környékén érdemes egy kis bisztróba behúzódni. Az esőben a falu csendesebb, intimebb arcát mutatja.\r\n\r\nDélután a várkastély és a Saint-Firmin palota pincéi nyújtanak tökéletes fedett programot, ahol a történelem rétegei között szárazon maradhatunk.\r\n\r\nAz estét a Saint-Firmin templom nyugalmában zárjuk, hallgatva a tetőn kopogó esőt, mielőtt visszatérnénk a szállásunkra.",
             "ro": "O dimineață ploioasă în Gordes începe cu o priveliște mistică asupra văii scufundate în ceață. Străzile pavate lucesc sub ploaie, oferind un decor dramatic pentru fotografii.\r\n\r\nLa prânz, Place Genty Pantaly oferă refugiu în cafenelele sale cochete. Atmosfera este mult mai liniștită fără mulțimile obișnuite de turiști.\r\n\r\nDupă-amiaza este dedicată castelului și pivnițelor Palais Saint-Firmin, refugii subterane ideale care vă feresc complet de intemperii.\r\n\r\nSeara se încheie în liniștea bisericii Saint-Firmin, unde sunetul ploii pe ferestrele vechi creează o ambianță plină de melancolie și pace.",
-            "en": "A rainy morning in Gordes begins with a mystical view of the valley disappearing into the mist. The cobblestone streets glisten in the rain, offering a dramatic setting for a quiet stroll.\r\n\r\nAt noon, Place Genty Pantaly provides cozy spots to escape the showers. The village feels more intimate and authentic without the usual crowds.\r\n\r\nThe afternoon is best spent inside the Castle and the Caves of Palais Saint-Firmin, which serve as perfect indoor shelters from the weather.\r\n\r\nEvening concludes in the stillness of Saint-Firmin Church, where the rain tapping on the ancient windows creates a meditative and peaceful atmosphere."
+            "en": "A rainy morning in Gordes begins with a mystical view of the valley disappearing into the mist. The cobblestone streets glisten in the rain, offering a dramatic setting for a quiet stroll.\r\n\r\nAt noon, Place Genty Pantaly provides cozy spots to escape the showers. The village feels more intimate and authentic without the usual crowds.\r\n\r\nThe afternoon is best spent inside the Castle and the Caves of Palais Saint-Firmin, which serve as perfect indoor shelters from the weather.\r\n\r\nEvening concludes in the stillness of Saint-Firmin Church, where the rain tapping on the ancient windows creates a meditative and peaceful atmosphere.",
+            "fr": "Une matinée pluvieuse à Gordes commence par une vue mystique sur la vallée disparaissant dans la brume. Les rues pavées brillent sous la pluie, offrant un cadre spectaculaire pour une promenade tranquille.\r\n\r\nÀ midi, la Place Genty Pantaly propose des endroits chaleureux pour échapper aux averses. Le village semble plus intime et authentique sans les foules habituelles.\r\n\r\nL'après-midi se passe idéalement à l'intérieur du Château et des Caves du Palais Saint-Firmin, qui constituent de parfaits abris intérieurs.\r\n\r\nLa soirée se termine dans le calme de l'église Saint-Firmin, où la pluie tapotant sur les vitraux anciens crée une atmosphère méditative et paisible."
           },
           "stops": [
             {
@@ -478,7 +518,8 @@
                 "de": "Vorsicht, die Steine am Aussichtspunkt sind bei Nässe extrem rutschig.",
                 "hu": "Vigyázat, a kilátópontnál a kövek esőben rendkívül csúszósak lehetnek.",
                 "ro": "Atenție, pietrele de la punctul de belvedere devin foarte alunecoase pe ploaie.",
-                "en": "Careful, the stones at the viewpoint become extremely slippery when wet."
+                "en": "Careful, the stones at the viewpoint become extremely slippery when wet.",
+                "fr": "Attention, les pierres au point de vue deviennent extrêmement glissantes par temps de pluie."
               }
             },
             {
@@ -487,7 +528,8 @@
                 "de": "Nutzen Sie die Markisen der Cafés als kurzen Regenschutz.",
                 "hu": "Használja a kávézók napellenzőit rövid esővédőként.",
                 "ro": "Folosiți copertinele cafenelelor pentru un scurt refugiu împotriva ploii.",
-                "en": "Use the cafe awnings as brief shelters from the rain."
+                "en": "Use the cafe awnings as brief shelters from the rain.",
+                "fr": "Utilisez les stores des cafés comme abris temporaires contre la pluie."
               }
             },
             {
@@ -496,7 +538,8 @@
                 "de": "Hervorragender Ort, um die stärksten Regenschauer im Inneren zu überbrücken.",
                 "hu": "Kiváló helyszín a nagyobb záporok átvészelésére a vastag falak között.",
                 "ro": "Loc excelent pentru a aștepta trecerea ploii în interiorul zidurilor groase.",
-                "en": "Excellent place to wait out heavy showers inside the thick walls."
+                "en": "Excellent place to wait out heavy showers inside the thick walls.",
+                "fr": "Excellent endroit pour attendre la fin d'une grosse averse à l'abri des murs épais."
               }
             },
             {
@@ -505,7 +548,8 @@
                 "de": "Die unterirdischen Gänge sind komplett trocken und wetterunabhängig.",
                 "hu": "A föld alatti járatok teljesen szárazak és függetlenek az időjárástól.",
                 "ro": "Culoarele subterane sunt complet uscate și independente de vreme.",
-                "en": "The underground tunnels are completely dry and weather-independent."
+                "en": "The underground tunnels are completely dry and weather-independent.",
+                "fr": "Les tunnels souterrains sont complètement secs et indépendants de la météo."
               }
             },
             {
@@ -514,7 +558,8 @@
                 "de": "Ein friedlicher, trockener Ort für eine kurze Rast am Ende der Tour.",
                 "hu": "Békés, száraz helyszín egy rövid pihenőhöz a túra végén.",
                 "ro": "Un loc liniștit și uscat pentru o scurtă odihnă la finalul turului.",
-                "en": "A peaceful, dry location for a short rest at the end of the tour."
+                "en": "A peaceful, dry location for a short rest at the end of the tour.",
+                "fr": "Un lieu paisible et sec pour un court repos à la fin de la visite."
               }
             }
           ],
@@ -542,6 +587,12 @@
               "A sturdy umbrella is better than a light poncho due to the gusty Mistral wind.",
               "Take advantage of the many arches and doorways to navigate between stops.",
               "The valley views are often more dramatic with low-hanging clouds during rain."
+            ],
+            "fr": [
+              "Portez des chaussures avec une bonne adhérence car le calcaire devient glissant comme de la glace lorsqu'il est mouillé.",
+              "Un parapluie robuste est préférable à un poncho léger en raison des rafales de Mistral.",
+              "Profitez des nombreuses arches et porches pour naviguer entre les arrêts.",
+              "Les vues sur la vallée sont souvent plus spectaculaires avec les nuages bas pendant la pluie."
             ]
           }
         },
@@ -550,7 +601,8 @@
             "de": "Ein klarer Wintermorgen in Gordes bietet eine unglaubliche Fernsicht bis zum Luberon-Gebirge. Die Luft ist frisch und die Sonne wärmt die goldenen Steine des Dorfes.\r\n\r\nMittags suchen wir die windgeschützten Plätze auf. In den schmalen Gassen ist es deutlich wärmer als auf den exponierten Aussichtspunkten.\r\n\r\nAm Nachmittag taucht die tiefstehende Wintersonne das Schloss in ein magisches Licht. Es ist die beste Zeit für Fotografien ohne störende Schatten.\r\n\r\nDer Abend bricht früh an. Wenn die Sonne gegen 17:00 Uhr hinter den Hügeln verschwindet, ziehen wir uns in die gemütlichen, beheizten Innenräume des Dorfes zurück.",
             "hu": "A tiszta téli reggelen Gordes-ból ellátni egészen a Luberon-hegységig. A levegő friss, a nap pedig gyönyörűen megvilágítja a falu aranybarna köveit.\r\n\r\nDélben érdemes a szélvédett kis utcákban maradni, ahol a házfalak visszaverik a nap melegét, míg a nyílt részeken hidegebb a szél.\r\n\r\nDélután az alacsonyan járó téli nap súrolófényei különleges textúrát adnak a várkastély falainak, tökéletes fotótémát kínálva.\r\n\r\nAz este korán köszönt be; amint a nap 17:00 körül eltűnik a dombok mögött, a falu fényei kigyúlnak, mi pedig behúzódunk a melegbe.",
             "ro": "O dimineață senină de iarnă în Gordes oferă o vizibilitate incredibilă până la munții Luberon. Aerul este tăios, dar soarele încălzește pietrele aurii ale satului.\r\n\r\nLa prânz, căutați locurile ferite de vânt. Pe străzile înguste este mult mai cald decât în punctele de belvedere expuse.\r\n\r\nDupă-amiaza, soarele de iarnă aflat la înălțime mică scaldă castelul într-o lumină magică. Este momentul ideal pentru fotografii fără umbre dure.\r\n\r\nSeara vine devreme. Când soarele apune în jurul orei 17:00, temperaturile scad brusc, făcând cafenelele încălzite foarte primitoare.",
-            "en": "A clear winter morning in Gordes offers incredible visibility across the Luberon massif. The air is crisp, and the sun beautifully warms the village's golden stones.\r\n\r\nAt noon, seek out wind-sheltered spots. The narrow alleys feel much warmer than the exposed viewpoints on the edge of the cliff.\r\n\r\nIn the afternoon, the low winter sun bathes the castle in a magical glow, providing perfect lighting for photography without harsh shadows.\r\n\r\nEvening arrives early; as the sun disappears behind the hills around 17:00, the village lights flicker on, and we retreat to cozy, heated interiors."
+            "en": "A clear winter morning in Gordes offers incredible visibility across the Luberon massif. The air is crisp, and the sun beautifully warms the village's golden stones.\r\n\r\nAt noon, seek out wind-sheltered spots. The narrow alleys feel much warmer than the exposed viewpoints on the edge of the cliff.\r\n\r\nIn the afternoon, the low winter sun bathes the castle in a magical glow, providing perfect lighting for photography without harsh shadows.\r\n\r\nEvening arrives early; as the sun disappears behind the hills around 17:00, the village lights flicker on, and we retreat to cozy, heated interiors.",
+            "fr": "Une matinée d'hiver claire à Gordes offre une visibilité incroyable sur le massif du Luberon. L'air est vif et le soleil réchauffe magnifiquement les pierres dorées du village.\r\n\r\nÀ midi, recherchez les endroits à l'abri du vent. Les ruelles étroites sont bien plus chaleureuses que les points de vue exposés au bord de la falaise.\r\n\r\nL'après-midi, le bas soleil d'hiver baigne le château d'une lueur magique, offrant un éclairage parfait pour la photographie.\r\n\r\nLa soirée arrive tôt ; dès que le soleil disparaît derrière les collines vers 17h00, les lumières du village s'allument et nous nous retirons dans des intérieurs chauffés et confortables."
           },
           "stops": [
             {
@@ -559,7 +611,8 @@
                 "de": "Hervorragende Fernsicht, aber oft sehr windig und kalt am Morgen.",
                 "hu": "Kiváló látótávolság, de reggel gyakran nagyon szeles és hideg itt.",
                 "ro": "Vizibilitate excelentă, dar adesea bate un vânt tăios dimineața.",
-                "en": "Excellent visibility, but often very windy and cold in the morning."
+                "en": "Excellent visibility, but often very windy and cold in the morning.",
+                "fr": "Excellente visibilité, mais souvent très venteux et froid le matin."
               }
             },
             {
@@ -568,7 +621,8 @@
                 "de": "Genießen Sie die Mittagssonne an einer der geschützten Hauswände.",
                 "hu": "Élvezze a déli napsütést a védett házfalak tövében.",
                 "ro": "Bucurați-vă de soarele de la prânz lângă zidurile ferite de vânt.",
-                "en": "Enjoy the midday sun near one of the sheltered house walls."
+                "en": "Enjoy the midday sun near one of the sheltered house walls.",
+                "fr": "Profitez du soleil de midi près de l'un des murs de maison abrités."
               }
             },
             {
@@ -577,7 +631,8 @@
                 "de": "Die Innenräume sind beheizt und bieten eine angenehme Pause vom Wind.",
                 "hu": "A belső terek fűtöttek, kellemes pihenőt nyújtanak a szél elől.",
                 "ro": "Interiorul este încălzit și oferă o pauză plăcută de la vânt.",
-                "en": "The interior is heated and offers a pleasant break from the wind."
+                "en": "The interior is heated and offers a pleasant break from the wind.",
+                "fr": "L'intérieur est chauffé et offre une pause agréable contre le vent."
               }
             },
             {
@@ -586,7 +641,8 @@
                 "de": "Die Temperatur unter der Erde ist im Winter oft milder als draußen.",
                 "hu": "A föld alatti hőmérséklet télen gyakran enyhébb, mint a felszínen.",
                 "ro": "Temperatura subterană este adesea mai blândă iarna decât cea de afară.",
-                "en": "Underground temperatures are often milder in winter than outside."
+                "en": "Underground temperatures are often milder in winter than outside.",
+                "fr": "Les températures souterraines sont souvent plus clémentes en hiver qu'à l'extérieur."
               }
             },
             {
@@ -595,7 +651,8 @@
                 "de": "Besuchen Sie die Kirche kurz vor Sonnenuntergang für warmes Licht.",
                 "hu": "Látogassa meg a templomot röviddel naplemente előtt a meleg fényekért.",
                 "ro": "Vizitați biserica chiar înainte de apus pentru a prinde lumina caldă.",
-                "en": "Visit the church shortly before sunset to catch the warm light."
+                "en": "Visit the church shortly before sunset to catch the warm light.",
+                "fr": "Visitez l'église peu avant le coucher du soleil pour profiter de la lumière chaude."
               }
             }
           ],
@@ -623,6 +680,12 @@
               "The Mistral wind can make it feel much colder; dressing in layers is essential.",
               "Some cafes have reduced hours in the off-season; check their status beforehand.",
               "The clear winter air allows for the best photography of the village from afar."
+            ],
+            "fr": [
+              "Le coucher du soleil est vers 17h10 en hiver ; prévoyez de terminer votre programme avant la nuit.",
+              "Le Mistral peut accentuer la sensation de froid ; s'habiller avec plusieurs couches est essentiel.",
+              "Certains cafés ont des horaires réduits hors saison ; vérifiez leur statut à l'avance.",
+              "L'air clair de l'hiver permet de prendre les meilleures photos du village de loin."
             ]
           }
         }
@@ -731,7 +794,8 @@
         "de": "Eine sportliche Tour rund um Gordes. Starten Sie mit dem Panoramablick und radeln Sie dann zum einzigartigen Village des Bories. Die Route führt weiter durch malerische Straßen zur berühmten Abtei Sénanque. Nach dem Rückweg ins Dorfzentrum entspannen Sie am Hauptplatz und besichtigen das Schloss. Die hügelige Landschaft des Luberon bietet fantastische Ausblicke, erfordert aber eine gute Kondition.",
         "hu": "Sportos túra Gordes körül. Kezdje a panorámával, majd tekerjen el az egyedülálló Village des Bories-hoz. Az útvonal festői utakon vezet tovább a híres Sénanque apátsághoz. A faluközpontba való visszatérés után pihenjen a főtéren és nézze meg a várat. A Luberon dombos vidéke fantasztikus kilátást nyújt, de jó kondíciót igényel.",
         "ro": "Un tur sportiv în jurul satului Gordes. Începeți cu panorama, apoi pedalați spre unicul Village des Bories. Traseul continuă pe drumuri pitorești către faimoasa abație Sénanque. După întoarcerea în centrul satului, relaxați-vă în piața principală și vizitați castelul. Peisajul deluros din Luberon oferă priveliști fantastice, dar necesită o condiție fizică bună.",
-        "en": "An athletic tour around Gordes. Start with the panoramic view, then cycle to the unique Village des Bories. The route continues through scenic roads to the famous Sénanque Abbey. After returning to the village center, relax at the main square and visit the castle. The hilly Luberon landscape offers fantastic views but requires good stamina."
+        "en": "An athletic tour around Gordes. Start with the panoramic view, then cycle to the unique Village des Bories. The route continues through scenic roads to the famous Sénanque Abbey. After returning to the village center, relax at the main square and visit the castle. The hilly Luberon landscape offers fantastic views but requires good stamina.",
+        "fr": "Un circuit sportif autour de Gordes. Commencez par la vue panoramique, puis pédalez jusqu'au Village des Bories. L'itinéraire se poursuit par des routes pittoresques vers la célèbre Abbaye de Sénanque. Après être revenu au centre du village, détendez-vous sur la place principale et visitez le château. Le paysage vallonné du Luberon offre des vues fantastiques mais nécessite une bonne endurance."
       },
       "gastro_picks": {
         "de": [
@@ -772,6 +836,16 @@
           {
             "name": "Banon Cheese",
             "tip": "Goat cheese wrapped in chestnut leaves."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Glace à la Lavande",
+            "tip": "Une récompense rafraîchissante après la balade à vélo."
+          },
+          {
+            "name": "Fromage de Banon",
+            "tip": "Fromage de chèvre enveloppé dans des feuilles de châtaignier."
           }
         ]
       },
@@ -823,6 +897,18 @@
             "tip": "Lonely paths above the village.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardins de Sénanque",
+            "tip": "Profitez de la paix autour du monastère.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plateau de Vaucluse",
+            "tip": "Sentiers solitaires au-dessus du village.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -865,6 +951,16 @@
             "name": "Luberon Honey",
             "tip": "Directly from the beekeeper near the abbey."
           }
+        ],
+        "fr": [
+          {
+            "name": "Sachets de Lavande",
+            "tip": "Un souvenir parfumé de Provence."
+          },
+          {
+            "name": "Miel du Luberon",
+            "tip": "Directement du producteur près de l'abbaye."
+          }
         ]
       },
       "tips": {
@@ -891,6 +987,12 @@
           "Take plenty of water; there is little shade on the country roads.",
           "Watch out for the Mistral wind, which can make cycling difficult.",
           "Push your bike in the narrow alleys of Gordes."
+        ],
+        "fr": [
+          "Louez un vélo électrique si vous souhaitez explorer les collines escarpées plus confortablement.",
+          "Prévoyez beaucoup d'eau ; il y a peu d'ombre sur les routes de campagne.",
+          "Attention au Mistral, qui peut rendre la pratique du vélo difficile.",
+          "Poussez votre vélo dans les ruelles étroites de Gordes."
         ]
       },
       "variants": {
@@ -1089,7 +1191,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den steilen Abfahrten rund um Gordes. Der Morgen beginnt mit einer Fahrt zum Dorf der Bories durch dampfende Olivenhaine.\r\n\r\nMittags erreichen wir die Abtei Sénanque, die im Regen besonders mystisch wirkt. Die grauen Steine verschmelzen mit dem wolkenverhangenen Himmel.\r\n\r\nAm Nachmittag kämpfen wir uns den Hügel zurück zum Dorfplatz hinauf, wo wir uns in einer Bar aufwärmen.\r\n\r\nDer Abend endet mit einem kurzen Besuch des Schlosses, bevor wir die Räder sicher für die Nacht abstellen.",
             "hu": "Az esős bringázás óvatosságot igényel a meredek lejtőkön. A reggel a Village des Bories felé indul, párás olajfaligetek között.\r\n\r\nDélben érjük el a Sénanque apátságot, ami esőben különösen misztikus; a szürke kövek szinte eggyé válnak a felhős éggel.\r\n\r\nDélután visszakapaszkodunk a falu főterére, ahol egy forró ital mellett pihenünk meg.\r\n\r\nAz estét a várkastély meglátogatásával zárjuk, majd biztonságba helyezzük a kerékpárokat éjszakára.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe coborârile abrupte. Dimineața începe cu drumul spre Village des Bories prin livezi de măslini cu aburi.\r\n\r\nLa prânz ajungem la Abația Sénanque, care arată mistic sub ploaie, pietrele gri pierzându-se în cerul înnorat.\r\n\r\nDupă-amiaza urcăm înapoi spre piața satului, unde ne încălzim într-un bar local.\r\n\r\nSeara se încheie cu o vizită la castel înainte de a depozita bicicletele într-un loc sigur.",
-            "en": "Cycling in the rain requires extra caution on the steep descents around Gordes. The morning starts with a ride to the Village des Bories through misty olive groves.\r\n\r\nAt noon, we reach Sénanque Abbey, which looks especially mystical in the rain, its grey stones blending with the cloudy sky.\r\n\r\nIn the afternoon, we tackle the climb back to the village square to warm up in a local cafe.\r\n\r\nEvening ends with a visit to the castle before safely parking the bikes for the night."
+            "en": "Cycling in the rain requires extra caution on the steep descents around Gordes. The morning starts with a ride to the Village des Bories through misty olive groves.\r\n\r\nAt noon, we reach Sénanque Abbey, which looks especially mystical in the rain, its grey stones blending with the cloudy sky.\r\n\r\nIn the afternoon, we tackle the climb back to the village square to warm up in a local cafe.\r\n\r\nEvening ends with a visit to the castle before safely parking the bikes for the night.",
+            "fr": "Faire du vélo sous la pluie nécessite une prudence accrue dans les descentes raides autour de Gordes. La matinée commence par une balade vers le Village des Bories à travers des oliveraies embrumées.\r\n\r\nÀ midi, nous atteignons l'Abbaye de Sénanque, qui semble particulièrement mystique sous la pluie, ses pierres grises se confondant avec le ciel nuageux.\r\n\r\nL'après-midi, nous entamons la remontée vers la place du village pour nous réchauffer dans un café local.\r\n\r\nLa soirée se termine par une visite au château avant de garer les vélos en toute sécurité pour la nuit."
           },
           "stops": [
             {
@@ -1098,7 +1201,8 @@
                 "de": "Vermeiden Sie starkes Bremsen auf den nassen Markierungen am Boden.",
                 "hu": "Kerülje az erős fékezést a felfestett útburkolati jeleken.",
                 "ro": "Evitați frânarea bruscă pe marcajele rutiere umede.",
-                "en": "Avoid heavy braking on the wet road markings."
+                "en": "Avoid heavy braking on the wet road markings.",
+                "fr": "Évitez les freinages brusques sur les marquages routiers mouillés."
               }
             },
             {
@@ -1107,7 +1211,8 @@
                 "de": "Der Zufahrtsweg kann bei Regen matschig sein, fahren Sie langsam.",
                 "hu": "A bekötőút esőben saras lehet, haladjon lassabban.",
                 "ro": "Drumul de acces poate fi noroios pe ploaie, mergeți încet.",
-                "en": "The access road can be muddy in the rain; cycle slowly."
+                "en": "The access road can be muddy in the rain; cycle slowly.",
+                "fr": "La route d'accès peut être boueuse sous la pluie ; roulez lentement."
               }
             },
             {
@@ -1116,7 +1221,8 @@
                 "de": "Nutzen Sie den überdachten Bereich am Eingang für eine Pause.",
                 "hu": "Használja a bejáratnál lévő fedett részt egy rövid pihenőre.",
                 "ro": "Folosiți zona acoperită de la intrare pentru o scurtă pauză.",
-                "en": "Use the sheltered area at the entrance for a rest."
+                "en": "Use the sheltered area at the entrance for a rest.",
+                "fr": "Utilisez la zone abritée à l'entrée pour vous reposer."
               }
             },
             {
@@ -1125,7 +1231,8 @@
                 "de": "Sichern Sie Ihr Rad unter einem Vorsprung, um den Sattel trocken zu halten.",
                 "hu": "Zárja le a biciklit egy eresz alatt, hogy az ülés száraz maradjon.",
                 "ro": "Securizați bicicleta sub o streașină pentru a păstra șaua uscată.",
-                "en": "Secure your bike under an overhang to keep the saddle dry."
+                "en": "Secure your bike under an overhang to keep the saddle dry.",
+                "fr": "Garez votre vélo sous un débord de toit pour garder la selle sèche."
               }
             },
             {
@@ -1134,7 +1241,8 @@
                 "de": "Stellen Sie die Räder im Windschatten der Schlossmauern ab.",
                 "hu": "A várfalak szélvédett oldalán parkolja le a bringákat.",
                 "ro": "Parcați bicicletele la adăpostul zidurilor castelului.",
-                "en": "Park the bikes in the lee of the castle walls."
+                "en": "Park the bikes in the lee of the castle walls.",
+                "fr": "Garez les vélos à l'abri des murs du château."
               }
             }
           ],
@@ -1162,6 +1270,12 @@
               "The descent to Sénanque Abbey is treacherous when wet; test your brakes.",
               "Avoid riding on white road markings as they become extremely slick.",
               "Wear high-visibility rain gear as visibility decreases significantly in the mist."
+            ],
+            "fr": [
+              "Utilisez des garde-boue pour vous protéger des projections de la route.",
+              "La descente vers l'Abbaye de Sénanque est traître par temps mouillé ; testez vos freins.",
+              "Évitez de rouler sur les marquages routiers blancs car ils deviennent extrêmement glissants.",
+              "Portez des vêtements de pluie haute visibilité car la visibilité diminue nettement dans la brume."
             ]
           }
         },
@@ -1170,7 +1284,8 @@
             "de": "Die Wintertour startet mit einer frostigen Abfahrt. Die Sonne braucht Zeit, um über die Klippen von Gordes zu steigen.\r\n\r\nMittags ist die Fahrt zum Village des Bories anstrengend, aber die Bewegung hält warm. Die Landschaft wirkt im Winter kahl und archaisch.\r\n\r\nDer Nachmittag bei der Abtei Sénanque ist ruhig; fast keine Touristen stören die Stille des Tals.\r\n\r\nZum Abend hin müssen wir den harten Anstieg zurück ins Dorf bewältigen, bevor die Temperaturen nach Sonnenuntergang unter den Gefrierpunkt fallen.",
             "hu": "A téli bringázás fagyos lejtővel indul. Időbe telik, mire a nap a Gordes-sziklák fölé emelkedik.\r\n\r\nDélben a Village des Bories felé vezető út fárasztó, de a mozgás melegen tart. A táj ilyenkor kopár és ősi hatást kelt.\r\n\r\nDélután a Sénanque apátságnál teljes a nyugalom, szinte alig látni turistát a völgyben.\r\n\r\nEste felé vár ránk a nehéz emelkedő vissza a faluba, mielőtt a naplemente utáni fagy beállna.",
             "ro": "Tura de iarnă începe cu o coborâre înghețată. Soarele are nevoie de timp pentru a trece de stâncile din Gordes.\r\n\r\nLa prânz, drumul spre Village des Bories este solicitant, dar efortul vă menține calzi. Peisajul pare arid și arhaic iarna.\r\n\r\nDupă-amiaza la Abația Sénanque este liniștită; aproape niciun turist nu tulbură tăcerea văii.\r\n\r\nSpre seară trebuie să înfruntăm urcarea grea înapoi în sat înainte ca temperaturile să scadă sub îngheț.",
-            "en": "The winter tour starts with a frosty descent. It takes time for the sun to rise above the cliffs of Gordes.\r\n\r\nAt noon, the ride to Village des Bories is challenging, but the exertion keeps you warm. The landscape looks stark and ancient in winter.\r\n\r\nThe afternoon at Sénanque Abbey is peaceful; almost no tourists disturb the valley's silence.\r\n\r\nTowards evening, we face the tough climb back to the village before temperatures drop below freezing after sunset."
+            "en": "The winter tour starts with a frosty descent. It takes time for the sun to rise above the cliffs of Gordes.\r\n\r\nAt noon, the ride to Village des Bories is challenging, but the exertion keeps you warm. The landscape looks stark and ancient in winter.\r\n\r\nThe afternoon at Sénanque Abbey is peaceful; almost no tourists disturb the valley's silence.\r\n\r\nTowards evening, we face the tough climb back to the village before temperatures drop below freezing after sunset.",
+            "fr": "Le circuit d'hiver commence par une descente givrée. Le soleil met du temps à dépasser les falaises de Gordes.\r\n\r\nÀ midi, la balade vers le Village des Bories est exigeante, mais l'effort vous garde au chaud. Le paysage semble austère et antique en hiver.\r\n\r\nL'après-midi à l'Abbaye de Sénanque est paisible ; presque aucun touriste ne vient troubler le silence de la vallée.\r\n\r\nVers le soir, nous affrontons la montée difficile vers le village avant que les températures ne descendent sous le point de congélation après le coucher du soleil."
           },
           "stops": [
             {
@@ -1179,7 +1294,8 @@
                 "de": "Achten Sie auf Reifglätte in schattigen Kurven am frühen Morgen.",
                 "hu": "Ügyeljen a zúzmarára és a jégre a reggeli árnyékos kanyarokban.",
                 "ro": "Atenție la porțiunile de drum înghețate în curbele umbrite dimineața.",
-                "en": "Watch out for black ice in shaded corners early in the morning."
+                "en": "Watch out for black ice in shaded corners early in the morning.",
+                "fr": "Attention au verglas dans les virages ombragés tôt le matin."
               }
             },
             {
@@ -1188,7 +1304,8 @@
                 "de": "In der Senke ist es oft kälter als oben im Dorf, warm anziehen.",
                 "hu": "A völgyben gyakran hidegebb van, mint a faluban, öltözzön melegen.",
                 "ro": "În vale este adesea mai frig decât sus în sat, îmbrăcați-vă bine.",
-                "en": "It is often colder in the hollow than in the village; dress warmly."
+                "en": "It is often colder in the hollow than in the village; dress warmly.",
+                "fr": "Il fait souvent plus froid dans le vallon que dans le village ; habillez-vous chaudement."
               }
             },
             {
@@ -1197,7 +1314,8 @@
                 "de": "Die schmale Straße im Tal bekommt im Winter nur wenig Sonne.",
                 "hu": "A völgyben futó keskeny út télen alig kap közvetlen napsütést.",
                 "ro": "Drumul îngust din vale primește foarte puțin soare iarna.",
-                "en": "The narrow road in the valley receives very little sun in winter."
+                "en": "The narrow road in the valley receives very little sun in winter.",
+                "fr": "La route étroite de la vallée reçoit très peu de soleil en hiver."
               }
             },
             {
@@ -1206,7 +1324,8 @@
                 "de": "Stellen Sie das Rad an eine sonnige Wand, um es leicht anzuwärmen.",
                 "hu": "Támassza a biciklit egy napsütötte falhoz, hogy ne legyen jéghideg.",
                 "ro": "Sprijiniți bicicleta de un zid însorit pentru a o menține puțin mai caldă.",
-                "en": "Lean your bike against a sunny wall to keep it slightly warmer."
+                "en": "Lean your bike against a sunny wall to keep it slightly warmer.",
+                "fr": "Appuyez votre vélo contre un mur ensoleillé pour le garder un peu plus chaud."
               }
             },
             {
@@ -1215,7 +1334,8 @@
                 "de": "Nutzen Sie den windstillen Innenhof für eine kurze Trinkpause.",
                 "hu": "Használja a szélvédett belső udvart egy rövid ivószünethez.",
                 "ro": "Folosiți curtea interioară ferită de vânt pentru o scurtă pauză de hidratare.",
-                "en": "Use the windless inner courtyard for a quick water break."
+                "en": "Use the windless inner courtyard for a quick water break.",
+                "fr": "Utilisez la cour intérieure sans vent pour une courte pause hydratation."
               }
             }
           ],
@@ -1243,6 +1363,12 @@
               "Bring a warm drink in a thermos for the ride.",
               "Check your tire pressure; slightly lower pressure offers better grip in the cold.",
               "Finish your tour by 16:30 to avoid the freezing dusk."
+            ],
+            "fr": [
+              "Portez des gants coupe-vent car vos mains se refroidiront rapidement en descente.",
+              "Apportez une boisson chaude dans un thermos pour la route.",
+              "Vérifiez la pression de vos pneus ; une pression légèrement inférieure offre une meilleure adhérence par temps froid.",
+              "Terminez votre visite vers 16h30 pour éviter le crépuscule glacial."
             ]
           }
         }
@@ -1351,7 +1477,8 @@
         "de": "Diese Autotour kombiniert die Highlights von Gordes mit den Schätzen der Umgebung. Morgens besuchen Sie das Village des Bories und die Abtei Sénanque. Nach dem Mittagessen steht das Olivenöl-Museum Moulin des Bouillons auf dem Programm. Den späten Nachmittag verbringen Sie im Dorfzentrum von Gordes, besichtigen das Schloss und genießen die Aussicht. Ein perfekter Tag, um die Vielfalt des Luberon ohne Zeitdruck zu erleben.",
         "hu": "Ez az autós túra ötvözi Gordes látnivalóit a környék kincseivel. Reggel látogasson el a Village des Bories-hoz és a Sénanque apátsághoz. Ebéd után a Moulin des Bouillons olajmúzeum a program. A késő délutánt Gordes központjában töltse, nézze meg a várat és élvezze a kilátást. Tökéletes nap a Luberon sokszínűségének felfedezésére időkényszer nélkül.",
         "ro": "Acest tur auto combină punctele forte ale satului Gordes cu comorile din jur. Dimineața vizitați Village des Bories și abația Sénanque. După prânz, programul include muzeul uleiului de măsline Moulin des Bouillons. Petreceți după-amiaza târziu în centrul satului Gordes, vizitând castelul și admirând priveliștea. O zi perfectă pentru a experimenta diversitatea din Luberon fără grabă.",
-        "en": "This car tour combines the highlights of Gordes with nearby treasures. In the morning, visit the Village des Bories and Sénanque Abbey. After lunch, explore the Moulin des Bouillons olive oil museum. Spend the late afternoon in Gordes village center, visiting the castle and enjoying the views. A perfect day to experience the diversity of Luberon without time pressure."
+        "en": "This car tour combines the highlights of Gordes with nearby treasures. In the morning, visit the Village des Bories and Sénanque Abbey. After lunch, explore the Moulin des Bouillons olive oil museum. Spend the late afternoon in Gordes village center, visiting the castle and enjoying the views. A perfect day to experience the diversity of Luberon without time pressure.",
+        "fr": "Ce circuit en voiture combine les points forts de Gordes avec les trésors environnants. Le matin, visitez le Village des Bories et l'Abbaye de Sénanque. Après le déjeuner, explorez le musée de l'huile d'olive du Moulin des Bouillons. Passez la fin de l'après-midi dans le centre du village de Gordes, visitez le château et profitez de la vue. Une journée parfaite pour découvrir la diversité du Luberon sans pression temporelle."
       },
       "gastro_picks": {
         "de": [
@@ -1392,6 +1519,16 @@
           {
             "name": "Olive Oil",
             "tip": "Buy freshly pressed oil at Moulin des Bouillons."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Ratatouille",
+            "tip": "Légumes frais de Provence au Mas Tourteron."
+          },
+          {
+            "name": "Huile d'Olive",
+            "tip": "Achetez de l'huile fraîchement pressée au Moulin des Bouillons."
           }
         ]
       },
@@ -1443,6 +1580,18 @@
             "tip": "A tiny, quiet village nearby.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Vallée de Sénanque",
+            "tip": "Promenez-vous le long des champs de lavande.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint-Pantaléon",
+            "tip": "Un tout petit village tranquille à proximité.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1485,6 +1634,16 @@
             "name": "Provencal Fabrics",
             "tip": "Tablecloths and textiles with colorful patterns."
           }
+        ],
+        "fr": [
+          {
+            "name": "Produits L'Occitane",
+            "tip": "Cosmétiques régionaux dans les boutiques du village."
+          },
+          {
+            "name": "Tissus Provençaux",
+            "tip": "Nappes et textiles aux motifs colorés."
+          }
         ]
       },
       "tips": {
@@ -1511,6 +1670,12 @@
           "Roads in Luberon are winding; drive defensively.",
           "In summer, parking fees are relatively high.",
           "Watch out for cyclists on the narrow country roads."
+        ],
+        "fr": [
+          "Le stationnement au centre est difficile ; utilisez les grands parkings en périphérie.",
+          "Les routes du Luberon sont sinueuses ; conduisez prudemment.",
+          "En été, les frais de stationnement sont relativement élevés.",
+          "Attention aux cyclistes sur les routes de campagne étroites."
         ]
       },
       "variants": {
@@ -1709,7 +1874,8 @@
             "de": "Eine Autofahrt durch die Provence im Regen hat ihren ganz eigenen Charme. Die Landschaft leuchtet in tiefem Grün und die Straßen sind fast leer.\r\n\r\nMittags besuchen wir die Abtei Sénanque, wo wir direkt vor dem Eingang parken können. Das Prasseln des Regens auf das Autodach ist beruhigend.\r\n\r\nAm Nachmittag bietet sich die Mühle Moulin des Bouillons an, ein großartiges Indoor-Museum, das uns trocken hält.\r\n\r\nZum Abend hin parken wir im Parkhaus von Gordes und genießen den Blick auf das beleuchtete Dorf durch die regennassen Scheiben.",
             "hu": "Az esős autózás Provance-ban különleges élmény; a táj mélyzöldben pompázik, az utak pedig szinte üresek.\r\n\r\nDélben a Sénanque apátsághoz látogatunk, ahol ilyenkor könnyű közvetlenül a bejáratnál parkolni. Az eső kopogása az autótetőn megnyugtató.\r\n\r\nDélután a Moulin des Bouillons malommúzeum remek fedett programot kínál, távol az elemektől.\r\n\r\nEstére a faluban parkolunk le, és az ablaktörlők mögül csodáljuk a kivilágított falut a párás ablakokon keresztül.",
             "ro": "O plimbare cu mașina prin Provence pe ploaie are un farmec aparte. Peisajul strălucește în verde crud, iar drumurile sunt aproape pustii.\r\n\r\nLa prânz vizităm Abația Sénanque, unde putem parca chiar lângă intrare. Sunetul ploii pe plafonul mașinii este foarte relaxant.\r\n\r\nDupă-amiaza, moara Moulin des Bouillons oferă un muzeu interior excelent care ne menține uscați.\r\n\r\nSpre seară parcăm în Gordes și admirăm satul iluminat prin geamurile ude de ploaie.",
-            "en": "Driving through Provence in the rain has its own unique charm. The landscape glows in deep green, and the roads are nearly empty.\r\n\r\nAt noon, we visit Sénanque Abbey, where we can park right by the entrance. The sound of rain on the car roof is quite soothing.\r\n\r\nIn the afternoon, Moulin des Bouillons provides a great indoor museum experience, keeping us away from the elements.\r\n\r\nTowards evening, we park in Gordes and enjoy the view of the illuminated village through the rain-streaked windows."
+            "en": "Driving through Provence in the rain has its own unique charm. The landscape glows in deep green, and the roads are nearly empty.\r\n\r\nAt noon, we visit Sénanque Abbey, where we can park right by the entrance. The sound of rain on the car roof is quite soothing.\r\n\r\nIn the afternoon, Moulin des Bouillons provides a great indoor museum experience, keeping us away from the elements.\r\n\r\nTowards evening, we park in Gordes and enjoy the view of the illuminated village through the rain-streaked windows.",
+            "fr": "Conduire en Provence sous la pluie a son propre charme. Le paysage rayonne d'un vert profond et les routes sont presque vides.\r\n\r\nÀ midi, nous visitons l'Abbaye de Sénanque, où nous pouvons nous garer juste devant l'entrée. Le bruit de la pluie sur le toit de la voiture est apaisant.\r\n\r\nL'après-midi, le Moulin des Bouillons offre une excellente expérience de musée en intérieur, à l'abri des éléments.\r\n\r\nVers le soir, nous nous garons à Gordes et profitons de la vue sur le village illuminé à travers les vitres ruisselantes."
           },
           "stops": [
             {
@@ -1718,7 +1884,8 @@
                 "de": "Bleiben Sie für das Foto kurz im Auto sitzen, bis der Schauer nachlässt.",
                 "hu": "Várja meg a kocsiban az eső alábbhagyását a fotózás előtt.",
                 "ro": "Așteptați în mașină până se domolește ploaia pentru a face fotografii.",
-                "en": "Wait in the car until the shower eases before stepping out for photos."
+                "en": "Wait in the car until the shower eases before stepping out for photos.",
+                "fr": "Attendez dans la voiture que l'averse se calme avant de sortir pour prendre des photos."
               }
             },
             {
@@ -1727,7 +1894,8 @@
                 "de": "Der Parkplatz ist unbefestigt, achten Sie auf Pfützen beim Aussteigen.",
                 "hu": "A parkoló nem aszfaltozott, vigyázzon a tócsákra kiszálláskor.",
                 "ro": "Parcarea nu este asfaltată, atenție la bălți când coborâți din mașină.",
-                "en": "The parking lot is unpaved; watch out for puddles when exiting the car."
+                "en": "The parking lot is unpaved; watch out for puddles when exiting the car.",
+                "fr": "Le parking n'est pas goudronné ; attention aux flaques d'eau en sortant du véhicule."
               }
             },
             {
@@ -1736,7 +1904,8 @@
                 "de": "Bei Regen ist der Parkplatz oft leerer, man kann näher am Eingang stehen.",
                 "hu": "Esőben a parkoló üresebb, közelebb tud állni a bejárathoz.",
                 "ro": "Parcarea este mai liberă pe ploaie, puteți sta mai aproape de intrare.",
-                "en": "The parking lot is emptier in the rain, allowing you to park closer."
+                "en": "The parking lot is emptier in the rain, allowing you to park closer.",
+                "fr": "Le parking est plus vide sous la pluie, ce qui permet de se garer plus près."
               }
             },
             {
@@ -1745,7 +1914,8 @@
                 "de": "Guter Parkplatz direkt am Museumseingang.",
                 "hu": "Jó parkolási lehetőség közvetlenül a múzeum bejáratánál.",
                 "ro": "Loc de parcare bun chiar la intrarea în muzeu.",
-                "en": "Convenient parking right at the museum entrance."
+                "en": "Convenient parking right at the museum entrance.",
+                "fr": "Stationnement pratique juste à l'entrée du musée."
               }
             },
             {
@@ -1754,7 +1924,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Parking de la Poste', um trocken ins Zentrum zu kommen.",
                 "hu": "Használja a 'Parking de la Poste' parkolóházat a száraz bejutáshoz.",
                 "ro": "Folosiți parcarea acoperită 'Parking de la Poste' pentru a ajunge uscat în centru.",
-                "en": "Use the 'Parking de la Poste' parking garage for dry access to the center."
+                "en": "Use the 'Parking de la Poste' parking garage for dry access to the center.",
+                "fr": "Utilisez le Parking de la Poste pour accéder au centre au sec."
               }
             }
           ],
@@ -1782,6 +1953,12 @@
               "Check your wiper blades before starting your journey.",
               "Avoid parking under unstable trees during heavy rainfall.",
               "Mountain roads can be very tricky in the fog; keep your lights on!"
+            ],
+            "fr": [
+              "Conduisez prudemment sur les routes de campagne car l'eau s'accumule dans les creux.",
+              "Vérifiez vos balais d'essuie-glace avant de partir.",
+              "Évitez de vous garer sous des arbres instables pendant les fortes pluies.",
+              "Les routes de montagne peuvent être piégeuses dans le brouillard ; gardez vos feux allumés !"
             ]
           }
         },
@@ -1790,7 +1967,8 @@
             "de": "Eine Wintertour mit dem Auto ermöglicht es, viele Orte bequem und warm zu erreichen. Der Morgen beginnt am Aussichtspunkt, während die Heizung das Auto gemütlich warm hält.\r\n\r\nMittags ist die Fahrt zum Village des Bories entspannt, da es kaum Gegenverkehr gibt. Die karge Winterlandschaft zieht am Fenster vorbei.\r\n\r\nAm Nachmittag bietet die Abtei Sénanque eine friedliche Kulisse, bevor wir zur alten Mühle weiterfahren.\r\n\r\nDen Abend beschließen wir im Dorfzentrum. Dank des Autos müssen wir erst im letzten Moment in die winterliche Kälte hinaustreten.",
             "hu": "A téli autós túra lehetővé teszi, hogy kényelmesen és melegben érjük el a látnivalókat. A reggel a kilátónál indul, miközben a fűtés kellemesen duruzsol.\r\n\r\nDélben a Village des Bories felé vezető út nyugodt, alig van forgalom. A kopár téli táj elsuhan az ablak mellett.\r\n\r\nDélután a Sénanque apátság békés látványa fogad, mielőtt továbbhajtanánk a régi malomhoz.\r\n\r\nAz estét a falu központjában zárjuk. Az autónak köszönhetően csak az utolsó pillanatban kell kilépnünk a téli hidegbe.",
             "ro": "O tură auto de iarnă permite vizitarea multor locuri confortabil și la căldură. Dimineața începe la punctul de belvedere în timp ce încălzirea mașinii funcționează.\r\n\r\nLa prânz, drumul spre Village des Bories este relaxat deoarece traficul este minim. Peisajul arid de iarnă trece pe lângă fereastră.\r\n\r\nDupă-amiaza, Abația Sénanque oferă un decor pașnic înainte de a continua spre vechea moară.\r\n\r\nSeara se încheie în centrul satului. Datorită mașinii, trebuie să ieșim în frigul iernii doar în ultimul moment.",
-            "en": "A winter car tour allows you to reach many sites comfortably and warmly. The morning starts at the viewpoint while the heater keeps the car cozy.\r\n\r\nAt noon, the drive to Village des Bories is relaxed with almost no oncoming traffic. The stark winter landscape drifts by the window.\r\n\r\nIn the afternoon, Sénanque Abbey provides a peaceful backdrop before we head to the old mill.\r\n\r\nWe conclude the evening in the village center. Thanks to the car, we only have to step out into the winter cold at the last possible moment."
+            "en": "A winter car tour allows you to reach many sites comfortably and warmly. The morning starts at the viewpoint while the heater keeps the car cozy.\r\n\r\nAt noon, the drive to Village des Bories is relaxed with almost no oncoming traffic. The stark winter landscape drifts by the window.\r\n\r\nIn the afternoon, Sénanque Abbey provides a peaceful backdrop before we head to the old mill.\r\n\r\nWe conclude the evening in the village center. Thanks to the car, we only have to step out into the winter cold at the last possible moment.",
+            "fr": "Un circuit en voiture en hiver permet d'atteindre de nombreux sites confortablement et au chaud. La matinée commence au point de vue pendant que le chauffage garde la voiture douillette.\r\n\r\nÀ midi, le trajet vers le Village des Bories est détendu avec presque aucun trafic en sens inverse. Le paysage hivernal défile derrière la vitre.\r\n\r\nL'après-midi, l'Abbaye de Sénanque offre un cadre paisible avant de nous diriger vers l'ancien moulin.\r\n\r\nNous terminons la soirée au centre du village. Grâce à la voiture, nous n'avons à sortir dans le froid hivernal qu'au dernier moment possible."
           },
           "stops": [
             {
@@ -1799,7 +1977,8 @@
                 "de": "Genießen Sie den Blick bei laufender Heizung aus dem Innenraum.",
                 "hu": "Élvezze a kilátást a fűtött utastérből.",
                 "ro": "Bucurați-vă de priveliște din interiorul mașinii cu încălzirea pornită.",
-                "en": "Enjoy the view from the warm interior of your car."
+                "en": "Enjoy the view from the warm interior of your car.",
+                "fr": "Profitez de la vue depuis l'intérieur chaleureux de votre voiture."
               }
             },
             {
@@ -1808,7 +1987,8 @@
                 "de": "Achten Sie auf Raureif auf der schmalen Zufahrtsstraße.",
                 "hu": "Ügyeljen a zúzmarára a keskeny bekötőúton.",
                 "ro": "Atenție la chiciură pe drumul de acces îngust.",
-                "en": "Watch out for hoarfrost on the narrow access road."
+                "en": "Watch out for hoarfrost on the narrow access road.",
+                "fr": "Attention au givre sur la route d'accès étroite."
               }
             },
             {
@@ -1817,7 +1997,8 @@
                 "de": "Die Senke der Abtei ist im Winter oft ein Kälteloch, Auto vorheizen.",
                 "hu": "Az apátság völgye télen gyakran egy hidegcsapda, fűtse fel a kocsit.",
                 "ro": "Valea abației este adesea un pol al frigului iarna, preîncălziți mașina.",
-                "en": "The abbey's hollow is often a cold trap in winter; preheat your car."
+                "en": "The abbey's hollow is often a cold trap in winter; preheat your car.",
+                "fr": "Le vallon de l'abbaye est souvent un piège à froid en hiver ; préchauffez votre voiture."
               }
             },
             {
@@ -1826,7 +2007,8 @@
                 "de": "Im Winter oft kürzere Öffnungszeiten, planen Sie den Besuch früher ein.",
                 "hu": "Télen gyakran rövidebb a nyitvatartás, tervezze korábbra a látogatást.",
                 "ro": "Program adesea redus iarna, planificați vizita mai devreme.",
-                "en": "Often has shorter hours in winter; plan your visit earlier in the day."
+                "en": "Often has shorter hours in winter; plan your visit earlier in the day.",
+                "fr": "Horaires souvent plus courts en hiver ; prévoyez votre visite plus tôt dans la journée."
               }
             },
             {
@@ -1835,7 +2017,8 @@
                 "de": "Parken Sie zentral, um die Wege in der Kälte kurz zu halten.",
                 "hu": "Parkoljon központilag, hogy lerövidítse a hidegben töltött gyalogutat.",
                 "ro": "Parcați central pentru a minimiza timpul petrecut mergând prin frig.",
-                "en": "Park centrally to minimize the time spent walking in the cold."
+                "en": "Park centrally to minimize the time spent walking in the cold.",
+                "fr": "Garez-vous au centre pour minimiser le temps passé à marcher dans le froid."
               }
             }
           ],
@@ -1863,6 +2046,12 @@
               "Some road sections on northern slopes may remain icy all day.",
               "Parking fees are often lower or non-existent during the winter months.",
               "Keep a blanket in the car for breaks during your journey."
+            ],
+            "fr": [
+              "Vérifiez que votre liquide lave-glace est résistant au gel.",
+              "Certaines portions de route sur les versants nord peuvent rester verglacées toute la journée.",
+              "Les frais de stationnement sont souvent plus bas ou inexistants pendant les mois d'hiver.",
+              "Gardez une couverture dans la voiture pour les pauses pendant votre trajet."
             ]
           }
         }
@@ -1971,7 +2160,8 @@
         "de": "Entdecken Sie Gordes stressfrei mit den öffentlichen Verkehrsmitteln. Nach der Ankunft am Aussichtspunkt spazieren Sie ins Dorfzentrum. Den Vormittag verbringen Sie mit der Besichtigung des Schlosses und des belebten Hauptplatzes. Mittags bieten die kühlen Keller des Palais Saint-Firmin eine perfekte Zuflucht. Der Nachmittag endet mit einem Besuch der Dorfkirche, bevor Sie den Bus für die Rückreise nehmen. Eine entspannte Art, das 'Schönste Dorf Frankreichs' zu erleben.",
         "hu": "Fedezze fel Gordest stresszmentesen tömegközlekedéssel. A kilátóponthoz való megérkezés után sétáljon be a faluközpontba. A délelőttöt a vár és a nyüzsgő főtér megtekintésével töltse. Délben a Palais Saint-Firmin hűvös pincéi nyújtanak tökéletes menedéket. A délután a falu templomának meglátogatásával zárul, mielőtt felszállna a visszatérő buszra. Kényelmes módja Franciaország egyik legszebb falujának megismerésére.",
         "ro": "Descoperiți Gordes fără stres folosind transportul public. După sosirea la punctul de belvedere, plimbați-vă spre centrul satului. Petreceți dimineața vizitând castelul și piața principală plină de viață. La prânz, pivnițele răcoroase ale Palais Saint-Firmin oferă refugiul perfect. După-amiaza se încheie cu o vizită la biserica satului înainte de a lua autobuzul de întoarcere. O modalitate relaxată de a experimenta cel mai frumos sat din Franța.",
-        "en": "Discover Gordes stress-free using public transit. After arriving at the viewpoint, walk into the village center. Spend your morning visiting the castle and the lively main square. At noon, the cool cellars of Palais Saint-Firmin offer a perfect escape. The afternoon ends with a visit to the village church before catching your return bus. A relaxed way to experience one of the 'Most Beautiful Villages of France'."
+        "en": "Discover Gordes stress-free using public transit. After arriving at the viewpoint, walk into the village center. Spend your morning visiting the castle and the lively main square. At noon, the cool cellars of Palais Saint-Firmin offer a perfect escape. The afternoon ends with a visit to the village church before catching your return bus. A relaxed way to experience one of the 'Most Beautiful Villages of France'.",
+        "fr": "Découvrez Gordes sans stress grâce aux transports en commun. Après être arrivé au point de vue, marchez jusqu'au centre du village. Passez votre matinée à visiter le château et la place principale animée. À midi, les caves fraîches du Palais Saint-Firmin offrent une échappatoire parfaite. L'après-midi se termine par une visite de l'église du village avant de prendre votre bus de retour. Une façon détendue de découvrir l'un des 'Plus Beaux Villages de France'."
       },
       "gastro_picks": {
         "de": [
@@ -2012,6 +2202,16 @@
           {
             "name": "Provence Rosé",
             "tip": "A must-have with every lunch in Gordes."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Herbes de Provence",
+            "tip": "Achetez des mélanges d'herbes locaux au marché pour les rapporter chez vous."
+          },
+          {
+            "name": "Rosé de Provence",
+            "tip": "Un incontournable de tout déjeuner à Gordes."
           }
         ]
       },
@@ -2063,6 +2263,18 @@
             "tip": "Quiet view over the valley.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Fontaine de Gordes",
+            "tip": "Un endroit ombragé pour attendre le bus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Place de l'Église",
+            "tip": "Vue tranquille sur la vallée.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -2105,6 +2317,16 @@
             "name": "Postcards",
             "tip": "Available in small stationery shops in the center."
           }
+        ],
+        "fr": [
+          {
+            "name": "Savon à la Lavande",
+            "tip": "Savons artisanaux de production locale."
+          },
+          {
+            "name": "Cartes Postales",
+            "tip": "Disponibles dans les petites papeteries du centre."
+          }
         ]
       },
       "tips": {
@@ -2131,6 +2353,12 @@
           "In high season, buses may be delayed due to traffic.",
           "Buy your ticket directly from the driver.",
           "The bus stops slightly outside the steepest part of the village."
+        ],
+        "fr": [
+          "Les liaisons de bus (Ligne 915) sont peu fréquentes, planifiez soigneusement votre trajet.",
+          "En haute saison, les bus peuvent avoir du retard à cause de la circulation.",
+          "Achetez votre ticket directement auprès du chauffeur.",
+          "Le bus s'arrête légèrement à l'extérieur de la partie la plus escarpée du village."
         ]
       },
       "variants": {
@@ -2329,7 +2557,8 @@
             "de": "Mit dem Bus nach Gordes zu fahren, ist bei Regen besonders entspannt. Wir lassen uns direkt am Dorfrand absetzen und tauchen in die neblige Szenerie ein.\r\n\r\nMittags suchen wir Schutz in den Gassen rund um den Place Genty Pantaly. Die Wartezeiten auf den nächsten Bus verbringen wir in warmen Cafés.\r\n\r\nAm Nachmittag erkunden wir das Schloss und die Keller, wo wir sicher vor dem Regen sind.\r\n\r\nZum Abend hin nehmen wir den letzten Bus zurück, während wir den Regen an den Fensterscheiben beobachten.",
             "hu": "Esőben busszal érkezni Gordes-ba kényelmes megoldás. Közvetlenül a falu szélén tesz le a járat, onnan indulunk a párás felfedezésre.\r\n\r\nDélben a Place Genty Pantaly körüli szűk utcák boltívei alatt keresünk menedéket a buszindulásig.\r\n\r\nDélután a várkastély és a Saint-Firmin pincék nyújtanak száraz, fedett kikapcsolódást.\r\n\r\nEste az utolsó busszal indulunk vissza, figyelve az ablakon lefolyó esőcseppeket a meleg utastérből.",
             "ro": "Să mergi cu autobuzul la Gordes pe ploaie este o alegere relaxantă. Ne lăsăm lăsați chiar la marginea satului și pătrundem în decorul cețos.\r\n\r\nLa prânz căutăm adăpost în străduțele din jurul Place Genty Pantaly până la următorul autobuz.\r\n\r\nDupă-amiaza explorăm castelul și pivnițele, unde suntem protejați complet de ploaie.\r\n\r\nSpre seară luăm ultimul autobuz înapoi, privind picăturile de ploaie de pe geam.",
-            "en": "Taking the bus to Gordes is especially relaxing in the rain. We get dropped off right at the edge of the village and dive into the misty scenery.\r\n\r\nAt noon, we find shelter in the alleys around Place Genty Pantaly while waiting for the next connection.\r\n\r\nIn the afternoon, we explore the castle and its cellars, where we are safe from the downpours.\r\n\r\nTowards evening, we catch the last bus back, watching the rain on the window panes from the warm cabin."
+            "en": "Taking the bus to Gordes is especially relaxing in the rain. We get dropped off right at the edge of the village and dive into the misty scenery.\r\n\r\nAt noon, we find shelter in the alleys around Place Genty Pantaly while waiting for the next connection.\r\n\r\nIn the afternoon, we explore the castle and its cellars, where we are safe from the downpours.\r\n\r\nTowards evening, we catch the last bus back, watching the rain on the window panes from the warm cabin.",
+            "fr": "Prendre le bus pour Gordes est particulièrement relaxant sous la pluie. Nous sommes déposés juste à l'entrée du village et plongeons dans le décor embrumé.\r\n\r\nÀ midi, nous trouvons refuge dans les ruelles autour de la Place Genty Pantaly en attendant la prochaine correspondance.\r\n\r\nL'après-midi, nous explorons le château et ses caves, où nous sommes à l'abri des averses.\r\n\r\nVers le soir, nous reprenons le dernier bus, regardant la pluie sur les vitres depuis la cabine chauffée."
           },
           "stops": [
             {
@@ -2338,7 +2567,8 @@
                 "de": "Vom Busstopp ist es ein kurzer Fußweg, Schirm bereit halten.",
                 "hu": "A buszmegállótól rövid séta, tartsa készenlétben az esernyőt.",
                 "ro": "E o scurtă plimbare de la stație, țineți umbrela la îndemână.",
-                "en": "It is a short walk from the bus stop; keep your umbrella ready."
+                "en": "It is a short walk from the bus stop; keep your umbrella ready.",
+                "fr": "Il y a une courte marche depuis l'arrêt de bus ; gardez votre parapluie prêt."
               }
             },
             {
@@ -2347,7 +2577,8 @@
                 "de": "Die nächste Haltestelle ist nur wenige Minuten entfernt.",
                 "hu": "A legközelebbi buszmegálló csak pár perc gyalog.",
                 "ro": "Cea mai apropiată stație este la doar câteva minute distanță.",
-                "en": "The nearest bus stop is only a few minutes away."
+                "en": "The nearest bus stop is only a few minutes away.",
+                "fr": "L'arrêt de bus le plus proche n'est qu'à quelques minutes."
               }
             },
             {
@@ -2356,7 +2587,8 @@
                 "de": "Das Schloss liegt direkt im Zentrum, ideal bei Regen.",
                 "hu": "A kastély közvetlenül a központban van, ideális esőben.",
                 "ro": "Castelul este chiar în centru, ideal în caz de ploaie.",
-                "en": "The castle is right in the center, ideal during rain."
+                "en": "The castle is right in the center, ideal during rain.",
+                "fr": "Le château est en plein centre, idéal par temps de pluie."
               }
             },
             {
@@ -2365,7 +2597,8 @@
                 "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren den Regenkontakt.",
                 "hu": "A látnivalók közötti rövid távolság minimalizálja az esőben töltött időt.",
                 "ro": "Distanțele scurte între obiective reduc timpul petrecut în ploaie.",
-                "en": "Short distances between sights minimize exposure to the rain."
+                "en": "Short distances between sights minimize exposure to the rain.",
+                "fr": "Les courtes distances entre les sites minimisent l'exposition à la pluie."
               }
             },
             {
@@ -2374,7 +2607,8 @@
                 "de": "In der Nähe gibt es überdachte Wartebereiche.",
                 "hu": "A közelben fedett várakozóhelyek találhatók.",
                 "ro": "Există zone de așteptare acoperite în apropiere.",
-                "en": "There are covered waiting areas nearby."
+                "en": "There are covered waiting areas nearby.",
+                "fr": "Il y a des zones d'attente couvertes à proximité."
               }
             }
           ],
@@ -2402,6 +2636,12 @@
               "Buses in Provence often experience delays during rainy weather.",
               "Have small change or a card ready for the bus fare.",
               "The 'Place du Château' stop offers little rain cover; wait nearby in a sheltered spot."
+            ],
+            "fr": [
+              "Vérifiez soigneusement les horaires de bus (Ligne 915/9904), car il y a moins de trajets en hiver.",
+              "Les bus en Provence subissent souvent des retards par temps de pluie.",
+              "Ayez de la monnaie ou une carte prête pour le ticket de bus.",
+              "L'arrêt 'Place du Château' offre peu d'abri contre la pluie ; attendez à proximité dans un endroit couvert."
             ]
           }
         },
@@ -2410,7 +2650,8 @@
             "de": "Im Winter ist die Busfahrt nach Gordes ruhig und bietet tolle Ausblicke auf die kahlen Weinberge. Der Morgen beginnt mit der Ankunft im stillen Dorf.\r\n\r\nMittags genießen wir die Sonne am Place Genty Pantaly, während wir auf die nächste Verbindung warten.\r\n\r\nDer Nachmittag im Schloss ist entspannt, da es keine Schlangen gibt. Wir nutzen die Zeit für ausgiebige Besichtigungen im Warmen.\r\n\r\nZum Abend hin nehmen wir den Bus zurück, wenn die Lichter von Gordes hinter uns in der Dunkelheit verschwinden.",
             "hu": "Télen a buszozás Gordes-ba nyugodt, szép kilátással a kopár szőlőültetvényekre. A reggel a csendes faluba való megérkezéssel indul.\r\n\r\nDélben a Place Genty Pantaly-nál élvezzük a napsütést, amíg a következő járatra várunk.\r\n\r\nDélután a várkastélyban nincs sorban állás, kényelmesen nézhetünk körül a fűtött termekben.\r\n\r\nEste felé a busszal indulunk vissza, miközben Gordes fényei elhalványulnak a sötétben mögöttünk.",
             "ro": "Iarna, drumul cu autobuzul spre Gordes este liniștit și oferă vederi frumoase asupra podgoriilor desfrunzite. Dimineața începe cu sosirea în satul tăcut.\r\n\r\nLa prânz ne bucurăm de soare la Place Genty Pantaly în timp ce așteptăm următoarea legătură.\r\n\r\nDupă-amiaza la castel este relaxată deoarece nu sunt cozi. Folosim timpul pentru vizite lungi la căldură.\r\n\r\nSpre seară luăm autobuzul înapoi, în timp ce luminile din Gordes dispar în întuneric în urma noastră.",
-            "en": "In winter, the bus ride to Gordes is peaceful and offers great views of the stark vineyards. The morning begins with our arrival in the quiet village.\r\n\r\nAt noon, we enjoy the sun at Place Genty Pantaly while waiting for our next connection.\r\n\r\nThe afternoon at the castle is relaxed with no queues. We take our time exploring the warm interior rooms.\r\n\r\nTowards evening, we catch the bus back as the lights of Gordes fade into the darkness behind us."
+            "en": "In winter, the bus ride to Gordes is peaceful and offers great views of the stark vineyards. The morning begins with our arrival in the quiet village.\r\n\r\nAt noon, we enjoy the sun at Place Genty Pantaly while waiting for our next connection.\r\n\r\nThe afternoon at the castle is relaxed with no queues. We take our time exploring the warm interior rooms.\r\n\r\nTowards evening, we catch the bus back as the lights of Gordes fade into the darkness behind us.",
+            "fr": "En hiver, le trajet en bus vers Gordes est paisible et offre de superbes vues sur les vignes dépouillées. La matinée commence par notre arrivée dans le village calme.\r\n\r\nÀ midi, nous profitons du soleil sur la Place Genty Pantaly en attendant notre correspondance.\r\n\r\nL'après-midi au château est détendu sans files d'attente. Nous prenons le temps d'explorer les salles intérieures chauffées.\r\n\r\nVers le soir, nous reprenons le bus alors que les lumières de Gordes s'estompent dans l'obscurité derrière nous."
           },
           "stops": [
             {
@@ -2419,7 +2660,8 @@
                 "de": "Zügig gehen, um bei dem kalten Wind nicht auszukühlen.",
                 "hu": "Haladjon tempósan, hogy ne hűljön ki a hideg szélben.",
                 "ro": "Mergeți vioi pentru a nu îngheța din cauza vântului rece.",
-                "en": "Walk briskly to keep warm in the cold wind."
+                "en": "Walk briskly to keep warm in the cold wind.",
+                "fr": "Marchez d'un bon pas pour vous réchauffer dans le vent froid."
               }
             },
             {
@@ -2428,7 +2670,8 @@
                 "de": "Die Cafés hier sind gute Orte, um sich vor der Busfahrt aufzuwärmen.",
                 "hu": "Az itteni kávézók remek helyek a busz előtti felmelegedéshez.",
                 "ro": "Cafenelele de aici sunt locuri bune pentru a vă încălzi înainte de autobuz.",
-                "en": "The cafes here are good spots to warm up before your bus arrives."
+                "en": "The cafes here are good spots to warm up before your bus arrives.",
+                "fr": "Les cafés ici sont de bons endroits pour se réchauffer avant l'arrivée du bus."
               }
             },
             {
@@ -2437,7 +2680,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus im Warmen zu verbringen.",
                 "hu": "Ideális helyszín a következő buszig tartó idő melegben való eltöltéséhez.",
                 "ro": "Un loc ideal pentru a petrece timpul până la următorul autobuz la căldură.",
-                "en": "An ideal spot to spend the time until the next bus in a warm environment."
+                "en": "An ideal spot to spend the time until the next bus in a warm environment.",
+                "fr": "Un endroit idéal pour passer le temps jusqu'au prochain bus dans un environnement chaud."
               }
             },
             {
@@ -2446,7 +2690,8 @@
                 "de": "Planen Sie genug Zeit ein, um rechtzeitig zur Haltestelle zurückzukommen.",
                 "hu": "Tervezzen elég időt a visszajutáshoz a megállóba.",
                 "ro": "Planificați suficient timp pentru a ajunge înapoi la stație.",
-                "en": "Allow enough time to walk back to the bus stop on schedule."
+                "en": "Allow enough time to walk back to the bus stop on schedule.",
+                "fr": "Prévoyez suffisamment de temps pour retourner à l'arrêt de bus à l'heure."
               }
             },
             {
@@ -2455,7 +2700,8 @@
                 "de": "Die Kirche bietet im Winter einen windstillen Rückzugsort.",
                 "hu": "A templom télen szélvédett menedéket nyújt.",
                 "ro": "Biserica oferă un refugiu ferit de vânt iarna.",
-                "en": "The church offers a windless retreat during the winter months."
+                "en": "The church offers a windless retreat during the winter months.",
+                "fr": "L'église offre un refuge sans vent pendant les mois d'hiver."
               }
             }
           ],
@@ -2483,6 +2729,12 @@
               "Wear warm clothes as bus stations are mostly exposed and windy.",
               "The Zou! 915 line is the main connection from Cavaillon.",
               "Confirm the return schedule with the driver in case of any last-minute changes."
+            ],
+            "fr": [
+              "Les bus circulent moins fréquemment en hiver ; ne manquez pas le dernier vers 17h30.",
+              "Portez des vêtements chauds car les gares routières sont souvent exposées au vent.",
+              "La ligne Zou! 915 est la principale liaison depuis Cavaillon.",
+              "Confirmez l'horaire de retour avec le chauffeur en cas de modifications de dernière minute."
             ]
           }
         }

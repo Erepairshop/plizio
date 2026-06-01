@@ -36,7 +36,8 @@
             "de": "Das Wahrzeichen der Stadt aus dem 13. Jh.",
             "hu": "A város 13. századi jelképe.",
             "ro": "Simbolul orașului din secolul al XIII-lea.",
-            "en": "The 13th-century landmark of the city."
+            "en": "The 13th-century landmark of the city.",
+            "fr": "L'emblème de la ville datant du XIIIe siècle."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Wunderschöne Fachwerkhäuser überall.",
             "hu": "Gyönyörű fagerendás házak mindenhol.",
             "ro": "Case superbe cu bârne de lemn peste tot.",
-            "en": "Beautiful half-timbered houses everywhere."
+            "en": "Beautiful half-timbered houses everywhere.",
+            "fr": "De magnifiques maisons à colombages partout."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Gotische Architektur und Stille.",
             "hu": "Gótikus építészet és nyugalom.",
             "ro": "Arhitectură gotică și liniște.",
-            "en": "Gothic architecture and silence."
+            "en": "Gothic architecture and silence.",
+            "fr": "Architecture gothique et silence."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Ideal für eine Mittagspause im Grünen.",
             "hu": "Ideális egy zöld környezetben töltött ebédhez.",
             "ro": "Ideal pentru o pauză de prânz la iarbă verde.",
-            "en": "Ideal for a lunch break in the greenery."
+            "en": "Ideal for a lunch break in the greenery.",
+            "fr": "Idéal pour une pause déjeuner dans la verdure."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Steiler Aufstieg, aber lohnenswert.",
             "hu": "Meredek emelkedő, de megéri.",
             "ro": "Urcuș abrupt, dar merită efortul.",
-            "en": "Steep climb, but worth it."
+            "en": "Steep climb, but worth it.",
+            "fr": "Montée raide, mais elle en vaut la peine."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Bester Blick auf Ribeauvillé.",
             "hu": "A legjobb kilátás Ribeauvillé-re.",
             "ro": "Cea mai bună priveliște asupra orașului.",
-            "en": "Best view over Ribeauvillé."
+            "en": "Best view over Ribeauvillé.",
+            "fr": "La meilleure vue sur Ribeauvillé."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Erkunden Sie Ribeauvillé zu Fuß, beginnend am majestätischen Metzgerturm. Schlendern Sie durch die malerische Grand'Rue und besuchen Sie die gotische Kirche Saint-Grégoire. Nach einer Pause im Stadtgarten beginnt der Aufstieg zu den imposanten Burgruinen Saint-Ulrich und Girsberg, von wo aus Sie ein atemberaubendes Panorama über die elsässische Ebene genießen.",
         "hu": "Fedezze fel Ribeauvillé-t gyalogosan, a fenséges Mészárosok tornyától indulva. Sétáljon végig a festői Fő utcán, és látogassa meg a gótikus Szent Gergely templomot. A városi kertben tartott pihenő után kezdje meg a kapaszkodást a lenyűgöző Szent Ulrik és Girsberg várromokhoz, ahonnan lélegzetelállító panoráma nyílik az elzászi síkságra.",
         "ro": "Explorați Ribeauvillé la pas, începând de la maiestuosul Turn al Măcelarilor. Plimbați-vă pe pitoreasca Grand'Rue și vizitați biserica gotică Saint-Grégoire. După o pauză în grădina orașului, începeți urcușul spre impunătoarele ruine ale castelelor Saint-Ulrich și Girsberg, de unde veți avea o panoramă uluitoare asupra câmpiei alsaciene.",
-        "en": "Explore Ribeauvillé on foot, starting at the majestic Butchers' Tower. Stroll through the picturesque Grand'Rue and visit the Gothic Saint-Grégoire Church. After a break in the city garden, begin the climb to the impressive Saint-Ulrich and Girsberg castle ruins, offering a breathtaking panorama over the Alsatian plain."
+        "en": "Explore Ribeauvillé on foot, starting at the majestic Butchers' Tower. Stroll through the picturesque Grand'Rue and visit the Gothic Saint-Grégoire Church. After a break in the city garden, begin the climb to the impressive Saint-Ulrich and Girsberg castle ruins, offering a breathtaking panorama over the Alsatian plain.",
+        "fr": "Explorez Ribeauvillé à pied, en commençant par la majestueuse Tour des Bouchers. Flânez dans la pittoresque Grand'Rue et visitez l'église gothique Saint-Grégoire. Après une pause au jardin de la ville, entamez l'ascension vers les impressionnantes ruines des châteaux de Saint-Ulrich et du Girsberg, offrant un panorama époustouflant sur la plaine d'Alsace."
       },
       "gastro_picks": {
         "de": [
@@ -201,6 +208,16 @@
             "name": "Kougelhopf",
             "tip": "Traditional bundt cake."
           }
+        ],
+        "fr": [
+          {
+            "name": "Choucroute alsacienne",
+            "tip": "Choucroute avec saucisses et viande."
+          },
+          {
+            "name": "Kougelhopf",
+            "tip": "Gâteau alsacien traditionnel en forme de couronne."
+          }
         ]
       },
       "quiet_picks": {
@@ -231,6 +248,13 @@
             "tip": "Quiet spot above the city.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Ruines du Girsberg",
+            "tip": "Endroit calme au-dessus de la ville.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -256,6 +280,12 @@
           {
             "name": "Beauvillé",
             "tip": "High-quality Alsatian table linens."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Beauvillé",
+            "tip": "Linge de table alsacien de haute qualité."
           }
         ]
       },
@@ -283,6 +313,12 @@
           "The main street is quietest in the morning.",
           "Try the local Riesling wine.",
           "Don't forget your camera for the views."
+        ],
+        "fr": [
+          "Portez des chaussures de marche robustes pour la randonnée des châteaux.",
+          "La rue principale est plus calme le matin.",
+          "Goûtez le vin Riesling local.",
+          "N'oubliez pas votre appareil photo pour les vues."
         ]
       }
     },
@@ -314,7 +350,8 @@
             "de": "Älteste Winzergenossenschaft Frankreichs.",
             "hu": "Franciaország legrégebbi borászati szövetkezete.",
             "ro": "Cea mai veche cooperativă viticolă din Franța.",
-            "en": "The oldest wine cooperative in France."
+            "en": "The oldest wine cooperative in France.",
+            "fr": "La plus ancienne coopérative viticole de France."
           }
         },
         {
@@ -337,7 +374,8 @@
             "de": "Radeln durch die Grand Cru Lagen.",
             "hu": "Biciklizés a Grand Cru dűlők között.",
             "ro": "Pedalați printre viile Grand Cru.",
-            "en": "Cycling through the Grand Cru vineyards."
+            "en": "Cycling through the Grand Cru vineyards.",
+            "fr": "Pédaler à travers les vignobles de Grand Cru."
           }
         },
         {
@@ -360,7 +398,8 @@
             "de": "Besuchen Sie die befestigte Kirche.",
             "hu": "Látogassa meg az erődített templomot.",
             "ro": "Vizitați biserica fortificată.",
-            "en": "Visit the fortified church."
+            "en": "Visit the fortified church.",
+            "fr": "Visitez l'église fortifiée."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Sehen Sie Störche und Fischotter.",
             "hu": "Nézzen gólyákat és vidrákat.",
             "ro": "Vedeți berze și vidre.",
-            "en": "See storks and otters."
+            "en": "See storks and otters.",
+            "fr": "Observez les cigognes et les loutres."
           }
         },
         {
@@ -406,7 +446,8 @@
             "de": "Abschluss im Stadtzentrum.",
             "hu": "Zárás a városközpontban.",
             "ro": "Final în centrul orașului.",
-            "en": "Wrap up in the city center."
+            "en": "Wrap up in the city center.",
+            "fr": "Terminez dans le centre-ville."
           }
         }
       ],
@@ -414,7 +455,8 @@
         "de": "Entdecken Sie die elsässische Weinstraße mit dem Rad. Starten Sie bei der berühmten Cave de Ribeauvillé und radeln Sie durch die sonnigen Weinberge nach Hunawihr. Nach dem Besuch des NaturOparc, wo Sie Störche beobachten können, kehren Sie gemütlich ins Herz von Ribeauvillé zurück.",
         "hu": "Fedezze fel az elzászi borutat biciklin. Kezdjen a híres Ribeauvillé borászatnál, majd tekerjen a napsütötte szőlőkön át Hunawihrbe. A NaturOparc látogatása után, ahol gólyákat is láthat, tekerve térjen vissza Ribeauvillé szívébe.",
         "ro": "Descoperiți drumul vinului alsacian pe bicicletă. Începeți la faimoasa Cramă Ribeauvillé și pedalați prin podgoriile însorite spre Hunawihr. După vizitarea NaturOparc, unde puteți observa berze, reveniți relaxat în inima orașului.",
-        "en": "Discover the Alsatian wine route by bike. Start at the famous Cave de Ribeauvillé and cycle through the sunny vineyards to Hunawihr. After visiting NaturOparc, where you can observe storks, cycle back comfortably to the heart of Ribeauvillé."
+        "en": "Discover the Alsatian wine route by bike. Start at the famous Cave de Ribeauvillé and cycle through the sunny vineyards to Hunawihr. After visiting NaturOparc, where you can observe storks, cycle back comfortably to the heart of Ribeauvillé.",
+        "fr": "Découvrez la route des vins d'Alsace à vélo. Commencez à la célèbre Cave de Ribeauvillé et pédalez à travers les vignobles ensoleillés jusqu'à Hunawihr. Après avoir visité le NaturOparc, où vous pourrez observer les cigognes, revenez confortablement au cœur de Ribeauvillé."
       },
       "gastro_picks": {
         "de": [
@@ -456,6 +498,16 @@
             "name": "Tarte Flambée",
             "tip": "Alsatian flatbread snack."
           }
+        ],
+        "fr": [
+          {
+            "name": "Gewürztraminer",
+            "tip": "Un vin local aromatique."
+          },
+          {
+            "name": "Tarte Flambée",
+            "tip": "Spécialité alsacienne à base de pâte fine."
+          }
         ]
       },
       "quiet_picks": {
@@ -486,6 +538,13 @@
             "tip": "Idyllic peace.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Vignobles de Hunawihr",
+            "tip": "Paix idyllique.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -511,6 +570,12 @@
           {
             "name": "Wine Cellar Shop",
             "tip": "Local wines directly from the producer."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Magasin de la cave à vin",
+            "tip": "Vins locaux directement du producteur."
           }
         ]
       },
@@ -538,6 +603,12 @@
           "An e-bike helps with the small hills.",
           "Bring drinking water.",
           "Take photos of wine barrels along the way."
+        ],
+        "fr": [
+          "Les pistes cyclables sont souvent des chemins agricoles à travers les vignes.",
+          "Un vélo électrique aide pour les petites collines.",
+          "Apportez de l'eau potable.",
+          "Prenez des photos de tonneaux de vin en chemin."
         ]
       }
     },
@@ -569,7 +640,8 @@
             "de": "Guter Startpunkt für die Stadt.",
             "hu": "Jó kiindulópont a városhoz.",
             "ro": "Un punct bun de plecare pentru oraș.",
-            "en": "Good starting point for the town."
+            "en": "Good starting point for the town.",
+            "fr": "Bon point de départ pour la ville."
           }
         },
         {
@@ -592,7 +664,8 @@
             "de": "Schneller Fotostopp.",
             "hu": "Gyors fotómegálló.",
             "ro": "O oprire rapidă pentru poze.",
-            "en": "Quick photo stop."
+            "en": "Quick photo stop.",
+            "fr": "Arrêt photo rapide."
           }
         },
         {
@@ -615,7 +688,8 @@
             "de": "Komplett erhaltene Stadtmauer.",
             "hu": "Teljesen épen maradt városfal.",
             "ro": "Ziduri medievale complet conservate.",
-            "en": "Completely preserved city walls."
+            "en": "Completely preserved city walls.",
+            "fr": "Remparts de la ville entièrement préservés."
           }
         },
         {
@@ -638,7 +712,8 @@
             "de": "Spektakuläre restaurierte Burg.",
             "hu": "Látványos restaurált vár.",
             "ro": "Castel restaurat spectaculos.",
-            "en": "Spectacular restored castle."
+            "en": "Spectacular restored castle.",
+            "fr": "Spectaculaire château restauré."
           }
         },
         {
@@ -661,7 +736,8 @@
             "de": "Eines der schönsten Dörfer.",
             "hu": "Az egyik legszebb falu.",
             "ro": "Unul dintre cele mai frumoase sate.",
-            "en": "One of the most beautiful villages."
+            "en": "One of the most beautiful villages.",
+            "fr": "L'un des plus beaux villages."
           }
         },
         {
@@ -684,7 +760,8 @@
             "de": "Ausklang im Stadtkern.",
             "hu": "Napzárás a városmagban.",
             "ro": "Final în centrul orașului.",
-            "en": "Ending in the town center."
+            "en": "Ending in the town center.",
+            "fr": "Fin dans le centre-ville."
           }
         }
       ],
@@ -692,7 +769,8 @@
         "de": "Mit dem Auto entdecken Sie die Highlights rund um Ribeauvillé. Nach einem kurzen Stopp in der Stadt führt die Fahrt zum mittelalterlichen Bergheim und zur majestätischen Burg Haut-Koenigsbourg. Am späten Nachmittag besuchen Sie das charmante Hunawihr, bevor Sie für den Abend nach Ribeauvillé zurückkehren.",
         "hu": "Autóval fedezze fel Ribeauvillé környékének legjavát. Egy rövid városi megálló után Bergheim középkori falaival és Haut-Koenigsbourg fenséges várával folytatódik az út. Késő délután látogasson el a bájos Hunawihrbe, majd térjen vissza Ribeauvillébe az esti programhoz.",
         "ro": "Cu mașina descoperiți punctele forte din jurul Ribeauvillé. După o scurtă oprire în oraș, drumul continuă spre zidurile din Bergheim și maiestuosul castel Haut-Koenigsbourg. Târziu după-amiaza vizitați Hunawihr, înainte de a reveni în Ribeauvillé pentru seară.",
-        "en": "By car, discover the highlights around Ribeauvillé. After a quick stop in town, the drive leads to medieval Bergheim and the majestic Haut-Koenigsbourg Castle. Late in the afternoon, visit charming Hunawihr before returning to Ribeauvillé for the evening."
+        "en": "By car, discover the highlights around Ribeauvillé. After a quick stop in town, the drive leads to medieval Bergheim and the majestic Haut-Koenigsbourg Castle. Late in the afternoon, visit charming Hunawihr before returning to Ribeauvillé for the evening.",
+        "fr": "En voiture, découvrez les points forts autour de Ribeauvillé. Après un court arrêt en ville, la route mène à Bergheim médiéval et au majestueux château du Haut-Koenigsbourg. En fin d'après-midi, visitez le charmant village de Hunawihr avant de retourner à Ribeauvillé pour la soirée."
       },
       "gastro_picks": {
         "de": [
@@ -734,6 +812,16 @@
             "name": "Pain d'épices",
             "tip": "Alsatian gingerbread."
           }
+        ],
+        "fr": [
+          {
+            "name": "Coq au Riesling",
+            "tip": "Poulet en sauce au vin Riesling."
+          },
+          {
+            "name": "Pain d'épices",
+            "tip": "Pain d'épices alsacien."
+          }
         ]
       },
       "quiet_picks": {
@@ -764,6 +852,13 @@
             "tip": "Views over the Vosges mountains.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Route panoramique",
+            "tip": "Vues sur le massif des Vosges.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -789,6 +884,12 @@
           {
             "name": "Fortwenger Bergheim",
             "tip": "Famous gingerbread shop."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Fortwenger Bergheim",
+            "tip": "Célèbre magasin de pain d'épices."
           }
         ]
       },
@@ -816,6 +917,12 @@
           "Book Haut-Koenigsbourg tickets online.",
           "Watch for narrow spots in Bergheim.",
           "Enjoy the drive through the vineyards."
+        ],
+        "fr": [
+          "Garez-vous à l'entrée de la ville.",
+          "Réservez vos billets pour le Haut-Koenigsbourg en ligne.",
+          "Faites attention aux passages étroits à Bergheim.",
+          "Profitez de la route à travers les vignobles."
         ]
       }
     },
@@ -847,7 +954,8 @@
             "de": "Zubringer zum Stadtzentrum.",
             "hu": "Csatlakozás a városközponthoz.",
             "ro": "Legătură spre centrul orașului.",
-            "en": "Connection to the town center."
+            "en": "Connection to the town center.",
+            "fr": "Liaison avec le centre-ville."
           }
         },
         {
@@ -870,7 +978,8 @@
             "de": "Zentraler Ausstiegspunkt.",
             "hu": "Központi leszállóhely.",
             "ro": "Punct central de coborâre.",
-            "en": "Central drop-off point."
+            "en": "Central drop-off point.",
+            "fr": "Point de dépose central."
           }
         },
         {
@@ -893,7 +1002,8 @@
             "de": "Gemütlich durch die Läden bummeln.",
             "hu": "Kényelmes séta az üzletek között.",
             "ro": "Plimbare relaxată prin magazine.",
-            "en": "Leisurely stroll through the shops."
+            "en": "Leisurely stroll through the shops.",
+            "fr": "Promenade tranquille à travers les boutiques."
           }
         },
         {
@@ -916,7 +1026,8 @@
             "de": "Hop-on Hop-off Bus der Weinstraße.",
             "hu": "A borút Hop-on Hop-off busza.",
             "ro": "Autobuz Hop-on Hop-off pe drumul vinului.",
-            "en": "The wine route Hop-on Hop-off bus."
+            "en": "The wine route Hop-on Hop-off bus.",
+            "fr": "Le bus Hop-on-Hop-off de la route des vins."
           }
         },
         {
@@ -939,7 +1050,8 @@
             "de": "Letzter Stopp vor der Abfahrt.",
             "hu": "Utolsó megálló az indulás előtt.",
             "ro": "Ultima oprire înainte de plecare.",
-            "en": "Final stop before departure."
+            "en": "Final stop before departure.",
+            "fr": "Dernier arrêt avant le départ."
           }
         }
       ],
@@ -947,7 +1059,8 @@
         "de": "Nutzen Sie den Fluo-Bus oder den Kutzig-Bus, um Ribeauvillé bequem zu erreichen. Beginnen Sie am Stadtgarten und schlendern Sie durch die Grand'Rue. Der Hop-on-Hop-off-Bus ermöglicht es Ihnen, auch umliegende Weingüter ohne Auto zu besuchen, bevor Sie den Tag am Metzgerturm beenden.",
         "hu": "Használja a Fluo-buszt vagy a Kutzig-buszt Ribeauvillé kényelmes eléréséhez. Kezdjen a városi kertnél, majd barangoljon a Fő utcán. A Hop-on-Hop-off busz lehetővé teszi a környező borászatok autó nélküli látogatását is, mielőtt a napot a Mészárosok tornyánál zárná.",
         "ro": "Utilizați autobuzul Fluo sau Kutzig-Bus pentru a ajunge ușor în Ribeauvillé. Începeți la grădina orașului și plimbați-vă pe Grand'Rue. Autobuzul Hop-on-Hop-off vă permite să vizitați și cramele din jur fără mașină, înainte de a termina ziua la Turnul Măcelarilor.",
-        "en": "Use the Fluo bus or Kutzig-Bus to reach Ribeauvillé easily. Start at the city garden and wander through Grand'Rue. The Hop-on-Hop-off bus allows you to visit surrounding wineries without a car, before ending your day at the Butchers' Tower."
+        "en": "Use the Fluo bus or Kutzig-Bus to reach Ribeauvillé easily. Start at the city garden and wander through Grand'Rue. The Hop-on-Hop-off bus allows you to visit surrounding wineries without a car, before ending your day at the Butchers' Tower.",
+        "fr": "Utilisez le bus Fluo ou le bus Kutzig pour rejoindre facilement Ribeauvillé. Commencez au jardin de la ville et déambulez dans la Grand'Rue. Le bus Hop-on-Hop-off vous permet de visiter les domaines viticoles environnants sans voiture, avant de terminer votre journée à la Tour des Bouchers."
       },
       "gastro_picks": {
         "de": [
@@ -972,6 +1085,12 @@
           {
             "name": "Pretzel",
             "tip": "Typical Alsatian snack."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Bretzel",
+            "tip": "En-cas typiquement alsacien."
           }
         ]
       },
@@ -1003,6 +1122,13 @@
             "tip": "Quiet spot in the shade.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Bancs du jardin de la ville",
+            "tip": "Endroit calme à l'ombre.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1028,6 +1154,12 @@
           {
             "name": "Small Boutiques",
             "tip": "Handmade soaps and decor."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Petites boutiques",
+            "tip": "Savons artisanaux et décoration."
           }
         ]
       },
@@ -1055,6 +1187,12 @@
           "Kutzig-Bus runs seasonally.",
           "Tickets from the driver or machines.",
           "Plan your return trip in advance."
+        ],
+        "fr": [
+          "Consultez les horaires de bus (Ligne 106).",
+          "Le bus Kutzig circule de manière saisonnière.",
+          "Billets auprès du chauffeur ou aux automates.",
+          "Planifiez votre voyage de retour à l'avance."
         ]
       }
     }

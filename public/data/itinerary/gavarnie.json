@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die Reliquien der Jakobspilger.",
             "hu": "Nézze meg a Szent Jakab-út zarándokainak ereklyéit.",
             "ro": "Admirați relicvele pelerinilor de pe drumul spre Compostela.",
-            "en": "Admire the relics of the pilgrims on the Way of Saint James."
+            "en": "Admire the relics of the pilgrims on the Way of Saint James.",
+            "fr": "Admirez les reliques des pèlerins sur le chemin de Saint-Jacques."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein Ort der Stille für die Pioniere der Pyrenäen.",
             "hu": "A Pireneusok úttörőinek csendes nyughelye.",
             "ro": "Un loc de liniște dedicat pionierilor Pirineilor.",
-            "en": "A quiet resting place for the pioneers of the Pyrenees."
+            "en": "A quiet resting place for the pioneers of the Pyrenees.",
+            "fr": "Un lieu de repos paisible pour les pionniers des Pyrénées."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Der beste Panoramablick auf den Felsenkessel.",
             "hu": "A legjobb panoráma a sziklakatlanra.",
             "ro": "Cea mai bună vedere panoramică asupra circului glaciar.",
-            "en": "The best panoramic view of the glacial cirque."
+            "en": "The best panoramic view of the glacial cirque.",
+            "fr": "La meilleure vue panoramique sur le cirque glaciaire."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein UNESCO-Weltnaturerbe von gigantischem Ausmaß.",
             "hu": "Hatalmas méretű UNESCO Világörökségi helyszín.",
             "ro": "Un sit UNESCO de dimensiuni gigantice.",
-            "en": "A UNESCO World Heritage site of gigantic proportions."
+            "en": "A UNESCO World Heritage site of gigantic proportions.",
+            "fr": "Un site classé au patrimoine mondial de l'UNESCO aux proportions gigantesques."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Spüren Sie die Gischt des höchsten Wasserfalls Frankreichs.",
             "hu": "Érezze Franciaország legmagasabb vízesésének permetét.",
             "ro": "Simțiți vaporii celei mai înalte cascade din Franța.",
-            "en": "Feel the mist of France's highest waterfall."
+            "en": "Feel the mist of France's highest waterfall.",
+            "fr": "Sentez la brume de la plus haute cascade de France."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Der Tag beginnt im Herzen des Bergdorfes Gavarnie mit einem Besuch der historischen Kirche und des Friedhofs der Bergsteiger. Mittags wandern Sie hinauf zum Plateau de Bellevue, um die ersten majestätischen Ausblicke zu genießen. Am Nachmittag erreichen Sie den spektakulären Cirque de Gavarnie, wo die Natur ihre volle Pracht zeigt. Der Tag endet am Fuße des gigantischen Wasserfalls, bevor es zurück ins Dorf geht.",
         "hu": "A nap Gavarnie hegyi falujának szívében kezdődik a történelmi templom és a hegymászók temetőjének meglátogatásával. Dél körül felkapaszkodunk a Plateau de Bellevue-re az első fenséges kilátásért. Délután elérjük a látványos Gavarnie-sziklakatlant, ahol a természet megmutatja erejét. A nap a hatalmas vízesés lábánál zárul, mielőtt visszatérnénk a faluba.",
         "ro": "Ziua începe în inima satului montan Gavarnie, vizitând biserica istorică și cimitirul alpiniștilor. La prânz, urcați spre Plateau de Bellevue pentru primele vederi maiestuoase. După-amiaza ajungeți la spectaculosul Cirque de Gavarnie, unde natura își arată întreaga splendoare. Ziua se încheie la picioarele cascadei gigantice, înainte de întoarcerea în sat.",
-        "en": "The day begins in the heart of Gavarnie mountain village with a visit to the historic church and the mountaineers' cemetery. Around midday, hike up to the Plateau de Bellevue for the first majestic views. In the afternoon, reach the spectacular Cirque de Gavarnie, where nature reveals its full power. The day ends at the foot of the gigantic waterfall before heading back to the village."
+        "en": "The day begins in the heart of Gavarnie mountain village with a visit to the historic church and the mountaineers' cemetery. Around midday, hike up to the Plateau de Bellevue for the first majestic views. In the afternoon, reach the spectacular Cirque de Gavarnie, where nature reveals its full power. The day ends at the foot of the gigantic waterfall before heading back to the village.",
+        "fr": "La journée commence au cœur du village de montagne de Gavarnie avec une visite de l'église historique et du cimetière des pyrénéistes. Vers midi, montez au Plateau de Bellevue pour les premiers panoramas majestueux. L'après-midi, atteignez le spectaculaire Cirque de Gavarnie, où la nature révèle toute sa puissance. La journée s'achève au pied de la gigantesque cascade avant de redescendre au village."
       },
       "gastro_picks": {
         "de": [
@@ -153,6 +159,16 @@
             "name": "Gâteau à la Broche",
             "tip": "Traditional spit-cake found at the local market."
           }
+        ],
+        "fr": [
+          {
+            "name": "Garbure",
+            "tip": "Soupe pyrénéenne copieuse au restaurant Les Cascades."
+          },
+          {
+            "name": "Gâteau à la Broche",
+            "tip": "Gâteau traditionnel trouvé au marché local."
+          }
         ]
       },
       "quiet_picks": {
@@ -183,6 +199,13 @@
             "tip": "A quiet spot for a picnic with a view.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plateau de Bellevue",
+            "tip": "Un endroit calme pour un pique-nique avec vue.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -208,6 +231,12 @@
           {
             "name": "Boutique du Cirque",
             "tip": "Local walking sticks and mountain maps."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutique du Cirque",
+            "tip": "Bâtons de marche locaux et cartes de montagne."
           }
         ]
       },
@@ -235,6 +264,12 @@
           "High mountain weather can change very quickly.",
           "Start early to avoid the crowds of tourists.",
           "Take plenty of water and sun protection with you."
+        ],
+        "fr": [
+          "Portez des chaussures de randonnée robustes pour le sentier de la cascade.",
+          "La météo de haute montagne peut changer très vite.",
+          "Partez tôt pour éviter la foule de touristes.",
+          "Emportez beaucoup d'eau et une protection solaire."
         ]
       }
     },
@@ -261,7 +296,8 @@
             "de": "Prüfen Sie Ihre Ausrüstung vor dem Aufstieg.",
             "hu": "Ellenőrizze felszerelését az emelkedő előtt.",
             "ro": "Verificați echipamentul înainte de urcare.",
-            "en": "Check your gear before starting the climb."
+            "en": "Check your gear before starting the climb.",
+            "fr": "Vérifiez votre équipement avant de commencer l'ascension."
           }
         },
         {
@@ -279,7 +315,8 @@
             "de": "Ein anspruchsvoller Weg mit herrlicher Belohnung.",
             "hu": "Kihívást jelentő út csodás jutalommal.",
             "ro": "Un drum solicitant cu o recompensă superbă.",
-            "en": "A challenging path with a wonderful reward."
+            "en": "A challenging path with a wonderful reward.",
+            "fr": "Un sentier exigeant avec une magnifique récompense."
           }
         },
         {
@@ -297,7 +334,8 @@
             "de": "Blick auf einen der zugänglichsten 3000er.",
             "hu": "Kilátás az egyik legkönnyebben elérhető 3000-es csúcsra.",
             "ro": "Vedere spre unul dintre cele mai accesibile vârfuri de 3000m.",
-            "en": "View of one of the most accessible 3000m peaks."
+            "en": "View of one of the most accessible 3000m peaks.",
+            "fr": "Vue sur l'un des sommets de 3000 m les plus accessibles."
           }
         },
         {
@@ -315,7 +353,8 @@
             "de": "Majestätische Gipfelkulisse für Fotos.",
             "hu": "Fenséges hegycsúcs-háttér fotózához.",
             "ro": "Peisaj montan maiestuos pentru fotografii.",
-            "en": "Majestic mountain scenery for photos."
+            "en": "Majestic mountain scenery for photos.",
+            "fr": "Paysage de montagne majestueux pour les photos."
           }
         },
         {
@@ -333,7 +372,8 @@
             "de": "Entspannen Sie nach der Tour bei einem kühlen Drink.",
             "hu": "Lazítson a túra után egy hűsítő ital mellett.",
             "ro": "Relaxați-vă după tură cu o băutură rece.",
-            "en": "Relax after the tour with a cool drink."
+            "en": "Relax after the tour with a cool drink.",
+            "fr": "Détendez-vous après le tour avec une boisson fraîche."
           }
         }
       ],
@@ -341,7 +381,8 @@
         "de": "Diese Biketour führt Sie auf bergigen Pfaden rund um Gavarnie. Der Vormittag steht im Zeichen des Aufstiegs zum Plateau de Bellevue. Mittags radeln Sie in Richtung der hohen Gipfel wie Le Taillon und Marboré. Der Nachmittag bietet rasante Abfahrten zurück ins Tal, wo Sie die frische Bergluft und das Panorama genießen können. Ein sportlicher Tag inmitten der Pyrenäen-Riesen.",
         "hu": "Ez a kerékpártúra Gavarnie körüli hegyi ösvényeken vezet. A délelőtt a Plateau de Bellevue-re való feljutásról szól. Dél körül a magas csúcsok, mint a Taillon és a Marboré felé tekerünk. A délután gyors ereszkedéseket kínál vissza a völgybe, ahol élvezheti a friss hegyi levegőt és a panorámát. Sportos nap a pireneusi óriások között.",
         "ro": "Acest tur cu bicicleta vă poartă pe poteci montane în jurul localității Gavarnie. Dimineața este marcată de urcarea spre Plateau de Bellevue. La prânz, pedalați spre vârfurile înalte precum Le Taillon și Marboré. După-amiaza oferă coborâri rapide înapoi în vale, unde vă puteți bucura de aerul curat și panoramă. O zi sportivă printre giganții Pirineilor.",
-        "en": "This bike tour takes you on mountain paths around Gavarnie. The morning is dedicated to the climb to Plateau de Bellevue. Around midday, cycle towards the high peaks like Le Taillon and Marboré. The afternoon offers fast descents back to the valley, where you can enjoy the fresh mountain air and the panorama. A sporty day among the Pyrenean giants."
+        "en": "This bike tour takes you on mountain paths around Gavarnie. The morning is dedicated to the climb to Plateau de Bellevue. Around midday, cycle towards the high peaks like Le Taillon and Marboré. The afternoon offers fast descents back to the valley, where you can enjoy the fresh mountain air and the panorama. A sporty day among the Pyrenean giants.",
+        "fr": "Ce tour à vélo vous emmène sur les sentiers de montagne autour de Gavarnie. La matinée est dédiée à l'ascension vers le Plateau de Bellevue. Vers midi, pédalez vers les hauts sommets comme le Taillon et le Marboré. L'après-midi offre des descentes rapides vers la vallée, où vous pourrez profiter de l'air pur de la montagne et du panorama. Une journée sportive parmi les géants pyrénéens."
       },
       "gastro_picks": {
         "de": [
@@ -366,6 +407,12 @@
           {
             "name": "Pyrenean Cheese",
             "tip": "Try Tomme de Brebis from a local producer."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Fromage des Pyrénées",
+            "tip": "Goûtez la Tomme de Brebis d'un producteur local."
           }
         ]
       },
@@ -397,6 +444,13 @@
             "tip": "Small hidden streams along the way.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Pause au bord du ruisseau",
+            "tip": "Petits ruisseaux cachés le long du chemin.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -422,6 +476,12 @@
           {
             "name": "Beekeeper Honey",
             "tip": "Wildflower honey from the region."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Miel d'apiculteur",
+            "tip": "Miel de fleurs sauvages de la région."
           }
         ]
       },
@@ -449,6 +509,12 @@
           "Check your brakes before every descent.",
           "A helmet is vital in this terrain.",
           "Watch out for hikers on shared trails."
+        ],
+        "fr": [
+          "Les VTT sont obligatoires pour ces sentiers.",
+          "Vérifiez vos freins avant chaque descente.",
+          "Un casque est indispensable sur ce terrain.",
+          "Attention aux randonneurs sur les sentiers partagés."
         ]
       }
     },
@@ -475,7 +541,8 @@
             "de": "Parken Sie frühzeitig am Dorfeingang.",
             "hu": "Parkoljon le időben a falu bejáratánál.",
             "ro": "Parcați devreme la intrarea în sat.",
-            "en": "Park early at the village entrance."
+            "en": "Park early at the village entrance.",
+            "fr": "Garez-vous tôt à l'entrée du village."
           }
         },
         {
@@ -493,7 +560,8 @@
             "de": "Vom Parkplatz aus führt ein leichter Spaziergang zum Cirque.",
             "hu": "A parkolótól könnyű séta vezet a sziklakatlanhoz.",
             "ro": "De la parcare, o plimbare ușoară duce spre Cirque.",
-            "en": "A light walk leads from the parking area to the Cirque."
+            "en": "A light walk leads from the parking area to the Cirque.",
+            "fr": "Une marche légère mène du parking au Cirque."
           }
         },
         {
@@ -511,7 +579,8 @@
             "de": "Fahren Sie zum Col de Tentes für diesen Ausblick.",
             "hu": "Hajtson fel a Col de Tentes-hez ezért a kilátásért.",
             "ro": "Conduceți spre Col de Tentes pentru această vedere.",
-            "en": "Drive to Col de Tentes for this view."
+            "en": "Drive to Col de Tentes for this view.",
+            "fr": "Roulez jusqu'au Col de Tentes pour cette vue."
           }
         },
         {
@@ -529,7 +598,8 @@
             "de": "Ein kurzer Stopp im Dorf auf dem Rückweg.",
             "hu": "Rövid megálló a faluban visszafelé.",
             "ro": "O oprire scurtă în sat la întoarcere.",
-            "en": "A short stop in the village on the way back."
+            "en": "A short stop in the village on the way back.",
+            "fr": "Un court arrêt dans le village sur le chemin du retour."
           }
         },
         {
@@ -547,7 +617,8 @@
             "de": "Genießen Sie einen Kaffee vor der Abreise.",
             "hu": "Igyon meg egy kávét távozás előtt.",
             "ro": "Savurați o cafea înainte de plecare.",
-            "en": "Enjoy a coffee before leaving."
+            "en": "Enjoy a coffee before leaving.",
+            "fr": "Profitez d'un café avant de partir."
           }
         }
       ],
@@ -555,7 +626,8 @@
         "de": "Mit dem Auto erreichen Sie die markantesten Punkte der Region bequem. Der Morgen beginnt mit dem Besuch des berühmten Cirque de Gavarnie (nach kurzem Fußweg). Mittags fahren Sie die kurvenreiche Straße zum Col de Tentes hinauf, um das legendäre Felstor Brèche de Roland aus der Ferne zu bewundern. Der Nachmittag endet mit einem entspannten Besuch im Dorf Gavarnie.",
         "hu": "Autóval kényelmesen elérheti a régió legjellegzetesebb pontjait. A reggel a híres Gavarnie-sziklakatlan meglátogatásával kezdődik (rövid gyalogút után). Délben felhajtunk a kanyargós úton a Col de Tentes-hez, hogy távolról megcsodáljuk a legendás Roland-rést. A délután egy pihentető falusi sétával zárul Gavarnie-ban.",
         "ro": "Cu mașina ajungeți confortabil la cele mai marcante puncte ale regiunii. Dimineața începe cu vizitarea celebrului Cirque de Gavarnie (după o scurtă plimbare). La prânz, urcați pe drumul sinuos spre Col de Tentes pentru a admira de la distanță legendara Brèche de Roland. După-amiaza se încheie cu o vizită relaxată în satul Gavarnie.",
-        "en": "By car, you can comfortably reach the most prominent points of the region. The morning starts with a visit to the famous Cirque de Gavarnie (after a short walk). At midday, drive up the winding road to Col de Tentes to admire the legendary Roland's Breach from afar. The afternoon ends with a relaxed visit to Gavarnie village."
+        "en": "By car, you can comfortably reach the most prominent points of the region. The morning starts with a visit to the famous Cirque de Gavarnie (after a short walk). At midday, drive up the winding road to Col de Tentes to admire the legendary Roland's Breach from afar. The afternoon ends with a relaxed visit to Gavarnie village.",
+        "fr": "En voiture, vous pouvez rejoindre confortablement les points les plus remarquables de la région. La matinée commence par une visite du célèbre Cirque de Gavarnie (après une courte marche). À midi, montez par la route sinueuse vers le Col de Tentes pour admirer de loin la légendaire Brèche de Roland. L'après-midi se termine par une visite détendue du village de Gavarnie."
       },
       "gastro_picks": {
         "de": [
@@ -580,6 +652,12 @@
           {
             "name": "Pyrenean Lamb",
             "tip": "Try grilled dishes at Hotel du Cirque."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Agneau des Pyrénées",
+            "tip": "Goûtez les plats grillés à l'Hôtel du Cirque."
           }
         ]
       },
@@ -611,6 +689,13 @@
             "tip": "A remote parking area with a fantastic starry sky.",
             "emoji": "🌌"
           }
+        ],
+        "fr": [
+          {
+            "name": "Col de Tentes",
+            "tip": "Un parking reculé avec un ciel étoilé fantastique.",
+            "emoji": "🌌"
+          }
         ]
       },
       "shopping_picks": {
@@ -636,6 +721,12 @@
           {
             "name": "Souvenirs du Vallon",
             "tip": "Postcards and local crafts."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Souvenirs du Vallon",
+            "tip": "Cartes postales et artisanat local."
           }
         ]
       },
@@ -663,6 +754,12 @@
           "The road to Col de Tentes is narrow and winding.",
           "Fuel up in the valley, there are no gas stations uphill.",
           "Watch out for sheep and cows on the road."
+        ],
+        "fr": [
+          "Les frais de stationnement dans le village sont obligatoires pendant la saison.",
+          "La route vers le Col de Tentes est étroite et sinueuse.",
+          "Faites le plein dans la vallée, il n'y a pas de stations-service en altitude.",
+          "Attention aux moutons et aux vaches sur la route."
         ]
       }
     },
@@ -689,7 +786,8 @@
             "de": "Zentraler Ankunftspunkt der Busse aus Lourdes.",
             "hu": "Lourdes-ból érkező buszok központi megállója.",
             "ro": "Punctul central de sosire pentru autobuzele din Lourdes.",
-            "en": "Central arrival point for buses from Lourdes."
+            "en": "Central arrival point for buses from Lourdes.",
+            "fr": "Point d'arrivée central pour les bus venant de Lourdes."
           }
         },
         {
@@ -707,7 +805,8 @@
             "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
             "hu": "Csak pár perc séta a megállótól.",
             "ro": "La doar câteva minute de mers de la stație.",
-            "en": "Just a few minutes' walk from the stop."
+            "en": "Just a few minutes' walk from the stop.",
+            "fr": "À seulement quelques minutes à pied de l'arrêt."
           }
         },
         {
@@ -725,7 +824,8 @@
             "de": "Nutzen Sie den Shuttle-Service falls verfügbar.",
             "hu": "Használja a transzferbuszt, ha elérhető.",
             "ro": "Folosiți serviciul de transfer dacă este disponibil.",
-            "en": "Use the shuttle service if available."
+            "en": "Use the shuttle service if available.",
+            "fr": "Utilisez le service de navette si disponible."
           }
         },
         {
@@ -743,7 +843,8 @@
             "de": "Letzter Stopp vor der Rückfahrt mit dem Bus.",
             "hu": "Utolsó megálló a buszos visszaindulás előtt.",
             "ro": "Ultima oprire înainte de plecarea autocarului.",
-            "en": "Last stop before the return bus journey."
+            "en": "Last stop before the return bus journey.",
+            "fr": "Dernier arrêt avant le trajet de retour en bus."
           }
         }
       ],
@@ -751,7 +852,8 @@
         "de": "Gavarnie ist gut mit Regionalbussen erreichbar. Nach der Ankunft im Dorf besuchen Sie die historische Kirche. Ein moderater Spaziergang führt Sie mittags zum beeindruckenden Felsenkessel. Der Nachmittag steht zur freien Verfügung im Dorfzentrum, um lokale Spezialitäten zu kaufen, bevor der Bus Sie wieder zurück ins Tal bringt. Ideal für stressfreies Sightseeing.",
         "hu": "Gavarnie jól elérhető távolsági buszokkal. A faluba érkezés után látogassa meg a történelmi templomot. Dél körül egy közepes séta vezet a lenyűgöző sziklakatlanhoz. A délután szabadon tölthető a falu központjában, ahol helyi termékeket vásárolhat, mielőtt a busz visszaviszi a völgybe. Ideális a stresszmentes városnézéshez.",
         "ro": "Gavarnie este bine deservit de autobuze regionale. După sosirea în sat, vizitați biserica istorică. O plimbare moderată vă duce la prânz spre impresionantul amfiteatru glaciar. După-amiaza este liberă în centrul satului pentru cumpărături locale, înainte ca autobuzul să vă ducă înapoi în vale. Ideal pentru vizite fără stres.",
-        "en": "Gavarnie is well accessible by regional buses. After arriving in the village, visit the historic church. A moderate walk takes you to the impressive cirque around midday. The afternoon is free to spend in the village center, where you can buy local products before the bus takes you back to the valley. Ideal for stress-free sightseeing."
+        "en": "Gavarnie is well accessible by regional buses. After arriving in the village, visit the historic church. A moderate walk takes you to the impressive cirque around midday. The afternoon is free to spend in the village center, where you can buy local products before the bus takes you back to the valley. Ideal for stress-free sightseeing.",
+        "fr": "Gavarnie est bien accessible par les bus régionaux. Après votre arrivée au village, visitez l'église historique. Une marche modérée vous emmène vers l'impressionnant cirque vers midi. L'après-midi est libre pour flâner dans le centre du village, où vous pourrez acheter des produits locaux avant que le bus ne vous ramène dans la vallée. Idéal pour une visite sans stress."
       },
       "gastro_picks": {
         "de": [
@@ -776,6 +878,12 @@
           {
             "name": "Mountain Honey",
             "tip": "A sweet souvenir from the Pyrenees."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Miel de montagne",
+            "tip": "Un souvenir sucré des Pyrénées."
           }
         ]
       },
@@ -807,6 +915,13 @@
             "tip": "Quiet splashing by the river in the village.",
             "emoji": "🌊"
           }
+        ],
+        "fr": [
+          {
+            "name": "Berges du Gave de Pau",
+            "tip": "Clapotis apaisant au bord de la rivière dans le village.",
+            "emoji": "🌊"
+          }
         ]
       },
       "shopping_picks": {
@@ -832,6 +947,12 @@
           {
             "name": "Homemade Jam",
             "tip": "Made from wild blueberries of the region."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Confiture artisanale",
+            "tip": "Faite à partir de myrtilles sauvages de la région."
           }
         ]
       },
@@ -859,6 +980,12 @@
           "Tickets can usually be bought from the driver.",
           "The last bus often leaves in the late afternoon.",
           "Keep some small change ready for the bus ticket."
+        ],
+        "fr": [
+          "Vérifiez les horaires de bus à l'avance, ils varient selon la saison.",
+          "Les billets peuvent généralement être achetés auprès du conducteur.",
+          "Le dernier bus part souvent en fin d'après-midi.",
+          "Prévoyez de la monnaie pour le billet de bus."
         ]
       }
     }

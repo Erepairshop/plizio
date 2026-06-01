@@ -31,7 +31,8 @@
             "de": "Früher Besuch vermeidet die größten Pilgergruppen.",
             "hu": "Érdemes korán érkezni a tömeg elkerülése végett.",
             "ro": "Vizitați devreme pentru a evita grupurile mari de pelerini.",
-            "en": "Arrive early to avoid the largest groups of pilgrims."
+            "en": "Arrive early to avoid the largest groups of pilgrims.",
+            "fr": "Arrivez tôt pour éviter les plus grands groupes de pèlerins."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Stille bewahren und die spirituelle Atmosphäre genießen.",
             "hu": "A barlangnál teljes csendet és tiszteletet kérnek.",
             "ro": "Păstrați liniștea deplină în zona grotei.",
-            "en": "Maintain total silence and respect near the grotto."
+            "en": "Maintain total silence and respect near the grotto.",
+            "fr": "Respectez un silence total à proximité de la grotte."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Die Mosaike an der Fassade sind bei Sonnenlicht prachtvoll.",
             "hu": "A homlokzat mozaikjai napsütésben a legszebbek.",
             "ro": "Mozaicurile de pe fațadă sunt superbe în lumina soarelui.",
-            "en": "The facade mosaics are most stunning in the sunlight."
+            "en": "The facade mosaics are most stunning in the sunlight.",
+            "fr": "Les mosaïques de la façade sont splendides sous la lumière du soleil."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Lebensgroße Wachsfiguren erzählen die Geschichte von Bernadette.",
             "hu": "Életnagyságú viaszfigurák mutatják be Bernadette életét.",
             "ro": "Figurile de ceară spun povestea vieții lui Bernadette.",
-            "en": "Life-size wax figures depict the story of Saint Bernadette."
+            "en": "Life-size wax figures depict the story of Saint Bernadette.",
+            "fr": "Des statues de cire grandeur nature racontent l'histoire de Sainte Bernadette."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Nutzen Sie den Aufzug für einen einfachen Zugang zur Burg.",
             "hu": "Használja a liftet a könnyebb feljutás érdekében.",
             "ro": "Folosiți liftul pentru un acces mai ușor la castel.",
-            "en": "Use the elevator for easy access to the fortress."
+            "en": "Use the elevator for easy access to the fortress.",
+            "fr": "Utilisez l'ascenseur pour accéder facilement au château fort."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Eine beeindruckende unterirdische Basilika für 25.000 Menschen.",
             "hu": "Lenyűgöző föld alatti bazilika, 25 ezer fő befogadására.",
             "ro": "O bazilică subterană impresionantă pentru 25.000 de oameni.",
-            "en": "An impressive underground basilica seating 25,000 people."
+            "en": "An impressive underground basilica seating 25,000 people.",
+            "fr": "Une impressionnante basilique souterraine pouvant accueillir 25 000 personnes."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ihr Tag beginnt im heiligen Bezirk, wo Sie die Grotte und die prächtigen Basiliken in aller Ruhe erkunden. Am Mittag schlendern Sie durch die Stadt zum Wachsfigurenmuseum, um mehr über die Erscheinungen zu erfahren. Nachmittags erklimmen Sie die Festung für einen Panoramablick über die Pyrenäen. Den Abend lassen Sie in der gigantischen unterirdischen Basilika Saint-Pie X ausklingen.",
         "hu": "A napot a szentély körzetében kezdi, ahol a barlangot és a bazilikákat járhatja be. Délben a városközpont felé veszi az irányt a Viaszmúzeumba, hogy megismerje a látomások történetét. Délután a vár sziklájáról csodálhatja meg a Pireneusok vonulatait. Az estet a monumentális föld alatti Szent X. Piusz-bazilikában fejezheti be.",
         "ro": "Ziua începe în zona sanctuarului, unde veți vizita grota și bazilicile în liniște. La prânz, mergeți spre centrul orașului la Muzeul de Ceară pentru a învăța despre apariții. După-amiaza, urcați la cetate pentru o panoramă superbă asupra Pirineilor. Seara se încheie în uriașa bazilică subterană Sfântul Pius al X-lea.",
-        "en": "Your day starts in the Sanctuary area, exploring the Grotto and the magnificent basilicas in peace. At midday, stroll through the town to the Wax Museum to learn about the apparitions. In the afternoon, climb the fortress for panoramic views of the Pyrenees. End your evening in the massive underground Basilica of Saint Pius X."
+        "en": "Your day starts in the Sanctuary area, exploring the Grotto and the magnificent basilicas in peace. At midday, stroll through the town to the Wax Museum to learn about the apparitions. In the afternoon, climb the fortress for panoramic views of the Pyrenees. End your evening in the massive underground Basilica of Saint Pius X.",
+        "fr": "Votre journée commence dans l'enceinte du Sanctuaire, pour explorer la Grotte et les magnifiques basiliques en toute sérénité. À la mi-journée, promenez-vous en ville jusqu'au Musée de Cire pour découvrir l'histoire des apparitions. L'après-midi, montez au château fort pour profiter d'une vue panoramique sur les Pyrénées. Terminez votre soirée dans l'immense basilique souterraine Saint-Pie X."
       },
       "gastro_picks": {
         "de": [
@@ -170,6 +177,16 @@
           {
             "name": "Pyrenean Cheese",
             "tip": "Local sheep and goat cheeses from market stalls."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Garbure",
+            "tip": "Un ragoût copieux au chou et aux haricots chez Le Carillon."
+          },
+          {
+            "name": "Fromage des Pyrénées",
+            "tip": "Fromages locaux de brebis et de chèvre sur les étals du marché."
           }
         ]
       },
@@ -221,6 +238,18 @@
             "tip": "A wooded hillside path above the sanctuary.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Rives du Gave de Pau",
+            "tip": "Promenade paisible le long de la rivière derrière le sanctuaire.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Le Chemin de Croix",
+            "tip": "Un sentier sur une colline boisée dominant le sanctuaire.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -263,6 +292,16 @@
             "name": "Souvenir Shops",
             "tip": "Candles and containers for Holy Water."
           }
+        ],
+        "fr": [
+          {
+            "name": "Les Halles de Lourdes",
+            "tip": "Marché couvert pour les spécialités culinaires locales."
+          },
+          {
+            "name": "Boutiques de souvenirs",
+            "tip": "Cierges et récipients pour l'eau bénite."
+          }
         ]
       },
       "tips": {
@@ -289,6 +328,12 @@
           "Dress modestly when entering the basilicas.",
           "Fill your bottles for free at the sanctuary fountains.",
           "The evening torchlight procession (21:00) is a must-see."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les rues pavées.",
+          "Prévoyez une tenue décente pour entrer dans les basiliques.",
+          "Remplissez vos bouteilles gratuitement aux fontaines du sanctuaire.",
+          "La procession aux flambeaux du soir (21h00) est un incontournable."
         ]
       },
       "variants": {
@@ -521,7 +566,8 @@
             "de": "Ein regnerischer Morgen beginnt im Heiligtum, wo die Grotte trotz Nässe eine stille Andacht bietet. Mittags finden wir Zuflucht in der beeindruckenden Rosenkranz-Basilika und dem Wachsfigurenkabinett. Am Nachmittag erkunden wir die Burg, deren dicke Mauern Schutz bieten. Der Tag endet in der riesigen unterirdischen Basilika Saint-Pie X, die perfekt für trockenes Verweilen ist.",
             "hu": "Az esős reggel a szentélynél indul, ahol a barlang misztikus hangulatot áraszt a ködben. Délben a Rózsafüzér-bazilika és a Viaszmúzeum nyújt fedett menedéket a csapadék elől. Délután a vár vastag falai között kalandozunk, elkerülve a nagyobb pocsolyákat. Az estét a hatalmas föld alatti Szent X. Piusz-bazilikában zárjuk, ami teljesen védett az időjárástól.",
             "ro": "O dimineață ploioasă începe la sanctuar, unde grota oferă un moment de liniște sub sunetul picăturilor. La prânz, ne adăpostim în Basilica Rozariului și la Muzeul de Ceară. După-amiaza explorăm castelul, folosind zonele interioare pentru a rămâne uscați. Ziua se încheie în uriașa basilică subterană Sfântul Pius al X-lea, ideală pentru o vizită lungă pe ploaie.",
-            "en": "A rainy morning starts at the sanctuary, where the Grotto feels mystical in the mist. At midday, we seek shelter in the Rosary Basilica and the Wax Museum. In the afternoon, we explore the castle's interior galleries to stay dry. The day ends in the massive underground Basilica of Saint Pius X, which provides a perfect, weather-proof conclusion."
+            "en": "A rainy morning starts at the sanctuary, where the Grotto feels mystical in the mist. At midday, we seek shelter in the Rosary Basilica and the Wax Museum. In the afternoon, we explore the castle's interior galleries to stay dry. The day ends in the massive underground Basilica of Saint Pius X, which provides a perfect, weather-proof conclusion.",
+            "fr": "Une matinée pluvieuse commence au sanctuaire, où la Grotte prend un air mystique dans la brume. À la mi-journée, réfugiez-vous dans la basilique du Rosaire et au Musée de Cire. L'après-midi, explorez les galeries intérieures du château pour rester au sec. La journée s'achève dans l'immense basilique Saint-Pie X, une conclusion parfaite à l'abri des intempéries."
           },
           "stops": [
             {
@@ -530,7 +576,8 @@
                 "de": "Die Arkaden rund um den Platz bieten hervorragenden Schutz vor Regenschauern.",
                 "hu": "A tér körüli árkádok kiváló védelmet nyújtanak a hirtelen záporok elől.",
                 "ro": "Arcadele din jurul pieței oferă un adăpost excelent împotriva averselor.",
-                "en": "The arcades around the square provide excellent shelter from sudden rain showers."
+                "en": "The arcades around the square provide excellent shelter from sudden rain showers.",
+                "fr": "Les arcades autour de l'esplanade offrent un excellent abri contre les averses soudaines."
               }
             },
             {
@@ -539,7 +586,8 @@
                 "de": "Ein Regenschirm ist hier unerlässlich, da der Wartebereich meist unbedeckt ist.",
                 "hu": "Az esernyő itt elengedhetetlen, mivel a várakozási rész nagyrészt fedetlen.",
                 "ro": "Umbrela este esențială aici, deoarece zona de așteptare este în mare parte descoperită.",
-                "en": "An umbrella is essential here as the waiting area is mostly uncovered."
+                "en": "An umbrella is essential here as the waiting area is mostly uncovered.",
+                "fr": "Un parapluie est essentiel ici car la zone d'attente est largement découverte."
               }
             },
             {
@@ -548,7 +596,8 @@
                 "de": "Nutzen Sie die Zeit im Inneren, um die prächtigen Mosaike im Trockenen zu bewundern.",
                 "hu": "Használja ki a bent töltött időt a pompás mozaikok megcsodálására a szárazon.",
                 "ro": "Profită de timpul petrecut în interior pentru a admira mozaicurile superbe la adăpost.",
-                "en": "Take advantage of the indoor time to admire the magnificent mosaics while staying dry."
+                "en": "Take advantage of the indoor time to admire the magnificent mosaics while staying dry.",
+                "fr": "Profitez du temps en intérieur pour admirer les mosaïques tout en restant au sec."
               }
             },
             {
@@ -557,7 +606,8 @@
                 "de": "Die perfekte Indoor-Aktivität, um dem Regen für über eine Stunde zu entkommen.",
                 "hu": "Tökéletes beltéri program, hogy több mint egy órára elmeneküljünk az eső elől.",
                 "ro": "Activitatea interioară perfectă pentru a scăpa de ploaie timp de peste o oră.",
-                "en": "The perfect indoor activity to escape the rain for over an hour."
+                "en": "The perfect indoor activity to escape the rain for over an hour.",
+                "fr": "L'activité intérieure idéale pour échapper à la pluie pendant plus d'une heure."
               }
             },
             {
@@ -575,7 +625,8 @@
                 "de": "Diese riesige unterirdische Kirche ist der ultimative trockene Ort in Lourdes.",
                 "hu": "Ez a hatalmas föld alatti templom a végső menedék eső esetén Lourdes-ban.",
                 "ro": "Această biserică subterană masivă este refugiul suprem în caz de ploaie în Lourdes.",
-                "en": "This massive underground church is the ultimate dry haven in Lourdes during rain."
+                "en": "This massive underground church is the ultimate dry haven in Lourdes during rain.",
+                "fr": "Cette immense église souterraine est le refuge ultime à Lourdes en cas de pluie."
               }
             }
           ],
@@ -607,6 +658,13 @@
               "Buy rain gear at the many souvenir shops near the sanctuary entrance.",
               "Utilize the covered passages on Rue de la Grotte while walking through town.",
               "Cafes along Boulevard de la Grotte are perfect for a dry mid-day break."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables, car des flaques se forment vite sur les pavés.",
+              "La basilique Saint-Pie X peut accueillir des milliers de personnes et est totalement couverte.",
+              "Achetez des vêtements de pluie dans les nombreuses boutiques près du sanctuaire.",
+              "Empruntez les passages couverts de la rue de la Grotte pour traverser la ville.",
+              "Les cafés du boulevard de la Grotte sont parfaits pour une pause au sec le midi."
             ]
           }
         },
@@ -615,7 +673,8 @@
             "de": "Ein klarer Wintermorgen im Heiligtum bietet eine friedliche Atmosphäre ohne die Sommermassen. Mittags wärmen wir uns in den Basiliken auf und besuchen das Wachsfigurenmuseum. Am Nachmittag genießen wir das goldene Licht auf der Burg, bevor es früh dunkel wird. Den Abend verbringen wir in der spirituellen Stille der riesigen Saint-Pie X Basilika.",
             "hu": "A tiszta téli reggel a szentélynél békés hangulatot áraszt a nyári tömeg nélkül. Délben a bazilikákban melegszünk fel, majd meglátogatjuk a Viaszmúzeumot. Délután a vár falairól csodáljuk az aranyló fényeket a korai naplemente előtt. Az estét a hatalmas Szent X. Piusz-bazilika spirituális csendjében töltjük.",
             "ro": "O dimineață senină de iarnă la sanctuar oferă o atmosferă liniștită, fără mulțimile de vară. La prânz ne încălzim în basilici și vizităm Muzeul de Ceară. După-amiaza admirăm lumina aurie de pe castel înainte de apusul timpuriu. Seara o petrecem în liniștea spirituală a uriașei Basilici Sfântul Pius al X-lea.",
-            "en": "A crisp winter morning at the sanctuary offers a peaceful atmosphere without the summer crowds. At midday, we warm up inside the basilicas and visit the Wax Museum. In the afternoon, we enjoy the golden light from the castle walls before the early sunset. We spend the evening in the spiritual silence of the massive Saint Pius X Basilica."
+            "en": "A crisp winter morning at the sanctuary offers a peaceful atmosphere without the summer crowds. At midday, we warm up inside the basilicas and visit the Wax Museum. In the afternoon, we enjoy the golden light from the castle walls before the early sunset. We spend the evening in the spiritual silence of the massive Saint Pius X Basilica.",
+            "fr": "Une matinée d'hiver tonique au sanctuaire offre une atmosphère paisible sans les foules estivales. À midi, réchauffez-vous dans les basiliques et visitez le Musée de Cire. L'après-midi, profitez de la lumière dorée depuis les remparts du château avant le coucher du soleil précoce. Passez la soirée dans le silence spirituel de la basilique Saint-Pie X."
           },
           "stops": [
             {
@@ -624,7 +683,8 @@
                 "de": "Die Morgenluft in den Pyrenäen ist sehr kalt; kleiden Sie sich in Schichten.",
                 "hu": "A reggeli levegő a Pireneusokban nagyon hideg; öltözzön rétegesen.",
                 "ro": "Aerul dimineții în Pirinei este foarte rece; îmbrăcați-vă în straturi.",
-                "en": "The morning air in the Pyrenees is very cold; be sure to dress in layers."
+                "en": "The morning air in the Pyrenees is very cold; be sure to dress in layers.",
+                "fr": "L'air matinal dans les Pyrénées est très froid ; habillez-vous avec plusieurs couches."
               }
             },
             {
@@ -633,7 +693,8 @@
                 "de": "Die Warteschlangen sind kurz, aber der Boden kann bei Frost rutschig sein.",
                 "hu": "A sorok rövidek, de a talaj fagy esetén csúszós lehet.",
                 "ro": "Cozile sunt scurte, dar solul poate fi alunecos în caz de îngheț.",
-                "en": "Waiting lines are short, but the ground can be slippery in freezing conditions."
+                "en": "Waiting lines are short, but the ground can be slippery in freezing conditions.",
+                "fr": "Les files d'attente sont courtes, mais le sol peut être glissant en cas de gel."
               }
             },
             {
@@ -642,7 +703,8 @@
                 "de": "Ein ruhiger Ort für Gebet und zum Aufwärmen zwischen den Außenbesichtigungen.",
                 "hu": "Csendes hely az imádságra és a felmelegedésre a külső helyszínek között.",
                 "ro": "Un loc liniștit pentru rugăciune și pentru încălzire între vizitele exterioare.",
-                "en": "A quiet place for prayer and to warm up between outdoor sightseeing stops."
+                "en": "A quiet place for prayer and to warm up between outdoor sightseeing stops.",
+                "fr": "Un lieu calme pour prier et se réchauffer entre deux visites extérieures."
               }
             },
             {
@@ -651,7 +713,8 @@
                 "de": "Beheizte Räume machen dies zu einem idealen Stopp am frühen Nachmittag.",
                 "hu": "A fűtött termek ideális megállóvá teszik a kora délutáni órákban.",
                 "ro": "Sălile încălzite fac din acesta o oprire ideală la începutul după-amiezii.",
-                "en": "Heated rooms make this an ideal stop during the chilly early afternoon."
+                "en": "Heated rooms make this an ideal stop during the chilly early afternoon.",
+                "fr": "Les salles chauffées en font une étape idéale pendant l'après-midi frisquet."
               }
             },
             {
@@ -660,7 +723,8 @@
                 "de": "Genießen Sie den Blick auf die schneebedeckten Gipfel der Pyrenäen.",
                 "hu": "Élvezze a kilátást a Pireneusok hófödte csúcsaira a várfalakról.",
                 "ro": "Bucurați-vă de priveliștea vârfurilor înzăpezite ale Pirineilor de pe ziduri.",
-                "en": "Enjoy the spectacular view of the snow-capped Pyrenees peaks from the walls."
+                "en": "Enjoy the spectacular view of the snow-capped Pyrenees peaks from the walls.",
+                "fr": "Admirez la vue spectaculaire sur les sommets enneigés des Pyrénées depuis les remparts."
               }
             },
             {
@@ -669,7 +733,8 @@
                 "de": "Beachten Sie, dass es in der riesigen Betonhalle kühl bleiben kann.",
                 "hu": "Vegye figyelembe, hogy a hatalmas betoncsarnokban hűvös maradhat az idő.",
                 "ro": "Rețineți că în imensa hală de beton temperatura poate rămâne scăzută.",
-                "en": "Keep in mind that it can remain quite cool inside the vast concrete hall."
+                "en": "Keep in mind that it can remain quite cool inside the vast concrete hall.",
+                "fr": "Gardez à l'esprit qu'il peut faire assez frais à l'intérieur de cette vaste halle en béton."
               }
             }
           ],
@@ -701,6 +766,13 @@
               "Enjoy a hot tea at one of the cafes located near the Gave river.",
               "Gloves are highly recommended for visiting the outdoor parts of the castle.",
               "The spiritual atmosphere is significantly more intimate and quiet in winter."
+            ],
+            "fr": [
+              "Le soleil se couche vers 17h30 ; prévoyez vos photos pour le milieu d'après-midi.",
+              "Beaucoup de petites boutiques de souvenirs ont des horaires réduits en basse saison.",
+              "Savourez un thé chaud dans l'un des cafés situés près du Gave.",
+              "Les gants sont vivement recommandés pour visiter les parties extérieures du château.",
+              "L'atmosphère spirituelle est nettement plus intime et calme en hiver."
             ]
           }
         }
@@ -729,7 +801,8 @@
             "de": "Fahrräder müssen vor dem heiligen Bezirk abgestellt werden.",
             "hu": "A kerékpárokat a szentély bejárata előtt kell hagyni.",
             "ro": "Bicicletele trebuie lăsate la intrarea în zona sfântă.",
-            "en": "Bicycles must be parked outside the sacred area."
+            "en": "Bicycles must be parked outside the sacred area.",
+            "fr": "Les vélos doivent être garés à l'extérieur de la zone sacrée."
           }
         },
         {
@@ -747,7 +820,8 @@
             "de": "Die obere Basilika bietet einen tollen Blick auf den Platz.",
             "hu": "A felső bazilikából remek kilátás nyílik a térre.",
             "ro": "Bazilica superioară oferă o vedere frumoasă asupra pieței.",
-            "en": "The upper basilica offers great views over the square."
+            "en": "The upper basilica offers great views over the square.",
+            "fr": "La basilique supérieure offre de superbes vues sur l'esplanade."
           }
         },
         {
@@ -765,7 +839,8 @@
             "de": "Steiler Anstieg, aber mit dem E-Bike kein Problem.",
             "hu": "Meredek emelkedő, de e-bike-kal könnyen leküzdhető.",
             "ro": "Urcare abruptă, dar ușoară cu o bicicletă electrică.",
-            "en": "Steep climb, but easy with an e-bike."
+            "en": "Steep climb, but easy with an e-bike.",
+            "fr": "Montée raide, mais facile avec un vélo électrique."
           }
         },
         {
@@ -783,7 +858,8 @@
             "de": "Fahrt mit der Standseilbahn zum Gipfel für 360-Grad-Sicht.",
             "hu": "Siklóval menjen fel a csúcsra a teljes panorámáért.",
             "ro": "Urcați cu funicularul pentru o vedere de 360 de grade.",
-            "en": "Take the funicular to the summit for 360-degree views."
+            "en": "Take the funicular to the summit for 360-degree views.",
+            "fr": "Prenez le funiculaire jusqu'au sommet pour une vue à 360 degrés."
           }
         },
         {
@@ -801,7 +877,8 @@
             "de": "Entspannender Abschluss am Seeufer, flacher Weg.",
             "hu": "Pihentető befejezés a tóparton, sík úton.",
             "ro": "Final relaxant pe malul lacului, pe un drum plat.",
-            "en": "Relaxing finish by the lake on a flat path."
+            "en": "Relaxing finish by the lake on a flat path.",
+            "fr": "Fin de journée relaxante au bord du lac sur un sentier plat."
           }
         }
       ],
@@ -809,7 +886,8 @@
         "de": "Mit dem Rad erkunden Sie erst das religiöse Zentrum und fahren dann zur Festung hinauf. Nach einem kräftigen Mittagessen führt der Weg zum Pic du Jer, wo Sie das Panorama genießen. Den Nachmittag verbringen Sie bei einer entspannten Fahrt zum malerischen See von Lourdes, etwas außerhalb der Stadt.",
         "hu": "Kerékpárral előbb a vallási központot látogatja meg, majd felteker a várba. Egy kiadós ebéd után az út a Pic du Jer-hez vezet, ahol a panorámában gyönyörködhet. A délutánt egy könnyed tekeréssel zárja a város szélén található festői lourdes-i tónál.",
         "ro": "Cu bicicleta, explorați centrul religios, apoi urcați la cetate. După un prânz copios, drumul duce la Pic du Jer pentru o panoramă deosebită. După-amiaza se încheie cu o plimbare relaxantă spre lacul Lourdes, situat la marginea orașului.",
-        "en": "By bike, first explore the religious center and then ride up to the fortress. After a hearty lunch, head to Pic du Jer to enjoy the panorama. Spend your afternoon with a relaxed ride to the scenic Lake Lourdes on the outskirts of town."
+        "en": "By bike, first explore the religious center and then ride up to the fortress. After a hearty lunch, head to Pic du Jer to enjoy the panorama. Spend your afternoon with a relaxed ride to the scenic Lake Lourdes on the outskirts of town.",
+        "fr": "À vélo, commencez par explorer le centre religieux puis montez jusqu'au château fort. Après un déjeuner copieux, direction le Pic du Jer pour admirer le panorama. Passez votre après-midi avec une balade relaxante vers le pittoresque lac de Lourdes, à la périphérie de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -834,6 +912,12 @@
           {
             "name": "Le Comptoir",
             "tip": "Modern cuisine using regional products near the fort."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Comptoir",
+            "tip": "Cuisine moderne utilisant des produits régionaux à proximité du fort."
           }
         ]
       },
@@ -865,6 +949,13 @@
             "tip": "Quiet lake perfect for a sunset break.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Lac de Lourdes",
+            "tip": "Lac paisible parfait pour une pause au coucher du soleil.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -890,6 +981,12 @@
           {
             "name": "Local Market",
             "tip": "Grab some cheese and pâté for a lakeside picnic."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Marché local",
+            "tip": "Achetez du fromage et du pâté pour un pique-nique au bord du lac."
           }
         ]
       },
@@ -917,6 +1014,12 @@
           "Use the 'Voie Verte' cycle paths in the area.",
           "Always lock your bike securely when stopping.",
           "Bring plenty of water for the Pic du Jer excursion."
+        ],
+        "fr": [
+          "Louez un vélo électrique pour les collines environnantes de Lourdes.",
+          "Empruntez les pistes cyclables de la 'Voie Verte' dans la région.",
+          "Attachez toujours votre vélo avec un cadenas lors de vos arrêts.",
+          "Prévoyez beaucoup d'eau pour l'excursion au Pic du Jer."
         ]
       },
       "variants": {
@@ -1088,7 +1191,8 @@
             "de": "Trotz Regen starten wir mit dem Rad am Heiligtum. Wir suchen Schutz in der Oberen Basilika, bevor wir zur Burg radeln. Am Nachmittag geht es zum Pic du Jer, wo die Wolken tief hängen. Der Tag endet mit einer kühlen, nassen Fahrt zum Lac de Lourdes, der im Regen mystisch wirkt.",
             "hu": "Az eső ellenére kerékpárral indulunk a szentélytől. A Felső-bazilikában keresünk menedéket, mielőtt a várhoz tekernénk. Délután a Pic du Jer felé vesszük az irányt, ahol alacsonyan szállnak a felhők. A napot egy hűvös, vizes tekeréssel zárjuk a Lourdes-i tóhoz.",
             "ro": "În ciuda ploii, pornim cu bicicleta de la sanctuar. Căutăm adăpost în Basilica Superioară înainte de a pedala spre castel. După-amiaza mergem spre Pic du Jer, unde norii sunt joși. Ziua se încheie cu o plimbare răcoroasă și umedă spre Lacul Lourdes.",
-            "en": "Despite the rain, we start our bike tour at the sanctuary. We seek shelter in the Upper Basilica before cycling to the castle. In the afternoon, we head to Pic du Jer where clouds hang low. The day ends with a cool, wet ride to Lake Lourdes, looking mystical in the rain."
+            "en": "Despite the rain, we start our bike tour at the sanctuary. We seek shelter in the Upper Basilica before cycling to the castle. In the afternoon, we head to Pic du Jer where clouds hang low. The day ends with a cool, wet ride to Lake Lourdes, looking mystical in the rain.",
+            "fr": "Malgré la pluie, nous commençons notre tour à vélo au sanctuaire. Nous nous abritons dans la basilique supérieure avant de pédaler vers le château. L'après-midi, nous nous dirigeons vers le Pic du Jer où les nuages sont bas. La journée se termine par une balade humide au lac de Lourdes, à l'allure mystique sous la pluie."
           },
           "stops": [
             {
@@ -1097,7 +1201,8 @@
                 "de": "Parken Sie das Rad unter den Arkaden, um den Sattel trocken zu halten.",
                 "hu": "Parkoljon az árkádok alatt, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta sub arcade pentru a păstra șaua uscată.",
-                "en": "Park your bike under the arcades to keep the saddle dry while visiting."
+                "en": "Park your bike under the arcades to keep the saddle dry while visiting.",
+                "fr": "Garez votre vélo sous les arcades pour garder la selle au sec pendant la visite."
               }
             },
             {
@@ -1106,7 +1211,8 @@
                 "de": "Ein guter Ort, um die Regenkleidung kurz auszuschütteln und aufzuwärmen.",
                 "hu": "Jó hely az esőruházat megrázására és egy rövid felmelegedésre.",
                 "ro": "Un loc bun pentru a scutura hainele de ploaie și a vă încălzi puțin.",
-                "en": "A good spot to shake off your rain gear and warm up briefly."
+                "en": "A good spot to shake off your rain gear and warm up briefly.",
+                "fr": "Un bon endroit pour secouer vos vêtements de pluie et vous réchauffer brièvement."
               }
             },
             {
@@ -1115,7 +1221,8 @@
                 "de": "Der Anstieg per Rad ist bei Nässe anstrengend; achten Sie auf Rutschgefahr.",
                 "hu": "A kerékpáros feljutás esőben fárasztó; ügyeljen a csúszásveszélyre.",
                 "ro": "Urcarea cu bicicleta este obositoare pe ploaie; atenție la alunecare.",
-                "en": "The bike ascent is taxing in the rain; watch out for slippery patches."
+                "en": "The bike ascent is taxing in the rain; watch out for slippery patches.",
+                "fr": "L'ascension à vélo est éprouvante sous la pluie ; surveillez les plaques glissantes."
               }
             },
             {
@@ -1124,7 +1231,8 @@
                 "de": "Die Seilbahn bringt Sie und Ihr Rad trocken auf den Gipfel.",
                 "hu": "A sikló szárazon viszi fel önt és a kerékpárját a csúcsra.",
                 "ro": "Funicularul vă duce pe dvs. și bicicleta la vârf la adăpost de ploaie.",
-                "en": "The funicular will take you and your bike to the summit in dry comfort."
+                "en": "The funicular will take you and your bike to the summit in dry comfort.",
+                "fr": "Le funiculaire vous emmènera, vous et votre vélo, au sommet bien au sec."
               }
             },
             {
@@ -1133,7 +1241,8 @@
                 "de": "Der Uferweg kann schlammig sein; bleiben Sie auf den befestigten Pfaden.",
                 "hu": "A tóparti út saras lehet; maradjon a kiépített ösvényeken.",
                 "ro": "Poteca de pe mal poate fi noroioasă; rămâneți pe drumurile pavate.",
-                "en": "The lakeside path can be muddy; stick to the paved sections."
+                "en": "The lakeside path can be muddy; stick to the paved sections.",
+                "fr": "Le sentier du lac peut être boueux ; restez sur les sections goudronnées."
               }
             }
           ],
@@ -1165,6 +1274,13 @@
               "Visibility at Pic du Jer may be significantly reduced during rainfall.",
               "Use the bike racks near Saint Pius X Basilica for covered parking.",
               "Avoid sharp turns on the slippery streets of the old town district."
+            ],
+            "fr": [
+              "Un équipement imperméable complet et des garde-boue sont essentiels aujourd'hui.",
+              "Freinez tôt et doucement sur les pavés mouillés pour éviter de glisser.",
+              "La visibilité au Pic du Jer peut être considérablement réduite par temps de pluie.",
+              "Utilisez les arceaux à vélos près de la basilique Saint-Pie X pour un parking couvert.",
+              "Évitez les virages serrés dans les rues glissantes du quartier de la vieille ville."
             ]
           }
         },
@@ -1173,7 +1289,8 @@
             "de": "Ein frostiger Start am Heiligtum erfordert warme Handschuhe. Wir besuchen die Basilika und radeln dann hinauf zur Burg. Mittags geht es mit der Seilbahn zum Pic du Jer, um die verschneiten Gipfel zu sehen. Der Tag endet mit einer zügigen Fahrt zum Lac de Lourdes im klaren Winterlicht.",
             "hu": "A fagyos reggel a szentélynél meleg kesztyűt igényel. Meglátogatjuk a bazilikát, majd feltekerünk a várhoz. Délben a siklóval felmegyünk a Pic du Jer-re a havas csúcsokért. A napot egy tempós tekeréssel zárjuk a Lourdes-i tóhoz a tiszta téli fényekben.",
             "ro": "Un început geros la sanctuar necesită mănuși groase. Vizităm basilica și pedalăm spre castel. La prânz luăm funicularul spre Pic du Jer pentru vârfurile înzăpezite. Ziua se încheie cu o plimbare rapidă spre Lacul Lourdes în lumina clară de iarnă.",
-            "en": "A frosty start at the sanctuary requires warm gloves. We visit the basilica and then cycle up to the castle. At midday, we take the funicular to Pic du Jer for the snowy peaks. The day ends with a brisk ride to Lake Lourdes in the clear winter light."
+            "en": "A frosty start at the sanctuary requires warm gloves. We visit the basilica and then cycle up to the castle. At midday, we take the funicular to Pic du Jer for the snowy peaks. The day ends with a brisk ride to Lake Lourdes in the clear winter light.",
+            "fr": "Un départ givré au sanctuaire nécessite de bons gants. Nous visitons la basilique puis montons au château. À midi, nous prenons le funiculaire du Pic du Jer pour admirer les sommets enneigés. La journée s'achève par une balade vivifiante au lac de Lourdes dans la claire lumière hivernale."
           },
           "stops": [
             {
@@ -1182,7 +1299,8 @@
                 "de": "Achten Sie auf Raureif auf den Brücken über den Gave de Pau.",
                 "hu": "Ügyeljen a zúzmarára a Gave de Pau folyó feletti hidakon.",
                 "ro": "Atenție la chiciura de pe podurile peste râul Gave de Pau.",
-                "en": "Watch out for frost on the bridges crossing the Gave de Pau river."
+                "en": "Watch out for frost on the bridges crossing the Gave de Pau river.",
+                "fr": "Attention au givre sur les ponts traversant le Gave de Pau."
               }
             },
             {
@@ -1191,7 +1309,8 @@
                 "de": "Drinnen ist es deutlich wärmer als draußen auf dem Fahrrad.",
                 "hu": "Bent lényegesen melegebb van, mint kint a kerékpáron.",
                 "ro": "În interior este mult mai cald decât afară pe bicicletă.",
-                "en": "It is significantly warmer inside than out on the bicycle."
+                "en": "It is significantly warmer inside than out on the bicycle.",
+                "fr": "Il fait nettement plus chaud à l'intérieur qu'à l'extérieur sur le vélo."
               }
             },
             {
@@ -1200,7 +1319,8 @@
                 "de": "Der Anstieg hält Sie warm, aber die Abfahrt wird sehr windig.",
                 "hu": "A felfelé menet melegen tartja, de a lejtőn nagyon hideg lesz a szél.",
                 "ro": "Urcarea vă va ține de cald, dar coborârea va fi foarte rece din cauza vântului.",
-                "en": "The climb will keep you warm, but the descent will be very windy and cold."
+                "en": "The climb will keep you warm, but the descent will be very windy and cold.",
+                "fr": "La montée vous réchauffera, mais la descente sera très venteuse et froide."
               }
             },
             {
@@ -1209,7 +1329,8 @@
                 "de": "Oben liegt oft Schnee; feste Schuhe für den Gipfelpfad sind nötig.",
                 "hu": "Fent gyakran van hó; a csúcsra vezető ösvényhez bakancs ajánlott.",
                 "ro": "Deseori este zăpadă sus; sunt necesari bocanci pentru poteca spre vârf.",
-                "en": "There is often snow at the top; sturdy boots are needed for the summit path."
+                "en": "There is often snow at the top; sturdy boots are needed for the summit path.",
+                "fr": "Il y a souvent de la neige au sommet ; de bonnes chaussures sont nécessaires."
               }
             },
             {
@@ -1218,7 +1339,8 @@
                 "de": "Im Winter ist es hier sehr ruhig; genießen Sie die klare, kalte Luft.",
                 "hu": "Télen itt nagyon nagy a nyugalom; élvezze a tiszta, hideg levegőt.",
                 "ro": "Iarna este foarte liniște aici; bucurați-vă de aerul curat și rece.",
-                "en": "It is very peaceful here in winter; enjoy the crisp, cold air by the water."
+                "en": "It is very peaceful here in winter; enjoy the crisp, cold air by the water.",
+                "fr": "C'est très paisible ici en hiver ; profitez de l'air frais et vif au bord de l'eau."
               }
             }
           ],
@@ -1250,6 +1372,13 @@
               "Days are short; ensure your bicycle lights are fully functional.",
               "Plan regular stops at heated cafes to warm up your hands and feet.",
               "Watch out for 'black ice' or hidden icy patches in shaded areas."
+            ],
+            "fr": [
+              "Portez des sous-vêtements thermiques et des vêtements extérieurs coupe-vent.",
+              "Vérifiez la pression de vos pneus, car elle a tendance à baisser avec le froid.",
+              "Les journées sont courtes ; assurez-vous que vos éclairages fonctionnent parfaitement.",
+              "Prévoyez des arrêts réguliers dans des cafés chauffés pour vous réchauffer.",
+              "Attention au 'verglas' ou aux zones glacées cachées dans les parties ombragées."
             ]
           }
         }
@@ -1278,7 +1407,8 @@
             "de": "Parken Sie im Parkhaus 'Peyramale'.",
             "hu": "Parkoljon a Peyramale mélygarázsban.",
             "ro": "Parcați în parcarea subterană Peyramale.",
-            "en": "Park at the Peyramale underground car park."
+            "en": "Park at the Peyramale underground car park.",
+            "fr": "Garez-vous au parking souterrain Peyramale."
           }
         },
         {
@@ -1296,7 +1426,8 @@
             "de": "Frühmorgens ist die spirituelle Energie am stärksten.",
             "hu": "Kora reggel a legerősebb a spirituális élmény.",
             "ro": "Energia spirituală este cea mai puternică dimineața devreme.",
-            "en": "Early morning offers the strongest spiritual experience."
+            "en": "Early morning offers the strongest spiritual experience.",
+            "fr": "Le petit matin offre l'expérience spirituelle la plus intense."
           }
         },
         {
@@ -1314,7 +1445,8 @@
             "de": "Besuchen Sie das Pyrenäen-Museum im Inneren.",
             "hu": "Nézze meg a váron belüli Pireneusi Múzeumot is.",
             "ro": "Vizitați și Muzeul Pirineilor din interiorul cetății.",
-            "en": "Don't miss the Pyrenean Museum inside the fortress."
+            "en": "Don't miss the Pyrenean Museum inside the fortress.",
+            "fr": "Ne manquez pas le Musée Pyrénéen situé à l'intérieur du château fort."
           }
         },
         {
@@ -1332,7 +1464,8 @@
             "de": "Kostenloser Parkplatz an der Talstation der Seilbahn.",
             "hu": "Ingyenes parkoló a sikló alsó állomásánál.",
             "ro": "Parcare gratuită la stația de bază a funicularului.",
-            "en": "Free parking available at the funicular base station."
+            "en": "Free parking available at the funicular base station.",
+            "fr": "Parking gratuit disponible à la gare de départ du funiculaire."
           }
         },
         {
@@ -1350,7 +1483,8 @@
             "de": "Perfekt für einen Kaffee am See vor der Abfahrt.",
             "hu": "Tökéletes hely egy kávéra a tóparton indulás előtt.",
             "ro": "Loc perfect pentru o cafea pe malul lacului.",
-            "en": "Perfect spot for a coffee by the lake before leaving."
+            "en": "Perfect spot for a coffee by the lake before leaving.",
+            "fr": "Endroit parfait pour un café au bord du lac avant de repartir."
           }
         }
       ],
@@ -1358,7 +1492,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die wichtigsten Punkte von Lourdes. Nach dem Besuch des Heiligtums und der Grotte fahren Sie zur Festung hinauf. Am Nachmittag bringt Sie das Auto zur Seilbahn des Pic du Jer für eine spektakuläre Aussicht. Den Tag beschließen Sie am ruhigen See von Lourdes, der nur wenige Autominuten entfernt liegt.",
         "hu": "Autóval kényelmesen érheti el Lourdes legfontosabb pontjait. A szentély és a barlang után a vár következik. Délután a Pic du Jer siklójához hajthat a látványos panorámáért. A napot a várostól pár percre lévő csendes lourdes-i tónál zárhatja, ahol nyugodt környezetben pihenhet meg.",
         "ro": "Cu mașina, ajungeți ușor la cele mai importante puncte din Lourdes. După sanctuar și grotă, vizitați cetatea. După-amiaza mergeți la funicularul Pic du Jer pentru o priveliște spectaculoasă. Ziua se încheie la lacul Lourdes, situat la doar câteva minute de mers cu mașina.",
-        "en": "By car, you can comfortably reach Lourdes' key spots. After visiting the Sanctuary and Grotto, drive up to the fortress. In the afternoon, head to the Pic du Jer funicular for spectacular views. Conclude your day at the quiet Lake Lourdes, just a few minutes' drive from the center."
+        "en": "By car, you can comfortably reach Lourdes' key spots. After visiting the Sanctuary and Grotto, drive up to the fortress. In the afternoon, head to the Pic du Jer funicular for spectacular views. Conclude your day at the quiet Lake Lourdes, just a few minutes' drive from the center.",
+        "fr": "En voiture, vous pouvez rejoindre confortablement les lieux clés de Lourdes. Après avoir visité le Sanctuaire et la Grotte, montez jusqu'au château fort. L'après-midi, direction le funiculaire du Pic du Jer pour des vues spectaculaires. Concluez votre journée au calme du lac de Lourdes, à quelques minutes de route du centre."
       },
       "gastro_picks": {
         "de": [
@@ -1383,6 +1518,12 @@
           {
             "name": "L'Embarcadère",
             "tip": "Scenic restaurant right on the shores of Lake Lourdes."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Embarcadère",
+            "tip": "Restaurant panoramique situé directement sur les rives du lac de Lourdes."
           }
         ]
       },
@@ -1414,6 +1555,13 @@
             "tip": "Fresh mountain air and vast horizons.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Sommet du Pic du Jer",
+            "tip": "Air pur de la montagne et vastes horizons.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1439,6 +1587,12 @@
           {
             "name": "E.Leclerc Lourdes",
             "tip": "Large supermarket for local food gifts and wine."
+          }
+        ],
+        "fr": [
+          {
+            "name": "E.Leclerc Lourdes",
+            "tip": "Grand supermarché pour les cadeaux gourmands locaux et le vin."
           }
         ]
       },
@@ -1466,6 +1620,12 @@
           "Car parks fill up early in summer; arrive by 9 AM.",
           "The road to the lake is well-signposted.",
           "Use your car for excursions to the nearby High Pyrenees."
+        ],
+        "fr": [
+          "Évitez le centre-ville pendant les grandes processions.",
+          "Les parkings se remplissent vite en été ; arrivez avant 9h00.",
+          "La route vers le lac est bien indiquée.",
+          "Utilisez votre voiture pour des excursions dans les Hautes-Pyrénées environnantes."
         ]
       },
       "variants": {
@@ -1637,7 +1797,8 @@
             "de": "Mit dem Auto erreichen wir das Heiligtum bequem im Trockenen. Nach der Grotte fahren wir zur Burg und genießen den Komfort des Wagens zwischen den Stopps. Am Nachmittag bringt uns die Seilbahn zum Pic du Jer, bevor wir zum Lac de Lourdes fahren, wo wir den Regen vom Ufercafé aus beobachten.",
             "hu": "Autóval kényelmesen, szárazon érjük el a szentélyt. A barlang után a várhoz hajtunk, élvezve az autó kényelmét a megállók között. Délután a siklóval felmegyünk a Pic du Jer-re, majd a Lourdes-i tóhoz autózunk, ahol a tóparti kávézóból nézzük az esőt.",
             "ro": "Cu mașina ajungem la sanctuar confortabil și uscați. După grotă mergem la castel, bucurându-ne de confortul vehiculului între opriri. După-amiaza luăm funicularul spre Pic du Jer, apoi mergem la Lacul Lourdes, unde privim ploaia dintr-o cafenea.",
-            "en": "By car, we reach the sanctuary comfortably and dry. After the Grotto, we drive to the castle, enjoying the vehicle's comfort between stops. In the afternoon, the funicular takes us to Pic du Jer before we head to Lake Lourdes to watch the rain from a lakeside cafe."
+            "en": "By car, we reach the sanctuary comfortably and dry. After the Grotto, we drive to the castle, enjoying the vehicle's comfort between stops. In the afternoon, the funicular takes us to Pic du Jer before we head to Lake Lourdes to watch the rain from a lakeside cafe.",
+            "fr": "En voiture, nous rejoignons le sanctuaire confortablement et au sec. Après la Grotte, nous roulons vers le château, profitant du confort du véhicule entre les étapes. L'après-midi, le funiculaire nous emmène au Pic du Jer avant d'aller au lac pour observer la pluie depuis un café au bord de l'eau."
           },
           "stops": [
             {
@@ -1646,7 +1807,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Peyramale' für einen kurzen, trockenen Weg.",
                 "hu": "Használja a 'Peyramale' parkolóházat a rövid, fedett út érdekében.",
                 "ro": "Folosiți parcarea 'Peyramale' pentru un drum scurt și protejat.",
-                "en": "Use the 'Peyramale' parking garage for a short, dry walk to the entrance."
+                "en": "Use the 'Peyramale' parking garage for a short, dry walk to the entrance.",
+                "fr": "Utilisez le parking Peyramale pour un court trajet au sec jusqu'à l'entrée."
               }
             },
             {
@@ -1655,7 +1817,8 @@
                 "de": "Lassen Sie die nassen Schirme im Auto, bevor Sie das Heiligtum betreten.",
                 "hu": "Hagyja a vizes ernyőket az autóban, mielőtt belépne a szentély területére.",
                 "ro": "Lăsați umbrele ude în mașină înainte de a intra în zona sanctuarului.",
-                "en": "Leave wet umbrellas in the car before entering the inner sanctuary area."
+                "en": "Leave wet umbrellas in the car before entering the inner sanctuary area.",
+                "fr": "Laissez les parapluies mouillés dans la voiture avant d'entrer dans la zone sacrée."
               }
             },
             {
@@ -1664,7 +1827,8 @@
                 "de": "Es gibt begrenzte Parkplätze direkt am Fuß des Schrägaufzugs zur Burg.",
                 "hu": "Közvetlenül a várba vezető ferde lift lábánál van néhány parkolóhely.",
                 "ro": "Există locuri de parcare limitate chiar la baza liftului spre castel.",
-                "en": "Limited parking is available right at the base of the castle elevator."
+                "en": "Limited parking is available right at the base of the castle elevator.",
+                "fr": "Un parking limité est disponible juste au pied de l'ascenseur du château."
               }
             },
             {
@@ -1673,7 +1837,8 @@
                 "de": "Der große Parkplatz an der Talstation bleibt bei Regen oft leer.",
                 "hu": "A völgyállomás nagy parkolója esőben gyakran szinte üres.",
                 "ro": "Parcarea mare de la stația de bază este adesea goală pe ploaie.",
-                "en": "The large parking lot at the lower station is often nearly empty in rain."
+                "en": "The large parking lot at the lower station is often nearly empty in rain.",
+                "fr": "Le grand parking de la gare inférieure est souvent presque vide sous la pluie."
               }
             },
             {
@@ -1682,7 +1847,8 @@
                 "de": "Parken Sie direkt am Restaurant, um den Blick auf den See im Trockenen zu genießen.",
                 "hu": "Parkoljon közvetlenül az étteremnél, hogy szárazon élvezze a tavi kilátást.",
                 "ro": "Parcați chiar lângă restaurant pentru a admira lacul de la adăpost.",
-                "en": "Park right next to the restaurant to enjoy the lake view while staying dry."
+                "en": "Park right next to the restaurant to enjoy the lake view while staying dry.",
+                "fr": "Garez-vous juste à côté du restaurant pour profiter de la vue sur le lac au sec."
               }
             }
           ],
@@ -1714,6 +1880,13 @@
               "Keep a towel in the car to dry off after returning from outdoor stops.",
               "Check for road closures near the river if heavy flooding occurs.",
               "Mountain visibility may be hampered by low-hanging storm clouds."
+            ],
+            "fr": [
+              "Les routes peuvent être glissantes par forte pluie ; conduisez avec prudence.",
+              "Privilégiez les parkings couverts plutôt que le stationnement en rue.",
+              "Gardez une serviette dans la voiture pour vous essuyer après les sorties.",
+              "Vérifiez les fermetures de routes près de la rivière en cas de fortes crues.",
+              "La visibilité en montagne peut être gênée par des nuages d'orage bas."
             ]
           }
         },
@@ -1722,7 +1895,8 @@
             "de": "Wir starten unsere Wintertour am Heiligtum, wo wir leicht einen Parkplatz finden. Nach dem Besuch der Basiliken fahren wir zur Burg. Am Nachmittag geht es zum Pic du Jer, um das Panorama der schneebedeckten Gipfel zu bestaunen. Zum Abschluss fahren wir zum Lac de Lourdes, der im Winterlicht besonders ruhig und friedlich liegt.",
             "hu": "Téli túránkat a szentélynél kezdjük, ahol ilyenkor könnyen találunk parkolót. A bazilikák után a várhoz autózunk. Délután a Pic du Jer-hez megyünk a havas pireneusi panorámáért. Zárásként a Lourdes-i tóhoz hajtunk, amely a téli fényekben különösen nyugodt és békés.",
             "ro": "Începem turul de iarnă la sanctuar, unde găsim ușor parcare. După vizitarea basilicilor mergem la castel. După-amiaza plecăm spre Pic du Jer pentru panorama vârfurilor înzăpezite. La final mergem la Lacul Lourdes, care este extrem de liniștit în lumina iernii.",
-            "en": "We start our winter tour at the sanctuary, where parking is easy to find this time of year. After visiting the basilicas, we drive to the castle. In the afternoon, we head to Pic du Jer for the snowy Pyrenees panorama. Finally, we drive to Lake Lourdes, which is exceptionally calm in the winter light."
+            "en": "We start our winter tour at the sanctuary, where parking is easy to find this time of year. After visiting the basilicas, we drive to the castle. In the afternoon, we head to Pic du Jer for the snowy Pyrenees panorama. Finally, we drive to Lake Lourdes, which is exceptionally calm in the winter light.",
+            "fr": "Nous commençons notre tour d'hiver au sanctuaire, où le stationnement est facile à trouver en cette saison. Après avoir visité les basiliques, nous roulons vers le château. L'après-midi, direction le Pic du Jer pour le panorama enneigé des Pyrénées. Enfin, nous allons au lac de Lourdes, exceptionnellement calme sous la lumière hivernale."
           },
           "stops": [
             {
@@ -1731,7 +1905,8 @@
                 "de": "Heizen Sie das Auto vor, bevor Sie nach dem Gebet zurückkehren.",
                 "hu": "Fűtse fel az autót, mielőtt visszatérne az imádság után.",
                 "ro": "Preîncălziți mașina înainte de a vă întoarce după rugăciune.",
-                "en": "Pre-heat your car before returning from your prayer visit."
+                "en": "Pre-heat your car before returning from your prayer visit.",
+                "fr": "Préchauffez votre voiture avant de revenir de votre visite de prière."
               }
             },
             {
@@ -1740,7 +1915,8 @@
                 "de": "Ein kurzer Fußweg vom Parkplatz; der Boden kann morgens gefroren sein.",
                 "hu": "Rövid séta a parkolótól; a talaj reggelente fagyos lehet.",
                 "ro": "Drum scurt de la parcare; solul poate fi înghețat dimineața.",
-                "en": "A short walk from the parking; the ground can be frozen in the mornings."
+                "en": "A short walk from the parking; the ground can be frozen in the mornings.",
+                "fr": "À quelques pas du parking ; le sol peut être gelé le matin."
               }
             },
             {
@@ -1749,7 +1925,8 @@
                 "de": "Genießen Sie den Komfort des Autos für den Weg nach oben.",
                 "hu": "Élvezze az autó kényelmét a felfelé vezető úton.",
                 "ro": "Bucurați-vă de confortul mașinii pentru drumul spre castel.",
-                "en": "Enjoy the comfort of your heated car for the drive up to the castle."
+                "en": "Enjoy the comfort of your heated car for the drive up to the castle.",
+                "fr": "Profitez du confort de votre voiture chauffée pour monter jusqu'au château."
               }
             },
             {
@@ -1758,7 +1935,8 @@
                 "de": "Überprüfen Sie vor der Fahrt, ob die Seilbahn im Winter in Betrieb ist.",
                 "hu": "Indulás előtt ellenőrizze, hogy a sikló üzemel-e télen.",
                 "ro": "Verificați dacă funicularul funcționează iarna înainte de a porni.",
-                "en": "Check if the funicular is in operation during the winter season before driving."
+                "en": "Check if the funicular is in operation during the winter season before driving.",
+                "fr": "Vérifiez si le funiculaire est en service pendant la saison hivernale."
               }
             },
             {
@@ -1767,7 +1945,8 @@
                 "de": "Die Zufahrtsstraße kann bei starkem Schneefall rutschig sein.",
                 "hu": "A tóhoz vezető út erős havazás esetén csúszós lehet.",
                 "ro": "Drumul spre lac poate fi alunecos în caz de ninsori puternice.",
-                "en": "The access road to the lake can be slippery if there is recent snowfall."
+                "en": "The access road to the lake can be slippery if there is recent snowfall.",
+                "fr": "La route d'accès au lac peut être glissante en cas de chute de neige récente."
               }
             }
           ],
@@ -1799,6 +1978,13 @@
               "Parking fees are often lower or waived during the winter months.",
               "Drive carefully on shaded mountain roads leading to Pic du Jer.",
               "Make use of seat heaters after long periods of outdoor sightseeing."
+            ],
+            "fr": [
+              "Assurez-vous que votre voiture est prête pour l'hiver (antigel, etc.).",
+              "Un gratte-givre est essentiel si vous passez la nuit à Lourdes.",
+              "Les frais de parking sont souvent réduits ou suspendus pendant les mois d'hiver.",
+              "Conduisez prudemment sur les routes ombragées menant au Pic du Jer.",
+              "Utilisez les sièges chauffants après de longues périodes de visite à pied."
             ]
           }
         }
@@ -1827,7 +2013,8 @@
             "de": "Der 'Citybus' hält direkt am Eingang des Heiligtums.",
             "hu": "A Citybus közvetlenül a szentély bejáratánál áll meg.",
             "ro": "Citybus oprește chiar la intrarea în sanctuar.",
-            "en": "The 'Citybus' stops right at the sanctuary entrance."
+            "en": "The 'Citybus' stops right at the sanctuary entrance.",
+            "fr": "Le 'Citybus' s'arrête juste à l'entrée du sanctuaire."
           }
         },
         {
@@ -1845,7 +2032,8 @@
             "de": "Bewundern Sie die Architektur der drei Ebenen.",
             "hu": "Csodálja meg a három szint építészetét.",
             "ro": "Admirați arhitectura celor trei niveluri suprapuse.",
-            "en": "Admire the unique architecture of the three levels."
+            "en": "Admire the unique architecture of the three levels.",
+            "fr": "Admirez l'architecture unique sur trois niveaux superposés."
           }
         },
         {
@@ -1863,7 +2051,8 @@
             "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
             "hu": "Csak rövid séta a legközelebbi buszmegállótól.",
             "ro": "La doar câțiva pași de cea mai apropiată stație de autobuz.",
-            "en": "Just a short walk from the nearest bus stop."
+            "en": "Just a short walk from the nearest bus stop.",
+            "fr": "À seulement quelques pas de l'arrêt de bus le plus proche."
           }
         },
         {
@@ -1881,7 +2070,8 @@
             "de": "Hinter dem Museum geht es direkt zur Burg.",
             "hu": "A múzeum mögött közvetlen út vezet a vár felé.",
             "ro": "În spatele muzeului este drumul spre cetate.",
-            "en": "A direct path leads to the fortress from behind the museum."
+            "en": "A direct path leads to the fortress from behind the museum.",
+            "fr": "Un chemin direct mène au château depuis l'arrière du musée."
           }
         },
         {
@@ -1899,7 +2089,8 @@
             "de": "Die Linie L2 bringt Sie direkt zur Talstation.",
             "hu": "Az L2-es buszjárat közvetlenül a siklóhoz viszi.",
             "ro": "Linia L2 vă duce direct la baza funicularului.",
-            "en": "Bus line L2 takes you directly to the funicular station."
+            "en": "Bus line L2 takes you directly to the funicular station.",
+            "fr": "La ligne de bus L2 vous dépose directement à la gare du funiculaire."
           }
         }
       ],
@@ -1907,7 +2098,8 @@
         "de": "Nutzen Sie das effiziente Bussystem von Lourdes, um die Highlights zu sehen. Vom religiösen Zentrum geht es zum Wachsfigurenmuseum und zur alten Festung. Am späten Nachmittag bringt Sie der Bus zum Pic du Jer, um den Tag mit einem Blick über die Gipfel der Pyrenäen abzuschließen.",
         "hu": "Használja Lourdes hatékony buszhálózatát a látnivalók eléréséhez. A vallási központtól a Viaszmúzeumhoz, majd a várba látogat el. Késő délután busszal mehet a Pic du Jer-hez, hogy a napot a Pireneusok csúcsaira nyíló kilátással zárja.",
         "ro": "Folosiți rețeaua eficientă de autobuze din Lourdes pentru a vedea atracțiile principale. De la centrul religios mergeți la Muzeul de Ceară și la cetate. După-amiaza târziu, autobuzul vă duce la Pic du Jer pentru a încheia ziua cu o vedere superbă.",
-        "en": "Use Lourdes' efficient bus network to reach all highlights. From the religious center, head to the Wax Museum and the old fortress. In the late afternoon, the bus will take you to Pic du Jer to end the day with a view over the Pyrenean peaks."
+        "en": "Use Lourdes' efficient bus network to reach all highlights. From the religious center, head to the Wax Museum and the old fortress. In the late afternoon, the bus will take you to Pic du Jer to end the day with a view over the Pyrenean peaks.",
+        "fr": "Utilisez le réseau efficace de bus de Lourdes pour atteindre tous les points forts. Depuis le centre religieux, dirigez-vous vers le Musée de Cire et le vieux château fort. En fin d'après-midi, le bus vous emmènera au Pic du Jer pour terminer la journée avec une vue sur les sommets pyrénéens."
       },
       "gastro_picks": {
         "de": [
@@ -1932,6 +2124,12 @@
           {
             "name": "Le Little de Lourdes",
             "tip": "Cozy bistro with great service near the sanctuary."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Little de Lourdes",
+            "tip": "Bistrot chaleureux avec un excellent service près du sanctuaire."
           }
         ]
       },
@@ -1963,6 +2161,13 @@
             "tip": "Botanical garden inside the castle with views.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin du Château",
+            "tip": "Jardin botanique à l'intérieur du château avec vue.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1988,6 +2193,12 @@
           {
             "name": "Souvenir Stalls",
             "tip": "Many shops along Avenue Monseigneur Schoepfer."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Stands de souvenirs",
+            "tip": "Nombreuses boutiques le long de l'avenue Monseigneur Schoepfer."
           }
         ]
       },
@@ -2015,6 +2226,12 @@
           "Buses run until late evening during the peak season.",
           "Bus stops are clearly marked throughout the town.",
           "Some lines run less frequently during lunch hours."
+        ],
+        "fr": [
+          "Achetez un pass journée pour le Citybus directement auprès du chauffeur.",
+          "Les bus circulent jusqu'à tard en soirée pendant la haute saison.",
+          "Les arrêts de bus sont clairement indiqués dans toute la ville.",
+          "Certaines lignes circulent moins fréquemment pendant les heures de déjeuner."
         ]
       },
       "variants": {
@@ -2186,7 +2403,8 @@
             "de": "Wir nutzen den Stadtbus, um das Heiligtum im Regen zu erreichen. Nach der Basilika besuchen wir das Wachsfigurenmuseum, das bequem per Bus erreichbar ist. Am Nachmittag fahren wir zur Burg und zum Pic du Jer, wobei wir die Wartezeiten an überdachten Haltestellen verbringen.",
             "hu": "A városi buszt használjuk, hogy esőben érjük el a szentélyt. A bazilika után meglátogatjuk a Viaszmúzeumot, amely busszal könnyen megközelíthető. Délután a várhoz és a Pic du Jer-hez utazunk, a várakozási időt fedett megállókban töltve.",
             "ro": "Folosim autobuzul urban pentru a ajunge la sanctuar pe ploaie. După basilică vizităm Muzeul de Ceară, ușor accesibil cu autobuzul. După-amiaza mergem la castel și la Pic du Jer, așteptând în stații acoperite.",
-            "en": "We use the city bus to reach the sanctuary during the rain. After the basilica, we visit the Wax Museum, which is easily accessible by bus. In the afternoon, we travel to the castle and Pic du Jer, spending waiting times at covered stops."
+            "en": "We use the city bus to reach the sanctuary during the rain. After the basilica, we visit the Wax Museum, which is easily accessible by bus. In the afternoon, we travel to the castle and Pic du Jer, spending waiting times at covered stops.",
+            "fr": "Nous utilisons le bus urbain pour rejoindre le sanctuaire sous la pluie. Après la basilique, nous visitons le Musée de Cire, facilement accessible en bus. L'après-midi, nous voyageons vers le château et le Pic du Jer, en passant les temps d'attente sous des abribus couverts."
           },
           "stops": [
             {
@@ -2195,7 +2413,8 @@
                 "de": "Die Bushaltestelle 'Place Monseigneur Laurence' ist ganz nah am Eingang.",
                 "hu": "A 'Place Monseigneur Laurence' buszmegálló nagyon közel van a bejárathoz.",
                 "ro": "Stația de autobuz 'Place Monseigneur Laurence' este foarte aproape de intrare.",
-                "en": "The bus stop 'Place Monseigneur Laurence' is very close to the main entrance."
+                "en": "The bus stop 'Place Monseigneur Laurence' is very close to the main entrance.",
+                "fr": "L'arrêt 'Place Monseigneur Laurence' est tout proche de l'entrée principale."
               }
             },
             {
@@ -2204,7 +2423,8 @@
                 "de": "Ein kurzer Fußweg vom Bus; halten Sie den Schirm bereit.",
                 "hu": "Rövid séta a busztól; tartsa készenlétben az esernyőjét.",
                 "ro": "Drum scurt de la autobuz; țineți umbrela la îndemână.",
-                "en": "A short walk from the bus stop; keep your umbrella ready for the transfer."
+                "en": "A short walk from the bus stop; keep your umbrella ready for the transfer.",
+                "fr": "À quelques pas de l'arrêt ; gardez votre parapluie prêt pour le transfert."
               }
             },
             {
@@ -2213,7 +2433,8 @@
                 "de": "Mehrere Buslinien halten direkt in der Nähe dieses Indoor-Highlights.",
                 "hu": "Számos buszjárat áll meg közvetlenül ezen beltéri látnivaló közelében.",
                 "ro": "Mai multe linii de autobuz opresc chiar lângă această atracție interioară.",
-                "en": "Several bus lines stop directly near this major indoor attraction."
+                "en": "Several bus lines stop directly near this major indoor attraction.",
+                "fr": "Plusieurs lignes de bus s'arrêtent directement près de ce musée."
               }
             },
             {
@@ -2222,7 +2443,8 @@
                 "de": "Nutzen Sie den Aufzug zur Burg, um den nassen Anstieg zu vermeiden.",
                 "hu": "Használja a várliftet, hogy elkerülje a vizes és meredek feljutást.",
                 "ro": "Folosiți liftul castelului pentru a evita urcarea umedă și abruptă.",
-                "en": "Use the castle elevator to avoid a wet and steep climb on foot."
+                "en": "Use the castle elevator to avoid a wet and steep climb on foot.",
+                "fr": "Utilisez l'ascenseur du château pour éviter une montée raide et humide à pied."
               }
             },
             {
@@ -2231,7 +2453,8 @@
                 "de": "Der Bus L1 bringt Sie direkt zur Talstation der Seilbahn.",
                 "hu": "Az L1-es busz közvetlenül a sikló völgyállomásához viszi önt.",
                 "ro": "Autobuzul L1 vă duce direct la stația de bază a funicularului.",
-                "en": "Bus line L1 takes you directly to the lower funicular station."
+                "en": "Bus line L1 takes you directly to the lower funicular station.",
+                "fr": "La ligne L1 vous emmène directement à la gare inférieure du funiculaire."
               }
             }
           ],
@@ -2263,6 +2486,13 @@
               "Wear layers that are easy to remove in the heated public buses.",
               "Have small change or a contactless card ready for ticket purchase.",
               "Utilize the train station waiting area for longer transit connections."
+            ],
+            "fr": [
+              "Vérifiez à l'avance les horaires des lignes L1 et L2 par temps de pluie.",
+              "L'application Citybus donne les mises à jour en temps réel lors des intempéries.",
+              "Portez des vêtements faciles à retirer dans les bus publics chauffés.",
+              "Prévoyez de la monnaie ou une carte sans contact pour l'achat des tickets.",
+              "Utilisez la salle d'attente de la gare pour les correspondances plus longues."
             ]
           }
         },
@@ -2271,7 +2501,8 @@
             "de": "Wir nutzen den warmen Stadtbus für den Weg zum Heiligtum am Wintermorgen. Nach der Basilika besuchen wir das Wachsfigurenmuseum und fahren dann zur Burg. Am Nachmittag bringt uns der Bus zum Pic du Jer für den Blick auf die verschneiten Berge, bevor wir den Tag in der Stadt beenden.",
             "hu": "A meleg városi buszt használjuk a szentélyhez a téli reggelen. A bazilika után meglátogatjuk a Viaszmúzeumot, majd a várhoz utazunk. Délután busszal megyünk a Pic du Jer-hez a havas hegyi kilátásért, mielőtt a városban zárnánk a napot.",
             "ro": "Folosim autobuzul urban încălzit pentru a merge la sanctuar într-o dimineață de iarnă. După basilică vizităm Muzeul de Ceară, apoi mergem la castel. După-amiaza luăm autobuzul spre Pic du Jer pentru priveliștea montană înzăpezită.",
-            "en": "We use the warm city bus to reach the sanctuary on a cold winter morning. After the basilica, we visit the Wax Museum and then travel to the castle. In the afternoon, the bus takes us to Pic du Jer for the snowy mountain views before ending the day in town."
+            "en": "We use the warm city bus to reach the sanctuary on a cold winter morning. After the basilica, we visit the Wax Museum and then travel to the castle. In the afternoon, the bus takes us to Pic du Jer for the snowy mountain views before ending the day in town.",
+            "fr": "Nous profitons du bus de ville bien chauffé pour rejoindre le sanctuaire par un froid matin d'hiver. Après la basilique, nous visitons le Musée de Cire puis nous rendons au château. L'après-midi, le bus nous emmène au Pic du Jer pour admirer les montagnes enneigées avant de finir en ville."
           },
           "stops": [
             {
@@ -2280,7 +2511,8 @@
                 "de": "Die Busse fahren im Winter etwas seltener; planen Sie genau.",
                 "hu": "A buszok télen ritkábban járnak; tervezze meg pontosan az utat.",
                 "ro": "Autobuzele circulă ceva mai rar iarna; planificați-vă timpul cu grijă.",
-                "en": "Buses run slightly less frequently in winter; plan your trip carefully."
+                "en": "Buses run slightly less frequently in winter; plan your trip carefully.",
+                "fr": "Les bus passent un peu moins souvent en hiver ; planifiez bien votre trajet."
               }
             },
             {
@@ -2289,7 +2521,8 @@
                 "de": "Wärmen Sie sich in der Basilika auf, bevor Sie zum Bus zurückkehren.",
                 "hu": "Melegedjen fel a bazilikában, mielőtt visszatérne a buszhoz.",
                 "ro": "Încălziți-vă în basilică înainte de a vă întoarce la autobuz.",
-                "en": "Warm up inside the basilica before returning to the cold bus stop."
+                "en": "Warm up inside the basilica before returning to the cold bus stop.",
+                "fr": "Réchauffez-vous dans la basilique avant de retourner à l'arrêt de bus."
               }
             },
             {
@@ -2298,7 +2531,8 @@
                 "de": "Ein kurzer Fußweg von der Haltestelle; achten Sie auf glatte Stellen.",
                 "hu": "Rövid séta a megállótól; ügyeljen a csúszós útszakaszokra.",
                 "ro": "Drum scurt de la stație; atenție la porțiunile alunecoase.",
-                "en": "A short walk from the stop; watch out for icy patches on the sidewalk."
+                "en": "A short walk from the stop; watch out for icy patches on the sidewalk.",
+                "fr": "À quelques pas de l'arrêt ; attention aux zones verglacées sur le trottoir."
               }
             },
             {
@@ -2307,7 +2541,8 @@
                 "de": "Der Bus hält am Fuße der Burg; nutzen Sie den Schrägaufzug.",
                 "hu": "A busz a vár lábánál áll meg; használja a ferde liftet.",
                 "ro": "Autobuzul oprește la baza castelului; folosiți liftul înclinat.",
-                "en": "The bus stops at the base of the castle; use the inclined elevator."
+                "en": "The bus stops at the base of the castle; use the inclined elevator.",
+                "fr": "Le bus s'arrête au pied du château ; empruntez l'ascenseur incliné."
               }
             },
             {
@@ -2316,7 +2551,8 @@
                 "de": "Der Bus L1 ist die beste Verbindung zur Seilbahn im Winter.",
                 "hu": "Az L1-es busz a legjobb összeköttetés a siklóhoz télen.",
                 "ro": "Autobuzul L1 este cea mai bună conexiune către funicular iarna.",
-                "en": "Bus line L1 is the best connection to the funicular during winter months."
+                "en": "Bus line L1 is the best connection to the funicular during winter months.",
+                "fr": "La ligne L1 est la meilleure connexion vers le funiculaire en hiver."
               }
             }
           ],
@@ -2348,6 +2584,13 @@
               "Use the transit app to minimize waiting time at cold outdoor stops.",
               "Wear warm, insulated shoes for the short walks between stops.",
               "Buses are much less crowded in winter compared to the pilgrimage peak."
+            ],
+            "fr": [
+              "Les bus sont bien chauffés et très confortables durant la saison d'hiver.",
+              "Attention aux horaires de départ avancés pour les derniers bus en hiver.",
+              "Utilisez l'application de transport pour minimiser l'attente aux arrêts.",
+              "Portez des chaussures chaudes pour les courts trajets à pied entre les arrêts.",
+              "Les bus sont beaucoup moins bondés en hiver qu'au pic des pèlerinages."
             ]
           }
         }

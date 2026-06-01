@@ -36,7 +36,8 @@
             "de": "Betrachten Sie das Tympanon des Jüngsten Gerichts im Detail.",
             "hu": "Figyelje meg alaposan az Utolsó Ítélet domborművét a bejáratnál.",
             "ro": "Observați detaliile timpanului Judecății de Apoi la intrare.",
-            "en": "Carefully observe the Last Judgment tympanum at the entrance."
+            "en": "Carefully observe the Last Judgment tympanum at the entrance.",
+            "fr": "Observez attentivement le tympan du Jugement dernier à l'entrée."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Die goldene Statue der Heiligen Foy ist das absolute Highlight.",
             "hu": "Szent Foy aranyszobra a gyűjtemény legfontosabb darabja.",
             "ro": "Statuia de aur a Sfintei Foy este piesa centrală a colecției.",
-            "en": "The golden Majesty of Sainte Foy is the crown jewel of the collection."
+            "en": "The golden Majesty of Sainte Foy is the crown jewel of the collection.",
+            "fr": "La Majesté d'or de Sainte Foy est le joyau de la collection."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Suchen Sie nach den traditionellen Fachwerkhäusern.",
             "hu": "Keresse a hagyományos gerendavázas házakat a szűk utcákban.",
             "ro": "Căutați casele tradiționale cu bârne de lemn pe străzile înguste.",
-            "en": "Look for the traditional half-timbered houses along the narrow paths."
+            "en": "Look for the traditional half-timbered houses along the narrow paths.",
+            "fr": "Cherchez les maisons traditionnelles à colombages le long des sentiers étroits."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Bester Panoramablick auf das gesamte Dorf Conques.",
             "hu": "Innen nyílik a legjobb panoráma az egész falura.",
             "ro": "Cea mai bună vedere panoramică asupra întregului sat.",
-            "en": "Best panoramic view of the entire village from this point."
+            "en": "Best panoramic view of the entire village from this point.",
+            "fr": "La meilleure vue panoramique sur tout le village depuis ce point."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Ein UNESCO-Welterbe-Teil des Jakobswegs.",
             "hu": "Az UNESCO Világörökség része, a Szent Jakab-út állomása.",
             "ro": "Parte a patrimoniului UNESCO, pe drumul spre Santiago.",
-            "en": "A UNESCO World Heritage site on the Camino de Santiago."
+            "en": "A UNESCO World Heritage site on the Camino de Santiago.",
+            "fr": "Un site classé au patrimoine mondial de l'UNESCO sur le chemin de Compostelle."
           }
         }
       ],
@@ -136,7 +141,8 @@
         "de": "Beginnen Sie Ihren Tag in der mystischen Atmosphäre der Abtei Sainte-Foy, einem Meisterwerk der Romanik. Bewundern Sie den legendären Goldschatz, bevor Sie durch die steilen, mittelalterlichen Gassen schlendern. Ein Aufstieg zur Kapelle Sainte-Roch belohnt Sie mit einer postkartenreifen Aussicht. Den Abschluss bildet der friedliche Spaziergang zur historischen Pilgerbrücke im Tal.",
         "hu": "Kezdje a napot a Szent Foy apátság misztikus falai között, amely a román építészet remekműve. Csodálja meg a világhírű aranykincset, majd kalandozzon a meredek, középkori utcákon. A Szent Rókus-kápolnához vezető séta képeslapszerű kilátást kínál a völgyre. A napot a Dourdou folyó feletti történelmi zarándokhídnál, a béke szigetén zárhatja.",
         "ro": "Începeți ziua în atmosfera mistică a Abației Sainte-Foy, o capodoperă a artei romanice. Admirați legendarul tezaur de aur înainte de a hoinări pe străzile medievale abrupte. O urcare la Capela Sainte-Roch vă va răsplăti cu o vedere de carte poștală. Încheiați ziua cu o plimbare liniștită spre podul istoric al pelerinilor de pe malul râului Dourdou.",
-        "en": "Start your day in the mystical atmosphere of Sainte-Foy Abbey, a Romanesque masterpiece. Admire the legendary golden treasury before wandering through the steep, medieval alleys. A climb to the Sainte-Roch Chapel rewards you with a postcard-perfect view of the village. Finish your journey with a peaceful walk to the historic Pilgrims Bridge down in the valley."
+        "en": "Start your day in the mystical atmosphere of Sainte-Foy Abbey, a Romanesque masterpiece. Admire the legendary golden treasury before wandering through the steep, medieval alleys. A climb to the Sainte-Roch Chapel rewards you with a postcard-perfect view of the village. Finish your journey with a peaceful walk to the historic Pilgrims Bridge down in the valley.",
+        "fr": "Commencez votre journée dans l'atmosphère mystique de l'Abbatiale Sainte-Foy, un chef-d'œuvre roman. Admirez le légendaire trésor d'or avant de flâner dans les ruelles médiévales escarpées. Une montée à la chapelle Sainte-Roch vous récompensera par une vue digne d'une carte postale sur le village. Terminez votre périple par une promenade paisible jusqu'au pont historique des Pèlerins, en bas dans la vallée."
       },
       "gastro_picks": {
         "de": [
@@ -177,6 +183,16 @@
           {
             "name": "Gâteau à la broche",
             "tip": "Spit-roasted cake, a local mountain specialty."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Estofinado",
+            "tip": "Plat traditionnel de l'Aveyron à base de morue séchée et de pommes de terre."
+          },
+          {
+            "name": "Gâteau à la broche",
+            "tip": "Gâteau cuit au feu de bois, une spécialité locale de montagne."
           }
         ]
       },
@@ -228,6 +244,18 @@
             "tip": "Perfect for a meditative pause by the stream.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Point de vue du Bancarel",
+            "tip": "Un endroit calme surplombant l'ensemble du village.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rives du Dourdou",
+            "tip": "Parfait pour une pause méditative au bord du ruisseau.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -270,6 +298,16 @@
             "name": "Local Aveyron Honey",
             "tip": "Unique honey from local beekeepers."
           }
+        ],
+        "fr": [
+          {
+            "name": "Souvenirs de pèlerins",
+            "tip": "Coquilles Saint-Jacques artisanales et bâtons de marche."
+          },
+          {
+            "name": "Miel local de l'Aveyron",
+            "tip": "Miel unique provenant d'apiculteurs locaux."
+          }
         ]
       },
       "tips": {
@@ -296,6 +334,12 @@
           "Visit the abbey early in the morning to enjoy the true silence.",
           "Parking is located outside the village; allow time for the walk in.",
           "Check for the light show on the abbey facade during summer nights."
+        ],
+        "fr": [
+          "Portez des chaussures robustes pour les rues pavées escarpées et inégales.",
+          "Visitez l'abbatiale tôt le matin pour profiter du véritable silence.",
+          "Le parking est situé à l'extérieur du village ; prévoyez du temps pour la marche d'accès.",
+          "Vérifiez les horaires du spectacle de lumière sur la façade de l'abbatiale lors des nuits d'été."
         ]
       },
       "variants": {
@@ -544,7 +588,8 @@
             "de": "Morgens bietet die Abtei Schutz vor dem Regen. Mittags genießen Sie lokale Spezialitäten in einer gemütlichen Herberge. Nachmittags führt der Weg zur Kapelle durch mystischen Nebel. Abends spiegelt sich das Licht der Laternen in den nassen Gassen von Conques.",
             "hu": "Reggel az apátság nyújt menedéket az eső elől. Délben egy hangulatos fogadóban kóstolhatja meg a helyi ízeket. Délután misztikus ködbe burkolózva sétálhat a kápolnához. Este a lámpások fénye csillog Conques nedves macskakövein.",
             "ro": "Dimineața, abatia oferă adăpost împotriva ploii. La prânz, savurați specialități locale într-o tavernă primitoare. După-amiaza, drumul spre capelă este învăluit în ceață mistică. Seara, lumina felinarelor se oglindește pe străzile ude din Conques.",
-            "en": "Morning finds you sheltered within the Abbey's walls. At noon, enjoy local flavors in a cozy stone inn. Afternoon walks to the chapel are accompanied by a mystical valley mist. In the evening, streetlights reflect beautifully on Conques' wet cobblestones."
+            "en": "Morning finds you sheltered within the Abbey's walls. At noon, enjoy local flavors in a cozy stone inn. Afternoon walks to the chapel are accompanied by a mystical valley mist. In the evening, streetlights reflect beautifully on Conques' wet cobblestones.",
+            "fr": "La matinée vous trouve à l'abri entre les murs de l'abbatiale. À midi, savourez les saveurs locales dans une auberge en pierre chaleureuse. Les promenades de l'après-midi vers la chapelle s'accompagnent d'une brume mystique dans la vallée. Le soir, les lampadaires se reflètent magnifiquement sur les pavés mouillés de Conques."
           },
           "stops": [
             {
@@ -553,7 +598,8 @@
                 "de": "Bewundern Sie das Tympanon unter dem schützenden Vorbau.",
                 "hu": "Csodálja meg a timpanont a védett előcsarnok alatt.",
                 "ro": "Admirați timpanonul sub pridvorul protector.",
-                "en": "Admire the tympanum while standing under the protective porch."
+                "en": "Admire the tympanum while standing under the protective porch.",
+                "fr": "Admirez le tympan en vous tenant sous le porche protecteur."
               }
             },
             {
@@ -562,7 +608,8 @@
                 "de": "Perfekter Ort, um dem Regen für eine Stunde zu entfliehen.",
                 "hu": "Tökéletes hely, hogy egy órára elmeneküljön az eső elől.",
                 "ro": "Locul perfect pentru a scăpa de ploaie timp de o oră.",
-                "en": "The perfect indoor sanctuary to escape the rain for an hour."
+                "en": "The perfect indoor sanctuary to escape the rain for an hour.",
+                "fr": "Le sanctuaire intérieur parfait pour échapper à la pluie pendant une heure."
               }
             },
             {
@@ -571,7 +618,8 @@
                 "de": "Suchen Sie ein Restaurant mit einem prasselnden Kaminfeuer.",
                 "hu": "Keressen egy éttermet, ahol pattog a tűz a kandallóban.",
                 "ro": "Căutați un restaurant cu foc în șemineu.",
-                "en": "Look for a restaurant with a crackling fireplace."
+                "en": "Look for a restaurant with a crackling fireplace.",
+                "fr": "Cherchez un restaurant avec une cheminée crépitante."
               }
             },
             {
@@ -580,7 +628,8 @@
                 "de": "Vorsicht, die steilen Pfade können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a meredek ösvények nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, potecile abrupte pot fi alunecoase când sunt ude.",
-                "en": "Careful, the steep paths can be slippery when wet."
+                "en": "Careful, the steep paths can be slippery when wet.",
+                "fr": "Attention, les chemins escarpés peuvent être glissants lorsqu'ils sont mouillés."
               }
             },
             {
@@ -589,7 +638,8 @@
                 "de": "Der Nebel über dem Fluss sorgt für eine tolle Atmosphäre.",
                 "hu": "A folyó feletti köd különleges hangulatot áraszt.",
                 "ro": "Ceața de peste râu creează o atmosferă deosebită.",
-                "en": "The mist over the river creates a hauntingly beautiful scene."
+                "en": "The mist over the river creates a hauntingly beautiful scene.",
+                "fr": "La brume sur la rivière crée une scène d'une beauté envoûtante."
               }
             }
           ],
@@ -617,6 +667,12 @@
               "A compact umbrella is easier to manage in the narrow alleys.",
               "Time your visit to the Treasury for the heaviest downpour.",
               "The interior of the Abbey offers plenty of dry spots to rest."
+            ],
+            "fr": [
+              "Portez des bottes avec une bonne adhérence pour les pierres médiévales glissantes.",
+              "Un parapluie compact est plus facile à manipuler dans les ruelles étroites.",
+              "Planifiez votre visite au Trésor pendant les plus fortes averses.",
+              "L'intérieur de l'abbatiale offre de nombreux endroits secs pour se reposer."
             ]
           }
         },
@@ -625,7 +681,8 @@
             "de": "Der Morgen beginnt mit Reif auf den Dächern und klarer Luft. Mittags wärmt ein kräftiges Aligot den Körper auf. Nachmittags taucht die tiefstehende Sonne das Gold der Reliquien in warmes Licht. Abends kehrt in das winterliche Dorf frühe Stille ein.",
             "hu": "A reggel dérlepte tetőkkel és friss, tiszta levegővel indul. Délben egy laktató aligot melegíti fel a testet. Délután az alacsony napfény különleges fénnyel világítja meg a relikviákat. Este korán leszáll a csend a téli falura.",
             "ro": "Dimineața începe cu brumă pe acoperișuri și aer curat. La prânz, un aligot consistent vă va încălzi corpul. După-amiaza, soarele palid luminează aurul relicvelor. Seara, liniștea se așterne devreme peste satul de iarnă.",
-            "en": "Morning begins with frost on the rooftops and crisp, clear air. At noon, a hearty Aligot will warm your soul. In the afternoon, the low winter sun casts a golden glow on the relics. Evening brings an early, peaceful silence to the winter village."
+            "en": "Morning begins with frost on the rooftops and crisp, clear air. At noon, a hearty Aligot will warm your soul. In the afternoon, the low winter sun casts a golden glow on the relics. Evening brings an early, peaceful silence to the winter village.",
+            "fr": "Le matin commence par du givre sur les toits et un air frais et pur. À midi, un copieux Aligot réchauffera votre âme. L'après-midi, le bas soleil d'hiver jette une lueur dorée sur les reliques. Le soir apporte un silence paisible et précoce au village hivernal."
           },
           "stops": [
             {
@@ -634,7 +691,8 @@
                 "de": "Behalten Sie Ihren Mantel an, die Steinmauern speichern die Kälte.",
                 "hu": "Tartsa magán a kabátját, a kőfalak ontják a hideget.",
                 "ro": "Păstrați-vă haina, zidurile de piatră mențin frigul.",
-                "en": "Keep your coat on, as the stone walls hold the winter chill."
+                "en": "Keep your coat on, as the stone walls hold the winter chill.",
+                "fr": "Gardez votre manteau, car les murs de pierre conservent le froid de l'hiver."
               }
             },
             {
@@ -643,7 +701,8 @@
                 "de": "Das warme Licht im Inneren hebt das Gold der Majestät hervor.",
                 "hu": "A belső meleg fények gyönyörűen kiemelik az arany kegytárgyakat.",
                 "ro": "Lumina caldă din interior evidențiază aurul relicvelor.",
-                "en": "The warm indoor lighting highlights the gold of the Majesty."
+                "en": "The warm indoor lighting highlights the gold of the Majesty.",
+                "fr": "L'éclairage intérieur chaleureux met en valeur l'or de la Majesté."
               }
             },
             {
@@ -652,7 +711,8 @@
                 "de": "Probieren Sie unbedingt das Aligot, das perfekte Winteressen.",
                 "hu": "Mindenképpen kóstolja meg az aligot-t, a tökéletes téli ételt.",
                 "ro": "Încercați neapărat aligot, mâncarea perfectă de iarnă.",
-                "en": "Be sure to try Aligot, the perfect winter comfort food."
+                "en": "Be sure to try Aligot, the perfect winter comfort food.",
+                "fr": "N'oubliez pas de goûter l'Aligot, le plat réconfortant idéal en hiver."
               }
             },
             {
@@ -661,7 +721,8 @@
                 "de": "Genießen Sie den weiten Blick über das kahle Tal.",
                 "hu": "Élvezze a távoli kilátást a kopár völgy felett.",
                 "ro": "Bucurați-vă de vederea panoramică asupra văii desfrunzite.",
-                "en": "Enjoy the expansive views over the bare winter valley."
+                "en": "Enjoy the expansive views over the bare winter valley.",
+                "fr": "Profitez des vues dégagées sur la vallée hivernale dénudée."
               }
             },
             {
@@ -670,7 +731,8 @@
                 "de": "Vorsicht vor gefrorenen Stellen auf den alten Steinplatten.",
                 "hu": "Vigyázzon a fagyott foltokra a régi kőlapokon.",
                 "ro": "Atenție la porțiunile înghețate de pe dalele de piatră.",
-                "en": "Watch out for icy patches on the ancient stone slabs."
+                "en": "Watch out for icy patches on the ancient stone slabs.",
+                "fr": "Surveillez les plaques de verglas sur les anciennes dalles de pierre."
               }
             }
           ],
@@ -698,6 +760,12 @@
               "Dress in layers; the interior of the Abbey is quite cold.",
               "Some small shops may be closed during the off-season.",
               "Clear winter air provides the best visibility for valley photos."
+            ],
+            "fr": [
+              "Le soleil se couche dès 17h00 pendant les mois d'hiver.",
+              "Habillez-vous en plusieurs couches ; l'intérieur de l'abbatiale est assez froid.",
+              "Certaines petites boutiques peuvent être fermées hors saison.",
+              "L'air pur de l'hiver offre la meilleure visibilité pour les photos de la vallée."
             ]
           }
         }
@@ -731,7 +799,8 @@
             "de": "Schieben Sie das Rad in den engsten Gassen.",
             "hu": "A legszűkebb utcákban érdemes tolni a kerékpárt.",
             "ro": "Împingeți bicicleta pe străzile cele mai înguste.",
-            "en": "Walk your bike through the narrowest pedestrian alleys."
+            "en": "Walk your bike through the narrowest pedestrian alleys.",
+            "fr": "Poussez votre vélo dans les ruelles piétonnes les plus étroites."
           }
         },
         {
@@ -754,7 +823,8 @@
             "de": "Ein schöner Ort für ein erstes Foto im Tal.",
             "hu": "Kiváló helyszín az első völgybeli fotókhoz.",
             "ro": "Un loc perfect pentru primele fotografii din vale.",
-            "en": "A great spot for your first photos in the valley."
+            "en": "A great spot for your first photos in the valley.",
+            "fr": "Un excellent endroit pour vos premières photos dans la vallée."
           }
         },
         {
@@ -777,7 +847,8 @@
             "de": "Steiler Aufstieg, aber die Mühe lohnt sich.",
             "hu": "Meredek emelkedő, de a látvány megéri az erőfeszítést.",
             "ro": "Urcare abruptă, dar vederea merită tot efortul.",
-            "en": "Steep climb, but the view is worth every drop of sweat."
+            "en": "Steep climb, but the view is worth every drop of sweat.",
+            "fr": "Montée raide, mais la vue vaut chaque goutte de sueur."
           }
         },
         {
@@ -800,7 +871,8 @@
             "de": "Frische Luft und Rauschen des Wassers.",
             "hu": "Friss levegő és a folyó megnyugtató csobogása.",
             "ro": "Aer curat și sunetul relaxant al apei.",
-            "en": "Fresh air and the soothing sound of the flowing water."
+            "en": "Fresh air and the soothing sound of the flowing water.",
+            "fr": "Air frais et son apaisant de l'eau qui coule."
           }
         },
         {
@@ -823,7 +895,8 @@
             "de": "Kleine versteckte Kapelle oberhalb des Dorfes.",
             "hu": "Kicsi, rejtett kápolna a falu felett.",
             "ro": "O capelă mică și ascunsă deasupra satului.",
-            "en": "Small hidden chapel located above the village."
+            "en": "Small hidden chapel located above the village.",
+            "fr": "Petite chapelle cachée située au-dessus du village."
           }
         }
       ],
@@ -831,7 +904,8 @@
         "de": "Erkunden Sie Conques und seine hügelige Umgebung mit dem Fahrrad. Nach einem kurzen Besuch im Zentrum führt Sie der Weg hinunter zum Fluss und dann hinauf zum Bancarel-Aussichtspunkt für eine spektakuläre Perspektive. Genießen Sie die Abfahrt zurück ins Tal und ein entspanntes Picknick am Dourdou, bevor Sie den Tag an der charmanten Sainte-Anne-Kapelle ausklingen lassen.",
         "hu": "Fedezze fel Conquest és dombos környékét két keréken. A központ rövid bejárása után az út levezet a folyóhoz, majd fel a Bancarel kilátóhoz a látványos panorámáért. Élvezze a gurulást vissza a völgybe, és töltsön el egy kellemes pikniket a Dourdou partján, mielőtt befejezné a túrát a bájos Szent Anna-kápolnánál.",
         "ro": "Explorați Conques și împrejurimile sale deluroase cu bicicleta. După o scurtă vizită în centru, drumul vă duce la râu și apoi sus la punctul de belvedere Bancarel pentru o perspectivă spectaculoasă. Bucurați-vă de coborârea în vale și de un picnic relaxat pe malul râului Dourdou, înainte de a încheia ziua la fermecătoarea capelă Sainte-Anne.",
-        "en": "Explore Conques and its hilly surroundings by bike. After a quick stop in the center, the path leads you down to the river and then up to the Bancarel viewpoint for a spectacular perspective. Enjoy the glide back into the valley and a relaxed picnic by the Dourdou before finishing your trip at the charming Sainte-Anne chapel."
+        "en": "Explore Conques and its hilly surroundings by bike. After a quick stop in the center, the path leads you down to the river and then up to the Bancarel viewpoint for a spectacular perspective. Enjoy the glide back into the valley and a relaxed picnic by the Dourdou before finishing your trip at the charming Sainte-Anne chapel.",
+        "fr": "Explorez Conques et ses environs vallonnés à vélo. Après un court arrêt au centre, le chemin vous mène vers la rivière puis remonte jusqu'au point de vue du Bancarel pour une perspective spectaculaire. Profitez de la descente vers la vallée et d'un pique-nique décontracté au bord du Dourdou avant de terminer votre voyage à la charmante chapelle Sainte-Anne."
       },
       "gastro_picks": {
         "de": [
@@ -856,6 +930,12 @@
           {
             "name": "L'Auberge de la Treille",
             "tip": "Ideal for a break with hearty local snacks."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Auberge de la Treille",
+            "tip": "Idéal pour une pause avec de copieux en-cas locaux."
           }
         ]
       },
@@ -887,6 +967,13 @@
             "tip": "Quiet path along the river's curve.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Boucle du Dourdou",
+            "tip": "Sentier tranquille le long de la courbe de la rivière.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -912,6 +999,12 @@
           {
             "name": "Farm Shop",
             "tip": "Regional cured meats and cheeses."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutique de la ferme",
+            "tip": "Charcuteries et fromages régionaux."
           }
         ]
       },
@@ -939,6 +1032,12 @@
           "Check your brakes before the long descents into the valley.",
           "Carry plenty of water as there are few fountains on the way.",
           "Stick to the marked paths to protect the local environment."
+        ],
+        "fr": [
+          "Un vélo électrique est fortement recommandé en raison des pentes raides.",
+          "Vérifiez vos freins avant les longues descentes vers la vallée.",
+          "Emportez beaucoup d'eau car il y a peu de fontaines sur le chemin.",
+          "Restez sur les sentiers balisés pour protéger l'environnement local."
         ]
       },
       "variants": {
@@ -1135,7 +1234,8 @@
             "de": "Die Fahrt beginnt im Dorf mit nassen Reifen. Mittags suchen Sie Schutz unter der Dourdou-Brücke. Nachmittags ist die Sicht am Aussichtspunkt eingeschränkt, aber dramatisch. Abends wärmen Sie sich nach der Tour im Hotel auf.",
             "hu": "A túra vizes gumiabroncsokkal indul a faluból. Délben a Dourdou-híd alatt kereshet menedéket. Délután a kilátás korlátozott, de drámai a köd miatt. Este a túra után jól esik majd a felmelegedés a szálláson.",
             "ro": "Traseul începe în sat cu pneuri ude. La prânz, căutați adăpost sub podul Dourdou. După-amiaza, vizibilitatea la punctul de belvedere este redusă, dar dramatică. Seara, vă veți încălzi la hotel după tur.",
-            "en": "The ride starts in the village with wet tires. At noon, seek shelter under the Dourdou bridge. In the afternoon, views from the lookout are limited but dramatic. In the evening, warm up at your hotel after the wet tour."
+            "en": "The ride starts in the village with wet tires. At noon, seek shelter under the Dourdou bridge. In the afternoon, views from the lookout are limited but dramatic. In the evening, warm up at your hotel after the wet tour.",
+            "fr": "Le tour commence dans le village avec des pneus mouillés. À midi, cherchez refuge sous le pont du Dourdou. L'après-midi, les vues depuis le belvédère sont limitées mais dramatiques. Le soir, réchauffez-vous à votre hôtel après cette excursion humide."
           },
           "stops": [
             {
@@ -1144,7 +1244,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie die nassen Hänge hinabfahren.",
                 "hu": "Ellenőrizze a fékeket, mielőtt elindul a nedves lejtőkön.",
                 "ro": "Verificați frânele înainte de a coborî pantele ude.",
-                "en": "Check your brakes thoroughly before descending the wet hills."
+                "en": "Check your brakes thoroughly before descending the wet hills.",
+                "fr": "Vérifiez soigneusement vos freins avant de descendre les collines mouillées."
               }
             },
             {
@@ -1153,7 +1254,8 @@
                 "de": "Die alten Steine des Brückenbogens bieten guten Regenschutz.",
                 "hu": "A híd ívének régi kövei jó védelmet nyújtanak az eső ellen.",
                 "ro": "Pietrele vechi ale podului oferă o bună protecție contra ploii.",
-                "en": "The old stones of the bridge arch provide good shelter from rain."
+                "en": "The old stones of the bridge arch provide good shelter from rain.",
+                "fr": "Les vieilles pierres de l'arche du pont offrent un bon abri contre la pluie."
               }
             },
             {
@@ -1162,7 +1264,8 @@
                 "de": "Vorsicht beim Absteigen, der Boden am Aussichtspunkt ist matschig.",
                 "hu": "Vigyázzon a leszálláskor, a talaj a kilátónál sáros lehet.",
                 "ro": "Atenție la coborâre, solul la punctul de belvedere este noroios.",
-                "en": "Watch your footing; the ground at the viewpoint is muddy."
+                "en": "Watch your footing; the ground at the viewpoint is muddy.",
+                "fr": "Faites attention où vous posez les pieds ; le sol au belvédère est boueux."
               }
             },
             {
@@ -1171,7 +1274,8 @@
                 "de": "Picknick im Regen? Nutzen Sie den Schutz der Bäume.",
                 "hu": "Piknik az esőben? Használja ki a fák nyújtotta védelmet.",
                 "ro": "Picnic în ploaie? Folosiți adăpostul oferit de copaci.",
-                "en": "Picnic in the rain? Use the natural shelter of the trees."
+                "en": "Picnic in the rain? Use the natural shelter of the trees.",
+                "fr": "Un pique-nique sous la pluie ? Utilisez l'abri naturel des arbres."
               }
             },
             {
@@ -1180,7 +1284,8 @@
                 "de": "Ein ruhiger Ort, um die Regenkleidung kurz zu lüften.",
                 "hu": "Csendes hely, ahol rövid időre leveheti az esőkabátot.",
                 "ro": "Un loc liniștit pentru a vă aerisi puțin pelerina de ploaie.",
-                "en": "A quiet place to briefly vent your rain gear."
+                "en": "A quiet place to briefly vent your rain gear.",
+                "fr": "Un endroit calme pour aérer brièvement vos vêtements de pluie."
               }
             }
           ],
@@ -1208,6 +1313,12 @@
               "Avoid sudden braking on the cobblestone sections.",
               "A high-quality rain poncho is essential for cycling today.",
               "Bike lights are crucial if mist descends into the valley."
+            ],
+            "fr": [
+              "Roulez prudemment ; les routes de l'Aveyron sont glissantes quand il pleut.",
+              "Évitez les freinages brusques sur les sections pavées.",
+              "Un poncho de pluie de haute qualité est essentiel pour pédaler aujourd'hui.",
+              "L'éclairage du vélo est crucial si la brume descend dans la vallée."
             ]
           }
         },
@@ -1216,7 +1327,8 @@
             "de": "Der frostige Morgen erfordert warme Handschuhe für die Abfahrt. Mittags glitzert der Dourdou in der Wintersonne. Nachmittags ist die Fernsicht vom Bancarel-Aussichtspunkt atemberaubend klar. Abends endet die Tour, bevor der Boden gefriert.",
             "hu": "A fagyos reggel meleg kesztyűt igényel a lejtőkhöz. Délben a Dourdou csillog a téli napsütésben. Délután a távoli kilátás a Bancarel-pontról lenyűgözően tiszta. Este fejezze be a túrát, mielőtt a talaj megfagyna.",
             "ro": "Dimineața geroasă necesită mănuși groase pentru coborâre. La prânz, râul Dourdou sclipește în soarele de iarnă. După-amiaza, vizibilitatea de la Bancarel este uimitor de clară. Seara, încheiați turul înainte de îngheț.",
-            "en": "The frosty morning calls for warm gloves for the descents. At noon, the Dourdou sparkles in the winter sun. In the afternoon, the view from Bancarel is breathtakingly clear. Finish your tour by evening before the ground freezes."
+            "en": "The frosty morning calls for warm gloves for the descents. At noon, the Dourdou sparkles in the winter sun. In the afternoon, the view from Bancarel is breathtakingly clear. Finish your tour by evening before the ground freezes.",
+            "fr": "Le matin givré nécessite des gants chauds pour les descentes. À midi, le Dourdou scintille sous le soleil d'hiver. L'après-midi, la vue depuis le Bancarel est d'une clarté époustouflante. Terminez votre tour avant le soir, avant que le sol ne gèle."
           },
           "stops": [
             {
@@ -1225,7 +1337,8 @@
                 "de": "Starten Sie erst, wenn die Sonne das Eis auf den Wegen geschmolzen hat.",
                 "hu": "Csak akkor induljon el, ha a nap már felolvasztotta a jeget.",
                 "ro": "Porniți la drum doar după ce soarele a topit gheața de pe poteci.",
-                "en": "Wait to start until the sun has melted any ice on the paths."
+                "en": "Wait to start until the sun has melted any ice on the paths.",
+                "fr": "Attendez de partir que le soleil ait fait fondre la glace sur les sentiers."
               }
             },
             {
@@ -1234,7 +1347,8 @@
                 "de": "Vorsicht vor Raureif auf den schattigen Brückensteinen.",
                 "hu": "Vigyázzon a zúzmarára a híd árnyékos kövein.",
                 "ro": "Atenție la chiciura de pe pietrele umbrite ale podului.",
-                "en": "Watch out for hoarfrost on the shaded stones of the bridge."
+                "en": "Watch out for hoarfrost on the shaded stones of the bridge.",
+                "fr": "Faites attention au givre sur les pierres ombragées du pont."
               }
             },
             {
@@ -1243,7 +1357,8 @@
                 "de": "Der eisige Wind hier oben macht dicke Kleidung nötig.",
                 "hu": "A fenti jeges szél miatt szükség van a vastag ruházatra.",
                 "ro": "Vântul înghețat de aici necesită haine groase.",
-                "en": "The icy wind at this height makes warm layers a necessity."
+                "en": "The icy wind at this height makes warm layers a necessity.",
+                "fr": "Le vent glacial à cette altitude rend les couches chaudes indispensables."
               }
             },
             {
@@ -1252,7 +1367,8 @@
                 "de": "Vielleicht zu kalt für ein langes Picknick, nur kurzer Halt.",
                 "hu": "Talán túl hideg van egy hosszú piknikhez, csak rövid pihenőt tartson.",
                 "ro": "Poate e prea frig pentru un picnic lung, faceți doar o pauză scurtă.",
-                "en": "Likely too cold for a long picnic; keep the stop brief."
+                "en": "Likely too cold for a long picnic; keep the stop brief.",
+                "fr": "Probablement trop froid pour un long pique-nique ; faites une halte brève."
               }
             },
             {
@@ -1261,7 +1377,8 @@
                 "de": "Der steile Anstieg wird Sie zum Abschluss der Tour wärmen.",
                 "hu": "A meredek emelkedő a túra végén jól felmelegíti majd.",
                 "ro": "Urcarea abruptă vă va încălzi spre finalul turului.",
-                "en": "The steep climb will help warm you up at the end of the ride."
+                "en": "The steep climb will help warm you up at the end of the ride.",
+                "fr": "La montée raide vous aidera à vous réchauffer à la fin de la balade."
               }
             }
           ],
@@ -1289,6 +1406,12 @@
               "Watch for black ice in shaded bends of the road.",
               "Days are short; plan to be back by 16:30.",
               "Check your tire pressure, as it often drops in cold weather."
+            ],
+            "fr": [
+              "Portez un équipement de cyclisme thermique pour vous protéger du vent froid.",
+              "Surveillez le verglas dans les virages ombragés de la route.",
+              "Les journées sont courtes ; prévoyez d'être de retour vers 16h30.",
+              "Vérifiez la pression de vos pneus, car elle chute souvent par temps froid."
             ]
           }
         }
@@ -1322,7 +1445,8 @@
             "de": "Nutzen Sie den großen Parkplatz oberhalb des Dorfes.",
             "hu": "Használja a falu feletti nagy parkolót.",
             "ro": "Folosiți parcarea mare de deasupra satului.",
-            "en": "Use the large parking area located above the village."
+            "en": "Use the large parking area located above the village.",
+            "fr": "Utilisez la grande zone de parking située au-dessus du village."
           }
         },
         {
@@ -1345,7 +1469,8 @@
             "de": "Charmantes Dorf am Zusammenfluss von Dourdou und Lot.",
             "hu": "Bájos falu a Dourdou és a Lot folyók összefolyásánál.",
             "ro": "Sat fermecător la confluența râurilor Dourdou și Lot.",
-            "en": "Charming village at the confluence of the Dourdou and Lot rivers."
+            "en": "Charming village at the confluence of the Dourdou and Lot rivers.",
+            "fr": "Charmant village au confluent du Dourdou et du Lot."
           }
         },
         {
@@ -1368,7 +1493,8 @@
             "de": "Wunderschöner Blick auf das gewundene Flusstal.",
             "hu": "Gyönyörű kilátás a kanyargó folyóvölgyre.",
             "ro": "Vedere superbă asupra văii sinuoase a râului.",
-            "en": "Beautiful view of the winding river valley."
+            "en": "Beautiful view of the winding river valley.",
+            "fr": "Magnifique vue sur la vallée sinueuse de la rivière."
           }
         },
         {
@@ -1391,7 +1517,8 @@
             "de": "Probieren Sie den lokalen Rotwein aus der Rebsorte Mansois.",
             "hu": "Kóstolja meg a helyi vörösbort a Mansois szőlőből.",
             "ro": "Gustați vinul roșu local din soiul Mansois.",
-            "en": "Taste the local red wine made from the Mansois grape."
+            "en": "Taste the local red wine made from the Mansois grape.",
+            "fr": "Dégustez le vin rouge local élaboré à partir du cépage Mansois."
           }
         },
         {
@@ -1414,7 +1541,8 @@
             "de": "Perfekt für Fotos im weichen Abendlicht.",
             "hu": "Tökéletes alkalom fotózáshoz a lágy esti fényben.",
             "ro": "Perfect pentru fotografii în lumina blândă a serii.",
-            "en": "Perfect for photos in the soft evening light."
+            "en": "Perfect for photos in the soft evening light.",
+            "fr": "Parfait pour les photos dans la douce lumière du soir."
           }
         }
       ],
@@ -1422,7 +1550,8 @@
         "de": "Erleben Sie die Umgebung von Conques komfortabel mit dem Auto. Beginnen Sie mit den Highlights des Dorfes, bevor Sie ins malerische Grand-Vabre am Lot fahren. Nach einem Panoramastopp im Tal führt Sie die Reise zu einem Weingut in der Nähe von Marcillac, wo Sie die Weine der Region kennenlernen. Den Tag schließen Sie mit einem letzten Blick auf das im Abendlicht leuchtende Conques ab.",
         "hu": "Fedezze fel Conques környékét kényelmesen, autóval. Kezdje a falu nevezetességeivel, majd autózzon át a festői Grand-Vabre településre a Lot partján. Egy völgybeli panorámás pihenő után látogasson el egy Marcillac melletti borászatba, ahol megismerheti a régió borait. A napot Conques esti fényben úszó látványával zárhatja.",
         "ro": "Experimentați împrejurimile Conques în confortul mașinii. Începeți cu punctele forte ale satului înainte de a conduce spre pitorescul Grand-Vabre pe malul Lotului. După o oprire panoramică în vale, călătoria vă duce la o cramă lângă Marcillac pentru a descoperi vinurile regiunii. Încheiați ziua cu o ultimă privire asupra satului Conques strălucind în lumina serii.",
-        "en": "Experience the surroundings of Conques comfortably by car. Start with the village highlights before driving to the picturesque Grand-Vabre on the Lot river. After a panoramic stop in the valley, your journey takes you to a winery near Marcillac to discover the region's unique wines. Conclude your day with a final view of Conques glowing in the evening light."
+        "en": "Experience the surroundings of Conques comfortably by car. Start with the village highlights before driving to the picturesque Grand-Vabre on the Lot river. After a panoramic stop in the valley, your journey takes you to a winery near Marcillac to discover the region's unique wines. Conclude your day with a final view of Conques glowing in the evening light.",
+        "fr": "Découvrez les environs de Conques confortablement en voiture. Commencez par les points forts du village avant de vous rendre au pittoresque Grand-Vabre sur le Lot. Après un arrêt panoramique dans la vallée, votre voyage vous mène dans un domaine viticole près de Marcillac pour découvrir les vins uniques de la région. Terminez votre journée par une dernière vue de Conques brillant dans la lumière du soir."
       },
       "gastro_picks": {
         "de": [
@@ -1447,6 +1576,12 @@
           {
             "name": "Logis de l'Aveyron",
             "tip": "Regional specialties in a cozy setting."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Logis de l'Aveyron",
+            "tip": "Spécialités régionales dans un cadre chaleureux."
           }
         ]
       },
@@ -1478,6 +1613,13 @@
             "tip": "Quiet spot by the water's edge.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Rive du Lot à Grand-Vabre",
+            "tip": "Endroit calme au bord de l'eau.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1503,6 +1645,12 @@
           {
             "name": "Marcillac Wine Shop",
             "tip": "Direct sale of local vintage wines."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Cave de Marcillac",
+            "tip": "Vente directe de vins de crus locaux."
           }
         ]
       },
@@ -1530,6 +1678,12 @@
           "Parking in Conques is paid; keep some change ready.",
           "Parking is limited in the center of Grand-Vabre.",
           "Refuel before heading deep into the mountain roads."
+        ],
+        "fr": [
+          "Les routes sont étroites et sinueuses ; conduisez avec prudence.",
+          "Le stationnement à Conques est payant ; gardez de la monnaie à portée de main.",
+          "Le stationnement est limité dans le centre de Grand-Vabre.",
+          "Faites le plein avant de vous engager profondément sur les routes de montagne."
         ]
       },
       "variants": {
@@ -1726,7 +1880,8 @@
             "de": "Die Fahrt durch das Lot-Tal ist auch bei Regen wunderschön. Mittags genießen Sie den Blick auf den Fluss aus dem trockenen Auto. Nachmittags ist die Weinprobe die perfekte Indoor-Aktivität. Abends kehren Sie gemütlich nach Conques zurück.",
             "hu": "A Lot-völgyben az autózás esőben is gyönyörű látványt nyújt. Délben a száraz autóból élvezheti a folyóra nyíló kilátást. Délután a borkóstolás a tökéletes beltéri program. Este kényelmesen térhet vissza Conques-ba.",
             "ro": "Drumul prin valea Lot este superb chiar și pe ploaie. La prânz, admirați râul din confortul mașinii uscate. După-amiaza, degustarea de vinuri este activitatea perfectă de interior. Seara, reveniți relaxat în Conques.",
-            "en": "Driving through the Lot Valley is beautiful even in the rain. At noon, enjoy river views from the dry comfort of your car. In the afternoon, a winery visit is the perfect indoor activity. In the evening, return comfortably to Conques."
+            "en": "Driving through the Lot Valley is beautiful even in the rain. At noon, enjoy river views from the dry comfort of your car. In the afternoon, a winery visit is the perfect indoor activity. In the evening, return comfortably to Conques.",
+            "fr": "Traverser la vallée du Lot est magnifique, même sous la pluie. À midi, profitez de la vue sur la rivière depuis le confort sec de votre voiture. L'après-midi, la visite d'un domaine viticole est l'activité intérieure idéale. Le soir, retournez confortablement à Conques."
           },
           "stops": [
             {
@@ -1735,7 +1890,8 @@
                 "de": "Nutzen Sie das Parkhaus, um trocken ins Dorf zu gelangen.",
                 "hu": "Használja a parkolót, hogy szárazon jusson be a faluba.",
                 "ro": "Folosiți parcarea pentru a ajunge uscat în sat.",
-                "en": "Use the main parking area to access the village with minimal exposure."
+                "en": "Use the main parking area to access the village with minimal exposure.",
+                "fr": "Utilisez le parking principal pour accéder au village avec une exposition minimale."
               }
             },
             {
@@ -1744,7 +1900,8 @@
                 "de": "Ein schöner Ort für einen kurzen Fotostopp aus dem Autofenster.",
                 "hu": "Szép hely egy rövid fotómegállóhoz az autó ablakából.",
                 "ro": "Un loc frumos pentru o scurtă oprire foto de la fereastra mașinii.",
-                "en": "A lovely spot for a quick photo from the car window."
+                "en": "A lovely spot for a quick photo from the car window.",
+                "fr": "Un bel endroit pour une photo rapide depuis la fenêtre de la voiture."
               }
             },
             {
@@ -1753,7 +1910,8 @@
                 "de": "Bleiben Sie im Wagen, die Aussicht ist auch so beeindruckend.",
                 "hu": "Maradjon az autóban, a kilátás onnan is lenyűgöző.",
                 "ro": "Rămâneți în mașină, vederea este impresionantă oricum.",
-                "en": "Stay in the car; the view is impressive even from inside."
+                "en": "Stay in the car; the view is impressive even from inside.",
+                "fr": "Restez dans la voiture ; la vue est impressionnante même de l'intérieur."
               }
             },
             {
@@ -1762,7 +1920,8 @@
                 "de": "Die beste Zeit, um die lokalen Weine im Trockenen zu probieren.",
                 "hu": "A legjobb időpont a helyi borok megkóstolására, védett helyen.",
                 "ro": "Cel mai bun moment pentru a degusta vinurile locale la adăpost.",
-                "en": "The best time to sample local wines while staying dry."
+                "en": "The best time to sample local wines while staying dry.",
+                "fr": "Le meilleur moment pour déguster des vins locaux tout en restant au sec."
               }
             },
             {
@@ -1771,7 +1930,8 @@
                 "de": "Die Lichter des Dorfes wirken im Regen besonders stimmungsvoll.",
                 "hu": "A falu fényei az esőben különösen hangulatosak.",
                 "ro": "Luminile satului par deosebit de sugestive pe ploaie.",
-                "en": "The village lights look especially atmospheric in the rain."
+                "en": "The village lights look especially atmospheric in the rain.",
+                "fr": "Les lumières du village sont particulièrement atmosphériques sous la pluie."
               }
             }
           ],
@@ -1799,6 +1959,12 @@
               "Avoid parking on unpaved road shoulders.",
               "The winery visit is an ideal retreat during heavy rain.",
               "Ensure your windshield wipers are in good working order."
+            ],
+            "fr": [
+              "Les routes étroites de la vallée demandent une concentration accrue par temps humide.",
+              "Évitez de vous garer sur les accotements non pavés.",
+              "La visite du domaine viticole est un refuge idéal en cas de forte pluie.",
+              "Assurez-vous que vos essuie-glaces sont en bon état de fonctionnement."
             ]
           }
         },
@@ -1807,7 +1973,8 @@
             "de": "Die Winterlandschaft des Aveyron zeigt sich in sanften Farben. Mittags ist das Dorf Grand-Vabre herrlich ruhig. Nachmittags wärmt die Weinprobe von innen. Abends genießen Sie die Heimfahrt durch das schimmernde Tal.",
             "hu": "Aveyron téli tája lágy színekben pompázik. Délben Grand-Vabre faluja csodálatosan csendes. Délután a borkóstolás belülről melengeti meg. Este élvezze a hazautat a csillogó völgyön keresztül.",
             "ro": "Peisajul de iarnă din Aveyron se arată în culori blânde. La prânz, satul Grand-Vabre este minunat de liniștit. După-amiaza, degustarea de vinuri vă va încălzi. Seara, bucurați-vă de drumul spre casă prin valea sclipitoare.",
-            "en": "The winter landscape of Aveyron shows itself in soft, muted colors. At noon, Grand-Vabre is wonderfully peaceful. In the afternoon, a winery visit provides warmth from within. In the evening, enjoy the drive home through the shimmering valley."
+            "en": "The winter landscape of Aveyron shows itself in soft, muted colors. At noon, Grand-Vabre is wonderfully peaceful. In the afternoon, a winery visit provides warmth from within. In the evening, enjoy the drive home through the shimmering valley.",
+            "fr": "Le paysage hivernal de l'Aveyron se pare de couleurs douces et feutrées. À midi, Grand-Vabre est merveilleusement paisible. L'après-midi, une visite de domaine viticole apporte de la chaleur de l'intérieur. Le soir, profitez du trajet de retour à travers la vallée miroitante."
           },
           "stops": [
             {
@@ -1816,7 +1983,8 @@
                 "de": "Heizen Sie den Wagen gut vor, bevor Sie Conques verlassen.",
                 "hu": "Fűtse fel jól az autót, mielőtt elindul Conques-ból.",
                 "ro": "Încălziți bine mașina înainte de a pleca din Conques.",
-                "en": "Pre-heat your car well before leaving the village."
+                "en": "Pre-heat your car well before leaving the village.",
+                "fr": "Préchauffez bien votre voiture avant de quitter le village."
               }
             },
             {
@@ -1825,7 +1993,8 @@
                 "de": "Der Ort wirkt im Winter wie aus der Zeit gefallen.",
                 "hu": "A település télen olyan, mintha megállt volna az idő.",
                 "ro": "Satul pare desprins din timp în timpul iernii.",
-                "en": "The village feels like it's frozen in time during winter."
+                "en": "The village feels like it's frozen in time during winter.",
+                "fr": "Le village semble figé dans le temps pendant l'hiver."
               }
             },
             {
@@ -1834,7 +2003,8 @@
                 "de": "Die klare Luft ermöglicht eine weite Sicht über den Fluss.",
                 "hu": "A tiszta levegő messzi kilátást enged a folyó mentén.",
                 "ro": "Aerul curat permite o vizibilitate mare de-a lungul râului.",
-                "en": "Clear winter air allows for expansive views along the river."
+                "en": "Clear winter air allows for expansive views along the river.",
+                "fr": "L'air pur de l'hiver permet des vues étendues le long de la rivière."
               }
             },
             {
@@ -1843,7 +2013,8 @@
                 "de": "Ein gemütlicher Stopp, um sich aufzuwärmen.",
                 "hu": "Hangulatos megálló, hogy egy kicsit felmelegedjen.",
                 "ro": "O oprire primitoare pentru a vă încălzi.",
-                "en": "A cozy stop to warm up and escape the cold."
+                "en": "A cozy stop to warm up and escape the cold.",
+                "fr": "Une halte douillette pour se réchauffer et échapper au froid."
               }
             },
             {
@@ -1852,7 +2023,8 @@
                 "de": "Achten Sie auf Reifglätte auf den tiefergelegenen Straßen.",
                 "hu": "Ügyeljen a zúzmarás, csúszós szakaszokra az alacsonyabb utakon.",
                 "ro": "Atenție la porțiunile alunecoase de pe drumurile de joasă altitudine.",
-                "en": "Watch for icy patches on roads in the lower valley areas."
+                "en": "Watch for icy patches on roads in the lower valley areas.",
+                "fr": "Surveillez les plaques de verglas sur les routes dans les zones basses de la vallée."
               }
             }
           ],
@@ -1880,6 +2052,12 @@
               "Make sure your windshield washer fluid is frost-resistant.",
               "Plan to complete your drive before the early sunset.",
               "Check winter opening hours for wineries as they may be shorter."
+            ],
+            "fr": [
+              "Les pneus hiver sont essentiels dans cette région vallonnée.",
+              "Assurez-vous que votre liquide lave-glace est résistant au gel.",
+              "Prévoyez de terminer votre trajet avant le coucher du soleil précoce.",
+              "Vérifiez les horaires d'ouverture hivernaux des domaines car ils peuvent être réduits."
             ]
           }
         }
@@ -1913,7 +2091,8 @@
             "de": "Haupteingang zum Dorf für alle Besucher.",
             "hu": "A falu főbejárata minden látogató számára.",
             "ro": "Intrarea principală în sat pentru toți vizitatorii.",
-            "en": "The main gateway to the village for all visitors."
+            "en": "The main gateway to the village for all visitors.",
+            "fr": "La porte d'entrée principale du village pour tous les visiteurs."
           }
         },
         {
@@ -1936,7 +2115,8 @@
             "de": "Ein Ort der Stille inmitten der Abtei.",
             "hu": "A nyugalom szigete az apátság közepén.",
             "ro": "Un loc de liniște în mijlocul abației.",
-            "en": "A place of profound peace within the abbey walls."
+            "en": "A place of profound peace within the abbey walls.",
+            "fr": "Un lieu d'une paix profonde entre les murs de l'abbaye."
           }
         },
         {
@@ -1959,7 +2139,8 @@
             "de": "Informationspunkt und lokales Handwerk.",
             "hu": "Információs pont és helyi kézműves termékek.",
             "ro": "Punct de informare și meșteșuguri locale.",
-            "en": "Information point and hub for local crafts."
+            "en": "Information point and hub for local crafts.",
+            "fr": "Point d'information et centre de l'artisanat local."
           }
         },
         {
@@ -1982,7 +2163,8 @@
             "de": "Erfahren Sie mehr über das Leben der Pilger.",
             "hu": "Tudjon meg többet a zarándokok életéről.",
             "ro": "Aflați mai multe despre viața pelerinilor.",
-            "en": "Learn more about the daily life of the pilgrims."
+            "en": "Learn more about the daily life of the pilgrims.",
+            "fr": "Apprenez-en plus sur la vie quotidienne des pèlerins."
           }
         },
         {
@@ -2005,7 +2187,8 @@
             "de": "Genießen Sie das bunte Treiben der Besucher.",
             "hu": "Élvezze a látogatók színes forgatagát.",
             "ro": "Bucurați-vă de animația turiștilor și pelerinilor.",
-            "en": "Enjoy the vibrant atmosphere of pilgrims and tourists."
+            "en": "Enjoy the vibrant atmosphere of pilgrims and tourists.",
+            "fr": "Profitez de l'atmosphère vibrante des pèlerins et des touristes."
           }
         }
       ],
@@ -2013,7 +2196,8 @@
         "de": "Nutzen Sie den lokalen Shuttle und erkunden Sie Conques stressfrei. Von der Bushaltestelle geht es zum friedlichen Klostergarten und durch das kulturelle Herz des Dorfes. Erfahren Sie mehr über die Geschichte des Jakobswegs, bevor Sie den Nachmittag auf dem belebten Abteiplatz ausklingen lassen.",
         "hu": "Használja a helyi buszt és fedezze fel Conquest stresszmentesen. A buszmegállótól indulva látogasson el a békés kolostorkertbe, majd a falu kulturális központjába. Ismerje meg a Szent Jakab-út történetét, mielőtt a délutánt az apátság előtti nyüzsgő téren fejezné be.",
         "ro": "Folosiți transportul local și explorați Conques fără stres. De la stația de autobuz, mergeți spre grădina liniștită a mănăstirii și prin inima culturală a satului. Aflați istoria drumului spre Santiago înainte de a încheia după-amiaza în piața animată a abației.",
-        "en": "Use the local shuttle and explore Conques stress-free. From the bus stop, head to the peaceful cloister garden and through the cultural heart of the village. Learn about the history of the Way of St. James before finishing your afternoon at the lively Abbey Square."
+        "en": "Use the local shuttle and explore Conques stress-free. From the bus stop, head to the peaceful cloister garden and through the cultural heart of the village. Learn about the history of the Way of St. James before finishing your afternoon at the lively Abbey Square.",
+        "fr": "Utilisez la navette locale et explorez Conques sans stress. Depuis l'arrêt de bus, dirigez-vous vers le jardin paisible du cloître et traversez le cœur culturel du village. Apprenez l'histoire du chemin de Saint-Jacques avant de terminer votre après-midi sur la place animée de l'Abbaye."
       },
       "gastro_picks": {
         "de": [
@@ -2038,6 +2222,12 @@
           {
             "name": "Salon de Thé de l'Abbatiale",
             "tip": "Homemade cakes and light refreshments."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Salon de Thé de l'Abbatiale",
+            "tip": "Gâteaux maison et rafraîchissements légers."
           }
         ]
       },
@@ -2069,6 +2259,13 @@
             "tip": "A hidden nook away from the crowds.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Arrière-cour de l'Abbaye",
+            "tip": "Un recoin caché loin de la foule.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -2094,6 +2291,12 @@
           {
             "name": "Boutique du Patrimoine",
             "tip": "High-quality books and art replicas."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutique du Patrimoine",
+            "tip": "Livres de haute qualité et répliques d'art."
           }
         ]
       },
@@ -2121,6 +2324,12 @@
           "Most sights are within easy walking distance from the drop-off point.",
           "Buses can be crowded during the peak tourist season.",
           "The bus stop features a very helpful orientation map."
+        ],
+        "fr": [
+          "Les navettes circulent uniquement à des heures spécifiques ; vérifiez bien l'horaire.",
+          "La plupart des sites sont facilement accessibles à pied depuis le point de dépose.",
+          "Les bus peuvent être bondés pendant la haute saison touristique.",
+          "L'arrêt de bus dispose d'un plan d'orientation très utile."
         ]
       },
       "variants": {
@@ -2317,7 +2526,8 @@
             "de": "Der Bus bringt Sie trocken ins Herz von Conques. Mittags bietet der Kreuzganggarten einen geschützten Rückzugsort. Nachmittags erkunden Sie die Espace Conques im Trockenen. Abends warten Sie an der Bushaltestelle auf die Heimfahrt.",
             "hu": "A busz szárazon viszi be Conques szívébe. Délben a kerengő kertje védett pihenőhelyet nyújt. Délután az Espace Conques kiállításait tekintheti meg fedett helyen. Este a buszmegállóban várhatja a hazautat.",
             "ro": "Autobuzul vă duce uscat în inima orașului Conques. La prânz, grădina mănăstirii oferă un refugiu protejat. După-amiaza, explorați Espace Conques la adăpost. Seara, așteptați autobuzul în stație pentru drumul de întoarcere.",
-            "en": "The bus delivers you dry into the heart of Conques. At noon, the cloister garden offers a sheltered retreat. In the afternoon, explore Espace Conques indoors. In the evening, wait at the bus stop for your journey home."
+            "en": "The bus delivers you dry into the heart of Conques. At noon, the cloister garden offers a sheltered retreat. In the afternoon, explore Espace Conques indoors. In the evening, wait at the bus stop for your journey home.",
+            "fr": "Le bus vous dépose au sec au cœur de Conques. À midi, le jardin du cloître offre un refuge abrité. L'après-midi, explorez l'Espace Conques à l'intérieur. Le soir, attendez à l'arrêt de bus pour votre retour."
           },
           "stops": [
             {
@@ -2326,7 +2536,8 @@
                 "de": "Das Wartehäuschen bietet Schutz während Sie auf den Bus warten.",
                 "hu": "A buszváró fedele védelmet nyújt a várakozás alatt.",
                 "ro": "Adăpostul din stație vă protejează în timp ce așteptați autobuzul.",
-                "en": "The bus shelter provides good cover while you wait."
+                "en": "The bus shelter provides good cover while you wait.",
+                "fr": "L'abri-bus offre une bonne protection pendant que vous attendez."
               }
             },
             {
@@ -2335,7 +2546,8 @@
                 "de": "Die überdachten Gänge des Kreuzgangs sind ideal bei Regen.",
                 "hu": "A kerengő fedett folyosói ideálisak esős időben.",
                 "ro": "Coridoarele acoperite ale mănăstirii sunt ideale pe ploaie.",
-                "en": "The covered walkways of the cloister are perfect for rainy days."
+                "en": "The covered walkways of the cloister are perfect for rainy days.",
+                "fr": "Les galeries couvertes du cloître sont parfaites pour les jours de pluie."
               }
             },
             {
@@ -2344,7 +2556,8 @@
                 "de": "Nutzen Sie dieses Informationszentrum für eine Regenpause.",
                 "hu": "Használja ezt az információs központot egy esőszünetre.",
                 "ro": "Folosiți acest centru de informare pentru o pauză de ploaie.",
-                "en": "Use this visitor center as a base to stay dry."
+                "en": "Use this visitor center as a base to stay dry.",
+                "fr": "Utilisez ce centre de visiteurs comme base pour rester au sec."
               }
             },
             {
@@ -2353,7 +2566,8 @@
                 "de": "Der kurze Fußweg hierher erfordert Schutzkleidung.",
                 "hu": "Az ide vezető rövid sétához szükség lesz esővédő ruházatra.",
                 "ro": "Scurta plimbare până aici necesită haine de protecție.",
-                "en": "The short walk here requires proper rain gear."
+                "en": "The short walk here requires proper rain gear.",
+                "fr": "La courte marche jusqu'ici nécessite un équipement de pluie approprié."
               }
             },
             {
@@ -2362,7 +2576,8 @@
                 "de": "Die Cafés am Platz sind gute Orte, um trocken zu bleiben.",
                 "hu": "A tér melletti kávézók remek helyek a várakozáshoz.",
                 "ro": "Cafenelele din piață sunt locuri bune pentru a rămâne uscat.",
-                "en": "The cafés around the square are great spots to stay dry."
+                "en": "The cafés around the square are great spots to stay dry.",
+                "fr": "Les cafés autour de la place sont d'excellents endroits pour rester au sec."
               }
             }
           ],
@@ -2390,6 +2605,12 @@
               "Regional buses are generally well-heated and comfortable.",
               "Wear waterproof shoes for the short walks between stops.",
               "Espace Conques is an excellent indoor facility to warm up."
+            ],
+            "fr": [
+              "Vérifiez les horaires de bus ; la pluie peut parfois causer des retards.",
+              "Les bus régionaux sont généralement bien chauffés et confortables.",
+              "Portez des chaussures imperméables pour les courts trajets entre les arrêts.",
+              "L'Espace Conques est une excellente installation intérieure pour se réchauffer."
             ]
           }
         },
@@ -2398,7 +2619,8 @@
             "de": "Die frostige Busfahrt bietet einen Blick auf die winterlichen Hügel. Mittags ist der Kreuzganggarten still und oft mit Reif bedeckt. Nachmittags wärmen Sie sich im Informationszentrum auf. Abends leuchten die Lichter der Abtei hell in der Winterdunkelheit.",
             "hu": "A fagyos buszút során rálátni a téli dombokra. Délben a kerengő kertje csendes, gyakran zúzmarás. Délután az információs központban melegedhet fel. Este az apátság fényei ragyognak a téli sötétségben.",
             "ro": "Drumul cu autobuzul oferă o vedere asupra dealurilor de iarnă. La prânz, grădina mănăstirii este liniștită și brumată. După-amiaza, vă puteți încălzi în centrul de informare. Seara, luminile abatiei strălucesc în întunericul iernii.",
-            "en": "The frosty bus ride offers views of the winter hills. At noon, the cloister garden is quiet and often covered in frost. In the afternoon, warm up at the visitor center. In the evening, the Abbey lights shine brightly in the winter darkness."
+            "en": "The frosty bus ride offers views of the winter hills. At noon, the cloister garden is quiet and often covered in frost. In the afternoon, warm up at the visitor center. In the evening, the Abbey lights shine brightly in the winter darkness.",
+            "fr": "Le trajet en bus givré offre des vues sur les collines hivernales. À midi, le jardin du cloître est calme et souvent couvert de givre. L'après-midi, réchauffez-vous au centre des visiteurs. Le soir, les lumières de l'abbatiale brillent intensément dans l'obscurité hivernale."
           },
           "stops": [
             {
@@ -2407,7 +2629,8 @@
                 "de": "Kommen Sie erst kurz vor Abfahrt zur Haltestelle, um nicht zu frieren.",
                 "hu": "Csak röviddel az indulás előtt menjen ki, hogy ne fázzon.",
                 "ro": "Veniți în stație cu puțin timp înainte de plecare pentru a nu îngheța.",
-                "en": "Arrive at the stop shortly before departure to avoid the cold."
+                "en": "Arrive at the stop shortly before departure to avoid the cold.",
+                "fr": "Arrivez à l'arrêt peu avant le départ pour éviter le froid."
               }
             },
             {
@@ -2416,7 +2639,8 @@
                 "de": "Die gefrorenen Pflanzen im Garten sind ein schönes Fotomotiv.",
                 "hu": "A kert fagyott növényei gyönyörű fotótémát szolgáltatnak.",
                 "ro": "Plantele înghețate din grădină sunt un subiect frumos pentru fotografii.",
-                "en": "The frozen plants in the garden make for beautiful photos."
+                "en": "The frozen plants in the garden make for beautiful photos.",
+                "fr": "Les plantes gelées dans le jardin permettent de faire de magnifiques photos."
               }
             },
             {
@@ -2425,7 +2649,8 @@
                 "de": "Hier finden Sie im Winter angenehme Wärme und Informationen.",
                 "hu": "Itt télen kellemes melegre és hasznos információkra lelhet.",
                 "ro": "Aici veți găsi căldură plăcută și informații utile pe timp de iarnă.",
-                "en": "You'll find pleasant warmth and information here during winter."
+                "en": "You'll find pleasant warmth and information here during winter.",
+                "fr": "Vous trouverez ici une chaleur agréable et des informations durant l'hiver."
               }
             },
             {
@@ -2434,7 +2659,8 @@
                 "de": "Gehen Sie zügig, um die Körperwärme aufrechtzuerhalten.",
                 "hu": "Sétáljon tempósan, hogy fenntartsa testhőmérsékletét.",
                 "ro": "Mergeți vioi pentru a vă menține căldura corporală.",
-                "en": "Walk briskly to keep your body heat up."
+                "en": "Walk briskly to keep your body heat up.",
+                "fr": "Marchez d'un pas vif pour maintenir votre chaleur corporelle."
               }
             },
             {
@@ -2443,7 +2669,8 @@
                 "de": "Genießen Sie ein heißes Getränk, während Sie auf den Bus warten.",
                 "hu": "Élvezzen egy forró italt, miközve a buszra vár.",
                 "ro": "Savurați o băutură caldă în timp ce așteptați autobuzul.",
-                "en": "Enjoy a hot drink while waiting for your bus."
+                "en": "Enjoy a hot drink while waiting for your bus.",
+                "fr": "Profitez d'une boisson chaude en attendant votre bus."
               }
             }
           ],
@@ -2471,6 +2698,12 @@
               "Wear warm socks as waiting at stops can be very chilly.",
               "Darkness falls early; plan to finish your sightseeing by 16:30.",
               "The visitor center is often the best heated public space in winter."
+            ],
+            "fr": [
+              "Les bus circulent moins fréquemment en hiver ; vérifiez bien les horaires.",
+              "Portez des chaussettes chaudes car l'attente aux arrêts peut être glaciale.",
+              "L'obscurité tombe tôt ; prévoyez de terminer vos visites vers 16h30.",
+              "Le centre des visiteurs est souvent l'espace public le mieux chauffé en hiver."
             ]
           }
         }

@@ -36,7 +36,8 @@
             "de": "Früher Morgen ist ideal für Fotos ohne Menschenmassen.",
             "hu": "A kora reggeli órák a legjobbak a tömegmentes fotókhoz.",
             "ro": "Dimineața devreme este ideală pentru fotografii fără mulțimi.",
-            "en": "Early morning is perfect for photos without the crowds."
+            "en": "Early morning is perfect for photos without the crowds.",
+            "fr": "Le petit matin est parfait pour les photos sans la foule."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bewundern Sie die gotische Architektur und die Aussicht vom Vorplatz.",
             "hu": "Csodáld meg a gótikus építészetet és a kilátást a templomkertből.",
             "ro": "Admirați arhitectura gotică și priveliștea de pe esplanadă.",
-            "en": "Admire the Gothic architecture and the view from the church square."
+            "en": "Admire the Gothic architecture and the view from the church square.",
+            "fr": "Admirez l'architecture gothique et la vue depuis le parvis de l'église."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Der höchste Punkt des Dorfes bietet ein 360-Grad-Panorama.",
             "hu": "A falu legmagasabb pontja, 360 fokos panorámával a Lot-völgyre.",
             "ro": "Cel mai înalt punct al satului oferă o panoramă de 360 de grade.",
-            "en": "The highest point of the village offers a 360-degree panorama."
+            "en": "The highest point of the village offers a 360-degree panorama.",
+            "fr": "Le point culminant du village offre un panorama à 360 degrés."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Die Gärten des Museums sind eine Oase der Ruhe.",
             "hu": "A múzeum kertjei a nyugalom igazi oázisai.",
             "ro": "Grădinile muzeului sunt o oază de liniște.",
-            "en": "The museum's gardens are an oasis of tranquility."
+            "en": "The museum's gardens are an oasis of tranquility.",
+            "fr": "Les jardins du musée sont une oasis de tranquillité."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Probieren Sie das berühmte Quercy-Lamm.",
             "hu": "Kóstold meg a híres quercy-i bárányt.",
             "ro": "Încercați celebrul miel de Quercy.",
-            "en": "Try the famous Quercy lamb."
+            "en": "Try the famous Quercy lamb.",
+            "fr": "Goûtez au célèbre agneau du Quercy."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Der in den Fels gehauene Pfad ist spektakulär.",
             "hu": "A sziklába vájt ösvény látványa lenyűgöző.",
             "ro": "Poteca săpată în stâncă este spectaculoasă.",
-            "en": "The path carved directly into the rock is spectacular."
+            "en": "The path carved directly into the rock is spectacular.",
+            "fr": "Le sentier taillé directement dans la roche est spectaculaire."
           }
         },
         {
@@ -174,7 +180,8 @@
             "de": "Beobachten Sie die Boote an der Schleuse.",
             "hu": "Nézd meg a hajókat a zsilipnél.",
             "ro": "Urmăriți bărcile la ecluză.",
-            "en": "Watch the boats passing through the lock."
+            "en": "Watch the boats passing through the lock.",
+            "fr": "Regardez les bateaux passer l'écluse."
           }
         }
       ],
@@ -182,7 +189,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen dieses mittelalterlichen Juwels auf dem Place du Sombral. Steigen Sie zur befestigten Kirche hinauf und erkunden Sie dann die Ruinen der Burg für einen atemberaubenden Blick auf das Lot-Tal. Nach einem kulturellen Besuch im Musée Rignault genießen Sie ein lokales Mittagessen. Am Nachmittag steigen Sie zum Fluss hinab, um den berühmten, in den Fels gehauenen Treppelpfad zu bewandern, bevor Sie den Tag am ruhigen Flusshafen ausklingen lassen.",
         "hu": "Kezdje a napot e középkori ékszerdoboz szívében, a Place du Sombral téren. Sétáljon fel az erődtemplomhoz, majd fedezze fel a várromokat, ahonnan lélegzetelállító kilátás nyílik a Lot-völgyre. A Musée Rignault megtekintése után élvezze a helyi ízeket egy hangulatos ebéden. Délután ereszkedjen le a folyóhoz, hogy bejárja a híres, sziklába vájt vontatóutat, végül pihenjen meg a kikötő nyugalmában.",
         "ro": "Începeți ziua în inima acestei bijuterii medievale, în Place du Sombral. Urcați la biserica fortificată și apoi explorați ruinele castelului pentru o vedere uluitoare asupra văii Lot. După o vizită culturală la Muzeul Rignault, savurați un prânz local. După-amiaza, coborâți spre râu pentru a parcurge faimosul drum de halaj săpat în stâncă, înainte de a încheia ziua în liniștea portului fluvial.",
-        "en": "Begin your day in the heart of this medieval gem at Place du Sombral. Climb up to the fortified church and then explore the castle ruins for a breathtaking view of the Lot valley. After a cultural visit to the Musée Rignault, enjoy a local lunch. In the afternoon, descend to the river to walk the famous towpath carved into the rock, before finishing your day at the peaceful river port."
+        "en": "Begin your day in the heart of this medieval gem at Place du Sombral. Climb up to the fortified church and then explore the castle ruins for a breathtaking view of the Lot valley. After a cultural visit to the Musée Rignault, enjoy a local lunch. In the afternoon, descend to the river to walk the famous towpath carved into the rock, before finishing your day at the peaceful river port.",
+        "fr": "Commencez votre journée au cœur de ce joyau médiéval à la Place du Sombral. Montez jusqu'à l'église fortifiée puis explorez les ruines du château pour une vue imprenable sur la vallée du Lot. Après une visite culturelle au Musée Rignault, savourez un déjeuner local. L'après-midi, descendez vers la rivière pour emprunter le célèbre chemin de halage taillé dans la roche, avant de terminer votre journée au paisible port fluvial."
       },
       "gastro_picks": {
         "de": [
@@ -223,6 +231,16 @@
           {
             "name": "Le Cantou",
             "tip": "Traditional cuisine in a historic setting."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Foie Gras du Quercy",
+            "tip": "L'ultime spécialité régionale."
+          },
+          {
+            "name": "Le Cantou",
+            "tip": "Cuisine traditionnelle dans un cadre historique."
           }
         ]
       },
@@ -274,6 +292,18 @@
             "tip": "A peaceful spot for reflection.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Vue des ruines du château",
+            "tip": "Particulièrement calme en début de soirée.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rives du Lot près de l'écluse",
+            "tip": "Un endroit paisible pour la réflexion.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -316,6 +346,16 @@
             "name": "Woodturning workshops",
             "tip": "Unique handcrafted wooden objects."
           }
+        ],
+        "fr": [
+          {
+            "name": "Safran du Quercy",
+            "tip": "L'or rouge de la région."
+          },
+          {
+            "name": "Ateliers de tournage sur bois",
+            "tip": "Objets artisanaux uniques en bois."
+          }
         ]
       },
       "tips": {
@@ -342,6 +382,12 @@
           "Park in the upper parking lots (P4) to avoid a steep climb.",
           "Visit outside peak season for a more authentic experience.",
           "Carry enough water, especially for the walk down to the river."
+        ],
+        "fr": [
+          "Portez des chaussures confortables car les rues sont escarpées et pavées.",
+          "Garez-vous dans les parkings supérieurs (P4) pour éviter une montée raide.",
+          "Visitez hors saison pour une expérience plus authentique.",
+          "Prévoyez suffisamment d'eau, surtout pour la descente vers la rivière."
         ]
       },
       "variants": {
@@ -618,7 +664,8 @@
             "de": "Morgen: Der Regen glänzt auf den mittelalterlichen Gassen. Mittag: Schutz im Museum Rignault und ein warmes Mittagessen. Nachmittag: Der Treidelweg wirkt im Nebel mystisch. Abend: Gemütlicher Ausklang in einer lokalen Weinstube.",
             "hu": "Reggel: Az eső csillog a középkori köveken. Délben: Menedék a Rignault múzeumban és egy forró ebéd. Délután: A sziklába vájt vontatóút misztikus a ködben. Este: Hangulatos borozás a falu szívében.",
             "ro": "Dimineața: Ploaia strălucește pe străzile medievale. Prânz: Adăpost în Muzeul Rignault și un prânz cald. După-amiază: Drumul de halaj pare mistic în ceață. Seara: Relaxare într-o tavernă locală cu vin.",
-            "en": "Morning: Rain glistens on the medieval cobblestones. Midday: Shelter in the Rignault Museum and a warm lunch. Afternoon: The cliff-side towpath feels mystical in the mist. Evening: A cozy finish in a local wine cellar."
+            "en": "Morning: Rain glistens on the medieval cobblestones. Midday: Shelter in the Rignault Museum and a warm lunch. Afternoon: The cliff-side towpath feels mystical in the mist. Evening: A cozy finish in a local wine cellar.",
+            "fr": "Matin : La pluie fait briller les pavés médiévaux. Midi : Abritez-vous au Musée Rignault et profitez d'un déjeuner chaud. Après-midi : Le chemin de halage à flanc de falaise semble mystique dans la brume. Soirée : Fin de journée chaleureuse dans une cave à vin locale."
           },
           "stops": [
             {
@@ -627,7 +674,8 @@
                 "de": "Nutzen Sie die steinernen Vordächer als Unterstand.",
                 "hu": "Használja a kőereszeket eső elleni védelemre.",
                 "ro": "Folosiți streșinile de piatră pentru adăpost.",
-                "en": "Use the stone overhangs for quick shelter from showers."
+                "en": "Use the stone overhangs for quick shelter from showers.",
+                "fr": "Utilisez les surplombs en pierre pour vous abriter rapidement des averses."
               }
             },
             {
@@ -636,7 +684,8 @@
                 "de": "Ein perfekter, trockener Ort, um die Fresken zu bewundern.",
                 "hu": "Tökéletes száraz hely a freskók megcsodálására.",
                 "ro": "Un loc uscat perfect pentru a admira frescele.",
-                "en": "A perfect dry spot to admire the interior frescoes."
+                "en": "A perfect dry spot to admire the interior frescoes.",
+                "fr": "Un endroit sec parfait pour admirer les fresques intérieures."
               }
             },
             {
@@ -645,7 +694,8 @@
                 "de": "Vorsicht, die Stufen können bei Nässe sehr rutschig sein.",
                 "hu": "Vigyázat, a lépcsők nedvesen nagyon csúszósak lehetnek.",
                 "ro": "Atenție, treptele pot fi foarte alunecoase pe ploaie.",
-                "en": "Caution: the stone steps can be very slippery when wet."
+                "en": "Caution: the stone steps can be very slippery when wet.",
+                "fr": "Attention : les marches en pierre peuvent être très glissantes lorsqu'elles sont mouillées."
               }
             },
             {
@@ -654,7 +704,8 @@
                 "de": "Genießen Sie die Kunstausstellung, während es draußen regnet.",
                 "hu": "Élvezze a kiállítást, amíg odakint esik az eső.",
                 "ro": "Bucurați-vă de expoziție în timp ce afară plouă.",
-                "en": "Enjoy the art collection while staying dry indoors."
+                "en": "Enjoy the art collection while staying dry indoors.",
+                "fr": "Profitez de la collection d'art tout en restant au sec à l'intérieur."
               }
             },
             {
@@ -663,7 +714,8 @@
                 "de": "Wählen Sie ein Restaurant mit Kamin für extra Gemütlichkeit.",
                 "hu": "Válasszon kandallós éttermet a nagyobb kényelemért.",
                 "ro": "Alegeți un restaurant cu șemineu pentru confort sporit.",
-                "en": "Pick a restaurant with a fireplace for extra coziness."
+                "en": "Pick a restaurant with a fireplace for extra coziness.",
+                "fr": "Choisissez un restaurant avec cheminée pour plus de confort."
               }
             },
             {
@@ -672,7 +724,8 @@
                 "de": "Der in den Fels gehauene Weg bietet teilweisen Regenschutz.",
                 "hu": "A sziklába vájt út részleges védelmet nyújt az eső ellen.",
                 "ro": "Drumul săpat în stâncă oferă protecție parțială contra ploii.",
-                "en": "The path carved into the cliff offers partial rain cover."
+                "en": "The path carved into the cliff offers partial rain cover.",
+                "fr": "Le chemin taillé dans la falaise offre un abri partiel contre la pluie."
               }
             },
             {
@@ -681,7 +734,8 @@
                 "de": "Der Nebel über dem Lot bietet fantastische Fotomotive.",
                 "hu": "A Lot folyó feletti köd fantasztikus fotótéma.",
                 "ro": "Ceața de peste râul Lot oferă oportunități foto superbe.",
-                "en": "The mist over the Lot river creates great photo ops."
+                "en": "The mist over the Lot river creates great photo ops.",
+                "fr": "La brume sur le Lot crée de superbes opportunités de photos."
               }
             }
           ],
@@ -713,6 +767,13 @@
               "Visit craft shops for dry breaks between stops.",
               "Limestone cliffs can be crumbly in heavy rain, watch the slopes.",
               "Spend extra time in the museum to wait out heavy showers."
+            ],
+            "fr": [
+              "Portez des chaussures de randonnée avec une bonne adhérence pour les pavés mouillés.",
+              "Un parapluie compact est plus facile à gérer dans les ruelles étroites.",
+              "Visitez les boutiques d'artisanat pour des pauses au sec entre les arrêts.",
+              "Les falaises calcaires peuvent être friables par forte pluie, surveillez les pentes.",
+              "Passez plus de temps au musée pour laisser passer les fortes averses."
             ]
           }
         },
@@ -721,7 +782,8 @@
             "de": "Morgen: Frost liegt auf den Dächern des 'schönsten Dorfes'. Mittag: Ein deftiges Cassoulet wärmt nach dem Dorfrundgang auf. Nachmittag: Goldene Wintersonne über dem Lot-Tal. Abend: Frühe Dämmerung hüllt die Ruinen in blaues Licht.",
             "hu": "Reggel: Dér lepi el a legszebb falu háztetőit. Délben: Egy kiadós cassoulet melegít fel a séta után. Délután: Aranyló téli napsütés a Lot-völgy felett. Este: A korai szürkület kék fénybe vonja a romokat.",
             "ro": "Dimineața: Promoroaca acoperă acoperișurile celui mai frumos sat. Prânz: Un cassoulet consistent vă va încălzi după plimbare. După-amiază: Soare auriu de iarnă peste valea Lotului. Seara: Amurgul timpuriu îmbracă ruinele în lumină albastră.",
-            "en": "Morning: Frost covers the rooftops of the 'most beautiful village'. Midday: A hearty cassoulet warms you up after the village tour. Afternoon: Golden winter sun over the Lot valley. Evening: Early twilight bathes the ruins in blue light."
+            "en": "Morning: Frost covers the rooftops of the 'most beautiful village'. Midday: A hearty cassoulet warms you up after the village tour. Afternoon: Golden winter sun over the Lot valley. Evening: Early twilight bathes the ruins in blue light.",
+            "fr": "Matin : Le givre recouvre les toits de l'un des 'plus beaux villages de France'. Midi : Un cassoulet copieux vous réchauffe après la visite du village. Après-midi : Soleil d'hiver doré sur la vallée du Lot. Soirée : Le crépuscule précoce baigne les ruines d'une lumière bleue."
           },
           "stops": [
             {
@@ -730,7 +792,8 @@
                 "de": "Genießen Sie die Ruhe ohne die sommerlichen Touristenmassen.",
                 "hu": "Élvezze a csendet a nyári turistaáradat nélkül.",
                 "ro": "Bucurați-vă de liniște fără mulțimile de turiști din vară.",
-                "en": "Enjoy the rare silence without the summer tourist crowds."
+                "en": "Enjoy the rare silence without the summer tourist crowds.",
+                "fr": "Profitez du silence rare sans les foules de touristes estivaux."
               }
             },
             {
@@ -739,7 +802,8 @@
                 "de": "Beachten Sie die verkürzten Öffnungszeiten im Winter.",
                 "hu": "Ügyeljen a rövidített téli nyitvatartási időre.",
                 "ro": "Atenție la programul redus de vizitare în timpul iernii.",
-                "en": "Check for reduced winter opening hours before visiting."
+                "en": "Check for reduced winter opening hours before visiting.",
+                "fr": "Vérifiez les horaires d'ouverture réduits en hiver avant de vous y rendre."
               }
             },
             {
@@ -748,7 +812,8 @@
                 "de": "Die Fernsicht ist an klaren Wintertagen oft am besten.",
                 "hu": "A kilátás tiszta téli napokon a legszebb.",
                 "ro": "Vizibilitatea este adesea maximă în zilele senine de iarnă.",
-                "en": "Visibility is often best on crisp, clear winter days."
+                "en": "Visibility is often best on crisp, clear winter days.",
+                "fr": "La visibilité est souvent meilleure par temps d'hiver clair et frais."
               }
             },
             {
@@ -757,7 +822,8 @@
                 "de": "Prüfen Sie vorab, ob das Museum saisonal geschlossen ist.",
                 "hu": "Ellenőrizze, hogy a múzeum nincs-e téli szüneten.",
                 "ro": "Verificați dacă muzeul nu este închis sezonier.",
-                "en": "Verify if the museum is open during the low season."
+                "en": "Verify if the museum is open during the low season.",
+                "fr": "Vérifiez si le musée est ouvert pendant la basse saison."
               }
             },
             {
@@ -766,7 +832,8 @@
                 "de": "Suchen Sie Plätze in Fensternähe für die seltene Wintersonne.",
                 "hu": "Keressen ablak melletti asztalt a téli napsütéshez.",
                 "ro": "Căutați locuri lângă fereastră pentru soarele de iarnă.",
-                "en": "Look for a window seat to catch the rare winter sun."
+                "en": "Look for a window seat to catch the rare winter sun.",
+                "fr": "Cherchez une place près d'une fenêtre pour capter le rare soleil d'hiver."
               }
             },
             {
@@ -775,7 +842,8 @@
                 "de": "Warme Kleidung ist nötig, da es am Fluss kühler ist.",
                 "hu": "Meleg ruha kell, a folyóparton sokkal hidegebb van.",
                 "ro": "Haine groase sunt necesare, e mult mai frig lângă râu.",
-                "en": "Warm layers are essential as it's cooler by the river."
+                "en": "Warm layers are essential as it's cooler by the river.",
+                "fr": "Des couches de vêtements chauds sont essentielles car il fait plus frais au bord de la rivière."
               }
             },
             {
@@ -784,7 +852,8 @@
                 "de": "Das Licht der blauen Stunde ist hier im Winter magisch.",
                 "hu": "A 'kék óra' fényei télen itt egészen mágikusak.",
                 "ro": "Lumina orei albastre este magică aici în timpul iernii.",
-                "en": "The 'blue hour' light is truly magical here in winter."
+                "en": "The 'blue hour' light is truly magical here in winter.",
+                "fr": "La lumière de 'l'heure bleue' est vraiment magique ici en hiver."
               }
             }
           ],
@@ -816,6 +885,13 @@
               "Dress in layers; the climb to the fort will warm you up.",
               "Pathways can be icy in the morning; use handrails.",
               "Hot drinks in a thermos are perfect for the towpath walk."
+            ],
+            "fr": [
+              "De nombreux cafés sont fermés en hiver ; planifiez vos arrêts à l'avance.",
+              "Le soleil disparaît derrière les falaises vers 17h00.",
+              "Habillez-vous en superposant les couches ; la montée vers le fort vous réchauffera.",
+              "Les sentiers peuvent être verglacés le matin ; utilisez les mains courantes.",
+              "Des boissons chaudes dans un thermos sont parfaites pour la marche sur le chemin de halage."
             ]
           }
         }
@@ -849,7 +925,8 @@
             "de": "Holen Sie sich eine Karte der Radwege.",
             "hu": "Kérj egy térképet a kerékpárutakról.",
             "ro": "Cereți o hartă a traseelor de bicicletă.",
-            "en": "Get a map of the cycling routes."
+            "en": "Get a map of the cycling routes.",
+            "fr": "Procurez-vous une carte des itinéraires cyclables."
           }
         },
         {
@@ -872,7 +949,8 @@
             "de": "Schieben Sie Ihr Fahrrad in den engen Gassen.",
             "hu": "A szűk utcákban told a biciklit.",
             "ro": "Împingeți bicicleta pe străzile înguste.",
-            "en": "Push your bike in the narrow streets."
+            "en": "Push your bike in the narrow streets.",
+            "fr": "Poussez votre vélo dans les rues étroites."
           }
         },
         {
@@ -895,7 +973,8 @@
             "de": "Genießen Sie die flache Strecke entlang des Wassers.",
             "hu": "Élvezd a sík szakaszt a víz mentén.",
             "ro": "Bucurați-vă de secțiunea plană de-a lungul apei.",
-            "en": "Enjoy the flat section along the water."
+            "en": "Enjoy the flat section along the water.",
+            "fr": "Profitez de la section plate au bord de l'eau."
           }
         },
         {
@@ -918,7 +997,8 @@
             "de": "Ein toller Ort für ein Picknick am Fluss.",
             "hu": "Remek hely egy folyóparti piknikhez.",
             "ro": "Un loc minunat pentru un picnic la râu.",
-            "en": "A great spot for a riverside picnic."
+            "en": "A great spot for a riverside picnic.",
+            "fr": "Un endroit idéal pour un pique-nique au bord de la rivière."
           }
         },
         {
@@ -941,7 +1021,8 @@
             "de": "Ein Renaissance-Schloss hoch über dem Lot.",
             "hu": "Reneszánsz kastély magasan a Lot felett.",
             "ro": "Un castel renascentist deasupra Lotului.",
-            "en": "A Renaissance castle high above the Lot."
+            "en": "A Renaissance castle high above the Lot.",
+            "fr": "Un château de la Renaissance surplombant le Lot."
           }
         },
         {
@@ -964,7 +1045,8 @@
             "de": "Ein wohlverdientes Getränk auf der Terrasse.",
             "hu": "Megérdemelt frissítő a teraszon.",
             "ro": "O băutură binemeritată pe terasă.",
-            "en": "A well-deserved drink on the terrace."
+            "en": "A well-deserved drink on the terrace.",
+            "fr": "Une boisson bien méritée en terrasse."
           }
         }
       ],
@@ -972,7 +1054,8 @@
         "de": "Erkunden Sie das Lot-Tal mit dem Fahrrad. Beginnen Sie mit einem Besuch im Dorf Saint-Cirq-Lapopie (zu Fuß in den Gassen). Radeln Sie dann flussabwärts nach Bouziès entlang der malerischen Uferstraße. Bewundern Sie die Klippen und die grüne Landschaft. Auf dem Rückweg können Sie einen Umweg machen, um das imposante Schloss Cénevières zu sehen, bevor Sie für eine Pause ins Dorf zurückkehren.",
         "hu": "Fedezze fel a Lot-völgyet két keréken. Kezdje a napot Saint-Cirq-Lapopie bebarangolásával (a szűk utcákban sétálva). Ezután tekerjen le a folyó mentén Bouziès irányába a festői part menti úton. Csodálja meg a sziklafalakat és a zöldellő tájat. Visszafelé tegyen egy kitérőt Cénevières vára felé, mielőtt visszatérne a faluba egy pihentető zárásra.",
         "ro": "Explorați valea Lotului pe bicicletă. Începeți cu o vizită în satul Saint-Cirq-Lapopie (pe jos pe străduțe). Apoi pedalați în aval spre Bouziès pe drumul pitoresc de pe malul râului. Admirați faleza și peisajul verde. La întoarcere, puteți face o deviere pentru a vedea impunătorul castel Cénevières, înainte de a reveni în sat pentru o pauză.",
-        "en": "Explore the Lot Valley by bike. Start with a visit to Saint-Cirq-Lapopie village (on foot in the alleys). Then cycle downstream towards Bouziès along the scenic riverside road. Admire the cliffs and the lush landscape. On the way back, take a detour to see the imposing Cénevières Castle before returning to the village for a rest."
+        "en": "Explore the Lot Valley by bike. Start with a visit to Saint-Cirq-Lapopie village (on foot in the alleys). Then cycle downstream towards Bouziès along the scenic riverside road. Admire the cliffs and the lush landscape. On the way back, take a detour to see the imposing Cénevières Castle before returning to the village for a rest.",
+        "fr": "Explorez la vallée du Lot à vélo. Commencez par une visite du village de Saint-Cirq-Lapopie (à pied dans les ruelles). Pédalez ensuite en aval vers Bouziès le long de la route panoramique au bord de l'eau. Admirez les falaises et le paysage luxuriant. Au retour, faites un détour pour voir l'imposant château de Cénevières avant de revenir au village pour vous reposer."
       },
       "gastro_picks": {
         "de": [
@@ -997,6 +1080,12 @@
           {
             "name": "Cahors Wine",
             "tip": "The famous 'black wine' of the region."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Vin de Cahors",
+            "tip": "Le célèbre 'vin noir' de la région."
           }
         ]
       },
@@ -1028,6 +1117,13 @@
             "tip": "Quiet and right by the water.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Aire de pique-nique de Bouziès",
+            "tip": "Calme et juste au bord de l'eau.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1053,6 +1149,12 @@
           {
             "name": "Local products in Bouziès",
             "tip": "Honey and walnuts directly from the producer."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Produits locaux à Bouziès",
+            "tip": "Miel et noix directement du producteur."
           }
         ]
       },
@@ -1080,6 +1182,12 @@
           "Watch out for cars on the narrow riverside road.",
           "The section to Bouziès is almost completely flat.",
           "Bring a lock to secure your bike in the village."
+        ],
+        "fr": [
+          "Louez un vélo électrique pour les sections escarpées autour du village.",
+          "Faites attention aux voitures sur la route étroite au bord de la rivière.",
+          "La section vers Bouziès est presque entièrement plate.",
+          "Apportez un antivol pour sécuriser votre vélo dans le village."
         ]
       },
       "variants": {
@@ -1290,7 +1398,8 @@
             "de": "Morgen: Start mit Regenbekleidung am Tourismusbüro. Mittag: Eine schnelle Fahrt am Lot entlang trotz Nieselregen. Nachmittag: Das Schloss Cénevières in den Wolken. Abend: Rückkehr und Aufwärmen bei einem Tee.",
             "hu": "Reggel: Indulás esőruhában a turisztikai irodától. Délben: Gyors tekerés a Lot mentén a szemerkélő esőben. Délután: Cénevières vára a felhők között. Este: Visszatérés és átmelegedés egy teával.",
             "ro": "Dimineața: Start cu echipament de ploaie la biroul de turism. Prânz: O cursă rapidă pe lângă Lot în ciuda burniței. După-amiază: Castelul Cénevières printre nori. Seara: Întoarcere și încălzire cu un ceai.",
-            "en": "Morning: Starting in rain gear at the Tourist Office. Midday: A brisk ride along the Lot despite the drizzle. Afternoon: Cénevières Castle shrouded in clouds. Evening: Return and warming up with hot tea."
+            "en": "Morning: Starting in rain gear at the Tourist Office. Midday: A brisk ride along the Lot despite the drizzle. Afternoon: Cénevières Castle shrouded in clouds. Evening: Return and warming up with hot tea.",
+            "fr": "Matin : Départ en tenue de pluie à l'Office de Tourisme. Midi : Une balade tonique le long du Lot malgré la bruine. Après-midi : Le château de Cénevières enveloppé de nuages. Soirée : Retour et réchauffement avec un thé chaud."
           },
           "stops": [
             {
@@ -1299,7 +1408,8 @@
                 "de": "Fragen Sie nach dem aktuellen Zustand des Treidelwegs.",
                 "hu": "Kérdezzen rá a vontatóút aktuális állapotára.",
                 "ro": "Întrebați despre starea actuală a drumului de halaj.",
-                "en": "Ask about the current condition of the towpath trails."
+                "en": "Ask about the current condition of the towpath trails.",
+                "fr": "Renseignez-vous sur l'état actuel des sentiers du chemin de halage."
               }
             },
             {
@@ -1308,7 +1418,8 @@
                 "de": "Schieben Sie das Rad in den steilen, nassen Gassen.",
                 "hu": "Tolja a biciklit a meredek, vizes utcákon.",
                 "ro": "Împingeți bicicleta pe străzile abrupte și ude.",
-                "en": "Push your bike in the steep, wet village alleys."
+                "en": "Push your bike in the steep, wet village alleys.",
+                "fr": "Poussez votre vélo dans les ruelles escarpées et mouillées du village."
               }
             },
             {
@@ -1317,7 +1428,8 @@
                 "de": "Achten Sie auf Pfützen und aufgeweichten Untergrund.",
                 "hu": "Ügyeljen a tócsákra és a felázott talajra.",
                 "ro": "Atenție la bălți și la terenul moale.",
-                "en": "Watch out for puddles and soft, muddy ground."
+                "en": "Watch out for puddles and soft, muddy ground.",
+                "fr": "Faites attention aux flaques d'eau et au sol mou et boueux."
               }
             },
             {
@@ -1326,7 +1438,8 @@
                 "de": "Die Metallfugen der Brücke sind extrem rutschig.",
                 "hu": "A híd fém illesztései rendkívül csúszósak.",
                 "ro": "Îmbinările metalice ale podului sunt extrem de alunecoase.",
-                "en": "Metal joints on the bridge are extremely slippery."
+                "en": "Metal joints on the bridge are extremely slippery.",
+                "fr": "Les joints métalliques sur le pont sont extrêmement glissants."
               }
             },
             {
@@ -1335,7 +1448,8 @@
                 "de": "Ein dramatischer Blick auf das Schloss im Regen.",
                 "hu": "Drámai kilátás a várra az esőben.",
                 "ro": "O vedere dramatică a castelului pe ploaie.",
-                "en": "A dramatic view of the castle through the rain."
+                "en": "A dramatic view of the castle through the rain.",
+                "fr": "Une vue spectaculaire du château à travers la pluie."
               }
             },
             {
@@ -1344,7 +1458,8 @@
                 "de": "Reinigen Sie Bremsen und Kette nach der Matschfahrt.",
                 "hu": "Tisztítsa meg a féket és a láncot a sáros út után.",
                 "ro": "Curățați frânele și lanțul după cursa prin noroi.",
-                "en": "Clean your brakes and chain after the muddy ride."
+                "en": "Clean your brakes and chain after the muddy ride.",
+                "fr": "Nettoyez vos freins et votre chaîne après la sortie boueuse."
               }
             }
           ],
@@ -1376,6 +1491,13 @@
               "Avoid sharp braking on wet cobblestones.",
               "Waterproof panniers will keep your belongings dry.",
               "Wear high-visibility clothing for better safety in rain."
+            ],
+            "fr": [
+              "Les garde-boue sont essentiels par ce type de temps.",
+              "Baissez légèrement la pression de vos pneus pour une meilleure traction.",
+              "Évitez les freinages brusques sur les pavés mouillés.",
+              "Des sacoches étanches garderont vos affaires au sec.",
+              "Portez des vêtements haute visibilité pour plus de sécurité sous la pluie."
             ]
           }
         },
@@ -1384,7 +1506,8 @@
             "de": "Morgen: Kalte, klare Luft bei der Abfahrt. Mittag: Aufwärmstopp in Bouziès. Nachmittag: Die kahlen Bäume geben den Blick auf den Lot frei. Abend: Schnelle Rückkehr vor dem Temperatursturz bei Sonnenuntergang.",
             "hu": "Reggel: Hideg, tiszta levegő az induláskor. Délben: Melegítő pihenő Bouziès-ben. Délután: A kopasz fák között jobban látszik a folyó. Este: Gyors visszatérés a naplemente utáni lehűlés előtt.",
             "ro": "Dimineața: Aer rece și curat la plecare. Prânz: Pauză de încălzire în Bouziès. După-amiază: Copacii golași dezvăluie cursul râului Lot. Seara: Întoarcere rapidă înainte de gerul serii.",
-            "en": "Morning: Cold, crisp air at the start of the ride. Midday: Warming break in Bouziès. Afternoon: Bare trees offer clear views of the Lot river. Evening: Fast return before the temperature drops at sunset."
+            "en": "Morning: Cold, crisp air at the start of the ride. Midday: Warming break in Bouziès. Afternoon: Bare trees offer clear views of the Lot river. Evening: Fast return before the temperature drops at sunset.",
+            "fr": "Matin : Air froid et vif au début de la balade. Midi : Pause réchauffante à Bouziès. Après-midi : Les arbres nus offrent des vues dégagées sur le Lot. Soirée : Retour rapide avant que la température ne chute au coucher du soleil."
           },
           "stops": [
             {
@@ -1393,7 +1516,8 @@
                 "de": "Prüfen Sie den Reifendruck für kalte Bedingungen.",
                 "hu": "Ellenőrizze a guminyomást a hideg időhöz.",
                 "ro": "Verificați presiunea pneurilor pentru frig.",
-                "en": "Check tire pressure for cold winter conditions."
+                "en": "Check tire pressure for cold winter conditions.",
+                "fr": "Vérifiez la pression des pneus pour les conditions froides de l'hiver."
               }
             },
             {
@@ -1402,7 +1526,8 @@
                 "de": "Achten Sie auf Reifglätte im Schatten der Häuser.",
                 "hu": "Vigyázzon a dér miatt csúszós árnyékos részekre.",
                 "ro": "Atenție la polei în zonele umbrite ale caselor.",
-                "en": "Watch out for frost in the shadows of the buildings."
+                "en": "Watch out for frost in the shadows of the buildings.",
+                "fr": "Faites attention au givre dans l'ombre des bâtiments."
               }
             },
             {
@@ -1411,7 +1536,8 @@
                 "de": "Der Wind im Tal kann im Winter sehr schneidend sein.",
                 "hu": "A völgyi szél télen nagyon metsző lehet.",
                 "ro": "Vântul din vale poate fi foarte tăios iarna.",
-                "en": "The valley wind can be very biting in winter."
+                "en": "The valley wind can be very biting in winter.",
+                "fr": "Le vent de la vallée peut être très mordant en hiver."
               }
             },
             {
@@ -1420,7 +1546,8 @@
                 "de": "Genießen Sie den weiten Blick ohne störendes Laub.",
                 "hu": "Élvezze a kilátást a lombkorona takarása nélkül.",
                 "ro": "Bucurați-vă de priveliște fără frunzișul deasă.",
-                "en": "Enjoy the wide views without the leafy canopy."
+                "en": "Enjoy the wide views without the leafy canopy.",
+                "fr": "Profitez des larges panoramas sans la canopée feuillue."
               }
             },
             {
@@ -1429,7 +1556,8 @@
                 "de": "Das Schloss leuchtet im klaren Winterlicht.",
                 "hu": "A vár fehéren világít a tiszta téli fényben.",
                 "ro": "Castelul strălucește în lumina clară de iarnă.",
-                "en": "The castle shines brightly in the crisp winter light."
+                "en": "The castle shines brightly in the crisp winter light.",
+                "fr": "Le château brille intensément dans la lumière vive de l'hiver."
               }
             },
             {
@@ -1438,7 +1566,8 @@
                 "de": "Beenden Sie die Tour vor der frühen Dunkelheit.",
                 "hu": "Fejezze be a túrát a korai sötétedés előtt.",
                 "ro": "Finalizați turul înainte de lăsarea întunericului.",
-                "en": "Finish your tour before the early winter darkness."
+                "en": "Finish your tour before the early winter darkness.",
+                "fr": "Terminez votre tour avant l'obscurité précoce de l'hiver."
               }
             }
           ],
@@ -1470,6 +1599,13 @@
               "Bike light batteries drain faster in cold weather.",
               "Take an energy bar to help maintain body heat.",
               "Stay hydrated even if you don't feel thirsty."
+            ],
+            "fr": [
+              "Des gants chauds sont votre équipement le plus important.",
+              "Portez une couche extérieure coupe-vent pour bloquer la brise de la vallée.",
+              "Les batteries des éclairages de vélo se vident plus vite par temps froid.",
+              "Prenez une barre énergétique pour aider à maintenir la chaleur corporelle.",
+              "Restez hydraté même si vous ne ressentez pas la soif."
             ]
           }
         }
@@ -1503,7 +1639,8 @@
             "de": "Günstigster Zugang zum oberen Dorf.",
             "hu": "A legkényelmesebb bejárat a felső faluhoz.",
             "ro": "Cea mai ușoară cale de acces către partea de sus a satului.",
-            "en": "Easiest access to the upper village."
+            "en": "Easiest access to the upper village.",
+            "fr": "Accès le plus facile au haut du village."
           }
         },
         {
@@ -1526,7 +1663,8 @@
             "de": "Nehmen Sie sich Zeit für die Kunstgalerien.",
             "hu": "Szánj időt a művészeti galériákra.",
             "ro": "Acordați-vă timp pentru galeriile de artă.",
-            "en": "Take your time to visit the art galleries."
+            "en": "Take your time to visit the art galleries.",
+            "fr": "Prenez votre temps pour visiter les galeries d'art."
           }
         },
         {
@@ -1549,7 +1687,8 @@
             "de": "Reservieren Sie Ihre Tickets unbedingt im Voraus.",
             "hu": "Mindenképpen foglald le előre a jegyeket.",
             "ro": "Rezervați biletele neapărat în avans.",
-            "en": "Be sure to book your tickets in advance."
+            "en": "Be sure to book your tickets in advance.",
+            "fr": "Assurez-vous de réserver vos billets à l'avance."
           }
         },
         {
@@ -1572,7 +1711,8 @@
             "de": "Blick auf die Klippen und den Fluss.",
             "hu": "Kilátás a sziklafalakra és a folyóra.",
             "ro": "Vedere asupra falezei și râului.",
-            "en": "View of the cliffs and the river."
+            "en": "View of the cliffs and the river.",
+            "fr": "Vue sur les falaises et la rivière."
           }
         },
         {
@@ -1595,7 +1735,8 @@
             "de": "Führungen sind oft vom Besitzer selbst.",
             "hu": "A vezetést sokszor maga a tulajdonos tartja.",
             "ro": "Tururile sunt adesea ghidate de proprietar.",
-            "en": "Tours are often led by the owner himself."
+            "en": "Tours are often led by the owner himself.",
+            "fr": "Les visites sont souvent dirigées par le propriétaire lui-même."
           }
         },
         {
@@ -1618,7 +1759,8 @@
             "de": "Abendessen mit Blick auf das beleuchtete Dorf.",
             "hu": "Vacsora kilátással a kivilágított falura.",
             "ro": "Cină cu vedere la satul iluminat.",
-            "en": "Dinner with a view of the illuminated village."
+            "en": "Dinner with a view of the illuminated village.",
+            "fr": "Dîner avec vue sur le village illuminé."
           }
         }
       ],
@@ -1626,7 +1768,8 @@
         "de": "Mit dem Auto können Sie die Schätze rund um Saint-Cirq-Lapopie entdecken. Beginnen Sie mit einem ausgiebigen Rundgang durch das mittelalterliche Dorf. Fahren Sie dann zur Grotte von Pech Merle, um prähistorische Malereien zu bewundern. Am Nachmittag besuchen Sie das prächtige Schloss Cénevières, bevor Sie für einen stimmungsvollen Abend nach Saint-Cirq zurückkehren.",
         "hu": "Autóval könnyedén felfedezheti Saint-Cirq-Lapopie környékének kincseit. Kezdje a napot a középkori falu alapos bejárásával. Ezután hajtson el a Pech Merle barlanghoz, hogy megcsodálja az őskori barlangrajzokat. Délután látogasson el a pompás Cénevières kastélyhoz, majd térjen vissza Saint-Cirq-be egy hangulatos estére.",
         "ro": "Cu mașina puteți descoperi comorile din jurul Saint-Cirq-Lapopie. Începeți cu un tur detaliat al satului medieval. Apoi mergeți la Peștera Pech Merle pentru a admira picturile preistorice. După-amiaza, vizitați splendidul castel Cénevières, înainte de a reveni în Saint-Cirq pentru o seară atmosferică.",
-        "en": "By car, you can easily discover the treasures around Saint-Cirq-Lapopie. Start with a thorough tour of the medieval village. Then drive to the Pech Merle cave to admire prehistoric paintings. In the afternoon, visit the splendid Cénevières Castle before returning to Saint-Cirq for an atmospheric evening."
+        "en": "By car, you can easily discover the treasures around Saint-Cirq-Lapopie. Start with a thorough tour of the medieval village. Then drive to the Pech Merle cave to admire prehistoric paintings. In the afternoon, visit the splendid Cénevières Castle before returning to Saint-Cirq for an atmospheric evening.",
+        "fr": "En voiture, vous pouvez facilement découvrir les trésors autour de Saint-Cirq-Lapopie. Commencez par une visite complète du village médiéval. Roulez ensuite vers la grotte du Pech Merle pour admirer les peintures préhistoriques. L'après-midi, visitez le splendide château de Cénevières avant de revenir à Saint-Cirq pour une soirée atmosphérique."
       },
       "gastro_picks": {
         "de": [
@@ -1651,6 +1794,12 @@
           {
             "name": "Gâteau aux noix",
             "tip": "Traditional walnut cake."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Gâteau aux noix",
+            "tip": "Gâteau aux noix traditionnel."
           }
         ]
       },
@@ -1682,6 +1831,13 @@
             "tip": "Spectacular loop of the Lot river.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Belvédère du Cirque de Vènes",
+            "tip": "Boucle spectaculaire de la rivière Lot.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1707,6 +1863,12 @@
           {
             "name": "Cahors wine boutiques",
             "tip": "Wide selection of local appellations."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutiques de vin de Cahors",
+            "tip": "Large sélection d'appellations locales."
           }
         ]
       },
@@ -1734,6 +1896,12 @@
           "Parking fees in the village are mandatory during the season.",
           "Book the Pech Merle cave weeks in advance.",
           "Combine the visit with a drive along the river."
+        ],
+        "fr": [
+          "Les routes de la vallée du Lot sont étroites et sinueuses.",
+          "Les frais de stationnement dans le village sont obligatoires pendant la saison.",
+          "Réservez la grotte du Pech Merle des semaines à l'avance.",
+          "Combinez la visite avec une promenade le long de la rivière."
         ]
       },
       "variants": {
@@ -1944,7 +2112,8 @@
             "de": "Morgen: Bequeme Fahrt zum Parkplatz P4. Mittag: Die Höhle von Pech Merle ist der perfekte regensichere Ort. Nachmittag: Panoramafahrt entlang des Lot. Abend: Letzter Blick auf das beleuchtete Dorf im Regen.",
             "hu": "Reggel: Kényelmes gurulás a P4 parkolóba. Délben: A Pech Merle barlang a tökéletes esőbiztos program. Délután: Panoráma-autózás a Lot mentén. Este: Utolsó pillantás a kivilágított falura az esőben.",
             "ro": "Dimineața: Conducere relaxată spre parcarea P4. Prânz: Peștera Pech Merle este locul perfect ferit de ploaie. După-amiază: Drum panoramic de-a lungul Lotului. Seara: O ultimă privire spre satul iluminat prin ploaie.",
-            "en": "Morning: Easy drive to the P4 parking area. Midday: Pech Merle Cave is the perfect rain-proof activity. Afternoon: Panoramic drive along the Lot river. Evening: A final look at the illuminated village in the rain."
+            "en": "Morning: Easy drive to the P4 parking area. Midday: Pech Merle Cave is the perfect rain-proof activity. Afternoon: Panoramic drive along the Lot river. Evening: A final look at the illuminated village in the rain.",
+            "fr": "Matin : Trajet facile jusqu'au parking P4. Midi : La grotte du Pech Merle est l'activité parfaite contre la pluie. Après-midi : Route panoramique le long du Lot. Soirée : Un dernier regard sur le village illuminé sous la pluie."
           },
           "stops": [
             {
@@ -1953,7 +2122,8 @@
                 "de": "Nutzen Sie den Parkplatz, der dem Dorf am nächsten liegt.",
                 "hu": "Használja a faluhoz legközelebbi parkolót.",
                 "ro": "Folosiți parcarea cea mai apropiată de sat.",
-                "en": "Use the parking lot closest to the village entrance."
+                "en": "Use the parking lot closest to the village entrance.",
+                "fr": "Utilisez le parking le plus proche de l'entrée du village."
               }
             },
             {
@@ -1962,7 +2132,8 @@
                 "de": "Erkunden Sie die Galerien als trockene Zwischenstopps.",
                 "hu": "Fedezze fel a galériákat száraz megállóként.",
                 "ro": "Explorați galeriile de artă pentru popasuri uscate.",
-                "en": "Explore the art galleries for dry indoor breaks."
+                "en": "Explore the art galleries for dry indoor breaks.",
+                "fr": "Explorez les galeries d'art pour des pauses au sec à l'intérieur."
               }
             },
             {
@@ -1971,7 +2142,8 @@
                 "de": "Hier sind Sie 100% vor Regen geschützt.",
                 "hu": "Itt 100%-os védelmet élvez az eső ellen.",
                 "ro": "Aici sunteți protejat 100% de ploaie.",
-                "en": "Here you are 100% sheltered from the rain."
+                "en": "Here you are 100% sheltered from the rain.",
+                "fr": "Ici, vous êtes 100% à l'abri de la pluie."
               }
             },
             {
@@ -1980,7 +2152,8 @@
                 "de": "Bleiben Sie bei starkem Regen für das Foto im Auto.",
                 "hu": "Erős esőben maradjon az autóban a fotózáshoz.",
                 "ro": "Rămâneți în mașină pentru poze dacă plouă torențial.",
-                "en": "Stay in the car for photos if the rain gets heavy."
+                "en": "Stay in the car for photos if the rain gets heavy.",
+                "fr": "Restez dans la voiture pour les photos si la pluie devient forte."
               }
             },
             {
@@ -1989,7 +2162,8 @@
                 "de": "Besichtigen Sie das prächtige Interieur des Schlosses.",
                 "hu": "Tekintse meg a vár pompás belső tereit.",
                 "ro": "Vizitați interiorul somptuos al castelului.",
-                "en": "Visit the magnificent interior of the castle."
+                "en": "Visit the magnificent interior of the castle.",
+                "fr": "Visitez le magnifique intérieur du château."
               }
             },
             {
@@ -1998,7 +2172,8 @@
                 "de": "Das Dorf leuchtet nachts auf den nassen Felsen.",
                 "hu": "A falu éjjel csillog a vizes sziklákon.",
                 "ro": "Satul strălucește noaptea pe stâncile ude.",
-                "en": "The village glows beautifully on the wet rocks at night."
+                "en": "The village glows beautifully on the wet rocks at night.",
+                "fr": "Le village brille magnifiquement sur les rochers mouillés la nuit."
               }
             }
           ],
@@ -2030,6 +2205,13 @@
               "Parking areas can become muddy after heavy rain.",
               "Keep wet umbrellas in the trunk to avoid interior humidity.",
               "Use the windshield defogger for better visibility."
+            ],
+            "fr": [
+              "Attention à l'aquaplaning sur la route de la rivière.",
+              "Réservez la visite de la grotte à l'avance, car elle est prisée les jours de pluie.",
+              "Les zones de stationnement peuvent devenir boueuses après de fortes pluies.",
+              "Gardez les parapluies mouillés dans le coffre pour éviter l'humidité intérieure.",
+              "Utilisez le désembuage du pare-brise pour une meilleure visibilité."
             ]
           }
         },
@@ -2038,7 +2220,8 @@
             "de": "Morgen: Fahrt durch das frostige Quercy-Land. Mittag: Konstante 12 Grad in der Höhle von Pech Merle. Nachmittag: Winterliches Panorama von Cénevières. Abend: Ein warmes Abendessen vor der Heimfahrt durch die stille Nacht.",
             "hu": "Reggel: Autózás a dérlepte Quercy vidéken. Délben: Állandó 12 fok a Pech Merle barlangban. Délután: Téli panoráma Cénevières vára felől. Este: Meleg vacsora a csöndes éjszakai hazautazás előtt.",
             "ro": "Dimineața: Conducere prin regiunea Quercy înghețată. Prânz: Temperatură constantă de 12 grade în peșteră. După-amiază: Panoramă de iarnă de la Cénevières. Seara: O cină caldă înainte de drumul spre casă.",
-            "en": "Morning: Driving through the frosty Quercy countryside. Midday: Constant 12 degrees inside Pech Merle Cave. Afternoon: Winter panorama from Cénevières. Evening: A warm dinner before the quiet nighttime drive home."
+            "en": "Morning: Driving through the frosty Quercy countryside. Midday: Constant 12 degrees inside Pech Merle Cave. Afternoon: Winter panorama from Cénevières. Evening: A warm dinner before the quiet nighttime drive home.",
+            "fr": "Matin : Traversée de la campagne du Quercy givrée. Midi : 12 degrés constants à l'intérieur de la grotte du Pech Merle. Après-midi : Panorama hivernal depuis Cénevières. Soirée : Un dîner chaud avant le retour nocturne au calme."
           },
           "stops": [
             {
@@ -2047,7 +2230,8 @@
                 "de": "Parkplätze sind im Winter reichlich vorhanden.",
                 "hu": "Télen bőségesen van szabad parkolóhely.",
                 "ro": "Locurile de parcare sunt abundente iarna.",
-                "en": "Parking spaces are plentiful during the winter months."
+                "en": "Parking spaces are plentiful during the winter months.",
+                "fr": "Les places de parking sont nombreuses pendant les mois d'hiver."
               }
             },
             {
@@ -2056,7 +2240,8 @@
                 "de": "Genießen Sie die klare Architektur ohne Blätterdach.",
                 "hu": "Élvezze a tiszta architektúrát a lombok nélkül.",
                 "ro": "Admirați arhitectura clară fără frunzișul deasă.",
-                "en": "Enjoy the clear architecture without the summer foliage."
+                "en": "Enjoy the clear architecture without the summer foliage.",
+                "fr": "Profitez de l'architecture claire sans le feuillage estival."
               }
             },
             {
@@ -2065,7 +2250,8 @@
                 "de": "Die Höhle fühlt sich im Winter angenehm warm an.",
                 "hu": "A barlang télen kellemesen melegnek érződik.",
                 "ro": "Peștera pare plăcut de caldă în timpul iernii.",
-                "en": "The cave feels pleasantly warm during the winter."
+                "en": "The cave feels pleasantly warm during the winter.",
+                "fr": "La grotte semble agréablement chaude pendant l'hiver."
               }
             },
             {
@@ -2074,7 +2260,8 @@
                 "de": "Die Felsformationen sind im Winter markanter.",
                 "hu": "A sziklaalakzatok télen sokkal markánsabbak.",
                 "ro": "Formațiunile stâncoase sunt mai pronunțate iarna.",
-                "en": "The rock formations are more striking in winter."
+                "en": "The rock formations are more striking in winter.",
+                "fr": "Les formations rocheuses sont plus frappantes en hiver."
               }
             },
             {
@@ -2083,7 +2270,8 @@
                 "de": "Wärmen Sie sich in den historischen Sälen auf.",
                 "hu": "Melegedjen fel a történelmi termekben.",
                 "ro": "Încălziți-vă în sălile istorice ale castelului.",
-                "en": "Warm up inside the historical halls of the castle."
+                "en": "Warm up inside the historical halls of the castle.",
+                "fr": "Réchauffez-vous à l'intérieur des salles historiques du château."
               }
             },
             {
@@ -2092,7 +2280,8 @@
                 "de": "Die kalte Luft macht die Sterne besonders hell.",
                 "hu": "A hideg levegőben a csillagok különösen fényesek.",
                 "ro": "Aerul rece face stelele să pară extrem de strălucitoare.",
-                "en": "The cold air makes the stars look exceptionally bright."
+                "en": "The cold air makes the stars look exceptionally bright.",
+                "fr": "L'air froid rend les étoiles exceptionnellement brillantes."
               }
             }
           ],
@@ -2124,6 +2313,13 @@
               "Ensure you have anti-freeze windshield washer fluid.",
               "Some minor mountain roads may be less cleared in winter.",
               "Keep blankets in the car for any long waits."
+            ],
+            "fr": [
+              "Vérifiez les dates d'ouverture hivernales de Pech Merle.",
+              "Les routes de la vallée peuvent être glissantes tôt le matin.",
+              "Assurez-vous d'avoir du liquide lave-glace antigel.",
+              "Certaines petites routes de montagne peuvent être moins déneigées en hiver.",
+              "Gardez des couvertures dans la voiture pour les éventuelles attentes."
             ]
           }
         }
@@ -2157,7 +2353,8 @@
             "de": "Ankunft mit der Linie 889 von Cahors.",
             "hu": "Érkezés a 889-es busszal Cahors felől.",
             "ro": "Sosire cu linia 889 din Cahors.",
-            "en": "Arrival by line 889 from Cahors."
+            "en": "Arrival by line 889 from Cahors.",
+            "fr": "Arrivée par la ligne 889 depuis Cahors."
           }
         },
         {
@@ -2180,7 +2377,8 @@
             "de": "Ein steiler, aber schöner Fußweg.",
             "hu": "Meredek, de gyönyörű gyalogút.",
             "ro": "O potecă abruptă, dar frumoasă.",
-            "en": "A steep but beautiful walking path."
+            "en": "A steep but beautiful walking path.",
+            "fr": "Un sentier de randonnée escarpé mais magnifique."
           }
         },
         {
@@ -2203,7 +2401,8 @@
             "de": "Erkunden Sie die Handwerksläden.",
             "hu": "Fedezd fel a kézműves boltokat.",
             "ro": "Explorați magazinele de artizanat.",
-            "en": "Explore the craft shops."
+            "en": "Explore the craft shops.",
+            "fr": "Explorez les boutiques d'artisanat."
           }
         },
         {
@@ -2226,7 +2425,8 @@
             "de": "Genießen Sie die Aussicht beim Essen.",
             "hu": "Élvezd a kilátást étkezés közben.",
             "ro": "Bucurați-vă de priveliște în timp ce mâncați.",
-            "en": "Enjoy the view while eating."
+            "en": "Enjoy the view while eating.",
+            "fr": "Profitez de la vue en mangeant."
           }
         },
         {
@@ -2249,7 +2449,8 @@
             "de": "Prüfen Sie die Abfahrtszeit des Busses genau.",
             "hu": "Pontosan ellenőrizd a busz indulását.",
             "ro": "Verificați exact ora de plecare a autobuzului.",
-            "en": "Check the bus departure time carefully."
+            "en": "Check the bus departure time carefully.",
+            "fr": "Vérifiez attentivement l'heure de départ du bus."
           }
         }
       ],
@@ -2257,7 +2458,8 @@
         "de": "Besuchen Sie Saint-Cirq-Lapopie ganz entspannt mit dem Bus. Von der Haltestelle in Tour-de-Faure führt Sie ein schöner Spaziergang hinauf zum Dorf. Verbringen Sie den Tag damit, die mittelalterlichen Gassen und historischen Gebäude zu erkunden. Nach einem gemütlichen Mittagessen auf einer Terrasse steigen Sie wieder zum Fluss hinab, um Ihren Bus zurück zu nehmen.",
         "hu": "Látogasson el Saint-Cirq-Lapopie-ba kényelmesen busszal. A Tour-de-Faure-i megállótól egy kellemes séta vezet fel a faluba. Töltse a napot a középkori utcák és történelmi épületek felfedezésével. Egy hangulatos teraszon elköltött ebéd után ereszkedjen vissza a folyóhoz, hogy elérje a visszatérő buszjáratot.",
         "ro": "Vizitați Saint-Cirq-Lapopie relaxat, cu autobuzul. De la stația din Tour-de-Faure, o plimbare frumoasă vă conduce spre sat. Petreceți ziua explorând străduțele medievale și clădirile istorice. După un prânz plăcut pe o terasă, coborâți din nou spre râu pentru a lua autobuzul de întoarcere.",
-        "en": "Visit Saint-Cirq-Lapopie stress-free by bus. From the stop in Tour-de-Faure, a beautiful walk leads you up to the village. Spend the day exploring the medieval alleys and historic buildings. After a leisurely lunch on a terrace, descend back to the river to catch your return bus."
+        "en": "Visit Saint-Cirq-Lapopie stress-free by bus. From the stop in Tour-de-Faure, a beautiful walk leads you up to the village. Spend the day exploring the medieval alleys and historic buildings. After a leisurely lunch on a terrace, descend back to the river to catch your return bus.",
+        "fr": "Visitez Saint-Cirq-Lapopie sans stress en bus. Depuis l'arrêt à Tour-de-Faure, une belle promenade vous mène au village. Passez la journée à explorer les ruelles médiévales et les bâtiments historiques. Après un déjeuner tranquille en terrasse, redescendez vers la rivière pour prendre votre bus de retour."
       },
       "gastro_picks": {
         "de": [
@@ -2282,6 +2484,12 @@
           {
             "name": "Rocamadour Cheese",
             "tip": "Small local goat cheese specialty."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Fromage de Rocamadour",
+            "tip": "Petite spécialité locale de fromage de chèvre."
           }
         ]
       },
@@ -2313,6 +2521,13 @@
             "tip": "A quiet corner in the village center.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin de la Mairie",
+            "tip": "Un coin tranquille au centre du village.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -2340,6 +2555,12 @@
             "name": "Postcard boutiques",
             "tip": "Beautiful watercolors of the village."
           }
+        ],
+        "fr": [
+          {
+            "name": "Boutiques de cartes postales",
+            "tip": "Belles aquarelles du village."
+          }
         ]
       },
       "tips": {
@@ -2366,6 +2587,12 @@
           "Additional shuttles operate during the summer months.",
           "Allow plenty of time for the walk back to the stop.",
           "Buy tickets directly from the driver."
+        ],
+        "fr": [
+          "La ligne de bus 889 ne circule que quelques fois par jour.",
+          "Des navettes supplémentaires fonctionnent pendant les mois d'été.",
+          "Prévoyez suffisamment de temps pour la marche retour vers l'arrêt.",
+          "Achetez les billets directement auprès du chauffeur."
         ]
       },
       "variants": {
@@ -2563,7 +2790,8 @@
             "de": "Morgen: Ankunft im Regen an der Bushaltestelle. Mittag: Der Aufstieg zum Dorf ist erfrischend, aber nass. Nachmittag: Längere Pausen in den Restaurants des Zentrums. Abend: Warten auf den Bus unter dem Unterstand in Tour-de-Faure.",
             "hu": "Reggel: Érkezés esőben a buszmegállóba. Délben: A faluba való feljutás frissítő, de vizes. Délután: Hosszabb pihenők a központ éttermeiben. Este: Várakozás a buszra a Tour-de-Faure-i esőbeálló alatt.",
             "ro": "Dimineața: Sosire pe ploaie la stația de autobuz. Prânz: Urcușul spre sat este revigorant, dar ud. După-amiază: Pauze prelungite în restaurantele din centru. Seara: Așteptarea autobuzului sub adăpostul din Tour-de-Faure.",
-            "en": "Morning: Arrival in the rain at the bus stop. Midday: The walk up to the village is refreshing but wet. Afternoon: Longer breaks in the village restaurants. Evening: Waiting for the bus under the shelter at Tour-de-Faure."
+            "en": "Morning: Arrival in the rain at the bus stop. Midday: The walk up to the village is refreshing but wet. Afternoon: Longer breaks in the village restaurants. Evening: Waiting for the bus under the shelter at Tour-de-Faure.",
+            "fr": "Matin : Arrivée sous la pluie à l'arrêt de bus. Midi : La montée vers le village est rafraîchissante mais humide. Après-midi : Pauses plus longues dans les restaurants du village. Soirée : Attente du bus sous l'abri à Tour-de-Faure."
           },
           "stops": [
             {
@@ -2572,7 +2800,8 @@
                 "de": "Nutzen Sie das Wartehäuschen als Regenschutz.",
                 "hu": "Használja a buszvárót eső elleni védelemre.",
                 "ro": "Folosiți stația acoperită pentru protecție.",
-                "en": "Use the bus shelter to stay dry while waiting."
+                "en": "Use the bus shelter to stay dry while waiting.",
+                "fr": "Utilisez l'abri-bus pour rester au sec en attendant."
               }
             },
             {
@@ -2581,7 +2810,8 @@
                 "de": "Der Anstieg ist steil, gehen Sie langsam bei Nässe.",
                 "hu": "A felfelé vezető út meredek, lassan menjen esőben.",
                 "ro": "Urcușul e abrupt, mergeți încet pe ploaie.",
-                "en": "The path up is steep; take it slow in wet weather."
+                "en": "The path up is steep; take it slow in wet weather.",
+                "fr": "Le chemin qui monte est raide ; allez-y doucement par temps humide."
               }
             },
             {
@@ -2590,7 +2820,8 @@
                 "de": "Die schmalen Gassen bieten teilweise Windschutz.",
                 "hu": "A szűk utcák részleges védelmet nyújtanak a szél ellen.",
                 "ro": "Străzile înguste oferă parțial adăpost contra vântului.",
-                "en": "Narrow streets offer some protection from the wind."
+                "en": "Narrow streets offer some protection from the wind.",
+                "fr": "Les rues étroites offrent une certaine protection contre le vent."
               }
             },
             {
@@ -2599,7 +2830,8 @@
                 "de": "Suchen Sie einen Platz im Innenraum mit Aussicht.",
                 "hu": "Keressen belső asztalt, ahonnan látszik a kilátás.",
                 "ro": "Căutați un loc în interior cu vedere spre vale.",
-                "en": "Find an indoor table with a view of the valley."
+                "en": "Find an indoor table with a view of the valley.",
+                "fr": "Trouvez une table à l'intérieur avec vue sur la vallée."
               }
             },
             {
@@ -2608,7 +2840,8 @@
                 "de": "Rechnen Sie Zeit für das Trocknen Ihrer Kleidung ein.",
                 "hu": "Számoljon időt a ruhái megszárítására.",
                 "ro": "Alocați timp pentru uscarea hainelor.",
-                "en": "Allow some time to dry your gear after the walk."
+                "en": "Allow some time to dry your gear after the walk.",
+                "fr": "Prévoyez du temps pour sécher votre équipement après la marche."
               }
             }
           ],
@@ -2640,6 +2873,13 @@
               "Waterproof shoes are a must for the walk from the stop.",
               "Carry a spare pair of dry socks in your bag.",
               "Buses often have stronger heating on rainy days."
+            ],
+            "fr": [
+              "Vérifiez les horaires de bus car la pluie peut causer des retards mineurs.",
+              "Un poncho de pluie est plus pratique qu'un parapluie pour la montée.",
+              "Des chaussures imperméables sont indispensables pour la marche depuis l'arrêt.",
+              "Emportez une paire de chaussettes sèches de rechange dans votre sac.",
+              "Les bus ont souvent un chauffage plus fort les jours de pluie."
             ]
           }
         },
@@ -2648,7 +2888,8 @@
             "de": "Morgen: Frische Ankunft an der Haltestelle Tour-de-Faure. Mittag: Der steile Aufstieg hält Sie warm. Nachmittag: Ein gemütlicher Nachmittag im historischen Kern. Abend: Rückkehr zur Haltestelle in der frühen winterlichen Dunkelheit.",
             "hu": "Reggel: Friss érkezés a Tour-de-Faure megállóba. Délben: A meredek kaptató melegen tartja. Délután: Kellemes délután a történelmi magban. Este: Visszatérés a megállóba a korai téli sötétségben.",
             "ro": "Dimineața: Sosire răcoroasă în stația Tour-de-Faure. Prânz: Urcușul abrupt vă va ține de cald. După-amiază: O după-amiază relaxantă în centrul istoric. Seara: Întoarcere la stație pe întunericul serii de iarnă.",
-            "en": "Morning: A crisp arrival at the Tour-de-Faure bus stop. Midday: The steep climb will keep your body temperature up. Afternoon: A cozy afternoon in the historic village core. Evening: Return to the stop in the early winter darkness."
+            "en": "Morning: A crisp arrival at the Tour-de-Faure bus stop. Midday: The steep climb will keep your body temperature up. Afternoon: A cozy afternoon in the historic village core. Evening: Return to the stop in the early winter darkness.",
+            "fr": "Matin : Une arrivée vive à l'arrêt de bus de Tour-de-Faure. Midi : La montée raide maintiendra votre température corporelle. Après-midi : Un après-midi douillet dans le cœur historique du village. Soirée : Retour à l'arrêt dans l'obscurité précoce de l'hiver."
           },
           "stops": [
             {
@@ -2657,7 +2898,8 @@
                 "de": "Tragen Sie Reflektoren für den Weg an der Straße.",
                 "hu": "Viseljen fényvisszaverőt az út menti szakaszon.",
                 "ro": "Purtați elemente reflectorizante pentru siguranță.",
-                "en": "Wear reflectors for the walk along the roadside."
+                "en": "Wear reflectors for the walk along the roadside.",
+                "fr": "Portez des réfléchissants pour la marche le long de la route."
               }
             },
             {
@@ -2666,7 +2908,8 @@
                 "de": "Bewegung ist das beste Mittel gegen die Kälte.",
                 "hu": "A mozgás a legjobb ellenszere a hidegnek.",
                 "ro": "Mişcarea este cel mai bun remediu contra frigului.",
-                "en": "Physical activity is the best way to fight the chill."
+                "en": "Physical activity is the best way to fight the chill.",
+                "fr": "L'activité physique est le meilleur moyen de lutter contre le froid."
               }
             },
             {
@@ -2675,7 +2918,8 @@
                 "de": "Die Steinhäuser speichern die Kälte, warm anziehen.",
                 "hu": "A kőházak ontják a hideget, öltözzön melegen.",
                 "ro": "Casele de piatră emană frig, îmbrăcați-vă gros.",
-                "en": "The stone houses radiate cold; keep your coat on."
+                "en": "The stone houses radiate cold; keep your coat on.",
+                "fr": "Les maisons en pierre irradient le froid ; gardez votre manteau."
               }
             },
             {
@@ -2684,7 +2928,8 @@
                 "de": "Genießen Sie den weiten Blick in der klaren Luft.",
                 "hu": "Élvezze a messzi kilátást a tiszta levegőben.",
                 "ro": "Bucurați-vă de vizibilitatea mare în aerul curat.",
-                "en": "Enjoy the long-distance views in the clear air."
+                "en": "Enjoy the long-distance views in the clear air.",
+                "fr": "Profitez des vues lointaines dans l'air pur."
               }
             },
             {
@@ -2693,7 +2938,8 @@
                 "de": "Achten Sie auf die reduzierten Winterfahrpläne.",
                 "hu": "Ügyeljen a ritkább téli menetrendre.",
                 "ro": "Atenție la orarul de iarnă mai redus.",
-                "en": "Be aware of the reduced winter bus schedules."
+                "en": "Be aware of the reduced winter bus schedules.",
+                "fr": "Soyez conscient des horaires de bus réduits en hiver."
               }
             }
           ],
@@ -2725,6 +2971,13 @@
               "Wait in a heated cafe rather than at the exposed stop.",
               "Dress in layers to protect against the valley wind chill.",
               "Check with locals for any last-minute bus schedule changes."
+            ],
+            "fr": [
+              "Les horaires d'hiver peuvent comporter moins de liaisons de bus.",
+              "Une lampe de poche est nécessaire pour la marche retour vers l'arrêt en soirée.",
+              "Attendez dans un café chauffé plutôt qu'à l'arrêt exposé.",
+              "Habillez-vous par couches pour vous protéger du vent froid de la vallée.",
+              "Renseignez-vous auprès des habitants pour tout changement de dernière minute des horaires de bus."
             ]
           }
         }

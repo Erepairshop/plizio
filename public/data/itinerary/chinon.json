@@ -36,7 +36,8 @@
             "de": "HistoPad-Tour inklusive.",
             "hu": "HistoPad túra az árban.",
             "ro": "Tur HistoPad inclus.",
-            "en": "HistoPad tour included."
+            "en": "HistoPad tour included.",
+            "fr": "Visite avec HistoPad incluse."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Fachwerkhäuser.",
             "hu": "Gerendavázas házak.",
             "ro": "Case cu bârne de lemn.",
-            "en": "Half-timbered houses."
+            "en": "Half-timbered houses.",
+            "fr": "Maisons à colombages."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Chinon-Rotwein probieren.",
             "hu": "Kóstolja meg a chinoni vöröset.",
             "ro": "Gustați vinul roșu Chinon.",
-            "en": "Taste the Chinon red wine."
+            "en": "Taste the Chinon red wine.",
+            "fr": "Dégustez le vin rouge de Chinon."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Gotische Architektur.",
             "hu": "Gótikus építészet.",
             "ro": "Arhitectură gotică.",
-            "en": "Gothic architecture."
+            "en": "Gothic architecture.",
+            "fr": "Architecture gothique."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Spaziergang am Fluss.",
             "hu": "Séta a folyó mentén.",
             "ro": "Plimbare pe malul râului.",
-            "en": "Walk along the river."
+            "en": "Walk along the river.",
+            "fr": "Promenade le long de la rivière."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Bester Blick auf die Burg.",
             "hu": "Legjobb kilátás a várra.",
             "ro": "Cea mai bună vedere la cetate.",
-            "en": "Best view of the castle."
+            "en": "Best view of the castle.",
+            "fr": "Meilleure vue sur le château."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Chinon atmet Geschichte im Herzen des Loire-Tals. Beginnen Sie oben in der gewaltigen Königlichen Festung, wo Jeanne d’Arc den König traf. Steigen Sie hinab in die mittelalterlichen Gassen der Altstadt und genießen Sie ein lokales Mittagessen. Am Nachmittag locken die gotische Kirche Saint-Maurice und die entspannenden Ufer der Vienne. Der Tag endet perfekt mit dem ikonischen Blick von der Brücke auf die beleuchtete Festung.",
         "hu": "Chinon történelmet áraszt a Loire-völgy szívében. Kezdje a napot a hatalmas királyi várban, ahol Jeanne d’Arc találkozott a királlyal. Ereszkedjen le az óváros középkori utcáiba, és kóstolja meg a helyi borokat az ebéd mellé. Délután várja a gótikus Szent Móric-templom és a Vienne folyó nyugodt partja. A napot a hídról nyíló ikonikus panoráma koronázza meg.",
         "ro": "Chinon respiră istorie în inima Văii Loarei. Începeți sus, la marea Cetate Regală, unde Ioana d’Arc s-a întâlnit cu regele. Coborâți pe străzile medievale ale centrului vechi și bucurați-vă de un prânz local. După-amiaza, vizitați biserica gotică Sfântul Mauriciu și malurile relaxante ale Viennei. Ziua se încheie perfect cu vederea iconică de pe pod spre cetatea iluminată.",
-        "en": "Chinon breathes history in the heart of the Loire Valley. Start at the top in the massive Royal Fortress, where Joan of Arc met the king. Descend into the medieval streets of the old town and enjoy a local lunch. In the afternoon, visit the Gothic Saint-Maurice church and the relaxing banks of the Vienne river. The day ends perfectly with the iconic view of the fortress from the bridge."
+        "en": "Chinon breathes history in the heart of the Loire Valley. Start at the top in the massive Royal Fortress, where Joan of Arc met the king. Descend into the medieval streets of the old town and enjoy a local lunch. In the afternoon, visit the Gothic Saint-Maurice church and the relaxing banks of the Vienne river. The day ends perfectly with the iconic view of the fortress from the bridge.",
+        "fr": "Chinon respire l'histoire au cœur de la vallée de la Loire. Commencez par le sommet, à l'imposante Forteresse Royale, où Jeanne d'Arc a rencontré le roi. Descendez dans les rues médiévales de la vieille ville pour un déjeuner local. L'après-midi, visitez l'église gothique Saint-Maurice et les berges apaisantes de la Vienne. La journée se termine parfaitement avec la vue emblématique de la forteresse depuis le pont."
       },
       "gastro_picks": {
         "de": [
@@ -201,6 +208,16 @@
             "name": "Sainte-Maure de Touraine",
             "tip": "Local goat cheese."
           }
+        ],
+        "fr": [
+          {
+            "name": "Cabernet Franc (Chinon)",
+            "tip": "Le célèbre vin rouge."
+          },
+          {
+            "name": "Sainte-Maure de Touraine",
+            "tip": "Fromage de chèvre local."
+          }
         ]
       },
       "quiet_picks": {
@@ -231,6 +248,13 @@
             "tip": "Picnic by the river.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Berges de la Vienne",
+            "tip": "Pique-nique au bord de la rivière.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -257,6 +281,12 @@
             "name": "Caves Painctes",
             "tip": "Wine directly from rock cellars."
           }
+        ],
+        "fr": [
+          {
+            "name": "Caves Painctes",
+            "tip": "Vin directement des caves creusées dans le rocher."
+          }
         ]
       },
       "tips": {
@@ -279,6 +309,11 @@
           "Use the elevator between the castle and old town.",
           "The fortress is large, allow plenty of time.",
           "Many restaurants are closed on Mondays."
+        ],
+        "fr": [
+          "Utilisez l'ascenseur entre le château et la vieille ville.",
+          "La forteresse est grande, prévoyez suffisamment de temps.",
+          "De nombreux restaurants sont fermés le lundi."
         ]
       }
     },
@@ -310,7 +345,8 @@
             "de": "Fahrradverleih.",
             "hu": "Kerékpárkölcsönző.",
             "ro": "Închiriere biciclete.",
-            "en": "Bike rental."
+            "en": "Bike rental.",
+            "fr": "Location de vélos."
           }
         },
         {
@@ -333,7 +369,8 @@
             "de": "Flache Strecke.",
             "hu": "Lapos útvonal.",
             "ro": "Traseu plat.",
-            "en": "Flat route."
+            "en": "Flat route.",
+            "fr": "Itinéraire plat."
           }
         },
         {
@@ -356,7 +393,8 @@
             "de": "Schönstes Dorf.",
             "hu": "Legszebb falu.",
             "ro": "Cel mai frumos sat.",
-            "en": "Most beautiful village."
+            "en": "Most beautiful village.",
+            "fr": "Plus beau village de France."
           }
         },
         {
@@ -379,7 +417,8 @@
             "de": "Fischspezialitäten.",
             "hu": "Halspecialitások.",
             "ro": "Specialități din pește.",
-            "en": "Fish specialties."
+            "en": "Fish specialties.",
+            "fr": "Spécialités de poisson."
           }
         },
         {
@@ -402,7 +441,8 @@
             "de": "Abendstimmung.",
             "hu": "Esti hangulat.",
             "ro": "Atmosferă de seară.",
-            "en": "Evening vibes."
+            "en": "Evening vibes.",
+            "fr": "Ambiance de soirée."
           }
         }
       ],
@@ -410,7 +450,8 @@
         "de": "Folgen Sie dem 'Loire à Vélo' Weg. Radeln Sie entlang der Vienne bis zur Mündung in die Loire bei Candes-Saint-Martin, einem der schönsten Dörfer Frankreichs. Genießen Sie ein Mittagessen mit Blick auf den Zusammenfluss der Flüsse und kehren Sie entspannt durch die Weinberge nach Chinon zurück.",
         "hu": "Kövesse a 'Loire à Vélo' útvonalat. Tekerjen a Vienne mentén a Loire torkolatáig Candes-Saint-Martin-be, amely Franciaország egyik legszebb faluja. Élvezze az ebédet a folyók összefolyásánál, majd a szőlőültetvényeken keresztül térjen vissza Chinonba.",
         "ro": "Urmați traseul 'Loire à Vélo'. Mergeți cu bicicleta de-a lungul Viennei până la vărsarea în Loara, la Candes-Saint-Martin, unul dintre cele mai frumoase sate din Franța. Savurați un prânz cu vedere la confluența râurilor și reveniți relaxat prin podgorii spre Chinon.",
-        "en": "Follow the 'Loire à Vélo' path. Cycle along the Vienne to its confluence with the Loire at Candes-Saint-Martin, one of the most beautiful villages in France. Enjoy lunch with a view of the meeting rivers and return relaxed through the vineyards to Chinon."
+        "en": "Follow the 'Loire à Vélo' path. Cycle along the Vienne to its confluence with the Loire at Candes-Saint-Martin, one of the most beautiful villages in France. Enjoy lunch with a view of the meeting rivers and return relaxed through the vineyards to Chinon.",
+        "fr": "Suivez l'itinéraire de la 'Loire à Vélo'. Pédalez le long de la Vienne jusqu'à sa confluence avec la Loire à Candes-Saint-Martin, l'un des plus beaux villages de France. Déjeunez avec vue sur la rencontre des deux fleuves et revenez détendu à travers les vignobles vers Chinon."
       },
       "gastro_picks": {
         "de": [
@@ -435,6 +476,12 @@
           {
             "name": "Sandre au beurre blanc",
             "tip": "Pike-perch in butter sauce."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Sandre au beurre blanc",
+            "tip": "Sandre à la sauce au beurre blanc."
           }
         ]
       },
@@ -466,6 +513,13 @@
             "tip": "Pure nature.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Confluence Loire/Vienne",
+            "tip": "Nature pure.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -492,6 +546,12 @@
             "name": "Farm shops",
             "tip": "Fresh Touraine fruit."
           }
+        ],
+        "fr": [
+          {
+            "name": "Boutiques de producteurs",
+            "tip": "Fruits frais de Touraine."
+          }
         ]
       },
       "tips": {
@@ -514,6 +574,11 @@
           "The path is mostly flat.",
           "Take plenty of water.",
           "Don't forget a bike lock."
+        ],
+        "fr": [
+          "Le parcours est principalement plat.",
+          "Prévoyez beaucoup d'eau.",
+          "N'oubliez pas d'antivol pour vos vélos."
         ]
       }
     },
@@ -545,7 +610,8 @@
             "de": "Großer Parkplatz.",
             "hu": "Nagy parkoló.",
             "ro": "Parcare mare.",
-            "en": "Large parking lot."
+            "en": "Large parking lot.",
+            "fr": "Grand parking."
           }
         },
         {
@@ -568,7 +634,8 @@
             "de": "Dornröschen-Schloss.",
             "hu": "Csipkerózsika vára.",
             "ro": "Castelul Frumoasei din Pădurea Adormită.",
-            "en": "Sleeping Beauty's castle."
+            "en": "Sleeping Beauty's castle.",
+            "fr": "Château de la Belle au Bois Dormant."
           }
         },
         {
@@ -591,7 +658,8 @@
             "de": "Traditionelle Küche.",
             "hu": "Hagyományos konyha.",
             "ro": "Bucătărie tradițională.",
-            "en": "Traditional cuisine."
+            "en": "Traditional cuisine.",
+            "fr": "Cuisine traditionnelle."
           }
         },
         {
@@ -614,7 +682,8 @@
             "de": "Renaissance-Juwel.",
             "hu": "Reneszánsz ékszerdoboz.",
             "ro": "Bijuterie renascentistă.",
-            "en": "Renaissance jewel."
+            "en": "Renaissance jewel.",
+            "fr": "Joyau de la Renaissance."
           }
         },
         {
@@ -637,7 +706,8 @@
             "de": "Weinberge bei Sonnenuntergang.",
             "hu": "Szőlőhegyek naplementekor.",
             "ro": "Podgorii la apus.",
-            "en": "Vineyards at sunset."
+            "en": "Vineyards at sunset.",
+            "fr": "Vignobles au coucher du soleil."
           }
         }
       ],
@@ -645,7 +715,8 @@
         "de": "Diese Tour führt Sie zu den Märchenschlössern der Touraine. Nach Chinon besuchen Sie das Château d'Ussé, das Perrault zu 'Dornröschen' inspiriert haben soll. Nach einem gemütlichen Mittagessen bewundern Sie das elegante Azay-le-Rideau, das mitten im Wasser zu schweben scheint.",
         "hu": "Ez a túra Touraine mesebeli kastélyaihoz kalauzolja. Chinon után látogassa meg az Ussé kastélyt, amely állítólag Perrault-t ihlette a Csipkerózsika megírására. Egy kellemes ebéd után csodálja meg a vízen lebegni látszó, elegáns Azay-le-Rideau kastélyt.",
         "ro": "Acest tur vă duce la castelele de poveste din Touraine. După Chinon, vizitați Castelul Ussé, care se spune că l-a inspirat pe Perrault pentru 'Frumoasa din Pădurea Adormită'. După un prânz plăcut, admirați elegantul Azay-le-Rideau, care pare să plutească pe apă.",
-        "en": "This tour takes you to the fairytale castles of Touraine. After Chinon, visit the Château d'Ussé, said to have inspired Perrault's 'Sleeping Beauty'. After a pleasant lunch, admire the elegant Azay-le-Rideau, which seems to float on the water."
+        "en": "This tour takes you to the fairytale castles of Touraine. After Chinon, visit the Château d'Ussé, said to have inspired Perrault's 'Sleeping Beauty'. After a pleasant lunch, admire the elegant Azay-le-Rideau, which seems to float on the water.",
+        "fr": "Ce circuit vous emmène vers les châteaux de contes de fées de Touraine. Après Chinon, visitez le Château d'Ussé, qui aurait inspiré 'La Belle au Bois Dormant' de Perrault. Après un agréable déjeuner, admirez l'élégant Azay-le-Rideau, qui semble flotter sur l'eau."
       },
       "gastro_picks": {
         "de": [
@@ -670,6 +741,12 @@
           {
             "name": "Rillettes de Tours",
             "tip": "Local meat specialty."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Rillettes de Tours",
+            "tip": "Spécialité de viande locale."
           }
         ]
       },
@@ -701,6 +778,13 @@
             "tip": "Romantic park.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Parc du château d'Azay",
+            "tip": "Parc romantique.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -727,6 +811,12 @@
             "name": "Kastorbier",
             "tip": "Local craft beer."
           }
+        ],
+        "fr": [
+          {
+            "name": "Kastorbier",
+            "tip": "Bière artisanale locale."
+          }
         ]
       },
       "tips": {
@@ -749,6 +839,11 @@
           "Use combo tickets for castles.",
           "Book in advance during peak season.",
           "Parking is mostly paid."
+        ],
+        "fr": [
+          "Utilisez des billets combinés pour les châteaux.",
+          "Réservez à l'avance en haute saison.",
+          "Le stationnement est majoritairement payant."
         ]
       }
     },
@@ -780,7 +875,8 @@
             "de": "Regionalzug-Anbindung.",
             "hu": "Regionális vonatkapcsolat.",
             "ro": "Conexiune tren regional.",
-            "en": "Regional train link."
+            "en": "Regional train link.",
+            "fr": "Liaison train régional."
           }
         },
         {
@@ -803,7 +899,8 @@
             "de": "Zu Fuß erreichbar.",
             "hu": "Gyalog elérhető.",
             "ro": "Accesibil pe jos.",
-            "en": "Accessible on foot."
+            "en": "Accessible on foot.",
+            "fr": "Accessible à pied."
           }
         },
         {
@@ -826,7 +923,8 @@
             "de": "Tagesmenüs prüfen.",
             "hu": "Nézze meg a napi menüt.",
             "ro": "Verificați meniul zilei.",
-            "en": "Check daily menus."
+            "en": "Check daily menus.",
+            "fr": "Consultez les menus du jour."
           }
         },
         {
@@ -849,7 +947,8 @@
             "de": "Aufzug nutzen.",
             "hu": "Használja a liftet.",
             "ro": "Folosiți liftul.",
-            "en": "Use the elevator."
+            "en": "Use the elevator.",
+            "fr": "Utilisez l'ascenseur."
           }
         },
         {
@@ -872,7 +971,8 @@
             "de": "Pünktlich sein.",
             "hu": "Legyen pontos.",
             "ro": "Fiți punctuali.",
-            "en": "Be on time."
+            "en": "Be on time.",
+            "fr": "Soyez à l'heure."
           }
         }
       ],
@@ -880,7 +980,8 @@
         "de": "Chinon ist ideal per Bahn von Tours aus erreichbar. Vom Bahnhof aus ist das gesamte Stadtzentrum und die Festung bequem zu Fuß oder mit dem kostenlosen Aufzug erreichbar. Genießen Sie die mittelalterliche Atmosphäre, ohne sich um Parkplätze kümmern zu müssen.",
         "hu": "Chinon ideálisan elérhető vonattal Tours felől. Az állomástól az egész városközpont és a vár is könnyen megközelíthető gyalog vagy az ingyenes lifttel. Élvezze a középkori hangulatot parkolási gondok nélkül.",
         "ro": "Chinon este ideal accesibil cu trenul din Tours. De la gară, întregul centru și cetatea sunt ușor accesibile pe jos sau cu liftul gratuit. Bucurați-vă de atmosfera medievală fără grija parcării.",
-        "en": "Chinon is ideally accessible by train from Tours. From the station, the entire city center and the fortress are easily reachable on foot or via the free elevator. Enjoy the medieval atmosphere without parking worries."
+        "en": "Chinon is ideally accessible by train from Tours. From the station, the entire city center and the fortress are easily reachable on foot or via the free elevator. Enjoy the medieval atmosphere without parking worries.",
+        "fr": "Chinon est idéalement accessible en train depuis Tours. Depuis la gare, tout le centre-ville et la forteresse sont facilement accessibles à pied ou via l'ascenseur gratuit. Profitez de l'atmosphère médiévale sans soucis de stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -905,6 +1006,12 @@
           {
             "name": "Local bakery",
             "tip": "Fresh baguette for the trip."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boulangerie locale",
+            "tip": "Baguette fraîche pour le voyage."
           }
         ]
       },
@@ -936,6 +1043,13 @@
             "tip": "Small park for waiting.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin de la gare",
+            "tip": "Petit parc pour patienter.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -962,6 +1076,12 @@
             "name": "Postcards",
             "tip": "At kiosks in the center."
           }
+        ],
+        "fr": [
+          {
+            "name": "Cartes postales",
+            "tip": "Aux kiosques du centre."
+          }
         ]
       },
       "tips": {
@@ -984,6 +1104,11 @@
           "TER trains run regularly.",
           "Buy tickets at the machine.",
           "Station is 10 min walk from center."
+        ],
+        "fr": [
+          "Les trains TER circulent régulièrement.",
+          "Achetez vos billets aux automates.",
+          "La gare est à 10 min à pied du centre."
         ]
       }
     }

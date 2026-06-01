@@ -31,7 +31,8 @@
             "de": "Kleine Votivkirche mit schöner Aussicht.",
             "hu": "Apró fogadalmi templom szép kilátással.",
             "ro": "Mică biserică votivă cu o priveliște frumoasă.",
-            "en": "Small votive church with a beautiful view."
+            "en": "Small votive church with a beautiful view.",
+            "hr": "Mala zavjetna crkvica s prekrasnim pogledom."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besuchen Sie die Kapelle am Hafen.",
             "hu": "Látogassa meg a kikötő melletti kápolnát.",
             "ro": "Vizitați capela de lângă port.",
-            "en": "Visit the chapel by the harbor."
+            "en": "Visit the chapel by the harbor.",
+            "hr": "Posjetite kapelicu u luci."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Flaches Wasser, ideal für Familien.",
             "hu": "Sekély víz, családoknak ideális.",
             "ro": "Apă puțin adâncă, ideală pentru familii.",
-            "en": "Shallow water, ideal for families."
+            "en": "Shallow water, ideal for families.",
+            "hr": "Plitka voda, idealna za obitelji."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Etwas ruhiger als der Hauptstrand.",
             "hu": "Kicsit nyugodtabb, mint a főstrand.",
             "ro": "Ceva mai liniștit decât plaja principală.",
-            "en": "A bit quieter than the main beach."
+            "en": "A bit quieter than the main beach.",
+            "hr": "Malo mirnije od glavne plaže."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Faszinierende Sandsteinformationen.",
             "hu": "Lenyűgöző homokkő formációk.",
             "ro": "Formațiuni fascinante de gresie.",
-            "en": "Fascinating sandstone formations."
+            "en": "Fascinating sandstone formations.",
+            "hr": "Fascinantne formacije pješčenjaka."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Morgens besuchen Sie die charmanten Kapellen von Lopar, bevor Sie den Vormittag am berühmten Paradiesstrand verbringen. Das flache Wasser ist ideal zum Entspannen. Nach dem Mittagessen spazieren Sie zum benachbarten Livačina-Strand für ein ruhigeres Badeerlebnis. Den Tag lassen Sie mit einer kleinen Wanderung durch die bizarren Felslandschaften des Geoparks ausklingen.",
         "hu": "Reggel Lopar bájos kápolnáit látogatja meg, majd a délelőttöt a híres Paradicsom-parton tölti. A sekély víz tökéletes a pihenéshez. Ebéd után sétáljon át a szomszédos Livačina strandra egy nyugodtabb fürdőzésért. A napot a Geopark bizarr sziklaalakzatai közötti rövid túrával zárja.",
         "ro": "Dimineața vizitați capelele fermecătoare din Lopar, înainte de a petrece restul dimineții pe celebra Plajă a Paradisului. Apa puțin adâncă este ideală pentru relaxare. După prânz, mergeți la plaja vecină Livačina pentru o experiență de înot mai liniștită. Încheiați ziua cu o scurtă drumeție prin peisajele stâncoase bizare ale Geoparcului.",
-        "en": "In the morning, visit the charming chapels of Lopar before spending the rest of the morning at the famous Paradise Beach. The shallow water is perfect for relaxing. After lunch, walk to the neighboring Livačina beach for a quieter swimming experience. End the day with a short hike through the bizarre rock formations of the Geopark."
+        "en": "In the morning, visit the charming chapels of Lopar before spending the rest of the morning at the famous Paradise Beach. The shallow water is perfect for relaxing. After lunch, walk to the neighboring Livačina beach for a quieter swimming experience. End the day with a short hike through the bizarre rock formations of the Geopark.",
+        "hr": "Ujutro posjetite šarmantne kapelice Lopara prije nego što ostatak prijepodneva provedete na poznatoj Rajskoj plaži. Plitko more savršeno je za opuštanje. Nakon ručka, prošećite do susjedne plaže Livačina za mirnije iskustvo plivanja. Završite dan kratkim planinarenjem kroz neobične formacije stijena Geoparka."
       },
       "gastro_picks": {
         "de": [
@@ -153,6 +159,16 @@
             "name": "Rab cake",
             "tip": "A traditional sweet with almonds."
           }
+        ],
+        "hr": [
+          {
+            "name": "Restaurant Fortuna",
+            "tip": "Probajte svježu ribu s otoka Raba."
+          },
+          {
+            "name": "Rapska torta",
+            "tip": "Tradicionalna slastica s bademima."
+          }
         ]
       },
       "quiet_picks": {
@@ -183,6 +199,13 @@
             "tip": "Quiet spot for sunset.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Geopark",
+            "tip": "Mirno mjesto za zalazak sunca.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -208,6 +231,12 @@
           {
             "name": "Lopar souvenir stand",
             "tip": "Handmade lavender and honey."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Loparski štand sa suvenirima",
+            "tip": "Ručno izrađena lavanda i med."
           }
         ]
       },
@@ -235,6 +264,12 @@
           "Wear sturdy shoes for the Geopark.",
           "Parking at Paradise Beach fills up quickly in summer.",
           "Visit the churches early in the morning."
+        ],
+        "hr": [
+          "Ponijeti kremu za sunčanje jer na plaži ima malo hlada.",
+          "Nosite čvrstu obuću za Geopark.",
+          "Parkiralište na Rajskoj plaži brzo se popuni ljeti.",
+          "Posjetite crkve rano ujutro."
         ]
       },
       "variants": {
@@ -422,7 +457,8 @@
             "de": "Der Morgen beginnt mit einem Besuch der historischen Kirchen, die perfekten Schutz vor dem Küstenregen bieten. Mittags beobachten wir die grauen Wellen am Rajska plaža, während die dichten Wolken eine mystische Atmosphäre über den Sandstrand zaubern. Am Nachmittag spazieren wir gut geschützt nach Livačina, wo die salzige Luft besonders intensiv ist. Den Tag lassen wir im Geopark ausklingen, wo der Regen die Farben der Sandsteinfelsformationen erst richtig zum Leuchten bringt.",
             "hu": "A reggeli esőben Lopar templomai nyújtanak spirituális és fizikai menedéket a látogatóknak. Délben a Rajska plaža sekély vize felett kavargó pára különleges látványt nyújt, ilyenkor a part teljesen a miénk. Délután a Livačina strand felé vesszük az irányt, ahol a nedves homok illata és a tenger zúgása dominál. Az estét a Geoparkban zárjuk; az esővíz által kimosott barázdák a sziklákon ilyenkor mutatják meg igazi arcukat, miközben a felhők az öböl felett pihennek meg.",
             "ro": "Dimineața începe la adăpostul bisericilor din Lopar, unde liniștea este accentuată de ropotul ploii pe acoperiș. La prânz, faimoasa Rajska plaža oferă un spectacol melancolic, cu nuanțe de gri și albastru sub cerul înnorat. După-amiaza continuăm spre plaja Livačina, bucurându-ne de aerul curat și ionizat de ploaia de coastă. Seara se încheie în Geopark, unde traseele printre formațiunile geologice capătă un aspect dramatic sub lumina difuză a zilei ploioase.",
-            "en": "The morning starts under the shelter of Lopar's historic churches as the rain patters on the stone. At midday, Paradise Beach reveals a moody, mystical side with misty horizons and the sound of waves on the sand. During the afternoon, a walk to Livačina offers refreshing sea air and solitude away from the crowds. We end the day at the Geopark, where the rain intensifies the natural colors of the unique sandstone erosion patterns and rock formations."
+            "en": "The morning starts under the shelter of Lopar's historic churches as the rain patters on the stone. At midday, Paradise Beach reveals a moody, mystical side with misty horizons and the sound of waves on the sand. During the afternoon, a walk to Livačina offers refreshing sea air and solitude away from the crowds. We end the day at the Geopark, where the rain intensifies the natural colors of the unique sandstone erosion patterns and rock formations.",
+            "hr": "Jutro počinje u zaklonu povijesnih loparskih crkava dok kiša dobuje po kamenu. U podne Rajska plaža otkriva svoju sjetnu, mističnu stranu s maglovitim obzorima i zvukom valova na pijesku. Tijekom poslijepodneva, šetnja do Livačine nudi osvježavajući morski zrak i osamu daleko od gužve. Dan završavamo u Geoparku, gdje kiša pojačava prirodne boje jedinstvenih uzoraka erozije pješčenjaka i formacija stijena."
           },
           "stops": [
             {
@@ -431,7 +467,8 @@
                 "de": "Ideal, um den ersten Schauer trocken zu überstehen.",
                 "hu": "Tökéletes hely az első zápor kivárásához szárazon.",
                 "ro": "Locul ideal pentru a aștepta trecerea primei averse.",
-                "en": "Perfect place to stay dry during the first morning shower."
+                "en": "Perfect place to stay dry during the first morning shower.",
+                "hr": "Savršeno mjesto za ostati suh tijekom prvog jutarnjeg pljuska."
               }
             },
             {
@@ -440,7 +477,8 @@
                 "de": "Kleine Kapelle mit gemütlicher Atmosphäre bei Regen.",
                 "hu": "Apró kápolna, amely esőben is meghitt hangulatot áraszt.",
                 "ro": "Capelă mică cu o atmosferă primitoare pe timp de ploaie.",
-                "en": "Small chapel with a cozy atmosphere during the rain."
+                "en": "Small chapel with a cozy atmosphere during the rain.",
+                "hr": "Mala kapelica s ugodnom atmosferom tijekom kiše."
               }
             },
             {
@@ -449,7 +487,8 @@
                 "de": "Der nasse Sand ist fest und ideal zum Barfußlaufen.",
                 "hu": "A vizes homok kemény, így kiváló mezítlábas sétához.",
                 "ro": "Nisipul ud este compact, ideal pentru o plimbare desculț.",
-                "en": "The wet sand is firm and ideal for a barefoot walk."
+                "en": "The wet sand is firm and ideal for a barefoot walk.",
+                "hr": "Mokri pijesak je čvrst i idealan za šetnju bosih nogu."
               }
             },
             {
@@ -458,7 +497,8 @@
                 "de": "Windgeschützte Ecken unter den Kiefern suchen.",
                 "hu": "Keressen szélvédett helyet a fenyőfák alatt.",
                 "ro": "Căutați locuri ferite de vânt sub pinii de pe coastă.",
-                "en": "Look for wind-sheltered spots under the pine trees."
+                "en": "Look for wind-sheltered spots under the pine trees.",
+                "hr": "Potražite mjesta zaklonjena od vjetra ispod borova."
               }
             },
             {
@@ -467,7 +507,8 @@
                 "de": "Vorsicht auf den Lehmwegen, sie können rutschig sein.",
                 "hu": "Vigyázat az agyagos ösvényeken, nagyon csúszhatnak.",
                 "ro": "Atenție pe potecile argiloase, pot deveni foarte alunecoase.",
-                "en": "Be careful on clay paths; they can become quite slippery."
+                "en": "Be careful on clay paths; they can become quite slippery.",
+                "hr": "Budite oprezni na glinenim stazama; mogu postati prilično skliske."
               }
             }
           ],
@@ -499,6 +540,13 @@
               "Wet sand sticks heavily to clothes, so be careful where you sit.",
               "A rain poncho is more practical than an umbrella in coastal winds.",
               "Check out the local tourist office for indoor information about the area."
+            ],
+            "hr": [
+              "Nosite vodootporne cipele za planinarenje za pješčane i blatne staze.",
+              "Kafići uz Rajska plažu nude dobar zaklon tijekom pljuskova.",
+              "Mokri pijesak se jako lijepi za odjeću, stoga pripazite gdje sjedite.",
+              "Kišna kabanica je praktičnija od kišobrana na obalnom vjetru.",
+              "Provjerite lokalni turistički ured za informacije o zatvorenim prostorima u okolici."
             ]
           }
         },
@@ -507,7 +555,8 @@
             "de": "In der kühlen Wintermorgenluft wirken die Kirchen von Lopar besonders friedlich und zeitlos. Mittags wandern wir am menschenleeren Paradise Beach, wo die Sonne tief über dem Horizont glitzert und die Bura den Kopf frei pustet. Am Nachmittag erkunden wir Livačina in völliger Stille, nur unterbrochen vom Schrei der Seemöwen. Da die Sonne früh untergeht, erreichen wir den Geopark zur 'goldenen Stunde', wenn die bizarren Felsen in warmes, oranges Licht getaucht werden.",
             "hu": "A friss téli reggelen Lopar templomai között sétálva átélhetjük a sziget igazi, turizmusmentes nyugalmát. Délben a Rajska plaža végtelen homokmezőjén a téli nap alacsonyan járva csillog a vízen, miközben a tiszta levegő frissítően hat. Délután a Livačina strand környékén a természet csendjét élvezzük, távol a nyári zsivajtól. A korai naplemente előtt érünk a Geoparkba, ahol a sziklák narancssárga fénye búcsúztatja a rövid téli nappalt.",
             "ro": "În dimineața rece de iarnă, bisericile din Lopar emană o liniște profundă și atemporală. La prânz, parcurgem plaja pustie Rajska plaža, unde soarele de iarnă strălucește jos la orizont, iar briza curăță mintea. După-amiaza explorăm Livačina într-o liniște deplină, ascultând doar valurile. Deoarece soarele apune devreme, ajungem în Geopark la ora de aur, când rocile bizare sunt scăldate într-o lumină portocalie caldă.",
-            "en": "On a crisp winter morning, Lopar’s churches feel incredibly peaceful and timeless. At midday, we walk along the deserted Paradise Beach, where the low winter sun glitters on the calm water and the Bura wind clears the mind. The afternoon at Livačina is a time for complete silence and nature appreciation. Since the sun sets early, we reach the Geopark during the golden hour, when the strange rock formations are bathed in a warm, orange glow."
+            "en": "On a crisp winter morning, Lopar’s churches feel incredibly peaceful and timeless. At midday, we walk along the deserted Paradise Beach, where the low winter sun glitters on the calm water and the Bura wind clears the mind. The afternoon at Livačina is a time for complete silence and nature appreciation. Since the sun sets early, we reach the Geopark during the golden hour, when the strange rock formations are bathed in a warm, orange glow.",
+            "hr": "U svježe zimsko jutro, loparske crkve djeluju nevjerojatno mirno i bezvremeno. U podne šetamo pustom Rajskom plažom, gdje nisko zimsko sunce svjetluca na mirnom moru, a bura bistri um. Poslijepodne na Livačini vrijeme je za potpunu tišinu i uživanje u prirodi. Budući da sunce rano zalazi, u Geopark stižemo tijekom zlatnog sata, kada su neobične formacije stijena okupane toplim, narančastim sjajem."
           },
           "stops": [
             {
@@ -516,7 +565,8 @@
                 "de": "Warme Kleidung tragen, Steinkirchen speichern die Kälte.",
                 "hu": "Öltözzön melegen, a kőtemplomok télen tartják a hideget.",
                 "ro": "Îmbrăcați-vă gros, bisericile de piatră păstrează frigul.",
-                "en": "Dress warmly; stone churches retain the winter chill."
+                "en": "Dress warmly; stone churches retain the winter chill.",
+                "hr": "Odjenite se toplo; kamene crkve zadržavaju zimsku hladnoću."
               }
             },
             {
@@ -525,7 +575,8 @@
                 "de": "Ein ruhiger Ort für Besinnung abseits der Saison.",
                 "hu": "Csendes hely az elmélyüléshez a szezonon kívül.",
                 "ro": "Un loc liniștit pentru reflecție în afara sezonului.",
-                "en": "A peaceful spot for reflection during the off-season."
+                "en": "A peaceful spot for reflection during the off-season.",
+                "hr": "Mirno mjesto za razmišljanje tijekom izvansezone."
               }
             },
             {
@@ -534,7 +585,8 @@
                 "de": "Perfekt für lange Spaziergänge ohne Touristenmassen.",
                 "hu": "Kiváló hosszú sétákhoz a turistaáradat nélkül.",
                 "ro": "Perfect pentru plimbări lungi fără mulțimile de turiști.",
-                "en": "Perfect for long walks without the tourist crowds."
+                "en": "Perfect for long walks without the tourist crowds.",
+                "hr": "Savršeno za duge šetnje bez turističkih gužvi."
               }
             },
             {
@@ -543,7 +595,8 @@
                 "de": "Die Wintersonne ist hier am Nachmittag sehr angenehm.",
                 "hu": "A téli napsütés itt délután kifejezetten kellemes.",
                 "ro": "Soarele de iarnă este foarte plăcut aici după-amiaza.",
-                "en": "The winter sun is very pleasant here in the afternoon."
+                "en": "The winter sun is very pleasant here in the afternoon.",
+                "hr": "Zimsko sunce je ovdje vrlo ugodno poslijepodne."
               }
             },
             {
@@ -552,7 +605,8 @@
                 "de": "Frühzeitiger Aufbruch empfohlen, Sonnenuntergang gegen 16:30.",
                 "hu": "Javasolt korán indulni, a naplemente 16:30 körül van.",
                 "ro": "Pornire timpurie recomandată, apusul e în jur de 16:30.",
-                "en": "Early start recommended; sunset is around 4:30 PM."
+                "en": "Early start recommended; sunset is around 4:30 PM.",
+                "hr": "Preporučuje se rani polazak; zalazak sunca je oko 16:30."
               }
             }
           ],
@@ -584,6 +638,13 @@
               "The clear winter air offers the best views of the Velebit mountains.",
               "Sturdy hiking boots are important for the cold ground conditions.",
               "Apply sunscreen; the sun's reflection on the sand is strong even in winter."
+            ],
+            "hr": [
+              "Slojevita odjeća je neophodna za zaštitu od hladne bure.",
+              "Mnogi restorani su zatvoreni; ponesite međuobrok i topli napitak.",
+              "Čisti zimski zrak nudi najbolje poglede na planinu Velebit.",
+              "Čvrste planinarske čizme važne su zbog hladnih uvjeta na tlu.",
+              "Nanesite kremu za sunčanje; odsjaj sunca na pijesku je jak čak i zimi."
             ]
           }
         }
@@ -612,7 +673,8 @@
             "de": "Alte Kirche im Zentrum von Lopar.",
             "hu": "Régi templom Lopar központjában.",
             "ro": "Biserică veche în centrul orașului Lopar.",
-            "en": "Old church in the center of Lopar."
+            "en": "Old church in the center of Lopar.",
+            "hr": "Stara crkva u centru Lopara."
           }
         },
         {
@@ -630,7 +692,8 @@
             "de": "Radweg durch die karge Mondlandschaft.",
             "hu": "Kerékpárút a kopár holdbéli tájon.",
             "ro": "Traseu de biciclete prin peisajul arid.",
-            "en": "Cycling path through the barren landscape."
+            "en": "Cycling path through the barren landscape.",
+            "hr": "Biciklistička staza kroz ogoljeli krajolik."
           }
         },
         {
@@ -648,7 +711,8 @@
             "de": "Ideal für eine Badepause mit dem Rad.",
             "hu": "Ideális egy fürdőzésre a bringázás közben.",
             "ro": "Ideal pentru o pauză de înot cu bicicleta.",
-            "en": "Ideal for a swim break during cycling."
+            "en": "Ideal for a swim break during cycling.",
+            "hr": "Idealno za pauzu za kupanje tijekom bicikliranja."
           }
         },
         {
@@ -666,7 +730,8 @@
             "de": "Der bekannteste Sandstrand Kroatiens.",
             "hu": "Horvátország legismertebb homokos strandja.",
             "ro": "Cea mai cunoscută plajă cu nisip din Croația.",
-            "en": "The most famous sandy beach in Croatia."
+            "en": "The most famous sandy beach in Croatia.",
+            "hr": "Najpoznatija pješčana plaža u Hrvatskoj."
           }
         },
         {
@@ -684,7 +749,8 @@
             "de": "Abschluss am kleinen Hafen.",
             "hu": "Zárás a kis kikötőnél.",
             "ro": "Final în micul port.",
-            "en": "End at the small harbor."
+            "en": "End at the small harbor.",
+            "hr": "Završetak u maloj luci."
           }
         }
       ],
@@ -692,7 +758,8 @@
         "de": "Erkunden Sie die Halbinsel Lopar aktiv mit dem Rad. Nach dem Besuch der Hauptkirche radeln Sie durch den faszinierenden Geopark mit seinen einzigartigen Gesteinsformationen. Zur Mittagszeit erreichen Sie den Livačina-Strand für eine wohlverdiente Abkühlung. Den Nachmittag verbringen Sie am Paradiesstrand, bevor Sie die Tour am Hafen bei der Nikolaus-Kapelle beenden.",
         "hu": "Fedezze fel aktívan a Lopar-félszigetet kerékpárral. A főtemplom megtekintése után tekerjen át a lenyűgöző Geoparkon. Ebédidőben érje el a Livačina strandot egy megérdemelt hűsölésre. A délutánt a Paradicsom-parton töltse, majd zárja a túrát a kikötőben, a Szent Miklós-kápolnánál.",
         "ro": "Explorați peninsula Lopar activ cu bicicleta. După vizitarea bisericii principale, pedalați prin fascinantul Geopark. La prânz, ajungeți la plaja Livačina pentru o răcorire binemeritată. Petreceți după-amiaza pe Plaja Paradisului, înainte de a încheia turul în port, la capela Sf. Nicolae.",
-        "en": "Explore the Lopar peninsula actively by bike. After visiting the main church, cycle through the fascinating Geopark. At lunchtime, reach Livačina beach for a well-deserved cooling off. Spend the afternoon at Paradise Beach before ending the tour at the harbor by St. Nicholas chapel."
+        "en": "Explore the Lopar peninsula actively by bike. After visiting the main church, cycle through the fascinating Geopark. At lunchtime, reach Livačina beach for a well-deserved cooling off. Spend the afternoon at Paradise Beach before ending the tour at the harbor by St. Nicholas chapel.",
+        "hr": "Aktivno istražite poluotok Lopar biciklom. Nakon posjeta glavnoj crkvi, biciklirajte kroz fascinantan Geopark. U vrijeme ručka stižete do plaže Livačina na zasluženo osvježenje. Poslijepodne provedite na Rajskoj plaži prije nego što turneju završite u luci kod kapelice sv. Nikole."
       },
       "gastro_picks": {
         "de": [
@@ -717,6 +784,12 @@
           {
             "name": "Konoba Ankora",
             "tip": "Homemade pasta with seafood."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Konoba Ankora",
+            "tip": "Domaća tjestenina s plodovima mora."
           }
         ]
       },
@@ -748,6 +821,13 @@
             "tip": "Lonely spots for meditation.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Litice Geoparka",
+            "tip": "Osamljena mjesta za meditaciju.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -773,6 +853,12 @@
           {
             "name": "Local market",
             "tip": "Fresh island fruit."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna tržnica",
+            "tip": "Svježe otočko voće."
           }
         ]
       },
@@ -800,6 +886,12 @@
           "Watch out for hikers on combined trails.",
           "Take enough water with you.",
           "The paths are partly very sandy."
+        ],
+        "hr": [
+          "Unajmite brdski bicikl za makadamske staze u Geoparku.",
+          "Pripazite na pješake na zajedničkim stazama.",
+          "Ponesite dovoljno vode sa sobom.",
+          "Staze su dijelom vrlo pješčane."
         ]
       },
       "variants": {
@@ -971,7 +1063,8 @@
             "de": "Trotz Regen starten wir unsere Radtour bei den Kirchen im Ortszentrum, wo die gepflasterten Wege noch gut fahrbar sind. Mittags fordern uns die sandigen Pfade des Geoparks heraus, da die Nässe den Boden schwerer macht. Am Nachmittag radeln wir entlang der Küstenwege von Livačina nach Rajska plaža, wobei wir die Gischt und den Regen im Gesicht spüren. Den Abschluss bildet die Kapelle des Hl. Nikolaus, wo wir unsere Räder parken und kurz im Trockenen verschnaufen.",
             "hu": "Az eső ellenére a központ templomaitól indítjuk a bringázást, ahol a burkolt utak még biztonságosak. Délben a Geopark homokos ösvényei igazi kihívást jelentenek a nedves, nehéz talaj miatt. Délután a Livačina és a Rajska plaža közötti parti úton tekerünk, élvezve az arcunkba csapódó sós párát és esőt. A nap végén a Szent Miklós kápolnánál pihenünk meg, ahol a fedett részen kicsit megszárítkozhatunk.",
             "ro": "În ciuda ploii, începem turul cu bicicleta la bisericile din centru, unde drumurile pavate sunt sigure. La prânz, potecile de nisip din Geopark ne provoacă, deoarece umezeala face solul mai greu de parcurs. După-amiaza pedalăm pe drumul de coastă între Livačina și Rajska plaža, simțind stropii de mare și ploaia pe față. Încheiem la capela Sf. Nicolae, unde parcăm bicicletele și ne tragem sufletul la adăpost.",
-            "en": "Despite the rain, we start our bike tour at the central churches, where the paved roads remain manageable. At midday, the sandy trails of the Geopark offer a challenge as the moisture makes the ground heavier. In the afternoon, we cycle along the coastal paths between Livačina and Paradise Beach, feeling the sea spray and rain on our faces. We finish at St. Nicholas Chapel, where we park our bikes and take a brief, dry breath of air."
+            "en": "Despite the rain, we start our bike tour at the central churches, where the paved roads remain manageable. At midday, the sandy trails of the Geopark offer a challenge as the moisture makes the ground heavier. In the afternoon, we cycle along the coastal paths between Livačina and Paradise Beach, feeling the sea spray and rain on our faces. We finish at St. Nicholas Chapel, where we park our bikes and take a brief, dry breath of air.",
+            "hr": "Unatoč kiši, biciklističku turu započinjemo kod središnjih crkava, gdje su asfaltirane ceste i dalje prohodne. U podne pješčane staze Geoparka nude izazov jer vlaga čini tlo težim. Poslijepodne bicikliramo obalnim stazama između Livačine i Rajske plaže, osjećajući morsku pjenu i kišu na licima. Završavamo kod kapelice sv. Nikole, gdje parkiramo bicikle i nakratko udahnemo suhi zrak."
           },
           "stops": [
             {
@@ -980,7 +1073,8 @@
                 "de": "Räder am Eingang im Trockenen parken.",
                 "hu": "A bringákat a bejáratnál, fedett helyen parkoljuk.",
                 "ro": "Parcați bicicletele la intrare, sub acoperiș.",
-                "en": "Park your bikes under shelter at the entrance."
+                "en": "Park your bikes under shelter at the entrance.",
+                "hr": "Parkirajte bicikle pod nadstrešnicu na ulazu."
               }
             },
             {
@@ -989,7 +1083,8 @@
                 "de": "Reifendruck leicht senken für besseren Grip im Matsch.",
                 "hu": "Csökkentse a guminyomást a jobb tapadásért a sárban.",
                 "ro": "Reduceți presiunea în pneuri pentru aderență în noroi.",
-                "en": "Lower tire pressure slightly for better grip in the mud."
+                "en": "Lower tire pressure slightly for better grip in the mud.",
+                "hr": "Lagano smanjite tlak u gumama za bolje prianjanje u blatu."
               }
             },
             {
@@ -998,7 +1093,8 @@
                 "de": "Vorsicht vor rutschigen Holzstegen am Strand.",
                 "hu": "Vigyázat a csúszós fapallókkal a strand területén.",
                 "ro": "Atenție la podețele de lemn alunecoase de pe plajă.",
-                "en": "Watch out for slippery wooden walkways on the beach."
+                "en": "Watch out for slippery wooden walkways on the beach.",
+                "hr": "Pripazite na skliske drvene staze na plaži."
               }
             },
             {
@@ -1007,7 +1103,8 @@
                 "de": "Uferpromenade ist bei Regen oft menschenleer und frei.",
                 "hu": "A sétány esőben gyakran teljesen üres és jól biciklizhető.",
                 "ro": "Promenada este adesea goală și liberă pe timp de ploaie.",
-                "en": "The promenade is often deserted and clear during rain."
+                "en": "The promenade is often deserted and clear during rain.",
+                "hr": "Šetnica je tijekom kiše često pusta i slobodna."
               }
             },
             {
@@ -1016,7 +1113,8 @@
                 "de": "Bremsbeläge nach der Fahrt im Sand/Regen prüfen.",
                 "hu": "A homokos-esős menet után ellenőrizze a fékeket.",
                 "ro": "Verificați frânele după cursa prin nisip și ploaie.",
-                "en": "Check your brake pads after riding in sand and rain."
+                "en": "Check your brake pads after riding in sand and rain.",
+                "hr": "Provjerite kočione pločice nakon vožnje po pijesku i kiši."
               }
             }
           ],
@@ -1048,6 +1146,13 @@
               "Maintain steady pedaling on the sandy sections.",
               "Avoid sharp braking on wet stone surfaces.",
               "Clean the sand off your chain immediately after the tour."
+            ],
+            "hr": [
+              "Blatobrani su obavezni po ovakvom vremenu.",
+              "Nosite naočale kako biste izbjegli prskanje blata u oči.",
+              "Održavajte ravnomjerno okretanje pedala na pješčanim dijelovima.",
+              "Izbjegavajte naglo kočenje na mokrim kamenim površinama.",
+              "Odmah nakon ture očistite pijesak s lanca."
             ]
           }
         },
@@ -1056,7 +1161,8 @@
             "de": "Der frische Wintermorgen lädt zu einer zügigen Fahrt zwischen den Kirchen von Lopar ein, um warm zu werden. Mittags erkunden wir den Geopark, wo die Pfade nun hart und gut befahrbar sind und die Aussicht auf das Meer kristallklar ist. Nachmittags folgen wir der Küstenlinie von Livačina nach Rajska plaža, während wir den kalten Wind im Rücken haben. Wir beenden die Tour an der Kapelle des Hl. Nikolaus pünktlich zum Sonnenuntergang, bevor die Kälte der Nacht einsetzt.",
             "hu": "A friss téli reggelen gyors tekeréssel indulunk a templomok között, hogy hamar bemelegedjünk. Délben a Geoparkot járjuk be, ahol az ösvények ilyenkor kemények, jól tekerhetőek, a kilátás pedig kristálytiszta. Délután a Livačina és a Rajska plaža közötti partvonalat követjük, élvezve a hideg hátszelet. A túrát a Szent Miklós kápolnánál zárjuk, pont a naplemente idején, mielőtt beállna az éjszakai fagy.",
             "ro": "Dimineața rece de iarnă ne invită la o cursă rapidă între bisericile din Lopar pentru a ne încălzi. La prânz explorăm Geopark-ul, unde potecile sunt acum tari și ușor de parcurs, iar vizibilitatea spre mare este maximă. După-amiaza urmăm linia coastei de la Livačina spre Rajska plaža, având vântul rece în spate. Încheiem turul la capela Sf. Nicolae chiar la apus, înainte de lăsarea frigului nopții.",
-            "en": "A crisp winter morning calls for a brisk ride between Lopar’s churches to warm up. At midday, we explore the Geopark, where the trails are now firm and easy to navigate, offering crystal-clear sea views. In the afternoon, we follow the coastline from Livačina to Paradise Beach with the cold wind at our backs. We finish the tour at St. Nicholas Chapel just in time for sunset, before the nighttime chill sets in."
+            "en": "A crisp winter morning calls for a brisk ride between Lopar’s churches to warm up. At midday, we explore the Geopark, where the trails are now firm and easy to navigate, offering crystal-clear sea views. In the afternoon, we follow the coastline from Livačina to Paradise Beach with the cold wind at our backs. We finish the tour at St. Nicholas Chapel just in time for sunset, before the nighttime chill sets in.",
+            "hr": "Svježe zimsko jutro zahtijeva brzu vožnju između loparskih crkava kako biste se zagrijali. U podne istražujemo Geopark, gdje su staze sada čvrste i lake za navigaciju, nudeći kristalno čist pogled na more. Poslijepodne pratimo obalu od Livačine do Rajske plaže s hladnim vjetrom u leđa. Turu završavamo kod kapelice sv. Nikole baš na vrijeme za zalazak sunca, prije nego što nastupi noćna hladnoća."
           },
           "stops": [
             {
@@ -1065,7 +1171,8 @@
                 "de": "Gute Handschuhe sind bei der Abfahrt wichtig.",
                 "hu": "A lejtőkön fontos a jó minőségű kesztyű.",
                 "ro": "Mănușile bune sunt esențiale la coborâri.",
-                "en": "Good gloves are essential for the descents."
+                "en": "Good gloves are essential for the descents.",
+                "hr": "Dobre rukavice su neophodne za spustove."
               }
             },
             {
@@ -1074,7 +1181,8 @@
                 "de": "Bester Grip auf dem gefrorenen oder harten Sandboden.",
                 "hu": "Kiváló tapadás a fagyott vagy kemény homokos talajon.",
                 "ro": "Aderență excelentă pe solul de nisip înghețat sau tare.",
-                "en": "Best grip on the frozen or hard sandy ground."
+                "en": "Best grip on the frozen or hard sandy ground.",
+                "hr": "Najbolje prianjanje na smrznutom ili tvrdom pješčanom tlu."
               }
             },
             {
@@ -1083,7 +1191,8 @@
                 "de": "Kurze Pause in der Sonne einlegen, um aufzuwärmen.",
                 "hu": "Tartson rövid pihenőt a napon, hogy átmelegedjen.",
                 "ro": "Faceți o pauză scurtă la soare pentru a vă încălzi.",
-                "en": "Take a short break in the sun to warm up."
+                "en": "Take a short break in the sun to warm up.",
+                "hr": "Napravite kratku pauzu na suncu kako biste se zagrijali."
               }
             },
             {
@@ -1092,7 +1201,8 @@
                 "de": "Die leere Promenade erlaubt höheres Tempo.",
                 "hu": "Az üres sétány tempósabb haladást tesz lehetővé.",
                 "ro": "Promenada goală permite o viteză mai mare.",
-                "en": "The empty promenade allows for a faster pace."
+                "en": "The empty promenade allows for a faster pace.",
+                "hr": "Prazna šetnica omogućuje brži tempo."
               }
             },
             {
@@ -1101,7 +1211,8 @@
                 "de": "Beleuchtung für den Heimweg im Dunkeln prüfen.",
                 "hu": "Ellenőrizze a világítást a sötétben való hazatéréshez.",
                 "ro": "Verificați luminile pentru drumul spre casă pe întuneric.",
-                "en": "Check your lights for the ride back in the dark."
+                "en": "Check your lights for the ride back in the dark.",
+                "hr": "Provjerite svjetla za povratak po mraku."
               }
             }
           ],
@@ -1133,6 +1244,13 @@
               "A neck gaiter protects your neck and face from the chill.",
               "E-bike batteries drain faster in cold temperatures.",
               "The ground can be slippery in shaded areas."
+            ],
+            "hr": [
+              "Nosite softshell jaknu otpornu na vjetar.",
+              "Izbjegavajte duge pauze dok ste znojni na hladnom vjetru.",
+              "Grijač za vrat štiti vaš vrat i lice od hladnoće.",
+              "Baterije e-bicikala brže se prazne na niskim temperaturama.",
+              "Tlo može biti sklisko u sjenovitim područjima."
             ]
           }
         }
@@ -1161,7 +1279,8 @@
             "de": "Historisches Heiligtum auf dem Hügel.",
             "hu": "Történelmi szentély a dombon.",
             "ro": "Santuat istoric pe deal.",
-            "en": "Historical sanctuary on the hill."
+            "en": "Historical sanctuary on the hill.",
+            "hr": "Povijesno svetište na brdu."
           }
         },
         {
@@ -1179,7 +1298,8 @@
             "de": "Ehemalige Gefängnisinsel, erreichbar per Ausflugsboot.",
             "hu": "Egykori börtönsziget, kirándulóhajóval elérhető.",
             "ro": "Fosta insulă-închisoare, accesibilă cu barca.",
-            "en": "Former prison island, accessible by excursion boat."
+            "en": "Former prison island, accessible by excursion boat.",
+            "hr": "Bivši zatvorski otok, dostupan izletničkim brodom."
           }
         },
         {
@@ -1197,7 +1317,8 @@
             "de": "Bester Parkplatz am südlichen Ende.",
             "hu": "Legjobb parkoló a déli végén.",
             "ro": "Cea mai bună parcare la capătul sudic.",
-            "en": "Best parking at the southern end."
+            "en": "Best parking at the southern end.",
+            "hr": "Najbolji parking na južnom kraju."
           }
         },
         {
@@ -1215,7 +1336,8 @@
             "de": "Unbewohnte Insel mit Hirschen.",
             "hu": "Lakatlan sziget szarvasokkal.",
             "ro": "Insulă nelocuită cu cerbi.",
-            "en": "Uninhabited island with deer."
+            "en": "Uninhabited island with deer.",
+            "hr": "Nenastanjeni otok s jelenima."
           }
         },
         {
@@ -1233,7 +1355,8 @@
             "de": "Abendstimmung genießen.",
             "hu": "Élvezze az esti hangulatot.",
             "ro": "Bucurați-vă de atmosfera de seară.",
-            "en": "Enjoy the evening atmosphere."
+            "en": "Enjoy the evening atmosphere.",
+            "hr": "Uživajte u večernjoj atmosferi."
           }
         }
       ],
@@ -1241,7 +1364,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Ausgangspunkte für Bootsausflüge. Besuchen Sie zuerst die Marienkirche, bevor Sie vom Hafen aus zur geschichtsträchtigen Insel Goli Otok übersetzen. Nach der Rückkehr entspannen Sie am Paradiesstrand. Ein weiterer kurzer Bootstrip führt zur Insel Sveti Grgur. Den Tag schließen Sie am ruhigeren Livačina-Strand ab.",
         "hu": "Autóval kényelmesen elérheti a hajókirándulások indulópontjait. Először látogassa meg a Mária-templomot, majd a kikötőből hajózzon át a történelmi Goli Otok szigetre. Visszatérés után pihenjen a Paradicsom-parton. Egy másik rövid hajóút a Sveti Grgur szigetre vezet. A napot a nyugodtabb Livačina strandon zárja.",
         "ro": "Cu mașina puteți ajunge cu ușurință la punctele de plecare pentru excursii cu barca. Vizitați mai întâi biserica Maria, înainte de a traversa din port spre insula istorică Goli Otok. După întoarcere, relaxați-vă pe Plaja Paradisului. O altă scurtă excursie cu barca duce la insula Sveti Grgur. Încheiați ziua pe plaja mai liniștită Livačina.",
-        "en": "By car, you can easily reach the starting points for boat trips. First visit St. Mary's church, then cross from the harbor to the historic island of Goli Otok. After returning, relax at Paradise Beach. Another short boat trip leads to Sveti Grgur island. Close the day at the quieter Livačina beach."
+        "en": "By car, you can easily reach the starting points for boat trips. First visit St. Mary's church, then cross from the harbor to the historic island of Goli Otok. After returning, relax at Paradise Beach. Another short boat trip leads to Sveti Grgur island. Close the day at the quieter Livačina beach.",
+        "hr": "Automobilom možete lako doći do polazišta za izlete brodom. Prvo posjetite crkvu sv. Marije, a zatim iz luke prijeđite na povijesni otok Goli otok. Nakon povratka, opustite se na Rajskoj plaži. Još jedan kratki izlet brodom vodi do otoka Sveti Grgur. Zatvorite dan na mirnijoj plaži Livačina."
       },
       "gastro_picks": {
         "de": [
@@ -1266,6 +1390,12 @@
           {
             "name": "Restaurant Stella",
             "tip": "Known for grilled dishes."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restaurant Stella",
+            "tip": "Poznat po jelima s roštilja."
           }
         ]
       },
@@ -1297,6 +1427,13 @@
             "tip": "Crystal clear, quiet water.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Uvala Sveti Grgur",
+            "tip": "Kristalno čisto, mirno more.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -1322,6 +1459,12 @@
           {
             "name": "Supermarket Petra",
             "tip": "Everything for a picnic."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Supermarket Petra",
+            "tip": "Sve za piknik."
           }
         ]
       },
@@ -1349,6 +1492,12 @@
           "Parking in Lopar is paid.",
           "The ferry to Krk departs from the nearby harbor.",
           "Pay attention to the departure times of the excursion boats."
+        ],
+        "hr": [
+          "Rezervirajte izlete brodom unaprijed.",
+          "Parkiranje u Loparu se naplaćuje.",
+          "Trajekt za Krk polazi iz obližnje luke.",
+          "Obratite pozornost na vrijeme polaska izletničkih brodova."
         ]
       },
       "variants": {
@@ -1520,7 +1669,8 @@
             "de": "Ein Regentag in Lopar lässt sich am besten mit dem Auto erkunden, beginnend bei den geschützten Kirchen im Ort. Mittags fahren wir zum Hafen, um die Lage für eine Überfahrt nach Goli Otok zu prüfen, auch wenn die Wellen heute rau schlagen. Den Nachmittag verbringen wir in der Nähe von Rajska plaža, wo wir aus dem warmen Auto den Regen auf das Meer peitschen sehen. Eine kurze Fahrt zur Insel Sveti Grgur (per Boot ab Hafen) oder ein Blick von der Küste rundet den Tag ab, bevor wir Livačina besuchen.",
             "hu": "Az esős lopari napot legkényelmesebben autóval fedezhetjük fel, kezdve a falu védett templomaival. Délben a kikötőbe hajtunk, hogy megnézzük, indulnak-e hajók Goli Otokra, bár a tenger ma igen hullámos. A délutánt a Rajska plaža közelében töltjük, a meleg autóból figyelve a tengerre zúduló esőt. Egy rövid kitérő a part mentén Sveti Grgur irányába, majd a Livačina strand érintésével zárjuk a napot, élvezve a kocsi nyújtotta biztonságot.",
             "ro": "O zi ploioasă în Lopar este explorată cel mai bine cu mașina, începând cu bisericile din sat. La prânz mergem în port pentru a verifica posibilitatea unei traversări spre Goli Otok, deși valurile sunt mari astăzi. După-amiaza rămânem în zona Rajska plaža, privind ploaia peste mare din confortul mașinii. O scurtă plimbare pe coastă spre Sveti Grgur și vizita la Livačina încheie ziua înainte de a ne retrage la căldură.",
-            "en": "A rainy day in Lopar is best explored by car, starting with the sheltered churches in town. At midday, we drive to the harbor to check for boat trips to Goli Otok, even though the sea is quite rough today. The afternoon is spent near Paradise Beach, watching the rain lash over the sea from the warmth of the car. A short drive along the coast towards Sveti Grgur and a visit to Livačina concludes the day before heading back."
+            "en": "A rainy day in Lopar is best explored by car, starting with the sheltered churches in town. At midday, we drive to the harbor to check for boat trips to Goli Otok, even though the sea is quite rough today. The afternoon is spent near Paradise Beach, watching the rain lash over the sea from the warmth of the car. A short drive along the coast towards Sveti Grgur and a visit to Livačina concludes the day before heading back.",
+            "hr": "Kišni dan u Loparu najbolje je istražiti automobilom, počevši od zaklonjenih crkava u mjestu. U podne se vozimo do luke kako bismo provjerili ima li izleta brodom na Goli otok, iako je more danas prilično nemirno. Poslijepodne provodimo u blizini Rajske plaže, promatrajući iz topline automobila kako kiša šiba morem. Kratka vožnja uz obalu prema Svetom Grguru i posjet Livačini zaključuju dan prije povratka."
           },
           "stops": [
             {
@@ -1529,7 +1679,8 @@
                 "de": "Parkplätze direkt vor der Kirche nutzen.",
                 "hu": "Használja a közvetlenül a templom előtti parkolókat.",
                 "ro": "Folosiți locurile de parcare direct în fața bisericii.",
-                "en": "Use the parking spaces right in front of the church."
+                "en": "Use the parking spaces right in front of the church.",
+                "hr": "Koristite parkirna mjesta neposredno ispred crkve."
               }
             },
             {
@@ -1538,7 +1689,8 @@
                 "de": "Bootsfahrten bei Regen oft abgesagt, vorher anrufen.",
                 "hu": "Esőben a hajók gyakran nem járnak, telefonáljon előre.",
                 "ro": "Cursele cu barca pot fi anulate pe ploaie, sunați înainte.",
-                "en": "Boat trips are often cancelled in rain; call ahead."
+                "en": "Boat trips are often cancelled in rain; call ahead.",
+                "hr": "Izleti brodom se često otkazuju po kiši; nazovite unaprijed."
               }
             },
             {
@@ -1547,7 +1699,8 @@
                 "de": "Viel Platz auf den Parkplätzen nahe der Promenade.",
                 "hu": "Bőséges parkolóhely a sétány közvetlen közelében.",
                 "ro": "Multe locuri de parcare libere lângă promenadă.",
-                "en": "Plenty of parking spaces available near the promenade."
+                "en": "Plenty of parking spaces available near the promenade.",
+                "hr": "Puno slobodnih parkirnih mjesta u blizini šetnice."
               }
             },
             {
@@ -1556,7 +1709,8 @@
                 "de": "Überfahrt nur bei ruhiger See zu empfehlen.",
                 "hu": "Az átkelés csak nyugodt tenger esetén javasolt.",
                 "ro": "Traversarea este recomandată doar pe mare liniștită.",
-                "en": "Crossing is only recommended if the sea is calm."
+                "en": "Crossing is only recommended if the sea is calm.",
+                "hr": "Prijelaz se preporučuje samo ako je more mirno."
               }
             },
             {
@@ -1565,7 +1719,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zum Strand bei Regen.",
                 "hu": "Rövid séta a parkolótól a strandig az esőben.",
                 "ro": "Scurtă plimbare de la parcare la plajă pe ploaie.",
-                "en": "Short walk from the parking lot to the beach in the rain."
+                "en": "Short walk from the parking lot to the beach in the rain.",
+                "hr": "Kratka šetnja od parkirališta do plaže po kiši."
               }
             }
           ],
@@ -1597,6 +1752,13 @@
               "Check the ferry schedules to Valbiska during heavy rain.",
               "An umbrella in the car is ideal for short trips to the stops.",
               "Visibility might be reduced due to fogged-up windows."
+            ],
+            "hr": [
+              "Prilazne ceste plažama su dobro asfaltirane.",
+              "Izbjegavajte parkiranje na neasfaltiranim pješčanim površinama.",
+              "Provjerite red vožnje trajekta za Valbisku tijekom jake kiše.",
+              "Kišobran u autu idealan je za kratke odlaske do stajališta.",
+              "Vidljivost može biti smanjena zbog zamagljenih stakala."
             ]
           }
         },
@@ -1605,7 +1767,8 @@
             "de": "An einem klaren Wintermorgen ist die Fahrt durch das ruhige Lopar zu den Kirchen ein Genuss. Mittags hoffen wir auf eine Überfahrt nach Goli Otok, wo die karge Gefängnisinsel im Winterlicht besonders eindringlich wirkt. Nachmittags parken wir am Paradise Beach und genießen die Wintersonne bei einem Spaziergang am leeren Ufer. Zum Abschluss fahren wir zur Küste mit Blick auf Sveti Grgur und beenden den Tag bei Livačina, wenn die Dämmerung die Landschaft in Blau taucht.",
             "hu": "A tiszta téli reggelen öröm az autózás a csendes Lopar templomaihoz. Délben megpróbálunk átjutni Goli Otokra, ahol a kopár börtönsziget a téli fényekben még drámaibb hatást kelt. Délután a Rajska plaža mellett parkolunk le, és élvezzük a napsütést az üres parton sétálva. A nap végén a Sveti Grgurra néző part felé vesszük az irányt, majd Livačina mellett fejezzük be az utat, miközben a szürkület kékbe vonja a tájat.",
             "ro": "Într-o dimineață clară de iarnă, condusul prin Lopar spre biserici este o plăcere. La prânz sperăm la o traversare spre Goli Otok, unde insula închisoare pare și mai austeră în lumina iernii. După-amiaza parcăm la Rajska plaža și ne bucurăm de soare pe plaja pustie. Încheiem ziua cu o vizită spre coasta cu vedere la Sveti Grgur și un popas la Livačina, când amurgul colorează peisajul în nuanțe de albastru.",
-            "en": "On a clear winter morning, driving through peaceful Lopar to the churches is a delight. At midday, we hope for a trip to Goli Otok, where the barren prison island feels even more powerful in the winter light. In the afternoon, we park by Paradise Beach and enjoy the sun on the empty shore. We finish the day with a drive to the coast overlooking Sveti Grgur and a stop at Livačina as twilight turns the landscape blue."
+            "en": "On a clear winter morning, driving through peaceful Lopar to the churches is a delight. At midday, we hope for a trip to Goli Otok, where the barren prison island feels even more powerful in the winter light. In the afternoon, we park by Paradise Beach and enjoy the sun on the empty shore. We finish the day with a drive to the coast overlooking Sveti Grgur and a stop at Livačina as twilight turns the landscape blue.",
+            "hr": "U vedro zimsko jutro, vožnja kroz mirni Lopar do crkava pravi je užitak. U podne se nadamo izletu na Goli otok, gdje ogoljeli zatvorski otok djeluje još snažnije na zimskom svjetlu. Poslijepodne parkiramo uz Rajsku plažu i uživamo u suncu na praznoj obali. Dan završavamo vožnjom do obale s pogledom na Sveti Grgur i zaustavljanjem na Livačini dok sumrak krajolik boji u plavo."
           },
           "stops": [
             {
@@ -1614,7 +1777,8 @@
                 "de": "Heizung im Auto sorgt für angenehme Übergänge.",
                 "hu": "Az autó fűtése kényelmessé teszi a megállók közötti utat.",
                 "ro": "Căldura din mașină face tranziția între opriri plăcută.",
-                "en": "The car heater ensures comfortable transitions between stops."
+                "en": "The car heater ensures comfortable transitions between stops.",
+                "hr": "Grijanje u automobilu osigurava ugodne prijelaze između postaja."
               }
             },
             {
@@ -1623,7 +1787,8 @@
                 "de": "Im Winter nur private Charter oder weniger Fahrten.",
                 "hu": "Télen csak privát bérlés vagy ritka járatok vannak.",
                 "ro": "Iarna sunt doar chartere private sau curse rare.",
-                "en": "Only private charters or limited trips available in winter."
+                "en": "Only private charters or limited trips available in winter.",
+                "hr": "Zimi su dostupni samo privatni najmovi ili ograničeni izleti."
               }
             },
             {
@@ -1632,7 +1797,8 @@
                 "de": "Kostenloses Parken oft in der Nebensaison möglich.",
                 "hu": "A főszezonon kívül a parkolás gyakran ingyenes.",
                 "ro": "Parcarea este adesea gratuită în afara sezonului.",
-                "en": "Parking is often free during the off-season."
+                "en": "Parking is often free during the off-season.",
+                "hr": "Parkiranje je često besplatno tijekom izvansezone."
               }
             },
             {
@@ -1641,7 +1807,8 @@
                 "de": "Warme Jacke für die Bootsfahrt unbedingt mitnehmen.",
                 "hu": "A hajóútra mindenképpen vigyen meleg kabátot.",
                 "ro": "Luați neapărat o jachetă groasă pentru cursa cu barca.",
-                "en": "Be sure to bring a warm jacket for the boat trip."
+                "en": "Be sure to bring a warm jacket for the boat trip.",
+                "hr": "Obavezno ponesite toplu jaknu za vožnju brodom."
               }
             },
             {
@@ -1650,7 +1817,8 @@
                 "de": "Den Sonnenuntergang direkt aus dem Auto genießen.",
                 "hu": "Élvezze a naplementét közvetlenül az autóból.",
                 "ro": "Bucurați-vă de apus direct din mașină.",
-                "en": "Enjoy the sunset directly from the car."
+                "en": "Enjoy the sunset directly from the car.",
+                "hr": "Uživajte u zalasku sunca izravno iz automobila."
               }
             }
           ],
@@ -1682,6 +1850,13 @@
               "Antifreeze windshield washer fluid is recommended.",
               "Take advantage of short distances to minimize time spent in the cold.",
               "Check which gas stations are open during the winter."
+            ],
+            "hr": [
+              "Pripazite na divlje životinje koje se zimi više približavaju cestama.",
+              "Bura može otežati otvaranje vrata automobila.",
+              "Preporučuje se tekućina za stakla protiv smrzavanja.",
+              "Iskoristite kratke udaljenosti kako biste smanjili vrijeme provedeno na hladnoći.",
+              "Provjerite koje su benzinske postaje otvorene tijekom zime."
             ]
           }
         }
@@ -1710,7 +1885,8 @@
             "de": "Zentraler Punkt beim Busstopp.",
             "hu": "Központi pont a buszmegállónál.",
             "ro": "Punct central lângă stația de autobuz.",
-            "en": "Central point by the bus stop."
+            "en": "Central point by the bus stop.",
+            "hr": "Središnja točka kod autobusne stanice."
           }
         },
         {
@@ -1728,7 +1904,8 @@
             "de": "Kurzer Fußweg von der Bushaltestelle San Marino.",
             "hu": "Rövid séta a San Marino buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz San Marino.",
-            "en": "Short walk from the San Marino bus stop."
+            "en": "Short walk from the San Marino bus stop.",
+            "hr": "Kratka šetnja od autobusne stanice San Marino."
           }
         },
         {
@@ -1746,7 +1923,8 @@
             "de": "Zu Fuß vom Paradiesstrand erreichbar.",
             "hu": "Gyalog elérhető a Paradicsom-partról.",
             "ro": "Accesibil pe jos de la Plaja Paradisului.",
-            "en": "Accessible on foot from Paradise Beach."
+            "en": "Accessible on foot from Paradise Beach.",
+            "hr": "Dostupno pješice s Rajske plaže."
           }
         },
         {
@@ -1764,7 +1942,8 @@
             "de": "Nähe zum Fährhafen Lopar.",
             "hu": "A lopari kompkikötő közelében.",
             "ro": "Aproape de portul de feribot Lopar.",
-            "en": "Near the Lopar ferry port."
+            "en": "Near the Lopar ferry port.",
+            "hr": "U blizini trajektne luke Lopar."
           }
         }
       ],
@@ -1772,7 +1951,8 @@
         "de": "Nutzen Sie den lokalen Bus, um zwischen dem Zentrum und der Ferienanlage San Marino zu pendeln. Starten Sie an der Johanneskirche und verbringen Sie den Vormittag am Paradiesstrand. Nach einem entspannten Mittagessen spazieren Sie zum Livačina-Strand. Beenden Sie den Tag an der Nikolaus-Kapelle in der Nähe des Hafens, von wo aus Sie den Bus zurück nehmen können.",
         "hu": "Használja a helyi buszt a központ és a San Marino üdülőtelep közötti közlekedéshez. Kezdjen a Szent János-templomnál, majd töltse a délelőttöt a Paradicsom-parton. Egy pihentető ebéd után sétáljon át a Livačina strandra. Zárja a napot a kikötő közeli Szent Miklós-kápolnánál, ahonnan visszabuszozhat.",
         "ro": "Folosiți autobuzul local pentru a naveta între centru și complexul San Marino. Începeți la biserica Sf. Ioan și petreceți dimineața pe Plaja Paradisului. După un prânz relaxant, mergeți la plaja Livačina. Încheiați ziua la capela Sf. Nicolae de lângă port, de unde puteți lua autobuzul înapoi.",
-        "en": "Use the local bus to commute between the center and the San Marino resort. Start at St. John's church and spend the morning at Paradise Beach. After a relaxing lunch, walk to Livačina beach. End the day at St. Nicholas chapel near the harbor, from where you can take the bus back."
+        "en": "Use the local bus to commute between the center and the San Marino resort. Start at St. John's church and spend the morning at Paradise Beach. After a relaxing lunch, walk to Livačina beach. End the day at St. Nicholas chapel near the harbor, from where you can take the bus back.",
+        "hr": "Koristite lokalni autobus za putovanje između centra i naselja San Marino. Počnite kod crkve sv. Ivana i provedite jutro na Rajskoj plaži. Nakon opuštajućeg ručka, prošećite do plaže Livačina. Završite dan kod kapelice sv. Nikole u blizini luke, odakle se autobusom možete vratiti nazad."
       },
       "gastro_picks": {
         "de": [
@@ -1797,6 +1977,12 @@
           {
             "name": "Buffet San Marino",
             "tip": "Quick meals at the beach."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Buffet San Marino",
+            "tip": "Brzi obroci na plaži."
           }
         ]
       },
@@ -1828,6 +2014,13 @@
             "tip": "Shade under pines.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Park-šuma Lopar",
+            "tip": "Hlad pod borovima.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -1853,6 +2046,12 @@
           {
             "name": "Lopar bakery",
             "tip": "Fresh pastries for the beach day."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pekara Lopar",
+            "tip": "Svježa peciva za dan na plaži."
           }
         ]
       },
@@ -1880,6 +2079,12 @@
           "Tickets can be bought from the driver.",
           "Stops are well marked.",
           "In high season, buses can be crowded."
+        ],
+        "hr": [
+          "Provjerite vozni red za liniju Rab-Lopar.",
+          "Karte se mogu kupiti kod vozača.",
+          "Stanice su dobro označene.",
+          "U jeku sezone autobusi mogu biti krcati."
         ]
       },
       "variants": {
@@ -2042,7 +2247,8 @@
             "de": "Der Bus bringt uns am Morgen sicher zum Zentrum, von wo wir die Kirchen im Schutz des Regenschirms erreichen. Mittags fahren wir zur Haltestelle nahe Rajska plaža und verbringen die Zeit in den überdachten Bereichen der Cafés am Strand. Am Nachmittag bringt uns der Transit nach Livačina, wo wir die raue Meeresstimmung genießen. Wir beenden den Tag an der Kapelle des Hl. Nikolaus, bevor wir den letzten Bus zurück nehmen.",
             "hu": "A busz reggel biztonságban repít minket a központba, ahonnan esernyővel indulunk a templomok felé. Délben a Rajska plaža melletti megállónál szállunk le, és a strand menti kávézók fedett teraszain pihenünk meg. Délután a busz Livačina felé visz, ahol a tenger morajlását hallgatjuk a szürkeségben. A napot a Szent Miklós kápolnánál zárjuk, mielőtt elérnénk az utolsó visszatérő járatot.",
             "ro": "Autobuzul ne aduce în siguranță în centru dimineața, de unde ajungem la biserici protejați de umbrelă. La prânz mergem spre stația de lângă Rajska plaža și petrecem timpul în zonele acoperite ale cafenelelor de pe plajă. După-amiaza tranzitul ne duce spre Livačina, unde admirăm marea agitată. Încheiem ziua la capela Sf. Nicolae înainte de a lua ultimul autobuz înapoi.",
-            "en": "The bus safely takes us to the center in the morning, from where we reach the churches under the cover of our umbrellas. At midday, we ride to the stop near Paradise Beach and spend time in the sheltered areas of the beach cafes. In the afternoon, the transit carries us to Livačina to enjoy the moody sea. We finish at St. Nicholas Chapel before catching the last bus back."
+            "en": "The bus safely takes us to the center in the morning, from where we reach the churches under the cover of our umbrellas. At midday, we ride to the stop near Paradise Beach and spend time in the sheltered areas of the beach cafes. In the afternoon, the transit carries us to Livačina to enjoy the moody sea. We finish at St. Nicholas Chapel before catching the last bus back.",
+            "hr": "Autobus nas ujutro sigurno vozi do centra, odakle pod zaklonima kišobrana stižemo do crkava. U podne se vozimo do stanice u blizini Rajske plaže i provodimo vrijeme u zaklonjenim dijelovima kafića na plaži. Poslijepodne nas prijevoz vodi do Livačine kako bismo uživali u sjetnom moru. Završavamo kod kapelice sv. Nikole prije nego što uhvatimo posljednji autobus za povratak."
           },
           "stops": [
             {
@@ -2051,7 +2257,8 @@
                 "de": "Bushaltestelle ist nur wenige Gehminuten entfernt.",
                 "hu": "A buszmegálló csak pár perc sétára található.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
-                "en": "The bus stop is only a few minutes' walk away."
+                "en": "The bus stop is only a few minutes' walk away.",
+                "hr": "Autobusna stanica je udaljena svega nekoliko minuta hoda."
               }
             },
             {
@@ -2060,7 +2267,8 @@
                 "de": "Überdachte Wartehäuschen bei Regen nutzen.",
                 "hu": "Esőben használja a fedett várókat.",
                 "ro": "Folosiți refugiile acoperite din stații pe timp de ploaie.",
-                "en": "Use the covered shelters at the bus stops during rain."
+                "en": "Use the covered shelters at the bus stops during rain.",
+                "hr": "Koristite natkrivena skloništa na autobusnim stanicama tijekom kiše."
               }
             },
             {
@@ -2069,7 +2277,8 @@
                 "de": "Fahrplan für Rückfahrt genau prüfen.",
                 "hu": "Pontosan ellenőrizze a visszautat a menetrendben.",
                 "ro": "Verificați cu atenție orarul pentru întoarcere.",
-                "en": "Check the return schedule carefully."
+                "en": "Check the return schedule carefully.",
+                "hr": "Pažljivo provjerite vozni red za povratak."
               }
             },
             {
@@ -2078,7 +2287,8 @@
                 "de": "Letzte Haltestelle vor der Rückfahrt in den Hauptort.",
                 "hu": "Az utolsó megálló a főfaluba való visszatérés előtt.",
                 "ro": "Ultima stație înainte de întoarcerea în localitatea principală.",
-                "en": "The last stop before returning to the main village."
+                "en": "The last stop before returning to the main village.",
+                "hr": "Zadnja stanica prije povratka u glavno selo."
               }
             }
           ],
@@ -2110,6 +2320,13 @@
               "Wear waterproof clothing while waiting outdoors.",
               "Buses may be less heated during winter or rainy days.",
               "Ask the driver about the last bus of the day."
+            ],
+            "hr": [
+              "Vozni red otočkih autobusa obično ostaje nepromijenjen tijekom kiše.",
+              "Pripremite sitniš ili aplikaciju za karte.",
+              "Nosite vodootpornu odjeću dok čekate na otvorenom.",
+              "Autobusi mogu biti slabije grijani tijekom zimskih ili kišnih dana.",
+              "Pitajte vozača za zadnji autobus toga dana."
             ]
           }
         },
@@ -2118,7 +2335,8 @@
             "de": "An einem frischen Wintermorgen bringt uns der Bus zum ruhigen Ortszentrum von Lopar. Mittags fahren wir zur Rajska plaža, wo wir die Einsamkeit des riesigen Strandes in der kühlen Luft genießen. Nachmittags nutzen wir den Transit nach Livačina für einen Spaziergang in der klaren Winteratmosphäre. Da die Tage kurz sind, besuchen wir die Kapelle des Hl. Nikolaus zum Sonnenuntergang und fahren mit dem Abendbus zurück.",
             "hu": "A friss téli reggelen busszal érkezünk Lopar csendes központjába. Délben a Rajska plaža felé vesszük az irányt, élvezve a hatalmas strand magányát a hűvös levegőben. Délután Livačina környékén sétálunk a kristálytiszta téli időben. Mivel a nappalok rövidek, a Szent Miklós kápolnát naplementekor keressük fel, majd az esti busszal térünk haza.",
             "ro": "Într-o dimineață proaspătă de iarnă, autobuzul ne duce în centrul liniștit din Lopar. La prânz mergem spre Rajska plaža, bucurându-ne de singurătatea plajei imense în aerul rece. După-amiaza folosim tranzitul spre Livačina pentru o plimbare în atmosfera clară de iarnă. Deoarece zilele sunt scurte, vizităm capela Sf. Nicolae la apus și ne întoarcem cu autobuzul de seară.",
-            "en": "On a fresh winter morning, the bus takes us to the quiet center of Lopar. At midday, we head to Paradise Beach, enjoying the solitude of the vast shore in the cool air. In the afternoon, we use the transit to reach Livačina for a walk in the clear winter atmosphere. As the days are short, we visit St. Nicholas Chapel at sunset and return with the evening bus."
+            "en": "On a fresh winter morning, the bus takes us to the quiet center of Lopar. At midday, we head to Paradise Beach, enjoying the solitude of the vast shore in the cool air. In the afternoon, we use the transit to reach Livačina for a walk in the clear winter atmosphere. As the days are short, we visit St. Nicholas Chapel at sunset and return with the evening bus.",
+            "hr": "U svježe zimsko jutro, autobus nas vozi u mirni centar Lopara. U podne se upućujemo na Rajsku plažu, uživajući u osami prostrane obale na hladnom zraku. Poslijepodne koristimo prijevoz kako bismo stigli do Livačine za šetnju u čistoj zimskoj atmosferi. Budući da su dani kratki, posjećujemo kapelicu sv. Nikole u zalazak sunca i vraćamo se večernjim autobusom."
           },
           "stops": [
             {
@@ -2127,7 +2345,8 @@
                 "de": "Im Winter verkehren die Busse seltener, Fahrplan prüfen.",
                 "hu": "Télen a buszok ritkábban járnak, ellenőrizze a menetrendet.",
                 "ro": "Iarna autobuzele circulă mai rar, verificați orarul.",
-                "en": "Buses run less frequently in winter; check the schedule."
+                "en": "Buses run less frequently in winter; check the schedule.",
+                "hr": "Autobusi zimi voze rjeđe; provjerite vozni red."
               }
             },
             {
@@ -2136,7 +2355,8 @@
                 "de": "Die Wartezeit in der Kälte durch Bewegung überbrücken.",
                 "hu": "A hidegben való várakozást mozgással tegye elviselhetőbbé.",
                 "ro": "Combateți frigul în timp ce așteptați prin mișcare.",
-                "en": "Keep moving while waiting in the cold to stay warm."
+                "en": "Keep moving while waiting in the cold to stay warm.",
+                "hr": "Krećite se dok čekate na hladnoći kako biste ostali zagrijani."
               }
             },
             {
@@ -2145,7 +2365,8 @@
                 "de": "Warme Kleidung für die zugigen Haltestellen einplanen.",
                 "hu": "Tervezzen meleg ruhával a huzatos megállók miatt.",
                 "ro": "Pregătiți haine groase pentru stațiile unde bate vântul.",
-                "en": "Bring warm clothes for the breezy bus stops."
+                "en": "Bring warm clothes for the breezy bus stops.",
+                "hr": "Ponesite toplu odjeću za vjetrovite autobusne stanice."
               }
             },
             {
@@ -2154,7 +2375,8 @@
                 "de": "Letzter Bus fährt oft kurz nach Sonnenuntergang.",
                 "hu": "Az utolsó busz gyakran röviddel naplemente után indul.",
                 "ro": "Ultimul autobuz pleacă adesea la scurt timp după apus.",
-                "en": "The last bus often departs shortly after sunset."
+                "en": "The last bus often departs shortly after sunset.",
+                "hr": "Zadnji autobus često polazi ubrzo nakon zalaska sunca."
               }
             }
           ],
@@ -2186,6 +2408,13 @@
               "Tickets are often available directly from the driver in winter.",
               "Bus stops are frequently unlit at night.",
               "Allow extra time for potential delays in the schedule."
+            ],
+            "hr": [
+              "Zimski vozni red značajno se razlikuje od ljetnog.",
+              "Koristite grijane autobuse da se zagrijete između postaja.",
+              "Karte su zimi često dostupne izravno kod vozača.",
+              "Autobusne stanice su noću često neosvijetljene.",
+              "Odvojite dodatno vrijeme za moguća kašnjenja u voznom redu."
             ]
           }
         }

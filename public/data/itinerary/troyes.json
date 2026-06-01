@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die Fassade des Rathauses aus dem 17. Jahrhundert.",
             "hu": "Csodálja meg a 17. századi városháza homlokzatát.",
             "ro": "Admirați fațada primăriei din secolul al XVII-lea.",
-            "en": "Admire the facade of the 17th-century City Hall."
+            "en": "Admire the facade of the 17th-century City Hall.",
+            "fr": "Admirez la façade de l'Hôtel de Ville du XVIIe siècle."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Die engste Gasse der Stadt, wo sich die Dächer fast berühren.",
             "hu": "A város legszűkebb utcája, ahol a tetők szinte összeérnek.",
             "ro": "Cea mai îngustă uliță, unde acoperișurile aproape se ating.",
-            "en": "The narrowest alley where roofs almost touch each other."
+            "en": "The narrowest alley where roofs almost touch each other.",
+            "fr": "La ruelle la plus étroite où les toits se touchent presque."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Berühmt für seinen prächtigen Lettner aus Stein.",
             "hu": "Híres a pompás kőből faragott szentélyrekesztőjéről.",
             "ro": "Celebră pentru iconostasul său magnific din piatră.",
-            "en": "Famous for its magnificent stone rood screen."
+            "en": "Famous for its magnificent stone rood screen.",
+            "fr": "Célèbre pour son magnifique jubé en pierre."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Eine einzigartige Sammlung von Handwerkzeugen in einem Herrenhaus.",
             "hu": "Kéziszerszámok egyedülálló gyűjteménye egy régi palotában.",
             "ro": "O colecție unică de unelte manuale într-un conac vechi.",
-            "en": "A unique collection of hand tools in a historic mansion."
+            "en": "A unique collection of hand tools in a historic mansion.",
+            "fr": "Une collection unique d'outils à main dans un hôtel particulier historique."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Bestaunen Sie die 1.500 m² an historischen Glasmalereien.",
             "hu": "Ámuljon el az 1500 m²-nyi történelmi üvegablakon.",
             "ro": "Admirați cei 1.500 m² de vitralii istorice.",
-            "en": "Marvel at the 1,500 m² of historic stained glass windows."
+            "en": "Marvel at the 1,500 m² of historic stained glass windows.",
+            "fr": "Émerveillez-vous devant les 1 500 m² de vitraux historiques."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein Meisterwerk der Gotik mit filigraner Architektur.",
             "hu": "A gótika remekműve, rendkívül filigrán építészettel.",
             "ro": "O capodoperă a stilului gotic cu arhitectură filigranată.",
-            "en": "A masterpiece of Gothic art with delicate architecture."
+            "en": "A masterpiece of Gothic art with delicate architecture.",
+            "fr": "Un chef-d'œuvre de l'art gothique à l'architecture délicate."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Morgens erkunden Sie das Herz der Stadt, den berühmten Champagnerkorken (Bouchon de Champagne). Mittags tauchen Sie in die mittelalterlichen Gassen mit ihren bunten Fachwerkhäusern ein. Nachmittags bewundern Sie die weltberühmten Glasmalereien in der Kathedrale. Abends lassen Sie den Tag in der Nähe der Basilika Saint-Urbain ausklingen, während die Sonne die Fassaden in goldenes Licht taucht.",
         "hu": "Reggel a város szívét, a híres pezsgődugó alakú központot fedezzük fel. Délben elmerülünk a középkori utcák és színes fagerendás házak világában. Délután a katedrális világhírű ólomüveg ablakait csodáljuk meg. Este a Szent Orbán-bazilika környékén zárjuk a napot, ahol a lemenő nap fénye aranyba vonja a gótikus falakat.",
         "ro": "Dimineața explorați inima orașului, celebrul dop de șampanie (Bouchon de Champagne). La prânz vă pierdeți pe ulițele medievale cu case colorate din paiantă. După-amiaza admirați vitraliile de renume mondial din catedrală. Seara încheiați ziua lângă Basilica Saint-Urbain, în timp ce soarele apune peste fațadele gotice filigranate.",
-        "en": "Morning explores the heart of the city, the famous 'Champagne cork' shaped center. At midday, dive into medieval alleys with colorful half-timbered houses. Afternoon is dedicated to the world-renowned stained glass windows of the Cathedral. Evening concludes near the Basilica of Saint-Urbain, watching the sunset glow on the Gothic stone."
+        "en": "Morning explores the heart of the city, the famous 'Champagne cork' shaped center. At midday, dive into medieval alleys with colorful half-timbered houses. Afternoon is dedicated to the world-renowned stained glass windows of the Cathedral. Evening concludes near the Basilica of Saint-Urbain, watching the sunset glow on the Gothic stone.",
+        "fr": "La matinée explore le cœur de la ville, le célèbre centre en forme de « bouchon de Champagne ». À midi, plongez dans les ruelles médiévales aux maisons à pans de bois colorées. L'après-midi est consacré aux vitraux de renommée mondiale de la Cathédrale. La soirée s'achève près de la Basilique Saint-Urbain, pour admirer l'éclat du soleil couchant sur la pierre gothique."
       },
       "gastro_picks": {
         "de": [
@@ -187,6 +194,20 @@
             "name": "Prunelle de Troyes",
             "tip": "A local sloe gin-like liqueur made from sloe pits."
           }
+        ],
+        "fr": [
+          {
+            "name": "Andouillette de Troyes",
+            "tip": "Goûtez cette saucisse traditionnelle au restaurant 'Aux Criées'."
+          },
+          {
+            "name": "Fromage de Chaource",
+            "tip": "Un fromage à pâte molle crémeux provenant du village voisin."
+          },
+          {
+            "name": "Prunelle de Troyes",
+            "tip": "Une liqueur locale fabriquée à partir de noyaux de prunelles."
+          }
         ]
       },
       "quiet_picks": {
@@ -237,6 +258,18 @@
             "tip": "A relaxing walk along the river banks.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jardin de l'Hôtel de Mauroy",
+            "tip": "Une cour paisible au cœur de la vieille ville.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quais de Seine",
+            "tip": "Une promenade relaxante le long des berges de la rivière.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -279,6 +312,16 @@
             "name": "Cellier Saint Pierre",
             "tip": "The perfect spot for Champagne and local wines."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché des Halles",
+            "tip": "Marché couvert pour les produits gastronomiques locaux."
+          },
+          {
+            "name": "Cellier Saint Pierre",
+            "tip": "L'endroit idéal pour le Champagne et les vins locaux."
+          }
         ]
       },
       "tips": {
@@ -305,6 +348,12 @@
           "Most museums are closed on Mondays or Tuesdays.",
           "Look out for the small sculptures hidden in the alleys.",
           "Book restaurants in advance for weekend visits."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les rues pavées irrégulières.",
+          "La plupart des musées sont fermés le lundi ou le mardi.",
+          "Cherchez les petites sculptures cachées dans les ruelles.",
+          "Réservez vos restaurants à l'avance pour les visites le week-end."
         ]
       },
       "variants": {
@@ -553,7 +602,8 @@
             "de": "Ein Vormittag unter den schützenden Dachüberständen der Fachwerkhäuser. Mittags bietet das Werkzeugmuseum einen faszinierenden trockenen Rückzugsort. Der Nachmittag steht im Zeichen der prächtigen Kathedralen, wo das Licht durch die berühmten Glasmalereien trotz Regen magisch wirkt. Den Abend lassen wir gemütlich in einem historischen Bistro in der Altstadt ausklingen.",
             "hu": "Délelőtt a gerendavázas házak védelmező ereszei alatt sétálunk. Délben a Szerszámmúzeum nyújt izgalmas és száraz menedéket. A délutánt a pompás katedrálisoknak szenteljük, ahol a színes üvegablakokon átszűrődő fény az esőben is varázslatos. Az estét egy óvárosi történelmi bisztró barátságos hangulatában zárjuk.",
             "ro": "O dimineață sub streșinile protectoare ale caselor cu structură din lemn. La prânz, muzeul uneltelor oferă un refugiu uscat și fascinant. După-amiaza este dedicată catedralelor magnifice, unde lumina prin vitraliile celebre este magică chiar și pe ploaie. Încheiem seara în atmosfera primitoare a unui bistrou istoric din centrul vechi.",
-            "en": "A morning spent under the protective overhangs of timber-framed houses. At noon, the tool museum offers a fascinating dry retreat. The afternoon is dedicated to the magnificent cathedrals, where the light through the famous stained glass remains magical despite the rain. We end the evening in the cozy atmosphere of a historic bistro in the old town."
+            "en": "A morning spent under the protective overhangs of timber-framed houses. At noon, the tool museum offers a fascinating dry retreat. The afternoon is dedicated to the magnificent cathedrals, where the light through the famous stained glass remains magical despite the rain. We end the evening in the cozy atmosphere of a historic bistro in the old town.",
+            "fr": "Une matinée passée sous les surplombs protecteurs des maisons à colombages. À midi, le musée de l'outil offre une retraite fascinante au sec. L'après-midi est dédié aux magnifiques cathédrales, où la lumière à travers les célèbres vitraux reste magique malgré la pluie. Nous terminons la soirée dans l'atmosphère chaleureuse d'un bistrot historique de la vieille ville."
           },
           "stops": [
             {
@@ -562,7 +612,8 @@
                 "de": "Die Arkaden des Rathauses bieten guten Schutz vor den ersten Tropfen.",
                 "hu": "A városháza árkádjai jó védelmet nyújtanak az első cseppek ellen.",
                 "ro": "Arcadele primăriei oferă o protecție bună împotriva primilor stropi.",
-                "en": "The town hall arcades provide good shelter from the first drops."
+                "en": "The town hall arcades provide good shelter from the first drops.",
+                "fr": "Les arcades de la mairie offrent un bon abri contre les premières gouttes."
               }
             },
             {
@@ -571,7 +622,8 @@
                 "de": "Die extrem enge Gasse hält dank der nahen Hauswände viel Regen ab.",
                 "hu": "A rendkívül szűk utca a közeli falaknak köszönhetően alig ázik be.",
                 "ro": "Aleea extrem de îngustă ține ploaia la distanță datorită zidurilor apropiate.",
-                "en": "The extremely narrow alley keeps much of the rain out thanks to the close walls."
+                "en": "The extremely narrow alley keeps much of the rain out thanks to the close walls.",
+                "fr": "La ruelle extrêmement étroite bloque une grande partie de la pluie grâce à la proximité des murs."
               }
             },
             {
@@ -580,7 +632,8 @@
                 "de": "Bewundern Sie den Lettner, während draußen der Regen prasselt.",
                 "hu": "Csodálja meg a szentélyrekesztőt, miközben kint kopog az eső.",
                 "ro": "Admirați iconostasul în timp ce ploaia bate afară.",
-                "en": "Admire the rood screen while the rain patters outside."
+                "en": "Admire the rood screen while the rain patters outside.",
+                "fr": "Admirez le jubé pendant que la pluie crépite à l'extérieur."
               }
             },
             {
@@ -589,7 +642,8 @@
                 "de": "Ideal für eine lange Pause im Trockenen inmitten von Handwerkskunst.",
                 "hu": "Ideális egy hosszú, száraz pihenőhöz a kézműves remekek között.",
                 "ro": "Ideal pentru o pauză lungă la uscat, printre obiecte de artizanat.",
-                "en": "Ideal for a long break in the dry surrounded by craftsmanship."
+                "en": "Ideal for a long break in the dry surrounded by craftsmanship.",
+                "fr": "Idéal pour une longue pause au sec entouré d'artisanat."
               }
             },
             {
@@ -598,7 +652,8 @@
                 "de": "Die riesigen Glasfenster leuchten auch bei grauem Himmel eindrucksvoll.",
                 "hu": "A hatalmas üvegablakok szürke égbolt mellett is lenyűgözően fénylenek.",
                 "ro": "Ferestrele enorme de sticlă strălucesc impresionant chiar și sub cerul gri.",
-                "en": "The huge glass windows glow impressively even under grey skies."
+                "en": "The huge glass windows glow impressively even under grey skies.",
+                "fr": "Les immenses vitraux brillent de façon impressionnante même sous un ciel gris."
               }
             },
             {
@@ -607,7 +662,8 @@
                 "de": "Ein Meisterwerk der Gotik, perfekt als letzter trockener Stopp.",
                 "hu": "A gótika remekműve, tökéletes utolsó száraz megállóként.",
                 "ro": "O capodoperă a goticului, perfectă ca ultimă oprire uscată.",
-                "en": "A masterpiece of Gothic architecture, perfect as a final dry stop."
+                "en": "A masterpiece of Gothic architecture, perfect as a final dry stop.",
+                "fr": "Un chef-d'œuvre de l'architecture gothique, parfait comme dernier arrêt au sec."
               }
             }
           ],
@@ -635,6 +691,12 @@
               "The churches in Troyes are ideal retreats during short showers.",
               "Watch out for slippery cobblestones in the Ruelle des Chats.",
               "Use the lunch break for the MOPO museum to avoid the heaviest rain."
+            ],
+            "fr": [
+              "Portez un imperméable plutôt qu'un parapluie car les ruelles sont très étroites.",
+              "Les églises de Troyes sont des refuges idéaux lors des courtes averses.",
+              "Attention aux pavés glissants dans la Ruelle des Chats.",
+              "Profitez de la pause déjeuner pour visiter le musée MOPO afin d'éviter les plus fortes pluies."
             ]
           }
         },
@@ -643,7 +705,8 @@
             "de": "Der winterliche Morgen beginnt mit dem Blick auf das beleuchtete Rathaus. Die Kälte vertreiben wir uns in den prächtigen Kirchen und dem beheizten Handwerksmuseum. Wenn die Dämmerung gegen 17:00 Uhr einsetzt, verwandelt die Weihnachtsbeleuchtung das Fachwerkviertel in eine Märchenlandschaft. Ein heißer Cidre wärmt uns am späten Nachmittag in der Nähe der Basilika.",
             "hu": "A téli reggel a kivilágított városháza látványával indul. A hideg elől a pompás templomokba és a fűtött kézműves múzeumba menekülünk. Amikor 17:00 körül leszáll az alkony, az ünnepi fények mesevilággá változtatják a gerendavázas negyedet. Egy forró almafröccs vagy cider melenget meg minket délután a bazilika közelében.",
             "ro": "Dimineața de iarnă începe cu vederea primăriei iluminate. Alungăm frigul în bisericile magnifice și în muzeul meșteșugurilor încălzit. Când amurgul se lasă în jur de ora 17:00, luminile festive transformă cartierul vechi într-un peisaj de basm. Un cidru fierbinte ne încălzește după-amiaza târziu lângă basilică.",
-            "en": "The winter morning begins with a view of the illuminated town hall. We shake off the cold in the magnificent churches and the heated craft museum. As dusk sets in around 5:00 PM, the festive lights transform the timbered district into a fairy-tale landscape. A hot cider warms us in the late afternoon near the basilica."
+            "en": "The winter morning begins with a view of the illuminated town hall. We shake off the cold in the magnificent churches and the heated craft museum. As dusk sets in around 5:00 PM, the festive lights transform the timbered district into a fairy-tale landscape. A hot cider warms us in the late afternoon near the basilica.",
+            "fr": "La matinée d'hiver commence par une vue sur l'hôtel de ville illuminé. Nous nous réchauffons dans les magnifiques églises et le musée de l'artisanat chauffé. À la tombée de la nuit vers 17h00, les illuminations festives transforment le quartier à colombages en un paysage de conte de fées. Un cidre chaud nous réchauffe en fin d'après-midi près de la basilique."
           },
           "stops": [
             {
@@ -652,7 +715,8 @@
                 "de": "Genießen Sie die winterliche Dekoration und die festliche Beleuchtung.",
                 "hu": "Élvezze a téli dekorációt és az ünnepi kivilágítást.",
                 "ro": "Bucurați-vă de decorațiunile de iarnă și de iluminatul festiv.",
-                "en": "Enjoy the winter decorations and the festive lighting."
+                "en": "Enjoy the winter decorations and the festive lighting.",
+                "fr": "Profitez des décorations d'hiver et des illuminations festives."
               }
             },
             {
@@ -661,7 +725,8 @@
                 "de": "Im Winter wirken die windschiefen Häuser besonders urig und gemütlich.",
                 "hu": "Télen a dülöngélő házak különösen ódonnak és hangulatosnak hatnak.",
                 "ro": "Iarna, casele înclinate par deosebit de pitorești și primitoare.",
-                "en": "In winter, the crooked houses look particularly quaint and cozy."
+                "en": "In winter, the crooked houses look particularly quaint and cozy.",
+                "fr": "En hiver, les maisons penchées semblent particulièrement pittoresques et accueillantes."
               }
             },
             {
@@ -670,7 +735,8 @@
                 "de": "Ein ruhiger Ort zur inneren Einkehr und zum Aufwärmen.",
                 "hu": "Csendes hely az elcsendesedéshez és a felmelegedéshez.",
                 "ro": "Un loc liniștit pentru reflecție și pentru a vă încălzi.",
-                "en": "A quiet place for reflection and to warm up."
+                "en": "A quiet place for reflection and to warm up.",
+                "fr": "Un lieu calme pour la réflexion et pour se réchauffer."
               }
             },
             {
@@ -679,7 +745,8 @@
                 "de": "Die Ausstellungsräume sind gut beheizt und bieten Schutz vor Frost.",
                 "hu": "A kiállítótermek jól fűtöttek, védelmet nyújtanak a fagy elől.",
                 "ro": "Sălile de expoziție sunt bine încălzite și oferă protecție împotriva gerului.",
-                "en": "The exhibition rooms are well heated and offer protection from the frost."
+                "en": "The exhibition rooms are well heated and offer protection from the frost.",
+                "fr": "Les salles d'exposition sont bien chauffées et offrent une protection contre le gel."
               }
             },
             {
@@ -688,7 +755,8 @@
                 "de": "Besuchen Sie die Schatzkammer, um der Winterkälte kurz zu entfliehen.",
                 "hu": "Látogasson el a kincstárba, hogy rövid időre elmeneküljön a téli hideg elől.",
                 "ro": "Vizitați trezoreria pentru a scăpa scurt de frigul iernii.",
-                "en": "Visit the treasury to briefly escape the winter cold."
+                "en": "Visit the treasury to briefly escape the winter cold.",
+                "fr": "Visitez le trésor pour échapper brièvement au froid hivernal."
               }
             },
             {
@@ -697,7 +765,8 @@
                 "de": "In der Dämmerung ist die beleuchtete Fassade ein Highlight.",
                 "hu": "Szürkületben a kivilágított homlokzat igazi fénypont.",
                 "ro": "La amurg, fațada iluminată este un punct de atracție.",
-                "en": "At dusk, the illuminated facade is a highlight."
+                "en": "At dusk, the illuminated facade is a highlight.",
+                "fr": "Au crépuscule, la façade illuminée est un point fort."
               }
             }
           ],
@@ -725,6 +794,12 @@
               "Wear warm shoes for walking on the cold cobblestones.",
               "Try local specialties like Andouillette in a warm bistro.",
               "Museums are often closed on Mondays, check the opening hours."
+            ],
+            "fr": [
+              "Le soleil se couche vers 17h00 en hiver ; prévoyez vos photos plus tôt.",
+              "Portez des chaussures chaudes pour marcher sur les pavés froids.",
+              "Goûtez aux spécialités locales comme l'Andouillette dans un bistrot chaleureux.",
+              "Les musées sont souvent fermés le lundi, vérifiez les horaires d'ouverture."
             ]
           }
         }
@@ -753,7 +828,8 @@
             "de": "Das Symbol der Stadt am Kanalufer.",
             "hu": "A város jelképe a csatorna partján.",
             "ro": "Simbolul orașului pe malul canalului.",
-            "en": "The iconic symbol of the city by the canal."
+            "en": "The iconic symbol of the city by the canal.",
+            "fr": "Le symbole emblématique de la ville au bord du canal."
           }
         },
         {
@@ -771,7 +847,8 @@
             "de": "Ein flacher, grüner Radweg entlang des Wassers.",
             "hu": "Lapos, zöld kerékpárút a víz mentén.",
             "ro": "O pistă de biciclete plană și verde de-a lungul apei.",
-            "en": "A flat, green cycling path along the water."
+            "en": "A flat, green cycling path along the water.",
+            "fr": "Une piste cyclable plate et verdoyante le long de l'eau."
           }
         },
         {
@@ -789,7 +866,8 @@
             "de": "Ein riesiger Park mit alten Mühlen und Teichen.",
             "hu": "Hatalmas park régi malmokkal és tavakkal.",
             "ro": "Un parc imens cu mori vechi și iazuri.",
-            "en": "A vast park with old mills and ponds."
+            "en": "A vast park with old mills and ponds.",
+            "fr": "Un vaste parc avec d'anciens moulins et des étangs."
           }
         },
         {
@@ -807,7 +885,8 @@
             "de": "Stellen Sie Ihr Rad sicher im Innenhof ab.",
             "hu": "Biztonságosan lezárhatja biciklijét a belső udvaron.",
             "ro": "Puteți parca bicicleta în siguranță în curtea interioară.",
-            "en": "Securely park your bike in the inner courtyard."
+            "en": "Securely park your bike in the inner courtyard.",
+            "fr": "Garez votre vélo en toute sécurité dans la cour intérieure."
           }
         },
         {
@@ -825,7 +904,8 @@
             "de": "Ein charmantes Viertel mit bunten Häusern.",
             "hu": "Bájos negyed színes házakkal.",
             "ro": "Un cartier fermecător cu case colorate.",
-            "en": "A charming district with colorful houses."
+            "en": "A charming district with colorful houses.",
+            "fr": "Un quartier charmant avec des maisons colorées."
           }
         }
       ],
@@ -833,7 +913,8 @@
         "de": "Diese Tour führt Sie aus dem Zentrum hinaus entlang des Kanals. Morgens besuchen Sie das berühmte 'Herz von Troyes'. Mittags radeln Sie durch den Parc des Moulins, eine grüne Lunge der Stadt. Nachmittags kehren Sie für Kultur zurück und erkunden das ruhigere Saint-Nizier Viertel.",
         "hu": "Ez a túra kivezeti Önt a központból a csatorna mentén. Reggel meglátogatjuk a híres 'Troyes Szívét'. Délben a Parc des Moulins parkban tekerünk, ami a város zöld tüdeje. Délután kulturális élményekkel és a csendesebb Saint-Nizier negyed felfedezésével zárjuk a napot.",
         "ro": "Acest tur vă scoate din centru pe lângă canal. Dimineața vizitați celebrul 'Inimă a orașului Troyes'. La prânz pedalați prin Parc des Moulins, plămânul verde al orașului. După-amiaza reveniți pentru cultură și explorarea cartierului liniștit Saint-Nizier.",
-        "en": "This tour takes you out of the center along the canal. Morning starts at the famous 'Heart of Troyes'. Midday is spent cycling through Parc des Moulins, the city's green lung. Afternoon brings you back for culture and exploring the quieter Saint-Nizier district."
+        "en": "This tour takes you out of the center along the canal. Morning starts at the famous 'Heart of Troyes'. Midday is spent cycling through Parc des Moulins, the city's green lung. Afternoon brings you back for culture and exploring the quieter Saint-Nizier district.",
+        "fr": "Ce circuit vous emmène hors du centre le long du canal. La matinée commence au célèbre « Cœur de Troyes ». Le midi se passe à pédaler dans le Parc des Moulins, le poumon vert de la ville. L'après-midi vous ramène pour la culture et l'exploration du quartier plus calme de Saint-Nizier."
       },
       "gastro_picks": {
         "de": [
@@ -858,6 +939,12 @@
           {
             "name": "Boulangerie Gérard",
             "tip": "Perfect for grabbing a picnic for the park."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boulangerie Gérard",
+            "tip": "Parfait pour prendre un pique-nique pour le parc."
           }
         ]
       },
@@ -889,6 +976,13 @@
             "tip": "Birdsong and the sound of water.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Berges du Canal",
+            "tip": "Le chant des oiseaux et le bruit de l'eau.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -914,6 +1008,12 @@
           {
             "name": "Halle de Troyes",
             "tip": "Buy fresh fruit for your cycling trip."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Halle de Troyes",
+            "tip": "Achetez des fruits frais pour votre balade à vélo."
           }
         ]
       },
@@ -941,6 +1041,12 @@
           "The route is mostly flat.",
           "Bring plenty of water with you.",
           "Bike rentals are available near the train station."
+        ],
+        "fr": [
+          "Utilisez les pistes de la « Vélovoie » pour circuler en toute sécurité.",
+          "Le parcours est majoritairement plat.",
+          "Apportez beaucoup d'eau avec vous.",
+          "Des locations de vélos sont disponibles près de la gare."
         ]
       },
       "variants": {
@@ -1112,7 +1218,8 @@
             "de": "Trotz Regen bietet die Radtour am Kanal eine besondere Atmosphäre. Wir starten am Herz von Troyes und folgen dem Wasserlauf, wobei das Blätterdach des Kanals etwas Schutz bietet. Der ausgiebige Besuch im Werkzeugmuseum ist der ideale trockene Stopp zur Mittagszeit. Den Nachmittag verbringen wir im historischen Saint-Nizier Viertel, bevor wir die Räder sicher abstellen.",
             "hu": "Az eső ellenére a csatorna menti kerékpározás különleges hangulatot áraszt. A Troyes szívétől indulunk és a vízi utat követjük, ahol a csatorna menti fák némi védelmet nyújtanak. A Szerszámmúzeum meglátogatása ideális száraz megálló ebédidőben. A délutánt a történelmi Saint-Nizier negyedben töltjük, mielőtt biztonságba helyezzük a bringákat.",
             "ro": "În ciuda ploii, turul cu bicicleta pe canal oferă o atmosferă deosebită. Pornim de la Inima Troyes-ului și urmăm cursul apei, unde coronamentul copacilor de pe canal oferă puțină protecție. Vizita prelungită la muzeul uneltelor este oprirea ideală la uscat la prânz. Petrecem după-amiaza în cartierul istoric Saint-Nizier înainte de a parca bicicletele.",
-            "en": "Despite the rain, the bike tour along the canal offers a special atmosphere. We start at the Heart of Troyes and follow the waterway, where the canal's canopy provides some shelter. The extensive visit to the tool museum is the ideal dry stop at lunchtime. We spend the afternoon in the historic Saint-Nizier district before securing the bikes."
+            "en": "Despite the rain, the bike tour along the canal offers a special atmosphere. We start at the Heart of Troyes and follow the waterway, where the canal's canopy provides some shelter. The extensive visit to the tool museum is the ideal dry stop at lunchtime. We spend the afternoon in the historic Saint-Nizier district before securing the bikes.",
+            "fr": "Malgré la pluie, la balade à vélo le long du canal offre une atmosphère particulière. Nous commençons au Cœur de Troyes et suivons la voie d'eau, où la canopée du canal offre un certain abri. La visite approfondie du musée de l'outil est l'arrêt idéal au sec à l'heure du déjeuner. Nous passons l'après-midi dans le quartier historique de Saint-Nizier avant de ranger les vélos."
           },
           "stops": [
             {
@@ -1121,7 +1228,8 @@
                 "de": "Vorsicht, der Platz um die Skulptur kann bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a szobor körüli tér nedvesen csúszós lehet.",
                 "ro": "Atenție, piața din jurul sculpturii poate fi alunecoasă când este udă.",
-                "en": "Caution, the square around the sculpture can be slippery when wet."
+                "en": "Caution, the square around the sculpture can be slippery when wet.",
+                "fr": "Attention, la place autour de la sculpture peut être glissante lorsqu'elle est mouillée."
               }
             },
             {
@@ -1130,7 +1238,8 @@
                 "de": "Die befestigten Wege sind auch bei Regen gut befahrbar.",
                 "hu": "A burkolt utak esőben is jól járhatók biciklivel.",
                 "ro": "Pistele pavate sunt ușor de parcurs chiar și pe ploaie.",
-                "en": "The paved paths are easily rideable even in the rain."
+                "en": "The paved paths are easily rideable even in the rain.",
+                "fr": "Les chemins goudronnés sont facilement praticables même sous la pluie."
               }
             },
             {
@@ -1139,7 +1248,8 @@
                 "de": "Die Bäume bieten Schutz, aber meiden Sie unbefestigte Pfade.",
                 "hu": "A fák védelmet nyújtanak, de kerülje a burkolatlan ösvényeket.",
                 "ro": "Copacii oferă protecție, dar evitați potecile nepavate.",
-                "en": "The trees provide shelter, but avoid unpaved paths."
+                "en": "The trees provide shelter, but avoid unpaved paths.",
+                "fr": "Les arbres offrent un abri, mais évitez les chemins non balisés."
               }
             },
             {
@@ -1148,7 +1258,8 @@
                 "de": "Nutzen Sie den überdachten Innenhof zum Parken Ihrer Räder.",
                 "hu": "Használja a fedett belső udvart a kerékpárok tárolására.",
                 "ro": "Folosiți curtea interioară acoperită pentru a parca bicicletele.",
-                "en": "Use the covered courtyard to park your bikes."
+                "en": "Use the covered courtyard to park your bikes.",
+                "fr": "Utilisez la cour couverte pour garer vos vélos."
               }
             },
             {
@@ -1157,7 +1268,8 @@
                 "de": "Kurzer Stopp unter den historischen Dachvorsprüngen möglich.",
                 "hu": "Rövid megálló a történelmi ereszek alatt lehetséges.",
                 "ro": "O scurtă oprire sub streșinile istorice este posibilă.",
-                "en": "Short stop possible under the historic eaves."
+                "en": "Short stop possible under the historic eaves.",
+                "fr": "Court arrêt possible sous les avant-toits historiques."
               }
             }
           ],
@@ -1185,6 +1297,12 @@
               "The cobblestone streets in the old town are extremely slippery in the rain.",
               "Ensure your brakes are working perfectly in wet conditions.",
               "Avoid puddles as they may be deeper than they look."
+            ],
+            "fr": [
+              "Utilisez des garde-boue pour vous protéger des éclaboussures le long du canal.",
+              "Les rues pavées de la vieille ville sont extrêmement glissantes sous la pluie.",
+              "Assurez-vous que vos freins fonctionnent parfaitement par temps humide.",
+              "Évitez les flaques d'eau car elles peuvent être plus profondes qu'elles n'en ont l'air."
             ]
           }
         },
@@ -1193,7 +1311,8 @@
             "de": "Eine erfrischende Wintertour durch Troyes. Wir radeln zügig am Kanal entlang, um warm zu bleiben, und genießen die klare Winterluft im Parc des Moulins. Die Mittagspause im beheizten Werkzeugmuseum ist essenziell zur Erwärmung. Den frühen Sonnenuntergang erleben wir im malerischen Saint-Nizier Viertel, bevor es in der Kälte zurückgeht.",
             "hu": "Frissítő téli túra Troyes-ban. Gyorsan tekerünk a csatorna mentén, hogy melegen tartsuk magunkat, és élvezzük a tiszta téli levegőt a Parc des Moulins-ban. A fűtött Szerszámmúzeumban töltött ebédidő elengedhetetlen a felmelegedéshez. A korai naplementét a festői Saint-Nizier negyedben éljük át, mielőtt a hidegben visszaindulnánk.",
             "ro": "Un tur răcoros de iarnă prin Troyes. Pedalăm rapid de-a lungul canalului pentru a ne menține calzi și ne bucurăm de aerul curat de iarnă în Parc des Moulins. Pauza de prânz în muzeul uneltelor încălzit este esențială pentru încălzire. Experimentăm apusul timpuriu în cartierul pitoresc Saint-Nizier înainte de a ne întoarce prin frig.",
-            "en": "A refreshing winter tour through Troyes. We cycle briskly along the canal to stay warm and enjoy the clear winter air in Parc des Moulins. The lunch break in the heated tool museum is essential for warming up. We experience the early sunset in the picturesque Saint-Nizier district before heading back in the cold."
+            "en": "A refreshing winter tour through Troyes. We cycle briskly along the canal to stay warm and enjoy the clear winter air in Parc des Moulins. The lunch break in the heated tool museum is essential for warming up. We experience the early sunset in the picturesque Saint-Nizier district before heading back in the cold.",
+            "fr": "Un tour d'hiver rafraîchissant à travers Troyes. Nous pédalons d'un bon pas le long du canal pour rester au chaud et profitons de l'air pur de l'hiver dans le Parc des Moulins. La pause déjeuner dans le musée de l'outil chauffé est essentielle pour se réchauffer. Nous profitons du coucher de soleil précoce dans le quartier pittoresque de Saint-Nizier avant de repartir dans le froid."
           },
           "stops": [
             {
@@ -1202,7 +1321,8 @@
                 "de": "Im Winter oft wunderschön frostig glänzend in der Morgensonne.",
                 "hu": "Télen gyakran gyönyörűen, zúzmarásan csillog a reggeli napfényben.",
                 "ro": "Iarna, adesea strălucind frumos de chiciură în soarele dimineții.",
-                "en": "In winter, often beautifully frosty and glowing in the morning sun."
+                "en": "In winter, often beautifully frosty and glowing in the morning sun.",
+                "fr": "En hiver, souvent magnifiquement givré et brillant sous le soleil matinal."
               }
             },
             {
@@ -1211,7 +1331,8 @@
                 "de": "Tragen Sie Handschuhe, der Fahrtwind am Wasser ist sehr kalt.",
                 "hu": "Viseljen kesztyűt, a vízparti menetszél nagyon hideg.",
                 "ro": "Purtați mănuși, vântul din timpul mersului pe lângă apă este foarte rece.",
-                "en": "Wear gloves; the wind chill along the water is very cold."
+                "en": "Wear gloves; the wind chill along the water is very cold.",
+                "fr": "Portez des gants ; le refroidissement éolien le long de l'eau est très vif."
               }
             },
             {
@@ -1220,7 +1341,8 @@
                 "de": "Die kahlen Bäume bieten weite Sichtachsen durch den Park.",
                 "hu": "A kopasz fák messzire engednek látni a parkban.",
                 "ro": "Copacii golași oferă perspective largi prin parc.",
-                "en": "The bare trees offer long vistas through the park."
+                "en": "The bare trees offer long vistas through the park.",
+                "fr": "Les arbres dénudés offrent de longues perspectives à travers le parc."
               }
             },
             {
@@ -1229,7 +1351,8 @@
                 "de": "Perfekt, um die steif gefrorenen Hände bei einem Rundgang aufzuwärmen.",
                 "hu": "Tökéletes hely az átfagyott kezek felmelegítésére a körséta alatt.",
                 "ro": "Perfect pentru a vă încălzi mâinile înghețate în timpul vizitei.",
-                "en": "Perfect for warming up frozen hands during the tour."
+                "en": "Perfect for warming up frozen hands during the tour.",
+                "fr": "Parfait pour réchauffer des mains gelées pendant le tour."
               }
             },
             {
@@ -1238,7 +1361,8 @@
                 "de": "Die Straßenlaternen verleihen dem Viertel ab 16:30 Uhr Glanz.",
                 "hu": "Az utcai lámpák 16:30-tól ünnepi fényt adnak a negyednek.",
                 "ro": "Felinarele dau strălucire cartierului începând cu ora 16:30.",
-                "en": "The street lamps give the district a glow from 4:30 PM."
+                "en": "The street lamps give the district a glow from 4:30 PM.",
+                "fr": "Les lampadaires donnent au quartier un éclat particulier dès 16h30."
               }
             }
           ],
@@ -1266,6 +1390,12 @@
               "Watch out for black ice on bridges over the canal.",
               "A hot tea in a thermos is an ideal companion.",
               "Light conditions change quickly; ensure you have good bike lights."
+            ],
+            "fr": [
+              "Portez des vêtements thermiques en plusieurs couches (principe de l'oignon).",
+              "Attention au verglas sur les ponts enjambant le canal.",
+              "Un thé chaud dans un thermos est un compagnon idéal.",
+              "La luminosité change rapidement ; assurez-vous d'avoir de bons éclairages de vélo."
             ]
           }
         }
@@ -1294,7 +1424,8 @@
             "de": "Kurzer Morgenspaziergang im historischen Zentrum.",
             "hu": "Rövid reggeli séta a történelmi központban.",
             "ro": "Scurtă plimbare de dimineață în centrul istoric.",
-            "en": "Short morning walk in the historic center."
+            "en": "Short morning walk in the historic center.",
+            "fr": "Courte promenade matinale dans le centre historique."
           }
         },
         {
@@ -1312,7 +1443,8 @@
             "de": "Ein riesiger Stausee im Naturpark.",
             "hu": "Hatalmas víztározó a natúrpark szívében.",
             "ro": "Un lac de acumulare imens în parcul natural.",
-            "en": "A huge reservoir lake in the natural park."
+            "en": "A huge reservoir lake in the natural park.",
+            "fr": "Un immense lac réservoir dans le parc naturel."
           }
         },
         {
@@ -1330,7 +1462,8 @@
             "de": "Sandstrand und klares Wasser zum Entspannen.",
             "hu": "Homokos strand és tiszta víz a kikapcsolódáshoz.",
             "ro": "Plajă cu nisip și apă curată pentru relaxare.",
-            "en": "Sandy beach and clear water for relaxing."
+            "en": "Sandy beach and clear water for relaxing.",
+            "fr": "Plage de sable et eau claire pour se détendre."
           }
         },
         {
@@ -1348,7 +1481,8 @@
             "de": "Besuchen Sie eine lokale Champagner-Kellerei.",
             "hu": "Látogasson el egy helyi pezsgőpincészetbe.",
             "ro": "Vizitați o cramă locală de șampanie.",
-            "en": "Visit a local Champagne cellar."
+            "en": "Visit a local Champagne cellar.",
+            "fr": "Visitez une cave de Champagne locale."
           }
         },
         {
@@ -1366,7 +1500,8 @@
             "de": "Outlet-Shopping mit großen Marken zu kleinen Preisen.",
             "hu": "Outlet vásárlás nagy márkákkal, alacsony áron.",
             "ro": "Cumpărături la outlet cu mărci mari la prețuri mici.",
-            "en": "Outlet shopping with big brands at low prices."
+            "en": "Outlet shopping with big brands at low prices.",
+            "fr": "Shopping outlet avec de grandes marques à prix réduits."
           }
         }
       ],
@@ -1374,7 +1509,8 @@
         "de": "Mit dem Auto erkunden Sie die Umgebung von Troyes. Nach einem kurzen Stadtbesuch fahren Sie zum Orient-See, einem Naturparadies. Der Mittag gehört dem Strand von Géraudot. Nachmittags probieren Sie regionalen Wein in Lusigny, bevor Sie den Tag mit einem Shopping-Erlebnis in den berühmten Outlets abrunden.",
         "hu": "Autóval Troyes környékét fedezzük fel. Egy rövid városnézés után az Orient-tóhoz utazunk, ami igazi természeti paradicsom. A délutánt Géraudot strandján töltjük. Később Lusigny-ban helyi borokat kóstolunk, végül a napot a híres outlet központokban zárjuk.",
         "ro": "Cu mașina explorați împrejurimile orașului Troyes. După o scurtă vizită în oraș, mergeți la Lacul Orient, un paradis natural. Prânzul aparține plajei Géraudot. După-amiaza degustați vinuri locale în Lusigny, înainte de a încheia ziua cu o sesiune de cumpărături la celebrele outlet-uri.",
-        "en": "By car, explore the surroundings of Troyes. After a quick city stop, drive to Lake Orient, a natural paradise. Midday is spent at Géraudot beach. Later, taste local wines in Lusigny, then conclude with a shopping spree at the famous factory outlets."
+        "en": "By car, explore the surroundings of Troyes. After a quick city stop, drive to Lake Orient, a natural paradise. Midday is spent at Géraudot beach. Later, taste local wines in Lusigny, then conclude with a shopping spree at the famous factory outlets.",
+        "fr": "En voiture, explorez les environs de Troyes. Après un arrêt rapide en ville, roulez vers le lac d'Orient, un paradis naturel. Le midi se passe à la plage de Géraudot. Plus tard, dégustez des vins locaux à Lusigny, puis terminez par une séance de shopping dans les célèbres magasins d'usine."
       },
       "gastro_picks": {
         "de": [
@@ -1399,6 +1535,12 @@
           {
             "name": "Le Belvédère",
             "tip": "Dining with a view of the lake."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Le Belvédère",
+            "tip": "Dîner avec vue sur le lac."
           }
         ]
       },
@@ -1430,6 +1572,13 @@
             "tip": "Enjoy the silence by the lakeshore.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Observatoire des oiseaux",
+            "tip": "Profitez du silence au bord du lac.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1455,6 +1604,12 @@
           {
             "name": "McArthurGlen",
             "tip": "Designer labels at outlet prices."
+          }
+        ],
+        "fr": [
+          {
+            "name": "McArthurGlen",
+            "tip": "Marques de créateurs à prix d'usine."
           }
         ]
       },
@@ -1482,6 +1637,12 @@
           "The drive to the lake takes about 30 minutes.",
           "Lakeside parking is often paid during summer.",
           "The outlets are mostly closed on Sundays."
+        ],
+        "fr": [
+          "Garez-vous au parking des 'Halles' dans le centre-ville.",
+          "Le trajet jusqu'au lac dure environ 30 minutes.",
+          "Le stationnement au bord du lac est souvent payant pendant l'été.",
+          "Les magasins d'usine sont pour la plupart fermés le dimanche."
         ]
       },
       "variants": {
@@ -1653,7 +1814,8 @@
             "de": "Eine gemütliche Fahrt durch die Aube-Region trotz Regen. Das Zentrum von Troyes bietet viele überdachte Gassen. Die Fahrt zum Lac d'Orient ist bei Nebel besonders atmosphärisch. Nach einem kurzen Blick auf den verregneten Strand wärmen wir uns bei einer Gastropause in Lusigny auf. Der Tag endet perfekt im trockenen Shopping-Paradies Marques Avenue.",
             "hu": "Hangulatos autózás az Aube régión keresztül az eső ellenére. Troyes központja sok fedett átjárót kínál. A Lac d'Orient felé vezető út ködben különösen hangulatos. A szemerkélő esőben tett rövid parti séta után egy lusigny-i gasztro-megállóval melegszünk fel. A napot a száraz vásárlási paradicsomban, a Marques Avenue-n zárjuk.",
             "ro": "O călătorie plăcută prin regiunea Aube, în ciuda ploii. Centrul orașului Troyes oferă multe alei acoperite. Drumul spre Lac d'Orient este deosebit de atmosferic pe ceață. După o scurtă privire spre plaja ploioasă, ne încălzim cu o pauză gastronomică în Lusigny. Ziua se încheie perfect în paradisul cumpărăturilor la uscat, Marques Avenue.",
-            "en": "A cozy drive through the Aube region despite the rain. The center of Troyes offers many covered passages. The drive to Lac d'Orient is particularly atmospheric in the mist. After a short look at the rainy beach, we warm up with a gastro break in Lusigny. The day ends perfectly in the dry shopping paradise of Marques Avenue."
+            "en": "A cozy drive through the Aube region despite the rain. The center of Troyes offers many covered passages. The drive to Lac d'Orient is particularly atmospheric in the mist. After a short look at the rainy beach, we warm up with a gastro break in Lusigny. The day ends perfectly in the dry shopping paradise of Marques Avenue.",
+            "fr": "Une balade confortable à travers l'Aube malgré la pluie. Le centre de Troyes offre de nombreux passages couverts. Le trajet vers le lac d'Orient est particulièrement atmosphérique dans la brume. Après un court regard sur la plage pluvieuse, nous nous réchauffons avec une pause gastronomique à Lusigny. La journée se termine parfaitement dans le paradis du shopping au sec de Marques Avenue."
           },
           "stops": [
             {
@@ -1662,7 +1824,8 @@
                 "de": "Parken Sie im Parkhaus am Rathaus, um direkt im Trockenen zu sein.",
                 "hu": "Parkoljon a városháza melletti parkolóházban, hogy szárazon maradjon.",
                 "ro": "Parcați în parcarea subterană de la primărie pentru a rămâne la uscat.",
-                "en": "Park in the town hall parking garage to stay dry right away."
+                "en": "Park in the town hall parking garage to stay dry right away.",
+                "fr": "Garez-vous au parking de l'hôtel de ville pour rester immédiatement au sec."
               }
             },
             {
@@ -1671,7 +1834,8 @@
                 "de": "Genießen Sie den Blick auf den mystischen See aus dem warmen Auto.",
                 "hu": "Élvezze a misztikus tó látványát a meleg autóból.",
                 "ro": "Bucurați-vă de vederea lacului mistic din mașina caldă.",
-                "en": "Enjoy the view of the mystical lake from the warm car."
+                "en": "Enjoy the view of the mystical lake from the warm car.",
+                "fr": "Profitez de la vue sur le lac mystique depuis la chaleur de la voiture."
               }
             },
             {
@@ -1680,7 +1844,8 @@
                 "de": "Ein kurzer Spaziergang am Ufer, bevor der nächste Schauer kommt.",
                 "hu": "Egy rövid séta a parton, mielőtt megérkezik a következő zápor.",
                 "ro": "O scurtă plimbare pe mal înainte de următoarea aversă.",
-                "en": "A short walk on the shore before the next shower arrives."
+                "en": "A short walk on the shore before the next shower arrives.",
+                "fr": "Une courte promenade sur le rivage avant l'arrivée de la prochaine averse."
               }
             },
             {
@@ -1689,7 +1854,8 @@
                 "de": "Der ideale Ort für eine herzhafte warme Mahlzeit im Trockenen.",
                 "hu": "Ideális hely egy bőséges, meleg étkezéshez a szárazon.",
                 "ro": "Locul ideal pentru o masă caldă și copioasă la uscat.",
-                "en": "The ideal place for a hearty warm meal in the dry."
+                "en": "The ideal place for a hearty warm meal in the dry.",
+                "fr": "L'endroit idéal pour un repas chaud et copieux au sec."
               }
             },
             {
@@ -1698,7 +1864,8 @@
                 "de": "Das Outlet-Center ist weitgehend überdacht und perfekt bei Regen.",
                 "hu": "Az outlet központ nagy része fedett, így tökéletes esőben.",
                 "ro": "Centrul outlet este în mare parte acoperit, fiind perfect pe ploaie.",
-                "en": "The outlet center is largely covered and perfect for rainy days."
+                "en": "The outlet center is largely covered and perfect for rainy days.",
+                "fr": "Le centre outlet est en grande partie couvert et parfait pour les jours de pluie."
               }
             }
           ],
@@ -1726,6 +1893,12 @@
               "Use the parking garages in the center to get into the city dry-footed.",
               "There are many cafes at Marques Avenue for a break between shops.",
               "Check tire pressure before driving on wet highways."
+            ],
+            "fr": [
+              "Les routes de campagne vers le lac peuvent être glissantes et boueuses sous la pluie.",
+              "Utilisez les parkings couverts du centre pour entrer en ville les pieds au sec.",
+              "Il y a de nombreux cafés à Marques Avenue pour une pause entre les boutiques.",
+              "Vérifiez la pression des pneus avant de conduire sur des routes mouillées."
             ]
           }
         },
@@ -1734,7 +1907,8 @@
             "de": "Eine winterliche Entdeckungstour mit dem Auto. Morgens erkunden wir das Zentrum von Troyes und wärmen uns in den Museen auf. Die Fahrt zum Lac d'Orient bietet klare Sichten auf die gefrorene Natur. Nach einem erfrischenden Blick auf den winterlichen Strand von Géraudot genießen wir regionale Küche in Lusigny. Der Tag endet gemütlich beim Winter-Shopping im Marques Avenue.",
             "hu": "Téli felfedezőút autóval. Reggel Troyes központját járjuk be, és a múzeumokban melegszünk fel. A Lac d'Orient felé vezető út tiszta kilátást nyújt a fagyos természetre. A géraudot-i téli strand frissítő látványa után Lusigny-ban élvezzük a helyi konyhát. A napot hangulatos téli vásárlással zárjuk a Marques Avenue-n.",
             "ro": "Un tur de explorare de iarnă cu mașina. Dimineața explorăm centrul orașului Troyes și ne încălzim în muzee. Drumul spre Lac d'Orient oferă vederi clare asupra naturii înghețate. După o vedere revigorantă asupra plajei de iarnă din Géraudot, savurăm bucătăria regională în Lusigny. Ziua se încheie plăcut cu cumpărături de iarnă la Marques Avenue.",
-            "en": "A winter discovery tour by car. In the morning, we explore the center of Troyes and warm up in the museums. The drive to Lac d'Orient offers clear views of the frozen nature. After a refreshing look at the winter beach of Géraudot, we enjoy regional cuisine in Lusigny. The day ends cozily with winter shopping at Marques Avenue."
+            "en": "A winter discovery tour by car. In the morning, we explore the center of Troyes and warm up in the museums. The drive to Lac d'Orient offers clear views of the frozen nature. After a refreshing look at the winter beach of Géraudot, we enjoy regional cuisine in Lusigny. The day ends cozily with winter shopping at Marques Avenue.",
+            "fr": "Un circuit de découverte hivernal en voiture. Le matin, nous explorons le centre de Troyes et nous nous réchauffons dans les musées. Le trajet vers le lac d'Orient offre des vues dégagées sur la nature gelée. Après un coup d'œil rafraîchissant sur la plage d'hiver de Géraudot, nous dégustons la cuisine régionale à Lusigny. La journée se termine agréablement par un shopping d'hiver à Marques Avenue."
           },
           "stops": [
             {
@@ -1743,7 +1917,8 @@
                 "de": "Die festliche Beleuchtung in den Gassen ist am Morgen besonders schön.",
                 "hu": "A sikátorok ünnepi kivilágítása reggel különösen szép.",
                 "ro": "Iluminatul festiv de pe alei este deosebit de frumos dimineața.",
-                "en": "The festive lighting in the alleys is particularly beautiful in the morning."
+                "en": "The festive lighting in the alleys is particularly beautiful in the morning.",
+                "fr": "Les illuminations festives dans les ruelles sont particulièrement belles le matin."
               }
             },
             {
@@ -1752,7 +1927,8 @@
                 "de": "Im Winter sind die Zugvögel am See ein besonderes Naturschauspiel.",
                 "hu": "Télen a tavon tartózkodó költöző madarak különleges látványt nyújtanak.",
                 "ro": "Iarna, păsările migratoare de pe lac sunt un spectacol natural deosebit.",
-                "en": "In winter, the migratory birds on the lake are a special natural spectacle."
+                "en": "In winter, the migratory birds on the lake are a special natural spectacle.",
+                "fr": "En hiver, les oiseaux migrateurs sur le lac sont un spectacle naturel spécial."
               }
             },
             {
@@ -1761,7 +1937,8 @@
                 "de": "Ein kurzer, windiger Halt für beeindruckende Winterfotos vom Ufer.",
                 "hu": "Egy rövid, szeles megálló lenyűgöző téli fotókhoz a parton.",
                 "ro": "O oprire scurtă și vântoasă pentru fotografii de iarnă impresionante.",
-                "en": "A short, windy stop for impressive winter photos from the shore."
+                "en": "A short, windy stop for impressive winter photos from the shore.",
+                "fr": "Un court arrêt venteux pour des photos d'hiver impressionnantes depuis le rivage."
               }
             },
             {
@@ -1770,7 +1947,8 @@
                 "de": "Wärmen Sie sich mit einem herzhaften Gratin und lokalem Wein auf.",
                 "hu": "Melegedjen fel egy kiadós csőben sült étellel és helyi borral.",
                 "ro": "Încălziți-vă cu un gratin copios și vin local.",
-                "en": "Warm up with a hearty gratin and local wine."
+                "en": "Warm up with a hearty gratin and local wine.",
+                "fr": "Réchauffez-vous avec un gratin copieux et du vin local."
               }
             },
             {
@@ -1779,7 +1957,8 @@
                 "de": "Nutzen Sie den Winterschlussverkauf für tolle Schnäppchen.",
                 "hu": "Használja ki a téli végkiárusítást a nagyszerű ajánlatokért.",
                 "ro": "Profitați de reducerile de iarnă pentru chilipiruri grozave.",
-                "en": "Take advantage of the winter sales for great bargains."
+                "en": "Take advantage of the winter sales for great bargains.",
+                "fr": "Profitez des soldes d'hiver pour faire de bonnes affaires."
               }
             }
           ],
@@ -1807,6 +1986,12 @@
               "The roads around the lake can be slippery in places in the morning.",
               "Days are short in winter; start the lake trip before 2:00 PM.",
               "Use the seat heating for a relaxed drive through nature."
+            ],
+            "fr": [
+              "Gardez un grattoir à glace et de l'antigel dans votre voiture.",
+              "Les routes autour du lac peuvent être glissantes par endroits le matin.",
+              "Les jours sont courts en hiver ; commencez l'excursion au lac avant 14h00.",
+              "Utilisez les sièges chauffants pour une conduite détendue à travers la nature."
             ]
           }
         }
@@ -1835,7 +2020,8 @@
             "de": "Ein schönes Beispiel für die Eisenbahnarchitektur.",
             "hu": "A vasúti építészet szép példája.",
             "ro": "Un exemplu frumos de arhitectură feroviară.",
-            "en": "A fine example of railway architecture."
+            "en": "A fine example of railway architecture.",
+            "fr": "Un bel exemple d'architecture ferroviaire."
           }
         },
         {
@@ -1853,7 +2039,8 @@
             "de": "Befindet sich im ehemaligen Bischofspalast.",
             "hu": "Az egykori püspöki palotában található.",
             "ro": "Situat în fostul palat episcopal.",
-            "en": "Located in the former episcopal palace."
+            "en": "Located in the former episcopal palace.",
+            "fr": "Situé dans l'ancien palais épiscopal."
           }
         },
         {
@@ -1871,7 +2058,8 @@
             "de": "Das älteste Viertel der Stadt rund um die Kathedrale.",
             "hu": "A város legrégebbi negyede a katedrális körül.",
             "ro": "Cel mai vechi cartier al orașului în jurul catedralei.",
-            "en": "The oldest district of the city around the Cathedral."
+            "en": "The oldest district of the city around the Cathedral.",
+            "fr": "Le plus ancien quartier de la ville autour de la Cathédrale."
           }
         },
         {
@@ -1889,7 +2077,8 @@
             "de": "Bequem mit dem Stadtbus erreichbar.",
             "hu": "Kényelmesen elérhető helyi autóbusszal.",
             "ro": "Accesibil ușor cu autobuzul local.",
-            "en": "Easily accessible by local bus."
+            "en": "Easily accessible by local bus.",
+            "fr": "Facilement accessible par le bus local."
           }
         },
         {
@@ -1907,7 +2096,8 @@
             "de": "Ein gemütlicher Platz zum Abschluss des Tages.",
             "hu": "Hangulatos tér a nap lezárásához.",
             "ro": "O piață primitoare pentru finalul zilei.",
-            "en": "A cozy square to end the day."
+            "en": "A cozy square to end the day.",
+            "fr": "Une place chaleureuse pour terminer la journée."
           }
         }
       ],
@@ -1915,7 +2105,8 @@
         "de": "Nutzen Sie das dichte Busnetz von Troyes. Vormittags besuchen Sie das Museum für Moderne Kunst. Mittags erkunden Sie die historische Cité. Nachmittags bringt Sie der Bus direkt zu den Outlets für Schnäppchenjäger, bevor Sie den Tag auf einem der belebten Plätze im Zentrum beenden.",
         "hu": "Használja Troyes sűrű autóbusz-hálózatát. Délelőtt a Modern Művészetek Múzeumát látogatjuk meg. Délben a történelmi Cité negyedet fedezzük fel. Délután a busz egyenesen az outlet központokhoz visz, végül a napot a központ egyik élettel teli terén zárjuk.",
         "ro": "Folosiți rețeaua densă de autobuze din Troyes. Dimineața vizitați Muzeul de Artă Modernă. La prânz explorați cartierul istoric Cité. După-amiaza autobuzul vă duce direct la outlet-uri, înainte de a încheia ziua într-una dintre piețele animate din centru.",
-        "en": "Utilize the efficient bus network of Troyes. Morning is spent at the Museum of Modern Art. Midday is for exploring the historic Cité district. Afternoon takes you by bus directly to the outlets for some deals, ending your day at a lively central square."
+        "en": "Utilize the efficient bus network of Troyes. Morning is spent at the Museum of Modern Art. Midday is for exploring the historic Cité district. Afternoon takes you by bus directly to the outlets for some deals, ending your day at a lively central square.",
+        "fr": "Utilisez le réseau de bus efficace de Troyes. La matinée se passe au Musée d'Art Moderne. Le midi est consacré à l'exploration du quartier historique de la Cité. L'après-midi, le bus vous emmène directement aux magasins d'usine pour faire des affaires, finissant votre journée sur une place centrale animée."
       },
       "gastro_picks": {
         "de": [
@@ -1940,6 +2131,12 @@
           {
             "name": "Crêperie du Vieux Troyes",
             "tip": "Authentic galettes in a historic half-timbered house."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Crêperie du Vieux Troyes",
+            "tip": "Galettes authentiques dans une maison à pans de bois historique."
           }
         ]
       },
@@ -1971,6 +2168,13 @@
             "tip": "A small, hidden park area.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Square de la Trinité",
+            "tip": "Un petit parc caché.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1996,6 +2200,12 @@
           {
             "name": "Boutique du Musée",
             "tip": "Unique art-related gifts."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutique du Musée",
+            "tip": "Cadeaux uniques liés à l'art."
           }
         ]
       },
@@ -2023,6 +2233,12 @@
           "Download the TCAT app for real-time bus info.",
           "Buses run very frequently in the city center.",
           "Line 1 connects the center with Marques Avenue."
+        ],
+        "fr": [
+          "Achetez un pass journalier pour le bus (TCAT).",
+          "Téléchargez l'application TCAT pour les informations de bus en temps réel.",
+          "Les bus circulent très fréquemment dans le centre-ville.",
+          "La ligne 1 relie le centre à Marques Avenue."
         ]
       },
       "variants": {
@@ -2194,7 +2410,8 @@
             "de": "Mit dem Bus trocken durch Troyes. Vom Bahnhof aus erreichen wir bequem die Museen. Das Kunstmuseum (MAM) bietet Stunden im Trockenen. Nach einem Streifzug durch das historische Viertel bringt uns der Bus zum Shopping-Outlet Marques Avenue, wo wir vor dem Regen geschützt sind. Den Abend verbringen wir wieder im belebten Zentrum.",
             "hu": "Busszal szárazon Troyes-ban. A vasútállomástól kényelmesen elérjük a múzeumokat. A Modern Művészeti Múzeum (MAM) órákig tartó száraz kikapcsolódást kínál. A történelmi negyedben tett séta után a busz a Marques Avenue outlethez visz, ahol védve vagyunk az esőtől. Az estét ismét a nyüzsgő központban töltjük.",
             "ro": "Cu autobuzul la uscat prin Troyes. De la gară ajungem ușor la muzee. Muzeul de Artă Modernă (MAM) oferă ore de relaxare la uscat. După o plimbare prin cartierul istoric, autobuzul ne duce la outlet-ul Marques Avenue, unde suntem protejați de ploaie. Petrecem seara din nou în centrul plin de viață.",
-            "en": "By bus dry through Troyes. From the station, we easily reach the museums. The Museum of Modern Art (MAM) offers hours of dry relaxation. After a stroll through the historic district, the bus takes us to the Marques Avenue outlet, where we are protected from the rain. We spend the evening back in the lively center."
+            "en": "By bus dry through Troyes. From the station, we easily reach the museums. The Museum of Modern Art (MAM) offers hours of dry relaxation. After a stroll through the historic district, the bus takes us to the Marques Avenue outlet, where we are protected from the rain. We spend the evening back in the lively center.",
+            "fr": "Traversez Troyes au sec grâce au bus. Depuis la gare, nous atteignons facilement les musées. Le Musée d'Art Moderne (MAM) offre des heures de détente au sec. Après une promenade dans le quartier historique, le bus nous emmène au centre outlet Marques Avenue, où nous sommes protégés de la pluie. Nous passons la soirée de retour dans le centre animé."
           },
           "stops": [
             {
@@ -2203,7 +2420,8 @@
                 "de": "Warten Sie in der Bahnhofshalle auf Ihren Anschlussbus.",
                 "hu": "Várjon a csatlakozó buszra a vasútállomás várótermében.",
                 "ro": "Așteptați autobuzul de legătură în holul gării.",
-                "en": "Wait in the station hall for your connecting bus."
+                "en": "Wait in the station hall for your connecting bus.",
+                "fr": "Attendez votre bus de correspondance dans le hall de la gare."
               }
             },
             {
@@ -2212,7 +2430,8 @@
                 "de": "Ein großartiger Ort, um einen verregneten Vormittag zu verbringen.",
                 "hu": "Nagyszerű hely egy esős délelőtt eltöltéséhez.",
                 "ro": "Un loc minunat pentru a petrece o dimineață ploioasă.",
-                "en": "A great place to spend a rainy morning."
+                "en": "A great place to spend a rainy morning.",
+                "fr": "Un endroit idéal pour passer une matinée pluvieuse."
               }
             },
             {
@@ -2221,7 +2440,8 @@
                 "de": "Die Busstationen hier bieten meist gute Überdachungen.",
                 "hu": "Az itteni buszmegállók többsége jól fedett.",
                 "ro": "Stațiile de autobuz de aici oferă de obicei copertine bune.",
-                "en": "The bus stations here usually offer good shelters."
+                "en": "The bus stations here usually offer good shelters.",
+                "fr": "Les arrêts de bus ici offrent généralement de bons abris."
               }
             },
             {
@@ -2230,7 +2450,8 @@
                 "de": "Direkte Anbindung mit dem Bus, kein langer Fußweg im Regen.",
                 "hu": "Közvetlen buszkapcsolat, nincs hosszú séta az esőben.",
                 "ro": "Conexiune directă cu autobuzul, fără mers lung pe jos prin ploaie.",
-                "en": "Direct bus connection, no long walk in the rain."
+                "en": "Direct bus connection, no long walk in the rain.",
+                "fr": "Connexion directe par bus, pas de longue marche sous la pluie."
               }
             },
             {
@@ -2239,7 +2460,8 @@
                 "de": "Zentrale Lage mit vielen Cafés zur Rettung vor dem Regen.",
                 "hu": "Központi helyszín sok kávézóval az eső elől való meneküléshez.",
                 "ro": "Locație centrală cu multe cafenele pentru a scăpa de ploaie.",
-                "en": "Central location with many cafes to rescue you from the rain."
+                "en": "Central location with many cafes to rescue you from the rain.",
+                "fr": "Emplacement central avec de nombreux cafés pour vous sauver de la pluie."
               }
             }
           ],
@@ -2267,6 +2489,12 @@
               "Buses often run with slight delays in the rain.",
               "Validate your ticket directly upon boarding the dry bus.",
               "Line 1 to the outlet is the most convenient connection in bad weather."
+            ],
+            "fr": [
+              "Utilisez l'application de transport TCAT pour des informations en temps réel.",
+              "Les bus circulent souvent avec de légers retards sous la pluie.",
+              "Validez votre ticket directement en montant dans le bus.",
+              "La ligne 1 vers le centre outlet est la connexion la plus pratique par mauvais temps."
             ]
           }
         },
@@ -2275,7 +2503,8 @@
             "de": "Eine gemütliche Wintertour mit dem ÖPNV. Wir starten am Bahnhof und nutzen den Bus als warme Verbindung zwischen den Sehenswürdigkeiten. Das MAM und das historische Zentrum bieten kulturelle Wärme. Zum Abendessen geht es mit dem Bus zurück zum Marché au Pain, wo die winterliche Atmosphäre im Zentrum am schönsten ist.",
             "hu": "Kényelmes téli túra tömegközlekedéssel. A vasútállomástól indulunk, és a buszt használjuk meleg összeköttetésként a látnivalók között. A MAM és a történelmi központ kulturális felmelegedést kínál. Vacsorához busszal megyünk vissza a Marché au Pain-hoz, ahol a legszebb a téli hangulat.",
             "ro": "Un tur plăcut de iarnă cu transportul public. Pornim de la gară și folosim autobuzul ca legătură caldă între obiective. MAM și centrul istoric oferă căldură culturală. Pentru cină, mergem cu autobuzul înapoi la Marché au Pain, unde atmosfera de iarnă este cea mai frumoasă.",
-            "en": "A cozy winter tour by public transport. We start at the station and use the bus as a warm connection between the sights. The MAM and the historic center offer cultural warmth. For dinner, we take the bus back to Marché au Pain, where the winter atmosphere in the center is at its best."
+            "en": "A cozy winter tour by public transport. We start at the station and use the bus as a warm connection between the sights. The MAM and the historic center offer cultural warmth. For dinner, we take the bus back to Marché au Pain, where the winter atmosphere in the center is at its best.",
+            "fr": "Un circuit d'hiver chaleureux en transports en commun. Nous commençons à la gare et utilisons le bus comme liaison chaude entre les sites. Le MAM et le centre historique offrent une chaleur culturelle. Pour le dîner, nous reprenons le bus vers le Marché au Pain, où l'atmosphère hivernale du centre est à son comble."
           },
           "stops": [
             {
@@ -2284,7 +2513,8 @@
                 "de": "Im Winter ist die Bahnhofshalle ein guter Ort zum Aufwärmen.",
                 "hu": "Télen a vasútállomás váróterme jó hely a felmelegedésre.",
                 "ro": "Iarna, holul gării este un loc bun pentru a vă încălzi.",
-                "en": "In winter, the station hall is a good place to warm up."
+                "en": "In winter, the station hall is a good place to warm up.",
+                "fr": "En hiver, le hall de la gare est un bon endroit pour se réchauffer."
               }
             },
             {
@@ -2293,7 +2523,8 @@
                 "de": "Genießen Sie die Kunst in angenehm temperierten Räumen.",
                 "hu": "Élvezze a művészetet kellemes hőmérsékletű termekben.",
                 "ro": "Bucurați-vă de artă în săli cu temperatură plăcută.",
-                "en": "Enjoy art in comfortably heated rooms."
+                "en": "Enjoy art in comfortably heated rooms.",
+                "fr": "Profitez de l'art dans des salles confortablement chauffées."
               }
             },
             {
@@ -2302,7 +2533,8 @@
                 "de": "Besuchen Sie eine der Bäckereien für einen heißen Snack.",
                 "hu": "Látogasson el az egyik pékségbe egy forró snackért.",
                 "ro": "Vizitați una dintre brutării pentru o gustare caldă.",
-                "en": "Visit one of the bakeries for a hot snack."
+                "en": "Visit one of the bakeries for a hot snack.",
+                "fr": "Visitez l'une des boulangeries pour une collation chaude."
               }
             },
             {
@@ -2311,7 +2543,8 @@
                 "de": "Die beheizten Busse sind eine Wohltat nach dem Shopping-Rundgang.",
                 "hu": "A fűtött buszok valóságos áldást jelentenek a vásárlás után.",
                 "ro": "Autobuzele încălzite sunt o binecuvântare după turul de cumpărături.",
-                "en": "The heated buses are a blessing after the shopping tour."
+                "en": "The heated buses are a blessing after the shopping tour.",
+                "fr": "Les bus chauffés sont une bénédiction après la séance de shopping."
               }
             },
             {
@@ -2320,7 +2553,8 @@
                 "de": "Die Abendbeleuchtung ist im Winter hier besonders stimmungsvoll.",
                 "hu": "Az esti kivilágítás télen itt különösen hangulatos.",
                 "ro": "Iluminatul de seară este deosebit de atmosferic aici iarna.",
-                "en": "The evening lighting is particularly atmospheric here in winter."
+                "en": "The evening lighting is particularly atmospheric here in winter.",
+                "fr": "L'éclairage du soir est particulièrement atmosphérique ici en hiver."
               }
             }
           ],
@@ -2348,6 +2582,12 @@
               "Use the time on the bus to plan your route in the warm.",
               "Buy day tickets in advance to avoid waiting at machines.",
               "TCAT buses are usually punctual, but plan for some buffer time."
+            ],
+            "fr": [
+              "Faites attention aux horaires d'hiver, surtout pendant les vacances.",
+              "Profitez du temps passé dans le bus pour planifier votre itinéraire au chaud.",
+              "Achetez vos tickets à la journée à l'avance pour éviter d'attendre aux automates.",
+              "Les bus TCAT sont généralement ponctuels, mais prévoyez une marge de manœuvre."
             ]
           }
         }

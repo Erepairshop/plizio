@@ -31,7 +31,8 @@
             "de": "Das Herz von Dieppe am Hafenbecken.",
             "hu": "Dieppe szíve a kikötőmedencénél.",
             "ro": "Inima orașului Dieppe la bazinul portuar.",
-            "en": "The heart of Dieppe by the harbor basin."
+            "en": "The heart of Dieppe by the harbor basin.",
+            "fr": "Le cœur de Dieppe au bord du bassin du port."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Prächtige Gotik mit Blick auf die Stadt.",
             "hu": "Pompás gótika kilátással a városra.",
             "ro": "Gotic magnific cu vedere spre oraș.",
-            "en": "Magnificent Gothic style with city views."
+            "en": "Magnificent Gothic style with city views.",
+            "fr": "Style gothique magnifique avec vue sur la ville."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ein Museum in einer Festung mit Elfenbeinschnitzereien.",
             "hu": "Múzeum egy erődben elefántcsont faragványokkal.",
             "ro": "Un muzeu într-o fortăreață cu sculpturi în fildeș.",
-            "en": "A museum in a fortress with ivory carvings."
+            "en": "A museum in a fortress with ivory carvings.",
+            "fr": "Un musée dans une forteresse avec des sculptures d'ivoire."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein weiter Kieselstrand, ideal für frische Seeluft.",
             "hu": "Széles kavicsos strand, ideális a friss tengeri levegőhöz.",
             "ro": "O plajă largă de prundis, ideală pentru aerul marin proaspăt.",
-            "en": "A wide pebble beach, ideal for fresh sea air."
+            "en": "A wide pebble beach, ideal for fresh sea air.",
+            "fr": "Une large plage de galets, idéale pour l'air marin."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Erfahren Sie alles über Meeresökologie und Fischerei.",
             "hu": "Tudjon meg mindent a tengeri ökológiáról és a halászatról.",
             "ro": "Aflați totul despre ecologia marină și pescuit.",
-            "en": "Learn all about marine ecology and fishing."
+            "en": "Learn all about marine ecology and fishing.",
+            "fr": "Tout savoir sur l'écologie marine et la pêche."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Blick auf die Klippen und den Sonnenuntergang.",
             "hu": "Kilátás a sziklákra és a naplementére.",
             "ro": "Vedere asupra falezelor și apusului.",
-            "en": "View of the cliffs and the sunset."
+            "en": "View of the cliffs and the sunset.",
+            "fr": "Vue sur les falaises et le coucher du soleil."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Entdecken Sie die älteste Badestadt Frankreichs zu Fuß. Ihr Weg führt Sie vom geschäftigen Hafenkai über die gotische Pracht der Kirche Saint-Jacques hinauf zur imposanten Festung. Genießen Sie den weiten Blick vom Schloss, bevor Sie sich am Kieselstrand entspannen. Den Abschluss bildet ein Besuch im Meeresmuseum und ein Spaziergang auf der Mole.",
         "hu": "Fedezze fel gyalogosan Franciaország legrégebbi fürdővárosát. Útja a forgalmas kikötői rakparttól a Saint-Jacques templom gótikus pompáján keresztül a lenyűgöző erődig vezet. Élvezze a tágas kilátást a kastélyból, mielőtt megpihenne a kavicsos strandon. A napot a tengeri múzeum látogatása és egy mólón tett séta zárja.",
         "ro": "Descoperiți pe jos cel mai vechi oraș balnear din Franța. Traseul vă poartă de la cheiul animat al portului, prin splendoarea gotică a bisericii Saint-Jacques, până la fortăreața impunătoare. Bucurați-vă de vederea largă de la castel înainte de a vă relaxa pe plaja de prundis. Ziua se încheie cu o vizită la muzeul mării și o plimbare pe dig.",
-        "en": "Discover France's oldest seaside resort on foot. Your path leads you from the busy harbor quayside, past the Gothic splendor of Saint-Jacques church, up to the imposing fortress. Enjoy the wide views from the castle before relaxing on the pebble beach. The day concludes with a visit to the maritime museum and a walk on the pier."
+        "en": "Discover France's oldest seaside resort on foot. Your path leads you from the busy harbor quayside, past the Gothic splendor of Saint-Jacques church, up to the imposing fortress. Enjoy the wide views from the castle before relaxing on the pebble beach. The day concludes with a visit to the maritime museum and a walk on the pier.",
+        "fr": "Découvrez à pied la plus ancienne station balnéaire de France. Votre itinéraire vous mène des quais animés du port, devant la splendeur gothique de l'église Saint-Jacques, jusqu'à l'imposante forteresse. Profitez de la vue imprenable depuis le château avant de vous détendre sur la plage de galets. La journée s'achève par une visite au musée maritime et une promenade sur la jetée."
       },
       "gastro_picks": {
         "de": [
@@ -171,6 +178,16 @@
             "name": "Saint-Jacques Scallops",
             "tip": "Fresh scallops directly from the boats."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marmite Dieppoise",
+            "tip": "Un ragoût de poisson copieux, la spécialité de la ville."
+          },
+          {
+            "name": "Coquilles Saint-Jacques",
+            "tip": "Des Saint-Jacques fraîches arrivant directement des bateaux."
+          }
         ]
       },
       "quiet_picks": {
@@ -201,6 +218,13 @@
             "tip": "Quiet view over the harbor.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Remparts du Château",
+            "tip": "Vue paisible sur le port.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -226,6 +250,12 @@
           {
             "name": "Dieppe Great Market",
             "tip": "One of France's best markets (on Saturdays)."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Grand Marché de Dieppe",
+            "tip": "L'un des plus beaux marchés de France (le samedi)."
           }
         ]
       },
@@ -253,6 +283,12 @@
           "Visit the harbor in the morning for fresh fish.",
           "Dieppe is famous for its kite festivals in September.",
           "Watch the tides on the beach."
+        ],
+        "fr": [
+          "La montée vers le château est raide mais en vaut la peine.",
+          "Visitez le port le matin pour le poisson frais.",
+          "Dieppe est célèbre pour ses festivals de cerfs-volants en septembre.",
+          "Surveillez les marées sur la plage."
         ]
       }
     },
@@ -279,7 +315,8 @@
             "de": "Breite Wege entlang der Küste.",
             "hu": "Széles utak a part mentén.",
             "ro": "Căi largi de-a lungul coastei.",
-            "en": "Wide paths along the coast."
+            "en": "Wide paths along the coast.",
+            "fr": "Larges sentiers le long de la côte."
           }
         },
         {
@@ -297,7 +334,8 @@
             "de": "Blick über die Hafeneinfahrt.",
             "hu": "Kilátás a kikötő bejáratára.",
             "ro": "Vedere asupra intrării în port.",
-            "en": "View over the harbor entrance."
+            "en": "View over the harbor entrance.",
+            "fr": "Vue sur l'entrée du port."
           }
         },
         {
@@ -315,7 +353,8 @@
             "de": "Wunderschöne Aussichtspunkte auf dem Küstenweg.",
             "hu": "Gyönyörű kilátópontok a parti úton.",
             "ro": "Puncte de belvedere superbe pe poteca de coastă.",
-            "en": "Beautiful viewpoints on the coastal path."
+            "en": "Beautiful viewpoints on the coastal path.",
+            "fr": "Beaux points de vue sur le sentier côtier."
           }
         },
         {
@@ -333,7 +372,8 @@
             "de": "Ein Renaissance-Herrenhaus im Umland.",
             "hu": "Reneszánsz udvarház a környéken.",
             "ro": "Un conac renascentist în împrejurimi.",
-            "en": "A Renaissance manor in the surrounding area."
+            "en": "A Renaissance manor in the surrounding area.",
+            "fr": "Un manoir de la Renaissance dans les environs."
           }
         },
         {
@@ -351,7 +391,8 @@
             "de": "Entspannen Sie in einem Café in der Altstadt.",
             "hu": "Pihenjen meg egy kávézóban az óvárosban.",
             "ro": "Relaxați-vă la o cafenea în centrul vechi.",
-            "en": "Relax at a cafe in the old town."
+            "en": "Relax at a cafe in the old town.",
+            "fr": "Détente dans un café de la vieille ville."
           }
         }
       ],
@@ -359,7 +400,8 @@
         "de": "Erfahren Sie Dieppe und seine Umgebung auf zwei Rädern. Radeln Sie entlang der Strandpromenade zur Kapelle Bonsecours und weiter auf die Klippen von Puys. Die Tour führt Sie ins grüne Hinterland zum prachtvollen Manoir d'Ango, bevor Sie für eine Kaffeepause in die historischen Gassen von Dieppe zurückkehren.",
         "hu": "Fedezze fel Dieppe-et és környékét két keréken. Biciklizzen végig a tengerparti sétányon a Bonsecours kápolnához, majd tovább a Puys-sziklákhoz. A túra a zöld hátországba, a pompás Manoir d'Ango-hoz vezet, mielőtt visszatérne egy kávészünetre Dieppe történelmi utcáiba.",
         "ro": "Explorați Dieppe și împrejurimile sale pe două roți. Pedalați de-a lungul promenadei maritime până la capela Bonsecours și mai departe pe falezele din Puys. Turul vă poartă în hinterlandul verde până la splendidul Manoir d'Ango, înainte de a vă întoarce pentru o pauză de cafea pe străzile istorice din Dieppe.",
-        "en": "Experience Dieppe and its surroundings on two wheels. Cycle along the beachfront promenade to the Bonsecours chapel and further onto the Puys cliffs. The tour takes you into the green hinterland to the magnificent Manoir d'Ango before returning for a coffee break in the historic streets of Dieppe."
+        "en": "Experience Dieppe and its surroundings on two wheels. Cycle along the beachfront promenade to the Bonsecours chapel and further onto the Puys cliffs. The tour takes you into the green hinterland to the magnificent Manoir d'Ango before returning for a coffee break in the historic streets of Dieppe.",
+        "fr": "Vivez Dieppe et ses environs sur deux roues. Pédalez le long de la promenade du front de mer jusqu'à la chapelle de Bonsecours et continuez sur les falaises de Puys. Le tour vous emmène dans l'arrière-pays verdoyant vers le magnifique Manoir d'Ango avant de revenir pour une pause café dans les rues historiques de Dieppe."
       },
       "gastro_picks": {
         "de": [
@@ -384,6 +426,12 @@
           {
             "name": "Salted Butter Caramel",
             "tip": "A sweet reward in local confectioneries."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Caramel au Beurre Salé",
+            "tip": "Une récompense sucrée dans les confiseries locales."
           }
         ]
       },
@@ -415,6 +463,13 @@
             "tip": "Quiet cliff paths far from the center.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Littoral de Puys",
+            "tip": "Sentiers de falaise tranquilles loin du centre.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -440,6 +495,12 @@
           {
             "name": "Fine Grocery",
             "tip": "Buy local sea salt and cider."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Épicerie Fine",
+            "tip": "Achetez du sel de mer local et du cidre."
           }
         ]
       },
@@ -467,6 +528,12 @@
           "A mountain bike is ideal for some unpaved paths.",
           "Check the opening hours of Manoir d'Ango.",
           "Use the bike paths along the coast."
+        ],
+        "fr": [
+          "Les sentiers de falaise peuvent être venteux.",
+          "Un VTT est idéal pour certains chemins non goudronnés.",
+          "Vérifiez les horaires d'ouverture du Manoir d'Ango.",
+          "Utilisez les pistes cyclables le long de la côte."
         ]
       }
     },
@@ -493,7 +560,8 @@
             "de": "Parken am Quai Henri IV.",
             "hu": "Parkolás a Quai Henri IV-nél.",
             "ro": "Parcare la Quai Henri IV.",
-            "en": "Parking at Quai Henri IV."
+            "en": "Parking at Quai Henri IV.",
+            "fr": "Parking au Quai Henri IV."
           }
         },
         {
@@ -511,7 +579,8 @@
             "de": "Besuchen Sie den Seefriedhof mit Blick auf das Meer.",
             "hu": "Látogasson el a tengerparti temetőbe kilátással a tengerre.",
             "ro": "Vizitați cimitirul maritim cu vedere la mare.",
-            "en": "Visit the maritime cemetery with a view of the sea."
+            "en": "Visit the maritime cemetery with a view of the sea.",
+            "fr": "Visite du cimetière marin avec vue sur la mer."
           }
         },
         {
@@ -529,7 +598,8 @@
             "de": "Berühmte Gärten in englischem Stil.",
             "hu": "Híres angol stílusú kertek.",
             "ro": "Grădini faimoase în stil englezesc.",
-            "en": "Famous English-style gardens."
+            "en": "Famous English-style gardens.",
+            "fr": "Jardins célèbres de style anglais."
           }
         },
         {
@@ -547,7 +617,8 @@
             "de": "Ein Leuchtturm inmitten der Klippen.",
             "hu": "Egy világítótorony a sziklák között.",
             "ro": "Un far în mijlocul falezelor.",
-            "en": "A lighthouse in the middle of the cliffs."
+            "en": "A lighthouse in the middle of the cliffs.",
+            "fr": "Un phare au milieu des falaises."
           }
         },
         {
@@ -565,7 +636,8 @@
             "de": "Beliebter Ort für Austern und Sonnenuntergang.",
             "hu": "Kedvelt hely az osztriga és a naplemente kedvelőinek.",
             "ro": "Loc popular pentru scoici și apus.",
-            "en": "Popular spot for oysters and sunset."
+            "en": "Popular spot for oysters and sunset.",
+            "fr": "Lieu prisé pour les huîtres et le coucher du soleil."
           }
         }
       ],
@@ -573,7 +645,8 @@
         "de": "Diese Autotour führt Sie zu den verborgenen Schätzen westlich von Dieppe. Entdecken Sie das charmante Varengeville mit seinem Seefriedhof und den berühmten Moutiers-Gärten. Besuchen Sie den Leuchtturm von Ailly und beenden Sie den Tag bei frischen Austern in Pourville, während Sie den Panoramablick auf die Alabasterküste genießen.",
         "hu": "Ez az autós túra Dieppe-től nyugatra fekvő rejtett kincsekhez vezet. Fedezze fel a bájos Varengeville-t a tengerparti temetőjével és a híres Moutiers-kertekkel. Látogasson el az Ailly világítótoronyhoz, és fejezze be a napot friss osztrigával Pourville-ben, miközben élvezi az Alabástrom-part panorámáját.",
         "ro": "Acest tur cu mașina vă poartă către comorile ascunse de la vest de Dieppe. Descoperiți fermecătorul Varengeville cu cimitirul său maritim și faimoasele grădini Moutiers. Vizitați farul d'Ailly și încheiați ziua cu scoici proaspete în Pourville, în timp ce admirați vederea panoramică asupra Coastei de Alabastru.",
-        "en": "This car tour takes you to the hidden treasures west of Dieppe. Discover charming Varengeville with its maritime cemetery and the famous Moutiers gardens. Visit the Ailly lighthouse and end the day with fresh oysters in Pourville while enjoying the panoramic view of the Alabaster Coast."
+        "en": "This car tour takes you to the hidden treasures west of Dieppe. Discover charming Varengeville with its maritime cemetery and the famous Moutiers gardens. Visit the Ailly lighthouse and end the day with fresh oysters in Pourville while enjoying the panoramic view of the Alabaster Coast.",
+        "fr": "Ce circuit en voiture vous emmène vers les trésors cachés à l'ouest de Dieppe. Découvrez le charmant village de Varengeville avec son cimetière marin et les célèbres jardins du Bois des Moutiers. Visitez le phare d'Ailly et terminez la journée avec des huîtres fraîches à Pourville tout en profitant de la vue panoramique sur la Côte d'Albâtre."
       },
       "gastro_picks": {
         "de": [
@@ -598,6 +671,12 @@
           {
             "name": "Pourville Oysters",
             "tip": "Enjoy oysters directly on the beach."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Huîtres de Pourville",
+            "tip": "Dégustez des huîtres directement sur la plage."
           }
         ]
       },
@@ -629,6 +708,13 @@
             "tip": "A place of silence above the waves.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Cimetière Marin",
+            "tip": "Un lieu de silence au-dessus des flots.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -654,6 +740,12 @@
           {
             "name": "Varengeville Crafts",
             "tip": "Local handicrafts in the small galleries."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Artisanat de Varengeville",
+            "tip": "Artisanat local dans les petites galeries."
           }
         ]
       },
@@ -681,6 +773,12 @@
           "Parking at the maritime cemetery is limited.",
           "Book garden visits in advance.",
           "Enjoy the sunset in Pourville."
+        ],
+        "fr": [
+          "Les routes vers Varengeville sont pittoresques mais étroites.",
+          "Le stationnement au cimetière marin est limité.",
+          "Réservez les visites de jardins à l'avance.",
+          "Profitez du coucher de soleil à Pourville."
         ]
       }
     },
@@ -707,7 +805,8 @@
             "de": "Bahnhof mit historischer Fassade.",
             "hu": "Vasútállomás történelmi homlokzattal.",
             "ro": "Gară cu fațadă istorică.",
-            "en": "Train station with a historic facade."
+            "en": "Train station with a historic facade.",
+            "fr": "Gare ferroviaire avec une façade historique."
           }
         },
         {
@@ -725,7 +824,8 @@
             "de": "Eine weitere bedeutende Kirche im Zentrum.",
             "hu": "Egy másik jelentős templom a központban.",
             "ro": "O altă biserică importantă în centru.",
-            "en": "Another significant church in the center."
+            "en": "Another significant church in the center.",
+            "fr": "Une autre église importante au centre-ville."
           }
         },
         {
@@ -743,7 +843,8 @@
             "de": "Einfach erreichbar mit dem Stadtbus.",
             "hu": "Könnyen elérhető városi busszal.",
             "ro": "Ușor accesibil cu autobuzul local.",
-            "en": "Easily accessible by city bus."
+            "en": "Easily accessible by city bus.",
+            "fr": "Facilement accessible en bus urbain."
           }
         },
         {
@@ -761,7 +862,8 @@
             "de": "Das alte Fischerviertel von Dieppe.",
             "hu": "Dieppe régi halásznegyede.",
             "ro": "Vechiul cartier pescăresc din Dieppe.",
-            "en": "The old fishing quarter of Dieppe."
+            "en": "The old fishing quarter of Dieppe.",
+            "fr": "Le vieux quartier des pêcheurs de Dieppe."
           }
         },
         {
@@ -779,7 +881,8 @@
             "de": "Beobachten Sie die großen Fähren nach England.",
             "hu": "Figyelje meg az Angliába tartó nagy kompokat.",
             "ro": "Priviți feriboturile mari spre Anglia.",
-            "en": "Watch the large ferries to England."
+            "en": "Watch the large ferries to England.",
+            "fr": "Observez les grands ferries pour l'Angleterre."
           }
         }
       ],
@@ -787,7 +890,8 @@
         "de": "Nutzen Sie den Stadtbus 'Deep Mob', um die verschiedenen Facetten Dieppes zu entdecken. Vom Bahnhof aus gelangen Sie bequem zum Strand, zum historischen Pollet-Viertel und zum Handelshafen. Erleben Sie den Alltag der Hafenstadt ohne Stress bei der Parkplatzsuche und entdecken Sie weniger bekannte Winkel wie das Viertel Saint-Rémi.",
         "hu": "Használja a 'Deep Mob' városi buszt Dieppe különböző arcainak felfedezéséhez. Az állomástól kényelmesen elérheti a strandot, a történelmi Pollet negyedet és a kereskedelmi kikötőt. Tapasztalja meg a kikötőváros mindennapjait parkolási stressz nélkül, és fedezze fel a kevésbé ismert szegleteket, például a Saint-Rémi negyedet.",
         "ro": "Utilizați autobuzul local 'Deep Mob' pentru a descoperi diferitele fațete ale orașului Dieppe. De la gară puteți ajunge ușor la plajă, în cartierul istoric Pollet și în portul comercial. Experimentați viața de zi cu zi a orașului portuar fără stresul parcării și descoperiți unghiuri mai puțin cunoscute, cum ar fi cartierul Saint-Rémi.",
-        "en": "Use the 'Deep Mob' city bus to discover the different facets of Dieppe. From the station, you can easily reach the beach, the historic Pollet district, and the commercial port. Experience the everyday life of the port city without parking stress and discover lesser-known corners like the Saint-Rémi district."
+        "en": "Use the 'Deep Mob' city bus to discover the different facets of Dieppe. From the station, you can easily reach the beach, the historic Pollet district, and the commercial port. Experience the everyday life of the port city without parking stress and discover lesser-known corners like the Saint-Rémi district.",
+        "fr": "Utilisez le bus urbain 'Deep Mob' pour découvrir les différentes facettes de Dieppe. Depuis la gare, rejoignez facilement la plage, le quartier historique du Pollet et le port de commerce. Vivez le quotidien de la ville portuaire sans le stress du stationnement et découvrez des coins moins connus comme le quartier Saint-Rémi."
       },
       "gastro_picks": {
         "de": [
@@ -812,6 +916,12 @@
           {
             "name": "Norman Crêpes",
             "tip": "A classic in the harbor cafes."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Crêpes Normandes",
+            "tip": "Un classique dans les cafés du port."
           }
         ]
       },
@@ -843,6 +953,13 @@
             "tip": "A small park at the foot of the castle.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Square du Canada",
+            "tip": "Un petit parc au pied du château.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -868,6 +985,12 @@
           {
             "name": "Grande Rue",
             "tip": "The main shopping street in the pedestrian zone."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Grande Rue",
+            "tip": "La principale rue commerçante de la zone piétonne."
           }
         ]
       },
@@ -895,6 +1018,12 @@
           "Buses run regularly between the station and the beach.",
           "Use the bus to reach the Pollet quarter.",
           "Plan for more time on weekends."
+        ],
+        "fr": [
+          "Achetez vos tickets auprès du chauffeur ou par SMS.",
+          "Les bus circulent régulièrement entre la gare et la plage.",
+          "Prenez le bus pour rejoindre le quartier du Pollet.",
+          "Prévoyez plus de temps les week-ends."
         ]
       }
     }

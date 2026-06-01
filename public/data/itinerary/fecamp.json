@@ -36,7 +36,8 @@
             "de": "Probieren Sie den berühmten Likör.",
             "hu": "Kóstolja meg a híres likőrt.",
             "ro": "Gustați celebrul lichior.",
-            "en": "Taste the famous herbal liqueur."
+            "en": "Taste the famous herbal liqueur.",
+            "fr": "Goûtez la célèbre liqueur de plantes."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bestaunen Sie die gotische Architektur.",
             "hu": "Csodálja meg a gótikus belsőt.",
             "ro": "Admirați interiorul gotic.",
-            "en": "Admire the Gothic architecture."
+            "en": "Admire the Gothic architecture.",
+            "fr": "Admirez l'architecture gothique."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Blick von der Dachterrasse genießen.",
             "hu": "Élvezze a kilátást a tetőteraszról.",
             "ro": "Bucurați-vă de panorama de pe terasă.",
-            "en": "Enjoy the view from the rooftop terrace."
+            "en": "Enjoy the view from the rooftop terrace.",
+            "fr": "Profitez de la vue depuis la terrasse sur le toit."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Spaziergang auf den Kieselsteinen.",
             "hu": "Séta a kavicsos parton.",
             "ro": "O plimbare pe malul mării.",
-            "en": "A long walk on the pebble beach."
+            "en": "A long walk on the pebble beach.",
+            "fr": "Une longue promenade sur la plage de galets."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Beobachten Sie die Fischerboote.",
             "hu": "Nézze meg a halászhajókat.",
             "ro": "Priviți ambarcațiunile de pescuit.",
-            "en": "Watch the traditional fishing boats."
+            "en": "Watch the traditional fishing boats.",
+            "fr": "Observez les bateaux de pêche traditionnels."
           }
         }
       ],
@@ -136,7 +141,8 @@
         "de": "Beginnen Sie Ihren Tag im majestätischen Palais Bénédictine, wo Kunst und Brennerei aufeinandertreffen. Mittags erkunden Sie die maritime Geschichte im Musée des Pêcheries und genießen den Hafenflair. Der Nachmittag gehört der Entspannung am weiten Kieselstrand. Den Abend lassen Sie bei einem Spaziergang am Yachthafen ausklingen.",
         "hu": "Kezdje a napot a fenséges Bencés palotában, ahol a művészet és a likőrgyártás találkozik. Délben fedezze fel a tengeri múltat a Halászati Múzeumban, majd élvezze a kikötő hangulatát. A délutánt töltse a széles kavicsos strandon pihenve. Az estét zárja egy kellemes sétával a jachtkikötő mentén.",
         "ro": "Începeți ziua la maiestuosul Palat Bénédictine, unde arta se întâlnește cu distileria. La prânz, explorați istoria maritimă la Muzeul Pescuitului și bucurați-vă de atmosfera portului. După-amiaza este dedicată relaxării pe plaja vastă cu pietriș. Încheiați seara cu o plimbare relaxantă de-a lungul portului de agrement.",
-        "en": "Start your day at the majestic Palais Bénédictine, where art meets the distillery craft. At midday, explore maritime history at the Musée des Pêcheries and soak up the harbour vibe. Spend the afternoon relaxing on the wide pebble beach. End your evening with a pleasant stroll along the marina."
+        "en": "Start your day at the majestic Palais Bénédictine, where art meets the distillery craft. At midday, explore maritime history at the Musée des Pêcheries and soak up the harbour vibe. Spend the afternoon relaxing on the wide pebble beach. End your evening with a pleasant stroll along the marina.",
+        "fr": "Commencez votre journée au majestueux Palais Bénédictine, où l'art rencontre l'artisanat de la distillerie. À la mi-journée, explorez l'histoire maritime au Musée des Pêcheries et imprégnez-vous de l'atmosphère du port. Passez l'après-midi à vous détendre sur la grande plage de galets. Terminez votre soirée par une agréable promenade le long de la marina."
       },
       "gastro_picks": {
         "de": [
@@ -161,6 +167,12 @@
           {
             "name": "Restaurant Le Barbacane",
             "tip": "Excellent seafood near the palace."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Restaurant Le Barbacane",
+            "tip": "Excellents fruits de mer à proximité du palais."
           }
         ]
       },
@@ -192,6 +204,13 @@
             "tip": "Quiet spot for the sunset.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Jetée Nord",
+            "tip": "Coin tranquille pour admirer le coucher du soleil.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -218,6 +237,12 @@
             "name": "Maison de la Presse",
             "tip": "Postcards and local books."
           }
+        ],
+        "fr": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Cartes postales et ouvrages locaux."
+          }
         ]
       },
       "tips": {
@@ -240,6 +265,11 @@
           "Wear comfortable shoes for the pebble beach.",
           "The liqueur is quite strong, sip slowly.",
           "Book your table in advance for harbour-side dining."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour la plage de galets.",
+          "La liqueur est assez forte, dégustez-la lentement.",
+          "Réservez votre table à l'avance pour dîner au bord du port."
         ]
       }
     },
@@ -266,7 +296,8 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "hu": "Indulás a kerékpárúton."
+            "hu": "Indulás a kerékpárúton.",
+            "fr": "Départ sur la piste cyclable."
           }
         },
         {
@@ -284,7 +315,8 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Höchster Punkt der Alabasterküste."
+            "de": "Höchster Punkt der Alabasterküste.",
+            "fr": "Le point culminant de la Côte d'Albâtre."
           }
         },
         {
@@ -302,7 +334,8 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 3.0,
           "tip_5lang": {
-            "ro": "O capodoperă arhitecturală."
+            "ro": "O capodoperă arhitecturală.",
+            "fr": "Un chef-d'œuvre architectural."
           }
         },
         {
@@ -320,7 +353,8 @@
           "hop_from_prev_min": 30,
           "hop_from_prev_km": 5.0,
           "tip_5lang": {
-            "en": "Charming village nearby."
+            "en": "Charming village nearby.",
+            "fr": "Charmant village à proximité."
           }
         },
         {
@@ -338,7 +372,8 @@
           "hop_from_prev_min": 30,
           "hop_from_prev_km": 5.0,
           "tip_5lang": {
-            "hu": "Frissítő szél a parton."
+            "hu": "Frissítő szél a parton.",
+            "fr": "Vent rafraîchissant sur la côte."
           }
         }
       ],
@@ -346,7 +381,8 @@
         "de": "Fahren Sie hinauf zum Cap Fagnet für eine spektakuläre Aussicht.",
         "hu": "Tekerjen fel a Cap Fagnet-hoz a lenyűgöző panorámáért.",
         "ro": "Pedalați până la Cap Fagnet pentru o priveliște spectaculoasă.",
-        "en": "Cycle up to Cap Fagnet for spectacular cliff views."
+        "en": "Cycle up to Cap Fagnet for spectacular cliff views.",
+        "fr": "Pédalez jusqu'au Cap Fagnet pour profiter de panoramas spectaculaires sur les falaises."
       },
       "gastro_picks": {
         "de": [
@@ -372,6 +408,12 @@
             "name": "Fisherman's Hut",
             "tip": "Fresh snacks by the sea."
           }
+        ],
+        "fr": [
+          {
+            "name": "Fisherman's Hut",
+            "tip": "En-cas frais au bord de la mer."
+          }
         ]
       },
       "quiet_picks": {
@@ -379,6 +421,13 @@
           {
             "name": "Klippenpfad",
             "tip": "Ruhiger Radweg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "fr": [
+          {
+            "name": "Sentier des falaises",
+            "tip": "Piste cyclable paisible.",
             "emoji": "🏞️"
           }
         ]
@@ -389,12 +438,22 @@
             "name": "Wochenmarkt",
             "tip": "Regionale Produkte."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché hebdomadaire",
+            "tip": "Produits régionaux."
+          }
         ]
       },
       "tips": {
         "de": [
           "Der Anstieg zum Cap ist steil.",
           "Nutzen Sie die Küstenradwege."
+        ],
+        "fr": [
+          "La montée vers le Cap est raide.",
+          "Utilisez les pistes cyclables côtières."
         ]
       }
     },
@@ -421,7 +480,8 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "hu": "Parkoljon a kikötő közelében."
+            "hu": "Parkoljon a kikötő közelében.",
+            "fr": "Garez-vous près du port."
           }
         },
         {
@@ -439,7 +499,8 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Geführte Touren sind möglich."
+            "de": "Geführte Touren sind möglich.",
+            "fr": "Des visites guidées sont possibles."
           }
         },
         {
@@ -457,7 +518,8 @@
           "hop_from_prev_min": 25,
           "hop_from_prev_km": 7.0,
           "tip_5lang": {
-            "ro": "Un sat pitoresc de pescari."
+            "ro": "Un sat pitoresc de pescari.",
+            "fr": "Un village de pêcheurs pittoresque."
           }
         },
         {
@@ -475,7 +537,8 @@
           "hop_from_prev_min": 35,
           "hop_from_prev_km": 15.0,
           "tip_5lang": {
-            "en": "The famous needle rock."
+            "en": "The famous needle rock.",
+            "fr": "La célèbre aiguille d'Étretat."
           }
         },
         {
@@ -493,7 +556,8 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 12.0,
           "tip_5lang": {
-            "hu": "A naplemente legjobb helye."
+            "hu": "A naplemente legjobb helye.",
+            "fr": "Le meilleur endroit pour le coucher du soleil."
           }
         }
       ],
@@ -501,7 +565,8 @@
         "de": "Entdecken Sie Fécamp und fahren Sie dann ins malerische Yport und zu den weltberühmten Klippen von Étretat.",
         "hu": "Fedezze fel Fécampot, majd látogasson el a festői Yportba és Étretat világhírű szikláihoz.",
         "ro": "Descoperiți Fécamp, apoi vizitați pitorescul Yport și faimoasele stânci de la Étretat.",
-        "en": "Discover Fécamp, then drive to picturesque Yport and the world-famous cliffs of Étretat."
+        "en": "Discover Fécamp, then drive to picturesque Yport and the world-famous cliffs of Étretat.",
+        "fr": "Découvrez Fécamp, puis roulez vers le village pittoresque d'Yport et les falaises mondialement célèbres d'Étretat."
       },
       "gastro_picks": {
         "de": [
@@ -527,6 +592,12 @@
             "name": "Le Phare",
             "tip": "Seafood with a view."
           }
+        ],
+        "fr": [
+          {
+            "name": "Le Phare",
+            "tip": "Fruits de mer avec vue."
+          }
         ]
       },
       "quiet_picks": {
@@ -534,6 +605,13 @@
           {
             "name": "Chapelle Notre-Dame",
             "tip": "Stille Kapelle am Cap.",
+            "emoji": "🧘"
+          }
+        ],
+        "fr": [
+          {
+            "name": "Chapelle Notre-Dame",
+            "tip": "Chapelle paisible située au Cap.",
             "emoji": "🧘"
           }
         ]
@@ -544,12 +622,22 @@
             "name": "Cidre-Bauernhof",
             "tip": "Kaufen Sie lokalen Apfelwein."
           }
+        ],
+        "fr": [
+          {
+            "name": "Ferme de cidre",
+            "tip": "Achetez du cidre local."
+          }
         ]
       },
       "tips": {
         "de": [
           "Parken in Étretat kann schwierig sein.",
           "Besuchen Sie die Klippen bei Ebbe."
+        ],
+        "fr": [
+          "Le stationnement à Étretat peut être difficile.",
+          "Visitez les falaises à marée basse."
         ]
       }
     },
@@ -576,7 +664,8 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "hu": "Központi csomópont."
+            "hu": "Központi csomópont.",
+            "fr": "Plaque tournante centrale."
           }
         },
         {
@@ -594,7 +683,8 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Kurze Busfahrt vom Bahnhof."
+            "de": "Kurze Busfahrt vom Bahnhof.",
+            "fr": "Court trajet en bus depuis la gare."
           }
         },
         {
@@ -612,7 +702,8 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "ro": "Lângă port."
+            "ro": "Lângă port.",
+            "fr": "À proximité du port."
           }
         },
         {
@@ -630,7 +721,8 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "en": "Relax after the museum visit."
+            "en": "Relax after the museum visit.",
+            "fr": "Détente après la visite du musée."
           }
         }
       ],
@@ -638,13 +730,20 @@
         "de": "Nutzen Sie den lokalen Bus, um zwischen Bahnhof, Abtei und Hafenviertel zu pendeln.",
         "hu": "Használja a helyi buszt az állomás, az apátság és a kikötő közötti utazáshoz.",
         "ro": "Folosiți autobuzul local pentru a circula între gară, abație și zona portului.",
-        "en": "Use the local bus to travel between the station, abbey, and the harbour district."
+        "en": "Use the local bus to travel between the station, abbey, and the harbour district.",
+        "fr": "Utilisez le bus local pour circuler entre la gare, l'abbaye et le quartier du port."
       },
       "gastro_picks": {
         "de": [
           {
             "name": "L'Assiette",
             "tip": "Gutes Preis-Leistungs-Verhältnis."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Assiette",
+            "tip": "Bon rapport qualité-prix."
           }
         ]
       },
@@ -655,6 +754,13 @@
             "tip": "Ruhiger Platz.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Place de l'Hôtel de Ville",
+            "tip": "Place calme.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -663,12 +769,22 @@
             "name": "Super U",
             "tip": "Lokale Produkte günstig."
           }
+        ],
+        "fr": [
+          {
+            "name": "Super U",
+            "tip": "Produits locaux à prix abordables."
+          }
         ]
       },
       "tips": {
         "de": [
           "Busse fahren nicht sehr oft.",
           "Überprüfen Sie den Fahrplan."
+        ],
+        "fr": [
+          "Les bus ne circulent pas très souvent.",
+          "Vérifiez bien les horaires de passage."
         ]
       }
     }

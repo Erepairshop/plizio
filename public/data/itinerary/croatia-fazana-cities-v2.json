@@ -31,7 +31,8 @@
             "de": "Achten Sie auf die engen Gassen, die typisch für istrische Fischerdörfer sind.",
             "hu": "Figyeljük meg a halászfalu szűk, középkori hangulatú sikátorait.",
             "ro": "Observați străzile înguste specifice satelor de pescari din Istria.",
-            "en": "Notice the narrow alleys typical of Istrian fishing villages."
+            "en": "Notice the narrow alleys typical of Istrian fishing villages.",
+            "hr": "Primijetite uske uličice tipične za istarska ribarska mjesta."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Die Kirche liegt fast auf Meereshöhe direkt am Hafen.",
             "hu": "A templom szinte a tengerszinten, közvetlenül a kikötőben áll.",
             "ro": "Biserica se află aproape la nivelul mării, chiar lângă port.",
-            "en": "The church stands almost at sea level, right by the harbour."
+            "en": "The church stands almost at sea level, right by the harbour.",
+            "hr": "Crkva stoji gotovo na razini mora, odmah uz luku."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Hier legen die Boote zum Nationalpark Brijuni ab.",
             "hu": "Innen indulnak a hajók a Brijuni Nemzeti Parkba.",
             "ro": "De aici pleacă bărci către Parcul Național Brijuni.",
-            "en": "Boats to Brijuni National Park depart from this waterfront."
+            "en": "Boats to Brijuni National Park depart from this waterfront.",
+            "hr": "Brodovi za Nacionalni park Brijuni polaze s ove rive."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie die berühmten gesalzenen Sardinen von Fažana.",
             "hu": "Kóstolja meg a híres fažanai sózott szardíniát.",
             "ro": "Gustați celebrele sardine sărate din Fažana.",
-            "en": "Try the famous salted sardines of Fažana."
+            "en": "Try the famous salted sardines of Fažana.",
+            "hr": "Probajte poznate fažanske slane srdele."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein schöner Spaziergang im Schatten der Pinien mit moderner Kunst.",
             "hu": "Kellemes séta a fenyőárnyékban modern művészeti alkotások között.",
             "ro": "O plimbare plăcută la umbra pinilor printre sculpturi moderne.",
-            "en": "A pleasant walk in the pine shade among modern art sculptures."
+            "en": "A pleasant walk in the pine shade among modern art sculptures.",
+            "hr": "Ugodna šetnja u hladu borova među skulpturama moderne umjetnosti."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Das Wasser hier ist besonders klar und flach abfallend.",
             "hu": "A víz itt különösen tiszta és lassan mélyül.",
             "ro": "Apa este foarte limpede și se adâncește treptat aici.",
-            "en": "The water here is exceptionally clear and shallow."
+            "en": "The water here is exceptionally clear and shallow.",
+            "hr": "Voda je ovdje iznimno čista i plitka."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Der Blick auf die Brijuni-Inseln bei Sonnenuntergang ist magisch.",
             "hu": "A Brijuni-szigetek látványa naplementekor lenyűgöző.",
             "ro": "Vedere asupra insulelor Brijuni la apus este spectaculoasă.",
-            "en": "The view of the Brijuni Islands at sunset is spectacular."
+            "en": "The view of the Brijuni Islands at sunset is spectacular.",
+            "hr": "Pogled na Brijune u zalazak sunca je spektakularan."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Der Vormittag gehört dem historischen Kern und der gotischen Kirche direkt am Meer. Mittags genießen wir die Fischertradition an der Riva bei einem Glas Malvazija. Der Nachmittag bietet Entspannung im Skulpturenpark und an den Kiesstränden mit Blick auf den Archipel. Den Tag lassen wir mit einem Gelato am Hafen ausklingen, während die Sonne hinter den Inseln versinkt.",
         "hu": "A délelőttöt a történelmi óvárosban és a tengerparti gótikus templomnál töltjük. Ebédre a helyi halászati hagyományokat élvezzük a kikötőben egy pohár Malvazija mellett. Délután a szoborpark és a kavicsos strandok várnak, kilátással a szigetvilágra. A napot a parton fagylaltozva zárjuk, miközben a nap eltűnik a Brijuni-szigetek mögött.",
         "ro": "Dimineața este dedicată centrului istoric și bisericii gotice de lângă mare. La prânz, ne bucurăm de tradiția pescuitului pe faleză, cu un pahar de Malvazija. După-amiaza oferă relaxare în parcul de sculpturi și pe plajele cu pietriș, cu vedere la arhipelag. Încheiem ziua cu o înghețată în port, urmărind cum soarele apune în spatele insulelor.",
-        "en": "Morning is dedicated to the historical core and the Gothic church by the sea. For lunch, enjoy the fishing traditions on the Riva with a glass of Malvazija. The afternoon offers relaxation in the sculpture park and on pebble beaches with views of the archipelago. End the day with gelato at the harbour as the sun sinks behind the Brijuni Islands."
+        "en": "Morning is dedicated to the historical core and the Gothic church by the sea. For lunch, enjoy the fishing traditions on the Riva with a glass of Malvazija. The afternoon offers relaxation in the sculpture park and on pebble beaches with views of the archipelago. End the day with gelato at the harbour as the sun sinks behind the Brijuni Islands.",
+        "hr": "Jutro je posvećeno povijesnoj jezgri i gotičkoj crkvi uz more. Za ručak uživajte u ribarskoj tradiciji na Rivi uz čašu istarske Malvazije. Poslijepodne nudi opuštanje u parku skulptura i na šljunčanim plažama s pogledom na arhipelag. Dan završite uz gelato u luci dok sunce tone iza Brijuna."
       },
       "gastro_picks": {
         "de": [
@@ -172,6 +180,12 @@
           {
             "name": "Sardines",
             "tip": "Try marinated or grilled sardines in a local konoba."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Srdele",
+            "tip": "Probajte marinirane ili pečene srdele u lokalnoj konobi."
           }
         ]
       },
@@ -203,6 +217,13 @@
             "tip": "The waterfront path towards Peroj offers quiet sections.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Sjeverna obala",
+            "tip": "Obalna staza prema Peroju nudi mirnije dionice.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -229,6 +250,12 @@
             "name": "Olive Oil",
             "tip": "Fažana is known for its high-quality Istrian olive oil."
           }
+        ],
+        "hr": [
+          {
+            "name": "Maslinovo ulje",
+            "tip": "Fažana je poznata po vrhunskom istarskom maslinovom ulju."
+          }
         ]
       },
       "tips": {
@@ -247,6 +274,10 @@
         "en": [
           "Book the Brijuni ferry in advance if you plan a side trip.",
           "Park in the large public parking lot at the northern entrance."
+        ],
+        "hr": [
+          "Rezervirajte kartu za brod za Brijune unaprijed ako planirate izlet.",
+          "Parkirajte na velikom javnom parkiralištu na sjevernom ulazu."
         ]
       },
       "variants": {
@@ -255,7 +286,8 @@
             "de": "Der Morgen in der Altstadt von Fažana beginnt unter dem Schutz der schmalen Gassen, wo die steinernen Häuser Schutz vor dem Regen bieten. Mittags suchen wir Zuflucht in der Kirche der hlg. Cosmas und Damian, bevor wir uns bei einem langen Mittagessen in einer gemütlichen Konoba aufwärmen. Nachmittags spazieren wir mit dem Regenschirm durch den Skulpturenpark, während die Wellen gegen die Mole schlagen. Der Abend endet am Hafen, wo das graue Meer eine dramatische Kulisse bietet.",
             "hu": "A reggel Fažana óvárosában a szűk utcák védelmében telik, ahol a kőházak falai óvnak a szitáló esőtől. Délben a Szent Kozma és Damján-templom freskói között pihenünk, majd egy hosszú ebéddel melegszünk fel egy helyi konobában. Délután esernyővel járjuk be a szoborparkot, figyelve a hullámok játékát. Az este a kikötőben zárul, ahol az eső áztatta kövek és a morajló tenger drámai hangulatot árasztanak.",
             "ro": "Dimineața în centrul vechi din Fažana începe la adăpostul străduțelor înguste, unde casele de piatră oferă protecție împotriva ploii. La prânz ne refugiem în biserica Sf. Cosma și Damian, apoi ne încălzim cu un prânz prelungit într-o konoba primitoare. După-amiaza explorăm parcul cu sculpturi sub umbrelă, admirând marea agitată. Seara se încheie în port, unde reflexiile luminilor pe asfaltul ud creează o atmosferă melancolică.",
-            "en": "Morning in Fažana's old town starts under the shelter of narrow alleys where stone houses protect from the drizzle. At noon, we find refuge among the frescoes of St. Cosmas and Damian church, followed by a long, warming lunch in a local tavern. In the afternoon, we stroll through the sculpture park with umbrellas, watching the waves crash. The evening concludes at the harbor, where the rain-slicked stones and stormy sea offer a dramatic backdrop."
+            "en": "Morning in Fažana's old town starts under the shelter of narrow alleys where stone houses protect from the drizzle. At noon, we find refuge among the frescoes of St. Cosmas and Damian church, followed by a long, warming lunch in a local tavern. In the afternoon, we stroll through the sculpture park with umbrellas, watching the waves crash. The evening concludes at the harbor, where the rain-slicked stones and stormy sea offer a dramatic backdrop.",
+            "hr": "Kišno jutro u starom gradu Fažane počinje pod zaštitom uskih ulica gdje kamene kuće štite od kišice. U podne tražimo utočište među freskama crkve sv. Kuzme i Damjana, nakon čega slijedi dugi, topli ručak u lokalnoj konobi. Poslijepodne šetamo parkom skulptura pod kišobranom, gledajući valove. Večer završava u luci, gdje mokri kamen i uzburkano more stvaraju dramatičnu atmosferu."
           },
           "stops": [
             {
@@ -264,7 +296,8 @@
                 "de": "Tragen Sie rutschfeste Schuhe auf dem glatten Kopfsteinpflaster.",
                 "hu": "Viseljen csúszásmentes cipőt a síkos macskaköveken.",
                 "ro": "Purtați încălțăminte antiderapantă pe pietrele lustruite de ploaie.",
-                "en": "Wear non-slip shoes on the slippery rain-slicked cobblestones."
+                "en": "Wear non-slip shoes on the slippery rain-slicked cobblestones.",
+                "hr": "Nosite obuću koja se ne skliže na mokroj kaldrmi."
               }
             },
             {
@@ -273,7 +306,8 @@
                 "de": "Perfekter Ort, um die 15. Jahrhundert-Fresken im Trockenen zu bewundern.",
                 "hu": "Tökéletes hely a 15. századi freskók megtekintésére a szárazban.",
                 "ro": "Locul ideal pentru a admira frescele din secolul XV la adăpost.",
-                "en": "A perfect spot to admire 15th-century frescoes while staying dry."
+                "en": "A perfect spot to admire 15th-century frescoes while staying dry.",
+                "hr": "Savršeno mjesto za divljenje freskama iz 15. stoljeća na suhom."
               }
             },
             {
@@ -282,7 +316,8 @@
                 "de": "Ein stabiler Regenschirm ist wegen des Küstenwindes ratsam.",
                 "hu": "Az erős tengeri szél miatt stabil esernyő javasolt.",
                 "ro": "O umbrelă rezistentă este necesară din cauza vântului de coastă.",
-                "en": "A sturdy umbrella is recommended due to coastal wind gusts."
+                "en": "A sturdy umbrella is recommended due to coastal wind gusts.",
+                "hr": "Preporučuje se čvrst kišobran zbog naleta vjetra uz obalu."
               }
             },
             {
@@ -291,7 +326,8 @@
                 "de": "Bestellen Sie Maneštra, einen herzhaften istrischen Eintopf.",
                 "hu": "Rendeljen Maneštrát, egy kiadós isztriai egytálételt.",
                 "ro": "Comandați Maneštra, o tocană istriană consistentă și caldă.",
-                "en": "Order Maneštra, a hearty Istrian stew to warm up."
+                "en": "Order Maneštra, a hearty Istrian stew to warm up.",
+                "hr": "Naručite maneštru, krepko istarsko varivo za zagrijavanje."
               }
             },
             {
@@ -300,7 +336,8 @@
                 "de": "Kurzer Spaziergang zwischen den Werken, der Kiesweg ist gut begehbar.",
                 "hu": "Rövid séta a művek között, a kavicsos út esőben is járható.",
                 "ro": "O scurtă plimbare printre sculpturi; aleile cu pietriș sunt accesibile.",
-                "en": "A quick walk among sculptures; the gravel path handles rain well."
+                "en": "A quick walk among sculptures; the gravel path handles rain well.",
+                "hr": "Kratka šetnja među skulpturama; šljunčana staza dobro podnosi kišu."
               }
             },
             {
@@ -309,7 +346,8 @@
                 "de": "Beobachten Sie das stürmische Meer von einer überdachten Terrasse.",
                 "hu": "Figyelje a viharos tengert egy fedett terasz védelméből.",
                 "ro": "Admirați marea agitată de sub o terasă acoperită.",
-                "en": "Watch the stormy sea from the safety of a covered terrace."
+                "en": "Watch the stormy sea from the safety of a covered terrace.",
+                "hr": "Gledajte nemirno more sa sigurne natkrivene terase."
               }
             },
             {
@@ -318,7 +356,8 @@
                 "de": "Genießen Sie die dramatischen Wolkenformationen über dem Wasser.",
                 "hu": "Élvezze a drámai felhőalakzatokat a víz felett.",
                 "ro": "Bucurați-vă de formațiunile dramatice de nori deasupra apei.",
-                "en": "Enjoy the dramatic cloud formations over the dark Adriatic."
+                "en": "Enjoy the dramatic cloud formations over the dark Adriatic.",
+                "hr": "Uživajte u dramatičnim formacijama oblaka nad tamnim Jadranom."
               }
             }
           ],
@@ -350,6 +389,13 @@
               "Choose a konoba with a fireplace for maximum coziness.",
               "A high-quality rain poncho protects better against wind than an umbrella.",
               "Take advantage of rain lulls to photograph the glistening harbor."
+            ],
+            "hr": [
+              "Posjetite mali ribarski muzej 'Kuća o srdeli' za kulturu u zatvorenom.",
+              "Kameni opločnici u starom gradu postaju vrlo skliski kad su mokri.",
+              "Odaberite konobu s kaminom za maksimalnu udobnost.",
+              "Kvalitetna kabanica štiti bolje od vjetra nego kišobran.",
+              "Iskoristite zatišja u kiši za fotografiranje sjajne luke."
             ]
           }
         },
@@ -358,7 +404,8 @@
             "de": "Ein Wintermorgen in Fažana ist frisch und ruhig, ohne die Sommermassen. Nach einem Spaziergang durch den historischen Kern besichtigen wir die Kirche, bevor uns der kalte Bura-Wind zum Hafen treibt. Das Mittagessen ist eine herzhafte Angelegenheit mit lokalen Spezialitäten. Am Nachmittag genießen wir die klare Luft im Skulpturenpark, bevor wir uns bei einem Kaffee aufwärmen. Da die Sonne bereits gegen 16:30 Uhr sinkt, erleben wir einen farbenprächtigen Wintersonnenuntergang.",
             "hu": "A téli reggel Fažanában friss és csendes, mentes a nyári tömegtől. Az óvárosi séta után meglátogatjuk a templomot, majd a hűvös Bóra szél elől a kikötő felé vesszük az irányt. Az ebéd során helyi specialitásokkal töltődünk fel. Délután a tiszta téli levegőt élvezzük a szoborparkban, mielőtt egy kávézóba húzódnánk. Mivel a nap már 16:30 körül nyugovóra tér, korán megcsodálhatjuk a színes téli naplementét.",
             "ro": "O dimineață de iarnă în Fažana este revigorantă și liniștită, fără aglomerația estivală. După o plimbare prin centrul istoric, vizităm biserica, apoi vântul Bura ne îndeamnă spre port. Prânzul este o ocazie de a savura specialități locale calde. După-amiaza ne bucurăm de aerul curat în parcul de sculpturi. Deoarece soarele apune deja în jurul orei 16:30, vom asista devreme la un apus de iarnă spectaculos de colorat.",
-            "en": "A winter morning in Fažana is crisp and quiet, free from summer crowds. After a stroll through the historic core, we visit the church before the cool Bura wind nudges us toward the harbor. Lunch is a hearty affair with local winter specialties. In the afternoon, we enjoy the clear air in the sculpture park before warming up with coffee. As the sun sets around 4:30 PM, we experience a vibrant and early winter sunset over the islands."
+            "en": "A winter morning in Fažana is crisp and quiet, free from summer crowds. After a stroll through the historic core, we visit the church before the cool Bura wind nudges us toward the harbor. Lunch is a hearty affair with local winter specialties. In the afternoon, we enjoy the clear air in the sculpture park before warming up with coffee. As the sun sets around 4:30 PM, we experience a vibrant and early winter sunset over the islands.",
+            "hr": "Zimsko jutro u Fažani je svježe i mirno, bez ljetnih gužvi. Nakon šetnje povijesnom jezgrom posjećujemo crkvu prije nego nas hladna bura usmjeri prema luci. Ručak je obilan uz lokalne zimske specijalitete. Poslijepodne uživamo na čistom zraku u parku skulptura prije zagrijavanja uz kavu. Dok sunce zalazi oko 16:30, doživljavamo živo i rano zimsko rumenilo nad otocima."
           },
           "stops": [
             {
@@ -367,7 +414,8 @@
                 "de": "Genießen Sie die Ruhe; die meisten Gassen gehören Ihnen allein.",
                 "hu": "Élvezze a csendet; a legtöbb sikátor csak az öné ilyenkor.",
                 "ro": "Bucurați-vă de liniște; străduțele sunt aproape pustii și autentice.",
-                "en": "Enjoy the tranquility; most alleys belong to you alone today."
+                "en": "Enjoy the tranquility; most alleys belong to you alone today.",
+                "hr": "Uživajte u miru; većina ulica danas pripada samo vama."
               }
             },
             {
@@ -376,7 +424,8 @@
                 "de": "Beachten Sie die Kleiderordnung, auch wenn es draußen kalt ist.",
                 "hu": "Ügyeljen az öltözékre, még ha kint hideg is van.",
                 "ro": "Respectați codul vestimentar, chiar dacă afară este frig.",
-                "en": "Maintain respectful attire inside, even if it's cold outside."
+                "en": "Maintain respectful attire inside, even if it's cold outside.",
+                "hr": "Zadržite dostojanstvenu odjeću unutra, čak i ako je vani hladno."
               }
             },
             {
@@ -385,7 +434,8 @@
                 "de": "Suchen Sie die windgeschützten Ecken, wenn die Bura weht.",
                 "hu": "Keresse a szélvédett sarkokat, ha fúj a Bóra.",
                 "ro": "Căutați locurile ferite de vânt dacă suflă Bura.",
-                "en": "Seek wind-sheltered corners if the Bura wind is blowing."
+                "en": "Seek wind-sheltered corners if the Bura wind is blowing.",
+                "hr": "Potražite kutke zaklonjene od vjetra ako puše bura."
               }
             },
             {
@@ -394,7 +444,8 @@
                 "de": "Probieren Sie Fuži mit Trüffeln – ein winterliches Highlight.",
                 "hu": "Kóstolja meg a szarvasgombás fuzit – igazi téli csemege.",
                 "ro": "Încercați Fuži cu trufe – un deliciu local perfect iarna.",
-                "en": "Try Fuži pasta with truffles – a winter culinary highlight."
+                "en": "Try Fuži pasta with truffles – a winter culinary highlight.",
+                "hr": "Probajte fuže s tartufima – zimski kulinarski vrhunac."
               }
             },
             {
@@ -403,7 +454,8 @@
                 "de": "Die klare Winterluft bietet die beste Sicht auf die Brijuni-Inseln.",
                 "hu": "A tiszta téli levegőben a legjobb a kilátás a Brijuni-szigetekre.",
                 "ro": "Aerul curat de iarnă oferă cea mai bună vizibilitate spre insulele Brijuni.",
-                "en": "Clear winter air offers the best visibility toward Brijuni islands."
+                "en": "Clear winter air offers the best visibility toward Brijuni islands.",
+                "hr": "Čisti zimski zrak nudi najbolju vidljivost prema Brijunima."
               }
             },
             {
@@ -412,7 +464,8 @@
                 "de": "Ein zügiger Strandspaziergang ersetzt das Bad im Meer.",
                 "hu": "Egy tempós tengerparti séta helyettesíti a fürdőzést.",
                 "ro": "O plimbare rapidă pe plajă înlocuiește scăldatul în mare.",
-                "en": "A brisk beach walk replaces a swim in the sea today."
+                "en": "A brisk beach walk replaces a swim in the sea today.",
+                "hr": "Brza šetnja plažom danas zamjenjuje plivanje u moru."
               }
             },
             {
@@ -421,7 +474,8 @@
                 "de": "Der Sonnenuntergang findet bereits gegen 16:30 Uhr statt.",
                 "hu": "A naplemente már 16:30 körül bekövetkezik.",
                 "ro": "Apusul are loc devreme, în jurul orei 16:30.",
-                "en": "The sunset occurs early, typically around 4:30 PM."
+                "en": "The sunset occurs early, typically around 4:30 PM.",
+                "hr": "Zalazak sunca događa se rano, obično oko 16:30."
               }
             }
           ],
@@ -453,6 +507,13 @@
               "Visit nearby Vodnjan for the mummies in the local church.",
               "Enjoy a mulled wine or hot tea directly at the harbor.",
               "The Brijuni ferry runs less frequently in winter; check schedules."
+            ],
+            "hr": [
+              "Odjenite se slojevito kako biste se zaštitili od oštre bure.",
+              "Provjerite radno vrijeme restorana jer neki idu na zimski odmor.",
+              "Posjetite obližnji Vodnjan zbog mumija u lokalnoj crkvi.",
+              "Uživajte u kuhanom vinu ili toplom čaju izravno u luci.",
+              "Brod za Brijune zimi plovi rjeđe; provjerite vozni red."
             ]
           }
         }
@@ -481,7 +542,8 @@
             "de": "Fahrräder müssen in den engsten Gassen geschoben werden.",
             "hu": "A legszűkebb utcákban tolni kell a kerékpárt.",
             "ro": "Bicicletele trebuie împinse pe străzile cele mai înguste.",
-            "en": "Bicycles must be pushed in the narrowest alleys."
+            "en": "Bicycles must be pushed in the narrowest alleys.",
+            "hr": "Bicikle je potrebno gurati u najužim uličicama."
           }
         },
         {
@@ -499,7 +561,8 @@
             "de": "Parken Sie das Rad sicher vor der Kirche.",
             "hu": "Zárja le biztonságosan a bringát a templom előtt.",
             "ro": "Parcați bicicleta în siguranță în fața bisericii.",
-            "en": "Park the bike safely in front of the church."
+            "en": "Park the bike safely in front of the church.",
+            "hr": "Sigurno parkirajte bicikl ispred crkve."
           }
         },
         {
@@ -517,7 +580,8 @@
             "de": "Wunderschöner Weg entlang des Pinienwaldes.",
             "hu": "Gyönyörű út a fenyőerdő mentén.",
             "ro": "Traseu minunat de-a lungul pădurii de pini.",
-            "en": "Beautiful path along the pine forest."
+            "en": "Beautiful path along the pine forest.",
+            "hr": "Prekrasna staza uz borovu šumu."
           }
         },
         {
@@ -535,7 +599,8 @@
             "de": "Viele Strandbars bieten leichte Fischgerichte.",
             "hu": "Sok strandbár kínál könnyű halételeket.",
             "ro": "Multe baruri de plajă oferă preparate ușoare din pește.",
-            "en": "Many beach bars offer light fish dishes."
+            "en": "Many beach bars offer light fish dishes.",
+            "hr": "Mnogi barovi na plaži nude lagana riblja jela."
           }
         },
         {
@@ -553,7 +618,8 @@
             "de": "Einfach per Rad von der Hauptstraße erreichbar.",
             "hu": "Kerékpárral könnyen elérhető a főútról.",
             "ro": "Ușor accesibil cu bicicleta de la drumul principal.",
-            "en": "Easily accessible by bike from the main road."
+            "en": "Easily accessible by bike from the main road.",
+            "hr": "Lako dostupno biciklom s glavne ceste."
           }
         },
         {
@@ -571,7 +637,8 @@
             "de": "Flacher Weg direkt am Meer entlang.",
             "hu": "Sík terep közvetlenül a tengerparton.",
             "ro": "Traseu plat chiar de-a lungul mării.",
-            "en": "Flat path directly along the seashore."
+            "en": "Flat path directly along the seashore.",
+            "hr": "Ravna staza izravno uz obalu mora."
           }
         },
         {
@@ -589,7 +656,8 @@
             "de": "Ruhigerer Strandabschnitt nördlich von Fažana.",
             "hu": "Csendesebb strand szakasz Fažanától északra.",
             "ro": "Secțiune de plajă mai liniștită la nord de Fažana.",
-            "en": "Quieter beach section north of Fažana."
+            "en": "Quieter beach section north of Fažana.",
+            "hr": "Mirniji dio plaže sjeverno od Fažane."
           }
         },
         {
@@ -607,7 +675,8 @@
             "de": "Geben Sie das Mietrad hier ab und genießen Sie den Hafen.",
             "hu": "Adja le a bérelt bringát és élvezze a kikötőt.",
             "ro": "Predați bicicleta închiriată și bucurați-vă de port.",
-            "en": "Return the rental bike here and enjoy the harbour."
+            "en": "Return the rental bike here and enjoy the harbour.",
+            "hr": "Ovdje vratite unajmljeni bicikl i uživajte u luci."
           }
         }
       ],
@@ -615,7 +684,8 @@
         "de": "Mit dem Rad erkunden wir die gesamte Küstenlinie von Valbandon bis Peroj. Morgens besuchen wir den Ortskern, fahren dann südwärts durch Pinienwälder zum Mittagessen. Der Nachmittag führt uns nach Norden zum Skulpturenpark und zu einsameren Stränden. Perfekt für aktive Reisende, die mehr als nur das Dorfzentrum sehen möchten.",
         "hu": "Kerékpárral felfedezzük a teljes partvonalat Valbandontól Perojig. Reggel az óvárost látogatjuk meg, majd délnek tekerünk a fenyveseken át ebédelni. Délután észak felé vesszük az irányt a szoborparkhoz és az eldugottabb strandokhoz. Ideális azoknak, akik a faluközpontnál többet szeretnének látni.",
         "ro": "Cu bicicleta explorăm întreaga linie de coastă de la Valbandon la Peroj. Dimineața vizităm centrul, apoi pedalăm spre sud prin păduri de pini pentru prânz. După-amiaza ne îndreptăm spre nord către parcul de sculpturi și plaje mai izolate. Perfect pentru călătorii activi care vor să vadă mai mult decât centrul satului.",
-        "en": "By bike, explore the entire coastline from Valbandon to Peroj. Visit the old town in the morning, then pedal south through pine forests for lunch. The afternoon leads north to the sculpture park and more secluded beaches. Perfect for active travellers wanting to see more than just the village centre."
+        "en": "By bike, explore the entire coastline from Valbandon to Peroj. Visit the old town in the morning, then pedal south through pine forests for lunch. The afternoon leads north to the sculpture park and more secluded beaches. Perfect for active travellers wanting to see more than just the village centre.",
+        "hr": "Biciklom istražite cijelu obalu od Valbandona do Peroja. Posjetite stari grad ujutro, a zatim pedalirajte na jug kroz borovu šumu na ručak. Poslijepodne vas vodi na sjever do parka skulptura i osamljenijih plaža. Savršeno za aktivne putnike koji žele vidjeti više od samog centra mjesta."
       },
       "gastro_picks": {
         "de": [
@@ -640,6 +710,12 @@
           {
             "name": "Beach Bars",
             "tip": "Light snacks and iced coffee in Valbandon."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Beach barovi",
+            "tip": "Lagani zalogaji i ledena kava u Valbandonu."
           }
         ]
       },
@@ -671,6 +747,13 @@
             "tip": "Few pedestrians in the late afternoon.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Staza za Peroj",
+            "tip": "Malo pješaka u kasnim poslijepodnevnim satima.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -697,6 +780,12 @@
             "name": "Local Wines",
             "tip": "Wineries in the surroundings accessible by bike."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalna vina",
+            "tip": "Vinarije u okolici dostupne su biciklom."
+          }
         ]
       },
       "tips": {
@@ -715,6 +804,10 @@
         "en": [
           "The coastal path is flat and very easy to ride.",
           "Bring enough water, as there are few fountains along the way."
+        ],
+        "hr": [
+          "Obalna staza je ravna i vrlo lagana za vožnju.",
+          "Ponesite dovoljno vode jer usput ima malo javnih slavina."
         ]
       },
       "variants": {
@@ -723,7 +816,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf den Küstenwegen bei Fažana. Wir starten im historischen Kern und fahren vorsichtig nach Valbandon, wo die Gischt mit dem Regen verschmilzt. Das Mittagessen am Strand findet unter einem festen Dach statt, während wir uns stärken. Am Nachmittag führt uns der Weg durch den Skulpturenpark zurück nach Peroj, stets mit Blick auf das graue Meer. Der Tag endet an der Riva, wo wir die Fahrräder sicher abstellen.",
             "hu": "Az esőben való kerékpározás óvatosságot igényel a Fažana környéki parti utakon. Az óvárosból indulva óvatosan tekerünk Valbandon felé, ahol a tenger permete keveredik az esővel. A tengerparti ebéd tető alatt zajlik, miközben erőt gyűjtünk. Délután a szoborparkon keresztül vezet az utunk Peroj felé, szemünk előtt a szürke tengerrel. A nap a kikötőben zárul, ahol biztonságba helyezzük a bringákat.",
             "ro": "Ciclismul pe ploaie necesită prudență pe pistele de coastă din Fažana. Pornim din centrul istoric spre Valbandon, unde vaporii mării se amestecă cu picăturile de ploaie. Prânzul la plajă se ia sub un acoperiș solid pentru a ne reîncărca bateriile. După-amiaza traseul ne poartă prin parcul de sculpturi spre Peroj, cu marea gri mereu în vedere. Ziua se încheie în port, unde parcăm bicicletele în siguranță.",
-            "en": "Cycling in the rain requires caution on the coastal paths near Fažana. We start in the historic core and head carefully toward Valbandon, where sea spray mixes with the drizzle. Lunch by the beach is taken under a solid roof while we recharge. In the afternoon, the path leads through the sculpture park toward Peroj, with the grey sea always in view. The day ends at the Riva, where we safely park our bikes."
+            "en": "Cycling in the rain requires caution on the coastal paths near Fažana. We start in the historic core and head carefully toward Valbandon, where sea spray mixes with the drizzle. Lunch by the beach is taken under a solid roof while we recharge. In the afternoon, the path leads through the sculpture park toward Peroj, with the grey sea always in view. The day ends at the Riva, where we safely park our bikes.",
+            "hr": "Vožnja bicikla po kiši zahtijeva oprez na obalnim stazama oko Fažane. Krećemo iz povijesne jezgre i pažljivo idemo prema Valbandonu, gdje se morska pjena miješa s kišicom. Ručak uz plažu jedemo pod čvrstim krovom dok se odmaramo. Poslijepodne staza vodi kroz park skulptura prema Peroju, uz stalni pogled na sivo more. Dan završava na Rivi, gdje sigurno parkiramo bicikle."
           },
           "stops": [
             {
@@ -732,7 +826,8 @@
                 "de": "Vorsicht auf dem nassen Kopfsteinpflaster; Rutschgefahr!",
                 "hu": "Vigyázat a nedves macskaköveken; nagyon csúszik!",
                 "ro": "Atenție pe piatra cubică umedă; risc ridicat de derapare!",
-                "en": "Caution on wet cobblestones; high risk of slipping!"
+                "en": "Caution on wet cobblestones; high risk of slipping!",
+                "hr": "Oprez na mokroj kaldrmi; visok rizik od klizanja!"
               }
             },
             {
@@ -741,7 +836,8 @@
                 "de": "Kurze Pause im Trockenen, Fahrräder nah am Eingang parken.",
                 "hu": "Rövid szünet a szárazban, parkoljon közel a bejárathoz.",
                 "ro": "Scurtă pauză la adăpost; parcați bicicletele aproape de intrare.",
-                "en": "Short break in the dry; park bikes close to the entrance."
+                "en": "Short break in the dry; park bikes close to the entrance.",
+                "hr": "Kratka stanka na suhom; parkirajte bicikle blizu ulaza."
               }
             },
             {
@@ -750,7 +846,8 @@
                 "de": "Pfützen können tief sein; fahren Sie langsam auf dem Schotter.",
                 "hu": "A tócsák mélyek lehetnek; haladjon lassan a murvás úton.",
                 "ro": "Bălțile pot fi adânci; rulați încet pe porțiunile cu pietriș.",
-                "en": "Puddles can be deep; ride slowly on the gravel sections."
+                "en": "Puddles can be deep; ride slowly on the gravel sections.",
+                "hr": "Lokve mogu biti duboke; vozite polako na šljunčanim dijelovima."
               }
             },
             {
@@ -759,7 +856,8 @@
                 "de": "Wählen Sie ein Restaurant mit überdachtem Außenbereich.",
                 "hu": "Válasszon fedett terasszal rendelkező éttermet.",
                 "ro": "Alegeți un restaurant cu terasă acoperită și protejată.",
-                "en": "Choose a restaurant with a well-covered outdoor area."
+                "en": "Choose a restaurant with a well-covered outdoor area.",
+                "hr": "Odaberite restoran s dobro natkrivenom terasom."
               }
             },
             {
@@ -768,7 +866,8 @@
                 "de": "Die Wege sind fest, aber bei Regen etwas schlammig.",
                 "hu": "Az utak stabilak, de esőben kissé sarasak lehetnek.",
                 "ro": "Potecile sunt solide, dar pot deveni noroioase pe alocuri.",
-                "en": "Paths are solid but can be slightly muddy in the rain."
+                "en": "Paths are solid but can be slightly muddy in the rain.",
+                "hr": "Staze su čvrste, ali mogu biti pomalo blatnjave na kiši."
               }
             },
             {
@@ -777,7 +876,8 @@
                 "de": "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
                 "hu": "Használjon sárvédőt a felcsapódó víz ellen.",
                 "ro": "Folosiți aripi de protecție împotriva stropilor de noroi.",
-                "en": "Use fenders to protect yourself from road spray and mud."
+                "en": "Use fenders to protect yourself from road spray and mud.",
+                "hr": "Koristite blatobrane da se zaštitite od prskanja s ceste i blata."
               }
             },
             {
@@ -786,7 +886,8 @@
                 "de": "Kein Badetag, aber ein guter Ort für eine kurze Regenpause.",
                 "hu": "Nem fürdőidő, de jó hely egy rövid esőszünetre.",
                 "ro": "Nu e zi de baie, dar e un loc bun pentru o scurtă pauză.",
-                "en": "Not a swimming day, but a good spot for a quick rain break."
+                "en": "Not a swimming day, but a good spot for a quick rain break.",
+                "hr": "Nije dan za kupanje, ali je dobro mjesto za brzi predah od kiše."
               }
             },
             {
@@ -795,7 +896,8 @@
                 "de": "Trocknen Sie Ihr Fahrrad nach der Fahrt gut ab.",
                 "hu": "A túra után törölje szárazra a kerékpárt.",
                 "ro": "Ștergeți bine bicicleta după terminarea traseului.",
-                "en": "Dry your bike thoroughly after finishing the ride."
+                "en": "Dry your bike thoroughly after finishing the ride.",
+                "hr": "Temeljito osušite bicikl nakon završetka vožnje."
               }
             }
           ],
@@ -827,6 +929,13 @@
               "Avoid sudden braking maneuvers on slippery surfaces.",
               "A helmet with a visor helps keep your vision clear in the rain.",
               "Look for cafes with covered bike racks for short breaks."
+            ],
+            "hr": [
+              "Nosite potpuno vodootpornu odjeću i navlake za cipele.",
+              "Lagano smanjite tlak u gumama za bolje prianjanje na mokroj cesti.",
+              "Izbjegavajte nagla kočenja na skliskim površinama.",
+              "Kaciga s vizirom pomaže u održavanju vidljivosti na kiši.",
+              "Tražite kafiće s natkrivenim stalcima za bicikle za kratke stanke."
             ]
           }
         },
@@ -835,7 +944,8 @@
             "de": "Die Wintertour mit dem Rad startet frisch in Fažana. Wir erkunden die Gassen und radeln dann den Küstenweg entlang, wo uns die Meeresbrise belebt. Das Mittagessen am Strand ist ruhig, die Sonne wärmt durch die Glasfenster der Restaurants. Am Nachmittag geht es durch den Skulpturenpark nach Peroj, wobei das goldene Winterlicht die Landschaft verzaubert. Bevor die Sonne früh untergeht, kehren wir zur Riva zurück und genießen die friedliche Atmosphäre.",
             "hu": "A téli bringatúra frissen indul Fažanában. Felfedezzük a sikátorokat, majd a parti úton tekerünk, ahol a tengeri szellő élénkítő hatású. A tengerparti ebéd csendes, a nap az éttermek üvegablakain át melenget. Délután a szoborparkon át Peroj felé vesszük az irányt, az aranyló téli fényekben gyönyörködve. Mielőtt a nap korán lenyugszik, visszatérünk a kikötőbe, élvezve a békés hangulatot.",
             "ro": "Turul de iarnă cu bicicleta începe vioi în Fažana. Explorăm străduțele și apoi pedalăm pe pista de coastă, unde briza mării ne înviorează. Prânzul la plajă este liniștit, soarele încălzind prin ferestrele mari ale restaurantelor. După-amiaza trecem prin parcul de sculpturi spre Peroj, sub lumina aurie a iernii. Înainte de apusul timpuriu, revenim în port pentru a savura atmosfera pașnică.",
-            "en": "The winter bike tour starts briskly in Fažana. We explore the narrow streets and then cycle along the coastal path, where the sea breeze is invigorating. Lunch by the beach is quiet, with the sun warming through restaurant windows. In the afternoon, we head through the sculpture park toward Peroj, enchanted by the golden winter light. Before the early sunset, we return to the Riva to enjoy the peaceful harbor vibe."
+            "en": "The winter bike tour starts briskly in Fažana. We explore the narrow streets and then cycle along the coastal path, where the sea breeze is invigorating. Lunch by the beach is quiet, with the sun warming through restaurant windows. In the afternoon, we head through the sculpture park toward Peroj, enchanted by the golden winter light. Before the early sunset, we return to the Riva to enjoy the peaceful harbor vibe.",
+            "hr": "Zimska biciklistička tura počinje svježe u Fažani. Istražujemo uske ulice, a zatim vozimo obalnom stazom gdje morski povjetarac okrepljuje. Ručak uz plažu je miran, dok sunce grije kroz prozore restorana. Poslijepodne prolazimo kroz park skulptura prema Peroju, očarani zlatnim zimskim svjetlom. Prije ranog zalaska sunca vraćamo se na Rivu."
           },
           "stops": [
             {
@@ -844,7 +954,8 @@
                 "de": "Wenig Fußgänger, ideal zum langsamen Erkunden der Gassen.",
                 "hu": "Kevés a gyalogos, ideális a sikátorok lassú felfedezéséhez.",
                 "ro": "Puțini pietoni, ideal pentru explorarea lentă a centrului.",
-                "en": "Few pedestrians, ideal for slowly exploring the alleys."
+                "en": "Few pedestrians, ideal for slowly exploring the alleys.",
+                "hr": "Malo pješaka, idealno za polagano istraživanje uličica."
               }
             },
             {
@@ -853,7 +964,8 @@
                 "de": "Nutzen Sie die Kirche als Windschutz für eine kurze Rast.",
                 "hu": "Használja a templomot szélvédőként egy rövid pihenőre.",
                 "ro": "Folosiți clădirea bisericii ca paravan împotriva vântului.",
-                "en": "Use the church building as a windbreak for a short rest."
+                "en": "Use the church building as a windbreak for a short rest.",
+                "hr": "Iskoristite zgradu crkve kao zaklon od vjetra za kratki odmor."
               }
             },
             {
@@ -862,7 +974,8 @@
                 "de": "Warme Handschuhe sind wegen des kühlen Fahrtwindes wichtig.",
                 "hu": "A hűvös menetszél miatt fontos a meleg kesztyű.",
                 "ro": "Mănușile călduroase sunt esențiale din cauza vântului rece.",
-                "en": "Warm gloves are essential due to the cool headwind."
+                "en": "Warm gloves are essential due to the cool headwind.",
+                "hr": "Tople rukavice su neophodne zbog hladnog vjetra u prsa."
               }
             },
             {
@@ -871,7 +984,8 @@
                 "de": "Genießen Sie den Meerblick hinter schützenden Glasscheiben.",
                 "hu": "Élvezze a tengeri kilátást a védő üvegfalak mögül.",
                 "ro": "Bucurați-vă de vederea la mare din spatele ferestrelor.",
-                "en": "Enjoy the sea view from behind protective glass windows."
+                "en": "Enjoy the sea view from behind protective glass windows.",
+                "hr": "Uživajte u pogledu na more iza zaštitnih staklenih stijena."
               }
             },
             {
@@ -880,7 +994,8 @@
                 "de": "Das Licht am frühen Nachmittag ist ideal für Fotos.",
                 "hu": "A kora délutáni fények ideálisak a fotózáshoz.",
                 "ro": "Lumina de după-amiază este ideală pentru fotografii reușite.",
-                "en": "Early afternoon light is ideal for photography here."
+                "en": "Early afternoon light is ideal for photography here.",
+                "hr": "Rano poslijepodnevno svjetlo idealno je za fotografiranje."
               }
             },
             {
@@ -889,7 +1004,8 @@
                 "de": "Achten Sie auf Schattenstellen, die kälter sein können.",
                 "hu": "Ügyeljen az árnyékos szakaszokra, ahol hidegebb lehet.",
                 "ro": "Atenție la porțiunile umbrite, unde poate fi mult mai frig.",
-                "en": "Watch out for shaded sections which can be much colder."
+                "en": "Watch out for shaded sections which can be much colder.",
+                "hr": "Pazite na sjenovite dijelove koji mogu biti znatno hladniji."
               }
             },
             {
@@ -898,7 +1014,8 @@
                 "de": "Guter Umkehrpunkt, bevor es im Winter kühl wird.",
                 "hu": "Jó fordulópont, mielőtt este lehűlne a levegő.",
                 "ro": "Un punct bun de întoarcere înainte de răcirea serii.",
-                "en": "Good turnaround point before the evening chill sets in."
+                "en": "Good turnaround point before the evening chill sets in.",
+                "hr": "Dobra točka za okretanje prije nego što nastupi večernja hladnoća."
               }
             },
             {
@@ -907,7 +1024,8 @@
                 "de": "Beenden Sie die Tour vor 17:00 Uhr, um im Hellen zu bleiben.",
                 "hu": "Fejezze be a túrát 17:00 előtt, hogy világosban maradjon.",
                 "ro": "Încheiați turul înainte de ora 17:00 pentru a avea lumină.",
-                "en": "Finish the tour before 5 PM to stay in the daylight."
+                "en": "Finish the tour before 5 PM to stay in the daylight.",
+                "hr": "Završite turu prije 17 sati kako biste ostali na dnevnom svjetlu."
               }
             }
           ],
@@ -939,6 +1057,13 @@
               "Keep hydrated even if you don't feel thirsty in the cold.",
               "Days are short; plan your return for around 4:30 PM.",
               "A neck gaiter or buff protects your face from the chill."
+            ],
+            "hr": [
+              "Nosite windproof softshell jaknu protiv hladne bure.",
+              "Izbjegavajte kasne vožnje; temperature naglo padaju nakon zalaska.",
+              "Pijte dovoljno vode čak i ako ne osjećate žeđ na hladnoći.",
+              "Dani su kratki; planirajte povratak oko 16:30.",
+              "Marama za vrat ili buff štiti lice od hladnoće."
             ]
           }
         }
@@ -967,7 +1092,8 @@
             "de": "Parken Sie auf dem großen Hauptparkplatz.",
             "hu": "Parkoljon a nagy központi parkolóban.",
             "ro": "Parcați în marea parcare centrală.",
-            "en": "Park in the large central parking lot."
+            "en": "Park in the large central parking lot.",
+            "hr": "Parkirajte na velikom središnjem parkiralištu."
           }
         },
         {
@@ -985,7 +1111,8 @@
             "de": "Zu Fuß vom Parkplatz erreichbar.",
             "hu": "Gyalogosan elérhető a parkolóból.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking lot."
+            "en": "Accessible on foot from the parking lot.",
+            "hr": "Dostupno pješice s parkirališta."
           }
         },
         {
@@ -1003,7 +1130,8 @@
             "de": "Genießen Sie den Blick auf die Boote.",
             "hu": "Élvezze a hajók látványát.",
             "ro": "Bucurați-vă de vederea bărcilor.",
-            "en": "Enjoy the view of the boats."
+            "en": "Enjoy the view of the boats.",
+            "hr": "Uživajte u pogledu na brodice."
           }
         },
         {
@@ -1021,7 +1149,8 @@
             "de": "Wählen Sie ein Restaurant mit Meerblick.",
             "hu": "Válasszon tengerre néző éttermet.",
             "ro": "Alegeți un restaurant cu vedere la mare.",
-            "en": "Choose a restaurant with a sea view."
+            "en": "Choose a restaurant with a sea view.",
+            "hr": "Odaberite restoran s pogledom na more."
           }
         },
         {
@@ -1039,7 +1168,8 @@
             "de": "Kurze Fahrt nach Norden, Parkplätze vor Ort.",
             "hu": "Rövid autózás északra, parkolás a helyszínen.",
             "ro": "Scurtă călătorie spre nord, parcare la fața locului.",
-            "en": "Short drive north, parking available on site."
+            "en": "Short drive north, parking available on site.",
+            "hr": "Kratka vožnja prema sjeveru, parking osiguran na lokaciji."
           }
         },
         {
@@ -1057,7 +1187,8 @@
             "de": "Panoramablick über die gesamte Küste und Inseln.",
             "hu": "Panoráma kilátás az egész partra és szigetekre.",
             "ro": "Vedere panoramică asupra întregii coaste și insule.",
-            "en": "Panoramic view over the entire coast and islands."
+            "en": "Panoramic view over the entire coast and islands.",
+            "hr": "Panoramski pogled na cijelu obalu i otoke."
           }
         },
         {
@@ -1075,7 +1206,8 @@
             "de": "Großer Strand mit viel Schatten und Parkplätzen.",
             "hu": "Tágas strand sok árnyékkal és parkolóval.",
             "ro": "Plajă spațioasă cu multă umbră și parcare.",
-            "en": "Spacious beach with plenty of shade and parking."
+            "en": "Spacious beach with plenty of shade and parking.",
+            "hr": "Prostrana plaža s puno hlada i parkingom."
           }
         }
       ],
@@ -1083,7 +1215,8 @@
         "de": "Das Auto ermöglicht uns einen Besuch der Highlights von Fažana sowie einen Abstecher ins hügelige Hinterland nach Vodnjan für einen Panoramablick. Vormittags erkunden wir den Ortskern zu Fuß, mittags speisen wir am Hafen. Der Nachmittag kombiniert Kunst im Skulpturenpark mit einer entspannten Badepause im nahegelegenen Valbandon.",
         "hu": "Az autó lehetővé teszi Fažana látnivalóinak megtekintését és egy kitérőt a dombos hátországba, Vodnjanba a panoráma kedvéért. Délelőtt gyalogosan fedezzük fel az óvárost, ebéd a kikötőben. Délután a szoborpark művészetét és egy pihentető strandolást kombinálunk a közeli Valbandonban.",
         "ro": "Mașina ne permite să vizităm punctele forte din Fažana și să facem o incursiune în hinterlandul deluros la Vodnjan pentru o panoramă. Dimineața explorăm centrul pe jos, prânzul este în port. După-amiaza combină arta din parcul de sculpturi cu o pauză relaxantă de plajă în Valbandonul apropiat.",
-        "en": "The car allows us to visit Fažana's highlights and take a detour to the hilly hinterland of Vodnjan for a panorama. Explore the town centre on foot in the morning, with lunch at the harbour. The afternoon combines art in the sculpture park with a relaxing beach break in nearby Valbandon."
+        "en": "The car allows us to visit Fažana's highlights and take a detour to the hilly hinterland of Vodnjan for a panorama. Explore the town centre on foot in the morning, with lunch at the harbour. The afternoon combines art in the sculpture park with a relaxing beach break in nearby Valbandon.",
+        "hr": "Automobil nam omogućuje da posjetimo najvažnije točke Fažane i napravimo izlet u brdovito zaleđe Vodnjana zbog panorame. Ujutro istražite centar mjesta pješice, uz ručak u luci. Poslijepodne kombinira umjetnost u parku skulptura s opuštajućom pauzom na plaži u obližnjem Valbandonu."
       },
       "gastro_picks": {
         "de": [
@@ -1108,6 +1241,12 @@
           {
             "name": "Agrotourism",
             "tip": "Visit an estate in Vodnjan for Istrian prosciutto."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Agroturizam",
+            "tip": "Posjetite imanje u Vodnjanu za istarski pršut."
           }
         ]
       },
@@ -1139,6 +1278,13 @@
             "tip": "Quiet view away from the tourist crowds.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Brdo Vodnjan",
+            "tip": "Miran pogled podalje od turističkih gužvi.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1165,6 +1311,12 @@
             "name": "Oil Mills",
             "tip": "Direct olive oil sales in Vodnjan."
           }
+        ],
+        "hr": [
+          {
+            "name": "Uljare",
+            "tip": "Izravna prodaja maslinovog ulja u Vodnjanu."
+          }
         ]
       },
       "tips": {
@@ -1183,6 +1335,10 @@
         "en": [
           "In peak season, parking lots by the harbour fill up quickly.",
           "Hinterland roads are narrow, drive carefully."
+        ],
+        "hr": [
+          "U jeku sezone parkirališta uz luku se brzo pune.",
+          "Ceste u zaleđu su uske, vozite oprezno."
         ]
       },
       "variants": {
@@ -1191,7 +1347,8 @@
             "de": "Im Regen ist das Auto ideal, um Fažana und Umgebung bequem zu erkunden. Wir starten im Zentrum und parken nah an der Altstadt für einen kurzen Rundgang. Das Mittagessen genießen wir ausgiebig im Trockenen. Nachmittags fahren wir zum Skulpturenpark und setzen die Tour zum Aussichtspunkt Vodnjan fort, wo die Aussicht auf die Adria auch bei Wolken beeindruckt. Der Tag endet gemütlich am Strand von Valbandon, wo wir das Wetter sicher im Blick haben.",
             "hu": "Esőben az autó ideális Fažana és környéke kényelmes felfedezéséhez. A központban kezdünk, közel parkolva az óvároshoz egy rövid körre. Az ebédet hosszan élvezzük a szárazban. Délután a szoborparkhoz hajtunk, majd folytatjuk az utat a vodnjani kilátóhoz, ahol az Adria látványa felhős időben is lenyűgöző. A nap a valbandoni tengerparton zárul, ahol biztonságban figyelhetjük az időjárást.",
             "ro": "Pe ploaie, mașina este ideală pentru a explora Fažana și împrejurimile în confort. Începem în centru și parcăm aproape de orașul vechi pentru un tur scurt. Savurăm un prânz prelungit la adăpost. După-amiaza mergem la parcul de sculpturi și continuăm spre punctul de belvedere din Vodnjan, unde vederea spre Adriatică este impresionantă și sub nori. Ziua se încheie relaxat la plaja Valbandon.",
-            "en": "In the rain, a car is ideal for exploring Fažana and its surroundings in comfort. We start in the center, parking close to the old town for a brief tour. We enjoy a long lunch in the dry. In the afternoon, we drive to the sculpture park and continue to the Vodnjan viewpoint, where the Adriatic view is impressive even under clouds. The day ends relaxingly at Valbandon beach, watching the weather from safety."
+            "en": "In the rain, a car is ideal for exploring Fažana and its surroundings in comfort. We start in the center, parking close to the old town for a brief tour. We enjoy a long lunch in the dry. In the afternoon, we drive to the sculpture park and continue to the Vodnjan viewpoint, where the Adriatic view is impressive even under clouds. The day ends relaxingly at Valbandon beach, watching the weather from safety.",
+            "hr": "Po kiši, automobil je idealan za udobno istraživanje Fažane i okolice. Krećemo iz centra, parkirajući blizu starog grada za kratki obilazak. Uživamo u dugom ručku na suhom. Poslijepodne se vozimo do parka skulptura i nastavljamo do vidikovca u Vodnjanu, gdje je pogled na Jadran impresivan i pod oblacima. Dan završava opuštajuće na plaži Valbandon."
           },
           "stops": [
             {
@@ -1200,7 +1357,8 @@
                 "de": "Nutzen Sie den großen Parkplatz an der Uferpromenade.",
                 "hu": "Használja a tengerparti sétány melletti nagy parkolót.",
                 "ro": "Folosiți parcarea mare de lângă faleză pentru acces facil.",
-                "en": "Use the large parking lot near the waterfront for easy access."
+                "en": "Use the large parking lot near the waterfront for easy access.",
+                "hr": "Koristite veliki parking uz rivu za lakši pristup."
               }
             },
             {
@@ -1209,7 +1367,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz; Regenschirm mitnehmen.",
                 "hu": "Rövid séta a parkolótól; vigyen magával esernyőt.",
                 "ro": "Scurtă plimbare de la parcare; luați umbrela cu voi.",
-                "en": "Short walk from the parking lot; bring an umbrella."
+                "en": "Short walk from the parking lot; bring an umbrella.",
+                "hr": "Kratka šetnja od parkinga; ponesite kišobran."
               }
             },
             {
@@ -1218,7 +1377,8 @@
                 "de": "Perfekt für Fotos vom Auto aus, wenn es zu stark regnet.",
                 "hu": "Tökéletes fotózáshoz az autóból, ha túl erősen esne.",
                 "ro": "Loc ideal pentru poze din mașină dacă plouă torențial.",
-                "en": "Perfect for photos from the car if the rain gets too heavy."
+                "en": "Perfect for photos from the car if the rain gets too heavy.",
+                "hr": "Savršeno za fotografije iz auta ako kiša postane prejaka."
               }
             },
             {
@@ -1227,7 +1387,8 @@
                 "de": "Parken Sie direkt vor dem Restaurant, um trocken zu bleiben.",
                 "hu": "Parkoljon közvetlenül az étterem előtt, hogy száraz maradjon.",
                 "ro": "Parcați chiar în fața restaurantului pentru a rămâne uscat.",
-                "en": "Park right in front of the restaurant to stay dry."
+                "en": "Park right in front of the restaurant to stay dry.",
+                "hr": "Parkirajte odmah ispred restorana kako biste ostali suhi."
               }
             },
             {
@@ -1236,7 +1397,8 @@
                 "de": "Der Parkplatz direkt am Eingang ist bei Regen praktisch.",
                 "hu": "A közvetlenül a bejáratnál lévő parkoló esőben praktikus.",
                 "ro": "Parcarea de la intrare este foarte practică pe timp de ploaie.",
-                "en": "The parking lot at the entrance is very practical in the rain."
+                "en": "The parking lot at the entrance is very practical in the rain.",
+                "hr": "Parking na ulazu je vrlo praktičan po kiši."
               }
             },
             {
@@ -1245,7 +1407,8 @@
                 "de": "Die Wolken über den Brijuni-Inseln sind ein tolles Fotomotiv.",
                 "hu": "A Brijuni-szigetek feletti felhők remek fotótémát adnak.",
                 "ro": "Norii deasupra insulelor Brijuni oferă un cadru fotografic unic.",
-                "en": "Clouds over the Brijuni islands make for great photography."
+                "en": "Clouds over the Brijuni islands make for great photography.",
+                "hr": "Oblaci nad Brijunima izvrsni su za fotografiranje."
               }
             },
             {
@@ -1254,7 +1417,8 @@
                 "de": "Genießen Sie den Blick auf das stürmische Meer vom warmen Auto.",
                 "hu": "Élvezze a viharos tenger látványát a meleg autóból.",
                 "ro": "Admirați marea agitată din confortul mașinii încălzite.",
-                "en": "Watch the stormy sea from the comfort of your warm car."
+                "en": "Watch the stormy sea from the comfort of your warm car.",
+                "hr": "Gledajte uzburkano more iz udobnosti svog toplog automobila."
               }
             }
           ],
@@ -1286,6 +1450,13 @@
               "Select paved parking spots to avoid getting stuck in mud.",
               "Visit the Chiavalon olive oil center for an indoor tasting.",
               "Visibility at the Vodnjan viewpoint may be low during heavy rain."
+            ],
+            "hr": [
+              "Pazite na duboke lokve na sporednim cestama prema Vodnjanu.",
+              "Ostavite klimu uključenom ili malo otvorite prozore protiv magljenja.",
+              "Birajte asfaltirana parkirna mjesta da ne zaglavite u blatu.",
+              "Posjetite centar maslinovog ulja Chiavalon za degustaciju u zatvorenom.",
+              "Vidljivost na vidikovcu u Vodnjanu može biti slaba tijekom jake kiše."
             ]
           }
         },
@@ -1294,7 +1465,8 @@
             "de": "An einem klaren Wintertag bietet das Auto die Freiheit, Fažana und Vodnjan stressfrei zu verbinden. Wir beginnen in der Altstadt, wo das Parken im Winter kein Problem ist. Nach der Besichtigung der Kirche wärmen wir uns bei einem Mittagessen auf. Am Nachmittag fahren wir zum Aussichtspunkt Vodnjan, um das glitzernde Wintermeer zu sehen, bevor wir den Tag am ruhigen Strand von Valbandon ausklingen lassen. Die Heizung im Auto macht die Fahrten zwischen den Stopps angenehm.",
             "hu": "Egy tiszta téli napon az autó szabadságot ad, hogy Fažanát és Vodnjant stresszmentesen összekössük. Az óvárosban kezdünk, ahol a parkolás télen nem jelent gondot. A templomlátogatás után egy ebéddel melegszünk fel. Délután a vodnjani kilátóhoz hajtunk a csillogó téli tenger látványáért, majd a napot a csendes valbandoni parton zárjuk. Az autó fűtése kellemessé teszi a megállók közötti utat.",
             "ro": "Într-o zi senină de iarnă, mașina oferă libertatea de a vizita Fažana și Vodnjan fără stres. Începem în orașul vechi, unde parcarea nu este o problemă iarna. După vizitarea bisericii, ne încălzim la prânz. După-amiaza mergem la punctul de belvedere din Vodnjan pentru a vedea marea sclipitoare, apoi încheiem ziua pe plaja liniștită din Valbandon. Încălzirea din mașină face deplasarea foarte plăcută.",
-            "en": "On a clear winter day, a car gives you the freedom to link Fažana and Vodnjan stress-free. We start in the old town, where parking is easy in winter. After visiting the church, we warm up with lunch. In the afternoon, we drive to the Vodnjan viewpoint for a glimpse of the sparkling winter sea, ending the day at the quiet Valbandon beach. The car's heater makes the short trips between stops very pleasant."
+            "en": "On a clear winter day, a car gives you the freedom to link Fažana and Vodnjan stress-free. We start in the old town, where parking is easy in winter. After visiting the church, we warm up with lunch. In the afternoon, we drive to the Vodnjan viewpoint for a glimpse of the sparkling winter sea, ending the day at the quiet Valbandon beach. The car's heater makes the short trips between stops very pleasant.",
+            "hr": "Za vedrog zimskog dana, auto vam daje slobodu da bez stresa povežete Fažanu i Vodnjan. Krećemo iz starog grada, gdje je parkiranje zimi lako. Nakon posjeta crkvi, grijemo se uz ručak. Poslijepodne se vozimo do vidikovca u Vodnjanu za pogled na blještavo zimsko more, završavajući dan na mirnoj plaži Valbandon. Grijanje u autu čini kratke relacije vrlo ugodnima."
           },
           "stops": [
             {
@@ -1303,7 +1475,8 @@
                 "de": "Parkplätze sind im Winter reichlich vorhanden und oft günstiger.",
                 "hu": "Télen bőségesen van parkolóhely, és gyakran olcsóbb is.",
                 "ro": "Locurile de parcare sunt abundente iarna și adesea mai ieftine.",
-                "en": "Parking spaces are plentiful in winter and often cheaper."
+                "en": "Parking spaces are plentiful in winter and often cheaper.",
+                "hr": "Parkirnih mjesta ima napretek zimi i često su jeftinija."
               }
             },
             {
@@ -1312,7 +1485,8 @@
                 "de": "Ein ruhiger Besuch ohne die üblichen Touristengruppen.",
                 "hu": "Csendes látogatás a szokásos turistacsoportok nélkül.",
                 "ro": "O vizită liniștită, fără grupurile obișnuite de turiști.",
-                "en": "A quiet visit without the usual large tourist groups."
+                "en": "A quiet visit without the usual large tourist groups.",
+                "hr": "Miran posjet bez uobičajenih velikih turističkih grupa."
               }
             },
             {
@@ -1321,7 +1495,8 @@
                 "de": "Spaziergang entlang der Mole; warme Kleidung einplanen.",
                 "hu": "Séta a mólón; készüljön meleg ruházattal.",
                 "ro": "Plimbare pe dig; asigurați-vă că aveți haine groase.",
-                "en": "Stroll along the pier; make sure to wear warm clothing."
+                "en": "Stroll along the pier; make sure to wear warm clothing.",
+                "hr": "Prošećite molo; svakako odjenite toplu odjeću."
               }
             },
             {
@@ -1330,7 +1505,8 @@
                 "de": "Probieren Sie lokale Fleischgerichte wie Ombolo und Würstchen.",
                 "hu": "Kóstolja meg a helyi húsételeket, mint az ombolo és a kolbász.",
                 "ro": "Gustați preparatele locale din carne, precum ombolo și cârnații.",
-                "en": "Try local meat specialties like ombolo and sausages."
+                "en": "Try local meat specialties like ombolo and sausages.",
+                "hr": "Probajte lokalne mesne specijalitete poput ombola i kobasica."
               }
             },
             {
@@ -1339,7 +1515,8 @@
                 "de": "Kurzer Halt für Fotos im klaren, tiefstehenden Winterlicht.",
                 "hu": "Rövid megálló fotózásra a tiszta, alacsony téli fényben.",
                 "ro": "Oprire scurtă pentru poze în lumina clară a iernii.",
-                "en": "Short stop for photos in the clear, low winter light."
+                "en": "Short stop for photos in the clear, low winter light.",
+                "hr": "Kratko zaustavljanje za fotografije na čistom zimskom svjetlu."
               }
             },
             {
@@ -1348,7 +1525,8 @@
                 "de": "Die beste Sicht des Jahres auf das gesamte Archipel.",
                 "hu": "Az év legjobb kilátása a teljes szigetvilágra.",
                 "ro": "Cea mai bună vizibilitate din an asupra întregului arhipelag.",
-                "en": "The best visibility of the year over the entire archipelago."
+                "en": "The best visibility of the year over the entire archipelago.",
+                "hr": "Najbolja vidljivost u godini nad cijelim arhipelagom."
               }
             },
             {
@@ -1357,7 +1535,8 @@
                 "de": "Perfekter Ort für den frühen Sonnenuntergang gegen 16:30 Uhr.",
                 "hu": "Tökéletes hely a korai naplementéhez 16:30 körül.",
                 "ro": "Locul perfect pentru apusul devreme, în jurul orei 16:30.",
-                "en": "Perfect spot for the early sunset around 4:30 PM."
+                "en": "Perfect spot for the early sunset around 4:30 PM.",
+                "hr": "Savršeno mjesto za rani zalazak sunca oko 16:30."
               }
             }
           ],
@@ -1389,6 +1568,13 @@
               "Visit the traditional stone huts (kažun) near Vodnjan.",
               "Roads can be slippery in patches during early morning.",
               "Take advantage of short distances to spend more time indoors."
+            ],
+            "hr": [
+              "Provjerite tlak u gumama prije zimskih vožnji radi sigurnosti.",
+              "Nosite termosicu s toplim čajem u autu za stanke.",
+              "Posjetite tradicionalne kamene kažune u blizini Vodnjana.",
+              "Ceste mogu biti mjestimice skliske u rano jutro.",
+              "Iskoristite kratke udaljenosti kako biste više vremena proveli unutra."
             ]
           }
         }
@@ -1417,7 +1603,8 @@
             "de": "Zentrale Haltestelle für Busse aus Pula.",
             "hu": "Központi megálló a Pulából érkező buszoknak.",
             "ro": "Stație centrală pentru autobuzele din Pula.",
-            "en": "Central stop for buses from Pula."
+            "en": "Central stop for buses from Pula.",
+            "hr": "Središnje stajalište za autobuse iz Pule."
           }
         },
         {
@@ -1435,7 +1622,8 @@
             "de": "Nur wenige Schritte von der Haltestelle entfernt.",
             "hu": "Csak pár lépésre a megállótól.",
             "ro": "La doar câțiva pași de stație.",
-            "en": "Just a few steps from the bus stop."
+            "en": "Just a few steps from the bus stop.",
+            "hr": "Samo nekoliko koraka od autobusne stanice."
           }
         },
         {
@@ -1453,7 +1641,8 @@
             "de": "Besichtigung der gotischen Fresken.",
             "hu": "Gótikus freskók megtekintése.",
             "ro": "Vizitarea frescelor gotice.",
-            "en": "Viewing the Gothic frescoes."
+            "en": "Viewing the Gothic frescoes.",
+            "hr": "Razgledavanje gotičkih fresaka."
           }
         },
         {
@@ -1471,7 +1660,8 @@
             "de": "Frischer Fisch direkt von den Booten.",
             "hu": "Friss hal közvetlenül a hajókról.",
             "ro": "Pește proaspăt direct de pe bărci.",
-            "en": "Fresh fish directly from the boats."
+            "en": "Fresh fish directly from the boats.",
+            "hr": "Svježa riba izravno s brodova."
           }
         },
         {
@@ -1489,7 +1679,8 @@
             "de": "Schöner Spazierweg entlang der Küste.",
             "hu": "Szép sétaút a part mentén.",
             "ro": "Drum frumos de plimbare pe coastă.",
-            "en": "Nice walking path along the coast."
+            "en": "Nice walking path along the coast.",
+            "hr": "Lijepa pješačka staza uz obalu."
           }
         },
         {
@@ -1507,7 +1698,8 @@
             "de": "Nutzen Sie den lokalen Strandshuttle falls vorhanden.",
             "hu": "Használja a helyi strandbuszt, ha elérhető.",
             "ro": "Folosiți microbuzul de plajă local dacă este disponibil.",
-            "en": "Use the local beach shuttle if available."
+            "en": "Use the local beach shuttle if available.",
+            "hr": "Koristite lokalni shuttle do plaže ako je dostupan."
           }
         },
         {
@@ -1525,7 +1717,8 @@
             "de": "Prüfen Sie den Fahrplan der Linie 21.",
             "hu": "Ellenőrizze a 21-es busz menetrendjét.",
             "ro": "Verificați mersul autobuzului linia 21.",
-            "en": "Check the schedule of line 21."
+            "en": "Check the schedule of line 21.",
+            "hr": "Provjerite vozni red linije 21."
           }
         }
       ],
@@ -1533,7 +1726,8 @@
         "de": "Fažana ist hervorragend mit dem Bus 21 von Pula aus erreichbar. Vom Hafen-Terminal aus erkunden wir den historischen Kern und die Kirche. Nach einem ausgiebigen Mittagessen spazieren wir gemütlich am Meer entlang zum Skulpturenpark und genießen den Nachmittag am Strand von Pineta, bevor es per Transit zurückgeht.",
         "hu": "Fažana kiválóan elérhető a 21-es busszal Pulából. A kikötői megállótól felfedezzük a történelmi magot és a templomot. Egy kiadós ebéd után kényelmesen elsétálunk a tenger mentén a szoborparkhoz, és a délutánt a Pineta strandon élvezzük, mielőtt visszaindulnánk.",
         "ro": "Fažana este ușor accesibilă cu autobuzul 21 din Pula. De la terminalul din port, explorăm nucleul istoric și biserica. După un prânz copios, ne plimbăm lejer pe malul mării spre parcul de sculpturi și ne bucurăm de după-amiază pe plaja Pineta înainte de întoarcere.",
-        "en": "Fažana is easily accessible by bus 21 from Pula. From the harbour terminal, explore the historical core and the church. After a hearty lunch, take a leisurely stroll along the sea to the sculpture park and enjoy the afternoon at Pineta beach before heading back."
+        "en": "Fažana is easily accessible by bus 21 from Pula. From the harbour terminal, explore the historical core and the church. After a hearty lunch, take a leisurely stroll along the sea to the sculpture park and enjoy the afternoon at Pineta beach before heading back.",
+        "hr": "Fažana je lako dostupna autobusom linije 21 iz Pule. S terminala u luci istražite povijesnu jezgru i crkvu. Nakon obilnog ručka, lagano prošećite uz more do parka skulptura i uživajte u poslijepodnevu na plaži Pineta prije povratka."
       },
       "gastro_picks": {
         "de": [
@@ -1558,6 +1752,12 @@
           {
             "name": "Ice Cream",
             "tip": "Many good gelaterias right on the Riva."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Sladoled",
+            "tip": "Mnogo dobrih gelateria izravno na Rivi."
           }
         ]
       },
@@ -1589,6 +1789,13 @@
             "tip": "Watch the activity of the fishing boats.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Klupe u luci",
+            "tip": "Promatrajte aktivnosti ribarskih brodica.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1616,6 +1823,12 @@
             "name": "Market Stalls",
             "tip": "Local products on the Riva in the evening."
           }
+        ],
+        "hr": [
+          {
+            "name": "Tržnica",
+            "tip": "Lokalni proizvodi na štandovima uz Rivu navečer."
+          }
         ]
       },
       "tips": {
@@ -1634,6 +1847,10 @@
         "en": [
           "Tickets can be purchased directly from the driver.",
           "Buses run until late at night in the summer."
+        ],
+        "hr": [
+          "Karte se mogu kupiti izravno kod vozača.",
+          "Autobusi ljeti voze do kasno u noć."
         ]
       },
       "variants": {
@@ -1642,7 +1859,8 @@
             "de": "Mit dem Bus erreichen wir Fažana auch im Regen bequem. Der Tag beginnt an der Riva, von wo wir schnell in die schützende Altstadt flüchten. Mittags besichtigen wir die Kirche und wärmen uns in einer Konoba am Hafen auf. Der Nachmittag führt uns zum Skulpturenpark, bevor wir uns für die Rückfahrt wieder an der Riva einfinden. Die überdachten Wartebereiche sind heute unsere besten Freunde.",
             "hu": "Busszal esőben is kényelmesen elérjük Fažanát. A nap a kikötőben kezdődik, ahonnan gyorsan az óváros védelmébe húzódunk. Délben meglátogatjuk a templomot, és a kikötői konobák egyikében melegszünk fel. Délután a szoborparkot keressük fel, mielőtt visszatérnénk a Riva-hoz a buszhoz. A fedett várók ma a legjobb barátaink.",
             "ro": "Cu autobuzul ajungem confortabil în Fažana chiar și pe ploaie. Ziua începe în port, de unde ne retragem rapid spre centrul vechi. La prânz vizităm biserica și ne încălzim într-o konoba. După-amiaza mergem spre parcul de sculpturi înainte de a ne întoarce la Riva pentru plecare. Stațiile acoperite sunt punctele noastre de reper astăzi.",
-            "en": "By bus, we reach Fažana comfortably even in the rain. The day starts at the Riva, from where we quickly seek shelter in the old town. At noon, we visit the church and warm up in a harbor tavern. The afternoon leads us to the sculpture park before returning to the Riva for the bus back. Covered waiting areas are our best friends today."
+            "en": "By bus, we reach Fažana comfortably even in the rain. The day starts at the Riva, from where we quickly seek shelter in the old town. At noon, we visit the church and warm up in a harbor tavern. The afternoon leads us to the sculpture park before returning to the Riva for the bus back. Covered waiting areas are our best friends today.",
+            "hr": "Autobusom stižemo u Fažanu udobno čak i po kiši. Dan počinje na Rivi, odakle brzo tražimo zaklon u starom gradu. U podne posjećujemo crkvu i grijemo se u lučkoj konobi. Poslijepodne nas vodi do parka skulptura prije povratka na Rivu na autobus. Natkrivena stajališta su nam danas najbolji prijatelji."
           },
           "stops": [
             {
@@ -1651,7 +1869,8 @@
                 "de": "Der Busbahnhof bietet begrenzten Schutz; Schirm parat halten.",
                 "hu": "A buszmegálló korlátozott védelmet nyújt; tartsa készen az ernyőt.",
                 "ro": "Stația oferă protecție limitată; țineți umbrela la îndemână.",
-                "en": "The bus stop offers limited shelter; keep your umbrella ready."
+                "en": "The bus stop offers limited shelter; keep your umbrella ready.",
+                "hr": "Stanica nudi ograničen zaklon; imajte kišobran spreman."
               }
             },
             {
@@ -1660,7 +1879,8 @@
                 "de": "Die schmalen Gassen bieten guten Schutz vor Wind und Regen.",
                 "hu": "A szűk sikátorok jó védelmet nyújtanak a szél és az eső ellen.",
                 "ro": "Străduțele înguste oferă protecție bună împotriva vântului.",
-                "en": "The narrow alleys offer good protection from wind and rain."
+                "en": "The narrow alleys offer good protection from wind and rain.",
+                "hr": "Uske uličice nude dobru zaštitu od vjetra i kiše."
               }
             },
             {
@@ -1669,7 +1889,8 @@
                 "de": "Ein ruhiger Ort für eine Pause während eines Schauers.",
                 "hu": "Csendes hely egy pihenőre a záporok alatt.",
                 "ro": "Un loc liniștit pentru o pauză în timpul ploii.",
-                "en": "A quiet place for a break during heavy showers."
+                "en": "A quiet place for a break during heavy showers.",
+                "hr": "Mirno mjesto za odmor tijekom jakih pljuskova."
               }
             },
             {
@@ -1678,7 +1899,8 @@
                 "de": "Wählen Sie ein Restaurant nah an der Bushaltestelle.",
                 "hu": "Válasszon éttermet közel a buszmegállóhoz.",
                 "ro": "Alegeți un restaurant aproape de stația de autobuz.",
-                "en": "Choose a restaurant close to the bus stop for convenience."
+                "en": "Choose a restaurant close to the bus stop for convenience.",
+                "hr": "Odaberite restoran blizu autobusne stanice radi praktičnosti."
               }
             },
             {
@@ -1687,7 +1909,8 @@
                 "de": "Kurzer Fußweg; achten Sie auf die Fahrzeiten der Busse.",
                 "hu": "Rövid séta; ügyeljen a buszok menetrendjére.",
                 "ro": "Plimbare scurtă; verificați orarul autobuzelor la întoarcere.",
-                "en": "Short walk; keep an eye on the bus schedule for the return."
+                "en": "Short walk; keep an eye on the bus schedule for the return.",
+                "hr": "Kratka šetnja; pripazite na vozni red za povratak."
               }
             },
             {
@@ -1696,7 +1919,8 @@
                 "de": "Die Cafés hier sind gute Unterstände bei Regen.",
                 "hu": "Az itteni kávézók jó menedéket nyújtanak az esőben.",
                 "ro": "Cafenelele de aici sunt bune puncte de adăpost pe ploaie.",
-                "en": "The cafes here serve as good shelters during rain."
+                "en": "The cafes here serve as good shelters during rain.",
+                "hr": "Kafići ovdje služe kao dobri zakloni tijekom kiše."
               }
             },
             {
@@ -1705,7 +1929,8 @@
                 "de": "Seien Sie rechtzeitig da; Busse fahren bei Regen pünktlich.",
                 "hu": "Érkezzen időben; a buszok esőben is tartják a menetrendet.",
                 "ro": "Ajungeți din timp; autobuzele respectă orarul și pe ploaie.",
-                "en": "Be on time; buses generally stick to the schedule in the rain."
+                "en": "Be on time; buses generally stick to the schedule in the rain.",
+                "hr": "Budite točni; autobusi se uglavnom drže voznog reda i po kiši."
               }
             }
           ],
@@ -1737,6 +1962,13 @@
               "Have some small change ready for the bus driver.",
               "Wait for your bus in a cafe located near the stop.",
               "Buses may experience slight delays during heavy rainfall."
+            ],
+            "hr": [
+              "Koristite aplikaciju Arriva za praćenje autobusa u stvarnom vremenu.",
+              "Kupite kartu online unaprijed ili kod vozača.",
+              "Pripremite sitan novac za vozača autobusa.",
+              "Pričekajte autobus u kafiću koji se nalazi blizu stanice.",
+              "Autobusi mogu imati manja kašnjenja tijekom jakih oborina."
             ]
           }
         },
@@ -1745,7 +1977,8 @@
             "de": "Mit dem Transit erreichen wir das winterliche Fažana stressfrei. Der Tag startet an der Riva, wo die frische Meeresbrise uns begrüßt. Nach einem Spaziergang durch die ruhige Altstadt besuchen wir die Kirche und genießen ein warmes Mittagessen. Der Nachmittag gehört dem Skulpturenpark und der Pineta, bevor wir vor Einbruch der Dunkelheit den Bus für die Rückfahrt nehmen. Im Winter ist der Bus oft leerer und sehr entspannt.",
             "hu": "Tömegközlekedéssel stresszmentesen érjük el a téli Fažanát. A nap a kikötőben indul, ahol friss tengeri szellő fogad. A csendes óvárosi séta után meglátogatjuk a templomot és megebédelünk. A délutánt a szoborparknak és a Pineta környékének szenteljük, majd sötétedés előtt buszra szállunk. Télen a buszok gyakran üresebbek és nagyon pihentetőek.",
             "ro": "Cu transportul în comun ajungem fără stres în Fažana iarna. Ziua începe în port, unde ne întâmpină briza proaspătă a mării. După o plimbare prin centrul vechi liniștit, vizităm biserica și luăm un prânz cald. După-amiaza explorăm parcul de sculpturi și zona Pineta, apoi luăm autobuzul înapoi înainte de lăsarea întunericului. Iarna, autobuzele sunt mai libere și relaxante.",
-            "en": "By transit, we reach wintery Fažana stress-free. The day starts at the Riva, greeted by a fresh sea breeze. After a stroll through the quiet old town, we visit the church and enjoy a warm lunch. The afternoon is dedicated to the sculpture park and the Pineta area before catching the bus back before dark. In winter, buses are often less crowded and very relaxing."
+            "en": "By transit, we reach wintery Fažana stress-free. The day starts at the Riva, greeted by a fresh sea breeze. After a stroll through the quiet old town, we visit the church and enjoy a warm lunch. The afternoon is dedicated to the sculpture park and the Pineta area before catching the bus back before dark. In winter, buses are often less crowded and very relaxing.",
+            "hr": "Javnim prijevozom stižemo u zimsku Fažanu bez stresa. Dan počinje na Rivi uz svjež morski povjetarac. Nakon šetnje mirnim starim gradom, posjećujemo crkvu i uživamo u toplom ručku. Poslijepodne je posvećeno parku skulptura i području Pineta prije povratka autobusom prije mraka. Zimi su autobusi često manje popunjeni i vrlo opuštajući."
           },
           "stops": [
             {
@@ -1754,7 +1987,8 @@
                 "de": "Im Winter gibt es weniger Busverbindungen; Fahrplan prüfen.",
                 "hu": "Télen kevesebb a buszjárat; ellenőrizze a menetrendet.",
                 "ro": "Iarna sunt mai puține autobuze; verificați orarul actualizat.",
-                "en": "Fewer bus connections in winter; check the schedule carefully."
+                "en": "Fewer bus connections in winter; check the schedule carefully.",
+                "hr": "Manje autobusnih veza zimi; pažljivo provjerite vozni red."
               }
             },
             {
@@ -1763,7 +1997,8 @@
                 "de": "Ein sehr authentisches Erlebnis ohne Sommertrubel.",
                 "hu": "Nagyon autentikus élmény a nyári nyüzsgés nélkül.",
                 "ro": "O experiență autentică, fără agitația specifică verii.",
-                "en": "A very authentic experience without the summer bustle."
+                "en": "A very authentic experience without the summer bustle.",
+                "hr": "Vrlo autentično iskustvo bez ljetne vreve."
               }
             },
             {
@@ -1772,7 +2007,8 @@
                 "de": "Besichtigung im Winter ist entspannt und besinnlich.",
                 "hu": "A téli látogatás nyugodt és elmélyült.",
                 "ro": "Vizita în timpul iernii este relaxantă și liniștită.",
-                "en": "Visiting in winter is relaxed and contemplative."
+                "en": "Visiting in winter is relaxed and contemplative.",
+                "hr": "Posjet zimi je opušten i kontemplativan."
               }
             },
             {
@@ -1781,7 +2017,8 @@
                 "de": "Einige Lokale haben im Winter verkürzte Öffnungszeiten.",
                 "hu": "Néhány helyen télen rövidített nyitvatartás van.",
                 "ro": "Unele localuri au program redus pe durata iernii.",
-                "en": "Some venues have shorter opening hours during winter."
+                "en": "Some venues have shorter opening hours during winter.",
+                "hr": "Neki lokali imaju kraće radno vrijeme tijekom zime."
               }
             },
             {
@@ -1790,7 +2027,8 @@
                 "de": "Genießen Sie die Ruhe im Park vor der frühen Dämmerung.",
                 "hu": "Élvezze a park nyugalmát a korai szürkület előtt.",
                 "ro": "Bucurați-vă de liniștea parcului înainte de înserare.",
-                "en": "Enjoy the park's peace before the early twilight sets in."
+                "en": "Enjoy the park's peace before the early twilight sets in.",
+                "hr": "Uživajte u miru parka prije ranog sumraka."
               }
             },
             {
@@ -1799,7 +2037,8 @@
                 "de": "Schöner Ort für einen Winterspaziergang am Meer.",
                 "hu": "Szép hely egy téli tengerparti sétához.",
                 "ro": "Un loc frumos pentru o plimbare de iarnă pe malul mării.",
-                "en": "A beautiful spot for a winter walk along the sea."
+                "en": "A beautiful spot for a winter walk along the sea.",
+                "hr": "Prekrasno mjesto za zimsku šetnju uz more."
               }
             },
             {
@@ -1808,7 +2047,8 @@
                 "de": "Letzte Busse fahren oft früher als im Sommer.",
                 "hu": "Az utolsó buszok gyakran korábban indulnak, mint nyáron.",
                 "ro": "Ultimele autobuze pleacă adesea mai devreme decât vara.",
-                "en": "Last buses often depart earlier than during the summer."
+                "en": "Last buses often depart earlier than during the summer.",
+                "hr": "Zadnji autobusi često polaze ranije nego ljeti."
               }
             }
           ],
@@ -1840,6 +2080,13 @@
               "Purchase your return tickets upon arrival if possible.",
               "Enjoy the comfort of heated buses on your way back.",
               "On Sundays, there are significantly fewer buses in winter."
+            ],
+            "hr": [
+              "Provjerite zimski vozni red za liniju 21 (Pula-Fažana).",
+              "Čekanje autobusa na otvorenom zimi može biti hladno.",
+              "Kupite povratne karte odmah po dolasku ako je moguće.",
+              "Uživajte u udobnosti grijanih autobusa na povratku.",
+              "Nedjeljom zimi vozi znatno manje autobusa."
             ]
           }
         }

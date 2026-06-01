@@ -31,7 +31,8 @@
             "de": "Die kleinste Kathedrale der Welt bewundern.",
             "hu": "Csodálja meg a világ legkisebb székesegyházát.",
             "ro": "Admirați cea mai mică catedrală din lume.",
-            "en": "Admire the smallest cathedral in the world."
+            "en": "Admire the smallest cathedral in the world.",
+            "hr": "Divite se najmanjoj katedrali na svijetu."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Die massiven korinthischen Säulenreste sehen.",
             "hu": "Nézze meg a masszív korinthoszi oszlopmaradványokat.",
             "ro": "Vedeți resturile masive de coloane corintice.",
-            "en": "See the massive Corinthian column remains."
+            "en": "See the massive Corinthian column remains.",
+            "hr": "Pogledajte ostatke masivnog korintskog stupa."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Besuch der Schatzkammer Gold und Silber von Nin.",
             "hu": "Látogasson el a Nin aranya és ezüstje kincstárba.",
             "ro": "Vizitați tezaurul Aurul și Argintul din Nin.",
-            "en": "Visit the Gold and Silver of Nin treasury."
+            "en": "Visit the Gold and Silver of Nin treasury.",
+            "hr": "Posjetite riznicu 'Zlato i srebro grada Nina'."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Den goldenen Zeh reiben für viel Glück.",
             "hu": "Dörzsölje meg az arany lábujjat a szerencséért.",
             "ro": "Frecați degetul de aur pentru noroc.",
-            "en": "Rub the golden toe for good luck."
+            "en": "Rub the golden toe for good luck.",
+            "hr": "Protrljajte zlatni palac za sreću."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Originale altkroatische Schiffe besichtigen.",
             "hu": "Tekintse meg az eredeti óhorvát hajókat.",
             "ro": "Vizitați navele vechi croate originale.",
-            "en": "See the original old Croatian ships."
+            "en": "See the original old Croatian ships.",
+            "hr": "Razgledajte originalne starohrvatske brodove."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Salzblüte als exklusives Souvenir kaufen.",
             "hu": "Vásároljon sóvirágot exkluzív ajándékként.",
             "ro": "Cumpărați floarea de sare ca suvenir exclusiv.",
-            "en": "Buy salt flower as an exclusive souvenir."
+            "en": "Buy salt flower as an exclusive souvenir.",
+            "hr": "Kupite cvijet soli kao ekskluzivni suvenir."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Heilschlamm an der Lagune ausprobieren.",
             "hu": "Próbálja ki a gyógyiszapot a lagúnánál.",
             "ro": "Încercați nămolul curativ la lagună.",
-            "en": "Try the healing mud at the lagoon."
+            "en": "Try the healing mud at the lagoon.",
+            "hr": "Isprobajte ljekovito blato u laguni."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Nin, die älteste kroatische Königsstadt, liegt auf einer winzigen Insel in einer flachen Lagune. Der Rundgang führt durch Jahrtausende der Geschichte: von römischen Tempelruinen über die winzige Heilig-Kreuz-Kirche bis hin zu den Salinen, wo seit der Antike Salz gewonnen wird. Der Tag endet perfekt am feinsandigen Königinnenstrand mit Blick auf das Velebit-Gebirge.",
         "hu": "Nin, a legősibb horvát királyi város, egy apró szigeten fekszik a sekély lagúnában. A séta évezredes történelmen vezet keresztül: a római templomromoktól a parányi Szent Kereszt-templomon át a sólepárlókig, ahol az ókor óta nyerik a sót. A nap tökéletes zárása a finomhomokos Királyné strandja, kilátással a Velebit-hegységre.",
         "ro": "Nin, cel mai vechi oraș regal croat, este situat pe o insulă minusculă într-o lagună puțin adâncă. Turul trece prin milenii de istorie: de la ruinele templului roman și micuța biserică Sfânta Cruce, până la salinele unde sarea este extrasă încă din antichitate. Ziua se încheie perfect pe plaja cu nisip fin a Reginei, cu vedere spre munții Velebit.",
-        "en": "Nin, the oldest Croatian royal city, lies on a tiny island in a shallow lagoon. The walk leads through millennia of history: from Roman temple ruins and the tiny Church of the Holy Cross to the salt pans where salt has been harvested since antiquity. The day ends perfectly at the fine sandy Queen's Beach with a view of the Velebit mountains."
+        "en": "Nin, the oldest Croatian royal city, lies on a tiny island in a shallow lagoon. The walk leads through millennia of history: from Roman temple ruins and the tiny Church of the Holy Cross to the salt pans where salt has been harvested since antiquity. The day ends perfectly at the fine sandy Queen's Beach with a view of the Velebit mountains.",
+        "hr": "Nin, najstariji hrvatski kraljevski grad, smješten je na malenom otočiću u plitkoj laguni. Šetnja vodi kroz tisućljeća povijesti: od ostataka rimskog hrama i crkvice sv. Križa do solane u kojoj se sol bere još od antike. Dan savršeno završava na pješčanoj Kraljičinoj plaži s pogledom na planinu Velebit."
       },
       "gastro_picks": {
         "de": [
@@ -188,6 +196,16 @@
           {
             "name": "Konoba Branimir",
             "tip": "Fresh fish from the Nin lagoon."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Gostionica Burela",
+            "tip": "Probajte ninski šokol, suhomesnati specijalitet iz Nina."
+          },
+          {
+            "name": "Konoba Branimir",
+            "tip": "Svježa riba iz ninske lagune."
           }
         ]
       },
@@ -239,6 +257,18 @@
             "tip": "Enjoy the sunset over the sea.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vrt crkve sv. Križa",
+            "tip": "Mirni trenuci kod najmanje katedrale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dine na Kraljičinoj plaži",
+            "tip": "Uživajte u zalasku sunca nad morem.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -281,6 +311,16 @@
             "name": "Nin Antiquarian",
             "tip": "Old maps and postcards."
           }
+        ],
+        "hr": [
+          {
+            "name": "Trgovina Solana Nin",
+            "tip": "Prirodna morska sol i kozmetika."
+          },
+          {
+            "name": "Antikvarijat Nin",
+            "tip": "Stare karte i razglednice."
+          }
         ]
       },
       "tips": {
@@ -307,6 +347,12 @@
           "Visit the salt pans in the morning for guided tours.",
           "Queen's Beach is very extensive, a parasol is advisable.",
           "Free parking is usually found slightly outside the island."
+        ],
+        "hr": [
+          "Ponesite praznu bocu za ljekovito blato.",
+          "Posjetite solanu ujutro radi stručnog vodstva.",
+          "Kraljičina plaža je vrlo prostrana, preporučuje se suncobran.",
+          "Besplatno parkiranje obično se nalazi malo izvan otoka."
         ]
       },
       "variants": {
@@ -548,7 +594,8 @@
             "de": "Morgens besuchen wir die kleinste Kathedrale der Welt und den römischen Tempel unter dem Schutz von Regenschirmen. Mittags erkunden wir die Museen von Nin, die perfekte Zuflucht vor dem kroatischen Regen bieten. Nachmittags spazieren wir kurz zum windgepeitschten Strand, um die raue Schönheit der Adria zu bewundern. Abends wärmen wir uns in einer der gemütlichen Konobas in der Altstadt bei lokalem Wein auf.",
             "hu": "Reggel esernyővel járjuk be a világ legkisebb székesegyházát és a római templom romjait. Délben Nin múzeumaiban keresünk menedéket az eső elől, elmerülve a sólepárlás és a hajózás történetében. Délután teszünk egy rövid sétát a szeles és esős Királyné-strandon, megcsodálva a tenger vadabb arcát. Az estét a városka egyik hangulatos konobájában zárjuk, helyi borok és tengeri ételek mellett.",
             "ro": "Dimineața vizităm cea mai mică catedrală din lume și templul roman sub protecția umbrelelor. La prânz explorăm muzeele din Nin, refugiul perfect împotriva ploii croate. După-amiaza ne plimbăm scurt pe plaja biciuită de vânt pentru a admira frumusețea aspră a Adriaticii. Seara ne încălzim într-una dintre tavernele primitoare din orașul vechi, savurând un vin local și preparate tradiționale.",
-            "en": "In the morning, we visit the world's smallest cathedral and the Roman temple under the protection of umbrellas. At noon, we explore the museums of Nin, providing a perfect refuge from the Croatian rain. In the afternoon, we take a short walk to the wind-swept beach to admire the raw beauty of the Adriatic. In the evening, we warm up in one of the cozy konobas in the old town with local wine."
+            "en": "In the morning, we visit the world's smallest cathedral and the Roman temple under the protection of umbrellas. At noon, we explore the museums of Nin, providing a perfect refuge from the Croatian rain. In the afternoon, we take a short walk to the wind-swept beach to admire the raw beauty of the Adriatic. In the evening, we warm up in one of the cozy konobas in the old town with local wine.",
+            "hr": "Ujutro pod kišobranima posjećujemo najmanju katedralu na svijetu i rimski hram. U podne istražujemo ninske muzeje koji pružaju savršeno utočište od hrvatske kiše. Poslijepodne kratko šetamo plažom šibanom vjetrom diveći se sirovoj ljepoti Jadrana. Navečer se grijemo uz domaće vino u jednoj od ugodnih konoba u starom gradu."
           },
           "stops": [
             {
@@ -557,7 +604,8 @@
                 "de": "Kompakter Innenraum, ideal für eine kurze Flucht vor dem Regen.",
                 "hu": "Kompakt belső tér, ideális egy rövid menekülésre az eső elől.",
                 "ro": "Interior compact, ideal pentru o scurtă evadare din ploaie.",
-                "en": "Compact interior, ideal for a short escape from the rain."
+                "en": "Compact interior, ideal for a short escape from the rain.",
+                "hr": "Kompaktan interijer, idealan za kratki bijeg od kiše."
               }
             },
             {
@@ -566,7 +614,8 @@
                 "de": "Vorsicht auf den nassen Steinen, die Oberflächen können rutschig sein.",
                 "hu": "Vigyázz a vizes köveken, a felületek nagyon csúszósak lehetnek.",
                 "ro": "Atenție pe pietrele ude, suprafețele pot fi alunecoase.",
-                "en": "Careful on the wet stones, the surfaces can be slippery."
+                "en": "Careful on the wet stones, the surfaces can be slippery.",
+                "hr": "Oprezno na mokrom kamenju, površine mogu biti skliske."
               }
             },
             {
@@ -575,7 +624,8 @@
                 "de": "Besichtigen Sie die Schatzkammer, während es draußen regnet.",
                 "hu": "Nézd meg a kincstárat, amíg odakint esik az eső.",
                 "ro": "Vizitați vistieria în timp ce afară plouă.",
-                "en": "Visit the treasury while it's raining outside."
+                "en": "Visit the treasury while it's raining outside.",
+                "hr": "Posjetite riznicu dok vani pada kiša."
               }
             },
             {
@@ -584,7 +634,8 @@
                 "de": "Reiben Sie den Zeh für Glück, auch wenn er heute nass ist.",
                 "hu": "Dörzsöld meg a lábujjat szerencséért, még ha ma vizes is.",
                 "ro": "Frecați degetul pentru noroc, chiar dacă astăzi este ud.",
-                "en": "Rub the toe for luck, even if it's wet today."
+                "en": "Rub the toe for luck, even if it's wet today.",
+                "hr": "Protrljajte palac za sreću, čak i ako je danas mokar."
               }
             },
             {
@@ -593,7 +644,8 @@
                 "de": "Ein hervorragender Ort, um trocken zu bleiben und Geschichte zu lernen.",
                 "hu": "Kiváló hely, hogy szárazon maradj és történelmet tanulj.",
                 "ro": "Un loc excelent pentru a rămâne uscat și a învăța istorie.",
-                "en": "An excellent place to stay dry and learn history."
+                "en": "An excellent place to stay dry and learn history.",
+                "hr": "Izvrsno mjesto za ostati suh i naučiti povijest."
               }
             },
             {
@@ -602,7 +654,8 @@
                 "de": "Der Shop und das Museum sind überdacht und sehr informativ.",
                 "hu": "A bolt és a múzeum fedett és nagyon informatív.",
                 "ro": "Magazinul și muzeul sunt acoperite și foarte informative.",
-                "en": "The shop and museum are covered and very informative."
+                "en": "The shop and museum are covered and very informative.",
+                "hr": "Trgovina i muzej su natkriveni i vrlo informativni."
               }
             },
             {
@@ -611,7 +664,8 @@
                 "de": "Der Heilschlamm ist bei Regen nass, genießen Sie lieber die Brandung.",
                 "hu": "A gyógyiszap esőben ázik, inkább csak a hullámzást élvezd.",
                 "ro": "Nămolul curativ este ud, bucurați-vă mai degrabă de valuri.",
-                "en": "The healing mud is wet in the rain, better enjoy the surf."
+                "en": "The healing mud is wet in the rain, better enjoy the surf.",
+                "hr": "Ljekovito blato je mokro na kiši, bolje uživajte u valovima."
               }
             }
           ],
@@ -639,6 +693,12 @@
               "The museums in Nin are small but provide good shelter from rain.",
               "A sturdy umbrella is essential due to coastal winds.",
               "The bridges to the old town can be slippery when wet."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću za kamene ulice.",
+              "Muzeji u Ninu su mali, ali pružaju dobar zaklon od kiše.",
+              "Zbog obalnog vjetra potreban je čvrst kišobran.",
+              "Mostovi koji vode do starog grada mogu biti skliski kad su mokri."
             ]
           }
         },
@@ -647,7 +707,8 @@
             "de": "Am Morgen erleben wir die stille Atmosphäre der historischen Altstadt in der kühlen Winterluft. Mittags wärmen wir uns in den Museen auf, die auch in der Nebensaison einen Einblick in die reiche Kultur bieten. Am Nachmittag genießen wir den weiten Blick am leeren Königinnenstrand, bevor die Sonne früh untergeht. Den Abend verbringen wir bei einem herzhaften kroatischen Eintopf in einem der wenigen ganzjährig geöffneten Restaurants.",
             "hu": "Reggel a történelmi óváros csendes hangulatát élvezzük a hűvös téli levegőben. Délben a múzeumokban melegszünk fel, amelyek a holtszezonban is bepillantást engednek a gazdag kultúrába. Délután a kihalt Királyné-strand tágas látványát csodáljuk meg a korai naplemente előtt. Az estét egy laktató horvát egytálétellel zárjuk az egész évben nyitva tartó kevés étterem egyikében.",
             "ro": "Dimineața experimentăm atmosfera liniștită a orașului vechi istoric în aerul rece de iarnă. La prânz ne încălzim în muzee, care oferă o perspectivă asupra culturii bogate chiar și în extrasezon. După-amiaza ne bucurăm de vederea panoramică a plajei pustii, înainte ca soarele să apună devreme. Seara o petrecem cu o tocană croată consistentă într-unul dintre puținele restaurante deschise tot anul.",
-            "en": "In the morning, we experience the quiet atmosphere of the historic old town in the cool winter air. At noon, we warm up in the museums, which offer insight into the rich culture even in the off-season. In the afternoon, we enjoy the vast view of the empty Queen's Beach before the sun sets early. We spend the evening with a hearty Croatian stew in one of the few restaurants open year-round."
+            "en": "In the morning, we experience the quiet atmosphere of the historic old town in the cool winter air. At noon, we warm up in the museums, which offer insight into the rich culture even in the off-season. In the afternoon, we enjoy the vast view of the empty Queen's Beach before the sun sets early. We spend the evening with a hearty Croatian stew in one of the few restaurants open year-round.",
+            "hr": "Ujutro doživljavamo mirnu atmosferu povijesne jezgre na svježem zimskom zraku. U podne se grijemo u muzejima koji nude uvid u bogatu kulturu i izvan sezone. Poslijepodne uživamo u prostranom pogledu na praznu Kraljičinu plažu prije ranog zalaska sunca. Večer provodimo uz krepko hrvatsko varivo u jednom od rijetkih restorana otvorenih cijele godine."
           },
           "stops": [
             {
@@ -656,7 +717,8 @@
                 "de": "Die Steinmauern sind im Winter sehr kalt, ziehen Sie sich warm an.",
                 "hu": "A kőfalak télen nagyon hidegek, öltözz fel jól.",
                 "ro": "Zidurile de piatră sunt foarte reci iarna, îmbrăcați-vă gros.",
-                "en": "The stone walls are very cold in winter, dress warmly."
+                "en": "The stone walls are very cold in winter, dress warmly.",
+                "hr": "Kameni zidovi su zimi vrlo hladni, toplo se odjenite."
               }
             },
             {
@@ -665,7 +727,8 @@
                 "de": "Das Winterlicht eignet sich hervorragend für dramatische Fotos.",
                 "hu": "A téli fények kiválóak a drámai fotókhoz.",
                 "ro": "Lumina de iarnă este excelentă pentru fotografii dramatice.",
-                "en": "The winter light is excellent for dramatic photos."
+                "en": "The winter light is excellent for dramatic photos.",
+                "hr": "Zimsko svjetlo izvrsno je za dramatične fotografije."
               }
             },
             {
@@ -674,7 +737,8 @@
                 "de": "Ein ruhiger Ort für Besinnung abseits der Sommermassen.",
                 "hu": "Csendes hely az elmélkedésre a nyári tömeg után.",
                 "ro": "Un loc liniștit pentru reflecție departe de mulțimea de vară.",
-                "en": "A quiet place for reflection away from summer crowds."
+                "en": "A quiet place for reflection away from summer crowds.",
+                "hr": "Mirno mjesto za razmišljanje daleko od ljetnih gužvi."
               }
             },
             {
@@ -683,7 +747,8 @@
                 "de": "Keine Wartezeiten beim Glücksbringen im Winter.",
                 "hu": "Télen nincs várakozási idő a szerencsehozó lábujjnál.",
                 "ro": "Nu există timp de așteptare pentru noroc în timpul iernii.",
-                "en": "No waiting times for bringing luck in winter."
+                "en": "No waiting times for bringing luck in winter.",
+                "hr": "Zimi nema čekanja u redu za donošenje sreće."
               }
             },
             {
@@ -692,7 +757,8 @@
                 "de": "Angenehm temperierter Innenraum zur Aufwärmung.",
                 "hu": "Kellemes hőmérsékletű belső tér a felmelegedéshez.",
                 "ro": "Spațiu interior cu temperatură plăcută pentru încălzire.",
-                "en": "Pleasantly tempered interior for warming up."
+                "en": "Pleasantly tempered interior for warming up.",
+                "hr": "Ugodno ugrijan interijer za zagrijavanje."
               }
             },
             {
@@ -701,7 +767,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vor Ihrem Besuch.",
                 "hu": "Látogatás előtt ellenőrizd a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă înainte de vizită.",
-                "en": "Check winter opening hours before your visit."
+                "en": "Check winter opening hours before your visit.",
+                "hr": "Provjerite zimsko radno vrijeme prije posjeta."
               }
             },
             {
@@ -710,7 +777,8 @@
                 "de": "Perfekt für einen erfrischenden, einsamen Winterspaziergang.",
                 "hu": "Tökéletes egy frissítő, magányos téli sétához.",
                 "ro": "Perfect pentru o plimbare de iarnă răcoritoare și solitară.",
-                "en": "Perfect for a refreshing, solitary winter walk."
+                "en": "Perfect for a refreshing, solitary winter walk.",
+                "hr": "Savršeno za osvježavajuću, samotnu zimsku šetnju."
               }
             }
           ],
@@ -738,6 +806,12 @@
               "Many cafes have limited opening hours in winter.",
               "Windproof clothing protects against the cold Bura wind.",
               "Nin is very peaceful and almost deserted in winter."
+            ],
+            "hr": [
+              "Zimi sunce zalazi oko 16:30.",
+              "Mnogi kafići imaju ograničeno radno vrijeme zimi.",
+              "Odjeća otporna na vjetar štiti od hladne bure.",
+              "Nin je zimi vrlo miran i gotovo pust."
             ]
           }
         }
@@ -766,7 +840,8 @@
             "de": "Die markante Kirche auf dem Hügel Prahulje.",
             "hu": "A jellegzetes templom a Prahulje-dombon.",
             "ro": "Biserica distinctivă de pe dealul Prahulje.",
-            "en": "The distinctive church on Prahulje hill."
+            "en": "The distinctive church on Prahulje hill.",
+            "hr": "Karakteristična crkvica na brdu Prahulje."
           }
         },
         {
@@ -784,7 +859,8 @@
             "de": "Kurzer Stopp im Zentrum der Altstadt.",
             "hu": "Rövid megálló az óváros központjában.",
             "ro": "Scurtă oprire în centrul orașului vechi.",
-            "en": "Short stop in the center of the old town."
+            "en": "Short stop in the center of the old town.",
+            "hr": "Kratko zaustavljanje u centru starog grada."
           }
         },
         {
@@ -802,7 +878,8 @@
             "de": "Einfache Fahrt entlang der Lagune.",
             "hu": "Könnyű tekerés a lagúna mentén.",
             "ro": "O plimbare ușoară de-a lungul lagunei.",
-            "en": "Easy ride along the lagoon."
+            "en": "Easy ride along the lagoon.",
+            "hr": "Lagana vožnja uz lagunu."
           }
         },
         {
@@ -820,7 +897,8 @@
             "de": "Fahrrad abstellen und den Segen abholen.",
             "hu": "Tegye le a biciklit és kérjen áldást.",
             "ro": "Lăsați bicicleta și luați binecuvântarea.",
-            "en": "Park the bike and get the blessing."
+            "en": "Park the bike and get the blessing.",
+            "hr": "Parkirajte bicikl i primite blagoslov."
           }
         },
         {
@@ -838,7 +916,8 @@
             "de": "Mit dem Rad bis zum Schlamm-Bereich fahren.",
             "hu": "Biciklizzen el egészen az iszapos részig.",
             "ro": "Mergeți cu bicicleta până la zona cu nămol.",
-            "en": "Cycle right up to the mud area."
+            "en": "Cycle right up to the mud area.",
+            "hr": "Biciklirajte skroz do područja s blatom."
           }
         }
       ],
@@ -846,7 +925,8 @@
         "de": "Die Fahrradtour um Nin führt durch die flache, faszinierende Lagunenlandschaft. Der Weg beginnt bei der ikonischen St. Nikolaus-Kirche, die einsam auf einem Hügel thront. Von dort geht es zurück in die Königsstadt Nin, vorbei an den Salinen und antiken Tempeln, bis man schließlich die Weite des Königinnenstrandes erreicht. Eine perfekte Route für Genussradler ohne große Steigungen.",
         "hu": "A Nin körüli kerékpártúra a lapos, lenyűgöző lagúnatájat járja be. Az út az ikonikus Szent Miklós-templomnál kezdődik, amely magányosan trónol egy dombon. Innen visszafordulunk Nin királyi városába, elhaladva a sólepárlók és ókori templomok mellett, mígnem elérjük a Királyné strandjának tágasságát. Tökéletes útvonal a nagy emelkedőket kerülni vágyó bringásoknak.",
         "ro": "Turul cu bicicleta în jurul Nin trece prin peisajul plat și fascinant al lagunei. Drumul începe la emblematica biserică Sfântul Nicolae, care tronează singură pe un deal. De acolo, vă întoarceți în orașul regal Nin, trecând pe lângă saline și temple antice, până când ajungeți în cele din urmă la întinderea Plajei Reginei. O rută perfectă pentru bicicliștii amatori, fără pante mari.",
-        "en": "The bike tour around Nin leads through the flat, fascinating lagoon landscape. The path begins at the iconic St. Nicholas Church, perched lonely on a hill. From there, it goes back into the royal city of Nin, passing the salt pans and ancient temples, until you finally reach the vastness of Queen's Beach. A perfect route for leisure cyclists without major inclines."
+        "en": "The bike tour around Nin leads through the flat, fascinating lagoon landscape. The path begins at the iconic St. Nicholas Church, perched lonely on a hill. From there, it goes back into the royal city of Nin, passing the salt pans and ancient temples, until you finally reach the vastness of Queen's Beach. A perfect route for leisure cyclists without major inclines.",
+        "hr": "Biciklistička tura oko Nina vodi kroz ravničarski, fascinantan krajolik lagune. Staza počinje kod legendarne crkve sv. Nikole, koja usamljeno stoji na brežuljku. Odande se vraća u kraljevski grad Nin, prolazeći pored solane i antičkih hramova, dok konačno ne stigne do prostranstva Kraljičine plaže. Savršena ruta za rekreativce bez velikih uspona."
       },
       "gastro_picks": {
         "de": [
@@ -871,6 +951,12 @@
           {
             "name": "Beach Bar Sabun",
             "tip": "Refreshing drinks after the tour."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Beach Bar Sabun",
+            "tip": "Osvježavajuća pića nakon ture."
           }
         ]
       },
@@ -902,6 +988,13 @@
             "tip": "View over the entire Nin plain.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Brdo Prahulje",
+            "tip": "Pogled na cijelu ninsku ravnicu.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -927,6 +1020,12 @@
           {
             "name": "Nin Bike Rental",
             "tip": "Local cycling maps available."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Najam bicikala Nin",
+            "tip": "Dostupne lokalne biciklističke karte."
           }
         ]
       },
@@ -954,6 +1053,12 @@
           "Watch out for the wind, which can be strong in the lagoon.",
           "A lock for the bike is necessary in the old town.",
           "Combine the ride with a picnic at St. Nicholas."
+        ],
+        "hr": [
+          "Staze su uglavnom asfaltirane ili dobro utabane.",
+          "Pripazite na vjetar koji u laguni može biti jak.",
+          "U starom gradu neophodan je lokot za bicikl.",
+          "Kombinirajte vožnju s piknikom kod sv. Nikole."
         ]
       },
       "variants": {
@@ -1125,7 +1230,8 @@
             "de": "Wir radeln vorsichtig zur St.-Nikolaus-Kirche, während der Regen die Landschaft in sattes Grün taucht. Den Mittag verbringen wir im Schutze der Museen in der Altstadt, um der Nässe zu entfliehen. Nachmittags fahren wir trotz Regens zum Strand, um die dramatische Wolkenstimmung über dem Meer zu erleben. Abends kehren wir durchnässt, aber zufrieden in unser Quartier zurück und genießen lokale Spezialitäten.",
             "hu": "Óvatosan tekerünk a Szent Miklós-templomhoz, miközben az eső mélyzöldre festi a tájat. A delet az óváros múzeumaiban töltjük, menekülve a nedvesség elől. Délután az eső ellenére kimegyünk a strandra, hogy lássuk a tenger feletti drámai felhőket. Este ázottan, de elégedetten térünk vissza a szállásra, és helyi specialitásokat kóstolunk.",
             "ro": "Pedalăm cu atenție spre biserica Sf. Nicolae, în timp ce ploaia colorează peisajul într-un verde crud. Prânzul îl petrecem la adăpostul muzeelor din orașul vechi pentru a scăpa de umezeală. După-amiaza mergem la plajă în ciuda ploii pentru a vedea norii dramatici de deasupra mării. Seara ne întoarcem udați, dar mulțumiți, și savurăm specialități locale.",
-            "en": "We cycle carefully to St. Nicholas Church while the rain paints the landscape in deep green. We spend midday sheltered in the old town museums to escape the wetness. In the afternoon, despite the rain, we ride to the beach to see the dramatic cloud formations over the sea. In the evening, we return soaked but satisfied and enjoy local specialties."
+            "en": "We cycle carefully to St. Nicholas Church while the rain paints the landscape in deep green. We spend midday sheltered in the old town museums to escape the wetness. In the afternoon, despite the rain, we ride to the beach to see the dramatic cloud formations over the sea. In the evening, we return soaked but satisfied and enjoy local specialties.",
+            "hr": "Pažljivo bicikliramo do crkve sv. Nikole dok kiša boji krajolik u duboko zelenu. Podne provodimo u zaklonu muzeja u starom gradu kako bismo pobjegli od vlage. Poslijepodne se, unatoč kiši, vozimo do plaže kako bismo vidjeli dramatične formacije oblaka nad morem. Navečer se vraćamo pokisli, ali zadovoljni i uživamo u lokalnim specijalitetima."
           },
           "stops": [
             {
@@ -1134,7 +1240,8 @@
                 "de": "Der Hügel kann rutschig sein, schieben Sie das Rad das letzte Stück.",
                 "hu": "A domb csúszós lehet, az utolsó szakaszon told a biciklit.",
                 "ro": "Dealul poate fi alunecos, împingeți bicicleta pe ultima porțiune.",
-                "en": "The hill can be slippery, push your bike for the last stretch."
+                "en": "The hill can be slippery, push your bike for the last stretch.",
+                "hr": "Brdo može biti sklisko, gurajte bicikl zadnji dio puta."
               }
             },
             {
@@ -1143,7 +1250,8 @@
                 "de": "Nutzen Sie den Kircheneingang als kurzen Unterstand.",
                 "hu": "Használd a templombejáratot rövid menedékként.",
                 "ro": "Folosiți intrarea bisericii ca adăpost scurt.",
-                "en": "Use the church entrance as a short shelter."
+                "en": "Use the church entrance as a short shelter.",
+                "hr": "Iskoristite ulaz u crkvu kao kratki zaklon."
               }
             },
             {
@@ -1152,7 +1260,8 @@
                 "de": "Überdachte Fahrradständer sind hier leider Mangelware.",
                 "hu": "A fedett biciklitároló itt sajnos ritkaság.",
                 "ro": "Rafturile de biciclete acoperite sunt rare aici.",
-                "en": "Covered bike racks are unfortunately scarce here."
+                "en": "Covered bike racks are unfortunately scarce here.",
+                "hr": "Natkriveni stalci za bicikle ovdje su nažalost rijetki."
               }
             },
             {
@@ -1161,7 +1270,8 @@
                 "de": "Kurzer Stopp, das Metall der Statue ist bei Regen glatt.",
                 "hu": "Rövid megálló, a szobor féme csúszós az esőben.",
                 "ro": "Oprire scurtă, metalul statuii este alunecos în ploaie.",
-                "en": "Short stop, the statue's metal is slippery in the rain."
+                "en": "Short stop, the statue's metal is slippery in the rain.",
+                "hr": "Kratko zaustavljanje, metal kipa je skliski na kiši."
               }
             },
             {
@@ -1170,7 +1280,8 @@
                 "de": "Die Sandwege werden bei Regen matschig, bleiben Sie auf festem Boden.",
                 "hu": "A homokos utak sárossá válnak, maradj a szilárd talajon.",
                 "ro": "Potecile de nisip devin noroioase, rămâneți pe teren solid.",
-                "en": "Sandy paths become muddy in the rain, stay on firm ground."
+                "en": "Sandy paths become muddy in the rain, stay on firm ground.",
+                "hr": "Pješčane staze na kiši postaju blatnjave, ostanite na čvrstom tlu."
               }
             }
           ],
@@ -1198,6 +1309,12 @@
               "A poncho is more effective than an umbrella while cycling.",
               "Check your brakes before setting off in the rain.",
               "Bike lighting is mandatory in poor visibility."
+            ],
+            "hr": [
+              "Izbjegavajte naglo kočenje na mokrom asfaltu.",
+              "Kabanica je učinkovitija od kišobrana tijekom vožnje.",
+              "Prije polaska na kišu provjerite kočnice.",
+              "Svjetla na biciklu su obavezna u uvjetima loše vidljivosti."
             ]
           }
         },
@@ -1206,7 +1323,8 @@
             "de": "Ein erfrischender Wintermorgen auf dem Rad führt uns zur einsamen St.-Nikolaus-Kirche. Mittags erkunden wir die Altstadt, wo die Museen eine willkommene Aufwärmpause bieten. Am Nachmittag radeln wir entlang der Lagune, die im Winterlicht besonders klar wirkt. Wir beenden die Tour rechtzeitig vor Sonnenuntergang und genießen den Abend in einer warmen Gaststube.",
             "hu": "Egy frissítő téli reggel a biciklin a magányos Szent Miklós-templomhoz vezet. Délben az óvárost fedezzük fel, ahol a múzeumok kellemes pihenőt nyújtanak. Délután a lagúna mentén tekerünk, amely a téli fényben különösen tiszta. A túrát még naplemente előtt befejezzük, és az estét egy meleg vendéglőben töltjük.",
             "ro": "O dimineață răcoritoare de iarnă pe bicicletă ne duce la biserica solitară Sf. Nicolae. La prânz explorăm orașul vechi, unde muzeele oferă o pauză de încălzire binevenită. După-amiaza pedalăm de-a lungul lagunei, care pare deosebit de clară în lumina iernii. Încheiem turul înainte de apus și ne bucurăm de seară într-o tavernă caldă.",
-            "en": "A refreshing winter morning on the bike leads us to the lonely St. Nicholas Church. At noon, we explore the old town, where the museums offer a welcome warming break. In the afternoon, we cycle along the lagoon, which looks particularly clear in the winter light. We finish the tour well before sunset and enjoy the evening in a warm inn."
+            "en": "A refreshing winter morning on the bike leads us to the lonely St. Nicholas Church. At noon, we explore the old town, where the museums offer a welcome warming break. In the afternoon, we cycle along the lagoon, which looks particularly clear in the winter light. We finish the tour well before sunset and enjoy the evening in a warm inn.",
+            "hr": "Osvježavajuće zimsko jutro na biciklu vodi nas do usamljene crkve sv. Nikole. U podne istražujemo stari grad, gdje muzeji nude dobrodošlu pauzu za zagrijavanje. Poslijepodne bicikliramo uz lagunu koja izgleda posebno bistro na zimskom svjetlu. Turu završavamo znatno prije zalaska sunca i uživamo u večeri u toploj gostionici."
           },
           "stops": [
             {
@@ -1215,7 +1333,8 @@
                 "de": "Der Wind auf dem Hügel kann im Winter schneidend kalt sein.",
                 "hu": "A dombon a szél télen metszően hideg lehet.",
                 "ro": "Vântul de pe deal poate fi tăios de rece iarna.",
-                "en": "The wind on the hill can be biting cold in winter."
+                "en": "The wind on the hill can be biting cold in winter.",
+                "hr": "Vjetar na brdu zimi može biti prodorno hladan."
               }
             },
             {
@@ -1224,7 +1343,8 @@
                 "de": "Genießen Sie die Stille dieses Ortes ohne Touristenströme.",
                 "hu": "Élvezd a hely csendjét a turistahadak nélkül.",
                 "ro": "Bucurați-vă de liniștea acestui loc fără mulțimi de turiști.",
-                "en": "Enjoy the silence of this place without the tourist crowds."
+                "en": "Enjoy the silence of this place without the tourist crowds.",
+                "hr": "Uživajte u tišini ovog mjesta bez turističkih gužvi."
               }
             },
             {
@@ -1233,7 +1353,8 @@
                 "de": "Kaufen Sie hier handgemachtes Fleur de Sel als Souvenir.",
                 "hu": "Vegyél kézműves sóvirágot (Fleur de Sel) szuvenírnek.",
                 "ro": "Cumpărați aici Fleur de Sel artizanal ca suvenir.",
-                "en": "Buy handmade Fleur de Sel here as a souvenir."
+                "en": "Buy handmade Fleur de Sel here as a souvenir.",
+                "hr": "Ovdje kupite ručno izrađen cvijet soli kao suvenir."
               }
             },
             {
@@ -1242,7 +1363,8 @@
                 "de": "Handschuhe aus beim Reiben des Zehs für das Glück!",
                 "hu": "Vedd le a kesztyűt, amikor megdörzsölöd a lábujjat!",
                 "ro": "Scoateți mănușile când frecați degetul pentru noroc!",
-                "en": "Gloves off when rubbing the toe for luck!"
+                "en": "Gloves off when rubbing the toe for luck!",
+                "hr": "Skinite rukavice kad trljate palac za sreću!"
               }
             },
             {
@@ -1251,7 +1373,8 @@
                 "de": "Tragen Sie mehrere Schichten Kleidung gegen den Seewind.",
                 "hu": "Viselj több réteg ruhát a tengeri szél ellen.",
                 "ro": "Purtați mai multe straturi de haine împotriva vântului marin.",
-                "en": "Wear multiple layers of clothing against the sea wind."
+                "en": "Wear multiple layers of clothing against the sea wind.",
+                "hr": "Odjenite se slojevito protiv morskog vjetra."
               }
             }
           ],
@@ -1279,6 +1402,12 @@
               "The paths are dry, but the air temperature is low.",
               "Plan your return by 4:00 PM at the latest.",
               "Watch out for possible icy patches in shaded spots."
+            ],
+            "hr": [
+              "Tople rukavice su neophodne za zimsko bicikliranje.",
+              "Staze su suhe, ali je temperatura zraka niska.",
+              "Planirajte povratak najkasnije do 16:00.",
+              "Pripazite na moguće poledice na zasjenjenim mjestima."
             ]
           }
         }
@@ -1307,7 +1436,8 @@
             "de": "Parken direkt am Fuße des Hügels.",
             "hu": "Parkoljon közvetlenül a domb lábánál.",
             "ro": "Parcați direct la poalele dealului.",
-            "en": "Park directly at the foot of the hill."
+            "en": "Park directly at the foot of the hill.",
+            "hr": "Parkirajte izravno u podnožju brda."
           }
         },
         {
@@ -1325,7 +1455,8 @@
             "de": "Zentraler Parkplatz am Eingang zur Altstadt.",
             "hu": "Központi parkoló az óváros bejáratánál.",
             "ro": "Parcare centrală la intrarea în orașul vechi.",
-            "en": "Central parking lot at the entrance to the old town."
+            "en": "Central parking lot at the entrance to the old town.",
+            "hr": "Centralno parkiralište na ulazu u stari grad."
           }
         },
         {
@@ -1343,7 +1474,8 @@
             "de": "Großer Besucherparkplatz vorhanden.",
             "hu": "Nagy látogatói parkoló áll rendelkezésre.",
             "ro": "Parcare mare pentru vizitatori disponibilă.",
-            "en": "Large visitor parking lot available."
+            "en": "Large visitor parking lot available.",
+            "hr": "Dostupno veliko parkiralište za posjetitelje."
           }
         },
         {
@@ -1361,7 +1493,8 @@
             "de": "Mitten im historischen Kern.",
             "hu": "A történelmi mag közepén.",
             "ro": "În mijlocul nucleului istoric.",
-            "en": "In the middle of the historical core."
+            "en": "In the middle of the historical core.",
+            "hr": "U središtu povijesne jezgre."
           }
         },
         {
@@ -1379,7 +1512,8 @@
             "de": "Nahe der unteren Brücke.",
             "hu": "Az alsó híd közelében.",
             "ro": "Lângă podul de jos.",
-            "en": "Near the lower bridge."
+            "en": "Near the lower bridge.",
+            "hr": "Blizu donjeg mosta."
           }
         },
         {
@@ -1397,7 +1531,8 @@
             "de": "Zufahrt über den Stadtteil Sabunike möglich.",
             "hu": "Megközelíthető Sabunike városrészen keresztül.",
             "ro": "Accesibil prin cartierul Sabunike.",
-            "en": "Accessible through the Sabunike district."
+            "en": "Accessible through the Sabunike district.",
+            "hr": "Pristupno kroz naselje Sabunike."
           }
         }
       ],
@@ -1405,7 +1540,8 @@
         "de": "Das Auto ermöglicht einen schnellen Wechsel zwischen den weit verstreuten Sehenswürdigkeiten der Nin-Region. Von der einsamen St. Nikolaus-Kirche geht es mitten in das historische Herz der Altstadt. Nach einer Dosis Kultur und dem Besuch der faszinierenden Salinen führt die Fahrt zum weitläufigen Königinnenstrand, wo man fernab des Stadtzentrums die Ruhe der Lagune genießen kann.",
         "hu": "Az autó lehetővé teszi a gyors váltást a Nin-régió szétszórt látnivalói között. A magányos Szent Miklós-templomtól az óváros történelmi szívébe jutunk. Egy adag kultúra és a lenyűgöző sólepárlók meglátogatása után az út a tágas Királyné strandjára vezet, ahol a városközponttól távol élvezhetjük a lagúna nyugalmát.",
         "ro": "Mașina permite o schimbare rapidă între atracțiile dispersate ale regiunii Nin. De la biserica solitară Sfântul Nicolae, ajungeți în inima istorică a orașului vechi. După o doză de cultură și vizitarea fascinantelor saline, călătoria duce la vasta Plajă a Reginei, unde vă puteți bucura de liniștea lagunei departe de centrul orașului.",
-        "en": "The car allows for a quick switch between the widely scattered sights of the Nin region. From the lonely St. Nicholas Church, you head into the historical heart of the old town. After a dose of culture and a visit to the fascinating salt pans, the drive leads to the extensive Queen's Beach, where you can enjoy the peace of the lagoon far from the city center."
+        "en": "The car allows for a quick switch between the widely scattered sights of the Nin region. From the lonely St. Nicholas Church, you head into the historical heart of the old town. After a dose of culture and a visit to the fascinating salt pans, the drive leads to the extensive Queen's Beach, where you can enjoy the peace of the lagoon far from the city center.",
+        "hr": "Automobil omogućuje brzu izmjenu između raštrkanih znamenitosti ninske regije. Od usamljene crkve sv. Nikole krećete prema povijesnom srcu starog grada. Nakon doze kulture i posjeta fascinantnoj solani, vožnja vodi do prostrane Kraljičine plaže gdje možete uživati u miru lagune daleko od centra grada."
       },
       "gastro_picks": {
         "de": [
@@ -1430,6 +1566,12 @@
           {
             "name": "Restoran Madmar",
             "tip": "Large selection of Dalmatian meat dishes."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Restoran Madmar",
+            "tip": "Veliki izbor dalmatinskih mesnih jela."
           }
         ]
       },
@@ -1461,6 +1603,13 @@
             "tip": "Secluded spots north of the city.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Obala lagune",
+            "tip": "Osamljena mjesta sjeverno od grada.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1486,6 +1635,12 @@
           {
             "name": "Plodine Supermarket",
             "tip": "Bulk shopping before the return journey."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Supermarket Plodine",
+            "tip": "Velika kupovina prije povratka."
           }
         ]
       },
@@ -1513,6 +1668,12 @@
           "Use the large parking lot by the salt pans.",
           "Watch out for one-way street regulations in the old town.",
           "In summer, the access roads to the beach are often dusty."
+        ],
+        "hr": [
+          "Parkirna mjesta na otočiću Ninu su ograničena i uska.",
+          "Koristite veliko parkiralište kod solane.",
+          "Pripazite na regulaciju jednosmjernih ulica u starom gradu.",
+          "Ljeti su pristupne ceste plaži često prašnjave."
         ]
       },
       "variants": {
@@ -1693,7 +1854,8 @@
             "de": "Bequem mit dem Auto erreichen wir die St.-Nikolaus-Kirche, während der Regen gegen die Scheiben prasselt. In der Altstadt parken wir nah am Zentrum, um die Kirchen und Museen trockenen Fußes zu besuchen. Am Nachmittag fahren wir zum Strandparkplatz und beobachten das stürmische Meer aus der Sicherheit des Wagens. Den Abend genießen wir in einem Restaurant mit Parkplatz direkt vor der Tür.",
             "hu": "Kényelmesen, autóval érjük el a Szent Miklós-templomot, miközben az eső kopog az ablakon. Az óvárosban a központ közelében parkolunk, hogy száraz lábbal látogathassuk a templomokat és múzeumokat. Délután kimegyünk a strand parkolójába, és az autó biztonságából figyeljük a viharos tengert. Az estét egy olyan étteremben töltjük, ahol közvetlenül az ajtó előtt van parkoló.",
             "ro": "Ajungem confortabil cu mașina la biserica Sf. Nicolae, în timp ce ploaia bate în geamuri. În orașul vechi parcăm aproape de centru pentru a vizita bisericile și muzeele fără a ne uda picioarele. După-amiaza mergem în parcarea de la plajă și observăm marea agitată din siguranța mașinii. Seara ne bucurăm de un restaurant cu parcare chiar în fața ușii.",
-            "en": "Comfortably by car, we reach St. Nicholas Church while rain patters against the windows. In the old town, we park near the center to visit churches and museums with dry feet. In the afternoon, we drive to the beach parking lot and watch the stormy sea from the safety of the car. We enjoy the evening in a restaurant with parking right in front of the door."
+            "en": "Comfortably by car, we reach St. Nicholas Church while rain patters against the windows. In the old town, we park near the center to visit churches and museums with dry feet. In the afternoon, we drive to the beach parking lot and watch the stormy sea from the safety of the car. We enjoy the evening in a restaurant with parking right in front of the door.",
+            "hr": "Udobno automobilom dolazimo do crkve sv. Nikole dok kiša bubnja po prozorima. U starom gradu parkiramo blizu centra kako bismo suhih nogu posjetili crkve i muzeje. Poslijepodne se vozimo do parkirališta na plaži i promatramo olujno more iz sigurnosti automobila. Navečer uživamo u restoranu s parkiralištem odmah ispred vrata."
           },
           "stops": [
             {
@@ -1702,7 +1864,8 @@
                 "de": "Parkplatz direkt an der Straße, nur kurzer Fußweg hoch.",
                 "hu": "Parkoló közvetlenül az út mentén, csak rövid séta felfelé.",
                 "ro": "Parcare chiar lângă drum, doar o scurtă plimbare în sus.",
-                "en": "Parking right by the road, only a short walk up."
+                "en": "Parking right by the road, only a short walk up.",
+                "hr": "Parkiranje odmah uz cestu, samo kratka šetnja uzbrdo."
               }
             },
             {
@@ -1711,7 +1874,8 @@
                 "de": "Nutzen Sie die Parkplätze am Altstadteingang.",
                 "hu": "Használd az óváros bejáratánál lévő parkolókat.",
                 "ro": "Folosiți parcările de la intrarea în orașul vechi.",
-                "en": "Use the parking lots at the old town entrance."
+                "en": "Use the parking lots at the old town entrance.",
+                "hr": "Koristite parkirališta na ulazu u stari grad."
               }
             },
             {
@@ -1720,7 +1884,8 @@
                 "de": "Großer Parkplatz vorhanden, ideal bei schlechtem Wetter.",
                 "hu": "Nagy parkoló áll rendelkezésre, ideális rossz időben.",
                 "ro": "Parcare mare disponibilă, ideală pe vreme rea.",
-                "en": "Large parking lot available, ideal in bad weather."
+                "en": "Large parking lot available, ideal in bad weather.",
+                "hr": "Dostupno veliko parkiralište, idealno po lošem vremenu."
               }
             },
             {
@@ -1729,7 +1894,8 @@
                 "de": "Kurzer Sprint vom Auto zu den Ruinen bei starkem Regen.",
                 "hu": "Rövid sprint az autótól a romokhoz heves esőben.",
                 "ro": "Sprint scurt de la mașină la ruine în caz de ploaie torențială.",
-                "en": "Short sprint from the car to the ruins in heavy rain."
+                "en": "Short sprint from the car to the ruins in heavy rain.",
+                "hr": "Kratki sprint od auta do ruševina po jakoj kiši."
               }
             },
             {
@@ -1738,7 +1904,8 @@
                 "de": "Parken Sie am Kai für den kürzesten Weg zum Museum.",
                 "hu": "Parkolj a rakparton a múzeumhoz vezető legrövidebb úthoz.",
                 "ro": "Parcați la chei pentru cel mai scurt drum spre muzeu.",
-                "en": "Park at the quay for the shortest path to the museum."
+                "en": "Park at the quay for the shortest path to the museum.",
+                "hr": "Parkirajte na rivi za najkraći put do muzeja."
               }
             },
             {
@@ -1747,7 +1914,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto und genießen die Aussicht.",
                 "hu": "Heves esőben maradj az autóban és élvezd a kilátást.",
                 "ro": "Rămâneți în mașină în caz de ploaie torențială și admirați priveliștea.",
-                "en": "Stay in the car during heavy rain and enjoy the view."
+                "en": "Stay in the car during heavy rain and enjoy the view.",
+                "hr": "Ostanite u autu tijekom jake kiše i uživajte u pogledu."
               }
             }
           ],
@@ -1775,6 +1943,12 @@
               "Central parking in Nin is very advantageous in the rain.",
               "Keep the car ready for warming breaks.",
               "Wipers and lights should be in perfect working order."
+            ],
+            "hr": [
+              "Pripazite na akvaplaning na obalnim cestama.",
+              "Centralni parking u Ninu vrlo je koristan po kiši.",
+              "Neka automobil bude spreman za pauze za zagrijavanje.",
+              "Brisači i svjetla trebaju biti u savršenom stanju."
             ]
           }
         },
@@ -1783,7 +1957,8 @@
             "de": "Ein klarer Wintertag beginnt mit einer Fahrt zur historischen St.-Nikolaus-Kirche. In der ruhigen Altstadt finden wir mühelos Parkplätze und besichtigen die Sehenswürdigkeiten ohne Drängeln. Am Nachmittag fahren wir zum leeren Strand, wo die Wintersonne die Lagune in weiches Licht taucht. Den Tag lassen wir in einem gemütlich geheizten Restaurant ausklingen.",
             "hu": "Egy tiszta téli nap a történelmi Szent Miklós-templomhoz való autózással kezdődik. A csendes óvárosban könnyen találunk parkolót, és tolongás nélkül nézzük meg a látnivalókat. Délután kimegyünk a néptelen strandra, ahol a téli naplemente lágy fénybe vonja a lagúnát. A napot egy kellemesen fűtött étteremben zárjuk.",
             "ro": "O zi senină de iarnă începe cu o plimbare cu mașina la biserica istorică Sf. Nicolae. În orașul vechi liniștit găsim locuri de parcare fără efort și vizităm obiectivele fără aglomerație. După-amiaza mergem la plaja pustie, unde soarele de iarnă scaldă laguna într-o lumină caldă. Încheiem ziua într-un restaurant încălzit primitor.",
-            "en": "A clear winter day begins with a drive to the historic St. Nicholas Church. In the quiet old town, we find parking easily and visit the sights without crowds. In the afternoon, we drive to the empty beach, where the winter sun bathes the lagoon in soft light. We end the day in a cozy, heated restaurant."
+            "en": "A clear winter day begins with a drive to the historic St. Nicholas Church. In the quiet old town, we find parking easily and visit the sights without crowds. In the afternoon, we drive to the empty beach, where the winter sun bathes the lagoon in soft light. We end the day in a cozy, heated restaurant.",
+            "hr": "Vedar zimski dan počinje vožnjom do povijesne crkve sv. Nikole. U mirnom starom gradu lako pronalazimo parking i obilazimo znamenitosti bez gužve. Poslijepodne se vozimo do prazne plaže gdje zimsko sunce kupa lagunu u mekom svjetlu. Dan završavamo u ugodnom, grijanom restoranu."
           },
           "stops": [
             {
@@ -1792,7 +1967,8 @@
                 "de": "Ideal für einen kurzen Fotostopp in der Kälte.",
                 "hu": "Ideális egy rövid fotómegállóhoz a hidegben.",
                 "ro": "Ideal pentru o scurtă oprire foto în frig.",
-                "en": "Ideal for a short photo stop in the cold."
+                "en": "Ideal for a short photo stop in the cold.",
+                "hr": "Idealno za kratko zaustavljanje za fotografiranje po hladnoći."
               }
             },
             {
@@ -1801,7 +1977,8 @@
                 "de": "Die Parkplätze sind im Winter meist kostenlos.",
                 "hu": "A parkolás télen általában ingyenes.",
                 "ro": "Parcările sunt de obicei gratuite iarna.",
-                "en": "Parking is usually free in winter."
+                "en": "Parking is usually free in winter.",
+                "hr": "Parkiranje je zimi obično besplatno."
               }
             },
             {
@@ -1810,7 +1987,8 @@
                 "de": "Ein guter Ort, um Geschenke für zu Hause zu kaufen.",
                 "hu": "Jó hely, hogy ajándékokat vegyél az otthoniaknak.",
                 "ro": "Un loc bun pentru a cumpăra cadouri pentru acasă.",
-                "en": "A good place to buy gifts for home."
+                "en": "A good place to buy gifts for home.",
+                "hr": "Dobro mjesto za kupnju poklona za ponijeti kući."
               }
             },
             {
@@ -1819,7 +1997,8 @@
                 "de": "Keine anderen Touristen stören Ihr perfektes Foto.",
                 "hu": "Nincs más turista, aki megzavarná a tökéletes fotót.",
                 "ro": "Nu există alți turiști care să vă strice fotografia perfectă.",
-                "en": "No other tourists to disturb your perfect photo."
+                "en": "No other tourists to disturb your perfect photo.",
+                "hr": "Nema drugih turista koji bi vam ometali savršenu fotografiju."
               }
             },
             {
@@ -1828,7 +2007,8 @@
                 "de": "Nutzen Sie die Heizung im Museum zur Entspannung.",
                 "hu": "Használd a múzeum fűtését a lazításhoz.",
                 "ro": "Folosiți încălzirea din muzeu pentru relaxare.",
-                "en": "Use the heating in the museum to relax."
+                "en": "Use the heating in the museum to relax.",
+                "hr": "Iskoristite grijanje u muzeju za opuštanje."
               }
             },
             {
@@ -1837,7 +2017,8 @@
                 "de": "Wunderschönes Licht für Landschaftsaufnahmen.",
                 "hu": "Gyönyörű fények a tájképekhez.",
                 "ro": "Lumină minunată pentru fotografii de peisaj.",
-                "en": "Beautiful light for landscape shots."
+                "en": "Beautiful light for landscape shots.",
+                "hr": "Prekrasno svjetlo za snimke krajolika."
               }
             }
           ],
@@ -1865,6 +2046,12 @@
               "The roads are mostly empty and easy to drive in winter.",
               "Park in the sun to warm the car naturally.",
               "Check which restaurants are open in winter."
+            ],
+            "hr": [
+              "Preporučuje se antifriz u tekućini za pranje stakla.",
+              "Ceste su zimi uglavnom prazne i lake za vožnju.",
+              "Parkirajte na suncu kako biste prirodno zagrijali auto.",
+              "Provjerite koji su restorani otvoreni zimi."
             ]
           }
         }
@@ -1893,7 +2080,8 @@
             "de": "Zentraler Busstopp direkt am Stadttor.",
             "hu": "Központi buszmegálló közvetlenül a városkapunál.",
             "ro": "Stație de autobuz centrală chiar la poarta orașului.",
-            "en": "Central bus stop right by the city gate."
+            "en": "Central bus stop right by the city gate.",
+            "hr": "Centralna autobusna stanica odmah uz gradska vrata."
           }
         },
         {
@@ -1911,7 +2099,8 @@
             "de": "Nur wenige Schritte vom Busstopp entfernt.",
             "hu": "Csak néhány lépésre a buszmegállótól.",
             "ro": "La doar câțiva pași de stația de autobuz.",
-            "en": "Just a few steps from the bus stop."
+            "en": "Just a few steps from the bus stop.",
+            "hr": "Samo nekoliko koraka od autobusne stanice."
           }
         },
         {
@@ -1929,7 +2118,8 @@
             "de": "Einfacher Fußweg vom Zentrum.",
             "hu": "Könnyű séta a központból.",
             "ro": "Drum ușor pe jos din centru.",
-            "en": "Easy walk from the center."
+            "en": "Easy walk from the center.",
+            "hr": "Lagana šetnja iz centra."
           }
         },
         {
@@ -1947,7 +2137,8 @@
             "de": "Mitten im Ort, gut erreichbar.",
             "hu": "A település közepén, jól elérhető.",
             "ro": "În mijlocul localității, ușor accesibilă.",
-            "en": "In the middle of town, easily accessible."
+            "en": "In the middle of town, easily accessible.",
+            "hr": "U središtu grada, lako dostupno."
           }
         },
         {
@@ -1965,7 +2156,8 @@
             "de": "Längerer Fußweg, aber lohnenswert.",
             "hu": "Hosszabb séta, de megéri.",
             "ro": "O plimbare mai lungă, dar merită.",
-            "en": "Longer walk, but worth it."
+            "en": "Longer walk, but worth it.",
+            "hr": "Duža šetnja, ali se isplati."
           }
         }
       ],
@@ -1973,7 +2165,8 @@
         "de": "Nin ist ideal für Transit-Reisende, da die historische Altstadt kompakt und fußläufig ist. Der Bus aus Zadar hält direkt am Eingang zur Laguneninsel. Von dort aus lassen sich die wichtigsten Sehenswürdigkeiten wie die Heilig-Kreuz-Kirche und die Salinen bequem erkunden. Zum Abschluss führt ein schöner Spaziergang zum Königinnenstrand, bevor der Bus einen am Nachmittag wieder zurückbringt.",
         "hu": "Nin ideális az átszállással utazóknak, mivel a történelmi óváros kompakt és bejárható gyalog. A Zágrábból vagy Zárából érkező busz közvetlenül a lagúnasziget bejáratánál áll meg. Innen a legfontosabb látnivalók, mint a Szent Kereszt-templom és a sólepárlók, kényelmesen felfedezhetők. Végezetül egy szép séta vezet a Királyné strandjához, mielőtt délután visszaindulnánk a busszal.",
         "ro": "Nin este ideal pentru călătorii cu transportul public, deoarece orașul vechi istoric este compact și poate fi parcurs pe jos. Autobuzul din Zadar oprește chiar la intrarea pe insula lagunară. De acolo, atracțiile principale, cum ar fi biserica Sfânta Cruce și salinele, pot fi explorate cu ușurință. La final, o plimbare frumoasă duce la Plaja Reginei, înainte ca autobuzul să vă ducă înapoi după-amiaza.",
-        "en": "Nin is ideal for transit travelers as the historical old town is compact and walkable. The bus from Zadar stops right at the entrance to the lagoon island. From there, the most important sights like the Church of the Holy Cross and the salt pans can be easily explored. Finally, a beautiful walk leads to Queen's Beach before the bus takes you back in the afternoon."
+        "en": "Nin is ideal for transit travelers as the historical old town is compact and walkable. The bus from Zadar stops right at the entrance to the lagoon island. From there, the most important sights like the Church of the Holy Cross and the salt pans can be easily explored. Finally, a beautiful walk leads to Queen's Beach before the bus takes you back in the afternoon.",
+        "hr": "Nin je idealan za putnike koji dolaze javnim prijevozom jer je povijesna jezgra kompaktna i prohodna pješice. Autobus iz Zadra staje odmah na ulazu na otočić u laguni. Odande se lako mogu istražiti najvažnije znamenitosti poput crkve sv. Križa i solane. Na kraju prekrasna šetnja vodi do Kraljičine plaže prije nego što vas autobus odveze natrag poslijepodne."
       },
       "gastro_picks": {
         "de": [
@@ -1998,6 +2191,12 @@
           {
             "name": "Fast Food Termini",
             "tip": "Quick snacks right by the bus stop."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Fast Food Termini",
+            "tip": "Brzi zalogaji odmah uz autobusnu stanicu."
           }
         ]
       },
@@ -2029,6 +2228,13 @@
             "tip": "Benches in the shade of old trees.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Gradski park Nin",
+            "tip": "Klupe u sjeni starih stabala.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -2054,6 +2260,12 @@
           {
             "name": "Tisak Kiosk",
             "tip": "Tickets and newspapers."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Kiosk Tisak",
+            "tip": "Karte i novine."
           }
         ]
       },
@@ -2081,6 +2293,12 @@
           "Buses run hourly in summer.",
           "Use the 'Arriva' app for real-time info.",
           "The stop is not covered, look for shade."
+        ],
+        "hr": [
+          "Autobusne karte za Zadar koštaju oko 3-4 eura.",
+          "Ljeti autobusi voze svakih sat vremena.",
+          "Koristite aplikaciju 'Arriva' za informacije u stvarnom vremenu.",
+          "Stanica nije natkrivena, potražite hlad."
         ]
       },
       "variants": {
@@ -2252,7 +2470,8 @@
             "de": "Mit dem Bus erreichen wir Nin und starten an der Statue von Gregor von Nin. Wir verbringen viel Zeit in der Heilig-Kreuz-Kirche und dem Salzmuseum, die guten Schutz vor dem Regen bieten. Nachmittags besuchen wir die Kirche des Heiligen Anselm und warten auf den Bus in einem nahegelegenen Café. Der Strandbesuch fällt kurz aus, wir genießen lieber ein warmes Getränk in der Altstadt.",
             "hu": "Busszal érkezünk Ninbe, és Nin-i Gergely szobránál kezdünk. Sok időt töltünk a Szent Kereszt-templomban és a Sómúzeumban, amelyek jó védelmet nyújtanak az eső ellen. Délután meglátogatjuk a Szent Anzelm-templomot, és egy közeli kávézóban várjuk a buszt. A strandlátogatás rövidre sikerül, inkább egy meleg italt élvezünk az óvárosban.",
             "ro": "Ajungem cu autobuzul la Nin și începem de la statuia lui Grigore din Nin. Petrecem mult timp la biserica Sfânta Cruce și la Muzeul Sării, care oferă o bună protecție împotriva ploii. După-amiaza vizităm biserica Sfântul Anselm și așteptăm autobuzul într-o cafenea din apropiere. Vizita la plajă este scurtă, preferăm să savurăm o băutură caldă în orașul vechi.",
-            "en": "We arrive in Nin by bus and start at the Statue of Gregory of Nin. We spend plenty of time in the Holy Cross Church and the Salt Museum, which provide good protection from the rain. In the afternoon, we visit the Church of St. Anselm and wait for the bus in a nearby cafe. The beach visit is short; we prefer enjoying a warm drink in the old town."
+            "en": "We arrive in Nin by bus and start at the Statue of Gregory of Nin. We spend plenty of time in the Holy Cross Church and the Salt Museum, which provide good protection from the rain. In the afternoon, we visit the Church of St. Anselm and wait for the bus in a nearby cafe. The beach visit is short; we prefer enjoying a warm drink in the old town.",
+            "hr": "U Nin dolazimo autobusom i krećemo od kipa Grgura Ninskog. Provodimo dosta vremena u crkvi sv. Križa i Muzeju soli, koji pružaju dobru zaštitu od kiše. Poslijepodne posjećujemo crkvu sv. Anselma i čekamo autobus u obližnjem kafiću. Posjet plaži je kratak; radije uživamo u toplom napitku u starom gradu."
           },
           "stops": [
             {
@@ -2261,7 +2480,8 @@
                 "de": "Bushaltestelle ist in der Nähe der Altstadtbrücke.",
                 "hu": "A buszmegálló az óvárosi híd közelében van.",
                 "ro": "Stația de autobuz este aproape de podul orașului vechi.",
-                "en": "The bus stop is near the old town bridge."
+                "en": "The bus stop is near the old town bridge.",
+                "hr": "Autobusna stanica je blizu mosta za stari grad."
               }
             },
             {
@@ -2270,7 +2490,8 @@
                 "de": "Ein trockener Ort, um die Architektur zu bewundern.",
                 "hu": "Száraz hely az építészet megcsodálásához.",
                 "ro": "Un loc uscat pentru a admira arhitectura.",
-                "en": "A dry place to admire the architecture."
+                "en": "A dry place to admire the architecture.",
+                "hr": "Suho mjesto za divljenje arhitekturi."
               }
             },
             {
@@ -2279,7 +2500,8 @@
                 "de": "Der Shop ist ein guter Ort zum Warten auf den Regenstop.",
                 "hu": "A bolt jó hely várni az eső elálltáig.",
                 "ro": "Magazinul este un loc bun pentru a aștepta oprirea ploii.",
-                "en": "The shop is a good place to wait for the rain to stop."
+                "en": "The shop is a good place to wait for the rain to stop.",
+                "hr": "Trgovina je dobro mjesto za čekanje da kiša prestane."
               }
             },
             {
@@ -2288,7 +2510,8 @@
                 "de": "Überdachte Bereiche rund um den Kirchplatz nutzen.",
                 "hu": "Használd a templomtér körüli fedett részeket.",
                 "ro": "Folosiți zonele acoperite din jurul pieței bisericii.",
-                "en": "Use covered areas around the church square."
+                "en": "Use covered areas around the church square.",
+                "hr": "Koristite natkrivene prostore oko crkvenog trga."
               }
             },
             {
@@ -2297,7 +2520,8 @@
                 "de": "Vom Bus aus ist es ein kleiner Fußweg zum Strand.",
                 "hu": "A busztól egy kis séta a strand.",
                 "ro": "De la autobuz este o scurtă plimbare până la plajă.",
-                "en": "It's a short walk from the bus to the beach."
+                "en": "It's a short walk from the bus to the beach.",
+                "hr": "Kratka je šetnja od autobusa do plaže."
               }
             }
           ],
@@ -2325,6 +2549,12 @@
               "Bus shelters offer limited protection from the wind.",
               "Use cafes as waiting areas for the next bus.",
               "An umbrella is essential for the walk to the stop."
+            ],
+            "hr": [
+              "Provjerite autobusne veze za Zadar tijekom kiše.",
+              "Nadstrešnice na stanicama nude ograničenu zaštitu od vjetra.",
+              "Koristite kafiće kao čekaonice za sljedeći autobus.",
+              "Kišobran je neophodan za šetnju do stanice."
             ]
           }
         },
@@ -2333,7 +2563,8 @@
             "de": "Ein ruhiger Winterausflug mit dem Bus führt uns nach Nin. Wir besichtigen die Sehenswürdigkeiten in der klaren Winterluft und wärmen uns zwischendurch in den Museen auf. Am Nachmittag spazieren wir zum Strand, um die friedliche Lagune zu sehen, bevor wir den frühen Bus zurück nehmen. Den Abend verbringen wir wieder in Zadar oder in einer der gemütlichen Unterkünfte in Nin.",
             "hu": "Egy csendes téli kirándulás busszal Ninbe vezet. Megnézzük a látnivalókat a tiszta téli levegőben, és közben a múzeumokban melegszünk fel. Délután kisétálunk a strandra, hogy lássuk a békés lagúnát, mielőtt visszaszállnánk a korai buszra. Az estét újra Zadarban vagy Nin egyik barátságos szállásán töltjük.",
             "ro": "O excursie liniștită de iarnă cu autobuzul ne duce la Nin. Vizităm obiectivele în aerul curat de iarnă și ne încălzim între timp în muzee. După-amiaza ne plimbăm spre plajă pentru a vedea laguna liniștită, înainte de a lua autobuzul devreme înapoi. Seara o petrecem din nou în Zadar sau într-o unitate de cazare primitoare din Nin.",
-            "en": "A quiet winter trip by bus takes us to Nin. We visit the sights in the clear winter air and warm up in the museums in between. In the afternoon, we walk to the beach to see the peaceful lagoon before taking the early bus back. We spend the evening back in Zadar or in one of the cozy accommodations in Nin."
+            "en": "A quiet winter trip by bus takes us to Nin. We visit the sights in the clear winter air and warm up in the museums in between. In the afternoon, we walk to the beach to see the peaceful lagoon before taking the early bus back. We spend the evening back in Zadar or in one of the cozy accommodations in Nin.",
+            "hr": "Miran zimski izlet autobusom vodi nas u Nin. Obilazimo znamenitosti na čistom zimskom zraku, grijući se povremeno u muzejima. Poslijepodne šetamo do plaže kako bismo vidjeli mirnu lagunu prije ranog povratka autobusom. Večer provodimo natrag u Zadru ili u jednom od ugodnih smještaja u Ninu."
           },
           "stops": [
             {
@@ -2342,7 +2573,8 @@
                 "de": "Der Busfahrplan ist im Winter stark reduziert.",
                 "hu": "A buszmenetrend télen jelentősen ritkább.",
                 "ro": "Orarele autobuzelor sunt mult reduse iarna.",
-                "en": "Bus schedules are significantly reduced in winter."
+                "en": "Bus schedules are significantly reduced in winter.",
+                "hr": "Vozni redovi autobusa znatno su reducirani zimi."
               }
             },
             {
@@ -2351,7 +2583,8 @@
                 "de": "Das Licht am Morgen ist perfekt für Fotos ohne Schatten.",
                 "hu": "A reggeli fény tökéletes az árnyékmentes fotókhoz.",
                 "ro": "Lumina de dimineață este perfectă pentru fotografii fără umbre.",
-                "en": "The morning light is perfect for photos without shadows."
+                "en": "The morning light is perfect for photos without shadows.",
+                "hr": "Jutarnje svjetlo savršeno je za fotografije bez sjena."
               }
             },
             {
@@ -2360,7 +2593,8 @@
                 "de": "Gute Heizung im Museumsshop für eine kurze Pause.",
                 "hu": "Jó fűtés a múzeumi boltban egy rövid szünetre.",
                 "ro": "Încălzire bună în magazinul muzeului pentru o scurtă pauză.",
-                "en": "Good heating in the museum shop for a short break."
+                "en": "Good heating in the museum shop for a short break.",
+                "hr": "Dobro grijanje u muzejskoj trgovini za kratki predah."
               }
             },
             {
@@ -2369,7 +2603,8 @@
                 "de": "Schauen Sie sich das Silber und Gold von Nin an.",
                 "hu": "Nézd meg Nin ezüstjét és aranyát.",
                 "ro": "Vedeți argintul și aurul din Nin.",
-                "en": "See the silver and gold of Nin."
+                "en": "See the silver and gold of Nin.",
+                "hr": "Razgledajte srebro i zlato grada Nina."
               }
             },
             {
@@ -2378,7 +2613,8 @@
                 "de": "Ziehen Sie sich für den Weg an der Lagune warm an.",
                 "hu": "Öltözz fel jól a lagúna menti sétához.",
                 "ro": "Îmbrăcați-vă gros pentru plimbarea pe lângă lagună.",
-                "en": "Dress warmly for the walk along the lagoon."
+                "en": "Dress warmly for the walk along the lagoon.",
+                "hr": "Toplo se odjenite za šetnju uz lagunu."
               }
             }
           ],
@@ -2406,6 +2642,12 @@
               "The last bus back often leaves in the late afternoon.",
               "Bus stops can be very draughty in winter.",
               "Nin is small enough to reach everything on foot from the bus."
+            ],
+            "hr": [
+              "Zimi autobusi voze rjeđe, pažljivo planirajte.",
+              "Zadnji autobus za povratak često kreće kasno poslijepodne.",
+              "Autobusne stanice zimi mogu biti vrlo vjetrovite.",
+              "Nin je dovoljno malen da se od autobusa sve može obići pješice."
             ]
           }
         }

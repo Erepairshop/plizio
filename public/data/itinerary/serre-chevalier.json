@@ -36,7 +36,8 @@
             "de": "Besuchen Sie die steilen Gassen früh am Morgen.",
             "hu": "Érdemes korán reggel bejárni a meredek utcákat.",
             "ro": "Vizitați străzile abrupte dimineața devreme.",
-            "en": "Visit the steep streets early in the morning."
+            "en": "Visit the steep streets early in the morning.",
+            "fr": "Visitez les rues escarpées tôt le matin."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Bewundern Sie die monumentalen Türme der Kirche.",
             "hu": "Csodáld meg a templom monumentális tornyait.",
             "ro": "Admirați turnurile monumentale ale bisericii.",
-            "en": "Admire the monumental towers of the church."
+            "en": "Admire the monumental towers of the church.",
+            "fr": "Admirez les tours monumentales de l'église."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Ein spektakulärer Blick auf die Durance-Schlucht.",
             "hu": "Látványos kilátás nyílik a Durance-szurdokra.",
             "ro": "O vedere spectaculoasă asupra cheilor Durance.",
-            "en": "A spectacular view of the Durance gorge."
+            "en": "A spectacular view of the Durance gorge.",
+            "fr": "Une vue spectaculaire sur les gorges de la Durance."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Tragen Sie gute Wanderschuhe für die Festung.",
             "hu": "Viselj kényelmes túracipőt az erőd bejárásához.",
             "ro": "Purtați pantofi de drumeție buni pentru fortăreață.",
-            "en": "Wear good hiking shoes for the fortress."
+            "en": "Wear good hiking shoes for the fortress.",
+            "fr": "Portez de bonnes chaussures de randonnée pour la forteresse."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Perfekt für einen ruhigen Spaziergang zum Abschluss.",
             "hu": "Tökéletes egy csendes sétához a nap végén.",
             "ro": "Perfect pentru o plimbare liniștită la final.",
-            "en": "Perfect for a quiet walk to end the day."
+            "en": "Perfect for a quiet walk to end the day.",
+            "fr": "Parfait pour une promenade tranquille en fin de journée."
           }
         }
       ],
@@ -136,7 +141,8 @@
         "de": "Beginnen Sie Ihren Tag in Briançon mit der Erkundung der UNESCO-geschützten Cité Vauban, wo Geschichte in jeder Gasse lebendig wird. Nach dem Besuch der beeindruckenden Stiftskirche führt Sie der Weg über die schwindelerregende Asfeld-Brücke direkt in das Herz der Vauban-Befestigungen. Mittags genießen Sie den Aufstieg zum Fort des Têtes, einer strategischen Meisterleistung mit Blick auf das Tal. Der Nachmittag endet entspannt am Rande des Nationalparks Écrins, wo Sie die frische Alpenluft und das Panorama der umliegenden Gipfel in aller Ruhe genießen können.",
         "hu": "Kezdje a napot Briançonban az UNESCO-listás Cité Vauban felfedezésével, ahol a történelem minden sikátorban életre kel. A lenyűgöző társaskáptalan megtekintése után az út a szédítő Asfeld-hídon át vezet a Vauban-erődítmények szívébe. Délben élvezze a felkapaszkodást a Fort des Têtes-hez, amely egy stratégiai mestermű a völgy felett. A délután nyugodtan zárul az Écrins Nemzeti Park szélén, ahol a friss alpesi levegőt és a környező csúcsok panorámáját élvezheti teljes nyugalomban.",
         "ro": "Începeți ziua în Briançon explorând Cité Vauban, inclusă în patrimoniul UNESCO, unde istoria prinde viață la fiecare pas. După vizitarea bisericii colegiale impresionante, drumul vă poartă peste amețitorul Pod Asfeld direct în inima fortificațiilor Vauban. La prânz, bucurați-vă de urcarea spre Fort des Têtes, o capodoperă strategică cu vedere spre vale. După-amiaza se încheie relaxat la marginea Parcului Național Écrins, unde puteți savura aerul proaspăt alpin și panorama vârfurilor înconjurătoare în deplină liniște.",
-        "en": "Start your day in Briançon by exploring the UNESCO-listed Cité Vauban, where history comes alive in every alley. After visiting the impressive collegiate church, the path leads you across the dizzying Asfeld Bridge directly into the heart of the Vauban fortifications. At midday, enjoy the climb to Fort des Têtes, a strategic masterpiece overlooking the valley. The afternoon ends peacefully on the edge of the Écrins National Park, where you can enjoy the fresh alpine air and the panorama of the surrounding peaks in total tranquility."
+        "en": "Start your day in Briançon by exploring the UNESCO-listed Cité Vauban, where history comes alive in every alley. After visiting the impressive collegiate church, the path leads you across the dizzying Asfeld Bridge directly into the heart of the Vauban fortifications. At midday, enjoy the climb to Fort des Têtes, a strategic masterpiece overlooking the valley. The afternoon ends peacefully on the edge of the Écrins National Park, where you can enjoy the fresh alpine air and the panorama of the surrounding peaks in total tranquility.",
+        "fr": "Commencez votre journée à Briançon en explorant la Cité Vauban, classée à l'UNESCO, où l'histoire prend vie dans chaque ruelle. Après avoir visité l'impressionnante église collégiale, le chemin vous mène à travers le vertigineux Pont d'Asfeld, directement au cœur des fortifications de Vauban. À la mi-journée, profitez de la montée au Fort des Têtes, un chef-d'œuvre stratégique dominant la vallée. L'après-midi se termine paisiblement en bordure du Parc National des Écrins, où vous pourrez savourer l'air frais des Alpes et le panorama sur les sommets environnants en toute tranquillité."
       },
       "gastro_picks": {
         "de": [
@@ -178,6 +184,16 @@
             "name": "L'Alpin",
             "tip": "Traditional restaurant in the old town."
           }
+        ],
+        "fr": [
+          {
+            "name": "Tourte de Briançon",
+            "tip": "Tarte aux légumes copieuse avec des pommes de terre."
+          },
+          {
+            "name": "L'Alpin",
+            "tip": "Restaurant traditionnel dans la vieille ville."
+          }
         ]
       },
       "quiet_picks": {
@@ -208,6 +224,13 @@
             "tip": "A quiet path below the city walls.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Chemin des Fontaines",
+            "tip": "Un sentier calme sous les remparts de la ville.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -234,6 +257,12 @@
             "name": "Briançon Market",
             "tip": "Weekly market with regional cheeses."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché de Briançon",
+            "tip": "Marché hebdomadaire avec des fromages régionaux."
+          }
         ]
       },
       "tips": {
@@ -256,6 +285,11 @@
           "There are many steep stairs in Cité Vauban.",
           "Book your dinner table in Briançon in advance.",
           "Water bottles can be refilled at historic fountains."
+        ],
+        "fr": [
+          "Il y a de nombreux escaliers raides dans la Cité Vauban.",
+          "Réservez votre table pour le dîner à Briançon à l'avance.",
+          "Les gourdes peuvent être remplies aux fontaines historiques."
         ]
       }
     },
@@ -287,7 +321,8 @@
             "de": "Startpunkt im modernen Briançon.",
             "hu": "Kiindulópont modern Briançonban.",
             "ro": "Punct de plecare în Briançonul modern.",
-            "en": "Starting point in modern Briançon."
+            "en": "Starting point in modern Briançon.",
+            "fr": "Point de départ dans le Briançon moderne."
           }
         },
         {
@@ -310,7 +345,8 @@
             "de": "Flacher und angenehmer Weg am Fluss.",
             "hu": "Lapos és kellemes út a folyó mentén.",
             "ro": "Traseu plat și plăcut de-a lungul râului.",
-            "en": "Flat and pleasant path along the river."
+            "en": "Flat and pleasant path along the river.",
+            "fr": "Sentier plat et agréable le long de la rivière."
           }
         },
         {
@@ -333,7 +369,8 @@
             "de": "Pause im Herzen des Ferienortes.",
             "hu": "Pihenő az üdülőhely szívében.",
             "ro": "Pauză în inima stațiunii.",
-            "en": "Rest in the heart of the resort."
+            "en": "Rest in the heart of the resort.",
+            "fr": "Repos au cœur de la station."
           }
         },
         {
@@ -356,7 +393,8 @@
             "de": "Entspannung in den heißen Quellen.",
             "hu": "Lazítás a forró vizes forrásokban.",
             "ro": "Relaxare în izvoarele termale.",
-            "en": "Relaxation in the hot springs."
+            "en": "Relaxation in the hot springs.",
+            "fr": "Détente dans les sources d'eau chaude."
           }
         },
         {
@@ -379,7 +417,8 @@
             "de": "Ein schönes Beispiel alpiner Barockkunst.",
             "hu": "Az alpesi barokk művészet szép példája.",
             "ro": "Un exemplu frumos de artă barocă alpină.",
-            "en": "A beautiful example of alpine Baroque art."
+            "en": "A beautiful example of alpine Baroque art.",
+            "fr": "Un bel exemple d'art baroque alpin."
           }
         }
       ],
@@ -387,7 +426,8 @@
         "de": "Radeln Sie durch das malerische Tal von Serre Chevalier, beginnend im Herzen von Briançon. Der Weg führt sanft bergauf entlang des Flusses Guisane, vorbei an saftigen Wiesen und charmanten Bergdörfern wie Chantemerle. Mittags erreichen Sie Monêtier-les-Bains, wo Sie nach der sportlichen Anstrengung in den berühmten heißen Quellen der Grands Bains entspannen können. Den Nachmittag verbringen Sie in dem ruhigen Bergdorf, besichtigen die lokale Kirche und genießen die kühle Bergluft, bevor Sie gemütlich die Rückfahrt antreten.",
         "hu": "Tekerjen végig Serre Chevalier festői völgyén, Briançon szívéből indulva. Az út enyhén emelkedik a Guisane folyó mentén, dús rétek és bájos hegyi falvak, például Chantemerle mellett. Délben érkezik Monêtier-les-Bainsbe, ahol a sportos erőfeszítés után a híres Grands Bains forró vizes forrásaiban lazíthat. A délutánt a csendes hegyi faluban tölti, megtekintve a helyi templomot és élvezve a hűvös hegyi levegőt, mielőtt kényelmesen visszaindulna.",
         "ro": "Pedalați prin valea pitorească Serre Chevalier, începând din inima Briançonului. Traseul urcă ușor de-a lungul râului Guisane, trecând pe lângă pajiști verzi și sate montane fermecătoare precum Chantemerle. La prânz ajungeți în Monêtier-les-Bains, unde vă puteți relaxa în faimoasele izvoare termale Grands Bains după efortul sportiv. După-amiaza o petreceți în satul liniștit, vizitând biserica locală și savurând aerul răcoros de munte înainte de a porni înapoi.",
-        "en": "Cycle through the picturesque valley of Serre Chevalier, starting from the heart of Briançon. The path leads gently uphill along the Guisane river, passing lush meadows and charming mountain villages like Chantemerle. At midday you reach Monêtier-les-Bains, where you can relax in the famous hot springs of the Grands Bains after your sporting effort. Spend the afternoon in the quiet mountain village, visiting the local church and enjoying the cool mountain air before starting your leisurely return."
+        "en": "Cycle through the picturesque valley of Serre Chevalier, starting from the heart of Briançon. The path leads gently uphill along the Guisane river, passing lush meadows and charming mountain villages like Chantemerle. At midday you reach Monêtier-les-Bains, where you can relax in the famous hot springs of the Grands Bains after your sporting effort. Spend the afternoon in the quiet mountain village, visiting the local church and enjoying the cool mountain air before starting your leisurely return.",
+        "fr": "Pédalez à travers la vallée pittoresque de Serre Chevalier, au départ du cœur de Briançon. Le sentier monte doucement le long de la rivière Guisane, passant par des prairies verdoyantes et de charmants villages de montagne comme Chantemerle. À la mi-journée, vous atteignez Monêtier-les-Bains, où vous pourrez vous détendre dans les célèbres sources d'eau chaude des Grands Bains après votre effort sportif. Passez l'après-midi dans le village de montagne paisible, en visitant l'église locale et en profitant de l'air frais de la montagne avant d'entamer votre retour tranquille."
       },
       "gastro_picks": {
         "de": [
@@ -429,6 +469,16 @@
             "name": "Le Kawa",
             "tip": "Nice café in Chantemerle."
           }
+        ],
+        "fr": [
+          {
+            "name": "Oreillettes",
+            "tip": "Pâtisserie frite croustillante."
+          },
+          {
+            "name": "Le Kawa",
+            "tip": "Joli café à Chantemerle."
+          }
         ]
       },
       "quiet_picks": {
@@ -459,6 +509,13 @@
             "tip": "Many benches for resting right by the water.",
             "emoji": "🏞️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Bords de la Guisane",
+            "tip": "De nombreux bancs pour se reposer au bord de l'eau.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -485,6 +542,12 @@
             "name": "Local Creamery",
             "tip": "Buy Beaufort and Tomme de Montagne cheeses."
           }
+        ],
+        "fr": [
+          {
+            "name": "Laiterie locale",
+            "tip": "Achetez du Beaufort et de la Tomme de Montagne."
+          }
         ]
       },
       "tips": {
@@ -507,6 +570,11 @@
           "The valley is often windy, especially in the afternoon.",
           "Use the flat 'Chemin du Roy' for relaxed cycling.",
           "Check your brakes before the descents."
+        ],
+        "fr": [
+          "La vallée est souvent venteuse, surtout l'après-midi.",
+          "Utilisez le 'Chemin du Roy', plat, pour une balade à vélo détendue.",
+          "Vérifiez vos freins avant les descentes."
         ]
       }
     },
@@ -538,7 +606,8 @@
             "de": "Parken Sie auf dem Parkplatz Champ de Mars.",
             "hu": "Parkolj a Champ de Mars parkolóban.",
             "ro": "Parcați în parcarea Champ de Mars.",
-            "en": "Park in the Champ de Mars parking lot."
+            "en": "Park in the Champ de Mars parking lot.",
+            "fr": "Garez-vous au parking du Champ de Mars."
           }
         },
         {
@@ -561,7 +630,8 @@
             "de": "Bester Panoramablick über die Stadt.",
             "hu": "A legjobb panoráma a városra.",
             "ro": "Cea mai bună panoramă asupra orașului.",
-            "en": "Best panoramic view over the town."
+            "en": "Best panoramic view over the town.",
+            "fr": "Meilleure vue panoramique sur la ville."
           }
         },
         {
@@ -584,7 +654,8 @@
             "de": "Buchen Sie Ihren Slot im Thermalbad online.",
             "hu": "Foglalj időpontot a termálfürdőbe online.",
             "ro": "Rezervați intervalul orar la băi online.",
-            "en": "Book your thermal bath slot online."
+            "en": "Book your thermal bath slot online.",
+            "fr": "Réservez votre créneau aux bains thermaux en ligne."
           }
         },
         {
@@ -607,7 +678,8 @@
             "de": "Berühmter Alpenpass mit toller Aussicht.",
             "hu": "Híres alpesi hágó csodás kilátással.",
             "ro": "Pas alpin celebru cu priveliști grozave.",
-            "en": "Famous Alpine pass with great views."
+            "en": "Famous Alpine pass with great views.",
+            "fr": "Célèbre col alpin avec des vues superbes."
           }
         },
         {
@@ -630,7 +702,8 @@
             "de": "Entdecken Sie die Flora der Hochalpen.",
             "hu": "Fedezd fel a magashegyi flórát.",
             "ro": "Descoperiți flora Alpilor înalți.",
-            "en": "Discover the high alpine flora."
+            "en": "Discover the high alpine flora.",
+            "fr": "Découvrez la flore de haute montagne."
           }
         },
         {
@@ -653,7 +726,8 @@
             "de": "Ein authentisches Steindorf am Fluss.",
             "hu": "Autentikus kőházas falu a folyónál.",
             "ro": "Un sat autentic din piatră lângă râu.",
-            "en": "An authentic stone village by the river."
+            "en": "An authentic stone village by the river.",
+            "fr": "Un village de pierre authentique au bord de la rivière."
           }
         }
       ],
@@ -661,7 +735,8 @@
         "de": "Diese Autotour führt Sie von den historischen Mauern Briançons bis in die eisigen Höhen des Lautaret-Passes. Nach einem morgendlichen Spaziergang durch die Cité Vauban fahren Sie hinauf zum Fort du Randouillet für den perfekten Überblick. Mittags wartet die Entspannung in den heißen Quellen von Monêtier, bevor die Fahrt zum Col du Lautaret führt. Dort besuchen Sie den höchstgelegenen botanischen Garten Europas und bestaunen die alpine Blumenpracht. Den Tag lassen Sie im pittoresken Bergdorf Le Casset ausklingen, das für seine traditionelle Architektur bekannt ist.",
         "hu": "Ez az autós túra Briançon történelmi falaitól a Lautaret-hágó jeges magasságáig vezet. A Cité Vauban-ban tett reggeli séta után hajtson fel a Fort du Randouillet-hez a tökéletes kilátásért. Délben lazítás vár Monêtier forró forrásainál, mielőtt az út a Col du Lautaret-hez vezetne. Ott meglátogatja Európa legmagasabban fekvő botanikus kertjét, és megcsodálja az alpesi virágpompát. A napot a festői Le Casset hegyi faluban zárja, amely hagyományos építészetéről híres.",
         "ro": "Acest tur auto vă poartă de la zidurile istorice ale Briançonului până la înălțimile înghețate ale pasului Lautaret. După o plimbare matinală prin Cité Vauban, conduceți până la Fort du Randouillet pentru panorama perfectă. La prânz vă așteaptă relaxarea la izvoarele termale din Monêtier, înainte ca drumul să continue spre Col du Lautaret. Acolo vizitați cea mai înaltă grădină botanică din Europa și admirați splendoarea florilor alpine. Ziua se încheie în satul pitoresc Le Casset, cunoscut pentru arhitectura sa tradițională.",
-        "en": "This car tour takes you from the historic walls of Briançon to the icy heights of the Lautaret pass. After a morning walk through Cité Vauban, drive up to Fort du Randouillet for the perfect overview. At midday, relaxation awaits in the hot springs of Monêtier before the journey leads to Col du Lautaret. There you will visit Europe's highest botanical garden and marvel at the alpine floral splendor. End the day in the picturesque mountain village of Le Casset, famous for its traditional architecture."
+        "en": "This car tour takes you from the historic walls of Briançon to the icy heights of the Lautaret pass. After a morning walk through Cité Vauban, drive up to Fort du Randouillet for the perfect overview. At midday, relaxation awaits in the hot springs of Monêtier before the journey leads to Col du Lautaret. There you will visit Europe's highest botanical garden and marvel at the alpine floral splendor. End the day in the picturesque mountain village of Le Casset, famous for its traditional architecture.",
+        "fr": "Ce circuit en voiture vous emmène des remparts historiques de Briançon aux hauteurs glacées du col du Lautaret. Après une promenade matinale dans la Cité Vauban, montez au Fort du Randouillet pour une vue d'ensemble parfaite. À la mi-journée, la détente vous attend dans les sources thermales de Monêtier avant que le voyage ne vous mène au Col du Lautaret. Là, vous visiterez le jardin botanique le plus haut d'Europe et admirerez la splendeur florale alpine. Terminez la journée dans le village de montagne pittoresque du Casset, célèbre pour son architecture traditionnelle."
       },
       "gastro_picks": {
         "de": [
@@ -703,6 +778,16 @@
             "name": "Génépi",
             "tip": "Local herbal liqueur."
           }
+        ],
+        "fr": [
+          {
+            "name": "Restaurant des Grands Bains",
+            "tip": "Dîner avec vue sur le glacier."
+          },
+          {
+            "name": "Génépi",
+            "tip": "Liqueur de plantes locale."
+          }
         ]
       },
       "quiet_picks": {
@@ -733,6 +818,13 @@
             "tip": "Endless expanse and absolute silence.",
             "emoji": "🏔️"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plateau du Col du Lautaret",
+            "tip": "Étendues infinies et silence absolu.",
+            "emoji": "🏔️"
+          }
         ]
       },
       "shopping_picks": {
@@ -759,6 +851,12 @@
             "name": "Souvenirs du Galibier",
             "tip": "Typical alpine souvenirs at the pass."
           }
+        ],
+        "fr": [
+          {
+            "name": "Souvenirs du Galibier",
+            "tip": "Souvenirs alpins typiques au col."
+          }
         ]
       },
       "tips": {
@@ -781,6 +879,11 @@
           "The road to Lautaret can be closed in winter.",
           "Watch out for cyclists on the main road.",
           "There are plenty of free parking spaces in Monêtier."
+        ],
+        "fr": [
+          "La route du Lautaret peut être fermée en hiver.",
+          "Attention aux cyclistes sur la route principale.",
+          "Il y a de nombreuses places de parking gratuites à Monêtier."
         ]
       }
     },
@@ -812,7 +915,8 @@
             "de": "Knotenpunkt für lokale Busse.",
             "hu": "Helyi buszjáratok csomópontja.",
             "ro": "Nod rutier pentru autobuze locale.",
-            "en": "Hub for local buses."
+            "en": "Hub for local buses.",
+            "fr": "Plaque tournante pour les bus locaux."
           }
         },
         {
@@ -835,7 +939,8 @@
             "de": "Der Bus spart Ihnen den steilen Aufstieg.",
             "hu": "A busz megkímél a meredek emelkedőtől.",
             "ro": "Autobuzul vă scutește de urcarea abruptă.",
-            "en": "The bus saves you the steep climb."
+            "en": "The bus saves you the steep climb.",
+            "fr": "Le bus vous épargne la montée raide."
           }
         },
         {
@@ -858,7 +963,8 @@
             "de": "Schneller Weg zu den Berggipfeln.",
             "hu": "Gyors út a hegycsúcsokhoz.",
             "ro": "Cale rapidă spre vârfurile munților.",
-            "en": "Fast way to the mountain peaks."
+            "en": "Fast way to the mountain peaks.",
+            "fr": "Moyen rapide d'atteindre les sommets."
           }
         },
         {
@@ -881,7 +987,8 @@
             "de": "Hochgelegener Parkplatz mit Wanderwegen.",
             "hu": "Magasan fekvő terület túraútvonalakkal.",
             "ro": "Zonă înaltă cu trasee de drumeție.",
-            "en": "High-altitude area with hiking trails."
+            "en": "High-altitude area with hiking trails.",
+            "fr": "Zone d'altitude avec des sentiers de randonnée."
           }
         },
         {
@@ -904,7 +1011,8 @@
             "de": "Moderne Geschäftsstraße zum Bummeln.",
             "hu": "Modern bevásárlóutca egy kis sétához.",
             "ro": "Stradă comercială modernă pentru plimbare.",
-            "en": "Modern shopping street for a stroll."
+            "en": "Modern shopping street for a stroll.",
+            "fr": "Rue commerçante moderne pour une promenade."
           }
         }
       ],
@@ -912,7 +1020,8 @@
         "de": "Nutzen Sie das effiziente Bussystem von Serre Chevalier, um die Region stressfrei zu erkunden. Starten Sie am Bahnhof von Briançon und lassen Sie sich bequem zur Cité Vauban hinauffahren. Nach der Besichtigung der Festung bringt Sie die Prorel-Seilbahn in schwindelerregende Höhen mit Blick auf den Nationalpark Écrins. Am Nachmittag erkunden Sie die mittlere Station Serre Ratier, die bequem per Seilbahn erreichbar ist. Den Tag beenden Sie im modernen Teil von Briançon, Sainte-Catherine, wo Sie lokale Geschäfte und Cafés direkt an der Transitroute finden.",
         "hu": "Használja Serre Chevalier hatékony buszhálózatát a régió stresszmentes felfedezéséhez. Kezdje a briançoni vasútállomáson, és utazzon kényelmesen fel a Cité Vauban-hoz. Az erőd megtekintése után a Prorel felvonó viszi fel a szédítő magasságokba, kilátással az Écrins Nemzeti Parkra. Délután fedezze fel a Serre Ratier középső állomást, amely könnyen elérhető felvonóval. A napot Briançon modern részén, Sainte-Catherine-ben zárja, ahol helyi üzleteket és kávézókat talál közvetlenül a közlekedési útvonal mentén.",
         "ro": "Folosiți sistemul eficient de autobuze din Serre Chevalier pentru a explora regiunea fără stres. Începeți de la gara din Briançon și urcați confortabil până la Cité Vauban. După vizitarea fortăreței, telecabina Prorel vă duce la înălțimi amețitoare cu vedere spre Parcul Național Écrins. După-amiaza explorați stația intermediară Serre Ratier, ușor accesibilă cu telecabina. Încheiați ziua în partea modernă a Briançonului, Sainte-Catherine, unde găsiți magazine și cafenele locale direct pe ruta de tranzit.",
-        "en": "Use Serre Chevalier's efficient bus system to explore the region stress-free. Start at Briançon station and take a comfortable ride up to Cité Vauban. After visiting the fortress, the Prorel cable car takes you to dizzying heights with views of the Écrins National Park. In the afternoon, explore the Serre Ratier middle station, easily accessible by cable car. End the day in the modern part of Briançon, Sainte-Catherine, where you will find local shops and cafes right on the transit route."
+        "en": "Use Serre Chevalier's efficient bus system to explore the region stress-free. Start at Briançon station and take a comfortable ride up to Cité Vauban. After visiting the fortress, the Prorel cable car takes you to dizzying heights with views of the Écrins National Park. In the afternoon, explore the Serre Ratier middle station, easily accessible by cable car. End the day in the modern part of Briançon, Sainte-Catherine, where you will find local shops and cafes right on the transit route.",
+        "fr": "Utilisez le système de bus efficace de Serre Chevalier pour explorer la région sans stress. Commencez à la gare de Briançon et profitez d'un trajet confortable jusqu'à la Cité Vauban. Après avoir visité la forteresse, le téléphérique du Prorel vous emmène à des hauteurs vertigineuses avec vue sur le Parc National des Écrins. L'après-midi, explorez la station intermédiaire de Serre Ratier, facilement accessible en téléphérique. Terminez la journée dans le quartier moderne de Briançon, Sainte-Catherine, où vous trouverez des boutiques locales et des cafés directement sur l'itinéraire de transit."
       },
       "gastro_picks": {
         "de": [
@@ -954,6 +1063,16 @@
             "name": "Tarte aux myrtilles",
             "tip": "Regional blueberry tart."
           }
+        ],
+        "fr": [
+          {
+            "name": "Le 15/9",
+            "tip": "Restaurant populaire près de l'arrêt de bus."
+          },
+          {
+            "name": "Tarte aux myrtilles",
+            "tip": "Tarte aux myrtilles régionale."
+          }
         ]
       },
       "quiet_picks": {
@@ -984,6 +1103,13 @@
             "tip": "Quiet hiking trails away from the cable car.",
             "emoji": "🌲"
           }
+        ],
+        "fr": [
+          {
+            "name": "Lisière de forêt de Serre Ratier",
+            "tip": "Sentiers de randonnée calmes à l'écart du téléphérique.",
+            "emoji": "🌲"
+          }
         ]
       },
       "shopping_picks": {
@@ -1010,6 +1136,12 @@
             "name": "Galerie Sainte-Catherine",
             "tip": "Small shopping mall in Briançon."
           }
+        ],
+        "fr": [
+          {
+            "name": "Galerie Sainte-Catherine",
+            "tip": "Petit centre commercial à Briançon."
+          }
         ]
       },
       "tips": {
@@ -1032,6 +1164,11 @@
           "Buy the 'Bus Serre Chevalier' pass for the day.",
           "Buses run every 20 minutes in summer.",
           "Cable cars have a lunch break, check the times."
+        ],
+        "fr": [
+          "Achetez le pass 'Bus Serre Chevalier' pour la journée.",
+          "Les bus circulent toutes les 20 minutes en été.",
+          "Les téléphériques ont une pause déjeuner, vérifiez les horaires."
         ]
       }
     }

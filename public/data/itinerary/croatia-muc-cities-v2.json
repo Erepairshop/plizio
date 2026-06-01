@@ -36,7 +36,8 @@
             "de": "Trinken Sie Ihren Kaffee wie die Einheimischen im Freien.",
             "hu": "Igya a kávéját a helyiekkel a szabadban.",
             "ro": "Beți cafeaua în aer liber, ca localnicii.",
-            "en": "Enjoy your coffee outdoors like a local."
+            "en": "Enjoy your coffee outdoors like a local.",
+            "hr": "Uživajte u kavi na otvorenom kao lokalac."
           }
         },
         {
@@ -59,7 +60,8 @@
             "de": "Diese Steine zeugen von der antiken Straße durch das Hinterland.",
             "hu": "Ezek a kövek az ókori hátországi útvonalról tanúskodnak.",
             "ro": "Aceste pietre atestă drumul antic prin hinterland.",
-            "en": "These stones testify to the ancient road through the hinterland."
+            "en": "These stones testify to the ancient road through the hinterland.",
+            "hr": "Ovo kamenje svjedoči o drevnoj cesti kroz zaleđe."
           }
         },
         {
@@ -82,7 +84,8 @@
             "de": "Ein bedeutender Ort für die kroatische mittelalterliche Geschichte.",
             "hu": "A horvát középkori történelem egyik kiemelkedő helyszíne.",
             "ro": "Un sit important pentru istoria medievală croată.",
-            "en": "A significant site for Croatian medieval history."
+            "en": "A significant site for Croatian medieval history.",
+            "hr": "Značajno mjesto za hrvatsku srednjovjekovnu povijest."
           }
         },
         {
@@ -105,7 +108,8 @@
             "de": "Probieren Sie Lammfleisch, eine lokale Spezialität.",
             "hu": "Kóstolja meg a báránysültet, a helyi specialitást.",
             "ro": "Gustați friptura de miel, o specialitate locală.",
-            "en": "Try the roast lamb, a local specialty."
+            "en": "Try the roast lamb, a local specialty.",
+            "hr": "Probajte pečenu janjetinu, lokalni specijalitet."
           }
         },
         {
@@ -128,7 +132,8 @@
             "de": "Genießen Sie die Ruhe der dalmatinischen Zagora.",
             "hu": "Élvezze a dalmát hátország nyugalmát.",
             "ro": "Bucurați-vă de liniștea din Zagora dalmată.",
-            "en": "Enjoy the peace of the Dalmatian Zagora."
+            "en": "Enjoy the peace of the Dalmatian Zagora.",
+            "hr": "Uživajte u miru dalmatinske Zagore."
           }
         },
         {
@@ -151,7 +156,8 @@
             "de": "Perfekter Abschluss des Tages mit Blick auf das Tal.",
             "hu": "A nap tökéletes zárása kilátással a völgyre.",
             "ro": "Finalul perfect al zilei cu vedere spre vale.",
-            "en": "Perfect end to the day with a view of the valley."
+            "en": "Perfect end to the day with a view of the valley.",
+            "hr": "Savršen završetak dana s pogledom na dolinu."
           }
         }
       ],
@@ -159,7 +165,8 @@
         "de": "Entdecken Sie Muć zu Fuß, ein verstecktes Juwel im dalmatinischen Hinterland. Der Morgen beginnt entspannt im Dorfzentrum, gefolgt von einer Zeitreise zu den römischen Meilensteinen. Mittags tauchen Sie in die kroatische Geschichte bei der St.-Peter-Kirche ein. Nach einem deftigen lokalen Mittagessen führt ein gemütlicher Spaziergang durch die Natur zum perfekten Aussichtspunkt für den Sonnenuntergang.",
         "hu": "Fedezze fel Mućot gyalogosan, a dalmát hátország rejtett kincsét. A reggel nyugodtan indul a falu központjában, majd időutazást teszünk a római mérföldkövekhez. Délben a horvát történelem nyomába eredünk a Szent Péter templomnál. Egy kiadós helyi ebéd után kellemes természetjárás következik, amely a naplemente megtekintéséhez ideális kilátópontnál ér véget.",
         "ro": "Descoperiți Muć la pas, o bijuterie ascunsă în hinterlandul dalmat. Dimineața începe relaxat în centrul satului, urmată de o călătorie în timp la pietrele miliare romane. La prânz, explorăm istoria croată la biserica Sf. Petru. După un prânz local copios, o plimbare plăcută prin natură ne duce la punctul de belvedere ideal pentru apus.",
-        "en": "Explore Muć on foot, a hidden gem in the Dalmatian hinterland. The morning starts relaxedly in the village center, followed by a journey back in time to the Roman milestones. At midday, dive into Croatian history at St. Peter's Church. After a hearty local lunch, a pleasant nature walk leads to the perfect viewpoint for sunset."
+        "en": "Explore Muć on foot, a hidden gem in the Dalmatian hinterland. The morning starts relaxedly in the village center, followed by a journey back in time to the Roman milestones. At midday, dive into Croatian history at St. Peter's Church. After a hearty local lunch, a pleasant nature walk leads to the perfect viewpoint for sunset.",
+        "hr": "Istražite Muć pješice, skriveni dragulj u dalmatinskom zaleđu. Jutro počinje opušteno u centru sela, nakon čega slijedi putovanje u prošlost do rimskih miljokaza. U podne zaronite u hrvatsku povijest u crkvi sv. Petra. Nakon obilnog lokalnog ručka, ugodna šetnja prirodom vodi do savršenog vidikovca za zalazak sunca."
       },
       "gastro_picks": {
         "de": [
@@ -184,6 +191,12 @@
           {
             "name": "Spit-roasted Lamb",
             "tip": "The signature dish of the region, often served along the main road."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Janjetina s ražnja",
+            "tip": "Legendarno jelo ove regije, često se poslužuje uz glavnu cestu."
           }
         ]
       },
@@ -215,6 +228,13 @@
             "tip": "Quiet spot with panoramic views of the fields.",
             "emoji": "🏞️"
           }
+        ],
+        "hr": [
+          {
+            "name": "Vidikovac Gornji Muć",
+            "tip": "Mirno mjesto s panoramskim pogledom na polja.",
+            "emoji": "🏞️"
+          }
         ]
       },
       "shopping_picks": {
@@ -241,6 +261,12 @@
             "name": "Local Olive Oil",
             "tip": "Ask local households for homemade oil."
           }
+        ],
+        "hr": [
+          {
+            "name": "Lokalno maslinovo ulje",
+            "tip": "Pitajte lokalna kućanstva za domaće ulje."
+          }
         ]
       },
       "tips": {
@@ -259,6 +285,10 @@
         "en": [
           "Wear comfortable walking shoes for the gravel paths.",
           "Bring water as there are few shops outside the center."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za pješačenje po makadamskim stazama.",
+          "Ponesite vodu jer izvan centra ima malo trgovina."
         ]
       },
       "variants": {
@@ -267,7 +297,8 @@
             "de": "Der Morgen in Muć beginnt mit sanftem Regen, den man am besten bei einem heißen Kaffee im Dorfzentrum genießt. Die römischen Meilensteine wirken unter dem grauen Himmel fast mystisch. Mittags bietet die Kirche St. Peter einen trockenen, besinnlichen Rückzugsort. Nach einem ausgiebigen Mittagessen in der warmen Konoba ist die Luft in den Olivenhainen besonders frisch, auch wenn die Fernsicht am Abend durch die Wolken begrenzt ist.",
             "hu": "A reggel csendes esővel indul Muć központjában, ahol a falusi kávézó gőze mellett tervezhetjük a napot. A római mérföldkövek nedves csillogása különleges hangulatot áraszt, mielőtt a Szent Péter-templom fedél alá hívna. A helyi konobában elfogyasztott ebéd után a friss, eső utáni illat kísér minket az olajfaligeteken át. Bár a naplemente felhők mögé bújik, a dombok ködös látványa kárpótol minket az este folyamán.",
             "ro": "Dimineața în Muć începe cu o ploaie liniștită, savurată cel mai bine cu o cafea fierbinte în centrul satului. Pietrele miliare romane par mistice sub cerul gri. La prânz, biserica Sf. Petru oferă un refugiu uscat și liniștit. După o masă copioasă la konoba locală, aerul din livezile de măslini este extrem de proaspăt, chiar dacă vederea spre dealuri la apus este parțial ascunsă de nori și ceață.",
-            "en": "The morning in Muć starts with a gentle rain, best enjoyed with a hot coffee in the village center. The Roman milestones have a mystical shine under the grey sky. At noon, St. Peter's Church provides a dry and peaceful sanctuary. After a hearty lunch in the warm konoba, the air in the olive groves is exceptionally fresh, even if the sunset views over the hills are partly obscured by the clouds and mist."
+            "en": "The morning in Muć starts with a gentle rain, best enjoyed with a hot coffee in the village center. The Roman milestones have a mystical shine under the grey sky. At noon, St. Peter's Church provides a dry and peaceful sanctuary. After a hearty lunch in the warm konoba, the air in the olive groves is exceptionally fresh, even if the sunset views over the hills are partly obscured by the clouds and mist.",
+            "hr": "Jutro u Muću počinje laganom kišom, u kojoj je najbolje uživati uz toplu kavu u centru sela. Rimski miljokazi imaju mističan sjaj pod sivim nebom. U podne crkva sv. Petra pruža suho i mirno utočište. Nakon obilnog ručka u toploj konobi, zrak u maslinicima je iznimno svjež, čak i ako su pogledi na zalazak sunca s brda djelomično zaklonjeni oblacima i maglom."
           },
           "stops": [
             {
@@ -276,7 +307,8 @@
                 "de": "Setzen Sie sich nach drinnen, um den Regen am Fenster zu beobachten.",
                 "hu": "Üljön be a belső térbe, és élvezze az eső kopogását az ablakon.",
                 "ro": "Stați în interior pentru a privi ploaia de la fereastră.",
-                "en": "Sit inside to enjoy watching the rain from the window."
+                "en": "Sit inside to enjoy watching the rain from the window.",
+                "hr": "Sjednite unutra i uživajte gledajući kišu kroz prozor."
               }
             },
             {
@@ -285,7 +317,8 @@
                 "de": "Vorsicht, die Steine können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a kövek nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, pietrele pot fi alunecoase când sunt ude.",
-                "en": "Caution, the stones can be slippery when wet."
+                "en": "Caution, the stones can be slippery when wet.",
+                "hr": "Oprez, kamenje može biti sklisko kad je mokro."
               }
             },
             {
@@ -294,7 +327,8 @@
                 "de": "Ein idealer Ort, um sich im Trockenen aufzuwärmen.",
                 "hu": "Ideális helyszín, hogy szárazon és nyugodtan várakozzunk.",
                 "ro": "Un loc ideal pentru a vă adăposti de ploaie.",
-                "en": "An ideal place to take shelter from the rain."
+                "en": "An ideal place to take shelter from the rain.",
+                "hr": "Idealno mjesto za zaklon od kiše."
               }
             },
             {
@@ -303,7 +337,8 @@
                 "de": "Genießen Sie ein langes Essen, während der Regenschauer vorbeizieht.",
                 "hu": "Élvezze a hosszú ebédet, amíg elvonul az eső.",
                 "ro": "Savurați un prânz prelungit în timp ce trece ploaia.",
-                "en": "Enjoy a long lunch while the rain shower passes."
+                "en": "Enjoy a long lunch while the rain shower passes.",
+                "hr": "Uživajte u dugom ručku dok pljusak ne prođe."
               }
             },
             {
@@ -312,7 +347,8 @@
                 "de": "Wasserdichtes Schuhwerk ist für die erdigen Wege notwendig.",
                 "hu": "Vízálló lábbeli szükséges a földes utakhoz.",
                 "ro": "Încălțămintea impermeabilă este necesară pentru potecile de pământ.",
-                "en": "Waterproof footwear is necessary for the earthy paths."
+                "en": "Waterproof footwear is necessary for the earthy paths.",
+                "hr": "Vodootporna obuća neophodna je za zemljane staze."
               }
             },
             {
@@ -321,7 +357,8 @@
                 "de": "Die neblige Stimmung bietet dramatische Fotomotive.",
                 "hu": "A ködös hangulat drámai fotótémákat kínál.",
                 "ro": "Atmosfera lăptoasă oferă subiecte dramatice pentru fotografii.",
-                "en": "The misty atmosphere offers dramatic photo opportunities."
+                "en": "The misty atmosphere offers dramatic photo opportunities.",
+                "hr": "Maglovita atmosfera nudi dramatične prilike za fotografiranje."
               }
             }
           ],
@@ -353,6 +390,13 @@
               "Use the church and the konoba as extended warming breaks.",
               "The olive groves smell much more intense after the rain.",
               "Check the weather app for major storms before heading to higher points."
+            ],
+            "hr": [
+              "Čvrst kišobran je važan zbog vjetrova u brdima.",
+              "Vodootporne planinarske cipele zaštitit će vaša stopala od blata na neasfaltiranim stazama.",
+              "Koristite crkvu i konobu kao produžene pauze za grijanje.",
+              "Maslinici mirišu puno intenzivnije nakon kiše.",
+              "Provjerite vremensku prognozu za veće oluje prije odlaska na više točke."
             ]
           }
         },
@@ -361,7 +405,8 @@
             "de": "Die Wintermorgen in Muć sind klar und oft frostig, perfekt für einen heißen Kaffee zum Start. Die römischen Meilensteine stehen einsam in der kargen Landschaft. Mittags bietet die massive Kirche St. Peter Schutz vor dem kalten Wind, bevor ein deftiger Eintopf in der Konoba den Körper wärmt. Der Nachmittag in den Olivenhainen ist kurz, da die Sonne früh hinter den Bergen verschwindet und die Kälte schnell zurückkehrt.",
             "hu": "A téli reggelek Mućban tiszták és gyakran fagyosak, ilyenkor a forró kávé a legjobb indítás. A római mérföldkövek magányosan állnak a kopár tájban. Délben a Szent Péter-templom vastag falai védenek a hideg széltől, majd a konoba melege és egy tartalmas étel ad új erőt. Az olajfaligetekben tett délutáni séta rövid, mivel a nap korán eltűnik a hegyek mögött, és gyorsan visszatér a fagy.",
             "ro": "Diminețile de iarnă în Muć sunt senine și adesea geroase, perfecte pentru o cafea fierbinte la început. Pietrele miliare romane stau singuratice în peisajul arid. La prânz, zidurile groase ale bisericii Sf. Petru oferă adăpost împotriva vântului rece, urmate de căldura konobei. După-amiaza în livezile de măslini este scurtă, deoarece soarele dispare devreme după munți și frigul revine rapid.",
-            "en": "Winter mornings in Muć are clear and often frosty, perfect for a hot coffee to start the day. The Roman milestones stand lonely in the barren landscape. At noon, the thick walls of St. Peter's Church offer shelter from the cold wind, followed by the warmth of the konoba. The afternoon in the olive groves is short, as the sun disappears early behind the mountains and the frost returns quickly."
+            "en": "Winter mornings in Muć are clear and often frosty, perfect for a hot coffee to start the day. The Roman milestones stand lonely in the barren landscape. At noon, the thick walls of St. Peter's Church offer shelter from the cold wind, followed by the warmth of the konoba. The afternoon in the olive groves is short, as the sun disappears early behind the mountains and the frost returns quickly.",
+            "hr": "Zimska jutra u Muću su vedra i često mrazna, savršena za toplu kavu za početak dana. Rimski miljokazi stoje usamljeni u ogoljenom krajoliku. U podne debeli zidovi crkve sv. Petra nude zaklon od hladnog vjetra, nakon čega slijedi toplina konobe. Poslijepodne u maslinicima je kratko, jer sunce rano nestaje iza planina, a mraz se brzo vraća."
           },
           "stops": [
             {
@@ -370,7 +415,8 @@
                 "de": "Fragen Sie nach lokalem Tee mit Honig gegen die Kälte.",
                 "hu": "Kérjen helyi mézes teát a hideg ellen.",
                 "ro": "Cereți un ceai local cu miere pentru a vă încălzi.",
-                "en": "Ask for local tea with honey to fight the cold."
+                "en": "Ask for local tea with honey to fight the cold.",
+                "hr": "Tražite domaći čaj s medom protiv hladnoće."
               }
             },
             {
@@ -379,7 +425,8 @@
                 "de": "Achten Sie auf Glatteis auf den Steinen.",
                 "hu": "Ügyeljen a köveken előforduló jegesedésre.",
                 "ro": "Atenție la porțiunile de gheață de pe pietre.",
-                "en": "Watch out for icy patches on the stones."
+                "en": "Watch out for icy patches on the stones.",
+                "hr": "Pazite na zaleđene dijelove na kamenju."
               }
             },
             {
@@ -388,7 +435,8 @@
                 "de": "Die dicken Steinmauern halten den Wind effektiv ab.",
                 "hu": "A vastag kőfalak hatékonyan felfogják a szelet.",
                 "ro": "Zidurile groase de piatră opresc vântul eficient.",
-                "en": "The thick stone walls block the wind effectively."
+                "en": "The thick stone walls block the wind effectively.",
+                "hr": "Debeli kameni zidovi učinkovito blokiraju vjetar."
               }
             },
             {
@@ -397,7 +445,8 @@
                 "de": "Bestellen Sie ein traditionelles Wintergericht wie 'Peka'.",
                 "hu": "Rendeljen hagyományos téli ételt, például 'peka'-t.",
                 "ro": "Comandați un preparat tradițional de iarnă, cum ar fi 'Peka'.",
-                "en": "Order a traditional winter dish like 'Peka'."
+                "en": "Order a traditional winter dish like 'Peka'.",
+                "hr": "Naručite tradicionalno zimsko jelo poput peke."
               }
             },
             {
@@ -406,7 +455,8 @@
                 "de": "Zügiges Gehen hält die Blutzirkulation aufrecht.",
                 "hu": "A tempósabb séta segít megőrizni a testhőt.",
                 "ro": "Mersul vioi ajută la menținerea circulației sângelui.",
-                "en": "Brisk walking helps maintain body heat."
+                "en": "Brisk walking helps maintain body heat.",
+                "hr": "Brzo hodanje pomaže u održavanju tjelesne topline."
               }
             },
             {
@@ -415,7 +465,8 @@
                 "de": "Seien Sie spätestens um 16:30 Uhr für das Licht hier.",
                 "hu": "Legyen itt legkésőbb 16:30-ra a fények miatt.",
                 "ro": "Fiți aici până la ora 16:30 pentru a prinde lumina.",
-                "en": "Be here by 16:30 at the latest for the light."
+                "en": "Be here by 16:30 at the latest for the light.",
+                "hr": "Budite ovdje najkasnije do 16:30 zbog svjetla."
               }
             }
           ],
@@ -447,6 +498,13 @@
               "Hat and gloves are mandatory for the outdoor stops.",
               "Avoid standing still for long in the shadow of the hills.",
               "In the konoba, a cozy fireplace often burns during winter."
+            ],
+            "hr": [
+              "Odjenite se slojevito protiv oštrog vjetra.",
+              "Zalazak sunca zimi nastupa već oko 16:45.",
+              "Kapa i rukavice su obvezni za zaustavljanja na otvorenom.",
+              "Izbjegavajte dugo stajanje u sjeni brda.",
+              "U konobi zimi često gori ugodan kamin."
             ]
           }
         }
@@ -480,7 +538,8 @@
             "de": "Checken Sie Ihre Ausrüstung vor der Fahrt in die Hügel.",
             "hu": "Ellenőrizze a felszerelését a dombok felé indulás előtt.",
             "ro": "Verificați echipamentul înainte de a pleca spre dealuri.",
-            "en": "Check your gear before heading into the hills."
+            "en": "Check your gear before heading into the hills.",
+            "hr": "Provjerite opremu prije odlaska u brda."
           }
         },
         {
@@ -503,7 +562,8 @@
             "de": "Kurzer Stopp an der antiken Transitroute.",
             "hu": "Rövid megálló az ókori tranzitútvonalnál.",
             "ro": "Scurt popas la ruta antică de tranzit.",
-            "en": "Short stop at the ancient transit route."
+            "en": "Short stop at the ancient transit route.",
+            "hr": "Kratko zaustavljanje na drevnoj tranzitnoj ruti."
           }
         },
         {
@@ -526,7 +586,8 @@
             "de": "Anspruchsvolle Strecke mit herrlicher Bergluft.",
             "hu": "Kihívást jelentő útvonal friss hegyi levegővel.",
             "ro": "Traseu solicitant cu aer curat de munte.",
-            "en": "Challenging route with fresh mountain air."
+            "en": "Challenging route with fresh mountain air.",
+            "hr": "Izazovna ruta sa svježim planinskim zrakom."
           }
         },
         {
@@ -549,7 +610,8 @@
             "de": "Entdecken Sie die traditionelle Architektur der Region.",
             "hu": "Fedezze fel a régió hagyományos építészetét.",
             "ro": "Descoperiți arhitectura tradițională a regiunii.",
-            "en": "Discover the traditional architecture of the region."
+            "en": "Discover the traditional architecture of the region.",
+            "hr": "Otkrijte tradicionalnu arhitekturu regije."
           }
         },
         {
@@ -572,7 +634,8 @@
             "de": "Füllen Sie Ihre Energiereserven mit lokaler Küche auf.",
             "hu": "Töltődjön fel helyi ételekkel a visszaút előtt.",
             "ro": "Reîncărcați-vă bateriile cu preparate locale.",
-            "en": "Refuel with local cuisine before the return."
+            "en": "Refuel with local cuisine before the return.",
+            "hr": "Napunite snagu lokalnom kuhinjom prije povratka."
           }
         }
       ],
@@ -580,7 +643,8 @@
         "de": "Erfahren Sie die weite Landschaft von Muć mit dem Rad. Diese Route verbindet historische Stätten im Tal mit den Ausläufern des Svilaja-Gebirges. Nach dem Besuch der römischen Meilensteine führt der Weg bergauf für atemberaubende Ausblicke. Der Abstecher nach Neorić zeigt das authentische Dorfleben, bevor der Tag bei einer wohlverdienten Mahlzeit im Zentrum ausklingt.",
         "hu": "Biciklizzen keresztül Muć tágas tájain. Ez az útvonal összeköti a völgy történelmi helyszíneit a Svilaja-hegység lábaival. A római mérföldkövek megtekintése után az út felfelé vezet a lélegzetelállító kilátásért. A Neorić felé tett kitérő az autentikus falusi életet mutatja be, mielőtt a nap egy jól megérdemelt étkezéssel zárul a központban.",
         "ro": "Explorați peisajele vaste din Muć cu bicicleta. Această rută leagă siturile istorice din vale de poalele muntelui Svilaja. După vizitarea pietrelor miliare romane, drumul urcă pentru vederi uluitoare. Deturul spre Neorić dezvăluie viața autentică de sat, înainte ca ziua să se încheie cu o masă binemeritată în centru.",
-        "en": "Cycle through the vast landscapes of Muć. This route connects historical sites in the valley with the foothills of the Svilaja mountain range. After visiting the Roman milestones, the path leads uphill for breathtaking views. The detour to Neorić showcases authentic village life before the day concludes with a well-deserved meal in the center."
+        "en": "Cycle through the vast landscapes of Muć. This route connects historical sites in the valley with the foothills of the Svilaja mountain range. After visiting the Roman milestones, the path leads uphill for breathtaking views. The detour to Neorić showcases authentic village life before the day concludes with a well-deserved meal in the center.",
+        "hr": "Vozite bicikl kroz prostrane krajolike Muća. Ova ruta povezuje povijesna mjesta u dolini s podnožjem planinskog lanca Svilaje. Nakon posjeta rimskim miljokazima, put vodi uzbrdo do prekrasnih vidikovaca. Skretanje prema Neoriću prikazuje autentičan seoski život prije nego što dan završite zasluženim obrokom u centru."
       },
       "gastro_picks": {
         "de": [
@@ -605,6 +669,12 @@
           {
             "name": "Zagora Pršut",
             "tip": "Air-dried ham with a bold flavor."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Pršut iz Zagore",
+            "tip": "Sušena šunka intenzivnog okusa, sušena na buri."
           }
         ]
       },
@@ -636,6 +706,13 @@
             "tip": "Untouched nature beyond the paved roads.",
             "emoji": "🍃"
           }
+        ],
+        "hr": [
+          {
+            "name": "Podnožje Svilaje",
+            "tip": "Netaknuta priroda izvan asfaltiranih cesta.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -662,6 +739,12 @@
             "name": "Honey from Beekeepers",
             "tip": "Wildflower honey directly from local producers."
           }
+        ],
+        "hr": [
+          {
+            "name": "Med od pčelara",
+            "tip": "Livadni med izravno od lokalnih proizvođača."
+          }
         ]
       },
       "tips": {
@@ -680,6 +763,10 @@
         "en": [
           "A mountain bike is required for the uneven mountain paths.",
           "Avoid the midday heat during summer months."
+        ],
+        "hr": [
+          "Za neravne planinske staze potreban je brdski bicikl.",
+          "Izbjegavajte podnevnu vrućinu tijekom ljetnih mjeseci."
         ]
       },
       "variants": {
@@ -688,7 +775,8 @@
             "de": "Eine Radtour durch Muć im Regen erfordert gute Ausrüstung, bietet aber leere Wege. Der Morgen beginnt mit einer kurzen Fahrt zum Zentrum. Die Steigung zur Svilaja ist bei Nässe anspruchsvoll, da die Straßen rutschig sein können. Ein Stopp in Neorić wirkt in den Wolken fast zeitlos. Das späte Mittagessen ist die Belohnung für die nasse Fahrt, bevor man den Tag gemütlich ausklingen lässt.",
             "hu": "A mući kerékpározás esőben jó felszerelést igényel, de cserébe üres utakat kínál. A reggel egy rövid gurulással indul a központba. A Svilaja felé vezető emelkedő nedvesen komoly kihívás a csúszós aszfalt miatt. Neorić faluja a felhők között időtlennek tűnik. A késői ebéd a jutalom a vizes tekerés után, mielőtt végleg megszárítkoznánk.",
             "ro": "O tură cu bicicleta prin Muć pe ploaie necesită echipament bun, dar oferă drumuri pustii. Dimineața începe cu o scurtă deplasare spre centru. Urcarea spre Svilaja este solicitantă pe carosabil umed, deoarece drumurile pot fi alunecoase. Satul Neorić pare atemporal printre nori. Prânzul întârziat este recompensa pentru tura umedă, înainte de finalul zilei.",
-            "en": "A bike ride through Muć in the rain requires good gear but offers empty roads. The morning starts with a short ride to the center. The ascent towards Svilaja is challenging when wet as roads can be slippery. Neorić village feels timeless among the clouds. Late lunch is the reward for the wet ride before drying off for the day."
+            "en": "A bike ride through Muć in the rain requires good gear but offers empty roads. The morning starts with a short ride to the center. The ascent towards Svilaja is challenging when wet as roads can be slippery. Neorić village feels timeless among the clouds. Late lunch is the reward for the wet ride before drying off for the day.",
+            "hr": "Vožnja biciklom kroz Muć po kiši zahtijeva dobru opremu, ali nudi prazne ceste. Jutro počinje kratkom vožnjom do centra. Uspon prema Svilaji je izazovan kad je mokro jer ceste mogu biti skliske. Selo Neorić djeluje bezvremenski među oblacima. Kasni ručak je nagrada za mokru vožnju prije sušenja za kraj dana."
           },
           "stops": [
             {
@@ -697,7 +785,8 @@
                 "de": "Parken Sie das Rad unter einem Vordach.",
                 "hu": "Parkolja a kerékpárt egy előtető alá.",
                 "ro": "Parcați bicicleta sub un acoperiș.",
-                "en": "Park your bike under a roof overhang."
+                "en": "Park your bike under a roof overhang.",
+                "hr": "Parkirajte bicikl ispod nadstrešnice."
               }
             },
             {
@@ -706,7 +795,8 @@
                 "de": "Ein schneller Foto-Stopp reicht bei Regen aus.",
                 "hu": "Esőben egy gyors fotómegálló is elegendő.",
                 "ro": "O oprire scurtă pentru poze este suficientă pe ploaie.",
-                "en": "A quick photo stop is enough in the rain."
+                "en": "A quick photo stop is enough in the rain.",
+                "hr": "Kratko fotografiranje je dovoljno na kiši."
               }
             },
             {
@@ -715,7 +805,8 @@
                 "de": "Vorsicht in den Kurven, der Asphalt ist rutschig.",
                 "hu": "Vigyázzon a kanyarokban, az aszfalt csúszós.",
                 "ro": "Atenție în curbe, asfaltul este alunecos.",
-                "en": "Be careful in the turns, the asphalt is slippery."
+                "en": "Be careful in the turns, the asphalt is slippery.",
+                "hr": "Budite oprezni u zavojima, asfalt je skliski."
               }
             },
             {
@@ -724,7 +815,8 @@
                 "de": "Nutzen Sie Buswartehäuschen für kurze Pausen.",
                 "hu": "Használja a buszmegállókat rövid pihenőre.",
                 "ro": "Folosiți stațiile de autobuz pentru scurte pauze.",
-                "en": "Use bus shelters for short breaks."
+                "en": "Use bus shelters for short breaks.",
+                "hr": "Koristite autobusne nadstrešnice za kratke pauze."
               }
             },
             {
@@ -733,7 +825,8 @@
                 "de": "Fragen Sie nach einem Platz in der Nähe der Heizung.",
                 "hu": "Kérjen helyet a fűtőtest közelében.",
                 "ro": "Cereți un loc lângă calorifer.",
-                "en": "Ask for a seat near the heater."
+                "en": "Ask for a seat near the heater.",
+                "hr": "Tražite mjesto blizu grijalice."
               }
             }
           ],
@@ -765,6 +858,13 @@
               "Avoid abrupt braking on descents.",
               "Mudguards on your bike will prevent mud splashes on your clothes.",
               "Bright, reflective clothing is vital in low visibility conditions."
+            ],
+            "hr": [
+              "Nosite punu kišnu jaknu i kišne hlače.",
+              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrim cestama.",
+              "Izbjegavajte naglo kočenje na nizbrdicama.",
+              "Blatobrani na biciklu spriječit će prskanje blata po vašoj odjeći.",
+              "Svijetla, reflektirajuća odjeća je ključna u uvjetima slabe vidljivosti."
             ]
           }
         },
@@ -773,7 +873,8 @@
             "de": "Radfahren in Muć im Winter bietet fantastische Weitblicke durch die kahlen Bäume. Die kalte Morgenluft im Zentrum macht schnell wach. Der Aufstieg zur Svilaja hält den Körper warm, aber die Abfahrt erfordert dicke Handschuhe gegen den eisigen Fahrtwind. In Neorić sind die Straßen oft ruhig und leer. Das Mittagessen ist ein wichtiger Stopp, um die gefrorenen Finger wieder aufzuwärmen.",
             "hu": "A téli kerékpározás Mućban fantasztikus kilátást nyújt a kopár fákon keresztül. A központ hideg reggeli levegője gyorsan felébreszt. A Svilaja felé vezető emelkedő melegen tartja a testet, de a lejtmenethez vastag kesztyű kell a jeges menetszél ellen. Neorić utcái ilyenkor csendesek és üresek. Az ebéd kritikus pont a megfagyott ujjak felmelegítéséhez.",
             "ro": "Ciclismul în Muć pe timp de iarnă oferă vederi panoramice fantastice prin copacii golași. Aerul rece de dimineață din centru vă trezește rapid. Urcarea spre Svilaja menține corpul cald, dar coborârea necesită mănuși groase împotriva vântului înghețat. În Neorić, străzile sunt adesea liniștite și pustii. Prânzul este o oprire esențială pentru a vă încălzi degetele înghețate.",
-            "en": "Cycling in Muć in winter offers fantastic panoramic views through the bare trees. The cold morning air in the center wakes you up quickly. The ascent towards Svilaja keeps the body warm, but the descent requires thick gloves against the icy wind. In Neorić, the streets are often quiet and empty. Lunch is a crucial stop to warm up frozen fingers."
+            "en": "Cycling in Muć in winter offers fantastic panoramic views through the bare trees. The cold morning air in the center wakes you up quickly. The ascent towards Svilaja keeps the body warm, but the descent requires thick gloves against the icy wind. In Neorić, the streets are often quiet and empty. Lunch is a crucial stop to warm up frozen fingers.",
+            "hr": "Bicikliranje u Muću zimi nudi fantastične panoramske poglede kroz ogoljeno drveće. Hladan jutarnji zrak u centru brzo će vas razbuditi. Uspon prema Svilaji održava tijelo toplim, ali spust zahtijeva debele rukavice protiv ledenog vjetra. U Neoriću su ulice često tihe i prazne. Ručak je ključna postaja za grijanje promrzlih prstiju."
           },
           "stops": [
             {
@@ -782,7 +883,8 @@
                 "de": "Starten Sie erst, wenn die Sonne die Straßen erwärmt hat.",
                 "hu": "Csak akkor induljon, ha a nap már felmelegítette az utakat.",
                 "ro": "Porniți la drum doar după ce soarele a încălzit asfaltul.",
-                "en": "Only start once the sun has warmed the roads."
+                "en": "Only start once the sun has warmed the roads.",
+                "hr": "Krenite tek kad sunce malo zagrije ceste."
               }
             },
             {
@@ -791,7 +893,8 @@
                 "de": "Halten Sie die Pause kurz, um nicht auszukühlen.",
                 "hu": "Tartsa röviden a szünetet, hogy ne hűljön ki.",
                 "ro": "Păstrați pauza scurtă pentru a nu vă răci corpul.",
-                "en": "Keep the break short to avoid cooling down."
+                "en": "Keep the break short to avoid cooling down.",
+                "hr": "Neka pauza bude kratka kako biste izbjegli hlađenje."
               }
             },
             {
@@ -800,7 +903,8 @@
                 "de": "Vermeiden Sie übermäßiges Schwitzen durch moderates Tempo.",
                 "hu": "Kerülje a túlzott izzadást mérsékelt tempóval.",
                 "ro": "Evitați transpirația excesivă printr-un ritm moderat.",
-                "en": "Avoid excessive sweating by maintaining a moderate pace."
+                "en": "Avoid excessive sweating by maintaining a moderate pace.",
+                "hr": "Izbjegavajte pretjerano znojenje održavajući umjeren tempo."
               }
             },
             {
@@ -809,7 +913,8 @@
                 "de": "Achten Sie auf Schattenstellen mit Frostgefahr.",
                 "hu": "Figyeljen az árnyékos helyekre, ahol lefagyás lehet.",
                 "ro": "Atenție la zonele umbrite unde poate exista polei.",
-                "en": "Watch out for shaded spots where ice might persist."
+                "en": "Watch out for shaded spots where ice might persist.",
+                "hr": "Pazite na sjenovita mjesta gdje bi se led mogao zadržati."
               }
             },
             {
@@ -818,7 +923,8 @@
                 "de": "Warme Getränke sind jetzt wichtiger als kalte.",
                 "hu": "A meleg italok most fontosabbak a hidegeknél.",
                 "ro": "Băuturile calde sunt acum mai importante decât cele reci.",
-                "en": "Warm drinks are more important than cold ones now."
+                "en": "Warm drinks are more important than cold ones now.",
+                "hr": "Topli napitci su sada važniji od hladnih."
               }
             }
           ],
@@ -850,6 +956,13 @@
               "Check your brake pads as they may react differently in the cold.",
               "Take a thermos with warm tea with you.",
               "Finish the tour before 16:00 before the temperature drops sharply."
+            ],
+            "hr": [
+              "Tanke podrukavice pružaju dodatni sloj izolacije.",
+              "Vjetrootporni prednji dio jakne štiti od pothlađivanja vjetrom.",
+              "Provjerite kočione obloge jer mogu drugačije reagirati na hladnoći.",
+              "Ponesite termosicu s toplim čajem.",
+              "Završite turu prije 16:00, prije nego što temperatura naglo padne."
             ]
           }
         }
@@ -883,7 +996,8 @@
             "de": "Parken Sie hier und erkunden Sie das Areal zu Fuß.",
             "hu": "Parkoljon le itt, és fedezze fel a területet gyalog.",
             "ro": "Parcați aici și explorați zona la pas.",
-            "en": "Park here and explore the area on foot."
+            "en": "Park here and explore the area on foot.",
+            "hr": "Parkirajte ovdje i istražite područje pješice."
           }
         },
         {
@@ -906,7 +1020,8 @@
             "de": "Nur ein kurzer Fußweg von der Kirche entfernt.",
             "hu": "Csak egy rövid séta a templomtól.",
             "ro": "La doar o scurtă plimbare de biserică.",
-            "en": "Just a short walk from the church."
+            "en": "Just a short walk from the church.",
+            "hr": "Samo kratka šetnja od crkve."
           }
         },
         {
@@ -929,7 +1044,8 @@
             "de": "Genießen Sie das Bergpanorama, ohne weit wandern zu müssen.",
             "hu": "Élvezze a hegyi panorámát hosszas túrázás nélkül.",
             "ro": "Bucurați-vă de panorama montană fără a urca pe jos.",
-            "en": "Enjoy the mountain panorama without long hiking."
+            "en": "Enjoy the mountain panorama without long hiking.",
+            "hr": "Uživajte u planinskoj panorami bez dugog pješačenja."
           }
         },
         {
@@ -952,7 +1068,8 @@
             "de": "Ein ruhiger Ort für eine Pause im Grünen.",
             "hu": "Csendes hely egy kis pihenőre a zöldben.",
             "ro": "Un loc liniștit pentru o pauză în verdeață.",
-            "en": "A quiet spot for a break in the green."
+            "en": "A quiet spot for a break in the green.",
+            "hr": "Mirno mjesto za odmor u zelenilu."
           }
         },
         {
@@ -975,7 +1092,8 @@
             "de": "Spaziergang durch die alten Steinstraßen.",
             "hu": "Séta a régi kőutcák mentén.",
             "ro": "Plimbare pe vechile străzi de piatră.",
-            "en": "Stroll along the old stone streets."
+            "en": "Stroll along the old stone streets.",
+            "hr": "Prošećite starim kamenim ulicama."
           }
         },
         {
@@ -998,7 +1116,8 @@
             "de": "Die Konobas hier sind bekannt für authentische Gerichte.",
             "hu": "A helyi konobák az autentikus ételeikről ismertek.",
             "ro": "Konobele de aici sunt cunoscute pentru mâncăruri autentice.",
-            "en": "The local konobas are known for authentic dishes."
+            "en": "The local konobas are known for authentic dishes.",
+            "hr": "Lokalne konobe poznate su po autentičnim jelima."
           }
         }
       ],
@@ -1006,7 +1125,8 @@
         "de": "Diese Autotour verbindet die kulturellen Highlights von Muć mit der wilden Natur der Svilaja. Wir starten im Zentrum bei der historischen St.-Peter-Kirche und den Meilensteinen. Danach führt die Fahrt in die kühleren Höhenlagen des Gebirges für ein kurzes Picknick. Den Nachmittag verbringen wir im charmanten Neorić, bevor wir für ein deftiges Essen ins Herz von Muć zurückkehren.",
         "hu": "Ez az autós túra összeköti Muć kulturális nevezetességeit a Svilaja vad természetével. A központban kezdünk a történelmi Szent Péter templomnál és a mérföldköveknél. Ezt követően az út a hegység hűvösebb magaslataiba vezet egy rövid piknikre. A délutánt a bájos Neorićban töltjük, majd egy kiadós étkezésre visszatérünk Muć szívébe.",
         "ro": "Acest tur cu mașina îmbină atracțiile culturale din Muć cu natura sălbatică de pe Svilaja. Începem în centru, la biserica istorică Sf. Petru și la pietrele miliare. Ulterior, drumul urcă spre înălțimile răcoroase ale muntelui pentru un scurt picnic. După-amiaza o petrecem în pitorescul Neorić, înainte de a reveni în inima Muć pentru o masă copioasă.",
-        "en": "This car tour combines the cultural highlights of Muć with the wild nature of Svilaja. We start in the center at the historical St. Peter's Church and the milestones. Afterwards, the drive leads to the cooler heights of the mountain range for a short picnic. We spend the afternoon in charming Neorić before returning to the heart of Muć for a hearty meal."
+        "en": "This car tour combines the cultural highlights of Muć with the wild nature of Svilaja. We start in the center at the historical St. Peter's Church and the milestones. Afterwards, the drive leads to the cooler heights of the mountain range for a short picnic. We spend the afternoon in charming Neorić before returning to the heart of Muć for a hearty meal.",
+        "hr": "Ova tura automobilom spaja kulturne znamenitosti Muća s divljom prirodom Svilaje. Krećemo iz centra kod povijesne crkve sv. Petra i miljokaza. Zatim vožnja vodi do hladnijih visina planinskog lanca za kratki piknik. Poslijepodne provodimo u šarmantnom Neoriću prije povratka u srce Muća na obilan obrok."
       },
       "gastro_picks": {
         "de": [
@@ -1031,6 +1151,12 @@
           {
             "name": "Peka",
             "tip": "Meat and vegetables slow-cooked under a bell-shaped lid."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Peka",
+            "tip": "Meso i povrće polako kuhano pod metalnim zvonom (pekom)."
           }
         ]
       },
@@ -1062,6 +1188,13 @@
             "tip": "Ideal for a short meditation in nature.",
             "emoji": "🧘"
           }
+        ],
+        "hr": [
+          {
+            "name": "Rub šume kod Neorića",
+            "tip": "Idealno za kratku meditaciju u prirodi.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1088,6 +1221,12 @@
             "name": "Homemade Wine",
             "tip": "Many local farmers sell their own wine."
           }
+        ],
+        "hr": [
+          {
+            "name": "Domaće vino",
+            "tip": "Mnogi lokalni poljoprivrednici prodaju vlastito vino."
+          }
         ]
       },
       "tips": {
@@ -1106,6 +1245,10 @@
         "en": [
           "Mountain roads are narrow, drive carefully.",
           "Parking in the village center is mostly free."
+        ],
+        "hr": [
+          "Planinske ceste su uske, vozite oprezno.",
+          "Parkiranje u centru sela je uglavnom besplatno."
         ]
       },
       "variants": {
@@ -1114,7 +1257,8 @@
             "de": "Mit dem Auto ist Muć im Regen komfortabel zu erkunden. Der Morgen beginnt trocken bei der Kirche St. Peter. Die Fahrt zur Svilaja bietet dramatische Ausblicke auf wolkenverhangene Gipfel, während man im Auto warm bleibt. Ein Picknick wird durch einen gemütlichen Snack im Wagen ersetzt. Neorić lässt sich bequem vom Fahrersitz aus bewundern, bevor der Tag bei einem gemütlichen Essen endet.",
             "hu": "Autóval Muć felfedezése esőben is kényelmes marad. A reggel szárazon indul a Szent Péter-templom meglátogatásával. A Svilaja felé vezető út drámai kilátást nyújt a felhőkbe burkolózott csúcsokra, miközben mi az autóban melegszünk. A pikniket egy kocsiban elfogyasztott uzsonna váltja fel. Neorić kényelmesen megcsodálható a vezetőülésből, mielőtt a nap egy kiadós ebéddel zárulna.",
             "ro": "Explorarea orașului Muć cu mașina pe ploaie este confortabilă. Dimineața începe la adăpost, vizitând biserica Sf. Petru. Drumul spre Svilaja oferă vederi dramatice spre vârfurile înnorate, în timp ce în mașină este cald. Picnicul este înlocuit cu o gustare în vehicul. Neorić poate fi admirat confortabil din mașină, înainte ca ziua să se încheie cu o masă caldă.",
-            "en": "Exploring Muć by car in the rain remains comfortable. The morning starts dry with a visit to St. Peter's Church. The drive to Svilaja offers dramatic views of cloud-covered peaks while staying warm inside. The picnic is replaced by a cozy snack in the car. Neorić can be admired from the driver's seat before the day ends with a warm meal."
+            "en": "Exploring Muć by car in the rain remains comfortable. The morning starts dry with a visit to St. Peter's Church. The drive to Svilaja offers dramatic views of cloud-covered peaks while staying warm inside. The picnic is replaced by a cozy snack in the car. Neorić can be admired from the driver's seat before the day ends with a warm meal.",
+            "hr": "Istraživanje Muća automobilom po kiši ostaje udobno. Jutro počinje suho uz posjet crkvi sv. Petra. Vožnja do Svilaje nudi dramatične poglede na vrhove prekrivene oblacima dok ste na toplom unutra. Piknik zamjenjuje ugodan međuobrok u autu. Neoriću se možete diviti s vozačkog sjedala prije nego dan završi toplim obrokom."
           },
           "stops": [
             {
@@ -1123,7 +1267,8 @@
                 "de": "Parken Sie direkt vor dem Eingang, um trocken zu bleiben.",
                 "hu": "Parkoljon közvetlenül a bejáratnál, hogy száraz maradjon.",
                 "ro": "Parcați chiar în fața intrării pentru a rămâne uscat.",
-                "en": "Park right in front of the entrance to stay dry."
+                "en": "Park right in front of the entrance to stay dry.",
+                "hr": "Parkirajte točno ispred ulaza kako biste ostali suhi."
               }
             },
             {
@@ -1132,7 +1277,8 @@
                 "de": "Betrachten Sie die Meilensteine kurz vom Fenster aus.",
                 "hu": "Tekintse meg a mérföldköveket rövid időre az ablakból.",
                 "ro": "Priviți pietrele miliare scurt de la fereastra mașinii.",
-                "en": "View the milestones briefly from the car window."
+                "en": "View the milestones briefly from the car window.",
+                "hr": "Pogledajte miljokaze nakratko kroz prozor automobila."
               }
             },
             {
@@ -1141,7 +1287,8 @@
                 "de": "Fahren Sie vorsichtig, Nebel kann die Sicht einschränken.",
                 "hu": "Vezessen óvatosan, a köd korlátozhatja a látást.",
                 "ro": "Conduceți cu prudență, ceața poate reduce vizibilitatea.",
-                "en": "Drive carefully, fog may limit visibility."
+                "en": "Drive carefully, fog may limit visibility.",
+                "hr": "Vozite oprezno, magla može ograničiti vidljivost."
               }
             },
             {
@@ -1150,7 +1297,8 @@
                 "de": "Machen Sie es sich für einen Snack im Auto gemütlich.",
                 "hu": "Telepedjen le egy uzsonnára az autó kényelmében.",
                 "ro": "Instalați-vă confortabil în mașină pentru o gustare.",
-                "en": "Settle in for a snack in the comfort of your car."
+                "en": "Settle in for a snack in the comfort of your car.",
+                "hr": "Smjestite se za međuobrok u udobnosti svog automobila."
               }
             },
             {
@@ -1159,7 +1307,8 @@
                 "de": "Ein kleiner Rundgang mit dem Schirm lohnt sich trotzdem.",
                 "hu": "Egy kis séta esernyővel így is megéri.",
                 "ro": "O scurtă plimbare cu umbrela merită totuși făcută.",
-                "en": "A short stroll with an umbrella is still worth it."
+                "en": "A short stroll with an umbrella is still worth it.",
+                "hr": "Kratka šetnja s kišobranom i dalje se isplati."
               }
             },
             {
@@ -1168,7 +1317,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt bei der Konoba.",
                 "hu": "Használja a közvetlenül a konoba melletti parkolót.",
                 "ro": "Folosiți parcarea aflată chiar lângă konoba.",
-                "en": "Use the parking lot right next to the konoba."
+                "en": "Use the parking lot right next to the konoba.",
+                "hr": "Koristite parkiralište odmah do konobe."
               }
             }
           ],
@@ -1200,6 +1350,13 @@
               "Run the air conditioning to prevent the windows from fogging up.",
               "Take spare clothes in the trunk in case you get wet.",
               "Mountain roads to Svilaja may have small rockfalls during heavy rain."
+            ],
+            "hr": [
+              "Provjerite stanje brisača prije polaska.",
+              "Izbjegavajte duboke lokve u ulegnućima na sporednim cestama.",
+              "Uključite klima uređaj kako biste spriječili zamagljivanje stakala.",
+              "Ponesite rezervnu odjeću u prtljažniku za slučaj da pokisnete.",
+              "Planinske ceste prema Svilaji mogu imati male odrone kamenja tijekom jake kiše."
             ]
           }
         },
@@ -1208,7 +1365,8 @@
             "de": "Im Winter ist das Auto der ideale Begleiter für die hügelige Umgebung von Muć. Der Morgen beginnt frostig an der Kirche St. Peter. Die Fahrt hinauf zur Svilaja zeigt oft schneebedeckte Gipfel in der Ferne, während die Sitzheizung für Wohlbefinden sorgt. Das Picknick im Freien entfällt zugunsten eines kurzen Fotostopps. In Neorić bewundert man die historische Architektur in der klaren Winterluft, bevor man sich zum späten Mittagessen aufwärmt.",
             "hu": "Télen az autó az ideális társ Muć dombos környékén. A reggel fagyosan indul a Szent Péter-templomnál. A Svilaja felé vezető úton gyakran látni hófödte csúcsokat a távolban, miközben az ülésfűtés gondoskodik a kényelemről. A szabadtéri piknik helyett csak egy rövid fotómegállót tartunk. Neorićban a tiszta téli levegőben csodáljuk meg a történelmi épületeket, mielőtt beülnénk melegedni az ebédhez.",
             "ro": "Iarna, mașina este partenerul ideal pentru împrejurimile deluroase din Muć. Dimineața începe geroasă la biserica Sf. Petru. Drumul spre Svilaja dezvăluie adesea vârfuri înzăpezite în depărtare, în timp ce încălzirea în scaune asigură confortul. Picnicul în aer liber este anulat în favoarea unei scurte opriri pentru poze. În Neorić admirăm arhitectura istorică în aerul curat de iarnă, înainte de prânz.",
-            "en": "In winter, the car is the ideal companion for the hilly surroundings of Muć. The morning starts frosty at St. Peter's Church. The drive up to Svilaja often reveals snow-capped peaks in the distance, while seat heating ensures comfort. The outdoor picnic is skipped in favor of a short photo stop. In Neorić, we admire the historical architecture in the clear winter air before warming up for a late lunch."
+            "en": "In winter, the car is the ideal companion for the hilly surroundings of Muć. The morning starts frosty at St. Peter's Church. The drive up to Svilaja often reveals snow-capped peaks in the distance, while seat heating ensures comfort. The outdoor picnic is skipped in favor of a short photo stop. In Neorić, we admire the historical architecture in the clear winter air before warming up for a late lunch.",
+            "hr": "Zimi je automobil idealan suputnik za brdovitu okolicu Muća. Jutro počinje mrazno kod crkve sv. Petra. Vožnja do Svilaje često otkriva snježne vrhove u daljini, dok grijanje sjedala osigurava udobnost. Piknik na otvorenom preskačemo u korist kratkog fotografiranja. U Neoriću se divimo povijesnoj arhitekturi na čistom zimskom zraku prije grijanja uz kasni ručak."
           },
           "stops": [
             {
@@ -1217,7 +1375,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil la ralanti.",
-                "en": "Don't leave the engine idling unnecessarily."
+                "en": "Don't leave the engine idling unnecessarily.",
+                "hr": "Ne ostavljajte motor da radi u praznom hodu bespotrebno."
               }
             },
             {
@@ -1226,7 +1385,8 @@
                 "de": "Vorsicht beim Aussteigen, der Boden kann gefroren sein.",
                 "hu": "Vigyázzon a kiszállásnál, a talaj fagyos lehet.",
                 "ro": "Atenție la coborâre, solul poate fi înghețat.",
-                "en": "Be careful when getting out, the ground may be frozen."
+                "en": "Be careful when getting out, the ground may be frozen.",
+                "hr": "Budite oprezni pri izlasku, tlo može biti zaleđeno."
               }
             },
             {
@@ -1235,7 +1395,8 @@
                 "de": "Winterreifen sind auf dieser Höhe absolut notwendig.",
                 "hu": "A téli gumi ezen a magasságon elengedhetetlen.",
                 "ro": "Anvelopele de iarnă sunt absolut necesare la această altitudine.",
-                "en": "Winter tires are absolutely necessary at this altitude."
+                "en": "Winter tires are absolutely necessary at this altitude.",
+                "hr": "Zimske gume su apsolutno neophodne na ovoj nadmorskoj visini."
               }
             },
             {
@@ -1244,7 +1405,8 @@
                 "de": "Genießen Sie den Ausblick kurz bei laufender Heizung.",
                 "hu": "Élvezze a kilátást rövid ideig járó fűtés mellett.",
                 "ro": "Savurați priveliștea scurt cu încălzirea pornită.",
-                "en": "Enjoy the view briefly with the heater running."
+                "en": "Enjoy the view briefly with the heater running.",
+                "hr": "Kratko uživajte u pogledu uz uključeno grijanje."
               }
             },
             {
@@ -1253,7 +1415,8 @@
                 "de": "Die klare Luft sorgt für exzellente Fernsicht.",
                 "hu": "A tiszta levegő kiváló távoli kilátást biztosít.",
                 "ro": "Aerul curat oferă o vizibilitate excelentă la distanță.",
-                "en": "The clear air provides excellent distant views."
+                "en": "The clear air provides excellent distant views.",
+                "hr": "Čist zrak pruža izvrsne poglede u daljinu."
               }
             },
             {
@@ -1262,7 +1425,8 @@
                 "de": "Parken Sie in der Sonne, um das Auto natürlich zu wärmen.",
                 "hu": "Parkoljon napos helyre, hogy természetesen melegedjen az autó.",
                 "ro": "Parcați la soare pentru a încălzi mașina natural.",
-                "en": "Park in the sun to naturally warm the car."
+                "en": "Park in the sun to naturally warm the car.",
+                "hr": "Parkirajte na suncu kako bi se automobil prirodno zagrijao."
               }
             }
           ],
@@ -1294,6 +1458,13 @@
               "Maintain a greater safety distance than usual on mountain roads.",
               "Take warm blankets for all passengers.",
               "Watch out for wildlife, which can be more frequent in winter."
+            ],
+            "hr": [
+              "Uvijek nosite strugalicu za led i četku za snijeg u autu.",
+              "Provjerite razinu antifriza u hladnjaku i tekućini za pranje stakla.",
+              "Održavajte veći sigurnosni razmak nego inače na planinskim cestama.",
+              "Ponesite tople deke za sve putnike.",
+              "Pazite na divlje životinje koje zimi mogu biti učestalije na cesti."
             ]
           }
         }
@@ -1327,7 +1498,8 @@
             "de": "Der Knotenpunkt für lokale Verbindungen.",
             "hu": "A helyi járatok csomópontja.",
             "ro": "Nodul pentru legăturile locale.",
-            "en": "The hub for local bus connections."
+            "en": "The hub for local bus connections.",
+            "hr": "Čvorište za lokalne autobusne veze."
           }
         },
         {
@@ -1350,7 +1522,8 @@
             "de": "Leicht zu Fuß von der Haltestelle erreichbar.",
             "hu": "Könnyen elérhető gyalog a megállótól.",
             "ro": "Ușor de ajuns pe jos de la stație.",
-            "en": "Easily accessible on foot from the stop."
+            "en": "Easily accessible on foot from the stop.",
+            "hr": "Lako dostupno pješice od stanice."
           }
         },
         {
@@ -1373,7 +1546,8 @@
             "de": "Ein Muss für Archäologie-Interessierte.",
             "hu": "Régészet iránt érdeklődőknek kötelező látnivaló.",
             "ro": "O vizită obligatorie pentru cei interesați de arheologie.",
-            "en": "A must-visit for those interested in archaeology."
+            "en": "A must-visit for those interested in archaeology.",
+            "hr": "Obavezno mjesto za one koje zanima arheologija."
           }
         },
         {
@@ -1396,7 +1570,8 @@
             "de": "Genießen Sie die Fahrt durch das Tal.",
             "hu": "Élvezze az utazást a völgyön keresztül.",
             "ro": "Bucurați-vă de drumul prin vale.",
-            "en": "Enjoy the ride through the valley."
+            "en": "Enjoy the ride through the valley.",
+            "hr": "Uživajte u vožnji kroz dolinu."
           }
         },
         {
@@ -1419,7 +1594,8 @@
             "de": "Probieren Sie Käse und hausgemachtes Brot.",
             "hu": "Kóstolja meg a sajtot és a házi kenyeret.",
             "ro": "Încercați brânza și pâinea de casă.",
-            "en": "Try the cheese and homemade bread."
+            "en": "Try the cheese and homemade bread.",
+            "hr": "Probajte sir i domaći kruh."
           }
         }
       ],
@@ -1427,7 +1603,8 @@
         "de": "Nutzen Sie die lokalen Busverbindungen, um Muć und seine Umgebung zu erkunden. Der Tag konzentriert sich auf das historische Zentrum von Muć Gornji mit seinen Kirchen und Meilensteinen, gefolgt von einer Busfahrt in das Nachbardorf Neorić. Es ist eine authentische Art, das tägliche Leben im Hinterland kennenzulernen, abgerundet durch ein gemütliches Mittagessen.",
         "hu": "Használja a helyi buszjáratokat Muć és környéke felfedezéséhez. A nap Muć Gornji történelmi központjára fókuszál a templomokkal és mérföldkövekkel, majd buszozás következik a szomszédos Neorić faluba. Ez egy hiteles módja a hátországi mindennapi élet megismerésének, amelyet egy kellemes ebéd koronáz meg.",
         "ro": "Folosiți liniile locale de autobuz pentru a explora Muć și împrejurimile sale. Ziua se concentrează pe centrul istoric din Muć Gornji, cu bisericile și pietrele miliare, urmată de o călătorie spre satul vecin, Neorić. Este un mod autentic de a cunoaște viața de zi cu zi din hinterland, totul completat de un prânz relaxant.",
-        "en": "Use the local bus connections to explore Muć and its surroundings. The day focuses on the historical center of Muć Gornji with its churches and milestones, followed by a bus ride to the neighboring village of Neorić. It's an authentic way to experience daily life in the hinterland, rounded off by a cozy lunch."
+        "en": "Use the local bus connections to explore Muć and its surroundings. The day focuses on the historical center of Muć Gornji with its churches and milestones, followed by a bus ride to the neighboring village of Neorić. It's an authentic way to experience daily life in the hinterland, rounded off by a cozy lunch.",
+        "hr": "Koristite lokalne autobusne linije za istraživanje Muća i okolice. Dan je usmjeren na povijesno središte Gornjeg Muća s crkvama i miljokazima, nakon čega slijedi vožnja autobusom do susjednog sela Neorić. To je autentičan način za doživljaj svakodnevice u zaleđu, zaokružen ugodnim ručkom."
       },
       "gastro_picks": {
         "de": [
@@ -1452,6 +1629,12 @@
           {
             "name": "Local Cheese",
             "tip": "Sheep cheese from the region is particularly flavorful."
+          }
+        ],
+        "hr": [
+          {
+            "name": "Lokalni sir",
+            "tip": "Ovčji sir iz ove regije posebno je aromatičan."
           }
         ]
       },
@@ -1483,6 +1666,13 @@
             "tip": "Observe the slow pace of village life.",
             "emoji": "🌅"
           }
+        ],
+        "hr": [
+          {
+            "name": "Seoski trg u Neoriću",
+            "tip": "Promatrajte spori ritam seoskog života.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -1509,6 +1699,12 @@
             "name": "Handmade Souvenirs",
             "tip": "Look for traditional embroideries."
           }
+        ],
+        "hr": [
+          {
+            "name": "Ručno rađeni suveniri",
+            "tip": "Potražite tradicionalne vezove."
+          }
         ]
       },
       "tips": {
@@ -1527,6 +1723,10 @@
         "en": [
           "Check the bus schedule in advance as frequency is low.",
           "Have small change ready for the bus ticket."
+        ],
+        "hr": [
+          "Unaprijed provjerite vozni red autobusa jer su linije rijetke.",
+          "Pripremite sitniš za autobusnu kartu."
         ]
       },
       "variants": {
@@ -1535,7 +1735,8 @@
             "de": "Die Nutzung öffentlicher Verkehrsmittel in Muć bei Regen erfordert etwas Timing. Der Morgen beginnt an der Bushaltestelle Muć Gornji, wo man im Unterstand trocken wartet. Der kurze Fußweg zur Kirche St. Peter ist erfrischend. Die römischen Meilensteine glänzen im Regen, bevor der Bus nach Neorić eine trockene Weiterfahrt ermöglicht. Das späte Mittagessen in einer Konoba in Neorić rundet den Tag gemütlich ab.",
             "hu": "A tömegközlekedés Mućban esőben némi időzítést igényel. A reggel a felső-mući buszmegállóban indul, ahol a váróban szárazon maradhatunk. A Szent Péter-templomhoz vezető rövid séta frissítő az esőben. A római mérföldkövek nedvesen csillognak, mielőtt a Neorićba tartó busz biztosítaná a száraz továbbutazást. A napot egy hangulatos neorići konobában zárjuk.",
             "ro": "Utilizarea transportului public în Muć pe ploaie necesită o planificare bună. Dimineața începe în stația de autobuz Muć Gornji, unde vă puteți adăposti. Scurta plimbare spre biserica Sf. Petru este revigorantă. Pietrele miliare romane strălucesc în ploaie înainte ca autobuzul spre Neorić să vă asigure o călătorie uscată. Ziua se încheie confortabil la o konoba în Neorić.",
-            "en": "Using public transit in Muć during rain requires some timing. The morning starts at the Muć Gornji bus stop where you can wait dry in the shelter. The short walk to St. Peter's Church is refreshing. The Roman milestones shine in the rain before the bus to Neorić ensures a dry onward journey. The day ends comfortably at a local konoba in Neorić."
+            "en": "Using public transit in Muć during rain requires some timing. The morning starts at the Muć Gornji bus stop where you can wait dry in the shelter. The short walk to St. Peter's Church is refreshing. The Roman milestones shine in the rain before the bus to Neorić ensures a dry onward journey. The day ends comfortably at a local konoba in Neorić.",
+            "hr": "Korištenje javnog prijevoza u Muću tijekom kiše zahtijeva dobro planiranje vremena. Jutro počinje na autobusnoj stanici u Gornjem Muću gdje možete suhi čekati pod nadstrešnicom. Kratka šetnja do crkve sv. Petra je osvježavajuća. Rimski miljokazi sjaje na kiši prije nego što autobus za Neorić osigura suhu daljnju vožnju. Dan završava ugodno u lokalnoj konobi u Neoriću."
           },
           "stops": [
             {
@@ -1544,7 +1745,8 @@
                 "de": "Nutzen Sie den Unterstand, um trocken auf den Bus zu warten.",
                 "hu": "Használja a várótermet, hogy szárazon várja a buszt.",
                 "ro": "Folosiți adăpostul stației pentru a aștepta autobuzul la uscat.",
-                "en": "Use the shelter to wait for the bus while staying dry."
+                "en": "Use the shelter to wait for the bus while staying dry.",
+                "hr": "Koristite nadstrešnicu za čekanje autobusa dok ostajete suhi."
               }
             },
             {
@@ -1553,7 +1755,8 @@
                 "de": "Ein kleiner Schirm ist für den kurzen Fußweg ideal.",
                 "hu": "Egy kis esernyő ideális a rövid sétához.",
                 "ro": "O umbrelă mică este ideală pentru scurta plimbare.",
-                "en": "A small umbrella is ideal for the short walk."
+                "en": "A small umbrella is ideal for the short walk.",
+                "hr": "Mali kišobran je idealan za kratku šetnju."
               }
             },
             {
@@ -1562,7 +1765,8 @@
                 "de": "Halten Sie Ausschau nach Pfützen auf dem Weg.",
                 "hu": "Figyeljen az úton lévő pocsolyákra.",
                 "ro": "Atenție la bălțile de pe drum.",
-                "en": "Watch out for puddles on the path."
+                "en": "Watch out for puddles on the path.",
+                "hr": "Pazite na lokve na stazi."
               }
             },
             {
@@ -1571,7 +1775,8 @@
                 "de": "Schütteln Sie den Schirm vor dem Einsteigen gut ab.",
                 "hu": "Rázza le alaposan az esernyőt felszállás előtt.",
                 "ro": "Scuturați bine umbrela înainte de a urca în autobuz.",
-                "en": "Shake your umbrella well before boarding the bus."
+                "en": "Shake your umbrella well before boarding the bus.",
+                "hr": "Dobro otresite kišobran prije ulaska u autobus."
               }
             },
             {
@@ -1580,7 +1785,8 @@
                 "de": "Deponieren Sie nasse Kleidung an der Garderobe.",
                 "hu": "Helyezze a vizes ruhákat a fogasra.",
                 "ro": "Lăsați hainele ude la cuier.",
-                "en": "Place your wet clothes on the coat rack."
+                "en": "Place your wet clothes on the coat rack.",
+                "hr": "Odložite mokru odjeću na vješalicu."
               }
             }
           ],
@@ -1612,6 +1818,13 @@
               "Wear a rain jacket in case the bus shelter is full.",
               "A small, foldable umbrella fits easily in your bag.",
               "Check for any weather-related delays on the transit route."
+            ],
+            "hr": [
+              "Provjerite vozni red online kako biste smanjili vrijeme čekanja na otvorenom.",
+              "Vodootporna obuća je važna za šetnje između stanica.",
+              "Nosite kišnu jaknu u slučaju da je nadstrešnica puna.",
+              "Mali, sklopivi kišobran lako stane u torbu.",
+              "Provjerite ima li kašnjenja u prometu zbog vremenskih uvjeta."
             ]
           }
         },
@@ -1620,7 +1833,8 @@
             "de": "Winterreisen mit dem Bus in Muć bieten eine gemütliche Perspektive auf die frostige Landschaft. Der Morgen beginnt an der Haltestelle Muć Gornji in der frischen Winterluft. Der Fußweg zur Kirche St. Peter hält warm, und die massiven Mauern bieten Schutz vor dem Wind. Nach der Besichtigung der römischen Meilensteine bringt Sie der beheizte Bus sicher nach Neorić, wo ein warmes Mittagessen in der Konoba wartet.",
             "hu": "A téli buszozás Mućban hangulatos bepillantást enged a fagyos tájba. A reggel a friss téli levegőn indul a felső-mući megállóban. A Szent Péter-templomhoz vezető séta felmelegíti, a templomfalak pedig védenek a széltől. A római mérföldkövek megtekintése után a fűtött busz biztonságban viszi át Neorićba, ahol a konoba melegében várja az ebéd.",
             "ro": "Călătoria cu autobuzul prin Muć pe timp de iarnă oferă o perspectivă confortabilă asupra peisajului înghețat. Dimineața începe în aerul proaspăt din stația Muć Gornji. Plimbarea spre biserica Sf. Petru vă menține cald, iar zidurile masive vă protejează de vânt. După vizitarea pietrelor miliare, autobuzul încălzit vă duce în siguranță la Neorić pentru un prânz cald.",
-            "en": "Winter bus travel in Muć offers a cozy perspective on the frosty landscape. The morning starts in the fresh winter air at the Muć Gornji stop. The walk to St. Peter's Church keeps you warm, and the massive walls offer protection from the wind. After viewing the Roman milestones, the heated bus takes you safely to Neorić, where a warm lunch awaits at the konoba."
+            "en": "Winter bus travel in Muć offers a cozy perspective on the frosty landscape. The morning starts in the fresh winter air at the Muć Gornji stop. The walk to St. Peter's Church keeps you warm, and the massive walls offer protection from the wind. After viewing the Roman milestones, the heated bus takes you safely to Neorić, where a warm lunch awaits at the konoba.",
+            "hr": "Zimsko putovanje autobusom u Muću nudi ugodnu perspektivu na mrazni krajolik. Jutro počinje na svježem zimskom zraku na stanici u Gornjem Muću. Šetnja do crkve sv. Petra će vas zagrijati, a masivni zidovi nude zaštitu od vjetra. Nakon razgledavanja rimskih miljokaza, grijani autobus vas sigurno vozi do Neorića, gdje vas u konobi čeka topli ručak."
           },
           "stops": [
             {
@@ -1629,7 +1843,8 @@
                 "de": "Tragen Sie warme Handschuhe beim Warten.",
                 "hu": "Viseljen meleg kesztyűt a várakozás közben.",
                 "ro": "Purtați mănuși groase în timp ce așteptați.",
-                "en": "Wear warm gloves while waiting for the bus."
+                "en": "Wear warm gloves while waiting for the bus.",
+                "hr": "Nosite tople rukavice dok čekate autobus."
               }
             },
             {
@@ -1638,7 +1853,8 @@
                 "de": "Gehen Sie zügig, um die Körperwärme zu halten.",
                 "hu": "Sétáljon tempósan, hogy megőrizze a testhőt.",
                 "ro": "Mergeți vioi pentru a vă menține căldura corpului.",
-                "en": "Walk briskly to maintain your body heat."
+                "en": "Walk briskly to maintain your body heat.",
+                "hr": "Hodajte žustro kako biste održali tjelesnu toplinu."
               }
             },
             {
@@ -1647,7 +1863,8 @@
                 "de": "Bewundern Sie die Steine kurz in der Wintersonne.",
                 "hu": "Csodálja meg a köveket a téli napsütésben.",
                 "ro": "Admirați pietrele scurt în soarele de iarnă.",
-                "en": "Admire the stones briefly in the winter sun."
+                "en": "Admire the stones briefly in the winter sun.",
+                "hr": "Nakratko se divite kamenju na zimskom suncu."
               }
             },
             {
@@ -1656,7 +1873,8 @@
                 "de": "Genießen Sie die Fahrt im warmen Innenraum.",
                 "hu": "Élvezze az utazást a meleg utastérben.",
                 "ro": "Savurați călătoria în interiorul încălzit.",
-                "en": "Enjoy the ride in the warm bus interior."
+                "en": "Enjoy the ride in the warm bus interior.",
+                "hr": "Uživajte u vožnji u toploj unutrašnjosti autobusa."
               }
             },
             {
@@ -1665,7 +1883,8 @@
                 "de": "Wählen Sie einen Tisch in der Nähe des Ofens.",
                 "hu": "Válasszon asztalt a kályha közelében.",
                 "ro": "Alegeți o masă în apropierea sobei.",
-                "en": "Choose a table near the stove or heater."
+                "en": "Choose a table near the stove or heater.",
+                "hr": "Odaberite stol blizu peći ili grijalice."
               }
             }
           ],
@@ -1697,6 +1916,13 @@
               "Warm drinks shorten the perceived waiting time at the bus stop.",
               "Keep the shorter daylight hours in mind for your return trip.",
               "Buses are usually well-heated, consider taking off your coat inside."
+            ],
+            "hr": [
+              "Planirajte dodatno vrijeme jer zimski promet može biti sporiji nego inače.",
+              "Nosite termo donje rublje ispod obične odjeće.",
+              "Topli napitci skraćuju subjektivno vrijeme čekanja na stanici.",
+              "Imajte na umu kraće dnevno svjetlo za povratno putovanje.",
+              "Autobusi su obično dobro grijani, razmislite o skidanju kaputa unutra."
             ]
           }
         }
