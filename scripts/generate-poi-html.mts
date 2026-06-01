@@ -19,6 +19,10 @@
 import fs from "node:fs";
 import path from "node:path";
 import zlib from "node:zlib";
+import { createRequire } from "node:module";
+const _tzRequire = createRequire(import.meta.url);
+let _tzLookup: ((lat: number, lng: number) => string) | null = null;
+try { _tzLookup = _tzRequire("tz-lookup"); } catch { _tzLookup = null; }
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
 import * as _exploreNs from "../lib/explore/explore-block";
@@ -1505,6 +1509,18 @@ r.querySelectorAll('.plz-itin-ics').forEach(function(b){b.addEventListener('clic
 })();</script>`;
 }
 
+// Visit-info strip: sun/daylight/golden-hour/season computed CLIENT-SIDE from
+// the POI coordinates (shared cached /js/visit-info.js). Universal, dynamic,
+// unique per location, zero content cost — works on every POI type.
+function renderVisitInfo(poi: POI, lang: Lang): string {
+  if (!Array.isArray(poi.coords) || poi.coords.length < 2) return "";
+  const lng = Number(poi.coords[0]), lat = Number(poi.coords[1]);
+  if (!isFinite(lat) || !isFinite(lng)) return "";
+  let tz = "";
+  if (_tzLookup) { try { tz = _tzLookup(lat, lng) || ""; } catch { tz = ""; } }
+  return `<section class="plz-visit" data-lat="${lat}" data-lng="${lng}" data-lang="${lang}"${tz ? ` data-tz="${tz}"` : ""}></section><script src="/js/visit-info.js" defer></script>`;
+}
+
 // Stats-chip row: compact data summary under the title (mobile-first)
 function renderStatsChips(poi: POI, lang: Lang, richness: ReturnType<typeof pageRichness>, sightsCount: number, nearbyCount: number): string {
   const yhCount = (YEARLY_HIGHLIGHTS[poi.id] || []).length;
@@ -2195,6 +2211,7 @@ ready();})();</script>
     <div class="plz-hero-grid-main">${heroHtml}${flagBtnHtml}</div>
     <div class="plz-hero-grid-side">${weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
+  ${renderVisitInfo(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
   <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
   <div id="sec-info">
@@ -2227,6 +2244,15 @@ ready();})();</script>
 .plz-lightbox-close{position:absolute;top:max(12px,env(safe-area-inset-top));right:max(12px,env(safe-area-inset-right));width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,.6);color:#fff;border:1px solid rgba(255,255,255,.2);font-size:1.6rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}
 .plz-lightbox-close:hover{background:rgba(0,0,0,.8)}
 @media (max-width:640px){.plz-lightbox img{max-width:95vw;max-height:80vh}}
+.plz-visit{margin:1.4rem 0}
+.plz-vi-h{font-size:1.05rem;font-weight:700;color:#eaf2ff;margin:0 0 .7rem}
+.plz-vi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.6rem}
+.plz-vi-chip{display:flex;align-items:center;gap:.6rem;padding:.6rem .8rem;border:1px solid rgba(120,150,200,.18);border-radius:13px;background:linear-gradient(180deg,rgba(255,255,255,.03),rgba(255,255,255,0))}
+.plz-vi-chip svg{flex:none;color:#7fb4ff;opacity:.9}
+.plz-vi-chip>div{display:flex;flex-direction:column;line-height:1.25;min-width:0}
+.plz-vi-k{font-size:.72rem;text-transform:uppercase;letter-spacing:.04em;color:rgba(180,200,235,.7)}
+.plz-vi-v{font-size:.96rem;font-weight:600;color:#eaf2ff}
+.plz-vi-v em{font-style:normal;font-weight:400;font-size:.8rem;color:rgba(180,200,235,.75)}
 .plz-faq{margin:1.8rem 0}
 .plz-faq-item{border:1px solid rgba(120,150,200,.18);border-radius:14px;margin:.55rem 0;background:linear-gradient(180deg,rgba(255,255,255,.025),rgba(255,255,255,0));overflow:hidden;transition:border-color .2s,background .2s}
 .plz-faq-item[open]{border-color:rgba(120,180,255,.42);background:rgba(120,180,255,.06)}
