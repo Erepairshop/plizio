@@ -159,7 +159,8 @@
         "de": "Der Morgen beginnt am lebhaften Yachthafen, wo weiße Boote vor der Kulisse der Berge schaukeln. Ein Spaziergang durch die Rue Clemenceau führt Sie direkt in das Herz des korsischen Kunsthandwerks.\n\nMittags erklimmen Sie die mächtige Zitadelle. Erkunden Sie die Kathedrale Saint-Jean-Baptiste und genießen Sie ein traditionelles Mittagessen mit Blick auf das glitzernde Mittelmeer.\n\nDen Nachmittag verbringen Sie am weitläufigen Strand von Calvi. Das flache, türkisfarbene Wasser ist ideal für ein ausgiebiges Bad oder entspannte Stunden im weichen Sand.\n\nWenn der Abend dämmert, kehren Sie zum Quai Landry zurück. Beobachten Sie, wie die Zitadelle im Sonnenuntergang leuchtet, während Sie lokale Spezialitäten in den Restaurants am Wasser genießen.",
         "hu": "A reggel a nyüzsgő kikötőben indul, ahol fehér jachtok ringanak a hegyek háttere előtt. Egy séta a Rue Clemenceau-n keresztül egyenesen a korzikai kézművesség szívébe vezeti Önt.\n\nDélben másszon fel a hatalmas Citadellára. Fedezze fel a Saint-Jean-Baptiste székesegyházat, és élvezze a tradicionális ebédet a csillogó Földközi-tengerre nyíló kilátással.\n\nA délutánt töltse a tágas Calvi strandon. A sekély, türkizkék víz tökéletes egy hosszú fürdőzéshez vagy pihentető órákhoz a puha homokban.\n\nAhogy leszáll az este, térjen vissza a Quai Landry-ra. Nézze meg, ahogy a Citadella ragyog a naplementében, miközben helyi különlegességeket kóstol a vízparti éttermekben.",
         "ro": "Dimineața începe în portul plin de viață, unde iahturile albe se leagănă pe fundalul munților. O plimbare pe Rue Clemenceau vă duce direct în inima meșteșugurilor corse.\n\nLa prânz, urcați la puternica Citadelă. Explorați Catedrala Saint-Jean-Baptiste și bucurați-vă de un prânz tradițional cu vedere la Marea Mediterană sclipitoare.\n\nPetreceți după-amiaza pe vasta plajă din Calvi. Apa turcoaz și puțin adâncă este ideală pentru o baie lungă sau ore de relaxare pe nisipul fin.\n\nPe măsură ce se lasă seara, reveniți la Quai Landry. Priviți cum Citadela strălucește în apus, în timp ce savurați specialități locale la restaurantele de pe malul apei.",
-        "en": "Morning starts at the bustling marina, where white yachts bob against a backdrop of mountains. A stroll through Rue Clemenceau leads you directly into the heart of Corsican craftsmanship.\n\nBy midday, ascend the mighty Citadelle. Explore the Saint-Jean-Baptiste Cathedral and enjoy a traditional lunch with views over the glittering Mediterranean Sea.\n\nSpend the afternoon on the vast Plage de Calvi. The shallow turquoise waters are perfect for a long swim or relaxing hours on the soft sand.\n\nAs evening falls, return to Quai Landry. Watch the Citadelle glow in the sunset while enjoying local specialties at the waterfront restaurants."
+        "en": "Morning starts at the bustling marina, where white yachts bob against a backdrop of mountains. A stroll through Rue Clemenceau leads you directly into the heart of Corsican craftsmanship.\n\nBy midday, ascend the mighty Citadelle. Explore the Saint-Jean-Baptiste Cathedral and enjoy a traditional lunch with views over the glittering Mediterranean Sea.\n\nSpend the afternoon on the vast Plage de Calvi. The shallow turquoise waters are perfect for a long swim or relaxing hours on the soft sand.\n\nAs evening falls, return to Quai Landry. Watch the Citadelle glow in the sunset while enjoying local specialties at the waterfront restaurants.",
+        "fr": "La matinée commence à la marina animée, où les yachts blancs tanguent devant un décor de montagnes. Une promenade dans la Rue Clemenceau vous mène directement au cœur de l'artisanat corse.\n\nVers midi, montez à la majestueuse Citadelle. Explorez la cathédrale Saint-Jean-Baptiste et savourez un déjeuner traditionnel avec vue sur la Méditerranée scintillante.\n\nPassez l'après-midi sur la vaste plage de Calvi. Les eaux turquoises peu profondes sont idéales pour une longue baignade ou des heures de détente sur le sable fin.\n\nÀ la tombée de la nuit, retournez au quai Landry. Admirez la Citadelle s'illuminer au coucher du soleil tout en dégustant des spécialités locales dans les restaurants du front de mer."
       },
       "gastro_picks": {
         "de": [
@@ -200,6 +201,16 @@
           {
             "name": "Fiadone",
             "tip": "Classic cheesecake made with lemon and Brocciu cheese."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Sanglier à la Corse",
+            "tip": "Ragoût de sanglier, un plat national copieux."
+          },
+          {
+            "name": "Fiadone",
+            "tip": "Gâteau au fromage classique à base de citron et de Brocciu."
           }
         ]
       },
@@ -251,6 +262,18 @@
             "tip": "A shaded retreat right behind the beach sand.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Remparts de la Citadelle",
+            "tip": "Vues tranquilles sur la mer, loin de la foule du port.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pinède",
+            "tip": "Un refuge ombragé juste derrière le sable de la plage.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -293,6 +316,16 @@
             "name": "A Loghja",
             "tip": "Delicatessen for premium Corsican products."
           }
+        ],
+        "fr": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Marché couvert pour la charcuterie et le fromage locaux."
+          },
+          {
+            "name": "A Loghja",
+            "tip": "Épicerie fine pour des produits corses de qualité supérieure."
+          }
         ]
       },
       "tips": {
@@ -319,6 +352,12 @@
           "Book harbor-side restaurant tables in advance during summer.",
           "The beach water stays shallow for a long way, great for kids.",
           "Visit the Citadel in the late afternoon for the best photography light."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les pavés de la Citadelle.",
+          "En été, réservez vos tables de restaurant côté port à l'avance.",
+          "L'eau de la plage reste peu profonde sur une longue distance, idéal pour les enfants.",
+          "Visitez la Citadelle en fin d'après-midi pour bénéficier de la meilleure lumière photographique."
         ]
       },
       "variants": {
@@ -551,7 +590,8 @@
             "de": "Starten Sie am Yachthafen, wo graue Wolken über den Masten hängen. Die Zitadelle bietet Schutz in ihren engen Gassen, und die Kathedrale ist ein trockener Zufluchtsort. Die Rue Clemenceau lädt zum Shopping unter Markisen ein. Ein kurzer Spaziergang am stürmischen Strand ist atmosphärisch, bevor Sie den Abend in einem warmen Restaurant am Quai Landry bei korsischen Spezialitäten ausklingen lassen.",
             "hu": "Kezdje a reggelt a kikötőben, ahol a szürke felhők alacsonyan szállnak a jachtok felett. A Fellegvár szűk utcái védelmet nyújtanak a szél ellen, a katedrális pedig tökéletes menedék az eső elől. A Rue Clemenceau boltjai között fedett részeket is találunk. A viharos tenger látványa a parton lenyűgöző, a napot pedig egy hangulatos kikötői étterem melegében, helyi borok mellett zárjuk.",
             "ro": "Începeți dimineața în port, unde norii cenușii atârnă deasupra catargelor. Citadela oferă adăpost pe străzile sale înguste, iar catedrala este un refugiu uscat. Rue Clemenceau invită la cumpărături sub copertine. O scurtă plimbare pe plaja furtunoasă este plină de atmosferă, înainte de a încheia seara într-un restaurant cald pe Quai Landry, savurând specialități corsicane autentice.",
-            "en": "Start at the marina where gray clouds hang low over the yachts. The Citadel offers shelter within its narrow alleys, and the Cathedral is a dry sanctuary. Rue Clemenceau invites shopping under awnings. A short walk on the stormy beach is atmospheric, before ending the day in a warm restaurant at Quai Landry, watching the raindrops on the harbor while enjoying Corsican cuisine."
+            "en": "Start at the marina where gray clouds hang low over the yachts. The Citadel offers shelter within its narrow alleys, and the Cathedral is a dry sanctuary. Rue Clemenceau invites shopping under awnings. A short walk on the stormy beach is atmospheric, before ending the day in a warm restaurant at Quai Landry, watching the raindrops on the harbor while enjoying Corsican cuisine.",
+            "fr": "Commencez à la marina où les nuages gris surplombent les yachts. La Citadelle offre un abri dans ses ruelles étroites, et la cathédrale est un sanctuaire au sec. La Rue Clemenceau invite au shopping sous les auvents. Une courte promenade sur la plage tourmentée est atmosphérique, avant de terminer la journée dans un restaurant chaleureux au quai Landry, en regardant les gouttes de pluie sur le port tout en savourant la cuisine corse."
           },
           "stops": [
             {
@@ -560,7 +600,8 @@
                 "de": "Regenschirme im Café am Hafen griffbereit halten.",
                 "hu": "Tartsa kéznél az esernyőt a kikötői kávézóban.",
                 "ro": "Țineți umbrela la îndemână în cafeneaua din port.",
-                "en": "Keep umbrellas ready at the harbor café."
+                "en": "Keep umbrellas ready at the harbor café.",
+                "fr": "Gardez vos parapluies prêts au café du port."
               }
             },
             {
@@ -569,7 +610,8 @@
                 "de": "Vorsicht auf dem rutschigen Kopfsteinpflaster.",
                 "hu": "Vigyázat, a macskakő esőben nagyon csúszik.",
                 "ro": "Atenție la pavajul alunecos pe ploaie.",
-                "en": "Careful on the slippery cobblestones."
+                "en": "Careful on the slippery cobblestones.",
+                "fr": "Attention aux pavés glissants."
               }
             },
             {
@@ -578,7 +620,8 @@
                 "de": "Idealer Ort, um einen Regenschauer abzuwarten.",
                 "hu": "Ideális hely egy nagyobb zápor átvészelésére.",
                 "ro": "Loc ideal pentru a aștepta trecerea ploii.",
-                "en": "Ideal place to wait out a heavy shower."
+                "en": "Ideal place to wait out a heavy shower.",
+                "fr": "Endroit idéal pour attendre la fin d'une forte averse."
               }
             },
             {
@@ -587,7 +630,8 @@
                 "de": "Nutzen Sie die Vordächer der Boutiquen.",
                 "hu": "Használja ki a boltok előtti fedett részeket.",
                 "ro": "Folosiți copertinele magazinelor pentru adăpost.",
-                "en": "Use the shop awnings for shelter."
+                "en": "Use the shop awnings for shelter.",
+                "fr": "Utilisez les auvents des boutiques pour vous abriter."
               }
             },
             {
@@ -596,7 +640,8 @@
                 "de": "Genießen Sie das Tosen der Brandung.",
                 "hu": "Élvezze a hullámok morajlását a szürkületben.",
                 "ro": "Bucurați-vă de vuietul valurilor în amurg.",
-                "en": "Enjoy the roar of the surf in the mist."
+                "en": "Enjoy the roar of the surf in the mist.",
+                "fr": "Profitez du fracas des vagues dans la brume."
               }
             },
             {
@@ -605,7 +650,8 @@
                 "de": "Wählen Sie einen Platz am Fenster zum Hafen.",
                 "hu": "Válasszon ablak melletti asztalt a kikötőre.",
                 "ro": "Alegeți o masă la fereastră spre port.",
-                "en": "Choose a window table facing the harbor."
+                "en": "Choose a window table facing the harbor.",
+                "fr": "Choisissez une table près de la fenêtre face au port."
               }
             }
           ],
@@ -633,6 +679,12 @@
               "The upper Citadel is very exposed during wind.",
               "Upper town museums offer dry alternatives.",
               "Quai Landry has many covered terrace options."
+            ],
+            "fr": [
+              "Achetez un imperméable de qualité Rue Clemenceau.",
+              "La haute Citadelle est très exposée en cas de vent.",
+              "Les musées de la ville haute offrent des alternatives au sec.",
+              "Le quai Landry propose de nombreuses options de terrasses couvertes."
             ]
           }
         },
@@ -641,7 +693,8 @@
             "de": "Erleben Sie Calvi in winterlicher Stille. Die klare Luft am Hafen gibt den Blick auf die schneebedeckten Berge frei. Die Zitadelle wirkt majestätisch und menschenleer. Nach dem Besuch der Kathedrale wärmen Sie sich in einem der wenigen offenen Cafés auf. Ein Strandspaziergang bei tiefstehender Sonne ist meditativ. Der Tag endet früh bei einem herzhaften Kastaniengericht am Kaminfeuer in der Altstadt.",
             "hu": "Tapasztalja meg Calvi téli nyugalmát. A kikötő friss levegőjén túl látni lehet a távoli havas hegyeket. A Fellegvár ilyenkor méltóságteljes és csendes. A katedrális látogatása után melegedjen fel egy helyi kávézóban. A tengerparti séta a korai naplementében meditatív élmény. A napot korán zárjuk egy kiadós gesztenyés étellel az óváros egyik hangulatos, kandallós vendéglőjében.",
             "ro": "Experimentați liniștea iernii în Calvi. Aerul curat din port dezvăluie munții înzăpeziți în depărtare. Citadela pare maiestuoasă și pustie. După catedrală, încălziți-vă într-o cafenea locală deschisă. O plimbare pe plajă la apusul timpuriu este meditativă. Ziua se încheie devreme cu un fel de mâncare cu castane lângă șemineu în orașul vechi.",
-            "en": "Experience Calvi in winter stillness. The crisp air at the harbor reveals snow-capped mountains in the distance. The Citadel feels majestic and uncrowded. After visiting the Cathedral, warm up in a cozy local café. A beach walk during the low sun is meditative. The day ends early with a hearty chestnut dish by a fireplace in the old town as the town quiets down."
+            "en": "Experience Calvi in winter stillness. The crisp air at the harbor reveals snow-capped mountains in the distance. The Citadel feels majestic and uncrowded. After visiting the Cathedral, warm up in a cozy local café. A beach walk during the low sun is meditative. The day ends early with a hearty chestnut dish by a fireplace in the old town as the town quiets down.",
+            "fr": "Découvrez Calvi dans le calme hivernal. L'air vif du port révèle des montagnes enneigées au loin. La Citadelle semble majestueuse et peu fréquentée. Après avoir visité la cathédrale, réchauffez-vous dans un café local accueillant. Une promenade sur la plage sous le soleil bas est méditative. La journée se termine tôt avec un plat copieux à base de châtaignes près d'une cheminée dans la vieille ville, alors que la cité s'apaise."
           },
           "stops": [
             {
@@ -650,7 +703,8 @@
                 "de": "Blick auf die verschneiten Berge genießen.",
                 "hu": "Élvezze a kilátást a havas hegycsúcsokra.",
                 "ro": "Bucurați-vă de vederea munților înzăpeziți.",
-                "en": "Enjoy the view of the snow-capped peaks."
+                "en": "Enjoy the view of the snow-capped peaks.",
+                "fr": "Profitez de la vue sur les sommets enneigés."
               }
             },
             {
@@ -659,7 +713,8 @@
                 "de": "Mütze und Handschuhe gegen den Wind einpacken.",
                 "hu": "Készítsen sapkát és kesztyűt a szél ellen.",
                 "ro": "Luați căciulă și mănuși împotriva vântului.",
-                "en": "Pack a hat and gloves against the sea wind."
+                "en": "Pack a hat and gloves against the sea wind.",
+                "fr": "Prévoyez un bonnet et des gants contre le vent marin."
               }
             },
             {
@@ -668,7 +723,8 @@
                 "de": "Wärmen Sie sich in der stillen Kirche auf.",
                 "hu": "Melegedjen fel a templom csendes falai között.",
                 "ro": "Încălziți-vă între zidurile liniștite ale bisericii.",
-                "en": "Warm up inside the quiet church walls."
+                "en": "Warm up inside the quiet church walls.",
+                "fr": "Réchauffez-vous entre les murs silencieux de l'église."
               }
             },
             {
@@ -677,7 +733,8 @@
                 "de": "Viele Geschäfte haben eingeschränkte Zeiten.",
                 "hu": "Sok üzlet korlátozott nyitvatartással üzemel.",
                 "ro": "Multe magazine au program redus iarna.",
-                "en": "Many shops have limited winter hours."
+                "en": "Many shops have limited winter hours.",
+                "fr": "De nombreux magasins ont des horaires d'hiver limités."
               }
             },
             {
@@ -686,7 +743,8 @@
                 "de": "Bester Ort für den frühen Sonnenuntergang.",
                 "hu": "A legjobb hely a korai naplemente nézéséhez.",
                 "ro": "Cel mai bun loc pentru apusul timpuriu.",
-                "en": "Best spot for the early winter sunset."
+                "en": "Best spot for the early winter sunset.",
+                "fr": "Le meilleur endroit pour le coucher de soleil hivernal précoce."
               }
             },
             {
@@ -695,7 +753,8 @@
                 "de": "Korsische Eintöpfe probieren – ideal für Winter.",
                 "hu": "Kóstolja meg a téli korsikai egytálételeket.",
                 "ro": "Gustați tocănițele corsicane, ideale iarna.",
-                "en": "Try Corsican stews, ideal for winter nights."
+                "en": "Try Corsican stews, ideal for winter nights.",
+                "fr": "Goûtez aux ragoûts corses, idéaux pour les nuits d'hiver."
               }
             }
           ],
@@ -723,6 +782,12 @@
               "Corsican chestnut products are in season now.",
               "Fewer restaurants stay open, booking is wise.",
               "Wear warm layers for the chilly evening wind."
+            ],
+            "fr": [
+              "Le soleil se couche tôt, vers 17h00.",
+              "Les produits corses à base de châtaigne sont de saison.",
+              "Moins de restaurants restent ouverts, il est prudent de réserver.",
+              "Portez des couches chaudes pour le vent frais du soir."
             ]
           }
         }
@@ -856,7 +921,8 @@
         "de": "Starten Sie Ihre Radtour am glitzernden Hafen und folgen Sie dem flachen Weg am Strand entlang. Der Duft der Pinien begleitet Sie auf den ersten Kilometern.\n\nAm späten Vormittag fordern Sie sich mit dem Anstieg zur Notre-Dame de la Serra heraus. Die Belohnung ist ein Panorama, das Ihnen den Atem rauben wird.\n\nSetzen Sie Ihre Fahrt zur wilden Revellata-Halbinsel fort. Hier finden Sie unberührte Naturpfade und kleine Buchten, die zum Abkühlen im Meer einladen.\n\nZum Abschluss rollen Sie entspannt zurück ins Stadtzentrum. Genießen Sie eine herzhafte korsische Mahlzeit, um Ihre Energiereserven nach einem aktiven Tag aufzufüllen.",
         "hu": "Kezdje a kerékpártúrát a csillogó kikötőben, és kövesse a strand menti sík utat. A fenyők illata végigkíséri az első kilométereken.\n\nKéső délelőtt tegye próbára magát a Notre-Dame de la Serra emelkedőjével. A jutalom egy olyan panoráma, amelytől eláll a lélegzete.\n\nFolytassa útját a vad Revellata-félsziget felé. Itt érintetlen ösvényeket és kis öblöket talál, amelyek hűsítő fürdőzésre csábítanak.\n\nVégül guruljon vissza kényelmesen a városközpontba. Élvezze a kiadós korzikai vacsorát, hogy feltöltődjön az aktív nap után.",
         "ro": "Începeți turul cu bicicleta în portul strălucitor și urmați drumul plat de-a lungul plajei. Mirosul pinilor vă însoțește în primii kilometri.\n\nSpre sfârșitul dimineții, provocați-vă cu urcarea către Notre-Dame de la Serra. Recompensa este o panoramă care vă va lăsa fără suflare.\n\nContinuați plimbarea către peninsula sălbatică Revellata. Aici veți găsi poteci naturale virgine și mici golfuri care vă invită la o baie răcoritoare.\n\nLa final, reveniți relaxat în centrul orașului. Savurați o masă corsicană consistentă pentru a vă reîncărca bateriile după o zi activă.",
-        "en": "Start your cycling tour at the sparkling harbor and follow the flat path along the beach. The scent of pine trees accompanies you for the first few kilometers.\n\nIn the late morning, challenge yourself with the climb to Notre-Dame de la Serra. The reward is a panorama that will take your breath away.\n\nContinue your ride to the wild Revellata Peninsula. Here you will find untouched nature trails and small coves perfect for a cooling dip in the sea.\n\nTo wrap up, coast back down to the city center. Enjoy a hearty Corsican meal to replenish your energy after an active day."
+        "en": "Start your cycling tour at the sparkling harbor and follow the flat path along the beach. The scent of pine trees accompanies you for the first few kilometers.\n\nIn the late morning, challenge yourself with the climb to Notre-Dame de la Serra. The reward is a panorama that will take your breath away.\n\nContinue your ride to the wild Revellata Peninsula. Here you will find untouched nature trails and small coves perfect for a cooling dip in the sea.\n\nTo wrap up, coast back down to the city center. Enjoy a hearty Corsican meal to replenish your energy after an active day.",
+        "fr": "Commencez votre tour à vélo au port étincelant et suivez la piste plate le long de la plage. L'odeur des pins vous accompagne durant les premiers kilomètres.\n\nEn fin de matinée, relevez le défi de la montée vers Notre-Dame de la Serra. La récompense est un panorama à couper le souffle.\n\nContinuez votre route vers la presqu'île sauvage de la Revellata. Vous y trouverez des sentiers naturels préservés et de petites criques parfaites pour une baignade rafraîchissante.\n\nPour conclure, redescendez vers le centre-ville. Savourez un repas corse copieux pour refaire le plein d'énergie après une journée active."
       },
       "gastro_picks": {
         "de": [
@@ -897,6 +963,16 @@
           {
             "name": "Charcuterie Corse",
             "tip": "Prisutu and Lonzu ham are perfect for a snack."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Bière Pietra",
+            "tip": "Bière corse à la châtaigne, très rafraîchissante après une balade."
+          },
+          {
+            "name": "Charcuterie Corse",
+            "tip": "Le Prisutu et le Lonzu sont parfaits pour un en-cas."
           }
         ]
       },
@@ -948,6 +1024,18 @@
             "tip": "Isolated tip of the peninsula.",
             "emoji": "🌅"
           }
+        ],
+        "fr": [
+          {
+            "name": "Notre-Dame de la Serra",
+            "tip": "Un lieu spirituel avec des vues imprenables.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Phare de la Revellata",
+            "tip": "La pointe isolée de la presqu'île.",
+            "emoji": "🌅"
+          }
         ]
       },
       "shopping_picks": {
@@ -973,6 +1061,12 @@
           {
             "name": "L'Orriu",
             "tip": "Local cheese and wine shop for souvenirs."
+          }
+        ],
+        "fr": [
+          {
+            "name": "L'Orriu",
+            "tip": "Fromagerie et cave à vin locale pour vos souvenirs."
           }
         ]
       },
@@ -1000,6 +1094,12 @@
           "Carry plenty of water as there is little shade on the hills.",
           "The coastal road is flat, but inland climbs are steep.",
           "A mountain bike is better suited for the Revellata trails."
+        ],
+        "fr": [
+          "Vérifiez vos freins avant de descendre de la colline de la Serra.",
+          "Emportez beaucoup d'eau car il y a peu d'ombre sur les collines.",
+          "La route côtière est plate, mais les montées vers l'intérieur sont raides.",
+          "Un VTT est mieux adapté aux sentiers de la Revellata."
         ]
       },
       "variants": {
@@ -1207,7 +1307,8 @@
             "de": "Eine abenteuerliche Fahrt durch den Regen. Der Kiefernwaldpfad bietet zwar etwas Schutz, aber Vorsicht vor Pfützen. Die Auffahrt zu Notre-Dame de la Serra ist bei nassem Asphalt fordernd, aber die dramatische Aussicht auf die Revellata-Halbinsel im Nebel belohnt die Mühe. Beenden Sie die Tour mit einer heißen Dusche und einer kräftigen Mahlzeit im Zentrum, während Ihre Kleidung trocknet.",
             "hu": "Kalandos tekerés az esőben. A fenyőerdő ösvénye némi védelmet nyújt, de vigyázzunk a pocsolyákkal. A Notre-Dame de la Serra emelkedője vizes aszfalton nehéz, de a ködös Revellata-félsziget látványa kárpótol. A túrát egy forró zuhany és egy kiadós ebéd zárja a központban, amíg a ruhák száradnak.",
             "ro": "O tură aventuroasă prin ploaie. Poteca prin pădurea de pini oferă puțin adăpost, dar atenție la bălți. Urcarea spre Notre-Dame de la Serra este solicitantă pe asfalt ud, dar vederea dramatică a peninsulei Revellata în ceață merită efortul. Încheiați tura cu un duș fierbinte și o masă copioasă în centru.",
-            "en": "An adventurous ride through the rain. The pine forest path offers some shelter, but watch out for puddles. The climb to Notre-Dame de la Serra is challenging on wet asphalt, but the dramatic view of the Revellata peninsula in the mist rewards the effort. End the tour with a hot shower and a hearty meal in the center while your gear dries."
+            "en": "An adventurous ride through the rain. The pine forest path offers some shelter, but watch out for puddles. The climb to Notre-Dame de la Serra is challenging on wet asphalt, but the dramatic view of the Revellata peninsula in the mist rewards the effort. End the tour with a hot shower and a hearty meal in the center while your gear dries.",
+            "fr": "Une balade aventureuse sous la pluie. Le sentier de la pinède offre un certain abri, mais attention aux flaques d'eau. La montée vers Notre-Dame de la Serra est un défi sur l'asphalte mouillé, mais la vue dramatique sur la presqu'île de la Revellata dans la brume récompense l'effort. Terminez le tour par une douche chaude et un repas copieux au centre pendant que votre équipement sèche."
           },
           "stops": [
             {
@@ -1216,7 +1317,8 @@
                 "de": "Reifendruck für mehr Grip leicht senken.",
                 "hu": "Csökkentse a guminyomást a jobb tapadásért.",
                 "ro": "Reduceți presiunea în pneuri pentru aderență.",
-                "en": "Slightly lower tire pressure for better grip."
+                "en": "Slightly lower tire pressure for better grip.",
+                "fr": "Pression des pneus légèrement plus basse pour une meilleure adhérence."
               }
             },
             {
@@ -1225,7 +1327,8 @@
                 "de": "Vorsicht vor rutschigen Nadeln auf dem Weg.",
                 "hu": "Vigyázat, a fenyőtűk vizesen nagyon csúsznak.",
                 "ro": "Atenție la acele de pin alunecoase pe drum.",
-                "en": "Watch out for slippery pine needles on the path."
+                "en": "Watch out for slippery pine needles on the path.",
+                "fr": "Attention aux aiguilles de pin glissantes sur le sentier."
               }
             },
             {
@@ -1234,7 +1337,8 @@
                 "de": "Abfahrt bei Nässe besonders langsam angehen.",
                 "hu": "A lejtőn vizes úton csak lassan haladjon.",
                 "ro": "Coborâți foarte încet pe asfaltul umed.",
-                "en": "Take the descent very slowly on wet asphalt."
+                "en": "Take the descent very slowly on wet asphalt.",
+                "fr": "Prenez la descente très lentement sur l'asphalte mouillé."
               }
             },
             {
@@ -1243,7 +1347,8 @@
                 "de": "Starker Wind kann das Lenken erschweren.",
                 "hu": "Az erős szél megnehezítheti a kormányzást.",
                 "ro": "Vântul puternic poate îngreuna direcția.",
-                "en": "Strong winds can make steering difficult here."
+                "en": "Strong winds can make steering difficult here.",
+                "fr": "Les vents forts peuvent rendre la direction difficile ici."
               }
             },
             {
@@ -1252,7 +1357,8 @@
                 "de": "Wählen Sie ein Lokal mit Platz für nasse Räder.",
                 "hu": "Keressen helyet, ahol leállíthatja a vizes gépet.",
                 "ro": "Căutați un loc cu spațiu pentru biciclete ude.",
-                "en": "Find a place with space for wet bikes."
+                "en": "Find a place with space for wet bikes.",
+                "fr": "Trouvez un endroit avec de l'espace pour les vélos mouillés."
               }
             }
           ],
@@ -1280,6 +1386,12 @@
               "Mudguards will prevent mud spray on your back.",
               "Braking distance increases significantly on wet roads.",
               "Avoid deep puddles as they might hide potholes."
+            ],
+            "fr": [
+              "Un équipement imperméable complet est essentiel pour cette sortie.",
+              "Des garde-boue éviteront les éclaboussures de boue dans votre dos.",
+              "La distance de freinage augmente considérablement sur route mouillée.",
+              "Évitez les flaques profondes car elles peuvent cacher des nids-de-poule."
             ]
           }
         },
@@ -1288,7 +1400,8 @@
             "de": "Klare Luft und weite Sichten prägen diese Wintertour. Der Kiefernwald duftet intensiv, und die Auffahrt zur Kapelle bringt den Kreislauf in Schwung. Auf der Revellata-Halbinsel ist es windig, aber die Einsamkeit ist magisch. Achten Sie auf die Zeit, da das Licht schnell schwindet. Belohnen Sie sich im Zentrum mit einer wärmenden Suppe, bevor die Kälte der Nacht einzieht.",
             "hu": "Friss levegő és végtelen kilátás jellemzi ezt a téli túrát. A fenyőerdő illata intenzív, a kápolnához vezető emelkedő pedig segít bemelegedni. A Revellata-félszigeten szeles az idő, de a magány varázslatos. Figyeljen az időre, mert a fény gyorsan fogy. A központban jutalmazza meg magát egy melengető levessel, mielőtt beáll az éjszakai hideg.",
             "ro": "Aer curat și vederi largi caracterizează această tură de iarnă. Pădurea de pini miroase intens, iar urcarea spre capelă vă va încălzi. Pe peninsula Revellata este vânt, dar singurătatea este magică. Atenție la timp, deoarece lumina dispare repede. Răsplătiți-vă în centru cu o supă caldă înainte de frigul nopții.",
-            "en": "Crisp air and wide vistas define this winter ride. The pine forest smells intense, and the climb to the chapel gets your blood flowing. On the Revellata peninsula, it's windy, but the solitude is magical. Keep an eye on the time as light fades quickly. Reward yourself in the center with a warming soup before the night chill sets in."
+            "en": "Crisp air and wide vistas define this winter ride. The pine forest smells intense, and the climb to the chapel gets your blood flowing. On the Revellata peninsula, it's windy, but the solitude is magical. Keep an eye on the time as light fades quickly. Reward yourself in the center with a warming soup before the night chill sets in.",
+            "fr": "Un air vif et de vastes panoramas définissent cette balade hivernale. La forêt de pins sent intensément et la montée vers la chapelle stimule votre circulation. Sur la presqu'île de la Revellata, il y a du vent, mais la solitude est magique. Gardez un œil sur l'heure car la lumière baisse rapidement. Récompensez-vous au centre avec une soupe réconfortante avant que le froid nocturne ne s'installe."
           },
           "stops": [
             {
@@ -1297,7 +1410,8 @@
                 "de": "Kurze Aufwärmübungen vor dem Start machen.",
                 "hu": "Végezzen rövid bemelegítést indulás előtt.",
                 "ro": "Faceți scurte exerciții de încălzire înainte.",
-                "en": "Do short warm-up exercises before starting."
+                "en": "Do short warm-up exercises before starting.",
+                "fr": "Faites de courts exercices d'échauffement avant de commencer."
               }
             },
             {
@@ -1306,7 +1420,8 @@
                 "de": "Tiefer Sonnenstand kann im Wald blenden.",
                 "hu": "Az alacsony napállás vakíthat az erdőben.",
                 "ro": "Soarele jos poate fi orbitor în pădure.",
-                "en": "Low winter sun can be blinding in the forest."
+                "en": "Low winter sun can be blinding in the forest.",
+                "fr": "Le soleil d'hiver bas peut être éblouissant dans la forêt."
               }
             },
             {
@@ -1315,7 +1430,8 @@
                 "de": "Schwitzen vermeiden durch Zwiebelprinzip.",
                 "hu": "Réteges öltözékkel kerülje el az izzadást.",
                 "ro": "Evitați transpirația prin îmbrăcăminte stratificată.",
-                "en": "Avoid sweating too much with layered clothing."
+                "en": "Avoid sweating too much with layered clothing.",
+                "fr": "Évitez de trop transpirer avec des vêtements superposés."
               }
             },
             {
@@ -1324,7 +1440,8 @@
                 "de": "Windchill-Effekt an der Küste beachten.",
                 "hu": "Számoljon a parti szél hűtő hatásával.",
                 "ro": "Atenție la efectul de răcire al vântului la coastă.",
-                "en": "Watch out for the wind-chill effect on the coast."
+                "en": "Watch out for the wind-chill effect on the coast.",
+                "fr": "Attention à l'effet de refroidissement éolien sur la côte."
               }
             },
             {
@@ -1333,7 +1450,8 @@
                 "de": "Warmer Kräutertee zur Regeneration wählen.",
                 "hu": "Válasszon meleg gyógyteát a regenerációhoz.",
                 "ro": "Alegeți un ceai de plante cald pentru refacere.",
-                "en": "Choose a warm herbal tea for recovery."
+                "en": "Choose a warm herbal tea for recovery.",
+                "fr": "Choisissez une tisane chaude pour la récupération."
               }
             }
           ],
@@ -1361,6 +1479,12 @@
               "E-bike batteries drain faster in the cold.",
               "Check your lights for the early dusk.",
               "Frost can occur in shaded corners on the road."
+            ],
+            "fr": [
+              "Les gants d'hiver et les couvre-chaussures sont très importants.",
+              "Les batteries des vélos électriques se vident plus vite dans le froid.",
+              "Vérifiez vos éclairages pour le crépuscule précoce.",
+              "Du gel peut apparaître dans les virages ombragés de la route."
             ]
           }
         }
@@ -1494,7 +1618,8 @@
         "de": "Beginnen Sie Ihren Tag mit der historischen Zitadelle von Calvi, bevor Sie die Hügel hinauffahren. Die Straße bietet spektakuläre Kurven und Ausblicke.\n\nMittags erreichen Sie die Kapelle Notre-Dame de la Serra und die wilde Halbinsel Revellata. Hier erleben Sie die raue Schönheit der korsischen Westküste in ihrer vollen Pracht.\n\nAm Nachmittag machen Sie einen Abstecher in das benachbarte L'Île-Rousse. Schlendern Sie über den Place Paoli und bewundern Sie den markanten roten Felsen der Halbinsel Pietra.\n\nZum Abendessen kehren Sie nach Calvi zurück. Die Fahrt entlang der Küstenstraße im goldenen Abendlicht ist ein krönender Abschluss Ihres ereignisreichen Tages.",
         "hu": "Kezdje a napot Calvi történelmi Citadellájával, mielőtt felhajtana a dombokra. Az út látványos kanyarokat és kilátást kínál.\n\nDélben elérheti a Notre-Dame de la Serra kápolnát és a vad Revellata-félszigetet. Itt teljes pompájában tapasztalhatja meg a korzikai nyugati part zord szépségét.\n\nDélután tegyen egy kitérőt a szomszédos L'Île-Rousse-ba. Sétáljon végig a Place Paoli-n, és csodálja meg a Pietra-félsziget jellegzetes vörös szikláit.\n\nVacsoraidőben térjen vissza Calviba. A tengerparti úton való vezetés az esti aranyfényben méltó befejezése az eseménydús napnak.",
         "ro": "Începeți ziua cu Citadela istorică din Calvi, înainte de a urca spre dealuri. Drumul oferă curbe spectaculoase și vederi panoramice.\n\nLa prânz, ajungeți la capela Notre-Dame de la Serra și peninsula sălbatică Revellata. Aici veți experimenta frumusețea aspră a coastei de vest corsicane în toată splendoarea sa.\n\nDupă-amiaza, faceți o excursie în orașul vecin L'Île-Rousse. Plimbați-vă prin Place Paoli și admirați stânca roșie distinctivă a peninsulei Pietra.\n\nPentru cină, reveniți în Calvi. Drumul de-a lungul coastei în lumina aurie a serii este o încheiere perfectă pentru ziua dumneavoastră plină de evenimente.",
-        "en": "Start your day with the historical Citadel of Calvi before driving up into the hills. The road offers spectacular curves and coastal vistas.\n\nBy midday, reach the Notre-Dame de la Serra chapel and the wild Revellata Peninsula. Here you will experience the rugged beauty of the Corsican west coast in all its glory.\n\nIn the afternoon, take a side trip to the neighboring L'Île-Rousse. Stroll across Place Paoli and admire the striking red rock of the Pietra Peninsula.\n\nReturn to Calvi for dinner. Driving along the coastal road in the golden evening light is a crowning finish to your eventful day."
+        "en": "Start your day with the historical Citadel of Calvi before driving up into the hills. The road offers spectacular curves and coastal vistas.\n\nBy midday, reach the Notre-Dame de la Serra chapel and the wild Revellata Peninsula. Here you will experience the rugged beauty of the Corsican west coast in all its glory.\n\nIn the afternoon, take a side trip to the neighboring L'Île-Rousse. Stroll across Place Paoli and admire the striking red rock of the Pietra Peninsula.\n\nReturn to Calvi for dinner. Driving along the coastal road in the golden evening light is a crowning finish to your eventful day.",
+        "fr": "Commencez votre journée par la Citadelle historique de Calvi avant de monter dans les collines. La route offre des virages spectaculaires et des vues côtières.\n\nVers midi, atteignez la chapelle Notre-Dame de la Serra et la presqu'île sauvage de la Revellata. Vous y découvrirez la beauté brute de la côte ouest corse dans toute sa splendeur.\n\nL'après-midi, faites un détour par la ville voisine de L'Île-Rousse. Flânez sur la Place Paoli et admirez la roche rouge éclatante de la presqu'île de la Pietra.\n\nRetournez à Calvi pour le dîner. Rouler sur la route côtière dans la lumière dorée du soir est une fin parfaite pour votre journée bien remplie."
       },
       "gastro_picks": {
         "de": [
@@ -1535,6 +1660,16 @@
           {
             "name": "Corsican Honey",
             "tip": "Pick up a jar from local markets as a souvenir."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Sanglier",
+            "tip": "Sanglier préparé selon divers styles traditionnels."
+          },
+          {
+            "name": "Miel de Corse",
+            "tip": "Achetez un pot sur les marchés locaux comme souvenir."
           }
         ]
       },
@@ -1586,6 +1721,18 @@
             "tip": "Remote beach for absolute tranquility.",
             "emoji": "🧘"
           }
+        ],
+        "fr": [
+          {
+            "name": "Notre-Dame de la Serra",
+            "tip": "Un sanctuaire panoramique dominant la ville.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plage de la Revellata",
+            "tip": "Plage isolée pour une tranquillité absolue.",
+            "emoji": "🧘"
+          }
         ]
       },
       "shopping_picks": {
@@ -1611,6 +1758,12 @@
           {
             "name": "L'Île-Rousse Market",
             "tip": "Excellent for fresh local produce."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Marché de L'Île-Rousse",
+            "tip": "Excellent pour les produits locaux frais."
           }
         ]
       },
@@ -1638,6 +1791,12 @@
           "Parking in Calvi center is difficult during peak summer months.",
           "Take the coastal road (D81) for the most scenic drive.",
           "Car air conditioning is essential from June to August."
+        ],
+        "fr": [
+          "Les routes peuvent être étroites et très sinueuses ; conduisez prudemment.",
+          "Le stationnement au centre de Calvi est difficile pendant les mois d'été.",
+          "Prenez la route côtière (D81) pour le trajet le plus pittoresque.",
+          "La climatisation est essentielle de juin à août."
         ]
       },
       "variants": {
@@ -1845,7 +2004,8 @@
             "de": "Genießen Sie die Panoramen Korsikas aus dem trockenen Auto. Die Fahrt zur Notre-Dame de la Serra bietet dramatische Blicke auf das graue Meer. Die Küstenstraße nach L'Île-Rousse ist bei Regen besonders mystisch, wenn die roten Felsen nass glänzen. Ein Stadtbummel in L'Île-Rousse führt durch überdachte Passagen. Zurück in Calvi genießen Sie das Abendessen direkt am Hafen mit Blick auf die tanzenden Regentropfen.",
             "hu": "Élvezze Korzika panorámáját a száraz autó kényelméből. A Notre-Dame de la Serra felé vezető út drámai kilátást nyújt a szürke tengerre. A L'Île-Rousse felé tartó partmenti út esőben különösen misztikus, ahogy a vörös sziklák nedvesen csillognak. L'Île-Rousse-ban keressük a fedett átjárókat. Visszatérve Calviba, a kikötőben vacsorázzunk, figyelve a táncoló esőcseppeket.",
             "ro": "Bucurați-vă de panoramele Corsicii din confortul mașinii. Drumul spre Notre-Dame de la Serra oferă vederi dramatice asupra mării cenușii. Șoseaua de coastă spre L'Île-Rousse este mistică pe ploaie, cu stâncile roșii strălucind umede. În L'Île-Rousse, căutați pasajele acoperite. La întoarcerea în Calvi, cinați în port, privind picăturile de ploaie dansând pe apă.",
-            "en": "Enjoy Corsica's panoramas from the comfort of a dry car. The drive to Notre-Dame de la Serra offers dramatic views of the gray sea. The coastal road to L'Île-Rousse is especially mystical in the rain, with the red rocks glistening wet. In L'Île-Rousse, look for covered passages. Back in Calvi, enjoy dinner right by the harbor, watching the raindrops dance on the yachts."
+            "en": "Enjoy Corsica's panoramas from the comfort of a dry car. The drive to Notre-Dame de la Serra offers dramatic views of the gray sea. The coastal road to L'Île-Rousse is especially mystical in the rain, with the red rocks glistening wet. In L'Île-Rousse, look for covered passages. Back in Calvi, enjoy dinner right by the harbor, watching the raindrops dance on the yachts.",
+            "fr": "Profitez des panoramas de la Corse depuis le confort d'une voiture au sec. Le trajet vers Notre-Dame de la Serra offre des vues dramatiques sur la mer grise. La route côtière vers L'Île-Rousse est particulièrement mystique sous la pluie, avec les roches rouges luisantes d'humidité. À L'Île-Rousse, cherchez les passages couverts. De retour à Calvi, profitez d'un dîner au bord du port, en regardant les gouttes de pluie danser sur les yachts."
           },
           "stops": [
             {
@@ -1854,7 +2014,8 @@
                 "de": "Parkhaus nah am Eingang nutzen.",
                 "hu": "Használja a bejárathoz közeli parkolóházat.",
                 "ro": "Folosiți parcarea de lângă intrare.",
-                "en": "Use the parking garage close to the entrance."
+                "en": "Use the parking garage close to the entrance.",
+                "fr": "Utilisez le parking couvert proche de l'entrée."
               }
             },
             {
@@ -1863,7 +2024,8 @@
                 "de": "Kurzer Sprint zur Aussichtsplattform.",
                 "hu": "Rövid sprint a kilátóteraszig az esőben.",
                 "ro": "Sprint scurt până la platforma de observație.",
-                "en": "Short sprint to the viewing platform in the rain."
+                "en": "Short sprint to the viewing platform in the rain.",
+                "fr": "Sprint court vers la plateforme d'observation sous la pluie."
               }
             },
             {
@@ -1872,7 +2034,8 @@
                 "de": "Vom Parkplatz aus den Blick genießen.",
                 "hu": "A parkolóból élvezze a kilátást a ködben.",
                 "ro": "Bucurați-vă de vedere direct din parcare.",
-                "en": "Enjoy the misty view from the parking area."
+                "en": "Enjoy the misty view from the parking area.",
+                "fr": "Profitez de la vue brumeuse depuis le parking."
               }
             },
             {
@@ -1881,7 +2044,8 @@
                 "de": "Besuchen Sie die Markthalle (überdacht).",
                 "hu": "Látogasson el a fedett vásárcsarnokba.",
                 "ro": "Vizitați piața acoperită din oraș.",
-                "en": "Visit the covered market hall in town."
+                "en": "Visit the covered market hall in town.",
+                "fr": "Visitez la halle du marché couvert en ville."
               }
             },
             {
@@ -1890,7 +2054,8 @@
                 "de": "Parkplatz P1 am Hafen ist am nächsten.",
                 "hu": "A kikötői P1 parkoló van a legközelebb.",
                 "ro": "Parcarea P1 din port este cea mai apropiată.",
-                "en": "Parking P1 at the harbor is the closest."
+                "en": "Parking P1 at the harbor is the closest.",
+                "fr": "Le parking P1 au port est le plus proche."
               }
             }
           ],
@@ -1918,6 +2083,12 @@
               "Danger of aquaplaning on the coastal road.",
               "Keep extra distance in poor visibility.",
               "Parking spots near the center fill up fast in rain."
+            ],
+            "fr": [
+              "Vérifiez vos essuie-glaces avant de partir.",
+              "Risque d'aquaplaning sur la route côtière.",
+              "Gardez une distance de sécurité supplémentaire en cas de mauvaise visibilité.",
+              "Les places de parking près du centre se remplissent vite sous la pluie."
             ]
           }
         },
@@ -1926,7 +2097,8 @@
             "de": "Winterliches Roadtrip-Feeling ohne Verkehr. Die Auffahrt zur Kapelle ist einsam und bietet klare Fernsichten auf die korsischen Alpen. Entlang der Küste geht es nach L'Île-Rousse, wo die tiefstehende Sonne die roten Felsen in warmes Licht taucht. Genießen Sie die entspannte Parkplatzsuche und die Ruhe in den Cafés. Der Tag endet früh in Calvi mit einem gemütlichen Abendessen in einem der traditionellen Lokale am Yachthafen.",
             "hu": "Téli roadtrip élmény forgalom nélkül. A kápolnához vezető út magányos, és tiszta kilátást nyújt a korzikai Alpokra. A part mentén haladva L'Île-Rousse felé az alacsonyan járó nap meleg fénybe vonja a vörös sziklákat. Élvezze a könnyű parkolást és a kávézók nyugalmát. A nap korán ér véget Calviban egy hangulatos vacsorával a jachtkikötő egyik tradicionális vendéglőjében.",
             "ro": "Senzație de roadtrip de iarnă fără trafic. Urcarea spre capelă este solitară și oferă vederi clare spre Alpii corsicani. De-a lungul coastei spre L'Île-Rousse, soarele jos scaldă stâncile roșii în lumină caldă. Bucurați-vă de parcarea ușoară și de liniștea din cafenele. Ziua se încheie devreme în Calvi cu o cină confortabilă într-un local tradițional.",
-            "en": "Winter road trip vibes without the traffic. The drive to the chapel is solitary and offers clear distant views of the Corsican Alps. Along the coast to L'Île-Rousse, the low sun bathes the red rocks in warm light. Enjoy easy parking and the quiet in the cafés. The day ends early in Calvi with a cozy dinner in one of the traditional spots at the marina."
+            "en": "Winter road trip vibes without the traffic. The drive to the chapel is solitary and offers clear distant views of the Corsican Alps. Along the coast to L'Île-Rousse, the low sun bathes the red rocks in warm light. Enjoy easy parking and the quiet in the cafés. The day ends early in Calvi with a cozy dinner in one of the traditional spots at the marina.",
+            "fr": "Une ambiance de road trip hivernal sans le trafic. Le trajet vers la chapelle est solitaire et offre des vues dégagées au loin sur les Alpes corses. Le long de la côte vers L'Île-Rousse, le soleil bas baigne les roches rouges d'une lumière chaude. Profitez d'un parking facile et du calme dans les cafés. La journée se termine tôt à Calvi par un dîner chaleureux dans l'un des lieux traditionnels de la marina."
           },
           "stops": [
             {
@@ -1935,7 +2107,8 @@
                 "de": "Parkplatzgebühren sind im Winter oft niedriger.",
                 "hu": "A parkolási díjak télen gyakran alacsonyabbak.",
                 "ro": "Taxele de parcare sunt adesea mai mici iarna.",
-                "en": "Parking fees are often lower in winter."
+                "en": "Parking fees are often lower in winter.",
+                "fr": "Les tarifs de parking sont souvent moins élevés en hiver."
               }
             },
             {
@@ -1944,7 +2117,8 @@
                 "de": "Beste Zeit für Fotos der verschneiten Gipfel.",
                 "hu": "Legjobb időpont a havas csúcsok fotózásához.",
                 "ro": "Cel mai bun moment pentru poze cu vârfurile nins.",
-                "en": "Best time for photos of the snowy peaks."
+                "en": "Best time for photos of the snowy peaks.",
+                "fr": "Le meilleur moment pour photographier les sommets enneigés."
               }
             },
             {
@@ -1953,7 +2127,8 @@
                 "de": "Kurzer Spaziergang, solange die Sonne scheint.",
                 "hu": "Rövid séta, amíg süt a téli nap.",
                 "ro": "Scurtă plimbare cât timp soarele strălucește.",
-                "en": "Short walk while the winter sun is out."
+                "en": "Short walk while the winter sun is out.",
+                "fr": "Courte promenade pendant que le soleil d'hiver est de sortie."
               }
             },
             {
@@ -1962,7 +2137,8 @@
                 "de": "Besuchen Sie den Leuchtturm zum Sonnenuntergang.",
                 "hu": "Látogasson el a világítótoronyhoz naplementekor.",
                 "ro": "Vizitați farul la apusul soarelui.",
-                "en": "Visit the lighthouse for the early sunset."
+                "en": "Visit the lighthouse for the early sunset.",
+                "fr": "Visitez le phare pour le coucher de soleil précoce."
               }
             },
             {
@@ -1971,7 +2147,8 @@
                 "de": "Kostenloses Parken am Hafen oft möglich.",
                 "hu": "A kikötőnél gyakran ingyenes a parkolás télen.",
                 "ro": "Parcarea în port este adesea gratuită iarna.",
-                "en": "Free parking at the harbor is often possible now."
+                "en": "Free parking at the harbor is often possible now.",
+                "fr": "Un parking gratuit au port est souvent possible à cette saison."
               }
             }
           ],
@@ -1999,6 +2176,12 @@
               "Temperatures drop sharply after sunset.",
               "Gas stations might have shorter winter hours.",
               "Mountain roads can be icy in the mornings."
+            ],
+            "fr": [
+              "Utilisez de l'antigel dans votre lave-glace.",
+              "Les températures chutent brusquement après le coucher du soleil.",
+              "Les stations-service peuvent avoir des horaires réduits en hiver.",
+              "Les routes de montagne peuvent être verglacées le matin."
             ]
           }
         }
@@ -2132,7 +2315,8 @@
         "de": "Nutzen Sie den charmanten Küstenzug 'U Trinichellu' für Ihren Tag in Calvi. Starten Sie im Zentrum und spazieren Sie zur historischen Zitadelle, um die Geschichte der Insel zu spüren.\n\nMittags bringt Sie der Zug bequem direkt zum weitläufigen Strand. Genießen Sie die Fahrt mit Meerblick, bevor Sie in das kristallklare Wasser eintauchen.\n\nAm Nachmittag fahren Sie ein Stück weiter entlang der Küste zu ruhigeren Haltestellen wie Sainte-Restitude. Hier finden Sie friedliche Buchten fernab des Trubels im Zentrum.\n\nDen Tag lassen Sie in den Gassen der Altstadt ausklingen. Da der Bahnhof im Herzen der Stadt liegt, erreichen Sie die besten Restaurants nach Ihrem Ausflug in wenigen Schritten.",
         "hu": "Használja a bájos 'U Trinichellu' part menti vonatot calvi napjához. Kezdje a központban, és sétáljon el a történelmi Citadellához, hogy átérezze a sziget múltját.\n\nDélben a vonat kényelmesen elviszi közvetlenül a tágas strandra. Élvezze a tengerre néző utazást, mielőtt elmerülne a kristálytiszta vízben.\n\nDélután utazzon egy kicsit tovább a part mentén a csendesebb megállókig, mint például Sainte-Restitude. Itt békés öblöket talál a központ forgatagától távol.\n\nA napot az óváros szűk utcáiban zárja. Mivel az állomás a város szívében van, a kirándulás után pár lépéssel elérheti a legjobb éttermeket.",
         "ro": "Folosiți fermecătorul tren de coastă „U Trinichellu” pentru ziua dumneavoastră în Calvi. Începeți în centru și plimbați-vă spre Citadela istorică pentru a simți istoria insulei.\n\nLa prânz, trenul vă duce confortabil direct la plaja vastă. Bucurați-vă de călătoria cu vedere la mare înainte de a plonja în apa cristalină.\n\nDupă-amiaza, mergeți puțin mai departe de-a lungul coastei spre stații mai liniștite, cum ar fi Sainte-Restitude. Aici veți găsi golfuri pașnice departe de agitația din centru.\n\nÎncheiați ziua pe străzile orașului vechi. Deoarece gara este în inima orașului, veți ajunge la cele mai bune restaurante în câțiva pași după excursia dumneavoastră.",
-        "en": "Use the charming 'U Trinichellu' coastal train for your day in Calvi. Start in the center and walk to the historic Citadel to feel the island's past.\n\nBy midday, the train conveniently takes you directly to the vast beach. Enjoy the sea-view ride before diving into the crystal-clear water.\n\nIn the afternoon, travel a bit further along the coast to quieter stops like Sainte-Restitude. Here you will find peaceful coves away from the hustle and bustle of the center.\n\nFinish your day in the narrow streets of the old town. Since the station is in the heart of the city, you are just a few steps away from the best restaurants after your trip."
+        "en": "Use the charming 'U Trinichellu' coastal train for your day in Calvi. Start in the center and walk to the historic Citadel to feel the island's past.\n\nBy midday, the train conveniently takes you directly to the vast beach. Enjoy the sea-view ride before diving into the crystal-clear water.\n\nIn the afternoon, travel a bit further along the coast to quieter stops like Sainte-Restitude. Here you will find peaceful coves away from the hustle and bustle of the center.\n\nFinish your day in the narrow streets of the old town. Since the station is in the heart of the city, you are just a few steps away from the best restaurants after your trip.",
+        "fr": "Utilisez le charmant train côtier 'U Trinichellu' pour votre journée à Calvi. Commencez au centre et marchez jusqu'à la Citadelle historique pour ressentir le passé de l'île.\n\nVers midi, le train vous emmène commodément directement à la vaste plage. Profitez du trajet avec vue sur mer avant de plonger dans l'eau cristalline.\n\nL'après-midi, voyagez un peu plus loin le long de la côte vers des arrêts plus calmes comme Sainte-Restitude. Vous y trouverez des criques paisibles loin de l'agitation du centre.\n\nTerminez votre journée dans les ruelles étroites de la vieille ville. La gare étant au cœur de la ville, vous n'êtes qu'à quelques pas des meilleurs restaurants après votre excursion."
       },
       "gastro_picks": {
         "de": [
@@ -2174,6 +2358,16 @@
             "name": "Canistrelli",
             "tip": "Traditional Corsican biscuits, perfect with coffee."
           }
+        ],
+        "fr": [
+          {
+            "name": "Plateau de Fromages Corses",
+            "tip": "Goûtez au Brocciu et à la Tomme de Corse locaux."
+          },
+          {
+            "name": "Canistrelli",
+            "tip": "Biscuits corses traditionnels, parfaits avec le café."
+          }
         ]
       },
       "quiet_picks": {
@@ -2204,6 +2398,13 @@
             "tip": "Much quieter than the main Calvi beach.",
             "emoji": "🍃"
           }
+        ],
+        "fr": [
+          {
+            "name": "Plage de Sainte-Restitude",
+            "tip": "Bien plus calme que la plage principale de Calvi.",
+            "emoji": "🍃"
+          }
         ]
       },
       "shopping_picks": {
@@ -2229,6 +2430,12 @@
           {
             "name": "Station Shops",
             "tip": "Small shops for postcards and quick snacks."
+          }
+        ],
+        "fr": [
+          {
+            "name": "Boutiques de la Gare",
+            "tip": "Petits magasins pour cartes postales et collations rapides."
           }
         ]
       },
@@ -2256,6 +2463,12 @@
           "Validate your ticket on the platform before boarding.",
           "The trains are small; try to get a sea-side window seat.",
           "It's only a few steps from the beach stops to the water."
+        ],
+        "fr": [
+          "Les horaires du 'Trinichellu' varient considérablement selon la saison.",
+          "Compostez votre billet sur le quai avant de monter à bord.",
+          "Les trains sont petits ; essayez d'avoir un siège côté mer.",
+          "Les arrêts de plage ne sont qu'à quelques pas de l'eau."
         ]
       },
       "variants": {
@@ -2443,7 +2656,8 @@
             "de": "Nutzen Sie den Zug 'U Trinichellu' für eine trockene Panoramafahrt. Der Bahnhof im Zentrum ist der ideale Startpunkt. Die Fahrt entlang der Küste bietet auch bei Regen tolle Ausblicke. In der Nähe des Hafens und der Zitadelle finden Sie schnell überdachte Lokale. Den Nachmittag verbringen Sie in Sainte-Restitude, wo der Wald bei Regen besonders duftet, bevor Sie zum Abendessen ins Zentrum zurückkehren.",
             "hu": "Használja az 'U Trinichellu' vonatot a száraz panorámaútért. A központi állomás tökéletes kiindulópont. A part menti vonatozás esőben is lenyűgöző látványt nyújt. A kikötő és a Fellegvár közelében gyorsan találunk fedett helyeket. A délutánt Sainte-Restitude környékén tölthetjük, ahol az erdő illata esőben intenzívebb, majd térjünk vissza vacsorázni.",
             "ro": "Folosiți trenul 'U Trinichellu' pentru o călătorie panoramică uscată. Gara centrală este punctul de plecare ideal. Drumul pe coastă oferă vederi grozave chiar și pe ploaie. Lângă port și citadelă veți găsi rapid localuri acoperite. Petreceți după-amiaza la Sainte-Restitude, unde pădurea miroase intens pe ploaie.",
-            "en": "Use the 'U Trinichellu' train for a dry panoramic ride. The central station is the ideal starting point. The journey along the coast offers great views even in the rain. Near the harbor and Citadel, you'll quickly find covered spots. Spend the afternoon near Sainte-Restitude, where the forest smells intense in the rain, before returning for dinner."
+            "en": "Use the 'U Trinichellu' train for a dry panoramic ride. The central station is the ideal starting point. The journey along the coast offers great views even in the rain. Near the harbor and Citadel, you'll quickly find covered spots. Spend the afternoon near Sainte-Restitude, where the forest smells intense in the rain, before returning for dinner.",
+            "fr": "Utilisez le train 'U Trinichellu' pour un trajet panoramique au sec. La gare centrale est le point de départ idéal. Le voyage le long de la côte offre de superbes vues même sous la pluie. Près du port et de la Citadelle, vous trouverez rapidement des endroits couverts. Passez l'après-midi près de Sainte-Restitude, où la forêt sent intensément sous la pluie, avant de revenir pour le dîner."
           },
           "stops": [
             {
@@ -2452,7 +2666,8 @@
                 "de": "Warten Sie in der Bahnhofshalle im Trockenen.",
                 "hu": "Várjon a vonat indulására a váróteremben.",
                 "ro": "Așteptați în sala de așteptare la uscat.",
-                "en": "Wait inside the station hall to stay dry."
+                "en": "Wait inside the station hall to stay dry.",
+                "fr": "Attendez dans le hall de la gare pour rester au sec."
               }
             },
             {
@@ -2461,7 +2676,8 @@
                 "de": "Bushaltestellen mit Wartehäuschen nutzen.",
                 "hu": "Használja a fedett buszmegállókat.",
                 "ro": "Folosiți stațiile de autobuz cu adăpost.",
-                "en": "Use bus stops with weather shelters."
+                "en": "Use bus stops with weather shelters.",
+                "fr": "Utilisez les arrêts de bus avec abris."
               }
             },
             {
@@ -2470,7 +2686,8 @@
                 "de": "Nur kurzer Stopp, um die Brandung zu sehen.",
                 "hu": "Csak rövid megálló a hullámok megtekintésére.",
                 "ro": "Doar o oprire scurtă pentru a vedea valurile.",
-                "en": "Only a short stop to see the rough surf."
+                "en": "Only a short stop to see the rough surf.",
+                "fr": "Juste un court arrêt pour voir la mer agitée."
               }
             },
             {
@@ -2479,7 +2696,8 @@
                 "de": "Festes Schuhwerk für aufgeweichte Waldwege.",
                 "hu": "Zárt cipő javasolt a felázott erdei utakhoz.",
                 "ro": "Încălțăminte solidă pentru poteci noroioase.",
-                "en": "Sturdy shoes needed for muddy forest paths."
+                "en": "Sturdy shoes needed for muddy forest paths.",
+                "fr": "Chaussures robustes nécessaires pour les sentiers forestiers boueux."
               }
             },
             {
@@ -2488,7 +2706,8 @@
                 "de": "Viele Restaurants sind nah an den Haltestellen.",
                 "hu": "Sok étterem közel van a megállókhoz.",
                 "ro": "Multe restaurante sunt aproape de stații.",
-                "en": "Many restaurants are close to the transit stops."
+                "en": "Many restaurants are close to the transit stops.",
+                "fr": "De nombreux restaurants sont proches des arrêts de transport."
               }
             }
           ],
@@ -2516,6 +2735,12 @@
               "Train rides are very popular during rainy days.",
               "Have small change ready for ticket machines.",
               "The harbor promenade has covered sections."
+            ],
+            "fr": [
+              "Vérifiez les horaires en temps réel sur l'application de transport.",
+              "Les trajets en train sont très populaires les jours de pluie.",
+              "Prévoyez de la monnaie pour les automates à billets.",
+              "La promenade du port comporte des sections couvertes."
             ]
           }
         },
@@ -2524,7 +2749,8 @@
             "de": "Ein ruhiger Tag mit den öffentlichen Verkehrsmitteln. Der winterliche Fahrplan ist zwar reduziert, aber die Züge sind warm und gemütlich. Genießen Sie die Fahrt entlang der einsamen Strände. Die Zitadelle und der Hafen sind ideal für einen entspannten Rundgang ohne Touristenströme. Nach einem Spaziergang im kühlen Sainte-Restitude-Wald wärmen Sie sich bei einem frühen Abendessen im Herzen von Calvi auf.",
             "hu": "Egy nyugodt nap tömegközlekedéssel. A téli menetrend ritkább, de a vonatok melegek és kényelmesek. Élvezze az utazást a magányos strandok mentén. A Fellegvár és a kikötő ideális egy nyugodt sétához turisták nélkül. A hűvös Sainte-Restitude erdő után melegedjen fel egy korai vacsorával Calvi szívében.",
             "ro": "O zi liniștită cu transportul public. Mersul trenurilor de iarnă este redus, dar trenurile sunt calde. Bucurați-vă de drumul pe lângă plajele pustii. Citadela și portul sunt ideale pentru o plimbare relaxată fără turiști. După o plimbare prin pădurea răcoroasă, încălziți-vă cu o cină timpurie în Calvi.",
-            "en": "A quiet day using public transport. The winter schedule is reduced, but trains are warm and cozy. Enjoy the ride along the deserted beaches. The Citadel and harbor are ideal for a relaxed stroll without the tourist crowds. After a walk in the cool Sainte-Restitude forest, warm up with an early dinner in the heart of Calvi."
+            "en": "A quiet day using public transport. The winter schedule is reduced, but trains are warm and cozy. Enjoy the ride along the deserted beaches. The Citadel and harbor are ideal for a relaxed stroll without the tourist crowds. After a walk in the cool Sainte-Restitude forest, warm up with an early dinner in the heart of Calvi.",
+            "fr": "Une journée tranquille en utilisant les transports en commun. Les horaires d'hiver sont réduits, mais les trains sont chauds et confortables. Profitez du trajet le long des plages désertes. La Citadelle et le port sont idéaux pour une promenade détendue sans les foules de touristes. Après une balade dans la forêt fraîche de Sainte-Restitude, réchauffez-vous avec un dîner précoce au cœur de Calvi."
           },
           "stops": [
             {
@@ -2533,7 +2759,8 @@
                 "de": "Prüfen Sie den reduzierten Winterfahrplan.",
                 "hu": "Ellenőrizze a ritkított téli menetrendet.",
                 "ro": "Verificați mersul trenurilor de iarnă.",
-                "en": "Check the reduced winter train schedule."
+                "en": "Check the reduced winter train schedule.",
+                "fr": "Vérifiez les horaires d'hiver réduits du train."
               }
             },
             {
@@ -2542,7 +2769,8 @@
                 "de": "Genießen Sie die Ruhe in den Gassen.",
                 "hu": "Élvezze az óvárosi utcák csendjét.",
                 "ro": "Bucurați-vă de liniștea de pe străduțe.",
-                "en": "Enjoy the absolute peace in the alleys."
+                "en": "Enjoy the absolute peace in the alleys.",
+                "fr": "Profitez du calme absolu dans les ruelles."
               }
             },
             {
@@ -2551,7 +2779,8 @@
                 "de": "Toller Ausblick auf das glasklare Winterwasser.",
                 "hu": "Csodálatos kilátás a kristálytiszta vízre.",
                 "ro": "Vedere minunată spre apa limpede de iarnă.",
-                "en": "Great view of the crystal clear winter water."
+                "en": "Great view of the crystal clear winter water.",
+                "fr": "Superbe vue sur l'eau cristalline en hiver."
               }
             },
             {
@@ -2560,7 +2789,8 @@
                 "de": "Frühe Rückfahrt einplanen (Dämmerung).",
                 "hu": "Tervezze korábbra a visszautat a sötétedés miatt.",
                 "ro": "Planificați întoarcerea devreme (amurg).",
-                "en": "Plan an early return due to the early dusk."
+                "en": "Plan an early return due to the early dusk.",
+                "fr": "Prévoyez un retour matinal en raison du crépuscule précoce."
               }
             },
             {
@@ -2569,7 +2799,8 @@
                 "de": "Suchen Sie Lokale, in denen Einheimische essen.",
                 "hu": "Keressen helyeket, ahol a helyiek esznek.",
                 "ro": "Căutați localuri unde mănâncă localnicii.",
-                "en": "Look for spots where the locals eat in winter."
+                "en": "Look for spots where the locals eat in winter.",
+                "fr": "Cherchez les endroits où les locaux mangent en hiver."
               }
             }
           ],
@@ -2597,6 +2828,12 @@
               "Trains are well-heated and comfortable.",
               "Station cafés are good meeting points.",
               "Tickets can often be bought from the driver."
+            ],
+            "fr": [
+              "Moins de bus circulent les dimanches en hiver.",
+              "Les trains sont bien chauffés et confortables.",
+              "Les cafés de la gare sont de bons points de rencontre.",
+              "Les billets peuvent souvent être achetés auprès du conducteur."
             ]
           }
         }
