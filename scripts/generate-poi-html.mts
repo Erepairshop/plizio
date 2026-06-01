@@ -1981,10 +1981,14 @@ function renderHtml(poi: POI, lang: Lang): string | null {
           },
         };
         if (desc) obj.description = desc;
+        // endDate: real end when present, else single-day (= startDate) so the field is never missing.
+        obj.endDate = String((ev as any).date_end || (ev as any).end_date || (ev as any).endDate || ev.date).slice(0, 10);
+        // image: event image, else fall back to the POI hero photo (absolute URL).
         if (typeof ev.image_url === "string" && /^https?:\/\//.test(ev.image_url)) obj.image = ev.image_url;
+        else { const _fb = poi.image || lookupFallbackImage(poi.id); if (_fb) obj.image = `${SITE_URL}${_fb}`; }
         if (typeof ev.source_url === "string" && /^https?:\/\//.test(ev.source_url)) obj.url = ev.source_url;
-        // Organizer fallback so Google has a complete record
-        obj.organizer = { "@type": "Organization", "name": "Plizio" };
+        // Organizer with url (recommended field).
+        obj.organizer = { "@type": "Organization", "name": "Plizio", "url": SITE_URL };
         return obj;
       }).filter(Boolean);
       const eventListLd = eventItems.length > 0 ? `<script type="application/ld+json">${JSON.stringify({
