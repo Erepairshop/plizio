@@ -290,6 +290,224 @@
           "Book an olive oil tasting session in advance.",
           "Look for the information boards next to the murals."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Bradamante-Palast Schutz vor dem Regen, während wir die lokale Geschichte entdecken. Mittags besuchen wir die Kirche des Hl. Blasius, deren Reliquien ein faszinierendes Indoor-Erlebnis bieten. Nachmittags vertiefen wir uns im Ecomuseum in istrische Traditionen. Der Abend klingt gemütlich bei einer Olivenölverkostung in einem trockenen Keller aus.",
+            "hu": "Reggel a Bradamante-palota falai között kezdünk, elkerülve az első záporokat. Délben a Szent Balázs-templom világhírű múmiái nyújtanak spirituális és fedett menedéket. Délután az Ekomúzeumban ismerkedünk a népi hagyományokkal, amíg kint esik. Az estét egy hangulatos, benti olívaolaj-kóstolóval és egy rövid, frissítő eső utáni sétával zárjuk.",
+            "ro": "Dimineața, Palatul Bradamante oferă adăpost împotriva ploii în timp ce explorăm istoria locală. La prânz, vizităm Biserica Sf. Blasiu, ale cărei relicve oferă o experiență interioară fascinantă. După-amiaza, ne cufundăm în tradițiile istriene la Ecomuzeu. Seara se încheie confortabil cu o degustare de ulei de măsline într-o cramă uscată.",
+            "en": "In the morning, the Bradamante Palace provides shelter from the rain as we explore local history. At noon, we visit St. Blaise's Church, where the relics offer a fascinating indoor experience. In the afternoon, we dive into Istrian traditions at the Ecomuseum while it pours outside. The evening ends cozily with an olive oil tasting in a dry cellar."
+          },
+          "stops": [
+            {
+              "name": "Palača Bradamante",
+              "tip_5lang": {
+                "de": "Perfekter Startpunkt, um trocken in den Tag zu starten.",
+                "hu": "Ideális benti kezdés, amíg eláll az eső.",
+                "ro": "Un punct de plecare perfect pentru a începe ziua la adăpost.",
+                "en": "Perfect starting point to stay dry while the day begins."
+              }
+            },
+            {
+              "name": "Ulica vjenčanja",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Regenschirm in dieser engen Gasse.",
+                "hu": "Gyors fotó az esernyők alatt a szűk sikátorban.",
+                "ro": "O scurtă oprire foto sub umbrelă pe această alee îngustă.",
+                "en": "Quick photo stop under an umbrella in this narrow alley."
+              }
+            },
+            {
+              "name": "Ekomuzej Istrian de Dignan",
+              "tip_5lang": {
+                "de": "Ein Muss bei Regen – viel Zeit für die Ausstellungen im Inneren.",
+                "hu": "Esőben kötelező – tágas belső terek a kiállításokhoz.",
+                "ro": "O vizită obligatorie pe ploaie – mult timp pentru expoziții.",
+                "en": "A must in the rain – plenty of time for indoor exhibits."
+              }
+            },
+            {
+              "name": "Crkva sv. Blaža",
+              "tip_5lang": {
+                "de": "Die Mummien sind in einem trockenen, klimatisierten Raum.",
+                "hu": "A múmiák száraz, klimatizált helyiségben tekinthetők meg.",
+                "ro": "Mumiile se află într-o încăpere uscată și climatizată.",
+                "en": "The mummies are kept in a dry, climate-controlled room."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie eine warme Suppe (Maneštra) am Kamin.",
+                "hu": "Kóstoljon meg egy meleg Maneštrát a kandalló mellett.",
+                "ro": "Savurați o supă caldă (Maneštra) lângă șemineu.",
+                "en": "Enjoy a warm soup (Maneštra) by the fireplace."
+              }
+            },
+            {
+              "name": "Murals Vodnjan",
+              "tip_5lang": {
+                "de": "Einige Wandbilder lassen sich von schützenden Vordächern aus sehen.",
+                "hu": "Néhány falfestmény az ereszaljak alól is jól látható.",
+                "ro": "Unele picturi murale pot fi văzute de sub streșini protectoare.",
+                "en": "Some murals can be viewed from under protective eaves."
+              }
+            },
+            {
+              "name": "Olivenöl-Verkostung",
+              "tip_5lang": {
+                "de": "Ein trockenes und geschmackvolles Erlebnis im Verkaufsraum.",
+                "hu": "Száraz és ízletes program a mintaboltban.",
+                "ro": "O experiență uscată și plină de gust în magazin.",
+                "en": "A dry and flavorful experience in the tasting room."
+              }
+            },
+            {
+              "name": "Abendlicher Spaziergang",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster nach dem Regen.",
+                "hu": "Vigyázat, az eső után csúszós lehet a macskakő.",
+                "ro": "Atenție la pavajul alunecos după ploaie.",
+                "en": "Be careful on the slippery cobblestones after the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht: Das alte Kopfsteinpflaster in Vodnjan wird bei Nässe sehr rutschig.",
+              "Nutzen Sie die langen Besuchszeiten in der Kirche und im Ekomuseum als Regenpause.",
+              "Tragen Sie wasserfeste Schuhe, da sich in den engen Gassen Pfützen bilden können.",
+              "Die Konobas im Zentrum bieten gemütliche Innenräume für längere Pausen."
+            ],
+            "hu": [
+              "Vigyázat: Vodnjan régi macskaköves utcái nedvesen rendkívül csúszósak.",
+              "Használja ki a templom és az Ekomúzeum hosszú látogatási idejét az eső elől.",
+              "Viseljen vízálló cipőt, mert a szűk utcákban könnyen megáll a víz.",
+              "A központi konobák meleg belső terei ideálisak a hosszabb pihenőkhöz."
+            ],
+            "ro": [
+              "Atenție: Pavajul vechi din Vodnjan devine foarte alunecos când este ud.",
+              "Profitați de timpul lung de vizitare la biserică și ecomuzeu pentru a evita ploaia.",
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe străzile înguste.",
+              "Tahernele din centru oferă spații interioare primitoare pentru pauze lungi."
+            ],
+            "en": [
+              "Caution: The old cobblestones in Vodnjan become very slippery when wet.",
+              "Utilize the long visiting hours at the church and ecomuseum as rain breaks.",
+              "Wear waterproof shoes as puddles tend to form in the narrow alleys.",
+              "Central konobas offer cozy interiors for extended breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter zeigt sich Vodnjan von seiner stillen, authentischen Seite. Morgens bewundern wir den Bradamante-Palast im klaren Winterlicht. Mittags wärmen wir uns in der geschichtsträchtigen St. Blasius-Kirche auf. Der Nachmittag gehört dem Ecomuseum und den Murals, bevor die frühe Dämmerung die Stadt in goldenes Licht taucht. Der Tag endet mit einer herzhaften Mahlzeit in einer beheizten Konoba.",
+            "hu": "A téli Vodnjan csendes és őszinte arcát mutatja. Reggel a tiszta téli fényben csodáljuk meg a Bradamante-palotát. Délben a monumentális Szent Balázs-templomban melegszünk fel. A délután az Ekomúzeumé és a muráloké, mielőtt a korai szürkület arany fénybe vonja a várost. A napot egy tápláló vacsorával zárjuk egy fűtött helyi vendéglőben.",
+            "ro": "Iarna, Vodnjan își arată latura liniștită și autentică. Dimineața admirăm Palatul Bradamante în lumina clară de iarnă. La prânz, ne încălzim în istorica Biserică Sf. Blasiu. După-amiaza aparține Ecomuzeului și picturilor murale, înainte ca amurgul timpuriu să scalde orașul în lumină aurie. Ziua se încheie cu o masă copioasă într-o tavernă încălzită.",
+            "en": "In winter, Vodnjan reveals its quiet, authentic side. In the morning, we admire the Bradamante Palace in the crisp winter light. At noon, we warm up inside the historic St. Blaise's Church. The afternoon is dedicated to the Ecomuseum and murals before the early dusk bathes the town in golden light. The day ends with a hearty meal in a heated local tavern."
+          },
+          "stops": [
+            {
+              "name": "Palača Bradamante",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die architektonischen Details besonders hervor.",
+                "hu": "A téli fény kiemeli az építészeti részleteket.",
+                "ro": "Lumina de iarnă scoate în evidență detaliile arhitecturale.",
+                "en": "The winter light emphasizes the architectural details."
+              }
+            },
+            {
+              "name": "Ulica vjenčanja",
+              "tip_5lang": {
+                "de": "Ruhige Atmosphäre ohne sommerliche Touristenströme.",
+                "hu": "Nyugodt hangulat a nyári turistaáradat nélkül.",
+                "ro": "Atmosferă liniștită, fără mulțimile de turiști din vară.",
+                "en": "Quiet atmosphere without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Ekomuzej Istrian de Dignan",
+              "tip_5lang": {
+                "de": "Drinnen ist es angenehm temperiert – perfekt zum Aufwärmen.",
+                "hu": "A belső terek kellemes hőmérsékletűek, tökéletes a felmelegedéshez.",
+                "ro": "Interiorul are o temperatură plăcută – perfect pentru încălzire.",
+                "en": "The interior is pleasantly tempered – perfect for warming up."
+              }
+            },
+            {
+              "name": "Crkva sv. Blaža",
+              "tip_5lang": {
+                "de": "Dicke Mauern schützen vor dem kalten Bora-Wind.",
+                "hu": "A vastag falak védenek a hideg bóra széltől.",
+                "ro": "Zidurile groase protejează de vântul rece Bura.",
+                "en": "Thick walls protect against the cold Bora wind."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte Fleischgerichte mit Trüffeln.",
+                "hu": "Kóstoljon laktató húsételeket szarvasgombával.",
+                "ro": "Încercați preparate din carne sățioase cu trufe.",
+                "en": "Try some hearty meat dishes with truffles."
+              }
+            },
+            {
+              "name": "Murals Vodnjan",
+              "tip_5lang": {
+                "de": "Besichtigung vor 16:30 Uhr planen, da es früh dunkel wird.",
+                "hu": "Tervezze a látogatást 16:30 előtt, mert korán sötétedik.",
+                "ro": "Planificați vizita înainte de 16:30, deoarece se întunecă devreme.",
+                "en": "Plan your visit before 4:30 PM as it gets dark early."
+              }
+            },
+            {
+              "name": "Olivenöl-Verkostung",
+              "tip_5lang": {
+                "de": "Frisches Olivenöl aus der letzten Ernte probieren.",
+                "hu": "Kóstolja meg a legutóbbi szüret friss olívaolaját.",
+                "ro": "Gustați ulei de măsline proaspăt din ultima recoltă.",
+                "en": "Taste fresh olive oil from the most recent harvest."
+              }
+            },
+            {
+              "name": "Abendlicher Spaziergang",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung auf der Piazza.",
+                "hu": "Élvezze az ünnepi fényeket a főtéren.",
+                "ro": "Bucurați-vă de luminile de sărbătoare din piață.",
+                "en": "Enjoy the festive holiday lights on the main square."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bora-Wind kann sehr kalt sein; Windjacke und Schal sind ein Muss.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter.",
+              "Viele Konobas haben im Winter eingeschränkte Öffnungszeiten, reservieren Sie vorab.",
+              "Besuchen Sie die Kirche mittags, um die Kälte des Vormittags zu meiden."
+            ],
+            "hu": [
+              "A bóra szél nagyon hideg lehet; szélkabát és sál kötelező.",
+              "A nap télen 16:30 körül nyugszik.",
+              "Sok konoba korlátozott nyitvatartással üzemel, érdemes előre foglalni.",
+              "A templomot délben látogassa meg, hogy elkerülje a délelőtti hideget."
+            ],
+            "ro": [
+              "Vântul Bura poate fi foarte rece; jacheta de vânt și fularul sunt obligatorii.",
+              "Soarele apune în jurul orei 16:30 în timpul iernii.",
+              "Multe taverne au program redus iarna, faceți rezervare în avans.",
+              "Vizitați biserica la prânz pentru a evita frigul dimineții."
+            ],
+            "en": [
+              "The Bora wind can be very cold; a windbreaker and scarf are essential.",
+              "The sun sets around 4:30 PM in winter.",
+              "Many konobas have limited hours in winter, so booking ahead is advised.",
+              "Visit the church at noon to avoid the morning chill."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -536,6 +754,206 @@
           "Carry enough water for the sections outside the town.",
           "Navigating between the murals is faster by bike."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine mystische Atmosphäre. Nach dem Start am Palast besichtigen wir die Murals, wobei die Farben im nassen Glanz leuchten. Mittags suchen wir Schutz in der Kirche und dem Ecomuseum. Die Fahrt durch die Olivenhaine kürzen wir bei starkem Regen ab und wärmen uns bei einem herzhaften Mittagessen auf.",
+            "hu": "A kerékpározás esőben óvatosságot igényel, de különleges, párás hangulatot áraszt. A palotától indulva a murálokat keressük fel, melyek színei az esőben még élénkebbek. Délben a templom és az Ekomúzeum nyújt fedett menedéket. Az olajfaligetek közötti utat erős esőben lerövidítjük, és egy kiadós ebéddel kárpótoljuk magunkat.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență, dar oferă o atmosferă mistică. După startul de la palat, vizităm picturile murale, ale căror culori strălucesc în ploaie. La prânz, căutăm adăpost în biserică și la ecomuzeu. Scurtăm plimbarea prin livezile de măslini dacă plouă tare și ne încălzim cu un prânz copios.",
+            "en": "Cycling in the rain requires caution but offers a mystical atmosphere. After starting at the palace, we visit the murals, whose colors glow in the wet sheen. At noon, we seek shelter in the church and ecomuseum. We shorten the ride through the olive groves if the rain gets heavy and warm up with a hearty lunch."
+          },
+          "stops": [
+            {
+              "name": "Palača Bradamante",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf nassem Pflaster starten.",
+                "hu": "Ellenőrizze a fékeket a vizes macskakő előtt.",
+                "ro": "Verificați frânele înainte de a porni pe pavajul ud.",
+                "en": "Check your brakes before starting on the wet pavement."
+              }
+            },
+            {
+              "name": "Murals Vodnjan",
+              "tip_5lang": {
+                "de": "Vorsicht in engen Kurven auf rutschigem Untergrund.",
+                "hu": "Óvatosan a szűk kanyarokban a csúszós talajon.",
+                "ro": "Atenție în curbele strânse pe suprafața alunecoasă.",
+                "en": "Be careful in tight turns on slippery surfaces."
+              }
+            },
+            {
+              "name": "Crkva sv. Blaža",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt vor dem Eingang für schnellen Schutz.",
+                "hu": "Kerékpártároló közvetlenül a bejáratnál a gyors menedékért.",
+                "ro": "Suport de biciclete chiar în fața intrării pentru adăpost rapid.",
+                "en": "Bike racks right in front of the entrance for quick shelter."
+              }
+            },
+            {
+              "name": "Ekomuzej Istrian de Dignan",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Indoor-Pause.",
+                "hu": "Használja ki az időt egy alapos benti pihenőre.",
+                "ro": "Folosiți timpul pentru o pauză interioară prelungită.",
+                "en": "Use the time for a thorough indoor break."
+              }
+            },
+            {
+              "name": "Radtour durch Olivenhaine",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Wege, die schlammig sein könnten.",
+                "hu": "Kerülje a földutakat, mert sárba ragadhat.",
+                "ro": "Evitați drumurile neasfaltate care ar putea fi noroioase.",
+                "en": "Avoid unpaved paths that could be muddy."
+              }
+            },
+            {
+              "name": "Ebéd egy konobában",
+              "tip_5lang": {
+                "de": "Platz für nasse Kleidung im Eingangsbereich vorhanden.",
+                "hu": "Van hely a vizes ruhák felakasztására a bejáratnál.",
+                "ro": "Spațiu disponibil pentru hainele ude la intrare.",
+                "en": "Space available for wet clothes near the entrance."
+              }
+            },
+            {
+              "name": "Ulica vjenčanja",
+              "tip_5lang": {
+                "de": "Am besten das Rad schieben, die Gasse ist sehr eng.",
+                "hu": "Érdemes tolni a bringát, nagyon szűk a sikátor.",
+                "ro": "Cel mai bine este să împingeți bicicleta, aleea este foarte îngustă.",
+                "en": "Best to push the bike as the alley is very narrow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist unverzichtbar.",
+              "Vermeiden Sie das Bremsen direkt auf den weißen Steinplatten, sie sind spiegelglatt.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassen Straßen.",
+              "Halten Sie die Fahrt durch die Olivenhaine kurz, um Unterkühlung zu vermeiden."
+            ],
+            "hu": [
+              "A teljes esőruházat (nadrág és kabát) elengedhetetlen.",
+              "Kerülje a fékezést közvetlenül a fehér kőlapokon, mert jégpályaként csúsznak.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében.",
+              "Tartsa röviden az olajfaligetek közötti szakaszt a lehűlés elkerülése végett."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie (pantaloni și jachetă) este indispensabil.",
+              "Evitați frânarea direct pe plăcile albe de piatră, sunt extrem de alunecoase.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe drumuri ude.",
+              "Limitați plimbarea prin livezi pentru a evita hipotermia."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is indispensable.",
+              "Avoid braking directly on the white stone slabs; they are slippery as ice.",
+              "Reduce tire pressure slightly for better grip on wet roads.",
+              "Keep the ride through olive groves short to avoid getting too cold."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Vodnjan bietet klare Sicht und leere Straßen. Morgens besichtigen wir die Sehenswürdigkeiten im Zentrum, wobei die körperliche Aktivität uns warm hält. Mittags bieten die Kirche und das Ecomuseum kulturelle Wärme. Die Tour durch die Olivenhaine ist im Winterlicht besonders fotogen. Wir beenden die Runde früh, bevor die Kälte nach Sonnenuntergang einsetzt.",
+            "hu": "A téli bringázás Vodnjan környékén tiszta kilátást és üres utakat kínál. Reggel a központ látnivalóit járjuk be, a mozgás pedig segít melegen tartani testünket. Délben a templom és az Ekomúzeum ad kulturális feltöltődést. Az olajfaligetek közötti túra a téli fényekben különösen fotogén. Korán befejezzük a kört, még a naplemente utáni lehűlés előtt.",
+            "ro": "Biciclitul iarna în Vodnjan oferă vizibilitate clară și drumuri pustii. Dimineața vizităm atracțiile din centru, activitatea fizică menținându-ne calzi. La prânz, biserica și ecomuzeul oferă căldură culturală. Turul prin livezile de măslini este deosebit de fotogenic în lumina iernii. Încheiem tura devreme, înainte de gerul de după apus.",
+            "en": "Winter cycling in Vodnjan offers clear views and empty roads. In the morning, we visit the sights in the center, with physical activity keeping us warm. At noon, the church and ecomuseum offer cultural warmth. The tour through the olive groves is especially photogenic in the winter light. We finish the loop early before the cold sets in after sunset."
+          },
+          "stops": [
+            {
+              "name": "Palača Bradamante",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die Fahrt.",
+                "hu": "Viseljen meleg kesztyűt a tekeréshez.",
+                "ro": "Purtați mănuși groase pentru plimbare.",
+                "en": "Wear warm gloves for the ride."
+              }
+            },
+            {
+              "name": "Murals Vodnjan",
+              "tip_5lang": {
+                "de": "Kurze Stopps einlegen, um nicht auszukühlen.",
+                "hu": "Tartson rövid megállókat, hogy ne hűljön ki.",
+                "ro": "Faceți opriri scurte pentru a nu vă răci.",
+                "en": "Keep stops brief to avoid getting chilled."
+              }
+            },
+            {
+              "name": "Crkva sv. Blaža",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "Jó hely az ujjak felmelegítésére.",
+                "ro": "Un loc bun pentru a vă încălzi degetele.",
+                "en": "A good place to warm up your fingers."
+              }
+            },
+            {
+              "name": "Ekomuzej Istrian de Dignan",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in Ruhe, es ist kaum Betrieb.",
+                "hu": "Nézze meg a kiállításokat nyugodtan, alig van látogató.",
+                "ro": "Vizitați expozițiile în liniște, este foarte puțină lume.",
+                "en": "Visit the exhibits in peace; there are hardly any crowds."
+              }
+            },
+            {
+              "name": "Radtour durch Olivenhaine",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die Adria im klaren Licht.",
+                "hu": "Élvezze a távoli kilátást az Adriára a tiszta időben.",
+                "ro": "Bucurați-vă de vederea spre Adriatică în lumina clară.",
+                "en": "Enjoy the distant view of the Adriatic in the clear air."
+              }
+            },
+            {
+              "name": "Ebéd egy konobában",
+              "tip_5lang": {
+                "de": "Heißer Tee oder Suppe sind jetzt ideal.",
+                "hu": "Forró tea vagy leves most ideális választás.",
+                "ro": "Un ceai fierbinte sau o supă sunt ideale acum.",
+                "en": "Hot tea or soup is ideal right now."
+              }
+            },
+            {
+              "name": "Ulica vjenčanja",
+              "tip_5lang": {
+                "de": "Letzter Fotostopp, bevor es kühl wird.",
+                "hu": "Utolsó fotómegálló, mielőtt lehűl a levegő.",
+                "ro": "Ultima oprire foto înainte de a se face frig.",
+                "en": "Last photo stop before it gets chilly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Zwiebelprinzip bei der Kleidung schützt vor dem kalten Fahrtwind.",
+              "Achten Sie auf Raureif am frühen Morgen, besonders im Schatten.",
+              "Flaschenhalter mit Thermoskanne für warmen Tee wird empfohlen.",
+              "Die Lichtverhältnisse für Fotos sind zwischen 11 und 14 Uhr am besten."
+            ],
+            "hu": [
+              "A réteges öltözködés megvéd a hideg menetszéltől.",
+              "Figyeljen a reggeli zúzmarára, különösen az árnyékos részeken.",
+              "Ajánlott termosz használata meleg teával a kulacstartóban.",
+              "A fényviszonyok a fotózáshoz 11 és 14 óra között a legjobbak."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi protejează împotriva vântului rece.",
+              "Atenție la chiciură dimineața devreme, mai ales la umbră.",
+              "Se recomandă un termos cu ceai cald în suportul pentru bidon.",
+              "Condițiile de lumină pentru fotografii sunt cele mai bune între orele 11 și 14."
+            ],
+            "en": [
+              "Dressing in layers protects against the cold headwind.",
+              "Watch out for frost early in the morning, especially in shaded areas.",
+              "A thermos with warm tea in the bottle cage is recommended.",
+              "Lighting conditions for photos are best between 11 AM and 2 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -800,6 +1218,224 @@
           "The coast is only 10-15 minutes away by car.",
           "It is worth combining the visit with a detour to Fažana."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Vodnjan auch bei Regen komfortabel. Wir parken nah am Zentrum und besuchen den Palast und die Kirche. Mittags bietet das Ecomuseum Schutz. Die Fahrt nach Peroj an den Strand zeigt das Meer von seiner wilden Seite, bevor wir ein gemütliches Mittagessen an der Küste genießen. Den Sonnenuntergang beobachten wir sicher aus dem warmen Wagen am Kap.",
+            "hu": "Autóval Vodnjan esőben is kényelmesen felfedezhető. A központ közelében parkolunk, megnézzük a palotát és a templomot. Délben az Ekomúzeumban bújunk el az eső elől. A peroiji tengerparti autózás során megcsodáljuk a haragos tengert, majd a parton ebédelünk. A naplementét biztonságban, a fűtött autóból figyeljük a foknál.",
+            "ro": "Cu mașina, Vodnjan este confortabil chiar și pe ploaie. Parcăm aproape de centru și vizităm palatul și biserica. La prânz, ecomuzeul oferă adăpost. Drumul spre plaja Peroj arată marea în starea ei sălbatică, înainte de a ne bucura de un prânz pe coastă. Privim apusul în siguranță din mașina caldă, la cap.",
+            "en": "By car, Vodnjan is comfortable even in the rain. We park near the center and visit the palace and church. At noon, the ecomuseum provides shelter. The drive to Peroj beach shows the sea's wild side before we enjoy a cozy lunch on the coast. We watch the sunset safely from the warm car at the cape."
+          },
+          "stops": [
+            {
+              "name": "Palača Bradamante",
+              "tip_5lang": {
+                "de": "Parkplatz an der Nordseite des Zentrums nutzen.",
+                "hu": "Használja a központ északi oldalán lévő parkolót.",
+                "ro": "Folosiți parcarea din partea de nord a centrului.",
+                "en": "Use the parking lot on the north side of the center."
+              }
+            },
+            {
+              "name": "Ulica vjenčanja",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Foto, dann zurück ins Trockene.",
+                "hu": "Gyors kiszállás egy fotóra, majd vissza a száraz autóba.",
+                "ro": "O scurtă coborâre pentru o fotografie, apoi înapoi la uscat.",
+                "en": "Short hop out for a photo, then back into the dry car."
+              }
+            },
+            {
+              "name": "Crkva sv. Blaža",
+              "tip_5lang": {
+                "de": "Ideal bei starkem Regen, da viel Zeit im Inneren verbracht wird.",
+                "hu": "Ideális erős esőben, mivel sok időt tölthetünk bent.",
+                "ro": "Ideal pe ploaie puternică, deoarece petreceți mult timp în interior.",
+                "en": "Ideal during heavy rain as you spend a lot of time inside."
+              }
+            },
+            {
+              "name": "Ekomuzej Istrian de Dignan",
+              "tip_5lang": {
+                "de": "Barrierefreier Zugang meist trocken erreichbar.",
+                "hu": "Az akadálymentes bejárat többnyire szárazon elérhető.",
+                "ro": "Accesul fără bariere este în mare parte protejat de ploaie.",
+                "en": "Barrier-free access is mostly reachable without getting wet."
+              }
+            },
+            {
+              "name": "Murals Vodnjan",
+              "tip_5lang": {
+                "de": "Einige Murals lassen sich direkt im Vorbeifahren bewundern.",
+                "hu": "Néhány murál akár az autóból elhaladva is megcsodálható.",
+                "ro": "Unele picturi murale pot fi admirate direct din mers.",
+                "en": "Some murals can be admired while driving past."
+              }
+            },
+            {
+              "name": "Strandpause in Peroj",
+              "tip_5lang": {
+                "de": "Stürmische Wellen vom Parkplatz aus beobachten.",
+                "hu": "Figyelje a viharos hullámokat a parkolóból.",
+                "ro": "Observați valurile înfuriate din parcare.",
+                "en": "Watch the stormy waves from the parking lot."
+              }
+            },
+            {
+              "name": "Ebéd a tengerparton",
+              "tip_5lang": {
+                "de": "Ein Restaurant mit Panorama-Fenstern wählen.",
+                "hu": "Válasszon panorámaablakos éttermet.",
+                "ro": "Alegeți un restaurant cu ferestre panoramice.",
+                "en": "Choose a restaurant with panoramic windows."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Kap",
+              "tip_5lang": {
+                "de": "Im Auto bleiben und die dramatischen Wolken genießen.",
+                "hu": "Maradjon az autóban, és élvezze a drámai felhőket.",
+                "ro": "Rămâneți în mașină și bucurați-vă de norii dramatici.",
+                "en": "Stay in the car and enjoy the dramatic clouds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in sehr engen Gassen, dort fließt das Regenwasser stark ab.",
+              "Die Küstenstraße nach Peroj kann bei Wind Gischt auf die Windschutzscheibe bringen.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Nutzen Sie die Parkplätze direkt am Strand von Peroj für Meerblick ohne nass zu werden."
+            ],
+            "hu": [
+              "Kerülje a parkolást a nagyon szűk utcákban, ahol az esővíz gyorsan lezúdul.",
+              "A Perojba vezető tengerparti úton a szél sós permetet verhet a szélvédőre.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Használja a peroiji tengerparti parkolót a tengeri kilátáshoz anélkül, hogy megázna."
+            ],
+            "ro": [
+              "Evitați parcarea pe străzile foarte înguste unde apa se scurge cu putere.",
+              "Drumul de coastă spre Peroj poate aduce stropi de sare pe parbriz din cauza vântului.",
+              "Verificați ștergătoarele de parbriz înainte de plecare.",
+              "Folosiți parcările de pe plaja Peroj pentru vedere la mare fără a vă uda."
+            ],
+            "en": [
+              "Avoid parking in very narrow alleys where rainwater runoff is heavy.",
+              "The coastal road to Peroj can bring salt spray onto the windshield in windy weather.",
+              "Check your windshield wipers before setting off.",
+              "Use the parking lots directly at Peroj beach for sea views without getting wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto verbindet kulturelle Highlights mit der rauen Schönheit der Küste. Vormittags erkunden wir das Zentrum von Vodnjan. Mittags wärmen wir uns in der Kirche und im Ecomuseum auf. Die Fahrt nach Peroj bietet im klaren Winterlicht eine spektakuläre Sicht auf die Brijuni-Inseln. Nach einem späten Mittagessen erleben wir den frühen Sonnenuntergang am Kap.",
+            "hu": "A téli autós túra a kulturális látnivalókat ötvözi a partvidék zord szépségével. Délelőtt Vodnjan központját fedezzük fel. Ebédidőben a templom és az Ekomúzeum ad meleget. A Perojba vezető út során a tiszta téli időben lenyűgöző kilátás nyílik a Brijuni-szigetekre. Egy késői ebéd után a foknál élvezzük a korai naplementét.",
+            "ro": "Turul de iarnă cu mașina combină atracțiile culturale cu frumusețea aspră a coastei. Dimineața explorăm centrul orașului Vodnjan. La prânz ne încălzim în biserică și ecomuzeu. Drumul spre Peroj oferă o vedere spectaculoasă asupra insulelor Brijuni în lumina clară de iarnă. După un prânz târziu, experimentăm apusul timpuriu la cap.",
+            "en": "The winter car tour combines cultural highlights with the rugged beauty of the coast. In the morning, we explore Vodnjan's center. At lunchtime, the church and ecomuseum provide warmth. The drive to Peroj offers spectacular views of the Brijuni Islands in the clear winter light. After a late lunch, we experience the early sunset at the cape."
+          },
+          "stops": [
+            {
+              "name": "Palača Bradamante",
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um den Wagen natürlich aufzuwärmen.",
+                "hu": "Parkoljon napos helyen, hogy az autó természetesen átmelegedjen.",
+                "ro": "Parcați la soare pentru a încălzi mașina natural.",
+                "en": "Park in the sun to naturally warm up the car."
+              }
+            },
+            {
+              "name": "Ulica vjenčanja",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang, die Kälte ist hier im Windschatten erträglich.",
+                "hu": "Rövid séta, a szélvédett sikátorban elviselhető a hideg.",
+                "ro": "O scurtă plimbare, frigul este suportabil aici, la adăpost de vânt.",
+                "en": "Short walk; the cold is bearable here in the lee of the wind."
+              }
+            },
+            {
+              "name": "Crkva sv. Blaža",
+              "tip_5lang": {
+                "de": "Ein langer Besuch lohnt sich wegen der beeindruckenden Ruhe.",
+                "hu": "A lenyűgöző csend miatt érdemes hosszan bent maradni.",
+                "ro": "O vizită lungă merită pentru liniștea impresionantă.",
+                "en": "A long visit is worthwhile for the impressive silence."
+              }
+            },
+            {
+              "name": "Ekomuzej Istrian de Dignan",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Übergang vom Parkplatz nötig.",
+                "hu": "Meleg ruha szükséges a parkolótól a bejáratig.",
+                "ro": "Haine groase necesare pentru drumul de la parcare.",
+                "en": "Warm clothes needed for the walk from the parking lot."
+              }
+            },
+            {
+              "name": "Murals Vodnjan",
+              "tip_5lang": {
+                "de": "Besichtigung im Sitzen aus dem Auto für einige Werke möglich.",
+                "hu": "Néhány mű az autóból ülve is megtekinthető.",
+                "ro": "Vizionarea din mașină este posibilă pentru unele lucrări.",
+                "en": "Viewing from the car is possible for some of the works."
+              }
+            },
+            {
+              "name": "Strandpause in Peroj",
+              "tip_5lang": {
+                "de": "Perfekt für einen kurzen, knackigen Deichspaziergang.",
+                "hu": "Tökéletes egy rövid, frissítő gátsétához.",
+                "ro": "Perfect pentru o scurtă plimbare revigorantă pe dig.",
+                "en": "Perfect for a short, crisp walk along the sea wall."
+              }
+            },
+            {
+              "name": "Ebéd a tengerparton",
+              "tip_5lang": {
+                "de": "Frischer Fisch schmeckt auch im Winter exzellent.",
+                "hu": "A friss hal télen is kiváló választás.",
+                "ro": "Peștele proaspăt are un gust excelent și iarna.",
+                "en": "Fresh fish tastes excellent even in winter."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Kap",
+              "tip_5lang": {
+                "de": "Frühzeitig ankommen (vor 16:15 Uhr).",
+                "hu": "Érkezzen időben (16:15 előtt).",
+                "ro": "Sosiți devreme (înainte de 16:15).",
+                "en": "Arrive early (before 4:15 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostgefahr auf den Brücken und in Senken der Landstraßen.",
+              "Die Parkplätze in Vodnjan sind im Winter oft kostenlos oder günstiger.",
+              "Nehmen Sie eine Decke für den Sonnenuntergang-Stopp im Auto mit.",
+              "Nutzen Sie die klare Fernsicht von Peroj für Fotos der Insel Brijuni."
+            ],
+            "hu": [
+              "Fagyveszély az országutak hídjain és mélyebben fekvő részein.",
+              "A parkolás Vodnjanban télen gyakran ingyenes vagy olcsóbb.",
+              "Vigyen magával takarót a naplemente-nézéshez az autóba.",
+              "Használja ki a tiszta távoli kilátást Perojból a Brijuni-szigetek fotózásához."
+            ],
+            "ro": [
+              "Pericol de îngheț pe poduri și în zonele joase ale drumurilor județene.",
+              "Parcările din Vodnjan sunt adesea gratuite sau mai ieftine iarna.",
+              "Luați o pătură pentru oprirea de la apus în mașină.",
+              "Profitați de vizibilitatea clară din Peroj pentru fotografii cu Insulele Brijuni."
+            ],
+            "en": [
+              "Risk of frost on bridges and in hollows of country roads.",
+              "Parking in Vodnjan is often free or cheaper during winter.",
+              "Take a blanket for the sunset stop in the car.",
+              "Take advantage of the clear long-distance views from Peroj for photos of Brijuni Island."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -807,7 +1443,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 3.5,
+      "total_km": 1.5,
       "stop_count": 6,
       "stops": [
         {
@@ -1028,6 +1664,188 @@
           "Buses run less frequently on Sundays.",
           "The old town is cobbled, so wear comfortable shoes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus oder Bahn erreichen wir Vodnjan und konzentrieren uns auf die Highlights im kompakten Zentrum. Vormittags besuchen wir den Palast und die Kirche, die nah beieinander liegen. Mittags vertiefen wir uns im Ecomuseum, um dem Wetter zu entfliehen. Ein langes Mittagessen im Zentrum überbrückt die Regenzeit, bevor wir die Murals besichtigen und den Rückweg antreten.",
+            "hu": "Busszal vagy vonattal érkezünk Vodnjanba, és a kompakt központ látnivalóira fókuszálunk. Délelőtt a palotát és a templomot látogatjuk meg, melyek közel vannak egymáshoz. Délben az Ekomúzeumban bújunk el az időjárás elől. Egy hosszú központi ebéd segít átvészelni a záporokat, mielőtt megnéznénk a murálokat és visszaindulnánk.",
+            "ro": "Ajungem în Vodnjan cu autobuzul sau trenul și ne concentrăm pe atracțiile din centrul compact. Dimineața vizităm palatul și biserica, situate aproape una de alta. La prânz, explorăm ecomuzeul pentru a scăpa de vremea rea. Un prânz lung în centru ne ajută să trecem peste ploaie înainte de a vedea picturile murale și a pleca.",
+            "en": "We arrive in Vodnjan by bus or train and focus on the highlights in the compact center. In the morning, we visit the palace and the church, which are close to each other. At noon, we dive into the ecomuseum to escape the weather. A long lunch in the center bridges the rainy periods before we see the murals and head back."
+          },
+          "stops": [
+            {
+              "name": "Palača Bradamante",
+              "tip_5lang": {
+                "de": "Nur 10 Minuten Fußweg vom Bahnhof entfernt.",
+                "hu": "Csak 10 perc séta a vasútállomástól.",
+                "ro": "La doar 10 minute de mers pe jos de gară.",
+                "en": "Just a 10-minute walk from the train station."
+              }
+            },
+            {
+              "name": "Ulica vjenčanja",
+              "tip_5lang": {
+                "de": "In der Nähe der Bushaltestelle gelegen.",
+                "hu": "A buszmegálló közelében található.",
+                "ro": "Situată în apropierea stației de autobuz.",
+                "en": "Located near the bus stop."
+              }
+            },
+            {
+              "name": "Crkva sv. Blaža",
+              "tip_5lang": {
+                "de": "Ein stabiler Regenschirm ist für den Weg zwischen den Stationen nötig.",
+                "hu": "Stabil esernyő szükséges a megállók közötti közlekedéshez.",
+                "ro": "O umbrelă rezistentă este necesară pentru drumul dintre obiective.",
+                "en": "A sturdy umbrella is needed for the walk between stops."
+              }
+            },
+            {
+              "name": "Ekomuzej Istrian de Dignan",
+              "tip_5lang": {
+                "de": "Zentraler Ankerpunkt für eine lange Regenpause.",
+                "hu": "Központi biztos pont egy hosszú esőszünethez.",
+                "ro": "Punct central de ancorare pentru o pauză lungă de ploaie.",
+                "en": "Central anchor point for a long rain break."
+              }
+            },
+            {
+              "name": "Mittagessen im Zentrum",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah an der Bushaltestelle.",
+                "hu": "Válasszon éttermet a buszmegálló közelében.",
+                "ro": "Alegeți un restaurant aproape de stația de autobuz.",
+                "en": "Choose a restaurant close to the bus stop."
+              }
+            },
+            {
+              "name": "Murals Vodnjan",
+              "tip_5lang": {
+                "de": "Die Murals liegen auf dem Weg zum Bahnhof.",
+                "hu": "A murálok a vasútállomás felé vezető úton találhatók.",
+                "ro": "Picturile murale sunt în drum spre gară.",
+                "en": "The murals are on the way to the train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten genau, Busse können bei Regen Verspätung haben.",
+              "Die Wartebereiche am Bahnhof Vodnjan sind teils nicht überdacht.",
+              "Das Stadtzentrum ist sehr kompakt, die Wege zwischen den Zielen sind kurz.",
+              "Warten Sie im Ekomuzej oder in einem Café, bis Ihr Bus kommt."
+            ],
+            "hu": [
+              "Ellenőrizze pontosan az indulási időket, esőben a buszok késhetnek.",
+              "A vodnjani vasútállomás várótermei részben nem fedettek.",
+              "A városközpont nagyon kompakt, az állomások közötti távolságok rövidek.",
+              "Várjon az Ekomúzeumban vagy egy kávézóban a busz érkezéséig."
+            ],
+            "ro": [
+              "Verificați orele de plecare, autobuzele pot avea întârzieri pe ploaie.",
+              "Zonele de așteptare de la gara Vodnjan nu sunt toate acoperite.",
+              "Centrul orașului este compact, distanțele între obiective sunt scurte.",
+              "Așteptați în ecomuzeu sau într-o cafenea până vine autobuzul."
+            ],
+            "en": [
+              "Check departure times carefully; buses may be delayed in the rain.",
+              "Waiting areas at Vodnjan station are partially uncovered.",
+              "The town center is very compact, with short distances between sights.",
+              "Wait in the ecomuseum or a café until your bus arrives."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit öffentlichen Verkehrsmitteln nach Vodnjan ist stressfrei und gemütlich. Nach der Ankunft am Vormittag erkunden wir den Bradamante-Palast. Mittags bietet die St. Blasius-Kirche einen Ort der Stille und Wärme. Im Ecomuseum erfahren wir mehr über die Landwirtschaft, bevor wir die Murals im weichen Nachmittagslicht besichtigen. Den Tag beenden wir mit einem wärmenden Getränk vor der Rückfahrt.",
+            "hu": "A téli kirándulás tömegközlekedéssel Vodnjanba stresszmentes és hangulatos. A délelőtti érkezés után a Bradamante-palotát fedezzük fel. Délben a Szent Balázs-templom a csend és a meleg szigete. Az Ekomúzeumban a mezőgazdaságról tanulunk, majd a murálokat nézzük meg a lágy délutáni fényben. A napot egy melengető itallal zárjuk a visszaindulás előtt.",
+            "ro": "O excursie de iarnă cu transportul public în Vodnjan este lipsită de stres și primitoare. După sosirea de dimineață, explorăm Palatul Bradamante. La prânz, Biserica Sf. Blasiu oferă un loc de liniște și căldură. La ecomuzeu aflăm despre agricultură, înainte de a vizita picturile murale în lumina blândă a după-amiezii. Încheiem ziua cu o băutură caldă înainte de plecare.",
+            "en": "A winter trip by public transport to Vodnjan is stress-free and cozy. After arriving in the morning, we explore the Bradamante Palace. At noon, St. Blaise's Church offers a place of silence and warmth. In the ecomuseum, we learn about agriculture before visiting the murals in the soft afternoon light. We end the day with a warming drink before heading back."
+          },
+          "stops": [
+            {
+              "name": "Palača Bradamante",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Weg vom Bahnhof einplanen.",
+                "hu": "Tervezzen meleg ruhát az állomástól vezető útra.",
+                "ro": "Planificați haine groase pentru drumul de la gară.",
+                "en": "Plan for warm clothes for the walk from the station."
+              }
+            },
+            {
+              "name": "Ulica vjenčanja",
+              "tip_5lang": {
+                "de": "Ein schneller Durchgang im geschützten Bereich.",
+                "hu": "Gyors áthaladás a szélvédett részen.",
+                "ro": "O trecere rapidă prin zona protejată.",
+                "en": "A quick pass through the sheltered area."
+              }
+            },
+            {
+              "name": "Crkva sv. Blaža",
+              "tip_5lang": {
+                "de": "Die Innentemperatur ist meist konstanter als draußen.",
+                "hu": "A belső hőmérséklet állandóbb, mint kint.",
+                "ro": "Temperatura interioară este de obicei mai constantă decât afară.",
+                "en": "The indoor temperature is usually more stable than outside."
+              }
+            },
+            {
+              "name": "Ekomuzej Istrian de Dignan",
+              "tip_5lang": {
+                "de": "Interaktive Stationen machen auch im Winter Spaß.",
+                "hu": "Az interaktív állomások télen is szórakoztatóak.",
+                "ro": "Stațiile interactive sunt distractive și iarna.",
+                "en": "Interactive stations are fun even in winter."
+              }
+            },
+            {
+              "name": "Mittagessen im Zentrum",
+              "tip_5lang": {
+                "de": "Ein Platz am Fenster bietet Sicht auf das Treiben auf der Piazza.",
+                "hu": "Az ablak melletti helyről rálátni a főtér forgatagára.",
+                "ro": "Un loc la fereastră oferă vedere spre agitația din piață.",
+                "en": "A seat by the window offers a view of the bustle on the piazza."
+              }
+            },
+            {
+              "name": "Murals Vodnjan",
+              "tip_5lang": {
+                "de": "Gute Fotomöglichkeiten ohne touristische Gruppen im Bild.",
+                "hu": "Kiváló fotólehetőség turistacsoportok nélkül.",
+                "ro": "Oportunități bune de fotografiere fără grupuri de turiști.",
+                "en": "Good photo opportunities without tourist groups in the shot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können weniger häufige Verbindungen haben als im Sommer.",
+              "Das Ticket kann oft direkt beim Fahrer oder am Bahnhof gekauft werden.",
+              "Nutzen Sie die beheizten Warteräume, falls vorhanden.",
+              "Die Züge zwischen Pula und Vodnjan sind eine malerische Option."
+            ],
+            "hu": [
+              "A téli menetrendben ritkábbak lehetnek a járatok, mint nyáron.",
+              "A jegyet gyakran közvetlenül a sofőrnél vagy az állomáson lehet megvenni.",
+              "Használja a fűtött várótermeket, ha rendelkezésre állnak.",
+              "A Pula és Vodnjan közötti vonatozás festői élmény."
+            ],
+            "ro": [
+              "Orarele de iarnă pot avea conexiuni mai puțin frecvente decât vara.",
+              "Biletul poate fi cumpărat adesea direct de la șofer sau din gară.",
+              "Folosiți sălile de așteptare încălzite, dacă sunt disponibile.",
+              "Trenurile între Pula și Vodnjan sunt o opțiune pitorească."
+            ],
+            "en": [
+              "Winter schedules may have less frequent connections than in summer.",
+              "Tickets can often be bought directly from the driver or at the station.",
+              "Use heated waiting rooms if available.",
+              "Trains between Pula and Vodnjan are a scenic option."
+            ]
+          }
+        }
       }
     }
   }
