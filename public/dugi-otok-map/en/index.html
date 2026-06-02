@@ -45,12 +45,13 @@ header .langs{display:flex;gap:.25rem}
 .poi.g-history circle{fill:#d0a6ff;filter:drop-shadow(0 0 2.4px #b266ff)}
 .poi.g-industry circle{fill:#ffb066;filter:drop-shadow(0 0 2.4px #fb923c)}
 .poi.g-other circle{fill:#b8c0cc;filter:drop-shadow(0 0 2px #9ca3af)}
-.poi.dim{opacity:.16}
+.poi.dim{opacity:.16;pointer-events:none}
 .poi.dim circle{filter:none}
 .poi,.cluster{transition:opacity .2s}
 #svg.dim-pois .poi,#svg.dim-pois .cluster{opacity:.1!important}
 #svg.dim-pois .poi circle{filter:none}
-.poi.match circle{stroke:#fff;stroke-width:1.4}
+.poi.match{pointer-events:auto}
+.poi.match circle{stroke:#fff;stroke-width:2;filter:drop-shadow(0 0 4px #fff)}
 .poi:hover circle,.poi.active circle{r:7.5;fill:#fff;opacity:1;filter:drop-shadow(0 0 6px #cfeaff) drop-shadow(0 0 11px #7fd0ff)}
 .poi-metro{cursor:pointer}
 .poi-metro .pm-halo{fill:#ffd54a;opacity:.18;animation:pmpulse 2.2s ease-in-out infinite}
@@ -208,7 +209,7 @@ const LANG="en",W=1043.3,H=1120;
 try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const CLUSTERS=[];
 const SEARCH_EXTRA=[];
-const POI_CARD={"croatia-telascica-life-v2":{"i":"/poi-images/croatia-telascica-life-v2.webp","s":"Located on the southern tip of Dugi Otok island, this park encompasses one of the safest bays in the Adriatic.","f":["Salt lake Mir with healing mud","Cliffs rise up to 161 meters"]},"dugi-otok-sali":{"i":"/poi-images/dugi-otok-sali.webp","s":"Sali is the largest settlement on Dugi otok, a historic fishing village serving as the main gateway to the Telašćica Nature Park.","f":["Largest settlement on Dugi otok","Administrative center of the island"]},"croatia-zman-cities-v2":{"i":"/poi-images/croatia-zman-cities-v2.webp","s":"An idyllic fishing village on Dugi Otok island, famous for its fertile fields and surrounding saline lakes.","f":["Located on Dugi Otok island","Famous for temporary lakes (Jezera)"]},"croatia-zaglav-cities-v2":{"s":"A key ferry port on Dugi Otok island, known for its Franciscan monastery and as the gateway to Telašćica Nature Park.","f":["Main fast ferry port","Only boat fuel station in area"]},"croatia-bozava-cities-v2":{"i":"/poi-images/croatia-bozava-cities-v2.webp","s":"Peaceful harbor village on the northwestern coast of Dugi Otok, surrounded by pine forests and azure waters.","f":["Located on Dugi Otok island","Baroque church of St. Nicholas"]}};
+const POI_CARD={"croatia-telascica-life-v2":{"i":"/poi-images/croatia-telascica-life-v2.webp","s":"Located on the southern tip of Dugi Otok island, this park encompasses one of the safest bays in the Adriatic.","f":["Salt lake Mir with healing mud","Cliffs rise up to 161 meters"]},"dugi-otok-sali":{"i":"/poi-images/dugi-otok-sali.webp","s":"Sali is the largest settlement on Dugi otok, a historic fishing village serving as the main gateway to the Telašćica Nature Park.","f":["Largest settlement on Dugi otok","Administrative center of the island"]},"croatia-zman-cities-v2":{"i":"/poi-images/croatia-zman-cities-v2.webp","s":"An idyllic fishing village on Dugi Otok island, famous for its fertile fields and surrounding saline lakes.","f":["Located on Dugi Otok island","Famous for temporary lakes (Jezera)"]},"croatia-zaglav-cities-v2":{"i":"/poi-images/croatia-zaglav-cities-v2.webp","s":"A key ferry port on Dugi Otok island, known for its Franciscan monastery and as the gateway to Telašćica Nature Park.","f":["Main fast ferry port","Only boat fuel station in area"]},"croatia-bozava-cities-v2":{"i":"/poi-images/croatia-bozava-cities-v2.webp","s":"Peaceful harbor village on the northwestern coast of Dugi Otok, surrounded by pine forests and azure waters.","f":["Located on Dugi Otok island","Baroque church of St. Nicholas"]}};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
 const EXPAND_SCALE=3.5;
@@ -219,16 +220,23 @@ function clmp(v){return Math.max(.5,Math.min(8,v))}
 function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
 function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
 function zoomCenter(f){const r=svg.getBoundingClientRect();zoomAt(f,r.left+r.width/2,r.top+r.height/2)}
-let dr=false,dx=0,dy=0;
-svg.addEventListener('pointerdown',e=>{if(e.target.closest('.poi'))return;if(e.isPrimary===false)return;dr=true;dx=e.clientX;dy=e.clientY;svg.classList.add('drag');svg.setPointerCapture(e.pointerId)});
-svg.addEventListener('pointermove',e=>{if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()});
-svg.addEventListener('pointerup',()=>{dr=false;svg.classList.remove('drag')});
-svg.addEventListener('pointercancel',()=>{dr=false;svg.classList.remove('drag')});
+let dr=false,pend=false,dx=0,dy=0,sx=0,sy=0,pid=0;
+// Drag uses a MOVE THRESHOLD: pointerdown only ARMS panning; we don't capture the
+// pointer until it actually moves >4px. A click without movement therefore reaches
+// the target's own handler — fixes desktop where setPointerCapture-on-down stole the
+// click from .cluster and .region (country) elements (mobile tap was unaffected).
+svg.addEventListener('pointerdown',e=>{if(e.isPrimary===false)return;pend=true;dr=false;dx=sx=e.clientX;dy=sy=e.clientY;pid=e.pointerId});
+svg.addEventListener('pointermove',e=>{
+  if(pend&&!dr){if(Math.hypot(e.clientX-sx,e.clientY-sy)<=4)return;dr=true;svg.classList.add('drag');try{svg.setPointerCapture(pid)}catch(_){}}
+  if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()
+});
+svg.addEventListener('pointerup',()=>{pend=false;if(dr){dr=false;svg.classList.remove('drag');try{svg.releasePointerCapture(pid)}catch(_){}}});
+svg.addEventListener('pointercancel',()=>{pend=false;dr=false;svg.classList.remove('drag')});
 svg.addEventListener('wheel',e=>{e.preventDefault();zoomAt(e.deltaY<0?1.15:1/1.15,e.clientX,e.clientY)},{passive:false});
 document.getElementById('zin').onclick=()=>zoomCenter(1.3);
 document.getElementById('zout').onclick=()=>zoomCenter(1/1.3);
 let pD=0,pS=1;
-svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false}},{passive:true});
+svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false;pend=false}},{passive:true});
 svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touches;const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);const cx=(a.clientX+b.clientX)/2,cy=(a.clientY+b.clientY)/2;const f=(d/pD)*(pS/s);zoomAt(f,cx,cy);e.preventDefault()}},{passive:false});
 const pop=document.getElementById('popup');
 const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};

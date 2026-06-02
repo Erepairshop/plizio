@@ -31,6 +31,11 @@ header .langs{display:flex;gap:.25rem}
 #svg.drag{cursor:grabbing}
 .region{fill:#161e3a;stroke:#6f9bf0;stroke-width:1.1;stroke-opacity:.7;transition:fill .15s}
 .region:hover{fill:#28356e}
+/* Island maps: the single island shape is decorative — don't let it grab taps
+   (no sticky hover-highlight on touch, POI markers stay easy to tap). Pan still
+   works via the svg background. */
+#gR.noint .region{pointer-events:none}
+#gR.noint .region:hover{fill:#161e3a}
 .label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
 .poi{cursor:pointer}
 .poi circle{fill:#9ca3af;stroke:#0a0f20;stroke-width:.5;transition:r .12s,opacity .12s}
@@ -40,13 +45,22 @@ header .langs{display:flex;gap:.25rem}
 .poi.g-history circle{fill:#d0a6ff;filter:drop-shadow(0 0 2.4px #b266ff)}
 .poi.g-industry circle{fill:#ffb066;filter:drop-shadow(0 0 2.4px #fb923c)}
 .poi.g-other circle{fill:#b8c0cc;filter:drop-shadow(0 0 2px #9ca3af)}
-.poi.dim{opacity:.16}
+.poi.dim{opacity:.16;pointer-events:none}
 .poi.dim circle{filter:none}
 .poi,.cluster{transition:opacity .2s}
 #svg.dim-pois .poi,#svg.dim-pois .cluster{opacity:.1!important}
 #svg.dim-pois .poi circle{filter:none}
-.poi.match circle{stroke:#fff;stroke-width:1.4}
+.poi.match{pointer-events:auto}
+.poi.match circle{stroke:#fff;stroke-width:2;filter:drop-shadow(0 0 4px #fff)}
 .poi:hover circle,.poi.active circle{r:7.5;fill:#fff;opacity:1;filter:drop-shadow(0 0 6px #cfeaff) drop-shadow(0 0 11px #7fd0ff)}
+.poi-metro{cursor:pointer}
+.poi-metro .pm-halo{fill:#ffd54a;opacity:.18;animation:pmpulse 2.2s ease-in-out infinite}
+.poi-metro .pm-ring{fill:none;stroke:#ffd54a;stroke-width:1.6;opacity:.85}
+.poi-metro .pm-dot{fill:#fff;filter:drop-shadow(0 0 5px #ffd54a)}
+.poi-metro .pm-label{fill:#fff;font-size:11px;font-weight:800;paint-order:stroke;stroke:#06061b;stroke-width:3.2px;stroke-linejoin:round;letter-spacing:.2px}
+.poi-metro:hover .pm-ring,.poi-metro:focus .pm-ring{stroke-width:2.4;opacity:1}
+.poi-metro:hover .pm-label{fill:#ffe98a}
+@keyframes pmpulse{0%,100%{opacity:.16;transform:scale(1)}50%{opacity:.34;transform:scale(1.18)}}
 .controls{position:absolute;top:53px;left:0;right:0;z-index:4;padding:.4rem .55rem;display:flex;gap:.3rem;align-items:center;background:linear-gradient(180deg,#060614 0%,#06061400 100%)}
 .chips{display:flex;gap:.25rem;flex-shrink:0}
 .chip{flex-shrink:0;width:30px;height:30px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;user-select:none;padding:0;opacity:.45;transition:opacity .12s,background .12s,border-color .12s}
@@ -194,26 +208,35 @@ header .langs{display:flex;gap:.25rem}
 const LANG="ro",W=1000,H=1102;
 try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const CLUSTERS=[[{"id":"xk-gjakova","name":"Gjakova","grp":"city","url":"/ro/kosovo/xk-002/gjakova/","cx":256.2,"cy":673.5},{"id":"xk-hadum-mosque","name":"Moscheea Hadum","grp":"history","url":"/ro/kosovo/xk-002/moscheea-hadum/","cx":251,"cy":673.5}],[{"id":"xk-prizren","name":"Prizren","grp":"city","url":"/ro/kosovo/xk-004/prizren/","cx":417.3,"cy":790.8},{"id":"xk-kalaja-prizren","name":"Cetatea Prizren","grp":"history","url":"/ro/kosovo/xk-004/cetatea-prizren/","cx":417.4,"cy":793.5}]];
+const SEARCH_EXTRA=[];
 const POI_CARD={"xk-decan":{"i":"/poi-images/xk-decan.webp","s":"Importantă mănăstire ortodoxă sârbă și patrimoniu mondial UNESCO.","f":["Fondată în secolul al XIV-lea.","Deține cea mai mare biserică medievală din Balcani."]},"xk-decan-mountains":{"i":"/poi-images/xk-decan-mountains.webp","s":"Parte a munților Prokletije cu natură virgină.","f":["Destinație populară pentru drumeții.","Adăpostește specii de animale rare."]},"xk-gjakova":{"i":"/poi-images/xk-gjakova.webp","s":"Oraș istoric cunoscut pentru vechiul său bazar.","f":["Găzduiește cel mai lung bazar din Kosovo.","Important centru cultural."]},"xk-hadum-mosque":{"i":"/poi-images/xk-hadum-mosque.webp","s":"Moschee otomană din secolul al XVI-lea.","f":["Construită în anul 1594.","Capodoperă a arhitecturii otomane clasice."]},"xk-dragash":{"i":"/poi-images/xk-dragash.webp","s":"Cel mai sudic oraș din Kosovo în mediu montan.","f":["Centrul minorității Gorani.","Faimos pentru brânza sa de oaie."]},"xk-restelica":{"i":"/poi-images/xk-restelica.webp","s":"Unul dintre cele mai înalte sate din Kosovo.","f":["Cunoscut pentru arhitectura tradițională.","Ierni foarte bogate în zăpadă."]},"xk-prizren":{"i":"/poi-images/xk-prizren.webp","s":"Capitala culturală a Kosovo.","f":["Gazda festivalului de film Dokufest.","Cunoscut pentru podul de piatră otoman."]},"xk-kalaja-prizren":{"i":"/poi-images/xk-kalaja-prizren.webp","s":"Cetate medievală cu vedere peste Prizren.","f":["Oferă cea mai bună vedere panoramică asupra orașului.","Originar bizantină, extinsă ulterior de otomani."]},"xk-gjilan":{"i":"/poi-images/xk-gjilan.webp","s":"Centru economic în estul Kosovo.","f":["Cunoscut pentru ospitalitatea sa.","Important nod de transport."]},"xk-pogragja-castle":{"i":"/poi-images/xk-pogragja-castle.webp","s":"Ruinele unei cetăți medievale lângă Gjilan.","f":["Construită în secolul al XIV-lea.","A servit la protejarea rutelor comerciale."]}};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
 const EXPAND_SCALE=3.5;
 let s=1,tx=0,ty=0;
 function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE);if(typeof closeMapcard==='function')closeMapcard();if(typeof closeBurst==='function')closeBurst()}
+
 function clmp(v){return Math.max(.5,Math.min(8,v))}
 function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
 function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
 function zoomCenter(f){const r=svg.getBoundingClientRect();zoomAt(f,r.left+r.width/2,r.top+r.height/2)}
-let dr=false,dx=0,dy=0;
-svg.addEventListener('pointerdown',e=>{if(e.target.closest('.poi'))return;if(e.isPrimary===false)return;dr=true;dx=e.clientX;dy=e.clientY;svg.classList.add('drag');svg.setPointerCapture(e.pointerId)});
-svg.addEventListener('pointermove',e=>{if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()});
-svg.addEventListener('pointerup',()=>{dr=false;svg.classList.remove('drag')});
-svg.addEventListener('pointercancel',()=>{dr=false;svg.classList.remove('drag')});
+let dr=false,pend=false,dx=0,dy=0,sx=0,sy=0,pid=0;
+// Drag uses a MOVE THRESHOLD: pointerdown only ARMS panning; we don't capture the
+// pointer until it actually moves >4px. A click without movement therefore reaches
+// the target's own handler — fixes desktop where setPointerCapture-on-down stole the
+// click from .cluster and .region (country) elements (mobile tap was unaffected).
+svg.addEventListener('pointerdown',e=>{if(e.isPrimary===false)return;pend=true;dr=false;dx=sx=e.clientX;dy=sy=e.clientY;pid=e.pointerId});
+svg.addEventListener('pointermove',e=>{
+  if(pend&&!dr){if(Math.hypot(e.clientX-sx,e.clientY-sy)<=4)return;dr=true;svg.classList.add('drag');try{svg.setPointerCapture(pid)}catch(_){}}
+  if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()
+});
+svg.addEventListener('pointerup',()=>{pend=false;if(dr){dr=false;svg.classList.remove('drag');try{svg.releasePointerCapture(pid)}catch(_){}}});
+svg.addEventListener('pointercancel',()=>{pend=false;dr=false;svg.classList.remove('drag')});
 svg.addEventListener('wheel',e=>{e.preventDefault();zoomAt(e.deltaY<0?1.15:1/1.15,e.clientX,e.clientY)},{passive:false});
 document.getElementById('zin').onclick=()=>zoomCenter(1.3);
 document.getElementById('zout').onclick=()=>zoomCenter(1/1.3);
 let pD=0,pS=1;
-svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false}},{passive:true});
+svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false;pend=false}},{passive:true});
 svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touches;const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);const cx=(a.clientX+b.clientX)/2,cy=(a.clientY+b.clientY)/2;const f=(d/pD)*(pS/s);zoomAt(f,cx,cy);e.preventDefault()}},{passive:false});
 const pop=document.getElementById('popup');
 const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
@@ -363,10 +386,13 @@ function applySearch(){
     if(!e.search.includes(q))continue;
     if(hits.length<50)hits.push({id,...e});
   }
+  // Search-only entries (POIs on a sub-map): match by name, navigate to the sub-map.
+  const extraHits=[];
+  for(const e of SEARCH_EXTRA){if(e.s.includes(q)&&extraHits.length<20)extraHits.push(e)}
   // Auto-zoom: only ONE visible thing on the map → pan-zoom there.
   // "Visible thing" = either a single non-clustered POI, or one cluster with all matches inside it.
   // Compute by examining current cluster visibility (already set in Phase 2 above).
-  if(hits.length>0){
+  if(hits.length>0&&extraHits.length===0){
     // Map: poi-id -> cluster index it belongs to (if any)
     const poiToCluster={};
     for(let i=0;i<CLUSTERS.length;i++)for(const p of CLUSTERS[i])poiToCluster[p.id]=i;
@@ -417,12 +443,13 @@ function applySearch(){
       }
     }
   }
-  if(hits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  if(hits.length===0&&extraHits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
   // Show first N by default; rest behind a "+more" button so the dropdown
   // stops covering the map when a query has many matches.
   const FIRST_N=8;
   const row=h=>'<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+String(h.grp)+'</span></a>';
-  let html=hits.slice(0,FIRST_N).map(row).join('');
+  const exRow=e=>'<a data-extra="1" href="'+e.u+'"><span class="dot" style="background:#ffd54a"></span><span class="nm">'+e.n.replace(/[<>]/g,'')+'</span><span class="gr">›</span></a>';
+  let html=hits.slice(0,FIRST_N).map(row).join('')+extraHits.map(exRow).join('');
   if(hits.length>FIRST_N){
     const rest=hits.slice(FIRST_N).map(row).join('');
     const moreLabel=LANG==='hu'?'Még':LANG==='de'?'Mehr':LANG==='ro'?'Mai mult':'More';
@@ -438,6 +465,8 @@ sIn.addEventListener('input',applySearch);
 sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
 // Click on dropdown item: zoom-pan to POI AND open its popup (same as clicking the marker).
 sRes.addEventListener('click',e=>{
+  const ax=e.target.closest('a[data-extra]');
+  if(ax)return; // sub-map link: let the browser navigate
   const a=e.target.closest('a[data-id]');
   if(!a)return;
   e.preventDefault();
