@@ -93,7 +93,10 @@ export async function generateSitemaps() {
 
 function createEntry(url: string, sourceFile: string, priority: number) {
   return {
-    url: `${SITE_URL}${url === "/" ? "" : url}`,
+    // A homepage kanonikusa "https://plizio.com/" (trailing slash) — a sitemapnek
+    // EZZEL kell egyeznie, kulonben Google kulon URL-nek veszi ("/" vs "" no-slash)
+    // es nem tarsitja a sitemapet a kanonikus homepage-hez ("Keine verweisenden Sitemaps").
+    url: `${SITE_URL}${url}`,
     lastModified: getGitLastMod(sourceFile),
     priority,
   };
