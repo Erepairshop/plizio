@@ -852,12 +852,13 @@ header .langs{display:flex;gap:.25rem}
 .poi.g-history circle{fill:#d0a6ff;filter:drop-shadow(0 0 2.4px #b266ff)}
 .poi.g-industry circle{fill:#ffb066;filter:drop-shadow(0 0 2.4px #fb923c)}
 .poi.g-other circle{fill:#b8c0cc;filter:drop-shadow(0 0 2px #9ca3af)}
-.poi.dim{opacity:.16}
+.poi.dim{opacity:.16;pointer-events:none}
 .poi.dim circle{filter:none}
 .poi,.cluster{transition:opacity .2s}
 #svg.dim-pois .poi,#svg.dim-pois .cluster{opacity:.1!important}
 #svg.dim-pois .poi circle{filter:none}
-.poi.match circle{stroke:#fff;stroke-width:1.4}
+.poi.match{pointer-events:auto}
+.poi.match circle{stroke:#fff;stroke-width:2;filter:drop-shadow(0 0 4px #fff)}
 .poi:hover circle,.poi.active circle{r:7.5;fill:#fff;opacity:1;filter:drop-shadow(0 0 6px #cfeaff) drop-shadow(0 0 11px #7fd0ff)}
 .poi-metro{cursor:pointer}
 .poi-metro .pm-halo{fill:#ffd54a;opacity:.18;animation:pmpulse 2.2s ease-in-out infinite}
