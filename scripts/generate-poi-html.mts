@@ -174,6 +174,21 @@ function lookupFallbackImage(poiId: string): string | null {
   return null;
 }
 
+// poi.image neha letoltetlen (404) fajlra mutat (pl. tz-ras-mkumbuu-history-v2.webp).
+// Ha az image-index betoltott (local dir VAGY _image-manifest.json, >=1000 fajl),
+// validaljuk a poi.image-et; ha a fajl nincs meg → fallback (lookup → null → placeholder).
+// Ha az index ures (nem sikerult betolteni), bizalom a poi.image-ben (ne uritsunk mindent).
+const IMG_INDEX_READY = IMG_SET.size >= 1000;
+function imageExists(p?: string | null): boolean {
+  if (!p) return false;
+  if (!IMG_INDEX_READY) return true;
+  return IMG_SET.has(p.split("/").pop() || "");
+}
+function resolveHeroImage(poi: POI): string | null {
+  if (poi.image && imageExists(poi.image)) return poi.image;
+  return lookupFallbackImage(poi.id);
+}
+
 // FAQ sidecar — 5 Q&A per POI in 4 langs (de/hu/ro/en), AI-generated.
 // Loaded at startup. Renderer emits both a visible accordion AND a
 // FAQPage JSON-LD schema for Google rich-snippet eligibility.
@@ -940,7 +955,12 @@ const FOOTER_COPY: Record<string, { privacy: string; about: string; imprint: str
 };
 function footerHtml(lang: Lang): string {
   const f = FOOTER_COPY[lang] ?? FOOTER_COPY.en;
-  return `<div><a href="/${lang}/">Plizio</a> · <a href="/europe-map/">${f.europe}</a> · <a href="/privacy/">${f.privacy}</a> · <a href="/impressum/">${f.imprint}</a> · <a href="/about/">${f.about}</a></div>`;
+  // Globalis kep-fallback: ha egy poi-images/geo-images kep nem tolt be (404 — pl.
+  // letoltetlen poi.image), csere placeholder SVG-re, hogy ne legyen torott kep.
+  // Capture-fazis (img error nem bubble-ozik); a lazy-load kepek a footer-script
+  // utan toltenek, igy elkapja oket.
+  const imgFb = `<script>document.addEventListener('error',function(e){var t=e.target;if(t&&t.tagName==='IMG'&&!t.dataset.phf&&/\\/(poi-images|geo-images)\\//.test(t.getAttribute('src')||'')){t.dataset.phf=1;t.src='/placeholders/poi/placeholder-landmark.svg';}},true);</script>`;
+  return `<div><a href="/${lang}/">Plizio</a> · <a href="/europe-map/">${f.europe}</a> · <a href="/privacy/">${f.privacy}</a> · <a href="/impressum/">${f.imprint}</a> · <a href="/about/">${f.about}</a></div>${imgFb}`;
 }
 
 // Belso POI-link a CELPOI altal tamogatott nyelven. A 4 alapnyelv (de/hu/ro/en)
@@ -1002,7 +1022,7 @@ function structuredData(
       addressCountry: slugs.countryIso2(countryId) ?? countryName,
     };
   }
-  const imgForSchema = poi.image || lookupFallbackImage(poi.id);
+  const imgForSchema = resolveHeroImage(poi);
   if (imgForSchema) {
     place.image = `${SITE_URL}${imgForSchema}`;
   }
@@ -2054,7 +2074,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         obj.endDate = String((ev as any).date_end || (ev as any).end_date || (ev as any).endDate || ev.date).slice(0, 10);
         // image: event image, else fall back to the POI hero photo (absolute URL).
         if (typeof ev.image_url === "string" && /^https?:\/\//.test(ev.image_url)) obj.image = ev.image_url;
-        else { const _fb = poi.image || lookupFallbackImage(poi.id); if (_fb) obj.image = `${SITE_URL}${_fb}`; }
+        else { const _fb = resolveHeroImage(poi); if (_fb) obj.image = `${SITE_URL}${_fb}`; }
         if (typeof ev.source_url === "string" && /^https?:\/\//.test(ev.source_url)) obj.url = ev.source_url;
         // Organizer with url (recommended field).
         obj.organizer = { "@type": "Organization", "name": "Plizio", "url": SITE_URL };
@@ -2112,7 +2132,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 
   // Hero swiper — primary image + up to 4 sight images, swipeable with snap + dots
   const heroImages: { src: string; alt: string }[] = [];
-  const heroImg = poi.image || lookupFallbackImage(poi.id);
+  const heroImg = resolveHeroImage(poi);
   if (heroImg) heroImages.push({ src: heroImg, alt: buildAlt(name) });
   for (const s of sightsArr.slice(0, 6)) {
     const sImg = (s as { image?: string }).image;
@@ -2193,7 +2213,7 @@ ${hreflangLinks}
 <meta property="og:description" content="${escapeHtml(metaDesc)}"/>
 <meta property="og:url" content="${url}"/>
 <meta property="og:type" content="website"/>
-${(poi.image || heroImg) ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image || heroImg || "")}"/>` : ""}
+${heroImg ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(heroImg)}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
 <link rel="stylesheet" href="/poi-static/poi.css?v=20260526h"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countryName, faqItems, [
