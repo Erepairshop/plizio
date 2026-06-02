@@ -1718,7 +1718,19 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   }
 
   // Related POIs grouped by type (max 24 total)
-  const related = getRelatedPois(poi, 24);
+  // Parent-alapu related; ha keves (a POI parentje nem egyezik a szomszedaival —
+  // data-inkonzisztens parent slug, pl. HU district POI-k: josa parent="debrecen"
+  // de a szomszedok parentje "debrecen-district"/"hajdu-bihar"), kiegeszitjuk
+  // koord-kozeli szomszedokkal, kulonben eltunik a teljes "Kapcsolodo/related" szekcio.
+  let related = getRelatedPois(poi, 24);
+  if (related.length < 6) {
+    const have = new Set(related.map((rp) => rp.id)); have.add(poi.id);
+    for (const e of getNearbyPois(poi, 24, 80)) {
+      if (have.has(e.p.id)) continue;
+      related.push(e.p); have.add(e.p.id);
+      if (related.length >= 24) break;
+    }
+  }
   const TYPE_GROUPS: Record<string, string[]> = {
     city: ["city", "capital", "state-capital", "town", "village"],
     history: ["castle", "fort", "fortress", "fortification", "monastery", "history", "geschichte", "landmark", "icon"],
