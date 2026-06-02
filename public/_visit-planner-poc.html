@@ -83,6 +83,7 @@ h1{font-size:1.5rem;margin:.2rem 0 .1rem}
     </div>
     <ul class="tl" id="route-list"></ul>
     <div class="actions">
+      <button class="act" id="maps-btn" data-url="">📍 Megnyitás Google Mapsben</button>
       <button class="act" id="save-btn">💾 Terv mentése</button>
       <button class="act" id="clear-btn">🗑️ Törlés</button>
     </div>
@@ -175,6 +176,13 @@ function render(){
       (desc?'<p class="stop-desc">'+desc+'</p>':'')+
       '</div></div></li>';
   }).join("");
+  var fmt=function(x){return x[1].toFixed(6)+","+x[0].toFixed(6);};
+  var pts=route.map(function(s){return fmt(s.poi.coords);});
+  var url="https://www.google.com/maps/dir/?api=1&travelmode="+(state.m==="car"?"driving":"walking")+
+    "&origin="+encodeURIComponent(fmt(DATA.city.coords))+"&destination="+encodeURIComponent(pts[pts.length-1]);
+  var wp=pts.slice(0,-1);
+  if(wp.length)url+="&waypoints="+encodeURIComponent(wp.join("|"));
+  document.getElementById("maps-btn").setAttribute("data-url",url);
 }
 
 // wiring
@@ -190,6 +198,9 @@ bindGroup("time-opts","t",function(b){return parseInt(b.getAttribute("data-t"),1
 bindGroup("vibe-opts","v",function(b){return b.getAttribute("data-v");});
 bindGroup("mode-opts","m",function(b){return b.getAttribute("data-m");});
 document.getElementById("build-btn").addEventListener("click",render);
+document.getElementById("maps-btn").addEventListener("click",function(){
+  var u=this.getAttribute("data-url"); if(u)window.open(u,"_blank","noopener");
+});
 document.getElementById("save-btn").addEventListener("click",function(){
   try{localStorage.setItem("plizio-plan-"+DATA.city.id,JSON.stringify({t:state.t,v:state.v,at:new Date().toISOString()}));
     document.getElementById("saved-note").textContent="✓ Elmentve erre az eszközre. Legközelebb itt folytathatod.";}catch(e){document.getElementById("saved-note").textContent="Mentés nem sikerült.";}
