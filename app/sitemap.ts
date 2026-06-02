@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import type { MetadataRoute } from "next";
 import { getGitLastMod } from "@/lib/seo/lastmod";
-import { SITE_URL, hasIndexableContent } from "@/lib/seo/routes";
+import { SITE_URL, hasIndexableContent, stateHasIndexablePois } from "@/lib/seo/routes";
 import {
   SUPPORTED_LANGS,
   COUNTRY_SLUGS,
@@ -24,6 +24,9 @@ import {
 
 // All country-hub IDs (one /<lang>/<country>/ page each, per generateStaticParams).
 const ALL_COUNTRY_IDS = Object.keys(COUNTRY_SLUGS);
+// Csak azokat a state-eket tesszuk a sitemapbe, amiknek van indexalhato POI-juk
+// (a 0-POI traditional-region overlay-oldalak thin-ek → noindex + sitemap-drop).
+const INDEXABLE_REGIONS = regions.filter((r) => stateHasIndexablePois(r.id));
 // Category-hub params that actually build (TYPE_INDEX_COUNTRIES × buckets with ≥4 POIs).
 // Mirrors generateStaticParams in app/[lang]/[country]/category/[type]/page.tsx.
 const CATEGORY_PARAMS: { countryId: string; bucket: string }[] = [];
@@ -80,7 +83,7 @@ export async function generateSitemaps() {
     GAME_FIXED * SUPPORTED_LANGS.length +
     ALL_COUNTRY_IDS.length * SUPPORTED_LANGS.length +
     CATEGORY_PARAMS.length * SUPPORTED_LANGS.length +
-    regions.length * SUPPORTED_LANGS.length +
+    INDEXABLE_REGIONS.length * SUPPORTED_LANGS.length +
     indexablePois.length * SUPPORTED_LANGS.length +
     extraLangUrls +
     SIGHT_PAGES.length * SUPPORTED_LANGS.length;
@@ -174,7 +177,7 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   );
 
   const stateUrls = SUPPORTED_LANGS.flatMap((lang) =>
-    regions.map((state) => createEntry(buildStatePath(lang, state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8)),
+    INDEXABLE_REGIONS.map((state) => createEntry(buildStatePath(lang, state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8)),
   );
 
   // SEO: csak az indexálható (megfelelő tartalmú) POI-kat tesszük a sitemap-ba.

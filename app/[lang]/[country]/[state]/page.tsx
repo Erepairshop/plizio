@@ -14,6 +14,7 @@ import {
   groupPoisForState,
   isLang,
   stateDescription,
+  stateHasIndexablePois,
 } from "@/lib/seo/routes";
 import {
   SUPPORTED_LANGS,
@@ -61,9 +62,13 @@ export async function generateMetadata({
   const title = `${region.name[lang] || region.name.de} | Plizio Visual Lab`;
   const description = stateDescription(region.id, lang);
 
+  // Thin state-oldal (0 indexalhato POI, pl. RO traditional-region) → noindex.
+  const indexable = stateHasIndexablePois(region.id);
+
   return {
     title,
     description,
+    ...(indexable ? {} : { robots: { index: false, follow: true } }),
     alternates: {
       canonical: absoluteUrl(buildStatePath(lang, region.id)),
       languages: { ...getStateAlternates(region.id), "x-default": absoluteUrl(buildStatePath("en", region.id)) },

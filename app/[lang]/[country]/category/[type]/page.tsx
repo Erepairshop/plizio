@@ -68,8 +68,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   if (!r) return {};
   const countryCopy = getCountryCopy(r.countryId, r.lang);
   const heading = TYPE_HEADINGS[r.bucket][r.lang];
-  const title = `${heading} — ${countryCopy.name} | Plizio`;
-  const description = `${heading} ${countryCopy.name} — Plizio Visual Lab.`;
+  const title = `${heading} · ${countryCopy.name} | Plizio`;
+  const description = `${heading} · ${countryCopy.name} · Plizio Visual Lab.`;
   return {
     title, description,
     alternates: {
@@ -105,7 +105,7 @@ export default async function TypeIndexPage({ params }: { params: Promise<{ lang
         <header className="mt-6">
           <p className="text-xs uppercase tracking-[0.28em] text-cyan-300/80">{countryCopy.name}</p>
           <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-5xl">{heading}</h1>
-          <p className="mt-3 text-sm text-white/55">{items.length} {heading.toLowerCase()}</p>
+          <p className="mt-3 text-sm text-white/55">{items.length} {heading}</p>
           {(() => {
             const ms = mapSlugForCountry(r.countryId);
             if (!ms) return null;

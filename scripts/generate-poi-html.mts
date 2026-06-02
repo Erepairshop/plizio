@@ -774,7 +774,7 @@ function renderConstellation(poi: POI, lang: Lang): string {
 
   const nodeHtml = placed.map((q) => {
     const nm = escapeHtml((getLocalized(q.p.name, lang) as string) || q.p.id);
-    const href = buildPoiPath(lang, q.p);
+    const href = poiPathSafe(lang, q.p);
     const img = (q.p as { image?: string }).image;
     const km = q.km < 1 ? t.lt1 : `${Math.round(q.km)} km`;
     const low = q.fy < 0.32 ? " plz-cst-node--low" : "";
@@ -927,18 +927,46 @@ function _langFallback(lang: Lang): Lang { return lang === "tr" ? "de" : lang ==
 const I = (k: string, lang: Lang) => I18N[k]?.[lang] ?? I18N[k]?.[_langFallback(lang)] ?? k;
 const T = (type: string, lang: Lang) => TYPE_LABEL[type]?.[lang] ?? TYPE_LABEL[type]?.[_langFallback(lang)] ?? type;
 
+// Lokalizalt footer-linkek. A jogi oldalak lang-prefix nelkuliek (/privacy/, /impressum/,
+// /about/ mind 200) — a regi /${lang}/datenschutz/ + /${lang}/ueber-uns/ 404 volt minden POI-n.
+const FOOTER_COPY: Record<string, { privacy: string; about: string; imprint: string; europe: string }> = {
+  de: { privacy: "Datenschutz", about: "Über uns", imprint: "Impressum", europe: "Europa" },
+  hu: { privacy: "Adatvédelem", about: "Rólunk", imprint: "Impresszum", europe: "Európa" },
+  ro: { privacy: "Confidențialitate", about: "Despre noi", imprint: "Impressum", europe: "Europa" },
+  en: { privacy: "Privacy", about: "About", imprint: "Imprint", europe: "Europe" },
+  fr: { privacy: "Confidentialité", about: "À propos", imprint: "Mentions légales", europe: "Europe" },
+  tr: { privacy: "Gizlilik", about: "Hakkımızda", imprint: "Künye", europe: "Avrupa" },
+  hr: { privacy: "Privatnost", about: "O nama", imprint: "Impressum", europe: "Europa" },
+};
+function footerHtml(lang: Lang): string {
+  const f = FOOTER_COPY[lang] ?? FOOTER_COPY.en;
+  return `<div><a href="/${lang}/">Plizio</a> · <a href="/europe-map/">${f.europe}</a> · <a href="/privacy/">${f.privacy}</a> · <a href="/impressum/">${f.imprint}</a> · <a href="/about/">${f.about}</a></div>`;
+}
+
+// Belso POI-link a CELPOI altal tamogatott nyelven. A 4 alapnyelv (de/hu/ro/en)
+// minden POI-ra generalodik, de fr CSAK France-ra, tr CSAK DE-re, hr csak hrLong-ra.
+// Ha egy fr/tr/hr oldal egy olyan POI-ra linkelne, aminek nincs ilyen nyelvu oldala
+// (pl. France fr-oldal -> hatarmenti spanyol POI), 404 lenne -> essunk vissza en-re.
+function poiPathSafe(lang: Lang, target: POI): string {
+  if (SUPPORTED_LANGS.includes(lang)) return buildPoiPath(lang, target);
+  const targetExtras = slugs.extraLangsFor(target as unknown as { parent?: string; frLong?: boolean; trLong?: boolean; hrLong?: boolean }) as Lang[];
+  return buildPoiPath(targetExtras.includes(lang) ? lang : ("en" as Lang), target);
+}
+
 // Wikipedia lang code for slugify lookup
-const WIKI_LANG_FOR: Record<string, string> = { de: "de", hu: "hu", ro: "ro", en: "en" };
+const WIKI_LANG_FOR: Record<string, string> = { de: "de", hu: "hu", ro: "ro", en: "en", fr: "fr", tr: "tr" };
 
 function wikipediaSameAs(poi: POI, lang: Lang): string[] {
   const out: string[] = [];
   const seen = new Set<string>();
   for (const l of ["en", lang, "de"] as const) {
+    const wikiLang = WIKI_LANG_FOR[l];
+    if (!wikiLang) continue; // ismeretlen nyelv -> ne emittaljunk undefined.wikipedia.org-ot
     const name = (poi.name as Record<string, string>)?.[l];
     if (!name) continue;
     // Wikipedia titles use spaces (URL-encoded) and case-preserve, but simple slug works for most.
     const title = name.replace(/\s+/g, "_");
-    const url = `https://${WIKI_LANG_FOR[l]}.wikipedia.org/wiki/${encodeURIComponent(title)}`;
+    const url = `https://${wikiLang}.wikipedia.org/wiki/${encodeURIComponent(title)}`;
     if (!seen.has(url)) { out.push(url); seen.add(url); }
     if (out.length >= 2) break;
   }
@@ -970,7 +998,8 @@ function structuredData(
       "@type": "GeoCoordinates",
       latitude: poi.coords[1],
       longitude: poi.coords[0],
-      addressCountry: countryName,
+      // Schema.org: ISO-3166 alpha-2 kod, nem a lokalizalt slug/nev
+      addressCountry: slugs.countryIso2(countryId) ?? countryName,
     };
   }
   const imgForSchema = poi.image || lookupFallbackImage(poi.id);
@@ -1434,7 +1463,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     ? `<section style="margin-top:14px;padding:14px;background:linear-gradient(135deg,#0e1633,#0a0f24);border:1px solid #2a3a66;border-radius:14px"><h3 style="margin:0 0 10px;font-size:15px;color:#cfe3ff">🧭 ${escapeHtml(_ncLabel)}</h3><div style="display:flex;gap:10px;overflow-x:auto;padding-bottom:4px">`
       + _nc.map(({ p, km }) => {
         const nm = escapeHtml((getLocalized(p.name, lang) as string) || p.id);
-        const href = buildPoiPath(lang, p);
+        const href = poiPathSafe(lang, p);
         const img = (p as { image?: string }).image;
         const thumb = img
           ? `<img src="${escapeHtml(img)}" alt="${nm}" loading="lazy" width="56" height="56" style="width:56px;height:56px;border-radius:10px;object-fit:cover;flex-shrink:0"/>`
@@ -1534,7 +1563,7 @@ function renderVisitPlanner(poi: POI, lang: Lang, hasPlizioGo: boolean): string 
   const stops = near.map((e) => {
     const nm = (getLocalized(e.p.name, lang) as string) || e.p.id;
     const c = e.p.coords as number[];
-    return { t: e.p.type, n: nm, d: Math.round(e.km * 10) / 10, x: [c[0], c[1]], u: buildPoiPath(lang, e.p) };
+    return { t: e.p.type, n: nm, d: Math.round(e.km * 10) / 10, x: [c[0], c[1]], u: poiPathSafe(lang, e.p) };
   });
   const data = { id: poi.id, lang, center: [poi.coords[0], poi.coords[1]], stops };
   const json = JSON.stringify(data).replace(/<\//g, "<\\/");
@@ -1605,8 +1634,9 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   if (!poi.parent) return null;
   const name = getLocalized(poi.name, lang) ?? poi.id;
   const countryId = getCountryId(poi.parent);
-  const countryName = countrySlugFor(lang, countryId).replace(/-/g, " ");
-  const ccap = countryName.charAt(0).toUpperCase() + countryName.slice(1);
+  // Lokalizalt, helyesen irt orszagnev (nem nyers slug) — SEO title/h1/breadcrumb/alt
+  const countryName = slugs.localizedCountryName(countryId, lang);
+  const ccap = countryName;
   // SEO alt-text helper. Builds "Subject in POI (Country)" patterns.
   const buildAlt = (subject: string, ctx?: string) =>
     `${subject}${ctx ? " — " + ctx : ""} (${ccap})`;
@@ -1639,10 +1669,13 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const richness = pageRichness(poi, lang);
 
   const breadcrumbHome = `<a href="/${lang}/">${I("home", lang)}</a>`;
-  const breadcrumbCountry = `<a href="${buildCountryPath(lang, countryId)}">${countrySlugFor(lang, countryId).replace(/-/g, " ")}</a>`;
-  const breadcrumbState = poi.parent === countryId
-    ? "" // country-level POI: skip state crumb (no valid state page)
-    : `<a href="${buildStatePath(lang, poi.parent)}">${poi.parent}</a>`;
+  const breadcrumbCountry = `<a href="${buildCountryPath(lang, countryId)}">${countryName}</a>`;
+  // State-crumb CSAK ha valoban letezik state-index oldal (regions-ben van a parent).
+  // Kulonben 404-re linkelne (pl. /hu/finnorszag/fi/). Szoveg = lokalizalt regio-nev.
+  const stateRegion = slugs.getStateForPoi(poi);
+  const breadcrumbState = (poi.parent === countryId || !stateRegion)
+    ? "" // country-level POI vagy nincs state-index oldal: skip crumb
+    : `<a href="${buildStatePath(lang, poi.parent)}">${slugs.localizedStateName(poi.parent, lang)}</a>`;
 
   // hreflang alternates
   const alternates = getPoiAlternates(poi);
@@ -1693,7 +1726,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     const imgHtml = rimg
       ? `<div class="plz-rcard-img"><img src="${escapeHtml(rimg)}" alt="${escapeHtml(buildAlt(rname, name))}" loading="lazy"/></div>`
       : `<div class="plz-rcard-img plz-rcard-ph">🗺️</div>`;
-    return `<a class="plz-rcard" href="${buildPoiPath(lang, r)}">${imgHtml}<div class="plz-rcard-body"><div class="plz-rcard-title">${rname}</div>${snippet ? `<div class="plz-rcard-snip">${escapeHtml(snippet)}</div>` : ""}</div></a>`;
+    return `<a class="plz-rcard" href="${poiPathSafe(lang, r)}">${imgHtml}<div class="plz-rcard-body"><div class="plz-rcard-title">${rname}</div>${snippet ? `<div class="plz-rcard-snip">${escapeHtml(snippet)}</div>` : ""}</div></a>`;
   }
   const grouped: Record<string, POI[]> = { city: [], history: [], nature: [], other: [] };
   for (const r of related) grouped[groupOf(r.type)].push(r);
@@ -1793,7 +1826,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     const linkedPoiId = lookupSightPoiLink(poi.id, s.name);
     const linkedPoi = linkedPoiId ? allById.get(linkedPoiId) : undefined;
     const nameHtml = linkedPoi
-      ? `<a href="${buildPoiPath(lang, linkedPoi)}" class="plz-sight-name-link">${escapeHtml(s.name)}</a>`
+      ? `<a href="${poiPathSafe(lang, linkedPoi)}" class="plz-sight-name-link">${escapeHtml(s.name)}</a>`
       : escapeHtml(s.name);
     return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
   };
@@ -2163,10 +2196,10 @@ ${hreflangLinks}
 ${(poi.image || heroImg) ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image || heroImg || "")}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
 <link rel="stylesheet" href="/poi-static/poi.css?v=20260526h"/>
-${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
+${structuredData(poi, lang, url, metaDesc, countryId, countryName, faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
-  { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
-  ...(poi.parent !== countryId ? [{ name: poi.parent, url: buildStatePath(lang, poi.parent) }] : []),
+  { name: countryName, url: buildCountryPath(lang, countryId) },
+  ...((poi.parent !== countryId && stateRegion) ? [{ name: slugs.localizedStateName(poi.parent, lang), url: buildStatePath(lang, poi.parent) }] : []),
   { name, url: buildPoiPath(lang, poi) },
 ])}
 <script defer src="https://stats.plizio.com/script.js" data-website-id="b718db4e-ee1b-43db-a89a-af4ecc5435bf"></script>
@@ -2251,7 +2284,7 @@ ready();})();</script>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
     ${osmLink}
   </section>
-  ${renderExploreBlock({ poiId: poi.id, countryId, countryName: countrySlugFor(lang, countryId).replace(/-/g, " "), countryMapUrl: countryMapUrl(countryId), lang: lang as any })}
+  ${renderExploreBlock({ poiId: poi.id, countryId, countryName: countryName, countryMapUrl: countryMapUrl(countryId), lang: lang as any })}
   ${relatedItems}
   ${renderMobileFab(poi, lang, name)}
 </main>
@@ -2357,7 +2390,7 @@ ${EXPLORE_CSS}
 </style>
 <script>(function(){var box=document.getElementById('plz-lightbox');if(!box)return;var img=box.querySelector('img');var btn=box.querySelector('.plz-lightbox-close');function open(src,alt){img.src=src;img.alt=alt||'';box.classList.add('open');box.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';}function close(){box.classList.remove('open');box.setAttribute('aria-hidden','true');img.src='';document.body.style.overflow='';}document.addEventListener('click',function(e){var t=e.target.closest('.plz-sight-img-btn');if(t){e.preventDefault();open(t.dataset.plzimg,t.dataset.plzalt);}});btn.addEventListener('click',close);box.addEventListener('click',function(e){if(e.target===box)close();});document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});})();</script>
 <footer>
-  <div><a href="/${lang}/">Plizio</a> · <a href="/europe-map/">Europa</a> · <a href="/${lang}/datenschutz/">Datenschutz</a> · <a href="/${lang}/ueber-uns/">Über uns</a></div>
+  ${footerHtml(lang)}
   <div style="margin-top:.4rem;font-size:.85em;opacity:.7;">Weitere Projekte: <a href="https://punktepass.de" rel="me">PunktePass</a> · <a href="https://erepairshop.de" rel="me">Erepairshop</a> · <a href="https://diginachrichten.de" rel="me">Diginachrichten</a></div>
 </footer>
 </body>
@@ -2513,7 +2546,7 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
     return `<a href="${href}"${cls}>${l.toUpperCase()}</a>`;
   }).join("");
   const countrySlug = countrySlugFor(lang, countryId);
-  const countryName = countrySlug.replace(/-/g, " ");
+  const countryName = slugs.localizedCountryName(countryId, lang);
   const ICON_COPY: Partial<Record<Lang, Record<string, string>>> = {
     de: { address: "Adresse", openingHours: "Öffnungszeiten", entranceFee: "Eintritt", website: "Webseite",
           publicTransport: "ÖPNV", parking: "Parken", accessibility: "Barrierefreiheit",
@@ -2710,7 +2743,7 @@ ready();})();</script>
   <p><a class="plz-sp-back" href="${hostUrl}">${escapeHtml(c.backToCity)} ${escapeHtml(hostName)}</a></p>
 </main>
 <footer>
-  <div><a href="/${lang}/">Plizio</a> · <a href="/europe-map/">Europa</a> · <a href="/${lang}/datenschutz/">Datenschutz</a> · <a href="/${lang}/ueber-uns/">Über uns</a></div>
+  ${footerHtml(lang)}
   <div style="margin-top:.4rem;font-size:.85em;opacity:.7;">Weitere Projekte: <a href="https://punktepass.de" rel="me">PunktePass</a> · <a href="https://erepairshop.de" rel="me">Erepairshop</a> · <a href="https://diginachrichten.de" rel="me">Diginachrichten</a></div>
 </footer>
 <script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, "\\u003c")}</script>

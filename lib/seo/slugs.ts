@@ -28,8 +28,13 @@ export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr", "tr"];
 // Short pages stay out so Google doesn't soft-404 them.
 export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?: boolean; hrLong?: boolean }): Lang[] {
   const extras: Lang[] = [];
-  if (poi.frLong || poi.parent?.startsWith("FR")) extras.push("fr");
-  if (poi.trLong || poi.parent?.startsWith("DE")) extras.push("tr");
+  // FONTOS: fr CSAK France POI-kra, tr CSAK DE POI-kra. A generate-poi-html.mts
+  // is csak ezekre keszit oldalt — ha a sitemap a frLong/trLong alapjan szelesebb
+  // halmazt emittalna, az ~18k /fr/<nem-FR> 404-et okozott (sitemap igert oldalt,
+  // ami nem letezett). A frLong/trLong flagek a datban maradnak (kesobbi fr/tr
+  // bovites opcio), de a sitemap+generator egysegesen orszag-alapu.
+  if (poi.parent?.startsWith("FR")) extras.push("fr");
+  if (poi.parent?.startsWith("DE")) extras.push("tr");
   // hr = native Croatian, only for HR POIs that have hr-native content (hrLong flag,
   // set in build-seo-index from poi-hr-native.json).
   if (poi.hrLong) extras.push("hr");
@@ -437,7 +442,7 @@ export function findPoiBySlug(lang: Lang, poiSlugValue: string) {
 }
 
 // Map of ISO2/state-prefix to country-id (used as slug key in COUNTRY_SLUGS)
-const ISO2_TO_COUNTRY: Record<string, string> = {
+export const ISO2_TO_COUNTRY: Record<string, string> = {
   DE: "germany", AT: "austria", CH: "switzerland", FR: "france", IT: "italy",
   ES: "spain", PT: "portugal", NL: "netherlands", BE: "belgium", LU: "luxembourg",
   GB: "united-kingdom", UK: "united-kingdom", IE: "ireland",
@@ -492,6 +497,123 @@ const ISO2_TO_COUNTRY: Record<string, string> = {
   KI: "kiribati", NR: "nauru", TV: "tuvalu", PW: "palau",
   MH: "marshall-islands", FM: "micronesia", GD: "grenada", VC: "saint-vincent",
 };
+
+// Lokalizalt orszagnevek (kuratort overridek). A nem listazott orszagok az
+// Intl.DisplayNames-bol kapnak helyes lokalizalt nevet (localizedCountryName).
+export const COUNTRY_NAMES: Record<string, Record<Lang, string>> = {
+  germany: { de: "Deutschland", hu: "Németország", ro: "Germania", en: "Germany" },
+  romania: { de: "Rumänien", hu: "Románia", ro: "România", en: "Romania" },
+  hungary: { de: "Ungarn", hu: "Magyarország", ro: "Ungaria", en: "Hungary" },
+  vatican: { de: "Vatikanstadt", hu: "Vatikán", ro: "Vatican", en: "Vatican" },
+  austria: { de: "Österreich", hu: "Ausztria", ro: "Austria", en: "Austria" },
+  switzerland: { de: "Schweiz", hu: "Svájc", ro: "Elveția", en: "Switzerland" },
+  france: { de: "Frankreich", hu: "Franciaország", ro: "Franța", en: "France" },
+  italy: { de: "Italien", hu: "Olaszország", ro: "Italia", en: "Italy" },
+  spain: { de: "Spanien", hu: "Spanyolország", ro: "Spania", en: "Spain" },
+  portugal: { de: "Portugal", hu: "Portugália", ro: "Portugalia", en: "Portugal" },
+  netherlands: { de: "Niederlande", hu: "Hollandia", ro: "Olanda", en: "Netherlands" },
+  belgium: { de: "Belgien", hu: "Belgium", ro: "Belgia", en: "Belgium" },
+  luxembourg: { de: "Luxemburg", hu: "Luxemburg", ro: "Luxemburg", en: "Luxembourg" },
+  "united-kingdom": { de: "Vereinigtes Königreich", hu: "Egyesült Királyság", ro: "Regatul Unit", en: "United Kingdom" },
+  ireland: { de: "Irland", hu: "Írország", ro: "Irlanda", en: "Ireland" },
+  poland: { de: "Polen", hu: "Lengyelország", ro: "Polonia", en: "Poland" },
+  "czech-republic": { de: "Tschechien", hu: "Csehország", ro: "Cehia", en: "Czech Republic" },
+  slovakia: { de: "Slowakei", hu: "Szlovákia", ro: "Slovacia", en: "Slovakia" },
+  slovenia: { de: "Slowenien", hu: "Szlovénia", ro: "Slovenia", en: "Slovenia" },
+  croatia: { de: "Kroatien", hu: "Horvátország", ro: "Croația", en: "Croatia" },
+  serbia: { de: "Serbien", hu: "Szerbia", ro: "Serbia", en: "Serbia" },
+  bosnia: { de: "Bosnien und Herzegowina", hu: "Bosznia-Hercegovina", ro: "Bosnia și Herțegovina", en: "Bosnia and Herzegovina" },
+  montenegro: { de: "Montenegro", hu: "Montenegró", ro: "Muntenegru", en: "Montenegro" },
+  "north-macedonia": { de: "Nordmazedonien", hu: "Észak-Macedónia", ro: "Macedonia de Nord", en: "North Macedonia" },
+  albania: { de: "Albanien", hu: "Albánia", ro: "Albania", en: "Albania" },
+  kosovo: { de: "Kosovo", hu: "Koszovó", ro: "Kosovo", en: "Kosovo" },
+  bulgaria: { de: "Bulgarien", hu: "Bulgária", ro: "Bulgaria", en: "Bulgaria" },
+  greece: { de: "Griechenland", hu: "Görögország", ro: "Grecia", en: "Greece" },
+  turkey: { de: "Türkei", hu: "Törökország", ro: "Turcia", en: "Turkey" },
+  cyprus: { de: "Zypern", hu: "Ciprus", ro: "Cipru", en: "Cyprus" },
+  malta: { de: "Malta", hu: "Málta", ro: "Malta", en: "Malta" },
+  denmark: { de: "Dänemark", hu: "Dánia", ro: "Danemarca", en: "Denmark" },
+  norway: { de: "Norwegen", hu: "Norvégia", ro: "Norvegia", en: "Norway" },
+  sweden: { de: "Schweden", hu: "Svédország", ro: "Suedia", en: "Sweden" },
+  finland: { de: "Finnland", hu: "Finnország", ro: "Finlanda", en: "Finland" },
+  iceland: { de: "Island", hu: "Izland", ro: "Islanda", en: "Iceland" },
+  estonia: { de: "Estland", hu: "Észtország", ro: "Estonia", en: "Estonia" },
+  latvia: { de: "Lettland", hu: "Lettország", ro: "Letonia", en: "Latvia" },
+  lithuania: { de: "Litauen", hu: "Litvánia", ro: "Lituania", en: "Lithuania" },
+  belarus: { de: "Belarus", hu: "Fehéroroszország", ro: "Belarus", en: "Belarus" },
+  ukraine: { de: "Ukraine", hu: "Ukrajna", ro: "Ucraina", en: "Ukraine" },
+  moldova: { de: "Moldau", hu: "Moldova", ro: "Moldova", en: "Moldova" },
+  andorra: { de: "Andorra", hu: "Andorra", ro: "Andorra", en: "Andorra" },
+  monaco: { de: "Monaco", hu: "Monaco", ro: "Monaco", en: "Monaco" },
+  "san-marino": { de: "San Marino", hu: "San Marino", ro: "San Marino", en: "San Marino" },
+  liechtenstein: { de: "Liechtenstein", hu: "Liechtenstein", ro: "Liechtenstein", en: "Liechtenstein" },
+  usa: { de: "USA", hu: "Amerikai Egyesült Államok", ro: "Statele Unite", en: "United States" },
+  canada: { de: "Kanada", hu: "Kanada", ro: "Canada", en: "Canada" },
+  mexico: { de: "Mexiko", hu: "Mexikó", ro: "Mexic", en: "Mexico" },
+  guatemala: { de: "Guatemala", hu: "Guatemala", ro: "Guatemala", en: "Guatemala" },
+  honduras: { de: "Honduras", hu: "Honduras", ro: "Honduras", en: "Honduras" },
+  nicaragua: { de: "Nicaragua", hu: "Nicaragua", ro: "Nicaragua", en: "Nicaragua" },
+  "costa-rica": { de: "Costa Rica", hu: "Costa Rica", ro: "Costa Rica", en: "Costa Rica" },
+  panama: { de: "Panama", hu: "Panama", ro: "Panama", en: "Panama" },
+  cuba: { de: "Kuba", hu: "Kuba", ro: "Cuba", en: "Cuba" },
+  "dominican-republic": { de: "Dominikanische Republik", hu: "Dominikai Köztársaság", ro: "Republica Dominicană", en: "Dominican Republic" },
+  haiti: { de: "Haiti", hu: "Haiti", ro: "Haiti", en: "Haiti" },
+  jamaica: { de: "Jamaika", hu: "Jamaica", ro: "Jamaica", en: "Jamaica" },
+  bahamas: { de: "Bahamas", hu: "Bahama-szigetek", ro: "Bahamas", en: "Bahamas" },
+  trinidad: { de: "Trinidad und Tobago", hu: "Trinidad és Tobago", ro: "Trinidad și Tobago", en: "Trinidad and Tobago" },
+  belize: { de: "Belize", hu: "Belize", ro: "Belize", en: "Belize" },
+  "el-salvador": { de: "El Salvador", hu: "El Salvador", ro: "El Salvador", en: "El Salvador" },
+};
+
+// countryId -> ISO2 (az ISO2_TO_COUNTRY invertaltja; tobb kulcs -> elso nyer)
+const COUNTRY_TO_ISO2: Record<string, string> = (() => {
+  const out: Record<string, string> = {};
+  for (const [iso2, cid] of Object.entries(ISO2_TO_COUNTRY)) {
+    if (!out[cid]) out[cid] = iso2;
+  }
+  return out;
+})();
+
+// ISO-3166 alpha-2 kod egy countryId-hoz (Schema.org addressCountry-hez).
+export function countryIso2(countryId: string): string | null {
+  return COUNTRY_TO_ISO2[countryId] ?? null;
+}
+
+const DISPLAY_NAMES_CACHE: Partial<Record<Lang, Intl.DisplayNames>> = {};
+function getDisplayNames(lang: Lang): Intl.DisplayNames | null {
+  if (DISPLAY_NAMES_CACHE[lang]) return DISPLAY_NAMES_CACHE[lang]!;
+  try {
+    const dn = new Intl.DisplayNames([lang], { type: "region" });
+    DISPLAY_NAMES_CACHE[lang] = dn;
+    return dn;
+  } catch {
+    return null;
+  }
+}
+
+// "democratic-republic-of-congo" -> "Democratic Republic of Congo" (vegso fallback)
+function prettifySlug(slug: string): string {
+  const minor = new Set(["of", "and", "the", "el", "la", "le", "du", "da", "di"]);
+  return slug
+    .split("-")
+    .map((w, i) => (i > 0 && minor.has(w) ? w : w.charAt(0).toUpperCase() + w.slice(1)))
+    .join(" ");
+}
+
+// Lokalizalt orszagnev: kuratort tabla -> Intl.DisplayNames (ISO2) -> prettify slug.
+// SOHA nem ad vissza nyers kisbetus slugot (SEO).
+export function localizedCountryName(countryId: string, lang: Lang): string {
+  const curated = COUNTRY_NAMES[countryId]?.[lang];
+  if (curated) return curated;
+  const iso2 = COUNTRY_TO_ISO2[countryId];
+  if (iso2) {
+    const dn = getDisplayNames(lang);
+    const name = dn?.of(iso2);
+    // Intl visszaadhatja magat az ISO2 kodot, ha ismeretlen -> ne fogadjuk el
+    if (name && name.toUpperCase() !== iso2) return name;
+  }
+  return prettifySlug(countryId);
+}
 
 // Compact (one-word) country-id alias -> kanonikus dashed slug
 // (POI fajlnevek/aggregator-ok pl. drcongoAllPoi, sanmarinoPoi, saotomeAllPoi)
