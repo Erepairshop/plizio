@@ -1314,11 +1314,9 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     const moreHtml = moreBtns.length ? `<details class="plz-itin-more"><summary>🔗</summary>${moreBtns.join("")}</details>` : "";
     const stopKey = `${poi.id}::${mode}::${i}::${name}`;
     const checkBtn = `<button class="plz-itin-check" type="button" data-stop="${escapeHtml(stopKey)}" aria-label="mark visited" title="✓"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></button>`;
-    const imgUrl = stopImg(s.name);
-    const imgAlt = `${name} — ${pickStr(poi.name)}`;
-    const imgHtml = imgUrl
-      ? `<button type="button" class="plz-sight-img-btn plz-itin-img-btn" data-plzimg="${escapeHtml(imgUrl)}" data-plzalt="${escapeHtml(imgAlt)}" aria-label="${escapeHtml(name)}" style="display:block;width:100%;margin:4px 0 6px;padding:0;border:0;background:none;cursor:zoom-in"><img src="${escapeHtml(imgUrl)}" alt="${escapeHtml(imgAlt)}" loading="lazy" style="width:100%;height:130px;object-fit:cover;border-radius:10px;display:block"/></button>`
-      : "";
+    // Itinerary-kép KIVÉVE: a legtöbb nem passzol; a Street View link (👁️) ott marad
+    // a visibleBtns-ben, ahol van koordináta/pano.
+    const imgHtml = "";
     return `<div class="plz-itin-card" data-type="sight" data-stop-card="${escapeHtml(stopKey)}">${checkBtn}<div class="plz-itin-cat">${icon}</div><div class="plz-itin-time">${escapeHtml(s.arrive_at)} · ${s.stay_min}'</div><h3>${escapeHtml(name)}</h3>${imgHtml}<div class="plz-itin-tip">${escapeHtml(tip)}</div><div class="plz-itin-links">${visibleBtns.join("")}${moreHtml}</div></div>`;
   }
 
@@ -1835,13 +1833,12 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     if (!s?.name) return "";
     // Inject image from sight-image-map.json if the sight itself lacks one.
     // Try all language name variants so an EN-keyed image shows on de/hu/ro too.
-    const imgUrl = s.image || lookupSightImageMulti(nameVariants && nameVariants.length ? nameVariants : [s.name], poi.id);
-    const img = imgUrl
-      ? `<button type="button" class="plz-sight-img-btn" data-plzimg="${escapeHtml(imgUrl)}" data-plzalt="${escapeHtml(buildAlt(s.name, name))}" aria-label="${escapeHtml(s.name)}"><img class="plz-sight-img" src="${escapeHtml(imgUrl)}" alt="${escapeHtml(buildAlt(s.name, name))}" loading="lazy"/></button>`
-      : "";
+    // Sight-képek KIVÉVE: a legtöbb nem passzol a konkrét látnivalóhoz; később
+    // Street View kerül ide, ahol van. (A kép-attribúció is elmarad kép nélkül.)
+    const img = "";
     const dist = withDistance && s.distance ? `<span class="plz-sight-dist">${escapeHtml(s.distance)}</span>` : "";
     const txt = s.text ? `<p>${escapeHtml(s.text)}</p>` : "";
-    const attr = renderAttribution(s.image_attribution);
+    const attr = "";
     // Internal link: if this sight name matches a same-country POI, link it.
     const linkedPoiId = lookupSightPoiLink(poi.id, s.name);
     const linkedPoi = linkedPoiId ? allById.get(linkedPoiId) : undefined;
@@ -2130,17 +2127,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   } catch {}
 
-  // Hero swiper — primary image + up to 4 sight images, swipeable with snap + dots
+  // Hero — CSAK a POI saját hero-képe. A sight-képeket szándékosan NEM húzzuk be
+  // (a legtöbb nem passzol); ha nincs hero, placeholder. Street View később.
   const heroImages: { src: string; alt: string }[] = [];
   const heroImg = resolveHeroImage(poi);
   if (heroImg) heroImages.push({ src: heroImg, alt: buildAlt(name) });
-  for (const s of sightsArr.slice(0, 6)) {
-    const sImg = (s as { image?: string }).image;
-    if (sImg && heroImages.length < 5 && !heroImages.some(h => h.src === sImg)) {
-      const sName = (s as { name?: string }).name || name;
-      heroImages.push({ src: sImg, alt: buildAlt(sName, name) });
-    }
-  }
   let heroHtml: string;
   if (heroImages.length === 0) {
     // No fetched photo → Claude-Design type placeholder SVG (not an empty/pin hero).
