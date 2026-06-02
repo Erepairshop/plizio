@@ -14,13 +14,13 @@ export const bosniaCountry: POI = {
   },
   coords: [17.6791, 43.9159],
   descriptionAdvanced: {
-    de: "Bosnien und Herzegowina ist ein faszinierendes Land auf der Balkanhalbinsel, das für seine atemberaubende natürliche Schönheit, seine reiche Geschichte und seine kulturelle Vielfalt bekannt ist. Das Land bietet eine beeindruckende Mischung aus osmanischen, österreichisch-ungarischen und modernen Einflüssen, die sich in der Architektur von Städten wie Sarajevo und Mostar widerspiegeln. Von den schroffen Gipfeln der Dinarischen Alpen bis zu den smaragdgrünen Flüssen wie der Neretva und der Drina ist die Natur hier spektakulär und bietet zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Das Land hat sich nach den schwierigen Zeiten der 1990er Jahre zu einem gastfreundlichen Reiseziel entwickelt, das Besucher mit seiner Herzlichkeit, seiner exzellenten Küche und seinen faszinierenden Traditionen empfängt. Geographie K8 – Länder und Kulturen Südosteuropas.",
-    hu: "Bosznia-Hercegovina a Balkán-félsziget szívében fekvő, lenyűgöző hegyvidéki ország, ahol Kelet és Nyugat kultúrája évszázadok óta találkozik. Az ország történelme rendkívül gazdag és viharos, a középkori bosnyák királyságtól az oszmán hódoltságon át az osztrák-magyar fennhatóságig. Földrajzi adottságait a Dinári-Alpok vonulatai, a smaragdzöld folyók, mint a Drina és a Neretva, valamint a rejtett vízesések határozzák meg. Kulturális sokszínűségét a muszlim, ortodox és katolikus hagyományok együttélése adja, ami az építészetben, a gasztronómiában és a mindennapi életben is tükröződik. Az utazók számára autentikus élményeket kínál, a szarajevói bazárok hangulatától a hercegovinai borvidékek nyugalmáig. Földrajz K8 – Európa tájai.",
-    ro: "",
-    en: ""
-  },
+      de: "Bosnien und Herzegowina ist ein faszinierendes Land auf der Balkanhalbinsel, das für seine atemberaubende natürliche Schönheit, seine reiche Geschichte und seine kulturelle Vielfalt bekannt ist. Das Land bietet eine beeindruckende Mischung aus osmanischen, österreichisch-ungarischen und modernen Einflüssen, die sich in der Architektur von Städten wie Sarajevo und Mostar widerspiegeln. Von den schroffen Gipfeln der Dinarischen Alpen bis zu den smaragdgrünen Flüssen wie der Neretva und der Drina ist die Natur hier spektakulär und bietet zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Das Land hat sich nach den schwierigen Zeiten der 1990er Jahre zu einem gastfreundlichen Reiseziel entwickelt, das Besucher mit seiner Herzlichkeit, seiner exzellenten Küche und seinen faszinierenden Traditionen empfängt. Geographie K8 – Länder und Kulturen Südosteuropas.",
+      hu: "Bosznia-Hercegovina a Balkán-félsziget szívében fekvő, lenyűgöző hegyvidéki ország, ahol Kelet és Nyugat kultúrája évszázadok óta találkozik. Az ország történelme rendkívül gazdag és viharos, a középkori bosnyák királyságtól az oszmán hódoltságon át az osztrák-magyar fennhatóságig. Földrajzi adottságait a Dinári-Alpok vonulatai, a smaragdzöld folyók, mint a Drina és a Neretva, valamint a rejtett vízesések határozzák meg. Kulturális sokszínűségét a muszlim, ortodox és katolikus hagyományok együttélése adja, ami az építészetben, a gasztronómiában és a mindennapi életben is tükröződik. Az utazók számára autentikus élményeket kínál, a szarajevói bazárok hangulatától a hercegovinai borvidékek nyugalmáig. Földrajz K8 – Európa tájai.",
+      ro: "Bosnia și Herțegovina reprezintă un veritabil mozaic cultural și geografic situat în centrul Balcanilor, fiind o țară cu un relief muntos spectaculos dominat de lanțul Alpilor Dinarici. Acești munți ocupă cea mai mare parte a teritoriului, oferind peisaje carstice unice și râuri de un smarald intens, precum Una sau Drina. Istoria sa este marcată de trecerea imperiilor, de la cel Roman și Bizantin la cel Otoman și Austro-Ungar, fiecare lăsând amprente vizibile în orașele precum Sarajevo, Mostar sau Travnik. Capitala Sarajevo este adesea numită Ierusalimul Europei datorită coexistenței lungi a diverselor comunități religioase. Statul este organizat într-o structură politică complexă, rezultată în urma acordului de la Dayton din 1995, menită să asigure echilibrul între popoarele constituente. Economia țării se bazează pe resursele naturale bogate, incluzând păduri vaste și depozite minerale, dar și pe potențialul hidroenergetic al râurilor sale repezi. În ultimii ani, Bosnia și Herțegovina a devenit o destinație atractivă pentru turismul de aventură și cultural, oferind experiențe autentice în inima naturii și în centrele istorice bine conservate ale orașelor sale.",
+      en: "Bosnia and Herzegovina is a land of striking contrasts and profound resilience, situated in the heart of the Balkan Peninsula. Its geography is defined by the rugged Dinaric Alps, which cover much of the interior, and the fertile plains to the north along the Sava River. Historically, the nation has served as a pivotal crossroads where the Ottoman East and the Austro-Hungarian West converged, creating a unique cultural synthesis that is reflected in its architecture, traditions, and cuisine. The capital, Sarajevo, gained international fame as the site where World War I was sparked and later as the host of the 1984 Winter Olympics. The country's political landscape is unique, consisting of two main entities—the Federation of Bosnia and Herzegovina and the Republika Srpska—along with the self-governing Brčko District. Economically, the country is rich in natural resources, particularly timber and minerals, and is a significant producer of hydroelectric power. Today, Bosnia and Herzegovina is increasingly recognized for its spectacular natural beauty, featuring some of Europe's last remaining primeval forests, such as Perućica, and iconic landmarks like the UNESCO-listed Old Bridge in Mostar.",
+    },
   factsAdvanced: {
-    de: [
+      de: [
       "Sarajevo war 1984 Gastgeber der ersten Olympischen Winterspiele, die in einem kommunistischen Land stattfanden.",
       "Die Alte Brücke in Mostar (Stari Most) ist ein UNESCO-Weltkulturerbe und eines der bekanntesten Wahrzeichen des Balkans.",
       "Bosnien und Herzegowina beherbergt mit Perućica einen der letzten verbliebenen Urwälder Europas.",
@@ -28,16 +28,16 @@ export const bosniaCountry: POI = {
       "Die Währung Konvertible Mark (BAM) ist fest an den Euro gebunden (ursprünglich an die Deutsche Mark).",
       "In Višegrad befindet sich die berühmte Brücke über die Drina, die durch den Nobelpreisträger Ivo Andrić weltbekannt wurde."
     ],
-    hu: [
+      hu: [
       "Az ország nevének első része a Boszna folyóról, a második a hercegi címről (herceg) ered.",
       "Területének több mint 40%-át erdő borítja, így Európa egyik legzöldebb országa.",
       "Itt található Európa utolsó őserdőinek egyike, a Perućica.",
       "A szarajevói téli olimpiát 1984-ben rendezték meg, ez volt az első szocialista országban tartott téli olimpia.",
       "Az ország leghosszabb folyója a Száva, amely az északi határt alkotja."
     ],
-    ro: [],
-    en: []
-  }, image: "/poi-images/bosnia.webp"};
+      ro: ["Suprafața totală: 51.129 kilometri pătrați.", "Capitala: Sarajevo, cu circa 275.000 de locuitori.", "Cel mai înalt vârf: Muntele Maglić, 2.386 metri.", "Independența: Proclamată la 1 martie 1992.", "Moneda oficială: Marca convertibilă (BAM).", "Lungimea coastei: Aproximativ 20 km la Marea Adriatică."],
+      en: ["Total area: 51,129 square kilometers.", "Capital city: Sarajevo, population approx. 275,000.", "Highest elevation: Mount Maglić at 2,386 meters.", "Independence date: Proclaimed on March 1, 1992.", "Official currency: Convertible Mark (BAM).", "Coastline length: Approx. 20 km at Neum."],
+    }, image: "/poi-images/bosnia.webp"};
 
 export const bosniaPois: POI[] = [
   {

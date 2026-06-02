@@ -15,11 +15,11 @@ export const unitedkingdomCountry: POI = {
     en: "The United Kingdom of Great Britain and Northern Ireland is a sovereign country located off the northwestern coast of the European mainland. It includes the island of Great Britain, the northeastern part of the island of Ireland, and many smaller islands. As a constitutional monarchy and parliamentary democracy, it has played a significant role in global history, particularly through the British Empire and the Industrial Revolution. Today, it remains a major economic and cultural power, known for its influential arts, science, and political traditions. The nation is characterized by its diverse landscapes, ranging from the rolling hills of England to the rugged mountains of Scotland."
   },
   descriptionAdvanced: {
-    de: "",
-    hu: "Az Egyesült Királyság történelme és kultúrája évezredes gyökerekkel rendelkezik, ahol a római hódítók, a vikingek és a normannok egyaránt otthagyták nyomukat. Földrajzilag az ország a Brit-szigetek változatos domborzatával büszkélkedhet, a déli lankás dombságoktól a skót Felföld drámai, gleccserek vájta csúcsaiig. A brit ipari forradalom a 18. században alapjaiban változtatta meg a világot, technológiai fejlődést hozva, amely ma is meghatározza a globális gazdaságot. A modern Egyesült Királyság ma a parlamentáris demokrácia bölcsője, amely gazdag irodalmi, zenei és művészeti hagyományokkal bír, többek között Shakespeare vagy a Beatles révén. A sokszínű társadalom a hagyományok ápolása mellett folyamatosan formálja a jövőt tudományos és technológiai innovációkkal.",
-    ro: "Regatul Unit este o națiune cu o istorie bogată și diversă, formată prin unirea istorică a Angliei, Scoției, Țării Galilor și Irlandei de Nord. Această țară a fost punctul de plecare al Revoluției Industrielor, care a transformat tehnologia și economia mondială în secolele XVIII și XIX. Din punct de vedere geografic, teritoriul său variază de la câmpiile verzi din sud până la vârfurile muntoase accidentate și lacurile adânci din Scoția. Regatul Unit este renumit pentru moștenirea sa literară și artistică, influențând cultura globală prin figuri precum William Shakespeare și trupe ca The Beatles. Astăzi, continuă să fie un lider în inovare științifică și politică, păstrând în același timp tradiții regale profunde.",
-    en: "The United Kingdom stands as a cornerstone of modern history, uniquely blending deep-seated royal traditions with dynamic, contemporary innovation. Its geography is remarkably varied, stretching from the gentle, rolling meadows and pastoral landscapes of southern England to the dramatic, glaciated peaks of the Scottish Highlands and the rugged coastline of Wales. As the birthplace of the Industrial Revolution, the UK fundamentally reshaped the global economy and technological landscape, leaving a legacy that still influences international science and engineering. Today, it remains a major global center for arts, literature, and music, with a cultural footprint that extends far beyond its borders. Educationally, it continues to lead through prestigious institutions like Oxford and Cambridge, while its parliamentary system serves as a model for democracies worldwide. Geography K7/History K8: Explore the diverse physical landscapes and the profound global impact of the British Industrial Revolution."
-  },
+      de: "Das Vereinigte Königreich Großbritannien und Nordirland stellt als Inselstaat im Nordwesten Europas eine der bedeutendsten Kulturnationen der Weltgeschichte dar und vereint die vier Landesteile England, Schottland, Wales und Nordirland unter einer parlamentarischen Monarchie. Die geografische Isolation durch den Ärmelkanal und die Nordsee prägte über Jahrhunderte eine eigenständige politische Identität, die im British Empire gipfelte, das auf seinem Höhepunkt etwa ein Viertel der Landfläche der Erde umfasste. Diese koloniale Vergangenheit hinterließ ein globales Erbe, das sich heute in der weltweiten Verbreitung der englischen Sprache, des Common Law und des parlamentarischen Systems nach dem Westminster-Modell widerspiegelt. Die Landschaft ist von einer bemerkenswerten Vielfalt geprägt, die von den sanften Hügelketten der Cotswolds und den Kreidefelsen von Dover im Süden bis zu den schroffen Highlands in Schottland und den zerklüfteten Küsten Wales' reicht. Wirtschaftlich ist das Land ein Kraftzentrum, das nach der Industriellen Revolution, die hier ihren Ursprung nahm, heute vor allem durch einen hoch entwickelten Dienstleistungssektor, insbesondere den Finanzplatz London, sowie durch Spitzenforschung in der Luft- und Raumfahrttechnik sowie der Pharmaindustrie definiert wird. Kulturell bleibt das Vereinigte Königreich durch Institutionen wie die BBC, die Premier League und eine weltweit einflussreiche Musik- und Literaturszene präsent, während historische Monumente wie Stonehenge oder der Tower von London von einer jahrtausendealten Besiedlungsgeschichte zeugen.",
+      hu: "Az Egyesült Királyság történelme és kultúrája évezredes gyökerekkel rendelkezik, ahol a római hódítók, a vikingek és a normannok egyaránt otthagyták nyomukat. Földrajzilag az ország a Brit-szigetek változatos domborzatával büszkélkedhet, a déli lankás dombságoktól a skót Felföld drámai, gleccserek vájta csúcsaiig. A brit ipari forradalom a 18. században alapjaiban változtatta meg a világot, technológiai fejlődést hozva, amely ma is meghatározza a globális gazdaságot. A modern Egyesült Királyság ma a parlamentáris demokrácia bölcsője, amely gazdag irodalmi, zenei és művészeti hagyományokkal bír, többek között Shakespeare vagy a Beatles révén. A sokszínű társadalom a hagyományok ápolása mellett folyamatosan formálja a jövőt tudományos és technológiai innovációkkal.",
+      ro: "Regatul Unit este o națiune cu o istorie bogată și diversă, formată prin unirea istorică a Angliei, Scoției, Țării Galilor și Irlandei de Nord. Această țară a fost punctul de plecare al Revoluției Industrielor, care a transformat tehnologia și economia mondială în secolele XVIII și XIX. Din punct de vedere geografic, teritoriul său variază de la câmpiile verzi din sud până la vârfurile muntoase accidentate și lacurile adânci din Scoția. Regatul Unit este renumit pentru moștenirea sa literară și artistică, influențând cultura globală prin figuri precum William Shakespeare și trupe ca The Beatles. Astăzi, continuă să fie un lider în inovare științifică și politică, păstrând în același timp tradiții regale profunde.",
+      en: "The United Kingdom stands as a cornerstone of modern history, uniquely blending deep-seated royal traditions with dynamic, contemporary innovation. Its geography is remarkably varied, stretching from the gentle, rolling meadows and pastoral landscapes of southern England to the dramatic, glaciated peaks of the Scottish Highlands and the rugged coastline of Wales. As the birthplace of the Industrial Revolution, the UK fundamentally reshaped the global economy and technological landscape, leaving a legacy that still influences international science and engineering. Today, it remains a major global center for arts, literature, and music, with a cultural footprint that extends far beyond its borders. Educationally, it continues to lead through prestigious institutions like Oxford and Cambridge, while its parliamentary system serves as a model for democracies worldwide. Geography K7/History K8: Explore the diverse physical landscapes and the profound global impact of the British Industrial Revolution.",
+    },
   facts: {
     de: [
       "London ist die Hauptstadt und größte Stadt und dient als globales Finanzzentrum.",
@@ -71,34 +71,11 @@ export const unitedkingdomCountry: POI = {
     ]
   },
   factsAdvanced: {
-    de: { hu: [], de: [], ro: [], en: [] },
-    hu: [
-      "Az Egyesült Királyság alkotmányos monarchia, ahol az uralkodónak ceremoniális, a parlamentnek pedig törvényhozói szerepe van.",
-      "Az 1801-es unió óta az ország az Egyesült Királyság elnevezést viseli.",
-      "A Brit Nemzetközösség (Commonwealth) tagjaként az ország szoros kapcsolatot ápol egykori gyarmataival.",
-      "A brit parlament a londoni Westminster-palotában ülésezik, amely a gótikus építészet egyik csúcsa.",
-      "Az ország történelmi szimbólumai közé tartozik a Union Jack zászló és a három oroszlán címere."
-    ],
-    ro: {
-      hu: [],
-      de: [],
-      ro: [
-        "Regatul Unit este o monarhie constituțională, unde rolul monarhului este în mare parte ceremonial.",
-        "Uniunea dintre Anglia și Scoția din 1707 a pus bazele statului modern.",
-        "Parlamentul britanic, situat în Palatul Westminster, este considerat unul dintre cele mai vechi foruri legislative din lume.",
-        "Commonwealth-ul reprezintă o asociație voluntară de state, majoritatea fiind foste colonii britanice.",
-        "Union Jack, steagul național, combină elemente reprezentative din Anglia, Scoția și Irlanda."
-      ],
-      en: []
-    },
-    en: [
-      "The United Kingdom is a constitutional monarchy, where the monarch's role is largely ceremonial while the Parliament holds legislative authority.",
-      "The Acts of Union in 1707 united the Kingdoms of England and Scotland, forming the foundation of the modern British state.",
-      "The British Parliament meets in the Palace of Westminster, a world-renowned example of Gothic Revival architecture.",
-      "As a leader of the Commonwealth, the UK maintains strong historical and cultural ties with former colonies worldwide.",
-      "The Union Jack flag represents a historical fusion of symbols from England, Scotland, and Ireland."
-    ]
-  }
+      de: ["Fläche: ca. 242.495 km² inklusive Binnengewässer", "Höchster Punkt: Ben Nevis in Schottland mit 1.345 Metern", "Gründung: Act of Union 1707 (GB) und 1801 (UK)", "Küstenlänge: Über 12.429 Kilometer Gesamtlänge", "Wirtschaft: Fünft- oder sechstgrößte Volkswirtschaft der Welt", "Bevölkerungsdichte: Etwa 275 Einwohner pro Quadratkilometer"],
+      hu: ["Terület: 242 495 km², amiből 1,1% belső vízfelület", "Legmagasabb pont: Ben Nevis, 1345 méter tengerszint felett", "Népesség: Körülbelül 67 millió fő (2021-es becslés)", "Főváros: London, a világ egyik legnagyobb pénzügyi központja", "Partvonal: 12 429 km hosszú, rendkívül tagolt partvidék", "Hivatalos nyelv: Angol, de regionálisan elismert a velszi és a kelta"],
+      ro: ["Suprafață totală: 242.495 km², locul 78 în lume", "Punct culminant: Ben Nevis (Scoția), altitudine 1.345 m", "Populație: Aproximativ 67,8 milioane de locuitori", "Sistem politic: Monarhie constituțională cu parlament bicameral", "Economie: PIB nominal de aproximativ 3,1 trilioane USD", "Organizații: Membru fondator al Commonwealth și al NATO"],
+      en: ["Total Area: 242,495 sq km including Northern Ireland", "Highest Elevation: Ben Nevis at 1,345 meters (4,413 ft)", "Population: Estimated at 67.8 million as of 2023", "Timeline: Kingdom of Great Britain formed on May 1, 1707", "Coastline: Approximately 7,723 miles (12,429 km) long", "Currency: Pound Sterling (GBP), the world's oldest in use"],
+    }
 };
 export const unitedkingdomAllPoi = [unitedkingdomCountry];
 

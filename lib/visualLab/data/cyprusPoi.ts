@@ -20,11 +20,11 @@ export const cyprusCountry: POI = {
     en: "Cyprus is a sun-drenched island in the eastern Mediterranean, known for its rich history, ancient ruins, and stunning beaches."
   },
   descriptionAdvanced: {
-    de: "Zypern ist die drittgrößte Insel im Mittelmeer und liegt an der Kreuzung dreier Kontinente. Sie blickt auf eine über 10.000-jährige Geschichte zurück.",
-    hu: "Ciprus a Földközi-tenger harmadik legnagyobb szigete, három kontinens kereszteződésében. Több mint 10 000 éves múlttal rendelkezik.",
-    ro: "Cipru este a treia insulă ca mărime din Marea Mediterană, situată la intersecția a trei continente. Are o istorie de peste 10.000 de ani.",
-    en: "Cyprus is the third largest island in the Mediterranean, located at the crossroads of three continents. It boasts over 10,000 years of history."
-  },
+      de: "Zypern, die drittgrößte Insel des Mittelmeers, liegt am strategischen Schnittpunkt dreier Kontinente und blickt auf eine über zehntausendjährige Geschichte zurück, die von Mykenern, Phöniziern, Persern und Römern nachhaltig geprägt wurde. Besonders bedeutend ist die antike mythologische Verbindung zur Göttin Aphrodite, deren Geburtsstätte bei Paphos legendär ist und jährlich zahlreiche Kulturinteressierte anzieht, die die archäologischen Schätze der Insel erkunden. Geographisch dominiert das imposante Troodos-Gebirge im Zentrum die Insel, während die Küstenebenen fruchtbare Böden für den Anbau von Zitrusfrüchten, Oliven und Wein bieten. Die Lage Zyperns machte es durch die Jahrhunderte zum Spielball der Mächte, von den Kreuzrittern unter Richard Löwenherz bis zur venezianischen und später osmanischen Herrschaft. Seit 1960 ist die Insel unabhängig, doch die Ereignisse von 1974 führten zu einer bis heute andauernden faktischen Teilung in einen griechisch-zyprischen Süden und einen türkisch-zyprischen Norden, getrennt durch die sogenannte Grüne Linie der Vereinten Nationen. Trotz dieser politischen Komplexität hat sich die Republik Zypern zu einem modernen Dienstleistungszentrum entwickelt, das besonders für seinen Tourismus, den Schiffbau und den Finanzsektor bekannt ist. Die reiche Flora beherbergt endemische Arten wie das Zypern-Mufflon, und die archäologischen Stätten von Kourion und Chirokitia zählen zu den bedeutendsten Zeugnissen menschlicher Zivilisation im gesamten östlichen Mittelmeerraum.",
+      hu: "Ciprus a Földközi-tenger harmadik legnagyobb szigete, amely földrajzi elhelyezkedése révén évezredeken át a Közel-Kelet és Európa közötti kereskedelmi útvonalak kulcsfontosságú állomása volt. A sziget neve szorosan összefonódik a rézzel, amelynek bányászata már a bronzkorban világhírnevet szerzett a területnek, és meghatározta gazdasági fejlődését az antikvitásban. A kulturális örökség rendkívül rétegzett: a neolitikus településektől kezdve a görög városállamokon és római színházakon át egészen a bizánci kolostorokig és gótikus katedrálisokig minden korszak otthagyta a nyomát. A sziget belsejében magasodó Tróodosz-hegység festői falvai és freskókkal díszített templomai az UNESCO Világörökség részét képezik, hűvös menedéket nyújtva a forró nyári hőség elől. A 20. század viharos történelme, különösen az 1960-as függetlenné válás és az 1974-es események következtében Ciprus ma kettéosztott ország, ahol a főváros, Nicosia az utolsó fallal elválasztott európai metropolisz maradt. A gazdaság pillérei ma már a turizmus mellett a tengeri szállítmányozás és a nemzetközi üzleti szolgáltatások, miközben a helyi gasztronómia olyan egyedi termékekkel büszkélkedhet, mint a világszerte ismert halloumi sajt vagy a Commandaria bor, amely a világ egyik legrégebbi nevesített borszfajtájaként ismert. Ciprus természeti értékei, mint az Akamas-félsziget érintetlen partjai vagy a Ciprusi muflon élőhelyei, különleges ökológiai jelentőséggel bírnak a térségben.",
+      ro: "Cipru reprezintă o punte culturală și istorică între Orient și Occident, fiind situată strategic în bazinul estic al Mării Mediterane, la sud de Turcia și la vest de coasta Levantului. Insula este renumită pentru mozaicul său arheologic divers, care include situri preistorice precum Choirokoitia, dar și mărturii spectaculoase ale perioadei elenistice și romane, în special în Paphos, unde mozaicurile conservate sunt considerate printre cele mai valoroase din punct de vedere artistic din lume. Istoria medievală a insulei a fost marcată profund de dominația dinastiei Lusignan și a Republicii Venețiene, care au lăsat în urmă fortificații impunătoare și catedrale gotice transformate ulterior în moschei, precum cele din Nicosia sau Famagusta. Un aspect definitoriu al Ciprului modern este diviziunea administrativă și politică rezultată în urma conflictelor din 1974, fapt ce a dus la stabilirea unei zone tampon monitorizate de ONU între comunitățile greco-cipriotă și turco-cipriotă. Cu toate acestea, Republica Cipru a reușit să se integreze cu succes în Uniunea Europeană în 2004, devenind un hub financiar regional important și o destinație turistică de elită, apreciată pentru plajele sale impecabile și pentru biodiversitatea munților Troodos. Tradițiile locale autentice, precum broderia de Lefkara sau arta iconografică bizantină, continuă să fie păstrate cu mândrie, reflectând identitatea profundă a unei națiuni care a asimilat influențele marilor imperii istorice fără a-și pierde specificul mediteranean.",
+      en: "Cyprus, situated in the northeastern corner of the Mediterranean Sea, serves as a crucial geographical crossroads where Europe, Asia, and Africa meet, fostering a unique civilization that dates back over 10,000 years. The island's identity is deeply rooted in its mythical status as the birthplace of Aphrodite, the goddess of love, whose ancient sanctuary at Palaepaphos was one of the most celebrated pilgrimage sites of the classical world. Throughout its long history, Cyprus has been a prized possession for numerous empires due to its abundant copper resources and strategic maritime location, passing through the control of the Assyrians, Egyptians, Persians, and Romans before becoming a vital province of the Byzantine Empire. The medieval period saw the arrival of the Crusaders under Richard the Lionheart, the long rule of the Frankish Lusignans, and the Venetians, who constructed the formidable defensive walls that still encircle the heart of Nicosia. After nearly three centuries of Ottoman rule and subsequent administration by Great Britain, Cyprus achieved independence in 1960, though ethnic tensions later led to the 1974 division which remains an unresolved geopolitical issue, leaving Nicosia as the world's last divided capital city. Economically, Cyprus has successfully transformed from an agrarian society into a robust service-based economy, excelling in international maritime shipping, high-end tourism, and financial services, while its accession to the European Union in 2004 marked a significant turning point in its modern development and international standing.",
+    },
   facts: {
     de: ["Zypern ist als die Insel der Aphrodite bekannt."],
     hu: ["Ciprust Aphrodité szigeteként is ismerik."],
@@ -32,7 +32,7 @@ export const cyprusCountry: POI = {
     en: ["Cyprus is known as the island of Aphrodite."]
   },
   factsAdvanced: {
-    de: [
+      de: [
         "Zypern ist seit 2004 Mitglied der Europäischen Union.",
         "Die Insel ist seit 1974 de facto geteilt in die Republik Zypern im Süden und die Türkische Republik Nordzypern.",
         "Der Halloumi-Käse ist ein berühmtes zypriotisches Exportgut.",
@@ -40,8 +40,8 @@ export const cyprusCountry: POI = {
         "Die ältesten bekannten menschlichen Überreste auf Zypern sind etwa 10.500 Jahre alt.",
         "Das Mufflon, ein Wildschaf, ist das größte Säugetier der Insel und ein nationales Symbol."
     ],
-    hu: [],
-    ro: [
+      hu: ["A sziget teljes területe 9251 négyzetkilométer.", "Legmagasabb pontja az Olümposz-hegy, amely 1952 méter magas.", "Ciprus 1960. augusztus 16-án nyerte el függetlenségét Nagy-Britanniától.", "A sziget a rézbányászat egyik legfontosabb központja volt az ókorban.", "A lakosság száma meghaladja az 1,2 millió főt.", "A Commandaria bor a világ egyik legrégebbi, ma is gyártott bormárkája."],
+      ro: [
         "Cipru este membru al Uniunii Europene din 2004.",
         "Insula este împărțită de facto din 1974 în Republica Cipru în sud și autoproclamata Republică Turcă a Ciprului de Nord.",
         "Brânza Halloumi este un celebru produs de export cipriot.",
@@ -49,8 +49,8 @@ export const cyprusCountry: POI = {
         "Cele mai vechi rămășițe umane cunoscute în Cipru au o vechime de aproximativ 10.500 de ani.",
         "Muflonul, o oaie sălbatică, este cel mai mare mamifer de pe insulă și un simbol național."
     ],
-    en: []
-  }, image: "/poi-images/country-cyprus.webp"};
+      en: ["Total land area measures approximately 9,251 square kilometers.", "The highest point is Mount Olympus, standing at 1,952 meters above sea level.", "Cyprus achieved formal independence from British rule on August 16, 1960.", "It joined the European Union as a full member on May 1, 2004.", "The island is home to several UNESCO World Heritage sites including Paphos.", "The currency changed from the Cypriot Pound to the Euro in 2008."],
+    }, image: "/poi-images/country-cyprus.webp"};
 
 export const cyprusRegions: POI[] = [
   {
