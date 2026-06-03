@@ -1588,6 +1588,32 @@ function renderVisitPlanner(poi: POI, lang: Lang, hasPlizioGo: boolean): string 
   return `<section class="plz-planner"><script type="application/json" class="plz-pl-data">${json}</script></section><script src="/js/visit-planner.js" defer></script>`;
 }
 
+// SERVER-rendered, per-POI UNIQUE route/getting-there TEXT block. The visit-planner above is
+// JS-rendered (invisible to crawlers); THIS gives Google unique, keyword-rich, page-specific text
+// built from the POI's own data (region + country + nearest notable places + distances) + internal
+// links. NOT a Mad-Libs template: region/cities/distances differ per page -> genuinely unique.
+const ROUTE_NOTABLE = new Set(["city", "town", "state-capital", "capital", "landmark", "historical", "monument", "castle", "cathedral", "museum", "mountain", "lake", "island", "beach", "fortress", "palace"]);
+function renderRouteInfo(poi: POI, lang: Lang, countryName: string, regionName: string): string {
+  if (!Array.isArray(poi.coords) || poi.coords.length < 2) return "";
+  const name = (getLocalized(poi.name, lang) as string) || poi.id;
+  const near = getNearbyPois(poi, 14, 130).filter((e) => ROUTE_NOTABLE.has(e.p.type)).slice(0, 4);
+  const loc = regionName ? `${regionName}, ${countryName}` : countryName;
+  const L: Record<string, { title: (n: string) => string; lead: (n: string, l: string) => string; nearest: string; modes: (n: string) => string }> = {
+    de: { title: (n) => `Anfahrt & Routenplanung – ${n}`, lead: (n, l) => `${n} liegt in ${l}. Plane deine Anreise und entdecke die Umgebung.`, nearest: "In der Nähe", modes: (n) => `Route nach ${n} planen – mit dem Auto, dem Wohnmobil oder als Wanderung.` },
+    hu: { title: (n) => `Útvonaltervezés és megközelítés – ${n}`, lead: (n, l) => `${n} itt található: ${l}. Tervezd meg az utadat és fedezd fel a környéket.`, nearest: "Közeli helyek", modes: (n) => `Tervezz útvonalat ${n} felé – autóval, lakókocsival vagy gyalogos túraként.` },
+    ro: { title: (n) => `Cum ajungi & planificarea rutei – ${n}`, lead: (n, l) => `${n} se află în ${l}. Planifică-ți călătoria și explorează împrejurimile.`, nearest: "În apropiere", modes: (n) => `Planifică ruta spre ${n} – cu mașina, cu rulota sau pe jos.` },
+    en: { title: (n) => `Getting there & route planning – ${n}`, lead: (n, l) => `${n} is located in ${l}. Plan your trip and explore the surroundings.`, nearest: "Nearby", modes: (n) => `Plan your route to ${n} – by car, by motorhome or as a hike.` },
+    fr: { title: (n) => `Accès & itinéraire – ${n}`, lead: (n, l) => `${n} se situe en ${l}. Planifiez votre trajet et explorez les environs.`, nearest: "À proximité", modes: (n) => `Planifiez votre itinéraire vers ${n} – en voiture, en camping-car ou à pied.` },
+    tr: { title: (n) => `Ulaşım & rota planlama – ${n}`, lead: (n, l) => `${n}, ${l} bölgesinde yer alır. Yolculuğunu planla ve çevreyi keşfet.`, nearest: "Yakında", modes: (n) => `${n} için rota planla – araba, karavan veya yürüyüş ile.` },
+    hr: { title: (n) => `Kako doći & planiranje rute – ${n}`, lead: (n, l) => `${n} se nalazi u ${l}. Isplaniraj put i istraži okolicu.`, nearest: "U blizini", modes: (n) => `Isplaniraj rutu do ${n} – automobilom, kamperom ili pješice.` },
+  };
+  const t = L[lang] || L.en;
+  const nearHtml = near.length
+    ? `<p class="plz-route-near"><b>${t.nearest}:</b> ${near.map((e) => `<a href="${poiPathSafe(lang, e.p)}">${escapeHtml((getLocalized(e.p.name, lang) as string) || e.p.id)}</a> (${Math.round(e.km)} km)`).join(", ")}</p>`
+    : "";
+  return `<section class="plz-route" id="sec-route"><h2>${escapeHtml(t.title(name))}</h2><p class="plz-route-lead">${escapeHtml(t.lead(name, loc))}</p>${nearHtml}<p class="plz-route-modes">${escapeHtml(t.modes(name))}</p></section>`;
+}
+
 // Stats-chip row: compact data summary under the title (mobile-first)
 function renderStatsChips(poi: POI, lang: Lang, richness: ReturnType<typeof pageRichness>, sightsCount: number, nearbyCount: number): string {
   const yhCount = (YEARLY_HIGHLIGHTS[poi.id] || []).length;
@@ -2297,6 +2323,7 @@ ready();})();</script>
   ${didYouKnowHtml}
   </div>
   ${constellationHtml}
+  ${renderRouteInfo(poi, lang, countryName, (poi.parent !== countryId && stateRegion) ? slugs.localizedStateName(poi.parent, lang) : "")}
   ${renderVisitPlanner(poi, lang, richness.hasPlizioGo)}
   ${renderFAQ(poi, lang) || faqHtml}
   <div id="sec-sights">
@@ -2354,6 +2381,14 @@ ready();})();</script>
 .plz-pl-act{border:1px solid rgba(120,150,200,.2);background:rgba(255,255,255,.03);color:#eaf2ff;padding:.55rem .95rem;border-radius:11px;font-size:.88rem;font-weight:600;cursor:pointer}
 .plz-pl-act:hover{border-color:rgba(120,180,255,.45)}
 .plz-pl-note{color:#bfe9c8;font-size:.84rem;margin-top:.5rem;min-height:1em}
+.plz-route{margin:1.4rem 0}
+.plz-route h2{font-size:1.12rem;color:#eaf2ff;margin:0 0 .5rem}
+.plz-route-lead{color:rgba(200,215,240,.9);margin:0 0 .55rem}
+.plz-route-near{color:rgba(180,200,235,.8);font-size:.92rem;margin:.2rem 0 .55rem}
+.plz-route-near b{color:#eaf2ff}
+.plz-route-near a{color:#7fb4ff;text-decoration:none}
+.plz-route-near a:hover{text-decoration:underline}
+.plz-route-modes{color:rgba(180,200,235,.78);font-size:.92rem;margin:.2rem 0 0}
 .plz-visit{margin:1.4rem 0}
 .plz-vi-h{font-size:1.05rem;font-weight:700;color:#eaf2ff;margin:0 0 .7rem}
 .plz-vi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.6rem}
