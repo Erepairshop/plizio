@@ -467,6 +467,348 @@ export const poiExtraDe4b: POI[] = [
                         9.935254,
                         53.550359
                   ]
+            },
+            {
+                  "name": "Schmidts TIVOLI",
+                  "text": "Ein bekanntes Privattheater auf der Hamburger Reeperbahn, berühmt für seine Revuen und Musicals.",
+                  "category": "cultural",
+                  "coords": [
+                        9.963342,
+                        53.549127
+                  ]
+            },
+            {
+                  "name": "Theater für Kinder",
+                  "text": "Das erste private Theater für Kinder in Deutschland, gelegen im Hamburger Stadtteil Altona.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941885,
+                        53.554847
+                  ]
+            },
+            {
+                  "name": "Kellertheater Hamburg",
+                  "text": "Ein kleines, unabhängiges Theater in Hamburg, das seit den 1950er Jahren zeitgenössische Stücke aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.979256,
+                        53.554823
+                  ]
+            },
+            {
+                  "name": "LICHTHOF Theater",
+                  "text": "Ein Zentrum für die freie Performance-Szene in Hamburg, das innovative Theaterprojekte fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        9.914986,
+                        53.563345
+                  ]
+            },
+            {
+                  "name": "Pulverfass Travestie Cabaret",
+                  "text": "Ein traditionsreiches Travestie-Cabaret auf der Reeperbahn, das für seine glanzvollen Shows bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        9.958592,
+                        53.549354
+                  ]
+            },
+            {
+                  "name": "Stage Operettenhaus",
+                  "text": "Ein bedeutendes Musicaltheater am Spielbudenplatz in Hamburg, das große internationale Produktionen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.967075,
+                        53.549502
+                  ]
+            },
+            {
+                  "name": "Brahms-Museum",
+                  "text": "Ein Museum im Hamburger Komponistenquartier, das dem Leben und Werk von Johannes Brahms gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.976605,
+                        53.551216
+                  ]
+            },
+            {
+                  "name": "Bubendey-Ufer Oberfeuer",
+                  "text": "Ein auffälliger Leuchtturm am Elbufer in Hamburg, der als Oberfeuer der Richtfeuerlinie dient.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900772,
+                        53.537149
+                  ]
+            },
+            {
+                  "name": "Hamburger Schulmuseum",
+                  "text": "Museum zur Geschichte des Schulwesens und des Hamburger Unterrichtsalltags.",
+                  "category": "museum",
+                  "coords": [
+                        9.963366,
+                        53.550635
+                  ]
+            },
+            {
+                  "name": "FC St. Pauli - Museum",
+                  "text": "Museum im Millerntor-Stadion zur Geschichte und Fankultur des FC St. Pauli.",
+                  "category": "museum",
+                  "coords": [
+                        9.969049,
+                        53.554649
+                  ]
+            },
+            {
+                  "name": "Erotic Art Museum",
+                  "text": "Museum in Hamburg mit einer umfangreichen Sammlung erotischer Kunstwerke aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        9.961616,
+                        53.547023
+                  ]
+            },
+            {
+                  "name": "Theater an der Elbe",
+                  "text": "Modernes Musicaltheater am Hamburger Elbufer mit Blick auf die Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.974576,
+                        53.539701
+                  ]
+            },
+            {
+                  "name": "Stage Theater im Hafen Hamburg",
+                  "text": "Bekanntes Musicaltheater im Hamburger Hafen, Spielort des Welterfolgs Der König der Löwen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.973225,
+                        53.539926
+                  ]
+            },
+            {
+                  "name": "Övelgönne",
+                  "text": "Historischer Ortsteil an der Elbe mit Sandstrand und denkmalgeschützten Fischerhäusern.",
+                  "category": "recreational",
+                  "coords": [
+                        9.90596,
+                        53.544274
+                  ]
+            },
+            {
+                  "name": "Stage Theater Neue Flora",
+                  "text": "Eines der größten Musicaltheater Deutschlands, gelegen im Hamburger Stadtteil Altona.",
+                  "category": "cultural",
+                  "coords": [
+                        9.950268,
+                        53.562634
+                  ]
+            },
+            {
+                  "name": "DELPHI Showpalast",
+                  "text": "Traditionsreiches Varieté-Theater und Veranstaltungsort im Hamburger Stadtteil Eimsbüttel.",
+                  "category": "cultural",
+                  "coords": [
+                        9.958057,
+                        53.565832
+                  ]
+            },
+            {
+                  "name": "Stadtteilarchiv Ottensen e.V.",
+                  "text": "Ein Archiv und Museum in Altona, das sich der Dokumentation und Erforschung der lokalen Geschichte von Ottensen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.929732,
+                        53.555141
+                  ]
+            },
+            {
+                  "name": "Alter Leuchtturm Pagensand-Süd",
+                  "text": "Ein historischer Leuchtturm, der heute als technisches Denkmal im Museumshafen Övelgönne zu bewundern ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.914594,
+                        53.544097
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Ellerholzhafen",
+                  "text": "Ein markanter historischer Leuchtturm im Hamburger Hafen, der ein Zeugnis der maritimen Geschichte der Stadt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.955501,
+                        53.531644
+                  ]
+            },
+            {
+                  "name": "Museum für Hamburgische Geschichte",
+                  "text": "Eines der größten stadtgeschichtlichen Museen Deutschlands, das die Entwicklung Hamburgs seit dem 9. Jahrhundert zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.971363,
+                        53.550427
+                  ]
+            },
+            {
+                  "name": "Heine Haus, Gartenhaus",
+                  "text": "Ein historisches Gartenhaus im Heine-Park, das an den Dichter Heinrich Heine und seinen Onkel Salomon erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        9.92853,
+                        53.546246
+                  ]
+            },
+            {
+                  "name": "Kaifu Sommerfreibad",
+                  "text": "Der weitläufige Außenbereich des traditionsreichen Kaifu-Bades, ideal für sportliches Schwimmen im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        9.962712,
+                        53.571872
+                  ]
+            },
+            {
+                  "name": "Ruine Israelitischer Tempel (Westfassade)",
+                  "text": "Die eindrucksvollen Ruinen der Westfassade eines ehemaligen jüdischen Reformtempels aus dem 19. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        9.980579,
+                        53.554251
+                  ]
+            },
+            {
+                  "name": "August-Lütgens-Park",
+                  "text": "Eine gepflegte Parkanlage in Altona, die nach dem Hamburger Widerstandskämpfer August Lütgens benannt wurde.",
+                  "category": "park",
+                  "coords": [
+                        9.947797,
+                        53.556909
+                  ]
+            },
+            {
+                  "name": "Bertha-von-Suttner-Park",
+                  "text": "Eine Grünanlage in Altona, gewidmet der Friedensnobelpreisträgerin Bertha von Suttner.",
+                  "category": "park",
+                  "coords": [
+                        9.950684,
+                        53.560216
+                  ]
+            },
+            {
+                  "name": "Alter Elbpark",
+                  "text": "Historische Parkanlage über dem Hafen, bekannt für das riesige Bismarck-Denkmal.",
+                  "category": "park",
+                  "coords": [
+                        9.971066,
+                        53.548735
+                  ]
+            },
+            {
+                  "name": "Stintfang",
+                  "text": "Ein erhöhter Park an den Landungsbrücken mit eigenem Weinberg und Panoramablick auf den Hamburger Hafen.",
+                  "category": "park",
+                  "coords": [
+                        9.971989,
+                        53.546674
+                  ]
+            },
+            {
+                  "name": "Schröders Elbpark",
+                  "text": "Ein weitläufiger Park direkt am Elbufer, der zum Spazierengehen mit Blick auf die Schifffahrt einlädt.",
+                  "category": "park",
+                  "coords": [
+                        9.892215,
+                        53.545675
+                  ]
+            },
+            {
+                  "name": "Antonipark",
+                  "text": "Dieser als „Park Fiction“ bekannte Ort ist berühmt für seine markanten künstlichen Palmen aus Stahl.",
+                  "category": "park",
+                  "coords": [
+                        9.957217,
+                        53.546291
+                  ]
+            },
+            {
+                  "name": "Kemal-Altun-Platz",
+                  "text": "Ein zentraler Platz und Park in Altona, benannt zu Ehren des türkischen Dissidenten Kemal Altun.",
+                  "category": "park",
+                  "coords": [
+                        9.926096,
+                        53.552429
+                  ]
+            },
+            {
+                  "name": "Henry-Vahl-Park",
+                  "text": "Eine gepflegte Grünanlage in Altona, die dem beliebten Hamburger Volksschauspieler Henry Vahl gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        9.954259,
+                        53.576369
+                  ]
+            },
+            {
+                  "name": "Bismarck-Denkmal",
+                  "text": "Das weltweit größte Standbild für Otto von Bismarck ragt imposant über dem Hamburger Hafen auf.",
+                  "category": "historical",
+                  "coords": [
+                        9.972046,
+                        53.548693
+                  ]
+            },
+            {
+                  "name": "Wohlers Park",
+                  "text": "Ein ehemaliger Friedhof, der heute als weitläufige Parkanlage mit historischem Baumbestand dient.",
+                  "category": "park",
+                  "coords": [
+                        9.952758,
+                        53.558217
+                  ]
+            },
+            {
+                  "name": "Kapitän-Schröder-Park",
+                  "text": "Eine kleine grüne Oase im Stadtteil Altona, die nach dem Hamburger Kapitän Alexander Schröder benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        9.951887,
+                        53.547971
+                  ]
+            },
+            {
+                  "name": "Fischers Park",
+                  "text": "Beliebter Volkspark in Altona mit weitläufigen Rasenflächen, Spielplätzen und Sportmöglichkeiten.",
+                  "category": "park",
+                  "coords": [
+                        9.920925,
+                        53.547248
+                  ]
+            },
+            {
+                  "name": "Unna-Park",
+                  "text": "Diese Parkanlage in Altona ist nach dem bedeutenden Hamburger Dermatologen Paul Gerson Unna benannt.",
+                  "category": "park",
+                  "coords": [
+                        9.949652,
+                        53.575394
+                  ]
+            },
+            {
+                  "name": "Wiese Mitte Altona",
+                  "text": "Ein zentraler Park im Stadtteil Altona für Freizeit und Erholung im Grünen.",
+                  "category": "park",
+                  "coords": [
+                        9.937874,
+                        53.560643
+                  ]
+            },
+            {
+                  "name": "Schilleroper",
+                  "text": "Die markante Ruine eines ehemaligen Zirkus- und Opernhauses im Hamburger Stadtteil Altona.",
+                  "category": "historical",
+                  "coords": [
+                        9.961749,
+                        53.558006
+                  ]
             }
       ],
       "hu": [
@@ -528,6 +870,348 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.935254,
                         53.550359
+                  ]
+            },
+            {
+                  "name": "Schmidts TIVOLI",
+                  "text": "Ismert magánszínház a hamburgi Reeperbahnon, amely revüiről és musicaljeiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        9.963342,
+                        53.549127
+                  ]
+            },
+            {
+                  "name": "Theater für Kinder",
+                  "text": "Németország első magán gyermekszínháza, amely Hamburg Altona negyedében található.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941885,
+                        53.554847
+                  ]
+            },
+            {
+                  "name": "Kellertheater Hamburg",
+                  "text": "Kicsi, független színház Hamburgban, amely az 1950-es évek óta játszik kortárs darabokat.",
+                  "category": "cultural",
+                  "coords": [
+                        9.979256,
+                        53.554823
+                  ]
+            },
+            {
+                  "name": "LICHTHOF Theater",
+                  "text": "A hamburgi független előadó-művészeti szcéna központja, amely innovatív színházi projekteket támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        9.914986,
+                        53.563345
+                  ]
+            },
+            {
+                  "name": "Pulverfass Travestie Cabaret",
+                  "text": "Nagy múltú travesztia-kabaré a Reeperbahnon, amely látványos show-műsorairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        9.958592,
+                        53.549354
+                  ]
+            },
+            {
+                  "name": "Stage Operettenhaus",
+                  "text": "Jelentős musicalszínház a hamburgi Spielbudenplatzon, amely nagy nemzetközi produkciókat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        9.967075,
+                        53.549502
+                  ]
+            },
+            {
+                  "name": "Brahms-Museum",
+                  "text": "Múzeum a hamburgi zeneszerző-negyedben, amely Johannes Brahms életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        9.976605,
+                        53.551216
+                  ]
+            },
+            {
+                  "name": "Bubendey-Ufer Oberfeuer",
+                  "text": "Feltűnő világítótorony az Elba partján Hamburgban, amely az irányfény-vonal felső fényeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900772,
+                        53.537149
+                  ]
+            },
+            {
+                  "name": "Hamburger Schulmuseum",
+                  "text": "A hamburgi iskolatörténetet és a régi oktatási módszereket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.963366,
+                        53.550635
+                  ]
+            },
+            {
+                  "name": "FC St. Pauli - Museum",
+                  "text": "Az FC St. Pauli futballklub történetét és szurkolói kultúráját bemutató múzeum a Millerntor-stadionban.",
+                  "category": "museum",
+                  "coords": [
+                        9.969049,
+                        53.554649
+                  ]
+            },
+            {
+                  "name": "Erotic Art Museum",
+                  "text": "Különböző korszakokból származó erotikus műalkotások gyűjteménye Hamburgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.961616,
+                        53.547023
+                  ]
+            },
+            {
+                  "name": "Theater an der Elbe",
+                  "text": "Modern musicalszínház a hamburgi Elba-parton, kilátással a városra.",
+                  "category": "cultural",
+                  "coords": [
+                        9.974576,
+                        53.539701
+                  ]
+            },
+            {
+                  "name": "Stage Theater im Hafen Hamburg",
+                  "text": "Népszerű musicalszínház a hamburgi kikötőben, Az oroszlánkirály előadásainak otthona.",
+                  "category": "cultural",
+                  "coords": [
+                        9.973225,
+                        53.539926
+                  ]
+            },
+            {
+                  "name": "Övelgönne",
+                  "text": "Történelmi halászfalu az Elba partján, homokos stranddal és régi kapitányházakkal.",
+                  "category": "recreational",
+                  "coords": [
+                        9.90596,
+                        53.544274
+                  ]
+            },
+            {
+                  "name": "Stage Theater Neue Flora",
+                  "text": "Németország egyik legnagyobb musicalszínháza Hamburg Altona negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.950268,
+                        53.562634
+                  ]
+            },
+            {
+                  "name": "DELPHI Showpalast",
+                  "text": "Rendezvényhelyszín és varieté-színház Hamburg Eimsbüttel negyedében, látványos show-műsorokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        9.958057,
+                        53.565832
+                  ]
+            },
+            {
+                  "name": "Stadtteilarchiv Ottensen e.V.",
+                  "text": "Altonai archívum és múzeum, amely Ottensen negyed helyi történelmének dokumentálásával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        9.929732,
+                        53.555141
+                  ]
+            },
+            {
+                  "name": "Alter Leuchtturm Pagensand-Süd",
+                  "text": "Történelmi világítótorony, amely ma ipari műemlékként látható az övelgönnei múzeumkikötőben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.914594,
+                        53.544097
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Ellerholzhafen",
+                  "text": "Jellegzetes történelmi világítótorony a hamburgi kikötőben, amely a város tengeri múltjának emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        9.955501,
+                        53.531644
+                  ]
+            },
+            {
+                  "name": "Museum für Hamburgische Geschichte",
+                  "text": "Németország egyik legnagyobb várostörténeti múzeuma, amely Hamburg fejlődését mutatja be a 9. századtól.",
+                  "category": "museum",
+                  "coords": [
+                        9.971363,
+                        53.550427
+                  ]
+            },
+            {
+                  "name": "Heine Haus, Gartenhaus",
+                  "text": "Történelmi kerti lak a Heine-parkban, amely Heinrich Heine költőnek és nagybátyjának, Salomonnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        9.92853,
+                        53.546246
+                  ]
+            },
+            {
+                  "name": "Kaifu Sommerfreibad",
+                  "text": "A patinás Kaifu-Bad tágas szabadtéri része, amely ideális a nyári sportoláshoz és úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.962712,
+                        53.571872
+                  ]
+            },
+            {
+                  "name": "Ruine Israelitischer Tempel (Westfassade)",
+                  "text": "Egy egykori 19. századi zsidó reformtemplom nyugati homlokzatának lenyűgöző romjai.",
+                  "category": "historical",
+                  "coords": [
+                        9.980579,
+                        53.554251
+                  ]
+            },
+            {
+                  "name": "August-Lütgens-Park",
+                  "text": "Gondozott park Altonában, amelyet August Lütgens hamburgi ellenállóról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        9.947797,
+                        53.556909
+                  ]
+            },
+            {
+                  "name": "Bertha-von-Suttner-Park",
+                  "text": "Zöldpark Altonában, amelyet Bertha von Suttner Nobel-békédíjas tiszteletére neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        9.950684,
+                        53.560216
+                  ]
+            },
+            {
+                  "name": "Alter Elbpark",
+                  "text": "Történelmi park a kikötő felett, amely a hatalmas Bismarck-emlékműről ismert.",
+                  "category": "park",
+                  "coords": [
+                        9.971066,
+                        53.548735
+                  ]
+            },
+            {
+                  "name": "Stintfang",
+                  "text": "Emelt szintű park a Landungsbrücken mellett, saját szőlőskerttel és panorámás kilátással a kikötőre.",
+                  "category": "park",
+                  "coords": [
+                        9.971989,
+                        53.546674
+                  ]
+            },
+            {
+                  "name": "Schröders Elbpark",
+                  "text": "Kiterjedt park közvetlenül az Elba partján, amely sétákra és a hajóforgalom megfigyelésére csábít.",
+                  "category": "park",
+                  "coords": [
+                        9.892215,
+                        53.545675
+                  ]
+            },
+            {
+                  "name": "Antonipark",
+                  "text": "A „Park Fiction” néven ismert közösségi park híres jellegzetes acél pálmafáiról.",
+                  "category": "park",
+                  "coords": [
+                        9.957217,
+                        53.546291
+                  ]
+            },
+            {
+                  "name": "Kemal-Altun-Platz",
+                  "text": "Altona központi tere és parkja, amelyet Kemal Altun török disszidens tiszteletére neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        9.926096,
+                        53.552429
+                  ]
+            },
+            {
+                  "name": "Henry-Vahl-Park",
+                  "text": "Gondozott park Altonában, amelyet a népszerű hamburgi színész, Henry Vahl emlékére neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        9.954259,
+                        53.576369
+                  ]
+            },
+            {
+                  "name": "Bismarck-Denkmal",
+                  "text": "Otto von Bismarck világviszonylatban is legnagyobb szobra impozánsan magasodik a hamburgi kikötő fölé.",
+                  "category": "historical",
+                  "coords": [
+                        9.972046,
+                        53.548693
+                  ]
+            },
+            {
+                  "name": "Wohlers Park",
+                  "text": "Egykori temető, amely ma kiterjedt parkként és történelmi faállománnyal várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        9.952758,
+                        53.558217
+                  ]
+            },
+            {
+                  "name": "Kapitän-Schröder-Park",
+                  "text": "Kis zöld oázis Altona negyedében, amely nevét Alexander Schröder hamburgi kapitányról kapta.",
+                  "category": "park",
+                  "coords": [
+                        9.951887,
+                        53.547971
+                  ]
+            },
+            {
+                  "name": "Fischers Park",
+                  "text": "Népszerű közpark Altonában tágas gyeppel, játszóterekkel és sportolási lehetőségekkel.",
+                  "category": "park",
+                  "coords": [
+                        9.920925,
+                        53.547248
+                  ]
+            },
+            {
+                  "name": "Unna-Park",
+                  "text": "Ezt az altonai parkot a neves hamburgi bőrgyógyászról, Paul Gerson Unnáról nevezték el.",
+                  "category": "park",
+                  "coords": [
+                        9.949652,
+                        53.575394
+                  ]
+            },
+            {
+                  "name": "Wiese Mitte Altona",
+                  "text": "Központi park Altona negyedében, amely pihenésre és szabadidős tevékenységekre szolgál.",
+                  "category": "park",
+                  "coords": [
+                        9.937874,
+                        53.560643
+                  ]
+            },
+            {
+                  "name": "Schilleroper",
+                  "text": "Egy egykori hamburgi cirkusz- és operaház jellegzetes romjai Altona negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        9.961749,
+                        53.558006
                   ]
             }
       ],
@@ -591,6 +1275,348 @@ export const poiExtraDe4b: POI[] = [
                         9.935254,
                         53.550359
                   ]
+            },
+            {
+                  "name": "Schmidts TIVOLI",
+                  "text": "Un cunoscut teatru privat de pe Reeperbahn din Hamburg, renumit pentru revistele și musicalurile sale.",
+                  "category": "cultural",
+                  "coords": [
+                        9.963342,
+                        53.549127
+                  ]
+            },
+            {
+                  "name": "Theater für Kinder",
+                  "text": "Primul teatru privat pentru copii din Germania, situat în cartierul Altona din Hamburg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941885,
+                        53.554847
+                  ]
+            },
+            {
+                  "name": "Kellertheater Hamburg",
+                  "text": "Un teatru mic și independent din Hamburg, care pune în scenă piese contemporane încă din anii 1950.",
+                  "category": "cultural",
+                  "coords": [
+                        9.979256,
+                        53.554823
+                  ]
+            },
+            {
+                  "name": "LICHTHOF Theater",
+                  "text": "Un centru pentru scena de performance independentă din Hamburg, care promovează proiecte teatrale inovatoare.",
+                  "category": "cultural",
+                  "coords": [
+                        9.914986,
+                        53.563345
+                  ]
+            },
+            {
+                  "name": "Pulverfass Travestie Cabaret",
+                  "text": "Un cabaret de travesti cu tradiție de pe Reeperbahn, cunoscut pentru spectacolele sale strălucitoare.",
+                  "category": "cultural",
+                  "coords": [
+                        9.958592,
+                        53.549354
+                  ]
+            },
+            {
+                  "name": "Stage Operettenhaus",
+                  "text": "Un teatru muzical important din Spielbudenplatz, Hamburg, care găzduiește mari producții internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        9.967075,
+                        53.549502
+                  ]
+            },
+            {
+                  "name": "Brahms-Museum",
+                  "text": "Un muzeu din cartierul compozitorilor din Hamburg, dedicat vieții și operei lui Johannes Brahms.",
+                  "category": "museum",
+                  "coords": [
+                        9.976605,
+                        53.551216
+                  ]
+            },
+            {
+                  "name": "Bubendey-Ufer Oberfeuer",
+                  "text": "Un far remarcabil de pe malul Elbei din Hamburg, care servește drept lumină superioară în linia de ghidaj.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900772,
+                        53.537149
+                  ]
+            },
+            {
+                  "name": "Hamburger Schulmuseum",
+                  "text": "Muzeu care prezintă istoria sistemului școlar și a educației din Hamburg.",
+                  "category": "museum",
+                  "coords": [
+                        9.963366,
+                        53.550635
+                  ]
+            },
+            {
+                  "name": "FC St. Pauli - Museum",
+                  "text": "Muzeu situat în stadionul Millerntor, dedicat istoriei și culturii fanilor clubului FC St. Pauli.",
+                  "category": "museum",
+                  "coords": [
+                        9.969049,
+                        53.554649
+                  ]
+            },
+            {
+                  "name": "Erotic Art Museum",
+                  "text": "Muzeu din Hamburg care găzduiește o colecție vastă de opere de artă erotică din diverse epoci.",
+                  "category": "museum",
+                  "coords": [
+                        9.961616,
+                        53.547023
+                  ]
+            },
+            {
+                  "name": "Theater an der Elbe",
+                  "text": "Teatru modern de musical situat pe malul Elbei din Hamburg, cu vedere spre oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        9.974576,
+                        53.539701
+                  ]
+            },
+            {
+                  "name": "Stage Theater im Hafen Hamburg",
+                  "text": "Teatru de musical celebru în Portul Hamburg, locul unde se joacă succesul mondial Regele Leu.",
+                  "category": "cultural",
+                  "coords": [
+                        9.973225,
+                        53.539926
+                  ]
+            },
+            {
+                  "name": "Övelgönne",
+                  "text": "Cartier istoric pe malul Elbei, cu o plajă de nisip și case vechi de pescari protejate.",
+                  "category": "recreational",
+                  "coords": [
+                        9.90596,
+                        53.544274
+                  ]
+            },
+            {
+                  "name": "Stage Theater Neue Flora",
+                  "text": "Unul dintre cele mai mari teatre de musical din Germania, situat în districtul Altona din Hamburg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.950268,
+                        53.562634
+                  ]
+            },
+            {
+                  "name": "DELPHI Showpalast",
+                  "text": "Loc de evenimente și teatru de varietăți în Hamburg-Eimsbüttel, specializat în spectacole și muzică.",
+                  "category": "cultural",
+                  "coords": [
+                        9.958057,
+                        53.565832
+                  ]
+            },
+            {
+                  "name": "Stadtteilarchiv Ottensen e.V.",
+                  "text": "O arhivă și un muzeu din Altona dedicate documentării și cercetării istoriei locale a cartierului Ottensen.",
+                  "category": "museum",
+                  "coords": [
+                        9.929732,
+                        53.555141
+                  ]
+            },
+            {
+                  "name": "Alter Leuchtturm Pagensand-Süd",
+                  "text": "Un far istoric care poate fi admirat astăzi ca monument tehnic în portul muzeu Övelgönne.",
+                  "category": "landmark",
+                  "coords": [
+                        9.914594,
+                        53.544097
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Ellerholzhafen",
+                  "text": "Un far istoric distinctiv din portul Hamburg, care stă mărturie istoriei maritime a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        9.955501,
+                        53.531644
+                  ]
+            },
+            {
+                  "name": "Museum für Hamburgische Geschichte",
+                  "text": "Unul dintre cele mai mari muzee de istorie urbană din Germania, prezentând evoluția Hamburgului din secolul al IX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        9.971363,
+                        53.550427
+                  ]
+            },
+            {
+                  "name": "Heine Haus, Gartenhaus",
+                  "text": "O casă de grădină istorică în parcul Heine, care amintește de poetul Heinrich Heine și de unchiul său Salomon.",
+                  "category": "museum",
+                  "coords": [
+                        9.92853,
+                        53.546246
+                  ]
+            },
+            {
+                  "name": "Kaifu Sommerfreibad",
+                  "text": "Zona exterioară spațioasă a băii tradiționale Kaifu, ideală pentru înot sportiv pe timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        9.962712,
+                        53.571872
+                  ]
+            },
+            {
+                  "name": "Ruine Israelitischer Tempel (Westfassade)",
+                  "text": "Ruinele impresionante ale fațadei de vest a unui fost templu evreiesc reformat din secolul al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        9.980579,
+                        53.554251
+                  ]
+            },
+            {
+                  "name": "August-Lütgens-Park",
+                  "text": "Un parc bine întreținut în Altona, numit după luptătorul din rezistența hamburgheză August Lütgens.",
+                  "category": "park",
+                  "coords": [
+                        9.947797,
+                        53.556909
+                  ]
+            },
+            {
+                  "name": "Bertha-von-Suttner-Park",
+                  "text": "O zonă verde în Altona, dedicată laureatei Premiului Nobel pentru Pace, Bertha von Suttner.",
+                  "category": "park",
+                  "coords": [
+                        9.950684,
+                        53.560216
+                  ]
+            },
+            {
+                  "name": "Alter Elbpark",
+                  "text": "Parc istoric deasupra portului, cunoscut pentru imensul monument Bismarck.",
+                  "category": "park",
+                  "coords": [
+                        9.971066,
+                        53.548735
+                  ]
+            },
+            {
+                  "name": "Stintfang",
+                  "text": "Un parc elevat lângă Landungsbrücken, cu o podgorie proprie și vedere panoramică asupra portului.",
+                  "category": "park",
+                  "coords": [
+                        9.971989,
+                        53.546674
+                  ]
+            },
+            {
+                  "name": "Schröders Elbpark",
+                  "text": "Un parc întins direct pe malul Elbei, ideal pentru plimbări cu vedere la traficul naval.",
+                  "category": "park",
+                  "coords": [
+                        9.892215,
+                        53.545675
+                  ]
+            },
+            {
+                  "name": "Antonipark",
+                  "text": "Cunoscut sub numele de „Park Fiction”, acest spațiu este faimos pentru palmierii săi artificiali din oțel.",
+                  "category": "park",
+                  "coords": [
+                        9.957217,
+                        53.546291
+                  ]
+            },
+            {
+                  "name": "Kemal-Altun-Platz",
+                  "text": "O piață și un parc central în Altona, numite în onoarea disidentului turc Kemal Altun.",
+                  "category": "park",
+                  "coords": [
+                        9.926096,
+                        53.552429
+                  ]
+            },
+            {
+                  "name": "Henry-Vahl-Park",
+                  "text": "Un spațiu verde îngrijit în Altona, dedicat popularului actor de teatru din Hamburg, Henry Vahl.",
+                  "category": "park",
+                  "coords": [
+                        9.954259,
+                        53.576369
+                  ]
+            },
+            {
+                  "name": "Bismarck-Denkmal",
+                  "text": "Cea mai mare statuie din lume dedicată lui Otto von Bismarck domină impunător portul Hamburg.",
+                  "category": "historical",
+                  "coords": [
+                        9.972046,
+                        53.548693
+                  ]
+            },
+            {
+                  "name": "Wohlers Park",
+                  "text": "Un fost cimitir care servește astăzi ca un parc spațios cu arbori istorici.",
+                  "category": "park",
+                  "coords": [
+                        9.952758,
+                        53.558217
+                  ]
+            },
+            {
+                  "name": "Kapitän-Schröder-Park",
+                  "text": "O mică oază verde în districtul Altona, numită după căpitanul hamburghez Alexander Schröder.",
+                  "category": "park",
+                  "coords": [
+                        9.951887,
+                        53.547971
+                  ]
+            },
+            {
+                  "name": "Fischers Park",
+                  "text": "Parc popular în Altona, cu peluze întinse, locuri de joacă și facilități sportive.",
+                  "category": "park",
+                  "coords": [
+                        9.920925,
+                        53.547248
+                  ]
+            },
+            {
+                  "name": "Unna-Park",
+                  "text": "Acest parc din Altona poartă numele importantului dermatolog hamburghez Paul Gerson Unna.",
+                  "category": "park",
+                  "coords": [
+                        9.949652,
+                        53.575394
+                  ]
+            },
+            {
+                  "name": "Wiese Mitte Altona",
+                  "text": "Un parc central în districtul Altona, oferind spațiu pentru relaxare și activități în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        9.937874,
+                        53.560643
+                  ]
+            },
+            {
+                  "name": "Schilleroper",
+                  "text": "Ruinele marcante ale unei foste case de operă și circ din districtul Altona al orașului Hamburg.",
+                  "category": "historical",
+                  "coords": [
+                        9.961749,
+                        53.558006
+                  ]
             }
       ],
       "en": [
@@ -652,6 +1678,348 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.935254,
                         53.550359
+                  ]
+            },
+            {
+                  "name": "Schmidts TIVOLI",
+                  "text": "A well-known private theatre on Hamburg's Reeperbahn, famous for its revues and musicals.",
+                  "category": "cultural",
+                  "coords": [
+                        9.963342,
+                        53.549127
+                  ]
+            },
+            {
+                  "name": "Theater für Kinder",
+                  "text": "The first private theatre for children in Germany, located in Hamburg's Altona district.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941885,
+                        53.554847
+                  ]
+            },
+            {
+                  "name": "Kellertheater Hamburg",
+                  "text": "A small, independent theatre in Hamburg that has been performing contemporary plays since the 1950s.",
+                  "category": "cultural",
+                  "coords": [
+                        9.979256,
+                        53.554823
+                  ]
+            },
+            {
+                  "name": "LICHTHOF Theater",
+                  "text": "A center for the independent performing arts scene in Hamburg, promoting innovative theatre projects.",
+                  "category": "cultural",
+                  "coords": [
+                        9.914986,
+                        53.563345
+                  ]
+            },
+            {
+                  "name": "Pulverfass Travestie Cabaret",
+                  "text": "A long-standing travesty cabaret on the Reeperbahn, known for its glamorous shows.",
+                  "category": "cultural",
+                  "coords": [
+                        9.958592,
+                        53.549354
+                  ]
+            },
+            {
+                  "name": "Stage Operettenhaus",
+                  "text": "A major musical theatre on Spielbudenplatz in Hamburg, hosting large international productions.",
+                  "category": "cultural",
+                  "coords": [
+                        9.967075,
+                        53.549502
+                  ]
+            },
+            {
+                  "name": "Brahms-Museum",
+                  "text": "A museum in Hamburg's Composers' Quarter dedicated to the life and work of Johannes Brahms.",
+                  "category": "museum",
+                  "coords": [
+                        9.976605,
+                        53.551216
+                  ]
+            },
+            {
+                  "name": "Bubendey-Ufer Oberfeuer",
+                  "text": "A striking lighthouse on the banks of the Elbe in Hamburg, serving as the rear light of a leading line.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900772,
+                        53.537149
+                  ]
+            },
+            {
+                  "name": "Hamburger Schulmuseum",
+                  "text": "Museum focusing on the history of the school system and educational life in Hamburg.",
+                  "category": "museum",
+                  "coords": [
+                        9.963366,
+                        53.550635
+                  ]
+            },
+            {
+                  "name": "FC St. Pauli - Museum",
+                  "text": "Museum in the Millerntor Stadium dedicated to the history and fan culture of FC St. Pauli.",
+                  "category": "museum",
+                  "coords": [
+                        9.969049,
+                        53.554649
+                  ]
+            },
+            {
+                  "name": "Erotic Art Museum",
+                  "text": "Museum in Hamburg featuring an extensive collection of erotic artworks from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        9.961616,
+                        53.547023
+                  ]
+            },
+            {
+                  "name": "Theater an der Elbe",
+                  "text": "Modern musical theatre located on the banks of the Elbe in Hamburg with city views.",
+                  "category": "cultural",
+                  "coords": [
+                        9.974576,
+                        53.539701
+                  ]
+            },
+            {
+                  "name": "Stage Theater im Hafen Hamburg",
+                  "text": "Famous musical theatre in the Port of Hamburg, home to the global success The Lion King.",
+                  "category": "cultural",
+                  "coords": [
+                        9.973225,
+                        53.539926
+                  ]
+            },
+            {
+                  "name": "Övelgönne",
+                  "text": "Historic riverside area on the Elbe featuring a sandy beach and heritage-listed pilot houses.",
+                  "category": "recreational",
+                  "coords": [
+                        9.90596,
+                        53.544274
+                  ]
+            },
+            {
+                  "name": "Stage Theater Neue Flora",
+                  "text": "One of Germany's largest musical theatres, located in the Altona district of Hamburg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.950268,
+                        53.562634
+                  ]
+            },
+            {
+                  "name": "DELPHI Showpalast",
+                  "text": "Event venue and variety theatre in Hamburg-Eimsbüttel focusing on shows and music.",
+                  "category": "cultural",
+                  "coords": [
+                        9.958057,
+                        53.565832
+                  ]
+            },
+            {
+                  "name": "Stadtteilarchiv Ottensen e.V.",
+                  "text": "An archive and museum in Altona dedicated to documenting and researching the local history of Ottensen.",
+                  "category": "museum",
+                  "coords": [
+                        9.929732,
+                        53.555141
+                  ]
+            },
+            {
+                  "name": "Alter Leuchtturm Pagensand-Süd",
+                  "text": "A historic lighthouse that can now be admired as a technical monument in the Övelgönne museum harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        9.914594,
+                        53.544097
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Ellerholzhafen",
+                  "text": "A distinctive historic lighthouse in the Hamburg port, bearing witness to the city's maritime history.",
+                  "category": "landmark",
+                  "coords": [
+                        9.955501,
+                        53.531644
+                  ]
+            },
+            {
+                  "name": "Museum für Hamburgische Geschichte",
+                  "text": "One of Germany's largest urban history museums, showcasing the development of Hamburg since the 9th century.",
+                  "category": "museum",
+                  "coords": [
+                        9.971363,
+                        53.550427
+                  ]
+            },
+            {
+                  "name": "Heine Haus, Gartenhaus",
+                  "text": "A historic garden house in Heine Park commemorating the poet Heinrich Heine and his uncle Salomon.",
+                  "category": "museum",
+                  "coords": [
+                        9.92853,
+                        53.546246
+                  ]
+            },
+            {
+                  "name": "Kaifu Sommerfreibad",
+                  "text": "The spacious outdoor area of the traditional Kaifu-Bad, ideal for lap swimming during the summer.",
+                  "category": "recreational",
+                  "coords": [
+                        9.962712,
+                        53.571872
+                  ]
+            },
+            {
+                  "name": "Ruine Israelitischer Tempel (Westfassade)",
+                  "text": "The impressive ruins of the west facade of a former 19th-century Jewish reform temple.",
+                  "category": "historical",
+                  "coords": [
+                        9.980579,
+                        53.554251
+                  ]
+            },
+            {
+                  "name": "August-Lütgens-Park",
+                  "text": "A well-maintained park in Altona named after the Hamburg resistance fighter August Lütgens.",
+                  "category": "park",
+                  "coords": [
+                        9.947797,
+                        53.556909
+                  ]
+            },
+            {
+                  "name": "Bertha-von-Suttner-Park",
+                  "text": "A green park in Altona dedicated to the Nobel Peace Prize laureate Bertha von Suttner.",
+                  "category": "park",
+                  "coords": [
+                        9.950684,
+                        53.560216
+                  ]
+            },
+            {
+                  "name": "Alter Elbpark",
+                  "text": "Historical park overlooking the harbor, known for the giant Bismarck Monument.",
+                  "category": "park",
+                  "coords": [
+                        9.971066,
+                        53.548735
+                  ]
+            },
+            {
+                  "name": "Stintfang",
+                  "text": "Elevated park by the Landungsbrücken, featuring a small vineyard and panoramic harbor views.",
+                  "category": "park",
+                  "coords": [
+                        9.971989,
+                        53.546674
+                  ]
+            },
+            {
+                  "name": "Schröders Elbpark",
+                  "text": "Spacious park directly on the banks of the Elbe, ideal for walks with views of the shipping traffic.",
+                  "category": "park",
+                  "coords": [
+                        9.892215,
+                        53.545675
+                  ]
+            },
+            {
+                  "name": "Antonipark",
+                  "text": "Known as \"Park Fiction,\" this community space is famous for its iconic artificial steel palm trees.",
+                  "category": "park",
+                  "coords": [
+                        9.957217,
+                        53.546291
+                  ]
+            },
+            {
+                  "name": "Kemal-Altun-Platz",
+                  "text": "A central square and park in Altona, named in honor of the Turkish dissident Kemal Altun.",
+                  "category": "park",
+                  "coords": [
+                        9.926096,
+                        53.552429
+                  ]
+            },
+            {
+                  "name": "Henry-Vahl-Park",
+                  "text": "A well-kept green space in Altona dedicated to the popular Hamburg folk actor Henry Vahl.",
+                  "category": "park",
+                  "coords": [
+                        9.954259,
+                        53.576369
+                  ]
+            },
+            {
+                  "name": "Bismarck-Denkmal",
+                  "text": "The world's largest statue of Otto von Bismarck rises imposingly above the Hamburg harbor.",
+                  "category": "historical",
+                  "coords": [
+                        9.972046,
+                        53.548693
+                  ]
+            },
+            {
+                  "name": "Wohlers Park",
+                  "text": "A former cemetery that now serves as a spacious park with historic trees.",
+                  "category": "park",
+                  "coords": [
+                        9.952758,
+                        53.558217
+                  ]
+            },
+            {
+                  "name": "Kapitän-Schröder-Park",
+                  "text": "A small green oasis in the Altona district, named after the Hamburg captain Alexander Schröder.",
+                  "category": "park",
+                  "coords": [
+                        9.951887,
+                        53.547971
+                  ]
+            },
+            {
+                  "name": "Fischers Park",
+                  "text": "Popular public park in Altona featuring spacious lawns, playgrounds, and sports facilities.",
+                  "category": "park",
+                  "coords": [
+                        9.920925,
+                        53.547248
+                  ]
+            },
+            {
+                  "name": "Unna-Park",
+                  "text": "This park in Altona is named after the prominent Hamburg dermatologist Paul Gerson Unna.",
+                  "category": "park",
+                  "coords": [
+                        9.949652,
+                        53.575394
+                  ]
+            },
+            {
+                  "name": "Wiese Mitte Altona",
+                  "text": "A central park in the Altona district, providing space for relaxation and outdoor activities.",
+                  "category": "park",
+                  "coords": [
+                        9.937874,
+                        53.560643
+                  ]
+            },
+            {
+                  "name": "Schilleroper",
+                  "text": "The striking ruins of a former circus and opera house in the Altona district of Hamburg.",
+                  "category": "historical",
+                  "coords": [
+                        9.961749,
+                        53.558006
                   ]
             }
       ]
@@ -899,6 +2267,24 @@ export const poiExtraDe4b: POI[] = [
                         10.214595,
                         53.459305
                   ]
+            },
+            {
+                  "name": "Burg Wentorf",
+                  "text": "Archäologische Stätte einer ehemaligen Niederungsburg in der Nähe von Hamburg-Bergedorf.",
+                  "category": "historical",
+                  "coords": [
+                        10.250582,
+                        53.494481
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Hamburg-Lohbrügge",
+                  "text": "Markanter Fernmeldeturm aus Stahlbeton in Hamburg-Lohbrügge, der als Sendeanlage dient.",
+                  "category": "tower",
+                  "coords": [
+                        10.190561,
+                        53.499614
+                  ]
             }
       ],
       "hu": [
@@ -940,6 +2326,24 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.214595,
                         53.459305
+                  ]
+            },
+            {
+                  "name": "Burg Wentorf",
+                  "text": "Egy egykori alföldi vár régészeti lelőhelye Hamburg-Bergedorf közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.250582,
+                        53.494481
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Hamburg-Lohbrügge",
+                  "text": "Jellegzetes vasbeton távközlési torony Hamburg-Lohbrüggében, amely adótoronyként szolgál.",
+                  "category": "tower",
+                  "coords": [
+                        10.190561,
+                        53.499614
                   ]
             }
       ],
@@ -983,6 +2387,24 @@ export const poiExtraDe4b: POI[] = [
                         10.214595,
                         53.459305
                   ]
+            },
+            {
+                  "name": "Burg Wentorf",
+                  "text": "Sit arheologic al unei foste cetăți de câmpie în apropiere de Hamburg-Bergedorf.",
+                  "category": "historical",
+                  "coords": [
+                        10.250582,
+                        53.494481
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Hamburg-Lohbrügge",
+                  "text": "Turn de telecomunicații proeminent din beton armat în Hamburg-Lohbrügge, servind ca emițător.",
+                  "category": "tower",
+                  "coords": [
+                        10.190561,
+                        53.499614
+                  ]
             }
       ],
       "en": [
@@ -1024,6 +2446,24 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.214595,
                         53.459305
+                  ]
+            },
+            {
+                  "name": "Burg Wentorf",
+                  "text": "Archaeological site of a former lowland castle located near Hamburg-Bergedorf.",
+                  "category": "historical",
+                  "coords": [
+                        10.250582,
+                        53.494481
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Hamburg-Lohbrügge",
+                  "text": "Prominent reinforced concrete telecommunication tower in Hamburg-Lohbrügge, serving as a transmitter.",
+                  "category": "tower",
+                  "coords": [
+                        10.190561,
+                        53.499614
                   ]
             }
       ]
@@ -1281,6 +2721,60 @@ export const poiExtraDe4b: POI[] = [
                         9.98743,
                         53.45522
                   ]
+            },
+            {
+                  "name": "electrum - Museum der Elektrizität",
+                  "text": "Ein Museum in Harburg, das die Geschichte und Entwicklung der Elektrizität dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.98173,
+                        53.464306
+                  ]
+            },
+            {
+                  "name": "Harburger Schloss",
+                  "text": "Das historische Schloss liegt auf der Schlossinsel im Hamburger Stadtteil Harburg.",
+                  "category": "castle",
+                  "coords": [
+                        9.985318,
+                        53.469629
+                  ]
+            },
+            {
+                  "name": "Badestelle Finkenriek",
+                  "text": "Eine öffentliche Badestelle im Hamburger Süden für sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        10.002285,
+                        53.473998
+                  ]
+            },
+            {
+                  "name": "Neuländer Moorwiesen",
+                  "text": "Ein Naturschutzgebiet mit typischer Moorlandschaft in Harburg.",
+                  "category": "natural",
+                  "coords": [
+                        10.036997,
+                        53.457915
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof Harburg",
+                  "text": "Ein historischer Friedhof, der heute als parkähnliche Grünanlage zur Erholung dient.",
+                  "category": "park",
+                  "coords": [
+                        9.980182,
+                        53.455845
+                  ]
+            },
+            {
+                  "name": "Max-Schmeling-Park",
+                  "text": "Eine städtische Grünanlage in Harburg, benannt nach dem berühmten deutschen Boxer.",
+                  "category": "park",
+                  "coords": [
+                        9.979096,
+                        53.458851
+                  ]
             }
       ],
       "hu": [
@@ -1332,6 +2826,60 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.98743,
                         53.45522
+                  ]
+            },
+            {
+                  "name": "electrum - Museum der Elektrizität",
+                  "text": "Harburgi múzeum, amely az elektromosság történetét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.98173,
+                        53.464306
+                  ]
+            },
+            {
+                  "name": "Harburger Schloss",
+                  "text": "Történelmi kastély Hamburg Harburg negyedében, a várkastély-szigeten.",
+                  "category": "castle",
+                  "coords": [
+                        9.985318,
+                        53.469629
+                  ]
+            },
+            {
+                  "name": "Badestelle Finkenriek",
+                  "text": "Nyilvános fürdőhely Hamburg déli részén, ideális nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        10.002285,
+                        53.473998
+                  ]
+            },
+            {
+                  "name": "Neuländer Moorwiesen",
+                  "text": "Természetvédelmi terület jellegzetes lápi tájjal Harburgban.",
+                  "category": "natural",
+                  "coords": [
+                        10.036997,
+                        53.457915
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof Harburg",
+                  "text": "Történelmi temető, amely ma parkosított zöldterületként szolgál Harburgban.",
+                  "category": "park",
+                  "coords": [
+                        9.980182,
+                        53.455845
+                  ]
+            },
+            {
+                  "name": "Max-Schmeling-Park",
+                  "text": "Harburgi városi park, amelyet a híres német ökölvívóról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        9.979096,
+                        53.458851
                   ]
             }
       ],
@@ -1385,6 +2933,60 @@ export const poiExtraDe4b: POI[] = [
                         9.98743,
                         53.45522
                   ]
+            },
+            {
+                  "name": "electrum - Museum der Elektrizität",
+                  "text": "Un muzeu din Harburg care documentează istoria și dezvoltarea electricității.",
+                  "category": "museum",
+                  "coords": [
+                        9.98173,
+                        53.464306
+                  ]
+            },
+            {
+                  "name": "Harburger Schloss",
+                  "text": "Castelul istoric este situat pe insula castelului din cartierul Harburg din Hamburg.",
+                  "category": "castle",
+                  "coords": [
+                        9.985318,
+                        53.469629
+                  ]
+            },
+            {
+                  "name": "Badestelle Finkenriek",
+                  "text": "Un loc public de scăldat în sudul Hamburgului pentru recreere de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        10.002285,
+                        53.473998
+                  ]
+            },
+            {
+                  "name": "Neuländer Moorwiesen",
+                  "text": "O rezervație naturală cu peisaj tipic de mlaștină în Harburg.",
+                  "category": "natural",
+                  "coords": [
+                        10.036997,
+                        53.457915
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof Harburg",
+                  "text": "Un cimitir istoric care servește astăzi ca zonă verde de tip parc pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        9.980182,
+                        53.455845
+                  ]
+            },
+            {
+                  "name": "Max-Schmeling-Park",
+                  "text": "Un spațiu verde urban în Harburg, numit după celebrul boxer german.",
+                  "category": "park",
+                  "coords": [
+                        9.979096,
+                        53.458851
+                  ]
             }
       ],
       "en": [
@@ -1436,6 +3038,60 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.98743,
                         53.45522
+                  ]
+            },
+            {
+                  "name": "electrum - Museum der Elektrizität",
+                  "text": "A museum in Harburg documenting the history and development of electricity.",
+                  "category": "museum",
+                  "coords": [
+                        9.98173,
+                        53.464306
+                  ]
+            },
+            {
+                  "name": "Harburger Schloss",
+                  "text": "The historic castle is located on the castle island in the Harburg district of Hamburg.",
+                  "category": "castle",
+                  "coords": [
+                        9.985318,
+                        53.469629
+                  ]
+            },
+            {
+                  "name": "Badestelle Finkenriek",
+                  "text": "A public swimming spot in southern Hamburg ideal for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        10.002285,
+                        53.473998
+                  ]
+            },
+            {
+                  "name": "Neuländer Moorwiesen",
+                  "text": "A nature reserve featuring typical moorland landscapes in Harburg.",
+                  "category": "natural",
+                  "coords": [
+                        10.036997,
+                        53.457915
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof Harburg",
+                  "text": "A historic cemetery that now serves as a park-like green space for recreation.",
+                  "category": "park",
+                  "coords": [
+                        9.980182,
+                        53.455845
+                  ]
+            },
+            {
+                  "name": "Max-Schmeling-Park",
+                  "text": "A municipal green space in Harburg named after the famous German boxer.",
+                  "category": "park",
+                  "coords": [
+                        9.979096,
+                        53.458851
                   ]
             }
       ]
@@ -2334,6 +3990,42 @@ export const poiExtraDe4b: POI[] = [
                         7.189639,
                         49.343187
                   ]
+            },
+            {
+                  "name": "Kasbruch",
+                  "text": "Das Naturschutzgebiet Kasbruch beherbergt bedeutende archäologische Funde aus der Römerzeit.",
+                  "category": "natural",
+                  "coords": [
+                        7.210993,
+                        49.334481
+                  ]
+            },
+            {
+                  "name": "Bliesaue",
+                  "text": "Die Bliesaue ist ein wichtiges Naturschutzgebiet in den Auenlandschaften entlang des Flusses Blies.",
+                  "category": "natural",
+                  "coords": [
+                        7.178876,
+                        49.366673
+                  ]
+            },
+            {
+                  "name": "Die Lakai",
+                  "text": "Die Lakai ist ein beliebtes Freizeit- und Sportbad in Neunkirchen mit verschiedenen Wasserattraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.198485,
+                        49.327177
+                  ]
+            },
+            {
+                  "name": "Elefanten-Turm",
+                  "text": "Der Elefanten-Turm ist ein markanter historischer Wasserturm auf dem Gelände des ehemaligen Eisenwerks.",
+                  "category": "tower",
+                  "coords": [
+                        7.207226,
+                        49.345672
+                  ]
             }
       ],
       "hu": [
@@ -2375,6 +4067,42 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.189639,
                         49.343187
+                  ]
+            },
+            {
+                  "name": "Kasbruch",
+                  "text": "A Kasbruch természetvédelmi terület fontos római kori régészeti leleteket őriz.",
+                  "category": "natural",
+                  "coords": [
+                        7.210993,
+                        49.334481
+                  ]
+            },
+            {
+                  "name": "Bliesaue",
+                  "text": "A Bliesaue egy fontos természetvédelmi terület a Blies folyó menti ártéri tájakon.",
+                  "category": "natural",
+                  "coords": [
+                        7.178876,
+                        49.366673
+                  ]
+            },
+            {
+                  "name": "Die Lakai",
+                  "text": "A Die Lakai egy népszerű szabadidős és sportuszoda Neunkirchenben, különféle vízi attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.198485,
+                        49.327177
+                  ]
+            },
+            {
+                  "name": "Elefanten-Turm",
+                  "text": "Az Elefanten-Turm az egykori vasmű területén álló jellegzetes történelmi víztorony.",
+                  "category": "tower",
+                  "coords": [
+                        7.207226,
+                        49.345672
                   ]
             }
       ],
@@ -2418,6 +4146,42 @@ export const poiExtraDe4b: POI[] = [
                         7.189639,
                         49.343187
                   ]
+            },
+            {
+                  "name": "Kasbruch",
+                  "text": "Rezervația naturală Kasbruch adăpostește vestigii arheologice importante din epoca romană.",
+                  "category": "natural",
+                  "coords": [
+                        7.210993,
+                        49.334481
+                  ]
+            },
+            {
+                  "name": "Bliesaue",
+                  "text": "Bliesaue este o rezervație naturală importantă situată în luncile din lungul râului Blies.",
+                  "category": "natural",
+                  "coords": [
+                        7.178876,
+                        49.366673
+                  ]
+            },
+            {
+                  "name": "Die Lakai",
+                  "text": "Die Lakai este un complex acvatic popular din Neunkirchen, oferind diverse facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        7.198485,
+                        49.327177
+                  ]
+            },
+            {
+                  "name": "Elefanten-Turm",
+                  "text": "Elefanten-Turm este un turn de apă istoric situat pe amplasamentul fostei uzine siderurgice.",
+                  "category": "tower",
+                  "coords": [
+                        7.207226,
+                        49.345672
+                  ]
             }
       ],
       "en": [
@@ -2459,6 +4223,42 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.189639,
                         49.343187
+                  ]
+            },
+            {
+                  "name": "Kasbruch",
+                  "text": "The Kasbruch nature reserve is home to significant archaeological finds from the Roman era.",
+                  "category": "natural",
+                  "coords": [
+                        7.210993,
+                        49.334481
+                  ]
+            },
+            {
+                  "name": "Bliesaue",
+                  "text": "The Bliesaue is an important nature reserve located in the floodplains along the Blies river.",
+                  "category": "natural",
+                  "coords": [
+                        7.178876,
+                        49.366673
+                  ]
+            },
+            {
+                  "name": "Die Lakai",
+                  "text": "Die Lakai is a popular leisure and sports pool in Neunkirchen featuring various water attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        7.198485,
+                        49.327177
+                  ]
+            },
+            {
+                  "name": "Elefanten-Turm",
+                  "text": "The Elefanten-Turm is a striking historic water tower located on the site of the former ironworks.",
+                  "category": "tower",
+                  "coords": [
+                        7.207226,
+                        49.345672
                   ]
             }
       ]
@@ -2572,6 +4372,78 @@ export const poiExtraDe4b: POI[] = [
                         7.312092,
                         49.362156
                   ]
+            },
+            {
+                  "name": "Burgruine Hohenburg",
+                  "text": "Mittelalterliche Burgruine auf dem Schlossberg mit weitem Blick über die Stadt Homburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.344307,
+                        49.320593
+                  ]
+            },
+            {
+                  "name": "Burgruine Merburg",
+                  "text": "Überreste einer mittelalterlichen Turmhügelburg im Homburger Stadtteil Kirrberg.",
+                  "category": "castle",
+                  "coords": [
+                        7.375966,
+                        49.312432
+                  ]
+            },
+            {
+                  "name": "Closenbruch",
+                  "text": "Ein wertvolles Feuchtgebiet und Naturschutzgebiet im nordöstlichen Teil von Homburg.",
+                  "category": "natural",
+                  "coords": [
+                        7.358185,
+                        49.334295
+                  ]
+            },
+            {
+                  "name": "Keltischer Grabhügel",
+                  "text": "Ein archäologisches Bodendenkmal aus der Keltenzeit im Homburger Stadtwald.",
+                  "category": "historical",
+                  "coords": [
+                        7.359066,
+                        49.313205
+                  ]
+            },
+            {
+                  "name": "Homburger Aqualit",
+                  "text": "Eine öffentliche Einrichtung in Homburg, die Besuchern Einblicke in die Welt der Aquaristik bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.340626,
+                        49.322984
+                  ]
+            },
+            {
+                  "name": "Zollbahnhof",
+                  "text": "Ein zum Naturschutzgebiet umgewandeltes ehemaliges Bahngelände mit schutzwürdigen Biotopen.",
+                  "category": "natural",
+                  "coords": [
+                        7.308453,
+                        49.319373
+                  ]
+            },
+            {
+                  "name": "Landschaftsschutzgebiet Binnendüne",
+                  "text": "Naturschutzgebiet zum Erhalt seltener Binnendünen-Formationen in der Umgebung von Homburg.",
+                  "category": "natural",
+                  "coords": [
+                        7.358904,
+                        49.326556
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Gedenkstätte und Überreste der historischen Synagoge im Stadtzentrum von Homburg.",
+                  "category": "historical",
+                  "coords": [
+                        7.342048,
+                        49.321351
+                  ]
             }
       ],
       "hu": [
@@ -2613,6 +4485,78 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.312092,
                         49.362156
+                  ]
+            },
+            {
+                  "name": "Burgruine Hohenburg",
+                  "text": "Középkori várrom a Schlossberg-en, ahonnan pazar kilátás nyílik Homburg városára.",
+                  "category": "castle",
+                  "coords": [
+                        7.344307,
+                        49.320593
+                  ]
+            },
+            {
+                  "name": "Burgruine Merburg",
+                  "text": "Egy középkori motte típusú vár maradványai Homburg Kirrberg városrészében.",
+                  "category": "castle",
+                  "coords": [
+                        7.375966,
+                        49.312432
+                  ]
+            },
+            {
+                  "name": "Closenbruch",
+                  "text": "Értékes vizes élőhely és természetvédelmi terület Homburg északkeleti részén.",
+                  "category": "natural",
+                  "coords": [
+                        7.358185,
+                        49.334295
+                  ]
+            },
+            {
+                  "name": "Keltischer Grabhügel",
+                  "text": "Kelta időkből származó régészeti emlékhely a homburgi városi erdő területén.",
+                  "category": "historical",
+                  "coords": [
+                        7.359066,
+                        49.313205
+                  ]
+            },
+            {
+                  "name": "Homburger Aqualit",
+                  "text": "Homburgi közintézmény, amely betekintést nyújt a látogatóknak az akvarisztika világába.",
+                  "category": "recreational",
+                  "coords": [
+                        7.340626,
+                        49.322984
+                  ]
+            },
+            {
+                  "name": "Zollbahnhof",
+                  "text": "Természetvédelmi területté alakított egykori vasúti terület védett biotópokkal.",
+                  "category": "natural",
+                  "coords": [
+                        7.308453,
+                        49.319373
+                  ]
+            },
+            {
+                  "name": "Landschaftsschutzgebiet Binnendüne",
+                  "text": "Természetvédelmi terület a ritka belföldi dűneformációk megőrzésére Homburg környékén.",
+                  "category": "natural",
+                  "coords": [
+                        7.358904,
+                        49.326556
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Emlékhely és a történelmi zsinagóga maradványai Homburg városközpontjában.",
+                  "category": "historical",
+                  "coords": [
+                        7.342048,
+                        49.321351
                   ]
             }
       ],
@@ -2656,6 +4600,78 @@ export const poiExtraDe4b: POI[] = [
                         7.312092,
                         49.362156
                   ]
+            },
+            {
+                  "name": "Burgruine Hohenburg",
+                  "text": "Ruinele unui castel medieval situat pe Schlossberg, cu o vedere panoramică asupra orașului Homburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.344307,
+                        49.320593
+                  ]
+            },
+            {
+                  "name": "Burgruine Merburg",
+                  "text": "Vestigiile unui castel medieval de tip motte din districtul Kirrberg al orașului Homburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.375966,
+                        49.312432
+                  ]
+            },
+            {
+                  "name": "Closenbruch",
+                  "text": "O zonă umedă valoroasă și rezervație naturală situată în partea de nord-est a orașului Homburg.",
+                  "category": "natural",
+                  "coords": [
+                        7.358185,
+                        49.334295
+                  ]
+            },
+            {
+                  "name": "Keltischer Grabhügel",
+                  "text": "Un sit arheologic din perioada celtică situat în pădurea orașului Homburg.",
+                  "category": "historical",
+                  "coords": [
+                        7.359066,
+                        49.313205
+                  ]
+            },
+            {
+                  "name": "Homburger Aqualit",
+                  "text": "O facilitate publică din Homburg care oferă vizitatorilor o incursiune în lumea acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        7.340626,
+                        49.322984
+                  ]
+            },
+            {
+                  "name": "Zollbahnhof",
+                  "text": "Un fost amplasament feroviar transformat în rezervație naturală cu biotopuri protejate.",
+                  "category": "natural",
+                  "coords": [
+                        7.308453,
+                        49.319373
+                  ]
+            },
+            {
+                  "name": "Landschaftsschutzgebiet Binnendüne",
+                  "text": "Rezervație naturală pentru conservarea formațiunilor rare de dune interioare de lângă Homburg.",
+                  "category": "natural",
+                  "coords": [
+                        7.358904,
+                        49.326556
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Loc memorial și resturi ale sinagogii istorice din centrul orașului Homburg.",
+                  "category": "historical",
+                  "coords": [
+                        7.342048,
+                        49.321351
+                  ]
             }
       ],
       "en": [
@@ -2697,6 +4713,78 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.312092,
                         49.362156
+                  ]
+            },
+            {
+                  "name": "Burgruine Hohenburg",
+                  "text": "Medieval castle ruins on the Schlossberg offering panoramic views over the city of Homburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.344307,
+                        49.320593
+                  ]
+            },
+            {
+                  "name": "Burgruine Merburg",
+                  "text": "Remains of a medieval motte-and-bailey castle in the Kirrberg district of Homburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.375966,
+                        49.312432
+                  ]
+            },
+            {
+                  "name": "Closenbruch",
+                  "text": "A valuable wetland and nature reserve located in the northeastern part of Homburg.",
+                  "category": "natural",
+                  "coords": [
+                        7.358185,
+                        49.334295
+                  ]
+            },
+            {
+                  "name": "Keltischer Grabhügel",
+                  "text": "An archaeological site from the Celtic era located in the Homburg city forest.",
+                  "category": "historical",
+                  "coords": [
+                        7.359066,
+                        49.313205
+                  ]
+            },
+            {
+                  "name": "Homburger Aqualit",
+                  "text": "A public facility in Homburg offering visitors insights into the world of aquatics.",
+                  "category": "recreational",
+                  "coords": [
+                        7.340626,
+                        49.322984
+                  ]
+            },
+            {
+                  "name": "Zollbahnhof",
+                  "text": "A former railway area converted into a nature reserve with protected biotopes.",
+                  "category": "natural",
+                  "coords": [
+                        7.308453,
+                        49.319373
+                  ]
+            },
+            {
+                  "name": "Landschaftsschutzgebiet Binnendüne",
+                  "text": "Nature reserve for the preservation of rare inland dune formations near Homburg.",
+                  "category": "natural",
+                  "coords": [
+                        7.358904,
+                        49.326556
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Memorial site and remains of the historic synagogue in the city center of Homburg.",
+                  "category": "historical",
+                  "coords": [
+                        7.342048,
+                        49.321351
                   ]
             }
       ]

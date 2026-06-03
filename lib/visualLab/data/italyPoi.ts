@@ -2343,7 +2343,592 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-lecce",
+    id: "it-lecce", "sights": {
+      "de": [
+            {
+                  "name": "Museo Archeologico Faggiano",
+                  "text": "Privatmuseum in Lecce, in dem bei Bauarbeiten archäologische Überreste entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        18.172383,
+                        40.350109
+                  ]
+            },
+            {
+                  "name": "Museo del Teatro Romano",
+                  "text": "Museum in Lecce, das Fundstücke aus dem antiken römischen Theater der Stadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.170293,
+                        40.351728
+                  ]
+            },
+            {
+                  "name": "Museo Ebraico",
+                  "text": "Museum in Lecce, das die Geschichte der örtlichen jüdischen Gemeinde illustriert.",
+                  "category": "museum",
+                  "coords": [
+                        18.172795,
+                        40.354546
+                  ]
+            },
+            {
+                  "name": "Museo Storico-Archeologico dell'Università del Salento",
+                  "text": "Universitätsmuseum in Lecce mit Schwerpunkt auf der historischen und archäologischen Forschung im Salento.",
+                  "category": "museum",
+                  "coords": [
+                        18.166341,
+                        40.358633
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama Greco",
+                  "text": "Ein bedeutendes Opernhaus aus dem späten 19. Jahrhundert, bekannt für seine prächtige Architektur und Akustik.",
+                  "category": "cultural",
+                  "coords": [
+                        18.174816,
+                        40.353118
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano di Lecce",
+                  "text": "Ein beeindruckendes römisches Amphitheater an der Piazza Sant'Oronzo, das einst Platz für 25.000 Zuschauer bot.",
+                  "category": "historical",
+                  "coords": [
+                        18.172464,
+                        40.352545
+                  ]
+            },
+            {
+                  "name": "Teatro Paisiello",
+                  "text": "Das älteste Theater der Stadt, ein architektonisches Juwel, das dem Komponisten Giovanni Paisiello gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        18.168796,
+                        40.355592
+                  ]
+            },
+            {
+                  "name": "Parco Archeologico Rudiae",
+                  "text": "Archäologische Stätte der antiken Stadt Rudiae, dem Geburtsort des römischen Dichters Ennius.",
+                  "category": "historical",
+                  "coords": [
+                        18.147275,
+                        40.333432
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario della Puglia",
+                  "text": "Ein interessantes Eisenbahnmuseum, das historische Lokomotiven und Waggons aus der Region Apulien ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        18.167477,
+                        40.343963
+                  ]
+            },
+            {
+                  "name": "Museo Sigismondo Castromediano",
+                  "text": "Das älteste Museum Apuliens mit einer bedeutenden Sammlung archäologischer Funde und lokaler Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        18.170351,
+                        40.346977
+                  ]
+            },
+            {
+                  "name": "Buchdruckmuseum",
+                  "text": "Ein Museum zur Geschichte des Buchdrucks, das historische Druckpressen und Schriftsetzer-Werkzeuge zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.168628,
+                        40.349828
+                  ]
+            },
+            {
+                  "name": "Museo Arte Sacra",
+                  "text": "Ein Museum in Lecce, das sakraler Kunst und historischen liturgischen Gegenständen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.168287,
+                        40.351972
+                  ]
+            },
+            {
+                  "name": "Villa Comunale Giuseppe Garibaldi",
+                  "text": "Ein öffentlicher Park im Herzen von Lecce mit Grünflächen und Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        18.175015,
+                        40.355142
+                  ]
+            },
+            {
+                  "name": "Parco delle Cave di Marco Vito",
+                  "text": "Ein malerischer Stadtpark in Lecce, der sich auf dem Gelände eines ehemaligen Steinbruchs befindet.",
+                  "category": "park",
+                  "coords": [
+                        18.164658,
+                        40.343879
+                  ]
+            },
+            {
+                  "name": "Basilica di San Giovanni Battista al Rosario",
+                  "text": "Eine Barockkirche in Lecce, entworfen von Giuseppe Zimbalo, bekannt für ihre reich verzierte Fassade.",
+                  "category": "religious",
+                  "coords": [
+                        18.165204,
+                        40.351102
+                  ]
+            },
+            {
+                  "name": "Duomo di Lecce",
+                  "text": "Die zentrale Kathedrale von Lecce an der Piazza del Duomo, die im Barockstil umgebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        18.169327,
+                        40.351777
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Archeologico Faggiano",
+                  "text": "Magánmúzeum Leccében, ahol egy épület felújítása során találtak régészeti maradványokat.",
+                  "category": "museum",
+                  "coords": [
+                        18.172383,
+                        40.350109
+                  ]
+            },
+            {
+                  "name": "Museo del Teatro Romano",
+                  "text": "Múzeum Leccében, amely a város antik római színházából származó leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.170293,
+                        40.351728
+                  ]
+            },
+            {
+                  "name": "Museo Ebraico",
+                  "text": "Leccsei múzeum, amely a helyi zsidó közösség történelmét szemlélteti.",
+                  "category": "museum",
+                  "coords": [
+                        18.172795,
+                        40.354546
+                  ]
+            },
+            {
+                  "name": "Museo Storico-Archeologico dell'Università del Salento",
+                  "text": "Egyetemi múzeum Leccében, amely Salento történelmi és régészeti kutatásaira összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        18.166341,
+                        40.358633
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama Greco",
+                  "text": "Lecce 19. század végén megnyitott operaháza, amely a város egyik legfontosabb kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        18.174816,
+                        40.353118
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano di Lecce",
+                  "text": "A Piazza Sant'Oronzo téren található lenyűgöző római amfiteátrum, amely egykor 25 000 néző befogadására volt alkalmas.",
+                  "category": "historical",
+                  "coords": [
+                        18.172464,
+                        40.352545
+                  ]
+            },
+            {
+                  "name": "Teatro Paisiello",
+                  "text": "Lecce legrégebbi színháza, egy építészeti gyöngyszem, amelyet Giovanni Paisiello zeneszerzőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        18.168796,
+                        40.355592
+                  ]
+            },
+            {
+                  "name": "Parco Archeologico Rudiae",
+                  "text": "Rudiae ókori városának régészeti területe, amely Ennius római költő szülőhelyeként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        18.147275,
+                        40.333432
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario della Puglia",
+                  "text": "Érdekes vasúttörténeti múzeum, amely Puglia régió régi mozdonyait és vasúti kocsijait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.167477,
+                        40.343963
+                  ]
+            },
+            {
+                  "name": "Museo Sigismondo Castromediano",
+                  "text": "Puglia legrégebbi múzeuma, amely jelentős régészeti leleteket és helyi művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        18.170351,
+                        40.346977
+                  ]
+            },
+            {
+                  "name": "Museo della Stampa",
+                  "text": "A könyvnyomtatás történetét bemutató múzeum, ahol régi nyomdagépeket és szedőeszközöket láthatunk.",
+                  "category": "museum",
+                  "coords": [
+                        18.168628,
+                        40.349828
+                  ]
+            },
+            {
+                  "name": "Museo Arte Sacra",
+                  "text": "Vallási művészeti alkotásokat és liturgikus tárgyakat bemutató múzeum Lecce városában.",
+                  "category": "museum",
+                  "coords": [
+                        18.168287,
+                        40.351972
+                  ]
+            },
+            {
+                  "name": "Villa Comunale Giuseppe Garibaldi",
+                  "text": "Lecce központjában található nyilvános park zöldfelületekkel és sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        18.175015,
+                        40.355142
+                  ]
+            },
+            {
+                  "name": "Parco delle Cave di Marco Vito",
+                  "text": "Látványos városi park Leccében, amely egy egykori kőfejtő területén jött létre.",
+                  "category": "park",
+                  "coords": [
+                        18.164658,
+                        40.343879
+                  ]
+            },
+            {
+                  "name": "Basilica di San Giovanni Battista al Rosario",
+                  "text": "Giuseppe Zimbalo által tervezett barokk templom Leccében, amely díszes homlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        18.165204,
+                        40.351102
+                  ]
+            },
+            {
+                  "name": "Duomo di Lecce",
+                  "text": "Lecce központi székesegyháza a Piazza del Duomo téren, amely barokk stílusban épült újjá.",
+                  "category": "religious",
+                  "coords": [
+                        18.169327,
+                        40.351777
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Archeologico Faggiano",
+                  "text": "Muzeu privat în Lecce unde au fost găsite vestigii arheologice în timpul reparațiilor clădirii.",
+                  "category": "museum",
+                  "coords": [
+                        18.172383,
+                        40.350109
+                  ]
+            },
+            {
+                  "name": "Museo del Teatro Romano",
+                  "text": "Muzeu în Lecce care expune descoperiri din teatrul roman antic al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        18.170293,
+                        40.351728
+                  ]
+            },
+            {
+                  "name": "Museo Ebraico",
+                  "text": "Muzeu în Lecce care ilustrează istoria comunității evreiești locale.",
+                  "category": "museum",
+                  "coords": [
+                        18.172795,
+                        40.354546
+                  ]
+            },
+            {
+                  "name": "Museo Storico-Archeologico dell'Università del Salento",
+                  "text": "Muzeu universitar în Lecce axat pe cercetarea istorică și arheologică a Salento.",
+                  "category": "museum",
+                  "coords": [
+                        18.166341,
+                        40.358633
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama Greco",
+                  "text": "O operă importantă de la sfârșitul secolului al XIX-lea, cunoscută pentru arhitectura sa și evenimentele culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.174816,
+                        40.353118
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano di Lecce",
+                  "text": "Un amfiteatru roman impresionant situat în Piazza Sant'Oronzo, care putea găzdui odinioară 25.000 de spectatori.",
+                  "category": "historical",
+                  "coords": [
+                        18.172464,
+                        40.352545
+                  ]
+            },
+            {
+                  "name": "Teatro Paisiello",
+                  "text": "Cel mai vechi teatru din oraș, o bijuterie arhitecturală dedicată compozitorului Giovanni Paisiello.",
+                  "category": "cultural",
+                  "coords": [
+                        18.168796,
+                        40.355592
+                  ]
+            },
+            {
+                  "name": "Parco Archeologico Rudiae",
+                  "text": "Situl arheologic al orașului antic Rudiae, cunoscut ca locul de naștere al poetului roman Ennius.",
+                  "category": "historical",
+                  "coords": [
+                        18.147275,
+                        40.333432
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario della Puglia",
+                  "text": "Un muzeu feroviar interesant care expune locomotive și vagoane istorice din regiunea Puglia.",
+                  "category": "museum",
+                  "coords": [
+                        18.167477,
+                        40.343963
+                  ]
+            },
+            {
+                  "name": "Museo Sigismondo Castromediano",
+                  "text": "Cel mai vechi muzeu din Puglia, găzduind o colecție importantă de descoperiri arheologice și artă locală.",
+                  "category": "museum",
+                  "coords": [
+                        18.170351,
+                        40.346977
+                  ]
+            },
+            {
+                  "name": "Museo della Stampa",
+                  "text": "Un muzeu despre istoria tiparului, care expune prese istorice și instrumente tipografice vechi.",
+                  "category": "museum",
+                  "coords": [
+                        18.168628,
+                        40.349828
+                  ]
+            },
+            {
+                  "name": "Museo Arte Sacra",
+                  "text": "Un muzeu din Lecce dedicat artei sacre și obiectelor liturgice istorice.",
+                  "category": "museum",
+                  "coords": [
+                        18.168287,
+                        40.351972
+                  ]
+            },
+            {
+                  "name": "Villa Comunale Giuseppe Garibaldi",
+                  "text": "Un parc public în inima orașului Lecce, oferind spații verzi și alei de promenadă.",
+                  "category": "park",
+                  "coords": [
+                        18.175015,
+                        40.355142
+                  ]
+            },
+            {
+                  "name": "Parco delle Cave di Marco Vito",
+                  "text": "Un parc urban pitoresc din Lecce situat în zona unei foste cariere de piatră.",
+                  "category": "park",
+                  "coords": [
+                        18.164658,
+                        40.343879
+                  ]
+            },
+            {
+                  "name": "Basilica di San Giovanni Battista al Rosario",
+                  "text": "O biserică barocă din Lecce proiectată de Giuseppe Zimbalo, cunoscută pentru fațada sa bogat ornamentată.",
+                  "category": "religious",
+                  "coords": [
+                        18.165204,
+                        40.351102
+                  ]
+            },
+            {
+                  "name": "Duomo di Lecce",
+                  "text": "Catedrala centrală din Lecce, situată în Piazza del Duomo și reconstruită în stil baroc.",
+                  "category": "religious",
+                  "coords": [
+                        18.169327,
+                        40.351777
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Archeologico Faggiano",
+                  "text": "Private museum in Lecce where archaeological remains were found during building repairs.",
+                  "category": "museum",
+                  "coords": [
+                        18.172383,
+                        40.350109
+                  ]
+            },
+            {
+                  "name": "Museo del Teatro Romano",
+                  "text": "Museum in Lecce showcasing finds from the city's ancient Roman theatre.",
+                  "category": "museum",
+                  "coords": [
+                        18.170293,
+                        40.351728
+                  ]
+            },
+            {
+                  "name": "Jewish Museum",
+                  "text": "Museum in Lecce illustrating the history of the local Jewish community.",
+                  "category": "museum",
+                  "coords": [
+                        18.172795,
+                        40.354546
+                  ]
+            },
+            {
+                  "name": "Museo Storico-Archeologico dell'Università del Salento",
+                  "text": "University museum in Lecce focusing on the historical and archaeological research of Salento.",
+                  "category": "museum",
+                  "coords": [
+                        18.166341,
+                        40.358633
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama Greco",
+                  "text": "A major opera house from the late 19th century, serving as one of Lecce's most important cultural venues.",
+                  "category": "cultural",
+                  "coords": [
+                        18.174816,
+                        40.353118
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano di Lecce",
+                  "text": "An impressive Roman amphitheater in Piazza Sant'Oronzo that once held up to 25,000 spectators.",
+                  "category": "historical",
+                  "coords": [
+                        18.172464,
+                        40.352545
+                  ]
+            },
+            {
+                  "name": "Teatro Paisiello",
+                  "text": "The oldest theater in the city, an architectural gem dedicated to the composer Giovanni Paisiello.",
+                  "category": "cultural",
+                  "coords": [
+                        18.168796,
+                        40.355592
+                  ]
+            },
+            {
+                  "name": "Parco Archeologico Rudiae",
+                  "text": "Archaeological site of the ancient city of Rudiae, known as the birthplace of the Roman poet Ennius.",
+                  "category": "historical",
+                  "coords": [
+                        18.147275,
+                        40.333432
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario della Puglia",
+                  "text": "An interesting railway museum showcasing historic locomotives and carriages from the Puglia region.",
+                  "category": "museum",
+                  "coords": [
+                        18.167477,
+                        40.343963
+                  ]
+            },
+            {
+                  "name": "Museo Sigismondo Castromediano",
+                  "text": "The oldest museum in Puglia, housing an important collection of archaeological finds and local artwork.",
+                  "category": "museum",
+                  "coords": [
+                        18.170351,
+                        40.346977
+                  ]
+            },
+            {
+                  "name": "Museo della Stampa",
+                  "text": "A museum dedicated to the history of printing, displaying historic presses and typesetting tools.",
+                  "category": "museum",
+                  "coords": [
+                        18.168628,
+                        40.349828
+                  ]
+            },
+            {
+                  "name": "Museum of Sacred Art",
+                  "text": "A museum in Lecce dedicated to religious art and historical liturgical objects.",
+                  "category": "museum",
+                  "coords": [
+                        18.168287,
+                        40.351972
+                  ]
+            },
+            {
+                  "name": "Villa Comunale Giuseppe Garibaldi",
+                  "text": "A public park in the heart of Lecce, offering green spaces and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        18.175015,
+                        40.355142
+                  ]
+            },
+            {
+                  "name": "Parco delle Cave di Marco Vito",
+                  "text": "A scenic urban park in Lecce located in a former stone quarry area.",
+                  "category": "park",
+                  "coords": [
+                        18.164658,
+                        40.343879
+                  ]
+            },
+            {
+                  "name": "Basilica di San Giovanni Battista al Rosario",
+                  "text": "A Baroque church in Lecce designed by Giuseppe Zimbalo, known for its ornate facade.",
+                  "category": "religious",
+                  "coords": [
+                        18.165204,
+                        40.351102
+                  ]
+            },
+            {
+                  "name": "Lecce Cathedral",
+                  "text": "The central cathedral of Lecce, located in the Piazza del Duomo and rebuilt in the Baroque style.",
+                  "category": "religious",
+                  "coords": [
+                        18.169327,
+                        40.351777
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT-75",
     coords: [18.169, 40.353],
@@ -2469,7 +3054,88 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-perugia",
+    id: "it-perugia", "sights": {
+      "de": [
+            {
+                  "name": "Teatro del Pavone",
+                  "text": "Ein privates Theater aus dem 18. Jahrhundert im historischen Zentrum von Perugia.",
+                  "category": "cultural",
+                  "coords": [
+                        12.38809,
+                        43.110248
+                  ]
+            },
+            {
+                  "name": "Casa Museo Palazzo Sorbello",
+                  "text": "Ein Adelspalast aus dem 17. Jahrhundert mit bedeutenden Kunstsammlungen und einer Bibliothek.",
+                  "category": "museum",
+                  "coords": [
+                        12.390425,
+                        43.112677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro del Pavone",
+                  "text": "18. századi magánszínház Perugia történelmi központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.38809,
+                        43.110248
+                  ]
+            },
+            {
+                  "name": "Casa Museo Palazzo Sorbello",
+                  "text": "17. századi nemesi palota jelentős művészeti gyűjteménnyel és könyvtárral.",
+                  "category": "museum",
+                  "coords": [
+                        12.390425,
+                        43.112677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro del Pavone",
+                  "text": "Un teatru privat din secolul al XVIII-lea situat în centrul istoric al orașului Perugia.",
+                  "category": "cultural",
+                  "coords": [
+                        12.38809,
+                        43.110248
+                  ]
+            },
+            {
+                  "name": "Casa Museo Palazzo Sorbello",
+                  "text": "Un palat nobiliar din secolul al XVII-lea care găzduiește colecții de artă și o bibliotecă.",
+                  "category": "museum",
+                  "coords": [
+                        12.390425,
+                        43.112677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro del Pavone",
+                  "text": "An 18th-century private theater located in the historic center of Perugia.",
+                  "category": "cultural",
+                  "coords": [
+                        12.38809,
+                        43.110248
+                  ]
+            },
+            {
+                  "name": "Casa Museo Palazzo Sorbello",
+                  "text": "A 17th-century noble palace housing significant art collections and a library.",
+                  "category": "museum",
+                  "coords": [
+                        12.390425,
+                        43.112677
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT-55",
     coords: [12.389, 43.111],
@@ -2557,7 +3223,376 @@ export const italyCities: POI[] = [
     },
   },
     {
-    id: "it-cremona",
+    id: "it-cremona", "sights": {
+      "de": [
+            {
+                  "name": "Museo Archeologico San Lorenzo",
+                  "text": "Ein archäologisches Museum in Cremona, das römische Artefakte aus der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        10.029435,
+                        45.134997
+                  ]
+            },
+            {
+                  "name": "Museo Civico Ala Ponzone",
+                  "text": "Die wichtigste Kunstgalerie von Cremona mit einer umfangreichen Sammlung von Gemälden.",
+                  "category": "museum",
+                  "coords": [
+                        10.021371,
+                        45.138012
+                  ]
+            },
+            {
+                  "name": "Teatro Ponchielli",
+                  "text": "Ein elegantes Opernhaus aus dem 18. Jahrhundert in Cremona, benannt nach dem Komponisten Amilcare Ponchielli.",
+                  "category": "cultural",
+                  "coords": [
+                        10.019041,
+                        45.132181
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "Diözesanmuseum in Cremona mit religiöser Kunst und historischen Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        10.025481,
+                        45.132877
+                  ]
+            },
+            {
+                  "name": "Museo civico della civiltà contadina",
+                  "text": "Museum für bäuerliche Kultur in Cremona über die Traditionen der Region.",
+                  "category": "museum",
+                  "coords": [
+                        10.000347,
+                        45.152061
+                  ]
+            },
+            {
+                  "name": "Capra-Plasio",
+                  "text": "Archäologische Stätte in Cremona mit Überresten antiker Gebäude.",
+                  "category": "historical",
+                  "coords": [
+                        10.02013,
+                        45.134735
+                  ]
+            },
+            {
+                  "name": "Museo Lauretano",
+                  "text": "Ein Museum in Cremona, das der religiösen Geschichte und Kunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.029055,
+                        45.137269
+                  ]
+            },
+            {
+                  "name": "Palazzo Mina Bolzesi",
+                  "text": "Historischer Palast in Cremona, der heute als Museum genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        10.024496,
+                        45.131124
+                  ]
+            },
+            {
+                  "name": "Parco Caduti di Nassirya",
+                  "text": "Eine gepflegte städtische Parkanlage in Cremona zur Erholung im Grünen.",
+                  "category": "park",
+                  "coords": [
+                        10.008417,
+                        45.137392
+                  ]
+            },
+            {
+                  "name": "Basilica di San Michele Vetere",
+                  "text": "Eine bedeutende romanische Basilika in Cremona mit antiken Wurzeln.",
+                  "category": "religious",
+                  "coords": [
+                        10.033078,
+                        45.135268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Archeologico San Lorenzo",
+                  "text": "Cremonai régészeti múzeum, amely a környéken talált római kori leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.029435,
+                        45.134997
+                  ]
+            },
+            {
+                  "name": "Museo Civico Ala Ponzone",
+                  "text": "Cremona fő művészeti galériája, amely festmények és díszítőművészeti alkotások gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.021371,
+                        45.138012
+                  ]
+            },
+            {
+                  "name": "Teatro Ponchielli",
+                  "text": "Elegáns 18. századi operaház Cremonában, amely Amilcare Ponchielli zeneszerző nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        10.019041,
+                        45.132181
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "Vallási művészeti gyűjtemény és egyházi kincstár Cremona városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.025481,
+                        45.132877
+                  ]
+            },
+            {
+                  "name": "Museo civico della civiltà contadina",
+                  "text": "A paraszti életmódot és a mezőgazdasági hagyományokat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.000347,
+                        45.152061
+                  ]
+            },
+            {
+                  "name": "Capra-Plasio",
+                  "text": "Régészeti lelőhely Cremonában, ahol ókori épületek maradványai láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        10.02013,
+                        45.134735
+                  ]
+            },
+            {
+                  "name": "Museo Lauretano",
+                  "text": "Cremonai múzeum, amely vallástörténeti emlékeket és műalkotásokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        10.029055,
+                        45.137269
+                  ]
+            },
+            {
+                  "name": "Palazzo Mina Bolzesi",
+                  "text": "Történelmi palota Cremonában, amely napjainkban múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        10.024496,
+                        45.131124
+                  ]
+            },
+            {
+                  "name": "Parco Caduti di Nassirya",
+                  "text": "Gondozott városi park Cremonában, amely pihenésre és sétára hív.",
+                  "category": "park",
+                  "coords": [
+                        10.008417,
+                        45.137392
+                  ]
+            },
+            {
+                  "name": "Basilica di San Michele Vetere",
+                  "text": "Jelentős román stílusú bazilika Cremonában, ókori alapokkal.",
+                  "category": "religious",
+                  "coords": [
+                        10.033078,
+                        45.135268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Archeologico San Lorenzo",
+                  "text": "Un muzeu arheologic din Cremona care expune artefacte romane descoperite în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        10.029435,
+                        45.134997
+                  ]
+            },
+            {
+                  "name": "Museo Civico Ala Ponzone",
+                  "text": "Principala galerie de artă din Cremona, care adăpostește o vastă colecție de picturi și arte decorative.",
+                  "category": "museum",
+                  "coords": [
+                        10.021371,
+                        45.138012
+                  ]
+            },
+            {
+                  "name": "Teatro Ponchielli",
+                  "text": "O operă elegantă din secolul al XVIII-lea din Cremona, numită după compozitorul Amilcare Ponchielli.",
+                  "category": "cultural",
+                  "coords": [
+                        10.019041,
+                        45.132181
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "Muzeul diecezan din Cremona expune artă religioasă și obiecte de cult.",
+                  "category": "museum",
+                  "coords": [
+                        10.025481,
+                        45.132877
+                  ]
+            },
+            {
+                  "name": "Museo civico della civiltà contadina",
+                  "text": "Muzeul culturii țărănești din Cremona despre tradițiile rurale ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        10.000347,
+                        45.152061
+                  ]
+            },
+            {
+                  "name": "Capra-Plasio",
+                  "text": "Sit arheologic din Cremona care păstrează vestigiile unor clădiri antice.",
+                  "category": "historical",
+                  "coords": [
+                        10.02013,
+                        45.134735
+                  ]
+            },
+            {
+                  "name": "Museo Lauretano",
+                  "text": "Muzeu din Cremona dedicat istoriei și artei religioase locale.",
+                  "category": "museum",
+                  "coords": [
+                        10.029055,
+                        45.137269
+                  ]
+            },
+            {
+                  "name": "Palazzo Mina Bolzesi",
+                  "text": "Palat istoric din Cremona care servește în prezent drept spațiu muzeal.",
+                  "category": "museum",
+                  "coords": [
+                        10.024496,
+                        45.131124
+                  ]
+            },
+            {
+                  "name": "Parco Caduti di Nassirya",
+                  "text": "Un parc public amenajat în Cremona, ideal pentru relaxare în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        10.008417,
+                        45.137392
+                  ]
+            },
+            {
+                  "name": "Basilica di San Michele Vetere",
+                  "text": "O bazilică romanică importantă din Cremona cu origini antice.",
+                  "category": "religious",
+                  "coords": [
+                        10.033078,
+                        45.135268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Archeologico San Lorenzo",
+                  "text": "An archaeological museum in Cremona showcasing Roman artifacts found in the region.",
+                  "category": "museum",
+                  "coords": [
+                        10.029435,
+                        45.134997
+                  ]
+            },
+            {
+                  "name": "Museo Civico Ala Ponzone",
+                  "text": "The main art gallery of Cremona, housing a vast collection of paintings and decorative arts.",
+                  "category": "museum",
+                  "coords": [
+                        10.021371,
+                        45.138012
+                  ]
+            },
+            {
+                  "name": "Teatro Ponchielli",
+                  "text": "An elegant 18th-century opera house in Cremona named after composer Amilcare Ponchielli.",
+                  "category": "cultural",
+                  "coords": [
+                        10.019041,
+                        45.132181
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "Diocesan museum in Cremona showcasing religious art and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        10.025481,
+                        45.132877
+                  ]
+            },
+            {
+                  "name": "Museo civico della civiltà contadina",
+                  "text": "Museum of rural life in Cremona documenting the region's agricultural traditions.",
+                  "category": "museum",
+                  "coords": [
+                        10.000347,
+                        45.152061
+                  ]
+            },
+            {
+                  "name": "Capra-Plasio",
+                  "text": "Archaeological site in Cremona featuring the remains of ancient structures.",
+                  "category": "historical",
+                  "coords": [
+                        10.02013,
+                        45.134735
+                  ]
+            },
+            {
+                  "name": "Museo Lauretano",
+                  "text": "Museum in Cremona dedicated to religious history and local sacred art.",
+                  "category": "museum",
+                  "coords": [
+                        10.029055,
+                        45.137269
+                  ]
+            },
+            {
+                  "name": "Palazzo Mina Bolzesi",
+                  "text": "Historic palace in Cremona that currently functions as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        10.024496,
+                        45.131124
+                  ]
+            },
+            {
+                  "name": "Parco Caduti di Nassirya",
+                  "text": "A well-maintained public park in Cremona offering green space for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        10.008417,
+                        45.137392
+                  ]
+            },
+            {
+                  "name": "Basilica di San Michele Vetere",
+                  "text": "A significant Romanesque basilica in Cremona with ancient origins.",
+                  "category": "religious",
+                  "coords": [
+                        10.033078,
+                        45.135268
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT-25",
     coords: [10.023, 45.133],

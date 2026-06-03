@@ -3,7 +3,340 @@ import { POI } from './poi';
 export const germanyCitiesV2: POI[] = [
 
   {
-    id: "germany-paderborn-cities-v2",
+    id: "germany-paderborn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum in der Kaiserpfalz",
+                  "text": "Ein Museum, das die Geschichte der karolingischen und ottonischen Kaiserpfalz in Paderborn zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.755206,
+                        51.71945
+                  ]
+            },
+            {
+                  "name": "Heinz Nixdorf MuseumsForum",
+                  "text": "Das weltweit größte Computermuseum, das die Entwicklung der Informationstechnik präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.735624,
+                        51.73133
+                  ]
+            },
+            {
+                  "name": "Theater Paderborn - Westfälische Kammerspiele",
+                  "text": "Das städtische Theater von Paderborn, das ein vielfältiges Programm an Kammerspielen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.755509,
+                        51.717134
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "Ein Museum in Paderborn, das bedeutende religiöse Kunstwerke und Kirchenschätze ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.755178,
+                        51.718487
+                  ]
+            },
+            {
+                  "name": "Steinbruch Ilse",
+                  "text": "Ein ehemaliger Kalksteinbruch bei Paderborn, der heute als wertvolles Naturschutzgebiet dient.",
+                  "category": "natural",
+                  "coords": [
+                        8.725352,
+                        51.694046
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Das Stadtmuseum Paderborn präsentiert die wechselvolle Geschichte und Stadtentwicklung von den Anfängen bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        8.752636,
+                        51.718455
+                  ]
+            },
+            {
+                  "name": "Deutsches Traktoren und Modellauto Museum",
+                  "text": "Dieses Museum zeigt eine beeindruckende Privatsammlung historischer Traktoren und detailgetreuer Modellautos.",
+                  "category": "museum",
+                  "coords": [
+                        8.770077,
+                        51.738232
+                  ]
+            },
+            {
+                  "name": "Mühlenmuseum",
+                  "text": "Das Mühlenmuseum an den Paderquellen dokumentiert die historische Bedeutung der Wassermühlen für die Region.",
+                  "category": "museum",
+                  "coords": [
+                        8.750728,
+                        51.721939
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Pauline von Mallinckrodt",
+                  "text": "Die Gedenkstätte erinnert an das Leben von Pauline von Mallinckrodt, der Gründerin der Schwestern der christlichen Liebe.",
+                  "category": "museum",
+                  "coords": [
+                        8.760898,
+                        51.715434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum in der Kaiserpfalz",
+                  "text": "Múzeum, amely a paderborni karoling és ottói császári palota történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.755206,
+                        51.71945
+                  ]
+            },
+            {
+                  "name": "Heinz Nixdorf MuseumsForum",
+                  "text": "A világ legnagyobb számítógépes múzeuma, amely az információtechnológia fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.735624,
+                        51.73133
+                  ]
+            },
+            {
+                  "name": "Theater Paderborn - Westfälische Kammerspiele",
+                  "text": "Paderborn városi színháza, amely változatos kamaraelőadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        8.755509,
+                        51.717134
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "Paderborni múzeum, amely jelentős vallási műtárgyakat és egyházi kincseket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        8.755178,
+                        51.718487
+                  ]
+            },
+            {
+                  "name": "Steinbruch Ilse",
+                  "text": "Egykori mészkőbánya Paderborn közelében, amely ma értékes természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        8.725352,
+                        51.694046
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "A Paderborni Városi Múzeum a település történetét és fejlődését mutatja be a kezdetektől napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        8.752636,
+                        51.718455
+                  ]
+            },
+            {
+                  "name": "Deutsches Traktoren und Modellauto Museum",
+                  "text": "Ez a múzeum történelmi traktorok és részletgazdag autómodellek lenyűgöző magángyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.770077,
+                        51.738232
+                  ]
+            },
+            {
+                  "name": "Mühlenmuseum",
+                  "text": "A Pader-forrásoknál található Malommúzeum a vízimalmok régión belüli történelmi jelentőségét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        8.750728,
+                        51.721939
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Pauline von Mallinckrodt",
+                  "text": "Az emlékhely Pauline von Mallinckrodt, a Keresztény Szeretet Nővérei rend alapítója életének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        8.760898,
+                        51.715434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum in der Kaiserpfalz",
+                  "text": "Un muzeu care prezintă istoria palatului imperial carolingian și ottonian din Paderborn.",
+                  "category": "museum",
+                  "coords": [
+                        8.755206,
+                        51.71945
+                  ]
+            },
+            {
+                  "name": "Heinz Nixdorf MuseumsForum",
+                  "text": "Cel mai mare muzeu de calculatoare din lume, care prezintă evoluția tehnologiei informației.",
+                  "category": "museum",
+                  "coords": [
+                        8.735624,
+                        51.73133
+                  ]
+            },
+            {
+                  "name": "Theater Paderborn - Westfälische Kammerspiele",
+                  "text": "Teatrul municipal din Paderborn, care oferă un program variat de piese de cameră.",
+                  "category": "cultural",
+                  "coords": [
+                        8.755509,
+                        51.717134
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "Un muzeu din Paderborn care expune opere de artă religioasă semnificative și comori bisericești.",
+                  "category": "museum",
+                  "coords": [
+                        8.755178,
+                        51.718487
+                  ]
+            },
+            {
+                  "name": "Steinbruch Ilse",
+                  "text": "O fostă carieră de calcar lângă Paderborn, care astăzi servește drept rezervație naturală valoroasă.",
+                  "category": "natural",
+                  "coords": [
+                        8.725352,
+                        51.694046
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Muzeul Orașului Paderborn prezintă istoria și dezvoltarea urbană de la începuturi până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        8.752636,
+                        51.718455
+                  ]
+            },
+            {
+                  "name": "Deutsches Traktoren und Modellauto Museum",
+                  "text": "Acest muzeu expune o colecție privată impresionantă de tractoare istorice și mașini în miniatură detaliate.",
+                  "category": "museum",
+                  "coords": [
+                        8.770077,
+                        51.738232
+                  ]
+            },
+            {
+                  "name": "Mühlenmuseum",
+                  "text": "Muzeul Morii de la izvoarele râului Pader documentează importanța istorică a morilor de apă pentru regiune.",
+                  "category": "museum",
+                  "coords": [
+                        8.750728,
+                        51.721939
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Pauline von Mallinckrodt",
+                  "text": "Memorialul amintește de viața Paulinei von Mallinckrodt, fondatoarea Surorilor Carității Creștine.",
+                  "category": "museum",
+                  "coords": [
+                        8.760898,
+                        51.715434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum in der Kaiserpfalz",
+                  "text": "A museum showcasing the history of the Carolingian and Ottonian Imperial Palace in Paderborn.",
+                  "category": "museum",
+                  "coords": [
+                        8.755206,
+                        51.71945
+                  ]
+            },
+            {
+                  "name": "Heinz Nixdorf MuseumsForum",
+                  "text": "The world's largest computer museum, presenting the development of information technology.",
+                  "category": "museum",
+                  "coords": [
+                        8.735624,
+                        51.73133
+                  ]
+            },
+            {
+                  "name": "Theater Paderborn - Westfälische Kammerspiele",
+                  "text": "The municipal theatre of Paderborn, offering a diverse program of chamber plays.",
+                  "category": "cultural",
+                  "coords": [
+                        8.755509,
+                        51.717134
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "A museum in Paderborn exhibiting significant religious artworks and church treasures.",
+                  "category": "museum",
+                  "coords": [
+                        8.755178,
+                        51.718487
+                  ]
+            },
+            {
+                  "name": "Steinbruch Ilse",
+                  "text": "A former limestone quarry near Paderborn, now serving as a valuable nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        8.725352,
+                        51.694046
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "The Paderborn City Museum presents the varied history and urban development from its origins to today.",
+                  "category": "museum",
+                  "coords": [
+                        8.752636,
+                        51.718455
+                  ]
+            },
+            {
+                  "name": "Deutsches Traktoren und Modellauto Museum",
+                  "text": "This museum displays an impressive private collection of historical tractors and detailed model cars.",
+                  "category": "museum",
+                  "coords": [
+                        8.770077,
+                        51.738232
+                  ]
+            },
+            {
+                  "name": "Mühlenmuseum",
+                  "text": "The Mill Museum at the Pader springs documents the historical importance of water mills for the region.",
+                  "category": "museum",
+                  "coords": [
+                        8.750728,
+                        51.721939
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Pauline von Mallinckrodt",
+                  "text": "The memorial commemorates the life of Pauline von Mallinckrodt, founder of the Sisters of Christian Charity.",
+                  "category": "museum",
+                  "coords": [
+                        8.760898,
+                        51.715434
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Paderborn", hu: "Paderborn", ro: "Paderborn", en: "Paderborn" },
@@ -480,7 +813,700 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-plauen-cities-v2.webp",
   },
   {
-    id: "germany-brandenburg-cities-v2",
+    id: "germany-brandenburg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brandenburger Theater",
+                  "text": "Das traditionsreiche Mehrspartentheater der Stadt Brandenburg an der Havel.",
+                  "category": "cultural",
+                  "coords": [
+                        12.556158,
+                        52.407815
+                  ]
+            },
+            {
+                  "name": "Straßenbahnmuseum",
+                  "text": "Ein Museum zur Geschichte der Straßenbahn in Brandenburg an der Havel.",
+                  "category": "museum",
+                  "coords": [
+                        12.550389,
+                        52.406923
+                  ]
+            },
+            {
+                  "name": "Dommuseum",
+                  "text": "Das Museum im Dom zu Brandenburg zeigt sakrale Kunst und historische Schriften.",
+                  "category": "museum",
+                  "coords": [
+                        12.567622,
+                        52.415608
+                  ]
+            },
+            {
+                  "name": "Steintorturm",
+                  "text": "Ein historischer Torturm der Stadtbefestigung, der heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        12.558252,
+                        52.405754
+                  ]
+            },
+            {
+                  "name": "Museum im Frey-Haus",
+                  "text": "Ein Stadtmuseum in einem barocken Bürgerhaus in Brandenburg an der Havel.",
+                  "category": "museum",
+                  "coords": [
+                        12.553925,
+                        52.412494
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte für die Opfer der Euthanasie-Morde in Brandenburg an der Havel",
+                  "text": "Gedenkstätte am Ort der ehemaligen NS-Tötungsanstalt in Brandenburg.",
+                  "category": "museum",
+                  "coords": [
+                        12.550683,
+                        52.41107
+                  ]
+            },
+            {
+                  "name": "Stadthavel",
+                  "text": "Ein Flussabschnitt der Havel in Brandenburg, der als Naturraum geschützt ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.517503,
+                        52.390469
+                  ]
+            },
+            {
+                  "name": "Slawendorf Brandenburg an der Havel",
+                  "text": "Eine Rekonstruktion einer slawischen Siedlung aus dem 11. Jahrhundert an der Havel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.551531,
+                        52.409847
+                  ]
+            },
+            {
+                  "name": "Funbad",
+                  "text": "Erlebnisbad in Brandenburg an der Havel mit verschiedenen Wasserrutschen und Freizeitbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        12.541548,
+                        52.415704
+                  ]
+            },
+            {
+                  "name": "Marienkapelle und Liberey",
+                  "text": "Historisches Gebäudeensemble auf der Brandenburger Dominsel, das heute museale Ausstellungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        12.562489,
+                        52.406285
+                  ]
+            },
+            {
+                  "name": "Badestelle Grillendamm",
+                  "text": "Beliebte Naturbadestelle am Beetzsee in Brandenburg an der Havel mit Liegewiese und Steganlage.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56524,
+                        52.41885
+                  ]
+            },
+            {
+                  "name": "Seeperle",
+                  "text": "Regionale Badestelle am Seeufer in Brandenburg, die Möglichkeiten zur Erholung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56938,
+                        52.429678
+                  ]
+            },
+            {
+                  "name": "Kulturpark Marienberg",
+                  "text": "Stadtpark auf dem Marienberg in Brandenburg an der Havel, der als Austragungsort der Bundesgartenschau 2015 diente.",
+                  "category": "park",
+                  "coords": [
+                        12.546408,
+                        52.415528
+                  ]
+            },
+            {
+                  "name": "Friedenswarte",
+                  "text": "32 Meter hoher Aussichtsturm auf dem Marienberg mit Blick auf die Stadt und das Havelland.",
+                  "category": "natural",
+                  "coords": [
+                        12.548772,
+                        52.41502
+                  ]
+            },
+            {
+                  "name": "Jüdischer Friedhof I",
+                  "text": "Historisches Denkmal in der Geschwister-Scholl-Straße, das an die jüdische Geschichte von Brandenburg erinnert.",
+                  "category": "park",
+                  "coords": [
+                        12.568968,
+                        52.403784
+                  ]
+            },
+            {
+                  "name": "Grabenpromenade",
+                  "text": "Fußgängerweg entlang der mittelalterlichen Befestigungsgräben in Brandenburg an der Havel.",
+                  "category": "park",
+                  "coords": [
+                        12.557389,
+                        52.409346
+                  ]
+            },
+            {
+                  "name": "Rathenower Torturm",
+                  "text": "Einer der vier erhaltenen Tortürme der Brandenburger Stadtbefestigung, erbaut im 14. Jahrhundert.",
+                  "category": "tower",
+                  "coords": [
+                        12.554652,
+                        52.415945
+                  ]
+            },
+            {
+                  "name": "Plauer Torturm",
+                  "text": "Spätgotischer Torturm in Brandenburg an der Havel, der die westliche Grenze der Altstadt markierte.",
+                  "category": "tower",
+                  "coords": [
+                        12.551468,
+                        52.412246
+                  ]
+            },
+            {
+                  "name": "Neustädtischer Mühlentorturm",
+                  "text": "Markanter Wehrturm aus Backstein, der die Einfahrt der Neustädter Mühlen in Brandenburg sicherte.",
+                  "category": "tower",
+                  "coords": [
+                        12.564885,
+                        52.41093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brandenburger Theater",
+                  "text": "Brandenburg an der Havel városának nagy múltú, több tagozatos színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        12.556158,
+                        52.407815
+                  ]
+            },
+            {
+                  "name": "Straßenbahnmuseum",
+                  "text": "A brandenburgi villamosközlekedés történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.550389,
+                        52.406923
+                  ]
+            },
+            {
+                  "name": "Dommuseum",
+                  "text": "A brandenburgi dóm múzeuma egyházi műkincseket és történelmi iratokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.567622,
+                        52.415608
+                  ]
+            },
+            {
+                  "name": "Steintorturm",
+                  "text": "A városi erődítmény történelmi kaputornya, amely ma múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        12.558252,
+                        52.405754
+                  ]
+            },
+            {
+                  "name": "Museum im Frey-Haus",
+                  "text": "Várostörténeti múzeum egy barokk polgárházban, Brandenburg an der Havelben.",
+                  "category": "museum",
+                  "coords": [
+                        12.553925,
+                        52.412494
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte für die Opfer der Euthanasie-Morde in Brandenburg an der Havel",
+                  "text": "Emlékhely az egykori náci eutanázia-program brandenburgi helyszínén.",
+                  "category": "museum",
+                  "coords": [
+                        12.550683,
+                        52.41107
+                  ]
+            },
+            {
+                  "name": "Stadthavel",
+                  "text": "A Havel folyó brandenburgi szakasza, amely természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        12.517503,
+                        52.390469
+                  ]
+            },
+            {
+                  "name": "Slawendorf Brandenburg an der Havel",
+                  "text": "Egy 11. századi szláv település rekonstrukciója a Havel folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        12.551531,
+                        52.409847
+                  ]
+            },
+            {
+                  "name": "Funbad",
+                  "text": "Élményfürdő Brandenburg an der Havelben, különféle csúszdákkal és szabadidős medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.541548,
+                        52.415704
+                  ]
+            },
+            {
+                  "name": "Marienkapelle und Liberey",
+                  "text": "Történelmi épületegyüttes a brandenburgi Dóm-szigeten, amely ma múzeumi kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        12.562489,
+                        52.406285
+                  ]
+            },
+            {
+                  "name": "Badestelle Grillendamm",
+                  "text": "Népszerű természetes fürdőhely a brandenburgi Beetzsee partján, füves pihenővel és mólóval.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56524,
+                        52.41885
+                  ]
+            },
+            {
+                  "name": "Seeperle",
+                  "text": "Regionális fürdőhely egy brandenburgi tó partján, amely vízparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56938,
+                        52.429678
+                  ]
+            },
+            {
+                  "name": "Kulturpark Marienberg",
+                  "text": "Városi park a brandenburgi Marienberg dombon, amely a 2015-ös szövetségi kertészeti kiállítás helyszíne volt.",
+                  "category": "park",
+                  "coords": [
+                        12.546408,
+                        52.415528
+                  ]
+            },
+            {
+                  "name": "Friedenswarte",
+                  "text": "32 méter magas kilátótorony a Marienberg dombon, kilátással a városra és a Havel-vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        12.548772,
+                        52.41502
+                  ]
+            },
+            {
+                  "name": "Jüdischer Friedhof I",
+                  "text": "Történelmi emlékhely a Geschwister-Scholl-Straßén, amely Brandenburg zsidó történelmére emlékeztet.",
+                  "category": "park",
+                  "coords": [
+                        12.568968,
+                        52.403784
+                  ]
+            },
+            {
+                  "name": "Grabenpromenade",
+                  "text": "Gyalogos sétány a középkori erődítményvizesárkok mentén Brandenburg an der Havelben.",
+                  "category": "park",
+                  "coords": [
+                        12.557389,
+                        52.409346
+                  ]
+            },
+            {
+                  "name": "Rathenower Torturm",
+                  "text": "A brandenburgi városi erődítmény négy megmaradt kaputornyának egyike, amely a 14. században épült.",
+                  "category": "tower",
+                  "coords": [
+                        12.554652,
+                        52.415945
+                  ]
+            },
+            {
+                  "name": "Plauer Torturm",
+                  "text": "Késő gótikus kaputorony Brandenburg an der Havelben, amely az óváros nyugati határát jelölte.",
+                  "category": "tower",
+                  "coords": [
+                        12.551468,
+                        52.412246
+                  ]
+            },
+            {
+                  "name": "Neustädtischer Mühlentorturm",
+                  "text": "Jellegzetes téglaépítésű védőtorony, amely a brandenburgi újvárosi malmok bejáratát védte.",
+                  "category": "tower",
+                  "coords": [
+                        12.564885,
+                        52.41093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brandenburger Theater",
+                  "text": "Teatrul principal al orașului Brandenburg an der Havel, cu o bogată tradiție.",
+                  "category": "cultural",
+                  "coords": [
+                        12.556158,
+                        52.407815
+                  ]
+            },
+            {
+                  "name": "Straßenbahnmuseum",
+                  "text": "Un muzeu dedicat istoriei tramvaielor din Brandenburg an der Havel.",
+                  "category": "museum",
+                  "coords": [
+                        12.550389,
+                        52.406923
+                  ]
+            },
+            {
+                  "name": "Dommuseum",
+                  "text": "Muzeul catedralei din Brandenburg prezintă artă sacră și documente istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.567622,
+                        52.415608
+                  ]
+            },
+            {
+                  "name": "Steintorturm",
+                  "text": "Un turn istoric al fortificației orașului, care servește astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        12.558252,
+                        52.405754
+                  ]
+            },
+            {
+                  "name": "Museum im Frey-Haus",
+                  "text": "Muzeul orașului găzduit într-o casă barocă din Brandenburg an der Havel.",
+                  "category": "museum",
+                  "coords": [
+                        12.553925,
+                        52.412494
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte für die Opfer der Euthanasie-Morde in Brandenburg an der Havel",
+                  "text": "Memorial dedicat victimelor crimelor naziste de eutanasie din Brandenburg.",
+                  "category": "museum",
+                  "coords": [
+                        12.550683,
+                        52.41107
+                  ]
+            },
+            {
+                  "name": "Stadthavel",
+                  "text": "O secțiune a râului Havel din Brandenburg, protejată ca arie naturală.",
+                  "category": "natural",
+                  "coords": [
+                        12.517503,
+                        52.390469
+                  ]
+            },
+            {
+                  "name": "Slawendorf Brandenburg an der Havel",
+                  "text": "O reconstrucție a unei așezări slave din secolul al XI-lea pe malul râului Havel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.551531,
+                        52.409847
+                  ]
+            },
+            {
+                  "name": "Funbad",
+                  "text": "Parc acvatic în Brandenburg an der Havel, dotat cu diverse tobogane și bazine recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        12.541548,
+                        52.415704
+                  ]
+            },
+            {
+                  "name": "Marienkapelle und Liberey",
+                  "text": "Un ansamblu istoric pe Insula Catedralei din Brandenburg, care găzduiește astăzi expoziții muzeale.",
+                  "category": "museum",
+                  "coords": [
+                        12.562489,
+                        52.406285
+                  ]
+            },
+            {
+                  "name": "Badestelle Grillendamm",
+                  "text": "Zonă populară de scăldat pe lacul Beetzsee din Brandenburg, cu peluză pentru plajă și un ponton.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56524,
+                        52.41885
+                  ]
+            },
+            {
+                  "name": "Seeperle",
+                  "text": "Zonă regională de scăldat pe malul unui lac din Brandenburg, oferind relaxare pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56938,
+                        52.429678
+                  ]
+            },
+            {
+                  "name": "Kulturpark Marienberg",
+                  "text": "Parcul orașului de pe dealul Marienberg din Brandenburg, care a găzduit expoziția horticolă federală în 2015.",
+                  "category": "park",
+                  "coords": [
+                        12.546408,
+                        52.415528
+                  ]
+            },
+            {
+                  "name": "Friedenswarte",
+                  "text": "Un turn de observare de 32 de metri pe dealul Marienberg, cu vedere spre oraș și regiunea Havelland.",
+                  "category": "natural",
+                  "coords": [
+                        12.548772,
+                        52.41502
+                  ]
+            },
+            {
+                  "name": "Jüdischer Friedhof I",
+                  "text": "Monument istoric pe strada Geschwister-Scholl, care comemorează istoria evreiască din Brandenburg.",
+                  "category": "park",
+                  "coords": [
+                        12.568968,
+                        52.403784
+                  ]
+            },
+            {
+                  "name": "Grabenpromenade",
+                  "text": "Alee pietonală de-a lungul șanțurilor de fortificație medievale din Brandenburg an der Havel.",
+                  "category": "park",
+                  "coords": [
+                        12.557389,
+                        52.409346
+                  ]
+            },
+            {
+                  "name": "Rathenower Torturm",
+                  "text": "Unul dintre cele patru turnuri de poartă păstrate ale fortificației din Brandenburg, construit în secolul al XIV-lea.",
+                  "category": "tower",
+                  "coords": [
+                        12.554652,
+                        52.415945
+                  ]
+            },
+            {
+                  "name": "Plauer Torturm",
+                  "text": "Turn de poartă gotic târziu în Brandenburg an der Havel, care marca limita vestică a orașului vechi.",
+                  "category": "tower",
+                  "coords": [
+                        12.551468,
+                        52.412246
+                  ]
+            },
+            {
+                  "name": "Neustädtischer Mühlentorturm",
+                  "text": "Un turn de apărare proeminent din cărămidă, care asigura intrarea la morile orașului nou din Brandenburg.",
+                  "category": "tower",
+                  "coords": [
+                        12.564885,
+                        52.41093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brandenburger Theater",
+                  "text": "The main multi-genre theatre of the city of Brandenburg an der Havel.",
+                  "category": "cultural",
+                  "coords": [
+                        12.556158,
+                        52.407815
+                  ]
+            },
+            {
+                  "name": "Straßenbahnmuseum",
+                  "text": "A museum dedicated to the history of trams in Brandenburg an der Havel.",
+                  "category": "museum",
+                  "coords": [
+                        12.550389,
+                        52.406923
+                  ]
+            },
+            {
+                  "name": "Dommuseum",
+                  "text": "The museum in Brandenburg Cathedral displays sacred art and historical documents.",
+                  "category": "museum",
+                  "coords": [
+                        12.567622,
+                        52.415608
+                  ]
+            },
+            {
+                  "name": "Steintorturm",
+                  "text": "A historical gate tower of the city fortifications, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        12.558252,
+                        52.405754
+                  ]
+            },
+            {
+                  "name": "Museum im Frey-Haus",
+                  "text": "A city museum housed in a Baroque townhouse in Brandenburg an der Havel.",
+                  "category": "museum",
+                  "coords": [
+                        12.553925,
+                        52.412494
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte für die Opfer der Euthanasie-Morde in Brandenburg an der Havel",
+                  "text": "Memorial site at the location of the former Nazi euthanasia killing center in Brandenburg.",
+                  "category": "museum",
+                  "coords": [
+                        12.550683,
+                        52.41107
+                  ]
+            },
+            {
+                  "name": "Stadthavel",
+                  "text": "A section of the Havel River in Brandenburg, protected as a natural area.",
+                  "category": "natural",
+                  "coords": [
+                        12.517503,
+                        52.390469
+                  ]
+            },
+            {
+                  "name": "Slawendorf Brandenburg an der Havel",
+                  "text": "A reconstruction of an 11th-century Slavic settlement on the banks of the Havel River.",
+                  "category": "recreational",
+                  "coords": [
+                        12.551531,
+                        52.409847
+                  ]
+            },
+            {
+                  "name": "Funbad",
+                  "text": "A water park in Brandenburg an der Havel featuring various water slides and leisure pools.",
+                  "category": "recreational",
+                  "coords": [
+                        12.541548,
+                        52.415704
+                  ]
+            },
+            {
+                  "name": "Marienkapelle und Liberey",
+                  "text": "A historical building complex on Brandenburg's Cathedral Island, now housing museum exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        12.562489,
+                        52.406285
+                  ]
+            },
+            {
+                  "name": "Badestelle Grillendamm",
+                  "text": "A popular swimming spot on Lake Beetzsee in Brandenburg an der Havel with a lawn and a pier.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56524,
+                        52.41885
+                  ]
+            },
+            {
+                  "name": "Seeperle",
+                  "text": "A regional swimming spot on a lake shore in Brandenburg, offering lakeside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56938,
+                        52.429678
+                  ]
+            },
+            {
+                  "name": "Kulturpark Marienberg",
+                  "text": "A city park on Marienberg in Brandenburg an der Havel, which hosted the 2015 Federal Horticultural Show.",
+                  "category": "park",
+                  "coords": [
+                        12.546408,
+                        52.415528
+                  ]
+            },
+            {
+                  "name": "Friedenswarte",
+                  "text": "A 32-meter-high observation tower on Marienberg with views over the city and the Havelland region.",
+                  "category": "natural",
+                  "coords": [
+                        12.548772,
+                        52.41502
+                  ]
+            },
+            {
+                  "name": "Jüdischer Friedhof I",
+                  "text": "A historical memorial on Geschwister-Scholl-Strasse commemorating the Jewish history of Brandenburg.",
+                  "category": "park",
+                  "coords": [
+                        12.568968,
+                        52.403784
+                  ]
+            },
+            {
+                  "name": "Grabenpromenade",
+                  "text": "A pedestrian path along the medieval fortification moats in Brandenburg an der Havel.",
+                  "category": "park",
+                  "coords": [
+                        12.557389,
+                        52.409346
+                  ]
+            },
+            {
+                  "name": "Rathenower Torturm",
+                  "text": "One of the four preserved gate towers of the Brandenburg city fortifications, built in the 14th century.",
+                  "category": "tower",
+                  "coords": [
+                        12.554652,
+                        52.415945
+                  ]
+            },
+            {
+                  "name": "Plauer Torturm",
+                  "text": "A late Gothic gate tower in Brandenburg an der Havel that marked the western boundary of the Old Town.",
+                  "category": "tower",
+                  "coords": [
+                        12.551468,
+                        52.412246
+                  ]
+            },
+            {
+                  "name": "Neustädtischer Mühlentorturm",
+                  "text": "A prominent brick defensive tower that secured the entrance to the New Town mills in Brandenburg.",
+                  "category": "tower",
+                  "coords": [
+                        12.564885,
+                        52.41093
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Brandenburg an der Havel", hu: "Brandenburg an der Havel", ro: "Brandenburg an der Havel", en: "Brandenburg an der Havel" },
@@ -529,7 +1555,412 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-brandenburg-cities-v2.webp",
   },
   {
-    id: "germany-hof-cities-v2",
+    id: "germany-hof-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Hofeck",
+                  "text": "Eine historische Schlossanlage im Hofer Stadtteil Hofeck, die auf eine mittelalterliche Burg zurückgeht.",
+                  "category": "castle",
+                  "coords": [
+                        11.894852,
+                        50.329637
+                  ]
+            },
+            {
+                  "name": "Theater Hof",
+                  "text": "Ein Mehrspartentheater in Hof, das Opern, Schauspiele und Ballettaufführungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        11.905118,
+                        50.319506
+                  ]
+            },
+            {
+                  "name": "Zoologischer Garten",
+                  "text": "Ein am Theresienstein gelegener Tierpark, der eine Vielzahl heimischer und exotischer Tierarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.925113,
+                        50.330811
+                  ]
+            },
+            {
+                  "name": "Museum Bayerisches Vogtland",
+                  "text": "Das Museum in Hof widmet sich der Stadtgeschichte und der Kultur des bayerischen Vogtlands.",
+                  "category": "museum",
+                  "coords": [
+                        11.918412,
+                        50.323833
+                  ]
+            },
+            {
+                  "name": "Bäckereimuseum Buchta",
+                  "text": "Ein Museum in Hof, das die traditionelle Handwerkskunst des Backens und deren Geschichte veranschaulicht.",
+                  "category": "museum",
+                  "coords": [
+                        11.916759,
+                        50.311276
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Ein Teil des Stadtparks Theresienstein mit thematischen Gärten und einer vielfältigen Pflanzensammlung.",
+                  "category": "recreational",
+                  "coords": [
+                        11.922694,
+                        50.329328
+                  ]
+            },
+            {
+                  "name": "FreiBadHof",
+                  "text": "Ein beliebtes Freibad in Hof mit Sportbecken, Sprunganlage und Liegewiesen für Badegäste.",
+                  "category": "recreational",
+                  "coords": [
+                        11.928662,
+                        50.312167
+                  ]
+            },
+            {
+                  "name": "Hof Bad",
+                  "text": "Eine städtische Badeanstalt in Hof, die Möglichkeiten für Schwimmen und Erholung im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.920461,
+                        50.313956
+                  ]
+            },
+            {
+                  "name": "Theresienstein",
+                  "text": "Ein weitläufiger, historischer Stadtpark in Hof, der als einer der schönsten Parks Deutschlands gilt.",
+                  "category": "park",
+                  "coords": [
+                        11.921453,
+                        50.327727
+                  ]
+            },
+            {
+                  "name": "Wartturm",
+                  "text": "Ein historischer Aussichtsturm auf dem Wartberg bei Hof.",
+                  "category": "tower",
+                  "coords": [
+                        11.948208,
+                        50.314004
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Hof",
+                  "text": "Ein Denkmal zu Ehren von Otto von Bismarck auf dem Rosenbühl.",
+                  "category": "tower",
+                  "coords": [
+                        11.895185,
+                        50.304763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Hofeck",
+                  "text": "Hof Hofeck városrészében található történelmi kastély, amely egy középkori vár alapjaira épült.",
+                  "category": "castle",
+                  "coords": [
+                        11.894852,
+                        50.329637
+                  ]
+            },
+            {
+                  "name": "Theater Hof",
+                  "text": "Hof több tagozatos színháza, amely operákat, drámákat és balettelőadásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        11.905118,
+                        50.319506
+                  ]
+            },
+            {
+                  "name": "Zoologischer Garten",
+                  "text": "A Theresienstein parkban található állatkert, amely számos hazai és egzotikus fajt mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        11.925113,
+                        50.330811
+                  ]
+            },
+            {
+                  "name": "Museum Bayerisches Vogtland",
+                  "text": "Hofi múzeum, amely a város történelmét és a bajor Vogtland kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.918412,
+                        50.323833
+                  ]
+            },
+            {
+                  "name": "Bäckereimuseum Buchta",
+                  "text": "Hofi múzeum, amely a sütés hagyományos mesterségét és annak történetét szemlélteti.",
+                  "category": "museum",
+                  "coords": [
+                        11.916759,
+                        50.311276
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "A Theresienstein városi park része tematikus kertekkel és változatos növénygyűjteménnyel.",
+                  "category": "recreational",
+                  "coords": [
+                        11.922694,
+                        50.329328
+                  ]
+            },
+            {
+                  "name": "FreiBadHof",
+                  "text": "Hof kedvelt strandja úszómedencékkel, ugrótoronnyal és napozóterületekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        11.928662,
+                        50.312167
+                  ]
+            },
+            {
+                  "name": "Hof Bad",
+                  "text": "Városi fürdő Hofban, amely úszási és kikapcsolódási lehetőséget kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        11.920461,
+                        50.313956
+                  ]
+            },
+            {
+                  "name": "Theresienstein",
+                  "text": "Hof kiterjedt, történelmi városi parkja, amelyet Németország egyik legszebb parkjaként tartanak számon.",
+                  "category": "park",
+                  "coords": [
+                        11.921453,
+                        50.327727
+                  ]
+            },
+            {
+                  "name": "Wartturm",
+                  "text": "Történelmi kilátótorony a Hof melletti Wartberg-hegyen.",
+                  "category": "tower",
+                  "coords": [
+                        11.948208,
+                        50.314004
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Hof",
+                  "text": "Otto von Bismarck tiszteletére emelt emlékmű a Rosenbühl-dombon.",
+                  "category": "tower",
+                  "coords": [
+                        11.895185,
+                        50.304763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Hofeck",
+                  "text": "Un castel istoric din districtul Hofeck din Hof, construit pe locul unei cetăți medievale.",
+                  "category": "castle",
+                  "coords": [
+                        11.894852,
+                        50.329637
+                  ]
+            },
+            {
+                  "name": "Theater Hof",
+                  "text": "Un teatru din Hof care prezintă spectacole de operă, dramă și balet.",
+                  "category": "cultural",
+                  "coords": [
+                        11.905118,
+                        50.319506
+                  ]
+            },
+            {
+                  "name": "Zoologischer Garten",
+                  "text": "O grădină zoologică situată lângă Theresienstein, care adăpostește diverse specii de animale locale și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        11.925113,
+                        50.330811
+                  ]
+            },
+            {
+                  "name": "Museum Bayerisches Vogtland",
+                  "text": "Muzeul din Hof este dedicat istoriei orașului și culturii regiunii Vogtland din Bavaria.",
+                  "category": "museum",
+                  "coords": [
+                        11.918412,
+                        50.323833
+                  ]
+            },
+            {
+                  "name": "Bäckereimuseum Buchta",
+                  "text": "Un muzeu din Hof care ilustrează meșteșugul tradițional al brutăriei și istoria acestuia.",
+                  "category": "museum",
+                  "coords": [
+                        11.916759,
+                        50.311276
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "O parte a parcului Theresienstein cu grădini tematice și o colecție diversă de plante.",
+                  "category": "recreational",
+                  "coords": [
+                        11.922694,
+                        50.329328
+                  ]
+            },
+            {
+                  "name": "FreiBadHof",
+                  "text": "Un ștrand popular din Hof, dotat cu bazine sportive, trambuline și zone de relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        11.928662,
+                        50.312167
+                  ]
+            },
+            {
+                  "name": "Hof Bad",
+                  "text": "O facilitate publică de înot din Hof, care oferă oportunități pentru înot și relaxare acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        11.920461,
+                        50.313956
+                  ]
+            },
+            {
+                  "name": "Theresienstein",
+                  "text": "Un parc istoric vast din Hof, considerat unul dintre cele mai frumoase parcuri din Germania.",
+                  "category": "park",
+                  "coords": [
+                        11.921453,
+                        50.327727
+                  ]
+            },
+            {
+                  "name": "Wartturm",
+                  "text": "Un turn istoric de observație situat pe dealul Wartberg lângă Hof.",
+                  "category": "tower",
+                  "coords": [
+                        11.948208,
+                        50.314004
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Hof",
+                  "text": "Un monument ridicat în onoarea lui Otto von Bismarck pe dealul Rosenbühl.",
+                  "category": "tower",
+                  "coords": [
+                        11.895185,
+                        50.304763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Hofeck",
+                  "text": "A historic castle complex in the Hofeck district of Hof, originating from a medieval fortress.",
+                  "category": "castle",
+                  "coords": [
+                        11.894852,
+                        50.329637
+                  ]
+            },
+            {
+                  "name": "Theater Hof",
+                  "text": "A multi-genre theatre in Hof presenting opera, drama, and ballet performances.",
+                  "category": "cultural",
+                  "coords": [
+                        11.905118,
+                        50.319506
+                  ]
+            },
+            {
+                  "name": "Zoologischer Garten",
+                  "text": "A zoo located at Theresienstein, featuring a variety of native and exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        11.925113,
+                        50.330811
+                  ]
+            },
+            {
+                  "name": "Museum Bayerisches Vogtland",
+                  "text": "The museum in Hof is dedicated to city history and the culture of the Bavarian Vogtland.",
+                  "category": "museum",
+                  "coords": [
+                        11.918412,
+                        50.323833
+                  ]
+            },
+            {
+                  "name": "Bäckereimuseum Buchta",
+                  "text": "A museum in Hof illustrating the traditional craft of baking and its history.",
+                  "category": "museum",
+                  "coords": [
+                        11.916759,
+                        50.311276
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Part of the Theresienstein city park featuring thematic gardens and a diverse plant collection.",
+                  "category": "recreational",
+                  "coords": [
+                        11.922694,
+                        50.329328
+                  ]
+            },
+            {
+                  "name": "FreiBadHof",
+                  "text": "A popular outdoor pool in Hof with sports pools, diving facilities, and sunbathing lawns.",
+                  "category": "recreational",
+                  "coords": [
+                        11.928662,
+                        50.312167
+                  ]
+            },
+            {
+                  "name": "Hof Bad",
+                  "text": "A municipal bathing facility in Hof providing opportunities for swimming and water recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        11.920461,
+                        50.313956
+                  ]
+            },
+            {
+                  "name": "Theresienstein",
+                  "text": "A sprawling, historic city park in Hof, considered one of the most beautiful parks in Germany.",
+                  "category": "park",
+                  "coords": [
+                        11.921453,
+                        50.327727
+                  ]
+            },
+            {
+                  "name": "Wartturm",
+                  "text": "A historical observation tower located on the Wartberg hill near Hof.",
+                  "category": "tower",
+                  "coords": [
+                        11.948208,
+                        50.314004
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Hof",
+                  "text": "A monument built in honor of Otto von Bismarck on the Rosenbühl hill.",
+                  "category": "tower",
+                  "coords": [
+                        11.895185,
+                        50.304763
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Hof", hu: "Hof", ro: "Hof", en: "Hof" },
@@ -696,6 +2127,51 @@ export const germanyCitiesV2: POI[] = [
                         6.9725,
                         51.62
                   ]
+            },
+            {
+                  "name": "Burg Vondern",
+                  "text": "Burg Vondern ist eine spätgotische Burganlage in Bottrop, die heute für kulturelle Veranstaltungen und als Museum genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        6.906867,
+                        51.498968
+                  ]
+            },
+            {
+                  "name": "Solebad Vonderort",
+                  "text": "Das Solebad Vonderort bietet entspannende Solebecken und eine großzügige Saunalandschaft zur Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        6.901051,
+                        51.508185
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Hesse",
+                  "text": "Das Schwimmbad Hesse in Bottrop ist eine beliebte Freizeiteinrichtung mit Schwimmbecken für Sport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        6.932997,
+                        51.496856
+                  ]
+            },
+            {
+                  "name": "Hallenbad im Sportpark",
+                  "text": "Das Hallenbad im Sportpark bietet ganzjährig Möglichkeiten zum Schwimmen und für sportliche Aktivitäten in Bottrop.",
+                  "category": "recreational",
+                  "coords": [
+                        6.918325,
+                        51.526928
+                  ]
+            },
+            {
+                  "name": "Prosper-Park",
+                  "text": "Der Prosper-Park ist eine weitläufige Grünanlage in Bottrop, die zum Spazierengehen und Verweilen im Freien einlädt.",
+                  "category": "park",
+                  "coords": [
+                        6.935018,
+                        51.532669
+                  ]
             }
       ],
       "hu": [
@@ -767,6 +2243,51 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.9725,
                         51.62
+                  ]
+            },
+            {
+                  "name": "Burg Vondern",
+                  "text": "A Vondern-vár egy késő gótikus vár Bottropban, amelyet ma kulturális rendezvényekre és múzeumként használnak.",
+                  "category": "castle",
+                  "coords": [
+                        6.906867,
+                        51.498968
+                  ]
+            },
+            {
+                  "name": "Solebad Vonderort",
+                  "text": "A Solebad Vonderort pihentető sós vizes medencéket és tágas szaunavilágot kínál a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        6.901051,
+                        51.508185
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Hesse",
+                  "text": "A bottropi Hesse uszoda népszerű szabadidős létesítmény, úszómedencékkel sportoláshoz és pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.932997,
+                        51.496856
+                  ]
+            },
+            {
+                  "name": "Hallenbad im Sportpark",
+                  "text": "A sportpark fedett uszodája egész évben úszási és sportolási lehetőségeket kínál Bottropban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.918325,
+                        51.526928
+                  ]
+            },
+            {
+                  "name": "Prosper-Park",
+                  "text": "A Prosper-Park egy kiterjedt zöldterület Bottropban, amely sétálásra és szabadtéri időtöltésre hívogat.",
+                  "category": "park",
+                  "coords": [
+                        6.935018,
+                        51.532669
                   ]
             }
       ],
@@ -840,6 +2361,51 @@ export const germanyCitiesV2: POI[] = [
                         6.9725,
                         51.62
                   ]
+            },
+            {
+                  "name": "Burg Vondern",
+                  "text": "Burg Vondern este o cetate în stil gotic târziu din Bottrop, utilizată astăzi pentru evenimente culturale și ca muzeu.",
+                  "category": "castle",
+                  "coords": [
+                        6.906867,
+                        51.498968
+                  ]
+            },
+            {
+                  "name": "Solebad Vonderort",
+                  "text": "Solebad Vonderort oferă bazine relaxante cu apă sărată și o zonă generoasă de saune pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        6.901051,
+                        51.508185
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Hesse",
+                  "text": "Piscina Hesse din Bottrop este o facilitate de agrement populară, cu bazine pentru sport și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        6.932997,
+                        51.496856
+                  ]
+            },
+            {
+                  "name": "Hallenbad im Sportpark",
+                  "text": "Piscina interioară din parcul sportiv oferă oportunități de înot și activități sportive pe tot parcursul anului în Bottrop.",
+                  "category": "recreational",
+                  "coords": [
+                        6.918325,
+                        51.526928
+                  ]
+            },
+            {
+                  "name": "Prosper-Park",
+                  "text": "Prosper-Park este o zonă verde vastă din Bottrop, care invită la plimbări și relaxare în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        6.935018,
+                        51.532669
+                  ]
             }
       ],
       "en": [
@@ -912,12 +2478,534 @@ export const germanyCitiesV2: POI[] = [
                         6.9725,
                         51.62
                   ]
+            },
+            {
+                  "name": "Burg Vondern",
+                  "text": "Burg Vondern is a late Gothic castle complex in Bottrop, now used for cultural events and as a museum.",
+                  "category": "castle",
+                  "coords": [
+                        6.906867,
+                        51.498968
+                  ]
+            },
+            {
+                  "name": "Solebad Vonderort",
+                  "text": "Solebad Vonderort offers relaxing brine pools and a spacious sauna landscape for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        6.901051,
+                        51.508185
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Hesse",
+                  "text": "The Schwimmbad Hesse in Bottrop is a popular leisure facility with swimming pools for sports and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        6.932997,
+                        51.496856
+                  ]
+            },
+            {
+                  "name": "Hallenbad im Sportpark",
+                  "text": "The indoor pool in the sport park offers year-round opportunities for swimming and sports activities in Bottrop.",
+                  "category": "recreational",
+                  "coords": [
+                        6.918325,
+                        51.526928
+                  ]
+            },
+            {
+                  "name": "Prosper-Park",
+                  "text": "Prosper-Park is an extensive green area in Bottrop, inviting visitors for walks and outdoor relaxation.",
+                  "category": "park",
+                  "coords": [
+                        6.935018,
+                        51.532669
+                  ]
             }
       ]
 }
   },
   {
-    id: "germany-fulda-cities-v2",
+    id: "germany-fulda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blackhorse Museum",
+                  "text": "Ein Museum in Fulda, das die Geschichte des 11. US-Kavallerieregiments Blackhorse dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.639256,
+                        50.543625
+                  ]
+            },
+            {
+                  "name": "Deutsches Feuerwehr-Museum",
+                  "text": "Das nationale Museum zur Geschichte des deutschen Feuerwehrwesens in Fulda.",
+                  "category": "museum",
+                  "coords": [
+                        9.664569,
+                        50.545726
+                  ]
+            },
+            {
+                  "name": "Wirgarten",
+                  "text": "Ein kleiner Tierpark in Fulda, der sich ideal für Familienausflüge eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.654665,
+                        50.544678
+                  ]
+            },
+            {
+                  "name": "Dommuseum",
+                  "text": "Das Museum am Dom in Fulda zeigt sakrale Kunstschätze aus der Geschichte des Bistums.",
+                  "category": "museum",
+                  "coords": [
+                        9.67112,
+                        50.553441
+                  ]
+            },
+            {
+                  "name": "Kinder-Akademie Fulda",
+                  "text": "Das erste eigenständige Kindermuseum Deutschlands mit dem berühmten begehbaren Herz.",
+                  "category": "museum",
+                  "coords": [
+                        9.686775,
+                        50.545799
+                  ]
+            },
+            {
+                  "name": "Tümpelgarten",
+                  "text": "Ein Schauaquarium und Vivarium in Fulda, das verschiedene Fischarten und Reptilien präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        9.658654,
+                        50.55905
+                  ]
+            },
+            {
+                  "name": "Horaser Wiesen",
+                  "text": "Ein Naturschutzgebiet bei Fulda, das wertvolle Lebensräume für seltene Pflanzen und Vögel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.645738,
+                        50.566767
+                  ]
+            },
+            {
+                  "name": "Schloss Fulda",
+                  "text": "Das barocke Stadtschloss in Fulda diente ehemals als Residenz der Fürstäbte.",
+                  "category": "castle",
+                  "coords": [
+                        9.676556,
+                        50.554294
+                  ]
+            },
+            {
+                  "name": "Mollenhauer Blockflöten Museum",
+                  "text": "Ein spezialisiertes Museum in Fulda, das sich der Geschichte und Herstellung von Blockflöten widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.684203,
+                        50.535655
+                  ]
+            },
+            {
+                  "name": "Vonderau Museum",
+                  "text": "Ein Museum für Stadtgeschichte, Kunst und Naturkunde, das auch ein Planetarium beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        9.6786,
+                        50.551195
+                  ]
+            },
+            {
+                  "name": "Rosenbad",
+                  "text": "Ein beliebtes Freibad in Fulda mit weitläufigen Liegewiesen und Wasserattraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.669641,
+                        50.546153
+                  ]
+            },
+            {
+                  "name": "Schlossgarten",
+                  "text": "Ein weitläufiger Barockgarten direkt neben dem Stadtschloss Fulda.",
+                  "category": "park",
+                  "coords": [
+                        9.676929,
+                        50.555474
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "Ein historischer Verteidigungsturm am Rande des Schlossgartens in Fulda.",
+                  "category": "tower",
+                  "coords": [
+                        9.674543,
+                        50.549762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blackhorse Museum",
+                  "text": "A fuldai múzeum a 11. páncélos lovasezred (Blackhorse) történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.639256,
+                        50.543625
+                  ]
+            },
+            {
+                  "name": "Deutsches Feuerwehr-Museum",
+                  "text": "Németország nemzeti tűzoltómúzeuma Fuldában, amely a tűzvédelem történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.664569,
+                        50.545726
+                  ]
+            },
+            {
+                  "name": "Wirgarten",
+                  "text": "Kis állatpark Fuldában, amely ideális célpont családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        9.654665,
+                        50.544678
+                  ]
+            },
+            {
+                  "name": "Dommuseum",
+                  "text": "A fuldai székesegyház múzeuma az egyházmegye történetének szakrális művészeti kincseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.67112,
+                        50.553441
+                  ]
+            },
+            {
+                  "name": "Kinder-Akademie Fulda",
+                  "text": "Németország első önálló gyermekmúzeuma, amely a híres bejárható szív makettről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        9.686775,
+                        50.545799
+                  ]
+            },
+            {
+                  "name": "Tümpelgarten",
+                  "text": "Bemutató akvárium és vivárium Fuldában, amely különféle halfajokat és hüllőket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        9.658654,
+                        50.55905
+                  ]
+            },
+            {
+                  "name": "Horaser Wiesen",
+                  "text": "Fulda közeli természetvédelmi terület, amely ritka növények és madarak számára nyújt élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        9.645738,
+                        50.566767
+                  ]
+            },
+            {
+                  "name": "Schloss Fulda",
+                  "text": "Fulda barokk városi kastélya, amely egykor a hercegapátok rezidenciájaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        9.676556,
+                        50.554294
+                  ]
+            },
+            {
+                  "name": "Mollenhauer Blockflöten Museum",
+                  "text": "Speciális fuldai múzeum, amely a furulyák történetének és készítésének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        9.684203,
+                        50.535655
+                  ]
+            },
+            {
+                  "name": "Vonderau Museum",
+                  "text": "Várostörténeti, művészeti és természettudományi múzeum, amely egy planetáriumnak is otthont ad.",
+                  "category": "museum",
+                  "coords": [
+                        9.6786,
+                        50.551195
+                  ]
+            },
+            {
+                  "name": "Rosenbad",
+                  "text": "Népszerű szabadtéri strand Fuldában, tágas pihenőparkkal és vízi attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        9.669641,
+                        50.546153
+                  ]
+            },
+            {
+                  "name": "Schlossgarten",
+                  "text": "A fuldai püspöki kastély mellett elterülő nagy kiterjedésű barokk kert.",
+                  "category": "park",
+                  "coords": [
+                        9.676929,
+                        50.555474
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "Történelmi védmony a fuldai várkert szélén, az egykori városfal része.",
+                  "category": "tower",
+                  "coords": [
+                        9.674543,
+                        50.549762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blackhorse Museum",
+                  "text": "Un muzeu din Fulda dedicat istoriei Regimentului 11 Cavalerie Blindată (Blackhorse).",
+                  "category": "museum",
+                  "coords": [
+                        9.639256,
+                        50.543625
+                  ]
+            },
+            {
+                  "name": "Deutsches Feuerwehr-Museum",
+                  "text": "Muzeul național dedicat istoriei serviciilor de pompieri din Germania, situat în Fulda.",
+                  "category": "museum",
+                  "coords": [
+                        9.664569,
+                        50.545726
+                  ]
+            },
+            {
+                  "name": "Wirgarten",
+                  "text": "Un mic parc zoologic din Fulda, ideal pentru ieșiri în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        9.654665,
+                        50.544678
+                  ]
+            },
+            {
+                  "name": "Dommuseum",
+                  "text": "Muzeul catedralei din Fulda expune comori de artă sacră din istoria diecezei.",
+                  "category": "museum",
+                  "coords": [
+                        9.67112,
+                        50.553441
+                  ]
+            },
+            {
+                  "name": "Kinder-Akademie Fulda",
+                  "text": "Primul muzeu independent pentru copii din Germania, cunoscut pentru celebra sa inimă gigantă vizitabilă.",
+                  "category": "museum",
+                  "coords": [
+                        9.686775,
+                        50.545799
+                  ]
+            },
+            {
+                  "name": "Tümpelgarten",
+                  "text": "Un acvariu și vivariu din Fulda care prezintă diverse specii de pești și reptile.",
+                  "category": "recreational",
+                  "coords": [
+                        9.658654,
+                        50.55905
+                  ]
+            },
+            {
+                  "name": "Horaser Wiesen",
+                  "text": "O rezervație naturală de lângă Fulda, care oferă habitate valoroase pentru plante și păsări rare.",
+                  "category": "natural",
+                  "coords": [
+                        9.645738,
+                        50.566767
+                  ]
+            },
+            {
+                  "name": "Schloss Fulda",
+                  "text": "Castelul baroc din orașul Fulda, fosta reședință a prinților-abați.",
+                  "category": "castle",
+                  "coords": [
+                        9.676556,
+                        50.554294
+                  ]
+            },
+            {
+                  "name": "Mollenhauer Blockflöten Museum",
+                  "text": "Un muzeu specializat din Fulda dedicat istoriei și fabricării flautelor cu dop.",
+                  "category": "museum",
+                  "coords": [
+                        9.684203,
+                        50.535655
+                  ]
+            },
+            {
+                  "name": "Vonderau Museum",
+                  "text": "Un muzeu de istorie locală, artă și științe naturale care găzduiește și un planetariu.",
+                  "category": "museum",
+                  "coords": [
+                        9.6786,
+                        50.551195
+                  ]
+            },
+            {
+                  "name": "Rosenbad",
+                  "text": "Un ștrand în aer liber popular din Fulda, cu zone de relaxare și atracții acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        9.669641,
+                        50.546153
+                  ]
+            },
+            {
+                  "name": "Schlossgarten",
+                  "text": "O grădină barocă spațioasă situată lângă palatul rezidențial din Fulda.",
+                  "category": "park",
+                  "coords": [
+                        9.676929,
+                        50.555474
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "Un turn de apărare istoric situat la marginea grădinii castelului din Fulda.",
+                  "category": "tower",
+                  "coords": [
+                        9.674543,
+                        50.549762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blackhorse Museum",
+                  "text": "A museum in Fulda documenting the history of the 11th Armored Cavalry Regiment (Blackhorse).",
+                  "category": "museum",
+                  "coords": [
+                        9.639256,
+                        50.543625
+                  ]
+            },
+            {
+                  "name": "Deutsches Feuerwehr-Museum",
+                  "text": "Germany's national museum dedicated to the history of firefighting, located in Fulda.",
+                  "category": "museum",
+                  "coords": [
+                        9.664569,
+                        50.545726
+                  ]
+            },
+            {
+                  "name": "Wirgarten",
+                  "text": "A small animal park in Fulda, ideal for family visits.",
+                  "category": "recreational",
+                  "coords": [
+                        9.654665,
+                        50.544678
+                  ]
+            },
+            {
+                  "name": "Dommuseum",
+                  "text": "The cathedral museum in Fulda displays sacred art treasures from the history of the diocese.",
+                  "category": "museum",
+                  "coords": [
+                        9.67112,
+                        50.553441
+                  ]
+            },
+            {
+                  "name": "Kinder-Akademie Fulda",
+                  "text": "Germany's first independent children's museum, famous for its walk-in heart model.",
+                  "category": "museum",
+                  "coords": [
+                        9.686775,
+                        50.545799
+                  ]
+            },
+            {
+                  "name": "Tümpelgarten",
+                  "text": "A public aquarium and vivarium in Fulda featuring various fish species and reptiles.",
+                  "category": "recreational",
+                  "coords": [
+                        9.658654,
+                        50.55905
+                  ]
+            },
+            {
+                  "name": "Horaser Wiesen",
+                  "text": "A nature reserve near Fulda providing valuable habitats for rare plants and birds.",
+                  "category": "natural",
+                  "coords": [
+                        9.645738,
+                        50.566767
+                  ]
+            },
+            {
+                  "name": "Schloss Fulda",
+                  "text": "The Baroque city palace in Fulda, formerly the residence of the prince-abbots.",
+                  "category": "castle",
+                  "coords": [
+                        9.676556,
+                        50.554294
+                  ]
+            },
+            {
+                  "name": "Mollenhauer Blockflöten Museum",
+                  "text": "A specialized museum in Fulda dedicated to the history and making of recorders.",
+                  "category": "museum",
+                  "coords": [
+                        9.684203,
+                        50.535655
+                  ]
+            },
+            {
+                  "name": "Vonderau Museum",
+                  "text": "A museum of local history, art, and natural history that also houses a planetarium.",
+                  "category": "museum",
+                  "coords": [
+                        9.6786,
+                        50.551195
+                  ]
+            },
+            {
+                  "name": "Rosenbad",
+                  "text": "A popular outdoor swimming pool in Fulda with extensive lawns and water attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        9.669641,
+                        50.546153
+                  ]
+            },
+            {
+                  "name": "Schlossgarten",
+                  "text": "A spacious baroque garden located right next to the Fulda City Palace.",
+                  "category": "park",
+                  "coords": [
+                        9.676929,
+                        50.555474
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "A historical defensive tower located at the edge of the Schlossgarten in Fulda.",
+                  "category": "tower",
+                  "coords": [
+                        9.674543,
+                        50.549762
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Fulda", hu: "Fulda", ro: "Fulda", en: "Fulda" },
@@ -966,7 +3054,592 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-fulda-cities-v2.webp",
   },
   {
-    id: "germany-speyer-cities-v2",
+    id: "germany-speyer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum SchPIRA",
+                  "text": "Museum zur Geschichte der Juden in Speyer, das Teil des SchUM-Stätten-Welterbes ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.439474,
+                        49.316425
+                  ]
+            },
+            {
+                  "name": "Elwedritsche-Museum Speyer",
+                  "text": "Ein Museum in Speyer, das dem pfälzischen Fabelwesen Elwetritsch gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.433255,
+                        49.316927
+                  ]
+            },
+            {
+                  "name": "Museum Wilhelmsbau",
+                  "text": "Dieses Museum in Speyer präsentiert mechanische Musikinstrumente und historische Kostüme.",
+                  "category": "museum",
+                  "coords": [
+                        8.44891,
+                        49.312718
+                  ]
+            },
+            {
+                  "name": "Augustinerkloster",
+                  "text": "Das Augustinerkloster ist eine historische Klosteranlage in der Altstadt von Speyer.",
+                  "category": "religious",
+                  "coords": [
+                        8.433642,
+                        49.319503
+                  ]
+            },
+            {
+                  "name": "Flotzgrün",
+                  "text": "Flotzgrün ist ein Naturschutzgebiet auf einer Rheininsel in der Nähe von Speyer.",
+                  "category": "natural",
+                  "coords": [
+                        8.433612,
+                        49.278509
+                  ]
+            },
+            {
+                  "name": "Technik Museum Speyer",
+                  "text": "Ein großes Technikmuseum in Speyer mit Flugzeugen, Oldtimern und einem U-Boot.",
+                  "category": "museum",
+                  "coords": [
+                        8.447931,
+                        49.311434
+                  ]
+            },
+            {
+                  "name": "Historisches Museum der Pfalz",
+                  "text": "Das Museum in Speyer zeigt bedeutende kulturgeschichtliche Sammlungen der Region Pfalz.",
+                  "category": "museum",
+                  "coords": [
+                        8.441458,
+                        49.315486
+                  ]
+            },
+            {
+                  "name": "Archäologisches Schaufenster",
+                  "text": "Ein Museum in Speyer, das archäologische Funde und Grabungsergebnisse der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.43044,
+                        49.316016
+                  ]
+            },
+            {
+                  "name": "Feuerbachhaus",
+                  "text": "Das Geburtshaus des Malers Anselm Feuerbach in Speyer dient heute als Museum und Gedenkstätte.",
+                  "category": "museum",
+                  "coords": [
+                        8.435471,
+                        49.314646
+                  ]
+            },
+            {
+                  "name": "Sophie la Roche-Stube",
+                  "text": "Museum zu Ehren der Schriftstellerin Sophie von La Roche in Speyer.",
+                  "category": "museum",
+                  "coords": [
+                        8.439553,
+                        49.317457
+                  ]
+            },
+            {
+                  "name": "bademaxx - Das Sport- und Erlebnisbad in Speyer",
+                  "text": "Ein modernes Sport- und Erlebnisbad mit Saunalandschaft in Speyer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.450014,
+                        49.314106
+                  ]
+            },
+            {
+                  "name": "Museum im Brückenhaus",
+                  "text": "Ein kleines Museum in Speyer, das lokale Geschichte und Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.449623,
+                        49.316822
+                  ]
+            },
+            {
+                  "name": "Haus der Badisch-Pfälzischen Fastnacht",
+                  "text": "Ein Museum in Speyer, das sich der Tradition der badisch-pfälzischen Fastnacht widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.429633,
+                        49.339632
+                  ]
+            },
+            {
+                  "name": "Sea Life Speyer",
+                  "text": "Ein großes Aquarium in Speyer mit zahlreichen Meeresbewohnern aus verschiedenen Regionen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.447367,
+                        49.31886
+                  ]
+            },
+            {
+                  "name": "Bademaxx",
+                  "text": "Das Sport- und Erlebnisbad in Speyer bietet Schwimmbecken und verschiedene Wellnessbereiche.",
+                  "category": "recreational",
+                  "coords": [
+                        8.451307,
+                        49.313966
+                  ]
+            },
+            {
+                  "name": "Adenauer-Park",
+                  "text": "Eine ruhige Parkanlage in Speyer auf dem Gelände eines ehemaligen Friedhofs mit gotischer Kapelle.",
+                  "category": "park",
+                  "coords": [
+                        8.43051,
+                        49.323326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum SchPIRA",
+                  "text": "Speyeri zsidó történeti múzeum, amely a SchUM-helyszínek világörökségének része.",
+                  "category": "museum",
+                  "coords": [
+                        8.439474,
+                        49.316425
+                  ]
+            },
+            {
+                  "name": "Elwedritsche-Museum Speyer",
+                  "text": "A speyeri múzeum a Pfalz-vidéki mitikus lénynek, az Elwetritschnek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        8.433255,
+                        49.316927
+                  ]
+            },
+            {
+                  "name": "Museum Wilhelmsbau",
+                  "text": "Ez a speyeri múzeum mechanikus hangszereket és történelmi jelmezeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.44891,
+                        49.312718
+                  ]
+            },
+            {
+                  "name": "Augustinerkloster",
+                  "text": "Az ágostonrendi kolostor egy történelmi kolostoregyüttes Speyer óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        8.433642,
+                        49.319503
+                  ]
+            },
+            {
+                  "name": "Flotzgrün",
+                  "text": "A Flotzgrün egy természetvédelmi terület egy Rajna-szigeten, Speyer közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.433612,
+                        49.278509
+                  ]
+            },
+            {
+                  "name": "Technik Museum Speyer",
+                  "text": "Egy nagy speyeri technikai múzeum repülőgépekkel, veterán autókkal és tengeralattjáróval.",
+                  "category": "museum",
+                  "coords": [
+                        8.447931,
+                        49.311434
+                  ]
+            },
+            {
+                  "name": "Historisches Museum der Pfalz",
+                  "text": "A speyeri múzeum a Pfalz-vidék jelentős művelődéstörténeti gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.441458,
+                        49.315486
+                  ]
+            },
+            {
+                  "name": "Archäologisches Schaufenster",
+                  "text": "Egy speyeri múzeum, amely a régió régészeti leleteit és ásatási eredményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.43044,
+                        49.316016
+                  ]
+            },
+            {
+                  "name": "Feuerbachhaus",
+                  "text": "Anselm Feuerbach festő speyeri szülőháza ma múzeumként és emlékhelyként működik.",
+                  "category": "museum",
+                  "coords": [
+                        8.435471,
+                        49.314646
+                  ]
+            },
+            {
+                  "name": "Sophie la Roche-Stube",
+                  "text": "Sophie von La Roche írónő tiszteletére alapított irodalmi emlékszoba Speyerben.",
+                  "category": "museum",
+                  "coords": [
+                        8.439553,
+                        49.317457
+                  ]
+            },
+            {
+                  "name": "bademaxx - Das Sport- und Erlebnisbad in Speyer",
+                  "text": "Modern sport- és élményfürdő szaunarészleggel Speyer városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.450014,
+                        49.314106
+                  ]
+            },
+            {
+                  "name": "Museum im Brückenhaus",
+                  "text": "Speyer helyi történelmét és kultúráját bemutató kis múzeum a Rajna-part közelében.",
+                  "category": "museum",
+                  "coords": [
+                        8.449623,
+                        49.316822
+                  ]
+            },
+            {
+                  "name": "Haus der Badisch-Pfälzischen Fastnacht",
+                  "text": "A baden-pfalzi farsangi hagyományokat bemutató különleges múzeum Speyerben.",
+                  "category": "museum",
+                  "coords": [
+                        8.429633,
+                        49.339632
+                  ]
+            },
+            {
+                  "name": "Sea Life Speyer",
+                  "text": "Speyer nagyméretű akváriuma, amely számos vízi élőlényt mutat be a Rajnától a trópusokig.",
+                  "category": "recreational",
+                  "coords": [
+                        8.447367,
+                        49.31886
+                  ]
+            },
+            {
+                  "name": "Bademaxx",
+                  "text": "Speyeri sport- és élményfürdő úszómedencékkel és különféle wellness-részlegekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        8.451307,
+                        49.313966
+                  ]
+            },
+            {
+                  "name": "Adenauer-Park",
+                  "text": "Nyugodt park Speyerben egy egykori temető helyén, egy gótikus kápolnával.",
+                  "category": "park",
+                  "coords": [
+                        8.43051,
+                        49.323326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum SchPIRA",
+                  "text": "Muzeul de istorie a evreilor din Speyer, care face parte din patrimoniul mondial al siturilor SchUM.",
+                  "category": "museum",
+                  "coords": [
+                        8.439474,
+                        49.316425
+                  ]
+            },
+            {
+                  "name": "Elwedritsche-Museum Speyer",
+                  "text": "Un muzeu din Speyer dedicat creaturii mitice din Palatinat numită Elwetritsch.",
+                  "category": "museum",
+                  "coords": [
+                        8.433255,
+                        49.316927
+                  ]
+            },
+            {
+                  "name": "Museum Wilhelmsbau",
+                  "text": "Acest muzeu din Speyer prezintă instrumente muzicale mecanice și costume istorice.",
+                  "category": "museum",
+                  "coords": [
+                        8.44891,
+                        49.312718
+                  ]
+            },
+            {
+                  "name": "Augustinerkloster",
+                  "text": "Mănăstirea Augustinilor este un complex monastic istoric situat în orașul vechi din Speyer.",
+                  "category": "religious",
+                  "coords": [
+                        8.433642,
+                        49.319503
+                  ]
+            },
+            {
+                  "name": "Flotzgrün",
+                  "text": "Flotzgrün este o rezervație naturală pe o insulă de pe Rin, în apropiere de Speyer.",
+                  "category": "natural",
+                  "coords": [
+                        8.433612,
+                        49.278509
+                  ]
+            },
+            {
+                  "name": "Technik Museum Speyer",
+                  "text": "Un mare muzeu al tehnicii din Speyer, cu avioane, mașini de epocă și un submarin.",
+                  "category": "museum",
+                  "coords": [
+                        8.447931,
+                        49.311434
+                  ]
+            },
+            {
+                  "name": "Historisches Museum der Pfalz",
+                  "text": "Muzeul din Speyer prezintă colecții importante de istorie culturală din regiunea Palatinat.",
+                  "category": "museum",
+                  "coords": [
+                        8.441458,
+                        49.315486
+                  ]
+            },
+            {
+                  "name": "Archäologisches Schaufenster",
+                  "text": "Un muzeu din Speyer care prezintă descoperiri arheologice și rezultate ale excavărilor.",
+                  "category": "museum",
+                  "coords": [
+                        8.43044,
+                        49.316016
+                  ]
+            },
+            {
+                  "name": "Feuerbachhaus",
+                  "text": "Casa natală a pictorului Anselm Feuerbach din Speyer servește astăzi ca muzeu și memorial.",
+                  "category": "museum",
+                  "coords": [
+                        8.435471,
+                        49.314646
+                  ]
+            },
+            {
+                  "name": "Sophie la Roche-Stube",
+                  "text": "Cameră memorială dedicată scriitoarei Sophie von La Roche din orașul Speyer.",
+                  "category": "museum",
+                  "coords": [
+                        8.439553,
+                        49.317457
+                  ]
+            },
+            {
+                  "name": "bademaxx - Das Sport- und Erlebnisbad in Speyer",
+                  "text": "Un parc acvatic modern și bazin sportiv cu zonă de wellness în Speyer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.450014,
+                        49.314106
+                  ]
+            },
+            {
+                  "name": "Museum im Brückenhaus",
+                  "text": "Un mic muzeu din Speyer care prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        8.449623,
+                        49.316822
+                  ]
+            },
+            {
+                  "name": "Haus der Badisch-Pfälzischen Fastnacht",
+                  "text": "Un muzeu din Speyer dedicat tradițiilor carnavalului din regiunea Baden-Palatinat.",
+                  "category": "museum",
+                  "coords": [
+                        8.429633,
+                        49.339632
+                  ]
+            },
+            {
+                  "name": "Sea Life Speyer",
+                  "text": "Un acvariu mare din Speyer care găzduiește numeroase specii marine din diverse regiuni.",
+                  "category": "recreational",
+                  "coords": [
+                        8.447367,
+                        49.31886
+                  ]
+            },
+            {
+                  "name": "Bademaxx",
+                  "text": "Centrul acvatic din Speyer oferă piscine pentru înot și diverse zone de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        8.451307,
+                        49.313966
+                  ]
+            },
+            {
+                  "name": "Adenauer-Park",
+                  "text": "Un parc liniștit din Speyer situat pe locul unui fost cimitir, unde se află o capelă gotică.",
+                  "category": "park",
+                  "coords": [
+                        8.43051,
+                        49.323326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum SchPIRA",
+                  "text": "A museum of Jewish history in Speyer, which is part of the SchUM sites World Heritage.",
+                  "category": "museum",
+                  "coords": [
+                        8.439474,
+                        49.316425
+                  ]
+            },
+            {
+                  "name": "Elwedritsche-Museum Speyer",
+                  "text": "A museum in Speyer dedicated to the mythical Palatinate creature known as the Elwetritsch.",
+                  "category": "museum",
+                  "coords": [
+                        8.433255,
+                        49.316927
+                  ]
+            },
+            {
+                  "name": "Museum Wilhelmsbau",
+                  "text": "This museum in Speyer presents mechanical musical instruments and historical costumes.",
+                  "category": "museum",
+                  "coords": [
+                        8.44891,
+                        49.312718
+                  ]
+            },
+            {
+                  "name": "Augustinerkloster",
+                  "text": "The Augustinian Monastery is a historical monastic complex in the old town of Speyer.",
+                  "category": "religious",
+                  "coords": [
+                        8.433642,
+                        49.319503
+                  ]
+            },
+            {
+                  "name": "Flotzgrün",
+                  "text": "Flotzgrün is a nature reserve located on a Rhine island near Speyer.",
+                  "category": "natural",
+                  "coords": [
+                        8.433612,
+                        49.278509
+                  ]
+            },
+            {
+                  "name": "Technik Museum Speyer",
+                  "text": "A large technology museum in Speyer featuring aircraft, vintage cars, and a submarine.",
+                  "category": "museum",
+                  "coords": [
+                        8.447931,
+                        49.311434
+                  ]
+            },
+            {
+                  "name": "Historisches Museum der Pfalz",
+                  "text": "The museum in Speyer displays significant cultural and historical collections from the Palatinate.",
+                  "category": "museum",
+                  "coords": [
+                        8.441458,
+                        49.315486
+                  ]
+            },
+            {
+                  "name": "Archäologisches Schaufenster",
+                  "text": "A museum in Speyer that presents archaeological finds and excavation results from the region.",
+                  "category": "museum",
+                  "coords": [
+                        8.43044,
+                        49.316016
+                  ]
+            },
+            {
+                  "name": "Feuerbachhaus",
+                  "text": "The birthplace of the painter Anselm Feuerbach in Speyer today serves as a museum and memorial.",
+                  "category": "museum",
+                  "coords": [
+                        8.435471,
+                        49.314646
+                  ]
+            },
+            {
+                  "name": "Sophie la Roche-Stube",
+                  "text": "A literary memorial room in Speyer dedicated to the writer Sophie von La Roche.",
+                  "category": "museum",
+                  "coords": [
+                        8.439553,
+                        49.317457
+                  ]
+            },
+            {
+                  "name": "bademaxx - Das Sport- und Erlebnisbad in Speyer",
+                  "text": "A modern sports and adventure pool with a sauna area in Speyer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.450014,
+                        49.314106
+                  ]
+            },
+            {
+                  "name": "Museum im Brückenhaus",
+                  "text": "A small museum in Speyer showcasing local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        8.449623,
+                        49.316822
+                  ]
+            },
+            {
+                  "name": "Haus der Badisch-Pfälzischen Fastnacht",
+                  "text": "A museum in Speyer dedicated to the traditions of the Baden-Palatinate carnival.",
+                  "category": "museum",
+                  "coords": [
+                        8.429633,
+                        49.339632
+                  ]
+            },
+            {
+                  "name": "Sea Life Speyer",
+                  "text": "A large aquarium in Speyer featuring numerous marine creatures from different regions.",
+                  "category": "recreational",
+                  "coords": [
+                        8.447367,
+                        49.31886
+                  ]
+            },
+            {
+                  "name": "Bademaxx",
+                  "text": "The sports and adventure pool in Speyer offers swimming pools and various wellness areas.",
+                  "category": "recreational",
+                  "coords": [
+                        8.451307,
+                        49.313966
+                  ]
+            },
+            {
+                  "name": "Adenauer-Park",
+                  "text": "A peaceful park in Speyer located on a former cemetery site, home to a Gothic chapel.",
+                  "category": "park",
+                  "coords": [
+                        8.43051,
+                        49.323326
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Speyer", hu: "Speyer", ro: "Speyer", en: "Speyer" },
@@ -1015,7 +3688,808 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-speyer-cities-v2.webp",
   },
   {
-    id: "germany-bamberg-cities-v2",
+    id: "germany-bamberg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "E.T.A.-Hoffmann-Theater",
+                  "text": "Das Stadttheater von Bamberg, benannt nach dem Dichter E.T.A. Hoffmann.",
+                  "category": "cultural",
+                  "coords": [
+                        10.891089,
+                        49.890699
+                  ]
+            },
+            {
+                  "name": "Fränkisches Brauereimuseum",
+                  "text": "Das Museum im ehemaligen Brauhaus des Klosters Michelsberg zeigt die Geschichte des Bierbrauens.",
+                  "category": "museum",
+                  "coords": [
+                        10.875932,
+                        49.893761
+                  ]
+            },
+            {
+                  "name": "Sammlung Ludwig",
+                  "text": "Eine bedeutende Porzellansammlung im Alten Rathaus von Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.886911,
+                        49.891536
+                  ]
+            },
+            {
+                  "name": "Bamberger Marionettentheater",
+                  "text": "Ein traditionsreiches Puppentheater im historischen Gebäude der ehemaligen Staubschen Druckerei.",
+                  "category": "cultural",
+                  "coords": [
+                        10.880902,
+                        49.894154
+                  ]
+            },
+            {
+                  "name": "Naturkundemuseum",
+                  "text": "Ein Museum mit dem historischen Vogelsaal, das die regionale Naturgeschichte dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.887909,
+                        49.894313
+                  ]
+            },
+            {
+                  "name": "Museum für frühislamische Kunst",
+                  "text": "Das Museum widmet sich der Kunst und Kultur der frühen islamischen Welt.",
+                  "category": "museum",
+                  "coords": [
+                        10.887239,
+                        49.893171
+                  ]
+            },
+            {
+                  "name": "Gärtner- und Häckermuseum",
+                  "text": "Ein Museum, das das Leben der traditionellen Bamberger Gärtner und Weinbauern dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.892816,
+                        49.899439
+                  ]
+            },
+            {
+                  "name": "Villa Dessauer",
+                  "text": "Eine ehemalige Unternehmervilla, die heute als städtische Galerie für Kunstausstellungen dient.",
+                  "category": "museum",
+                  "coords": [
+                        10.892726,
+                        49.890772
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Bamberg",
+                  "text": "Das Museum am Domplatz zeigt den Domschatz und religiöse Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        10.883219,
+                        49.890579
+                  ]
+            },
+            {
+                  "name": "Staatliches Bauamt Bamberg",
+                  "text": "Ein ehemaliges Dominikanerkloster in Bamberg, das heute als Sitz des Staatlichen Bauamtes dient.",
+                  "category": "religious",
+                  "coords": [
+                        10.885624,
+                        49.892174
+                  ]
+            },
+            {
+                  "name": "Börstig bei Hallstadt",
+                  "text": "Ein Naturschutzgebiet bei Hallstadt, das für seine seltenen Pflanzenarten und Kalkmagerrasen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        10.903744,
+                        49.925722
+                  ]
+            },
+            {
+                  "name": "Muna-Gelände in Bamberg",
+                  "text": "Ein ehemaliges Militärgelände in Bamberg, das sich zu einem wertvollen Rückzugsort für die Natur entwickelt hat.",
+                  "category": "natural",
+                  "coords": [
+                        10.925276,
+                        49.886803
+                  ]
+            },
+            {
+                  "name": "Neue Residenz",
+                  "text": "Ein prachtvoller barocker Palastkomplex, der einst als Residenz der bamberger Fürstbischöfe diente.",
+                  "category": "museum",
+                  "coords": [
+                        10.881955,
+                        49.891834
+                  ]
+            },
+            {
+                  "name": "Alte Bonbonkocherei - Krippenmuseum",
+                  "text": "Ein Museum in Bamberg, das historische Weihnachtskrippen und die traditionelle Kunst der Bonbonherstellung vereint.",
+                  "category": "museum",
+                  "coords": [
+                        10.882963,
+                        49.892269
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Ein Museum in Bamberg, das die Geschichte der Feuerwehr und historische Löschfahrzeuge präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.887476,
+                        49.902225
+                  ]
+            },
+            {
+                  "name": "Knoten Bamberg Infopunkt",
+                  "text": "Ein Informationszentrum zum Ausbau der Bahninfrastruktur und zur Geschichte des Schienenverkehrs in Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.898583,
+                        49.901094
+                  ]
+            },
+            {
+                  "name": "Kunstraum Kesselhaus",
+                  "text": "Ein zeitgenössischer Kunstraum, der sich in der industriellen Kulisse eines ehemaligen Kesselhauses befindet.",
+                  "category": "museum",
+                  "coords": [
+                        10.876883,
+                        49.89647
+                  ]
+            },
+            {
+                  "name": "Dokumentationszentrum Mikwe",
+                  "text": "Ein Dokumentationszentrum über ein mittelalterliches jüdisches Ritualbad im historischen Zentrum von Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.890857,
+                        49.892943
+                  ]
+            },
+            {
+                  "name": "Hainbad",
+                  "text": "Ein malerisches historisches Flussbad am Regnitzufer im bamberger Hain-Park.",
+                  "category": "recreational",
+                  "coords": [
+                        10.893502,
+                        49.885196
+                  ]
+            },
+            {
+                  "name": "Stadionbad",
+                  "text": "Ein beliebtes Freibad in Bamberg mit verschiedenen Becken und Liegewiesen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.925652,
+                        49.899563
+                  ]
+            },
+            {
+                  "name": "Bambados - Das Familien- und Sportbad",
+                  "text": "Ein modernes Hallenbad in Bamberg für Familien- und Sportaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.923758,
+                        49.899735
+                  ]
+            },
+            {
+                  "name": "Zentrum Welterbe Bamberg",
+                  "text": "Das Informationszentrum zum UNESCO-Welterbe der Stadt Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.887531,
+                        49.890565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "E.T.A.-Hoffmann-Theater",
+                  "text": "Bamberg városi színháza, amely E.T.A. Hoffmann író nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        10.891089,
+                        49.890699
+                  ]
+            },
+            {
+                  "name": "Fränkisches Brauereimuseum",
+                  "text": "A Michelsberg-kolostor egykori sörfőzdéjében található múzeum a sörfőzés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.875932,
+                        49.893761
+                  ]
+            },
+            {
+                  "name": "Sammlung Ludwig",
+                  "text": "Jelentős porcelángyűjtemény a bambergi régi városháza épületében.",
+                  "category": "museum",
+                  "coords": [
+                        10.886911,
+                        49.891536
+                  ]
+            },
+            {
+                  "name": "Bamberger Marionettentheater",
+                  "text": "Hagyományos bábszínház, amely klasszikus darabokat mutat be egy történelmi épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        10.880902,
+                        49.894154
+                  ]
+            },
+            {
+                  "name": "Naturkundemuseum",
+                  "text": "Természettudományi múzeum, amely híres a történelmi Madárterméről (Vogelsaal).",
+                  "category": "museum",
+                  "coords": [
+                        10.887909,
+                        49.894313
+                  ]
+            },
+            {
+                  "name": "Museum für frühislamische Kunst",
+                  "text": "A kora iszlám világ művészetével és kultúrájával foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.887239,
+                        49.893171
+                  ]
+            },
+            {
+                  "name": "Gärtner- und Häckermuseum",
+                  "text": "A bambergi kertészek és szőlőművesek hagyományos életét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.892816,
+                        49.899439
+                  ]
+            },
+            {
+                  "name": "Villa Dessauer",
+                  "text": "Egykori polgári villa, amely ma városi galériaként művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.892726,
+                        49.890772
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Bamberg",
+                  "text": "A Dóm téren található múzeum a székesegyház kincstárát és egyházi műkincseket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.883219,
+                        49.890579
+                  ]
+            },
+            {
+                  "name": "Staatliches Bauamt Bamberg",
+                  "text": "Egykori domonkos kolostor Bambergben, amely ma az állami építésügyi hivatalnak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        10.885624,
+                        49.892174
+                  ]
+            },
+            {
+                  "name": "Börstig bei Hallstadt",
+                  "text": "Hallstadt melletti természetvédelmi terület, amely ritka növényfajairól és mészkerülő gyepeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        10.903744,
+                        49.925722
+                  ]
+            },
+            {
+                  "name": "Muna-Gelände in Bamberg",
+                  "text": "Egykori katonai terület Bambergben, amely értékes természetvédelmi területté és menedékhellyé vált.",
+                  "category": "natural",
+                  "coords": [
+                        10.925276,
+                        49.886803
+                  ]
+            },
+            {
+                  "name": "Neue Residenz",
+                  "text": "Pompás barokk palotakomplexum, amely egykor a bambergi hercegérsekek rezidenciájaként szolgált.",
+                  "category": "museum",
+                  "coords": [
+                        10.881955,
+                        49.891834
+                  ]
+            },
+            {
+                  "name": "Alte Bonbonkocherei - Krippenmuseum",
+                  "text": "Bambergi múzeum, amely történelmi betlehemeket és a cukorkakészítés hagyományos művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.882963,
+                        49.892269
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Bambergi múzeum, amely a tűzoltóság történetét és történelmi tűzoltóautókat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.887476,
+                        49.902225
+                  ]
+            },
+            {
+                  "name": "Knoten Bamberg Infopunkt",
+                  "text": "Információs központ a bambergi vasúti infrastruktúra bővítéséről és a vasúti közlekedés történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        10.898583,
+                        49.901094
+                  ]
+            },
+            {
+                  "name": "Kunstraum Kesselhaus",
+                  "text": "Kortárs művészeti tér, amely egy egykori kazánház ipari kulisszái között található.",
+                  "category": "museum",
+                  "coords": [
+                        10.876883,
+                        49.89647
+                  ]
+            },
+            {
+                  "name": "Dokumentationszentrum Mikwe",
+                  "text": "Dokumentációs központ egy középkori zsidó rituális fürdőről Bamberg történelmi központjában.",
+                  "category": "museum",
+                  "coords": [
+                        10.890857,
+                        49.892943
+                  ]
+            },
+            {
+                  "name": "Hainbad",
+                  "text": "Festői történelmi folyami strand a Regnitz partján, a bambergi Hain-parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.893502,
+                        49.885196
+                  ]
+            },
+            {
+                  "name": "Stadionbad",
+                  "text": "Népszerű szabadtéri strand Bambergben, különféle medencékkel és napozóhelyekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.925652,
+                        49.899563
+                  ]
+            },
+            {
+                  "name": "Bambados - Das Familien- und Sportbad",
+                  "text": "Modern fedett uszoda Bambergben, amely családi és sportolási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.923758,
+                        49.899735
+                  ]
+            },
+            {
+                  "name": "Zentrum Welterbe Bamberg",
+                  "text": "A bambergi UNESCO világörökségi helyszínt bemutató információs központ.",
+                  "category": "museum",
+                  "coords": [
+                        10.887531,
+                        49.890565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "E.T.A.-Hoffmann-Theater",
+                  "text": "Teatrul orășenesc din Bamberg, numit după scriitorul E.T.A. Hoffmann.",
+                  "category": "cultural",
+                  "coords": [
+                        10.891089,
+                        49.890699
+                  ]
+            },
+            {
+                  "name": "Fränkisches Brauereimuseum",
+                  "text": "Muzeul situat în fosta berărie a mănăstirii Michelsberg prezintă istoria fabricării berii.",
+                  "category": "museum",
+                  "coords": [
+                        10.875932,
+                        49.893761
+                  ]
+            },
+            {
+                  "name": "Sammlung Ludwig",
+                  "text": "O colecție importantă de porțelan situată în Vechea Primărie din Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.886911,
+                        49.891536
+                  ]
+            },
+            {
+                  "name": "Bamberger Marionettentheater",
+                  "text": "Un teatru tradițional de marionete care prezintă piese clasice într-o clădire istorică.",
+                  "category": "cultural",
+                  "coords": [
+                        10.880902,
+                        49.894154
+                  ]
+            },
+            {
+                  "name": "Naturkundemuseum",
+                  "text": "Muzeul de istorie naturală din Bamberg, faimos pentru sala sa istorică a păsărilor (Vogelsaal).",
+                  "category": "museum",
+                  "coords": [
+                        10.887909,
+                        49.894313
+                  ]
+            },
+            {
+                  "name": "Museum für frühislamische Kunst",
+                  "text": "Muzeu dedicat artei și culturii lumii islamice timpurii.",
+                  "category": "museum",
+                  "coords": [
+                        10.887239,
+                        49.893171
+                  ]
+            },
+            {
+                  "name": "Gärtner- und Häckermuseum",
+                  "text": "Un muzeu care documentează viața tradițională a grădinarilor și viticultorilor din Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.892816,
+                        49.899439
+                  ]
+            },
+            {
+                  "name": "Villa Dessauer",
+                  "text": "O fostă vilă industrială care servește astăzi drept galerie municipală pentru expoziții de artă.",
+                  "category": "museum",
+                  "coords": [
+                        10.892726,
+                        49.890772
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Bamberg",
+                  "text": "Muzeul situat lângă catedrală prezintă tezaurul acesteia și opere de artă religioasă.",
+                  "category": "museum",
+                  "coords": [
+                        10.883219,
+                        49.890579
+                  ]
+            },
+            {
+                  "name": "Staatliches Bauamt Bamberg",
+                  "text": "O fostă mănăstire dominicană din Bamberg, care astăzi servește drept sediu al Oficiului de Stat pentru Construcții.",
+                  "category": "religious",
+                  "coords": [
+                        10.885624,
+                        49.892174
+                  ]
+            },
+            {
+                  "name": "Börstig bei Hallstadt",
+                  "text": "O rezervație naturală lângă Hallstadt, cunoscută pentru speciile rare de plante și pajiștile calcaroase.",
+                  "category": "natural",
+                  "coords": [
+                        10.903744,
+                        49.925722
+                  ]
+            },
+            {
+                  "name": "Muna-Gelände in Bamberg",
+                  "text": "O fostă zonă militară din Bamberg, transformată într-un refugiu valoros pentru natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.925276,
+                        49.886803
+                  ]
+            },
+            {
+                  "name": "Neue Residenz",
+                  "text": "Un complex magnific de palat baroc, care a servit drept reședință a prinților-episcopi din Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.881955,
+                        49.891834
+                  ]
+            },
+            {
+                  "name": "Alte Bonbonkocherei - Krippenmuseum",
+                  "text": "Un muzeu din Bamberg care îmbină scene istorice ale Nașterii Domnului cu arta tradițională a fabricării bomboanelor.",
+                  "category": "museum",
+                  "coords": [
+                        10.882963,
+                        49.892269
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Un muzeu din Bamberg care prezintă istoria pompierilor și vehicule istorice de stingere a incendiilor.",
+                  "category": "museum",
+                  "coords": [
+                        10.887476,
+                        49.902225
+                  ]
+            },
+            {
+                  "name": "Knoten Bamberg Infopunkt",
+                  "text": "Un centru de informare despre extinderea infrastructurii feroviare și istoria transportului pe șine în Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.898583,
+                        49.901094
+                  ]
+            },
+            {
+                  "name": "Kunstraum Kesselhaus",
+                  "text": "Un spațiu de artă contemporană situat în cadrul industrial al unei foste centrale termice.",
+                  "category": "museum",
+                  "coords": [
+                        10.876883,
+                        49.89647
+                  ]
+            },
+            {
+                  "name": "Dokumentationszentrum Mikwe",
+                  "text": "Un centru de documentare despre o baie rituală evreiască medievală din centrul istoric al Bambergului.",
+                  "category": "museum",
+                  "coords": [
+                        10.890857,
+                        49.892943
+                  ]
+            },
+            {
+                  "name": "Hainbad",
+                  "text": "O ștrand istoric pitoresc pe malul râului Regnitz, în parcul Hain din Bamberg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.893502,
+                        49.885196
+                  ]
+            },
+            {
+                  "name": "Stadionbad",
+                  "text": "Un ștrand popular în aer liber din Bamberg, cu diverse bazine și zone de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.925652,
+                        49.899563
+                  ]
+            },
+            {
+                  "name": "Bambados - Das Familien- und Sportbad",
+                  "text": "O piscină interioară modernă din Bamberg pentru activități de familie și sport.",
+                  "category": "recreational",
+                  "coords": [
+                        10.923758,
+                        49.899735
+                  ]
+            },
+            {
+                  "name": "Zentrum Welterbe Bamberg",
+                  "text": "Centrul de informare despre patrimoniul mondial UNESCO din orașul Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.887531,
+                        49.890565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "E.T.A.-Hoffmann-Theater",
+                  "text": "The municipal theater of Bamberg, named after the writer E.T.A. Hoffmann.",
+                  "category": "cultural",
+                  "coords": [
+                        10.891089,
+                        49.890699
+                  ]
+            },
+            {
+                  "name": "Fränkisches Brauereimuseum",
+                  "text": "Located in the former brewery of Michelsberg Abbey, this museum showcases the history of beer brewing.",
+                  "category": "museum",
+                  "coords": [
+                        10.875932,
+                        49.893761
+                  ]
+            },
+            {
+                  "name": "Sammlung Ludwig",
+                  "text": "An important porcelain collection housed in the Old Town Hall of Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.886911,
+                        49.891536
+                  ]
+            },
+            {
+                  "name": "Bamberger Marionettentheater",
+                  "text": "A traditional puppet theater performing classical plays in a historical setting.",
+                  "category": "cultural",
+                  "coords": [
+                        10.880902,
+                        49.894154
+                  ]
+            },
+            {
+                  "name": "Naturkundemuseum",
+                  "text": "Natural history museum in Bamberg, famous for its historical Bird Room (Vogelsaal).",
+                  "category": "museum",
+                  "coords": [
+                        10.887909,
+                        49.894313
+                  ]
+            },
+            {
+                  "name": "Museum für frühislamische Kunst",
+                  "text": "A museum dedicated to the art and culture of the early Islamic world.",
+                  "category": "museum",
+                  "coords": [
+                        10.887239,
+                        49.893171
+                  ]
+            },
+            {
+                  "name": "Gärtner- und Häckermuseum",
+                  "text": "A museum documenting the traditional life of market gardeners and winegrowers in Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.892816,
+                        49.899439
+                  ]
+            },
+            {
+                  "name": "Villa Dessauer",
+                  "text": "A former entrepreneur's villa that today serves as a municipal gallery for art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        10.892726,
+                        49.890772
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Bamberg",
+                  "text": "Located by the cathedral, this museum displays the cathedral treasury and religious artworks.",
+                  "category": "museum",
+                  "coords": [
+                        10.883219,
+                        49.890579
+                  ]
+            },
+            {
+                  "name": "Staatliches Bauamt Bamberg",
+                  "text": "A former Dominican monastery in Bamberg, currently housing the State Building Office.",
+                  "category": "religious",
+                  "coords": [
+                        10.885624,
+                        49.892174
+                  ]
+            },
+            {
+                  "name": "Börstig bei Hallstadt",
+                  "text": "A nature reserve near Hallstadt, known for its rare plant species and limestone grasslands.",
+                  "category": "natural",
+                  "coords": [
+                        10.903744,
+                        49.925722
+                  ]
+            },
+            {
+                  "name": "Muna-Gelände in Bamberg",
+                  "text": "A former military site in Bamberg that has developed into a valuable nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        10.925276,
+                        49.886803
+                  ]
+            },
+            {
+                  "name": "Neue Residenz",
+                  "text": "A magnificent baroque palace complex that once served as the residence of the Bamberg prince-bishops.",
+                  "category": "museum",
+                  "coords": [
+                        10.881955,
+                        49.891834
+                  ]
+            },
+            {
+                  "name": "Alte Bonbonkocherei - Krippenmuseum",
+                  "text": "A museum in Bamberg combining historic Nativity scenes with the traditional art of candy making.",
+                  "category": "museum",
+                  "coords": [
+                        10.882963,
+                        49.892269
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "A museum in Bamberg presenting the history of the fire department and historic fire engines.",
+                  "category": "museum",
+                  "coords": [
+                        10.887476,
+                        49.902225
+                  ]
+            },
+            {
+                  "name": "Knoten Bamberg Infopunkt",
+                  "text": "An information center regarding the expansion of railway infrastructure and the history of rail transport in Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.898583,
+                        49.901094
+                  ]
+            },
+            {
+                  "name": "Kunstraum Kesselhaus",
+                  "text": "A contemporary art space located in the industrial setting of a former boiler house.",
+                  "category": "museum",
+                  "coords": [
+                        10.876883,
+                        49.89647
+                  ]
+            },
+            {
+                  "name": "Dokumentationszentrum Mikwe",
+                  "text": "A documentation center about a medieval Jewish ritual bath in the historic center of Bamberg.",
+                  "category": "museum",
+                  "coords": [
+                        10.890857,
+                        49.892943
+                  ]
+            },
+            {
+                  "name": "Hainbad",
+                  "text": "A picturesque historic river pool on the banks of the Regnitz in Bamberg's Hain Park.",
+                  "category": "recreational",
+                  "coords": [
+                        10.893502,
+                        49.885196
+                  ]
+            },
+            {
+                  "name": "Stadionbad",
+                  "text": "A popular outdoor swimming pool in Bamberg with various pools and sunbathing areas.",
+                  "category": "recreational",
+                  "coords": [
+                        10.925652,
+                        49.899563
+                  ]
+            },
+            {
+                  "name": "Bambados - Das Familien- und Sportbad",
+                  "text": "A modern indoor swimming pool in Bamberg for family and sports activities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.923758,
+                        49.899735
+                  ]
+            },
+            {
+                  "name": "Zentrum Welterbe Bamberg",
+                  "text": "The visitor center providing information about Bamberg's UNESCO World Heritage status.",
+                  "category": "museum",
+                  "coords": [
+                        10.887531,
+                        49.890565
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Bamberg", hu: "Bamberg", ro: "Bamberg", en: "Bamberg" },
@@ -1064,7 +4538,340 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-bamberg-cities-v2.webp",
   },
   {
-    id: "germany-solingen-cities-v2",
+    id: "germany-solingen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theater und Konzerthaus Solingen",
+                  "text": "Zentraler Kulturstandort in Solingen für Theateraufführungen und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        7.081327,
+                        51.17899
+                  ]
+            },
+            {
+                  "name": "Laurel & Hardy Museum",
+                  "text": "Ein Museum in Solingen-Wald, das dem berühmten Komiker-Duo Laurel und Hardy gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.043346,
+                        51.180565
+                  ]
+            },
+            {
+                  "name": "Obus Museum",
+                  "text": "Das Museum bewahrt historische Oberleitungsbusse aus dem Solinger Verkehrsnetz.",
+                  "category": "museum",
+                  "coords": [
+                        7.070177,
+                        51.179512
+                  ]
+            },
+            {
+                  "name": "Gesenkschmiede Hendrichs",
+                  "text": "Ein Standort des LVR-Industriemuseums, der die historische Gesenkschmiedetechnik zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.037875,
+                        51.17088
+                  ]
+            },
+            {
+                  "name": "Plagiarius",
+                  "text": "Ein Museum, das Originalprodukte im direkten Vergleich zu ihren Plagiaten und Fälschungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.082629,
+                        51.164566
+                  ]
+            },
+            {
+                  "name": "Naturdenkmal",
+                  "text": "Ein geschütztes Naturdenkmal oder Naturschutzgebiet im Stadtgebiet von Solingen.",
+                  "category": "natural",
+                  "coords": [
+                        7.052863,
+                        51.162709
+                  ]
+            },
+            {
+                  "name": "LVR Taschenmesserreiderei Lauterjung",
+                  "text": "Eine historische Werkstatt, die die traditionelle Montage von Taschenmessern zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.114529,
+                        51.161883
+                  ]
+            },
+            {
+                  "name": "Walder Stadtpark",
+                  "text": "Ein öffentlicher Park im Stadtteil Solingen-Wald mit Grünflächen zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        7.046668,
+                        51.18412
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Solingen",
+                  "text": "Ein Fernmeldeturm für Funkübertragungen und ein markantes Bauwerk der Stadt.",
+                  "category": "tower",
+                  "coords": [
+                        7.077121,
+                        51.188061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theater und Konzerthaus Solingen",
+                  "text": "Solingen központi kulturális helyszíne színházi előadásokhoz és koncertekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.081327,
+                        51.17899
+                  ]
+            },
+            {
+                  "name": "Laurel & Hardy Museum",
+                  "text": "A híres Stan és Pan komikus párosnak szentelt múzeum Solingen-Wald városrészben.",
+                  "category": "museum",
+                  "coords": [
+                        7.043346,
+                        51.180565
+                  ]
+            },
+            {
+                  "name": "Obus Museum",
+                  "text": "A múzeum a solingeni hálózat történelmi trolibuszait őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.070177,
+                        51.179512
+                  ]
+            },
+            {
+                  "name": "Gesenkschmiede Hendrichs",
+                  "text": "Az LVR Ipari Múzeum helyszíne, amely a történelmi süllyesztékes kovácsolást mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.037875,
+                        51.17088
+                  ]
+            },
+            {
+                  "name": "Plagiarius",
+                  "text": "Eredeti termékeket és azok másolatait, hamisítványait bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.082629,
+                        51.164566
+                  ]
+            },
+            {
+                  "name": "Naturdenkmal",
+                  "text": "Védett természeti emlék vagy természetvédelmi terület Solingen területén.",
+                  "category": "natural",
+                  "coords": [
+                        7.052863,
+                        51.162709
+                  ]
+            },
+            {
+                  "name": "LVR Taschenmesserreiderei Lauterjung",
+                  "text": "Történelmi műhely, amely a zsebkések hagyományos összeszerelését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.114529,
+                        51.161883
+                  ]
+            },
+            {
+                  "name": "Walder Stadtpark",
+                  "text": "Nyilvános park Solingen-Wald városrészben, zöldterületekkel a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        7.046668,
+                        51.18412
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Solingen",
+                  "text": "Műsorszóráshoz használt távközlési torony, a város egyik jellegzetes építménye.",
+                  "category": "tower",
+                  "coords": [
+                        7.077121,
+                        51.188061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theater und Konzerthaus Solingen",
+                  "text": "Locație culturală centrală în Solingen pentru spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        7.081327,
+                        51.17899
+                  ]
+            },
+            {
+                  "name": "Laurel & Hardy Museum",
+                  "text": "Un muzeu dedicat celebrului duo de comedie Laurel și Hardy, situat în Solingen-Wald.",
+                  "category": "museum",
+                  "coords": [
+                        7.043346,
+                        51.180565
+                  ]
+            },
+            {
+                  "name": "Obus Museum",
+                  "text": "Muzeul păstrează troleibuze istorice din rețeaua de transport din Solingen.",
+                  "category": "museum",
+                  "coords": [
+                        7.070177,
+                        51.179512
+                  ]
+            },
+            {
+                  "name": "Gesenkschmiede Hendrichs",
+                  "text": "O locație a Muzeului Industrial LVR care prezintă tehnica istorică de forjare.",
+                  "category": "museum",
+                  "coords": [
+                        7.037875,
+                        51.17088
+                  ]
+            },
+            {
+                  "name": "Plagiarius",
+                  "text": "Un muzeu care expune produse originale alături de falsurile și copiile acestora.",
+                  "category": "museum",
+                  "coords": [
+                        7.082629,
+                        51.164566
+                  ]
+            },
+            {
+                  "name": "Naturdenkmal",
+                  "text": "Un monument al naturii protejat sau o rezervație naturală în Solingen.",
+                  "category": "natural",
+                  "coords": [
+                        7.052863,
+                        51.162709
+                  ]
+            },
+            {
+                  "name": "LVR Taschenmesserreiderei Lauterjung",
+                  "text": "Un atelier istoric care prezintă asamblarea tradițională a bricegelor.",
+                  "category": "museum",
+                  "coords": [
+                        7.114529,
+                        51.161883
+                  ]
+            },
+            {
+                  "name": "Walder Stadtpark",
+                  "text": "Un parc public în districtul Solingen-Wald, care oferă spații verzi pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        7.046668,
+                        51.18412
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Solingen",
+                  "text": "Un turn de telecomunicații utilizat pentru transmisii, un punct de reper al orașului.",
+                  "category": "tower",
+                  "coords": [
+                        7.077121,
+                        51.188061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theater und Konzerthaus Solingen",
+                  "text": "Central cultural venue in Solingen for theater performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        7.081327,
+                        51.17899
+                  ]
+            },
+            {
+                  "name": "Laurel & Hardy Museum",
+                  "text": "A museum dedicated to the famous comedy duo Laurel and Hardy, located in Solingen-Wald.",
+                  "category": "museum",
+                  "coords": [
+                        7.043346,
+                        51.180565
+                  ]
+            },
+            {
+                  "name": "Obus Museum",
+                  "text": "The museum preserves historical trolleybuses from Solingen's transport network.",
+                  "category": "museum",
+                  "coords": [
+                        7.070177,
+                        51.179512
+                  ]
+            },
+            {
+                  "name": "Gesenkschmiede Hendrichs",
+                  "text": "A site of the LVR Industrial Museum showcasing historical drop forging techniques.",
+                  "category": "museum",
+                  "coords": [
+                        7.037875,
+                        51.17088
+                  ]
+            },
+            {
+                  "name": "Plagiarius",
+                  "text": "A museum exhibiting original products alongside their blatant counterfeits and copies.",
+                  "category": "museum",
+                  "coords": [
+                        7.082629,
+                        51.164566
+                  ]
+            },
+            {
+                  "name": "Naturdenkmal",
+                  "text": "A protected natural monument or nature reserve within the Solingen area.",
+                  "category": "natural",
+                  "coords": [
+                        7.052863,
+                        51.162709
+                  ]
+            },
+            {
+                  "name": "LVR Taschenmesserreiderei Lauterjung",
+                  "text": "A historical workshop demonstrating the traditional assembly of pocket knives.",
+                  "category": "museum",
+                  "coords": [
+                        7.114529,
+                        51.161883
+                  ]
+            },
+            {
+                  "name": "Walder Stadtpark",
+                  "text": "A public park in the Solingen-Wald district offering green spaces for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        7.046668,
+                        51.18412
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Solingen",
+                  "text": "A telecommunications tower used for broadcasting and a landmark of the city.",
+                  "category": "tower",
+                  "coords": [
+                        7.077121,
+                        51.188061
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Solingen", hu: "Solingen", ro: "Solingen", en: "Solingen" },
@@ -1113,7 +4920,304 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-solingen-cities-v2.webp",
   },
   {
-    id: "germany-siegen-cities-v2",
+    id: "germany-siegen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum für Gegenwartskunst",
+                  "text": "Ein Museum im ehemaligen Telegraphenamt Siegen, das internationale Kunst seit 1945 zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.022588,
+                        50.873899
+                  ]
+            },
+            {
+                  "name": "Siegerlandmuseum",
+                  "text": "Das Regionalmuseum im Oberen Schloss Siegen mit Ausstellungen zur Stadtgeschichte und Peter Paul Rubens.",
+                  "category": "museum",
+                  "coords": [
+                        8.030245,
+                        50.875507
+                  ]
+            },
+            {
+                  "name": "Bühne der Stadt Siegen",
+                  "text": "Ein bedeutender Veranstaltungsort für Theater- und Konzertaufführungen in Siegen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.021315,
+                        50.871497
+                  ]
+            },
+            {
+                  "name": "Apollo Theater",
+                  "text": "Ein modernes Theatergebäude im Zentrum von Siegen mit vielfältigem Spielplan.",
+                  "category": "cultural",
+                  "coords": [
+                        8.017431,
+                        50.873973
+                  ]
+            },
+            {
+                  "name": "Ringlokschuppen",
+                  "text": "Ein kultureller Veranstaltungsort in einem ehemaligen Lokschuppen der Bahn in Siegen.",
+                  "category": "museum",
+                  "coords": [
+                        8.014045,
+                        50.875191
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Lÿz",
+                  "text": "Ein Kultur- und Medienzentrum in Siegen, das Kabarett, Konzerte und Kleinkunst bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.015637,
+                        50.87022
+                  ]
+            },
+            {
+                  "name": "Aktives Museum Südwestfalen",
+                  "text": "Ein Museum zur Zeitgeschichte am Standort der im Jahr 1938 zerstörten Synagoge von Siegen.",
+                  "category": "museum",
+                  "coords": [
+                        8.023283,
+                        50.872762
+                  ]
+            },
+            {
+                  "name": "Westenergie-Park",
+                  "text": "Ein Sport- und Freizeitgelände in Siegen, das für verschiedene Outdoor-Aktivitäten genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        8.026227,
+                        50.877956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum für Gegenwartskunst",
+                  "text": "A siegeni korábbi távíróhivatal épületében működő múzeum, amely 1945 utáni nemzetközi művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.022588,
+                        50.873899
+                  ]
+            },
+            {
+                  "name": "Siegerlandmuseum",
+                  "text": "A siegeni felső kastélyban található regionális múzeum helytörténeti és Peter Paul Rubens kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        8.030245,
+                        50.875507
+                  ]
+            },
+            {
+                  "name": "Bühne der Stadt Siegen",
+                  "text": "Jelentős helyszín színházi és koncertelőadások számára Siegen városában.",
+                  "category": "cultural",
+                  "coords": [
+                        8.021315,
+                        50.871497
+                  ]
+            },
+            {
+                  "name": "Apollo Theater",
+                  "text": "Modern színházépület Siegen központjában, változatos műsortervvel.",
+                  "category": "cultural",
+                  "coords": [
+                        8.017431,
+                        50.873973
+                  ]
+            },
+            {
+                  "name": "Ringlokschuppen",
+                  "text": "Kulturális rendezvényhelyszín a vasút egykori siegeni fűtőházában.",
+                  "category": "museum",
+                  "coords": [
+                        8.014045,
+                        50.875191
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Lÿz",
+                  "text": "Siegeni kulturális és médiaközpont, amely kabaréknak, koncerteknek és egyéb előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        8.015637,
+                        50.87022
+                  ]
+            },
+            {
+                  "name": "Aktives Museum Südwestfalen",
+                  "text": "Jelenkortörténeti múzeum az 1938-ban lerombolt siegeni zsinagóga helyén.",
+                  "category": "museum",
+                  "coords": [
+                        8.023283,
+                        50.872762
+                  ]
+            },
+            {
+                  "name": "Westenergie-Park",
+                  "text": "Siegeni sport- és szabadidőpark, amely különféle szabadtéri tevékenységeknek ad helyet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.026227,
+                        50.877956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum für Gegenwartskunst",
+                  "text": "Un muzeu situat în fostul birou telegrafic din Siegen, care expune artă internațională de după 1945.",
+                  "category": "museum",
+                  "coords": [
+                        8.022588,
+                        50.873899
+                  ]
+            },
+            {
+                  "name": "Siegerlandmuseum",
+                  "text": "Muzeul regional din castelul superior din Siegen, cu expoziții despre istoria orașului și Peter Paul Rubens.",
+                  "category": "museum",
+                  "coords": [
+                        8.030245,
+                        50.875507
+                  ]
+            },
+            {
+                  "name": "Bühne der Stadt Siegen",
+                  "text": "Un loc important pentru spectacole de teatru și concerte în orașul Siegen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.021315,
+                        50.871497
+                  ]
+            },
+            {
+                  "name": "Apollo Theater",
+                  "text": "O clădire de teatru modernă în centrul orașului Siegen, cu un program diversificat.",
+                  "category": "cultural",
+                  "coords": [
+                        8.017431,
+                        50.873973
+                  ]
+            },
+            {
+                  "name": "Ringlokschuppen",
+                  "text": "Un spațiu cultural situat într-un fost depou de locomotive din Siegen.",
+                  "category": "museum",
+                  "coords": [
+                        8.014045,
+                        50.875191
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Lÿz",
+                  "text": "Un centru cultural și media din Siegen care găzduiește spectacole de cabaret, concerte și artă.",
+                  "category": "cultural",
+                  "coords": [
+                        8.015637,
+                        50.87022
+                  ]
+            },
+            {
+                  "name": "Aktives Museum Südwestfalen",
+                  "text": "Un muzeu de istorie contemporană situat pe locul sinagogii din Siegen, distrusă în 1938.",
+                  "category": "museum",
+                  "coords": [
+                        8.023283,
+                        50.872762
+                  ]
+            },
+            {
+                  "name": "Westenergie-Park",
+                  "text": "Un parc de sport și recreere din Siegen, utilizat pentru diverse activități în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        8.026227,
+                        50.877956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum für Gegenwartskunst",
+                  "text": "A museum in the former telegraph office of Siegen showcasing international art since 1945.",
+                  "category": "museum",
+                  "coords": [
+                        8.022588,
+                        50.873899
+                  ]
+            },
+            {
+                  "name": "Siegerlandmuseum",
+                  "text": "The regional museum in Siegen's Upper Castle with exhibitions on city history and Peter Paul Rubens.",
+                  "category": "museum",
+                  "coords": [
+                        8.030245,
+                        50.875507
+                  ]
+            },
+            {
+                  "name": "Bühne der Stadt Siegen",
+                  "text": "A major venue for theatre and concert performances in the city of Siegen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.021315,
+                        50.871497
+                  ]
+            },
+            {
+                  "name": "Apollo Theater",
+                  "text": "A modern theatre building in the centre of Siegen with a diverse schedule of performances.",
+                  "category": "cultural",
+                  "coords": [
+                        8.017431,
+                        50.873973
+                  ]
+            },
+            {
+                  "name": "Ringlokschuppen",
+                  "text": "A cultural venue located in a former railway engine shed in Siegen.",
+                  "category": "museum",
+                  "coords": [
+                        8.014045,
+                        50.875191
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Lÿz",
+                  "text": "A cultural and media centre in Siegen hosting cabaret, concerts, and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        8.015637,
+                        50.87022
+                  ]
+            },
+            {
+                  "name": "Aktives Museum Südwestfalen",
+                  "text": "A museum of contemporary history located on the site of the Siegen synagogue destroyed in 1938.",
+                  "category": "museum",
+                  "coords": [
+                        8.023283,
+                        50.872762
+                  ]
+            },
+            {
+                  "name": "Westenergie-Park",
+                  "text": "A sports and leisure park in Siegen used for various outdoor activities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.026227,
+                        50.877956
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Siegen", hu: "Siegen", ro: "Siegen", en: "Siegen" },
@@ -1162,7 +5266,232 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-siegen-cities-v2.webp",
   },
   {
-    id: "germany-cuxhaven-cities-v2",
+    id: "germany-cuxhaven-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Joachim-Ringelnatz-Museum",
+                  "text": "Ein Museum in Cuxhaven, das dem Leben und Werk des Dichters und Malers Joachim Ringelnatz gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.700207,
+                        53.858049
+                  ]
+            },
+            {
+                  "name": "Stadttheater Cuxhaven",
+                  "text": "Das städtische Theater in Cuxhaven mit einem vielfältigen Programm an Schauspiel und Konzerten.",
+                  "category": "cultural",
+                  "coords": [
+                        8.696302,
+                        53.868213
+                  ]
+            },
+            {
+                  "name": "Schloss Ritzebüttel",
+                  "text": "Ein spätmittelalterliches Schloss in Cuxhaven, das heute für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        8.698428,
+                        53.857207
+                  ]
+            },
+            {
+                  "name": "Windstärke 10",
+                  "text": "Ein Wrack- und Fischereimuseum in Cuxhaven, das die Geschichte der Seefahrt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.707187,
+                        53.86202
+                  ]
+            },
+            {
+                  "name": "Molenfeuer Steubenhöft",
+                  "text": "Ein markantes Molenfeuer am Steubenhöft im Hafen von Cuxhaven.",
+                  "category": "landmark",
+                  "coords": [
+                        8.718533,
+                        53.867083
+                  ]
+            },
+            {
+                  "name": "Friedrich-Clemens-Gerke-Turm",
+                  "text": "Ein markanter Fernmeldeturm in Cuxhaven, benannt nach Friedrich Clemens Gerke.",
+                  "category": "tower",
+                  "coords": [
+                        8.677555,
+                        53.856324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Joachim-Ringelnatz-Museum",
+                  "text": "Joachim Ringelnatz költő és festő életművének szentelt irodalmi múzeum Cuxhavenben.",
+                  "category": "museum",
+                  "coords": [
+                        8.700207,
+                        53.858049
+                  ]
+            },
+            {
+                  "name": "Stadttheater Cuxhaven",
+                  "text": "Cuxhaven városi színháza, amely változatos előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        8.696302,
+                        53.868213
+                  ]
+            },
+            {
+                  "name": "Schloss Ritzebüttel",
+                  "text": "Késő középkori téglaépítésű kastély Cuxhavenben, amely ma kulturális eseményeknek ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        8.698428,
+                        53.857207
+                  ]
+            },
+            {
+                  "name": "Windstärke 10",
+                  "text": "Roncs- és halászati múzeum Cuxhavenben, amely a tengeri hajózás történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        8.707187,
+                        53.86202
+                  ]
+            },
+            {
+                  "name": "Molenfeuer Steubenhöft",
+                  "text": "Jellegzetes mólótűz a cuxhaveni kikötő Steubenhöft mólójánál.",
+                  "category": "landmark",
+                  "coords": [
+                        8.718533,
+                        53.867083
+                  ]
+            },
+            {
+                  "name": "Friedrich-Clemens-Gerke-Turm",
+                  "text": "Friedrich Clemens Gerkéről elnevezett jellegzetes távközlési torony Cuxhavenben.",
+                  "category": "tower",
+                  "coords": [
+                        8.677555,
+                        53.856324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Joachim-Ringelnatz-Museum",
+                  "text": "Un muzeu din Cuxhaven dedicat vieții și operei poetului și pictorului Joachim Ringelnatz.",
+                  "category": "museum",
+                  "coords": [
+                        8.700207,
+                        53.858049
+                  ]
+            },
+            {
+                  "name": "Stadttheater Cuxhaven",
+                  "text": "Teatrul municipal din Cuxhaven care oferă un program variat de spectacole și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        8.696302,
+                        53.868213
+                  ]
+            },
+            {
+                  "name": "Schloss Ritzebüttel",
+                  "text": "Un castel medieval târziu din Cuxhaven, utilizat astăzi pentru evenimente culturale.",
+                  "category": "castle",
+                  "coords": [
+                        8.698428,
+                        53.857207
+                  ]
+            },
+            {
+                  "name": "Windstärke 10",
+                  "text": "Un muzeu al epavelor și pescuitului din Cuxhaven care documentează istoria maritimă.",
+                  "category": "museum",
+                  "coords": [
+                        8.707187,
+                        53.86202
+                  ]
+            },
+            {
+                  "name": "Molenfeuer Steubenhöft",
+                  "text": "Un far de debarcader situat la Steubenhöft în portul Cuxhaven.",
+                  "category": "landmark",
+                  "coords": [
+                        8.718533,
+                        53.867083
+                  ]
+            },
+            {
+                  "name": "Friedrich-Clemens-Gerke-Turm",
+                  "text": "Un turn de telecomunicații proeminent din Cuxhaven, numit după Friedrich Clemens Gerke.",
+                  "category": "tower",
+                  "coords": [
+                        8.677555,
+                        53.856324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Joachim-Ringelnatz-Museum",
+                  "text": "A museum in Cuxhaven dedicated to the life and work of the poet and painter Joachim Ringelnatz.",
+                  "category": "museum",
+                  "coords": [
+                        8.700207,
+                        53.858049
+                  ]
+            },
+            {
+                  "name": "Stadttheater Cuxhaven",
+                  "text": "The municipal theatre in Cuxhaven offering a diverse program of plays and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        8.696302,
+                        53.868213
+                  ]
+            },
+            {
+                  "name": "Schloss Ritzebüttel",
+                  "text": "A late medieval castle in Cuxhaven, now used for various cultural events.",
+                  "category": "castle",
+                  "coords": [
+                        8.698428,
+                        53.857207
+                  ]
+            },
+            {
+                  "name": "Windstärke 10",
+                  "text": "A wreck and fishery museum in Cuxhaven documenting the history of maritime seafaring.",
+                  "category": "museum",
+                  "coords": [
+                        8.707187,
+                        53.86202
+                  ]
+            },
+            {
+                  "name": "Molenfeuer Steubenhöft",
+                  "text": "A distinctive pier lighthouse located at Steubenhöft in Cuxhaven harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        8.718533,
+                        53.867083
+                  ]
+            },
+            {
+                  "name": "Friedrich-Clemens-Gerke-Turm",
+                  "text": "A prominent telecommunications tower in Cuxhaven, named after Friedrich Clemens Gerke.",
+                  "category": "tower",
+                  "coords": [
+                        8.677555,
+                        53.856324
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Cuxhaven", hu: "Cuxhaven", ro: "Cuxhaven", en: "Cuxhaven" },
@@ -1211,7 +5540,196 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-cuxhaven-cities-v2.webp",
   },
   {
-    id: "germany-cloppenburg-cities-v2",
+    id: "germany-cloppenburg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Cloppenburg",
+                  "text": "Die historische Anlage der ehemaligen Burg in Cloppenburg.",
+                  "category": "castle",
+                  "coords": [
+                        8.045013,
+                        52.847105
+                  ]
+            },
+            {
+                  "name": "Insektopia",
+                  "text": "Ein Naturprojekt in Cloppenburg, das sich dem Schutz und der Beobachtung von Insekten widmet.",
+                  "category": "natural",
+                  "coords": [
+                        8.04784,
+                        52.849397
+                  ]
+            },
+            {
+                  "name": "Landmaschinen Dauerausstellung",
+                  "text": "Eine permanente Ausstellung historischer Landmaschinen in Cloppenburg.",
+                  "category": "museum",
+                  "coords": [
+                        8.054962,
+                        52.851304
+                  ]
+            },
+            {
+                  "name": "Soestebad Cloppenburg",
+                  "text": "Ein lokales Freizeitbad in Cloppenburg für Schwimmer und Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        8.048219,
+                        52.847889
+                  ]
+            },
+            {
+                  "name": "Basilika St. Marien",
+                  "text": "Eine bedeutende katholische Wallfahrtskirche in Cloppenburg-Bethen.",
+                  "category": "religious",
+                  "coords": [
+                        8.062802,
+                        52.863684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Cloppenburg",
+                  "text": "Az egykori vár történelmi helyszíne Cloppenburgban.",
+                  "category": "castle",
+                  "coords": [
+                        8.045013,
+                        52.847105
+                  ]
+            },
+            {
+                  "name": "Insektopia",
+                  "text": "Természeti projekt Cloppenburgban, amely a rovarok védelmével és megfigyelésével foglalkozik.",
+                  "category": "natural",
+                  "coords": [
+                        8.04784,
+                        52.849397
+                  ]
+            },
+            {
+                  "name": "Landmaschinen Dauerausstellung",
+                  "text": "Történelmi mezőgazdasági gépek állandó kiállítása Cloppenburgban.",
+                  "category": "museum",
+                  "coords": [
+                        8.054962,
+                        52.851304
+                  ]
+            },
+            {
+                  "name": "Soestebad Cloppenburg",
+                  "text": "Helyi szabadidős fürdő Cloppenburgban úszók és családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        8.048219,
+                        52.847889
+                  ]
+            },
+            {
+                  "name": "Basilika St. Marien",
+                  "text": "Jelentős katolikus zarándoktemplom Cloppenburg-Bethenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.062802,
+                        52.863684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Cloppenburg",
+                  "text": "Situl istoric al fostului castel din Cloppenburg.",
+                  "category": "castle",
+                  "coords": [
+                        8.045013,
+                        52.847105
+                  ]
+            },
+            {
+                  "name": "Insektopia",
+                  "text": "Un proiect natural din Cloppenburg dedicat protecției și observării insectelor.",
+                  "category": "natural",
+                  "coords": [
+                        8.04784,
+                        52.849397
+                  ]
+            },
+            {
+                  "name": "Landmaschinen Dauerausstellung",
+                  "text": "O expoziție permanentă de utilaje agricole istorice în Cloppenburg.",
+                  "category": "museum",
+                  "coords": [
+                        8.054962,
+                        52.851304
+                  ]
+            },
+            {
+                  "name": "Soestebad Cloppenburg",
+                  "text": "O piscină locală de agrement în Cloppenburg pentru înotători și familii.",
+                  "category": "recreational",
+                  "coords": [
+                        8.048219,
+                        52.847889
+                  ]
+            },
+            {
+                  "name": "Basilika St. Marien",
+                  "text": "O importantă biserică catolică de pelerinaj în Cloppenburg-Bethen.",
+                  "category": "religious",
+                  "coords": [
+                        8.062802,
+                        52.863684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Cloppenburg",
+                  "text": "The historical site of the former castle in Cloppenburg.",
+                  "category": "castle",
+                  "coords": [
+                        8.045013,
+                        52.847105
+                  ]
+            },
+            {
+                  "name": "Insektopia",
+                  "text": "A nature project in Cloppenburg dedicated to the protection and observation of insects.",
+                  "category": "natural",
+                  "coords": [
+                        8.04784,
+                        52.849397
+                  ]
+            },
+            {
+                  "name": "Landmaschinen Dauerausstellung",
+                  "text": "A permanent exhibition of historical agricultural machinery in Cloppenburg.",
+                  "category": "museum",
+                  "coords": [
+                        8.054962,
+                        52.851304
+                  ]
+            },
+            {
+                  "name": "Soestebad Cloppenburg",
+                  "text": "A local leisure pool in Cloppenburg for swimmers and families.",
+                  "category": "recreational",
+                  "coords": [
+                        8.048219,
+                        52.847889
+                  ]
+            },
+            {
+                  "name": "Basilika St. Marien",
+                  "text": "An important Catholic pilgrimage church located in Cloppenburg-Bethen.",
+                  "category": "religious",
+                  "coords": [
+                        8.062802,
+                        52.863684
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Cloppenburg", hu: "Cloppenburg", ro: "Cloppenburg", en: "Cloppenburg" },
@@ -2176,6 +6694,78 @@ export const germanyCitiesV2: POI[] = [
                         8.063743,
                         51.39399
                   ]
+            },
+            {
+                  "name": "KulturSchmiede",
+                  "text": "Ein Veranstaltungsort in einer ehemaligen Schmiede, genutzt für Theater, Kabarett und Jazz.",
+                  "category": "cultural",
+                  "coords": [
+                        8.063522,
+                        51.396209
+                  ]
+            },
+            {
+                  "name": "Rüdenburg",
+                  "text": "Ruinen einer mittelalterlichen Höhenburg bei Arnsberg aus dem 11. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        8.053507,
+                        51.399575
+                  ]
+            },
+            {
+                  "name": "Eichholz",
+                  "text": "Ein Naturschutzgebiet und Waldgebiet entlang der Ruhr in Arnsberg.",
+                  "category": "natural",
+                  "coords": [
+                        8.066886,
+                        51.387777
+                  ]
+            },
+            {
+                  "name": "Schlossberg Osthang",
+                  "text": "Naturschutzgebiet am östlichen Hang des Schlossbergs in Arnsberg mit wertvollen Waldbeständen.",
+                  "category": "natural",
+                  "coords": [
+                        8.062739,
+                        51.40189
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "Archäologische Stätte in Arnsberg, die Reste einer historischen Wallanlage aus dem Mittelalter umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        8.030619,
+                        51.414969
+                  ]
+            },
+            {
+                  "name": "Freibad Storchennest",
+                  "text": "Beliebtes Freibad in Arnsberg mit verschiedenen Schwimmbecken und Liegewiesen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        8.068344,
+                        51.380358
+                  ]
+            },
+            {
+                  "name": "Brennpunkt - Feuerwehrmuseum der Generationen",
+                  "text": "Museum in Arnsberg, das die Geschichte der Feuerwehr und historische Löschfahrzeuge präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.068819,
+                        51.405618
+                  ]
+            },
+            {
+                  "name": "Limps Turm",
+                  "text": "Historischer Turm in Arnsberg, der Teil der ehemaligen mittelalterlichen Stadtbefestigung war.",
+                  "category": "tower",
+                  "coords": [
+                        8.061795,
+                        51.398941
+                  ]
             }
       ],
       "hu": [
@@ -2247,6 +6837,78 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.063743,
                         51.39399
+                  ]
+            },
+            {
+                  "name": "KulturSchmiede",
+                  "text": "Rendezvényhelyszín egy egykori kovácsműhelyben, színház, kabaré és jazz előadásokra.",
+                  "category": "cultural",
+                  "coords": [
+                        8.063522,
+                        51.396209
+                  ]
+            },
+            {
+                  "name": "Rüdenburg",
+                  "text": "Egy 11. századi középkori hegyi vár romjai Arnsberg közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.053507,
+                        51.399575
+                  ]
+            },
+            {
+                  "name": "Eichholz",
+                  "text": "Természetvédelmi terület és erdős rész a Ruhr-folyó mentén Arnsbergben.",
+                  "category": "natural",
+                  "coords": [
+                        8.066886,
+                        51.387777
+                  ]
+            },
+            {
+                  "name": "Schlossberg Osthang",
+                  "text": "Természetvédelmi terület Arnsbergben a Schlossberg keleti lejtőjén, értékes erdős területekkel.",
+                  "category": "natural",
+                  "coords": [
+                        8.062739,
+                        51.40189
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "Régészeti lelőhely Arnsbergben, amely egy középkori sáncrendszer és erődítmény maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        8.030619,
+                        51.414969
+                  ]
+            },
+            {
+                  "name": "Freibad Storchennest",
+                  "text": "Népszerű szabadtéri strand Arnsbergben medencékkel és napozóterületekkel a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        8.068344,
+                        51.380358
+                  ]
+            },
+            {
+                  "name": "Brennpunkt - Feuerwehrmuseum der Generationen",
+                  "text": "Arnsbergi múzeum, amely a tűzoltóság történetét és történelmi tűzoltóautókat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.068819,
+                        51.405618
+                  ]
+            },
+            {
+                  "name": "Limps Turm",
+                  "text": "Történelmi torony Arnsbergben, amely egykor a középkori városi védművek részét képezte.",
+                  "category": "tower",
+                  "coords": [
+                        8.061795,
+                        51.398941
                   ]
             }
       ],
@@ -2320,6 +6982,78 @@ export const germanyCitiesV2: POI[] = [
                         8.063743,
                         51.39399
                   ]
+            },
+            {
+                  "name": "KulturSchmiede",
+                  "text": "Un spațiu de evenimente într-o fostă fierărie, utilizat pentru teatru, cabaret și jazz.",
+                  "category": "cultural",
+                  "coords": [
+                        8.063522,
+                        51.396209
+                  ]
+            },
+            {
+                  "name": "Rüdenburg",
+                  "text": "Ruinele unui castel medieval situat pe deal lângă Arnsberg, datând din secolul al XI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        8.053507,
+                        51.399575
+                  ]
+            },
+            {
+                  "name": "Eichholz",
+                  "text": "O rezervație naturală și zonă forestieră de-a lungul râului Ruhr în Arnsberg.",
+                  "category": "natural",
+                  "coords": [
+                        8.066886,
+                        51.387777
+                  ]
+            },
+            {
+                  "name": "Schlossberg Osthang",
+                  "text": "Rezervație naturală pe versantul estic al dealului Schlossberg din Arnsberg, protejând habitate forestiere.",
+                  "category": "natural",
+                  "coords": [
+                        8.062739,
+                        51.40189
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "Sit arheologic în Arnsberg, cuprinzând resturile unor fortificații istorice de pământ din perioada medievală.",
+                  "category": "historical",
+                  "coords": [
+                        8.030619,
+                        51.414969
+                  ]
+            },
+            {
+                  "name": "Freibad Storchennest",
+                  "text": "Ștrand public popular în Arnsberg, dotat cu bazine de înot și zone de plajă pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        8.068344,
+                        51.380358
+                  ]
+            },
+            {
+                  "name": "Brennpunkt - Feuerwehrmuseum der Generationen",
+                  "text": "Muzeu în Arnsberg dedicat istoriei pompierilor, expunând vehicule și echipamente istorice de stingere a incendiilor.",
+                  "category": "museum",
+                  "coords": [
+                        8.068819,
+                        51.405618
+                  ]
+            },
+            {
+                  "name": "Limps Turm",
+                  "text": "Turn istoric în Arnsberg, care a făcut parte din vechile fortificații medievale ale orașului.",
+                  "category": "tower",
+                  "coords": [
+                        8.061795,
+                        51.398941
+                  ]
             }
       ],
       "en": [
@@ -2392,12 +7126,381 @@ export const germanyCitiesV2: POI[] = [
                         8.063743,
                         51.39399
                   ]
+            },
+            {
+                  "name": "KulturSchmiede",
+                  "text": "An event space in a former forge, used for theater, cabaret, and jazz performances.",
+                  "category": "cultural",
+                  "coords": [
+                        8.063522,
+                        51.396209
+                  ]
+            },
+            {
+                  "name": "Rüdenburg",
+                  "text": "Ruins of a medieval hilltop castle near Arnsberg, dating back to the 11th century.",
+                  "category": "historical",
+                  "coords": [
+                        8.053507,
+                        51.399575
+                  ]
+            },
+            {
+                  "name": "Eichholz",
+                  "text": "A nature reserve and forest area along the Ruhr river in Arnsberg.",
+                  "category": "natural",
+                  "coords": [
+                        8.066886,
+                        51.387777
+                  ]
+            },
+            {
+                  "name": "Schlossberg Osthang",
+                  "text": "A nature reserve on the eastern slope of the Schlossberg in Arnsberg featuring protected forest areas.",
+                  "category": "natural",
+                  "coords": [
+                        8.062739,
+                        51.40189
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "An archaeological site in Arnsberg featuring the remains of historic medieval earthworks and fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        8.030619,
+                        51.414969
+                  ]
+            },
+            {
+                  "name": "Freibad Storchennest",
+                  "text": "A popular outdoor swimming pool in Arnsberg with various basins and sunbathing lawns for families.",
+                  "category": "recreational",
+                  "coords": [
+                        8.068344,
+                        51.380358
+                  ]
+            },
+            {
+                  "name": "Brennpunkt - Feuerwehrmuseum der Generationen",
+                  "text": "A museum in Arnsberg showcasing the history of firefighting and historic fire engines across generations.",
+                  "category": "museum",
+                  "coords": [
+                        8.068819,
+                        51.405618
+                  ]
+            },
+            {
+                  "name": "Limps Turm",
+                  "text": "A historic tower in Arnsberg that was once part of the city's medieval defensive walls.",
+                  "category": "tower",
+                  "coords": [
+                        8.061795,
+                        51.398941
+                  ]
             }
       ]
 }
   },
   {
-    id: "germany-speyer-2-cities-v2",
+    id: "germany-speyer-2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Internationales Phono & Radio Museum",
+                  "text": "Das Museum in Dormagen-Zons zeigt eine umfangreiche Sammlung historischer Phonographen, Grammophone und Radiogeräte.",
+                  "category": "museum",
+                  "coords": [
+                        6.830918,
+                        51.095783
+                  ]
+            },
+            {
+                  "name": "Falknereimuseum",
+                  "text": "Dieses Fachmuseum widmet sich der Geschichte und der Kunst der Falknerei sowie der Greifvogelkunde.",
+                  "category": "museum",
+                  "coords": [
+                        6.847943,
+                        51.121746
+                  ]
+            },
+            {
+                  "name": "Friedestrom",
+                  "text": "Die Burg Friedestrom in Dormagen-Zons wurde im 14. Jahrhundert als befestigte Zollfestung am Rhein errichtet.",
+                  "category": "castle",
+                  "coords": [
+                        6.85128,
+                        51.119865
+                  ]
+            },
+            {
+                  "name": "Balgheimer See",
+                  "text": "Dieses Naturschutzgebiet umfasst einen See und wertvolle Feuchtbiotope in der Nähe des Rheins.",
+                  "category": "natural",
+                  "coords": [
+                        6.787674,
+                        51.092516
+                  ]
+            },
+            {
+                  "name": "Rheinaue Zons-Rheinfeld und Altrheinschlinge Zons",
+                  "text": "Das Schutzgebiet bewahrt die typische Auenlandschaft und Altrheinarme bei Dormagen-Zons.",
+                  "category": "natural",
+                  "coords": [
+                        6.856798,
+                        51.113241
+                  ]
+            },
+            {
+                  "name": "Wahler Berg, Hannepützheide und Martinsee",
+                  "text": "Diese Naturschutzgebiete bieten wertvolle Lebensräume für seltene Pflanzen und Tiere in Heidelandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        6.819574,
+                        51.121123
+                  ]
+            },
+            {
+                  "name": "Rheinufer Monheim",
+                  "text": "Das Rheinufer bei Monheim ist ein wichtiges Naherholungsgebiet mit geschützten Uferzonen und Auenflächen.",
+                  "category": "natural",
+                  "coords": [
+                        6.867089,
+                        51.087742
+                  ]
+            },
+            {
+                  "name": "Pfefferbüchse",
+                  "text": "Die Pfefferbüchse ist ein markanter historischer Wachturm der mittelalterlichen Stadtbefestigung von Zons.",
+                  "category": "tower",
+                  "coords": [
+                        6.851693,
+                        51.121181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Internationales Phono & Radio Museum",
+                  "text": "A dormageni múzeum a hangrögzítés és a rádiótechnika történetét mutatja be gazdag gyűjteményén keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        6.830918,
+                        51.095783
+                  ]
+            },
+            {
+                  "name": "Falknereimuseum",
+                  "text": "Ez a szakmúzeum a solymászat történetét, művészetét és a ragadozó madarak világát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.847943,
+                        51.121746
+                  ]
+            },
+            {
+                  "name": "Friedestrom",
+                  "text": "A dormageni Friedestrom-vár a 14. században épült erődített vámhelyként a Rajna partján.",
+                  "category": "castle",
+                  "coords": [
+                        6.85128,
+                        51.119865
+                  ]
+            },
+            {
+                  "name": "Balgheimer See",
+                  "text": "Ez a természetvédelmi terület egy tavat és a Rajna közeli értékes vizes élőhelyeket foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        6.787674,
+                        51.092516
+                  ]
+            },
+            {
+                  "name": "Rheinaue Zons-Rheinfeld und Altrheinschlinge Zons",
+                  "text": "A védett terület a Dormagen-Zons melletti tipikus ártéri tájat és holtágakat őrzi meg.",
+                  "category": "natural",
+                  "coords": [
+                        6.856798,
+                        51.113241
+                  ]
+            },
+            {
+                  "name": "Wahler Berg, Hannepützheide und Martinsee",
+                  "text": "Ezek a természetvédelmi területek értékes élőhelyet biztosítanak ritka növényeknek és állatoknak a fenyéreken.",
+                  "category": "natural",
+                  "coords": [
+                        6.819574,
+                        51.121123
+                  ]
+            },
+            {
+                  "name": "Rheinufer Monheim",
+                  "text": "A Monheim melletti Rajna-part fontos pihenőhely védett parti zónákkal és ártéri területekkel.",
+                  "category": "natural",
+                  "coords": [
+                        6.867089,
+                        51.087742
+                  ]
+            },
+            {
+                  "name": "Pfefferbüchse",
+                  "text": "A Pfefferbüchse (Borsszóró) a zonsi középkori városfal egyik jellegzetes történelmi őrtornya.",
+                  "category": "tower",
+                  "coords": [
+                        6.851693,
+                        51.121181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Internationales Phono & Radio Museum",
+                  "text": "Muzeul din Dormagen-Zons prezintă o colecție impresionantă de fonografe, gramofoane și aparate de radio istorice.",
+                  "category": "museum",
+                  "coords": [
+                        6.830918,
+                        51.095783
+                  ]
+            },
+            {
+                  "name": "Falknereimuseum",
+                  "text": "Acest muzeu specializat este dedicat istoriei și artei șoimăritului, precum și studiului păsărilor de pradă.",
+                  "category": "museum",
+                  "coords": [
+                        6.847943,
+                        51.121746
+                  ]
+            },
+            {
+                  "name": "Friedestrom",
+                  "text": "Castelul Friedestrom din Dormagen-Zons a fost construit în secolul al XIV-lea ca fortăreață vamală fortificată pe Rin.",
+                  "category": "castle",
+                  "coords": [
+                        6.85128,
+                        51.119865
+                  ]
+            },
+            {
+                  "name": "Balgheimer See",
+                  "text": "Această rezervație naturală cuprinde un lac și biotopuri umede valoroase în apropierea Rinului.",
+                  "category": "natural",
+                  "coords": [
+                        6.787674,
+                        51.092516
+                  ]
+            },
+            {
+                  "name": "Rheinaue Zons-Rheinfeld und Altrheinschlinge Zons",
+                  "text": "Rezervația naturală protejează peisajul tipic de luncă și brațele vechi ale Rinului lângă Dormagen-Zons.",
+                  "category": "natural",
+                  "coords": [
+                        6.856798,
+                        51.113241
+                  ]
+            },
+            {
+                  "name": "Wahler Berg, Hannepützheide und Martinsee",
+                  "text": "Aceste rezervații naturale oferă habitate valoroase pentru plante și animale rare în peisaje de câmpie.",
+                  "category": "natural",
+                  "coords": [
+                        6.819574,
+                        51.121123
+                  ]
+            },
+            {
+                  "name": "Rheinufer Monheim",
+                  "text": "Malul Rinului de la Monheim este o zonă importantă de recreere, cu zone de coastă protejate și lunci.",
+                  "category": "natural",
+                  "coords": [
+                        6.867089,
+                        51.087742
+                  ]
+            },
+            {
+                  "name": "Pfefferbüchse",
+                  "text": "Pfefferbüchse este un turn de veghe istoric marcant al fortificațiilor medievale ale orașului Zons.",
+                  "category": "tower",
+                  "coords": [
+                        6.851693,
+                        51.121181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Internationales Phono & Radio Museum",
+                  "text": "The museum in Dormagen-Zons displays an extensive collection of historical phonographs, gramophones, and radio equipment.",
+                  "category": "museum",
+                  "coords": [
+                        6.830918,
+                        51.095783
+                  ]
+            },
+            {
+                  "name": "Falknereimuseum",
+                  "text": "This specialized museum is dedicated to the history and art of falconry and the study of birds of prey.",
+                  "category": "museum",
+                  "coords": [
+                        6.847943,
+                        51.121746
+                  ]
+            },
+            {
+                  "name": "Friedestrom",
+                  "text": "Burg Friedestrom in Dormagen-Zons was built in the 14th century as a fortified customs stronghold on the Rhine.",
+                  "category": "castle",
+                  "coords": [
+                        6.85128,
+                        51.119865
+                  ]
+            },
+            {
+                  "name": "Balgheimer See",
+                  "text": "This nature reserve encompasses a lake and valuable wetland biotopes near the Rhine.",
+                  "category": "natural",
+                  "coords": [
+                        6.787674,
+                        51.092516
+                  ]
+            },
+            {
+                  "name": "Rheinaue Zons-Rheinfeld und Altrheinschlinge Zons",
+                  "text": "The protected area preserves the typical floodplain landscape and old branches of the Rhine near Dormagen-Zons.",
+                  "category": "natural",
+                  "coords": [
+                        6.856798,
+                        51.113241
+                  ]
+            },
+            {
+                  "name": "Wahler Berg, Hannepützheide und Martinsee",
+                  "text": "These nature reserves provide valuable habitats for rare plants and animals in heath landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        6.819574,
+                        51.121123
+                  ]
+            },
+            {
+                  "name": "Rheinufer Monheim",
+                  "text": "The Rhine riverbank at Monheim is an important recreation area with protected shore zones and floodplains.",
+                  "category": "natural",
+                  "coords": [
+                        6.867089,
+                        51.087742
+                  ]
+            },
+            {
+                  "name": "Pfefferbüchse",
+                  "text": "The Pfefferbüchse is a striking historical watchtower of the medieval city fortifications of Zons.",
+                  "category": "tower",
+                  "coords": [
+                        6.851693,
+                        51.121181
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Dormagen", hu: "Dormagen", ro: "Dormagen", en: "Dormagen" },
@@ -2446,7 +7549,556 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-speyer-2-cities-v2.webp",
   },
   {
-    id: "germany-landshut-cities-v2",
+    id: "germany-landshut-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abteikirche Seligenthal",
+                  "text": "Die prachtvolle Abteikirche des Zisterzienserinnenklosters Seligenthal in Landshut.",
+                  "category": "religious",
+                  "coords": [
+                        12.147802,
+                        48.542578
+                  ]
+            },
+            {
+                  "name": "Museen Stadtresidenz",
+                  "text": "In der Stadtresidenz Landshut untergebrachte Museen mit historischen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        12.151245,
+                        48.536134
+                  ]
+            },
+            {
+                  "name": "Kunst- und Wunderkammer",
+                  "text": "Eine bedeutende Kunst- und Wunderkammer auf der Burg Trausnitz in Landshut.",
+                  "category": "museum",
+                  "coords": [
+                        12.152497,
+                        48.531831
+                  ]
+            },
+            {
+                  "name": "Das Kleine Theater",
+                  "text": "Ein renommiertes Kammertheater in Landshut, bekannt für zeitgenössische Inszenierungen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.154668,
+                        48.539182
+                  ]
+            },
+            {
+                  "name": "Schloss Piflas",
+                  "text": "Ein historisches Landschloss im Landshuter Stadtteil Piflas.",
+                  "category": "castle",
+                  "coords": [
+                        12.168172,
+                        48.553532
+                  ]
+            },
+            {
+                  "name": "Königmuseum im Hofberg",
+                  "text": "Ein Museum im Hofberg von Landshut, das dem Bildhauer Fritz Koenig gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.155324,
+                        48.533215
+                  ]
+            },
+            {
+                  "name": "Adelmannschloß",
+                  "text": "Ein historisches Adelsschloss in Landshut mit charakteristischer Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        12.16095,
+                        48.527248
+                  ]
+            },
+            {
+                  "name": "Ruffinischlösschen",
+                  "text": "Ein spätbarockes Schlösschen in Landshut, das heute als Wohn- und Verwaltungsbau dient.",
+                  "category": "castle",
+                  "coords": [
+                        12.141147,
+                        48.527814
+                  ]
+            },
+            {
+                  "name": "Herzogschlößl",
+                  "text": "Ein kleines Schloss im Herzogsgarten von Landshut, das ursprünglich als Lusthaus der bayerischen Herzöge diente.",
+                  "category": "castle",
+                  "coords": [
+                        12.162763,
+                        48.532775
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Ein Tiergehege am Landshuter Hofberg, in dem vorwiegend heimische Wildtierarten beobachtet werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        12.159528,
+                        48.532577
+                  ]
+            },
+            {
+                  "name": "Rumänisch-Orthodoxe Kirche Johannes der Wallache",
+                  "text": "Eine rumänisch-orthodoxe Kirche in Landshut, die ein geistliches Zentrum für die lokale rumänische Gemeinde bildet.",
+                  "category": "religious",
+                  "coords": [
+                        12.161877,
+                        48.536709
+                  ]
+            },
+            {
+                  "name": "Freyung",
+                  "text": "Ein denkmalgeschützter Stadtteilpark in Landshut, der als grüne Oase zur Naherholung dient.",
+                  "category": "park",
+                  "coords": [
+                        12.156563,
+                        48.535823
+                  ]
+            },
+            {
+                  "name": "Basilika Sankt Martin",
+                  "text": "Diese gotische Backsteinkirche besitzt mit rund 130 Metern den weltweit höchsten aus Ziegeln errichteten Turm.",
+                  "category": "religious",
+                  "coords": [
+                        12.151285,
+                        48.534248
+                  ]
+            },
+            {
+                  "name": "Dominikanerkirche St. Blasius",
+                  "text": "Eine prachtvolle Barockkirche in Landshut, die für ihre kunstvolle Stuckatur und Altäre bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        12.156462,
+                        48.53725
+                  ]
+            },
+            {
+                  "name": "Sender Weickmannshöhe",
+                  "text": "Ein exponierter Fernmeldeturm in Landshut, der der regionalen Übertragung von Radio- und Fernsehsignalen dient.",
+                  "category": "tower",
+                  "coords": [
+                        12.17158,
+                        48.524337
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abteikirche Seligenthal",
+                  "text": "A landshuti Seligenthal ciszterci női kolostor impozáns apátsági temploma.",
+                  "category": "religious",
+                  "coords": [
+                        12.147802,
+                        48.542578
+                  ]
+            },
+            {
+                  "name": "Museen Stadtresidenz",
+                  "text": "A landshuti városi rezidencián helyet kapó múzeumok történelmi kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        12.151245,
+                        48.536134
+                  ]
+            },
+            {
+                  "name": "Kunst- und Wunderkammer",
+                  "text": "Jelentős művészeti és kuriózumtár a landshuti Trausnitz várában.",
+                  "category": "museum",
+                  "coords": [
+                        12.152497,
+                        48.531831
+                  ]
+            },
+            {
+                  "name": "Das Kleine Theater",
+                  "text": "Landshuti kamaraszínház, amely kortárs előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        12.154668,
+                        48.539182
+                  ]
+            },
+            {
+                  "name": "Schloss Piflas",
+                  "text": "Történelmi kastélyépület Landshut Piflas városrészében.",
+                  "category": "castle",
+                  "coords": [
+                        12.168172,
+                        48.553532
+                  ]
+            },
+            {
+                  "name": "Königmuseum im Hofberg",
+                  "text": "A landshuti Hofbergben található múzeum, amelyet Fritz Koenig szobrásznak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        12.155324,
+                        48.533215
+                  ]
+            },
+            {
+                  "name": "Adelmannschloß",
+                  "text": "Történelmi nemesi kastély Landshutban, jellegzetes építészeti elemekkel.",
+                  "category": "castle",
+                  "coords": [
+                        12.16095,
+                        48.527248
+                  ]
+            },
+            {
+                  "name": "Ruffinischlösschen",
+                  "text": "Késő barokk kastélyka Landshutban, amely ma lakó- és hivatali épületként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        12.141147,
+                        48.527814
+                  ]
+            },
+            {
+                  "name": "Herzogschlößl",
+                  "text": "Kisméretű kastély a landshuti Herzogsgartenben, amely egykor a bajor hercegek pihenőháza volt.",
+                  "category": "castle",
+                  "coords": [
+                        12.162763,
+                        48.532775
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Vadaspark a landshuti Hofberg oldalában, ahol főként hazai vadon élő állatfajok láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        12.159528,
+                        48.532577
+                  ]
+            },
+            {
+                  "name": "Rumänisch-Orthodoxe Kirche Johannes der Wallache",
+                  "text": "Román ortodox templom Landshutban, amely a helyi román közösség lelki központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        12.161877,
+                        48.536709
+                  ]
+            },
+            {
+                  "name": "Freyung",
+                  "text": "Műemléki védelem alatt álló városrészi park Landshutban, amely zöld oázisként szolgál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        12.156563,
+                        48.535823
+                  ]
+            },
+            {
+                  "name": "Basilika Sankt Martin",
+                  "text": "Ez a gótikus téglatemplom büszkélkedhet a világ legmagasabb, téglából épült tornyával, amely kb. 130 méter.",
+                  "category": "religious",
+                  "coords": [
+                        12.151285,
+                        48.534248
+                  ]
+            },
+            {
+                  "name": "Dominikanerkirche St. Blasius",
+                  "text": "Pompás barokk templom Landshutban, amely művészi stukkóiról és oltárairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        12.156462,
+                        48.53725
+                  ]
+            },
+            {
+                  "name": "Sender Weickmannshöhe",
+                  "text": "Kiemelt távközlési torony Landshutban, amely a regionális rádió- és televíziójelek továbbítását végzi.",
+                  "category": "tower",
+                  "coords": [
+                        12.17158,
+                        48.524337
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abteikirche Seligenthal",
+                  "text": "Biserica abațială a mănăstirii cisterciene Seligenthal din Landshut.",
+                  "category": "religious",
+                  "coords": [
+                        12.147802,
+                        48.542578
+                  ]
+            },
+            {
+                  "name": "Museen Stadtresidenz",
+                  "text": "Muzee găzduite în Reședința Orașului Landshut, prezentând exponate istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.151245,
+                        48.536134
+                  ]
+            },
+            {
+                  "name": "Kunst- und Wunderkammer",
+                  "text": "O cameră de artă și curiozități situată în castelul Burg Trausnitz din Landshut.",
+                  "category": "museum",
+                  "coords": [
+                        12.152497,
+                        48.531831
+                  ]
+            },
+            {
+                  "name": "Das Kleine Theater",
+                  "text": "Un teatru de cameră renumit din Landshut, cunoscut pentru producții contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        12.154668,
+                        48.539182
+                  ]
+            },
+            {
+                  "name": "Schloss Piflas",
+                  "text": "Un castel istoric situat în districtul Piflas din Landshut.",
+                  "category": "castle",
+                  "coords": [
+                        12.168172,
+                        48.553532
+                  ]
+            },
+            {
+                  "name": "Königmuseum im Hofberg",
+                  "text": "Un muzeu din Hofberg, Landshut, dedicat sculptorului Fritz Koenig.",
+                  "category": "museum",
+                  "coords": [
+                        12.155324,
+                        48.533215
+                  ]
+            },
+            {
+                  "name": "Adelmannschloß",
+                  "text": "Un castel nobiliar istoric din Landshut, cu o arhitectură caracteristică.",
+                  "category": "castle",
+                  "coords": [
+                        12.16095,
+                        48.527248
+                  ]
+            },
+            {
+                  "name": "Ruffinischlösschen",
+                  "text": "Un mic castel baroc târziu din Landshut, folosit astăzi ca clădire rezidențială și administrativă.",
+                  "category": "castle",
+                  "coords": [
+                        12.141147,
+                        48.527814
+                  ]
+            },
+            {
+                  "name": "Herzogschlößl",
+                  "text": "Un mic castel situat în grădina Herzogsgarten din Landshut, servind inițial ca casă de agrement pentru ducii bavarezi.",
+                  "category": "castle",
+                  "coords": [
+                        12.162763,
+                        48.532775
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "O rezervație de animale pe dealul Hofberg din Landshut, unde pot fi observate specii locale de animale sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        12.159528,
+                        48.532577
+                  ]
+            },
+            {
+                  "name": "Rumänisch-Orthodoxe Kirche Johannes der Wallache",
+                  "text": "O biserică ortodoxă română din Landshut, care constituie un centru spiritual pentru comunitatea română locală.",
+                  "category": "religious",
+                  "coords": [
+                        12.161877,
+                        48.536709
+                  ]
+            },
+            {
+                  "name": "Freyung",
+                  "text": "Un parc de cartier protejat ca monument în Landshut, care servește drept oază verde pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        12.156563,
+                        48.535823
+                  ]
+            },
+            {
+                  "name": "Basilika Sankt Martin",
+                  "text": "Această biserică gotică de cărămidă deține cel mai înalt turn de cărămidă din lume, cu o înălțime de aproximativ 130 de metri.",
+                  "category": "religious",
+                  "coords": [
+                        12.151285,
+                        48.534248
+                  ]
+            },
+            {
+                  "name": "Dominikanerkirche St. Blasius",
+                  "text": "O biserică barocă splendidă din Landshut, renumită pentru stucaturile și altarele sale elaborate.",
+                  "category": "religious",
+                  "coords": [
+                        12.156462,
+                        48.53725
+                  ]
+            },
+            {
+                  "name": "Sender Weickmannshöhe",
+                  "text": "Un turn de telecomunicații proeminent în Landshut, utilizat pentru transmisia regională a semnalelor radio și TV.",
+                  "category": "tower",
+                  "coords": [
+                        12.17158,
+                        48.524337
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abteikirche Seligenthal",
+                  "text": "The abbey church of the Cistercian nunnery Seligenthal in Landshut.",
+                  "category": "religious",
+                  "coords": [
+                        12.147802,
+                        48.542578
+                  ]
+            },
+            {
+                  "name": "Museen Stadtresidenz",
+                  "text": "Museums located within the Landshut City Residence, featuring historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        12.151245,
+                        48.536134
+                  ]
+            },
+            {
+                  "name": "Kunst- und Wunderkammer",
+                  "text": "A significant chamber of art and curiosities located at Trausnitz Castle in Landshut.",
+                  "category": "museum",
+                  "coords": [
+                        12.152497,
+                        48.531831
+                  ]
+            },
+            {
+                  "name": "Das Kleine Theater",
+                  "text": "A renowned chamber theatre in Landshut, known for contemporary productions.",
+                  "category": "cultural",
+                  "coords": [
+                        12.154668,
+                        48.539182
+                  ]
+            },
+            {
+                  "name": "Schloss Piflas",
+                  "text": "A historic castle building located in the Piflas district of Landshut.",
+                  "category": "castle",
+                  "coords": [
+                        12.168172,
+                        48.553532
+                  ]
+            },
+            {
+                  "name": "Königmuseum im Hofberg",
+                  "text": "A museum in the Hofberg park of Landshut, dedicated to the sculptor Fritz Koenig.",
+                  "category": "museum",
+                  "coords": [
+                        12.155324,
+                        48.533215
+                  ]
+            },
+            {
+                  "name": "Adelmannschloß",
+                  "text": "A historic noble castle in Landshut featuring characteristic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        12.16095,
+                        48.527248
+                  ]
+            },
+            {
+                  "name": "Ruffinischlösschen",
+                  "text": "A late Baroque small palace in Landshut, now used for residential and administrative purposes.",
+                  "category": "castle",
+                  "coords": [
+                        12.141147,
+                        48.527814
+                  ]
+            },
+            {
+                  "name": "Herzogschlößl",
+                  "text": "A small castle in Landshut's Herzogsgarten, originally built as a pleasure house for the Bavarian dukes.",
+                  "category": "castle",
+                  "coords": [
+                        12.162763,
+                        48.532775
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "An animal enclosure on Landshut's Hofberg where visitors can observe mainly native wildlife species.",
+                  "category": "recreational",
+                  "coords": [
+                        12.159528,
+                        48.532577
+                  ]
+            },
+            {
+                  "name": "Rumänisch-Orthodoxe Kirche Johannes der Wallache",
+                  "text": "A Romanian Orthodox church in Landshut that serves as a spiritual center for the local Romanian community.",
+                  "category": "religious",
+                  "coords": [
+                        12.161877,
+                        48.536709
+                  ]
+            },
+            {
+                  "name": "Freyung",
+                  "text": "A heritage-listed neighborhood park in Landshut that serves as a green oasis for local recreation.",
+                  "category": "park",
+                  "coords": [
+                        12.156563,
+                        48.535823
+                  ]
+            },
+            {
+                  "name": "Basilika Sankt Martin",
+                  "text": "This Gothic brick church boasts the world's tallest brick tower, reaching a height of approximately 130 meters.",
+                  "category": "religious",
+                  "coords": [
+                        12.151285,
+                        48.534248
+                  ]
+            },
+            {
+                  "name": "Dominikanerkirche St. Blasius",
+                  "text": "A magnificent Baroque church in Landshut known for its elaborate stucco work and ornate altars.",
+                  "category": "religious",
+                  "coords": [
+                        12.156462,
+                        48.53725
+                  ]
+            },
+            {
+                  "name": "Sender Weickmannshöhe",
+                  "text": "A prominent telecommunication tower in Landshut used for the regional transmission of radio and TV signals.",
+                  "category": "tower",
+                  "coords": [
+                        12.17158,
+                        48.524337
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Landshut", hu: "Landshut", ro: "Landshut", en: "Landshut" },
@@ -2495,7 +8147,304 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-landshut-cities-v2.webp",
   },
   {
-    id: "germany-offenburg-cities-v2",
+    id: "germany-offenburg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mikwe",
+                  "text": "Dieses jüdische Ritualbad aus dem 14. Jahrhundert liegt tief unter der Erde.",
+                  "category": "museum",
+                  "coords": [
+                        7.9448,
+                        48.469584
+                  ]
+            },
+            {
+                  "name": "Menhir von Rammersweier",
+                  "text": "Ein prähistorischer Monolith, der in der Nähe von Offenburg-Rammersweier steht.",
+                  "category": "historical",
+                  "coords": [
+                        7.958089,
+                        48.486973
+                  ]
+            },
+            {
+                  "name": "KiK",
+                  "text": "Ein Kulturzentrum im Keller, das für Theateraufführungen und Konzerte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        7.957676,
+                        48.468978
+                  ]
+            },
+            {
+                  "name": "Strandbad Gifiz",
+                  "text": "Ein beliebtes Freibad am Gifizsee mit Liegewiesen und Sportmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        7.936806,
+                        48.457506
+                  ]
+            },
+            {
+                  "name": "Fassnachts-Marionetten-Ausstellung",
+                  "text": "Diese Ausstellung zeigt traditionelle Marionetten der schwäbisch-alemannischen Fastnacht.",
+                  "category": "museum",
+                  "coords": [
+                        7.969346,
+                        48.45216
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Das Museum präsentiert die lokale Geschichte und Kultur der Stadt Offenburg.",
+                  "category": "museum",
+                  "coords": [
+                        7.91722,
+                        48.486405
+                  ]
+            },
+            {
+                  "name": "Uferabflachung Süd",
+                  "text": "Ein flacher Strandbereich am Südufer des Gifizsees für Badegäste.",
+                  "category": "recreational",
+                  "coords": [
+                        7.941378,
+                        48.44909
+                  ]
+            },
+            {
+                  "name": "Zwingerpark",
+                  "text": "Eine öffentliche Grünanlage, die entlang der historischen Stadtbefestigung verläuft.",
+                  "category": "park",
+                  "coords": [
+                        7.940943,
+                        48.469878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mikwe",
+                  "text": "Ez a 14. századi zsidó rituális fürdő mélyen a föld alatt található.",
+                  "category": "museum",
+                  "coords": [
+                        7.9448,
+                        48.469584
+                  ]
+            },
+            {
+                  "name": "Menhir von Rammersweier",
+                  "text": "Egy prahisztorikus monolit, amely Offenburg-Rammersweier közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        7.958089,
+                        48.486973
+                  ]
+            },
+            {
+                  "name": "KiK",
+                  "text": "Pincében kialakított kulturális központ, amely színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        7.957676,
+                        48.468978
+                  ]
+            },
+            {
+                  "name": "Strandbad Gifiz",
+                  "text": "Népszerű szabadtéri strand a Gifiz-tónál, napozópázsittal és sportolási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        7.936806,
+                        48.457506
+                  ]
+            },
+            {
+                  "name": "Fassnachts-Marionetten-Ausstellung",
+                  "text": "Ez a kiállítás a sváb-alemann farsangi hagyományok marionettfiguráit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.969346,
+                        48.45216
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "A múzeum Offenburg helytörténetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.91722,
+                        48.486405
+                  ]
+            },
+            {
+                  "name": "Uferabflachung Süd",
+                  "text": "A Gifiz-tó déli partján található lankás partszakasz a fürdőzők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        7.941378,
+                        48.44909
+                  ]
+            },
+            {
+                  "name": "Zwingerpark",
+                  "text": "Nyilvános park, amely a történelmi városfal mentén húzódik.",
+                  "category": "park",
+                  "coords": [
+                        7.940943,
+                        48.469878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mikwe",
+                  "text": "Această baie rituală evreiască din secolul al XIV-lea se află sub pământ.",
+                  "category": "museum",
+                  "coords": [
+                        7.9448,
+                        48.469584
+                  ]
+            },
+            {
+                  "name": "Menhir von Rammersweier",
+                  "text": "Un monolit prehistoric situat în apropiere de Offenburg-Rammersweier.",
+                  "category": "historical",
+                  "coords": [
+                        7.958089,
+                        48.486973
+                  ]
+            },
+            {
+                  "name": "KiK",
+                  "text": "Un centru cultural situat la subsol, cunoscut pentru spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        7.957676,
+                        48.468978
+                  ]
+            },
+            {
+                  "name": "Strandbad Gifiz",
+                  "text": "O zonă populară de scăldat pe malul lacului Gifiz, cu peluze și facilități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        7.936806,
+                        48.457506
+                  ]
+            },
+            {
+                  "name": "Fassnachts-Marionetten-Ausstellung",
+                  "text": "Această expoziție prezintă marionete tradiționale ale carnavalului suabo-alemanic.",
+                  "category": "museum",
+                  "coords": [
+                        7.969346,
+                        48.45216
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Muzeul prezintă istoria locală și cultura orașului Offenburg.",
+                  "category": "museum",
+                  "coords": [
+                        7.91722,
+                        48.486405
+                  ]
+            },
+            {
+                  "name": "Uferabflachung Süd",
+                  "text": "O zonă de plajă cu apă puțin adâncă pe malul sudic al lacului Gifiz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.941378,
+                        48.44909
+                  ]
+            },
+            {
+                  "name": "Zwingerpark",
+                  "text": "Un spațiu verde public situat de-a lungul fortificațiilor istorice ale orașului.",
+                  "category": "park",
+                  "coords": [
+                        7.940943,
+                        48.469878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mikwe",
+                  "text": "This 14th-century Jewish ritual bath is located deep underground.",
+                  "category": "museum",
+                  "coords": [
+                        7.9448,
+                        48.469584
+                  ]
+            },
+            {
+                  "name": "Menhir von Rammersweier",
+                  "text": "A prehistoric monolith located near Offenburg-Rammersweier.",
+                  "category": "historical",
+                  "coords": [
+                        7.958089,
+                        48.486973
+                  ]
+            },
+            {
+                  "name": "KiK",
+                  "text": "A cultural center in a cellar known for theater performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        7.957676,
+                        48.468978
+                  ]
+            },
+            {
+                  "name": "Strandbad Gifiz",
+                  "text": "A popular outdoor swimming area at Lake Gifiz with sunbathing lawns and sports facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        7.936806,
+                        48.457506
+                  ]
+            },
+            {
+                  "name": "Fassnachts-Marionetten-Ausstellung",
+                  "text": "This exhibition displays traditional marionettes of the Swabian-Alemannic Carnival.",
+                  "category": "museum",
+                  "coords": [
+                        7.969346,
+                        48.45216
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "The museum presents the local history and culture of Offenburg.",
+                  "category": "museum",
+                  "coords": [
+                        7.91722,
+                        48.486405
+                  ]
+            },
+            {
+                  "name": "Uferabflachung Süd",
+                  "text": "A shallow beach area on the southern shore of Lake Gifiz for swimmers.",
+                  "category": "recreational",
+                  "coords": [
+                        7.941378,
+                        48.44909
+                  ]
+            },
+            {
+                  "name": "Zwingerpark",
+                  "text": "A public green space running along the historical city fortifications.",
+                  "category": "park",
+                  "coords": [
+                        7.940943,
+                        48.469878
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Offenburg", hu: "Offenburg", ro: "Offenburg", en: "Offenburg" },
@@ -2544,7 +8493,160 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-offenburg-cities-v2.webp",
   },
   {
-    id: "germany-arnsberg-2-cities-v2",
+    id: "germany-arnsberg-2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forum Niederberg",
+                  "text": "Kultur- und Veranstaltungszentrum in Velbert, das Platz für Theateraufführungen und Konzerte bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.046902,
+                        51.341438
+                  ]
+            },
+            {
+                  "name": "Steinbruch Hefel",
+                  "text": "Ehemaliger Steinbruch und heutiges Naturschutzgebiet in Velbert mit seltener Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        7.051206,
+                        51.35609
+                  ]
+            },
+            {
+                  "name": "Herminghauspark",
+                  "text": "Große Parkanlage in Velbert mit Spielplätzen, Tiergehegen und weitläufigen Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        7.032791,
+                        51.33916
+                  ]
+            },
+            {
+                  "name": "Telebert",
+                  "text": "Markanter Fernmeldeturm in Velbert, der als Sendeanlage für Rundfunk und Mobilfunk dient.",
+                  "category": "tower",
+                  "coords": [
+                        7.048268,
+                        51.333008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forum Niederberg",
+                  "text": "Kulturális és rendezvényközpont Velbertben, amely színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        7.046902,
+                        51.341438
+                  ]
+            },
+            {
+                  "name": "Steinbruch Hefel",
+                  "text": "Egykori kőbánya és mai természetvédelmi terület Velbertben, ritka növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        7.051206,
+                        51.35609
+                  ]
+            },
+            {
+                  "name": "Herminghauspark",
+                  "text": "Nagy park Velbertben játszóterekkel, állatkifutókkal és tágas sétautakkal.",
+                  "category": "park",
+                  "coords": [
+                        7.032791,
+                        51.33916
+                  ]
+            },
+            {
+                  "name": "Telebert",
+                  "text": "Jellegzetes távközlési torony Velbertben, amely rádió- és mobilhálózati adóként üzemel.",
+                  "category": "tower",
+                  "coords": [
+                        7.048268,
+                        51.333008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forum Niederberg",
+                  "text": "Centru cultural și de evenimente în Velbert, care găzduiește spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        7.046902,
+                        51.341438
+                  ]
+            },
+            {
+                  "name": "Steinbruch Hefel",
+                  "text": "O fostă carieră de piatră transformată în rezervație naturală în Velbert, adăpostind specii rare.",
+                  "category": "natural",
+                  "coords": [
+                        7.051206,
+                        51.35609
+                  ]
+            },
+            {
+                  "name": "Herminghauspark",
+                  "text": "Un parc vast în Velbert cu locuri de joacă, împrejmuiri pentru animale și alei generoase de plimbare.",
+                  "category": "park",
+                  "coords": [
+                        7.032791,
+                        51.33916
+                  ]
+            },
+            {
+                  "name": "Telebert",
+                  "text": "Turn de telecomunicații proeminent în Velbert, utilizat pentru transmisii radio și de telefonie mobilă.",
+                  "category": "tower",
+                  "coords": [
+                        7.048268,
+                        51.333008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forum Niederberg",
+                  "text": "A cultural and event center in Velbert hosting theater performances, concerts, and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.046902,
+                        51.341438
+                  ]
+            },
+            {
+                  "name": "Steinbruch Hefel",
+                  "text": "A former stone quarry and current nature reserve in Velbert featuring rare flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        7.051206,
+                        51.35609
+                  ]
+            },
+            {
+                  "name": "Herminghauspark",
+                  "text": "A large public park in Velbert featuring playgrounds, animal enclosures, and extensive walking paths.",
+                  "category": "park",
+                  "coords": [
+                        7.032791,
+                        51.33916
+                  ]
+            },
+            {
+                  "name": "Telebert",
+                  "text": "A prominent telecommunications tower in Velbert used for radio and mobile network broadcasting.",
+                  "category": "tower",
+                  "coords": [
+                        7.048268,
+                        51.333008
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Velbert", hu: "Velbert", ro: "Velbert", en: "Velbert" },
@@ -2593,7 +8695,268 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-arnsberg-2-cities-v2.webp",
   },
   {
-    id: "germany-ludenscheid-cities-v2",
+    id: "germany-ludenscheid-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Neuenhof",
+                  "text": "Schloss Neuenhof ist ein denkmalgeschütztes Wasserschloss in Lüdenscheid, dessen Ursprünge bis ins Mittelalter zurückreichen.",
+                  "category": "castle",
+                  "coords": [
+                        7.629258,
+                        51.198622
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Lüdenscheid",
+                  "text": "Das Kulturhaus Lüdenscheid ist ein bedeutendes Theater- und Konzerthaus für regionale und überregionale Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.632397,
+                        51.21432
+                  ]
+            },
+            {
+                  "name": "Stilleking",
+                  "text": "Der Stilleking ist ein Naturschutzgebiet bei Lüdenscheid, das für seine halboffenen Weidelandschaften und Wildpferde bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        7.632632,
+                        51.187485
+                  ]
+            },
+            {
+                  "name": "Phänomenta Lüdenscheid",
+                  "text": "Ein interaktives Mitmach-Museum mit zahlreichen Stationen zu naturwissenschaftlichen Phänomenen.",
+                  "category": "museum",
+                  "coords": [
+                        7.628519,
+                        51.22185
+                  ]
+            },
+            {
+                  "name": "TMS Verkehrshistorische Ausstellung Galerie",
+                  "text": "Eine Galerie, die historische Exponate und Informationen zur Verkehrsgeschichte der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.636415,
+                        51.209558
+                  ]
+            },
+            {
+                  "name": "SIKU//WIKING Modellwelt",
+                  "text": "Eine umfangreiche Ausstellung von Fahrzeugmodellen der bekannten Marken Siku und Wiking.",
+                  "category": "museum",
+                  "coords": [
+                        7.645232,
+                        51.214578
+                  ]
+            },
+            {
+                  "name": "Landwehr Baukloh",
+                  "text": "Die Überreste einer mittelalterlichen Landwehr zur Befestigung der städtischen Grenzen.",
+                  "category": "historical",
+                  "coords": [
+                        7.626829,
+                        51.206885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Neuenhof",
+                  "text": "A Lüdenscheidben található Neuenhof-kastély egy műemlékvédelem alatt álló vízivár, amelynek eredete a középkorig nyúlik vissza.",
+                  "category": "castle",
+                  "coords": [
+                        7.629258,
+                        51.198622
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Lüdenscheid",
+                  "text": "A Kulturhaus Lüdenscheid a város jelentős színház- és koncertterme, amely regionális és országos eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        7.632397,
+                        51.21432
+                  ]
+            },
+            {
+                  "name": "Stilleking",
+                  "text": "A Stilleking egy Lüdenscheid közeli természetvédelmi terület, amely félig nyitott legelőiről és vadlovairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.632632,
+                        51.187485
+                  ]
+            },
+            {
+                  "name": "Phänomenta Lüdenscheid",
+                  "text": "Interaktív múzeum számos állomással, ahol a látogatók tudományos jelenségekkel ismerkedhetnek meg.",
+                  "category": "museum",
+                  "coords": [
+                        7.628519,
+                        51.22185
+                  ]
+            },
+            {
+                  "name": "TMS Verkehrshistorische Ausstellung Galerie",
+                  "text": "A régió közlekedéstörténetéhez kapcsolódó történelmi tárgyakat és információkat bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        7.636415,
+                        51.209558
+                  ]
+            },
+            {
+                  "name": "SIKU//WIKING Modellwelt",
+                  "text": "A Siku és a Wiking márkák járműmodelljeinek nagyszabású kiállítása.",
+                  "category": "museum",
+                  "coords": [
+                        7.645232,
+                        51.214578
+                  ]
+            },
+            {
+                  "name": "Landwehr Baukloh",
+                  "text": "Városi határok megerősítésére szolgáló középkori sáncrendszer maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        7.626829,
+                        51.206885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Neuenhof",
+                  "text": "Castelul Neuenhof este un castel de apă istoric din Lüdenscheid, ale cărui origini datează din Evul Mediu.",
+                  "category": "castle",
+                  "coords": [
+                        7.629258,
+                        51.198622
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Lüdenscheid",
+                  "text": "Kulturhaus Lüdenscheid este o importantă sală de teatru și concerte pentru evenimente regionale și naționale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.632397,
+                        51.21432
+                  ]
+            },
+            {
+                  "name": "Stilleking",
+                  "text": "Stilleking este o rezervație naturală lângă Lüdenscheid, cunoscută pentru peisajele sale de pășune și caii sălbatici.",
+                  "category": "natural",
+                  "coords": [
+                        7.632632,
+                        51.187485
+                  ]
+            },
+            {
+                  "name": "Phänomenta Lüdenscheid",
+                  "text": "Un muzeu interactiv cu numeroase stații dedicate fenomenelor științifice.",
+                  "category": "museum",
+                  "coords": [
+                        7.628519,
+                        51.22185
+                  ]
+            },
+            {
+                  "name": "TMS Verkehrshistorische Ausstellung Galerie",
+                  "text": "O galerie care prezintă exponate istorice și informații despre istoria transporturilor din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        7.636415,
+                        51.209558
+                  ]
+            },
+            {
+                  "name": "SIKU//WIKING Modellwelt",
+                  "text": "O expoziție amplă de modele de vehicule ale mărcilor Siku și Wiking.",
+                  "category": "museum",
+                  "coords": [
+                        7.645232,
+                        51.214578
+                  ]
+            },
+            {
+                  "name": "Landwehr Baukloh",
+                  "text": "Vestigiile unei fortificații medievale utilizate pentru apărarea granițelor orașului.",
+                  "category": "historical",
+                  "coords": [
+                        7.626829,
+                        51.206885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Neuenhof",
+                  "text": "Schloss Neuenhof is a listed moated castle in Lüdenscheid, with origins dating back to the Middle Ages.",
+                  "category": "castle",
+                  "coords": [
+                        7.629258,
+                        51.198622
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Lüdenscheid",
+                  "text": "The Kulturhaus Lüdenscheid is a major theater and concert hall hosting regional and national events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.632397,
+                        51.21432
+                  ]
+            },
+            {
+                  "name": "Stilleking",
+                  "text": "The Stilleking is a nature reserve near Lüdenscheid, known for its semi-open pasture landscapes and wild horses.",
+                  "category": "natural",
+                  "coords": [
+                        7.632632,
+                        51.187485
+                  ]
+            },
+            {
+                  "name": "Phänomenta Lüdenscheid",
+                  "text": "An interactive museum with numerous stations dedicated to scientific phenomena.",
+                  "category": "museum",
+                  "coords": [
+                        7.628519,
+                        51.22185
+                  ]
+            },
+            {
+                  "name": "TMS Verkehrshistorische Ausstellung Galerie",
+                  "text": "A gallery presenting historical exhibits and information on the transport history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        7.636415,
+                        51.209558
+                  ]
+            },
+            {
+                  "name": "SIKU//WIKING Modellwelt",
+                  "text": "An extensive exhibition of vehicle models from the Siku and Wiking brands.",
+                  "category": "museum",
+                  "coords": [
+                        7.645232,
+                        51.214578
+                  ]
+            },
+            {
+                  "name": "Landwehr Baukloh",
+                  "text": "The remains of a medieval boundary fortification used to secure the city borders.",
+                  "category": "historical",
+                  "coords": [
+                        7.626829,
+                        51.206885
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Lüdenscheid", hu: "Lüdenscheid", ro: "Lüdenscheid", en: "Lüdenscheid" },
@@ -2642,7 +9005,232 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-ludenscheid-cities-v2.webp",
   },
   {
-    id: "germany-dinslaken-cities-v2",
+    id: "germany-dinslaken-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Motte Rouleersburg",
+                  "text": "Eine archäologische Stätte in Dinslaken, welche den Standort einer ehemaligen mittelalterlichen Erdhügelburg markiert.",
+                  "category": "historical",
+                  "coords": [
+                        6.760277,
+                        51.541694
+                  ]
+            },
+            {
+                  "name": "Haus Watereck",
+                  "text": "Ein geschütztes Bodendenkmal in Dinslaken, das auf die Fundamente eines historischen befestigten Adelssitzes hinweist.",
+                  "category": "historical",
+                  "coords": [
+                        6.735487,
+                        51.543064
+                  ]
+            },
+            {
+                  "name": "Kathrin-Türks-Halle",
+                  "text": "Ein modernes Veranstaltungs- und Kulturzentrum in Dinslaken für Konzerte und Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        6.732832,
+                        51.562488
+                  ]
+            },
+            {
+                  "name": "Museum Voswinckelshof",
+                  "text": "Das stadthistorische Museum in einem ehemaligen Adelshof zeigt die Geschichte von Dinslaken.",
+                  "category": "museum",
+                  "coords": [
+                        6.735053,
+                        51.560257
+                  ]
+            },
+            {
+                  "name": "Burgtheater Dinslaken",
+                  "text": "Eine stimmungsvolle Freilichtbühne in der historischen Kulisse der Burg Dinslaken.",
+                  "category": "cultural",
+                  "coords": [
+                        6.73141,
+                        51.562259
+                  ]
+            },
+            {
+                  "name": "Knappenverein Walsum",
+                  "text": "Ein kleines Museum in Dinslaken, das die Bergbaugeschichte und Tradition der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        6.722669,
+                        51.535399
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Motte Rouleersburg",
+                  "text": "Régészeti helyszín Dinslakenben, amely egy egykori középkori földvár, egy motte helyét jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        6.760277,
+                        51.541694
+                  ]
+            },
+            {
+                  "name": "Haus Watereck",
+                  "text": "Védett régészeti emlékhely Dinslakenben, amely egy történelmi erődített nemesi kúria alapjaira utal.",
+                  "category": "historical",
+                  "coords": [
+                        6.735487,
+                        51.543064
+                  ]
+            },
+            {
+                  "name": "Kathrin-Türks-Halle",
+                  "text": "Modern kulturális központ és rendezvényhelyszín Dinslakenben, koncerteknek és színháznak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        6.732832,
+                        51.562488
+                  ]
+            },
+            {
+                  "name": "Museum Voswinckelshof",
+                  "text": "Dinslaken várostörténeti múzeuma, amely egy egykori nemesi kúriában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        6.735053,
+                        51.560257
+                  ]
+            },
+            {
+                  "name": "Burgtheater Dinslaken",
+                  "text": "Hangulatos szabadtéri színpad a dinslakeni vár történelmi díszletei között.",
+                  "category": "cultural",
+                  "coords": [
+                        6.73141,
+                        51.562259
+                  ]
+            },
+            {
+                  "name": "Knappenverein Walsum",
+                  "text": "Kis múzeum Dinslakenben, amely a régió bányászati múltját és hagyományait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        6.722669,
+                        51.535399
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Motte Rouleersburg",
+                  "text": "Un sit arheologic în Dinslaken, care marchează locația unei foste fortificații medievale de tip motte.",
+                  "category": "historical",
+                  "coords": [
+                        6.760277,
+                        51.541694
+                  ]
+            },
+            {
+                  "name": "Haus Watereck",
+                  "text": "Un monument arheologic protejat în Dinslaken, care indică fundațiile unei foste reședințe nobiliare fortificate.",
+                  "category": "historical",
+                  "coords": [
+                        6.735487,
+                        51.543064
+                  ]
+            },
+            {
+                  "name": "Kathrin-Türks-Halle",
+                  "text": "Un centru cultural și de evenimente modern în Dinslaken, utilizat pentru concerte și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        6.732832,
+                        51.562488
+                  ]
+            },
+            {
+                  "name": "Museum Voswinckelshof",
+                  "text": "Muzeul de istorie a orașului, situat într-o fostă curte nobiliară, prezentând trecutul localității Dinslaken.",
+                  "category": "museum",
+                  "coords": [
+                        6.735053,
+                        51.560257
+                  ]
+            },
+            {
+                  "name": "Burgtheater Dinslaken",
+                  "text": "O scenă în aer liber plină de atmosferă, situată în cadrul istoric al castelului Dinslaken.",
+                  "category": "cultural",
+                  "coords": [
+                        6.73141,
+                        51.562259
+                  ]
+            },
+            {
+                  "name": "Knappenverein Walsum",
+                  "text": "Un mic muzeu în Dinslaken care păstrează istoria minieră și tradițiile regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        6.722669,
+                        51.535399
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Motte Rouleersburg",
+                  "text": "An archaeological site in Dinslaken marking the location of a former medieval motte-and-bailey castle.",
+                  "category": "historical",
+                  "coords": [
+                        6.760277,
+                        51.541694
+                  ]
+            },
+            {
+                  "name": "Haus Watereck",
+                  "text": "A protected archaeological site in Dinslaken indicating the foundations of a historical fortified noble residence.",
+                  "category": "historical",
+                  "coords": [
+                        6.735487,
+                        51.543064
+                  ]
+            },
+            {
+                  "name": "Kathrin-Türks-Halle",
+                  "text": "A modern event and cultural center in Dinslaken hosting concerts and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.732832,
+                        51.562488
+                  ]
+            },
+            {
+                  "name": "Museum Voswinckelshof",
+                  "text": "The local history museum of Dinslaken, housed in a former noble estate.",
+                  "category": "museum",
+                  "coords": [
+                        6.735053,
+                        51.560257
+                  ]
+            },
+            {
+                  "name": "Burgtheater Dinslaken",
+                  "text": "An atmospheric open-air theater set against the historic backdrop of Dinslaken Castle.",
+                  "category": "cultural",
+                  "coords": [
+                        6.73141,
+                        51.562259
+                  ]
+            },
+            {
+                  "name": "Knappenverein Walsum",
+                  "text": "A small museum in Dinslaken dedicated to preserving the region's mining history and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        6.722669,
+                        51.535399
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Dinslaken", hu: "Dinslaken", ro: "Dinslaken", en: "Dinslaken" },

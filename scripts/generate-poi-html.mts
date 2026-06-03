@@ -2132,13 +2132,17 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   } catch {}
 
   let newsHtml = "";
+  // RSS hír-blokk FELFÜGGESZTVE 2026-06-03: SSR aggregátor-címlista (mások headline-jai +
+  // nofollow kimenő linkek) thin/aggregátor-jel a Google-nek -> kockázat az AdSense újra-beadásnál.
+  // Helyette events (Ereignisse) bővítés (strukturált, eredeti, Schema.org Event). Vissza: true.
+  const SHOW_NEWS = false;
   try {
     const newsBase = path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`);
     const newsGz = newsBase + ".gz";
     let raw: string | null = null;
     if (fs.existsSync(newsBase)) raw = fs.readFileSync(newsBase, "utf-8");
     else if (fs.existsSync(newsGz)) raw = zlib.gunzipSync(fs.readFileSync(newsGz)).toString("utf-8");
-    if (raw) {
+    if (raw && SHOW_NEWS) {
       const items = JSON.parse(raw) as Array<{ title: string; snippet: string; url: string; source: string; date: string; lang?: string }>;
       if (items.length > 0) {
         const top = items.slice(0, 6);

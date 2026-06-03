@@ -769,6 +769,105 @@ export const poiExtraDe2: POI[] = [
                   "text": "Die ehemalige Klosteranlage auf dem Hausberg Gießens ist ein beliebtes Ausflugsziel mit romanischer Basilika.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Gießener Bergwerkswald",
+                  "text": "Ein Naturschutzgebiet bei Gießen, das durch ehemalige Bergbauaktivitäten und dichte Wälder geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.670173,
+                        50.560367
+                  ]
+            },
+            {
+                  "name": "Kamera Museum",
+                  "text": "Ein Museum in Gießen, das sich der Geschichte der Fototechnik und Kameras widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.635662,
+                        50.585437
+                  ]
+            },
+            {
+                  "name": "Oberhessische Eisenbahnfreunde",
+                  "text": "Ein Eisenbahnmuseum in Gießen, das historische Schienenfahrzeuge und Technik präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.652122,
+                        50.567564
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Ein Museum in Gießen, das die lokale Geschichte, Kultur und das Alltagsleben der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.70604,
+                        50.602369
+                  ]
+            },
+            {
+                  "name": "Oberhessischer Künstlerbund OKB",
+                  "text": "Ein Kunstmuseum oder eine Galerie in Gießen, die Werke regionaler Künstler aus Oberhessen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.650813,
+                        50.589916
+                  ]
+            },
+            {
+                  "name": "Psychiatriemuseum",
+                  "text": "Ein spezialisiertes Museum in Gießen, das die Geschichte der Psychiatrie und medizinischen Behandlung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.701861,
+                        50.57646
+                  ]
+            },
+            {
+                  "name": "Lern- und Erinnerungsort Notaufnahmelager Gießen",
+                  "text": "Eine Gedenkstätte und ein Museum, das an die Geschichte des zentralen Notaufnahmelagers in Gießen erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        8.657996,
+                        50.57748
+                  ]
+            },
+            {
+                  "name": "Freibad Ringallee",
+                  "text": "Ein öffentliches Freibad in Gießen mit verschiedenen Schwimmbecken und Liegewiesen für Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        8.685487,
+                        50.588786
+                  ]
+            },
+            {
+                  "name": "Biotopfläche",
+                  "text": "Eine geschützte Naturfläche in Gießen, die Lebensraum für seltene Pflanzen- und Tierarten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.641709,
+                        50.583416
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Gießen",
+                  "text": "Ein zu Ehren Bismarcks errichteter Aussichtsturm in Gießen, der einen Panoramablick über die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.648024,
+                        50.596277
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Gießen",
+                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst in Gießen.",
+                  "category": "museum",
+                  "coords": [
+                        8.67951,
+                        50.583505
+                  ]
             }
       ],
       "hu": [
@@ -811,6 +910,105 @@ export const poiExtraDe2: POI[] = [
                         8.666196,
                         50.580839
                   ]
+            },
+            {
+                  "name": "Gießener Bergwerkswald",
+                  "text": "Gießen melletti természetvédelmi terület, amelyet korábbi bányászati tevékenység és sűrű erdők jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        8.670173,
+                        50.560367
+                  ]
+            },
+            {
+                  "name": "Kamera Museum",
+                  "text": "Gießeni múzeum, amely a fotótechnika és a fényképezőgépek történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.635662,
+                        50.585437
+                  ]
+            },
+            {
+                  "name": "Oberhessische Eisenbahnfreunde",
+                  "text": "Gießeni vasúttörténeti múzeum, amely régi vasúti járműveket és technikai eszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.652122,
+                        50.567564
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Helytörténeti múzeum Gießenben, amely a régió történelmét, kultúráját és mindennapjait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.70604,
+                        50.602369
+                  ]
+            },
+            {
+                  "name": "Oberhessischer Künstlerbund OKB",
+                  "text": "Művészeti galéria vagy múzeum Gießenben, amely felső-hesseni regionális művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.650813,
+                        50.589916
+                  ]
+            },
+            {
+                  "name": "Psychiatriemuseum",
+                  "text": "Speciális múzeum Gießenben, amely a pszichiátria és az orvosi kezelések történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.701861,
+                        50.57646
+                  ]
+            },
+            {
+                  "name": "Lern- und Erinnerungsort Notaufnahmelager Gießen",
+                  "text": "Emlékhely és múzeum Gießenben, amely a központi menekülttábor történetének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        8.657996,
+                        50.57748
+                  ]
+            },
+            {
+                  "name": "Freibad Ringallee",
+                  "text": "Nyilvános szabadtéri strand Gießenben, különböző medencékkel és pihenőhelyekkel a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        8.685487,
+                        50.588786
+                  ]
+            },
+            {
+                  "name": "Biotopfläche",
+                  "text": "Védett természeti terület Gießenben, amely ritka növény- és állatfajoknak nyújt élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        8.641709,
+                        50.583416
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Gießen",
+                  "text": "Bismarck tiszteletére emelt kilátótorony Gießenben, amely panorámás kilátást nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        8.648024,
+                        50.596277
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Gießen",
+                  "text": "Kortárs művészeti kiállítótér Gießenben.",
+                  "category": "museum",
+                  "coords": [
+                        8.67951,
+                        50.583505
+                  ]
             }
       ],
       "ro": [
@@ -852,6 +1050,105 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.666196,
                         50.580839
+                  ]
+            },
+            {
+                  "name": "Gießener Bergwerkswald",
+                  "text": "O rezervație naturală lângă Gießen, caracterizată prin foste activități miniere și păduri dese.",
+                  "category": "natural",
+                  "coords": [
+                        8.670173,
+                        50.560367
+                  ]
+            },
+            {
+                  "name": "Kamera Museum",
+                  "text": "Un muzeu din Gießen dedicat istoriei tehnologiei fotografice și camerelor foto.",
+                  "category": "museum",
+                  "coords": [
+                        8.635662,
+                        50.585437
+                  ]
+            },
+            {
+                  "name": "Oberhessische Eisenbahnfreunde",
+                  "text": "Un muzeu feroviar din Gießen care prezintă vehicule feroviare istorice și tehnică.",
+                  "category": "museum",
+                  "coords": [
+                        8.652122,
+                        50.567564
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Un muzeu din Gießen care documentează istoria locală, cultura și viața cotidiană a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        8.70604,
+                        50.602369
+                  ]
+            },
+            {
+                  "name": "Oberhessischer Künstlerbund OKB",
+                  "text": "Un muzeu de artă sau o galerie din Gießen care prezintă lucrări ale artiștilor regionali din Hessenul Superior.",
+                  "category": "museum",
+                  "coords": [
+                        8.650813,
+                        50.589916
+                  ]
+            },
+            {
+                  "name": "Psychiatriemuseum",
+                  "text": "Un muzeu specializat din Gießen care documentează istoria psihiatriei și a tratamentului medical.",
+                  "category": "museum",
+                  "coords": [
+                        8.701861,
+                        50.57646
+                  ]
+            },
+            {
+                  "name": "Lern- und Erinnerungsort Notaufnahmelager Gießen",
+                  "text": "Un loc de memorie și muzeu care comemorează istoria lagărului central de primire din Gießen.",
+                  "category": "museum",
+                  "coords": [
+                        8.657996,
+                        50.57748
+                  ]
+            },
+            {
+                  "name": "Freibad Ringallee",
+                  "text": "Un ștrand public în Gießen cu diverse bazine și zone de plajă pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        8.685487,
+                        50.588786
+                  ]
+            },
+            {
+                  "name": "Biotopfläche",
+                  "text": "O zonă naturală protejată din Gießen care oferă habitat pentru specii rare de plante și animale.",
+                  "category": "natural",
+                  "coords": [
+                        8.641709,
+                        50.583416
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Gießen",
+                  "text": "Un turn de observație ridicat în cinstea lui Bismarck în Gießen, care oferă o vedere panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        8.648024,
+                        50.596277
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Gießen",
+                  "text": "Un spațiu expozițional pentru artă contemporană în Gießen.",
+                  "category": "museum",
+                  "coords": [
+                        8.67951,
+                        50.583505
                   ]
             }
       ],
@@ -904,6 +1201,105 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.674182,
                         50.587122
+                  ]
+            },
+            {
+                  "name": "Gießener Bergwerkswald",
+                  "text": "A nature reserve near Giessen, characterized by former mining activities and dense forests.",
+                  "category": "natural",
+                  "coords": [
+                        8.670173,
+                        50.560367
+                  ]
+            },
+            {
+                  "name": "Kamera Museum",
+                  "text": "A museum in Giessen dedicated to the history of photographic technology and cameras.",
+                  "category": "museum",
+                  "coords": [
+                        8.635662,
+                        50.585437
+                  ]
+            },
+            {
+                  "name": "Oberhessische Eisenbahnfreunde",
+                  "text": "A railway museum in Giessen displaying historical rolling stock and technology.",
+                  "category": "museum",
+                  "coords": [
+                        8.652122,
+                        50.567564
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "A local history museum in Giessen documenting the region's history, culture, and daily life.",
+                  "category": "museum",
+                  "coords": [
+                        8.70604,
+                        50.602369
+                  ]
+            },
+            {
+                  "name": "Oberhessischer Künstlerbund OKB",
+                  "text": "An art museum or gallery in Giessen showcasing works by regional artists from Upper Hesse.",
+                  "category": "museum",
+                  "coords": [
+                        8.650813,
+                        50.589916
+                  ]
+            },
+            {
+                  "name": "Psychiatriemuseum",
+                  "text": "A specialized museum in Giessen documenting the history of psychiatry and medical treatment.",
+                  "category": "museum",
+                  "coords": [
+                        8.701861,
+                        50.57646
+                  ]
+            },
+            {
+                  "name": "Lern- und Erinnerungsort Notaufnahmelager Gießen",
+                  "text": "A memorial and museum commemorating the history of the central refugee reception center in Giessen.",
+                  "category": "museum",
+                  "coords": [
+                        8.657996,
+                        50.57748
+                  ]
+            },
+            {
+                  "name": "Freibad Ringallee",
+                  "text": "A public outdoor swimming pool in Giessen with various pools and sunbathing areas for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        8.685487,
+                        50.588786
+                  ]
+            },
+            {
+                  "name": "Biotopfläche",
+                  "text": "A protected natural area in Giessen providing a habitat for rare plant and animal species.",
+                  "category": "natural",
+                  "coords": [
+                        8.641709,
+                        50.583416
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Gießen",
+                  "text": "An observation tower built in honor of Bismarck in Giessen, offering a panoramic view of the city.",
+                  "category": "natural",
+                  "coords": [
+                        8.648024,
+                        50.596277
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Gießen",
+                  "text": "An exhibition space for contemporary art in Giessen.",
+                  "category": "museum",
+                  "coords": [
+                        8.67951,
+                        50.583505
                   ]
             }
       ],
@@ -1247,6 +1643,114 @@ export const poiExtraDe2: POI[] = [
                         "license": "Google Places API",
                         "platform": "google-places"
                   }
+            },
+            {
+                  "name": "Turmhügelburg Rothehof",
+                  "text": "Archäologische Stätte einer mittelalterlichen Erdburg in Wolfsburg.",
+                  "category": "historical",
+                  "coords": [
+                        10.78339,
+                        52.408049
+                  ]
+            },
+            {
+                  "name": "ZeitHaus",
+                  "text": "Ein Automobilmuseum in der Autostadt Wolfsburg.",
+                  "category": "museum",
+                  "coords": [
+                        10.790786,
+                        52.431804
+                  ]
+            },
+            {
+                  "name": "VW-Bad",
+                  "text": "Ein denkmalgeschütztes Freibad in Wolfsburg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.795768,
+                        52.413383
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Schloss Wolfsburg",
+                  "text": "Das Stadtgeschichtsmuseum im Schloss Wolfsburg.",
+                  "category": "museum",
+                  "coords": [
+                        10.798465,
+                        52.4394
+                  ]
+            },
+            {
+                  "name": "Hallenbad Sandkamp",
+                  "text": "Ein öffentliches Hallenbad im Wolfsburger Stadtteil Sandkamp.",
+                  "category": "recreational",
+                  "coords": [
+                        10.746119,
+                        52.428326
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Kleiner Tierpark in Wolfsburg, ideal für Familien mit Kindern.",
+                  "category": "recreational",
+                  "coords": [
+                        10.769531,
+                        52.415306
+                  ]
+            },
+            {
+                  "name": "Erlengrund",
+                  "text": "Naturbelassenes Gelände in Wolfsburg, das zur Erholung im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        10.773723,
+                        52.400371
+                  ]
+            },
+            {
+                  "name": "Landwirtschaftsmuseum",
+                  "text": "Museum in Wolfsburg, das die Geschichte der regionalen Landwirtschaft dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.802388,
+                        52.44076
+                  ]
+            },
+            {
+                  "name": "Schwimminsel",
+                  "text": "Beliebte Wasserattraktion in Wolfsburg für Freizeit und Wasserspaß.",
+                  "category": "recreational",
+                  "coords": [
+                        10.817262,
+                        52.434194
+                  ]
+            },
+            {
+                  "name": "künstliche Insel",
+                  "text": "Künstlich angelegte Insel in Wolfsburg als besonderer Ort am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        10.803141,
+                        52.434814
+                  ]
+            },
+            {
+                  "name": "Schlosspark",
+                  "text": "Historische Parkanlage am Schloss Wolfsburg mit weitläufigen Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        10.802235,
+                        52.439301
+                  ]
+            },
+            {
+                  "name": "Arboretum",
+                  "text": "Botanische Sammlung verschiedener Baumarten in einer gepflegten Gartenanlage.",
+                  "category": "park",
+                  "coords": [
+                        10.775136,
+                        52.398541
+                  ]
             }
       ],
       "hu": [
@@ -1303,6 +1807,114 @@ export const poiExtraDe2: POI[] = [
                         10.808562,
                         52.427854
                   ]
+            },
+            {
+                  "name": "Turmhügelburg Rothehof",
+                  "text": "Egy középkori földvár régészeti lelőhelye Wolfsburgban.",
+                  "category": "historical",
+                  "coords": [
+                        10.78339,
+                        52.408049
+                  ]
+            },
+            {
+                  "name": "ZeitHaus",
+                  "text": "Autómúzeum a wolfsburgi Autostadt területén.",
+                  "category": "museum",
+                  "coords": [
+                        10.790786,
+                        52.431804
+                  ]
+            },
+            {
+                  "name": "VW-Bad",
+                  "text": "Műemlékvédelem alatt álló szabadtéri strand Wolfsburgban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.795768,
+                        52.413383
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Schloss Wolfsburg",
+                  "text": "Várostörténeti múzeum a wolfsburgi kastélyban.",
+                  "category": "museum",
+                  "coords": [
+                        10.798465,
+                        52.4394
+                  ]
+            },
+            {
+                  "name": "Hallenbad Sandkamp",
+                  "text": "Nyilvános fedett uszoda Wolfsburg Sandkamp negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.746119,
+                        52.428326
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Kis állatkert Wolfsburgban, ideális gyermekes családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        10.769531,
+                        52.415306
+                  ]
+            },
+            {
+                  "name": "Erlengrund",
+                  "text": "Természetközeli terület Wolfsburgban, amely kikapcsolódást kínál a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        10.773723,
+                        52.400371
+                  ]
+            },
+            {
+                  "name": "Landwirtschaftsmuseum",
+                  "text": "Wolfsburgi múzeum, amely a regionális mezőgazdaság történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.802388,
+                        52.44076
+                  ]
+            },
+            {
+                  "name": "Schwimminsel",
+                  "text": "Népszerű vízi attrakció Wolfsburgban szabadidős tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        10.817262,
+                        52.434194
+                  ]
+            },
+            {
+                  "name": "künstliche Insel",
+                  "text": "Mesterséges sziget Wolfsburgban, különleges hely a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        10.803141,
+                        52.434814
+                  ]
+            },
+            {
+                  "name": "Schlosspark",
+                  "text": "A wolfsburgi kastély melletti történelmi park tágas zöldterületekkel.",
+                  "category": "park",
+                  "coords": [
+                        10.802235,
+                        52.439301
+                  ]
+            },
+            {
+                  "name": "Arboretum",
+                  "text": "Különféle fafajok botanikai gyűjteménye egy gondozott kertben.",
+                  "category": "park",
+                  "coords": [
+                        10.775136,
+                        52.398541
+                  ]
             }
       ],
       "ro": [
@@ -1358,6 +1970,114 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         10.808562,
                         52.427854
+                  ]
+            },
+            {
+                  "name": "Turmhügelburg Rothehof",
+                  "text": "Sit arheologic al unei cetăți medievale din Wolfsburg.",
+                  "category": "historical",
+                  "coords": [
+                        10.78339,
+                        52.408049
+                  ]
+            },
+            {
+                  "name": "ZeitHaus",
+                  "text": "Un muzeu de automobile în Autostadt Wolfsburg.",
+                  "category": "museum",
+                  "coords": [
+                        10.790786,
+                        52.431804
+                  ]
+            },
+            {
+                  "name": "VW-Bad",
+                  "text": "Un ștrand public în aer liber, monument istoric în Wolfsburg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.795768,
+                        52.413383
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Schloss Wolfsburg",
+                  "text": "Muzeul de istorie a orașului situat în castelul Wolfsburg.",
+                  "category": "museum",
+                  "coords": [
+                        10.798465,
+                        52.4394
+                  ]
+            },
+            {
+                  "name": "Hallenbad Sandkamp",
+                  "text": "O piscină publică acoperită în cartierul Sandkamp din Wolfsburg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.746119,
+                        52.428326
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Grădină zoologică mică în Wolfsburg, ideală pentru familii cu copii.",
+                  "category": "recreational",
+                  "coords": [
+                        10.769531,
+                        52.415306
+                  ]
+            },
+            {
+                  "name": "Erlengrund",
+                  "text": "Zonă naturală în Wolfsburg, care oferă relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        10.773723,
+                        52.400371
+                  ]
+            },
+            {
+                  "name": "Landwirtschaftsmuseum",
+                  "text": "Muzeu din Wolfsburg care documentează istoria agriculturii regionale.",
+                  "category": "museum",
+                  "coords": [
+                        10.802388,
+                        52.44076
+                  ]
+            },
+            {
+                  "name": "Schwimminsel",
+                  "text": "Atracție acvatică populară în Wolfsburg pentru timp liber și distracție.",
+                  "category": "recreational",
+                  "coords": [
+                        10.817262,
+                        52.434194
+                  ]
+            },
+            {
+                  "name": "künstliche Insel",
+                  "text": "Insulă artificială în Wolfsburg, un loc special pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        10.803141,
+                        52.434814
+                  ]
+            },
+            {
+                  "name": "Schlosspark",
+                  "text": "Parc istoric de lângă castelul Wolfsburg, cu spații verzi vaste.",
+                  "category": "park",
+                  "coords": [
+                        10.802235,
+                        52.439301
+                  ]
+            },
+            {
+                  "name": "Arboretum",
+                  "text": "Colecție botanică de diverse specii de arbori într-o grădină îngrijită.",
+                  "category": "park",
+                  "coords": [
+                        10.775136,
+                        52.398541
                   ]
             }
       ],
@@ -1431,6 +2151,114 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         10.8226,
                         52.4357
+                  ]
+            },
+            {
+                  "name": "Turmhügelburg Rothehof",
+                  "text": "Archaeological site of a medieval motte-and-bailey castle in Wolfsburg.",
+                  "category": "historical",
+                  "coords": [
+                        10.78339,
+                        52.408049
+                  ]
+            },
+            {
+                  "name": "ZeitHaus",
+                  "text": "An automobile museum in the Autostadt Wolfsburg.",
+                  "category": "museum",
+                  "coords": [
+                        10.790786,
+                        52.431804
+                  ]
+            },
+            {
+                  "name": "VW-Bad",
+                  "text": "A heritage-listed outdoor swimming pool in Wolfsburg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.795768,
+                        52.413383
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Schloss Wolfsburg",
+                  "text": "The city history museum located in Wolfsburg Castle.",
+                  "category": "museum",
+                  "coords": [
+                        10.798465,
+                        52.4394
+                  ]
+            },
+            {
+                  "name": "Hallenbad Sandkamp",
+                  "text": "A public indoor swimming pool in the Sandkamp district of Wolfsburg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.746119,
+                        52.428326
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Small zoo in Wolfsburg, ideal for families with children.",
+                  "category": "recreational",
+                  "coords": [
+                        10.769531,
+                        52.415306
+                  ]
+            },
+            {
+                  "name": "Erlengrund",
+                  "text": "Natural area in Wolfsburg, offering relaxation in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        10.773723,
+                        52.400371
+                  ]
+            },
+            {
+                  "name": "Landwirtschaftsmuseum",
+                  "text": "Museum in Wolfsburg documenting the history of regional agriculture.",
+                  "category": "museum",
+                  "coords": [
+                        10.802388,
+                        52.44076
+                  ]
+            },
+            {
+                  "name": "Schwimminsel",
+                  "text": "Popular water attraction in Wolfsburg for leisure and water fun.",
+                  "category": "recreational",
+                  "coords": [
+                        10.817262,
+                        52.434194
+                  ]
+            },
+            {
+                  "name": "künstliche Insel",
+                  "text": "Man-made island in Wolfsburg as a special place by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        10.803141,
+                        52.434814
+                  ]
+            },
+            {
+                  "name": "Schlosspark",
+                  "text": "Historic park at Wolfsburg Castle with extensive green areas.",
+                  "category": "park",
+                  "coords": [
+                        10.802235,
+                        52.439301
+                  ]
+            },
+            {
+                  "name": "Arboretum",
+                  "text": "Botanical collection of various tree species in a well-maintained garden.",
+                  "category": "park",
+                  "coords": [
+                        10.775136,
+                        52.398541
                   ]
             }
       ],
@@ -1712,6 +2540,204 @@ export const poiExtraDe2: POI[] = [
                         9.95,
                         52.151667
                   ]
+            },
+            {
+                  "name": "Theaterhaus Hildesheim e.V.",
+                  "text": "Ein Zentrum für die freie Theaterszene in Hildesheim.",
+                  "category": "cultural",
+                  "coords": [
+                        9.961835,
+                        52.162825
+                  ]
+            },
+            {
+                  "name": "Neisser Heimatmuseum",
+                  "text": "Ein Museum in Hildesheim, das die Geschichte und Kultur der schlesischen Stadt Neisse dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.951646,
+                        52.146522
+                  ]
+            },
+            {
+                  "name": "TfN - Theater für Niedersachsen",
+                  "text": "Ein Mehrspartentheater mit Hauptsitz in Hildesheim, das in ganz Niedersachsen auftritt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.957913,
+                        52.152376
+                  ]
+            },
+            {
+                  "name": "Burg Steuerwald",
+                  "text": "Eine gut erhaltene mittelalterliche Bischofsburg, die im 14. Jahrhundert zum Schutz des Hochstifts Hildesheim errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        9.92672,
+                        52.169472
+                  ]
+            },
+            {
+                  "name": "NSG Am roten Steine",
+                  "text": "Dieses Naturschutzgebiet schützt wertvolle Kalk-Trockenrasen und bietet einen Lebensraum für seltene Pflanzenarten.",
+                  "category": "natural",
+                  "coords": [
+                        9.973041,
+                        52.122593
+                  ]
+            },
+            {
+                  "name": "NSG Gallberg",
+                  "text": "Das Naturschutzgebiet auf dem Gallberg ist bekannt für seine artenreichen Halbtrockenrasen und Orchideen-Vorkommen.",
+                  "category": "natural",
+                  "coords": [
+                        9.905331,
+                        52.151461
+                  ]
+            },
+            {
+                  "name": "Wildlife Steinbergium (Waldmuseum)",
+                  "text": "Ein Waldmuseum im Steinberg-Wald, das Ausstellungen zur lokalen Flora, Fauna und Forstwirtschaft zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.936399,
+                        52.126302
+                  ]
+            },
+            {
+                  "name": "Stadtarchiv",
+                  "text": "Das Archiv bewahrt historische Dokumente und wertvolle Quellen zur Stadtgeschichte von Hildesheim auf.",
+                  "category": "museum",
+                  "coords": [
+                        9.942987,
+                        52.149599
+                  ]
+            },
+            {
+                  "name": "Sammlung Rolf Irle - Musikinstrumentenmuseum",
+                  "text": "Eine bedeutende Sammlung historischer Musikinstrumente aus aller Welt, untergebracht im historischen Kehrwiederturm.",
+                  "category": "museum",
+                  "coords": [
+                        9.967679,
+                        52.134717
+                  ]
+            },
+            {
+                  "name": "Bistumsarchiv",
+                  "text": "Das Archiv des Bistums Hildesheim verwahrt kirchliche Urkunden und Dokumente aus über tausend Jahren Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        9.945782,
+                        52.150158
+                  ]
+            },
+            {
+                  "name": "Felsenkeller Moritzberg",
+                  "text": "Historische, in den Fels gehauene Kelleranlagen am Moritzberg, die früher zur Lagerung von Bier genutzt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        9.924654,
+                        52.155345
+                  ]
+            },
+            {
+                  "name": "JoWiese",
+                  "text": "Ein beliebtes Freibad am Hohnsensee mit Strandbereich und verschiedenen Sport- und Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        9.945789,
+                        52.141701
+                  ]
+            },
+            {
+                  "name": "Warte auf dem Galgenberg",
+                  "text": "Die Überreste eines historischen Wachturms auf dem Galgenberg, der einst Teil des mittelalterlichen Verteidigungssystems war.",
+                  "category": "historical",
+                  "coords": [
+                        9.97705,
+                        52.14147
+                  ]
+            },
+            {
+                  "name": "Wasserparadies",
+                  "text": "Ein großes Freizeitbad in Hildesheim mit verschiedenen Schwimmbecken, Wasserrutschen und einem Wellnessbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        9.950458,
+                        52.157572
+                  ]
+            },
+            {
+                  "name": "Wildgatter Hildesheim",
+                  "text": "Ein Wildpark im Ochtersumer Wald, in dem heimische Tierarten wie Hirsche und Wildschweine beobachtet werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        9.938331,
+                        52.124299
+                  ]
+            },
+            {
+                  "name": "Amphibien-Biotop",
+                  "text": "Ein geschützter Lebensraum für Amphibien und andere Wassertiere in Hildesheim.",
+                  "category": "natural",
+                  "coords": [
+                        9.93882,
+                        52.12754
+                  ]
+            },
+            {
+                  "name": "Magdalenengarten",
+                  "text": "Ein historischer Barockgarten in Hildesheim, der für seine Rosenpracht bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        9.941309,
+                        52.152795
+                  ]
+            },
+            {
+                  "name": "Marienfriedhof",
+                  "text": "Eine ehemalige Begräbnisstätte in Hildesheim, die heute als grüne Parkanlage dient.",
+                  "category": "park",
+                  "coords": [
+                        9.957977,
+                        52.159646
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Hildesheim",
+                  "text": "Ein historischer Aussichtsturm auf dem Steinberg, der einen Panoramablick über Hildesheim bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.972851,
+                        52.143932
+                  ]
+            },
+            {
+                  "name": "Trillke-Gut",
+                  "text": "Ein historisches Gutshaus in Hildesheim, das heute als alternatives Wohnprojekt genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        9.932471,
+                        52.140692
+                  ]
+            },
+            {
+                  "name": "Gelber Turm/Volkssternwarte",
+                  "text": "Ein Aussichtsturm mit integrierter Volkssternwarte für astronomische Beobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.989148,
+                        52.136611
+                  ]
+            },
+            {
+                  "name": "Basilika St. Godehard",
+                  "text": "Eine bedeutende romanische Pfeilerbasilika in Hildesheim, die zum UNESCO-Welterbe gehört.",
+                  "category": "religious",
+                  "coords": [
+                        9.949958,
+                        52.145324
+                  ]
             }
       ],
       "hu": [
@@ -1763,6 +2789,204 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         9.95,
                         52.151667
+                  ]
+            },
+            {
+                  "name": "Theaterhaus Hildesheim e.V.",
+                  "text": "A független színházi élet központja Hildesheimben.",
+                  "category": "cultural",
+                  "coords": [
+                        9.961835,
+                        52.162825
+                  ]
+            },
+            {
+                  "name": "Neisser Heimatmuseum",
+                  "text": "Hildesheimi múzeum, amely a sziléziai Neisse városának történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.951646,
+                        52.146522
+                  ]
+            },
+            {
+                  "name": "TfN - Theater für Niedersachsen",
+                  "text": "Hildesheimi székhelyű több tagozatos színház, amely egész Alsó-Szászországban fellép.",
+                  "category": "cultural",
+                  "coords": [
+                        9.957913,
+                        52.152376
+                  ]
+            },
+            {
+                  "name": "Burg Steuerwald",
+                  "text": "Jól megőrzött középkori püspöki vár, amely a 14. században épült Hildesheim védelmére.",
+                  "category": "castle",
+                  "coords": [
+                        9.92672,
+                        52.169472
+                  ]
+            },
+            {
+                  "name": "NSG Am roten Steine",
+                  "text": "Természetvédelmi terület, amely értékes mészkő-sztyeppréteknek és ritka növényfajoknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        9.973041,
+                        52.122593
+                  ]
+            },
+            {
+                  "name": "NSG Gallberg",
+                  "text": "A Gallberg természetvédelmi területe fajgazdag félszáraz gyepeiről és orchideáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.905331,
+                        52.151461
+                  ]
+            },
+            {
+                  "name": "Wildlife Steinbergium (Waldmuseum)",
+                  "text": "Erdei múzeum a Steinberg-erdőben, amely a helyi növényvilágot, állatvilágot és erdőgazdálkodást mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.936399,
+                        52.126302
+                  ]
+            },
+            {
+                  "name": "Stadtarchiv",
+                  "text": "A levéltár Hildesheim városának történelmi dokumentumait és értékes forrásait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        9.942987,
+                        52.149599
+                  ]
+            },
+            {
+                  "name": "Sammlung Rolf Irle - Musikinstrumentenmuseum",
+                  "text": "A világ minden tájáról származó történelmi hangszerek jelentős gyűjteménye, a Kehrwieder-toronyban elhelyezve.",
+                  "category": "museum",
+                  "coords": [
+                        9.967679,
+                        52.134717
+                  ]
+            },
+            {
+                  "name": "Bistumsarchiv",
+                  "text": "A Hildesheimi Püspökség levéltára több mint ezeréves történelem egyházi okleveleit és dokumentumait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        9.945782,
+                        52.150158
+                  ]
+            },
+            {
+                  "name": "Felsenkeller Moritzberg",
+                  "text": "A Moritzberg szikláiba vájt történelmi pincék, amelyeket korábban sör tárolására használtak.",
+                  "category": "museum",
+                  "coords": [
+                        9.924654,
+                        52.155345
+                  ]
+            },
+            {
+                  "name": "JoWiese",
+                  "text": "Népszerű szabadtéri strand a Hohnsensee partján, homokos parttal és különféle sportolási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.945789,
+                        52.141701
+                  ]
+            },
+            {
+                  "name": "Warte auf dem Galgenberg",
+                  "text": "Egy történelmi őrtorony maradványai a Galgenbergen, amely a középkori védelmi rendszer része volt.",
+                  "category": "historical",
+                  "coords": [
+                        9.97705,
+                        52.14147
+                  ]
+            },
+            {
+                  "name": "Wasserparadies",
+                  "text": "Nagy szabadidős fürdő Hildesheimben, különféle medencékkel, csúszdákkal és wellness-részleggel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.950458,
+                        52.157572
+                  ]
+            },
+            {
+                  "name": "Wildgatter Hildesheim",
+                  "text": "Vadaspark az Ochtersumer-erdőben, ahol őshonos vadon élő állatok, például szarvasok és vaddisznók láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        9.938331,
+                        52.124299
+                  ]
+            },
+            {
+                  "name": "Amphibien-Biotop",
+                  "text": "Védett élőhely kétéltűek és vízi élőlények számára Hildesheimben.",
+                  "category": "natural",
+                  "coords": [
+                        9.93882,
+                        52.12754
+                  ]
+            },
+            {
+                  "name": "Magdalenengarten",
+                  "text": "Hildesheim történelmi barokk kertje, amely gyönyörű rózsáiról ismert.",
+                  "category": "park",
+                  "coords": [
+                        9.941309,
+                        52.152795
+                  ]
+            },
+            {
+                  "name": "Marienfriedhof",
+                  "text": "Egykori temető Hildesheimben, amely ma zöld parkként funkcionál.",
+                  "category": "park",
+                  "coords": [
+                        9.957977,
+                        52.159646
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Hildesheim",
+                  "text": "Történelmi kilátótorony a Steinberg-hegyen, panorámás kilátással Hildesheimre.",
+                  "category": "natural",
+                  "coords": [
+                        9.972851,
+                        52.143932
+                  ]
+            },
+            {
+                  "name": "Trillke-Gut",
+                  "text": "Történelmi udvarház Hildesheimben, amely ma alternatív lakóprojektként működik.",
+                  "category": "historical",
+                  "coords": [
+                        9.932471,
+                        52.140692
+                  ]
+            },
+            {
+                  "name": "Gelber Turm/Volkssternwarte",
+                  "text": "Kilátótorony és csillagvizsgáló, amely égi megfigyelésekre is lehetőséget ad.",
+                  "category": "natural",
+                  "coords": [
+                        9.989148,
+                        52.136611
+                  ]
+            },
+            {
+                  "name": "Basilika St. Godehard",
+                  "text": "Jelentős román stílusú bazilika Hildesheimben, amely az UNESCO Világörökség része.",
+                  "category": "religious",
+                  "coords": [
+                        9.949958,
+                        52.145324
                   ]
             }
       ],
@@ -1816,6 +3040,204 @@ export const poiExtraDe2: POI[] = [
                         9.95,
                         52.151667
                   ]
+            },
+            {
+                  "name": "Theaterhaus Hildesheim e.V.",
+                  "text": "Un centru pentru scena teatrală independentă din Hildesheim.",
+                  "category": "cultural",
+                  "coords": [
+                        9.961835,
+                        52.162825
+                  ]
+            },
+            {
+                  "name": "Neisser Heimatmuseum",
+                  "text": "Un muzeu din Hildesheim care documentează istoria și cultura orașului silezian Neisse.",
+                  "category": "museum",
+                  "coords": [
+                        9.951646,
+                        52.146522
+                  ]
+            },
+            {
+                  "name": "TfN - Theater für Niedersachsen",
+                  "text": "Un teatru cu sediul în Hildesheim, care susține spectacole în întreaga Saxonie Inferioară.",
+                  "category": "cultural",
+                  "coords": [
+                        9.957913,
+                        52.152376
+                  ]
+            },
+            {
+                  "name": "Burg Steuerwald",
+                  "text": "O cetate episcopală medievală bine conservată, construită în secolul al XIV-lea pentru protecția orașului Hildesheim.",
+                  "category": "castle",
+                  "coords": [
+                        9.92672,
+                        52.169472
+                  ]
+            },
+            {
+                  "name": "NSG Am roten Steine",
+                  "text": "O rezervație naturală care protejează pajiști uscate calcaroase valoroase și specii de plante rare.",
+                  "category": "natural",
+                  "coords": [
+                        9.973041,
+                        52.122593
+                  ]
+            },
+            {
+                  "name": "NSG Gallberg",
+                  "text": "Rezervația naturală Gallberg este cunoscută pentru pajiștile sale semiuscate bogate în specii și prezența orhideelor.",
+                  "category": "natural",
+                  "coords": [
+                        9.905331,
+                        52.151461
+                  ]
+            },
+            {
+                  "name": "Wildlife Steinbergium (Waldmuseum)",
+                  "text": "Un muzeu al pădurii situat în pădurea Steinberg, prezentând expoziții despre flora, fauna și silvicultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        9.936399,
+                        52.126302
+                  ]
+            },
+            {
+                  "name": "Stadtarchiv",
+                  "text": "Arhiva păstrează documente istorice și surse valoroase despre istoria orașului Hildesheim.",
+                  "category": "museum",
+                  "coords": [
+                        9.942987,
+                        52.149599
+                  ]
+            },
+            {
+                  "name": "Sammlung Rolf Irle - Musikinstrumentenmuseum",
+                  "text": "O colecție importantă de instrumente muzicale istorice din întreaga lume, găzduită în turnul Kehrwieder.",
+                  "category": "museum",
+                  "coords": [
+                        9.967679,
+                        52.134717
+                  ]
+            },
+            {
+                  "name": "Bistumsarchiv",
+                  "text": "Arhiva Episcopiei de Hildesheim păstrează hrisoave și documente bisericești din peste o mie de ani de istorie.",
+                  "category": "museum",
+                  "coords": [
+                        9.945782,
+                        52.150158
+                  ]
+            },
+            {
+                  "name": "Felsenkeller Moritzberg",
+                  "text": "Pivnițe istorice săpate în stâncă pe muntele Moritzberg, utilizate în trecut pentru depozitarea berii.",
+                  "category": "museum",
+                  "coords": [
+                        9.924654,
+                        52.155345
+                  ]
+            },
+            {
+                  "name": "JoWiese",
+                  "text": "Un ștrand popular pe malul lacului Hohnsensee, cu zonă de plajă și diverse facilități sportive și de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.945789,
+                        52.141701
+                  ]
+            },
+            {
+                  "name": "Warte auf dem Galgenberg",
+                  "text": "Rămășițele unui turn de veghe istoric pe muntele Galgenberg, care făcea parte din sistemul de apărare medieval.",
+                  "category": "historical",
+                  "coords": [
+                        9.97705,
+                        52.14147
+                  ]
+            },
+            {
+                  "name": "Wasserparadies",
+                  "text": "Un mare parc acvatic în Hildesheim, cu diverse piscine, tobogane și o zonă de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        9.950458,
+                        52.157572
+                  ]
+            },
+            {
+                  "name": "Wildgatter Hildesheim",
+                  "text": "Un parc de animale în pădurea Ochtersum, unde pot fi observate specii sălbatice native, precum cerbi și porci mistreți.",
+                  "category": "recreational",
+                  "coords": [
+                        9.938331,
+                        52.124299
+                  ]
+            },
+            {
+                  "name": "Amphibien-Biotop",
+                  "text": "Un habitat protejat pentru amfibieni și alte creaturi acvatice în Hildesheim.",
+                  "category": "natural",
+                  "coords": [
+                        9.93882,
+                        52.12754
+                  ]
+            },
+            {
+                  "name": "Magdalenengarten",
+                  "text": "O grădină barocă istorică din Hildesheim, cunoscută pentru trandafirii săi.",
+                  "category": "park",
+                  "coords": [
+                        9.941309,
+                        52.152795
+                  ]
+            },
+            {
+                  "name": "Marienfriedhof",
+                  "text": "Un fost cimitir din Hildesheim, care astăzi servește ca parc public.",
+                  "category": "park",
+                  "coords": [
+                        9.957977,
+                        52.159646
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Hildesheim",
+                  "text": "Un turn de observație istoric pe dealul Steinberg, oferind o vedere panoramică asupra Hildesheimului.",
+                  "category": "natural",
+                  "coords": [
+                        9.972851,
+                        52.143932
+                  ]
+            },
+            {
+                  "name": "Trillke-Gut",
+                  "text": "Un conac istoric din Hildesheim, folosit astăzi ca proiect de locuințe alternative.",
+                  "category": "historical",
+                  "coords": [
+                        9.932471,
+                        52.140692
+                  ]
+            },
+            {
+                  "name": "Gelber Turm/Volkssternwarte",
+                  "text": "Un turn de observație cu un observator astronomic integrat pentru observații stelare.",
+                  "category": "natural",
+                  "coords": [
+                        9.989148,
+                        52.136611
+                  ]
+            },
+            {
+                  "name": "Basilika St. Godehard",
+                  "text": "O importantă basilică romanică din Hildesheim, inclusă în patrimoniul mondial UNESCO.",
+                  "category": "religious",
+                  "coords": [
+                        9.949958,
+                        52.145324
+                  ]
             }
       ],
       "en": [
@@ -1867,6 +3289,204 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         9.95,
                         52.151667
+                  ]
+            },
+            {
+                  "name": "Theaterhaus Hildesheim e.V.",
+                  "text": "A center for the independent theater scene in Hildesheim.",
+                  "category": "cultural",
+                  "coords": [
+                        9.961835,
+                        52.162825
+                  ]
+            },
+            {
+                  "name": "Neisser Heimatmuseum",
+                  "text": "A museum in Hildesheim documenting the history and culture of the Silesian city of Neisse.",
+                  "category": "museum",
+                  "coords": [
+                        9.951646,
+                        52.146522
+                  ]
+            },
+            {
+                  "name": "TfN - Theater für Niedersachsen",
+                  "text": "A multi-genre theater based in Hildesheim that performs throughout Lower Saxony.",
+                  "category": "cultural",
+                  "coords": [
+                        9.957913,
+                        52.152376
+                  ]
+            },
+            {
+                  "name": "Burg Steuerwald",
+                  "text": "A well-preserved medieval episcopal castle built in the 14th century to protect the Bishopric of Hildesheim.",
+                  "category": "castle",
+                  "coords": [
+                        9.92672,
+                        52.169472
+                  ]
+            },
+            {
+                  "name": "NSG Am roten Steine",
+                  "text": "A nature reserve protecting valuable limestone dry grasslands and providing a habitat for rare plant species.",
+                  "category": "natural",
+                  "coords": [
+                        9.973041,
+                        52.122593
+                  ]
+            },
+            {
+                  "name": "NSG Gallberg",
+                  "text": "The Gallberg nature reserve is known for its species-rich semi-dry grasslands and orchid occurrences.",
+                  "category": "natural",
+                  "coords": [
+                        9.905331,
+                        52.151461
+                  ]
+            },
+            {
+                  "name": "Wildlife Steinbergium (Waldmuseum)",
+                  "text": "A forest museum located in the Steinberg forest, featuring exhibitions on local flora, fauna, and forestry.",
+                  "category": "museum",
+                  "coords": [
+                        9.936399,
+                        52.126302
+                  ]
+            },
+            {
+                  "name": "Stadtarchiv",
+                  "text": "The archive preserves historical documents and valuable sources regarding the urban history of Hildesheim.",
+                  "category": "museum",
+                  "coords": [
+                        9.942987,
+                        52.149599
+                  ]
+            },
+            {
+                  "name": "Sammlung Rolf Irle - Musikinstrumentenmuseum",
+                  "text": "A significant collection of historical musical instruments from all over the world, housed in the Kehrwieder tower.",
+                  "category": "museum",
+                  "coords": [
+                        9.967679,
+                        52.134717
+                  ]
+            },
+            {
+                  "name": "Bistumsarchiv",
+                  "text": "The archives of the Diocese of Hildesheim house ecclesiastical charters and documents from over a thousand years of history.",
+                  "category": "museum",
+                  "coords": [
+                        9.945782,
+                        52.150158
+                  ]
+            },
+            {
+                  "name": "Felsenkeller Moritzberg",
+                  "text": "Historic rock-cut cellars on the Moritzberg hill that were formerly used for beer storage.",
+                  "category": "museum",
+                  "coords": [
+                        9.924654,
+                        52.155345
+                  ]
+            },
+            {
+                  "name": "JoWiese",
+                  "text": "A popular outdoor pool by the Hohnsensee lake with a beach area and various sports and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        9.945789,
+                        52.141701
+                  ]
+            },
+            {
+                  "name": "Warte auf dem Galgenberg",
+                  "text": "The remains of a historic watchtower on the Galgenberg hill, which was part of the medieval defense system.",
+                  "category": "historical",
+                  "coords": [
+                        9.97705,
+                        52.14147
+                  ]
+            },
+            {
+                  "name": "Wasserparadies",
+                  "text": "A large leisure pool in Hildesheim featuring various swimming basins, water slides, and a wellness area.",
+                  "category": "recreational",
+                  "coords": [
+                        9.950458,
+                        52.157572
+                  ]
+            },
+            {
+                  "name": "Wildgatter Hildesheim",
+                  "text": "A wildlife park in the Ochtersum forest where native wild animals such as deer and wild boars can be observed.",
+                  "category": "recreational",
+                  "coords": [
+                        9.938331,
+                        52.124299
+                  ]
+            },
+            {
+                  "name": "Amphibien-Biotop",
+                  "text": "A protected habitat for amphibians and aquatic life in Hildesheim.",
+                  "category": "natural",
+                  "coords": [
+                        9.93882,
+                        52.12754
+                  ]
+            },
+            {
+                  "name": "Magdalenengarten",
+                  "text": "A historic Baroque garden in Hildesheim, famous for its rose collection.",
+                  "category": "park",
+                  "coords": [
+                        9.941309,
+                        52.152795
+                  ]
+            },
+            {
+                  "name": "Marienfriedhof",
+                  "text": "A former cemetery in Hildesheim that now serves as a public green park.",
+                  "category": "park",
+                  "coords": [
+                        9.957977,
+                        52.159646
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Hildesheim",
+                  "text": "A historic observation tower on Steinberg hill, offering panoramic views over Hildesheim.",
+                  "category": "natural",
+                  "coords": [
+                        9.972851,
+                        52.143932
+                  ]
+            },
+            {
+                  "name": "Trillke-Gut",
+                  "text": "A historic manor in Hildesheim, now used as an alternative housing project.",
+                  "category": "historical",
+                  "coords": [
+                        9.932471,
+                        52.140692
+                  ]
+            },
+            {
+                  "name": "Gelber Turm/Volkssternwarte",
+                  "text": "An observation tower with an integrated public observatory for stargazing.",
+                  "category": "natural",
+                  "coords": [
+                        9.989148,
+                        52.136611
+                  ]
+            },
+            {
+                  "name": "Basilika St. Godehard",
+                  "text": "A significant Romanesque basilica in Hildesheim, part of the UNESCO World Heritage list.",
+                  "category": "religious",
+                  "coords": [
+                        9.949958,
+                        52.145324
                   ]
             }
       ],
@@ -2190,6 +3810,78 @@ export const poiExtraDe2: POI[] = [
                         10.08189,
                         52.623492
                   ]
+            },
+            {
+                  "name": "Otto-Haesler-Museum",
+                  "text": "Das Museum in einer ehemaligen Siedlung widmet sich dem Werk des Bauhaus-Architekten.",
+                  "category": "museum",
+                  "coords": [
+                        10.094528,
+                        52.611834
+                  ]
+            },
+            {
+                  "name": "Obere Allerniederung bei Celle",
+                  "text": "Ein Naturschutzgebiet mit einer wertvollen Auenlandschaft entlang des Flusses Aller.",
+                  "category": "natural",
+                  "coords": [
+                        10.108609,
+                        52.616151
+                  ]
+            },
+            {
+                  "name": "Garnison-Museum",
+                  "text": "Dieses Museum dokumentiert die lange Geschichte von Celle als Garnisonsstadt.",
+                  "category": "museum",
+                  "coords": [
+                        10.076701,
+                        52.626722
+                  ]
+            },
+            {
+                  "name": "Bienenmuseum im Treppenspeicher",
+                  "text": "Ein Imkereimuseum, das in einem historischen Fachwerkspeicher untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.084337,
+                        52.621701
+                  ]
+            },
+            {
+                  "name": "Schützenmuseum",
+                  "text": "Ein Museum in Celle, das die Geschichte des Schützenwesens und der lokalen Traditionen dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.074981,
+                        52.627306
+                  ]
+            },
+            {
+                  "name": "Celler Badeland",
+                  "text": "Ein moderner Wasserpark in Celle mit Schwimmbecken, Rutschen und einem Wellnessbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        10.081294,
+                        52.617238
+                  ]
+            },
+            {
+                  "name": "Stadtarchiv",
+                  "text": "Das Stadtarchiv in Celle bewahrt historische Dokumente und Quellen zur Stadtgeschichte auf.",
+                  "category": "museum",
+                  "coords": [
+                        10.076867,
+                        52.603872
+                  ]
+            },
+            {
+                  "name": "Französischer Garten",
+                  "text": "Ein im 17. Jahrhundert angelegter Park in Celle, der heute als öffentliches Erholungsgebiet dient.",
+                  "category": "park",
+                  "coords": [
+                        10.082787,
+                        52.620478
+                  ]
             }
       ],
       "hu": [
@@ -2231,6 +3923,78 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         10.08189,
                         52.623492
+                  ]
+            },
+            {
+                  "name": "Otto-Haesler-Museum",
+                  "text": "Az egykori lakótelepen található múzeum a Bauhaus-építész munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.094528,
+                        52.611834
+                  ]
+            },
+            {
+                  "name": "Obere Allerniederung bei Celle",
+                  "text": "Természetvédelmi terület értékes ártéri tájjal az Aller-folyó mentén.",
+                  "category": "natural",
+                  "coords": [
+                        10.108609,
+                        52.616151
+                  ]
+            },
+            {
+                  "name": "Garnison-Museum",
+                  "text": "Ez a múzeum dokumentálja Celle katonai helyőrségi múltjának hosszú történetét.",
+                  "category": "museum",
+                  "coords": [
+                        10.076701,
+                        52.626722
+                  ]
+            },
+            {
+                  "name": "Bienenmuseum im Treppenspeicher",
+                  "text": "Méhészeti múzeum, amely egy történelmi gerendavázas magtárban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        10.084337,
+                        52.621701
+                  ]
+            },
+            {
+                  "name": "Schützenmuseum",
+                  "text": "Cellei múzeum, amely a lövészegyletek történetét és a helyi hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.074981,
+                        52.627306
+                  ]
+            },
+            {
+                  "name": "Celler Badeland",
+                  "text": "Modern vízi park Celle városában, medencékkel, csúszdákkal és wellness-részleggel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.081294,
+                        52.617238
+                  ]
+            },
+            {
+                  "name": "Stadtarchiv",
+                  "text": "A cellei városi levéltár a település történetének fontos iratait és dokumentumait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        10.076867,
+                        52.603872
+                  ]
+            },
+            {
+                  "name": "Französischer Garten",
+                  "text": "Egy 17. században kialakított park Celle városában, amely ma nyilvános pihenőhelyként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        10.082787,
+                        52.620478
                   ]
             }
       ],
@@ -2274,6 +4038,78 @@ export const poiExtraDe2: POI[] = [
                         10.08189,
                         52.623492
                   ]
+            },
+            {
+                  "name": "Otto-Haesler-Museum",
+                  "text": "Muzeul, situat într-un fost ansamblu rezidențial, este dedicat operei arhitectului Bauhaus.",
+                  "category": "museum",
+                  "coords": [
+                        10.094528,
+                        52.611834
+                  ]
+            },
+            {
+                  "name": "Obere Allerniederung bei Celle",
+                  "text": "O rezervație naturală cu un peisaj valoros de luncă de-a lungul râului Aller.",
+                  "category": "natural",
+                  "coords": [
+                        10.108609,
+                        52.616151
+                  ]
+            },
+            {
+                  "name": "Garnison-Museum",
+                  "text": "Acest muzeu documentează istoria lungă a orașului Celle ca oraș garnizoană.",
+                  "category": "museum",
+                  "coords": [
+                        10.076701,
+                        52.626722
+                  ]
+            },
+            {
+                  "name": "Bienenmuseum im Treppenspeicher",
+                  "text": "Un muzeu al apiculturii găzduit într-un depozit istoric pe structură de lemn.",
+                  "category": "museum",
+                  "coords": [
+                        10.084337,
+                        52.621701
+                  ]
+            },
+            {
+                  "name": "Schützenmuseum",
+                  "text": "Un muzeu din Celle care documentează istoria societăților de trăgători și a tradițiilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        10.074981,
+                        52.627306
+                  ]
+            },
+            {
+                  "name": "Celler Badeland",
+                  "text": "Un parc acvatic modern din Celle, cu piscine, tobogane și o zonă de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        10.081294,
+                        52.617238
+                  ]
+            },
+            {
+                  "name": "Stadtarchiv",
+                  "text": "Arhiva orașului Celle păstrează documente istorice și surse privind istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        10.076867,
+                        52.603872
+                  ]
+            },
+            {
+                  "name": "Französischer Garten",
+                  "text": "Un parc amenajat în secolul al XVII-lea în Celle, care servește astăzi ca zonă publică de recreere.",
+                  "category": "park",
+                  "coords": [
+                        10.082787,
+                        52.620478
+                  ]
             }
       ],
       "en": [
@@ -2315,6 +4151,78 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         10.08189,
                         52.623492
+                  ]
+            },
+            {
+                  "name": "Otto-Haesler-Museum",
+                  "text": "The museum in a former settlement is dedicated to the work of the Bauhaus architect.",
+                  "category": "museum",
+                  "coords": [
+                        10.094528,
+                        52.611834
+                  ]
+            },
+            {
+                  "name": "Obere Allerniederung bei Celle",
+                  "text": "A nature reserve with a valuable floodplain landscape along the Aller River.",
+                  "category": "natural",
+                  "coords": [
+                        10.108609,
+                        52.616151
+                  ]
+            },
+            {
+                  "name": "Garnison-Museum",
+                  "text": "This museum documents the long history of Celle as a garrison town.",
+                  "category": "museum",
+                  "coords": [
+                        10.076701,
+                        52.626722
+                  ]
+            },
+            {
+                  "name": "Bienenmuseum im Treppenspeicher",
+                  "text": "A beekeeping museum housed in a historical timber-framed storage building.",
+                  "category": "museum",
+                  "coords": [
+                        10.084337,
+                        52.621701
+                  ]
+            },
+            {
+                  "name": "Schützenmuseum",
+                  "text": "A museum in Celle documenting the history of shooting clubs and local traditions.",
+                  "category": "museum",
+                  "coords": [
+                        10.074981,
+                        52.627306
+                  ]
+            },
+            {
+                  "name": "Celler Badeland",
+                  "text": "A modern water park in Celle with swimming pools, slides, and a wellness area.",
+                  "category": "recreational",
+                  "coords": [
+                        10.081294,
+                        52.617238
+                  ]
+            },
+            {
+                  "name": "Stadtarchiv",
+                  "text": "The city archive in Celle preserves historical documents and sources related to the city's history.",
+                  "category": "museum",
+                  "coords": [
+                        10.076867,
+                        52.603872
+                  ]
+            },
+            {
+                  "name": "Französischer Garten",
+                  "text": "A park in Celle laid out in the 17th century, which today serves as a public recreation area.",
+                  "category": "park",
+                  "coords": [
+                        10.082787,
+                        52.620478
                   ]
             }
       ],
@@ -2550,6 +4458,267 @@ export const poiExtraDe2: POI[] = [
                         12.9011,
                         50.815
                   ]
+            },
+            {
+                  "name": "Schauspielhaus Chemnitz",
+                  "text": "Eine bedeutende Spielstätte für Schauspiel und Theateraufführungen in Chemnitz.",
+                  "category": "cultural",
+                  "coords": [
+                        12.931281,
+                        50.828976
+                  ]
+            },
+            {
+                  "name": "Straßenbahnmuseum",
+                  "text": "Das Museum dokumentiert die Geschichte der Straßenbahnen in Chemnitz mit historischen Fahrzeugen.",
+                  "category": "museum",
+                  "coords": [
+                        12.889092,
+                        50.822381
+                  ]
+            },
+            {
+                  "name": "Schloßbergmuseum Chemnitz",
+                  "text": "Das Stadtgeschichtliche Museum befindet sich in einem ehemaligen Kloster auf dem Schloßberg.",
+                  "category": "museum",
+                  "coords": [
+                        12.914992,
+                        50.84518
+                  ]
+            },
+            {
+                  "name": "Marianne Brandt Haus",
+                  "text": "Das Museum im Geburtshaus der Bauhaus-Künstlerin Marianne Brandt zeigt das Leben der Designerin.",
+                  "category": "museum",
+                  "coords": [
+                        12.905327,
+                        50.828347
+                  ]
+            },
+            {
+                  "name": "Bernsdorfer Bad",
+                  "text": "Ein öffentliches Schwimmbad und Freizeitzentrum im Chemnitzer Stadtteil Bernsdorf.",
+                  "category": "recreational",
+                  "coords": [
+                        12.953149,
+                        50.809764
+                  ]
+            },
+            {
+                  "name": "Kunstsammlungen Chemnitz",
+                  "text": "Beherbergt umfangreiche Kunstsammlungen vom 16. Jahrhundert bis zur Gegenwart am Theaterplatz.",
+                  "category": "museum",
+                  "coords": [
+                        12.924504,
+                        50.837713
+                  ]
+            },
+            {
+                  "name": "Museum für Sächsische Fahrzeuge Chemnitz",
+                  "text": "Das Museum präsentiert die Entwicklung des sächsischen Fahrzeugbaus in einer historischen Hochgarage.",
+                  "category": "museum",
+                  "coords": [
+                        12.9083,
+                        50.82625
+                  ]
+            },
+            {
+                  "name": "Deutsches Spielemuseum",
+                  "text": "Eine Institution in Chemnitz, die sich der Bewahrung und Erforschung der deutschen Spielekultur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        12.892554,
+                        50.820573
+                  ]
+            },
+            {
+                  "name": "Museum Gunzenhauser",
+                  "text": "Beherbergt eine bedeutende Sammlung der klassischen Moderne im ehemaligen Sparkassengebäude.",
+                  "category": "museum",
+                  "coords": [
+                        12.915319,
+                        50.828593
+                  ]
+            },
+            {
+                  "name": "Staatliches Museum für Archäologie Chemnitz",
+                  "text": "Das Museum präsentiert im ehemaligen Kaufhaus Schocken 300.000 Jahre sächsische Landesgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        12.925048,
+                        50.834081
+                  ]
+            },
+            {
+                  "name": "Fenster in die Erdgeschichte",
+                  "text": "Archäologische Ausgrabungsstätte mit versteinerten Baumstämmen aus dem Perm-Zeitalter.",
+                  "category": "historical",
+                  "coords": [
+                        12.933779,
+                        50.83539
+                  ]
+            },
+            {
+                  "name": "Ausstellung \"Historische Mikwe\"",
+                  "text": "Ausstellung über ein historisches jüdisches Ritualbad im Kulturquartier Tietz.",
+                  "category": "museum",
+                  "coords": [
+                        12.925305,
+                        50.832412
+                  ]
+            },
+            {
+                  "name": "Lern-und Gedenkort Kaßberg-Gefängnis",
+                  "text": "Gedenkstätte im ehemaligen Gefängnis zur Erinnerung an politische Häftlinge der DDR.",
+                  "category": "museum",
+                  "coords": [
+                        12.912752,
+                        50.832257
+                  ]
+            },
+            {
+                  "name": "Lapidarium",
+                  "text": "Museumssammlung historischer Steinbildwerke und Fragmente lokaler Architektur.",
+                  "category": "museum",
+                  "coords": [
+                        12.913758,
+                        50.845266
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Chemnitz",
+                  "text": "Privatmuseum mit einer umfangreichen Sammlung sächsischer Taschen- und Turmuhren.",
+                  "category": "museum",
+                  "coords": [
+                        12.888168,
+                        50.821888
+                  ]
+            },
+            {
+                  "name": "Uferstrand",
+                  "text": "Beliebter Stadtstrand an der Chemnitz mit Liegestühlen und Gastronomie im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        12.919248,
+                        50.829172
+                  ]
+            },
+            {
+                  "name": "Schillerplatz",
+                  "text": "Gepflegte Grünanlage am Opernhaus, benannt nach dem Dichter Friedrich Schiller.",
+                  "category": "park",
+                  "coords": [
+                        12.925763,
+                        50.839592
+                  ]
+            },
+            {
+                  "name": "Gerhart-Hauptmann-Platz",
+                  "text": "Innerstädtischer Platz und Grünfläche, benannt nach dem Literaturnobelpreisträger.",
+                  "category": "park",
+                  "coords": [
+                        12.901752,
+                        50.829921
+                  ]
+            },
+            {
+                  "name": "Andréplatz",
+                  "text": "Kleiner Quartiersplatz im Stadtteil Kaßberg mit Grünflächen und Denkmälern.",
+                  "category": "park",
+                  "coords": [
+                        12.902087,
+                        50.836162
+                  ]
+            },
+            {
+                  "name": "Park der Opfer des Faschismus",
+                  "text": "Gedenkpark für die Opfer des Nationalsozialismus auf dem Gelände eines alten Friedhofs.",
+                  "category": "park",
+                  "coords": [
+                        12.928443,
+                        50.830524
+                  ]
+            },
+            {
+                  "name": "Leipziger Platz",
+                  "text": "Zentrale Grünanlage in Chemnitz, die als Erholungsgebiet im Stadtzentrum dient.",
+                  "category": "park",
+                  "coords": [
+                        12.905655,
+                        50.844545
+                  ]
+            },
+            {
+                  "name": "Schloßteichpark",
+                  "text": "Großer Landschaftspark rund um den Schloßteich mit Bootsverleih und Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        12.913427,
+                        50.841747
+                  ]
+            },
+            {
+                  "name": "Konkordiapark",
+                  "text": "Ein moderner Freizeit- und Sportpark in Chemnitz mit Anlagen für Skater und Familien.",
+                  "category": "park",
+                  "coords": [
+                        12.907995,
+                        50.83924
+                  ]
+            },
+            {
+                  "name": "Stadthallenpark",
+                  "text": "Eine zentrale Grünanlage in Chemnitz direkt neben der Stadthalle, ideal für kurze Pausen.",
+                  "category": "park",
+                  "coords": [
+                        12.922679,
+                        50.834765
+                  ]
+            },
+            {
+                  "name": "Rosenplatz",
+                  "text": "Eine gepflegte Parkanlage in Chemnitz, die als grüner Treffpunkt im Stadtviertel dient.",
+                  "category": "park",
+                  "coords": [
+                        12.932984,
+                        50.821776
+                  ]
+            },
+            {
+                  "name": "Josephinenplatz",
+                  "text": "Ein Stadtplatz in Chemnitz mit Grünflächen, der Erholung im urbanen Umfeld bietet.",
+                  "category": "park",
+                  "coords": [
+                        12.928916,
+                        50.849467
+                  ]
+            },
+            {
+                  "name": "Schlossplatz",
+                  "text": "Ein historisch bedeutender Platz in Chemnitz in der Nähe des Schlossberg-Ensembles.",
+                  "category": "park",
+                  "coords": [
+                        12.911147,
+                        50.84491
+                  ]
+            },
+            {
+                  "name": "Luisenplatz",
+                  "text": "Ein kleinerer Park in Chemnitz, der eine grüne Oase im städtischen Wohngebiet bildet.",
+                  "category": "park",
+                  "coords": [
+                        12.902739,
+                        50.842562
+                  ]
+            },
+            {
+                  "name": "Bürgerpark Gablenz",
+                  "text": "Ein weitläufiger Bürgerpark im Stadtteil Gablenz, der vielfältige Freizeitmöglichkeiten bietet.",
+                  "category": "park",
+                  "coords": [
+                        12.961574,
+                        50.823081
+                  ]
             }
       ],
       "hu": [
@@ -2601,6 +4770,267 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         12.9011,
                         50.815
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Chemnitz",
+                  "text": "Chemnitz egyik központi színházi előadóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        12.931281,
+                        50.828976
+                  ]
+            },
+            {
+                  "name": "Straßenbahnmuseum",
+                  "text": "A múzeum a chemnitzi villamosközlekedés történetét mutatja be veterán járművekkel.",
+                  "category": "museum",
+                  "coords": [
+                        12.889092,
+                        50.822381
+                  ]
+            },
+            {
+                  "name": "Schloßbergmuseum Chemnitz",
+                  "text": "Várostörténeti múzeum a Schloßberg egykori kolostorépületében.",
+                  "category": "museum",
+                  "coords": [
+                        12.914992,
+                        50.84518
+                  ]
+            },
+            {
+                  "name": "Marianne Brandt Haus",
+                  "text": "Marianne Brandt Bauhaus-művész szülőháza a tervező életét és munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.905327,
+                        50.828347
+                  ]
+            },
+            {
+                  "name": "Bernsdorfer Bad",
+                  "text": "Nyilvános uszoda és szabadidőközpont Chemnitz Bernsdorf negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.953149,
+                        50.809764
+                  ]
+            },
+            {
+                  "name": "Kunstsammlungen Chemnitz",
+                  "text": "Kiterjedt művészeti gyűjteményeknek ad otthont a Theaterplatzon a 16. századtól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        12.924504,
+                        50.837713
+                  ]
+            },
+            {
+                  "name": "Museum für Sächsische Fahrzeuge Chemnitz",
+                  "text": "A múzeum a szász járműgyártás fejlődését mutatja be egy történelmi emeletes garázsban.",
+                  "category": "museum",
+                  "coords": [
+                        12.9083,
+                        50.82625
+                  ]
+            },
+            {
+                  "name": "Deutsches Spielemuseum",
+                  "text": "Chemnitzi intézmény, amely a német játékkultúra megőrzésének és kutatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        12.892554,
+                        50.820573
+                  ]
+            },
+            {
+                  "name": "Museum Gunzenhauser",
+                  "text": "A klasszikus modernizmus jelentős gyűjteményét őrzi az egykori takarékpénztár épületében.",
+                  "category": "museum",
+                  "coords": [
+                        12.915319,
+                        50.828593
+                  ]
+            },
+            {
+                  "name": "Staatliches Museum für Archäologie Chemnitz",
+                  "text": "A múzeum 300 000 év szász történelmét mutatja be az egykori Schocken áruház épületében.",
+                  "category": "museum",
+                  "coords": [
+                        12.925048,
+                        50.834081
+                  ]
+            },
+            {
+                  "name": "Fenster in die Erdgeschichte",
+                  "text": "Régészeti lelőhely, ahol a perm időszakból származó megkövesedett fatörzsek láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        12.933779,
+                        50.83539
+                  ]
+            },
+            {
+                  "name": "Ausstellung \"Historische Mikwe\"",
+                  "text": "Történelmi zsidó rituális fürdőt bemutató kiállítás a Tietz kulturális negyedben.",
+                  "category": "museum",
+                  "coords": [
+                        12.925305,
+                        50.832412
+                  ]
+            },
+            {
+                  "name": "Lern-und Gedenkort Kaßberg-Gefängnis",
+                  "text": "Emlékhely az egykori börtönben, amely a volt NDK politikai foglyainak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        12.912752,
+                        50.832257
+                  ]
+            },
+            {
+                  "name": "Lapidarium",
+                  "text": "Történelmi kőszobrokból és helyi építészeti töredékekből álló múzeumi gyűjtemény.",
+                  "category": "museum",
+                  "coords": [
+                        12.913758,
+                        50.845266
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Chemnitz",
+                  "text": "Magánmúzeum, amely szászországi zseb- és toronyórák gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.888168,
+                        50.821888
+                  ]
+            },
+            {
+                  "name": "Uferstrand",
+                  "text": "Népszerű városi strand a Chemnitz-folyó partján, nyári pihenőhely nyugágyakkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.919248,
+                        50.829172
+                  ]
+            },
+            {
+                  "name": "Schillerplatz",
+                  "text": "Az Operaház melletti gondozott park, amely Friedrich Schiller költőről kapta nevét.",
+                  "category": "park",
+                  "coords": [
+                        12.925763,
+                        50.839592
+                  ]
+            },
+            {
+                  "name": "Gerhart-Hauptmann-Platz",
+                  "text": "A Nobel-díjas íróról elnevezett belvárosi köztér és pihenőpark.",
+                  "category": "park",
+                  "coords": [
+                        12.901752,
+                        50.829921
+                  ]
+            },
+            {
+                  "name": "Andréplatz",
+                  "text": "Kisebb köztér a Kaßberg negyedben, zöldfelületekkel és emlékművekkel.",
+                  "category": "park",
+                  "coords": [
+                        12.902087,
+                        50.836162
+                  ]
+            },
+            {
+                  "name": "Park der Opfer des Faschismus",
+                  "text": "A nemzetiszocializmus áldozatainak emlékparkja egy régi temető területén.",
+                  "category": "park",
+                  "coords": [
+                        12.928443,
+                        50.830524
+                  ]
+            },
+            {
+                  "name": "Leipziger Platz",
+                  "text": "Chemnitz egyik központi parkja, amely pihenőhelyként szolgál a városközpontban.",
+                  "category": "park",
+                  "coords": [
+                        12.905655,
+                        50.844545
+                  ]
+            },
+            {
+                  "name": "Schloßteichpark",
+                  "text": "A kastélytó körüli nagy tájképi park csónakkölcsönzővel és sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        12.913427,
+                        50.841747
+                  ]
+            },
+            {
+                  "name": "Konkordiapark",
+                  "text": "Modern szabadidős és sportpark Chemnitzben, gördeszkapályával és zöldterületekkel.",
+                  "category": "park",
+                  "coords": [
+                        12.907995,
+                        50.83924
+                  ]
+            },
+            {
+                  "name": "Stadthallenpark",
+                  "text": "Központi park Chemnitzben a városi csarnok mellett, amely pihenésre és sétára hív.",
+                  "category": "park",
+                  "coords": [
+                        12.922679,
+                        50.834765
+                  ]
+            },
+            {
+                  "name": "Rosenplatz",
+                  "text": "Gondozott park Chemnitzben, amely zöld találkozóhelyként szolgál a városrészben.",
+                  "category": "park",
+                  "coords": [
+                        12.932984,
+                        50.821776
+                  ]
+            },
+            {
+                  "name": "Josephinenplatz",
+                  "text": "Városi tér Chemnitzben zöldfelületekkel, amely kikapcsolódást nyújt a városi környezetben.",
+                  "category": "park",
+                  "coords": [
+                        12.928916,
+                        50.849467
+                  ]
+            },
+            {
+                  "name": "Schlossplatz",
+                  "text": "Történelmi jelentőségű tér Chemnitzben a Schlossberg épületegyüttesének közelében.",
+                  "category": "park",
+                  "coords": [
+                        12.911147,
+                        50.84491
+                  ]
+            },
+            {
+                  "name": "Luisenplatz",
+                  "text": "Kisebb park Chemnitzben, amely zöld oázist alkot a városi lakóövezetben.",
+                  "category": "park",
+                  "coords": [
+                        12.902739,
+                        50.842562
+                  ]
+            },
+            {
+                  "name": "Bürgerpark Gablenz",
+                  "text": "Kiterjedt közpark Gablenz városrészben, amely változatos szabadidős lehetőségeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        12.961574,
+                        50.823081
                   ]
             }
       ],
@@ -2654,6 +5084,267 @@ export const poiExtraDe2: POI[] = [
                         12.9011,
                         50.815
                   ]
+            },
+            {
+                  "name": "Schauspielhaus Chemnitz",
+                  "text": "O locație importantă pentru spectacole de teatru în Chemnitz.",
+                  "category": "cultural",
+                  "coords": [
+                        12.931281,
+                        50.828976
+                  ]
+            },
+            {
+                  "name": "Straßenbahnmuseum",
+                  "text": "Muzeul documentează istoria tramvaielor din Chemnitz cu vehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.889092,
+                        50.822381
+                  ]
+            },
+            {
+                  "name": "Schloßbergmuseum Chemnitz",
+                  "text": "Muzeul de istorie a orașului situat într-o fostă mănăstire de pe Schloßberg.",
+                  "category": "museum",
+                  "coords": [
+                        12.914992,
+                        50.84518
+                  ]
+            },
+            {
+                  "name": "Marianne Brandt Haus",
+                  "text": "Muzeul din casa natală a artistei Bauhaus Marianne Brandt prezintă viața designerului.",
+                  "category": "museum",
+                  "coords": [
+                        12.905327,
+                        50.828347
+                  ]
+            },
+            {
+                  "name": "Bernsdorfer Bad",
+                  "text": "O piscină publică și centru de agrement în cartierul Bernsdorf din Chemnitz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.953149,
+                        50.809764
+                  ]
+            },
+            {
+                  "name": "Kunstsammlungen Chemnitz",
+                  "text": "Găzduiește colecții vaste de artă din secolul al XVI-lea până în prezent în Theaterplatz.",
+                  "category": "museum",
+                  "coords": [
+                        12.924504,
+                        50.837713
+                  ]
+            },
+            {
+                  "name": "Museum für Sächsische Fahrzeuge Chemnitz",
+                  "text": "Muzeul prezintă evoluția construcției de vehicule în Saxonia într-un garaj istoric etajat.",
+                  "category": "museum",
+                  "coords": [
+                        12.9083,
+                        50.82625
+                  ]
+            },
+            {
+                  "name": "Deutsches Spielemuseum",
+                  "text": "O instituție din Chemnitz dedicată conservării și cercetării culturii jocurilor germane.",
+                  "category": "museum",
+                  "coords": [
+                        12.892554,
+                        50.820573
+                  ]
+            },
+            {
+                  "name": "Museum Gunzenhauser",
+                  "text": "Găzduiește o colecție importantă de modernism clasic în fostul sediu al casei de economii.",
+                  "category": "museum",
+                  "coords": [
+                        12.915319,
+                        50.828593
+                  ]
+            },
+            {
+                  "name": "Staatliches Museum für Archäologie Chemnitz",
+                  "text": "Muzeul prezintă 300.000 de ani de istorie a Saxoniei în clădirea fostului magazin Schocken.",
+                  "category": "museum",
+                  "coords": [
+                        12.925048,
+                        50.834081
+                  ]
+            },
+            {
+                  "name": "Fenster in die Erdgeschichte",
+                  "text": "Sit arheologic ce adăpostește trunchiuri de copaci pietrificați din perioada Permiană.",
+                  "category": "historical",
+                  "coords": [
+                        12.933779,
+                        50.83539
+                  ]
+            },
+            {
+                  "name": "Ausstellung \"Historische Mikwe\"",
+                  "text": "Expoziție dedicată unei băi rituale evreiești istorice situată în cartierul Tietz.",
+                  "category": "museum",
+                  "coords": [
+                        12.925305,
+                        50.832412
+                  ]
+            },
+            {
+                  "name": "Lern-und Gedenkort Kaßberg-Gefängnis",
+                  "text": "Memorial amenajat într-o fostă închisoare pentru a onora deținuții politici din RDG.",
+                  "category": "museum",
+                  "coords": [
+                        12.912752,
+                        50.832257
+                  ]
+            },
+            {
+                  "name": "Lapidarium",
+                  "text": "Colecție muzeală de sculpturi istorice în piatră și fragmente de arhitectură locală.",
+                  "category": "museum",
+                  "coords": [
+                        12.913758,
+                        50.845266
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Chemnitz",
+                  "text": "Muzeu privat ce prezintă o colecție vastă de ceasuri de buzunar și de turn săsești.",
+                  "category": "museum",
+                  "coords": [
+                        12.888168,
+                        50.821888
+                  ]
+            },
+            {
+                  "name": "Uferstrand",
+                  "text": "Plajă urbană populară pe malul râului Chemnitz, cu șezlonguri și terase pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        12.919248,
+                        50.829172
+                  ]
+            },
+            {
+                  "name": "Schillerplatz",
+                  "text": "Zonă verde îngrijită lângă Operă, numită după poetul Friedrich Schiller.",
+                  "category": "park",
+                  "coords": [
+                        12.925763,
+                        50.839592
+                  ]
+            },
+            {
+                  "name": "Gerhart-Hauptmann-Platz",
+                  "text": "Piață publică și spațiu verde central, purtând numele scriitorului laureat al Premiului Nobel.",
+                  "category": "park",
+                  "coords": [
+                        12.901752,
+                        50.829921
+                  ]
+            },
+            {
+                  "name": "Andréplatz",
+                  "text": "Mică piață de cartier în districtul Kaßberg, cu spații verzi și monumente.",
+                  "category": "park",
+                  "coords": [
+                        12.902087,
+                        50.836162
+                  ]
+            },
+            {
+                  "name": "Park der Opfer des Faschismus",
+                  "text": "Parc memorial dedicat victimelor nazismului, situat pe terenul unui fost cimitir.",
+                  "category": "park",
+                  "coords": [
+                        12.928443,
+                        50.830524
+                  ]
+            },
+            {
+                  "name": "Leipziger Platz",
+                  "text": "Un spațiu verde central din Chemnitz, utilizat ca zonă de recreere în centrul orașului.",
+                  "category": "park",
+                  "coords": [
+                        12.905655,
+                        50.844545
+                  ]
+            },
+            {
+                  "name": "Schloßteichpark",
+                  "text": "Parc peisagistic întins în jurul iazului castelului, cu închiriere de bărci și alei.",
+                  "category": "park",
+                  "coords": [
+                        12.913427,
+                        50.841747
+                  ]
+            },
+            {
+                  "name": "Konkordiapark",
+                  "text": "Un parc modern de recreere și sport în Chemnitz, dotat cu facilități pentru skateri și familii.",
+                  "category": "park",
+                  "coords": [
+                        12.907995,
+                        50.83924
+                  ]
+            },
+            {
+                  "name": "Stadthallenpark",
+                  "text": "Un spațiu verde central în Chemnitz, situat lângă sala polivalentă, ideal pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        12.922679,
+                        50.834765
+                  ]
+            },
+            {
+                  "name": "Rosenplatz",
+                  "text": "Un parc bine întreținut în Chemnitz, servind ca punct de întâlnire verde în cartier.",
+                  "category": "park",
+                  "coords": [
+                        12.932984,
+                        50.821776
+                  ]
+            },
+            {
+                  "name": "Josephinenplatz",
+                  "text": "O piață urbană în Chemnitz cu spații verzi, oferind recreere într-un cadru urban.",
+                  "category": "park",
+                  "coords": [
+                        12.928916,
+                        50.849467
+                  ]
+            },
+            {
+                  "name": "Schlossplatz",
+                  "text": "O piață cu importanță istorică în Chemnitz, situată în apropierea ansamblului Schlossberg.",
+                  "category": "park",
+                  "coords": [
+                        12.911147,
+                        50.84491
+                  ]
+            },
+            {
+                  "name": "Luisenplatz",
+                  "text": "Un parc mai mic în Chemnitz, care formează o oază de verdeață într-o zonă rezidențială.",
+                  "category": "park",
+                  "coords": [
+                        12.902739,
+                        50.842562
+                  ]
+            },
+            {
+                  "name": "Bürgerpark Gablenz",
+                  "text": "Un parc public spațios în districtul Gablenz, oferind diverse oportunități de petrecere a timpului liber.",
+                  "category": "park",
+                  "coords": [
+                        12.961574,
+                        50.823081
+                  ]
             }
       ],
       "en": [
@@ -2705,6 +5396,267 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         12.9011,
                         50.815
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Chemnitz",
+                  "text": "A major venue for drama and theatrical performances in Chemnitz.",
+                  "category": "cultural",
+                  "coords": [
+                        12.931281,
+                        50.828976
+                  ]
+            },
+            {
+                  "name": "Straßenbahnmuseum",
+                  "text": "The museum documents the history of trams in Chemnitz with historical vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        12.889092,
+                        50.822381
+                  ]
+            },
+            {
+                  "name": "Schloßbergmuseum Chemnitz",
+                  "text": "The city history museum located in a former monastery on the Schloßberg.",
+                  "category": "museum",
+                  "coords": [
+                        12.914992,
+                        50.84518
+                  ]
+            },
+            {
+                  "name": "Marianne Brandt Haus",
+                  "text": "The museum in the birthplace of Bauhaus artist Marianne Brandt presents the designer's life.",
+                  "category": "museum",
+                  "coords": [
+                        12.905327,
+                        50.828347
+                  ]
+            },
+            {
+                  "name": "Bernsdorfer Bad",
+                  "text": "A public swimming pool and leisure center in the Bernsdorf district of Chemnitz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.953149,
+                        50.809764
+                  ]
+            },
+            {
+                  "name": "Kunstsammlungen Chemnitz",
+                  "text": "Houses extensive art collections from the 16th century to the present at Theaterplatz.",
+                  "category": "museum",
+                  "coords": [
+                        12.924504,
+                        50.837713
+                  ]
+            },
+            {
+                  "name": "Museum für Sächsische Fahrzeuge Chemnitz",
+                  "text": "The museum presents the development of Saxon vehicle manufacturing in a historical multi-story garage.",
+                  "category": "museum",
+                  "coords": [
+                        12.9083,
+                        50.82625
+                  ]
+            },
+            {
+                  "name": "Deutsches Spielemuseum",
+                  "text": "An institution in Chemnitz dedicated to the preservation and research of German gaming culture.",
+                  "category": "museum",
+                  "coords": [
+                        12.892554,
+                        50.820573
+                  ]
+            },
+            {
+                  "name": "Museum Gunzenhauser",
+                  "text": "Houses a significant collection of classical modernism in the former savings bank building.",
+                  "category": "museum",
+                  "coords": [
+                        12.915319,
+                        50.828593
+                  ]
+            },
+            {
+                  "name": "Staatliches Museum für Archäologie Chemnitz",
+                  "text": "The museum presents 300,000 years of Saxon history in the former Schocken department store.",
+                  "category": "museum",
+                  "coords": [
+                        12.925048,
+                        50.834081
+                  ]
+            },
+            {
+                  "name": "Fenster in die Erdgeschichte",
+                  "text": "Archaeological site showcasing fossilized tree trunks from the Permian period.",
+                  "category": "historical",
+                  "coords": [
+                        12.933779,
+                        50.83539
+                  ]
+            },
+            {
+                  "name": "Ausstellung \"Historische Mikwe\"",
+                  "text": "Exhibition of a historical Jewish ritual bath located in the Tietz cultural quarter.",
+                  "category": "museum",
+                  "coords": [
+                        12.925305,
+                        50.832412
+                  ]
+            },
+            {
+                  "name": "Lern-und Gedenkort Kaßberg-Gefängnis",
+                  "text": "Memorial site in a former prison dedicated to the memory of political prisoners in the GDR.",
+                  "category": "museum",
+                  "coords": [
+                        12.912752,
+                        50.832257
+                  ]
+            },
+            {
+                  "name": "Lapidarium",
+                  "text": "Museum collection of historical stone sculptures and fragments of local architecture.",
+                  "category": "museum",
+                  "coords": [
+                        12.913758,
+                        50.845266
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Chemnitz",
+                  "text": "Private museum showcasing an extensive collection of Saxon pocket and tower clocks.",
+                  "category": "museum",
+                  "coords": [
+                        12.888168,
+                        50.821888
+                  ]
+            },
+            {
+                  "name": "Uferstrand",
+                  "text": "Popular urban beach on the Chemnitz river with deck chairs and summer catering.",
+                  "category": "recreational",
+                  "coords": [
+                        12.919248,
+                        50.829172
+                  ]
+            },
+            {
+                  "name": "Schillerplatz",
+                  "text": "Well-kept green space near the Opera House, named after the poet Friedrich Schiller.",
+                  "category": "park",
+                  "coords": [
+                        12.925763,
+                        50.839592
+                  ]
+            },
+            {
+                  "name": "Gerhart-Hauptmann-Platz",
+                  "text": "Inner-city public square and green area named after the Nobel Prize-winning writer.",
+                  "category": "park",
+                  "coords": [
+                        12.901752,
+                        50.829921
+                  ]
+            },
+            {
+                  "name": "Andréplatz",
+                  "text": "Small neighborhood square in the Kaßberg district with green spaces and monuments.",
+                  "category": "park",
+                  "coords": [
+                        12.902087,
+                        50.836162
+                  ]
+            },
+            {
+                  "name": "Park der Opfer des Faschismus",
+                  "text": "Memorial park for the victims of National Socialism on the site of an old cemetery.",
+                  "category": "park",
+                  "coords": [
+                        12.928443,
+                        50.830524
+                  ]
+            },
+            {
+                  "name": "Leipziger Platz",
+                  "text": "A central green area in Chemnitz serving as a recreational space in the city center.",
+                  "category": "park",
+                  "coords": [
+                        12.905655,
+                        50.844545
+                  ]
+            },
+            {
+                  "name": "Schloßteichpark",
+                  "text": "Large landscaped park around the castle pond with boat rentals and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        12.913427,
+                        50.841747
+                  ]
+            },
+            {
+                  "name": "Konkordiapark",
+                  "text": "A modern leisure and sports park in Chemnitz featuring facilities for skaters and families.",
+                  "category": "park",
+                  "coords": [
+                        12.907995,
+                        50.83924
+                  ]
+            },
+            {
+                  "name": "Stadthallenpark",
+                  "text": "A central green area in Chemnitz located next to the city hall, perfect for short breaks.",
+                  "category": "park",
+                  "coords": [
+                        12.922679,
+                        50.834765
+                  ]
+            },
+            {
+                  "name": "Rosenplatz",
+                  "text": "A well-maintained park in Chemnitz that serves as a green meeting point in the district.",
+                  "category": "park",
+                  "coords": [
+                        12.932984,
+                        50.821776
+                  ]
+            },
+            {
+                  "name": "Josephinenplatz",
+                  "text": "A city square in Chemnitz with green spaces, providing relaxation in an urban setting.",
+                  "category": "park",
+                  "coords": [
+                        12.928916,
+                        50.849467
+                  ]
+            },
+            {
+                  "name": "Schlossplatz",
+                  "text": "A historically significant square in Chemnitz located near the Schlossberg ensemble.",
+                  "category": "park",
+                  "coords": [
+                        12.911147,
+                        50.84491
+                  ]
+            },
+            {
+                  "name": "Luisenplatz",
+                  "text": "A smaller park in Chemnitz forming a green oasis within the urban residential area.",
+                  "category": "park",
+                  "coords": [
+                        12.902739,
+                        50.842562
+                  ]
+            },
+            {
+                  "name": "Bürgerpark Gablenz",
+                  "text": "A spacious community park in the Gablenz district offering diverse recreational opportunities.",
+                  "category": "park",
+                  "coords": [
+                        12.961574,
+                        50.823081
                   ]
             }
       ],
@@ -3580,6 +6532,78 @@ export const poiExtraDe2: POI[] = [
                   "text": "Ein prachtvolles historisches Gebäude direkt am Schloss, das bedeutende mineralogische Sammlungen aus ganz Deutschland präsentiert.",
                   "category": "Museums",
                   "confidence": "high"
+            },
+            {
+                  "name": "Mittelsächsisches Theater",
+                  "text": "Das älteste Stadttheater der Welt, das einen vielfältigen Spielplan in Freiberg bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        13.345102,
+                        50.918298
+                  ]
+            },
+            {
+                  "name": "Tierpark",
+                  "text": "Ein lokaler Tierpark in Freiberg, der heimische und exotische Tierarten beheimatet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.331161,
+                        50.913861
+                  ]
+            },
+            {
+                  "name": "Ehemalige Königliche Schrotfabrik",
+                  "text": "Ein technisches Denkmal in Freiberg, das an die historische Schrotproduktion erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        13.346196,
+                        50.916664
+                  ]
+            },
+            {
+                  "name": "Historicum",
+                  "text": "Ein Museum in Freiberg, das Einblicke in die lokale Geschichte und Traditionen gibt.",
+                  "category": "museum",
+                  "coords": [
+                        13.340862,
+                        50.91814
+                  ]
+            },
+            {
+                  "name": "Clemens-Winkler-Gedenkstätte",
+                  "text": "Eine Gedenkstätte in Freiberg, die dem Chemiker Clemens Winkler gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.341901,
+                        50.92045
+                  ]
+            },
+            {
+                  "name": "Kustodie",
+                  "text": "Die Kunstsammlung und das Archiv der Technischen Universität Bergakademie Freiberg.",
+                  "category": "museum",
+                  "coords": [
+                        13.334475,
+                        50.915902
+                  ]
+            },
+            {
+                  "name": "Johannisbad",
+                  "text": "Ein historisches Bad und Freizeitzentrum in der Bergstadt Freiberg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.335239,
+                        50.914709
+                  ]
+            },
+            {
+                  "name": "WassErleben",
+                  "text": "Ein Museum in Freiberg, das sich mit der Geschichte und Nutzung des Wassers befasst.",
+                  "category": "museum",
+                  "coords": [
+                        13.332163,
+                        50.886784
+                  ]
             }
       ],
       "hu": [
@@ -3631,6 +6655,78 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         13.350323,
                         50.919016
+                  ]
+            },
+            {
+                  "name": "Mittelsächsisches Theater",
+                  "text": "A világ legrégebbi városi színháza, amely változatos előadásokat kínál Freibergben.",
+                  "category": "cultural",
+                  "coords": [
+                        13.345102,
+                        50.918298
+                  ]
+            },
+            {
+                  "name": "Tierpark",
+                  "text": "Freibergi állatpark, ahol hazai és egzotikus állatfajok láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        13.331161,
+                        50.913861
+                  ]
+            },
+            {
+                  "name": "Ehemalige Königliche Schrotfabrik",
+                  "text": "Műszaki műemlék Freibergben, amely a történelmi sörétgyártás emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        13.346196,
+                        50.916664
+                  ]
+            },
+            {
+                  "name": "Historicum",
+                  "text": "Freibergi múzeum, amely bemutatja a helyi történelmet és hagyományokat.",
+                  "category": "museum",
+                  "coords": [
+                        13.340862,
+                        50.91814
+                  ]
+            },
+            {
+                  "name": "Clemens-Winkler-Gedenkstätte",
+                  "text": "Clemens Winkler kémikus tiszteletére emelt emlékhely Freibergben.",
+                  "category": "museum",
+                  "coords": [
+                        13.341901,
+                        50.92045
+                  ]
+            },
+            {
+                  "name": "Kustodie",
+                  "text": "A Freibergi Bányászati Akadémia művészeti gyűjteménye és archívuma.",
+                  "category": "museum",
+                  "coords": [
+                        13.334475,
+                        50.915902
+                  ]
+            },
+            {
+                  "name": "Johannisbad",
+                  "text": "Történelmi fürdő és szabadidőközpont Freiberg bányavárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.335239,
+                        50.914709
+                  ]
+            },
+            {
+                  "name": "WassErleben",
+                  "text": "A víz történetével és hasznosításával foglalkozó múzeum Freibergben.",
+                  "category": "museum",
+                  "coords": [
+                        13.332163,
+                        50.886784
                   ]
             }
       ],
@@ -3684,6 +6780,78 @@ export const poiExtraDe2: POI[] = [
                         13.350323,
                         50.919016
                   ]
+            },
+            {
+                  "name": "Mittelsächsisches Theater",
+                  "text": "Cel mai vechi teatru municipal din lume, oferind un program diversificat în Freiberg.",
+                  "category": "cultural",
+                  "coords": [
+                        13.345102,
+                        50.918298
+                  ]
+            },
+            {
+                  "name": "Tierpark",
+                  "text": "O grădină zoologică locală în Freiberg, care adăpostește specii de animale domestice și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        13.331161,
+                        50.913861
+                  ]
+            },
+            {
+                  "name": "Ehemalige Königliche Schrotfabrik",
+                  "text": "Un monument tehnic din Freiberg, care amintește de producția istorică de alice.",
+                  "category": "museum",
+                  "coords": [
+                        13.346196,
+                        50.916664
+                  ]
+            },
+            {
+                  "name": "Historicum",
+                  "text": "Un muzeu din Freiberg care oferă perspective asupra istoriei și tradițiilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        13.340862,
+                        50.91814
+                  ]
+            },
+            {
+                  "name": "Clemens-Winkler-Gedenkstätte",
+                  "text": "Un memorial în Freiberg dedicat chimistului Clemens Winkler.",
+                  "category": "museum",
+                  "coords": [
+                        13.341901,
+                        50.92045
+                  ]
+            },
+            {
+                  "name": "Kustodie",
+                  "text": "Colecția de artă și arhiva Universității Tehnice din Freiberg.",
+                  "category": "museum",
+                  "coords": [
+                        13.334475,
+                        50.915902
+                  ]
+            },
+            {
+                  "name": "Johannisbad",
+                  "text": "O baie istorică și centru de recreere în orașul minier Freiberg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.335239,
+                        50.914709
+                  ]
+            },
+            {
+                  "name": "WassErleben",
+                  "text": "Un muzeu din Freiberg dedicat istoriei și utilizării apei.",
+                  "category": "museum",
+                  "coords": [
+                        13.332163,
+                        50.886784
+                  ]
             }
       ],
       "en": [
@@ -3735,6 +6903,78 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         13.350323,
                         50.919016
+                  ]
+            },
+            {
+                  "name": "Mittelsächsisches Theater",
+                  "text": "The oldest municipal theater in the world, offering a diverse program in Freiberg.",
+                  "category": "cultural",
+                  "coords": [
+                        13.345102,
+                        50.918298
+                  ]
+            },
+            {
+                  "name": "Tierpark",
+                  "text": "A local zoo in Freiberg, home to both domestic and exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        13.331161,
+                        50.913861
+                  ]
+            },
+            {
+                  "name": "Ehemalige Königliche Schrotfabrik",
+                  "text": "A technical monument in Freiberg, preserving the history of shot lead production.",
+                  "category": "museum",
+                  "coords": [
+                        13.346196,
+                        50.916664
+                  ]
+            },
+            {
+                  "name": "Historicum",
+                  "text": "A museum in Freiberg that offers insights into local history and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        13.340862,
+                        50.91814
+                  ]
+            },
+            {
+                  "name": "Clemens-Winkler-Gedenkstätte",
+                  "text": "A memorial site in Freiberg dedicated to the chemist Clemens Winkler.",
+                  "category": "museum",
+                  "coords": [
+                        13.341901,
+                        50.92045
+                  ]
+            },
+            {
+                  "name": "Kustodie",
+                  "text": "The art collection and archive of the TU Bergakademie Freiberg.",
+                  "category": "museum",
+                  "coords": [
+                        13.334475,
+                        50.915902
+                  ]
+            },
+            {
+                  "name": "Johannisbad",
+                  "text": "A historic bath and leisure center in the mining town of Freiberg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.335239,
+                        50.914709
+                  ]
+            },
+            {
+                  "name": "WassErleben",
+                  "text": "A museum in Freiberg focused on the history and usage of water.",
+                  "category": "museum",
+                  "coords": [
+                        13.332163,
+                        50.886784
                   ]
             }
       ],
@@ -3990,6 +7230,258 @@ export const poiExtraDe2: POI[] = [
                   "text": "Die älteste Kirche von Koblenz, Schauplatz bedeutender historischer Ereignisse am Deutschen Eck.",
                   "category": "Churches & monasteries",
                   "confidence": "high"
+            },
+            {
+                  "name": "Kulturfabrik Koblenz",
+                  "text": "Ein Kulturzentrum in Koblenz, das für Theateraufführungen, Konzerte und Kleinkunst bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        7.597263,
+                        50.372701
+                  ]
+            },
+            {
+                  "name": "Mittelrhein-Museum",
+                  "text": "Das Museum in Koblenz präsentiert Kunst und Kulturgeschichte vom Mittelalter bis zur Moderne.",
+                  "category": "museum",
+                  "coords": [
+                        7.59637,
+                        50.358709
+                  ]
+            },
+            {
+                  "name": "Deinhard Kellermuseum",
+                  "text": "Ein Museum im historischen Keller von Deinhard, das die Geschichte der Sektherstellung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.599359,
+                        50.357959
+                  ]
+            },
+            {
+                  "name": "Rheinisches Fastnachtsmuseum Koblenz",
+                  "text": "Das Museum in Koblenz zeigt Exponate zur Geschichte des rheinischen Karnevals und der Fastnacht.",
+                  "category": "museum",
+                  "coords": [
+                        7.587256,
+                        50.351002
+                  ]
+            },
+            {
+                  "name": "DB Museum Koblenz",
+                  "text": "Eine Außenstelle des DB Museums in Koblenz, die historische Lokomotiven und Waggons ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        7.592178,
+                        50.37781
+                  ]
+            },
+            {
+                  "name": "Wehrtechnische Studiensammlung",
+                  "text": "Eine technische Sammlung der Bundeswehr in Koblenz, die die Entwicklung der Wehrtechnik dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.58536,
+                        50.369062
+                  ]
+            },
+            {
+                  "name": "Ludwig-Museum im Deutschherrenhaus",
+                  "text": "Ein Museum im historischen Deutschherrenhaus in Koblenz, das internationale zeitgenössische Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.604961,
+                        50.362771
+                  ]
+            },
+            {
+                  "name": "Dikasterialgebäude",
+                  "text": "Das ehemalige Verwaltungsgebäude gehörte zum barocken Komplex von Schloss Philippsburg in Koblenz.",
+                  "category": "castle",
+                  "coords": [
+                        7.611329,
+                        50.361772
+                  ]
+            },
+            {
+                  "name": "Alte Burg",
+                  "text": "Die im 13. Jahrhundert erbaute ehemalige kurfürstliche Wasserburg liegt am Ufer der Mosel.",
+                  "category": "castle",
+                  "coords": [
+                        7.594074,
+                        50.362333
+                  ]
+            },
+            {
+                  "name": "Mosellum",
+                  "text": "Ein interaktives Erlebniszentrum an der Fischtreppe Koblenz, das Einblicke in die Mosel-Ökologie bietet.",
+                  "category": "museum",
+                  "coords": [
+                        7.581473,
+                        50.365192
+                  ]
+            },
+            {
+                  "name": "Rheinmuseum",
+                  "text": "Das Museum präsentiert die Geschichte der Schifffahrt und des Lebens am Rhein.",
+                  "category": "museum",
+                  "coords": [
+                        7.611617,
+                        50.36078
+                  ]
+            },
+            {
+                  "name": "Rheinburg",
+                  "text": "Ein historisches Festungsbauwerk im Stadtteil Ehrenbreitstein, das zum preußischen Verteidigungssystem gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        7.614691,
+                        50.359511
+                  ]
+            },
+            {
+                  "name": "Wache am Helfenstein",
+                  "text": "Ein Teil der Festung Ehrenbreitstein, der zur Sicherung des südlichen Hangs diente.",
+                  "category": "castle",
+                  "coords": [
+                        7.613128,
+                        50.361578
+                  ]
+            },
+            {
+                  "name": "Werk Bleidenberg",
+                  "text": "Ein ehemaliges Befestigungswerk der preußischen Festung Koblenz im Bereich des Ehrenbreitsteins.",
+                  "category": "castle",
+                  "coords": [
+                        7.621886,
+                        50.371076
+                  ]
+            },
+            {
+                  "name": "Eiszeitliches Lößprofil",
+                  "text": "Ein bedeutendes geologisches Naturdenkmal in Koblenz-Metternich mit sichtbaren Sedimentschichten der Eiszeit.",
+                  "category": "natural",
+                  "coords": [
+                        7.555002,
+                        50.356497
+                  ]
+            },
+            {
+                  "name": "Museum Moselweiß",
+                  "text": "Ein lokales Heimatmuseum, das sich mit der Geschichte und Kultur des Stadtteils Moselweiß befasst.",
+                  "category": "museum",
+                  "coords": [
+                        7.55651,
+                        50.349386
+                  ]
+            },
+            {
+                  "name": "Statt-Strand-Koblenz",
+                  "text": "Ein beliebter Stadtstrand an der Mosel mit Freizeitangeboten und Gastronomie im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        7.563724,
+                        50.362186
+                  ]
+            },
+            {
+                  "name": "Löwentor",
+                  "text": "Das monumentale Haupttor der Festung Ehrenbreitstein, geschmückt mit Löwenfiguren.",
+                  "category": "castle",
+                  "coords": [
+                        7.579997,
+                        50.347812
+                  ]
+            },
+            {
+                  "name": "Gleisanlage vom DB Museum Koblenz",
+                  "text": "Historische Gleisanlagen im Außenbereich des DB Museums Koblenz mit verschiedenen Schienenfahrzeugen.",
+                  "category": "museum",
+                  "coords": [
+                        7.587155,
+                        50.37911
+                  ]
+            },
+            {
+                  "name": "Freibad Oberwerth",
+                  "text": "Großes Freibad im Stadtteil Oberwerth mit verschiedenen Schwimmbecken und Sportanlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.595279,
+                        50.342123
+                  ]
+            },
+            {
+                  "name": "Escarpe der Neuendorfer Flesche",
+                  "text": "Innere Verteidigungsmauer der preußischen Festungsanlage Neuendorfer Flesche in Koblenz-Lützel.",
+                  "category": "castle",
+                  "coords": [
+                        7.597352,
+                        50.374555
+                  ]
+            },
+            {
+                  "name": "Wagenhäuser der Feste Franz",
+                  "text": "Ehemalige Wagenhäuser der preußischen Feste Franz, die zur Lagerung von Militärfahrzeugen dienten.",
+                  "category": "fortress",
+                  "coords": [
+                        7.592408,
+                        50.371926
+                  ]
+            },
+            {
+                  "name": "Moselbad",
+                  "text": "Schwimm- und Freizeitzentrum an der Mosel mit Innen- und Außenbecken für Wassersport.",
+                  "category": "recreational",
+                  "coords": [
+                        7.575103,
+                        50.366396
+                  ]
+            },
+            {
+                  "name": "Rheinanschlusskaserne",
+                  "text": "Ruinen einer ehemaligen preußischen Kaserne am Rheinufer im Stadtteil Lützel.",
+                  "category": "historical",
+                  "coords": [
+                        7.602148,
+                        50.353717
+                  ]
+            },
+            {
+                  "name": "Lützeler Volkspark",
+                  "text": "Öffentliche Grünanlage im Stadtteil Lützel mit Spielplätzen und Blick auf das Deutsche Eck.",
+                  "category": "park",
+                  "coords": [
+                        7.589243,
+                        50.374534
+                  ]
+            },
+            {
+                  "name": "Rheinanlagen",
+                  "text": "Großzügige Parkanlagen entlang des Rheinufers mit Denkmälern und Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        7.594093,
+                        50.345269
+                  ]
+            },
+            {
+                  "name": "Konrad-Adenauer-Ufer",
+                  "text": "Bekannte Uferpromenade am Rhein, benannt nach dem ersten deutschen Bundeskanzler.",
+                  "category": "park",
+                  "coords": [
+                        7.60511,
+                        50.360463
+                  ]
+            },
+            {
+                  "name": "Luisenturm",
+                  "text": "Historischer Turm in Koblenz, der als Teil der ehemaligen Stadtbefestigung errichtet wurde.",
+                  "category": "tower",
+                  "coords": [
+                        7.61235,
+                        50.35711
+                  ]
             }
       ],
       "hu": [
@@ -4041,6 +7533,258 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         7.60222,
                         50.3556
+                  ]
+            },
+            {
+                  "name": "Kulturfabrik Koblenz",
+                  "text": "Koblenzi kulturális központ, amely színházi előadásokról, koncertekről és kabaréműsorokról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.597263,
+                        50.372701
+                  ]
+            },
+            {
+                  "name": "Mittelrhein-Museum",
+                  "text": "A koblenzi múzeum a középkortól a modern korig mutatja be a művészet- és kultúrtörténetet.",
+                  "category": "museum",
+                  "coords": [
+                        7.59637,
+                        50.358709
+                  ]
+            },
+            {
+                  "name": "Deinhard Kellermuseum",
+                  "text": "A Deinhard történelmi pincéjében kialakított múzeum a pezsgőkészítés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.599359,
+                        50.357959
+                  ]
+            },
+            {
+                  "name": "Rheinisches Fastnachtsmuseum Koblenz",
+                  "text": "A koblenzi múzeum a rajnai karnevál és a farsangi hagyományok történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.587256,
+                        50.351002
+                  ]
+            },
+            {
+                  "name": "DB Museum Koblenz",
+                  "text": "A DB Múzeum koblenzi telephelye, ahol történelmi mozdonyokat és vagonokat állítanak ki.",
+                  "category": "museum",
+                  "coords": [
+                        7.592178,
+                        50.37781
+                  ]
+            },
+            {
+                  "name": "Wehrtechnische Studiensammlung",
+                  "text": "A Bundeswehr haditechnikai gyűjteménye Koblenzben, amely a fegyverkezési technológia fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.58536,
+                        50.369062
+                  ]
+            },
+            {
+                  "name": "Ludwig-Museum im Deutschherrenhaus",
+                  "text": "A koblenzi történelmi Deutschherrenhaus épületében működő múzeum nemzetközi kortárs művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.604961,
+                        50.362771
+                  ]
+            },
+            {
+                  "name": "Dikasterialgebäude",
+                  "text": "Az egykori közigazgatási épület a koblenzi Philippsburg-kastély barokk együttesének része volt.",
+                  "category": "castle",
+                  "coords": [
+                        7.611329,
+                        50.361772
+                  ]
+            },
+            {
+                  "name": "Alte Burg",
+                  "text": "A 13. században épült egykori választófejedelmi vár a Mosel folyó partján áll.",
+                  "category": "castle",
+                  "coords": [
+                        7.594074,
+                        50.362333
+                  ]
+            },
+            {
+                  "name": "Mosellum",
+                  "text": "Interaktív látogatóközpont a koblenzi hallépcsőnél, amely a Mosel ökológiáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.581473,
+                        50.365192
+                  ]
+            },
+            {
+                  "name": "Rheinmuseum",
+                  "text": "A múzeum a rajnai hajózás és a folyó menti élet történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.611617,
+                        50.36078
+                  ]
+            },
+            {
+                  "name": "Rheinburg",
+                  "text": "Történelmi erődítmény Ehrenbreitstein városrészben, amely a porosz védelmi rendszer része volt.",
+                  "category": "castle",
+                  "coords": [
+                        7.614691,
+                        50.359511
+                  ]
+            },
+            {
+                  "name": "Wache am Helfenstein",
+                  "text": "Az Ehrenbreitstein-erőd része, amely a déli hegyoldal védelmét szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        7.613128,
+                        50.361578
+                  ]
+            },
+            {
+                  "name": "Werk Bleidenberg",
+                  "text": "A porosz koblenzi erődrendszer egykori védműve az Ehrenbreitstein területén.",
+                  "category": "castle",
+                  "coords": [
+                        7.621886,
+                        50.371076
+                  ]
+            },
+            {
+                  "name": "Eiszeitliches Lößprofil",
+                  "text": "Jelentős földtani természeti emlék Koblenz-Metternichben, látható jégkorszaki üledéksorokkal.",
+                  "category": "natural",
+                  "coords": [
+                        7.555002,
+                        50.356497
+                  ]
+            },
+            {
+                  "name": "Museum Moselweiß",
+                  "text": "Helytörténeti múzeum, amely Moselweiß városrész múltját és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.55651,
+                        50.349386
+                  ]
+            },
+            {
+                  "name": "Statt-Strand-Koblenz",
+                  "text": "Népszerű városi strand a Mosel partján, szabadidős lehetőségekkel és szabadtéri vendéglátással.",
+                  "category": "recreational",
+                  "coords": [
+                        7.563724,
+                        50.362186
+                  ]
+            },
+            {
+                  "name": "Löwentor",
+                  "text": "Az Ehrenbreitstein-erőd monumentális főkapuja, amelyet oroszlánfigurák díszítenek.",
+                  "category": "castle",
+                  "coords": [
+                        7.579997,
+                        50.347812
+                  ]
+            },
+            {
+                  "name": "Gleisanlage vom DB Museum Koblenz",
+                  "text": "A koblenzi DB Vasúti Múzeum szabadtéri vágányhálózata és kiállított vasúti kocsijai.",
+                  "category": "museum",
+                  "coords": [
+                        7.587155,
+                        50.37911
+                  ]
+            },
+            {
+                  "name": "Freibad Oberwerth",
+                  "text": "Nagy szabadtéri strandfürdő az Oberwerth városrészben, különféle medencékkel és sportpályákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.595279,
+                        50.342123
+                  ]
+            },
+            {
+                  "name": "Escarpe der Neuendorfer Flesche",
+                  "text": "A porosz Neuendorfer Flesche erődítmény belső védőfala Koblenz-Lützel városrészben.",
+                  "category": "castle",
+                  "coords": [
+                        7.597352,
+                        50.374555
+                  ]
+            },
+            {
+                  "name": "Wagenhäuser der Feste Franz",
+                  "text": "A porosz Feste Franz erődrendszer egykori kocsiszínei, ahol hadi járműveket tároltak.",
+                  "category": "fortress",
+                  "coords": [
+                        7.592408,
+                        50.371926
+                  ]
+            },
+            {
+                  "name": "Moselbad",
+                  "text": "Vízi sportközpont a Mosel folyó partján, fedett és szabadtéri úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        7.575103,
+                        50.366396
+                  ]
+            },
+            {
+                  "name": "Rheinanschlusskaserne",
+                  "text": "Egykori porosz katonai laktanya romjai a Rajna partján, Lützel városrészben.",
+                  "category": "historical",
+                  "coords": [
+                        7.602148,
+                        50.353717
+                  ]
+            },
+            {
+                  "name": "Lützeler Volkspark",
+                  "text": "Nyilvános közpark Lützelben, játszóterekkel és kilátással a Deutsches Eckre.",
+                  "category": "park",
+                  "coords": [
+                        7.589243,
+                        50.374534
+                  ]
+            },
+            {
+                  "name": "Rheinanlagen",
+                  "text": "Kiterjedt parkrendszer a Rajna partján, számos emlékművel és sétánnyal.",
+                  "category": "park",
+                  "coords": [
+                        7.594093,
+                        50.345269
+                  ]
+            },
+            {
+                  "name": "Konrad-Adenauer-Ufer",
+                  "text": "Népszerű Rajna-parti sétány, amely az első német szövetségi kancellár nevét viseli.",
+                  "category": "park",
+                  "coords": [
+                        7.60511,
+                        50.360463
+                  ]
+            },
+            {
+                  "name": "Luisenturm",
+                  "text": "Történelmi torony Koblenzben, amely az egykori városi védművek részeként épült.",
+                  "category": "tower",
+                  "coords": [
+                        7.61235,
+                        50.35711
                   ]
             }
       ],
@@ -4094,6 +7838,258 @@ export const poiExtraDe2: POI[] = [
                         7.60222,
                         50.3556
                   ]
+            },
+            {
+                  "name": "Kulturfabrik Koblenz",
+                  "text": "Un centru cultural din Koblenz, cunoscut pentru spectacole de teatru, concerte și spectacole de cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        7.597263,
+                        50.372701
+                  ]
+            },
+            {
+                  "name": "Mittelrhein-Museum",
+                  "text": "Muzeul din Koblenz prezintă istoria artei și a culturii din epoca medievală până în perioada modernă.",
+                  "category": "museum",
+                  "coords": [
+                        7.59637,
+                        50.358709
+                  ]
+            },
+            {
+                  "name": "Deinhard Kellermuseum",
+                  "text": "Un muzeu situat în pivnița istorică Deinhard, care prezintă istoria producerii vinului spumant.",
+                  "category": "museum",
+                  "coords": [
+                        7.599359,
+                        50.357959
+                  ]
+            },
+            {
+                  "name": "Rheinisches Fastnachtsmuseum Koblenz",
+                  "text": "Muzeul din Koblenz prezintă exponate privind istoria carnavalului rhenan și a tradițiilor de lăsatul secului.",
+                  "category": "museum",
+                  "coords": [
+                        7.587256,
+                        50.351002
+                  ]
+            },
+            {
+                  "name": "DB Museum Koblenz",
+                  "text": "O filială a Muzeului DB din Koblenz, care expune locomotive și vagoane istorice.",
+                  "category": "museum",
+                  "coords": [
+                        7.592178,
+                        50.37781
+                  ]
+            },
+            {
+                  "name": "Wehrtechnische Studiensammlung",
+                  "text": "O colecție tehnică a Bundeswehr-ului din Koblenz, care documentează evoluția tehnologiei militare.",
+                  "category": "museum",
+                  "coords": [
+                        7.58536,
+                        50.369062
+                  ]
+            },
+            {
+                  "name": "Ludwig-Museum im Deutschherrenhaus",
+                  "text": "Un muzeu situat în clădirea istorică Deutschherrenhaus din Koblenz, care expune artă contemporană internațională.",
+                  "category": "museum",
+                  "coords": [
+                        7.604961,
+                        50.362771
+                  ]
+            },
+            {
+                  "name": "Dikasterialgebäude",
+                  "text": "Această fostă clădire administrativă a făcut parte din complexul baroc al Castelului Philippsburg din Koblenz.",
+                  "category": "castle",
+                  "coords": [
+                        7.611329,
+                        50.361772
+                  ]
+            },
+            {
+                  "name": "Alte Burg",
+                  "text": "Acest fost castel electoral din secolul al XIII-lea este situat pe malul râului Mosela.",
+                  "category": "castle",
+                  "coords": [
+                        7.594074,
+                        50.362333
+                  ]
+            },
+            {
+                  "name": "Mosellum",
+                  "text": "Un centru de vizitare interactiv la scara de pești din Koblenz, care prezintă ecologia râului Mosela.",
+                  "category": "museum",
+                  "coords": [
+                        7.581473,
+                        50.365192
+                  ]
+            },
+            {
+                  "name": "Rheinmuseum",
+                  "text": "Muzeul prezintă istoria navigației și a vieții de-a lungul râului Rin.",
+                  "category": "museum",
+                  "coords": [
+                        7.611617,
+                        50.36078
+                  ]
+            },
+            {
+                  "name": "Rheinburg",
+                  "text": "O structură fortificată istorică din districtul Ehrenbreitstein, care a făcut parte din sistemul de apărare prusac.",
+                  "category": "castle",
+                  "coords": [
+                        7.614691,
+                        50.359511
+                  ]
+            },
+            {
+                  "name": "Wache am Helfenstein",
+                  "text": "O parte a fortreței Ehrenbreitstein, care a servit la asigurarea versantului sudic.",
+                  "category": "castle",
+                  "coords": [
+                        7.613128,
+                        50.361578
+                  ]
+            },
+            {
+                  "name": "Werk Bleidenberg",
+                  "text": "O fostă lucrare de fortificație a sistemului prusac Koblenz din zona Ehrenbreitstein.",
+                  "category": "castle",
+                  "coords": [
+                        7.621886,
+                        50.371076
+                  ]
+            },
+            {
+                  "name": "Eiszeitliches Lößprofil",
+                  "text": "Un monument natural geologic important în Koblenz-Metternich, cu straturi vizibile de sedimente din epoca glaciară.",
+                  "category": "natural",
+                  "coords": [
+                        7.555002,
+                        50.356497
+                  ]
+            },
+            {
+                  "name": "Museum Moselweiß",
+                  "text": "Un muzeu local de istorie care se ocupă de trecutul și cultura districtului Moselweiß.",
+                  "category": "museum",
+                  "coords": [
+                        7.55651,
+                        50.349386
+                  ]
+            },
+            {
+                  "name": "Statt-Strand-Koblenz",
+                  "text": "O plajă urbană populară pe malul Moselei, cu facilități de agrement și gastronomie în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        7.563724,
+                        50.362186
+                  ]
+            },
+            {
+                  "name": "Löwentor",
+                  "text": "Poarta principală monumentală a fortreței Ehrenbreitstein, decorată cu figuri de lei.",
+                  "category": "castle",
+                  "coords": [
+                        7.579997,
+                        50.347812
+                  ]
+            },
+            {
+                  "name": "Gleisanlage vom DB Museum Koblenz",
+                  "text": "Liniile ferate istorice din zona exterioară a Muzeului DB din Koblenz, incluzând diverse vehicule.",
+                  "category": "museum",
+                  "coords": [
+                        7.587155,
+                        50.37911
+                  ]
+            },
+            {
+                  "name": "Freibad Oberwerth",
+                  "text": "Ștrand spațios în cartierul Oberwerth, dotat cu diverse bazine și terenuri de sport.",
+                  "category": "recreational",
+                  "coords": [
+                        7.595279,
+                        50.342123
+                  ]
+            },
+            {
+                  "name": "Escarpe der Neuendorfer Flesche",
+                  "text": "Zidul de apărare interior al fortificației prusace Neuendorfer Flesche din Koblenz-Lützel.",
+                  "category": "castle",
+                  "coords": [
+                        7.597352,
+                        50.374555
+                  ]
+            },
+            {
+                  "name": "Wagenhäuser der Feste Franz",
+                  "text": "Fostele remize ale fortificației prusace Feste Franz, utilizate pentru vehicule militare.",
+                  "category": "fortress",
+                  "coords": [
+                        7.592408,
+                        50.371926
+                  ]
+            },
+            {
+                  "name": "Moselbad",
+                  "text": "Centru de înot și agrement la râul Mosela, cu bazine interioare și exterioare.",
+                  "category": "recreational",
+                  "coords": [
+                        7.575103,
+                        50.366396
+                  ]
+            },
+            {
+                  "name": "Rheinanschlusskaserne",
+                  "text": "Ruinele unei foste cazărmi prusace situate pe malul Rinului în cartierul Lützel.",
+                  "category": "historical",
+                  "coords": [
+                        7.602148,
+                        50.353717
+                  ]
+            },
+            {
+                  "name": "Lützeler Volkspark",
+                  "text": "Parc public în cartierul Lützel, cu locuri de joacă și vedere spre Deutsches Eck.",
+                  "category": "park",
+                  "coords": [
+                        7.589243,
+                        50.374534
+                  ]
+            },
+            {
+                  "name": "Rheinanlagen",
+                  "text": "Zone verzi întinse de-a lungul malului Rinului, cu monumente și alei pietonale.",
+                  "category": "park",
+                  "coords": [
+                        7.594093,
+                        50.345269
+                  ]
+            },
+            {
+                  "name": "Konrad-Adenauer-Ufer",
+                  "text": "Promenadă celebră pe malul Rinului, numită după primul cancelar federal german.",
+                  "category": "park",
+                  "coords": [
+                        7.60511,
+                        50.360463
+                  ]
+            },
+            {
+                  "name": "Luisenturm",
+                  "text": "Turn istoric din Koblenz, construit ca parte a fostelor fortificații ale orașului.",
+                  "category": "tower",
+                  "coords": [
+                        7.61235,
+                        50.35711
+                  ]
             }
       ],
       "en": [
@@ -4145,6 +8141,258 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         7.60222,
                         50.3556
+                  ]
+            },
+            {
+                  "name": "Kulturfabrik Koblenz",
+                  "text": "A cultural center in Koblenz known for theatre performances, concerts, and cabaret shows.",
+                  "category": "cultural",
+                  "coords": [
+                        7.597263,
+                        50.372701
+                  ]
+            },
+            {
+                  "name": "Mittelrhein-Museum",
+                  "text": "The museum in Koblenz presents art and cultural history from the Middle Ages to the modern era.",
+                  "category": "museum",
+                  "coords": [
+                        7.59637,
+                        50.358709
+                  ]
+            },
+            {
+                  "name": "Deinhard Kellermuseum",
+                  "text": "A museum in the historic Deinhard cellar showing the history of sparkling wine production.",
+                  "category": "museum",
+                  "coords": [
+                        7.599359,
+                        50.357959
+                  ]
+            },
+            {
+                  "name": "Rheinisches Fastnachtsmuseum Koblenz",
+                  "text": "The museum in Koblenz displays exhibits on the history of Rhenish carnival and Fastnacht traditions.",
+                  "category": "museum",
+                  "coords": [
+                        7.587256,
+                        50.351002
+                  ]
+            },
+            {
+                  "name": "DB Museum Koblenz",
+                  "text": "A branch of the DB Museum in Koblenz displaying historic locomotives and railway carriages.",
+                  "category": "museum",
+                  "coords": [
+                        7.592178,
+                        50.37781
+                  ]
+            },
+            {
+                  "name": "Wehrtechnische Studiensammlung",
+                  "text": "A technical collection of the Bundeswehr in Koblenz documenting the development of defense technology.",
+                  "category": "museum",
+                  "coords": [
+                        7.58536,
+                        50.369062
+                  ]
+            },
+            {
+                  "name": "Ludwig-Museum im Deutschherrenhaus",
+                  "text": "A museum in the historic Deutschherrenhaus in Koblenz displaying international contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        7.604961,
+                        50.362771
+                  ]
+            },
+            {
+                  "name": "Dikasterialgebäude",
+                  "text": "This former administrative building was part of the baroque Schloss Philippsburg complex in Koblenz.",
+                  "category": "castle",
+                  "coords": [
+                        7.611329,
+                        50.361772
+                  ]
+            },
+            {
+                  "name": "Alte Burg",
+                  "text": "Built in the 13th century, this former electoral castle is located on the banks of the Moselle.",
+                  "category": "castle",
+                  "coords": [
+                        7.594074,
+                        50.362333
+                  ]
+            },
+            {
+                  "name": "Mosellum",
+                  "text": "An interactive visitor center at the Koblenz fish pass, showcasing the ecology of the Moselle river.",
+                  "category": "museum",
+                  "coords": [
+                        7.581473,
+                        50.365192
+                  ]
+            },
+            {
+                  "name": "Rheinmuseum",
+                  "text": "The museum presents the history of navigation and life along the Rhine river.",
+                  "category": "museum",
+                  "coords": [
+                        7.611617,
+                        50.36078
+                  ]
+            },
+            {
+                  "name": "Rheinburg",
+                  "text": "A historic fortification building in the Ehrenbreitstein district, once part of the Prussian defense system.",
+                  "category": "castle",
+                  "coords": [
+                        7.614691,
+                        50.359511
+                  ]
+            },
+            {
+                  "name": "Wache am Helfenstein",
+                  "text": "A part of the Ehrenbreitstein Fortress that served to secure the southern slope.",
+                  "category": "castle",
+                  "coords": [
+                        7.613128,
+                        50.361578
+                  ]
+            },
+            {
+                  "name": "Werk Bleidenberg",
+                  "text": "A former fortification work of the Prussian Koblenz fortress system in the Ehrenbreitstein area.",
+                  "category": "castle",
+                  "coords": [
+                        7.621886,
+                        50.371076
+                  ]
+            },
+            {
+                  "name": "Eiszeitliches Lößprofil",
+                  "text": "An important geological natural monument in Koblenz-Metternich with visible sediment layers from the Ice Age.",
+                  "category": "natural",
+                  "coords": [
+                        7.555002,
+                        50.356497
+                  ]
+            },
+            {
+                  "name": "Museum Moselweiß",
+                  "text": "A local history museum focusing on the heritage and culture of the Moselweiß district.",
+                  "category": "museum",
+                  "coords": [
+                        7.55651,
+                        50.349386
+                  ]
+            },
+            {
+                  "name": "Statt-Strand-Koblenz",
+                  "text": "A popular urban beach on the Moselle with leisure facilities and outdoor dining.",
+                  "category": "recreational",
+                  "coords": [
+                        7.563724,
+                        50.362186
+                  ]
+            },
+            {
+                  "name": "Löwentor",
+                  "text": "The monumental main gate of the Ehrenbreitstein Fortress, decorated with lion figures.",
+                  "category": "castle",
+                  "coords": [
+                        7.579997,
+                        50.347812
+                  ]
+            },
+            {
+                  "name": "Gleisanlage vom DB Museum Koblenz",
+                  "text": "Historical railway tracks and rolling stock in the outdoor area of the DB Museum Koblenz.",
+                  "category": "museum",
+                  "coords": [
+                        7.587155,
+                        50.37911
+                  ]
+            },
+            {
+                  "name": "Freibad Oberwerth",
+                  "text": "Large open-air swimming pool in the Oberwerth district with various pools and sports facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        7.595279,
+                        50.342123
+                  ]
+            },
+            {
+                  "name": "Escarpe der Neuendorfer Flesche",
+                  "text": "Inner defensive wall of the Prussian Neuendorfer Flesche fortification in Koblenz-Lützel.",
+                  "category": "castle",
+                  "coords": [
+                        7.597352,
+                        50.374555
+                  ]
+            },
+            {
+                  "name": "Wagenhäuser der Feste Franz",
+                  "text": "Former carriage houses of the Prussian Feste Franz fort, used for storing military vehicles.",
+                  "category": "fortress",
+                  "coords": [
+                        7.592408,
+                        50.371926
+                  ]
+            },
+            {
+                  "name": "Moselbad",
+                  "text": "Swimming and leisure center by the Moselle with indoor and outdoor pools for water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        7.575103,
+                        50.366396
+                  ]
+            },
+            {
+                  "name": "Rheinanschlusskaserne",
+                  "text": "Ruins of a former Prussian military barracks on the Rhine bank in the Lützel district.",
+                  "category": "historical",
+                  "coords": [
+                        7.602148,
+                        50.353717
+                  ]
+            },
+            {
+                  "name": "Lützeler Volkspark",
+                  "text": "Public green space in the Lützel district with playgrounds and views of the Deutsches Eck.",
+                  "category": "park",
+                  "coords": [
+                        7.589243,
+                        50.374534
+                  ]
+            },
+            {
+                  "name": "Rheinanlagen",
+                  "text": "Extensive parklands along the Rhine riverbank with monuments and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        7.594093,
+                        50.345269
+                  ]
+            },
+            {
+                  "name": "Konrad-Adenauer-Ufer",
+                  "text": "Famous riverside promenade along the Rhine, named after the first German Federal Chancellor.",
+                  "category": "park",
+                  "coords": [
+                        7.60511,
+                        50.360463
+                  ]
+            },
+            {
+                  "name": "Luisenturm",
+                  "text": "Historical tower in Koblenz, built as part of the former city fortifications.",
+                  "category": "tower",
+                  "coords": [
+                        7.61235,
+                        50.35711
                   ]
             }
       ],
@@ -4347,6 +8595,186 @@ export const poiExtraDe2: POI[] = [
                   "text": "Ein modernes Einkaufszentrum direkt am Flussufer mit einer markanten Architektur in Form eines Schiffes.",
                   "category": "Bridges, train stations of note",
                   "confidence": "high"
+            },
+            {
+                  "name": "Prinzregenten Theater",
+                  "text": "Ein privates Theater in Ludwigshafen, bekannt für sein vielseitiges Unterhaltungsprogramm.",
+                  "category": "cultural",
+                  "coords": [
+                        8.438148,
+                        49.489327
+                  ]
+            },
+            {
+                  "name": "Staatsphilharmonie Rheinland-Pfalz",
+                  "text": "Das größte Sinfonieorchester des Landes Rheinland-Pfalz mit Sitz in Ludwigshafen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.442985,
+                        49.479718
+                  ]
+            },
+            {
+                  "name": "Marchivum",
+                  "text": "Ein modernes Archiv und Museum in einem ehemaligen Hochbunker, das Stadtgeschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.461482,
+                        49.500093
+                  ]
+            },
+            {
+                  "name": "Pfalzbau",
+                  "text": "Ein bedeutendes Theater- und Konzerthaus in Ludwigshafen für Gastspiele und Festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        8.446036,
+                        49.479327
+                  ]
+            },
+            {
+                  "name": "Zephyr - Museum für Photographie",
+                  "text": "Ein Ausstellungsraum in Mannheim, der sich zeitgenössischer Fotografie und moderner Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.462637,
+                        49.48793
+                  ]
+            },
+            {
+                  "name": "Werkhaus",
+                  "text": "Experimentelle Spielstätte und Studiobühne des Nationaltheaters Mannheim.",
+                  "category": "cultural",
+                  "coords": [
+                        8.47896,
+                        49.489567
+                  ]
+            },
+            {
+                  "name": "Reiss-Engelhorn-Museum",
+                  "text": "Bedeutender Museumskomplex für Archäologie, Weltkulturen und Fotografie.",
+                  "category": "museum",
+                  "coords": [
+                        8.462074,
+                        49.488843
+                  ]
+            },
+            {
+                  "name": "Reißinsel",
+                  "text": "Naturschutzgebiet am Rhein mit wertvollen Auenwäldern und seltenen Vogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        8.452195,
+                        49.455854
+                  ]
+            },
+            {
+                  "name": "Schillerhaus",
+                  "text": "Gedenkstätte im ältesten erhaltenen Wohnhaus der Stadt, in dem Friedrich Schiller lebte.",
+                  "category": "museum",
+                  "coords": [
+                        8.460857,
+                        49.487052
+                  ]
+            },
+            {
+                  "name": "TheaterhausG7",
+                  "text": "Freies Theaterhaus im Stadtzentrum, das zeitgenössische Produktionen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.462019,
+                        49.491641
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Mannheim",
+                  "text": "Eines der bedeutendsten Museen für moderne und zeitgenössische Kunst mit markantem Neubau.",
+                  "category": "museum",
+                  "coords": [
+                        8.4752,
+                        49.482606
+                  ]
+            },
+            {
+                  "name": "John Deere Forum",
+                  "text": "Besucherzentrum und Museum zur Geschichte und Technik der Landmaschinen.",
+                  "category": "museum",
+                  "coords": [
+                        8.475586,
+                        49.472826
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum",
+                  "text": "Museum im Barockschloss zur Geschichte der pfälzischen Kurfürsten.",
+                  "category": "museum",
+                  "coords": [
+                        8.462182,
+                        49.48285
+                  ]
+            },
+            {
+                  "name": "Die 4 Elemente",
+                  "text": "Thematische Ausstellung der Reiss-Engelhorn-Museen zur Kulturgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        8.426303,
+                        49.486716
+                  ]
+            },
+            {
+                  "name": "Hallenbad Süd",
+                  "text": "Ein Hallenbad im Süden der Stadt mit Schwimmbecken für Sport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        8.437165,
+                        49.46726
+                  ]
+            },
+            {
+                  "name": "Naturfreibad Blies",
+                  "text": "Ein natürliches Freibad am Bliessee, das Erholung im Freien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.415949,
+                        49.474904
+                  ]
+            },
+            {
+                  "name": "Friedenspark",
+                  "text": "Ein öffentlicher Stadtpark in Ludwigshafen, der als Grünanlage zur Erholung dient.",
+                  "category": "park",
+                  "coords": [
+                        8.434676,
+                        49.483616
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Die Ruine der ehemaligen Lutherkirche, von der heute noch der markante Turm erhalten ist.",
+                  "category": "historical",
+                  "coords": [
+                        8.445114,
+                        49.48129
+                  ]
+            },
+            {
+                  "name": "Sternwarte A4",
+                  "text": "Ein historischer Turm der ehemaligen kurpfälzischen Sternwarte in der Nähe.",
+                  "category": "tower",
+                  "coords": [
+                        8.459701,
+                        49.486492
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Ludwigshafen am Rhein",
+                  "text": "Ein weithin sichtbarer Fernmeldeturm der Deutschen Telekom in Ludwigshafen am Rhein.",
+                  "category": "tower",
+                  "coords": [
+                        8.42389,
+                        49.474469
+                  ]
             }
       ],
       "hu": [
@@ -4388,6 +8816,186 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.48125,
                         49.4778
+                  ]
+            },
+            {
+                  "name": "Prinzregenten Theater",
+                  "text": "Magánszínház Ludwigshafenben, amely sokszínű szórakoztató műsorairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.438148,
+                        49.489327
+                  ]
+            },
+            {
+                  "name": "Staatsphilharmonie Rheinland-Pfalz",
+                  "text": "Rajna-vidék-Pfalz tartomány legnagyobb szimfonikus zenekara, amelynek székhelye Ludwigshafen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.442985,
+                        49.479718
+                  ]
+            },
+            {
+                  "name": "Marchivum",
+                  "text": "Modern archívum és múzeum egy egykori légoltalmi bunkerben, amely a város történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.461482,
+                        49.500093
+                  ]
+            },
+            {
+                  "name": "Pfalzbau",
+                  "text": "Ludwigshafen jelentős színház- és hangversenyterme, amely vendégjátékoknak és fesztiváloknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        8.446036,
+                        49.479327
+                  ]
+            },
+            {
+                  "name": "Zephyr - Museum für Photographie",
+                  "text": "Kortárs fotográfiának és modern művészetnek szentelt kiállítótér Mannheim területén.",
+                  "category": "museum",
+                  "coords": [
+                        8.462637,
+                        49.48793
+                  ]
+            },
+            {
+                  "name": "Werkhaus",
+                  "text": "A Mannheimi Nemzeti Színház kísérleti játszóhelye és stúdiószínpada.",
+                  "category": "cultural",
+                  "coords": [
+                        8.47896,
+                        49.489567
+                  ]
+            },
+            {
+                  "name": "Reiss-Engelhorn-Museum",
+                  "text": "Jelentős múzeumi komplexum, amely régészettel, világkultúrákkal és fotográfiával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        8.462074,
+                        49.488843
+                  ]
+            },
+            {
+                  "name": "Reißinsel",
+                  "text": "Természetvédelmi terület a Rajna mentén, ártéri erdőkkel és ritka madárfajokkal.",
+                  "category": "natural",
+                  "coords": [
+                        8.452195,
+                        49.455854
+                  ]
+            },
+            {
+                  "name": "Schillerhaus",
+                  "text": "Emlékhely a város legrégebbi fennmaradt lakóházában, ahol Friedrich Schiller élt.",
+                  "category": "museum",
+                  "coords": [
+                        8.460857,
+                        49.487052
+                  ]
+            },
+            {
+                  "name": "TheaterhausG7",
+                  "text": "Független színház a városközpontban, amely kortárs produkciókat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        8.462019,
+                        49.491641
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Mannheim",
+                  "text": "A modern és kortárs művészet egyik legjelentősebb múzeuma jellegzetes új épülettel.",
+                  "category": "museum",
+                  "coords": [
+                        8.4752,
+                        49.482606
+                  ]
+            },
+            {
+                  "name": "John Deere Forum",
+                  "text": "Látogatóközpont és múzeum a mezőgazdasági gépek történetéről és technikájáról.",
+                  "category": "museum",
+                  "coords": [
+                        8.475586,
+                        49.472826
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum",
+                  "text": "Múzeum a barokk kastélyban, amely a palotai választófejedelmek történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.462182,
+                        49.48285
+                  ]
+            },
+            {
+                  "name": "Die 4 Elemente",
+                  "text": "A Reiss-Engelhorn-Museen kultúrtörténeti tematikus kiállítása.",
+                  "category": "museum",
+                  "coords": [
+                        8.426303,
+                        49.486716
+                  ]
+            },
+            {
+                  "name": "Hallenbad Süd",
+                  "text": "Városi fedett uszoda a déli városrészben, úszómedencékkel a sportoláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        8.437165,
+                        49.46726
+                  ]
+            },
+            {
+                  "name": "Naturfreibad Blies",
+                  "text": "Természetes szabadtéri strand a Blies-tónál, amely kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.415949,
+                        49.474904
+                  ]
+            },
+            {
+                  "name": "Friedenspark",
+                  "text": "Közpark Ludwigshafenben, amely zöldterületként szolgál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        8.434676,
+                        49.483616
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Az egykori Luther-templom romja, amelynek jellegzetes tornya ma is áll.",
+                  "category": "historical",
+                  "coords": [
+                        8.445114,
+                        49.48129
+                  ]
+            },
+            {
+                  "name": "Sternwarte A4",
+                  "text": "Az egykori választófejedelmi csillagvizsgáló történelmi tornya a közelben.",
+                  "category": "tower",
+                  "coords": [
+                        8.459701,
+                        49.486492
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Ludwigshafen am Rhein",
+                  "text": "A Deutsche Telekom messziről látható távközlési tornya Ludwigshafenben.",
+                  "category": "tower",
+                  "coords": [
+                        8.42389,
+                        49.474469
                   ]
             }
       ],
@@ -4431,6 +9039,186 @@ export const poiExtraDe2: POI[] = [
                         8.48125,
                         49.4778
                   ]
+            },
+            {
+                  "name": "Prinzregenten Theater",
+                  "text": "Un teatru privat în Ludwigshafen, cunoscut pentru programul său variat de divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        8.438148,
+                        49.489327
+                  ]
+            },
+            {
+                  "name": "Staatsphilharmonie Rheinland-Pfalz",
+                  "text": "Cea mai mare orchestră simfonică din landul Renania-Palatinat, cu sediul în Ludwigshafen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.442985,
+                        49.479718
+                  ]
+            },
+            {
+                  "name": "Marchivum",
+                  "text": "Un arhivă și muzeu modern într-un fost buncăr, prezentând istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        8.461482,
+                        49.500093
+                  ]
+            },
+            {
+                  "name": "Pfalzbau",
+                  "text": "O importantă sală de teatru și concerte din Ludwigshafen pentru spectacole invitate și festivaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        8.446036,
+                        49.479327
+                  ]
+            },
+            {
+                  "name": "Zephyr - Museum für Photographie",
+                  "text": "Un spațiu expozițional dedicat fotografiei contemporane și artei moderne din Mannheim.",
+                  "category": "museum",
+                  "coords": [
+                        8.462637,
+                        49.48793
+                  ]
+            },
+            {
+                  "name": "Werkhaus",
+                  "text": "Spațiu experimental și scenă de studio a Teatrului Național din Mannheim.",
+                  "category": "cultural",
+                  "coords": [
+                        8.47896,
+                        49.489567
+                  ]
+            },
+            {
+                  "name": "Reiss-Engelhorn-Museum",
+                  "text": "Un complex muzeal major dedicat arheologiei, culturilor lumii și fotografiei.",
+                  "category": "museum",
+                  "coords": [
+                        8.462074,
+                        49.488843
+                  ]
+            },
+            {
+                  "name": "Reißinsel",
+                  "text": "Rezervație naturală pe malul Rinului, cu păduri aluviale și specii rare de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        8.452195,
+                        49.455854
+                  ]
+            },
+            {
+                  "name": "Schillerhaus",
+                  "text": "Casă memorială în cea mai veche clădire rezidențială a orașului, unde a locuit Friedrich Schiller.",
+                  "category": "museum",
+                  "coords": [
+                        8.460857,
+                        49.487052
+                  ]
+            },
+            {
+                  "name": "TheaterhausG7",
+                  "text": "Teatru independent situat în centrul orașului, prezentând producții contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        8.462019,
+                        49.491641
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Mannheim",
+                  "text": "Unul dintre cele mai importante muzee de artă modernă și contemporană, cu o extensie modernă distinctă.",
+                  "category": "museum",
+                  "coords": [
+                        8.4752,
+                        49.482606
+                  ]
+            },
+            {
+                  "name": "John Deere Forum",
+                  "text": "Centru pentru vizitatori și muzeu dedicat istoriei și tehnologiei utilajelor agricole.",
+                  "category": "museum",
+                  "coords": [
+                        8.475586,
+                        49.472826
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum",
+                  "text": "Muzeu în palatul baroc dedicat istoriei prinților electori ai Palatinatului.",
+                  "category": "museum",
+                  "coords": [
+                        8.462182,
+                        49.48285
+                  ]
+            },
+            {
+                  "name": "Die 4 Elemente",
+                  "text": "Expoziție tematică a muzeelor Reiss-Engelhorn dedicată istoriei culturale.",
+                  "category": "museum",
+                  "coords": [
+                        8.426303,
+                        49.486716
+                  ]
+            },
+            {
+                  "name": "Hallenbad Süd",
+                  "text": "O piscină interioară în sudul orașului, cu bazine pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        8.437165,
+                        49.46726
+                  ]
+            },
+            {
+                  "name": "Naturfreibad Blies",
+                  "text": "Un ștrand natural pe malul lacului Blies, oferind recreere în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        8.415949,
+                        49.474904
+                  ]
+            },
+            {
+                  "name": "Friedenspark",
+                  "text": "Un parc public în Ludwigshafen, care servește drept zonă verde pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        8.434676,
+                        49.483616
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Ruinele fostei biserici Luther, din care se mai păstrează astăzi turnul distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        8.445114,
+                        49.48129
+                  ]
+            },
+            {
+                  "name": "Sternwarte A4",
+                  "text": "Un turn istoric al fostului observator astronomic din apropiere.",
+                  "category": "tower",
+                  "coords": [
+                        8.459701,
+                        49.486492
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Ludwigshafen am Rhein",
+                  "text": "Un turn de telecomunicații al Deutsche Telekom în Ludwigshafen, vizibil de la distanță.",
+                  "category": "tower",
+                  "coords": [
+                        8.42389,
+                        49.474469
+                  ]
             }
       ],
       "en": [
@@ -4472,6 +9260,186 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.48125,
                         49.4778
+                  ]
+            },
+            {
+                  "name": "Prinzregenten Theater",
+                  "text": "A private theatre in Ludwigshafen known for its versatile entertainment program.",
+                  "category": "cultural",
+                  "coords": [
+                        8.438148,
+                        49.489327
+                  ]
+            },
+            {
+                  "name": "Staatsphilharmonie Rheinland-Pfalz",
+                  "text": "The largest symphony orchestra of the state of Rhineland-Palatinate, based in Ludwigshafen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.442985,
+                        49.479718
+                  ]
+            },
+            {
+                  "name": "Marchivum",
+                  "text": "A modern archive and museum housed in a former high-rise bunker, showcasing city history.",
+                  "category": "museum",
+                  "coords": [
+                        8.461482,
+                        49.500093
+                  ]
+            },
+            {
+                  "name": "Pfalzbau",
+                  "text": "A major theatre and concert hall in Ludwigshafen hosting guest performances and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        8.446036,
+                        49.479327
+                  ]
+            },
+            {
+                  "name": "Zephyr - Museum für Photographie",
+                  "text": "An exhibition space in Mannheim dedicated to contemporary photography and modern art.",
+                  "category": "museum",
+                  "coords": [
+                        8.462637,
+                        49.48793
+                  ]
+            },
+            {
+                  "name": "Werkhaus",
+                  "text": "Experimental venue and studio stage of the National Theatre Mannheim.",
+                  "category": "cultural",
+                  "coords": [
+                        8.47896,
+                        49.489567
+                  ]
+            },
+            {
+                  "name": "Reiss-Engelhorn-Museum",
+                  "text": "A major museum complex focused on archaeology, world cultures, and photography.",
+                  "category": "museum",
+                  "coords": [
+                        8.462074,
+                        49.488843
+                  ]
+            },
+            {
+                  "name": "Reißinsel",
+                  "text": "A nature reserve along the Rhine featuring alluvial forests and rare bird species.",
+                  "category": "natural",
+                  "coords": [
+                        8.452195,
+                        49.455854
+                  ]
+            },
+            {
+                  "name": "Schillerhaus",
+                  "text": "Memorial site in the city's oldest surviving residential building, where Friedrich Schiller once lived.",
+                  "category": "museum",
+                  "coords": [
+                        8.460857,
+                        49.487052
+                  ]
+            },
+            {
+                  "name": "TheaterhausG7",
+                  "text": "Independent theatre house in the city center presenting contemporary productions.",
+                  "category": "cultural",
+                  "coords": [
+                        8.462019,
+                        49.491641
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Mannheim",
+                  "text": "One of the most important museums for modern and contemporary art, featuring a striking new building.",
+                  "category": "museum",
+                  "coords": [
+                        8.4752,
+                        49.482606
+                  ]
+            },
+            {
+                  "name": "John Deere Forum",
+                  "text": "Visitor center and museum showcasing the history and technology of agricultural machinery.",
+                  "category": "museum",
+                  "coords": [
+                        8.475586,
+                        49.472826
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum",
+                  "text": "Museum in the Baroque palace documenting the history of the Electors of the Palatinate.",
+                  "category": "museum",
+                  "coords": [
+                        8.462182,
+                        49.48285
+                  ]
+            },
+            {
+                  "name": "Die 4 Elemente",
+                  "text": "Thematic exhibition of the Reiss-Engelhorn-Museen on cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        8.426303,
+                        49.486716
+                  ]
+            },
+            {
+                  "name": "Hallenbad Süd",
+                  "text": "An indoor swimming pool in the southern part of the city with pools for sport and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        8.437165,
+                        49.46726
+                  ]
+            },
+            {
+                  "name": "Naturfreibad Blies",
+                  "text": "A natural outdoor swimming area at Lake Blies offering outdoor recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        8.415949,
+                        49.474904
+                  ]
+            },
+            {
+                  "name": "Friedenspark",
+                  "text": "A public city park in Ludwigshafen serving as a green area for recreation.",
+                  "category": "park",
+                  "coords": [
+                        8.434676,
+                        49.483616
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "The ruins of the former Luther Church, of which the prominent tower still stands today.",
+                  "category": "historical",
+                  "coords": [
+                        8.445114,
+                        49.48129
+                  ]
+            },
+            {
+                  "name": "Sternwarte A4",
+                  "text": "A historic tower of the former electoral observatory located nearby.",
+                  "category": "tower",
+                  "coords": [
+                        8.459701,
+                        49.486492
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Ludwigshafen am Rhein",
+                  "text": "A telecommunication tower of Deutsche Telekom in Ludwigshafen, visible from afar.",
+                  "category": "tower",
+                  "coords": [
+                        8.42389,
+                        49.474469
                   ]
             }
       ],

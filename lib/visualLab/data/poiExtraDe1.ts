@@ -177,6 +177,168 @@ export const poiExtraDe1: POI[] = [
                         11.4333,
                         48.7619
                   ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Museum im Kavalier Hepp, das die Stadtgeschichte Ingolstadts von der Frühzeit bis heute zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.416125,
+                        48.767447
+                  ]
+            },
+            {
+                  "name": "Museum für konkrete Kunst",
+                  "text": "Museum in Ingolstadt, das sich auf konkrete und konstruktive Kunst des 20. Jahrhunderts spezialisiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.427356,
+                        48.761717
+                  ]
+            },
+            {
+                  "name": "Bayerisches Polizeimuseum",
+                  "text": "Das Museum im Turm Triva dokumentiert die Geschichte der bayerischen Polizei.",
+                  "category": "museum",
+                  "coords": [
+                        11.435157,
+                        48.762391
+                  ]
+            },
+            {
+                  "name": "Heinrich-Stiefel-Schulmuseum",
+                  "text": "Ein Museum, das historische Schulmaterialien und alte Unterrichtsmethoden zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.430337,
+                        48.758482
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Das bedeutende Stadttheater von Ingolstadt bietet ein breites kulturelles Programm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.428929,
+                        48.763212
+                  ]
+            },
+            {
+                  "name": "Lechner-Museum",
+                  "text": "Das Museum widmet sich den Werken des Stahlbildhauers Alf Lechner.",
+                  "category": "museum",
+                  "coords": [
+                        11.430426,
+                        48.76682
+                  ]
+            },
+            {
+                  "name": "Museum Mobile",
+                  "text": "Das Museum von Audi präsentiert die Unternehmensgeschichte und historische Fahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        11.413964,
+                        48.782789
+                  ]
+            },
+            {
+                  "name": "Herzogskasten",
+                  "text": "Das ehemalige herzogliche Schloss aus dem 13. Jahrhundert beherbergt heute die Stadtbücherei.",
+                  "category": "castle",
+                  "coords": [
+                        11.427518,
+                        48.763516
+                  ]
+            },
+            {
+                  "name": "Museum des Ersten Weltkriegs",
+                  "text": "Die Ausstellung im Reduit Tilly befasst sich mit der Geschichte des Ersten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        11.432039,
+                        48.761634
+                  ]
+            },
+            {
+                  "name": "Oldtimer",
+                  "text": "Eine Sammlung historischer Automobile und klassischer Fahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        11.440077,
+                        48.758844
+                  ]
+            },
+            {
+                  "name": "Marieluise-Fleißer-Haus",
+                  "text": "Das Geburtshaus der Schriftstellerin Marieluise Fleißer dient heute als Literaturmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        11.422593,
+                        48.765005
+                  ]
+            },
+            {
+                  "name": "Freibad Ingolstadt",
+                  "text": "Ein öffentliches Freibad mit verschiedenen Schwimmbecken und Liegewiesen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.416672,
+                        48.762771
+                  ]
+            },
+            {
+                  "name": "Donautherme",
+                  "text": "Ein großes Erlebnisbad und Thermalbad direkt an der Donau gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.43841,
+                        48.762326
+                  ]
+            },
+            {
+                  "name": "Schutterhof",
+                  "text": "Eine ehemalige Festungsanlage, die heute für Gastronomie und Veranstaltungen genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        11.416013,
+                        48.764015
+                  ]
+            },
+            {
+                  "name": "Donaupavillon Ingolstadt",
+                  "text": "Das Informationszentrum an der Donau zeigt Ausstellungen zum Fluss und zur regionalen Ökologie.",
+                  "category": "museum",
+                  "coords": [
+                        11.410298,
+                        48.750704
+                  ]
+            },
+            {
+                  "name": "Wildpark",
+                  "text": "Ein weitläufiges Gehege in Ingolstadt, in dem einheimische Wildtierarten in natürlicher Umgebung beobachtet werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        11.390668,
+                        48.753114
+                  ]
+            },
+            {
+                  "name": "Luitpoldpark",
+                  "text": "Eine großzügige Grünanlage in Ingolstadt, die als Naherholungsgebiet mit Spazierwegen dient.",
+                  "category": "park",
+                  "coords": [
+                        11.42568,
+                        48.754816
+                  ]
+            },
+            {
+                  "name": "Pfeifturm",
+                  "text": "Der ehemalige gotische Stadtwachturm aus dem 14. Jahrhundert bietet einen weiten Blick über Ingolstadt.",
+                  "category": "tower",
+                  "coords": [
+                        11.42459,
+                        48.763455
+                  ]
             }
       ],
       "hu": [
@@ -260,6 +422,168 @@ export const poiExtraDe1: POI[] = [
                         11.4333,
                         48.7619
                   ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "A Kavalier Hepp épületében található múzeum, amely Ingolstadt történelmét mutatja be a kezdetektől napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        11.416125,
+                        48.767447
+                  ]
+            },
+            {
+                  "name": "Museum für konkrete Kunst",
+                  "text": "Ingolstadti múzeum, amely a 20. századi konkrét és konstruktív művészetre szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        11.427356,
+                        48.761717
+                  ]
+            },
+            {
+                  "name": "Bayerisches Polizeimuseum",
+                  "text": "A Triva-toronyban található múzeum a bajor rendőrség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.435157,
+                        48.762391
+                  ]
+            },
+            {
+                  "name": "Heinrich-Stiefel-Schulmuseum",
+                  "text": "Történelmi iskolai eszközöket és régi tanítási módszereket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        11.430337,
+                        48.758482
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Ingolstadt jelentős városi színháza széleskörű kulturális programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        11.428929,
+                        48.763212
+                  ]
+            },
+            {
+                  "name": "Lechner-Museum",
+                  "text": "A múzeum Alf Lechner acélszobrász alkotásainak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        11.430426,
+                        48.76682
+                  ]
+            },
+            {
+                  "name": "Museum Mobile",
+                  "text": "Az Audi múzeuma a vállalat történetét és történelmi járműveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.413964,
+                        48.782789
+                  ]
+            },
+            {
+                  "name": "Herzogskasten",
+                  "text": "A 13. századi egykori hercegi kastély ma a városi könyvtárnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        11.427518,
+                        48.763516
+                  ]
+            },
+            {
+                  "name": "Museum des Ersten Weltkriegs",
+                  "text": "A Reduit Tillyben található kiállítás az első világháború történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        11.432039,
+                        48.761634
+                  ]
+            },
+            {
+                  "name": "Oldtimer",
+                  "text": "Történelmi automobilok és klasszikus járművek gyűjteménye.",
+                  "category": "museum",
+                  "coords": [
+                        11.440077,
+                        48.758844
+                  ]
+            },
+            {
+                  "name": "Marieluise-Fleißer-Haus",
+                  "text": "Marieluise Fleißer írónő szülőháza ma irodalmi múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        11.422593,
+                        48.765005
+                  ]
+            },
+            {
+                  "name": "Freibad Ingolstadt",
+                  "text": "Nyilvános szabadtéri strand különböző medencékkel és napozóhelyekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        11.416672,
+                        48.762771
+                  ]
+            },
+            {
+                  "name": "Donautherme",
+                  "text": "Közvetlenül a Duna partján fekvő nagy élmény- és termálfürdő.",
+                  "category": "recreational",
+                  "coords": [
+                        11.43841,
+                        48.762326
+                  ]
+            },
+            {
+                  "name": "Schutterhof",
+                  "text": "Egykori erődítmény, amelyet ma vendéglátásra és rendezvényekre használnak.",
+                  "category": "fortress",
+                  "coords": [
+                        11.416013,
+                        48.764015
+                  ]
+            },
+            {
+                  "name": "Donaupavillon Ingolstadt",
+                  "text": "A Duna-parti információs központ a folyó élővilágát és a regionális ökológiát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.410298,
+                        48.750704
+                  ]
+            },
+            {
+                  "name": "Wildpark",
+                  "text": "Tágas vadaspark Ingolstadtban, ahol a látogatók természetes környezetben láthatnak őshonos vadfajokat.",
+                  "category": "recreational",
+                  "coords": [
+                        11.390668,
+                        48.753114
+                  ]
+            },
+            {
+                  "name": "Luitpoldpark",
+                  "text": "Tágas ingolstadti zöldövezet, amely sétányaival népszerű pihenőhely a városban.",
+                  "category": "park",
+                  "coords": [
+                        11.42568,
+                        48.754816
+                  ]
+            },
+            {
+                  "name": "Pfeifturm",
+                  "text": "A 14. századból származó gótikus városi őrtoronyból messzire el lehet látni Ingolstadt felett.",
+                  "category": "tower",
+                  "coords": [
+                        11.42459,
+                        48.763455
+                  ]
             }
       ],
       "ro": [
@@ -328,6 +652,168 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         11.4333,
                         48.7619
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Muzeu situat în clădirea Kavalier Hepp, prezentând istoria orașului Ingolstadt din preistorie până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        11.416125,
+                        48.767447
+                  ]
+            },
+            {
+                  "name": "Museum für konkrete Kunst",
+                  "text": "Muzeu în Ingolstadt specializat în arta concretă și constructivistă a secolului XX.",
+                  "category": "museum",
+                  "coords": [
+                        11.427356,
+                        48.761717
+                  ]
+            },
+            {
+                  "name": "Bayerisches Polizeimuseum",
+                  "text": "Muzeul situat în Turnul Triva documentează istoria poliției bavareze.",
+                  "category": "museum",
+                  "coords": [
+                        11.435157,
+                        48.762391
+                  ]
+            },
+            {
+                  "name": "Heinrich-Stiefel-Schulmuseum",
+                  "text": "Un muzeu care expune materiale școlare istorice și metode vechi de predare.",
+                  "category": "museum",
+                  "coords": [
+                        11.430337,
+                        48.758482
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Teatrul municipal important din Ingolstadt oferă un program cultural variat.",
+                  "category": "cultural",
+                  "coords": [
+                        11.428929,
+                        48.763212
+                  ]
+            },
+            {
+                  "name": "Lechner-Museum",
+                  "text": "Muzeul este dedicat lucrărilor sculptorului în oțel Alf Lechner.",
+                  "category": "museum",
+                  "coords": [
+                        11.430426,
+                        48.76682
+                  ]
+            },
+            {
+                  "name": "Museum Mobile",
+                  "text": "Muzeul Audi prezintă istoria companiei și vehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        11.413964,
+                        48.782789
+                  ]
+            },
+            {
+                  "name": "Herzogskasten",
+                  "text": "Fostul castel ducal din secolul al XIII-lea găzduiește astăzi biblioteca orașului.",
+                  "category": "castle",
+                  "coords": [
+                        11.427518,
+                        48.763516
+                  ]
+            },
+            {
+                  "name": "Museum des Ersten Weltkriegs",
+                  "text": "Expoziția din Reduit Tilly se ocupă de istoria Primului Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        11.432039,
+                        48.761634
+                  ]
+            },
+            {
+                  "name": "Oldtimer",
+                  "text": "O colecție de automobile istorice și vehicule clasice.",
+                  "category": "museum",
+                  "coords": [
+                        11.440077,
+                        48.758844
+                  ]
+            },
+            {
+                  "name": "Marieluise-Fleißer-Haus",
+                  "text": "Casa natală a scriitoarei Marieluise Fleißer servește astăzi ca muzeu literar.",
+                  "category": "museum",
+                  "coords": [
+                        11.422593,
+                        48.765005
+                  ]
+            },
+            {
+                  "name": "Freibad Ingolstadt",
+                  "text": "Ștrand public în aer liber cu diverse bazine și zone de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        11.416672,
+                        48.762771
+                  ]
+            },
+            {
+                  "name": "Donautherme",
+                  "text": "Un centru termal și parc acvatic mare situat direct pe malul Dunării.",
+                  "category": "recreational",
+                  "coords": [
+                        11.43841,
+                        48.762326
+                  ]
+            },
+            {
+                  "name": "Schutterhof",
+                  "text": "O fostă fortificație care este folosită astăzi pentru gastronomie și evenimente.",
+                  "category": "fortress",
+                  "coords": [
+                        11.416013,
+                        48.764015
+                  ]
+            },
+            {
+                  "name": "Donaupavillon Ingolstadt",
+                  "text": "Centrul de informare de pe malul Dunării prezintă expoziții despre râu și ecologia regională.",
+                  "category": "museum",
+                  "coords": [
+                        11.410298,
+                        48.750704
+                  ]
+            },
+            {
+                  "name": "Wildpark",
+                  "text": "Un parc de animale spațios în Ingolstadt, unde speciile sălbatice native pot fi observate în mediul lor natural.",
+                  "category": "recreational",
+                  "coords": [
+                        11.390668,
+                        48.753114
+                  ]
+            },
+            {
+                  "name": "Luitpoldpark",
+                  "text": "O zonă verde generoasă în Ingolstadt, care servește ca spațiu de recreere cu alei pentru plimbare.",
+                  "category": "park",
+                  "coords": [
+                        11.42568,
+                        48.754816
+                  ]
+            },
+            {
+                  "name": "Pfeifturm",
+                  "text": "Fostul turn de veghe gotic din secolul al XIV-lea oferă o vedere panoramică asupra orașului Ingolstadt.",
+                  "category": "tower",
+                  "coords": [
+                        11.42459,
+                        48.763455
                   ]
             }
       ],
@@ -418,6 +904,168 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         11.4333,
                         48.7619
+                  ]
+            },
+            {
+                  "name": "Ingolstadt City Museum",
+                  "text": "Located in the Kavalier Hepp building, this museum displays the history of Ingolstadt from early times to the present.",
+                  "category": "museum",
+                  "coords": [
+                        11.416125,
+                        48.767447
+                  ]
+            },
+            {
+                  "name": "Museum für konkrete Kunst",
+                  "text": "A museum in Ingolstadt specializing in 20th-century concrete and constructive art.",
+                  "category": "museum",
+                  "coords": [
+                        11.427356,
+                        48.761717
+                  ]
+            },
+            {
+                  "name": "Bayerisches Polizeimuseum",
+                  "text": "The museum in Turm Triva documents the history of the Bavarian police.",
+                  "category": "museum",
+                  "coords": [
+                        11.435157,
+                        48.762391
+                  ]
+            },
+            {
+                  "name": "Heinrich-Stiefel-Schulmuseum",
+                  "text": "A museum exhibiting historical school materials and old teaching methods.",
+                  "category": "museum",
+                  "coords": [
+                        11.430337,
+                        48.758482
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "The major municipal theatre of Ingolstadt offers a wide range of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        11.428929,
+                        48.763212
+                  ]
+            },
+            {
+                  "name": "Lechner-Museum",
+                  "text": "The museum is dedicated to the works of steel sculptor Alf Lechner.",
+                  "category": "museum",
+                  "coords": [
+                        11.430426,
+                        48.76682
+                  ]
+            },
+            {
+                  "name": "Museum Mobile",
+                  "text": "Audi's museum presents the company's history and historic vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        11.413964,
+                        48.782789
+                  ]
+            },
+            {
+                  "name": "Herzogskasten",
+                  "text": "The 13th-century former ducal castle now houses the city library.",
+                  "category": "castle",
+                  "coords": [
+                        11.427518,
+                        48.763516
+                  ]
+            },
+            {
+                  "name": "Museum des Ersten Weltkriegs",
+                  "text": "The exhibition in Reduit Tilly focuses on the history of the First World War.",
+                  "category": "museum",
+                  "coords": [
+                        11.432039,
+                        48.761634
+                  ]
+            },
+            {
+                  "name": "Oldtimer",
+                  "text": "A collection of historic automobiles and classic vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        11.440077,
+                        48.758844
+                  ]
+            },
+            {
+                  "name": "Marieluise-Fleißer-Haus",
+                  "text": "The birth house of writer Marieluise Fleißer now serves as a literary museum.",
+                  "category": "museum",
+                  "coords": [
+                        11.422593,
+                        48.765005
+                  ]
+            },
+            {
+                  "name": "Freibad Ingolstadt",
+                  "text": "A public outdoor swimming pool with various basins and sunbathing areas.",
+                  "category": "recreational",
+                  "coords": [
+                        11.416672,
+                        48.762771
+                  ]
+            },
+            {
+                  "name": "Donautherme",
+                  "text": "A large thermal bath and water park located directly on the Danube.",
+                  "category": "recreational",
+                  "coords": [
+                        11.43841,
+                        48.762326
+                  ]
+            },
+            {
+                  "name": "Schutterhof",
+                  "text": "A former fortification site, today used for catering and events.",
+                  "category": "fortress",
+                  "coords": [
+                        11.416013,
+                        48.764015
+                  ]
+            },
+            {
+                  "name": "Donaupavillon Ingolstadt",
+                  "text": "This information center on the Danube features exhibitions about the river and regional ecology.",
+                  "category": "museum",
+                  "coords": [
+                        11.410298,
+                        48.750704
+                  ]
+            },
+            {
+                  "name": "Wildpark",
+                  "text": "A spacious wildlife park in Ingolstadt where native animal species can be observed in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        11.390668,
+                        48.753114
+                  ]
+            },
+            {
+                  "name": "Luitpoldpark",
+                  "text": "A large green space in Ingolstadt serving as a local recreation area with walking paths.",
+                  "category": "park",
+                  "coords": [
+                        11.42568,
+                        48.754816
+                  ]
+            },
+            {
+                  "name": "Pfeifturm",
+                  "text": "This 14th-century Gothic city watchtower offers a broad view over Ingolstadt.",
+                  "category": "tower",
+                  "coords": [
+                        11.42459,
+                        48.763455
                   ]
             }
       ],
@@ -611,6 +1259,96 @@ export const poiExtraDe1: POI[] = [
                         13.468423,
                         48.575105
                   ]
+            },
+            {
+                  "name": "Burgruine Hals",
+                  "text": "Eine mittelalterliche Burgruine, die malerisch auf einem Felsrücken über der Ilz liegt.",
+                  "category": "castle",
+                  "coords": [
+                        13.462207,
+                        48.591123
+                  ]
+            },
+            {
+                  "name": "RömerMuseum Kastell Boiotro - Passau",
+                  "text": "Das Museum präsentiert Funde aus der Römerzeit auf dem Gelände eines ehemaligen Grenzkastells.",
+                  "category": "museum",
+                  "coords": [
+                        13.462092,
+                        48.569877
+                  ]
+            },
+            {
+                  "name": "Schloss Freudenhain",
+                  "text": "Ein repräsentatives Schlossgebäude im Stil des Klassizismus, das heute für schulische Zwecke genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        13.449084,
+                        48.579323
+                  ]
+            },
+            {
+                  "name": "Neue Residenz",
+                  "text": "Ein prächtiger Barockbau, der einst als Residenz der Passauer Fürstbischöfe diente.",
+                  "category": "castle",
+                  "coords": [
+                        13.466895,
+                        48.574004
+                  ]
+            },
+            {
+                  "name": "Burg Reschenstein",
+                  "text": "Eine spätmittelalterliche Burg oberhalb der Ilz, die in Privatbesitz ist.",
+                  "category": "castle",
+                  "coords": [
+                        13.455457,
+                        48.596391
+                  ]
+            },
+            {
+                  "name": "Mittelalterliches Foltermuseum",
+                  "text": "Die Ausstellung zeigt Folterinstrumente und dokumentiert die Rechtsgeschichte des Mittelalters.",
+                  "category": "museum",
+                  "coords": [
+                        13.45834,
+                        48.577655
+                  ]
+            },
+            {
+                  "name": "Passauer Erlebnisbad (PEB)",
+                  "text": "Ein moderner Freizeitpark mit vielfältigen Bade- und Wellnessangeboten für alle Altersgruppen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.409341,
+                        48.558758
+                  ]
+            },
+            {
+                  "name": "Schaiblingsturm",
+                  "text": "Ein markanter spätmittelalterlicher Wehrturm, der direkt am Zusammenfluss von Inn und Donau in Passau steht.",
+                  "category": "tower",
+                  "coords": [
+                        13.471753,
+                        48.573183
+                  ]
+            },
+            {
+                  "name": "Alter Wehrturm",
+                  "text": "Ein erhaltener Teil der alten Passauer Wehranlagen, der die Geschichte der Stadtbefestigung dokumentiert.",
+                  "category": "tower",
+                  "coords": [
+                        13.467816,
+                        48.570403
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Passau",
+                  "text": "Ein 102 Meter hoher Fernmeldeturm im Passauer Stadtteil Haidenhof, der als markanter Orientierungspunkt dient.",
+                  "category": "tower",
+                  "coords": [
+                        13.433476,
+                        48.565471
+                  ]
             }
       ],
       "hu": [
@@ -672,6 +1410,96 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         13.468423,
                         48.575105
+                  ]
+            },
+            {
+                  "name": "Burgruine Hals",
+                  "text": "Középkori várrom, amely festői módon egy sziklaháton magasodik az Ilz folyó felett.",
+                  "category": "castle",
+                  "coords": [
+                        13.462207,
+                        48.591123
+                  ]
+            },
+            {
+                  "name": "RömerMuseum Kastell Boiotro - Passau",
+                  "text": "A múzeum a római korból származó leleteket mutat be egy egykori határmenti erőd területén.",
+                  "category": "museum",
+                  "coords": [
+                        13.462092,
+                        48.569877
+                  ]
+            },
+            {
+                  "name": "Schloss Freudenhain",
+                  "text": "Klasszicista stílusú, reprezentatív kastélyépület, amelyet ma oktatási célokra használnak.",
+                  "category": "castle",
+                  "coords": [
+                        13.449084,
+                        48.579323
+                  ]
+            },
+            {
+                  "name": "Neue Residenz",
+                  "text": "Pompás barokk épület, amely egykor a passaui hercegpüspökök rezidenciájaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        13.466895,
+                        48.574004
+                  ]
+            },
+            {
+                  "name": "Burg Reschenstein",
+                  "text": "Késő középkori vár az Ilz folyó felett, amely magántulajdonban van.",
+                  "category": "castle",
+                  "coords": [
+                        13.455457,
+                        48.596391
+                  ]
+            },
+            {
+                  "name": "Mittelalterliches Foltermuseum",
+                  "text": "A kiállítás kínzóeszközöket mutat be és dokumentálja a középkori jogtörténetet.",
+                  "category": "museum",
+                  "coords": [
+                        13.45834,
+                        48.577655
+                  ]
+            },
+            {
+                  "name": "Passauer Erlebnisbad (PEB)",
+                  "text": "Modern szabadidős központ változatos fürdő- és wellness-szolgáltatásokkal minden korosztálynak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.409341,
+                        48.558758
+                  ]
+            },
+            {
+                  "name": "Schaiblingsturm",
+                  "text": "Jellegzetes késő középkori védőtorony Passauban, amely közvetlenül az Inn és a Duna összefolyásánál található.",
+                  "category": "tower",
+                  "coords": [
+                        13.471753,
+                        48.573183
+                  ]
+            },
+            {
+                  "name": "Alter Wehrturm",
+                  "text": "A régi passaui védművek fennmaradt része, amely a város erődítésének történelmét őrzi.",
+                  "category": "tower",
+                  "coords": [
+                        13.467816,
+                        48.570403
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Passau",
+                  "text": "Egy 102 méter magas távközlési torony Passau Haidenhof negyedében, amely jellegzetes tájékozódási pont.",
+                  "category": "tower",
+                  "coords": [
+                        13.433476,
+                        48.565471
                   ]
             }
       ],
@@ -735,6 +1563,96 @@ export const poiExtraDe1: POI[] = [
                         13.468423,
                         48.575105
                   ]
+            },
+            {
+                  "name": "Burgruine Hals",
+                  "text": "Ruina unui castel medieval situată pitoresc pe o creastă stâncoasă deasupra râului Ilz.",
+                  "category": "castle",
+                  "coords": [
+                        13.462207,
+                        48.591123
+                  ]
+            },
+            {
+                  "name": "RömerMuseum Kastell Boiotro - Passau",
+                  "text": "Muzeul prezintă descoperiri din epoca romană pe situl unui fost castru de frontieră.",
+                  "category": "museum",
+                  "coords": [
+                        13.462092,
+                        48.569877
+                  ]
+            },
+            {
+                  "name": "Schloss Freudenhain",
+                  "text": "O clădire reprezentativă în stil clasicist, utilizată astăzi în scopuri educaționale.",
+                  "category": "castle",
+                  "coords": [
+                        13.449084,
+                        48.579323
+                  ]
+            },
+            {
+                  "name": "Neue Residenz",
+                  "text": "O clădire barocă somptuoasă care a servit drept reședință pentru prinții-episcopi din Passau.",
+                  "category": "castle",
+                  "coords": [
+                        13.466895,
+                        48.574004
+                  ]
+            },
+            {
+                  "name": "Burg Reschenstein",
+                  "text": "Un castel din perioada medievală târzie situat deasupra râului Ilz, aflat în proprietate privată.",
+                  "category": "castle",
+                  "coords": [
+                        13.455457,
+                        48.596391
+                  ]
+            },
+            {
+                  "name": "Mittelalterliches Foltermuseum",
+                  "text": "Expoziția prezintă instrumente de tortură și documentează istoria juridică a evului mediu.",
+                  "category": "museum",
+                  "coords": [
+                        13.45834,
+                        48.577655
+                  ]
+            },
+            {
+                  "name": "Passauer Erlebnisbad (PEB)",
+                  "text": "Un parc de agrement modern cu diverse oferte de înot și wellness pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        13.409341,
+                        48.558758
+                  ]
+            },
+            {
+                  "name": "Schaiblingsturm",
+                  "text": "Un turn de apărare medieval târziu proeminent, situat chiar la confluența râurilor Inn și Dunărea în Passau.",
+                  "category": "tower",
+                  "coords": [
+                        13.471753,
+                        48.573183
+                  ]
+            },
+            {
+                  "name": "Alter Wehrturm",
+                  "text": "O parte conservată a vechilor instalații de apărare din Passau, care documentează istoria fortificațiilor orașului.",
+                  "category": "tower",
+                  "coords": [
+                        13.467816,
+                        48.570403
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Passau",
+                  "text": "Un turn de telecomunicații de 102 metri înălțime din cartierul Haidenhof al orașului Passau, servind ca punct de reper.",
+                  "category": "tower",
+                  "coords": [
+                        13.433476,
+                        48.565471
+                  ]
             }
       ],
       "en": [
@@ -796,6 +1714,96 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         13.468423,
                         48.575105
+                  ]
+            },
+            {
+                  "name": "Burgruine Hals",
+                  "text": "A medieval castle ruin picturesquely situated on a rocky ridge above the river Ilz.",
+                  "category": "castle",
+                  "coords": [
+                        13.462207,
+                        48.591123
+                  ]
+            },
+            {
+                  "name": "RömerMuseum Kastell Boiotro - Passau",
+                  "text": "The museum presents finds from the Roman era on the site of a former border fort.",
+                  "category": "museum",
+                  "coords": [
+                        13.462092,
+                        48.569877
+                  ]
+            },
+            {
+                  "name": "Schloss Freudenhain",
+                  "text": "A representative palace building in the Neoclassical style, currently used for educational purposes.",
+                  "category": "castle",
+                  "coords": [
+                        13.449084,
+                        48.579323
+                  ]
+            },
+            {
+                  "name": "Neue Residenz",
+                  "text": "A magnificent Baroque building that once served as the residence of the Passau prince-bishops.",
+                  "category": "castle",
+                  "coords": [
+                        13.466895,
+                        48.574004
+                  ]
+            },
+            {
+                  "name": "Burg Reschenstein",
+                  "text": "A late medieval castle overlooking the river Ilz, which is privately owned.",
+                  "category": "castle",
+                  "coords": [
+                        13.455457,
+                        48.596391
+                  ]
+            },
+            {
+                  "name": "Mittelalterliches Foltermuseum",
+                  "text": "The exhibition displays torture instruments and documents the legal history of the Middle Ages.",
+                  "category": "museum",
+                  "coords": [
+                        13.45834,
+                        48.577655
+                  ]
+            },
+            {
+                  "name": "Passauer Erlebnisbad (PEB)",
+                  "text": "A modern leisure park offering various swimming and wellness facilities for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        13.409341,
+                        48.558758
+                  ]
+            },
+            {
+                  "name": "Schaiblingsturm",
+                  "text": "A prominent late medieval defensive tower standing directly at the confluence of the Inn and Danube rivers in Passau.",
+                  "category": "tower",
+                  "coords": [
+                        13.471753,
+                        48.573183
+                  ]
+            },
+            {
+                  "name": "Alter Wehrturm",
+                  "text": "A preserved part of the old Passau defense systems, documenting the history of the city's fortifications.",
+                  "category": "tower",
+                  "coords": [
+                        13.467816,
+                        48.570403
+                  ]
+            },
+            {
+                  "name": "Fernmeldeturm Passau",
+                  "text": "A 102-meter-high telecommunication tower in the Haidenhof district of Passau, serving as a prominent landmark.",
+                  "category": "tower",
+                  "coords": [
+                        13.433476,
+                        48.565471
                   ]
             }
       ],
@@ -1627,6 +2635,240 @@ export const poiExtraDe1: POI[] = [
                         7.603611,
                         51.949444
                   ]
+            },
+            {
+                  "name": "Wolfgang-Borchert-Theater",
+                  "text": "Eines der ältesten privaten Theater Deutschlands mit einem vielfältigen modernen Spielplan.",
+                  "category": "cultural",
+                  "coords": [
+                        7.640078,
+                        51.951181
+                  ]
+            },
+            {
+                  "name": "Bibelmuseum",
+                  "text": "Das Museum präsentiert eine bedeutende Sammlung historischer Bibelausgaben und Texte.",
+                  "category": "museum",
+                  "coords": [
+                        7.623497,
+                        51.961223
+                  ]
+            },
+            {
+                  "name": "LWL-Museum für Naturkunde",
+                  "text": "Ein großes Naturkundemuseum mit Planetarium, das Einblicke in die Flora und Fauna Westfalens bietet.",
+                  "category": "museum",
+                  "coords": [
+                        7.591216,
+                        51.949433
+                  ]
+            },
+            {
+                  "name": "Mühlenhof Freilichtmuseum",
+                  "text": "Ein Freilichtmuseum, das historische ländliche Gebäude und das frühere Leben in Westfalen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.599163,
+                        51.950055
+                  ]
+            },
+            {
+                  "name": "Hallenbad Mitte",
+                  "text": "Ein zentral gelegenes Hallenbad in Münster für Schwimmkurse und sportliche Freizeitgestaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        7.616274,
+                        51.959735
+                  ]
+            },
+            {
+                  "name": "Bischöfliches Palais",
+                  "text": "Die barocke Residenz des Bischofs von Münster, ein bedeutendes Baudenkmal der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        7.623997,
+                        51.963124
+                  ]
+            },
+            {
+                  "name": "Picassomuseum",
+                  "text": "Das weltweit erste Picasso-Museum für Lithografien, untergebracht in einem historischen Adelshof.",
+                  "category": "museum",
+                  "coords": [
+                        7.626379,
+                        51.960217
+                  ]
+            },
+            {
+                  "name": "Theater Münster",
+                  "text": "Das städtische Mehrspartentheater bietet ein breites Programm von Oper über Schauspiel bis hin zu Tanz und Konzerten.",
+                  "category": "cultural",
+                  "coords": [
+                        7.629564,
+                        51.964824
+                  ]
+            },
+            {
+                  "name": "Pumpenhaus",
+                  "text": "Das erste freie Theater Nordrhein-Westfalens ist heute ein bedeutendes Zentrum für zeitgenössischen Tanz und Performance.",
+                  "category": "cultural",
+                  "coords": [
+                        7.636104,
+                        51.973315
+                  ]
+            },
+            {
+                  "name": "Erbdrostenhof",
+                  "text": "Ein prachtvolles barockes Adelspalais, das Mitte des 18. Jahrhunderts nach Plänen von Johann Conrad Schlaun erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        7.632157,
+                        51.960922
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Das Museum dokumentiert die Stadtgeschichte von Münster in zahlreichen Ausstellungen von den Anfängen bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        7.63311,
+                        51.960756
+                  ]
+            },
+            {
+                  "name": "Oerscher Hof",
+                  "text": "Ein historischer Adelshof in der Altstadt, der als bedeutendes Werk des Barockarchitekten Johann Conrad Schlaun gilt.",
+                  "category": "castle",
+                  "coords": [
+                        7.62602,
+                        51.958142
+                  ]
+            },
+            {
+                  "name": "Der Kleine Bühnenboden",
+                  "text": "Ein kleines Kammertheater, das für seine persönliche Atmosphäre und vielfältigen Eigenproduktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        7.641147,
+                        51.955704
+                  ]
+            },
+            {
+                  "name": "Pferdemuseum",
+                  "text": "Das Westfälische Pferdemuseum im Allwetterzoo zeigt die Geschichte und Bedeutung der Pferde für die Region.",
+                  "category": "museum",
+                  "coords": [
+                        7.5877,
+                        51.947452
+                  ]
+            },
+            {
+                  "name": "Villa ten Hompel",
+                  "text": "Diese ehemalige Villa dient heute als Museum und Gedenkstätte zur Erforschung der NS-Geschichte der Ordnungspolizei.",
+                  "category": "museum",
+                  "coords": [
+                        7.646576,
+                        51.966256
+                  ]
+            },
+            {
+                  "name": "Aa-Aue",
+                  "text": "Ein idyllisches Naturschutzgebiet am Ufer der Münsterschen Aa, das zum Wandern und Erholen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        7.558016,
+                        51.959104
+                  ]
+            },
+            {
+                  "name": "Alter Fussgängertunnel",
+                  "text": "Ein historischer Fußgängertunnel, der als Ausstellungsort für zeitgenössische Kunstinstallationen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        7.617359,
+                        51.962858
+                  ]
+            },
+            {
+                  "name": "Internationales Kinderspielzeugmuseum Münster",
+                  "text": "Das Museum präsentiert eine internationale Sammlung von historischem Spielzeug und Kindheitserinnerungen.",
+                  "category": "museum",
+                  "coords": [
+                        7.628818,
+                        51.957845
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Münster",
+                  "text": "Ein Ort für zeitgenössische Kunst, der wechselnde Ausstellungen nationaler und internationaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.644271,
+                        51.951982
+                  ]
+            },
+            {
+                  "name": "Südpark",
+                  "text": "Ein beliebter Stadtpark im Süden von Münster mit Grünflächen und Spielplätzen.",
+                  "category": "park",
+                  "coords": [
+                        7.62781,
+                        51.948802
+                  ]
+            },
+            {
+                  "name": "Kreuzschanze",
+                  "text": "Eine historische Parkanlage in Münster, die auf ehemaligen Befestigungsanlagen entstand.",
+                  "category": "park",
+                  "coords": [
+                        7.620722,
+                        51.967276
+                  ]
+            },
+            {
+                  "name": "Wienburgpark",
+                  "text": "Ein weitläufiger Landschaftspark im Norden von Münster mit Teichen und Wanderwegen.",
+                  "category": "park",
+                  "coords": [
+                        7.626964,
+                        51.981207
+                  ]
+            },
+            {
+                  "name": "Hörsterplatz",
+                  "text": "Ein zentraler Platz und Parkbereich in Münster nahe der historischen Altstadt.",
+                  "category": "park",
+                  "coords": [
+                        7.634847,
+                        51.966092
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Der 1803 gegründete botanische Garten der Universität Münster beherbergt diverse Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        7.609639,
+                        51.963823
+                  ]
+            },
+            {
+                  "name": "Buddenturm",
+                  "text": "Der Buddenturm ist der älteste noch erhaltene Teil der ehemaligen Stadtbefestigung von Münster.",
+                  "category": "tower",
+                  "coords": [
+                        7.623088,
+                        51.966302
+                  ]
+            },
+            {
+                  "name": "Dominikanerkirche",
+                  "text": "Eine barocke Kirche in Münster, die für ihre beeindruckende Architektur und Akustik bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.63082,
+                        51.962023
+                  ]
             }
       ],
       "hu": [
@@ -1706,6 +2948,240 @@ export const poiExtraDe1: POI[] = [
                         7.603611,
                         51.949444
                   ]
+            },
+            {
+                  "name": "Wolfgang-Borchert-Theater",
+                  "text": "Németország egyik legrégebbi magánszínháza, változatos kortárs repertoárral Münsterben.",
+                  "category": "cultural",
+                  "coords": [
+                        7.640078,
+                        51.951181
+                  ]
+            },
+            {
+                  "name": "Bibelmuseum",
+                  "text": "A múzeum történelmi Bibliák és szövegek jelentős gyűjteményét mutatja be Münsterben.",
+                  "category": "museum",
+                  "coords": [
+                        7.623497,
+                        51.961223
+                  ]
+            },
+            {
+                  "name": "LWL-Museum für Naturkunde",
+                  "text": "Nagy természettudományi múzeum planetáriummal, amely Vesztfália élővilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.591216,
+                        51.949433
+                  ]
+            },
+            {
+                  "name": "Mühlenhof Freilichtmuseum",
+                  "text": "Szabadtéri néprajzi múzeum, amely Vesztfália történelmi vidéki épületeit és életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.599163,
+                        51.950055
+                  ]
+            },
+            {
+                  "name": "Hallenbad Mitte",
+                  "text": "Központi fekvésű fedett uszoda Münsterben, úszásoktatásra és sportolásra.",
+                  "category": "recreational",
+                  "coords": [
+                        7.616274,
+                        51.959735
+                  ]
+            },
+            {
+                  "name": "Bischöfliches Palais",
+                  "text": "A münsteri püspök barokk rezidenciája, a város egyik jelentős műemléke.",
+                  "category": "castle",
+                  "coords": [
+                        7.623997,
+                        51.963124
+                  ]
+            },
+            {
+                  "name": "Picassomuseum",
+                  "text": "A világ első Picasso-litográfiai múzeuma, amely egy történelmi münsteri kúriában található.",
+                  "category": "museum",
+                  "coords": [
+                        7.626379,
+                        51.960217
+                  ]
+            },
+            {
+                  "name": "Theater Münster",
+                  "text": "A városi többszakos színház széles programot kínál az operától a drámán át a táncig és a koncertekig.",
+                  "category": "cultural",
+                  "coords": [
+                        7.629564,
+                        51.964824
+                  ]
+            },
+            {
+                  "name": "Pumpenhaus",
+                  "text": "Észak-Rajna-Vesztfália első független színháza ma a kortárs tánc és performansz jelentős központja.",
+                  "category": "cultural",
+                  "coords": [
+                        7.636104,
+                        51.973315
+                  ]
+            },
+            {
+                  "name": "Erbdrostenhof",
+                  "text": "Pompás barokk nemesi palota, amely a 18. század közepén épült Johann Conrad Schlaun tervei alapján.",
+                  "category": "castle",
+                  "coords": [
+                        7.632157,
+                        51.960922
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "A múzeum Münster városának történetét dokumentálja számos kiállításon keresztül a kezdetektől napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        7.63311,
+                        51.960756
+                  ]
+            },
+            {
+                  "name": "Oerscher Hof",
+                  "text": "Történelmi nemesi udvar az óvárosban, amely Johann Conrad Schlaun barokk építész jelentős alkotásának számít.",
+                  "category": "castle",
+                  "coords": [
+                        7.62602,
+                        51.958142
+                  ]
+            },
+            {
+                  "name": "Der Kleine Bühnenboden",
+                  "text": "Kis kamaraszínház, amely személyes hangulatáról és változatos saját produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.641147,
+                        51.955704
+                  ]
+            },
+            {
+                  "name": "Pferdemuseum",
+                  "text": "Az Allwetterzoo területén található lovas múzeum a lovak régióbeli történetét és jelentőségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.5877,
+                        51.947452
+                  ]
+            },
+            {
+                  "name": "Villa ten Hompel",
+                  "text": "Ez az egykori villa ma múzeumként és emlékhelyként szolgál, a rendőrség náci múltjának kutatására.",
+                  "category": "museum",
+                  "coords": [
+                        7.646576,
+                        51.966256
+                  ]
+            },
+            {
+                  "name": "Aa-Aue",
+                  "text": "Idilli természetvédelmi terület a Münstersche Aa partján, amely túrázásra és kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        7.558016,
+                        51.959104
+                  ]
+            },
+            {
+                  "name": "Alter Fussgängertunnel",
+                  "text": "Történelmi gyalogos alagút, amelyet kortárs művészeti installációk kiállítóhelyeként használnak.",
+                  "category": "museum",
+                  "coords": [
+                        7.617359,
+                        51.962858
+                  ]
+            },
+            {
+                  "name": "Internationales Kinderspielzeugmuseum Münster",
+                  "text": "A múzeum történelmi játékok és gyermekkori emlékek nemzetközi gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.628818,
+                        51.957845
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Münster",
+                  "text": "Kortárs művészeti helyszín, amely hazai és nemzetközi művészek időszaki kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.644271,
+                        51.951982
+                  ]
+            },
+            {
+                  "name": "Südpark",
+                  "text": "Népszerű városi park Münster déli részén, zöldfelületekkel és játszóterekkel.",
+                  "category": "park",
+                  "coords": [
+                        7.62781,
+                        51.948802
+                  ]
+            },
+            {
+                  "name": "Kreuzschanze",
+                  "text": "Történelmi park Münsterben, amely a korábbi erődítmények helyén jött létre.",
+                  "category": "park",
+                  "coords": [
+                        7.620722,
+                        51.967276
+                  ]
+            },
+            {
+                  "name": "Wienburgpark",
+                  "text": "Kiterjedt tájpark Münster északi részén tavakkal és sétautakkal.",
+                  "category": "park",
+                  "coords": [
+                        7.626964,
+                        51.981207
+                  ]
+            },
+            {
+                  "name": "Hörsterplatz",
+                  "text": "Központi tér és park Münsterben, a történelmi óváros közelében.",
+                  "category": "park",
+                  "coords": [
+                        7.634847,
+                        51.966092
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "A Münsteri Egyetem 1803-ban alapított botanikus kertje változatos növényfajoknak ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        7.609639,
+                        51.963823
+                  ]
+            },
+            {
+                  "name": "Buddenturm",
+                  "text": "A Buddenturm Münster egykori városi erődítményének legidősebb fennmaradt része.",
+                  "category": "tower",
+                  "coords": [
+                        7.623088,
+                        51.966302
+                  ]
+            },
+            {
+                  "name": "Dominikanerkirche",
+                  "text": "Barokk templom Münsterben, amely lenyűgöző építészetéről és akusztikájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.63082,
+                        51.962023
+                  ]
             }
       ],
       "ro": [
@@ -1777,6 +3253,240 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         7.603611,
                         51.949444
+                  ]
+            },
+            {
+                  "name": "Wolfgang-Borchert-Theater",
+                  "text": "Unul dintre cele mai vechi teatre private din Germania, oferind un program modern variat în Münster.",
+                  "category": "cultural",
+                  "coords": [
+                        7.640078,
+                        51.951181
+                  ]
+            },
+            {
+                  "name": "Bibelmuseum",
+                  "text": "Muzeul prezintă o colecție importantă de ediții istorice ale Bibliei și texte religioase.",
+                  "category": "museum",
+                  "coords": [
+                        7.623497,
+                        51.961223
+                  ]
+            },
+            {
+                  "name": "LWL-Museum für Naturkunde",
+                  "text": "Un muzeu mare de istorie naturală cu planetariu, oferind detalii despre flora și fauna Westfaliei.",
+                  "category": "museum",
+                  "coords": [
+                        7.591216,
+                        51.949433
+                  ]
+            },
+            {
+                  "name": "Mühlenhof Freilichtmuseum",
+                  "text": "Un muzeu în aer liber care expune clădiri rurale istorice și viața de demult din Westfalia.",
+                  "category": "museum",
+                  "coords": [
+                        7.599163,
+                        51.950055
+                  ]
+            },
+            {
+                  "name": "Hallenbad Mitte",
+                  "text": "O piscină acoperită situată central în Münster, ideală pentru cursuri de înot și recreere sportivă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.616274,
+                        51.959735
+                  ]
+            },
+            {
+                  "name": "Bischöfliches Palais",
+                  "text": "Reședința barocă a episcopului de Münster, un monument arhitectural important al orașului.",
+                  "category": "castle",
+                  "coords": [
+                        7.623997,
+                        51.963124
+                  ]
+            },
+            {
+                  "name": "Picassomuseum",
+                  "text": "Primul muzeu din lume dedicat litografiilor lui Picasso, găzduit într-o clădire istorică din Münster.",
+                  "category": "museum",
+                  "coords": [
+                        7.626379,
+                        51.960217
+                  ]
+            },
+            {
+                  "name": "Theater Münster",
+                  "text": "Teatrul municipal oferă un program variat, de la operă și teatru până la spectacole de dans și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        7.629564,
+                        51.964824
+                  ]
+            },
+            {
+                  "name": "Pumpenhaus",
+                  "text": "Primul teatru independent din Renania de Nord-Westfalia este astăzi un centru important pentru dans contemporan și performance.",
+                  "category": "cultural",
+                  "coords": [
+                        7.636104,
+                        51.973315
+                  ]
+            },
+            {
+                  "name": "Erbdrostenhof",
+                  "text": "Un splendid palat nobiliar baroc, construit la mijlocul secolului al XVIII-lea după planurile lui Johann Conrad Schlaun.",
+                  "category": "castle",
+                  "coords": [
+                        7.632157,
+                        51.960922
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Muzeul documentează istoria orașului Münster prin numeroase expoziții, de la începuturi până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        7.63311,
+                        51.960756
+                  ]
+            },
+            {
+                  "name": "Oerscher Hof",
+                  "text": "O curte nobiliară istorică din centrul vechi, considerată o lucrare importantă a arhitectului baroc Johann Conrad Schlaun.",
+                  "category": "castle",
+                  "coords": [
+                        7.62602,
+                        51.958142
+                  ]
+            },
+            {
+                  "name": "Der Kleine Bühnenboden",
+                  "text": "Un teatru de cameră mic, cunoscut pentru atmosfera sa personală și producțiile proprii variate.",
+                  "category": "cultural",
+                  "coords": [
+                        7.641147,
+                        51.955704
+                  ]
+            },
+            {
+                  "name": "Pferdemuseum",
+                  "text": "Muzeul calului din cadrul Allwetterzoo prezintă istoria și importanța cailor pentru această regiune.",
+                  "category": "museum",
+                  "coords": [
+                        7.5877,
+                        51.947452
+                  ]
+            },
+            {
+                  "name": "Villa ten Hompel",
+                  "text": "Această fostă vilă servește astăzi ca muzeu și memorial pentru cercetarea istoriei naziste a poliției de ordine.",
+                  "category": "museum",
+                  "coords": [
+                        7.646576,
+                        51.966256
+                  ]
+            },
+            {
+                  "name": "Aa-Aue",
+                  "text": "O rezervație naturală idilică pe malul râului Münstersche Aa, care invită la drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        7.558016,
+                        51.959104
+                  ]
+            },
+            {
+                  "name": "Alter Fussgängertunnel",
+                  "text": "Un tunel pietonal istoric, utilizat ca spațiu de expoziție pentru instalații de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        7.617359,
+                        51.962858
+                  ]
+            },
+            {
+                  "name": "Internationales Kinderspielzeugmuseum Münster",
+                  "text": "Muzeul prezintă o colecție internațională de jucării istorice și amintiri din copilărie.",
+                  "category": "museum",
+                  "coords": [
+                        7.628818,
+                        51.957845
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Münster",
+                  "text": "Un spațiu pentru artă contemporană, care prezintă expoziții temporare ale unor artiști naționali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        7.644271,
+                        51.951982
+                  ]
+            },
+            {
+                  "name": "Südpark",
+                  "text": "Un parc municipal popular în sudul orașului Münster, cu spații verzi și locuri de joacă.",
+                  "category": "park",
+                  "coords": [
+                        7.62781,
+                        51.948802
+                  ]
+            },
+            {
+                  "name": "Kreuzschanze",
+                  "text": "O zonă de parc istorică în Münster, creată pe locul fostelor fortificații.",
+                  "category": "park",
+                  "coords": [
+                        7.620722,
+                        51.967276
+                  ]
+            },
+            {
+                  "name": "Wienburgpark",
+                  "text": "Un parc peisagistic vast în nordul orașului Münster, cu iazuri și trasee de drumeție.",
+                  "category": "park",
+                  "coords": [
+                        7.626964,
+                        51.981207
+                  ]
+            },
+            {
+                  "name": "Hörsterplatz",
+                  "text": "O piață centrală și zonă de parc în Münster, aproape de centrul istoric.",
+                  "category": "park",
+                  "coords": [
+                        7.634847,
+                        51.966092
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Grădina botanică a Universității din Münster, fondată în 1803, adăpostește diverse specii de plante.",
+                  "category": "park",
+                  "coords": [
+                        7.609639,
+                        51.963823
+                  ]
+            },
+            {
+                  "name": "Buddenturm",
+                  "text": "Buddenturm este cea mai veche parte conservată a fostelor fortificații ale orașului Münster.",
+                  "category": "tower",
+                  "coords": [
+                        7.623088,
+                        51.966302
+                  ]
+            },
+            {
+                  "name": "Dominikanerkirche",
+                  "text": "O biserică barocă din Münster, cunoscută pentru arhitectura și acustica sa impresionantă.",
+                  "category": "religious",
+                  "coords": [
+                        7.63082,
+                        51.962023
                   ]
             }
       ],
@@ -1856,6 +3566,240 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         7.603611,
                         51.949444
+                  ]
+            },
+            {
+                  "name": "Wolfgang-Borchert-Theater",
+                  "text": "One of Germany's oldest private theaters, featuring a diverse modern repertoire in Münster.",
+                  "category": "cultural",
+                  "coords": [
+                        7.640078,
+                        51.951181
+                  ]
+            },
+            {
+                  "name": "Bibelmuseum",
+                  "text": "The museum presents a significant collection of historical Bible editions and religious texts.",
+                  "category": "museum",
+                  "coords": [
+                        7.623497,
+                        51.961223
+                  ]
+            },
+            {
+                  "name": "LWL-Museum für Naturkunde",
+                  "text": "A large natural history museum and planetarium exploring the flora and fauna of Westphalia.",
+                  "category": "museum",
+                  "coords": [
+                        7.591216,
+                        51.949433
+                  ]
+            },
+            {
+                  "name": "Mühlenhof Freilichtmuseum",
+                  "text": "An open-air museum showcasing historic rural buildings and traditional life in Westphalia.",
+                  "category": "museum",
+                  "coords": [
+                        7.599163,
+                        51.950055
+                  ]
+            },
+            {
+                  "name": "Hallenbad Mitte",
+                  "text": "A centrally located indoor swimming pool in Münster used for lessons and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        7.616274,
+                        51.959735
+                  ]
+            },
+            {
+                  "name": "Bischöfliches Palais",
+                  "text": "The Baroque residence of the Bishop of Münster, a significant architectural landmark of the city.",
+                  "category": "castle",
+                  "coords": [
+                        7.623997,
+                        51.963124
+                  ]
+            },
+            {
+                  "name": "Picassomuseum",
+                  "text": "The world's first museum dedicated to Picasso's lithographs, located in a historic mansion.",
+                  "category": "museum",
+                  "coords": [
+                        7.626379,
+                        51.960217
+                  ]
+            },
+            {
+                  "name": "Theater Münster",
+                  "text": "The municipal multi-genre theatre offers a wide program ranging from opera and drama to dance and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        7.629564,
+                        51.964824
+                  ]
+            },
+            {
+                  "name": "Pumpenhaus",
+                  "text": "The first independent theatre in North Rhine-Westphalia is now a significant center for contemporary dance and performance.",
+                  "category": "cultural",
+                  "coords": [
+                        7.636104,
+                        51.973315
+                  ]
+            },
+            {
+                  "name": "Erbdrostenhof",
+                  "text": "A magnificent Baroque noble palace built in the mid-18th century according to plans by Johann Conrad Schlaun.",
+                  "category": "castle",
+                  "coords": [
+                        7.632157,
+                        51.960922
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "The museum documents the history of the city of Münster in numerous exhibitions from its beginnings to the present day.",
+                  "category": "museum",
+                  "coords": [
+                        7.63311,
+                        51.960756
+                  ]
+            },
+            {
+                  "name": "Oerscher Hof",
+                  "text": "A historical noble court in the old town, considered a significant work by the Baroque architect Johann Conrad Schlaun.",
+                  "category": "castle",
+                  "coords": [
+                        7.62602,
+                        51.958142
+                  ]
+            },
+            {
+                  "name": "Der Kleine Bühnenboden",
+                  "text": "A small chamber theatre known for its personal atmosphere and diverse in-house productions.",
+                  "category": "cultural",
+                  "coords": [
+                        7.641147,
+                        51.955704
+                  ]
+            },
+            {
+                  "name": "Pferdemuseum",
+                  "text": "The Westphalian Horse Museum at the Allwetterzoo shows the history and significance of horses for the region.",
+                  "category": "museum",
+                  "coords": [
+                        7.5877,
+                        51.947452
+                  ]
+            },
+            {
+                  "name": "Villa ten Hompel",
+                  "text": "This former villa now serves as a museum and memorial dedicated to researching the Nazi history of the police.",
+                  "category": "museum",
+                  "coords": [
+                        7.646576,
+                        51.966256
+                  ]
+            },
+            {
+                  "name": "Aa-Aue",
+                  "text": "An idyllic nature reserve on the banks of the Münstersche Aa river, inviting visitors for hiking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        7.558016,
+                        51.959104
+                  ]
+            },
+            {
+                  "name": "Alter Fussgängertunnel",
+                  "text": "A historical pedestrian tunnel used as an exhibition space for contemporary art installations.",
+                  "category": "museum",
+                  "coords": [
+                        7.617359,
+                        51.962858
+                  ]
+            },
+            {
+                  "name": "Internationales Kinderspielzeugmuseum Münster",
+                  "text": "The museum presents an international collection of historical toys and childhood memories.",
+                  "category": "museum",
+                  "coords": [
+                        7.628818,
+                        51.957845
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Münster",
+                  "text": "A venue for contemporary art that hosts rotating exhibitions of national and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        7.644271,
+                        51.951982
+                  ]
+            },
+            {
+                  "name": "Südpark",
+                  "text": "A popular city park in the south of Münster with green spaces and playgrounds.",
+                  "category": "park",
+                  "coords": [
+                        7.62781,
+                        51.948802
+                  ]
+            },
+            {
+                  "name": "Kreuzschanze",
+                  "text": "A historical park area in Münster, created on the site of former fortifications.",
+                  "category": "park",
+                  "coords": [
+                        7.620722,
+                        51.967276
+                  ]
+            },
+            {
+                  "name": "Wienburgpark",
+                  "text": "A spacious landscape park in the north of Münster with ponds and walking trails.",
+                  "category": "park",
+                  "coords": [
+                        7.626964,
+                        51.981207
+                  ]
+            },
+            {
+                  "name": "Hörsterplatz",
+                  "text": "A central square and park area in Münster near the historic old town.",
+                  "category": "park",
+                  "coords": [
+                        7.634847,
+                        51.966092
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "The botanical garden of the University of Münster, founded in 1803, houses diverse plant species.",
+                  "category": "park",
+                  "coords": [
+                        7.609639,
+                        51.963823
+                  ]
+            },
+            {
+                  "name": "Buddenturm",
+                  "text": "The Buddenturm is the oldest preserved part of Münster's former city fortifications.",
+                  "category": "tower",
+                  "coords": [
+                        7.623088,
+                        51.966302
+                  ]
+            },
+            {
+                  "name": "Dominikanerkirche",
+                  "text": "A Baroque church in Münster known for its impressive architecture and acoustics.",
+                  "category": "religious",
+                  "coords": [
+                        7.63082,
+                        51.962023
                   ]
             }
       ],
@@ -3046,6 +4990,267 @@ export const poiExtraDe1: POI[] = [
                         9.99481,
                         48.397
                   ]
+            },
+            {
+                  "name": "Theater Neu-Ulm",
+                  "text": "Ein privates Theater in Neu-Ulm, das für seine zeitgenössischen Inszenierungen und Komödien bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        9.997583,
+                        48.39427
+                  ]
+            },
+            {
+                  "name": "Museum Brot und Kunst",
+                  "text": "Das Museum im Salzstadel widmet sich der Geschichte des Brotes als Grundlage menschlicher Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        9.990127,
+                        48.40095
+                  ]
+            },
+            {
+                  "name": "Naturmuseum Ulm",
+                  "text": "Das Museum präsentiert die Naturgeschichte der Region Ulm und Ausstellungen zur lokalen Geologie.",
+                  "category": "museum",
+                  "coords": [
+                        9.995717,
+                        48.399878
+                  ]
+            },
+            {
+                  "name": "Donauschwäbisches Zentralmuseum",
+                  "text": "Das Museum dokumentiert die Geschichte und Kultur der Donauschwaben im südöstlichen Europa.",
+                  "category": "museum",
+                  "coords": [
+                        9.984918,
+                        48.392437
+                  ]
+            },
+            {
+                  "name": "Caponniere 8",
+                  "text": "Ein historisches Festungswerk der Bundesfestung Ulm, das heute für kulturelle Zwecke genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        9.991268,
+                        48.390052
+                  ]
+            },
+            {
+                  "name": "Tiergarten Ulm",
+                  "text": "Der Zoo in der Friedrichsau zeigt neben heimischen Tieren auch exotische Fische und Reptilien im Tropenhaus.",
+                  "category": "recreational",
+                  "coords": [
+                        10.011384,
+                        48.409802
+                  ]
+            },
+            {
+                  "name": "Edwin-Scharff-Museum",
+                  "text": "Das Kunstmuseum in Neu-Ulm zeigt Werke des Bildhauers Edwin Scharff und wechselnde Sonderausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        9.999124,
+                        48.393611
+                  ]
+            },
+            {
+                  "name": "Örlinger Turm (Werk XXXVIII)",
+                  "text": "Ein historischer Festungsturm der Bundesfestung Ulm, der als Teil der Außenwerke dient.",
+                  "category": "castle",
+                  "coords": [
+                        9.992759,
+                        48.417378
+                  ]
+            },
+            {
+                  "name": "Fort Unterer Eselsberg (Werk XXXIV)",
+                  "text": "Eine gut erhaltene Anlage der Bundesfestung Ulm, die heute für kulturelle Zwecke genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        9.963328,
+                        48.410534
+                  ]
+            },
+            {
+                  "name": "Florian Zimmer Theater",
+                  "text": "Ein modernes Magie- und Illusionstheater in Neu-Ulm, das spektakuläre Shows bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.007562,
+                        48.383896
+                  ]
+            },
+            {
+                  "name": "Theater Ulm",
+                  "text": "Das älteste städtische Theater Deutschlands bietet Opern-, Schauspiel- und Ballettaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.98639,
+                        48.401483
+                  ]
+            },
+            {
+                  "name": "Galerie Sebastianskapelle",
+                  "text": "Eine Kunstgalerie in einer ehemaligen Kapelle, die wechselnde Ausstellungen zeitgenössischer Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.999007,
+                        48.400623
+                  ]
+            },
+            {
+                  "name": "Museumsinsel",
+                  "text": "Ein Ausstellungsort in Ulm, der sich verschiedenen kulturellen und historischen Themen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.983242,
+                        48.411423
+                  ]
+            },
+            {
+                  "name": "Galerie im Venet-Haus",
+                  "text": "Diese Galerie präsentiert moderne Kunst und Skulpturen in einem architektonisch interessanten Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        10.007561,
+                        48.395931
+                  ]
+            },
+            {
+                  "name": "Museum in der Klostermühle",
+                  "text": "Ein lokales Museum in einer historischen Klostermühle, das Einblicke in die regionale Geschichte bietet.",
+                  "category": "museum",
+                  "coords": [
+                        9.953876,
+                        48.397167
+                  ]
+            },
+            {
+                  "name": "Wassermuseum",
+                  "text": "Das Museum dokumentiert die Geschichte der Wasserversorgung und die Bedeutung des Wassers für die Region.",
+                  "category": "museum",
+                  "coords": [
+                        9.99986,
+                        48.401546
+                  ]
+            },
+            {
+                  "name": "DZOK",
+                  "text": "Das Dokumentationszentrum erinnert an die Opfer des NS-Regimes im ehemaligen Konzentrationslager Oberer Kuhberg.",
+                  "category": "museum",
+                  "coords": [
+                        9.99263,
+                        48.400698
+                  ]
+            },
+            {
+                  "name": "m25 - Birdly",
+                  "text": "Ein Erlebniszentrum, das Besuchern ermöglicht, die Stadt Ulm mittels Virtual Reality aus der Vogelperspektive zu erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        9.99414,
+                        48.398373
+                  ]
+            },
+            {
+                  "name": "Donaubad Freibad",
+                  "text": "Ein beliebtes Freibad an der Donau mit verschiedenen Becken und Liegeflächen für die Freizeitgestaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        9.986311,
+                        48.387046
+                  ]
+            },
+            {
+                  "name": "Donaubad",
+                  "text": "Ein großes Erlebnisbad an der Donau mit Rutschen und einem weitläufigen Wellnessbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        9.985629,
+                        48.385849
+                  ]
+            },
+            {
+                  "name": "Ehemaliger Infanteriestützpunkt Gleißelstetten",
+                  "text": "Ein historischer Teil der Bundesfestung Ulm, der ursprünglich als Verteidigungsanlage diente.",
+                  "category": "fortress",
+                  "coords": [
+                        9.9511,
+                        48.387137
+                  ]
+            },
+            {
+                  "name": "Lothar-Schultheiß-Bad",
+                  "text": "Ein öffentliches Freibad in Ulm, das Sport- und Freizeitmöglichkeiten im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.011276,
+                        48.404026
+                  ]
+            },
+            {
+                  "name": "Wilhelmsfeste (Werke XIII – XVII)",
+                  "text": "Das größte Werk der Bundesfestung Ulm, gelegen auf dem Michelsberg mit markanten Mauern.",
+                  "category": "castle",
+                  "coords": [
+                        9.980306,
+                        48.414334
+                  ]
+            },
+            {
+                  "name": "Kiesbank Illerbrücke",
+                  "text": "Eine natürliche Kiesbank an der Iller, die im Sommer als Liege- und Badeplatz genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        9.988224,
+                        48.370384
+                  ]
+            },
+            {
+                  "name": "Berblinger-Turm",
+                  "text": "Ein moderner Aussichtsturm mit Wendeltreppe, der an den Flugversuch von Albrecht Berblinger erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        10.000071,
+                        48.397541
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "Ein ehemaliger Friedhof, der heute eine grüne Oase mit historischen Grabmalen im Stadtzentrum ist.",
+                  "category": "park",
+                  "coords": [
+                        9.996888,
+                        48.404477
+                  ]
+            },
+            {
+                  "name": "Friedrichsau",
+                  "text": "Die größte Parkanlage Ulms an der Donau mit Tiergarten, Spielplätzen und Veranstaltungsflächen.",
+                  "category": "park",
+                  "coords": [
+                        10.012669,
+                        48.409092
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten der Universität Ulm",
+                  "text": "Ein botanischer Garten der Universität mit verschiedenen Gewächshäusern und Lehrpfaden.",
+                  "category": "park",
+                  "coords": [
+                        9.96432,
+                        48.420634
+                  ]
+            },
+            {
+                  "name": "Kollmannspark",
+                  "text": "Ein kleiner Park, der Teile der historischen Stadtmauer und Festungsanlagen umschließt.",
+                  "category": "park",
+                  "coords": [
+                        9.993415,
+                        48.389781
+                  ]
             }
       ],
       "hu": [
@@ -3117,6 +5322,267 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.99481,
                         48.397
+                  ]
+            },
+            {
+                  "name": "Theater Neu-Ulm",
+                  "text": "Magánszínház Neu-Ulmban, amely kortárs előadásairól és vígjátékairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        9.997583,
+                        48.39427
+                  ]
+            },
+            {
+                  "name": "Museum Brot und Kunst",
+                  "text": "A Salzstadel épületében található múzeum a kenyér kultúrtörténetét és művészeti vonatkozásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.990127,
+                        48.40095
+                  ]
+            },
+            {
+                  "name": "Naturmuseum Ulm",
+                  "text": "A múzeum az ulmi régió természetrajzát és a helyi geológiát mutatja be kiállításain.",
+                  "category": "museum",
+                  "coords": [
+                        9.995717,
+                        48.399878
+                  ]
+            },
+            {
+                  "name": "Donauschwäbisches Zentralmuseum",
+                  "text": "A múzeum a délkelet-európai dunai svábok történelmét és kultúráját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        9.984918,
+                        48.392437
+                  ]
+            },
+            {
+                  "name": "Caponniere 8",
+                  "text": "Az ulmi szövetségi erődrendszer történelmi bástyája, amelyet ma kulturális célokra használnak.",
+                  "category": "castle",
+                  "coords": [
+                        9.991268,
+                        48.390052
+                  ]
+            },
+            {
+                  "name": "Tiergarten Ulm",
+                  "text": "A Friedrichsau parkban található állatkert hazai fajok mellett egzotikus halakat és hüllőket is bemutat.",
+                  "category": "recreational",
+                  "coords": [
+                        10.011384,
+                        48.409802
+                  ]
+            },
+            {
+                  "name": "Edwin-Scharff-Museum",
+                  "text": "A neu-ulmi művészeti múzeum Edwin Scharff szobrászművész alkotásait és időszaki kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.999124,
+                        48.393611
+                  ]
+            },
+            {
+                  "name": "Örlinger Turm (Werk XXXVIII)",
+                  "text": "Az ulmi szövetségi erődrendszer egyik történelmi bástyája, amely a város külső védműveinek része.",
+                  "category": "castle",
+                  "coords": [
+                        9.992759,
+                        48.417378
+                  ]
+            },
+            {
+                  "name": "Fort Unterer Eselsberg (Werk XXXIV)",
+                  "text": "Az ulmi szövetségi erődrendszer jól megőrzött erődítménye, amely ma kulturális célokat szolgál.",
+                  "category": "fortress",
+                  "coords": [
+                        9.963328,
+                        48.410534
+                  ]
+            },
+            {
+                  "name": "Florian Zimmer Theater",
+                  "text": "Egy modern bűvész- és illúziószínház Neu-Ulmban, amely látványos bemutatóknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        10.007562,
+                        48.383896
+                  ]
+            },
+            {
+                  "name": "Theater Ulm",
+                  "text": "Németország legrégebbi városi színháza, amely opera-, prózai és balettelőadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        9.98639,
+                        48.401483
+                  ]
+            },
+            {
+                  "name": "Galerie Sebastianskapelle",
+                  "text": "Egy egykori kápolnában kialakított művészeti galéria, amely kortárs kiállításoknak ad helyet.",
+                  "category": "museum",
+                  "coords": [
+                        9.999007,
+                        48.400623
+                  ]
+            },
+            {
+                  "name": "Museumsinsel",
+                  "text": "Kiállítóhely Ulmban, amely különböző kulturális és történelmi témáknak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        9.983242,
+                        48.411423
+                  ]
+            },
+            {
+                  "name": "Galerie im Venet-Haus",
+                  "text": "Ez a galéria modern művészetet és szobrokat mutat be egy építészetileg érdekes épületben.",
+                  "category": "museum",
+                  "coords": [
+                        10.007561,
+                        48.395931
+                  ]
+            },
+            {
+                  "name": "Museum in der Klostermühle",
+                  "text": "Egy történelmi kolostori malomban berendezett múzeum, amely a régió történetébe nyújt betekintést.",
+                  "category": "museum",
+                  "coords": [
+                        9.953876,
+                        48.397167
+                  ]
+            },
+            {
+                  "name": "Wassermuseum",
+                  "text": "A múzeum a vízellátás történetét és a víz régióban betöltött jelentőségét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        9.99986,
+                        48.401546
+                  ]
+            },
+            {
+                  "name": "DZOK",
+                  "text": "A dokumentációs központ a náci rezsim áldozatainak állít emléket az egykori Oberer Kuhberg koncentrációs táborban.",
+                  "category": "museum",
+                  "coords": [
+                        9.99263,
+                        48.400698
+                  ]
+            },
+            {
+                  "name": "m25 - Birdly",
+                  "text": "Élményközpont, ahol a látogatók virtuális valóság segítségével, madártávlatból fedezhetik fel Ulm városát.",
+                  "category": "museum",
+                  "coords": [
+                        9.99414,
+                        48.398373
+                  ]
+            },
+            {
+                  "name": "Donaubad Freibad",
+                  "text": "Népszerű szabadtéri strand a Duna partján, különféle medencékkel és napozóhelyekkel a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.986311,
+                        48.387046
+                  ]
+            },
+            {
+                  "name": "Donaubad",
+                  "text": "Nagy élményfürdő a Duna partján, csúszdákkal és kiterjedt wellness részleggel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.985629,
+                        48.385849
+                  ]
+            },
+            {
+                  "name": "Ehemaliger Infanteriestützpunkt Gleißelstetten",
+                  "text": "Az ulmi szövetségi erőd történelmi része, amely eredetileg védelmi létesítményként szolgált.",
+                  "category": "fortress",
+                  "coords": [
+                        9.9511,
+                        48.387137
+                  ]
+            },
+            {
+                  "name": "Lothar-Schultheiß-Bad",
+                  "text": "Nyilvános szabadtéri strand Ulmban, amely vizes sport- és szabadidős lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.011276,
+                        48.404026
+                  ]
+            },
+            {
+                  "name": "Wilhelmsfeste (Werke XIII – XVII)",
+                  "text": "Az ulmi szövetségi erőd legnagyobb építménye a Michelsberg dombon, jellegzetes falakkal.",
+                  "category": "castle",
+                  "coords": [
+                        9.980306,
+                        48.414334
+                  ]
+            },
+            {
+                  "name": "Kiesbank Illerbrücke",
+                  "text": "Természetes kavicspad az Iller folyónál, amelyet nyáron pihenő- és fürdőhelyként használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        9.988224,
+                        48.370384
+                  ]
+            },
+            {
+                  "name": "Berblinger-Turm",
+                  "text": "Modern kilátótorony csigalépcsővel, amely Albrecht Berblinger repülési kísérletére emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        10.000071,
+                        48.397541
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "Egykori temető, amely ma zöld oázis történelmi síremlékekkel a városközpontban.",
+                  "category": "park",
+                  "coords": [
+                        9.996888,
+                        48.404477
+                  ]
+            },
+            {
+                  "name": "Friedrichsau",
+                  "text": "Ulm legnagyobb parkja a Duna partján állatkerttel, játszóterekkel és rendezvényhelyszínekkel.",
+                  "category": "park",
+                  "coords": [
+                        10.012669,
+                        48.409092
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten der Universität Ulm",
+                  "text": "Az egyetem botanikus kertje különböző üvegházakkal és tanösvényekkel.",
+                  "category": "park",
+                  "coords": [
+                        9.96432,
+                        48.420634
+                  ]
+            },
+            {
+                  "name": "Kollmannspark",
+                  "text": "Kisméretű park, amely a történelmi városfal és erődítmények részeit foglalja magában.",
+                  "category": "park",
+                  "coords": [
+                        9.993415,
+                        48.389781
                   ]
             }
       ],
@@ -3190,6 +5656,267 @@ export const poiExtraDe1: POI[] = [
                         9.99481,
                         48.397
                   ]
+            },
+            {
+                  "name": "Theater Neu-Ulm",
+                  "text": "Un teatru privat din Neu-Ulm, cunoscut pentru producțiile sale contemporane și comedii.",
+                  "category": "cultural",
+                  "coords": [
+                        9.997583,
+                        48.39427
+                  ]
+            },
+            {
+                  "name": "Museum Brot und Kunst",
+                  "text": "Muzeul din clădirea Salzstadel este dedicat istoriei pâinii ca bază a culturii umane.",
+                  "category": "museum",
+                  "coords": [
+                        9.990127,
+                        48.40095
+                  ]
+            },
+            {
+                  "name": "Naturmuseum Ulm",
+                  "text": "Muzeul prezintă istoria naturală a regiunii Ulm și expoziții despre geologia locală.",
+                  "category": "museum",
+                  "coords": [
+                        9.995717,
+                        48.399878
+                  ]
+            },
+            {
+                  "name": "Donauschwäbisches Zentralmuseum",
+                  "text": "Muzeul documentează istoria și cultura șvabilor dunăreni din sud-estul Europei.",
+                  "category": "museum",
+                  "coords": [
+                        9.984918,
+                        48.392437
+                  ]
+            },
+            {
+                  "name": "Caponniere 8",
+                  "text": "O fortificație istorică a cetății federale din Ulm, utilizată astăzi în scopuri culturale.",
+                  "category": "castle",
+                  "coords": [
+                        9.991268,
+                        48.390052
+                  ]
+            },
+            {
+                  "name": "Tiergarten Ulm",
+                  "text": "Grădina zoologică din Friedrichsau prezintă animale native, dar și pești exotici și reptile în casa tropicală.",
+                  "category": "recreational",
+                  "coords": [
+                        10.011384,
+                        48.409802
+                  ]
+            },
+            {
+                  "name": "Edwin-Scharff-Museum",
+                  "text": "Muzeul de artă din Neu-Ulm prezintă lucrări ale sculptorului Edwin Scharff și expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        9.999124,
+                        48.393611
+                  ]
+            },
+            {
+                  "name": "Örlinger Turm (Werk XXXVIII)",
+                  "text": "Un turn de fortificație istoric, parte a sistemului de apărare federal din Ulm.",
+                  "category": "castle",
+                  "coords": [
+                        9.992759,
+                        48.417378
+                  ]
+            },
+            {
+                  "name": "Fort Unterer Eselsberg (Werk XXXIV)",
+                  "text": "O fortificație bine conservată a Cetății Federale Ulm, utilizată astăzi în scopuri culturale.",
+                  "category": "fortress",
+                  "coords": [
+                        9.963328,
+                        48.410534
+                  ]
+            },
+            {
+                  "name": "Florian Zimmer Theater",
+                  "text": "Un teatru modern de magie și iluzionism din Neu-Ulm, care oferă spectacole spectaculoase.",
+                  "category": "cultural",
+                  "coords": [
+                        10.007562,
+                        48.383896
+                  ]
+            },
+            {
+                  "name": "Theater Ulm",
+                  "text": "Cel mai vechi teatru municipal din Germania, oferind spectacole de operă, teatru și balet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.98639,
+                        48.401483
+                  ]
+            },
+            {
+                  "name": "Galerie Sebastianskapelle",
+                  "text": "O galerie de artă situată într-o fostă capelă, prezentând expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        9.999007,
+                        48.400623
+                  ]
+            },
+            {
+                  "name": "Museumsinsel",
+                  "text": "Un spațiu expozițional din Ulm dedicat diverselor teme culturale și istorice.",
+                  "category": "museum",
+                  "coords": [
+                        9.983242,
+                        48.411423
+                  ]
+            },
+            {
+                  "name": "Galerie im Venet-Haus",
+                  "text": "Această galerie prezintă artă modernă și sculpturi într-o clădire interesantă din punct de vedere arhitectural.",
+                  "category": "museum",
+                  "coords": [
+                        10.007561,
+                        48.395931
+                  ]
+            },
+            {
+                  "name": "Museum in der Klostermühle",
+                  "text": "Un muzeu local situat într-o moară istorică de mănăstire, oferind perspective asupra istoriei regionale.",
+                  "category": "museum",
+                  "coords": [
+                        9.953876,
+                        48.397167
+                  ]
+            },
+            {
+                  "name": "Wassermuseum",
+                  "text": "Muzeul documentează istoria alimentării cu apă și importanța apei pentru regiune.",
+                  "category": "museum",
+                  "coords": [
+                        9.99986,
+                        48.401546
+                  ]
+            },
+            {
+                  "name": "DZOK",
+                  "text": "Centrul de documentare comemorează victimele regimului nazist din fostul lagăr de concentrare Oberer Kuhberg.",
+                  "category": "museum",
+                  "coords": [
+                        9.99263,
+                        48.400698
+                  ]
+            },
+            {
+                  "name": "m25 - Birdly",
+                  "text": "Un centru de experiențe care permite vizitatorilor să exploreze orașul Ulm dintr-o perspectivă aeriană prin realitate virtuală.",
+                  "category": "museum",
+                  "coords": [
+                        9.99414,
+                        48.398373
+                  ]
+            },
+            {
+                  "name": "Donaubad Freibad",
+                  "text": "Un ștrand popular pe malul Dunării, cu diverse bazine și zone de plajă pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.986311,
+                        48.387046
+                  ]
+            },
+            {
+                  "name": "Donaubad",
+                  "text": "Un parc acvatic mare pe malul Dunării, cu tobogane și o zonă de wellness generoasă.",
+                  "category": "recreational",
+                  "coords": [
+                        9.985629,
+                        48.385849
+                  ]
+            },
+            {
+                  "name": "Ehemaliger Infanteriestützpunkt Gleißelstetten",
+                  "text": "O parte istorică a Cetății Federale Ulm, care a servit inițial ca instalație de apărare.",
+                  "category": "fortress",
+                  "coords": [
+                        9.9511,
+                        48.387137
+                  ]
+            },
+            {
+                  "name": "Lothar-Schultheiß-Bad",
+                  "text": "O piscină publică în aer liber din Ulm, care oferă facilități de sport și agrement în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.011276,
+                        48.404026
+                  ]
+            },
+            {
+                  "name": "Wilhelmsfeste (Werke XIII – XVII)",
+                  "text": "Cea mai mare lucrare a Cetății Federale Ulm, situată pe Michelsberg, cu ziduri proeminente.",
+                  "category": "castle",
+                  "coords": [
+                        9.980306,
+                        48.414334
+                  ]
+            },
+            {
+                  "name": "Kiesbank Illerbrücke",
+                  "text": "Un banc de pietriș natural pe râul Iller, folosit vara ca loc de plajă și scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.988224,
+                        48.370384
+                  ]
+            },
+            {
+                  "name": "Berblinger-Turm",
+                  "text": "Un turn de observație modern cu scară în spirală, care comemorează tentativa de zbor a lui Albrecht Berblinger.",
+                  "category": "natural",
+                  "coords": [
+                        10.000071,
+                        48.397541
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "Un fost cimitir care este astăzi o oază de verdeață cu monumente funerare istorice în centrul orașului.",
+                  "category": "park",
+                  "coords": [
+                        9.996888,
+                        48.404477
+                  ]
+            },
+            {
+                  "name": "Friedrichsau",
+                  "text": "Cel mai mare parc din Ulm, situat pe Dunăre, cu o grădină zoologică, locuri de joacă și spații de evenimente.",
+                  "category": "park",
+                  "coords": [
+                        10.012669,
+                        48.409092
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten der Universität Ulm",
+                  "text": "O grădină botanică a universității cu diverse sere și trasee educaționale.",
+                  "category": "park",
+                  "coords": [
+                        9.96432,
+                        48.420634
+                  ]
+            },
+            {
+                  "name": "Kollmannspark",
+                  "text": "Un parc mic care cuprinde părți din zidul istoric al orașului și din fortificații.",
+                  "category": "park",
+                  "coords": [
+                        9.993415,
+                        48.389781
+                  ]
             }
       ],
       "en": [
@@ -3261,6 +5988,267 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.99481,
                         48.397
+                  ]
+            },
+            {
+                  "name": "Theater Neu-Ulm",
+                  "text": "A private theatre in Neu-Ulm known for its contemporary productions and comedies.",
+                  "category": "cultural",
+                  "coords": [
+                        9.997583,
+                        48.39427
+                  ]
+            },
+            {
+                  "name": "Museum Brot und Kunst",
+                  "text": "Located in the Salzstadel building, this museum is dedicated to the history of bread and its cultural impact.",
+                  "category": "museum",
+                  "coords": [
+                        9.990127,
+                        48.40095
+                  ]
+            },
+            {
+                  "name": "Naturmuseum Ulm",
+                  "text": "The museum presents the natural history of the Ulm region and exhibitions on local geology.",
+                  "category": "museum",
+                  "coords": [
+                        9.995717,
+                        48.399878
+                  ]
+            },
+            {
+                  "name": "Donauschwäbisches Zentralmuseum",
+                  "text": "This museum documents the history and culture of the Danube Swabians in Southeastern Europe.",
+                  "category": "museum",
+                  "coords": [
+                        9.984918,
+                        48.392437
+                  ]
+            },
+            {
+                  "name": "Caponniere 8",
+                  "text": "A historic fortification of the Federal Fortress of Ulm, now used for cultural purposes.",
+                  "category": "castle",
+                  "coords": [
+                        9.991268,
+                        48.390052
+                  ]
+            },
+            {
+                  "name": "Tiergarten Ulm",
+                  "text": "Located in the Friedrichsau, this zoo features native animals as well as exotic fish and reptiles in its tropical house.",
+                  "category": "recreational",
+                  "coords": [
+                        10.011384,
+                        48.409802
+                  ]
+            },
+            {
+                  "name": "Edwin-Scharff-Museum",
+                  "text": "This art museum in Neu-Ulm displays works by sculptor Edwin Scharff and rotating special exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        9.999124,
+                        48.393611
+                  ]
+            },
+            {
+                  "name": "Örlinger Turm (Werk XXXVIII)",
+                  "text": "A historic fortification tower of the Federal Fortress of Ulm, serving as part of the outer works.",
+                  "category": "castle",
+                  "coords": [
+                        9.992759,
+                        48.417378
+                  ]
+            },
+            {
+                  "name": "Fort Unterer Eselsberg (Werk XXXIV)",
+                  "text": "A well-preserved fortification of the Federal Fortress of Ulm, now used for cultural purposes.",
+                  "category": "fortress",
+                  "coords": [
+                        9.963328,
+                        48.410534
+                  ]
+            },
+            {
+                  "name": "Florian Zimmer Theater",
+                  "text": "A modern magic and illusion theatre in Neu-Ulm offering spectacular shows.",
+                  "category": "cultural",
+                  "coords": [
+                        10.007562,
+                        48.383896
+                  ]
+            },
+            {
+                  "name": "Theater Ulm",
+                  "text": "The oldest municipal theatre in Germany, offering opera, drama, and ballet performances.",
+                  "category": "cultural",
+                  "coords": [
+                        9.98639,
+                        48.401483
+                  ]
+            },
+            {
+                  "name": "Galerie Sebastianskapelle",
+                  "text": "An art gallery located in a former chapel, featuring rotating contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        9.999007,
+                        48.400623
+                  ]
+            },
+            {
+                  "name": "Museumsinsel",
+                  "text": "An exhibition venue in Ulm dedicated to various cultural and historical themes.",
+                  "category": "museum",
+                  "coords": [
+                        9.983242,
+                        48.411423
+                  ]
+            },
+            {
+                  "name": "Galerie im Venet-Haus",
+                  "text": "This gallery presents modern art and sculptures in an architecturally interesting building.",
+                  "category": "museum",
+                  "coords": [
+                        10.007561,
+                        48.395931
+                  ]
+            },
+            {
+                  "name": "Museum in der Klostermühle",
+                  "text": "A local museum housed in a historic monastery mill, offering insights into regional history.",
+                  "category": "museum",
+                  "coords": [
+                        9.953876,
+                        48.397167
+                  ]
+            },
+            {
+                  "name": "Wassermuseum",
+                  "text": "The museum documents the history of water supply and the importance of water for the region.",
+                  "category": "museum",
+                  "coords": [
+                        9.99986,
+                        48.401546
+                  ]
+            },
+            {
+                  "name": "DZOK",
+                  "text": "The documentation center commemorates the victims of the Nazi regime at the former Oberer Kuhberg concentration camp.",
+                  "category": "museum",
+                  "coords": [
+                        9.99263,
+                        48.400698
+                  ]
+            },
+            {
+                  "name": "m25 - Birdly",
+                  "text": "An experience center that allows visitors to explore the city of Ulm from a bird's-eye view using virtual reality.",
+                  "category": "museum",
+                  "coords": [
+                        9.99414,
+                        48.398373
+                  ]
+            },
+            {
+                  "name": "Donaubad Freibad",
+                  "text": "A popular outdoor pool on the Danube with various basins and sunbathing areas for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        9.986311,
+                        48.387046
+                  ]
+            },
+            {
+                  "name": "Donaubad",
+                  "text": "A large water park on the Danube featuring slides and a spacious wellness area.",
+                  "category": "recreational",
+                  "coords": [
+                        9.985629,
+                        48.385849
+                  ]
+            },
+            {
+                  "name": "Ehemaliger Infanteriestützpunkt Gleißelstetten",
+                  "text": "A historical part of the Federal Fortress Ulm that originally served as a defensive facility.",
+                  "category": "fortress",
+                  "coords": [
+                        9.9511,
+                        48.387137
+                  ]
+            },
+            {
+                  "name": "Lothar-Schultheiß-Bad",
+                  "text": "A public outdoor swimming pool in Ulm offering water sports and leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.011276,
+                        48.404026
+                  ]
+            },
+            {
+                  "name": "Wilhelmsfeste (Werke XIII – XVII)",
+                  "text": "The largest work of the Federal Fortress Ulm, located on the Michelsberg with prominent walls.",
+                  "category": "castle",
+                  "coords": [
+                        9.980306,
+                        48.414334
+                  ]
+            },
+            {
+                  "name": "Kiesbank Illerbrücke",
+                  "text": "A natural gravel bank on the Iller river used for sunbathing and swimming in summer.",
+                  "category": "recreational",
+                  "coords": [
+                        9.988224,
+                        48.370384
+                  ]
+            },
+            {
+                  "name": "Berblinger-Turm",
+                  "text": "A modern observation tower with a spiral staircase, commemorating Albrecht Berblinger's flight attempt.",
+                  "category": "natural",
+                  "coords": [
+                        10.000071,
+                        48.397541
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "A former cemetery that is now a green oasis with historical monuments in the city center.",
+                  "category": "park",
+                  "coords": [
+                        9.996888,
+                        48.404477
+                  ]
+            },
+            {
+                  "name": "Friedrichsau",
+                  "text": "Ulm's largest park on the Danube featuring a zoo, playgrounds, and event spaces.",
+                  "category": "park",
+                  "coords": [
+                        10.012669,
+                        48.409092
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten der Universität Ulm",
+                  "text": "A university botanical garden with various greenhouses and educational trails.",
+                  "category": "park",
+                  "coords": [
+                        9.96432,
+                        48.420634
+                  ]
+            },
+            {
+                  "name": "Kollmannspark",
+                  "text": "A small park encompassing parts of the historical city wall and fortifications.",
+                  "category": "park",
+                  "coords": [
+                        9.993415,
+                        48.389781
                   ]
             }
       ],
@@ -3546,6 +6534,141 @@ export const poiExtraDe1: POI[] = [
                         9.03681,
                         48.539084
                   ]
+            },
+            {
+                  "name": "Boxenstop Auto- und Spielzeugmusem",
+                  "text": "Ein beliebtes privates Museum für Auto- und Spielzeuggeschichte mit zahlreichen Exponaten in Tübingen.",
+                  "category": "museum",
+                  "coords": [
+                        9.062556,
+                        48.523722
+                  ]
+            },
+            {
+                  "name": "Institut für theatrale Zukunftsforschung",
+                  "text": "Ein experimentelles Theater in Tübingen, das Teil des Zimmertheaters ist und zeitgenössische Stücke aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.053015,
+                        48.521034
+                  ]
+            },
+            {
+                  "name": "Landestheater Tübingen",
+                  "text": "Eines der bedeutendsten Theaterhäuser in Baden-Württemberg mit einem breiten Spektrum an Inszenierungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.063384,
+                        48.514903
+                  ]
+            },
+            {
+                  "name": "Vorstadttheater",
+                  "text": "Ein kleines Theater in der Tübinger Vorstadt, das für seine persönlichen und engagierten Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        9.063701,
+                        48.511596
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Tübingen",
+                  "text": "Ein renommiertes Museum in Tübingen, das wechselnde Ausstellungen moderner und zeitgenössischer Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.047766,
+                        48.541935
+                  ]
+            },
+            {
+                  "name": "Spitzberg - Ödenburg",
+                  "text": "Ein landschaftlich reizvolles Naturschutzgebiet bei Tübingen mit Wanderwegen und historischen Burgresten.",
+                  "category": "natural",
+                  "coords": [
+                        9.023613,
+                        48.505265
+                  ]
+            },
+            {
+                  "name": "Das Kabinett des Herrn Hämmerle",
+                  "text": "Ein originelles Museum in Tübingen, das die humorvolle Welt des Künstlers und Kabarettisten Bernd Kohlhepp präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.048722,
+                        48.521674
+                  ]
+            },
+            {
+                  "name": "Obere Säle Museumsgesellschaft",
+                  "text": "Ein historisches Gesellschaftshaus in Tübingen, das als wichtiger Ort für kulturelle Begegnungen und Vorträge dient.",
+                  "category": "museum",
+                  "coords": [
+                        9.05798,
+                        48.522199
+                  ]
+            },
+            {
+                  "name": "Neues Kunstmuseum Tübingen",
+                  "text": "Ein Museum für zeitgenössische Kunst in Tübingen.",
+                  "category": "museum",
+                  "coords": [
+                        9.084478,
+                        48.519066
+                  ]
+            },
+            {
+                  "name": "Stadtfriedhof-Museum",
+                  "text": "Ein Museum auf dem historischen Stadtfriedhof von Tübingen.",
+                  "category": "museum",
+                  "coords": [
+                        9.055492,
+                        48.526314
+                  ]
+            },
+            {
+                  "name": "Tübinger Freibad",
+                  "text": "Ein großes öffentliches Freibad in Tübingen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.040291,
+                        48.510869
+                  ]
+            },
+            {
+                  "name": "Shedhalle",
+                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst in Tübingen.",
+                  "category": "museum",
+                  "coords": [
+                        9.065568,
+                        48.527373
+                  ]
+            },
+            {
+                  "name": "Ödenburg",
+                  "text": "Überreste einer mittelalterlichen Burganlage bei Tübingen.",
+                  "category": "historical",
+                  "coords": [
+                        9.026391,
+                        48.505326
+                  ]
+            },
+            {
+                  "name": "Alter Botanischer Garten",
+                  "text": "Eine historische Parkanlage im Zentrum von Tübingen.",
+                  "category": "park",
+                  "coords": [
+                        9.056845,
+                        48.52342
+                  ]
+            },
+            {
+                  "name": "Steinenbergturm",
+                  "text": "Ein Aussichtsturm auf dem Steinenberg mit Blick über Tübingen.",
+                  "category": "natural",
+                  "coords": [
+                        9.030164,
+                        48.531568
+                  ]
             }
       ],
       "hu": [
@@ -3617,6 +6740,141 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.03681,
                         48.539084
+                  ]
+            },
+            {
+                  "name": "Boxenstop Auto- und Spielzeugmusem",
+                  "text": "Népszerű tübingeni magánmúzeum, amely az autók és játékok történelmét mutatja be számos kiállítási tárggyal.",
+                  "category": "museum",
+                  "coords": [
+                        9.062556,
+                        48.523722
+                  ]
+            },
+            {
+                  "name": "Institut für theatrale Zukunftsforschung",
+                  "text": "Kísérleti színház Tübingben, amely a Zimmertheater része és kortárs darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        9.053015,
+                        48.521034
+                  ]
+            },
+            {
+                  "name": "Landestheater Tübingen",
+                  "text": "Baden-Württemberg egyik legjelentősebb színháza, amely az előadások széles skáláját kínálja Tübingben.",
+                  "category": "cultural",
+                  "coords": [
+                        9.063384,
+                        48.514903
+                  ]
+            },
+            {
+                  "name": "Vorstadttheater",
+                  "text": "Kis színház Tübingen külvárosában, amely közvetlen és elkötelezett produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        9.063701,
+                        48.511596
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Tübingen",
+                  "text": "Elismert tübingeni múzeum, amely modern és kortárs művészeti időszaki kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        9.047766,
+                        48.541935
+                  ]
+            },
+            {
+                  "name": "Spitzberg - Ödenburg",
+                  "text": "Gyalogtúra-útvonalakkal és történelmi várromokkal rendelkező, festői természetvédelmi terület Tübingen mellett.",
+                  "category": "natural",
+                  "coords": [
+                        9.023613,
+                        48.505265
+                  ]
+            },
+            {
+                  "name": "Das Kabinett des Herrn Hämmerle",
+                  "text": "Eredeti tübingeni múzeum, amely Bernd Kohlhepp művész és kabaré-előadó humoros világát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.048722,
+                        48.521674
+                  ]
+            },
+            {
+                  "name": "Obere Säle Museumsgesellschaft",
+                  "text": "Történelmi közösségi ház Tübingben, amely kulturális találkozók és előadások fontos helyszíne.",
+                  "category": "museum",
+                  "coords": [
+                        9.05798,
+                        48.522199
+                  ]
+            },
+            {
+                  "name": "Neues Kunstmuseum Tübingen",
+                  "text": "Kortárs művészeti múzeum Tübingenben.",
+                  "category": "museum",
+                  "coords": [
+                        9.084478,
+                        48.519066
+                  ]
+            },
+            {
+                  "name": "Stadtfriedhof-Museum",
+                  "text": "Múzeum Tübingen történelmi városi temetőjében.",
+                  "category": "museum",
+                  "coords": [
+                        9.055492,
+                        48.526314
+                  ]
+            },
+            {
+                  "name": "Tübinger Freibad",
+                  "text": "Nagy nyilvános szabadtéri strandfürdő Tübingenben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.040291,
+                        48.510869
+                  ]
+            },
+            {
+                  "name": "Shedhalle",
+                  "text": "Kortárs művészeti kiállítótér Tübingenben.",
+                  "category": "museum",
+                  "coords": [
+                        9.065568,
+                        48.527373
+                  ]
+            },
+            {
+                  "name": "Ödenburg",
+                  "text": "Egy középkori vár maradványai Tübingen közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.026391,
+                        48.505326
+                  ]
+            },
+            {
+                  "name": "Alter Botanischer Garten",
+                  "text": "Történelmi parkerdő Tübingen központjában.",
+                  "category": "park",
+                  "coords": [
+                        9.056845,
+                        48.52342
+                  ]
+            },
+            {
+                  "name": "Steinenbergturm",
+                  "text": "Kilátótorony a Steinenberg-hegyen, kilátással Tübingenre.",
+                  "category": "natural",
+                  "coords": [
+                        9.030164,
+                        48.531568
                   ]
             }
       ],
@@ -3690,6 +6948,141 @@ export const poiExtraDe1: POI[] = [
                         9.03681,
                         48.539084
                   ]
+            },
+            {
+                  "name": "Boxenstop Auto- und Spielzeugmusem",
+                  "text": "Un muzeu privat popular din Tübingen dedicat istoriei automobilelor și jucăriilor, cu numeroase exponate.",
+                  "category": "museum",
+                  "coords": [
+                        9.062556,
+                        48.523722
+                  ]
+            },
+            {
+                  "name": "Institut für theatrale Zukunftsforschung",
+                  "text": "Un teatru experimental din Tübingen, parte a teatrului Zimmertheater, care pune în scenă piese contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        9.053015,
+                        48.521034
+                  ]
+            },
+            {
+                  "name": "Landestheater Tübingen",
+                  "text": "Unul dintre cele mai importante teatre din Baden-Württemberg, cu un spectru larg de puneri în scenă în Tübingen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.063384,
+                        48.514903
+                  ]
+            },
+            {
+                  "name": "Vorstadttheater",
+                  "text": "Un teatru mic din suburbia orașului Tübingen, cunoscut pentru producțiile sale intime și angajate.",
+                  "category": "cultural",
+                  "coords": [
+                        9.063701,
+                        48.511596
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Tübingen",
+                  "text": "Un muzeu renumit din Tübingen care găzduiește expoziții temporare de artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        9.047766,
+                        48.541935
+                  ]
+            },
+            {
+                  "name": "Spitzberg - Ödenburg",
+                  "text": "O rezervație naturală pitorească de lângă Tübingen, cu trasee de drumeție și resturi de cetăți istorice.",
+                  "category": "natural",
+                  "coords": [
+                        9.023613,
+                        48.505265
+                  ]
+            },
+            {
+                  "name": "Das Kabinett des Herrn Hämmerle",
+                  "text": "Un muzeu original din Tübingen care prezintă lumea plină de umor a artistului de cabaret Bernd Kohlhepp.",
+                  "category": "museum",
+                  "coords": [
+                        9.048722,
+                        48.521674
+                  ]
+            },
+            {
+                  "name": "Obere Säle Museumsgesellschaft",
+                  "text": "O casă istorică a asociației din Tübingen, care servește ca loc important pentru întâlniri culturale și conferințe.",
+                  "category": "museum",
+                  "coords": [
+                        9.05798,
+                        48.522199
+                  ]
+            },
+            {
+                  "name": "Neues Kunstmuseum Tübingen",
+                  "text": "Un muzeu de artă contemporană în Tübingen.",
+                  "category": "museum",
+                  "coords": [
+                        9.084478,
+                        48.519066
+                  ]
+            },
+            {
+                  "name": "Stadtfriedhof-Museum",
+                  "text": "Un muzeu situat în cimitirul istoric al orașului Tübingen.",
+                  "category": "museum",
+                  "coords": [
+                        9.055492,
+                        48.526314
+                  ]
+            },
+            {
+                  "name": "Tübinger Freibad",
+                  "text": "Un ștrand public mare în Tübingen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.040291,
+                        48.510869
+                  ]
+            },
+            {
+                  "name": "Shedhalle",
+                  "text": "Un spațiu expozițional pentru artă contemporană în Tübingen.",
+                  "category": "museum",
+                  "coords": [
+                        9.065568,
+                        48.527373
+                  ]
+            },
+            {
+                  "name": "Ödenburg",
+                  "text": "Ruinele unei cetăți medievale de lângă Tübingen.",
+                  "category": "historical",
+                  "coords": [
+                        9.026391,
+                        48.505326
+                  ]
+            },
+            {
+                  "name": "Alter Botanischer Garten",
+                  "text": "Un parc istoric situat în centrul orașului Tübingen.",
+                  "category": "park",
+                  "coords": [
+                        9.056845,
+                        48.52342
+                  ]
+            },
+            {
+                  "name": "Steinenbergturm",
+                  "text": "Un turn de observație pe muntele Steinenberg, cu vedere peste Tübingen.",
+                  "category": "natural",
+                  "coords": [
+                        9.030164,
+                        48.531568
+                  ]
             }
       ],
       "en": [
@@ -3761,6 +7154,141 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.03681,
                         48.539084
+                  ]
+            },
+            {
+                  "name": "Boxenstop Auto- und Spielzeugmusem",
+                  "text": "A popular private museum in Tübingen for automotive and toy history, featuring numerous exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        9.062556,
+                        48.523722
+                  ]
+            },
+            {
+                  "name": "Institut für theatrale Zukunftsforschung",
+                  "text": "An experimental theatre in Tübingen, part of the Zimmertheater, performing contemporary plays.",
+                  "category": "cultural",
+                  "coords": [
+                        9.053015,
+                        48.521034
+                  ]
+            },
+            {
+                  "name": "Landestheater Tübingen",
+                  "text": "One of the most important theatre houses in Baden-Württemberg with a wide spectrum of productions in Tübingen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.063384,
+                        48.514903
+                  ]
+            },
+            {
+                  "name": "Vorstadttheater",
+                  "text": "A small theatre in the outskirts of Tübingen, known for its personal and committed productions.",
+                  "category": "cultural",
+                  "coords": [
+                        9.063701,
+                        48.511596
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Tübingen",
+                  "text": "A renowned museum in Tübingen that hosts temporary exhibitions of modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        9.047766,
+                        48.541935
+                  ]
+            },
+            {
+                  "name": "Spitzberg - Ödenburg",
+                  "text": "A scenic nature reserve near Tübingen featuring hiking trails and historical castle remains.",
+                  "category": "natural",
+                  "coords": [
+                        9.023613,
+                        48.505265
+                  ]
+            },
+            {
+                  "name": "Das Kabinett des Herrn Hämmerle",
+                  "text": "An original museum in Tübingen presenting the humorous world of artist and cabaret performer Bernd Kohlhepp.",
+                  "category": "museum",
+                  "coords": [
+                        9.048722,
+                        48.521674
+                  ]
+            },
+            {
+                  "name": "Obere Säle Museumsgesellschaft",
+                  "text": "A historical society house in Tübingen that serves as an important venue for cultural encounters and lectures.",
+                  "category": "museum",
+                  "coords": [
+                        9.05798,
+                        48.522199
+                  ]
+            },
+            {
+                  "name": "Neues Kunstmuseum Tübingen",
+                  "text": "A museum for contemporary art in Tübingen.",
+                  "category": "museum",
+                  "coords": [
+                        9.084478,
+                        48.519066
+                  ]
+            },
+            {
+                  "name": "Stadtfriedhof-Museum",
+                  "text": "A museum located at the historical city cemetery of Tübingen.",
+                  "category": "museum",
+                  "coords": [
+                        9.055492,
+                        48.526314
+                  ]
+            },
+            {
+                  "name": "Tübinger Freibad",
+                  "text": "A large public outdoor swimming pool in Tübingen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.040291,
+                        48.510869
+                  ]
+            },
+            {
+                  "name": "Shedhalle",
+                  "text": "An exhibition space for contemporary art in Tübingen.",
+                  "category": "museum",
+                  "coords": [
+                        9.065568,
+                        48.527373
+                  ]
+            },
+            {
+                  "name": "Ödenburg",
+                  "text": "Remains of a medieval castle complex near Tübingen.",
+                  "category": "historical",
+                  "coords": [
+                        9.026391,
+                        48.505326
+                  ]
+            },
+            {
+                  "name": "Alter Botanischer Garten",
+                  "text": "A historical park in the center of Tübingen.",
+                  "category": "park",
+                  "coords": [
+                        9.056845,
+                        48.52342
+                  ]
+            },
+            {
+                  "name": "Steinenbergturm",
+                  "text": "An observation tower on the Steinenberg with views over Tübingen.",
+                  "category": "natural",
+                  "coords": [
+                        9.030164,
+                        48.531568
                   ]
             }
       ],
@@ -4178,6 +7706,195 @@ export const poiExtraDe1: POI[] = [
                   "text": "Dieser gut erhaltene Turm war Teil der mittelalterlichen Stadtbefestigung und bewachte einst die strategische Brücke über den Rhein.",
                   "category": "tower",
                   "confidence": "high"
+            },
+            {
+                  "name": "Hus-Museum Konstanz",
+                  "text": "Ein Museum in Konstanz, das dem böhmischen Reformator Jan Hus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.170944,
+                        47.658897
+                  ]
+            },
+            {
+                  "name": "Rosgartenmuseum",
+                  "text": "Das Museum präsentiert die Kunst- und Kulturgeschichte der Stadt Konstanz und der Region.",
+                  "category": "museum",
+                  "coords": [
+                        9.174765,
+                        47.65979
+                  ]
+            },
+            {
+                  "name": "Städtische Wessenberg Galerie",
+                  "text": "Diese Galerie in Konstanz zeigt bedeutende Kunstwerke aus dem südwestdeutschen Raum.",
+                  "category": "museum",
+                  "coords": [
+                        9.175074,
+                        47.663305
+                  ]
+            },
+            {
+                  "name": "Bodensee-Naturmuseum",
+                  "text": "Ein Museum, das sich der vielfältigen Flora und Fauna des Bodenseeraums widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.180583,
+                        47.657108
+                  ]
+            },
+            {
+                  "name": "St. Katharina",
+                  "text": "Ein ehemaliges Kloster auf der Insel Mainau bei Konstanz, das heute als historisches Gebäude besichtigt werden kann.",
+                  "category": "religious",
+                  "coords": [
+                        9.173064,
+                        47.696778
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstanz",
+                  "text": "Ein modernes Thermal- und Freibad direkt am Ufer des Bodensees mit Blick auf die Schweizer Alpen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.209998,
+                        47.665187
+                  ]
+            },
+            {
+                  "name": "Konventbau des ehemaligen Benediktinerklosters Petershausen",
+                  "text": "Eine ehemalige Benediktinerabtei, die heute die umfangreichen Sammlungen des Archäologischen Landesmuseums beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        9.178877,
+                        47.668187
+                  ]
+            },
+            {
+                  "name": "K 9",
+                  "text": "Ein bekanntes Kulturzentrum und Theater, das in den Räumlichkeiten der ehemaligen Paulskirche untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        9.171467,
+                        47.659909
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Obere Güll",
+                  "text": "Ein wertvolles Naturschutzgebiet am Bodensee, das wichtige Brut- und Rastplätze für zahlreiche Vogelarten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.189685,
+                        47.699587
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Untere Güll",
+                  "text": "Ein geschütztes Feuchtgebiet am Seeufer, das der Erhaltung der heimischen Flora und Fauna dient.",
+                  "category": "natural",
+                  "coords": [
+                        9.183072,
+                        47.705934
+                  ]
+            },
+            {
+                  "name": "Nördliches Mainauried",
+                  "text": "Ein ökologisch bedeutsames Riedgebiet in der Nähe der Insel Mainau mit einer typischen Uferlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.180441,
+                        47.702455
+                  ]
+            },
+            {
+                  "name": "Bettenberg-Giratsmoos",
+                  "text": "Ein waldreiches Naturschutzgebiet bei Konstanz, das zu Wanderungen in unberührter Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.149747,
+                        47.705811
+                  ]
+            },
+            {
+                  "name": "Kletterwald Erlebniswald Mainau",
+                  "text": "Ein Hochseilgarten in der Nähe der Insel Mainau bei Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.174315,
+                        47.698411
+                  ]
+            },
+            {
+                  "name": "Fasnachtsmuseum Konstanz",
+                  "text": "Museum im Rheintorturm, das die Geschichte der Konstanzer Fasnacht zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.177425,
+                        47.665988
+                  ]
+            },
+            {
+                  "name": "Schmuggler Bucht",
+                  "text": "Eine Badebucht am Bodensee in Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193654,
+                        47.666073
+                  ]
+            },
+            {
+                  "name": "Schwaketenbad",
+                  "text": "Ein großes Freizeit- und Hallenbad im Stadtteil Wollmatingen in Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.159058,
+                        47.689592
+                  ]
+            },
+            {
+                  "name": "Fürstenberg",
+                  "text": "Ein Hügel auf dem Bodanrück, der eine Aussicht auf Konstanz und den See bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.161546,
+                        47.681917
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Ein Aussichtsturm im Seeburgpark in Kreuzlingen, direkt an der Grenze zu Konstanz.",
+                  "category": "natural",
+                  "coords": [
+                        9.18535,
+                        47.652676
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten der Universität Konstanz",
+                  "text": "Ein Lehr- und Forschungsgarten der Universität Konstanz mit zahlreichen Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        9.179545,
+                        47.691958
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Konstanz",
+                  "text": "Ein zu Ehren von Otto von Bismarck errichteter Aussichtsturm auf dem Raiteberg in Konstanz.",
+                  "category": "historical",
+                  "coords": [
+                        9.180522,
+                        47.679737
+                  ]
+            },
+            {
+                  "name": "Herosépark",
+                  "text": "Eine öffentliche Parkanlage am Rheinufer in Konstanz.",
+                  "category": "park",
+                  "coords": [
+                        9.173696,
+                        47.669639
+                  ]
             }
       ],
       "hu": [
@@ -4229,6 +7946,195 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.17357,
                         47.66032
+                  ]
+            },
+            {
+                  "name": "Hus-Haus",
+                  "text": "Konstanzi múzeum, amelyet Jan Hus cseh reformátornak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        9.170944,
+                        47.658897
+                  ]
+            },
+            {
+                  "name": "Rosgartenmuseum",
+                  "text": "A múzeum Konstanz városának és régiójának művészeti és kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.174765,
+                        47.65979
+                  ]
+            },
+            {
+                  "name": "Städtische Wessenberg Galerie",
+                  "text": "Ez a konstanzi galéria jelentős műalkotásokat mutat be Délnyugat-Németországból.",
+                  "category": "museum",
+                  "coords": [
+                        9.175074,
+                        47.663305
+                  ]
+            },
+            {
+                  "name": "Bodensee-Naturmuseum",
+                  "text": "A Bodeni-tó vidékének változatos növény- és állatvilágának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.180583,
+                        47.657108
+                  ]
+            },
+            {
+                  "name": "St. Katharina",
+                  "text": "Korábbi kolostor a Konstanz melletti Mainau-szigeten, amely ma történelmi épületként látogatható.",
+                  "category": "religious",
+                  "coords": [
+                        9.173064,
+                        47.696778
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstanz",
+                  "text": "Modern termál- és strandfürdő közvetlenül a Bodeni-tó partján, kilátással a svájci Alpokra.",
+                  "category": "recreational",
+                  "coords": [
+                        9.209998,
+                        47.665187
+                  ]
+            },
+            {
+                  "name": "Konventbau des ehemaligen Benediktinerklosters Petershausen",
+                  "text": "Korábbi bencés apátság, amelyben ma a Régészeti Tartományi Múzeum gazdag gyűjteményei találhatók.",
+                  "category": "museum",
+                  "coords": [
+                        9.178877,
+                        47.668187
+                  ]
+            },
+            {
+                  "name": "K 9",
+                  "text": "Népszerű kulturális központ és színház, amely az egykori Szent Pál-templom épületében működik.",
+                  "category": "cultural",
+                  "coords": [
+                        9.171467,
+                        47.659909
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Obere Güll",
+                  "text": "Értékes természetvédelmi terület a Bodeni-tónál, amely fontos fészkelő- és pihenőhelyet nyújt számos madárfajnak.",
+                  "category": "natural",
+                  "coords": [
+                        9.189685,
+                        47.699587
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Untere Güll",
+                  "text": "Védett vizes élőhely a tóparton, amely a hazai növény- és állatvilág megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        9.183072,
+                        47.705934
+                  ]
+            },
+            {
+                  "name": "Nördliches Mainauried",
+                  "text": "Ökológiailag jelentős nádas terület a Mainau-sziget közelében, jellegzetes vízparti tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        9.180441,
+                        47.702455
+                  ]
+            },
+            {
+                  "name": "Bettenberg-Giratsmoos",
+                  "text": "Erdős természetvédelmi terület Konstanz közelében, amely túrázásra hív az érintetlen természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.149747,
+                        47.705811
+                  ]
+            },
+            {
+                  "name": "Kletterwald Erlebniswald Mainau",
+                  "text": "Egy kalandpark Konstanz közelében, a Mainau-sziget mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        9.174315,
+                        47.698411
+                  ]
+            },
+            {
+                  "name": "Fasnachtsmuseum Konstanz",
+                  "text": "A Rheintorturmban található múzeum, amely a konstanzi farsang történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.177425,
+                        47.665988
+                  ]
+            },
+            {
+                  "name": "Schmuggler Bucht",
+                  "text": "Egy fürdőöböl a Boden-tó partján, Konstanzban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193654,
+                        47.666073
+                  ]
+            },
+            {
+                  "name": "Schwaketenbad",
+                  "text": "Egy nagy szabadidős és fedett uszoda Konstanz Wollmatingen negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.159058,
+                        47.689592
+                  ]
+            },
+            {
+                  "name": "Fürstenberg",
+                  "text": "Egy domb a Bodanrück-félszigeten, ahonnan kilátás nyílik Konstanzra és a tóra.",
+                  "category": "natural",
+                  "coords": [
+                        9.161546,
+                        47.681917
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Egy kilátótorony a kreuzlingeni Seeburgparkban, közvetlenül a konstanzi határnál.",
+                  "category": "natural",
+                  "coords": [
+                        9.18535,
+                        47.652676
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten der Universität Konstanz",
+                  "text": "A Konstanzi Egyetem oktató- és kutatókertje számos növényfajjal.",
+                  "category": "park",
+                  "coords": [
+                        9.179545,
+                        47.691958
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Konstanz",
+                  "text": "Az Otto von Bismarck tiszteletére emelt kilátótorony a konstanzi Raitebergen.",
+                  "category": "historical",
+                  "coords": [
+                        9.180522,
+                        47.679737
+                  ]
+            },
+            {
+                  "name": "Herosépark",
+                  "text": "Egy nyilvános park a Rajna partján, Konstanzban.",
+                  "category": "park",
+                  "coords": [
+                        9.173696,
+                        47.669639
                   ]
             }
       ],
@@ -4282,6 +8188,195 @@ export const poiExtraDe1: POI[] = [
                         9.17357,
                         47.66032
                   ]
+            },
+            {
+                  "name": "Hus-Haus",
+                  "text": "Un muzeu din Konstanz dedicat reformatorului boem Jan Hus.",
+                  "category": "museum",
+                  "coords": [
+                        9.170944,
+                        47.658897
+                  ]
+            },
+            {
+                  "name": "Rosgartenmuseum",
+                  "text": "Muzeul prezintă istoria artei și culturii orașului Konstanz și a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        9.174765,
+                        47.65979
+                  ]
+            },
+            {
+                  "name": "Städtische Wessenberg Galerie",
+                  "text": "Această galerie din Konstanz expune opere de artă importante din zona de sud-vest a Germaniei.",
+                  "category": "museum",
+                  "coords": [
+                        9.175074,
+                        47.663305
+                  ]
+            },
+            {
+                  "name": "Bodensee-Naturmuseum",
+                  "text": "Un muzeu dedicat florei și faunei diverse din regiunea Lacului Constanța.",
+                  "category": "museum",
+                  "coords": [
+                        9.180583,
+                        47.657108
+                  ]
+            },
+            {
+                  "name": "St. Katharina",
+                  "text": "O fostă mănăstire situată pe insula Mainau de lângă Konstanz, păstrată astăzi ca edificiu istoric.",
+                  "category": "religious",
+                  "coords": [
+                        9.173064,
+                        47.696778
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstanz",
+                  "text": "O baie termală modernă și ștrand situat direct pe malul lacului Constance, cu vedere spre Alpii elvețieni.",
+                  "category": "recreational",
+                  "coords": [
+                        9.209998,
+                        47.665187
+                  ]
+            },
+            {
+                  "name": "Konventbau des ehemaligen Benediktinerklosters Petershausen",
+                  "text": "O fostă abație benedictină care găzduiește astăzi colecțiile bogate ale Muzeului Arheologic de Stat.",
+                  "category": "museum",
+                  "coords": [
+                        9.178877,
+                        47.668187
+                  ]
+            },
+            {
+                  "name": "K 9",
+                  "text": "Un cunoscut centru cultural și teatru situat în incinta fostei biserici Sfântul Paul.",
+                  "category": "cultural",
+                  "coords": [
+                        9.171467,
+                        47.659909
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Obere Güll",
+                  "text": "O rezervație naturală valoroasă la lacul Constance, care oferă locuri importante de cuibărit pentru numeroase specii de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        9.189685,
+                        47.699587
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Untere Güll",
+                  "text": "O zonă umedă protejată pe malul lacului, dedicată conservării florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        9.183072,
+                        47.705934
+                  ]
+            },
+            {
+                  "name": "Nördliches Mainauried",
+                  "text": "O zonă de stufăriș de importanță ecologică lângă insula Mainau, cu un peisaj tipic de mal.",
+                  "category": "natural",
+                  "coords": [
+                        9.180441,
+                        47.702455
+                  ]
+            },
+            {
+                  "name": "Bettenberg-Giratsmoos",
+                  "text": "O rezervație naturală împădurită lângă Konstanz, ideală pentru drumeții în natură virgină.",
+                  "category": "natural",
+                  "coords": [
+                        9.149747,
+                        47.705811
+                  ]
+            },
+            {
+                  "name": "Kletterwald Erlebniswald Mainau",
+                  "text": "Un parc de aventură situat lângă insula Mainau de lângă Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.174315,
+                        47.698411
+                  ]
+            },
+            {
+                  "name": "Fasnachtsmuseum Konstanz",
+                  "text": "Muzeu situat în turnul Rheintorturm, dedicat istoriei carnavalului din Konstanz.",
+                  "category": "museum",
+                  "coords": [
+                        9.177425,
+                        47.665988
+                  ]
+            },
+            {
+                  "name": "Schmuggler Bucht",
+                  "text": "Un golf pentru scăldat pe malul lacului Constanța (Bodensee) în Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193654,
+                        47.666073
+                  ]
+            },
+            {
+                  "name": "Schwaketenbad",
+                  "text": "Un parc acvatic și piscină acoperită situată în cartierul Wollmatingen din Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.159058,
+                        47.689592
+                  ]
+            },
+            {
+                  "name": "Fürstenberg",
+                  "text": "Un deal pe peninsula Bodanrück, oferind o panoramă asupra orașului Konstanz și a lacului.",
+                  "category": "natural",
+                  "coords": [
+                        9.161546,
+                        47.681917
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Un turn de observare în parcul Seeburg din Kreuzlingen, chiar lângă granița cu Konstanz.",
+                  "category": "natural",
+                  "coords": [
+                        9.18535,
+                        47.652676
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten der Universität Konstanz",
+                  "text": "O grădină botanică de cercetare a Universității din Konstanz, adăpostind numeroase specii de plante.",
+                  "category": "park",
+                  "coords": [
+                        9.179545,
+                        47.691958
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Konstanz",
+                  "text": "Un turn de observare ridicat în onoarea lui Otto von Bismarck pe dealul Raiteberg din Konstanz.",
+                  "category": "historical",
+                  "coords": [
+                        9.180522,
+                        47.679737
+                  ]
+            },
+            {
+                  "name": "Herosépark",
+                  "text": "Un parc public situat pe malul Rinului în Konstanz.",
+                  "category": "park",
+                  "coords": [
+                        9.173696,
+                        47.669639
+                  ]
             }
       ],
       "en": [
@@ -4333,6 +8428,195 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.17357,
                         47.66032
+                  ]
+            },
+            {
+                  "name": "Hus-Haus",
+                  "text": "A museum in Konstanz dedicated to the Bohemian reformer Jan Hus.",
+                  "category": "museum",
+                  "coords": [
+                        9.170944,
+                        47.658897
+                  ]
+            },
+            {
+                  "name": "Rosgartenmuseum",
+                  "text": "The museum presents the art and cultural history of the city of Konstanz and the region.",
+                  "category": "museum",
+                  "coords": [
+                        9.174765,
+                        47.65979
+                  ]
+            },
+            {
+                  "name": "Städtische Wessenberg Galerie",
+                  "text": "This gallery in Konstanz displays significant works of art from the southwestern German region.",
+                  "category": "museum",
+                  "coords": [
+                        9.175074,
+                        47.663305
+                  ]
+            },
+            {
+                  "name": "Bodensee-Naturmuseum",
+                  "text": "A museum dedicated to the diverse flora and fauna of the Lake Constance region.",
+                  "category": "museum",
+                  "coords": [
+                        9.180583,
+                        47.657108
+                  ]
+            },
+            {
+                  "name": "St. Katharina",
+                  "text": "A former monastery on Mainau Island near Constance, now preserved as a historic building.",
+                  "category": "religious",
+                  "coords": [
+                        9.173064,
+                        47.696778
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstanz",
+                  "text": "A modern thermal bath and outdoor pool located directly on the shores of Lake Constance.",
+                  "category": "recreational",
+                  "coords": [
+                        9.209998,
+                        47.665187
+                  ]
+            },
+            {
+                  "name": "Petershausen Abbey",
+                  "text": "A former Benedictine abbey that now houses the extensive collections of the Archaeological State Museum.",
+                  "category": "museum",
+                  "coords": [
+                        9.178877,
+                        47.668187
+                  ]
+            },
+            {
+                  "name": "K 9",
+                  "text": "A well-known cultural center and theatre located in the former St. Paul's Church.",
+                  "category": "cultural",
+                  "coords": [
+                        9.171467,
+                        47.659909
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Obere Güll",
+                  "text": "A valuable nature reserve on Lake Constance providing important nesting and resting sites for numerous bird species.",
+                  "category": "natural",
+                  "coords": [
+                        9.189685,
+                        47.699587
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Untere Güll",
+                  "text": "A protected wetland on the lakeshore dedicated to the preservation of local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.183072,
+                        47.705934
+                  ]
+            },
+            {
+                  "name": "Nördliches Mainauried",
+                  "text": "An ecologically significant reed area near Mainau Island with a typical lakeside landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.180441,
+                        47.702455
+                  ]
+            },
+            {
+                  "name": "Bettenberg-Giratsmoos",
+                  "text": "A forested nature reserve near Constance, inviting visitors for hikes in untouched nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.149747,
+                        47.705811
+                  ]
+            },
+            {
+                  "name": "Kletterwald Erlebniswald Mainau",
+                  "text": "A high ropes course located near Mainau Island near Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.174315,
+                        47.698411
+                  ]
+            },
+            {
+                  "name": "Fasnachtsmuseum Konstanz",
+                  "text": "A museum in the Rheintorturm dedicated to the history of the Konstanz Carnival.",
+                  "category": "museum",
+                  "coords": [
+                        9.177425,
+                        47.665988
+                  ]
+            },
+            {
+                  "name": "Schmuggler Bucht",
+                  "text": "A bathing bay on the shores of Lake Constance in Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193654,
+                        47.666073
+                  ]
+            },
+            {
+                  "name": "Schwaketenbad",
+                  "text": "A large leisure and indoor pool in the Wollmatingen district of Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.159058,
+                        47.689592
+                  ]
+            },
+            {
+                  "name": "Fürstenberg",
+                  "text": "A hill on the Bodanrück peninsula offering views of Konstanz and the lake.",
+                  "category": "natural",
+                  "coords": [
+                        9.161546,
+                        47.681917
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "An observation tower in Seeburg Park in Kreuzlingen, right on the border with Konstanz.",
+                  "category": "natural",
+                  "coords": [
+                        9.18535,
+                        47.652676
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten der Universität Konstanz",
+                  "text": "A teaching and research garden of the University of Konstanz featuring numerous plant species.",
+                  "category": "park",
+                  "coords": [
+                        9.179545,
+                        47.691958
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Konstanz",
+                  "text": "An observation tower built in honor of Otto von Bismarck on the Raiteberg in Konstanz.",
+                  "category": "historical",
+                  "coords": [
+                        9.180522,
+                        47.679737
+                  ]
+            },
+            {
+                  "name": "Herosépark",
+                  "text": "A public park located on the banks of the Rhine in Konstanz.",
+                  "category": "park",
+                  "coords": [
+                        9.173696,
+                        47.669639
                   ]
             }
       ],

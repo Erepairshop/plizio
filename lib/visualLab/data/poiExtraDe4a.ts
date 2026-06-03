@@ -132,6 +132,240 @@ export const poiExtraDe4a: POI[] = [
                         11.348522,
                         50.948764
                   ]
+            },
+            {
+                  "name": "Deutsches Bienenmuseum",
+                  "text": "Einzigartiges Museum in Weimar, das sich der Geschichte der Bienenzucht und der Bedeutung der Honigbiene widmet.",
+                  "category": "museum",
+                  "coords": [
+                        11.343903,
+                        50.965593
+                  ]
+            },
+            {
+                  "name": "Thüringer Eisenbahnverein",
+                  "text": "Ein Eisenbahnmuseum am ehemaligen Bahnbetriebswerk Weimar, das historische Lokomotiven und Waggons aus Thüringen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.344112,
+                        50.993064
+                  ]
+            },
+            {
+                  "name": "Ginkgo-Museum",
+                  "text": "Ein spezialisiertes Museum in der Nähe des Goethe-Hauses, das die kulturelle und botanische Bedeutung des Ginkgo-Baumes zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.329281,
+                        50.979089
+                  ]
+            },
+            {
+                  "name": "Museum für Ur-und Frühgeschichte Thüringens",
+                  "text": "Das archäologische Landesmuseum Thüringens dokumentiert die menschliche Besiedlung der Region von der Steinzeit bis zum Mittelalter.",
+                  "category": "museum",
+                  "coords": [
+                        11.326025,
+                        50.975513
+                  ]
+            },
+            {
+                  "name": "Nietzsche-Archiv",
+                  "text": "In der ehemaligen Villa 'Silberblick' untergebracht, bewahrt das Archiv den Nachlass und die Bibliothek des Philosophen Friedrich Nietzsche.",
+                  "category": "museum",
+                  "coords": [
+                        11.318107,
+                        50.971651
+                  ]
+            },
+            {
+                  "name": "Bauhaus-Museum Weimar",
+                  "text": "Ein modernes Museum, das die Geschichte und den Einfluss der 1919 in Weimar gegründeten Bauhaus-Schule präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.324381,
+                        50.984774
+                  ]
+            },
+            {
+                  "name": "Albert-Schweitzer-Museum",
+                  "text": "Das Museum informiert über das Leben und Wirken des Nobelpreisträgers Albert Schweitzer, der enge Verbindungen zu Weimar hatte.",
+                  "category": "museum",
+                  "coords": [
+                        11.332191,
+                        50.982124
+                  ]
+            },
+            {
+                  "name": "Pavillon-Presse",
+                  "text": "Ein Museum für Druckgrafik und Pressegeschichte, das in einem historischen Gartenpavillon untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.3268,
+                        50.981528
+                  ]
+            },
+            {
+                  "name": "DNT - Deutsches Nationaltheater und Staatskapelle Weimar",
+                  "text": "Das bedeutendste Theater Weimars, vor dessen Haupteingang das berühmte Goethe-Schiller-Denkmal steht.",
+                  "category": "cultural",
+                  "coords": [
+                        11.324751,
+                        50.979641
+                  ]
+            },
+            {
+                  "name": "Schloss Tiefurt",
+                  "text": "Einstiger Sommersitz der Herzogin Anna Amalia, umgeben von einem weitläufigen Landschaftspark an der Ilm.",
+                  "category": "castle",
+                  "coords": [
+                        11.363651,
+                        50.994119
+                  ]
+            },
+            {
+                  "name": "Liszt-Haus",
+                  "text": "Das ehemalige Wohnhaus des Komponisten Franz Liszt in Weimar, das heute als Museum sein Leben und Werk würdigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.329991,
+                        50.97488
+                  ]
+            },
+            {
+                  "name": "Museum Neues Weimar",
+                  "text": "Ein Kunstmuseum, das internationale Werke der Moderne und der frühen Bauhaus-Phase in Weimar ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        11.32635,
+                        50.986181
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Harry Graf Kessler",
+                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst im Zentrum von Weimar.",
+                  "category": "museum",
+                  "coords": [
+                        11.325903,
+                        50.982658
+                  ]
+            },
+            {
+                  "name": "Museum zur bürgerlichen Wohnkultur im 18. und 19. Jahrhundert",
+                  "text": "Das Museum zeigt bürgerliche Wohnkultur und Lebensstile des 18. und 19. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        11.330192,
+                        50.981785
+                  ]
+            },
+            {
+                  "name": "Fürstengruft",
+                  "text": "Die historische Begräbnisstätte der Weimarer Herzöge sowie von Goethe und Schiller.",
+                  "category": "museum",
+                  "coords": [
+                        11.325667,
+                        50.97264
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum",
+                  "text": "Ein Kunstmuseum im Weimarer Stadtschloss mit bedeutenden Sammlungen vom Mittelalter bis zur Moderne.",
+                  "category": "museum",
+                  "coords": [
+                        11.332385,
+                        50.981
+                  ]
+            },
+            {
+                  "name": "Museum Zwangsarbeit im Nationalsozialismus",
+                  "text": "Ein Museum, das sich der Geschichte und den Opfern der Zwangsarbeit während der NS-Zeit widmet.",
+                  "category": "museum",
+                  "coords": [
+                        11.327428,
+                        50.984806
+                  ]
+            },
+            {
+                  "name": "Schirmmuseum",
+                  "text": "Ein kleines Museum in Weimar, das sich der Geschichte und Vielfalt von Regenschirmen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        11.327907,
+                        50.980293
+                  ]
+            },
+            {
+                  "name": "Schwanseebad Freibad",
+                  "text": "Ein beliebtes öffentliches Freibad in Weimar für Erholung und sportliche Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        11.319206,
+                        50.984485
+                  ]
+            },
+            {
+                  "name": "Ilmpark",
+                  "text": "Ein großer Landschaftspark an der Ilm, der zum UNESCO-Welterbe gehört und Goethes Gartenhaus beherbergt.",
+                  "category": "park",
+                  "coords": [
+                        11.33644,
+                        50.973427
+                  ]
+            },
+            {
+                  "name": "Jakobskirchhof",
+                  "text": "Ein historischer Friedhof in Weimar, auf dem bedeutende Persönlichkeiten wie Christiane von Goethe bestattet sind.",
+                  "category": "park",
+                  "coords": [
+                        11.327624,
+                        50.983342
+                  ]
+            },
+            {
+                  "name": "Karlsmühle",
+                  "text": "Die Überreste einer historischen Mühle an der Ilm im Zentrum von Weimar.",
+                  "category": "historical",
+                  "coords": [
+                        11.33191,
+                        50.984497
+                  ]
+            },
+            {
+                  "name": "Buchenwaldplatz",
+                  "text": "Ein Gedenkplatz in Weimar nahe dem Hauptbahnhof zur Erinnerung an die Opfer des Konzentrationslagers Buchenwald.",
+                  "category": "park",
+                  "coords": [
+                        11.325909,
+                        50.988575
+                  ]
+            },
+            {
+                  "name": "Viehauktionshalle",
+                  "text": "Ehemalige Viehauktionshalle in Weimar, die nach einem Brand im Jahr 2015 als Ruine erhalten blieb.",
+                  "category": "historical",
+                  "coords": [
+                        11.317402,
+                        50.992986
+                  ]
+            },
+            {
+                  "name": "Tempelherrenhaus",
+                  "text": "Neogotische Ruine im Park an der Ilm, die ursprünglich als Orangerie und später als Konzertsaal diente.",
+                  "category": "historical",
+                  "coords": [
+                        11.332232,
+                        50.975779
+                  ]
+            },
+            {
+                  "name": "Oppelscher Garten",
+                  "text": "Historische Gartenanlage in der Nähe des Schillermuseums mit einem barocken Gartenhaus.",
+                  "category": "park",
+                  "coords": [
+                        11.330824,
+                        50.978022
+                  ]
             }
       ],
       "hu": [
@@ -193,6 +427,240 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         11.348522,
                         50.948764
+                  ]
+            },
+            {
+                  "name": "Deutsches Bienenmuseum",
+                  "text": "Különleges weimari múzeum, amely a méhészet történetét és a háziméh jelentőségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.343903,
+                        50.965593
+                  ]
+            },
+            {
+                  "name": "Thüringer Eisenbahnverein",
+                  "text": "A weimari fűtőházban található vasúti múzeum, amely történelmi türingiai mozdonyokat és vagonokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.344112,
+                        50.993064
+                  ]
+            },
+            {
+                  "name": "Ginkgo-Museum",
+                  "text": "A Goethe-ház közelében található múzeum, amely a ginkgo fa kulturális és botanikai jelentőségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.329281,
+                        50.979089
+                  ]
+            },
+            {
+                  "name": "Museum für Ur-und Frühgeschichte Thüringens",
+                  "text": "Türingia régészeti múzeuma, amely a régió településtörténetét mutatja be a kőkorszaktól a középkorig.",
+                  "category": "museum",
+                  "coords": [
+                        11.326025,
+                        50.975513
+                  ]
+            },
+            {
+                  "name": "Nietzsche-Archiv",
+                  "text": "Az egykori Silberblick-villában található archívum Friedrich Nietzsche filozófus hagyatékát és könyvtárát őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        11.318107,
+                        50.971651
+                  ]
+            },
+            {
+                  "name": "Bauhaus-Museum Weimar",
+                  "text": "Modern múzeum, amely az 1919-ben Weimarban alapított Bauhaus iskola történetét és hatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.324381,
+                        50.984774
+                  ]
+            },
+            {
+                  "name": "Albert-Schweitzer-Museum",
+                  "text": "A múzeum a Nobel-díjas Albert Schweitzer életét és munkásságát mutatja be, akinek szoros kötődése volt Weimarhoz.",
+                  "category": "museum",
+                  "coords": [
+                        11.332191,
+                        50.982124
+                  ]
+            },
+            {
+                  "name": "Pavillon-Presse",
+                  "text": "Grafikai és sajtótörténeti múzeum, amely egy történelmi kerti pavilonban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        11.3268,
+                        50.981528
+                  ]
+            },
+            {
+                  "name": "DNT - Deutsches Nationaltheater und Staatskapelle Weimar",
+                  "text": "Weimar legjelentősebb színháza, amelynek főbejárata előtt a híres Goethe–Schiller-emlékmű áll.",
+                  "category": "cultural",
+                  "coords": [
+                        11.324751,
+                        50.979641
+                  ]
+            },
+            {
+                  "name": "Schloss Tiefurt",
+                  "text": "Anna Amália hercegné egykori nyári rezidenciája, amelyet tágas tájképi park vesz körül az Ilm partján.",
+                  "category": "castle",
+                  "coords": [
+                        11.363651,
+                        50.994119
+                  ]
+            },
+            {
+                  "name": "Liszt-Haus",
+                  "text": "Liszt Ferenc zeneszerző egykori weimari lakóháza, amely ma múzeumként mutatja be életét és művészetét.",
+                  "category": "museum",
+                  "coords": [
+                        11.329991,
+                        50.97488
+                  ]
+            },
+            {
+                  "name": "Museum Neues Weimar",
+                  "text": "Művészeti múzeum, amely a modernizmus és a korai Bauhaus-korszak nemzetközi műveit mutatja be Weimarban.",
+                  "category": "museum",
+                  "coords": [
+                        11.32635,
+                        50.986181
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Harry Graf Kessler",
+                  "text": "Kortárs művészeti kiállítótér Weimar központjában.",
+                  "category": "museum",
+                  "coords": [
+                        11.325903,
+                        50.982658
+                  ]
+            },
+            {
+                  "name": "Museum zur bürgerlichen Wohnkultur im 18. und 19. Jahrhundert",
+                  "text": "A múzeum a 18. és 19. századi polgári lakáskultúrát és életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.330192,
+                        50.981785
+                  ]
+            },
+            {
+                  "name": "Fürstengruft",
+                  "text": "A weimari hercegek, valamint Goethe és Schiller történelmi nyughelye.",
+                  "category": "museum",
+                  "coords": [
+                        11.325667,
+                        50.97264
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum",
+                  "text": "A weimari kastélyban található művészeti múzeum jelentős gyűjteményekkel a középkortól a modern korig.",
+                  "category": "museum",
+                  "coords": [
+                        11.332385,
+                        50.981
+                  ]
+            },
+            {
+                  "name": "Museum Zwangsarbeit im Nationalsozialismus",
+                  "text": "A náci korszak alatti kényszermunka történetének és áldozatainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        11.327428,
+                        50.984806
+                  ]
+            },
+            {
+                  "name": "Schirmmuseum",
+                  "text": "Kis weimari múzeum, amely az esernyők történetét és változatosságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.327907,
+                        50.980293
+                  ]
+            },
+            {
+                  "name": "Schwanseebad Freibad",
+                  "text": "Népszerű szabadtéri strand Weimarban pihenéshez és sportoláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        11.319206,
+                        50.984485
+                  ]
+            },
+            {
+                  "name": "Ilmpark",
+                  "text": "Nagy tájképi park az Ilm partján, amely az UNESCO Világörökség része és itt található Goethe kerti háza is.",
+                  "category": "park",
+                  "coords": [
+                        11.33644,
+                        50.973427
+                  ]
+            },
+            {
+                  "name": "Jakobskirchhof",
+                  "text": "Történelmi temető Weimarban, ahol olyan jelentős személyiségek nyugszanak, mint Christiane von Goethe.",
+                  "category": "park",
+                  "coords": [
+                        11.327624,
+                        50.983342
+                  ]
+            },
+            {
+                  "name": "Karlsmühle",
+                  "text": "Egy történelmi malom maradványai az Ilm partján, Weimar központjában.",
+                  "category": "historical",
+                  "coords": [
+                        11.33191,
+                        50.984497
+                  ]
+            },
+            {
+                  "name": "Buchenwaldplatz",
+                  "text": "Emlékhely Weimarban a főpályaudvar közelében, a buchenwaldi koncentrációs tábor áldozatainak emlékére.",
+                  "category": "park",
+                  "coords": [
+                        11.325909,
+                        50.988575
+                  ]
+            },
+            {
+                  "name": "Viehauktionshalle",
+                  "text": "Egykori vágóhíd és aukciós csarnok Weimarban, amely egy 2015-ös tűzvész után romként maradt meg.",
+                  "category": "historical",
+                  "coords": [
+                        11.317402,
+                        50.992986
+                  ]
+            },
+            {
+                  "name": "Tempelherrenhaus",
+                  "text": "Neogótikus rom az Ilm-parti parkban, amely eredetileg narancsházként, majd koncertteremként működött.",
+                  "category": "historical",
+                  "coords": [
+                        11.332232,
+                        50.975779
+                  ]
+            },
+            {
+                  "name": "Oppelscher Garten",
+                  "text": "Történelmi kert a Schiller-múzeum közelében, egy barokk kerti házzal.",
+                  "category": "park",
+                  "coords": [
+                        11.330824,
+                        50.978022
                   ]
             }
       ],
@@ -256,6 +724,240 @@ export const poiExtraDe4a: POI[] = [
                         11.348522,
                         50.948764
                   ]
+            },
+            {
+                  "name": "Deutsches Bienenmuseum",
+                  "text": "Un muzeu unic din Weimar, dedicat istoriei apiculturii și importanței albinei melifere.",
+                  "category": "museum",
+                  "coords": [
+                        11.343903,
+                        50.965593
+                  ]
+            },
+            {
+                  "name": "Thüringer Eisenbahnverein",
+                  "text": "Un muzeu feroviar situat în fostul depou Weimar, care prezintă locomotive și vagoane istorice din Turingia.",
+                  "category": "museum",
+                  "coords": [
+                        11.344112,
+                        50.993064
+                  ]
+            },
+            {
+                  "name": "Ginkgo-Museum",
+                  "text": "Un muzeu specializat situat lângă Casa Goethe, care prezintă semnificația culturală și botanică a arborelui ginkgo.",
+                  "category": "museum",
+                  "coords": [
+                        11.329281,
+                        50.979089
+                  ]
+            },
+            {
+                  "name": "Museum für Ur-und Frühgeschichte Thüringens",
+                  "text": "Muzeul arheologic al Turingiei documentează așezarea umană în regiune din epoca pietrei până în Evul Mediu.",
+                  "category": "museum",
+                  "coords": [
+                        11.326025,
+                        50.975513
+                  ]
+            },
+            {
+                  "name": "Nietzsche-Archiv",
+                  "text": "Găzduit în fosta vilă Silberblick, arhiva păstrează moștenirea și biblioteca filosofului Friedrich Nietzsche.",
+                  "category": "museum",
+                  "coords": [
+                        11.318107,
+                        50.971651
+                  ]
+            },
+            {
+                  "name": "Bauhaus-Museum Weimar",
+                  "text": "Un muzeu modern care prezintă istoria și influența școlii Bauhaus, fondată la Weimar în 1919.",
+                  "category": "museum",
+                  "coords": [
+                        11.324381,
+                        50.984774
+                  ]
+            },
+            {
+                  "name": "Albert-Schweitzer-Museum",
+                  "text": "Muzeul oferă informații despre viața și activitatea laureatului Premiului Nobel Albert Schweitzer, care a avut legături strânse cu Weimar.",
+                  "category": "museum",
+                  "coords": [
+                        11.332191,
+                        50.982124
+                  ]
+            },
+            {
+                  "name": "Pavillon-Presse",
+                  "text": "Un muzeu pentru grafică publicitară și istoria presei, găzduit într-un pavilion istoric de grădină.",
+                  "category": "museum",
+                  "coords": [
+                        11.3268,
+                        50.981528
+                  ]
+            },
+            {
+                  "name": "DNT - Deutsches Nationaltheater und Staatskapelle Weimar",
+                  "text": "Cel mai important teatru din Weimar, în fața căruia se află faimosul monument Goethe-Schiller.",
+                  "category": "cultural",
+                  "coords": [
+                        11.324751,
+                        50.979641
+                  ]
+            },
+            {
+                  "name": "Schloss Tiefurt",
+                  "text": "Fosta reședință de vară a ducesei Anna Amalia, înconjurată de un vast parc pe malul râului Ilm.",
+                  "category": "castle",
+                  "coords": [
+                        11.363651,
+                        50.994119
+                  ]
+            },
+            {
+                  "name": "Liszt-Haus",
+                  "text": "Fosta casă a compozitorului Franz Liszt din Weimar, care astăzi onorează viața și opera sa ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        11.329991,
+                        50.97488
+                  ]
+            },
+            {
+                  "name": "Museum Neues Weimar",
+                  "text": "Un muzeu de artă care expune lucrări internaționale ale modernismului și ale fazei timpurii a curentului Bauhaus la Weimar.",
+                  "category": "museum",
+                  "coords": [
+                        11.32635,
+                        50.986181
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Harry Graf Kessler",
+                  "text": "Un spațiu de expoziție pentru artă contemporană în centrul orașului Weimar.",
+                  "category": "museum",
+                  "coords": [
+                        11.325903,
+                        50.982658
+                  ]
+            },
+            {
+                  "name": "Museum zur bürgerlichen Wohnkultur im 18. und 19. Jahrhundert",
+                  "text": "Muzeul prezintă cultura locuirii și stilul de viață burghez din secolele XVIII și XIX.",
+                  "category": "museum",
+                  "coords": [
+                        11.330192,
+                        50.981785
+                  ]
+            },
+            {
+                  "name": "Fürstengruft",
+                  "text": "Locul istoric de înmormântare al ducilor de Weimar, precum și al lui Goethe și Schiller.",
+                  "category": "museum",
+                  "coords": [
+                        11.325667,
+                        50.97264
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum",
+                  "text": "Un muzeu de artă în Castelul din Weimar, cu colecții importante din Evul Mediu până în epoca modernă.",
+                  "category": "museum",
+                  "coords": [
+                        11.332385,
+                        50.981
+                  ]
+            },
+            {
+                  "name": "Museum Zwangsarbeit im Nationalsozialismus",
+                  "text": "Un muzeu dedicat istoriei și victimelor muncii forțate în timpul erei național-socialiste.",
+                  "category": "museum",
+                  "coords": [
+                        11.327428,
+                        50.984806
+                  ]
+            },
+            {
+                  "name": "Schirmmuseum",
+                  "text": "Un mic muzeu din Weimar dedicat istoriei și varietății umbrelelor.",
+                  "category": "museum",
+                  "coords": [
+                        11.327907,
+                        50.980293
+                  ]
+            },
+            {
+                  "name": "Schwanseebad Freibad",
+                  "text": "O piscină publică în aer liber populară în Weimar pentru recreere și activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        11.319206,
+                        50.984485
+                  ]
+            },
+            {
+                  "name": "Ilmpark",
+                  "text": "Un parc peisagistic mare pe râul Ilm, care face parte din patrimoniul mondial UNESCO și găzduiește casa de grădină a lui Goethe.",
+                  "category": "park",
+                  "coords": [
+                        11.33644,
+                        50.973427
+                  ]
+            },
+            {
+                  "name": "Jakobskirchhof",
+                  "text": "Un cimitir istoric din Weimar, unde sunt înmormântate personalități importante precum Christiane von Goethe.",
+                  "category": "park",
+                  "coords": [
+                        11.327624,
+                        50.983342
+                  ]
+            },
+            {
+                  "name": "Karlsmühle",
+                  "text": "Rămășițele unei mori istorice pe râul Ilm, în centrul orașului Weimar.",
+                  "category": "historical",
+                  "coords": [
+                        11.33191,
+                        50.984497
+                  ]
+            },
+            {
+                  "name": "Buchenwaldplatz",
+                  "text": "O piață memorială în Weimar, lângă gara centrală, în memoria victimelor lagărului de concentrare Buchenwald.",
+                  "category": "park",
+                  "coords": [
+                        11.325909,
+                        50.988575
+                  ]
+            },
+            {
+                  "name": "Viehauktionshalle",
+                  "text": "Fosta hală de licitații de vite din Weimar, rămasă în stare de ruină după un incendiu în 2015.",
+                  "category": "historical",
+                  "coords": [
+                        11.317402,
+                        50.992986
+                  ]
+            },
+            {
+                  "name": "Tempelherrenhaus",
+                  "text": "Ruină neogotică din Parcul de pe Ilm, utilizată inițial ca oranjerie și ulterior ca sală de concerte.",
+                  "category": "historical",
+                  "coords": [
+                        11.332232,
+                        50.975779
+                  ]
+            },
+            {
+                  "name": "Oppelscher Garten",
+                  "text": "Grădină istorică situată lângă Muzeul Schiller, incluzând o casă de grădină în stil baroc.",
+                  "category": "park",
+                  "coords": [
+                        11.330824,
+                        50.978022
+                  ]
             }
       ],
       "en": [
@@ -317,6 +1019,240 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         11.348522,
                         50.948764
+                  ]
+            },
+            {
+                  "name": "Deutsches Bienenmuseum",
+                  "text": "A unique museum in Weimar dedicated to the history of beekeeping and the significance of the honeybee.",
+                  "category": "museum",
+                  "coords": [
+                        11.343903,
+                        50.965593
+                  ]
+            },
+            {
+                  "name": "Thüringer Eisenbahnverein",
+                  "text": "A railway museum located at the former Weimar engine shed, showcasing historical locomotives and wagons from Thuringia.",
+                  "category": "museum",
+                  "coords": [
+                        11.344112,
+                        50.993064
+                  ]
+            },
+            {
+                  "name": "Ginkgo-Museum",
+                  "text": "A specialized museum near Goethe's House showcasing the cultural and botanical significance of the ginkgo tree.",
+                  "category": "museum",
+                  "coords": [
+                        11.329281,
+                        50.979089
+                  ]
+            },
+            {
+                  "name": "Museum für Ur-und Frühgeschichte Thüringens",
+                  "text": "Thuringia's archaeological state museum documenting human settlement in the region from the Stone Age to the Middle Ages.",
+                  "category": "museum",
+                  "coords": [
+                        11.326025,
+                        50.975513
+                  ]
+            },
+            {
+                  "name": "Nietzsche-Archiv",
+                  "text": "Housed in the former Villa Silberblick, the archive preserves the estate and library of philosopher Friedrich Nietzsche.",
+                  "category": "museum",
+                  "coords": [
+                        11.318107,
+                        50.971651
+                  ]
+            },
+            {
+                  "name": "Bauhaus-Museum Weimar",
+                  "text": "A modern museum showcasing the history and influence of the Bauhaus school, founded in Weimar in 1919.",
+                  "category": "museum",
+                  "coords": [
+                        11.324381,
+                        50.984774
+                  ]
+            },
+            {
+                  "name": "Albert-Schweitzer-Museum",
+                  "text": "The museum provides information about the life and work of Nobel laureate Albert Schweitzer, who had close ties to Weimar.",
+                  "category": "museum",
+                  "coords": [
+                        11.332191,
+                        50.982124
+                  ]
+            },
+            {
+                  "name": "Pavillon-Presse",
+                  "text": "A museum for printmaking and press history, housed in a historical garden pavilion.",
+                  "category": "museum",
+                  "coords": [
+                        11.3268,
+                        50.981528
+                  ]
+            },
+            {
+                  "name": "DNT - Deutsches Nationaltheater und Staatskapelle Weimar",
+                  "text": "The most significant theatre in Weimar, with the famous Goethe-Schiller monument standing in front of its main entrance.",
+                  "category": "cultural",
+                  "coords": [
+                        11.324751,
+                        50.979641
+                  ]
+            },
+            {
+                  "name": "Schloss Tiefurt",
+                  "text": "Former summer residence of Duchess Anna Amalia, surrounded by a spacious landscape park along the river Ilm.",
+                  "category": "castle",
+                  "coords": [
+                        11.363651,
+                        50.994119
+                  ]
+            },
+            {
+                  "name": "Liszt-Haus",
+                  "text": "The former residence of composer Franz Liszt in Weimar, which now serves as a museum honoring his life and work.",
+                  "category": "museum",
+                  "coords": [
+                        11.329991,
+                        50.97488
+                  ]
+            },
+            {
+                  "name": "Museum Neues Weimar",
+                  "text": "An art museum exhibiting international works of modernism and the early Bauhaus phase in Weimar.",
+                  "category": "museum",
+                  "coords": [
+                        11.32635,
+                        50.986181
+                  ]
+            },
+            {
+                  "name": "Kunsthalle Harry Graf Kessler",
+                  "text": "An exhibition space for contemporary art located in the center of Weimar.",
+                  "category": "museum",
+                  "coords": [
+                        11.325903,
+                        50.982658
+                  ]
+            },
+            {
+                  "name": "Museum zur bürgerlichen Wohnkultur im 18. und 19. Jahrhundert",
+                  "text": "The museum showcases middle-class living culture and lifestyles from the 18th and 19th centuries.",
+                  "category": "museum",
+                  "coords": [
+                        11.330192,
+                        50.981785
+                  ]
+            },
+            {
+                  "name": "Fürstengruft",
+                  "text": "The historical burial site of the Weimar dukes, as well as Goethe and Schiller.",
+                  "category": "museum",
+                  "coords": [
+                        11.325667,
+                        50.97264
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum",
+                  "text": "An art museum in the Weimar City Castle featuring significant collections from the Middle Ages to the modern era.",
+                  "category": "museum",
+                  "coords": [
+                        11.332385,
+                        50.981
+                  ]
+            },
+            {
+                  "name": "Museum Zwangsarbeit im Nationalsozialismus",
+                  "text": "A museum dedicated to the history and victims of forced labor during the National Socialist era.",
+                  "category": "museum",
+                  "coords": [
+                        11.327428,
+                        50.984806
+                  ]
+            },
+            {
+                  "name": "Schirmmuseum",
+                  "text": "A small museum in Weimar dedicated to the history and variety of umbrellas.",
+                  "category": "museum",
+                  "coords": [
+                        11.327907,
+                        50.980293
+                  ]
+            },
+            {
+                  "name": "Schwanseebad Freibad",
+                  "text": "A popular public outdoor swimming pool in Weimar for recreation and sporting activities.",
+                  "category": "recreational",
+                  "coords": [
+                        11.319206,
+                        50.984485
+                  ]
+            },
+            {
+                  "name": "Ilmpark",
+                  "text": "A large landscape park on the Ilm river, which is a UNESCO World Heritage site and home to Goethe's Garden House.",
+                  "category": "park",
+                  "coords": [
+                        11.33644,
+                        50.973427
+                  ]
+            },
+            {
+                  "name": "Jakobskirchhof",
+                  "text": "A historical cemetery in Weimar where significant figures such as Christiane von Goethe are buried.",
+                  "category": "park",
+                  "coords": [
+                        11.327624,
+                        50.983342
+                  ]
+            },
+            {
+                  "name": "Karlsmühle",
+                  "text": "The remains of a historical mill on the Ilm river in the center of Weimar.",
+                  "category": "historical",
+                  "coords": [
+                        11.33191,
+                        50.984497
+                  ]
+            },
+            {
+                  "name": "Buchenwaldplatz",
+                  "text": "A memorial square in Weimar near the main station commemorating the victims of the Buchenwald concentration camp.",
+                  "category": "park",
+                  "coords": [
+                        11.325909,
+                        50.988575
+                  ]
+            },
+            {
+                  "name": "Viehauktionshalle",
+                  "text": "Former livestock auction hall in Weimar, preserved as a ruin following a fire in 2015.",
+                  "category": "historical",
+                  "coords": [
+                        11.317402,
+                        50.992986
+                  ]
+            },
+            {
+                  "name": "Tempelherrenhaus",
+                  "text": "Neo-Gothic ruin in the Park on the Ilm, originally built as an orangerie and later used as a concert hall.",
+                  "category": "historical",
+                  "coords": [
+                        11.332232,
+                        50.975779
+                  ]
+            },
+            {
+                  "name": "Oppelscher Garten",
+                  "text": "Historic garden area near the Schiller Museum featuring a Baroque garden house.",
+                  "category": "park",
+                  "coords": [
+                        11.330824,
+                        50.978022
                   ]
             }
       ]
@@ -789,6 +1725,123 @@ export const poiExtraDe4a: POI[] = [
                         10.325,
                         50.9811
                   ]
+            },
+            {
+                  "name": "Reuter-Wagner-Museum",
+                  "text": "Ein Museum in der Villa von Fritz Reuter, das Ausstellungen zu Reuter und Richard Wagner zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.319861,
+                        50.968156
+                  ]
+            },
+            {
+                  "name": "Villa Pflugensberg",
+                  "text": "Eine prächtige Neorenaissance-Villa in Eisenach, die ehemals als Sitz der Bezirksregierung diente.",
+                  "category": "castle",
+                  "coords": [
+                        10.328266,
+                        50.973156
+                  ]
+            },
+            {
+                  "name": "Landestheater Eisenach",
+                  "text": "Ein traditionsreiches Mehrspartentheater in Eisenach, das Opern, Ballett und Schauspiel zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.322232,
+                        50.977828
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Goldener Löwe",
+                  "text": "Gedenkstätte am Ort der Gründung der Sozialdemokratischen Arbeiterpartei im Jahr 1869.",
+                  "category": "museum",
+                  "coords": [
+                        10.322645,
+                        50.968836
+                  ]
+            },
+            {
+                  "name": "Burgruine Metilstein",
+                  "text": "Die Ruine einer mittelalterlichen Hangburg auf dem Metilstein mit weitem Blick über Eisenach.",
+                  "category": "castle",
+                  "coords": [
+                        10.306722,
+                        50.970899
+                  ]
+            },
+            {
+                  "name": "Stadtschloss Eisenach",
+                  "text": "Die barocke ehemalige Residenz der Herzöge von Sachsen-Weimar-Eisenach am Marktplatz.",
+                  "category": "castle",
+                  "coords": [
+                        10.319998,
+                        50.975295
+                  ]
+            },
+            {
+                  "name": "Rudolfstein",
+                  "text": "Die archäologische Stätte einer ehemaligen mittelalterlichen Felsenburg im Eisenacher Stadtwald.",
+                  "category": "castle",
+                  "coords": [
+                        10.312425,
+                        50.95654
+                  ]
+            },
+            {
+                  "name": "Thüringer Museum Predigerkirche - Schnitzplastik",
+                  "text": "Museum in der mittelalterlichen Predigerkirche mit bedeutenden thüringischen Schnitzplastiken.",
+                  "category": "museum",
+                  "coords": [
+                        10.316317,
+                        50.974758
+                  ]
+            },
+            {
+                  "name": "Erlebnisportal Thüringen - Wartburg",
+                  "text": "Ein Informationszentrum für Besucher mit interaktiven Ausstellungen zur Wartburg und Thüringen.",
+                  "category": "museum",
+                  "coords": [
+                        10.301384,
+                        50.967776
+                  ]
+            },
+            {
+                  "name": "Richtstätte / Galgen",
+                  "text": "Die historische archäologische Stätte eines ehemaligen Galgenplatzes in der Nähe von Eisenach.",
+                  "category": "historical",
+                  "coords": [
+                        10.335455,
+                        50.973168
+                  ]
+            },
+            {
+                  "name": "aquaplex",
+                  "text": "Ein modernes Sport- und Freizeitbad in Eisenach mit Schwimmbecken und Saunalandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        10.307118,
+                        50.982705
+                  ]
+            },
+            {
+                  "name": "Karthausgarten",
+                  "text": "Ein historischer Landschaftsgarten in Eisenach, der ursprünglich Teil eines Kartäuserklosters war.",
+                  "category": "park",
+                  "coords": [
+                        10.324127,
+                        50.967595
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Synagoge",
+                  "text": "Gedenkstätte am Standort der ehemaligen Synagoge von Eisenach, die 1938 zerstört wurde.",
+                  "category": "park",
+                  "coords": [
+                        10.319155,
+                        50.978849
+                  ]
             }
       ],
       "hu": [
@@ -850,6 +1903,123 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.325,
                         50.9811
+                  ]
+            },
+            {
+                  "name": "Reuter-Wagner-Museum",
+                  "text": "Fritz Reuter egykori villájában található múzeum, amely Reuter és Richard Wagner munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.319861,
+                        50.968156
+                  ]
+            },
+            {
+                  "name": "Villa Pflugensberg",
+                  "text": "Reprezentatív neoreneszánsz villa Eisenachban, amely korábban kormányzati székhelyként is szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        10.328266,
+                        50.973156
+                  ]
+            },
+            {
+                  "name": "Landestheater Eisenach",
+                  "text": "Eisenach nagy múltú, több műfajú színháza, amely opera-, balett- és drámai előadásokat tart.",
+                  "category": "cultural",
+                  "coords": [
+                        10.322232,
+                        50.977828
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Goldener Löwe",
+                  "text": "Az 1869-ben alapított Szociáldemokrata Munkáspárt emlékhelye egy történelmi eisenachi épületben.",
+                  "category": "museum",
+                  "coords": [
+                        10.322645,
+                        50.968836
+                  ]
+            },
+            {
+                  "name": "Burgruine Metilstein",
+                  "text": "Középkori várrom a Metilstein-dombon, ahonnan kilátás nyílik Eisenach városára.",
+                  "category": "castle",
+                  "coords": [
+                        10.306722,
+                        50.970899
+                  ]
+            },
+            {
+                  "name": "Stadtschloss Eisenach",
+                  "text": "Szász-Weimar-Eisenach hercegeinek egykori barokk rezidenciája az eisenachi piactéren.",
+                  "category": "castle",
+                  "coords": [
+                        10.319998,
+                        50.975295
+                  ]
+            },
+            {
+                  "name": "Rudolfstein",
+                  "text": "Egy egykori középkori sziklavár régészeti helyszíne az eisenachi városi erdőben.",
+                  "category": "castle",
+                  "coords": [
+                        10.312425,
+                        50.95654
+                  ]
+            },
+            {
+                  "name": "Thüringer Museum Predigerkirche - Schnitzplastik",
+                  "text": "A középkori Predigerkirche épületében működő múzeum türingiai fafaragványokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.316317,
+                        50.974758
+                  ]
+            },
+            {
+                  "name": "Erlebnisportal Thüringen - Wartburg",
+                  "text": "Látogatóközpont interaktív kiállításokkal, amelyek a Wartburg várát és Türingiát mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        10.301384,
+                        50.967776
+                  ]
+            },
+            {
+                  "name": "Richtstätte / Galgen",
+                  "text": "Egykori vesztőhely és bitófa történelmi régészeti helyszíne Eisenach közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.335455,
+                        50.973168
+                  ]
+            },
+            {
+                  "name": "aquaplex",
+                  "text": "Eisenach modern sport- és élményfürdője úszómedencékkel és szaunavilággal.",
+                  "category": "recreational",
+                  "coords": [
+                        10.307118,
+                        50.982705
+                  ]
+            },
+            {
+                  "name": "Karthausgarten",
+                  "text": "Történelmi tájpark Eisenachban, amely eredetileg egy karthauzi kolostorhoz tartozott.",
+                  "category": "park",
+                  "coords": [
+                        10.324127,
+                        50.967595
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Synagoge",
+                  "text": "Emlékhely az 1938-ban elpusztított eisenachi zsinagóga helyén.",
+                  "category": "park",
+                  "coords": [
+                        10.319155,
+                        50.978849
                   ]
             }
       ],
@@ -913,6 +2083,123 @@ export const poiExtraDe4a: POI[] = [
                         10.325,
                         50.9811
                   ]
+            },
+            {
+                  "name": "Reuter-Wagner-Museum",
+                  "text": "Un muzeu situat în vila lui Fritz Reuter, dedicat lui Reuter și lui Richard Wagner.",
+                  "category": "museum",
+                  "coords": [
+                        10.319861,
+                        50.968156
+                  ]
+            },
+            {
+                  "name": "Villa Pflugensberg",
+                  "text": "O vilă impunătoare în stil neorenascentist din Eisenach, care a servit drept sediu administrativ.",
+                  "category": "castle",
+                  "coords": [
+                        10.328266,
+                        50.973156
+                  ]
+            },
+            {
+                  "name": "Landestheater Eisenach",
+                  "text": "Un teatru cu tradiție din Eisenach, care găzduiește spectacole de operă, balet și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        10.322232,
+                        50.977828
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Goldener Löwe",
+                  "text": "Un sit memorial situat în locul unde a fost fondat Partidul Muncitoresc Social-Democrat în 1869.",
+                  "category": "museum",
+                  "coords": [
+                        10.322645,
+                        50.968836
+                  ]
+            },
+            {
+                  "name": "Burgruine Metilstein",
+                  "text": "Ruinele unei cetăți medievale situate pe dealul Metilstein, oferind o vedere panoramică asupra orașului.",
+                  "category": "castle",
+                  "coords": [
+                        10.306722,
+                        50.970899
+                  ]
+            },
+            {
+                  "name": "Stadtschloss Eisenach",
+                  "text": "Fosta reședință barocă a ducilor de Saxa-Weimar-Eisenach, situată în piața centrală.",
+                  "category": "castle",
+                  "coords": [
+                        10.319998,
+                        50.975295
+                  ]
+            },
+            {
+                  "name": "Rudolfstein",
+                  "text": "Situl arheologic al unei foste cetăți medievale construite pe stâncă în pădurea orașului Eisenach.",
+                  "category": "castle",
+                  "coords": [
+                        10.312425,
+                        50.95654
+                  ]
+            },
+            {
+                  "name": "Thüringer Museum Predigerkirche - Schnitzplastik",
+                  "text": "Muzeu situat în biserica medievală Predigerkirche, prezentând sculpturi turingiene în lemn.",
+                  "category": "museum",
+                  "coords": [
+                        10.316317,
+                        50.974758
+                  ]
+            },
+            {
+                  "name": "Erlebnisportal Thüringen - Wartburg",
+                  "text": "Un centru de informare pentru vizitatori cu expoziții interactive despre Castelul Wartburg și Turingia.",
+                  "category": "museum",
+                  "coords": [
+                        10.301384,
+                        50.967776
+                  ]
+            },
+            {
+                  "name": "Richtstätte / Galgen",
+                  "text": "Sit arheologic istoric care marchează fostul loc de execuție din apropierea orașului Eisenach.",
+                  "category": "historical",
+                  "coords": [
+                        10.335455,
+                        50.973168
+                  ]
+            },
+            {
+                  "name": "aquaplex",
+                  "text": "Un complex modern de natație și agrement din Eisenach, cu bazine și zonă de saună.",
+                  "category": "recreational",
+                  "coords": [
+                        10.307118,
+                        50.982705
+                  ]
+            },
+            {
+                  "name": "Karthausgarten",
+                  "text": "O grădină peisagistică istorică din Eisenach, care a făcut parte dintr-o mănăstire cartusiană.",
+                  "category": "park",
+                  "coords": [
+                        10.324127,
+                        50.967595
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Synagoge",
+                  "text": "Memorial pe locul fostei sinagogi din Eisenach, care a fost distrusă în 1938.",
+                  "category": "park",
+                  "coords": [
+                        10.319155,
+                        50.978849
+                  ]
             }
       ],
       "en": [
@@ -974,6 +2261,123 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.325,
                         50.9811
+                  ]
+            },
+            {
+                  "name": "Reuter-Wagner-Museum",
+                  "text": "A museum located in Fritz Reuter's villa, featuring exhibitions on Reuter and Richard Wagner.",
+                  "category": "museum",
+                  "coords": [
+                        10.319861,
+                        50.968156
+                  ]
+            },
+            {
+                  "name": "Villa Pflugensberg",
+                  "text": "A grand Neo-Renaissance villa in Eisenach that formerly served as the seat of the regional government.",
+                  "category": "castle",
+                  "coords": [
+                        10.328266,
+                        50.973156
+                  ]
+            },
+            {
+                  "name": "Landestheater Eisenach",
+                  "text": "A traditional multi-genre theatre in Eisenach hosting opera, ballet, and drama performances.",
+                  "category": "cultural",
+                  "coords": [
+                        10.322232,
+                        50.977828
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Goldener Löwe",
+                  "text": "A memorial site located at the founding place of the Social Democratic Workers' Party in 1869.",
+                  "category": "museum",
+                  "coords": [
+                        10.322645,
+                        50.968836
+                  ]
+            },
+            {
+                  "name": "Burgruine Metilstein",
+                  "text": "The ruins of a medieval castle on the Metilstein hill, overlooking the city of Eisenach.",
+                  "category": "castle",
+                  "coords": [
+                        10.306722,
+                        50.970899
+                  ]
+            },
+            {
+                  "name": "Stadtschloss Eisenach",
+                  "text": "The Baroque former residence of the Dukes of Saxe-Weimar-Eisenach on the market square.",
+                  "category": "castle",
+                  "coords": [
+                        10.319998,
+                        50.975295
+                  ]
+            },
+            {
+                  "name": "Rudolfstein",
+                  "text": "The archaeological site of a former medieval rock castle located in the Eisenach city forest.",
+                  "category": "castle",
+                  "coords": [
+                        10.312425,
+                        50.95654
+                  ]
+            },
+            {
+                  "name": "Thüringer Museum Predigerkirche - Schnitzplastik",
+                  "text": "A museum in the medieval Predigerkirche featuring significant Thuringian wood carvings.",
+                  "category": "museum",
+                  "coords": [
+                        10.316317,
+                        50.974758
+                  ]
+            },
+            {
+                  "name": "Erlebnisportal Thüringen - Wartburg",
+                  "text": "A visitor information center with interactive exhibitions about Wartburg Castle and Thuringia.",
+                  "category": "museum",
+                  "coords": [
+                        10.301384,
+                        50.967776
+                  ]
+            },
+            {
+                  "name": "Richtstätte / Galgen",
+                  "text": "The historical archaeological site of a former place of execution near Eisenach.",
+                  "category": "historical",
+                  "coords": [
+                        10.335455,
+                        50.973168
+                  ]
+            },
+            {
+                  "name": "aquaplex",
+                  "text": "A modern sports and leisure pool in Eisenach with swimming pools and a sauna area.",
+                  "category": "recreational",
+                  "coords": [
+                        10.307118,
+                        50.982705
+                  ]
+            },
+            {
+                  "name": "Karthausgarten",
+                  "text": "A historic landscape park in Eisenach that was originally part of a Carthusian monastery.",
+                  "category": "park",
+                  "coords": [
+                        10.324127,
+                        50.967595
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Synagoge",
+                  "text": "Memorial site at the location of the former Eisenach synagogue, which was destroyed in 1938.",
+                  "category": "park",
+                  "coords": [
+                        10.319155,
+                        50.978849
                   ]
             }
       ]
@@ -1310,6 +2714,105 @@ export const poiExtraDe4a: POI[] = [
                         10.70165,
                         50.949
                   ]
+            },
+            {
+                  "name": "Deutsches Versicherungsmuseum",
+                  "text": "Ein Museum in Gotha, das die Geschichte des deutschen Versicherungswesens und das Erbe von Ernst Wilhelm Arnoldi zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.711976,
+                        50.943053
+                  ]
+            },
+            {
+                  "name": "Schloss Friedrichsthal",
+                  "text": "Barockschloss in Gotha, das im frühen 18. Jahrhundert als Sommerresidenz erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        10.710696,
+                        50.947165
+                  ]
+            },
+            {
+                  "name": "Stadt-Bad Gotha",
+                  "text": "Historisches Jugendstil-Hallenbad in Gotha mit modernen Wellness- und Schwimmeinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.696353,
+                        50.950296
+                  ]
+            },
+            {
+                  "name": "Seeberg",
+                  "text": "Naturschutzgebiet bei Gotha, das für seine markanten Sandsteinformationen und Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        10.764676,
+                        50.921678
+                  ]
+            },
+            {
+                  "name": "Tierpark Gotha",
+                  "text": "Heimattierpark in Gotha, der zahlreiche europäische Tierarten in naturnahen Gehegen beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.719941,
+                        50.934486
+                  ]
+            },
+            {
+                  "name": "Winterpalais",
+                  "text": "Klassizistisches Stadtpalais in Gotha, das einst als Witwensitz für die Herzoginnen diente.",
+                  "category": "castle",
+                  "coords": [
+                        10.709033,
+                        50.947829
+                  ]
+            },
+            {
+                  "name": "Krahnberg - Kriegberg",
+                  "text": "Bewaldetes Höhengebiet und Naturschutzgebiet bei Gotha mit Wanderwegen und Aussichtspunkten.",
+                  "category": "natural",
+                  "coords": [
+                        10.650252,
+                        50.967724
+                  ]
+            },
+            {
+                  "name": "Lucas-Cranach-Haus",
+                  "text": "Gedenkstätte am Hauptmarkt von Gotha, die an den Geburtsort von Lucas Cranach dem Jüngeren erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        10.702757,
+                        50.947866
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "Öffentliches Freibad in Gotha mit Schwimmbecken und Liegewiesen für sommerliche Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.710359,
+                        50.934115
+                  ]
+            },
+            {
+                  "name": "Kirchgarten",
+                  "text": "Ruhige Parkanlage und Grünfläche in der Nähe einer Kirche in Gotha, ideal zum Entspannen.",
+                  "category": "park",
+                  "coords": [
+                        10.743279,
+                        50.942739
+                  ]
+            },
+            {
+                  "name": "Bürgerturm",
+                  "text": "Aussichtsturm auf dem Krahnberg bei Gotha, der einen weiten Blick über das Thüringer Becken bietet.",
+                  "category": "tower",
+                  "coords": [
+                        10.666214,
+                        50.960248
+                  ]
             }
       ],
       "hu": [
@@ -1371,6 +2874,105 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.70165,
                         50.949
+                  ]
+            },
+            {
+                  "name": "Deutsches Versicherungsmuseum",
+                  "text": "Gothai múzeum, amely a német biztosítási ágazat történetét és Ernst Wilhelm Arnoldi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.711976,
+                        50.943053
+                  ]
+            },
+            {
+                  "name": "Schloss Friedrichsthal",
+                  "text": "Barokk kastély Gothában, amely a 18. század elején épült nyári rezidenciaként.",
+                  "category": "castle",
+                  "coords": [
+                        10.710696,
+                        50.947165
+                  ]
+            },
+            {
+                  "name": "Stadt-Bad Gotha",
+                  "text": "Történelmi szecessziós uszoda Gothában, modern wellness- és úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.696353,
+                        50.950296
+                  ]
+            },
+            {
+                  "name": "Seeberg",
+                  "text": "Gotha közeli természetvédelmi terület, amely homokkő szikláiról és növényvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        10.764676,
+                        50.921678
+                  ]
+            },
+            {
+                  "name": "Tierpark Gotha",
+                  "text": "Gothai állatkert, amely számos európai állatfajnak ad otthont természetközeli kifutókban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.719941,
+                        50.934486
+                  ]
+            },
+            {
+                  "name": "Winterpalais",
+                  "text": "Klasszicista városi palota Gothában, amely egykor a hercegnék özvegyi lakhelyeként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        10.709033,
+                        50.947829
+                  ]
+            },
+            {
+                  "name": "Krahnberg - Kriegberg",
+                  "text": "Erdős magaslat és természetvédelmi terület Gotha közelében, túraútvonalakkal és kilátópontokkal.",
+                  "category": "natural",
+                  "coords": [
+                        10.650252,
+                        50.967724
+                  ]
+            },
+            {
+                  "name": "Lucas-Cranach-Haus",
+                  "text": "Gotha főterén található emlékhely, amely ifjabb Lucas Cranach szülőhelyére emlékeztet.",
+                  "category": "museum",
+                  "coords": [
+                        10.702757,
+                        50.947866
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "Nyilvános szabadtéri strand Gothában úszómedencékkel a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        10.710359,
+                        50.934115
+                  ]
+            },
+            {
+                  "name": "Kirchgarten",
+                  "text": "Csendes park és zöldterület egy gothai templom közelében, amely ideális a pihenéshez.",
+                  "category": "park",
+                  "coords": [
+                        10.743279,
+                        50.942739
+                  ]
+            },
+            {
+                  "name": "Bürgerturm",
+                  "text": "Kilátótorony a Gotha melletti Krahnbergen, ahonnan széles kilátás nyílik a Türingiai-medencére.",
+                  "category": "tower",
+                  "coords": [
+                        10.666214,
+                        50.960248
                   ]
             }
       ],
@@ -1434,6 +3036,105 @@ export const poiExtraDe4a: POI[] = [
                         10.70165,
                         50.949
                   ]
+            },
+            {
+                  "name": "Deutsches Versicherungsmuseum",
+                  "text": "Un muzeu în Gotha care prezintă istoria asigurărilor germane și moștenirea lui Ernst Wilhelm Arnoldi.",
+                  "category": "museum",
+                  "coords": [
+                        10.711976,
+                        50.943053
+                  ]
+            },
+            {
+                  "name": "Schloss Friedrichsthal",
+                  "text": "Castel baroc din Gotha, construit la începutul secolului al XVIII-lea ca reședință de vară.",
+                  "category": "castle",
+                  "coords": [
+                        10.710696,
+                        50.947165
+                  ]
+            },
+            {
+                  "name": "Stadt-Bad Gotha",
+                  "text": "Piscină istorică în stil Art Nouveau din Gotha, cu facilități moderne de wellness și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        10.696353,
+                        50.950296
+                  ]
+            },
+            {
+                  "name": "Seeberg",
+                  "text": "Rezervație naturală lângă Gotha, cunoscută pentru formațiunile de gresie și flora sa.",
+                  "category": "natural",
+                  "coords": [
+                        10.764676,
+                        50.921678
+                  ]
+            },
+            {
+                  "name": "Tierpark Gotha",
+                  "text": "Grădină zoologică din Gotha, care găzduiește specii de animale europene în țarcuri naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        10.719941,
+                        50.934486
+                  ]
+            },
+            {
+                  "name": "Winterpalais",
+                  "text": "Un palat urban neoclasic din Gotha, care a servit odinioară ca reședință de văduvă pentru ducese.",
+                  "category": "castle",
+                  "coords": [
+                        10.709033,
+                        50.947829
+                  ]
+            },
+            {
+                  "name": "Krahnberg - Kriegberg",
+                  "text": "Zonă deluroasă împădurită și rezervație naturală lângă Gotha, cu trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        10.650252,
+                        50.967724
+                  ]
+            },
+            {
+                  "name": "Lucas-Cranach-Haus",
+                  "text": "Memorial în piața principală din Gotha, care marchează locul de naștere al lui Lucas Cranach cel Tânăr.",
+                  "category": "museum",
+                  "coords": [
+                        10.702757,
+                        50.947866
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "Ștrand public în Gotha, cu bazine de înot și zone de plajă pentru recreere estivă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.710359,
+                        50.934115
+                  ]
+            },
+            {
+                  "name": "Kirchgarten",
+                  "text": "Parc liniștit și spațiu verde lângă o biserică din Gotha, ideal pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        10.743279,
+                        50.942739
+                  ]
+            },
+            {
+                  "name": "Bürgerturm",
+                  "text": "Turn de observare pe Krahnberg, lângă Gotha, oferind o vedere panoramică asupra regiunii.",
+                  "category": "tower",
+                  "coords": [
+                        10.666214,
+                        50.960248
+                  ]
             }
       ],
       "en": [
@@ -1495,6 +3196,105 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.70165,
                         50.949
+                  ]
+            },
+            {
+                  "name": "Deutsches Versicherungsmuseum",
+                  "text": "A museum in Gotha showcasing the history of German insurance and the legacy of Ernst Wilhelm Arnoldi.",
+                  "category": "museum",
+                  "coords": [
+                        10.711976,
+                        50.943053
+                  ]
+            },
+            {
+                  "name": "Schloss Friedrichsthal",
+                  "text": "Baroque castle in Gotha, built in the early 18th century as a summer residence.",
+                  "category": "castle",
+                  "coords": [
+                        10.710696,
+                        50.947165
+                  ]
+            },
+            {
+                  "name": "Stadt-Bad Gotha",
+                  "text": "Historic Art Nouveau indoor pool in Gotha with modern wellness and swimming facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.696353,
+                        50.950296
+                  ]
+            },
+            {
+                  "name": "Seeberg",
+                  "text": "Nature reserve near Gotha, known for its sandstone formations and diverse flora.",
+                  "category": "natural",
+                  "coords": [
+                        10.764676,
+                        50.921678
+                  ]
+            },
+            {
+                  "name": "Tierpark Gotha",
+                  "text": "Local zoo in Gotha, home to numerous European animal species in naturalistic enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        10.719941,
+                        50.934486
+                  ]
+            },
+            {
+                  "name": "Winterpalais",
+                  "text": "A neoclassical city palace in Gotha that once served as a widow's residence for the duchesses.",
+                  "category": "castle",
+                  "coords": [
+                        10.709033,
+                        50.947829
+                  ]
+            },
+            {
+                  "name": "Krahnberg - Kriegberg",
+                  "text": "Forested upland area and nature reserve near Gotha with hiking trails and viewpoints.",
+                  "category": "natural",
+                  "coords": [
+                        10.650252,
+                        50.967724
+                  ]
+            },
+            {
+                  "name": "Lucas-Cranach-Haus",
+                  "text": "Memorial site on Gotha's main market square, commemorating the birthplace of Lucas Cranach the Younger.",
+                  "category": "museum",
+                  "coords": [
+                        10.702757,
+                        50.947866
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "Public outdoor pool in Gotha with swimming basins and sunbathing lawns for summer leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        10.710359,
+                        50.934115
+                  ]
+            },
+            {
+                  "name": "Kirchgarten",
+                  "text": "Quiet park area and green space near a church in Gotha, ideal for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        10.743279,
+                        50.942739
+                  ]
+            },
+            {
+                  "name": "Bürgerturm",
+                  "text": "An observation tower on the Krahnberg near Gotha, offering a wide view over the Thuringian Basin.",
+                  "category": "tower",
+                  "coords": [
+                        10.666214,
+                        50.960248
                   ]
             }
       ]
@@ -2030,6 +3830,159 @@ export const poiExtraDe4a: POI[] = [
                         8.559953,
                         53.553612
                   ]
+            },
+            {
+                  "name": "Stadttheater Bremerhaven",
+                  "text": "Das Stadttheater in Bremerhaven bietet Aufführungen in Oper, Schauspiel und Ballett.",
+                  "category": "cultural",
+                  "coords": [
+                        8.581148,
+                        53.540645
+                  ]
+            },
+            {
+                  "name": "Geeste Nordmole Behelfsfeuer",
+                  "text": "Ein Hilfsfeuer an der Nordmole der Geestemündung in Bremerhaven.",
+                  "category": "landmark",
+                  "coords": [
+                        8.574673,
+                        53.535888
+                  ]
+            },
+            {
+                  "name": "Fischbahnhof 360°",
+                  "text": "Ein multimediales Museum im Fischereihafen, das Einblicke in die Unterwasserwelt bietet.",
+                  "category": "museum",
+                  "coords": [
+                        8.587179,
+                        53.521894
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Bremerhaven",
+                  "text": "Der Simon-Loschen-Leuchtturm ist der älteste Festland-Leuchtturm an der deutschen Nordseeküste.",
+                  "category": "landmark",
+                  "coords": [
+                        8.5701,
+                        53.546312
+                  ]
+            },
+            {
+                  "name": "Geeste Südmolenfeuer",
+                  "text": "Ein aktives Leuchtfeuer an der Südmole der Geestemündung in Bremerhaven.",
+                  "category": "landmark",
+                  "coords": [
+                        8.575071,
+                        53.534977
+                  ]
+            },
+            {
+                  "name": "Fischereihafen-Oberfeuer",
+                  "text": "Ein Richtfeuer für die Navigation der Schiffe zum Fischereihafen Bremerhaven.",
+                  "category": "landmark",
+                  "coords": [
+                        8.584766,
+                        53.521389
+                  ]
+            },
+            {
+                  "name": "Kabinett für aktuelle Kunst",
+                  "text": "Ein kleines Museum für zeitgenössische Kunst in Bremerhaven, das seit 1967 wechselnde Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.582655,
+                        53.540455
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Bremerhaven",
+                  "text": "Das Museum dokumentiert die Stadtgeschichte und die Entwicklung der Schifffahrt an der Wesermündung.",
+                  "category": "museum",
+                  "coords": [
+                        8.585582,
+                        53.53879
+                  ]
+            },
+            {
+                  "name": "Altes Kraftwerk",
+                  "text": "Ehemaliges Elektrizitätswerk in Bremerhaven, das heute als technisches Kulturdenkmal geschützt ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.560355,
+                        53.556938
+                  ]
+            },
+            {
+                  "name": "Phänomenta Bremerhaven e.V.",
+                  "text": "Ein interaktives Museum in Bremerhaven, in dem naturwissenschaftliche Phänomene durch Experimente erklärt werden.",
+                  "category": "museum",
+                  "coords": [
+                        8.580743,
+                        53.522247
+                  ]
+            },
+            {
+                  "name": "Geestemünde Oberfeuer",
+                  "text": "Ein historisches Leuchtfeuer in Bremerhaven-Geestemünde, das als Navigationshilfe für die Schifffahrt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        8.579575,
+                        53.533173
+                  ]
+            },
+            {
+                  "name": "Unterfeuer Fischereihafen/Geestemünde",
+                  "text": "Ein Leuchtfeuer im Bremerhavener Fischereihafen, das zusammen mit dem Oberfeuer eine Richtfeuerlinie bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.575402,
+                        53.531362
+                  ]
+            },
+            {
+                  "name": "Weser-Strandbad",
+                  "text": "Ein künstlich angelegter Sandstrand an der Weser in Bremerhaven mit Blick auf die vorbeifahrenden Schiffe.",
+                  "category": "recreational",
+                  "coords": [
+                        8.577096,
+                        53.537647
+                  ]
+            },
+            {
+                  "name": "BAD 2",
+                  "text": "Ein modernes Freizeit- und Hallenbad in Bremerhaven mit verschiedenen Schwimmbecken und Wellnessbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.596108,
+                        53.522191
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Ein kleines Tiergehege im Bürgerpark, das heimische Tierarten beherbergt und ein beliebtes Ausflugsziel ist.",
+                  "category": "recreational",
+                  "coords": [
+                        8.602251,
+                        53.541922
+                  ]
+            },
+            {
+                  "name": "Bürgerpark",
+                  "text": "Eine weitläufige Parkanlage in Bremerhaven mit Spazierwegen, Teichen und denkmalgeschützten Bereichen.",
+                  "category": "park",
+                  "coords": [
+                        8.607396,
+                        53.539331
+                  ]
+            },
+            {
+                  "name": "Radarturm",
+                  "text": "Ein markanter Richtfunkturm mit Aussichtsplattform über den Hafen von Bremerhaven.",
+                  "category": "natural",
+                  "coords": [
+                        8.580287,
+                        53.538428
+                  ]
             }
       ],
       "hu": [
@@ -2081,6 +4034,159 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.559953,
                         53.553612
+                  ]
+            },
+            {
+                  "name": "Stadttheater Bremerhaven",
+                  "text": "Bremerhaven városi színháza, amely opera-, dráma- és balettelőadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        8.581148,
+                        53.540645
+                  ]
+            },
+            {
+                  "name": "Geeste Nordmole Behelfsfeuer",
+                  "text": "Segédfény a Bremerhaven-i Geeste-torkolat északi gátján.",
+                  "category": "landmark",
+                  "coords": [
+                        8.574673,
+                        53.535888
+                  ]
+            },
+            {
+                  "name": "Fischbahnhof 360°",
+                  "text": "Multimédiás múzeum a halászkikötőben, amely 360 fokos bepillantást nyújt a víz alatti világba.",
+                  "category": "museum",
+                  "coords": [
+                        8.587179,
+                        53.521894
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Bremerhaven",
+                  "text": "A Simon-Loschen-világítótorony a német északi-tengeri partvidék legrégebbi szárazföldi világítótornya.",
+                  "category": "landmark",
+                  "coords": [
+                        8.5701,
+                        53.546312
+                  ]
+            },
+            {
+                  "name": "Geeste Südmolenfeuer",
+                  "text": "Aktív világítótorony a Bremerhaven-i Geeste-torkolat déli gátján.",
+                  "category": "landmark",
+                  "coords": [
+                        8.575071,
+                        53.534977
+                  ]
+            },
+            {
+                  "name": "Fischereihafen-Oberfeuer",
+                  "text": "Irányfény a Bremerhaven-i halászkikötőbe érkező hajók navigációjához.",
+                  "category": "landmark",
+                  "coords": [
+                        8.584766,
+                        53.521389
+                  ]
+            },
+            {
+                  "name": "Kabinett für aktuelle Kunst",
+                  "text": "Kortárs művészeti galéria Bremerhavenben, amely 1967 óta mutat be változó kiállításokat.",
+                  "category": "museum",
+                  "coords": [
+                        8.582655,
+                        53.540455
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Bremerhaven",
+                  "text": "A múzeum a város történetét és a hajózás fejlődését mutatja be a Weser torkolatánál.",
+                  "category": "museum",
+                  "coords": [
+                        8.585582,
+                        53.53879
+                  ]
+            },
+            {
+                  "name": "Altes Kraftwerk",
+                  "text": "Egykori elektromos mű Bremerhavenben, amely ma védett műszaki emlék.",
+                  "category": "museum",
+                  "coords": [
+                        8.560355,
+                        53.556938
+                  ]
+            },
+            {
+                  "name": "Phänomenta Bremerhaven e.V.",
+                  "text": "Interaktív múzeum Bremerhavenben, ahol természettudományos jelenségeket kísérleteken keresztül mutatnak be.",
+                  "category": "museum",
+                  "coords": [
+                        8.580743,
+                        53.522247
+                  ]
+            },
+            {
+                  "name": "Geestemünde Oberfeuer",
+                  "text": "Történelmi világítótorony Bremerhaven-Geestemündében, amely a hajózást segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        8.579575,
+                        53.533173
+                  ]
+            },
+            {
+                  "name": "Unterfeuer Fischereihafen/Geestemünde",
+                  "text": "Világítótorony a bremerhaveni halászkikötőben, amely az irányfény-vonal alsó tagjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        8.575402,
+                        53.531362
+                  ]
+            },
+            {
+                  "name": "Weser-Strandbad",
+                  "text": "Mesterséges homokos strand a Weser partján Bremerhavenben, kilátással az elhaladó hajókra.",
+                  "category": "recreational",
+                  "coords": [
+                        8.577096,
+                        53.537647
+                  ]
+            },
+            {
+                  "name": "BAD 2",
+                  "text": "Modern szabadidős és fedett uszoda Bremerhavenben, különféle medencékkel és wellness-szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        8.596108,
+                        53.522191
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Kicsi vadaspark a Bürgerparkban, amely hazai állatfajoknak ad otthont és népszerű kirándulóhely.",
+                  "category": "recreational",
+                  "coords": [
+                        8.602251,
+                        53.541922
+                  ]
+            },
+            {
+                  "name": "Bürgerpark",
+                  "text": "Kiterjedt park Bremerhavenben sétautakkal, tavakkal és műemlékvédelem alatt álló területekkel.",
+                  "category": "park",
+                  "coords": [
+                        8.607396,
+                        53.539331
+                  ]
+            },
+            {
+                  "name": "Radarturm",
+                  "text": "Jellegzetes rádiótorony Bremerhavenben, ahonnan kilátás nyílik a kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        8.580287,
+                        53.538428
                   ]
             }
       ],
@@ -2134,6 +4240,159 @@ export const poiExtraDe4a: POI[] = [
                         8.559953,
                         53.553612
                   ]
+            },
+            {
+                  "name": "Stadttheater Bremerhaven",
+                  "text": "Teatrul orășenesc din Bremerhaven găzduiește spectacole de operă, teatru și balet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.581148,
+                        53.540645
+                  ]
+            },
+            {
+                  "name": "Geeste Nordmole Behelfsfeuer",
+                  "text": "Un far auxiliar situat pe digul de nord al gurii râului Geeste în Bremerhaven.",
+                  "category": "landmark",
+                  "coords": [
+                        8.574673,
+                        53.535888
+                  ]
+            },
+            {
+                  "name": "Fischbahnhof 360°",
+                  "text": "Un muzeu multimedia în portul de pescuit, oferind imagini la 360 de grade ale lumii subacvatice.",
+                  "category": "museum",
+                  "coords": [
+                        8.587179,
+                        53.521894
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Bremerhaven",
+                  "text": "Farul Simon-Loschen este cel mai vechi far de pe uscat de pe coasta germană a Mării Nordului.",
+                  "category": "landmark",
+                  "coords": [
+                        8.5701,
+                        53.546312
+                  ]
+            },
+            {
+                  "name": "Geeste Südmolenfeuer",
+                  "text": "Un far activ situat pe digul de sud al gurii râului Geeste în Bremerhaven.",
+                  "category": "landmark",
+                  "coords": [
+                        8.575071,
+                        53.534977
+                  ]
+            },
+            {
+                  "name": "Fischereihafen-Oberfeuer",
+                  "text": "Un far de direcție pentru navigația navelor către portul de pescuit din Bremerhaven.",
+                  "category": "landmark",
+                  "coords": [
+                        8.584766,
+                        53.521389
+                  ]
+            },
+            {
+                  "name": "Kabinett für aktuelle Kunst",
+                  "text": "Un mic muzeu de artă contemporană din Bremerhaven, care prezintă expoziții temporare din 1967.",
+                  "category": "museum",
+                  "coords": [
+                        8.582655,
+                        53.540455
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Bremerhaven",
+                  "text": "Muzeul documentează istoria orașului și dezvoltarea navigației la gura de vărsare a râului Weser.",
+                  "category": "museum",
+                  "coords": [
+                        8.585582,
+                        53.53879
+                  ]
+            },
+            {
+                  "name": "Altes Kraftwerk",
+                  "text": "Fostă centrală electrică din Bremerhaven, protejată astăzi ca monument istoric industrial.",
+                  "category": "museum",
+                  "coords": [
+                        8.560355,
+                        53.556938
+                  ]
+            },
+            {
+                  "name": "Phänomenta Bremerhaven e.V.",
+                  "text": "Un muzeu interactiv din Bremerhaven, unde fenomenele științifice sunt explicate prin experimente.",
+                  "category": "museum",
+                  "coords": [
+                        8.580743,
+                        53.522247
+                  ]
+            },
+            {
+                  "name": "Geestemünde Oberfeuer",
+                  "text": "Un far istoric din Bremerhaven-Geestemünde, care servește ca ajutor de navigație pentru nave.",
+                  "category": "landmark",
+                  "coords": [
+                        8.579575,
+                        53.533173
+                  ]
+            },
+            {
+                  "name": "Unterfeuer Fischereihafen/Geestemünde",
+                  "text": "Un far în portul de pescuit din Bremerhaven, care formează o linie de ghidare împreună cu farul superior.",
+                  "category": "landmark",
+                  "coords": [
+                        8.575402,
+                        53.531362
+                  ]
+            },
+            {
+                  "name": "Weser-Strandbad",
+                  "text": "O plajă de nisip amenajată pe malul râului Weser în Bremerhaven, cu vedere la navele care trec.",
+                  "category": "recreational",
+                  "coords": [
+                        8.577096,
+                        53.537647
+                  ]
+            },
+            {
+                  "name": "BAD 2",
+                  "text": "O piscină modernă de agrement și acoperită din Bremerhaven, cu diverse bazine și zone de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        8.596108,
+                        53.522191
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "O mică incintă pentru animale în Bürgerpark, care găzduiește specii locale și este o destinație populară.",
+                  "category": "recreational",
+                  "coords": [
+                        8.602251,
+                        53.541922
+                  ]
+            },
+            {
+                  "name": "Bürgerpark",
+                  "text": "Un parc vast în Bremerhaven, cu alei de promenadă, iazuri și zone protejate ca monument.",
+                  "category": "park",
+                  "coords": [
+                        8.607396,
+                        53.539331
+                  ]
+            },
+            {
+                  "name": "Radarturm",
+                  "text": "Un turn de comunicații proeminent cu o platformă de observație asupra portului din Bremerhaven.",
+                  "category": "natural",
+                  "coords": [
+                        8.580287,
+                        53.538428
+                  ]
             }
       ],
       "en": [
@@ -2185,6 +4444,159 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.559953,
                         53.553612
+                  ]
+            },
+            {
+                  "name": "Stadttheater Bremerhaven",
+                  "text": "The city theatre in Bremerhaven hosts opera, drama, and ballet performances.",
+                  "category": "cultural",
+                  "coords": [
+                        8.581148,
+                        53.540645
+                  ]
+            },
+            {
+                  "name": "Geeste Nordmole Behelfsfeuer",
+                  "text": "An auxiliary light located on the north pier of the Geeste estuary in Bremerhaven.",
+                  "category": "landmark",
+                  "coords": [
+                        8.574673,
+                        53.535888
+                  ]
+            },
+            {
+                  "name": "Fischbahnhof 360°",
+                  "text": "A multimedia museum in the fishing port providing 360-degree insights into the underwater world.",
+                  "category": "museum",
+                  "coords": [
+                        8.587179,
+                        53.521894
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Bremerhaven",
+                  "text": "The Simon-Loschen Lighthouse is the oldest mainland lighthouse on the German North Sea coast.",
+                  "category": "landmark",
+                  "coords": [
+                        8.5701,
+                        53.546312
+                  ]
+            },
+            {
+                  "name": "Geeste Südmolenfeuer",
+                  "text": "An active beacon located on the south pier of the Geeste estuary in Bremerhaven.",
+                  "category": "landmark",
+                  "coords": [
+                        8.575071,
+                        53.534977
+                  ]
+            },
+            {
+                  "name": "Fischereihafen-Oberfeuer",
+                  "text": "A leading light used for navigating ships toward the Bremerhaven fishing port.",
+                  "category": "landmark",
+                  "coords": [
+                        8.584766,
+                        53.521389
+                  ]
+            },
+            {
+                  "name": "Kabinett für aktuelle Kunst",
+                  "text": "A small museum for contemporary art in Bremerhaven, hosting changing exhibitions since 1967.",
+                  "category": "museum",
+                  "coords": [
+                        8.582655,
+                        53.540455
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Bremerhaven",
+                  "text": "This museum documents the city's history and the development of shipping at the mouth of the Weser.",
+                  "category": "museum",
+                  "coords": [
+                        8.585582,
+                        53.53879
+                  ]
+            },
+            {
+                  "name": "Altes Kraftwerk",
+                  "text": "A former power station in Bremerhaven, now protected as a technical cultural monument.",
+                  "category": "museum",
+                  "coords": [
+                        8.560355,
+                        53.556938
+                  ]
+            },
+            {
+                  "name": "Phänomenta Bremerhaven e.V.",
+                  "text": "An interactive museum in Bremerhaven where scientific phenomena are explained through experiments.",
+                  "category": "museum",
+                  "coords": [
+                        8.580743,
+                        53.522247
+                  ]
+            },
+            {
+                  "name": "Geestemünde Oberfeuer",
+                  "text": "A historic lighthouse in Bremerhaven-Geestemünde, serving as a navigational aid for shipping.",
+                  "category": "landmark",
+                  "coords": [
+                        8.579575,
+                        53.533173
+                  ]
+            },
+            {
+                  "name": "Unterfeuer Fischereihafen/Geestemünde",
+                  "text": "A lighthouse in the Bremerhaven fishing port, forming a leading light line together with the rear light.",
+                  "category": "landmark",
+                  "coords": [
+                        8.575402,
+                        53.531362
+                  ]
+            },
+            {
+                  "name": "Weser-Strandbad",
+                  "text": "An artificial sandy beach on the Weser in Bremerhaven with views of the passing ships.",
+                  "category": "recreational",
+                  "coords": [
+                        8.577096,
+                        53.537647
+                  ]
+            },
+            {
+                  "name": "BAD 2",
+                  "text": "A modern indoor leisure pool in Bremerhaven with various swimming pools and wellness areas.",
+                  "category": "recreational",
+                  "coords": [
+                        8.596108,
+                        53.522191
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "A small animal enclosure in the Bürgerpark, home to local species and a popular destination for families.",
+                  "category": "recreational",
+                  "coords": [
+                        8.602251,
+                        53.541922
+                  ]
+            },
+            {
+                  "name": "Bürgerpark",
+                  "text": "A large park in Bremerhaven with walking paths, ponds, and heritage-protected areas.",
+                  "category": "park",
+                  "coords": [
+                        8.607396,
+                        53.539331
+                  ]
+            },
+            {
+                  "name": "Radarturm",
+                  "text": "A prominent radar and radio tower featuring an observation deck overlooking the port.",
+                  "category": "natural",
+                  "coords": [
+                        8.580287,
+                        53.538428
                   ]
             }
       ]
@@ -2587,6 +4999,294 @@ export const poiExtraDe4a: POI[] = [
                         8.83967,
                         53.0676
                   ]
+            },
+            {
+                  "name": "Packhaustheater",
+                  "text": "Ein kleines Theater im historischen Schnoor-Viertel von Bremen, das in einem ehemaligen Packhaus untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        8.809311,
+                        53.072499
+                  ]
+            },
+            {
+                  "name": "Schulmuseum Bremen",
+                  "text": "Museum zur Geschichte des Schulwesens in Bremen mit historischen Klassenzimmern und Lehrmitteln.",
+                  "category": "museum",
+                  "coords": [
+                        8.8603,
+                        53.066061
+                  ]
+            },
+            {
+                  "name": "Paula-Modersohn-Becker-Museum",
+                  "text": "Das weltweit erste Museum für eine Malerin, untergebracht in einem expressionistischen Gebäude in der Böttcherstraße.",
+                  "category": "museum",
+                  "coords": [
+                        8.806058,
+                        53.075184
+                  ]
+            },
+            {
+                  "name": "Städtische Galerie Bremen",
+                  "text": "Kommunale Kunstgalerie in Bremen, die regionale und zeitgenössische Kunst in wechselnden Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.806704,
+                        53.065881
+                  ]
+            },
+            {
+                  "name": "Dom-Museum",
+                  "text": "Museum im Bremer St. Petri Dom mit sakralen Schätzen und Grabfunden aus der Domgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        8.809663,
+                        53.07533
+                  ]
+            },
+            {
+                  "name": "Bremer Rundfunkmuseum",
+                  "text": "Museum zur Geschichte des Rundfunks mit einer umfangreichen Sammlung historischer Radiogeräte und Studiotechnik.",
+                  "category": "museum",
+                  "coords": [
+                        8.806268,
+                        53.088714
+                  ]
+            },
+            {
+                  "name": "Focke-Museum",
+                  "text": "Das Bremer Landesmuseum für Kunst und Kulturgeschichte präsentiert die Stadtgeschichte in einem weitläufigen Parkgelände.",
+                  "category": "museum",
+                  "coords": [
+                        8.864005,
+                        53.092414
+                  ]
+            },
+            {
+                  "name": "Weserburg Museum für moderne Kunst",
+                  "text": "Eines der größten Museen für moderne Kunst in Deutschland, gelegen in historischen Speicherhäusern auf dem Teerhof.",
+                  "category": "museum",
+                  "coords": [
+                        8.798767,
+                        53.076509
+                  ]
+            },
+            {
+                  "name": "Focke-Windkanal",
+                  "text": "Ein technisches Denkmal, das den historischen Windkanal des Luftfahrtpioniers Henrich Focke bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        8.81585,
+                        53.08036
+                  ]
+            },
+            {
+                  "name": "Fritz",
+                  "text": "Ein modernes Unterhaltungstheater, das Comedy, Shows und Gastronomie in einem stimmungsvollen Ambiente kombiniert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.811846,
+                        53.080711
+                  ]
+            },
+            {
+                  "name": "Steinkammern",
+                  "text": "Archäologische Befunde mittelalterlicher Steinkammern, die bei Grabungen an der Bremer Schlachte entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        8.799083,
+                        53.078508
+                  ]
+            },
+            {
+                  "name": "Tischlerei-Museum Bremen",
+                  "text": "Ein Museum im Viertel, das eine historische Holzwerkstatt mit funktionsfähigen Maschinen des frühen 20. Jahrhunderts zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.819054,
+                        53.071375
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "Ein beliebtes öffentliches Hallenbad in der Bremer Neustadt mit Sauna, Wellnessbereich und Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        8.795696,
+                        53.070891
+                  ]
+            },
+            {
+                  "name": "Theater am Leibnizplatz",
+                  "text": "Spielstätte der Bremer Shakespeare Company, die für ihre lebendigen und modernen Theaterinszenierungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        8.797606,
+                        53.070095
+                  ]
+            },
+            {
+                  "name": "Metropol Theater Bremen",
+                  "text": "Ein bekanntes Veranstaltungshaus in Bremen, das Musicals, Konzerte und Shows präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.814276,
+                        53.078415
+                  ]
+            },
+            {
+                  "name": "Überseemuseum",
+                  "text": "Ein bedeutendes Naturkunde- und Ethnologiemuseum direkt am Bremer Hauptbahnhof.",
+                  "category": "museum",
+                  "coords": [
+                        8.810574,
+                        53.083391
+                  ]
+            },
+            {
+                  "name": "Schnürschuh Theater",
+                  "text": "Ein engagiertes freies Theater in Bremen, das ein vielfältiges Programm für alle Altersgruppen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.808068,
+                        53.063816
+                  ]
+            },
+            {
+                  "name": "Bleikeller",
+                  "text": "Ein historischer Keller im Bremer Dom, der für seine natürlich konservierten Mumien bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.808698,
+                        53.075296
+                  ]
+            },
+            {
+                  "name": "Fangturm",
+                  "text": "Ein historischer Wehrturm, der Teil der mittelalterlichen Bremer Stadtbefestigung war.",
+                  "category": "historical",
+                  "coords": [
+                        8.798125,
+                        53.078869
+                  ]
+            },
+            {
+                  "name": "Bräutigam",
+                  "text": "Ein ehemaliger Pulverturm und Teil der historischen Verteidigungsanlagen Bremens.",
+                  "category": "historical",
+                  "coords": [
+                        8.789457,
+                        53.081554
+                  ]
+            },
+            {
+                  "name": "Ölmühle",
+                  "text": "Archäologische Überreste einer historischen Ölmühle, die Einblick in die frühe Industrie bieten.",
+                  "category": "historical",
+                  "coords": [
+                        8.786622,
+                        53.082836
+                  ]
+            },
+            {
+                  "name": "Becks Brewery Tour",
+                  "text": "Eine geführte Besichtigung der weltberühmten Brauerei mit Einblicken in die Bierherstellung.",
+                  "category": "museum",
+                  "coords": [
+                        8.791809,
+                        53.078275
+                  ]
+            },
+            {
+                  "name": "Weserstrand",
+                  "text": "Ein künstlich angelegter Sandstrand am Ufer der Weser in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823641,
+                        53.067124
+                  ]
+            },
+            {
+                  "name": "Werderseestrand",
+                  "text": "Beliebter Badestrand am Werdersee für Entspannung und Wassersport.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823366,
+                        53.059445
+                  ]
+            },
+            {
+                  "name": "Tier- und Landschaftsprojekt Sportgarten",
+                  "text": "Ein soziales Projekt, das Sportanlagen mit Tierhaltung und Naturerlebnissen verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.848138,
+                        53.061107
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Ein kleines Tiergehege in Bremen, das einheimische Tierarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        8.826835,
+                        53.096427
+                  ]
+            },
+            {
+                  "name": "Theatergarten",
+                  "text": "Eine historische Gartenanlage in der Nähe des Bremer Theaters am Goetheplatz.",
+                  "category": "park",
+                  "coords": [
+                        8.812953,
+                        53.07647
+                  ]
+            },
+            {
+                  "name": "Segelverein „Weser“",
+                  "text": "Traditionsreicher Segelclub am Weserufer mit Blick auf den Flussverkehr.",
+                  "category": "natural",
+                  "coords": [
+                        8.83457,
+                        53.067292
+                  ]
+            },
+            {
+                  "name": "Focke-Garten",
+                  "text": "Ein öffentlicher Park auf einer ehemaligen Festungsanlage mit Skulpturen und Blumenbeeten.",
+                  "category": "park",
+                  "coords": [
+                        8.790474,
+                        53.081521
+                  ]
+            },
+            {
+                  "name": "Hohentorspark",
+                  "text": "Eine Grünanlage in der Bremer Neustadt auf dem Gelände der historischen Stadtbefestigung.",
+                  "category": "park",
+                  "coords": [
+                        8.788621,
+                        53.074779
+                  ]
+            },
+            {
+                  "name": "Kriegerehrenmal Altmannshöhe",
+                  "text": "Ein Denkmal zu Ehren der gefallenen Soldaten des Ersten Weltkriegs auf einer Anhöhe.",
+                  "category": "historical",
+                  "coords": [
+                        8.812791,
+                        53.071895
+                  ]
+            },
+            {
+                  "name": "Nelson-Mandela-Park",
+                  "text": "Ein zentraler Stadtpark in Bremen, der nach Nelson Mandela benannt wurde.",
+                  "category": "park",
+                  "coords": [
+                        8.818483,
+                        53.085042
+                  ]
             }
       ],
       "hu": [
@@ -2648,6 +5348,294 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.83967,
                         53.0676
+                  ]
+            },
+            {
+                  "name": "Packhaustheater",
+                  "text": "Kisméretű színház Bréma történelmi Schnoor negyedében, egy egykori raktárépületben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.809311,
+                        53.072499
+                  ]
+            },
+            {
+                  "name": "Schulmuseum Bremen",
+                  "text": "Bréma oktatástörténeti múzeuma, korabeli tantermekkel és oktatási segédeszközökkel.",
+                  "category": "museum",
+                  "coords": [
+                        8.8603,
+                        53.066061
+                  ]
+            },
+            {
+                  "name": "Paula-Modersohn-Becker-Museum",
+                  "text": "A világ első festőnőnek szentelt múzeuma a Bréma Böttcherstraße egyik expresszionista épületében.",
+                  "category": "museum",
+                  "coords": [
+                        8.806058,
+                        53.075184
+                  ]
+            },
+            {
+                  "name": "Städtische Galerie Bremen",
+                  "text": "Brémai városi művészeti galéria, amely regionális és kortárs műalkotásokat mutat be időszaki kiállításokon.",
+                  "category": "museum",
+                  "coords": [
+                        8.806704,
+                        53.065881
+                  ]
+            },
+            {
+                  "name": "Dom-Museum",
+                  "text": "Múzeum a brémai Szent Péter-dómban, szakrális kincsekkel és a dóm történetéből származó sírleletekkel.",
+                  "category": "museum",
+                  "coords": [
+                        8.809663,
+                        53.07533
+                  ]
+            },
+            {
+                  "name": "Bremer Rundfunkmuseum",
+                  "text": "Rádiómúzeum, amely a műsorszórás történetét, valamint történelmi rádiókészülékeket és stúdiótechnikát mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.806268,
+                        53.088714
+                  ]
+            },
+            {
+                  "name": "Focke-Museum",
+                  "text": "Bréma művészeti és kultúrtörténeti állami múzeuma, amely egy tágas parkban mutatja be a város történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        8.864005,
+                        53.092414
+                  ]
+            },
+            {
+                  "name": "Weserburg Museum für moderne Kunst",
+                  "text": "Németország egyik legnagyobb modern művészeti múzeuma, amely a Teerhof történelmi raktárépületeiben található.",
+                  "category": "museum",
+                  "coords": [
+                        8.798767,
+                        53.076509
+                  ]
+            },
+            {
+                  "name": "Focke-Windkanal",
+                  "text": "Technikai műemlék, amely Henrich Focke repülési úttörő történelmi szélcsatornáját őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        8.81585,
+                        53.08036
+                  ]
+            },
+            {
+                  "name": "Fritz",
+                  "text": "Modern szórakoztató színház, amely a vígjátékot, a show-műsorokat és a gasztronómiát ötvözi hangulatos környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.811846,
+                        53.080711
+                  ]
+            },
+            {
+                  "name": "Steinkammern",
+                  "text": "Középkori kőkamrák régészeti leletei, amelyeket a brémai Schlachte területén végzett ásatások során fedeztek fel.",
+                  "category": "historical",
+                  "coords": [
+                        8.799083,
+                        53.078508
+                  ]
+            },
+            {
+                  "name": "Tischlerei-Museum Bremen",
+                  "text": "Múzeum a Viertel negyedben, amely a 20. század elejéről származó, működőképes gépekkel felszerelt asztalosműhelyt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.819054,
+                        53.071375
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "Népszerű nyilvános fedett uszoda Bréma Neustadt negyedében, szaunával, wellness részleggel és úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        8.795696,
+                        53.070891
+                  ]
+            },
+            {
+                  "name": "Theater am Leibnizplatz",
+                  "text": "A Bremer Shakespeare Company otthona, amely az élő és modern színházi előadásairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        8.797606,
+                        53.070095
+                  ]
+            },
+            {
+                  "name": "Metropol Theater Bremen",
+                  "text": "Bréma ismert rendezvényközpontja, amely musicaleknek, koncerteknek és show-műsoroknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        8.814276,
+                        53.078415
+                  ]
+            },
+            {
+                  "name": "Überseemuseum",
+                  "text": "Jelentős természettudományi és néprajzi múzeum közvetlenül a brémai főpályaudvar mellett.",
+                  "category": "museum",
+                  "coords": [
+                        8.810574,
+                        53.083391
+                  ]
+            },
+            {
+                  "name": "Schnürschuh Theater",
+                  "text": "Lendületes független színház Brémában, amely változatos programot kínál minden korosztálynak.",
+                  "category": "cultural",
+                  "coords": [
+                        8.808068,
+                        53.063816
+                  ]
+            },
+            {
+                  "name": "Bleikeller",
+                  "text": "A brémai dóm történelmi pincéje, amely természetes úton konzerválódott múmiáiról híres.",
+                  "category": "museum",
+                  "coords": [
+                        8.808698,
+                        53.075296
+                  ]
+            },
+            {
+                  "name": "Fangturm",
+                  "text": "Történelmi bástya, amely a középkori brémai városfal részét képezte.",
+                  "category": "historical",
+                  "coords": [
+                        8.798125,
+                        53.078869
+                  ]
+            },
+            {
+                  "name": "Bräutigam",
+                  "text": "Egykori lőportorony, amely Bréma történelmi védműveinek része volt.",
+                  "category": "historical",
+                  "coords": [
+                        8.789457,
+                        53.081554
+                  ]
+            },
+            {
+                  "name": "Ölmühle",
+                  "text": "Egy történelmi olajmalom régészeti maradványai, amelyek bepillantást engednek a korai iparba.",
+                  "category": "historical",
+                  "coords": [
+                        8.786622,
+                        53.082836
+                  ]
+            },
+            {
+                  "name": "Becks Brewery Tour",
+                  "text": "Vezetett látogatás a világhírű sörfőzdében, bepillantással a sörfőzés folyamataiba.",
+                  "category": "museum",
+                  "coords": [
+                        8.791809,
+                        53.078275
+                  ]
+            },
+            {
+                  "name": "Weserstrand",
+                  "text": "Mesterséges homokos strand a Weser-folyó partján Brémában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823641,
+                        53.067124
+                  ]
+            },
+            {
+                  "name": "Werderseestrand",
+                  "text": "Népszerű fürdőhely a Werdersee partján, ideális kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823366,
+                        53.059445
+                  ]
+            },
+            {
+                  "name": "Tier- und Landschaftsprojekt Sportgarten",
+                  "text": "Szociális projekt, amely sportpályákat, állattartást és természetközeli élményeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.848138,
+                        53.061107
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Kisméretű állatkifutó Brémában, amely hazai állatfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        8.826835,
+                        53.096427
+                  ]
+            },
+            {
+                  "name": "Theatergarten",
+                  "text": "Történelmi kert a brémai színház közelében, a Goetheplatznál.",
+                  "category": "park",
+                  "coords": [
+                        8.812953,
+                        53.07647
+                  ]
+            },
+            {
+                  "name": "Segelverein „Weser“",
+                  "text": "Hagyományőrző vitorlásklub a Weser partján, kilátással a folyami forgalomra.",
+                  "category": "natural",
+                  "coords": [
+                        8.83457,
+                        53.067292
+                  ]
+            },
+            {
+                  "name": "Focke-Garten",
+                  "text": "Egykori erődítmény helyén kialakított közpark szobrokkal és virágágyásokkal.",
+                  "category": "park",
+                  "coords": [
+                        8.790474,
+                        53.081521
+                  ]
+            },
+            {
+                  "name": "Hohentorspark",
+                  "text": "Zöldterület Bréma Neustadt negyedében, a történelmi városfalak helyén.",
+                  "category": "park",
+                  "coords": [
+                        8.788621,
+                        53.074779
+                  ]
+            },
+            {
+                  "name": "Kriegerehrenmal Altmannshöhe",
+                  "text": "Az első világháborúban elesett katonák emlékére állított emlékmű egy dombtetőn.",
+                  "category": "historical",
+                  "coords": [
+                        8.812791,
+                        53.071895
+                  ]
+            },
+            {
+                  "name": "Nelson-Mandela-Park",
+                  "text": "Központi városi park Brémában, amelyet Nelson Mandeláról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        8.818483,
+                        53.085042
                   ]
             }
       ],
@@ -2711,6 +5699,294 @@ export const poiExtraDe4a: POI[] = [
                         8.83967,
                         53.0676
                   ]
+            },
+            {
+                  "name": "Packhaustheater",
+                  "text": "Un mic teatru situat în cartierul istoric Schnoor din Bremen, găzduit într-un fost depozit.",
+                  "category": "cultural",
+                  "coords": [
+                        8.809311,
+                        53.072499
+                  ]
+            },
+            {
+                  "name": "Schulmuseum Bremen",
+                  "text": "Muzeu dedicat istoriei educației din Bremen, prezentând săli de clasă istorice și materiale didactice.",
+                  "category": "museum",
+                  "coords": [
+                        8.8603,
+                        53.066061
+                  ]
+            },
+            {
+                  "name": "Paula-Modersohn-Becker-Museum",
+                  "text": "Primul muzeu din lume dedicat unei pictorițe, situat într-o clădire expresionistă pe strada Böttcher din Bremen.",
+                  "category": "museum",
+                  "coords": [
+                        8.806058,
+                        53.075184
+                  ]
+            },
+            {
+                  "name": "Städtische Galerie Bremen",
+                  "text": "Galerie municipală de artă din Bremen care prezintă artă regională și contemporană în expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        8.806704,
+                        53.065881
+                  ]
+            },
+            {
+                  "name": "Dom-Museum",
+                  "text": "Muzeu în interiorul Catedralei Sf. Petru din Bremen, cu obiecte sacre și descoperiri funerare din istoria catedralei.",
+                  "category": "museum",
+                  "coords": [
+                        8.809663,
+                        53.07533
+                  ]
+            },
+            {
+                  "name": "Bremer Rundfunkmuseum",
+                  "text": "Muzeu dedicat istoriei radiodifuziunii, cu o colecție vastă de aparate radio istorice și tehnică de studio.",
+                  "category": "museum",
+                  "coords": [
+                        8.806268,
+                        53.088714
+                  ]
+            },
+            {
+                  "name": "Focke-Museum",
+                  "text": "Muzeul de stat din Bremen pentru artă și istorie culturală, prezentând istoria orașului într-un parc vast.",
+                  "category": "museum",
+                  "coords": [
+                        8.864005,
+                        53.092414
+                  ]
+            },
+            {
+                  "name": "Weserburg Museum für moderne Kunst",
+                  "text": "Unul dintre cele mai mari muzee de artă modernă din Germania, situat în depozite istorice pe insula Teerhof.",
+                  "category": "museum",
+                  "coords": [
+                        8.798767,
+                        53.076509
+                  ]
+            },
+            {
+                  "name": "Focke-Windkanal",
+                  "text": "Un monument tehnic care păstrează tunelul aerodinamic istoric al pionierului aviației Henrich Focke.",
+                  "category": "museum",
+                  "coords": [
+                        8.81585,
+                        53.08036
+                  ]
+            },
+            {
+                  "name": "Fritz",
+                  "text": "Un teatru modern de divertisment care combină comedia, spectacolele și gastronomia într-o ambianță plăcută.",
+                  "category": "cultural",
+                  "coords": [
+                        8.811846,
+                        53.080711
+                  ]
+            },
+            {
+                  "name": "Steinkammern",
+                  "text": "Descoperiri arheologice ale unor camere de piatră medievale, identificate în timpul săpăturilor la Schlachte din Bremen.",
+                  "category": "historical",
+                  "coords": [
+                        8.799083,
+                        53.078508
+                  ]
+            },
+            {
+                  "name": "Tischlerei-Museum Bremen",
+                  "text": "Un muzeu din cartierul Viertel ce prezintă un atelier istoric de tâmplărie cu utilaje funcționale din secolul XX.",
+                  "category": "museum",
+                  "coords": [
+                        8.819054,
+                        53.071375
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "O piscină publică acoperită populară în Neustadt, Bremen, cu saună, zonă de wellness și bazine de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        8.795696,
+                        53.070891
+                  ]
+            },
+            {
+                  "name": "Theater am Leibnizplatz",
+                  "text": "Sediul companiei Bremer Shakespeare Company, renumit pentru punerile în scenă moderne și pline de viață.",
+                  "category": "cultural",
+                  "coords": [
+                        8.797606,
+                        53.070095
+                  ]
+            },
+            {
+                  "name": "Metropol Theater Bremen",
+                  "text": "Un centru de evenimente renumit din Bremen, care găzduiește musicaluri, concerte și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        8.814276,
+                        53.078415
+                  ]
+            },
+            {
+                  "name": "Überseemuseum",
+                  "text": "Un important muzeu de științe naturale și etnologie situat lângă gara centrală din Bremen.",
+                  "category": "museum",
+                  "coords": [
+                        8.810574,
+                        53.083391
+                  ]
+            },
+            {
+                  "name": "Schnürschuh Theater",
+                  "text": "Un teatru independent din Bremen care oferă un program diversificat pentru toate categoriile de vârstă.",
+                  "category": "cultural",
+                  "coords": [
+                        8.808068,
+                        53.063816
+                  ]
+            },
+            {
+                  "name": "Bleikeller",
+                  "text": "O pivniță istorică din Catedrala din Bremen, faimoasă pentru mumiile conservate natural.",
+                  "category": "museum",
+                  "coords": [
+                        8.808698,
+                        53.075296
+                  ]
+            },
+            {
+                  "name": "Fangturm",
+                  "text": "Un turn de apărare istoric care a făcut parte din fortificațiile medievale ale orașului Bremen.",
+                  "category": "historical",
+                  "coords": [
+                        8.798125,
+                        53.078869
+                  ]
+            },
+            {
+                  "name": "Bräutigam",
+                  "text": "Un fost turn de pulbere și parte a vechilor structuri de apărare ale orașului Bremen.",
+                  "category": "historical",
+                  "coords": [
+                        8.789457,
+                        53.081554
+                  ]
+            },
+            {
+                  "name": "Ölmühle",
+                  "text": "Vestigii arheologice ale unei mori de ulei istorice, oferind o privire asupra industriei timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        8.786622,
+                        53.082836
+                  ]
+            },
+            {
+                  "name": "Becks Brewery Tour",
+                  "text": "Un tur ghidat al faimoasei fabrici de bere, oferind detalii despre procesul de producție.",
+                  "category": "museum",
+                  "coords": [
+                        8.791809,
+                        53.078275
+                  ]
+            },
+            {
+                  "name": "Weserstrand",
+                  "text": "O plajă cu nisip amenajată pe malul râului Weser din Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823641,
+                        53.067124
+                  ]
+            },
+            {
+                  "name": "Werderseestrand",
+                  "text": "O plajă populară pe malul lacului Werdersee, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823366,
+                        53.059445
+                  ]
+            },
+            {
+                  "name": "Tier- und Landschaftsprojekt Sportgarten",
+                  "text": "Un proiect social care îmbină facilitățile sportive cu îngrijirea animalelor și natura.",
+                  "category": "recreational",
+                  "coords": [
+                        8.848138,
+                        53.061107
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "O mică incintă pentru animale din Bremen, care adăpostește specii locale.",
+                  "category": "recreational",
+                  "coords": [
+                        8.826835,
+                        53.096427
+                  ]
+            },
+            {
+                  "name": "Theatergarten",
+                  "text": "O grădină istorică situată în apropierea teatrului din Bremen, la Goetheplatz.",
+                  "category": "park",
+                  "coords": [
+                        8.812953,
+                        53.07647
+                  ]
+            },
+            {
+                  "name": "Segelverein „Weser“",
+                  "text": "Un club de navigație tradițional pe malul râului Weser, oferind vederi asupra traficului fluvial.",
+                  "category": "natural",
+                  "coords": [
+                        8.83457,
+                        53.067292
+                  ]
+            },
+            {
+                  "name": "Focke-Garten",
+                  "text": "Un parc public situat pe o fostă fortificație, cu sculpturi și straturi de flori.",
+                  "category": "park",
+                  "coords": [
+                        8.790474,
+                        53.081521
+                  ]
+            },
+            {
+                  "name": "Hohentorspark",
+                  "text": "Un spațiu verde în cartierul Neustadt din Bremen, pe locul fostelor fortificații ale orașului.",
+                  "category": "park",
+                  "coords": [
+                        8.788621,
+                        53.074779
+                  ]
+            },
+            {
+                  "name": "Kriegerehrenmal Altmannshöhe",
+                  "text": "Un monument ridicat pe o colină în memoria soldaților căzuți în Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        8.812791,
+                        53.071895
+                  ]
+            },
+            {
+                  "name": "Nelson-Mandela-Park",
+                  "text": "Un parc central din Bremen, numit după Nelson Mandela.",
+                  "category": "park",
+                  "coords": [
+                        8.818483,
+                        53.085042
+                  ]
             }
       ],
       "en": [
@@ -2772,6 +6048,294 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.83967,
                         53.0676
+                  ]
+            },
+            {
+                  "name": "Packhaustheater",
+                  "text": "A small theater in the historic Schnoor district of Bremen, housed in a former warehouse.",
+                  "category": "cultural",
+                  "coords": [
+                        8.809311,
+                        53.072499
+                  ]
+            },
+            {
+                  "name": "Schulmuseum Bremen",
+                  "text": "Museum dedicated to the history of schooling in Bremen, featuring historic classrooms and teaching aids.",
+                  "category": "museum",
+                  "coords": [
+                        8.8603,
+                        53.066061
+                  ]
+            },
+            {
+                  "name": "Paula-Modersohn-Becker-Museum",
+                  "text": "The world's first museum dedicated to a female painter, located in an Expressionist building on Böttcherstraße.",
+                  "category": "museum",
+                  "coords": [
+                        8.806058,
+                        53.075184
+                  ]
+            },
+            {
+                  "name": "Städtische Galerie Bremen",
+                  "text": "Municipal art gallery in Bremen showcasing regional and contemporary art through changing exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        8.806704,
+                        53.065881
+                  ]
+            },
+            {
+                  "name": "Dom-Museum",
+                  "text": "Museum inside the St. Peter's Cathedral in Bremen, featuring sacred treasures and burial finds from the cathedral's history.",
+                  "category": "museum",
+                  "coords": [
+                        8.809663,
+                        53.07533
+                  ]
+            },
+            {
+                  "name": "Bremer Rundfunkmuseum",
+                  "text": "Museum dedicated to the history of broadcasting with an extensive collection of historical radios and studio equipment.",
+                  "category": "museum",
+                  "coords": [
+                        8.806268,
+                        53.088714
+                  ]
+            },
+            {
+                  "name": "Focke-Museum",
+                  "text": "Bremen's state museum for art and cultural history, presenting the city's past within a spacious park setting.",
+                  "category": "museum",
+                  "coords": [
+                        8.864005,
+                        53.092414
+                  ]
+            },
+            {
+                  "name": "Weserburg Museum für moderne Kunst",
+                  "text": "One of Germany's largest museums for modern art, housed in historical warehouses on the Teerhof island.",
+                  "category": "museum",
+                  "coords": [
+                        8.798767,
+                        53.076509
+                  ]
+            },
+            {
+                  "name": "Focke-Windkanal",
+                  "text": "A technical monument preserving the historical wind tunnel of aviation pioneer Henrich Focke.",
+                  "category": "museum",
+                  "coords": [
+                        8.81585,
+                        53.08036
+                  ]
+            },
+            {
+                  "name": "Fritz",
+                  "text": "A modern entertainment theatre combining comedy, shows, and gastronomy in an atmospheric setting.",
+                  "category": "cultural",
+                  "coords": [
+                        8.811846,
+                        53.080711
+                  ]
+            },
+            {
+                  "name": "Steinkammern",
+                  "text": "Archaeological remains of medieval stone chambers discovered during excavations at Bremen's Schlachte.",
+                  "category": "historical",
+                  "coords": [
+                        8.799083,
+                        53.078508
+                  ]
+            },
+            {
+                  "name": "Tischlerei-Museum Bremen",
+                  "text": "A museum in the Viertel district showcasing a historical woodworking shop with functional early 20th-century machinery.",
+                  "category": "museum",
+                  "coords": [
+                        8.819054,
+                        53.071375
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "A popular public indoor swimming pool in Bremen's Neustadt district featuring a sauna, wellness area, and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        8.795696,
+                        53.070891
+                  ]
+            },
+            {
+                  "name": "Theater am Leibnizplatz",
+                  "text": "Venue of the Bremer Shakespeare Company, renowned for its lively and modern theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        8.797606,
+                        53.070095
+                  ]
+            },
+            {
+                  "name": "Metropol Theater Bremen",
+                  "text": "A well-known venue in Bremen hosting musicals, concerts, and various stage shows.",
+                  "category": "cultural",
+                  "coords": [
+                        8.814276,
+                        53.078415
+                  ]
+            },
+            {
+                  "name": "Überseemuseum",
+                  "text": "A major natural history and ethnological museum located next to Bremen's main station.",
+                  "category": "museum",
+                  "coords": [
+                        8.810574,
+                        53.083391
+                  ]
+            },
+            {
+                  "name": "Schnürschuh Theater",
+                  "text": "An independent theatre in Bremen offering a diverse program for audiences of all ages.",
+                  "category": "cultural",
+                  "coords": [
+                        8.808068,
+                        53.063816
+                  ]
+            },
+            {
+                  "name": "Bleikeller",
+                  "text": "A historic cellar in Bremen Cathedral famous for its naturally preserved mummies.",
+                  "category": "museum",
+                  "coords": [
+                        8.808698,
+                        53.075296
+                  ]
+            },
+            {
+                  "name": "Fangturm",
+                  "text": "A historic defensive tower that was part of Bremen's medieval city fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        8.798125,
+                        53.078869
+                  ]
+            },
+            {
+                  "name": "Bräutigam",
+                  "text": "A former powder tower and part of Bremen's historic defensive structures.",
+                  "category": "historical",
+                  "coords": [
+                        8.789457,
+                        53.081554
+                  ]
+            },
+            {
+                  "name": "Ölmühle",
+                  "text": "Archaeological remains of a historic oil mill providing insight into early industry.",
+                  "category": "historical",
+                  "coords": [
+                        8.786622,
+                        53.082836
+                  ]
+            },
+            {
+                  "name": "Becks Brewery Tour",
+                  "text": "A guided tour of the world-famous brewery offering insights into the beer-making process.",
+                  "category": "museum",
+                  "coords": [
+                        8.791809,
+                        53.078275
+                  ]
+            },
+            {
+                  "name": "Weserstrand",
+                  "text": "An artificial sandy beach located on the banks of the Weser River in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823641,
+                        53.067124
+                  ]
+            },
+            {
+                  "name": "Werderseestrand",
+                  "text": "A popular swimming beach on the shores of Werdersee lake in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823366,
+                        53.059445
+                  ]
+            },
+            {
+                  "name": "Tier- und Landschaftsprojekt Sportgarten",
+                  "text": "A community project combining sports facilities with animal care and nature experiences.",
+                  "category": "recreational",
+                  "coords": [
+                        8.848138,
+                        53.061107
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "A small animal enclosure in Bremen showcasing local species.",
+                  "category": "recreational",
+                  "coords": [
+                        8.826835,
+                        53.096427
+                  ]
+            },
+            {
+                  "name": "Theatergarten",
+                  "text": "A historic garden area located near the Bremen Theater at Goetheplatz.",
+                  "category": "park",
+                  "coords": [
+                        8.812953,
+                        53.07647
+                  ]
+            },
+            {
+                  "name": "Segelverein „Weser“",
+                  "text": "A traditional sailing club on the banks of the Weser with views of the river traffic.",
+                  "category": "natural",
+                  "coords": [
+                        8.83457,
+                        53.067292
+                  ]
+            },
+            {
+                  "name": "Focke-Garten",
+                  "text": "A public park situated on a former fortification site with sculptures and flower beds.",
+                  "category": "park",
+                  "coords": [
+                        8.790474,
+                        53.081521
+                  ]
+            },
+            {
+                  "name": "Hohentorspark",
+                  "text": "A green area in Bremen's Neustadt district on the site of historic city fortifications.",
+                  "category": "park",
+                  "coords": [
+                        8.788621,
+                        53.074779
+                  ]
+            },
+            {
+                  "name": "Kriegerehrenmal Altmannshöhe",
+                  "text": "A monument honoring the fallen soldiers of World War I, located on a hill.",
+                  "category": "historical",
+                  "coords": [
+                        8.812791,
+                        53.071895
+                  ]
+            },
+            {
+                  "name": "Nelson-Mandela-Park",
+                  "text": "A central city park in Bremen named after Nelson Mandela.",
+                  "category": "park",
+                  "coords": [
+                        8.818483,
+                        53.085042
                   ]
             }
       ]

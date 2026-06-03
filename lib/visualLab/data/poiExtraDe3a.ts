@@ -100,6 +100,132 @@ export const poiExtraDe3a: POI[] = [
                         13.0897,
                         54.3175
                   ]
+            },
+            {
+                  "name": "Museumshaus",
+                  "text": "Ein historisches Gebäude in Stralsund, das Einblicke in die bürgerliche Wohnkultur bietet.",
+                  "category": "museum",
+                  "coords": [
+                        13.088334,
+                        54.311851
+                  ]
+            },
+            {
+                  "name": "Meeresmuseum",
+                  "text": "Eines der meistbesuchten Museen Norddeutschlands mit Schwerpunkt Meereskunde.",
+                  "category": "museum",
+                  "coords": [
+                        13.086921,
+                        54.312788
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "Eine historische Befestigungsanlage am Strelasund in Stralsund.",
+                  "category": "fortress",
+                  "coords": [
+                        13.078517,
+                        54.333407
+                  ]
+            },
+            {
+                  "name": "Großes Haus Stralsund",
+                  "text": "Die Hauptspielstätte des Theaters Vorpommern in der Hansestadt Stralsund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.088441,
+                        54.317425
+                  ]
+            },
+            {
+                  "name": "Zoo Stralsund",
+                  "text": "Ein weitläufiger Tierpark in Stralsund mit Fokus auf heimische und exotische Arten.",
+                  "category": "recreational",
+                  "coords": [
+                        13.050735,
+                        54.317849
+                  ]
+            },
+            {
+                  "name": "Nautineum Stralsund",
+                  "text": "Ein Standort des Meeresmuseums auf der Insel Dänholm mit Schwerpunkt Fischerei.",
+                  "category": "museum",
+                  "coords": [
+                        13.117039,
+                        54.304862
+                  ]
+            },
+            {
+                  "name": "Marinemuseum",
+                  "text": "Marinemuseum auf der Insel Dänholm in Stralsund mit Ausstellungen zur Seekriegsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        13.118368,
+                        54.309754
+                  ]
+            },
+            {
+                  "name": "St.-Johanniskloster",
+                  "text": "Ehemaliges Franziskanerkloster in Stralsund, das heute unter anderem das Stadtarchiv beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        13.092033,
+                        54.317359
+                  ]
+            },
+            {
+                  "name": "Dänholm",
+                  "text": "Kleiner Leuchtturm auf der Insel Dänholm bei Stralsund an der Ostseeküste.",
+                  "category": "landmark",
+                  "coords": [
+                        13.113235,
+                        54.307962
+                  ]
+            },
+            {
+                  "name": "Hanse Dom",
+                  "text": "Großer Wasser- und Erlebnispark in Stralsund mit zahlreichen Schwimmbecken und Saunawelt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.043576,
+                        54.319716
+                  ]
+            },
+            {
+                  "name": "HanseDom Stralsund",
+                  "text": "Freizeit- und Sportpark in Stralsund, der Teil des HanseDom-Komplexes ist.",
+                  "category": "recreational",
+                  "coords": [
+                        13.044573,
+                        54.319708
+                  ]
+            },
+            {
+                  "name": "Stralsund in Miniatur",
+                  "text": "Museum mit maßstabsgetreuen Miniaturmodellen der historischen Gebäude von Stralsund.",
+                  "category": "museum",
+                  "coords": [
+                        13.08908,
+                        54.316182
+                  ]
+            },
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Öffentliches Freibad und Badestrand am Strelasund in Stralsund.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "Beliebter lokaler Badestrand in Stralsund für Erholung am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
+                  ]
             }
       ],
       "hu": [
@@ -151,6 +277,132 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.0897,
                         54.3175
+                  ]
+            },
+            {
+                  "name": "Museumshaus",
+                  "text": "Történelmi épület Stralsundban, amely a polgári lakáskultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.088334,
+                        54.311851
+                  ]
+            },
+            {
+                  "name": "Meeresmuseum",
+                  "text": "Észak-Németország egyik leglátogatottabb tengerészeti múzeuma Stralsundban.",
+                  "category": "museum",
+                  "coords": [
+                        13.086921,
+                        54.312788
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "Történelmi erődítmény a Strelasund partján, Stralsund városában.",
+                  "category": "fortress",
+                  "coords": [
+                        13.078517,
+                        54.333407
+                  ]
+            },
+            {
+                  "name": "Großes Haus Stralsund",
+                  "text": "A Theater Vorpommern fő játszóhelye Stralsund Hanza-városában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.088441,
+                        54.317425
+                  ]
+            },
+            {
+                  "name": "Zoo Stralsund",
+                  "text": "Tágas állatkert Stralsundban, hazai és egzotikus fajokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        13.050735,
+                        54.317849
+                  ]
+            },
+            {
+                  "name": "Nautineum Stralsund",
+                  "text": "A tengerészeti múzeum Dänholm-szigeti részlege, fókuszban a halászattal.",
+                  "category": "museum",
+                  "coords": [
+                        13.117039,
+                        54.304862
+                  ]
+            },
+            {
+                  "name": "Marinemuseum",
+                  "text": "Tengerészeti múzeum Stralsundban, a Dänholm-szigeten, amely a haditengerészet történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.118368,
+                        54.309754
+                  ]
+            },
+            {
+                  "name": "St.-Johanniskloster",
+                  "text": "Egykori ferences kolostor Stralsundban, amely ma a városi levéltárnak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        13.092033,
+                        54.317359
+                  ]
+            },
+            {
+                  "name": "Dänholm",
+                  "text": "Kisméretű világítótorony a Stralsund melletti Dänholm-szigeten a Balti-tenger partján.",
+                  "category": "landmark",
+                  "coords": [
+                        13.113235,
+                        54.307962
+                  ]
+            },
+            {
+                  "name": "Hanse Dom",
+                  "text": "Nagy vízi élménypark Stralsundban számos medencével és szaunavilággal.",
+                  "category": "recreational",
+                  "coords": [
+                        13.043576,
+                        54.319716
+                  ]
+            },
+            {
+                  "name": "HanseDom Stralsund",
+                  "text": "Szabadidő- és sportpark Stralsundban, a HanseDom komplexum része.",
+                  "category": "recreational",
+                  "coords": [
+                        13.044573,
+                        54.319708
+                  ]
+            },
+            {
+                  "name": "Stralsund in Miniatur",
+                  "text": "Múzeum, amely Stralsund történelmi épületeinek méretarányos makettjeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.08908,
+                        54.316182
+                  ]
+            },
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Nyilvános strand és szabadtéri fürdő Stralsundban, a Strelasund partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "Népszerű helyi strand Stralsundban a vízparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
                   ]
             }
       ],
@@ -204,6 +456,132 @@ export const poiExtraDe3a: POI[] = [
                         13.0897,
                         54.3175
                   ]
+            },
+            {
+                  "name": "Museumshaus",
+                  "text": "O clădire istorică din Stralsund care prezintă cultura locuirii burgheze.",
+                  "category": "museum",
+                  "coords": [
+                        13.088334,
+                        54.311851
+                  ]
+            },
+            {
+                  "name": "Meeresmuseum",
+                  "text": "Unul dintre cele mai vizitate muzee din nordul Germaniei, axat pe oceanografie.",
+                  "category": "museum",
+                  "coords": [
+                        13.086921,
+                        54.312788
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "O fortificație istorică situată pe malul Strelasund în Stralsund.",
+                  "category": "fortress",
+                  "coords": [
+                        13.078517,
+                        54.333407
+                  ]
+            },
+            {
+                  "name": "Großes Haus Stralsund",
+                  "text": "Sediul principal al Teatrului Vorpommern din orașul hanseatic Stralsund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.088441,
+                        54.317425
+                  ]
+            },
+            {
+                  "name": "Zoo Stralsund",
+                  "text": "O grădină zoologică spațioasă din Stralsund, axată pe specii native și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        13.050735,
+                        54.317849
+                  ]
+            },
+            {
+                  "name": "Nautineum Stralsund",
+                  "text": "O secție a Muzeului Oceanografic pe insula Dänholm, axată pe pescuit.",
+                  "category": "museum",
+                  "coords": [
+                        13.117039,
+                        54.304862
+                  ]
+            },
+            {
+                  "name": "Marinemuseum",
+                  "text": "Muzeul naval de pe insula Dänholm din Stralsund prezintă istoria militară maritimă.",
+                  "category": "museum",
+                  "coords": [
+                        13.118368,
+                        54.309754
+                  ]
+            },
+            {
+                  "name": "St.-Johanniskloster",
+                  "text": "Fostă mănăstire franciscană din Stralsund, care găzduiește astăzi arhivele orașului.",
+                  "category": "religious",
+                  "coords": [
+                        13.092033,
+                        54.317359
+                  ]
+            },
+            {
+                  "name": "Dänholm",
+                  "text": "Far mic de pe insula Dänholm de lângă Stralsund, pe coasta Mării Baltice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.113235,
+                        54.307962
+                  ]
+            },
+            {
+                  "name": "Hanse Dom",
+                  "text": "Un mare parc acvatic și de relaxare în Stralsund, cu numeroase piscine și zone de saună.",
+                  "category": "recreational",
+                  "coords": [
+                        13.043576,
+                        54.319716
+                  ]
+            },
+            {
+                  "name": "HanseDom Stralsund",
+                  "text": "Parc de distracții și sport în Stralsund, făcând parte din complexul HanseDom.",
+                  "category": "recreational",
+                  "coords": [
+                        13.044573,
+                        54.319708
+                  ]
+            },
+            {
+                  "name": "Stralsund in Miniatur",
+                  "text": "Muzeu care prezintă machete în miniatură ale clădirilor istorice din Stralsund.",
+                  "category": "museum",
+                  "coords": [
+                        13.08908,
+                        54.316182
+                  ]
+            },
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Ștrand public și zonă de îmbăiere pe malul Strelasund în Stralsund.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "Plajă locală populară în Stralsund pentru recreere pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
+                  ]
             }
       ],
       "en": [
@@ -255,6 +633,132 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.0897,
                         54.3175
+                  ]
+            },
+            {
+                  "name": "Museumshaus",
+                  "text": "A historic building in Stralsund showcasing middle-class living culture.",
+                  "category": "museum",
+                  "coords": [
+                        13.088334,
+                        54.311851
+                  ]
+            },
+            {
+                  "name": "Maritime Museum",
+                  "text": "One of North Germany's most visited museums, specializing in oceanography.",
+                  "category": "museum",
+                  "coords": [
+                        13.086921,
+                        54.312788
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "A historic fortification located on the shores of the Strelasund in Stralsund.",
+                  "category": "fortress",
+                  "coords": [
+                        13.078517,
+                        54.333407
+                  ]
+            },
+            {
+                  "name": "Großes Haus Stralsund",
+                  "text": "The main venue of the Theater Vorpommern in the Hanseatic city of Stralsund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.088441,
+                        54.317425
+                  ]
+            },
+            {
+                  "name": "Zoo Stralsund",
+                  "text": "A spacious zoo in Stralsund focusing on native and exotic species.",
+                  "category": "recreational",
+                  "coords": [
+                        13.050735,
+                        54.317849
+                  ]
+            },
+            {
+                  "name": "Nautineum Stralsund",
+                  "text": "A branch of the Maritime Museum on Dänholm island, focusing on fishing.",
+                  "category": "museum",
+                  "coords": [
+                        13.117039,
+                        54.304862
+                  ]
+            },
+            {
+                  "name": "Marinemuseum",
+                  "text": "Naval museum on Dänholm island in Stralsund featuring exhibits on maritime military history.",
+                  "category": "museum",
+                  "coords": [
+                        13.118368,
+                        54.309754
+                  ]
+            },
+            {
+                  "name": "St.-Johanniskloster",
+                  "text": "Former Franciscan monastery in Stralsund, now housing the city archives.",
+                  "category": "religious",
+                  "coords": [
+                        13.092033,
+                        54.317359
+                  ]
+            },
+            {
+                  "name": "Dänholm",
+                  "text": "Small lighthouse located on Dänholm island near Stralsund on the Baltic coast.",
+                  "category": "landmark",
+                  "coords": [
+                        13.113235,
+                        54.307962
+                  ]
+            },
+            {
+                  "name": "Hanse Dom",
+                  "text": "Large water park and leisure complex in Stralsund featuring various pools and saunas.",
+                  "category": "recreational",
+                  "coords": [
+                        13.043576,
+                        54.319716
+                  ]
+            },
+            {
+                  "name": "HanseDom Stralsund",
+                  "text": "Recreation and sports park in Stralsund, part of the HanseDom complex.",
+                  "category": "recreational",
+                  "coords": [
+                        13.044573,
+                        54.319708
+                  ]
+            },
+            {
+                  "name": "Stralsund in Miniatur",
+                  "text": "Museum showcasing scale miniature models of the historical buildings of Stralsund.",
+                  "category": "museum",
+                  "coords": [
+                        13.08908,
+                        54.316182
+                  ]
+            },
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Public outdoor swimming area and beach on the Strelasund in Stralsund.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "Popular local bathing beach in Stralsund for waterfront recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
                   ]
             }
       ],
@@ -782,6 +1286,123 @@ export const poiExtraDe3a: POI[] = [
                         13.211389,
                         53.507222
                   ]
+            },
+            {
+                  "name": "Museum Stadtgeschichte",
+                  "text": "Museum über die lokale Geschichte und Entwicklung von Neubrandenburg.",
+                  "category": "museum",
+                  "coords": [
+                        13.2535,
+                        53.557101
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Neubrandenburg",
+                  "text": "Das älteste erhaltene Theatergebäude in Mecklenburg-Vorpommern.",
+                  "category": "cultural",
+                  "coords": [
+                        13.263294,
+                        53.555083
+                  ]
+            },
+            {
+                  "name": "Brigitte-Reimann-Literaturhaus",
+                  "text": "Literaturmuseum und Gedenkstätte für die Schriftstellerin Brigitte Reimann.",
+                  "category": "museum",
+                  "coords": [
+                        13.266566,
+                        53.553493
+                  ]
+            },
+            {
+                  "name": "Kunstsammlung Neubrandenburg",
+                  "text": "Kunstmuseum im Stadtzentrum mit Fokus auf regionale und moderne Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        13.256277,
+                        53.555473
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum im Franziskanerkloster",
+                  "text": "Regionalmuseum, das in einem ehemaligen Franziskanerkloster untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.260955,
+                        53.560007
+                  ]
+            },
+            {
+                  "name": "Steinkiste aus der Datze-Niederung",
+                  "text": "Ein prähistorisches Steingrab aus dem Gebiet der Datze-Niederung.",
+                  "category": "historical",
+                  "coords": [
+                        13.252663,
+                        53.546956
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee Strand",
+                  "text": "Öffentlicher Badestrand und Erholungsgebiet am Reitbahnsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26229,
+                        53.573681
+                  ]
+            },
+            {
+                  "name": "Brodaer Strand",
+                  "text": "Beliebter Sandstrand am Ufer des Tollensesees im Stadtteil Broda.",
+                  "category": "recreational",
+                  "coords": [
+                        13.242738,
+                        53.549814
+                  ]
+            },
+            {
+                  "name": "Augustabad",
+                  "text": "Traditionelles Strandbad mit Parkanlagen am Ufer des Tollensesees.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250531,
+                        53.533889
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Ausgewiesener Strandabschnitt für Besucher mit Hunden am Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.237867,
+                        53.547768
+                  ]
+            },
+            {
+                  "name": "Tierhof",
+                  "text": "Ein kleiner Tierpark und Bauernhof in Neubrandenburg, der besonders für Familien geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        13.252383,
+                        53.55211
+                  ]
+            },
+            {
+                  "name": "Tauchspot Wassersportzentrum An der Mole",
+                  "text": "Ein beliebter Tauchplatz und Wassersportstandort am Ufer des Tollensesees.",
+                  "category": "recreational",
+                  "coords": [
+                        13.254874,
+                        53.53785
+                  ]
+            },
+            {
+                  "name": "Kulturpark",
+                  "text": "Zentrale Parkanlage am Tollensesee mit weiten Grünflächen und Erholungsmöglichkeiten.",
+                  "category": "park",
+                  "coords": [
+                        13.254562,
+                        53.549831
+                  ]
             }
       ],
       "hu": [
@@ -823,6 +1444,123 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.211389,
                         53.507222
+                  ]
+            },
+            {
+                  "name": "Museum Stadtgeschichte",
+                  "text": "Múzeum Neubrandenburg helyi történelméről és fejlődéséről.",
+                  "category": "museum",
+                  "coords": [
+                        13.2535,
+                        53.557101
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Neubrandenburg",
+                  "text": "Mecklenburg-Elő-Pomeránia legrégebbi épségben maradt színházépülete.",
+                  "category": "cultural",
+                  "coords": [
+                        13.263294,
+                        53.555083
+                  ]
+            },
+            {
+                  "name": "Brigitte-Reimann-Literaturhaus",
+                  "text": "Irodalmi múzeum és emlékhely Brigitte Reimann írónő tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        13.266566,
+                        53.553493
+                  ]
+            },
+            {
+                  "name": "Kunstsammlung Neubrandenburg",
+                  "text": "Múzeum a városközpontban, amely a regionális és modern művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        13.256277,
+                        53.555473
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum im Franziskanerkloster",
+                  "text": "Regionális múzeum, amely egy egykori ferences kolostorban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        13.260955,
+                        53.560007
+                  ]
+            },
+            {
+                  "name": "Steinkiste aus der Datze-Niederung",
+                  "text": "Prehisztorikus kősír a Datze-alföld területéről.",
+                  "category": "historical",
+                  "coords": [
+                        13.252663,
+                        53.546956
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee Strand",
+                  "text": "Nyilvános strand és üdülőhely a Reitbahnsee partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26229,
+                        53.573681
+                  ]
+            },
+            {
+                  "name": "Brodaer Strand",
+                  "text": "Népszerű homokos strand a Tollensesee partján, Broda városrészben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.242738,
+                        53.549814
+                  ]
+            },
+            {
+                  "name": "Augustabad",
+                  "text": "Tradicionális strandfürdő parkokkal a Tollensesee partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250531,
+                        53.533889
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Kutyások számára kijelölt strandrész a Tollensesee partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.237867,
+                        53.547768
+                  ]
+            },
+            {
+                  "name": "Tierhof",
+                  "text": "Kisméretű állatpark és farm Neubrandenburgban, amely interaktív élményt kínál a családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.252383,
+                        53.55211
+                  ]
+            },
+            {
+                  "name": "Tauchspot Wassersportzentrum An der Mole",
+                  "text": "Népszerű merülőhely és vízisport-központ a Tollensesee partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.254874,
+                        53.53785
+                  ]
+            },
+            {
+                  "name": "Kulturpark",
+                  "text": "Központi park a Tollensesee partján, amely tágas zöldfelületeket kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        13.254562,
+                        53.549831
                   ]
             }
       ],
@@ -866,6 +1604,123 @@ export const poiExtraDe3a: POI[] = [
                         13.211389,
                         53.507222
                   ]
+            },
+            {
+                  "name": "Museum Stadtgeschichte",
+                  "text": "Muzeu despre istoria locală și dezvoltarea orașului Neubrandenburg.",
+                  "category": "museum",
+                  "coords": [
+                        13.2535,
+                        53.557101
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Neubrandenburg",
+                  "text": "Cea mai veche clădire de teatru conservată din Mecklenburg-Pomerania Inferioară.",
+                  "category": "cultural",
+                  "coords": [
+                        13.263294,
+                        53.555083
+                  ]
+            },
+            {
+                  "name": "Brigitte-Reimann-Literaturhaus",
+                  "text": "Muzeu literar și memorial dedicat scriitoarei Brigitte Reimann.",
+                  "category": "museum",
+                  "coords": [
+                        13.266566,
+                        53.553493
+                  ]
+            },
+            {
+                  "name": "Kunstsammlung Neubrandenburg",
+                  "text": "Muzeu de artă din centrul orașului, axat pe artă regională și modernă.",
+                  "category": "museum",
+                  "coords": [
+                        13.256277,
+                        53.555473
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum im Franziskanerkloster",
+                  "text": "Muzeu regional găzduit într-o fostă mănăstire franciscană.",
+                  "category": "museum",
+                  "coords": [
+                        13.260955,
+                        53.560007
+                  ]
+            },
+            {
+                  "name": "Steinkiste aus der Datze-Niederung",
+                  "text": "Un mormânt preistoric din piatră din zona câmpiei Datze.",
+                  "category": "historical",
+                  "coords": [
+                        13.252663,
+                        53.546956
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee Strand",
+                  "text": "Plajă publică și zonă de recreere pe malul lacului Reitbahnsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26229,
+                        53.573681
+                  ]
+            },
+            {
+                  "name": "Brodaer Strand",
+                  "text": "Plajă populară cu nisip pe malul lacului Tollensesee în districtul Broda.",
+                  "category": "recreational",
+                  "coords": [
+                        13.242738,
+                        53.549814
+                  ]
+            },
+            {
+                  "name": "Augustabad",
+                  "text": "Ștrand tradițional cu parcuri pe malul lacului Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250531,
+                        53.533889
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Secțiune de plajă desemnată pentru vizitatorii cu câini pe Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.237867,
+                        53.547768
+                  ]
+            },
+            {
+                  "name": "Tierhof",
+                  "text": "O mică grădină zoologică și fermă în Neubrandenburg, ideală pentru familii cu copii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.252383,
+                        53.55211
+                  ]
+            },
+            {
+                  "name": "Tauchspot Wassersportzentrum An der Mole",
+                  "text": "Un loc popular pentru scufundări și sporturi nautice pe malul lacului Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.254874,
+                        53.53785
+                  ]
+            },
+            {
+                  "name": "Kulturpark",
+                  "text": "Un parc central pe malul lacului, oferind spații verzi vaste pentru recreere și plimbări.",
+                  "category": "park",
+                  "coords": [
+                        13.254562,
+                        53.549831
+                  ]
             }
       ],
       "en": [
@@ -907,6 +1762,123 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.211389,
                         53.507222
+                  ]
+            },
+            {
+                  "name": "Museum Stadtgeschichte",
+                  "text": "Museum about the local history and development of Neubrandenburg.",
+                  "category": "museum",
+                  "coords": [
+                        13.2535,
+                        53.557101
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Neubrandenburg",
+                  "text": "The oldest preserved theatre building in Mecklenburg-Vorpommern.",
+                  "category": "cultural",
+                  "coords": [
+                        13.263294,
+                        53.555083
+                  ]
+            },
+            {
+                  "name": "Brigitte-Reimann-Literaturhaus",
+                  "text": "Literary museum and memorial dedicated to the writer Brigitte Reimann.",
+                  "category": "museum",
+                  "coords": [
+                        13.266566,
+                        53.553493
+                  ]
+            },
+            {
+                  "name": "Kunstsammlung Neubrandenburg",
+                  "text": "Art museum in the town center focusing on regional and modern art.",
+                  "category": "museum",
+                  "coords": [
+                        13.256277,
+                        53.555473
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum im Franziskanerkloster",
+                  "text": "Regional museum housed in a former Franciscan monastery.",
+                  "category": "museum",
+                  "coords": [
+                        13.260955,
+                        53.560007
+                  ]
+            },
+            {
+                  "name": "Steinkiste aus der Datze-Niederung",
+                  "text": "A prehistoric stone grave from the Datze lowlands area.",
+                  "category": "historical",
+                  "coords": [
+                        13.252663,
+                        53.546956
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee Strand",
+                  "text": "Public bathing beach and recreation area on the Reitbahnsee lake.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26229,
+                        53.573681
+                  ]
+            },
+            {
+                  "name": "Brodaer Strand",
+                  "text": "Popular sandy beach on the shores of Lake Tollensesee in the Broda district.",
+                  "category": "recreational",
+                  "coords": [
+                        13.242738,
+                        53.549814
+                  ]
+            },
+            {
+                  "name": "Augustabad",
+                  "text": "Traditional lakeside bathing beach with parks on the Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250531,
+                        53.533889
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Designated beach section for visitors with dogs on Lake Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.237867,
+                        53.547768
+                  ]
+            },
+            {
+                  "name": "Tierhof",
+                  "text": "A small animal park and farm in Neubrandenburg, popular for family visits.",
+                  "category": "recreational",
+                  "coords": [
+                        13.252383,
+                        53.55211
+                  ]
+            },
+            {
+                  "name": "Tauchspot Wassersportzentrum An der Mole",
+                  "text": "A popular diving spot and water sports center on the shores of Lake Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.254874,
+                        53.53785
+                  ]
+            },
+            {
+                  "name": "Kulturpark",
+                  "text": "A central park by the lake offering extensive green spaces and recreation areas.",
+                  "category": "park",
+                  "coords": [
+                        13.254562,
+                        53.549831
                   ]
             }
       ],
@@ -1720,6 +2692,159 @@ export const poiExtraDe3a: POI[] = [
                         9.43389,
                         54.7936
                   ]
+            },
+            {
+                  "name": "Det lille Teater",
+                  "text": "Ein kleines dänisches Theater in Flensburg, das Stücke für Kinder und Erwachsene zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.4301,
+                        54.789841
+                  ]
+            },
+            {
+                  "name": "Niederdeutsche Bühne",
+                  "text": "Ein Theater in Flensburg, das sich auf Aufführungen in niederdeutscher Sprache spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        9.440401,
+                        54.785712
+                  ]
+            },
+            {
+                  "name": "Ostseebad",
+                  "text": "Ein beliebter Badestrand an der Flensburger Förde mit Blick auf die Ostsee.",
+                  "category": "recreational",
+                  "coords": [
+                        9.430626,
+                        54.812288
+                  ]
+            },
+            {
+                  "name": "Wehrgeschichtliches Ausbildungszentrum (WGAZ)",
+                  "text": "Ein militärhistorisches Museum, das in der ehemaligen Kommandeursvilla in Flensburg untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.458476,
+                        54.813633
+                  ]
+            },
+            {
+                  "name": "Eiszeithaus",
+                  "text": "Ein Museum im Christiansenpark, das die regionale Geologie und Funde aus der Eiszeit präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.426309,
+                        54.785847
+                  ]
+            },
+            {
+                  "name": "Stadttheater Flensburg",
+                  "text": "Das städtische Theater von Flensburg, das als Hauptspielstätte für Schauspiel und Musiktheater dient.",
+                  "category": "cultural",
+                  "coords": [
+                        9.43301,
+                        54.786317
+                  ]
+            },
+            {
+                  "name": "Yachting Heritage Centre - Robbe & Berking Museum",
+                  "text": "Ein Museum in Flensburg, das sich der Geschichte und dem Bau klassischer Yachten widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.43788,
+                        54.800123
+                  ]
+            },
+            {
+                  "name": "Fischereimuseum",
+                  "text": "Das Museum dokumentiert die regionale Fischereigeschichte und maritime Traditionen in Flensburg.",
+                  "category": "museum",
+                  "coords": [
+                        9.437943,
+                        54.791007
+                  ]
+            },
+            {
+                  "name": "Tauchermuseum Flensburg",
+                  "text": "Ein spezialisiertes Museum in Flensburg, das die Entwicklung der Tauchtechnik zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.429401,
+                        54.80771
+                  ]
+            },
+            {
+                  "name": "Campusbad",
+                  "text": "Ein modernes Sport- und Freizeitbad in Flensburg mit verschiedenen Schwimmbecken und Wellnessbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.452538,
+                        54.776974
+                  ]
+            },
+            {
+                  "name": "Wildgehege",
+                  "text": "Ein Wildgehege in Flensburg, in dem Besucher heimische Wildtierarten in natürlicher Umgebung beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        9.394092,
+                        54.785653
+                  ]
+            },
+            {
+                  "name": "Carlisle Park",
+                  "text": "Eine Parkanlage in Flensburg, die nach der englischen Partnerstadt Carlisle benannt wurde.",
+                  "category": "park",
+                  "coords": [
+                        9.437791,
+                        54.776222
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Der zentrale Stadtpark in Flensburg bietet weitläufige Grünflächen und Spazierwege zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        9.426669,
+                        54.788541
+                  ]
+            },
+            {
+                  "name": "Lutherpark",
+                  "text": "Ein städtischer Park in Flensburg, der als Grünanlage im Stadtgebiet der Erholung dient.",
+                  "category": "park",
+                  "coords": [
+                        9.433694,
+                        54.782514
+                  ]
+            },
+            {
+                  "name": "Wasserturm Flensburg-Mürwik",
+                  "text": "Ein markanter ehemaliger Wasserturm im Stadtteil Mürwik, der heute als Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        9.446556,
+                        54.796141
+                  ]
+            },
+            {
+                  "name": "Volkspark",
+                  "text": "Eine große öffentliche Parkanlage im Osten Flensburgs mit Sportflächen und Panoramablick.",
+                  "category": "park",
+                  "coords": [
+                        9.447394,
+                        54.799631
+                  ]
+            },
+            {
+                  "name": "Collundtspark",
+                  "text": "Ein kleinerer Park in Flensburg, der den Anwohnern als grüne Ruheoase im Stadtteil dient.",
+                  "category": "park",
+                  "coords": [
+                        9.428823,
+                        54.794624
+                  ]
             }
       ],
       "hu": [
@@ -1786,6 +2911,159 @@ export const poiExtraDe3a: POI[] = [
                         9.43389,
                         54.7936
                   ]
+            },
+            {
+                  "name": "Det lille Teater",
+                  "text": "Kis dán színház Flensburgban, amely gyermekeknek és felnőtteknek szóló darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        9.4301,
+                        54.789841
+                  ]
+            },
+            {
+                  "name": "Niederdeutsche Bühne",
+                  "text": "Flensburgi színház, amely alnémet nyelvű előadásokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        9.440401,
+                        54.785712
+                  ]
+            },
+            {
+                  "name": "Ostseebad",
+                  "text": "Népszerű strand a Flensburgi-fjord partján, kilátással a Balti-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        9.430626,
+                        54.812288
+                  ]
+            },
+            {
+                  "name": "Wehrgeschichtliches Ausbildungszentrum (WGAZ)",
+                  "text": "Hadtörténeti múzeum, amely a tengerészeti iskola egykori parancsnoki villájában található.",
+                  "category": "museum",
+                  "coords": [
+                        9.458476,
+                        54.813633
+                  ]
+            },
+            {
+                  "name": "Eiszeithaus",
+                  "text": "Múzeum a Christiansenparkban, amely a regionális geológiát és a jégkorszaki leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.426309,
+                        54.785847
+                  ]
+            },
+            {
+                  "name": "Stadttheater Flensburg",
+                  "text": "Flensburg városi színháza, amely a dráma és a zenés színház fő helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        9.43301,
+                        54.786317
+                  ]
+            },
+            {
+                  "name": "Yachting Heritage Centre - Robbe & Berking Museum",
+                  "text": "Flensburgi múzeum, amely a klasszikus jachtok történetét és építését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.43788,
+                        54.800123
+                  ]
+            },
+            {
+                  "name": "Fischereimuseum",
+                  "text": "A múzeum a flensburgi regionális halászati múltat és a tengeri hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.437943,
+                        54.791007
+                  ]
+            },
+            {
+                  "name": "Tauchermuseum Flensburg",
+                  "text": "Speciális flensburgi múzeum, amely a búvártechnika fejlődését szemlélteti.",
+                  "category": "museum",
+                  "coords": [
+                        9.429401,
+                        54.80771
+                  ]
+            },
+            {
+                  "name": "Campusbad",
+                  "text": "Modern flensburgi sport- és élményfürdő különféle medencékkel és wellness-részleggel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.452538,
+                        54.776974
+                  ]
+            },
+            {
+                  "name": "Wildgehege",
+                  "text": "Flensburgi vadaspark, ahol a látogatók természetes környezetben láthatnak őshonos vadfajokat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.394092,
+                        54.785653
+                  ]
+            },
+            {
+                  "name": "Carlisle Park",
+                  "text": "Flensburgi park, amelyet az angol testvérvárosról, Carlisle-ról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        9.437791,
+                        54.776222
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Flensburg központi városi parkja kiterjedt zöldfelületeket és sétautakat kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        9.426669,
+                        54.788541
+                  ]
+            },
+            {
+                  "name": "Lutherpark",
+                  "text": "Városi park Flensburgban, amely zöldövezetként szolgál a városi kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        9.433694,
+                        54.782514
+                  ]
+            },
+            {
+                  "name": "Wasserturm Flensburg-Mürwik",
+                  "text": "Mürwik városrész jellegzetes egykori víztornya, amely ma kilátóként üzemel.",
+                  "category": "natural",
+                  "coords": [
+                        9.446556,
+                        54.796141
+                  ]
+            },
+            {
+                  "name": "Volkspark",
+                  "text": "Flensburg keleti részén található nagy közpark sportpályákkal és panorámás kilátással.",
+                  "category": "park",
+                  "coords": [
+                        9.447394,
+                        54.799631
+                  ]
+            },
+            {
+                  "name": "Collundtspark",
+                  "text": "Kisebb park Flensburgban, amely zöld pihenőhelyként szolgál a városrész lakói számára.",
+                  "category": "park",
+                  "coords": [
+                        9.428823,
+                        54.794624
+                  ]
             }
       ],
       "ro": [
@@ -1851,6 +3129,159 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         9.43389,
                         54.7936
+                  ]
+            },
+            {
+                  "name": "Det lille Teater",
+                  "text": "Un mic teatru danez în Flensburg, care prezintă piese pentru copii și adulți.",
+                  "category": "cultural",
+                  "coords": [
+                        9.4301,
+                        54.789841
+                  ]
+            },
+            {
+                  "name": "Niederdeutsche Bühne",
+                  "text": "Un teatru din Flensburg specializat în spectacole în limba germană de jos.",
+                  "category": "cultural",
+                  "coords": [
+                        9.440401,
+                        54.785712
+                  ]
+            },
+            {
+                  "name": "Ostseebad",
+                  "text": "O plajă populară la fiordul Flensburg, cu vedere la Marea Baltică.",
+                  "category": "recreational",
+                  "coords": [
+                        9.430626,
+                        54.812288
+                  ]
+            },
+            {
+                  "name": "Wehrgeschichtliches Ausbildungszentrum (WGAZ)",
+                  "text": "Un muzeu de istorie militară găzduit în fosta vilă a comandantului școlii navale.",
+                  "category": "museum",
+                  "coords": [
+                        9.458476,
+                        54.813633
+                  ]
+            },
+            {
+                  "name": "Eiszeithaus",
+                  "text": "Un muzeu în Christiansenpark care prezintă geologia regională și descoperiri din epoca de gheață.",
+                  "category": "museum",
+                  "coords": [
+                        9.426309,
+                        54.785847
+                  ]
+            },
+            {
+                  "name": "Stadttheater Flensburg",
+                  "text": "Teatrul municipal din Flensburg, care servește drept scenă principală pentru teatru și muzică.",
+                  "category": "cultural",
+                  "coords": [
+                        9.43301,
+                        54.786317
+                  ]
+            },
+            {
+                  "name": "Yachting Heritage Centre - Robbe & Berking Museum",
+                  "text": "Un muzeu din Flensburg dedicat istoriei și construcției iahturilor clasice.",
+                  "category": "museum",
+                  "coords": [
+                        9.43788,
+                        54.800123
+                  ]
+            },
+            {
+                  "name": "Fischereimuseum",
+                  "text": "Muzeul documentează istoria pescuitului regional și tradițiile maritime din Flensburg.",
+                  "category": "museum",
+                  "coords": [
+                        9.437943,
+                        54.791007
+                  ]
+            },
+            {
+                  "name": "Tauchermuseum Flensburg",
+                  "text": "Un muzeu specializat din Flensburg care prezintă evoluția tehnicii de scufundare.",
+                  "category": "museum",
+                  "coords": [
+                        9.429401,
+                        54.80771
+                  ]
+            },
+            {
+                  "name": "Campusbad",
+                  "text": "O piscină modernă de sport și agrement din Flensburg, cu diverse bazine și zone de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        9.452538,
+                        54.776974
+                  ]
+            },
+            {
+                  "name": "Wildgehege",
+                  "text": "Un parc de animale sălbatice din Flensburg, unde vizitatorii pot observa specii locale în mediul lor natural.",
+                  "category": "recreational",
+                  "coords": [
+                        9.394092,
+                        54.785653
+                  ]
+            },
+            {
+                  "name": "Carlisle Park",
+                  "text": "Un parc din Flensburg numit după orașul înfrățit englez Carlisle.",
+                  "category": "park",
+                  "coords": [
+                        9.437791,
+                        54.776222
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Parcul central din Flensburg oferă spații verzi vaste și alei de plimbare pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        9.426669,
+                        54.788541
+                  ]
+            },
+            {
+                  "name": "Lutherpark",
+                  "text": "Un parc urban din Flensburg care servește ca zonă verde pentru recreere în oraș.",
+                  "category": "park",
+                  "coords": [
+                        9.433694,
+                        54.782514
+                  ]
+            },
+            {
+                  "name": "Wasserturm Flensburg-Mürwik",
+                  "text": "Un fost turn de apă distinctiv din cartierul Mürwik, care servește astăzi ca punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        9.446556,
+                        54.796141
+                  ]
+            },
+            {
+                  "name": "Volkspark",
+                  "text": "Un parc public mare în estul Flensburgului, cu terenuri de sport și vedere panoramică.",
+                  "category": "park",
+                  "coords": [
+                        9.447394,
+                        54.799631
+                  ]
+            },
+            {
+                  "name": "Collundtspark",
+                  "text": "Un parc mai mic din Flensburg care servește ca o oază verde de liniște pentru locuitorii din cartier.",
+                  "category": "park",
+                  "coords": [
+                        9.428823,
+                        54.794624
                   ]
             }
       ],
@@ -1931,6 +3362,159 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         9.43389,
                         54.7936
+                  ]
+            },
+            {
+                  "name": "Det lille Teater",
+                  "text": "A small Danish theater in Flensburg presenting plays for children and adults.",
+                  "category": "cultural",
+                  "coords": [
+                        9.4301,
+                        54.789841
+                  ]
+            },
+            {
+                  "name": "Niederdeutsche Bühne",
+                  "text": "A theater in Flensburg specialized in performances in the Low German language.",
+                  "category": "cultural",
+                  "coords": [
+                        9.440401,
+                        54.785712
+                  ]
+            },
+            {
+                  "name": "Ostseebad",
+                  "text": "A popular swimming beach on the Flensburg Fjord with views of the Baltic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        9.430626,
+                        54.812288
+                  ]
+            },
+            {
+                  "name": "Wehrgeschichtliches Ausbildungszentrum (WGAZ)",
+                  "text": "A military history museum housed in the former commander's villa of the naval school.",
+                  "category": "museum",
+                  "coords": [
+                        9.458476,
+                        54.813633
+                  ]
+            },
+            {
+                  "name": "Eiszeithaus",
+                  "text": "A museum in Christiansenpark presenting regional geology and finds from the Ice Age.",
+                  "category": "museum",
+                  "coords": [
+                        9.426309,
+                        54.785847
+                  ]
+            },
+            {
+                  "name": "Stadttheater Flensburg",
+                  "text": "The municipal theater of Flensburg, serving as the main venue for drama and musical theater.",
+                  "category": "cultural",
+                  "coords": [
+                        9.43301,
+                        54.786317
+                  ]
+            },
+            {
+                  "name": "Yachting Heritage Centre - Robbe & Berking Museum",
+                  "text": "A museum in Flensburg dedicated to the history and construction of classic yachts.",
+                  "category": "museum",
+                  "coords": [
+                        9.43788,
+                        54.800123
+                  ]
+            },
+            {
+                  "name": "Fischereimuseum",
+                  "text": "The museum documents regional fishing history and maritime traditions in Flensburg.",
+                  "category": "museum",
+                  "coords": [
+                        9.437943,
+                        54.791007
+                  ]
+            },
+            {
+                  "name": "Tauchermuseum Flensburg",
+                  "text": "A specialized museum in Flensburg showing the development of diving technology.",
+                  "category": "museum",
+                  "coords": [
+                        9.429401,
+                        54.80771
+                  ]
+            },
+            {
+                  "name": "Campusbad",
+                  "text": "A modern sports and leisure pool in Flensburg with various pools and wellness areas.",
+                  "category": "recreational",
+                  "coords": [
+                        9.452538,
+                        54.776974
+                  ]
+            },
+            {
+                  "name": "Wildgehege",
+                  "text": "A wildlife enclosure in Flensburg where visitors can observe native wild animal species in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        9.394092,
+                        54.785653
+                  ]
+            },
+            {
+                  "name": "Carlisle Park",
+                  "text": "A park area in Flensburg named after the English twin city of Carlisle.",
+                  "category": "park",
+                  "coords": [
+                        9.437791,
+                        54.776222
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "The central city park in Flensburg offers extensive green spaces and walking paths for recreation.",
+                  "category": "park",
+                  "coords": [
+                        9.426669,
+                        54.788541
+                  ]
+            },
+            {
+                  "name": "Lutherpark",
+                  "text": "An urban park in Flensburg that serves as a green space for recreation within the city.",
+                  "category": "park",
+                  "coords": [
+                        9.433694,
+                        54.782514
+                  ]
+            },
+            {
+                  "name": "Wasserturm Flensburg-Mürwik",
+                  "text": "A striking former water tower in the Mürwik district that now serves as a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        9.446556,
+                        54.796141
+                  ]
+            },
+            {
+                  "name": "Volkspark",
+                  "text": "A large public park in eastern Flensburg featuring sports areas and panoramic views.",
+                  "category": "park",
+                  "coords": [
+                        9.447394,
+                        54.799631
+                  ]
+            },
+            {
+                  "name": "Collundtspark",
+                  "text": "A smaller park in Flensburg that serves as a green oasis of peace for neighborhood residents.",
+                  "category": "park",
+                  "coords": [
+                        9.428823,
+                        54.794624
                   ]
             }
       ],

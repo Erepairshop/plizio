@@ -17,8 +17,14 @@ const CONTENT: Record<Language, {
     subtitle: "Jogi nyilatkozat és szolgáltatói adatok",
     provider: "Szolgáltató adatai",
     providerDetails: [
-      "Cégadatok frissítés alatt",
-      "E-mail: borota25@gmail.com"
+      "Tulajdonos: Erik Borota",
+      "Siedlungsring 51",
+      "89415 Lauingen (Donau)",
+      "Németország",
+      "Telefon: +49 176 98479520",
+      "E-mail: info@plizio.com",
+      "Közösségi adószám (USt-IdNr.): DE308874569",
+      "A tartalomért felelős (§ 18 Abs. 2 MStV): Erik Borota"
     ],
     disclaimerTitle: "Felelősségkizárás",
     disclaimerText: "A weboldalon található információkat a legnagyobb gondossággal állítottuk össze. Azonban a tartalom pontosságáért, teljességéért és aktualitásáért nem vállalunk felelősséget. Külső linkek esetén a hivatkozott oldalak tartalmáért kizárólag azok üzemeltetői felelnek."
@@ -28,8 +34,14 @@ const CONTENT: Record<Language, {
     subtitle: "Rechtliche Hinweise und Anbieterkennzeichnung",
     provider: "Angaben gemäß § 5 TMG",
     providerDetails: [
-      "Unternehmensdaten werden aktualisiert",
-      "E-Mail: borota25@gmail.com"
+      "Erik Borota",
+      "Siedlungsring 51",
+      "89415 Lauingen (Donau)",
+      "Deutschland",
+      "Telefon: 0176 98479520",
+      "E-Mail: info@plizio.com",
+      "Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG: DE308874569",
+      "Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV: Erik Borota (Anschrift wie oben)"
     ],
     disclaimerTitle: "Haftungsausschluss",
     disclaimerText: "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Bei externen Links sind ausschließlich deren Betreiber für den Inhalt verantwortlich."
@@ -39,8 +51,14 @@ const CONTENT: Record<Language, {
     subtitle: "Impresum și datele furnizorului",
     provider: "Datele furnizorului",
     providerDetails: [
-      "Datele companiei sunt în curs de actualizare",
-      "E-mail: borota25@gmail.com"
+      "Proprietar: Erik Borota",
+      "Siedlungsring 51",
+      "89415 Lauingen (Donau)",
+      "Germania",
+      "Telefon: +49 176 98479520",
+      "E-mail: info@plizio.com",
+      "Cod de TVA (USt-IdNr.): DE308874569",
+      "Responsabil de conținut (§ 18 Abs. 2 MStV): Erik Borota"
     ],
     disclaimerTitle: "Declinarea responsabilității",
     disclaimerText: "Informațiile de pe acest site au fost compilate cu cea mai mare grijă. Cu toate acestea, nu ne asumăm răspunderea pentru acuratețea, exhaustivitatea și actualitatea conținutului. Pentru linkurile externe, responsabilitatea conținutului revine exclusiv operatorilor acelor site-uri."
@@ -50,8 +68,14 @@ const CONTENT: Record<Language, {
     subtitle: "Impressum and provider information",
     provider: "Provider Information",
     providerDetails: [
-      "Company details are being updated",
-      "Email: borota25@gmail.com"
+      "Owner: Erik Borota",
+      "Siedlungsring 51",
+      "89415 Lauingen (Donau)",
+      "Germany",
+      "Phone: +49 176 98479520",
+      "Email: info@plizio.com",
+      "VAT ID (USt-IdNr.): DE308874569",
+      "Responsible for content (§ 18 Abs. 2 MStV): Erik Borota"
     ],
     disclaimerTitle: "Disclaimer",
     disclaimerText: "The information on this website has been compiled with the utmost care. However, we cannot accept any liability for the accuracy, completeness, or timeliness of the content. For external links, the operators of those linked pages are solely responsible for their content."

@@ -2,7 +2,7 @@
 
 import { useLang } from "@/components/LanguageProvider";
 import SimplePageLayout from "@/components/SimplePageLayout";
-import { Heart, Rocket, Globe2, Sparkles } from "lucide-react";
+import { Heart, Rocket, Globe2, Sparkles, MapPin } from "lucide-react";
 import type { Language } from "@/lib/language";
 
 const CONTENT: Record<Language, {
@@ -36,6 +36,14 @@ const CONTENT: Record<Language, {
         body: [
           "Célunk, hogy minden gyerek a saját anyanyelvén (legyen az magyar, német, román vagy angol) férjen hozzá minőségi oktatási tartalmakhoz. Ugyanakkor lehetőséget adunk arra is, hogy könnyedén elsajátítsanak más nyelveket is a platformon keresztül.",
           "Több mint egy játéktér: egy univerzum, ahol a tudás a legnagyobb kincs."
+        ]
+      },
+      {
+        icon: MapPin,
+        title: "Utazás és felfedezés",
+        body: [
+          "A Plizio több mint tanulás: ingyenes úti kalauzokat építünk Európa és a világ több ezer településéhez, interaktív térképekkel, látnivalókkal, helyi eseményekkel és útitervezési tippekkel.",
+          "Így a gyerek nemcsak tanulhat egy helyről, hanem a család fel is fedezheti azt, a térképtől a környékbeli nevezetességekig."
         ]
       },
       {
@@ -76,6 +84,14 @@ const CONTENT: Record<Language, {
         ]
       },
       {
+        icon: MapPin,
+        title: "Reisen & Entdecken",
+        body: [
+          "Plizio ist mehr als Lernen: Wir bauen kostenlose Reiseführer für tausende Orte in Europa und weltweit – mit interaktiven Karten, Sehenswürdigkeiten, lokalen Veranstaltungen und Tipps zur Reiseplanung.",
+          "So lernt ein Kind nicht nur über einen Ort, sondern die ganze Familie kann ihn entdecken – von der Karte bis zu den Sehenswürdigkeiten in der Umgebung."
+        ]
+      },
+      {
         icon: Rocket,
         title: "Begleite uns auf der Reise",
         body: [
@@ -113,6 +129,14 @@ const CONTENT: Record<Language, {
         ]
       },
       {
+        icon: MapPin,
+        title: "Călătorii și descoperire",
+        body: [
+          "Plizio înseamnă mai mult decât învățare: construim ghiduri de călătorie gratuite pentru mii de localități din Europa și din toată lumea – cu hărți interactive, obiective turistice, evenimente locale și sfaturi de planificare.",
+          "Astfel, copilul nu doar învață despre un loc, ci întreaga familie îl poate descoperi – de la hartă până la obiectivele din împrejurimi."
+        ]
+      },
+      {
         icon: Rocket,
         title: "Alătură-te călătoriei",
         body: [
@@ -147,6 +171,14 @@ const CONTENT: Record<Language, {
         body: [
           "Our goal is for every child to access high-quality educational content in their native language (whether English, German, Hungarian, or Romanian). At the same time, we provide an easy way to pick up other languages through the platform.",
           "More than just a playground: it's a universe where knowledge is the greatest treasure."
+        ]
+      },
+      {
+        icon: MapPin,
+        title: "Travel & Discover",
+        body: [
+          "Plizio is more than learning: we build free travel guides for thousands of places across Europe and worldwide – with interactive maps, sights, local events and trip-planning tips.",
+          "So a child doesn't just learn about a place; the whole family can explore it, from the map to the sights nearby."
         ]
       },
       {

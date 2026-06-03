@@ -1564,7 +1564,1816 @@ export const poiExtraItalyCitiesC1: POI[] = [
 }
   },
   {
-    id: "city-it-catania",
+    id: "city-it-catania", "sights": {
+      "de": [
+            {
+                  "name": "Museo Civico Belliniano",
+                  "text": "Das Geburtshaus von Vincenzo Bellini in Catania zeigt Exponate zum Komponisten.",
+                  "category": "museum",
+                  "coords": [
+                        15.084387,
+                        37.502596
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Diözesanmuseum in Catania mit sakralen Kunstwerken und archäologischen Funden.",
+                  "category": "museum",
+                  "coords": [
+                        15.08771,
+                        37.501936
+                  ]
+            },
+            {
+                  "name": "Museo Civico Castello Ursino",
+                  "text": "Dieses Museum befindet sich in einer Festung aus dem 13. Jahrhundert, die von Friedrich II. erbaut wurde.",
+                  "category": "museum",
+                  "coords": [
+                        15.084603,
+                        37.499158
+                  ]
+            },
+            {
+                  "name": "Foro Romano",
+                  "text": "Archäologische Überreste des antiken römischen Forums der Stadt Catania.",
+                  "category": "historical",
+                  "coords": [
+                        15.081584,
+                        37.501864
+                  ]
+            },
+            {
+                  "name": "Museo Paleontologico",
+                  "text": "Dieses Museum präsentiert eine Sammlung von Fossilien und paläontologischen Funden aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        15.082593,
+                        37.517698
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro della Città",
+                  "text": "Ein kleines lokales Theater im Stadtzentrum, das verschiedene kulturelle Aufführungen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.080685,
+                        37.515309
+                  ]
+            },
+            {
+                  "name": "Museo storico dello sbarco in Sicilia 1943",
+                  "text": "Historisches Museum, das die Landung der Alliierten auf Sizilien im Jahr 1943 dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.102577,
+                        37.508758
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano",
+                  "text": "Teile eines großen antiken Amphitheaters, das ursprünglich aus Lavastein und Ziegeln erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        15.085438,
+                        37.507408
+                  ]
+            },
+            {
+                  "name": "Terme Romane della Rotonda",
+                  "text": "Ruinen römischer Thermalbäder, die später als christliche Kultstätte genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        15.082773,
+                        37.504055
+                  ]
+            },
+            {
+                  "name": "Teatro Massimo Bellini",
+                  "text": "Ein prächtiges Opernhaus in Catania, benannt nach dem Komponisten Vincenzo Bellini.",
+                  "category": "cultural",
+                  "coords": [
+                        15.089865,
+                        37.50416
+                  ]
+            },
+            {
+                  "name": "Odeon",
+                  "text": "Ein antikes römisches Odeon im Herzen von Catania, das für musikalische Darbietungen genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        15.082842,
+                        37.502934
+                  ]
+            },
+            {
+                  "name": "Terme dell'Indirizzo",
+                  "text": "Die Ruinen einer antiken römischen Thermenanlage aus dem 2. Jahrhundert in Catania.",
+                  "category": "historical",
+                  "coords": [
+                        15.085756,
+                        37.500914
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Plaia",
+                  "text": "Der Hauptsandstrand von Catania, der sich entlang der Küste südlich der Stadt erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.087616,
+                        37.447544
+                  ]
+            },
+            {
+                  "name": "Bastione degli Infetti",
+                  "text": "Ein Teil der alten Stadtmauer von Catania, der im 16. Jahrhundert zur Verteidigung errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        15.079574,
+                        37.506876
+                  ]
+            },
+            {
+                  "name": "Teatro Metropolitan",
+                  "text": "Ein modernes Theater und Kino in Catania, bekannt für seine kulturellen Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        15.084386,
+                        37.509879
+                  ]
+            },
+            {
+                  "name": "Museo di Zoologia",
+                  "text": "Das Zoologische Museum von Catania zeigt eine umfangreiche Sammlung lokaler und exotischer Tierarten.",
+                  "category": "museum",
+                  "coords": [
+                        15.079253,
+                        37.510997
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco Borgia",
+                  "text": "Eine Barockkirche in Catania, die heute als Ausstellungsraum für sakrale Kunst genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        15.084432,
+                        37.50393
+                  ]
+            },
+            {
+                  "name": "Teatro Coppola",
+                  "text": "Ein historisches Theater in Catania, das als unabhängiges Kulturzentrum wiederbelebt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        15.091734,
+                        37.501672
+                  ]
+            },
+            {
+                  "name": "Teatro Angelo Musco",
+                  "text": "Ein nach dem Schauspieler Angelo Musco benanntes Theater, das sich auf sizilianische Dramen konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        15.100071,
+                        37.513072
+                  ]
+            },
+            {
+                  "name": "Terme di Sant'Antonio",
+                  "text": "Überreste einer antiken römischen Badeanlage in Catania, die unter der gleichnamigen Kirche liegen.",
+                  "category": "historical",
+                  "coords": [
+                        15.080604,
+                        37.500421
+                  ]
+            },
+            {
+                  "name": "Teatro Giovanni Verga",
+                  "text": "Eines der wichtigsten Prosateater in Catania, benannt nach dem berühmten Schriftsteller Giovanni Verga.",
+                  "category": "cultural",
+                  "coords": [
+                        15.071625,
+                        37.512385
+                  ]
+            },
+            {
+                  "name": "Città della Scienza",
+                  "text": "Ein modernes Wissenschaftsmuseum, das von der Universität Catania für Bildungszwecke betrieben wird.",
+                  "category": "museum",
+                  "coords": [
+                        15.098919,
+                        37.509583
+                  ]
+            },
+            {
+                  "name": "Museo della Fabbrica",
+                  "text": "Museum im Benediktinerkloster, das die Baugeschichte und archäologische Funde des Komplexes zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.079096,
+                        37.504834
+                  ]
+            },
+            {
+                  "name": "Faro di Sciara Biscari",
+                  "text": "Ein historischer Leuchtturm in der Nähe des Hafens von Catania, der der Schifffahrt als Orientierung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085129,
+                        37.488983
+                  ]
+            },
+            {
+                  "name": "Resti di Ninfeo",
+                  "text": "Ruinen eines antiken römischen Nymphäums, das einst als öffentliches Brunnengebäude diente.",
+                  "category": "historical",
+                  "coords": [
+                        15.078827,
+                        37.503418
+                  ]
+            },
+            {
+                  "name": "Carcere di Sant'Agata",
+                  "text": "Die Stätte gilt traditionell als das Gefängnis, in dem die heilige Agatha vor ihrem Martyrium gefangen war.",
+                  "category": "historical",
+                  "coords": [
+                        15.08416,
+                        37.507134
+                  ]
+            },
+            {
+                  "name": "Tomba di Stesicoro",
+                  "text": "Archäologische Fundstätte, die traditionell mit dem Grab des griechischen Dichters Stesichoros verbunden wird.",
+                  "category": "historical",
+                  "coords": [
+                        15.088812,
+                        37.509745
+                  ]
+            },
+            {
+                  "name": "Museo dell'Etna",
+                  "text": "Ein Museum, das der Geologie und Geschichte des Vulkans Ätna gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.076641,
+                        37.504056
+                  ]
+            },
+            {
+                  "name": "Museo di Mineralogia, Petrografia e Vulcanologia",
+                  "text": "Wissenschaftliches Museum mit Sammlungen zu Mineralien, Gesteinen und Vulkanismus.",
+                  "category": "museum",
+                  "coords": [
+                        15.095707,
+                        37.515899
+                  ]
+            },
+            {
+                  "name": "Museo Eredità Immateriale",
+                  "text": "Ein Museum, das sich dem immateriellen Kulturerbe und den Traditionen Siziliens widmet.",
+                  "category": "museum",
+                  "coords": [
+                        15.102572,
+                        37.50988
+                  ]
+            },
+            {
+                  "name": "Museo dei Saperi e delle Mirabilia Siciliane",
+                  "text": "Museum, das das Wissen und die kulturellen Besonderheiten Siziliens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.086654,
+                        37.503581
+                  ]
+            },
+            {
+                  "name": "Ludum Science Center",
+                  "text": "Ein interaktives Wissenschaftszentrum in Catania, das zum Experimentieren einlädt.",
+                  "category": "museum",
+                  "coords": [
+                        15.086369,
+                        37.52436
+                  ]
+            },
+            {
+                  "name": "Spiaggia nera di San Giovanni Li Cuti",
+                  "text": "Ein markanter Stadtstrand in Catania, der für seinen dunklen vulkanischen Sand und Lavasteine bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        15.109163,
+                        37.519368
+                  ]
+            },
+            {
+                  "name": "Terme dell'Acropoli",
+                  "text": "Archäologische Überreste antiker römischer Thermen, die sich im historischen Zentrum von Catania befinden.",
+                  "category": "historical",
+                  "coords": [
+                        15.080684,
+                        37.503514
+                  ]
+            },
+            {
+                  "name": "Mausoleo Cilindrico",
+                  "text": "Ein antikes römisches Grabmal in Catania, das durch seine charakteristische zylindrische Bauweise besticht.",
+                  "category": "historical",
+                  "coords": [
+                        15.080494,
+                        37.512292
+                  ]
+            },
+            {
+                  "name": "Mura di Carlo V",
+                  "text": "Reste der Stadtbefestigung aus dem 16. Jahrhundert, die unter Kaiser Karl V. zum Schutz Catanias errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        15.091563,
+                        37.503607
+                  ]
+            },
+            {
+                  "name": "Acquedotto dei Benedettini",
+                  "text": "Überreste eines historischen Aquädukts in Catania, das einst das Benediktinerkloster mit Wasser versorgte.",
+                  "category": "historical",
+                  "coords": [
+                        15.074655,
+                        37.509174
+                  ]
+            },
+            {
+                  "name": "Casa di Loreto",
+                  "text": "Ein kleines religiöses Denkmal in Catania, das an die Tradition des Heiligen Hauses von Loreto erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        15.081846,
+                        37.500534
+                  ]
+            },
+            {
+                  "name": "Arco di San Giovanni de' Fleres",
+                  "text": "Die Ruine eines Bogens in Catania, der als letzter Rest einer Kirche aus dem 6. Jahrhundert erhalten geblieben ist.",
+                  "category": "historical",
+                  "coords": [
+                        15.087694,
+                        37.504275
+                  ]
+            },
+            {
+                  "name": "Giardino Bellini",
+                  "text": "Der bedeutendste Park Catanias bietet weite Grünflächen und einen Panoramablick auf den Ätna.",
+                  "category": "park",
+                  "coords": [
+                        15.083785,
+                        37.51099
+                  ]
+            },
+            {
+                  "name": "Parco Gioeni",
+                  "text": "Ein weitläufiger Park im Norden der Stadt, der auf vulkanischem Gestein angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        15.081835,
+                        37.528861
+                  ]
+            },
+            {
+                  "name": "Parco Madre Teresa di Calcutta",
+                  "text": "Eine gepflegte städtische Grünanlage in Catania, die zur Erholung im Freien einlädt.",
+                  "category": "park",
+                  "coords": [
+                        15.079468,
+                        37.520761
+                  ]
+            },
+            {
+                  "name": "Parco Gandhi",
+                  "text": "Ein kleinerer öffentlicher Park in Catania, der als Treffpunkt im Stadtviertel dient.",
+                  "category": "park",
+                  "coords": [
+                        15.069604,
+                        37.521366
+                  ]
+            },
+            {
+                  "name": "Orto Botanico di Catania",
+                  "text": "Der 1858 gegründete Botanische Garten der Universität beherbergt eine große Sammlung exotischer Pflanzen.",
+                  "category": "park",
+                  "coords": [
+                        15.083465,
+                        37.515454
+                  ]
+            },
+            {
+                  "name": "Boschetto della Plaia",
+                  "text": "Ein großes Pinienwäldchen in der Nähe des Sandstrandes von Catania, ideal für Spaziergänge im Schatten.",
+                  "category": "park",
+                  "coords": [
+                        15.080804,
+                        37.481338
+                  ]
+            },
+            {
+                  "name": "Porta Garibaldi",
+                  "text": "Ein monumentaler Triumphbogen aus dem Jahr 1768, der zu Ehren von König Ferdinand IV. errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        15.073887,
+                        37.499663
+                  ]
+            },
+            {
+                  "name": "Porta del Fortino Vecchio",
+                  "text": "Ein historisches Stadttor in Catania, das Teil der alten Verteidigungsanlagen der Stadt war.",
+                  "category": "historical",
+                  "coords": [
+                        15.074843,
+                        37.499242
+                  ]
+            },
+            {
+                  "name": "Parco Fenoglietti",
+                  "text": "Eine ruhige Parkanlage in Catania, die von Einheimischen zur Entspannung genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        15.069537,
+                        37.500576
+                  ]
+            },
+            {
+                  "name": "Parco Vulcania",
+                  "text": "Ein moderner Stadtpark in Catania, der Grünflächen für Freizeitaktivitäten im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        15.08667,
+                        37.525274
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Eine historische Dominikanerkirche im Stadtzentrum von Catania.",
+                  "category": "religious",
+                  "coords": [
+                        15.083012,
+                        37.508232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Civico Belliniano",
+                  "text": "Vincenzo Bellini szülőháza Cataniában, amely a zeneszerző életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.084387,
+                        37.502596
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Cataniában található egyházmegyei múzeum szakrális művekkel és régészeti leletekkel.",
+                  "category": "museum",
+                  "coords": [
+                        15.08771,
+                        37.501936
+                  ]
+            },
+            {
+                  "name": "Museo Civico Castello Ursino",
+                  "text": "A múzeum egy 13. századi várban található, amelyet II. Frigyes német-római császár építtetett.",
+                  "category": "museum",
+                  "coords": [
+                        15.084603,
+                        37.499158
+                  ]
+            },
+            {
+                  "name": "Foro Romano",
+                  "text": "Catania városának ókori római fórumának régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        15.081584,
+                        37.501864
+                  ]
+            },
+            {
+                  "name": "Museo Paleontologico",
+                  "text": "A múzeum a régióból származó fosszíliák és őslénytani leletek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.082593,
+                        37.517698
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro della Città",
+                  "text": "Kisméretű helyi színház a városközpontban, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        15.080685,
+                        37.515309
+                  ]
+            },
+            {
+                  "name": "Museo storico dello sbarco in Sicilia 1943",
+                  "text": "Történelmi múzeum, amely az 1943-as szicíliai szövetséges partraszállást dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        15.102577,
+                        37.508758
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano",
+                  "text": "Egy hatalmas ókori amfiteátrum részei, amely eredetileg lávakőből és téglából épült.",
+                  "category": "historical",
+                  "coords": [
+                        15.085438,
+                        37.507408
+                  ]
+            },
+            {
+                  "name": "Terme Romane della Rotonda",
+                  "text": "Római termálfürdők romjai, amelyeket később keresztény istentiszteleti helyként használtak.",
+                  "category": "historical",
+                  "coords": [
+                        15.082773,
+                        37.504055
+                  ]
+            },
+            {
+                  "name": "Teatro Massimo Bellini",
+                  "text": "Catania pompás operaháza, amelyet Vincenzo Bellini zeneszerzőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        15.089865,
+                        37.50416
+                  ]
+            },
+            {
+                  "name": "Odeon",
+                  "text": "Catania szívében található ókori római odeon, amelyet zenei előadásokra használtak.",
+                  "category": "historical",
+                  "coords": [
+                        15.082842,
+                        37.502934
+                  ]
+            },
+            {
+                  "name": "Terme dell'Indirizzo",
+                  "text": "Egy 2. századi ókori római termálfürdő romjai Cataniaiában.",
+                  "category": "historical",
+                  "coords": [
+                        15.085756,
+                        37.500914
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Plaia",
+                  "text": "Catania fő homokos strandja, amely a várostól délre húzódik a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        15.087616,
+                        37.447544
+                  ]
+            },
+            {
+                  "name": "Bastione degli Infetti",
+                  "text": "Catania régi városfalának része, amelyet a 16. században építettek védelmi célokra.",
+                  "category": "historical",
+                  "coords": [
+                        15.079574,
+                        37.506876
+                  ]
+            },
+            {
+                  "name": "Teatro Metropolitan",
+                  "text": "Modern színház és mozi Cataniaiában, amely kulturális eseményeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        15.084386,
+                        37.509879
+                  ]
+            },
+            {
+                  "name": "Museo di Zoologia",
+                  "text": "A Cataniai Zoológiai Múzeum helyi és egzotikus állatfajok gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.079253,
+                        37.510997
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco Borgia",
+                  "text": "Barokk templom Cataniaiában, amely ma szakrális művészeti kiállítótérként működik.",
+                  "category": "museum",
+                  "coords": [
+                        15.084432,
+                        37.50393
+                  ]
+            },
+            {
+                  "name": "Teatro Coppola",
+                  "text": "Történelmi színház Cataniaiában, amelyet független kulturális központként keltettek életre.",
+                  "category": "cultural",
+                  "coords": [
+                        15.091734,
+                        37.501672
+                  ]
+            },
+            {
+                  "name": "Teatro Angelo Musco",
+                  "text": "A híres színészről elnevezett Angelo Musco színház, amely a szicíliai drámákra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        15.100071,
+                        37.513072
+                  ]
+            },
+            {
+                  "name": "Terme di Sant'Antonio",
+                  "text": "Ókori római fürdő maradványai Cataniaiában, amelyek az azonos nevű templom alatt találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        15.080604,
+                        37.500421
+                  ]
+            },
+            {
+                  "name": "Teatro Giovanni Verga",
+                  "text": "Catania egyik jelentős színháza, amely a híres író, Giovanni Verga nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        15.071625,
+                        37.512385
+                  ]
+            },
+            {
+                  "name": "Città della Scienza",
+                  "text": "Modern természettudományi múzeum, amelyet a Cataniai Egyetem tart fenn oktatási célból.",
+                  "category": "museum",
+                  "coords": [
+                        15.098919,
+                        37.509583
+                  ]
+            },
+            {
+                  "name": "Museo della Fabbrica",
+                  "text": "A bencés kolostorban található múzeum, amely az épület történetét és régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.079096,
+                        37.504834
+                  ]
+            },
+            {
+                  "name": "Faro di Sciara Biscari",
+                  "text": "Történelmi világítótorony Catania kikötője közelében, amely fontos tájékozódási pont a tengerészek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085129,
+                        37.488983
+                  ]
+            },
+            {
+                  "name": "Resti di Ninfeo",
+                  "text": "Egy ókori római nümphaion romjai, amely egykor díszes nyilvános kútként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        15.078827,
+                        37.503418
+                  ]
+            },
+            {
+                  "name": "Carcere di Sant'Agata",
+                  "text": "A hagyomány szerint ez a helyszín volt a börtön, ahol Szent Ágotát őrizték vértanúsága előtt.",
+                  "category": "historical",
+                  "coords": [
+                        15.08416,
+                        37.507134
+                  ]
+            },
+            {
+                  "name": "Tomba di Stesicoro",
+                  "text": "Régészeti lelőhely, amelyet a hagyomány Szteszikhorosz görög költő sírhelyeként azonosít.",
+                  "category": "historical",
+                  "coords": [
+                        15.088812,
+                        37.509745
+                  ]
+            },
+            {
+                  "name": "Museo dell'Etna",
+                  "text": "Az Etna vulkán geológiájának és történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.076641,
+                        37.504056
+                  ]
+            },
+            {
+                  "name": "Museo di Mineralogia, Petrografia e Vulcanologia",
+                  "text": "Ásványtani, kőzettani és vulkanológiai gyűjteményeket bemutató tudományos múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.095707,
+                        37.515899
+                  ]
+            },
+            {
+                  "name": "Museo Eredità Immateriale",
+                  "text": "Szicília szellemi kulturális örökségének és hagyományainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.102572,
+                        37.50988
+                  ]
+            },
+            {
+                  "name": "Museo dei Saperi e delle Mirabilia Siciliane",
+                  "text": "Szicília tudását és kulturális különlegességeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.086654,
+                        37.503581
+                  ]
+            },
+            {
+                  "name": "Ludum Science Center",
+                  "text": "Interaktív tudományos központ Cataniában, amely kísérletezésre ösztönöz.",
+                  "category": "museum",
+                  "coords": [
+                        15.086369,
+                        37.52436
+                  ]
+            },
+            {
+                  "name": "Spiaggia nera di San Giovanni Li Cuti",
+                  "text": "Catania jellegzetes városi strandja, amely sötét vulkáni homokjáról és lávaköveiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.109163,
+                        37.519368
+                  ]
+            },
+            {
+                  "name": "Terme dell'Acropoli",
+                  "text": "Ókori római fürdők régészeti maradványai Catania történelmi központjában.",
+                  "category": "historical",
+                  "coords": [
+                        15.080684,
+                        37.503514
+                  ]
+            },
+            {
+                  "name": "Mausoleo Cilindrico",
+                  "text": "Ókori római síremlék Cataniában, amely jellegzetes hengeres építési módjáról nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        15.080494,
+                        37.512292
+                  ]
+            },
+            {
+                  "name": "Mura di Carlo V",
+                  "text": "A 16. századi városfal maradványai, amelyeket V. Károly császár idején építettek Catania védelmére.",
+                  "category": "castle",
+                  "coords": [
+                        15.091563,
+                        37.503607
+                  ]
+            },
+            {
+                  "name": "Acquedotto dei Benedettini",
+                  "text": "Egy történelmi vízvezeték maradványai Cataniában, amely egykor a bencés kolostort látta el vízzel.",
+                  "category": "historical",
+                  "coords": [
+                        15.074655,
+                        37.509174
+                  ]
+            },
+            {
+                  "name": "Casa di Loreto",
+                  "text": "Kis vallási emlékmű Cataniában, amely a loretói Szent Ház hagyományára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        15.081846,
+                        37.500534
+                  ]
+            },
+            {
+                  "name": "Arco di San Giovanni de' Fleres",
+                  "text": "Egy ív maradványa Cataniában, amely egy 6. századi templom utolsó fennmaradt részlete.",
+                  "category": "historical",
+                  "coords": [
+                        15.087694,
+                        37.504275
+                  ]
+            },
+            {
+                  "name": "Giardino Bellini",
+                  "text": "Catania legfontosabb közparkja tágas terekkel és az Etnára nyíló panorámával rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        15.083785,
+                        37.51099
+                  ]
+            },
+            {
+                  "name": "Parco Gioeni",
+                  "text": "A város északi részén található tágas park, amely vulkáni kőzetre épült.",
+                  "category": "park",
+                  "coords": [
+                        15.081835,
+                        37.528861
+                  ]
+            },
+            {
+                  "name": "Parco Madre Teresa di Calcutta",
+                  "text": "Gondozott városi zöldterület Cataniában, amely pihenési lehetőséget kínál a szabadban.",
+                  "category": "park",
+                  "coords": [
+                        15.079468,
+                        37.520761
+                  ]
+            },
+            {
+                  "name": "Parco Gandhi",
+                  "text": "Kisebb közpark Cataniában, amely pihenőhelyként szolgál a városnegyed lakói számára.",
+                  "category": "park",
+                  "coords": [
+                        15.069604,
+                        37.521366
+                  ]
+            },
+            {
+                  "name": "Orto Botanico di Catania",
+                  "text": "Az egyetem 1858-ban alapított botanikus kertje, amely egzotikus növények gyűjteményének ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        15.083465,
+                        37.515454
+                  ]
+            },
+            {
+                  "name": "Boschetto della Plaia",
+                  "text": "Hatalmas fenyőerdő Catania homokos strandja közelében, amely ideális árnyékos sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        15.080804,
+                        37.481338
+                  ]
+            },
+            {
+                  "name": "Porta Garibaldi",
+                  "text": "Egy monumentális diadalív 1768-ból, amelyet IV. Ferdinánd király tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        15.073887,
+                        37.499663
+                  ]
+            },
+            {
+                  "name": "Porta del Fortino Vecchio",
+                  "text": "Catania egyik történelmi városkapuja, amely a város régi védműveinek része volt.",
+                  "category": "historical",
+                  "coords": [
+                        15.074843,
+                        37.499242
+                  ]
+            },
+            {
+                  "name": "Parco Fenoglietti",
+                  "text": "Nyugodt park Cataniában, amelyet a helyiek pihenésre és kikapcsolódásra használnak.",
+                  "category": "park",
+                  "coords": [
+                        15.069537,
+                        37.500576
+                  ]
+            },
+            {
+                  "name": "Parco Vulcania",
+                  "text": "Modern városi park Cataniában, amely zöldterületet biztosít a szabadidős tevékenységekhez.",
+                  "category": "park",
+                  "coords": [
+                        15.08667,
+                        37.525274
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Történelmi dominikánus templom Catania városközpontjában.",
+                  "category": "religious",
+                  "coords": [
+                        15.083012,
+                        37.508232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Civico Belliniano",
+                  "text": "Casa natală a lui Vincenzo Bellini din Catania găzduiește obiecte ale compozitorului.",
+                  "category": "museum",
+                  "coords": [
+                        15.084387,
+                        37.502596
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Muzeul diecezan din Catania expune artă sacră și descoperiri arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        15.08771,
+                        37.501936
+                  ]
+            },
+            {
+                  "name": "Museo Civico Castello Ursino",
+                  "text": "Muzeul este situat într-o fortăreață din secolul al XIII-lea, construită de Frederic al II-lea.",
+                  "category": "museum",
+                  "coords": [
+                        15.084603,
+                        37.499158
+                  ]
+            },
+            {
+                  "name": "Foro Romano",
+                  "text": "Vestigii arheologice ale vechiului for roman din orașul Catania.",
+                  "category": "historical",
+                  "coords": [
+                        15.081584,
+                        37.501864
+                  ]
+            },
+            {
+                  "name": "Museo Paleontologico",
+                  "text": "Acest muzeu prezintă o colecție de fosile și descoperiri paleontologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        15.082593,
+                        37.517698
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro della Città",
+                  "text": "Un mic teatru local din centrul orașului care găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.080685,
+                        37.515309
+                  ]
+            },
+            {
+                  "name": "Museo storico dello sbarco in Sicilia 1943",
+                  "text": "Muzeu istoric care documentează debarcarea aliaților în Sicilia în anul 1943.",
+                  "category": "museum",
+                  "coords": [
+                        15.102577,
+                        37.508758
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano",
+                  "text": "Părți ale unui mare amfiteatru antic construit inițial din piatră de lavă și cărămidă.",
+                  "category": "historical",
+                  "coords": [
+                        15.085438,
+                        37.507408
+                  ]
+            },
+            {
+                  "name": "Terme Romane della Rotonda",
+                  "text": "Ruinele unor băi termale romane care au fost folosite ulterior ca lăcaș de cult creștin.",
+                  "category": "historical",
+                  "coords": [
+                        15.082773,
+                        37.504055
+                  ]
+            },
+            {
+                  "name": "Teatro Massimo Bellini",
+                  "text": "O operă magnifică din Catania, numită după compozitorul Vincenzo Bellini.",
+                  "category": "cultural",
+                  "coords": [
+                        15.089865,
+                        37.50416
+                  ]
+            },
+            {
+                  "name": "Odeon",
+                  "text": "Un odeon roman antic din inima Cataniei, folosit pentru spectacole muzicale.",
+                  "category": "historical",
+                  "coords": [
+                        15.082842,
+                        37.502934
+                  ]
+            },
+            {
+                  "name": "Terme dell'Indirizzo",
+                  "text": "Ruinele unui complex termal roman antic din secolul al II-lea în Catania.",
+                  "category": "historical",
+                  "coords": [
+                        15.085756,
+                        37.500914
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Plaia",
+                  "text": "Principala plajă cu nisip din Catania, care se întinde de-a lungul coastei la sud de oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        15.087616,
+                        37.447544
+                  ]
+            },
+            {
+                  "name": "Bastione degli Infetti",
+                  "text": "O parte din vechiul zid al orașului Catania, construit în secolul al XVI-lea pentru apărare.",
+                  "category": "historical",
+                  "coords": [
+                        15.079574,
+                        37.506876
+                  ]
+            },
+            {
+                  "name": "Teatro Metropolitan",
+                  "text": "Un teatru și cinematograf modern din Catania, cunoscut pentru evenimentele sale culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.084386,
+                        37.509879
+                  ]
+            },
+            {
+                  "name": "Museo di Zoologia",
+                  "text": "Muzeul de Zoologie din Catania prezintă o colecție bogată de specii de animale locale și exotice.",
+                  "category": "museum",
+                  "coords": [
+                        15.079253,
+                        37.510997
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco Borgia",
+                  "text": "O biserică barocă din Catania, folosită astăzi ca spațiu expozițional pentru artă sacră.",
+                  "category": "museum",
+                  "coords": [
+                        15.084432,
+                        37.50393
+                  ]
+            },
+            {
+                  "name": "Teatro Coppola",
+                  "text": "Un teatru istoric din Catania, revitalizat ca centru cultural independent.",
+                  "category": "cultural",
+                  "coords": [
+                        15.091734,
+                        37.501672
+                  ]
+            },
+            {
+                  "name": "Teatro Angelo Musco",
+                  "text": "Un teatru numit după actorul Angelo Musco, concentrat pe dramele siciliene.",
+                  "category": "cultural",
+                  "coords": [
+                        15.100071,
+                        37.513072
+                  ]
+            },
+            {
+                  "name": "Terme di Sant'Antonio",
+                  "text": "Rămășițele unui complex de băi romane antice din Catania, situate sub biserica cu același nume.",
+                  "category": "historical",
+                  "coords": [
+                        15.080604,
+                        37.500421
+                  ]
+            },
+            {
+                  "name": "Teatro Giovanni Verga",
+                  "text": "Unul dintre principalele teatre de proză din Catania, numit după celebrul scriitor Giovanni Verga.",
+                  "category": "cultural",
+                  "coords": [
+                        15.071625,
+                        37.512385
+                  ]
+            },
+            {
+                  "name": "Città della Scienza",
+                  "text": "Un muzeu de știință modern administrat de Universitatea din Catania în scopuri educaționale.",
+                  "category": "museum",
+                  "coords": [
+                        15.098919,
+                        37.509583
+                  ]
+            },
+            {
+                  "name": "Museo della Fabbrica",
+                  "text": "Muzeu situat în Mănăstirea Benedictină, care prezintă istoria construcției și descoperirile arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        15.079096,
+                        37.504834
+                  ]
+            },
+            {
+                  "name": "Faro di Sciara Biscari",
+                  "text": "Un far istoric situat lângă portul Catania, servind ca punct de orientare pentru navigație.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085129,
+                        37.488983
+                  ]
+            },
+            {
+                  "name": "Resti di Ninfeo",
+                  "text": "Ruinele unui nymphaeum roman antic, care a servit odinioară ca fântână publică monumentală.",
+                  "category": "historical",
+                  "coords": [
+                        15.078827,
+                        37.503418
+                  ]
+            },
+            {
+                  "name": "Carcere di Sant'Agata",
+                  "text": "Locul este identificat prin tradiție ca fiind închisoarea în care a fost deținută Sfânta Agata înainte de martiriu.",
+                  "category": "historical",
+                  "coords": [
+                        15.08416,
+                        37.507134
+                  ]
+            },
+            {
+                  "name": "Tomba di Stesicoro",
+                  "text": "Sit arheologic asociat prin tradiție cu mormântul poetului grec Stesichorus.",
+                  "category": "historical",
+                  "coords": [
+                        15.088812,
+                        37.509745
+                  ]
+            },
+            {
+                  "name": "Museo dell'Etna",
+                  "text": "Un muzeu dedicat geologiei și istoriei vulcanului Etna.",
+                  "category": "museum",
+                  "coords": [
+                        15.076641,
+                        37.504056
+                  ]
+            },
+            {
+                  "name": "Museo di Mineralogia, Petrografia e Vulcanologia",
+                  "text": "Muzeu științific care prezintă colecții de mineralogie, petrografie și vulcanologie.",
+                  "category": "museum",
+                  "coords": [
+                        15.095707,
+                        37.515899
+                  ]
+            },
+            {
+                  "name": "Museo Eredità Immateriale",
+                  "text": "Un muzeu dedicat patrimoniului cultural imaterial și tradițiilor siciliene.",
+                  "category": "museum",
+                  "coords": [
+                        15.102572,
+                        37.50988
+                  ]
+            },
+            {
+                  "name": "Museo dei Saperi e delle Mirabilia Siciliane",
+                  "text": "Muzeu care prezintă cunoștințele și curiozitățile culturale ale Siciliei.",
+                  "category": "museum",
+                  "coords": [
+                        15.086654,
+                        37.503581
+                  ]
+            },
+            {
+                  "name": "Ludum Science Center",
+                  "text": "Un centru de știință interactiv în Catania, care invită la experimentare.",
+                  "category": "museum",
+                  "coords": [
+                        15.086369,
+                        37.52436
+                  ]
+            },
+            {
+                  "name": "Spiaggia nera di San Giovanni Li Cuti",
+                  "text": "O plajă urbană distinctivă din Catania, cunoscută pentru nisipul său vulcanic negru și rocile de lavă.",
+                  "category": "recreational",
+                  "coords": [
+                        15.109163,
+                        37.519368
+                  ]
+            },
+            {
+                  "name": "Terme dell'Acropoli",
+                  "text": "Vestigii arheologice ale unor băi romane antice situate în centrul istoric al orașului Catania.",
+                  "category": "historical",
+                  "coords": [
+                        15.080684,
+                        37.503514
+                  ]
+            },
+            {
+                  "name": "Mausoleo Cilindrico",
+                  "text": "Un monument funerar roman antic din Catania, remarcabil prin structura sa cilindrică caracteristică.",
+                  "category": "historical",
+                  "coords": [
+                        15.080494,
+                        37.512292
+                  ]
+            },
+            {
+                  "name": "Mura di Carlo V",
+                  "text": "Resturi ale fortificațiilor orașului din secolul al XVI-lea, construite sub împăratul Carol al V-lea pentru a proteja Catania.",
+                  "category": "castle",
+                  "coords": [
+                        15.091563,
+                        37.503607
+                  ]
+            },
+            {
+                  "name": "Acquedotto dei Benedettini",
+                  "text": "Vestigii ale unui apeduct istoric din Catania care alimenta odinioară mănăstirea benedictină.",
+                  "category": "historical",
+                  "coords": [
+                        15.074655,
+                        37.509174
+                  ]
+            },
+            {
+                  "name": "Casa di Loreto",
+                  "text": "Un mic monument religios din Catania care amintește de tradiția Sfintei Case din Loreto.",
+                  "category": "historical",
+                  "coords": [
+                        15.081846,
+                        37.500534
+                  ]
+            },
+            {
+                  "name": "Arco di San Giovanni de' Fleres",
+                  "text": "Ruina unui arc din Catania, reprezentând ultima rămășiță a unei biserici din secolul al VI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        15.087694,
+                        37.504275
+                  ]
+            },
+            {
+                  "name": "Giardino Bellini",
+                  "text": "Cel mai important parc public din Catania, oferind spații verzi vaste și o vedere panoramică spre muntele Etna.",
+                  "category": "park",
+                  "coords": [
+                        15.083785,
+                        37.51099
+                  ]
+            },
+            {
+                  "name": "Parco Gioeni",
+                  "text": "Un parc spațios situat în partea de nord a orașului, amenajat pe teren vulcanic.",
+                  "category": "park",
+                  "coords": [
+                        15.081835,
+                        37.528861
+                  ]
+            },
+            {
+                  "name": "Parco Madre Teresa di Calcutta",
+                  "text": "Un spațiu verde urban bine întreținut în Catania, ideal pentru recreere în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        15.079468,
+                        37.520761
+                  ]
+            },
+            {
+                  "name": "Parco Gandhi",
+                  "text": "Un mic parc public din Catania, care servește ca loc de relaxare în cartier.",
+                  "category": "park",
+                  "coords": [
+                        15.069604,
+                        37.521366
+                  ]
+            },
+            {
+                  "name": "Orto Botanico di Catania",
+                  "text": "Grădina botanică a universității, fondată în 1858, găzduiește o colecție bogată de plante exotice.",
+                  "category": "park",
+                  "coords": [
+                        15.083465,
+                        37.515454
+                  ]
+            },
+            {
+                  "name": "Boschetto della Plaia",
+                  "text": "O pădure mare de pini situată lângă plaja de nisip din Catania, ideală pentru plimbări la umbră.",
+                  "category": "park",
+                  "coords": [
+                        15.080804,
+                        37.481338
+                  ]
+            },
+            {
+                  "name": "Porta Garibaldi",
+                  "text": "Un arc de triumf monumental din 1768, ridicat în onoarea regelui Ferdinand al IV-lea.",
+                  "category": "historical",
+                  "coords": [
+                        15.073887,
+                        37.499663
+                  ]
+            },
+            {
+                  "name": "Porta del Fortino Vecchio",
+                  "text": "O poartă istorică a orașului Catania, care a făcut parte din vechile fortificații de apărare.",
+                  "category": "historical",
+                  "coords": [
+                        15.074843,
+                        37.499242
+                  ]
+            },
+            {
+                  "name": "Parco Fenoglietti",
+                  "text": "Un parc liniștit din Catania, utilizat de localnici pentru relaxare și recreere.",
+                  "category": "park",
+                  "coords": [
+                        15.069537,
+                        37.500576
+                  ]
+            },
+            {
+                  "name": "Parco Vulcania",
+                  "text": "Un parc urban modern în Catania, care oferă spații verzi pentru activități de agrement în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        15.08667,
+                        37.525274
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "O biserică dominicană istorică situată în centrul orașului Catania.",
+                  "category": "religious",
+                  "coords": [
+                        15.083012,
+                        37.508232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Civico Belliniano",
+                  "text": "The birthplace of Vincenzo Bellini in Catania showcases exhibits about the composer.",
+                  "category": "museum",
+                  "coords": [
+                        15.084387,
+                        37.502596
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Diocesan museum in Catania featuring sacred art and archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        15.08771,
+                        37.501936
+                  ]
+            },
+            {
+                  "name": "Museo Civico Castello Ursino",
+                  "text": "This museum is housed in a 13th-century castle built by Frederick II.",
+                  "category": "museum",
+                  "coords": [
+                        15.084603,
+                        37.499158
+                  ]
+            },
+            {
+                  "name": "Foro Romano",
+                  "text": "Archaeological remains of the ancient Roman forum of the city of Catania.",
+                  "category": "historical",
+                  "coords": [
+                        15.081584,
+                        37.501864
+                  ]
+            },
+            {
+                  "name": "Museo Paleontologico",
+                  "text": "This museum presents a collection of fossils and paleontological finds from the region.",
+                  "category": "museum",
+                  "coords": [
+                        15.082593,
+                        37.517698
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro della Città",
+                  "text": "A small local theatre in the city center hosting various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        15.080685,
+                        37.515309
+                  ]
+            },
+            {
+                  "name": "Museo storico dello sbarco in Sicilia 1943",
+                  "text": "Historical museum documenting the Allied landing in Sicily in 1943.",
+                  "category": "museum",
+                  "coords": [
+                        15.102577,
+                        37.508758
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheater",
+                  "text": "Parts of a large ancient amphitheater originally built with lava stone and brick.",
+                  "category": "historical",
+                  "coords": [
+                        15.085438,
+                        37.507408
+                  ]
+            },
+            {
+                  "name": "Terme Romane della Rotonda",
+                  "text": "Ruins of Roman thermal baths that were later used as a Christian place of worship.",
+                  "category": "historical",
+                  "coords": [
+                        15.082773,
+                        37.504055
+                  ]
+            },
+            {
+                  "name": "Teatro Massimo Bellini",
+                  "text": "A magnificent opera house in Catania, named after the composer Vincenzo Bellini.",
+                  "category": "cultural",
+                  "coords": [
+                        15.089865,
+                        37.50416
+                  ]
+            },
+            {
+                  "name": "Odeon",
+                  "text": "An ancient Roman odeon in the heart of Catania, used for musical performances.",
+                  "category": "historical",
+                  "coords": [
+                        15.082842,
+                        37.502934
+                  ]
+            },
+            {
+                  "name": "Terme dell'Indirizzo",
+                  "text": "The ruins of an ancient Roman thermal complex from the 2nd century in Catania.",
+                  "category": "historical",
+                  "coords": [
+                        15.085756,
+                        37.500914
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Plaia",
+                  "text": "The main sandy beach of Catania, stretching along the coast south of the city.",
+                  "category": "recreational",
+                  "coords": [
+                        15.087616,
+                        37.447544
+                  ]
+            },
+            {
+                  "name": "Bastione degli Infetti",
+                  "text": "A part of the old city walls of Catania, built in the 16th century for defense.",
+                  "category": "historical",
+                  "coords": [
+                        15.079574,
+                        37.506876
+                  ]
+            },
+            {
+                  "name": "Teatro Metropolitan",
+                  "text": "A modern theatre and cinema in Catania, known for its cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        15.084386,
+                        37.509879
+                  ]
+            },
+            {
+                  "name": "Museo di Zoologia",
+                  "text": "The Zoology Museum of Catania displays a rich collection of local and exotic animal species.",
+                  "category": "museum",
+                  "coords": [
+                        15.079253,
+                        37.510997
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco Borgia",
+                  "text": "A Baroque church in Catania, now used as an exhibition space for sacred art.",
+                  "category": "museum",
+                  "coords": [
+                        15.084432,
+                        37.50393
+                  ]
+            },
+            {
+                  "name": "Teatro Coppola",
+                  "text": "A historic theatre in Catania, revived as an independent cultural center.",
+                  "category": "cultural",
+                  "coords": [
+                        15.091734,
+                        37.501672
+                  ]
+            },
+            {
+                  "name": "Teatro Angelo Musco",
+                  "text": "A theatre named after the actor Angelo Musco, focusing on Sicilian dramas.",
+                  "category": "cultural",
+                  "coords": [
+                        15.100071,
+                        37.513072
+                  ]
+            },
+            {
+                  "name": "Terme di Sant'Antonio",
+                  "text": "Remains of an ancient Roman bath complex in Catania, located beneath the church of the same name.",
+                  "category": "historical",
+                  "coords": [
+                        15.080604,
+                        37.500421
+                  ]
+            },
+            {
+                  "name": "Teatro Giovanni Verga",
+                  "text": "One of the main prose theaters in Catania, named after the famous writer Giovanni Verga.",
+                  "category": "cultural",
+                  "coords": [
+                        15.071625,
+                        37.512385
+                  ]
+            },
+            {
+                  "name": "Città della Scienza",
+                  "text": "A modern science museum operated by the University of Catania for educational purposes.",
+                  "category": "museum",
+                  "coords": [
+                        15.098919,
+                        37.509583
+                  ]
+            },
+            {
+                  "name": "Museo della Fabbrica",
+                  "text": "Museum located within the Benedictine Monastery, showcasing the building's history and archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        15.079096,
+                        37.504834
+                  ]
+            },
+            {
+                  "name": "Faro di Sciara Biscari",
+                  "text": "A historical lighthouse located near the port of Catania, serving as a landmark for navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085129,
+                        37.488983
+                  ]
+            },
+            {
+                  "name": "Resti di Ninfeo",
+                  "text": "Ruins of an ancient Roman nymphaeum that once served as a monumental public fountain.",
+                  "category": "historical",
+                  "coords": [
+                        15.078827,
+                        37.503418
+                  ]
+            },
+            {
+                  "name": "Carcere di Sant'Agata",
+                  "text": "This site is traditionally identified as the prison where Saint Agatha was held before her martyrdom.",
+                  "category": "historical",
+                  "coords": [
+                        15.08416,
+                        37.507134
+                  ]
+            },
+            {
+                  "name": "Tomba di Stesicoro",
+                  "text": "Archaeological site traditionally associated with the tomb of the Greek poet Stesichorus.",
+                  "category": "historical",
+                  "coords": [
+                        15.088812,
+                        37.509745
+                  ]
+            },
+            {
+                  "name": "Museo dell'Etna",
+                  "text": "A museum dedicated to the geology and history of Mount Etna.",
+                  "category": "museum",
+                  "coords": [
+                        15.076641,
+                        37.504056
+                  ]
+            },
+            {
+                  "name": "Museo di Mineralogia, Petrografia e Vulcanologia",
+                  "text": "Scientific museum featuring collections of mineralogy, petrography, and volcanology.",
+                  "category": "museum",
+                  "coords": [
+                        15.095707,
+                        37.515899
+                  ]
+            },
+            {
+                  "name": "Museo Eredità Immateriale",
+                  "text": "A museum dedicated to the intangible cultural heritage and traditions of Sicily.",
+                  "category": "museum",
+                  "coords": [
+                        15.102572,
+                        37.50988
+                  ]
+            },
+            {
+                  "name": "Museo dei Saperi e delle Mirabilia Siciliane",
+                  "text": "Museum presenting the knowledge and cultural curiosities of Sicily.",
+                  "category": "museum",
+                  "coords": [
+                        15.086654,
+                        37.503581
+                  ]
+            },
+            {
+                  "name": "Ludum Science Center",
+                  "text": "An interactive science center in Catania that encourages experimentation.",
+                  "category": "museum",
+                  "coords": [
+                        15.086369,
+                        37.52436
+                  ]
+            },
+            {
+                  "name": "Spiaggia nera di San Giovanni Li Cuti",
+                  "text": "A distinctive urban beach in Catania known for its dark volcanic sand and lava rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        15.109163,
+                        37.519368
+                  ]
+            },
+            {
+                  "name": "Terme dell'Acropoli",
+                  "text": "Archaeological remains of ancient Roman baths located in the historic center of Catania.",
+                  "category": "historical",
+                  "coords": [
+                        15.080684,
+                        37.503514
+                  ]
+            },
+            {
+                  "name": "Mausoleo Cilindrico",
+                  "text": "An ancient Roman funerary monument in Catania, notable for its characteristic cylindrical structure.",
+                  "category": "historical",
+                  "coords": [
+                        15.080494,
+                        37.512292
+                  ]
+            },
+            {
+                  "name": "Mura di Carlo V",
+                  "text": "Remains of the 16th-century city walls built under Emperor Charles V to protect Catania.",
+                  "category": "castle",
+                  "coords": [
+                        15.091563,
+                        37.503607
+                  ]
+            },
+            {
+                  "name": "Acquedotto dei Benedettini",
+                  "text": "Remains of a historic aqueduct in Catania that once supplied the Benedictine monastery with water.",
+                  "category": "historical",
+                  "coords": [
+                        15.074655,
+                        37.509174
+                  ]
+            },
+            {
+                  "name": "Casa di Loreto",
+                  "text": "A small religious monument in Catania commemorating the tradition of the Holy House of Loreto.",
+                  "category": "historical",
+                  "coords": [
+                        15.081846,
+                        37.500534
+                  ]
+            },
+            {
+                  "name": "Arco di San Giovanni de' Fleres",
+                  "text": "The ruin of an arch in Catania, representing the last remaining part of a 6th-century church.",
+                  "category": "historical",
+                  "coords": [
+                        15.087694,
+                        37.504275
+                  ]
+            },
+            {
+                  "name": "Giardino Bellini",
+                  "text": "The most important public park in Catania, featuring vast green spaces and panoramic views of Mount Etna.",
+                  "category": "park",
+                  "coords": [
+                        15.083785,
+                        37.51099
+                  ]
+            },
+            {
+                  "name": "Gioeni Park",
+                  "text": "A spacious park located in the northern part of the city, built on volcanic rock.",
+                  "category": "park",
+                  "coords": [
+                        15.081835,
+                        37.528861
+                  ]
+            },
+            {
+                  "name": "Parco Madre Teresa di Calcutta",
+                  "text": "A well-maintained urban green space in Catania, providing a place for outdoor relaxation.",
+                  "category": "park",
+                  "coords": [
+                        15.079468,
+                        37.520761
+                  ]
+            },
+            {
+                  "name": "Parco Gandhi",
+                  "text": "A smaller public park in Catania, serving as a relaxation spot within the neighborhood.",
+                  "category": "park",
+                  "coords": [
+                        15.069604,
+                        37.521366
+                  ]
+            },
+            {
+                  "name": "Orto Botanico di Catania",
+                  "text": "The university's botanical garden, founded in 1858, houses a rich collection of exotic plants.",
+                  "category": "park",
+                  "coords": [
+                        15.083465,
+                        37.515454
+                  ]
+            },
+            {
+                  "name": "Boschetto della Plaia",
+                  "text": "A large pine forest located near Catania's sandy beach, ideal for shaded walks.",
+                  "category": "park",
+                  "coords": [
+                        15.080804,
+                        37.481338
+                  ]
+            },
+            {
+                  "name": "Porta Garibaldi",
+                  "text": "A monumental triumphal arch from 1768, built in honor of King Ferdinand IV.",
+                  "category": "historical",
+                  "coords": [
+                        15.073887,
+                        37.499663
+                  ]
+            },
+            {
+                  "name": "Porta del Fortino Vecchio",
+                  "text": "A historic city gate in Catania that was part of the city's old defensive fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        15.074843,
+                        37.499242
+                  ]
+            },
+            {
+                  "name": "Parco Fenoglietti",
+                  "text": "A quiet park area in Catania, used by locals for relaxation and recreation.",
+                  "category": "park",
+                  "coords": [
+                        15.069537,
+                        37.500576
+                  ]
+            },
+            {
+                  "name": "Parco Vulcania",
+                  "text": "A modern urban park in Catania, providing green spaces for outdoor leisure activities.",
+                  "category": "park",
+                  "coords": [
+                        15.08667,
+                        37.525274
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "A historical Dominican church in the city center of Catania.",
+                  "category": "religious",
+                  "coords": [
+                        15.083012,
+                        37.508232
+                  ]
+            }
+      ]
+},
     name: { de: "Catania", hu: "Catania", ro: "Catania", en: "Catania" },
     parent: "IT-CT",
     type: "city",

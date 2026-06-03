@@ -135,6 +135,132 @@ export const poiExtraDe3b: POI[] = [
                         14.3531,
                         51.7444
                   ]
+            },
+            {
+                  "name": "Spreewehrmühle",
+                  "text": "Historische Mühle an der Spree in Cottbus, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        14.355196,
+                        51.772055
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Cottbus",
+                  "text": "Museum zur Geschichte der Stadt Cottbus mit vielfältigen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        14.327842,
+                        51.755908
+                  ]
+            },
+            {
+                  "name": "Flugplatzmuseum Cottbus",
+                  "text": "Luftfahrtmuseum am ehemaligen Cottbuser Flugplatz mit zahlreichen historischen Flugzeugen.",
+                  "category": "museum",
+                  "coords": [
+                        14.294875,
+                        51.765723
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Zuchthaus Cottbus",
+                  "text": "Mahnmal und Museum in Cottbus zur Erinnerung an die Geschichte des ehemaligen Gefängnisses.",
+                  "category": "museum",
+                  "coords": [
+                        14.335775,
+                        51.747384
+                  ]
+            },
+            {
+                  "name": "Lagune",
+                  "text": "Beliebtes Freizeitbad in Cottbus mit verschiedenen Wasserbecken und Wellnessbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.327388,
+                        51.770957
+                  ]
+            },
+            {
+                  "name": "Brunschwigpark",
+                  "text": "Ein öffentlicher Park in Cottbus, der Teil der städtischen Grünanlagen ist.",
+                  "category": "park",
+                  "coords": [
+                        14.321927,
+                        51.762631
+                  ]
+            },
+            {
+                  "name": "Schlossberg",
+                  "text": "Eine Grünanlage am Schlossberg in Cottbus, die zum Entspannen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        14.339113,
+                        51.76154
+                  ]
+            },
+            {
+                  "name": "Puschkinpark",
+                  "text": "Eine der zentralen Parkanlagen in Cottbus, benannt nach dem Dichter Alexander Puschkin.",
+                  "category": "park",
+                  "coords": [
+                        14.337932,
+                        51.763217
+                  ]
+            },
+            {
+                  "name": "Carl-Blechen-Park",
+                  "text": "Ein Stadtpark in Cottbus, der nach dem berühmten Maler Carl Blechen benannt wurde.",
+                  "category": "park",
+                  "coords": [
+                        14.342924,
+                        51.760616
+                  ]
+            },
+            {
+                  "name": "Goethepark",
+                  "text": "Eine Parkanlage in Cottbus, die dem deutschen Dichter Johann Wolfgang von Goethe gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        14.340022,
+                        51.759853
+                  ]
+            },
+            {
+                  "name": "Spreeauenpark",
+                  "text": "Ein weitläufiger Landschaftspark in der Spreeaue, der für die Bundesgartenschau 1995 angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        14.349501,
+                        51.747399
+                  ]
+            },
+            {
+                  "name": "Frühlingsgarten",
+                  "text": "Eine kleine Parkanlage in Cottbus, die besonders im Frühling durch ihre Blütenpracht besticht.",
+                  "category": "park",
+                  "coords": [
+                        14.340644,
+                        51.757317
+                  ]
+            },
+            {
+                  "name": "Branitzer Park",
+                  "text": "Ein bedeutender Landschaftspark in Cottbus, gestaltet von Fürst Pückler-Muskau mit markanten Erdpyramiden.",
+                  "category": "park",
+                  "coords": [
+                        14.36435,
+                        51.743108
+                  ]
+            },
+            {
+                  "name": "Münzturm",
+                  "text": "Ein erhaltener Teil der mittelalterlichen Stadtbefestigung von Cottbus.",
+                  "category": "tower",
+                  "coords": [
+                        14.338987,
+                        51.762951
+                  ]
             }
       ],
       "hu": [
@@ -186,6 +312,132 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.3531,
                         51.7444
+                  ]
+            },
+            {
+                  "name": "Spreewehrmühle",
+                  "text": "Történelmi malom a Spree folyó mentén Cottbusban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        14.355196,
+                        51.772055
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Cottbus",
+                  "text": "Cottbus városának történetét bemutató múzeum változatos kiállítási tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        14.327842,
+                        51.755908
+                  ]
+            },
+            {
+                  "name": "Flugplatzmuseum Cottbus",
+                  "text": "Repüléstörténeti múzeum az egykori cottbusi repülőtéren számos történelmi repülőgéppel.",
+                  "category": "museum",
+                  "coords": [
+                        14.294875,
+                        51.765723
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Zuchthaus Cottbus",
+                  "text": "Emlékhely és múzeum Cottbusban, amely az egykori börtön történetére emlékeztet.",
+                  "category": "museum",
+                  "coords": [
+                        14.335775,
+                        51.747384
+                  ]
+            },
+            {
+                  "name": "Lagune",
+                  "text": "Népszerű vízipark és szabadidős központ Cottbusban, különféle medencékkel és wellness szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        14.327388,
+                        51.770957
+                  ]
+            },
+            {
+                  "name": "Brunschwigpark",
+                  "text": "Közpark Cottbusban, amely a városi zöldterületek hálózatának része.",
+                  "category": "park",
+                  "coords": [
+                        14.321927,
+                        51.762631
+                  ]
+            },
+            {
+                  "name": "Schlossberg",
+                  "text": "Zöldövezet a cottbusi Schlossbergnél, amely kellemes pihenőhelyet kínál.",
+                  "category": "park",
+                  "coords": [
+                        14.339113,
+                        51.76154
+                  ]
+            },
+            {
+                  "name": "Puschkinpark",
+                  "text": "Cottbus egyik központi parkja, amely Alekszandr Puskin költőről kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        14.337932,
+                        51.763217
+                  ]
+            },
+            {
+                  "name": "Carl-Blechen-Park",
+                  "text": "Cottbusi városi park, amelyet a híres festőről, Carl Blechenről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        14.342924,
+                        51.760616
+                  ]
+            },
+            {
+                  "name": "Goethepark",
+                  "text": "Johann Wolfgang von Goethének szentelt park Cottbusban.",
+                  "category": "park",
+                  "coords": [
+                        14.340022,
+                        51.759853
+                  ]
+            },
+            {
+                  "name": "Spreeauenpark",
+                  "text": "Tágas tájpark a Spree mentén, amelyet az 1995-ös szövetségi kertészeti kiállításra alakítottak ki.",
+                  "category": "park",
+                  "coords": [
+                        14.349501,
+                        51.747399
+                  ]
+            },
+            {
+                  "name": "Frühlingsgarten",
+                  "text": "Kisebb park Cottbusban, amely tavasszal különösen látványos virágzása miatt.",
+                  "category": "park",
+                  "coords": [
+                        14.340644,
+                        51.757317
+                  ]
+            },
+            {
+                  "name": "Branitzer Park",
+                  "text": "Cottbus jelentős tájparkja, amelyet Pückler-Muskau herceg tervezett jellegzetes földpiramisokkal.",
+                  "category": "park",
+                  "coords": [
+                        14.36435,
+                        51.743108
+                  ]
+            },
+            {
+                  "name": "Münzturm",
+                  "text": "Cottbus középkori városfalának egyik épségben maradt tornya.",
+                  "category": "tower",
+                  "coords": [
+                        14.338987,
+                        51.762951
                   ]
             }
       ],
@@ -239,6 +491,132 @@ export const poiExtraDe3b: POI[] = [
                         14.3531,
                         51.7444
                   ]
+            },
+            {
+                  "name": "Spreewehrmühle",
+                  "text": "Moară istorică pe râul Spree în Cottbus, care servește astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        14.355196,
+                        51.772055
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Cottbus",
+                  "text": "Muzeu dedicat istoriei orașului Cottbus, cu exponate diverse.",
+                  "category": "museum",
+                  "coords": [
+                        14.327842,
+                        51.755908
+                  ]
+            },
+            {
+                  "name": "Flugplatzmuseum Cottbus",
+                  "text": "Muzeu al aviației pe fostul aerodrom din Cottbus, cu numeroase avioane istorice.",
+                  "category": "museum",
+                  "coords": [
+                        14.294875,
+                        51.765723
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Zuchthaus Cottbus",
+                  "text": "Memorial și muzeu în Cottbus pentru a comemora istoria fostei închisori.",
+                  "category": "museum",
+                  "coords": [
+                        14.335775,
+                        51.747384
+                  ]
+            },
+            {
+                  "name": "Lagune",
+                  "text": "Un parc acvatic popular din Cottbus, care oferă diverse piscine și zone de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        14.327388,
+                        51.770957
+                  ]
+            },
+            {
+                  "name": "Brunschwigpark",
+                  "text": "Un parc public din Cottbus, făcând parte din spațiile verzi ale orașului.",
+                  "category": "park",
+                  "coords": [
+                        14.321927,
+                        51.762631
+                  ]
+            },
+            {
+                  "name": "Schlossberg",
+                  "text": "O zonă verde situată pe Schlossberg în Cottbus, ideală pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        14.339113,
+                        51.76154
+                  ]
+            },
+            {
+                  "name": "Puschkinpark",
+                  "text": "Unul dintre parcurile centrale din Cottbus, numit după poetul Alexandr Pușkin.",
+                  "category": "park",
+                  "coords": [
+                        14.337932,
+                        51.763217
+                  ]
+            },
+            {
+                  "name": "Carl-Blechen-Park",
+                  "text": "Un parc orășenesc din Cottbus, numit după celebrul pictor Carl Blechen.",
+                  "category": "park",
+                  "coords": [
+                        14.342924,
+                        51.760616
+                  ]
+            },
+            {
+                  "name": "Goethepark",
+                  "text": "Un parc din Cottbus dedicat poetului german Johann Wolfgang von Goethe.",
+                  "category": "park",
+                  "coords": [
+                        14.340022,
+                        51.759853
+                  ]
+            },
+            {
+                  "name": "Spreeauenpark",
+                  "text": "Un parc peisagistic vast în lunca râului Spree, creat pentru expoziția horticolă federală din 1995.",
+                  "category": "park",
+                  "coords": [
+                        14.349501,
+                        51.747399
+                  ]
+            },
+            {
+                  "name": "Frühlingsgarten",
+                  "text": "Un mic parc din Cottbus, remarcabil mai ales primăvara prin florile sale.",
+                  "category": "park",
+                  "coords": [
+                        14.340644,
+                        51.757317
+                  ]
+            },
+            {
+                  "name": "Branitzer Park",
+                  "text": "Un parc peisagistic important din Cottbus, creat de prințul Pückler-Muskau, cu piramide de pământ distinctive.",
+                  "category": "park",
+                  "coords": [
+                        14.36435,
+                        51.743108
+                  ]
+            },
+            {
+                  "name": "Münzturm",
+                  "text": "O parte conservată a fortificațiilor medievale ale orașului Cottbus.",
+                  "category": "tower",
+                  "coords": [
+                        14.338987,
+                        51.762951
+                  ]
             }
       ],
       "en": [
@@ -290,6 +668,132 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.3531,
                         51.7444
+                  ]
+            },
+            {
+                  "name": "Spreewehrmühle",
+                  "text": "Historic mill on the Spree in Cottbus, which now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        14.355196,
+                        51.772055
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Cottbus",
+                  "text": "Museum about the history of the city of Cottbus with diverse exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        14.327842,
+                        51.755908
+                  ]
+            },
+            {
+                  "name": "Flugplatzmuseum Cottbus",
+                  "text": "Aviation museum at the former Cottbus airfield with numerous historic aircraft.",
+                  "category": "museum",
+                  "coords": [
+                        14.294875,
+                        51.765723
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte Zuchthaus Cottbus",
+                  "text": "Memorial and museum in Cottbus commemorating the history of the former prison.",
+                  "category": "museum",
+                  "coords": [
+                        14.335775,
+                        51.747384
+                  ]
+            },
+            {
+                  "name": "Lagune",
+                  "text": "A popular water park in Cottbus featuring various swimming pools and wellness areas.",
+                  "category": "recreational",
+                  "coords": [
+                        14.327388,
+                        51.770957
+                  ]
+            },
+            {
+                  "name": "Brunschwigpark",
+                  "text": "A public park in Cottbus that is part of the city's green spaces.",
+                  "category": "park",
+                  "coords": [
+                        14.321927,
+                        51.762631
+                  ]
+            },
+            {
+                  "name": "Schlossberg",
+                  "text": "A green area at the Schlossberg in Cottbus, offering space for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        14.339113,
+                        51.76154
+                  ]
+            },
+            {
+                  "name": "Puschkinpark",
+                  "text": "One of the central parks in Cottbus, named after the poet Alexander Pushkin.",
+                  "category": "park",
+                  "coords": [
+                        14.337932,
+                        51.763217
+                  ]
+            },
+            {
+                  "name": "Carl-Blechen-Park",
+                  "text": "A city park in Cottbus named after the famous painter Carl Blechen.",
+                  "category": "park",
+                  "coords": [
+                        14.342924,
+                        51.760616
+                  ]
+            },
+            {
+                  "name": "Goethepark",
+                  "text": "A park in Cottbus dedicated to the German poet Johann Wolfgang von Goethe.",
+                  "category": "park",
+                  "coords": [
+                        14.340022,
+                        51.759853
+                  ]
+            },
+            {
+                  "name": "Spreeauenpark",
+                  "text": "A spacious landscape park in the Spree floodplains, created for the 1995 Federal Horticultural Show.",
+                  "category": "park",
+                  "coords": [
+                        14.349501,
+                        51.747399
+                  ]
+            },
+            {
+                  "name": "Frühlingsgarten",
+                  "text": "A small park in Cottbus, particularly notable for its floral displays in spring.",
+                  "category": "park",
+                  "coords": [
+                        14.340644,
+                        51.757317
+                  ]
+            },
+            {
+                  "name": "Branitzer Park",
+                  "text": "A significant landscape park in Cottbus, designed by Prince Pückler-Muskau with distinctive earth pyramids.",
+                  "category": "park",
+                  "coords": [
+                        14.36435,
+                        51.743108
+                  ]
+            },
+            {
+                  "name": "Münzturm",
+                  "text": "A preserved part of the medieval city fortifications of Cottbus.",
+                  "category": "tower",
+                  "coords": [
+                        14.338987,
+                        51.762951
                   ]
             }
       ],
@@ -981,6 +1485,123 @@ export const poiExtraDe3b: POI[] = [
                         14.54935,
                         52.34459
                   ]
+            },
+            {
+                  "name": "Museum Viadrina",
+                  "text": "Museum im Junkerhaus, das die Geschichte der Stadt Frankfurt (Oder) präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.556603,
+                        52.345098
+                  ]
+            },
+            {
+                  "name": "Theater des Lachens",
+                  "text": "Professionelles Puppen- und Figurentheater in Frankfurt (Oder) mit Sitz in einer ehemaligen Brauerei.",
+                  "category": "cultural",
+                  "coords": [
+                        14.55024,
+                        52.352686
+                  ]
+            },
+            {
+                  "name": "Opfer politischer Gewaltherrschaft",
+                  "text": "Gedenkstätte und Museum zur Erinnerung an die Opfer politischer Gewaltherrschaft in Frankfurt (Oder).",
+                  "category": "museum",
+                  "coords": [
+                        14.553003,
+                        52.348745
+                  ]
+            },
+            {
+                  "name": "Tzschetzschnower Burgwall",
+                  "text": "Ein archäologischer Fundplatz einer ehemaligen slawischen Burganlage bei Frankfurt (Oder).",
+                  "category": "historical",
+                  "coords": [
+                        14.566434,
+                        52.316396
+                  ]
+            },
+            {
+                  "name": "Städtisches Hallenbad",
+                  "text": "Das städtische Hallenbad in Frankfurt (Oder) bietet verschiedene Schwimmbecken und Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        14.515383,
+                        52.348596
+                  ]
+            },
+            {
+                  "name": "Zentrale Kriegsgräberstätte",
+                  "text": "Eine zentrale Gedenkstätte und ein Friedhof für die Opfer von Krieg und Gewaltherrschaft in Frankfurt (Oder).",
+                  "category": "historical",
+                  "coords": [
+                        14.532146,
+                        52.326952
+                  ]
+            },
+            {
+                  "name": "Kleistpark",
+                  "text": "Ein weitläufiger Bürgerpark in Frankfurt (Oder), der nach dem Dichter Heinrich von Kleist benannt wurde.",
+                  "category": "park",
+                  "coords": [
+                        14.538203,
+                        52.344519
+                  ]
+            },
+            {
+                  "name": "Park an der St. Gertraudkirche",
+                  "text": "Eine Grünanlage in Frankfurt (Oder) in direkter Nachbarschaft zur historischen St.-Gertraud-Kirche.",
+                  "category": "park",
+                  "coords": [
+                        14.552462,
+                        52.339925
+                  ]
+            },
+            {
+                  "name": "Plac Wolności",
+                  "text": "Ein zentraler Platz und Park im polnischen Słubice, direkt gegenüber von Frankfurt (Oder).",
+                  "category": "park",
+                  "coords": [
+                        14.564951,
+                        52.352494
+                  ]
+            },
+            {
+                  "name": "Lienaupark",
+                  "text": "Eine historische Parkanlage in Frankfurt (Oder) mit altem Baumbestand und Denkmälern.",
+                  "category": "park",
+                  "coords": [
+                        14.54432,
+                        52.350716
+                  ]
+            },
+            {
+                  "name": "Plac Przyjaźni",
+                  "text": "Ein öffentlicher Park im Zentrum von Słubice, der als Ort der Begegnung und Erholung dient.",
+                  "category": "park",
+                  "coords": [
+                        14.561326,
+                        52.351778
+                  ]
+            },
+            {
+                  "name": "Grüne Lunge",
+                  "text": "Ein naturnaher Park in Frankfurt (Oder), der als wichtige Grünfläche für die Stadtbewohner dient.",
+                  "category": "park",
+                  "coords": [
+                        14.538348,
+                        52.331184
+                  ]
+            },
+            {
+                  "name": "Park Pionierów Słubic",
+                  "text": "Ein städtischer Park in Słubice, der den Pionieren der Stadt gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        14.575824,
+                        52.349496
+                  ]
             }
       ],
       "hu": [
@@ -1022,6 +1643,123 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.54935,
                         52.34459
+                  ]
+            },
+            {
+                  "name": "Museum Viadrina",
+                  "text": "A Junkerhausban található múzeum, amely Frankfurt (Oder) városának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.556603,
+                        52.345098
+                  ]
+            },
+            {
+                  "name": "Theater des Lachens",
+                  "text": "Professzionális báb- és figurás színház Frankfurt (Oder)-ben, egy egykori sörgyár épületében.",
+                  "category": "cultural",
+                  "coords": [
+                        14.55024,
+                        52.352686
+                  ]
+            },
+            {
+                  "name": "Opfer politischer Gewaltherrschaft",
+                  "text": "Emlékhely és múzeum a politikai önkényuralom áldozatainak emlékére Frankfurt (Oder)-ben.",
+                  "category": "museum",
+                  "coords": [
+                        14.553003,
+                        52.348745
+                  ]
+            },
+            {
+                  "name": "Tzschetzschnower Burgwall",
+                  "text": "Egy egykori szláv várhely régészeti lelőhelye Frankfurt an der Oder közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.566434,
+                        52.316396
+                  ]
+            },
+            {
+                  "name": "Städtisches Hallenbad",
+                  "text": "Frankfurt an der Oder városi fedett uszodája különféle medencékkel és szabadidős lehetőségekkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.515383,
+                        52.348596
+                  ]
+            },
+            {
+                  "name": "Zentrale Kriegsgräberstätte",
+                  "text": "Frankfurt an der Oder központi emlékhelye és temetője a háborúk és az önkényuralom áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        14.532146,
+                        52.326952
+                  ]
+            },
+            {
+                  "name": "Kleistpark",
+                  "text": "Frankfurt an der Oder tágas közparkja, amelyet Heinrich von Kleist költőről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        14.538203,
+                        52.344519
+                  ]
+            },
+            {
+                  "name": "Park an der St. Gertraudkirche",
+                  "text": "Zöldterület Frankfurt an der Oderben, a történelmi Szent Gertrúd-templom közvetlen szomszédságában.",
+                  "category": "park",
+                  "coords": [
+                        14.552462,
+                        52.339925
+                  ]
+            },
+            {
+                  "name": "Plac Wolności",
+                  "text": "Központi tér és park a lengyelországi Słubicében, közvetlenül Frankfurt an der Oderrel szemben.",
+                  "category": "park",
+                  "coords": [
+                        14.564951,
+                        52.352494
+                  ]
+            },
+            {
+                  "name": "Lienaupark",
+                  "text": "Történelmi park Frankfurt an der Oderben, idős fákkal és emlékművekkel.",
+                  "category": "park",
+                  "coords": [
+                        14.54432,
+                        52.350716
+                  ]
+            },
+            {
+                  "name": "Plac Przyjaźni",
+                  "text": "Słubice központjában található közpark, amely találkozóhelyként és pihenőhelyként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        14.561326,
+                        52.351778
+                  ]
+            },
+            {
+                  "name": "Grüne Lunge",
+                  "text": "Frankfurt an der Oder természethez közeli parkja, amely fontos zöldterület a városlakók számára.",
+                  "category": "park",
+                  "coords": [
+                        14.538348,
+                        52.331184
+                  ]
+            },
+            {
+                  "name": "Park Pionierów Słubic",
+                  "text": "Słubice városi parkja, amelyet a város úttörőinek tiszteletére neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        14.575824,
+                        52.349496
                   ]
             }
       ],
@@ -1065,6 +1803,123 @@ export const poiExtraDe3b: POI[] = [
                         14.54935,
                         52.34459
                   ]
+            },
+            {
+                  "name": "Museum Viadrina",
+                  "text": "Muzeu situat în Junkerhaus care prezintă istoria orașului Frankfurt (Oder).",
+                  "category": "museum",
+                  "coords": [
+                        14.556603,
+                        52.345098
+                  ]
+            },
+            {
+                  "name": "Theater des Lachens",
+                  "text": "Teatru profesionist de păpuși și marionete din Frankfurt (Oder), situat într-o fostă berărie.",
+                  "category": "cultural",
+                  "coords": [
+                        14.55024,
+                        52.352686
+                  ]
+            },
+            {
+                  "name": "Opfer politischer Gewaltherrschaft",
+                  "text": "Memorial și muzeu dedicat victimelor tiraniei politice din Frankfurt (Oder).",
+                  "category": "museum",
+                  "coords": [
+                        14.553003,
+                        52.348745
+                  ]
+            },
+            {
+                  "name": "Tzschetzschnower Burgwall",
+                  "text": "Un sit arheologic al unei foste așezări slave fortificate lângă Frankfurt (Oder).",
+                  "category": "historical",
+                  "coords": [
+                        14.566434,
+                        52.316396
+                  ]
+            },
+            {
+                  "name": "Städtisches Hallenbad",
+                  "text": "Piscina interioară municipală din Frankfurt (Oder) oferă diverse bazine și activități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        14.515383,
+                        52.348596
+                  ]
+            },
+            {
+                  "name": "Zentrale Kriegsgräberstätte",
+                  "text": "Un memorial central și cimitir pentru victimele războiului și ale dictaturii în Frankfurt (Oder).",
+                  "category": "historical",
+                  "coords": [
+                        14.532146,
+                        52.326952
+                  ]
+            },
+            {
+                  "name": "Kleistpark",
+                  "text": "Un parc public spațios din Frankfurt (Oder), numit după poetul Heinrich von Kleist.",
+                  "category": "park",
+                  "coords": [
+                        14.538203,
+                        52.344519
+                  ]
+            },
+            {
+                  "name": "Park an der St. Gertraudkirche",
+                  "text": "O zonă verde din Frankfurt (Oder) situată în imediata vecinătate a bisericii istorice Sf. Gertraud.",
+                  "category": "park",
+                  "coords": [
+                        14.552462,
+                        52.339925
+                  ]
+            },
+            {
+                  "name": "Plac Wolności",
+                  "text": "O piață centrală și parc în Słubice, Polonia, situată direct vizavi de Frankfurt (Oder).",
+                  "category": "park",
+                  "coords": [
+                        14.564951,
+                        52.352494
+                  ]
+            },
+            {
+                  "name": "Lienaupark",
+                  "text": "Un parc istoric din Frankfurt (Oder) cu arbori vechi și monumente.",
+                  "category": "park",
+                  "coords": [
+                        14.54432,
+                        52.350716
+                  ]
+            },
+            {
+                  "name": "Plac Przyjaźni",
+                  "text": "Un parc public în centrul orașului Słubice, care servește ca loc de întâlnire și recreere.",
+                  "category": "park",
+                  "coords": [
+                        14.561326,
+                        52.351778
+                  ]
+            },
+            {
+                  "name": "Grüne Lunge",
+                  "text": "Un parc natural din Frankfurt (Oder) care servește ca un spațiu verde important pentru locuitorii orașului.",
+                  "category": "park",
+                  "coords": [
+                        14.538348,
+                        52.331184
+                  ]
+            },
+            {
+                  "name": "Park Pionierów Słubic",
+                  "text": "Un parc municipal în Słubice, dedicat pionierilor orașului.",
+                  "category": "park",
+                  "coords": [
+                        14.575824,
+                        52.349496
+                  ]
             }
       ],
       "en": [
@@ -1106,6 +1961,123 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.54935,
                         52.34459
+                  ]
+            },
+            {
+                  "name": "Museum Viadrina",
+                  "text": "Museum located in the Junkerhaus showcasing the history of the city of Frankfurt (Oder).",
+                  "category": "museum",
+                  "coords": [
+                        14.556603,
+                        52.345098
+                  ]
+            },
+            {
+                  "name": "Theater des Lachens",
+                  "text": "Professional puppet and figure theatre in Frankfurt (Oder) based in a former brewery.",
+                  "category": "cultural",
+                  "coords": [
+                        14.55024,
+                        52.352686
+                  ]
+            },
+            {
+                  "name": "Opfer politischer Gewaltherrschaft",
+                  "text": "Memorial and museum dedicated to the victims of political tyranny in Frankfurt (Oder).",
+                  "category": "museum",
+                  "coords": [
+                        14.553003,
+                        52.348745
+                  ]
+            },
+            {
+                  "name": "Tzschetzschnower Burgwall",
+                  "text": "An archaeological site of a former Slavic fortified settlement near Frankfurt (Oder).",
+                  "category": "historical",
+                  "coords": [
+                        14.566434,
+                        52.316396
+                  ]
+            },
+            {
+                  "name": "Städtisches Hallenbad",
+                  "text": "The municipal indoor swimming pool in Frankfurt (Oder) features various pools and leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.515383,
+                        52.348596
+                  ]
+            },
+            {
+                  "name": "Zentrale Kriegsgräberstätte",
+                  "text": "A central memorial and cemetery for victims of war and tyranny in Frankfurt (Oder).",
+                  "category": "historical",
+                  "coords": [
+                        14.532146,
+                        52.326952
+                  ]
+            },
+            {
+                  "name": "Kleistpark",
+                  "text": "A spacious public park in Frankfurt (Oder), named after the poet Heinrich von Kleist.",
+                  "category": "park",
+                  "coords": [
+                        14.538203,
+                        52.344519
+                  ]
+            },
+            {
+                  "name": "Park an der St. Gertraudkirche",
+                  "text": "A green area in Frankfurt (Oder) located in the immediate vicinity of the historic St. Gertraud Church.",
+                  "category": "park",
+                  "coords": [
+                        14.552462,
+                        52.339925
+                  ]
+            },
+            {
+                  "name": "Plac Wolności",
+                  "text": "A central square and park in Słubice, Poland, located directly across from Frankfurt (Oder).",
+                  "category": "park",
+                  "coords": [
+                        14.564951,
+                        52.352494
+                  ]
+            },
+            {
+                  "name": "Lienaupark",
+                  "text": "A historic park in Frankfurt (Oder) featuring old trees and monuments.",
+                  "category": "park",
+                  "coords": [
+                        14.54432,
+                        52.350716
+                  ]
+            },
+            {
+                  "name": "Plac Przyjaźni",
+                  "text": "A public park in the center of Słubice, serving as a place for meetings and recreation.",
+                  "category": "park",
+                  "coords": [
+                        14.561326,
+                        52.351778
+                  ]
+            },
+            {
+                  "name": "Grüne Lunge",
+                  "text": "A nature-oriented park in Frankfurt (Oder), serving as an important green space for city residents.",
+                  "category": "park",
+                  "coords": [
+                        14.538348,
+                        52.331184
+                  ]
+            },
+            {
+                  "name": "Park Pionierów Słubic",
+                  "text": "A municipal park in Słubice, dedicated to the pioneers of the city.",
+                  "category": "park",
+                  "coords": [
+                        14.575824,
+                        52.349496
                   ]
             }
       ],
@@ -1238,6 +2210,132 @@ export const poiExtraDe3b: POI[] = [
                         12.217273,
                         51.855787
                   ]
+            },
+            {
+                  "name": "Technikmuseum \"Hugo Junkers\" Dessau",
+                  "text": "Technikmuseum in Dessau, das dem Flugzeugpionier Hugo Junkers und seinen Erfindungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.20792,
+                        51.835553
+                  ]
+            },
+            {
+                  "name": "Schloss Luisium",
+                  "text": "Ein klassizistisches Landschloss inmitten eines weitläufigen englischen Landschaftsgartens.",
+                  "category": "castle",
+                  "coords": [
+                        12.272092,
+                        51.850715
+                  ]
+            },
+            {
+                  "name": "Anhaltisches Theater",
+                  "text": "Ein bedeutendes Mehrspartentheater in Dessau mit Aufführungen in Oper, Ballett und Schauspiel.",
+                  "category": "cultural",
+                  "coords": [
+                        12.236489,
+                        51.836609
+                  ]
+            },
+            {
+                  "name": "Tierpark Dessau",
+                  "text": "Ein im Mausoleumspark gelegener Zoo, der eine Vielzahl heimischer und exotischer Tiere beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.235576,
+                        51.845477
+                  ]
+            },
+            {
+                  "name": "Museum für Naturkunde und Vorgeschichte",
+                  "text": "Naturkundemuseum in Dessau mit Sammlungen zur regionalen Geologie, Flora und Fauna.",
+                  "category": "museum",
+                  "coords": [
+                        12.242916,
+                        51.831271
+                  ]
+            },
+            {
+                  "name": "Johannbau",
+                  "text": "Der einzige erhaltene Flügel des Residenzschlosses Dessau, der heute das Stadtgeschichtsmuseum beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        12.247842,
+                        51.832476
+                  ]
+            },
+            {
+                  "name": "Altes Theater",
+                  "text": "Ein kulturelles Veranstaltungszentrum in Dessau, das regelmäßig für Theater- und Musikaufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        12.243169,
+                        51.83345
+                  ]
+            },
+            {
+                  "name": "Bauhaus Museum Dessau",
+                  "text": "Modernes Museum im Stadtzentrum, das die Geschichte und das Erbe der weltberühmten Bauhaus-Schule dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.24215,
+                        51.834495
+                  ]
+            },
+            {
+                  "name": "Marienkirche",
+                  "text": "Eine ehemalige spätgotische Kirche, die heute als außergewöhnlicher Veranstaltungsort für Konzerte und Theater dient.",
+                  "category": "cultural",
+                  "coords": [
+                        12.246986,
+                        51.833539
+                  ]
+            },
+            {
+                  "name": "Wasserburg \"Schlossberg\"",
+                  "text": "Archäologische Stätte einer mittelalterlichen Wasserburg am Schlossberg in Dessau.",
+                  "category": "historical",
+                  "coords": [
+                        12.27138,
+                        51.82403
+                  ]
+            },
+            {
+                  "name": "Stillinge",
+                  "text": "Ein ruhiger Strandabschnitt und Badebereich in der Nähe von Dessau.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249586,
+                        51.851909
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Die zentrale Parkanlage in Dessau bietet Grünflächen und Wege zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        12.240122,
+                        51.833498
+                  ]
+            },
+            {
+                  "name": "Friedensplatz",
+                  "text": "Ein öffentlicher Platz und Parkanlage im Herzen von Dessau.",
+                  "category": "park",
+                  "coords": [
+                        12.238365,
+                        51.837269
+                  ]
+            },
+            {
+                  "name": "Kühnauer Park",
+                  "text": "Landschaftspark in Dessau, der Teil des Dessau-Wörlitzer Gartenreiches ist.",
+                  "category": "park",
+                  "coords": [
+                        12.190462,
+                        51.851367
+                  ]
             }
       ],
       "hu": [
@@ -1279,6 +2377,132 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         12.217273,
                         51.855787
+                  ]
+            },
+            {
+                  "name": "Technikmuseum \"Hugo Junkers\" Dessau",
+                  "text": "Műszaki múzeum Dessauban, amely Hugo Junkers repülőgép-tervező munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.20792,
+                        51.835553
+                  ]
+            },
+            {
+                  "name": "Schloss Luisium",
+                  "text": "Klasszicista vidéki kastély Dessauban, egy kiterjedt angolpark közepén.",
+                  "category": "castle",
+                  "coords": [
+                        12.272092,
+                        51.850715
+                  ]
+            },
+            {
+                  "name": "Anhaltisches Theater",
+                  "text": "Dessau jelentős több tagozatos színháza, ahol opera, balett és prózai előadásokat tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        12.236489,
+                        51.836609
+                  ]
+            },
+            {
+                  "name": "Tierpark Dessau",
+                  "text": "A Mauzóleum-parkban található állatkert, amely számos hazai és egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        12.235576,
+                        51.845477
+                  ]
+            },
+            {
+                  "name": "Museum für Naturkunde und Vorgeschichte",
+                  "text": "Természettudományi múzeum Dessauban, regionális geológiai és növénytani gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        12.242916,
+                        51.831271
+                  ]
+            },
+            {
+                  "name": "Johannbau",
+                  "text": "A dessaui rezidencia-kastély egyetlen fennmaradt szárnya, amely ma városi múzeum.",
+                  "category": "castle",
+                  "coords": [
+                        12.247842,
+                        51.832476
+                  ]
+            },
+            {
+                  "name": "Altes Theater",
+                  "text": "Kulturális rendezvényközpont Dessauban, amely színházi és zenei előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        12.243169,
+                        51.83345
+                  ]
+            },
+            {
+                  "name": "Bauhaus Museum Dessau",
+                  "text": "Modern múzeum a városközpontban, amely a világhírű Bauhaus-iskola örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.24215,
+                        51.834495
+                  ]
+            },
+            {
+                  "name": "Marienkirche",
+                  "text": "Egykori késő gótikus templom, amely ma különleges helyszínként szolgál koncerteknek és színháznak.",
+                  "category": "cultural",
+                  "coords": [
+                        12.246986,
+                        51.833539
+                  ]
+            },
+            {
+                  "name": "Wasserburg \"Schlossberg\"",
+                  "text": "Középkori vízvár régészeti lelőhelye a dessaui Schlossberg területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.27138,
+                        51.82403
+                  ]
+            },
+            {
+                  "name": "Stillinge",
+                  "text": "Nyugodt strand és fürdőhely Dessau közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249586,
+                        51.851909
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Dessau központi parkja zöldfelületekkel és pihenésre alkalmas sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        12.240122,
+                        51.833498
+                  ]
+            },
+            {
+                  "name": "Friedensplatz",
+                  "text": "Nyilvános tér és parkosított terület Dessau szívében.",
+                  "category": "park",
+                  "coords": [
+                        12.238365,
+                        51.837269
+                  ]
+            },
+            {
+                  "name": "Kühnauer Park",
+                  "text": "Tájképi park Dessauban, amely a Dessau-wörlitzi kertbirodalom része.",
+                  "category": "park",
+                  "coords": [
+                        12.190462,
+                        51.851367
                   ]
             }
       ],
@@ -1322,6 +2546,132 @@ export const poiExtraDe3b: POI[] = [
                         12.217273,
                         51.855787
                   ]
+            },
+            {
+                  "name": "Technikmuseum \"Hugo Junkers\" Dessau",
+                  "text": "Muzeu tehnic în Dessau, dedicat pionierului aviației Hugo Junkers și invențiilor sale.",
+                  "category": "museum",
+                  "coords": [
+                        12.20792,
+                        51.835553
+                  ]
+            },
+            {
+                  "name": "Schloss Luisium",
+                  "text": "Un castel neoclasic situat în mijlocul unei vaste grădini peisajiste englezești.",
+                  "category": "castle",
+                  "coords": [
+                        12.272092,
+                        51.850715
+                  ]
+            },
+            {
+                  "name": "Anhaltisches Theater",
+                  "text": "Un teatru important din Dessau care găzduiește spectacole de operă, balet și dramă.",
+                  "category": "cultural",
+                  "coords": [
+                        12.236489,
+                        51.836609
+                  ]
+            },
+            {
+                  "name": "Tierpark Dessau",
+                  "text": "O grădină zoologică situată în parcul Mausoleum, adăpostind diverse animale locale și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        12.235576,
+                        51.845477
+                  ]
+            },
+            {
+                  "name": "Museum für Naturkunde und Vorgeschichte",
+                  "text": "Muzeu de istorie naturală din Dessau, cu colecții despre geologia și flora regională.",
+                  "category": "museum",
+                  "coords": [
+                        12.242916,
+                        51.831271
+                  ]
+            },
+            {
+                  "name": "Johannbau",
+                  "text": "Singura aripă păstrată a palatului rezidențial din Dessau, care găzduiește acum un muzeu.",
+                  "category": "castle",
+                  "coords": [
+                        12.247842,
+                        51.832476
+                  ]
+            },
+            {
+                  "name": "Altes Theater",
+                  "text": "Un centru cultural din Dessau, utilizat în mod regulat pentru spectacole de teatru și muzică.",
+                  "category": "cultural",
+                  "coords": [
+                        12.243169,
+                        51.83345
+                  ]
+            },
+            {
+                  "name": "Bauhaus Museum Dessau",
+                  "text": "Muzeu modern din centrul orașului care prezintă moștenirea faimoasei școli Bauhaus.",
+                  "category": "museum",
+                  "coords": [
+                        12.24215,
+                        51.834495
+                  ]
+            },
+            {
+                  "name": "Marienkirche",
+                  "text": "O fostă biserică gotică târzie, transformată astăzi într-un loc spectaculos pentru concerte și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        12.246986,
+                        51.833539
+                  ]
+            },
+            {
+                  "name": "Wasserburg \"Schlossberg\"",
+                  "text": "Sit arheologic al unei cetăți de apă medievale pe Schlossberg în Dessau.",
+                  "category": "historical",
+                  "coords": [
+                        12.27138,
+                        51.82403
+                  ]
+            },
+            {
+                  "name": "Stillinge",
+                  "text": "O secțiune de plajă liniștită și zonă de scăldat în Dessau.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249586,
+                        51.851909
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Parcul central din Dessau oferă spații verzi și alei pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        12.240122,
+                        51.833498
+                  ]
+            },
+            {
+                  "name": "Friedensplatz",
+                  "text": "O piață publică și zonă de parc în inima orașului Dessau.",
+                  "category": "park",
+                  "coords": [
+                        12.238365,
+                        51.837269
+                  ]
+            },
+            {
+                  "name": "Kühnauer Park",
+                  "text": "Parc peisajistic din Dessau, care face parte din Grădinile Dessau-Wörlitz.",
+                  "category": "park",
+                  "coords": [
+                        12.190462,
+                        51.851367
+                  ]
             }
       ],
       "en": [
@@ -1363,6 +2713,132 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         12.217273,
                         51.855787
+                  ]
+            },
+            {
+                  "name": "Technikmuseum \"Hugo Junkers\" Dessau",
+                  "text": "Technical museum in Dessau dedicated to aviation pioneer Hugo Junkers and his inventions.",
+                  "category": "museum",
+                  "coords": [
+                        12.20792,
+                        51.835553
+                  ]
+            },
+            {
+                  "name": "Schloss Luisium",
+                  "text": "A neoclassical country castle set within an extensive English landscape garden.",
+                  "category": "castle",
+                  "coords": [
+                        12.272092,
+                        51.850715
+                  ]
+            },
+            {
+                  "name": "Anhaltisches Theater",
+                  "text": "A major multi-genre theatre in Dessau featuring opera, ballet, and drama performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.236489,
+                        51.836609
+                  ]
+            },
+            {
+                  "name": "Tierpark Dessau",
+                  "text": "A zoo located in the Mausoleum Park, home to a variety of local and exotic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        12.235576,
+                        51.845477
+                  ]
+            },
+            {
+                  "name": "Museum für Naturkunde und Vorgeschichte",
+                  "text": "Natural history museum in Dessau showcasing regional geology, flora, and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        12.242916,
+                        51.831271
+                  ]
+            },
+            {
+                  "name": "Johannbau",
+                  "text": "The only surviving wing of the Dessau Residential Palace, now housing a history museum.",
+                  "category": "castle",
+                  "coords": [
+                        12.247842,
+                        51.832476
+                  ]
+            },
+            {
+                  "name": "Altes Theater",
+                  "text": "A cultural venue in Dessau used for various theatrical and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.243169,
+                        51.83345
+                  ]
+            },
+            {
+                  "name": "Bauhaus Museum Dessau",
+                  "text": "A modern museum in the city center documenting the legacy of the world-famous Bauhaus school.",
+                  "category": "museum",
+                  "coords": [
+                        12.24215,
+                        51.834495
+                  ]
+            },
+            {
+                  "name": "Marienkirche",
+                  "text": "A former late-Gothic church now used as a unique venue for concerts and theatrical events.",
+                  "category": "cultural",
+                  "coords": [
+                        12.246986,
+                        51.833539
+                  ]
+            },
+            {
+                  "name": "Wasserburg \"Schlossberg\"",
+                  "text": "Archaeological site of a medieval water castle located on the Schlossberg in Dessau.",
+                  "category": "historical",
+                  "coords": [
+                        12.27138,
+                        51.82403
+                  ]
+            },
+            {
+                  "name": "Stillinge",
+                  "text": "A quiet beach area and swimming spot located in Dessau.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249586,
+                        51.851909
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "The central park in Dessau features green spaces and paths for recreation.",
+                  "category": "park",
+                  "coords": [
+                        12.240122,
+                        51.833498
+                  ]
+            },
+            {
+                  "name": "Friedensplatz",
+                  "text": "A public square and park area located in the heart of Dessau.",
+                  "category": "park",
+                  "coords": [
+                        12.238365,
+                        51.837269
+                  ]
+            },
+            {
+                  "name": "Kühnauer Park",
+                  "text": "Landscape park in Dessau, forming part of the Dessau-Wörlitz Garden Realm.",
+                  "category": "park",
+                  "coords": [
+                        12.190462,
+                        51.851367
                   ]
             }
       ],
