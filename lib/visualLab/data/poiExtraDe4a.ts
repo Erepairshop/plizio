@@ -77,37 +77,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Goethes Wohnhaus",
                   "text": "Das barocke Haus am Frauenplan war fast 50 Jahre lang der Wohn- und Wirkungsort des großen Dichters Goethe.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.3286,
+                        50.9775
+                  ]
             },
             {
                   "name": "Schillers Wohnhaus",
                   "text": "Friedrich Schiller verbrachte hier seine letzten Lebensjahre und vollendete bedeutende Werke wie den Wilhelm Tell.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.327817,
+                        50.979124
+                  ]
             },
             {
                   "name": "Herzogin Anna Amalia Bibliothek",
                   "text": "Berühmt für ihren prachtvollen Rokoko-Saal beherbergt sie eine einzigartige Sammlung deutscher Literatur.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.332222,
+                        50.978611
+                  ]
             },
             {
                   "name": "Park an der Ilm",
                   "text": "Ein weitläufiger Landschaftspark am Rande der Altstadt mit Goethes Gartenhaus als malerischem Höhepunkt.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.3344,
+                        50.9747
+                  ]
             },
             {
                   "name": "Bauhaus-Museum",
                   "text": "Das moderne Museum zeigt die Anfänge der einflussreichsten Designschule des 20. Jahrhunderts in ihrem Gründungsort.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.326111,
+                        50.98
+                  ]
             },
             {
                   "name": "Schloss Belvedere",
                   "text": "Eine barocke Sommerresidenz mit weitläufiger Parkanlage und Orangerie im Süden der Kulturstadt Weimar.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.348522,
+                        50.948764
+                  ]
             }
       ],
       "hu": [
@@ -115,37 +139,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Goethe lakóháza",
                   "text": "A Frauenplanon álló barokk ház, ahol a nagy német költő közel 50 évig élt, ma népszerű múzeum.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.3286,
+                        50.9775
+                  ]
             },
             {
                   "name": "Schiller lakóháza",
                   "text": "Friedrich Schiller ebben a házban töltötte utolsó éveit, és itt alkotta meg élete több fontos művét.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.327817,
+                        50.979124
+                  ]
             },
             {
                   "name": "Anna Amalia Hercegnő Könyvtár",
                   "text": "Világhírű történelmi könyvtár, amelynek rokokó terme a német klasszicizmus egyik legszebb emléke.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.332222,
+                        50.978611
+                  ]
             },
             {
                   "name": "Park az Ilm partján",
                   "text": "Hatalmas tájképi kert az óváros szélén, ahol Goethe kerti háza és több romantikus emlékhely található.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.3344,
+                        50.9747
+                  ]
             },
             {
                   "name": "Bauhaus-múzeum",
                   "text": "A 20. század legfontosabb művészeti iskolájának korai éveit bemutató modern gyűjtemény Weimarban.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.326111,
+                        50.98
+                  ]
             },
             {
                   "name": "Belvedere-kastély",
                   "text": "Barokk nyári rezidencia Weimar déli részén, hatalmas parkkal, narancsházzal és elegáns pavilonokkal.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.348522,
+                        50.948764
+                  ]
             }
       ],
       "ro": [
@@ -153,37 +201,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Casa lui Goethe",
                   "text": "Locuința barocă unde Johann Wolfgang von Goethe a trăit timp de aproape 50 de ani, acum muzeu național.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.3286,
+                        50.9775
+                  ]
             },
             {
                   "name": "Casa lui Schiller",
                   "text": "Casa în care Friedrich Schiller și-a petrecut ultimii ani de viață și unde a scris lucrări fundamentale.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.327817,
+                        50.979124
+                  ]
             },
             {
                   "name": "Biblioteca Ducesei Anna Amalia",
                   "text": "Renumită pentru sala sa rococo spectaculoasă, biblioteca păstrează o colecție vastă de literatură germană.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.332222,
+                        50.978611
+                  ]
             },
             {
                   "name": "Parcul de pe râul Ilm",
                   "text": "Un parc peisagistic vast care include casa de grădină a lui Goethe și numeroase monumente istorice.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.3344,
+                        50.9747
+                  ]
             },
             {
                   "name": "Muzeul Bauhaus",
                   "text": "Expoziția prezintă începuturile școlii revoluționare de design fondată la Weimar în anul 1919.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.326111,
+                        50.98
+                  ]
             },
             {
                   "name": "Castelul Belvedere",
                   "text": "O reședință barocă de vară impresionantă, înconjurată de parcuri vaste și o grădină botanică cu oranjerie.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.348522,
+                        50.948764
+                  ]
             }
       ],
       "en": [
@@ -191,37 +263,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Goethe's House",
                   "text": "The baroque residence where Johann Wolfgang von Goethe lived for 50 years, now a major literary museum.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.3286,
+                        50.9775
+                  ]
             },
             {
                   "name": "Schiller's House",
                   "text": "The former home of Friedrich Schiller where he wrote many of his famous dramas during his final years.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.327817,
+                        50.979124
+                  ]
             },
             {
                   "name": "Anna Amalia Library",
                   "text": "A UNESCO World Heritage site famous for its magnificent Rococo Hall and its vast historical book collection.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.332222,
+                        50.978611
+                  ]
             },
             {
                   "name": "Park on the Ilm",
                   "text": "A sprawling 48-hectare landscape garden designed according to the ideals of classicism and romanticism.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.3344,
+                        50.9747
+                  ]
             },
             {
                   "name": "Bauhaus Museum",
                   "text": "This modern museum explores the revolutionary design concepts developed in Weimar between 1919 and 1925.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.326111,
+                        50.98
+                  ]
             },
             {
                   "name": "Belvedere Castle",
                   "text": "An elegant baroque summer palace situated on a hill south of Weimar, surrounded by an English garden.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.348522,
+                        50.948764
+                  ]
             }
       ]
 }
@@ -638,37 +734,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Wartburg",
                   "text": "Die UNESCO-Welterbestätte ist eng mit Martin Luther, der heiligen Elisabeth und der deutschen Geschichte verbunden.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.306389,
+                        50.966111
+                  ]
             },
             {
                   "name": "Bachhaus",
                   "text": "Das erste Museum weltweit für Johann Sebastian Bach befindet sich an seinem Geburtsort in einem historischen Bürgerhaus.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.322611,
+                        50.971492
+                  ]
             },
             {
                   "name": "Lutherhaus",
                   "text": "In diesem prachtvollen Fachwerkhaus wohnte Martin Luther als Lateinschüler bei der Familie Cotta.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.320157,
+                        50.973265
+                  ]
             },
             {
                   "name": "Drachenschlucht",
                   "text": "Ein faszinierendes Naturdenkmal im Thüringer Wald, bei dem Wanderwege durch sehr enge Felsspalten führen.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.3081,
+                        50.9456
+                  ]
             },
             {
                   "name": "Burschenschaftsdenkmal",
                   "text": "Ein imposantes Monument auf der Göpelskuppe zur Erinnerung an die Einheitsbestrebungen der deutschen Studenten.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.3351,
+                        50.9666
+                  ]
             },
             {
                   "name": "Automobile Welt Eisenach",
                   "text": "Das Museum zeigt die über 100-jährige Tradition des Fahrzeugbaus in Eisenach von Wartburg bis Opel.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.325,
+                        50.9811
+                  ]
             }
       ],
       "hu": [
@@ -676,37 +796,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Wartburg vára",
                   "text": "UNESCO Világörökség, ahol Luther Márton száműzetése alatt németre fordította az Újszövetséget.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.306389,
+                        50.966111
+                  ]
             },
             {
                   "name": "Bach-ház",
                   "text": "A világ első Johann Sebastian Bachnak szentelt múzeuma, a zeneszerző szülővárosában található.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.322611,
+                        50.971492
+                  ]
             },
             {
                   "name": "Luther-ház",
                   "text": "Türingia egyik legrégebbi fagerendás háza, ahol Luther Márton diákévei alatt lakott.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.320157,
+                        50.973265
+                  ]
             },
             {
                   "name": "Sárkány-szurdok",
                   "text": "Látványos természeti képződmény Eisenach közelében, ahol a túraútvonal szűk sziklafalak között halad.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.3081,
+                        50.9456
+                  ]
             },
             {
                   "name": "Diákszövetségi emlékmű",
                   "text": "A Göpelskuppe dombon álló hatalmas emlékmű a német egységért küzdő diákszövetségek tiszteletére.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.3351,
+                        50.9666
+                  ]
             },
             {
                   "name": "Autóvilág Eisenach",
                   "text": "A város gazdag autógyártási múltját bemutató múzeum, a legendás Wartburg autóktól a modern Opelig.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.325,
+                        50.9811
+                  ]
             }
       ],
       "ro": [
@@ -714,37 +858,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Castelul Wartburg",
                   "text": "Un sit UNESCO faimos unde Martin Luther a tradus Noul Testament în limba germană în secolul al XVI-lea.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.306389,
+                        50.966111
+                  ]
             },
             {
                   "name": "Casa lui Bach",
                   "text": "Primul muzeu din lume dedicat lui Johann Sebastian Bach, situat într-o casă istorică din orașul natal al compozitorului.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.322611,
+                        50.971492
+                  ]
             },
             {
                   "name": "Casa lui Luther",
                   "text": "Una dintre cele mai vechi case cu structură din lemn din Turingia, unde a locuit tânărul Martin Luther.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.320157,
+                        50.973265
+                  ]
             },
             {
                   "name": "Defileul Dragonului",
                   "text": "O atracție naturală spectaculoasă în Pădurea Turingiei, cu trasee prin pasaje înguste între stânci înalte.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.3081,
+                        50.9456
+                  ]
             },
             {
                   "name": "Monumentul Frățiilor Studențești",
                   "text": "Un monument masiv situat pe un deal, dedicat mișcării studențești germane pentru unitate națională.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.3351,
+                        50.9666
+                  ]
             },
             {
                   "name": "Lumea Automobilelor Eisenach",
                   "text": "Muzeul documentează tradiția centenară de fabricare a mașinilor în Eisenach, inclusiv marca Wartburg.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.325,
+                        50.9811
+                  ]
             }
       ],
       "en": [
@@ -752,37 +920,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Wartburg Castle",
                   "text": "A UNESCO World Heritage castle where Martin Luther translated the New Testament while in hiding.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.306389,
+                        50.966111
+                  ]
             },
             {
                   "name": "Bach House",
                   "text": "The world's first museum dedicated to Johann Sebastian Bach, located in the town where he was born in 1685.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.322611,
+                        50.971492
+                  ]
             },
             {
                   "name": "Luther House",
                   "text": "One of the oldest half-timbered houses in Thuringia, where the reformer Martin Luther lived as a student.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.320157,
+                        50.973265
+                  ]
             },
             {
                   "name": "Dragon's Gorge",
                   "text": "A spectacular geological formation offering a narrow hiking path between towering mossy rock walls.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.3081,
+                        50.9456
+                  ]
             },
             {
                   "name": "Burschenschaftsdenkmal",
                   "text": "A massive monument on the Göpelskuppe hill commemorating the German student fraternity movement.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.3351,
+                        50.9666
+                  ]
             },
             {
                   "name": "Automobile World Eisenach",
                   "text": "Explore over 100 years of car manufacturing history, from early Dixi models to the GDR's iconic Wartburg.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.325,
+                        50.9811
+                  ]
             }
       ]
 }
@@ -1063,37 +1255,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Schloss Friedenstein",
                   "text": "Das imposante frühbarocke Schloss aus dem 17. Jahrhundert beherbergt das Ekhof-Theater und umfangreiche Kunstsammlungen.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.7044,
+                        50.9458
+                  ]
             },
             {
                   "name": "Herzogliches Museum",
                   "text": "Ein prachtvoller Bau gegenüber dem Schloss, der hochrangige Sammlungen von antiker Kunst bis zu modernen Gemälden zeigt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70572,
+                        50.94354
+                  ]
             },
             {
                   "name": "Ekhof-Theater",
                   "text": "Das älteste barocke Theater der Welt mit noch funktionierender hölzerner Bühnenmaschinerie befindet sich im Schloss Friedenstein.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.704219,
+                        50.945003
+                  ]
             },
             {
                   "name": "Margarethenkirche",
                   "text": "Die spätgotische Hallenkirche am Neumarkt dient seit Jahrhunderten als geistliches Zentrum und Grablege der Ernestiner.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.705,
+                        50.9502
+                  ]
             },
             {
                   "name": "Orangerie Gotha",
                   "text": "Eine weitläufige barocke Gartenanlage mit Treibhäusern, die einst für die herzogliche Sammlung exotischer Pflanzen errichtet wurde.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70893,
+                        50.94681
+                  ]
             },
             {
                   "name": "Altes Rathaus",
                   "text": "Das Renaissance-Rathaus am Hauptmarkt besticht durch seine rote Fassade und den markanten Turm im Herzen der historischen Altstadt.",
                   "category": "rathaus",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70165,
+                        50.949
+                  ]
             }
       ],
       "hu": [
@@ -1101,37 +1317,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Friedenstein-kastély",
                   "text": "Németország legnagyobb kora barokk kastélyegyüttese, amely a híres Ekhof-színháznak és jelentős művészeti gyűjteményeknek ad otthont.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.7044,
+                        50.9458
+                  ]
             },
             {
                   "name": "Hercegi Múzeum",
                   "text": "A kastéllyal szemben található pompás épület antik műtárgyakat, egyiptomi kincseket és európai festményeket mutat be.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70572,
+                        50.94354
+                  ]
             },
             {
                   "name": "Ekhof-színház",
                   "text": "A világ legrégebbi barokk színháza, amelynek eredeti fa színpadtechnikája a mai napig működőképes és megtekinthető.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.704219,
+                        50.945003
+                  ]
             },
             {
                   "name": "Szent Margit-templom",
                   "text": "Gotha egyik legrégebbi épülete, egy késő gótikus csarnoktemplom, amely az Ernestin-ház fejedelmeinek temetkezési helye is.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.705,
+                        50.9502
+                  ]
             },
             {
                   "name": "Oranzséria",
                   "text": "Gyönyörű barokk kertrendszer üvegházakkal, ahol korábban egzotikus növényeket termesztettek a hercegi udvar számára.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70893,
+                        50.94681
+                  ]
             },
             {
                   "name": "Régi Városháza",
                   "text": "A főtéren álló reneszánsz épület piros homlokzatával és díszes tornyával a város történelmi központjának meghatározó látványa.",
                   "category": "rathaus",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70165,
+                        50.949
+                  ]
             }
       ],
       "ro": [
@@ -1139,37 +1379,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Castelul Friedenstein",
                   "text": "Cel mai mare ansamblu de palate baroce timpurii din Germania, adăpostind teatrul istoric Ekhof și colecții de artă valoroase.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.7044,
+                        50.9458
+                  ]
             },
             {
                   "name": "Muzeul Ducal",
                   "text": "O clădire magnifică situată vizavi de castel, ce expune colecții de artă antică, antichități egiptene și picturi europene.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70572,
+                        50.94354
+                  ]
             },
             {
                   "name": "Teatrul Ekhof",
                   "text": "Cel mai vechi teatru baroc din lume cu mașinărie de scenă din lemn originală și încă funcțională, aflat în incinta castelului.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.704219,
+                        50.945003
+                  ]
             },
             {
                   "name": "Biserica Sfânta Margareta",
                   "text": "O biserică-hală în stil gotic târziu, situată în piața centrală, fiind locul de odihnă veșnică al multor duci de Saxa-Gotha.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.705,
+                        50.9502
+                  ]
             },
             {
                   "name": "Oranjeria Gotha",
                   "text": "O grădină barocă spectaculoasă cu sere istorice, construită inițial pentru a găzdui colecția de plante exotice a ducilor.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70893,
+                        50.94681
+                  ]
             },
             {
                   "name": "Primăria Veche",
                   "text": "Edificiul renascentist din piața principală atrage privirile prin fațada sa roșie și turnul zvelt, marcând inima orașului vechi.",
                   "category": "rathaus",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70165,
+                        50.949
+                  ]
             }
       ],
       "en": [
@@ -1177,37 +1441,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Friedenstein Castle",
                   "text": "Germany's largest early Baroque palace complex, home to the historic Ekhof Theatre and vast art and history collections.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.7044,
+                        50.9458
+                  ]
             },
             {
                   "name": "Ducal Museum",
                   "text": "A magnificent building opposite the castle housing high-ranking collections of ancient art, Egyptian artifacts, and paintings.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70572,
+                        50.94354
+                  ]
             },
             {
                   "name": "Ekhof Theatre",
                   "text": "The oldest Baroque theatre in the world with original, still functioning wooden stage machinery, located inside the castle.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.704219,
+                        50.945003
+                  ]
             },
             {
                   "name": "St. Margaret's Church",
                   "text": "A late Gothic hall church on the Neumarkt that has served as the spiritual center and burial site for the local nobility.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.705,
+                        50.9502
+                  ]
             },
             {
                   "name": "Gotha Orangery",
                   "text": "An extensive Baroque garden system with greenhouses once used to house the ducal collection of exotic plants.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70893,
+                        50.94681
+                  ]
             },
             {
                   "name": "Old Town Hall",
                   "text": "The Renaissance town hall on the main market square features a striking red facade and a distinctive tower in the old town.",
                   "category": "rathaus",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.70165,
+                        50.949
+                  ]
             }
       ]
 }
@@ -1697,37 +1985,51 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Deutsches Auswandererhaus",
                   "text": "Ein preisgekröntes Erlebnismuseum, das die Geschichte der deutschen Auswanderung nach Amerika eindrucksvoll nachzeichnet.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.57417,
+                        53.5453
+                  ]
             },
             {
                   "name": "Klimahaus Bremerhaven 8° Ost",
                   "text": "Eine weltweit einzigartige Wissens- und Erlebniswelt, die Besucher entlang des 8. Längengrades durch verschiedene Klimazonen führt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5744,
+                        53.5434
+                  ]
             },
             {
                   "name": "Deutsches Schifffahrtsmuseum",
                   "text": "Das nationale Schifffahrtsmuseum zeigt maritime Geschichte, darunter die berühmte Bremer Kogge aus dem Jahr 1380.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.577003,
+                        53.540058
+                  ]
             },
             {
                   "name": "Zoo am Meer",
                   "text": "Ein spezialisierter Themenzoo direkt am Deich, der vor allem nordische und wasserlebende Tierarten wie Eisbären zeigt.",
                   "category": "park",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Museumshafen",
-                  "text": "Im historischen Hafenbecken liegen zahlreiche Oldtimer-Schiffe, darunter ein U-Boot und verschiedene Segelschiffe.",
-                  "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.57028,
+                        53.5447
+                  ]
             },
             {
                   "name": "Pingelturm",
                   "text": "Der historische Leuchtturm mit Nebelglocke am Kaiserhafen ist ein markantes maritimes Denkmal der Stadtgeschichte.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.559953,
+                        53.553612
+                  ]
             }
       ],
       "hu": [
@@ -1735,37 +2037,51 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Német Kivándorlási Központ",
                   "text": "Díjnyertes élménymúzeum, amely interaktív módon mutatja be a Németországból Amerikába tartó kivándorlás történetét.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.57417,
+                        53.5453
+                  ]
             },
             {
                   "name": "Klímaház Bremerhaven",
                   "text": "Egyedülálló kiállítás, ahol a látogatók a 8. hosszúsági fok mentén utazva ismerhetik meg a Föld különböző klímazónáit.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5744,
+                        53.5434
+                  ]
             },
             {
                   "name": "Német Hajózási Múzeum",
                   "text": "Nemzeti múzeum, amely a tengerészet történetét mutatja be, legfontosabb kincse egy 1380-ból származó bresmai kogge hajó.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.577003,
+                        53.540058
+                  ]
             },
             {
                   "name": "Zoo am Meer",
                   "text": "Közvetlenül a gáton található állatkert, amely elsősorban északi és vízi állatokra, például jegesmedvékre specializálódott.",
                   "category": "park",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Múzeumi Kikötő",
-                  "text": "A történelmi kikötőmedencében számos veterán hajó horgonyoz, köztük egy tengeralattjáró és több vitorlás is megtekinthető.",
-                  "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.57028,
+                        53.5447
+                  ]
             },
             {
                   "name": "Pingel-torony",
                   "text": "A császári kikötőnél álló történelmi világítótorony és ködharang a város tengerészeti múltjának egyik fontos emléke.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.559953,
+                        53.553612
+                  ]
             }
       ],
       "ro": [
@@ -1773,37 +2089,51 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Centrul German de Emigrare",
                   "text": "Un muzeu interactiv premiat care urmărește istoria emigrării germane către America prin experiențe personale captivante.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.57417,
+                        53.5453
+                  ]
             },
             {
                   "name": "Klimahaus Bremerhaven",
                   "text": "O lume unică a cunoașterii care conduce vizitatorii prin diferite zone climatice ale lumii de-a lungul meridianului 8 est.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5744,
+                        53.5434
+                  ]
             },
             {
                   "name": "Muzeul Național al Navigației",
                   "text": "Găzduiește istoria maritimă a Germaniei, inclusiv celebra navă 'Kogge' din Bremen, datând din anul 1380.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.577003,
+                        53.540058
+                  ]
             },
             {
                   "name": "Zoo am Meer",
                   "text": "O grădină zoologică tematică situată pe dig, specializată în specii nordice și acvatice, precum urșii polari și focile.",
                   "category": "park",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Portul Muzeu",
-                  "text": "În bazinul istoric al portului sunt ancorate numeroase nave de epocă, inclusiv un submarin și diverse ambarcațiuni cu pânze.",
-                  "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.57028,
+                        53.5447
+                  ]
             },
             {
                   "name": "Pingelturm",
                   "text": "Turnul istoric cu clopot de ceață de la intrarea în portul Kaiser este un simbol maritim important al orașului.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.559953,
+                        53.553612
+                  ]
             }
       ],
       "en": [
@@ -1811,37 +2141,51 @@ export const poiExtraDe4a: POI[] = [
                   "name": "German Emigration Center",
                   "text": "An award-winning interactive museum that traces the emotional history of German emigration to America over the centuries.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.57417,
+                        53.5453
+                  ]
             },
             {
                   "name": "Klimahaus Bremerhaven",
                   "text": "A unique science center that takes visitors on a journey through different climate zones along the 8th degree of longitude.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5744,
+                        53.5434
+                  ]
             },
             {
                   "name": "German Maritime Museum",
                   "text": "The national maritime museum showcasing sea travel history, featuring the famous 1380 Hanseatic cog ship.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.577003,
+                        53.540058
+                  ]
             },
             {
                   "name": "Zoo am Meer",
                   "text": "A specialized zoo located directly on the sea wall, focusing on Nordic and aquatic animals like polar bears and seals.",
                   "category": "park",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Museum Port",
-                  "text": "The historic harbor basin features numerous vintage vessels, including a decommissioned submarine and several sailing ships.",
-                  "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.57028,
+                        53.5447
+                  ]
             },
             {
                   "name": "Pingelturm",
                   "text": "A historic lighthouse with a fog bell located at the Kaiserhafen, standing as a landmark of the city's maritime heritage.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.559953,
+                        53.553612
+                  ]
             }
       ]
 }
@@ -2188,37 +2532,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Kunsthalle Bremen",
                   "text": "Eines der bedeutendsten Kunstmuseen Deutschlands mit Werken vom 14. Jahrhundert bis zur zeitgenössischen Kunst.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.813528,
+                        53.072889
+                  ]
             },
             {
                   "name": "Theater am Goetheplatz",
                   "text": "Das Haupthaus des Bremer Theaters besticht durch seine klassizistische Architektur und ein vielfältiges Programm.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.816786,
+                        53.072393
+                  ]
             },
             {
                   "name": "Ostertorsteinweg",
                   "text": "Die lebendige Hauptstraße des Viertels, bekannt für ihre vielen kleinen Läden, Cafés, Kinos und die alternative Szene.",
                   "category": "altstadt",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.82306,
+                        53.0728
+                  ]
             },
             {
                   "name": "Gerhard-Marcks-Haus",
                   "text": "Ein Museum für moderne Bildhauerei, das dem Werk des bedeutenden Bildhauers Gerhard Marcks gewidmet ist.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.81462,
+                        53.0727
+                  ]
             },
             {
                   "name": "Wilhelm-Wagenfeld-Haus",
                   "text": "Das Design-Museum im ehemaligen Detentionshaus zeigt Ausstellungen zur Alltagskultur und Gestaltung des 20. Jahrhunderts.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.81485,
+                        53.073
+                  ]
             },
             {
                   "name": "Osterdeich",
                   "text": "Die beliebte Grünanlage am Weserufer bietet viel Platz zum Entspannen und ist ein Treffpunkt für Anwohner und Besucher.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.83967,
+                        53.0676
+                  ]
             }
       ],
       "hu": [
@@ -2226,37 +2594,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Brémai Műcsarnok",
                   "text": "Németország egyik legfontosabb művészeti múzeuma, amely a 14. századtól napjainkig őriz kiemelkedő alkotásokat.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.813528,
+                        53.072889
+                  ]
             },
             {
                   "name": "Goetheplatz Színház",
                   "text": "A brémai színház központi épülete, amely klasszicista stílusával és változatos repertoárjával a város kulturális szíve.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.816786,
+                        53.072393
+                  ]
             },
             {
                   "name": "Ostertorsteinweg",
                   "text": "A negyed pezsgő főutcája, amely számos kis üzletéről, hangulatos kávézóiról, mozijairól és alternatív hangulatáról ismert.",
                   "category": "altstadt",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.82306,
+                        53.0728
+                  ]
             },
             {
                   "name": "Gerhard-Marcks-ház",
                   "text": "A modern szobrászatnak szentelt múzeum, amely Gerhard Marcks szobrászművész hagyatékát és kortárs alkotásokat mutat be.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.81462,
+                        53.0727
+                  ]
             },
             {
                   "name": "Wilhelm-Wagenfeld-ház",
                   "text": "Egykori börtönépületben kialakított dizájnmúzeum, amely a 20. századi mindennapi kultúra és formatervezés világát tárja fel.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.81485,
+                        53.073
+                  ]
             },
             {
                   "name": "Osterdeich",
                   "text": "A Weser folyó partján húzódó népszerű zöldterület, ahol a helyiek pihennek, sportolnak vagy a naplementét élvezik.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.83967,
+                        53.0676
+                  ]
             }
       ],
       "ro": [
@@ -2264,37 +2656,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Galeria de Artă Bremen",
                   "text": "Unul dintre cele mai importante muzee de artă din Germania, cu opere din secolul al XIV-lea până în prezent.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.813528,
+                        53.072889
+                  ]
             },
             {
                   "name": "Teatrul de la Goetheplatz",
                   "text": "Clădirea principală a teatrului din Bremen, impresionantă prin arhitectura sa clasicistă și programul cultural divers.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.816786,
+                        53.072393
+                  ]
             },
             {
                   "name": "Ostertorsteinweg",
                   "text": "Strada principală plină de viață a cartierului, cunoscută pentru magazinele mici, cafenelele și atmosfera sa boemă.",
                   "category": "altstadt",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.82306,
+                        53.0728
+                  ]
             },
             {
                   "name": "Casa Gerhard Marcks",
                   "text": "Un muzeu dedicat sculpturii moderne, axat pe opera sculptorului Gerhard Marcks și pe arta contemporană.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.81462,
+                        53.0727
+                  ]
             },
             {
                   "name": "Casa Wilhelm Wagenfeld",
                   "text": "Muzeu de design situat într-o fostă închisoare, prezentând expoziții despre cultura cotidiană și estetica secolului XX.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.81485,
+                        53.073
+                  ]
             },
             {
                   "name": "Osterdeich",
                   "text": "Zonă verde populară pe malul râului Weser, locul ideal pentru plimbări, relaxare și evenimente în aer liber.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.83967,
+                        53.0676
+                  ]
             }
       ],
       "en": [
@@ -2302,37 +2718,61 @@ export const poiExtraDe4a: POI[] = [
                   "name": "Kunsthalle Bremen",
                   "text": "One of Germany's most important art museums, housing masterpieces from the 14th century to contemporary works.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.813528,
+                        53.072889
+                  ]
             },
             {
                   "name": "Theatre at Goetheplatz",
                   "text": "The main venue of the Bremen Theatre, featuring neoclassical architecture and a wide range of performances.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.816786,
+                        53.072393
+                  ]
             },
             {
                   "name": "Ostertorsteinweg",
                   "text": "The vibrant main street of 'Das Viertel', famous for its independent shops, cozy cafes, and alternative nightlife.",
                   "category": "altstadt",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.82306,
+                        53.0728
+                  ]
             },
             {
                   "name": "Gerhard Marcks House",
                   "text": "A museum for modern sculpture dedicated to the work of Gerhard Marcks and the exploration of modern artistic forms.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.81462,
+                        53.0727
+                  ]
             },
             {
                   "name": "Wilhelm Wagenfeld House",
                   "text": "Located in a former detention center, this design museum focuses on 20th-century everyday culture and industrial design.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.81485,
+                        53.073
+                  ]
             },
             {
                   "name": "Osterdeich",
                   "text": "A popular green embankment along the Weser river, serving as a social hub for relaxation and recreation.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.83967,
+                        53.0676
+                  ]
             }
       ]
 }

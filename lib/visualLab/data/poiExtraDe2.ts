@@ -55,31 +55,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Marburger Schloss",
                   "text": "Das Landgrafenschloss thront hoch über der Stadt und beherbergt heute das Museum für Kunst und Kulturgeschichte.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.767,
+                        50.810194
+                  ]
             },
             {
                   "name": "Elisabethkirche",
                   "text": "Die bedeutende gotische Hallenkirche wurde über dem Grab der heiligen Elisabeth errichtet und ist ein wichtiges Pilgerziel.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.769722,
+                        50.815
+                  ]
             },
             {
                   "name": "Marburger Oberstadt",
                   "text": "Die historische Altstadt ist geprägt von steilen Treppen, schmalen Gassen und prächtigen Fachwerkhäusern aus vielen Jahrhunderten.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.761188,
+                        50.807984
+                  ]
             },
             {
                   "name": "Historisches Rathaus",
                   "text": "Das spätgotische Rathaus am Marktplatz ist berühmt für seinen Kunstuhr-Gockel, der zu jeder vollen Stunde mit den Flügeln schlägt.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.770644,
+                        50.808704
+                  ]
             },
             {
                   "name": "Spiegelslustturm",
                   "text": "Der Aussichtsturm auf den Lahnbergen bietet einen weitreichenden Blick über Marburg und das umliegende hessische Bergland.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.78899,
+                        50.815
+                  ]
             },
             {
                   "name": "Alter Botanischer Garten",
@@ -93,25 +113,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Marburgi vár",
                   "text": "A tartományi grófi kastély magasan a város felett trónol, ma pedig művészeti és kultúrtörténeti múzeumnak ad otthont.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.767,
+                        50.810194
+                  ]
             },
             {
                   "name": "Szent Erzsébet-templom",
                   "text": "Ez a jelentős gótikus csarnoktemplom Árpád-házi Szent Erzsébet sírja fölé épült, és fontos zarándokhely.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.769722,
+                        50.815
+                  ]
             },
             {
                   "name": "Marburgi felsőváros",
                   "text": "A történelmi óvárost meredek lépcsők, szűk sikátorok és pompás, több évszázados favázas házak jellemzik.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.761188,
+                        50.807984
+                  ]
             },
             {
                   "name": "Történelmi városháza",
                   "text": "A piactéren álló késő gótikus városháza híres a mechanikus kakasáról, amely minden órában meglebbenti szárnyait.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.770644,
+                        50.808704
+                  ]
             }
       ],
       "ro": [
@@ -119,25 +155,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Castelul din Marburg",
                   "text": "Castelul landgrafilor domină orașul de la înălțime și găzduiește astăzi Muzeul de Artă și Istorie Culturală.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.767,
+                        50.810194
+                  ]
             },
             {
                   "name": "Biserica Sfânta Elisabeta",
                   "text": "Această biserică gotică importantă a fost ridicată peste mormântul Sfintei Elisabeta și este un loc esențial de pelerinaj.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.769722,
+                        50.815
+                  ]
             },
             {
                   "name": "Orașul de Sus din Marburg",
                   "text": "Centrul istoric este caracterizat de scări abrupte, străzi înguste și case superbe din bârne de lemn din diverse secole.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.761188,
+                        50.807984
+                  ]
             },
             {
                   "name": "Primăria Istorică",
                   "text": "Primăria gotică târzie din piața centrală este celebră pentru cocoșul său mecanic care bate din aripi la fiecare oră fixă.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.770644,
+                        50.808704
+                  ]
             }
       ],
       "en": [
@@ -145,43 +197,106 @@ export const poiExtraDe2: POI[] = [
                   "name": "Marburg Castle",
                   "text": "The Landgrave Castle sits high above the city and now houses the Museum of Art and Cultural History.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.767,
+                        50.810194
+                  ]
             },
             {
                   "name": "St. Elizabeth's Church",
                   "text": "This significant Gothic hall church was built over the tomb of Saint Elizabeth and serves as an important pilgrimage site.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.769722,
+                        50.815
+                  ]
             },
             {
                   "name": "Marburg Upper Town",
                   "text": "The historic old town is characterized by steep stairs, narrow alleys, and magnificent half-timbered houses spanning centuries.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.761188,
+                        50.807984
+                  ]
             },
             {
                   "name": "Historic Town Hall",
                   "text": "Located on the market square, this late Gothic town hall is famous for its mechanical rooster that flaps its wings every hour.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.770644,
+                        50.808704
+                  ]
             },
             {
                   "name": "Spiegelslust Tower",
                   "text": "This observation tower on the Lahn hills offers a wide view over Marburg and the surrounding Hessian highlands.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.78899,
+                        50.815
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Marburger Şatosu",
+                  "text": "Şehrin üzerinde yükselen bu şato, günümüzde Sanat ve Kültür Tarihi Müzesi'ne ev sahipliği yapmaktadır.",
+                  "category": "castle",
+                  "coords": [
+                        8.767,
+                        50.810194
+                  ]
+            },
+            {
+                  "name": "Elisabeth Kilisesi",
+                  "text": "Azize Elisabeth'in mezarı üzerine inşa edilen bu önemli Gotik kilise, mühim bir hac merkezidir.",
+                  "category": "church",
+                  "coords": [
+                        8.769722,
+                        50.815
+                  ]
+            },
+            {
+                  "name": "Marburger Oberstadt",
+                  "text": "Tarihi eski şehir; dik merdivenleri, dar sokakları ve görkemli yarı ahşap evleriyle karakterize edilir.",
+                  "category": "old-town",
+                  "coords": [
+                        8.761188,
+                        50.807984
+                  ]
+            },
+            {
+                  "name": "Tarihi Belediye Binası",
+                  "text": "Pazar meydanındaki Geç Gotik bina, her saat başı kanat çırpan mekanik horozuyla ünlüdür.",
+                  "category": "town-hall",
+                  "coords": [
+                        8.770644,
+                        50.808704
+                  ]
+            },
+            {
+                  "name": "Spiegelslust Kulesi",
+                  "text": "Lahn dağlarındaki bu seyir kulesi, Marburg ve çevresindeki Hessen dağlık bölgesi üzerinde geniş bir manzara sunar.",
+                  "category": "tower",
+                  "coords": [
+                        8.78899,
+                        50.815
+                  ]
+            },
+            {
+                  "name": "Eski Botanik Bahçesi",
+                  "text": "Şehir merkezindeki bu yeşil vaha, 19. yüzyılda kurulmuş olup nadir bitkilere ve yaşlı ağaçlara ev sahipliği yapar.",
+                  "category": "park"
             }
       ]
-,
-      "tr": [
-        { "name": "Marburger Şatosu", "text": "Şehrin üzerinde yükselen bu şato, günümüzde Sanat ve Kültür Tarihi Müzesi'ne ev sahipliği yapmaktadır.", "category": "castle" },
-        { "name": "Elisabeth Kilisesi", "text": "Azize Elisabeth'in mezarı üzerine inşa edilen bu önemli Gotik kilise, mühim bir hac merkezidir.", "category": "church" },
-        { "name": "Marburger Oberstadt", "text": "Tarihi eski şehir; dik merdivenleri, dar sokakları ve görkemli yarı ahşap evleriyle karakterize edilir.", "category": "old-town" },
-        { "name": "Tarihi Belediye Binası", "text": "Pazar meydanındaki Geç Gotik bina, her saat başı kanat çırpan mekanik horozuyla ünlüdür.", "category": "town-hall" },
-        { "name": "Spiegelslust Kulesi", "text": "Lahn dağlarındaki bu seyir kulesi, Marburg ve çevresindeki Hessen dağlık bölgesi üzerinde geniş bir manzara sunar.", "category": "tower" },
-        { "name": "Eski Botanik Bahçesi", "text": "Şehir merkezindeki bu yeşil vaha, 19. yüzyılda kurulmuş olup nadir bitkilere ve yaşlı ağaçlara ev sahipliği yapar.", "category": "park" }
-      ]
-    }
+}
   },
   {
     id: "mnt-taunus-extra",
@@ -603,31 +718,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Mathematikum",
                   "text": "Das erste mathematische Mitmach-Museum der Welt bietet interaktive Experimente für Besucher jeden Alters.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.665756,
+                        50.581193
+                  ]
             },
             {
                   "name": "Botanischer Garten Gießen",
                   "text": "Der 1609 gegründete Garten ist der älteste botanische Garten Deutschlands, der sich noch an seinem ursprünglichen Standort befindet.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.67889,
+                        50.5864
+                  ]
             },
             {
                   "name": "Altes Schloss",
                   "text": "Das im 14. Jahrhundert errichtete Gebäude beherbergt heute die Gemäldegalerie des Oberhessischen Museums.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.676472,
+                        50.586844
+                  ]
             },
             {
                   "name": "Liebig-Museum",
                   "text": "Das Museum befindet sich in der ehemaligen Wirkungsstätte des Chemikers Justus von Liebig und zeigt dessen historisches Labor.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.666196,
+                        50.580839
+                  ]
             },
             {
                   "name": "Stadtkirchenturm",
                   "text": "Der freistehende Turm ist der einzige Überrest der im Zweiten Weltkrieg zerstörten Stadtkirche und ein Mahnmal.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.674182,
+                        50.587122
+                  ]
             },
             {
                   "name": "Schiffenberger Kloster",
@@ -641,25 +776,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Mathematikum",
                   "text": "A világ első matematikai élménymúzeuma interaktív kísérleteket kínál a látogatóknak minden korosztály számára.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.665756,
+                        50.581193
+                  ]
             },
             {
                   "name": "Gießeni Botanikus Kert",
                   "text": "Az 1609-ben alapított kert Németország legrégebbi botanikus kertje, amely ma is az eredeti helyén működik.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.67889,
+                        50.5864
+                  ]
             },
             {
                   "name": "Altes Schloss (Régi kastély)",
                   "text": "A 14. századi épület ma a Felső-Hesseni Múzeum képtárának ad otthont, bemutatva a régió művészeti kincseit.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.676472,
+                        50.586844
+                  ]
             },
             {
                   "name": "Liebig-múzeum",
                   "text": "A múzeum Justus von Liebig kémikus egykori munkahelyén található, és bemutatja eredeti történelmi laboratóriumát.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.666196,
+                        50.580839
+                  ]
             }
       ],
       "ro": [
@@ -667,25 +818,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Mathematikum",
                   "text": "Primul muzeu de matematică interactiv din lume oferă experimente captivante pentru vizitatori de toate vârstele.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.665756,
+                        50.581193
+                  ]
             },
             {
                   "name": "Grădina Botanică din Gießen",
                   "text": "Fondată în 1609, este cea mai veche grădină botanică din Germania care se află încă în locația sa originală.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.67889,
+                        50.5864
+                  ]
             },
             {
                   "name": "Castelul Vechi",
                   "text": "Clădirea ridicată în secolul XIV găzduiește astăzi galeria de pictură a Muzeului din Hesse Superioară.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.676472,
+                        50.586844
+                  ]
             },
             {
                   "name": "Muzeul Liebig",
                   "text": "Muzeul este situat în fosta locație de activitate a chimistului Justus von Liebig și prezintă laboratorul său istoric.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.666196,
+                        50.580839
+                  ]
             }
       ],
       "en": [
@@ -693,43 +860,106 @@ export const poiExtraDe2: POI[] = [
                   "name": "Mathematikum",
                   "text": "The world's first hands-on mathematics museum offers interactive experiments for visitors of all ages.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.665756,
+                        50.581193
+                  ]
             },
             {
                   "name": "Gießen Botanical Garden",
                   "text": "Founded in 1609, this is the oldest botanical garden in Germany still located on its original site.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.67889,
+                        50.5864
+                  ]
             },
             {
                   "name": "Old Castle",
                   "text": "Built in the 14th century, this historic building now houses the painting gallery of the Upper Hessian Museum.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.676472,
+                        50.586844
+                  ]
             },
             {
                   "name": "Liebig Museum",
                   "text": "Located in the former workplace of chemist Justus von Liebig, this museum features his well-preserved historic laboratory.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.666196,
+                        50.580839
+                  ]
             },
             {
                   "name": "Stadtkirche Tower",
                   "text": "This standalone tower is the only remnant of the town church destroyed in WWII and serves as a war memorial.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.674182,
+                        50.587122
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Mathematikum",
+                  "text": "Dünyanın ilk etkileşimli matematik müzesi, her yaştan ziyaretçi için uygulamalı deneyler sunmaktadır.",
+                  "category": "museum",
+                  "coords": [
+                        8.665756,
+                        50.581193
+                  ]
+            },
+            {
+                  "name": "Gießen Botanik Bahçesi",
+                  "text": "1609'da kurulan bahçe, Almanya'nın hala orijinal konumunda bulunan en eski botanik bahçesidir.",
+                  "category": "park",
+                  "coords": [
+                        8.67889,
+                        50.5864
+                  ]
+            },
+            {
+                  "name": "Eski Şato",
+                  "text": "14. yüzyılda inşa edilen bina, günümüzde Yukarı Hessen Müzesi'nin resim galerisine ev sahipliği yapmaktadır.",
+                  "category": "castle",
+                  "coords": [
+                        8.676472,
+                        50.586844
+                  ]
+            },
+            {
+                  "name": "Liebig Müzesi",
+                  "text": "Müze, kimyager Justus von Liebig'in eski çalışma yerinde bulunmakta ve tarihi laboratuvarını göstermektedir.",
+                  "category": "museum",
+                  "coords": [
+                        8.666196,
+                        50.580839
+                  ]
+            },
+            {
+                  "name": "Şehir Kilisesi Kulesi",
+                  "text": "Bu bağımsız kule, İkinci Dünya Savaşı'nda yıkılan şehir kilisesinden geriye kalan tek parça ve bir anıttır.",
+                  "category": "landmark",
+                  "coords": [
+                        8.674182,
+                        50.587122
+                  ]
+            },
+            {
+                  "name": "Schiffenberger Manastırı",
+                  "text": "Gießen'in yerel dağındaki eski manastır kompleksi, Romanesk bazilikasıyla popüler bir gezi noktasıdır.",
+                  "category": "historical"
             }
       ]
-,
-      "tr": [
-        { "name": "Mathematikum", "text": "Dünyanın ilk etkileşimli matematik müzesi, her yaştan ziyaretçi için uygulamalı deneyler sunmaktadır.", "category": "museum" },
-        { "name": "Gießen Botanik Bahçesi", "text": "1609'da kurulan bahçe, Almanya'nın hala orijinal konumunda bulunan en eski botanik bahçesidir.", "category": "park" },
-        { "name": "Eski Şato", "text": "14. yüzyılda inşa edilen bina, günümüzde Yukarı Hessen Müzesi'nin resim galerisine ev sahipliği yapmaktadır.", "category": "castle" },
-        { "name": "Liebig Müzesi", "text": "Müze, kimyager Justus von Liebig'in eski çalışma yerinde bulunmakta ve tarihi laboratuvarını göstermektedir.", "category": "museum" },
-        { "name": "Şehir Kilisesi Kulesi", "text": "Bu bağımsız kule, İkinci Dünya Savaşı'nda yıkılan şehir kilisesinden geriye kalan tek parça ve bir anıttır.", "category": "landmark" },
-        { "name": "Schiffenberger Manastırı", "text": "Gießen'in yerel dağındaki eski manastır kompleksi, Romanesk bazilikasıyla popüler bir gezi noktasıdır.", "category": "historical" }
-      ]
-    }
+}
   },
   {
     id: "mnt-rhoen-hessen-extra",
@@ -931,7 +1161,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJz_qbuLeTr0cR-H8jTX_wzU0",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.7919,
+                        52.4311
+                  ]
             },
             {
                   "name": "Phaeno",
@@ -944,7 +1178,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ5UbEPrSTr0cRrsMuKq3Clzw",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.79,
+                        52.4289
+                  ]
             },
             {
                   "name": "Schloss Wolfsburg",
@@ -957,7 +1195,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ4y02tJaTr0cR1r83W6uxFDw",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.7994,
+                        52.4392
+                  ]
             },
             {
                   "name": "Volkswagen AutoMuseum",
@@ -970,7 +1212,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ7yyX_s2Tr0cRPYQgt0tKVDQ",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.808562,
+                        52.427854
+                  ]
             },
             {
                   "name": "Allerpark",
@@ -983,7 +1229,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJYa-xmsSTr0cROs5gMB0I104",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.8226,
+                        52.4357
+                  ]
             },
             {
                   "name": "Planetarium Wolfsburg",
@@ -1011,7 +1261,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJz_qbuLeTr0cR-H8jTX_wzU0",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.7919,
+                        52.4311
+                  ]
             },
             {
                   "name": "Phaeno",
@@ -1024,19 +1278,31 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ5UbEPrSTr0cRrsMuKq3Clzw",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.79,
+                        52.4289
+                  ]
             },
             {
                   "name": "Wolfsburgi kastély",
                   "text": "A Weser-reneszánsz stílusú kastélyról kapta a város a nevét; ma városi galériának és művészeti egyesületnek ad otthont.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.7994,
+                        52.4392
+                  ]
             },
             {
                   "name": "Volkswagen Autómúzeum",
                   "text": "Ebben a gyűjteményben a látogatók számos veterán autón keresztül követhetik végig a VW márka technikai fejlődését.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.808562,
+                        52.427854
+                  ]
             }
       ],
       "ro": [
@@ -1051,7 +1317,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJz_qbuLeTr0cR-H8jTX_wzU0",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.7919,
+                        52.4311
+                  ]
             },
             {
                   "name": "Phaeno",
@@ -1064,19 +1334,31 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ5UbEPrSTr0cRrsMuKq3Clzw",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.79,
+                        52.4289
+                  ]
             },
             {
                   "name": "Castelul Wolfsburg",
                   "text": "Castelul în stilul Renașterii de pe Weser a dat numele orașului și găzduiește astăzi galeria municipală de artă.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.7994,
+                        52.4392
+                  ]
             },
             {
                   "name": "Muzeul Auto Volkswagen",
                   "text": "În această colecție, vizitatorii pot urmări istoria tehnică a mărcii VW prin intermediul a numeroase mașini de epocă.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.808562,
+                        52.427854
+                  ]
             }
       ],
       "en": [
@@ -1091,19 +1373,31 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJz_qbuLeTr0cR-H8jTX_wzU0",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.7919,
+                        52.4311
+                  ]
             },
             {
                   "name": "Phaeno Science Center",
                   "text": "Designed by Zaha Hadid, this futuristic science center allows visitors to experiment with various physical phenomena.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.79,
+                        52.4289
+                  ]
             },
             {
                   "name": "Wolfsburg Castle",
                   "text": "This Weser Renaissance castle gave the city its name and now houses the municipal gallery and local art associations.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.7994,
+                        52.4392
+                  ]
             },
             {
                   "name": "Volkswagen AutoMuseum",
@@ -1116,7 +1410,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ7yyX_s2Tr0cRPYQgt0tKVDQ",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.808562,
+                        52.427854
+                  ]
             },
             {
                   "name": "Allerpark",
@@ -1129,19 +1427,66 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJYa-xmsSTr0cROs5gMB0I104",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.8226,
+                        52.4357
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Autostadt",
+                  "text": "Volkswagen'in deneyim parkı; çeşitli markaların pavyonlarını, bir otomobil müzesini ve teslimat merkezini sunar.",
+                  "category": "landmark",
+                  "coords": [
+                        10.7919,
+                        52.4311
+                  ]
+            },
+            {
+                  "name": "Phaeno",
+                  "text": "Zaha Hadid tarafından tasarlanan fütüristik bilim merkezi, fiziksel fenomenlerle deney yapmaya davet ediyor.",
+                  "category": "museum",
+                  "coords": [
+                        10.79,
+                        52.4289
+                  ]
+            },
+            {
+                  "name": "Wolfsburg Şatosu",
+                  "text": "Şehre adını veren Weser Rönesansı tarzındaki şato, günümüzde Şehir Galerisi ve Sanat Derneği'ne ev sahipliği yapar.",
+                  "category": "castle",
+                  "coords": [
+                        10.7994,
+                        52.4392
+                  ]
+            },
+            {
+                  "name": "Volkswagen Otomobil Müzesi",
+                  "text": "Ziyaretçiler bu koleksiyonda, çok sayıda klasik otomobil aracılığıyla VW markasının teknik tarihini inceleyebilirler.",
+                  "category": "museum",
+                  "coords": [
+                        10.808562,
+                        52.427854
+                  ]
+            },
+            {
+                  "name": "Allerpark",
+                  "text": "Geniş rekreasyon alanı; bir göl, spor tesisleri ve VfL Wolfsburg'un Volkswagen Arena stadyumunu sunmaktadır.",
+                  "category": "park",
+                  "coords": [
+                        10.8226,
+                        52.4357
+                  ]
+            },
+            {
+                  "name": "Wolfsburg Planetaryumu",
+                  "text": "Kuzey Almanya'nın en büyük ve en modern planetaryumlarından biri olup uzay hakkında büyüleyici şovlar sunar.",
+                  "category": "landmark"
             }
       ]
-,
-      "tr": [
-        { "name": "Autostadt", "text": "Volkswagen'in deneyim parkı; çeşitli markaların pavyonlarını, bir otomobil müzesini ve teslimat merkezini sunar.", "category": "landmark" },
-        { "name": "Phaeno", "text": "Zaha Hadid tarafından tasarlanan fütüristik bilim merkezi, fiziksel fenomenlerle deney yapmaya davet ediyor.", "category": "museum" },
-        { "name": "Wolfsburg Şatosu", "text": "Şehre adını veren Weser Rönesansı tarzındaki şato, günümüzde Şehir Galerisi ve Sanat Derneği'ne ev sahipliği yapar.", "category": "castle" },
-        { "name": "Volkswagen Otomobil Müzesi", "text": "Ziyaretçiler bu koleksiyonda, çok sayıda klasik otomobil aracılığıyla VW markasının teknik tarihini inceleyebilirler.", "category": "museum" },
-        { "name": "Allerpark", "text": "Geniş rekreasyon alanı; bir göl, spor tesisleri ve VfL Wolfsburg'un Volkswagen Arena stadyumunu sunmaktadır.", "category": "park" },
-        { "name": "Wolfsburg Planetaryumu", "text": "Kuzey Almanya'nın en büyük ve en modern planetaryumlarından biri olup uzay hakkında büyüleyici şovlar sunar.", "category": "landmark" }
-      ]
-    }
+}
   },
     {
     id: "mnt-brocken-ni-extra",
@@ -1294,7 +1639,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJGQ--Nq-vukcRAkZqoMrYI6k",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.9475,
+                        52.15
+                  ]
             },
             {
                   "name": "St. Michaelis Kirche",
@@ -1307,7 +1656,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJlzuirqevukcRWXqbIx9MoEc",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.943308,
+                        52.152849
+                  ]
             },
             {
                   "name": "Knochenhauer-Amtshaus",
@@ -1320,7 +1673,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJT6-9sKmvukcRnymxBvxt4tc",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.95139,
+                        52.1528
+                  ]
             },
             {
                   "name": "Roemer- und Pelizaeus-Museum",
@@ -1333,7 +1690,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJZ5w34aWvukcRLCxiQIkK62A",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.94415,
+                        52.149327
+                  ]
             },
             {
                   "name": "St. Andreas Kirche",
@@ -1346,7 +1707,11 @@ export const poiExtraDe2: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJR2EKG6mvukcRSl-1vw5uPjU",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.95,
+                        52.151667
+                  ]
             }
       ],
       "hu": [
@@ -1354,31 +1719,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Hildesheimi dóm",
                   "text": "Az UNESCO világörökség része, híres az ezeréves rózsatőről és középkori bronzöntvényeiről.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.9475,
+                        52.15
+                  ]
             },
             {
                   "name": "Szent Mihály-templom",
                   "text": "Az ottói építészet mesterműve, amely 13. századi, világszerte egyedülálló festett fafödéméről ismert.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.943308,
+                        52.152849
+                  ]
             },
             {
                   "name": "Mészárosok céhháza",
                   "text": "A világ egyik legszebb gerendavázas épülete, a történelmi piactér rekonstruált ékköve.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.95139,
+                        52.1528
+                  ]
             },
             {
                   "name": "Roemer- és Pelizaeus-Múzeum",
                   "text": "Nemzetközileg elismert gyűjtemény, amely elsősorban jelentős óegyiptomi kincseiről híres.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.94415,
+                        52.149327
+                  ]
             },
             {
                   "name": "Szent András-templom",
                   "text": "Alsó-Szászország legmagasabb, 114,5 méteres templomtornyával büszkélkedő gótikus építmény.",
                   "category": "church",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        9.95,
+                        52.151667
+                  ]
             }
       ],
       "ro": [
@@ -1386,31 +1771,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Catedrala din Hildesheim",
                   "text": "Sit UNESCO renumit pentru tufa de trandafiri de 1000 de ani și porțile de bronz medievale.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.9475,
+                        52.15
+                  ]
             },
             {
                   "name": "Biserica Sfântul Mihail",
                   "text": "O capodoperă a arhitecturii ottoniene cu un tavan de lemn pictat unic din secolul al XIII-lea.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.943308,
+                        52.152849
+                  ]
             },
             {
                   "name": "Casa Breslei Măcelarilor",
                   "text": "Considerată una dintre cele mai frumoase clădiri cu bârne din lume, situată în piața centrală.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.95139,
+                        52.1528
+                  ]
             },
             {
                   "name": "Muzeul Roemer și Pelizaeus",
                   "text": "Muzeu de renume internațional faimos pentru colecția sa impresionantă de antichități egiptene.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.94415,
+                        52.149327
+                  ]
             },
             {
                   "name": "Biserica Sfântul Andrei",
                   "text": "Biserica oferă cel mai înalt turn din Saxonia Inferioară, având o înălțime de 114,5 metri.",
                   "category": "church",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        9.95,
+                        52.151667
+                  ]
             }
       ],
       "en": [
@@ -1418,42 +1823,101 @@ export const poiExtraDe2: POI[] = [
                   "name": "Hildesheim Cathedral",
                   "text": "A UNESCO World Heritage site famous for its 1,000-year-old rose bush and Romanesque bronze treasures.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.9475,
+                        52.15
+                  ]
             },
             {
                   "name": "St. Mary's Church (St. Michaelis)",
                   "text": "A masterpiece of Ottonian architecture featuring a world-famous 13th-century painted wooden ceiling.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.943308,
+                        52.152849
+                  ]
             },
             {
                   "name": "Butchers' Guild Hall",
                   "text": "Widely regarded as one of the most beautiful half-timbered houses, a jewel of the historic market square.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.95139,
+                        52.1528
+                  ]
             },
             {
                   "name": "Roemer- and Pelizaeus-Museum",
                   "text": "Internationally renowned for its world-class collection of ancient Egyptian art and artifacts.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.94415,
+                        52.149327
+                  ]
             },
             {
                   "name": "St. Andrew's Church",
                   "text": "This church boasts the highest tower in Lower Saxony at 114.5 meters, offering panoramic city views.",
                   "category": "church",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        9.95,
+                        52.151667
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Hildesheim Katedrali",
+                  "text": "UNESCO Dünya Mirası alanı, 1000 yıllık gül ağacı ve Orta Çağ'dan kalma bronz dökümleriyle ünlüdür.",
+                  "category": "church",
+                  "coords": [
+                        9.9475,
+                        52.15
+                  ]
+            },
+            {
+                  "name": "St. Michaelis Kilisesi",
+                  "text": "Dünya çapında eşsiz, 13. yüzyıldan kalma boyalı ahşap tavanıyla Otton mimarisinin bir şaheseridir.",
+                  "category": "church",
+                  "coords": [
+                        9.943308,
+                        52.152849
+                  ]
+            },
+            {
+                  "name": "Knochenhauer-Amtshaus",
+                  "text": "Dünyanın en güzel yarı ahşap evlerinden biri olarak kabul edilir ve tarihi pazar meydanının en görkemli yapısıdır.",
+                  "category": "landmark",
+                  "coords": [
+                        9.95139,
+                        52.1528
+                  ]
+            },
+            {
+                  "name": "Roemer ve Pelizaeus Müzesi",
+                  "text": "Özellikle önemli Antik Mısır koleksiyonuyla tanınan, uluslararası üne sahip bir müzedir.",
+                  "category": "museum",
+                  "coords": [
+                        9.94415,
+                        52.149327
+                  ]
+            },
+            {
+                  "name": "St. Andreas Kilisesi",
+                  "text": "Bu kilise, 114,5 metre ile Aşağı Saksonya'nın en yüksek kulesine sahiptir ve geniş manzaralar sunar.",
+                  "category": "church",
+                  "coords": [
+                        9.95,
+                        52.151667
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Hildesheim Katedrali", "text": "UNESCO Dünya Mirası alanı, 1000 yıllık gül ağacı ve Orta Çağ'dan kalma bronz dökümleriyle ünlüdür.", "category": "church" },
-        { "name": "St. Michaelis Kilisesi", "text": "Dünya çapında eşsiz, 13. yüzyıldan kalma boyalı ahşap tavanıyla Otton mimarisinin bir şaheseridir.", "category": "church" },
-        { "name": "Knochenhauer-Amtshaus", "text": "Dünyanın en güzel yarı ahşap evlerinden biri olarak kabul edilir ve tarihi pazar meydanının en görkemli yapısıdır.", "category": "landmark" },
-        { "name": "Roemer ve Pelizaeus Müzesi", "text": "Özellikle önemli Antik Mısır koleksiyonuyla tanınan, uluslararası üne sahip bir müzedir.", "category": "museum" },
-        { "name": "St. Andreas Kilisesi", "text": "Bu kilise, 114,5 metre ile Aşağı Saksonya'nın en yüksek kulesine sahiptir ve geniş manzaralar sunar.", "category": "church" }
-      ]
-    }
+}
   },
   {
     id: "island-norderney-extra",
@@ -1691,31 +2155,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Schloss Celle",
                   "text": "Das prächtige Residenzschloss beherbergt eines der ältesten noch bespielten Barocktheater Europas.",
                   "category": "castle",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Historische Altstadt",
-                  "text": "Mit über 400 denkmalgeschützten Fachwerkhäusern besitzt Celle eines der größten geschlossenen Ensembles Europas.",
-                  "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.0775,
+                        52.6239
+                  ]
             },
             {
                   "name": "Bomann-Museum",
                   "text": "Eines der bedeutendsten Museen Niedersachsens mit Fokus auf niedersächsische Volkskunde und Stadtgeschichte.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.08038,
+                        52.62446
+                  ]
             },
             {
                   "name": "Stadtkirche St. Marien",
                   "text": "Bekannt für ihre prunkvollen Fürstengrüfte und die täglichen Turmbläser-Konzerte auf dem hohen Turm.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.0808,
+                        52.6244
+                  ]
             },
             {
                   "name": "Hoppener Haus",
                   "text": "Das prächtigste der Celler Fachwerkhäuser, verziert mit zahlreichen geschnitzten Figuren und Ornamenten.",
                   "category": "landmark",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        10.08189,
+                        52.623492
+                  ]
             }
       ],
       "hu": [
@@ -1723,31 +2197,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Cellei kastély",
                   "text": "Az impozáns rezidencia ad otthont Európa egyik legrégebbi, ma is működő barokk színházának.",
                   "category": "castle",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Történelmi óváros",
-                  "text": "Több mint 400 műemlékvédelem alatt álló gerendavázas házával Celle Európa egyik legnagyobb ilyen együttesével bír.",
-                  "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.0775,
+                        52.6239
+                  ]
             },
             {
                   "name": "Bomann Múzeum",
                   "text": "Alsó-Szászország egyik legfontosabb múzeuma, amely a néprajzra és a városi történelemre összpontosít.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.08038,
+                        52.62446
+                  ]
             },
             {
                   "name": "Szent Mária-várostemplom",
                   "text": "Díszes hercegi sírkamráiról és a toronyból naponta felhangzó toronyzene-koncertekről nevezetes.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.0808,
+                        52.6244
+                  ]
             },
             {
                   "name": "Hoppener-ház",
                   "text": "A cellei gerendavázas házak legpompásabb darabja, faragott figurákkal és gazdag díszítéssel.",
                   "category": "landmark",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        10.08189,
+                        52.623492
+                  ]
             }
       ],
       "ro": [
@@ -1755,31 +2239,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Castelul Celle",
                   "text": "Fostă reședință ducală care găzduiește unul dintre cele mai vechi teatre baroce active din Europa.",
                   "category": "castle",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Orașul vechi istoric",
-                  "text": "Cu peste 400 de case cu bârne protejate, Celle are unul dintre cele mai mari ansambluri de acest tip din Europa.",
-                  "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.0775,
+                        52.6239
+                  ]
             },
             {
                   "name": "Muzeul Bomann",
                   "text": "Unul dintre cele mai importante muzee din Saxonia Inferioară, dedicat folclorului și istoriei locale.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.08038,
+                        52.62446
+                  ]
             },
             {
                   "name": "Biserica Sfânta Maria",
                   "text": "Cunoscută pentru criptele ducale magnifice și tradiția trompetiștilor care cântă zilnic din turn.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.0808,
+                        52.6244
+                  ]
             },
             {
                   "name": "Casa Hoppener",
                   "text": "Cea mai bogat decorată casă cu bârne din oraș, având fațade sculptate cu figuri antropomorfe.",
                   "category": "landmark",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        10.08189,
+                        52.623492
+                  ]
             }
       ],
       "en": [
@@ -1787,42 +2281,82 @@ export const poiExtraDe2: POI[] = [
                   "name": "Celle Castle",
                   "text": "A magnificent ducal residence housing one of the oldest working Baroque theaters in Europe.",
                   "category": "castle",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Historic Old Town",
-                  "text": "Features over 400 half-timbered houses, forming one of the largest cohesive ensembles in Europe.",
-                  "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.0775,
+                        52.6239
+                  ]
             },
             {
                   "name": "Bomann Museum",
                   "text": "A major museum of Lower Saxony focusing on regional folklore, history, and modern art.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.08038,
+                        52.62446
+                  ]
             },
             {
                   "name": "St. Mary's Town Church",
                   "text": "Famous for its ornate ducal tombs and the daily trumpet performances from its high tower.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.0808,
+                        52.6244
+                  ]
             },
             {
                   "name": "Hoppener House",
                   "text": "The most elaborate of Celle's half-timbered buildings, decorated with intricate wood carvings.",
                   "category": "landmark",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        10.08189,
+                        52.623492
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Celle Şatosu",
+                  "text": "Görkemli rezidans şatosu, Avrupa'nın hala aktif olan en eski Barok tiyatrolarından birine ev sahipliği yapar.",
+                  "category": "castle",
+                  "coords": [
+                        10.0775,
+                        52.6239
+                  ]
+            },
+            {
+                  "name": "Bomann Müzesi",
+                  "text": "Aşağı Saksonya halk bilimi ve şehir tarihine odaklanan, eyaletin en önemli müzelerinden biridir.",
+                  "category": "museum",
+                  "coords": [
+                        10.08038,
+                        52.62446
+                  ]
+            },
+            {
+                  "name": "St. Marien Şehir Kilisesi",
+                  "text": "Görkemli hanedan mahzenleri ve yüksek kulesinden her gün icra edilen kule üflemeli çalgı konserleriyle tanınır.",
+                  "category": "church",
+                  "coords": [
+                        10.0808,
+                        52.6244
+                  ]
+            },
+            {
+                  "name": "Hoppener Evi",
+                  "text": "Celle'deki yarı ahşap evlerin en görkemlisi olup çok sayıda oyma figür ve süslemeyle bezenmiştir.",
+                  "category": "landmark",
+                  "coords": [
+                        10.08189,
+                        52.623492
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Celle Şatosu", "text": "Görkemli rezidans şatosu, Avrupa'nın hala aktif olan en eski Barok tiyatrolarından birine ev sahipliği yapar.", "category": "castle" },
-        { "name": "Tarihi Eski Şehir", "text": "Celle, koruma altındaki 400'den fazla yarı ahşap eviyle Avrupa'nın en büyük toplu mimari gruplarından birine sahiptir.", "category": "landmark" },
-        { "name": "Bomann Müzesi", "text": "Aşağı Saksonya halk bilimi ve şehir tarihine odaklanan, eyaletin en önemli müzelerinden biridir.", "category": "museum" },
-        { "name": "St. Marien Şehir Kilisesi", "text": "Görkemli hanedan mahzenleri ve yüksek kulesinden her gün icra edilen kule üflemeli çalgı konserleriyle tanınır.", "category": "church" },
-        { "name": "Hoppener Evi", "text": "Celle'deki yarı ahşap evlerin en görkemlisi olup çok sayıda oyma figür ve süslemeyle bezenmiştir.", "category": "landmark" }
-      ]
-    }
+}
   },
   {
     id: "hist-goslar-extra",
@@ -1971,31 +2505,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Karl-Marx-Monument",
                   "text": "Der riesige Bronzekopf ist das Wahrzeichen der Stadt und eine der größten Porträtbüsten der Welt.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.9233,
+                        50.8358
+                  ]
             },
             {
                   "name": "Industriemuseum Chemnitz",
                   "text": "Ein authentisches Zeugnis der Industriegeschichte Sachsens in einer ehemaligen Gießereihalle.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.900417,
+                        50.824149
+                  ]
             },
             {
                   "name": "Roter Turm",
                   "text": "Das älteste Wahrzeichen von Chemnitz war Teil der mittelalterlichen Stadtbefestigung.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.9216,
+                        50.8342
+                  ]
             },
             {
                   "name": "Versteinerter Wald",
                   "text": "Einzigartige ca. 290 Millionen Jahre alte fossile Baumstämme, ausgestellt im Kulturkaufhaus Tietz.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.922881,
+                        50.830841
+                  ]
             },
             {
                   "name": "Villa Esche",
                   "text": "Ein Gesamtkunstwerk des belgischen Architekten Henry van de Velde im Stil der Klassischen Moderne.",
                   "category": "landmark",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        12.9011,
+                        50.815
+                  ]
             }
       ],
       "hu": [
@@ -2003,31 +2557,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Karl Marx-emlékmű",
                   "text": "A hatalmas bronzfej a város jelképe, és a világ egyik legnagyobb portré mellszobra.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.9233,
+                        50.8358
+                  ]
             },
             {
                   "name": "Chemnitzi Ipari Múzeum",
                   "text": "Szászország ipari történelmének hiteles tanúja egy egykori öntödei csarnokban berendezve.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.900417,
+                        50.824149
+                  ]
             },
             {
                   "name": "Vörös torony",
                   "text": "Chemnitz legrégebbi fennmaradt építménye, amely egykor a középkori városfal része volt.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.9216,
+                        50.8342
+                  ]
             },
             {
                   "name": "Megkövesedett erdő",
                   "text": "Egyedülálló, kb. 290 millió éves fosszilis fatörzsek, melyek a Tietz kulturális központban láthatók.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.922881,
+                        50.830841
+                  ]
             },
             {
                   "name": "Villa Esche",
                   "text": "Henry van de Velde belga építész szecessziós mesterműve, amely ma múzeumként és étteremként működik.",
                   "category": "landmark",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        12.9011,
+                        50.815
+                  ]
             }
       ],
       "ro": [
@@ -2035,31 +2609,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Monumentul Karl Marx",
                   "text": "Capul uriaș din bronz este simbolul orașului și unul dintre cele mai mari busturi din lume.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.9233,
+                        50.8358
+                  ]
             },
             {
                   "name": "Muzeul Industriei din Chemnitz",
                   "text": "O prezentare fascinantă a istoriei industriale a Saxoniei, găzduită într-o fostă turnătorie.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.900417,
+                        50.824149
+                  ]
             },
             {
                   "name": "Turnul Roșu",
                   "text": "Cel mai vechi monument al orașului Chemnitz, făcând parte inițial din zidurile fortificate medievale.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.9216,
+                        50.8342
+                  ]
             },
             {
                   "name": "Pădurea Pietrificată",
                   "text": "Trunchiuri de copaci fosilizați vechi de 290 de milioane de ani, expuși în centrul cultural Tietz.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.922881,
+                        50.830841
+                  ]
             },
             {
                   "name": "Vila Esche",
                   "text": "O bijuterie arhitecturală creată de Henry van de Velde, reprezentativă pentru modernismul timpuriu.",
                   "category": "landmark",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        12.9011,
+                        50.815
+                  ]
             }
       ],
       "en": [
@@ -2067,42 +2661,101 @@ export const poiExtraDe2: POI[] = [
                   "name": "Karl Marx Monument",
                   "text": "This massive bronze head is the city's most famous landmark and one of the world's largest bust sculptures.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.9233,
+                        50.8358
+                  ]
             },
             {
                   "name": "Chemnitz Industry Museum",
                   "text": "Showcases Saxony's rich industrial heritage inside a beautifully restored former foundry hall.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.900417,
+                        50.824149
+                  ]
             },
             {
                   "name": "Red Tower (Roter Turm)",
                   "text": "The oldest landmark in Chemnitz, originally built as part of the medieval city fortifications.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.9216,
+                        50.8342
+                  ]
             },
             {
                   "name": "Petrified Forest",
                   "text": "A unique collection of 290-million-year-old fossilized tree trunks displayed in the Tietz building.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.922881,
+                        50.830841
+                  ]
             },
             {
                   "name": "Villa Esche",
                   "text": "An Art Nouveau masterpiece designed by Henry van de Velde, serving as a museum and cultural site.",
                   "category": "landmark",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        12.9011,
+                        50.815
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Karl Marx Anıtı",
+                  "text": "Devasa bronz kafa şehrin simgesidir ve dünyanın en büyük büstlerinden biri olarak kabul edilir.",
+                  "category": "landmark",
+                  "coords": [
+                        12.9233,
+                        50.8358
+                  ]
+            },
+            {
+                  "name": "Chemnitz Sanayi Müzesi",
+                  "text": "Eski bir dökümhane salonunda Saksonya'nın sanayi tarihinin otantik bir tanıklığını sunar.",
+                  "category": "museum",
+                  "coords": [
+                        12.900417,
+                        50.824149
+                  ]
+            },
+            {
+                  "name": "Kızıl Kule",
+                  "text": "Chemnitz'in en eski simgesi olan bu yapı, Orta Çağ şehir surlarının bir parçasıydı.",
+                  "category": "landmark",
+                  "coords": [
+                        12.9216,
+                        50.8342
+                  ]
+            },
+            {
+                  "name": "Taşlaşmış Orman",
+                  "text": "Kültür merkezi Tietz'de sergilenen, yaklaşık 290 milyon yıllık benzersiz fosilleşmiş ağaç gövdeleridir.",
+                  "category": "landmark",
+                  "coords": [
+                        12.922881,
+                        50.830841
+                  ]
+            },
+            {
+                  "name": "Villa Esche",
+                  "text": "Belçikalı mimar Henry van de Velde tarafından Klasik Modern tarzda tasarlanmış tam bir sanat eseridir.",
+                  "category": "landmark",
+                  "coords": [
+                        12.9011,
+                        50.815
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Karl Marx Anıtı", "text": "Devasa bronz kafa şehrin simgesidir ve dünyanın en büyük büstlerinden biri olarak kabul edilir.", "category": "landmark" },
-        { "name": "Chemnitz Sanayi Müzesi", "text": "Eski bir dökümhane salonunda Saksonya'nın sanayi tarihinin otantik bir tanıklığını sunar.", "category": "museum" },
-        { "name": "Kızıl Kule", "text": "Chemnitz'in en eski simgesi olan bu yapı, Orta Çağ şehir surlarının bir parçasıydı.", "category": "landmark" },
-        { "name": "Taşlaşmış Orman", "text": "Kültür merkezi Tietz'de sergilenen, yaklaşık 290 milyon yıllık benzersiz fosilleşmiş ağaç gövdeleridir.", "category": "landmark" },
-        { "name": "Villa Esche", "text": "Belçikalı mimar Henry van de Velde tarafından Klasik Modern tarzda tasarlanmış tam bir sanat eseridir.", "category": "landmark" }
-      ]
-    }
+}
   },
   {
     id: "city-zwickau-extra",
@@ -2156,31 +2809,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "August Horch Museum",
                   "text": "Ein Muss für Autoliebhaber, untergebracht im ehemaligen Audi-Werk, zur Geschichte des Automobilbaus.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.4841,
+                        50.7327
+                  ]
             },
             {
                   "name": "Dom St. Marien",
                   "text": "Die imposante Hallenkirche prägt die Silhouette der Altstadt und beherbergt wertvolle Kunstschätze.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.4952,
+                        50.7179
+                  ]
             },
             {
                   "name": "Priesterhäuser",
                   "text": "Eine der ältesten erhaltenen Wohnhauszeilen Deutschlands mit Ursprüngen im 13. Jahrhundert.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.494628,
+                        50.717596
+                  ]
             },
             {
                   "name": "Robert-Schumann-Haus",
                   "text": "Das Geburtshaus des berühmten Komponisten ist heute ein Museum und Forschungszentrum.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.49621,
+                        50.71733
+                  ]
             },
             {
                   "name": "Schloss Osterstein",
                   "text": "Das einstige Renaissanceschloss hat eine wechselvolle Geschichte als Residenz und Gefängnis hinter sich.",
                   "category": "castle",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        12.5004,
+                        50.721
+                  ]
             }
       ],
       "hu": [
@@ -2188,31 +2861,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "August Horch Múzeum",
                   "text": "Az autózás szerelmeseinek kötelező program az egykori Audi-gyárban, az autógyártás történetéről.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.4841,
+                        50.7327
+                  ]
             },
             {
                   "name": "Szent Mária-székesegyház",
                   "text": "Impozáns csarnoktemplom, amely meghatározza az óváros látképét és értékes kincseket őriz.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.4952,
+                        50.7179
+                  ]
             },
             {
                   "name": "Papi házak (Priesterhäuser)",
                   "text": "Németország egyik legrégebbi fennmaradt lakóházsora, amelynek eredete a 13. századig nyúlik vissza.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.494628,
+                        50.717596
+                  ]
             },
             {
                   "name": "Robert Schumann-ház",
                   "text": "A híres zeneszerző szülőháza, amely ma múzeumként és kutatóközpontként üzemel.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.49621,
+                        50.71733
+                  ]
             },
             {
                   "name": "Osterstein-kastély",
                   "text": "Az egykori reneszánsz kastély fordulatos múlttal rendelkezik rezidenciaként és börtönként egyaránt.",
                   "category": "castle",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        12.5004,
+                        50.721
+                  ]
             }
       ],
       "ro": [
@@ -2220,31 +2913,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Muzeul August Horch",
                   "text": "Situat în fosta fabrică Audi, acest muzeu prezintă istoria fascinantă a producției de automobile.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.4841,
+                        50.7327
+                  ]
             },
             {
                   "name": "Catedrala Sfânta Maria",
                   "text": "O biserică monumentală care domină centrul vechi, renumită pentru altarul său și arhitectura gotică.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.4952,
+                        50.7179
+                  ]
             },
             {
                   "name": "Casele Preoților",
                   "text": "Unul dintre cele mai vechi ansambluri rezidențiale conservate din Germania, datând din secolul al XIII-lea.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.494628,
+                        50.717596
+                  ]
             },
             {
                   "name": "Casa Robert Schumann",
                   "text": "Locul de naștere al compozitorului, transformat într-un muzeu dedicat vieții și operelor sale.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.49621,
+                        50.71733
+                  ]
             },
             {
                   "name": "Castelul Osterstein",
                   "text": "Fost castel renascentist cu o istorie complexă, servind de-a lungul timpului ca reședință și închisoare.",
                   "category": "castle",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        12.5004,
+                        50.721
+                  ]
             }
       ],
       "en": [
@@ -2252,42 +2965,101 @@ export const poiExtraDe2: POI[] = [
                   "name": "August Horch Museum",
                   "text": "A must-see for car enthusiasts, located in the original Audi factory, detailing Zwickau's automotive history.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.4841,
+                        50.7327
+                  ]
             },
             {
                   "name": "St. Mary's Cathedral",
                   "text": "A grand hall church that dominates the old town skyline, housing significant late-Gothic artworks.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.4952,
+                        50.7179
+                  ]
             },
             {
                   "name": "Priests' Houses (Priesterhäuser)",
                   "text": "One of Germany's oldest preserved rows of residential buildings, with parts dating back to 1264.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.494628,
+                        50.717596
+                  ]
             },
             {
                   "name": "Robert Schumann House",
                   "text": "The birthplace of the famous composer Robert Schumann, now a museum and world-class archive.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.49621,
+                        50.71733
+                  ]
             },
             {
                   "name": "Osterstein Castle",
                   "text": "A former Renaissance palace with a varied past, having served as a royal residence and a fortress.",
                   "category": "castle",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "coords": [
+                        12.5004,
+                        50.721
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "August Horch Müzesi",
+                  "text": "Eski Audi fabrikasında yer alan ve otomobil üretim tarihini anlatan müze, araba tutkunları için bir zorunluluktur.",
+                  "category": "museum",
+                  "coords": [
+                        12.4841,
+                        50.7327
+                  ]
+            },
+            {
+                  "name": "St. Marien Katedrali",
+                  "text": "Görkemli kilise, eski şehrin siluetini şekillendirir ve içinde değerli sanat hazineleri barındırır.",
+                  "category": "church",
+                  "coords": [
+                        12.4952,
+                        50.7179
+                  ]
+            },
+            {
+                  "name": "Rahipler Evleri",
+                  "text": "Kökenleri 13. yüzyıla kadar uzanan, Almanya'nın hayatta kalan en eski konut dizilerinden biridir.",
+                  "category": "landmark",
+                  "coords": [
+                        12.494628,
+                        50.717596
+                  ]
+            },
+            {
+                  "name": "Robert Schumann Evi",
+                  "text": "Ünlü bestecinin doğduğu ev, günümüzde bir müze ve araştırma merkezi olarak hizmet vermektedir.",
+                  "category": "museum",
+                  "coords": [
+                        12.49621,
+                        50.71733
+                  ]
+            },
+            {
+                  "name": "Osterstein Şatosu",
+                  "text": "Eski Rönesans şatosu, rezidans ve hapishane olarak kullanılan hareketli bir tarihe sahiptir.",
+                  "category": "castle",
+                  "coords": [
+                        12.5004,
+                        50.721
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "August Horch Müzesi", "text": "Eski Audi fabrikasında yer alan ve otomobil üretim tarihini anlatan müze, araba tutkunları için bir zorunluluktur.", "category": "museum" },
-        { "name": "St. Marien Katedrali", "text": "Görkemli kilise, eski şehrin siluetini şekillendirir ve içinde değerli sanat hazineleri barındırır.", "category": "church" },
-        { "name": "Rahipler Evleri", "text": "Kökenleri 13. yüzyıla kadar uzanan, Almanya'nın hayatta kalan en eski konut dizilerinden biridir.", "category": "landmark" },
-        { "name": "Robert Schumann Evi", "text": "Ünlü bestecinin doğduğu ev, günümüzde bir müze ve araştırma merkezi olarak hizmet vermektedir.", "category": "museum" },
-        { "name": "Osterstein Şatosu", "text": "Eski Rönesans şatosu, rezidans ve hapishane olarak kullanılan hareketli bir tarihe sahiptir.", "category": "castle" }
-      ]
-    }
+}
   },
   {
     id: "mnt-erzgebirge-extra",
@@ -2757,31 +3529,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Freiberger Dom St. Marien",
                   "text": "Spätgotische Hallenkirche mit der berühmten Goldenen Pforte und zwei wertvollen Silbermann-Orgeln im historischen Zentrum.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.343333,
+                        50.920278
+                  ]
             },
             {
                   "name": "Schloss Freudenstein",
                   "text": "Das prächtige Renaissanceschloss beherbergt heute die terra mineralia, eine der weltweit größten Mineraliensammlungen.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.34,
+                        50.9204
+                  ]
             },
             {
                   "name": "Silberbergwerk Reiche Zeche",
                   "text": "Ein authentisches Lehr- und Forschungsbergwerk, das Besuchern die faszinierende Welt des jahrhundertelangen Bergbaus zeigt.",
                   "category": "Local industry heritage",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.359516,
+                        50.927323
+                  ]
             },
             {
                   "name": "Obermarkt",
                   "text": "Einer der schönsten Marktplätze Deutschlands mit dem monumentalen Rathaus und prächtigen Patrizierhäusern aus der Bergbauzeit.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.3424,
+                        50.9171
+                  ]
             },
             {
                   "name": "Donatsturm",
                   "text": "Ein markanter Wehrturm der ehemaligen Stadtbefestigung, der als eines der Wahrzeichen der mittelalterlichen Bergstadt gilt.",
                   "category": "City gates, towers, walls",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.350323,
+                        50.919016
+                  ]
             },
             {
                   "name": "Krügerhaus",
@@ -2795,31 +3587,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Freibergi székesegyház",
                   "text": "Késő gótikus csarnoktemplom a híres Aranykapuval és két értékes Silbermann-orgonával a történelmi városközpontban.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.343333,
+                        50.920278
+                  ]
             },
             {
                   "name": "Freudenstein kastély",
                   "text": "A lenyűgöző reneszánsz kastély ad otthont a terra mineralia kiállításnak, a világ egyik legnagyobb ásványgyűjteményének.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.34,
+                        50.9204
+                  ]
             },
             {
                   "name": "Reiche Zeche ezüstbánya",
                   "text": "Eredeti tanbánya, ahol a látogatók megismerhetik a több évszázados bányászat lenyűgöző világát és technológiáit.",
                   "category": "Local industry heritage",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.359516,
+                        50.927323
+                  ]
             },
             {
                   "name": "Felső piac (Obermarkt)",
                   "text": "Németország egyik legszebb piactere a monumentális városházával és a bányászat korából származó patrícius házakkal.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.3424,
+                        50.9171
+                  ]
             },
             {
                   "name": "Donát-torony",
                   "text": "Az egykori városi erődítmény markáns védőtornya, amely a középkori bányaváros egyik legfontosabb jelképe.",
                   "category": "City gates, towers, walls",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.350323,
+                        50.919016
+                  ]
             }
       ],
       "ro": [
@@ -2827,31 +3639,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Catedrala Sfânta Maria",
                   "text": "O biserică gotică târzie celebră pentru Poarta de Aur și cele două orgi Silbermann de o valoare inestimabilă.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.343333,
+                        50.920278
+                  ]
             },
             {
                   "name": "Castelul Freudenstein",
                   "text": "Un castel renascentist superb care găzduiește terra mineralia, una dintre cele mai mari colecții de minerale din lume.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.34,
+                        50.9204
+                  ]
             },
             {
                   "name": "Mina Reiche Zeche",
                   "text": "O mină autentică de argint care oferă vizitatorilor o incursiune fascinantă în istoria minieră de opt secole a orașului.",
                   "category": "Local industry heritage",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.359516,
+                        50.927323
+                  ]
             },
             {
                   "name": "Piața Obermarkt",
                   "text": "Considerată una dintre cele mai frumoase piețe din Germania, înconjurată de primărie și case patriciene istorice.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.3424,
+                        50.9171
+                  ]
             },
             {
                   "name": "Turnul Donat",
                   "text": "Un turn masiv de apărare care a făcut parte din fortificațiile medievale, fiind un simbol al orașului vechi.",
                   "category": "City gates, towers, walls",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.350323,
+                        50.919016
+                  ]
             }
       ],
       "en": [
@@ -2859,43 +3691,106 @@ export const poiExtraDe2: POI[] = [
                   "name": "Freiberg Cathedral",
                   "text": "A late Gothic hall church featuring the famous Golden Gate and two historic organs by Gottfried Silbermann.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.343333,
+                        50.920278
+                  ]
             },
             {
                   "name": "Freudenstein Castle",
                   "text": "A Renaissance castle that houses 'terra mineralia', one of the world's most extensive private mineral collections.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.34,
+                        50.9204
+                  ]
             },
             {
                   "name": "Reiche Zeche Silver Mine",
                   "text": "A historic silver mine offering guided underground tours to explore the centuries-old mining traditions of the region.",
                   "category": "Local industry heritage",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.359516,
+                        50.927323
+                  ]
             },
             {
                   "name": "Obermarkt Square",
                   "text": "The main market square, renowned for its magnificent architecture, the town hall, and the fountain of the city founder.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.3424,
+                        50.9171
+                  ]
             },
             {
                   "name": "Donat Tower",
                   "text": "A striking defensive tower from the 15th century, remaining as a significant part of the former city walls.",
                   "category": "City gates, towers, walls",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.350323,
+                        50.919016
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Freiberg St. Marien Katedrali",
+                  "text": "Ünlü Altın Kapısı ve iki değerli Silbermann orguyla tarihi merkezdeki Geç Gotik katedral.",
+                  "category": "Churches & monasteries",
+                  "coords": [
+                        13.343333,
+                        50.920278
+                  ]
+            },
+            {
+                  "name": "Freudenstein Şatosu",
+                  "text": "Görkemli Rönesans şatosu, dünyanın en büyük mineral koleksiyonlarından biri olan terra mineralia'ya ev sahipliği yapar.",
+                  "category": "Castles & palaces",
+                  "coords": [
+                        13.34,
+                        50.9204
+                  ]
+            },
+            {
+                  "name": "Reiche Zeche Gümüş Madeni",
+                  "text": "Ziyaretçilere yüzyıllar süren madenciliğin büyüleyici dünyasını gösteren otantik bir eğitim ve araştırma madenidir.",
+                  "category": "Local industry heritage",
+                  "coords": [
+                        13.359516,
+                        50.927323
+                  ]
+            },
+            {
+                  "name": "Obermarkt",
+                  "text": "Anıtsal belediye binası ve madencilik döneminden kalma görkemli evleriyle Almanya'nın en güzel pazar meydanlarından biri.",
+                  "category": "Town hall & historic squares",
+                  "coords": [
+                        13.3424,
+                        50.9171
+                  ]
+            },
+            {
+                  "name": "Donat Kulesi",
+                  "text": "Eski şehir surlarının göze çarpan savunma kulesi olup Orta Çağ maden şehrinin simgelerinden biridir.",
+                  "category": "City gates, towers, walls",
+                  "coords": [
+                        13.350323,
+                        50.919016
+                  ]
+            },
+            {
+                  "name": "Krüger Evi",
+                  "text": "Şatonun hemen yanındaki görkemli tarihi bina, Almanya'nın her yerinden gelen önemli mineralojik koleksiyonları sunar.",
+                  "category": "Museums"
             }
       ]
-,
-      "tr": [
-        { "name": "Freiberg St. Marien Katedrali", "text": "Ünlü Altın Kapısı ve iki değerli Silbermann orguyla tarihi merkezdeki Geç Gotik katedral.", "category": "Churches & monasteries" },
-        { "name": "Freudenstein Şatosu", "text": "Görkemli Rönesans şatosu, dünyanın en büyük mineral koleksiyonlarından biri olan terra mineralia'ya ev sahipliği yapar.", "category": "Castles & palaces" },
-        { "name": "Reiche Zeche Gümüş Madeni", "text": "Ziyaretçilere yüzyıllar süren madenciliğin büyüleyici dünyasını gösteren otantik bir eğitim ve araştırma madenidir.", "category": "Local industry heritage" },
-        { "name": "Obermarkt", "text": "Anıtsal belediye binası ve madencilik döneminden kalma görkemli evleriyle Almanya'nın en güzel pazar meydanlarından biri.", "category": "Town hall & historic squares" },
-        { "name": "Donat Kulesi", "text": "Eski şehir surlarının göze çarpan savunma kulesi olup Orta Çağ maden şehrinin simgelerinden biridir.", "category": "City gates, towers, walls" },
-        { "name": "Krüger Evi", "text": "Şatonun hemen yanındaki görkemli tarihi bina, Almanya'nın her yerinden gelen önemli mineralojik koleksiyonları sunar.", "category": "Museums" }
-      ]
-    }
+}
   },
   {
     id: "landmark-blaues-wunder-dresden-extra",
@@ -3044,31 +3939,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Deutsches Eck",
                   "text": "Landzunge am Zusammenfluss von Rhein und Mosel mit dem monumentalen Reiterstandbild Kaiser Wilhelms I.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.605639,
+                        50.364167
+                  ]
             },
             {
                   "name": "Festung Ehrenbreitstein",
                   "text": "Eine der größten erhaltenen Festungen Europas, die hoch über dem Rhein thront und einen Panoramablick bietet.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.61528,
+                        50.365
+                  ]
             },
             {
                   "name": "Seilbahn Koblenz",
                   "text": "Verbindet die Rheinanlagen mit der Festung Ehrenbreitstein und bietet eine spektakuläre Aussicht über das UNESCO-Welterbe.",
                   "category": "Bridges, train stations of note",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.60889,
+                        50.3639
+                  ]
             },
             {
                   "name": "Schloss Stolzenfels",
                   "text": "Ein Juwel der Rheinromantik, erbaut als neugotisches Schloss oberhalb des linken Rheinufer im Süden von Koblenz.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.59242,
+                        50.3032
+                  ]
             },
             {
                   "name": "Kurfürstliches Schloss",
                   "text": "Eines der bedeutendsten Schlösser des Frühklassizismus in Deutschland, direkt am Rheinufer gelegen.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.60222,
+                        50.3556
+                  ]
             },
             {
                   "name": "Basilika St. Kastor",
@@ -3082,31 +3997,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Német sarok (Deutsches Eck)",
                   "text": "A Rajna és a Mosel összefolyásánál található félsziget I. Vilmos császár monumentális lovasszobrával.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.605639,
+                        50.364167
+                  ]
             },
             {
                   "name": "Ehrenbreitstein erőd",
                   "text": "Európa egyik legnagyobb épségben maradt erődítménye, amely magasan a Rajna felett trónol és pazar kilátást nyújt.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.61528,
+                        50.365
+                  ]
             },
             {
                   "name": "Koblenzi felvonó",
                   "text": "A Rajna-partot köti össze az erőddel, lélegzetelállító panorámát biztosítva az UNESCO világörökségi tájra.",
                   "category": "Bridges, train stations of note",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.60889,
+                        50.3639
+                  ]
             },
             {
                   "name": "Stolzenfels-kastély",
                   "text": "A rajnai romantika ékköve, egy neogótikus kastély a folyó partján, amely pazar kertjeiről is híres.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.59242,
+                        50.3032
+                  ]
             },
             {
                   "name": "Választófejedelmi kastély",
                   "text": "Németország egyik legfontosabb kora klasszicista kastélya, amely közvetlenül a Rajna mentén fekszik.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.60222,
+                        50.3556
+                  ]
             }
       ],
       "ro": [
@@ -3114,31 +4049,51 @@ export const poiExtraDe2: POI[] = [
                   "name": "Colțul German",
                   "text": "Locul unde Mosela se varsă în Rin, dominat de monumentala statuie ecvestră a împăratului Wilhelm I.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.605639,
+                        50.364167
+                  ]
             },
             {
                   "name": "Cetatea Ehrenbreitstein",
                   "text": "O fortăreață impresionantă situată pe o stâncă deasupra Rinului, oferind o panoramă unică asupra orașului.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.61528,
+                        50.365
+                  ]
             },
             {
                   "name": "Telecabina din Koblenz",
                   "text": "O instalație modernă care traversează Rinul spre cetate, oferind vederi spectaculoase de la înălțime.",
                   "category": "Bridges, train stations of note",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.60889,
+                        50.3639
+                  ]
             },
             {
                   "name": "Castelul Stolzenfels",
                   "text": "Un castel neogotic reprezentativ pentru romantismul renan, situat pe un versant împădurit la sud de oraș.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.59242,
+                        50.3032
+                  ]
             },
             {
                   "name": "Palatul Electoral",
                   "text": "Un edificiu neoclasic grandios situat pe malul Rinului, fostă reședință a ultimului arhiepiscop de Trier.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.60222,
+                        50.3556
+                  ]
             }
       ],
       "en": [
@@ -3146,43 +4101,106 @@ export const poiExtraDe2: POI[] = [
                   "name": "Deutsches Eck (German Corner)",
                   "text": "The famous confluence of the Rhine and Moselle rivers, featuring a huge equestrian statue of Emperor William I.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.605639,
+                        50.364167
+                  ]
             },
             {
                   "name": "Ehrenbreitstein Fortress",
                   "text": "One of Europe's largest preserved fortifications, offering history and great views from high above the Rhine.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.61528,
+                        50.365
+                  ]
             },
             {
                   "name": "Koblenz Cable Car",
                   "text": "A modern cable car crossing the Rhine, providing a spectacular bird's-eye view of the river valley and the city.",
                   "category": "Bridges, train stations of note",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.60889,
+                        50.3639
+                  ]
             },
             {
                   "name": "Stolzenfels Castle",
                   "text": "A jewel of Rhine Romanticism, this neo-Gothic castle is surrounded by beautiful gardens and terraced landscapes.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.59242,
+                        50.3032
+                  ]
             },
             {
                   "name": "Electoral Palace",
                   "text": "A major early neoclassical palace located on the riverbank, which served as a residence for Prussian royals.",
                   "category": "Castles & palaces",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.60222,
+                        50.3556
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Deutsches Eck",
+                  "text": "Ren ve Mosel nehirlerinin birleştiği noktada, İmparator I. Wilhelm'in anıtsal atlı heykelinin bulunduğu burun.",
+                  "category": "Town hall & historic squares",
+                  "coords": [
+                        7.605639,
+                        50.364167
+                  ]
+            },
+            {
+                  "name": "Ehrenbreitstein Kalesi",
+                  "text": "Ren nehrinin üzerinde yükselen ve panoramik bir manzara sunan, Avrupa'nın en büyük korunmuş kalelerinden biri.",
+                  "category": "Castles & palaces",
+                  "coords": [
+                        7.61528,
+                        50.365
+                  ]
+            },
+            {
+                  "name": "Koblenz Teleferiği",
+                  "text": "Ren kıyılarını kaleye bağlar ve UNESCO Dünya Mirası üzerinde muhteşem bir manzara sunar.",
+                  "category": "Bridges, train stations of note",
+                  "coords": [
+                        7.60889,
+                        50.3639
+                  ]
+            },
+            {
+                  "name": "Stolzenfels Şatosu",
+                  "text": "Koblenz'in güneyinde, Ren nehrinin sol kıyısında Neo-Gotik tarzda inşa edilmiş bir romantizm mücevheri.",
+                  "category": "Castles & palaces",
+                  "coords": [
+                        7.59242,
+                        50.3032
+                  ]
+            },
+            {
+                  "name": "Elektörlük Şatosu",
+                  "text": "Ren kıyısında yer alan, Almanya'nın Erken Klasisizm dönemine ait en önemli şatolarından biridir.",
+                  "category": "Castles & palaces",
+                  "coords": [
+                        7.60222,
+                        50.3556
+                  ]
+            },
+            {
+                  "name": "St. Kastor Bazilikası",
+                  "text": "Koblenz'in en eski kilisesi olup Deutsches Eck'teki önemli tarihi olaylara tanıklık etmiştir.",
+                  "category": "Churches & monasteries"
             }
       ]
-,
-      "tr": [
-        { "name": "Deutsches Eck", "text": "Ren ve Mosel nehirlerinin birleştiği noktada, İmparator I. Wilhelm'in anıtsal atlı heykelinin bulunduğu burun.", "category": "Town hall & historic squares" },
-        { "name": "Ehrenbreitstein Kalesi", "text": "Ren nehrinin üzerinde yükselen ve panoramik bir manzara sunan, Avrupa'nın en büyük korunmuş kalelerinden biri.", "category": "Castles & palaces" },
-        { "name": "Koblenz Teleferiği", "text": "Ren kıyılarını kaleye bağlar ve UNESCO Dünya Mirası üzerinde muhteşem bir manzara sunar.", "category": "Bridges, train stations of note" },
-        { "name": "Stolzenfels Şatosu", "text": "Koblenz'in güneyinde, Ren nehrinin sol kıyısında Neo-Gotik tarzda inşa edilmiş bir romantizm mücevheri.", "category": "Castles & palaces" },
-        { "name": "Elektörlük Şatosu", "text": "Ren kıyısında yer alan, Almanya'nın Erken Klasisizm dönemine ait en önemli şatolarından biridir.", "category": "Castles & palaces" },
-        { "name": "St. Kastor Bazilikası", "text": "Koblenz'in en eski kilisesi olup Deutsches Eck'teki önemli tarihi olaylara tanıklık etmiştir.", "category": "Churches & monasteries" }
-      ]
-    }
+}
   },
   {
     id: "river-mosel-rp-extra",
@@ -3282,25 +4300,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Wilhelm-Hack-Museum",
                   "text": "Bekannt für seine markante Miró-Wand und bedeutende Sammlungen von Kunst des 20. Jahrhunderts bis heute.",
                   "category": "Museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.44407,
+                        49.4801
+                  ]
             },
             {
                   "name": "Ebertpark",
                   "text": "Eine grüne Oase im Stadtzentrum mit Themengärten, Brunnen und dem historischen Park-Restaurant zur Erholung.",
                   "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.421123,
+                        49.49156
+                  ]
             },
             {
                   "name": "BASF Besucherzentrum",
                   "text": "Interaktive Ausstellungen über die Geschichte und Innovationen des weltweit größten Chemieunternehmens.",
                   "category": "Local industry heritage",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.431089,
+                        49.496049
+                  ]
             },
             {
                   "name": "Friedenskirche",
                   "text": "Ein ungewöhnlicher Kirchenbau im Zentrum, der durch seine moderne Architektur und religiöse Bedeutung besticht.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.48125,
+                        49.4778
+                  ]
             },
             {
                   "name": "Ernst-Bloch-Zentrum",
@@ -3320,25 +4354,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Wilhelm Hack Múzeum",
                   "text": "A város legfontosabb művészeti múzeuma, amely a híres Miró-falról és modern gyűjteményéről ismert.",
                   "category": "Museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.44407,
+                        49.4801
+                  ]
             },
             {
                   "name": "Ebertpark",
                   "text": "Gyönyörű park a város szívében kertekkel, szökőkutakkal és szabadidős lehetőségekkel minden korosztálynak.",
                   "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.421123,
+                        49.49156
+                  ]
             },
             {
                   "name": "BASF Látogatóközpont",
                   "text": "Interaktív kiállítás a világ legnagyobb vegyipari vállalatának történetéről és a kémia mindennapi szerepéről.",
                   "category": "Local industry heritage",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.431089,
+                        49.496049
+                  ]
             },
             {
                   "name": "Ernst Bloch Központ",
                   "text": "A híres filozófus emlékére létrehozott központ, amely múzeumként és kutatóhelyként is funkcionál.",
                   "category": "Museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.48125,
+                        49.4778
+                  ]
             }
       ],
       "ro": [
@@ -3346,25 +4396,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Muzeul Wilhelm Hack",
                   "text": "Faimos pentru fațada realizată de Joan Miró și colecția impresionantă de artă modernă și contemporană.",
                   "category": "Museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.44407,
+                        49.4801
+                  ]
             },
             {
                   "name": "Parcul Ebert",
                   "text": "O zonă verde vastă cu grădini tematice, oferind un spațiu ideal pentru relaxare în mijlocul orașului industrial.",
                   "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.421123,
+                        49.49156
+                  ]
             },
             {
                   "name": "Centrul de Vizitatori BASF",
                   "text": "O experiență interactivă care prezintă inovațiile chimice și istoria gigantului industrial cu sediul în oraș.",
                   "category": "Local industry heritage",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.431089,
+                        49.496049
+                  ]
             },
             {
                   "name": "Biserica Păcii (Friedenskirche)",
                   "text": "O biserică remarcabilă prin stilul său arhitectural modern, fiind un punct de reper spiritual în oraș.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.48125,
+                        49.4778
+                  ]
             }
       ],
       "en": [
@@ -3372,37 +4438,92 @@ export const poiExtraDe2: POI[] = [
                   "name": "Wilhelm Hack Museum",
                   "text": "A prominent art museum famous for its colorful Miró Wall and extensive 20th-century art collections.",
                   "category": "Museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.44407,
+                        49.4801
+                  ]
             },
             {
                   "name": "Ebertpark",
                   "text": "A popular city park featuring a rose garden, fountains, and diverse event spaces for leisure and culture.",
                   "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.421123,
+                        49.49156
+                  ]
             },
             {
                   "name": "BASF Visitor Center",
                   "text": "An educational exhibition center showcasing the world of chemistry and the history of the massive industrial plant.",
                   "category": "Local industry heritage",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.431089,
+                        49.496049
+                  ]
             },
             {
                   "name": "Ernst Bloch Center",
                   "text": "A cultural institute dedicated to the life and work of the philosopher Ernst Bloch, who was born in the city.",
                   "category": "Museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.48125,
+                        49.4778
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Wilhelm Hack Müzesi",
+                  "text": "Göze çarpan Miró Duvarı ve 20. yüzyıldan günümüze uzanan önemli sanat koleksiyonlarıyla tanınır.",
+                  "category": "Museums",
+                  "coords": [
+                        8.44407,
+                        49.4801
+                  ]
+            },
+            {
+                  "name": "Ebertpark",
+                  "text": "Şehir merkezinde tematik bahçeleri, fıskiyeleri ve tarihi restoranıyla bir dinlenme vahasıdır.",
+                  "category": "Parks, gardens, lakes nearby",
+                  "coords": [
+                        8.421123,
+                        49.49156
+                  ]
+            },
+            {
+                  "name": "BASF Ziyaretçi Merkezi",
+                  "text": "Dünyanın en büyük kimya şirketinin tarihi ve inovasyonları hakkında etkileşimli sergiler sunar.",
+                  "category": "Local industry heritage",
+                  "coords": [
+                        8.431089,
+                        49.496049
+                  ]
+            },
+            {
+                  "name": "Barış Kilisesi",
+                  "text": "Modern mimarisi ve dini önemiyle dikkat çeken, merkezdeki sıra dışı bir kilise yapısıdır.",
+                  "category": "Churches & monasteries",
+                  "coords": [
+                        8.48125,
+                        49.4778
+                  ]
+            },
+            {
+                  "name": "Ernst Bloch Merkezi",
+                  "text": "Filozof Ernst Bloch'a adanmış olup müze, arşiv ve kültürel etkinlik mekanı olarak hizmet verir.",
+                  "category": "Museums"
+            },
+            {
+                  "name": "Rheingalerie",
+                  "text": "Nehir kıyısında yer alan, gemi formundaki belirgin mimarisiyle modern bir alışveriş merkezidir.",
+                  "category": "Bridges, train stations of note"
             }
       ]
-,
-      "tr": [
-        { "name": "Wilhelm Hack Müzesi", "text": "Göze çarpan Miró Duvarı ve 20. yüzyıldan günümüze uzanan önemli sanat koleksiyonlarıyla tanınır.", "category": "Museums" },
-        { "name": "Ebertpark", "text": "Şehir merkezinde tematik bahçeleri, fıskiyeleri ve tarihi restoranıyla bir dinlenme vahasıdır.", "category": "Parks, gardens, lakes nearby" },
-        { "name": "BASF Ziyaretçi Merkezi", "text": "Dünyanın en büyük kimya şirketinin tarihi ve inovasyonları hakkında etkileşimli sergiler sunar.", "category": "Local industry heritage" },
-        { "name": "Barış Kilisesi", "text": "Modern mimarisi ve dini önemiyle dikkat çeken, merkezdeki sıra dışı bir kilise yapısıdır.", "category": "Churches & monasteries" },
-        { "name": "Ernst Bloch Merkezi", "text": "Filozof Ernst Bloch'a adanmış olup müze, arşiv ve kültürel etkinlik mekanı olarak hizmet verir.", "category": "Museums" },
-        { "name": "Rheingalerie", "text": "Nehir kıyısında yer alan, gemi formundaki belirgin mimarisiyle modern bir alışveriş merkezidir.", "category": "Bridges, train stations of note" }
-      ]
-    }
+}
   },
   {
     id: "hist-trier-porta-nigra-extra",
@@ -3824,31 +4945,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Wormser Dom St. Peter",
                   "text": "Einer der drei rheinischen Kaiserdome, ein herausragendes Beispiel romanischer Kirchenbaukunst in Deutschland.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.359722,
+                        49.630278
+                  ]
             },
             {
                   "name": "Lutherdenkmal",
                   "text": "Das größte Reformationsdenkmal der Welt erinnert an den Reichstag von 1521 und Martin Luthers Wirken.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.3601,
+                        49.6323
+                  ]
             },
             {
                   "name": "Jüdischer Friedhof Heiliger Sand",
                   "text": "Der älteste erhaltene jüdische Friedhof Europas mit Grabsteinen, die bis in das 11. Jahrhundert zurückreichen.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.355442,
+                        49.629272
+                  ]
             },
             {
                   "name": "Nibelungenmuseum",
                   "text": "Ein innovatives Museum in zwei Türmen der mittelalterlichen Stadtmauer, das die Nibelungensage multimedial präsentiert.",
                   "category": "Museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Jüdisches Viertel und Mikwe",
-                  "text": "Teil des UNESCO-Welterbes ShUM-Stätten, mit der alten Synagoge und dem mittelalterlichen rituellen Tauchbad.",
-                  "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.36703,
+                        49.6294
+                  ]
             },
             {
                   "name": "Siegfriedbrunnen",
@@ -3862,31 +4993,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Wormsi dóm",
                   "text": "A három rajnai császári dóm egyike, a román stílusú építészet mesterműve a város legmagasabb pontján.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.359722,
+                        49.630278
+                  ]
             },
             {
                   "name": "Luther-emlékmű",
                   "text": "A világ legnagyobb reformációs emlékműve, amely Luther 1521-es birodalmi gyűlés előtti fellépésének állít emléket.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.3601,
+                        49.6323
+                  ]
             },
             {
                   "name": "Szent Homok zsidó temető",
                   "text": "Európa legrégebbi fennmaradt zsidó temetője, ahol a sírkövek a 11. századig nyúlnak vissza az időben.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.355442,
+                        49.629272
+                  ]
             },
             {
                   "name": "Nibelung-múzeum",
                   "text": "Multimédiás múzeum a városfal két tornyában, amely a híres germán eposzt és annak történetét mutatja be.",
                   "category": "Museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Zsidó negyed és Mikve",
-                  "text": "A középkori zsidó élet központja rituális fürdővel és zsinagógával, amely a világörökség része.",
-                  "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.36703,
+                        49.6294
+                  ]
             }
       ],
       "ro": [
@@ -3894,31 +5035,41 @@ export const poiExtraDe2: POI[] = [
                   "name": "Catedrala Sfântul Petru",
                   "text": "O catedrală imperială grandioasă, considerată una dintre cele mai importante structuri romanice din Germania.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.359722,
+                        49.630278
+                  ]
             },
             {
                   "name": "Monumentul lui Luther",
                   "text": "Cel mai mare monument al Reformei din lume, celebrând curajul lui Martin Luther în fața Dietei din Worms.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.3601,
+                        49.6323
+                  ]
             },
             {
                   "name": "Cimitirul evreiesc Nisipul Sfânt",
                   "text": "Cel mai vechi cimitir evreiesc păstrat în Europa, cu o istorie care începe acum aproape o mie de ani.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.355442,
+                        49.629272
+                  ]
             },
             {
                   "name": "Muzeul Nibelungilor",
                   "text": "Găzduit în turnurile fortificate ale orașului, muzeul explorează faimoasa legendă epică prin tehnologie modernă.",
                   "category": "Museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cartierul Evreiesc și Mikva",
-                  "text": "Un loc istoric important cu o sinagogă și o baie rituală medievală bine conservată, parte din patrimoniul mondial.",
-                  "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.36703,
+                        49.6294
+                  ]
             }
       ],
       "en": [
@@ -3926,43 +5077,87 @@ export const poiExtraDe2: POI[] = [
                   "name": "Worms Cathedral",
                   "text": "A majestic Romanesque imperial cathedral, known for its four towers and its significance in medieval history.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.359722,
+                        49.630278
+                  ]
             },
             {
                   "name": "Luther Monument",
                   "text": "The world's largest Reformation monument, commemorating Martin Luther's appearance at the Diet of Worms in 1521.",
                   "category": "Town hall & historic squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.3601,
+                        49.6323
+                  ]
             },
             {
                   "name": "Holy Sands Jewish Cemetery",
                   "text": "Europe's oldest surviving Jewish cemetery, featuring thousands of gravestones dating back to 1076.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.355442,
+                        49.629272
+                  ]
             },
             {
                   "name": "Nibelungen Museum",
                   "text": "An innovative multimedia museum built into the medieval city walls, telling the story of the Nibelungen epic.",
                   "category": "Museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.36703,
+                        49.6294
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Worms St. Peter Katedrali",
+                  "text": "Üç Ren katedralinden biri olup Almanya'daki Romanesk kilise mimarisinin seçkin bir örneğidir.",
+                  "category": "Churches & monasteries",
+                  "coords": [
+                        8.359722,
+                        49.630278
+                  ]
             },
             {
-                  "name": "Jewish Quarter and Mikveh",
-                  "text": "A historical district including the Old Synagogue and a 12th-century ritual bath, part of UNESCO World Heritage.",
+                  "name": "Luther Anıtı",
+                  "text": "Dünyanın en büyük Reformasyon anıtı, 1521 Diyet Meclisi'ni ve Martin Luther'in çalışmalarını anmaktadır.",
+                  "category": "Town hall & historic squares",
+                  "coords": [
+                        8.3601,
+                        49.6323
+                  ]
+            },
+            {
+                  "name": "Heiliger Sand Yahudi Mezarlığı",
+                  "text": "Avrupa'nın günümüze ulaşan en eski Yahudi mezarlığı olup 11. yüzyıla kadar giden mezar taşları barındırır.",
                   "category": "Churches & monasteries",
-                  "confidence": "high"
+                  "coords": [
+                        8.355442,
+                        49.629272
+                  ]
+            },
+            {
+                  "name": "Nibelungen Müzesi",
+                  "text": "Orta Çağ şehir surlarının iki kulesinde yer alan, Nibelungen destanını multimedya ile sunan yenilikçi bir müze.",
+                  "category": "Museums",
+                  "coords": [
+                        8.36703,
+                        49.6294
+                  ]
+            },
+            {
+                  "name": "Siegfried Çeşmesi",
+                  "text": "Pazar meydanında Nibelungen destanı kahramanlarını anan bir anıt ve popüler bir fotoğraf noktasıdır.",
+                  "category": "Town hall & historic squares"
             }
       ]
-,
-      "tr": [
-        { "name": "Worms St. Peter Katedrali", "text": "Üç Ren katedralinden biri olup Almanya'daki Romanesk kilise mimarisinin seçkin bir örneğidir.", "category": "Churches & monasteries" },
-        { "name": "Luther Anıtı", "text": "Dünyanın en büyük Reformasyon anıtı, 1521 Diyet Meclisi'ni ve Martin Luther'in çalışmalarını anmaktadır.", "category": "Town hall & historic squares" },
-        { "name": "Heiliger Sand Yahudi Mezarlığı", "text": "Avrupa'nın günümüze ulaşan en eski Yahudi mezarlığı olup 11. yüzyıla kadar giden mezar taşları barındırır.", "category": "Churches & monasteries" },
-        { "name": "Nibelungen Müzesi", "text": "Orta Çağ şehir surlarının iki kulesinde yer alan, Nibelungen destanını multimedya ile sunan yenilikçi bir müze.", "category": "Museums" },
-        { "name": "Yahudi Mahallesi ve Mikve", "text": "UNESCO Dünya Mirası ShUM alanlarının bir parçası olup eski sinagogu ve Orta Çağ ritüel banyosunu içerir.", "category": "Churches & monasteries" },
-        { "name": "Siegfried Çeşmesi", "text": "Pazar meydanında Nibelungen destanı kahramanlarını anan bir anıt ve popüler bir fotoğraf noktasıdır.", "category": "Town hall & historic squares" }
-      ]
-    }
+}
   },
   {
     id: "landmark-cochem-burg-extra",

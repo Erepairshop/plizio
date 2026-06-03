@@ -380,154 +380,50 @@ export const moldovaCitiesV2: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Kathedrale St. Johannes der Täufer",
-                  "text": "Die leuchtend gelbe orthodoxe Kathedrale im Zentrum von Comrat wurde 1840 erbaut und ist das geistliche Zentrum der Stadt.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Heimatmuseum Gagausiens",
-                  "text": "Das Museum zeigt die reiche Geschichte, Kultur und die einzigartigen Traditionen des autonomen gagausischen Volkes.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Staatsuniversität Comrat",
                   "text": "Das bedeutendste Bildungszentrum der Region, das eine zentrale Rolle bei der Bewahrung der gagausischen Sprache und Kultur spielt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Allee des gagausischen Ruhms",
-                  "text": "Ein Denkmalensemble im Zentrum der Stadt, das bedeutenden Persönlichkeiten der gagausischen Geschichte und Kultur gewidmet ist.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Zentraler Platz",
-                  "text": "Der Treffpunkt der Stadt, umgeben von Regierungsgebäuden und Cafés, auf dem regelmäßig lokale Feste und Märkte stattfinden.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Park der Befreiung",
-                  "text": "Eine grüne Oase im Stadtzentrum, die Einheimischen Raum für Erholung bietet und an historische Ereignisse der Region erinnert.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.653509,
+                        46.29972
+                  ]
             }
       ],
       "hu": [
             {
-                  "name": "Keresztelő Szent János-székesegyház",
-                  "text": "Komrát központjában álló, sárga falú ortodox székesegyház 1840-ben épült, és a város legfontosabb vallási központja.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gagauz Nemzeti Történeti és Néprajzi Múzeum",
-                  "text": "A múzeum bemutatja az autonóm gagauz nép gazdag történelmét, egyedi kultúráját és mindennapi hagyományait.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Komráti Állami Egyetem",
                   "text": "A régió legfontosabb oktatási intézménye, amely központi szerepet játszik a gagauz nyelv és identitás megőrzésében.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gagauz dicsőség sétánya",
-                  "text": "A városközpontban található emlékműsor, amely a gagauz történelem és kultúra legkiemelkedőbb alakjainak állít emléket.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Központi tér",
-                  "text": "A város társasági életének központja, ahol kormányzati épületek, üzletek találhatók, és helyi rendezvényeket tartanak.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Felszabadulás park",
-                  "text": "A város szívében fekvő zöldterület, amely pihenési lehetőséget nyújt a lakóknak és emléket állít a régió történelmi eseményeinek.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.653509,
+                        46.29972
+                  ]
             }
       ],
       "ro": [
             {
-                  "name": "Catedrala Sfântul Ioan Botezătorul",
-                  "text": "Catedrala ortodoxă galbenă din centrul orașului Comrat a fost construită în 1840 și reprezintă inima spirituală a localității.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Muzeul de Istorie și Etnografie al Găgăuziei",
-                  "text": "Muzeul prezintă istoria bogată, cultura și tradițiile unice ale poporului găgăuz din unitatea teritorială autonomă.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Universitatea de Stat din Comrat",
                   "text": "Cel mai important centru educațional din regiune, având un rol crucial în conservarea limbii și culturii găgăuze.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Aleea Gloriei Găgăuze",
-                  "text": "Un ansamblu de monumente situat în centrul orașului, dedicat personalităților marcante ale istoriei și culturii găgăuze.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Piața Centrală",
-                  "text": "Locul principal de întâlnire din oraș, înconjurat de clădiri administrative, unde au loc festivaluri și evenimente locale.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Parcul Eliberării",
-                  "text": "O zonă verde în centrul orașului care oferă un spațiu de recreere și amintește de evenimentele istorice din regiune.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.653509,
+                        46.29972
+                  ]
             }
       ],
       "en": [
             {
-                  "name": "Cathedral of St. John the Baptist",
-                  "text": "The bright yellow Orthodox cathedral in central Comrat was built in 1840 and serves as the spiritual heart of the city.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gagauz History and Ethnography Museum",
-                  "text": "The museum showcases the rich history, culture, and unique daily traditions of the autonomous Gagauz people.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Comrat State University",
                   "text": "The region's leading educational center, which plays a vital role in preserving the Gagauz language and heritage.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Alley of Gagauz Glory",
-                  "text": "A series of monuments in the city center dedicated to the most prominent figures in Gagauz history and culture.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Central Square",
-                  "text": "The main social hub of the city, surrounded by administrative buildings, hosting regular local festivals and markets.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Park of Liberation",
-                  "text": "A green space in the heart of Comrat that provides recreation for locals and commemorates historical events in the region.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.653509,
+                        46.29972
+                  ]
             }
       ]
 }

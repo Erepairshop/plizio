@@ -87,7 +87,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJv300IT7-nkcRkfoJFlIeImM",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.41565,
+                        48.78257
+                  ]
             },
             {
                   "name": "Neues Schloss",
@@ -100,7 +104,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ0QlrTlL-nkcRd-uQwc8f60I",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.430556,
+                        48.764722
+                  ]
             },
             {
                   "name": "Liebfrauenmünster",
@@ -113,7 +121,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ66ZJnFD-nkcRlO8cgAIk6kI",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.420503,
+                        48.764251
+                  ]
             },
             {
                   "name": "Kreuztor",
@@ -126,7 +138,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJu_cWR1r-nkcRLi68NE6ws8I",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.4179,
+                        48.7642
+                  ]
             },
             {
                   "name": "Deutsches Medizinhistorisches Museum",
@@ -139,7 +155,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJmzFi_ln-nkcRFEAqQVL1T8Y",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.419717,
+                        48.762475
+                  ]
             },
             {
                   "name": "Klenzepark",
@@ -152,7 +172,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJB69kUav_nkcR1CqxI5d5TAg",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.4333,
+                        48.7619
+                  ]
             }
       ],
       "hu": [
@@ -167,19 +191,31 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJv300IT7-nkcRkfoJFlIeImM",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.41565,
+                        48.78257
+                  ]
             },
             {
                   "name": "Új kastély (Neues Schloss)",
                   "text": "A 15. századi hercegi épület ma a Bajor Hadseregmúzeumnak ad otthont, jelentős katonai gyűjteménnyel.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.430556,
+                        48.764722
+                  ]
             },
             {
                   "name": "Miasszonyunk-templom",
                   "text": "A késő gótikus csarnoktemplom hatalmas tetőszerkezetével és értékes főoltárával nyűgözi le a látogatókat.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.420503,
+                        48.764251
+                  ]
             },
             {
                   "name": "Kreuztor",
@@ -192,13 +228,21 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJu_cWR1r-nkcRLi68NE6ws8I",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.4179,
+                        48.7642
+                  ]
             },
             {
                   "name": "Német Orvostörténeti Múzeum",
                   "text": "A barokk anatómiai épületben elhelyezett múzeum az orvostudomány történetét mutatja be az ókortól napjainkig.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.419717,
+                        48.762475
+                  ]
             },
             {
                   "name": "Klenzepark",
@@ -211,7 +255,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJB69kUav_nkcR1CqxI5d5TAg",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.4333,
+                        48.7619
+                  ]
             }
       ],
       "ro": [
@@ -226,37 +274,61 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJv300IT7-nkcRkfoJFlIeImM",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.41565,
+                        48.78257
+                  ]
             },
             {
                   "name": "Castelul Nou",
                   "text": "Clădirea ducală din secolul al XV-lea găzduiește astăzi Muzeul Armatei Bavareze, cu piese militare deosebite.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.430556,
+                        48.764722
+                  ]
             },
             {
                   "name": "Catedrala Liebfrauenmünster",
                   "text": "Biserica gotică târzie impresionează prin structura masivă a acoperișului și altarul principal prețios.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.420503,
+                        48.764251
+                  ]
             },
             {
                   "name": "Poarta Kreuztor",
                   "text": "Simbolul orașului, este cea mai frumoasă poartă păstrată a fostei cetăți Ingolstadt, datând din secolul al XIV-lea.",
                   "category": "gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.4179,
+                        48.7642
+                  ]
             },
             {
                   "name": "Muzeul German de Istorie a Medicinei",
                   "text": "Găzduit într-o clădire barocă de anatomie, prezintă evoluția medicinei din antichitate până în prezent.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.419717,
+                        48.762475
+                  ]
             },
             {
                   "name": "Parcul Klenze",
                   "text": "Situat pe malul Dunării, parcul îmbină fortificațiile istorice cu spații moderne de recreere și relaxare.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.4333,
+                        48.7619
+                  ]
             }
       ],
       "en": [
@@ -271,13 +343,21 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJv300IT7-nkcRkfoJFlIeImM",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.41565,
+                        48.78257
+                  ]
             },
             {
                   "name": "New Castle",
                   "text": "This 15th-century ducal building now houses the Bavarian Army Museum with its significant military collections.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.430556,
+                        48.764722
+                  ]
             },
             {
                   "name": "Liebfrauenmünster",
@@ -290,7 +370,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ66ZJnFD-nkcRlO8cgAIk6kI",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.420503,
+                        48.764251
+                  ]
             },
             {
                   "name": "Kreuztor",
@@ -303,13 +387,21 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJu_cWR1r-nkcRLi68NE6ws8I",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.4179,
+                        48.7642
+                  ]
             },
             {
                   "name": "German Museum of Medical History",
                   "text": "Located in a Baroque anatomy building, it displays the history of medicine from antiquity to the present.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        11.419717,
+                        48.762475
+                  ]
             },
             {
                   "name": "Klenzepark",
@@ -322,19 +414,70 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJB69kUav_nkcR1CqxI5d5TAg",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        11.4333,
+                        48.7619
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Audi Forum Ingolstadt",
+                  "text": "Audi markasına dair modern bir deneyim merkezi; müze, araç teslimatı ve fabrika turları sunar.",
+                  "category": "industry",
+                  "coords": [
+                        11.41565,
+                        48.78257
+                  ]
+            },
+            {
+                  "name": "Yeni Şato (Neues Schloss)",
+                  "text": "15. yüzyıldan kalma dükalık binası, bugün önemli askeri eserlerin sergilendiği Bavyera Ordu Müzesi'dir.",
+                  "category": "castle",
+                  "coords": [
+                        11.430556,
+                        48.764722
+                  ]
+            },
+            {
+                  "name": "Meryem Ana Katedrali (Liebfrauenmünster)",
+                  "text": "Geç Gotik salon kilisesi, devasa çatı yapısı ve değerli ana sunağı ile mimari bir şaheserdir.",
+                  "category": "church",
+                  "coords": [
+                        11.420503,
+                        48.764251
+                  ]
+            },
+            {
+                  "name": "Haç Kapısı (Kreuztor)",
+                  "text": "Şehrin simgesi olan bu yapı, 14. yüzyıldan kalma eski Ingolstadt kalesinin en güzel korunmuş kapısıdır.",
+                  "category": "gate",
+                  "coords": [
+                        11.4179,
+                        48.7642
+                  ]
+            },
+            {
+                  "name": "Alman Tıp Tarihi Müzesi",
+                  "text": "Barok bir anatomi binasında yer alan müze, antik çağdan günümüze tıp tarihini kapsamlıca sunar.",
+                  "category": "museum",
+                  "coords": [
+                        11.419717,
+                        48.762475
+                  ]
+            },
+            {
+                  "name": "Klenzepark",
+                  "text": "Tuna kıyısındaki bu eski park, tarihi kale yapılarını modern rekreasyon alanlarıyla birleştirir.",
+                  "category": "park",
+                  "coords": [
+                        11.4333,
+                        48.7619
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Audi Forum Ingolstadt", "text": "Audi markasına dair modern bir deneyim merkezi; müze, araç teslimatı ve fabrika turları sunar.", "category": "industry" },
-        { "name": "Yeni Şato (Neues Schloss)", "text": "15. yüzyıldan kalma dükalık binası, bugün önemli askeri eserlerin sergilendiği Bavyera Ordu Müzesi'dir.", "category": "castle" },
-        { "name": "Meryem Ana Katedrali (Liebfrauenmünster)", "text": "Geç Gotik salon kilisesi, devasa çatı yapısı ve değerli ana sunağı ile mimari bir şaheserdir.", "category": "church" },
-        { "name": "Haç Kapısı (Kreuztor)", "text": "Şehrin simgesi olan bu yapı, 14. yüzyıldan kalma eski Ingolstadt kalesinin en güzel korunmuş kapısıdır.", "category": "gate" },
-        { "name": "Alman Tıp Tarihi Müzesi", "text": "Barok bir anatomi binasında yer alan müze, antik çağdan günümüze tıp tarihini kapsamlıca sunar.", "category": "museum" },
-        { "name": "Klenzepark", "text": "Tuna kıyısındaki bu eski park, tarihi kale yapılarını modern rekreasyon alanlarıyla birleştirir.", "category": "park" }
-      ]
-    }
+}
   },
 
   {
@@ -413,37 +556,61 @@ export const poiExtraDe1: POI[] = [
                   "name": "Dom St. Stephan",
                   "text": "Die barocke Kathedrale beherbergt die größte Domorgel der Welt und ist für ihre prunkvolle Ausstattung berühmt.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.4655,
+                        48.57418
+                  ]
             },
             {
                   "name": "Veste Oberhaus",
                   "text": "Die mächtige Burganlage über der Donau bietet einen spektakulären Blick auf die Dreiflüssestadt und ein Museum.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.471102,
+                        48.577527
+                  ]
             },
             {
                   "name": "Dreiflüsseeck",
                   "text": "Der Ort, an dem Donau, Inn und Ilz zusammenfließen, ist ein einzigartiges Naturschauspiel in Passau.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.476807,
+                        48.573713
+                  ]
             },
             {
                   "name": "Altes Rathaus",
                   "text": "Das gotische Gebäude am Donauufer beeindruckt durch seine prachtvollen Rathaussäle und die Hochwassermarken an der Fassade.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.46869,
+                        48.574934
+                  ]
             },
             {
                   "name": "Wallfahrtskirche Mariahilf",
                   "text": "Über die 321 Stufen der Wallfahrtstreppe erreicht man die Kirche, die einen herrlichen Blick über Passau bietet.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.4702,
+                        48.569039
+                  ]
             },
             {
                   "name": "Glasmuseum Passau",
                   "text": "Eines der bedeutendsten Glasmuseen weltweit, das die Geschichte des böhmischen Glases in prächtigen Räumen zeigt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.468423,
+                        48.575105
+                  ]
             }
       ],
       "hu": [
@@ -451,37 +618,61 @@ export const poiExtraDe1: POI[] = [
                   "name": "Szent István-székesegyház",
                   "text": "A barokk katedrális a világ legnagyobb orgonájának ad otthont, és díszes belső teréről nevezetes.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.4655,
+                        48.57418
+                  ]
             },
             {
                   "name": "Veste Oberhaus",
                   "text": "A Duna feletti hatalmas várkomplexum látványos kilátást nyújt a három folyó városára és múzeumnak ad otthont.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.471102,
+                        48.577527
+                  ]
             },
             {
                   "name": "Hármas-folyó torkolat",
                   "text": "A hely, ahol a Duna, az Inn és az Ilz folyók találkoznak, Passau egyedülálló természeti látványossága.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.476807,
+                        48.573713
+                  ]
             },
             {
                   "name": "Régi Városháza",
                   "text": "A Duna partján álló gótikus épület pompás termeivel és a homlokzatán látható árvízszintekkel hívja fel magára a figyelmet.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.46869,
+                        48.574934
+                  ]
             },
             {
                   "name": "Mariahilf kegytemplom",
                   "text": "A 321 lépcsőfokból álló zarándokúton elérhető templom gyönyörű kilátást kínál a városra.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.4702,
+                        48.569039
+                  ]
             },
             {
                   "name": "Passaui Üvegmúzeum",
                   "text": "A világ egyik legjelentősebb üvegmúzeuma, amely a cseh üveggyártás történetét mutatja be pompás termekben.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.468423,
+                        48.575105
+                  ]
             }
       ],
       "ro": [
@@ -489,37 +680,61 @@ export const poiExtraDe1: POI[] = [
                   "name": "Catedrala Sfântul Ștefan",
                   "text": "Catedrala barocă adăpostește cea mai mare orgă de biserică din lume și este celebră pentru decorul său fastuos.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.4655,
+                        48.57418
+                  ]
             },
             {
                   "name": "Veste Oberhaus",
                   "text": "Fortăreața impunătoare de deasupra Dunării oferă o vedere spectaculoasă asupra orașului celor trei râuri.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.471102,
+                        48.577527
+                  ]
             },
             {
                   "name": "Confluența celor trei râuri",
                   "text": "Locul unde Dunărea, Innul și Ilzul se întâlnesc reprezintă un spectacol natural unic în Passau.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.476807,
+                        48.573713
+                  ]
             },
             {
                   "name": "Primăria Veche",
                   "text": "Clădirea gotică de pe malul Dunării impresionează prin sălile sale magnifice și cotele de inundație de pe fațadă.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.46869,
+                        48.574934
+                  ]
             },
             {
                   "name": "Biserica Mariahilf",
                   "text": "Accesibilă prin cele 321 de trepte ale scării de pelerinaj, biserica oferă o panoramă superbă asupra orașului.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.4702,
+                        48.569039
+                  ]
             },
             {
                   "name": "Muzeul Sticlei din Passau",
                   "text": "Unul dintre cele mai importante muzee de sticlă din lume, prezentând istoria sticlei boemiene în camere luxoase.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.468423,
+                        48.575105
+                  ]
             }
       ],
       "en": [
@@ -527,49 +742,120 @@ export const poiExtraDe1: POI[] = [
                   "name": "St. Stephen's Cathedral",
                   "text": "This Baroque cathedral houses the world's largest church organ and is famous for its opulent interior.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.4655,
+                        48.57418
+                  ]
             },
             {
                   "name": "Veste Oberhaus",
                   "text": "The mighty fortress complex above the Danube offers spectacular views of the 'City of Three Rivers' and a museum.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.471102,
+                        48.577527
+                  ]
             },
             {
                   "name": "Three Rivers Confluence",
                   "text": "The point where the Danube, Inn, and Ilz rivers meet is a unique natural spectacle in Passau.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.476807,
+                        48.573713
+                  ]
             },
             {
                   "name": "Old Town Hall",
                   "text": "The Gothic building on the Danube banks impresses with its grand halls and flood markers on the facade.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.46869,
+                        48.574934
+                  ]
             },
             {
                   "name": "Mariahilf Pilgrimage Church",
                   "text": "Reached via 321 pilgrimage steps, this church offers a wonderful panoramic view over Passau.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.4702,
+                        48.569039
+                  ]
             },
             {
                   "name": "Passau Glass Museum",
                   "text": "One of the world's most significant glass museums, showcasing the history of Bohemian glass in grand rooms.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.468423,
+                        48.575105
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "St. Stephan Katedrali",
+                  "text": "Barok katedral, dünyanın en büyük kilise orguna ev sahipliği yapar ve görkemli dekorasyonuyla ünlüdür.",
+                  "category": "church",
+                  "coords": [
+                        13.4655,
+                        48.57418
+                  ]
+            },
+            {
+                  "name": "Veste Oberhaus Kalesi",
+                  "text": "Tuna üzerindeki bu güçlü kale, üç nehrin birleştiği şehre muazzam bir bakış ve bir müze sunar.",
+                  "category": "castle",
+                  "coords": [
+                        13.471102,
+                        48.577527
+                  ]
+            },
+            {
+                  "name": "Üç Nehir Köşesi (Dreiflüsseeck)",
+                  "text": "Tuna, Inn ve Ilz nehirlerinin birleştiği nokta, Passau'da eşsiz ve büyüleyici bir doğa olayıdır.",
+                  "category": "historical",
+                  "coords": [
+                        13.476807,
+                        48.573713
+                  ]
+            },
+            {
+                  "name": "Eski Belediye Binası",
+                  "text": "Tuna kıyısındaki Gotik bina, görkemli salonları ve cephesindeki sel seviyesi işaretleriyle etkileyicidir.",
+                  "category": "historical",
+                  "coords": [
+                        13.46869,
+                        48.574934
+                  ]
+            },
+            {
+                  "name": "Mariahilf Hacı Kilisesi",
+                  "text": "321 basamaklı merdivenle ulaşılan kilise, Passau üzerinden harika bir manzara seyretme imkanı verir.",
+                  "category": "church",
+                  "coords": [
+                        13.4702,
+                        48.569039
+                  ]
+            },
+            {
+                  "name": "Passau Cam Müzesi",
+                  "text": "Dünyanın en önemli cam müzelerinden biri olup Bohemya camı tarihini muhteşem odalarda sergiler.",
+                  "category": "museum",
+                  "coords": [
+                        13.468423,
+                        48.575105
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "St. Stephan Katedrali", "text": "Barok katedral, dünyanın en büyük kilise orguna ev sahipliği yapar ve görkemli dekorasyonuyla ünlüdür.", "category": "church" },
-        { "name": "Veste Oberhaus Kalesi", "text": "Tuna üzerindeki bu güçlü kale, üç nehrin birleştiği şehre muazzam bir bakış ve bir müze sunar.", "category": "castle" },
-        { "name": "Üç Nehir Köşesi (Dreiflüsseeck)", "text": "Tuna, Inn ve Ilz nehirlerinin birleştiği nokta, Passau'da eşsiz ve büyüleyici bir doğa olayıdır.", "category": "historical" },
-        { "name": "Eski Belediye Binası", "text": "Tuna kıyısındaki Gotik bina, görkemli salonları ve cephesindeki sel seviyesi işaretleriyle etkileyicidir.", "category": "historical" },
-        { "name": "Mariahilf Hacı Kilisesi", "text": "321 basamaklı merdivenle ulaşılan kilise, Passau üzerinden harika bir manzara seyretme imkanı verir.", "category": "church" },
-        { "name": "Passau Cam Müzesi", "text": "Dünyanın en önemli cam müzelerinden biri olup Bohemya camı tarihini muhteşem odalarda sergiler.", "category": "museum" }
-      ]
-    }
+}
   },
 
   {
@@ -1234,7 +1520,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJdYIuTcK6uUcRUKC4CZyuA6M",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.62556,
+                        51.9631
+                  ]
             },
             {
                   "name": "Historisches Rathaus",
@@ -1247,7 +1537,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJcdbwOMO6uUcRTUEAzSibO30",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.627964,
+                        51.961602
+                  ]
             },
             {
                   "name": "Prinzipalmarkt",
@@ -1260,7 +1554,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJrzx_aSC7uUcR70Z0ePvE3rQ",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.627319,
+                        51.961266
+                  ]
             },
             {
                   "name": "Schloss Münster",
@@ -1273,7 +1571,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJrYFjKby6uUcRHzMgylSy5bo",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.613056,
+                        51.9637
+                  ]
             },
             {
                   "name": "Lambertikirche",
@@ -1286,7 +1588,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJg9br18K6uUcRJC9r5gjiN0o",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.62861,
+                        51.9629
+                  ]
             },
             {
                   "name": "LWL-Museum für Kunst und Kultur",
@@ -1299,7 +1605,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ797owMO6uUcRO6l3P5XFbmc",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.62444,
+                        51.9619
+                  ]
             },
             {
                   "name": "Aasee",
@@ -1312,7 +1622,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ3_0THrO6uUcRMM-QfofvqVk",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.603611,
+                        51.949444
+                  ]
             }
       ],
       "hu": [
@@ -1320,13 +1634,21 @@ export const poiExtraDe1: POI[] = [
                   "name": "Szent Pál-székesegyház",
                   "text": "A 13. századi katedrális híres a csillagászati órájáról és a román-gótikus építészeti stílusok ötvözetéről.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62556,
+                        51.9631
+                  ]
             },
             {
                   "name": "Történelmi Városháza",
                   "text": "Gótikus épület, ahol 1648-ban aláírták a vesztfáliai békét, lezárva a harmincéves háborút Európában.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.627964,
+                        51.961602
+                  ]
             },
             {
                   "name": "Prinzipalmarkt",
@@ -1339,31 +1661,51 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJrzx_aSC7uUcR70Z0ePvE3rQ",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.627319,
+                        51.961266
+                  ]
             },
             {
                   "name": "Münsteri kastély",
                   "text": "A korábbi hercegérseki rezidencia barokk épülete ma az egyetem központi igazgatási épületeként funkcionál.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.613056,
+                        51.9637
+                  ]
             },
             {
                   "name": "Szent Lambert-templom",
                   "text": "A templom tornyán függő három vasketrec az újrakeresztelők vezetőinek kivégzésére emlékeztet a 16. századból.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62861,
+                        51.9629
+                  ]
             },
             {
                   "name": "LWL Művészeti és Kulturális Múzeum",
                   "text": "Közép-Európa egyik jelentős múzeuma, amely a középkortól napjainkig mutatja be a régió művészeti emlékeit.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62444,
+                        51.9619
+                  ]
             },
             {
                   "name": "Aasee-tó",
                   "text": "Népszerű pihenőhely a város szélén, ahol vitorlázásra, sétára és szabadtéri szobrok megtekintésére van lehetőség.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.603611,
+                        51.949444
+                  ]
             }
       ],
       "ro": [
@@ -1371,43 +1713,71 @@ export const poiExtraDe1: POI[] = [
                   "name": "Catedrala Sfântul Paul",
                   "text": "Această catedrală din secolul al XIII-lea este renumită pentru ceasul său astronomic și arhitectura impresionantă.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62556,
+                        51.9631
+                  ]
             },
             {
                   "name": "Primăria Istorică",
                   "text": "Clădire gotică celebră pentru Sala Păcii, unde s-a semnat Tratatul de la Westfalia în anul 1648.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.627964,
+                        51.961602
+                  ]
             },
             {
                   "name": "Piața Prinzipalmarkt",
                   "text": "Piața centrală a orașului, mărginită de clădiri istorice cu frontoane distinctive și arcade elegante.",
                   "category": "square",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.627319,
+                        51.961266
+                  ]
             },
             {
                   "name": "Castelul din Münster",
                   "text": "Fosta reședință barocă a prinților-episcopi, actualul sediu principal al universității locale din oraș.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.613056,
+                        51.9637
+                  ]
             },
             {
                   "name": "Biserica Sfântul Lambert",
                   "text": "Cunoscută pentru cele trei cuști de fier expuse pe turn, amintind de rebeliunea anabaptistă din secolul XVI.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62861,
+                        51.9629
+                  ]
             },
             {
                   "name": "Muzeul LWL de Artă și Cultură",
                   "text": "Un muzeu de referință care expune colecții vaste de artă, de la manuscrise medievale la opere contemporane.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62444,
+                        51.9619
+                  ]
             },
             {
                   "name": "Lacul Aasee",
                   "text": "O zonă vastă de recreere situată lângă centru, ideală pentru plimbări cu barca și activități în aer liber.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.603611,
+                        51.949444
+                  ]
             }
       ],
       "en": [
@@ -1415,13 +1785,21 @@ export const poiExtraDe1: POI[] = [
                   "name": "St. Paul's Cathedral",
                   "text": "A 13th-century cathedral featuring a famous astronomical clock and a unique blend of Romanesque and Gothic styles.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62556,
+                        51.9631
+                  ]
             },
             {
                   "name": "Historical City Hall",
                   "text": "A Gothic building where the Peace of Westphalia was signed in 1648, ending the Thirty Years' War.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.627964,
+                        51.961602
+                  ]
             },
             {
                   "name": "Prinzipalmarkt",
@@ -1434,44 +1812,119 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJrzx_aSC7uUcR70Z0ePvE3rQ",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.627319,
+                        51.961266
+                  ]
             },
             {
                   "name": "Münster Palace",
                   "text": "The Baroque residence of former prince-bishops, now serving as the main building of the university.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.613056,
+                        51.9637
+                  ]
             },
             {
                   "name": "St. Lambert's Church",
                   "text": "Famous for the three iron cages hanging from its spire, which once held the bodies of Anabaptist leaders.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62861,
+                        51.9629
+                  ]
             },
             {
                   "name": "LWL Museum of Art and Culture",
                   "text": "A major art museum showcasing regional and international masterpieces from the Middle Ages to the present.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62444,
+                        51.9619
+                  ]
             },
             {
                   "name": "Lake Aasee",
                   "text": "A large artificial lake and recreational area near the city center, popular for sailing and lakeside walks.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.603611,
+                        51.949444
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "St. Paulus Katedrali",
+                  "text": "13. yüzyıldan kalma katedral, astronomik saati ve Romanesk-Gotik karışımı mimarisiyle dikkat çeker.",
+                  "category": "church",
+                  "coords": [
+                        7.62556,
+                        51.9631
+                  ]
+            },
+            {
+                  "name": "Tarihi Belediye Binası",
+                  "text": "1648'de Otuz Yıl Savaşları'nı bitiren Vestfalya Barışı'nın imzalandığı Gotik tarzdaki görkemli binadır.",
+                  "category": "town-hall",
+                  "coords": [
+                        7.627964,
+                        51.961602
+                  ]
+            },
+            {
+                  "name": "Prinzipalmarkt",
+                  "text": "Şehir manzarasını belirleyen karakteristik çatılı evler ve kemeraltlarıyla çevrili tarihi çarşı caddesidir.",
+                  "category": "square",
+                  "coords": [
+                        7.627319,
+                        51.961266
+                  ]
+            },
+            {
+                  "name": "Münster Şatosu",
+                  "text": "Eski prens-piskopos rezidansı olan Barok şato, bugün Münster Üniversitesi'nin ana binası olarak kullanılır.",
+                  "category": "castle",
+                  "coords": [
+                        7.613056,
+                        51.9637
+                  ]
+            },
+            {
+                  "name": "Lamberti Kilisesi",
+                  "text": "Kulesinde bir zamanlar Anabaptistlerin cesetlerinin sergilendiği üç kafesle tanınan meşhur kilisedir.",
+                  "category": "church",
+                  "coords": [
+                        7.62861,
+                        51.9629
+                  ]
+            },
+            {
+                  "name": "LWL Sanat ve Kültür Müzesi",
+                  "text": "Orta çağdan günümüze sanat eserlerini modern bir binada sunan bölgenin en önemli sanat müzesidir.",
+                  "category": "museum",
+                  "coords": [
+                        7.62444,
+                        51.9619
+                  ]
+            },
+            {
+                  "name": "Aasee Gölü",
+                  "text": "Eski şehrin yakınında, yürüyüşler ve su sporları için popüler bir dinlenme alanı olan yapay göldür.",
+                  "category": "park",
+                  "coords": [
+                        7.603611,
+                        51.949444
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "St. Paulus Katedrali", "text": "13. yüzyıldan kalma katedral, astronomik saati ve Romanesk-Gotik karışımı mimarisiyle dikkat çeker.", "category": "church" },
-        { "name": "Tarihi Belediye Binası", "text": "1648'de Otuz Yıl Savaşları'nı bitiren Vestfalya Barışı'nın imzalandığı Gotik tarzdaki görkemli binadır.", "category": "town-hall" },
-        { "name": "Prinzipalmarkt", "text": "Şehir manzarasını belirleyen karakteristik çatılı evler ve kemeraltlarıyla çevrili tarihi çarşı caddesidir.", "category": "square" },
-        { "name": "Münster Şatosu", "text": "Eski prens-piskopos rezidansı olan Barok şato, bugün Münster Üniversitesi'nin ana binası olarak kullanılır.", "category": "castle" },
-        { "name": "Lamberti Kilisesi", "text": "Kulesinde bir zamanlar Anabaptistlerin cesetlerinin sergilendiği üç kafesle tanınan meşhur kilisedir.", "category": "church" },
-        { "name": "LWL Sanat ve Kültür Müzesi", "text": "Orta çağdan günümüze sanat eserlerini modern bir binada sunan bölgenin en önemli sanat müzesidir.", "category": "museum" },
-        { "name": "Aasee Gölü", "text": "Eski şehrin yakınında, yürüyüşler ve su sporları için popüler bir dinlenme alanı olan yapay göldür.", "category": "park" }
-      ]
-    }
+}
   },
 
   {
@@ -1557,7 +2010,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJS3koHbApuUcRb0ZNv9ktSVM",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.181425,
+                        51.267089
+                  ]
             },
             {
                   "name": "Von der Heydt-Museum",
@@ -1570,7 +2027,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ6_4hcj0ouUcRFbLM6Lxgodo",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.14658,
+                        51.2573
+                  ]
             },
             {
                   "name": "Zoo Wuppertal",
@@ -1583,7 +2044,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJdfDh6eDXuEcRpkpjgiMg4E8",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.11009,
+                        51.2442
+                  ]
             },
             {
                   "name": "Skulpturenpark Waldfrieden",
@@ -1596,7 +2061,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ1xU9sNLXuEcR8Yjspx5DLrk",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.16861,
+                        51.2528
+                  ]
             },
             {
                   "name": "Historische Stadthalle",
@@ -1609,7 +2078,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ1U6lf03WuEcRWFpbR3AiHuY",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.143056,
+                        51.253056
+                  ]
             },
             {
                   "name": "Botanischer Garten",
@@ -1622,20 +2095,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJZWkRkcnXuEcRYgI_3v2yQ0U",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
-            },
-            {
-                  "name": "Ölberg-Viertel",
-                  "text": "Eines der größten zusammenhängenden Arbeiterviertel der Gründerzeit mit engen Gassen und historischem Charme.",
-                  "category": "old-town",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/city-wuppertal-extra-oelberg-viertel.webp",
-                  "image_attribution": {
-                        "author": "<a href=\"https://maps.google.com/maps/contrib/118152945421091145545\">Renate Kern</a>",
-                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ53NRrKvXuEcRbWahBu4Fxlg",
-                        "license": "Google Places API",
-                        "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        7.160318,
+                        51.260253
+                  ]
             }
       ],
       "hu": [
@@ -1643,43 +2107,61 @@ export const poiExtraDe1: POI[] = [
                   "name": "Wuppertali függővasút",
                   "text": "A város jelképe egy egyedülálló egysínű vasút, amely 1901 óta szállítja az utasokat a Wupper folyó felett.",
                   "category": "transport",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.181425,
+                        51.267089
+                  ]
             },
             {
                   "name": "Von der Heydt Múzeum",
                   "text": "Rangos művészeti múzeum, amely jelentős impresszionista gyűjteménnyel és 17. századi holland festményekkel rendelkezik.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.14658,
+                        51.2573
+                  ]
             },
             {
                   "name": "Wuppertali Állatkert",
                   "text": "Németország egyik legszebb fekvésű állatkertje, amely dombos területén több száz különleges állatfajnak ad otthont.",
                   "category": "zoo",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.11009,
+                        51.2442
+                  ]
             },
             {
                   "name": "Waldfrieden Szoborpark",
                   "text": "Tony Cragg szobrászművész által létrehozott park, ahol kortárs alkotások láthatók egy vadregényes erdőben.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.16861,
+                        51.2528
+                  ]
             },
             {
                   "name": "Történelmi Stadthalle",
                   "text": "Pompás neoreneszánsz hangversenyterem, amely kiváló akusztikája miatt nemzetközileg is elismert koncerthelyszín.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.143056,
+                        51.253056
+                  ]
             },
             {
                   "name": "Botanikus kert",
                   "text": "A Hardt-hegyen fekvő kert egzotikus növényházaival és a városra nyíló panorámájával várja a látogatókat.",
                   "category": "garden",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Ölberg negyed",
-                  "text": "Az egyik legnagyobb összefüggő, wilhelmiánus stílusú munkásnegyed, amely megőrizte történelmi, bohém hangulatát.",
-                  "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.160318,
+                        51.260253
+                  ]
             }
       ],
       "ro": [
@@ -1687,43 +2169,61 @@ export const poiExtraDe1: POI[] = [
                   "name": "Monoraia suspendată din Wuppertal",
                   "text": "Simbolul orașului, acest tren suspendat unic în lume circulă deasupra râului Wupper încă din anul 1901.",
                   "category": "transport",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.181425,
+                        51.267089
+                  ]
             },
             {
                   "name": "Muzeul Von der Heydt",
                   "text": "O instituție culturală de elită care găzduiește opere de artă deosebite, cu un accent pe impresionism.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.14658,
+                        51.2573
+                  ]
             },
             {
                   "name": "Grădina Zoologică Wuppertal",
                   "text": "Una dintre cele mai vechi grădini zoologice din Germania, situată într-un peisaj natural colinar deosebit.",
                   "category": "zoo",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.11009,
+                        51.2442
+                  ]
             },
             {
                   "name": "Parcul de Sculpturi Waldfrieden",
                   "text": "Creat de Tony Cragg, acest parc îmbină arta contemporană cu natura într-un cadru forestier liniștit.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.16861,
+                        51.2528
+                  ]
             },
             {
                   "name": "Primăria Istorică (Stadthalle)",
                   "text": "O sală de concerte neoreascentistă spectaculoasă, renumită la nivel mondial pentru acustica sa perfectă.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.143056,
+                        51.253056
+                  ]
             },
             {
                   "name": "Grădina Botanică",
                   "text": "Amplasată pe dealul Hardtberg, grădina oferă o colecție bogată de plante și vederi panoramice asupra văii.",
                   "category": "garden",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cartierul Ölberg",
-                  "text": "Un cartier istoric cu arhitectură de la finalul secolului XIX, cunoscut pentru străzile sale înguste și pitorești.",
-                  "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.160318,
+                        51.260253
+                  ]
             }
       ],
       "en": [
@@ -1731,56 +2231,120 @@ export const poiExtraDe1: POI[] = [
                   "name": "Wuppertal Suspension Railway",
                   "text": "The city's landmark, a unique suspension monorail that has been gliding over the Wupper River since 1901.",
                   "category": "transport",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.181425,
+                        51.267089
+                  ]
             },
             {
                   "name": "Von der Heydt Museum",
                   "text": "A major art museum famous for its extensive collection of Dutch 17th-century painting and Impressionist art.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.14658,
+                        51.2573
+                  ]
             },
             {
                   "name": "Wuppertal Zoo",
                   "text": "One of Germany's oldest and most scenic zoos, located on a hillside and home to many rare animal species.",
                   "category": "zoo",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.11009,
+                        51.2442
+                  ]
             },
             {
                   "name": "Waldfrieden Sculpture Park",
                   "text": "Established by sculptor Tony Cragg, this park features modern art installations in a beautiful woodland setting.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.16861,
+                        51.2528
+                  ]
             },
             {
                   "name": "Historical City Hall",
                   "text": "A grand Neo-Renaissance concert hall renowned globally for its exceptional acoustics and ornate interior.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.143056,
+                        51.253056
+                  ]
             },
             {
                   "name": "Botanical Garden",
                   "text": "Located on the Hardt hill, it offers a wide variety of tropical plants and scenic overlooks of the Wupper valley.",
                   "category": "garden",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.160318,
+                        51.260253
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Wuppertal Havaray Hattı",
+                  "text": "Şehrin simgesi olan bu eşsiz asılı demiryolu, 1901'den beri Wupper Nehri üzerinde havada süzülür.",
+                  "category": "transport",
+                  "coords": [
+                        7.181425,
+                        51.267089
+                  ]
             },
             {
-                  "name": "Ölberg Quarter",
-                  "text": "One of the largest preserved workers' districts from the industrial era, known for its historic charm.",
-                  "category": "old-town",
-                  "confidence": "high"
+                  "name": "Von der Heydt Müzesi",
+                  "text": "17. yüzyıl Hollanda resmi ve İzlenimcilik üzerine yoğunlaşan, uluslararası öneme sahip bir müzedir.",
+                  "category": "museum",
+                  "coords": [
+                        7.14658,
+                        51.2573
+                  ]
+            },
+            {
+                  "name": "Wuppertal Hayvanat Bahçesi",
+                  "text": "Almanya'nın en eski ve en güzel manzaralı hayvanat bahçelerinden biri; filleri ve büyük kedileriyle ünlüdür.",
+                  "category": "zoo",
+                  "coords": [
+                        7.11009,
+                        51.2442
+                  ]
+            },
+            {
+                  "name": "Waldfrieden Heykel Parkı",
+                  "text": "Heykeltıraş Tony Cragg tarafından kurulan park, doğa içinde modern heykelleri bir araya getirir.",
+                  "category": "park",
+                  "coords": [
+                        7.16861,
+                        51.2528
+                  ]
+            },
+            {
+                  "name": "Tarihi Şehir Salonu (Stadthalle)",
+                  "text": "Mükemmel akustiği ile dünyaca ünlü olan, Neo-Rönesans tarzında inşa edilmiş görkemli bir konser binasıdır.",
+                  "category": "historical",
+                  "coords": [
+                        7.143056,
+                        51.253056
+                  ]
+            },
+            {
+                  "name": "Botanik Bahçesi",
+                  "text": "Hardtberg tepesinde yer alan bahçe, egzotik bitki çeşitliliği ve vadi manzarasıyla huzur verir.",
+                  "category": "garden",
+                  "coords": [
+                        7.160318,
+                        51.260253
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Wuppertal Havaray Hattı", "text": "Şehrin simgesi olan bu eşsiz asılı demiryolu, 1901'den beri Wupper Nehri üzerinde havada süzülür.", "category": "transport" },
-        { "name": "Von der Heydt Müzesi", "text": "17. yüzyıl Hollanda resmi ve İzlenimcilik üzerine yoğunlaşan, uluslararası öneme sahip bir müzedir.", "category": "museum" },
-        { "name": "Wuppertal Hayvanat Bahçesi", "text": "Almanya'nın en eski ve en güzel manzaralı hayvanat bahçelerinden biri; filleri ve büyük kedileriyle ünlüdür.", "category": "zoo" },
-        { "name": "Waldfrieden Heykel Parkı", "text": "Heykeltıraş Tony Cragg tarafından kurulan park, doğa içinde modern heykelleri bir araya getirir.", "category": "park" },
-        { "name": "Tarihi Şehir Salonu (Stadthalle)", "text": "Mükemmel akustiği ile dünyaca ünlü olan, Neo-Rönesans tarzında inşa edilmiş görkemli bir konser binasıdır.", "category": "historical" },
-        { "name": "Botanik Bahçesi", "text": "Hardtberg tepesinde yer alan bahçe, egzotik bitki çeşitliliği ve vadi manzarasıyla huzur verir.", "category": "garden" },
-        { "name": "Ölberg Mahallesi", "text": "Dar sokakları ve tarihi dokusuyla, Almanya'nın en büyük korunmuş işçi yerleşim alanlarından biridir.", "category": "old-town" }
-      ]
-    }
+}
   },
 
   {
@@ -2375,7 +2939,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJpWPETMBgmUcRHhenHJBN0gc",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.9925,
+                        48.398611
+                  ]
             },
             {
                   "name": "Fischerviertel",
@@ -2388,7 +2956,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJjWjD3oRmmUcR3hxkbeqF4us",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.988278,
+                        48.396422
+                  ]
             },
             {
                   "name": "Ulmer Rathaus",
@@ -2401,7 +2973,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJbQZVjo9mmUcR9NWcMHfpVk0",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        10.00124,
+                        48.39498
+                  ]
             },
             {
                   "name": "Schiefes Haus",
@@ -2414,7 +2990,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJExRAyICwuUcRruRru2Ug2Hg",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.991141,
+                        48.395652
+                  ]
             },
             {
                   "name": "Kloster Wiblingen",
@@ -2427,7 +3007,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ2cXmP0phmUcR2yL_aYiTYWA",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.992,
+                        48.3617
+                  ]
             },
             {
                   "name": "Metzgerturm",
@@ -2440,7 +3024,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJBZ42LQBnmUcRqVOwvZHAfwc",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.99382,
+                        48.396
+                  ]
             },
             {
                   "name": "Museum Ulm",
@@ -2453,7 +3041,11 @@ export const poiExtraDe1: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJG7sf2fFnmUcRh0QD38-VClc",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.99481,
+                        48.397
+                  ]
             }
       ],
       "hu": [
@@ -2461,43 +3053,71 @@ export const poiExtraDe1: POI[] = [
                   "name": "Ulmi nagytemplom",
                   "text": "A világ legmagasabb templomtornyával (161,5 méter) büszkélkedő gótikus székesegyház Ulm legismertebb jelképe.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.9925,
+                        48.398611
+                  ]
             },
             {
                   "name": "Halásznegyed (Fischerviertel)",
                   "text": "A Duna partján fekvő festői negyed fagerendás házaival, csatornáival és hangulatos éttermeivel vonzza a látogatókat.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.988278,
+                        48.396422
+                  ]
             },
             {
                   "name": "Ulmi városháza",
                   "text": "Díszes reneszánsz falfestményeiről és az 1520-ból származó, bonyolult csillagászati órájáról híres épület.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.00124,
+                        48.39498
+                  ]
             },
             {
                   "name": "Ferde ház (Schiefes Haus)",
                   "text": "A Halásznegyedben található késő gótikus épület a Guinness Rekordok Könyve szerint a világ legferdébb szállodája.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.991141,
+                        48.395652
+                  ]
             },
             {
                   "name": "Wiblingeni kolostor",
                   "text": "Az egykori bencés apátság lenyűgöző rokokó könyvtárterme a dél-németországi barokk építészet remekműve.",
                   "category": "monastery",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.992,
+                        48.3617
+                  ]
             },
             {
                   "name": "Hentes-torony (Metzgerturm)",
                   "text": "A 14. századi városfal része, amely a talaj süllyedése miatt hasonlóan ferde, mint a pisai torony.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.99382,
+                        48.396
+                  ]
             },
             {
                   "name": "Ulmi Múzeum",
                   "text": "Itt látható az 'Oroszlánember', egy 35 000 éves elefántcsont szobor, amely az emberiség egyik legősibb műalkotása.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.99481,
+                        48.397
+                  ]
             }
       ],
       "ro": [
@@ -2505,43 +3125,71 @@ export const poiExtraDe1: POI[] = [
                   "name": "Catedrala din Ulm",
                   "text": "Această catedrală gotică deține cel mai înalt turn de biserică din lume, având o înălțime de 161,5 metri.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.9925,
+                        48.398611
+                  ]
             },
             {
                   "name": "Cartierul Pescari (Fischerviertel)",
                   "text": "Un cartier istoric pitoresc situat la vărsarea râului Blau în Dunăre, faimos pentru casele cu bârne aparente.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.988278,
+                        48.396422
+                  ]
             },
             {
                   "name": "Primăria din Ulm",
                   "text": "Cunoscută pentru picturile murale exterioare somptuoase și ceasul astronomic complex instalat în secolul al XVI-lea.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.00124,
+                        48.39498
+                  ]
             },
             {
                   "name": "Casa Strâmbă (Schiefes Haus)",
                   "text": "O clădire medievală înclinată care servește drept hotel, fiind înscrisă în Cartea Recordurilor pentru panta sa.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.991141,
+                        48.395652
+                  ]
             },
             {
                   "name": "Mănăstirea Wiblingen",
                   "text": "Fostă abație benedictină renumită pentru biblioteca sa rococo spectaculoasă, una dintre cele mai frumoase din țară.",
                   "category": "monastery",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.992,
+                        48.3617
+                  ]
             },
             {
                   "name": "Turnul Măcelarilor (Metzgerturm)",
                   "text": "Un turn medieval care face parte din vechea fortificație a orașului, vizibil înclinat din cauza solului instabil.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.99382,
+                        48.396
+                  ]
             },
             {
                   "name": "Muzeul Ulm",
                   "text": "Găzduiește celebra sculptură 'Omul-Leu', o figurină din fildeș veche de peste 35.000 de ani.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.99481,
+                        48.397
+                  ]
             }
       ],
       "en": [
@@ -2549,56 +3197,139 @@ export const poiExtraDe1: POI[] = [
                   "name": "Ulm Minster",
                   "text": "This Gothic cathedral features the world's tallest church tower at 161.5 meters, offering panoramic views.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.9925,
+                        48.398611
+                  ]
             },
             {
                   "name": "Fishermen's Quarter",
                   "text": "A charming historic district with half-timbered houses and canals where the Blau river meets the Danube.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.988278,
+                        48.396422
+                  ]
             },
             {
                   "name": "Ulm City Hall",
                   "text": "Famous for its elaborate Renaissance frescoes and a sophisticated astronomical clock dating back to 1520.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.00124,
+                        48.39498
+                  ]
             },
             {
                   "name": "Leaning House (Schiefes Haus)",
                   "text": "A late-Gothic house in the Fishermen's Quarter, officially the world's most leaning hotel according to Guinness.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.991141,
+                        48.395652
+                  ]
             },
             {
                   "name": "Wiblingen Abbey",
                   "text": "A former Benedictine monastery known for its magnificent Rococo library, a masterpiece of Baroque art.",
                   "category": "monastery",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.992,
+                        48.3617
+                  ]
             },
             {
                   "name": "Butchers' Tower",
                   "text": "A 14th-century gate tower that leans significantly due to the swampy ground it was built upon.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.99382,
+                        48.396
+                  ]
             },
             {
                   "name": "Ulm Museum",
                   "text": "Home to the 'Lion Man', an ivory figurine over 35,000 years old and one of the oldest known works of art.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.99481,
+                        48.397
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Ulm Katedrali (Ulmer Münster)",
+                  "text": "161,5 metrelik dünyanın en yüksek kilise kulesine sahip bu Gotik yapı, Ulm'un en meşhur simgesidir.",
+                  "category": "church",
+                  "coords": [
+                        9.9925,
+                        48.398611
+                  ]
+            },
+            {
+                  "name": "Balıkçılar Mahallesi (Fischerviertel)",
+                  "text": "Blau Nehri'nin Tuna'ya döküldüğü yerdeki tarihi mahalle, ahşap evleri ve kanallarıyla büyüleyicidir.",
+                  "category": "old-town",
+                  "coords": [
+                        9.988278,
+                        48.396422
+                  ]
+            },
+            {
+                  "name": "Ulm Belediye Binası",
+                  "text": "Erken Rönesans dönemi cephe resimleri ve 1520'den kalma astronomik saatiyle dünya çapında ünlüdür.",
+                  "category": "town-hall",
+                  "coords": [
+                        10.00124,
+                        48.39498
+                  ]
+            },
+            {
+                  "name": "Eğik Ev (Schiefes Haus)",
+                  "text": "Guinness Rekorlar Kitabı'na dünyanın en eğik oteli olarak giren, 14. yüzyıldan kalma ahşap bir evdir.",
+                  "category": "historical",
+                  "coords": [
+                        9.991141,
+                        48.395652
+                  ]
+            },
+            {
+                  "name": "Wiblingen Manastırı",
+                  "text": "Eski Benediktin manastırı, özellikle Rokoko tarzındaki muhteşem kütüphane salonuyla ziyaretçileri etkiler.",
+                  "category": "monastery",
+                  "coords": [
+                        9.992,
+                        48.3617
+                  ]
+            },
+            {
+                  "name": "Kasaplar Kulesi (Metzgerturm)",
+                  "text": "Zeminin dengesizliği nedeniyle belirgin bir eğime sahip olan, 14. yüzyıldan kalma eski bir şehir kulesidir.",
+                  "category": "tower",
+                  "coords": [
+                        9.99382,
+                        48.396
+                  ]
+            },
+            {
+                  "name": "Ulm Müzesi",
+                  "text": "Dünyanın en eski sanat eserlerinden biri olan 35.000 yıllık fildişi 'Aslan Adam' heykelini barındırır.",
+                  "category": "museum",
+                  "coords": [
+                        9.99481,
+                        48.397
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Ulm Katedrali (Ulmer Münster)", "text": "161,5 metrelik dünyanın en yüksek kilise kulesine sahip bu Gotik yapı, Ulm'un en meşhur simgesidir.", "category": "church" },
-        { "name": "Balıkçılar Mahallesi (Fischerviertel)", "text": "Blau Nehri'nin Tuna'ya döküldüğü yerdeki tarihi mahalle, ahşap evleri ve kanallarıyla büyüleyicidir.", "category": "old-town" },
-        { "name": "Ulm Belediye Binası", "text": "Erken Rönesans dönemi cephe resimleri ve 1520'den kalma astronomik saatiyle dünya çapında ünlüdür.", "category": "town-hall" },
-        { "name": "Eğik Ev (Schiefes Haus)", "text": "Guinness Rekorlar Kitabı'na dünyanın en eğik oteli olarak giren, 14. yüzyıldan kalma ahşap bir evdir.", "category": "historical" },
-        { "name": "Wiblingen Manastırı", "text": "Eski Benediktin manastırı, özellikle Rokoko tarzındaki muhteşem kütüphane salonuyla ziyaretçileri etkiler.", "category": "monastery" },
-        { "name": "Kasaplar Kulesi (Metzgerturm)", "text": "Zeminin dengesizliği nedeniyle belirgin bir eğime sahip olan, 14. yüzyıldan kalma eski bir şehir kulesidir.", "category": "tower" },
-        { "name": "Ulm Müzesi", "text": "Dünyanın en eski sanat eserlerinden biri olan 35.000 yıllık fildişi 'Aslan Adam' heykelini barındırır.", "category": "museum" }
-      ]
-    }
+}
   },
 
   {
@@ -2750,43 +3481,71 @@ export const poiExtraDe1: POI[] = [
                   "name": "Schloss Hohentübingen",
                   "text": "Das über der Stadt thronende Renaissanceschloss beherbergt heute Institute und das Museum der Universität.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.05056,
+                        48.5194
+                  ]
             },
             {
                   "name": "Stiftskirche St. Georg",
                   "text": "Eine bedeutende spätgotische Hallenkirche mit Grablege der württembergischen Herzöge und wertvollen Glasfenstern.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.056111,
+                        48.52
+                  ]
             },
             {
                   "name": "Rathaus am Marktplatz",
                   "text": "Ein prächtiger Bau mit kunstvoller Fassadenmalerei und einer astronomischen Uhr aus dem Jahr 1511.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.066372,
+                        48.50369
+                  ]
             },
             {
                   "name": "Hölderlinturm",
                   "text": "Das ehemalige Wohnhaus des Dichters Friedrich Hölderlin am Neckar ist heute eine Gedenkstätte und Museum.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.055728,
+                        48.519344
+                  ]
             },
             {
                   "name": "Neckarfront",
                   "text": "Die berühmte Häuserzeile am Flussufer bietet das klassische Fotomotiv Tübingens mit seinen bunten Fassaden.",
                   "category": "waterfront",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.05526,
+                        48.51914
+                  ]
             },
             {
                   "name": "Kloster Bebenhausen",
                   "text": "Eine sehr gut erhaltene Zisterzienserabtei im Naturpark Schönbuch, die später als Jagdschloss diente.",
                   "category": "monastery",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.06072,
+                        48.56137
+                  ]
             },
             {
                   "name": "Botanischer Garten",
                   "text": "Gehört zur Universität und zeigt eine beeindruckende Sammlung von Pflanzen aus verschiedenen Klimazonen.",
                   "category": "garden",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.03681,
+                        48.539084
+                  ]
             }
       ],
       "hu": [
@@ -2794,43 +3553,71 @@ export const poiExtraDe1: POI[] = [
                   "name": "Hohentübingen kastély",
                   "text": "A város felett magasodó reneszánsz várkastély ma az egyetem régészeti gyűjteményének ad otthont.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.05056,
+                        48.5194
+                  ]
             },
             {
                   "name": "Szent György-vártemplom",
                   "text": "Késő gótikus templom, amely a württembergi hercegek sírhelyeként és lenyűgöző ólomüveg ablakairól ismert.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.056111,
+                        48.52
+                  ]
             },
             {
                   "name": "Tübingeni városháza",
                   "text": "A piactéren álló, gazdagon díszített homlokzatú épület 1511-es csillagászati órája a város egyik fő látványossága.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.066372,
+                        48.50369
+                  ]
             },
             {
                   "name": "Hölderlin-torony",
                   "text": "Friedrich Hölderlin költő egykori lakóhelye a Neckar partján, amely ma múzeumként működik.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.055728,
+                        48.519344
+                  ]
             },
             {
                   "name": "Neckar-parti házsor",
                   "text": "A folyóparti színes házak és a rajtuk úszó csónakok (Stocherkahn) Tübingen legnépszerűbb fotótémáját adják.",
                   "category": "waterfront",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.05526,
+                        48.51914
+                  ]
             },
             {
                   "name": "Bebenhausen kolostor",
                   "text": "A városhoz közeli ciszterci apátság és későbbi vadászkastély az egyik legjobb állapotban fennmaradt ilyen jellegű épületegyüttes.",
                   "category": "monastery",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.06072,
+                        48.56137
+                  ]
             },
             {
                   "name": "Botanikus kert",
                   "text": "Az egyetemhez tartozó kertben különleges növényfajok és trópusi üvegházak várják a természet kedvelőit.",
                   "category": "garden",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.03681,
+                        48.539084
+                  ]
             }
       ],
       "ro": [
@@ -2838,43 +3625,71 @@ export const poiExtraDe1: POI[] = [
                   "name": "Castelul Hohentübingen",
                   "text": "Un castel renascentist impunător situat pe un deal, care găzduiește colecții arheologice ale universității locale.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.05056,
+                        48.5194
+                  ]
             },
             {
                   "name": "Biserica Colegiată Sfântul Gheorghe",
                   "text": "O biserică gotică târzie care adăpostește mormintele ducilor de Württemberg și vitralii medievale prețioase.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.056111,
+                        48.52
+                  ]
             },
             {
                   "name": "Primăria din Tübingen",
                   "text": "Situată în piața centrală, această clădire istorică este celebră pentru fațada pictată și ceasul său astronomic vechi.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.066372,
+                        48.50369
+                  ]
             },
             {
                   "name": "Turnul Hölderlin",
                   "text": "Casa memorială a poetului Friedrich Hölderlin, situată pe malul râului Neckar, devenită un simbol cultural al orașului.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.055728,
+                        48.519344
+                  ]
             },
             {
                   "name": "Malul Neckarului",
                   "text": "Faleza pitorească cu case colorate și plimbările tradiționale cu barca sunt definitorii pentru atmosfera orașului.",
                   "category": "waterfront",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.05526,
+                        48.51914
+                  ]
             },
             {
                   "name": "Mănăstirea Bebenhausen",
                   "text": "O fostă mănăstire cisterciană excepțional conservată, situată în parcul natural Schönbuch de lângă oraș.",
                   "category": "monastery",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.06072,
+                        48.56137
+                  ]
             },
             {
                   "name": "Grădina Botanică",
                   "text": "Parte a universității, grădina prezintă o diversitate impresionantă de floră din întreaga lume în sere moderne.",
                   "category": "garden",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.03681,
+                        48.539084
+                  ]
             }
       ],
       "en": [
@@ -2882,56 +3697,139 @@ export const poiExtraDe1: POI[] = [
                   "name": "Hohentübingen Castle",
                   "text": "A Renaissance castle overlooking the town, now housing several university institutes and an archaeological museum.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.05056,
+                        48.5194
+                  ]
             },
             {
                   "name": "St. George's Collegiate Church",
                   "text": "A late-Gothic church known for the tombs of the Dukes of Württemberg and its beautiful stained-glass windows.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.056111,
+                        48.52
+                  ]
             },
             {
                   "name": "Tübingen City Hall",
                   "text": "Located on the market square, it features a brilliantly painted facade and a 16th-century astronomical clock.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.066372,
+                        48.50369
+                  ]
             },
             {
                   "name": "Hölderlin Tower",
                   "text": "The former home of poet Friedrich Hölderlin by the Neckar river, now a museum dedicated to his life and work.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.055728,
+                        48.519344
+                  ]
             },
             {
                   "name": "Neckar Waterfront",
                   "text": "The iconic row of colorful houses along the river is the most photographed spot in Tübingen, famous for punting boats.",
                   "category": "waterfront",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.05526,
+                        48.51914
+                  ]
             },
             {
                   "name": "Bebenhausen Abbey",
                   "text": "A beautifully preserved Cistercian monastery and royal hunting palace located in the nearby Schönbuch forest.",
                   "category": "monastery",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.06072,
+                        48.56137
+                  ]
             },
             {
                   "name": "Botanical Garden",
                   "text": "Owned by the university, this garden features vast collections of global flora and modern greenhouses.",
                   "category": "garden",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.03681,
+                        48.539084
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Hohentübingen Şatosu",
+                  "text": "Şehre hakim bir tepede kurulu Rönesans şatosu, bugün üniversite enstitülerini ve bir müzeyi barındırır.",
+                  "category": "castle",
+                  "coords": [
+                        9.05056,
+                        48.5194
+                  ]
+            },
+            {
+                  "name": "St. Georg Manastır Kilisesi",
+                  "text": "Württemberg düklerinin mezarlarının ve değerli cam pencerelerin bulunduğu önemli bir Gotik kilisedir.",
+                  "category": "church",
+                  "coords": [
+                        9.056111,
+                        48.52
+                  ]
+            },
+            {
+                  "name": "Pazar Meydanındaki Belediye Binası",
+                  "text": "Sanatsal cephe resimleri ve 1511 yılından kalma astronomik saatiyle pazar yerindeki görkemli bir yapıdır.",
+                  "category": "town-hall",
+                  "coords": [
+                        9.066372,
+                        48.50369
+                  ]
+            },
+            {
+                  "name": "Hölderlin Kulesi",
+                  "text": "Şair Friedrich Hölderlin'in Neckar kıyısındaki eski evi, bugün anma yeri ve müze olarak hizmet verir.",
+                  "category": "tower",
+                  "coords": [
+                        9.055728,
+                        48.519344
+                  ]
+            },
+            {
+                  "name": "Neckar Kıyısı (Neckarfront)",
+                  "text": "Nehir kıyısı boyunca sıralanan renkli evler, Tübingen'in en klasik ve meşhur fotoğraf karesini oluşturur.",
+                  "category": "waterfront",
+                  "coords": [
+                        9.05526,
+                        48.51914
+                  ]
+            },
+            {
+                  "name": "Bebenhausen Manastırı",
+                  "text": "Schönbuch doğa parkında bulunan, çok iyi korunmuş ve sonradan av köşkü olarak kullanılmış bir manastırdır.",
+                  "category": "monastery",
+                  "coords": [
+                        9.06072,
+                        48.56137
+                  ]
+            },
+            {
+                  "name": "Botanik Bahçesi",
+                  "text": "Üniversiteye ait olan bu bahçe, farklı iklim kuşaklarından gelen etkileyici bir bitki koleksiyonuna sahiptir.",
+                  "category": "garden",
+                  "coords": [
+                        9.03681,
+                        48.539084
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Hohentübingen Şatosu", "text": "Şehre hakim bir tepede kurulu Rönesans şatosu, bugün üniversite enstitülerini ve bir müzeyi barındırır.", "category": "castle" },
-        { "name": "St. Georg Manastır Kilisesi", "text": "Württemberg düklerinin mezarlarının ve değerli cam pencerelerin bulunduğu önemli bir Gotik kilisedir.", "category": "church" },
-        { "name": "Pazar Meydanındaki Belediye Binası", "text": "Sanatsal cephe resimleri ve 1511 yılından kalma astronomik saatiyle pazar yerindeki görkemli bir yapıdır.", "category": "town-hall" },
-        { "name": "Hölderlin Kulesi", "text": "Şair Friedrich Hölderlin'in Neckar kıyısındaki eski evi, bugün anma yeri ve müze olarak hizmet verir.", "category": "tower" },
-        { "name": "Neckar Kıyısı (Neckarfront)", "text": "Nehir kıyısı boyunca sıralanan renkli evler, Tübingen'in en klasik ve meşhur fotoğraf karesini oluşturur.", "category": "waterfront" },
-        { "name": "Bebenhausen Manastırı", "text": "Schönbuch doğa parkında bulunan, çok iyi korunmuş ve sonradan av köşkü olarak kullanılmış bir manastırdır.", "category": "monastery" },
-        { "name": "Botanik Bahçesi", "text": "Üniversiteye ait olan bu bahçe, farklı iklim kuşaklarından gelen etkileyici bir bitki koleksiyonuna sahiptir.", "category": "garden" }
-      ]
-    }
+}
   },
 
   {
@@ -3229,31 +4127,51 @@ export const poiExtraDe1: POI[] = [
                   "name": "Konstanzer Münster",
                   "text": "Die ehemalige Bischofskirche ist eine Basilika mit romanischen und gotischen Elementen im Herzen der historischen Altstadt.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.176389,
+                        47.663333
+                  ]
             },
             {
                   "name": "Imperia",
                   "text": "Die neun Meter hohe Statue an der Hafeneinfahrt ist ein Wahrzeichen der Stadt und erinnert satirisch an das Konzil von Konstanz.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.181109,
+                        47.66075
+                  ]
             },
             {
                   "name": "Konzilgebäude",
                   "text": "Das massive historische Speichergebäude am Hafen war der Schauplatz der Papstwahl während des Konstanzer Konzils im 15. Jahrhundert.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.17818,
+                        47.6609
+                  ]
             },
             {
                   "name": "Niederburg",
                   "text": "Der älteste Stadtteil von Konstanz besticht durch seine engen Gassen, mittelalterlichen Häuser und gemütlichen Weinstuben.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.176028,
+                        47.665556
+                  ]
             },
             {
                   "name": "Rathaus Konstanz",
                   "text": "Das Gebäude beeindruckt durch seine prächtige Renaissance-Fassade mit Fresken, die wichtige Szenen der Stadtgeschichte darstellen.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.17357,
+                        47.66032
+                  ]
             },
             {
                   "name": "Rheintorturm",
@@ -3267,31 +4185,51 @@ export const poiExtraDe1: POI[] = [
                   "name": "Konstanzi székesegyház",
                   "text": "A korábbi püspöki templom egy lenyűgöző román és gótikus stílusú bazilika a történelmi óváros központjában.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.176389,
+                        47.663333
+                  ]
             },
             {
                   "name": "Imperia szobor",
                   "text": "A kikötő bejáratánál álló kilenc méter magas szobor a város jelképe, amely szatirikus módon állít emléket a konstanzi zsinatnak.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.181109,
+                        47.66075
+                  ]
             },
             {
                   "name": "Konzilgebäude",
                   "text": "A kikötőben található hatalmas történelmi épület volt a pápaválasztás helyszíne a 15. századi konstanzi zsinat idején.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.17818,
+                        47.6609
+                  ]
             },
             {
                   "name": "Niederburg negyed",
                   "text": "Konstanz legrégebbi városrésze szűk utcáival, középkori házaival és hangulatos borozóival vonzza a látogatókat.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.176028,
+                        47.665556
+                  ]
             },
             {
                   "name": "Városháza",
                   "text": "Az épület lenyűgöző reneszánsz homlokzatát a város történelmének fontos jeleneteit ábrázoló freskók díszítik.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.17357,
+                        47.66032
+                  ]
             }
       ],
       "ro": [
@@ -3299,31 +4237,51 @@ export const poiExtraDe1: POI[] = [
                   "name": "Catedrala din Konstanz",
                   "text": "Fosta biserică episcopală este o bazilică cu elemente romanice și gotice situată în inima orașului vechi istoric.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.176389,
+                        47.663333
+                  ]
             },
             {
                   "name": "Statuia Imperia",
                   "text": "Statuia de nouă metri înălțime de la intrarea în port este un simbol al orașului, amintind satiric de Conciliul de la Konstanz.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.181109,
+                        47.66075
+                  ]
             },
             {
                   "name": "Clădirea Conciliului",
                   "text": "Clădirea istorică masivă din port a fost locul unde s-a desfășurat alegerea papala în timpul Conciliului de la Konstanz din secolul XV.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.17818,
+                        47.6609
+                  ]
             },
             {
                   "name": "Niederburg",
                   "text": "Cel mai vechi cartier din Konstanz impresionează prin străzile sale înguste, casele medievale și cramele primitoare.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.176028,
+                        47.665556
+                  ]
             },
             {
                   "name": "Primăria din Konstanz",
                   "text": "Clădirea impresionează prin fațada sa renascentistă magnifică, decorată cu fresce ce reprezintă scene importante din istoria orașului.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.17357,
+                        47.66032
+                  ]
             }
       ],
       "en": [
@@ -3331,43 +4289,106 @@ export const poiExtraDe1: POI[] = [
                   "name": "Constance Minster",
                   "text": "The former episcopal church is a Romanesque and Gothic basilica located in the heart of the historic old town.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.176389,
+                        47.663333
+                  ]
             },
             {
                   "name": "Imperia Statue",
                   "text": "Standing nine meters tall at the harbor entrance, this statue is a landmark that satirically commemorates the Council of Constance.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.181109,
+                        47.66075
+                  ]
             },
             {
                   "name": "Council Building",
                   "text": "This massive historic warehouse at the harbor was the site of the papal election during the 15th-century Council of Constance.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.17818,
+                        47.6609
+                  ]
             },
             {
                   "name": "Niederburg District",
                   "text": "The oldest part of Constance features narrow alleys, medieval houses, and cozy wine taverns that create a unique atmosphere.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.176028,
+                        47.665556
+                  ]
             },
             {
                   "name": "Constance Town Hall",
                   "text": "The building is famous for its magnificent Renaissance facade decorated with frescoes depicting key scenes from city history.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.17357,
+                        47.66032
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Konstanz Katedrali",
+                  "text": "Eski piskoposluk kilisesi, tarihi eski şehrin kalbinde Romanesk ve Gotik unsurlar taşıyan bir bazilikadır.",
+                  "category": "church",
+                  "coords": [
+                        9.176389,
+                        47.663333
+                  ]
+            },
+            {
+                  "name": "Imperia Heykeli",
+                  "text": "Liman girişindeki dokuz metrelik heykel, Konstanz Konsili'ne hicivli bir gönderme yapan şehir simgesidir.",
+                  "category": "landmark",
+                  "coords": [
+                        9.181109,
+                        47.66075
+                  ]
+            },
+            {
+                  "name": "Konsey Binası (Konzilgebäude)",
+                  "text": "Liman yanındaki bu tarihi depo binası, 15. yüzyılda Konstanz Konsili sırasında papa seçimine sahne olmuştur.",
+                  "category": "historical",
+                  "coords": [
+                        9.17818,
+                        47.6609
+                  ]
+            },
+            {
+                  "name": "Niederburg Mahallesi",
+                  "text": "Konstanz'ın en eski bölgesi; dar sokakları, orta çağ evleri ve şirin şarap evleriyle ziyaretçileri çeker.",
+                  "category": "old-town",
+                  "coords": [
+                        9.176028,
+                        47.665556
+                  ]
+            },
+            {
+                  "name": "Konstanz Belediye Binası",
+                  "text": "Şehir tarihinden önemli sahnelerin canlandırıldığı Rönesans tarzı freskli cephesiyle etkileyici bir yapıdır.",
+                  "category": "town-hall",
+                  "coords": [
+                        9.17357,
+                        47.66032
+                  ]
+            },
+            {
+                  "name": "Ren Kapısı Kulesi (Rheintorturm)",
+                  "text": "Orta çağ surlarının parçası olan bu iyi korunmuş kule, eskiden Ren üzerindeki stratejik köprüyü korurdu.",
+                  "category": "tower"
             }
       ]
-,
-      "tr": [
-        { "name": "Konstanz Katedrali", "text": "Eski piskoposluk kilisesi, tarihi eski şehrin kalbinde Romanesk ve Gotik unsurlar taşıyan bir bazilikadır.", "category": "church" },
-        { "name": "Imperia Heykeli", "text": "Liman girişindeki dokuz metrelik heykel, Konstanz Konsili'ne hicivli bir gönderme yapan şehir simgesidir.", "category": "landmark" },
-        { "name": "Konsey Binası (Konzilgebäude)", "text": "Liman yanındaki bu tarihi depo binası, 15. yüzyılda Konstanz Konsili sırasında papa seçimine sahne olmuştur.", "category": "historical" },
-        { "name": "Niederburg Mahallesi", "text": "Konstanz'ın en eski bölgesi; dar sokakları, orta çağ evleri ve şirin şarap evleriyle ziyaretçileri çeker.", "category": "old-town" },
-        { "name": "Konstanz Belediye Binası", "text": "Şehir tarihinden önemli sahnelerin canlandırıldığı Rönesans tarzı freskli cephesiyle etkileyici bir yapıdır.", "category": "town-hall" },
-        { "name": "Ren Kapısı Kulesi (Rheintorturm)", "text": "Orta çağ surlarının parçası olan bu iyi korunmuş kule, eskiden Ren üzerindeki stratejik köprüyü korurdu.", "category": "tower" }
-      ]
-    }
+}
   },
 
   {

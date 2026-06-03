@@ -170,61 +170,101 @@ export const maltaPoi: POI[] = [
                   "name": "St. John's Co-Cathedral",
                   "text": "Die barocke Kathedrale aus dem 16. Jahrhundert beherbergt Caravaggios Werk 'Die Enthauptung Johannes des Täufers' und prächtige Grabplatten.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512778,
+                        35.897778
+                  ]
             },
             {
                   "name": "Großmeisterpalast",
                   "text": "Ehemalige Residenz der Großmeister des Malteserordens, heute Sitz des maltesischen Präsidenten mit einer beeindruckenden Waffenkammer.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.514056,
+                        35.898833
+                  ]
             },
             {
                   "name": "Upper Barrakka Gardens",
                   "text": "Öffentlicher Garten auf der Spitze der Stadtmauer mit Panoramablick über den Grand Harbour und die gegenüberliegenden 'Three Cities'.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512019,
+                        35.894983
+                  ]
             },
             {
                   "name": "Fort St. Elmo",
                   "text": "Historische Festung an der Spitze der Halbinsel, die heute das National War Museum beherbergt und den Hafen von Valletta schützt.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.518611,
+                        35.901944
+                  ]
             },
             {
                   "name": "Casa Rocca Piccola",
                   "text": "Ein Adelspalast aus dem 16. Jahrhundert, der noch heute bewohnt ist und Einblicke in das Leben der maltesischen Aristokratie bietet.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.515417,
+                        35.899861
+                  ]
             },
             {
                   "name": "National Museum of Archaeology",
                   "text": "Befindet sich im Auberge de Provence und zeigt prähistorische Funde wie die berühmte Figur der 'Sleeping Lady' aus dem Hypogäum.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.51125,
+                        35.8975
+                  ]
             },
             {
                   "name": "Teatru Manoel",
                   "text": "Eines der ältesten noch aktiven Theater Europas, im Barockstil erbaut und bekannt für seine hervorragende Akustik und vergoldete Logen.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512821,
+                        35.899827
+                  ]
             },
             {
                   "name": "Lower Barrakka Gardens",
                   "text": "Ruhiger Garten mit Blick auf den Hafen, bekannt für das dorische Monument zu Ehren von Alexander Ball und das Siege Bell Memorial.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.517778,
+                        35.8975
+                  ]
             },
             {
                   "name": "Triton-Brunnen",
                   "text": "Großer Brunnen mit drei Bronzetritonen direkt vor dem Stadttor von Valletta, ein Wahrzeichen der maltesischen Architektur der Moderne.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.508303,
+                        35.895656
+                  ]
             },
             {
                   "name": "City Gate & Parliament",
                   "text": "Der von Renzo Piano entworfene Eingang zur Stadt und das moderne Parlamentsgebäude stehen im Kontrast zu den historischen Befestigungen.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.509418,
+                        35.895921
+                  ]
             }
       ],
       "hu": [
@@ -232,61 +272,101 @@ export const maltaPoi: POI[] = [
                   "name": "Szent János-társkatedrális",
                   "text": "Valletta 16. századi barokk katedrálisa, ahol Caravaggio 'Keresztelő Szent János lefejezése' című híres festménye látható.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512778,
+                        35.897778
+                  ]
             },
             {
                   "name": "Nagymesteri Palota",
                   "text": "A máltai lovagrend nagymestereinek egykori székhelye, ma elnöki palota gazdag fegyvertárral és díszes állami termekkel.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.514056,
+                        35.898833
+                  ]
             },
             {
                   "name": "Felső Barrakka kertek",
                   "text": "A városfal legmagasabb pontján elhelyezkedő közpark, ahonnan panorámás kilátás nyílik a Nagy Kikötőre és a Három Városra.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512019,
+                        35.894983
+                  ]
             },
             {
                   "name": "Szent Elmo-erőd",
                   "text": "A félsziget csúcsán álló történelmi erődítmény, amely ma a Nemzeti Háborús Múzeumnak ad otthont a város védelmi vonalában.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.518611,
+                        35.901944
+                  ]
             },
             {
                   "name": "Casa Rocca Piccola",
                   "text": "Egy ma is lakott 16. századi nemesi palota, amely betekintést nyújt a máltai arisztokrácia mindennapi életébe és műtárgyaiba.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.515417,
+                        35.899861
+                  ]
             },
             {
                   "name": "Nemzeti Régészeti Múzeum",
                   "text": "Az Auberge de Provence épületében található tárlat, mely őskori leleteket, köztük az 'Alvó Hölgy' szobrocskáját mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.51125,
+                        35.8975
+                  ]
             },
             {
                   "name": "Manoel Színház",
                   "text": "Európa egyik legrégebbi működő színháza, barokk belsővel és lenyűgöző akusztikával, Valletta egyik kulturális gyöngyszeme.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512821,
+                        35.899827
+                  ]
             },
             {
                   "name": "Alsó Barrakka kertek",
                   "text": "Csendesebb park a tengerpart közelében, Alexander Ball admirális görög stílusú emlékművével és az ostromharanggal.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.517778,
+                        35.8975
+                  ]
             },
             {
                   "name": "Triton-kút",
                   "text": "Hatalmas bronz szökőkút három Triton-alakkal Valletta városkapuja előtt, a modern máltai építészet egyik szimbóluma.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.508303,
+                        35.895656
+                  ]
             },
             {
                   "name": "Városkapu és Parlament",
                   "text": "Renzo Piano által tervezett modern városbejárat és parlament, amely kortárs stílusban egészíti ki a történelmi falakat.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.509418,
+                        35.895921
+                  ]
             }
       ],
       "ro": [
@@ -294,61 +374,101 @@ export const maltaPoi: POI[] = [
                   "name": "Catedrala Sfântul Ioan",
                   "text": "Catedrală barocă din secolul al XVI-lea, celebră pentru pânza lui Caravaggio și podelele din marmură cu blazoanele cavalerilor.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512778,
+                        35.897778
+                  ]
             },
             {
                   "name": "Palatul Marelui Maestru",
                   "text": "Fosta reședință a Ordinului Cavalerilor de Malta, astăzi palat prezidențial cu o armurărie impresionantă și tapiserii vechi.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.514056,
+                        35.898833
+                  ]
             },
             {
                   "name": "Grădinile Upper Barrakka",
                   "text": "Grădină publică situată pe bastioanele înalte, oferind cea mai frumoasă panoramă asupra Marelui Port și a celor Trei Orașe.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512019,
+                        35.894983
+                  ]
             },
             {
                   "name": "Fortul St. Elmo",
                   "text": "Fortificație strategică în vârful peninsulei, care găzduiește Muzeul Național de Război și amintește de Marele Asediu din 1565.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.518611,
+                        35.901944
+                  ]
             },
             {
                   "name": "Casa Rocca Piccola",
                   "text": "Palat nobiliar din secolul al XVI-lea, locuit și astăzi, ce păstrează mobilier de epocă și un buncăr din Al Doilea Război Mondial.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.515417,
+                        35.899861
+                  ]
             },
             {
                   "name": "Muzeul Național de Arheologie",
                   "text": "Găzduit în Auberge de Provence, muzeul expune artefacte din templele preistorice malteze, inclusiv faimoasa 'Sleeping Lady'.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.51125,
+                        35.8975
+                  ]
             },
             {
                   "name": "Teatrul Manoel",
                   "text": "Unul dintre cele mai vechi teatre funcționale din Europa, construit în 1731, cunoscut pentru designul baroc și acustica sa.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512821,
+                        35.899827
+                  ]
             },
             {
                   "name": "Grădinile Lower Barrakka",
                   "text": "Grădini liniștite ce adăpostesc un monument în stil doric dedicat lui Alexander Ball și clopotul Siege Bell Memorial.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.517778,
+                        35.8975
+                  ]
             },
             {
                   "name": "Fântâna Tritonilor",
                   "text": "Fântână monumentală cu trei tritoni din bronz, situată la intrarea principală în Valletta, simbol al arhitecturii moderne locale.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.508303,
+                        35.895656
+                  ]
             },
             {
                   "name": "Poarta Orașului și Parlamentul",
                   "text": "Proiect realizat de Renzo Piano, intrarea modernă în oraș și sediul parlamentului integrează oțelul în zidurile vechi.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.509418,
+                        35.895921
+                  ]
             }
       ],
       "en": [
@@ -356,61 +476,101 @@ export const maltaPoi: POI[] = [
                   "name": "St. John's Co-Cathedral",
                   "text": "A 16th-century Baroque cathedral housing Caravaggio’s 'Beheading of Saint John the Baptist' and ornate marble tombs.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512778,
+                        35.897778
+                  ]
             },
             {
                   "name": "Grandmaster's Palace",
                   "text": "The former administrative centre of the Knights of Malta, now the Presidential Palace, featuring a vast armoury collection.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.514056,
+                        35.898833
+                  ]
             },
             {
                   "name": "Upper Barrakka Gardens",
                   "text": "Public gardens on the upper tier of St. Peter & Paul Bastion, offering panoramic views of the Grand Harbour.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512019,
+                        35.894983
+                  ]
             },
             {
                   "name": "Fort St. Elmo",
                   "text": "Star-shaped fort at the tip of Valletta, home to the National War Museum and site of heroic defense during the 1565 siege.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.518611,
+                        35.901944
+                  ]
             },
             {
                   "name": "Casa Rocca Piccola",
                   "text": "A privately owned 16th-century palace still lived in by noble descendants, showcasing Maltese aristocratic life and history.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.515417,
+                        35.899861
+                  ]
             },
             {
                   "name": "National Museum of Archaeology",
                   "text": "Located in the Auberge de Provence, it displays Maltese prehistoric artifacts including 'The Sleeping Lady'.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.51125,
+                        35.8975
+                  ]
             },
             {
                   "name": "Teatru Manoel",
                   "text": "One of Europe’s oldest working theatres, built in 1731 by Grand Master de Vilhena, featuring a stunning baroque auditorium.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.512821,
+                        35.899827
+                  ]
             },
             {
                   "name": "Lower Barrakka Gardens",
                   "text": "Quiet gardens overlooking the breakwater, featuring a Doric temple monument and the massive Siege Bell War Memorial.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.517778,
+                        35.8975
+                  ]
             },
             {
                   "name": "Triton Fountain",
                   "text": "A large fountain featuring three bronze Tritons outside Valletta's City Gate, a masterpiece of Maltese modernist design.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.508303,
+                        35.895656
+                  ]
             },
             {
                   "name": "City Gate & Parliament House",
                   "text": "Renzo Piano’s contemporary entrance to the capital and the modern Parliament building set within historic fortifications.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.509418,
+                        35.895921
+                  ]
             }
       ]
 }

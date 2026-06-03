@@ -54,61 +54,101 @@ imageHint: "Bratislava Castle and Danube river at sunset",
                   "name": "Bratislavaer Burg",
                   "text": "Die Burg thront auf einem Hügel über der Donau und beherbergt heute Ausstellungen des Nationalmuseums sowie prachtvolle Barockgärten.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.1,
+                        48.142222
+                  ]
             },
             {
                   "name": "Martinsdom",
                   "text": "Diese gotische Kathedrale aus dem 14. Jahrhundert war über 250 Jahre lang die Krönungskirche der ungarischen Könige.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.104722,
+                        48.141944
+                  ]
             },
             {
                   "name": "Michalská brána",
                   "text": "Das einzige erhaltene mittelalterliche Stadttor der Stadt beherbergt heute ein Waffenmuseum und bietet einen Blick auf die Altstadtgassen.",
                   "category": "towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.1068,
+                        48.1451
+                  ]
             },
             {
                   "name": "Modrý kostolík",
                   "text": "Die St.-Elisabeth-Kirche ist ein Meisterwerk des Jugendstils, bekannt für ihre blaue Fassade und die verzierten Keramikdächer.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.116833,
+                        48.143389
+                  ]
             },
             {
                   "name": "Most SNP (UFO)",
                   "text": "Die markante Schrägseilbrücke über die Donau verfügt über eine Aussichtsplattform in 95 Metern Höhe, die an eine fliegende Untertasse erinnert.",
                   "category": "bridges",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.104558,
+                        48.137675
+                  ]
             },
             {
                   "name": "Primaciálny palác",
                   "text": "Der klassizistische Primaspalast beherbergt den Spiegelsaal, in dem 1805 der Frieden von Pressburg unterzeichnet wurde.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.108674,
+                        48.143962
+                  ]
             },
             {
                   "name": "Stará radnica",
                   "text": "Das alte Rathaus am Hauptplatz besteht aus mehreren historischen Gebäuden und beherbergt heute das Stadtmuseum von Bratislava.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.108889,
+                        48.143611
+                  ]
             },
             {
                   "name": "Slavín",
                   "text": "Ein monumentales Denkmal und Friedhof für die sowjetischen Soldaten, die 1945 bei der Befreiung der Stadt fielen, mit weitem Panoramablick.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.099722,
+                        48.153889
+                  ]
             },
             {
                   "name": "Grasalkovičov palác",
                   "text": "Das barocke Palais aus dem 18. Jahrhundert dient heute als offizieller Sitz des slowakischen Präsidenten und verfügt über einen öffentlichen Park.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.107778,
+                        48.149444
+                  ]
             },
             {
                   "name": "Slovenské národné divadlo",
                   "text": "Das historische Gebäude des Nationaltheaters am Hviezdoslav-Platz wurde 1886 im Neorenaissance-Stil nach Entwürfen von Fellner & Helmer erbaut.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.11024,
+                        48.14241
+                  ]
             }
       ],
       "hu": [
@@ -116,61 +156,101 @@ imageHint: "Bratislava Castle and Danube river at sunset",
                   "name": "Pozsonyi vár",
                   "text": "A Duna feletti dombon magasodó vár a város jelképe, falai között ma a Nemzeti Múzeum kiállításai és barokk kertek várják a látogatókat.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.1,
+                        48.142222
+                  ]
             },
             {
                   "name": "Szent Márton-dóm",
                   "text": "Ez a 14. századi gótikus székesegyház több mint 250 éven át szolgált a magyar királyok és királynék koronázási templomaként.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.104722,
+                        48.141944
+                  ]
             },
             {
                   "name": "Mihály-kapu",
                   "text": "A város egyetlen épségben maradt középkori kaputornya, amely ma fegyvermúzeumnak ad otthont, tetejéről pedig rálátni az óvárosra.",
                   "category": "towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.1068,
+                        48.1451
+                  ]
             },
             {
                   "name": "Kék templom",
                   "text": "A Szent Erzsébet-templom a szecesszió remekműve, amely különleges kék színű vakolatáról és mázas kerámiatetőjéről vált világszerte ismertté.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.116833,
+                        48.143389
+                  ]
             },
             {
                   "name": "Most SNP (UFO-híd)",
                   "text": "A Duna felett átívelő aszimmetrikus híd 95 méter magas kilátója egy repülő csészealjra emlékeztet, lenyűgöző kilátást nyújtva a városra.",
                   "category": "bridges",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.104558,
+                        48.137675
+                  ]
             },
             {
                   "name": "Prímási palota",
                   "text": "A klasszicista érseki palota ad otthont a Tükörteremnek, ahol 1805-ben aláírták a Napóleonnal kötött pozsonyi békét.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.108674,
+                        48.143962
+                  ]
             },
             {
                   "name": "Régi városháza",
                   "text": "A Fő téren található épületegyüttes a 14. század óta áll fenn, ma a Városi Múzeum kiállításai tekinthetőek meg falai között.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.108889,
+                        48.143611
+                  ]
             },
             {
                   "name": "Slavín emlékmű",
                   "text": "A szovjet katonák monumentális emlékhelye a város feletti dombon, amely 1945-ös felszabadításuknak állít emléket és remek kilátópont.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.099722,
+                        48.153889
+                  ]
             },
             {
                   "name": "Grassalkovich-palota",
                   "text": "A 18. századi barokk palota jelenleg a szlovák köztársasági elnök hivatalos rezidenciája, kertje pedig a látogatók előtt is nyitva áll.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.107778,
+                        48.149444
+                  ]
             },
             {
                   "name": "Szlovák Nemzeti Színház",
                   "text": "A Hviezdoslav téren álló történelmi neoreneszánsz épületet 1886-ban adták át, a neves Fellner és Helmer építészpáros tervei alapján.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.11024,
+                        48.14241
+                  ]
             }
       ],
       "ro": [
@@ -178,61 +258,101 @@ imageHint: "Bratislava Castle and Danube river at sunset",
                   "name": "Castelul Bratislava",
                   "text": "Castelul domină orașul de pe un deal deasupra Dunării, găzduind în prezent expoziții ale Muzeului Național și grădini baroce superbe.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.1,
+                        48.142222
+                  ]
             },
             {
                   "name": "Catedrala Sfântul Martin",
                   "text": "Această catedrală gotică din secolul al XIV-lea a fost timp de peste 250 de ani biserica de încoronare a regilor Ungariei.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.104722,
+                        48.141944
+                  ]
             },
             {
                   "name": "Poarta lui Mihail",
                   "text": "Singura poartă medievală păstrată a orașului găzduiește acum un muzeu al armelor și oferă o vedere frumoasă asupra străzilor centrului vechi.",
                   "category": "towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.1068,
+                        48.1451
+                  ]
             },
             {
                   "name": "Biserica Albastră",
                   "text": "Biserica Sfânta Elisabeta este o capodoperă a stilului Art Nouveau, renumită pentru fațada sa de un albastru intens și decorațiunile ceramice.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.116833,
+                        48.143389
+                  ]
             },
             {
                   "name": "Podul SNP (UFO)",
                   "text": "Acest pod suspendat peste Dunăre are o platformă de observare la 95 de metri înălțime, care seamănă cu o farfurie zburătoare.",
                   "category": "bridges",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.104558,
+                        48.137675
+                  ]
             },
             {
                   "name": "Palatul Primatului",
                   "text": "Palatul neoclasic adăpostește faimoasa Sală a Oglinzilor, unde a fost semnată Pacea de la Pressburg în anul 1805.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.108674,
+                        48.143962
+                  ]
             },
             {
                   "name": "Vechea Primărie",
                   "text": "Situată în piața principală, primăria este compusă din mai multe clădiri istorice și găzduiește astăzi Muzeul Orașului Bratislava.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.108889,
+                        48.143611
+                  ]
             },
             {
                   "name": "Slavín",
                   "text": "Un monument monumental și cimitir pentru soldații sovietici căzuți în 1945, oferind o panoramă vastă asupra întregului oraș.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.099722,
+                        48.153889
+                  ]
             },
             {
                   "name": "Palatul Grassalkovich",
                   "text": "Acest palat baroc din secolul al XVIII-lea este reședința oficială a președintelui Slovaciei și dispune de o grădină publică elegantă.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.107778,
+                        48.149444
+                  ]
             },
             {
                   "name": "Teatrul Național Slovac",
                   "text": "Clădirea istorică a teatrului din Piața Hviezdoslav a fost construită în 1886 în stil neorenascentist de către arhitecții Fellner și Helmer.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.11024,
+                        48.14241
+                  ]
             }
       ],
       "en": [
@@ -240,61 +360,101 @@ imageHint: "Bratislava Castle and Danube river at sunset",
                   "name": "Bratislava Castle",
                   "text": "Perched on a hill above the Danube, the castle is the city's landmark, housing National Museum exhibits and beautiful baroque gardens.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.1,
+                        48.142222
+                  ]
             },
             {
                   "name": "St. Martin's Cathedral",
                   "text": "This 14th-century Gothic cathedral served as the coronation church for the Hungarian kings for over 250 years.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.104722,
+                        48.141944
+                  ]
             },
             {
                   "name": "Michael's Gate",
                   "text": "The city's only preserved medieval fortification gate now houses a museum of arms and offers views over the historic old town streets.",
                   "category": "towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.1068,
+                        48.1451
+                  ]
             },
             {
                   "name": "Blue Church",
                   "text": "St. Elizabeth's Church is an Art Nouveau masterpiece, world-famous for its striking blue facade and colorful glazed ceramic roofs.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.116833,
+                        48.143389
+                  ]
             },
             {
                   "name": "Most SNP (UFO Bridge)",
                   "text": "The distinctive asymmetric bridge over the Danube features a flying saucer-shaped observation deck at 95 meters high with stunning views.",
                   "category": "bridges",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.104558,
+                        48.137675
+                  ]
             },
             {
                   "name": "Primatial Palace",
                   "text": "This neoclassical palace houses the Hall of Mirrors, where the Peace of Pressburg was signed in 1805 between France and Austria.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.108674,
+                        48.143962
+                  ]
             },
             {
                   "name": "Old Town Hall",
                   "text": "Located in the main square, this building dates back to the 14th century and currently houses the Bratislava City Museum.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.108889,
+                        48.143611
+                  ]
             },
             {
                   "name": "Slavín Memorial",
                   "text": "A monumental war memorial and cemetery for Soviet soldiers who fell during the liberation of the city in 1945, offering panoramic views.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.099722,
+                        48.153889
+                  ]
             },
             {
                   "name": "Grassalkovich Palace",
                   "text": "This 18th-century Baroque palace is the official residence of the President of Slovakia and features a large public park behind it.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.107778,
+                        48.149444
+                  ]
             },
             {
                   "name": "Slovak National Theatre",
                   "text": "The historic building in Hviezdoslav Square was built in 1886 in Neo-Renaissance style by the famous architects Fellner & Helmer.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        17.11024,
+                        48.14241
+                  ]
             }
       ]
 }

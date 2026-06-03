@@ -100,55 +100,91 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                   "name": "Festung Koules",
                   "text": "Venezianische Festung am Eingang des alten Hafens, erbaut im 16. Jahrhundert zum Schutz der Stadt.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.136883,
+                        35.344569
+                  ]
             },
             {
                   "name": "Palast von Knossos",
                   "text": "Die Ruinen des größten minoischen Palastes und das Zentrum der ersten europäischen Hochkultur.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.163144,
+                        35.297928
+                  ]
             },
             {
                   "name": "Archäologisches Museum",
                   "text": "Eines der bedeutendsten Museen Europas mit einer weltweit einzigartigen Sammlung minoischer Kunst.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.137419,
+                        35.339138
+                  ]
             },
             {
                   "name": "Morosini-Brunnen",
                   "text": "Der berühmte Löwenbrunnen im Stadtzentrum, ein Meisterwerk venezianischer Steinmetzkunst von 1628.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.133137,
+                        35.339168
+                  ]
             },
             {
                   "name": "Agios-Minas-Kathedrale",
                   "text": "Eine der größten Kathedralen Griechenlands, gewidmet dem Schutzpatron der Stadt Heraklion.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.130833,
+                        35.3375
+                  ]
             },
             {
                   "name": "Venezianische Mauern",
                   "text": "Die massiven Verteidigungsmauern umschließen die Altstadt und bieten heute Wege für Spaziergänge.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.130661,
+                        35.332707
+                  ]
             },
             {
                   "name": "Agios-Titos-Kirche",
                   "text": "Historisches Gotteshaus, das im Laufe der Jahrhunderte als byzantinische Kirche und Moschee diente.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.134658,
+                        35.3401
+                  ]
             },
             {
                   "name": "Historisches Museum von Kreta",
                   "text": "Museum zur Geschichte Kretas, von der frühchristlichen Ära bis zu den Ereignissen des Zweiten Weltkriegs.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.131167,
+                        35.341806
+                  ]
             },
             {
                   "name": "Bembo-Brunnen",
                   "text": "Der älteste erhaltene venezianische Brunnen der Stadt, reich verziert mit antiken Reliefs und Statuen.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.133484,
+                        35.336495
+                  ]
             }
       ],
       "hu": [
@@ -156,55 +192,91 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                   "name": "Koules erőd",
                   "text": "Velencei erőd a régi kikötő bejáratánál, amelyet a 16. században építettek a város védelmére.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.136883,
+                        35.344569
+                  ]
             },
             {
                   "name": "Knoszoszi palota",
                   "text": "A legnagyobb minószi palota romjai, amely az első európai civilizáció központjaként szolgált.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.163144,
+                        35.297928
+                  ]
             },
             {
                   "name": "Régészeti Múzeum",
                   "text": "Európa egyik legjelentősebb múzeuma, amely a minószi művészet világszerte egyedülálló gyűjteményét őrzi.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.137419,
+                        35.339138
+                  ]
             },
             {
                   "name": "Morosini-kút",
                   "text": "A városközpont híres oroszlános kútja, a velencei kőfaragó művészet 1628-ból származó remekműve.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.133137,
+                        35.339168
+                  ]
             },
             {
                   "name": "Agios Minas székesegyház",
                   "text": "Görögország egyik legnagyobb székesegyháza, amelyet Iráklió város védőszentjének szenteltek.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.130833,
+                        35.3375
+                  ]
             },
             {
                   "name": "Velencei falak",
                   "text": "A masszív védőfalak körülölelik az óvárost, ma pedig kellemes sétányokat kínálnak a látogatóknak.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.130661,
+                        35.332707
+                  ]
             },
             {
                   "name": "Agios Titos templom",
                   "text": "Történelmi templom, amely az évszázadok során bizánci templomként és mecsetként is funkcionált.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.134658,
+                        35.3401
+                  ]
             },
             {
                   "name": "Krétai Történeti Múzeum",
                   "text": "Kréta történelmét bemutató múzeum a kora keresztény kortól egészen a második világháború eseményeiig.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.131167,
+                        35.341806
+                  ]
             },
             {
                   "name": "Bembo-kút",
                   "text": "A város legrégebbi fennmaradt velencei kútja, amelyet gazdagon díszítenek antik domborművek és szobrok.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.133484,
+                        35.336495
+                  ]
             }
       ],
       "ro": [
@@ -212,55 +284,91 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                   "name": "Cetatea Koules",
                   "text": "Cetate venețiană situată la intrarea în portul vechi, construită în secolul al XVI-lea pentru apărare.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.136883,
+                        35.344569
+                  ]
             },
             {
                   "name": "Palatul Knossos",
                   "text": "Ruinele celui mai mare palat minoic și centrul primei mari civilizații de pe continentul european.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.163144,
+                        35.297928
+                  ]
             },
             {
                   "name": "Muzeul Arheologic",
                   "text": "Unul dintre cele mai importante muzee din Europa, având o colecție unică de artă minoică din lume.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.137419,
+                        35.339138
+                  ]
             },
             {
                   "name": "Fântâna Morosini",
                   "text": "Faimoasa fântână cu lei din centrul orașului, o capodoperă a sculpturii venețiene datând din 1628.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.133137,
+                        35.339168
+                  ]
             },
             {
                   "name": "Catedrala Agios Minas",
                   "text": "Una dintre cele mai mari catedrale din Grecia, dedicată Sfântului Mina, protectorul orașului Heraklion.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.130833,
+                        35.3375
+                  ]
             },
             {
                   "name": "Zidurile venețiene",
                   "text": "Zidurile defensive masive care înconjoară orașul vechi, oferind astăzi trasee pitorești de plimbare.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.130661,
+                        35.332707
+                  ]
             },
             {
                   "name": "Biserica Agios Titos",
                   "text": "Lăcaș de cult istoric care, de-a lungul secolelor, a servit drept biserică bizantină și moschee.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.134658,
+                        35.3401
+                  ]
             },
             {
                   "name": "Muzeul Istoric al Cretei",
                   "text": "Muzeu dedicat istoriei Cretei, din epoca creștină timpurie până la evenimentele celui de-al Doilea Război Mondial.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.131167,
+                        35.341806
+                  ]
             },
             {
                   "name": "Fântâna Bembo",
                   "text": "Cea mai veche fântână venețiană păstrată din oraș, decorată bogat cu reliefuri și statui antice.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.133484,
+                        35.336495
+                  ]
             }
       ],
       "en": [
@@ -268,55 +376,91 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                   "name": "Koules Fortress",
                   "text": "Venetian fortress at the entrance of the old harbor, built in the 16th century to protect the city.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.136883,
+                        35.344569
+                  ]
             },
             {
                   "name": "Knossos Palace",
                   "text": "The ruins of the largest Minoan palace and the center of the first advanced European civilization.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.163144,
+                        35.297928
+                  ]
             },
             {
                   "name": "Archaeological Museum",
                   "text": "One of Europe's most important museums, housing a globally unique collection of Minoan artifacts.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.137419,
+                        35.339138
+                  ]
             },
             {
                   "name": "Morosini Fountain",
                   "text": "The famous lion fountain in the city center, a masterpiece of Venetian stonemasonry from 1628.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.133137,
+                        35.339168
+                  ]
             },
             {
                   "name": "Agios Minas Cathedral",
                   "text": "One of the largest cathedrals in Greece, dedicated to Saint Menas, the patron saint of Heraklion.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.130833,
+                        35.3375
+                  ]
             },
             {
                   "name": "Venetian Walls",
                   "text": "The massive defensive walls encircling the old town, now offering scenic paths for walking and views.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.130661,
+                        35.332707
+                  ]
             },
             {
                   "name": "Agios Titos Church",
                   "text": "Historical place of worship that served as both a Byzantine church and a mosque over the centuries.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.134658,
+                        35.3401
+                  ]
             },
             {
                   "name": "Historical Museum of Crete",
                   "text": "Museum dedicated to Cretan history, spanning from the early Christian era to the Second World War.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.131167,
+                        35.341806
+                  ]
             },
             {
                   "name": "Bembo Fountain",
                   "text": "The oldest surviving Venetian fountain in the city, richly decorated with ancient reliefs and statues.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        25.133484,
+                        35.336495
+                  ]
             }
       ]
 }
@@ -786,61 +930,81 @@ imageHint: "Rhodes Palace of the Grand Master",
                   "name": "Großmeisterpalast",
                   "text": "Diese massive mittelalterliche Festung diente im 14. Jahrhundert als administratives Zentrum der Johanniterritter.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.224111,
+                        36.445694
+                  ]
             },
             {
                   "name": "Ritterstraße",
                   "text": "Eine der besterhaltenen mittelalterlichen Straßen Europas, gesäumt von den Herbergen der verschiedenen Zungen des Ordens.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226245,
+                        36.445054
+                  ]
             },
             {
                   "name": "Mandraki-Hafen",
                   "text": "Der antike Hafen wird heute von zwei Hirschstatuen bewacht, dort wo einst der Koloss von Rhodos gestanden haben soll.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226555,
+                        36.449379
+                  ]
             },
             {
                   "name": "Akropolis von Rhodos",
                   "text": "Auf dem Monte Smith gelegen, beherbergt sie die Überreste des Apollon-Tempels und ein beeindruckendes antikes Stadion.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.2109,
+                        36.4402
+                  ]
             },
             {
                   "name": "Archäologisches Museum",
                   "text": "Untergebracht im ehemaligen Ordenshospital, zeigt es bedeutende Funde wie die berühmte Statue der Aphrodite von Rhodos.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226251,
+                        36.444628
+                  ]
             },
             {
                   "name": "Roloi Uhrturm",
                   "text": "Ein byzantinischer Turm, der nach 1851 wiederaufgebaut wurde und einen fantastischen Panoramablick über die Altstadt bietet.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Süleyman-Moschee",
-                  "text": "Die im 16. Jahrhundert erbaute Moschee mit ihrer rosa Fassade erinnert an die osmanische Herrschaft über die Insel.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.22381,
+                        36.444261
+                  ]
             },
             {
                   "name": "Mittelalterliche Stadtmauern",
                   "text": "Ein 4 km langes Befestigungssystem mit beeindruckenden Toren und Gräben, das die gesamte Altstadt umschließt.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Platz der jüdischen Märtyrer",
-                  "text": "Ein zentraler Platz im ehemaligen jüdischen Viertel mit einem Seepferdchen-Brunnen zum Gedenken an den Holocaust.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.228153,
+                        36.444228
+                  ]
             },
             {
                   "name": "Panagia tou Kastrou",
                   "text": "Die größte und älteste erhaltene Kirche der Ritterzeit, die später während der Türkenherrschaft als Moschee diente.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.227389,
+                        36.445111
+                  ]
             }
       ],
       "hu": [
@@ -848,61 +1012,81 @@ imageHint: "Rhodes Palace of the Grand Master",
                   "name": "Nagymesteri palota",
                   "text": "Ez a hatalmas középkori erőd a 14. században a johannita lovagrend adminisztratív központjaként szolgált.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.224111,
+                        36.445694
+                  ]
             },
             {
                   "name": "Lovagok utcája",
                   "text": "Európa egyik legjobb állapotban fennmaradt középkori utcája, ahol a rend különböző nyelveinek szállásai állnak.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226245,
+                        36.445054
+                  ]
             },
             {
                   "name": "Mandraki kikötő",
                   "text": "Az ókori kikötő bejáratát ma két szarvas szobor őrzi azon a helyen, ahol egykor a Rodoszi Kolosszus állhatott.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226555,
+                        36.449379
+                  ]
             },
             {
                   "name": "Rodoszi Akropolisz",
                   "text": "A Monte Smith dombon található területen Apollón templomának romjai és egy ókori stadion látható.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.2109,
+                        36.4402
+                  ]
             },
             {
                   "name": "Régészeti Múzeum",
                   "text": "A lovagok egykori kórházában működő múzeum olyan kincseket őriz, mint a híres rodoszi Aphrodité-szobor.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226251,
+                        36.444628
+                  ]
             },
             {
                   "name": "Roloi óratorony",
                   "text": "A bizánci alapokra épült torony az óváros legmagasabb pontja, ahonnan páratlan kilátás nyílik a tengerre.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szulejmán-mecset",
-                  "text": "A 16. században épült rózsaszín falú épület Rodosz oszmán korszakának egyik legfontosabb építészeti emléke.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.22381,
+                        36.444261
+                  ]
             },
             {
                   "name": "Középkori városfalak",
                   "text": "A 4 kilométer hosszú, masszív védműrendszer bástyákkal és kapukkal veszi körül a világörökségi óvárost.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Zsidó mártírok tere",
-                  "text": "Az egykori zsidó negyed központja, ahol egy csikóhalas szökőkút állít emléket a holokauszt áldozatainak.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.228153,
+                        36.444228
+                  ]
             },
             {
                   "name": "Panagia tou Kastrou",
                   "text": "A lovagkor legnagyobb fennmaradt temploma, amely gótikus stílusával a bizánci és a nyugati építészet keveréke.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.227389,
+                        36.445111
+                  ]
             }
       ],
       "ro": [
@@ -910,61 +1094,81 @@ imageHint: "Rhodes Palace of the Grand Master",
                   "name": "Palatul Marelui Maestru",
                   "text": "O fortăreață medievală impunătoare care a servit drept centru administrativ al Cavalerilor Ospitalieri în secolul al XIV-lea.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.224111,
+                        36.445694
+                  ]
             },
             {
                   "name": "Strada Cavalerilor",
                   "text": "Una dintre cele mai bine conservate străzi medievale din Europa, mărginită de fostele hanuri ale Ordinului Sf. Ioan.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226245,
+                        36.445054
+                  ]
             },
             {
                   "name": "Portul Mandraki",
                   "text": "Vechiul port este străjuit astăzi de două statui de cerbi, pe locul unde se presupune că a stat Colosul din Rhodos.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226555,
+                        36.449379
+                  ]
             },
             {
                   "name": "Acropola din Rhodos",
                   "text": "Situată pe dealul Monte Smith, găzduiește ruinele templului lui Apollo și un stadion antic impresionant.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.2109,
+                        36.4402
+                  ]
             },
             {
                   "name": "Muzeul de Arheologie",
                   "text": "Găzduit în fostul spital al cavalerilor, muzeul expune descoperiri majore, inclusiv statuia Afroditei din Rhodos.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226251,
+                        36.444628
+                  ]
             },
             {
                   "name": "Turnul cu ceas Roloi",
                   "text": "Un turn bizantin reconstruit după 1851, oferind o panoramă splendidă asupra orașului vechi și a mării Egee.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Moscheea lui Suleiman",
-                  "text": "Construită în secolul al XVI-lea, moscheea cu fațadă roz amintește de perioada dominației otomane în insulă.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.22381,
+                        36.444261
+                  ]
             },
             {
                   "name": "Zidurile orașului medieval",
                   "text": "Un sistem de fortificații lung de 4 km, cu porți monumentale și șanțuri de apărare care înconjoară centrul istoric.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Piața Martirilor Evrei",
-                  "text": "O piață centrală în vechiul cartier evreiesc, având o fântână cu căluți de mare dedicată victimelor Holocaustului.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.228153,
+                        36.444228
+                  ]
             },
             {
                   "name": "Panagia tou Kastrou",
                   "text": "Cea mai mare și mai veche biserică păstrată din perioada cavalerilor, îmbinând stilul bizantin cu elemente gotice.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.227389,
+                        36.445111
+                  ]
             }
       ],
       "en": [
@@ -972,61 +1176,81 @@ imageHint: "Rhodes Palace of the Grand Master",
                   "name": "Palace of the Grand Master",
                   "text": "A massive medieval fortress and museum that served as the administrative center for the Knights Hospitaller in the 14th century.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.224111,
+                        36.445694
+                  ]
             },
             {
                   "name": "Street of the Knights",
                   "text": "One of the best-preserved medieval streets in Europe, lined with the former inns of the various tongues of the Order of St. John.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226245,
+                        36.445054
+                  ]
             },
             {
                   "name": "Mandraki Harbour",
                   "text": "The ancient port entrance is now marked by two deer statues, traditionally where the Colossus of Rhodes once stood.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226555,
+                        36.449379
+                  ]
             },
             {
                   "name": "Acropolis of Rhodes",
                   "text": "Located on Monte Smith, this site features the remains of the Temple of Apollo and an impressive ancient stadium.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.2109,
+                        36.4402
+                  ]
             },
             {
                   "name": "Archaeological Museum",
                   "text": "Housed in the former Hospital of the Knights, it displays significant finds like the famous Aphrodite of Rhodes statue.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.226251,
+                        36.444628
+                  ]
             },
             {
                   "name": "Roloi Clock Tower",
                   "text": "A Byzantine-era tower rebuilt after 1851, offering the highest vantage point for panoramic views over the Old Town.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Suleman Mosque",
-                  "text": "Built in the 16th century, this pink-walled building is a prominent architectural reminder of the Ottoman period in Rhodes.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.22381,
+                        36.444261
+                  ]
             },
             {
                   "name": "Medieval City Walls",
                   "text": "A 4-kilometer long fortification system with impressive gates and moats encircling the entire UNESCO Old Town.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Square of the Jewish Martyrs",
-                  "text": "A central square in the former Jewish quarter with a seahorse fountain honoring the victims of the Holocaust.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.228153,
+                        36.444228
+                  ]
             },
             {
                   "name": "Panagia tou Kastrou",
                   "text": "The largest and oldest surviving church from the period of the Knights, later used as a mosque during Turkish rule.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        28.227389,
+                        36.445111
+                  ]
             }
       ]
 }
@@ -1408,61 +1632,91 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "name": "Alte Festung",
                   "text": "Ein venezianisches Meisterwerk auf einer felsigen Halbinsel, das die Stadt jahrhundertelang vor Invasionen schützte.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.929444,
+                        39.623333
+                  ]
             },
             {
                   "name": "Spianada-Platz",
                   "text": "Einer der größten Plätze Europas, der als grüne Lunge der Stadt dient und französische Einflüsse widerspiegelt.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.92446,
+                        39.623602
+                  ]
             },
             {
                   "name": "Agios-Spyridon-Kirche",
                   "text": "Die Kirche beherbergt die Reliquien des Schutzpatrons der Insel und ist für ihren hohen roten Glockenturm bekannt.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Liston-Promenade",
-                  "text": "Die elegante Arkadenstraße wurde nach dem Vorbild der Rue de Rivoli in Paris erbaut und ist das Herz des sozialen Lebens.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.9227,
+                        39.6251
+                  ]
             },
             {
                   "name": "Palast von St. Michael und St. George",
                   "text": "Ein britisches neoklassizistisches Gebäude, in dem heute das bedeutende Museum für Asiatische Kunst untergebracht ist.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.924694,
+                        39.625833
+                  ]
             },
             {
                   "name": "Neue Festung",
                   "text": "Auf dem Hügel von St. Mark gelegen, bietet dieses massive venezianische Bollwerk einen weiten Blick über den Hafen.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.916807,
+                        39.625309
+                  ]
             },
             {
                   "name": "Rathaus (San Giacomo)",
                   "text": "Ein prachtvolles Gebäude aus venezianischer Zeit, das ursprünglich als Theater und Treffpunkt des Adels diente.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.922214,
+                        39.623754
+                  ]
             },
             {
                   "name": "Mon Repos",
                   "text": "Die neoklassizistische Villa in einem weitläufigen Park ist als Geburtsort von Prinz Philip, Herzog von Edinburgh, bekannt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.926111,
+                        39.606389
+                  ]
             },
             {
                   "name": "Kanoni & Vlacherna",
                   "text": "Ein berühmter Aussichtspunkt mit Blick auf das kleine Frauenkloster Vlacherna und die grüne Mäuseinsel Pontikonisi.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.919748,
+                        39.590989
+                  ]
             },
             {
                   "name": "Archäologisches Museum",
                   "text": "Es zeigt bedeutende Funde der antiken Stadt Korfu, darunter den monumentalen Gorgonen-Giebel vom Artemis-Tempel.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.92794,
+                        39.62347
+                  ]
             }
       ],
       "hu": [
@@ -1470,61 +1724,91 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "name": "Régi Erőd",
                   "text": "A velenceiek által épített sziklaerőd évszázadokon át védte a várost a tenger felől érkező támadásoktól.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.929444,
+                        39.623333
+                  ]
             },
             {
                   "name": "Spianada tér",
                   "text": "Európa egyik legnagyobb tere, amely parkjaival és emlékműveivel a város legnépszerűbb közösségi helyszíne.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.92446,
+                        39.623602
+                  ]
             },
             {
                   "name": "Szent Szpiridon-templom",
                   "text": "A város védőszentjének ereklyéit őrző templom magas, vörös tetejű harangtornya Korfu egyik jelképe.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Liston sétány",
-                  "text": "A párizsi Rue de Rivoli mintájára épült árkádos épületsor Korfu legelegánsabb kávézóinak és éttermeinek ad otthont.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.9227,
+                        39.6251
+                  ]
             },
             {
                   "name": "Szent Mihály és Szent György-palota",
                   "text": "Brit neoklasszicista stílusú palota, amely ma az egyedülálló Ázsiai Művészeti Múzeumnak ad helyet.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.924694,
+                        39.625833
+                  ]
             },
             {
                   "name": "Új Erőd",
                   "text": "A Szent Márk-dombon álló masszív erődrendszer falairól lenyűgöző kilátás nyílik a régi kikötőre és az óvárosra.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.916807,
+                        39.625309
+                  ]
             },
             {
                   "name": "Városháza (San Giacomo)",
                   "text": "Ez a díszes velencei épület korábban színházként működött, ma pedig a városvezetés központja.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.922214,
+                        39.623754
+                  ]
             },
             {
                   "name": "Mon Repos palota",
                   "text": "A dús növényzetű parkban álló neoklasszicista villa Fülöp edinburgh-i herceg szülőhelyeként híresült el.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.926111,
+                        39.606389
+                  ]
             },
             {
                   "name": "Kanoni és Vlacherna",
                   "text": "A város legfotózottabb pontja, ahonnan a Vlacherna-kolostor és az apró Egér-sziget látványa tárul elénk.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.919748,
+                        39.590989
+                  ]
             },
             {
                   "name": "Régészeti Múzeum",
                   "text": "Itt látható az ókori Korfu legfontosabb emléke, a monumentális Gorgó-pediment az Artemisz-templomból.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.92794,
+                        39.62347
+                  ]
             }
       ],
       "ro": [
@@ -1532,61 +1816,91 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "name": "Vechea Cetate",
                   "text": "O capodoperă venețiană situată pe o peninsulă stâncoasă, oferind vederi panoramice asupra orașului și a Mării Ioniene.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.929444,
+                        39.623333
+                  ]
             },
             {
                   "name": "Piața Spianada",
                   "text": "Una dintre cele mai mari piețe din Europa, acest spațiu verde reflectă influențele coloniale franceze și britanice.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.92446,
+                        39.623602
+                  ]
             },
             {
                   "name": "Biserica Sfântul Spiridon",
                   "text": "Găzduiește moaștele patronului insulei și este celebră pentru turnul său cu clopot înalt, cu dom roșu.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Promenada Liston",
-                  "text": "Construită după modelul Rue de Rivoli din Paris, această stradă cu arcade este inima vieții sociale din Corfu.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.9227,
+                        39.6251
+                  ]
             },
             {
                   "name": "Palatul Sf. Mihail și Sf. Gheorghe",
                   "text": "O clădire neoclasică britanică ce găzduiește astăzi prestigiosul Muzeu de Artă Asiatică din Corfu.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.924694,
+                        39.625833
+                  ]
             },
             {
                   "name": "Noua Cetate",
                   "text": "Situată pe dealul Sf. Marcu, această fortificație venețiană masivă oferă o perspectivă excelentă asupra portului vechi.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.916807,
+                        39.625309
+                  ]
             },
             {
                   "name": "Primăria (San Giacomo)",
                   "text": "O clădire elegantă din era venețiană, care a servit inițial ca teatru și loc de întâlnire pentru nobilime.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.922214,
+                        39.623754
+                  ]
             },
             {
                   "name": "Palatul Mon Repos",
                   "text": "O vilă neoclasică situată într-un parc vast, cunoscută ca fiind locul de naștere al Prințului Philip, Duce de Edinburgh.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.926111,
+                        39.606389
+                  ]
             },
             {
                   "name": "Kanoni și Vlacherna",
                   "text": "Un punct de observație faimos de unde se pot vedea mănăstirea Vlacherna și mica insulă Pontikonisi (Insula Șoricelului).",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.919748,
+                        39.590989
+                  ]
             },
             {
                   "name": "Muzeul de Arheologie",
                   "text": "Expune vestigii importante din orașul antic, inclusiv frontonul monumental al Gorgonei de la Templul lui Artemis.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.92794,
+                        39.62347
+                  ]
             }
       ],
       "en": [
@@ -1594,61 +1908,91 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "name": "Old Fortress",
                   "text": "A Venetian masterpiece on a rocky peninsula, offering panoramic views of the town and the Ionian Sea.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.929444,
+                        39.623333
+                  ]
             },
             {
                   "name": "Spianada Square",
                   "text": "One of the largest squares in Europe, this green space reflects the city's French and British colonial influences.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.92446,
+                        39.623602
+                  ]
             },
             {
                   "name": "Saint Spyridon Church",
                   "text": "Housing the relics of the island's patron saint, it is famous for its tall, red-domed bell tower.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Liston Promenade",
-                  "text": "Modeled after the Rue de Rivoli in Paris, this arched colonnade is the heart of Corfu's social life.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.9227,
+                        39.6251
+                  ]
             },
             {
                   "name": "Palace of St. Michael and St. George",
                   "text": "A British neoclassical building that now houses the impressive Museum of Asian Art.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.924694,
+                        39.625833
+                  ]
             },
             {
                   "name": "New Fortress",
                   "text": "Located on St. Mark's Hill, this massive Venetian fortification provides excellent views over the old harbour.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.916807,
+                        39.625309
+                  ]
             },
             {
                   "name": "Town Hall (San Giacomo)",
                   "text": "An ornate building from the Venetian era that originally served as a theatre and a gathering place for nobility.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.922214,
+                        39.623754
+                  ]
             },
             {
                   "name": "Mon Repos Estate",
                   "text": "A neoclassical villa in a sprawling park, famous as the birthplace of Prince Philip, Duke of Edinburgh.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.926111,
+                        39.606389
+                  ]
             },
             {
                   "name": "Kanoni & Vlacherna",
                   "text": "A famous viewpoint overlooking the Vlacherna Monastery and the green Mouse Island (Pontikonisi).",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.919748,
+                        39.590989
+                  ]
             },
             {
                   "name": "Archaeological Museum",
                   "text": "Displays significant finds from ancient Corfu, including the monumental Gorgon pediment from the Temple of Artemis.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        19.92794,
+                        39.62347
+                  ]
             }
       ]
 }
@@ -1940,61 +2284,91 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "name": "Festung Palamidi",
                   "text": "Die venezianische Festung aus dem 18. Jahrhundert thront über Nafplio und bietet einen weiten Blick auf den Argolischen Golf.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.802615,
+                        37.562387
+                  ]
             },
             {
                   "name": "Festung Bourtzi",
                   "text": "Diese ikonische Seefestung liegt auf einer kleinen Insel im Hafen und diente einst als Residenz für Scharfrichter.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.790536,
+                        37.569716
+                  ]
             },
             {
                   "name": "Akronafplia",
                   "text": "Der älteste Teil der Stadt mit antiken Mauern bietet einen hervorragenden Blick auf den Strand von Arvanitia und die Stadt.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798226,
+                        37.565362
+                  ]
             },
             {
                   "name": "Syntagma-Platz",
                   "text": "Der zentrale Platz der Altstadt ist von historischen Gebäuden wie der Trianon-Moschee und dem Archäologischen Museum umgeben.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.796822,
+                        37.566021
+                  ]
             },
             {
                   "name": "Archäologisches Museum",
                   "text": "Untergebracht in einem venezianischen Herrenhaus, zeigt es bedeutende Funde aus der Argolis, darunter eine mykenische Rüstung.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.796278,
+                        37.566079
+                  ]
             },
             {
                   "name": "Kirche Agios Spyridon",
                   "text": "Die im 18. Jahrhundert erbaut Kirche ist bekannt als der Ort, an dem 1831 Ioannis Kapodistrias, das erste Staatsoberhaupt, ermordet wurde.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798098,
+                        37.565258
+                  ]
             },
             {
                   "name": "Kriegsmuseum",
                   "text": "Das Museum dokumentiert die griechische Militärgeschichte von der Revolution 1821 bis zur Befreiung von der Besatzung.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Arvanitia-Promenade",
-                  "text": "Ein malerischer Küstenweg, der unter den Klippen von Akronafplia entlangführt und die Stadt mit dem Arvanitia-Strand verbindet.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798763,
+                        37.566042
+                  ]
             },
             {
                   "name": "Peloponnesische Volkskundestiftung",
                   "text": "Dieses preisgekrönte Museum widmet sich der Erhaltung der griechischen Kultur durch Textilien, Kostüme und Alltagsgegenstände.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798898,
+                        37.566605
+                  ]
             },
             {
                   "name": "Löwe von Bayern",
                   "text": "Ein in den Fels gehauenes Monument zum Gedenken an bayerische Soldaten, die während der Regentschaft von König Otto starben.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.811447,
+                        37.566317
+                  ]
             }
       ],
       "hu": [
@@ -2002,61 +2376,91 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "name": "Palamidi-erőd",
                   "text": "A 18. századi velencei erőd Nafplio felett magasodik, és lenyűgöző panorámát nyújt az Argoliszi-öbölre és a környékre.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.802615,
+                        37.562387
+                  ]
             },
             {
                   "name": "Bourtzi-erőd",
                   "text": "A kikötő bejáratánál, egy apró szigeten álló vízi vár a város egyik legjellegzetesebb jelképe és fotótémája.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.790536,
+                        37.569716
+                  ]
             },
             {
                   "name": "Akronafplia",
                   "text": "A város legrégebbi erődítménye, amelynek falai az ókortól a velencei korig épültek, remek kilátást nyújtva a tengerre.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798226,
+                        37.565362
+                  ]
             },
             {
                   "name": "Szintagma tér",
                   "text": "Az óváros szíve, amelyet velencei kúriák, neoklasszicista épületek és az egykori török mecsetek szegélyeznek.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.796822,
+                        37.566021
+                  ]
             },
             {
                   "name": "Régészeti Múzeum",
                   "text": "Egy impozáns velencei épületben kapott helyet, legértékesebb kincse egy ritka, épségben maradt mükénei bronzpáncél.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.796278,
+                        37.566079
+                  ]
             },
             {
                   "name": "Szent Szpiridon-templom",
                   "text": "Ebben a 18. századi templomban gyilkolták meg 1831-ben Ioannis Kapodistriast, a modern Görögország első elnökét.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798098,
+                        37.565258
+                  ]
             },
             {
                   "name": "Hadtörténeti Múzeum",
                   "text": "A múzeum a görög szabadságharc és a modern hadtörténet emlékeit őrzi a város egykori katonai akadémiájának épületében.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Arvanitia sétány",
-                  "text": "A sziklák alatt futó tengerparti sétány népszerű a helyiek körében, összekötve a kikötőt a déli strandokkal.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798763,
+                        37.566042
+                  ]
             },
             {
                   "name": "Peloponnészoszi Néprajzi Alapítvány",
                   "text": "Gazdag textil- és népviseleti gyűjteménye bemutatja a görög vidéki élet és kézművesség hagyományait.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798898,
+                        37.566605
+                  ]
             },
             {
                   "name": "Bajor oroszlán",
                   "text": "A sziklába faragott monumentális szobor az Ottó király seregében szolgáló bajor katonák emlékét őrzi.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.811447,
+                        37.566317
+                  ]
             }
       ],
       "ro": [
@@ -2064,61 +2468,91 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "name": "Cetatea Palamidi",
                   "text": "Construită de venețieni în secolul al XVIII-lea, cetatea domină orașul și oferă o panoramă spectaculoasă asupra regiunii.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.802615,
+                        37.562387
+                  ]
             },
             {
                   "name": "Fortăreața Bourtzi",
                   "text": "Această fortificație marină situată pe o insulă din port a servit drept reședință pentru călăi în perioada otomană.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.790536,
+                        37.569716
+                  ]
             },
             {
                   "name": "Akronafplia",
                   "text": "Cea mai veche parte a orașului, cu ziduri din epoca pre-miceniană, oferă vederi superbe către plaja Arvanitia.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798226,
+                        37.565362
+                  ]
             },
             {
                   "name": "Piața Syntagma",
                   "text": "Inima orașului vechi, înconjurată de clădiri istorice precum Moscheea Trianon și Muzeul de Arheologie.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.796822,
+                        37.566021
+                  ]
             },
             {
                   "name": "Muzeul de Arheologie",
                   "text": "Găzduit într-o clădire venețiană, muzeul expune descoperiri importante din Argolida, inclusiv o armură miceniană rară.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.796278,
+                        37.566079
+                  ]
             },
             {
                   "name": "Biserica Sfântul Spiridon",
                   "text": "Lăcaș de cult istoric, faimos pentru că în fața intrării sale a fost asasinat primul șef de stat al Greciei, Ioannis Kapodistrias.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798098,
+                        37.565258
+                  ]
             },
             {
                   "name": "Muzeul Războiului",
                   "text": "Prezintă istoria militară a Greciei prin uniforme, arme și documente, de la Revoluția din 1821 până în prezent.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Promenada Arvanitia",
-                  "text": "Un drum pietonal pitoresc pe malul mării care face legătura între port și plaja de la poalele stâncilor Akronafplia.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798763,
+                        37.566042
+                  ]
             },
             {
                   "name": "Fundația Folclorică Peloponeziacă",
                   "text": "Muzeul este dedicat portului popular și artizanatului grecesc, având o colecție impresionantă de costume tradiționale.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798898,
+                        37.566605
+                  ]
             },
             {
                   "name": "Leul Bavariei",
                   "text": "Un monument sculptat direct în stâncă în memoria soldaților bavarezi care au murit în timpul regenței regelui Otto.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.811447,
+                        37.566317
+                  ]
             }
       ],
       "en": [
@@ -2126,61 +2560,91 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "name": "Palamidi Fortress",
                   "text": "This massive 18th-century Venetian fortress towers over Nafplio and offers breathtaking views of the Argolic Gulf.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.802615,
+                        37.562387
+                  ]
             },
             {
                   "name": "Bourtzi Castle",
                   "text": "An iconic Venetian water fortress located on a small islet in the harbor, accessible by boat from the promenade.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.790536,
+                        37.569716
+                  ]
             },
             {
                   "name": "Acronafplia",
                   "text": "The oldest part of the city, featuring layers of ancient walls and offering stunning views of the town and the sea.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798226,
+                        37.565362
+                  ]
             },
             {
                   "name": "Syntagma Square",
                   "text": "The main square of the old town, surrounded by historic buildings such as the Archaeological Museum and old mosques.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.796822,
+                        37.566021
+                  ]
             },
             {
                   "name": "Archaeological Museum",
                   "text": "Housed in a grand Venetian building, it displays findings from across the Argolis, including a rare Mycenaean suit of armor.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.796278,
+                        37.566079
+                  ]
             },
             {
                   "name": "Church of Agios Spyridon",
                   "text": "A historic church famous as the site where Ioannis Kapodistrias, Greece's first head of state, was assassinated in 1831.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798098,
+                        37.565258
+                  ]
             },
             {
                   "name": "War Museum",
                   "text": "Exhibits detailing Greece's military struggles for independence and the history of the Hellenic Military Academy.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Arvanitia Promenade",
-                  "text": "A scenic coastal walk carved into the cliffs under Acronafplia, connecting the harbor with Arvanitia beach.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798763,
+                        37.566042
+                  ]
             },
             {
                   "name": "Peloponnesian Folklore Foundation",
                   "text": "An award-winning museum focused on Greek culture through its vast collection of textiles, costumes, and folk art.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.798898,
+                        37.566605
+                  ]
             },
             {
                   "name": "Lion of Bavaria",
                   "text": "A monumental sculpture carved into the rock face in memory of Bavarian soldiers who died during King Otto's reign.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        22.811447,
+                        37.566317
+                  ]
             }
       ]
 }

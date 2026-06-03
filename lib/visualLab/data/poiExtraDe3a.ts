@@ -55,31 +55,51 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Ozeaneum",
                   "text": "Modernes Naturkundemuseum am Hafen, das die Unterwasserwelt der nördlichen Meere in riesigen Aquarien zeigt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.0969,
+                        54.3156
+                  ]
             },
             {
                   "name": "Gorch Fock I",
                   "text": "Die historische Dreimast-Bark liegt im Stralsunder Hafen und kann als Museumsschiff besichtigt werden.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.098333,
+                        54.316667
+                  ]
             },
             {
                   "name": "Rathaus Stralsund",
                   "text": "Ein Meisterwerk der norddeutschen Backsteingotik am Alten Markt mit einer prachtvollen Schaufassade.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.090164,
+                        54.315586
+                  ]
             },
             {
                   "name": "St. Marienkirche",
                   "text": "Die mächtige dreischiffige Basilika aus dem 14. Jahrhundert dominiert die Silhouette der Hansestadt.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.087847,
+                        54.310169
+                  ]
             },
             {
                   "name": "Kniepertor",
                   "text": "Eines der gut erhaltenen Stadttore, das die historische Altstadt mit dem nördlichen Stadtgebiet verbindet.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.0897,
+                        54.3175
+                  ]
             }
       ],
       "hu": [
@@ -87,31 +107,51 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Ozeaneum",
                   "text": "Modern természettudományi múzeum a kikötőben, amely az északi tengerek víz alatti világát mutatja be.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.0969,
+                        54.3156
+                  ]
             },
             {
                   "name": "Gorch Fock I",
                   "text": "A történelmi háromárbocos bark a stralsundi kikötőben horgonyoz, és múzeumhajóként látogatható.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.098333,
+                        54.316667
+                  ]
             },
             {
                   "name": "Stralsundi városháza",
                   "text": "Az észak-német tégla-gótika remekműve a régi piacon, pompás díszes homlokzattal és boltívekkel.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.090164,
+                        54.315586
+                  ]
             },
             {
                   "name": "Mária-templom",
                   "text": "A 14. századi hatalmas, háromhajós bazilika meghatározza a hanzaváros látképét és sziluettjét.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.087847,
+                        54.310169
+                  ]
             },
             {
                   "name": "Kniepertor",
                   "text": "Az egyik jól megőrzött városkapu, amely az óvárost köti össze a város északi részeivel.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.0897,
+                        54.3175
+                  ]
             }
       ],
       "ro": [
@@ -119,31 +159,51 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Ozeaneum",
                   "text": "Muzeu modern de istorie naturală în port, care prezintă lumea subacvatică a mărilor nordice în acvarii.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.0969,
+                        54.3156
+                  ]
             },
             {
                   "name": "Gorch Fock I",
                   "text": "Barcul istoric cu trei catarge este ancorat în portul Stralsund și poate fi vizitat ca navă-muzeu.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.098333,
+                        54.316667
+                  ]
             },
             {
                   "name": "Primăria Stralsund",
                   "text": "O capodoperă a goticului de cărămidă din nordul Germaniei, situată în Piața Veche, cu o fațadă superbă.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.090164,
+                        54.315586
+                  ]
             },
             {
                   "name": "Biserica Sf. Maria",
                   "text": "Bazilica masivă cu trei nave din secolul al XIV-lea domină silueta orașului hanseatic.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.087847,
+                        54.310169
+                  ]
             },
             {
                   "name": "Kniepertor",
                   "text": "Una dintre porțile orașului bine conservate, care leagă centrul vechi de cartierele din nord.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.0897,
+                        54.3175
+                  ]
             }
       ],
       "en": [
@@ -151,42 +211,101 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Ozeaneum",
                   "text": "A modern natural history museum at the harbor, showcasing the underwater world of the northern seas.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.0969,
+                        54.3156
+                  ]
             },
             {
                   "name": "Gorch Fock I",
                   "text": "This historic three-masted barque is moored in Stralsund harbor and can be visited as a museum ship.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.098333,
+                        54.316667
+                  ]
             },
             {
                   "name": "Stralsund Town Hall",
                   "text": "A masterpiece of North German Brick Gothic architecture on the Old Market with a magnificent facade.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.090164,
+                        54.315586
+                  ]
             },
             {
                   "name": "St. Mary's Church",
                   "text": "The massive 14th-century three-aisled basilica dominates the skyline of the Hanseatic city.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.087847,
+                        54.310169
+                  ]
             },
             {
                   "name": "Kniepertor",
                   "text": "One of the well-preserved city gates connecting the historic old town with the northern districts.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.0897,
+                        54.3175
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Ozeaneum",
+                  "text": "Liman kıyısındaki modern doğa tarihi müzesi, dev akvaryumlarda kuzey denizlerinin su altı dünyasını gösterir.",
+                  "category": "museum",
+                  "coords": [
+                        13.0969,
+                        54.3156
+                  ]
+            },
+            {
+                  "name": "Gorch Fock I",
+                  "text": "Stralsund limanında demirli olan tarihi üç direkli yelkenli, müze gemi olarak ziyaret edilebilir.",
+                  "category": "museum",
+                  "coords": [
+                        13.098333,
+                        54.316667
+                  ]
+            },
+            {
+                  "name": "Stralsund Belediye Binası",
+                  "text": "Eski Pazar Meydanı'nda yer alan, görkemli cephesiyle Kuzey Almanya Tuğla Gotik mimarisinin bir şaheseridir.",
+                  "category": "town hall",
+                  "coords": [
+                        13.090164,
+                        54.315586
+                  ]
+            },
+            {
+                  "name": "St. Marien Kilisesi",
+                  "text": "14. yüzyıldan kalma devasa bazilika, Hansa şehrinin siluetine hakim konumdadır.",
+                  "category": "church",
+                  "coords": [
+                        13.087847,
+                        54.310169
+                  ]
+            },
+            {
+                  "name": "Knieper Kapısı",
+                  "text": "Tarihi eski şehri kuzey bölgesiyle bağlayan, iyi korunmuş şehir kapılarından biridir.",
+                  "category": "city gate",
+                  "coords": [
+                        13.0897,
+                        54.3175
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Ozeaneum", "text": "Liman kıyısındaki modern doğa tarihi müzesi, dev akvaryumlarda kuzey denizlerinin su altı dünyasını gösterir.", "category": "museum" },
-        { "name": "Gorch Fock I", "text": "Stralsund limanında demirli olan tarihi üç direkli yelkenli, müze gemi olarak ziyaret edilebilir.", "category": "museum" },
-        { "name": "Stralsund Belediye Binası", "text": "Eski Pazar Meydanı'nda yer alan, görkemli cephesiyle Kuzey Almanya Tuğla Gotik mimarisinin bir şaheseridir.", "category": "town hall" },
-        { "name": "St. Marien Kilisesi", "text": "14. yüzyıldan kalma devasa bazilika, Hansa şehrinin siluetine hakim konumdadır.", "category": "church" },
-        { "name": "Knieper Kapısı", "text": "Tarihi eski şehri kuzey bölgesiyle bağlayan, iyi korunmuş şehir kapılarından biridir.", "category": "city gate" }
-      ]
-    }
+}
   },
           {
     id: "river-warnow-extra",
@@ -628,31 +747,41 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Marienkirche",
                   "text": "Die einstige Pfarrkirche dient heute als Konzertkirche mit einer preisgekrönten modernen Architektur.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.26046,
+                        53.55569
+                  ]
             },
             {
                   "name": "Friedländer Tor",
                   "text": "Das am besten erhaltene der vier Stadttore aus dem 15. Jahrhundert mit einem hohen Turm und Vortor.",
                   "category": "city gate",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Stadtmauer",
-                  "text": "Die fast vollständig erhaltene mittelalterliche Wehranlage umschließt die gesamte historische Altstadt.",
-                  "category": "city wall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.2655,
+                        53.5591
+                  ]
             },
             {
                   "name": "Treptower Tor",
                   "text": "Das höchste Stadttor mit 31 Metern beherbergt heute das Regionalmuseum für Stadtgeschichte.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.255,
+                        53.557
+                  ]
             },
             {
                   "name": "Tollensesee",
                   "text": "Ein beliebtes Naherholungsgebiet direkt vor den Toren der Stadt, ideal zum Baden, Segeln und Wandern.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.211389,
+                        53.507222
+                  ]
             }
       ],
       "hu": [
@@ -660,31 +789,41 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Mária-templom",
                   "text": "Az egykori plébániatemplom ma koncerttemplomként működik, díjnyertes modern építészeti megoldásokkal.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.26046,
+                        53.55569
+                  ]
             },
             {
                   "name": "Friedländeri kapu",
                   "text": "A négy 15. századi városkapu közül a legjobb állapotban lévő, magas toronnyal és előkapuval.",
                   "category": "city gate",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Városfal",
-                  "text": "A szinte teljesen épen maradt középkori védműrendszer körbeveszi az egész történelmi óvárost.",
-                  "category": "city wall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.2655,
+                        53.5591
+                  ]
             },
             {
                   "name": "Treptower kapu",
                   "text": "A legmagasabb városkapu (31 méter), amely ma a városi történeti regionális múzeumnak ad otthont.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.255,
+                        53.557
+                  ]
             },
             {
                   "name": "Tollensesee",
                   "text": "Népszerű pihenőhely közvetlenül a város kapui előtt, ideális úszáshoz, vitorlázáshoz és túrázáshoz.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.211389,
+                        53.507222
+                  ]
             }
       ],
       "ro": [
@@ -692,31 +831,41 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Biserica Sf. Maria",
                   "text": "Fosta biserică parohială servește astăzi drept sală de concerte cu o arhitectură modernă premiată.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.26046,
+                        53.55569
+                  ]
             },
             {
                   "name": "Poarta Friedland",
                   "text": "Cea mai bine conservată dintre cele patru porți ale orașului din secolul al XV-lea, cu un turn înalt.",
                   "category": "city gate",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Zidul orașului",
-                  "text": "Fortificația medievală aproape complet conservată înconjoară întregul centru istoric al orașului.",
-                  "category": "city wall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.2655,
+                        53.5591
+                  ]
             },
             {
                   "name": "Poarta Treptow",
                   "text": "Cea mai înaltă poartă (31 m) adăpostește astăzi muzeul regional dedicat istoriei orașului.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.255,
+                        53.557
+                  ]
             },
             {
                   "name": "Lacul Tollense",
                   "text": "O zonă populară de recreere chiar la porțile orașului, ideală pentru înot, navigație și drumeții.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.211389,
+                        53.507222
+                  ]
             }
       ],
       "en": [
@@ -724,42 +873,82 @@ export const poiExtraDe3a: POI[] = [
                   "name": "St. Mary's Church",
                   "text": "The former parish church now serves as a concert church with award-winning modern architecture.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.26046,
+                        53.55569
+                  ]
             },
             {
                   "name": "Friedland Gate",
                   "text": "The best-preserved of the four 15th-century city gates, featuring a tall tower and outer gate.",
                   "category": "city gate",
-                  "confidence": "high"
-            },
-            {
-                  "name": "City Wall",
-                  "text": "The almost completely preserved medieval fortification encircles the entire historic old town.",
-                  "category": "city wall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.2655,
+                        53.5591
+                  ]
             },
             {
                   "name": "Treptow Gate",
                   "text": "The tallest city gate at 31 meters, now housing the regional museum for urban history.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.255,
+                        53.557
+                  ]
             },
             {
                   "name": "Lake Tollense",
                   "text": "A popular recreation area right at the city's doorstep, ideal for swimming, sailing, and hiking.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        13.211389,
+                        53.507222
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Marien Kilisesi",
+                  "text": "Eski bölge kilisesi günümüzde ödüllü modern mimarisiyle bir konser kilisesi olarak hizmet vermektedir.",
+                  "category": "church",
+                  "coords": [
+                        13.26046,
+                        53.55569
+                  ]
+            },
+            {
+                  "name": "Friedland Kapısı",
+                  "text": "15. yüzyıldan kalma dört şehir kapısının en iyi korunmuş olanı olup yüksek bir kulesi ve ön kapısı vardır.",
+                  "category": "city gate",
+                  "coords": [
+                        13.2655,
+                        53.5591
+                  ]
+            },
+            {
+                  "name": "Treptow Kapısı",
+                  "text": "31 metre ile en yüksek şehir kapısı olup günümüzde bölgesel şehir tarihi müzesine ev sahipliği yapar.",
+                  "category": "city gate",
+                  "coords": [
+                        13.255,
+                        53.557
+                  ]
+            },
+            {
+                  "name": "Tollense Gölü",
+                  "text": "Şehir kapılarının hemen önündeki popüler rekreasyon alanı; yüzme, yelken ve yürüyüş için idealdir.",
+                  "category": "park",
+                  "coords": [
+                        13.211389,
+                        53.507222
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Marien Kilisesi", "text": "Eski bölge kilisesi günümüzde ödüllü modern mimarisiyle bir konser kilisesi olarak hizmet vermektedir.", "category": "church" },
-        { "name": "Friedland Kapısı", "text": "15. yüzyıldan kalma dört şehir kapısının en iyi korunmuş olanı olup yüksek bir kulesi ve ön kapısı vardır.", "category": "city gate" },
-        { "name": "Şehir Suru", "text": "Neredeyse tamamen korunmuş olan Orta Çağ savunma sistemi, tüm tarihi eski şehri çevreler.", "category": "city wall" },
-        { "name": "Treptow Kapısı", "text": "31 metre ile en yüksek şehir kapısı olup günümüzde bölgesel şehir tarihi müzesine ev sahipliği yapar.", "category": "city gate" },
-        { "name": "Tollense Gölü", "text": "Şehir kapılarının hemen önündeki popüler rekreasyon alanı; yüzme, yelken ve yürüyüş için idealdir.", "category": "park" }
-      ]
-    }
+}
   },
   {
     id: "animal-habitat-mv-kraniche-extra",
@@ -1458,7 +1647,11 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJA5u4r71Cs0cRGhlsULDM3zE",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43158,
+                        54.7857
+                  ]
             },
             {
                   "name": "Nordertor",
@@ -1471,7 +1664,11 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJx69_LsdCs0cRchGfBMDDwLU",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43017,
+                        54.79553
+                  ]
             },
             {
                   "name": "Phänomenta",
@@ -1484,7 +1681,11 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJP0Q7M8dCs0cRihdd3kYW51g",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43002,
+                        54.7954
+                  ]
             },
             {
                   "name": "Rote Straße",
@@ -1497,7 +1698,11 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJTy1SIZhCs0cRnD-5qgKR4Wc",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43579,
+                        54.7819
+                  ]
             },
             {
                   "name": "Museumshafen",
@@ -1510,7 +1715,11 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJs5tVe79Cs0cRuEF8Ey7KQ-8",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43389,
+                        54.7936
+                  ]
             }
       ],
       "hu": [
@@ -1525,13 +1734,21 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJA5u4r71Cs0cRGhlsULDM3zE",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43158,
+                        54.7857
+                  ]
             },
             {
                   "name": "Északi kapu",
                   "text": "Flensburg jelképe és az egyetlen épen maradt városkapu, amely egykor az északi bejáratot védte.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.43017,
+                        54.79553
+                  ]
             },
             {
                   "name": "Phänomenta",
@@ -1544,19 +1761,31 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJP0Q7M8dCs0cRihdd3kYW51g",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43002,
+                        54.7954
+                  ]
             },
             {
                   "name": "Vörös utca",
                   "text": "A történelmi kereskedőutca festői belső udvarokkal és kis kézműves boltokkal nyűgözi le a látogatókat.",
                   "category": "old town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.43579,
+                        54.7819
+                  ]
             },
             {
                   "name": "Múzeumkikötő",
                   "text": "Történelmi vitorlások és veterán hajók horgonyoznak itt, bemutatva a város tengeri hagyományait.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.43389,
+                        54.7936
+                  ]
             }
       ],
       "ro": [
@@ -1571,13 +1800,21 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJA5u4r71Cs0cRGhlsULDM3zE",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43158,
+                        54.7857
+                  ]
             },
             {
                   "name": "Poarta de Nord",
                   "text": "Simbolul orașului Flensburg și singura poartă medievală rămasă, care păzea accesul spre nord.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.43017,
+                        54.79553
+                  ]
             },
             {
                   "name": "Phänomenta",
@@ -1590,19 +1827,31 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJP0Q7M8dCs0cRihdd3kYW51g",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43002,
+                        54.7954
+                  ]
             },
             {
                   "name": "Strada Roșie",
                   "text": "Această stradă istorică de negustori impresionează prin curțile pitorești și micile ateliere.",
                   "category": "old town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.43579,
+                        54.7819
+                  ]
             },
             {
                   "name": "Portul Muzeu",
                   "text": "Aici sunt ancorate nave cu pânze și bărci istorice care reflectă tradiția maritimă a orașului.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.43389,
+                        54.7936
+                  ]
             }
       ],
       "en": [
@@ -1617,7 +1866,11 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJA5u4r71Cs0cRGhlsULDM3zE",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43158,
+                        54.7857
+                  ]
             },
             {
                   "name": "Nordertor",
@@ -1630,7 +1883,11 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJx69_LsdCs0cRchGfBMDDwLU",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43017,
+                        54.79553
+                  ]
             },
             {
                   "name": "Phänomenta",
@@ -1643,7 +1900,11 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJP0Q7M8dCs0cRihdd3kYW51g",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43002,
+                        54.7954
+                  ]
             },
             {
                   "name": "Rote Straße",
@@ -1656,24 +1917,71 @@ export const poiExtraDe3a: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJTy1SIZhCs0cRnD-5qgKR4Wc",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        9.43579,
+                        54.7819
+                  ]
             },
             {
                   "name": "Museum Harbor",
                   "text": "Home to historic sailing ships and vintage boats showcasing Flensburg's maritime tradition.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.43389,
+                        54.7936
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Müze Tepesi",
+                  "text": "Sanat ve kültür tarihi koleksiyonlarıyla Schleswig-Holstein'ın en büyük müzelerinden biridir.",
+                  "category": "museum",
+                  "coords": [
+                        9.43158,
+                        54.7857
+                  ]
+            },
+            {
+                  "name": "Kuzey Kapısı",
+                  "text": "Flensburg'un simgesi ve eskiden kuzeye girişi sağlayan, günümüze ulaşan tek şehir kapısıdır.",
+                  "category": "city gate",
+                  "coords": [
+                        9.43017,
+                        54.79553
+                  ]
+            },
+            {
+                  "name": "Phänomenta",
+                  "text": "Kuzey Kapısı'nın yanındaki bilim merkezi, her yaştan ziyaretçiyi deneyler yapmaya davet eder.",
+                  "category": "museum",
+                  "coords": [
+                        9.43002,
+                        54.7954
+                  ]
+            },
+            {
+                  "name": "Rote Straße",
+                  "text": "Tarihi tüccarlar caddesi, pitoresk iç avluları ve küçük zanaat dükkanlarıyla etkileyicidir.",
+                  "category": "old town",
+                  "coords": [
+                        9.43579,
+                        54.7819
+                  ]
+            },
+            {
+                  "name": "Müze Limanı",
+                  "text": "Flensburg'un denizcilik geleneğini gösteren tarihi yelkenli gemiler ve klasik tekneler burada yer alır.",
+                  "category": "port",
+                  "coords": [
+                        9.43389,
+                        54.7936
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Müze Tepesi", "text": "Sanat ve kültür tarihi koleksiyonlarıyla Schleswig-Holstein'ın en büyük müzelerinden biridir.", "category": "museum" },
-        { "name": "Kuzey Kapısı", "text": "Flensburg'un simgesi ve eskiden kuzeye girişi sağlayan, günümüze ulaşan tek şehir kapısıdır.", "category": "city gate" },
-        { "name": "Phänomenta", "text": "Kuzey Kapısı'nın yanındaki bilim merkezi, her yaştan ziyaretçiyi deneyler yapmaya davet eder.", "category": "museum" },
-        { "name": "Rote Straße", "text": "Tarihi tüccarlar caddesi, pitoresk iç avluları ve küçük zanaat dükkanlarıyla etkileyicidir.", "category": "old town" },
-        { "name": "Müze Limanı", "text": "Flensburg'un denizcilik geleneğini gösteren tarihi yelkenli gemiler ve klasik tekneler burada yer alır.", "category": "port" }
-      ]
-    }
+}
   },
   {
     id: "landmark-nordertor-flensburg-extra",

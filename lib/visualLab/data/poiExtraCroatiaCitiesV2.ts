@@ -49,7 +49,1368 @@ imageHint: "Zadar sea organ and sun salutation",
     },
     image: "/poi-images/croatia-zadar-cities-v2.webp",
 },  {
-    id: "croatia-osijek-cities-v2",
+    id: "croatia-osijek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mursa",
+                  "text": "Die Überreste der antiken römischen Kolonie Mursa befinden sich im heutigen Osijek.",
+                  "category": "historical",
+                  "coords": [
+                        18.713807,
+                        45.556847
+                  ]
+            },
+            {
+                  "name": "Arheološki muzej Osijek",
+                  "text": "Das Museum in der Festung Tvrđa zeigt bedeutende archäologische Funde aus der Region Slawonien.",
+                  "category": "museum",
+                  "coords": [
+                        18.695199,
+                        45.560854
+                  ]
+            },
+            {
+                  "name": "Muzej likovnih umjetnosti",
+                  "text": "Das Museum präsentiert eine reiche Sammlung von Gemälden und Skulpturen aus dem 18. bis 20. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        18.683812,
+                        45.560525
+                  ]
+            },
+            {
+                  "name": "Koncertna dvorana Franjo Krežma",
+                  "text": "Die moderne Konzerthalle in Osijek wurde nach dem berühmten kroatischen Geiger Franjo Krežma benannt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.695114,
+                        45.555755
+                  ]
+            },
+            {
+                  "name": "Dvorac Mačkamama",
+                  "text": "Das auch als Mačkamama bekannte Gebäude wurde Anfang des 20. Jahrhunderts von Pauline Hermann erbaut.",
+                  "category": "castle",
+                  "coords": [
+                        18.67938,
+                        45.545873
+                  ]
+            },
+            {
+                  "name": "Palača Normann",
+                  "text": "Der im Neorenaissance-Stil errichtete Palast dient heute als Sitz der Gespanschaftsverwaltung.",
+                  "category": "castle",
+                  "coords": [
+                        18.677204,
+                        45.560979
+                  ]
+            },
+            {
+                  "name": "Županijska palača",
+                  "text": "Das klassizistische Gebäude am Hauptplatz von Osijek ist der historische Sitz der Gespanschaft.",
+                  "category": "castle",
+                  "coords": [
+                        18.675881,
+                        45.559669
+                  ]
+            },
+            {
+                  "name": "Dvorac Pejačević",
+                  "text": "Das spätbarocke Schloss der Adelsfamilie Pejačević befindet sich im Stadtteil Retfala.",
+                  "category": "castle",
+                  "coords": [
+                        18.660101,
+                        45.562964
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Osijek",
+                  "text": "Der Zoo von Osijek ist flächenmäßig der größte zoologische Garten in Kroatien.",
+                  "category": "recreational",
+                  "coords": [
+                        18.665288,
+                        45.570061
+                  ]
+            },
+            {
+                  "name": "Dječje kazalište Branka Mihaljevića",
+                  "text": "Das Theater in Osijek ist auf Aufführungen für Kinder und Puppentheater spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        18.720574,
+                        45.555263
+                  ]
+            },
+            {
+                  "name": "Muzej školjaka i vodenog svijeta Osijek",
+                  "text": "Dieses Museum zeigt eine beeindruckende Sammlung von Muscheln und Fossilien aus der Drau sowie aus den Meeren der ganzen Welt.",
+                  "category": "museum",
+                  "coords": [
+                        18.697872,
+                        45.561125
+                  ]
+            },
+            {
+                  "name": "Gradski bazeni",
+                  "text": "Die städtischen Schwimmbäder von Osijek bieten mehrere Innen- und Außenbecken für Sport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        18.695388,
+                        45.548217
+                  ]
+            },
+            {
+                  "name": "Želja",
+                  "text": "Želja ist ein lokaler Flussstrand an der Drau, der von den Bewohnern von Osijek gerne zum Entspannen besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        18.706412,
+                        45.561157
+                  ]
+            },
+            {
+                  "name": "Kopika",
+                  "text": "Kopika ist das bekannteste Freibad und der beliebteste Flussstrand in Osijek am linken Ufer der Drau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.693552,
+                        45.565146
+                  ]
+            },
+            {
+                  "name": "Perivoj kralja Tomislava",
+                  "text": "Der König-Tomislav-Park ist eine der größten Grünanlagen in Osijek und verbindet die Oberstadt mit der Festung Tvrđa.",
+                  "category": "park",
+                  "coords": [
+                        18.689719,
+                        45.561002
+                  ]
+            },
+            {
+                  "name": "Galerija Kazamat",
+                  "text": "Diese Kunstgalerie befindet sich in den historischen Räumen der Festung Tvrđa und zeigt zeitgenössische Werke.",
+                  "category": "museum",
+                  "coords": [
+                        18.69818,
+                        45.560132
+                  ]
+            },
+            {
+                  "name": "Galerija Knifer",
+                  "text": "Die Galerie ist dem Werk von Julije Knifer gewidmet, einem der bedeutendsten kroatischen Maler des 20. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        18.693744,
+                        45.555705
+                  ]
+            },
+            {
+                  "name": "Zgrada Solarskog ureda",
+                  "text": "Das ehemalige Salzamt in der Festung Tvrđa ist ein bedeutendes Barockgebäude, das einst der Salzverwaltung diente.",
+                  "category": "historical",
+                  "coords": [
+                        18.669735,
+                        45.565205
+                  ]
+            },
+            {
+                  "name": "Kronenwerk",
+                  "text": "Die Kronenfestung am linken Drauufer wurde im 18. Jahrhundert als Teil des Verteidigungssystems von Osijek errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        18.701987,
+                        45.563408
+                  ]
+            },
+            {
+                  "name": "Secesijski zdenac",
+                  "text": "Ein markantes Denkmal im Sezessionsstil in Osijek, das für seine dekorative Gestaltung bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        18.683975,
+                        45.562125
+                  ]
+            },
+            {
+                  "name": "Eugenijev bastion",
+                  "text": "Ein historischer Teil der Festung von Osijek, benannt nach Prinz Eugen von Savoyen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.696869,
+                        45.562577
+                  ]
+            },
+            {
+                  "name": "Vila Mimi",
+                  "text": "Ein elegantes historisches Herrenhaus in Osijek, das die Architektur des frühen 20. Jahrhunderts repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        18.683461,
+                        45.555045
+                  ]
+            },
+            {
+                  "name": "Filibejeva utvrda",
+                  "text": "Die Überreste einer historischen Befestigung in Osijek, die von der militärischen Vergangenheit der Stadt zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        18.692487,
+                        45.559946
+                  ]
+            },
+            {
+                  "name": "Evangelička crkva",
+                  "text": "Diese evangelische Kirche in Osijek wurde Anfang des 20. Jahrhunderts im neugotischen Stil erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        18.681018,
+                        45.559796
+                  ]
+            },
+            {
+                  "name": "Crkva uspenja presvete Bogorodice",
+                  "text": "Eine serbisch-orthodoxe Kirche in Osijek, die der Entschlafung der Gottesmutter gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.718577,
+                        45.55931
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Roka",
+                  "text": "Eine kleine historische Kapelle in Osijek, die dem heiligen Rochus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.716444,
+                        45.558901
+                  ]
+            },
+            {
+                  "name": "Most dr. Franje Tuđmana",
+                  "text": "Eine Schrägseilbrücke über die Drava in Osijek, benannt nach dem ersten kroatischen Präsidenten.",
+                  "category": "landmark",
+                  "coords": [
+                        18.701166,
+                        45.562004
+                  ]
+            },
+            {
+                  "name": "Pješački most",
+                  "text": "Die markante Hängebrücke für Fußgänger überquert die Drau und ist ein Wahrzeichen von Osijek.",
+                  "category": "landmark",
+                  "coords": [
+                        18.685314,
+                        45.563504
+                  ]
+            },
+            {
+                  "name": "konkatedrala svetog Petra i Pavla",
+                  "text": "Die neugotische Konkathedrale ist mit ihrem 90 Meter hohen Turm das höchste Gebäude in Osijek.",
+                  "category": "religious",
+                  "coords": [
+                        18.675575,
+                        45.560816
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Mihaela arkanđela",
+                  "text": "Die barocke Jesuitenkirche befindet sich im historischen Stadtteil Tvrđa von Osijek.",
+                  "category": "religious",
+                  "coords": [
+                        18.693865,
+                        45.561037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mursa",
+                  "text": "Az ókori római Mursa colonia maradványai a mai Eszék területén találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        18.713807,
+                        45.556847
+                  ]
+            },
+            {
+                  "name": "Arheološki muzej Osijek",
+                  "text": "A várnegyedben (Tvrđa) található múzeum Szlavónia jelentős régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.695199,
+                        45.560854
+                  ]
+            },
+            {
+                  "name": "Muzej likovnih umjetnosti",
+                  "text": "A múzeum a 18–20. századi festmények és szobrok gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.683812,
+                        45.560525
+                  ]
+            },
+            {
+                  "name": "Koncertna dvorana Franjo Krežma",
+                  "text": "Az eszéki modern koncerttermet a híres horvát hegedűművészről, Franjo Krežmáról nevezték el.",
+                  "category": "cultural",
+                  "coords": [
+                        18.695114,
+                        45.555755
+                  ]
+            },
+            {
+                  "name": "Dvorac Mačkamama",
+                  "text": "A Mačkamama néven ismert épületet Pauline Hermann építtette a 20. század elején.",
+                  "category": "castle",
+                  "coords": [
+                        18.67938,
+                        45.545873
+                  ]
+            },
+            {
+                  "name": "Palača Normann",
+                  "text": "A neoreneszánsz stílusú palota ma a megyei önkormányzat székhelyeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        18.677204,
+                        45.560979
+                  ]
+            },
+            {
+                  "name": "Županijska palača",
+                  "text": "Az eszéki főtéren álló klasszicista épület a megye történelmi székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        18.675881,
+                        45.559669
+                  ]
+            },
+            {
+                  "name": "Dvorac Pejačević",
+                  "text": "A nemesi Pejačević család késő barokk kastélya Retfala városrészben található.",
+                  "category": "castle",
+                  "coords": [
+                        18.660101,
+                        45.562964
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Osijek",
+                  "text": "Az eszéki állatkert területét tekintve a legnagyobb állatkert Horvátországban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.665288,
+                        45.570061
+                  ]
+            },
+            {
+                  "name": "Dječje kazalište Branka Mihaljevića",
+                  "text": "Az eszéki színház gyermekelőadásokra és bábszínházi produkciókra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        18.720574,
+                        45.555263
+                  ]
+            },
+            {
+                  "name": "Muzej školjaka i vodenog svijeta Osijek",
+                  "text": "Ez a múzeum a Dráva folyó és a világ tengereinek kagylóit, csigáit és különleges vízi világát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.697872,
+                        45.561125
+                  ]
+            },
+            {
+                  "name": "Gradski bazeni",
+                  "text": "Eszék városi uszodakomplexuma több beltéri és kültéri medencével várja a sportolni és kikapcsolódni vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.695388,
+                        45.548217
+                  ]
+            },
+            {
+                  "name": "Želja",
+                  "text": "A Želja egy népszerű helyi folyóparti strand a Dráva mentén, ahol az eszékiek szívesen pihennek.",
+                  "category": "recreational",
+                  "coords": [
+                        18.706412,
+                        45.561157
+                  ]
+            },
+            {
+                  "name": "Kopika",
+                  "text": "A Kopika Eszék legismertebb strandja és rekreációs központja a Dráva folyó bal partján.",
+                  "category": "recreational",
+                  "coords": [
+                        18.693552,
+                        45.565146
+                  ]
+            },
+            {
+                  "name": "Perivoj kralja Tomislava",
+                  "text": "A Tomiszláv király park Eszék egyik legnagyobb parkja, amely összeköti a felsővárost a várnegyeddel.",
+                  "category": "park",
+                  "coords": [
+                        18.689719,
+                        45.561002
+                  ]
+            },
+            {
+                  "name": "Galerija Kazamat",
+                  "text": "A Kazamat galéria a várnegyed történelmi falai között kapott helyet, és kortárs művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        18.69818,
+                        45.560132
+                  ]
+            },
+            {
+                  "name": "Galerija Knifer",
+                  "text": "A galéria Julije Knifer, a 20. század egyik legjelentősebb horvát festőművészének munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.693744,
+                        45.555705
+                  ]
+            },
+            {
+                  "name": "Zgrada Solarskog ureda",
+                  "text": "Az egykori Sópénztár épülete a várnegyed egyik jelentős barokk építménye, amely korábban a sóigazgatás központja volt.",
+                  "category": "historical",
+                  "coords": [
+                        18.669735,
+                        45.565205
+                  ]
+            },
+            {
+                  "name": "Krunska utvrda",
+                  "text": "A Dráva bal partján található Krunska utvrda a 18. században épült Eszék védelmi rendszerének részeként.",
+                  "category": "historical",
+                  "coords": [
+                        18.701987,
+                        45.563408
+                  ]
+            },
+            {
+                  "name": "Secesijski zdenac",
+                  "text": "Jellegzetes szecessziós stílusú emlékmű Eszéken, amely dekoratív kialakításáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        18.683975,
+                        45.562125
+                  ]
+            },
+            {
+                  "name": "Eugenijev bastion",
+                  "text": "Az eszéki vár egyik történelmi bástyája, amely Savoyai Jenő hercegről kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        18.696869,
+                        45.562577
+                  ]
+            },
+            {
+                  "name": "Vila Mimi",
+                  "text": "Elegáns történelmi udvarház Eszéken, amely a 20. század eleji építészetet képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        18.683461,
+                        45.555045
+                  ]
+            },
+            {
+                  "name": "Filibejeva utvrda",
+                  "text": "Egy történelmi erődítmény maradványai Eszéken, amelyek a város katonai múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        18.692487,
+                        45.559946
+                  ]
+            },
+            {
+                  "name": "Evangelička crkva",
+                  "text": "Ez az eszéki evangélikus templom a 20. század elején épült neogótikus stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        18.681018,
+                        45.559796
+                  ]
+            },
+            {
+                  "name": "Crkva uspenja presvete Bogorodice",
+                  "text": "Szerb ortodox templom Eszéken, amelyet az Istenanya elszenderedésének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        18.718577,
+                        45.55931
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Roka",
+                  "text": "Kis történelmi kápolna Eszéken, amelyet Szent Rókusnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        18.716444,
+                        45.558901
+                  ]
+            },
+            {
+                  "name": "Most dr. Franje Tuđmana",
+                  "text": "Egy ferdekábeles híd a Dráva felett Eszéken, amelyet az első horvát elnökről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        18.701166,
+                        45.562004
+                  ]
+            },
+            {
+                  "name": "Pješački most",
+                  "text": "Az eszéki Dráva-partot összekötő jellegzetes gyalogoshíd a város egyik modern jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        18.685314,
+                        45.563504
+                  ]
+            },
+            {
+                  "name": "konkatedrala svetog Petra i Pavla",
+                  "text": "A 90 méter magas toronnyal rendelkező neogótikus társszékesegyház Eszék legmagasabb épülete.",
+                  "category": "religious",
+                  "coords": [
+                        18.675575,
+                        45.560816
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Mihaela arkanđela",
+                  "text": "Ez a barokk jezsuita templom Eszék történelmi óvárosában, a Várban (Tvrđa) található.",
+                  "category": "religious",
+                  "coords": [
+                        18.693865,
+                        45.561037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mursa",
+                  "text": "Rămășițele fostei colonii romane Mursa sunt situate pe teritoriul actual al orașului Osijek.",
+                  "category": "historical",
+                  "coords": [
+                        18.713807,
+                        45.556847
+                  ]
+            },
+            {
+                  "name": "Arheološki muzej Osijek",
+                  "text": "Muzeul situat în cetatea Tvrđa expune descoperiri arheologice importante din regiunea Slavonia.",
+                  "category": "museum",
+                  "coords": [
+                        18.695199,
+                        45.560854
+                  ]
+            },
+            {
+                  "name": "Muzej likovnih umjetnosti",
+                  "text": "Muzeul prezintă o colecție bogată de picturi și sculpturi din secolele XVIII-XX.",
+                  "category": "museum",
+                  "coords": [
+                        18.683812,
+                        45.560525
+                  ]
+            },
+            {
+                  "name": "Koncertna dvorana Franjo Krežma",
+                  "text": "Sala modernă de concerte din Osijek poartă numele celebrului violonist croat Franjo Krežma.",
+                  "category": "cultural",
+                  "coords": [
+                        18.695114,
+                        45.555755
+                  ]
+            },
+            {
+                  "name": "Dvorac Mačkamama",
+                  "text": "Clădirea cunoscută sub numele de Mačkamama a fost construită de Pauline Hermann la începutul secolului al XX-lea.",
+                  "category": "castle",
+                  "coords": [
+                        18.67938,
+                        45.545873
+                  ]
+            },
+            {
+                  "name": "Palača Normann",
+                  "text": "Palatul construit în stil neorenascentist servește astăzi ca sediu al administrației județene.",
+                  "category": "castle",
+                  "coords": [
+                        18.677204,
+                        45.560979
+                  ]
+            },
+            {
+                  "name": "Županijska palača",
+                  "text": "Clădirea clasicistă din piața centrală a orașului Osijek este sediul istoric al județului.",
+                  "category": "castle",
+                  "coords": [
+                        18.675881,
+                        45.559669
+                  ]
+            },
+            {
+                  "name": "Dvorac Pejačević",
+                  "text": "Castelul baroc târziu al familiei nobiliare Pejačević este situat în cartierul Retfala.",
+                  "category": "castle",
+                  "coords": [
+                        18.660101,
+                        45.562964
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Osijek",
+                  "text": "Grădina zoologică din Osijek este, ca suprafață, cea mai mare din Croația.",
+                  "category": "recreational",
+                  "coords": [
+                        18.665288,
+                        45.570061
+                  ]
+            },
+            {
+                  "name": "Dječje kazalište Branka Mihaljevića",
+                  "text": "Teatrul din Osijek este specializat în spectacole pentru copii și teatru de păpuși.",
+                  "category": "cultural",
+                  "coords": [
+                        18.720574,
+                        45.555263
+                  ]
+            },
+            {
+                  "name": "Muzej školjaka i vodenog svijeta Osijek",
+                  "text": "Acest muzeu prezintă o colecție impresionantă de scoici și fosile din râul Drava și din mări din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        18.697872,
+                        45.561125
+                  ]
+            },
+            {
+                  "name": "Gradski bazeni",
+                  "text": "Piscinele municipale din Osijek oferă bazine interioare și exterioare moderne pentru sport și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.695388,
+                        45.548217
+                  ]
+            },
+            {
+                  "name": "Želja",
+                  "text": "Želja este o plajă fluvială locală pe malul Dravei, frecventată de locuitorii din Osijek pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.706412,
+                        45.561157
+                  ]
+            },
+            {
+                  "name": "Kopika",
+                  "text": "Kopika este cea mai celebră plajă fluvială și centru de recreere din Osijek, situată pe malul stâng al Dravei.",
+                  "category": "recreational",
+                  "coords": [
+                        18.693552,
+                        45.565146
+                  ]
+            },
+            {
+                  "name": "Perivoj kralja Tomislava",
+                  "text": "Parcul Regele Tomislav este una dintre cele mai mari zone verzi din Osijek, legând Orașul de Sus de cetatea Tvrđa.",
+                  "category": "park",
+                  "coords": [
+                        18.689719,
+                        45.561002
+                  ]
+            },
+            {
+                  "name": "Galerija Kazamat",
+                  "text": "Această galerie de artă este situată în spațiile istorice ale cetății Tvrđa și găzduiește expoziții contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        18.69818,
+                        45.560132
+                  ]
+            },
+            {
+                  "name": "Galerija Knifer",
+                  "text": "Această galerie este dedicată operei lui Julije Knifer, unul dintre cei mai importanți pictori croați ai secolului XX.",
+                  "category": "museum",
+                  "coords": [
+                        18.693744,
+                        45.555705
+                  ]
+            },
+            {
+                  "name": "Zgrada Solarskog ureda",
+                  "text": "Clădirea fostului Oficiu al Sării din cetatea Tvrđa este o construcție barocă importantă, folosită în trecut pentru administrare.",
+                  "category": "historical",
+                  "coords": [
+                        18.669735,
+                        45.565205
+                  ]
+            },
+            {
+                  "name": "Krunska utvrda",
+                  "text": "Fortificația Coroana, situată pe malul stâng al Dravei, a fost construită în secolul al XVIII-lea ca parte a sistemului de apărare.",
+                  "category": "historical",
+                  "coords": [
+                        18.701987,
+                        45.563408
+                  ]
+            },
+            {
+                  "name": "Secesijski zdenac",
+                  "text": "Un monument distinctiv în stil Secession în Osijek, cunoscut pentru designul său decorativ.",
+                  "category": "historical",
+                  "coords": [
+                        18.683975,
+                        45.562125
+                  ]
+            },
+            {
+                  "name": "Eugenijev bastion",
+                  "text": "O parte istorică a cetății din Osijek, numită după prințul Eugen de Savoia.",
+                  "category": "landmark",
+                  "coords": [
+                        18.696869,
+                        45.562577
+                  ]
+            },
+            {
+                  "name": "Vila Mimi",
+                  "text": "Un conac istoric elegant în Osijek, reprezentând arhitectura de la începutul secolului al XX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        18.683461,
+                        45.555045
+                  ]
+            },
+            {
+                  "name": "Filibejeva utvrda",
+                  "text": "Ruinele unei fortificații istorice din Osijek, care stau mărturie pentru trecutul militar al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        18.692487,
+                        45.559946
+                  ]
+            },
+            {
+                  "name": "Evangelička crkva",
+                  "text": "Această biserică evanghelică din Osijek a fost construită la începutul secolului al XX-lea în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        18.681018,
+                        45.559796
+                  ]
+            },
+            {
+                  "name": "Crkva uspenja presvete Bogorodice",
+                  "text": "O biserică ortodoxă sârbă din Osijek, dedicată Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        18.718577,
+                        45.55931
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Roka",
+                  "text": "O mică capelă istorică în Osijek, dedicată Sfântului Rochus.",
+                  "category": "religious",
+                  "coords": [
+                        18.716444,
+                        45.558901
+                  ]
+            },
+            {
+                  "name": "Most dr. Franje Tuđmana",
+                  "text": "Un pod hobanat peste râul Drava în Osijek, numit după primul președinte croat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.701166,
+                        45.562004
+                  ]
+            },
+            {
+                  "name": "Pješački most",
+                  "text": "Acest pod pietonal suspendat peste râul Drava este un simbol modern al orașului Osijek.",
+                  "category": "landmark",
+                  "coords": [
+                        18.685314,
+                        45.563504
+                  ]
+            },
+            {
+                  "name": "konkatedrala svetog Petra i Pavla",
+                  "text": "Această concatedrală neogotică, cu un turn de 90 de metri, este cea mai înaltă clădire din Osijek.",
+                  "category": "religious",
+                  "coords": [
+                        18.675575,
+                        45.560816
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Mihaela arkanđela",
+                  "text": "Această biserică barocă jezuită este situată în cartierul istoric Tvrđa din Osijek.",
+                  "category": "religious",
+                  "coords": [
+                        18.693865,
+                        45.561037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mursa",
+                  "text": "The remains of the ancient Roman colony of Mursa are located within the modern city of Osijek.",
+                  "category": "historical",
+                  "coords": [
+                        18.713807,
+                        45.556847
+                  ]
+            },
+            {
+                  "name": "Arheološki muzej Osijek",
+                  "text": "Located in the Tvrđa fortress, this museum displays significant archaeological finds from the Slavonia region.",
+                  "category": "museum",
+                  "coords": [
+                        18.695199,
+                        45.560854
+                  ]
+            },
+            {
+                  "name": "Muzej likovnih umjetnosti",
+                  "text": "The museum showcases a rich collection of paintings and sculptures from the 18th to the 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        18.683812,
+                        45.560525
+                  ]
+            },
+            {
+                  "name": "Koncertna dvorana Franjo Krežma",
+                  "text": "This modern concert hall in Osijek is named after the famous Croatian violinist Franjo Krežma.",
+                  "category": "cultural",
+                  "coords": [
+                        18.695114,
+                        45.555755
+                  ]
+            },
+            {
+                  "name": "Dvorac Mačkamama",
+                  "text": "Known as Mačkamama, this building was built by Pauline Hermann in the early 20th century.",
+                  "category": "castle",
+                  "coords": [
+                        18.67938,
+                        45.545873
+                  ]
+            },
+            {
+                  "name": "Palača Normann",
+                  "text": "This Neo-Renaissance palace currently serves as the seat of the county administration.",
+                  "category": "castle",
+                  "coords": [
+                        18.677204,
+                        45.560979
+                  ]
+            },
+            {
+                  "name": "Županijska palača",
+                  "text": "This Classicist building on Osijek's main square is the historical seat of the county.",
+                  "category": "castle",
+                  "coords": [
+                        18.675881,
+                        45.559669
+                  ]
+            },
+            {
+                  "name": "Dvorac Pejačević",
+                  "text": "This late Baroque castle of the noble Pejačević family is located in the Retfala district.",
+                  "category": "castle",
+                  "coords": [
+                        18.660101,
+                        45.562964
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Osijek",
+                  "text": "Osijek Zoo is the largest zoological garden in Croatia by land area.",
+                  "category": "recreational",
+                  "coords": [
+                        18.665288,
+                        45.570061
+                  ]
+            },
+            {
+                  "name": "Dječje kazalište Branka Mihaljevića",
+                  "text": "This theater in Osijek specializes in children's performances and puppet shows.",
+                  "category": "cultural",
+                  "coords": [
+                        18.720574,
+                        45.555263
+                  ]
+            },
+            {
+                  "name": "Muzej školjaka i vodenog svijeta Osijek",
+                  "text": "This museum showcases an extensive collection of shells and fossils from the Drava River and oceans around the world.",
+                  "category": "museum",
+                  "coords": [
+                        18.697872,
+                        45.561125
+                  ]
+            },
+            {
+                  "name": "Gradski bazeni",
+                  "text": "Osijek's municipal swimming pool complex features several indoor and outdoor pools for sport and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.695388,
+                        45.548217
+                  ]
+            },
+            {
+                  "name": "Želja",
+                  "text": "Želja is a local river beach on the Drava, popular among Osijek residents for relaxation during the summer.",
+                  "category": "recreational",
+                  "coords": [
+                        18.706412,
+                        45.561157
+                  ]
+            },
+            {
+                  "name": "Kopika",
+                  "text": "Kopika is Osijek's most famous river beach and outdoor pool complex, located on the left bank of the Drava.",
+                  "category": "recreational",
+                  "coords": [
+                        18.693552,
+                        45.565146
+                  ]
+            },
+            {
+                  "name": "Perivoj kralja Tomislava",
+                  "text": "King Tomislav Park is one of the largest green spaces in Osijek, connecting the Upper Town with the Tvrđa fortress.",
+                  "category": "park",
+                  "coords": [
+                        18.689719,
+                        45.561002
+                  ]
+            },
+            {
+                  "name": "Galerija Kazamat",
+                  "text": "Located within the historic walls of the Tvrđa fortress, Kazamat Gallery hosts various contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        18.69818,
+                        45.560132
+                  ]
+            },
+            {
+                  "name": "Knifer Gallery",
+                  "text": "This gallery is dedicated to the work of Julije Knifer, one of the most prominent Croatian painters of the 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        18.693744,
+                        45.555705
+                  ]
+            },
+            {
+                  "name": "Zgrada Solarskog ureda",
+                  "text": "The former Salt Office in the Tvrđa fortress is a significant Baroque building once used for salt administration.",
+                  "category": "historical",
+                  "coords": [
+                        18.669735,
+                        45.565205
+                  ]
+            },
+            {
+                  "name": "Krunska utvrda",
+                  "text": "The Crown Fort on the left bank of the Drava was built in the 18th century as part of Osijek's defense system.",
+                  "category": "historical",
+                  "coords": [
+                        18.701987,
+                        45.563408
+                  ]
+            },
+            {
+                  "name": "Secesijski zdenac",
+                  "text": "A distinctive Secession-style monument in Osijek, known for its decorative design.",
+                  "category": "historical",
+                  "coords": [
+                        18.683975,
+                        45.562125
+                  ]
+            },
+            {
+                  "name": "Eugenijev bastion",
+                  "text": "A historical part of the Osijek fortress, named after Prince Eugene of Savoy.",
+                  "category": "landmark",
+                  "coords": [
+                        18.696869,
+                        45.562577
+                  ]
+            },
+            {
+                  "name": "Vila Mimi",
+                  "text": "An elegant historical manor in Osijek, representing early 20th-century architecture.",
+                  "category": "historical",
+                  "coords": [
+                        18.683461,
+                        45.555045
+                  ]
+            },
+            {
+                  "name": "Filibejeva utvrda",
+                  "text": "The remains of a historical fortification in Osijek, witnessing the city's military past.",
+                  "category": "historical",
+                  "coords": [
+                        18.692487,
+                        45.559946
+                  ]
+            },
+            {
+                  "name": "Evangelička crkva",
+                  "text": "This Evangelical church in Osijek was built in the early 20th century in Neo-Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        18.681018,
+                        45.559796
+                  ]
+            },
+            {
+                  "name": "Crkva uspenja presvete Bogorodice",
+                  "text": "A Serbian Orthodox church in Osijek dedicated to the Dormition of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        18.718577,
+                        45.55931
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Roka",
+                  "text": "A small historical chapel in Osijek dedicated to Saint Roch.",
+                  "category": "religious",
+                  "coords": [
+                        18.716444,
+                        45.558901
+                  ]
+            },
+            {
+                  "name": "Most dr. Franje Tuđmana",
+                  "text": "A cable-stayed bridge over the Drava river in Osijek, named after the first Croatian president.",
+                  "category": "landmark",
+                  "coords": [
+                        18.701166,
+                        45.562004
+                  ]
+            },
+            {
+                  "name": "Pješački most",
+                  "text": "This iconic pedestrian suspension bridge crosses the Drava river and is a symbol of Osijek.",
+                  "category": "landmark",
+                  "coords": [
+                        18.685314,
+                        45.563504
+                  ]
+            },
+            {
+                  "name": "konkatedrala svetog Petra i Pavla",
+                  "text": "This Neo-Gothic co-cathedral features a 90-meter tower and is the tallest building in Osijek.",
+                  "category": "religious",
+                  "coords": [
+                        18.675575,
+                        45.560816
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "This Baroque Jesuit church is located in the historic Tvrđa district of Osijek.",
+                  "category": "religious",
+                  "coords": [
+                        18.693865,
+                        45.561037
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Mursa",
+                  "text": "Ostatci antičke rimske kolonije Murse nalaze se na području današnjeg Osijeka.",
+                  "category": "historical",
+                  "coords": [
+                        18.713807,
+                        45.556847
+                  ]
+            },
+            {
+                  "name": "Arheološki muzej Osijek",
+                  "text": "Smješten u Tvrđi, ovaj muzej čuva i izlaže značajne arheološke nalaze iz regije Slavonije.",
+                  "category": "museum",
+                  "coords": [
+                        18.695199,
+                        45.560854
+                  ]
+            },
+            {
+                  "name": "Muzej likovnih umjetnosti",
+                  "text": "Muzej čuva i prezentira bogatu zbirku slika i skulptura od 18. do 20. stoljeća.",
+                  "category": "museum",
+                  "coords": [
+                        18.683812,
+                        45.560525
+                  ]
+            },
+            {
+                  "name": "Koncertna dvorana Franjo Krežma",
+                  "text": "Moderna koncertna dvorana u Osijeku nosi ime po slavnom hrvatskom violinistu Franji Krežmi.",
+                  "category": "cultural",
+                  "coords": [
+                        18.695114,
+                        45.555755
+                  ]
+            },
+            {
+                  "name": "Dvorac Mačkamama",
+                  "text": "Zdanje poznato kao Mačkamama sagradila je Pauline Hermann početkom 20. stoljeća.",
+                  "category": "castle",
+                  "coords": [
+                        18.67938,
+                        45.545873
+                  ]
+            },
+            {
+                  "name": "Palača Normann",
+                  "text": "Palača građena u neorenesansnom stilu danas služi kao sjedište županijske uprave.",
+                  "category": "castle",
+                  "coords": [
+                        18.677204,
+                        45.560979
+                  ]
+            },
+            {
+                  "name": "Županijska palača",
+                  "text": "Klasicistička zgrada na glavnom osječkom trgu povijesno je sjedište županije.",
+                  "category": "castle",
+                  "coords": [
+                        18.675881,
+                        45.559669
+                  ]
+            },
+            {
+                  "name": "Dvorac Pejačević",
+                  "text": "Kasnobarokni dvorac plemićke obitelji Pejačević nalazi se u gradskoj četvrti Retfala.",
+                  "category": "castle",
+                  "coords": [
+                        18.660101,
+                        45.562964
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Osijek",
+                  "text": "Zoološki vrt u Osijeku površinom je najveći zoološki vrt u Hrvatskoj.",
+                  "category": "recreational",
+                  "coords": [
+                        18.665288,
+                        45.570061
+                  ]
+            },
+            {
+                  "name": "Dječje kazalište Branka Mihaljevića",
+                  "text": "Dječje kazalište u Osijeku specijalizirano je za predstave za djecu i lutkarsku umjetnost.",
+                  "category": "cultural",
+                  "coords": [
+                        18.720574,
+                        45.555263
+                  ]
+            },
+            {
+                  "name": "Muzej školjaka i vodenog svijeta Osijek",
+                  "text": "Ovaj muzej izlaže bogatu zbirku školjaka i fosila iz rijeke Drave te iz mora i oceana cijeloga svijeta.",
+                  "category": "museum",
+                  "coords": [
+                        18.697872,
+                        45.561125
+                  ]
+            },
+            {
+                  "name": "Gradski bazeni",
+                  "text": "Gradski bazeni u Osijeku nude nekoliko unutarnjih i vanjskih bazena za sport, rekreaciju i opuštanje.",
+                  "category": "recreational",
+                  "coords": [
+                        18.695388,
+                        45.548217
+                  ]
+            },
+            {
+                  "name": "Želja",
+                  "text": "Želja je lokalna riječna plaža na Dravi, omiljeno mjesto Osječana za odmor i opuštanje tijekom ljeta.",
+                  "category": "recreational",
+                  "coords": [
+                        18.706412,
+                        45.561157
+                  ]
+            },
+            {
+                  "name": "Kopika",
+                  "text": "Kopika je najpoznatije osječko kupalište i rekreacijski centar smješten na lijevoj obali Drave.",
+                  "category": "recreational",
+                  "coords": [
+                        18.693552,
+                        45.565146
+                  ]
+            },
+            {
+                  "name": "Perivoj kralja Tomislava",
+                  "text": "Perivoj kralja Tomislava jedan je od najvećih osječkih parkova koji povezuje Gornji grad s Tvrđom.",
+                  "category": "park",
+                  "coords": [
+                        18.689719,
+                        45.561002
+                  ]
+            },
+            {
+                  "name": "Galerija Kazamat",
+                  "text": "Galerija Kazamat smještena je u povijesnim prostorima Tvrđe i služi kao mjesto za izložbe suvremene umjetnosti.",
+                  "category": "museum",
+                  "coords": [
+                        18.69818,
+                        45.560132
+                  ]
+            },
+            {
+                  "name": "Knifer Gallery",
+                  "text": "Galerija je posvećena radu Julija Knifera, jednog od najznačajnijih hrvatskih slikara 20. stoljeća.",
+                  "category": "museum",
+                  "coords": [
+                        18.693744,
+                        45.555705
+                  ]
+            },
+            {
+                  "name": "Zgrada Solarskog ureda",
+                  "text": "Zgrada Solarskog ureda u Tvrđi značajno je barokno zdanje koje je nekada služilo za upravljanje trgovinom soli.",
+                  "category": "historical",
+                  "coords": [
+                        18.669735,
+                        45.565205
+                  ]
+            },
+            {
+                  "name": "Krunska utvrda",
+                  "text": "Krunska utvrda na lijevoj obali Drave izgrađena je u 18. stoljeću kao dio obrambenog sustava osječke Tvrđe.",
+                  "category": "historical",
+                  "coords": [
+                        18.701987,
+                        45.563408
+                  ]
+            },
+            {
+                  "name": "Secesijski zdenac",
+                  "text": "Prepoznatljiv secesijski zdenac u Osijeku, poznat po svom dekorativnom dizajnu.",
+                  "category": "historical",
+                  "coords": [
+                        18.683975,
+                        45.562125
+                  ]
+            },
+            {
+                  "name": "Eugenijev bastion",
+                  "text": "Povijesni dio osječke Tvrđe, nazvan po princu Eugenu Savojskom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.696869,
+                        45.562577
+                  ]
+            },
+            {
+                  "name": "Vila Mimi",
+                  "text": "Elegantna povijesna vila u Osijeku koja predstavlja arhitekturu s početka 20. stoljeća.",
+                  "category": "historical",
+                  "coords": [
+                        18.683461,
+                        45.555045
+                  ]
+            },
+            {
+                  "name": "Filibejeva utvrda",
+                  "text": "Ostaci povijesne utvrde u Osijeku koji svjedoče o vojnoj prošlosti grada.",
+                  "category": "historical",
+                  "coords": [
+                        18.692487,
+                        45.559946
+                  ]
+            },
+            {
+                  "name": "Evangelička crkva",
+                  "text": "Ova evangelička crkva u Osijeku izgrađena je početkom 20. stoljeća u neogotičkom stilu.",
+                  "category": "religious",
+                  "coords": [
+                        18.681018,
+                        45.559796
+                  ]
+            },
+            {
+                  "name": "Crkva uspenja presvete Bogorodice",
+                  "text": "Srpska pravoslavna crkva u Osijeku posvećena Uspenju Presvete Bogorodice.",
+                  "category": "religious",
+                  "coords": [
+                        18.718577,
+                        45.55931
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Roka",
+                  "text": "Mala povijesna kapela u Osijeku posvećena svetom Roku.",
+                  "category": "religious",
+                  "coords": [
+                        18.716444,
+                        45.558901
+                  ]
+            },
+            {
+                  "name": "Most dr. Franje Tuđmana",
+                  "text": "Prepoznatljivi most preko Drave u Osijeku, nazvan po prvom hrvatskom predsjedniku.",
+                  "category": "landmark",
+                  "coords": [
+                        18.701166,
+                        45.562004
+                  ]
+            },
+            {
+                  "name": "Pješački most",
+                  "text": "Ovaj prepoznatljivi pješački most preko Drave jedan je od najpoznatijih simbola Osijeka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.685314,
+                        45.563504
+                  ]
+            },
+            {
+                  "name": "konkatedrala svetog Petra i Pavla",
+                  "text": "Ova neogotička konkatedrala s tornjem od 90 metara najviša je građevina u Osijeku.",
+                  "category": "religious",
+                  "coords": [
+                        18.675575,
+                        45.560816
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "Ova barokna isusovačka crkva nalazi se u povijesnoj osječkoj četvrti Tvrđa.",
+                  "category": "religious",
+                  "coords": [
+                        18.693865,
+                        45.561037
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Osijek", hu: "Eszék", ro: "Osijek", en: "Osijek"},
@@ -95,7 +1456,198 @@ imageHint: "Osijek Tvrdja fortress aerial view",
     },
     image: "/poi-images/croatia-osijek-cities-v2.webp",
 },  {
-    id: "croatia-slavonski-brod-cities-v2",
+    id: "croatia-slavonski-brod-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej tambure",
+                  "text": "Das weltweit erste Museum dieser Art ist dem traditionellen kroatischen Saiteninstrument Tamburica gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.005729,
+                        45.155958
+                  ]
+            },
+            {
+                  "name": "Festung Brod",
+                  "text": "Die gewaltige barocke Festungsanlage an der Save wurde im 18. Jahrhundert zum Schutz gegen die Osmanen erbaut.",
+                  "category": "fortress",
+                  "coords": [
+                        18.007348,
+                        45.155836
+                  ]
+            },
+            {
+                  "name": "Muzej Brodskog Posavlja",
+                  "text": "Das Regionalmuseum präsentiert archäologische, ethnologische und naturkundliche Exponate aus der Region Posavina.",
+                  "category": "museum",
+                  "coords": [
+                        18.016512,
+                        45.152707
+                  ]
+            },
+            {
+                  "name": "Kazališno-koncertna dvorana \"Ivana Brlić-Mažuranić\"",
+                  "text": "Das Kulturzentrum ist nach der berühmten kroatischen Kinderbuchautorin benannt und beherbergt Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.009524,
+                        45.153658
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tamburamúzeum",
+                  "text": "A világ első ilyen jellegű múzeuma a hagyományos horvát pengetős hangszernek, a tamburának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        18.005729,
+                        45.155958
+                  ]
+            },
+            {
+                  "name": "Bródi erőd",
+                  "text": "A Száva partján fekvő hatalmas barokk erődítmény a 18. században épült a török elleni védelemre.",
+                  "category": "fortress",
+                  "coords": [
+                        18.007348,
+                        45.155836
+                  ]
+            },
+            {
+                  "name": "Bród-Szávamente Megyei Múzeum",
+                  "text": "A regionális múzeum a Szávamenti vidék régészeti, néprajzi és természettudományi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.016512,
+                        45.152707
+                  ]
+            },
+            {
+                  "name": "Ivana Brlić-Mažuranić Színház és Hangversenyterem",
+                  "text": "A híres horvát írónőről elnevezett kulturális központ színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.009524,
+                        45.153658
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej tambure",
+                  "text": "Primul muzeu de acest gen din lume este dedicat instrumentului tradițional croat numit tambura.",
+                  "category": "museum",
+                  "coords": [
+                        18.005729,
+                        45.155958
+                  ]
+            },
+            {
+                  "name": "Tvrđava Brod",
+                  "text": "Această vastă fortăreață barocă de pe malul râului Sava a fost construită în secolul al XVIII-lea pentru apărare.",
+                  "category": "fortress",
+                  "coords": [
+                        18.007348,
+                        45.155836
+                  ]
+            },
+            {
+                  "name": "Muzej Brodskog Posavlja",
+                  "text": "Muzeul regional prezintă exponate arheologice, etnologice și naturale din zona Posavina.",
+                  "category": "museum",
+                  "coords": [
+                        18.016512,
+                        45.152707
+                  ]
+            },
+            {
+                  "name": "Kazališno-koncertna dvorana \"Ivana Brlić-Mažuranić\"",
+                  "text": "Centrul cultural poartă numele celebrei scriitoare croate și găzduiește spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        18.009524,
+                        45.153658
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej tambure",
+                  "text": "The world's first museum of its kind is dedicated to the traditional Croatian string instrument, the tambura.",
+                  "category": "museum",
+                  "coords": [
+                        18.005729,
+                        45.155958
+                  ]
+            },
+            {
+                  "name": "Brod Fortress",
+                  "text": "This massive 18th-century Baroque star fortress on the Sava river was built for border defense.",
+                  "category": "fortress",
+                  "coords": [
+                        18.007348,
+                        45.155836
+                  ]
+            },
+            {
+                  "name": "Muzej Brodskog Posavlja",
+                  "text": "This regional museum displays archaeological, ethnological, and natural history exhibits from the Posavina area.",
+                  "category": "museum",
+                  "coords": [
+                        18.016512,
+                        45.152707
+                  ]
+            },
+            {
+                  "name": "Kazališno-koncertna dvorana \"Ivana Brlić-Mažuranić\"",
+                  "text": "Named after the famous Croatian writer, this cultural center hosts various theatre and music performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.009524,
+                        45.153658
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Muzej tambure",
+                  "text": "Prvi muzej takve vrste u svijetu posvećen je tradicionalnom hrvatskom trzalačkom instrumentu tamburi.",
+                  "category": "museum",
+                  "coords": [
+                        18.005729,
+                        45.155958
+                  ]
+            },
+            {
+                  "name": "Brod Fortress",
+                  "text": "Ova golema barokna utvrda na Savi izgrađena je u 18. stoljeću za obranu granice.",
+                  "category": "fortress",
+                  "coords": [
+                        18.007348,
+                        45.155836
+                  ]
+            },
+            {
+                  "name": "Muzej Brodskog Posavlja",
+                  "text": "Ovaj regionalni muzej prikazuje arheološke, etnološke i prirodoslovne izloške iz brodskog Posavlja.",
+                  "category": "museum",
+                  "coords": [
+                        18.016512,
+                        45.152707
+                  ]
+            },
+            {
+                  "name": "Kazališno-koncertna dvorana \"Ivana Brlić-Mažuranić\"",
+                  "text": "Nazvana po slavnoj hrvatskoj književnici, ova dvorana središte je kazališnih i glazbenih događanja u gradu.",
+                  "category": "cultural",
+                  "coords": [
+                        18.009524,
+                        45.153658
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Slavonski Brod", hu: "Bród", ro: "Slavonski Brod", en: "Slavonski Brod"},
@@ -141,7 +1693,423 @@ imageHint: "Brod Fortress Slavonski Brod aerial",
     },
     image: "/poi-images/croatia-slavonski-brod-cities-v2.webp",
 },  {
-    id: "croatia-karlovac-cities-v2",
+    id: "croatia-karlovac-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradski muzej Karlovac",
+                  "text": "Das Stadtmuseum ist in einem der ältesten Barockpaläste von Karlovac untergebracht und zeigt die Lokalgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        15.554058,
+                        45.493823
+                  ]
+            },
+            {
+                  "name": "Zorin dom",
+                  "text": "Das historische Theatergebäude aus dem späten 19. Jahrhundert ist der Mittelpunkt des kulturellen Lebens in Karlovac.",
+                  "category": "cultural",
+                  "coords": [
+                        15.550729,
+                        45.491684
+                  ]
+            },
+            {
+                  "name": "Franjevački muzej",
+                  "text": "Das Museum im Franziskanerkloster bewahrt eine wertvolle Sammlung sakraler Kunst und alter Handschriften.",
+                  "category": "museum",
+                  "coords": [
+                        15.555481,
+                        45.492634
+                  ]
+            },
+            {
+                  "name": "Nikola Tesla Experience Center Karlovac",
+                  "text": "Das moderne Besucherzentrum erinnert an Nikola Tesla, der in Karlovac das Gymnasium besuchte und seinen Abschluss machte.",
+                  "category": "museum",
+                  "coords": [
+                        15.556383,
+                        45.485494
+                  ]
+            },
+            {
+                  "name": "Aquatika",
+                  "text": "Süßwasseraquarium in Karlovac, das die Artenvielfalt der kroatischen Flüsse zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.562408,
+                        45.485292
+                  ]
+            },
+            {
+                  "name": "Stari grad Dubovac",
+                  "text": "Mittelalterliche Burg und Wahrzeichen mit Panoramablick über Karlovac.",
+                  "category": "natural",
+                  "coords": [
+                        15.528629,
+                        45.494802
+                  ]
+            },
+            {
+                  "name": "Galerija Vjekoslav Karas",
+                  "text": "Galerie für zeitgenössische Kunst in Karlovac mit verschiedenen lokalen und nationalen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        15.543413,
+                        45.487311
+                  ]
+            },
+            {
+                  "name": "Spomenik antifašizmu",
+                  "text": "Denkmal in Karlovac, das der antifaschistischen Bewegung gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        15.552544,
+                        45.492667
+                  ]
+            },
+            {
+                  "name": "Nacionalno Svetište Svetog Josipa",
+                  "text": "Nationalheiligtum des Heiligen Josef, ein bedeutender Wallfahrtsort in Karlovac.",
+                  "category": "religious",
+                  "coords": [
+                        15.531653,
+                        45.495385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradski muzej Karlovac",
+                  "text": "A városi múzeum Károlyváros egyik legrégebbi barokk palotájában kapott helyet, és a helytörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.554058,
+                        45.493823
+                  ]
+            },
+            {
+                  "name": "Zorin dom",
+                  "text": "A 19. század végén épült patinás színházépület Károlyváros kulturális életének központja.",
+                  "category": "cultural",
+                  "coords": [
+                        15.550729,
+                        45.491684
+                  ]
+            },
+            {
+                  "name": "Franjevački muzej",
+                  "text": "A ferences kolostorban működő múzeum értékes szakrális művészeti gyűjteményt és régi kéziratokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        15.555481,
+                        45.492634
+                  ]
+            },
+            {
+                  "name": "Nikola Tesla Experience Center Karlovac",
+                  "text": "A modern látogatóközpont Nikola Teslának állít emléket, aki Károlyvárosban járt gimnáziumba és itt érettségizett.",
+                  "category": "museum",
+                  "coords": [
+                        15.556383,
+                        45.485494
+                  ]
+            },
+            {
+                  "name": "Aquatika",
+                  "text": "Karlovaci édesvízi akvárium, amely a horvát folyók élővilágát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        15.562408,
+                        45.485292
+                  ]
+            },
+            {
+                  "name": "Stari grad Dubovac",
+                  "text": "Középkori vár és kilátópont, amely panorámás kilátást nyújt Károlyvárosra.",
+                  "category": "natural",
+                  "coords": [
+                        15.528629,
+                        45.494802
+                  ]
+            },
+            {
+                  "name": "Galerija Vjekoslav Karas",
+                  "text": "Kortárs művészeti galéria Karlovacban, amely helyi és országos kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        15.543413,
+                        45.487311
+                  ]
+            },
+            {
+                  "name": "Spomenik antifašizmu",
+                  "text": "Karlovaci emlékmű, amelyet az antifasiszta mozgalom tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        15.552544,
+                        45.492667
+                  ]
+            },
+            {
+                  "name": "Nacionalno Svetište Svetog Josipa",
+                  "text": "Szent József nemzeti kegyhely, Karlovac egyik legfontosabb zarándokhelye.",
+                  "category": "religious",
+                  "coords": [
+                        15.531653,
+                        45.495385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradski muzej Karlovac",
+                  "text": "Muzeul orașului este găzduit într-unul dintre cele mai vechi palate baroce din Karlovac și prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.554058,
+                        45.493823
+                  ]
+            },
+            {
+                  "name": "Zorin dom",
+                  "text": "Această clădire istorică de teatru din secolul al XIX-lea este centrul vieții culturale din Karlovac.",
+                  "category": "cultural",
+                  "coords": [
+                        15.550729,
+                        45.491684
+                  ]
+            },
+            {
+                  "name": "Franjevački muzej",
+                  "text": "Muzeul din cadrul mănăstirii franciscane păstrează o colecție valoroasă de artă sacră și manuscrise vechi.",
+                  "category": "museum",
+                  "coords": [
+                        15.555481,
+                        45.492634
+                  ]
+            },
+            {
+                  "name": "Nikola Tesla Experience Center Karlovac",
+                  "text": "Acest centru modern este dedicat lui Nikola Tesla, care a studiat și a absolvit gimnaziul în orașul Karlovac.",
+                  "category": "museum",
+                  "coords": [
+                        15.556383,
+                        45.485494
+                  ]
+            },
+            {
+                  "name": "Aquatika",
+                  "text": "Acvariu de apă dulce din Karlovac, care prezintă biodiversitatea râurilor croate.",
+                  "category": "recreational",
+                  "coords": [
+                        15.562408,
+                        45.485292
+                  ]
+            },
+            {
+                  "name": "Stari grad Dubovac",
+                  "text": "Castel medieval și punct de belvedere care oferă o panoramă asupra orașului Karlovac.",
+                  "category": "natural",
+                  "coords": [
+                        15.528629,
+                        45.494802
+                  ]
+            },
+            {
+                  "name": "Galerija Vjekoslav Karas",
+                  "text": "Galerie de artă contemporană din Karlovac care găzduiește diverse expoziții locale și naționale.",
+                  "category": "museum",
+                  "coords": [
+                        15.543413,
+                        45.487311
+                  ]
+            },
+            {
+                  "name": "Spomenik antifašizmu",
+                  "text": "Monument public din Karlovac dedicat mișcării antifasciste.",
+                  "category": "historical",
+                  "coords": [
+                        15.552544,
+                        45.492667
+                  ]
+            },
+            {
+                  "name": "Nacionalno Svetište Svetog Josipa",
+                  "text": "Sanctuar național dedicat Sfântului Iosif, un important loc de pelerinaj în Karlovac.",
+                  "category": "religious",
+                  "coords": [
+                        15.531653,
+                        45.495385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradski muzej Karlovac",
+                  "text": "The city museum is housed in one of Karlovac's oldest Baroque palaces and documents local history.",
+                  "category": "museum",
+                  "coords": [
+                        15.554058,
+                        45.493823
+                  ]
+            },
+            {
+                  "name": "Zorin dom",
+                  "text": "This historic theatre building from the late 19th century is the center of cultural life in Karlovac.",
+                  "category": "cultural",
+                  "coords": [
+                        15.550729,
+                        45.491684
+                  ]
+            },
+            {
+                  "name": "Franjevački muzej",
+                  "text": "Located within the Franciscan monastery, this museum preserves a valuable collection of sacred art and old manuscripts.",
+                  "category": "museum",
+                  "coords": [
+                        15.555481,
+                        45.492634
+                  ]
+            },
+            {
+                  "name": "Nikola Tesla Experience Center Karlovac",
+                  "text": "This modern center is dedicated to Nikola Tesla, who attended high school and graduated in Karlovac.",
+                  "category": "museum",
+                  "coords": [
+                        15.556383,
+                        45.485494
+                  ]
+            },
+            {
+                  "name": "Aquatika",
+                  "text": "Freshwater aquarium in Karlovac showcasing the biodiversity of Croatian rivers.",
+                  "category": "recreational",
+                  "coords": [
+                        15.562408,
+                        45.485292
+                  ]
+            },
+            {
+                  "name": "Stari grad Dubovac",
+                  "text": "Medieval castle and landmark offering panoramic views over Karlovac.",
+                  "category": "natural",
+                  "coords": [
+                        15.528629,
+                        45.494802
+                  ]
+            },
+            {
+                  "name": "Galerija Vjekoslav Karas",
+                  "text": "Contemporary art gallery in Karlovac hosting various local and national exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        15.543413,
+                        45.487311
+                  ]
+            },
+            {
+                  "name": "Spomenik antifašizmu",
+                  "text": "Public monument in Karlovac dedicated to the anti-fascist movement.",
+                  "category": "historical",
+                  "coords": [
+                        15.552544,
+                        45.492667
+                  ]
+            },
+            {
+                  "name": "Nacionalno Svetište Svetog Josipa",
+                  "text": "National shrine dedicated to Saint Joseph, an important pilgrimage site in Karlovac.",
+                  "category": "religious",
+                  "coords": [
+                        15.531653,
+                        45.495385
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Gradski muzej Karlovac",
+                  "text": "Gradski muzej smješten je u jednoj od najstarijih baroknih palača u Karlovcu i prikazuje lokalnu povijest.",
+                  "category": "museum",
+                  "coords": [
+                        15.554058,
+                        45.493823
+                  ]
+            },
+            {
+                  "name": "Zorin dom",
+                  "text": "Ova povijesna kazališna zgrada s kraja 19. stoljeća središte je kulturnog života Karlovca.",
+                  "category": "cultural",
+                  "coords": [
+                        15.550729,
+                        45.491684
+                  ]
+            },
+            {
+                  "name": "Franjevački muzej",
+                  "text": "Muzej u sklopu franjevačkog samostana čuva vrijednu zbirku sakralne umjetnosti i starih rukopisa.",
+                  "category": "museum",
+                  "coords": [
+                        15.555481,
+                        45.492634
+                  ]
+            },
+            {
+                  "name": "Nikola Tesla Experience Center Karlovac",
+                  "text": "Ovaj moderni centar posvećen je Nikoli Tesli, koji je u Karlovcu pohađao gimnaziju i maturirao.",
+                  "category": "museum",
+                  "coords": [
+                        15.556383,
+                        45.485494
+                  ]
+            },
+            {
+                  "name": "Aquatika",
+                  "text": "Slatkovodni akvarij u Karlovcu koji prikazuje bioraznolikost hrvatskih rijeka.",
+                  "category": "recreational",
+                  "coords": [
+                        15.562408,
+                        45.485292
+                  ]
+            },
+            {
+                  "name": "Stari grad Dubovac",
+                  "text": "Srednjovjekovni dvorac i vidikovac s kojeg se pruža panoramski pogled na Karlovac.",
+                  "category": "natural",
+                  "coords": [
+                        15.528629,
+                        45.494802
+                  ]
+            },
+            {
+                  "name": "Galerija Vjekoslav Karas",
+                  "text": "Galerija suvremene umjetnosti u Karlovcu u kojoj se održavaju brojne izložbe.",
+                  "category": "museum",
+                  "coords": [
+                        15.543413,
+                        45.487311
+                  ]
+            },
+            {
+                  "name": "Spomenik antifašizmu",
+                  "text": "Spomenik u Karlovcu posvećen antifašističkom pokretu.",
+                  "category": "historical",
+                  "coords": [
+                        15.552544,
+                        45.492667
+                  ]
+            },
+            {
+                  "name": "Nacionalno Svetište Svetog Josipa",
+                  "text": "Nacionalno svetište svetog Josipa, glavno odredište hodočasnika u Karlovcu.",
+                  "category": "religious",
+                  "coords": [
+                        15.531653,
+                        45.495385
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Karlovac", hu: "Károlyváros", ro: "Karlovac", en: "Karlovac"},
@@ -233,7 +2201,828 @@ imageHint: "Varazdin Stari Grad castle white",
     },
     image: "/poi-images/croatia-varazdin-cities-v2.webp",
 },  {
-    id: "croatia-sibenik-cities-v2",
+    id: "croatia-sibenik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej Grada Šibenika",
+                  "text": "Stadtmuseum im historischen Fürstenpalast, das die Geschichte von Šibenik dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.889126,
+                        43.735374
+                  ]
+            },
+            {
+                  "name": "Festung St. Michael",
+                  "text": "Mittelalterliche Festung über Šibenik, bekannt für ihre Freilichtbühne im Sommer.",
+                  "category": "castle",
+                  "coords": [
+                        15.889587,
+                        43.737621
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Šibeniku",
+                  "text": "Das Kroatische Nationaltheater in Šibenik, ein Zentrum für Kultur und darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        15.892972,
+                        43.734926
+                  ]
+            },
+            {
+                  "name": "Festung Baron",
+                  "text": "Die Festung Barone wurde 1646 zur Verteidigung Šibeniks gegen die Osmanen errichtet.",
+                  "category": "castle",
+                  "coords": [
+                        15.89647,
+                        43.737273
+                  ]
+            },
+            {
+                  "name": "Festung St. Johannes",
+                  "text": "Die Festung des Heiligen Johannes thront über der Stadt und diente dem Schutz im 17. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        15.893881,
+                        43.740441
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Der Stadtstrand Banj bietet einen der schönsten Ausblicke auf die Altstadt von Šibenik.",
+                  "category": "recreational",
+                  "coords": [
+                        15.88408,
+                        43.741443
+                  ]
+            },
+            {
+                  "name": "Spomen soba Dražen Petrović",
+                  "text": "Gedenkraum für die Basketball-Legende Dražen Petrović in seinem Geburtsort Šibenik.",
+                  "category": "museum",
+                  "coords": [
+                        15.902338,
+                        43.730401
+                  ]
+            },
+            {
+                  "name": "Civitas Sacra",
+                  "text": "Das Interpretationszentrum der Kathedrale des Heiligen Jakobus befindet sich im Galbiani-Palast.",
+                  "category": "museum",
+                  "coords": [
+                        15.89127,
+                        43.735027
+                  ]
+            },
+            {
+                  "name": "Oštra glava",
+                  "text": "Ein Hügel in der Nähe von Šibenik mit Blick auf die umliegende Karstlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.874339,
+                        43.730935
+                  ]
+            },
+            {
+                  "name": "Tusta",
+                  "text": "Ein Gipfel im Hinterland von Šibenik, ideal für Wanderungen und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        15.863169,
+                        43.742684
+                  ]
+            },
+            {
+                  "name": "Lobor",
+                  "text": "Ein Berggipfel in der Nähe von Šibenik, der einen weiten Blick auf die dalmatinische Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.877719,
+                        43.725668
+                  ]
+            },
+            {
+                  "name": "Spomen-park Šubićevac",
+                  "text": "Ein Gedenkpark in Šibenik, der den während des Zweiten Weltkriegs hingerichteten Widerstandskämpfern gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        15.897141,
+                        43.742452
+                  ]
+            },
+            {
+                  "name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija",
+                  "text": "Ein kultureller Veranstaltungsort auf der Halbinsel Martinska, der im Sommer für Musik- und Kunstevents bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.875901,
+                        43.738298
+                  ]
+            },
+            {
+                  "name": "kuća umjetnosti Arsen",
+                  "text": "Ein nach dem Musiker Arsen Dedić benanntes Kulturzentrum in Šibenik, das als Ort für Konzerte und Filme dient.",
+                  "category": "cultural",
+                  "coords": [
+                        15.891951,
+                        43.732744
+                  ]
+            },
+            {
+                  "name": "Welcome to Sibenik Sign",
+                  "text": "Ein Willkommensschild am Stadteingang von Šibenik, das ein beliebtes Fotomotiv für Besucher darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.870808,
+                        43.726846
+                  ]
+            },
+            {
+                  "name": "Morski tunel",
+                  "text": "Ein ehemaliger Militärtunnel im St.-Antonius-Kanal, der früher zum Schutz von Marineschiffen diente.",
+                  "category": "historical",
+                  "coords": [
+                        15.874264,
+                        43.727182
+                  ]
+            },
+            {
+                  "name": "Mittelalterlicher Klostergarten Hl. Laurentius",
+                  "text": "Ein sorgfältig restaurierter mittelalterlicher Klostergarten mit einer Sammlung von Heilpflanzen und Gewürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.889486,
+                        43.736467
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Dominika",
+                  "text": "Eine elegante gotische Kirche aus dem 14. Jahrhundert, die sich im historischen Zentrum von Šibenik am Meer befindet.",
+                  "category": "religious",
+                  "coords": [
+                        15.888489,
+                        43.736506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej Grada Šibenika",
+                  "text": "A történelmi Rektori palotában található városi múzeum, amely Šibenik múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.889126,
+                        43.735374
+                  ]
+            },
+            {
+                  "name": "Tvrđava svetog Mihovila",
+                  "text": "Šibenik fölé magasodó középkori erőd, amely ma népszerű szabadtéri koncerthelyszín.",
+                  "category": "castle",
+                  "coords": [
+                        15.889587,
+                        43.737621
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Šibeniku",
+                  "text": "Šibeniki Horvát Nemzeti Színház, a város kulturális és művészeti életének központja.",
+                  "category": "cultural",
+                  "coords": [
+                        15.892972,
+                        43.734926
+                  ]
+            },
+            {
+                  "name": "Tvrđava Barone",
+                  "text": "A Barone-erőd 1646-ban épült Šibenik védelmére az oszmán támadások ellen.",
+                  "category": "castle",
+                  "coords": [
+                        15.89647,
+                        43.737273
+                  ]
+            },
+            {
+                  "name": "Tvrđava svetog Ivana",
+                  "text": "A Szent János-erőd a város feletti dombon áll, és fontos védelmi szerepet játszott a 17. században.",
+                  "category": "castle",
+                  "coords": [
+                        15.893881,
+                        43.740441
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "A Banj városi strandról nyílik a legszebb kilátás Šibenik óvárosára.",
+                  "category": "recreational",
+                  "coords": [
+                        15.88408,
+                        43.741443
+                  ]
+            },
+            {
+                  "name": "Spomen soba Dražen Petrović",
+                  "text": "Dražen Petrović kosárlabda-legenda emlékhelye szülővárosában, Šibenikben.",
+                  "category": "museum",
+                  "coords": [
+                        15.902338,
+                        43.730401
+                  ]
+            },
+            {
+                  "name": "Civitas Sacra",
+                  "text": "A Szent Jakab-székesegyház történetét bemutató látogatóközpont a Galbiani-palotában.",
+                  "category": "museum",
+                  "coords": [
+                        15.89127,
+                        43.735027
+                  ]
+            },
+            {
+                  "name": "Oštra glava",
+                  "text": "Šibenik melletti magaslat, ahonnan kilátás nyílik a környező karsztvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.874339,
+                        43.730935
+                  ]
+            },
+            {
+                  "name": "Tusta",
+                  "text": "Domb Šibenik hátországában, amely ideális túrázásra és természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        15.863169,
+                        43.742684
+                  ]
+            },
+            {
+                  "name": "Lobor",
+                  "text": "Egy hegycsúcs Šibenik közelében, ahonnan kilátás nyílik a környező dalmát tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.877719,
+                        43.725668
+                  ]
+            },
+            {
+                  "name": "Spomen-park Šubićevac",
+                  "text": "Emlékpark Šibenikben, amelyet a második világháború alatt kivégzett ellenállók emlékére hoztak létre.",
+                  "category": "park",
+                  "coords": [
+                        15.897141,
+                        43.742452
+                  ]
+            },
+            {
+                  "name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija",
+                  "text": "Kulturális rendezvényhelyszín a Martinska-félszigeten, amely nyári zenei és művészeti eseményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.875901,
+                        43.738298
+                  ]
+            },
+            {
+                  "name": "kuća umjetnosti Arsen",
+                  "text": "Arsen Dedić zenészről elnevezett kulturális központ Šibenikben, amely koncertek és filmvetítések helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        15.891951,
+                        43.732744
+                  ]
+            },
+            {
+                  "name": "Welcome to Sibenik Sign",
+                  "text": "Üdvözlő felirat Šibenik bejáratánál, amely népszerű fotótéma a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        15.870808,
+                        43.726846
+                  ]
+            },
+            {
+                  "name": "Morski tunel",
+                  "text": "Egykori katonai alagút a Szent Antal-csatornában, amely korábban hadihajók védelmére szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        15.874264,
+                        43.727182
+                  ]
+            },
+            {
+                  "name": "Samostanski vrt sv. Lovre",
+                  "text": "Gondosan restaurált középkori kolostorkert, amely gyógynövények és fűszerek gyűjteményének ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        15.889486,
+                        43.736467
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Dominika",
+                  "text": "Elegáns 14. századi gótikus templom Šibenik történelmi belvárosában, közvetlenül a tengerpartnál.",
+                  "category": "religious",
+                  "coords": [
+                        15.888489,
+                        43.736506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej Grada Šibenika",
+                  "text": "Muzeul orașului situat în fostul Palat al Ducelui, prezentând istoria orașului Šibenik.",
+                  "category": "museum",
+                  "coords": [
+                        15.889126,
+                        43.735374
+                  ]
+            },
+            {
+                  "name": "Tvrđava svetog Mihovila",
+                  "text": "Cetate medievală care domină orașul Šibenik, renumită pentru scena sa în aer liber.",
+                  "category": "castle",
+                  "coords": [
+                        15.889587,
+                        43.737621
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Šibeniku",
+                  "text": "Teatrul Național Croat din Šibenik, un centru pentru cultură și artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        15.892972,
+                        43.734926
+                  ]
+            },
+            {
+                  "name": "Tvrđava Barone",
+                  "text": "Cetatea Barone a fost construită în 1646 pentru a apăra orașul Šibenik de atacurile otomane.",
+                  "category": "castle",
+                  "coords": [
+                        15.89647,
+                        43.737273
+                  ]
+            },
+            {
+                  "name": "Tvrđava svetog Ivana",
+                  "text": "Cetatea Sfântul Ioan domină orașul de pe un deal, oferind protecție în secolul al XVII-lea.",
+                  "category": "castle",
+                  "coords": [
+                        15.893881,
+                        43.740441
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Plaja urbană Banj oferă o vedere spectaculoasă asupra centrului istoric al orașului Šibenik.",
+                  "category": "recreational",
+                  "coords": [
+                        15.88408,
+                        43.741443
+                  ]
+            },
+            {
+                  "name": "Spomen soba Dražen Petrović",
+                  "text": "Cameră memorială dedicată legendarului baschetbalist Dražen Petrović în orașul său natal.",
+                  "category": "museum",
+                  "coords": [
+                        15.902338,
+                        43.730401
+                  ]
+            },
+            {
+                  "name": "Civitas Sacra",
+                  "text": "Centru de interpretare al Catedralei Sfântul Iacob, situat în Palatul Galbiani.",
+                  "category": "museum",
+                  "coords": [
+                        15.89127,
+                        43.735027
+                  ]
+            },
+            {
+                  "name": "Oštra glava",
+                  "text": "Un deal în apropiere de Šibenik ce oferă panorame asupra peisajului carstic din jur.",
+                  "category": "natural",
+                  "coords": [
+                        15.874339,
+                        43.730935
+                  ]
+            },
+            {
+                  "name": "Tusta",
+                  "text": "Un vârf în hinterlandul orașului Šibenik, ideal pentru drumeții și explorarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.863169,
+                        43.742684
+                  ]
+            },
+            {
+                  "name": "Lobor",
+                  "text": "Un vârf muntos lângă Šibenik, oferind o panoramă asupra peisajului dalmațian înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        15.877719,
+                        43.725668
+                  ]
+            },
+            {
+                  "name": "Spomen-park Šubićevac",
+                  "text": "Un parc memorial din Šibenik, dedicat luptătorilor de rezistență executați în timpul celui de-al Doilea Război Mondial.",
+                  "category": "park",
+                  "coords": [
+                        15.897141,
+                        43.742452
+                  ]
+            },
+            {
+                  "name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija",
+                  "text": "Un spațiu cultural pe peninsula Martinska, cunoscut pentru evenimentele de muzică și artă din timpul verii.",
+                  "category": "landmark",
+                  "coords": [
+                        15.875901,
+                        43.738298
+                  ]
+            },
+            {
+                  "name": "kuća umjetnosti Arsen",
+                  "text": "Un centru cultural din Šibenik numit după muzicianul Arsen Dedić, care găzduiește concerte și proiecții de filme.",
+                  "category": "cultural",
+                  "coords": [
+                        15.891951,
+                        43.732744
+                  ]
+            },
+            {
+                  "name": "Welcome to Sibenik Sign",
+                  "text": "Un semn de bun venit la intrarea în Šibenik, reprezentând un punct popular pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        15.870808,
+                        43.726846
+                  ]
+            },
+            {
+                  "name": "Morski tunel",
+                  "text": "Un fost tunel militar în canalul Sfântul Ante, folosit în trecut pentru protecția navelor marinei.",
+                  "category": "historical",
+                  "coords": [
+                        15.874264,
+                        43.727182
+                  ]
+            },
+            {
+                  "name": "Samostanski vrt sv. Lovre",
+                  "text": "O grădină mănăstirească medievală restaurată cu grijă, care găzduiește o colecție de plante medicinale și condimente.",
+                  "category": "landmark",
+                  "coords": [
+                        15.889486,
+                        43.736467
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Dominika",
+                  "text": "O biserică gotică elegantă din secolul al XIV-lea, situată în centrul istoric al orașului Šibenik, lângă mare.",
+                  "category": "religious",
+                  "coords": [
+                        15.888489,
+                        43.736506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šibenik Museum",
+                  "text": "City museum located in the historic Duke's Palace, detailing the history of Šibenik.",
+                  "category": "museum",
+                  "coords": [
+                        15.889126,
+                        43.735374
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Fortress",
+                  "text": "Medieval fortress overlooking Šibenik, known for its open-air summer stage.",
+                  "category": "castle",
+                  "coords": [
+                        15.889587,
+                        43.737621
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Šibeniku",
+                  "text": "The Croatian National Theater in Šibenik, a center for culture and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        15.892972,
+                        43.734926
+                  ]
+            },
+            {
+                  "name": "Barone Fortress",
+                  "text": "Barone Fortress was built in 1646 to defend Šibenik against the Ottoman threat.",
+                  "category": "castle",
+                  "coords": [
+                        15.89647,
+                        43.737273
+                  ]
+            },
+            {
+                  "name": "St. John's Fortress",
+                  "text": "St. John's Fortress sits on a hill above the city and provided key defense in the 17th century.",
+                  "category": "castle",
+                  "coords": [
+                        15.893881,
+                        43.740441
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Banj city beach offers a panoramic view of Šibenik's historic old town.",
+                  "category": "recreational",
+                  "coords": [
+                        15.88408,
+                        43.741443
+                  ]
+            },
+            {
+                  "name": "Spomen soba Dražen Petrović",
+                  "text": "Memorial room dedicated to the basketball legend Dražen Petrović in his hometown.",
+                  "category": "museum",
+                  "coords": [
+                        15.902338,
+                        43.730401
+                  ]
+            },
+            {
+                  "name": "Civitas Sacra",
+                  "text": "Interpretation center of St. James Cathedral located in the Galbiani Palace.",
+                  "category": "museum",
+                  "coords": [
+                        15.89127,
+                        43.735027
+                  ]
+            },
+            {
+                  "name": "Oštra glava",
+                  "text": "A hill near Šibenik offering views of the surrounding karst landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.874339,
+                        43.730935
+                  ]
+            },
+            {
+                  "name": "Tusta",
+                  "text": "A peak in the Šibenik hinterland, ideal for hiking and nature exploration.",
+                  "category": "natural",
+                  "coords": [
+                        15.863169,
+                        43.742684
+                  ]
+            },
+            {
+                  "name": "Lobor",
+                  "text": "A mountain peak near Šibenik offering views of the surrounding Dalmatian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.877719,
+                        43.725668
+                  ]
+            },
+            {
+                  "name": "Spomen-park Šubićevac",
+                  "text": "A memorial park in Šibenik dedicated to the resistance fighters executed during World War II.",
+                  "category": "park",
+                  "coords": [
+                        15.897141,
+                        43.742452
+                  ]
+            },
+            {
+                  "name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija",
+                  "text": "A cultural venue on the Martinska peninsula, known for its summer music and arts events.",
+                  "category": "landmark",
+                  "coords": [
+                        15.875901,
+                        43.738298
+                  ]
+            },
+            {
+                  "name": "kuća umjetnosti Arsen",
+                  "text": "A cultural center in Šibenik named after musician Arsen Dedić, serving as a venue for concerts and films.",
+                  "category": "cultural",
+                  "coords": [
+                        15.891951,
+                        43.732744
+                  ]
+            },
+            {
+                  "name": "Welcome to Sibenik Sign",
+                  "text": "A welcome sign at the entrance to Šibenik, serving as a popular photo spot for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        15.870808,
+                        43.726846
+                  ]
+            },
+            {
+                  "name": "Undersea tunnel",
+                  "text": "A former military tunnel in the St. Anthony Channel, previously used for protecting navy ships.",
+                  "category": "historical",
+                  "coords": [
+                        15.874264,
+                        43.727182
+                  ]
+            },
+            {
+                  "name": "Garden of St. Lawrence Monastery",
+                  "text": "A carefully restored medieval monastery garden housing a collection of medicinal plants and spices.",
+                  "category": "landmark",
+                  "coords": [
+                        15.889486,
+                        43.736467
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Dominika",
+                  "text": "An elegant 14th-century Gothic church located in the historical center of Šibenik by the sea.",
+                  "category": "religious",
+                  "coords": [
+                        15.888489,
+                        43.736506
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Šibenik Museum",
+                  "text": "Muzej grada Šibenika smješten u Kneževoj palači, čuva bogatu povijest grada.",
+                  "category": "museum",
+                  "coords": [
+                        15.889126,
+                        43.735374
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Fortress",
+                  "text": "Tvrđava sv. Mihovila je najstarija šibenska utvrda, danas poznata kao ljetna pozornica.",
+                  "category": "castle",
+                  "coords": [
+                        15.889587,
+                        43.737621
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Šibeniku",
+                  "text": "Hrvatsko narodno kazalište u Šibeniku središte je kulturnog i umjetničkog života grada.",
+                  "category": "cultural",
+                  "coords": [
+                        15.892972,
+                        43.734926
+                  ]
+            },
+            {
+                  "name": "Barone Fortress",
+                  "text": "Tvrđava Barone izgrađena je 1646. godine radi obrane Šibenika od Osmanlija.",
+                  "category": "castle",
+                  "coords": [
+                        15.89647,
+                        43.737273
+                  ]
+            },
+            {
+                  "name": "St. John's Fortress",
+                  "text": "Tvrđava sv. Ivana nalazi se na brdu iznad Šibenika i pružala je ključnu obranu u 17. stoljeću.",
+                  "category": "castle",
+                  "coords": [
+                        15.893881,
+                        43.740441
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Gradska plaža Banj nudi jedinstven pogled na staru gradsku jezgru Šibenika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.88408,
+                        43.741443
+                  ]
+            },
+            {
+                  "name": "Spomen soba Dražen Petrović",
+                  "text": "Spomen soba posvećena je košarkaškom velikanu Draženu Petroviću u njegovu rodnom gradu.",
+                  "category": "museum",
+                  "coords": [
+                        15.902338,
+                        43.730401
+                  ]
+            },
+            {
+                  "name": "Civitas Sacra",
+                  "text": "Interpretacijski centar katedrale sv. Jakova smješten u palači Galbiani.",
+                  "category": "museum",
+                  "coords": [
+                        15.89127,
+                        43.735027
+                  ]
+            },
+            {
+                  "name": "Oštra glava",
+                  "text": "Uzvisina u okolici Šibenika s koje se pruža pogled na okolni krški krajolik.",
+                  "category": "natural",
+                  "coords": [
+                        15.874339,
+                        43.730935
+                  ]
+            },
+            {
+                  "name": "Tusta",
+                  "text": "Brdo u šibenskom zaleđu idealno za pješačenje i ljubitelje prirode.",
+                  "category": "natural",
+                  "coords": [
+                        15.863169,
+                        43.742684
+                  ]
+            },
+            {
+                  "name": "Lobor",
+                  "text": "Planinski vrh u blizini Šibenika koji nudi pogled na okolni dalmatinski krajolik.",
+                  "category": "natural",
+                  "coords": [
+                        15.877719,
+                        43.725668
+                  ]
+            },
+            {
+                  "name": "Spomen-park Šubićevac",
+                  "text": "Spomen-park u Šibeniku posvećen borcima pokreta otpora strijeljanima tijekom Drugog svjetskog rata.",
+                  "category": "park",
+                  "coords": [
+                        15.897141,
+                        43.742452
+                  ]
+            },
+            {
+                  "name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija",
+                  "text": "Kulturno odredište na Martinskoj, poznato po ljetnim glazbenim i umjetničkim događanjima.",
+                  "category": "landmark",
+                  "coords": [
+                        15.875901,
+                        43.738298
+                  ]
+            },
+            {
+                  "name": "kuća umjetnosti Arsen",
+                  "text": "Kulturni centar u Šibeniku nazvan po glazbeniku Arsenu Dediću, mjesto za koncerte i filmske projekcije.",
+                  "category": "cultural",
+                  "coords": [
+                        15.891951,
+                        43.732744
+                  ]
+            },
+            {
+                  "name": "Welcome to Sibenik Sign",
+                  "text": "Natpis dobrodošlice na ulazu u Šibenik, popularno mjesto za fotografiranje posjetitelja.",
+                  "category": "landmark",
+                  "coords": [
+                        15.870808,
+                        43.726846
+                  ]
+            },
+            {
+                  "name": "Undersea tunnel",
+                  "text": "Bivši vojni tunel u kanalu sv. Ante, nekada korišten za zaklon ratnih brodova.",
+                  "category": "historical",
+                  "coords": [
+                        15.874264,
+                        43.727182
+                  ]
+            },
+            {
+                  "name": "Garden of St. Lawrence Monastery",
+                  "text": "Pomno obnovljeni srednjovjekovni samostanski vrt u kojem se uzgaja ljekovito bilje i začini.",
+                  "category": "landmark",
+                  "coords": [
+                        15.889486,
+                        43.736467
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Dominika",
+                  "text": "Elegantna gotička crkva iz 14. stoljeća smještena u povijesnoj jezgri Šibenika uz more.",
+                  "category": "religious",
+                  "coords": [
+                        15.888489,
+                        43.736506
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Šibenik", hu: "Sibenik", ro: "Šibenik", en: "Šibenik"},
@@ -279,7 +3068,423 @@ imageHint: "Sibenik St James Cathedral and waterfront",
     },
     image: "/poi-images/croatia-sibenik-cities-v2.webp",
 },  {
-    id: "croatia-sisak-cities-v2",
+    id: "croatia-sisak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradski muzej Sisak",
+                  "text": "Das Museum präsentiert die reiche Geschichte von Sisak, von der römischen Siedlung Segestica bis in die Neuzeit.",
+                  "category": "museum",
+                  "coords": [
+                        16.374248,
+                        45.483719
+                  ]
+            },
+            {
+                  "name": "Zibel",
+                  "text": "Ein beliebter Stadtstrand an der Kupa in Sisak.",
+                  "category": "recreational",
+                  "coords": [
+                        16.358766,
+                        45.477202
+                  ]
+            },
+            {
+                  "name": "Holandska kuća",
+                  "text": "Ein multifunktionales Kulturzentrum und Museum in einem historischen Getreidespeicher.",
+                  "category": "museum",
+                  "coords": [
+                        16.371034,
+                        45.487057
+                  ]
+            },
+            {
+                  "name": "Siscia in situ",
+                  "text": "Archäologische Fundstätte mit Überresten der antiken römischen Stadt Siscia.",
+                  "category": "historical",
+                  "coords": [
+                        16.372106,
+                        45.484084
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Ein Aussichtspunkt in Sisak, der einen Blick auf die Stadt und ihre Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.371706,
+                        45.472273
+                  ]
+            },
+            {
+                  "name": "crkva svetog Kvirina",
+                  "text": "Eine moderne Kirche in Sisak, die dem Schutzpatron der Stadt, dem heiligen Quirinus, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.371455,
+                        45.502197
+                  ]
+            },
+            {
+                  "name": "Stari most",
+                  "text": "Eine historische Backsteinbrücke über die Kupa, eines der bekanntesten Symbole von Sisak.",
+                  "category": "landmark",
+                  "coords": [
+                        16.370086,
+                        45.48284
+                  ]
+            },
+            {
+                  "name": "Brod Biokovo",
+                  "text": "Ein historisches Schiff, das als technisches Denkmal am Ufer der Kupa in Sisak ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.370022,
+                        45.487091
+                  ]
+            },
+            {
+                  "name": "JŽ 22-101",
+                  "text": "Eine historische Dampflokomotive, die als Denkmal am Bahnhof von Sisak steht.",
+                  "category": "landmark",
+                  "coords": [
+                        16.371797,
+                        45.492119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradski muzej Sisak",
+                  "text": "A múzeum Sziszek gazdag történelmét mutatja be a római Segestica településtől a modern korig.",
+                  "category": "museum",
+                  "coords": [
+                        16.374248,
+                        45.483719
+                  ]
+            },
+            {
+                  "name": "Zibel",
+                  "text": "Népszerű városi strand a Kupa folyó partján Sziszeken.",
+                  "category": "recreational",
+                  "coords": [
+                        16.358766,
+                        45.477202
+                  ]
+            },
+            {
+                  "name": "Holandska kuća",
+                  "text": "Többfunkciós kulturális központ és múzeum egy történelmi magtár épületében.",
+                  "category": "museum",
+                  "coords": [
+                        16.371034,
+                        45.487057
+                  ]
+            },
+            {
+                  "name": "Siscia in situ",
+                  "text": "Régészeti lelőhely az ókori római Siscia városának maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        16.372106,
+                        45.484084
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Kilátópont Sziszeken, ahonnan rálátás nyílik a városra és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        16.371706,
+                        45.472273
+                  ]
+            },
+            {
+                  "name": "crkva svetog Kvirina",
+                  "text": "Modern templom Sziszeken, amelyet a város védőszentjének, Szent Kvirinnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        16.371455,
+                        45.502197
+                  ]
+            },
+            {
+                  "name": "Stari most",
+                  "text": "Történelmi tégla híd a Kupa felett, Sziszek egyik legismertebb jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        16.370086,
+                        45.48284
+                  ]
+            },
+            {
+                  "name": "Brod Biokovo",
+                  "text": "Történelmi hajó, amely technikai műemlékként van kiállítva a Kupa partján Sziszeken.",
+                  "category": "landmark",
+                  "coords": [
+                        16.370022,
+                        45.487091
+                  ]
+            },
+            {
+                  "name": "JŽ 22-101",
+                  "text": "Történelmi gőzmozdony, amely emlékműként áll a sziszeki vasútállomáson.",
+                  "category": "landmark",
+                  "coords": [
+                        16.371797,
+                        45.492119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradski muzej Sisak",
+                  "text": "Muzeul prezintă istoria bogată a orașului Sisak, de la așezarea romană Segestica până în epoca modernă.",
+                  "category": "museum",
+                  "coords": [
+                        16.374248,
+                        45.483719
+                  ]
+            },
+            {
+                  "name": "Zibel",
+                  "text": "O plajă urbană populară pe malul râului Kupa în Sisak.",
+                  "category": "recreational",
+                  "coords": [
+                        16.358766,
+                        45.477202
+                  ]
+            },
+            {
+                  "name": "Holandska kuća",
+                  "text": "Un centru cultural multifuncțional și muzeu situat într-un depozit istoric de cereale.",
+                  "category": "museum",
+                  "coords": [
+                        16.371034,
+                        45.487057
+                  ]
+            },
+            {
+                  "name": "Siscia in situ",
+                  "text": "Sit arheologic cu vestigii ale vechiului oraș roman Siscia.",
+                  "category": "historical",
+                  "coords": [
+                        16.372106,
+                        45.484084
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Un punct de belvedere în Sisak care oferă o vedere asupra orașului și împrejurimilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        16.371706,
+                        45.472273
+                  ]
+            },
+            {
+                  "name": "crkva svetog Kvirina",
+                  "text": "O biserică modernă în Sisak dedicată patronului spiritual al orașului, Sfântul Quirin.",
+                  "category": "religious",
+                  "coords": [
+                        16.371455,
+                        45.502197
+                  ]
+            },
+            {
+                  "name": "Stari most",
+                  "text": "Un pod istoric din cărămidă peste râul Kupa, unul dintre simbolurile orașului Sisak.",
+                  "category": "landmark",
+                  "coords": [
+                        16.370086,
+                        45.48284
+                  ]
+            },
+            {
+                  "name": "Brod Biokovo",
+                  "text": "O navă istorică expusă ca monument tehnic pe malul râului Kupa în Sisak.",
+                  "category": "landmark",
+                  "coords": [
+                        16.370022,
+                        45.487091
+                  ]
+            },
+            {
+                  "name": "JŽ 22-101",
+                  "text": "O locomotivă cu abur istorică expusă ca monument lângă gara din Sisak.",
+                  "category": "landmark",
+                  "coords": [
+                        16.371797,
+                        45.492119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradski muzej Sisak",
+                  "text": "The museum presents the rich history of Sisak, from the Roman settlement of Segestica to modern times.",
+                  "category": "museum",
+                  "coords": [
+                        16.374248,
+                        45.483719
+                  ]
+            },
+            {
+                  "name": "Zibel",
+                  "text": "A popular urban beach on the banks of the Kupa River in Sisak.",
+                  "category": "recreational",
+                  "coords": [
+                        16.358766,
+                        45.477202
+                  ]
+            },
+            {
+                  "name": "Holandska kuća",
+                  "text": "A multifunctional cultural center and museum located in a historic granary building.",
+                  "category": "museum",
+                  "coords": [
+                        16.371034,
+                        45.487057
+                  ]
+            },
+            {
+                  "name": "Siscia in situ",
+                  "text": "Archaeological site featuring remains of the ancient Roman city of Siscia.",
+                  "category": "historical",
+                  "coords": [
+                        16.372106,
+                        45.484084
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "A viewpoint in Sisak offering views of the city and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        16.371706,
+                        45.472273
+                  ]
+            },
+            {
+                  "name": "crkva svetog Kvirina",
+                  "text": "A modern church in Sisak dedicated to the city's patron saint, Saint Quirinus.",
+                  "category": "religious",
+                  "coords": [
+                        16.371455,
+                        45.502197
+                  ]
+            },
+            {
+                  "name": "Stari most",
+                  "text": "A historic brick bridge over the Kupa, one of the most famous symbols of Sisak.",
+                  "category": "landmark",
+                  "coords": [
+                        16.370086,
+                        45.48284
+                  ]
+            },
+            {
+                  "name": "Brod Biokovo",
+                  "text": "A historic ship exhibited as a technical monument on the banks of the Kupa in Sisak.",
+                  "category": "landmark",
+                  "coords": [
+                        16.370022,
+                        45.487091
+                  ]
+            },
+            {
+                  "name": "JŽ 22-101",
+                  "text": "A historic steam locomotive displayed as a monument near the Sisak railway station.",
+                  "category": "landmark",
+                  "coords": [
+                        16.371797,
+                        45.492119
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Gradski muzej Sisak",
+                  "text": "Muzej prikazuje bogatu povijest Siska, od rimskog naselja Segestica do modernog doba.",
+                  "category": "museum",
+                  "coords": [
+                        16.374248,
+                        45.483719
+                  ]
+            },
+            {
+                  "name": "Zibel",
+                  "text": "Popularna gradska plaža na obali rijeke Kupe u Sisku.",
+                  "category": "recreational",
+                  "coords": [
+                        16.358766,
+                        45.477202
+                  ]
+            },
+            {
+                  "name": "Holandska kuća",
+                  "text": "Multifunkcionalni kulturni centar i muzej smješten u povijesnoj zgradi žitnog skladišta.",
+                  "category": "museum",
+                  "coords": [
+                        16.371034,
+                        45.487057
+                  ]
+            },
+            {
+                  "name": "Siscia in situ",
+                  "text": "Arheološki lokalitet s ostacima antičkoga rimskog grada Siscije.",
+                  "category": "historical",
+                  "coords": [
+                        16.372106,
+                        45.484084
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Vidikovac u Sisku koji pruža pogled na grad i okolicu.",
+                  "category": "natural",
+                  "coords": [
+                        16.371706,
+                        45.472273
+                  ]
+            },
+            {
+                  "name": "crkva svetog Kvirina",
+                  "text": "Moderna crkva u Sisku posvećena zaštitniku grada, svetom Kvirinu.",
+                  "category": "religious",
+                  "coords": [
+                        16.371455,
+                        45.502197
+                  ]
+            },
+            {
+                  "name": "Stari most",
+                  "text": "Povijesni zidani most preko Kupe, jedan od najpoznatijih simbola Siska.",
+                  "category": "landmark",
+                  "coords": [
+                        16.370086,
+                        45.48284
+                  ]
+            },
+            {
+                  "name": "Brod Biokovo",
+                  "text": "Povijesni brod izložen kao tehnički spomenik na obali Kupe u Sisku.",
+                  "category": "landmark",
+                  "coords": [
+                        16.370022,
+                        45.487091
+                  ]
+            },
+            {
+                  "name": "JŽ 22-101",
+                  "text": "Povijesna parna lokomotiva izložena kao spomenik uz željeznički kolodvor u Sisku.",
+                  "category": "landmark",
+                  "coords": [
+                        16.371797,
+                        45.492119
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Sisak", hu: "Sziszek", ro: "Sisak", en: "Sisak"},
@@ -325,7 +3530,243 @@ imageHint: "Sisak fortress Stari Grad triangular",
     },
     image: "/poi-images/croatia-sisak-cities-v2.webp",
 },  {
-    id: "croatia-vinkovci-cities-v2",
+    id: "croatia-vinkovci-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradski muzej Vinkovci",
+                  "text": "Das Stadtmuseum zeigt die reiche Geschichte von Vinkovci, einschließlich des Orions, des ältesten indogermanischen Kalenders.",
+                  "category": "museum",
+                  "coords": [
+                        18.803696,
+                        45.288319
+                  ]
+            },
+            {
+                  "name": "Arheološko nalazište Cibalae na lokaciji I.Gundulića 37",
+                  "text": "Diese archäologische Ausgrabungsstätte in Vinkovci enthält Überreste der antiken römischen Stadt Cibalae.",
+                  "category": "historical",
+                  "coords": [
+                        18.799653,
+                        45.289873
+                  ]
+            },
+            {
+                  "name": "Stolica",
+                  "text": "Ein riesiges Denkmal in Form eines Holzstuhls, das im Stadtpark von Vinkovci steht.",
+                  "category": "landmark",
+                  "coords": [
+                        18.797278,
+                        45.288156
+                  ]
+            },
+            {
+                  "name": "Crkva Silaska sv. Duha",
+                  "text": "Die orthodoxe Kirche zum Heiligen Geist ist ein bedeutendes religiöses Gebäude in Vinkovci.",
+                  "category": "religious",
+                  "coords": [
+                        18.806715,
+                        45.288177
+                  ]
+            },
+            {
+                  "name": "lokomotiva HDŽ/JŽ 51-133",
+                  "text": "Eine historische Dampflokomotive, die als Denkmal in der Nähe des Bahnhofs von Vinkovci erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.803423,
+                        45.299715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradski muzej Vinkovci",
+                  "text": "A városi múzeum Vinkovci gazdag történelmét mutatja be, itt őrzik az Oriont, a legrégebbi indoeurópai naptárat.",
+                  "category": "museum",
+                  "coords": [
+                        18.803696,
+                        45.288319
+                  ]
+            },
+            {
+                  "name": "Arheološko nalazište Cibalae na lokaciji I.Gundulića 37",
+                  "text": "Ez a vinkovci régészeti lelőhely az ókori római város, Cibalae maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        18.799653,
+                        45.289873
+                  ]
+            },
+            {
+                  "name": "Stolica",
+                  "text": "Egy óriási fából készült szék emlékmű, amely Vinkovci központi parkjában található.",
+                  "category": "landmark",
+                  "coords": [
+                        18.797278,
+                        45.288156
+                  ]
+            },
+            {
+                  "name": "Crkva Silaska sv. Duha",
+                  "text": "A Szentlélek eljövetele ortodox templom Vinkovci egyik jelentős egyházi épülete.",
+                  "category": "religious",
+                  "coords": [
+                        18.806715,
+                        45.288177
+                  ]
+            },
+            {
+                  "name": "lokomotiva HDŽ/JŽ 51-133",
+                  "text": "Történelmi gőzmozdony, amelyet emlékműként őriztek meg a vinkovci vasútállomás közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.803423,
+                        45.299715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradski muzej Vinkovci",
+                  "text": "Muzeul orașului prezintă istoria bogată a localității Vinkovci, adăpostind Orion, cel mai vechi calendar indo-european.",
+                  "category": "museum",
+                  "coords": [
+                        18.803696,
+                        45.288319
+                  ]
+            },
+            {
+                  "name": "Arheološko nalazište Cibalae na lokaciji I.Gundulića 37",
+                  "text": "Acest sit arheologic din Vinkovci conține rămășițele vechiului oraș roman Cibalae.",
+                  "category": "historical",
+                  "coords": [
+                        18.799653,
+                        45.289873
+                  ]
+            },
+            {
+                  "name": "Stolica",
+                  "text": "Un monument sub forma unui scaun uriaș de lemn situat în parcul central din Vinkovci.",
+                  "category": "landmark",
+                  "coords": [
+                        18.797278,
+                        45.288156
+                  ]
+            },
+            {
+                  "name": "Crkva Silaska sv. Duha",
+                  "text": "Biserica Ortodoxă Pogorârea Sfântului Duh este un edificiu religios notabil din Vinkovci.",
+                  "category": "religious",
+                  "coords": [
+                        18.806715,
+                        45.288177
+                  ]
+            },
+            {
+                  "name": "lokomotiva HDŽ/JŽ 51-133",
+                  "text": "O locomotivă cu abur istorică păstrată ca monument în apropierea gării din Vinkovci.",
+                  "category": "landmark",
+                  "coords": [
+                        18.803423,
+                        45.299715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradski muzej Vinkovci",
+                  "text": "The city museum showcases the rich history of Vinkovci, including the Orion, the oldest known Indo-European calendar.",
+                  "category": "museum",
+                  "coords": [
+                        18.803696,
+                        45.288319
+                  ]
+            },
+            {
+                  "name": "Arheološko nalazište Cibalae na lokaciji I.Gundulića 37",
+                  "text": "This archaeological site in Vinkovci contains remains of the ancient Roman city of Cibalae.",
+                  "category": "historical",
+                  "coords": [
+                        18.799653,
+                        45.289873
+                  ]
+            },
+            {
+                  "name": "Stolica",
+                  "text": "A giant wooden chair monument located in the central park of Vinkovci.",
+                  "category": "landmark",
+                  "coords": [
+                        18.797278,
+                        45.288156
+                  ]
+            },
+            {
+                  "name": "Crkva Silaska sv. Duha",
+                  "text": "The Orthodox Church of the Descent of the Holy Spirit is a notable religious building in Vinkovci.",
+                  "category": "religious",
+                  "coords": [
+                        18.806715,
+                        45.288177
+                  ]
+            },
+            {
+                  "name": "lokomotiva HDŽ/JŽ 51-133",
+                  "text": "A historic steam locomotive preserved as a monument near the Vinkovci railway station.",
+                  "category": "landmark",
+                  "coords": [
+                        18.803423,
+                        45.299715
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Gradski muzej Vinkovci",
+                  "text": "Gradski muzej prikazuje bogatu povijest Vinkovaca, uključujući Orion, najstariji poznati indoeuropski kalendar.",
+                  "category": "museum",
+                  "coords": [
+                        18.803696,
+                        45.288319
+                  ]
+            },
+            {
+                  "name": "Arheološko nalazište Cibalae na lokaciji I.Gundulića 37",
+                  "text": "Ovo arheološko nalazište u Vinkovcima sadrži ostatke antičkog rimskog grada Cibalae.",
+                  "category": "historical",
+                  "coords": [
+                        18.799653,
+                        45.289873
+                  ]
+            },
+            {
+                  "name": "Stolica",
+                  "text": "Velika drvena stolica spomenik je koji se nalazi u središnjem parku u Vinkovcima.",
+                  "category": "landmark",
+                  "coords": [
+                        18.797278,
+                        45.288156
+                  ]
+            },
+            {
+                  "name": "Crkva Silaska sv. Duha",
+                  "text": "Pravoslavna crkva Silaska svetog Duha značajna je vjerska građevina u Vinkovcima.",
+                  "category": "religious",
+                  "coords": [
+                        18.806715,
+                        45.288177
+                  ]
+            },
+            {
+                  "name": "lokomotiva HDŽ/JŽ 51-133",
+                  "text": "Povijesna parna lokomotiva sačuvana kao spomenik u blizini željezničkog kolodvora u Vinkovcima.",
+                  "category": "landmark",
+                  "coords": [
+                        18.803423,
+                        45.299715
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Vinkovci", hu: "Vinkovce", ro: "Vinkovci", en: "Vinkovci"},
@@ -371,7 +3812,243 @@ imageHint: "Vinkovci central square and church",
     },
     image: "/poi-images/croatia-vinkovci-cities-v2.webp",
 },  {
-    id: "croatia-velika-gorica-cities-v2",
+    id: "croatia-velika-gorica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej Turopolja",
+                  "text": "Das im alten Rathaus untergebrachte Museum präsentiert das kulturelle und historische Erbe der Region Turopolje.",
+                  "category": "museum",
+                  "coords": [
+                        16.076073,
+                        45.714127
+                  ]
+            },
+            {
+                  "name": "Dvor Jelačić",
+                  "text": "Ruinen des historischen Herrenhauses der Adelsfamilie Jelačić in Velika Gorica.",
+                  "category": "historical",
+                  "coords": [
+                        16.059052,
+                        45.702599
+                  ]
+            },
+            {
+                  "name": "Dvor Josipović",
+                  "text": "Die Überreste des Herrenhauses der Familie Josipović, die die historische Architektur der Gegend repräsentieren.",
+                  "category": "historical",
+                  "coords": [
+                        16.076117,
+                        45.698627
+                  ]
+            },
+            {
+                  "name": "kapela svete Filomene",
+                  "text": "Eine kleine barocke Kapelle in Velika Gorica, die Ende des 19. Jahrhunderts erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        16.059039,
+                        45.720686
+                  ]
+            },
+            {
+                  "name": "kapelica Ranjenog Isusa",
+                  "text": "Diese Kapelle aus dem 18. Jahrhundert wurde aus Dankbarkeit für die Bewahrung der Ernte nach einem schweren Sturm errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        16.058721,
+                        45.726231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej Turopolja",
+                  "text": "A régi városházán helyet kapó múzeum a Turopolje régió kulturális és történelmi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.076073,
+                        45.714127
+                  ]
+            },
+            {
+                  "name": "Dvor Jelačić",
+                  "text": "A nemesi Jelačić család egykori történelmi kúriájának romjai Velika Goricában.",
+                  "category": "historical",
+                  "coords": [
+                        16.059052,
+                        45.702599
+                  ]
+            },
+            {
+                  "name": "Dvor Josipović",
+                  "text": "A Josipović család kúriájának maradványai, amelyek a környék történelmi építészetét képviselik.",
+                  "category": "historical",
+                  "coords": [
+                        16.076117,
+                        45.698627
+                  ]
+            },
+            {
+                  "name": "kapela svete Filomene",
+                  "text": "Egy kis barokk kápolna Velika Goricában, amely a 19. század végén épült.",
+                  "category": "religious",
+                  "coords": [
+                        16.059039,
+                        45.720686
+                  ]
+            },
+            {
+                  "name": "kapelica Ranjenog Isusa",
+                  "text": "Ez a 18. századi kápolna hálából épült a termés megmeneküléséért egy hatalmas vihar után.",
+                  "category": "religious",
+                  "coords": [
+                        16.058721,
+                        45.726231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej Turopolja",
+                  "text": "Situat în vechea primărie, muzeul prezintă moștenirea culturală și istorică a regiunii Turopolje.",
+                  "category": "museum",
+                  "coords": [
+                        16.076073,
+                        45.714127
+                  ]
+            },
+            {
+                  "name": "Dvor Jelačić",
+                  "text": "Ruinele conacului istoric aparținând familiei nobiliare Jelačić din Velika Gorica.",
+                  "category": "historical",
+                  "coords": [
+                        16.059052,
+                        45.702599
+                  ]
+            },
+            {
+                  "name": "Dvor Josipović",
+                  "text": "Rămășițele conacului familiei Josipović, reprezentând arhitectura istorică a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        16.076117,
+                        45.698627
+                  ]
+            },
+            {
+                  "name": "kapela svete Filomene",
+                  "text": "O mică capelă barocă din Velika Gorica, construită la sfârșitul secolului al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        16.059039,
+                        45.720686
+                  ]
+            },
+            {
+                  "name": "kapelica Ranjenog Isusa",
+                  "text": "Această capelă din secolul al XVIII-lea a fost construită în semn de recunoștință pentru salvarea recoltelor după o furtună.",
+                  "category": "religious",
+                  "coords": [
+                        16.058721,
+                        45.726231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej Turopolja",
+                  "text": "Located in the old Town Hall, the museum presents the cultural and historical heritage of the Turopolje region.",
+                  "category": "museum",
+                  "coords": [
+                        16.076073,
+                        45.714127
+                  ]
+            },
+            {
+                  "name": "Dvor Jelačić",
+                  "text": "Ruins of the historic manor house belonging to the noble Jelačić family in Velika Gorica.",
+                  "category": "historical",
+                  "coords": [
+                        16.059052,
+                        45.702599
+                  ]
+            },
+            {
+                  "name": "Dvor Josipović",
+                  "text": "The remains of the Josipović family manor house, representing the historical architecture of the area.",
+                  "category": "historical",
+                  "coords": [
+                        16.076117,
+                        45.698627
+                  ]
+            },
+            {
+                  "name": "kapela svete Filomene",
+                  "text": "A small Baroque chapel in Velika Gorica built in the late 19th century.",
+                  "category": "religious",
+                  "coords": [
+                        16.059039,
+                        45.720686
+                  ]
+            },
+            {
+                  "name": "kapelica Ranjenog Isusa",
+                  "text": "This 18th-century chapel was built in gratitude for the preservation of crops after a major storm.",
+                  "category": "religious",
+                  "coords": [
+                        16.058721,
+                        45.726231
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Muzej Turopolja",
+                  "text": "Smješten u staroj gradskoj vijećnici, muzej predstavlja kulturnu i povijesnu baštinu regije Turopolje.",
+                  "category": "museum",
+                  "coords": [
+                        16.076073,
+                        45.714127
+                  ]
+            },
+            {
+                  "name": "Dvor Jelačić",
+                  "text": "Ruševine povijesnog dvorca plemićke obitelji Jelačić u Velikoj Gorici.",
+                  "category": "historical",
+                  "coords": [
+                        16.059052,
+                        45.702599
+                  ]
+            },
+            {
+                  "name": "Dvor Josipović",
+                  "text": "Ostaci dvorca obitelji Josipović koji predstavljaju povijesnu arhitekturu ovoga kraja.",
+                  "category": "historical",
+                  "coords": [
+                        16.076117,
+                        45.698627
+                  ]
+            },
+            {
+                  "name": "kapela svete Filomene",
+                  "text": "Mala barokna kapela u Velikoj Gorici izgrađena krajem 19. stoljeća.",
+                  "category": "religious",
+                  "coords": [
+                        16.059039,
+                        45.720686
+                  ]
+            },
+            {
+                  "name": "kapelica Ranjenog Isusa",
+                  "text": "Ova kapela iz 18. stoljeća izgrađena je u znak zahvalnosti za očuvanje usjeva nakon velikog nevremena.",
+                  "category": "religious",
+                  "coords": [
+                        16.058721,
+                        45.726231
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Velika Gorica", hu: "Nagygoricza", ro: "Velika Gorica", en: "Velika Gorica"},
@@ -465,7 +4142,423 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-vukovar-cities-v2",
+    id: "croatia-vukovar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradski muzej Vukovar",
+                  "text": "Das Stadtmuseum befindet sich im Schloss Eltz und zeigt Exponate zur lokalen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        19.000158,
+                        45.354761
+                  ]
+            },
+            {
+                  "name": "Memorijalni centar Domovinskog rata",
+                  "text": "Ein Gedenkzentrum, das der Verteidigung von Vukovar und den Opfern des Heimatkrieges gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.004682,
+                        45.338048
+                  ]
+            },
+            {
+                  "name": "Adrenalinski park",
+                  "text": "Ein Abenteuerpark im Wald Adica, der Kletterparcours und verschiedene Outdoor-Aktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.973775,
+                        45.35266
+                  ]
+            },
+            {
+                  "name": "Rodna kuća Lavoslava Ružičke",
+                  "text": "Das Geburtshaus des Nobelpreisträgers Lavoslav Ružička, das als Museum und Tagungsort dient.",
+                  "category": "museum",
+                  "coords": [
+                        19.000542,
+                        45.353799
+                  ]
+            },
+            {
+                  "name": "Wasserturm von Vukovar",
+                  "text": "Ein ikonisches Denkmal und Symbol des Widerstands, das an die Zerstörung der Stadt 1991 erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        19.012278,
+                        45.34401
+                  ]
+            },
+            {
+                  "name": "Dudik-Gedenkpark",
+                  "text": "Ein Gedenkpark für die Opfer des Faschismus, die hier während des Zweiten Weltkriegs hingerichtet wurden.",
+                  "category": "park",
+                  "coords": [
+                        19.017432,
+                        45.330258
+                  ]
+            },
+            {
+                  "name": "Željeznički kolodvor Vukovar",
+                  "text": "Die Ruinen des Bahnhofs von Vukovar, die als Mahnmal für die Kriegszerstörungen erhalten wurden.",
+                  "category": "historical",
+                  "coords": [
+                        18.98794,
+                        45.36166
+                  ]
+            },
+            {
+                  "name": "crkva svetih Filipa i Jakova",
+                  "text": "Eine bedeutende Barockkirche und ein Franziskanerkloster auf einer Anhöhe über der Donau.",
+                  "category": "religious",
+                  "coords": [
+                        19.007236,
+                        45.34723
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole",
+                  "text": "Eine serbisch-orthodoxe Kirche aus dem 18. Jahrhundert im historischen Zentrum von Vukovar.",
+                  "category": "religious",
+                  "coords": [
+                        19.002395,
+                        45.348546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradski muzej Vukovar",
+                  "text": "A városi múzeum az Eltz-kastélyban található, és a település gazdag történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.000158,
+                        45.354761
+                  ]
+            },
+            {
+                  "name": "Memorijalni centar Domovinskog rata",
+                  "text": "Vukovar védelmének és a horvát függetlenségi háború áldozatainak szentelt emlékhely.",
+                  "category": "museum",
+                  "coords": [
+                        19.004682,
+                        45.338048
+                  ]
+            },
+            {
+                  "name": "Adrenalinski park",
+                  "text": "Az Adica-erdőben található kalandpark, amely mászópályákat és szabadtéri kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.973775,
+                        45.35266
+                  ]
+            },
+            {
+                  "name": "Rodna kuća Lavoslava Ružičke",
+                  "text": "Lavoslav Ružička Nobel-díjas kémikus szülőháza, amely ma múzeum és konferenciaközpont.",
+                  "category": "museum",
+                  "coords": [
+                        19.000542,
+                        45.353799
+                  ]
+            },
+            {
+                  "name": "Vukovári víztorony",
+                  "text": "Ikonikus emlékmű és az ellenállás jelképe, amely a város 1991-es ostromára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        19.012278,
+                        45.34401
+                  ]
+            },
+            {
+                  "name": "Spomen park Dudik",
+                  "text": "Emlékpark a második világháború alatt itt kivégzett antifasiszta áldozatok tiszteletére.",
+                  "category": "park",
+                  "coords": [
+                        19.017432,
+                        45.330258
+                  ]
+            },
+            {
+                  "name": "Željeznički kolodvor Vukovar",
+                  "text": "A vukovári vasútállomás romjai, amelyeket a háborús pusztítás mementójaként őriztek meg.",
+                  "category": "historical",
+                  "coords": [
+                        18.98794,
+                        45.36166
+                  ]
+            },
+            {
+                  "name": "crkva svetih Filipa i Jakova",
+                  "text": "Jelentős barokk templom és ferences kolostor a Duna fölé magasodó dombon.",
+                  "category": "religious",
+                  "coords": [
+                        19.007236,
+                        45.34723
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole",
+                  "text": "18. századi szerb ortodox templom Vukovar történelmi belvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        19.002395,
+                        45.348546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradski muzej Vukovar",
+                  "text": "Muzeul orașului este situat în Castelul Eltz și prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        19.000158,
+                        45.354761
+                  ]
+            },
+            {
+                  "name": "Memorijalni centar Domovinskog rata",
+                  "text": "Un centru memorial dedicat apărării orașului și victimelor Războiului de Independență.",
+                  "category": "museum",
+                  "coords": [
+                        19.004682,
+                        45.338048
+                  ]
+            },
+            {
+                  "name": "Adrenalinski park",
+                  "text": "Un parc de aventură în pădurea Adica, oferind trasee de escaladă și activități în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        18.973775,
+                        45.35266
+                  ]
+            },
+            {
+                  "name": "Rodna kuća Lavoslava Ružičke",
+                  "text": "Casa natală a laureatului Premiului Nobel Lavoslav Ružička, utilizată ca muzeu și spațiu de congrese.",
+                  "category": "museum",
+                  "coords": [
+                        19.000542,
+                        45.353799
+                  ]
+            },
+            {
+                  "name": "Vukovarski vodotoranj",
+                  "text": "Un monument iconic și simbol al rezistenței, care amintește de suferințele orașului din 1991.",
+                  "category": "historical",
+                  "coords": [
+                        19.012278,
+                        45.34401
+                  ]
+            },
+            {
+                  "name": "Spomen park Dudik",
+                  "text": "Un parc memorial dedicat victimelor fascismului executate aici în timpul celui de-al Doilea Război Mondial.",
+                  "category": "park",
+                  "coords": [
+                        19.017432,
+                        45.330258
+                  ]
+            },
+            {
+                  "name": "Željeznički kolodvor Vukovar",
+                  "text": "Ruinele gării din Vukovar, păstrate ca mărturie a distrugerilor provocate de război.",
+                  "category": "historical",
+                  "coords": [
+                        18.98794,
+                        45.36166
+                  ]
+            },
+            {
+                  "name": "crkva svetih Filipa i Jakova",
+                  "text": "O importantă biserică barocă și mănăstire franciscană situată pe o colină deasupra Dunării.",
+                  "category": "religious",
+                  "coords": [
+                        19.007236,
+                        45.34723
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole",
+                  "text": "O biserică ortodoxă sârbă din secolul al XVIII-lea aflată în centrul istoric al Vukovaru-lui.",
+                  "category": "religious",
+                  "coords": [
+                        19.002395,
+                        45.348546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradski muzej Vukovar",
+                  "text": "The city museum is located in the Eltz Manor and showcases the local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        19.000158,
+                        45.354761
+                  ]
+            },
+            {
+                  "name": "Memorijalni centar Domovinskog rata",
+                  "text": "A memorial center dedicated to the defense of the city and the victims of the Homeland War.",
+                  "category": "museum",
+                  "coords": [
+                        19.004682,
+                        45.338048
+                  ]
+            },
+            {
+                  "name": "Adrenalinski park",
+                  "text": "An adventure park in the Adica forest offering climbing courses and outdoor recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.973775,
+                        45.35266
+                  ]
+            },
+            {
+                  "name": "Rodna kuća Lavoslava Ružičke",
+                  "text": "The birth house of Nobel laureate Lavoslav Ružička, serving as a museum and conference venue.",
+                  "category": "museum",
+                  "coords": [
+                        19.000542,
+                        45.353799
+                  ]
+            },
+            {
+                  "name": "Vukovar water tower",
+                  "text": "An iconic monument and symbol of resistance, commemorating the city's suffering in 1991.",
+                  "category": "historical",
+                  "coords": [
+                        19.012278,
+                        45.34401
+                  ]
+            },
+            {
+                  "name": "Dudik Memorial Park",
+                  "text": "A memorial park dedicated to the victims of fascism executed here during World War II.",
+                  "category": "park",
+                  "coords": [
+                        19.017432,
+                        45.330258
+                  ]
+            },
+            {
+                  "name": "Željeznički kolodvor Vukovar",
+                  "text": "The ruins of the Vukovar railway station, preserved as a witness to war destruction.",
+                  "category": "historical",
+                  "coords": [
+                        18.98794,
+                        45.36166
+                  ]
+            },
+            {
+                  "name": "crkva svetih Filipa i Jakova",
+                  "text": "A significant Baroque church and Franciscan monastery situated on a hill overlooking the Danube.",
+                  "category": "religious",
+                  "coords": [
+                        19.007236,
+                        45.34723
+                  ]
+            },
+            {
+                  "name": "Church of St. Nicholas",
+                  "text": "An 18th-century Serbian Orthodox church located in the historic center of Vukovar.",
+                  "category": "religious",
+                  "coords": [
+                        19.002395,
+                        45.348546
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Gradski muzej Vukovar",
+                  "text": "Gradski muzej smješten je u dvorcu Eltz i čuva bogatu zbirku vukovarske povijesti i kulture.",
+                  "category": "museum",
+                  "coords": [
+                        19.000158,
+                        45.354761
+                  ]
+            },
+            {
+                  "name": "Memorijalni centar Domovinskog rata",
+                  "text": "Memorijalni centar posvećen obrani grada i žrtvama Domovinskog rata u Vukovaru.",
+                  "category": "museum",
+                  "coords": [
+                        19.004682,
+                        45.338048
+                  ]
+            },
+            {
+                  "name": "Adrenalinski park",
+                  "text": "Adrenalinski park u park-šumi Adica koji nudi razne staze za penjanje i zabavu na otvorenom.",
+                  "category": "recreational",
+                  "coords": [
+                        18.973775,
+                        45.35266
+                  ]
+            },
+            {
+                  "name": "Rodna kuća Lavoslava Ružičke",
+                  "text": "Rodna kuća nobelovca Lavoslava Ružičke koja danas služi kao muzej i kongresni centar.",
+                  "category": "museum",
+                  "coords": [
+                        19.000542,
+                        45.353799
+                  ]
+            },
+            {
+                  "name": "Vukovar water tower",
+                  "text": "Ikonični simbol otpora i stradanja grada koji je očuvan u izvornom stanju nakon razaranja 1991.",
+                  "category": "historical",
+                  "coords": [
+                        19.012278,
+                        45.34401
+                  ]
+            },
+            {
+                  "name": "Dudik Memorial Park",
+                  "text": "Spomen-park posvećen žrtvama fašizma strijeljanim na ovom mjestu tijekom Drugog svjetskog rata.",
+                  "category": "park",
+                  "coords": [
+                        19.017432,
+                        45.330258
+                  ]
+            },
+            {
+                  "name": "Željeznički kolodvor Vukovar",
+                  "text": "Ruševine željezničkog kolodvora sačuvane kao trajni spomen na ratna razaranja u Vukovaru.",
+                  "category": "historical",
+                  "coords": [
+                        18.98794,
+                        45.36166
+                  ]
+            },
+            {
+                  "name": "crkva svetih Filipa i Jakova",
+                  "text": "Povijesna franjevačka crkva i samostan koji se nalaze na uzvisini s koje se pruža pogled na Dunav.",
+                  "category": "religious",
+                  "coords": [
+                        19.007236,
+                        45.34723
+                  ]
+            },
+            {
+                  "name": "Church of St. Nicholas",
+                  "text": "Srpska pravoslavna saborna crkva iz 18. stoljeća smještena u staroj gradskoj jezgri Vukovara.",
+                  "category": "religious",
+                  "coords": [
+                        19.002395,
+                        45.348546
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Vukovar", hu: "Vukovár", ro: "Vukovar", en: "Vukovar"},
@@ -512,7 +4605,1053 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-bjelovar-cities-v2",
+    id: "croatia-bjelovar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rimsko ruralno naselje Lug",
+                  "text": "Eine archäologische Fundstelle bei Bjelovar mit den Überresten einer römischen ländlichen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        16.872595,
+                        45.904226
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "Ein Kulturzentrum in Bjelovar, das in der ehemaligen Synagoge aus dem frühen 20. Jahrhundert untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.844021,
+                        45.900362
+                  ]
+            },
+            {
+                  "name": "Stalni muzejski postav Domovinskog rata",
+                  "text": "Eine ständige Museumsausstellung in Bjelovar, die dem kroatischen Unabhängigkeitskrieg gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.839253,
+                        45.899822
+                  ]
+            },
+            {
+                  "name": "Novoseljani - antička nekropola Crkveno Polje",
+                  "text": "Eine antike Nekropole und archäologische Fundstätte im Gebiet von Novoseljani bei Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.869777,
+                        45.891542
+                  ]
+            },
+            {
+                  "name": "Utvrda Ilinac",
+                  "text": "Die Überreste einer historischen Befestigungsanlage und archäologische Stätte in Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.856089,
+                        45.923486
+                  ]
+            },
+            {
+                  "name": "Brezovch",
+                  "text": "Eine archäologische Ausgrabungsstätte in Bjelovar, die Spuren früherer Besiedlung bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        16.836164,
+                        45.878862
+                  ]
+            },
+            {
+                  "name": "Plauna",
+                  "text": "Ein lokaler archäologischer Fundort in Bjelovar mit Überresten aus der Vergangenheit.",
+                  "category": "historical",
+                  "coords": [
+                        16.809327,
+                        45.887741
+                  ]
+            },
+            {
+                  "name": "Bjelovarsko kazalište",
+                  "text": "Das Theater von Bjelovar ist ein zentraler Ort für Schauspiel und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.842265,
+                        45.897594
+                  ]
+            },
+            {
+                  "name": "Donja Česmica",
+                  "text": "Eine archäologische Stätte in der Region Bjelovar, die für die Erforschung der Lokalgeschichte wichtig ist.",
+                  "category": "historical",
+                  "coords": [
+                        16.871558,
+                        45.891052
+                  ]
+            },
+            {
+                  "name": "Trg hrvatskih branitelja",
+                  "text": "Ein gepflegter Parkplatz im Zentrum von Bjelovar, der den kroatischen Verteidigern gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        16.839954,
+                        45.901632
+                  ]
+            },
+            {
+                  "name": "Trg Stjepana Radića",
+                  "text": "Ein öffentlicher Platz in Bjelovar, benannt nach dem kroatischen Politiker Stjepan Radić.",
+                  "category": "park",
+                  "coords": [
+                        16.837302,
+                        45.899162
+                  ]
+            },
+            {
+                  "name": "Trg Eugena Kvaternika",
+                  "text": "Der zentrale Platz von Bjelovar mit einem großen Park und einem charakteristischen Musikpavillon.",
+                  "category": "park",
+                  "coords": [
+                        16.84223,
+                        45.898704
+                  ]
+            },
+            {
+                  "name": "Šetalište dr. Ivše Lebovića",
+                  "text": "Eine beliebte Promenade in Bjelovar, benannt nach dem Arzt und Bürgermeister Ivša Lebović.",
+                  "category": "park",
+                  "coords": [
+                        16.846274,
+                        45.900158
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Ein religiöses Denkmal in Form eines Kruzifixes an einem öffentlichen Ort in Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.869849,
+                        45.893356
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva serije MÁV 375,912",
+                  "text": "Eine historische Dampflokomotive der Serie MÁV 375, die als Denkmal in Bjelovar ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.844037,
+                        45.893993
+                  ]
+            },
+            {
+                  "name": "Raspelo Vrazov trg",
+                  "text": "Ein religiöses Denkmal in Form eines Kruzifixes am Vraz-Platz in Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.839574,
+                        45.896243
+                  ]
+            },
+            {
+                  "name": "Herkov mlin",
+                  "text": "Die Ruinen einer ehemaligen Mühle in Bjelovar, die an die lokale Wirtschaftsgeschichte erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        16.851356,
+                        45.886018
+                  ]
+            },
+            {
+                  "name": "Raspelo Nove Plavnice 1894.",
+                  "text": "Ein steinernes Kruzifix aus dem Jahr 1894 im Stadtteil Nove Plavnice in Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.82037,
+                        45.90376
+                  ]
+            },
+            {
+                  "name": "hram Svete Trojice",
+                  "text": "Diese serbisch-orthodoxe Kirche in Bjelovar wurde Ende des 18. Jahrhunderts erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        16.840382,
+                        45.898485
+                  ]
+            },
+            {
+                  "name": "Toranj Silos",
+                  "text": "Ein markanter Getreidesilo in Bjelovar, der Teil des ehemaligen Dampfmühlenkomplexes ist.",
+                  "category": "tower",
+                  "coords": [
+                        16.843132,
+                        45.904417
+                  ]
+            },
+            {
+                  "name": "crkva Sv. Križa",
+                  "text": "Eine katholische Kirche in Bjelovar, die der Verehrung des Heiligen Kreuzes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.851407,
+                        45.900463
+                  ]
+            },
+            {
+                  "name": "crkva svete Ane",
+                  "text": "Eine im 20. Jahrhundert erbaute katholische Pfarrkirche im südlichen Teil von Bjelovar.",
+                  "category": "religious",
+                  "coords": [
+                        16.816095,
+                        45.906507
+                  ]
+            },
+            {
+                  "name": "katedrala svete Terezije Avilske",
+                  "text": "Die barocke Kathedrale von Bjelovar wurde zwischen 1765 und 1770 zu Ehren der Heiligen Teresa erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        16.843359,
+                        45.898153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rimsko ruralno naselje Lug",
+                  "text": "Régészeti lelőhely Belovár közelében, egy római kori vidéki település maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        16.872595,
+                        45.904226
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "Kulturális központ Belovárban, amely az eredetileg zsinagógának épült épületben kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        16.844021,
+                        45.900362
+                  ]
+            },
+            {
+                  "name": "Stalni muzejski postav Domovinskog rata",
+                  "text": "A bjelovari múzeum állandó kiállítása, amely a horvát függetlenségi háború eseményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.839253,
+                        45.899822
+                  ]
+            },
+            {
+                  "name": "Novoseljani - antička nekropola Crkveno Polje",
+                  "text": "Ókori nekropolisz és régészeti lelőhely Bjelovar közelében, Novoseljani területén.",
+                  "category": "historical",
+                  "coords": [
+                        16.869777,
+                        45.891542
+                  ]
+            },
+            {
+                  "name": "Utvrda Ilinac",
+                  "text": "Történelmi erődítmény maradványai és régészeti lelőhely Bjelovar területén.",
+                  "category": "historical",
+                  "coords": [
+                        16.856089,
+                        45.923486
+                  ]
+            },
+            {
+                  "name": "Brezovch",
+                  "text": "Régészeti lelőhely Bjelovarban, amely korai települések nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        16.836164,
+                        45.878862
+                  ]
+            },
+            {
+                  "name": "Plauna",
+                  "text": "Helyi régészeti lelőhely Bjelovarban, ahol múltbéli építmények maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        16.809327,
+                        45.887741
+                  ]
+            },
+            {
+                  "name": "Bjelovarsko kazalište",
+                  "text": "A bjelovari színház a város kulturális életének és a színművészetnek a központja.",
+                  "category": "cultural",
+                  "coords": [
+                        16.842265,
+                        45.897594
+                  ]
+            },
+            {
+                  "name": "Alsócsezmice",
+                  "text": "Régészeti lelőhely Bjelovar térségében, amely fontos a helytörténeti kutatások számára.",
+                  "category": "historical",
+                  "coords": [
+                        16.871558,
+                        45.891052
+                  ]
+            },
+            {
+                  "name": "Trg hrvatskih branitelja",
+                  "text": "Gondozott park Bjelovar központjában, amelyet a horvát honvédők emlékének szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        16.839954,
+                        45.901632
+                  ]
+            },
+            {
+                  "name": "Trg Stjepana Radića",
+                  "text": "Bjelovari közpark, amely a neves politikus, Stjepan Radić nevét viseli.",
+                  "category": "park",
+                  "coords": [
+                        16.837302,
+                        45.899162
+                  ]
+            },
+            {
+                  "name": "Trg Eugena Kvaternika",
+                  "text": "Bjelovar központi tere hatalmas parkkal és egy jellegzetes zenepavilonnal.",
+                  "category": "park",
+                  "coords": [
+                        16.84223,
+                        45.898704
+                  ]
+            },
+            {
+                  "name": "Šetalište dr. Ivše Lebovića",
+                  "text": "Népszerű bjelovari sétány, amely Ivša Lebović orvosról és polgármesterről kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        16.846274,
+                        45.900158
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Vallási emlékmű, egy keresztfeszület Bjelovar egyik közterületén.",
+                  "category": "historical",
+                  "coords": [
+                        16.869849,
+                        45.893356
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva serije MÁV 375,912",
+                  "text": "Egy Bjelovarban kiállított MÁV 375-ös sorozatú gőzmozdony, amely ipari emlék.",
+                  "category": "landmark",
+                  "coords": [
+                        16.844037,
+                        45.893993
+                  ]
+            },
+            {
+                  "name": "Raspelo Vrazov trg",
+                  "text": "Vallási emlékkereszt Bjelovarban, a Vraz téren.",
+                  "category": "historical",
+                  "coords": [
+                        16.839574,
+                        45.896243
+                  ]
+            },
+            {
+                  "name": "Herkov mlin",
+                  "text": "Egy egykori malom romjai Bjelovarban, amelyek a helyi ipartörténetet idézik.",
+                  "category": "historical",
+                  "coords": [
+                        16.851356,
+                        45.886018
+                  ]
+            },
+            {
+                  "name": "Raspelo Nove Plavnice 1894.",
+                  "text": "1894-ben állított fogadalmi kereszt Bjelovar Nove Plavnice városrészében.",
+                  "category": "historical",
+                  "coords": [
+                        16.82037,
+                        45.90376
+                  ]
+            },
+            {
+                  "name": "hram Svete Trojice",
+                  "text": "Ez a bjelovari szerb ortodox templom a 18. század végén épült.",
+                  "category": "religious",
+                  "coords": [
+                        16.840382,
+                        45.898485
+                  ]
+            },
+            {
+                  "name": "Toranj Silos",
+                  "text": "Jellegzetes gabonasiló Bjelovarban, amely az egykori gőzmalom-komplexum része.",
+                  "category": "tower",
+                  "coords": [
+                        16.843132,
+                        45.904417
+                  ]
+            },
+            {
+                  "name": "crkva Sv. Križa",
+                  "text": "A Szent Kereszt tiszteletére szentelt katolikus templom Bjelovarban.",
+                  "category": "religious",
+                  "coords": [
+                        16.851407,
+                        45.900463
+                  ]
+            },
+            {
+                  "name": "crkva svete Ane",
+                  "text": "Bjelovar déli részén található, a 20. században emelt katolikus plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        16.816095,
+                        45.906507
+                  ]
+            },
+            {
+                  "name": "katedrala svete Terezije Avilske",
+                  "text": "Bjelovar barokk székesegyháza 1765 és 1770 között épült Ávilai Szent Teréz tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        16.843359,
+                        45.898153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rimsko ruralno naselje Lug",
+                  "text": "Un sit arheologic lângă Bjelovar care păstrează vestigiile unei așezări rurale romane.",
+                  "category": "historical",
+                  "coords": [
+                        16.872595,
+                        45.904226
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "O instituție culturală din Bjelovar, situată în clădirea fostei sinagogi din secolul XX.",
+                  "category": "cultural",
+                  "coords": [
+                        16.844021,
+                        45.900362
+                  ]
+            },
+            {
+                  "name": "Stalni muzejski postav Domovinskog rata",
+                  "text": "O expoziție muzeală permanentă din Bjelovar, dedicată Războiului de Independență al Croației.",
+                  "category": "museum",
+                  "coords": [
+                        16.839253,
+                        45.899822
+                  ]
+            },
+            {
+                  "name": "Novoseljani - antička nekropola Crkveno Polje",
+                  "text": "O necropolă antică și un sit arheologic situat în localitatea Novoseljani de lângă Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.869777,
+                        45.891542
+                  ]
+            },
+            {
+                  "name": "Utvrda Ilinac",
+                  "text": "Resturile unei fortificații istorice și sit arheologic pe teritoriul orașului Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.856089,
+                        45.923486
+                  ]
+            },
+            {
+                  "name": "Brezovch",
+                  "text": "Un sit arheologic din Bjelovar care păstrează urme ale unor așezări timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        16.836164,
+                        45.878862
+                  ]
+            },
+            {
+                  "name": "Plauna",
+                  "text": "Un sit arheologic local din Bjelovar cu vestigii din perioadele trecute.",
+                  "category": "historical",
+                  "coords": [
+                        16.809327,
+                        45.887741
+                  ]
+            },
+            {
+                  "name": "Bjelovarsko kazalište",
+                  "text": "Teatrul din Bjelovar este un loc central pentru spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        16.842265,
+                        45.897594
+                  ]
+            },
+            {
+                  "name": "Donja Česmica",
+                  "text": "Un sit arheologic din regiunea Bjelovar, important pentru cercetarea istoriei locale.",
+                  "category": "historical",
+                  "coords": [
+                        16.871558,
+                        45.891052
+                  ]
+            },
+            {
+                  "name": "Trg hrvatskih branitelja",
+                  "text": "Un parc bine întreținut în centrul orașului Bjelovar, dedicat apărătorilor croați.",
+                  "category": "park",
+                  "coords": [
+                        16.839954,
+                        45.901632
+                  ]
+            },
+            {
+                  "name": "Trg Stjepana Radića",
+                  "text": "O piață publică din Bjelovar, numită după politicianul croat Stjepan Radić.",
+                  "category": "park",
+                  "coords": [
+                        16.837302,
+                        45.899162
+                  ]
+            },
+            {
+                  "name": "Trg Eugena Kvaternika",
+                  "text": "Piața centrală din Bjelovar, cu un parc mare și un pavilion muzical caracteristic.",
+                  "category": "park",
+                  "coords": [
+                        16.84223,
+                        45.898704
+                  ]
+            },
+            {
+                  "name": "Šetalište dr. Ivše Lebovića",
+                  "text": "O promenadă populară din Bjelovar, numită după medicul și primarul Ivša Lebović.",
+                  "category": "park",
+                  "coords": [
+                        16.846274,
+                        45.900158
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Un monument religios sub formă de crucifix situat într-un spațiu public din Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.869849,
+                        45.893356
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva serije MÁV 375,912",
+                  "text": "O locomotivă cu aburi istorică din seria MÁV 375, expusă ca monument în Bjelovar.",
+                  "category": "landmark",
+                  "coords": [
+                        16.844037,
+                        45.893993
+                  ]
+            },
+            {
+                  "name": "Raspelo Vrazov trg",
+                  "text": "Un monument religios sub formă de crucifix situat în piața Vraz din Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.839574,
+                        45.896243
+                  ]
+            },
+            {
+                  "name": "Herkov mlin",
+                  "text": "Ruinele unei foste mori din Bjelovar, care amintesc de istoria economică locală.",
+                  "category": "historical",
+                  "coords": [
+                        16.851356,
+                        45.886018
+                  ]
+            },
+            {
+                  "name": "Raspelo Nove Plavnice 1894.",
+                  "text": "Un crucifix din piatră ridicat în 1894 în cartierul Nove Plavnice din Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.82037,
+                        45.90376
+                  ]
+            },
+            {
+                  "name": "hram Svete Trojice",
+                  "text": "Această biserică ortodoxă sârbă din Bjelovar a fost construită la sfârșitul secolului al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        16.840382,
+                        45.898485
+                  ]
+            },
+            {
+                  "name": "Toranj Silos",
+                  "text": "Un siloz de cereale proeminent din Bjelovar, parte a fostului complex al morii cu aburi.",
+                  "category": "tower",
+                  "coords": [
+                        16.843132,
+                        45.904417
+                  ]
+            },
+            {
+                  "name": "crkva Sv. Križa",
+                  "text": "O biserică catolică din Bjelovar, dedicată Sfintei Cruci.",
+                  "category": "religious",
+                  "coords": [
+                        16.851407,
+                        45.900463
+                  ]
+            },
+            {
+                  "name": "crkva svete Ane",
+                  "text": "O biserică parohială catolică din partea de sud a orașului Bjelovar, construită în secolul XX.",
+                  "category": "religious",
+                  "coords": [
+                        16.816095,
+                        45.906507
+                  ]
+            },
+            {
+                  "name": "katedrala svete Terezije Avilske",
+                  "text": "Catedrala barocă din Bjelovar a fost construită între 1765 și 1770 în onoarea Sfintei Tereza.",
+                  "category": "religious",
+                  "coords": [
+                        16.843359,
+                        45.898153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rimsko ruralno naselje Lug",
+                  "text": "An archaeological site near Bjelovar featuring the remains of a Roman rural settlement.",
+                  "category": "historical",
+                  "coords": [
+                        16.872595,
+                        45.904226
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "A cultural center in Bjelovar housed in the former synagogue built in the early 20th century.",
+                  "category": "cultural",
+                  "coords": [
+                        16.844021,
+                        45.900362
+                  ]
+            },
+            {
+                  "name": "Stalni muzejski postav Domovinskog rata",
+                  "text": "A permanent museum exhibition in Bjelovar dedicated to the Croatian War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        16.839253,
+                        45.899822
+                  ]
+            },
+            {
+                  "name": "Novoseljani - antička nekropola Crkveno Polje",
+                  "text": "An ancient necropolis and archaeological site located in Novoseljani near Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.869777,
+                        45.891542
+                  ]
+            },
+            {
+                  "name": "Utvrda Ilinac",
+                  "text": "The remains of a historical fortification and archaeological site in Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.856089,
+                        45.923486
+                  ]
+            },
+            {
+                  "name": "Brezovch",
+                  "text": "An archaeological site in Bjelovar preserving traces of early settlements.",
+                  "category": "historical",
+                  "coords": [
+                        16.836164,
+                        45.878862
+                  ]
+            },
+            {
+                  "name": "Plauna",
+                  "text": "A local archaeological site in Bjelovar with vestiges from past periods.",
+                  "category": "historical",
+                  "coords": [
+                        16.809327,
+                        45.887741
+                  ]
+            },
+            {
+                  "name": "Bjelovarsko kazalište",
+                  "text": "The Bjelovar Theatre is a central venue for drama and cultural events in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        16.842265,
+                        45.897594
+                  ]
+            },
+            {
+                  "name": "Donja Česmica",
+                  "text": "An archaeological site in the Bjelovar region, important for local history research.",
+                  "category": "historical",
+                  "coords": [
+                        16.871558,
+                        45.891052
+                  ]
+            },
+            {
+                  "name": "Square of Croatian defenders",
+                  "text": "A well-maintained park in the center of Bjelovar dedicated to Croatian defenders.",
+                  "category": "park",
+                  "coords": [
+                        16.839954,
+                        45.901632
+                  ]
+            },
+            {
+                  "name": "Stjepan Radić Square",
+                  "text": "A public square in Bjelovar named after the Croatian politician Stjepan Radić.",
+                  "category": "park",
+                  "coords": [
+                        16.837302,
+                        45.899162
+                  ]
+            },
+            {
+                  "name": "Eugen Kvaternik Square",
+                  "text": "The central square of Bjelovar featuring a large park and a characteristic music pavilion.",
+                  "category": "park",
+                  "coords": [
+                        16.84223,
+                        45.898704
+                  ]
+            },
+            {
+                  "name": "Promenade of Dr. Ivša Lebović",
+                  "text": "A popular promenade in Bjelovar named after the doctor and mayor Ivša Lebović.",
+                  "category": "park",
+                  "coords": [
+                        16.846274,
+                        45.900158
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "A religious monument in the form of a crucifix located in a public area of Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.869849,
+                        45.893356
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva serije MÁV 375,912",
+                  "text": "A historical steam locomotive of the MÁV 375 series, displayed as a monument in Bjelovar.",
+                  "category": "landmark",
+                  "coords": [
+                        16.844037,
+                        45.893993
+                  ]
+            },
+            {
+                  "name": "Raspelo Vrazov trg",
+                  "text": "A religious monument in the form of a crucifix located on Vraz Square in Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.839574,
+                        45.896243
+                  ]
+            },
+            {
+                  "name": "Herkov mlin",
+                  "text": "The ruins of a former mill in Bjelovar, representing the local industrial heritage.",
+                  "category": "historical",
+                  "coords": [
+                        16.851356,
+                        45.886018
+                  ]
+            },
+            {
+                  "name": "Raspelo Nove Plavnice 1894.",
+                  "text": "A stone crucifix erected in 1894 in the Nove Plavnice district of Bjelovar.",
+                  "category": "historical",
+                  "coords": [
+                        16.82037,
+                        45.90376
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "This Serbian Orthodox church in Bjelovar was built at the end of the 18th century.",
+                  "category": "religious",
+                  "coords": [
+                        16.840382,
+                        45.898485
+                  ]
+            },
+            {
+                  "name": "Silo tower",
+                  "text": "A prominent grain silo in Bjelovar, part of the former steam mill complex.",
+                  "category": "tower",
+                  "coords": [
+                        16.843132,
+                        45.904417
+                  ]
+            },
+            {
+                  "name": "crkva Sv. Križa",
+                  "text": "A Catholic church in Bjelovar dedicated to the Holy Cross.",
+                  "category": "religious",
+                  "coords": [
+                        16.851407,
+                        45.900463
+                  ]
+            },
+            {
+                  "name": "Church of St. Anne",
+                  "text": "A Catholic parish church in the southern part of Bjelovar, built in the 20th century.",
+                  "category": "religious",
+                  "coords": [
+                        16.816095,
+                        45.906507
+                  ]
+            },
+            {
+                  "name": "Cathedral of Teresa of Ávila",
+                  "text": "The Baroque cathedral of Bjelovar was built between 1765 and 1770 in honor of Saint Teresa.",
+                  "category": "religious",
+                  "coords": [
+                        16.843359,
+                        45.898153
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Rimsko ruralno naselje Lug",
+                  "text": "Arheološko nalazište u blizini Bjelovara koje svjedoči o rimskom ruralnom životu na ovom prostoru.",
+                  "category": "historical",
+                  "coords": [
+                        16.872595,
+                        45.904226
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Gradsko kazalište i kulturni centar smješten u monumentalnoj zgradi bivše bjelovarske sinagoge.",
+                  "category": "cultural",
+                  "coords": [
+                        16.844021,
+                        45.900362
+                  ]
+            },
+            {
+                  "name": "Stalni muzejski postav Domovinskog rata",
+                  "text": "Stalni muzejski postav u Bjelovaru koji kroz izloške prikazuje povijest Domovinskog rata.",
+                  "category": "museum",
+                  "coords": [
+                        16.839253,
+                        45.899822
+                  ]
+            },
+            {
+                  "name": "Novoseljani - antička nekropola Crkveno Polje",
+                  "text": "Antička nekropola i važno arheološko nalazište smješteno u naselju Novoseljani kraj Bjelovara.",
+                  "category": "historical",
+                  "coords": [
+                        16.869777,
+                        45.891542
+                  ]
+            },
+            {
+                  "name": "Utvrda Ilinac",
+                  "text": "Ostatci povijesne utvrde i arheološki lokalitet na širem području grada Bjelovara.",
+                  "category": "historical",
+                  "coords": [
+                        16.856089,
+                        45.923486
+                  ]
+            },
+            {
+                  "name": "Brezovch",
+                  "text": "Arheološko nalazište u Bjelovaru koje čuva tragove naseljenosti iz ranijih povijesnih razdoblja.",
+                  "category": "historical",
+                  "coords": [
+                        16.836164,
+                        45.878862
+                  ]
+            },
+            {
+                  "name": "Plauna",
+                  "text": "Lokalno arheološko nalazište na području Bjelovara s ostatcima iz prošlosti.",
+                  "category": "historical",
+                  "coords": [
+                        16.809327,
+                        45.887741
+                  ]
+            },
+            {
+                  "name": "Bjelovarsko kazalište",
+                  "text": "Bjelovarsko kazalište središte je dramske umjetnosti i brojnih kulturnih događanja u gradu.",
+                  "category": "cultural",
+                  "coords": [
+                        16.842265,
+                        45.897594
+                  ]
+            },
+            {
+                  "name": "Donja Česmica",
+                  "text": "Arheološki lokalitet u blizini Bjelovara, značajan za istraživanje lokalne povijesti.",
+                  "category": "historical",
+                  "coords": [
+                        16.871558,
+                        45.891052
+                  ]
+            },
+            {
+                  "name": "Square of Croatian defenders",
+                  "text": "Uređen gradski trg i park u središtu Bjelovara posvećen sjećanju na hrvatske branitelje.",
+                  "category": "park",
+                  "coords": [
+                        16.839954,
+                        45.901632
+                  ]
+            },
+            {
+                  "name": "Stjepan Radić Square",
+                  "text": "Javni gradski trg u Bjelovaru koji nosi ime po istaknutom političaru Stjepanu Radiću.",
+                  "category": "park",
+                  "coords": [
+                        16.837302,
+                        45.899162
+                  ]
+            },
+            {
+                  "name": "Eugen Kvaternik Square",
+                  "text": "Središnji bjelovarski trg s velikim parkom i prepoznatljivim glazbenim paviljonom iz 1943. godine.",
+                  "category": "park",
+                  "coords": [
+                        16.84223,
+                        45.898704
+                  ]
+            },
+            {
+                  "name": "Promenade of Dr. Ivša Lebović",
+                  "text": "Poznato gradsko šetalište u Bjelovaru nazvano po liječniku i gradonačelniku Ivši Leboviću.",
+                  "category": "park",
+                  "coords": [
+                        16.846274,
+                        45.900158
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Religijski spomenik u obliku raspela postavljen na javnoj površini u gradu Bjelovaru.",
+                  "category": "historical",
+                  "coords": [
+                        16.869849,
+                        45.893356
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva serije MÁV 375,912",
+                  "text": "Povijesna parna lokomotiva serije MÁV 375,912 koja je izložena kao spomenik u Bjelovaru.",
+                  "category": "landmark",
+                  "coords": [
+                        16.844037,
+                        45.893993
+                  ]
+            },
+            {
+                  "name": "Raspelo Vrazov trg",
+                  "text": "Vjerski spomenik u obliku raspela koji se nalazi na Vrazovom trgu u Bjelovaru.",
+                  "category": "historical",
+                  "coords": [
+                        16.839574,
+                        45.896243
+                  ]
+            },
+            {
+                  "name": "Herkov mlin",
+                  "text": "Ruševine nekadašnjeg Herkovog mlina u Bjelovaru koje svjedoče o lokalnoj gospodarskoj povijesti.",
+                  "category": "historical",
+                  "coords": [
+                        16.851356,
+                        45.886018
+                  ]
+            },
+            {
+                  "name": "Raspelo Nove Plavnice 1894.",
+                  "text": "Kameno raspelo iz 1894. godine koje se nalazi u naselju Nove Plavnice u Bjelovaru.",
+                  "category": "historical",
+                  "coords": [
+                        16.82037,
+                        45.90376
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "Srpska pravoslavna crkva u Bjelovaru koja je sagrađena krajem 18. stoljeća.",
+                  "category": "religious",
+                  "coords": [
+                        16.840382,
+                        45.898485
+                  ]
+            },
+            {
+                  "name": "Silo tower",
+                  "text": "Karakteristični silosi u Bjelovaru koji su dio kompleksa nekadašnjeg paromlina.",
+                  "category": "tower",
+                  "coords": [
+                        16.843132,
+                        45.904417
+                  ]
+            },
+            {
+                  "name": "crkva Sv. Križa",
+                  "text": "Katolička crkva u Bjelovaru posvećena Svetom Križu.",
+                  "category": "religious",
+                  "coords": [
+                        16.851407,
+                        45.900463
+                  ]
+            },
+            {
+                  "name": "Church of St. Anne",
+                  "text": "Katolička župna crkva u južnom dijelu Bjelovara sagrađena u 20. stoljeću.",
+                  "category": "religious",
+                  "coords": [
+                        16.816095,
+                        45.906507
+                  ]
+            },
+            {
+                  "name": "Cathedral of Teresa of Ávila",
+                  "text": "Barokna katedrala u Bjelovaru sagrađena je između 1765. i 1770. godine u čast svete Terezije Avilske.",
+                  "category": "religious",
+                  "coords": [
+                        16.843359,
+                        45.898153
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Bjelovar", hu: "Belovár", ro: "Bjelovar", en: "Bjelovar"},
@@ -559,7 +5698,333 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-koprivnica-cities-v2",
+    id: "croatia-koprivnica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej prehrane",
+                  "text": "Dieses einzigartige Museum in Koprivnica widmet sich der Geschichte der Lebensmittelindustrie und der Marke Podravka.",
+                  "category": "museum",
+                  "coords": [
+                        16.82445,
+                        46.15393
+                  ]
+            },
+            {
+                  "name": "Ludens Teatar",
+                  "text": "Ein unabhängiges Theater in Koprivnica, das für seine zeitgenössischen Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.82711,
+                        46.162941
+                  ]
+            },
+            {
+                  "name": "Muzej grada Koprivnice",
+                  "text": "Das Stadtmuseum von Koprivnica befindet sich in einem ehemaligen Magistratsgebäude aus dem 17. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        16.831691,
+                        46.159827
+                  ]
+            },
+            {
+                  "name": "Domoljub",
+                  "text": "Ein bedeutendes Kulturzentrum und Theatersaal in Koprivnica, der seit 1919 besteht.",
+                  "category": "cultural",
+                  "coords": [
+                        16.829244,
+                        46.159405
+                  ]
+            },
+            {
+                  "name": "Spomen područje Danica",
+                  "text": "Gedenkstätte auf dem Gelände des ersten Konzentrationslagers im Unabhängigen Staat Kroatien während des Zweiten Weltkriegs.",
+                  "category": "park",
+                  "coords": [
+                        16.843218,
+                        46.186272
+                  ]
+            },
+            {
+                  "name": "Galerija Koprivnica",
+                  "text": "Eine Kunstgalerie in Koprivnica, die Werke kroatischer Künstler und temporäre Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.830682,
+                        46.163492
+                  ]
+            },
+            {
+                  "name": "Sinagoga",
+                  "text": "Die Synagoge von Koprivnica wurde 1902 im eklektischen Stil erbaut und dient heute als Kulturraum.",
+                  "category": "religious",
+                  "coords": [
+                        16.831976,
+                        46.164373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej prehrane",
+                  "text": "Ez a különleges koprivnicai múzeum az élelmiszeripar és a Podravka márka történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.82445,
+                        46.15393
+                  ]
+            },
+            {
+                  "name": "Ludens Teatar",
+                  "text": "Független színház Kaproncán, amely kortárs színdarabjairól és kreatív előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.82711,
+                        46.162941
+                  ]
+            },
+            {
+                  "name": "Muzej grada Koprivnice",
+                  "text": "Kapronca városi múzeuma, amely egy 17. századi egykori magistratusi épületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        16.831691,
+                        46.159827
+                  ]
+            },
+            {
+                  "name": "Domoljub",
+                  "text": "Kapronca jelentős kulturális központja és színházterme, amely 1919 óta működik.",
+                  "category": "cultural",
+                  "coords": [
+                        16.829244,
+                        46.159405
+                  ]
+            },
+            {
+                  "name": "Spomen područje Danica",
+                  "text": "Emlékhely az első horvátországi koncentrációs tábor területén a második világháború idejéből.",
+                  "category": "park",
+                  "coords": [
+                        16.843218,
+                        46.186272
+                  ]
+            },
+            {
+                  "name": "Galerija Koprivnica",
+                  "text": "Művészeti galéria Kaproncán, amely horvát művészek alkotásait és időszaki kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.830682,
+                        46.163492
+                  ]
+            },
+            {
+                  "name": "Sinagoga",
+                  "text": "A kaproncai zsinagóga 1902-ben épült eklektikus stílusban, ma kulturális események helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        16.831976,
+                        46.164373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej prehrane",
+                  "text": "Acest muzeu unic din Koprivnica este dedicat istoriei industriei alimentare și mărcii Podravka.",
+                  "category": "museum",
+                  "coords": [
+                        16.82445,
+                        46.15393
+                  ]
+            },
+            {
+                  "name": "Ludens Teatar",
+                  "text": "Un teatru independent din Koprivnica, cunoscut pentru spectacolele sale contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        16.82711,
+                        46.162941
+                  ]
+            },
+            {
+                  "name": "Muzej grada Koprivnice",
+                  "text": "Muzeul orașului Koprivnica, situat într-o fostă clădire a magistraturii din secolul al XVII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        16.831691,
+                        46.159827
+                  ]
+            },
+            {
+                  "name": "Domoljub",
+                  "text": "Un important centru cultural și sală de teatru din Koprivnica, care funcționează din 1919.",
+                  "category": "cultural",
+                  "coords": [
+                        16.829244,
+                        46.159405
+                  ]
+            },
+            {
+                  "name": "Spomen područje Danica",
+                  "text": "Zonă memorială pe locul primului lagăr de concentrare din Statul Independent al Croației în timpul celui de-al Doilea Război Mondial.",
+                  "category": "park",
+                  "coords": [
+                        16.843218,
+                        46.186272
+                  ]
+            },
+            {
+                  "name": "Galerija Koprivnica",
+                  "text": "O galerie de artă din Koprivnica care expune lucrări ale artiștilor croați și expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        16.830682,
+                        46.163492
+                  ]
+            },
+            {
+                  "name": "Sinagoga",
+                  "text": "Sinagoga din Koprivnica a fost construită în 1902 în stil eclectic și servește astăzi ca spațiu cultural.",
+                  "category": "religious",
+                  "coords": [
+                        16.831976,
+                        46.164373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej prehrane",
+                  "text": "This unique museum in Koprivnica is dedicated to the history of the food industry and the Podravka brand.",
+                  "category": "museum",
+                  "coords": [
+                        16.82445,
+                        46.15393
+                  ]
+            },
+            {
+                  "name": "Ludens Teatar",
+                  "text": "An independent theatre in Koprivnica known for its contemporary plays and creative performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.82711,
+                        46.162941
+                  ]
+            },
+            {
+                  "name": "Muzej grada Koprivnice",
+                  "text": "The City Museum of Koprivnica is located in a former magistrate building dating back to the 17th century.",
+                  "category": "museum",
+                  "coords": [
+                        16.831691,
+                        46.159827
+                  ]
+            },
+            {
+                  "name": "Domoljub",
+                  "text": "A significant cultural center and theatre hall in Koprivnica, operating since 1919.",
+                  "category": "cultural",
+                  "coords": [
+                        16.829244,
+                        46.159405
+                  ]
+            },
+            {
+                  "name": "Spomen područje Danica",
+                  "text": "A memorial area on the site of the first concentration camp in the Independent State of Croatia during World War II.",
+                  "category": "park",
+                  "coords": [
+                        16.843218,
+                        46.186272
+                  ]
+            },
+            {
+                  "name": "Galerija Koprivnica",
+                  "text": "An art gallery in Koprivnica showcasing works by Croatian artists and hosting temporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        16.830682,
+                        46.163492
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "The Koprivnica Synagogue was built in 1902 in an eclectic style and now serves as a cultural venue.",
+                  "category": "religious",
+                  "coords": [
+                        16.831976,
+                        46.164373
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Muzej prehrane",
+                  "text": "Jedinstveni Muzej prehrane u Koprivnici posvećen je povijesti prehrambene industrije i marki Podravka.",
+                  "category": "museum",
+                  "coords": [
+                        16.82445,
+                        46.15393
+                  ]
+            },
+            {
+                  "name": "Ludens Teatar",
+                  "text": "Nezavisno kazalište u Koprivnici poznato po suvremenim predstavama i kreativnom radu.",
+                  "category": "cultural",
+                  "coords": [
+                        16.82711,
+                        46.162941
+                  ]
+            },
+            {
+                  "name": "Muzej grada Koprivnice",
+                  "text": "Muzej grada Koprivnice smješten je u nekadašnjoj zgradi magistrata iz 17. stoljeća.",
+                  "category": "museum",
+                  "coords": [
+                        16.831691,
+                        46.159827
+                  ]
+            },
+            {
+                  "name": "Domoljub",
+                  "text": "Značajan kulturni centar i kazališna dvorana u Koprivnici koja djeluje od 1919. godine.",
+                  "category": "cultural",
+                  "coords": [
+                        16.829244,
+                        46.159405
+                  ]
+            },
+            {
+                  "name": "Spomen područje Danica",
+                  "text": "Spomen područje na mjestu prvog koncentracijskog logora u NDH tijekom Drugog svjetskog rata.",
+                  "category": "park",
+                  "coords": [
+                        16.843218,
+                        46.186272
+                  ]
+            },
+            {
+                  "name": "Galerija Koprivnica",
+                  "text": "Umjetnička galerija u Koprivnici koja prikazuje djela hrvatskih umjetnika i ugošćuje povremene izložbe.",
+                  "category": "museum",
+                  "coords": [
+                        16.830682,
+                        46.163492
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Koprivnička sinagoga izgrađena je 1902. godine u eklektičnom stilu, a danas služi kao prostor za kulturu.",
+                  "category": "religious",
+                  "coords": [
+                        16.831976,
+                        46.164373
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Koprivnica", hu: "Kapronca", ro: "Koprivnica", en: "Koprivnica"},
@@ -606,7 +6071,243 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-pozega-cities-v2",
+    id: "croatia-pozega-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradsko kazalište Požega",
+                  "text": "Das Stadttheater von Požega ist ein wichtiges Zentrum für darstellende Kunst in der Region Slawonien.",
+                  "category": "cultural",
+                  "coords": [
+                        17.676989,
+                        45.330596
+                  ]
+            },
+            {
+                  "name": "Gradski muzej Požega",
+                  "text": "Das Stadtmuseum bewahrt das reiche kulturelle und archäologische Erbe der Region Požega auf.",
+                  "category": "museum",
+                  "coords": [
+                        17.675521,
+                        45.331219
+                  ]
+            },
+            {
+                  "name": "Dijecezanski muzej",
+                  "text": "Dieses Diözesanmuseum zeigt eine wertvolle Sammlung sakraler Kunst aus dem Bistum Požega.",
+                  "category": "museum",
+                  "coords": [
+                        17.677891,
+                        45.333467
+                  ]
+            },
+            {
+                  "name": "Domovinski križ",
+                  "text": "Ein Denkmal in Požega, das den kroatischen Verteidigern gewidmet ist, die im Unabhängigkeitskrieg gefallen sind.",
+                  "category": "historical",
+                  "coords": [
+                        17.665251,
+                        45.322844
+                  ]
+            },
+            {
+                  "name": "JŽ 51-016 MÁV 375.966",
+                  "text": "Eine historische Dampflokomotive der Baureihe 51, die als technisches Denkmal in Požega ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        17.682897,
+                        45.33741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradsko kazalište Požega",
+                  "text": "Pozsega városi színháza a szlavóniai régió előadó-művészetének fontos központja.",
+                  "category": "cultural",
+                  "coords": [
+                        17.676989,
+                        45.330596
+                  ]
+            },
+            {
+                  "name": "Gradski muzej Požega",
+                  "text": "A városi múzeum Pozsega és környékének gazdag kulturális és régészeti örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        17.675521,
+                        45.331219
+                  ]
+            },
+            {
+                  "name": "Dijecezanski muzej",
+                  "text": "Az egyházmegyei múzeum a Pozsegai Püspökség értékes szakrális művészeti gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.677891,
+                        45.333467
+                  ]
+            },
+            {
+                  "name": "Domovinski križ",
+                  "text": "Pozsegai emlékmű a horvát függetlenségi háborúban elesett védők tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        17.665251,
+                        45.322844
+                  ]
+            },
+            {
+                  "name": "JŽ 51-016 MÁV 375.966",
+                  "text": "Egy 51-es sorozatú történelmi gőzmozdony, amelyet technikai műemlékként állítottak ki Pozsegán.",
+                  "category": "landmark",
+                  "coords": [
+                        17.682897,
+                        45.33741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradsko kazalište Požega",
+                  "text": "Teatrul orășenesc din Požega este un centru important pentru artele spectacolului în regiunea Slavonia.",
+                  "category": "cultural",
+                  "coords": [
+                        17.676989,
+                        45.330596
+                  ]
+            },
+            {
+                  "name": "Gradski muzej Požega",
+                  "text": "Muzeul orașului păstrează bogata moștenire culturală și arheologică a regiunii Požega.",
+                  "category": "museum",
+                  "coords": [
+                        17.675521,
+                        45.331219
+                  ]
+            },
+            {
+                  "name": "Dijecezanski muzej",
+                  "text": "Acest muzeu diecezan expune o colecție valoroasă de artă sacră din cadrul Episcopiei de Požega.",
+                  "category": "museum",
+                  "coords": [
+                        17.677891,
+                        45.333467
+                  ]
+            },
+            {
+                  "name": "Domovinski križ",
+                  "text": "Un monument în Požega dedicat apărătorilor croați care au căzut în războiul de independență.",
+                  "category": "historical",
+                  "coords": [
+                        17.665251,
+                        45.322844
+                  ]
+            },
+            {
+                  "name": "JŽ 51-016 MÁV 375.966",
+                  "text": "O locomotivă cu abur istorică din seria 51, expusă ca monument tehnic în Požega.",
+                  "category": "landmark",
+                  "coords": [
+                        17.682897,
+                        45.33741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradsko kazalište Požega",
+                  "text": "The City Theatre of Požega is a key center for performing arts in the Slavonia region.",
+                  "category": "cultural",
+                  "coords": [
+                        17.676989,
+                        45.330596
+                  ]
+            },
+            {
+                  "name": "City museum Požega",
+                  "text": "The city museum preserves the rich cultural and archaeological heritage of the Požega region.",
+                  "category": "museum",
+                  "coords": [
+                        17.675521,
+                        45.331219
+                  ]
+            },
+            {
+                  "name": "Dijecezanski muzej",
+                  "text": "This diocesan museum displays a valuable collection of sacral art from the Požega Bishopric.",
+                  "category": "museum",
+                  "coords": [
+                        17.677891,
+                        45.333467
+                  ]
+            },
+            {
+                  "name": "Homeland cross",
+                  "text": "A monument in Požega dedicated to the Croatian defenders who fell in the War of Independence.",
+                  "category": "historical",
+                  "coords": [
+                        17.665251,
+                        45.322844
+                  ]
+            },
+            {
+                  "name": "JŽ 51-016 MÁV 375.966",
+                  "text": "A historic series 51 steam locomotive displayed as a technical monument in Požega.",
+                  "category": "landmark",
+                  "coords": [
+                        17.682897,
+                        45.33741
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Gradsko kazalište Požega",
+                  "text": "Gradsko kazalište u Požegi važno je središte izvedbenih umjetnosti u regiji Slavoniji.",
+                  "category": "cultural",
+                  "coords": [
+                        17.676989,
+                        45.330596
+                  ]
+            },
+            {
+                  "name": "City museum Požega",
+                  "text": "Gradski muzej čuva bogatu kulturnu i arheološku baštinu požeškog kraja.",
+                  "category": "museum",
+                  "coords": [
+                        17.675521,
+                        45.331219
+                  ]
+            },
+            {
+                  "name": "Dijecezanski muzej",
+                  "text": "Dijecezanski muzej prikazuje vrijednu zbirku sakralne umjetnosti Požeške biskupije.",
+                  "category": "museum",
+                  "coords": [
+                        17.677891,
+                        45.333467
+                  ]
+            },
+            {
+                  "name": "Homeland cross",
+                  "text": "Spomenik u Požegi posvećen hrvatskim braniteljima poginulim u Domovinskom ratu.",
+                  "category": "historical",
+                  "coords": [
+                        17.665251,
+                        45.322844
+                  ]
+            },
+            {
+                  "name": "JŽ 51-016 MÁV 375.966",
+                  "text": "Povijesna parna lokomotiva serije 51 izložena kao tehnički spomenik u Požegi.",
+                  "category": "landmark",
+                  "coords": [
+                        17.682897,
+                        45.33741
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Požega", hu: "Pozsega", ro: "Požega", en: "Požega"},
@@ -653,7 +6354,243 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-dakovo-cities-v2",
+    id: "croatia-dakovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej biskupa J.J. Strossmayera",
+                  "text": "Dieses Museum in Đakovo ist dem Leben und Werk des bedeutenden Bischofs Josip Juraj Strossmayer gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.411243,
+                        45.308148
+                  ]
+            },
+            {
+                  "name": "Muzej Đakovštine",
+                  "text": "Das Museum präsentiert das reiche kulturelle, historische und ethnografische Erbe der Region Đakovo.",
+                  "category": "museum",
+                  "coords": [
+                        18.409064,
+                        45.313436
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "Ein lokales Kulturzentrum in Đakovo, das Ausstellungen, Konzerte und verschiedene künstlerische Veranstaltungen organisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        18.4122,
+                        45.3105
+                  ]
+            },
+            {
+                  "name": "Državna ergela lipicanaca Đakovo",
+                  "text": "Das 1506 gegründete staatliche Gestüt ist weltberühmt für seine jahrhundertelange Tradition der Lipizzanerzucht.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422816,
+                        45.310111
+                  ]
+            },
+            {
+                  "name": "Biskupski dvor",
+                  "text": "Die prächtige Residenz der Bischöfe von Đakovo befindet sich direkt neben der monumentalen Kathedrale.",
+                  "category": "historical",
+                  "coords": [
+                        18.411142,
+                        45.307204
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej biskupa J.J. Strossmayera",
+                  "text": "Ez a đakovói múzeum Josip Juraj Strossmayer püspök életútját és munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.411243,
+                        45.308148
+                  ]
+            },
+            {
+                  "name": "Muzej Đakovštine",
+                  "text": "A múzeum a đakovói régió gazdag kulturális, történelmi és néprajzi örökségét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.409064,
+                        45.313436
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "Helyi kulturális központ Đakovóban, amely kiállításoknak, koncerteknek és különféle művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.4122,
+                        45.3105
+                  ]
+            },
+            {
+                  "name": "Državna ergela lipicanaca Đakovo",
+                  "text": "Az 1506-ban alapított állami ménes világhírű a lipicai lovak tenyésztésének évszázados hagyományáról.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422816,
+                        45.310111
+                  ]
+            },
+            {
+                  "name": "Biskupski dvor",
+                  "text": "A đakovói püspökök impozáns rezidenciája közvetlenül a monumentális székesegyház mellett található.",
+                  "category": "historical",
+                  "coords": [
+                        18.411142,
+                        45.307204
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej biskupa J.J. Strossmayera",
+                  "text": "Acest muzeu din Đakovo este dedicat vieții și activității ilustrului episcop Josip Juraj Strossmayer.",
+                  "category": "museum",
+                  "coords": [
+                        18.411243,
+                        45.308148
+                  ]
+            },
+            {
+                  "name": "Muzej Đakovštine",
+                  "text": "Muzeul prezintă bogata moștenire culturală, istorică și etnografică a regiunii Đakovo.",
+                  "category": "museum",
+                  "coords": [
+                        18.409064,
+                        45.313436
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "Un centru cultural local din Đakovo care organizează expoziții, concerte și diverse evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        18.4122,
+                        45.3105
+                  ]
+            },
+            {
+                  "name": "Državna ergela lipicanaca Đakovo",
+                  "text": "Înființată în 1506, această herghelie de stat este renumită în întreaga lume pentru tradiția sa seculară în creșterea cailor lipițani.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422816,
+                        45.310111
+                  ]
+            },
+            {
+                  "name": "Biskupski dvor",
+                  "text": "Reședința impunătoare a episcopilor de Đakovo este situată chiar lângă catedrala monumentală.",
+                  "category": "historical",
+                  "coords": [
+                        18.411142,
+                        45.307204
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej biskupa J.J. Strossmayera",
+                  "text": "This museum in Đakovo is dedicated to the life and work of the prominent Bishop Josip Juraj Strossmayer.",
+                  "category": "museum",
+                  "coords": [
+                        18.411243,
+                        45.308148
+                  ]
+            },
+            {
+                  "name": "Muzej Đakovštine",
+                  "text": "The museum showcases the rich cultural, historical, and ethnographic heritage of the Đakovo region.",
+                  "category": "museum",
+                  "coords": [
+                        18.409064,
+                        45.313436
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "A local arts center in Đakovo that organizes exhibitions, concerts, and various artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        18.4122,
+                        45.3105
+                  ]
+            },
+            {
+                  "name": "Državna ergela lipicanaca Đakovo",
+                  "text": "Established in 1506, this state stud farm is world-famous for its centuries-old tradition of breeding Lipizzaner horses.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422816,
+                        45.310111
+                  ]
+            },
+            {
+                  "name": "Biskupski dvor",
+                  "text": "The grand residence of the bishops of Đakovo is located right next to the monumental cathedral.",
+                  "category": "historical",
+                  "coords": [
+                        18.411142,
+                        45.307204
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Muzej biskupa J.J. Strossmayera",
+                  "text": "Muzej u Đakovu posvećen je životu i djelovanju biskupa Josipa Jurja Strossmayera.",
+                  "category": "museum",
+                  "coords": [
+                        18.411243,
+                        45.308148
+                  ]
+            },
+            {
+                  "name": "Muzej Đakovštine",
+                  "text": "Muzej prikazuje kulturnu, povijesnu i etnografsku baštinu đakovačkog kraja.",
+                  "category": "museum",
+                  "coords": [
+                        18.409064,
+                        45.313436
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "Kulturni centar u Đakovu koji ugošćuje razne izložbe, predstave i glazbena događanja.",
+                  "category": "cultural",
+                  "coords": [
+                        18.4122,
+                        45.3105
+                  ]
+            },
+            {
+                  "name": "Državna ergela lipicanaca Đakovo",
+                  "text": "Osnovana 1506. godine, ova državna ergela svjetski je poznata po višestoljetnoj tradiciji uzgoja lipicanaca.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422816,
+                        45.310111
+                  ]
+            },
+            {
+                  "name": "Biskupski dvor",
+                  "text": "Biskupski dvor u Đakovu je reprezentativna rezidencija smještena neposredno uz katedralu.",
+                  "category": "historical",
+                  "coords": [
+                        18.411142,
+                        45.307204
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Đakovo", hu: "Diakovár", ro: "Đakovo", en: "Đakovo"},
@@ -700,7 +6637,108 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-cakovec-cities-v2",
+    id: "croatia-cakovec-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stari grad Zrinskih",
+                  "text": "Die mittelalterliche Festung und das Schloss im Zentrum von Čakovec waren einst der Stammsitz der Adelsfamilie Zrinski.",
+                  "category": "castle",
+                  "coords": [
+                        16.431974,
+                        46.388925
+                  ]
+            },
+            {
+                  "name": "Centar za kulturu Čakovec",
+                  "text": "Die wichtigste Kultureinrichtung in Čakovec bietet ein reiches Programm an Theateraufführungen, Filmen und Konzerten.",
+                  "category": "cultural",
+                  "coords": [
+                        16.434538,
+                        46.390519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zrínyi vár",
+                  "text": "A Csáktornya központjában álló középkori erőd és várkastély egykor a Zrínyi nemesi család székhelye volt.",
+                  "category": "castle",
+                  "coords": [
+                        16.431974,
+                        46.388925
+                  ]
+            },
+            {
+                  "name": "Kulturális központ",
+                  "text": "Csáktornya legfontosabb kulturális intézménye színházi előadások, filmvetítések és koncertek gazdag programját kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        16.434538,
+                        46.390519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stari grad Zrinskih",
+                  "text": "Fortăreața medievală și castelul din centrul orașului Čakovec au fost odinioară reședința familiei nobiliare Zrinski.",
+                  "category": "castle",
+                  "coords": [
+                        16.431974,
+                        46.388925
+                  ]
+            },
+            {
+                  "name": "Centar za kulturu Čakovec",
+                  "text": "Cea mai importantă instituție culturală din Čakovec oferă un program bogat de spectacole de teatru, filme și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.434538,
+                        46.390519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zrinski Castle",
+                  "text": "The medieval fortress and castle in the center of Čakovec were once the seat of the noble Zrinski family.",
+                  "category": "castle",
+                  "coords": [
+                        16.431974,
+                        46.388925
+                  ]
+            },
+            {
+                  "name": "Centar za kulturu Čakovec",
+                  "text": "The main cultural institution in Čakovec offers a rich program of theater performances, films, and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        16.434538,
+                        46.390519
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Zrinski Castle",
+                  "text": "Srednjovjekovna utvrda i plemićki dvorac u Čakovcu koji je bio sjedište obitelji Zrinski.",
+                  "category": "castle",
+                  "coords": [
+                        16.431974,
+                        46.388925
+                  ]
+            },
+            {
+                  "name": "Centar za kulturu Čakovec",
+                  "text": "Središnja ustanova za kulturu u Čakovcu s bogatim programom kazališnih i filmskih predstava.",
+                  "category": "cultural",
+                  "coords": [
+                        16.434538,
+                        46.390519
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Čakovec", hu: "Csáktornya", ro: "Čakovec", en: "Čakovec"},
@@ -747,7 +6785,153 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-virovitica-cities-v2",
+    id: "croatia-virovitica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradski muzej Virovitica",
+                  "text": "Das im Schloss Pejačević untergebrachte Museum bewahrt die lokale Geschichte und das kulturelle Erbe von Virovitica.",
+                  "category": "museum",
+                  "coords": [
+                        17.385673,
+                        45.833653
+                  ]
+            },
+            {
+                  "name": "Kazalište",
+                  "text": "Das Theater von Virovitica bietet ein vielfältiges Programm und ist ein wichtiges Kulturzentrum der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.382628,
+                        45.832817
+                  ]
+            },
+            {
+                  "name": "Gradska glazba Virovitica",
+                  "text": "Die Stadtkapelle von Virovitica ist eine traditionsreiche Musikinstitution, die öffentliche Konzerte organisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        17.383198,
+                        45.83427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradski muzej Virovitica",
+                  "text": "A Pejačević-kastélyban elhelyezett múzeum Verőce helytörténetét és kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        17.385673,
+                        45.833653
+                  ]
+            },
+            {
+                  "name": "Kazalište",
+                  "text": "A viroviticai színház a város kulturális életének központja, amely változatos előadásokkal várja a közönséget.",
+                  "category": "cultural",
+                  "coords": [
+                        17.382628,
+                        45.832817
+                  ]
+            },
+            {
+                  "name": "Gradska glazba Virovitica",
+                  "text": "A Virovitica Városi Zeneegyüttes egy nagy múltú zenei intézmény, amely rendszeresen tart nyilvános koncerteket.",
+                  "category": "cultural",
+                  "coords": [
+                        17.383198,
+                        45.83427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradski muzej Virovitica",
+                  "text": "Muzeul găzduit în Castelul Pejačević păstrează istoria locală și moștenirea culturală a orașului Virovitica.",
+                  "category": "museum",
+                  "coords": [
+                        17.385673,
+                        45.833653
+                  ]
+            },
+            {
+                  "name": "Kazalište",
+                  "text": "Teatrul din Virovitica este un centru cultural important al orașului, oferind un program variat de spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        17.382628,
+                        45.832817
+                  ]
+            },
+            {
+                  "name": "Gradska glazba Virovitica",
+                  "text": "Muzica orașului Virovitica este o instituție muzicală cu tradiție, care organizează concerte publice.",
+                  "category": "cultural",
+                  "coords": [
+                        17.383198,
+                        45.83427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradski muzej Virovitica",
+                  "text": "Housed in the Pejačević Castle, the museum preserves the local history and cultural heritage of Virovitica.",
+                  "category": "museum",
+                  "coords": [
+                        17.385673,
+                        45.833653
+                  ]
+            },
+            {
+                  "name": "Kazalište",
+                  "text": "The Virovitica Theatre is a key cultural institution in the city, hosting a variety of professional stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        17.382628,
+                        45.832817
+                  ]
+            },
+            {
+                  "name": "Gradska glazba Virovitica",
+                  "text": "The Virovitica City Music is a traditional musical institution that organizes public concerts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        17.383198,
+                        45.83427
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Gradski muzej Virovitica",
+                  "text": "Gradski muzej smješten u dvorcu Pejačević koji čuva povijest i tradiciju virovitičkog kraja.",
+                  "category": "museum",
+                  "coords": [
+                        17.385673,
+                        45.833653
+                  ]
+            },
+            {
+                  "name": "Kazalište",
+                  "text": "Kazalište Virovitica središte je kulturnog života grada s dugom tradicijom profesionalnih scenskih nastupa.",
+                  "category": "cultural",
+                  "coords": [
+                        17.382628,
+                        45.832817
+                  ]
+            },
+            {
+                  "name": "Gradska glazba Virovitica",
+                  "text": "Gradska glazba Virovitica tradicionalna je glazbena institucija koja organizira javne koncerte i nastupe.",
+                  "category": "cultural",
+                  "coords": [
+                        17.383198,
+                        45.83427
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Virovitica", hu: "Verőce", ro: "Virovitica", en: "Virovitica"},
@@ -794,7 +6978,288 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-zapresic-cities-v2",
+    id: "croatia-zapresic-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Bärenberg",
+                  "text": "Der Naturpark Medvednica nördlich von Zagreb ist ein beliebtes Ausflugsziel mit dichten Wäldern und Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        15.973717,
+                        45.903644
+                  ]
+            },
+            {
+                  "name": "Galerija Skurjeni",
+                  "text": "Die Galerie Skurjeni in Zaprešić zeigt die Werke des berühmten kroatischen naiven Malers Matija Skurjeni.",
+                  "category": "museum",
+                  "coords": [
+                        15.804558,
+                        45.870902
+                  ]
+            },
+            {
+                  "name": "Muzej Brdovec",
+                  "text": "Das Museum Brdovec präsentiert das archäologische und ethnologische Erbe der Region um Zaprešić.",
+                  "category": "museum",
+                  "coords": [
+                        15.769959,
+                        45.864476
+                  ]
+            },
+            {
+                  "name": "Novi dvori",
+                  "text": "Novi dvori ist ein historisches Anwesen in Zaprešić, das einst dem kroatischen Ban Josip Jelačić gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        15.806816,
+                        45.872707
+                  ]
+            },
+            {
+                  "name": "Muzej automobila Ferdinand Budicki",
+                  "text": "Das Automobilmuseum Ferdinand Budicki zeigt eine beeindruckende Sammlung von Oldtimern und Motorrädern.",
+                  "category": "museum",
+                  "coords": [
+                        15.82564,
+                        45.872002
+                  ]
+            },
+            {
+                  "name": "Dvorac Lužnica",
+                  "text": "Das Barockschloss Lužnica in Zaprešić dient heute als spirituelles Zentrum und ist von einem Park umgeben.",
+                  "category": "historical",
+                  "coords": [
+                        15.780202,
+                        45.866791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Medvednica",
+                  "text": "A Medvednica Természetvédelmi Park Zágráb mellett található hegység, amely népszerű kirándulóhely erdőkkel és túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        15.973717,
+                        45.903644
+                  ]
+            },
+            {
+                  "name": "Galerija Skurjeni",
+                  "text": "A zaprešići Skurjeni Galéria Matija Skurjeni híres horvát naiv festőművész alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.804558,
+                        45.870902
+                  ]
+            },
+            {
+                  "name": "Muzej Brdovec",
+                  "text": "A Brdovec Múzeum Zaprešić környékének régészeti és néprajzi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.769959,
+                        45.864476
+                  ]
+            },
+            {
+                  "name": "Novi dvori",
+                  "text": "A zaprešići Novi dvori egy történelmi birtok, amely egykor Jelačić József bán tulajdonában volt.",
+                  "category": "castle",
+                  "coords": [
+                        15.806816,
+                        45.872707
+                  ]
+            },
+            {
+                  "name": "Muzej automobila Ferdinand Budicki",
+                  "text": "A Ferdinand Budicki Autómúzeum veterán autók és motorkerékpárok lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.82564,
+                        45.872002
+                  ]
+            },
+            {
+                  "name": "Dvorac Lužnica",
+                  "text": "A zaprešići barokk Lužnica-kastély ma spirituális központként működik, és egy hatalmas angolpark veszi körül.",
+                  "category": "historical",
+                  "coords": [
+                        15.780202,
+                        45.866791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Medvednica",
+                  "text": "Parcul Natural Medvednica este o zonă montană de lângă Zagreb, populară pentru drumeții și activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        15.973717,
+                        45.903644
+                  ]
+            },
+            {
+                  "name": "Galerija Skurjeni",
+                  "text": "Galeria Skurjeni din Zaprešić expune lucrările celebrului pictor naiv croat Matija Skurjeni.",
+                  "category": "museum",
+                  "coords": [
+                        15.804558,
+                        45.870902
+                  ]
+            },
+            {
+                  "name": "Muzej Brdovec",
+                  "text": "Muzeul Brdovec prezintă patrimoniul arheologic și etnografic al regiunii de lângă Zaprešić.",
+                  "category": "museum",
+                  "coords": [
+                        15.769959,
+                        45.864476
+                  ]
+            },
+            {
+                  "name": "Novi dvori",
+                  "text": "Novi dvori este un domeniu istoric din Zaprešić, care a aparținut cândva banului croat Josip Jelačić.",
+                  "category": "castle",
+                  "coords": [
+                        15.806816,
+                        45.872707
+                  ]
+            },
+            {
+                  "name": "Muzej automobila Ferdinand Budicki",
+                  "text": "Muzeul de automobile Ferdinand Budicki expune o colecție de mașini și motociclete de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        15.82564,
+                        45.872002
+                  ]
+            },
+            {
+                  "name": "Dvorac Lužnica",
+                  "text": "Castelul baroc Lužnica din Zaprešić servește astăzi ca centru spiritual și este înconjurat de un parc vast.",
+                  "category": "historical",
+                  "coords": [
+                        15.780202,
+                        45.866791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park prirode Medvednica",
+                  "text": "Medvednica Nature Park is a mountain area near Zagreb, popular for its forests, hiking trails, and the Sljeme peak.",
+                  "category": "natural",
+                  "coords": [
+                        15.973717,
+                        45.903644
+                  ]
+            },
+            {
+                  "name": "Galerija Skurjeni",
+                  "text": "The Skurjeni Gallery in Zaprešić exhibits the works of the famous Croatian naive painter Matija Skurjeni.",
+                  "category": "museum",
+                  "coords": [
+                        15.804558,
+                        45.870902
+                  ]
+            },
+            {
+                  "name": "Muzej Brdovec",
+                  "text": "The Brdovec Museum preserves and displays the archaeological and ethnological heritage of the Zaprešić region.",
+                  "category": "museum",
+                  "coords": [
+                        15.769959,
+                        45.864476
+                  ]
+            },
+            {
+                  "name": "Novi dvori",
+                  "text": "Novi dvori is a historic estate in Zaprešić, famous for being the former home of Ban Josip Jelačić.",
+                  "category": "castle",
+                  "coords": [
+                        15.806816,
+                        45.872707
+                  ]
+            },
+            {
+                  "name": "Muzej automobila Ferdinand Budicki",
+                  "text": "The Ferdinand Budicki Automobile Museum showcases a collection of vintage cars and motorcycles.",
+                  "category": "museum",
+                  "coords": [
+                        15.82564,
+                        45.872002
+                  ]
+            },
+            {
+                  "name": "Dvorac Lužnica",
+                  "text": "The Baroque Lužnica Castle in Zaprešić serves as a spiritual center and is surrounded by a large English-style park.",
+                  "category": "historical",
+                  "coords": [
+                        15.780202,
+                        45.866791
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Park prirode Medvednica",
+                  "text": "Park prirode Medvednica planinsko je područje u blizini Zagreba, popularno odredište za izletnike i planinare.",
+                  "category": "natural",
+                  "coords": [
+                        15.973717,
+                        45.903644
+                  ]
+            },
+            {
+                  "name": "Galerija Skurjeni",
+                  "text": "Galerija Skurjeni u Zaprešiću posvećena je djelima poznatog hrvatskog naivnog slikara Matije Skurjenija.",
+                  "category": "museum",
+                  "coords": [
+                        15.804558,
+                        45.870902
+                  ]
+            },
+            {
+                  "name": "Muzej Brdovec",
+                  "text": "Muzej Brdovec čuva i izlaže arheološku i etnološku baštinu šireg zaprešićkog kraja.",
+                  "category": "museum",
+                  "coords": [
+                        15.769959,
+                        45.864476
+                  ]
+            },
+            {
+                  "name": "Novi dvori",
+                  "text": "Novi dvori Jelačićevi u Zaprešiću povijesno su imanje i nekadašnji dom hrvatskog bana Josipa Jelačića.",
+                  "category": "castle",
+                  "coords": [
+                        15.806816,
+                        45.872707
+                  ]
+            },
+            {
+                  "name": "Muzej automobila Ferdinand Budicki",
+                  "text": "Muzej automobila Ferdinand Budicki u Zaprešiću prikazuje zbirku starodobnih vozila i povijest automobilizma.",
+                  "category": "museum",
+                  "coords": [
+                        15.82564,
+                        45.872002
+                  ]
+            },
+            {
+                  "name": "Dvorac Lužnica",
+                  "text": "Barokni dvorac Lužnica u Zaprešiću danas je duhovni centar, okružen prostranim engleskim perivojem.",
+                  "category": "historical",
+                  "coords": [
+                        15.780202,
+                        45.866791
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Zaprešić", hu: "Zaprešić", ro: "Zaprešić", en: "Zaprešić"},
@@ -841,7 +7306,153 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-kutina-cities-v2",
+    id: "croatia-kutina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dom Kulture",
+                  "text": "Das Kulturhaus in Kutina ist der zentrale Ort für Konzerte, Theateraufführungen und lokale Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.773151,
+                        45.48323
+                  ]
+            },
+            {
+                  "name": "Muzej Moslavine",
+                  "text": "Das Museum von Moslavina in Kutina präsentiert die Geschichte, Kultur und Natur der gleichnamigen Region.",
+                  "category": "museum",
+                  "coords": [
+                        16.775689,
+                        45.483875
+                  ]
+            },
+            {
+                  "name": "Spomenik sinagoge",
+                  "text": "Dieses Denkmal in Kutina erinnert an die ehemalige Synagoge der Stadt, die im Zweiten Weltkrieg zerstört wurde.",
+                  "category": "historical",
+                  "coords": [
+                        16.777517,
+                        45.480063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dom Kulture",
+                  "text": "A kutinai Művelődési Ház koncertek, színházi előadások és helyi rendezvények központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        16.773151,
+                        45.48323
+                  ]
+            },
+            {
+                  "name": "Muzej Moslavine",
+                  "text": "A kutinai Moslavina Múzeum a névadó régió történelmét, kultúráját és természetvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.775689,
+                        45.483875
+                  ]
+            },
+            {
+                  "name": "Spomenik sinagoge",
+                  "text": "Ez a kutinai emlékmű a város egykori zsinagógájának állít emléket, amely a második világháborúban pusztult el.",
+                  "category": "historical",
+                  "coords": [
+                        16.777517,
+                        45.480063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dom Kulture",
+                  "text": "Casa de Cultură din Kutina este locul principal pentru concerte, spectacole de teatru și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        16.773151,
+                        45.48323
+                  ]
+            },
+            {
+                  "name": "Muzej Moslavine",
+                  "text": "Muzeul Moslavinei din Kutina prezintă istoria, cultura și natura regiunii cu același nume.",
+                  "category": "museum",
+                  "coords": [
+                        16.775689,
+                        45.483875
+                  ]
+            },
+            {
+                  "name": "Spomenik sinagoge",
+                  "text": "Acest monument din Kutina comemorează fosta sinagogă a orașului, care a fost distrusă în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        16.777517,
+                        45.480063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dom Kulture",
+                  "text": "The House of Culture in Kutina is the main venue for concerts, theatre performances, and local cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        16.773151,
+                        45.48323
+                  ]
+            },
+            {
+                  "name": "Muzej Moslavine",
+                  "text": "The Museum of Moslavina in Kutina preserves the history, culture, and natural heritage of the Moslavina region.",
+                  "category": "museum",
+                  "coords": [
+                        16.775689,
+                        45.483875
+                  ]
+            },
+            {
+                  "name": "Spomenik sinagoge",
+                  "text": "This monument in Kutina commemorates the city's former synagogue, which was destroyed during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        16.777517,
+                        45.480063
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Dom Kulture",
+                  "text": "Dom kulture u Kutini središnje je mjesto za koncerte, kazališne predstave i razna društvena događanja.",
+                  "category": "cultural",
+                  "coords": [
+                        16.773151,
+                        45.48323
+                  ]
+            },
+            {
+                  "name": "Muzej Moslavine",
+                  "text": "Muzej Moslavine u Kutini bavi se prikupljanjem i izlaganjem povijesne i kulturne baštine moslavačkog kraja.",
+                  "category": "museum",
+                  "coords": [
+                        16.775689,
+                        45.483875
+                  ]
+            },
+            {
+                  "name": "Spomenik sinagoge",
+                  "text": "Spomenik sinagogi u Kutini podignut je u sjećanje na nekadašnji židovski hram srušen u Drugom svjetskom ratu.",
+                  "category": "historical",
+                  "coords": [
+                        16.777517,
+                        45.480063
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Kutina", hu: "Kutina", ro: "Kutina", en: "Kutina"},
@@ -888,7 +7499,108 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-petrinja-cities-v2",
+    id: "croatia-petrinja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hrvatski dom Petrinja",
+                  "text": "Das Kulturzentrum von Petrinja ist der zentrale Ort für Theateraufführungen und lokale Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.27514,
+                        45.442089
+                  ]
+            },
+            {
+                  "name": "Petrinjsko kupalište",
+                  "text": "Ein beliebter Kiesstrand am Ufer der Kupa in Petrinja, ideal für sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        16.270022,
+                        45.444834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hrvatski dom Petrinja",
+                  "text": "Petrinja kulturális központja a színházi előadások és helyi rendezvények központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        16.27514,
+                        45.442089
+                  ]
+            },
+            {
+                  "name": "Petrinjsko kupalište",
+                  "text": "Népszerű kavicsos strand a Kulpa folyó partján Petrinjában, amely ideális a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.270022,
+                        45.444834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hrvatski dom Petrinja",
+                  "text": "Centrul cultural din Petrinja este locul principal pentru spectacole de teatru și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        16.27514,
+                        45.442089
+                  ]
+            },
+            {
+                  "name": "Petrinjsko kupalište",
+                  "text": "O plajă populară de pietriș pe malul râului Kupa în Petrinja, ideală pentru recreere estivală.",
+                  "category": "recreational",
+                  "coords": [
+                        16.270022,
+                        45.444834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hrvatski dom Petrinja",
+                  "text": "The cultural center in Petrinja is the main venue for theatrical performances and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        16.27514,
+                        45.442089
+                  ]
+            },
+            {
+                  "name": "Petrinjsko kupalište",
+                  "text": "A popular pebble beach on the banks of the Kupa River in Petrinja, ideal for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        16.270022,
+                        45.444834
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Hrvatski dom Petrinja",
+                  "text": "Kulturni centar u Petrinji glavno je mjesto za kazališne predstave i lokalna događanja.",
+                  "category": "cultural",
+                  "coords": [
+                        16.27514,
+                        45.442089
+                  ]
+            },
+            {
+                  "name": "Petrinjsko kupalište",
+                  "text": "Popularna šljunčana plaža na obali rijeke Kupe u Petrinji, idealna za ljetno opuštanje.",
+                  "category": "recreational",
+                  "coords": [
+                        16.270022,
+                        45.444834
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Petrinja", hu: "Petrinja", ro: "Petrinja", en: "Petrinja"},
@@ -935,7 +7647,1143 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-solin-cities-v2",
+    id: "croatia-solin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amfiteatar",
+                  "text": "Die beeindruckenden Ruinen des römischen Amphitheaters aus dem 2. Jahrhundert in der antiken Stadt Salona.",
+                  "category": "historical",
+                  "coords": [
+                        16.474347,
+                        43.538491
+                  ]
+            },
+            {
+                  "name": "Römisches Theater",
+                  "text": "Die Überreste des antiken römischen Theaters befinden sich im archäologischen Park von Salona.",
+                  "category": "historical",
+                  "coords": [
+                        16.480739,
+                        43.535928
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Petra i Mojsija",
+                  "text": "Archäologische Stätte einer mittelalterlichen Kirche in Solin, in der kroatische Könige gekrönt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        16.496891,
+                        43.540224
+                  ]
+            },
+            {
+                  "name": "Rižinice",
+                  "text": "Die Ruinen eines Benediktinerklosters aus dem 9. Jahrhundert, gegründet von Fürst Trpimir bei Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.498871,
+                        43.554921
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum Salona",
+                  "text": "Das Museum präsentiert eine reiche Sammlung archäologischer Funde aus der antiken römischen Stadt Salona.",
+                  "category": "museum",
+                  "coords": [
+                        16.483312,
+                        43.541689
+                  ]
+            },
+            {
+                  "name": "Porta Caesarea",
+                  "text": "Das Haupttor der antiken Stadt Salona, das einst den östlichen Eingang des römischen Solin bildete.",
+                  "category": "historical",
+                  "coords": [
+                        16.482455,
+                        43.538417
+                  ]
+            },
+            {
+                  "name": "Marusinac",
+                  "text": "Ein bedeutender archäologischer Ort in Salona mit den Überresten einer frühchristlichen Basilika und Nekropole.",
+                  "category": "historical",
+                  "coords": [
+                        16.475254,
+                        43.543998
+                  ]
+            },
+            {
+                  "name": "Porta",
+                  "text": "Antike Überreste eines Tores in den Verteidigungsmauern der römischen Stadt Salona in Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.483715,
+                        43.540493
+                  ]
+            },
+            {
+                  "name": "Basilika der fünf Märtyrer",
+                  "text": "Überreste einer frühchristlichen Basilika in der antiken Stadt Salona, gewidmet fünf dalmatinischen Märtyrern.",
+                  "category": "historical",
+                  "coords": [
+                        16.477523,
+                        43.539435
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "Eine archäologische Ausgrabungsstätte in Solin mit den Überresten einer mittelalterlichen Festung.",
+                  "category": "historical",
+                  "coords": [
+                        16.491501,
+                        43.537156
+                  ]
+            },
+            {
+                  "name": "Mramorna",
+                  "text": "Ein lokaler Strand in Solin, der einen ruhigen Ort zur Entspannung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.471283,
+                        43.536124
+                  ]
+            },
+            {
+                  "name": "Salonski akvadukt",
+                  "text": "Ein antikes römisches Aquädukt, das erbaut wurde, um Wasser vom Fluss Jadro nach Salona und zum Diokletianpalast zu leiten.",
+                  "category": "historical",
+                  "coords": [
+                        16.483607,
+                        43.538323
+                  ]
+            },
+            {
+                  "name": "Sutikva",
+                  "text": "Ein markanter Hügel und Gipfel bei Solin, bekannt für seine archäologische Bedeutung und die Aussicht auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        16.508072,
+                        43.533853
+                  ]
+            },
+            {
+                  "name": "Ploča",
+                  "text": "Ein Gipfel in der Gegend von Solin, der Wanderern einen schönen Aussichtspunkt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.513675,
+                        43.524683
+                  ]
+            },
+            {
+                  "name": "Starine",
+                  "text": "Ein Parkgelände in Solin, das eng mit den weitläufigen Ruinen der antiken römischen Stadt Salona verbunden ist.",
+                  "category": "park",
+                  "coords": [
+                        16.483314,
+                        43.539389
+                  ]
+            },
+            {
+                  "name": "Necropolis ad Viam Suburbanam",
+                  "text": "Eine antike römische Grabstätte an der Straße, die von Salona aus in Richtung Nordosten führt.",
+                  "category": "historical",
+                  "coords": [
+                        16.478898,
+                        43.539124
+                  ]
+            },
+            {
+                  "name": "Spomenik vojnicima",
+                  "text": "Denkmal für die gefallenen Soldaten in Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.49082,
+                        43.534151
+                  ]
+            },
+            {
+                  "name": "Kliško polje",
+                  "text": "Das Kliško polje ist eine fruchtbare Ebene unterhalb der Festung Klis bei Solin.",
+                  "category": "landmark",
+                  "coords": [
+                        16.519852,
+                        43.547495
+                  ]
+            },
+            {
+                  "name": "Panoramic view: Solin & Split & Valley",
+                  "text": "Aussichtspunkt mit weitem Panorama über Solin, Split und das umliegende Tal.",
+                  "category": "natural",
+                  "coords": [
+                        16.476565,
+                        43.559585
+                  ]
+            },
+            {
+                  "name": "Dioklecijanov akvadukt",
+                  "text": "Das Diokletian-Aquädukt ist ein beeindruckendes antikes römisches Bauwerk bei Solin.",
+                  "category": "landmark",
+                  "coords": [
+                        16.489945,
+                        43.524459
+                  ]
+            },
+            {
+                  "name": "crkva Gospe od Otoka",
+                  "text": "Die Kirche Gospe od Otoka ist das älteste Marienheiligtum Kroatiens und Ruhestätte kroatischer Könige.",
+                  "category": "religious",
+                  "coords": [
+                        16.490556,
+                        43.535241
+                  ]
+            },
+            {
+                  "name": "crkva svetog Lovre od Pazdigrada",
+                  "text": "Kleine historische Kirche des Heiligen Laurentius im Ortsteil Pazdigrad in Solin.",
+                  "category": "religious",
+                  "coords": [
+                        16.487965,
+                        43.50849
+                  ]
+            },
+            {
+                  "name": "Sv. Dujam",
+                  "text": "Die Kirche des Heiligen Domnius in Dujmovača ist ein wichtiger Sakralbau in Solin.",
+                  "category": "religious",
+                  "coords": [
+                        16.480671,
+                        43.526303
+                  ]
+            },
+            {
+                  "name": "crkva svetog Kaja",
+                  "text": "Katholische Kirche des Heiligen Kajus in Solin, die dem lokalen Schutzpatron gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.464162,
+                        43.541258
+                  ]
+            },
+            {
+                  "name": "Gašpina mlinica",
+                  "text": "Gašpina mlinica ist eine restaurierte Wassermühle aus dem 18. Jahrhundert am Fluss Jadro.",
+                  "category": "historical",
+                  "coords": [
+                        16.49451,
+                        43.539857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amfiteatar",
+                  "text": "A 2. századi római amfiteátrum lenyűgöző romjai az ókori Salona városában, Solin mellett.",
+                  "category": "historical",
+                  "coords": [
+                        16.474347,
+                        43.538491
+                  ]
+            },
+            {
+                  "name": "Rimsko kazalište",
+                  "text": "Az ókori római színház maradványai a solini Salona régészeti parkjában láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        16.480739,
+                        43.535928
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Petra i Mojsija",
+                  "text": "Egy középkori templom régészeti lelőhelye Solinban, ahol horvát királyokat koronáztak meg.",
+                  "category": "historical",
+                  "coords": [
+                        16.496891,
+                        43.540224
+                  ]
+            },
+            {
+                  "name": "Rižinice",
+                  "text": "Egy 9. századi bencés kolostor romjai Solin mellett, melyet Trpimir fejedelem alapított.",
+                  "category": "historical",
+                  "coords": [
+                        16.498871,
+                        43.554921
+                  ]
+            },
+            {
+                  "name": "Arheološki Muzej Salona",
+                  "text": "A múzeum az ókori római Salona városából származó régészeti leletek gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.483312,
+                        43.541689
+                  ]
+            },
+            {
+                  "name": "Porta Caesarea",
+                  "text": "Az ókori Salona főkapuja, amely egykor a római kori Solin keleti bejáratát alkotta.",
+                  "category": "historical",
+                  "coords": [
+                        16.482455,
+                        43.538417
+                  ]
+            },
+            {
+                  "name": "Marusinac",
+                  "text": "Jelentős régészeti lelőhely Salonában egy kora keresztény bazilika és nekropolisz maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        16.475254,
+                        43.543998
+                  ]
+            },
+            {
+                  "name": "Porta",
+                  "text": "Antik kapu maradványai a római kori Salona védőfalaiban, Solin területén.",
+                  "category": "historical",
+                  "coords": [
+                        16.483715,
+                        43.540493
+                  ]
+            },
+            {
+                  "name": "Bazilika pet mučenika",
+                  "text": "Egy kora keresztény bazilika romjai az ókori Salona területén, amelyet öt dalmát vértanúnak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        16.477523,
+                        43.539435
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "Régészeti lelőhely Solinban, egy középkori erődítmény maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        16.491501,
+                        43.537156
+                  ]
+            },
+            {
+                  "name": "Mramorna",
+                  "text": "Egy helyi strand Solinban, amely nyugodt pihenőhelyet kínál a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        16.471283,
+                        43.536124
+                  ]
+            },
+            {
+                  "name": "Salonski akvadukt",
+                  "text": "Egy ókori római vízvezeték, amely a Jadro-folyó vizét szállította Salonába és Diokletiánusz palotájába.",
+                  "category": "historical",
+                  "coords": [
+                        16.483607,
+                        43.538323
+                  ]
+            },
+            {
+                  "name": "Sutikva",
+                  "text": "Egy kiemelkedő domb és hegycsúcs Solin közelében, amely régészeti jelentőségéről és a környékre nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.508072,
+                        43.533853
+                  ]
+            },
+            {
+                  "name": "Ploča",
+                  "text": "Solin környékén található hegycsúcs, amely szép kilátópontot kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        16.513675,
+                        43.524683
+                  ]
+            },
+            {
+                  "name": "Starine",
+                  "text": "Parkterület Solinban, amely szorosan kapcsolódik az ókori római város, Salona kiterjedt romjaihoz.",
+                  "category": "park",
+                  "coords": [
+                        16.483314,
+                        43.539389
+                  ]
+            },
+            {
+                  "name": "Necropolis ad Viam Suburbanam",
+                  "text": "Egy ókori római temetkezési hely a Salonából északkeletre vezető út mentén.",
+                  "category": "historical",
+                  "coords": [
+                        16.478898,
+                        43.539124
+                  ]
+            },
+            {
+                  "name": "Spomenik vojnicima",
+                  "text": "Katonai emlékmű Solin városában, a hősök tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        16.49082,
+                        43.534151
+                  ]
+            },
+            {
+                  "name": "Kliško polje",
+                  "text": "A Kliško polje egy termékeny síkság a Klis-erőd lábánál, Solin közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.519852,
+                        43.547495
+                  ]
+            },
+            {
+                  "name": "Panoramic view: Solin & Split & Valley",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik Solinra, Splitre és a környező völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        16.476565,
+                        43.559585
+                  ]
+            },
+            {
+                  "name": "Dioklecijanov akvadukt",
+                  "text": "A Diocletianus-vízvezeték egy látványos ókori római építmény Solin közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.489945,
+                        43.524459
+                  ]
+            },
+            {
+                  "name": "crkva Gospe od Otoka",
+                  "text": "A Gospe od Otoka-templom Horvátország legrégebbi Mária-kegyhelye és horvát királyok nyughelye.",
+                  "category": "religious",
+                  "coords": [
+                        16.490556,
+                        43.535241
+                  ]
+            },
+            {
+                  "name": "crkva svetog Lovre od Pazdigrada",
+                  "text": "Szent Lőrinc tiszteletére szentelt kis történelmi templom Solin Pazdigrad városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        16.487965,
+                        43.50849
+                  ]
+            },
+            {
+                  "name": "Sv. Dujam",
+                  "text": "Szent Dujam temploma Dujmovačában, Solin egyik jelentős egyházi épülete.",
+                  "category": "religious",
+                  "coords": [
+                        16.480671,
+                        43.526303
+                  ]
+            },
+            {
+                  "name": "crkva svetog Kaja",
+                  "text": "Szent Kajus tiszteletére szentelt katolikus templom Solinban.",
+                  "category": "religious",
+                  "coords": [
+                        16.464162,
+                        43.541258
+                  ]
+            },
+            {
+                  "name": "Gašpina mlinica",
+                  "text": "A Gašpina mlinica egy 18. századi restaurált vízimalom a Jadro-folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        16.49451,
+                        43.539857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amfiteatar",
+                  "text": "Ruinele impresionante ale amfiteatrului roman din secolul al II-lea în orașul antic Salona.",
+                  "category": "historical",
+                  "coords": [
+                        16.474347,
+                        43.538491
+                  ]
+            },
+            {
+                  "name": "Rimsko kazalište",
+                  "text": "Rămășițele teatrului roman antic se află în parcul arheologic Salona din Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.480739,
+                        43.535928
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Petra i Mojsija",
+                  "text": "Situl arheologic al unei biserici medievale din Solin, unde au fost încoronați regii croați.",
+                  "category": "historical",
+                  "coords": [
+                        16.496891,
+                        43.540224
+                  ]
+            },
+            {
+                  "name": "Rižinice",
+                  "text": "Ruinele unei mănăstiri benedictine din secolul al IX-lea, fondată de ducele Trpimir lângă Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.498871,
+                        43.554921
+                  ]
+            },
+            {
+                  "name": "Arheološki Muzej Salona",
+                  "text": "Muzeul prezintă o colecție bogată de descoperiri arheologice din orașul roman antic Salona.",
+                  "category": "museum",
+                  "coords": [
+                        16.483312,
+                        43.541689
+                  ]
+            },
+            {
+                  "name": "Porta Caesarea",
+                  "text": "Poarta principală a orașului antic Salona, care forma odinioară intrarea estică în Solinul roman.",
+                  "category": "historical",
+                  "coords": [
+                        16.482455,
+                        43.538417
+                  ]
+            },
+            {
+                  "name": "Marusinac",
+                  "text": "Un sit arheologic important din Salona cu resturile unei bazilici și ale unei necropole creștine timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        16.475254,
+                        43.543998
+                  ]
+            },
+            {
+                  "name": "Porta",
+                  "text": "Rămășițe antice ale unei porți din zidurile de apărare ale orașului roman Salona din Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.483715,
+                        43.540493
+                  ]
+            },
+            {
+                  "name": "Bazilika pet mučenika",
+                  "text": "Rămășițele unei basilici creștine timpurii din orașul antic Salona, dedicată celor cinci martiri dalmați.",
+                  "category": "historical",
+                  "coords": [
+                        16.477523,
+                        43.539435
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "Un sit arheologic în Solin care prezintă rămășițele unei cetăți din perioada medievală.",
+                  "category": "historical",
+                  "coords": [
+                        16.491501,
+                        43.537156
+                  ]
+            },
+            {
+                  "name": "Mramorna",
+                  "text": "O plajă locală în Solin, oferind un loc liniștit pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        16.471283,
+                        43.536124
+                  ]
+            },
+            {
+                  "name": "Salonski akvadukt",
+                  "text": "Un apeduct roman antic construit pentru a furniza apă din râul Jadro către Salona și Palatul lui Dioclețian.",
+                  "category": "historical",
+                  "coords": [
+                        16.483607,
+                        43.538323
+                  ]
+            },
+            {
+                  "name": "Sutikva",
+                  "text": "Un deal și vârf proeminent lângă Solin, cunoscut pentru importanța sa arheologică și priveliștile asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        16.508072,
+                        43.533853
+                  ]
+            },
+            {
+                  "name": "Ploča",
+                  "text": "Un vârf situat în zona Solin, oferind un punct de belvedere pitoresc pentru excursioniști.",
+                  "category": "natural",
+                  "coords": [
+                        16.513675,
+                        43.524683
+                  ]
+            },
+            {
+                  "name": "Starine",
+                  "text": "O zonă de parc în Solin, strâns asociată cu ruinele extinse ale orașului roman antic Salona.",
+                  "category": "park",
+                  "coords": [
+                        16.483314,
+                        43.539389
+                  ]
+            },
+            {
+                  "name": "Necropolis ad Viam Suburbanam",
+                  "text": "Un sit funerar roman antic situat de-a lungul drumului care iese din Salona spre nord-est.",
+                  "category": "historical",
+                  "coords": [
+                        16.478898,
+                        43.539124
+                  ]
+            },
+            {
+                  "name": "Spomenik vojnicima",
+                  "text": "Monument dedicat soldaților situat în orașul Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.49082,
+                        43.534151
+                  ]
+            },
+            {
+                  "name": "Kliško polje",
+                  "text": "Kliško polje este o câmpie fertilă situată la poalele cetății Klis, lângă Solin.",
+                  "category": "landmark",
+                  "coords": [
+                        16.519852,
+                        43.547495
+                  ]
+            },
+            {
+                  "name": "Panoramic view: Solin & Split & Valley",
+                  "text": "Punct de observație care oferă o vedere panoramică asupra orașelor Solin, Split și a văii.",
+                  "category": "natural",
+                  "coords": [
+                        16.476565,
+                        43.559585
+                  ]
+            },
+            {
+                  "name": "Dioklecijanov akvadukt",
+                  "text": "Apeductul lui Dioclețian este o structură romană antică impresionantă de lângă Solin.",
+                  "category": "landmark",
+                  "coords": [
+                        16.489945,
+                        43.524459
+                  ]
+            },
+            {
+                  "name": "crkva Gospe od Otoka",
+                  "text": "Biserica Gospe od Otoka este cel mai vechi sanctuar marian din Croația și locul de odihnă al regilor croați.",
+                  "category": "religious",
+                  "coords": [
+                        16.490556,
+                        43.535241
+                  ]
+            },
+            {
+                  "name": "crkva svetog Lovre od Pazdigrada",
+                  "text": "Mică biserică istorică dedicată Sfântului Laurențiu în cartierul Pazdigrad din Solin.",
+                  "category": "religious",
+                  "coords": [
+                        16.487965,
+                        43.50849
+                  ]
+            },
+            {
+                  "name": "Sv. Dujam",
+                  "text": "Biserica Sfântul Domnius din Dujmovača este un edificiu religios important din Solin.",
+                  "category": "religious",
+                  "coords": [
+                        16.480671,
+                        43.526303
+                  ]
+            },
+            {
+                  "name": "crkva svetog Kaja",
+                  "text": "Biserică catolică dedicată Sfântului Caius situată în orașul Solin.",
+                  "category": "religious",
+                  "coords": [
+                        16.464162,
+                        43.541258
+                  ]
+            },
+            {
+                  "name": "Gašpina mlinica",
+                  "text": "Gašpina mlinica este o moară de apă restaurată din secolul al XVIII-lea, situată pe râul Jadro.",
+                  "category": "historical",
+                  "coords": [
+                        16.49451,
+                        43.539857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salona amphitheater",
+                  "text": "The impressive ruins of the 2nd-century Roman amphitheater in the ancient city of Salona.",
+                  "category": "historical",
+                  "coords": [
+                        16.474347,
+                        43.538491
+                  ]
+            },
+            {
+                  "name": "Roman Theatre",
+                  "text": "The remains of the ancient Roman theatre are located in the Salona archaeological park in Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.480739,
+                        43.535928
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Petra i Mojsija",
+                  "text": "Archaeological site of a medieval church in Solin where Croatian kings were once crowned.",
+                  "category": "historical",
+                  "coords": [
+                        16.496891,
+                        43.540224
+                  ]
+            },
+            {
+                  "name": "Rižinice",
+                  "text": "Ruins of a 9th-century Benedictine monastery founded by Duke Trpimir near Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.498871,
+                        43.554921
+                  ]
+            },
+            {
+                  "name": "Archeological Museum Salona",
+                  "text": "The museum presents a rich collection of archaeological finds from the ancient Roman city of Salona.",
+                  "category": "museum",
+                  "coords": [
+                        16.483312,
+                        43.541689
+                  ]
+            },
+            {
+                  "name": "Porta Caesarea",
+                  "text": "The main gate of the ancient city of Salona, which once formed the eastern entrance of Roman Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.482455,
+                        43.538417
+                  ]
+            },
+            {
+                  "name": "Marusinac",
+                  "text": "An important archaeological site in Salona featuring the remains of an early Christian basilica and necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        16.475254,
+                        43.543998
+                  ]
+            },
+            {
+                  "name": "Porta",
+                  "text": "Ancient remains of a gate in the defensive walls of the Roman city of Salona in Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.483715,
+                        43.540493
+                  ]
+            },
+            {
+                  "name": "Basilica of the Five Martyrs",
+                  "text": "Remains of an early Christian basilica in the ancient city of Salona, dedicated to five Dalmatic martyrs.",
+                  "category": "historical",
+                  "coords": [
+                        16.477523,
+                        43.539435
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "An archaeological site in Solin featuring remains of a fortress from the medieval period.",
+                  "category": "historical",
+                  "coords": [
+                        16.491501,
+                        43.537156
+                  ]
+            },
+            {
+                  "name": "Mramorna",
+                  "text": "A local beach in Solin, offering a quiet place for relaxation by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        16.471283,
+                        43.536124
+                  ]
+            },
+            {
+                  "name": "Salona aqueduct",
+                  "text": "An ancient Roman aqueduct built to supply water from the Jadro river to Salona and Diocletian's Palace.",
+                  "category": "historical",
+                  "coords": [
+                        16.483607,
+                        43.538323
+                  ]
+            },
+            {
+                  "name": "Sutikva",
+                  "text": "A prominent hill and peak near Solin, known for its archaeological importance and views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        16.508072,
+                        43.533853
+                  ]
+            },
+            {
+                  "name": "Ploča",
+                  "text": "A peak located in the Solin area, offering a scenic viewpoint for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        16.513675,
+                        43.524683
+                  ]
+            },
+            {
+                  "name": "Starine",
+                  "text": "A park area in Solin closely associated with the extensive ruins of the ancient Roman city of Salona.",
+                  "category": "park",
+                  "coords": [
+                        16.483314,
+                        43.539389
+                  ]
+            },
+            {
+                  "name": "Necropolis ad Viam Suburbanam",
+                  "text": "An ancient Roman burial site located along the road leading out of Salona towards the northeast.",
+                  "category": "historical",
+                  "coords": [
+                        16.478898,
+                        43.539124
+                  ]
+            },
+            {
+                  "name": "Spomenik vojnicima",
+                  "text": "A monument dedicated to soldiers located in the city of Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.49082,
+                        43.534151
+                  ]
+            },
+            {
+                  "name": "Kliško polje",
+                  "text": "Kliško polje is a fertile plain located at the foot of the Klis Fortress near Solin.",
+                  "category": "landmark",
+                  "coords": [
+                        16.519852,
+                        43.547495
+                  ]
+            },
+            {
+                  "name": "Panoramic view: Solin & Split & Valley",
+                  "text": "A viewpoint offering a wide panoramic view of Solin, Split, and the surrounding valley.",
+                  "category": "natural",
+                  "coords": [
+                        16.476565,
+                        43.559585
+                  ]
+            },
+            {
+                  "name": "Dioklecijanov akvadukt",
+                  "text": "The Diocletian Aqueduct is an impressive ancient Roman structure located near Solin.",
+                  "category": "landmark",
+                  "coords": [
+                        16.489945,
+                        43.524459
+                  ]
+            },
+            {
+                  "name": "crkva Gospe od Otoka",
+                  "text": "The Church of Our Lady of the Island is the oldest Marian shrine in Croatia and a burial place of Croatian kings.",
+                  "category": "religious",
+                  "coords": [
+                        16.490556,
+                        43.535241
+                  ]
+            },
+            {
+                  "name": "crkva svetog Lovre od Pazdigrada",
+                  "text": "A small historical church dedicated to Saint Lawrence in the Pazdigrad neighborhood of Solin.",
+                  "category": "religious",
+                  "coords": [
+                        16.487965,
+                        43.50849
+                  ]
+            },
+            {
+                  "name": "Sv. Dujam",
+                  "text": "The Church of Saint Domnius in Dujmovača is an important religious building in Solin.",
+                  "category": "religious",
+                  "coords": [
+                        16.480671,
+                        43.526303
+                  ]
+            },
+            {
+                  "name": "crkva svetog Kaja",
+                  "text": "A Catholic church dedicated to Saint Caius located in the city of Solin.",
+                  "category": "religious",
+                  "coords": [
+                        16.464162,
+                        43.541258
+                  ]
+            },
+            {
+                  "name": "Gašpina mlinica",
+                  "text": "Gašpina mlinica is a restored 18th-century watermill located on the Jadro River.",
+                  "category": "historical",
+                  "coords": [
+                        16.49451,
+                        43.539857
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Salona amphitheater",
+                  "text": "Impresivni ostatci rimskog amfiteatra iz 2. stoljeća u antičkom gradu Saloni.",
+                  "category": "historical",
+                  "coords": [
+                        16.474347,
+                        43.538491
+                  ]
+            },
+            {
+                  "name": "Roman Theatre",
+                  "text": "Ostatci antičkog rimskog kazališta nalaze se u arheološkom parku Salona u Solinu.",
+                  "category": "historical",
+                  "coords": [
+                        16.480739,
+                        43.535928
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Petra i Mojsija",
+                  "text": "Arheološko nalazište srednjovjekovne crkve u Solinu u kojoj su se krunili hrvatski kraljevi.",
+                  "category": "historical",
+                  "coords": [
+                        16.496891,
+                        43.540224
+                  ]
+            },
+            {
+                  "name": "Rižinice",
+                  "text": "Ruševine benediktinskog samostana iz 9. stoljeća koji je osnovao knez Trpimir kod Solina.",
+                  "category": "historical",
+                  "coords": [
+                        16.498871,
+                        43.554921
+                  ]
+            },
+            {
+                  "name": "Archeological Museum Salona",
+                  "text": "Muzej predstavlja bogatu zbirku arheoloških nalaza iz antičkog rimskog grada Salone.",
+                  "category": "museum",
+                  "coords": [
+                        16.483312,
+                        43.541689
+                  ]
+            },
+            {
+                  "name": "Porta Caesarea",
+                  "text": "Glavna vrata antičke Salone koja su nekoć činila istočni ulaz u rimski Solin.",
+                  "category": "historical",
+                  "coords": [
+                        16.482455,
+                        43.538417
+                  ]
+            },
+            {
+                  "name": "Marusinac",
+                  "text": "Važan arheološki lokalitet u Saloni s ostatcima starokršćanske bazilike i nekropole.",
+                  "category": "historical",
+                  "coords": [
+                        16.475254,
+                        43.543998
+                  ]
+            },
+            {
+                  "name": "Porta",
+                  "text": "Antički ostatci vrata u obrambenim zidinama rimskoga grada Salone u Solinu.",
+                  "category": "historical",
+                  "coords": [
+                        16.483715,
+                        43.540493
+                  ]
+            },
+            {
+                  "name": "Basilica of the Five Martyrs",
+                  "text": "Ostaci starokršćanske bazilike u antičkoj Saloni, posvećene petorici dalmatinskih mučenika.",
+                  "category": "historical",
+                  "coords": [
+                        16.477523,
+                        43.539435
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "Arheološko nalazište u Solinu s ostacima srednjovjekovne utvrde.",
+                  "category": "historical",
+                  "coords": [
+                        16.491501,
+                        43.537156
+                  ]
+            },
+            {
+                  "name": "Mramorna",
+                  "text": "Lokalna plaža u Solinu, koja nudi mirno mjesto za opuštanje uz more.",
+                  "category": "recreational",
+                  "coords": [
+                        16.471283,
+                        43.536124
+                  ]
+            },
+            {
+                  "name": "Salona aqueduct",
+                  "text": "Antički rimski akvedukt izgrađen za opskrbu vodom iz rijeke Jadro u Salonu i Dioklecijanovu palaču.",
+                  "category": "historical",
+                  "coords": [
+                        16.483607,
+                        43.538323
+                  ]
+            },
+            {
+                  "name": "Sutikva",
+                  "text": "Istaknuto brdo i vrh u blizini Solina, poznat po svojoj arheološkoj važnosti i pogledu na okolinu.",
+                  "category": "natural",
+                  "coords": [
+                        16.508072,
+                        43.533853
+                  ]
+            },
+            {
+                  "name": "Ploča",
+                  "text": "Vrh smješten na području Solina, koji nudi slikovit vidikovac za planinare.",
+                  "category": "natural",
+                  "coords": [
+                        16.513675,
+                        43.524683
+                  ]
+            },
+            {
+                  "name": "Starine",
+                  "text": "Park u Solinu koji je usko povezan s opsežnim ruševinama antičkog rimskog grada Salone.",
+                  "category": "park",
+                  "coords": [
+                        16.483314,
+                        43.539389
+                  ]
+            },
+            {
+                  "name": "Necropolis ad Viam Suburbanam",
+                  "text": "Antičko rimsko groblje smješteno uz cestu koja vodi iz Salone prema sjeveroistoku.",
+                  "category": "historical",
+                  "coords": [
+                        16.478898,
+                        43.539124
+                  ]
+            },
+            {
+                  "name": "Spomenik vojnicima",
+                  "text": "Spomenik posvećen vojnicima koji se nalazi u Solinu.",
+                  "category": "historical",
+                  "coords": [
+                        16.49082,
+                        43.534151
+                  ]
+            },
+            {
+                  "name": "Kliško polje",
+                  "text": "Kliško polje je plodna ravnica smještena u podnožju kliške tvrđave u blizini Solina.",
+                  "category": "landmark",
+                  "coords": [
+                        16.519852,
+                        43.547495
+                  ]
+            },
+            {
+                  "name": "Panoramic view: Solin & Split & Valley",
+                  "text": "Vidikovac koji pruža široki panoramski pogled na Solin, Split i okolicu.",
+                  "category": "natural",
+                  "coords": [
+                        16.476565,
+                        43.559585
+                  ]
+            },
+            {
+                  "name": "Dioklecijanov akvadukt",
+                  "text": "Dioklecijanov akvadukt impresivna je antička rimska građevina u blizini Solina.",
+                  "category": "landmark",
+                  "coords": [
+                        16.489945,
+                        43.524459
+                  ]
+            },
+            {
+                  "name": "crkva Gospe od Otoka",
+                  "text": "Crkva Gospe od Otoka najstarije je marijansko svetište u Hrvatskoj i grobište hrvatskih vladara.",
+                  "category": "religious",
+                  "coords": [
+                        16.490556,
+                        43.535241
+                  ]
+            },
+            {
+                  "name": "crkva svetog Lovre od Pazdigrada",
+                  "text": "Mala povijesna crkva svetog Lovre u solinskom naselju Pazdigrad.",
+                  "category": "religious",
+                  "coords": [
+                        16.487965,
+                        43.50849
+                  ]
+            },
+            {
+                  "name": "Sv. Dujam",
+                  "text": "Crkva svetog Duje u Dujmovači značajan je vjerski objekt u Solinu.",
+                  "category": "religious",
+                  "coords": [
+                        16.480671,
+                        43.526303
+                  ]
+            },
+            {
+                  "name": "crkva svetog Kaja",
+                  "text": "Katolička crkva svetog Kaja koja se nalazi u gradu Solinu.",
+                  "category": "religious",
+                  "coords": [
+                        16.464162,
+                        43.541258
+                  ]
+            },
+            {
+                  "name": "Gašpina mlinica",
+                  "text": "Gašpina mlinica je obnovljena vodenica iz 18. stoljeća koja se nalazi na rijeci Jadro.",
+                  "category": "historical",
+                  "coords": [
+                        16.49451,
+                        43.539857
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Solin", hu: "Szolin", ro: "Solin", en: "Solin"},
@@ -982,7 +8830,288 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-metkovic-cities-v2",
+    id: "croatia-metkovic-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prirodoslovni muzej",
+                  "text": "Das Naturkundemuseum in Metković beherbergt eine bedeutende Sammlung der dalmatinischen Tierwelt.",
+                  "category": "museum",
+                  "coords": [
+                        17.648316,
+                        43.052393
+                  ]
+            },
+            {
+                  "name": "Ljetno kino",
+                  "text": "Beliebte Freiluftbühne in Metković für Filmvorführungen und kulturelle Veranstaltungen im Sommer.",
+                  "category": "cultural",
+                  "coords": [
+                        17.653007,
+                        43.053581
+                  ]
+            },
+            {
+                  "name": "Jama u Predolcu",
+                  "text": "Eine natürliche Höhle in Metković mit vielfältigen unterirdischen Formationen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.658349,
+                        43.046289
+                  ]
+            },
+            {
+                  "name": "crkva svetog Ilije",
+                  "text": "Eine neoromanische Kirche aus dem 19. Jahrhundert, die auf einem Hügel in Metković erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        17.650421,
+                        43.0525
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Eine moderne Pfarrkirche in Metković, die dem heiligen Nikolaus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.644289,
+                        43.060931
+                  ]
+            },
+            {
+                  "name": "Lučki most",
+                  "text": "Eine Eisenbrücke vom Anfang des 20. Jahrhunderts, die den Fluss Neretva in Metković überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        17.652341,
+                        43.054644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prirodoslovni muzej",
+                  "text": "A metkovići Természettudományi Múzeum a dalmát állatvilág jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        17.648316,
+                        43.052393
+                  ]
+            },
+            {
+                  "name": "Ljetno kino",
+                  "text": "Népszerű szabadtéri mozi Metkovićban, amely nyári vetítéseknek és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.653007,
+                        43.053581
+                  ]
+            },
+            {
+                  "name": "Jama u Predolcu",
+                  "text": "Természetes barlang Metkovićban, változatos föld alatti képződményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        17.658349,
+                        43.046289
+                  ]
+            },
+            {
+                  "name": "crkva svetog Ilije",
+                  "text": "A 19. században épült neoromán templom egy dombon Metkovićban.",
+                  "category": "religious",
+                  "coords": [
+                        17.650421,
+                        43.0525
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Modern plébániatemplom Metkovićban, amelyet Szent Miklósnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        17.644289,
+                        43.060931
+                  ]
+            },
+            {
+                  "name": "Lučki most",
+                  "text": "20. század eleji vashíd a Neretva folyó felett Metkovićban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.652341,
+                        43.054644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prirodoslovni muzej",
+                  "text": "Muzeul de Istorie Naturală din Metković găzduiește o colecție importantă a faunei din Dalmația.",
+                  "category": "museum",
+                  "coords": [
+                        17.648316,
+                        43.052393
+                  ]
+            },
+            {
+                  "name": "Ljetno kino",
+                  "text": "Un cinematograf popular în aer liber din Metković, folosit pentru proiecții și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.653007,
+                        43.053581
+                  ]
+            },
+            {
+                  "name": "Jama u Predolcu",
+                  "text": "O peșteră naturală în Metković cu diverse formațiuni subterane.",
+                  "category": "landmark",
+                  "coords": [
+                        17.658349,
+                        43.046289
+                  ]
+            },
+            {
+                  "name": "crkva svetog Ilije",
+                  "text": "O biserică neoromanică construită în secolul al XIX-lea pe un deal din Metković.",
+                  "category": "religious",
+                  "coords": [
+                        17.650421,
+                        43.0525
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "O biserică parohială modernă din Metković dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        17.644289,
+                        43.060931
+                  ]
+            },
+            {
+                  "name": "Lučki most",
+                  "text": "Un pod de fier de la începutul secolului XX care traversează râul Neretva în Metković.",
+                  "category": "landmark",
+                  "coords": [
+                        17.652341,
+                        43.054644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prirodoslovni muzej",
+                  "text": "The Natural History Museum in Metković houses an important collection of Dalmatian wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        17.648316,
+                        43.052393
+                  ]
+            },
+            {
+                  "name": "Ljetno kino",
+                  "text": "A popular open-air cinema in Metković used for screenings and cultural events during the summer.",
+                  "category": "cultural",
+                  "coords": [
+                        17.653007,
+                        43.053581
+                  ]
+            },
+            {
+                  "name": "Cave in Predolac",
+                  "text": "A natural cave in Metković with diverse underground formations.",
+                  "category": "landmark",
+                  "coords": [
+                        17.658349,
+                        43.046289
+                  ]
+            },
+            {
+                  "name": "crkva svetog Ilije",
+                  "text": "A Neo-Romanesque church built in the 19th century on a hill in Metković.",
+                  "category": "religious",
+                  "coords": [
+                        17.650421,
+                        43.0525
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "A modern parish church in Metković dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        17.644289,
+                        43.060931
+                  ]
+            },
+            {
+                  "name": "Lučki most",
+                  "text": "An iron bridge from the early 20th century crossing the Neretva river in Metković.",
+                  "category": "landmark",
+                  "coords": [
+                        17.652341,
+                        43.054644
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Prirodoslovni muzej",
+                  "text": "Prirodoslovni muzej u Metkoviću čuva bogatu zbirku prepariranih životinja iz doline Neretve.",
+                  "category": "museum",
+                  "coords": [
+                        17.648316,
+                        43.052393
+                  ]
+            },
+            {
+                  "name": "Ljetno kino",
+                  "text": "Popularno ljetno kino u Metkoviću koje služi za filmske projekcije i kulturna događanja.",
+                  "category": "cultural",
+                  "coords": [
+                        17.653007,
+                        43.053581
+                  ]
+            },
+            {
+                  "name": "Cave in Predolac",
+                  "text": "Prirodna špilja u Metkoviću s raznolikim podzemnim formacijama.",
+                  "category": "landmark",
+                  "coords": [
+                        17.658349,
+                        43.046289
+                  ]
+            },
+            {
+                  "name": "crkva svetog Ilije",
+                  "text": "Neoromanička crkva sagrađena u 19. stoljeću na brdu u Metkoviću.",
+                  "category": "religious",
+                  "coords": [
+                        17.650421,
+                        43.0525
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Moderna župna crkva u Metkoviću posvećena svetom Nikoli.",
+                  "category": "religious",
+                  "coords": [
+                        17.644289,
+                        43.060931
+                  ]
+            },
+            {
+                  "name": "Lučki most",
+                  "text": "Željezni most s početka 20. stoljeća preko rijeke Neretve u Metkoviću.",
+                  "category": "landmark",
+                  "coords": [
+                        17.652341,
+                        43.054644
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Metković", hu: "Metković", ro: "Metković", en: "Metković"},
@@ -1076,7 +9205,378 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-sinj-cities-v2",
+    id: "croatia-sinj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sinjska tvrđava",
+                  "text": "Eine Festung auf einem Hügel über Sinj, Schauplatz einer historischen Schlacht im Jahr 1715.",
+                  "category": "castle",
+                  "coords": [
+                        16.632353,
+                        43.702529
+                  ]
+            },
+            {
+                  "name": "Kamičak",
+                  "text": "Ein befestigter Turm mit Glocke im Zentrum von Sinj, erbaut im Jahr 1712.",
+                  "category": "castle",
+                  "coords": [
+                        16.63628,
+                        43.701795
+                  ]
+            },
+            {
+                  "name": "Franjevački Muzej",
+                  "text": "Ein Museum in Sinj, das archäologische Funde aus dem Franziskanerkloster ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        16.637806,
+                        43.702025
+                  ]
+            },
+            {
+                  "name": "Muzej Sinjske alke",
+                  "text": "Ein Museum in Sinj, das dem traditionellen Ritterturnier Sinjska alka gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.635452,
+                        43.700865
+                  ]
+            },
+            {
+                  "name": "Šušnjevača",
+                  "text": "Ein Berggipfel in der Nähe von Sinj, der sich zum Wandern eignet.",
+                  "category": "natural",
+                  "coords": [
+                        16.65492,
+                        43.718641
+                  ]
+            },
+            {
+                  "name": "Streljani Prvog splitskog partizanskog odreda",
+                  "text": "Ein Denkmal in Sinj zur Erinnerung an die im Zweiten Weltkrieg hingerichteten Partisanen.",
+                  "category": "historical",
+                  "coords": [
+                        16.625218,
+                        43.698373
+                  ]
+            },
+            {
+                  "name": "Bunker iz II.WW",
+                  "text": "Überreste eines Betonbunkers aus dem Zweiten Weltkrieg in der Nähe von Sinj.",
+                  "category": "historical",
+                  "coords": [
+                        16.620735,
+                        43.709144
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Die Überreste einer alten militärischen Verteidigungsanlage in Sinj.",
+                  "category": "historical",
+                  "coords": [
+                        16.623057,
+                        43.697054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sinjska tvrđava",
+                  "text": "Erőd a Sinj feletti dombon, az 1715-ös történelmi csata helyszíne.",
+                  "category": "castle",
+                  "coords": [
+                        16.632353,
+                        43.702529
+                  ]
+            },
+            {
+                  "name": "Kamičak",
+                  "text": "Erődített harangtorony Sinj központjában, amely 1712-ben épült.",
+                  "category": "castle",
+                  "coords": [
+                        16.63628,
+                        43.701795
+                  ]
+            },
+            {
+                  "name": "Franjevački Muzej",
+                  "text": "Múzeum Sinjben, amely a ferences kolostorból származó régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.637806,
+                        43.702025
+                  ]
+            },
+            {
+                  "name": "Muzej Sinjske alke",
+                  "text": "A hagyományos Sinjska alka lovagi tornának szentelt múzeum Sinjben.",
+                  "category": "museum",
+                  "coords": [
+                        16.635452,
+                        43.700865
+                  ]
+            },
+            {
+                  "name": "Šušnjevača",
+                  "text": "Egy hegycsúcs Sinj közelében, amely alkalmas túrázásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.65492,
+                        43.718641
+                  ]
+            },
+            {
+                  "name": "Streljani Prvog splitskog partizanskog odreda",
+                  "text": "Emlékmű Sinjben a második világháborúban kivégzett partizánok emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        16.625218,
+                        43.698373
+                  ]
+            },
+            {
+                  "name": "Bunker iz II.WW",
+                  "text": "Egy második világháborús betonbunker maradványai Sinj közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.620735,
+                        43.709144
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Régi katonai védelmi építmény maradványai Sinjben.",
+                  "category": "historical",
+                  "coords": [
+                        16.623057,
+                        43.697054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sinjska tvrđava",
+                  "text": "O cetate pe un deal deasupra orașului Sinj, locul unei bătălii istorice în 1715.",
+                  "category": "castle",
+                  "coords": [
+                        16.632353,
+                        43.702529
+                  ]
+            },
+            {
+                  "name": "Kamičak",
+                  "text": "Un turn fortificat cu clopot în centrul orașului Sinj, construit în 1712.",
+                  "category": "castle",
+                  "coords": [
+                        16.63628,
+                        43.701795
+                  ]
+            },
+            {
+                  "name": "Franjevački Muzej",
+                  "text": "Un muzeu din Sinj care expune descoperiri arheologice de la mănăstirea franciscană.",
+                  "category": "museum",
+                  "coords": [
+                        16.637806,
+                        43.702025
+                  ]
+            },
+            {
+                  "name": "Muzej Sinjske alke",
+                  "text": "Un muzeu dedicat turneului tradițional Sinjska alka din Sinj.",
+                  "category": "museum",
+                  "coords": [
+                        16.635452,
+                        43.700865
+                  ]
+            },
+            {
+                  "name": "Šušnjevača",
+                  "text": "Un vârf muntos de lângă Sinj, potrivit pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        16.65492,
+                        43.718641
+                  ]
+            },
+            {
+                  "name": "Streljani Prvog splitskog partizanskog odreda",
+                  "text": "Un monument în Sinj ridicat în memoria partizanilor executați în Al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        16.625218,
+                        43.698373
+                  ]
+            },
+            {
+                  "name": "Bunker iz II.WW",
+                  "text": "Ruinele unui buncăr de beton din Al Doilea Război Mondial, situat lângă Sinj.",
+                  "category": "historical",
+                  "coords": [
+                        16.620735,
+                        43.709144
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Vestigiile unei vechi structuri de apărare militară din Sinj.",
+                  "category": "historical",
+                  "coords": [
+                        16.623057,
+                        43.697054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sinjska tvrđava",
+                  "text": "A fortress on a hill above Sinj, site of a historic battle in 1715.",
+                  "category": "castle",
+                  "coords": [
+                        16.632353,
+                        43.702529
+                  ]
+            },
+            {
+                  "name": "Kamičak",
+                  "text": "A fortified tower with a bell in the center of Sinj, built in 1712.",
+                  "category": "castle",
+                  "coords": [
+                        16.63628,
+                        43.701795
+                  ]
+            },
+            {
+                  "name": "Franjevački Muzej",
+                  "text": "A museum in Sinj displaying archaeological finds from the Franciscan monastery.",
+                  "category": "museum",
+                  "coords": [
+                        16.637806,
+                        43.702025
+                  ]
+            },
+            {
+                  "name": "Muzej Sinjske alke",
+                  "text": "A museum dedicated to the traditional Sinjska alka tournament in Sinj.",
+                  "category": "museum",
+                  "coords": [
+                        16.635452,
+                        43.700865
+                  ]
+            },
+            {
+                  "name": "Šušnjevača",
+                  "text": "A mountain peak near Sinj suitable for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        16.65492,
+                        43.718641
+                  ]
+            },
+            {
+                  "name": "Streljani Prvog splitskog partizanskog odreda",
+                  "text": "A monument in Sinj commemorating the partisans executed during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        16.625218,
+                        43.698373
+                  ]
+            },
+            {
+                  "name": "Bunker iz II.WW",
+                  "text": "Ruins of a concrete bunker from the Second World War located near Sinj.",
+                  "category": "historical",
+                  "coords": [
+                        16.620735,
+                        43.709144
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "The remains of an old military defense structure in Sinj.",
+                  "category": "historical",
+                  "coords": [
+                        16.623057,
+                        43.697054
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Sinjska tvrđava",
+                  "text": "Tvrđava na brdu iznad Sinja, mjesto povijesne bitke 1715. godine.",
+                  "category": "castle",
+                  "coords": [
+                        16.632353,
+                        43.702529
+                  ]
+            },
+            {
+                  "name": "Kamičak",
+                  "text": "Utvrđena kula sa zvonom u središtu Sinja, sagrađena 1712. godine.",
+                  "category": "castle",
+                  "coords": [
+                        16.63628,
+                        43.701795
+                  ]
+            },
+            {
+                  "name": "Franjevački Muzej",
+                  "text": "Muzej u Sinju koji izlaže arheološke nalaze iz franjevačkog samostana.",
+                  "category": "museum",
+                  "coords": [
+                        16.637806,
+                        43.702025
+                  ]
+            },
+            {
+                  "name": "Muzej Sinjske alke",
+                  "text": "Muzej posvećen tradicionalnom viteškom turniru Sinjskoj alci u Sinju.",
+                  "category": "museum",
+                  "coords": [
+                        16.635452,
+                        43.700865
+                  ]
+            },
+            {
+                  "name": "Šušnjevača",
+                  "text": "Planinski vrh u blizini Sinja pogodan za planinarenje.",
+                  "category": "natural",
+                  "coords": [
+                        16.65492,
+                        43.718641
+                  ]
+            },
+            {
+                  "name": "Streljani Prvog splitskog partizanskog odreda",
+                  "text": "Spomenik u Sinju podignut u sjećanje na strijeljane pripadnike Prvog splitskog partizanskog odreda.",
+                  "category": "historical",
+                  "coords": [
+                        16.625218,
+                        43.698373
+                  ]
+            },
+            {
+                  "name": "Bunker iz II.WW",
+                  "text": "Ostatci betonskog bunkera iz Drugog svjetskog rata u blizini Sinja.",
+                  "category": "historical",
+                  "coords": [
+                        16.620735,
+                        43.709144
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Ostatci stare vojne obrambene građevine u Sinju.",
+                  "category": "historical",
+                  "coords": [
+                        16.623057,
+                        43.697054
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Sinj", hu: "Sinj", ro: "Sinj", en: "Sinj"},
@@ -1123,7 +9623,198 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-nasice-cities-v2",
+    id: "croatia-nasice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorac Pejačević",
+                  "text": "Ein klassizistisches Schloss in Našice, das einst der Adelsfamilie Pejačević gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        18.092909,
+                        45.491746
+                  ]
+            },
+            {
+                  "name": "Poučni park Bizik",
+                  "text": "Ein kleiner Privatzoo in der Nähe von Našice, der verschiedene Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        18.127865,
+                        45.494516
+                  ]
+            },
+            {
+                  "name": "Mali dvorac",
+                  "text": "Ein kleineres historisches Schlossgebäude in Našice, das zum Pejačević-Komplex gehört.",
+                  "category": "castle",
+                  "coords": [
+                        18.090623,
+                        45.491859
+                  ]
+            },
+            {
+                  "name": "Vila Greger",
+                  "text": "Ein historisches Villengebäude in Našice, das für seine Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.096202,
+                        45.490184
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorac Pejačević",
+                  "text": "Klasszicista stílusú kastély Našicében, amely egykor a nemesi Pejačević családé volt.",
+                  "category": "castle",
+                  "coords": [
+                        18.092909,
+                        45.491746
+                  ]
+            },
+            {
+                  "name": "Poučni park Bizik",
+                  "text": "Kis magánállatkert Našice közelében, amely különféle állatfajoknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        18.127865,
+                        45.494516
+                  ]
+            },
+            {
+                  "name": "Mali dvorac",
+                  "text": "Kisebb történelmi kastélyépület Našicében, amely a Pejačević-birtok része.",
+                  "category": "castle",
+                  "coords": [
+                        18.090623,
+                        45.491859
+                  ]
+            },
+            {
+                  "name": "Vila Greger",
+                  "text": "Történelmi villaépület Našicében, amely jellegzetes építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        18.096202,
+                        45.490184
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorac Pejačević",
+                  "text": "Un castel neoclasic din Našice care a aparținut familiei nobiliare Pejačević.",
+                  "category": "castle",
+                  "coords": [
+                        18.092909,
+                        45.491746
+                  ]
+            },
+            {
+                  "name": "Poučni park Bizik",
+                  "text": "O mică grădină zoologică privată lângă Našice, unde pot fi văzute diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        18.127865,
+                        45.494516
+                  ]
+            },
+            {
+                  "name": "Mali dvorac",
+                  "text": "O clădire istorică de dimensiuni mai mici din Našice, aflată pe domeniul Pejačević.",
+                  "category": "castle",
+                  "coords": [
+                        18.090623,
+                        45.491859
+                  ]
+            },
+            {
+                  "name": "Vila Greger",
+                  "text": "O vilă istorică din Našice, cunoscută pentru arhitectura sa specifică.",
+                  "category": "landmark",
+                  "coords": [
+                        18.096202,
+                        45.490184
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorac Pejačević",
+                  "text": "A neoclassical castle in Našice that once belonged to the noble Pejačević family.",
+                  "category": "castle",
+                  "coords": [
+                        18.092909,
+                        45.491746
+                  ]
+            },
+            {
+                  "name": "Poučni park Bizik",
+                  "text": "A small private zoo near Našice that is home to various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        18.127865,
+                        45.494516
+                  ]
+            },
+            {
+                  "name": "Mali dvorac",
+                  "text": "A smaller historic castle building in Našice located on the Pejačević estate.",
+                  "category": "castle",
+                  "coords": [
+                        18.090623,
+                        45.491859
+                  ]
+            },
+            {
+                  "name": "Vila Greger",
+                  "text": "A historic villa building in Našice known for its specific architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        18.096202,
+                        45.490184
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Dvorac Pejačević",
+                  "text": "Klasicistički dvorac u Našicama koji je nekada pripadao plemićkoj obitelji Pejačević.",
+                  "category": "castle",
+                  "coords": [
+                        18.092909,
+                        45.491746
+                  ]
+            },
+            {
+                  "name": "Poučni park Bizik",
+                  "text": "Privatni zoološki vrt obitelji Bizik u blizini Našica koji je dom raznim životinjama.",
+                  "category": "recreational",
+                  "coords": [
+                        18.127865,
+                        45.494516
+                  ]
+            },
+            {
+                  "name": "Mali dvorac",
+                  "text": "Povijesna dvorunska zgrada u Našicama poznata kao Mali dvorac.",
+                  "category": "castle",
+                  "coords": [
+                        18.090623,
+                        45.491859
+                  ]
+            },
+            {
+                  "name": "Vila Greger",
+                  "text": "Povijesna zgrada vile u Našicama poznata po svojoj arhitekturi.",
+                  "category": "landmark",
+                  "coords": [
+                        18.096202,
+                        45.490184
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Našice", hu: "Nekcse", ro: "Našice", en: "Našice"},
@@ -1170,7 +9861,63 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-sveta-nedelja-cities-v2",
+    id: "croatia-sveta-nedelja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kapela svetog Roka",
+                  "text": "Eine historische Kapelle in Sveta Nedelja, die dem heiligen Rochus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.776894,
+                        45.795932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kapela svetog Roka",
+                  "text": "Szent Rókusnak szentelt történelmi kápolna Sveta Nedeljában.",
+                  "category": "religious",
+                  "coords": [
+                        15.776894,
+                        45.795932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kapela svetog Roka",
+                  "text": "O capelă istorică din Sveta Nedelja, dedicată Sfântului Rochus.",
+                  "category": "religious",
+                  "coords": [
+                        15.776894,
+                        45.795932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kapela svetog Roka",
+                  "text": "A historic chapel in Sveta Nedelja dedicated to Saint Roch.",
+                  "category": "religious",
+                  "coords": [
+                        15.776894,
+                        45.795932
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Kapela svetog Roka",
+                  "text": "Povijesna kapelica u Svetoj Nedelji posvećena svetom Roku.",
+                  "category": "religious",
+                  "coords": [
+                        15.776894,
+                        45.795932
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Sveta Nedelja", hu: "Sveta Nedelja", ro: "Sveta Nedelja", en: "Sveta Nedelja"},
@@ -1452,7 +10199,153 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-krizevci-cities-v2",
+    id: "croatia-krizevci-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradski muzej",
+                  "text": "Das Stadtmuseum in Križevci dokumentiert die Geschichte und Kultur der Region vom Mittelalter bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        16.544387,
+                        46.025728
+                  ]
+            },
+            {
+                  "name": "Vidikovac Ratarna",
+                  "text": "Der Aussichtspunkt bei der landwirtschaftlichen Schule bietet einen weiten Blick über Križevci und das Umland.",
+                  "category": "natural",
+                  "coords": [
+                        16.554294,
+                        46.031048
+                  ]
+            },
+            {
+                  "name": "konkatedrala Svetog Križa",
+                  "text": "Die Konkathedrale zum Heiligen Kreuz ist eine der ältesten Kirchen der Region und Sitz der griechisch-katholischen Eparchie.",
+                  "category": "religious",
+                  "coords": [
+                        16.547197,
+                        46.025794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradski muzej",
+                  "text": "A kőrösi városi múzeum a település és környéke történelmét, valamint kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.544387,
+                        46.025728
+                  ]
+            },
+            {
+                  "name": "Vidikovac Ratarna",
+                  "text": "A mezőgazdasági iskola közelében található kilátópontról széles körpanoráma nyílik Körös városára és a környező vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        16.554294,
+                        46.031048
+                  ]
+            },
+            {
+                  "name": "konkatedrala Svetog Križa",
+                  "text": "A Szent Kereszt-társszékesegyház a térség egyik legrégebbi temploma, a Kőrösi görögkatolikus egyházmegye székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        16.547197,
+                        46.025794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradski muzej",
+                  "text": "Muzeul municipal din Križevci prezintă istoria și moștenirea culturală a orașului și a regiunii înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        16.544387,
+                        46.025728
+                  ]
+            },
+            {
+                  "name": "Vidikovac Ratarna",
+                  "text": "Punctul de observație de lângă școala agricolă oferă o vedere panoramică asupra orașului Križevci și a împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        16.554294,
+                        46.031048
+                  ]
+            },
+            {
+                  "name": "konkatedrala Svetog Križa",
+                  "text": "Concatedrala Sfânta Cruce este una dintre cele mai vechi biserici din regiune și sediul eparhiei greco-catolice.",
+                  "category": "religious",
+                  "coords": [
+                        16.547197,
+                        46.025794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradski muzej",
+                  "text": "The city museum in Križevci documents the history and cultural heritage of the town and its surroundings.",
+                  "category": "museum",
+                  "coords": [
+                        16.544387,
+                        46.025728
+                  ]
+            },
+            {
+                  "name": "Vidikovac Ratarna",
+                  "text": "The viewpoint near the agricultural school offers a wide panoramic view over Križevci and the surrounding countryside.",
+                  "category": "natural",
+                  "coords": [
+                        16.554294,
+                        46.031048
+                  ]
+            },
+            {
+                  "name": "Co-Cathedral of the Holy Cross",
+                  "text": "The Co-Cathedral of the Holy Cross is one of the oldest churches in the region and the seat of the Greek Catholic Eparchy.",
+                  "category": "religious",
+                  "coords": [
+                        16.547197,
+                        46.025794
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Gradski muzej",
+                  "text": "Gradski muzej u Križevcima dokumentira povijest i kulturnu baštinu grada te njegove okolice.",
+                  "category": "museum",
+                  "coords": [
+                        16.544387,
+                        46.025728
+                  ]
+            },
+            {
+                  "name": "Vidikovac Ratarna",
+                  "text": "Vidikovac u blizini poljoprivredne škole pruža široki panoramski pogled na Križevce i okolicu.",
+                  "category": "natural",
+                  "coords": [
+                        16.554294,
+                        46.031048
+                  ]
+            },
+            {
+                  "name": "Co-Cathedral of the Holy Cross",
+                  "text": "Konkatedrala Svetoga Križa jedna je od najstarijih crkava u regiji i sjedište Križevačke grkokatoličke eparhije.",
+                  "category": "religious",
+                  "coords": [
+                        16.547197,
+                        46.025794
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Križevci", hu: "Kőrös", ro: "Križevci", en: "Križevci"},
@@ -1499,7 +10392,378 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-knin-cities-v2",
+    id: "croatia-knin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arheološka zbirka",
+                  "text": "Die archäologische Sammlung in Knin zeigt Funde aus der Antike und dem Mittelalter, die in der Region entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        16.19288,
+                        44.033067
+                  ]
+            },
+            {
+                  "name": "Oluja 95",
+                  "text": "Das Museum in der Festung von Knin erinnert an die Militäroperation Oluja im Jahr 1995 während des kroatischen Unabhängigkeitskrieges.",
+                  "category": "museum",
+                  "coords": [
+                        16.193245,
+                        44.034948
+                  ]
+            },
+            {
+                  "name": "Partizanski spomenik iznad Knina",
+                  "text": "Dieses Denkmal oberhalb von Knin erinnert an die Befreiung der Stadt während des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        16.190657,
+                        44.038814
+                  ]
+            },
+            {
+                  "name": "Kninska katedrala",
+                  "text": "Die Ruinen der mittelalterlichen Kathedrale des Heiligen Bartholomäus befinden sich in Biskupija bei Knin.",
+                  "category": "historical",
+                  "coords": [
+                        16.20748,
+                        44.02878
+                  ]
+            },
+            {
+                  "name": "Eko Info Centar - EU Krka Knin",
+                  "text": "Das Informationszentrum widmet sich dem Umweltschutz und der Erhaltung des Ökosystems des Flusses Krka.",
+                  "category": "landmark",
+                  "coords": [
+                        16.190042,
+                        44.033104
+                  ]
+            },
+            {
+                  "name": "Sv. Nikola",
+                  "text": "Die dem Heiligen Nikolaus geweihte Kirche ist ein historisches Sakralbauwerk im Zentrum von Knin.",
+                  "category": "religious",
+                  "coords": [
+                        16.194431,
+                        44.00928
+                  ]
+            },
+            {
+                  "name": "crkva svetog Ante Padovanskog",
+                  "text": "Die barocke Kirche des Heiligen Antonius von Padua gehört zum Franziskanerkloster in Knin.",
+                  "category": "religious",
+                  "coords": [
+                        16.194666,
+                        44.03245
+                  ]
+            },
+            {
+                  "name": "crkva Pokrova Presvete Bogorodice",
+                  "text": "Diese serbisch-orthodoxe Kirche in Knin wurde im 19. Jahrhundert im neobyzantinischen Stil erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        16.195776,
+                        44.033113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arheološka zbirka",
+                  "text": "A knini régészeti gyűjtemény a környéken talált ókori és középkori leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.19288,
+                        44.033067
+                  ]
+            },
+            {
+                  "name": "Oluja 95",
+                  "text": "A knini várban található múzeum az 1995-ös Vihar (Oluja) hadműveletnek állít emléket a horvát függetlenségi háború idejéből.",
+                  "category": "museum",
+                  "coords": [
+                        16.193245,
+                        44.034948
+                  ]
+            },
+            {
+                  "name": "Knin felszabadulásának emlékműve",
+                  "text": "Ez a Knin felett található emlékmű a város második világháborús felszabadításának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        16.190657,
+                        44.038814
+                  ]
+            },
+            {
+                  "name": "Kninska katedrala",
+                  "text": "A Szent Bertalan tiszteletére szentelt középkori székesegyház romjai Knin közelében, Biskupija faluban találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        16.20748,
+                        44.02878
+                  ]
+            },
+            {
+                  "name": "Eko Info Centar - EU Krka Knin",
+                  "text": "Az információs központ a környezetvédelemmel és a Krka-folyó ökoszisztémájának megőrzésével foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        16.190042,
+                        44.033104
+                  ]
+            },
+            {
+                  "name": "Sv. Nikola",
+                  "text": "A Szent Miklósnak szentelt templom Knin központjának egyik történelmi egyházi épülete.",
+                  "category": "religious",
+                  "coords": [
+                        16.194431,
+                        44.00928
+                  ]
+            },
+            {
+                  "name": "crkva svetog Ante Padovanskog",
+                  "text": "A Páduai Szent Antal-templom a knini ferences kolostorhoz tartozó barokk stílusú épület.",
+                  "category": "religious",
+                  "coords": [
+                        16.194666,
+                        44.03245
+                  ]
+            },
+            {
+                  "name": "crkva Pokrova Presvete Bogorodice",
+                  "text": "Ez a knini szerb ortodox templom a 19. században épült neobizánci stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        16.195776,
+                        44.033113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arheološka zbirka",
+                  "text": "Colecția arheologică din Knin expune descoperiri din antichitate și evul mediu găsite în această regiune.",
+                  "category": "museum",
+                  "coords": [
+                        16.19288,
+                        44.033067
+                  ]
+            },
+            {
+                  "name": "Oluja 95",
+                  "text": "Muzeul situat în cetatea Knin comemorează operațiunea militară Oluja din 1995 din timpul războiului de independență al Croației.",
+                  "category": "museum",
+                  "coords": [
+                        16.193245,
+                        44.034948
+                  ]
+            },
+            {
+                  "name": "Partizanski spomenik iznad Knina",
+                  "text": "Acest monument situat deasupra orașului Knin comemorează eliberarea localității în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        16.190657,
+                        44.038814
+                  ]
+            },
+            {
+                  "name": "Kninska katedrala",
+                  "text": "Ruinele catedralei medievale Sfântul Bartolomeu se află în localitatea Biskupija, lângă Knin.",
+                  "category": "historical",
+                  "coords": [
+                        16.20748,
+                        44.02878
+                  ]
+            },
+            {
+                  "name": "Eko Info Centar - EU Krka Knin",
+                  "text": "Centrul de informare este dedicat protecției mediului și conservării ecosistemului râului Krka.",
+                  "category": "landmark",
+                  "coords": [
+                        16.190042,
+                        44.033104
+                  ]
+            },
+            {
+                  "name": "Sv. Nikola",
+                  "text": "Biserica dedicată Sfântului Nicolae este un edificiu religios istoric situat în centrul orașului Knin.",
+                  "category": "religious",
+                  "coords": [
+                        16.194431,
+                        44.00928
+                  ]
+            },
+            {
+                  "name": "crkva svetog Ante Padovanskog",
+                  "text": "Biserica barocă Sfântul Anton de Padova aparține mănăstirii franciscane din Knin.",
+                  "category": "religious",
+                  "coords": [
+                        16.194666,
+                        44.03245
+                  ]
+            },
+            {
+                  "name": "crkva Pokrova Presvete Bogorodice",
+                  "text": "Această biserică ortodoxă sârbă din Knin a fost construită în secolul al XIX-lea în stil neobizantin.",
+                  "category": "religious",
+                  "coords": [
+                        16.195776,
+                        44.033113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arheološka zbirka",
+                  "text": "The archaeological collection in Knin displays ancient and medieval artifacts discovered in the region.",
+                  "category": "museum",
+                  "coords": [
+                        16.19288,
+                        44.033067
+                  ]
+            },
+            {
+                  "name": "Oluja 95",
+                  "text": "Located in the Knin Fortress, this museum commemorates the 1995 military operation \"Storm\" during the Croatian War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        16.193245,
+                        44.034948
+                  ]
+            },
+            {
+                  "name": "Monument to Knin Liberators",
+                  "text": "This monument located above Knin commemorates the liberation of the city during the Second World War.",
+                  "category": "historical",
+                  "coords": [
+                        16.190657,
+                        44.038814
+                  ]
+            },
+            {
+                  "name": "Kninska katedrala",
+                  "text": "The ruins of the medieval Cathedral of St. Bartholomew are located in Biskupija near Knin.",
+                  "category": "historical",
+                  "coords": [
+                        16.20748,
+                        44.02878
+                  ]
+            },
+            {
+                  "name": "Eko Info Centar - EU Krka Knin",
+                  "text": "This info center is dedicated to environmental protection and the preservation of the Krka River ecosystem.",
+                  "category": "landmark",
+                  "coords": [
+                        16.190042,
+                        44.033104
+                  ]
+            },
+            {
+                  "name": "Sv. Nikola",
+                  "text": "The church dedicated to St. Nicholas is a historical religious building in the center of Knin.",
+                  "category": "religious",
+                  "coords": [
+                        16.194431,
+                        44.00928
+                  ]
+            },
+            {
+                  "name": "crkva svetog Ante Padovanskog",
+                  "text": "The Baroque church of St. Anthony of Padua is part of the Franciscan monastery in Knin.",
+                  "category": "religious",
+                  "coords": [
+                        16.194666,
+                        44.03245
+                  ]
+            },
+            {
+                  "name": "crkva Pokrova Presvete Bogorodice",
+                  "text": "This Serbian Orthodox church in Knin was built in the 19th century in the Neo-Byzantine style.",
+                  "category": "religious",
+                  "coords": [
+                        16.195776,
+                        44.033113
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Arheološka zbirka",
+                  "text": "Arheološka zbirka u Kninu prikazuje antičke i srednjovjekovne nalaze pronađene na ovom području.",
+                  "category": "museum",
+                  "coords": [
+                        16.19288,
+                        44.033067
+                  ]
+            },
+            {
+                  "name": "Oluja 95",
+                  "text": "Muzej smješten u kninskoj tvrđavi posvećen je vojnoj operaciji Oluja iz 1995. godine tijekom Domovinskog rata.",
+                  "category": "museum",
+                  "coords": [
+                        16.193245,
+                        44.034948
+                  ]
+            },
+            {
+                  "name": "Monument to Knin Liberators",
+                  "text": "Spomenik osloboditeljima Knina iznad grada podignut je u sjećanje na oslobođenje grada u Drugom svjetskom ratu.",
+                  "category": "historical",
+                  "coords": [
+                        16.190657,
+                        44.038814
+                  ]
+            },
+            {
+                  "name": "Kninska katedrala",
+                  "text": "Ostaci srednjovjekovne katedrale svetog Bartolomeja nalaze se u mjestu Biskupija pokraj Knina.",
+                  "category": "historical",
+                  "coords": [
+                        16.20748,
+                        44.02878
+                  ]
+            },
+            {
+                  "name": "Eko Info Centar - EU Krka Knin",
+                  "text": "Informativni centar posvećen je zaštiti okoliša i očuvanju ekosustava rijeke Krke.",
+                  "category": "landmark",
+                  "coords": [
+                        16.190042,
+                        44.033104
+                  ]
+            },
+            {
+                  "name": "Sv. Nikola",
+                  "text": "Crkva posvećena svetom Nikoli povijesna je sakralna građevina u centru Knina.",
+                  "category": "religious",
+                  "coords": [
+                        16.194431,
+                        44.00928
+                  ]
+            },
+            {
+                  "name": "crkva svetog Ante Padovanskog",
+                  "text": "Barokna crkva svetog Ante Padovanskog dio je franjevačkog samostana u Kninu.",
+                  "category": "religious",
+                  "coords": [
+                        16.194666,
+                        44.03245
+                  ]
+            },
+            {
+                  "name": "crkva Pokrova Presvete Bogorodice",
+                  "text": "Ova srpska pravoslavna crkva u Kninu sagrađena je u 19. stoljeću u neobizantskom stilu.",
+                  "category": "religious",
+                  "coords": [
+                        16.195776,
+                        44.033113
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Knin", hu: "Knin", ro: "Knin", en: "Knin"},
@@ -1546,7 +10810,198 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-valpovo-cities-v2",
+    id: "croatia-valpovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "Das Barockschloss in Valpovo wurde um einen mittelalterlichen Turm aus dem 15. Jahrhundert errichtet.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Ein Amateurtheater in Belišće bei Valpovo, das regelmäßig lokale Aufführungen und Kulturveranstaltungen organisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "Ein Freizeitzentrum in Belišće mit mehreren Außenbecken für den Badebetrieb während der Sommermonate.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Spomenik Majke božje sa Isusom",
+                  "text": "Eine religiöse Statue in Valpovo, die Maria mit dem Jesuskind auf einem hohen Sockel darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        18.417594,
+                        45.658055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "A valpói barokk kastély egy 15. századi középkori lakótorony köré épült.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Amatőr színház a Valpó melletti Belišće településen, amely rendszeresen szervez helyi előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "Szabadtéri fürdőkomplexum Belišće településen, amely több medencével várja a látogatókat a nyári hónapokban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Spomenik Majke božje sa Isusom",
+                  "text": "Vallási szobor Valpóban, amely Máriát és a gyermek Jézust ábrázolja egy magas talpazaton.",
+                  "category": "historical",
+                  "coords": [
+                        18.417594,
+                        45.658055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "Castelul baroc din Valpovo a fost construit în jurul unui turn medieval din secolul al XV-lea.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Un teatru de amatori din Belišće, lângă Valpovo, care organizează periodic spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "Un complex de agrement în Belišće cu bazine exterioare deschise pentru înot în lunile de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Spomenik Majke božje sa Isusom",
+                  "text": "O statuie religioasă din Valpovo care îi înfățișează pe Maria și pruncul Isus pe un piedestal înalt.",
+                  "category": "historical",
+                  "coords": [
+                        18.417594,
+                        45.658055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "The baroque castle in Valpovo was built around a 15th-century medieval residential tower.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "An amateur theatre in Belišće near Valpovo that regularly organizes local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "A recreation complex in Belišće with outdoor swimming pools open during the summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Spomenik Majke božje sa Isusom",
+                  "text": "A religious statue in Valpovo depicting Mary and the infant Jesus on a high pedestal.",
+                  "category": "historical",
+                  "coords": [
+                        18.417594,
+                        45.658055
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "Barokni dvorac u Valpovu sagrađen je oko srednjovjekovne kule iz 15. stoljeća.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Amatersko kazalište u Belišću kod Valpova koje redovito organizira lokalne predstave.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "Rekreacijski kompleks u Belišću s vanjskim bazenima otvorenim za kupanje tijekom ljetnih mjeseci.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Spomenik Majke božje sa Isusom",
+                  "text": "Vjerski kip u Valpovu koji prikazuje Mariju s djetetom Isusom na visokom postolju.",
+                  "category": "historical",
+                  "coords": [
+                        18.417594,
+                        45.658055
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Valpovo", hu: "Valpó", ro: "Valpovo", en: "Valpovo"},
@@ -1640,7 +11095,153 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-zupanja-cities-v2",
+    id: "croatia-zupanja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zavičajni muzej Stjepana Grubera",
+                  "text": "Das Museum ist in einem der wenigen erhaltenen Grenzschutzgebäude aus dem 18. Jahrhundert am Saveufer untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        18.686767,
+                        45.073481
+                  ]
+            },
+            {
+                  "name": "Poloji",
+                  "text": "Ein weitläufiger Sandstrand an der Save bei Županja, der im Sommer als beliebter Badeplatz dient.",
+                  "category": "recreational",
+                  "coords": [
+                        18.669176,
+                        45.062566
+                  ]
+            },
+            {
+                  "name": "Bivši spomenik NOB",
+                  "text": "Eine Gedenkstätte in Županja, die an die Kämpfer und Opfer des Zweiten Weltkriegs erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        18.695288,
+                        45.076069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zavičajni muzej Stjepana Grubera",
+                  "text": "A múzeum a Száva partján álló kevés épségben maradt 18. századi határőrségi épület egyikében található.",
+                  "category": "museum",
+                  "coords": [
+                        18.686767,
+                        45.073481
+                  ]
+            },
+            {
+                  "name": "Poloji",
+                  "text": "Kiterjedt homokos strand a Száva partján Zsupanya közelében, amely nyáron népszerű fürdőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        18.669176,
+                        45.062566
+                  ]
+            },
+            {
+                  "name": "Bivši spomenik NOB",
+                  "text": "Zsupanyai emlékhely, amely a második világháború harcosainak és áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        18.695288,
+                        45.076069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zavičajni muzej Stjepana Grubera",
+                  "text": "Muzeul este situat într-una dintre puținele clădiri de pază a frontierei din secolul al XVIII-lea păstrate pe malul Savei.",
+                  "category": "museum",
+                  "coords": [
+                        18.686767,
+                        45.073481
+                  ]
+            },
+            {
+                  "name": "Poloji",
+                  "text": "O plajă de nisip întinsă pe malul Savei lângă Županja, fiind un loc de scăldat popular vara.",
+                  "category": "recreational",
+                  "coords": [
+                        18.669176,
+                        45.062566
+                  ]
+            },
+            {
+                  "name": "Bivši spomenik NOB",
+                  "text": "Un site memorial din Županja care îi comemorează pe luptătorii și victimele celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        18.695288,
+                        45.076069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zavičajni muzej Stjepana Grubera",
+                  "text": "The museum is located in one of the few preserved 18th-century frontier guard buildings on the banks of the Sava.",
+                  "category": "museum",
+                  "coords": [
+                        18.686767,
+                        45.073481
+                  ]
+            },
+            {
+                  "name": "Poloji",
+                  "text": "A large sandy beach on the Sava River near Županja, serving as a popular swimming spot in summer.",
+                  "category": "recreational",
+                  "coords": [
+                        18.669176,
+                        45.062566
+                  ]
+            },
+            {
+                  "name": "Bivši spomenik NOB",
+                  "text": "A memorial site in Županja commemorating the fighters and victims of World War II.",
+                  "category": "historical",
+                  "coords": [
+                        18.695288,
+                        45.076069
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Zavičajni muzej Stjepana Grubera",
+                  "text": "Muzej se nalazi u jednoj od rijetkih očuvanih zgrada graničarske straže iz 18. stoljeća na obali Save.",
+                  "category": "museum",
+                  "coords": [
+                        18.686767,
+                        45.073481
+                  ]
+            },
+            {
+                  "name": "Poloji",
+                  "text": "Prostrana pješčana plaža na Savi kod Županje koja ljeti služi kao popularno kupalište.",
+                  "category": "recreational",
+                  "coords": [
+                        18.669176,
+                        45.062566
+                  ]
+            },
+            {
+                  "name": "Bivši spomenik NOB",
+                  "text": "Memorijalno mjesto u Županji koje podsjeća na borce i žrtve Drugog svjetskog rata.",
+                  "category": "historical",
+                  "coords": [
+                        18.695288,
+                        45.076069
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Županja", hu: "Zsupanya", ro: "Županja", en: "Županja"},
@@ -1687,7 +11288,108 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-ogulin-cities-v2",
+    id: "croatia-ogulin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Frankopanski kaštel",
+                  "text": "Die Frankopan-Burg aus dem Jahr 1500 beherbergt heute das Heimatmuseum und liegt direkt über dem Abgrund Đulin ponor.",
+                  "category": "castle",
+                  "coords": [
+                        15.224366,
+                        45.2676
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva JŽ 51 148",
+                  "text": "Diese historische Dampflokomotive steht als technisches Denkmal in der Nähe des Bahnhofs von Ogulin.",
+                  "category": "landmark",
+                  "coords": [
+                        15.230645,
+                        45.265609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Frankopanski kaštel",
+                  "text": "Az 1500-ban épült Frankopan-vár ma a helytörténeti múzeumnak ad otthont, és közvetlenül a Đulin-víznyelő felett található.",
+                  "category": "castle",
+                  "coords": [
+                        15.224366,
+                        45.2676
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva JŽ 51 148",
+                  "text": "Ez a történelmi gőzmozdony technikai műemlékként látható Ogulin vasútállomása közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.230645,
+                        45.265609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Frankopanski kaštel",
+                  "text": "Castelul Frankopan, construit în 1500, găzduiește astăzi muzeul local și se află direct deasupra prăpastiei Đulin ponor.",
+                  "category": "castle",
+                  "coords": [
+                        15.224366,
+                        45.2676
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva JŽ 51 148",
+                  "text": "Această locomotivă cu abur istorică este expusă ca monument tehnic în apropierea gării din Ogulin.",
+                  "category": "landmark",
+                  "coords": [
+                        15.230645,
+                        45.265609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Frankopanski kaštel",
+                  "text": "The Frankopan castle, built in 1500, now houses the local museum and sits directly above the Đulin ponor abyss.",
+                  "category": "castle",
+                  "coords": [
+                        15.224366,
+                        45.2676
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva JŽ 51 148",
+                  "text": "This historical steam locomotive is displayed as a technical monument near the Ogulin railway station.",
+                  "category": "landmark",
+                  "coords": [
+                        15.230645,
+                        45.265609
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Frankopanski kaštel",
+                  "text": "Frankopanski kaštel, izgrađen 1500. godine, danas ugošćuje zavičajni muzej i nalazi se izravno iznad Đulinog ponora.",
+                  "category": "castle",
+                  "coords": [
+                        15.224366,
+                        45.2676
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva JŽ 51 148",
+                  "text": "Ova povijesna parna lokomotiva izložena je kao tehnički spomenik u blizini željezničkog kolodvora u Ogulinu.",
+                  "category": "landmark",
+                  "coords": [
+                        15.230645,
+                        45.265609
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Ogulin", hu: "Ogulin", ro: "Ogulin", en: "Ogulin"},
@@ -1734,7 +11436,198 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-slatina-cities-v2",
+    id: "croatia-slatina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zavičajni muzej Slatina",
+                  "text": "Das Heimatmuseum in Slatina präsentiert die archäologische, historische und ethnografische Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        17.700733,
+                        45.701147
+                  ]
+            },
+            {
+                  "name": "POU - Kazalište",
+                  "text": "Das Stadttheater in Slatina ist ein wichtiges kulturelles Zentrum für Aufführungen und lokale Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.703519,
+                        45.701764
+                  ]
+            },
+            {
+                  "name": "Draškovićev dvorac",
+                  "text": "Dieses historische Schloss der Familie Drašković ist ein bedeutendes Baudenkmal im Zentrum von Slatina.",
+                  "category": "castle",
+                  "coords": [
+                        17.704782,
+                        45.70702
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Dieser Aussichtspunkt in Slatina bietet Besuchern einen weiten Blick über die Stadt und die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.702689,
+                        45.69591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zavičajni muzej Slatina",
+                  "text": "A szalatnoki helytörténeti múzeum a régió régészeti, történelmi és néprajzi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.700733,
+                        45.701147
+                  ]
+            },
+            {
+                  "name": "POU - Kazalište",
+                  "text": "A szalatnoki városi színház a helyi kulturális élet és rendezvények fontos központja.",
+                  "category": "cultural",
+                  "coords": [
+                        17.703519,
+                        45.701764
+                  ]
+            },
+            {
+                  "name": "Draškovićev dvorac",
+                  "text": "A Drašković család egykori kastélya Szalatnok központjának egyik jelentős építészeti emléke.",
+                  "category": "castle",
+                  "coords": [
+                        17.704782,
+                        45.70702
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Erről a szalatnoki kilátópontról szép kilátás nyílik a városra és a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        17.702689,
+                        45.69591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zavičajni muzej Slatina",
+                  "text": "Muzeul local din Slatina prezintă istoria arheologică, istorică și etnografică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        17.700733,
+                        45.701147
+                  ]
+            },
+            {
+                  "name": "POU - Kazalište",
+                  "text": "Teatrul orășenesc din Slatina este un centru cultural important pentru spectacole și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.703519,
+                        45.701764
+                  ]
+            },
+            {
+                  "name": "Draškovićev dvorac",
+                  "text": "Acest castel istoric al familiei Drašković este un monument arhitectural semnificativ în centrul orașului Slatina.",
+                  "category": "castle",
+                  "coords": [
+                        17.704782,
+                        45.70702
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Acest punct de belvedere din Slatina oferă vizitatorilor o vedere panoramică asupra orașului și a peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        17.702689,
+                        45.69591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zavičajni muzej Slatina",
+                  "text": "The local heritage museum in Slatina presents the archaeological, historical, and ethnographic history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        17.700733,
+                        45.701147
+                  ]
+            },
+            {
+                  "name": "POU - Kazalište",
+                  "text": "The city theatre in Slatina is an important cultural center for performances and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        17.703519,
+                        45.701764
+                  ]
+            },
+            {
+                  "name": "Draškovićev dvorac",
+                  "text": "This historical castle of the Drašković family is a significant architectural monument in the center of Slatina.",
+                  "category": "castle",
+                  "coords": [
+                        17.704782,
+                        45.70702
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "This viewpoint in Slatina offers visitors a panoramic view of the town and the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.702689,
+                        45.69591
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Zavičajni muzej Slatina",
+                  "text": "Zavičajni muzej u Slatini predstavlja arheološku, povijesnu i etnografsku baštinu ovoga kraja.",
+                  "category": "museum",
+                  "coords": [
+                        17.700733,
+                        45.701147
+                  ]
+            },
+            {
+                  "name": "POU - Kazalište",
+                  "text": "Gradsko kazalište u Slatini važno je kulturno središte za predstave i lokalna događanja.",
+                  "category": "cultural",
+                  "coords": [
+                        17.703519,
+                        45.701764
+                  ]
+            },
+            {
+                  "name": "Draškovićev dvorac",
+                  "text": "Ovaj povijesni dvorac obitelji Drašković značajan je arhitektonski spomenik u centru Slatine.",
+                  "category": "castle",
+                  "coords": [
+                        17.704782,
+                        45.70702
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Ovaj vidikovac u Slatini posjetiteljima pruža panoramski pogled na grad i okolicu.",
+                  "category": "natural",
+                  "coords": [
+                        17.702689,
+                        45.69591
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Slatina", hu: "Szlatina", ro: "Slatina", en: "Slatina"},
@@ -1781,7 +11674,63 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-novska-cities-v2",
+    id: "croatia-novska-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park prirode Lonjsko polje",
+                  "text": "Lonjsko polje ist eines der größten und am besten erhaltenen Überschwemmungsgebiete in Europa, bekannt für seine Störche.",
+                  "category": "natural",
+                  "coords": [
+                        16.826788,
+                        45.360763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Lonjsko polje",
+                  "text": "A Lonjsko polje Európa egyik legnagyobb és legjobban megőrzött mocsaras területe, amely gólyáiról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        16.826788,
+                        45.360763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Lonjsko polje",
+                  "text": "Lonjsko polje este una dintre cele mai mari și mai bine conservate zone umede din Europa, cunoscută pentru berzele sale.",
+                  "category": "natural",
+                  "coords": [
+                        16.826788,
+                        45.360763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park prirode Lonjsko polje",
+                  "text": "Lonjsko polje is one of the largest and best-preserved wetlands in Europe, famous for its storks.",
+                  "category": "natural",
+                  "coords": [
+                        16.826788,
+                        45.360763
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Park prirode Lonjsko polje",
+                  "text": "Park prirode Lonjsko polje jedno je od najvećih i najbolje očuvanih vlažnih staništa u Europi, poznato po rodama.",
+                  "category": "natural",
+                  "coords": [
+                        16.826788,
+                        45.360763
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Novska", hu: "Novska", ro: "Novska", en: "Novska"},
@@ -1828,7 +11777,108 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-dugo-selo-cities-v2",
+    id: "croatia-dugo-selo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorac obitelji Drašković",
+                  "text": "Die Überreste des Schlosses der Familie Drašković in Dugo Selo zeugen von der adeligen Geschichte des Ortes.",
+                  "category": "castle",
+                  "coords": [
+                        16.229976,
+                        45.807
+                  ]
+            },
+            {
+                  "name": "Martin breg",
+                  "text": "Der Hügel Martin breg ist ein beliebtes Ausflugsziel in Dugo Selo, bekannt für Weinberge und Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        16.235083,
+                        45.823338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorac obitelji Drašković",
+                  "text": "A Drašković család kastélyának maradványai Dugo Selo városában a település nemesi múltját idézik.",
+                  "category": "castle",
+                  "coords": [
+                        16.229976,
+                        45.807
+                  ]
+            },
+            {
+                  "name": "Martin breg",
+                  "text": "A Martin breg domb népszerű kirándulóhely Dugo Selo mellett, szőlőiről és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.235083,
+                        45.823338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorac obitelji Drašković",
+                  "text": "Resturile castelului familiei Drašković din Dugo Selo atestă istoria nobiliară a localității.",
+                  "category": "castle",
+                  "coords": [
+                        16.229976,
+                        45.807
+                  ]
+            },
+            {
+                  "name": "Martin breg",
+                  "text": "Dealul Martin breg este o destinație populară de excursie în Dugo Selo, cunoscută pentru podgorii și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        16.235083,
+                        45.823338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorac obitelji Drašković",
+                  "text": "The remains of the Drašković family castle in Dugo Selo testify to the noble history of the town.",
+                  "category": "castle",
+                  "coords": [
+                        16.229976,
+                        45.807
+                  ]
+            },
+            {
+                  "name": "Martin breg",
+                  "text": "Martin breg hill is a popular excursion site in Dugo Selo, known for its vineyards and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        16.235083,
+                        45.823338
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Dvorac obitelji Drašković",
+                  "text": "Ostatci dvorca obitelji Drašković u Dugom Selu svjedoče o plemićkoj povijesti ovoga mjesta.",
+                  "category": "castle",
+                  "coords": [
+                        16.229976,
+                        45.807
+                  ]
+            },
+            {
+                  "name": "Martin breg",
+                  "text": "Martin breg popularno je izletište u Dugom Selu, poznato po vinogradima i pješačkim stazama.",
+                  "category": "natural",
+                  "coords": [
+                        16.235083,
+                        45.823338
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Dugo Selo", hu: "Dugo Selo", ro: "Dugo Selo", en: "Dugo Selo"},
@@ -1922,7 +11972,243 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-jastrebarsko-cities-v2",
+    id: "croatia-jastrebarsko-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorac Erdödy",
+                  "text": "Das Schloss Erdődy ist das älteste Bauwerk in Jastrebarsko und liegt inmitten eines schönen englischen Parks.",
+                  "category": "castle",
+                  "coords": [
+                        15.646904,
+                        45.671623
+                  ]
+            },
+            {
+                  "name": "Gradski muzej i galerija Jastrebarsko",
+                  "text": "Das Stadtmuseum in Jastrebarsko bewahrt das kulturelle Erbe der Region und stellt Werke lokaler Künstler aus.",
+                  "category": "museum",
+                  "coords": [
+                        15.653185,
+                        45.67463
+                  ]
+            },
+            {
+                  "name": "Perivoj Erdődy",
+                  "text": "Der Schlosspark der Familie Erdődy in Jastrebarsko ist ein geschütztes Denkmal der Gartenarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        15.645829,
+                        45.670535
+                  ]
+            },
+            {
+                  "name": "kapela svetog Emerika",
+                  "text": "Eine barocke Kapelle in Cvetković bei Jastrebarsko, die dem heiligen Emerich geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.646836,
+                        45.651145
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Die Pfarrkirche des heiligen Nikolaus in Jastrebarsko wurde im 18. Jahrhundert im Barockstil erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        15.651261,
+                        45.671709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorac Erdödy",
+                  "text": "Az Erdődy-kastély Jastrebarsko legrégebbi építménye, amely egy gyönyörű angolpark közepén található.",
+                  "category": "castle",
+                  "coords": [
+                        15.646904,
+                        45.671623
+                  ]
+            },
+            {
+                  "name": "Gradski muzej i galerija Jastrebarsko",
+                  "text": "A jastrebarskói városi múzeum a környék kulturális örökségét őrzi és helyi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.653185,
+                        45.67463
+                  ]
+            },
+            {
+                  "name": "Perivoj Erdődy",
+                  "text": "A jastrebarskói Erdődy-kastély parkja, amely védett kertépítészeti műemlék és kedvelt sétatér.",
+                  "category": "landmark",
+                  "coords": [
+                        15.645829,
+                        45.670535
+                  ]
+            },
+            {
+                  "name": "kapela svetog Emerika",
+                  "text": "Szent Imrének szentelt barokk kápolna Jastrebarsko közelében, Cvetković településen.",
+                  "category": "religious",
+                  "coords": [
+                        15.646836,
+                        45.651145
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Jastrebarsko Szent Miklós püspöknek szentelt plébániatemploma, amely a 18. században épült barokk stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        15.651261,
+                        45.671709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorac Erdödy",
+                  "text": "Castelul Erdődy este cea mai veche construcție din Jastrebarsko și este situat în mijlocul unui frumos parc englezesc.",
+                  "category": "castle",
+                  "coords": [
+                        15.646904,
+                        45.671623
+                  ]
+            },
+            {
+                  "name": "Gradski muzej i galerija Jastrebarsko",
+                  "text": "Muzeul și galeria orășenească din Jastrebarsko păstrează moștenirea culturală a regiunii și expune lucrări ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        15.653185,
+                        45.67463
+                  ]
+            },
+            {
+                  "name": "Perivoj Erdődy",
+                  "text": "Parcul castelului Erdődy din Jastrebarsko este un monument protejat de arhitectură peisajeră.",
+                  "category": "landmark",
+                  "coords": [
+                        15.645829,
+                        45.670535
+                  ]
+            },
+            {
+                  "name": "kapela svetog Emerika",
+                  "text": "O capelă barocă din localitatea Cvetković, lângă Jastrebarsko, dedicată Sfântului Emeric.",
+                  "category": "religious",
+                  "coords": [
+                        15.646836,
+                        45.651145
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Biserica parohială Sfântul Nicolae din Jastrebarsko a fost construită în stil baroc în secolul al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        15.651261,
+                        45.671709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle Erdődy",
+                  "text": "Erdődy Castle is the oldest building in Jastrebarsko, situated in the middle of a beautiful English-style park.",
+                  "category": "castle",
+                  "coords": [
+                        15.646904,
+                        45.671623
+                  ]
+            },
+            {
+                  "name": "Gradski muzej i galerija Jastrebarsko",
+                  "text": "The town museum and gallery in Jastrebarsko preserves the cultural heritage of the region and exhibits works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        15.653185,
+                        45.67463
+                  ]
+            },
+            {
+                  "name": "Park of the Castle Erdődy",
+                  "text": "The landscape park of the Erdődy Castle in Jastrebarsko is a protected monument of garden architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        15.645829,
+                        45.670535
+                  ]
+            },
+            {
+                  "name": "kapela svetog Emerika",
+                  "text": "A Baroque chapel in Cvetković near Jastrebarsko, dedicated to Saint Emeric.",
+                  "category": "religious",
+                  "coords": [
+                        15.646836,
+                        45.651145
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "The parish church of Saint Nicholas in Jastrebarsko was built in the 18th century in Baroque style.",
+                  "category": "religious",
+                  "coords": [
+                        15.651261,
+                        45.671709
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Castle Erdődy",
+                  "text": "Dvorac Erdődy najstarije je zdanje u Jastrebarskom, smješteno usred prekrasnog perivoja.",
+                  "category": "castle",
+                  "coords": [
+                        15.646904,
+                        45.671623
+                  ]
+            },
+            {
+                  "name": "Gradski muzej i galerija Jastrebarsko",
+                  "text": "Gradski muzej i galerija u Jastrebarskom čuva kulturnu baštinu ovoga kraja i izlaže djela lokalnih umjetnika.",
+                  "category": "museum",
+                  "coords": [
+                        15.653185,
+                        45.67463
+                  ]
+            },
+            {
+                  "name": "Park of the Castle Erdődy",
+                  "text": "Perivoj dvorca Erdődy u Jastrebarskom je zaštićeni spomenik vrtne arhitekture i omiljeno šetalište.",
+                  "category": "landmark",
+                  "coords": [
+                        15.645829,
+                        45.670535
+                  ]
+            },
+            {
+                  "name": "kapela svetog Emerika",
+                  "text": "Barokna kapela svetog Mirka (Emerika) u Cvetkoviću kod Jastrebarskog potječe iz 19. stoljeća.",
+                  "category": "religious",
+                  "coords": [
+                        15.646836,
+                        45.651145
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Župna crkva svetog Nikole u Jastrebarskom barokno je zdanje izgrađeno u 18. stoljeću.",
+                  "category": "religious",
+                  "coords": [
+                        15.651261,
+                        45.671709
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Jastrebarsko", hu: "Jaska", ro: "Jastrebarsko", en: "Jastrebarsko"},
@@ -2110,7 +12396,243 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-imotski-cities-v2",
+    id: "croatia-imotski-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tvrđava Topana",
+                  "text": "Eine mittelalterliche Festung oberhalb des Blauen Sees in Imotski, die im 10. Jahrhundert erbaut wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        17.214035,
+                        43.449791
+                  ]
+            },
+            {
+                  "name": "Zavičajni muzej Imotski",
+                  "text": "Das Heimatmuseum in Imotski präsentiert archäologische Funde und ethnografische Sammlungen der Region.",
+                  "category": "museum",
+                  "coords": [
+                        17.220356,
+                        43.444057
+                  ]
+            },
+            {
+                  "name": "Ilirska gomila (Illyrian stone pile)",
+                  "text": "Eine antike illyrische Steinhügelsiedlung bei Imotski, die als archäologische Ausgrabungsstätte dient.",
+                  "category": "historical",
+                  "coords": [
+                        17.20092,
+                        43.452923
+                  ]
+            },
+            {
+                  "name": "Stadion Gospin dolac",
+                  "text": "Ein außergewöhnliches Fußballstadion in Imotski, das in einer natürlichen Doline direkt neben der Festung liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.21507,
+                        43.449534
+                  ]
+            },
+            {
+                  "name": "Viewpoint Modro Jezero",
+                  "text": "Ein Aussichtspunkt in Imotski mit spektakulärem Blick auf den Blauen See und die umliegenden Berge.",
+                  "category": "natural",
+                  "coords": [
+                        17.209192,
+                        43.448473
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tvrđava Topana",
+                  "text": "Imotski középkori erődítménye a Kék-tó felett, amely a 10. században épült stratégiai ponton.",
+                  "category": "fortress",
+                  "coords": [
+                        17.214035,
+                        43.449791
+                  ]
+            },
+            {
+                  "name": "Zavičajni muzej Imotski",
+                  "text": "Az imotski helytörténeti múzeum a régió régészeti leleteit és néprajzi gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.220356,
+                        43.444057
+                  ]
+            },
+            {
+                  "name": "Ilirska gomila (Illyrian stone pile)",
+                  "text": "Imotski környéki ősi illír kőhalom, amely fontos régészeti lelőhely a térségben.",
+                  "category": "historical",
+                  "coords": [
+                        17.20092,
+                        43.452923
+                  ]
+            },
+            {
+                  "name": "Stadion Gospin dolac",
+                  "text": "Különleges fekvésű futballpálya Imotskiban, amely egy természetes karsztmélyedésben épült a vár alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.21507,
+                        43.449534
+                  ]
+            },
+            {
+                  "name": "Viewpoint Modro Jezero",
+                  "text": "Kilátópont Imotskiban, ahonnan lenyűgöző panoráma nyílik a Kék-tóra és a környék hegyeire.",
+                  "category": "natural",
+                  "coords": [
+                        17.209192,
+                        43.448473
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tvrđava Topana",
+                  "text": "O fortăreață medievală situată deasupra Lacului Albastru din Imotski, datând din secolul al X-lea.",
+                  "category": "fortress",
+                  "coords": [
+                        17.214035,
+                        43.449791
+                  ]
+            },
+            {
+                  "name": "Zavičajni muzej Imotski",
+                  "text": "Muzeul regional din Imotski prezintă descoperiri arheologice și colecții etnografice din zonă.",
+                  "category": "museum",
+                  "coords": [
+                        17.220356,
+                        43.444057
+                  ]
+            },
+            {
+                  "name": "Ilirska gomila (Illyrian stone pile)",
+                  "text": "O veche movilă de piatră iliră lângă Imotski, servind ca sit arheologic important.",
+                  "category": "historical",
+                  "coords": [
+                        17.20092,
+                        43.452923
+                  ]
+            },
+            {
+                  "name": "Stadion Gospin dolac",
+                  "text": "Un stadion de fotbal neobișnuit din Imotski, construit într-o dolină naturală lângă cetatea Topana.",
+                  "category": "landmark",
+                  "coords": [
+                        17.21507,
+                        43.449534
+                  ]
+            },
+            {
+                  "name": "Viewpoint Modro Jezero",
+                  "text": "Un punct de observație din Imotski care oferă o vedere spectaculoasă asupra Lacului Albastru.",
+                  "category": "natural",
+                  "coords": [
+                        17.209192,
+                        43.448473
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tvrđava Topana",
+                  "text": "A medieval fortress situated above the Blue Lake in Imotski, dating back to the 10th century.",
+                  "category": "fortress",
+                  "coords": [
+                        17.214035,
+                        43.449791
+                  ]
+            },
+            {
+                  "name": "Zavičajni muzej Imotski",
+                  "text": "The local heritage museum in Imotski showcases archaeological finds and ethnographic collections from the region.",
+                  "category": "museum",
+                  "coords": [
+                        17.220356,
+                        43.444057
+                  ]
+            },
+            {
+                  "name": "Ilirska gomila (Illyrian stone pile)",
+                  "text": "An ancient Illyrian stone pile near Imotski, serving as an important archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        17.20092,
+                        43.452923
+                  ]
+            },
+            {
+                  "name": "Stadion Gospin dolac",
+                  "text": "A unique football stadium in Imotski built inside a natural sinkhole near the Topana fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        17.21507,
+                        43.449534
+                  ]
+            },
+            {
+                  "name": "Viewpoint Modro Jezero",
+                  "text": "A scenic viewpoint in Imotski offering a spectacular view of the Blue Lake and surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.209192,
+                        43.448473
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Tvrđava Topana",
+                  "text": "Srednjovjekovna utvrda Topana iz 10. stoljeća dominira nad Imotskim i Modrim jezerom.",
+                  "category": "fortress",
+                  "coords": [
+                        17.214035,
+                        43.449791
+                  ]
+            },
+            {
+                  "name": "Zavičajni muzej Imotski",
+                  "text": "Zavičajni muzej Imotski čuva vrijedne arheološke nalaze i etnografsku zbirku imotskoga kraja.",
+                  "category": "museum",
+                  "coords": [
+                        17.220356,
+                        43.444057
+                  ]
+            },
+            {
+                  "name": "Ilirska gomila (Illyrian stone pile)",
+                  "text": "Ilirska gomila u okolici Imotskog značajan je arheološki lokalitet iz prapovijesnog razdoblja.",
+                  "category": "historical",
+                  "coords": [
+                        17.20092,
+                        43.452923
+                  ]
+            },
+            {
+                  "name": "Stadion Gospin dolac",
+                  "text": "Stadion Gospin dolac u Imotskom ubraja se među najljepše stadione svijeta zbog smještaja u prirodnoj vrtači.",
+                  "category": "landmark",
+                  "coords": [
+                        17.21507,
+                        43.449534
+                  ]
+            },
+            {
+                  "name": "Viewpoint Modro Jezero",
+                  "text": "Vidikovac u Imotskom s kojeg se pruža prekrasan pogled na duboki krški fenomen Modrog jezera.",
+                  "category": "natural",
+                  "coords": [
+                        17.209192,
+                        43.448473
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Imotski", hu: "Imotski", ro: "Imotski", en: "Imotski"},
@@ -2157,7 +12679,468 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-daruvar-cities-v2",
+    id: "croatia-daruvar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorac grofa Jankovića",
+                  "text": "Das spätbarocke Schloss der Familie Janković in Daruvar wurde zwischen 1771 und 1777 erbaut.",
+                  "category": "castle",
+                  "coords": [
+                        17.220877,
+                        45.596017
+                  ]
+            },
+            {
+                  "name": "Municipium Iassorum",
+                  "text": "Eine archäologische Ausgrabungsstätte in Daruvar mit Überresten einer bedeutenden römischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        17.233903,
+                        45.596229
+                  ]
+            },
+            {
+                  "name": "Tursko groblje",
+                  "text": "Eine archäologische Stätte in Daruvar, die nach lokalen Überlieferungen mit der Zeit der osmanischen Herrschaft verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        17.228693,
+                        45.583246
+                  ]
+            },
+            {
+                  "name": "Termalni vodeni park Aquae Balissae",
+                  "text": "Dieser moderne Thermal-Wasserpark in Daruvar bietet Schwimmbecken und Wellness-Einrichtungen, die das berühmte Heilwasser der Stadt nutzen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.225642,
+                        45.597697
+                  ]
+            },
+            {
+                  "name": "Ždral",
+                  "text": "Der Kranich ist das Wappensymbol von Daruvar, und diese Darstellung ist eine bedeutende lokale Sehenswürdigkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        17.227316,
+                        45.596272
+                  ]
+            },
+            {
+                  "name": "Benediktinska opatija Sveta Jelena de Podborje",
+                  "text": "Dies sind die historischen Ruinen einer mittelalterlichen Benediktinerabtei im Gebiet Podborje bei Daruvar.",
+                  "category": "historical",
+                  "coords": [
+                        17.204649,
+                        45.585156
+                  ]
+            },
+            {
+                  "name": "Raspelo iz 1931. godine",
+                  "text": "Dieses im Jahr 1931 errichtete Kruzifix ist ein religiöses Denkmal und Zeichen des lokalen Glaubens in Daruvar.",
+                  "category": "historical",
+                  "coords": [
+                        17.223071,
+                        45.594665
+                  ]
+            },
+            {
+                  "name": "Kameni križ 1907. godine",
+                  "text": "Dieses Steinkreuz aus dem Jahr 1907 dient als historisches und religiöses Wahrzeichen in Daruvar.",
+                  "category": "historical",
+                  "coords": [
+                        17.223883,
+                        45.592542
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Ein traditionelles Kruzifix-Denkmal in Daruvar, das als Ort der lokalen religiösen Besinnung dient.",
+                  "category": "historical",
+                  "coords": [
+                        17.185427,
+                        45.591389
+                  ]
+            },
+            {
+                  "name": "Centralno blatno kupalište",
+                  "text": "Diese zentrale Einrichtung im Heilbad Daruvar ist bekannt für ihre therapeutischen Schlammbehandlungen und ihre historische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        17.225712,
+                        45.593598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorac grofa Jankovića",
+                  "text": "A daruvári Janković-kastély egy késő barokk épület, amely 1771 és 1777 között épült.",
+                  "category": "castle",
+                  "coords": [
+                        17.220877,
+                        45.596017
+                  ]
+            },
+            {
+                  "name": "Municipium Iassorum",
+                  "text": "Régészeti lelőhely Daruvárban, ahol egy fontos ókori római település maradványai láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        17.233903,
+                        45.596229
+                  ]
+            },
+            {
+                  "name": "Tursko groblje",
+                  "text": "Daruvári régészeti lelőhely, amely a helyi hagyomány szerint az oszmán hódoltság idejére utal.",
+                  "category": "historical",
+                  "coords": [
+                        17.228693,
+                        45.583246
+                  ]
+            },
+            {
+                  "name": "Termalni vodeni park Aquae Balissae",
+                  "text": "Ez a modern daruvári termálfürdő a város híres gyógyvizére épült medencékkel és wellness-szolgáltatásokkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        17.225642,
+                        45.597697
+                  ]
+            },
+            {
+                  "name": "Ždral",
+                  "text": "A daru a város névadó heraldi kai szimbóluma, ez az ábrázolás Daruvár egyik legismertebb helyi látnivalója.",
+                  "category": "landmark",
+                  "coords": [
+                        17.227316,
+                        45.596272
+                  ]
+            },
+            {
+                  "name": "Benediktinska opatija Sveta Jelena de Podborje",
+                  "text": "Egy középkori bencés apátság történelmi romjai Daruvár közelében, a Podborje területén.",
+                  "category": "historical",
+                  "coords": [
+                        17.204649,
+                        45.585156
+                  ]
+            },
+            {
+                  "name": "Raspelo iz 1931. godine",
+                  "text": "Daruvár egyik vallási emlékműve, amelyet 1931-ben állítottak a helyi hitélet jeleként.",
+                  "category": "historical",
+                  "coords": [
+                        17.223071,
+                        45.594665
+                  ]
+            },
+            {
+                  "name": "Kameni križ 1907. godine",
+                  "text": "Ez az 1907-ből származó kőkereszt Daruvár egyik történelmi és vallási emlékhelye.",
+                  "category": "historical",
+                  "coords": [
+                        17.223883,
+                        45.592542
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Hagyományos feszület Daruvár városában, amely a helyi vallásos élet egyik emlékhelye.",
+                  "category": "historical",
+                  "coords": [
+                        17.185427,
+                        45.591389
+                  ]
+            },
+            {
+                  "name": "Centralno blatno kupalište",
+                  "text": "A Daruvári Gyógyfürdő központi épülete, amely gyógyiszapos kezeléseiről és patinás építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        17.225712,
+                        45.593598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorac grofa Jankovića",
+                  "text": "Castelul familiei Janković din Daruvar este o clădire în stil baroc târziu, construită între 1771 și 1777.",
+                  "category": "castle",
+                  "coords": [
+                        17.220877,
+                        45.596017
+                  ]
+            },
+            {
+                  "name": "Municipium Iassorum",
+                  "text": "Un sit arheologic din Daruvar ce cuprinde vestigiile unei importante așezări romane antice.",
+                  "category": "historical",
+                  "coords": [
+                        17.233903,
+                        45.596229
+                  ]
+            },
+            {
+                  "name": "Tursko groblje",
+                  "text": "Un sit arheologic din Daruvar, asociat conform tradiției locale cu perioada dominației otomane.",
+                  "category": "historical",
+                  "coords": [
+                        17.228693,
+                        45.583246
+                  ]
+            },
+            {
+                  "name": "Termalni vodeni park Aquae Balissae",
+                  "text": "Acest parc acvatic termal modern din Daruvar oferă bazine și facilități de wellness care utilizează faimoasele ape curative ale orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        17.225642,
+                        45.597697
+                  ]
+            },
+            {
+                  "name": "Ždral",
+                  "text": "Cocorul este simbolul heraldic al orașului Daruvar, iar această reprezentare este o atracție locală importantă.",
+                  "category": "landmark",
+                  "coords": [
+                        17.227316,
+                        45.596272
+                  ]
+            },
+            {
+                  "name": "Benediktinska opatija Sveta Jelena de Podborje",
+                  "text": "Acestea sunt ruinele istorice ale unei abații benedictine medievale situate în zona Podborje de lângă Daruvar.",
+                  "category": "historical",
+                  "coords": [
+                        17.204649,
+                        45.585156
+                  ]
+            },
+            {
+                  "name": "Raspelo iz 1931. godine",
+                  "text": "Un monument religios din Daruvar, acest crucifix a fost ridicat în 1931 ca semn al credinței locale.",
+                  "category": "historical",
+                  "coords": [
+                        17.223071,
+                        45.594665
+                  ]
+            },
+            {
+                  "name": "Kameni križ 1907. godine",
+                  "text": "Această cruce de piatră datând din 1907 servește ca punct de reper istoric și religios în Daruvar.",
+                  "category": "historical",
+                  "coords": [
+                        17.223883,
+                        45.592542
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Un monument tradițional sub formă de crucifix situat în Daruvar, servind ca loc de reflecție religioasă locală.",
+                  "category": "historical",
+                  "coords": [
+                        17.185427,
+                        45.591389
+                  ]
+            },
+            {
+                  "name": "Centralno blatno kupalište",
+                  "text": "Această unitate centrală din stațiunea balneară Daruvar este renumită pentru tratamentele cu nămol terapeutic și arhitectura sa istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        17.225712,
+                        45.593598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorac grofa Jankovića",
+                  "text": "The late Baroque castle of the Janković family in Daruvar was built between 1771 and 1777.",
+                  "category": "castle",
+                  "coords": [
+                        17.220877,
+                        45.596017
+                  ]
+            },
+            {
+                  "name": "Municipium Iassorum",
+                  "text": "An archaeological site in Daruvar featuring the remains of an important ancient Roman settlement.",
+                  "category": "historical",
+                  "coords": [
+                        17.233903,
+                        45.596229
+                  ]
+            },
+            {
+                  "name": "Tursko groblje",
+                  "text": "An archaeological site in Daruvar, traditionally associated with the period of Ottoman rule in the region.",
+                  "category": "historical",
+                  "coords": [
+                        17.228693,
+                        45.583246
+                  ]
+            },
+            {
+                  "name": "Termalni vodeni park Aquae Balissae",
+                  "text": "This modern thermal water park in Daruvar offers pools and wellness facilities using the city's famous medicinal waters.",
+                  "category": "recreational",
+                  "coords": [
+                        17.225642,
+                        45.597697
+                  ]
+            },
+            {
+                  "name": "Ždral",
+                  "text": "The crane is the heraldic symbol of Daruvar, and this representation is a significant local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        17.227316,
+                        45.596272
+                  ]
+            },
+            {
+                  "name": "Benediktinska opatija Sveta Jelena de Podborje",
+                  "text": "These are the historical ruins of a medieval Benedictine abbey located in the Podborje area near Daruvar.",
+                  "category": "historical",
+                  "coords": [
+                        17.204649,
+                        45.585156
+                  ]
+            },
+            {
+                  "name": "Raspelo iz 1931. godine",
+                  "text": "A religious monument in Daruvar, this crucifix was erected in 1931 as a sign of local faith.",
+                  "category": "historical",
+                  "coords": [
+                        17.223071,
+                        45.594665
+                  ]
+            },
+            {
+                  "name": "Kameni križ 1907. godine",
+                  "text": "This stone cross, dating back to 1907, serves as a historical and religious landmark in Daruvar.",
+                  "category": "historical",
+                  "coords": [
+                        17.223883,
+                        45.592542
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "A traditional crucifix monument located in Daruvar, serving as a site for local religious reflection.",
+                  "category": "historical",
+                  "coords": [
+                        17.185427,
+                        45.591389
+                  ]
+            },
+            {
+                  "name": "Centralno blatno kupalište",
+                  "text": "This central facility in Daruvar Spa is famous for its therapeutic mud treatments and historic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        17.225712,
+                        45.593598
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Dvorac grofa Jankovića",
+                  "text": "Kasnobarokni dvorac grofa Jankovića u Daruvaru izgrađen je u razdoblju od 1771. do 1777. godine.",
+                  "category": "castle",
+                  "coords": [
+                        17.220877,
+                        45.596017
+                  ]
+            },
+            {
+                  "name": "Municipium Iassorum",
+                  "text": "Municipium Iassorum je antički arheološki lokalitet u Daruvaru koji svjedoči o važnom rimskom naselju.",
+                  "category": "historical",
+                  "coords": [
+                        17.233903,
+                        45.596229
+                  ]
+            },
+            {
+                  "name": "Tursko groblje",
+                  "text": "Tursko groblje u Daruvaru je arheološki lokalitet koji se tradicionalno veže uz razdoblje osmanske vladavine.",
+                  "category": "historical",
+                  "coords": [
+                        17.228693,
+                        45.583246
+                  ]
+            },
+            {
+                  "name": "Termalni vodeni park Aquae Balissae",
+                  "text": "Moderni termalni vodeni park u Daruvaru nudi bazene i wellness sadržaje temeljene na poznatoj ljekovitoj vodi grada.",
+                  "category": "recreational",
+                  "coords": [
+                        17.225642,
+                        45.597697
+                  ]
+            },
+            {
+                  "name": "Ždral",
+                  "text": "Ždral je heraldički simbol Daruvara, a ovaj spomenik predstavlja prepoznatljivu lokalnu atrakciju.",
+                  "category": "landmark",
+                  "coords": [
+                        17.227316,
+                        45.596272
+                  ]
+            },
+            {
+                  "name": "Benediktinska opatija Sveta Jelena de Podborje",
+                  "text": "Povijesne ruševine srednjovjekovne benediktinske opatije smještene na području Podborja kod Daruvara.",
+                  "category": "historical",
+                  "coords": [
+                        17.204649,
+                        45.585156
+                  ]
+            },
+            {
+                  "name": "Raspelo iz 1931. godine",
+                  "text": "Sakralni spomenik u Daruvaru, ovo raspelo podignuto je 1931. godine kao znak lokalne vjere.",
+                  "category": "historical",
+                  "coords": [
+                        17.223071,
+                        45.594665
+                  ]
+            },
+            {
+                  "name": "Kameni križ 1907. godine",
+                  "text": "Kameni križ iz 1907. godine povijesni je i religijski spomenik u Daruvaru.",
+                  "category": "historical",
+                  "coords": [
+                        17.223883,
+                        45.592542
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Tradicionalno raspelo u Daruvaru koje služi kao mjesto sakralnog i vjerskog značaja.",
+                  "category": "historical",
+                  "coords": [
+                        17.185427,
+                        45.591389
+                  ]
+            },
+            {
+                  "name": "Centralno blatno kupalište",
+                  "text": "Središnji objekt Daruvarskih toplica poznat po terapijskom ljekovitom blatu i povijesnoj arhitekturi.",
+                  "category": "landmark",
+                  "coords": [
+                        17.225712,
+                        45.593598
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Daruvar", hu: "Daruvár", ro: "Daruvar", en: "Daruvar"},
@@ -2204,7 +13187,153 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-gospic-cities-v2",
+    id: "croatia-gospic-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park-šuma Jasikovac",
+                  "text": "Dieser geschützte Waldpark bei Gospić ist ein beliebtes Ausflugsziel mit Wanderwegen und einer reichen Flora.",
+                  "category": "natural",
+                  "coords": [
+                        15.373109,
+                        44.530973
+                  ]
+            },
+            {
+                  "name": "Muzej Like",
+                  "text": "Dieses Museum in Gospić bewahrt das reiche kulturelle und historische Erbe der Region Lika in verschiedenen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        15.374912,
+                        44.546355
+                  ]
+            },
+            {
+                  "name": "katedrala Navještenja Blažene Djevice Marije",
+                  "text": "Die im 18. Jahrhundert erbaute Kathedrale der Verkündigung ist die Hauptkirche der Diözese Gospić-Senj.",
+                  "category": "religious",
+                  "coords": [
+                        15.375831,
+                        44.546192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park-šuma Jasikovac",
+                  "text": "Ez a Gospić melletti védett parkerdő népszerű pihenőhely sétányokkal és gazdag növényzettel.",
+                  "category": "natural",
+                  "coords": [
+                        15.373109,
+                        44.530973
+                  ]
+            },
+            {
+                  "name": "Muzej Like",
+                  "text": "A gospići múzeum a Lika régió gazdag kulturális és történelmi örökségét mutatja be változatos kiállításokon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        15.374912,
+                        44.546355
+                  ]
+            },
+            {
+                  "name": "katedrala Navještenja Blažene Djevice Marije",
+                  "text": "A 18. században épült Angyali üdvözlet székesegyház a Gospić-Zenggi Egyházmegye főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        15.375831,
+                        44.546192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park-šuma Jasikovac",
+                  "text": "Acest parc forestier protejat de lângă Gospić este o destinație populară pentru recreere, cu trasee de plimbare și vegetație bogată.",
+                  "category": "natural",
+                  "coords": [
+                        15.373109,
+                        44.530973
+                  ]
+            },
+            {
+                  "name": "Muzej Like",
+                  "text": "Acest muzeu din Gospić păstrează moștenirea culturală și istorică bogată a regiunii Lika prin diverse expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        15.374912,
+                        44.546355
+                  ]
+            },
+            {
+                  "name": "katedrala Navještenja Blažene Djevice Marije",
+                  "text": "Construită în secolul al XVIII-lea, Catedrala Bunei Vestiri este biserica principală a Diecezei de Gospić-Senj.",
+                  "category": "religious",
+                  "coords": [
+                        15.375831,
+                        44.546192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park-šuma Jasikovac",
+                  "text": "This protected forest park near Gospić is a popular destination for recreation, featuring walking trails and lush greenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.373109,
+                        44.530973
+                  ]
+            },
+            {
+                  "name": "Muzej Like",
+                  "text": "This museum in Gospić preserves the rich cultural and historical heritage of the Lika region through various exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        15.374912,
+                        44.546355
+                  ]
+            },
+            {
+                  "name": "katedrala Navještenja Blažene Djevice Marije",
+                  "text": "Built in the 18th century, the Cathedral of the Annunciation is the main church of the Gospić-Senj Diocese.",
+                  "category": "religious",
+                  "coords": [
+                        15.375831,
+                        44.546192
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Park-šuma Jasikovac",
+                  "text": "Zaštićena park-šuma nadomak Gospića popularno je odredište za rekreaciju i šetnju kroz prirodu.",
+                  "category": "natural",
+                  "coords": [
+                        15.373109,
+                        44.530973
+                  ]
+            },
+            {
+                  "name": "Muzej Like",
+                  "text": "Muzej u Gospiću čuva bogatu kulturnu i povijesnu baštinu regije Like kroz raznovrsne zbirke.",
+                  "category": "museum",
+                  "coords": [
+                        15.374912,
+                        44.546355
+                  ]
+            },
+            {
+                  "name": "katedrala Navještenja Blažene Djevice Marije",
+                  "text": "Izgrađena u 18. stoljeću, katedrala Navještenja Blažene Djevice Marije glavna je crkva Gospićko-senjske biskupije.",
+                  "category": "religious",
+                  "coords": [
+                        15.375831,
+                        44.546192
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Gospić", hu: "Gospić", ro: "Gospić", en: "Gospić"},
@@ -2298,7 +13427,153 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-benkovac-cities-v2",
+    id: "croatia-benkovac-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaštel Benković",
+                  "text": "Eine Festung aus dem 15. Jahrhundert, die auf einem Hügel über der Stadt Benkovac erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        15.609692,
+                        44.033914
+                  ]
+            },
+            {
+                  "name": "crkva sv. Jere",
+                  "text": "Eine archäologische Stätte in Benkovac mit den Überresten der St.-Jerome-Kirche.",
+                  "category": "historical",
+                  "coords": [
+                        15.601697,
+                        44.025198
+                  ]
+            },
+            {
+                  "name": "Benkovac Fair",
+                  "text": "Ein traditioneller Jahrmarkt in Benkovac, der jeden 10. des Monats stattfindet und für seine Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.614522,
+                        44.046001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaštel Benković",
+                  "text": "A 15. században épült erődítmény, amely a Benkovac feletti dombon magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        15.609692,
+                        44.033914
+                  ]
+            },
+            {
+                  "name": "crkva sv. Jere",
+                  "text": "Régészeti lelőhely Benkovacban, Szent Jeromos templomának maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        15.601697,
+                        44.025198
+                  ]
+            },
+            {
+                  "name": "Benkovački sajam",
+                  "text": "Hagyományos vásár Benkovacban, amelyet minden hónap 10-én tartanak, és híres a hangulatáról.",
+                  "category": "landmark",
+                  "coords": [
+                        15.614522,
+                        44.046001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaštel Benković",
+                  "text": "O fortăreață din secolul al XV-lea, construită pe un deal care domină orașul Benkovac.",
+                  "category": "castle",
+                  "coords": [
+                        15.609692,
+                        44.033914
+                  ]
+            },
+            {
+                  "name": "crkva sv. Jere",
+                  "text": "Un sit arheologic din Benkovac, care cuprinde rămășițele bisericii Sfântul Ieronim.",
+                  "category": "historical",
+                  "coords": [
+                        15.601697,
+                        44.025198
+                  ]
+            },
+            {
+                  "name": "Benkovački sajam",
+                  "text": "Un târg tradițional din Benkovac, organizat în fiecare zi de 10 a lunii, renumit pentru atmosfera sa.",
+                  "category": "landmark",
+                  "coords": [
+                        15.614522,
+                        44.046001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaštel Benković",
+                  "text": "A 15th-century fortress built on a hill overlooking the town of Benkovac.",
+                  "category": "castle",
+                  "coords": [
+                        15.609692,
+                        44.033914
+                  ]
+            },
+            {
+                  "name": "crkva sv. Jere",
+                  "text": "An archaeological site in Benkovac featuring the remains of the St. Jerome church.",
+                  "category": "historical",
+                  "coords": [
+                        15.601697,
+                        44.025198
+                  ]
+            },
+            {
+                  "name": "Benkovački sajam",
+                  "text": "A traditional fair in Benkovac held every 10th of the month, famous for its lively atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        15.614522,
+                        44.046001
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Kaštel Benković",
+                  "text": "Utvrda iz 15. stoljeća izgrađena na brežuljku iznad grada Benkovca.",
+                  "category": "castle",
+                  "coords": [
+                        15.609692,
+                        44.033914
+                  ]
+            },
+            {
+                  "name": "crkva sv. Jere",
+                  "text": "Arheološko nalazište u Benkovcu s ostacima crkve svetog Jeronima.",
+                  "category": "historical",
+                  "coords": [
+                        15.601697,
+                        44.025198
+                  ]
+            },
+            {
+                  "name": "Benkovački sajam",
+                  "text": "Tradicionalni sajam u Benkovcu koji se održava svakog 10. u mjesecu, poznat po svom ugođaju.",
+                  "category": "landmark",
+                  "coords": [
+                        15.614522,
+                        44.046001
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Benkovac", hu: "Benkovac", ro: "Benkovac", en: "Benkovac"},
@@ -2345,7 +13620,288 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-kastav-cities-v2",
+    id: "croatia-kastav-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pomorski i povijesni musej hrvatskog primorja Rijeka",
+                  "text": "Ein Museum in der Nähe von Kastav, das sich dem maritimen Erbe und der Geschichte des kroatischen Küstenlandes widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.348734,
+                        45.373056
+                  ]
+            },
+            {
+                  "name": "Zavoj S",
+                  "text": "Ein Kieselstrand an der Adriaküste bei Kastav, ideal zum Entspannen am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.337057,
+                        45.351787
+                  ]
+            },
+            {
+                  "name": "Kuća halubajskega zvočara",
+                  "text": "Ein Museum in Kastav, das der Tradition der Halubajski-Glockenschläger (Zvončari) gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.377802,
+                        45.382818
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica Matulji",
+                  "text": "Eine Freilichtbühne in Matulji bei Kastav, die für verschiedene kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        14.324765,
+                        45.362512
+                  ]
+            },
+            {
+                  "name": "Plaža za invalide",
+                  "text": "Ein speziell ausgestatteter Strandabschnitt bei Kastav, der Barrierefreiheit für Menschen mit Behinderungen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.341608,
+                        45.350035
+                  ]
+            },
+            {
+                  "name": "Kupalište hotela Hilton",
+                  "text": "Der Strandbereich des Hilton-Resorts bei Kastav, der modernen Komfort und kristallklares Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.349924,
+                        45.346207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pomorski i povijesni musej hrvatskog primorja Rijeka",
+                  "text": "Kastav közelében található múzeum, amely a horvát partvidék tengerészeti örökségét és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.348734,
+                        45.373056
+                  ]
+            },
+            {
+                  "name": "Zavoj S",
+                  "text": "Kavicsos strand az Adria partján Kastav közelében, ideális pihenésre a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.337057,
+                        45.351787
+                  ]
+            },
+            {
+                  "name": "Kuća halubajskega zvočara",
+                  "text": "Kastavi múzeum, amely a halubajski kolomposok (zvončari) népi hagyományát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.377802,
+                        45.382818
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica Matulji",
+                  "text": "Matuljiban, Kastav közelében található szabadtéri színpad, amely különféle kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        14.324765,
+                        45.362512
+                  ]
+            },
+            {
+                  "name": "Plaža za invalide",
+                  "text": "Speciálisan kialakított strandrész Kastav közelében, amely akadálymentes hozzáférést biztosít a mozgáskorlátozottaknak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.341608,
+                        45.350035
+                  ]
+            },
+            {
+                  "name": "Kupalište hotela Hilton",
+                  "text": "A Hilton üdülőhely strandja Kastav közelében, amely modern kényelmet és kristálytiszta vizet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.349924,
+                        45.346207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pomorski i povijesni musej hrvatskog primorja Rijeka",
+                  "text": "Un muzeu situat lângă Kastav, dedicat patrimoniului maritim și istoriei litoralului croat.",
+                  "category": "museum",
+                  "coords": [
+                        14.348734,
+                        45.373056
+                  ]
+            },
+            {
+                  "name": "Zavoj S",
+                  "text": "O plajă cu pietriš pe coasta Adriaticii, lângă Kastav, ideală pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        14.337057,
+                        45.351787
+                  ]
+            },
+            {
+                  "name": "Kuća halubajskega zvočara",
+                  "text": "Un muzeu din Kastav dedicat tradiției clopotarilor din Halubaj (zvončari).",
+                  "category": "museum",
+                  "coords": [
+                        14.377802,
+                        45.382818
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica Matulji",
+                  "text": "O scenă în aer liber din Matulji, lângă Kastav, utilizată pentru diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.324765,
+                        45.362512
+                  ]
+            },
+            {
+                  "name": "Plaža za invalide",
+                  "text": "O secțiune de plajă special amenajată lângă Kastav, care oferă accesibilitate persoanelor cu dizabilități.",
+                  "category": "recreational",
+                  "coords": [
+                        14.341608,
+                        45.350035
+                  ]
+            },
+            {
+                  "name": "Kupalište hotela Hilton",
+                  "text": "Zona de plajă a complexului Hilton de lângă Kastav, oferind confort modern și apă cristalină.",
+                  "category": "recreational",
+                  "coords": [
+                        14.349924,
+                        45.346207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pomorski i povijesni musej hrvatskog primorja Rijeka",
+                  "text": "A museum located near Kastav dedicated to the maritime heritage and history of the Croatian Littoral.",
+                  "category": "museum",
+                  "coords": [
+                        14.348734,
+                        45.373056
+                  ]
+            },
+            {
+                  "name": "Zavoj S",
+                  "text": "A pebble beach on the Adriatic coast near Kastav, ideal for relaxing by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        14.337057,
+                        45.351787
+                  ]
+            },
+            {
+                  "name": "Kuća halubajskega zvočara",
+                  "text": "A museum in Kastav dedicated to the tradition of the Halubajski bell ringers (zvončari).",
+                  "category": "museum",
+                  "coords": [
+                        14.377802,
+                        45.382818
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica Matulji",
+                  "text": "An open-air stage in Matulji near Kastav, used for various cultural events and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        14.324765,
+                        45.362512
+                  ]
+            },
+            {
+                  "name": "Beach for the disabled",
+                  "text": "A specially equipped beach area near Kastav providing accessibility for people with disabilities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.341608,
+                        45.350035
+                  ]
+            },
+            {
+                  "name": "Kupalište hotela Hilton",
+                  "text": "The beach area of the Hilton resort near Kastav, offering modern amenities and crystal clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        14.349924,
+                        45.346207
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Pomorski i povijesni musej hrvatskog primorja Rijeka",
+                  "text": "Muzej u blizini Kastva posvećen pomorskoj baštini i povijesti Hrvatskog primorja.",
+                  "category": "museum",
+                  "coords": [
+                        14.348734,
+                        45.373056
+                  ]
+            },
+            {
+                  "name": "Zavoj S",
+                  "text": "Šljunčana plaža na obali Jadrana kod Kastva, idealna za opuštanje uz more.",
+                  "category": "recreational",
+                  "coords": [
+                        14.337057,
+                        45.351787
+                  ]
+            },
+            {
+                  "name": "Kuća halubajskega zvočara",
+                  "text": "Muzej u Kastvu posvećen tradiciji halubajskih zvončara.",
+                  "category": "museum",
+                  "coords": [
+                        14.377802,
+                        45.382818
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica Matulji",
+                  "text": "Ljetna pozornica u Matuljima kod Kastva koja se koristi za razna kulturna događanja.",
+                  "category": "cultural",
+                  "coords": [
+                        14.324765,
+                        45.362512
+                  ]
+            },
+            {
+                  "name": "Beach for the disabled",
+                  "text": "Posebno opremljena plaža kod Kastva koja omogućuje pristup osobama s invaliditetom.",
+                  "category": "recreational",
+                  "coords": [
+                        14.341608,
+                        45.350035
+                  ]
+            },
+            {
+                  "name": "Kupalište hotela Hilton",
+                  "text": "Plaža resorta Hilton kod Kastva koja nudi moderan komfor i kristalno čisto more.",
+                  "category": "recreational",
+                  "coords": [
+                        14.349924,
+                        45.346207
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Kastav", hu: "Kasztav", ro: "Kastav", en: "Kastav"},
@@ -2392,7 +13948,243 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-ivanec-cities-v2",
+    id: "croatia-ivanec-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arheološki lokalitet Stari grad",
+                  "text": "Archäologische Stätte im Zentrum von Ivanec, die Überreste einer mittelalterlichen Festung bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        16.125174,
+                        46.223478
+                  ]
+            },
+            {
+                  "name": "Muzej planinarstva Ivanec",
+                  "text": "Museum in Ivanec, das der langen Tradition des Bergsteigens und der Geschichte der Wanderwege in der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.125571,
+                        46.221636
+                  ]
+            },
+            {
+                  "name": "Rodna kuća narodnog heroja Josipa Kraša",
+                  "text": "Das Geburtshaus von Josip Kraš in Ivanec dient als Gedenkstätte für das Leben dieses Volkshelden.",
+                  "category": "landmark",
+                  "coords": [
+                        16.097878,
+                        46.216266
+                  ]
+            },
+            {
+                  "name": "Spomenik palim borcima NOR-a",
+                  "text": "Denkmal im Zentrum von Ivanec, das den im Zweiten Weltkrieg gefallenen Kämpfern gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        16.091318,
+                        46.221848
+                  ]
+            },
+            {
+                  "name": "Friščićev mlin",
+                  "text": "Eine historische Wassermühle in Ivanec, die das traditionelle Müllerhandwerk und das lokale Erbe veranschaulicht.",
+                  "category": "landmark",
+                  "coords": [
+                        16.134183,
+                        46.200407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arheološki lokalitet Stari grad",
+                  "text": "Régészeti lelőhely Ivanec központjában, amely egy középkori vár maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        16.125174,
+                        46.223478
+                  ]
+            },
+            {
+                  "name": "Muzej planinarstva Ivanec",
+                  "text": "Ivaneć hegymászó múzeuma, amely a régió gazdag hegymászó múltját és túrahagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.125571,
+                        46.221636
+                  ]
+            },
+            {
+                  "name": "Rodna kuća narodnog heroja Josipa Kraša",
+                  "text": "Josip Kraš szülőháza Ivanecben, amely a népi hős életének és munkásságának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        16.097878,
+                        46.216266
+                  ]
+            },
+            {
+                  "name": "Spomenik palim borcima NOR-a",
+                  "text": "A második világháború harcosainak emelt emlékmű Ivanec központjában.",
+                  "category": "historical",
+                  "coords": [
+                        16.091318,
+                        46.221848
+                  ]
+            },
+            {
+                  "name": "Friščićev mlin",
+                  "text": "Történelmi vízimalom Ivanec területén, amely a hagyományos molnármesterséget és a helyi örökséget mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        16.134183,
+                        46.200407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arheološki lokalitet Stari grad",
+                  "text": "Sit arheologic în centrul orașului Ivanec, ce păstrează vestigiile unei vechi fortărețe medievale.",
+                  "category": "historical",
+                  "coords": [
+                        16.125174,
+                        46.223478
+                  ]
+            },
+            {
+                  "name": "Muzej planinarstva Ivanec",
+                  "text": "Muzeu în Ivanec dedicat tradiției montane și istoriei alpinismului din această regiune.",
+                  "category": "museum",
+                  "coords": [
+                        16.125571,
+                        46.221636
+                  ]
+            },
+            {
+                  "name": "Rodna kuća narodnog heroja Josipa Kraša",
+                  "text": "Casa natală a lui Josip Kraš din Ivanec, un monument dedicat vieții eroului popular.",
+                  "category": "landmark",
+                  "coords": [
+                        16.097878,
+                        46.216266
+                  ]
+            },
+            {
+                  "name": "Spomenik palim borcima NOR-a",
+                  "text": "Monument în centrul orașului Ivanec, ridicat în memoria luptătorilor căzuți în Al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        16.091318,
+                        46.221848
+                  ]
+            },
+            {
+                  "name": "Friščićev mlin",
+                  "text": "O moară de apă istorică din Ivanec, care exemplifică meșteșugul tradițional al morăritului.",
+                  "category": "landmark",
+                  "coords": [
+                        16.134183,
+                        46.200407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arheološki lokalitet Stari grad",
+                  "text": "Archaeological site in the center of Ivanec, preserving the remains of a medieval fortress.",
+                  "category": "historical",
+                  "coords": [
+                        16.125174,
+                        46.223478
+                  ]
+            },
+            {
+                  "name": "Muzej planinarstva Ivanec",
+                  "text": "Museum in Ivanec dedicated to the long tradition of mountaineering and hiking in the region.",
+                  "category": "museum",
+                  "coords": [
+                        16.125571,
+                        46.221636
+                  ]
+            },
+            {
+                  "name": "Rodna kuća narodnog heroja Josipa Kraša",
+                  "text": "The birthplace of Josip Kraš in Ivanec, serving as a memorial to the life of the national hero.",
+                  "category": "landmark",
+                  "coords": [
+                        16.097878,
+                        46.216266
+                  ]
+            },
+            {
+                  "name": "Spomenik palim borcima NOR-a",
+                  "text": "Monument in the center of Ivanec dedicated to the fallen fighters of the Second World War.",
+                  "category": "historical",
+                  "coords": [
+                        16.091318,
+                        46.221848
+                  ]
+            },
+            {
+                  "name": "Friščićev mlin",
+                  "text": "A historical water mill in Ivanec that showcases traditional milling techniques and local heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        16.134183,
+                        46.200407
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Arheološki lokalitet Stari grad",
+                  "text": "Arheološki lokalitet u središtu Ivanca koji čuva ostatke srednjovjekovne utvrde.",
+                  "category": "historical",
+                  "coords": [
+                        16.125174,
+                        46.223478
+                  ]
+            },
+            {
+                  "name": "Muzej planinarstva Ivanec",
+                  "text": "Muzej u Ivancu posvećen dugoj tradiciji planinarstva i povijesti uspona u ovom kraju.",
+                  "category": "museum",
+                  "coords": [
+                        16.125571,
+                        46.221636
+                  ]
+            },
+            {
+                  "name": "Rodna kuća narodnog heroja Josipa Kraša",
+                  "text": "Rodna kuća Josipa Kraša u Ivancu koja služi kao spomen-mjesto na život ovog narodnog heroja.",
+                  "category": "landmark",
+                  "coords": [
+                        16.097878,
+                        46.216266
+                  ]
+            },
+            {
+                  "name": "Spomenik palim borcima NOR-a",
+                  "text": "Spomenik u centru Ivanca podignut u čast borcima palim u Drugom svjetskom ratu.",
+                  "category": "historical",
+                  "coords": [
+                        16.091318,
+                        46.221848
+                  ]
+            },
+            {
+                  "name": "Friščićev mlin",
+                  "text": "Povijesni mlin u Ivancu koji svjedoči o tradicijskom mlinarstvu i načinu života u prošlosti.",
+                  "category": "landmark",
+                  "coords": [
+                        16.134183,
+                        46.200407
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Ivanec", hu: "Ivanec", ro: "Ivanec", en: "Ivanec"},
@@ -2486,7 +14278,198 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-mursko-sredisce-cities-v2",
+    id: "croatia-mursko-sredisce-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pekel Peklenica",
+                  "text": "Archäologische Stätte bei Mursko Središće, die historisch mit der frühen Erdölgewinnung in der Region verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        16.467262,
+                        46.494264
+                  ]
+            },
+            {
+                  "name": "Spomen dom rudarstva",
+                  "text": "Bergbaumuseum in Mursko Središće, das die Geschichte des Kohleabbaus und das Leben der Bergleute dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.447689,
+                        46.504866
+                  ]
+            },
+            {
+                  "name": "Ranč PonyLand",
+                  "text": "Ein familienfreundlicher Reiterhof in Mursko Središće, der Reitstunden und Aktivitäten im Freien anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.433177,
+                        46.511823
+                  ]
+            },
+            {
+                  "name": "Zvonik svete Barbare",
+                  "text": "Ein historischer Glockenturm in Mursko Središće, der der heiligen Barbara, der Schutzpatronin der Bergleute, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.434507,
+                        46.51632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pekel Peklenica",
+                  "text": "Régészeti lelőhely Mursko Središće közelében, amely a régió korai kőolaj-kitermeléséhez kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        16.467262,
+                        46.494264
+                  ]
+            },
+            {
+                  "name": "Bányászati emlékház",
+                  "text": "Bányászati múzeum Mursko Središće városában, amely a helyi szénbányászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.447689,
+                        46.504866
+                  ]
+            },
+            {
+                  "name": "Ranč PonyLand",
+                  "text": "Családbarát lovastanya Mursko Središće szélén, ahol pónilovaglásra és szabadtéri programokra van lehetőség.",
+                  "category": "landmark",
+                  "coords": [
+                        16.433177,
+                        46.511823
+                  ]
+            },
+            {
+                  "name": "Zvonik svete Barbare",
+                  "text": "Szent Borbála tiszteletére emelt harangtorony Mursko Središćében, aki a bányászok védőszentje.",
+                  "category": "religious",
+                  "coords": [
+                        16.434507,
+                        46.51632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pekel Peklenica",
+                  "text": "Sit arheologic lângă Mursko Središće, legat de primele exploatări de petrol din această regiune.",
+                  "category": "historical",
+                  "coords": [
+                        16.467262,
+                        46.494264
+                  ]
+            },
+            {
+                  "name": "Spomen dom rudarstva",
+                  "text": "Muzeu al mineritului în Mursko Središće, documentând istoria extracției cărbunelui și viața minerilor.",
+                  "category": "museum",
+                  "coords": [
+                        16.447689,
+                        46.504866
+                  ]
+            },
+            {
+                  "name": "Ranč PonyLand",
+                  "text": "O fermă de ponei în Mursko Središće, ideală pentru familii, oferind activități de echitație și recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        16.433177,
+                        46.511823
+                  ]
+            },
+            {
+                  "name": "Zvonik svete Barbare",
+                  "text": "O clopotniță istorică în Mursko Središće dedicată Sfintei Barbara, protectoarea minerilor.",
+                  "category": "religious",
+                  "coords": [
+                        16.434507,
+                        46.51632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pekel Peklenica",
+                  "text": "Archaeological site near Mursko Središće, historically linked to the early extraction of petroleum in the area.",
+                  "category": "historical",
+                  "coords": [
+                        16.467262,
+                        46.494264
+                  ]
+            },
+            {
+                  "name": "Spomen dom rudarstva",
+                  "text": "Mining museum in Mursko Središće, documenting the history of coal mining and the lives of local miners.",
+                  "category": "museum",
+                  "coords": [
+                        16.447689,
+                        46.504866
+                  ]
+            },
+            {
+                  "name": "Ranč PonyLand",
+                  "text": "A family-friendly pony ranch in Mursko Središće, offering riding lessons and outdoor activities.",
+                  "category": "landmark",
+                  "coords": [
+                        16.433177,
+                        46.511823
+                  ]
+            },
+            {
+                  "name": "Zvonik svete Barbare",
+                  "text": "A historical bell tower in Mursko Središće dedicated to Saint Barbara, the patron saint of miners.",
+                  "category": "religious",
+                  "coords": [
+                        16.434507,
+                        46.51632
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Pekel Peklenica",
+                  "text": "Arheološki lokalitet kod Murskog Središća, povijesno povezan s ranim crpljenjem nafte u ovom kraju.",
+                  "category": "historical",
+                  "coords": [
+                        16.467262,
+                        46.494264
+                  ]
+            },
+            {
+                  "name": "Spomen dom rudarstva",
+                  "text": "Spomen dom rudarstva u Murskom Središću koji čuva povijest rudarenja ugljena i tradiciju ovoga kraja.",
+                  "category": "museum",
+                  "coords": [
+                        16.447689,
+                        46.504866
+                  ]
+            },
+            {
+                  "name": "Ranč PonyLand",
+                  "text": "Obiteljsko izletište i ranč s ponijima u Murskom Središću, pogodno za rekreaciju i školu jahanja.",
+                  "category": "landmark",
+                  "coords": [
+                        16.433177,
+                        46.511823
+                  ]
+            },
+            {
+                  "name": "Zvonik svete Barbare",
+                  "text": "Povijesni zvonik u Murskom Središću posvećen svetoj Barbari, zaštitnici rudara.",
+                  "category": "religious",
+                  "coords": [
+                        16.434507,
+                        46.51632
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Mursko Središće", hu: "Muraszerdahely", ro: "Mursko Središće", en: "Mursko Središće"},
@@ -2533,7 +14516,108 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-beli-manastir-cities-v2",
+    id: "croatia-beli-manastir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bazeni Beli Manastir",
+                  "text": "Öffentlicher Schwimmbadkomplex in Beli Manastir mit verschiedenen Becken für Erholung und Sport.",
+                  "category": "recreational",
+                  "coords": [
+                        18.628917,
+                        45.765683
+                  ]
+            },
+            {
+                  "name": "Etnološki centar baranjske baštine",
+                  "text": "Museum in Beli Manastir, das die reiche Volkskultur und die traditionellen Handwerke der Region Baranja präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.609112,
+                        45.771933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bazeni Beli Manastir",
+                  "text": "Beli Manastir városi fürdőkomplexuma, amely úszómedencékkel és kikapcsolódási lehetőségekkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.628917,
+                        45.765683
+                  ]
+            },
+            {
+                  "name": "Etnološki centar baranjske baštine",
+                  "text": "Beli Manastir néprajzi központja, amely Baranya gazdag kulturális örökségét és hagyományos mesterségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.609112,
+                        45.771933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazeni Beli Manastir",
+                  "text": "Complex de piscine în Beli Manastir, oferind bazine pentru înot, recreere și activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        18.628917,
+                        45.765683
+                  ]
+            },
+            {
+                  "name": "Etnološki centar baranjske baštine",
+                  "text": "Centru etnologic în Beli Manastir, dedicat conservării patrimoniului cultural și tradițiilor din regiunea Baranja.",
+                  "category": "museum",
+                  "coords": [
+                        18.609112,
+                        45.771933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazeni Beli Manastir",
+                  "text": "Public swimming pool complex in Beli Manastir, featuring various pools for recreation and sports.",
+                  "category": "recreational",
+                  "coords": [
+                        18.628917,
+                        45.765683
+                  ]
+            },
+            {
+                  "name": "Etnološki centar baranjske baštine",
+                  "text": "Ethnological center in Beli Manastir showcasing the rich cultural heritage and traditions of the Baranja region.",
+                  "category": "museum",
+                  "coords": [
+                        18.609112,
+                        45.771933
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Bazeni Beli Manastir",
+                  "text": "Gradski bazenski kompleks u Belom Manastiru s više bazena za rekreaciju, sport i osvježenje.",
+                  "category": "recreational",
+                  "coords": [
+                        18.628917,
+                        45.765683
+                  ]
+            },
+            {
+                  "name": "Etnološki centar baranjske baštine",
+                  "text": "Etnološki centar u Belom Manastiru koji prezentira bogatu kulturnu baštinu i tradicijske obrte Baranje.",
+                  "category": "museum",
+                  "coords": [
+                        18.609112,
+                        45.771933
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Beli Manastir", hu: "Pélmonostor", ro: "Beli Manastir", en: "Beli Manastir"},
@@ -2580,7 +14664,378 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-otocac-cities-v2",
+    id: "croatia-otocac-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Perin vrh",
+                  "text": "Ein Berggipfel in der Nähe von Otočac, der Ausblicke auf die umliegende Lika-Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.225236,
+                        44.8436
+                  ]
+            },
+            {
+                  "name": "Inin vrh",
+                  "text": "Ein Gipfel in der Gegend von Otočac, der zur Gebirgslandschaft der Gespanschaft Lika-Senj gehört.",
+                  "category": "natural",
+                  "coords": [
+                        15.233433,
+                        44.881684
+                  ]
+            },
+            {
+                  "name": "Poljički vrh",
+                  "text": "Ein Berggipfel in der unmittelbaren Umgebung der Stadt Otočac.",
+                  "category": "natural",
+                  "coords": [
+                        15.220516,
+                        44.883182
+                  ]
+            },
+            {
+                  "name": "Rastik",
+                  "text": "Ein Gipfel bei Otočac, der bei Naturfreunden und Wanderern beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.212382,
+                        44.87994
+                  ]
+            },
+            {
+                  "name": "Milešnjak",
+                  "text": "Ein Berggipfel in der Region Lika, unweit der Stadt Otočac gelegen.",
+                  "category": "natural",
+                  "coords": [
+                        15.225922,
+                        44.891211
+                  ]
+            },
+            {
+                  "name": "Gačanski park hrvatske memorije",
+                  "text": "Ein Gedenkpark in Otočac mit Steinkulpturen, die wichtige Symbole der Gacka-Region darstellen.",
+                  "category": "park",
+                  "coords": [
+                        15.236997,
+                        44.869186
+                  ]
+            },
+            {
+                  "name": "Tvrđava Fortica",
+                  "text": "Die Überreste einer strategischen Festung aus dem 17. Jahrhundert auf einem Hügel über Otočac.",
+                  "category": "historical",
+                  "coords": [
+                        15.233907,
+                        44.872759
+                  ]
+            },
+            {
+                  "name": "Gacka",
+                  "text": "Eine architektonisch bedeutende Brücke, die den Fluss Gacka in der Nähe von Otočac überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.210793,
+                        44.862499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Perin vrh",
+                  "text": "Egy hegycsúcs Otocac közelében, amely kilátást nyújt a környező Lika-vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.225236,
+                        44.8436
+                  ]
+            },
+            {
+                  "name": "Inin vrh",
+                  "text": "Egy hegycsúcs Otocac környékén, amely Lika-Zengg megye hegyvidékéhez tartozik.",
+                  "category": "natural",
+                  "coords": [
+                        15.233433,
+                        44.881684
+                  ]
+            },
+            {
+                  "name": "Poljički vrh",
+                  "text": "Egy hegycsúcs Otocac városának közvetlen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.220516,
+                        44.883182
+                  ]
+            },
+            {
+                  "name": "Rastik",
+                  "text": "Egy hegycsúcs Otocacnál, amely népszerű a természetjárók és túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        15.212382,
+                        44.87994
+                  ]
+            },
+            {
+                  "name": "Milešnjak",
+                  "text": "Egy hegycsúcs a Lika-régióban, nem messze Otocac városától.",
+                  "category": "natural",
+                  "coords": [
+                        15.225922,
+                        44.891211
+                  ]
+            },
+            {
+                  "name": "Gačanski park hrvatske memorije",
+                  "text": "Emlékpark Otocacban kőszobrokkal, amelyek a Gacka-vidék fontos szimbólumait ábrázolják.",
+                  "category": "park",
+                  "coords": [
+                        15.236997,
+                        44.869186
+                  ]
+            },
+            {
+                  "name": "Tvrđava Fortica",
+                  "text": "Egy 17. századi stratégiai erőd maradványai az Otocac feletti dombon.",
+                  "category": "historical",
+                  "coords": [
+                        15.233907,
+                        44.872759
+                  ]
+            },
+            {
+                  "name": "Gacka",
+                  "text": "Egy építészetileg jelentős híd, amely a Gacka-folyót íveli át Otocac közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.210793,
+                        44.862499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Perin vrh",
+                  "text": "Un vârf muntos situat în apropiere de Otočac, oferind panorame asupra regiunii Lika.",
+                  "category": "natural",
+                  "coords": [
+                        15.225236,
+                        44.8436
+                  ]
+            },
+            {
+                  "name": "Inin vrh",
+                  "text": "Un vârf în zona Otočac, făcând parte din peisajul montan al cantonului Lika-Senj.",
+                  "category": "natural",
+                  "coords": [
+                        15.233433,
+                        44.881684
+                  ]
+            },
+            {
+                  "name": "Poljički vrh",
+                  "text": "Un vârf muntos situat în imediata apropiere a orașului Otočac.",
+                  "category": "natural",
+                  "coords": [
+                        15.220516,
+                        44.883182
+                  ]
+            },
+            {
+                  "name": "Rastik",
+                  "text": "Un vârf lângă Otočac, popular printre iubitorii de natură și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        15.212382,
+                        44.87994
+                  ]
+            },
+            {
+                  "name": "Milešnjak",
+                  "text": "Un vârf muntos în regiunea Lika, situat nu departe de orașul Otočac.",
+                  "category": "natural",
+                  "coords": [
+                        15.225922,
+                        44.891211
+                  ]
+            },
+            {
+                  "name": "Gačanski park hrvatske memorije",
+                  "text": "Un parc memorial în Otočac cu sculpturi în piatră ce reprezintă simboluri importante ale regiunii Gacka.",
+                  "category": "park",
+                  "coords": [
+                        15.236997,
+                        44.869186
+                  ]
+            },
+            {
+                  "name": "Tvrđava Fortica",
+                  "text": "Rămășițele unei cetăți strategice din secolul al XVII-lea pe un deal deasupra orașului Otočac.",
+                  "category": "historical",
+                  "coords": [
+                        15.233907,
+                        44.872759
+                  ]
+            },
+            {
+                  "name": "Gacka",
+                  "text": "Un pod semnificativ din punct de vedere arhitectural care traversează râul Gacka lângă Otočac.",
+                  "category": "landmark",
+                  "coords": [
+                        15.210793,
+                        44.862499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Perin vrh",
+                  "text": "A mountain peak located near Otočac, offering views of the surrounding Lika region.",
+                  "category": "natural",
+                  "coords": [
+                        15.225236,
+                        44.8436
+                  ]
+            },
+            {
+                  "name": "Inin vrh",
+                  "text": "A peak in the Otočac area, part of the mountainous landscape of the Lika-Senj County.",
+                  "category": "natural",
+                  "coords": [
+                        15.233433,
+                        44.881684
+                  ]
+            },
+            {
+                  "name": "Poljički vrh",
+                  "text": "A mountain peak located in the immediate vicinity of the town of Otočac.",
+                  "category": "natural",
+                  "coords": [
+                        15.220516,
+                        44.883182
+                  ]
+            },
+            {
+                  "name": "Rastik",
+                  "text": "A peak near Otočac, popular among nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        15.212382,
+                        44.87994
+                  ]
+            },
+            {
+                  "name": "Milešnjak",
+                  "text": "A mountain peak in the Lika region, located not far from the town of Otočac.",
+                  "category": "natural",
+                  "coords": [
+                        15.225922,
+                        44.891211
+                  ]
+            },
+            {
+                  "name": "Gačanski park hrvatske memorije",
+                  "text": "A memorial park in Otočac featuring stone sculptures that represent important symbols of the Gacka region.",
+                  "category": "park",
+                  "coords": [
+                        15.236997,
+                        44.869186
+                  ]
+            },
+            {
+                  "name": "Tvrđava Fortica",
+                  "text": "The remains of a 17th-century strategic fortress located on a hill above Otočac.",
+                  "category": "historical",
+                  "coords": [
+                        15.233907,
+                        44.872759
+                  ]
+            },
+            {
+                  "name": "Gacka",
+                  "text": "An architecturally significant bridge spanning the Gacka River near Otočac.",
+                  "category": "landmark",
+                  "coords": [
+                        15.210793,
+                        44.862499
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Perin vrh",
+                  "text": "Planinski vrh u blizini Otočca s kojeg se pruža pogled na okolicu.",
+                  "category": "natural",
+                  "coords": [
+                        15.225236,
+                        44.8436
+                  ]
+            },
+            {
+                  "name": "Inin vrh",
+                  "text": "Vrh na području Otočca koji je dio planinskog krajolika Ličko-senjske županije.",
+                  "category": "natural",
+                  "coords": [
+                        15.233433,
+                        44.881684
+                  ]
+            },
+            {
+                  "name": "Poljički vrh",
+                  "text": "Planinski vrh koji se nalazi u neposrednoj blizini grada Otočca.",
+                  "category": "natural",
+                  "coords": [
+                        15.220516,
+                        44.883182
+                  ]
+            },
+            {
+                  "name": "Rastik",
+                  "text": "Vrh pokraj Otočca pogodan za ljubitelje planinarenja i prirode.",
+                  "category": "natural",
+                  "coords": [
+                        15.212382,
+                        44.87994
+                  ]
+            },
+            {
+                  "name": "Milešnjak",
+                  "text": "Planinski vrh u ličkom kraju smješten nedaleko od grada Otočca.",
+                  "category": "natural",
+                  "coords": [
+                        15.225922,
+                        44.891211
+                  ]
+            },
+            {
+                  "name": "Gačanski park hrvatske memorije",
+                  "text": "Memorijalni park u Otočcu s kamenim klesancima koji simboliziraju povijest i baštinu Gacke.",
+                  "category": "park",
+                  "coords": [
+                        15.236997,
+                        44.869186
+                  ]
+            },
+            {
+                  "name": "Tvrđava Fortica",
+                  "text": "Ostaci obrambene utvrde iz 17. stoljeća na uzvisini iznad grada Otočca.",
+                  "category": "historical",
+                  "coords": [
+                        15.233907,
+                        44.872759
+                  ]
+            },
+            {
+                  "name": "Gacka",
+                  "text": "Značajan mostni objekt koji premošćuje rijeku Gacku u blizini Otočca.",
+                  "category": "landmark",
+                  "coords": [
+                        15.210793,
+                        44.862499
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Otočac", hu: "Otocsác", ro: "Otočac", en: "Otočac"},
@@ -2674,7 +15129,108 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-pucko-toplice-cities-v2",
+    id: "croatia-pucko-toplice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aqua Vivae Krapinske Toplice",
+                  "text": "Ein moderner Wasserpark in Krapinske Toplice mit zahlreichen Thermal- und Freizeitbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        15.836671,
+                        46.090556
+                  ]
+            },
+            {
+                  "name": "Dvorac Klokovec",
+                  "text": "Ein klassizistisches Schloss aus dem 19. Jahrhundert in der Nähe von Krapinske Toplice.",
+                  "category": "castle",
+                  "coords": [
+                        15.82857,
+                        46.092385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aqua Vivae Krapinske Toplice",
+                  "text": "Modern vízipark Krapinske Toplicében, számos termál- és élménymedencével.",
+                  "category": "recreational",
+                  "coords": [
+                        15.836671,
+                        46.090556
+                  ]
+            },
+            {
+                  "name": "Dvorac Klokovec",
+                  "text": "Egy 19. századi klasszicista kastély Krapinske Toplice közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.82857,
+                        46.092385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aqua Vivae Krapinske Toplice",
+                  "text": "Un parc acvatic modern în Krapinske Toplice, cu numeroase bazine termale și de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        15.836671,
+                        46.090556
+                  ]
+            },
+            {
+                  "name": "Dvorac Klokovec",
+                  "text": "Un castel neoclasic din secolul al XIX-lea situat în apropiere de Krapinske Toplice.",
+                  "category": "castle",
+                  "coords": [
+                        15.82857,
+                        46.092385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aqua Vivae Krapinske Toplice",
+                  "text": "A modern water park in Krapinske Toplice featuring numerous thermal and recreational pools.",
+                  "category": "recreational",
+                  "coords": [
+                        15.836671,
+                        46.090556
+                  ]
+            },
+            {
+                  "name": "Dvorac Klokovec",
+                  "text": "A 19th-century Neoclassical castle located in the vicinity of Krapinske Toplice.",
+                  "category": "castle",
+                  "coords": [
+                        15.82857,
+                        46.092385
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Aqua Vivae Krapinske Toplice",
+                  "text": "Suvremeni vodeni park u Krapinskim Toplicama s unutarnjim i vanjskim termalnim bazenima.",
+                  "category": "recreational",
+                  "coords": [
+                        15.836671,
+                        46.090556
+                  ]
+            },
+            {
+                  "name": "Dvorac Klokovec",
+                  "text": "Klasicistički dvorac iz 19. stoljeća smješten u naselju Klokovec pokraj Krapinskih Toplica.",
+                  "category": "castle",
+                  "coords": [
+                        15.82857,
+                        46.092385
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Krapinske Toplice", hu: "Krapinske Toplice", ro: "Krapinske Toplice", en: "Krapinske Toplice"},
@@ -2721,7 +15277,108 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-ludbreg-cities-v2",
+    id: "croatia-ludbreg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castrum Iovia",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte der antiken römischen Siedlung Iovia in Ludbreg.",
+                  "category": "historical",
+                  "coords": [
+                        16.618453,
+                        46.248864
+                  ]
+            },
+            {
+                  "name": "Vidikovac svetog Vinka",
+                  "text": "Ein Aussichtspunkt bei Ludbreg, der einen weiten Blick über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.640172,
+                        46.234871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castrum Iovia",
+                  "text": "Az ókori római Iovia település jelentős régészeti lelőhelye Ludbregben.",
+                  "category": "historical",
+                  "coords": [
+                        16.618453,
+                        46.248864
+                  ]
+            },
+            {
+                  "name": "Vidikovac svetog Vinka",
+                  "text": "Egy kilátópont Ludbreg közelében, ahonnan szép kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        16.640172,
+                        46.234871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castrum Iovia",
+                  "text": "Un sit arheologic important al așezării antice romane Iovia, situat în Ludbreg.",
+                  "category": "historical",
+                  "coords": [
+                        16.618453,
+                        46.248864
+                  ]
+            },
+            {
+                  "name": "Vidikovac svetog Vinka",
+                  "text": "Un punct de belvedere lângă Ludbreg, oferind o priveliște largă asupra peisajului din jur.",
+                  "category": "natural",
+                  "coords": [
+                        16.640172,
+                        46.234871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castrum Iovia",
+                  "text": "A significant archaeological site of the ancient Roman settlement Iovia, located in Ludbreg.",
+                  "category": "historical",
+                  "coords": [
+                        16.618453,
+                        46.248864
+                  ]
+            },
+            {
+                  "name": "Vidikovac svetog Vinka",
+                  "text": "A viewpoint near Ludbreg offering a wide view of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        16.640172,
+                        46.234871
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Castrum Iovia",
+                  "text": "Arheološko nalazište antičkog rimskog naselja Iovia u središtu Ludbrega.",
+                  "category": "historical",
+                  "coords": [
+                        16.618453,
+                        46.248864
+                  ]
+            },
+            {
+                  "name": "Vidikovac svetog Vinka",
+                  "text": "Vidikovac u blizini Ludbrega koji pruža prekrasan pogled na okolni krajolik.",
+                  "category": "natural",
+                  "coords": [
+                        16.640172,
+                        46.234871
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Ludbreg", hu: "Ludbreg", ro: "Ludbreg", en: "Ludbreg"},
@@ -2768,7 +15425,108 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-pula-v2-cities-v2",
+    id: "croatia-pula-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Papuk",
+                  "text": "Der Naturpark Papuk ist das erste UNESCO-Geopark-Gebiet in Kroatien.",
+                  "category": "natural",
+                  "coords": [
+                        17.693309,
+                        45.513415
+                  ]
+            },
+            {
+                  "name": "Mačevo brdo",
+                  "text": "Ein Berggipfel in der Region, der für Wanderungen geeignet ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.871628,
+                        45.428272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Papuk",
+                  "text": "A Papuk Natúrpark Horvátország első UNESCO Geoparkja.",
+                  "category": "natural",
+                  "coords": [
+                        17.693309,
+                        45.513415
+                  ]
+            },
+            {
+                  "name": "Mačevo brdo",
+                  "text": "Egy hegycsúcs a régióban, amely alkalmas túrázásra.",
+                  "category": "natural",
+                  "coords": [
+                        17.871628,
+                        45.428272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Papuk",
+                  "text": "Parcul Natural Papuk este primul geoparc UNESCO din Croația.",
+                  "category": "natural",
+                  "coords": [
+                        17.693309,
+                        45.513415
+                  ]
+            },
+            {
+                  "name": "Mačevo brdo",
+                  "text": "Un vârf montan din regiune, potrivit pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        17.871628,
+                        45.428272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nature Park Papuk",
+                  "text": "Nature Park Papuk is Croatia's first UNESCO Global Geopark.",
+                  "category": "natural",
+                  "coords": [
+                        17.693309,
+                        45.513415
+                  ]
+            },
+            {
+                  "name": "Mačevo brdo",
+                  "text": "A mountain peak in the region suitable for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        17.871628,
+                        45.428272
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Nature Park Papuk",
+                  "text": "Park prirode Papuk prvi je hrvatski UNESCO-ov geopark.",
+                  "category": "natural",
+                  "coords": [
+                        17.693309,
+                        45.513415
+                  ]
+            },
+            {
+                  "name": "Mačevo brdo",
+                  "text": "Planinski vrh u regiji pogodan za planinarenje.",
+                  "category": "natural",
+                  "coords": [
+                        17.871628,
+                        45.428272
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "town",
     name: { de: "Kutjevo", hu: "Kutjevo", ro: "Kutjevo", en: "Kutjevo"},
@@ -2956,7 +15714,243 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-grubisno-polje-cities-v2",
+    id: "croatia-grubisno-polje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradina Obrova",
+                  "text": "Eine archäologische Ausgrabungsstätte in Grubišno Polje.",
+                  "category": "historical",
+                  "coords": [
+                        17.200375,
+                        45.726664
+                  ]
+            },
+            {
+                  "name": "Tenk T-55-S \"KUM 1\"",
+                  "text": "Ein ausgestellter T-55 Panzer als militärisches Denkmal in Grubišno Polje.",
+                  "category": "landmark",
+                  "coords": [
+                        17.171927,
+                        45.701221
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Ein religiöses Kruzifix-Denkmal in Grubišno Polje.",
+                  "category": "historical",
+                  "coords": [
+                        17.171799,
+                        45.702325
+                  ]
+            },
+            {
+                  "name": "Spomenik Grubišnopoljskim braniteljima",
+                  "text": "Ein Denkmal zu Ehren der Verteidiger von Grubišno Polje.",
+                  "category": "historical",
+                  "coords": [
+                        17.173284,
+                        45.700201
+                  ]
+            },
+            {
+                  "name": "crkva svetog Velikomučenika Georgije",
+                  "text": "Eine orthodoxe Kirche des heiligen Georg in Grubišno Polje.",
+                  "category": "religious",
+                  "coords": [
+                        17.176188,
+                        45.703512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradina Obrova",
+                  "text": "Régészeti lelőhely Grubišno Polje területén.",
+                  "category": "historical",
+                  "coords": [
+                        17.200375,
+                        45.726664
+                  ]
+            },
+            {
+                  "name": "Tenk T-55-S \"KUM 1\"",
+                  "text": "Egy kiállított T-55-ös tank katonai emlékműként Grubišno Polje városában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.171927,
+                        45.701221
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Vallási feszület Grubišno Polje területén.",
+                  "category": "historical",
+                  "coords": [
+                        17.171799,
+                        45.702325
+                  ]
+            },
+            {
+                  "name": "Spomenik Grubišnopoljskim braniteljima",
+                  "text": "Emlékmű a Grubišno Polje-i védők tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        17.173284,
+                        45.700201
+                  ]
+            },
+            {
+                  "name": "crkva svetog Velikomučenika Georgije",
+                  "text": "Szent György nagyvértanú ortodox temploma Grubišno Polje városában.",
+                  "category": "religious",
+                  "coords": [
+                        17.176188,
+                        45.703512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradina Obrova",
+                  "text": "Un sit arheologic situat în Grubišno Polje.",
+                  "category": "historical",
+                  "coords": [
+                        17.200375,
+                        45.726664
+                  ]
+            },
+            {
+                  "name": "Tenk T-55-S \"KUM 1\"",
+                  "text": "Un tanc T-55 expus ca monument militar în Grubišno Polje.",
+                  "category": "landmark",
+                  "coords": [
+                        17.171927,
+                        45.701221
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Un monument religios sub formă de crucifix în Grubišno Polje.",
+                  "category": "historical",
+                  "coords": [
+                        17.171799,
+                        45.702325
+                  ]
+            },
+            {
+                  "name": "Spomenik Grubišnopoljskim braniteljima",
+                  "text": "Un monument dedicat apărătorilor orașului Grubišno Polje.",
+                  "category": "historical",
+                  "coords": [
+                        17.173284,
+                        45.700201
+                  ]
+            },
+            {
+                  "name": "crkva svetog Velikomučenika Georgije",
+                  "text": "Biserica ortodoxă a Sfântului Mare Mucenic Gheorghe din Grubišno Polje.",
+                  "category": "religious",
+                  "coords": [
+                        17.176188,
+                        45.703512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradina Obrova",
+                  "text": "An archaeological site located in Grubišno Polje.",
+                  "category": "historical",
+                  "coords": [
+                        17.200375,
+                        45.726664
+                  ]
+            },
+            {
+                  "name": "Tenk T-55-S \"KUM 1\"",
+                  "text": "An exhibited T-55 tank serving as a military monument in Grubišno Polje.",
+                  "category": "landmark",
+                  "coords": [
+                        17.171927,
+                        45.701221
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "A religious crucifix monument in Grubišno Polje.",
+                  "category": "historical",
+                  "coords": [
+                        17.171799,
+                        45.702325
+                  ]
+            },
+            {
+                  "name": "Spomenik Grubišnopoljskim braniteljima",
+                  "text": "A monument dedicated to the defenders of Grubišno Polje.",
+                  "category": "historical",
+                  "coords": [
+                        17.173284,
+                        45.700201
+                  ]
+            },
+            {
+                  "name": "crkva svetog Velikomučenika Georgije",
+                  "text": "An Orthodox church dedicated to Saint George in Grubišno Polje.",
+                  "category": "religious",
+                  "coords": [
+                        17.176188,
+                        45.703512
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Gradina Obrova",
+                  "text": "Arheološko nalazište smješteno u Grubišnom Polju.",
+                  "category": "historical",
+                  "coords": [
+                        17.200375,
+                        45.726664
+                  ]
+            },
+            {
+                  "name": "Tenk T-55-S \"KUM 1\"",
+                  "text": "Izloženi tenk T-55 koji služi kao vojni spomenik u Grubišnom Polju.",
+                  "category": "landmark",
+                  "coords": [
+                        17.171927,
+                        45.701221
+                  ]
+            },
+            {
+                  "name": "Raspelo",
+                  "text": "Vjerski spomenik raspelo u Grubišnom Polju.",
+                  "category": "historical",
+                  "coords": [
+                        17.171799,
+                        45.702325
+                  ]
+            },
+            {
+                  "name": "Spomenik Grubišnopoljskim braniteljima",
+                  "text": "Spomenik podignut u čast grubišnopoljskim braniteljima.",
+                  "category": "historical",
+                  "coords": [
+                        17.173284,
+                        45.700201
+                  ]
+            },
+            {
+                  "name": "crkva svetog Velikomučenika Georgije",
+                  "text": "Pravoslavna crkva svetog velikomučenika Georgija u Grubišnom Polju.",
+                  "category": "religious",
+                  "coords": [
+                        17.176188,
+                        45.703512
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Grubišno Polje", hu: "Grubišno Polje", ro: "Grubišno Polje", en: "Grubišno Polje"},
@@ -3003,7 +15997,243 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-belisce-cities-v2",
+    id: "croatia-belisce-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "Ein historisches Schloss der Familie Normann-Prandau in der Region.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Ein lokales Amateurtheater in Belišće mit langer Tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bistrinačka plaža",
+                  "text": "Ein beliebter Flussstrand an der Drava in der Nähe von Belišće.",
+                  "category": "recreational",
+                  "coords": [
+                        18.413586,
+                        45.698008
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "Das Freibad in Belišće bietet Erholung und Schwimmbecken für Besucher jeden Alters.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Muzej Belišće",
+                  "text": "Das Museum in Belišće präsentiert die lokale Geschichte und das industrielle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.40862,
+                        45.68759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "A Normann-Prandau család történelmi kastélya a régióban.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Egy hosszú hagyományokkal rendelkező helyi amatőr színház Belišće városában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bistrinačka plaža",
+                  "text": "Népszerű folyóparti strand a Dráva mentén, Belišće közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.413586,
+                        45.698008
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "A belišćei strandkomplexum szabadtéri medencékkel és kikapcsolódási lehetőséggel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Muzej Belišće",
+                  "text": "A belišćei múzeum a város helytörténetét és ipari örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.40862,
+                        45.68759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "Un castel istoric al familiei Normann-Prandau din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Un teatru de amatori local din Belišće, cu o tradiție îndelungată.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bistrinačka plaža",
+                  "text": "O plajă populară la râul Drava, situată în apropiere de Belišće.",
+                  "category": "recreational",
+                  "coords": [
+                        18.413586,
+                        45.698008
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "Complexul de piscine din Belišće oferă facilități de recreere și înot în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Muzej Belišće",
+                  "text": "Muzeul din Belišće prezintă istoria locală și patrimoniul industrial al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.40862,
+                        45.68759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "A historic castle of the Normann-Prandau family located in the region.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "A local amateur theatre in Belišće with a long tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bistrinačka plaža",
+                  "text": "A popular river beach on the Drava, located near Belišće.",
+                  "category": "recreational",
+                  "coords": [
+                        18.413586,
+                        45.698008
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "The swimming pool complex in Belišće offers outdoor pools and recreation facilities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Muzej Belišće",
+                  "text": "The Belišće Museum showcases the local history and industrial heritage of the town.",
+                  "category": "museum",
+                  "coords": [
+                        18.40862,
+                        45.68759
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "Povijesni dvorac obitelji Normann-Prandau u regiji.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Lokalno amatersko kazalište u Belišću s dugom tradicijom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bistrinačka plaža",
+                  "text": "Popularna riječna plaža na Dravi smještena u blizini Belišća.",
+                  "category": "recreational",
+                  "coords": [
+                        18.413586,
+                        45.698008
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "Bazenski kompleks u Belišću nudi otvorene bazene i rekreacijske sadržaje za posjetitelje.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Muzej Belišće",
+                  "text": "Muzej Belišće prikazuje lokalnu povijest i industrijsku baštinu grada.",
+                  "category": "museum",
+                  "coords": [
+                        18.40862,
+                        45.68759
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Belišće", hu: "Belistye", ro: "Belišće", en: "Belišće"},
@@ -3097,7 +16327,333 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-vukovar-v2-cities-v2",
+    id: "croatia-vukovar-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Парк природе Тиквара",
+                  "text": "Der Naturpark Tikvara ist ein geschütztes Gebiet an einem Altarm der Donau.",
+                  "category": "natural",
+                  "coords": [
+                        19.349716,
+                        45.240823
+                  ]
+            },
+            {
+                  "name": "Stari vinski podrumi",
+                  "text": "Diese historischen Weinkeller in Ilok sind für ihre jahrhundertelange Tradition der Weinherstellung bekannt.",
+                  "category": "museum",
+                  "coords": [
+                        19.372089,
+                        45.224056
+                  ]
+            },
+            {
+                  "name": "Плажа Тиквара",
+                  "text": "Der Strand Tikvara ist ein beliebter Bade- und Erholungsort am Ufer der Donau.",
+                  "category": "recreational",
+                  "coords": [
+                        19.379418,
+                        45.234416
+                  ]
+            },
+            {
+                  "name": "Kurija Brnjaković",
+                  "text": "Die Kurie Brnjaković ist ein bedeutendes historisches Gebäude aus dem 18. Jahrhundert in Ilok.",
+                  "category": "castle",
+                  "coords": [
+                        19.375724,
+                        45.224388
+                  ]
+            },
+            {
+                  "name": "Ladanjsko imanje Principovac",
+                  "text": "Das Landgut Principovac bietet Weinverkostungen, Sportanlagen und einen Panoramablick über Ilok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.359268,
+                        45.199941
+                  ]
+            },
+            {
+                  "name": "Vukovo",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Donau und die umliegenden Weinberge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.382196,
+                        45.1996
+                  ]
+            },
+            {
+                  "name": "Most Ilok — Bačka Palanka",
+                  "text": "Diese Brücke über die Donau verbindet die Stadt Ilok in Kroatien mit Bačka Palanka in Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        19.401754,
+                        45.233307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Парк природе Тиквара",
+                  "text": "A Tikvara natúrpark a Duna egyik holtága mentén fekvő védett természeti terület.",
+                  "category": "natural",
+                  "coords": [
+                        19.349716,
+                        45.240823
+                  ]
+            },
+            {
+                  "name": "Stari vinski podrumi",
+                  "text": "Az újlaki történelmi borospincék évszázados borászati hagyományairól és minőségi borairól híresek.",
+                  "category": "museum",
+                  "coords": [
+                        19.372089,
+                        45.224056
+                  ]
+            },
+            {
+                  "name": "Плажа Тиквара",
+                  "text": "A Tikvara strand népszerű fürdő- és pihenőhely a Duna partján.",
+                  "category": "recreational",
+                  "coords": [
+                        19.379418,
+                        45.234416
+                  ]
+            },
+            {
+                  "name": "Kurija Brnjaković",
+                  "text": "A Brnjaković-kúria egy jelentős 18. századi történelmi épület Újlakon.",
+                  "category": "castle",
+                  "coords": [
+                        19.375724,
+                        45.224388
+                  ]
+            },
+            {
+                  "name": "Ladanjsko imanje Principovac",
+                  "text": "A Principovac birtok borkóstolást, sportolási lehetőségeket és panorámás kilátást kínál Újlakra.",
+                  "category": "recreational",
+                  "coords": [
+                        19.359268,
+                        45.199941
+                  ]
+            },
+            {
+                  "name": "Vukovo",
+                  "text": "Kilátóhely, ahonnan panoráma nyílik a Dunára és a környező szőlőültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        19.382196,
+                        45.1996
+                  ]
+            },
+            {
+                  "name": "Most Ilok — Bačka Palanka",
+                  "text": "Ez a Dunán átívelő híd összeköti a horvátországi Újlakot a szerbiai Palánkával.",
+                  "category": "landmark",
+                  "coords": [
+                        19.401754,
+                        45.233307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Парк природе Тиквара",
+                  "text": "Parcul natural Tikvara este o zonă naturală protejată situată de-a lungul unui braț mort al Dunării.",
+                  "category": "natural",
+                  "coords": [
+                        19.349716,
+                        45.240823
+                  ]
+            },
+            {
+                  "name": "Stari vinski podrumi",
+                  "text": "Aceste crame istorice din Ilok sunt renumite pentru tradiția lor seculară în producția de vin.",
+                  "category": "museum",
+                  "coords": [
+                        19.372089,
+                        45.224056
+                  ]
+            },
+            {
+                  "name": "Плажа Тиквара",
+                  "text": "Plaja Tikvara este un loc popular pentru înot și recreere pe malul Dunării.",
+                  "category": "recreational",
+                  "coords": [
+                        19.379418,
+                        45.234416
+                  ]
+            },
+            {
+                  "name": "Kurija Brnjaković",
+                  "text": "Curia Brnjaković este o clădire istorică importantă din secolul al XVIII-lea situată în Ilok.",
+                  "category": "castle",
+                  "coords": [
+                        19.375724,
+                        45.224388
+                  ]
+            },
+            {
+                  "name": "Ladanjsko imanje Principovac",
+                  "text": "Domeniul Principovac oferă degustări de vinuri, facilități sportive și vederi panoramice asupra orașului Ilok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.359268,
+                        45.199941
+                  ]
+            },
+            {
+                  "name": "Vukovo",
+                  "text": "Un punct de belvedere care oferă vederi panoramice asupra Dunării și a podgoriilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        19.382196,
+                        45.1996
+                  ]
+            },
+            {
+                  "name": "Most Ilok — Bačka Palanka",
+                  "text": "Acest pod peste Dunăre leagă orașul Ilok din Croația de Bačka Palanka din Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        19.401754,
+                        45.233307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tikvara nature park",
+                  "text": "Tikvara Nature Park is a protected area located along an oxbow lake of the Danube.",
+                  "category": "natural",
+                  "coords": [
+                        19.349716,
+                        45.240823
+                  ]
+            },
+            {
+                  "name": "Stari vinski podrumi",
+                  "text": "These historical wine cellars in Ilok are famous for their centuries-old winemaking tradition.",
+                  "category": "museum",
+                  "coords": [
+                        19.372089,
+                        45.224056
+                  ]
+            },
+            {
+                  "name": "Beach Tikvara",
+                  "text": "Tikvara Beach is a popular swimming and recreation spot on the banks of the Danube.",
+                  "category": "recreational",
+                  "coords": [
+                        19.379418,
+                        45.234416
+                  ]
+            },
+            {
+                  "name": "Kurija Brnjaković",
+                  "text": "The Brnjaković Curia is a significant 18th-century historical building in Ilok.",
+                  "category": "castle",
+                  "coords": [
+                        19.375724,
+                        45.224388
+                  ]
+            },
+            {
+                  "name": "Ladanjsko imanje Principovac",
+                  "text": "The Principovac estate offers wine tasting, sports facilities, and panoramic views of Ilok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.359268,
+                        45.199941
+                  ]
+            },
+            {
+                  "name": "Vukovo",
+                  "text": "A viewpoint offering panoramic vistas of the Danube and the surrounding vineyards.",
+                  "category": "natural",
+                  "coords": [
+                        19.382196,
+                        45.1996
+                  ]
+            },
+            {
+                  "name": "Most Ilok — Bačka Palanka",
+                  "text": "This bridge over the Danube connects the town of Ilok in Croatia with Bačka Palanka in Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        19.401754,
+                        45.233307
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Tikvara nature park",
+                  "text": "Park prirode Tikvara zaštićeno je područje smješteno uz dunavski rukavac.",
+                  "category": "natural",
+                  "coords": [
+                        19.349716,
+                        45.240823
+                  ]
+            },
+            {
+                  "name": "Stari vinski podrumi",
+                  "text": "Ovi povijesni vinski podrumi u Iloku poznati su po svojoj stoljetnoj tradiciji vinarstva.",
+                  "category": "museum",
+                  "coords": [
+                        19.372089,
+                        45.224056
+                  ]
+            },
+            {
+                  "name": "Beach Tikvara",
+                  "text": "Plaža Tikvara popularno je kupalište i rekreacijsko mjesto na obali Dunava.",
+                  "category": "recreational",
+                  "coords": [
+                        19.379418,
+                        45.234416
+                  ]
+            },
+            {
+                  "name": "Kurija Brnjaković",
+                  "text": "Kurija Brnjaković značajna je povijesna građevina iz 18. stoljeća u Iloku.",
+                  "category": "castle",
+                  "coords": [
+                        19.375724,
+                        45.224388
+                  ]
+            },
+            {
+                  "name": "Ladanjsko imanje Principovac",
+                  "text": "Ladanjsko imanje Principovac nudi degustacije vina, sportske sadržaje i panoramski pogled na Ilok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.359268,
+                        45.199941
+                  ]
+            },
+            {
+                  "name": "Vukovo",
+                  "text": "Vidikovac koji nudi panoramski pogled na Dunav i okolne vinograde.",
+                  "category": "natural",
+                  "coords": [
+                        19.382196,
+                        45.1996
+                  ]
+            },
+            {
+                  "name": "Most Ilok — Bačka Palanka",
+                  "text": "Most preko Dunava koji povezuje Ilok u Hrvatskoj i Bačku Palanku u Srbiji.",
+                  "category": "landmark",
+                  "coords": [
+                        19.401754,
+                        45.233307
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "town",
     name: { de: "Ilok", hu: "Újlak", ro: "Ilok", en: "Ilok"},
@@ -3189,7 +16745,108 @@ imageHint: "Vinkovci central square and church",
     image: "/poi-images/croatia-novi-vinodolski-cities-v2.webp",
   },
   {
-    id: "croatia-donji-miholjac-cities-v2",
+    id: "croatia-donji-miholjac-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Prandau",
+                  "text": "Ein bedeutender Schlosskomplex in Donji Miholjac, der aus einem Barock- und einem neugotischen Gebäude besteht.",
+                  "category": "castle",
+                  "coords": [
+                        18.167209,
+                        45.762561
+                  ]
+            },
+            {
+                  "name": "Rezervat ptica \"Potpanj\"",
+                  "text": "Ein geschütztes Sumpfgebiet bei Donji Miholjac, das als wichtiger Lebensraum für verschiedene Vogelarten dient.",
+                  "category": "natural",
+                  "coords": [
+                        18.144153,
+                        45.76674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorac Prandau",
+                  "text": "Jelentős kastélyegyüttes Alsómiholjácon, amely egy barokk és egy neogótikus épületből áll.",
+                  "category": "castle",
+                  "coords": [
+                        18.167209,
+                        45.762561
+                  ]
+            },
+            {
+                  "name": "Rezervat ptica \"Potpanj\"",
+                  "text": "Donji Miholjac melletti védett mocsárvidék, amely fontos élőhelye számos madárfajnak.",
+                  "category": "natural",
+                  "coords": [
+                        18.144153,
+                        45.76674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorac Prandau",
+                  "text": "Un complex de castel semnificativ din Donji Miholjac, format dintr-o clădire barocă și una neogotică.",
+                  "category": "castle",
+                  "coords": [
+                        18.167209,
+                        45.762561
+                  ]
+            },
+            {
+                  "name": "Rezervat ptica \"Potpanj\"",
+                  "text": "O rezervație naturală mlaștină lângă Donji Miholjac, habitat important pentru numeroase specii de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        18.144153,
+                        45.76674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorac Prandau",
+                  "text": "A significant castle complex in Donji Miholjac, consisting of a Baroque and a Neo-Gothic building.",
+                  "category": "castle",
+                  "coords": [
+                        18.167209,
+                        45.762561
+                  ]
+            },
+            {
+                  "name": "Rezervat ptica \"Potpanj\"",
+                  "text": "A protected wetland reserve near Donji Miholjac, serving as an important habitat for various bird species.",
+                  "category": "natural",
+                  "coords": [
+                        18.144153,
+                        45.76674
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Dvorac Prandau",
+                  "text": "Dvorski kompleks u Donjem Miholjcu sastoji se od baroknog i neogotičkog dvorca.",
+                  "category": "castle",
+                  "coords": [
+                        18.167209,
+                        45.762561
+                  ]
+            },
+            {
+                  "name": "Rezervat ptica \"Potpanj\"",
+                  "text": "Zaštićeni močvarni rezervat kod Donjeg Miholjca, važno stanište za razne vrste ptica.",
+                  "category": "natural",
+                  "coords": [
+                        18.144153,
+                        45.76674
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HR",
     name: { de: "Donji Miholjac", hu: "Alsómihályfalva", ro: "Donji Miholjac", en: "Donji Miholjac" },
@@ -3279,7 +16936,243 @@ imageHint: "Vinkovci central square and church",
     image: "/poi-images/croatia-vis-cities-v2.webp",
   },
   {
-    id: "croatia-supetar-cities-v2",
+    id: "croatia-supetar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Vela Luka",
+                  "text": "Ein beliebter Kieselstrand in Supetar auf der Insel Brač, ideal für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538077,
+                        43.383503
+                  ]
+            },
+            {
+                  "name": "Muzej uljarstva",
+                  "text": "Ein Museum in Supetar, das der traditionellen Olivenölproduktion auf der Insel Brač gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.522385,
+                        43.384769
+                  ]
+            },
+            {
+                  "name": "Plaža Mutnik",
+                  "text": "Ein ruhigerer Kieselstrand in der Nähe von Supetar, umgeben von Pinienbäumen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.529731,
+                        43.383975
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Ein bekannter Stadtstrand in Supetar mit flachem Wasser und vielfältigen Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54704,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Acapulco",
+                  "text": "Ein moderner Kieselstrand in Supetar, der für seine lebhafte Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.556994,
+                        43.385917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Vela Luka",
+                  "text": "Népszerű kavicsos strand Supetarban, Brac szigetén, amely ideális családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538077,
+                        43.383503
+                  ]
+            },
+            {
+                  "name": "Muzej uljarstva",
+                  "text": "Supetari múzeum, amely a Brac-szigeti hagyományos olívaolaj-termelést mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.522385,
+                        43.384769
+                  ]
+            },
+            {
+                  "name": "Plaža Mutnik",
+                  "text": "Nyugodtabb kavicsos strand Supetar közelében, fenyőfákkal övezve.",
+                  "category": "recreational",
+                  "coords": [
+                        16.529731,
+                        43.383975
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Ismert városi strand Supetarban, sekély vízzel és számos szabadidős lehetőséggel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54704,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Acapulco",
+                  "text": "Modern kavicsos strand Supetarban, amely élénk hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.556994,
+                        43.385917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Vela Luka",
+                  "text": "O plajă populară cu prundiş în Supetar, pe insula Brač, ideală pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538077,
+                        43.383503
+                  ]
+            },
+            {
+                  "name": "Muzej uljarstva",
+                  "text": "Un muzeu din Supetar dedicat producției tradiționale de ulei de măsline de pe insula Brač.",
+                  "category": "museum",
+                  "coords": [
+                        16.522385,
+                        43.384769
+                  ]
+            },
+            {
+                  "name": "Plaža Mutnik",
+                  "text": "O plajă cu prundiş mai liniştită lângă Supetar, înconjurată de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        16.529731,
+                        43.383975
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "O plajă urbană cunoscută din Supetar, cu apă puțin adâncă și diverse facilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54704,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Acapulco",
+                  "text": "O plajă modernă cu prundiş în Supetar, cunoscută pentru atmosfera sa plină de viață.",
+                  "category": "recreational",
+                  "coords": [
+                        16.556994,
+                        43.385917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Vela Luka",
+                  "text": "A popular pebble beach in Supetar on Brač island, ideal for families.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538077,
+                        43.383503
+                  ]
+            },
+            {
+                  "name": "Muzej uljarstva",
+                  "text": "A museum in Supetar dedicated to the traditional olive oil production of Brač island.",
+                  "category": "museum",
+                  "coords": [
+                        16.522385,
+                        43.384769
+                  ]
+            },
+            {
+                  "name": "Plaža Mutnik",
+                  "text": "A quieter pebble beach near Supetar, surrounded by pine trees.",
+                  "category": "recreational",
+                  "coords": [
+                        16.529731,
+                        43.383975
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "A well-known town beach in Supetar with shallow water and various recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54704,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Acapulco",
+                  "text": "A modern pebble beach in Supetar known for its lively atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        16.556994,
+                        43.385917
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Plaža Vela Luka",
+                  "text": "Popularna šljunčana plaža u Supetru na otoku Braču, idealna za obitelji.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538077,
+                        43.383503
+                  ]
+            },
+            {
+                  "name": "Muzej uljarstva",
+                  "text": "Muzej u Supetru posvećen tradicijskoj proizvodnji maslinovog ulja na otoku Braču.",
+                  "category": "museum",
+                  "coords": [
+                        16.522385,
+                        43.384769
+                  ]
+            },
+            {
+                  "name": "Plaža Mutnik",
+                  "text": "Mirnija šljunčana plaža u blizini Supetra, okružena borovom šumom.",
+                  "category": "recreational",
+                  "coords": [
+                        16.529731,
+                        43.383975
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Poznata gradska plaža u Supetru s plitkim morem i raznim sadržajima za posjetitelje.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54704,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Acapulco",
+                  "text": "Moderna šljunčana plaža u Supetru poznata po svojoj živahnoj atmosferi.",
+                  "category": "recreational",
+                  "coords": [
+                        16.556994,
+                        43.385917
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HR",
     name: { de: "Supetar", hu: "Supetar", ro: "Supetar", en: "Supetar" },
@@ -3324,7 +17217,63 @@ imageHint: "Vinkovci central square and church",
     image: "/poi-images/croatia-supetar-cities-v2.webp",
   },
   {
-    id: "croatia-zlatar-cities-v2",
+    id: "croatia-zlatar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Općina Mače",
+                  "text": "Das Gemeindehaus von Mače bei Zlatar, das Zentrum der lokalen Verwaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        16.04337,
+                        46.093952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Općina Mače",
+                  "text": "Mače község székháza Zlatar közelében, a helyi közigazgatás központja.",
+                  "category": "landmark",
+                  "coords": [
+                        16.04337,
+                        46.093952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Općina Mače",
+                  "text": "Sediul primăriei din Mače, lângă Zlatar, centrul administrației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        16.04337,
+                        46.093952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Općina Mače",
+                  "text": "The municipal building of Mače near Zlatar, serving as the center of local administration.",
+                  "category": "landmark",
+                  "coords": [
+                        16.04337,
+                        46.093952
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Općina Mače",
+                  "text": "Zgrada općine u Maču kod Zlatara, središte lokalne samouprave.",
+                  "category": "landmark",
+                  "coords": [
+                        16.04337,
+                        46.093952
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HR",
     name: { de: "Zlatar", hu: "Zlatar", ro: "Zlatar", en: "Zlatar" },
@@ -3369,7 +17318,63 @@ imageHint: "Vinkovci central square and church",
     image: "/poi-images/croatia-zlatar-cities-v2.webp",
   },
   {
-    id: "croatia-vrbovsko-cities-v2",
+    id: "croatia-vrbovsko-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gong",
+                  "text": "Eine lokale Sehenswürdigkeit in Vrbovsko, die Besucher der Region anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        15.071381,
+                        45.365986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gong",
+                  "text": "Helyi látnivaló Vrbovsko városában, amely vonzza a környék látogatóit.",
+                  "category": "landmark",
+                  "coords": [
+                        15.071381,
+                        45.365986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gong",
+                  "text": "O atracție locală din Vrbovsko care atrage vizitatorii în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        15.071381,
+                        45.365986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gong",
+                  "text": "A local attraction in Vrbovsko that draws visitors to the region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.071381,
+                        45.365986
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Gong",
+                  "text": "Zanimljiva lokalna atrakcija u Vrbovskom koju vrijedi posjetiti tijekom boravka u gradu.",
+                  "category": "landmark",
+                  "coords": [
+                        15.071381,
+                        45.365986
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HR",
     name: { de: "Vrbovsko", hu: "Vrbovsko", ro: "Vrbovsko", en: "Vrbovsko" },
@@ -3414,7 +17419,108 @@ imageHint: "Vinkovci central square and church",
     image: "/poi-images/croatia-vrbovsko-cities-v2.webp",
   },
   {
-    id: "croatia-delnice-cities-v2",
+    id: "croatia-delnice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deer's Zoo",
+                  "text": "Ein kleiner Tierpark in Delnice, in dem Besucher Hirsche in einer natürlichen Umgebung beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        14.795513,
+                        45.39442
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Ein Aussichtspunkt bei Delnice, der einen Panoramablick auf die bewaldete Berglandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.819607,
+                        45.38091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deer's Zoo",
+                  "text": "Kis állatpark Delnicében, ahol a látogatók természetes környezetben láthatnak szarvasokat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.795513,
+                        45.39442
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Kilátópont Delnice közelében, ahonnan panorámás kilátás nyílik az erdős hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        14.819607,
+                        45.38091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deer's Zoo",
+                  "text": "O mică grădină zoologică în Delnice, unde vizitatorii pot observa cerbi într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        14.795513,
+                        45.39442
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Un punct de belvedere lângă Delnice, care oferă o vedere panoramică asupra peisajului montan împădurit.",
+                  "category": "natural",
+                  "coords": [
+                        14.819607,
+                        45.38091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deer's Zoo",
+                  "text": "A small animal park in Delnice where visitors can observe deer in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        14.795513,
+                        45.39442
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "A viewpoint near Delnice offering a panoramic view of the forested mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.819607,
+                        45.38091
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Deer's Zoo",
+                  "text": "Mali zoološki vrt u Delnicama gdje se mogu vidjeti jeleni i košute u prirodnom ambijentu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.795513,
+                        45.39442
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Vidikovac u blizini Delnica koji pruža panoramski pogled na planinski krajolik Gorskog kotara.",
+                  "category": "natural",
+                  "coords": [
+                        14.819607,
+                        45.38091
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HR",
     name: { de: "Delnice", hu: "Delnice", ro: "Delnice", en: "Delnice" },
@@ -3459,7 +17565,378 @@ imageHint: "Vinkovci central square and church",
     image: "/poi-images/croatia-delnice-cities-v2.webp",
   },
   {
-    id: "croatia-pag-cities-v2",
+    id: "croatia-pag-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salz - Ausstellung",
+                  "text": "Ein interessantes Museum in Pag, das die Geschichte der traditionellen Salzgewinnung der Insel dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.052267,
+                        44.442709
+                  ]
+            },
+            {
+                  "name": "Tri glave",
+                  "text": "Ein Strandabschnitt namens Tri glave an der Küste von Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.038965,
+                        44.447354
+                  ]
+            },
+            {
+                  "name": "Janjeće vode",
+                  "text": "Der Strand Janjeće vode befindet sich in der Nähe von Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.029046,
+                        44.457999
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Die Gradska plaža ist der Hauptstrand von Pag, auch Prosika genannt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.048116,
+                        44.441758
+                  ]
+            },
+            {
+                  "name": "Mađarica",
+                  "text": "Ein kleiner Strandabschnitt namens Mađarica auf der Insel Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.043852,
+                        44.442213
+                  ]
+            },
+            {
+                  "name": "Izložba paške čipke",
+                  "text": "Die Ausstellung zeigt die berühmte Pager Spitze, ein UNESCO-Weltkulturerbe.",
+                  "category": "museum",
+                  "coords": [
+                        15.054551,
+                        44.443583
+                  ]
+            },
+            {
+                  "name": "Sveti Jure",
+                  "text": "Das Gebäude Sveti Jure befindet sich im historischen Zentrum von Pag.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06162,
+                        44.456273
+                  ]
+            },
+            {
+                  "name": "Osmatračnica",
+                  "text": "Ein Aussichtspunkt in Pag, der früher als Osmatračnica diente.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063215,
+                        44.463768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Permanent exhibition of Salt",
+                  "text": "Érdekes múzeum Pag városában, amely a sziget hagyományos sólepárlásának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.052267,
+                        44.442709
+                  ]
+            },
+            {
+                  "name": "Tri glave",
+                  "text": "A Tri glave egy tengerparti szakasz Pag szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.038965,
+                        44.447354
+                  ]
+            },
+            {
+                  "name": "Janjeće vode",
+                  "text": "A Janjeće vode egy kavicsos strand Pag városának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.029046,
+                        44.457999
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "A Gradska plaža Pag fő strandja, amelyet Prosika néven is ismernek.",
+                  "category": "recreational",
+                  "coords": [
+                        15.048116,
+                        44.441758
+                  ]
+            },
+            {
+                  "name": "Mađarica",
+                  "text": "A Mađarica egy kisebb tengerparti szakasz Pag szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.043852,
+                        44.442213
+                  ]
+            },
+            {
+                  "name": "Izložba paške čipke",
+                  "text": "A kiállítás a híres paški csipkét mutatja be, amely az UNESCO szellemi örökség része.",
+                  "category": "museum",
+                  "coords": [
+                        15.054551,
+                        44.443583
+                  ]
+            },
+            {
+                  "name": "Sveti Jure",
+                  "text": "A Sveti Jure egy épület Pag történelmi központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06162,
+                        44.456273
+                  ]
+            },
+            {
+                  "name": "Osmatračnica",
+                  "text": "Egy kilátópont Pag városában, amely korábban őrtoronyként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063215,
+                        44.463768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Permanent exhibition of Salt",
+                  "text": "Un muzeu interesant în Pag care documentează istoria producției tradiționale de sare de pe insulă.",
+                  "category": "museum",
+                  "coords": [
+                        15.052267,
+                        44.442709
+                  ]
+            },
+            {
+                  "name": "Tri glave",
+                  "text": "Plaja Tri glave este o zonă de coastă situată în orașul Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.038965,
+                        44.447354
+                  ]
+            },
+            {
+                  "name": "Janjeće vode",
+                  "text": "Plaja Janjeće vode este situată pe malul mării în Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.029046,
+                        44.457999
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Gradska plaža este plaja principală din Pag, cunoscută și sub numele de Prosika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.048116,
+                        44.441758
+                  ]
+            },
+            {
+                  "name": "Mađarica",
+                  "text": "Mađarica este o mică porțiune de plajă pe insula Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.043852,
+                        44.442213
+                  ]
+            },
+            {
+                  "name": "Izložba paške čipke",
+                  "text": "Expoziția prezintă faimoasa dantelă de Pag, inclusă în patrimoniul UNESCO.",
+                  "category": "museum",
+                  "coords": [
+                        15.054551,
+                        44.443583
+                  ]
+            },
+            {
+                  "name": "Sveti Jure",
+                  "text": "Clădirea Sveti Jure este situată în centrul istoric al orașului Pag.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06162,
+                        44.456273
+                  ]
+            },
+            {
+                  "name": "Osmatračnica",
+                  "text": "Un punct de observație în Pag, care a servit anterior ca turn de veghe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063215,
+                        44.463768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Permanent exhibition of Salt",
+                  "text": "An interesting museum in Pag documenting the history of the island's traditional salt production.",
+                  "category": "museum",
+                  "coords": [
+                        15.052267,
+                        44.442709
+                  ]
+            },
+            {
+                  "name": "Tri glave",
+                  "text": "Tri glave is a beach section located on the coast of Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.038965,
+                        44.447354
+                  ]
+            },
+            {
+                  "name": "Janjeće vode",
+                  "text": "Janjeće vode is a beach area situated near the town of Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.029046,
+                        44.457999
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Gradska plaža is the main city beach in Pag, also known as Prosika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.048116,
+                        44.441758
+                  ]
+            },
+            {
+                  "name": "Mađarica",
+                  "text": "Mađarica is a small beach section located on the island of Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.043852,
+                        44.442213
+                  ]
+            },
+            {
+                  "name": "Izložba paške čipke",
+                  "text": "The exhibition showcases the famous Pag lace, which is part of UNESCO intangible heritage.",
+                  "category": "museum",
+                  "coords": [
+                        15.054551,
+                        44.443583
+                  ]
+            },
+            {
+                  "name": "Sveti Jure",
+                  "text": "The Sveti Jure building is located in the historical center of Pag.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06162,
+                        44.456273
+                  ]
+            },
+            {
+                  "name": "Osmatračnica",
+                  "text": "A viewpoint in Pag that formerly served as a watchtower.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063215,
+                        44.463768
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Permanent exhibition of Salt",
+                  "text": "Stalni postav izložbe soli u Pagu koji prikazuje dugu tradiciju proizvodnje soli na otoku.",
+                  "category": "museum",
+                  "coords": [
+                        15.052267,
+                        44.442709
+                  ]
+            },
+            {
+                  "name": "Tri glave",
+                  "text": "Tri glave je dio plaže smješten na obali Paga.",
+                  "category": "recreational",
+                  "coords": [
+                        15.038965,
+                        44.447354
+                  ]
+            },
+            {
+                  "name": "Janjeće vode",
+                  "text": "Janjeće vode je plaža smještena u blizini grada Paga.",
+                  "category": "recreational",
+                  "coords": [
+                        15.029046,
+                        44.457999
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Gradska plaža je glavna gradska plaža u Pagu, poznata i kao Prosika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.048116,
+                        44.441758
+                  ]
+            },
+            {
+                  "name": "Mađarica",
+                  "text": "Mađarica je manji dio plaže smješten na otoku Pagu.",
+                  "category": "recreational",
+                  "coords": [
+                        15.043852,
+                        44.442213
+                  ]
+            },
+            {
+                  "name": "Izložba paške čipke",
+                  "text": "Izložba prikazuje slavnu pašku čipku koja je dio UNESCO-ve nematerijalne baštine.",
+                  "category": "museum",
+                  "coords": [
+                        15.054551,
+                        44.443583
+                  ]
+            },
+            {
+                  "name": "Sveti Jure",
+                  "text": "Građevina Sveti Jure nalazi se u povijesnoj jezgri grada Paga.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06162,
+                        44.456273
+                  ]
+            },
+            {
+                  "name": "Osmatračnica",
+                  "text": "Vidikovac u Pagu koji je ranije služio kao osmatračnica.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063215,
+                        44.463768
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HR",
     name: { de: "Pag", hu: "Pag", ro: "Pag", en: "Pag" },

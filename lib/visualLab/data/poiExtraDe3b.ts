@@ -62,7 +62,11 @@ export const poiExtraDe3b: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJiZ1pGKl2CEcRfINYB3ds38g",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        14.369063,
+                        51.742137
+                  ]
             },
             {
                   "name": "Staatstheater Cottbus",
@@ -75,7 +79,11 @@ export const poiExtraDe3b: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJccqGimN0CEcRkQAAXzIAY4E",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        14.3256,
+                        51.7572
+                  ]
             },
             {
                   "name": "Spremberger Turm",
@@ -88,7 +96,11 @@ export const poiExtraDe3b: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJ9QW2Aml0CEcRU_6ZmnO08yA",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        14.3334,
+                        51.7577
+                  ]
             },
             {
                   "name": "Altmarkt",
@@ -101,7 +113,11 @@ export const poiExtraDe3b: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJoVeULWh0CEcRX49tj3fgk8Y",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        14.3346,
+                        51.7607
+                  ]
             },
             {
                   "name": "Tierpark Cottbus",
@@ -114,7 +130,11 @@ export const poiExtraDe3b: POI[] = [
                         "source": "https://www.google.com/maps/place/?q=place_id:ChIJRXFQvQh0CEcRMsFhWgdI58Q",
                         "license": "Google Places API",
                         "platform": "google-places"
-                  }
+                  },
+                  "coords": [
+                        14.3531,
+                        51.7444
+                  ]
             }
       ],
       "hu": [
@@ -122,31 +142,51 @@ export const poiExtraDe3b: POI[] = [
                   "name": "Branitz-kastély",
                   "text": "Pückler herceg pompás kastélya egy egyedülálló, világörökségre jelölt tájképi parkban fekszik.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.369063,
+                        51.742137
+                  ]
             },
             {
                   "name": "Cottbusi Állami Színház",
                   "text": "A szecessziós épület Európa egyik legszebb színházának számít, operát és drámát is kínál.",
                   "category": "theater",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3256,
+                        51.7572
+                  ]
             },
             {
                   "name": "Sprembergi torony",
                   "text": "A jellegzetes őrtorony kilátóteraszáról pazar kilátás nyílik Cottbus egész belvárosára.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3334,
+                        51.7577
+                  ]
             },
             {
                   "name": "Régi piac",
                   "text": "Történelmi tér barokk polgárházakkal, hangulatos kávézókkal és a cottbusi postakocsis szobrával.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3346,
+                        51.7607
+                  ]
             },
             {
                   "name": "Cottbusi állatkert",
                   "text": "Brandenburg legnagyobb állatkertje több mint 1200 állatnak ad otthont egy tágas parkban.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3531,
+                        51.7444
+                  ]
             }
       ],
       "ro": [
@@ -154,31 +194,51 @@ export const poiExtraDe3b: POI[] = [
                   "name": "Castelul Branitz",
                   "text": "Castelul magnific al prințului Pückler este situat într-un parc peisagistic unic.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.369063,
+                        51.742137
+                  ]
             },
             {
                   "name": "Teatrul de Stat Cottbus",
                   "text": "Clădirea Art Nouveau este considerată una dintre cele mai frumoase săli de teatru din Europa.",
                   "category": "theater",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3256,
+                        51.7572
+                  ]
             },
             {
                   "name": "Turnul Spremberg",
                   "text": "Turnul de apărare oferă o platformă de observație cu vedere panoramică asupra centrului orașului.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3334,
+                        51.7577
+                  ]
             },
             {
                   "name": "Piața Veche",
                   "text": "O piață istorică cu case baroce, cafenele primitoare și statuia poștașului din Cottbus.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3346,
+                        51.7607
+                  ]
             },
             {
                   "name": "Grădina Zoologică Cottbus",
                   "text": "Cea mai mare grădină zoologică din Brandenburg găzduiește peste 1200 de animale într-un parc vast.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3531,
+                        51.7444
+                  ]
             }
       ],
       "en": [
@@ -186,42 +246,101 @@ export const poiExtraDe3b: POI[] = [
                   "name": "Branitz Castle",
                   "text": "The magnificent castle of Prince Pückler is set within a unique and historic landscape park.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.369063,
+                        51.742137
+                  ]
             },
             {
                   "name": "State Theatre Cottbus",
                   "text": "This Art Nouveau building is considered one of Europe's most beautiful theatre houses.",
                   "category": "theater",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3256,
+                        51.7572
+                  ]
             },
             {
                   "name": "Spremberg Tower",
                   "text": "The striking defense tower offers a viewing platform with vistas over the city center.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3334,
+                        51.7577
+                  ]
             },
             {
                   "name": "Old Market",
                   "text": "A historic square featuring Baroque townhouses, cozy cafes, and the Cottbus postillion statue.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3346,
+                        51.7607
+                  ]
             },
             {
                   "name": "Cottbus Zoo",
                   "text": "The largest zoo in Brandenburg houses over 1200 animals in a spacious park environment.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3531,
+                        51.7444
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Branitz Şatosu",
+                  "text": "Prens Pückler'in görkemli şatosu, benzersiz bir peyzaj parkının içine yerleşmiştir.",
+                  "category": "castle",
+                  "coords": [
+                        14.369063,
+                        51.742137
+                  ]
+            },
+            {
+                  "name": "Cottbus Devlet Tiyatrosu",
+                  "text": "Art Nouveau tarzındaki bina, Avrupa'nın en güzel tiyatro yapılarından biri olarak kabul edilir.",
+                  "category": "theater",
+                  "coords": [
+                        14.3256,
+                        51.7572
+                  ]
+            },
+            {
+                  "name": "Spremberg Kulesi",
+                  "text": "Belirgin savunma kulesi, tüm Cottbus şehir merkezi manzarasına sahip bir seyir platformu sunar.",
+                  "category": "tower",
+                  "coords": [
+                        14.3334,
+                        51.7577
+                  ]
+            },
+            {
+                  "name": "Eski Meydan",
+                  "text": "Barok evleri, samimi kafeleri ve Cottbus posta arabacısı heykeliyle tarihi bir meydan.",
+                  "category": "town hall",
+                  "coords": [
+                        14.3346,
+                        51.7607
+                  ]
+            },
+            {
+                  "name": "Cottbus Hayvanat Bahçesi",
+                  "text": "Brandenburg'un en büyük hayvanat bahçesi, geniş bir park alanında 1200'den fazla hayvana ev sahipliği yapar.",
+                  "category": "park",
+                  "coords": [
+                        14.3531,
+                        51.7444
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Branitz Şatosu", "text": "Prens Pückler'in görkemli şatosu, benzersiz bir peyzaj parkının içine yerleşmiştir.", "category": "castle" },
-        { "name": "Cottbus Devlet Tiyatrosu", "text": "Art Nouveau tarzındaki bina, Avrupa'nın en güzel tiyatro yapılarından biri olarak kabul edilir.", "category": "theater" },
-        { "name": "Spremberg Kulesi", "text": "Belirgin savunma kulesi, tüm Cottbus şehir merkezi manzarasına sahip bir seyir platformu sunar.", "category": "tower" },
-        { "name": "Eski Meydan", "text": "Barok evleri, samimi kafeleri ve Cottbus posta arabacısı heykeliyle tarihi bir meydan.", "category": "town hall" },
-        { "name": "Cottbus Hayvanat Bahçesi", "text": "Brandenburg'un en büyük hayvanat bahçesi, geniş bir park alanında 1200'den fazla hayvana ev sahipliği yapar.", "category": "park" }
-      ]
-    }
+}
   },
   {
     id: "river-spree-bb-extra",
@@ -824,141 +943,211 @@ export const poiExtraDe3b: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "St. Marienkirche",
-                  "text": "Die größte Hallenkirche der norddeutschen Backsteingotik beeindruckt mit ihren drei wertvollen Chorfenstern.",
-                  "category": "church",
-                  "confidence": "high"
-            },
-            {
                   "name": "Rathaus",
                   "text": "Das gotische Backstein-Rathaus am Marktplatz zählt zu den bedeutendsten und größten historischen Profanbauten.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.554006,
+                        52.344303
+                  ]
             },
             {
                   "name": "Kleist-Museum",
                   "text": "Das Museum im ehemaligen Garnisonschulhaus widmet sich dem Leben und Werk des in der Stadt geborenen Dichters.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.55727,
+                        52.34349
+                  ]
             },
             {
                   "name": "Oderbrücke",
                   "text": "Diese wichtige Grenzbrücke verbindet Frankfurt direkt mit der polnischen Nachbarstadt Słubice über den Fluss.",
                   "category": "bridge",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.5783,
+                        52.3156
+                  ]
             },
             {
                   "name": "Lennépark",
                   "text": "Eine der ältesten Bürgerparkanlagen Deutschlands, gestaltet nach Plänen des berühmten Landschaftsarchitekten Lenné.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.54935,
+                        52.34459
+                  ]
             }
       ],
       "hu": [
             {
-                  "name": "Szent Mária-templom",
-                  "text": "Az északnémet tégla-gótika legnagyobb csarnoktemploma, amely különleges középkori üvegablakairól híres.",
-                  "category": "church",
-                  "confidence": "high"
-            },
-            {
                   "name": "Városháza",
                   "text": "A 14. századi gótikus téglaépület a város egyik legfontosabb történelmi és közigazgatási jelképe.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.554006,
+                        52.344303
+                  ]
             },
             {
                   "name": "Kleist-Múzeum",
                   "text": "A város híres szülöttének, Heinrich von Kleist írónak életét és munkásságát bemutató irodalmi múzeum.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.55727,
+                        52.34349
+                  ]
             },
             {
                   "name": "Odera-híd",
                   "text": "Az Odera folyón átívelő határhíd, amely összeköti a várost a lengyel Słubicével, az európai egység jelképe.",
                   "category": "bridge",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.5783,
+                        52.3156
+                  ]
             },
             {
                   "name": "Lennépark",
                   "text": "Németország egyik legrégebbi polgári parkja, amelyet a híres tájépítész, Peter Joseph Lenné tervezett.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.54935,
+                        52.34459
+                  ]
             }
       ],
       "ro": [
             {
-                  "name": "Biserica Sfânta Maria",
-                  "text": "Cea mai mare biserică de tip hală în stil gotic de cărămidă din nordul Germaniei, faimoasă pentru vitraliile sale.",
-                  "category": "church",
-                  "confidence": "high"
-            },
-            {
                   "name": "Primăria",
                   "text": "O clădire gotică impresionantă din cărămidă din secolul al XIV-lea, situată în piața centrală a orașului.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.554006,
+                        52.344303
+                  ]
             },
             {
                   "name": "Muzeul Kleist",
                   "text": "Muzeul este dedicat vieții și operei scriitorului Heinrich von Kleist, care s-a născut în acest oraș.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.55727,
+                        52.34349
+                  ]
             },
             {
                   "name": "Podul peste Oder",
                   "text": "Un punct de trecere strategic care leagă Germania de orașul polonez Słubice peste fluviul Oder.",
                   "category": "bridge",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.5783,
+                        52.3156
+                  ]
             },
             {
                   "name": "Parcul Lenné",
                   "text": "Unul dintre cele mai vechi parcuri orășenești din Germania, creat de celebrul arhitect peisagist Peter Joseph Lenné.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.54935,
+                        52.34459
+                  ]
             }
       ],
       "en": [
             {
-                  "name": "St. Mary's Church",
-                  "text": "The largest hall church of North German Brick Gothic, home to stunning and rare medieval stained glass windows.",
-                  "category": "church",
-                  "confidence": "high"
-            },
-            {
                   "name": "Town Hall",
                   "text": "A magnificent 14th-century brick Gothic building featuring a unique landmark gable on its historic facade.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.554006,
+                        52.344303
+                  ]
             },
             {
                   "name": "Kleist Museum",
                   "text": "Located in a former garrison school, it preserves the heritage of the famous dramatist Heinrich von Kleist.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.55727,
+                        52.34349
+                  ]
             },
             {
                   "name": "Oder Bridge",
                   "text": "Connecting Frankfurt with the Polish city of Słubice, this bridge serves as a symbol of European integration.",
                   "category": "bridge",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.5783,
+                        52.3156
+                  ]
             },
             {
                   "name": "Lenné Park",
                   "text": "A historic green oasis in the city center, designed by the royal Prussian landscape architect Peter Joseph Lenné.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.54935,
+                        52.34459
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Belediye Binası",
+                  "text": "Pazar meydanındaki Gotik tuğla bina, en önemli ve en büyük tarihi sivil yapılardan biridir.",
+                  "category": "town hall",
+                  "coords": [
+                        14.554006,
+                        52.344303
+                  ]
+            },
+            {
+                  "name": "Kleist Müzesi",
+                  "text": "Eski garnizon okulu binasındaki müze, bu şehirde doğan şair Heinrich von Kleist'ın hayatına adanmıştır.",
+                  "category": "museum",
+                  "coords": [
+                        14.55727,
+                        52.34349
+                  ]
+            },
+            {
+                  "name": "Oder Köprüsü",
+                  "text": "Bu önemli sınır köprüsü, Frankfurt'u nehir üzerinden doğrudan Polonya'nın komşu şehri Słubice'ye bağlar.",
+                  "category": "bridge",
+                  "coords": [
+                        14.5783,
+                        52.3156
+                  ]
+            },
+            {
+                  "name": "Lennépark",
+                  "text": "Ünlü peyzaj mimarı Lenné'nin planlarına göre tasarlanan, Almanya'nın en eski halk parklarından biri.",
+                  "category": "park",
+                  "coords": [
+                        14.54935,
+                        52.34459
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "St. Marien Kilisesi", "text": "Kuzey Almanya Tuğla Gotik mimarisinin en büyük salon kilisesi, üç değerli koro penceresiyle etkileyicidir.", "category": "church" },
-        { "name": "Belediye Binası", "text": "Pazar meydanındaki Gotik tuğla bina, en önemli ve en büyük tarihi sivil yapılardan biridir.", "category": "town hall" },
-        { "name": "Kleist Müzesi", "text": "Eski garnizon okulu binasındaki müze, bu şehirde doğan şair Heinrich von Kleist'ın hayatına adanmıştır.", "category": "museum" },
-        { "name": "Oder Köprüsü", "text": "Bu önemli sınır köprüsü, Frankfurt'u nehir üzerinden doğrudan Polonya'nın komşu şehri Słubice'ye bağlar.", "category": "bridge" },
-        { "name": "Lennépark", "text": "Ünlü peyzaj mimarı Lenné'nin planlarına göre tasarlanan, Almanya'nın en eski halk parklarından biri.", "category": "park" }
-      ]
-    }
+}
   },
 
   // ── DE-ST Sachsen-Anhalt (15) ────────────────────────────────────────────────
@@ -1014,31 +1203,41 @@ export const poiExtraDe3b: POI[] = [
                   "name": "Bauhausgebäude",
                   "text": "Die von Walter Gropius entworfene Architekturikone ist das Herzstück der klassischen Moderne und Weltkulturerbe.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.2267,
+                        51.8392
+                  ]
             },
             {
                   "name": "Meisterhäuser",
                   "text": "In diesen markanten Villen lebten und arbeiteten die berühmten Lehrer des Bauhauses wie Kandinsky und Klee.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.22153,
+                        51.84336
+                  ]
             },
             {
                   "name": "Schloss Georgium",
                   "text": "Inmitten eines englischen Landschaftsgartens beherbergt dieses Schloss heute die Anhaltische Gemäldegalerie.",
                   "category": "castle",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Wörlitzer Park",
-                  "text": "Teil des Dessau-Wörlitzer Gartenreichs, besticht dieser Park durch harmonische Architektur und weite Seenlandschaften.",
-                  "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.2308,
+                        51.8444
+                  ]
             },
             {
                   "name": "Kornhaus",
                   "text": "Ein historisches Restaurantgebäude direkt an der Elbe, erbaut im funktionalen Stil des Bauhauses durch Carl Fieger.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.217273,
+                        51.855787
+                  ]
             }
       ],
       "hu": [
@@ -1046,31 +1245,41 @@ export const poiExtraDe3b: POI[] = [
                   "name": "Bauhaus-épület",
                   "text": "A Walter Gropius által tervezett modern építészeti ikon az UNESCO Világörökség része és a dizájn központja.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.2267,
+                        51.8392
+                  ]
             },
             {
                   "name": "Mesterházak",
                   "text": "Karakteres villák, amelyekben a Bauhaus neves tanárai, mint például Kandinszkij és Klee éltek és alkottak.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.22153,
+                        51.84336
+                  ]
             },
             {
                   "name": "Schloss Georgium",
                   "text": "Egy gyönyörű angolpark közepén álló kastély, amely ma az Anhalti Képtárnak ad otthont Dessau városában.",
                   "category": "castle",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Wörlitzi park",
-                  "text": "A Dessau-Wörlitzi kertbirodalom legszebb része, lenyűgöző tájképi kerttel, tavakkal és klasszicista épületekkel.",
-                  "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.2308,
+                        51.8444
+                  ]
             },
             {
                   "name": "Kornhaus",
                   "text": "Az Elba partján álló emblematikus Bauhaus-stílusú étterem, amely Carl Fieger építész tervei alapján készült.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.217273,
+                        51.855787
+                  ]
             }
       ],
       "ro": [
@@ -1078,31 +1287,41 @@ export const poiExtraDe3b: POI[] = [
                   "name": "Clădirea Bauhaus",
                   "text": "O icoană a arhitecturii moderne proiectată de Walter Gropius, inclusă în Patrimoniul Mondial UNESCO.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.2267,
+                        51.8392
+                  ]
             },
             {
                   "name": "Casele Maeștrilor",
                   "text": "Casele-atelier unde au locuit și lucrat artiști celebri ai mișcării Bauhaus, precum Kandinsky și Klee.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.22153,
+                        51.84336
+                  ]
             },
             {
                   "name": "Castelul Georgium",
                   "text": "Situat într-o grădină englezească, castelul găzduiește Galeria de Artă Anhalt cu o colecție valoroasă.",
                   "category": "castle",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Parcul Wörlitz",
-                  "text": "Parte a Regatului Grădinilor Dessau-Wörlitz, acest parc oferă peisaje pitorești și arhitectură clasicistă.",
-                  "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.2308,
+                        51.8444
+                  ]
             },
             {
                   "name": "Kornhaus",
                   "text": "Un restaurant istoric pe malul Elbei, construit în stil funcționalist Bauhaus de către arhitectul Carl Fieger.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.217273,
+                        51.855787
+                  ]
             }
       ],
       "en": [
@@ -1110,42 +1329,82 @@ export const poiExtraDe3b: POI[] = [
                   "name": "Bauhaus Building",
                   "text": "Designed by Walter Gropius, this architectural masterpiece remains the global symbol of modern design and functionalism.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.2267,
+                        51.8392
+                  ]
             },
             {
                   "name": "Masters' Houses",
                   "text": "A group of landmark villas built for Bauhaus faculty, including famous residents like Kandinsky and Paul Klee.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.22153,
+                        51.84336
+                  ]
             },
             {
                   "name": "Georgium Palace",
                   "text": "A neoclassical palace set within an English landscape garden, housing the Anhalt Gallery of Fine Arts.",
                   "category": "castle",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Wörlitz Park",
-                  "text": "A centerpiece of the UNESCO Garden Kingdom, famous for its harmonious landscapes, canals, and classicist buildings.",
-                  "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.2308,
+                        51.8444
+                  ]
             },
             {
                   "name": "Kornhaus",
                   "text": "A historic restaurant on the banks of the Elbe river, showcasing iconic Bauhaus architecture and river views.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.217273,
+                        51.855787
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Bauhaus Binası",
+                  "text": "Walter Gropius tarafından tasarlanan bu mimari ikon, klasik modernizmin kalbi ve Dünya Mirası'dır.",
+                  "category": "museum",
+                  "coords": [
+                        12.2267,
+                        51.8392
+                  ]
+            },
+            {
+                  "name": "Usta Evleri",
+                  "text": "Kandinsky ve Klee gibi Bauhaus'un ünlü öğretmenleri bu belirgin villalarda yaşamış ve çalışmışlardır.",
+                  "category": "historical",
+                  "coords": [
+                        12.22153,
+                        51.84336
+                  ]
+            },
+            {
+                  "name": "Georgium Şatosu",
+                  "text": "İngiliz peyzaj bahçesinin ortasındaki bu şato, günümüzde Anhalt Resim Galerisi'ne ev sahipliği yapmaktadır.",
+                  "category": "castle",
+                  "coords": [
+                        12.2308,
+                        51.8444
+                  ]
+            },
+            {
+                  "name": "Kornhaus",
+                  "text": "Elbe nehri kıyısında, Carl Fieger tarafından işlevsel Bauhaus tarzında inşa edilmiş tarihi bir restoran binası.",
+                  "category": "historical",
+                  "coords": [
+                        12.217273,
+                        51.855787
+                  ]
             }
       ]
-,
-      "tr": [
-        { "name": "Bauhaus Binası", "text": "Walter Gropius tarafından tasarlanan bu mimari ikon, klasik modernizmin kalbi ve Dünya Mirası'dır.", "category": "museum" },
-        { "name": "Usta Evleri", "text": "Kandinsky ve Klee gibi Bauhaus'un ünlü öğretmenleri bu belirgin villalarda yaşamış ve çalışmışlardır.", "category": "historical" },
-        { "name": "Georgium Şatosu", "text": "İngiliz peyzaj bahçesinin ortasındaki bu şato, günümüzde Anhalt Resim Galerisi'ne ev sahipliği yapmaktadır.", "category": "castle" },
-        { "name": "Wörlitz Parkı", "text": "Dessau-Wörlitz Bahçe Krallığı'nın bir parçası olan park, uyumlu mimarisi ve geniş göl manzaralarıyla büyüler.", "category": "park" },
-        { "name": "Kornhaus", "text": "Elbe nehri kıyısında, Carl Fieger tarafından işlevsel Bauhaus tarzında inşa edilmiş tarihi bir restoran binası.", "category": "historical" }
-      ]
-    }
+}
   },
   {
     id: "river-elbe-st-extra",

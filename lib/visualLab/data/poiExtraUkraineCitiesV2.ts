@@ -54,55 +54,91 @@ imageHint: "Aerial view of Kyiv city center and Dnieper river",
                   "name": "Kiewer Höhlenkloster",
                   "text": "Ein 1051 gegründetes orthodoxes Klosterensemble, berühmt für sein verzweigtes System unterirdischer Gänge und Katakomben.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.562222,
+                        50.432222
+                  ]
             },
             {
                   "name": "Sophienkathedrale",
                   "text": "Diese UNESCO-Weltkulturerbestätte aus dem 11. Jahrhundert beeindruckt mit originalen byzantinischen Mosaiken und Fresken der Kiewer Rus.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.514444,
+                        50.452778
+                  ]
             },
             {
                   "name": "Majdan Nesaleschnosti",
                   "text": "Der zentrale Platz Kiews und Schauplatz bedeutender historischer Ereignisse sowie politischer Kundgebungen der jüngeren Geschichte.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.523889,
+                        50.45025
+                  ]
             },
             {
                   "name": "St. Michaelskloster",
                   "text": "Ein im 12. Jahrhundert erbautes und in den 1990er Jahren rekonstruiertes Kloster, bekannt für seine hellblauen Wände und Goldkuppeln.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.522778,
+                        50.455556
+                  ]
             },
             {
                   "name": "Andreassteig",
                   "text": "Eine steile, historische Straße, die die Oberstadt mit dem Viertel Podil verbindet und für ihre Kunstgalerien und Kunsthandwerkermärkte bekannt ist.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.515139,
+                        50.459861
+                  ]
             },
             {
                   "name": "Mutter-Heimat-Statue",
                   "text": "Eine 62 Meter hohe Titanschulptur einer Frau mit Schwert und Schild, die Teil des nationalen Museums der Geschichte der Ukraine ist.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.563111,
+                        50.4265
+                  ]
             },
             {
                   "name": "Goldenes Tor",
                   "text": "Eine Rekonstruktion des Haupttores der Stadtbefestigung aus dem 11. Jahrhundert, das heute ein kleines historisches Museum beherbergt.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.513056,
+                        50.448333
+                  ]
             },
             {
                   "name": "Marienpalast",
                   "text": "Ein barockes Palais aus dem 18. Jahrhundert, entworfen von Bartolomeo Rastrelli, das heute als offizielle Residenz des Präsidenten dient.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.5375,
+                        50.448333
+                  ]
             },
             {
                   "name": "Nationaloper der Ukraine",
                   "text": "Ein prachtvolles Neorenaissance-Gebäude von 1901, das für seine exzellente Akustik und seine reiche Innenausstattung weltberühmt ist.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.512409,
+                        50.446726
+                  ]
             }
       ],
       "hu": [
@@ -110,55 +146,91 @@ imageHint: "Aerial view of Kyiv city center and Dnieper river",
                   "name": "Kijevi barlangkolostor",
                   "text": "1051-ben alapított ortodox kolostoregyüttes, amely kiterjedt földalatti barlangrendszeréről és szentéletű barátok katakombáiról híres.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.562222,
+                        50.432222
+                  ]
             },
             {
                   "name": "Szent Szófia-székesegyház",
                   "text": "11. századi világörökségi helyszín, amely eredeti bizánci mozaikjairól és a Kijevi Rusz korából származó freskóiról ismert világszerte.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.514444,
+                        50.452778
+                  ]
             },
             {
                   "name": "Függetlenség tere",
                   "text": "Kijev központi tere, a Maidan, amely számos sorsfordító történelmi esemény és politikai megmozdulás legfőbb színhelye Ukrajnában.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.523889,
+                        50.45025
+                  ]
             },
             {
                   "name": "Szent Mihály-székesegyház",
                   "text": "A 12. századi, az 1990-es években újjáépített kolostor világoskék falairól és ragyogó aranyozott kupoláiról ismerhető fel messziről.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.522778,
+                        50.455556
+                  ]
             },
             {
                   "name": "András-lejtő",
                   "text": "Meredek, patinás utca a felsőváros és a Podil negyed között, ahol művészeti galériák, kézműves műhelyek és szuvenírárusok sorakoznak.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.515139,
+                        50.459861
+                  ]
             },
             {
                   "name": "Anyácska-szobor",
                   "text": "Lenyűgöző, 62 méter magas titánszobor, amely kardot és pajzsot tartó nőalakot formáz a II. világháborús emlékműegyüttes területén.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.563111,
+                        50.4265
+                  ]
             },
             {
                   "name": "Aranykapu",
                   "text": "A város 11. századi védművének főkapuja, amelynek korhű rekonstrukciója ma érdekes hadtörténeti kiállításnak ad otthont a központban.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.513056,
+                        50.448333
+                  ]
             },
             {
                   "name": "Mariinszkij-palota",
                   "text": "Bartolomeo Rastrelli által tervezett 18. századi barokk palota, amely jelenleg az ukrán elnök hivatalos reprezentatív lakhelyeként szolgál.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.5375,
+                        50.448333
+                  ]
             },
             {
                   "name": "Ukrán Nemzeti Opera",
                   "text": "1901-ben megnyitott neoreneszánsz épület, amely kiváló akusztikájáról és gazdagon díszített belső tereiről ismert az opera kedvelői körében.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.512409,
+                        50.446726
+                  ]
             }
       ],
       "ro": [
@@ -166,55 +238,91 @@ imageHint: "Aerial view of Kyiv city center and Dnieper river",
                   "name": "Lavra Peșterilor din Kiev",
                   "text": "O mănăstire ortodoxă istorică fondată în 1051, faimoasă pentru rețeaua sa vastă de peșteri subterane și catacombe sacre.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.562222,
+                        50.432222
+                  ]
             },
             {
                   "name": "Catedrala Sfânta Sofia",
                   "text": "Monument UNESCO din secolul al XI-lea, ce păstrează mozaicuri bizantine originale și fresce prețioase din perioada Rusiei Kievene.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.514444,
+                        50.452778
+                  ]
             },
             {
                   "name": "Piața Independenței",
                   "text": "Piața centrală a Kievului, cunoscută sub numele de Maidan, fiind locul principal pentru evenimente politice și celebrări naționale.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.523889,
+                        50.45025
+                  ]
             },
             {
                   "name": "Mănăstirea Sfântul Mihail",
                   "text": "O mănăstire din secolul al XII-lea, reconstruită în anii '90, ușor de recunoscut după exteriorul albastru strălucitor și cupolele aurii.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.522778,
+                        50.455556
+                  ]
             },
             {
                   "name": "Coborârea Sfântului Andrei",
                   "text": "O stradă istorică abruptă ce leagă Orașul de Sus de cartierul Podil, plină de galerii de artă, ateliere și tarabe cu suveniruri.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.515139,
+                        50.459861
+                  ]
             },
             {
                   "name": "Statuia Patriei",
                   "text": "O sculptură din titan de 62 de metri înălțime, reprezentând o figură feminină cu sabie și scut, parte a complexului muzeal național.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.563111,
+                        50.4265
+                  ]
             },
             {
                   "name": "Poarta de Aur",
                   "text": "Reconstrucția porții principale de intrare în fortificațiile orașului din secolul al XI-lea, care adăpostește astăzi un mic muzeu.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.513056,
+                        50.448333
+                  ]
             },
             {
                   "name": "Palatul Mariinski",
                   "text": "Palat baroc din secolul al XVIII-lea proiectat de Bartolomeo Rastrelli, servind în prezent drept reședință ceremonială a președintelui.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.5375,
+                        50.448333
+                  ]
             },
             {
                   "name": "Opera Națională a Ucrainei",
                   "text": "Clădire neorenascentistă inaugurată în 1901, renumită pentru acustica sa excepțională și decorul interior de o rară eleganță.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.512409,
+                        50.446726
+                  ]
             }
       ],
       "en": [
@@ -222,55 +330,91 @@ imageHint: "Aerial view of Kyiv city center and Dnieper river",
                   "name": "Kyiv Pechersk Lavra",
                   "text": "A historic Orthodox monastery founded in 1051, famous for its extensive network of underground caves and sacred catacombs.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.562222,
+                        50.432222
+                  ]
             },
             {
                   "name": "Saint Sophia Cathedral",
                   "text": "An 11th-century UNESCO World Heritage site featuring original Byzantine mosaics and frescoes from the era of Kievan Rus.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.514444,
+                        50.452778
+                  ]
             },
             {
                   "name": "Maidan Nezalezhnosti",
                   "text": "The central square of Kyiv, known as Maidan, the focal point for major political events and national public celebrations in Ukraine.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.523889,
+                        50.45025
+                  ]
             },
             {
                   "name": "St. Michael's Golden-Domed Monastery",
                   "text": "A 12th-century monastery rebuilt in the 1990s, recognizable by its bright blue exterior walls and shimmering gilded domes.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.522778,
+                        50.455556
+                  ]
             },
             {
                   "name": "Andriyivskyy Descent",
                   "text": "A steep historic street connecting the Upper Town to the Podil neighborhood, lined with art galleries, workshops, and souvenir stalls.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.515139,
+                        50.459861
+                  ]
             },
             {
                   "name": "Motherland Monument",
                   "text": "A 62-meter high titanium statue of a female figure holding a sword and shield, part of the National Museum of the History of Ukraine.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.563111,
+                        50.4265
+                  ]
             },
             {
                   "name": "Golden Gate",
                   "text": "A reconstruction of the 11th-century main gateway to the city's fortifications, which now houses an informative history museum.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.513056,
+                        50.448333
+                  ]
             },
             {
                   "name": "Mariyinsky Palace",
                   "text": "An 18th-century Baroque palace designed by Bartolomeo Rastrelli, serving as the official ceremonial residence of the President of Ukraine.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.5375,
+                        50.448333
+                  ]
             },
             {
                   "name": "National Opera of Ukraine",
                   "text": "A grand Neo-Renaissance building opened in 1901, renowned for its exceptional acoustics and elaborate interior decorations.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        30.512409,
+                        50.446726
+                  ]
             }
       ]
 }

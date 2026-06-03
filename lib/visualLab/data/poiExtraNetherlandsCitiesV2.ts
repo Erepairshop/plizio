@@ -367,61 +367,101 @@ export const netherlandsCitiesV2: POI[] = [
                   "name": "Oldehove",
                   "text": "Der schiefe, unvollendete Kirchturm aus dem Jahr 1529 ist das Wahrzeichen der Stadt und bietet eine weite Aussicht.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.791333,
+                        53.202753
+                  ]
             },
             {
                   "name": "Fries Museum",
                   "text": "Ein modernes Museum, das die friesische Kultur, Geschichte und Kunst in einem preisgekrönten Neubau präsentiert.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79444,
+                        53.19972
+                  ]
             },
             {
                   "name": "De Waag",
                   "text": "Die historische Stadtwaage von 1595 im Zentrum war einst der wichtigste Ort für den Handel mit friesischen Produkten.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.795934,
+                        53.200762
+                  ]
             },
             {
                   "name": "Blokhuispoort",
                   "text": "Das ehemalige Gefängnis aus dem 15. Jahrhundert dient heute als lebendiges Kulturzentrum mit Ateliers und Cafés.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.80028,
+                        53.19972
+                  ]
             },
             {
                   "name": "Prinsentuin",
                   "text": "Ein öffentlicher Park aus dem Jahr 1648, der ursprünglich als privater Garten für den Statthalter angelegt wurde.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.7936,
+                        53.205
+                  ]
             },
             {
                   "name": "Keramiekmuseum Princessehof",
                   "text": "In diesem Stadtpalais aus dem 18. Jahrhundert wurde M.C. Escher geboren; heute zeigt es wertvolle Keramikkunst.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.792144,
+                        53.202989
+                  ]
             },
             {
                   "name": "Sint-Bonifatiuskerk",
                   "text": "Diese neugotische Kreuzkirche aus dem Jahr 1884 besitzt einen 85 Meter hohen Turm, der das Stadtbild prägt.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.802462,
+                        53.204359
+                  ]
             },
             {
                   "name": "Achmeatoren",
                   "text": "Das mit 114 Metern höchste Gebäude der Stadt ist ein modernes Wahrzeichen und dient als markanter Orientierungspunkt.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79194,
+                        53.19806
+                  ]
             },
             {
                   "name": "Grote of Jacobijnerkerk",
                   "text": "Die älteste Kirche der Stadt aus dem 13. Jahrhundert beherbergt die Grabgewölbe der nassauischen Statthalter.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.797222,
+                        53.203889
+                  ]
             },
             {
                   "name": "Stadhouderlijk Hof",
                   "text": "Die einstige Residenz der friesischen Statthalter dient heute als Hotel und bewahrt den aristokratischen Glanz.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79556,
+                        53.2025
+                  ]
             }
       ],
       "hu": [
@@ -429,61 +469,101 @@ export const netherlandsCitiesV2: POI[] = [
                   "name": "Oldehove",
                   "text": "Az 1529-ben épült ferde, befejezetlen torony Leeuwarden szimbóluma, amely a talaj süllyedése miatt maradt torzó.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.791333,
+                        53.202753
+                  ]
             },
             {
                   "name": "Fries Museum",
                   "text": "Modern épületben helyet kapott múzeum, amely Friesland tartomány művészetét és történelmét mutatja be gazdagon.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79444,
+                        53.19972
+                  ]
             },
             {
                   "name": "De Waag",
                   "text": "Az 1595-ben emelt reneszánsz stílusú mérlegelőház a város egykori kereskedelmi központjában található.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.795934,
+                        53.200762
+                  ]
             },
             {
                   "name": "Blokhuispoort",
                   "text": "Egykori börtönépület a 15. századból, amely ma kreatív műhelyeknek, könyvtárnak és kulturális tereknek ad otthont.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.80028,
+                        53.19972
+                  ]
             },
             {
                   "name": "Prinsentuin",
                   "text": "1648-ban alapított közpark, amely egykor a helyi helytartók magánkertje volt a városi csatorna partján.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.7936,
+                        53.205
+                  ]
             },
             {
                   "name": "Keramiekmuseum Princessehof",
                   "text": "Ebben a 18. századi palotában született M.C. Escher; ma világhírű kerámiagyűjtemény látható a falai között.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.792144,
+                        53.202989
+                  ]
             },
             {
                   "name": "Sint-Bonifatiuskerk",
                   "text": "1884-ben épült neogótikus templom, melynek 85 méter magas tornya messziről jelzi a város fekvését.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.802462,
+                        53.204359
+                  ]
             },
             {
                   "name": "Achmeatoren",
                   "text": "Leeuwarden legmagasabb épülete a maga 114 méterével, modern építészeti kontrasztot alkotva az óvárossal.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79194,
+                        53.19806
+                  ]
             },
             {
                   "name": "Grote of Jacobijnerkerk",
                   "text": "A város legidősebb, 13. századi temploma, amely az Orániai-Nassau-ház helytartóinak temetkezési helye.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.797222,
+                        53.203889
+                  ]
             },
             {
                   "name": "Stadhouderlijk Hof",
                   "text": "A frieslandi helytartók egykori rezidenciája, amely megőrizte eredeti királyi eleganciáját és stílusát.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79556,
+                        53.2025
+                  ]
             }
       ],
       "ro": [
@@ -491,61 +571,101 @@ export const netherlandsCitiesV2: POI[] = [
                   "name": "Oldehove",
                   "text": "Turnul înclinat din 1529 este simbolul nefinalizat al orașului, oferind o priveliște panoramică asupra regiunii.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.791333,
+                        53.202753
+                  ]
             },
             {
                   "name": "Fries Museum",
                   "text": "Un muzeu modern ce expune cultura frizonă, istoria locală și arta contemporană într-un spațiu inovator.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79444,
+                        53.19972
+                  ]
             },
             {
                   "name": "De Waag",
                   "text": "Vechea casă de cântărire din 1595, situată în centrul vechi, amintește de gloria comercială a orașului.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.795934,
+                        53.200762
+                  ]
             },
             {
                   "name": "Blokhuispoort",
                   "text": "Fosta închisoare din secolul al XV-lea, transformată astăzi într-un hub cultural cu ateliere și cafenele.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.80028,
+                        53.19972
+                  ]
             },
             {
                   "name": "Prinsentuin",
                   "text": "Parc public fondat în 1648, inițial grădină privată a statholderilor, faimos pentru portul său de agrement.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.7936,
+                        53.205
+                  ]
             },
             {
                   "name": "Keramiekmuseum Princessehof",
                   "text": "Palat din secolul XVIII unde s-a născut M.C. Escher; găzduiește acum o colecție impresionantă de ceramică.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.792144,
+                        53.202989
+                  ]
             },
             {
                   "name": "Sint-Bonifatiuskerk",
                   "text": "Biserică neogotică impunătoare din 1884, al cărei turn de 85 de metri domină orizontul orașului.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.802462,
+                        53.204359
+                  ]
             },
             {
                   "name": "Achmeatoren",
                   "text": "Cea mai înaltă clădire din Leeuwarden, cu o înălțime de 114 metri, fiind un reper modern al arhitecturii.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79194,
+                        53.19806
+                  ]
             },
             {
                   "name": "Grote of Jacobijnerkerk",
                   "text": "Cea mai veche biserică din oraș, datând din secolul XIII, locul de odihnă al membrilor familiei Nassau.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.797222,
+                        53.203889
+                  ]
             },
             {
                   "name": "Stadhouderlijk Hof",
                   "text": "Fosta reședință a guvernatorilor frizoni, o clădire istorică ce păstrează atmosfera curții nobiliare.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79556,
+                        53.2025
+                  ]
             }
       ],
       "en": [
@@ -553,61 +673,101 @@ export const netherlandsCitiesV2: POI[] = [
                   "name": "Oldehove",
                   "text": "The leaning, unfinished church tower from 1529 is Leeuwarden's iconic symbol, offering wide city views.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.791333,
+                        53.202753
+                  ]
             },
             {
                   "name": "Fries Museum",
                   "text": "A modern museum showcasing Frisian culture, history, and art in an award-winning contemporary building.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79444,
+                        53.19972
+                  ]
             },
             {
                   "name": "De Waag",
                   "text": "The historic 1595 weighing house in the city center was once the heart of Frisian agricultural trade.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.795934,
+                        53.200762
+                  ]
             },
             {
                   "name": "Blokhuispoort",
                   "text": "A former 15th-century prison now repurposed as a creative cultural hub with shops, studios, and a library.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.80028,
+                        53.19972
+                  ]
             },
             {
                   "name": "Prinsentuin",
                   "text": "A public park established in 1648, originally a private garden for the city's royal governors.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.7936,
+                        53.205
+                  ]
             },
             {
                   "name": "Keramiekmuseum Princessehof",
                   "text": "Birthplace of artist M.C. Escher, this 18th-century urban palace now houses a world-class ceramics collection.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.792144,
+                        53.202989
+                  ]
             },
             {
                   "name": "Sint-Bonifatiuskerk",
                   "text": "An impressive neo-Gothic church built in 1884, featuring a 114-meter spire that dominates the skyline.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.802462,
+                        53.204359
+                  ]
             },
             {
                   "name": "Achmeatoren",
                   "text": "Standing 114 meters tall, this is the tallest building in the city and serves as a modern regional landmark.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79194,
+                        53.19806
+                  ]
             },
             {
                   "name": "Grote of Jacobijnerkerk",
                   "text": "The oldest building in town (13th century), housing the burial vaults of the Frisian House of Nassau.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.797222,
+                        53.203889
+                  ]
             },
             {
                   "name": "Stadhouderlijk Hof",
                   "text": "The former residence of the Frisian Stadtholders, reflecting the city's significant political history.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.79556,
+                        53.2025
+                  ]
             }
       ]
 }
@@ -1019,250 +1179,330 @@ export const netherlandsCitiesV2: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Batavia (Schiff)",
-                  "text": "Ein authentischer Nachbau des berühmten VOC-Handelsschiffes von 1628, das in der Batavialand-Werft liegt.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Batavia Stad Fashion Outlet",
                   "text": "Ein im Stil einer befestigten Siedlung erbautes Einkaufszentrum direkt am Ufer des Markermeers.",
                   "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.439167,
+                        52.522778
+                  ]
             },
             {
                   "name": "Aviodrome",
                   "text": "Ein großer Luftfahrt-Themenpark am Flughafen Lelystad mit historischen Flugzeugen wie der Boeing 747.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.52957,
+                        52.45734
+                  ]
             },
             {
                   "name": "Batavialand Museum",
                   "text": "Dieses Museum erzählt die Geschichte der Landgewinnung und der Polderentstehung in der Provinz Flevoland.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.437379,
+                        52.522289
+                  ]
             },
             {
                   "name": "Natuurpark Lelystad",
                   "text": "Ein weitläufiges Gelände, in dem man Wisente, Wildpferde und Hirsche in natürlicher Umgebung beobachten kann.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.530189,
+                        52.483569
+                  ]
             },
             {
                   "name": "Agora Theater",
                   "text": "Ein auffälliges, oranges Gebäude des Architekten Ben van Berkel, das für seine moderne Architektur bekannt ist.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Standbeeld van Ir. Lely",
-                  "text": "Das Denkmal für den Ingenieur Cornelis Lely, den Planer der Zuiderseewerke, steht im Zentrum der Stadt.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.47632,
+                        52.51087
+                  ]
             },
             {
                   "name": "Marker Wadden",
                   "text": "Künstliche Inseln im Markermeer, die per Fähre erreichbar sind und als Naturreservat für Vögel dienen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.383333,
+                        52.583333
+                  ]
             },
             {
                   "name": "Houtribsluizen",
                   "text": "Die imposanten Schleusenanlagen trennen das Markermeer vom IJsselmeer und regulieren den Wasserstand.",
                   "category": "industry",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.434369,
+                        52.527631
+                  ]
             },
             {
                   "name": "Oostvaardersplassen",
                   "text": "Ein einzigartiges Naturschutzgebiet am Stadtrand, berühmt für seine Wildpferde und seltenen Vogelarten.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.366667,
+                        52.45
+                  ]
             }
       ],
       "hu": [
             {
-                  "name": "Batavia (hajó)",
-                  "text": "Az 1628-ban épült híres holland kereskedelmi hajó hű másolata, amely a Batavialand hajógyárban látogatható.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Batavia Stad Fashion Outlet",
                   "text": "A Markermeer partján épült, erődített városkára emlékeztető bevásárlóközpont és divat-outlet.",
                   "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.439167,
+                        52.522778
+                  ]
             },
             {
                   "name": "Aviodrome",
                   "text": "Lelystad repülőterén található repülési múzeum, ahol egykori utasszállítók és vadászgépek is láthatók.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.52957,
+                        52.45734
+                  ]
             },
             {
                   "name": "Batavialand Museum",
                   "text": "A múzeum Flevoland tartomány különleges történetét és a tenger alatti földnyerés folyamatát mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.437379,
+                        52.522289
+                  ]
             },
             {
                   "name": "Natuurpark Lelystad",
                   "text": "Hatalmas vadaspark, ahol bölények, Przsevalszkij-lovak és gímszarvasok élnek természetes közegben.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.530189,
+                        52.483569
+                  ]
             },
             {
                   "name": "Agora Theater",
                   "text": "Ben van Berkel tervei alapján készült, élénk narancssárga színű modern színházépület, a város ékköve.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Standbeeld van Ir. Lely",
-                  "text": "Cornelis Lely mérnök szobra, aki a Zuiderzee-terv kidolgozójaként lehetővé tette a tartomány létrejöttét.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.47632,
+                        52.51087
+                  ]
             },
             {
                   "name": "Marker Wadden",
                   "text": "A Markermeeren kialakított mesterséges szigetek, amelyek hajóval látogathatók és fontos madárrezervátumok.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.383333,
+                        52.583333
+                  ]
             },
             {
                   "name": "Houtribsluizen",
                   "text": "Hatalmas zsiliprendszer, amely a Markermeer és az IJsselmeer közötti vízi forgalmat és vízszintet szabályozza.",
                   "category": "industry",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.434369,
+                        52.527631
+                  ]
             },
             {
                   "name": "Oostvaardersplassen",
                   "text": "A városszéli mocsaras terület Európa egyik legfontosabb vadonja, ahol vadlovak és szarvasok kóborolnak.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.366667,
+                        52.45
+                  ]
             }
       ],
       "ro": [
             {
-                  "name": "Nava Batavia",
-                  "text": "O replică fidelă a corăbiei din 1628 a Companiei Indiilor Orientale, aflată în șantierul naval Batavialand.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Batavia Stad Fashion Outlet",
                   "text": "Un centru comercial construit sub formă de sat fortificat, situat chiar pe malul lacului Markermeer.",
                   "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.439167,
+                        52.522778
+                  ]
             },
             {
                   "name": "Aviodrome",
                   "text": "Muzeu al aviației situat lângă aeroportul local, ce expune peste 100 de aeronave istorice și moderne.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.52957,
+                        52.45734
+                  ]
             },
             {
                   "name": "Muzeul Batavialand",
                   "text": "Prezintă istoria unică a polderizării și a luptei olandezilor pentru a câștiga pământ de la mare.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.437379,
+                        52.522289
+                  ]
             },
             {
                   "name": "Natuurpark Lelystad",
                   "text": "Parc natural vast unde pot fi observați bizoni europeni, cai sălbatici și cerbi în habitatul lor natural.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.530189,
+                        52.483569
+                  ]
             },
             {
                   "name": "Agora Theater",
                   "text": "O clădire de un portocaliu vibrant, proiectată de UNStudio, celebră pentru designul său futurist.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Statuia lui Cornelis Lely",
-                  "text": "Monument dedicat inginerului care a proiectat sistemul de diguri ce a permis crearea provinciei Flevoland.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.47632,
+                        52.51087
+                  ]
             },
             {
                   "name": "Marker Wadden",
                   "text": "Arhipelag artificial creat pentru a restabili biodiversitatea, accesibil cu feribotul din Lelystad.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.383333,
+                        52.583333
+                  ]
             },
             {
                   "name": "Houtribsluizen",
                   "text": "Ecluze strategice care separă lacurile Markermeer și IJsselmeer, controlând nivelul apei în regiune.",
                   "category": "industry",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.434369,
+                        52.527631
+                  ]
             },
             {
                   "name": "Oostvaardersplassen",
                   "text": "Rezervație naturală de mlaștină situată la periferie, faimoasă pentru fauna sălbatică și peisajele virgine.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.366667,
+                        52.45
+                  ]
             }
       ],
       "en": [
             {
-                  "name": "Batavia (Ship)",
-                  "text": "An authentic reconstruction of the famous 1628 VOC merchant ship, located at the Batavialand shipyard.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Batavia Stad Fashion Outlet",
                   "text": "A lakeside shopping mall built in the style of a traditional fortified town, offering designer brands.",
                   "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.439167,
+                        52.522778
+                  ]
             },
             {
                   "name": "Aviodrome",
                   "text": "A large aviation museum and theme park featuring over 100 aircraft, including a massive Boeing 747.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.52957,
+                        52.45734
+                  ]
             },
             {
                   "name": "Batavialand Museum",
                   "text": "Dedicated to the history of Flevoland's land reclamation and the Dutch mastery of water management.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.437379,
+                        52.522289
+                  ]
             },
             {
                   "name": "Natuurpark Lelystad",
                   "text": "A large wildlife park where visitors can see bison, Przewalski horses, and red deer in natural surroundings.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.530189,
+                        52.483569
+                  ]
             },
             {
                   "name": "Agora Theater",
                   "text": "An eye-catching orange building designed by UNStudio, known for its bold contemporary architecture.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Statue of Cornelis Lely",
-                  "text": "A prominent monument honoring the engineer who conceived the Zuiderzee Works that created this land.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.47632,
+                        52.51087
+                  ]
             },
             {
                   "name": "Marker Wadden",
                   "text": "Man-made islands in the Markermeer lake accessible by ferry, designed for nature restoration and birdwatching.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.383333,
+                        52.583333
+                  ]
             },
             {
                   "name": "Houtribsluizen",
                   "text": "Large-scale sluice complex separating the Markermeer from the IJsselmeer, vital for regional water control.",
                   "category": "industry",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.434369,
+                        52.527631
+                  ]
             },
             {
                   "name": "Oostvaardersplassen",
                   "text": "A unique wetland nature reserve on the edge of the city, home to wild horses and rare bird species.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.366667,
+                        52.45
+                  ]
             }
       ]
 }
@@ -1497,43 +1737,61 @@ export const netherlandsCitiesV2: POI[] = [
                   "name": "Drents Museum",
                   "text": "Das Museum im ehemaligen Provinzialhaus ist bekannt für seine bedeutende archäologische Sammlung, darunter das berühmte Mädchen von Yde.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.564167,
+                        52.993333
+                  ]
             },
             {
                   "name": "TT Circuit Assen",
                   "text": "Die legendäre Motorsport-Rennstrecke wird auch Cathedral of Speed genannt und ist der Austragungsort der niederländischen Moto-GP.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.5233,
+                        52.96156
+                  ]
             },
             {
                   "name": "Asserbos",
                   "text": "Eines der ältesten Staatswälder der Niederlande bietet weitläufige Wanderwege, einen Tierpark und ein modernes Nachhaltigkeitszentrum.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Standbild von Bartje",
-                  "text": "Die Statue der Hauptfigur aus den Romanen von Anne de Vries ist ein Wahrzeichen von Assen und steht vor dem alten Rathaus.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.55306,
+                        52.98389
+                  ]
             },
             {
                   "name": "Gouverneurstuin",
                   "text": "Der ehemalige Privatgarten des Gouverneurs im Stadtzentrum wird heute für kulturelle Veranstaltungen und als ruhige Parkanlage genutzt.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.56269,
+                        52.99239
+                  ]
             },
             {
                   "name": "Jozefkerk",
                   "text": "Die neoklassizistische Kirche aus dem Jahr 1848 prägt mit ihrem markanten Turm das Stadtbild am Kerkplein von Assen.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.56001,
+                        52.99259
+                  ]
             },
             {
                   "name": "Duurzaamheidscentrum",
                   "text": "Das im Asserbos gelegene Zentrum informiert interaktiv über Nachhaltigkeit, Natur und Umwelt in der Region Drenthe.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.546951,
+                        52.985852
+                  ]
             }
       ],
       "hu": [
@@ -1541,43 +1799,61 @@ export const netherlandsCitiesV2: POI[] = [
                   "name": "Drents Múzeum",
                   "text": "A korábbi tartományi székházban működő múzeum régészeti gyűjteményéről, különösen az yde-i lány nevű láp-múmiáról világhírű.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.564167,
+                        52.993333
+                  ]
             },
             {
                   "name": "TT Circuit Assen",
                   "text": "A motorversenyzés katedrálisaként ismert legendás versenypálya ad otthont a holland Moto-GP futamoknak minden évben.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.5233,
+                        52.96156
+                  ]
             },
             {
                   "name": "Asserbos",
                   "text": "Hollandia egyik legrégebbi erdeje a város szívében található, sétautakkal, állatparkkal és fenntarthatósági központtal várja a látogatókat.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bartje szobra",
-                  "text": "Anne de Vries regényhősének bronzszobra a város jelképe, amely a vidéki élethez hűen ábrázolja a kisfiút az épület előtt.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.55306,
+                        52.98389
+                  ]
             },
             {
                   "name": "Gouverneurstuin",
                   "text": "A kormányzó egykori magánkertje ma nyilvános parkként szolgál, amely gyakran ad otthont szabadtéri kiállításoknak és koncerteknek.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.56269,
+                        52.99239
+                  ]
             },
             {
                   "name": "Jozefkerk",
                   "text": "Az 1848-ban épült neoklasszicista templom Assen egyik legfontosabb egyházi épülete, amely a Kerkplein központi részén áll.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.56001,
+                        52.99259
+                  ]
             },
             {
                   "name": "Fenntarthatósági Központ",
                   "text": "Az Asserbos szélén álló modern épület interaktív módon mutatja be a természetvédelmet és a régió ökológiai értékeit.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.546951,
+                        52.985852
+                  ]
             }
       ],
       "ro": [
@@ -1585,43 +1861,61 @@ export const netherlandsCitiesV2: POI[] = [
                   "name": "Muzeul Drents",
                   "text": "Situat în fosta casă provincială, muzeul este celebru pentru colecția sa arheologică, inclusiv corpul mumificat Fata din Yde.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.564167,
+                        52.993333
+                  ]
             },
             {
                   "name": "Circuitul TT Assen",
                   "text": "Cunoscut drept Catedrala Vitezei, acest circuit legendar găzduiește anual Marele Premiu al Olandei la MotoGP.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.5233,
+                        52.96156
+                  ]
             },
             {
                   "name": "Asserbos",
                   "text": "Una dintre cele mai vechi păduri de stat din Olanda, oferă trasee de plimbare, un parc cu animale și un centru de sustenabilitate.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Statuia lui Bartje",
-                  "text": "Statuia personajului principal din romanele lui Anne de Vries este simbolul orașului și este amplasată în fața vechii primării.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.55306,
+                        52.98389
+                  ]
             },
             {
                   "name": "Gouverneurstuin",
                   "text": "Fosta grădină privată a guvernatorului este acum un parc public liniștit în centrul orașului, folosit pentru evenimente culturale.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.56269,
+                        52.99239
+                  ]
             },
             {
                   "name": "Jozefkerk",
                   "text": "Această biserică neoclasică construită în 1848 domină piața centrală Kerkplein și este un reper arhitectural important.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.56001,
+                        52.99259
+                  ]
             },
             {
                   "name": "Centrul de Sustenabilitate",
                   "text": "O clădire modernă în Asserbos care oferă informații interactive despre ecologie și protecția mediului în Drenthe.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.546951,
+                        52.985852
+                  ]
             }
       ],
       "en": [
@@ -1629,43 +1923,61 @@ export const netherlandsCitiesV2: POI[] = [
                   "name": "Drents Museum",
                   "text": "Housed in a former provincial hall, this museum is famous for its archaeological finds, including the Iron Age Girl of Yde.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.564167,
+                        52.993333
+                  ]
             },
             {
                   "name": "TT Circuit Assen",
                   "text": "Known as the Cathedral of Speed, this world-famous motorcycle racing track hosts the annual Dutch TT and MotoGP events.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.5233,
+                        52.96156
+                  ]
             },
             {
                   "name": "Asserbos",
                   "text": "One of the oldest state forests in the Netherlands, featuring extensive walking trails, a petting zoo, and a nature center.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Statue of Bartje",
-                  "text": "The iconic statue of the main character from Anne de Vries' books represents a local farm boy and is the symbol of Assen.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.55306,
+                        52.98389
+                  ]
             },
             {
                   "name": "Gouverneurstuin",
                   "text": "Formerly the governor's private garden, this central park is now a venue for open-air concerts and seasonal art exhibitions.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.56269,
+                        52.99239
+                  ]
             },
             {
                   "name": "Jozefkerk",
                   "text": "A neoclassic church built in 1848, located on the Kerkplein, known for its distinctive architecture and historical significance.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.56001,
+                        52.99259
+                  ]
             },
             {
                   "name": "Sustainability Center",
                   "text": "Located at the edge of the Asserbos, this interactive museum educates visitors on biodiversity and sustainable living.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.546951,
+                        52.985852
+                  ]
             }
       ]
 }

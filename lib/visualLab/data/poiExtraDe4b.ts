@@ -412,37 +412,61 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Altonaer Rathaus",
                   "text": "Das ehemalige Bahnhofsgebäude ist heute eines der schönsten Rathäuser Deutschlands mit einer markanten weißen Fassade.",
                   "category": "rathaus",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935278,
+                        53.546944
+                  ]
             },
             {
                   "name": "Altonaer Museum",
                   "text": "Ein großes Regionalmuseum, das sich der Kunst- und Kulturgeschichte Norddeutschlands und der Elbe widmet.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.9347,
+                        53.54902
+                  ]
             },
             {
                   "name": "Altonaer Balkon",
                   "text": "Ein Park auf einer Anhöhe, der einen spektakulären Panoramablick über den Hamburger Hafen und die Elbe bietet.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935458,
+                        53.545356
+                  ]
             },
             {
                   "name": "Fischmarkt",
                   "text": "Der traditionsreiche Markt direkt an der Elbe ist weltberühmt für sein buntes Treiben am frühen Sonntagmorgen.",
                   "category": "altstadt",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.949925,
+                        53.546425
+                  ]
             },
             {
                   "name": "St. Trinitatis Kirche",
                   "text": "Die barocke Hauptkirche von Altona wurde nach dem Krieg wiederaufgebaut und ist ein Wahrzeichen des Stadtteils.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.950533,
+                        53.548435
+                  ]
             },
             {
                   "name": "Platz der Republik",
                   "text": "Ein zentraler Platz zwischen Bahnhof und Rathaus, gesäumt von prächtigen Gebäuden und dem Stuhlmannbrunnen.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935254,
+                        53.550359
+                  ]
             }
       ],
       "hu": [
@@ -450,37 +474,61 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Altonai Városháza",
                   "text": "Az egykori vasútállomás épülete ma Németország egyik legszebb városházája jellegzetes fehér homlokzatával.",
                   "category": "rathaus",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935278,
+                        53.546944
+                  ]
             },
             {
                   "name": "Altona Múzeum",
                   "text": "Nagy regionális múzeum, amely Észak-Németország és az Elba vidékének művészeti és kultúrtörténetét mutatja be.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.9347,
+                        53.54902
+                  ]
             },
             {
                   "name": "Altonai Erkély",
                   "text": "Egy magaslaton fekvő park, ahonnan látványos panoráma nyílik a hamburgi kikötőre és az Elba folyóra.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935458,
+                        53.545356
+                  ]
             },
             {
                   "name": "Halpiac",
                   "text": "Hagyományos piac közvetlenül az Elba partján, amely világhírű a vasárnap hajnali színes forgatagáról.",
                   "category": "altstadt",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.949925,
+                        53.546425
+                  ]
             },
             {
                   "name": "Szentháromság-templom",
                   "text": "Altona barokk főtemploma, amelyet a háborús pusztítás után újjáépítettek, a negyed egyik fontos jelképe.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.950533,
+                        53.548435
+                  ]
             },
             {
                   "name": "Köztársaság tere",
                   "text": "A pályaudvar és a városháza közötti központi tér, amelyet díszes épületek és a Stuhlmann-kút ékesít.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935254,
+                        53.550359
+                  ]
             }
       ],
       "ro": [
@@ -488,37 +536,61 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Primăria Altona",
                   "text": "Fosta clădire a gării este astăzi una dintre cele mai frumoase primării din Germania, cu o fațadă albă impunătoare.",
                   "category": "rathaus",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935278,
+                        53.546944
+                  ]
             },
             {
                   "name": "Muzeul Altona",
                   "text": "Un muzeu regional important dedicat artei și istoriei culturale a Germaniei de Nord și regiunii râului Elba.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.9347,
+                        53.54902
+                  ]
             },
             {
                   "name": "Balconul Altona",
                   "text": "Un parc situat pe o colină, oferind o vedere panoramică spectaculoasă asupra portului Hamburg și a fluviului Elba.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935458,
+                        53.545356
+                  ]
             },
             {
                   "name": "Piața de Pește",
                   "text": "Piața tradițională de pe malul Elbei este faimoasă în întreaga lume pentru atmosfera sa vibrantă de duminică dimineața.",
                   "category": "altstadt",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.949925,
+                        53.546425
+                  ]
             },
             {
                   "name": "Biserica Sfânta Treime",
                   "text": "Biserica principală barocă din Altona, reconstruită după război, este un simbol arhitectural al acestui cartier.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.950533,
+                        53.548435
+                  ]
             },
             {
                   "name": "Piața Republicii",
                   "text": "O piață centrală situată între gară și primărie, dominată de clădiri magnifice și de fântâna Stuhlmann.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935254,
+                        53.550359
+                  ]
             }
       ],
       "en": [
@@ -526,37 +598,61 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Altona Town Hall",
                   "text": "Housed in a former railway station, this is one of Germany's most beautiful town halls with a striking white facade.",
                   "category": "rathaus",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935278,
+                        53.546944
+                  ]
             },
             {
                   "name": "Altona Museum",
                   "text": "A major regional museum focused on the art and cultural history of Northern Germany and the Elbe river region.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.9347,
+                        53.54902
+                  ]
             },
             {
                   "name": "Altona Balcony",
                   "text": "An elevated park offering spectacular panoramic views over the Hamburg harbor and the Elbe river.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935458,
+                        53.545356
+                  ]
             },
             {
                   "name": "Fish Market",
                   "text": "A traditional market directly on the Elbe, world-famous for its lively and colorful atmosphere every Sunday morning.",
                   "category": "altstadt",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.949925,
+                        53.546425
+                  ]
             },
             {
                   "name": "St. Trinitatis Church",
                   "text": "Altona's Baroque main church, rebuilt after the war, serves as a prominent landmark and historical center of the district.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.950533,
+                        53.548435
+                  ]
             },
             {
                   "name": "Republic Square",
                   "text": "A central urban square between the station and town hall, featuring the ornate Stuhlmann Fountain.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.935254,
+                        53.550359
+                  ]
             }
       ]
 }
@@ -768,31 +864,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Bergedorfer Schloss",
                   "text": "Das einzige erhaltene Schloss im Hamburger Stadtgebiet beherbergt heute das Museum für Bergedorf und die Vierlande.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.212222,
+                        53.489722
+                  ]
             },
             {
                   "name": "Hamburger Sternwarte",
                   "text": "Ein bedeutendes astronomisches Observatorium auf dem Gojenberg mit historischen Teleskopen und markanten Kuppelbauten.",
                   "category": "museum",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Petri und Pauli Kirche",
-                  "text": "Eine historische Fachwerkkirche im Zentrum von Bergedorf, bekannt für ihre prächtige Innenausstattung aus dem Barock.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.241017,
+                        53.480439
+                  ]
             },
             {
                   "name": "Serrahn",
                   "text": "Der historische Hafen von Bergedorf an der Bille, der heute als malerischer Anlegeplatz und Veranstaltungsort dient.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.20887,
+                        53.48895
+                  ]
             },
             {
                   "name": "Rieck Haus",
                   "text": "Ein Freilichtmuseum in den Vierlanden, das ein original erhaltenes Hufnerhaus aus dem Jahr 1533 und bäuerliche Kultur zeigt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.214595,
+                        53.459305
+                  ]
             }
       ],
       "hu": [
@@ -800,31 +906,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Bergedorfi kastély",
                   "text": "Hamburg egyetlen fennmaradt kastélya, amely ma a környék helytörténeti és néprajzi múzeumának ad otthont a fallal körülvett parkban.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.212222,
+                        53.489722
+                  ]
             },
             {
                   "name": "Hamburgi Csillagvizsgáló",
                   "text": "A Gojenbergen található jelentős csillagászati obszervatórium történelmi teleszkópokkal és jellegzetes kupolás épületekkel.",
                   "category": "museum",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Péter és Pál templom",
-                  "text": "Bergedorf központjának történelmi favázas temploma, amely gazdag barokk belső díszítéséről és különleges hangulatáról ismert.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.241017,
+                        53.480439
+                  ]
             },
             {
                   "name": "Serrahn kikötő",
                   "text": "Bergedorf történelmi kikötője a Bille folyón, amely ma hangulatos sétányként és hajókikötőként funkcionál a város szívében.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.20887,
+                        53.48895
+                  ]
             },
             {
                   "name": "Rieck-ház",
                   "text": "Szabadtéri múzeum a Vierlande régióban, amely egy 1533-ból származó eredeti parasztházat és a vidéki életmódot mutatja be.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.214595,
+                        53.459305
+                  ]
             }
       ],
       "ro": [
@@ -832,31 +948,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Castelul Bergedorf",
                   "text": "Singurul castel conservat din zona Hamburgului, găzduind în prezent un muzeu dedicat istoriei locale și regiunii Vierlande.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.212222,
+                        53.489722
+                  ]
             },
             {
                   "name": "Observatorul din Hamburg",
                   "text": "Un important observator astronomic situat pe dealul Gojenberg, renumit pentru telescoapele sale istorice și arhitectura cupolelor.",
                   "category": "museum",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Sf. Petru și Pavel",
-                  "text": "O biserică istorică construită pe structură de lemn, situată în centrul cartierului, celebră pentru interiorul său baroc.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.241017,
+                        53.480439
+                  ]
             },
             {
                   "name": "Portul Serrahn",
                   "text": "Vechiul port istoric de pe râul Bille, transformat astăzi într-o zonă de promenadă pitorească cu cafenele și bărci de agrement.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.20887,
+                        53.48895
+                  ]
             },
             {
                   "name": "Casa Rieck",
                   "text": "Un muzeu în aer liber care prezintă o fermă tradițională din 1533, exemplificând cultura rurală veche din sudul Hamburgului.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.214595,
+                        53.459305
+                  ]
             }
       ],
       "en": [
@@ -864,31 +990,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Bergedorf Castle",
                   "text": "The only remaining castle in the Hamburg urban area, now housing a local history museum within its moated grounds.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.212222,
+                        53.489722
+                  ]
             },
             {
                   "name": "Hamburg Observatory",
                   "text": "A significant astronomical observatory located on Gojenberg hill, featuring historic telescopes and unique dome buildings.",
                   "category": "museum",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Peter and Paul Church",
-                  "text": "A historic half-timbered church in central Bergedorf, renowned for its magnificent Baroque interior and altar.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.241017,
+                        53.480439
+                  ]
             },
             {
                   "name": "Serrahn Harbor",
                   "text": "Bergedorf's historic inland port on the Bille river, today serving as a scenic waterfront area for events and leisure.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.20887,
+                        53.48895
+                  ]
             },
             {
                   "name": "Rieck Haus",
                   "text": "An open-air museum in the Vierlande marshlands, showcasing a farmhouse from 1533 and traditional rural life.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        10.214595,
+                        53.459305
+                  ]
             }
       ]
 }
@@ -1100,31 +1236,51 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Harburger Rathaus",
                   "text": "Ein prächtiger Backsteinbau im Stil der Neorenaissance, der das politische Herz des Bezirks Harburg bildet.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.980815,
+                        53.459883
+                  ]
             },
             {
                   "name": "Archäologisches Museum Hamburg",
                   "text": "Eines der bedeutendsten archäologischen Museen Norddeutschlands, das die Vor- und Frühgeschichte der Region zeigt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.97737,
+                        53.45902
+                  ]
             },
             {
                   "name": "Harburger Binnenhafen",
                   "text": "Ein moderner High-Tech-Standort in historischer Hafenatmosphäre mit Brücken, Speichern und modernen Glasbauten.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.98689,
+                        53.468448
+                  ]
             },
             {
                   "name": "Harburger Stadtpark",
                   "text": "Eine weitläufige Grünanlage um den Außenmühlenteich, ideal für Spaziergänge und Erholung im Süden Hamburgs.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.970179,
+                        53.446251
+                  ]
             },
             {
                   "name": "Sammlung Falckenberg",
                   "text": "In den Phoenix-Hallen untergebrachte bedeutende Sammlung zeitgenössischer Kunst in industrieller Architektur.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.98743,
+                        53.45522
+                  ]
             }
       ],
       "hu": [
@@ -1132,31 +1288,51 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Harburgi városháza",
                   "text": "Impozáns neoreneszánsz téglaépület, amely Harburg kerület politikai és adminisztratív központjaként szolgál.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.980815,
+                        53.459883
+                  ]
             },
             {
                   "name": "Hamburgi Régészeti Múzeum",
                   "text": "Észak-Németország egyik legfontosabb régészeti gyűjteménye, amely a régió őstörténetét mutatja be interaktív módon.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.97737,
+                        53.45902
+                  ]
             },
             {
                   "name": "Harburgi belső kikötő",
                   "text": "Modern technológiai központ történelmi kikötői környezetben, ahol régi raktárak és üvegpaloták találkoznak.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.98689,
+                        53.468448
+                  ]
             },
             {
                   "name": "Harburgi városi park",
                   "text": "Hatalmas zöldterület az Außenmühlenteich tó körül, amely népszerű pihenőhely sétányokkal és szabadidős lehetőségekkel.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.970179,
+                        53.446251
+                  ]
             },
             {
                   "name": "Falckenberg-gyűjtemény",
                   "text": "A Phoenix-csarnokokban található jelentős kortárs művészeti gyűjtemény, amely egy egykori gumigyár területén kapott helyet.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.98743,
+                        53.45522
+                  ]
             }
       ],
       "ro": [
@@ -1164,31 +1340,51 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Primăria din Harburg",
                   "text": "O clădire impunătoare din cărămidă în stil neorenascentist, reprezentând centrul administrativ al districtului.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.980815,
+                        53.459883
+                  ]
             },
             {
                   "name": "Muzeul Arheologic din Hamburg",
                   "text": "Situat în Harburg, acest muzeu prezintă istoria timpurie a regiunii prin exponate fascinante și descoperiri locale.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.97737,
+                        53.45902
+                  ]
             },
             {
                   "name": "Portul interior Harburg",
                   "text": "O zonă contrastantă unde arhitectura industrială veche întâlnește clădirile moderne de birouri și tehnologie.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.98689,
+                        53.468448
+                  ]
             },
             {
                   "name": "Parcul Municipal Harburg",
                   "text": "Oază de liniște în jurul lacului Außenmühle, oferind trasee de promenadă și spații verzi generoase pentru recreere.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.970179,
+                        53.446251
+                  ]
             },
             {
                   "name": "Colecția Falckenberg",
                   "text": "Găzduită în halele Phoenix, această colecție de artă contemporană este una dintre cele mai apreciate din Germania.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.98743,
+                        53.45522
+                  ]
             }
       ],
       "en": [
@@ -1196,31 +1392,51 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Harburg Town Hall",
                   "text": "A magnificent Neo-Renaissance brick building that serves as the administrative heart of the Harburg district.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.980815,
+                        53.459883
+                  ]
             },
             {
                   "name": "Archaeological Museum Hamburg",
                   "text": "A major museum in Harburg focusing on the prehistory and early history of Northern Germany and the Elbe region.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.97737,
+                        53.45902
+                  ]
             },
             {
                   "name": "Harburg Inland Port",
                   "text": "A revitalized harbor area combining historic warehouses and bridges with modern high-tech architecture.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.98689,
+                        53.468448
+                  ]
             },
             {
                   "name": "Harburg City Park",
                   "text": "Large park surrounding the Außenmühlenteich lake, featuring scenic trails and a popular recreation area.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.970179,
+                        53.446251
+                  ]
             },
             {
                   "name": "Falckenberg Collection",
                   "text": "Located in the historic Phoenix Halls, this exhibition space showcases a world-class collection of contemporary art.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.98743,
+                        53.45522
+                  ]
             }
       ]
 }
@@ -1417,49 +1633,81 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Ludwigskirche",
                   "text": "Eines der bedeutendsten barocken evangelischen Kirchenbauwerke Deutschlands, entworfen von Friedrich Joachim Stengel im 18. Jahrhundert.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.986389,
+                        49.232778
+                  ]
             },
             {
                   "name": "Saarbrücker Schloss",
                   "text": "Das barocke Schloss dient heute als Verwaltungssitz und Kulturzentrum, unter dem sich historische Kasematten besichtigen lassen.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9925,
+                        49.2301
+                  ]
             },
             {
                   "name": "St. Johanner Markt",
                   "text": "Das Herz der Altstadt mit dem Stengel-Brunnen, zahlreichen Cafés, Boutiquen und Restaurants in historischen Barockhäusern.",
                   "category": "squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996167,
+                        49.232889
+                  ]
             },
             {
                   "name": "Alte Brücke",
                   "text": "Die älteste erhaltene Brücke im Saarland wurde 1546 durch Kaiser Karl V. erbaut und verbindet St. Johann mit Alt-Saarbrücken.",
                   "category": "bridges",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.99342,
+                        49.2315
+                  ]
             },
             {
                   "name": "Rathaus St. Johann",
                   "text": "Ein imposanter neugotischer Bau mit einem 54 Meter hohen Turm, der täglich ein Glockenspiel erklingen lässt.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996389,
+                        49.234722
+                  ]
             },
             {
                   "name": "Saarländisches Staatstheater",
                   "text": "Ein neoklassizistisches Theatergebäude an der Saar, das hochkarätige Opern-, Schauspiel- und Ballettaufführungen bietet.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996111,
+                        49.230833
+                  ]
             },
             {
                   "name": "Deutsch-Französischer Garten",
                   "text": "Eine weitläufige Parkanlage mit See, Seilbahn und Themengärten, die als Symbol der Versöhnung beider Länder angelegt wurde.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.96314,
+                        49.2251
+                  ]
             },
             {
                   "name": "Basilika St. Johann",
                   "text": "Eine prächtige barocke Basilika, die ebenfalls von Stengel entworfen wurde und durch ihre reiche Innenausstattung beeindruckt.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.99839,
+                        49.232993
+                  ]
             }
       ],
       "hu": [
@@ -1467,49 +1715,81 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Lajos-templom",
                   "text": "Németország egyik legjelentősebb barokk evangélikus temploma, amelyet Friedrich Joachim Stengel tervezett a 18. században.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.986389,
+                        49.232778
+                  ]
             },
             {
                   "name": "Saarbrückeni kastély",
                   "text": "A barokk kastély ma közigazgatási központ és kulturális helyszín, alatta látogatható történelmi kazamaták találhatók.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9925,
+                        49.2301
+                  ]
             },
             {
                   "name": "Szent János piac",
                   "text": "Az óváros szíve a Stengel-kúttal, számos kávézóval és étteremmel, amelyek történelmi barokk épületekben kaptak helyet.",
                   "category": "squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996167,
+                        49.232889
+                  ]
             },
             {
                   "name": "Régi híd",
                   "text": "A Saar-vidék legrégebbi hídja, amelyet 1546-ban V. Károly császár építtetett a Saar-folyó két partjának összekötésére.",
                   "category": "bridges",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.99342,
+                        49.2315
+                  ]
             },
             {
                   "name": "Szent János városháza",
                   "text": "Impozáns neogótikus épület 54 méter magas toronnyal, amelyben naponta többször is megszólal a harangjáték.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996389,
+                        49.234722
+                  ]
             },
             {
                   "name": "Saar-vidéki Állami Színház",
                   "text": "Neoklasszicista színházépület a folyóparton, amely magas színvonalú opera-, dráma- és balettelőadásoknak ad otthont.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996111,
+                        49.230833
+                  ]
             },
             {
                   "name": "Német-francia kert",
                   "text": "Tágas park tóval, libegővel és tematikus kertekkel, amelyet a két ország közötti megbékélés szimbólumaként hoztak létre.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.96314,
+                        49.2251
+                  ]
             },
             {
                   "name": "Szent János bazilika",
                   "text": "Pompás barokk bazilika, amelyet szintén Stengel tervezett, és gazdag belső díszítésével nyűgözi le a látogatókat.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.99839,
+                        49.232993
+                  ]
             }
       ],
       "ro": [
@@ -1517,49 +1797,81 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Biserica Ludwig",
                   "text": "Una dintre cele mai importante clădiri bisericești baroce evanghelice din Germania, proiectată de Friedrich Joachim Stengel în secolul XVIII.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.986389,
+                        49.232778
+                  ]
             },
             {
                   "name": "Castelul Saarbrücken",
                   "text": "Castelul baroc servește astăzi ca sediu administrativ și centru cultural, având dedesubt casemate istorice ce pot fi vizitate.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9925,
+                        49.2301
+                  ]
             },
             {
                   "name": "Piața Sfântul Ioan",
                   "text": "Inima orașului vechi cu fântâna Stengel, numeroase cafenele și restaurante situate în clădiri baroce istorice.",
                   "category": "squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996167,
+                        49.232889
+                  ]
             },
             {
                   "name": "Podul Vechi",
                   "text": "Cel mai vechi pod conservat din Saarland, construit în 1546 de împăratul Carol al V-lea peste râul Saar.",
                   "category": "bridges",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.99342,
+                        49.2315
+                  ]
             },
             {
                   "name": "Primăria Sfântul Ioan",
                   "text": "O clădire neogotică impunătoare cu un turn de 54 de metri înălțime, care găzduiește un carillon ce sună zilnic.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996389,
+                        49.234722
+                  ]
             },
             {
                   "name": "Teatrul de Stat din Saarland",
                   "text": "O clădire de teatru neoclasică pe malul râului Saar, care oferă spectacole de operă, teatru și balet de înaltă calitate.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996111,
+                        49.230833
+                  ]
             },
             {
                   "name": "Grădina Germano-Franceză",
                   "text": "Un parc vast cu un lac, telecabină și grădini tematice, creat ca simbol al reconcilierii dintre cele două țări.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.96314,
+                        49.2251
+                  ]
             },
             {
                   "name": "Bazilica Sfântul Ioan",
                   "text": "O bazilică barocă magnifică, proiectată tot de Stengel, impresionând prin decorul interior bogat și arhitectura sa.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.99839,
+                        49.232993
+                  ]
             }
       ],
       "en": [
@@ -1567,49 +1879,81 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Ludwigskirche",
                   "text": "One of Germany's most significant Baroque Protestant churches, designed by Friedrich Joachim Stengel in the 18th century.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.986389,
+                        49.232778
+                  ]
             },
             {
                   "name": "Saarbrücken Castle",
                   "text": "This Baroque palace serves as an administrative and cultural hub, featuring historic casemates underground that are open to visitors.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9925,
+                        49.2301
+                  ]
             },
             {
                   "name": "St. Johanner Markt",
                   "text": "The heart of the old town, featuring the Stengel fountain, cozy cafes, and restaurants housed in historic Baroque buildings.",
                   "category": "squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996167,
+                        49.232889
+                  ]
             },
             {
                   "name": "Old Bridge",
                   "text": "The oldest preserved bridge in the Saarland, built in 1546 by Emperor Charles V to connect the two parts of the city.",
                   "category": "bridges",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.99342,
+                        49.2315
+                  ]
             },
             {
                   "name": "St. Johann Town Hall",
                   "text": "An impressive Neo-Gothic building with a 54-meter-high tower that features a daily carillon performance.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996389,
+                        49.234722
+                  ]
             },
             {
                   "name": "Saarland State Theatre",
                   "text": "A neoclassical theatre building located on the banks of the Saar, offering high-quality opera, drama, and ballet.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.996111,
+                        49.230833
+                  ]
             },
             {
                   "name": "German-French Garden",
                   "text": "A large park with a lake, cable car, and themed gardens, established as a symbol of reconciliation between the two nations.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.96314,
+                        49.2251
+                  ]
             },
             {
                   "name": "Basilica of St. John",
                   "text": "A magnificent Baroque basilica also designed by Stengel, known for its rich interior and impressive architectural details.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.99839,
+                        49.232993
+                  ]
             }
       ]
 }
@@ -1955,31 +2299,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Altes Hüttenareal",
                   "text": "Ein beeindruckendes Industriedenkmal mit ehemaligen Hochöfen, das die Stahlgeschichte der Stadt erlebbar macht.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.17083,
+                        49.3478
+                  ]
             },
             {
                   "name": "Neunkircher Zoo",
                   "text": "Ein familienfreundlicher Tierpark mit einer großen Vielfalt an Tieren und einer bekannten Falknerei.",
                   "category": "park",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Stumm-Kirche",
-                  "text": "Eine historistische Kirche, die von der Industriellenfamilie Stumm gestiftet wurde und markant das Stadtbild prägt.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.20583,
+                        49.3453
+                  ]
             },
             {
                   "name": "Spitzbunker",
                   "text": "Ein seltener Hochbunker in Zigarrenform aus dem Zweiten Weltkrieg, der heute als historisches Mahnmal dient.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168858,
+                        49.349709
+                  ]
             },
             {
                   "name": "Wagwiesental",
                   "text": "Ein städtischer Park, der Raum für Erholung, Sport und Veranstaltungen im Grünen bietet.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.189639,
+                        49.343187
+                  ]
             }
       ],
       "hu": [
@@ -1987,31 +2341,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Régi Vasmű Területe",
                   "text": "Lenyűgöző ipari műemlék egykori kohókkal, amely bemutatja a város acélgyártásának jelentős történelmét.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.17083,
+                        49.3478
+                  ]
             },
             {
                   "name": "Neunkircheni Állatkert",
                   "text": "Népszerű állatkert sokféle fajjal és látványos ragadozómadár-bemutatókkal, ideális úti cél családok számára.",
                   "category": "park",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Stumm-templom",
-                  "text": "A Stumm iparoscsalád által építtetett historizáló stílusú templom, amely a város egyik építészeti jelképe.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.20583,
+                        49.3453
+                  ]
             },
             {
                   "name": "Hegyes bunker",
                   "text": "Ritka, szivar alakú betonbunker a második világháborúból, amely ma történelmi mementóként áll a városban.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168858,
+                        49.349709
+                  ]
             },
             {
                   "name": "Wagwiesental park",
                   "text": "Városi szabadidőpark zöldfelületekkel, játszóterekkel és sportolási lehetőségekkel Neunkirchen szívében.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.189639,
+                        49.343187
+                  ]
             }
       ],
       "ro": [
@@ -2019,31 +2383,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Vechiul Sit Industrial",
                   "text": "Un monument industrial impresionant cu furnale vechi, mărturie a epocii de aur a producției de oțel în regiune.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.17083,
+                        49.3478
+                  ]
             },
             {
                   "name": "Grădina Zoologică Neunkirchen",
                   "text": "Un parc zoologic modern ce găzduiește numeroase specii de animale și oferă spectacole fascinante cu șoimi.",
                   "category": "park",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Stumm",
-                  "text": "O biserică monumentală ctitorită de familia de industriași Stumm, remarcabilă prin arhitectura sa neogotică.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.20583,
+                        49.3453
+                  ]
             },
             {
                   "name": "Buncărul Spitz",
                   "text": "Un turn-buncăr în formă de rachetă din Al Doilea Război Mondial, reprezentând un obiectiv istoric rar în Germania.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168858,
+                        49.349709
+                  ]
             },
             {
                   "name": "Valea Wagwiesen",
                   "text": "Zonă verde de recreere în centrul orașului, ideală pentru sport, plimbări și evenimente culturale în aer liber.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.189639,
+                        49.343187
+                  ]
             }
       ],
       "en": [
@@ -2051,31 +2425,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Old Ironworks Site",
                   "text": "An impressive industrial monument featuring former blast furnaces and remnants of the city's steel industry.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.17083,
+                        49.3478
+                  ]
             },
             {
                   "name": "Neunkirchen Zoo",
                   "text": "A popular zoo known for its diverse animal collection and professional falconry displays.",
                   "category": "park",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Stumm Church",
-                  "text": "A historicist church funded by the influential Stumm family, dominating the Neunkirchen skyline.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.20583,
+                        49.3453
+                  ]
             },
             {
                   "name": "Spitzbunker",
                   "text": "A rare, cigar-shaped air-raid shelter from World War II, preserved as a historical landmark.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168858,
+                        49.349709
+                  ]
             },
             {
                   "name": "Wagwiesental",
                   "text": "The central urban park of Neunkirchen, offering green spaces, trails, and leisure facilities.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.189639,
+                        49.343187
+                  ]
             }
       ]
 }
@@ -2153,31 +2537,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Schlossberghöhlen",
                   "text": "Europas größte Buntsandsteinhöhlen mit riesigen Domen und geheimnisvollen Gängen unter der Ruine Hohenburg.",
                   "category": "landmark",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Ruine Hohenburg",
-                  "text": "Die Überreste einer einst mächtigen Festungsanlage auf dem Schlossberg mit weitem Blick über das Saarland.",
-                  "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.34333,
+                        49.3211
+                  ]
             },
             {
                   "name": "Römermuseum Schwarzenacker",
                   "text": "Ein archäologisches Freilichtmuseum, das ausgegrabene Teile einer römischen Siedlung und Villen zeigt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.31663,
+                        49.2828
+                  ]
             },
             {
                   "name": "Schloss Karlsberg",
                   "text": "Die Ruinen einer ehemals prunkvollen barocken Schlossanlage im Wald, heute ein Ziel für Wanderer.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.37889,
+                        49.3347
+                  ]
             },
             {
                   "name": "Jägersburger Weiher",
                   "text": "Ein beliebtes Naherholungsgebiet mit Seen, Bootsverleih und einem Kletterpark am Stadtrand von Homburg.",
                   "category": "lake",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.312092,
+                        49.362156
+                  ]
             }
       ],
       "hu": [
@@ -2185,31 +2579,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Schlossbergi barlangok",
                   "text": "Európa legnagyobb tarka homokkő barlangrendszere hatalmas termekkel a Hohenburg várrom alatt.",
                   "category": "landmark",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Hohenburg várrom",
-                  "text": "Egy egykor hatalmas erődítmény maradványai a várhegyen, ahonnan csodás kilátás nyílik a Saar-vidékre.",
-                  "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.34333,
+                        49.3211
+                  ]
             },
             {
                   "name": "Schwarzenackeri Római Múzeum",
                   "text": "Régészeti szabadtéri múzeum, amely egy római kori település utcáit, házait és mozaikjait mutatja be.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.31663,
+                        49.2828
+                  ]
             },
             {
                   "name": "Karlsberg-kastély romjai",
                   "text": "Egy valaha pompás barokk kastély maradványai az erdő mélyén, amely ma kedvelt túracélpont.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.37889,
+                        49.3347
+                  ]
             },
             {
                   "name": "Jägersburgi-tavak",
                   "text": "Népszerű pihenőövezet tavakkal, csónakázási lehetőséggel és kalandparkkal Homburg határában.",
                   "category": "lake",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.312092,
+                        49.362156
+                  ]
             }
       ],
       "ro": [
@@ -2217,31 +2621,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Peșterile Schlossberg",
                   "text": "Cele mai mari peșteri de gresie colorată din Europa, cu domuri uriașe săpate sub ruinele cetății Hohenburg.",
                   "category": "landmark",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Ruinele Cetății Hohenburg",
-                  "text": "Vestigiile unei fortărețe medievale impunătoare situate pe dealul castelului, oferind o panoramă superbă.",
-                  "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.34333,
+                        49.3211
+                  ]
             },
             {
                   "name": "Muzeul Roman Schwarzenacker",
                   "text": "Un parc arheologic în aer liber care expune ruinele unui vicus roman, inclusiv case și ateliere reconstruite.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.31663,
+                        49.2828
+                  ]
             },
             {
                   "name": "Castelul Karlsberg",
                   "text": "Ruinele unui fost palat baroc grandios, situat într-o zonă împădurită ideală pentru drumeții istorice.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.37889,
+                        49.3347
+                  ]
             },
             {
                   "name": "Lacul Jägersburg",
                   "text": "Zonă de agrement cu lacuri, facilități pentru sporturi nautice și un parc de aventură în natură.",
                   "category": "lake",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.312092,
+                        49.362156
+                  ]
             }
       ],
       "en": [
@@ -2249,31 +2663,41 @@ export const poiExtraDe4b: POI[] = [
                   "name": "Schlossberg Caves",
                   "text": "Europe's largest colorful sandstone caves, featuring massive halls and tunnels underneath the Hohenburg ruins.",
                   "category": "landmark",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Hohenburg Castle Ruins",
-                  "text": "The remnants of a once powerful fortress on the Schlossberg hill, offering panoramic views over the Saarland.",
-                  "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.34333,
+                        49.3211
+                  ]
             },
             {
                   "name": "Schwarzenacker Roman Museum",
                   "text": "An open-air archaeological museum showcasing excavated Roman villas and a trade settlement.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.31663,
+                        49.2828
+                  ]
             },
             {
                   "name": "Karlsberg Castle Ruins",
                   "text": "The ruins of what was once a grand Baroque palace complex in the forest, now a destination for hikers.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.37889,
+                        49.3347
+                  ]
             },
             {
                   "name": "Jägersburg Ponds",
                   "text": "A popular recreation area with scenic lakes, boat rentals, and a high-ropes course on Homburg's outskirts.",
                   "category": "lake",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.312092,
+                        49.362156
+                  ]
             }
       ]
 }
@@ -2752,130 +3176,130 @@ export const poiExtraDe4b: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Vauban-Festung",
-                  "text": "Die historischen Festungsanlagen wurden im 17. Jahrhundert vom Baumeister Vauban im Auftrag von Ludwig XIV. als Grenzfestung errichtet.",
-                  "category": "landmark",
-                  "confidence": "high"
-            },
-            {
                   "name": "Großer Markt",
                   "text": "Der zentrale Marktplatz der Stadt diente einst als Exerzierplatz und beeindruckt heute durch seine streng geometrische, weitläufige Form.",
                   "category": "historic square",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Ludwigskirche",
-                  "text": "Ein bedeutendes barockes Gotteshaus am Großen Markt, das nach der Zerstörung im Zweiten Weltkrieg originalgetreu wieder aufgebaut wurde.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.75044,
+                        49.31558
+                  ]
             },
             {
                   "name": "Vauban-Insel",
                   "text": "Ehemals Teil der Verteidigungsanlagen, dient die Insel heute als grüner Park mit dem Denkmal des Marschalls Ney und kulturellen Events.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.744298,
+                        49.315394
+                  ]
             },
             {
                   "name": "Saarlouiser Rathaus",
                   "text": "Das Gebäude beherbergt den prachtvollen Gobelinsaal mit Wandteppichen, die Szenen aus der Geschichte der Stadt und Ludwig XIV. zeigen.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.746003,
+                        49.320985
+                  ]
             }
       ],
       "hu": [
             {
-                  "name": "Vauban-erőd",
-                  "text": "A 17. századi határvédelmi erődrendszert Vauban építőmester tervezte XIV. Lajos francia király megbízásából a Saar-folyó partján.",
-                  "category": "landmark",
-                  "confidence": "high"
-            },
-            {
                   "name": "Großer Markt",
                   "text": "A város központi tere, amely egykor katonai gyakorlótér volt, ma pedig tágas, geometrikus formájával uralja a belvárost.",
                   "category": "historic square",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Lajos-templom",
-                  "text": "A főtéren álló jelentős barokk katolikus templom, amelyet a második világháborús pusztítás után az eredeti tervek szerint építettek újjá.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.75044,
+                        49.31558
+                  ]
             },
             {
                   "name": "Vauban-sziget",
                   "text": "Az egykori erődítmény maradványain kialakított park, ahol Ney marsall emlékműve áll és szabadtéri kulturális programokat tartanak.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.744298,
+                        49.315394
+                  ]
             },
             {
                   "name": "Városháza",
                   "text": "A modern épület híres a Gobelin-terméről, ahol XIV. Lajos korát idéző értékes falikárpitok díszítik a tanácskozóhelyiséget.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.746003,
+                        49.320985
+                  ]
             }
       ],
       "ro": [
             {
-                  "name": "Fortăreața Vauban",
-                  "text": "Sistemul istoric de fortificații construit în secolul al XVII-lea de celebrul arhitect Vauban la ordinul regelui Ludovic al XIV-lea.",
-                  "category": "landmark",
-                  "confidence": "high"
-            },
-            {
                   "name": "Piața Mare",
                   "text": "Această piață centrală vastă a servit inițial ca teren de paradă militară și păstrează structura geometrică specifică planului francez.",
                   "category": "historic square",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Sfântul Ludovic",
-                  "text": "O biserică barocă emblematică situată în piața centrală, reconstruită cu grijă după ce a fost grav avariată în Al Doilea Război Mondial.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.75044,
+                        49.31558
+                  ]
             },
             {
                   "name": "Insula Vauban",
                   "text": "Fost element defensiv, insula este acum o zonă verde de recreere care găzduiește monumentul Mareșalului Ney și evenimente culturale.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.744298,
+                        49.315394
+                  ]
             },
             {
                   "name": "Primăria Saarlouis",
                   "text": "Sediul administrației orașului este cunoscut pentru Sala Goblenurilor, decorată cu tapiserii ce ilustrează istoria fondării cetății.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.746003,
+                        49.320985
+                  ]
             }
       ],
       "en": [
             {
-                  "name": "Vauban Fortress",
-                  "text": "A massive 17th-century fortification designed by Vauban for King Louis XIV to defend the French border along the Saar river.",
-                  "category": "landmark",
-                  "confidence": "high"
-            },
-            {
                   "name": "Großer Markt",
                   "text": "The city's expansive central square, originally a parade ground for the French garrison, reflecting the town's geometric layout.",
                   "category": "historic square",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Ludwig Church",
-                  "text": "A significant Baroque church on the main square, meticulously restored to its former glory after being destroyed during World War II.",
-                  "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.75044,
+                        49.31558
+                  ]
             },
             {
                   "name": "Vauban Island",
                   "text": "Once part of the outer defenses, this green island now features a monument to Marshal Ney and serves as a popular event venue.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.744298,
+                        49.315394
+                  ]
             },
             {
                   "name": "Saarlouis Town Hall",
                   "text": "The building is famous for its Gobelin Hall, which contains historical tapestries depicting the city's royal French heritage.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.746003,
+                        49.320985
+                  ]
             }
       ]
 }

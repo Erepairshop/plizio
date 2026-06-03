@@ -54,73 +54,121 @@ export const czechrepublicCitiesV2: POI[] = [
                   "name": "Karlsbrücke",
                   "text": "Eine ikonische Steinbrücke aus dem 14. Jahrhundert mit 30 Barockstatuen, die die Altstadt mit der Kleinseite verbindet.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.411944,
+                        50.086389
+                  ]
             },
             {
                   "name": "Prager Burg",
                   "text": "Das größte geschlossene Burgareal der Welt und historischer Sitz der böhmischen Könige sowie der heutigen Präsidenten.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.4,
+                        50.09
+                  ]
             },
             {
                   "name": "Altstädter Ring",
                   "text": "Der historische Marktplatz mit der Teynkirche und bunten Barockhäusern, bekannt für seine lebendige Atmosphäre.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.421389,
+                        50.0875
+                  ]
             },
             {
                   "name": "Veitsdom",
                   "text": "Ein gotisches Meisterwerk innerhalb der Burgmauern, das die Gräber böhmischer Könige und die Kronjuwelen beherbergt.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.400556,
+                        50.090833
+                  ]
             },
             {
                   "name": "Astronomische Uhr",
                   "text": "Eine mittelalterliche Rathausuhr, die zu jeder vollen Stunde ein Schauspiel mit den Figuren der Apostel bietet.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.420714,
+                        50.08698
+                  ]
             },
             {
                   "name": "Wenzelsplatz",
                   "text": "Das kulturelle und geschäftliche Zentrum der Prager Neustadt, Schauplatz vieler bedeutender historischer Ereignisse.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.426141,
+                        50.082308
+                  ]
             },
             {
                   "name": "Nationalmuseum",
                   "text": "Ein dominantes Neorenaissance-Gebäude am oberen Ende des Wenzelsplatzes mit umfangreichen historischen Sammlungen.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.423243,
+                        50.097073
+                  ]
             },
             {
                   "name": "Petřín-Aussichtsturm",
                   "text": "Ein 63 Meter hoher Stahlturm, der dem Eiffelturm nachempfunden ist und einen fantastischen Blick über die Stadt bietet.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.39505,
+                        50.083544
+                  ]
             },
             {
                   "name": "Jüdisches Viertel (Josefov)",
                   "text": "Ein geschichtsträchtiges Viertel mit gut erhaltenen Synagogen und dem beeindruckenden Alten Jüdischen Friedhof.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.4211,
+                        50.090285
+                  ]
             },
             {
                   "name": "Tanzendes Haus",
                   "text": "Ein modernes Architekturdenkmal von Frank Gehry, dessen geschwungene Glasfassade an ein tanzendes Paar erinnert.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.414167,
+                        50.075556
+                  ]
             },
             {
                   "name": "Vyšehrad",
                   "text": "Eine alte Festungsanlage auf einem Felsen über der Moldau mit einer Basilika und dem Friedhof berühmter Tschechen.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.417644,
+                        50.064427
+                  ]
             },
             {
                   "name": "Gemeindehaus (Obecní dům)",
                   "text": "Ein prächtiges Jugendstilgebäude, das für Konzerte genutzt wird und eines der schönsten Cafés der Stadt beherbergt.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.42824,
+                        50.08762
+                  ]
             }
       ],
       "hu": [
@@ -128,73 +176,121 @@ export const czechrepublicCitiesV2: POI[] = [
                   "name": "Károly híd",
                   "text": "Ikonikus 14. századi kőhíd 30 barokk szoborral, amely az Óvárost köti össze a Kisoldallal a Moldva felett.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.411944,
+                        50.086389
+                  ]
             },
             {
                   "name": "Prágai vár",
                   "text": "A világ egyik legnagyobb várkomplexuma, a cseh királyok ősi székhelye és a jelenlegi köztársasági elnöki palota.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.4,
+                        50.09
+                  ]
             },
             {
                   "name": "Óváros tér",
                   "text": "Prága történelmi szíve a Týn-templommal és színes polgárházakkal; itt található a híres Csillagászati óra is.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.421389,
+                        50.0875
+                  ]
             },
             {
                   "name": "Szent Vitus-székesegyház",
                   "text": "A vár területén álló gótikus remekmű, ahol a cseh királyok sírhelyei és a koronázási ékszerek találhatók.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.400556,
+                        50.090833
+                  ]
             },
             {
                   "name": "Orloj (Csillagászati óra)",
                   "text": "A régi városháza tornyán található középkori óra, amely minden órában az apostolok menetével szórakoztatja a nézőket.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.420714,
+                        50.08698
+                  ]
             },
             {
                   "name": "Vencel tér",
                   "text": "Prága kereskedelmi és kulturális központja az Újvárosban, számos történelmi politikai esemény színhelye.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.426141,
+                        50.082308
+                  ]
             },
             {
                   "name": "Nemzeti Múzeum",
                   "text": "Impozáns neoreneszánsz épület a Vencel tér felső végén, amely hatalmas tudományos és történelmi gyűjteménynek ad otthont.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.423243,
+                        50.097073
+                  ]
             },
             {
                   "name": "Petřín-kilátó",
                   "text": "Az Eiffel-torony mintájára épült 63 méteres acélszerkezet, ahonnan a legszebb kilátás nyílik Prága száz tornyára.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.39505,
+                        50.083544
+                  ]
             },
             {
                   "name": "Zsidó negyed (Josefov)",
                   "text": "Történelmi városrész épen maradt zsinagógákkal és a híres régi zsidó temetővel, az európai zsidó örökség fontos helyszíne.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.4211,
+                        50.090285
+                  ]
             },
             {
                   "name": "Táncoló ház",
                   "text": "Frank Gehry által tervezett modern építészeti különlegesség, amely formájával egy táncoló párt idéz meg a folyóparton.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.414167,
+                        50.075556
+                  ]
             },
             {
                   "name": "Vyšehrad",
                   "text": "Ősi erődítmény egy sziklán a Moldva felett, ahol egy gyönyörű bazilika és híres cseh személyiségek sírkertje található.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.417644,
+                        50.064427
+                  ]
             },
             {
                   "name": "Reprezentációs ház (Obecní dům)",
                   "text": "Prága legszebb szecessziós épülete, amely hangversenytermeknek, kiállításoknak és egy pazar kávézónak ad helyet.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.42824,
+                        50.08762
+                  ]
             }
       ],
       "ro": [
@@ -202,73 +298,121 @@ export const czechrepublicCitiesV2: POI[] = [
                   "name": "Podul Carol",
                   "text": "Un pod iconic din piatră din secolul al XIV-lea, decorat cu 30 de statui baroce, care leagă Orașul Vechi de Cartierul Mic.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.411944,
+                        50.086389
+                  ]
             },
             {
                   "name": "Castelul Praga",
                   "text": "Unul dintre cele mai mari complexe fortificate din lume, sediul istoric al regilor boemi și actuala reședință prezidențială.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.4,
+                        50.09
+                  ]
             },
             {
                   "name": "Piața Orașului Vechi",
                   "text": "Centrul istoric al orașului, înconjurat de clădiri colorate și Biserica Týn, faimos pentru atmosfera sa vibrantă.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.421389,
+                        50.0875
+                  ]
             },
             {
                   "name": "Catedrala Sfântul Vitus",
                   "text": "O capodoperă gotică situată în interiorul zidurilor castelului, adăpostind mormintele regilor Boemiei și Bijuteriile Coroanei.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.400556,
+                        50.090833
+                  ]
             },
             {
                   "name": "Ceasul Astronomic",
                   "text": "Un ceas medieval pe turnul Primăriei Vechi care oferă un spectacol orar cu figurine reprezentând apostolii.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.420714,
+                        50.08698
+                  ]
             },
             {
                   "name": "Piața Wenceslas",
                   "text": "Bulevardul central al Orașului Nou, centru al afacerilor și culturii, locul multor demonstrații politice istorice.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.426141,
+                        50.082308
+                  ]
             },
             {
                   "name": "Muzeul Național",
                   "text": "O clădire neo-renascentistă dominantă în vârful Pieței Wenceslas, găzduind vaste colecții științifice și istorice.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.423243,
+                        50.097073
+                  ]
             },
             {
                   "name": "Turnul Petřín",
                   "text": "Un turn de oțel de 63 de metri ce seamănă cu Turnul Eiffel, oferind cele mai bune vederi panoramice asupra Pragi.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.39505,
+                        50.083544
+                  ]
             },
             {
                   "name": "Cartierul Evreiesc (Josefov)",
                   "text": "Un district istoric cu sinagogi bine conservate și Cimitirul Evreiesc Vechi, reflectând secole de moștenire evreiască.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.4211,
+                        50.090285
+                  ]
             },
             {
                   "name": "Casa Dansantă",
                   "text": "Un reper arhitectural modern proiectat de Frank Gehry, a cărui formă curbată de sticlă seamănă cu o pereche de dansatori.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.414167,
+                        50.075556
+                  ]
             },
             {
                   "name": "Vyšehrad",
                   "text": "O fortăreață antică pe o stâncă deasupra râului Vltava, unde se află o basilică superbă și cimitirul personalităților cehe.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.417644,
+                        50.064427
+                  ]
             },
             {
                   "name": "Casa Municipală",
                   "text": "O clădire splendidă în stil Art Nouveau folosită pentru concerte și expoziții, având interioare somptuoase și o cafenea celebră.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.42824,
+                        50.08762
+                  ]
             }
       ],
       "en": [
@@ -276,73 +420,121 @@ export const czechrepublicCitiesV2: POI[] = [
                   "name": "Charles Bridge",
                   "text": "An iconic 14th-century stone bridge lined with 30 baroque statues, connecting the Old Town with the Lesser Quarter.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.411944,
+                        50.086389
+                  ]
             },
             {
                   "name": "Prague Castle",
                   "text": "One of the largest castle complexes in the world, serving as the historic seat of Czech kings and the current president.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.4,
+                        50.09
+                  ]
             },
             {
                   "name": "Old Town Square",
                   "text": "The historic center featuring the Týn Church and colorful buildings, famous for its lively atmosphere and seasonal markets.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.421389,
+                        50.0875
+                  ]
             },
             {
                   "name": "St. Vitus Cathedral",
                   "text": "A gothic masterpiece located within the castle walls, containing the tombs of Bohemian kings and the Crown Jewels.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.400556,
+                        50.090833
+                  ]
             },
             {
                   "name": "Astronomical Clock",
                   "text": "A medieval clock on the Old Town Hall that performs an hourly show with moving figures of the Apostles.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.420714,
+                        50.08698
+                  ]
             },
             {
                   "name": "Wenceslas Square",
                   "text": "A vast boulevard in the New Town serving as the center for business and culture, and the site of many historic events.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.426141,
+                        50.082308
+                  ]
             },
             {
                   "name": "National Museum",
                   "text": "A dominant Neo-Renaissance building housing vast scientific and historical collections at the top of Wenceslas Square.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.423243,
+                        50.097073
+                  ]
             },
             {
                   "name": "Petřín Lookout Tower",
                   "text": "A 63-meter steel tower resembling the Eiffel Tower, offering the best panoramic views of Prague's many spires.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.39505,
+                        50.083544
+                  ]
             },
             {
                   "name": "Jewish Quarter (Josefov)",
                   "text": "A historic district with preserved synagogues and the Old Jewish Cemetery, reflecting centuries of Jewish heritage in Prague.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.4211,
+                        50.090285
+                  ]
             },
             {
                   "name": "Dancing House",
                   "text": "A modern architectural landmark by Frank Gehry, known for its curved glass design that resembles a pair of dancers.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.414167,
+                        50.075556
+                  ]
             },
             {
                   "name": "Vyšehrad",
                   "text": "An ancient fortress on a rock above the Vltava river, home to a beautiful basilica and the cemetery of famous Czechs.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.417644,
+                        50.064427
+                  ]
             },
             {
                   "name": "Municipal House",
                   "text": "A stunning Art Nouveau building used for concerts and exhibitions, featuring lavish interiors and a famous grand cafe.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.42824,
+                        50.08762
+                  ]
             }
       ]
 }

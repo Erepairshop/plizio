@@ -51,203 +51,626 @@ export const poiExtraFranceCities: POI[] = [
                   "name": "Bastille von Grenoble",
                   "text": "Eine historische Festung auf einem Hügel, die einen spektakulären Panoramablick auf die Stadt und die Alpen bietet.",
                   "category": "fortress",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.720584,
+                        45.194977
+                  ]
             },
             {
                   "name": "Seilbahn von Grenoble",
                   "text": "Berühmt für ihre kugelförmigen Kabinen, die 'Bulles', verbindet sie das Stadtzentrum mit der Bastille-Festung.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.726033,
+                        45.193069
+                  ]
             },
             {
                   "name": "Museum von Grenoble",
                   "text": "Eines der bedeutendsten Kunstmuseen Frankreichs mit einer beeindruckenden Sammlung von der Antike bis zur Moderne.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.7324,
+                        45.1945
+                  ]
             },
             {
                   "name": "Place Grenette",
                   "text": "Der zentrale Platz der Stadt, gesäumt von Cafés und Geschäften, und ein beliebter Treffpunkt für Einheimische.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.72741,
+                        45.19088
+                  ]
             },
             {
                   "name": "Jardin de Ville",
                   "text": "Ein charmanter Park im Herzen von Grenoble, der einst der Garten des Herzogs von Lesdiguières war.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.72663,
+                        45.19223
+                  ]
             },
             {
                   "name": "Kathedrale Notre-Dame",
                   "text": "Ein religiöses Bauwerk aus dem 13. Jahrhundert, das für sein außergewöhnliches Ziborium aus dem 15. Jahrhundert bekannt ist.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.732105,
+                        45.192561
+                  ]
+            },
+            {
+                  "name": "Musée de l'Ancien Évêché",
+                  "text": "In einem ehemaligen Bischofspalast untergebracht, zeigt dieses Museum die Geschichte des Isère-Departements von der Antike bis heute.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.73217,
+                        45.192822
+                  ]
+            },
+            {
+                  "name": "Parc Paul Mistral",
+                  "text": "Der größte Stadtpark von Grenoble beherbergt den markanten Perret-Turm und war Schauplatz der Weltausstellung von 1925.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.738297,
+                        45.185356
+                  ]
+            },
+            {
+                  "name": "Tour Perret",
+                  "text": "Dieser 1925 errichtete Aussichtsturm ist der erste in Europa aus Stahlbeton gebaute Turm und ein Wahrzeichen der Stadt.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.735278,
+                        45.184722
+                  ]
+            },
+            {
+                  "name": "Place Victor Hugo",
+                  "text": "Ein eleganter Platz im Stadtzentrum, bekannt für seine Brunnen, Blumenmärkte und prächtige Haussmann-Architektur.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.724067,
+                        45.18863
+                  ]
+            },
+            {
+                  "name": "Muséum d'histoire naturelle de Grenoble",
+                  "text": "Es beherbergt reiche Sammlungen zur Fauna und Geologie der Alpen und verfügt über einen wunderschönen botanischen Garten.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.73519,
+                        45.188
+                  ]
+            },
+            {
+                  "name": "Passerelle Saint-Laurent",
+                  "text": "Diese historische Fußgängerbrücke über die Isère verbindet das Stadtzentrum mit dem malerischen Viertel Saint-Laurent.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.72919,
+                        45.1942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "Eine Barockkirche aus dem 17. Jahrhundert, gewidmet dem heiligen Ludwig, gelegen direkt am geschäftigen Place Victor Hugo.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.725819,
+                        45.189728
+                  ]
+            },
+            {
+                  "name": "Le Magasin - CNAC",
+                  "text": "Ein renommiertes Zentrum für zeitgenössische Kunst, untergebracht in einer von Gustave Eiffel entworfenen Industriehalle.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.718458,
+                        45.188164
+                  ]
             }
-      ,
-            { "name": "Musée de l'Ancien Évêché", "text": "In einem ehemaligen Bischofspalast untergebracht, zeigt dieses Museum die Geschichte des Isère-Departements von der Antike bis heute.", "category": "museum", "confidence": "high" },
-            { "name": "Parc Paul Mistral", "text": "Der größte Stadtpark von Grenoble beherbergt den markanten Perret-Turm und war Schauplatz der Weltausstellung von 1925.", "category": "natural", "confidence": "high" },
-            { "name": "Tour Perret", "text": "Dieser 1925 errichtete Aussichtsturm ist der erste in Europa aus Stahlbeton gebaute Turm und ein Wahrzeichen der Stadt.", "category": "civic", "confidence": "high" },
-            { "name": "Place Victor Hugo", "text": "Ein eleganter Platz im Stadtzentrum, bekannt für seine Brunnen, Blumenmärkte und prächtige Haussmann-Architektur.", "category": "civic", "confidence": "high" },
-            { "name": "Muséum d'histoire naturelle de Grenoble", "text": "Es beherbergt reiche Sammlungen zur Fauna und Geologie der Alpen und verfügt über einen wunderschönen botanischen Garten.", "category": "museum", "confidence": "high" },
-            { "name": "Passerelle Saint-Laurent", "text": "Diese historische Fußgängerbrücke über die Isère verbindet das Stadtzentrum mit dem malerischen Viertel Saint-Laurent.", "category": "civic", "confidence": "high" },
-            { "name": "Église Saint-Louis", "text": "Eine Barockkirche aus dem 17. Jahrhundert, gewidmet dem heiligen Ludwig, gelegen direkt am geschäftigen Place Victor Hugo.", "category": "religious", "confidence": "high" },
-            { "name": "Crypte Saint-Laurent", "text": "Eine bedeutende archäologische Stätte mit Überresten aus dem 6. Jahrhundert, die die frühe christliche Geschichte der Stadt zeigt.", "category": "historical", "confidence": "high" },
-            { "name": "Le Magasin - CNAC", "text": "Ein renommiertes Zentrum für zeitgenössische Kunst, untergebracht in einer von Gustave Eiffel entworfenen Industriehalle.", "category": "cultural", "confidence": "high" }
-        ],
+      ],
       "hu": [
             {
                   "name": "Grenoble-i Bastille",
                   "text": "A város fölé magasodó erődrendszer, ahonnan lélegzetelállító kilátás nyílik az Alpokra és a völgyre.",
                   "category": "fortress",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.720584,
+                        45.194977
+                  ]
             },
             {
                   "name": "Grenoble-i felvonó",
                   "text": "A 'Buborékokként' ismert ikonikus kerek kabinok a városközpontból repítik a látogatókat a Bastille erődbe.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.726033,
+                        45.193069
+                  ]
             },
             {
                   "name": "Grenoble-i Múzeum",
                   "text": "Franciaország egyik legfontosabb szépművészeti múzeuma, antik és modern remekművek gazdag gyűjteményével.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.7324,
+                        45.1945
+                  ]
             },
             {
                   "name": "Place Grenette",
                   "text": "A város nyüzsgő központi tere, amely tele van teraszos kávézókkal, éttermekkel és elegáns üzletekkel.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.72741,
+                        45.19088
+                  ]
             },
             {
                   "name": "Városi kert",
                   "text": "Grenoble szívében található történelmi park, amely ideális hely egy sétára az óváros felfedezése közben.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.72663,
+                        45.19223
+                  ]
             },
             {
                   "name": "Notre-Dame székesegyház",
                   "text": "Középkori katedrális, amely különleges belső díszítéséről és vallástörténeti jelentőségéről ismert.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.732105,
+                        45.192561
+                  ]
+            },
+            {
+                  "name": "Musée de l'Ancien Évêché",
+                  "text": "Az egykori püspöki palotában berendezett múzeum Isère megye történelmét mutatja be az ókortól napjainkig.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.73217,
+                        45.192822
+                  ]
+            },
+            {
+                  "name": "Parc Paul Mistral",
+                  "text": "Grenoble legnagyobb városi parkja ad otthont a Perret-toronynak, és az 1925-ös nemzetközi kiállítás helyszíne volt.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.738297,
+                        45.185356
+                  ]
+            },
+            {
+                  "name": "Tour Perret",
+                  "text": "Ez az 1925-ben emelt kilátótorony Európa első vasbetonból készült tornya, és a város egyik ikonikus jelképe.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.735278,
+                        45.184722
+                  ]
+            },
+            {
+                  "name": "Place Victor Hugo",
+                  "text": "Elegáns tér a városközpontban, amely szökőkútjairól, virágpiacairól és pompás Haussmann-stílusú épületeiről ismert.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.724067,
+                        45.18863
+                  ]
+            },
+            {
+                  "name": "Muséum d'histoire naturelle de Grenoble",
+                  "text": "Gazdag gyűjteményekkel rendelkezik az Alpok állatvilágáról és geológiájáról, valamint egy gyönyörű botanikus kerttel.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.73519,
+                        45.188
+                  ]
+            },
+            {
+                  "name": "Passerelle Saint-Laurent",
+                  "text": "Ez a történelmi gyalogoshíd az Isère folyó felett köti össze a városközpontot a festői Saint-Laurent negyeddel.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.72919,
+                        45.1942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "17. századi barokk templom, amelyet Szent Lajosnak szenteltek, és közvetlenül a forgalmas Place Victor Hugo mellett található.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.725819,
+                        45.189728
+                  ]
+            },
+            {
+                  "name": "Le Magasin - CNAC",
+                  "text": "Neves kortárs művészeti központ, amely egy Gustave Eiffel által tervezett egykori ipari csarnokban kapott helyet.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.718458,
+                        45.188164
+                  ]
             }
-      ,
-            { "name": "Musée de l'Ancien Évêché", "text": "Az egykori püspöki palotában berendezett múzeum Isère megye történelmét mutatja be az ókortól napjainkig.", "category": "museum", "confidence": "high" },
-            { "name": "Parc Paul Mistral", "text": "Grenoble legnagyobb városi parkja ad otthont a Perret-toronynak, és az 1925-ös nemzetközi kiállítás helyszíne volt.", "category": "natural", "confidence": "high" },
-            { "name": "Tour Perret", "text": "Ez az 1925-ben emelt kilátótorony Európa első vasbetonból készült tornya, és a város egyik ikonikus jelképe.", "category": "civic", "confidence": "high" },
-            { "name": "Place Victor Hugo", "text": "Elegáns tér a városközpontban, amely szökőkútjairól, virágpiacairól és pompás Haussmann-stílusú épületeiről ismert.", "category": "civic", "confidence": "high" },
-            { "name": "Muséum d'histoire naturelle de Grenoble", "text": "Gazdag gyűjteményekkel rendelkezik az Alpok állatvilágáról és geológiájáról, valamint egy gyönyörű botanikus kerttel.", "category": "museum", "confidence": "high" },
-            { "name": "Passerelle Saint-Laurent", "text": "Ez a történelmi gyalogoshíd az Isère folyó felett köti össze a városközpontot a festői Saint-Laurent negyeddel.", "category": "civic", "confidence": "high" },
-            { "name": "Église Saint-Louis", "text": "17. századi barokk templom, amelyet Szent Lajosnak szenteltek, és közvetlenül a forgalmas Place Victor Hugo mellett található.", "category": "religious", "confidence": "high" },
-            { "name": "Crypte Saint-Laurent", "text": "Jelentős régészeti lelőhely 6. századi maradványokkal, amely a város korai keresztény történelmét mutatja be.", "category": "historical", "confidence": "high" },
-            { "name": "Le Magasin - CNAC", "text": "Neves kortárs művészeti központ, amely egy Gustave Eiffel által tervezett egykori ipari csarnokban kapott helyet.", "category": "cultural", "confidence": "high" }
-        ],
+      ],
       "ro": [
             {
                   "name": "Fortăreața Bastille",
                   "text": "O fortificație istorică situată pe un munte, oferind o vedere panoramică superbă asupra orașului și Alpilor.",
                   "category": "fortress",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.720584,
+                        45.194977
+                  ]
             },
             {
                   "name": "Telecabina din Grenoble",
                   "text": "Cunoscută sub numele de 'Bulele', această telecabină iconică transportă turiștii din centrul orașului până la Bastille.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.726033,
+                        45.193069
+                  ]
             },
             {
                   "name": "Muzeul din Grenoble",
                   "text": "Unul dintre cele mai mari muzee de artă din Franța, cu o colecție impresionantă ce acoperă mai multe milenii.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.7324,
+                        45.1945
+                  ]
             },
             {
                   "name": "Piața Grenette",
                   "text": "Inima pulsândă a orașului, plină de viață, cafenele primitoare și magazine, fiind principalul loc de întâlnire.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.72741,
+                        45.19088
+                  ]
             },
             {
                   "name": "Grădina Orașului",
                   "text": "Un parc elegant și liniștit în zona centrală, fostă proprietate a ducelui de Lesdiguières, ideal pentru relaxare.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.72663,
+                        45.19223
+                  ]
             },
             {
                   "name": "Catedrala Notre-Dame",
                   "text": "O catedrală catolică veche ce îmbină stiluri arhitecturale diverse, situată în cartierul istoric al orașului.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.732105,
+                        45.192561
+                  ]
+            },
+            {
+                  "name": "Musée de l'Ancien Évêché",
+                  "text": "Găzduit într-un fost palat episcopal, acest muzeu prezintă istoria departamentului Isère din antichitate până în prezent.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.73217,
+                        45.192822
+                  ]
+            },
+            {
+                  "name": "Parc Paul Mistral",
+                  "text": "Cel mai mare parc urban din Grenoble găzduiește Turnul Perret și a fost locul Expoziției Internaționale din 1925.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.738297,
+                        45.185356
+                  ]
+            },
+            {
+                  "name": "Tour Perret",
+                  "text": "Acest turn de observație ridicat în 1925 este primul turn din beton armat construit în Europa și un simbol al orașului.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.735278,
+                        45.184722
+                  ]
+            },
+            {
+                  "name": "Place Victor Hugo",
+                  "text": "O piață elegantă din centrul orașului, cunoscută pentru fântânile sale, piețele de flori și arhitectura Haussmann splendidă.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.724067,
+                        45.18863
+                  ]
+            },
+            {
+                  "name": "Muséum d'histoire naturelle de Grenoble",
+                  "text": "Deține colecții bogate despre fauna și geologia Alpilor și dispune de o grădină botanică minunată.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.73519,
+                        45.188
+                  ]
+            },
+            {
+                  "name": "Passerelle Saint-Laurent",
+                  "text": "Această punte pietonală istorică peste râul Isère leagă centrul orașului de cartierul pitoresc Saint-Laurent.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.72919,
+                        45.1942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "O biserică barocă din secolul al XVII-lea dedicată Sfântului Ludovic, situată chiar lângă piața animată Victor Hugo.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.725819,
+                        45.189728
+                  ]
+            },
+            {
+                  "name": "Le Magasin - CNAC",
+                  "text": "Un centru renumit de artă contemporană, găzduit într-o hală industrială proiectată de Gustave Eiffel.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.718458,
+                        45.188164
+                  ]
             }
-      ,
-            { "name": "Musée de l'Ancien Évêché", "text": "Găzduit într-un fost palat episcopal, acest muzeu prezintă istoria departamentului Isère din antichitate până în prezent.", "category": "museum", "confidence": "high" },
-            { "name": "Parc Paul Mistral", "text": "Cel mai mare parc urban din Grenoble găzduiește Turnul Perret și a fost locul Expoziției Internaționale din 1925.", "category": "natural", "confidence": "high" },
-            { "name": "Tour Perret", "text": "Acest turn de observație ridicat în 1925 este primul turn din beton armat construit în Europa și un simbol al orașului.", "category": "civic", "confidence": "high" },
-            { "name": "Place Victor Hugo", "text": "O piață elegantă din centrul orașului, cunoscută pentru fântânile sale, piețele de flori și arhitectura Haussmann splendidă.", "category": "civic", "confidence": "high" },
-            { "name": "Muséum d'histoire naturelle de Grenoble", "text": "Deține colecții bogate despre fauna și geologia Alpilor și dispune de o grădină botanică minunată.", "category": "museum", "confidence": "high" },
-            { "name": "Passerelle Saint-Laurent", "text": "Această punte pietonală istorică peste râul Isère leagă centrul orașului de cartierul pitoresc Saint-Laurent.", "category": "civic", "confidence": "high" },
-            { "name": "Église Saint-Louis", "text": "O biserică barocă din secolul al XVII-lea dedicată Sfântului Ludovic, situată chiar lângă piața animată Victor Hugo.", "category": "religious", "confidence": "high" },
-            { "name": "Crypte Saint-Laurent", "text": "Un sit arheologic important cu vestigii din secolul al VI-lea, care prezintă istoria creștină timpurie a orașului.", "category": "historical", "confidence": "high" },
-            { "name": "Le Magasin - CNAC", "text": "Un centru renumit de artă contemporană, găzduit într-o hală industrială proiectată de Gustave Eiffel.", "category": "cultural", "confidence": "high" }
-        ],
+      ],
       "en": [
             {
                   "name": "Bastille of Grenoble",
                   "text": "A 19th-century fortress complex on a hill offering panoramic views of the city and the surrounding Alps.",
                   "category": "fortress",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.720584,
+                        45.194977
+                  ]
             },
             {
                   "name": "Grenoble Bastille Cable Car",
                   "text": "Famous for its spherical cabins called 'The Bubbles', it connects the Isère river bank to the Bastille fortress.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.726033,
+                        45.193069
+                  ]
             },
             {
                   "name": "Museum of Grenoble",
                   "text": "A leading French art museum with a rich collection of fine arts, ranging from antiquity to modern masterpieces.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.7324,
+                        45.1945
+                  ]
             },
             {
                   "name": "Place Grenette",
                   "text": "The vibrant main square of Grenoble, known for its historic fountain, outdoor cafes, and central atmosphere.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.72741,
+                        45.19088
+                  ]
             },
             {
                   "name": "Jardin de Ville",
                   "text": "A historic public park in the city center, once the private garden of the Duke of Lesdiguières.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.72663,
+                        45.19223
+                  ]
             },
             {
                   "name": "Notre-Dame Cathedral",
                   "text": "A historic cathedral dating back to the 13th century, located in the heart of the old town's religious center.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.732105,
+                        45.192561
+                  ]
+            },
+            {
+                  "name": "Musée de l'Ancien Évêché",
+                  "text": "Located in a former bishop's palace, this museum showcases the history of the Isère department from antiquity to the present day.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.73217,
+                        45.192822
+                  ]
+            },
+            {
+                  "name": "Parc Paul Mistral",
+                  "text": "The largest urban park in Grenoble is home to the Perret Tower and was the site of the 1925 International Exhibition.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.738297,
+                        45.185356
+                  ]
+            },
+            {
+                  "name": "Tour Perret",
+                  "text": "Built in 1925, this observation tower is the first tower in Europe constructed from reinforced concrete and a city landmark.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.735278,
+                        45.184722
+                  ]
+            },
+            {
+                  "name": "Place Victor Hugo",
+                  "text": "An elegant square in the city center, known for its fountains, flower markets, and magnificent Haussmann-style architecture.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.724067,
+                        45.18863
+                  ]
+            },
+            {
+                  "name": "Muséum d'histoire naturelle de Grenoble",
+                  "text": "It houses rich collections on the fauna and geology of the Alps and features a beautiful botanical garden.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.73519,
+                        45.188
+                  ]
+            },
+            {
+                  "name": "Passerelle Saint-Laurent",
+                  "text": "This historic pedestrian bridge over the Isère river connects the city center with the picturesque Saint-Laurent district.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.72919,
+                        45.1942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "A 17th-century Baroque church dedicated to Saint Louis, located right next to the busy Place Victor Hugo.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.725819,
+                        45.189728
+                  ]
+            },
+            {
+                  "name": "Le Magasin - CNAC",
+                  "text": "A renowned contemporary art center housed in a former industrial hall designed by Gustave Eiffel.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.718458,
+                        45.188164
+                  ]
             }
-      ,
-            { "name": "Musée de l'Ancien Évêché", "text": "Located in a former bishop's palace, this museum showcases the history of the Isère department from antiquity to the present day.", "category": "museum", "confidence": "high" },
-            { "name": "Parc Paul Mistral", "text": "The largest urban park in Grenoble is home to the Perret Tower and was the site of the 1925 International Exhibition.", "category": "natural", "confidence": "high" },
-            { "name": "Tour Perret", "text": "Built in 1925, this observation tower is the first tower in Europe constructed from reinforced concrete and a city landmark.", "category": "civic", "confidence": "high" },
-            { "name": "Place Victor Hugo", "text": "An elegant square in the city center, known for its fountains, flower markets, and magnificent Haussmann-style architecture.", "category": "civic", "confidence": "high" },
-            { "name": "Muséum d'histoire naturelle de Grenoble", "text": "It houses rich collections on the fauna and geology of the Alps and features a beautiful botanical garden.", "category": "museum", "confidence": "high" },
-            { "name": "Passerelle Saint-Laurent", "text": "This historic pedestrian bridge over the Isère river connects the city center with the picturesque Saint-Laurent district.", "category": "civic", "confidence": "high" },
-            { "name": "Église Saint-Louis", "text": "A 17th-century Baroque church dedicated to Saint Louis, located right next to the busy Place Victor Hugo.", "category": "religious", "confidence": "high" },
-            { "name": "Crypte Saint-Laurent", "text": "A significant archaeological site with remains dating back to the 6th century, showcasing the city's early Christian history.", "category": "historical", "confidence": "high" },
-            { "name": "Le Magasin - CNAC", "text": "A renowned contemporary art center housed in a former industrial hall designed by Gustave Eiffel.", "category": "cultural", "confidence": "high" }
-        ]
-,
+      ],
       "fr": [
-        { "name": "Bastille de Grenoble", "text": "Forteresse historique sur une colline offrant une vue panoramique spectaculaire sur la ville et les Alpes.", "category": "fortress" },
-        { "name": "Téléphérique de Grenoble", "text": "Célèbre pour ses cabines sphériques, les 'Bulles', reliant le centre-ville à la forteresse de la Bastille.", "category": "recreational" },
-        { "name": "Musée de Grenoble", "text": "L'un des musées d'art les plus prestigieux de France avec une collection allant de l'Antiquité à la modernité.", "category": "museum" },
-        { "name": "Place Grenette", "text": "Place centrale bordée de cafés et commerces, lieu de rencontre privilégié des habitants.", "category": "civic" },
-        { "name": "Jardin de Ville", "text": "Charmant parc au cœur de Grenoble, autrefois jardin privé du duc de Lesdiguières.", "category": "recreational" },
-        { "name": "Cathédrale Notre-Dame", "text": "Édifice religieux du XIIIe siècle, réputé pour son ciborium exceptionnel du XVe siècle.", "category": "religious" }
+            {
+                  "name": "Bastille de Grenoble",
+                  "text": "Forteresse historique sur une colline offrant une vue panoramique spectaculaire sur la ville et les Alpes.",
+                  "category": "fortress",
+                  "coords": [
+                        5.720584,
+                        45.194977
+                  ]
+            },
+            {
+                  "name": "Téléphérique de Grenoble",
+                  "text": "Célèbre pour ses cabines sphériques, les 'Bulles', reliant le centre-ville à la forteresse de la Bastille.",
+                  "category": "recreational",
+                  "coords": [
+                        5.726033,
+                        45.193069
+                  ]
+            },
+            {
+                  "name": "Musée de Grenoble",
+                  "text": "L'un des musées d'art les plus prestigieux de France avec une collection allant de l'Antiquité à la modernité.",
+                  "category": "museum",
+                  "coords": [
+                        5.7324,
+                        45.1945
+                  ]
+            },
+            {
+                  "name": "Place Grenette",
+                  "text": "Place centrale bordée de cafés et commerces, lieu de rencontre privilégié des habitants.",
+                  "category": "civic",
+                  "coords": [
+                        5.72741,
+                        45.19088
+                  ]
+            },
+            {
+                  "name": "Jardin de Ville",
+                  "text": "Charmant parc au cœur de Grenoble, autrefois jardin privé du duc de Lesdiguières.",
+                  "category": "recreational",
+                  "coords": [
+                        5.72663,
+                        45.19223
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame",
+                  "text": "Édifice religieux du XIIIe siècle, réputé pour son ciborium exceptionnel du XVe siècle.",
+                  "category": "religious",
+                  "coords": [
+                        5.732105,
+                        45.192561
+                  ]
+            }
       ]
-    }
+}
   },
   
   {
@@ -557,203 +980,666 @@ export const poiExtraFranceCities: POI[] = [
                   "name": "Kathedrale Notre-Dame de Rouen",
                   "text": "Diese prächtige gotische Kathedrale ist berühmt für ihre Fassade, die Claude Monet in einer Serie von Gemälden festhielt.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.095,
+                        49.4402
+                  ]
             },
             {
                   "name": "Le Gros-Horloge",
                   "text": "Eine astronomische Uhr aus dem 14. Jahrhundert, die in einem Renaissance-Bogen über einer belebten Straße der Altstadt thront.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.091834,
+                        49.441402
+                  ]
             },
             {
                   "name": "Place du Vieux-Marché",
                   "text": "Der historische Marktplatz, auf dem Johanna von Orleans 1431 hingerichtet wurde, beherbergt heute eine moderne Gedenkkirche.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.088363,
+                        49.443231
+                  ]
             },
             {
                   "name": "Musée des Beaux-Arts de Rouen",
                   "text": "Eines der bedeutendsten Kunstmuseen Frankreichs mit einer beeindruckenden Sammlung impressionistischer Werke und Skulpturen.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.094722,
+                        49.444722
+                  ]
             },
             {
                   "name": "Abteikirche Saint-Ouen",
                   "text": "Ein Meisterwerk der Spätgotik, bekannt für seine gewaltigen Ausmaße und die berühmte Cavaillé-Coll-Orgel im Innenraum.",
                   "category": "monastic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.099722,
+                        49.4425
+                  ]
             },
             {
                   "name": "Palais de Justice",
                   "text": "Das ehemalige Parlament der Normandie ist ein herausragendes Beispiel für die zivile Architektur der späten Gotik und Renaissance.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.09105,
+                        49.4426
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne-d'Arc",
+                  "text": "Moderne Kirche mit geschwungenen Linien, erbaut 1979 an der Stelle, wo Jeanne d'Arc hingerichtet wurde.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.08834,
+                        49.44295
+                  ]
+            },
+            {
+                  "name": "Musée Le Secq des Tournelles",
+                  "text": "Einzigartige Sammlung von Schmiedeeisenkunst aus mehreren Jahrhunderten in einer alten Kirche.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.095,
+                        49.4444
+                  ]
+            },
+            {
+                  "name": "Historial Jeanne d'Arc",
+                  "text": "Innovatives interaktives Museum im erzbischöflichen Palast, das dem Schicksal der Nationalheldin gewidmet ist.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.0959,
+                        49.4404
+                  ]
+            },
+            {
+                  "name": "Jardin des Plantes de Rouen",
+                  "text": "Zehn Hektar großer botanischer Garten mit bedeutenden Gewächshäusern und einer nationalen Kameliensammlung.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.0771,
+                        49.4221
+                  ]
+            },
+            {
+                  "name": "Donjon de Rouen",
+                  "text": "Auch Tour Jeanne-d'Arc genannt; der letzte Überrest des Schlosses von Philipp August aus dem 13. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.094529,
+                        49.44631
+                  ]
+            },
+            {
+                  "name": "Aître Saint-Maclou",
+                  "text": "Ein ehemaliger Pestfriedhof aus dem 16. Jahrhundert mit faszinierenden Makaber-Schnitzereien an den Fassaden.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.09988,
+                        49.4403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maclou",
+                  "text": "Ein Meisterwerk der Flamboyant-Gotik, berühmt für seine fünfseitige Fassade und kunstvolle Renaissancetüren.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.098381,
+                        49.439782
+                  ]
+            },
+            {
+                  "name": "Pont Gustave-Flaubert",
+                  "text": "Die höchste Hubbrücke Europas und ein modernes Wahrzeichen Rouens, das die Schifffahrt auf der Seine ermöglicht.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        1.064167,
+                        49.443611
+                  ]
+            },
+            {
+                  "name": "Panorama de la Côte Sainte-Catherine",
+                  "text": "Ein Hügel am Stadtrand, der den ikonischsten Panoramablick auf Rouen, die Kathedrale und die Seine bietet.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.109873,
+                        49.433602
+                  ]
             }
-      ,
-            { "name": "Église Sainte-Jeanne-d'Arc", "text": "Moderne Kirche mit geschwungenen Linien, erbaut 1979 an der Stelle, wo Jeanne d'Arc hingerichtet wurde.", "category": "religious", "confidence": "high" },
-            { "name": "Musée Le Secq des Tournelles", "text": "Einzigartige Sammlung von Schmiedeeisenkunst aus mehreren Jahrhunderten in einer alten Kirche.", "category": "museum", "confidence": "high" },
-            { "name": "Historial Jeanne d'Arc", "text": "Innovatives interaktives Museum im erzbischöflichen Palast, das dem Schicksal der Nationalheldin gewidmet ist.", "category": "museum", "confidence": "high" },
-            { "name": "Jardin des Plantes de Rouen", "text": "Zehn Hektar großer botanischer Garten mit bedeutenden Gewächshäusern und einer nationalen Kameliensammlung.", "category": "natural", "confidence": "high" },
-            { "name": "Donjon de Rouen", "text": "Auch Tour Jeanne-d'Arc genannt; der letzte Überrest des Schlosses von Philipp August aus dem 13. Jahrhundert.", "category": "historical", "confidence": "high" },
-            { "name": "Aître Saint-Maclou", "text": "Ein ehemaliger Pestfriedhof aus dem 16. Jahrhundert mit faszinierenden Makaber-Schnitzereien an den Fassaden.", "category": "historical", "confidence": "high" },
-            { "name": "Église Saint-Maclou", "text": "Ein Meisterwerk der Flamboyant-Gotik, berühmt für seine fünfseitige Fassade und kunstvolle Renaissancetüren.", "category": "religious", "confidence": "high" },
-            { "name": "Pont Gustave-Flaubert", "text": "Die höchste Hubbrücke Europas und ein modernes Wahrzeichen Rouens, das die Schifffahrt auf der Seine ermöglicht.", "category": "civic", "confidence": "high" },
-            { "name": "Panorama de la Côte Sainte-Catherine", "text": "Ein Hügel am Stadtrand, der den ikonischsten Panoramablick auf Rouen, die Kathedrale und die Seine bietet.", "category": "natural", "confidence": "high" }
-        ],
+      ],
       "hu": [
             {
                   "name": "Roueni székesegyház",
                   "text": "A lenyűgöző gótikus katedrális homlokzatát Claude Monet tette világhírűvé festménysorozatával, melyet különböző fényekben alkotott.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.095,
+                        49.4402
+                  ]
             },
             {
                   "name": "Gros-Horloge csillagászati óra",
                   "text": "Egy 14. századi csillagászati óra, amely egy díszes reneszánsz kapuíven látható Rouen egyik legszebb sétálóutcája felett.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.091834,
+                        49.441402
+                  ]
             },
             {
                   "name": "Régi piactér",
                   "text": "Ezen a történelmi téren végezték ki Jeanne d'Arcot 1431-ben; ma egy modern emléktemplom és számos étterem található itt.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.088363,
+                        49.443231
+                  ]
             },
             {
                   "name": "Roueni Szépművészeti Múzeum",
                   "text": "Franciaország egyik leggazdagabb művészeti gyűjteménye, amely különösen erős az impresszionista alkotások és barokk festmények terén.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.094722,
+                        49.444722
+                  ]
             },
             {
                   "name": "Saint-Ouen apátsági templom",
                   "text": "Hatalmas gótikus épület, amely méreteivel és letisztult formáival a város egyik legfontosabb egyházi műemléke és orgonája híres.",
                   "category": "monastic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.099722,
+                        49.4425
+                  ]
             },
             {
                   "name": "Igazságügyi Palota",
                   "text": "A normandiai parlament egykori székhelye a késő gótikus civil építészet egyik legszebb és legrészletesebb példája Európában.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.09105,
+                        49.4426
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne-d'Arc",
+                  "text": "Modern, íves vonalvezetésű templom, amely 1979-ben épült Jeanne d’Arc kivégzésének pontos helyszínén.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.08834,
+                        49.44295
+                  ]
+            },
+            {
+                  "name": "Musée Le Secq des Tournelles",
+                  "text": "Több évszázad kovácsoltvas művészeti alkotásait bemutató egyedülálló gyűjtemény egy régi templomban.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.095,
+                        49.4444
+                  ]
+            },
+            {
+                  "name": "Historial Jeanne d'Arc",
+                  "text": "Innovatív és interaktív múzeum az érseki palotában, amely a francia nemzeti hős sorsát mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.0959,
+                        49.4404
+                  ]
+            },
+            {
+                  "name": "Jardin des Plantes de Rouen",
+                  "text": "Tízhektáros botanikus kert jelentős növényházakkal és egy országos hírű kaméliagyűjteménnyel.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.0771,
+                        49.4221
+                  ]
+            },
+            {
+                  "name": "Donjon de Rouen",
+                  "text": "Jeanne d’Arc tornyának is hívják; Fülöp Ágost 13. századi várának utolsó épségben maradt maradványa.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.094529,
+                        49.44631
+                  ]
+            },
+            {
+                  "name": "Aître Saint-Maclou",
+                  "text": "16. századi egykori pestistemető, amelynek udvarát különleges, haláltáncot ábrázoló faragványok díszítik.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.09988,
+                        49.4403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maclou",
+                  "text": "A lángoló gótika remekműve, amely ötoldalú homlokzatáról és faragott reneszánsz kapuiról híres.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.098381,
+                        49.439782
+                  ]
+            },
+            {
+                  "name": "Pont Gustave-Flaubert",
+                  "text": "Európa legmagasabb emelőhídja és Rouen modern jelképe, amely lehetővé teszi a hajózást a Szajnán.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        1.064167,
+                        49.443611
+                  ]
+            },
+            {
+                  "name": "Panorama de la Côte Sainte-Catherine",
+                  "text": "A város szélén található domb, ahonnan a legszebb panoráma nyílik Rouenre, a katedrálisra és a Szajnára.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.109873,
+                        49.433602
+                  ]
             }
-      ,
-            { "name": "Église Sainte-Jeanne-d'Arc", "text": "Modern, íves vonalvezetésű templom, amely 1979-ben épült Jeanne d’Arc kivégzésének pontos helyszínén.", "category": "religious", "confidence": "high" },
-            { "name": "Musée Le Secq des Tournelles", "text": "Több évszázad kovácsoltvas művészeti alkotásait bemutató egyedülálló gyűjtemény egy régi templomban.", "category": "museum", "confidence": "high" },
-            { "name": "Historial Jeanne d'Arc", "text": "Innovatív és interaktív múzeum az érseki palotában, amely a francia nemzeti hős sorsát mutatja be.", "category": "museum", "confidence": "high" },
-            { "name": "Jardin des Plantes de Rouen", "text": "Tízhektáros botanikus kert jelentős növényházakkal és egy országos hírű kaméliagyűjteménnyel.", "category": "natural", "confidence": "high" },
-            { "name": "Donjon de Rouen", "text": "Jeanne d’Arc tornyának is hívják; Fülöp Ágost 13. századi várának utolsó épségben maradt maradványa.", "category": "historical", "confidence": "high" },
-            { "name": "Aître Saint-Maclou", "text": "16. századi egykori pestistemető, amelynek udvarát különleges, haláltáncot ábrázoló faragványok díszítik.", "category": "historical", "confidence": "high" },
-            { "name": "Église Saint-Maclou", "text": "A lángoló gótika remekműve, amely ötoldalú homlokzatáról és faragott reneszánsz kapuiról híres.", "category": "religious", "confidence": "high" },
-            { "name": "Pont Gustave-Flaubert", "text": "Európa legmagasabb emelőhídja és Rouen modern jelképe, amely lehetővé teszi a hajózást a Szajnán.", "category": "civic", "confidence": "high" },
-            { "name": "Panorama de la Côte Sainte-Catherine", "text": "A város szélén található domb, ahonnan a legszebb panoráma nyílik Rouenre, a katedrálisra és a Szajnára.", "category": "natural", "confidence": "high" }
-        ],
+      ],
       "ro": [
             {
                   "name": "Catedrala Notre-Dame din Rouen",
                   "text": "O capodoperă a artei gotice, celebră pentru turnurile sale înalte și pentru seria de tablouri pictate aici de Claude Monet.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.095,
+                        49.4402
+                  ]
             },
             {
                   "name": "Gros-Horloge",
                   "text": "Un ceas astronomic remarcabil din secolul al XIV-lea, situat pe o boltă renascentistă deasupra unei străzi pietonale pitorești.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.091834,
+                        49.441402
+                  ]
             },
             {
                   "name": "Piața Veche",
                   "text": "Locul istoric unde Ioana d'Arc a fost arsă pe rug în 1431, marcat astăzi de o biserică modernă și numeroase case cu colț de lemn.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.088363,
+                        49.443231
+                  ]
             },
             {
                   "name": "Muzeul de Arte Frumoase din Rouen",
                   "text": "Găzduiește o colecție impresionantă de picturi, de la maeștrii vechi la impresioniști, fiind unul dintre cele mai mari din țară.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.094722,
+                        49.444722
+                  ]
             },
             {
                   "name": "Abația Saint-Ouen",
                   "text": "O biserică monumentală cunoscută pentru arhitectura sa gotică radiantă și pentru vitraliile sale spectaculoase din secolul al XIV-lea.",
                   "category": "monastic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.099722,
+                        49.4425
+                  ]
             },
             {
                   "name": "Palatul de Justiție",
                   "text": "Fostul parlament al Normandiei, această clădire este un exemplu magnific de arhitectură civilă gotică târzie, bogat decorată.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.09105,
+                        49.4426
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne-d'Arc",
+                  "text": "Biserică modernă cu linii curbe, construită în 1979 pe locul unde a fost executată Ioana d'Arc.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.08834,
+                        49.44295
+                  ]
+            },
+            {
+                  "name": "Musée Le Secq des Tournelles",
+                  "text": "Colecție unică de artă din fier forjat din mai multe secole, găzduită într-o biserică dezafectată.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.095,
+                        49.4444
+                  ]
+            },
+            {
+                  "name": "Historial Jeanne d'Arc",
+                  "text": "Muzeu inovator și interactiv în palatul arhiepiscopal, dedicat destinului eroinei naționale a Franței.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.0959,
+                        49.4404
+                  ]
+            },
+            {
+                  "name": "Jardin des Plantes de Rouen",
+                  "text": "Grădină botanică de zece hectare, cu sere importante și o colecție națională valoroasă de camelii.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.0771,
+                        49.4221
+                  ]
+            },
+            {
+                  "name": "Donjon de Rouen",
+                  "text": "Numit și Turnul Ioanei d'Arc; ultima rămășiță a castelului lui Filip August din secolul al XIII-lea.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.094529,
+                        49.44631
+                  ]
+            },
+            {
+                  "name": "Aître Saint-Maclou",
+                  "text": "Fost cimitir pentru victimele ciumei din secolul al XVI-lea, cu sculpturi macabre fascinante pe fațade.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.09988,
+                        49.4403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maclou",
+                  "text": "Capodoperă a goticului flamboyant, faimoasă pentru fațada sa cu cinci laturi și ușile sculptate.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.098381,
+                        49.439782
+                  ]
+            },
+            {
+                  "name": "Pont Gustave-Flaubert",
+                  "text": "Cel mai înalt pod mobil din Europa și un simbol modern al Rouenului, care permite navigația pe Sena.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        1.064167,
+                        49.443611
+                  ]
+            },
+            {
+                  "name": "Panorama de la Côte Sainte-Catherine",
+                  "text": "Un deal la marginea orașului care oferă cea mai iconică vedere panoramică asupra Rouenului și a Senei.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.109873,
+                        49.433602
+                  ]
             }
-      ,
-            { "name": "Église Sainte-Jeanne-d'Arc", "text": "Biserică modernă cu linii curbe, construită în 1979 pe locul unde a fost executată Ioana d'Arc.", "category": "religious", "confidence": "high" },
-            { "name": "Musée Le Secq des Tournelles", "text": "Colecție unică de artă din fier forjat din mai multe secole, găzduită într-o biserică dezafectată.", "category": "museum", "confidence": "high" },
-            { "name": "Historial Jeanne d'Arc", "text": "Muzeu inovator și interactiv în palatul arhiepiscopal, dedicat destinului eroinei naționale a Franței.", "category": "museum", "confidence": "high" },
-            { "name": "Jardin des Plantes de Rouen", "text": "Grădină botanică de zece hectare, cu sere importante și o colecție națională valoroasă de camelii.", "category": "natural", "confidence": "high" },
-            { "name": "Donjon de Rouen", "text": "Numit și Turnul Ioanei d'Arc; ultima rămășiță a castelului lui Filip August din secolul al XIII-lea.", "category": "historical", "confidence": "high" },
-            { "name": "Aître Saint-Maclou", "text": "Fost cimitir pentru victimele ciumei din secolul al XVI-lea, cu sculpturi macabre fascinante pe fațade.", "category": "historical", "confidence": "high" },
-            { "name": "Église Saint-Maclou", "text": "Capodoperă a goticului flamboyant, faimoasă pentru fațada sa cu cinci laturi și ușile sculptate.", "category": "religious", "confidence": "high" },
-            { "name": "Pont Gustave-Flaubert", "text": "Cel mai înalt pod mobil din Europa și un simbol modern al Rouenului, care permite navigația pe Sena.", "category": "civic", "confidence": "high" },
-            { "name": "Panorama de la Côte Sainte-Catherine", "text": "Un deal la marginea orașului care oferă cea mai iconică vedere panoramică asupra Rouenului și a Senei.", "category": "natural", "confidence": "high" }
-        ],
+      ],
       "en": [
             {
                   "name": "Rouen Cathedral",
                   "text": "A stunning Gothic masterpiece famous for its facade painted by Claude Monet and for housing the heart of Richard the Lionheart.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.095,
+                        49.4402
+                  ]
             },
             {
                   "name": "The Gros-Horloge",
                   "text": "A 14th-century astronomical clock mounted in a Renaissance arch, one of the oldest and most iconic mechanisms in France.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.091834,
+                        49.441402
+                  ]
             },
             {
                   "name": "Place du Vieux-Marché",
                   "text": "The historic market square where Joan of Arc was executed in 1431, now featuring a modern church dedicated to her memory.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.088363,
+                        49.443231
+                  ]
             },
             {
                   "name": "Musée des Beaux-Arts de Rouen",
                   "text": "One of France's most important regional museums, boasting an extensive collection of Impressionist works and old masters.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.094722,
+                        49.444722
+                  ]
             },
             {
                   "name": "Abbey of Saint-Ouen",
                   "text": "A monumental Gothic church known for its vast dimensions, beautiful stained glass, and famous Cavaillé-Coll pipe organ.",
                   "category": "monastic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.099722,
+                        49.4425
+                  ]
             },
             {
                   "name": "Palais de Justice",
                   "text": "The former seat of the Parliament of Normandy, this building is a grand example of late Gothic flamboyant architecture.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        1.09105,
+                        49.4426
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne-d'Arc",
+                  "text": "Modern church with sweeping lines, built in 1979 on the exact site where Joan of Arc was executed.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.08834,
+                        49.44295
+                  ]
+            },
+            {
+                  "name": "Musée Le Secq des Tournelles",
+                  "text": "Unique collection of wrought iron art spanning several centuries, housed in a former church building.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.095,
+                        49.4444
+                  ]
+            },
+            {
+                  "name": "Historial Jeanne d'Arc",
+                  "text": "Innovative interactive museum in the episcopal palace, dedicated to the fate of the French national heroine.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.0959,
+                        49.4404
+                  ]
+            },
+            {
+                  "name": "Jardin des Plantes de Rouen",
+                  "text": "Ten-hectare botanical garden featuring significant greenhouses and a national camellia collection.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.0771,
+                        49.4221
+                  ]
+            },
+            {
+                  "name": "Donjon de Rouen",
+                  "text": "Also known as the Joan of Arc Tower; the last remaining vestige of Philip Augustus's 13th-century castle.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.094529,
+                        49.44631
+                  ]
+            },
+            {
+                  "name": "Aître Saint-Maclou",
+                  "text": "A former 16th-century plague cemetery featuring fascinating macabre carvings on its timber facades.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.09988,
+                        49.4403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maclou",
+                  "text": "A masterpiece of Flamboyant Gothic architecture, famous for its five-sided facade and carved Renaissance doors.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.098381,
+                        49.439782
+                  ]
+            },
+            {
+                  "name": "Pont Gustave-Flaubert",
+                  "text": "The tallest vertical-lift bridge in Europe and a modern landmark of Rouen, allowing ships to pass on the Seine.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        1.064167,
+                        49.443611
+                  ]
+            },
+            {
+                  "name": "Panorama de la Côte Sainte-Catherine",
+                  "text": "A hill on the outskirts offering the most iconic panoramic view of Rouen, its cathedral, and the Seine.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.109873,
+                        49.433602
+                  ]
             }
-      ,
-            { "name": "Église Sainte-Jeanne-d'Arc", "text": "Modern church with sweeping lines, built in 1979 on the exact site where Joan of Arc was executed.", "category": "religious", "confidence": "high" },
-            { "name": "Musée Le Secq des Tournelles", "text": "Unique collection of wrought iron art spanning several centuries, housed in a former church building.", "category": "museum", "confidence": "high" },
-            { "name": "Historial Jeanne d'Arc", "text": "Innovative interactive museum in the episcopal palace, dedicated to the fate of the French national heroine.", "category": "museum", "confidence": "high" },
-            { "name": "Jardin des Plantes de Rouen", "text": "Ten-hectare botanical garden featuring significant greenhouses and a national camellia collection.", "category": "natural", "confidence": "high" },
-            { "name": "Donjon de Rouen", "text": "Also known as the Joan of Arc Tower; the last remaining vestige of Philip Augustus's 13th-century castle.", "category": "historical", "confidence": "high" },
-            { "name": "Aître Saint-Maclou", "text": "A former 16th-century plague cemetery featuring fascinating macabre carvings on its timber facades.", "category": "historical", "confidence": "high" },
-            { "name": "Église Saint-Maclou", "text": "A masterpiece of Flamboyant Gothic architecture, famous for its five-sided facade and carved Renaissance doors.", "category": "religious", "confidence": "high" },
-            { "name": "Pont Gustave-Flaubert", "text": "The tallest vertical-lift bridge in Europe and a modern landmark of Rouen, allowing ships to pass on the Seine.", "category": "civic", "confidence": "high" },
-            { "name": "Panorama de la Côte Sainte-Catherine", "text": "A hill on the outskirts offering the most iconic panoramic view of Rouen, its cathedral, and the Seine.", "category": "natural", "confidence": "high" }
-        ]
-,
+      ],
       "fr": [
-        { "name": "Cathédrale Notre-Dame de Rouen", "text": "Splendide cathédrale gothique célèbre pour sa façade peinte par Claude Monet dans sa série de tableaux.", "category": "religious" },
-        { "name": "Le Gros-Horloge", "text": "Horloge astronomique du XIVe siècle surmontant un arc Renaissance au-dessus d'une rue animée de la vieille ville.", "category": "historical" },
-        { "name": "Place du Vieux-Marché", "text": "Place historique où Jeanne d'Arc fut exécutée en 1431, abritant aujourd'hui une église mémorial moderne.", "category": "historical" },
-        { "name": "Musée des Beaux-Arts de Rouen", "text": "L'un des musées d'art les plus importants de France, riche en œuvres impressionnistes et sculptures.", "category": "museum" },
-        { "name": "Abbatiale Saint-Ouen", "text": "Chef-d'œuvre du gothique flamboyant, célèbre pour ses dimensions imposantes et son orgue Cavaillé-Coll.", "category": "monastic" },
-        { "name": "Palais de Justice", "text": "Ancien parlement de Normandie, exemple exceptionnel d'architecture civile gothique et Renaissance.", "category": "civic" }
+            {
+                  "name": "Cathédrale Notre-Dame de Rouen",
+                  "text": "Splendide cathédrale gothique célèbre pour sa façade peinte par Claude Monet dans sa série de tableaux.",
+                  "category": "religious",
+                  "coords": [
+                        1.095,
+                        49.4402
+                  ]
+            },
+            {
+                  "name": "Le Gros-Horloge",
+                  "text": "Horloge astronomique du XIVe siècle surmontant un arc Renaissance au-dessus d'une rue animée de la vieille ville.",
+                  "category": "historical",
+                  "coords": [
+                        1.091834,
+                        49.441402
+                  ]
+            },
+            {
+                  "name": "Place du Vieux-Marché",
+                  "text": "Place historique où Jeanne d'Arc fut exécutée en 1431, abritant aujourd'hui une église mémorial moderne.",
+                  "category": "historical",
+                  "coords": [
+                        1.088363,
+                        49.443231
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Rouen",
+                  "text": "L'un des musées d'art les plus importants de France, riche en œuvres impressionnistes et sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        1.094722,
+                        49.444722
+                  ]
+            },
+            {
+                  "name": "Abbatiale Saint-Ouen",
+                  "text": "Chef-d'œuvre du gothique flamboyant, célèbre pour ses dimensions imposantes et son orgue Cavaillé-Coll.",
+                  "category": "monastic",
+                  "coords": [
+                        1.099722,
+                        49.4425
+                  ]
+            },
+            {
+                  "name": "Palais de Justice",
+                  "text": "Ancien parlement de Normandie, exemple exceptionnel d'architecture civile gothique et Renaissance.",
+                  "category": "civic",
+                  "coords": [
+                        1.09105,
+                        49.4426
+                  ]
+            }
       ]
-    }
+}
   },
   {
     id: "mountain-aiguille-du-midi-extra",
@@ -846,207 +1732,706 @@ export const poiExtraFranceCities: POI[] = [
                   "name": "Place de la Comédie",
                   "text": "Der zentrale Platz der Stadt, bekannt als das Ei wegen seiner ovalen Form, dominiert vom prächtigen Opernhaus.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.879897,
+                        43.608664
+                  ]
             },
             {
                   "name": "Kathedrale Saint-Pierre",
                   "text": "Eine imposante gotische Kathedrale mit zwei massiven Türmen, die wie Wächter vor dem Haupteingang stehen.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.874167,
+                        43.613333
+                  ]
             },
             {
                   "name": "Arc de Triomphe (Porte du Peyrou)",
                   "text": "Dieser Triumphbogen wurde zu Ehren von Ludwig XIV. errichtet und bildet den prachtvollen Eingang zur Peyrou-Promenade.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.873233,
+                        43.611015
+                  ]
             },
             {
                   "name": "Musée Fabre",
                   "text": "Eines der bedeutendsten Kunstmuseen der Region mit einer reichen Sammlung europäischer Malerei vom Barock bis zur Moderne.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.880192,
+                        43.611736
+                  ]
             },
             {
                   "name": "Jardin des Plantes de Montpellier",
                   "text": "Der älteste botanische Garten Frankreichs, gegründet 1593, bietet eine Oase der Ruhe und wissenschaftlichen Vielfalt.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.8717,
+                        43.6143
+                  ]
             },
             {
                   "name": "Promenade du Peyrou",
                   "text": "Ein weitläufiger königlicher Platz mit Panoramablick auf die Stadt, einem Wasserturm und dem Aqueduc Saint-Clément.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.87012,
+                        43.6113
+                  ]
+            },
+            {
+                  "name": "Aquädukt Saint-Clément",
+                  "text": "Dieses beeindruckende Bauwerk aus dem 18. Jahrhundert wurde nach dem Vorbild des antiken Pont du Gard errichtet.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.866667,
+                        43.611667
+                  ]
+            },
+            {
+                  "name": "Quartier Antigone",
+                  "text": "Ein von Ricardo Bofill entworfenes Stadtviertel im neoklassizistischen Stil mit monumentalen Gebäuden und Plätzen.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.890556,
+                        43.608003
+                  ]
+            },
+            {
+                  "name": "Opéra Comédie",
+                  "text": "Das prachtvolle Opernhaus aus dem 19. Jahrhundert ist das kulturelle Herzstück an der Place de la Comédie.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.878789,
+                        43.607906
+                  ]
+            },
+            {
+                  "name": "Tour de la Babote",
+                  "text": "Ein mittelalterlicher Wehrturm, der später als Observatorium diente und Teil der alten Stadtbefestigung war.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.877361,
+                        43.606419
+                  ]
+            },
+            {
+                  "name": "Carré Sainte-Anne",
+                  "text": "Eine entweihte neugotische Kirche, die heute als Raum für Ausstellungen zeitgenössischer Kunst genutzt wird.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.874558,
+                        43.610088
+                  ]
+            },
+            {
+                  "name": "Château de Flaugergues",
+                  "text": "Eines der prachtvollen Lustschlösser vor den Toren der Stadt mit kunstvoll angelegten Gärten und Weinbergen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.92,
+                        43.610278
+                  ]
+            },
+            {
+                  "name": "Esplanade Charles-de-Gaulle",
+                  "text": "Eine schattige Promenade mit Springbrunnen, die das historische Zentrum mit dem modernen Corum verbindet.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.881215,
+                        43.611375
+                  ]
+            },
+            {
+                  "name": "Pavillon Populaire",
+                  "text": "Ein bedeutendes Museum für Fotokunst, das wechselnde Ausstellungen internationaler Fotografen präsentiert.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.881969,
+                        43.610247
+                  ]
+            },
+            {
+                  "name": "Faculté de Médecine",
+                  "text": "Eine der ältesten medizinischen Fakultäten der Welt, die in einem ehemaligen Benediktinerkloster untergebracht ist.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.873542,
+                        43.612947
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das moderne Rathaus von Jean Nouvel ist ein markantes Beispiel für zeitgenössische Architektur aus blauem Glas.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.894867,
+                        43.599093
+                  ]
             }
-      ,
-            { "name": "Aquädukt Saint-Clément", "text": "Dieses beeindruckende Bauwerk aus dem 18. Jahrhundert wurde nach dem Vorbild des antiken Pont du Gard errichtet.", "category": "historical", "confidence": "high" },
-            { "name": "Quartier Antigone", "text": "Ein von Ricardo Bofill entworfenes Stadtviertel im neoklassizistischen Stil mit monumentalen Gebäuden und Plätzen.", "category": "civic", "confidence": "high" },
-            { "name": "Opéra Comédie", "text": "Das prachtvolle Opernhaus aus dem 19. Jahrhundert ist das kulturelle Herzstück an der Place de la Comédie.", "category": "cultural", "confidence": "high" },
-            { "name": "Tour de la Babote", "text": "Ein mittelalterlicher Wehrturm, der später als Observatorium diente und Teil der alten Stadtbefestigung war.", "category": "historical", "confidence": "high" },
-            { "name": "Carré Sainte-Anne", "text": "Eine entweihte neugotische Kirche, die heute als Raum für Ausstellungen zeitgenössischer Kunst genutzt wird.", "category": "cultural", "confidence": "high" },
-            { "name": "Château de Flaugergues", "text": "Eines der prachtvollen Lustschlösser vor den Toren der Stadt mit kunstvoll angelegten Gärten und Weinbergen.", "category": "historical", "confidence": "high" },
-            { "name": "Esplanade Charles-de-Gaulle", "text": "Eine schattige Promenade mit Springbrunnen, die das historische Zentrum mit dem modernen Corum verbindet.", "category": "recreational", "confidence": "high" },
-            { "name": "Pavillon Populaire", "text": "Ein bedeutendes Museum für Fotokunst, das wechselnde Ausstellungen internationaler Fotografen präsentiert.", "category": "museum", "confidence": "high" },
-            { "name": "Faculté de Médecine", "text": "Eine der ältesten medizinischen Fakultäten der Welt, die in einem ehemaligen Benediktinerkloster untergebracht ist.", "category": "historical", "confidence": "high" },
-            { "name": "Hôtel de Ville", "text": "Das moderne Rathaus von Jean Nouvel ist ein markantes Beispiel für zeitgenössische Architektur aus blauem Glas.", "category": "civic", "confidence": "high" }
-        ],
+      ],
       "hu": [
             {
                   "name": "Place de la Comédie",
                   "text": "Montpellier lüktető szíve, egy hatalmas gyalogos tér az Operaházzal és a Három Grácia szökőkútjával díszítve.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.879897,
+                        43.608664
+                  ]
             },
             {
                   "name": "Szent Péter-székesegyház",
                   "text": "Különleges gótikus katedrális, melynek bejáratát két hatalmas, várszerű kőoszlop tartja, erődítmény benyomását keltve.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.874167,
+                        43.613333
+                  ]
             },
             {
                   "name": "Diadalív (Porte du Peyrou)",
                   "text": "A XIV. Lajos tiszteletére emelt monumentális kapu, amely a város történelmi központját köti össze a Peyrou sétánnyal.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.873233,
+                        43.611015
+                  ]
             },
             {
                   "name": "Fabre Múzeum",
                   "text": "Dél-Franciaország egyik legfontosabb képtára, ahol európai mesterművek tekinthetők meg a 17. századtól napjainkig.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.880192,
+                        43.611736
+                  ]
             },
             {
                   "name": "Montpellier-i Füvészkert",
                   "text": "Franciaország legrégebbi botanikus kertje, amelyet 1593-ban alapítottak az orvosi egyetem oktatásának segítésére.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.8717,
+                        43.6143
+                  ]
             },
             {
                   "name": "Promenade du Peyrou",
                   "text": "Elegáns királyi sétány víztoronnyal és egy monumentális akvadukttal, ahonnan remek kilátás nyílik a környékre.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.87012,
+                        43.6113
+                  ]
+            },
+            {
+                  "name": "Saint-Clément vízvezeték",
+                  "text": "Ez a 18. századi építmény a híres Pont du Gard mintájára készült, és egykor vizet szállított a városba.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.866667,
+                        43.611667
+                  ]
+            },
+            {
+                  "name": "Antigone negyed",
+                  "text": "Ricardo Bofill által tervezett neoklasszicista városrész, amely monumentális tereiről és épületeiről ismert.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.890556,
+                        43.608003
+                  ]
+            },
+            {
+                  "name": "Opéra Comédie",
+                  "text": "A 19. századi operaház a Place de la Comédie ékköve, a város kulturális életének egyik legfontosabb helyszíne.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.878789,
+                        43.607906
+                  ]
+            },
+            {
+                  "name": "Tour de la Babote",
+                  "text": "Eredetileg középkori védőtorony volt, majd később csillagvizsgálóként működött a városfal részeként.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.877361,
+                        43.606419
+                  ]
+            },
+            {
+                  "name": "Carré Sainte-Anne",
+                  "text": "Egykori neogótikus templom, amely ma kortárs művészeti kiállításoknak ad otthont Montpellier szívében.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.874558,
+                        43.610088
+                  ]
+            },
+            {
+                  "name": "Château de Flaugergues",
+                  "text": "A város környéki elegáns kastélyok egyike, amely gyönyörű kertjeiről és saját borászatáról híres.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.92,
+                        43.610278
+                  ]
+            },
+            {
+                  "name": "Esplanade Charles-de-Gaulle",
+                  "text": "Árnyas sétány szökőkutakkal, amely összeköti a történelmi belvárost a modern városrészekkel.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.881215,
+                        43.611375
+                  ]
+            },
+            {
+                  "name": "Pavillon Populaire",
+                  "text": "Nívós fotóművészeti központ, ahol világhírű fotósok alkotásait tekinthetik meg az érdeklődők ingyenesen.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.881969,
+                        43.610247
+                  ]
+            },
+            {
+                  "name": "Orvostudományi Kar",
+                  "text": "A világ egyik legrégebbi orvosi egyeteme, amely egy korábbi bencés kolostor épületében kapott helyet.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.873542,
+                        43.612947
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Jean Nouvel által tervezett modern városháza, amely sötétkék üveghomlokzatával a modern építészet példája.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.894867,
+                        43.599093
+                  ]
             }
-      ,
-            { "name": "Saint-Clément vízvezeték", "text": "Ez a 18. századi építmény a híres Pont du Gard mintájára készült, és egykor vizet szállított a városba.", "category": "historical", "confidence": "high" },
-            { "name": "Antigone negyed", "text": "Ricardo Bofill által tervezett neoklasszicista városrész, amely monumentális tereiről és épületeiről ismert.", "category": "civic", "confidence": "high" },
-            { "name": "Opéra Comédie", "text": "A 19. századi operaház a Place de la Comédie ékköve, a város kulturális életének egyik legfontosabb helyszíne.", "category": "cultural", "confidence": "high" },
-            { "name": "Tour de la Babote", "text": "Eredetileg középkori védőtorony volt, majd később csillagvizsgálóként működött a városfal részeként.", "category": "historical", "confidence": "high" },
-            { "name": "Carré Sainte-Anne", "text": "Egykori neogótikus templom, amely ma kortárs művészeti kiállításoknak ad otthont Montpellier szívében.", "category": "cultural", "confidence": "high" },
-            { "name": "Château de Flaugergues", "text": "A város környéki elegáns kastélyok egyike, amely gyönyörű kertjeiről és saját borászatáról híres.", "category": "historical", "confidence": "high" },
-            { "name": "Esplanade Charles-de-Gaulle", "text": "Árnyas sétány szökőkutakkal, amely összeköti a történelmi belvárost a modern városrészekkel.", "category": "recreational", "confidence": "high" },
-            { "name": "Pavillon Populaire", "text": "Nívós fotóművészeti központ, ahol világhírű fotósok alkotásait tekinthetik meg az érdeklődők ingyenesen.", "category": "museum", "confidence": "high" },
-            { "name": "Orvostudományi Kar", "text": "A világ egyik legrégebbi orvosi egyeteme, amely egy korábbi bencés kolostor épületében kapott helyet.", "category": "historical", "confidence": "high" },
-            { "name": "Hôtel de Ville", "text": "Jean Nouvel által tervezett modern városháza, amely sötétkék üveghomlokzatával a modern építészet példája.", "category": "civic", "confidence": "high" }
-        ],
+      ],
       "ro": [
             {
                   "name": "Piața Comediei",
                   "text": "Inima vibrantă a orașului, o piață pietonală vastă dominată de Opera Națională și fântâna celor Trei Grații.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.879897,
+                        43.608664
+                  ]
             },
             {
                   "name": "Catedrala Sfântul Petru",
                   "text": "O catedrală gotică neobișnuită, cu un aspect de fortăreață, flancată de două turnuri masive sub formă de piloni.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.874167,
+                        43.613333
+                  ]
             },
             {
                   "name": "Arcul de Triumf",
                   "text": "Construit în secolul al XVII-lea în onoarea regelui Ludovic al XIV-lea, acesta marchează intrarea în promenada Peyrou.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.873233,
+                        43.611015
+                  ]
             },
             {
                   "name": "Muzeul Fabre",
                   "text": "Unul dintre cele mai bogate muzee de artă din Franța, cu o colecție vastă de picturi europene și artă decorativă.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.880192,
+                        43.611736
+                  ]
             },
             {
                   "name": "Grădina Botanică din Montpellier",
                   "text": "Cea mai veche grădină botanică din Franța, fondată în 1593, un loc plin de istorie și specii vegetale rare.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.8717,
+                        43.6143
+                  ]
             },
             {
                   "name": "Promenada Peyrou",
                   "text": "O esplanadă regală spectaculoasă ce oferă vederi panoramice, găzduind un castel de apă și un apeduct istoric.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.87012,
+                        43.6113
+                  ]
+            },
+            {
+                  "name": "Apeductul Saint-Clément",
+                  "text": "Această structură impresionantă din secolul al XVIII-lea a fost construită după modelul celebrului Pont du Gard.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.866667,
+                        43.611667
+                  ]
+            },
+            {
+                  "name": "Cartierul Antigone",
+                  "text": "Un cartier proiectat de Ricardo Bofill în stil neoclasic, renumit pentru clădirile sale monumentale și piețe.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.890556,
+                        43.608003
+                  ]
+            },
+            {
+                  "name": "Opéra Comédie",
+                  "text": "Splendida operă din secolul al XIX-lea reprezintă centrul cultural situat în inima Place de la Comédie.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.878789,
+                        43.607906
+                  ]
+            },
+            {
+                  "name": "Tour de la Babote",
+                  "text": "Un turn defensiv medieval care a servit ulterior drept observator astronomic, parte din vechile fortificații.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.877361,
+                        43.606419
+                  ]
+            },
+            {
+                  "name": "Carré Sainte-Anne",
+                  "text": "O fostă biserică neogotică transformată într-un spațiu dedicat expozițiilor de artă contemporană.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.874558,
+                        43.610088
+                  ]
+            },
+            {
+                  "name": "Château de Flaugergues",
+                  "text": "Una dintre elegantele reședințe nobiliare din afara orașului, celebră pentru grădinile sale și podgorii.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.92,
+                        43.610278
+                  ]
+            },
+            {
+                  "name": "Esplanade Charles-de-Gaulle",
+                  "text": "O promenadă umbrită, cu fântâni arteziene, care face legătura între centrul istoric și complexul Corum.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.881215,
+                        43.611375
+                  ]
+            },
+            {
+                  "name": "Pavillon Populaire",
+                  "text": "Un muzeu de prestigiu dedicat fotografiei artistice, găzduind expoziții ale unor fotografi de talie mondială.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.881969,
+                        43.610247
+                  ]
+            },
+            {
+                  "name": "Facultatea de Medicină",
+                  "text": "Una dintre cele mai vechi școli de medicină din lume, găzduită într-o fostă mănăstire benedictină.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.873542,
+                        43.612947
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Primăria modernă proiectată de Jean Nouvel este un reper al arhitecturii contemporane din sticlă albastră.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.894867,
+                        43.599093
+                  ]
             }
-      ,
-            { "name": "Apeductul Saint-Clément", "text": "Această structură impresionantă din secolul al XVIII-lea a fost construită după modelul celebrului Pont du Gard.", "category": "historical", "confidence": "high" },
-            { "name": "Cartierul Antigone", "text": "Un cartier proiectat de Ricardo Bofill în stil neoclasic, renumit pentru clădirile sale monumentale și piețe.", "category": "civic", "confidence": "high" },
-            { "name": "Opéra Comédie", "text": "Splendida operă din secolul al XIX-lea reprezintă centrul cultural situat în inima Place de la Comédie.", "category": "cultural", "confidence": "high" },
-            { "name": "Tour de la Babote", "text": "Un turn defensiv medieval care a servit ulterior drept observator astronomic, parte din vechile fortificații.", "category": "historical", "confidence": "high" },
-            { "name": "Carré Sainte-Anne", "text": "O fostă biserică neogotică transformată într-un spațiu dedicat expozițiilor de artă contemporană.", "category": "cultural", "confidence": "high" },
-            { "name": "Château de Flaugergues", "text": "Una dintre elegantele reședințe nobiliare din afara orașului, celebră pentru grădinile sale și podgorii.", "category": "historical", "confidence": "high" },
-            { "name": "Esplanade Charles-de-Gaulle", "text": "O promenadă umbrită, cu fântâni arteziene, care face legătura între centrul istoric și complexul Corum.", "category": "recreational", "confidence": "high" },
-            { "name": "Pavillon Populaire", "text": "Un muzeu de prestigiu dedicat fotografiei artistice, găzduind expoziții ale unor fotografi de talie mondială.", "category": "museum", "confidence": "high" },
-            { "name": "Facultatea de Medicină", "text": "Una dintre cele mai vechi școli de medicină din lume, găzduită într-o fostă mănăstire benedictină.", "category": "historical", "confidence": "high" },
-            { "name": "Hôtel de Ville", "text": "Primăria modernă proiectată de Jean Nouvel este un reper al arhitecturii contemporane din sticlă albastră.", "category": "civic", "confidence": "high" }
-        ],
+      ],
       "en": [
             {
                   "name": "Place de la Comédie",
                   "text": "The main focal point of the city, this expansive pedestrian square is nicknamed the Egg and features the Opera House.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.879897,
+                        43.608664
+                  ]
             },
             {
                   "name": "Montpellier Cathedral",
                   "text": "A unique Gothic cathedral known for its massive, fortress-like porch supported by two conical stone towers.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.874167,
+                        43.613333
+                  ]
             },
             {
                   "name": "Arc de Triomphe",
                   "text": "A triumphal arch built in 1691 to honor Louis XIV, serving as the grand gateway to the historic Peyrou promenade.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.873233,
+                        43.611015
+                  ]
             },
             {
                   "name": "Musée Fabre",
                   "text": "A premier art museum in Southern France housing an extensive collection of European paintings and sculptures.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.880192,
+                        43.611736
+                  ]
             },
             {
                   "name": "Jardin des Plantes",
                   "text": "Established in 1593, it is the oldest botanical garden in France and part of the city's historic medical university.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.8717,
+                        43.6143
+                  ]
             },
             {
                   "name": "Promenade du Peyrou",
                   "text": "A scenic esplanade featuring a statue of Louis XIV, a beautiful water tower, and views of the Saint-Clément Aqueduct.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.87012,
+                        43.6113
+                  ]
+            },
+            {
+                  "name": "Aqueduc Saint-Clément",
+                  "text": "This 18th-century aqueduct was inspired by the Roman Pont du Gard and spans the Arceaux district.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.866667,
+                        43.611667
+                  ]
+            },
+            {
+                  "name": "Antigone District",
+                  "text": "Designed by Ricardo Bofill, this neoclassical district features grand buildings and symmetrical plazas.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.890556,
+                        43.608003
+                  ]
+            },
+            {
+                  "name": "Opéra Comédie",
+                  "text": "The majestic 19th-century opera house stands as a cultural centerpiece on the Place de la Comédie.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.878789,
+                        43.607906
+                  ]
+            },
+            {
+                  "name": "Tour de la Babote",
+                  "text": "A medieval tower that once part of the city walls, later repurposed as an astronomical observatory.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.877361,
+                        43.606419
+                  ]
+            },
+            {
+                  "name": "Carré Sainte-Anne",
+                  "text": "A former neo-Gothic church now serving as a prominent space for contemporary art exhibitions.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.874558,
+                        43.610088
+                  ]
+            },
+            {
+                  "name": "Château de Flaugergues",
+                  "text": "An elegant country estate known as a \"folie,\" featuring lush gardens and its own wine production.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.92,
+                        43.610278
+                  ]
+            },
+            {
+                  "name": "Esplanade Charles-de-Gaulle",
+                  "text": "A tree-lined promenade with fountains, linking the historic center to the Corum conference center.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.881215,
+                        43.611375
+                  ]
+            },
+            {
+                  "name": "Pavillon Populaire",
+                  "text": "A dedicated art photography space hosting world-class exhibitions by international photographers.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.881969,
+                        43.610247
+                  ]
+            },
+            {
+                  "name": "Faculty of Medicine",
+                  "text": "One of the oldest medical schools in the Western world, located in a former Benedictine monastery.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.873542,
+                        43.612947
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "The modern City Hall, designed by Jean Nouvel, is a striking example of contemporary blue-glass architecture.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.894867,
+                        43.599093
+                  ]
             }
-      ,
-            { "name": "Aqueduc Saint-Clément", "text": "This 18th-century aqueduct was inspired by the Roman Pont du Gard and spans the Arceaux district.", "category": "historical", "confidence": "high" },
-            { "name": "Antigone District", "text": "Designed by Ricardo Bofill, this neoclassical district features grand buildings and symmetrical plazas.", "category": "civic", "confidence": "high" },
-            { "name": "Opéra Comédie", "text": "The majestic 19th-century opera house stands as a cultural centerpiece on the Place de la Comédie.", "category": "cultural", "confidence": "high" },
-            { "name": "Tour de la Babote", "text": "A medieval tower that once part of the city walls, later repurposed as an astronomical observatory.", "category": "historical", "confidence": "high" },
-            { "name": "Carré Sainte-Anne", "text": "A former neo-Gothic church now serving as a prominent space for contemporary art exhibitions.", "category": "cultural", "confidence": "high" },
-            { "name": "Château de Flaugergues", "text": "An elegant country estate known as a \"folie,\" featuring lush gardens and its own wine production.", "category": "historical", "confidence": "high" },
-            { "name": "Esplanade Charles-de-Gaulle", "text": "A tree-lined promenade with fountains, linking the historic center to the Corum conference center.", "category": "recreational", "confidence": "high" },
-            { "name": "Pavillon Populaire", "text": "A dedicated art photography space hosting world-class exhibitions by international photographers.", "category": "museum", "confidence": "high" },
-            { "name": "Faculty of Medicine", "text": "One of the oldest medical schools in the Western world, located in a former Benedictine monastery.", "category": "historical", "confidence": "high" },
-            { "name": "Hôtel de Ville", "text": "The modern City Hall, designed by Jean Nouvel, is a striking example of contemporary blue-glass architecture.", "category": "civic", "confidence": "high" }
-        ]
-,
+      ],
       "fr": [
-        { "name": "Place de la Comédie", "text": "Place centrale de la ville, surnommée l'œuf pour sa forme ovale, dominée par un magnifique opéra.", "category": "civic" },
-        { "name": "Cathédrale Saint-Pierre", "text": "Imposante cathédrale gothique avec deux tours massives veillant sur l'entrée principale.", "category": "religious" },
-        { "name": "Arc de Triomphe", "text": "Érigé à la gloire de Louis XIV, il forme la porte monumentale menant à la promenade du Peyrou.", "category": "historical" },
-        { "name": "Musée Fabre", "text": "Musée majeur de la région avec une riche collection de peinture européenne, du baroque au moderne.", "category": "museum" },
-        { "name": "Jardin des Plantes de Montpellier", "text": "Plus vieux jardin botanique de France, fondé en 1593, offrant calme et diversité scientifique.", "category": "natural" },
-        { "name": "Promenade du Peyrou", "text": "Vaste esplanade royale avec vue panoramique, château d'eau et aqueduc Saint-Clément.", "category": "recreational" }
+            {
+                  "name": "Place de la Comédie",
+                  "text": "Place centrale de la ville, surnommée l'œuf pour sa forme ovale, dominée par un magnifique opéra.",
+                  "category": "civic",
+                  "coords": [
+                        3.879897,
+                        43.608664
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Pierre",
+                  "text": "Imposante cathédrale gothique avec deux tours massives veillant sur l'entrée principale.",
+                  "category": "religious",
+                  "coords": [
+                        3.874167,
+                        43.613333
+                  ]
+            },
+            {
+                  "name": "Arc de Triomphe",
+                  "text": "Érigé à la gloire de Louis XIV, il forme la porte monumentale menant à la promenade du Peyrou.",
+                  "category": "historical",
+                  "coords": [
+                        3.873233,
+                        43.611015
+                  ]
+            },
+            {
+                  "name": "Musée Fabre",
+                  "text": "Musée majeur de la région avec une riche collection de peinture européenne, du baroque au moderne.",
+                  "category": "museum",
+                  "coords": [
+                        3.880192,
+                        43.611736
+                  ]
+            },
+            {
+                  "name": "Jardin des Plantes de Montpellier",
+                  "text": "Plus vieux jardin botanique de France, fondé en 1593, offrant calme et diversité scientifique.",
+                  "category": "natural",
+                  "coords": [
+                        3.8717,
+                        43.6143
+                  ]
+            },
+            {
+                  "name": "Promenade du Peyrou",
+                  "text": "Vaste esplanade royale avec vue panoramique, château d'eau et aqueduc Saint-Clément.",
+                  "category": "recreational",
+                  "coords": [
+                        3.87012,
+                        43.6113
+                  ]
+            }
       ]
-    }
+}
   },
   {
     id: "animal-habitat-camargue-extra",
@@ -1225,207 +2610,706 @@ export const poiExtraFranceCities: POI[] = [
                   "name": "Papstpalast",
                   "text": "Die größte gotische Palastanlage der Welt war im 14. Jahrhundert der Sitz der Päpste und ist heute UNESCO-Welterbe.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.8075,
+                        43.9508
+                  ]
             },
             {
                   "name": "Pont Saint-Bénézet (Brücke von Avignon)",
                   "text": "Die berühmte mittelalterliche Brücke, die nur noch zur Hälfte über die Rhône reicht und durch ein Volkslied bekannt wurde.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.805,
+                        43.953889
+                  ]
             },
             {
                   "name": "Kathedrale Notre-Dame des Doms",
                   "text": "Diese romanische Kathedrale neben dem Papstpalast wird von einer vergoldeten Statue der Jungfrau Maria gekrönt.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.8075,
+                        43.951667
+                  ]
             },
             {
                   "name": "Rocher des Doms",
                   "text": "Ein wunderschöner Park auf einem Felsen über der Rhône, der einen fantastischen Blick auf die Brücke und den Palast bietet.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.807742,
+                        43.95271
+                  ]
             },
             {
                   "name": "Musée du Petit Palais",
                   "text": "Ein Museum im ehemaligen Bischofspalast, das eine exzellente Sammlung italienischer und provenzalischer Malerei zeigt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.806389,
+                        43.952639
+                  ]
             },
             {
                   "name": "Les Halles d'Avignon",
                   "text": "Eine lebhafte Markthalle mit einer vertikalen Gartenfassade, in der die besten regionalen Produkte der Provence verkauft werden.",
                   "category": "culinary",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.809683,
+                        43.947172
+                  ]
+            },
+            {
+                  "name": "Musée Calvet",
+                  "text": "Museum in einem Herrenhaus aus dem 18. Jahrhundert mit bildender Kunst und archäologischen Funden.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.803333,
+                        43.946944
+                  ]
+            },
+            {
+                  "name": "Musée Angladon",
+                  "text": "Privates Kunstmuseum mit Werken von Van Gogh, Cézanne und Picasso in einem historischen Stadthaus.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.80697,
+                        43.946
+                  ]
+            },
+            {
+                  "name": "Musée Lapidaire",
+                  "text": "Archäologische Sammlung des Calvet-Museums, ausgestellt in einer Jesuitenkapelle des 17. Jahrhunderts.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.80587,
+                        43.9459
+                  ]
+            },
+            {
+                  "name": "Collection Lambert",
+                  "text": "Museum für zeitgenössische Kunst im Hôtel de Caumont, das die Sammlung von Yvon Lambert zeigt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.804305,
+                        43.944821
+                  ]
+            },
+            {
+                  "name": "Rue des Teinturiers",
+                  "text": "Malerische historische Straße am Sorgue-Kanal, bekannt für ihre alten Wasserräder.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.81393,
+                        43.945
+                  ]
+            },
+            {
+                  "name": "Place de l'Horloge",
+                  "text": "Der Hauptplatz der Stadt, an dem sich das Rathaus, die Oper und zahlreiche Straßencafés befinden.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        4.80598,
+                        43.94934
+                  ]
+            },
+            {
+                  "name": "Opéra d'Avignon",
+                  "text": "Ein Theatergebäude aus dem 19. Jahrhundert an der Place de l'Horloge, das Oper und Ballett beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        4.80553,
+                        43.9497
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Pierre d'Avignon",
+                  "text": "Gotische Basilika, bekannt für ihre bemerkenswerten geschnitzten Holztüren aus dem 16. Jahrhundert.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        4.8083,
+                        43.9492
+                  ]
+            },
+            {
+                  "name": "Remparts d'Avignon",
+                  "text": "Gut erhaltene Verteidigungsmauern aus dem 14. Jahrhundert, die das historische Zentrum umschließen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.806384,
+                        43.953305
+                  ]
+            },
+            {
+                  "name": "Palais du Roure",
+                  "text": "Ein Herrenhaus aus dem 15. Jahrhundert und Kulturzentrum, das der Geschichte der Provence gewidmet ist.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.80556,
+                        43.9483
+                  ]
             }
-      ,
-            { "name": "Musée Calvet", "text": "Museum in einem Herrenhaus aus dem 18. Jahrhundert mit bildender Kunst und archäologischen Funden.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Angladon", "text": "Privates Kunstmuseum mit Werken von Van Gogh, Cézanne und Picasso in einem historischen Stadthaus.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Lapidaire", "text": "Archäologische Sammlung des Calvet-Museums, ausgestellt in einer Jesuitenkapelle des 17. Jahrhunderts.", "category": "museum", "confidence": "high" },
-            { "name": "Collection Lambert", "text": "Museum für zeitgenössische Kunst im Hôtel de Caumont, das die Sammlung von Yvon Lambert zeigt.", "category": "museum", "confidence": "high" },
-            { "name": "Rue des Teinturiers", "text": "Malerische historische Straße am Sorgue-Kanal, bekannt für ihre alten Wasserräder.", "category": "historical", "confidence": "high" },
-            { "name": "Place de l'Horloge", "text": "Der Hauptplatz der Stadt, an dem sich das Rathaus, die Oper und zahlreiche Straßencafés befinden.", "category": "civic", "confidence": "high" },
-            { "name": "Opéra d'Avignon", "text": "Ein Theatergebäude aus dem 19. Jahrhundert an der Place de l'Horloge, das Oper und Ballett beherbergt.", "category": "cultural", "confidence": "high" },
-            { "name": "Basilique Saint-Pierre d'Avignon", "text": "Gotische Basilika, bekannt für ihre bemerkenswerten geschnitzten Holztüren aus dem 16. Jahrhundert.", "category": "religious", "confidence": "high" },
-            { "name": "Remparts d'Avignon", "text": "Gut erhaltene Verteidigungsmauern aus dem 14. Jahrhundert, die das historische Zentrum umschließen.", "category": "historical", "confidence": "high" },
-            { "name": "Palais du Roure", "text": "Ein Herrenhaus aus dem 15. Jahrhundert und Kulturzentrum, das der Geschichte der Provence gewidmet ist.", "category": "historical", "confidence": "high" }
-        ],
+      ],
       "hu": [
             {
                   "name": "Pápai palota",
                   "text": "A világ legnagyobb gótikus palotája, amely a 14. században a katolikus egyházfők székhelyeként szolgált Avignonban.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.8075,
+                        43.9508
+                  ]
             },
             {
                   "name": "Pont Saint-Bénézet (Avignoni híd)",
                   "text": "A híres középkori kőhíd maradványa a Rhone folyón, amely egy népszerű francia gyermekdalból vált világszerte ismertté.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.805,
+                        43.953889
+                  ]
             },
             {
                   "name": "Notre-Dame des Doms székesegyház",
                   "text": "A Pápai palota mellett álló román stílusú katedrális, melynek tornyán Szűz Mária aranyozott szobra ragyog a város felett.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.8075,
+                        43.951667
+                  ]
             },
             {
                   "name": "Rocher des Doms park",
                   "text": "A Rhone folyó feletti sziklán elterülő kert, ahonnan lélegzetelállító panoráma nyílik az egész városra és a környékre.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.807742,
+                        43.95271
+                  ]
             },
             {
                   "name": "Kis Palota Múzeum",
                   "text": "Az egykori érseki palotában működő múzeum, amely reneszánsz olasz festmények és avignoni szobrok gazdag tára.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.806389,
+                        43.952639
+                  ]
             },
             {
                   "name": "Avignoni Vásárcsarnok",
                   "text": "A város gasztronómiai központja, melynek falát hatalmas függőkert borítja, belsejében pedig friss provence-i áruk kaphatók.",
                   "category": "culinary",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.809683,
+                        43.947172
+                  ]
+            },
+            {
+                  "name": "Musée Calvet",
+                  "text": "Múzeum egy 18. századi palotában, amely képzőművészeti alkotásokat és helyi régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.803333,
+                        43.946944
+                  ]
+            },
+            {
+                  "name": "Musée Angladon",
+                  "text": "Magánmúzeum egy történelmi polgárházban, Van Gogh, Cézanne és Picasso műveivel a gyűjteményében.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.80697,
+                        43.946
+                  ]
+            },
+            {
+                  "name": "Musée Lapidaire",
+                  "text": "A Calvet Múzeum régészeti kőtára, amely egy 17. századi jezsuita kápolnában kapott helyet.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.80587,
+                        43.9459
+                  ]
+            },
+            {
+                  "name": "Collection Lambert",
+                  "text": "Kortárs művészeti múzeum a Hôtel de Caumont épületében, Yvon Lambert gyűjteményét prezentálja.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.804305,
+                        43.944821
+                  ]
+            },
+            {
+                  "name": "Rue des Teinturiers",
+                  "text": "Festői történelmi utca a Sorgue-csatorna mentén, amely régi vízikerekeiről és hangulatáról híres.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.81393,
+                        43.945
+                  ]
+            },
+            {
+                  "name": "Place de l'Horloge",
+                  "text": "A város központi tere, ahol a városháza, az opera és számos szabadtéri kávézó található.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        4.80598,
+                        43.94934
+                  ]
+            },
+            {
+                  "name": "Opéra d'Avignon",
+                  "text": "Egy 19. századi színházépület az Óratorony téren, amely operáknak és balettelőadásoknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        4.80553,
+                        43.9497
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Pierre d'Avignon",
+                  "text": "Gótikus bazilika, amely 16. századi faragott fa kapuiról és díszes belső teréről ismert.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        4.8083,
+                        43.9492
+                  ]
+            },
+            {
+                  "name": "Remparts d'Avignon",
+                  "text": "Jó állapotban megmaradt 14. századi városfal, amely 4,3 kilométer hosszan öleli körbe a belvárost.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.806384,
+                        43.953305
+                  ]
+            },
+            {
+                  "name": "Palais du Roure",
+                  "text": "15. századi palota és kulturális központ, amelyet Provence történelmének és hagyományainak szentelték.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.80556,
+                        43.9483
+                  ]
             }
-      ,
-            { "name": "Musée Calvet", "text": "Múzeum egy 18. századi palotában, amely képzőművészeti alkotásokat és helyi régészeti leleteket mutat be.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Angladon", "text": "Magánmúzeum egy történelmi polgárházban, Van Gogh, Cézanne és Picasso műveivel a gyűjteményében.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Lapidaire", "text": "A Calvet Múzeum régészeti kőtára, amely egy 17. századi jezsuita kápolnában kapott helyet.", "category": "museum", "confidence": "high" },
-            { "name": "Collection Lambert", "text": "Kortárs művészeti múzeum a Hôtel de Caumont épületében, Yvon Lambert gyűjteményét prezentálja.", "category": "museum", "confidence": "high" },
-            { "name": "Rue des Teinturiers", "text": "Festői történelmi utca a Sorgue-csatorna mentén, amely régi vízikerekeiről és hangulatáról híres.", "category": "historical", "confidence": "high" },
-            { "name": "Place de l'Horloge", "text": "A város központi tere, ahol a városháza, az opera és számos szabadtéri kávézó található.", "category": "civic", "confidence": "high" },
-            { "name": "Opéra d'Avignon", "text": "Egy 19. századi színházépület az Óratorony téren, amely operáknak és balettelőadásoknak ad otthont.", "category": "cultural", "confidence": "high" },
-            { "name": "Basilique Saint-Pierre d'Avignon", "text": "Gótikus bazilika, amely 16. századi faragott fa kapuiról és díszes belső teréről ismert.", "category": "religious", "confidence": "high" },
-            { "name": "Remparts d'Avignon", "text": "Jó állapotban megmaradt 14. századi városfal, amely 4,3 kilométer hosszan öleli körbe a belvárost.", "category": "historical", "confidence": "high" },
-            { "name": "Palais du Roure", "text": "15. századi palota és kulturális központ, amelyet Provence történelmének és hagyományainak szentelték.", "category": "historical", "confidence": "high" }
-        ],
+      ],
       "ro": [
             {
                   "name": "Palatul Papilor",
                   "text": "Cea mai mare construcție gotică din lume, fosta reședință a papilor în secolul al XIV-lea, simbol al puterii bisericești.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.8075,
+                        43.9508
+                  ]
             },
             {
                   "name": "Podul Saint-Bénézet",
                   "text": "Cunoscut din celebrul cântec, acest pod medieval parțial distrus peste Ron este un sit protejat de UNESCO.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.805,
+                        43.953889
+                  ]
             },
             {
                   "name": "Catedrala Notre-Dame des Doms",
                   "text": "O catedrală romanică situată lângă Palatul Papilor, remarcabilă prin statuia aurită a Fecioarei Maria de pe turn.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.8075,
+                        43.951667
+                  ]
             },
             {
                   "name": "Rocher des Doms",
                   "text": "O grădină publică amenajată pe o stâncă înaltă, oferind cele mai frumoase vederi asupra fluviului Ron și a împrejurimilor.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.807742,
+                        43.95271
+                  ]
             },
             {
                   "name": "Muzeul Petit Palais",
                   "text": "Găzduit într-un palat cardinal din secolul al XIV-lea, muzeul prezintă o colecție rară de picturi italiene primitive.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.806389,
+                        43.952639
+                  ]
             },
             {
                   "name": "Piața centrală (Les Halles)",
                   "text": "O piață acoperită faimoasă pentru peretele său vegetal exterior și pentru varietatea de specialități locale provensale.",
                   "category": "culinary",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.809683,
+                        43.947172
+                  ]
+            },
+            {
+                  "name": "Musée Calvet",
+                  "text": "Muzeu într-un conac din secolul al XVIII-lea, care adăpostește arte frumoase și descoperiri arheologice locale.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.803333,
+                        43.946944
+                  ]
+            },
+            {
+                  "name": "Musée Angladon",
+                  "text": "Muzeu de artă privat care expune lucrări de Van Gogh, Cézanne și Picasso într-o casă istorică.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.80697,
+                        43.946
+                  ]
+            },
+            {
+                  "name": "Musée Lapidaire",
+                  "text": "Colecția arheologică a Muzeului Calvet, expusă într-o capelă iezuită din secolul al XVII-lea.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.80587,
+                        43.9459
+                  ]
+            },
+            {
+                  "name": "Collection Lambert",
+                  "text": "Muzeu de artă contemporană stabilit în Hôtel de Caumont, prezentând colecția lui Yvon Lambert.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.804305,
+                        43.944821
+                  ]
+            },
+            {
+                  "name": "Rue des Teinturiers",
+                  "text": "Stradă istorică pitorească de-a lungul canalului Sorgue, cunoscută pentru roțile sale vechi de apă.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.81393,
+                        43.945
+                  ]
+            },
+            {
+                  "name": "Place de l'Horloge",
+                  "text": "Piața principală a orașului, sediul Primăriei, al Operei și al numeroaselor cafenele în aer liber.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        4.80598,
+                        43.94934
+                  ]
+            },
+            {
+                  "name": "Opéra d'Avignon",
+                  "text": "O clădire de teatru din secolul al XIX-lea situată în Place de l'Horloge, care găzduiește operă și balet.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        4.80553,
+                        43.9497
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Pierre d'Avignon",
+                  "text": "Bazilică gotică cunoscută pentru porțile sale remarcabile din lemn sculptat din secolul al XVI-lea.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        4.8083,
+                        43.9492
+                  ]
+            },
+            {
+                  "name": "Remparts d'Avignon",
+                  "text": "Ziduri defensive din secolul al XIV-lea bine conservate, care înconjoară centrul istoric pe 4,3 km.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.806384,
+                        43.953305
+                  ]
+            },
+            {
+                  "name": "Palais du Roure",
+                  "text": "Un conac din secolul al XV-lea și centru cultural dedicat istoriei și tradițiilor din Provence.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.80556,
+                        43.9483
+                  ]
             }
-      ,
-            { "name": "Musée Calvet", "text": "Muzeu într-un conac din secolul al XVIII-lea, care adăpostește arte frumoase și descoperiri arheologice locale.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Angladon", "text": "Muzeu de artă privat care expune lucrări de Van Gogh, Cézanne și Picasso într-o casă istorică.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Lapidaire", "text": "Colecția arheologică a Muzeului Calvet, expusă într-o capelă iezuită din secolul al XVII-lea.", "category": "museum", "confidence": "high" },
-            { "name": "Collection Lambert", "text": "Muzeu de artă contemporană stabilit în Hôtel de Caumont, prezentând colecția lui Yvon Lambert.", "category": "museum", "confidence": "high" },
-            { "name": "Rue des Teinturiers", "text": "Stradă istorică pitorească de-a lungul canalului Sorgue, cunoscută pentru roțile sale vechi de apă.", "category": "historical", "confidence": "high" },
-            { "name": "Place de l'Horloge", "text": "Piața principală a orașului, sediul Primăriei, al Operei și al numeroaselor cafenele în aer liber.", "category": "civic", "confidence": "high" },
-            { "name": "Opéra d'Avignon", "text": "O clădire de teatru din secolul al XIX-lea situată în Place de l'Horloge, care găzduiește operă și balet.", "category": "cultural", "confidence": "high" },
-            { "name": "Basilique Saint-Pierre d'Avignon", "text": "Bazilică gotică cunoscută pentru porțile sale remarcabile din lemn sculptat din secolul al XVI-lea.", "category": "religious", "confidence": "high" },
-            { "name": "Remparts d'Avignon", "text": "Ziduri defensive din secolul al XIV-lea bine conservate, care înconjoară centrul istoric pe 4,3 km.", "category": "historical", "confidence": "high" },
-            { "name": "Palais du Roure", "text": "Un conac din secolul al XV-lea și centru cultural dedicat istoriei și tradițiilor din Provence.", "category": "historical", "confidence": "high" }
-        ],
+      ],
       "en": [
             {
                   "name": "Palace of the Popes",
                   "text": "The largest Gothic palace in the world, this fortress-residence housed the papacy during the 14th century in Avignon.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.8075,
+                        43.9508
+                  ]
             },
             {
                   "name": "Pont Saint-Bénézet",
                   "text": "Commonly known as the Pont d'Avignon, this famous medieval bridge remnants span halfway across the Rhône River.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.805,
+                        43.953889
+                  ]
             },
             {
                   "name": "Avignon Cathedral",
                   "text": "A Romanesque cathedral located next to the Papal Palace, distinguished by the gilded statue of the Virgin atop its tower.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.8075,
+                        43.951667
+                  ]
             },
             {
                   "name": "Rocher des Doms",
                   "text": "A beautiful hilltop park offering panoramic views of the city, the Rhône valley, and the famous broken bridge.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.807742,
+                        43.95271
+                  ]
             },
             {
                   "name": "Musée du Petit Palais",
                   "text": "An exceptional museum of Italian Renaissance painting and medieval sculpture located in the former archbishop's palace.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.806389,
+                        43.952639
+                  ]
             },
             {
                   "name": "Les Halles d'Avignon",
                   "text": "A vibrant indoor market famous for its massive living green wall and high-quality local produce from the Provence region.",
                   "category": "culinary",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        4.809683,
+                        43.947172
+                  ]
+            },
+            {
+                  "name": "Musée Calvet",
+                  "text": "Museum in an 18th-century mansion, housing fine arts and archaeological findings from the region.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.803333,
+                        43.946944
+                  ]
+            },
+            {
+                  "name": "Musée Angladon",
+                  "text": "Private art museum featuring works by Van Gogh, Cézanne, and Picasso in a historic townhouse.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.80697,
+                        43.946
+                  ]
+            },
+            {
+                  "name": "Musée Lapidaire",
+                  "text": "Archaeological collection of the Calvet Museum, displayed in a 17th-century Jesuit chapel.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.80587,
+                        43.9459
+                  ]
+            },
+            {
+                  "name": "Collection Lambert",
+                  "text": "Contemporary art museum established in the Hôtel de Caumont, showcasing Yvon Lambert's collection.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        4.804305,
+                        43.944821
+                  ]
+            },
+            {
+                  "name": "Rue des Teinturiers",
+                  "text": "Picturesque historic street along the Sorgue canal, known for its old water wheels.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.81393,
+                        43.945
+                  ]
+            },
+            {
+                  "name": "Place de l'Horloge",
+                  "text": "The main city square, home to the City Hall, the Opera, and numerous outdoor cafes.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        4.80598,
+                        43.94934
+                  ]
+            },
+            {
+                  "name": "Opéra d'Avignon",
+                  "text": "A 19th-century theater building located on Place de l'Horloge, hosting opera and ballet.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        4.80553,
+                        43.9497
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Pierre d'Avignon",
+                  "text": "Gothic basilica known for its remarkable 16th-century carved wooden doors and ornate interior.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        4.8083,
+                        43.9492
+                  ]
+            },
+            {
+                  "name": "Remparts d'Avignon",
+                  "text": "Well-preserved 14th-century defensive walls encircling the historic center, spanning 4.3 kilometers.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.806384,
+                        43.953305
+                  ]
+            },
+            {
+                  "name": "Palais du Roure",
+                  "text": "A 15th-century mansion and cultural center dedicated to the history and traditions of Provence.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        4.80556,
+                        43.9483
+                  ]
             }
-      ,
-            { "name": "Musée Calvet", "text": "Museum in an 18th-century mansion, housing fine arts and archaeological findings from the region.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Angladon", "text": "Private art museum featuring works by Van Gogh, Cézanne, and Picasso in a historic townhouse.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Lapidaire", "text": "Archaeological collection of the Calvet Museum, displayed in a 17th-century Jesuit chapel.", "category": "museum", "confidence": "high" },
-            { "name": "Collection Lambert", "text": "Contemporary art museum established in the Hôtel de Caumont, showcasing Yvon Lambert's collection.", "category": "museum", "confidence": "high" },
-            { "name": "Rue des Teinturiers", "text": "Picturesque historic street along the Sorgue canal, known for its old water wheels.", "category": "historical", "confidence": "high" },
-            { "name": "Place de l'Horloge", "text": "The main city square, home to the City Hall, the Opera, and numerous outdoor cafes.", "category": "civic", "confidence": "high" },
-            { "name": "Opéra d'Avignon", "text": "A 19th-century theater building located on Place de l'Horloge, hosting opera and ballet.", "category": "cultural", "confidence": "high" },
-            { "name": "Basilique Saint-Pierre d'Avignon", "text": "Gothic basilica known for its remarkable 16th-century carved wooden doors and ornate interior.", "category": "religious", "confidence": "high" },
-            { "name": "Remparts d'Avignon", "text": "Well-preserved 14th-century defensive walls encircling the historic center, spanning 4.3 kilometers.", "category": "historical", "confidence": "high" },
-            { "name": "Palais du Roure", "text": "A 15th-century mansion and cultural center dedicated to the history and traditions of Provence.", "category": "historical", "confidence": "high" }
-        ]
-,
+      ],
       "fr": [
-        { "name": "Palais des Papes", "text": "Plus grand palais gothique au monde, résidence des papes au XIVe siècle et site inscrit au patrimoine mondial.", "category": "historical" },
-        { "name": "Pont Saint-Bénézet", "text": "Célèbre pont médiéval ne traversant que la moitié du Rhône, rendu célèbre par une chanson populaire.", "category": "historical" },
-        { "name": "Cathédrale Notre-Dame des Doms", "text": "Cathédrale romane jouxtant le Palais des Papes, surmontée d'une statue dorée de la Vierge Marie.", "category": "religious" },
-        { "name": "Rocher des Doms", "text": "Joli parc perché sur un rocher surplombant le Rhône, offrant une vue fantastique sur le pont et le palais.", "category": "natural" },
-        { "name": "Musée du Petit Palais", "text": "Installé dans l'ancien évêché, il expose une excellente collection de peintures italiennes et provençales.", "category": "museum" },
-        { "name": "Les Halles d'Avignon", "text": "Marché animé avec une façade végétale, proposant les meilleurs produits régionaux de Provence.", "category": "culinary" }
+            {
+                  "name": "Palais des Papes",
+                  "text": "Plus grand palais gothique au monde, résidence des papes au XIVe siècle et site inscrit au patrimoine mondial.",
+                  "category": "historical",
+                  "coords": [
+                        4.8075,
+                        43.9508
+                  ]
+            },
+            {
+                  "name": "Pont Saint-Bénézet",
+                  "text": "Célèbre pont médiéval ne traversant que la moitié du Rhône, rendu célèbre par une chanson populaire.",
+                  "category": "historical",
+                  "coords": [
+                        4.805,
+                        43.953889
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame des Doms",
+                  "text": "Cathédrale romane jouxtant le Palais des Papes, surmontée d'une statue dorée de la Vierge Marie.",
+                  "category": "religious",
+                  "coords": [
+                        4.8075,
+                        43.951667
+                  ]
+            },
+            {
+                  "name": "Rocher des Doms",
+                  "text": "Joli parc perché sur un rocher surplombant le Rhône, offrant une vue fantastique sur le pont et le palais.",
+                  "category": "natural",
+                  "coords": [
+                        4.807742,
+                        43.95271
+                  ]
+            },
+            {
+                  "name": "Musée du Petit Palais",
+                  "text": "Installé dans l'ancien évêché, il expose une excellente collection de peintures italiennes et provençales.",
+                  "category": "museum",
+                  "coords": [
+                        4.806389,
+                        43.952639
+                  ]
+            },
+            {
+                  "name": "Les Halles d'Avignon",
+                  "text": "Marché animé avec une façade végétale, proposant les meilleurs produits régionaux de Provence.",
+                  "category": "culinary",
+                  "coords": [
+                        4.809683,
+                        43.947172
+                  ]
+            }
       ]
-    }
+}
   },
   {
     id: "lake-lake-geneva-extra",
@@ -1605,207 +3489,706 @@ export const poiExtraFranceCities: POI[] = [
                   "name": "Herzogspalast von Dijon",
                   "text": "Der prächtige Sitz der Herzöge von Burgund beherbergt heute das Rathaus und eines der ältesten Kunstmuseen Frankreichs.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.041389,
+                        47.321944
+                  ]
             },
             {
                   "name": "Kirche Notre-Dame de Dijon",
                   "text": "Ein Meisterwerk der burgundischen Gotik, bekannt für ihre Fassade mit Wasserspeiern und die Glück bringende Steineule.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.041528,
+                        47.32265
+                  ]
             },
             {
                   "name": "Kathedrale Saint-Bénigne",
                   "text": "Diese ehemalige Abteikirche beeindruckt durch ihre gewaltige Krypta und das typisch burgundische Dach aus bunten Ziegeln.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.03439,
+                        47.321494
+                  ]
             },
             {
                   "name": "Tour Philippe le Bon",
                   "text": "Ein 46 Meter hoher Turm aus dem 15. Jahrhundert, der einen spektakulären Rundblick über die Dächer von Dijon bietet.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.04147,
+                        47.3219
+                  ]
             },
             {
                   "name": "Musée des Beaux-Arts de Dijon",
                   "text": "Im Herzogspalast gelegen, zeigt es die Grabmäler der burgundischen Herzöge und eine erstklassige Kunstsammlung.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.04267,
+                        47.3216
+                  ]
             },
             {
                   "name": "Puits de Moïse (Mose-Brunnen)",
                   "text": "Ein Meisterwerk der spätmittelalterlichen Bildhauerei von Claus Sluter, das sich in der ehemaligen Kartause Champmol befindet.",
                   "category": "monastic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.01665,
+                        47.32125
+                  ]
+            },
+            {
+                  "name": "Jardin de l'Arquebuse",
+                  "text": "Dieser fünf Hektar große Komplex umfasst einen botanischen Garten, ein Naturkundemuseum und ein Planetarium.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.029377,
+                        47.321441
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel de Dijon",
+                  "text": "Diese Kirche besticht durch ihre beeindruckende Fassade, die einen einzigartigen Übergang von der Gotik zur Renaissance zeigt.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.04518,
+                        47.321
+                  ]
+            },
+            {
+                  "name": "Les Halles de Dijon",
+                  "text": "Die markante Markthalle wurde von Gustave Eiffel entworfen und ist ein lebendiger Ort für lokale gastronomische Spezialitäten.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        5.044044,
+                        47.323105
+                  ]
+            },
+            {
+                  "name": "Musée de la Vie Bourguignonne",
+                  "text": "In einem ehemaligen Kloster untergebracht, zeigt das Museum das tägliche Leben und Handwerk in Burgund im 19. Jahrhundert.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.03792,
+                        47.3177
+                  ]
+            },
+            {
+                  "name": "Place de la Libération",
+                  "text": "Ein wunderschöner halbkreisförmiger Platz gegenüber dem Herzogspalast, entworfen von Jules Hardouin-Mansart im 17. Jahrhundert.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.041416,
+                        47.321273
+                  ]
+            },
+            {
+                  "name": "Musée Magnin",
+                  "text": "Ein nationales Museum in einem prächtigen Stadtpalais, das die private Kunstsammlung der Familie Magnin ausstellt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.042194,
+                        47.320917
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique de Dijon",
+                  "text": "Das im ehemaligen Kloster Saint-Bénigne untergebrachte Museum zeigt bedeutende Funde aus der gallo-römischen Zeit Burgunds.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.035,
+                        47.321667
+                  ]
+            },
+            {
+                  "name": "Parc de la Colombière",
+                  "text": "Ein historischer, von Le Nôtre entworfener Waldpark mit weitläufigen Alleen, ideal für Spaziergänge und Erholung im Freien.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.04673,
+                        47.3
+                  ]
+            },
+            {
+                  "name": "Place François-Rude",
+                  "text": "Bekannt als Place du Bareuzai, beherbergt dieser malerische Platz einen Brunnen mit einer Bronzestatue eines Winzers.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.038989,
+                        47.322209
+                  ]
+            },
+            {
+                  "name": "Hôtel de Vogüé",
+                  "text": "Eines der schönsten Renaissance-Privathäuser in Dijon, berühmt für seine farbenfrohen burgundischen Dachziegel.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.04217,
+                        47.3227
+                  ]
             }
-      ,
-            { "name": "Jardin de l'Arquebuse", "text": "Dieser fünf Hektar große Komplex umfasst einen botanischen Garten, ein Naturkundemuseum und ein Planetarium.", "category": "natural", "confidence": "high" },
-            { "name": "Église Saint-Michel de Dijon", "text": "Diese Kirche besticht durch ihre beeindruckende Fassade, die einen einzigartigen Übergang von der Gotik zur Renaissance zeigt.", "category": "religious", "confidence": "high" },
-            { "name": "Les Halles de Dijon", "text": "Die markante Markthalle wurde von Gustave Eiffel entworfen und ist ein lebendiger Ort für lokale gastronomische Spezialitäten.", "category": "culinary", "confidence": "high" },
-            { "name": "Musée de la Vie Bourguignonne", "text": "In einem ehemaligen Kloster untergebracht, zeigt das Museum das tägliche Leben und Handwerk in Burgund im 19. Jahrhundert.", "category": "museum", "confidence": "high" },
-            { "name": "Place de la Libération", "text": "Ein wunderschöner halbkreisförmiger Platz gegenüber dem Herzogspalast, entworfen von Jules Hardouin-Mansart im 17. Jahrhundert.", "category": "civic", "confidence": "high" },
-            { "name": "Musée Magnin", "text": "Ein nationales Museum in einem prächtigen Stadtpalais, das die private Kunstsammlung der Familie Magnin ausstellt.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Archéologique de Dijon", "text": "Das im ehemaligen Kloster Saint-Bénigne untergebrachte Museum zeigt bedeutende Funde aus der gallo-römischen Zeit Burgunds.", "category": "museum", "confidence": "high" },
-            { "name": "Parc de la Colombière", "text": "Ein historischer, von Le Nôtre entworfener Waldpark mit weitläufigen Alleen, ideal für Spaziergänge und Erholung im Freien.", "category": "natural", "confidence": "high" },
-            { "name": "Place François-Rude", "text": "Bekannt als Place du Bareuzai, beherbergt dieser malerische Platz einen Brunnen mit einer Bronzestatue eines Winzers.", "category": "civic", "confidence": "high" },
-            { "name": "Hôtel de Vogüé", "text": "Eines der schönsten Renaissance-Privathäuser in Dijon, berühmt für seine farbenfrohen burgundischen Dachziegel.", "category": "historical", "confidence": "high" }
-        ],
+      ],
       "hu": [
             {
                   "name": "Burgund hercegeinek palotája",
                   "text": "Dijon szívében található monumentális épületegyüttes, amely ma a városházának és a Szépművészeti Múzeumnak ad otthont.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.041389,
+                        47.321944
+                  ]
             },
             {
                   "name": "Dijon-i Notre-Dame templom",
                   "text": "A burgundiai gótika remekműve, híres a homlokzatát díszítő vízköpőkről és a falába faragott szerencsehozó bagolyról.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.041528,
+                        47.32265
+                  ]
             },
             {
                   "name": "Szent Benignus-székesegyház",
                   "text": "A város katedrálisa, melynek hatalmas kriptája és színes, mázas burgundiai tetőcserepei a régió építészeti jelképei.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.03439,
+                        47.321494
+                  ]
             },
             {
                   "name": "Jó Fülöp-torony",
                   "text": "A 15. században épült őrtorony, ahonnan 316 lépcső megmászása után lenyűgöző kilátás nyílik Dijon történelmi negyedére.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.04147,
+                        47.3219
+                  ]
             },
             {
                   "name": "Dijon-i Szépművészeti Múzeum",
                   "text": "Az egyik legrégebbi francia múzeum, ahol a burgund hercegek pazar síremlékei és gazdag művészeti kincsek láthatók.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.04267,
+                        47.3216
+                  ]
             },
             {
                   "name": "Mózes-kút",
                   "text": "Claus Sluter szobrászművész 14. századi remekműve, amely a középkori szobrászat egyik legfontosabb alkotása Európában.",
                   "category": "monastic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.01665,
+                        47.32125
+                  ]
+            },
+            {
+                  "name": "Jardin de l'Arquebuse",
+                  "text": "Ez az öthektáros komplexum egy botanikus kertet, egy természettudományi múzeumot és egy planetáriumot foglal magában.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.029377,
+                        47.321441
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel de Dijon",
+                  "text": "Ez a templom lenyűgöző homlokzatával tűnik ki, amely a gótikából a reneszánszba való egyedülálló átmenetet mutatja.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.04518,
+                        47.321
+                  ]
+            },
+            {
+                  "name": "Les Halles de Dijon",
+                  "text": "A jellegzetes vásárcsarnokot Gustave Eiffel tervezte, és a helyi gasztronómiai különlegességek nyüzsgő lelőhelye.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        5.044044,
+                        47.323105
+                  ]
+            },
+            {
+                  "name": "Musée de la Vie Bourguignonne",
+                  "text": "Az egykori kolostorban elhelyezett múzeum a 19. századi burgundiai mindennapi életet és mesterségeket mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.03792,
+                        47.3177
+                  ]
+            },
+            {
+                  "name": "Place de la Libération",
+                  "text": "Gyönyörű félköríves tér a hercegi palotával szemben, amelyet Jules Hardouin-Mansart tervezett a 17. században.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.041416,
+                        47.321273
+                  ]
+            },
+            {
+                  "name": "Musée Magnin",
+                  "text": "Pompás városi palotában berendezett nemzeti múzeum, amely a Magnin család magán művészeti gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.042194,
+                        47.320917
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique de Dijon",
+                  "text": "A Szent Bénigne-apátság egykori épületében található múzeum Burgundia gall-római korszakának jelentős leleteit őrzi.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.035,
+                        47.321667
+                  ]
+            },
+            {
+                  "name": "Parc de la Colombière",
+                  "text": "Történelmi, Le Nôtre által tervezett erdős park tágas sétányokkal, amely ideális sétákhoz és szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.04673,
+                        47.3
+                  ]
+            },
+            {
+                  "name": "Place François-Rude",
+                  "text": "A Bareuzai térként ismert festői téren egy szökőkút található, rajta egy bortermelőt ábrázoló bronzszoborral.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.038989,
+                        47.322209
+                  ]
+            },
+            {
+                  "name": "Hôtel de Vogüé",
+                  "text": "Dijon egyik legszebb reneszánsz magánpalotája, amely színes burgundiai tetőcserepeiről híres.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.04217,
+                        47.3227
+                  ]
             }
-      ,
-            { "name": "Jardin de l'Arquebuse", "text": "Ez az öthektáros komplexum egy botanikus kertet, egy természettudományi múzeumot és egy planetáriumot foglal magában.", "category": "natural", "confidence": "high" },
-            { "name": "Église Saint-Michel de Dijon", "text": "Ez a templom lenyűgöző homlokzatával tűnik ki, amely a gótikából a reneszánszba való egyedülálló átmenetet mutatja.", "category": "religious", "confidence": "high" },
-            { "name": "Les Halles de Dijon", "text": "A jellegzetes vásárcsarnokot Gustave Eiffel tervezte, és a helyi gasztronómiai különlegességek nyüzsgő lelőhelye.", "category": "culinary", "confidence": "high" },
-            { "name": "Musée de la Vie Bourguignonne", "text": "Az egykori kolostorban elhelyezett múzeum a 19. századi burgundiai mindennapi életet és mesterségeket mutatja be.", "category": "museum", "confidence": "high" },
-            { "name": "Place de la Libération", "text": "Gyönyörű félköríves tér a hercegi palotával szemben, amelyet Jules Hardouin-Mansart tervezett a 17. században.", "category": "civic", "confidence": "high" },
-            { "name": "Musée Magnin", "text": "Pompás városi palotában berendezett nemzeti múzeum, amely a Magnin család magán művészeti gyűjteményét mutatja be.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Archéologique de Dijon", "text": "A Szent Bénigne-apátság egykori épületében található múzeum Burgundia gall-római korszakának jelentős leleteit őrzi.", "category": "museum", "confidence": "high" },
-            { "name": "Parc de la Colombière", "text": "Történelmi, Le Nôtre által tervezett erdős park tágas sétányokkal, amely ideális sétákhoz és szabadtéri kikapcsolódáshoz.", "category": "natural", "confidence": "high" },
-            { "name": "Place François-Rude", "text": "A Bareuzai térként ismert festői téren egy szökőkút található, rajta egy bortermelőt ábrázoló bronzszoborral.", "category": "civic", "confidence": "high" },
-            { "name": "Hôtel de Vogüé", "text": "Dijon egyik legszebb reneszánsz magánpalotája, amely színes burgundiai tetőcserepeiről híres.", "category": "historical", "confidence": "high" }
-        ],
+      ],
       "ro": [
             {
                   "name": "Palatul Ducilor de Burgundia",
                   "text": "O clădire grandioasă care a servit drept sediu al ducilor, găzduind acum primăria și un muzeu de artă de renume.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.041389,
+                        47.321944
+                  ]
             },
             {
                   "name": "Biserica Notre-Dame din Dijon",
                   "text": "Faimoasă pentru fațada sa decorată cu rânduri de gargui și pentru bufnița sculptată care se spune că aduce noroc.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.041528,
+                        47.32265
+                  ]
             },
             {
                   "name": "Catedrala Saint-Bénigne",
                   "text": "O catedrală gotică impunătoare cu un acoperiș din țiglă colorată vernisată, specific burgundez, și o criptă circulară rară.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.03439,
+                        47.321494
+                  ]
             },
             {
                   "name": "Turnul Philippe le Bon",
                   "text": "Turnul de veghe al palatului ducal, oferind o panoramă de 360 de grade asupra orașului vechi de la înălțimea sa de 46 de metri.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.04147,
+                        47.3219
+                  ]
             },
             {
                   "name": "Muzeul de Arte Frumoase din Dijon",
                   "text": "Unul dintre cele mai importante muzee din Franța, adăpostind mormintele monumentale ale ducilor de Burgundia.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.04267,
+                        47.3216
+                  ]
             },
             {
                   "name": "Pouțul lui Moise",
                   "text": "O sculptură monumentală din secolul al XIV-lea, considerată o culme a artei gotice internaționale, situată la Champmol.",
                   "category": "monastic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.01665,
+                        47.32125
+                  ]
+            },
+            {
+                  "name": "Jardin de l'Arquebuse",
+                  "text": "Acest complex de cinci hectare cuprinde o grădină botanică, un muzeu de istorie naturală și un planetariu.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.029377,
+                        47.321441
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel de Dijon",
+                  "text": "Această biserică se remarcă prin fațada sa impresionantă, care prezintă o tranziție unică de la gotic la renaștere.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.04518,
+                        47.321
+                  ]
+            },
+            {
+                  "name": "Les Halles de Dijon",
+                  "text": "Hala de piață distinctivă a fost proiectată de Gustave Eiffel și este un loc plin de viață pentru specialități gastronomice locale.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        5.044044,
+                        47.323105
+                  ]
+            },
+            {
+                  "name": "Musée de la Vie Bourguignonne",
+                  "text": "Găzduit într-o fostă mănăstire, muzeul prezintă viața de zi cu zi și meșteșugurile din Burgundia secolului al XIX-lea.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.03792,
+                        47.3177
+                  ]
+            },
+            {
+                  "name": "Place de la Libération",
+                  "text": "O piață semicirculară frumoasă vizavi de Palatul Ducal, proiectată de Jules Hardouin-Mansart în secolul al XVII-lea.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.041416,
+                        47.321273
+                  ]
+            },
+            {
+                  "name": "Musée Magnin",
+                  "text": "Un muzeu național situat într-un hotel particular splendid, care expune colecția privată de artă a familiei Magnin.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.042194,
+                        47.320917
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique de Dijon",
+                  "text": "Situat în fosta abație Saint-Bénigne, muzeul prezintă descoperiri importante din perioada galo-romană a Burgundiei.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.035,
+                        47.321667
+                  ]
+            },
+            {
+                  "name": "Parc de la Colombière",
+                  "text": "Un parc împădurit istoric proiectat de Le Nôtre, cu alei largi, ideal pentru plimbări și recreere în aer liber.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.04673,
+                        47.3
+                  ]
+            },
+            {
+                  "name": "Place François-Rude",
+                  "text": "Cunoscută sub numele de Place du Bareuzai, această piață pitorească găzduiește o fântână cu o statuie de bronz a unui viticultor.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.038989,
+                        47.322209
+                  ]
+            },
+            {
+                  "name": "Hôtel de Vogüé",
+                  "text": "Una dintre cele mai frumoase case particulare renascentiste din Dijon, celebră pentru țiglele sale colorate de Burgundia.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.04217,
+                        47.3227
+                  ]
             }
-      ,
-            { "name": "Jardin de l'Arquebuse", "text": "Acest complex de cinci hectare cuprinde o grădină botanică, un muzeu de istorie naturală și un planetariu.", "category": "natural", "confidence": "high" },
-            { "name": "Église Saint-Michel de Dijon", "text": "Această biserică se remarcă prin fațada sa impresionantă, care prezintă o tranziție unică de la gotic la renaștere.", "category": "religious", "confidence": "high" },
-            { "name": "Les Halles de Dijon", "text": "Hala de piață distinctivă a fost proiectată de Gustave Eiffel și este un loc plin de viață pentru specialități gastronomice locale.", "category": "culinary", "confidence": "high" },
-            { "name": "Musée de la Vie Bourguignonne", "text": "Găzduit într-o fostă mănăstire, muzeul prezintă viața de zi cu zi și meșteșugurile din Burgundia secolului al XIX-lea.", "category": "museum", "confidence": "high" },
-            { "name": "Place de la Libération", "text": "O piață semicirculară frumoasă vizavi de Palatul Ducal, proiectată de Jules Hardouin-Mansart în secolul al XVII-lea.", "category": "civic", "confidence": "high" },
-            { "name": "Musée Magnin", "text": "Un muzeu național situat într-un hotel particular splendid, care expune colecția privată de artă a familiei Magnin.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Archéologique de Dijon", "text": "Situat în fosta abație Saint-Bénigne, muzeul prezintă descoperiri importante din perioada galo-romană a Burgundiei.", "category": "museum", "confidence": "high" },
-            { "name": "Parc de la Colombière", "text": "Un parc împădurit istoric proiectat de Le Nôtre, cu alei largi, ideal pentru plimbări și recreere în aer liber.", "category": "natural", "confidence": "high" },
-            { "name": "Place François-Rude", "text": "Cunoscută sub numele de Place du Bareuzai, această piață pitorească găzduiește o fântână cu o statuie de bronz a unui viticultor.", "category": "civic", "confidence": "high" },
-            { "name": "Hôtel de Vogüé", "text": "Una dintre cele mai frumoase case particulare renascentiste din Dijon, celebră pentru țiglele sale colorate de Burgundia.", "category": "historical", "confidence": "high" }
-        ],
+      ],
       "en": [
             {
                   "name": "Palace of the Dukes of Burgundy",
                   "text": "The historic heart of Dijon, this grand palace complex houses the City Hall and a world-class fine arts museum.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.041389,
+                        47.321944
+                  ]
             },
             {
                   "name": "Church of Notre-Dame of Dijon",
                   "text": "A Gothic masterpiece known for its unique facade of gargoyles and the 'Owl of Dijon' that visitors touch for luck.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.041528,
+                        47.32265
+                  ]
             },
             {
                   "name": "Dijon Cathedral (Saint-Bénigne)",
                   "text": "Famous for its vibrant patterned tile roof and a vast Romanesque crypt, this cathedral is a landmark of Burgundian history.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.03439,
+                        47.321494
+                  ]
             },
             {
                   "name": "Philippe le Bon Tower",
                   "text": "This 15th-century tower rises above the ducal palace, providing visitors with a magnificent view over the entire city.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.04147,
+                        47.3219
+                  ]
             },
             {
                   "name": "Musée des Beaux-Arts de Dijon",
                   "text": "One of France's oldest museums, it features the magnificent tombs of the Dukes and a vast collection of European art.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.04267,
+                        47.3216
+                  ]
             },
             {
                   "name": "Well of Moses",
                   "text": "A masterpiece of late medieval sculpture by Claus Sluter, featuring detailed figures of six biblical prophets.",
                   "category": "monastic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.01665,
+                        47.32125
+                  ]
+            },
+            {
+                  "name": "Jardin de l'Arquebuse",
+                  "text": "This five-hectare complex includes a botanical garden, a natural history museum, and a planetarium.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.029377,
+                        47.321441
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel de Dijon",
+                  "text": "This church stands out for its impressive facade, showing a unique transition from Gothic to Renaissance style.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.04518,
+                        47.321
+                  ]
+            },
+            {
+                  "name": "Les Halles de Dijon",
+                  "text": "The distinctive market hall was designed by Gustave Eiffel and is a vibrant spot for local gastronomic specialties.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        5.044044,
+                        47.323105
+                  ]
+            },
+            {
+                  "name": "Musée de la Vie Bourguignonne",
+                  "text": "Housed in a former convent, the museum showcases daily life and crafts in Burgundy during the 19th century.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.03792,
+                        47.3177
+                  ]
+            },
+            {
+                  "name": "Place de la Libération",
+                  "text": "A beautiful semi-circular square opposite the Ducal Palace, designed by Jules Hardouin-Mansart in the 17th century.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.041416,
+                        47.321273
+                  ]
+            },
+            {
+                  "name": "Musée Magnin",
+                  "text": "A national museum located in a magnificent townhouse, exhibiting the private art collection of the Magnin family.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.042194,
+                        47.320917
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique de Dijon",
+                  "text": "Located in the former abbey of Saint-Bénigne, the museum showcases significant finds from Burgundy's Gallo-Roman era.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.035,
+                        47.321667
+                  ]
+            },
+            {
+                  "name": "Parc de la Colombière",
+                  "text": "A historic wooded park designed by Le Nôtre with spacious alleys, ideal for walks and outdoor recreation.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.04673,
+                        47.3
+                  ]
+            },
+            {
+                  "name": "Place François-Rude",
+                  "text": "Known as Place du Bareuzai, this picturesque square features a fountain with a bronze statue of a winemaker.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        5.038989,
+                        47.322209
+                  ]
+            },
+            {
+                  "name": "Hôtel de Vogüé",
+                  "text": "One of the most beautiful Renaissance townhouses in Dijon, famous for its colorful Burgundian roof tiles.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.04217,
+                        47.3227
+                  ]
             }
-      ,
-            { "name": "Jardin de l'Arquebuse", "text": "This five-hectare complex includes a botanical garden, a natural history museum, and a planetarium.", "category": "natural", "confidence": "high" },
-            { "name": "Église Saint-Michel de Dijon", "text": "This church stands out for its impressive facade, showing a unique transition from Gothic to Renaissance style.", "category": "religious", "confidence": "high" },
-            { "name": "Les Halles de Dijon", "text": "The distinctive market hall was designed by Gustave Eiffel and is a vibrant spot for local gastronomic specialties.", "category": "culinary", "confidence": "high" },
-            { "name": "Musée de la Vie Bourguignonne", "text": "Housed in a former convent, the museum showcases daily life and crafts in Burgundy during the 19th century.", "category": "museum", "confidence": "high" },
-            { "name": "Place de la Libération", "text": "A beautiful semi-circular square opposite the Ducal Palace, designed by Jules Hardouin-Mansart in the 17th century.", "category": "civic", "confidence": "high" },
-            { "name": "Musée Magnin", "text": "A national museum located in a magnificent townhouse, exhibiting the private art collection of the Magnin family.", "category": "museum", "confidence": "high" },
-            { "name": "Musée Archéologique de Dijon", "text": "Located in the former abbey of Saint-Bénigne, the museum showcases significant finds from Burgundy's Gallo-Roman era.", "category": "museum", "confidence": "high" },
-            { "name": "Parc de la Colombière", "text": "A historic wooded park designed by Le Nôtre with spacious alleys, ideal for walks and outdoor recreation.", "category": "natural", "confidence": "high" },
-            { "name": "Place François-Rude", "text": "Known as Place du Bareuzai, this picturesque square features a fountain with a bronze statue of a winemaker.", "category": "civic", "confidence": "high" },
-            { "name": "Hôtel de Vogüé", "text": "One of the most beautiful Renaissance townhouses in Dijon, famous for its colorful Burgundian roof tiles.", "category": "historical", "confidence": "high" }
-        ]
-,
+      ],
       "fr": [
-        { "name": "Palais des Ducs de Bourgogne", "text": "Splendide siège des ducs de Bourgogne, il abrite aujourd'hui l'hôtel de ville et un des plus vieux musées d'art.", "category": "historical" },
-        { "name": "Église Notre-Dame de Dijon", "text": "Chef-d'œuvre gothique bourguignon célèbre pour sa façade aux gargouilles et sa chouette porte-bonheur.", "category": "religious" },
-        { "name": "Cathédrale Saint-Bénigne", "text": "Ancienne abbatiale impressionnante par sa crypte immense et son toit typique en tuiles vernissées colorées.", "category": "religious" },
-        { "name": "Tour Philippe le Bon", "text": "Tour haute de 46 mètres datant du XVe siècle, offrant un panorama spectaculaire sur les toits de Dijon.", "category": "historical" },
-        { "name": "Musée des Beaux-Arts de Dijon", "text": "Situé dans le Palais des Ducs, il expose les tombeaux des ducs de Bourgogne et une collection d'art de premier plan.", "category": "museum" },
-        { "name": "Puits de Moïse", "text": "Chef-d'œuvre de la sculpture médiévale réalisé par Claus Sluter dans l'ancienne chartreuse de Champmol.", "category": "monastic" }
+            {
+                  "name": "Palais des Ducs de Bourgogne",
+                  "text": "Splendide siège des ducs de Bourgogne, il abrite aujourd'hui l'hôtel de ville et un des plus vieux musées d'art.",
+                  "category": "historical",
+                  "coords": [
+                        5.041389,
+                        47.321944
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Dijon",
+                  "text": "Chef-d'œuvre gothique bourguignon célèbre pour sa façade aux gargouilles et sa chouette porte-bonheur.",
+                  "category": "religious",
+                  "coords": [
+                        5.041528,
+                        47.32265
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Bénigne",
+                  "text": "Ancienne abbatiale impressionnante par sa crypte immense et son toit typique en tuiles vernissées colorées.",
+                  "category": "religious",
+                  "coords": [
+                        5.03439,
+                        47.321494
+                  ]
+            },
+            {
+                  "name": "Tour Philippe le Bon",
+                  "text": "Tour haute de 46 mètres datant du XVe siècle, offrant un panorama spectaculaire sur les toits de Dijon.",
+                  "category": "historical",
+                  "coords": [
+                        5.04147,
+                        47.3219
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Dijon",
+                  "text": "Situé dans le Palais des Ducs, il expose les tombeaux des ducs de Bourgogne et une collection d'art de premier plan.",
+                  "category": "museum",
+                  "coords": [
+                        5.04267,
+                        47.3216
+                  ]
+            },
+            {
+                  "name": "Puits de Moïse",
+                  "text": "Chef-d'œuvre de la sculpture médiévale réalisé par Claus Sluter dans l'ancienne chartreuse de Champmol.",
+                  "category": "monastic",
+                  "coords": [
+                        5.01665,
+                        47.32125
+                  ]
+            }
       ]
-    }
+}
   },
   {
     id: "castle-chateau-haut-koenigsbourg-extra",
@@ -1898,257 +4281,804 @@ export const poiExtraFranceCities: POI[] = [
                   "name": "Cathédrale Notre-Dame-de-l'Assomption",
                   "text": "Die markante gotische Kathedrale aus schwarzem Lavastein prägt mit ihren hohen Türmen das Stadtbild von Clermont-Ferrand.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.085831,
+                        45.778735
+                  ]
             },
             {
                   "name": "Place de Jaude",
                   "text": "Der zentrale Platz der Stadt ist ein lebendiger Treffpunkt mit historischen Statuen, Brunnen und eleganten Gebäuden.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.08217,
+                        45.7763
+                  ]
             },
             {
                   "name": "Basilique Notre-Dame-du-Port",
                   "text": "Diese romanische Basilika gehört zum UNESCO-Weltkulturerbe und ist berühmt für ihre fein gearbeiteten Kapitelle.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.089444,
+                        45.780694
+                  ]
             },
             {
                   "name": "Jardin Lecoq",
                   "text": "Ein wunderschöner öffentlicher Park im Herzen der Stadt, der mit seinem See und den Blumenbeeten zum Entspannen einlädt.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.088614,
+                        45.772586
+                  ]
             },
             {
                   "name": "L'Aventure Michelin",
                   "text": "Ein interaktives Museum, das die faszinierende Geschichte und den weltweiten Erfolg des Reifenherstellers Michelin zeigt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.105346,
+                        45.789989
+                  ]
             },
             {
                   "name": "Musée d'Art Roger-Quilliot",
                   "text": "Das in einem ehemaligen Kloster untergebrachte Kunstmuseum präsentiert Werke vom Mittelalter bis in die heutige Zeit.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.116381,
+                        45.793801
+                  ]
             },
             {
                   "name": "Fontaine d'Amboise",
                   "text": "Ein prächtiger Renaissance-Brunnen aus dem 16. Jahrhundert, der kunstvoll aus dem dunklen Vulkangestein der Region gehauen wurde.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.0859,
+                        45.7804
+                  ]
             },
             {
                   "name": "Statue de Vercingétorix",
                   "text": "Dieses imposante Reiterdenkmal auf dem Place de Jaude erinnert an den gallischen Helden und seinen Widerstand gegen Rom.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.0819,
+                        45.7771
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das Rathaus am Place de la Victoire ist ein imposantes Gebäude aus dem 19. Jahrhundert mit einer eleganten Fassade.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.086829,
+                        45.779702
+                  ]
+            },
+            {
+                  "name": "Opéra-Théâtre",
+                  "text": "Ein prächtiges Theater aus dem Jahr 1894, das für seine reiche Innenausstattung und Akustik bekannt ist.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.082554,
+                        45.777554
+                  ]
+            },
+            {
+                  "name": "Musée Bargoin",
+                  "text": "Beherbergt bedeutende archäologische Sammlungen der Region sowie Ausstellungen zu Textilkunst.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.087287,
+                        45.773963
+                  ]
+            },
+            {
+                  "name": "Parc de Montjuzet",
+                  "text": "Ein großer Park auf einem Hügel, der einen Panoramablick über die Stadt und die Vulkane der Auvergne bietet.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.07358,
+                        45.7888
+                  ]
+            },
+            {
+                  "name": "Gare de Clermont-Ferrand",
+                  "text": "Ein wichtiges architektonisches Erbe, das die Stadt mit dem nationalen Schienennetz verbindet.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        3.100833,
+                        45.778611
+                  ]
+            },
+            {
+                  "name": "Hôtel de Chazerat",
+                  "text": "Ein neoklassizistisches Herrenhaus, das heute Sitz der regionalen Direktion für Kulturangelegenheiten ist.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.08798,
+                        45.7785
+                  ]
+            },
+            {
+                  "name": "Fontaine de la Pyramide",
+                  "text": "Ein historischer Brunnen aus Lavastein, der zu Ehren von General Desaix errichtet wurde.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.08684,
+                        45.7738
+                  ]
+            },
+            {
+                  "name": "Stade Marcel-Michelin",
+                  "text": "Die legendäre Heimat des Rugby-Clubs ASM Clermont Auvergne, ein Wahrzeichen des lokalen Sports.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.1063,
+                        45.7877
+                  ]
+            },
+            {
+                  "name": "Église Saint-Eutrope",
+                  "text": "Eine charmante Kirche in der Nähe des Stadtzentrums, bekannt für ihre Architektur und religiöse Bedeutung.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.082554,
+                        45.781382
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance",
+                  "text": "Dokumentiert die Geschichte des Widerstands in der Auvergne während des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.068801,
+                        45.779215
+                  ]
             }
-      ,
-            { "name": "Hôtel de Ville", "text": "Das Rathaus am Place de la Victoire ist ein imposantes Gebäude aus dem 19. Jahrhundert mit einer eleganten Fassade.", "category": "civic", "confidence": "high" },
-            { "name": "Opéra-Théâtre", "text": "Ein prächtiges Theater aus dem Jahr 1894, das für seine reiche Innenausstattung und Akustik bekannt ist.", "category": "cultural", "confidence": "high" },
-            { "name": "Musée Bargoin", "text": "Beherbergt bedeutende archäologische Sammlungen der Region sowie Ausstellungen zu Textilkunst.", "category": "museum", "confidence": "high" },
-            { "name": "Parc de Montjuzet", "text": "Ein großer Park auf einem Hügel, der einen Panoramablick über die Stadt und die Vulkane der Auvergne bietet.", "category": "natural", "confidence": "high" },
-            { "name": "Gare de Clermont-Ferrand", "text": "Ein wichtiges architektonisches Erbe, das die Stadt mit dem nationalen Schienennetz verbindet.", "category": "station", "confidence": "high" },
-            { "name": "Hôtel de Chazerat", "text": "Ein neoklassizistisches Herrenhaus, das heute Sitz der regionalen Direktion für Kulturangelegenheiten ist.", "category": "historical", "confidence": "high" },
-            { "name": "Fontaine de la Pyramide", "text": "Ein historischer Brunnen aus Lavastein, der zu Ehren von General Desaix errichtet wurde.", "category": "historical", "confidence": "high" },
-            { "name": "Stade Marcel-Michelin", "text": "Die legendäre Heimat des Rugby-Clubs ASM Clermont Auvergne, ein Wahrzeichen des lokalen Sports.", "category": "recreational", "confidence": "high" },
-            { "name": "Église Saint-Eutrope", "text": "Eine charmante Kirche in der Nähe des Stadtzentrums, bekannt für ihre Architektur und religiöse Bedeutung.", "category": "religious", "confidence": "high" },
-            { "name": "Musée de la Résistance", "text": "Dokumentiert die Geschichte des Widerstands in der Auvergne während des Zweiten Weltkriegs.", "category": "museum", "confidence": "high" }
-        ],
+      ],
       "hu": [
             {
                   "name": "Cathédrale Notre-Dame-de-l'Assomption",
                   "text": "A fekete lávakőből épült gótikus katedrális jellegzetes ikertornyaival uralja a város látképét.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.085831,
+                        45.778735
+                  ]
             },
             {
                   "name": "Place de Jaude",
                   "text": "A város pezsgő központi tere, amelyet monumentális szobrok, szökőkutak és elegáns üzletek vesznek körül.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.08217,
+                        45.7763
+                  ]
             },
             {
                   "name": "Basilique Notre-Dame-du-Port",
                   "text": "Az UNESCO világörökség részét képező román stílusú bazilika híres különleges faragványairól és építészeti tisztaságáról.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.089444,
+                        45.780694
+                  ]
             },
             {
                   "name": "Jardin Lecoq",
                   "text": "Gondozott városi park tavakkal és szobrokkal, amely csendes menedéket nyújt a látogatóknak a központ közelében.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.088614,
+                        45.772586
+                  ]
             },
             {
                   "name": "L'Aventure Michelin",
                   "text": "Interaktív kiállítás, amely bemutatja a Michelin cég történetét és a gumiabroncs-gyártás technológiai fejlődését.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.105346,
+                        45.789989
+                  ]
             },
             {
                   "name": "Musée d'Art Roger-Quilliot",
                   "text": "Egykori kolostorban kialakított művészeti múzeum, ahol a középkortól napjainkig terjedő gazdag gyűjtemény látható.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.116381,
+                        45.793801
+                  ]
             },
             {
                   "name": "Fontaine d'Amboise",
                   "text": "Lenyűgöző reneszánsz szökőkút a 16. századból, amely a helyi fekete vulkáni kőből készült mesteri faragással.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.0859,
+                        45.7804
+                  ]
             },
             {
                   "name": "Statue de Vercingétorix",
                   "text": "A gall hős tiszteletére emelt bronz lovasszobor a Place de Jaude téren, Auguste Bartholdi híres alkotása.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.0819,
+                        45.7771
+                  ]
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A Place de la Victoire téren található impozáns 19. századi épület, elegáns homlokzattal.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.086829,
+                        45.779702
+                  ]
+            },
+            {
+                  "name": "Operaház",
+                  "text": "1894-ben épült díszes színház, amely gazdag belső dekorációjáról és kiváló akusztikájáról ismert.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.082554,
+                        45.777554
+                  ]
+            },
+            {
+                  "name": "Bargoin Múzeum",
+                  "text": "A régió jelentős régészeti gyűjteményeinek és textilművészeti kiállításainak ad otthont.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.087287,
+                        45.773963
+                  ]
+            },
+            {
+                  "name": "Montjuzet Park",
+                  "text": "Egy dombtetőn fekvő nagy park, ahonnan panorámás kilátás nyílik a városra és a vulkánokra.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.07358,
+                        45.7888
+                  ]
+            },
+            {
+                  "name": "Vasútállomás",
+                  "text": "Fontos építészeti örökség, amely összeköti a várost a nemzeti vasúthálózattal.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        3.100833,
+                        45.778611
+                  ]
+            },
+            {
+                  "name": "Hôtel de Chazerat",
+                  "text": "Neoklasszicista kúria, amely ma a regionális kulturális ügyek igazgatóságának székhelye.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.08798,
+                        45.7785
+                  ]
+            },
+            {
+                  "name": "Piramis-kút",
+                  "text": "Lávakőből készült történelmi kút, amelyet Desaix tábornok tiszteletére emeltek.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.08684,
+                        45.7738
+                  ]
+            },
+            {
+                  "name": "Stade Marcel-Michelin",
+                  "text": "Az ASM Clermont Auvergne rögbi klub legendás otthona, a helyi sport egyik jelképe.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.1063,
+                        45.7877
+                  ]
+            },
+            {
+                  "name": "Szent Eutropius-templom",
+                  "text": "Bájos templom a városközpont közelében, amely építészetéről és vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.082554,
+                        45.781382
+                  ]
+            },
+            {
+                  "name": "Ellenállás Múzeuma",
+                  "text": "Az auvergne-i ellenállás történetét mutatja be a második világháború idején.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.068801,
+                        45.779215
+                  ]
             }
-      ,
-            { "name": "Városháza", "text": "A Place de la Victoire téren található impozáns 19. századi épület, elegáns homlokzattal.", "category": "civic", "confidence": "high" },
-            { "name": "Operaház", "text": "1894-ben épült díszes színház, amely gazdag belső dekorációjáról és kiváló akusztikájáról ismert.", "category": "cultural", "confidence": "high" },
-            { "name": "Bargoin Múzeum", "text": "A régió jelentős régészeti gyűjteményeinek és textilművészeti kiállításainak ad otthont.", "category": "museum", "confidence": "high" },
-            { "name": "Montjuzet Park", "text": "Egy dombtetőn fekvő nagy park, ahonnan panorámás kilátás nyílik a városra és a vulkánokra.", "category": "natural", "confidence": "high" },
-            { "name": "Vasútállomás", "text": "Fontos építészeti örökség, amely összeköti a várost a nemzeti vasúthálózattal.", "category": "station", "confidence": "high" },
-            { "name": "Hôtel de Chazerat", "text": "Neoklasszicista kúria, amely ma a regionális kulturális ügyek igazgatóságának székhelye.", "category": "historical", "confidence": "high" },
-            { "name": "Piramis-kút", "text": "Lávakőből készült történelmi kút, amelyet Desaix tábornok tiszteletére emeltek.", "category": "historical", "confidence": "high" },
-            { "name": "Stade Marcel-Michelin", "text": "Az ASM Clermont Auvergne rögbi klub legendás otthona, a helyi sport egyik jelképe.", "category": "recreational", "confidence": "high" },
-            { "name": "Szent Eutropius-templom", "text": "Bájos templom a városközpont közelében, amely építészetéről és vallási jelentőségéről ismert.", "category": "religious", "confidence": "high" },
-            { "name": "Ellenállás Múzeuma", "text": "Az auvergne-i ellenállás történetét mutatja be a második világháború idején.", "category": "museum", "confidence": "high" }
-        ],
+      ],
       "ro": [
             {
                   "name": "Cathédrale Notre-Dame-de-l'Assomption",
                   "text": "O catedrală gotică impunătoare construită integral din piatră vulcanică neagră, dominând orizontul orașului.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.085831,
+                        45.778735
+                  ]
             },
             {
                   "name": "Place de Jaude",
                   "text": "Piața principală a orașului, un loc plin de viață cu fântâni arteziene, statui istorice și cafenele primitoare.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.08217,
+                        45.7763
+                  ]
             },
             {
                   "name": "Basilique Notre-Dame-du-Port",
                   "text": "O bazilică în stil romanic inclusă în patrimoniul mondial UNESCO, remarcabilă prin capitelurile sale sculptate.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.089444,
+                        45.780694
+                  ]
             },
             {
                   "name": "Jardin Lecoq",
                   "text": "Un parc public elegant în centrul orașului, oferind alei liniștite, un lac cu lebede și grădini colorate.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.088614,
+                        45.772586
+                  ]
             },
             {
                   "name": "L'Aventure Michelin",
                   "text": "Un muzeu modern care povestește istoria captivantă a mărcii Michelin și inovațiile aduse în transportul mondial.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.105346,
+                        45.789989
+                  ]
             },
             {
                   "name": "Musée d'Art Roger-Quilliot",
                   "text": "Situat într-o fostă mănăstire, acest muzeu de artă expune o colecție vastă de la picturi medievale la sculpturi moderne.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.116381,
+                        45.793801
+                  ]
             },
             {
                   "name": "Fontaine d'Amboise",
                   "text": "O fântână renascentistă superbă din piatră de Volvic, decorată cu detalii sculpturale rafinate din secolul al XVI-lea.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.0859,
+                        45.7804
+                  ]
             },
             {
                   "name": "Statue de Vercingétorix",
                   "text": "Statuia ecvestră din bronz a conducătorului gal Vercingetorix, un simbol al rezistenței locale situat în Piața de Jaude.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.0819,
+                        45.7771
+                  ]
+            },
+            {
+                  "name": "Primăria",
+                  "text": "Situată în Place de la Victoire, este o clădire impunătoare din secolul al XIX-lea cu o fațadă elegantă.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.086829,
+                        45.779702
+                  ]
+            },
+            {
+                  "name": "Opera",
+                  "text": "Un teatru magnific din 1894, renumit pentru decorațiunile sale interioare bogate și acustică.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.082554,
+                        45.777554
+                  ]
+            },
+            {
+                  "name": "Muzeul Bargoin",
+                  "text": "Găzduiește colecții arheologice importante din regiune și expoziții de artă textilă.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.087287,
+                        45.773963
+                  ]
+            },
+            {
+                  "name": "Parcul Montjuzet",
+                  "text": "Un parc mare situat pe un deal, oferind o vedere panoramică asupra orașului și a vulcanilor.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.07358,
+                        45.7888
+                  ]
+            },
+            {
+                  "name": "Gara Clermont-Ferrand",
+                  "text": "O moștenire arhitecturală importantă care conectează orașul la rețeaua feroviară națională.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        3.100833,
+                        45.778611
+                  ]
+            },
+            {
+                  "name": "Hôtel de Chazerat",
+                  "text": "Un conac neoclasic care servește astăzi drept sediu pentru direcția regională de cultură.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.08798,
+                        45.7785
+                  ]
+            },
+            {
+                  "name": "Fântâna Piramidei",
+                  "text": "O fântână istorică din piatră de lavă, ridicată în onoarea generalului Desaix.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.08684,
+                        45.7738
+                  ]
+            },
+            {
+                  "name": "Stadionul Marcel-Michelin",
+                  "text": "Casa legendară a clubului de rugby ASM Clermont Auvergne, un simbol al sportului local.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.1063,
+                        45.7877
+                  ]
+            },
+            {
+                  "name": "Biserica Saint-Eutrope",
+                  "text": "O biserică fermecătoare situată aproape de centrul orașului, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.082554,
+                        45.781382
+                  ]
+            },
+            {
+                  "name": "Muzeul Rezistenței",
+                  "text": "Documentează istoria rezistenței din Auvergne în timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.068801,
+                        45.779215
+                  ]
             }
-      ,
-            { "name": "Primăria", "text": "Situată în Place de la Victoire, este o clădire impunătoare din secolul al XIX-lea cu o fațadă elegantă.", "category": "civic", "confidence": "high" },
-            { "name": "Opera", "text": "Un teatru magnific din 1894, renumit pentru decorațiunile sale interioare bogate și acustică.", "category": "cultural", "confidence": "high" },
-            { "name": "Muzeul Bargoin", "text": "Găzduiește colecții arheologice importante din regiune și expoziții de artă textilă.", "category": "museum", "confidence": "high" },
-            { "name": "Parcul Montjuzet", "text": "Un parc mare situat pe un deal, oferind o vedere panoramică asupra orașului și a vulcanilor.", "category": "natural", "confidence": "high" },
-            { "name": "Gara Clermont-Ferrand", "text": "O moștenire arhitecturală importantă care conectează orașul la rețeaua feroviară națională.", "category": "station", "confidence": "high" },
-            { "name": "Hôtel de Chazerat", "text": "Un conac neoclasic care servește astăzi drept sediu pentru direcția regională de cultură.", "category": "historical", "confidence": "high" },
-            { "name": "Fântâna Piramidei", "text": "O fântână istorică din piatră de lavă, ridicată în onoarea generalului Desaix.", "category": "historical", "confidence": "high" },
-            { "name": "Stadionul Marcel-Michelin", "text": "Casa legendară a clubului de rugby ASM Clermont Auvergne, un simbol al sportului local.", "category": "recreational", "confidence": "high" },
-            { "name": "Biserica Saint-Eutrope", "text": "O biserică fermecătoare situată aproape de centrul orașului, cunoscută pentru arhitectura sa.", "category": "religious", "confidence": "high" },
-            { "name": "Muzeul Rezistenței", "text": "Documentează istoria rezistenței din Auvergne în timpul celui de-al Doilea Război Mondial.", "category": "museum", "confidence": "high" }
-        ],
+      ],
       "en": [
             {
                   "name": "Cathédrale Notre-Dame-de-l'Assomption",
                   "text": "The gothic cathedral built from black volcanic stone dominates the city skyline with its impressive twin spires.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.085831,
+                        45.778735
+                  ]
             },
             {
                   "name": "Place de Jaude",
                   "text": "The central hub of the city featuring grand statues, fountains, and a lively atmosphere for locals and tourists.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.08217,
+                        45.7763
+                  ]
             },
             {
                   "name": "Basilique Notre-Dame-du-Port",
                   "text": "A UNESCO-listed Romanesque masterpiece famous for its intricate stone carvings and historical importance.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.089444,
+                        45.780694
+                  ]
             },
             {
                   "name": "Jardin Lecoq",
                   "text": "A beautiful public park offering a peaceful escape with its swan pond, diverse plants, and classical statues.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.088614,
+                        45.772586
+                  ]
             },
             {
                   "name": "L'Aventure Michelin",
                   "text": "A modern interactive museum chronicling the fascinating history and global impact of the Michelin tire brand.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.105346,
+                        45.789989
+                  ]
             },
             {
                   "name": "Musée d'Art Roger-Quilliot",
                   "text": "Housed in a former convent, this museum showcases a vast collection of art spanning from the Middle Ages to today.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.116381,
+                        45.793801
+                  ]
             },
             {
                   "name": "Fontaine d'Amboise",
                   "text": "A stunning Renaissance fountain made of local black lava stone, known for its delicate and detailed sculptures.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.0859,
+                        45.7804
+                  ]
             },
             {
                   "name": "Statue de Vercingétorix",
                   "text": "A majestic bronze equestrian statue of the Gallic leader Vercingetorix, located on the vibrant Place de Jaude.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        3.0819,
+                        45.7771
+                  ]
+            },
+            {
+                  "name": "City Hall",
+                  "text": "The town hall in Place de la Victoire is an imposing 19th-century building with an elegant facade.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.086829,
+                        45.779702
+                  ]
+            },
+            {
+                  "name": "Opera House",
+                  "text": "A magnificent theater from 1894, known for its rich interior decoration and excellent acoustics.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.082554,
+                        45.777554
+                  ]
+            },
+            {
+                  "name": "Bargoin Museum",
+                  "text": "Houses significant archaeological collections from the region and exhibitions on textile art.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.087287,
+                        45.773963
+                  ]
+            },
+            {
+                  "name": "Montjuzet Park",
+                  "text": "A large hilltop park offering panoramic views over the city and the Auvergne volcanoes.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.07358,
+                        45.7888
+                  ]
+            },
+            {
+                  "name": "Clermont-Ferrand Station",
+                  "text": "An important architectural heritage connecting the city to the national rail network.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        3.100833,
+                        45.778611
+                  ]
+            },
+            {
+                  "name": "Hôtel de Chazerat",
+                  "text": "A neoclassical mansion that now serves as the seat for the regional cultural affairs directorate.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.08798,
+                        45.7785
+                  ]
+            },
+            {
+                  "name": "Pyramid Fountain",
+                  "text": "A historical fountain made of lava stone, erected in honor of General Desaix.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.08684,
+                        45.7738
+                  ]
+            },
+            {
+                  "name": "Marcel-Michelin Stadium",
+                  "text": "The legendary home of the ASM Clermont Auvergne rugby club, a landmark of local sports.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.1063,
+                        45.7877
+                  ]
+            },
+            {
+                  "name": "Saint-Eutrope Church",
+                  "text": "A charming church located near the city center, known for its architecture and religious significance.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.082554,
+                        45.781382
+                  ]
+            },
+            {
+                  "name": "Museum of Resistance",
+                  "text": "Documents the history of the Resistance in Auvergne during the Second World War.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.068801,
+                        45.779215
+                  ]
             }
-      ,
-            { "name": "City Hall", "text": "The town hall in Place de la Victoire is an imposing 19th-century building with an elegant facade.", "category": "civic", "confidence": "high" },
-            { "name": "Opera House", "text": "A magnificent theater from 1894, known for its rich interior decoration and excellent acoustics.", "category": "cultural", "confidence": "high" },
-            { "name": "Bargoin Museum", "text": "Houses significant archaeological collections from the region and exhibitions on textile art.", "category": "museum", "confidence": "high" },
-            { "name": "Montjuzet Park", "text": "A large hilltop park offering panoramic views over the city and the Auvergne volcanoes.", "category": "natural", "confidence": "high" },
-            { "name": "Clermont-Ferrand Station", "text": "An important architectural heritage connecting the city to the national rail network.", "category": "station", "confidence": "high" },
-            { "name": "Hôtel de Chazerat", "text": "A neoclassical mansion that now serves as the seat for the regional cultural affairs directorate.", "category": "historical", "confidence": "high" },
-            { "name": "Pyramid Fountain", "text": "A historical fountain made of lava stone, erected in honor of General Desaix.", "category": "historical", "confidence": "high" },
-            { "name": "Marcel-Michelin Stadium", "text": "The legendary home of the ASM Clermont Auvergne rugby club, a landmark of local sports.", "category": "recreational", "confidence": "high" },
-            { "name": "Saint-Eutrope Church", "text": "A charming church located near the city center, known for its architecture and religious significance.", "category": "religious", "confidence": "high" },
-            { "name": "Museum of Resistance", "text": "Documents the history of the Resistance in Auvergne during the Second World War.", "category": "museum", "confidence": "high" }
-        ]
-,
+      ],
       "fr": [
-        { "name": "Cathédrale Notre-Dame-de-l'Assomption", "text": "Cathédrale gothique marquante en pierre de lave noire, caractérisée par ses hautes flèches emblématiques.", "category": "religious" },
-        { "name": "Place de Jaude", "text": "Place centrale animée, lieu de rencontre vivant doté de statues historiques, fontaines et beaux immeubles.", "category": "civic" },
-        { "name": "Basilique Notre-Dame-du-Port", "text": "Basilique romane classée à l'UNESCO, célèbre pour ses chapiteaux finement sculptés.", "category": "religious" },
-        { "name": "Jardin Lecoq", "text": "Parc public magnifique au cœur de la ville, propice à la détente avec son lac et ses massifs fleuris.", "category": "recreational" },
-        { "name": "L'Aventure Michelin", "text": "Musée interactif retraçant l'histoire fascinante et le succès mondial du fabricant de pneus Michelin.", "category": "museum" },
-        { "name": "Musée d'Art Roger-Quilliot", "text": "Logé dans un ancien couvent, ce musée présente des œuvres allant du Moyen Âge à nos jours.", "category": "museum" },
-        { "name": "Fontaine d'Amboise", "text": "Superbe fontaine Renaissance du XVIe siècle, sculptée avec finesse dans la roche volcanique sombre locale.", "category": "historical" },
-        { "name": "Statue de Vercingétorix", "text": "Imposante statue équestre sur la place de Jaude rappelant le héros gaulois et sa résistance contre Rome.", "category": "historical" }
+            {
+                  "name": "Cathédrale Notre-Dame-de-l'Assomption",
+                  "text": "Cathédrale gothique marquante en pierre de lave noire, caractérisée par ses hautes flèches emblématiques.",
+                  "category": "religious",
+                  "coords": [
+                        3.085831,
+                        45.778735
+                  ]
+            },
+            {
+                  "name": "Place de Jaude",
+                  "text": "Place centrale animée, lieu de rencontre vivant doté de statues historiques, fontaines et beaux immeubles.",
+                  "category": "civic",
+                  "coords": [
+                        3.08217,
+                        45.7763
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame-du-Port",
+                  "text": "Basilique romane classée à l'UNESCO, célèbre pour ses chapiteaux finement sculptés.",
+                  "category": "religious",
+                  "coords": [
+                        3.089444,
+                        45.780694
+                  ]
+            },
+            {
+                  "name": "Jardin Lecoq",
+                  "text": "Parc public magnifique au cœur de la ville, propice à la détente avec son lac et ses massifs fleuris.",
+                  "category": "recreational",
+                  "coords": [
+                        3.088614,
+                        45.772586
+                  ]
+            },
+            {
+                  "name": "L'Aventure Michelin",
+                  "text": "Musée interactif retraçant l'histoire fascinante et le succès mondial du fabricant de pneus Michelin.",
+                  "category": "museum",
+                  "coords": [
+                        3.105346,
+                        45.789989
+                  ]
+            },
+            {
+                  "name": "Musée d'Art Roger-Quilliot",
+                  "text": "Logé dans un ancien couvent, ce musée présente des œuvres allant du Moyen Âge à nos jours.",
+                  "category": "museum",
+                  "coords": [
+                        3.116381,
+                        45.793801
+                  ]
+            },
+            {
+                  "name": "Fontaine d'Amboise",
+                  "text": "Superbe fontaine Renaissance du XVIe siècle, sculptée avec finesse dans la roche volcanique sombre locale.",
+                  "category": "historical",
+                  "coords": [
+                        3.0859,
+                        45.7804
+                  ]
+            },
+            {
+                  "name": "Statue de Vercingétorix",
+                  "text": "Imposante statue équestre sur la place de Jaude rappelant le héros gaulois et sa résistance contre Rome.",
+                  "category": "historical",
+                  "coords": [
+                        3.0819,
+                        45.7771
+                  ]
+            }
       ]
-    }
+}
   },
   {
     id: "kid-landmark-futuroscope-extra",
@@ -2585,249 +5515,724 @@ export const poiExtraFranceCities: POI[] = [
                   "name": "Cours Mirabeau",
                   "text": "Ein prächtiger Boulevard mit Schatten spendenden Platanen, historischen Brunnen und eleganten Straßencafés.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.448611,
+                        43.526667
+                  ]
             },
             {
                   "name": "Cathédrale Saint-Sauveur",
                   "text": "Eine architektonisch einzigartige Kathedrale, die Stile von der Romanik bis zum Barock harmonisch vereint.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.447222,
+                        43.531944
+                  ]
             },
             {
                   "name": "Musée Granet",
                   "text": "Eines der bedeutendsten Kunstmuseen der Region mit einer herausragenden Sammlung von der Renaissance bis heute.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.4525,
+                        43.525556
+                  ]
             },
             {
                   "name": "Atelier de Cézanne",
                   "text": "Das erhaltene Atelier von Paul Cézanne, in dem Besucher die Atmosphäre spüren können, in der der Maler arbeitete.",
                   "category": "cultural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.446111,
+                        43.538889
+                  ]
             },
             {
                   "name": "Fontaine de la Rotonde",
                   "text": "Der monumentale Brunnen am Eingang der Stadt ist mit drei Statuen geschmückt, die Justiz, Landwirtschaft und Kunst symbolisieren.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.44556,
+                        43.5264
+                  ]
             },
             {
                   "name": "Place de l'Hôtel de Ville",
                   "text": "Ein malerischer Platz vor dem Rathaus mit einem Glockenturm und regelmäßigen Blumen- und Büchermärkten.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.447241,
+                        43.529832
+                  ]
             },
             {
                   "name": "Pavillon de Vendôme",
                   "text": "Ein prachtvolles barockes Herrenhaus, das von einem klassischen französischen Garten umgeben ist und als Museum dient.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.442222,
+                        43.531111
+                  ]
             },
             {
                   "name": "Église Saint-Jean-de-Malte",
                   "text": "Die erste gotische Kirche der Provence beherbergt bedeutende Grabmäler und wertvolle sakrale Kunstwerke.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.452778,
+                        43.525556
+                  ]
+            },
+            {
+                  "name": "Hôtel de Caumont",
+                  "text": "Ein prächtiges Stadtpalais aus dem 18. Jahrhundert, das heute als bedeutendes Kunstzentrum für renommierte Wechselausstellungen dient.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.44882,
+                        43.5257
+                  ]
+            },
+            {
+                  "name": "Fondation Vasarely",
+                  "text": "Ein architektonisch einzigartiges Gebäude, das 42 monumentale Werke des Begründers der Op-Art, Victor Vasarely, in Wabenräumen präsentiert.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.424693,
+                        43.521154
+                  ]
+            },
+            {
+                  "name": "Terrain des Peintres",
+                  "text": "Ein terrassenförmiger Park, von dem aus Paul Cézanne zahlreiche Gemälde des Gebirgsmassivs Montagne Sainte-Victoire schuf.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.44423,
+                        43.54456
+                  ]
+            },
+            {
+                  "name": "Bastide du Jas de Bouffan",
+                  "text": "Das ehemalige Landhaus der Familie Cézanne, in dem der Maler viele seiner berühmten Werke direkt an den Wänden und im Garten schuf.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.42898,
+                        43.527108
+                  ]
+            },
+            {
+                  "name": "Musée des Tapisseries",
+                  "text": "Dieses im ehemaligen Erzbischofspalast untergebrachte Museum zeigt eine wertvolle Sammlung von Wandteppichen aus dem 17. und 18. Jahrhundert.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.447778,
+                        43.531389
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Provence",
+                  "text": "Ein modernes Opern- und Konzerthaus mit 1370 Plätzen, das für seine außergewöhnliche Akustik und zeitgenössische Architektur bekannt ist.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.439979,
+                        43.526258
+                  ]
+            },
+            {
+                  "name": "Thermes Sextius",
+                  "text": "Moderne Thermalbäder, die auf den Ruinen der ursprünglichen römischen Thermen errichtet wurden und Entspannung im historischen Zentrum bieten.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.444384,
+                        43.53087
+                  ]
+            },
+            {
+                  "name": "Cloître Saint-Sauveur",
+                  "text": "Ein romanischer Kreuzgang aus dem 12. Jahrhundert mit fein gearbeiteten Kapitellen, der an die Kathedrale Saint-Sauveur angrenzt.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.4475,
+                        43.5316
+                  ]
             }
-      ,
-            { "name": "Hôtel de Caumont", "text": "Ein prächtiges Stadtpalais aus dem 18. Jahrhundert, das heute als bedeutendes Kunstzentrum für renommierte Wechselausstellungen dient.", "category": "cultural", "confidence": "high" },
-            { "name": "Fondation Vasarely", "text": "Ein architektonisch einzigartiges Gebäude, das 42 monumentale Werke des Begründers der Op-Art, Victor Vasarely, in Wabenräumen präsentiert.", "category": "museum", "confidence": "high" },
-            { "name": "Terrain des Peintres", "text": "Ein terrassenförmiger Park, von dem aus Paul Cézanne zahlreiche Gemälde des Gebirgsmassivs Montagne Sainte-Victoire schuf.", "category": "natural", "confidence": "high" },
-            { "name": "Bastide du Jas de Bouffan", "text": "Das ehemalige Landhaus der Familie Cézanne, in dem der Maler viele seiner berühmten Werke direkt an den Wänden und im Garten schuf.", "category": "historical", "confidence": "high" },
-            { "name": "Musée des Tapisseries", "text": "Dieses im ehemaligen Erzbischofspalast untergebrachte Museum zeigt eine wertvolle Sammlung von Wandteppichen aus dem 17. und 18. Jahrhundert.", "category": "museum", "confidence": "high" },
-            { "name": "Grand Théâtre de Provence", "text": "Ein modernes Opern- und Konzerthaus mit 1370 Plätzen, das für seine außergewöhnliche Akustik und zeitgenössische Architektur bekannt ist.", "category": "cultural", "confidence": "high" },
-            { "name": "Thermes Sextius", "text": "Moderne Thermalbäder, die auf den Ruinen der ursprünglichen römischen Thermen errichtet wurden und Entspannung im historischen Zentrum bieten.", "category": "historical", "confidence": "high" },
-            { "name": "Cloître Saint-Sauveur", "text": "Ein romanischer Kreuzgang aus dem 12. Jahrhundert mit fein gearbeiteten Kapitellen, der an die Kathedrale Saint-Sauveur angrenzt.", "category": "religious", "confidence": "high" }
-        ],
+      ],
       "hu": [
             {
                   "name": "Cours Mirabeau",
                   "text": "Provence legszebb sugárútja árnyas platánokkal, mohos szökőkutakkal és hangulatos, történelmi kávézókkal.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.448611,
+                        43.526667
+                  ]
             },
             {
                   "name": "Cathédrale Saint-Sauveur",
                   "text": "Különleges épületegyüttes, amely a római kortól a barokkig számos építészeti stílust ötvöz mesterien.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.447222,
+                        43.531944
+                  ]
             },
             {
                   "name": "Musée Granet",
                   "text": "Franciaország egyik legfontosabb vidéki múzeuma, ahol Cézanne és más európai mesterek művei láthatók.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.4525,
+                        43.525556
+                  ]
             },
             {
                   "name": "Atelier de Cézanne",
                   "text": "Paul Cézanne egykori műterme, amely ma is őrzi a festőművész személyes tárgyait és az alkotómunka hangulatát.",
                   "category": "cultural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.446111,
+                        43.538889
+                  ]
             },
             {
                   "name": "Fontaine de la Rotonde",
                   "text": "A város kapujában álló lenyűgöző szökőkút, amelyet az igazságosságot, a mezőgazdaságot és a művészetet jelképező szobrok díszítenek.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.44556,
+                        43.5264
+                  ]
             },
             {
                   "name": "Place de l'Hôtel de Ville",
                   "text": "A városháza előtti tér a gyönyörű óratoronnyal a helyi élet és a hangulatos piacok egyik központja.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.447241,
+                        43.529832
+                  ]
             },
             {
                   "name": "Pavillon de Vendôme",
                   "text": "Elegáns barokk rezidencia francia kerttel körülvéve, amely a provence-i nemesség egykori fényűzését idézi.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.442222,
+                        43.531111
+                  ]
             },
             {
                   "name": "Église Saint-Jean-de-Malte",
                   "text": "Provence első gótikus temploma, amely a máltai lovagrendhez kötődik és fontos síremlékeket őriz.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.452778,
+                        43.525556
+                  ]
+            },
+            {
+                  "name": "Hôtel de Caumont",
+                  "text": "Egy pompás 18. századi városi palota, amely ma jelentős művészeti központként nívós időszaki kiállításoknak ad otthont történelmi termeiben.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.44882,
+                        43.5257
+                  ]
+            },
+            {
+                  "name": "Fondation Vasarely",
+                  "text": "Egy építészetileg egyedülálló központ, ahol az op-art alapítója, Victor Vasarely 42 monumentális kinetikus alkotása látható különleges termekben.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.424693,
+                        43.521154
+                  ]
+            },
+            {
+                  "name": "Terrain des Peintres",
+                  "text": "Egy teraszos park a város északi részén, ahonnan Paul Cézanne számos festményt készített a Montagne Sainte-Victoire hegyvonulatáról.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.44423,
+                        43.54456
+                  ]
+            },
+            {
+                  "name": "Bastide du Jas de Bouffan",
+                  "text": "A Cézanne család egykori udvarháza, ahol a művész évtizedekig élt és dolgozott, számos falfestményt és tájképet alkotva a helyszínen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.42898,
+                        43.527108
+                  ]
+            },
+            {
+                  "name": "Musée des Tapisseries",
+                  "text": "Az egykori érseki palotában található múzeum, amely a 17. és 18. századból származó értékes kárpitgyűjteményéről híres.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.447778,
+                        43.531389
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Provence",
+                  "text": "Modern operaház és koncertterem 1370 férőhellyel, amely kiváló akusztikájáról és kortárs építészeti megoldásairól ismert.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.439979,
+                        43.526258
+                  ]
+            },
+            {
+                  "name": "Thermes Sextius",
+                  "text": "A római kori termálfürdők romjaira épült modern wellness központ, amely a város ókori örökségét ötvözi a mai luxussal.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.444384,
+                        43.53087
+                  ]
+            },
+            {
+                  "name": "Cloître Saint-Sauveur",
+                  "text": "A 12. századból származó román stílusú kolostorudvar, amely finoman faragott oszlopfőivel a provence-i vallási építészet remekműve.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.4475,
+                        43.5316
+                  ]
             }
-      ,
-            { "name": "Hôtel de Caumont", "text": "Egy pompás 18. századi városi palota, amely ma jelentős művészeti központként nívós időszaki kiállításoknak ad otthont történelmi termeiben.", "category": "cultural", "confidence": "high" },
-            { "name": "Fondation Vasarely", "text": "Egy építészetileg egyedülálló központ, ahol az op-art alapítója, Victor Vasarely 42 monumentális kinetikus alkotása látható különleges termekben.", "category": "museum", "confidence": "high" },
-            { "name": "Terrain des Peintres", "text": "Egy teraszos park a város északi részén, ahonnan Paul Cézanne számos festményt készített a Montagne Sainte-Victoire hegyvonulatáról.", "category": "natural", "confidence": "high" },
-            { "name": "Bastide du Jas de Bouffan", "text": "A Cézanne család egykori udvarháza, ahol a művész évtizedekig élt és dolgozott, számos falfestményt és tájképet alkotva a helyszínen.", "category": "historical", "confidence": "high" },
-            { "name": "Musée des Tapisseries", "text": "Az egykori érseki palotában található múzeum, amely a 17. és 18. századból származó értékes kárpitgyűjteményéről híres.", "category": "museum", "confidence": "high" },
-            { "name": "Grand Théâtre de Provence", "text": "Modern operaház és koncertterem 1370 férőhellyel, amely kiváló akusztikájáról és kortárs építészeti megoldásairól ismert.", "category": "cultural", "confidence": "high" },
-            { "name": "Thermes Sextius", "text": "A római kori termálfürdők romjaira épült modern wellness központ, amely a város ókori örökségét ötvözi a mai luxussal.", "category": "historical", "confidence": "high" },
-            { "name": "Cloître Saint-Sauveur", "text": "A 12. századból származó román stílusú kolostorudvar, amely finoman faragott oszlopfőivel a provence-i vallási építészet remekműve.", "category": "religious", "confidence": "high" }
-        ],
+      ],
       "ro": [
             {
                   "name": "Cours Mirabeau",
                   "text": "Un bulevard legendar cu platani impunători, fântâni vechi și clădiri aristocratice, inima socială a orașului.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.448611,
+                        43.526667
+                  ]
             },
             {
                   "name": "Cathédrale Saint-Sauveur",
                   "text": "O catedrală fascinantă care îmbină stiluri de la cel roman la cel gotic și baroc, având un baptisteriu din secolul V.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.447222,
+                        43.531944
+                  ]
             },
             {
                   "name": "Musée Granet",
                   "text": "Unul dintre cele mai bogate muzee din sudul Franței, adăpostind capodopere de la Rembrandt la Cézanne.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.4525,
+                        43.525556
+                  ]
             },
             {
                   "name": "Atelier de Cézanne",
                   "text": "Studioul intim al lui Paul Cézanne, unde timpul pare că s-a oprit în loc printre obiectele preferate ale pictorului.",
                   "category": "cultural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.446111,
+                        43.538889
+                  ]
             },
             {
                   "name": "Fontaine de la Rotonde",
                   "text": "Fântâna monumentală care veghează intrarea în centrul istoric, încununată de trei statui alegorice spectaculoase.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.44556,
+                        43.5264
+                  ]
             },
             {
                   "name": "Place de l'Hôtel de Ville",
                   "text": "Piața primăriei, dominată de turnul cu ceas, este renumită pentru piețele de flori și ambianța provensală autentică.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.447241,
+                        43.529832
+                  ]
             },
             {
                   "name": "Pavillon de Vendôme",
                   "text": "Un pavilion baroc superb înconjurat de o grădină simetrică, un exemplu perfect de arhitectură clasică franceză.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.442222,
+                        43.531111
+                  ]
             },
             {
                   "name": "Église Saint-Jean-de-Malte",
                   "text": "Prima biserică gotică ridicată în Provence, cunoscută pentru vitraliile sale frumoase și atmosfera solemnă.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.452778,
+                        43.525556
+                  ]
+            },
+            {
+                  "name": "Hôtel de Caumont",
+                  "text": "Un palat urban magnific din secolul al XVIII-lea, transformat într-un centru de artă prestigios ce găzduiește expoziții temporare majore.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.44882,
+                        43.5257
+                  ]
+            },
+            {
+                  "name": "Fondation Vasarely",
+                  "text": "O clădire cu arhitectură avangardistă dedicată operei lui Victor Vasarely, expunând 42 de lucrări monumentale de artă optică.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.424693,
+                        43.521154
+                  ]
+            },
+            {
+                  "name": "Terrain des Peintres",
+                  "text": "Un parc terasat situat pe o colină, oferind panorama exactă a muntelui Sainte-Victoire pe care Paul Cézanne a pictat-o obsesiv.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.44423,
+                        43.54456
+                  ]
+            },
+            {
+                  "name": "Bastide du Jas de Bouffan",
+                  "text": "Reședința de familie a lui Cézanne, unde artistul a creat numeroase capodopere și a explorat grădinile domeniului timp de 40 de ani.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.42898,
+                        43.527108
+                  ]
+            },
+            {
+                  "name": "Musée des Tapisseries",
+                  "text": "Situat în fostul palat arhiepiscopal, acest muzeu adăpostește o colecție rară de tapiserii prețioase din secolele XVII și XVIII.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.447778,
+                        43.531389
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Provence",
+                  "text": "O sală modernă de spectacole cu peste 1300 de locuri, renumită pentru acustica sa impecabilă și designul contemporan îndrăzneț.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.439979,
+                        43.526258
+                  ]
+            },
+            {
+                  "name": "Thermes Sextius",
+                  "text": "Băi termale moderne construite direct peste vestigiile termelor romane antice, oferind relaxare în inima istorică a orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.444384,
+                        43.53087
+                  ]
+            },
+            {
+                  "name": "Cloître Saint-Sauveur",
+                  "text": "Un claustru romanic din secolul al XII-lea, adiacent catedralei, faimos pentru capitelurile sale sculptate cu o finețe remarcabilă.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.4475,
+                        43.5316
+                  ]
             }
-      ,
-            { "name": "Hôtel de Caumont", "text": "Un palat urban magnific din secolul al XVIII-lea, transformat într-un centru de artă prestigios ce găzduiește expoziții temporare majore.", "category": "cultural", "confidence": "high" },
-            { "name": "Fondation Vasarely", "text": "O clădire cu arhitectură avangardistă dedicată operei lui Victor Vasarely, expunând 42 de lucrări monumentale de artă optică.", "category": "museum", "confidence": "high" },
-            { "name": "Terrain des Peintres", "text": "Un parc terasat situat pe o colină, oferind panorama exactă a muntelui Sainte-Victoire pe care Paul Cézanne a pictat-o obsesiv.", "category": "natural", "confidence": "high" },
-            { "name": "Bastide du Jas de Bouffan", "text": "Reședința de familie a lui Cézanne, unde artistul a creat numeroase capodopere și a explorat grădinile domeniului timp de 40 de ani.", "category": "historical", "confidence": "high" },
-            { "name": "Musée des Tapisseries", "text": "Situat în fostul palat arhiepiscopal, acest muzeu adăpostește o colecție rară de tapiserii prețioase din secolele XVII și XVIII.", "category": "museum", "confidence": "high" },
-            { "name": "Grand Théâtre de Provence", "text": "O sală modernă de spectacole cu peste 1300 de locuri, renumită pentru acustica sa impecabilă și designul contemporan îndrăzneț.", "category": "cultural", "confidence": "high" },
-            { "name": "Thermes Sextius", "text": "Băi termale moderne construite direct peste vestigiile termelor romane antice, oferind relaxare în inima istorică a orașului.", "category": "historical", "confidence": "high" },
-            { "name": "Cloître Saint-Sauveur", "text": "Un claustru romanic din secolul al XII-lea, adiacent catedralei, faimos pentru capitelurile sale sculptate cu o finețe remarcabilă.", "category": "religious", "confidence": "high" }
-        ],
+      ],
       "en": [
             {
                   "name": "Cours Mirabeau",
                   "text": "An elegant tree-lined boulevard famous for its historic fountains, grand mansions, and lively open-air cafes.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.448611,
+                        43.526667
+                  ]
             },
             {
                   "name": "Cathédrale Saint-Sauveur",
                   "text": "A unique architectural complex that blends Romanesque, Gothic, and Baroque styles, featuring a medieval cloister.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.447222,
+                        43.531944
+                  ]
             },
             {
                   "name": "Musée Granet",
                   "text": "A major art museum housing an exceptional collection of paintings from the Renaissance to modern masters.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.4525,
+                        43.525556
+                  ]
             },
             {
                   "name": "Atelier de Cézanne",
                   "text": "The historic studio of Paul Cézanne, where the father of modern painting worked on his final famous canvases.",
                   "category": "cultural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.446111,
+                        43.538889
+                  ]
             },
             {
                   "name": "Fontaine de la Rotonde",
                   "text": "A monumental fountain standing at the city's gateway, adorned with statues representing Justice, Agriculture, and Art.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.44556,
+                        43.5264
+                  ]
             },
             {
                   "name": "Place de l'Hôtel de Ville",
                   "text": "A picturesque square dominated by the 17th-century town hall and its elegant clock tower with an astronomical dial.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.447241,
+                        43.529832
+                  ]
             },
             {
                   "name": "Pavillon de Vendôme",
                   "text": "A magnificent 17th-century pavilion and garden showcasing the refined lifestyle of the Provençal aristocracy.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.442222,
+                        43.531111
+                  ]
             },
             {
                   "name": "Église Saint-Jean-de-Malte",
                   "text": "The first Gothic church in Provence, serving as the burial site for the Counts of Provence and holding fine art.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        5.452778,
+                        43.525556
+                  ]
+            },
+            {
+                  "name": "Hôtel de Caumont",
+                  "text": "A magnificent 18th-century private mansion that now serves as a major art center hosting prestigious temporary exhibitions.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.44882,
+                        43.5257
+                  ]
+            },
+            {
+                  "name": "Fondation Vasarely",
+                  "text": "An architecturally unique center dedicated to the works of Victor Vasarely, featuring 42 monumental kinetic art installations.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.424693,
+                        43.521154
+                  ]
+            },
+            {
+                  "name": "Terrain des Peintres",
+                  "text": "A terraced park where Paul Cézanne frequently set up his easel to paint the iconic Montagne Sainte-Victoire landscape.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        5.44423,
+                        43.54456
+                  ]
+            },
+            {
+                  "name": "Bastide du Jas de Bouffan",
+                  "text": "The former country estate of the Cézanne family, where the painter lived and produced many of his early masterpieces.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.42898,
+                        43.527108
+                  ]
+            },
+            {
+                  "name": "Musée des Tapisseries",
+                  "text": "Housed in the former Archbishop's Palace, this museum showcases a rich collection of 17th and 18th-century tapestries.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        5.447778,
+                        43.531389
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Provence",
+                  "text": "A state-of-the-art opera and concert house with 1,370 seats, known for its exceptional acoustics and contemporary design.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        5.439979,
+                        43.526258
+                  ]
+            },
+            {
+                  "name": "Thermes Sextius",
+                  "text": "A modern spa complex built over the remains of original Roman thermal baths, offering wellness in the historic city center.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        5.444384,
+                        43.53087
+                  ]
+            },
+            {
+                  "name": "Cloître Saint-Sauveur",
+                  "text": "A beautifully preserved 12th-century Romanesque cloister featuring finely carved capitals next to the Saint-Sauveur Cathedral.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        5.4475,
+                        43.5316
+                  ]
             }
-      ,
-            { "name": "Hôtel de Caumont", "text": "A magnificent 18th-century private mansion that now serves as a major art center hosting prestigious temporary exhibitions.", "category": "cultural", "confidence": "high" },
-            { "name": "Fondation Vasarely", "text": "An architecturally unique center dedicated to the works of Victor Vasarely, featuring 42 monumental kinetic art installations.", "category": "museum", "confidence": "high" },
-            { "name": "Terrain des Peintres", "text": "A terraced park where Paul Cézanne frequently set up his easel to paint the iconic Montagne Sainte-Victoire landscape.", "category": "natural", "confidence": "high" },
-            { "name": "Bastide du Jas de Bouffan", "text": "The former country estate of the Cézanne family, where the painter lived and produced many of his early masterpieces.", "category": "historical", "confidence": "high" },
-            { "name": "Musée des Tapisseries", "text": "Housed in the former Archbishop's Palace, this museum showcases a rich collection of 17th and 18th-century tapestries.", "category": "museum", "confidence": "high" },
-            { "name": "Grand Théâtre de Provence", "text": "A state-of-the-art opera and concert house with 1,370 seats, known for its exceptional acoustics and contemporary design.", "category": "cultural", "confidence": "high" },
-            { "name": "Thermes Sextius", "text": "A modern spa complex built over the remains of original Roman thermal baths, offering wellness in the historic city center.", "category": "historical", "confidence": "high" },
-            { "name": "Cloître Saint-Sauveur", "text": "A beautifully preserved 12th-century Romanesque cloister featuring finely carved capitals next to the Saint-Sauveur Cathedral.", "category": "religious", "confidence": "high" }
-        ]
-,
+      ],
       "fr": [
-        { "name": "Cours Mirabeau", "text": "Boulevard somptueux ombragé par des platanes, agrémenté de fontaines historiques et de cafés élégants.", "category": "historical" },
-        { "name": "Cathédrale Saint-Sauveur", "text": "Édifice unique unissant harmonieusement les styles allant du roman au baroque.", "category": "religious" },
-        { "name": "Musée Granet", "text": "L'un des plus importants musées d'art de la région, doté d'une collection exceptionnelle de la Renaissance à nos jours.", "category": "museum" },
-        { "name": "Atelier de Cézanne", "text": "Atelier préservé de Paul Cézanne, où les visiteurs peuvent ressentir l'atmosphère dans laquelle travaillait le peintre.", "category": "cultural" },
-        { "name": "Fontaine de la Rotonde", "text": "Monumentale fontaine à l'entrée de la ville, ornée de statues symbolisant la Justice, l'Agriculture et l'Art.", "category": "civic" },
-        { "name": "Place de l'Hôtel de Ville", "text": "Place pittoresque devant l'hôtel de ville, animée par un beffroi et des marchés réguliers de fleurs et livres.", "category": "civic" },
-        { "name": "Pavillon de Vendôme", "text": "Magnifique demeure baroque entourée d'un jardin classique français, servant aujourd'hui de musée.", "category": "museum" },
-        { "name": "Église Saint-Jean-de-Malte", "text": "Première église gothique de Provence, abritant d'importants tombeaux et des œuvres d'art sacré.", "category": "religious" }
+            {
+                  "name": "Cours Mirabeau",
+                  "text": "Boulevard somptueux ombragé par des platanes, agrémenté de fontaines historiques et de cafés élégants.",
+                  "category": "historical",
+                  "coords": [
+                        5.448611,
+                        43.526667
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Sauveur",
+                  "text": "Édifice unique unissant harmonieusement les styles allant du roman au baroque.",
+                  "category": "religious",
+                  "coords": [
+                        5.447222,
+                        43.531944
+                  ]
+            },
+            {
+                  "name": "Musée Granet",
+                  "text": "L'un des plus importants musées d'art de la région, doté d'une collection exceptionnelle de la Renaissance à nos jours.",
+                  "category": "museum",
+                  "coords": [
+                        5.4525,
+                        43.525556
+                  ]
+            },
+            {
+                  "name": "Atelier de Cézanne",
+                  "text": "Atelier préservé de Paul Cézanne, où les visiteurs peuvent ressentir l'atmosphère dans laquelle travaillait le peintre.",
+                  "category": "cultural",
+                  "coords": [
+                        5.446111,
+                        43.538889
+                  ]
+            },
+            {
+                  "name": "Fontaine de la Rotonde",
+                  "text": "Monumentale fontaine à l'entrée de la ville, ornée de statues symbolisant la Justice, l'Agriculture et l'Art.",
+                  "category": "civic",
+                  "coords": [
+                        5.44556,
+                        43.5264
+                  ]
+            },
+            {
+                  "name": "Place de l'Hôtel de Ville",
+                  "text": "Place pittoresque devant l'hôtel de ville, animée par un beffroi et des marchés réguliers de fleurs et livres.",
+                  "category": "civic",
+                  "coords": [
+                        5.447241,
+                        43.529832
+                  ]
+            },
+            {
+                  "name": "Pavillon de Vendôme",
+                  "text": "Magnifique demeure baroque entourée d'un jardin classique français, servant aujourd'hui de musée.",
+                  "category": "museum",
+                  "coords": [
+                        5.442222,
+                        43.531111
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-de-Malte",
+                  "text": "Première église gothique de Provence, abritant d'importants tombeaux et des œuvres d'art sacré.",
+                  "category": "religious",
+                  "coords": [
+                        5.452778,
+                        43.525556
+                  ]
+            }
       ]
-    }
+}
   },
   {
     id: "historical-lascaux-iv-extra",

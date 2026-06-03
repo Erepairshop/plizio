@@ -858,7 +858,153 @@ imageHint: "Large vineyard and modern farm of Belje",
     },
     image: "/poi-images/croatia-belje-agro-complex-economic-v2.webp",
 },  {
-    id: "croatia-rasa-mining-town-economic-v2",
+    id: "croatia-rasa-mining-town-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arsiana",
+                  "text": "Das Museum Arsiana in Raša widmet sich der Bergbaugeschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        14.084079,
+                        45.080561
+                  ]
+            },
+            {
+                  "name": "Tito",
+                  "text": "Ein Denkmal zu Ehren von Josip Broz Tito in der Stadt Raša.",
+                  "category": "historical",
+                  "coords": [
+                        14.017412,
+                        45.074496
+                  ]
+            },
+            {
+                  "name": "Vidikovac Jelensko",
+                  "text": "Der Aussichtspunkt Jelensko bietet einen Blick über das Raša-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        14.019064,
+                        45.076695
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arsiana",
+                  "text": "A rašai Arsiana múzeum a régió bányászati múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.084079,
+                        45.080561
+                  ]
+            },
+            {
+                  "name": "Tito",
+                  "text": "Josip Broz Tito emlékműve Raša városában.",
+                  "category": "historical",
+                  "coords": [
+                        14.017412,
+                        45.074496
+                  ]
+            },
+            {
+                  "name": "Vidikovac Jelensko",
+                  "text": "A Jelensko kilátóról kilátás nyílik a Raša-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        14.019064,
+                        45.076695
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arsiana",
+                  "text": "Muzeul Arsiana din Rașa este dedicat istoriei miniere a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        14.084079,
+                        45.080561
+                  ]
+            },
+            {
+                  "name": "Tito",
+                  "text": "Un monument dedicat lui Josip Broz Tito în orașul Rașa.",
+                  "category": "historical",
+                  "coords": [
+                        14.017412,
+                        45.074496
+                  ]
+            },
+            {
+                  "name": "Vidikovac Jelensko",
+                  "text": "Punctul de belvedere Jelensko oferă o vedere panoramică asupra văii Rașa.",
+                  "category": "natural",
+                  "coords": [
+                        14.019064,
+                        45.076695
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arsiana",
+                  "text": "The Arsiana museum in Raša is dedicated to the region's mining history.",
+                  "category": "museum",
+                  "coords": [
+                        14.084079,
+                        45.080561
+                  ]
+            },
+            {
+                  "name": "Tito",
+                  "text": "A monument dedicated to Josip Broz Tito in the town of Raša.",
+                  "category": "historical",
+                  "coords": [
+                        14.017412,
+                        45.074496
+                  ]
+            },
+            {
+                  "name": "Vidikovac Jelensko",
+                  "text": "The Jelensko viewpoint offers a view over the Raša valley.",
+                  "category": "natural",
+                  "coords": [
+                        14.019064,
+                        45.076695
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Arsiana",
+                  "text": "Muzej Arsiana u Raši posvećen je rudarskoj povijesti regije.",
+                  "category": "museum",
+                  "coords": [
+                        14.084079,
+                        45.080561
+                  ]
+            },
+            {
+                  "name": "Tito",
+                  "text": "Spomenik posvećen Josipu Brozu Titu u gradu Raši.",
+                  "category": "historical",
+                  "coords": [
+                        14.017412,
+                        45.074496
+                  ]
+            },
+            {
+                  "name": "Vidikovac Jelensko",
+                  "text": "Vidikovac Jelensko nudi pogled na dolinu Raše.",
+                  "category": "natural",
+                  "coords": [
+                        14.019064,
+                        45.076695
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "town",
     name: { de: "Raša Bergbaustadt", hu: "Raša bányászváros", ro: "Orașul minier Raša", en: "Raša Mining Town"},

@@ -12,55 +12,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Lindwurmbrunnen",
                   "text": "Das Wahrzeichen der Stadt auf dem Neuen Platz stellt einen Drachen dar, der einer lokalen Sage entstammt.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.307778,
+                        46.623889
+                  ]
             },
             {
                   "name": "Minimundus",
                   "text": "Der Park zeigt über 150 weltberühmte Bauwerke aus allen Kontinenten im Miniaturmaßstab von 1:25.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.26444,
+                        46.61972
+                  ]
             },
             {
                   "name": "Wörthersee",
                   "text": "Der größte See Kärntens liegt direkt vor der Stadt und bietet zahlreiche Freizeitmöglichkeiten am Wasser.",
                   "category": "lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.278281,
+                        46.608847
+                  ]
             },
             {
                   "name": "Landhaus Klagenfurt",
                   "text": "Der historische Sitz des Kärntner Landtags beherbergt den beeindruckenden Wappensaal mit 665 Wappen.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3057,
+                        46.6249
+                  ]
             },
             {
                   "name": "Dom zu Klagenfurt",
                   "text": "Die prachtvolle Kathedrale aus dem 16. Jahrhundert beeindruckt durch ihre barocke Innenausstattung.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.264637,
+                        46.619352
+                  ]
             },
             {
                   "name": "Alter Platz",
                   "text": "Das Herz der Altstadt wird von prachtvollen Bürgerhäusern aus der Renaissance und dem Alten Rathaus gesäumt.",
                   "category": "squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.30784,
+                        46.62531
+                  ]
             },
             {
                   "name": "Stadttheater Klagenfurt",
                   "text": "Das renommierte Theater wurde von den berühmten Architekten Fellner & Helmer im Jugendstil erbaut.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.30514,
+                        46.62665
+                  ]
             },
             {
                   "name": "Europapark",
                   "text": "Die weitläufige Parkanlage in der Nähe des Sees ist ein beliebtes Erholungsgebiet für Einheimische und Gäste.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.262281,
+                        46.619043
+                  ]
             },
             {
                   "name": "Schloss Mageregg",
                   "text": "Das idyllische Schloss am nördlichen Stadtrand ist heute ein beliebtes Restaurant und ein Tierpark.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.288748,
+                        46.653246
+                  ]
             }
       ],
       "hu": [
@@ -68,55 +104,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Lindwurm-kút",
                   "text": "Az Új téren álló sárkányos kút a város jelképe, amely egy helyi legendára vezethető vissza.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.307778,
+                        46.623889
+                  ]
             },
             {
                   "name": "Minimundus",
                   "text": "A park több mint 150 világhírű építményt mutat be 1:25-ös méretarányban az összes kontinensről.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.26444,
+                        46.61972
+                  ]
             },
             {
                   "name": "Wörthi-tó",
                   "text": "Karintia legnagyobb tava közvetlenül a város mellett fekszik, számos vízi sportolási lehetőséget kínálva.",
                   "category": "lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.278281,
+                        46.608847
+                  ]
             },
             {
                   "name": "Klagenfurti Landhaus",
                   "text": "A tartományi gyűlés történelmi épülete ad otthont a lenyűgöző Címerteremnek 665 címerrel.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3057,
+                        46.6249
+                  ]
             },
             {
                   "name": "Klagenfurti dóm",
                   "text": "A 16. századi monumentális székesegyház gazdag barokk belső díszítésével nyűgözi le a látogatókat.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.264637,
+                        46.619352
+                  ]
             },
             {
                   "name": "Alter Platz (Régi tér)",
                   "text": "Az óváros szívét reneszánsz polgárházak és a régi városháza elegáns épületei szegélyezik.",
                   "category": "squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.30784,
+                        46.62531
+                  ]
             },
             {
                   "name": "Klagenfurti Városi Színház",
                   "text": "A neves színházat a híres Fellner és Helmer építészpáros tervezte szecessziós stílusban.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.30514,
+                        46.62665
+                  ]
             },
             {
                   "name": "Európa-park",
                   "text": "A tó közelében elterülő hatalmas park népszerű pihenőhely a helyiek és a turisták számára egyaránt.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.262281,
+                        46.619043
+                  ]
             },
             {
                   "name": "Mageregg-kastély",
                   "text": "A város északi szélén fekvő idilli kastély ma népszerű étteremnek és vadasparknak ad otthont.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.288748,
+                        46.653246
+                  ]
             }
       ],
       "ro": [
@@ -124,55 +196,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Fântâna Lindwurm",
                   "text": "Simbolul orașului aflat în Neuer Platz reprezintă un dragon legendar extras dintr-o veche poveste locală.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.307778,
+                        46.623889
+                  ]
             },
             {
                   "name": "Minimundus",
                   "text": "Parcul expune peste 150 de clădiri celebre din întreaga lume la o scară miniaturală de 1:25.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.26444,
+                        46.61972
+                  ]
             },
             {
                   "name": "Lacul Wörthersee",
                   "text": "Cel mai mare lac din Carintia se află la marginea orașului și oferă numeroase activități recreative pe apă.",
                   "category": "lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.278281,
+                        46.608847
+                  ]
             },
             {
                   "name": "Landhaus Klagenfurt",
                   "text": "Sediul istoric al parlamentului landului găzduiește impresionanta Sală a Blazoanelor cu 665 de steme.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3057,
+                        46.6249
+                  ]
             },
             {
                   "name": "Catedrala din Klagenfurt",
                   "text": "Catedrala monumentală din secolul al XVI-lea impresionează prin decorațiunile sale baroce interioare.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.264637,
+                        46.619352
+                  ]
             },
             {
                   "name": "Alter Platz",
                   "text": "Inima orașului vechi este mărginită de case cetățenești renascentiste și de clădirea Vechii Primării.",
                   "category": "squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.30784,
+                        46.62531
+                  ]
             },
             {
                   "name": "Teatrul Municipal",
                   "text": "Teatrul renumit a fost construit în stil Art Nouveau de către celebrii arhitecți Fellner & Helmer.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.30514,
+                        46.62665
+                  ]
             },
             {
                   "name": "Europapark",
                   "text": "Zonă verde vastă situată lângă lac, parcul este un loc de relaxare popular pentru localnici și turiști.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.262281,
+                        46.619043
+                  ]
             },
             {
                   "name": "Castelul Mageregg",
                   "text": "Castelul idilic de la periferia nordică găzduiește astăzi un restaurant popular și un parc zoologic.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.288748,
+                        46.653246
+                  ]
             }
       ],
       "en": [
@@ -180,55 +288,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Lindwurm Fountain",
                   "text": "The city's landmark on Neuer Platz depicts a legendary dragon from a local folk tale.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.307778,
+                        46.623889
+                  ]
             },
             {
                   "name": "Minimundus",
                   "text": "This park showcases over 150 world-famous buildings from all continents at a 1:25 miniature scale.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.26444,
+                        46.61972
+                  ]
             },
             {
                   "name": "Lake Wörthersee",
                   "text": "Carinthia's largest lake is located right by the city and offers numerous water-based recreational activities.",
                   "category": "lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.278281,
+                        46.608847
+                  ]
             },
             {
                   "name": "Landhaus Klagenfurt",
                   "text": "The historic seat of the Carinthian diet features the impressive Hall of Arms with 665 coats of arms.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.3057,
+                        46.6249
+                  ]
             },
             {
                   "name": "Klagenfurt Cathedral",
                   "text": "The magnificent 16th-century cathedral impresses visitors with its elaborate Baroque interior decoration.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.264637,
+                        46.619352
+                  ]
             },
             {
                   "name": "Alter Platz",
                   "text": "The heart of the old town is lined with beautiful Renaissance townhouses and the Old City Hall.",
                   "category": "squares",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.30784,
+                        46.62531
+                  ]
             },
             {
                   "name": "Klagenfurt City Theatre",
                   "text": "This renowned theater was built in the Art Nouveau style by the famous architects Fellner & Helmer.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.30514,
+                        46.62665
+                  ]
             },
             {
                   "name": "Europapark",
                   "text": "A large park area near the lake, it is a favorite recreation spot for both locals and visitors.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.262281,
+                        46.619043
+                  ]
             },
             {
                   "name": "Mageregg Castle",
                   "text": "This idyllic castle on the northern outskirts now houses a popular restaurant and a small wildlife park.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        14.288748,
+                        46.653246
+                  ]
             }
       ]
 }
@@ -240,49 +384,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Dom zu St. Pölten",
                   "text": "Die barocke Kathedrale wurde von Jakob Prandtauer gestaltet und beherbergt prächtige Fresken sowie eine bedeutende Orgel.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.627197,
+                        48.205078
+                  ]
             },
             {
                   "name": "Rathaus",
                   "text": "Das markante Gebäude am Rathausplatz vereint Stilelemente der Renaissance und des Barocks und ist das Wahrzeichen der Altstadt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.622948,
+                        48.204233
+                  ]
             },
             {
                   "name": "Landhausviertel",
                   "text": "Das moderne Regierungsviertel beeindruckt durch seine zeitgenössische Architektur und den 77 Meter hohen Klangturm als Aussichtspunkt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.63161,
+                        48.19979
+                  ]
             },
             {
                   "name": "Klangturm",
                   "text": "Dieser moderne Stahlturm im Landhausviertel bietet Besuchern eine weite Aussicht über das Traisental und interaktive Klanginstallationen.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.6327,
+                        48.2007
+                  ]
             },
             {
                   "name": "Museum Niederösterreich",
                   "text": "Ein interaktives Museum, das sich den Themen Natur und Geschichte des Bundeslandes widmet und ein großes Aquarium beherbergt.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.631111,
+                        48.200278
+                  ]
             },
             {
                   "name": "Herrenplatz",
                   "text": "Einer der schönsten Plätze der Stadt, umgeben von Barock- und Rokokofassaden, auf dem regelmäßig Wochenmärkte stattfinden.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.62561,
+                        48.20476
+                  ]
             },
             {
                   "name": "Ehemalige Synagoge",
                   "text": "Ein bedeutendes Jugendstilbauwerk, das heute als Kulturzentrum dient und an das jüdische Erbe der Landeshauptstadt erinnert.",
                   "category": "monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.628745,
+                        48.202508
+                  ]
             },
             {
                   "name": "Festspielhaus St. Pölten",
                   "text": "Ein international renommierter Veranstaltungsort für zeitgenössischen Tanz und Musik mit einer markanten gläsernen Architektur.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.631,
+                        48.2009
+                  ]
             }
       ],
       "hu": [
@@ -290,49 +466,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Szent Pölten-i dóm",
                   "text": "A barokk székesegyház belső terét Jakob Prandtauer tervezte, híres pazar freskóiról és monumentális orgonájáról.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.627197,
+                        48.205078
+                  ]
             },
             {
                   "name": "Városháza (Rathaus)",
                   "text": "A főtéren álló jellegzetes épület a reneszánsz és a barokk stílusjegyeit ötvözi, az óváros egyik legfontosabb szimbóluma.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.622948,
+                        48.204233
+                  ]
             },
             {
                   "name": "Landhausviertel",
                   "text": "A modern kormányzati negyed kortárs építészetével és a 77 méter magas kilátótornyával emelkedik ki a városképből.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.63161,
+                        48.19979
+                  ]
             },
             {
                   "name": "Klangturm (Zenetorony)",
                   "text": "A kormányzati negyedben található modern acéltorony interaktív hanginstallációkkal és panorámás kilátással várja a látogatókat.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.6327,
+                        48.2007
+                  ]
             },
             {
                   "name": "Alsó-Ausztriai Múzeum",
                   "text": "Interaktív kiállítótér, amely a tartomány természeti kincseit és történelmét mutatja be, saját akváriummal kiegészítve.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.631111,
+                        48.200278
+                  ]
             },
             {
                   "name": "Herrenplatz",
                   "text": "A város egyik legszebb tere, amelyet barokk és rokokó homlokzatok díszítenek, és rendszeresen heti piacoknak ad otthont.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.62561,
+                        48.20476
+                  ]
             },
             {
                   "name": "Egykori zsinagóga",
                   "text": "Kiemelkedő szecessziós épület, amely ma kulturális központként működik és emléket állít a helyi zsidó közösségnek.",
                   "category": "monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.628745,
+                        48.202508
+                  ]
             },
             {
                   "name": "Festspielhaus St. Pölten",
                   "text": "Nemzetközileg elismert modern művészeti központ, amely kortárs táncelőadásoknak és koncerteknek ad otthont üvegépületében.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.631,
+                        48.2009
+                  ]
             }
       ],
       "ro": [
@@ -340,49 +548,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Catedrala din Sankt Pölten",
                   "text": "Această catedrală barocă a fost decorată de Jakob Prandtauer și adăpostește fresce magnifice și o orgă impresionantă.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.627197,
+                        48.205078
+                  ]
             },
             {
                   "name": "Primăria (Rathaus)",
                   "text": "Clădirea emblematică din piața centrală îmbină stilurile renascentist și baroc, fiind simbolul centrului istoric.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.622948,
+                        48.204233
+                  ]
             },
             {
                   "name": "Cartierul Landhaus",
                   "text": "Districtul guvernamental modern impresionează prin arhitectura contemporană și Turnul Sunetului, înalt de 77 de metri.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.63161,
+                        48.19979
+                  ]
             },
             {
                   "name": "Klangturm (Turnul Sunetului)",
                   "text": "Acest turn modern din oțel oferă vizitatorilor o vedere panoramică asupra văii Traisen și instalații sonore interactive.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.6327,
+                        48.2007
+                  ]
             },
             {
                   "name": "Muzeul Austriei Inferioare",
                   "text": "Un muzeu interactiv dedicat naturii și istoriei regiunii, care include și un acvariu de mari dimensiuni.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.631111,
+                        48.200278
+                  ]
             },
             {
                   "name": "Herrenplatz",
                   "text": "Una dintre cele mai frumoase piețe ale orașului, înconjurată de fațade baroce și rococo, unde se organizează piețe săptămânale.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.62561,
+                        48.20476
+                  ]
             },
             {
                   "name": "Fosta Sinagogă",
                   "text": "O clădire remarcabilă în stil Jugendstil, care astăzi funcționează ca centru cultural și amintește de moștenirea evreiască.",
                   "category": "monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.628745,
+                        48.202508
+                  ]
             },
             {
                   "name": "Festspielhaus St. Pölten",
                   "text": "O sală de spectacole renumită internațional pentru dans contemporan și muzică, având o arhitectură modernă din sticlă.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.631,
+                        48.2009
+                  ]
             }
       ],
       "en": [
@@ -390,49 +630,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "St. Pölten Cathedral",
                   "text": "The Baroque cathedral features an interior designed by Jakob Prandtauer, housing magnificent frescoes and a significant organ.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.627197,
+                        48.205078
+                  ]
             },
             {
                   "name": "Town Hall (Rathaus)",
                   "text": "This striking building on Rathausplatz combines Renaissance and Baroque elements and is the landmark of the old town.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.622948,
+                        48.204233
+                  ]
             },
             {
                   "name": "Landhausviertel",
                   "text": "The modern government district impresses with contemporary architecture and the 77-meter-high Sound Tower viewpoint.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.63161,
+                        48.19979
+                  ]
             },
             {
                   "name": "Klangturm (Sound Tower)",
                   "text": "A modern steel tower in the Landhausviertel offering panoramic views over the Traisen Valley and interactive sound installations.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.6327,
+                        48.2007
+                  ]
             },
             {
                   "name": "Museum of Lower Austria",
                   "text": "An interactive museum dedicated to the nature and history of the state, featuring a large aquarium for visitors.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.631111,
+                        48.200278
+                  ]
             },
             {
                   "name": "Herrenplatz",
                   "text": "One of the city's most beautiful squares, surrounded by Baroque and Rococo facades and hosting regular weekly markets.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.62561,
+                        48.20476
+                  ]
             },
             {
                   "name": "Former Synagogue",
                   "text": "A significant Art Nouveau building that now serves as a cultural center and commemorates the city's Jewish heritage.",
                   "category": "monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.628745,
+                        48.202508
+                  ]
             },
             {
                   "name": "Festspielhaus St. Pölten",
                   "text": "An internationally renowned venue for contemporary dance and music with striking modern glass architecture.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        15.631,
+                        48.2009
+                  ]
             }
       ]
 }
@@ -444,49 +716,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Stift Klosterneuburg",
                   "text": "Das 1114 gegründete Augustiner-Chorherrenstift beherbergt den berühmten Verduner Altar und prunkvolle kaiserliche Appartements.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Stiftsmuseum",
-                  "text": "Das Museum präsentiert sakrale Kunstschätze, mittelalterliche Handschriften und den wertvollen österreichischen Erzherzogshut.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.326639,
+                        48.307189
+                  ]
             },
             {
                   "name": "Albertina Klosterneuburg",
                   "text": "In den Räumen der ehemaligen Sammlung Essl werden hochkarätige Wechselausstellungen moderner und zeitgenössischer Kunst gezeigt.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.33363,
+                        48.30185
+                  ]
             },
             {
                   "name": "Rathausplatz",
                   "text": "Das historische Zentrum der Stadt mit dem spätgotischen Rathaus und gemütlichen Gastgärten in den umliegenden Gebäuden.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.3588,
+                        48.2103
+                  ]
             },
             {
                   "name": "Babenbergerhalle",
                   "text": "Ein modernes Veranstaltungszentrum am Rathausplatz, das für Konzerte, Theateraufführungen und kulturelle Events genutzt wird.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.32632,
+                        48.305
+                  ]
             },
             {
                   "name": "Stadtmuseum Klosterneuburg",
                   "text": "Das Museum dokumentiert die lokale Geschichte, von der römischen Vergangenheit bis zur Entwicklung der Weinkultur.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.320797,
+                        48.303397
+                  ]
             },
             {
                   "name": "Strandbad Klosterneuburg",
                   "text": "Ein weitläufiges Freizeitareal an der Donau mit historischen Kabinen und Sportmöglichkeiten, ideal für Sommertage.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.337514,
+                        48.307235
+                  ]
             },
             {
                   "name": "Niedermarkt",
                   "text": "Ein geschichtsträchtiger Marktplatz unterhalb des Stifts, bekannt für seine Architektur und die Nähe zum Donauarm.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.326,
+                        48.30941
+                  ]
             }
       ],
       "hu": [
@@ -494,49 +788,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Klosterneuburgi apátság",
                   "text": "Az 1114-ben alapított ágoston-rendi kolostor a világhírű Verduni oltárnak és pazar császári lakosztályoknak ad otthont.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Apátsági Múzeum",
-                  "text": "A múzeum szakrális műkincseket, középkori kéziratokat és az osztrák főhercegi koronát mutatja be a látogatóknak.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.326639,
+                        48.307189
+                  ]
             },
             {
                   "name": "Albertina Klosterneuburg",
                   "text": "Az egykori Essl-gyűjtemény épületében ma a modern és kortárs művészet legjavát bemutató időszaki kiállítások láthatók.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.33363,
+                        48.30185
+                  ]
             },
             {
                   "name": "Városháza tér (Rathausplatz)",
                   "text": "A város történelmi központja a késő gótikus városházával és a környező épületek hangulatos vendéglőivel.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.3588,
+                        48.2103
+                  ]
             },
             {
                   "name": "Babenbergerhalle",
                   "text": "Modern rendezvényközpont a főtéren, amely koncerteknek, színházi előadásoknak és kulturális eseményeknek ad helyet.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.32632,
+                        48.305
+                  ]
             },
             {
                   "name": "Klosterneuburgi Városi Múzeum",
                   "text": "A múzeum a helyi történelmet dokumentálja a római kortól kezdve egészen a híres borkultúra fejlődéséig.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.320797,
+                        48.303397
+                  ]
             },
             {
                   "name": "Strandbad Klosterneuburg",
                   "text": "Kiterjedt szabadidős terület a Duna partján történelmi kabinokkal és sportolási lehetőségekkel a nyári napokra.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.337514,
+                        48.307235
+                  ]
             },
             {
                   "name": "Niedermarkt",
                   "text": "Az apátság alatti történelmi piactér, amely jellegzetes építészetéről és a Duna-ág közelségéről ismert.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.326,
+                        48.30941
+                  ]
             }
       ],
       "ro": [
@@ -544,49 +860,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Abadia Klosterneuburg",
                   "text": "Fondata în 1114, mănăstirea canonicilor augustinieni găzduiește celebrul Altar de la Verdun și apartamente imperiale somptuoase.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Muzeul Abadiei",
-                  "text": "Muzeul prezintă comori de artă sacră, manuscrise medievale și prețioasa coroană a arhiducilor Austriei.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.326639,
+                        48.307189
+                  ]
             },
             {
                   "name": "Albertina Klosterneuburg",
                   "text": "În incinta fostei Colecții Essl sunt prezentate expoziții temporare de înaltă clasă de artă modernă și contemporană.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.33363,
+                        48.30185
+                  ]
             },
             {
                   "name": "Rathausplatz",
                   "text": "Centrul istoric al orașului cu primăria în stil gotic târziu și grădini primitoare în clădirile din jur.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.3588,
+                        48.2103
+                  ]
             },
             {
                   "name": "Babenbergerhalle",
                   "text": "Un centru modern de evenimente situat în piața primăriei, utilizat pentru concerte, teatru și evenimente culturale.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.32632,
+                        48.305
+                  ]
             },
             {
                   "name": "Muzeul Orașului Klosterneuburg",
                   "text": "Muzeul documentează istoria locală, de la trecutul roman până la dezvoltarea culturii viticole regionale.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.320797,
+                        48.303397
+                  ]
             },
             {
                   "name": "Strandbad Klosterneuburg",
                   "text": "O zonă vastă de agrement pe malul Dunării, cu cabine istorice și facilități sportive, ideală pentru zilele de vară.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.337514,
+                        48.307235
+                  ]
             },
             {
                   "name": "Niedermarkt",
                   "text": "O piață istorică situată sub abadia orașului, cunoscută pentru arhitectura sa și proximitatea față de brațul Dunării.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.326,
+                        48.30941
+                  ]
             }
       ],
       "en": [
@@ -594,49 +932,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Klosterneuburg Abbey",
                   "text": "Founded in 1114, this Augustinian monastery houses the famous Verdun Altar and magnificent imperial apartments.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Abbey Museum",
-                  "text": "The museum presents sacred art treasures, medieval manuscripts, and the valuable Austrian Archducal Hat.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.326639,
+                        48.307189
+                  ]
             },
             {
                   "name": "Albertina Klosterneuburg",
                   "text": "The former Essl Collection venue now hosts high-profile temporary exhibitions of modern and contemporary art.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.33363,
+                        48.30185
+                  ]
             },
             {
                   "name": "Rathausplatz",
                   "text": "The historical center of the city featuring the late Gothic town hall and cozy dining areas in the surrounding buildings.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.3588,
+                        48.2103
+                  ]
             },
             {
                   "name": "Babenbergerhalle",
                   "text": "A modern event center on Rathausplatz used for concerts, theater performances, and various cultural events.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.32632,
+                        48.305
+                  ]
             },
             {
                   "name": "Klosterneuburg City Museum",
                   "text": "The museum documents local history, from its Roman past to the development of the region's famous wine culture.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.320797,
+                        48.303397
+                  ]
             },
             {
                   "name": "Klosterneuburg Lido",
                   "text": "An extensive leisure area on the Danube with historic cabins and sports facilities, perfect for summer recreation.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.337514,
+                        48.307235
+                  ]
             },
             {
                   "name": "Niedermarkt",
                   "text": "A historic marketplace below the abbey, known for its architecture and proximity to the Danube branch.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.326,
+                        48.30941
+                  ]
             }
       ]
 }
@@ -648,49 +1008,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Burgruine Mödling",
                   "text": "Die Ruine der einstigen Stammburg der Babenberger bietet einen weiten Blick über das Wiener Becken und den Wienerwald.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Othmar Kirche",
-                  "text": "Diese gotische Hallenkirche aus dem 15. Jahrhundert mit ihrem markanten Turm prägt das historische Stadtbild von Mödling.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.267331,
+                        48.079369
+                  ]
             },
             {
                   "name": "Schwarzer Turm",
                   "text": "Ein künstlich errichteter Wachturm im Stile der Romantik, der auf einem markanten Felsen oberhalb der Stadt thront.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.277018,
+                        48.085345
+                  ]
             },
             {
                   "name": "Husarentempel",
                   "text": "Ein klassizistischer Tempelbau auf dem Kleinen Anninger, der als Denkmal für die Gefallenen der Schlacht bei Aspern dient.",
                   "category": "monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.25171,
+                        48.07703
+                  ]
             },
             {
                   "name": "Museum Mödling - Thonetschlössl",
                   "text": "Untergebracht im barocken Thonetschlössl, präsentiert das Museum die reiche Stadtgeschichte und verschiedene regionale Exponate.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.287904,
+                        48.086644
+                  ]
             },
             {
                   "name": "Mödlinger Aquädukt",
                   "text": "Ein imposantes Bauwerk der I. Wiener Hochquellenleitung, das das Tal überbrückt und technisch wie architektonisch beeindruckt.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.271766,
+                        48.133724
+                  ]
             },
             {
                   "name": "Rathaus Mödling",
                   "text": "Das historische Rathaus im Zentrum der Altstadt ist ein hervorragendes Beispiel für die bürgerliche Architektur der Region.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Fußgängerzone Altstadt",
-                  "text": "Der lebendige Kern der Altstadt mit historischen Fassaden, gemütlichen Cafés und der markanten Pestsäule in der Mitte.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.282962,
+                        48.085554
+                  ]
             }
       ],
       "hu": [
@@ -698,49 +1070,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Burgruine Mödling",
                   "text": "A Babenbergek egykori családi fészkének romjai lenyűgöző kilátást nyújtanak a Bécsi-medencére és a Bécsi-erdőre.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Othmar Kirche",
-                  "text": "A 15. századi gótikus csarnoktemplom jellegzetes tornyával meghatározza Mödling történelmi városképét.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.267331,
+                        48.079369
+                  ]
             },
             {
                   "name": "Schwarzer Turm",
                   "text": "Egy romantikus stílusban épült mesterséges őrtorony, amely a város feletti egyik sziklán trónol.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.277018,
+                        48.085345
+                  ]
             },
             {
                   "name": "Husarentempel",
                   "text": "Klasszicista templomépület a Kleiner Anningeren, amely az asperni csata hősi halottainak állít emléket.",
                   "category": "monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.25171,
+                        48.07703
+                  ]
             },
             {
                   "name": "Museum Mödling - Thonetschlössl",
                   "text": "A barokk Thonetschlössl épületében helyet kapó múzeum a város gazdag történelmét és regionális emlékeit mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.287904,
+                        48.086644
+                  ]
             },
             {
                   "name": "Mödlinger Aquädukt",
                   "text": "Az I. bécsi magasforrás-vezeték impozáns építménye, amely áthidalja a völgyet, technikai és építészeti látványosság.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.271766,
+                        48.133724
+                  ]
             },
             {
                   "name": "Rathaus Mödling",
                   "text": "Az óváros központjában álló történelmi városháza a régió polgári építészetének kiváló példája.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Fußgängerzone Altstadt",
-                  "text": "Az óváros pezsgő szíve történelmi homlokzatokkal, kávézókkal és a közepén álló jellegzetes pestisoszloppal.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.282962,
+                        48.085554
+                  ]
             }
       ],
       "ro": [
@@ -748,49 +1132,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Burgruine Mödling",
                   "text": "Ruinele castelului familiei Babenberg oferă o vedere panoramică asupra bazinului Vienei și a pădurii vieneze.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Othmar Kirche",
-                  "text": "Această biserică gotică din secolul al XV-lea, cu turnul său distinctiv, domină centrul istoric al orașului Mödling.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.267331,
+                        48.079369
+                  ]
             },
             {
                   "name": "Schwarzer Turm",
                   "text": "Un turn de veghe artificial construit în stil romantic, cocoțat pe o stâncă proeminentă deasupra orașului.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.277018,
+                        48.085345
+                  ]
             },
             {
                   "name": "Husarentempel",
                   "text": "Un templu neoclasic situat pe muntele Kleiner Anninger, servind ca monument pentru eroii căzuți în bătălia de la Aspern.",
                   "category": "monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.25171,
+                        48.07703
+                  ]
             },
             {
                   "name": "Museum Mödling - Thonetschlössl",
                   "text": "Găzduit în clădirea barocă Thonetschlössl, muzeul prezintă istoria bogată a orașului și diverse exponate regionale.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.287904,
+                        48.086644
+                  ]
             },
             {
                   "name": "Mödlinger Aquädukt",
                   "text": "O construcție impunătoare a primei conducte de apă a Vienei, care traversează valea, impresionând tehnic și arhitectural.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.271766,
+                        48.133724
+                  ]
             },
             {
                   "name": "Rathaus Mödling",
                   "text": "Primăria istorică din centrul orașului vechi este un exemplu excelent de arhitectură civică din regiune.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Fußgängerzone Altstadt",
-                  "text": "Nucleul plin de viață al orașului vechi, cu fațade istorice, cafenele primitoare și Coloana Ciumei în centru.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.282962,
+                        48.085554
+                  ]
             }
       ],
       "en": [
@@ -798,49 +1194,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Burgruine Mödling",
                   "text": "The ruins of the former ancestral castle of the Babenbergs offer a wide view over the Vienna Basin and the Vienna Woods.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Othmar Kirche",
-                  "text": "This 15th-century Gothic hall church with its prominent tower shapes the historic cityscape of Mödling.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.267331,
+                        48.079369
+                  ]
             },
             {
                   "name": "Schwarzer Turm",
                   "text": "An artificially built watchtower in Romantic style, perched on a prominent rock high above the city.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.277018,
+                        48.085345
+                  ]
             },
             {
                   "name": "Husarentempel",
                   "text": "A Neoclassical temple building on the Kleiner Anninger, serving as a monument to the fallen of the Battle of Aspern.",
                   "category": "monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.25171,
+                        48.07703
+                  ]
             },
             {
                   "name": "Museum Mödling - Thonetschlössl",
                   "text": "Housed in the Baroque Thonetschlössl, the museum presents the rich history of the city and various regional exhibits.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.287904,
+                        48.086644
+                  ]
             },
             {
                   "name": "Mödling Aqueduct",
                   "text": "An impressive structure of the First Vienna Mountain Spring Pipeline, bridging the valley with technical and architectural flair.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.271766,
+                        48.133724
+                  ]
             },
             {
                   "name": "Rathaus Mödling",
                   "text": "The historic town hall in the center of the old town is an excellent example of the region's civic architecture.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Old Town Pedestrian Zone",
-                  "text": "The vibrant core of the old town with historic facades, cozy cafes, and the prominent Plague Column in the center.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.282962,
+                        48.085554
+                  ]
             }
       ]
 }
@@ -852,37 +1260,31 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Museum Traiskirchen",
                   "text": "In einer ehemaligen Textilfabrik untergebracht, zeigt es eine der größten Sammlungen zur Alltagskultur in Niederösterreich.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pfarrkirche hl. Margareta",
-                  "text": "Eine weithin sichtbare barocke Kirche, die auf einer Anhöhe liegt und als Wahrzeichen der Stadt Traiskirchen gilt.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.28733,
+                        48.00897
+                  ]
             },
             {
                   "name": "Schloss Tribuswinkel",
                   "text": "Ein geschichtsträchtiges Schloss im Stadtteil Tribuswinkel, umgeben von einem weitläufigen Park mit altem Baumbestand.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pestsäule am Hauptplatz",
-                  "text": "Diese barocke Dreifaltigkeitssäule ist ein Zeugnis tiefer Frömmigkeit und ein zentraler Punkt im Stadtzentrum.",
-                  "category": "monuments/statues",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pfarrkirche hl. Nikolaus",
-                  "text": "Eine kleinere, historisch bedeutende Kirche, die das sakrale Erbe der Gemeinde Traiskirchen harmonisch ergänzt.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.27346,
+                        48.00608
+                  ]
             },
             {
                   "name": "Stadtsaal Traiskirchen",
                   "text": "Das kulturelle Zentrum der Stadt, in dem regelmäßig Konzerte, Theateraufführungen und lokale Veranstaltungen stattfinden.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.294362,
+                        48.013531
+                  ]
             }
       ],
       "hu": [
@@ -890,37 +1292,31 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Museum Traiskirchen",
                   "text": "Egy egykori textilgyárban kapott helyet, és Alsó-Ausztria egyik legnagyobb mindennapi kultúrtörténeti gyűjteményét mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pfarrkirche hl. Margareta",
-                  "text": "Messziről látható barokk templom, amely egy dombon áll, és Traiskirchen városának jelképének számít.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.28733,
+                        48.00897
+                  ]
             },
             {
                   "name": "Schloss Tribuswinkel",
                   "text": "Történelmi kastély Tribuswinkel városrészben, amelyet egy hatalmas, idős fákkal teli kastélypark vesz körül.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pestsäule am Hauptplatz",
-                  "text": "A főtéren álló barokk Szentháromság-oszlop a mély vallásosság emléke és a városközpont központi pontja.",
-                  "category": "monuments/statues",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pfarrkirche hl. Nikolaus",
-                  "text": "Kisebb, de történelmileg jelentős templom, amely kiegészíti Traiskirchen község szakrális örökségét.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.27346,
+                        48.00608
+                  ]
             },
             {
                   "name": "Stadtsaal Traiskirchen",
                   "text": "A város kulturális központja, ahol rendszeresen tartanak koncerteket, színházi előadásokat és helyi rendezvényeket.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.294362,
+                        48.013531
+                  ]
             }
       ],
       "ro": [
@@ -928,37 +1324,31 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Museum Traiskirchen",
                   "text": "Găzduit într-o fostă fabrică de textile, acesta prezintă una dintre cele mai mari colecții de cultură cotidiană din Austria Inferioară.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pfarrkirche hl. Margareta",
-                  "text": "O biserică barocă vizibilă de la distanță, situată pe o colină, considerată un simbol al orașului Traiskirchen.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.28733,
+                        48.00897
+                  ]
             },
             {
                   "name": "Schloss Tribuswinkel",
                   "text": "Un castel plin de istorie în districtul Tribuswinkel, înconjurat de un parc vast cu arbori seculari.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pestsäule am Hauptplatz",
-                  "text": "Această coloană barocă a Sfintei Treimi din piața principală este o dovadă a credinței profunde și un punct central.",
-                  "category": "monuments/statues",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pfarrkirche hl. Nikolaus",
-                  "text": "O biserică mai mică, dar importantă istoric, care completează moștenirea sacră a comunității Traiskirchen.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.27346,
+                        48.00608
+                  ]
             },
             {
                   "name": "Stadtsaal Traiskirchen",
                   "text": "Centrul cultural al orașului, unde au loc regulat concerte, spectacole de teatru și diverse evenimente locale.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.294362,
+                        48.013531
+                  ]
             }
       ],
       "en": [
@@ -966,37 +1356,31 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Museum Traiskirchen",
                   "text": "Housed in a former textile factory, it displays one of the largest collections of everyday culture in Lower Austria.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pfarrkirche hl. Margareta",
-                  "text": "A Baroque church visible from afar, situated on a hill and considered a landmark of the town of Traiskirchen.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.28733,
+                        48.00897
+                  ]
             },
             {
                   "name": "Schloss Tribuswinkel",
                   "text": "A castle rich in history in the Tribuswinkel district, surrounded by a large castle park with old trees.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Plague Column (Hauptplatz)",
-                  "text": "This Baroque Holy Trinity Column on the main square is a testament to deep piety and a central point of the town center.",
-                  "category": "monuments/statues",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pfarrkirche hl. Nikolaus",
-                  "text": "A smaller but historically significant church that complements the sacred heritage of the Traiskirchen municipality.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.27346,
+                        48.00608
+                  ]
             },
             {
                   "name": "Stadtsaal Traiskirchen",
                   "text": "The cultural center of the city, hosting regular concerts, theater performances, and local community events.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        16.294362,
+                        48.013531
+                  ]
             }
       ]
 }
@@ -1008,49 +1392,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Ritz",
                   "text": "Das Heimatmuseum im Schloss Ritz zeigt die bäuerliche Kultur und eine der größten Krippensammlungen Österreichs.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8459,
+                        47.4211
+                  ]
             },
             {
                   "name": "Einsiedelei am Palfen",
                   "text": "Eine der letzten bewohnten Einsiedeleien Europas, spektakulär in eine Felswand oberhalb von Saalfelden gebaut.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.860001,
+                        47.443625
+                  ]
             },
             {
                   "name": "Ritzensee",
                   "text": "Ein malerischer Moorsee mit Strandbad, der als Naherholungsgebiet mit Blick auf das Steinerne Meer dient.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8469,
+                        47.4185
+                  ]
             },
             {
                   "name": "Schloss Lichtenberg",
                   "text": "Eine mittelalterliche Burganlage auf einem Hügel, die heute als markantes Wahrzeichen über der Stadt thront.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kulturhaus Nexus",
-                  "text": "Ein modernes Zentrum für zeitgenössische Kunst, Musik und Theater im Herzen von Saalfelden am Steinernen Meer.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8607,
+                        47.4412
+                  ]
             },
             {
                   "name": "Pfarrkirche Saalfelden",
                   "text": "Die gotische Hallenkirche mit ihrem markanten Turm beherbergt wertvolle sakrale Kunstwerke und Altäre.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8487,
+                        47.4272
+                  ]
             },
             {
                   "name": "Schloss Farmach",
                   "text": "Ein historischer Ansitz aus dem 16. Jahrhundert, der heute als Seniorenheim dient und einen schönen Park besitzt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8573,
+                        47.4211
+                  ]
             },
             {
                   "name": "Schloss Dorfheim",
                   "text": "Ein ehemaliger Adelssitz mit einer langen Geschichte, der das historische Ortsbild von Saalfelden bereichert.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8354,
+                        47.4314
+                  ]
             }
       ],
       "hu": [
@@ -1058,49 +1464,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Ritz-kastély",
                   "text": "A kastélyban található honismereti múzeum a paraszti kultúrát és Ausztria egyik legnagyobb betlehem-gyűjteményét mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8459,
+                        47.4211
+                  ]
             },
             {
                   "name": "Palfen-remetelak",
                   "text": "Európa egyik utolsó lakott remetelaka, amely látványosan épült be a Saalfelden feletti sziklafalba.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.860001,
+                        47.443625
+                  ]
             },
             {
                   "name": "Ritzensee",
                   "text": "Festői láptó stranddal, amely pihenőhelyként szolgál, lenyűgöző kilátással a Steinerne Meer hegyvonulatra.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8469,
+                        47.4185
+                  ]
             },
             {
                   "name": "Lichtenberg-vár",
                   "text": "Egy dombon álló középkori váregyüttes, amely ma a város feletti jellegzetes történelmi jelképként magasodik.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Nexus Kulturház",
-                  "text": "A kortárs művészetek, a zene és a színház modern központja Saalfelden am Steinernen Meer szívében.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8607,
+                        47.4412
+                  ]
             },
             {
                   "name": "Saalfeldeni plébániatemplom",
                   "text": "Gótikus csarnoktemplom jellegzetes toronnyal, amely értékes szakrális műalkotásoknak és oltároknak ad otthont.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8487,
+                        47.4272
+                  ]
             },
             {
                   "name": "Farmach-kastély",
                   "text": "16. századi történelmi udvarház, amely ma idősotthonként működik, és szép parkkal rendelkezik.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8573,
+                        47.4211
+                  ]
             },
             {
                   "name": "Dorfheim-kastély",
                   "text": "Hosszú múltra visszatekintő egykori nemesi rezidencia, amely gazdagítja Saalfelden történelmi utcaképét.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8354,
+                        47.4314
+                  ]
             }
       ],
       "ro": [
@@ -1108,49 +1536,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Ritz",
                   "text": "Muzeul de istorie locală din castel prezintă cultura rurală și una dintre cele mai mari colecții de iesle din Austria.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8459,
+                        47.4211
+                  ]
             },
             {
                   "name": "Schitul de pe Palfen",
                   "text": "Unul dintre ultimele schituri locuite din Europa, construit spectaculos într-un perete de stâncă deasupra orașului.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.860001,
+                        47.443625
+                  ]
             },
             {
                   "name": "Ritzensee",
                   "text": "Un lac pitoresc cu ștrand, care servește ca zonă de recreere cu vedere spre muntele Steinerne Meer.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8469,
+                        47.4185
+                  ]
             },
             {
                   "name": "Castelul Lichtenberg",
                   "text": "O fortăreață medievală situată pe un deal, care domină astăzi orașul ca un simbol istoric marcant.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Casa de Cultură Nexus",
-                  "text": "Un centru modern pentru artă contemporană, muzică și teatru în inima localității Saalfelden.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8607,
+                        47.4412
+                  ]
             },
             {
                   "name": "Biserica Parohială Saalfelden",
                   "text": "Biserică gotică cu un turn proeminent, care adăpostește opere de artă sacră și altare valoroase.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8487,
+                        47.4272
+                  ]
             },
             {
                   "name": "Castelul Farmach",
                   "text": "O reședință istorică din secolul al XVI-lea, care astăzi servește ca azil de bătrâni și are un parc frumos.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8573,
+                        47.4211
+                  ]
             },
             {
                   "name": "Castelul Dorfheim",
                   "text": "O fostă reședință nobiliară cu o istorie îndelungată, care îmbogățește aspectul istoric al orașului Saalfelden.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8354,
+                        47.4314
+                  ]
             }
       ],
       "en": [
@@ -1158,49 +1608,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Ritz",
                   "text": "The local history museum in Ritz Castle showcases rural culture and one of Austria's largest nativity scene collections.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8459,
+                        47.4211
+                  ]
             },
             {
                   "name": "Hermitage on the Palfen",
                   "text": "One of Europe's last inhabited hermitages, spectacularly built into a cliff face overlooking Saalfelden.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.860001,
+                        47.443625
+                  ]
             },
             {
                   "name": "Ritzensee",
                   "text": "A picturesque moor lake with a swimming area, serving as a recreation spot with views of the Steinerne Meer.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8469,
+                        47.4185
+                  ]
             },
             {
                   "name": "Lichtenberg Castle",
                   "text": "A medieval fortification on a hill that stands today as a prominent historical landmark above the town.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kulturhaus Nexus",
-                  "text": "A modern center for contemporary art, music, and theater in the heart of Saalfelden am Steinernen Meer.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8607,
+                        47.4412
+                  ]
             },
             {
                   "name": "Saalfelden Parish Church",
                   "text": "A Gothic hall church with a striking tower housing valuable sacred artworks and historic altars.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8487,
+                        47.4272
+                  ]
             },
             {
                   "name": "Schloss Farmach",
                   "text": "A historic residence from the 16th century, currently serving as a retirement home with a beautiful park.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8573,
+                        47.4211
+                  ]
             },
             {
                   "name": "Schloss Dorfheim",
                   "text": "A former noble seat with a long history, contributing to the historical townscape of Saalfelden.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        12.8354,
+                        47.4314
+                  ]
             }
       ]
 }
@@ -1286,73 +1758,121 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Grossmünster",
                   "text": "Die ehemalige Klosterkirche prägt mit ihren markanten Türmen das Stadtbild und war Ausgangspunkt der Reformation.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.54349,
+                        47.37013
+                  ]
             },
             {
                   "name": "Fraumünster",
                   "text": "Bekannt für die farbenprächtigen Glasfenster von Marc Chagall und Augusto Giacometti in der ehemaligen Abtei.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541111,
+                        47.369722
+                  ]
             },
             {
                   "name": "Kunsthaus Zürich",
                   "text": "Eines der bedeutendsten Kunstmuseen der Schweiz mit einer beeindruckenden Sammlung vom Mittelalter bis zur Gegenwart.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5491,
+                        47.3711
+                  ]
             },
             {
                   "name": "Landesmuseum Zürich",
                   "text": "In einem schlossähnlichen Gebäude präsentiert das Museum die Schweizer Kulturgeschichte von den Anfängen bis heute.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.539722,
+                        47.379167
+                  ]
             },
             {
                   "name": "Bahnhofstrasse",
                   "text": "Eine der exklusivsten Einkaufsmeilen der Welt, die den Hauptbahnhof mit dem Zürichsee verbindet.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.539853,
+                        47.376861
+                  ]
             },
             {
                   "name": "Lindenhof",
                   "text": "Eine historische Oase in der Altstadt auf einem Hügel mit herrlichem Ausblick auf die Limmat und das Grossmünster.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540726,
+                        47.373099
+                  ]
             },
             {
                   "name": "Opernhaus Zürich",
                   "text": "Ein prächtiges Neobarock-Gebäude am Sechseläutenplatz, bekannt für erstklassige Opern- und Ballettaufführungen.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.546944,
+                        47.365
+                  ]
             },
             {
                   "name": "Niederdorf",
                   "text": "Der lebendige Teil der Zürcher Altstadt mit mittelalterlichen Gassen, zahlreichen Cafés, Bars und kleinen Läden.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.543809,
+                        47.373298
+                  ]
             },
             {
                   "name": "Zürichsee",
                   "text": "Das Wahrzeichen der Stadt bietet zahlreiche Freizeitmöglichkeiten, Schifffahrten und weitläufige Uferpromenaden.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.530088,
+                        47.367642
+                  ]
             },
             {
                   "name": "Quaibrücke",
                   "text": "Die zentrale Brücke am Seeausfluss verbindet die beiden Ufer der Limmat und bietet tolle Fotomotive.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.54312,
+                        47.3668
+                  ]
             },
             {
                   "name": "St. Peter Kirche",
                   "text": "Die älteste Pfarrkirche Zürichs besitzt das größte Kirchturmszifferblatt Europas mit einem Durchmesser von 8,7 Metern.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540824,
+                        47.371406
+                  ]
             },
             {
                   "name": "Zunfthaus zur Meisen",
                   "text": "Ein barocker Stadtpalast in der Altstadt, der heute eine bedeutende Porzellan- und Fayencesammlung beherbergt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541667,
+                        47.37
+                  ]
             }
       ],
       "hu": [
@@ -1360,73 +1880,121 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Grossmünster",
                   "text": "Az egykori kolostortemplom jellegzetes tornyaival meghatározza a városképet, és a reformáció kiindulópontja volt.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.54349,
+                        47.37013
+                  ]
             },
             {
                   "name": "Fraumünster",
                   "text": "Az egykori apátság Marc Chagall és Augusto Giacometti színes üvegablakairól világszerte ismert.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541111,
+                        47.369722
+                  ]
             },
             {
                   "name": "Kunsthaus Zürich",
                   "text": "Svájc egyik legjelentősebb művészeti múzeuma, lenyűgöző gyűjteménnyel a középkortól napjainkig.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5491,
+                        47.3711
+                  ]
             },
             {
                   "name": "Svájci Nemzeti Múzeum",
                   "text": "A kastélyszerű épületben található múzeum Svájc kultúrtörténetét mutatja be a kezdetektől egészen máig.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.539722,
+                        47.379167
+                  ]
             },
             {
                   "name": "Bahnhofstrasse",
                   "text": "A világ egyik legexkluzívabb bevásárlóutcája, amely a főpályaudvart köti össze a Zürichi-tóval.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.539853,
+                        47.376861
+                  ]
             },
             {
                   "name": "Lindenhof",
                   "text": "Történelmi oázis az óvárosban egy dombon, ahonnan csodálatos kilátás nyílik a Limmat folyóra és a Grossmünsterre.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540726,
+                        47.373099
+                  ]
             },
             {
                   "name": "Zürichi Operaház",
                   "text": "Pompás neobarokk épület a Sechseläutenplatzon, amely világszínvonalú opera- és balettelőadásairól híres.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.546944,
+                        47.365
+                  ]
             },
             {
                   "name": "Niederdorf",
                   "text": "A zürichi óváros élettel teli része középkori utcákkal, számos kávézóval, bárral és kis üzlettel.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.543809,
+                        47.373298
+                  ]
             },
             {
                   "name": "Zürichi-tó",
                   "text": "A város jelképe számos kikapcsolódási lehetőséget, hajókirándulásokat és tágas tóparti sétányokat kínál.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.530088,
+                        47.367642
+                  ]
             },
             {
                   "name": "Quaibrücke",
                   "text": "A tó kifolyásánál található központi híd, amely összeköti a Limmat két partját és remek fotótéma.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.54312,
+                        47.3668
+                  ]
             },
             {
                   "name": "Szent Péter-templom",
                   "text": "Zürich legrégebbi plébániatemploma, amely Európa legnagyobb toronyóra-számlapjával rendelkezik.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540824,
+                        47.371406
+                  ]
             },
             {
                   "name": "Zunfthaus zur Meisen",
                   "text": "Barokk városi palota az óvárosban, amely ma jelentős porcelán- és fajanszgyűjteménynek ad otthont.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541667,
+                        47.37
+                  ]
             }
       ],
       "ro": [
@@ -1434,73 +2002,121 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Grossmünster",
                   "text": "Fosta biserică a mănăstirii definește silueta orașului cu turnurile sale marcante și a fost centrul Reformei.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.54349,
+                        47.37013
+                  ]
             },
             {
                   "name": "Fraumünster",
                   "text": "Cunoscută pentru vitraliile colorate realizate de Marc Chagall și Augusto Giacometti în fosta abație.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541111,
+                        47.369722
+                  ]
             },
             {
                   "name": "Kunsthaus Zürich",
                   "text": "Unul dintre cele mai importante muzee de artă din Elveția, cu o colecție impresionantă din Evul Mediu până azi.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5491,
+                        47.3711
+                  ]
             },
             {
                   "name": "Muzeul Național Zürich",
                   "text": "Într-o clădire asemănătoare unui castel, muzeul prezintă istoria culturală a Elveției de la începuturi până în prezent.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.539722,
+                        47.379167
+                  ]
             },
             {
                   "name": "Bahnhofstrasse",
                   "text": "Una dintre cele mai exclusiviste străzi comerciale din lume, care leagă gara centrală de Lacul Zürich.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.539853,
+                        47.376861
+                  ]
             },
             {
                   "name": "Lindenhof",
                   "text": "O oază istorică în orașul vechi, pe un deal cu o vedere splendidă asupra râului Limmat și a bisericii Grossmünster.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540726,
+                        47.373099
+                  ]
             },
             {
                   "name": "Opera din Zürich",
                   "text": "O clădire neobarocă superbă în Sechseläutenplatz, renumită pentru spectacole de operă și balet de clasă mondială.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.546944,
+                        47.365
+                  ]
             },
             {
                   "name": "Niederdorf",
                   "text": "Partea plină de viață a centrului vechi, cu străzi medievale, numeroase cafenele, baruri și magazine mici.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.543809,
+                        47.373298
+                  ]
             },
             {
                   "name": "Lacul Zürich",
                   "text": "Simbolul orașului oferă numeroase activități de agrement, plimbări cu vaporul și promenade extinse pe mal.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.530088,
+                        47.367642
+                  ]
             },
             {
                   "name": "Quaibrücke",
                   "text": "Podul central situat la ieșirea râului din lac, care leagă cele două maluri ale Limmatului.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.54312,
+                        47.3668
+                  ]
             },
             {
                   "name": "Biserica Sf. Petru",
                   "text": "Cea mai veche biserică parohială din Zürich, având cel mai mare cadran de ceas de turn din Europa.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540824,
+                        47.371406
+                  ]
             },
             {
                   "name": "Zunfthaus zur Meisen",
                   "text": "Un palat urban baroc din orașul vechi, care găzduiește astăzi o importantă colecție de porțelan și faianță.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541667,
+                        47.37
+                  ]
             }
       ],
       "en": [
@@ -1508,73 +2124,121 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Grossmünster",
                   "text": "The former monastic church dominates the skyline with its twin towers and was the starting point of the Reformation.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.54349,
+                        47.37013
+                  ]
             },
             {
                   "name": "Fraumünster",
                   "text": "Famous for its stunning stained-glass windows by Marc Chagall and Augusto Giacometti in the former abbey.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541111,
+                        47.369722
+                  ]
             },
             {
                   "name": "Kunsthaus Zürich",
                   "text": "One of Switzerland's most important art museums, featuring an impressive collection from the Middle Ages to today.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5491,
+                        47.3711
+                  ]
             },
             {
                   "name": "National Museum Zurich",
                   "text": "Housed in a castle-like building, this museum presents Swiss cultural history from its origins to the present.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.539722,
+                        47.379167
+                  ]
             },
             {
                   "name": "Bahnhofstrasse",
                   "text": "One of the world's most exclusive shopping avenues, connecting the main station with Lake Zurich.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.539853,
+                        47.376861
+                  ]
             },
             {
                   "name": "Lindenhof",
                   "text": "A historic oasis in the old town on a hill, offering magnificent views of the Limmat river and Grossmünster.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540726,
+                        47.373099
+                  ]
             },
             {
                   "name": "Zurich Opera House",
                   "text": "A magnificent Neo-Baroque building at Sechseläutenplatz, renowned for world-class opera and ballet performances.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.546944,
+                        47.365
+                  ]
             },
             {
                   "name": "Niederdorf",
                   "text": "The lively part of Zurich's old town with medieval alleys, numerous cafes, bars, and small boutiques.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.543809,
+                        47.373298
+                  ]
             },
             {
                   "name": "Lake Zurich",
                   "text": "The city's landmark offering various recreational activities, boat cruises, and extensive lakeside promenades.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.530088,
+                        47.367642
+                  ]
             },
             {
                   "name": "Quaibrücke",
                   "text": "The central bridge where the lake meets the river, connecting both banks of the Limmat and offering great photo ops.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.54312,
+                        47.3668
+                  ]
             },
             {
                   "name": "St. Peter Church",
                   "text": "Zurich's oldest parish church, featuring the largest church clock face in Europe with a diameter of 8.7 meters.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540824,
+                        47.371406
+                  ]
             },
             {
                   "name": "Zunfthaus zur Meisen",
                   "text": "A Baroque city palace in the old town, now housing a significant collection of porcelain and faience.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541667,
+                        47.37
+                  ]
             }
       ]
 }
@@ -1586,55 +2250,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Jet d'Eau",
                   "text": "Das Wahrzeichen Genfs stößt 140 Meter Wasser in die Höhe. Ursprünglich ein Sicherheitsventil, ist es heute eine weltberühmte Attraktion am See.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.155904,
+                        46.207388
+                  ]
             },
             {
                   "name": "Cathédrale Saint-Pierre",
                   "text": "Die im 12. Jahrhundert erbaute Kathedrale war das Zentrum von Calvins Reformation. Die Türme bieten einen Panoramablick über Stadt und See.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.148611,
+                        46.201111
+                  ]
             },
             {
                   "name": "Palais des Nations",
                   "text": "Der Sitz der Vereinten Nationen in Europa ist ein monumentaler Baukomplex im Ariana-Park. Er symbolisiert die internationale Diplomatie Genfs.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Jardin Anglais & Horloge Fleurie",
-                  "text": "Der Park am See beherbergt die berühmte virágóra, eine funktionierende Uhr aus Tausenden Blumen, die Genfs Uhrmachertradition ehrt.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.140478,
+                        46.226564
+                  ]
             },
             {
                   "name": "Place du Bourg-de-Four",
                   "text": "Der älteste Platz Genfs im Herzen der Altstadt liegt auf einem antiken Forum. Er ist gesäumt von Cafés, Galerien und historischen Häusern.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.14922,
+                        46.20024
+                  ]
             },
             {
                   "name": "Mur des Réformateurs",
                   "text": "Das 100 Meter lange Denkmal im Parc des Bastions ehrt die Hauptfiguren der Reformation, darunter Calvin, Farel, Beza und John Knox.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.145556,
+                        46.200278
+                  ]
             },
             {
                   "name": "Musée d'Art et d'Histoire",
                   "text": "Das größte Museum der Stadt zeigt Sammlungen von der Antike bis zur bildenden Kunst, darunter Werke von Konrad Witz und Archäologiefunde.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.151574,
+                        46.199304
+                  ]
             },
             {
                   "name": "Patek Philippe Museum",
                   "text": "Ein Paradies für Uhrenliebhaber mit einer Sammlung von Zeitmessern aus dem 16. Jahrhundert bis heute, die technisches Know-how dokumentieren.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.1382,
+                        46.1983
+                  ]
             },
             {
                   "name": "Bains des Pâquis",
                   "text": "Das öffentliche Bad am Genfersee ist ein beliebter Treffpunkt zum Schwimmen, für Saunagänge und zum Genießen des Blicks auf den Jet d'Eau.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.15489,
+                        46.2104
+                  ]
             }
       ],
       "hu": [
@@ -1642,55 +2332,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Jet d'Eau",
                   "text": "Genf jelképe a 140 méter magasra feltörő vízsugár a Genfi-tavon. Eredetileg biztonsági szelep volt, ma világhírű turisztikai látványosság.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.155904,
+                        46.207388
+                  ]
             },
             {
                   "name": "Szent Péter-katedrális",
                   "text": "A 12. századi katedrális Kálvin reformációjának központja volt. Tornyaiból lenyűgöző panoráma nyílik az óvárosra és a Genfi-tóra.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.148611,
+                        46.201111
+                  ]
             },
             {
                   "name": "Nemzetek Palotája",
                   "text": "Az ENSZ európai székhelye az Ariana Parkban található monumentális épületegyüttes. A város nemzetközi diplomáciai szerepét jelképezi.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Angolkert és Virágóra",
-                  "text": "A tóparti park ad otthont a híres virágórának, amely több ezer növényből áll, és Genf nagy múltú óragyártási hagyományai előtt tiszteleg.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.140478,
+                        46.226564
+                  ]
             },
             {
                   "name": "Place du Bourg-de-Four",
                   "text": "Az óváros szívében található legrégebbi tér egy ókori fórum helyén alakult ki. Kávézók, galériák és patinás polgárházak veszik körül.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.14922,
+                        46.20024
+                  ]
             },
             {
                   "name": "Reformátorok fala",
                   "text": "A Bastions Parkban található 100 méter hosszú emlékmű a reformáció vezéralakjainak, köztük Kálvinnak és Farelnek állít emléket.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.145556,
+                        46.200278
+                  ]
             },
             {
                   "name": "Művészeti és Történeti Múzeum",
                   "text": "A város legnagyobb múzeuma az antikvitástól a képzőművészetig mutat be gyűjteményeket, köztük Konrad Witz híres oltárképét.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.151574,
+                        46.199304
+                  ]
             },
             {
                   "name": "Patek Philippe Múzeum",
                   "text": "Az órakedvelők paradicsoma, amely a 16. századtól napjainkig mutatja be az időmérés történetét és a technikai mestermunkákat.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.1382,
+                        46.1983
+                  ]
             },
             {
                   "name": "Bains des Pâquis",
                   "text": "A Genfi-tónál lévő nyilvános fürdő népszerű találkozóhely úszáshoz, szaunázáshoz és a vízsugárra nyíló kilátás élvezetéhez.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.15489,
+                        46.2104
+                  ]
             }
       ],
       "ro": [
@@ -1698,55 +2414,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Jet d'Eau",
                   "text": "Simbolul Genevei propulsează apa la 140 de metri înălțime pe lac. Inițial o supapă de siguranță, este acum o atracție turistică de renume mondial.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.155904,
+                        46.207388
+                  ]
             },
             {
                   "name": "Catedrala Saint-Pierre",
                   "text": "Catedrala construită în secolul al XII-lea a fost centrul reformei lui Calvin. Turnurile oferă o vedere panoramică asupra orașului și lacului.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.148611,
+                        46.201111
+                  ]
             },
             {
                   "name": "Palatul Națiunilor",
                   "text": "Sediul ONU din Europa este un complex monumental situat în parcul Ariana, simbolizând rolul Genevei în diplomația internațională.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Jardin Anglais și Ceasul cu Flori",
-                  "text": "Parcul de pe malul lacului găzduiește celebrul ceas cu flori realizat din mii de plante, onorând tradiția ceasornicăriei din Geneva.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.140478,
+                        46.226564
+                  ]
             },
             {
                   "name": "Place du Bourg-de-Four",
                   "text": "Cea mai veche piață din Geneva, situată în inima orașului vechi pe un fost forum antic, este mărginită de cafenele și clădiri istorice.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.14922,
+                        46.20024
+                  ]
             },
             {
                   "name": "Zidul Reformatorilor",
                   "text": "Monumentul lung de 100 de metri din Parcul Bastions onorează figurile principale ale Reformei, inclusiv pe Calvin și Farel.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.145556,
+                        46.200278
+                  ]
             },
             {
                   "name": "Muzeul de Artă și Istorie",
                   "text": "Cel mai mare muzeu din oraș expune colecții de la antichitate la arte plastice, inclusiv opere de Konrad Witz și vestigii arheologice.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.151574,
+                        46.199304
+                  ]
             },
             {
                   "name": "Muzeul Patek Philippe",
                   "text": "Un paradis pentru iubitorii de ceasuri, prezentând o colecție de cronometre din secolul al XVI-lea până în prezent și măiestria tehnică.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.1382,
+                        46.1983
+                  ]
             },
             {
                   "name": "Bains des Pâquis",
                   "text": "Baia publică de pe Lacul Geneva este un punct de întâlnire popular pentru înot, saună și admirarea fântânii Jet d'Eau de aproape.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.15489,
+                        46.2104
+                  ]
             }
       ],
       "en": [
@@ -1754,55 +2496,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Jet d'Eau",
                   "text": "Geneva's iconic fountain shoots water 140 meters into the sky. Originally a pressure release valve, it is now a world-famous landmark.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.155904,
+                        46.207388
+                  ]
             },
             {
                   "name": "St. Pierre Cathedral",
                   "text": "Built in the 12th century, this cathedral was the heart of Calvin's Reformation. Its towers offer panoramic views of the city and lake.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.148611,
+                        46.201111
+                  ]
             },
             {
                   "name": "Palais des Nations",
                   "text": "The European headquarters of the United Nations is a monumental complex in Ariana Park, symbolizing Geneva's role in diplomacy.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "English Garden & Flower Clock",
-                  "text": "This lakeside park features the famous Flower Clock, made of thousands of seasonal blooms, celebrating Geneva's watchmaking tradition.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.140478,
+                        46.226564
+                  ]
             },
             {
                   "name": "Place du Bourg-de-Four",
                   "text": "The oldest square in Geneva's Old Town stands on an ancient Roman forum. It is surrounded by historic buildings and charming cafes.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.14922,
+                        46.20024
+                  ]
             },
             {
                   "name": "Reformation Wall",
                   "text": "This 100-meter-long monument in Parc des Bastions honors the key figures of the Reformation, including Calvin, Farel, Beza, and Knox.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.145556,
+                        46.200278
+                  ]
             },
             {
                   "name": "Museum of Art and History",
                   "text": "The city's largest museum houses collections ranging from antiquity to fine arts, including works by Konrad Witz and archaeological finds.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.151574,
+                        46.199304
+                  ]
             },
             {
                   "name": "Patek Philippe Museum",
                   "text": "A watch enthusiast's paradise, showcasing a collection of timepieces from the 16th century to today, documenting horological expertise.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.1382,
+                        46.1983
+                  ]
             },
             {
                   "name": "Bains des Pâquis",
                   "text": "This public bath on Lake Geneva is a popular local spot for swimming, saunas, and enjoying views of the Jet d'Eau fountain.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.15489,
+                        46.2104
+                  ]
             }
       ]
 }
@@ -1814,55 +2582,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Basler Münster",
                   "text": "Die gotische Kathedrale aus rotem Sandstein mit ihren markanten Türmen und bunten Ziegeln ist das Wahrzeichen über dem Rheinknie.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5925,
+                        47.556389
+                  ]
             },
             {
                   "name": "Basler Rathaus",
                   "text": "Der auffällige Sitz der Regierung am Marktplatz beeindruckt durch seine tiefrote Fassade, kunstvolle Wandmalereien und den Innenhof.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.58833,
+                        47.5583
+                  ]
             },
             {
                   "name": "Mittlere Brücke",
                   "text": "Eine der ältesten Rheinbrücken zwischen Bodensee und Nordsee, die das historische Zentrum mit Kleinbasel verbindet und tolle Ausblicke bietet.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.589722,
+                        47.56
+                  ]
             },
             {
                   "name": "Kunstmuseum Basel",
                   "text": "Das älteste öffentlich zugängliche Kunstmuseum der Welt beherbergt Meisterwerke von Holbein bis zur modernen und zeitgenössischen Kunst.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.594169,
+                        47.554169
+                  ]
             },
             {
                   "name": "Tinguely-Brunnen",
                   "text": "Zehn bewegliche, wasserspeiende Maschinenskulpturen von Jean Tinguely tanzen in einem Becken auf dem Platz des ehemaligen Stadttheaters.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5906,
+                        47.5537
+                  ]
             },
             {
                   "name": "Spalentor",
                   "text": "Das prächtigste der drei erhaltenen Stadttore aus dem 14. Jahrhundert war einst Teil der äußeren Stadtmauer und bewacht den Weg nach Frankreich.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.581444,
+                        47.558111
+                  ]
             },
             {
                   "name": "Zoo Basel",
                   "text": "Der 1874 eröffnete 'Zolli' ist der älteste Tierpark der Schweiz und bekannt für seine naturnahen Gehege und Zuchterfolge im Herzen der Stadt.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.578764,
+                        47.547336
+                  ]
             },
             {
                   "name": "Basler Papiermühle",
                   "text": "Das Museum in einer mittelalterlichen Mühle am Kanal widmet sich der Geschichte von Papier, Schrift und Druck mit interaktiven Werkstätten.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.604,
+                        47.555
+                  ]
             },
             {
                   "name": "Marktplatz",
                   "text": "Der zentrale Marktplatz vor dem Rathaus ist werktags Schauplatz eines bunten Marktes mit regionalen Spezialitäten und Blumen.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.587407,
+                        47.558641
+                  ]
             }
       ],
       "hu": [
@@ -1870,55 +2674,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Bázeli székesegyház",
                   "text": "A vörös homokkőből épült gótikus katedrális jellegzetes tornyaival és színes tetőcserepeivel a város legfontosabb jelképe a Rajna felett.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5925,
+                        47.556389
+                  ]
             },
             {
                   "name": "Bázeli városháza",
                   "text": "A Városháza a Marktplatzon található, mélyvörös homlokzatával, gazdag falfestményeivel és belső udvarával a kormányzat díszes székhelye.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.58833,
+                        47.5583
+                  ]
             },
             {
                   "name": "Mittlere Brücke",
                   "text": "A Bodeni-tó és az Északi-tenger közötti egyik legrégebbi Rajna-híd, amely az óvárost köti össze Kleinbasel negyedével és pazar kilátást nyújt.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.589722,
+                        47.56
+                  ]
             },
             {
                   "name": "Kunstmuseum Basel",
                   "text": "A világ legrégebbi nyilvános művészeti gyűjteménye, amely Holbein műveitől a modern és kortárs alkotásokig mutat be remekműveket.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.594169,
+                        47.554169
+                  ]
             },
             {
                   "name": "Tinguely-kút",
                   "text": "Jean Tinguely tíz mozgó, vizet spriccelő gépszobra táncol a medencében az egykori városi színház helyén kialakított téren.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5906,
+                        47.5537
+                  ]
             },
             {
                   "name": "Spalentor",
                   "text": "A három megmaradt 14. századi városkapu legszebbike, amely egykor a külső városfal része volt, és a Franciaország felé vezető utat őrizte.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.581444,
+                        47.558111
+                  ]
             },
             {
                   "name": "Bázeli Állatkert",
                   "text": "Az 1874-ben megnyitott 'Zolli' Svájc legrégebbi állatkertje, amely természetközeli kifutóiról és ritka állatfajok tenyésztéséről híres.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.578764,
+                        47.547336
+                  ]
             },
             {
                   "name": "Bázeli Papírmalom",
                   "text": "A csatorna partján, egy középkori malomban berendezett múzeum a papír, az írás és a nyomtatás történetét mutatja be interaktív módon.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.604,
+                        47.555
+                  ]
             },
             {
                   "name": "Marktplatz",
                   "text": "A városháza előtti központi piactér hétköznaponként színes árusoknak ad otthont, ahol regionális különlegességeket és virágokat kínálnak.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.587407,
+                        47.558641
+                  ]
             }
       ],
       "ro": [
@@ -1926,55 +2766,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Catedrala din Basel",
                   "text": "Catedrala gotică din gresie roșie, cu turnurile sale distinctive și țigle colorate, este simbolul principal al orașului deasupra Rinului.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5925,
+                        47.556389
+                  ]
             },
             {
                   "name": "Primăria din Basel",
                   "text": "Sediul guvernului din Marktplatz impresionează prin fațada sa roșu aprins, picturile murale artistice și curtea interioară bogat decorată.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.58833,
+                        47.5583
+                  ]
             },
             {
                   "name": "Mittlere Brücke",
                   "text": "Unul dintre cele mai vechi poduri peste Rin, făcând legătura între centrul istoric și cartierul Kleinbasel, oferind vederi superbe.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.589722,
+                        47.56
+                  ]
             },
             {
                   "name": "Kunstmuseum Basel",
                   "text": "Cel mai vechi muzeu de artă public din lume găzduiește capodopere de la familia Holbein până la arta modernă și contemporană.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.594169,
+                        47.554169
+                  ]
             },
             {
                   "name": "Fântâna Tinguely",
                   "text": "Zece sculpturi mecanice mobile create de Jean Tinguely „dansează” și pulverizează apă într-un bazin pe locul fostului teatru municipal.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5906,
+                        47.5537
+                  ]
             },
             {
                   "name": "Spalentor",
                   "text": "Cea mai magnifică dintre cele trei porți medievale rămase, construită în secolul al XIV-lea ca parte a zidului exterior de apărare.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.581444,
+                        47.558111
+                  ]
             },
             {
                   "name": "Grădina Zoologică Basel",
                   "text": "Deschisă în 1874, 'Zolli' este cea mai veche grădină zoologică din Elveția, renumită pentru habitatele naturale și succesele în conservare.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.578764,
+                        47.547336
+                  ]
             },
             {
                   "name": "Moara de Hârtie din Basel",
                   "text": "Situat într-o moară medievală pe canal, acest muzeu este dedicat istoriei hârtiei, scrierii și tiparului, având ateliere interactive.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.604,
+                        47.555
+                  ]
             },
             {
                   "name": "Marktplatz",
                   "text": "Piața centrală din fața primăriei găzduiește în timpul săptămânii o piață plină de culoare cu specialități regionale și flori proaspete.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.587407,
+                        47.558641
+                  ]
             }
       ],
       "en": [
@@ -1982,55 +2858,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Basel Minster",
                   "text": "This red sandstone Gothic cathedral, with its twin towers and colorful roof tiles, is the city's main landmark overlooking the Rhine.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5925,
+                        47.556389
+                  ]
             },
             {
                   "name": "Basel City Hall",
                   "text": "The striking seat of government on Marktplatz stands out with its deep red facade, elaborate murals, and beautifully decorated courtyard.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.58833,
+                        47.5583
+                  ]
             },
             {
                   "name": "Mittlere Brücke",
                   "text": "One of the oldest bridges across the Rhine, connecting the historic center with Kleinbasel and offering iconic views of the river.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.589722,
+                        47.56
+                  ]
             },
             {
                   "name": "Kunstmuseum Basel",
                   "text": "The world's oldest public art collection houses masterpieces ranging from the Holbein family to modern and contemporary art icons.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.594169,
+                        47.554169
+                  ]
             },
             {
                   "name": "Tinguely Fountain",
                   "text": "Ten kinetic, water-spouting machine sculptures by Jean Tinguely dance in a pool on the site of the former city theater.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5906,
+                        47.5537
+                  ]
             },
             {
                   "name": "Spalentor",
                   "text": "The most magnificent of the three remaining city gates from the 14th century, once part of the outer wall guarding the road to France.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.581444,
+                        47.558111
+                  ]
             },
             {
                   "name": "Basel Zoo",
                   "text": "Opened in 1874, 'Zolli' is Switzerland's oldest zoo, famous for its naturalistic enclosures and breeding successes in the heart of the city.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.578764,
+                        47.547336
+                  ]
             },
             {
                   "name": "Basel Paper Mill",
                   "text": "Housed in a medieval mill by the canal, this museum is dedicated to the history of paper, writing, and printing with interactive workshops.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.604,
+                        47.555
+                  ]
             },
             {
                   "name": "Marktplatz",
                   "text": "The central market square in front of the City Hall hosts a daily market featuring regional specialties, fresh produce, and flowers.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.587407,
+                        47.558641
+                  ]
             }
       ]
 }
@@ -2044,49 +2956,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Swiss Science Center Technorama",
                   "text": "Das Technorama bietet eine interaktive Lernumgebung mit Hunderten von Experimentierstationen zu Naturphänomenen und Technik für alle Altersgruppen.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.76426,
+                        47.5135
+                  ]
             },
             {
                   "name": "Kunstmuseum Winterthur",
                   "text": "Dieses bedeutende Museum beherbergt eine erstklassige Sammlung moderner Kunst sowie Werke vom 17. Jahrhundert bis in die unmittelbare Gegenwart.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73004,
+                        47.50176
+                  ]
             },
             {
                   "name": "Fotomuseum Winterthur",
                   "text": "Ein weltweit führendes Kompetenzzentrum für Fotografie, das wechselnde Ausstellungen zeitgenössischer und historischer Fotokunst präsentiert.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.739019,
+                        47.496019
+                  ]
             },
             {
                   "name": "Rosengarten",
                   "text": "Ein wunderschöner Park auf einer Anhöhe über der Stadt, der über 300 Rosenarten und einen herrlichen Panoramablick auf Winterthur bietet.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.725391,
+                        47.496176
+                  ]
             },
             {
                   "name": "Altstadt Winterthur",
                   "text": "Die grösste zusammenhängende Fussgängerzone der Schweiz besticht durch ihre historischen Häuser, gemütlichen Cafés und lebendigen Marktplätze.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.723974,
+                        47.500314
+                  ]
             },
             {
                   "name": "Stadthaus",
                   "text": "Das von Gottfried Semper entworfene monumentale Gebäude ist ein architektonisches Juwel und dient heute als Sitz der Stadtverwaltung und Konzertsaal.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73133,
+                        47.5011
+                  ]
             },
             {
                   "name": "Stadtkirche Winterthur",
                   "text": "Die reformierte Kirche mit ihren markanten Zwillingstürmen prägt das Stadtbild und beherbergt wertvolle Wandmalereien aus der Spätgotik.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.72869,
+                        47.49898
+                  ]
             },
             {
                   "name": "Schloss Kyburg",
                   "text": "Das unweit der Stadt gelegene Schloss ist die bedeutendste Höhenburg der Ostschweiz und bietet spannende Einblicke in das ritterliche Leben.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.743381,
+                        47.458383
+                  ]
             }
       ],
       "hu": [
@@ -2094,49 +3038,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Swiss Science Center Technorama",
                   "text": "A Technorama interaktív tudományos központ, ahol kísérleteken keresztül fedezhetjük fel a fizika és technika világát minden korosztálynak.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.76426,
+                        47.5135
+                  ]
             },
             {
                   "name": "Kunstmuseum Winterthur",
                   "text": "Ez a jelentős múzeum kiváló modern művészeti gyűjteménnyel rendelkezik, a 17. századi alkotásoktól kezdve egészen a kortárs művekig.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73004,
+                        47.50176
+                  ]
             },
             {
                   "name": "Fotomuseum Winterthur",
                   "text": "A világ egyik vezető fotográfiai központja, amely kortárs és történelmi fotóművészeti kiállításoknak ad otthont rendszeresen.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.739019,
+                        47.496019
+                  ]
             },
             {
                   "name": "Rosengarten",
                   "text": "A város feletti dombon elhelyezkedő gyönyörű park több mint 300 rózsafajtát és lenyűgöző panorámát kínál Winterthur városára.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.725391,
+                        47.496176
+                  ]
             },
             {
                   "name": "Altstadt Winterthur",
                   "text": "Svájc legnagyobb összefüggő sétálóövezete történelmi épületeivel, hangulatos kávézóival és nyüzsgő piacaival várja a látogatókat.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.723974,
+                        47.500314
+                  ]
             },
             {
                   "name": "Stadthaus",
                   "text": "A Gottfried Semper által tervezett monumentális épület építészeti remekmű, amely ma a városházának és egy koncertteremnek ad otthont.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73133,
+                        47.5011
+                  ]
             },
             {
                   "name": "Stadtkirche Winterthur",
                   "text": "A református templom jellegzetes ikertornyaival meghatározza a városképet, és értékes késő gótikus falfestményeket őriz a falai között.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.72869,
+                        47.49898
+                  ]
             },
             {
                   "name": "Schloss Kyburg",
                   "text": "A város közelében található vár Kelet-Svájc legfontosabb erődítménye, amely izgalmas bepillantást nyújt a középkori lovagi életbe.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.743381,
+                        47.458383
+                  ]
             }
       ],
       "ro": [
@@ -2144,49 +3120,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Swiss Science Center Technorama",
                   "text": "Technorama este un centru științific interactiv unde vizitatorii pot explora fenomenele naturale prin sute de experimente practice fascinante.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.76426,
+                        47.5135
+                  ]
             },
             {
                   "name": "Kunstmuseum Winterthur",
                   "text": "Acest muzeu important găzduiește o colecție de clasă mondială de artă modernă și lucrări din secolul al XVII-lea până în prezent.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73004,
+                        47.50176
+                  ]
             },
             {
                   "name": "Fotomuseum Winterthur",
                   "text": "Un centru de competență de top la nivel mondial pentru fotografie, prezentând expoziții de artă fotografică contemporană și istorică.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.739019,
+                        47.496019
+                  ]
             },
             {
                   "name": "Rosengarten",
                   "text": "Un parc minunat situat pe o colină deasupra orașului, oferind peste 300 de specii de trandafiri și o vedere panoramică superbă.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.725391,
+                        47.496176
+                  ]
             },
             {
                   "name": "Altstadt Winterthur",
                   "text": "Cea mai mare zonă pietonală continuă din Elveția impresionează prin casele sale istorice, cafenelele primitoare și piețele pline de viață.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.723974,
+                        47.500314
+                  ]
             },
             {
                   "name": "Stadthaus",
                   "text": "Clădirea monumentală proiectată de Gottfried Semper este o bijuterie arhitecturală, servind astăzi drept primărie și sală de concerte.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73133,
+                        47.5011
+                  ]
             },
             {
                   "name": "Stadtkirche Winterthur",
                   "text": "Biserica reformată cu turnurile sale gemene distinctive domină profilul orașului și adăpostește picturi murale valoroase din perioada gotică.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.72869,
+                        47.49898
+                  ]
             },
             {
                   "name": "Schloss Kyburg",
                   "text": "Castelul situat aproape de oraș este cea mai importantă fortăreață din estul Elveției, oferind o perspectivă asupra vieții medievale.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.743381,
+                        47.458383
+                  ]
             }
       ],
       "en": [
@@ -2194,49 +3202,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Swiss Science Center Technorama",
                   "text": "Technorama is an interactive science center offering hundreds of hands-on experiments on natural phenomena for visitors of all ages.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.76426,
+                        47.5135
+                  ]
             },
             {
                   "name": "Kunstmuseum Winterthur",
                   "text": "This significant museum houses a first-class collection of modern art as well as works from the 17th century to the present day.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73004,
+                        47.50176
+                  ]
             },
             {
                   "name": "Fotomuseum Winterthur",
                   "text": "A world-leading center for photography, presenting changing exhibitions of contemporary and historical photographic art from around the globe.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.739019,
+                        47.496019
+                  ]
             },
             {
                   "name": "Rosengarten",
                   "text": "A beautiful hilltop park overlooking the city, featuring over 300 varieties of roses and a magnificent panoramic view of Winterthur.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.725391,
+                        47.496176
+                  ]
             },
             {
                   "name": "Altstadt Winterthur",
                   "text": "The largest continuous pedestrian zone in Switzerland charms visitors with its historic buildings, cozy cafes, and vibrant market squares.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.723974,
+                        47.500314
+                  ]
             },
             {
                   "name": "Stadthaus",
                   "text": "Designed by Gottfried Semper, this monumental building is an architectural gem that serves as the city hall and a prestigious concert hall.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73133,
+                        47.5011
+                  ]
             },
             {
                   "name": "Stadtkirche Winterthur",
                   "text": "The Reformed church with its distinctive twin towers dominates the skyline and houses valuable murals dating back to the late Gothic period.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.72869,
+                        47.49898
+                  ]
             },
             {
                   "name": "Schloss Kyburg",
                   "text": "Located near the city, this castle is the most important hilltop fortress in Eastern Switzerland, offering insights into medieval knightly life.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.743381,
+                        47.458383
+                  ]
             }
       ]
 }
@@ -2248,61 +3288,101 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Kapellbrücke",
                   "text": "Die Kapellbrücke ist die älteste überdachte Holzbrücke Europas und das Wahrzeichen von Luzern, bekannt für ihre Giebelgemälde und den Wasserturm.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.307533,
+                        47.051633
+                  ]
             },
             {
                   "name": "Löwendenkmal",
                   "text": "Ein in Fels gehauenes Denkmal für die 1792 in Paris gefallenen Schweizergardisten, von Mark Twain als traurigster Stein der Welt bezeichnet.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310885,
+                        47.058447
+                  ]
             },
             {
                   "name": "Verkehrshaus der Schweiz",
                   "text": "Das meistbesuchte Museum der Schweiz präsentiert eine riesige Sammlung von Lokomotiven, Autos, Schiffen und Flugzeugen sowie ein Planetarium.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.335833,
+                        47.052778
+                  ]
             },
             {
                   "name": "Museggmauer",
                   "text": "Die gut erhaltene mittelalterliche Stadtbefestigung mit ihren neun markanten Türmen bietet einen fantastischen Ausblick über die Stadt und den See.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.304197,
+                        47.054285
+                  ]
             },
             {
                   "name": "Jesuitenkirche",
                   "text": "Die erste grosse Barockkirche der Schweiz beeindruckt durch ihre prächtige Innenausstattung und die weissen Doppeltürme direkt an der Reuss.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.305149,
+                        47.050438
+                  ]
             },
             {
                   "name": "KKL Luzern",
                   "text": "Das Kultur- und Kongresszentrum Luzern ist ein architektonisches Meisterwerk von Jean Nouvel und weltberühmt für seine herausragende Akustik.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.311944,
+                        47.050278
+                  ]
             },
             {
                   "name": "Altstadt Luzern",
                   "text": "Die historische Altstadt am Seeufer verzaubert mit ihren freskenverzierten Häusern, mittelalterlichen Plätzen und charmanten Gassen.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.30681,
+                        47.053695
+                  ]
             },
             {
                   "name": "Gletschergarten",
                   "text": "Ein Naturdenkmal mit Gletschertöpfen aus der Eiszeit, einem Spiegellabyrinth und einer Ausstellung zur regionalen Erdgeschichte.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310417,
+                        47.058889
+                  ]
             },
             {
                   "name": "Spreuerbrücke",
                   "text": "Eine zweite historische Holzbrücke in Luzern, die durch ihre makabren Totentanz-Gemälde aus dem 17. Jahrhundert bekannt ist.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.301736,
+                        47.051911
+                  ]
             },
             {
                   "name": "Hofkirche St. Leodegar",
                   "text": "Die wichtigste Renaissancekirche der Schweiz mit ihren spitzen Zwillingstürmen steht auf den Fundamenten eines Klosters aus dem 8. Jahrhundert.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.314083,
+                        47.055602
+                  ]
             }
       ],
       "hu": [
@@ -2310,61 +3390,101 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Kapellbrücke",
                   "text": "A Kapellbrücke Európa legrégebbi fedett fahídja és Luzern jelképe, amely híres a középkori festményeiről és a kőből épült víztornyáról.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.307533,
+                        47.051633
+                  ]
             },
             {
                   "name": "Löwendenkmal",
                   "text": "A sziklába vájt Oroszlán-emlékmű az 1792-es tuileriák ostromakor elesett svájci gárdistáknak állít emléket, Mark Twain szerint a világ legmeghatóbb köve.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310885,
+                        47.058447
+                  ]
             },
             {
                   "name": "Verkehrshaus der Schweiz",
                   "text": "Svájc leglátogatottabb múzeuma mozdonyok, autók, hajók és repülők hatalmas gyűjteményét mutatja be, emellett planetáriummal is rendelkezik.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.335833,
+                        47.052778
+                  ]
             },
             {
                   "name": "Museggmauer",
                   "text": "A jól megőrzött középkori városfal kilenc bástyájával meghatározza a városképet, és pazar kilátást nyújt a tóra és a környékbeli hegyekre.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.304197,
+                        47.054285
+                  ]
             },
             {
                   "name": "Jesuitenkirche",
                   "text": "Svájc első nagy barokk temploma lenyűgöző belső díszítéssel és fehér ikertornyaival közvetlenül a Reuss-folyó partján áll.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.305149,
+                        47.050438
+                  ]
             },
             {
                   "name": "KKL Luzern",
                   "text": "A Jean Nouvel által tervezett Kulturális és Kongresszusi Központ egy építészeti remekmű, amely világhírű a kiváló akusztikájáról.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.311944,
+                        47.050278
+                  ]
             },
             {
                   "name": "Altstadt Luzern",
                   "text": "A tóparti történelmi óváros freskókkal díszített házaival, középkori tereivel és szűk utcácskáival varázsolja el a látogatókat.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.30681,
+                        47.053695
+                  ]
             },
             {
                   "name": "Gletschergarten",
                   "text": "Természeti emlékhely a jégkorszakból maradt gleccserüstökkel, egy tükörlabirintussal és a régió földtörténetét bemutató kiállítással.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310417,
+                        47.058889
+                  ]
             },
             {
                   "name": "Spreuerbrücke",
                   "text": "Luzern másik történelmi fahídja, amely a 17. századból származó, különleges haláltánc-festményeiről vált híressé.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.301736,
+                        47.051911
+                  ]
             },
             {
                   "name": "Hofkirche St. Leodegar",
                   "text": "Svájc legfontosabb reneszánsz temploma hegyes ikertornyaival egy 8. századi kolostor alapjaira épült a város szívében.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.314083,
+                        47.055602
+                  ]
             }
       ],
       "ro": [
@@ -2372,61 +3492,101 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Kapellbrücke",
                   "text": "Kapellbrücke este cel mai vechi pod de lemn acoperit din Europa și simbolul orașului Lucerna, faimos pentru picturile sale istorice și turnul de apă.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.307533,
+                        47.051633
+                  ]
             },
             {
                   "name": "Löwendenkmal",
                   "text": "Monumentul Leului este cioplit în stâncă în memoria gărzilor elvețiene căzute în 1792 la Paris, fiind descris de Mark Twain ca o piatră plină de tristețe.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310885,
+                        47.058447
+                  ]
             },
             {
                   "name": "Verkehrshaus der Schweiz",
                   "text": "Cel mai vizitat muzeu din Elveția prezintă o colecție vastă de locomotive, mașini, nave și avioane, plus un planetariu modern.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.335833,
+                        47.052778
+                  ]
             },
             {
                   "name": "Museggmauer",
                   "text": "Zidul medieval bine conservat, cu cele nouă turnuri ale sale, oferă o privire panoramică superbă asupra orașului și a lacului celor Patru Cantoane.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.304197,
+                        47.054285
+                  ]
             },
             {
                   "name": "Jesuitenkirche",
                   "text": "Prima biserică barocă mare din Elveția impresionează prin interiorul său fastuos și turnurile albe duble situate chiar pe malul râului Reuss.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.305149,
+                        47.050438
+                  ]
             },
             {
                   "name": "KKL Luzern",
                   "text": "Centrul de Cultură și Congrese din Lucerna este o capodoperă a arhitectului Jean Nouvel, renumit în întreaga lume pentru acustica sa excepțională.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.311944,
+                        47.050278
+                  ]
             },
             {
                   "name": "Altstadt Luzern",
                   "text": "Centrul istoric de pe malul lacului încântă vizitatorii cu casele sale pictate cu fresce, piețele medievale și străduțele înguste pline de farmec.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.30681,
+                        47.053695
+                  ]
             },
             {
                   "name": "Gletschergarten",
                   "text": "Grădina Ghețarilor este un monument natural cu marmite glaciare din epoca de gheață, un labirint de oglinzi și un muzeu de istorie locală.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310417,
+                        47.058889
+                  ]
             },
             {
                   "name": "Spreuerbrücke",
                   "text": "Al doilea pod istoric de lemn din Lucerna, cunoscut pentru picturile sale macabre din secolul al XVII-lea reprezentând Dansul Morții.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.301736,
+                        47.051911
+                  ]
             },
             {
                   "name": "Hofkirche St. Leodegar",
                   "text": "Cea mai importantă biserică renascentistă din Elveția, cu turnurile sale gemene ascuțite, este construită pe locul unei foste mănăstiri din secolul VIII.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.314083,
+                        47.055602
+                  ]
             }
       ],
       "en": [
@@ -2434,61 +3594,101 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Chapel Bridge",
                   "text": "The Chapel Bridge is Europe's oldest covered wooden bridge and Lucerne's landmark, famous for its interior paintings and the stone Water Tower.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.307533,
+                        47.051633
+                  ]
             },
             {
                   "name": "Lion Monument",
                   "text": "A rock-cut sculpture commemorating the Swiss Guards who fell during the French Revolution, described by Mark Twain as the most mournful piece of stone.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310885,
+                        47.058447
+                  ]
             },
             {
                   "name": "Swiss Museum of Transport",
                   "text": "Switzerland's most visited museum features a vast collection of locomotives, cars, ships, and aircraft, alongside a modern planetarium.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.335833,
+                        47.052778
+                  ]
             },
             {
                   "name": "Musegg Wall",
                   "text": "This well-preserved medieval city wall with its nine towers defines the city's skyline and offers fantastic views over the lake and mountains.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.304197,
+                        47.054285
+                  ]
             },
             {
                   "name": "Jesuit Church",
                   "text": "The first large Baroque church in Switzerland impresses with its magnificent interior decoration and white twin towers right by the river Reuss.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.305149,
+                        47.050438
+                  ]
             },
             {
                   "name": "KKL Luzern",
                   "text": "The Culture and Congress Centre Lucerne is an architectural masterpiece by Jean Nouvel, world-renowned for its outstanding concert hall acoustics.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.311944,
+                        47.050278
+                  ]
             },
             {
                   "name": "Lucerne Old Town",
                   "text": "The historic old town on the lakeside charms visitors with its fresco-decorated houses, medieval squares, and narrow, atmospheric alleys.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.30681,
+                        47.053695
+                  ]
             },
             {
                   "name": "Glacier Garden",
                   "text": "A natural monument featuring glacial potholes from the Ice Age, a fun mirror maze, and an exhibition on the region's geological history.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310417,
+                        47.058889
+                  ]
             },
             {
                   "name": "Spreuer Bridge",
                   "text": "Lucerne's second historic wooden bridge, famous for its 17th-century 'Dance of Death' paintings visible inside the roof structure.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.301736,
+                        47.051911
+                  ]
             },
             {
                   "name": "Hof Church St. Leodegar",
                   "text": "The most important Renaissance church in Switzerland, featuring sharp twin towers, built on the foundations of an 8th-century monastery.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.314083,
+                        47.055602
+                  ]
             }
       ]
 }
@@ -2500,55 +3700,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Stiftsbibliothek St. Gallen",
                   "text": "Die prunkvolle barocke Bibliothek gehört zum UNESCO-Weltkulturerbe und beherbergt wertvolle mittelalterliche Handschriften und Inkunabeln.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.3764,
+                        47.4228
+                  ]
             },
             {
                   "name": "Stiftskirche St. Gallen",
                   "text": "Die doppeltürmige Kathedrale ist ein Meisterwerk des Spätbarocks und das Wahrzeichen des Stiftsbezirks mit prachtvollen Deckenmalereien.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.377222,
+                        47.423056
+                  ]
             },
             {
                   "name": "Textilmuseum",
                   "text": "Das Museum präsentiert die glanzvolle Geschichte der St. Galler Stickerei und beeindruckende Textilkunst aus verschiedenen Epochen.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.373591,
+                        47.423386
+                  ]
             },
             {
                   "name": "Drei Weieren",
                   "text": "Die fünf künstlich angelegten Weiher oberhalb der Stadt dienen als Naherholungsgebiet und bieten einen Panoramablick über St. Gallen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.38778,
+                        47.4217
+                  ]
             },
             {
                   "name": "Roter Platz (Stadtlounge)",
                   "text": "Das vom Künstler Pipilotti Rist gestaltete öffentliche Wohnzimmer besticht durch seinen durchgehend roten Bodenbelag und moderne Möbel.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.372468,
+                        47.422148
+                  ]
             },
             {
                   "name": "Kirche St. Laurenzen",
                   "text": "Die neugotische reformierte Kirche prägt mit ihrem markanten farbigen Ziegeldach das Stadtbild und bietet Führungen auf den Turm an.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.37678,
+                        47.4244
+                  ]
             },
             {
                   "name": "Kunstmuseum St. Gallen",
                   "text": "Das Museum beherbergt eine bedeutende Sammlung europäischer Malerei und Skulptur vom Spätmittelalter bis in die Gegenwart.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.38158,
+                        47.4278
+                  ]
             },
             {
                   "name": "Wildpark Peter und Paul",
                   "text": "Der erhöht gelegene Wildpark zeigt einheimische Tierarten wie Steinböcke und Rothirsche in naturnahen Gehegen mit Aussicht auf den Bodensee.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.3875,
+                        47.4486
+                  ]
             },
             {
                   "name": "Botanischer Garten",
                   "text": "Der Garten beheimatet über 8000 Pflanzenarten aus aller Welt in verschiedenen Gewächshäusern und schön angelegten Aussenanlagen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.407238,
+                        47.440609
+                  ]
             }
       ],
       "hu": [
@@ -2556,55 +3792,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "St. Gallen-i kolostor könyvtára",
                   "text": "A lenyűgöző barokk könyvtár az UNESCO Világörökség része, amely értékes középkori kéziratokat és ősnyomtatványokat őriz St. Gallen szívében.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.3764,
+                        47.4228
+                  ]
             },
             {
                   "name": "St. Gallen-i székesegyház",
                   "text": "A kéttornyú székesegyház a késő barokk építészet mesterműve, a kolostornegyed jelképe, belső terét pompás mennyezetfreskók díszítik.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.377222,
+                        47.423056
+                  ]
             },
             {
                   "name": "Textilmúzeum",
                   "text": "A múzeum a St. Gallen-i hímzés fényes történelmét és különböző korszakokból származó lenyűgöző textilművészeti alkotásokat mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.373591,
+                        47.423386
+                  ]
             },
             {
                   "name": "Drei Weieren",
                   "text": "A város feletti öt mesterséges tó népszerű pihenőhely, ahonnan csodálatos panoráma nyílik St. Gallen háztetőire és a környékre.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.38778,
+                        47.4217
+                  ]
             },
             {
                   "name": "Vörös tér (Stadtlounge)",
                   "text": "A Pipilotti Rist művész által tervezett városi nappali egyedülálló a folyamatos piros burkolatával és modern utcai bútoraival.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.372468,
+                        47.422148
+                  ]
             },
             {
                   "name": "Szent Lőrinc-templom",
                   "text": "A neogótikus református templom jellegzetes színes cseréptetőjével meghatározza a városképet; a toronyba túrák keretében fel lehet menni.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.37678,
+                        47.4244
+                  ]
             },
             {
                   "name": "St. Gallen-i Művészeti Múzeum",
                   "text": "A klasszicista épületben található múzeum jelentős európai festészeti és szobrászati gyűjteményt őriz a középkortól napjainkig.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.38158,
+                        47.4278
+                  ]
             },
             {
                   "name": "Peter und Paul vadaspark",
                   "text": "A magasan fekvő vadaspark olyan őshonos állatfajokat mutat be, mint a kőszáli kecskék és gímszarvasok, kilátással a Bodeni-tóra.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.3875,
+                        47.4486
+                  ]
             },
             {
                   "name": "Botanikus kert",
                   "text": "A kert több mint 8000 növényfajnak ad otthont a világ minden tájáról, különböző üvegházakban és szépen kialakított kültéri pihenőkkel.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.407238,
+                        47.440609
+                  ]
             }
       ],
       "ro": [
@@ -2612,55 +3884,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Biblioteca Abației din St. Gallen",
                   "text": "Această bibliotecă barocă splendidă face parte din Patrimoniul UNESCO și găzduiește manuscrise medievale de o valoare inestimabilă.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.3764,
+                        47.4228
+                  ]
             },
             {
                   "name": "Catedrala din St. Gallen",
                   "text": "Catedrala cu două turnuri este o capodoperă a barocului târziu și simbolul districtului abației, având picturi murale spectaculoase.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.377222,
+                        47.423056
+                  ]
             },
             {
                   "name": "Muzeul Textilelor",
                   "text": "Muzeul prezintă istoria glorioasă a broderiilor din St. Gallen și opere de artă textilă impresionante din diverse epoci istorice.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.373591,
+                        47.423386
+                  ]
             },
             {
                   "name": "Drei Weieren",
                   "text": "Cele cinci iazuri artificiale situate deasupra orașului servesc ca zonă de recreere și oferă o vedere panoramică superbă asupra orașului.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.38778,
+                        47.4217
+                  ]
             },
             {
                   "name": "Piața Roșie (Stadtlounge)",
                   "text": "Acest salon urban proiectat de artista Pipilotti Rist impresionează prin pavajul roșu continuu și mobilierul stradal cu design modern.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.372468,
+                        47.422148
+                  ]
             },
             {
                   "name": "Biserica Sfântul Laurențiu",
                   "text": "Biserica reformată neogotică domină peisajul urban cu acoperișul său colorat din țiglă și oferă tururi ghidate în turnul său înalt.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.37678,
+                        47.4244
+                  ]
             },
             {
                   "name": "Muzeul de Artă din St. Gallen",
                   "text": "Muzeul găzduiește o colecție importantă de pictură și sculptură europeană din Evul Mediu târziu până în prezent, într-un cadru clasicist.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.38158,
+                        47.4278
+                  ]
             },
             {
                   "name": "Parcul Natural Peter și Paul",
                   "text": "Parcul natural situat la înălțime prezintă specii locale precum caprele negre și cerbii, oferind totodată o vedere spre Lacul Constanța.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.3875,
+                        47.4486
+                  ]
             },
             {
                   "name": "Grădina Botanică",
                   "text": "Grădina găzduiește peste 8000 de specii de plante din întreaga lume în diverse sere și spații exterioare amenajate frumos.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.407238,
+                        47.440609
+                  ]
             }
       ],
       "en": [
@@ -2668,55 +3976,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Abbey Library of Saint Gall",
                   "text": "This magnificent Baroque library is a UNESCO World Heritage site, housing priceless medieval manuscripts in a stunning ornate hall.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.3764,
+                        47.4228
+                  ]
             },
             {
                   "name": "Abbey Cathedral of St. Gallen",
                   "text": "The twin-towered cathedral is a late Baroque masterpiece and the landmark of the Abbey District, featuring impressive ceiling frescoes.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.377222,
+                        47.423056
+                  ]
             },
             {
                   "name": "Textile Museum",
                   "text": "This museum showcases the illustrious history of St. Gallen embroidery and impressive textile art collections from various periods.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.373591,
+                        47.423386
+                  ]
             },
             {
                   "name": "Drei Weieren",
                   "text": "These five man-made ponds located above the city serve as a popular recreation area, offering panoramic views over the rooftops.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.38778,
+                        47.4217
+                  ]
             },
             {
                   "name": "Red Square (Stadtlounge)",
                   "text": "Designed by artist Pipilotti Rist, this urban lounge stands out with its continuous red floor covering and unique modern furniture.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.372468,
+                        47.422148
+                  ]
             },
             {
                   "name": "St. Lawrence Church",
                   "text": "This Neo-Gothic reformed church marks the cityscape with its distinctive colorful tiled roof and offers guided tours to its tower.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.37678,
+                        47.4244
+                  ]
             },
             {
                   "name": "Art Museum St. Gallen",
                   "text": "The museum houses a significant collection of European painting and sculpture from the late Middle Ages to the present day.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.38158,
+                        47.4278
+                  ]
             },
             {
                   "name": "Peter and Paul Wildlife Park",
                   "text": "This wildlife park features native species like ibex and red deer in natural enclosures, with a scenic view reaching Lake Constance.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.3875,
+                        47.4486
+                  ]
             },
             {
                   "name": "Botanical Garden",
                   "text": "This garden houses over 8,000 plant species from around the world in various greenhouses and beautifully landscaped outdoor areas.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.407238,
+                        47.440609
+                  ]
             }
       ]
 }
@@ -2728,55 +4072,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Parco Ciani",
                   "text": "Der Stadtpark direkt am Ufer des Luganersees gilt mit seinen gepflegten Blumenbeeten und exotischen Pflanzen als einer der schönsten der Schweiz.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.95862,
+                        46.00434
+                  ]
             },
             {
                   "name": "LAC Lugano Arte e Cultura",
                   "text": "Das moderne Kulturzentrum am Seeufer vereint Kunstmuseum und Konzertsaal unter einem beeindruckenden Dach und ist ein architektonisches Highlight.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.948078,
+                        45.999484
+                  ]
             },
             {
                   "name": "Monte San Salvatore",
                   "text": "Der Zuckerhut von Lugano ist per Standseilbahn erreichbar und bietet eine atemberaubende 360-Grad-Aussicht auf den See und die Alpen.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.945961,
+                        45.983128
+                  ]
             },
             {
                   "name": "Cattedrale di San Lorenzo",
                   "text": "Die Kathedrale thront über der Altstadt und besticht durch ihre elegante Fassade im Renaissancestil sowie wertvolle Fresken im Inneren.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.94856,
+                        46.00461
+                  ]
             },
             {
                   "name": "Piazza della Riforma",
                   "text": "Der zentrale Platz der Stadt wird von prachtvollen Palazzi gesäumt und ist mit seinen zahlreichen Cafés das lebendige Herz von Lugano.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.951239,
+                        46.003519
+                  ]
             },
             {
                   "name": "Chiesa di Santa Maria degli Angioli",
                   "text": "In dieser ehemaligen Klosterkirche befindet sich das berühmteste Renaissance-Fresko der Schweiz, geschaffen von Bernardino Luini im Jahr 1529.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.94904,
+                        46.00001
+                  ]
             },
             {
                   "name": "Lungolago di Lugano",
                   "text": "Die Uferpromenade lädt zu weitläufigen Spaziergängen ein und bietet unter schattigen Bäumen immer wieder neue Ausblicke auf das Wasser.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.939435,
+                        45.946408
+                  ]
             },
             {
                   "name": "Villa Ciani",
                   "text": "Das herrschaftliche Gebäude im Parco Ciani beherbergt regelmässig Ausstellungen und ist für seine Architektur sowie die Parklage bekannt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
             },
             {
                   "name": "Monte Brè",
                   "text": "Der Monte Brè gilt als der sonnigste Berg der Schweiz und bietet eine weite Aussicht auf Lugano sowie ein idyllisches Künstlerdorf.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.986389,
+                        46.008611
+                  ]
             }
       ],
       "hu": [
@@ -2784,55 +4164,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Parco Ciani",
                   "text": "A Luganói-tó partján fekvő városi park gondozott virágágyásaival és egzotikus növényeivel Svájc egyik legszebb közparkjának számít.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.95862,
+                        46.00434
+                  ]
             },
             {
                   "name": "LAC Lugano Arte e Cultura",
                   "text": "A tóparti modern kulturális központ egy művészeti múzeumot és egy koncerttermet ötvöz egyetlen építészeti remekműben a város szívében.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.948078,
+                        45.999484
+                  ]
             },
             {
                   "name": "Monte San Salvatore",
                   "text": "Lugano Cukorsüveg-hegye siklóval érhető el, a csúcsról lélegzetelállító 360 fokos panoráma nyílik a tóra és az Alpok vonulataira.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.945961,
+                        45.983128
+                  ]
             },
             {
                   "name": "Szent Lőrinc-székesegyház",
                   "text": "Az óváros felett tornyosuló székesegyház elegáns reneszánsz homlokzatával és értékes belső freskóival Lugano egyik legfontosabb emléke.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.94856,
+                        46.00461
+                  ]
             },
             {
                   "name": "Piazza della Riforma",
                   "text": "A város központi tere pompás palotákkal van körülvéve, és számos kávézójával Lugano lüktető szívének számít a tó közelében.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.951239,
+                        46.003519
+                  ]
             },
             {
                   "name": "Santa Maria degli Angioli templom",
                   "text": "Ebben az egykori kolostortemplomban található Svájc leghíresebb reneszánsz freskója, amelyet Bernardino Luini alkotott 1529-ben.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.94904,
+                        46.00001
+                  ]
             },
             {
                   "name": "Luganói tóparti sétány",
                   "text": "A tóparti sétány hosszas sétákra hívogat, az árnyas fák alól pedig lépten-nyomon újabb és újabb kilátás nyílik a csillogó vízfelületre.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.939435,
+                        45.946408
+                  ]
             },
             {
                   "name": "Villa Ciani",
                   "text": "A Parco Ciani területén található impozáns épület rendszeresen ad otthont kiállításoknak, és klasszikus építészetéről ismert.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
             },
             {
                   "name": "Monte Brè",
                   "text": "A Monte Brè Svájc legnaposabb hegyeként ismert, ahonnan tágas kilátás nyílik Luganóra, a csúcson pedig egy idilli művészfalu várja a látogatókat.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.986389,
+                        46.008611
+                  ]
             }
       ],
       "ro": [
@@ -2840,55 +4256,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Parcul Ciani",
                   "text": "Parcul municipal situat chiar pe malul lacului Lugano este considerat unul dintre cele mai frumoase din Elveția datorită grădinilor sale exotice.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.95862,
+                        46.00434
+                  ]
             },
             {
                   "name": "LAC Lugano Arte e Cultura",
                   "text": "Centrul cultural modern de pe malul lacului reunește un muzeu de artă și o sală de concerte sub un acoperiș arhitectural impresionant.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.948078,
+                        45.999484
+                  ]
             },
             {
                   "name": "Muntele San Salvatore",
                   "text": "Muntele de zahăr din Lugano este accesibil cu funicularul și oferă o vedere panoramică spectaculoasă de 360 de grade asupra lacului și Alpilor.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.945961,
+                        45.983128
+                  ]
             },
             {
                   "name": "Catedrala San Lorenzo",
                   "text": "Catedrala domină orașul vechi și impresionează prin fațada sa elegantă în stil renascentist și frescele valoroase din interiorul său.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.94856,
+                        46.00461
+                  ]
             },
             {
                   "name": "Piazza della Riforma",
                   "text": "Piața centrală a orașului este mărginită de palate splendide și reprezintă inima vibrantă a orașului Lugano, fiind plină de cafenele.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.951239,
+                        46.003519
+                  ]
             },
             {
                   "name": "Biserica Santa Maria degli Angioli",
                   "text": "În această fostă biserică mănăstirească se află cea mai faimoasă frescă renascentistă din Elveția, realizată de Bernardino Luini în 1529.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.94904,
+                        46.00001
+                  ]
             },
             {
                   "name": "Promenada Lacului Lugano",
                   "text": "Promenada de pe malul lacului este ideală pentru plimbări lungi și oferă sub umbra copacilor perspective mereu noi asupra apelor lacului.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.939435,
+                        45.946408
+                  ]
             },
             {
                   "name": "Villa Ciani",
                   "text": "Clădirea impunătoare din Parco Ciani găzduiește periodic expoziții și este renumită pentru arhitectura sa clasică și amplasarea sa.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
             },
             {
                   "name": "Muntele Brè",
                   "text": "Muntele Brè este considerat cel mai însorit munte din Elveția și oferă o vedere largă asupra orașului Lugano, având un sat de artiști în vârf.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.986389,
+                        46.008611
+                  ]
             }
       ],
       "en": [
@@ -2896,55 +4348,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Ciani Park",
                   "text": "This lakeside park is considered one of the most beautiful in Switzerland, featuring meticulously manicured flowerbeds and exotic plants.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.95862,
+                        46.00434
+                  ]
             },
             {
                   "name": "LAC Lugano Arte e Cultura",
                   "text": "This modern cultural center on the lakeshore combines an art museum and a concert hall under one impressive contemporary roof.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.948078,
+                        45.999484
+                  ]
             },
             {
                   "name": "Monte San Salvatore",
                   "text": "Known as Lugano's Sugarloaf Mountain, it is accessible by funicular and offers a breathtaking 360-degree view of the lake and the Alps.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.945961,
+                        45.983128
+                  ]
             },
             {
                   "name": "Catedral de San Lorenzo",
                   "text": "Overlooking the old town, this cathedral impresses with its elegant Renaissance facade and valuable historical frescoes within.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.94856,
+                        46.00461
+                  ]
             },
             {
                   "name": "Piazza della Riforma",
                   "text": "This main square is lined with grand historic palazzi and numerous cafes, serving as the vibrant living heart of Lugano's social life.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.951239,
+                        46.003519
+                  ]
             },
             {
                   "name": "Church of Santa Maria degli Angioli",
                   "text": "This former monastery church houses Switzerland's most famous Renaissance fresco, painted by Bernardino Luini in 1529.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.94904,
+                        46.00001
+                  ]
             },
             {
                   "name": "Lugano Lakeside Promenade",
                   "text": "The lakeside promenade invites for long walks under shady trees, offering ever-changing scenic views over the sparkling waters.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.939435,
+                        45.946408
+                  ]
             },
             {
                   "name": "Villa Ciani",
                   "text": "This grand historic villa within Ciani Park regularly hosts exhibitions and is known for its elegant architecture and lakeside location.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
             },
             {
                   "name": "Monte Brè",
                   "text": "Monte Brè is considered the sunniest mountain in Switzerland, offering sweeping views of Lugano and featuring an idyllic artists village.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.986389,
+                        46.008611
+                  ]
             }
       ]
 }
@@ -2956,49 +4444,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Bieler Altstadt",
                   "text": "Die mittelalterliche Bieler Altstadt besticht durch ihre engen Gassen, historischen Brunnen und das spätgotische Rathaus.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.2461,
+                        47.1411
+                  ]
             },
             {
                   "name": "Cité du Temps",
                   "text": "Dieses moderne Architekturdenkmal beherbergt die Museen der Uhrenmarken Omega und Swatch und zeigt die Geschichte der Zeitmessung.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.260727,
+                        47.144081
+                  ]
             },
             {
                   "name": "Bielersee",
                   "text": "Der See bietet zahlreiche Freizeitmöglichkeiten wie Schifffahrten zur St. Petersinsel und malerische Uferpromenaden zum Verweilen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.174167,
+                        47.085556
+                  ]
             },
             {
                   "name": "NMB Neues Museum Biel",
                   "text": "Das Museum an der Schüss vereint Geschichte, Kunst und Archäologie der Region in einem denkmalgeschützten Gebäudekomplex.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.242137,
+                        47.139064
+                  ]
             },
             {
                   "name": "Centre PasquArt",
                   "text": "Ein renommiertes Kunsthaus für zeitgenössische Werke, das durch seine Verbindung von historischer Architektur und modernem Anbau auffällt.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.23967,
+                        47.1387
+                  ]
             },
             {
                   "name": "Stadtkirche Biel",
                   "text": "Die spätgotische Hallenkirche aus dem 15. Jahrhundert ist das Wahrzeichen der Altstadt und bekannt für ihre Glasmalereien.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.246564,
+                        47.141436
+                  ]
             },
             {
                   "name": "Schüss-Promenade",
                   "text": "Ein weitläufiger Parkweg entlang des Flusses Schüss, der das Stadtzentrum mit grünen Erholungszonen und Spielplätzen verbindet.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.24118,
+                        47.137123
+                  ]
             },
             {
                   "name": "Elfenau Park",
                   "text": "Ein ruhiger Stadtpark im Quartier Elfenau, der mit alten Bäumen und gepflegten Rasenflächen zur Entspannung im Freien einlädt.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.241391,
+                        47.135381
+                  ]
             }
       ],
       "hu": [
@@ -3006,49 +4526,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Biel óvárosa",
                   "text": "A középkori óváros szűk utcáival, történelmi kútjaival és késő gótikus városházájával hangulatos séták helyszíne.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.2461,
+                        47.1411
+                  ]
             },
             {
                   "name": "Cité du Temps",
                   "text": "Ez a modern épület az Omega és a Swatch óramárkák múzeumainak ad otthont, bemutatva az időmérés történetét.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.260727,
+                        47.144081
+                  ]
             },
             {
                   "name": "Bieli-tó",
                   "text": "A tó számos kikapcsolódási lehetőséget kínál, például hajókirándulásokat a Szent Péter-szigetre és festői sétányokat.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.174167,
+                        47.085556
+                  ]
             },
             {
                   "name": "NMB Új Múzeum Biel",
                   "text": "A Schüss partján fekvő múzeum a régió történelmét, művészetét és régészetét mutatja be egy műemléki épületegyüttesben.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.242137,
+                        47.139064
+                  ]
             },
             {
                   "name": "Centre PasquArt",
                   "text": "Neves kortárs művészeti központ, amely a történelmi építészet és a modern bővítés különleges ötvözetéről híres.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.23967,
+                        47.1387
+                  ]
             },
             {
                   "name": "Bieli városi templom",
                   "text": "A 15. századi késő gótikus csarnoktemplom az óváros jelképe, és híres gyönyörű üvegfestményeiről.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.246564,
+                        47.141436
+                  ]
             },
             {
                   "name": "Schüss-sétány",
                   "text": "A Schüss folyó mentén húzódó kiterjedt parkút, amely zöld pihenőzónákkal és játszóterekkel köti össze a városközpontot.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.24118,
+                        47.137123
+                  ]
             },
             {
                   "name": "Elfenau park",
                   "text": "Csendes városi park az Elfenau negyedben, amely öreg fáival és gondozott pázsitjával várja a pihenni vágyókat.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.241391,
+                        47.135381
+                  ]
             }
       ],
       "ro": [
@@ -3056,49 +4608,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Orașul Vechi din Biel",
                   "text": "Centrul vechi medieval impresionează prin străduțele înguste, fântânile istorice și primăria în stil gotic târziu.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.2461,
+                        47.1411
+                  ]
             },
             {
                   "name": "Cité du Temps",
                   "text": "Această clădire modernă găzduiește muzeele mărcilor de ceasuri Omega și Swatch, prezentând istoria cronometrajului.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.260727,
+                        47.144081
+                  ]
             },
             {
                   "name": "Lacul Biel",
                   "text": "Lacul oferă numeroase activități recreative, cum ar fi croaziere către Insula Sfântul Petru și promenade pitorești.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.174167,
+                        47.085556
+                  ]
             },
             {
                   "name": "NMB Noul Muzeu din Biel",
                   "text": "Muzeul de pe râul Schüss reunește istoria, arta și arheologia regiunii într-un complex de clădiri istorice.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.242137,
+                        47.139064
+                  ]
             },
             {
                   "name": "Centre PasquArt",
                   "text": "Un centru de artă contemporană renumit, remarcabil prin fuziunea dintre arhitectura istorică și extensia modernă.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.23967,
+                        47.1387
+                  ]
             },
             {
                   "name": "Biserica orașului Biel",
                   "text": "Biserica în stil gotic târziu din secolul al XV-lea este simbolul centrului vechi, fiind celebră pentru vitraliile sale.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.246564,
+                        47.141436
+                  ]
             },
             {
                   "name": "Promenada Schüss",
                   "text": "Un traseu de parc de-a lungul râului Schüss, care conectează centrul orașului cu zone verzi de relaxare.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.24118,
+                        47.137123
+                  ]
             },
             {
                   "name": "Parcul Elfenau",
                   "text": "Un parc liniștit în cartierul Elfenau, care invită la relaxare în aer liber printre arbori seculari și peluze îngrijite.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.241391,
+                        47.135381
+                  ]
             }
       ],
       "en": [
@@ -3106,49 +4690,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Biel Old Town",
                   "text": "Biel's medieval Old Town features narrow alleys, historic fountains, and a late Gothic town hall in a charming atmosphere.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.2461,
+                        47.1411
+                  ]
             },
             {
                   "name": "Cité du Temps",
                   "text": "This modern architectural landmark houses the museums of watch brands Omega and Swatch, showcasing the history of timekeeping.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.260727,
+                        47.144081
+                  ]
             },
             {
                   "name": "Lake Biel",
                   "text": "The lake offers numerous leisure activities such as boat trips to St. Peter's Island and scenic lakeside promenades.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.174167,
+                        47.085556
+                  ]
             },
             {
                   "name": "NMB New Museum Biel",
                   "text": "Located by the river Schüss, this museum combines the history, art, and archaeology of the region in a historic complex.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.242137,
+                        47.139064
+                  ]
             },
             {
                   "name": "Centre PasquArt",
                   "text": "A renowned contemporary art museum that stands out for its combination of historic architecture and a modern wing.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.23967,
+                        47.1387
+                  ]
             },
             {
                   "name": "Biel City Church",
                   "text": "This late Gothic hall church from the 15th century is the landmark of the Old Town and is famous for its stained glass.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.246564,
+                        47.141436
+                  ]
             },
             {
                   "name": "Schüss Promenade",
                   "text": "A spacious park path along the river Schüss, connecting the city center with green recreational zones and playgrounds.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.24118,
+                        47.137123
+                  ]
             },
             {
                   "name": "Elfenau Park",
                   "text": "A peaceful urban park in the Elfenau district, inviting visitors to relax outdoors among old trees and manicured lawns.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.241391,
+                        47.135381
+                  ]
             }
       ]
 }
@@ -3160,49 +4776,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Thun",
                   "text": "Das markante Schloss aus dem 12. Jahrhundert beherbergt ein Museum und bietet einen Panoramablick auf die Stadt und die Alpen.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.63,
+                        46.76
+                  ]
             },
             {
                   "name": "Schloss Schadau",
                   "text": "Dieses prächtige Schloss im Tudor-Stil liegt direkt am Thunersee und ist von einem weitläufigen englischen Garten umgeben.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.637222,
+                        46.746111
+                  ]
             },
             {
                   "name": "Thunersee",
                   "text": "Der tiefblaue Alpensee ist ein Paradies für Wassersportler und bietet malerische Schifffahrten vor imposanter Bergkulisse.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.716667,
+                        46.683333
+                  ]
             },
             {
                   "name": "Rathausplatz",
                   "text": "Der zentrale Platz der Thuner Altstadt wird vom Rathaus aus dem 16. Jahrhundert dominiert und ist ein belebter Treffpunkt.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.628555,
+                        46.759542
+                  ]
             },
             {
                   "name": "Obere Hauptgasse",
                   "text": "Diese einzigartige Gasse zeichnet sich durch ihre hochgelegten Trottoirs aus, unter denen sich zahlreiche Geschäfte befinden.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.63022,
+                        46.75852
+                  ]
             },
             {
                   "name": "Stadtkirche Thun",
                   "text": "Die weisse Kirche mit ihrem markanten Turm thront über der Stadt und ist für ihre barocke Ausstattung und Aussicht bekannt.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.6313,
+                        46.75881
+                  ]
             },
             {
                   "name": "Kunstmuseum Thun",
                   "text": "Im ehemaligen Grandhotel Thunerhof untergebracht, zeigt das Museum bedeutende Werke der Schweizer Kunst und Gegenwartskunst.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.633953,
+                        46.755936
+                  ]
             },
             {
                   "name": "Mühleplatz",
                   "text": "Ein pulsierender Platz direkt an der Aare, bekannt für seine Cafés, Restaurants und den Blick auf die historischen Holzbrücken.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629451,
+                        46.75861
+                  ]
             }
       ],
       "hu": [
@@ -3210,49 +4858,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Thuni vár",
                   "text": "A 12. századi jellegzetes vár múzeumnak ad otthont, és pazar kilátást nyújt a városra, valamint az Alpok csúcsaira.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.63,
+                        46.76
+                  ]
             },
             {
                   "name": "Schadau-kastély",
                   "text": "Ez a Tudor-stílusú pompás kastély közvetlenül a Thuni-tó partján fekszik, egy kiterjedt angolkerttel körbevéve.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.637222,
+                        46.746111
+                  ]
             },
             {
                   "name": "Thuni-tó",
                   "text": "A mélykék vizű alpesi tó a vízi sportok kedvelőinek paradicsoma, hajóiról csodás kilátás nyílik a környező hegyekre.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.716667,
+                        46.683333
+                  ]
             },
             {
                   "name": "Városháza tér",
                   "text": "A thuni óváros központi tere, melyet a 16. századi városháza ural, és kedvelt találkozóhelye a helyieknek.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.628555,
+                        46.759542
+                  ]
             },
             {
                   "name": "Obere Hauptgasse",
                   "text": "Ez az egyedülálló utca emeletes járdáiról híres, amelyek alatt számos hangulatos üzlet és butik található.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.63022,
+                        46.75852
+                  ]
             },
             {
                   "name": "Thuni városi templom",
                   "text": "A város felett magasodó jellegzetes fehér templom barokk belső teréről és a tornyából nyíló kilátásról nevezetes.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.6313,
+                        46.75881
+                  ]
             },
             {
                   "name": "Thuni Művészeti Múzeum",
                   "text": "Az egykori Thunerhof szállodában székelő múzeum svájci művészek alkotásait és kortárs tárlatokat mutat be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.633953,
+                        46.755936
+                  ]
             },
             {
                   "name": "Mühleplatz",
                   "text": "Az Aare folyó partján fekvő nyüzsgő tér, amely kávézóiról, éttermeiről és a történelmi fahidakra nyíló kilátásról ismert.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629451,
+                        46.75861
+                  ]
             }
       ],
       "ro": [
@@ -3260,49 +4940,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Thun",
                   "text": "Castelul impunător din secolul al XII-lea găzduiește un muzeu și oferă o vedere panoramică asupra orașului și Alpilor.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.63,
+                        46.76
+                  ]
             },
             {
                   "name": "Castelul Schadau",
                   "text": "Acest castel magnific în stil Tudor este situat direct pe malul lacului Thun și este înconjurat de o grădină englezească.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.637222,
+                        46.746111
+                  ]
             },
             {
                   "name": "Lacul Thun",
                   "text": "Lacul alpin de un albastru profund este un paradis pentru sporturile nautice și oferă croaziere pitorești montane.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.716667,
+                        46.683333
+                  ]
             },
             {
                   "name": "Piața Primăriei",
                   "text": "Piața centrală a orașului vechi Thun este dominată de primăria din secolul al XVI-lea, fiind un loc de întâlnire animat.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.628555,
+                        46.759542
+                  ]
             },
             {
                   "name": "Obere Hauptgasse",
                   "text": "Această stradă unică se caracterizează prin trotuarele sale suspendate, sub care se află numeroase magazine.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.63022,
+                        46.75852
+                  ]
             },
             {
                   "name": "Biserica orașului Thun",
                   "text": "Biserica albă cu turnul său distinctiv tronează deasupra orașului, fiind cunoscută pentru interiorul baroc și priveliște.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.6313,
+                        46.75881
+                  ]
             },
             {
                   "name": "Muzeul de Artă din Thun",
                   "text": "Situat în fostul Grand Hotel Thunerhof, muzeul expune lucrări importante de artă elvețiană și contemporană.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.633953,
+                        46.755936
+                  ]
             },
             {
                   "name": "Mühleplatz",
                   "text": "O piață vibrantă direct pe râul Aare, cunoscută pentru cafenelele și restaurantele sale cu vedere spre podurile vechi.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629451,
+                        46.75861
+                  ]
             }
       ],
       "en": [
@@ -3310,49 +5022,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Thun Castle",
                   "text": "The 12th-century castle features four white towers and houses a historical museum with impressive views of the Alps.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.63,
+                        46.76
+                  ]
             },
             {
                   "name": "Schadau Castle",
                   "text": "This magnificent Tudor-style castle is located right on the shores of Lake Thun and is surrounded by an English park.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.637222,
+                        46.746111
+                  ]
             },
             {
                   "name": "Lake Thun",
                   "text": "The deep blue alpine lake is a paradise for water sports and offers scenic boat trips against a stunning mountain backdrop.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.716667,
+                        46.683333
+                  ]
             },
             {
                   "name": "Rathausplatz",
                   "text": "The central square of Thun's Old Town is dominated by the 16th-century town hall and serves as a lively meeting point.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.628555,
+                        46.759542
+                  ]
             },
             {
                   "name": "Obere Hauptgasse",
                   "text": "This unique street is famous for its elevated sidewalks, with numerous shops and boutiques located on the levels below.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.63022,
+                        46.75852
+                  ]
             },
             {
                   "name": "Thun City Church",
                   "text": "Perched above the town, this iconic white church is known for its baroque interior and the views from its tower.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.6313,
+                        46.75881
+                  ]
             },
             {
                   "name": "Thun Art Museum",
                   "text": "Housed in the former Grand Hotel Thunerhof, the museum exhibits significant works of Swiss and contemporary art.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.633953,
+                        46.755936
+                  ]
             },
             {
                   "name": "Mühleplatz",
                   "text": "A vibrant square right on the Aare river, popular for its cafes, restaurants, and views of the historic wooden bridges.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629451,
+                        46.75861
+                  ]
             }
       ]
 }
@@ -3364,43 +5108,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Köniz",
                   "text": "Ehemalige Komturei des Johanniterordens mit Ursprüngen im 11. Jahrhundert. Das Areal dient heute als wichtiges Kulturzentrum der Region.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.41385,
+                        46.92076
+                  ]
             },
             {
                   "name": "Reformierte Kirche St. Peter und Paul",
                   "text": "Die romanische Kirche steht direkt neben dem Schloss. Sie beherbergt wertvolle Fresken und ist ein bedeutendes Baudenkmal der Gemeinde.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.451612,
+                        46.9487
+                  ]
             },
             {
                   "name": "Schweizerisches Schulmuseum",
                   "text": "In einem historischen Schulhaus werden Lehrmittel und Schulstuben aus vergangenen Jahrhunderten dokumentiert und ausgestellt.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.448539,
+                        46.942852
+                  ]
             },
             {
                   "name": "Gurten",
                   "text": "Der 858 Meter hohe Hausberg bietet eine Parkanlage und Fernsicht auf die Alpen. Er ist per Standseilbahn von Wabern aus erreichbar.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.44361,
+                        46.9172
+                  ]
             },
             {
                   "name": "Haberhuus",
                   "text": "Ein markanter Teil des Schlossensembles, der für Ausstellungen und Konzerte genutzt wird. Es ist ein Symbol für das lokale Kulturleben.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gartenbad Köniz",
-                  "text": "Bekanntes Freibad mit markanter Architektur aus den 1970er Jahren. Es bietet weitläufige Liegewiesen und Schwimmbecken im Grünen.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.413926,
+                        46.920996
+                  ]
             },
             {
                   "name": "Könizbergwald",
                   "text": "Großes Waldgebiet im Westen der Gemeinde. Es dient als Naherholungszone mit zahlreichen Wanderwegen und Vita-Parcours-Anlagen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.40135,
+                        46.92776
+                  ]
             }
       ],
       "hu": [
@@ -3408,43 +5170,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Könizi kastély",
                   "text": "A 11. századi alapokon nyugvó épületegyüttes korábban a máltai lovagrend rendháza volt. Ma a régió kulturális központja.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.41385,
+                        46.92076
+                  ]
             },
             {
                   "name": "Szent Péter és Pál templom",
                   "text": "Közvetlenül a kastély mellett található román stílusú templom, amely értékes freskóknak ad otthont és védett műemlék.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.451612,
+                        46.9487
+                  ]
             },
             {
                   "name": "Svájci Iskolamúzeum",
                   "text": "Egy történelmi iskolaépületben mutatja be az elmúlt évszázadok taneszközeit és rekonstruált tantermeit.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.448539,
+                        46.942852
+                  ]
             },
             {
                   "name": "Gurten",
                   "text": "A város 858 méter magas hegye kilátóval és parkkal várja a látogatókat. Wabern felől siklóval közelíthető meg.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.44361,
+                        46.9172
+                  ]
             },
             {
                   "name": "Haberhuus",
                   "text": "A kastélyegyüttes jellegzetes épülete, amely kiállításoknak és koncerteknek ad helyet a helyi kulturális élet részeként.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Könizi strand",
-                  "text": "Az 1970-es évek modern építészetét idéző szabadtéri fürdő, amely tágas pázsittal és medencékkel rendelkezik a zöldben.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.413926,
+                        46.920996
+                  ]
             },
             {
                   "name": "Könizberg-erdő",
                   "text": "A település nyugati részén fekvő nagy kiterjedésű erdő, amely népszerű kirándulóhely számos túraútvonallal.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.40135,
+                        46.92776
+                  ]
             }
       ],
       "ro": [
@@ -3452,43 +5232,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Köniz",
                   "text": "Fostă comandantă a Ordinului Ioaniților cu origini în secolul al XI-lea. Astăzi servește ca centru cultural important în regiune.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.41385,
+                        46.92076
+                  ]
             },
             {
                   "name": "Biserica Sfântul Petru și Pavel",
                   "text": "Biserică romanică situată lângă castel. Adăpostește fresce valoroase și este un monument arhitectural protejat al comunei.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.451612,
+                        46.9487
+                  ]
             },
             {
                   "name": "Muzeul Școlii Elvețiene",
                   "text": "Situat într-o veche clădire școlară, muzeul prezintă materiale didactice și săli de clasă din secolele trecute.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.448539,
+                        46.942852
+                  ]
             },
             {
                   "name": "Gurten",
                   "text": "Muntele local de 858 metri oferă un parc și vedere spre Alpi. Este accesibil cu funicularul din localitatea Wabern.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.44361,
+                        46.9172
+                  ]
             },
             {
                   "name": "Haberhuus",
                   "text": "O clădire distinctivă a complexului castelului, utilizată pentru expoziții și concerte, fiind un simbol al culturii locale.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Ștrandul Köniz",
-                  "text": "Piscină în aer liber cu arhitectură modernă din anii 70. Dispune de zone verzi vaste și bazine pentru înot.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.413926,
+                        46.920996
+                  ]
             },
             {
                   "name": "Pădurea Könizbergwald",
                   "text": "Zonă forestieră extinsă în vestul comunei. Este o destinație populară pentru recreere, cu numeroase trasee de drumeție.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.40135,
+                        46.92776
+                  ]
             }
       ],
       "en": [
@@ -3496,43 +5294,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Köniz Castle",
                   "text": "A former commandery of the Order of St. John with 11th-century origins. It now serves as a central cultural hub for the region.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.41385,
+                        46.92076
+                  ]
             },
             {
                   "name": "St. Peter and Paul Church",
                   "text": "This Romanesque church stands adjacent to the castle. It contains valuable frescoes and is a protected historical monument.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.451612,
+                        46.9487
+                  ]
             },
             {
                   "name": "Swiss School Museum",
                   "text": "Located in a historical school building, it documents teaching materials and schoolrooms from past centuries.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.448539,
+                        46.942852
+                  ]
             },
             {
                   "name": "Gurten",
                   "text": "The local mountain reaches 858 meters, offering a park and Alpine views. It is accessible by funicular from Wabern.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.44361,
+                        46.9172
+                  ]
             },
             {
                   "name": "Haberhuus",
                   "text": "A prominent part of the castle complex used for exhibitions and concerts, representing the local cultural scene.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Köniz Outdoor Pool",
-                  "text": "Famous for its 1970s modern architecture, this public pool features large lawns and swimming facilities in a green setting.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.413926,
+                        46.920996
+                  ]
             },
             {
                   "name": "Könizberg Forest",
                   "text": "An extensive forest area in the west of the municipality. It offers recreational space with various hiking trails.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.40135,
+                        46.92776
+                  ]
             }
       ]
 }
@@ -3544,61 +5360,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Kathedrale St. Nikolaus",
                   "text": "Gotisches Meisterwerk mit 74 Meter hohem Turm. Bekannt für die Jugendstil-Glasmalereien von Jozef Mehoffer.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.163185,
+                        46.806174
+                  ]
             },
             {
                   "name": "Pont de Berne",
                   "text": "Die letzte gedeckte Holzbrücke der Stadt stammt aus dem Jahr 1580 und überspannt die Saane in der Unterstadt.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168994,
+                        46.804275
+                  ]
             },
             {
                   "name": "Freiburger Standseilbahn",
                   "text": "Technische Rarität von 1899, die mit dem Abwasser der Oberstadt betrieben wird. Sie verbindet die Unter- mit der Oberstadt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.158282,
+                        46.803595
+                  ]
             },
             {
                   "name": "Musée d'Art et d'Histoire",
                   "text": "Das Museum im Palais Ratzé beherbergt bedeutende Sammlungen zur regionalen Kunst von der Gotik bis zur Moderne.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.15953,
+                        46.8078
+                  ]
             },
             {
                   "name": "Espace Jean Tinguely - Niki de Saint Phalle",
                   "text": "In einem ehemaligen Tramdepot werden die Werke des Eisenplastikers Tinguely und seiner Frau Saint Phalle ausgestellt.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.15953,
+                        46.8078
+                  ]
             },
             {
                   "name": "Hôtel de Ville",
                   "text": "Das Rathaus wurde zwischen 1501 und 1522 erbaut. Es besitzt einen markanten Glockenturm und eine doppelte Außentreppe.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.107618,
+                        46.822528
+                  ]
             },
             {
                   "name": "Abbaye de la Maigrauge",
                   "text": "Die 1255 gegründete Zisterzienserinnenabtei liegt in einer Flussschleife der Saane und ist ein Ort der Stille.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Lorette-Kapelle",
-                  "text": "Barockkapelle auf einem Hügel, die den klassischen Panoramablick auf die Altstadt und die Kathedrale bietet.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.158056,
+                        46.799722
+                  ]
             },
             {
                   "name": "Tour des Chats",
                   "text": "Ein mittelalterlicher Befestigungsturm aus dem 14. Jahrhundert, der Teil der gut erhaltenen Stadtmauer ist.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168857,
+                        46.805586
+                  ]
             },
             {
                   "name": "Pont du Milieu",
                   "text": "Steinbogenbrücke aus dem Jahr 1720, die zwei historische Viertel der Unterstadt miteinander verbindet.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.167365,
+                        46.802607
+                  ]
             }
       ],
       "hu": [
@@ -3606,61 +5452,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Szent Miklós-székesegyház",
                   "text": "Gótikus remekmű 74 méter magas toronnyal. Jozef Mehoffer szecessziós üvegablakai világhírűek.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.163185,
+                        46.806174
+                  ]
             },
             {
                   "name": "Bern-híd",
                   "text": "A város utolsó fedett fashídja 1580-ban épült, és az alsóvárosban ível át a Sarine folyó felett.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168994,
+                        46.804275
+                  ]
             },
             {
                   "name": "Fribourgi sikló",
                   "text": "1899-ben épült technikai különlegesség, amely a felsőváros szennyvizének súlyát használja a meghajtáshoz.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.158282,
+                        46.803595
+                  ]
             },
             {
                   "name": "Művészeti és Történeti Múzeum",
                   "text": "A Ratzé-palotában található gyűjtemény a régió művészetét mutatja be a gótikától a modern korig.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.15953,
+                        46.8078
+                  ]
             },
             {
                   "name": "Espace Jean Tinguely - Niki de Saint Phalle",
                   "text": "Egy egykori villamosremízben láthatók Jean Tinguely vasszobrai és felesége, Niki de Saint Phalle alkotásai.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.15953,
+                        46.8078
+                  ]
             },
             {
                   "name": "Városháza",
                   "text": "1501 és 1522 között épült épület jellegzetes óratoronnyal és impozáns kettős külső lépcsővel.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.107618,
+                        46.822528
+                  ]
             },
             {
                   "name": "Maigrauge-apátság",
                   "text": "Az 1255-ben alapított ciszterci kolostor a Sarine folyó kanyarulatában fekszik, a nyugalom szigete.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Lorette-kápolna",
-                  "text": "Barokk kápolna a dombtetőn, ahonnan a legszebb panoráma nyílik az óvárosra és a székesegyházra.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.158056,
+                        46.799722
+                  ]
             },
             {
                   "name": "Macskák tornya",
                   "text": "14. századi erődítménytorony, amely a városfal jól megőrzött középkori szakaszához tartozik.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168857,
+                        46.805586
+                  ]
             },
             {
                   "name": "Középső-híd",
                   "text": "1720-ból származó kőboltozatos híd, amely az alsóváros két történelmi negyedét köti össze.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.167365,
+                        46.802607
+                  ]
             }
       ],
       "ro": [
@@ -3668,61 +5544,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Catedrala Sfântul Nicolae",
                   "text": "Capodoperă gotică cu un turn de 74 de metri. Este celebră pentru vitraliile Art Nouveau realizate de Jozef Mehoffer.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.163185,
+                        46.806174
+                  ]
             },
             {
                   "name": "Podul Bernei",
                   "text": "Ultimul pod de lemn acoperit din oraș datează din 1580 și traversează râul Sarine în orașul de jos.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168994,
+                        46.804275
+                  ]
             },
             {
                   "name": "Funicularul din Fribourg",
                   "text": "Raritate tehnică din 1899, alimentată de apele uzate ale orașului de sus. Conectează cartierele de jos cu centrul.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.158282,
+                        46.803595
+                  ]
             },
             {
                   "name": "Muzeul de Artă și Istorie",
                   "text": "Găzduit în palatul Ratzé, muzeul deține colecții importante de artă regională, din perioada gotică până în prezent.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.15953,
+                        46.8078
+                  ]
             },
             {
                   "name": "Espace Jean Tinguely - Niki de Saint Phalle",
                   "text": "Într-un fost depou de tramvaie sunt expuse sculpturile din fier ale lui Tinguely și lucrările soției sale.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.15953,
+                        46.8078
+                  ]
             },
             {
                   "name": "Hôtel de Ville",
                   "text": "Primăria a fost construită între 1501 și 1522. Are un turn cu ceas distinctiv și o scară exterioară dublă.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.107618,
+                        46.822528
+                  ]
             },
             {
                   "name": "Abbația Maigrauge",
                   "text": "Mănăstire cisterciană fondată în 1255, situată într-o buclă a râului Sarine, fiind un loc de reculegere.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Capela Lorette",
-                  "text": "Capelă barocă pe un deal, oferind panorama clasică asupra centrului istoric și a catedralei.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.158056,
+                        46.799722
+                  ]
             },
             {
                   "name": "Turnul Pisicilor",
                   "text": "Turn de fortificație medieval din secolul al XIV-lea, parte a zidurilor de apărare bine conservate ale orașului.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168857,
+                        46.805586
+                  ]
             },
             {
                   "name": "Podul de Mijloc",
                   "text": "Pod din piatră construit în 1720, care face legătura între două cartiere istorice din orașul de jos.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.167365,
+                        46.802607
+                  ]
             }
       ],
       "en": [
@@ -3730,61 +5636,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "St. Nicholas Cathedral",
                   "text": "A Gothic masterpiece with a 74-meter tower. Famous for its Art Nouveau stained glass windows by Jozef Mehoffer.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.163185,
+                        46.806174
+                  ]
             },
             {
                   "name": "Bern Bridge",
                   "text": "The city's last covered wooden bridge dates back to 1580 and spans the Sarine River in the lower town.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168994,
+                        46.804275
+                  ]
             },
             {
                   "name": "Fribourg Funicular",
                   "text": "A technical rarity from 1899 powered by wastewater from the upper town. It links the lower town to the center.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.158282,
+                        46.803595
+                  ]
             },
             {
                   "name": "Museum of Art and History",
                   "text": "Located in the Ratzé palace, it houses significant collections of regional art from the Gothic era to modern times.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.15953,
+                        46.8078
+                  ]
             },
             {
                   "name": "Espace Jean Tinguely - Niki de Saint Phalle",
                   "text": "Housed in a former tram depot, this gallery displays iron sculptures by Tinguely and works by his wife.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.15953,
+                        46.8078
+                  ]
             },
             {
                   "name": "Town Hall",
                   "text": "Built between 1501 and 1522, it features a prominent clock tower and an impressive double external staircase.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.107618,
+                        46.822528
+                  ]
             },
             {
                   "name": "Maigrauge Abbey",
                   "text": "A Cistercian monastery founded in 1255, located in a loop of the Sarine River, offering a peaceful atmosphere.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Lorette Chapel",
-                  "text": "A Baroque chapel on a hill providing the iconic panoramic view of the old town and the cathedral.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.158056,
+                        46.799722
+                  ]
             },
             {
                   "name": "Cats' Tower",
                   "text": "A 14th-century medieval fortification tower that forms part of the city's well-preserved defensive walls.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.168857,
+                        46.805586
+                  ]
             },
             {
                   "name": "Middle Bridge",
                   "text": "A stone arch bridge from 1720 that connects two historical districts in the lower part of the city.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.167365,
+                        46.802607
+                  ]
             }
       ]
 }
@@ -3796,49 +5732,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Munot",
                   "text": "Die markante Festung aus dem 16. Jahrhundert ist das Wahrzeichen von Schaffhausen und bietet eine tolle Aussicht auf den Rhein.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.639722,
+                        47.696944
+                  ]
             },
             {
                   "name": "Rheinfall",
                   "text": "Der größte Wasserfall Europas liegt direkt bei der Stadt und beeindruckt durch seine gewaltigen Wassermassen und Felsformationen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.615833,
+                        47.677222
+                  ]
             },
             {
                   "name": "Museum zu Allerheiligen",
                   "text": "Dieses bedeutende Museum befindet sich in einem ehemaligen Benediktinerkloster und umfasst Archäologie, Kunst und Naturgeschichte.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.635889,
+                        47.694833
+                  ]
             },
             {
                   "name": "Haus zum Ritter",
                   "text": "Eines der bedeutendsten Renaissance-Bürgerhäuser der Stadt, bekannt für seine prächtigen Fassadenmalereien von Tobias Stimmer.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.63489,
+                        47.6962
+                  ]
             },
             {
                   "name": "Fronwagplatz",
                   "text": "Der zentrale Marktplatz der Altstadt beherbergt zwei historische Brunnen und ist ein beliebter Treffpunkt für Einheimische und Gäste.",
                   "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Johann Kirche",
-                  "text": "Die gotische Stadtkirche aus dem 11. Jahrhundert ist bekannt für ihre hervorragende Akustik und die beeindruckende Walcker-Orgel.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.633564,
+                        47.697258
+                  ]
             },
             {
                   "name": "Schwabentor",
                   "text": "Ein erhaltenes Stadttor aus dem 14. Jahrhundert, das den nördlichen Zugang zur Altstadt markiert und einen markanten Turm besitzt.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.635404,
+                        47.699726
+                  ]
             },
             {
                   "name": "IWC Museum",
                   "text": "Das Museum der International Watch Company zeigt über 230 Exponate aus der Geschichte der weltberühmten Schaffhauser Uhrenmanufaktur.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.636788,
+                        47.694991
+                  ]
             }
       ],
       "hu": [
@@ -3846,49 +5804,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Munot",
                   "text": "A 16. századi köralapú erőd Schaffhausen jelképe, tetőteraszáról panorámás kilátás nyílik az óvárosra és a kanyargó Rajnára.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.639722,
+                        47.696944
+                  ]
             },
             {
                   "name": "Rajna-vízesés",
                   "text": "Európa legnagyobb vízesése a város közvetlen szomszédságában található, lenyűgöző víztömeggel és középen egy látogatható sziklával.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.615833,
+                        47.677222
+                  ]
             },
             {
                   "name": "Allerheiligen Múzeum",
                   "text": "Az egykori bencés kolostor épületében elhelyezett múzeum régészeti leleteket, művészeti kincseket és természetrajzi gyűjteményt mutat be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.635889,
+                        47.694833
+                  ]
             },
             {
                   "name": "Haus zum Ritter",
                   "text": "A város legszebb reneszánsz polgárháza, amelynek homlokzatát Tobias Stimmer látványos freskói díszítik a 16. századból.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.63489,
+                        47.6962
+                  ]
             },
             {
                   "name": "Fronwagplatz",
                   "text": "Az óváros központi tere, ahol történelmi kutak és elegáns üzletek találhatók, ideális kiindulópont a város felfedezéséhez.",
                   "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent János templom",
-                  "text": "A 11. századi alapokon nyugvó gótikus templom kiváló akusztikájáról és a híres Walcker-orgonáról ismert a zenerajongók körében.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.633564,
+                        47.697258
+                  ]
             },
             {
                   "name": "Schwabentor",
                   "text": "Egy jól megőrzött 14. századi városkapu, amely az óváros északi bejáratát őrzi, tetején jellegzetes óratoronnyal.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.635404,
+                        47.699726
+                  ]
             },
             {
                   "name": "IWC Múzeum",
                   "text": "A nemzetközileg elismert óragyár múzeuma több mint 230 kiállított tárgyon keresztül mutatja be a schaffhauseni óragyártás történetét.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.636788,
+                        47.694991
+                  ]
             }
       ],
       "ro": [
@@ -3896,49 +5876,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Munot",
                   "text": "Această fortăreață circulară din secolul al XVI-lea este simbolul orașului, oferind o vedere panoramică superbă asupra Rinului.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.639722,
+                        47.696944
+                  ]
             },
             {
                   "name": "Cascada Rinului",
                   "text": "Cea mai mare cascadă din Europa se află lângă oraș, impresionând vizitatorii prin debitul său uriaș și peisajul natural spectaculos.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.615833,
+                        47.677222
+                  ]
             },
             {
                   "name": "Muzeul Allerheiligen",
                   "text": "Găzduit într-o fostă mănăstire benedictină, muzeul prezintă colecții vaste de arheologie, artă și istorie naturală a regiunii.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.635889,
+                        47.694833
+                  ]
             },
             {
                   "name": "Haus zum Ritter",
                   "text": "O casă burgheză din perioada Renașterii, faimoasă pentru frescele sale exterioare elaborate pictate de artistul Tobias Stimmer.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.63489,
+                        47.6962
+                  ]
             },
             {
                   "name": "Fronwagplatz",
                   "text": "Piața centrală a orașului vechi, unde se află două fântâni istorice și numeroase cafenele, fiind inima socială a comunității.",
                   "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica St. Johann",
-                  "text": "Biserică gotică datând din secolul al XI-lea, renumită pentru acustica sa excepțională și orga Walcker de dimensiuni impresionante.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.633564,
+                        47.697258
+                  ]
             },
             {
                   "name": "Schwabentor",
                   "text": "O poartă medievală a orașului din secolul al XIV-lea, care a supraviețuit timpului și marchează intrarea nordică în centrul vechi.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.635404,
+                        47.699726
+                  ]
             },
             {
                   "name": "Muzeul IWC",
                   "text": "Muzeul celebrei mărci de ceasuri International Watch Company expune piese istorice rare și mecanisme de precizie elvețiană.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.636788,
+                        47.694991
+                  ]
             }
       ],
       "en": [
@@ -3946,49 +5948,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Munot",
                   "text": "This 16th-century circular fortress is the iconic landmark of Schaffhausen, offering panoramic views of the Rhine and old town.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.639722,
+                        47.696944
+                  ]
             },
             {
                   "name": "Rhine Falls",
                   "text": "Europe's largest waterfall is located just outside the city, impressing visitors with its massive water volume and scenic rock tours.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.615833,
+                        47.677222
+                  ]
             },
             {
                   "name": "Allerheiligen Museum",
                   "text": "Located in a former Benedictine monastery, this museum features extensive collections of archaeology, art, and natural history.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.635889,
+                        47.694833
+                  ]
             },
             {
                   "name": "Haus zum Ritter",
                   "text": "A premier Renaissance townhouse famous for its magnificent facade frescoes painted by Tobias Stimmer in the 1560s.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.63489,
+                        47.6962
+                  ]
             },
             {
                   "name": "Fronwagplatz",
                   "text": "The central square of the old town, home to two historic fountains and acting as a vibrant hub for shopping and dining.",
                   "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. John's Church",
-                  "text": "A Gothic city church from the 11th century, known for its superb acoustics and its grand historic Walcker organ.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.633564,
+                        47.697258
+                  ]
             },
             {
                   "name": "Schwabentor",
                   "text": "A well-preserved 14th-century city gate that marks the northern entrance to the medieval city center with its tall tower.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.635404,
+                        47.699726
+                  ]
             },
             {
                   "name": "IWC Museum",
                   "text": "The museum of the International Watch Company showcases over 230 items from the history of this world-renowned watchmaker.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.636788,
+                        47.694991
+                  ]
             }
       ]
 }
@@ -4000,49 +6024,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Kathedrale St. Mariä Himmelfahrt",
                   "text": "Die 800 Jahre alte Kathedrale thront über der Stadt und vereint romanische, gotische und barocke Stilelemente.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.535575,
+                        46.847665
+                  ]
             },
             {
                   "name": "Bündner Kunstmuseum",
                   "text": "Ein bedeutendes Museum für regionale und internationale Kunst, untergebracht in der historischen Villa Planta und einem modernen Erweiterungsbau.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.53236,
+                        46.851332
+                  ]
             },
             {
                   "name": "Rätisches Museum",
                   "text": "Im barocken Haus Buol untergebracht, zeigt dieses Museum die Geschichte und Kultur des Kantons Graubünden von der Steinzeit bis heute.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Arkasplatz",
-                  "text": "Ein malerischer Platz in der Altstadt, umgeben von historischen Häusern und bekannt für seine entspannte Atmosphäre.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.533611,
+                        46.848056
+                  ]
             },
             {
                   "name": "St. Martinskirche",
                   "text": "Die spätgotische Kirche ist für ihre drei Glasfenster von Augusto Giacometti bekannt, die biblische Geschichten farbenprächtig darstellen.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.532761,
+                        46.848135
+                  ]
             },
             {
                   "name": "Brambrüesch",
                   "text": "Der Hausberg von Chur ist direkt mit einer Seilbahn erreichbar und bietet Wanderwege sowie einen Panoramablick auf das Churer Rheintal.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.5271,
+                        46.8351
+                  ]
             },
             {
                   "name": "Obertor",
                   "text": "Das markante weiße Stadttor ist das südliche Ende der Churer Altstadt und eines der bekanntesten Fotomotive der Stadt.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.529353,
+                        46.848644
+                  ]
             },
             {
                   "name": "Bischöflicher Hof",
                   "text": "Das Ensemble aus Kathedrale und Bischofsschloss bildet den Kern der ältesten Stadt der Schweiz und wirkt wie eine Stadt in der Stadt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.53515,
+                        46.848213
+                  ]
             }
       ],
       "hu": [
@@ -4050,49 +6096,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Szűz Mária Mennybemenetele székesegyház",
                   "text": "A 800 éves katedrális a város felett magasodik, román, gótikus és barokk stíluselemek különleges ötvözetét mutatja be.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.535575,
+                        46.847665
+                  ]
             },
             {
                   "name": "Graubündeni Művészeti Múzeum",
                   "text": "A történelmi Villa Plantában működő múzeum a régió és a nemzetközi művészet jelentős alkotásait gyűjti és állítja ki.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.53236,
+                        46.851332
+                  ]
             },
             {
                   "name": "Rhaeti Múzeum",
                   "text": "A barokk stílusú Buol-házban található múzeum Graubünden kanton történetét mutatja be a kőkorszaktól napjainkig.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Arkasplatz",
-                  "text": "Az óváros egyik leghangulatosabb tere, amelyet szépen felújított történelmi épületek vesznek körül, ideális pihenőhely.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.533611,
+                        46.848056
+                  ]
             },
             {
                   "name": "Szent Márton templom",
                   "text": "A késő gótikus templom legfőbb látnivalója a három színes üvegablak, melyeket Augusto Giacometti készített a 20. században.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.532761,
+                        46.848135
+                  ]
             },
             {
                   "name": "Brambrüesch",
                   "text": "Chur házi hegye, amely felvonóval érhető el a központból, télen sípályákkal, nyáron túraútvonalakkal és pazar kilátással várja a látogatókat.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.5271,
+                        46.8351
+                  ]
             },
             {
                   "name": "Obertor",
                   "text": "A látványos fehér városkapu az óváros déli határán áll, Chur egyik legismertebb és legtöbbet fényképezett történelmi emléke.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.529353,
+                        46.848644
+                  ]
             },
             {
                   "name": "Püspöki udvar",
                   "text": "A katedrálisból és a püspöki palotából álló épületegyüttes Svájc legrégebbi városának vallási és történelmi központja.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.53515,
+                        46.848213
+                  ]
             }
       ],
       "ro": [
@@ -4100,49 +6168,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Catedrala Sf. Maria",
                   "text": "Această catedrală veche de 800 de ani domină orașul de pe o colină, îmbinând stilurile romanic, gotic și baroc.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.535575,
+                        46.847665
+                  ]
             },
             {
                   "name": "Muzeul de Artă Graubünden",
                   "text": "Găzduit în Villa Planta și o extensie modernă, muzeul expune opere importante ale artiștilor elvețieni și internaționali.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.53236,
+                        46.851332
+                  ]
             },
             {
                   "name": "Muzeul Rhaetian",
                   "text": "Situat în casa barocă Buol, muzeul relatează istoria kantonului Graubünden din preistorie până în epoca modernă.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Piața Arkas",
-                  "text": "O piață pitorească în inima centrului vechi, înconjurată de case medievale restaurate, oferind o atmosferă liniștită.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.533611,
+                        46.848056
+                  ]
             },
             {
                   "name": "Biserica Sf. Martin",
                   "text": "Biserică gotică târzie, celebră pentru ferestrele sale cu vitralii create de Augusto Giacometti, care ilustrează scene biblice.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.532761,
+                        46.848135
+                  ]
             },
             {
                   "name": "Brambrüesch",
                   "text": "Muntele local al orașului Chur, accesibil cu telecabina, este un loc ideal pentru drumeții cu vedere spre valea Rinului.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.5271,
+                        46.8351
+                  ]
             },
             {
                   "name": "Obertor",
                   "text": "Această poartă albă impunătoare marchează intrarea sudică în orașul vechi și este unul dintre reperele vizuale ale orașului.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.529353,
+                        46.848644
+                  ]
             },
             {
                   "name": "Curtea Episcopală",
                   "text": "Un ansamblu istoric ce cuprinde palatul episcopal și catedrala, reprezentând centrul administrativ și spiritual al celui mai vechi oraș elvețian.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.53515,
+                        46.848213
+                  ]
             }
       ],
       "en": [
@@ -4150,49 +6240,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Cathedral of St. Mary of the Assumption",
                   "text": "This 800-year-old cathedral overlooks the city, featuring a unique blend of Romanesque, Gothic, and Baroque architecture.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.535575,
+                        46.847665
+                  ]
             },
             {
                   "name": "Bündner Art Museum",
                   "text": "An important gallery housed in the historic Villa Planta and a modern annex, showcasing regional and international fine arts.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.53236,
+                        46.851332
+                  ]
             },
             {
                   "name": "Rhaetian Museum",
                   "text": "Located in the Baroque Haus Buol, this museum presents the cultural history of Graubünden from the Stone Age to today.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Arkasplatz",
-                  "text": "A picturesque square in the old town, surrounded by historic buildings and offering a tranquil spot for visitors.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.533611,
+                        46.848056
+                  ]
             },
             {
                   "name": "St. Martin's Church",
                   "text": "A late-Gothic church famous for its three stained-glass windows by Augusto Giacometti, depicting biblical scenes in vivid colors.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.532761,
+                        46.848135
+                  ]
             },
             {
                   "name": "Brambrüesch",
                   "text": "Chur's local mountain, reachable by cable car, offers scenic hiking trails and panoramic views of the Rhine Valley.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.5271,
+                        46.8351
+                  ]
             },
             {
                   "name": "Obertor",
                   "text": "A striking white city gate that stands at the southern end of the old town, being one of the city's most photographed landmarks.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.529353,
+                        46.848644
+                  ]
             },
             {
                   "name": "Bishop's Court",
                   "text": "The complex consisting of the cathedral and the bishop's palace forms the core of Switzerland's oldest city.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.53515,
+                        46.848213
+                  ]
             }
       ]
 }
@@ -4204,37 +6316,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Le Lignon",
                   "text": "Dieser gigantische Wohnkomplex aus den 1960er Jahren gilt mit über einem Kilometer Länge als eines der längsten Gebäude der Welt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.097778,
+                        46.203056
+                  ]
             },
             {
                   "name": "Parc de l'Etang",
                   "text": "Ein weitläufiger Stadtpark, der Erholung im Grünen bietet und Teil eines modernen ökologischen Stadtentwicklungsprojekts in Vernier ist.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Eglise Saint-Maurice",
-                  "text": "Die historische Dorfkirche von Vernier besticht durch ihre schlichte Architektur und ist ein zentraler Ort im alten Dorfkern.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bords du Rhône",
-                  "text": "Die Uferwege entlang der Rhone bieten malerische Spazierwege und Naturschutzgebiete direkt an der Grenze der Stadt Vernier.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.105492,
+                        46.218271
+                  ]
             },
             {
                   "name": "Passerelle de Chèvres",
                   "text": "Diese Brücke über die Rhone verbindet Vernier mit der Umgebung und bietet einen schönen Ausblick auf den Fluss und die Natur.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.0772,
+                        46.2025
+                  ]
             },
             {
                   "name": "Balexert",
                   "text": "Das größte Einkaufszentrum der Region Genf bietet zahlreiche Geschäfte, Kinos und Gastronomieangebote für Besucher aus der ganzen Stadt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.1105,
+                        46.2184
+                  ]
             }
       ],
       "hu": [
@@ -4242,37 +6358,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Le Lignon",
                   "text": "Ez az 1960-as években épült gigantikus lakókomplexum több mint egy kilométeres hosszával a világ egyik leghosszabb épületének számít.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.097778,
+                        46.203056
+                  ]
             },
             {
                   "name": "Parc de l'Etang",
                   "text": "Egy tágas városi park, amely zöld kikapcsolódást kínál, és része Vernier egyik modern, ökológiai városfejlesztési projektjének.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Eglise Saint-Maurice",
-                  "text": "Vernier történelmi falusi temploma egyszerű építészetével tűnik ki, és a régi városmag központi helyszíne.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bords du Rhône",
-                  "text": "A Rhone-folyó menti sétányok festői gyalogutakat és természetvédelmi területeket kínálnak közvetlenül Vernier városa mellett.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.105492,
+                        46.218271
+                  ]
             },
             {
                   "name": "Passerelle de Chèvres",
                   "text": "Ez a Rhone felett átívelő híd összeköti Vernier-t a környező területekkel, szép kilátást nyújtva a folyóra és a természetre.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.0772,
+                        46.2025
+                  ]
             },
             {
                   "name": "Balexert",
                   "text": "A genfi régió legnagyobb bevásárlóközpontja számos üzlettel, mozival és étteremmel várja a látogatókat Vernier határában.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.1105,
+                        46.2184
+                  ]
             }
       ],
       "ro": [
@@ -4280,37 +6400,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Le Lignon",
                   "text": "Acest complex rezidențial gigantic din anii 1960 este considerat una dintre cele mai lungi clădiri din lume, având peste un kilometru.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.097778,
+                        46.203056
+                  ]
             },
             {
                   "name": "Parc de l'Etang",
                   "text": "Un parc urban vast care oferă relaxare în natură și face parte dintr-un proiect modern de dezvoltare ecologică în Vernier.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Eglise Saint-Maurice",
-                  "text": "Biserica istorică din Vernier impresionează prin arhitectura sa simplă și reprezintă un punct central în nucleul vechi al localității.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bords du Rhône",
-                  "text": "Malurile Ronului oferă poteci pitorești de plimbare și zone protejate chiar la marginea orașului Vernier, ideale pentru recreere.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.105492,
+                        46.218271
+                  ]
             },
             {
                   "name": "Passerelle de Chèvres",
                   "text": "Această pasarelă peste râul Ron leagă Vernier de zonele învecinate, oferind o priveliște frumoasă asupra cursului apei.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.0772,
+                        46.2025
+                  ]
             },
             {
                   "name": "Balexert",
                   "text": "Cel mai mare centru comercial din regiunea Geneva oferă numeroase magazine, cinematografe și opțiuni gastronomice vizitatorilor.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.1105,
+                        46.2184
+                  ]
             }
       ],
       "en": [
@@ -4318,37 +6442,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Le Lignon",
                   "text": "This gigantic 1960s residential complex is one of the longest buildings in the world, stretching over a kilometer in length.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.097778,
+                        46.203056
+                  ]
             },
             {
                   "name": "Parc de l'Etang",
                   "text": "A spacious urban park offering green recreation, part of a modern ecological urban development project in Vernier.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Eglise Saint-Maurice",
-                  "text": "The historic village church of Vernier stands out with its simple architecture and serves as a central landmark in the old town core.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bords du Rhône",
-                  "text": "The banks of the Rhone river offer picturesque walking paths and nature reserves located directly on the edge of Vernier.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.105492,
+                        46.218271
+                  ]
             },
             {
                   "name": "Passerelle de Chèvres",
                   "text": "This footbridge over the Rhone connects Vernier with the surroundings, providing a scenic view of the river and nature.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.0772,
+                        46.2025
+                  ]
             },
             {
                   "name": "Balexert",
                   "text": "The largest shopping mall in the Geneva region features numerous shops, cinemas, and dining options for visitors.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.1105,
+                        46.2184
+                  ]
             }
       ]
 }
@@ -4360,61 +6488,101 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Basilique de Valère",
                   "text": "Eine befestigte Kirche auf einem Hügel, die eine der ältesten spielbaren Orgeln der Welt aus dem 15. Jahrhundert beherbergt.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.364444,
+                        46.233889
+                  ]
             },
             {
                   "name": "Château de Tourbillon",
                   "text": "Die imposanten Ruinen dieser mittelalterlichen Burg thronen auf dem gegenüberliegenden Hügel von Valère über der Stadt Sion.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.366953,
+                        46.236464
+                  ]
             },
             {
                   "name": "Cathédrale Notre-Dame du Glarier",
                   "text": "Die Hauptkirche von Sion beeindruckt mit ihrem romanischen Turm und gotischen Kirchenschiff im Herzen der Altstadt.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35934,
+                        46.23404
+                  ]
             },
             {
                   "name": "Hôtel de Ville",
                   "text": "Das prächtige Rathaus aus der Renaissance besticht durch seine astronomische Uhr und die architektonischen Details der Fassade.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.360704,
+                        46.233822
+                  ]
             },
             {
                   "name": "Maison Supersaxo",
                   "text": "Dieses historische Haus ist berühmt für seine prachtvolle geschnitzte Holzdecke aus dem Jahr 1505, ein Meisterwerk der Spätgotik.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35994,
+                        46.23328
+                  ]
             },
             {
                   "name": "Musée d'histoire du Valais",
                   "text": "Im Schloss Valère untergebracht, zeigt dieses Museum die reiche Geschichte und Kultur des Kantons Wallis von der Steinzeit bis heute.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.36182,
+                        46.23415
+                  ]
             },
             {
                   "name": "Place de la Planta",
                   "text": "Der zentrale Platz von Sion, auf dem wichtige Veranstaltungen stattfinden und der vom Denkmal der Vereinigung des Wallis mit der Schweiz dominiert wird.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.357861,
+                        46.23289
+                  ]
             },
             {
                   "name": "Eglise Saint-Théodule",
                   "text": "Eine bedeutende spätgotische Kirche, die auf römischen Ruinen erbaut wurde und dem Schutzpatron des Wallis gewidmet ist.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35895,
+                        46.233529
+                  ]
             },
             {
                   "name": "Lac du Domaine des Iles",
                   "text": "Ein Naherholungsgebiet am Stadtrand von Sion mit Seen, das ideal für Spaziergänge, Sport und Entspannung im Freien ist.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.328,
+                        46.212402
+                  ]
             },
             {
                   "name": "Musée d'art du Valais",
                   "text": "In den Schlössern Vidomnat und Majorie gelegen, präsentiert dieses Museum Kunstwerke mit Bezug zum Wallis und den Alpen.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.36129,
+                        46.23436
+                  ]
             }
       ],
       "hu": [
@@ -4422,61 +6590,101 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Basilique de Valère",
                   "text": "Egy dombtetőn álló erődtemplom, amely a világ egyik legrégebbi, ma is működő, 15. századi orgonájának ad otthont.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.364444,
+                        46.233889
+                  ]
             },
             {
                   "name": "Château de Tourbillon",
                   "text": "E középkori vár impozáns romjai a Valère-dombbal szemközti magaslaton trónolnak Sion városa felett.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.366953,
+                        46.236464
+                  ]
             },
             {
                   "name": "Cathédrale Notre-Dame du Glarier",
                   "text": "Sion főtemploma román stílusú tornyával és gótikus hajójával az óváros szívének meghatározó épülete.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35934,
+                        46.23404
+                  ]
             },
             {
                   "name": "Hôtel de Ville",
                   "text": "A pompás reneszánsz városháza csillagászati órájával és homlokzatának építészeti részleteivel nyűgözi le a látogatókat.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.360704,
+                        46.233822
+                  ]
             },
             {
                   "name": "Maison Supersaxo",
                   "text": "Ez a történelmi ház az 1505-ből származó, gazdagon faragott famennyezetéről híres, amely a késő gótika mesterműve.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35994,
+                        46.23328
+                  ]
             },
             {
                   "name": "Musée d'histoire du Valais",
                   "text": "A Valère-várban elhelyezett múzeum Valais kanton gazdag történelmét és kultúráját mutatja be a kőkorszaktól napjainkig.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.36182,
+                        46.23415
+                  ]
             },
             {
                   "name": "Place de la Planta",
                   "text": "Sion központi tere, amely fontos események helyszíne, és ahol Valais Svájchoz való csatlakozásának emlékműve áll.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.357861,
+                        46.23289
+                  ]
             },
             {
                   "name": "Eglise Saint-Théodule",
                   "text": "Jelentős késő gótikus templom, amely római romokra épült, és Valais védőszentjének tiszteletére szentelték.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35895,
+                        46.233529
+                  ]
             },
             {
                   "name": "Lac du Domaine des Iles",
                   "text": "Sion szélén található pihenőövezet tavakkal, amely ideális sétákhoz, sporthoz és szabadtéri kikapcsolódáshoz.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.328,
+                        46.212402
+                  ]
             },
             {
                   "name": "Musée d'art du Valais",
                   "text": "A Vidomnat és Majorie várakban található múzeum a Valais-hoz és az Alpokhoz kötődő műalkotásokat mutat be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.36129,
+                        46.23436
+                  ]
             }
       ],
       "ro": [
@@ -4484,61 +6692,101 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Basilique de Valère",
                   "text": "O biserică fortificată situată pe un deal, care adăpostește una dintre cele mai vechi orgi funcționale din lume, datând din secolul XV.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.364444,
+                        46.233889
+                  ]
             },
             {
                   "name": "Château de Tourbillon",
                   "text": "Ruinele impresionante ale acestui castel medieval tronează pe dealul opus față de Valère, dominând orașul Sion.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.366953,
+                        46.236464
+                  ]
             },
             {
                   "name": "Cathédrale Notre-Dame du Glarier",
                   "text": "Biserica principală din Sion impresionează prin turnul său romanic și nava gotică, situată în inima orașului vechi.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35934,
+                        46.23404
+                  ]
             },
             {
                   "name": "Hôtel de Ville",
                   "text": "Primăria splendidă în stil renascentist se remarcă prin ceasul său astronomic și detaliile arhitecturale ale fațadei.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.360704,
+                        46.233822
+                  ]
             },
             {
                   "name": "Maison Supersaxo",
                   "text": "Această casă istorică este celebră pentru tavanul său din lemn sculptat somptuos din 1505, o capodoperă a goticului târziu.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35994,
+                        46.23328
+                  ]
             },
             {
                   "name": "Musée d'histoire du Valais",
                   "text": "Găzduit în castelul Valère, acest muzeu prezintă istoria și cultura bogată a cantonului Valais din epoca pietrei până azi.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.36182,
+                        46.23415
+                  ]
             },
             {
                   "name": "Place de la Planta",
                   "text": "Piața centrală din Sion, unde au loc evenimente importante, dominată de monumentul unirii regiunii Valais cu Elveția.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.357861,
+                        46.23289
+                  ]
             },
             {
                   "name": "Eglise Saint-Théodule",
                   "text": "O biserică gotică târzie importantă, construită pe ruine romane și dedicată sfântului protector al regiunii Valais.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35895,
+                        46.233529
+                  ]
             },
             {
                   "name": "Lac du Domaine des Iles",
                   "text": "O zonă de agrement la marginea orașului Sion, cu lacuri ideale pentru plimbări, sport și relaxare în aer liber.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.328,
+                        46.212402
+                  ]
             },
             {
                   "name": "Musée d'art du Valais",
                   "text": "Situat în castelele Vidomnat și Majorie, acest muzeu prezintă opere de artă legate de regiunea Valais și Alpi.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.36129,
+                        46.23436
+                  ]
             }
       ],
       "en": [
@@ -4546,61 +6794,101 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Basilique de Valère",
                   "text": "A fortified church on a hill that houses one of the oldest playable organs in the world, dating back to the 15th century.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.364444,
+                        46.233889
+                  ]
             },
             {
                   "name": "Château de Tourbillon",
                   "text": "The imposing ruins of this medieval castle stand on the hill opposite Valère, overlooking the city of Sion.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.366953,
+                        46.236464
+                  ]
             },
             {
                   "name": "Cathédrale Notre-Dame du Glarier",
                   "text": "The main church of Sion impresses with its Romanesque tower and Gothic nave in the heart of the old town.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35934,
+                        46.23404
+                  ]
             },
             {
                   "name": "Hôtel de Ville",
                   "text": "The magnificent Renaissance town hall features an astronomical clock and intricate architectural details on its facade.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.360704,
+                        46.233822
+                  ]
             },
             {
                   "name": "Maison Supersaxo",
                   "text": "This historic house is famous for its splendidly carved wooden ceiling from 1505, a masterpiece of Late Gothic art.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35994,
+                        46.23328
+                  ]
             },
             {
                   "name": "Musée d'history du Valais",
                   "text": "Located in Valère Castle, this museum showcases the rich history and culture of the Valais canton from the Stone Age to today.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.36182,
+                        46.23415
+                  ]
             },
             {
                   "name": "Place de la Planta",
                   "text": "The central square of Sion, hosting major events and dominated by the monument commemorating Valais joining Switzerland.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.357861,
+                        46.23289
+                  ]
             },
             {
                   "name": "Eglise Saint-Théodule",
                   "text": "An important Late Gothic church built on Roman ruins and dedicated to the patron saint of the Valais region.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.35895,
+                        46.233529
+                  ]
             },
             {
                   "name": "Lac du Domaine des Iles",
                   "text": "A recreational area on the outskirts of Sion with lakes, ideal for walks, sports, and outdoor relaxation.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.328,
+                        46.212402
+                  ]
             },
             {
                   "name": "Musée d'art du Valais",
                   "text": "Housed in the Vidomnat and Majorie castles, this museum presents artworks related to the Valais and the Alps.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.36129,
+                        46.23436
+                  ]
             }
       ]
 }
@@ -4612,37 +6900,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Flieger Flab Museum",
                   "text": "Nationales Luftfahrtmuseum der Schweiz mit einer beeindruckenden Sammlung historischer Flugzeuge und Fliegerabwehrsysteme.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.630978,
+                        47.398044
+                  ]
             },
             {
                   "name": "Lazariterkirche Gfenn",
                   "text": "Eine der besterhaltenen Lazariterkirchen Europas aus dem 13. Jahrhundert mit bedeutenden mittelalterlichen Wandmalereien.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.648016,
+                        47.392288
+                  ]
             },
             {
                   "name": "Ruine Dübelstein",
                   "text": "Überreste einer einst stolzen Burg, die als Wohnsitz des berühmten Zürcher Bürgermeisters Hans Waldmann diente.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.615554,
+                        47.379897
+                  ]
             },
             {
                   "name": "Obere Mühle",
                   "text": "Ehemalige Mühle und heutiges Kulturzentrum, das ein vielfältiges Programm an Konzerten, Theater und lokalen Events bietet.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.624019,
+                        47.395068
+                  ]
             },
             {
                   "name": "Greifensee",
                   "text": "Ein idyllischer See an der Stadtgrenze, ideal für Schifffahrten, Wanderungen und Naturbeobachtungen im Naturschutzgebiet.",
                   "category": "lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Griespark",
-                  "text": "Der grösste öffentliche Park der Stadt mit weitläufigen Grünflächen, Sportanlagen und einem malerischen Weiher zum Entspannen.",
-                  "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.675612,
+                        47.365046
+                  ]
             }
       ],
       "hu": [
@@ -4650,37 +6952,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Repülőmúzeum (Flieger Flab)",
                   "text": "Svájc legfontosabb légiközlekedési múzeuma a katonai bázis mellett, ahol ritka történelmi repülőgépek láthatóak.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.630978,
+                        47.398044
+                  ]
             },
             {
                   "name": "Gfenn-i Lazarita templom",
                   "text": "Egyedülálló 13. századi műemlék templom, amely a Szent Lázár Lovagrend egyik legépebben maradt európai emléke.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.648016,
+                        47.392288
+                  ]
             },
             {
                   "name": "Dübelstein várrom",
                   "text": "Az egykori vár maradványai, amely Hans Waldmann híres zürichi polgármester tulajdonában is állt a középkorban.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.615554,
+                        47.379897
+                  ]
             },
             {
                   "name": "Obere Mühle",
                   "text": "Egykori malomépület, amely ma vibráló kulturális központként koncerteknek és helyi eseményeknek ad otthont.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.624019,
+                        47.395068
+                  ]
             },
             {
                   "name": "Greifensee",
                   "text": "Festői tó a város szélén, amely hajókirándulásokat és védett mocsári élővilágot kínál a természetjárók számára.",
                   "category": "lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Griespark",
-                  "text": "A város legnagyobb közparkja, amely tágas zöldterületekkel, sportpályákkal és egy festői tóval várja a pihenni vágyókat.",
-                  "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.675612,
+                        47.365046
+                  ]
             }
       ],
       "ro": [
@@ -4688,37 +7004,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Muzeul Flieger Flab",
                   "text": "Cel mai important muzeu al aviației din Elveția, prezentând o colecție impresionantă de avioane militare istorice.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.630978,
+                        47.398044
+                  ]
             },
             {
                   "name": "Biserica Lazarită Gfenn",
                   "text": "Un monument unic din secolul al XIII-lea, fiind una dintre cele mai bine conservate biserici ale Ordinului Sfântul Lazăr.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.648016,
+                        47.392288
+                  ]
             },
             {
                   "name": "Ruinele Castelului Dübelstein",
                   "text": "Rămășițele unei cetăți medievale ce a servit drept reședință faimosului primar din Zurich, Hans Waldmann.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.615554,
+                        47.379897
+                  ]
             },
             {
                   "name": "Obere Mühle",
                   "text": "O fostă moară transformată într-un centru cultural vibrant, gazdă pentru concerte, teatru și diverse evenimente locale.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.624019,
+                        47.395068
+                  ]
             },
             {
                   "name": "Lacul Greifensee",
                   "text": "Un lac idilic la marginea orașului, oferind croaziere și poteci pitorești într-o rezervație naturală protejată.",
                   "category": "lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Griespark",
-                  "text": "Cel mai mare parc public din oraș, oferind spații verzi vaste, facilități sportive și un iaz pitoresc pentru relaxare.",
-                  "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.675612,
+                        47.365046
+                  ]
             }
       ],
       "en": [
@@ -4726,37 +7056,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Air Force Center Museum",
                   "text": "Switzerland's premier aviation museum showcasing a vast collection of historic military aircraft and anti-aircraft systems.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.630978,
+                        47.398044
+                  ]
             },
             {
                   "name": "Lazariter Church Gfenn",
                   "text": "A rare 13th-century church and former commandery of the Order of St. Lazarus, featuring beautiful medieval frescoes.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.648016,
+                        47.392288
+                  ]
             },
             {
                   "name": "Dübelstein Castle Ruins",
                   "text": "The historic remains of a medieval fortress that was once the residence of the famous Zurich mayor Hans Waldmann.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.615554,
+                        47.379897
+                  ]
             },
             {
                   "name": "Obere Mühle",
                   "text": "A former grain mill now serving as a major cultural hub for concerts, exhibitions, and community events in the city.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.624019,
+                        47.395068
+                  ]
             },
             {
                   "name": "Greifensee Lake",
                   "text": "A scenic lake bordering the town, perfect for boat trips, cycling, and exploring its protected nature reserves.",
                   "category": "lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Griespark",
-                  "text": "The city's largest public park, featuring extensive green spaces, sports facilities, and a scenic pond for relaxation.",
-                  "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.675612,
+                        47.365046
+                  ]
             }
       ]
 }
@@ -4768,37 +7112,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Pilatus",
                   "text": "Der Hausberg von Luzern und Kriens, der durch moderne Seilbahnen erschlossen ist und ein spektakuläres Alpenpanorama bietet.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.241111,
+                        46.973889
+                  ]
             },
             {
                   "name": "Schloss Schauensee",
                   "text": "Eine markante Burg aus dem 13. Jahrhundert auf einem Hügel, die heute für kulturelle Anlässe und Trauungen genutzt wird.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.281347,
+                        47.027415
+                  ]
             },
             {
                   "name": "Museum im Bellpark",
                   "text": "In einer herrschaftlichen Villa untergebrachtes Museum, das sich der Fotografie und zeitgenössischen Kunst widmet.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.282893,
+                        47.034538
+                  ]
             },
             {
                   "name": "Galluskirche",
                   "text": "Die stattliche katholische Pfarrkirche mit ihrem charakteristischen Turm prägt seit Jahrhunderten das Ortsbild von Kriens.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.279331,
+                        47.032862
+                  ]
             },
             {
                   "name": "Sonnenbergbahn",
                   "text": "Eine nostalgische Standseilbahn aus dem Jahr 1902, die Besucher auf den Sonnenberg mit Blick auf den See befördert.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.2753,
+                        47.0404
+                  ]
             },
             {
                   "name": "Bellpark",
                   "text": "Ein zentraler Stadtpark mit altem Baumbestand und dem Sitz des Kunstmuseums, ein Ort der Ruhe mitten im urbanen Kriens.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.283612,
+                        47.034307
+                  ]
             }
       ],
       "hu": [
@@ -4806,37 +7174,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Pilatus-hegy",
                   "text": "Luzern és Kriens házi hegye, ahová modern felvonók vezetnek fel a városközpontból, lenyűgöző alpesi panorámát kínálva.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.241111,
+                        46.973889
+                  ]
             },
             {
                   "name": "Schauensee-kastély",
                   "text": "Jellegzetes 13. századi várkastély egy dombtetőn, amely ma kulturális eseményeknek és esküvőknek ad elegáns helyszínt.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.281347,
+                        47.027415
+                  ]
             },
             {
                   "name": "Bellpark Múzeum",
                   "text": "Egy impozáns 19. századi villában helyet kapott művészeti központ, amely fotóművészeti és kortárs kiállításairól ismert.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.282893,
+                        47.034538
+                  ]
             },
             {
                   "name": "Szent Gál-templom",
                   "text": "Kriens központi katolikus plébániatemploma, amely monumentális tornyával és barokk elemeivel uralja a városképet.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.279331,
+                        47.032862
+                  ]
             },
             {
                   "name": "Sonnenberg sikló",
                   "text": "Egy 1902-ben épült nosztalgikus sikló, amely a Sonnenberg-hegyre szállítja az utasokat, pazar kilátást nyújtva a tóra.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.2753,
+                        47.0404
+                  ]
             },
             {
                   "name": "Bellpark",
                   "text": "Központi városi park ősfákkal, ahol a művészeti múzeum is található, a nyugalom szigete a városi környezetben.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.283612,
+                        47.034307
+                  ]
             }
       ],
       "ro": [
@@ -4844,37 +7236,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Muntele Pilatus",
                   "text": "Muntele emblematic accesibil direct din Kriens prin telecabine moderne, oferind o panoramă spectaculoasă asupra Alpilor.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.241111,
+                        46.973889
+                  ]
             },
             {
                   "name": "Castelul Schauensee",
                   "text": "Un castel pitoresc din secolul al XIII-lea situat pe o colină, folosit astăzi pentru evenimente culturale și ceremonii.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.281347,
+                        47.027415
+                  ]
             },
             {
                   "name": "Muzeul Bellpark",
                   "text": "Centru cultural găzduit într-o vilă istorică, specializat în fotografie și artă contemporană cu expoziții temporare.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.282893,
+                        47.034538
+                  ]
             },
             {
                   "name": "Biserica Sfântul Gallus",
                   "text": "Principala biserică catolică din oraș, o clădire impunătoare ce domină centrul localității cu turnul său masiv.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.279331,
+                        47.032862
+                  ]
             },
             {
                   "name": "Funicularul Sonnenberg",
                   "text": "Un funicular istoric inaugurat în 1902, care transportă turiștii pe dealul Sonnenberg pentru vederi panoramice superbe.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.2753,
+                        47.0404
+                  ]
             },
             {
                   "name": "Parcul Bellpark",
                   "text": "Un parc central cu arbori seculari unde se află și muzeul de artă, oferind o oază de liniște în mijlocul orașului.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.283612,
+                        47.034307
+                  ]
             }
       ],
       "en": [
@@ -4882,37 +7298,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Pilatus Mountain",
                   "text": "The iconic peak overlooking the town, reachable by modern gondolas and offering breathtaking panoramic views of the Alps.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.241111,
+                        46.973889
+                  ]
             },
             {
                   "name": "Schauensee Castle",
                   "text": "A charming 13th-century hilltop castle that now serves as a cultural venue and a beautiful spot for weddings.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.281347,
+                        47.027415
+                  ]
             },
             {
                   "name": "Museum im Bellpark",
                   "text": "An art and photography museum located in a grand 19th-century villa, hosting diverse contemporary exhibitions.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.282893,
+                        47.034538
+                  ]
             },
             {
                   "name": "St. Gallus Church",
                   "text": "The prominent Catholic parish church of Kriens, featuring a tall bell tower and serving as a local landmark for centuries.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.279331,
+                        47.032862
+                  ]
             },
             {
                   "name": "Sonnenberg Funicular",
                   "text": "A historic cable railway from 1902 that takes visitors up to Sonnenberg hill for fantastic views over Lake Lucerne.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.2753,
+                        47.0404
+                  ]
             },
             {
                   "name": "Bellpark",
                   "text": "A central city park with ancient trees and home to the art museum, offering a peaceful retreat in the heart of Kriens.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.283612,
+                        47.034307
+                  ]
             }
       ]
 }
@@ -4924,49 +7364,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Rapperswil",
                   "text": "Die um 1220 errichtete Höhenburg prägt das Stadtbild und beherbergt ein Museum in ihren historischen Mauern.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.818333,
+                        47.226667
+                  ]
             },
             {
                   "name": "Holzbrücke Rapperswil–Hurden",
                   "text": "Diese 841 Meter lange Rekonstruktion einer mittelalterlichen Holzbrücke ist die längste ihrer Art in der Schweiz.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.814917,
+                        47.222472
+                  ]
             },
             {
                   "name": "Knies Kinderzoo",
                   "text": "Der 1962 eröffnete Zoo ermöglicht direkten Kontakt zu Tieren und gehört zum bekannten Schweizer Nationalcircus Knie.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.821989,
+                        47.223652
+                  ]
             },
             {
                   "name": "Rosengärten",
                   "text": "Über 15.000 Rosenstöcke in verschiedenen Gärten verleihen Rapperswil den Beinamen Rosenstadt am Zürichsee.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.860502,
+                        47.281089
+                  ]
             },
             {
                   "name": "Stadtpfarrkirche St. Johann",
                   "text": "Die gotische Kirche stammt aus dem 13. Jahrhundert und beeindruckt durch ihre Lage direkt neben dem Schloss.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.816476,
+                        47.227493
+                  ]
             },
             {
                   "name": "Enea Baummuseum",
                   "text": "In diesem 75.000 m² großen Park werden über 50 zum Teil hunderte Jahre alte Bäume als Kunstwerke inszeniert.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.8657,
+                        47.2234
+                  ]
             },
             {
                   "name": "Altstadt Rapperswil",
                   "text": "Das mittelalterliche Zentrum besticht durch kopfsteingepflasterte Gassen und historische Bürgerhäuser am Seeufer.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.838024,
+                        47.235109
+                  ]
             },
             {
                   "name": "Curti-Haus",
                   "text": "Ein prächtiges Wohnhaus aus dem 16. Jahrhundert, das durch seine Architektur und Lage am Hafen auffällt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.813825,
+                        47.226328
+                  ]
             }
       ],
       "hu": [
@@ -4974,49 +7446,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Rapperswili vár",
                   "text": "Az 1220 körül épült háromszögletű várkastély a város jelképe, falairól rálátni a Zürichi-tóra.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.818333,
+                        47.226667
+                  ]
             },
             {
                   "name": "Rapperswil–Hurden fahíd",
                   "text": "A 841 méteres gyalogoshíd 2001-ben épült újjá a középkori zarándokút történelmi cölöpjein.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.814917,
+                        47.222472
+                  ]
             },
             {
                   "name": "Knie gyermekállatkert",
                   "text": "Az 1962-ben alapított állatkertben az elefántok és zsiráfok közvetlen közelről figyelhetőek meg.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.821989,
+                        47.223652
+                  ]
             },
             {
                   "name": "Rózskert",
                   "text": "A városban több helyszínen több mint 15 000 tő rózsa virágzik, innen ered a város beceneve.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.860502,
+                        47.281089
+                  ]
             },
             {
                   "name": "Szent János plébániatemplom",
                   "text": "A vár mellett álló gótikus templom a 13. századból származik, belső tere gazdagon díszített.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.816476,
+                        47.227493
+                  ]
             },
             {
                   "name": "Enea Famúzeum",
                   "text": "Egy különleges szabadtéri park, ahol évszázados fákat mutatnak be modern építészeti környezetben.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.8657,
+                        47.2234
+                  ]
             },
             {
                   "name": "Rapperswil óvárosa",
                   "text": "A középkori hangulatú városmag szűk utcákkal és tóparti éttermekkel várja a látogatókat.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.838024,
+                        47.235109
+                  ]
             },
             {
                   "name": "Curti-ház",
                   "text": "A 16. századi monumentális lakóépület a kikötő közelében található, fontos helyi műemlék.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.813825,
+                        47.226328
+                  ]
             }
       ],
       "ro": [
@@ -5024,49 +7528,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Rapperswil",
                   "text": "Construit în jurul anului 1220 de conții de Rapperswil, castelul oferă o vedere panoramică asupra lacului Zürich.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.818333,
+                        47.226667
+                  ]
             },
             {
                   "name": "Podul de lemn Rapperswil–Hurden",
                   "text": "Cu o lungime de 841 de metri, este cel mai lung pod de lemn pentru pietoni din Elveția, reconstruit în 2001.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.814917,
+                        47.222472
+                  ]
             },
             {
                   "name": "Grădina Zoologică Knie",
                   "text": "O grădină zoologică specializată pentru copii, unde vizitatorii pot interacționa direct cu multe animale.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.821989,
+                        47.223652
+                  ]
             },
             {
                   "name": "Grădinile de trandafiri",
                   "text": "Rapperswil găzduiește peste 15.000 de fire de trandafiri, fiind supranumit „Orașul Trandafirilor”.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.860502,
+                        47.281089
+                  ]
             },
             {
                   "name": "Biserica Sfântul Ioan",
                   "text": "O biserică parohială construită în stil gotic în secolul al XIII-lea, situată chiar lângă zidurile castelului.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.816476,
+                        47.227493
+                  ]
             },
             {
                   "name": "Muzeul copacilor Enea",
                   "text": "Un muzeu în aer liber unic, unde arbori seculari sunt expuși ca obiecte de artă într-un parc modern.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.8657,
+                        47.2234
+                  ]
             },
             {
                   "name": "Orașul Vechi Rapperswil",
                   "text": "Centrul istoric medieval este renumit pentru străzile pavate și atmosfera pitorească de pe malul lacului.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.838024,
+                        47.235109
+                  ]
             },
             {
                   "name": "Casa Curti",
                   "text": "O clădire rezidențială istorică impunătoare din secolul al XVI-lea, situată în apropierea portului.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.813825,
+                        47.226328
+                  ]
             }
       ],
       "en": [
@@ -5074,49 +7610,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Rapperswil Castle",
                   "text": "Built around 1220 by Count Rudolf II, this landmark features a triangular shape and lake views.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.818333,
+                        47.226667
+                  ]
             },
             {
                   "name": "Wooden Bridge Rapperswil–Hurden",
                   "text": "This 841-meter pedestrian bridge connects Rapperswil and Hurden, following a 1358 pilgrimage route.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.814917,
+                        47.222472
+                  ]
             },
             {
                   "name": "Knie's Children's Zoo",
                   "text": "Founded in 1962, this zoo offers elephant interaction and belongs to the famous Knie circus family.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.821989,
+                        47.223652
+                  ]
             },
             {
                   "name": "Rose Gardens",
                   "text": "Over 15,000 rose bushes of 600 varieties bloom here, giving Rapperswil its 'Town of Roses' title.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.860502,
+                        47.281089
+                  ]
             },
             {
                   "name": "St. John's Parish Church",
                   "text": "A 13th-century Gothic church located next to the castle, known for its twin towers and history.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.816476,
+                        47.227493
+                  ]
             },
             {
                   "name": "Enea Tree Museum",
                   "text": "A 75,000 m² open-air park showcasing over 50 ancient trees as sculptural living artworks.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.8657,
+                        47.2234
+                  ]
             },
             {
                   "name": "Old Town Rapperswil",
                   "text": "The car-free medieval center is filled with narrow alleys, historic fountains, and lakefront cafes.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.838024,
+                        47.235109
+                  ]
             },
             {
                   "name": "Curti House",
                   "text": "A notable 16th-century residence near the harbor, representing the town's aristocratic architectural past.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.813825,
+                        47.226328
+                  ]
             }
       ]
 }
@@ -5128,49 +7696,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Chillon",
                   "text": "Die Wasserburg auf einem Felsen im Genfersee stammt aus dem 12. Jahrhundert und war Sitz der Savoyer.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9275,
+                        46.414167
+                  ]
             },
             {
                   "name": "Freddie Mercury Statue",
                   "text": "Das 1996 enthüllte Bronzedenkmal erinnert an den Queen-Sänger, der in Montreux eine zweite Heimat fand.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.909169,
+                        46.432119
+                  ]
             },
             {
                   "name": "Queen: The Studio Experience",
                   "text": "Museum in den ehemaligen Mountain Studios, wo die Band Queen zwischen 1978 und 1995 Alben aufnahm.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Seepromenade Montreux",
-                  "text": "Der kilometerlange Uferweg am Genfersee ist für seine üppige, oft exotische Blumenpracht weltberühmt.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.911841,
+                        46.429701
+                  ]
             },
             {
                   "name": "Rochers-de-Naye Bahn",
                   "text": "Eine Zahnradbahn führt auf 2.042 Meter Höhe und bietet einen Panoramablick über den gesamten Genfersee.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.979026,
+                        46.431676
+                  ]
             },
             {
                   "name": "Fairmont Le Montreux Palace",
                   "text": "Dieses 1906 erbaute Belle-Époque-Hotel ist ein architektonisches Juwel am Ufer des Sees.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Altstadt (Vieille-Ville)",
-                  "text": "Das historische Viertel liegt oberhalb des Zentrums und bietet steile Gassen sowie einen tollen Ausblick.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kirche St. Vincent",
-                  "text": "Die spätgotische Kirche in der Altstadt bietet von ihrem Vorplatz eine weite Sicht über das Lavaux-Gebiet.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.90695,
+                        46.43826
+                  ]
             }
       ],
       "hu": [
@@ -5178,49 +7748,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Chillon vára",
                   "text": "A Genfi-tó sziklájára épült 12. századi vízi vár Svájc egyik leglátogatottabb történelmi emléke.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9275,
+                        46.414167
+                  ]
             },
             {
                   "name": "Freddie Mercury szobor",
                   "text": "A tóparton álló bronzszobrot 1996-ban avatták fel a Queen énekese előtt tisztelegve.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.909169,
+                        46.432119
+                  ]
             },
             {
                   "name": "Queen: The Studio Experience",
                   "text": "Az egykori Mountain Studios helyén működő múzeum bemutatja a zenekar Montreux-ben töltött éveit.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Montreux-i tóparti sétány",
-                  "text": "A virágokkal díszített, kilométer hosszan elnyúló sétány a Genfi-tó partjának legszebb része.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.911841,
+                        46.429701
+                  ]
             },
             {
                   "name": "Rochers-de-Naye fogaskerekű",
                   "text": "A 2042 méter magas csúcsra vezető vasútról lenyűgöző kilátás nyílik az Alpokra és a tóra.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.979026,
+                        46.431676
+                  ]
             },
             {
                   "name": "Fairmont Le Montreux Palace",
                   "text": "Az 1906-ban nyílt luxusszálloda a Belle Époque építészet egyik legszebb svájci példája.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Óváros (Vieille-Ville)",
-                  "text": "A domboldalon elhelyezkedő történelmi negyed szűk utcái igazi középkori hangulatot árasztanak.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Vince-templom",
-                  "text": "Az óvárosban található gótikus templom mellől páratlan panoráma nyílik a tóra és a hegyekre.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.90695,
+                        46.43826
+                  ]
             }
       ],
       "ro": [
@@ -5228,49 +7800,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Chillon",
                   "text": "Un castel insular situat pe malul lacului Geneva, datând din secolul XII, fostă reședință a Casei de Savoia.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9275,
+                        46.414167
+                  ]
             },
             {
                   "name": "Statuia lui Freddie Mercury",
                   "text": "Monumentul de bronz de pe malul lacului a fost inaugurat în 1996 în memoria legendarului solist Queen.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.909169,
+                        46.432119
+                  ]
             },
             {
                   "name": "Queen: The Studio Experience",
                   "text": "Muzeu situat în fostele studiouri Mountain, unde trupa Queen a înregistrat șapte albume de studio.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Promenada Montreux",
-                  "text": "O faleză spectaculoasă plină de flori exotice care se întinde de-a lungul malului lacului Leman.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.911841,
+                        46.429701
+                  ]
             },
             {
                   "name": "Calea ferată Rochers-de-Naye",
                   "text": "Un tren cu cremalieră care urcă până la 2042 de metri, oferind o vedere panoramică asupra Alpilor.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.979026,
+                        46.431676
+                  ]
             },
             {
                   "name": "Fairmont Le Montreux Palace",
                   "text": "Un hotel de lux emblematic, construit în 1906, reprezentativ pentru stilul Belle Époque.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Orașul Vechi (Vieille-Ville)",
-                  "text": "Cartierul istoric situat pe deal, caracterizat prin străzi înguste și clădiri vechi bine conservate.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Sfântul Vincențiu",
-                  "text": "Biserica principală a orașului vechi, oferind de pe platforma sa o priveliște unică spre regiunea Lavaux.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.90695,
+                        46.43826
+                  ]
             }
       ],
       "en": [
@@ -5278,49 +7852,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Chillon Castle",
                   "text": "An island castle on Lake Geneva from the 12th century, once held by the House of Savoy.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9275,
+                        46.414167
+                  ]
             },
             {
                   "name": "Freddie Mercury Statue",
                   "text": "A bronze monument by Irena Sedlecká unveiled in 1996, overlooking the lake and honoring the singer.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.909169,
+                        46.432119
+                  ]
             },
             {
                   "name": "Queen: The Studio Experience",
                   "text": "Located in Mountain Studios where the band recorded albums between 1978 and 1995.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Montreux Lakeside Promenade",
-                  "text": "A world-famous flower-lined walkway stretching several kilometers along the shores of Lake Geneva.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.911841,
+                        46.429701
+                  ]
             },
             {
                   "name": "Rochers-de-Naye Railway",
                   "text": "A cogwheel train reaching 2,042 meters, offering spectacular views of the lake and French Alps.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.979026,
+                        46.431676
+                  ]
             },
             {
                   "name": "Fairmont Le Montreux Palace",
                   "text": "Opened in 1906, this grand Belle Époque hotel is one of the most prestigious buildings in town.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Old Town (Vieille-Ville)",
-                  "text": "The steep, historic district of Montreux featuring ancient buildings and panoramic terrace views.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Vincent's Church",
-                  "text": "A Gothic church in the Old Town known for its scenic location and 15th-century architecture.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.90695,
+                        46.43826
+                  ]
             }
       ]
 }
@@ -5332,49 +7908,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Hof zu Wil",
                   "text": "Die einstige Residenz der St. Galler Fürstäbte ist ein national bedeutendes Baudenkmal mit spätgotischen Sälen und Wappen.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Wiler Altstadt",
-                  "text": "Die Wiler Altstadt gilt als eine der besterhaltenen der Ostschweiz und beeindruckt durch ihre markante Dreiecksform.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Stadtkirche St. Nikolaus",
-                  "text": "Die katholische Kirche wurde im 15. Jahrhundert im gotischen Stil erbaut und beherbergt wertvolle Glasmalereien aus der Zeit.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050079,
+                        47.467671
+                  ]
             },
             {
                   "name": "Baronenhaus",
                   "text": "Das 1795 am Hofplatz errichtete Palais ist das bedeutendste klassizistische Bürgerhaus der Stadt und ein geschütztes Kulturgut.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.049988,
+                        47.467276
+                  ]
             },
             {
                   "name": "Wiler Turm",
                   "text": "Der 38 Meter hohe Holzturm auf dem Hofberg bietet ein 360-Grad-Panorama bis zu den Alpen und zum weiten Bodensee.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.04924,
+                        47.4785
+                  ]
             },
             {
                   "name": "Stadtmuseum Wil",
                   "text": "Im Hof zu Wil gelegen, zeigt das Museum Exponate zur Stadtgeschichte, sakrale Kunst und Dokumente zur regionalen Entwicklung.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050172,
+                        47.467661
+                  ]
             },
             {
                   "name": "Stadtweier",
                   "text": "Das Naherholungsgebiet am Fusse der Altstadt lädt zu Spaziergängen ein und beheimatet zahlreiche geschützte Wasservögel.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.0478,
+                        47.46734
+                  ]
             },
             {
                   "name": "Dominikanerinnenkloster St. Katharina",
                   "text": "Das Kloster aus dem 13. Jahrhundert verfügt über eine kunstvoll gestaltete Barockkapelle und einen historischen Kreuzgang.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050602,
+                        47.465235
+                  ]
             }
       ],
       "hu": [
@@ -5382,49 +7970,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Hof zu Wil",
                   "text": "A St. Gallen-i hercegapátok egykori rezidenciája országos jelentőségű műemlék, késő gótikus termeiről és címereiről híres.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Wil óvárosa",
-                  "text": "Kelet-Svájc egyik legjobb állapotban fennmaradt óvárosa, amely egyedi háromszög alakú alaprajzáról és polgárházairól ismert.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Miklós-templom",
-                  "text": "A 15. században gótikus stílusban épült katolikus plébániatemplom értékes üvegfestményekkel és magas toronnyal rendelkezik.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050079,
+                        47.467671
+                  ]
             },
             {
                   "name": "Baronenhaus",
                   "text": "Az 1795-ben épült klasszicista palota a város legjelentősebb polgári épülete, amely a Hofplatz keleti oldalán található.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.049988,
+                        47.467276
+                  ]
             },
             {
                   "name": "Wil-torony",
                   "text": "A Hofberg-dombon álló 38 méter magas fatoronyból 360 fokos panoráma nyílik az Alpokra és a Boden-tóra.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.04924,
+                        47.4785
+                  ]
             },
             {
                   "name": "Wil Városi Múzeum",
                   "text": "A Hof épületkomplexumában található múzeum a város történelmét, egyházi művészetét és korabeli dokumentumait mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050172,
+                        47.467661
+                  ]
             },
             {
                   "name": "Városi tó",
                   "text": "Az óváros lábánál fekvő mesterséges tó népszerű pihenőhely, ahol tanösvény és madárvilág várja a sétálókat.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.0478,
+                        47.46734
+                  ]
             },
             {
                   "name": "Szent Katalin-kolostor",
                   "text": "A 13. században alapított dominikánus kolostor barokk kápolnával és csendes kerengővel őrzi a város vallási múltját.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050602,
+                        47.465235
+                  ]
             }
       ],
       "ro": [
@@ -5432,49 +8032,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Hof zu Wil",
                   "text": "Fosta reședință a prinților-abați de St. Gallen este un monument național cu săli gotice târzii și blazoane istorice.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Orașul vechi din Wil",
-                  "text": "Considerat unul dintre cele mai bine conservate centre medievale din estul Elveției, are o formă triunghiulară unică.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Sfântul Nicolae",
-                  "text": "Construită în secolul al XV-lea în stil gotic, această biserică catolică deține vitralii valoroase și un turn impunător.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050079,
+                        47.467671
+                  ]
             },
             {
                   "name": "Baronenhaus",
                   "text": "Construit în 1795, acest palat din piața Hofplatz este cea mai importantă clădire neoclasică din orașul Wil.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.049988,
+                        47.467276
+                  ]
             },
             {
                   "name": "Turnul Wiler",
                   "text": "Turnul de observație din lemn de 38 de metri de pe dealul Hofberg oferă o panoramă superbă spre Alpi și Lacul Constanța.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.04924,
+                        47.4785
+                  ]
             },
             {
                   "name": "Muzeul orașului Wil",
                   "text": "Situat în interiorul complexului Hof, muzeul prezintă istoria locală, artă sacră și colecții despre viața burgheză.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050172,
+                        47.467661
+                  ]
             },
             {
                   "name": "Stadtweier",
                   "text": "Acest iaz pitoresc situat la baza orașului vechi este o zonă de recreere populară pentru plimbări și observarea păsărilor.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.0478,
+                        47.46734
+                  ]
             },
             {
                   "name": "Mănăstirea Sfânta Ecaterina",
                   "text": "Mănăstirea dominicană din secolul al XIII-lea dispune de o capelă barocă ornamentată și un claustru istoric conservat.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050602,
+                        47.465235
+                  ]
             }
       ],
       "en": [
@@ -5482,49 +8094,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Hof zu Wil",
                   "text": "The former residence of the Prince-Abbots of St. Gallen is a national heritage site featuring late Gothic halls.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Wil Old Town",
-                  "text": "One of the best-preserved medieval centers in Eastern Switzerland, known for its distinct triangular street layout.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Nicholas Church",
-                  "text": "Built in the 15th century in Gothic style, this Catholic church houses valuable stained glass windows and altars.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050079,
+                        47.467671
+                  ]
             },
             {
                   "name": "Baronenhaus",
                   "text": "Erected in 1795 at Hofplatz, this represents the city's most significant Neoclassical town house and cultural asset.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.049988,
+                        47.467276
+                  ]
             },
             {
                   "name": "Wiler Turm",
                   "text": "A 38-meter wooden observation tower on Hofberg hill offering 360-degree views of the Alps and Lake Constance.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.04924,
+                        47.4785
+                  ]
             },
             {
                   "name": "City Museum Wil",
                   "text": "Located in the Hof complex, the museum displays local history exhibits, religious art, and regional artifacts.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050172,
+                        47.467661
+                  ]
             },
             {
                   "name": "Stadtweier",
                   "text": "A scenic pond at the foot of the old town, serving as a peaceful recreation area for walking and birdwatching.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.0478,
+                        47.46734
+                  ]
             },
             {
                   "name": "St. Catherine's Monastery",
                   "text": "A 13th-century Dominican convent featuring an ornate Baroque chapel and reflecting the city's religious heritage.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.050602,
+                        47.465235
+                  ]
             }
       ]
 }
@@ -5536,49 +8160,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Wädenswil",
                   "text": "Die einstige Johanniterkommende thront über der Stadt und dient heute als Sitz für landwirtschaftliche Forschung.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.6765,
+                        47.223
+                  ]
             },
             {
                   "name": "Reformierte Kirche",
                   "text": "Die 1767 erbaute Querkirche ist ein bedeutendes Beispiel protestantischen Kirchenbaus und bietet Platz für 1300 Personen.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.671805,
+                        47.228457
+                  ]
             },
             {
                   "name": "Zürichsee-Promenade",
                   "text": "Der gepflegte Uferweg bietet öffentliche Badeplätze und weite Ausblicke über den See bis zu den Glarner Alpen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gessnerhaus",
-                  "text": "Ein markantes Riegelhaus aus dem 17. Jahrhundert, das eng mit der Geschichte der einflussreichen Familie Gessner verbunden ist.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.597868,
+                        47.279096
+                  ]
             },
             {
                   "name": "Halbinsel Au",
                   "text": "Ein kantonales Naturschutzgebiet mit Parkanlage, dem Ausee und ausgedehnten Rebbergen direkt am Seeufer.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.646111,
+                        47.249167
+                  ]
             },
             {
                   "name": "Schloss Au",
                   "text": "Das herrschaftliche Anwesen auf der Halbinsel wurde im 19. Jahrhundert im Stil der Neorenaissance prachtvoll umgebaut.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cinema Rosental",
-                  "text": "Das Kulturzentrum im historischen Gebäude bietet ein vielfältiges Programm aus Film, Theater und Kleinkunst.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.63917,
+                        47.25
+                  ]
             },
             {
                   "name": "Weinbaumuseum am Zürichsee",
                   "text": "In der Halbinsel Au ansässig, dokumentiert es die 2000-jährige Tradition des Weinbaus in der Region Zürich.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.649431,
+                        47.247531
+                  ]
             }
       ],
       "hu": [
@@ -5586,49 +8222,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Wädenswil-kastély",
                   "text": "A máltai lovagrend egykori rendháza a város felett magasodik, ma mezőgazdasági kutatóállomásként működik.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.6765,
+                        47.223
+                  ]
             },
             {
                   "name": "Református templom",
                   "text": "Az 1767-ben befejezett keresztalaprajzú templom Svájc egyik legnagyobb protestáns egyházi épülete, 1300 férőhellyel.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.671805,
+                        47.228457
+                  ]
             },
             {
                   "name": "Zürichi-tó sétány",
                   "text": "A rendezett tóparti sétány fürdőhelyeket és panorámás kilátást kínál a vízen át a Glarusi-Alpok csúcsaira.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gessner-ház",
-                  "text": "Jellegzetes, 17. századi fagerendás épület, amely a város történelmében fontos szerepet játszó Gessner családé volt.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.597868,
+                        47.279096
+                  ]
             },
             {
                   "name": "Au-félsziget",
                   "text": "Természetvédelmi terület a tóparton, ahol park, egy kis tó (Ausee) és gondozott szőlőültetvények találhatók.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.646111,
+                        47.249167
+                  ]
             },
             {
                   "name": "Au-kastély",
                   "text": "Az Au-félsziget legmagasabb pontján álló úoreneszánsz kúria a 19. században kapta mai, reprezentatív formáját.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cinema Rosental",
-                  "text": "Történelmi épületben működő kulturális központ, amely mozinak, színházi előadásoknak és koncerteknek ad otthont.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.63917,
+                        47.25
+                  ]
             },
             {
                   "name": "Bormúzeum",
                   "text": "Az Au-félszigeten található múzeum a Zürichi-tó környéki bortermelés 2000 éves hagyományait mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.649431,
+                        47.247531
+                  ]
             }
       ],
       "ro": [
@@ -5636,49 +8284,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Wädenswil",
                   "text": "Fosta comandă a cavalerilor ioaniți domină orașul, servind astăzi drept sediu pentru cercetări agricole elvețiene.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.6765,
+                        47.223
+                  ]
             },
             {
                   "name": "Biserica Reformată",
                   "text": "Finalizată în 1767, este una dintre cele mai mari biserici protestante din Elveția, având un plan în formă de cruce.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.671805,
+                        47.228457
+                  ]
             },
             {
                   "name": "Promenada Lacului Zürich",
                   "text": "O alee lungă pe malul lacului, oferind zone de scăldat și vederi panoramice spre munții Alpi din depărtare.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Casa Gessner",
-                  "text": "O clădire istorică cu structură de lemn din secolul al XVII-lea, legată de istoria influentei familii Gessner.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.597868,
+                        47.279096
+                  ]
             },
             {
                   "name": "Peninsula Au",
                   "text": "O rezervație naturală de interes cantonal care cuprinde un parc, lacul Ausee și podgorii întinse pe malul apei.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.646111,
+                        47.249167
+                  ]
             },
             {
                   "name": "Castelul Au",
                   "text": "Această reședință nobiliară de pe peninsulă a fost reconstruită în secolul al XIX-lea în stil neorenascentist.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cinema Rosental",
-                  "text": "Centru cultural situat într-o clădire istorică, oferind un program variat de cinema, teatru și evenimente locale.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.63917,
+                        47.25
+                  ]
             },
             {
                   "name": "Muzeul Viticulturii",
                   "text": "Localizat pe peninsula Au, muzeul documentează tradiția de 2000 de ani a cultivării viței-de-vie în regiune.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.649431,
+                        47.247531
+                  ]
             }
       ],
       "en": [
@@ -5686,49 +8346,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Wädenswil Castle",
                   "text": "The former commandry of the Order of St. John overlooks the town and now serves as an agricultural research station.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.6765,
+                        47.223
+                  ]
             },
             {
                   "name": "Reformed Church",
                   "text": "Completed in 1767, this cross-plan church is a major example of Protestant architecture, seating over 1,300 people.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.671805,
+                        47.228457
+                  ]
             },
             {
                   "name": "Lake Zurich Promenade",
                   "text": "A well-maintained lakeside path offering public swimming areas and views across the water to the Glarus Alps.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gessnerhaus",
-                  "text": "An iconic 17th-century timber-framed house closely linked to the history of the influential Gessner family.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.597868,
+                        47.279096
+                  ]
             },
             {
                   "name": "Au Peninsula",
                   "text": "A protected natural park on the lake featuring walking trails, the small Ausee lake, and local vineyards.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.646111,
+                        47.249167
+                  ]
             },
             {
                   "name": "Au Castle",
                   "text": "This Neo-Renaissance manor house on the peninsula was built in the 19th century on a site with medieval roots.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cinema Rosental",
-                  "text": "A cultural center housed in a historic building, hosting a variety of independent films, plays, and concerts.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.63917,
+                        47.25
+                  ]
             },
             {
                   "name": "Wine Museum",
                   "text": "Located on the Au peninsula, it documents the 2,000-year history of viticulture around Lake Zurich.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.649431,
+                        47.247531
+                  ]
             }
       ]
 }
@@ -5737,178 +8409,210 @@ export const poiExtraAtChMissingV1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Reformierte Kirche St. Laurentius",
-                  "text": "Die reformierte Kirche St. Laurentius prägt mit ihrem markanten Turm das Stadtbild und bietet eine prachtvolle Aussicht über das Zürcher Unterland.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
                   "name": "Historische Altstadt Bülach",
                   "text": "Die mittelalterliche Altstadt von Bülach besticht durch gut erhaltene Fachwerkhäuser, charmante Gassen und historische Brunnenanlagen.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541236,
+                        47.518721
+                  ]
             },
             {
                   "name": "Rathaus Bülach",
                   "text": "Das 1672 erbaute Rathaus ist ein architektonisches Juwel der Spätrenaissance mit einer beeindruckenden Fassade und einem prächtigen Festsaal.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540812,
+                        47.517034
+                  ]
             },
             {
                   "name": "Museum Bülach",
                   "text": "Im historischen Zehntenhaus untergebracht, zeigt das Museum eine vielfältige Sammlung zur lokalen Geschichte, Handwerk und Alltagskultur.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.589119,
+                        47.453552
+                  ]
             },
             {
                   "name": "Sigristenkeller",
                   "text": "Dieser historische Keller dient heute als bedeutendes Kulturzentrum für Kunstausstellungen, Konzerte und Kleinkunstveranstaltungen.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bülacher Wochenmarkt",
-                  "text": "Der traditionelle Markt in der Altstadt bietet regionale Spezialitäten und frisches Gemüse und ist ein beliebter Treffpunkt für Einheimische.",
-                  "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540619,
+                        47.516819
+                  ]
             },
             {
                   "name": "Bülacher Aussichtsturm",
                   "text": "Der hölzerne Aussichtsturm im Hardwald bietet einen spektakulären Rundblick auf die Alpen, den Schwarzwald und das Zürcher Unterland.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.552035,
+                        47.46137
+                  ]
             }
       ],
       "hu": [
             {
-                  "name": "Szent Lőrinc református templom",
-                  "text": "A Szent Lőrinc református templom jellegzetes tornyával uralja a városképet, és pazar kilátást nyújt a zürichi vidékre.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
                   "name": "Bülach történelmi óvárosa",
                   "text": "Bülach középkori óvárosa jól megőrzött fagerendás házaival, bájos szűk utcáival és történelmi kútjaival nyűgözi le a látogatókat.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541236,
+                        47.518721
+                  ]
             },
             {
                   "name": "Bülachi városháza",
                   "text": "Az 1672-ben épült városháza a késő reneszánsz építészet gyöngyszeme, impozáns homlokzattal és díszes nagyteremmel rendelkezik.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540812,
+                        47.517034
+                  ]
             },
             {
                   "name": "Bülach Múzeum",
                   "text": "A történelmi tizedházban helyet kapott múzeum változatos gyűjteményt mutat be a helyi történelemről, mesterségekről és a mindennapi életről.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.589119,
+                        47.453552
+                  ]
             },
             {
                   "name": "Sigristenkeller",
                   "text": "Ez a történelmi pince ma fontos kulturális központként szolgál, művészeti kiállításoknak, koncerteknek és kabaréknek ad otthont.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bülachi heti piac",
-                  "text": "Az óváros hagyományos piaca regionális különlegességeket és friss zöldségeket kínál, a helyiek kedvelt találkozóhelye.",
-                  "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540619,
+                        47.516819
+                  ]
             },
             {
                   "name": "Bülachi kilátótorony",
                   "text": "A Hardwald erdőben található fa kilátótorony látványos panorámát kínál az Alpokra, a Fekete-erdőre és a zürichi vidékre.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.552035,
+                        47.46137
+                  ]
             }
       ],
       "ro": [
             {
-                  "name": "Biserica Reformată Sfântul Laurențiu",
-                  "text": "Biserica reformată Sfântul Laurențiu domină orizontul orașului cu turnul său înalt și oferă o panoramă superbă asupra regiunii Zurich.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
                   "name": "Centrul Istoric Bülach",
                   "text": "Centrul vechi medieval din Bülach impresionează prin casele cu cadre de lemn bine conservate, străduțele fermecătoare și fântânile istorice.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541236,
+                        47.518721
+                  ]
             },
             {
                   "name": "Primăria Bülach",
                   "text": "Primăria construită în 1672 este o bijuterie a arhitecturii renascentiste târzii, având o fațadă impresionantă și o sală de festivități superbă.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540812,
+                        47.517034
+                  ]
             },
             {
                   "name": "Muzeul Bülach",
                   "text": "Găzduit în fosta casă a zeciuielii, muzeul prezintă o colecție diversă despre istoria locală, meșteșuguri și cultura cotidiană.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.589119,
+                        47.453552
+                  ]
             },
             {
                   "name": "Sigristenkeller",
                   "text": "Această pivniță istorică servește astăzi ca un centru cultural important pentru expoziții de artă, concerte și evenimente de teatru.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Piața Săptămânală Bülach",
-                  "text": "Piața tradițională din centrul vechi oferă specialități regionale, legume proaspete și este un loc de întâlnire popular pentru localnici.",
-                  "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540619,
+                        47.516819
+                  ]
             },
             {
                   "name": "Turnul de Observație Bülach",
                   "text": "Turnul de observație din lemn din pădurea Hardwald oferă o vedere panoramică spectaculoasă asupra Alpilor și a Pădurii Negre.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.552035,
+                        47.46137
+                  ]
             }
       ],
       "en": [
             {
-                  "name": "St. Laurentius Reformed Church",
-                  "text": "St. Laurentius Church is a landmark of the old town, featuring a prominent tower that offers sweeping views of the Zurich lowlands.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
                   "name": "Bülach Old Town",
                   "text": "Bülach's medieval old town is famous for its well-preserved half-timbered houses, charming narrow alleys, and historic public fountains.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.541236,
+                        47.518721
+                  ]
             },
             {
                   "name": "Bülach Town Hall",
                   "text": "Built in 1672, the Town Hall is a late Renaissance architectural gem featuring an impressive facade and a magnificent ceremonial hall.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540812,
+                        47.517034
+                  ]
             },
             {
                   "name": "Museum Bülach",
                   "text": "Housed in a historic tithe barn, the museum displays a diverse collection related to local history, traditional crafts, and daily life.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.589119,
+                        47.453552
+                  ]
             },
             {
                   "name": "Sigristenkeller",
                   "text": "This historic cellar now functions as a vibrant cultural center hosting art exhibitions, concerts, and various small-scale performances.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bülach Weekly Market",
-                  "text": "The traditional weekly market in the old town offers regional specialties and fresh produce, serving as a popular local meeting spot.",
-                  "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.540619,
+                        47.516819
+                  ]
             },
             {
                   "name": "Bülach Observation Tower",
                   "text": "The wooden observation tower in the Hardwald forest offers spectacular panoramic views of the Alps, the Black Forest, and the Zurich area.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.552035,
+                        47.46137
+                  ]
             }
       ]
 }
@@ -5920,37 +8624,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Glattpark mit See",
                   "text": "Das moderne Naherholungsgebiet Glattpark bietet einen künstlichen See, weitläufige Liegewiesen und zeitgenössische Architektur am Stadtrand.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Ortsmuseum Opfikon",
-                  "text": "Das Museum vermittelt spannende Einblicke in die Entwicklung vom ländlichen Dorf zum modernen städtischen Zentrum von Opfikon-Glattbrugg.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.557521,
+                        47.431262
+                  ]
             },
             {
                   "name": "Reformierte Kirche Opfikon",
                   "text": "Die schlichte, elegante Kirche im alten Dorfkern ist ein Ort der Ruhe und spiegelt die traditionelle Zürcher Kirchenbaukunst wider.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.570099,
+                        47.42881
+                  ]
             },
             {
                   "name": "Glatt-Promenade",
                   "text": "Der idyllische Weg entlang des Flusses Glatt lädt zum Spazierengehen, Radfahren und Beobachten der lokalen Flora und Fauna ein.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.564479,
+                        47.421893
+                  ]
             },
             {
                   "name": "Freibad Au",
                   "text": "Das Freibad an der Glatt ist ein beliebtes Ziel für Familien und bietet verschiedene Becken sowie Sportanlagen im Grünen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Alte Kanzlei",
-                  "text": "Das historische Gebäude im alten Dorfkern von Opfikon zeugt von der administrativen Vergangenheit der Gemeinde und ist architektonisch bedeutend.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.571119,
+                        47.408474
+                  ]
             }
       ],
       "hu": [
@@ -5958,37 +8666,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Glattpark tóval",
                   "text": "A modern Glattpark üdülőövezet mesterséges tóval, tágas napozópázsittal és kortárs építészettel várja a látogatókat a város szélén.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Opfikoni Helytörténeti Múzeum",
-                  "text": "A múzeum izgalmas betekintést nyújt abba, hogyan vált Opfikon-Glattbrugg mezőgazdasági faluból modern városi központtá.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.557521,
+                        47.431262
+                  ]
             },
             {
                   "name": "Opfikoni református templom",
                   "text": "Az ófalu központjában álló egyszerű, elegáns templom a nyugalom szigete, és a hagyományos zürichi templomépítészetet tükrözi.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.570099,
+                        47.42881
+                  ]
             },
             {
                   "name": "Glatt-sétány",
                   "text": "A Glatt-folyó menti idilli ösvény sétálásra, kerékpározásra, valamint a helyi növény- és állatvilág megfigyelésére hívogat.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.564479,
+                        47.421893
+                  ]
             },
             {
                   "name": "Au szabadidős strand",
                   "text": "A Glatt-parti strand népszerű célpont a családok számára, különféle medencékkel és zöldövezeti sportpályákkal várja a vendégeket.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Régi kancellária",
-                  "text": "Opfikon ófalu központjában található történelmi épület a közösség közigazgatási múltjáról tanúskodik, építészetileg is jelentős.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.571119,
+                        47.408474
+                  ]
             }
       ],
       "ro": [
@@ -5996,37 +8708,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Glattpark și Lacul",
                   "text": "Zona modernă de recreere Glattpark oferă un lac artificial, peluze vaste și arhitectură contemporană la marginea orașului.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Muzeul Local Opfikon",
-                  "text": "Muzeul oferă perspective fascinante asupra evoluției de la un sat rural la centrul urban modern care este astăzi Opfikon-Glattbrugg.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.557521,
+                        47.431262
+                  ]
             },
             {
                   "name": "Biserica Reformată Opfikon",
                   "text": "Biserica simplă și elegantă din vechiul nucleu al satului este un loc de liniște și reflectă arhitectura religioasă tradițională din Zurich.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.570099,
+                        47.42881
+                  ]
             },
             {
                   "name": "Promenada Glatt",
                   "text": "Poteca idilică de-a lungul râului Glatt este ideală pentru plimbări, ciclism și observarea florei și faunei locale.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.564479,
+                        47.421893
+                  ]
             },
             {
                   "name": "Ștrandul Au",
                   "text": "Ștrandul de pe malul râului Glatt este o destinație populară pentru familii, oferind diverse bazine și facilități sportive în natură.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Vechea Cancelarie",
-                  "text": "Clădirea istorică din vechiul centru al satului Opfikon atestă trecutul administrativ al comunității și are o importanță arhitecturală.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.571119,
+                        47.408474
+                  ]
             }
       ],
       "en": [
@@ -6034,37 +8750,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Glattpark and Lake",
                   "text": "The modern Glattpark recreation area features a man-made lake, extensive lawns, and contemporary architecture on the outskirts of the city.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Opfikon Local Museum",
-                  "text": "The local museum provides fascinating insights into Opfikon's transformation from a rural village into a modern urban center.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.557521,
+                        47.431262
+                  ]
             },
             {
                   "name": "Opfikon Reformed Church",
                   "text": "This simple and elegant church in the old village center is a place of peace, reflecting traditional Zurich ecclesiastical architecture.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.570099,
+                        47.42881
+                  ]
             },
             {
                   "name": "Glatt Promenade",
                   "text": "The idyllic path along the Glatt river is perfect for walking and cycling while observing the local flora and fauna.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.564479,
+                        47.421893
+                  ]
             },
             {
                   "name": "Au Public Pool",
                   "text": "This public pool by the Glatt river is a popular family destination, featuring various pools and sports facilities in a green setting.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Old Chancellery",
-                  "text": "This historic building in Opfikon's old village center bears witness to the community's administrative past and is architecturally significant.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.571119,
+                        47.408474
+                  ]
             }
       ]
 }
@@ -6076,49 +8796,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Fondation Pierre Gianadda",
                   "text": "Eines der bedeutendsten Kunstmuseen der Schweiz, erbaut über römischen Ruinen, mit erstklassigen Wechselausstellungen und einem Skulpturenpark.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.0708,
+                        46.09513
+                  ]
             },
             {
                   "name": "Château de la Bâtiaz",
                   "text": "Diese mittelalterliche Festung aus dem 13. Jahrhundert thront auf einem Felsen über der Stadt und bietet einen herrlichen Panoramablick auf das Rhonetal.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.06925,
+                        46.105
+                  ]
             },
             {
                   "name": "Barryland - Musée et Chiens du Saint-Bernard",
                   "text": "Ein lebendiges Museum, das den berühmten Bernhardinerhunden gewidmet ist, inklusive historischer Exponate und Begegnungen mit den Tieren.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.074068,
+                        46.095216
+                  ]
             },
             {
                   "name": "Amphithéâtre romain",
                   "text": "Ein gut erhaltenes römisches Amphitheater aus dem 2. Jahrhundert, das heute für kulturelle Veranstaltungen und historische Besichtigungen genutzt wird.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.073432,
+                        46.094354
+                  ]
             },
             {
                   "name": "Place Centrale",
                   "text": "Das lebendige Herz von Martigny, gesäumt von Cafés, Restaurants und historischen Gebäuden, ideal zum Beobachten des städtischen Treibens.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.072975,
+                        46.101315
+                  ]
             },
             {
                   "name": "Église Notre-Dame de la Visitation",
                   "text": "Die spätgotische Pfarrkirche beeindruckt mit ihrem markanten Glockenturm und einer reichen Innenausstattung aus der Barockzeit.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Le Manoir de la Ville",
-                  "text": "Ein historisches Herrenhaus, das heute als Kulturzentrum dient und wechselnde Ausstellungen zeitgenössischer Kunst in authentischem Ambiente zeigt.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.073745,
+                        46.100628
+                  ]
             },
             {
                   "name": "Moulin Semblanet",
                   "text": "Eine voll funktionsfähige historische Mühle aus dem 19. Jahrhundert, die Einblicke in die traditionelle Handwerkskunst der Region bietet.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.06213,
+                        46.090585
+                  ]
             }
       ],
       "hu": [
@@ -6126,49 +8868,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Fondation Pierre Gianadda",
                   "text": "Svájc egyik legfontosabb művészeti múzeuma, amely római romokra épült, világhírű időszaki kiállításokkal és szoborparkkal várja a látogatókat.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.0708,
+                        46.09513
+                  ]
             },
             {
                   "name": "Château de la Bâtiaz",
                   "text": "Ez a 13. századi középkori vár egy sziklán trónol a város felett, ahonnan lenyűgöző panoráma nyílik a Rhône-völgyére.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.06925,
+                        46.105
+                  ]
             },
             {
                   "name": "Barryland - Musée et Chiens du Saint-Bernard",
                   "text": "A híres mentőkutyáknak, a bernáthegyieknek szentelt interaktív múzeum, ahol megismerhető a fajta története és az élő állatok is megtekinthetők.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.074068,
+                        46.095216
+                  ]
             },
             {
                   "name": "Római amfiteátrum",
                   "text": "Egy jó állapotban fennmaradt, 2. századi római amfiteátrum, amely ma kulturális eseményeknek és történelmi túráknak ad otthont.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.073432,
+                        46.094354
+                  ]
             },
             {
                   "name": "Place Centrale",
                   "text": "Martigny pezsgő központi tere, amelyet hangulatos kávézók, éttermek és történelmi épületek öveznek a város szívében.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.072975,
+                        46.101315
+                  ]
             },
             {
                   "name": "Sarlós Boldogasszony-templom",
                   "text": "Késő gótikus plébániatemplom, amely lenyűgöző harangtornyáról és gazdag barokk belső díszítéséről ismert.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Le Manoir de la Ville",
-                  "text": "Történelmi kúria, amely ma kulturális központként működik, kortárs művészeti kiállításoknak biztosítva különleges helyszínt.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.073745,
+                        46.100628
+                  ]
             },
             {
                   "name": "Moulin Semblanet",
                   "text": "Egy teljesen működőképes, 19. századi történelmi malom, amely bemutatja a régió hagyományos kézműves technikáit.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.06213,
+                        46.090585
+                  ]
             }
       ],
       "ro": [
@@ -6176,49 +8940,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Fundația Pierre Gianadda",
                   "text": "Unul dintre cele mai importante muzee de artă din Elveția, construit peste ruine romane, cu expoziții de talie mondială și un parc de sculpturi.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.0708,
+                        46.09513
+                  ]
             },
             {
                   "name": "Castelul Bâtiaz",
                   "text": "Această cetate medievală din secolul al XIII-lea domină orașul de pe o stâncă, oferind o vedere panoramică superbă asupra văii Ronului.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.06925,
+                        46.105
+                  ]
             },
             {
                   "name": "Barryland - Muzeul Câinilor Saint-Bernard",
                   "text": "Un muzeu viu dedicat faimoșilor câini Saint-Bernard, oferind exponate istorice și ocazia de a vedea aceste animale nobile de aproape.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.074068,
+                        46.095216
+                  ]
             },
             {
                   "name": "Amfiteatrul Roman",
                   "text": "Un amfiteatru roman bine conservat din secolul al II-lea, folosit astăzi pentru evenimente culturale și vizite istorice.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.073432,
+                        46.094354
+                  ]
             },
             {
                   "name": "Place Centrale",
                   "text": "Inima vibrantă a orașului Martigny, mărginită de cafenele, restaurante și clădiri istorice, ideală pentru a simți atmosfera locală.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.072975,
+                        46.101315
+                  ]
             },
             {
                   "name": "Biserica Notre-Dame de la Visitation",
                   "text": "Biserica parohială în stil gotic târziu, impresionantă prin clopotnița sa masivă și interiorul baroc bogat decorat.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Le Manoir de la Ville",
-                  "text": "Un conac istoric transformat în centru cultural, care găzduiește expoziții de artă contemporană într-un cadru autentic.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.073745,
+                        46.100628
+                  ]
             },
             {
                   "name": "Moara Semblanet",
                   "text": "O moară istorică din secolul al XIX-lea, complet funcțională, care ilustrează tehnicile tradiționale de morărit ale regiunii.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.06213,
+                        46.090585
+                  ]
             }
       ],
       "en": [
@@ -6226,49 +9012,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Pierre Gianadda Foundation",
                   "text": "One of Switzerland's most important art museums, built over Roman ruins, featuring world-class exhibitions and a beautiful sculpture park.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.0708,
+                        46.09513
+                  ]
             },
             {
                   "name": "Bâtiaz Castle",
                   "text": "This 13th-century medieval fortress perched on a rock above the city offers a magnificent panoramic view of the Rhone Valley.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.06925,
+                        46.105
+                  ]
             },
             {
                   "name": "Barryland - Saint-Bernard Museum",
                   "text": "A lively museum dedicated to the famous Saint Bernard dogs, including historical exhibits and the opportunity to meet the animals.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.074068,
+                        46.095216
+                  ]
             },
             {
                   "name": "Roman Amphitheatre",
                   "text": "A well-preserved 2nd-century Roman arena that is still used today for cultural performances and historical exploration.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.073432,
+                        46.094354
+                  ]
             },
             {
                   "name": "Place Centrale",
                   "text": "The vibrant heart of Martigny, lined with terraces, restaurants, and historic townhouses, perfect for a relaxing stroll.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.072975,
+                        46.101315
+                  ]
             },
             {
                   "name": "Church of Notre-Dame de la Visitation",
                   "text": "A late-Gothic parish church notable for its impressive bell tower and richly decorated Baroque interior elements.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Le Manoir de la Ville",
-                  "text": "An elegant historic mansion now serving as a cultural hub for temporary contemporary art exhibitions and local events.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.073745,
+                        46.100628
+                  ]
             },
             {
                   "name": "Semblanet Mill",
                   "text": "A fully operational 19th-century water mill that showcases the traditional milling crafts and regional agricultural history.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.06213,
+                        46.090585
+                  ]
             }
       ]
 }
@@ -6280,37 +9088,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Griespark",
                   "text": "Die grüne Lunge von Volketswil bietet weitläufige Spazierwege, Sportanlagen und Erholungsflächen für alle Altersgruppen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.684774,
+                        47.386199
+                  ]
             },
             {
                   "name": "Reformierte Kirche Volketswil",
                   "text": "Eine schlichte, historisch bedeutende Dorfkirche im Herzen der Gemeinde, die den Mittelpunkt des alten Dorfkerns bildet.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.676907,
+                        47.36493
+                  ]
             },
             {
                   "name": "Milandia Migros Sport- und Erlebnispark",
                   "text": "Ein großes Freizeitzentrum mit Kletterwänden, Pools und Golfplätzen, das ein beliebtes Ausflugsziel in der Region Greifensee ist.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Heimatmuseum Volketswil",
-                  "text": "Ein lokales Museum, das das bäuerliche Leben und die handwerkliche Geschichte des Glatttals anschaulich dokumentiert.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.671177,
+                        47.376744
+                  ]
             },
             {
                   "name": "Wallberg",
                   "text": "Ein sanfter Hügel, der als lokales Naherholungsgebiet dient und schöne Ausblicke über die umliegende Zürcher Landschaft bietet.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.686651,
+                        47.389541
+                  ]
             },
             {
                   "name": "Kultur- und Sportzentrum Gries",
                   "text": "Das moderne Zentrum für lokale Veranstaltungen, Konzerte und sportliche Wettbewerbe in der Gemeinde Volketswil.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.680459,
+                        47.38548
+                  ]
             }
       ],
       "hu": [
@@ -6318,37 +9140,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Griespark",
                   "text": "Volketswil zöld szíve, amely tágas sétányokat, sportpályákat és pihenőhelyeket kínál minden korosztály számára.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.684774,
+                        47.386199
+                  ]
             },
             {
                   "name": "Volketswili református templom",
                   "text": "Egyszerű, történelmi jelentőségű falusi templom a közösség szívében, amely a régi falu központját jelöli.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.676907,
+                        47.36493
+                  ]
             },
             {
                   "name": "Milandia szabadidőközpont",
                   "text": "Hatalmas sport- és élménypark falmászással, úszómedencékkel és golfpályákkal a Greifensee régió szomszédságában.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Volketswili Helytörténeti Múzeum",
-                  "text": "Helyi múzeum, amely a Glatt-völgy paraszti életét és kézműves hagyományait mutatja be autentikus módon.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.671177,
+                        47.376744
+                  ]
             },
             {
                   "name": "Wallberg",
                   "text": "Egy szelíd domb, amely kedvelt kirándulóhely, és szép kilátást nyújt a környező zürichi tájra.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.686651,
+                        47.389541
+                  ]
             },
             {
                   "name": "Gries Kulturális és Sportközpont",
                   "text": "A közösségi élet központja, amely koncerteknek, helyi rendezvényeknek és sporteseményeknek ad otthont.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.680459,
+                        47.38548
+                  ]
             }
       ],
       "ro": [
@@ -6356,37 +9192,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Parcul Gries",
                   "text": "Plămânul verde din Volketswil oferă alei largi de plimbare, facilități sportive și spații de recreere pentru locuitori.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.684774,
+                        47.386199
+                  ]
             },
             {
                   "name": "Biserica Reformată Volketswil",
                   "text": "O biserică istorică simplă, situată în inima comunității, reprezentând centrul vechi al satului de altădată.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.676907,
+                        47.36493
+                  ]
             },
             {
                   "name": "Milandia - Parcul Sportiv Migros",
                   "text": "Un centru mare de recreere cu panouri de escaladă, piscine și terenuri de golf, popular în regiunea Greifensee.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Muzeul de Istorie Locală Volketswil",
-                  "text": "Un muzeu local care documentează viața rurală și istoria meșteșugurilor tradiționale din valea râului Glatt.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.671177,
+                        47.376744
+                  ]
             },
             {
                   "name": "Dealul Wallberg",
                   "text": "O zonă de agrement locală care oferă priveliști frumoase asupra peisajului înconjurător din cantonul Zürich.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.686651,
+                        47.389541
+                  ]
             },
             {
                   "name": "Centrul Cultural și Sportiv Gries",
                   "text": "Un spațiu modern multifuncțional folosit pentru evenimente locale, concerte și competiții sportive comunitare.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.680459,
+                        47.38548
+                  ]
             }
       ],
       "en": [
@@ -6394,37 +9244,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Griespark",
                   "text": "The green heart of Volketswil, offering extensive walking paths, sports facilities, and relaxation areas for all ages.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.684774,
+                        47.386199
+                  ]
             },
             {
                   "name": "Reformed Church Volketswil",
                   "text": "A simple yet historically significant village church that marks the center of the original old town settlement.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.676907,
+                        47.36493
+                  ]
             },
             {
                   "name": "Milandia Leisure Park",
                   "text": "A large Migros-operated sports and experience park featuring climbing walls, pools, and golf facilities near Greifensee.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Heimatmuseum Volketswil",
-                  "text": "A local history museum showcasing the rural life and traditional craftsmanship of the Glatt Valley region.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.671177,
+                        47.376744
+                  ]
             },
             {
                   "name": "Wallberg",
                   "text": "A scenic hill serving as a local recreational area with pleasant views over the surrounding Zurich countryside.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.686651,
+                        47.389541
+                  ]
             },
             {
                   "name": "Gries Cultural and Sports Centre",
                   "text": "The community's modern hub for local events, theater performances, concerts, and various sports competitions.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.680459,
+                        47.38548
+                  ]
             }
       ]
 }
@@ -6436,61 +9300,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Ruine Stein",
                   "text": "Die mittelalterliche Festungsruine thront markant über der Stadt und bietet einen weiten Panoramablick auf die Limmatschleife.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.305254,
+                        47.473305
+                  ]
             },
             {
                   "name": "Landvogteischloss",
                   "text": "Das historische Schloss am Limmatufer beherbergt heute das Historische Museum Baden und zeigt die reiche Stadtgeschichte.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.31099,
+                        47.47286
+                  ]
             },
             {
                   "name": "Stadtturm",
                   "text": "Das markante Wahrzeichen am nördlichen Eingang zur Altstadt diente einst als Gefängnis und ist heute ein geschütztes Denkmal.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.306632,
+                        47.474091
+                  ]
             },
             {
                   "name": "Museum Langmatt",
                   "text": "In der herrschaftlichen Villa der Familie Brown-Boveri wird eine bedeutende Sammlung französischer Impressionisten ausgestellt.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.307535,
+                        47.481383
+                  ]
             },
             {
                   "name": "Grand Casino Baden",
                   "text": "Das prachtvolle Gebäude im Kurpark vereint historische Architektur mit modernem Spielvergnügen und eleganter Atmosphäre.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.309729,
+                        47.478104
+                  ]
             },
             {
                   "name": "Kurpark",
                   "text": "Die weitläufige, gepflegte Parkanlage lädt zum Spaziergang ein und bildet das grüne Herz des Bäderquartiers von Baden.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.309689,
+                        47.478405
+                  ]
             },
             {
                   "name": "Holzbrücke",
                   "text": "Die gedeckte Brücke über die Limmat verbindet die Altstadt mit dem Schlossberg und ist ein Meisterwerk alter Zimmermannskunst.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310637,
+                        47.472695
+                  ]
             },
             {
                   "name": "Schweizer Kindermuseum",
                   "text": "In einem herrschaftlichen Haus wird die Geschichte der Kindheit und des Spielzeugs über mehrere Jahrhunderte spielerisch gezeigt.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.30777,
+                        47.46967
+                  ]
             },
             {
                   "name": "Dreikönigskapelle",
                   "text": "Die spätgotische Kapelle aus dem 15. Jahrhundert besticht durch ihre gut erhaltene Architektur und religiöse Bedeutung.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Altstadt",
-                  "text": "Das mittelalterliche Zentrum von Baden besticht durch schmale Gassen, historische Fassaden und einen sehr gut erhaltenen Stadtkern.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.3126,
+                        47.48105
+                  ]
             }
       ],
       "hu": [
@@ -6498,61 +9392,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Stein várrom",
                   "text": "A város felett trónoló középkori erődrom lenyűgöző panorámát kínál a Limmat folyó kanyarulatára és az óvárosra.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.305254,
+                        47.473305
+                  ]
             },
             {
                   "name": "Landvogtei-kastély",
                   "text": "A Limmat partján álló történelmi kastély ma a Badeni Történeti Múzeumnak ad otthont, bemutatva a város múltját.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.31099,
+                        47.47286
+                  ]
             },
             {
                   "name": "Várostorony",
                   "text": "Az óváros északi bejáratánál álló jellegzetes torony egykor börtönként szolgált, ma védett műemlék.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.306632,
+                        47.474091
+                  ]
             },
             {
                   "name": "Langmatt Múzeum",
                   "text": "A Brown-Boveri család egykori villájában berendezett múzeum jelentős francia impresszionista gyűjteményt mutat be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.307535,
+                        47.481383
+                  ]
             },
             {
                   "name": "Grand Casino Baden",
                   "text": "A Kurpark területén található impozáns épület a történelmi eleganciát ötvözi a modern szerencsejáték világával.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.309729,
+                        47.478104
+                  ]
             },
             {
                   "name": "Kurpark",
                   "text": "A kiterjedt, gondozott parkrendszer Baden fürdőnegyedének zöld szíve, amely ideális a pihentető sétákhoz.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.309689,
+                        47.478405
+                  ]
             },
             {
                   "name": "Fahíd",
                   "text": "A Limmat felett átívelő fedett fahíd az óvárost köti össze a Schlossberggel, a régi ácsmesterség remekműve.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310637,
+                        47.472695
+                  ]
             },
             {
                   "name": "Svájci Gyermekmúzeum",
                   "text": "Egy patinás épületben berendezett kiállítás, amely a gyerekkor és a játékok történetét mutatja be több évszázadon át.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.30777,
+                        47.46967
+                  ]
             },
             {
                   "name": "Háromkirályok-kápolna",
                   "text": "A 15. századi késő gótikus kápolna különleges vallási jelentőséggel és szépen megőrzött építészeti elemekkel bír.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Óváros",
-                  "text": "Baden középkori központja szűk utcáival és történelmi homlokzataival Svájc egyik legjobban megőrzött városmagja.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.3126,
+                        47.48105
+                  ]
             }
       ],
       "ro": [
@@ -6560,61 +9484,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Ruina Stein",
                   "text": "Ruina fortificației medievale domină orașul și oferă o vedere panoramică spectaculoasă asupra văii râului Limmat.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.305254,
+                        47.473305
+                  ]
             },
             {
                   "name": "Castelul Landvogteischloss",
                   "text": "Situat pe malul râului Limmat, acest castel istoric găzduiește astăzi Muzeul de Istorie din Baden.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.31099,
+                        47.47286
+                  ]
             },
             {
                   "name": "Turnul Orașului",
                   "text": "Simbolul marcant de la intrarea de nord a centrului vechi a servit în trecut drept închisoare și este monument protejat.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.306632,
+                        47.474091
+                  ]
             },
             {
                   "name": "Muzeul Langmatt",
                   "text": "Vila somptuoasă a familiei Brown-Boveri expune o colecție importantă de opere ale impresioniștilor francezi.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.307535,
+                        47.481383
+                  ]
             },
             {
                   "name": "Marele Cazinou Baden",
                   "text": "Clădirea magnifică din Kurpark îmbină arhitectura istorică cu divertismentul modern într-o atmosferă elegantă.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.309729,
+                        47.478104
+                  ]
             },
             {
                   "name": "Kurpark",
                   "text": "Acest parc spațios și bine întreținut reprezintă inima verde a cartierului balnear din orașul Baden.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.309689,
+                        47.478405
+                  ]
             },
             {
                   "name": "Podul de lemn",
                   "text": "Podul acoperit peste râul Limmat leagă orașul vechi de Schlossberg, fiind o capodoperă a tâmplăriei vechi.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310637,
+                        47.472695
+                  ]
             },
             {
                   "name": "Muzeul Elvețian al Copiilor",
                   "text": "Într-o casă boierească este prezentată istoria copilăriei și a jucăriilor de-a lungul mai multor secole.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.30777,
+                        47.46967
+                  ]
             },
             {
                   "name": "Capela celor Trei Regi",
                   "text": "Capela în stil gotic târziu din secolul al XV-lea impresionează prin arhitectura sa conservată și importanța religioasă.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Centrul Vechi",
-                  "text": "Nucleul medieval al orașului Baden atrage prin străduțele înguste și fațadele istorice extrem de bine conservate.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.3126,
+                        47.48105
+                  ]
             }
       ],
       "en": [
@@ -6622,61 +9576,91 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Stein Castle Ruins",
                   "text": "The medieval fortress ruins tower over the city, offering wide panoramic views of the Limmat river loop.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.305254,
+                        47.473305
+                  ]
             },
             {
                   "name": "Landvogtei Castle",
                   "text": "This historical castle on the banks of the Limmat now houses the Baden Historical Museum and shows the city's past.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.31099,
+                        47.47286
+                  ]
             },
             {
                   "name": "City Tower",
                   "text": "The striking landmark at the northern entrance to the old town once served as a prison and is now a protected monument.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.306632,
+                        47.474091
+                  ]
             },
             {
                   "name": "Museum Langmatt",
                   "text": "Housed in the stately villa of the Brown-Boveri family, this museum displays an important collection of French Impressionists.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.307535,
+                        47.481383
+                  ]
             },
             {
                   "name": "Grand Casino Baden",
                   "text": "The magnificent building in the Kurpark combines historical architecture with modern gaming and an elegant atmosphere.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.309729,
+                        47.478104
+                  ]
             },
             {
                   "name": "Kurpark",
                   "text": "The extensive, well-kept park invites visitors for walks and forms the green heart of Baden's spa district.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.309689,
+                        47.478405
+                  ]
             },
             {
                   "name": "Wooden Bridge",
                   "text": "The covered bridge over the Limmat connects the old town with the Schlossberg and is a masterpiece of old carpentry.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.310637,
+                        47.472695
+                  ]
             },
             {
                   "name": "Swiss Children's Museum",
                   "text": "In a stately house, the history of childhood and toys over several centuries is shown in a playful way.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.30777,
+                        47.46967
+                  ]
             },
             {
                   "name": "Three Kings Chapel",
                   "text": "The late Gothic chapel from the 15th century stands out for its well-preserved architecture and religious significance.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Old Town",
-                  "text": "Baden's medieval center features narrow streets, historic facades, and one of Switzerland's best-preserved urban cores.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.3126,
+                        47.48105
+                  ]
             }
       ]
 }
@@ -6688,31 +9672,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Parc des Evaux",
                   "text": "Die grösste Grünanlage der Region bietet zahlreiche Sportmöglichkeiten, Spielplätze und weite Wiesen direkt an der Rhone.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.091799,
+                        46.188765
+                  ]
             },
             {
                   "name": "Mairie d'Onex",
                   "text": "Das repräsentative Gemeindehaus ist der administrative Mittelpunkt und ein wichtiges historisches Bauwerk der Ortschaft.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.141053,
+                        46.201401
+                  ]
             },
             {
                   "name": "Kirche Saint-Martin",
                   "text": "Die schlichte, aber würdevolle Pfarrkirche bildet den spirituellen Kern des alten Dorfkerns von Onex.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.100433,
+                        46.184052
+                  ]
             },
             {
                   "name": "Spectacle d'Onex",
                   "text": "Dieses kulturelle Zentrum ist bekannt für seine Theateraufführungen, Konzerte und das Festival Les Créatives.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.099526,
+                        46.185411
+                  ]
             },
             {
                   "name": "Parc de l'Auberge",
                   "text": "Eine charmante lokale Parkanlage, die Ruhe im urbanen Raum bietet und ideal für kurze Erholungspausen ist.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.097963,
+                        46.182796
+                  ]
             }
       ],
       "hu": [
@@ -6720,31 +9724,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Parc des Evaux",
                   "text": "A régió legnagyobb zöldterülete számos sportolási lehetőséget és játszóteret kínál közvetlenül a Rhone folyó partján.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.091799,
+                        46.188765
+                  ]
             },
             {
                   "name": "Mairie d'Onex",
                   "text": "A reprezentatív városháza a település adminisztratív központja és egyben jelentős történelmi épülete.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.141053,
+                        46.201401
+                  ]
             },
             {
                   "name": "Szent Márton-templom",
                   "text": "Az egyszerű, de méltóságteljes plébániatemplom Onex régi falusi központjának spirituális magját alkotja.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.100433,
+                        46.184052
+                  ]
             },
             {
                   "name": "Spectacle d'Onex",
                   "text": "Ez a kulturális központ színházi előadásairól, koncertjeiről és a Les Créatives fesztiválról ismert.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.099526,
+                        46.185411
+                  ]
             },
             {
                   "name": "Parc de l'Auberge",
                   "text": "Bájos helyi park, amely nyugalmat kínál a városi környezetben, ideális rövid pihenőkre a mindennapokban.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.097963,
+                        46.182796
+                  ]
             }
       ],
       "ro": [
@@ -6752,31 +9776,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Parcul des Evaux",
                   "text": "Cea mai mare zonă verde din regiune oferă numeroase facilități sportive și locuri de joacă pe malul Ronului.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.091799,
+                        46.188765
+                  ]
             },
             {
                   "name": "Primăria din Onex",
                   "text": "Clădirea reprezentativă a primăriei este centrul administrativ și un edificiu istoric important al localității.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.141053,
+                        46.201401
+                  ]
             },
             {
                   "name": "Biserica Saint-Martin",
                   "text": "Această biserică parohială simplă, dar demnă, formează nucleul spiritual al vechiului sat Onex.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.100433,
+                        46.184052
+                  ]
             },
             {
                   "name": "Centrul Cultural Onex",
                   "text": "Cunoscut pentru spectacolele de teatru și concerte, acest centru este un pilon important al vieții culturale locale.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.099526,
+                        46.185411
+                  ]
             },
             {
                   "name": "Parcul de l'Auberge",
                   "text": "Un parc local fermecător care oferă liniște în spațiul urban, fiind ideal pentru scurte pauze de recreere.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.097963,
+                        46.182796
+                  ]
             }
       ],
       "en": [
@@ -6784,31 +9828,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Parc des Evaux",
                   "text": "The region's largest green space offers numerous sports facilities and playgrounds directly on the banks of the Rhone.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.091799,
+                        46.188765
+                  ]
             },
             {
                   "name": "Onex Town Hall",
                   "text": "The representative municipal building is the administrative center and an important historical structure of the town.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.141053,
+                        46.201401
+                  ]
             },
             {
                   "name": "Saint-Martin Church",
                   "text": "The simple yet dignified parish church forms the spiritual core of the old village center of Onex.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.100433,
+                        46.184052
+                  ]
             },
             {
                   "name": "Spectacle d'Onex",
                   "text": "This cultural center is well-known for its theater performances, concerts, and the Les Créatives festival.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.099526,
+                        46.185411
+                  ]
             },
             {
                   "name": "Parc de l'Auberge",
                   "text": "A charming local park that offers peace in the urban environment, ideal for short breaks during the day.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.097963,
+                        46.182796
+                  ]
             }
       ]
 }
@@ -6820,49 +9884,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Luftseilbahn Adliswil-Felsenegg",
                   "text": "Die einzige Luftseilbahn im Kanton Zürich führt von Adliswil in fünf Minuten direkt auf die Felsenegg.",
                   "category": "viewpoint",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Aussichtspunkt Felsenegg",
-                  "text": "Ein beliebter Aussichtspunkt auf 800 Metern Höhe mit Panoramablick über den Zürichsee und die Alpen.",
-                  "category": "viewpoint",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.52004,
+                        47.313166
+                  ]
             },
             {
                   "name": "Wildnispark Zürich Sihlwald",
                   "text": "Ein weitläufiger Naturwald und Tierpark an der Sihl, der ideal für Wanderungen und Naturbeobachtungen ist.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.55667,
+                        47.2686
+                  ]
             },
             {
                   "name": "Reformierte Kirche Adliswil",
                   "text": "Die markante Kirche im Zentrum der Stadt wurde im 19. Jahrhundert erbaut und prägt das Ortsbild.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.52747,
+                        47.3087
+                  ]
             },
             {
                   "name": "Sihlpromenade",
                   "text": "Ein entspannter Spazierweg entlang des Flusses Sihl, der durch das gesamte Stadtgebiet von Adliswil führt.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.526701,
+                        47.367507
+                  ]
             },
             {
                   "name": "Kulturschachtle",
                   "text": "Ein wichtiges kulturelles Zentrum in einem historischen Gebäude, das Konzerte und Theateraufführungen bietet.",
                   "category": "theatres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Katholische Kirche Dreifaltigkeit",
-                  "text": "Eine moderne katholische Kirche, die für ihre Architektur und die bunten Glasfenster bekannt ist.",
-                  "category": "churches",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Haus am Sihlquai",
-                  "text": "Ein historisches Wohngebäude direkt am Flussufer, das die lokale Architektur vergangener Zeiten zeigt.",
-                  "category": "famous buildings",
-                  "confidence": "medium"
+                  "confidence": "high",
+                  "coords": [
+                        8.529838,
+                        47.313247
+                  ]
             }
       ],
       "hu": [
@@ -6870,49 +9936,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Adliswil-Felsenegg kötélpálya",
                   "text": "Zürich kanton egyetlen kötélpályája, amely öt perc alatt visz fel az Adliswil feletti hegycsúcsra.",
                   "category": "viewpoint",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Felsenegg kilátópont",
-                  "text": "Népszerű kilátóhely 800 méteres magasságban, ahonnan pazar panoráma nyílik a Zürichi-tóra és az Alpokra.",
-                  "category": "viewpoint",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.52004,
+                        47.313166
+                  ]
             },
             {
                   "name": "Wildnispark Zürich Sihlwald",
                   "text": "Hatalmas természetvédelmi terület és vadaspark a Sihl folyó partján, tanösvényekkel és pihenőhelyekkel.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.55667,
+                        47.2686
+                  ]
             },
             {
                   "name": "Adliswili református templom",
                   "text": "A város központjában álló, 19. századi református templom, amely Adliswil egyik legfontosabb jelképe.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.52747,
+                        47.3087
+                  ]
             },
             {
                   "name": "Sihl-sétány",
                   "text": "Hangulatos gyalogút a Sihl folyó mentén, amely ideális futáshoz, kerékpározáshoz és kutyasétáltatáshoz.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.526701,
+                        47.367507
+                  ]
             },
             {
                   "name": "Kulturschachtle",
                   "text": "Adliswil központi kulturális helyszíne, ahol rendszeresen tartanak koncerteket, kiállításokat és előadásokat.",
                   "category": "theatres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szentháromság katolikus templom",
-                  "text": "Modern stílusú katolikus templom, amely letisztult belső teréről és művészi üvegablakairól ismert.",
-                  "category": "churches",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Sihlquai-ház",
-                  "text": "A folyóparton álló jellegzetes történelmi épület, amely megőrizte a régió hagyományos építészeti stílusát.",
-                  "category": "famous buildings",
-                  "confidence": "medium"
+                  "confidence": "high",
+                  "coords": [
+                        8.529838,
+                        47.313247
+                  ]
             }
       ],
       "ro": [
@@ -6920,49 +9988,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Telecabina Adliswil-Felsenegg",
                   "text": "Singura telecabină din cantonul Zürich, care transportă pasagerii de la Adliswil până pe Felsenegg în cinci minute.",
                   "category": "viewpoint",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Punctul de belvedere Felsenegg",
-                  "text": "Situat la 800 de metri altitudine, oferă o vedere panoramică spectaculoasă asupra lacului Zürich și Alpilor.",
-                  "category": "viewpoint",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.52004,
+                        47.313166
+                  ]
             },
             {
                   "name": "Wildnispark Zürich Sihlwald",
                   "text": "O pădure naturală vastă și parc zoologic de-a lungul râului Sihl, perfect pentru drumeții în natură.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.55667,
+                        47.2686
+                  ]
             },
             {
                   "name": "Biserica Reformată din Adliswil",
                   "text": "O clădire religioasă impunătoare din secolul al XIX-lea, situată în inima orașului Adliswil.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.52747,
+                        47.3087
+                  ]
             },
             {
                   "name": "Promenada Sihl",
                   "text": "O alee de promenadă relaxantă pe malul râului Sihl, care traversează întreaga localitate.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.526701,
+                        47.367507
+                  ]
             },
             {
                   "name": "Kulturschachtle",
                   "text": "Un centru cultural vibrant găzduit într-o clădire istorică, oferind diverse evenimente și spectacole locale.",
                   "category": "theatres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Catolică Sfânta Treime",
-                  "text": "O biserică catolică modernă, apreciată pentru designul său arhitectural contemporan și vitraliile colorate.",
-                  "category": "churches",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Casa de pe Sihlquai",
-                  "text": "O structură rezidențială istorică situată lângă râu, reprezentativă pentru arhitectura locală tradițională.",
-                  "category": "famous buildings",
-                  "confidence": "medium"
+                  "confidence": "high",
+                  "coords": [
+                        8.529838,
+                        47.313247
+                  ]
             }
       ],
       "en": [
@@ -6970,49 +10040,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Adliswil-Felsenegg Cable Car",
                   "text": "The only aerial cable car in the Canton of Zurich, taking you from Adliswil to Felsenegg in five minutes.",
                   "category": "viewpoint",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Felsenegg Viewpoint",
-                  "text": "A popular lookout at 800 meters altitude with panoramic views over Lake Zurich and the Alps.",
-                  "category": "viewpoint",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.52004,
+                        47.313166
+                  ]
             },
             {
                   "name": "Wildnispark Zurich Sihlwald",
                   "text": "A large natural forest and wildlife park along the Sihl river, ideal for hiking and wildlife spotting.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.55667,
+                        47.2686
+                  ]
             },
             {
                   "name": "Reformed Church Adliswil",
                   "text": "The prominent 19th-century church in the town center is a major local landmark and architectural feature.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.52747,
+                        47.3087
+                  ]
             },
             {
                   "name": "Sihl Promenade",
                   "text": "A scenic walking and cycling path along the Sihl river, running through the entire length of Adliswil.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.526701,
+                        47.367507
+                  ]
             },
             {
                   "name": "Kulturschachtle",
                   "text": "A key cultural venue located in a historic building, hosting concerts, theater, and community events.",
                   "category": "theatres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Catholic Church of the Holy Trinity",
-                  "text": "A modern Catholic church known for its unique architecture and beautiful contemporary stained glass.",
-                  "category": "churches",
-                  "confidence": "high"
-            },
-            {
-                  "name": "House at Sihlquai",
-                  "text": "A historic residential building located directly on the riverbank, showcasing traditional local architecture.",
-                  "category": "famous buildings",
-                  "confidence": "medium"
+                  "confidence": "high",
+                  "coords": [
+                        8.529838,
+                        47.313247
+                  ]
             }
       ]
 }
@@ -7024,49 +10096,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Monthey",
                   "text": "Das historische Schloss aus dem 14. Jahrhundert beherbergt heute das Museum von Vieux-Monthey.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.946,
+                        46.2524
+                  ]
             },
             {
                   "name": "Théâtre du Crochetan",
                   "text": "Ein bedeutendes kulturelles Zentrum des Wallis, bekannt für seine moderne Architektur und vielfältigen Aufführungen.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.948992,
+                        46.25436
+                  ]
             },
             {
                   "name": "Place Centrale",
                   "text": "Der lebendige Hauptplatz von Monthey mit Cafés, Geschäften und dem wöchentlichen Markt am Mittwoch.",
                   "category": "squares",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kirche der Unbefleckten Empfängnis",
-                  "text": "Die im 19. Jahrhundert im neoklassizistischen Stil erbaute Pfarrkirche dominiert das Stadtzentrum.",
-                  "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.947188,
+                        46.251571
+                  ]
             },
             {
                   "name": "Pont du Moulin",
                   "text": "Eine historische Holzbrücke über den Fluss Vieze, die ein charmantes Fotomotiv im alten Stadtkern darstellt.",
                   "category": "bridges",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Maison de l'Artisanat",
-                  "text": "Ein Zentrum für lokales Handwerk, das traditionelle Techniken und Produkte aus der Region präsentiert.",
-                  "category": "museums",
-                  "confidence": "medium"
-            },
-            {
-                  "name": "Parc du Cinquantenaire",
-                  "text": "Ein weitläufiger Stadtpark mit Grünflächen und Spielplätzen, der zur Erholung im Freien einlädt.",
-                  "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Les Halles de Monthey",
-                  "text": "Ein historisches Marktgebäude, das heute als Raum für Ausstellungen und gesellschaftliche Anlässe genutzt wird.",
-                  "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.017417,
+                        46.249907
+                  ]
             }
       ],
       "hu": [
@@ -7074,49 +10138,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Monthey kastélya",
                   "text": "A 14. századi történelmi várkastély ma a Vieux-Monthey helytörténeti múzeumnak ad otthont.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.946,
+                        46.2524
+                  ]
             },
             {
                   "name": "Théâtre du Crochetan",
                   "text": "Valais kanton egyik legfontosabb színháza, amely modern építészetéről és nívós előadásairól ismert.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.948992,
+                        46.25436
+                  ]
             },
             {
                   "name": "Place Centrale",
                   "text": "Monthey nyüzsgő főtere, ahol hangulatos kávézók várják a látogatókat és szerdánként hetivásárt tartanak.",
                   "category": "squares",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szeplőtelen Fogantatás templom",
-                  "text": "A város központjában álló, 19. századi neoklasszicista plébániatemplom Monthey vallási központja.",
-                  "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.947188,
+                        46.251571
+                  ]
             },
             {
                   "name": "Malom-híd (Pont du Moulin)",
                   "text": "A Vieze folyón átívelő, patinás fedett fashíd, amely a város történelmi negyedének ékköve.",
                   "category": "bridges",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Maison de l'Artisanat",
-                  "text": "A helyi kézművesség háza, ahol a régió hagyományos mesterségeit és termékeit mutatják be.",
-                  "category": "museums",
-                  "confidence": "medium"
-            },
-            {
-                  "name": "Parc du Cinquantenaire",
-                  "text": "A város legnagyobb parkja zöldterületekkel és játszóterekkel, ideális helyszín a kikapcsolódásra.",
-                  "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Monthey vásárcsarnoka",
-                  "text": "Egykori piaci épület, amely ma kulturális eseményeknek és időszaki kiállításoknak ad otthont.",
-                  "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.017417,
+                        46.249907
+                  ]
             }
       ],
       "ro": [
@@ -7124,49 +10180,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul din Monthey",
                   "text": "Un castel istoric din secolul al XIV-lea care găzduiește în prezent muzeul regional Vieux-Monthey.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.946,
+                        46.2524
+                  ]
             },
             {
                   "name": "Teatrul Crochetan",
                   "text": "Un important centru cultural din Valais, renumit pentru arhitectura sa modernă și spectacolele de calitate.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.948992,
+                        46.25436
+                  ]
             },
             {
                   "name": "Place Centrale",
                   "text": "Piața centrală plină de viață din Monthey, locul unde se organizează piața săptămânală în fiecare miercuri.",
                   "category": "squares",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Imaculata Concepție",
-                  "text": "Biserica parohială principală, construită în stil neoclasic în secolul al XIX-lea, situată în centru.",
-                  "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.947188,
+                        46.251571
+                  ]
             },
             {
                   "name": "Podul Moulin",
                   "text": "Un pod de lemn pitoresc care traversează râul Vieze, fiind unul dintre cele mai vechi monumente din oraș.",
                   "category": "bridges",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Maison de l'Artisanat",
-                  "text": "Casa meșteșugurilor locale, dedicată conservării tehnicilor tradiționale și produselor artizanale regionale.",
-                  "category": "museums",
-                  "confidence": "medium"
-            },
-            {
-                  "name": "Parcul Cinquantenaire",
-                  "text": "Un parc public spațios cu zone verzi și facilități de recreere, foarte apreciat de locuitori.",
-                  "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Halele din Monthey",
-                  "text": "O clădire istorică utilizată în trecut pentru comerț, transformată astăzi în spațiu expozițional.",
-                  "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.017417,
+                        46.249907
+                  ]
             }
       ],
       "en": [
@@ -7174,49 +10222,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Monthey Castle",
                   "text": "A 14th-century historic castle that currently houses the Vieux-Monthey regional museum.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.946,
+                        46.2524
+                  ]
             },
             {
                   "name": "Theatre du Crochetan",
                   "text": "A major cultural hub in Valais, known for its modern architecture and diverse stage performances.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.948992,
+                        46.25436
+                  ]
             },
             {
                   "name": "Place Centrale",
                   "text": "The bustling main square of Monthey, home to lively cafes and the traditional Wednesday market.",
                   "category": "squares",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Church of the Immaculate Conception",
-                  "text": "The town's main parish church, built in the neoclassical style during the 19th century.",
-                  "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.947188,
+                        46.251571
+                  ]
             },
             {
                   "name": "Pont du Moulin",
                   "text": "A historic covered wooden bridge over the Vieze river, offering a glimpse into the town's past.",
                   "category": "bridges",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Maison de l'Artisanat",
-                  "text": "A center for local craftsmanship showcasing traditional regional techniques and handmade products.",
-                  "category": "museums",
-                  "confidence": "medium"
-            },
-            {
-                  "name": "Parc du Cinquantenaire",
-                  "text": "A large urban park with green spaces and playgrounds, perfect for outdoor relaxation and family activities.",
-                  "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Les Halles de Monthey",
-                  "text": "A historic market hall building that now serves as a versatile venue for exhibitions and social events.",
-                  "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.017417,
+                        46.249907
+                  ]
             }
       ]
 }
@@ -7228,37 +10268,31 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Burgruine Alt-Regensberg",
                   "text": "Die markante mittelalterliche Burganlage thront über dem Ort und bietet einen weiten Panoramablick über das Furttal bis nach Zürich.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Reformierte Kirche St. Niklaus",
-                  "text": "Die historische Kirche im alten Dorfkern beeindruckt durch ihre schlichte Architektur und ihre Bedeutung als zentrales Baudenkmal der Gemeinde.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.482027,
+                        47.428544
+                  ]
             },
             {
                   "name": "Katzensee",
                   "text": "Dieser idyllische See an der Stadtgrenze ist ein beliebtes Naturschutzgebiet und bietet Erholung beim Wandern und sommerlichen Baden.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.492778,
+                        47.4325
+                  ]
             },
             {
                   "name": "Ortsmuseum Regensdorf",
                   "text": "Das Museum im Bauernhaus präsentiert anschaulich die lokale Geschichte, das frühere Landleben und die Entwicklung der Gemeinde im Furttal.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Aussichtspunkt Gubrist",
-                  "text": "Der bewaldete Hügelrücken bietet zahlreiche Wanderwege und einen hervorragenden Blick auf das Limmattal und die Gipfel der Alpenkette.",
-                  "category": "viewpoints",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Naturschutzgebiet Furtbach",
-                  "text": "Die geschützten Uferzonen entlang des Baches sind ein wichtiger Rückzugsort für seltene Vögel und laden zu ruhigen Naturbeobachtungen ein.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.471272,
+                        47.441442
+                  ]
             }
       ],
       "hu": [
@@ -7266,37 +10300,31 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Alt-Regensberg várrom",
                   "text": "A település felett magasodó jellegzetes középkori várrom széles körpanorámát kínál a Furttal völgyére és Zürich városának környékére.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Miklós református templom",
-                  "text": "Az ófalu szívében álló történelmi templom egyszerű építészetével és a helyi közösség számára fontos múltjával emelkedik ki a látnivalók közül.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.482027,
+                        47.428544
+                  ]
             },
             {
                   "name": "Katzensee",
                   "text": "A városhatáron fekvő idilli tó és természetvédelmi terület kedvelt kirándulóhely, amely túrázási és nyári fürdőzési lehetőséget is kínál.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.492778,
+                        47.4325
+                  ]
             },
             {
                   "name": "Regensdorfi Helytörténeti Múzeum",
                   "text": "Egy régi parasztházban berendezett múzeum, amely a helyi történelmet, a régi vidéki életet és a völgy fejlődését mutatja be a látogatóknak.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gubrist kilátópont",
-                  "text": "Az erdős dombhát számos túraúttal rendelkezik, ahonnan kiváló kilátás nyílik a Limmat-völgyre és az Alpok távoli, havas csúcsaira.",
-                  "category": "viewpoints",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Furtbach természetvédelmi terület",
-                  "text": "A patak menti védett partszakaszok fontos menedéket nyújtanak a ritka madárfajoknak, és nyugodt környezetet biztosítanak a természetjáróknak.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.471272,
+                        47.441442
+                  ]
             }
       ],
       "ro": [
@@ -7304,37 +10332,31 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Ruina castelului Alt-Regensberg",
                   "text": "Fortificația medievală marcantă domină localitatea și oferă o vedere panoramică extinsă asupra văii Furttal până spre orașul Zürich.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Reformată Sfântul Nicolae",
-                  "text": "Biserica istorică din centrul vechi impresionează prin arhitectura sa simplă și prin rolul său de monument central al comunității locale.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.482027,
+                        47.428544
+                  ]
             },
             {
                   "name": "Lacul Katzensee",
                   "text": "Acest lac idilic de la marginea orașului este o rezervație naturală populară, oferind relaxare prin drumeții și activități de scăldat vara.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.492778,
+                        47.4325
+                  ]
             },
             {
                   "name": "Muzeul de Istorie Locală Regensdorf",
                   "text": "Situat într-o fermă veche, muzeul prezintă istoria locală, viața rurală de odinioară și dezvoltarea comunității din valea Furttal.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Punctul de belvedere Gubrist",
-                  "text": "Creasta deluroasă împădurită oferă numeroase trasee de drumeție și o vedere excelentă asupra văii Limmat și a lanțului muntos alpin.",
-                  "category": "viewpoints",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Rezervația Naturală Furtbach",
-                  "text": "Zonele protejate de-a lungul pârâului reprezintă un refugiu important pentru păsări rare și invită la observații liniștite în natură.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.471272,
+                        47.441442
+                  ]
             }
       ],
       "en": [
@@ -7342,37 +10364,31 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Alt-Regensberg Castle Ruins",
                   "text": "The striking medieval castle complex overlooks the town, offering a wide panoramic view across the Furttal valley to the city of Zurich.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Reformed Church of St. Niklaus",
-                  "text": "The historical church in the old village center impresses with its simple architecture and its status as a central monument for the town.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.482027,
+                        47.428544
+                  ]
             },
             {
                   "name": "Katzensee Lake",
                   "text": "This idyllic lake on the city boundary is a popular nature reserve, perfect for relaxing walks and outdoor swimming during the summer.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.492778,
+                        47.4325
+                  ]
             },
             {
                   "name": "Regensdorf Local Museum",
                   "text": "Housed in a traditional farmhouse, the museum vividly presents local history, old rural life, and the development of the Furttal region.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gubrist Viewpoint",
-                  "text": "The forested ridge features numerous hiking trails and provides an excellent view of the Limmat Valley and the distant Alpine peaks.",
-                  "category": "viewpoints",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Furtbach Nature Reserve",
-                  "text": "The protected zones along the stream serve as an important sanctuary for rare birds and offer a peaceful environment for nature lovers.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.471272,
+                        47.441442
+                  ]
             }
       ]
 }
@@ -7384,49 +10400,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Villa Romaine de Pully",
                   "text": "Die Überreste dieser bedeutenden römischen Villa aus dem 1. Jahrhundert zeigen beeindruckende Wandmalereien und antike Mosaike.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.66224,
+                        46.50951
+                  ]
             },
             {
                   "name": "Musée d'art de Pully",
                   "text": "Das Kunstmuseum beherbergt wechselnde Ausstellungen zeitgenössischer Kunst mit einem starken Fokus auf regionale Schweizer Künstler.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Eglise Saint-Germain",
-                  "text": "Diese charmante Kirche im Herzen von Pully ist bekannt für ihre historischen Buntglasfenster und ihre friedliche Atmosphäre.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.660449,
+                        46.50896
+                  ]
             },
             {
                   "name": "Pully-Plage",
                   "text": "Ein weitläufiges Strandbad am Genfersee mit Liegewiesen und Schwimmbecken, das im Sommer ein Zentrum für Freizeitaktivitäten ist.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.665166,
+                        46.505193
+                  ]
             },
             {
                   "name": "Le Prieuré",
                   "text": "Das ehemalige Priorat ist ein historisches Gebäudeensemble nahe der Kirche, das heute als bedeutendes Kulturzentrum der Stadt dient.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.66224,
+                        46.50951
+                  ]
             },
             {
                   "name": "Port de Pully",
                   "text": "Der malerische Hafen am Genfersee bietet Anlegeplätze für Segelboote und ist ein idealer Startpunkt für Spaziergänge am Ufer.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.660732,
+                        46.506717
+                  ]
             },
             {
                   "name": "Parc Guillemin",
                   "text": "Ein wunderschöner öffentlicher Park mit Tiergehegen, Spielplätzen und einem fantastischen Blick auf den See und die Alpen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.655479,
+                        46.513384
+                  ]
             },
             {
                   "name": "ArchéoLab",
                   "text": "Ein interaktives Museum für Kinder und Erwachsene, das die lokale Archäologie und das römische Erbe spielerisch vermittelt.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.662243,
+                        46.509503
+                  ]
             }
       ],
       "hu": [
@@ -7434,49 +10472,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Pully-i Római Villa",
                   "text": "Ez az 1. századból származó jelentős római villa lenyűgöző falfestményeket és antik mozaikokat mutat be a látogatóknak.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.66224,
+                        46.50951
+                  ]
             },
             {
                   "name": "Pully Művészeti Múzeum",
                   "text": "A művészeti múzeum időszaki kortárs kiállításoknak ad otthont, különös figyelmet fordítva a regionális svájci alkotókra.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Germán templom",
-                  "text": "Ez a Pully szívében található bájos templom történelmi ólomüveg ablakairól és békés, áhítatos hangulatáról ismert.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.660449,
+                        46.50896
+                  ]
             },
             {
                   "name": "Pully-Plage",
                   "text": "A Genfi-tó partján fekvő tágas strand és pihenőhely napozópázsittal és medencékkel várja a kikapcsolódni vágyókat.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.665166,
+                        46.505193
+                  ]
             },
             {
                   "name": "Le Prieuré (Perjelség)",
                   "text": "Az egykori perjelség egy történelmi épületegyüttes a templom közelében, amely ma a város fontos kulturális központjaként működik.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.66224,
+                        46.50951
+                  ]
             },
             {
                   "name": "Pully kikötő",
                   "text": "A Genfi-tó partján elhelyezkedő festői kikötő vitorlások horgonyzóhelye és ideális kiindulópont a parti sétákhoz.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.660732,
+                        46.506717
+                  ]
             },
             {
                   "name": "Parc Guillemin",
                   "text": "Gyönyörű közpark állatsimogatóval, játszóterekkel és fantasztikus kilátással a tóra és a szemközti Alpok hegyeire.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.655479,
+                        46.513384
+                  ]
             },
             {
                   "name": "ArchéoLab",
                   "text": "Interaktív múzeum gyerekeknek és felnőtteknek, amely játékos módon mutatja be a helyi régészetet és a római örökséget.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.662243,
+                        46.509503
+                  ]
             }
       ],
       "ro": [
@@ -7484,49 +10544,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Vila Romană din Pully",
                   "text": "Vestigiile acestei vile romane importante din secolul I prezintă picturi murale impresionante și mozaicuri antice autentice.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.66224,
+                        46.50951
+                  ]
             },
             {
                   "name": "Muzeul de Artă din Pully",
                   "text": "Muzeul găzduiește expoziții temporare de artă contemporană, având un accent puternic pe promovarea artiștilor elvețieni regionali.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Saint-Germain",
-                  "text": "Această biserică fermecătoare din inima orașului Pully este cunoscută pentru vitraliile sale istorice și atmosfera sa liniștită.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.660449,
+                        46.50896
+                  ]
             },
             {
                   "name": "Pully-Plage",
                   "text": "O zonă de plajă spațioasă pe malul lacului Leman, cu peluze și piscine, fiind un centru al activităților de agrement vara.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.665166,
+                        46.505193
+                  ]
             },
             {
                   "name": "Le Prieuré",
                   "text": "Fostul priorat este un ansamblu istoric de clădiri situat lângă biserică, servind astăzi ca centru cultural important al orașului.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.66224,
+                        46.50951
+                  ]
             },
             {
                   "name": "Portul din Pully",
                   "text": "Portul pitoresc de pe malul lacului Geneva oferă locuri de acostare pentru ambarcațiuni și este ideal pentru plimbări pe faleză.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.660732,
+                        46.506717
+                  ]
             },
             {
                   "name": "Parcul Guillemin",
                   "text": "Un parc public superb cu țarcuri pentru animale, locuri de joacă și o vedere fantastică asupra lacului și a munților Alpi.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.655479,
+                        46.513384
+                  ]
             },
             {
                   "name": "ArchéoLab",
                   "text": "Un muzeu interactiv pentru copii și adulți care prezintă arheologia locală și moștenirea romană într-un mod educativ și distractiv.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.662243,
+                        46.509503
+                  ]
             }
       ],
       "en": [
@@ -7534,49 +10616,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Roman Villa of Pully",
                   "text": "The remains of this significant 1st-century Roman villa feature impressive ancient wall paintings and mosaics for visitors to admire.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.66224,
+                        46.50951
+                  ]
             },
             {
                   "name": "Pully Art Museum",
                   "text": "The art museum hosts rotating exhibitions of contemporary art, with a strong emphasis on showcasing regional Swiss artists.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Saint-Germain Church",
-                  "text": "This charming church in the heart of Pully is well-known for its historical stained glass windows and its peaceful atmosphere.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.660449,
+                        46.50896
+                  ]
             },
             {
                   "name": "Pully-Plage",
                   "text": "A spacious beach area on the shores of Lake Geneva with lawns and swimming pools, serving as a hub for summer leisure activities.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.665166,
+                        46.505193
+                  ]
             },
             {
                   "name": "The Priory",
                   "text": "The former Priory is a historical building complex near the church, which today serves as an important cultural center for the city.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.66224,
+                        46.50951
+                  ]
             },
             {
                   "name": "Port of Pully",
                   "text": "The picturesque port on Lake Geneva provides berths for sailing boats and is an ideal starting point for lakeside strolls.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.660732,
+                        46.506717
+                  ]
             },
             {
                   "name": "Guillemin Park",
                   "text": "A beautiful public park featuring animal enclosures, playgrounds, and a fantastic view over the lake and the French Alps.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.655479,
+                        46.513384
+                  ]
             },
             {
                   "name": "ArchéoLab",
                   "text": "An interactive museum for both children and adults that presents local archaeology and Roman heritage in a playful way.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.662243,
+                        46.509503
+                  ]
             }
       ]
 }
@@ -7588,49 +10692,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Freulerpalast",
                   "text": "Prachtvoller Renaissancebau des 17. Jahrhunderts in Näfels, beherbergt heute das kantonale Museum des Landes Glarus.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.063479,
+                        47.099258
+                  ]
             },
             {
                   "name": "Walensee",
                   "text": "Ein tiefer, kristallklarer See, der von den steilen Klippen der Churfirsten und dem Kerenzerberg eingerahmt wird.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.2,
+                        47.116667
+                  ]
             },
             {
                   "name": "Kerenzerberg",
                   "text": "Ein beliebtes Ausflugsplateau über dem Walensee mit spektakulärer Aussicht auf die Alpen und den See.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.116389,
+                        47.125
+                  ]
             },
             {
                   "name": "Schlachtdenkmal Näfels",
                   "text": "Monument zur Erinnerung an die Schlacht bei Näfels von 1388, ein Meilenstein der Glarner Geschichte.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.066281,
+                        47.101222
+                  ]
             },
             {
                   "name": "Pfarrkirche St. Hilarius",
                   "text": "Die barocke katholische Kirche in Näfels beeindruckt durch ihre prunkvolle Ausstattung und Architektur.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.064004,
+                        47.100511
+                  ]
             },
             {
                   "name": "Obersee",
                   "text": "Ein idyllischer Bergsee oberhalb von Näfels, umgeben von dichten Wäldern und markanten Gipfeln.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.020554,
+                        47.088094
+                  ]
             },
             {
                   "name": "Haltli",
                   "text": "Ein historisches Herrenhaus in Näfels, das für seine elegante Architektur und gepflegte Gartenanlage bekannt ist.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.076118,
+                        47.099233
+                  ]
             },
             {
                   "name": "Flugplatz Näfels-Mollis",
                   "text": "Ein ehemaliger Militärflugplatz, der heute für zivile Luftfahrt und Großveranstaltungen genutzt wird.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.069864,
+                        47.09905
+                  ]
             }
       ],
       "hu": [
@@ -7638,49 +10774,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Freulerpalast",
                   "text": "17. századi reneszánsz palota Näfelsben, amely ma a Glarus kanton történetét bemutató múzeumnak ad otthont.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.063479,
+                        47.099258
+                  ]
             },
             {
                   "name": "Walensee",
                   "text": "Mély, kristálytiszta tó, melyet a Churfirsten meredek sziklái és a Kerenzerberg hegyvonulata ölel körbe.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.2,
+                        47.116667
+                  ]
             },
             {
                   "name": "Kerenzerberg",
                   "text": "Népszerű kirándulóhely a Walensee felett, ahonnan látványos kilátás nyílik az Alpokra és a tóra.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.116389,
+                        47.125
+                  ]
             },
             {
                   "name": "Näfelsi csata emlékműve",
                   "text": "Az 1388-as näfelsi csata emlékére állított emlékmű, amely Glarus történelmének fontos mérföldköve.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.066281,
+                        47.101222
+                  ]
             },
             {
                   "name": "Szent Hiláriusz plébániatemplom",
                   "text": "A näfelsi barokk katolikus templom lenyűgöző belső díszítésével és építészeti megoldásaival emelkedik ki.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.064004,
+                        47.100511
+                  ]
             },
             {
                   "name": "Obersee",
                   "text": "Idillikus hegyi tó Näfels felett, sűrű erdőkkel és jellegzetes hegycsúcsokkal körülvéve.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.020554,
+                        47.088094
+                  ]
             },
             {
                   "name": "Haltli",
                   "text": "Történelmi kúria Näfelsben, amely elegáns építészetéről és gondozott kertjéről nevezetes.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.076118,
+                        47.099233
+                  ]
             },
             {
                   "name": "Näfels-Mollis repülőtér",
                   "text": "Egykori katonai repülőtér, amelyet ma polgári repülésre és nagy rendezvényekre használnak.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.069864,
+                        47.09905
+                  ]
             }
       ],
       "ro": [
@@ -7688,49 +10856,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Freulerpalast",
                   "text": "Palat renascentist din secolul XVII în Näfels, care găzduiește astăzi muzeul cantonal Glarus.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.063479,
+                        47.099258
+                  ]
             },
             {
                   "name": "Walensee",
                   "text": "Un lac adânc cu ape cristaline, încadrat de stâncile abrupte ale munților Churfirsten și Kerenzerberg.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.2,
+                        47.116667
+                  ]
             },
             {
                   "name": "Kerenzerberg",
                   "text": "Un platou popular de excursie deasupra lacului Walen, oferind vederi spectaculoase asupra Alpilor.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.116389,
+                        47.125
+                  ]
             },
             {
                   "name": "Monumentul Bătăliei de la Näfels",
                   "text": "Monument care comemorează bătălia de la Näfels din 1388, un punct de cotitură în istoria cantonului.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.066281,
+                        47.101222
+                  ]
             },
             {
                   "name": "Biserica Sfântul Hilarius",
                   "text": "Biserica catolică barocă din Näfels impresionează prin decorul său somptuos și arhitectura deosebită.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.064004,
+                        47.100511
+                  ]
             },
             {
                   "name": "Obersee",
                   "text": "Un lac montan idilic deasupra localității Näfels, înconjurat de păduri dese și vârfuri proeminente.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.020554,
+                        47.088094
+                  ]
             },
             {
                   "name": "Haltli",
                   "text": "Un conac istoric în Näfels, cunoscut pentru arhitectura sa elegantă și grădinile bine întreținute.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.076118,
+                        47.099233
+                  ]
             },
             {
                   "name": "Aerodromul Näfels-Mollis",
                   "text": "Un fost aerodrom militar, utilizat astăzi pentru aviația civilă și evenimente majore regionale.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.069864,
+                        47.09905
+                  ]
             }
       ],
       "en": [
@@ -7738,49 +10938,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Freulerpalast",
                   "text": "Magnificent 17th-century Renaissance palace in Näfels, now housing the Glarus Cantonal Museum of history.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.063479,
+                        47.099258
+                  ]
             },
             {
                   "name": "Lake Walen",
                   "text": "A deep, crystal-clear lake framed by the steep cliffs of the Churfirsten and the Kerenzerberg mountains.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.2,
+                        47.116667
+                  ]
             },
             {
                   "name": "Kerenzerberg",
                   "text": "A popular excursion plateau above Lake Walen, offering spectacular views of the Alps and the lake.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.116389,
+                        47.125
+                  ]
             },
             {
                   "name": "Näfels Battle Monument",
                   "text": "Monument commemorating the Battle of Näfels in 1388, a significant milestone in Glarus history.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.066281,
+                        47.101222
+                  ]
             },
             {
                   "name": "St. Hilarius Parish Church",
                   "text": "The baroque Catholic church in Näfels impresses with its magnificent interior decoration and architecture.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.064004,
+                        47.100511
+                  ]
             },
             {
                   "name": "Obersee",
                   "text": "An idyllic mountain lake above Näfels, surrounded by dense forests and striking mountain peaks.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.020554,
+                        47.088094
+                  ]
             },
             {
                   "name": "Haltli",
                   "text": "A historic manor house in Näfels, known for its elegant architecture and well-maintained gardens.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.076118,
+                        47.099233
+                  ]
             },
             {
                   "name": "Näfels-Mollis Airfield",
                   "text": "A former military airfield now used for civil aviation and major regional events and flight shows.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        9.069864,
+                        47.09905
+                  ]
             }
       ]
 }
@@ -7792,49 +11024,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Kunsthaus Grenchen",
                   "text": "Museum für zeitgenössische Druckgrafik in einem modernen Erweiterungsbau und einer historischen Villa.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.398247,
+                        47.189257
+                  ]
             },
             {
                   "name": "Grenchenberg",
                   "text": "Der Hausberg von Grenchen bietet Wanderwege und Panoramablicke über das Mittelland bis hin zu den Alpen.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.396944,
+                        47.231944
+                  ]
             },
             {
                   "name": "Kultur-Historisches Museum",
                   "text": "Das Museum dokumentiert die Entwicklung von Grenchen vom Bauerndorf zur bedeutenden Uhrenstadt.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.394854,
+                        47.192663
+                  ]
             },
             {
                   "name": "Flughafen Grenchen",
                   "text": "Einer der wichtigsten Regionalflughäfen der Schweiz, bekannt für seine Flugschule und Fallschirmsprünge.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.416389,
+                        47.181389
+                  ]
             },
             {
                   "name": "Eusebius-Kirche",
                   "text": "Die katholische Stadtpfarrkirche St. Eusebius ist ein neobarockes Wahrzeichen mit einem markanten Turm.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.394456,
+                        47.19294
+                  ]
             },
             {
                   "name": "Parktheater Grenchen",
                   "text": "Ein bedeutendes kulturelles Zentrum, das Aufführungen, Konzerte und Tagungen in modernem Ambiente beherbergt.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Girard-Haus",
-                  "text": "Historisches Gebäude, das mit der Uhrenindustrie verbunden ist und die Tradition lokaler Handwerkskunst bewahrt.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Witi-Schutzzone",
-                  "text": "Eine weitläufige Naturschutzzone an der Aare, bekannt als wichtiges Brut- und Rastgebiet für Störche.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.39075,
+                        47.191
+                  ]
             }
       ],
       "hu": [
@@ -7842,49 +11086,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Kunsthaus Grenchen",
                   "text": "Kortárs grafikai múzeum, amely egy modern épületszárnyban és egy történelmi villában kapott helyet.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.398247,
+                        47.189257
+                  ]
             },
             {
                   "name": "Grenchenberg",
                   "text": "Grenchen házi hegye túraútvonalakat és panorámás kilátást kínál a Mittellandtól egészen az Alpokig.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.396944,
+                        47.231944
+                  ]
             },
             {
                   "name": "Kultúrtörténeti Múzeum",
                   "text": "A múzeum Grenchen fejlődését mutatja be a parasztfalutól a jelentős óraipari központig.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.394854,
+                        47.192663
+                  ]
             },
             {
                   "name": "Grencheni repülőtér",
                   "text": "Svájc egyik legfontosabb regionális repülőtere, amely repülőiskolájáról és ejtőernyős központjáról ismert.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.416389,
+                        47.181389
+                  ]
             },
             {
                   "name": "Szent Eusebius templom",
                   "text": "A Szent Eusebius katolikus plébániatemplom neobarokk jelkép, amely jellegzetes tornyával uralja a várost.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.394456,
+                        47.19294
+                  ]
             },
             {
                   "name": "Parktheater Grenchen",
                   "text": "Jelentős kulturális központ, amely előadásoknak, koncerteknek és konferenciáknak ad otthont.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Girard-ház",
-                  "text": "Történelmi épület, amely szorosan kapcsolódik az óraiparhoz, őrizve a helyi kézművesség hagyományait.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Witi természetvédelmi terület",
-                  "text": "Kiterjedt természetvédelmi terület az Aare mentén, amely a gólyák fontos költőhelyeként ismert.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.39075,
+                        47.191
+                  ]
             }
       ],
       "ro": [
@@ -7892,49 +11148,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Kunsthaus Grenchen",
                   "text": "Muzeu de grafică contemporană situat într-o extensie modernă și o vilă istorică valoroasă.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.398247,
+                        47.189257
+                  ]
             },
             {
                   "name": "Grenchenberg",
                   "text": "Muntele local din Grenchen oferă trasee de drumeție și vederi panoramice peste Mittelland până la Alpi.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.396944,
+                        47.231944
+                  ]
             },
             {
                   "name": "Muzeul de Istorie și Cultură",
                   "text": "Muzeul documentează dezvoltarea orașului Grenchen de la un sat de fermieri la un important oraș industrial.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.394854,
+                        47.192663
+                  ]
             },
             {
                   "name": "Aeroportul Grenchen",
                   "text": "Unul dintre cele mai importante aeroporturi regionale din Elveția, cunoscut pentru școala de aviație.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.416389,
+                        47.181389
+                  ]
             },
             {
                   "name": "Biserica Sfântul Eusebiu",
                   "text": "Biserica parohială catolică Sfântul Eusebiu este un simbol neobaroc cu un turn proeminent în oraș.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.394456,
+                        47.19294
+                  ]
             },
             {
                   "name": "Parktheater Grenchen",
                   "text": "Un centru cultural important care găzduiește spectacole, concerte și conferințe într-un ambient modern.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Casa Girard",
-                  "text": "Clădire istorică legată de industria ceasornicăriei, păstrând tradiția măiestriei locale în domeniu.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Zona protejată Witi",
-                  "text": "O zonă extinsă de protecție a naturii pe malul râului Aare, cunoscută ca loc de cuibărit pentru berze.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.39075,
+                        47.191
+                  ]
             }
       ],
       "en": [
@@ -7942,49 +11210,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Kunsthaus Grenchen",
                   "text": "Museum for contemporary printmaking located in a modern extension and a historic villa building.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.398247,
+                        47.189257
+                  ]
             },
             {
                   "name": "Grenchenberg",
                   "text": "Grenchen's local mountain offers hiking trails and panoramic views across the Mittelland to the Alps.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.396944,
+                        47.231944
+                  ]
             },
             {
                   "name": "Historical Museum",
                   "text": "The museum documents Grenchen's development from a farming village to a major watchmaking industrial city.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.394854,
+                        47.192663
+                  ]
             },
             {
                   "name": "Grenchen Airport",
                   "text": "One of Switzerland's most important regional airports, known for its flight school and skydiving center.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.416389,
+                        47.181389
+                  ]
             },
             {
                   "name": "St. Eusebius Church",
                   "text": "The Catholic parish church of St. Eusebius is a neo-baroque landmark with a striking tower in the city.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.394456,
+                        47.19294
+                  ]
             },
             {
                   "name": "Parktheater Grenchen",
                   "text": "A significant cultural center hosting performances, concerts, and conferences in a modern setting.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Girard House",
-                  "text": "Historic building connected to the watch industry, preserving the tradition of local craftsmanship.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Witi Nature Reserve",
-                  "text": "A vast nature conservation area along the Aare river, known as an important breeding ground for storks.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.39075,
+                        47.191
+                  ]
             }
       ]
 }
@@ -7996,37 +11276,21 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Steinbruch Ostermundigen",
                   "text": "Ehemaliger Abbauort des Berner Sandsteins, heute ein geschütztes Biotop mit steilen Felswänden und Wanderwegen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kulturschüür",
-                  "text": "Ein historisches Bauernhaus, das heute als lebendiges Zentrum für Kleinkunst, Konzerte und Ausstellungen genutzt wird.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.494723,
+                        46.950541
+                  ]
             },
             {
                   "name": "Reformierte Kirche",
                   "text": "Der markante Bau aus dem Jahr 1960 prägt das Ortsbild und dient als spirituelles und kulturelles Zentrum der Gemeinde.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pauluszentrum",
-                  "text": "Ein bedeutendes ökumenisches Zentrum, das für seine moderne Sakralarchitektur und als Ort des Dialogs bekannt ist.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bäre-Märit",
-                  "text": "Ein traditioneller Wochenmarkt auf dem Bärenplatz, der frische regionale Produkte und Handwerk aus dem Kanton Bern bietet.",
-                  "category": "markets",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Riedhubel",
-                  "text": "Ein Aussichtspunkt auf einem Hügel, der einen weiten Blick über die Dächer von Ostermundigen bis hin zu den Alpen bietet.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.445134,
+                        46.976461
+                  ]
             }
       ],
       "hu": [
@@ -8034,37 +11298,21 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Ostermundigeni kőfejtő",
                   "text": "A berni homokkő egykori bányája, ma természetvédelmi terület meredek sziklafalakkal és kedvelt túraútvonalakkal.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kulturschüür",
-                  "text": "Egy régi parasztházból kialakított kulturális központ, amely koncerteknek, színháznak és kiállításoknak ad otthont.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.494723,
+                        46.950541
+                  ]
             },
             {
                   "name": "Református templom",
                   "text": "Az 1960-ban emelt modern épület a településkép meghatározó eleme, spirituális és közösségi találkozóhely.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pauluszentrum",
-                  "text": "Jelentős ökumenikus központ, amely modern szakrális építészetéről és vallásközi párbeszédeiről ismert a régióban.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bäre-Märit",
-                  "text": "Hagyományos heti piac a Bärenplatzon, ahol friss környékbeli termékeket és berni kézműves árukat vásárolhatunk.",
-                  "category": "markets",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Riedhubel",
-                  "text": "Kilátópont a város feletti dombon, ahonnan panorámás kilátás nyílik Ostermundigen házaira és a távoli Alpokra.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.445134,
+                        46.976461
+                  ]
             }
       ],
       "ro": [
@@ -8072,37 +11320,21 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Cariera Ostermundigen",
                   "text": "Fostă locație de extracție a gresiei berneze, astăzi un biotop protejat cu pereți de stâncă abrupți și poteci pitorești.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kulturschüür",
-                  "text": "O fermă istorică transformată într-un centru cultural vibrant pentru concerte, teatru și expoziții de artă locală.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.494723,
+                        46.950541
+                  ]
             },
             {
                   "name": "Biserica Reformată",
                   "text": "Edificiul construit în 1960 se remarcă prin liniile sale clare, fiind un centru spiritual și cultural important pentru oraș.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pauluszentrum",
-                  "text": "Un centru ecumenic major, cunoscut pentru arhitectura sa sacră modernă și ca loc de întâlnire pentru dialog social.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bäre-Märit",
-                  "text": "Piață săptămânală tradițională în Bärenplatz, ce oferă produse regionale proaspete și obiecte de artizanat bernez.",
-                  "category": "markets",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Riedhubel",
-                  "text": "Un punct de observație situat pe o colină, oferind o vedere panoramică asupra orașului și a lanțului muntos alpin.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.445134,
+                        46.976461
+                  ]
             }
       ],
       "en": [
@@ -8110,37 +11342,21 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Ostermundigen Quarry",
                   "text": "Former extraction site of Bernese sandstone, now a protected biotope with steep rock faces and scenic walking trails.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kulturschüür",
-                  "text": "A historic farmhouse converted into a cultural hub for concerts, small-scale theatre, and various art exhibitions.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.494723,
+                        46.950541
+                  ]
             },
             {
                   "name": "Reformed Church",
                   "text": "Built in 1960, this striking building defines the local cityscape and serves as a spiritual and cultural community center.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pauluszentrum",
-                  "text": "An important ecumenical center recognized for its modern religious architecture and as a place for intercultural dialogue.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bäre-Märit",
-                  "text": "A traditional weekly market at Bärenplatz featuring fresh regional produce and local crafts from the Canton of Bern.",
-                  "category": "markets",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Riedhubel",
-                  "text": "A viewpoint on a hill offering a wide panorama over the rooftops of Ostermundigen towards the Bernese Alps.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.445134,
+                        46.976461
+                  ]
             }
       ]
 }
@@ -8149,202 +11365,130 @@ export const poiExtraAtChMissingV1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Ruine Moosburg",
-                  "text": "Die geschichtsträchtigen Mauerreste einer im 13. Jahrhundert erbauten Burg, die im Alten Zürichkrieg zerstört wurde.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kirche St. Martin",
-                  "text": "Diese historische Kirche in Illnau stammt aus dem Mittelalter und bewahrt bedeutende Fresken aus der Zeit um 1460.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Heimatmuseum Illnau",
-                  "text": "In einem charakteristischen Riegelhaus wird die Entwicklung vom Bauerndorf zum modernen Industriezentrum dokumentiert.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Stadthaus Effretikon",
                   "text": "Das architektonische Herzstück von Effretikon, erbaut in den 1970er Jahren als Symbol für das urbane Wachstum.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Planetenweg",
-                  "text": "Ein maßstabsgetreuer Wanderweg zwischen Effretikon und Kyburg, der Astronomie mit der Natur des Kempttals verbindet.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.686389,
+                        47.427241
+                  ]
             },
             {
                   "name": "Sportzentrum Eselriet",
                   "text": "Ein weitläufiges Areal für Freizeitaktivitäten, das mit Freibad und Eishalle als sportlicher Treffpunkt der Region dient.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.700193,
+                        47.422587
+                  ]
             },
             {
                   "name": "Reformierte Kirche Effretikon",
                   "text": "Ein moderner Kirchenbau mit markantem Turm, der als weithin sichtbares Wahrzeichen des Stadtteils Effretikon gilt.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kulturforum am Kolpingplatz",
-                  "text": "Ein zentraler Ort für kulturelle Veranstaltungen, Vorträge und gesellschaftliche Anlässe im Herzen der Stadt.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.689368,
+                        47.428261
+                  ]
             }
       ],
       "hu": [
             {
-                  "name": "Moosburg romjai",
-                  "text": "Egy 13. századi vár történelmi falmaradványai, amely a régi zürichi háború során pusztult el Effretikon közelében.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Márton-templom",
-                  "text": "Illnau középkori eredetű temploma, amelynek belső terét értékes, 1460 környékéről származó freskók díszítik.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Illnaui Helytörténeti Múzeum",
-                  "text": "Egy jellegzetes favázas házban berendezett tárlat, amely a falu ipari várossá válásának folyamatát mutatja be.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Effretikoni városháza",
                   "text": "A város építészeti központja, amely az 1970-es években épült a modern városi fejlődés szimbólumaként.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bolygótúra útvonal",
-                  "text": "Effretikon és Kyburg között kanyargó tanösvény, amely méretarányosan mutatja be naprendszerünket a természetben.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.686389,
+                        47.427241
+                  ]
             },
             {
                   "name": "Eselriet Sportközpont",
                   "text": "Tágas szabadidős terület stranddal és jégcsarnokkal, amely a régió legfontosabb sportolási találkozóhelye.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.700193,
+                        47.422587
+                  ]
             },
             {
                   "name": "Effretikoni református templom",
                   "text": "Modern szakrális épület jellegzetes toronnyal, amely Effretikon városrész messziről látható jelképe.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kolpingplatz Kulturális Fórum",
-                  "text": "A város szívében található központ, amely kulturális eseményeknek, előadásoknak és társadalmi rendezvényeknek ad otthont.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.689368,
+                        47.428261
+                  ]
             }
       ],
       "ro": [
             {
-                  "name": "Ruina Moosburg",
-                  "text": "Rămășițele istorice ale unui castel din secolul al XIII-lea, distrus în timpul Vechiului Război de la Zürich.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Sfântul Martin",
-                  "text": "Această biserică istorică din Illnau datează din Evul Mediu și păstrează fresce valoroase din jurul anului 1460.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Muzeul de Istorie Locală",
-                  "text": "Găzduit într-o casă tradițională cu bârne, muzeul documentează evoluția de la sat agricol la centru industrial modern.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Primăria Effretikon",
                   "text": "Nucleul arhitectural al orașului, construit în anii 1970 ca simbol al creșterii urbane și modernizării administrative.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Traseul Planetelor",
-                  "text": "Un traseu tematic între Effretikon și Kyburg care combină astronomia cu frumusețea naturală a văii Kempttal.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.686389,
+                        47.427241
+                  ]
             },
             {
                   "name": "Centrul Sportiv Eselriet",
                   "text": "O zonă vastă pentru activități recreative, dotată cu piscină în aer liber și patinoar, punct de întâlnire sportiv.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.700193,
+                        47.422587
+                  ]
             },
             {
                   "name": "Biserica Reformată Effretikon",
                   "text": "O construcție modernă cu un turn distinctiv, care servește drept punct de reper vizibil pentru cartierul Effretikon.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Forumul Cultural Kolpingplatz",
-                  "text": "Un spațiu central dedicat evenimentelor culturale, conferințelor și activităților sociale în centrul orașului.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.689368,
+                        47.428261
+                  ]
             }
       ],
       "en": [
             {
-                  "name": "Moosburg Ruins",
-                  "text": "The historic stone remains of a 13th-century castle near Effretikon that was destroyed during the Old Zurich War.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Martin's Church",
-                  "text": "A medieval church in Illnau featuring significant interior frescoes dating back to approximately 1460.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Illnau Local History Museum",
-                  "text": "Located in a traditional half-timbered house, it documents the transition from a farming village to an industrial hub.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Effretikon Stadthaus",
                   "text": "The architectural centerpiece of Effretikon, built in the 1970s as a symbol of the town's rapid urban expansion.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Planetary Path",
-                  "text": "A scale-model trail between Effretikon and Kyburg that combines astronomy with the natural beauty of the Kempt Valley.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.686389,
+                        47.427241
+                  ]
             },
             {
                   "name": "Eselriet Sports Center",
                   "text": "A large recreation area featuring an outdoor pool and ice rink, serving as the region's main sports meeting point.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.700193,
+                        47.422587
+                  ]
             },
             {
                   "name": "Effretikon Reformed Church",
                   "text": "A modern church building with a prominent tower that acts as a landmark for the urban district of Effretikon.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Culture Forum at Kolpingplatz",
-                  "text": "A central venue for cultural events, lectures, and social gatherings in the heart of the city.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.689368,
+                        47.428261
+                  ]
             }
       ]
 }
@@ -8356,37 +11500,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Evologia (Cernier)",
                   "text": "Kultur- und Naturzentrum in Cernier, bekannt für seine Schaugärten und die jährliche Fête de la Terre im Tal.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.909232,
+                        47.058008
+                  ]
             },
             {
                   "name": "Temple de Dombresson",
                   "text": "Eindrucksvolle reformierte Kirche im Zentrum von Dombresson, die das historische Landschaftsbild des Tals prägt.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.960668,
+                        47.072081
+                  ]
             },
             {
                   "name": "Moulin de Bayerel",
                   "text": "Historische Mühle am Fluss Seyon, die heute als Museum und Zeuge der industriellen Vergangenheit der Region dient.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.92982,
+                        47.04019
+                  ]
             },
             {
                   "name": "Gorges du Seyon",
                   "text": "Spektakuläre Schluchten, die der Fluss Seyon über Jahrtausende durch den Kalkstein des Jura-Gebirges gegraben hat.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9055,
+                        47.0077
+                  ]
             },
             {
                   "name": "Vue des Alpes",
                   "text": "Berühmter Pass mit einem der schönsten Panoramablicke auf die Berner Alpen und den nahen Neuenburgersee.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.86972,
+                        47.07278
+                  ]
             },
             {
                   "name": "Col des Hauts-Geneveys",
                   "text": "Passhöhe im Jura, die als wichtiger Ausgangspunkt für Wanderungen und zur Beobachtung der Bergwelt dient.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.83448,
+                        47.042092
+                  ]
             }
       ],
       "hu": [
@@ -8394,37 +11562,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Evologia (Cernier)",
                   "text": "Kulturális és természetvédelmi központ Cernier-ben, amely bemutatókertjeiről és az éves Fête de la Terre fesztiválról híres.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.909232,
+                        47.058008
+                  ]
             },
             {
                   "name": "Temple de Dombresson",
                   "text": "Lenyűgöző református templom Dombresson központjában, amely a völgy történelmi és építészeti látképének meghatározó eleme.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.960668,
+                        47.072081
+                  ]
             },
             {
                   "name": "Moulin de Bayerel",
                   "text": "A Seyon-folyó partján álló történelmi malom, amely ma múzeumként mutatja be a régió ipari múltjának emlékeit.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.92982,
+                        47.04019
+                  ]
             },
             {
                   "name": "Gorges du Seyon",
                   "text": "Látványos szurdokvölgy, amelyet a Seyon-folyó vájt ki a Jura-hegység mészkőrétegeiből az évezredek során.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9055,
+                        47.0077
+                  ]
             },
             {
                   "name": "Vue des Alpes",
                   "text": "Híres hágó, ahonnan az egyik legszebb panoráma nyílik a Berni-Alpok csúcsaira és a Neuchâteli-tóra.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.86972,
+                        47.07278
+                  ]
             },
             {
                   "name": "Col des Hauts-Geneveys",
                   "text": "A Jura-hegység egyik fontos hágója, amely népszerű kiindulópont a túrázók és a hegyi természet kedvelői számára.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.83448,
+                        47.042092
+                  ]
             }
       ],
       "ro": [
@@ -8432,37 +11624,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Evologia (Cernier)",
                   "text": "Centru cultural și natural în Cernier, renumit pentru grădinile sale tematice și festivalul anual Fête de la Terre.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.909232,
+                        47.058008
+                  ]
             },
             {
                   "name": "Temple de Dombresson",
                   "text": "Biserică reformată impresionantă în centrul localității Dombresson, definitorie pentru peisajul istoric al văii.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.960668,
+                        47.072081
+                  ]
             },
             {
                   "name": "Moulin de Bayerel",
                   "text": "Moară istorică situată pe râul Seyon, servind astăzi drept muzeu și martor al trecutului industrial al regiunii.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.92982,
+                        47.04019
+                  ]
             },
             {
                   "name": "Gorges du Seyon",
                   "text": "Chei spectaculoase săpate de râul Seyon în calcarul munților Jura, oferind trasee naturale de o frumusețe rară.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9055,
+                        47.0077
+                  ]
             },
             {
                   "name": "Vue des Alpes",
                   "text": "Pas montan celebru care oferă una dintre cele mai frumoase panorame asupra Alpilor Bernezi și a lacului Neuchâtel.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.86972,
+                        47.07278
+                  ]
             },
             {
                   "name": "Col des Hauts-Geneveys",
                   "text": "Trecătoare în masivul Jura, fiind un punct important de plecare pentru drumeții și observarea peisajului montan.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.83448,
+                        47.042092
+                  ]
             }
       ],
       "en": [
@@ -8470,37 +11686,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Evologia (Cernier)",
                   "text": "A cultural and natural center in Cernier, famous for its show gardens and the annual Fête de la Terre festival.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.909232,
+                        47.058008
+                  ]
             },
             {
                   "name": "Temple de Dombresson",
                   "text": "An impressive Protestant church in the heart of Dombresson, a landmark of the valley's historical architecture.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.960668,
+                        47.072081
+                  ]
             },
             {
                   "name": "Moulin de Bayerel",
                   "text": "A historic watermill on the Seyon river, now operating as a museum showcasing the region's industrial heritage.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.92982,
+                        47.04019
+                  ]
             },
             {
                   "name": "Gorges du Seyon",
                   "text": "Dramatic gorges carved by the Seyon river through the limestone of the Jura Mountains over thousands of years.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.9055,
+                        47.0077
+                  ]
             },
             {
                   "name": "Vue des Alpes",
                   "text": "A famous mountain pass offering one of the most stunning panoramic views of the Bernese Alps and Lake Neuchâtel.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.86972,
+                        47.07278
+                  ]
             },
             {
                   "name": "Col des Hauts-Geneveys",
                   "text": "A pass in the Jura range serving as a key starting point for hikes and for observing the surrounding mountain scenery.",
                   "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        6.83448,
+                        47.042092
+                  ]
             }
       ]
 }
@@ -8512,43 +11752,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Villette Park",
                   "text": "Weitläufige Parkanlage im englischen Stil direkt am Zugersee, ideal für entspannte Spaziergänge unter alten Bäumen.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.460268,
+                        47.178119
+                  ]
             },
             {
                   "name": "Schloss St. Andreas",
                   "text": "Privatschloss auf einer Halbinsel im Zugersee mit einer bedeutenden spätgotischen Kapelle aus dem 15. Jahrhundert.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.466256,
+                        47.178836
+                  ]
             },
             {
                   "name": "Pfarrkirche St. Jakob",
                   "text": "Prächtige barocke römisch-katholische Kirche, bekannt für ihre reiche Innenausstattung und den weithin sichtbaren Turm.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.392839,
+                        47.147604
+                  ]
             },
             {
                   "name": "Ziegelei-Museum",
                   "text": "Einzigartiges Museum in einer alten Ziegelei, das die traditionelle Herstellung von Backsteinen und Lehmbau zeigt.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.42537,
+                        47.19628
+                  ]
             },
             {
                   "name": "Lorzensaal",
                   "text": "Modernes Kultur- und Kongresszentrum im Herzen von Cham, Veranstaltungsort für Konzerte, Theater und Festivitäten.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.459907,
+                        47.180767
+                  ]
             },
             {
                   "name": "Hirsgarten",
                   "text": "Beliebter öffentlicher Park am Seeufer mit Badeplatz, Kiosk und einer grossen Liegewiese für Erholungsuchende.",
                   "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Villa Villette",
-                  "text": "Elegante Villa aus dem 19. Jahrhundert inmitten des Villette Parks, heute als Restaurant und Kulturzentrum genutzt.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.46367,
+                        47.178983
+                  ]
             }
       ],
       "hu": [
@@ -8556,43 +11814,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Villette Park",
                   "text": "Hatalmas angolpark a Zugi-tó partján, amely évszázados fáival és nyugodt sétányaival a város kedvenc pihenőhelye.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.460268,
+                        47.178119
+                  ]
             },
             {
                   "name": "Schloss St. Andreas",
                   "text": "A Zugi-tó félszigetén álló magánkastély, amelynek 15. századi késő gótikus kápolnája jelentős műemlék.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.466256,
+                        47.178836
+                  ]
             },
             {
                   "name": "Pfarrkirche St. Jakob",
                   "text": "Díszes barokk római katolikus templom, amely gazdag belső dekorációjáról és monumentális tornyáról nevezetes.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.392839,
+                        47.147604
+                  ]
             },
             {
                   "name": "Ziegelei-Museum",
                   "text": "Egyedülálló múzeum egy régi téglagyárban, amely a hagyományos téglaégetés és agyagépítészet titkait mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.42537,
+                        47.19628
+                  ]
             },
             {
                   "name": "Lorzensaal",
                   "text": "Cham modern kulturális és kongresszusi központja, amely koncerteknek, színházi előadásoknak és rendezvényeknek ad otthont.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.459907,
+                        47.180767
+                  ]
             },
             {
                   "name": "Hirsgarten",
                   "text": "Népszerű tóparti közpark fürdőhellyel és tágas pázsittal, amely ideális kikapcsolódást nyújt az egész családnak.",
                   "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Villa Villette",
-                  "text": "A Villette Park szívében álló 19. századi elegáns villa, amely ma kulturális eseményeknek és étteremnek ad otthont.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.46367,
+                        47.178983
+                  ]
             }
       ],
       "ro": [
@@ -8600,43 +11876,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Villette Park",
                   "text": "Un parc vast în stil englezesc situat direct pe malul lacului Zug, oferind alei liniștite printre arbori seculari.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.460268,
+                        47.178119
+                  ]
             },
             {
                   "name": "Schloss St. Andreas",
                   "text": "Castel privat situat pe o peninsulă a lacului Zug, faimos pentru capela sa în stil gotic târziu din secolul al XV-lea.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.466256,
+                        47.178836
+                  ]
             },
             {
                   "name": "Pfarrkirche St. Jakob",
                   "text": "Biserică romano-catolică barocă splendidă, renumită pentru interiorul său bogat ornamentat și turnul său impunător.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.392839,
+                        47.147604
+                  ]
             },
             {
                   "name": "Ziegelei-Museum",
                   "text": "Muzeu unic amenajat într-o fostă fabrică de cărămidă, ilustrând tehnicile tradiționale de construcție din lut.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.42537,
+                        47.19628
+                  ]
             },
             {
                   "name": "Lorzensaal",
                   "text": "Centru cultural și de congrese modern în Cham, locul principal de desfășurare a concertelor și pieselor de teatru.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.459907,
+                        47.180767
+                  ]
             },
             {
                   "name": "Hirsgarten",
                   "text": "Parc public popular pe malul lacului, dotat cu zonă de scăldat și peluze generoase pentru recreere în aer liber.",
                   "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Villa Villette",
-                  "text": "Vilă elegantă din secolul al XIX-lea situată în mijlocul parcului, servind astăzi drept restaurant și spațiu cultural.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.46367,
+                        47.178983
+                  ]
             }
       ],
       "en": [
@@ -8644,43 +11938,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Villette Park",
                   "text": "A large English-style park on the shores of Lake Zug, perfect for relaxing walks under ancient, towering trees.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.460268,
+                        47.178119
+                  ]
             },
             {
                   "name": "Schloss St. Andreas",
                   "text": "A private castle on a peninsula in Lake Zug, featuring a significant 15th-century late-Gothic chapel.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.466256,
+                        47.178836
+                  ]
             },
             {
                   "name": "Pfarrkirche St. Jakob",
                   "text": "A magnificent Baroque Roman Catholic church known for its rich interior decorations and its prominent tower.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.392839,
+                        47.147604
+                  ]
             },
             {
                   "name": "Ziegelei-Museum",
                   "text": "A unique museum located in an old brickworks, showcasing traditional brick-making and earth-building history.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.42537,
+                        47.19628
+                  ]
             },
             {
                   "name": "Lorzensaal",
                   "text": "A modern cultural and congress center in the heart of Cham, hosting concerts, theater, and regional events.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.459907,
+                        47.180767
+                  ]
             },
             {
                   "name": "Hirsgarten",
                   "text": "A popular lakeside public park with a swimming area and large lawns, ideal for family leisure and relaxation.",
                   "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Villa Villette",
-                  "text": "An elegant 19th-century villa in the center of Villette Park, now used for fine dining and cultural gatherings.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.46367,
+                        47.178983
+                  ]
             }
       ]
 }
@@ -8689,202 +12001,170 @@ export const poiExtraAtChMissingV1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Freiamter Strohmuseum",
-                  "text": "Das Museum im Park Caspar dokumentiert die weltweit bedeutende Geschichte der Freiämter Strohflechtindustrie.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Pfarrkirche St. Leonhard",
                   "text": "Die neugotische katholische Kirche prägt mit ihrem markanten Turm das Ortsbild im Zentrum von Wohlen.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.2781,
+                        47.35143
+                  ]
             },
             {
                   "name": "Zentralhaus",
                   "text": "Ein historisches Fabrikgebäude der Strohindustrie, das heute als Wohn- und Geschäftshaus genutzt wird.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.342064,
+                        47.346592
+                  ]
             },
             {
                   "name": "Kantonsschule Wohlen",
                   "text": "Das markante Schulgebäude ist ein bedeutendes kantonales Baudenkmal und ein wichtiges Bildungszentrum.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.270857,
+                        47.355352
+                  ]
             },
             {
                   "name": "Erdmannlistein",
                   "text": "Eine sagenumwobene Megalith-Formation im nahen Wald, die als prähistorische Kultstätte gilt.",
                   "category": "monuments",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Eisweiher",
-                  "text": "Ein idyllischer kleiner See am Waldrand, der als lokales Naherholungsgebiet und Naturperle beliebt ist.",
-                  "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kulturzentrum Sternensaal",
-                  "text": "Ein zentraler Veranstaltungsort für Konzerte, Theater und Kleinkunst im Herzen der Gemeinde.",
-                  "category": "theatres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Büezberg",
-                  "text": "Ein bewaldeter Hügelrücken, der Wanderwege und schöne Ausblicke über das Bünztal bietet.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.31276,
+                        47.349593
+                  ]
             }
       ],
       "hu": [
             {
-                  "name": "Freiamter Szalmamúzeum",
-                  "text": "A múzeum a Freiamt régió egykor világhírű szalmaponó iparának és kalapkészítésének történetét mutatja be.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Szent Leonárd plébániatemplom",
                   "text": "A település központjában álló neogótikus katolikus templom Wohlen egyik legfontosabb építészeti jelképe.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.2781,
+                        47.35143
+                  ]
             },
             {
                   "name": "Zentralhaus",
                   "text": "Egykori szalmafeldolgozó gyárépület, amely ma kulturális és üzleti központként funkcionál a városban.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.342064,
+                        47.346592
+                  ]
             },
             {
                   "name": "Wohlent Kantonális Iskola",
                   "text": "A modern oktatási központ épülete építészetileg jelentős, a régió szellemi központjának számít.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.270857,
+                        47.355352
+                  ]
             },
             {
                   "name": "Erdmannlistein",
                   "text": "A közeli erdőben található ősi kőképződmény, amelyhez számos helyi legenda és népmese kapcsolódik.",
                   "category": "monuments",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Eisweiher",
-                  "text": "Hangulatos kis tó az erdő szélén, amely kedvelt pihenőhely a helyiek és a természetjárók körében.",
-                  "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Sternensaal Kulturális Központ",
-                  "text": "A város kulturális életének szíve, ahol rendszeresen tartanak színházi előadásokat és koncerteket.",
-                  "category": "theatres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Büezberg",
-                  "text": "Erdős dombvidék Wohlen felett, ahonnan remek kilátás nyílik a környező Bünz-völgyre.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.31276,
+                        47.349593
+                  ]
             }
       ],
       "ro": [
             {
-                  "name": "Muzeul Paielor Freiamt",
-                  "text": "Prezintă istoria fascinantă a industriei împletiturilor din paie, care a făcut localitatea celebră în lume.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "Biserica Parohială Sfântul Leonhard",
                   "text": "O biserică catolică impresionantă în stil neogotic, situată în centrul civic al orașului Wohlen.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.2781,
+                        47.35143
+                  ]
             },
             {
                   "name": "Clădirea Zentralhaus",
                   "text": "Fostă fabrică de prelucrare a paielor, această clădire istorică găzduiește astăzi birouri și spații culturale.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.342064,
+                        47.346592
+                  ]
             },
             {
                   "name": "Școala Cantonală Wohlen",
                   "text": "O clădire educațională modernă și impunătoare, considerată un monument arhitectural al cantonului Aargau.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.270857,
+                        47.355352
+                  ]
             },
             {
                   "name": "Erdmannlistein",
                   "text": "O formațiune megalitică situată în pădurea din apropiere, despre care se crede că a fost un loc de cult antic.",
                   "category": "monuments",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Lacul Eisweiher",
-                  "text": "Un lac pitoresc la marginea pădurii, ideal pentru plimbări relaxante și recreere în mijlocul naturii.",
-                  "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Centrul Cultural Sternensaal",
-                  "text": "Principalul loc de desfășurare a evenimentelor culturale, teatrale și muzicale din comunitate.",
-                  "category": "theatres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Dealul Büezberg",
-                  "text": "O zonă deluroasă împădurită ce oferă trasee de drumeție și panorame frumoase asupra văii Bünz.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.31276,
+                        47.349593
+                  ]
             }
       ],
       "en": [
             {
-                  "name": "Freiamt Straw Museum",
-                  "text": "Located in Park Caspar, this museum showcases the world-renowned history of the local straw weaving industry.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
                   "name": "St. Leonhard Parish Church",
                   "text": "A neo-Gothic Catholic church that stands as a landmark in the center of Wohlen with its tall spire.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.2781,
+                        47.35143
+                  ]
             },
             {
                   "name": "Zentralhaus",
                   "text": "A historic former straw factory building that has been repurposed into a multi-use commercial center.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.342064,
+                        47.346592
+                  ]
             },
             {
                   "name": "Kantonsschule Wohlen",
                   "text": "The local cantonal high school building is an architecturally significant educational hub in the region.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.270857,
+                        47.355352
+                  ]
             },
             {
                   "name": "Erdmannlistein",
                   "text": "A group of large prehistoric stones in the nearby forest, shrouded in local myths and legends.",
                   "category": "monuments",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Eisweiher",
-                  "text": "A tranquil small lake near the forest edge, popular for walking and enjoying local nature.",
-                  "category": "parks",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Sternensaal Cultural Center",
-                  "text": "A key venue for performing arts, hosting various concerts, theater plays, and cultural festivals.",
-                  "category": "theatres",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Büezberg",
-                  "text": "A scenic wooded ridge providing hiking trails and panoramic views over the surrounding countryside.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.31276,
+                        47.349593
+                  ]
             }
       ]
 }
@@ -8896,49 +12176,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Château de Villa",
                   "text": "Ein prachtvolles Schloss, das heute eine bekannte Vinothek und ein Restaurant für Walliser Spezialitäten beherbergt.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.52134,
+                        46.29411
+                  ]
             },
             {
                   "name": "Musée Rainer Maria Rilke",
                   "text": "Das Museum im Maison de Courten ist dem Leben und Werk des Dichters gewidmet, der hier seine letzten Jahre verbrachte.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.530941,
+                        46.293012
+                  ]
             },
             {
                   "name": "Lac de Géronde",
                   "text": "Ein malerischer Badesee, der von Weinbergen umgeben ist und als Oase der Entspannung in Sierre gilt.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.543056,
+                        46.289167
+                  ]
             },
             {
                   "name": "Hôtel de Ville de Sierre",
                   "text": "Das prächtige Rathaus der Stadt besticht durch seine Architektur und seine zentrale Lage am Hauptplatz.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.529572,
+                        46.28552
+                  ]
             },
             {
                   "name": "Eglise Sainte-Catherine",
                   "text": "Die spätgotische Pfarrkirche im Herzen von Sierre ist bekannt für ihre kunstvollen Glasmalereien.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5362,
+                        46.29359
+                  ]
             },
             {
                   "name": "Château des Vidomnes",
                   "text": "Ein markanter Wohnturm aus dem 15. Jahrhundert, der an die adlige Vergangenheit der Region erinnert.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.535012,
+                        46.293404
+                  ]
             },
             {
                   "name": "Musée valaisan de la Vigne et du Vin",
                   "text": "Dieses Museum dokumentiert die reiche Weinbautradition des Wallis und die Geschichte der Reben.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.52149,
+                        46.29373
+                  ]
             },
             {
                   "name": "Funiculaire Sierre-Montana-Crans",
                   "text": "Eine der längsten Standseilbahnen Europas, die Sierre mit dem hochgelegenen Kurort Crans-Montana verbindet.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5127,
+                        46.303
+                  ]
             }
       ],
       "hu": [
@@ -8946,49 +12258,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Villa-kastély",
                   "text": "Elegáns kastély, amely ma híres borozónak és Wallis kanton jellegzetes ételeit kínáló étteremnek ad otthont.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.52134,
+                        46.29411
+                  ]
             },
             {
                   "name": "Rainer Maria Rilke Múzeum",
                   "text": "A költőnek szentelt múzeum a Maison de Courten épületében található, bemutatva itteni utolsó éveit.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.530941,
+                        46.293012
+                  ]
             },
             {
                   "name": "Géronde-tó",
                   "text": "Sierre szélén fekvő festői tó, amelyet szőlőültetvények vesznek körül, ideális fürdőzésre és pihenésre.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.543056,
+                        46.289167
+                  ]
             },
             {
                   "name": "Városháza (Sierre)",
                   "text": "Sierre impozáns városházája a település politikai és közösségi életének központja a főtéren.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.529572,
+                        46.28552
+                  ]
             },
             {
                   "name": "Szent Katalin templom",
                   "text": "A város központjában álló gótikus stílusú plébániatemplom értékes belső díszítéséről és üvegablakairól ismert.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5362,
+                        46.29359
+                  ]
             },
             {
                   "name": "Vidomnes-kastély",
                   "text": "15. századi lakótorony és nemesi rezidencia, amely Sierre történelmi városképének meghatározó eleme.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.535012,
+                        46.293404
+                  ]
             },
             {
                   "name": "Wallisi Szőlő- és Bormúzeum",
                   "text": "A múzeum a régió több évszázados borászati hagyományait és a szőlőművelés technológiáit mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.52149,
+                        46.29373
+                  ]
             },
             {
                   "name": "Sierre-Montana sikló",
                   "text": "Európa egyik leghosszabb siklója, amely a völgyben fekvő várost köti össze a magaslati Crans-Montanával.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5127,
+                        46.303
+                  ]
             }
       ],
       "ro": [
@@ -8996,49 +12340,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Villa",
                   "text": "Un castel superb care găzduiește o vinotecă celebră și un restaurant cu specialități tradiționale din Valais.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.52134,
+                        46.29411
+                  ]
             },
             {
                   "name": "Muzeul Rainer Maria Rilke",
                   "text": "Situat în Maison de Courten, muzeul este dedicat vieții poetului care și-a petrecut ultimii ani în această regiune.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.530941,
+                        46.293012
+                  ]
             },
             {
                   "name": "Lacul Géronde",
                   "text": "Un lac pitoresc înconjurat de vii, oferind o oază de liniște și facilități pentru înot în timpul verii.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.543056,
+                        46.289167
+                  ]
             },
             {
                   "name": "Primăria din Sierre",
                   "text": "O clădire administrativă impunătoare situată în inima orașului, remarcabilă prin arhitectura sa clasică.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.529572,
+                        46.28552
+                  ]
             },
             {
                   "name": "Biserica Sfânta Ecaterina",
                   "text": "Biserica parohială principală din Sierre, construită în stil gotic târziu și decorată cu vitralii artistice.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5362,
+                        46.29359
+                  ]
             },
             {
                   "name": "Castelul Vidomnes",
                   "text": "Un turn rezidențial din secolul al XV-lea, mărturie a istoriei medievale și a nobilimii din Sierre.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.535012,
+                        46.293404
+                  ]
             },
             {
                   "name": "Muzeul Valaisan al Viei și Vinului",
                   "text": "Documentează bogata tradiție viticolă a cantonului Valais, explorând procesul de producție a vinului.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.52149,
+                        46.29373
+                  ]
             },
             {
                   "name": "Funicularul Sierre-Montana",
                   "text": "Unul dintre cele mai lungi funiculare din Europa, făcând legătura între oraș și stațiunea montană Crans-Montana.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5127,
+                        46.303
+                  ]
             }
       ],
       "en": [
@@ -9046,49 +12422,81 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Château de Villa",
                   "text": "A stunning castle hosting a renowned wine cellar and a restaurant specializing in Valais regional cuisine.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.52134,
+                        46.29411
+                  ]
             },
             {
                   "name": "Rainer Maria Rilke Museum",
                   "text": "Located in the Maison de Courten, this museum is dedicated to the famous poet who lived nearby in his later years.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.530941,
+                        46.293012
+                  ]
             },
             {
                   "name": "Lac de Géronde",
                   "text": "A scenic lake surrounded by vineyards, serving as a popular recreational spot and swimming area in Sierre.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.543056,
+                        46.289167
+                  ]
             },
             {
                   "name": "Sierre City Hall",
                   "text": "The town's historic administrative building, noted for its architecture and central location in Sierre.",
                   "category": "famous buildings",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.529572,
+                        46.28552
+                  ]
             },
             {
                   "name": "St. Catherine Church",
                   "text": "The main parish church of Sierre, a late Gothic building known for its beautiful interior and stained glass.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5362,
+                        46.29359
+                  ]
             },
             {
                   "name": "Château des Vidomnes",
                   "text": "A 15th-century residential tower and historic castle that represents the medieval heritage of the city.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.535012,
+                        46.293404
+                  ]
             },
             {
                   "name": "Valaisan Wine Museum",
                   "text": "This museum tells the story of the vine and wine-making traditions in the heart of Switzerland's wine capital.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.52149,
+                        46.29373
+                  ]
             },
             {
                   "name": "Sierre-Montana Funicular",
                   "text": "One of the longest funicular lines in Europe, connecting Sierre to the resort of Crans-Montana.",
                   "category": "monuments",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.5127,
+                        46.303
+                  ]
             }
       ]
 }
@@ -9100,49 +12508,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Insel Ufnau",
                   "text": "Die Insel Ufenau im Zürichsee gehört zum Kloster Einsiedeln und beherbergt die romanische Kirche St. Adelrich sowie die Martinskapelle.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.776684,
+                        47.217936
+                  ]
             },
             {
                   "name": "Schloss Pfäffikon",
                   "text": "Der markante Turm des Schlosses Pfäffikon stammt aus dem 13. Jahrhundert und diente einst dem Schutz der Einsiedler Pilgerwege.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.774851,
+                        47.204642
+                  ]
             },
             {
                   "name": "Seedamm von Rapperswil",
                   "text": "Die historische Brückenverbindung über den Zürichsee verbindet Pfäffikon mit Rapperswil und bietet einen weiten Blick über das Alpenpanorama.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.809778,
+                        47.22075
+                  ]
             },
             {
                   "name": "Alpamare Pfäffikon",
                   "text": "Das berühmte Erlebnisbad ist eines der größten Europas und stellt ein markantes modernes Bauwerk im Herzen der Gemeinde dar.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.789809,
+                        47.200383
+                  ]
             },
             {
                   "name": "Naturschutzgebiet Frauenwinkel",
                   "text": "Diese größte zusammenhängende Seeuferlandschaft am Zürichsee ist ein bedeutendes Refugium für seltene Pflanzen und Vögel.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kapelle St. Martin",
-                  "text": "Die auf der Insel Ufnau gelegene Kapelle stammt in ihren Grundzügen aus dem 7. Jahrhundert und ist ein Juwel sakraler Baukunst.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Seekapelle Pfäffikon",
-                  "text": "Die kleine Kapelle direkt am Seeufer ist der heiligen Anna gewidmet und ist ein Ort der Stille in der belebten Seegemeinde.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.76927,
+                        47.205856
+                  ]
             },
             {
                   "name": "Kirche St. Adelrich",
                   "text": "Das romanische Gotteshaus auf der Insel Ufnau wurde im 12. Jahrhundert erbaut und ist dem heiligen Einsiedler Adelrich geweiht.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.760308,
+                        47.205206
+                  ]
             }
       ],
       "hu": [
@@ -9150,49 +12570,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Ufnau-sziget",
                   "text": "A Zürichi-tó legnagyobb szigete az Einsiedeln-apátsághoz tartozik, román stílusú templommal és Szent Márton-kápolnával várja a látogatókat.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.776684,
+                        47.217936
+                  ]
             },
             {
                   "name": "Pfäffikon kastélya",
                   "text": "A pfäffikoni kastély jellegzetes tornya a 13. századból származik, egykor az Einsiedelnbe tartó zarándokutak védelmét szolgálta.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.774851,
+                        47.204642
+                  ]
             },
             {
                   "name": "Seedamm gát és híd",
                   "text": "A Zürichi-tavon átívelő történelmi összeköttetés Pfäffikont köti össze Rapperswil városával, lenyűgöző kilátást nyújtva az Alpokra.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.809778,
+                        47.22075
+                  ]
             },
             {
                   "name": "Alpamare Pfäffikon",
                   "text": "Európa egyik legnagyobb fedett élményfürdője, amely modern építészeti kialakításával a település egyik legismertebb pontja.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.789809,
+                        47.200383
+                  ]
             },
             {
                   "name": "Frauenwinkel természetvédelmi terület",
                   "text": "A Zürichi-tó legnagyobb összefüggő nádas és mocsaras partvidéke, amely ritka növények és madárfajok fontos élőhelye.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Márton-kápolna",
-                  "text": "Az Ufnau-szigeten található kis kápolna alapjai a 7. századból származnak, a térség egyik legrégebbi egyházi építménye.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pfäffikoni tóparti kápolna",
-                  "text": "A közvetlenül a tóparton álló, Szent Annának szentelt kápolna a település egyik legnyugodtabb és legmeghittebb szakrális helyszíne.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.76927,
+                        47.205856
+                  ]
             },
             {
                   "name": "Szent Adelrich-templom",
                   "text": "A 12. századi román stílusú templom az Ufnau-sziget központjában áll, nevét a szigeten élt híres remetéről kapta.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.760308,
+                        47.205206
+                  ]
             }
       ],
       "ro": [
@@ -9200,49 +12632,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Insula Ufnau",
                   "text": "Insula Ufenau de pe lacul Zürich aparține mănăstirii Einsiedeln și găzduiește biserica romanică Sf. Adelrich și capela Sf. Martin.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.776684,
+                        47.217936
+                  ]
             },
             {
                   "name": "Castelul Pfäffikon",
                   "text": "Turnul castelului Pfäffikon datează din secolul al XIII-lea și a servit inițial protejării rutelor de pelerinaj către Einsiedeln.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.774851,
+                        47.204642
+                  ]
             },
             {
                   "name": "Seedamm din Rapperswil",
                   "text": "Această legătură istorică peste lacul Zürich unește Pfäffikon de Rapperswil, oferind o panoramă spectaculoasă asupra Alpilor.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.809778,
+                        47.22075
+                  ]
             },
             {
                   "name": "Alpamare Pfäffikon",
                   "text": "Acest parc acvatic renumit este unul dintre cele mai mari din Europa, fiind o structură modernă emblematică pentru comunitate.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.789809,
+                        47.200383
+                  ]
             },
             {
                   "name": "Rezervația Frauenwinkel",
                   "text": "Cea mai mare zonă naturală de mal de pe lacul Zürich, un refugiu important pentru plante rare și numeroase specii de păsări.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Capela Sfântul Martin",
-                  "text": "Situată pe insula Ufnau, această capelă are origini în secolul al VII-lea și reprezintă o bijuterie a arhitecturii sacre vechi.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Capela de pe malul lacului",
-                  "text": "O mică capelă dedicată Sfintei Ana, situată chiar pe malul apei în Pfäffikon, oferind un loc de liniște vizitatorilor.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.76927,
+                        47.205856
+                  ]
             },
             {
                   "name": "Biserica Sfântul Adelrich",
                   "text": "Edificiul religios în stil romanic de pe insula Ufnau a fost construit în secolul al XII-lea și este dedicat pustnicului Adelrich.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.760308,
+                        47.205206
+                  ]
             }
       ],
       "en": [
@@ -9250,49 +12694,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Ufnau Island",
                   "text": "Ufenau Island in Lake Zurich belongs to Einsiedeln Abbey and features the Romanesque St. Adelrich Church and St. Martin's Chapel.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.776684,
+                        47.217936
+                  ]
             },
             {
                   "name": "Pfäffikon Castle",
                   "text": "The prominent tower of Pfäffikon Castle dates back to the 13th century and once protected the pilgrimage routes to Einsiedeln.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.774851,
+                        47.204642
+                  ]
             },
             {
                   "name": "Rapperswil Seedamm",
                   "text": "This historic causeway across Lake Zurich connects Pfäffikon with Rapperswil and offers panoramic views of the Glarus Alps.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.809778,
+                        47.22075
+                  ]
             },
             {
                   "name": "Alpamare Pfäffikon",
                   "text": "This famous water park is one of Europe's largest indoor facilities and is a key modern landmark in the municipality.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.789809,
+                        47.200383
+                  ]
             },
             {
                   "name": "Frauenwinkel Nature Reserve",
                   "text": "The largest contiguous lakeside landscape on Lake Zurich, serving as a vital sanctuary for rare flora and avian species.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Martin's Chapel",
-                  "text": "Located on Ufnau Island, this chapel's foundations date to the 7th century, making it a jewel of early medieval sacred art.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pfäffikon Lakeside Chapel",
-                  "text": "A small chapel dedicated to Saint Anne, situated directly on the shores of Lake Zurich, providing a peaceful retreat.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.76927,
+                        47.205856
+                  ]
             },
             {
                   "name": "St. Adelrich Church",
                   "text": "The Romanesque church on Ufnau Island was built in the 12th century and is dedicated to the holy hermit Adelrich.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.760308,
+                        47.205206
+                  ]
             }
       ]
 }
@@ -9304,49 +12760,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Pratteln",
                   "text": "Das Prattler Wasserschloss im Dorfzentrum ist ein bedeutendes Baudenkmal aus dem 13. Jahrhundert mit barocken Wohnausbauten.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.69523,
+                        47.51857
+                  ]
             },
             {
                   "name": "Burgruine Madeln",
                   "text": "Die hoch über Pratteln gelegene Ruine der Burg Madeln bietet Wanderern einen Einblick in die mittelalterliche Befestigungskultur.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.696698,
+                        47.506532
+                  ]
             },
             {
                   "name": "Reformierte Kirche St. Leodegar",
                   "text": "Die markante Dorfkirche mit ihrem spätgotischen Turm prägt das historische Ortsbild und ist ein zentrales kulturelles Erbe.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Joerin-Park",
-                  "text": "Diese öffentliche Parkanlage mit der herrschaftlichen Villa Joerin ist eine grüne Oase und dient als Ort für kulturelle Anlässe.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bürgerhaus Pratteln",
-                  "text": "Das Museum im ehemaligen Bauernhaus zeigt eindrücklich die Geschichte und die Entwicklung der Gemeinde vom Dorf zur Stadt.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Alter Dorfkern",
-                  "text": "Die gut erhaltenen Riegelhäuser im alten Kern von Pratteln zeugen von der bäuerlichen Vergangenheit und laden zum Spaziergang ein.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Rheinhafen Pratteln",
-                  "text": "Der Industriehafen am Rhein ist ein eindrucksvolles Beispiel moderner Logistikarchitektur und ein wichtiger Wirtschaftsfaktor.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.714376,
+                        47.502889
+                  ]
             },
             {
                   "name": "KUSPO Pratteln",
                   "text": "Das Kultur- und Sportzentrum ist der moderne Mittelpunkt für Veranstaltungen und architektonisch interessant gestaltet.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.695737,
+                        47.519447
+                  ]
             }
       ],
       "hu": [
@@ -9354,49 +12802,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Prattelni vízi kastély",
                   "text": "A falu központjában álló prattelni vízi kastély egy jelentős 13. századi műemlék, amely barokk stílusú lakóépületekkel egészült ki.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.69523,
+                        47.51857
+                  ]
             },
             {
                   "name": "Madeln várrom",
                   "text": "A Pratteln felett magasan fekvő Madeln várrom bepillantást enged a látogatóknak a régió középkori erődítménykultúrájába.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.696698,
+                        47.506532
+                  ]
             },
             {
                   "name": "Szent Leodegár református templom",
                   "text": "A késő gótikus toronnyal rendelkező falusi templom meghatározza a település képét és fontos helyi kulturális örökség.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Joerin-park",
-                  "text": "A Joerin-villa körül fekvő nyilvános park a város zöld oázisa, amely számos kulturális eseménynek ad otthont.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bürgerhaus Pratteln",
-                  "text": "Az egykori parasztházban kialakított múzeum szemléletesen mutatja be a közösség fejlődését a falutól a modern városig.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Óvárosi mag",
-                  "text": "Pratteln régi magjának jól megőrzött gerendavázas házai a település mezőgazdasági múltjáról tanúskodnak.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Prattelni Rajna-kikötő",
-                  "text": "A Rajna partján fekvő ipari kikötő a modern logisztikai építészet lenyűgöző példája és fontos gazdasági központ.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.714376,
+                        47.502889
+                  ]
             },
             {
                   "name": "KUSPO kulturális központ",
                   "text": "A modern Kulturális és Sportközpont a település rendezvényeinek központi helyszíne és építészetileg is izgalmas alkotás.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.695737,
+                        47.519447
+                  ]
             }
       ],
       "ro": [
@@ -9404,49 +12844,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Pratteln",
                   "text": "Castelul de apă din Pratteln, situat în centrul satului, este un monument istoric din secolul al XIII-lea cu elemente baroce.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.69523,
+                        47.51857
+                  ]
             },
             {
                   "name": "Ruina cetății Madeln",
                   "text": "Ruinele cetății Madeln, situate deasupra orașului Pratteln, oferă o imagine asupra fortificațiilor medievale din regiune.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.696698,
+                        47.506532
+                  ]
             },
             {
                   "name": "Biserica Reformată Sf. Leodegar",
                   "text": "Biserica proeminentă cu turnul său gotic târziu domină peisajul istoric al localității și este un patrimoniu central.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Parcul Joerin",
-                  "text": "Acest parc public ce înconjoară Vila Joerin este o oază de verdeață și servește drept loc pentru diverse evenimente culturale.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Muzeul Bürgerhaus",
-                  "text": "Găzduit într-o fostă fermă, muzeul prezintă evoluția fascinantă a comunității de la un sat agricol la un oraș modern.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Centrul vechi",
-                  "text": "Casele cu structură din lemn bine conservate din centrul vechi al orașului Pratteln evocă trecutul rural al așezării.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Portul de pe Rin Pratteln",
-                  "text": "Portul industrial de pe malul Rinului este un exemplu impresionant de arhitectură logistică modernă și un motor economic.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.714376,
+                        47.502889
+                  ]
             },
             {
                   "name": "Centrul KUSPO",
                   "text": "Centrul cultural și sportiv este punctul focal modern pentru evenimente, având un design arhitectural contemporan interesant.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.695737,
+                        47.519447
+                  ]
             }
       ],
       "en": [
@@ -9454,49 +12886,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Pratteln Castle",
                   "text": "The Pratteln moated castle in the village center is a significant 13th-century monument with later Baroque residential additions.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.69523,
+                        47.51857
+                  ]
             },
             {
                   "name": "Madeln Castle Ruins",
                   "text": "Located high above Pratteln, the ruins of Madeln Castle offer hikers an insight into the medieval fortification culture of the region.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.696698,
+                        47.506532
+                  ]
             },
             {
                   "name": "St. Leodegar Reformed Church",
                   "text": "The prominent village church with its late Gothic tower shapes the historic skyline and is a key part of the local heritage.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Joerin Park",
-                  "text": "This public park surrounding the stately Villa Joerin is a green oasis and serves as a venue for various cultural events.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bürgerhaus Pratteln",
-                  "text": "The museum, housed in a former farmhouse, vividly displays the development of the community from a village to a town.",
-                  "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Old Town Center",
-                  "text": "The well-preserved half-timbered houses in the old core of Pratteln bear witness to the town's agricultural past.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pratteln Rhine Port",
-                  "text": "The industrial port on the Rhine is an impressive example of modern logistics architecture and a vital economic hub.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.714376,
+                        47.502889
+                  ]
             },
             {
                   "name": "KUSPO Cultural Centre",
                   "text": "The Culture and Sports Center is the modern hub for community events and features an architecturally interesting design.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.695737,
+                        47.519447
+                  ]
             }
       ]
 }
@@ -9508,49 +12932,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Burgdorf",
                   "text": "Majestätisches Zähringerschloss aus dem 12. Jahrhundert, beherbergt heute ein Museum und eine Jugendherberge.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629073,
+                        47.05509
+                  ]
             },
             {
                   "name": "Museum Franz Gertsch",
                   "text": "Ein Museum für zeitgenössische Kunst, das hauptsächlich die monumentalen Holzschnitte des Künstlers ausstellt.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Altstadt Burgdorf",
-                  "text": "Die gut erhaltene mittelalterliche Oberstadt mit ihren historischen Gassen und dem Marktplatz ist sehr sehenswert.",
-                  "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.624942,
+                        47.058064
+                  ]
             },
             {
                   "name": "Stadtkirche",
                   "text": "Ein spätgotischer Bau mit einem markanten Turm, der das Stadtbild seit Jahrhunderten maßgeblich prägt.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.624821,
+                        47.056428
+                  ]
             },
             {
                   "name": "Kornhaus",
                   "text": "Ein historisches Speichergebäude, das heute als Kulturzentrum und für Ausstellungen zur Geschichte genutzt wird.",
                   "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Flüehli",
-                  "text": "Ein beliebter Aussichtspunkt auf einem Sandsteinfelsen mit weitem Blick über das Emmental und die Alpen.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.626642,
+                        47.058349
+                  ]
             },
             {
                   "name": "Helvetisches Goldmuseum",
                   "text": "Das einzige Goldmuseum der Schweiz im Schloss zeigt die spannende Geschichte der Goldwäscherei in den Alpen.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62917,
+                        47.055
+                  ]
             },
             {
                   "name": "Casino Theater",
                   "text": "Ein neoklassizistisches Theatergebäude, das ein vielfältiges Programm an Schauspiel und Konzerten bietet.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.6261,
+                        47.056545
+                  ]
             }
       ],
       "hu": [
@@ -9558,49 +12994,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Burgdorfi vár",
                   "text": "A 12. századi fenséges Zähringer-kastély ma múzeumnak és ifjúsági szállásnak ad otthont a város felett.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629073,
+                        47.05509
+                  ]
             },
             {
                   "name": "Franz Gertsch Múzeum",
                   "text": "Kortárs művészeti múzeum, amely elsősorban a művész monumentális fametszeteit mutatja be a látogatóknak.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Burgdorfi óváros",
-                  "text": "A jól megőrzött középkori felsőváros történelmi utcáival és piacterével rendkívül hangulatos helyszín.",
-                  "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.624942,
+                        47.058064
+                  ]
             },
             {
                   "name": "Városi templom",
                   "text": "Késő gótikus épület jellegzetes toronnyal, amely évszázadok óta meghatározza a város látképét.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.624821,
+                        47.056428
+                  ]
             },
             {
                   "name": "Kornhaus",
                   "text": "Történelmi raktárépület, amely ma kulturális központként és helytörténeti kiállítások helyszíneként szolgál.",
                   "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Flüehli",
-                  "text": "Népszerű kilátópont egy homokkő sziklán, ahonnan pazar kilátás nyílik az Emmentalra és az Alpokra.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.626642,
+                        47.058349
+                  ]
             },
             {
                   "name": "Helvét Aranymúzeum",
                   "text": "Svájc egyetlen aranymúzeuma a várban, amely az alpesi aranymosás történetét mutatja be részletesen.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62917,
+                        47.055
+                  ]
             },
             {
                   "name": "Casino Színház",
                   "text": "Neoklasszicista színházépület, amely színdarabok és koncertek változatos programját kínálja a közönségnek.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.6261,
+                        47.056545
+                  ]
             }
       ],
       "ro": [
@@ -9608,49 +13056,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Burgdorf",
                   "text": "Majestuosul castel Zähringer din secolul al XII-lea găzduiește astăzi un muzeu și un hostel pentru tineret.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629073,
+                        47.05509
+                  ]
             },
             {
                   "name": "Muzeul Franz Gertsch",
                   "text": "Un muzeu de artă contemporană care expune în principal xilogravurile monumentale ale artistului Franz Gertsch.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Orașul vechi Burgdorf",
-                  "text": "Orașul vechi medieval bine conservat, cu străzile sale istorice și piața centrală, este foarte pitoresc.",
-                  "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.624942,
+                        47.058064
+                  ]
             },
             {
                   "name": "Biserica orașului",
                   "text": "O clădire în stil gotic târziu, cu un turn distinctiv care domină panorama orașului de secole.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.624821,
+                        47.056428
+                  ]
             },
             {
                   "name": "Kornhaus",
                   "text": "O magazie istorică de cereale, folosită astăzi ca centru cultural și pentru expoziții de istorie locală.",
                   "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Flüehli",
-                  "text": "Un punct de belvedere popular pe o stâncă de gresie, oferind o vedere panoramică asupra Emmental și Alpilor.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.626642,
+                        47.058349
+                  ]
             },
             {
                   "name": "Muzeul Aurului Helvetian",
                   "text": "Singurul muzeu al aurului din Elveția, situat în castel, prezintă istoria spălării aurului în Alpi.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62917,
+                        47.055
+                  ]
             },
             {
                   "name": "Teatrul Casino",
                   "text": "O clădire de teatru neoclasică ce oferă un program variat de spectacole dramatice și concerte muzicale.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.6261,
+                        47.056545
+                  ]
             }
       ],
       "en": [
@@ -9658,49 +13118,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Burgdorf Castle",
                   "text": "A majestic 12th-century Zähringer castle that now houses a museum and a modern youth hostel.",
                   "category": "castles",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629073,
+                        47.05509
+                  ]
             },
             {
                   "name": "Museum Franz Gertsch",
                   "text": "A museum for contemporary art primarily showcasing the monumental woodcuts of the artist Franz Gertsch.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Burgdorf Old Town",
-                  "text": "The well-preserved medieval upper town with its historic alleys and central marketplace is worth a visit.",
-                  "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.624942,
+                        47.058064
+                  ]
             },
             {
                   "name": "Stadtkirche",
                   "text": "A late Gothic church with a striking tower that has defined the Burgdorf skyline for centuries.",
                   "category": "churches",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.624821,
+                        47.056428
+                  ]
             },
             {
                   "name": "Kornhaus",
                   "text": "A historic granary building now serving as a cultural center and a venue for local history exhibitions.",
                   "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Flüehli",
-                  "text": "A popular viewpoint on a sandstone cliff offering wide views over the Emmental valley and the Alps.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.626642,
+                        47.058349
+                  ]
             },
             {
                   "name": "Helvetisches Goldmuseum",
                   "text": "Switzerland's only gold museum, located in the castle, displays the history of gold washing in the Alps.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.62917,
+                        47.055
+                  ]
             },
             {
                   "name": "Casino Theater",
                   "text": "A neoclassical theatre building offering a diverse program of theatrical plays and musical concerts.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.6261,
+                        47.056545
+                  ]
             }
       ]
 }
@@ -9709,202 +13181,250 @@ export const poiExtraAtChMissingV1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Choufhüsi (Kaufhaus)",
-                  "text": "Das markante Wahrzeichen der Stadt mit Glockenturm, einst Marktplatz, heute Sitz der Stadtverwaltung.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Stadtkirche Langenthal",
-                  "text": "Eine barocke Kirche mit beeindruckenden Deckenmalereien und einer bedeutenden Orgel im Stadtzentrum.",
-                  "category": "churches",
-                  "confidence": "high"
-            },
-            {
                   "name": "Museum Langenthal",
                   "text": "Das Museum in der 'Alten Mühle' zeigt die Industriegeschichte der Region und wechselnde Kunstausstellungen.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.788113,
+                        47.212845
+                  ]
             },
             {
                   "name": "Stadttheater Langenthal",
                   "text": "Ein bedeutendes Regionaltheater, bekannt für seine hochwertige Akustik und das anspruchsvolle Programm.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.788611,
+                        47.213889
+                  ]
             },
             {
                   "name": "Tierpark Langenthal",
                   "text": "Ein kleiner, idyllischer Wildpark am Waldrand, ideal für Familien, mit einheimischen Tieren wie Hirschen.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.798069,
+                        47.211887
+                  ]
             },
             {
                   "name": "Design Center Langenthal",
                   "text": "Ein wichtiges Forum für Schweizer Design, das moderne Gestaltungskonzepte und Ausstellungen präsentiert.",
                   "category": "cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.781552,
+                        47.203845
+                  ]
             },
             {
                   "name": "Alte Mühle",
                   "text": "Ein historisches Mühlengebäude, das heute als Kulturzentrum und Veranstaltungsort für lokale Events dient.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.792184,
+                        47.214638
+                  ]
             },
             {
                   "name": "Wässermatten",
                   "text": "Einzigartiges traditionelles Bewässerungssystem und Landschaftsschutzgebiet für entspannte Spaziergänge.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.79215,
+                        47.22158
+                  ]
             }
       ],
       "hu": [
             {
-                  "name": "Choufhüsi (Városháza)",
-                  "text": "A város jellegzetes, harangtornyos jelképe, egykor piactér volt, ma a városi közigazgatás székhelye.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Langenthali városi templom",
-                  "text": "Barokk templom lenyűgöző mennyezeti festményekkel és jelentős orgonával a város szívében.",
-                  "category": "churches",
-                  "confidence": "high"
-            },
-            {
                   "name": "Langenthal Múzeum",
                   "text": "Az 'Alte Mühle' épületében található múzeum a régió ipartörténetét és művészeti tárlatokat mutat be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.788113,
+                        47.212845
+                  ]
             },
             {
                   "name": "Városi Színház",
                   "text": "Jelentős regionális színház, amely kiváló akusztikájáról és igényes kulturális programjairól ismert.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.788611,
+                        47.213889
+                  ]
             },
             {
                   "name": "Langenthali Vadaspark",
                   "text": "Kicsi, idilli vadaspark az erdő szélén, őshonos állatokkal, tökéletes helyszín a családok számára.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.798069,
+                        47.211887
+                  ]
             },
             {
                   "name": "Design Központ",
                   "text": "A svájci design fontos fóruma, amely modern tervezési koncepciókat és kiállításokat mutat be.",
                   "category": "cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.781552,
+                        47.203845
+                  ]
             },
             {
                   "name": "Alte Mühle (Régi Malom)",
                   "text": "Történelmi malomépület, amely ma kulturális központként és helyi rendezvények helyszíneként működik.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.792184,
+                        47.214638
+                  ]
             },
             {
                   "name": "Wässermatten",
                   "text": "Egyedülálló hagyományos öntözőrendszer és tájvédelmi körzet, amely pihentető sétákra hív a természetbe.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.79215,
+                        47.22158
+                  ]
             }
       ],
       "ro": [
             {
-                  "name": "Choufhüsi",
-                  "text": "Emblema distinctivă a orașului cu turn cu ceas, fostă piață, astăzi sediul administrației orașului.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica orașului Langenthal",
-                  "text": "O biserică barocă cu picturi murale impresionante și o orgă semnificativă situată în centrul orașului.",
-                  "category": "churches",
-                  "confidence": "high"
-            },
-            {
                   "name": "Muzeul Langenthal",
                   "text": "Muzeul situat în 'Alte Mühle' prezintă istoria industrială a regiunii și expoziții de artă temporare.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.788113,
+                        47.212845
+                  ]
             },
             {
                   "name": "Teatrul orașului",
                   "text": "Un teatru regional important, cunoscut pentru acustica sa de înaltă calitate și programul cultural divers.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.788611,
+                        47.213889
+                  ]
             },
             {
                   "name": "Parcul Zoologic Langenthal",
                   "text": "Un mic parc zoologic idilic la marginea pădurii, cu animale native, ideal pentru relaxare în familie.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.798069,
+                        47.211887
+                  ]
             },
             {
                   "name": "Design Center",
                   "text": "Un forum important pentru designul elvețian, care prezintă concepte moderne de design și expoziții.",
                   "category": "cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.781552,
+                        47.203845
+                  ]
             },
             {
                   "name": "Moara Veche (Alte Mühle)",
                   "text": "O clădire istorică de moară, care servește astăzi ca centru cultural și loc pentru evenimente locale.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.792184,
+                        47.214638
+                  ]
             },
             {
                   "name": "Wässermatten",
                   "text": "Sistem de irigații tradițional unic și zonă protejată, perfectă pentru plimbări relaxante în natură.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.79215,
+                        47.22158
+                  ]
             }
       ],
       "en": [
             {
-                  "name": "Choufhüsi",
-                  "text": "The city's landmark building with a bell tower, once a marketplace and now the town hall.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Langenthal Reformed Church",
-                  "text": "A Baroque church featuring impressive ceiling paintings and a significant organ in the city center.",
-                  "category": "churches",
-                  "confidence": "high"
-            },
-            {
                   "name": "Museum Langenthal",
                   "text": "Located in the 'Alte Mühle', this museum showcases the region's industrial history and art exhibitions.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.788113,
+                        47.212845
+                  ]
             },
             {
                   "name": "Stadttheater Langenthal",
                   "text": "A prominent regional theatre known for its excellent acoustics and sophisticated cultural program.",
                   "category": "theatres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.788611,
+                        47.213889
+                  ]
             },
             {
                   "name": "Tierpark Langenthal",
                   "text": "A small, idyllic wildlife park at the forest edge with native animals, perfect for families.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.798069,
+                        47.211887
+                  ]
             },
             {
                   "name": "Design Center Langenthal",
                   "text": "An important forum for Swiss design, presenting modern design concepts and various exhibitions.",
                   "category": "cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.781552,
+                        47.203845
+                  ]
             },
             {
                   "name": "Alte Mühle",
                   "text": "A historic mill building that now serves as a vibrant cultural center and venue for local events.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.792184,
+                        47.214638
+                  ]
             },
             {
                   "name": "Wässermatten",
                   "text": "A unique traditional irrigation system and protected landscape area ideal for nature walks.",
                   "category": "parks",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.79215,
+                        47.22158
+                  ]
             }
       ]
 }
@@ -9916,37 +13436,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Steffisburg (Höchhus)",
                   "text": "Das historische Höchhus ist eines der ältesten Gebäude der Region und dient heute als bedeutendes Kulturzentrum.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Reformierte Dorfkirche",
-                  "text": "Die spätgotische Kirche thront markant über dem Dorfzentrum und bietet Besuchern einen weiten Ausblick auf die Alpen.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Ortsmuseum Steffisburg",
-                  "text": "Dieses Museum dokumentiert die reiche Geschichte des Töpferhandwerks und die ländliche Entwicklung der Gemeinde.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.636255,
+                        46.778084
+                  ]
             },
             {
                   "name": "Zulgbrücke",
                   "text": "Die Brücke über die Zulg verbindet die Ortsteile und ist ein zentrales Ingenieursbauwerk im Herzen von Steffisburg.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.617005,
+                        46.773615
+                  ]
             },
             {
                   "name": "Landhaus Steffisburg",
                   "text": "Ein prächtiges historisches Anwesen, das für seine Architektur und als Veranstaltungsort für lokale Feste bekannt ist.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.634176,
+                        46.780653
+                  ]
             },
             {
                   "name": "Kunsthaus Steffisburg",
                   "text": "Ein moderner Raum für zeitgenössische Kunst, der regelmässig Werke von regionalen und nationalen Künstlern ausstellt.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629731,
+                        46.77633
+                  ]
             }
       ],
       "hu": [
@@ -9954,37 +13478,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Steffisburg kastély (Höchhus)",
                   "text": "A történelmi Höchhus a régió egyik legrégebbi épülete, amely ma fontos kulturális központként működik a városban.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Református falusi templom",
-                  "text": "A késő gótikus templom markánsan magasodik a falu központja fölé, tágas kilátást nyújtva a látogatóknak az Alpokra.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Steffisburgi Helytörténeti Múzeum",
-                  "text": "Ez a múzeum dokumentálja a fazekasmesterség gazdag történetét és a település vidéki fejlődését az évszázadok során.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.636255,
+                        46.778084
+                  ]
             },
             {
                   "name": "Zulg-híd",
                   "text": "A Zulg folyón átívelő híd összeköti a településrészeket, és központi mérnöki létesítmény Steffisburg szívében.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.617005,
+                        46.773615
+                  ]
             },
             {
                   "name": "Landhaus Steffisburg",
                   "text": "Pompás történelmi ingatlan, amely építészetéről és a helyi fesztiválok kedvelt helyszíneként ismert a lakosság körében.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.634176,
+                        46.780653
+                  ]
             },
             {
                   "name": "Steffisburgi Művészetek Háza",
                   "text": "Modern tér a kortárs művészet számára, amely rendszeresen állít ki műveket regionális és nemzeti művészektől.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629731,
+                        46.77633
+                  ]
             }
       ],
       "ro": [
@@ -9992,37 +13520,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Steffisburg (Höchhus)",
                   "text": "Clădirea istorică Höchhus este una dintre cele mai vechi din regiune și servește astăzi ca un important centru cultural.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Biserica Reformată din Sat",
-                  "text": "Biserica în stil gotic târziu domină centrul satului și oferă vizitatorilor o vedere panoramică asupra Alpilor elvețieni.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Muzeul Local Steffisburg",
-                  "text": "Acest muzeu documentează istoria bogată a meșteșugului olăritului și dezvoltarea rurală a comunității de-a lungul timpului.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.636255,
+                        46.778084
+                  ]
             },
             {
                   "name": "Podul Zulg",
                   "text": "Podul peste râul Zulg leagă districtele localității și este o structură de inginerie centrală în inima orașului Steffisburg.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.617005,
+                        46.773615
+                  ]
             },
             {
                   "name": "Landhaus Steffisburg",
                   "text": "O proprietate istorică splendidă, cunoscută pentru arhitectura sa și ca loc de desfășurare pentru festivalurile locale.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.634176,
+                        46.780653
+                  ]
             },
             {
                   "name": "Casa de Artă Steffisburg",
                   "text": "Un spațiu modern pentru artă contemporană, care expune în mod regulat lucrări ale artiștilor regionali și naționali.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629731,
+                        46.77633
+                  ]
             }
       ],
       "en": [
@@ -10030,37 +13562,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Steffisburg Castle (Höchhus)",
                   "text": "The historic Höchhus is one of the region's oldest buildings and now serves as a prominent cultural center for the town.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Reformed Village Church",
-                  "text": "The late Gothic church sits prominently above the village center, offering visitors a wide view of the surrounding Alps.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Steffisburg Local Museum",
-                  "text": "This museum documents the rich history of pottery craftsmanship and the rural development of the local community.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.636255,
+                        46.778084
+                  ]
             },
             {
                   "name": "Zulg Bridge",
                   "text": "The bridge over the Zulg river connects the different parts of the village and is a central engineering landmark.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.617005,
+                        46.773615
+                  ]
             },
             {
                   "name": "Landhaus Steffisburg",
                   "text": "A magnificent historic estate known for its grand architecture and as a popular venue for various local festivals.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.634176,
+                        46.780653
+                  ]
             },
             {
                   "name": "Art House Steffisburg",
                   "text": "A modern space for contemporary art, regularly exhibiting works by talented regional and national artists.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.629731,
+                        46.77633
+                  ]
             }
       ]
 }
@@ -10072,49 +13608,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Kloster Einsiedeln",
                   "text": "Das imposante Barockkloster ist ein weltberühmter Wallfahrtsort mit einer prächtigen Bibliothek und einer langen Geschichte.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gnadenkapelle",
-                  "text": "In der Kapelle innerhalb der Klosterkirche befindet sich die Schwarze Madonna, das Ziel tausender Pilger jährlich.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.751389,
+                        47.126667
+                  ]
             },
             {
                   "name": "Diorama Bethlehem",
                   "text": "Mit über 450 handgeschnitzten Figuren gilt es als das grösste Weihnachtsdiorama der Welt und zeigt die Krippenszene.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Panorama Kreuzigung Christi",
-                  "text": "Ein riesiges Rundgemälde aus dem 19. Jahrhundert, das die biblischen Ereignisse von Jerusalem eindrucksvoll darstellt.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.74912,
+                        47.13005
+                  ]
             },
             {
                   "name": "Lebkuchenmuseum Goldapfel",
                   "text": "Das Museum zeigt die traditionelle Herstellung der Einsiedler Schafböcke und die Geschichte des lokalen Backhandwerks.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.748452,
+                        47.127764
+                  ]
             },
             {
                   "name": "Schanzen Einsiedeln",
                   "text": "Die modernen Skisprungschanzen werden für internationales Training genutzt und bieten einen Blick über das Dorf.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73722,
+                        47.1367
+                  ]
             },
             {
                   "name": "Frauenbrunnen",
                   "text": "Der grosse Brunnen auf dem Klosterplatz hat 14 Röhren, aus denen Pilger traditionell das heilige Wasser trinken.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.750611,
+                        47.126583
+                  ]
             },
             {
                   "name": "Sihlsee",
                   "text": "Der nahegelegene Stausee ist der flächenmässig grösste der Schweiz und ein Paradies für Wassersport und Wanderer.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.783333,
+                        47.116667
+                  ]
             }
       ],
       "hu": [
@@ -10122,49 +13670,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Einsiedelni kolostor",
                   "text": "Az impozáns barokk kolostor világhírű zarándokhely, amely pompás könyvtárral és hosszú történelmi múlttal rendelkezik.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kegykápolna",
-                  "text": "A kolostortemplomon belüli kápolnában található a Fekete Madonna, amely évente zarándokok ezreinek célpontja.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.751389,
+                        47.126667
+                  ]
             },
             {
                   "name": "Betlehem Dioráma",
                   "text": "Több mint 450 kézzel faragott figurájával a világ legnagyobb karácsonyi diorámájaként ismert, bemutatva a jászoljelenetet.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Krisztus keresztre feszítése körkép",
-                  "text": "Egy hatalmas, 19. századi körfestmény, amely lenyűgözően ábrázolja Jeruzsálem bibliai eseményeit és a megváltást.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.74912,
+                        47.13005
+                  ]
             },
             {
                   "name": "Goldapfel Mézeskalács Múzeum",
                   "text": "A múzeum bemutatja az einsiedelni mézeskalács hagyományos készítését és a helyi sütőipar érdekes történetét.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.748452,
+                        47.127764
+                  ]
             },
             {
                   "name": "Einsiedelni síugrósáncok",
                   "text": "A modern síugrósáncokat nemzetközi edzésekre használják, és nagyszerű kilátást nyújtanak a lenti falura.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73722,
+                        47.1367
+                  ]
             },
             {
                   "name": "Mária-kút (Frauenbrunnen)",
                   "text": "A kolostortéren álló nagy kútnak 14 csöve van, amelyekből a zarándokok hagyományosan szent vizet isznak.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.750611,
+                        47.126583
+                  ]
             },
             {
                   "name": "Sihl-tó",
                   "text": "A közeli víztározó Svájc legnagyobb területű mesterséges tava, a vízi sportok és a túrázók igazi paradicsoma.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.783333,
+                        47.116667
+                  ]
             }
       ],
       "ro": [
@@ -10172,49 +13732,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Mănăstirea Einsiedeln",
                   "text": "Impunătoarea mănăstire barocă este un loc de pelerinaj renumit la nivel mondial, având o bibliotecă splendidă.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Capela Îndurării",
-                  "text": "În capela din interiorul bisericii mănăstirii se află Madona Neagră, destinația a mii de pelerini în fiecare an.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.751389,
+                        47.126667
+                  ]
             },
             {
                   "name": "Diorama Bethlehem",
                   "text": "Cu peste 450 de figurine sculptate manual, este considerată cea mai mare dioramă de Crăciun din lume.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Panorama Răstignirii lui Hristos",
-                  "text": "O pictură circulară uriașă din secolul al XIX-lea, care înfățișează impresionant evenimentele biblice din Ierusalim.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.74912,
+                        47.13005
+                  ]
             },
             {
                   "name": "Muzeul de Turtă Dulce Goldapfel",
                   "text": "Muzeul prezintă fabricarea tradițională a turtelor dulci din Einsiedeln și istoria panificației locale.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.748452,
+                        47.127764
+                  ]
             },
             {
                   "name": "Trambulinele Einsiedeln",
                   "text": "Trambulinele moderne de sărituri cu schiurile sunt folosite pentru antrenamente internaționale și oferă o vedere panoramică.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73722,
+                        47.1367
+                  ]
             },
             {
                   "name": "Fântâna Doamnei Noastre",
                   "text": "Fântâna mare din piața mănăstirii are 14 tuburi din care pelerinii beau în mod tradițional apă sfințită.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.750611,
+                        47.126583
+                  ]
             },
             {
                   "name": "Lacul Sihlsee",
                   "text": "Lacul de acumulare din apropiere este cel mai mare ca suprafață din Elveția și un paradis pentru sporturi nautice.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.783333,
+                        47.116667
+                  ]
             }
       ],
       "en": [
@@ -10222,49 +13794,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Einsiedeln Abbey",
                   "text": "The imposing Baroque monastery is a world-famous pilgrimage site with a magnificent library and long history.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Chapel of Grace",
-                  "text": "Located inside the abbey church, this chapel houses the Black Madonna, attracting thousands of pilgrims annually.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.751389,
+                        47.126667
+                  ]
             },
             {
                   "name": "Diorama Bethlehem",
                   "text": "Featuring over 450 hand-carved figures, it is known as the world's largest Christmas diorama showing the nativity.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Panorama of the Crucifixion",
-                  "text": "A giant 19th-century circular painting that impressively depicts the biblical events of Jerusalem's history.",
-                  "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.74912,
+                        47.13005
+                  ]
             },
             {
                   "name": "Gingerbread Museum Goldapfel",
                   "text": "The museum showcases the traditional production of Einsiedeln gingerbread and the history of local baking.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.748452,
+                        47.127764
+                  ]
             },
             {
                   "name": "Einsiedeln Ski Jumps",
                   "text": "These modern ski jumps are used for international training and offer a great vantage point over the village.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.73722,
+                        47.1367
+                  ]
             },
             {
                   "name": "Frauenbrunnen Fountain",
                   "text": "The large fountain on the monastery square has 14 jets from which pilgrims traditionally drink fresh holy water.",
                   "category": "bridges/monuments/statues",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.750611,
+                        47.126583
+                  ]
             },
             {
                   "name": "Lake Sihlsee",
                   "text": "The nearby reservoir is Switzerland's largest artificial lake by surface area and a paradise for hikers and water sports.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.783333,
+                        47.116667
+                  ]
             }
       ]
 }
@@ -10276,43 +13860,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Schloss Binningen",
                   "text": "Das im 13. Jahrhundert errichtete Schloss Binningen beherbergt heute ein gehobenes Restaurant und ist ein beliebtes Ziel für Hochzeiten.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.57456,
+                        47.53676
+                  ]
             },
             {
                   "name": "St. Margarethen-Kirche",
                   "text": "Diese spätgotische Kirche thront auf einem Hügel und bietet Besuchern einen der schönsten Panoramablicke über die Stadt Basel.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.579538,
+                        47.543126
+                  ]
             },
             {
                   "name": "Ortsmuseum Binningen",
                   "text": "Das Museum befindet sich in einem historischen Bauernhaus und dokumentiert anschaulich die lokale Geschichte und bäuerliche Traditionen.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.57263,
+                        47.54332
+                  ]
             },
             {
                   "name": "Monteverdi Automuseum",
                   "text": "Das Museum präsentiert die exklusive Sammlung der in Binningen hergestellten Monteverdi-Luxuswagen und Rennautos aus vergangenen Jahrzehnten.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Parkanlage Kronenmatten",
-                  "text": "Eine weitläufige Grünanlage im Herzen der Gemeinde, die als Treffpunkt für Erholungssuchende und für kulturelle Veranstaltungen dient.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Schlossweiher",
-                  "text": "Ein malerischer kleiner See direkt beim Schloss, der von alten Bäumen gesäumt wird und zu kurzen Spaziergängen einlädt.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Margarethen-Hügel",
-                  "text": "Ein beliebter Aussichtspunkt und Naherholungsgebiet, das Binningen mit der Basler Stadtgrenze verbindet und Natur pur bietet.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.571639,
+                        47.537402
+                  ]
             }
       ],
       "hu": [
@@ -10320,43 +13902,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Binningeni kastély",
                   "text": "A 13. században épült várkastély ma elegáns étteremnek ad otthont, és a település egyik legfontosabb történelmi műemléke.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.57456,
+                        47.53676
+                  ]
             },
             {
                   "name": "Szent Margit-templom",
                   "text": "A dombtetőn álló késő gótikus templom Binningen egyik jelképe, ahonnan lenyűgöző kilátás nyílik a közeli Bázel városára.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.579538,
+                        47.543126
+                  ]
             },
             {
                   "name": "Binningeni Helytörténeti Múzeum",
                   "text": "Egy régi parasztházban berendezett múzeum, amely a falu múltját, néprajzi emlékeit és a helyi ipar fejlődését mutatja be.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.57263,
+                        47.54332
+                  ]
             },
             {
                   "name": "Monteverdi Autómúzeum",
                   "text": "Az egykor Binningenben gyártott Monteverdi luxusautók és versenyautók egyedülálló gyűjteményét bemutató különleges technikai múzeum.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kronenmatten park",
-                  "text": "Központi elhelyezkedésű zöldövezet, amely pihenőhelyként, játszótérként és szabadtéri közösségi események helyszíneként szolgál a helyieknek.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kastélytó",
-                  "text": "A kastély mellett fekvő apró, hangulatos tó, amely körbejárható és nyugodt környezetet biztosít a délutáni sétákhoz.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Margit-domb",
-                  "text": "Népszerű kirándulóhely és kilátópont a város szélén, amely összeköti a természetet a városi panorámával.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.571639,
+                        47.537402
+                  ]
             }
       ],
       "ro": [
@@ -10364,43 +13944,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Castelul Binningen",
                   "text": "Construit în secolul al XIII-lea, acest castel istoric găzduiește astăzi un restaurant rafinat și este un simbol al localității.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.57456,
+                        47.53676
+                  ]
             },
             {
                   "name": "Biserica Sfânta Margareta",
                   "text": "O biserică în stil gotic târziu situată pe o colină, oferind una dintre cele mai frumoase priveliști panoramice asupra Baselului.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.579538,
+                        47.543126
+                  ]
             },
             {
                   "name": "Muzeul Local Binningen",
                   "text": "Situat într-o casă țărănească istorică, muzeul prezintă istoria locală, tradițiile agricole și evoluția comunității de-a lungul secolelor.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.57263,
+                        47.54332
+                  ]
             },
             {
                   "name": "Muzeul Auto Monteverdi",
                   "text": "Expune o colecție exclusivistă de mașini de lux și de curse produse chiar în Binningen de celebra marcă Monteverdi.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Parcul Kronenmatten",
-                  "text": "O zonă verde vastă în centrul orașului, ideală pentru recreere, activități sportive și diverse evenimente culturale locale.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Iazul Castelului",
-                  "text": "Un mic lac pitoresc lângă castel, înconjurat de vegetație bogată, oferind un cadru liniștit pentru relaxare în natură.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Dealul Sfânta Margareta",
-                  "text": "O destinație populară pentru plimbări, acest deal oferă un punct de observație excelent asupra întregii regiuni învecinate.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.571639,
+                        47.537402
+                  ]
             }
       ],
       "en": [
@@ -10408,43 +13986,41 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Binningen Castle",
                   "text": "Originally built in the 13th century, this historic castle now houses a fine-dining restaurant and serves as a major landmark.",
                   "category": "castles/fortresses/towers",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.57456,
+                        47.53676
+                  ]
             },
             {
                   "name": "St. Margaret's Church",
                   "text": "A late-Gothic church perched on a hill, providing visitors with stunning panoramic views over the city of Basel and beyond.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.579538,
+                        47.543126
+                  ]
             },
             {
                   "name": "Binningen Local Museum",
                   "text": "Housed in a historic farmhouse, this museum showcases the town's local history, traditional crafts, and agricultural heritage.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.57263,
+                        47.54332
+                  ]
             },
             {
                   "name": "Monteverdi Car Museum",
                   "text": "This museum features the private collection of Monteverdi luxury and racing cars that were once manufactured in Binningen.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kronenmatten Park",
-                  "text": "A large green area in the heart of the community, serving as a hub for leisure activities and local outdoor events.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Castle Pond",
-                  "text": "A picturesque small lake located right by the castle, surrounded by mature trees and offering a peaceful walking path.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "St. Margaret's Hill",
-                  "text": "A popular viewpoint and recreation area that connects the town with Basel's city limits, perfect for nature walks.",
-                  "category": "viewpoints",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.571639,
+                        47.537402
+                  ]
             }
       ]
 }
@@ -10456,43 +14032,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Alte Kirche Lyss",
                   "text": "Die im Kern mittelalterliche Kirche ist das älteste Bauwerk der Stadt und dient heute als bedeutendes Kulturdenkmal.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kulturmühle Lyss",
-                  "text": "Eine historische Mühle, die zu einem lebendigen Kulturzentrum für Konzerte, Theateraufführungen und Ausstellungen umgebaut wurde.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.307131,
+                        47.071625
+                  ]
             },
             {
                   "name": "Lyssbachpark",
                   "text": "Ein modernes Zentrum mit Einkaufsmöglichkeiten, Cafés und öffentlichen Plätzen, das das urbane Leben in Lyss prägt.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.303081,
+                        47.079342
+                  ]
             },
             {
                   "name": "Sieberhaus",
                   "text": "Ein markantes historisches Gebäude, das für kulturelle Zwecke genutzt wird und die traditionelle Architektur der Region zeigt.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.30465,
+                        47.07262
+                  ]
             },
             {
                   "name": "Reformierte Kirche Lyss",
                   "text": "Die zentrale Kirche von Lyss mit ihrem charakteristischen Turm ist ein wichtiger Treffpunkt für die lokale Gemeinschaft.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.311193,
+                        47.034241
+                  ]
             },
             {
                   "name": "Parkschwimmbad Lyss",
                   "text": "Eine großzügige Freizeitanlage im Grünen, die im Sommer als beliebtes Ziel für Sport und Erholung im Seeland gilt.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.304935,
+                        47.077613
+                  ]
             },
             {
                   "name": "Aarbergstrasse",
                   "text": "Die historische Durchgangsstraße von Lyss, gesäumt von teilweise denkmalgeschützten Gebäuden aus der Blütezeit des Ortes.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.23951,
+                        47.13095
+                  ]
             }
       ],
       "hu": [
@@ -10500,43 +14094,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Lyssi öregtemplom",
                   "text": "A középkori alapokkal rendelkező templom a város legrégebbi épülete, amely ma fontos kulturális és történelmi emlékhely.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Lyssi Kulturmális",
-                  "text": "Egy egykori malomépület, amelyet modern kulturális központtá alakítottak át koncertek és színházi előadások számára.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.307131,
+                        47.071625
+                  ]
             },
             {
                   "name": "Lyssbachpark",
                   "text": "Modern városközpont üzletekkel és kávézókkal, amely Lyss mindennapi életének és kereskedelmének a szívét alkotja.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.303081,
+                        47.079342
+                  ]
             },
             {
                   "name": "Sieber-ház",
                   "text": "Jellegzetes történelmi épület a városban, amely a régió hagyományos építészeti stílusát képviseli és kulturális célokat szolgál.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.30465,
+                        47.07262
+                  ]
             },
             {
                   "name": "Lyssi református templom",
                   "text": "A város központi temploma, amelynek tornya meghatározza a városképet, és fontos közösségi találkozóhely a lakosok számára.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.311193,
+                        47.034241
+                  ]
             },
             {
                   "name": "Lyssi strandfürdő",
                   "text": "Tágas szabadtéri szabadidős központ zöldövezetben, amely a nyári hónapokban a környék legnépszerűbb pihenőhelye.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.304935,
+                        47.077613
+                  ]
             },
             {
                   "name": "Történelmi Aarberg utca",
                   "text": "Lyss régi főutcája, ahol számos műemlékvédelem alatt álló épület idézi fel a település egykori kereskedelmi jelentőségét.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.23951,
+                        47.13095
+                  ]
             }
       ],
       "ro": [
@@ -10544,43 +14156,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Biserica Veche din Lyss",
                   "text": "Această biserică de origine medievală este cea mai veche clădire din oraș și un monument istoric de o importanță deosebită.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Moara Culturală Lyss",
-                  "text": "O veche moară transformată într-un centru cultural vibrant, unde au loc concerte, piese de teatru și expoziții locale.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.307131,
+                        47.071625
+                  ]
             },
             {
                   "name": "Parcul Lyssbach",
                   "text": "Un centru urban modern cu numeroase magazine și cafenele, reprezentând punctul principal de întâlnire socială din Lyss.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.303081,
+                        47.079342
+                  ]
             },
             {
                   "name": "Casa Sieber",
                   "text": "O clădire istorică emblematică ce reflectă arhitectura tradițională a regiunii, fiind utilizată astăzi pentru diverse evenimente.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.30465,
+                        47.07262
+                  ]
             },
             {
                   "name": "Biserica Reformată Lyss",
                   "text": "Principala biserică reformată din oraș, cunoscută pentru turnul său distinctiv și rolul său central în viața spirituală locală.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.311193,
+                        47.034241
+                  ]
             },
             {
                   "name": "Ștrandul Lyss",
                   "text": "O bază de agrement spațioasă, situată într-un cadru natural, populară pe timp de vară pentru înot și relaxare în aer liber.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.304935,
+                        47.077613
+                  ]
             },
             {
                   "name": "Strada istorică Aarberg",
                   "text": "Cea mai veche arteră comercială din Lyss, străjuită de clădiri bine conservate care datează din perioade istorice diferite.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.23951,
+                        47.13095
+                  ]
             }
       ],
       "en": [
@@ -10588,43 +14218,61 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Old Church of Lyss",
                   "text": "With medieval origins, this is the oldest building in the town and stands as a significant historical and cultural monument.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cultural Mill Lyss",
-                  "text": "A historic mill building repurposed into a vibrant cultural hub hosting concerts, theater performances, and art exhibitions.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.307131,
+                        47.071625
+                  ]
             },
             {
                   "name": "Lyssbachpark",
                   "text": "A modern urban square and shopping center that serves as the heart of social and commercial life in the town.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.303081,
+                        47.079342
+                  ]
             },
             {
                   "name": "Sieber House",
                   "text": "A striking historical building used for community and cultural purposes, showcasing the region's traditional architecture.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.30465,
+                        47.07262
+                  ]
             },
             {
                   "name": "Reformed Church Lyss",
                   "text": "The main church of the town with its characteristic spire, serving as a prominent religious and communal gathering place.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.311193,
+                        47.034241
+                  ]
             },
             {
                   "name": "Lyss Park Pool",
                   "text": "A large outdoor swimming and leisure facility set in green surroundings, a favorite summer destination in the Seeland region.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.304935,
+                        47.077613
+                  ]
             },
             {
                   "name": "Historical Aarberg Street",
                   "text": "The town's historic main thoroughfare, lined with protected buildings that reflect Lyss's past economic prosperity.",
                   "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        7.23951,
+                        47.13095
+                  ]
             }
       ]
 }
@@ -10636,49 +14284,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Galleria Baumgartner",
                   "text": "Eine faszinierende Ausstellung von Modelleisenbahnen und mechanischem Spielzeug in der Nähe des Bahnhofs.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98125,
+                        45.8706
+                  ]
             },
             {
                   "name": "Museo d'arte Mendrisio",
                   "text": "Das Kunstmuseum ist in einem ehemaligen Servitenkloster untergebracht und zeigt Werke vom Barock bis heute.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Borgo (Altstadt)",
-                  "text": "Der historische Kern mit engen Gassen und eleganten Palazzi spiegelt den lombardischen Architekturstil wider.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.9879,
+                        45.87281
+                  ]
             },
             {
                   "name": "Chiesa dei Santi Cosma e Damiano",
                   "text": "Eine neoklassizistische Kirche auf einer Terrasse über der Stadt, erbaut im 19. Jahrhundert an prominenter Stelle.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.989285,
+                        45.870837
+                  ]
             },
             {
                   "name": "FoxTown Factory Stores",
                   "text": "Eines der größten Factory-Outlet-Zentren Europas mit zahlreichen internationalen Luxusmarken unter einem Dach.",
                   "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.97951,
+                        45.87494
+                  ]
             },
             {
                   "name": "Villa Argentina",
                   "text": "Ein herrschaftliches Gebäude aus dem 19. Jahrhundert, umgeben von einem öffentlich zugänglichen Parkgelände.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98488,
+                        45.86738
+                  ]
             },
             {
                   "name": "Palazzo Pollini",
                   "text": "Ein bedeutendes Beispiel neoklassizistischer Architektur im Zentrum, entworfen vom Architekten Simone Cantoni.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98692,
+                        45.86948
+                  ]
             },
             {
                   "name": "Accademia di Architettura",
                   "text": "Die renommierte Hochschule für Architektur wurde 1996 gegründet und prägt das kulturelle Leben der Region.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98353,
+                        45.86755
+                  ]
             }
       ],
       "hu": [
@@ -10686,49 +14356,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Galleria Baumgartner",
                   "text": "Modellvasutak és mechanikus játékok lenyűgöző gyűjteménye a pályaudvar közelében, vasúttörténeti ritkaságokkal.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98125,
+                        45.8706
+                  ]
             },
             {
                   "name": "Museo d'arte Mendrisio",
                   "text": "A városi művészeti múzeum egy egykori szervita kolostorban található, barokk és kortárs műveket mutat be.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Borgo (Óváros)",
-                  "text": "A történelmi városmag szűk utcáival és elegáns palotáival a lombardiai építészeti stílust tükrözi.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.9879,
+                        45.87281
+                  ]
             },
             {
                   "name": "Chiesa dei Santi Cosma e Damiano",
                   "text": "A város feletti teraszon álló neoklasszicista templom a 19. században épült, uralva a település látképét.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.989285,
+                        45.870837
+                  ]
             },
             {
                   "name": "FoxTown Factory Stores",
                   "text": "Európa egyik legnagyobb márkabolt-központja, ahol számos nemzetközi luxusmárka kínálata megtalálható.",
                   "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.97951,
+                        45.87494
+                  ]
             },
             {
                   "name": "Villa Argentina",
                   "text": "19. századi úri épület, amelyet nyilvánosan látogatható park vesz körül, ma az építészeti akadémia része.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98488,
+                        45.86738
+                  ]
             },
             {
                   "name": "Palazzo Pollini",
                   "text": "A neoklasszicista építészet jelentős példája a központban, amelyet a híres Simone Cantoni tervezett.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98692,
+                        45.86948
+                  ]
             },
             {
                   "name": "Accademia di Architettura",
                   "text": "A neves építészeti főiskola 1996-ban alakult, és meghatározó szerepet tölt be a régió kulturális életében.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98353,
+                        45.86755
+                  ]
             }
       ],
       "ro": [
@@ -10736,49 +14428,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Galleria Baumgartner",
                   "text": "O colecție impresionantă de trenulețe miniaturale și jucării mecanice vechi, situată lângă gara principală.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98125,
+                        45.8706
+                  ]
             },
             {
                   "name": "Museo d'arte Mendrisio",
                   "text": "Muzeul de artă este găzduit într-o fostă mănăstire servită și expune opere de la baroc la contemporan.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Borgo (Centrul Vechi)",
-                  "text": "Centrul istoric cu străduțe înguste și palate elegante reflectă stilul arhitectural lombard autentic.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.9879,
+                        45.87281
+                  ]
             },
             {
                   "name": "Chiesa dei Santi Cosma e Damiano",
                   "text": "O biserică neoclasică situată pe o terasă deasupra orașului, construită în secolul al XIX-lea pe un loc proeminent.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.989285,
+                        45.870837
+                  ]
             },
             {
                   "name": "FoxTown Factory Stores",
                   "text": "Unul dintre cele mai mari centre de tip outlet din Europa, oferind numeroase mărci internaționale de lux.",
                   "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.97951,
+                        45.87494
+                  ]
             },
             {
                   "name": "Villa Argentina",
                   "text": "O clădire impunătoare din secolul al XIX-lea, înconjurată de un parc public, fiind astăzi sediu academic.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98488,
+                        45.86738
+                  ]
             },
             {
                   "name": "Palazzo Pollini",
                   "text": "Un exemplu important de arhitectură neoclasică în centrul orașului, proiectat de celebrul Simone Cantoni.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98692,
+                        45.86948
+                  ]
             },
             {
                   "name": "Accademia di Architettura",
                   "text": "Renumita școală de arhitectură a fost fondată în 1996 și marchează viața culturală și urbană a regiunii.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98353,
+                        45.86755
+                  ]
             }
       ],
       "en": [
@@ -10786,49 +14500,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Galleria Baumgartner",
                   "text": "A fascinating collection of model railways and vintage mechanical toys located near the main station.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98125,
+                        45.8706
+                  ]
             },
             {
                   "name": "Museo d'arte Mendrisio",
                   "text": "The municipal art museum is housed in a former Servite monastery, featuring works from the Baroque to today.",
                   "category": "museums",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Borgo (Old Town)",
-                  "text": "The historical core with its narrow alleys and elegant palazzi reflects the authentic Lombard architectural style.",
-                  "category": "squares/old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.9879,
+                        45.87281
+                  ]
             },
             {
                   "name": "Chiesa dei Santi Cosma e Damiano",
                   "text": "A neoclassical church standing on a terrace overlooking the town, built in the 19th century in a prominent location.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.989285,
+                        45.870837
+                  ]
             },
             {
                   "name": "FoxTown Factory Stores",
                   "text": "One of the largest factory outlet centers in Europe, featuring numerous international luxury brands under one roof.",
                   "category": "markets",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.97951,
+                        45.87494
+                  ]
             },
             {
                   "name": "Villa Argentina",
                   "text": "A grand 19th-century residence surrounded by a public park, currently serving as an academic building.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98488,
+                        45.86738
+                  ]
             },
             {
                   "name": "Palazzo Pollini",
                   "text": "A significant example of neoclassical architecture in the center, designed by the famous architect Simone Cantoni.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98692,
+                        45.86948
+                  ]
             },
             {
                   "name": "Accademia di Architettura",
                   "text": "The renowned school of architecture was founded in 1996 and significantly shapes the cultural life of the region.",
                   "category": "theatres/cultural centres",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.98353,
+                        45.86755
+                  ]
             }
       ]
 }
@@ -10840,49 +14576,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Küsnachter Tobel",
                   "text": "Ein Naturschutzgebiet mit einem Wanderweg durch eine Schlucht, vorbei an Findlingen und Wasserfällen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.59105,
+                        47.3185
+                  ]
             },
             {
                   "name": "C.G. Jung-Haus",
                   "text": "Das ehemalige Wohnhaus des berühmten Psychiaters Carl Gustav Jung am Zürichsee, heute ein Museum.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.582828,
+                        47.310645
+                  ]
             },
             {
                   "name": "Ortsmuseum Küsnacht",
                   "text": "Das Museum präsentiert die lokale Geschichte und Kultur in der historischen „Oberen Mühle“.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.586936,
+                        47.317243
+                  ]
             },
             {
                   "name": "Reformierte Kirche Küsnacht",
                   "text": "Eine spätgotische Kirche mit romanischen Fundamenten und einem markanten Turm direkt am Dorfbach.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5837,
+                        47.3168
+                  ]
             },
             {
                   "name": "Alexander-Mose-Anlage",
                   "text": "Eine gepflegte Parkanlage direkt am Zürichsee, benannt nach einem lokalen Wohltäter, ideal zum Verweilen.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Zehntenhaus",
-                  "text": "Ein stattlicher historischer Bau aus dem 16. Jahrhundert, der einst zur Lagerung des Kirchenzehnten diente.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.528298,
+                        47.374555
+                  ]
             },
             {
                   "name": "Johanniterhaus",
                   "text": "Der ehemalige Sitz des Johanniterordens ist ein bedeutendes Baudenkmal mit einer langen Geschichte.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.582921,
+                        47.317068
+                  ]
             },
             {
                   "name": "Seeanlage Küsnacht",
                   "text": "Die öffentliche Uferzone bietet Bademöglichkeiten und einen Panoramablick über den Zürichsee.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.573274,
+                        47.327874
+                  ]
             }
       ],
       "hu": [
@@ -10890,49 +14648,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Küsnachter Tobel",
                   "text": "Természetvédelmi terület a szurdokon átvezető túraúttal, hatalmas vándorkövek és vízesések mentén.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.59105,
+                        47.3185
+                  ]
             },
             {
                   "name": "C.G. Jung-ház",
                   "text": "Carl Gustav Jung, a híres pszichiáter egykori lakóháza a Zürichi-tó partján, amely ma múzeumként működik.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.582828,
+                        47.310645
+                  ]
             },
             {
                   "name": "Küsnachti Helytörténeti Múzeum",
                   "text": "A múzeum a település múltját és kultúráját mutatja be a történelmi Felső-malom (Obere Mühle) épületében.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.586936,
+                        47.317243
+                  ]
             },
             {
                   "name": "Református templom",
                   "text": "Késő gótikus templom román kori alapokkal és jellegzetes toronnyal, közvetlenül a falu patakja mellett.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5837,
+                        47.3168
+                  ]
             },
             {
                   "name": "Alexander-Mose-Anlage",
                   "text": "Gondozott park közvetlenül a Zürichi-tó partján, amely egy helyi jótevőről kapta nevét, pihenésre kiváló.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Zehntenhaus (Tizedház)",
-                  "text": "Impozáns 16. századi történelmi épület, amely egykor az egyházi tized tárolására szolgált a faluban.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.528298,
+                        47.374555
+                  ]
             },
             {
                   "name": "Johanniterhaus",
                   "text": "A máltai lovagrend egykori székhelye, amely hosszú múltra visszatekintő, jelentős műemlék épület.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.582921,
+                        47.317068
+                  ]
             },
             {
                   "name": "Seeanlage Küsnacht",
                   "text": "A nyilvános tóparti övezet fürdőzési lehetőséget és panorámás kilátást kínál a Zürichi-tóra.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.573274,
+                        47.327874
+                  ]
             }
       ],
       "ro": [
@@ -10940,49 +14720,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Küsnachter Tobel",
                   "text": "O rezervație naturală cu un traseu de drumeție printr-un defileu, pe lângă bolovani uriași și cascade.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.59105,
+                        47.3185
+                  ]
             },
             {
                   "name": "Casa C.G. Jung",
                   "text": "Fosta reședință a celebrului psihiatru Carl Gustav Jung de pe malul lacului Zürich, acum transformată în muzeu.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.582828,
+                        47.310645
+                  ]
             },
             {
                   "name": "Muzeul Local Küsnacht",
                   "text": "Muzeul prezintă istoria și cultura locală în clădirea istorică a fostei mori de sus (Obere Mühle).",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.586936,
+                        47.317243
+                  ]
             },
             {
                   "name": "Biserica Reformată",
                   "text": "O biserică în stil gotic târziu cu fundații romanice și un turn distinctiv, situată lângă pârâul satului.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5837,
+                        47.3168
+                  ]
             },
             {
                   "name": "Alexander-Mose-Anlage",
                   "text": "Un parc bine întreținut situat pe malul lacului Zürich, numit după un binefăcător local, ideal pentru relaxare.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Zehntenhaus",
-                  "text": "O clădire istorică impunătoare din secolul al XVI-lea, care servea odinioară pentru depozitarea zeciuielii.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.528298,
+                        47.374555
+                  ]
             },
             {
                   "name": "Johanniterhaus",
                   "text": "Fostul sediu al Ordinului Cavalerilor Ioaniți este un monument istoric important cu o istorie îndelungată.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.582921,
+                        47.317068
+                  ]
             },
             {
                   "name": "Seeanlage Küsnacht",
                   "text": "Zona publică de pe malul lacului oferă facilități pentru scăldat și o vedere panoramică asupra lacului Zürich.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.573274,
+                        47.327874
+                  ]
             }
       ],
       "en": [
@@ -10990,49 +14792,71 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "name": "Küsnachter Tobel",
                   "text": "A nature reserve featuring a hiking trail through a gorge, passing glacial boulders and small waterfalls.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.59105,
+                        47.3185
+                  ]
             },
             {
                   "name": "C.G. Jung House",
                   "text": "The former residence of the famous psychiatrist Carl Gustav Jung on Lake Zurich, now operating as a museum.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.582828,
+                        47.310645
+                  ]
             },
             {
                   "name": "Küsnacht Local Museum",
                   "text": "The museum presents the town's past and culture in the historic 'Obere Mühle' (Upper Mill) building.",
                   "category": "museums",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.586936,
+                        47.317243
+                  ]
             },
             {
                   "name": "Reformed Church Küsnacht",
                   "text": "A late Gothic church with Romanesque foundations and a distinctive tower, located right by the village brook.",
                   "category": "churches/cathedrals",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.5837,
+                        47.3168
+                  ]
             },
             {
                   "name": "Alexander-Mose-Anlage",
                   "text": "A well-maintained park on the shores of Lake Zurich, named after a local benefactor, perfect for relaxation.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Zehntenhaus",
-                  "text": "A stately 16th-century historic building that once served for storing church tithes in the village.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.528298,
+                        47.374555
+                  ]
             },
             {
                   "name": "Johanniterhaus",
                   "text": "The former seat of the Order of Saint John is a significant historical monument with a long history.",
                   "category": "famous buildings/residences",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.582921,
+                        47.317068
+                  ]
             },
             {
                   "name": "Seeanlage Küsnacht",
                   "text": "The public lakeside area offers swimming facilities and a panoramic view across Lake Zurich.",
                   "category": "parks/promenades/lakes",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "coords": [
+                        8.573274,
+                        47.327874
+                  ]
             }
       ]
 }
