@@ -4410,17 +4410,6 @@ export const poiExtraHrV1: POI[] = [
   {"id": "novalja-pag", "type": "city", "parent": "HR-09", "coords": [14.883, 44.555], "population": 3663, "tier": 1, "name": {"de": "Novalja (Pag)", "hu": "Novalja (Pag)", "ro": "Novalja (Pag)", "en": "Novalja (Pag)"}, "description": {"de": "Novalja auf der Insel Pag vereint antike römische Geschichte mit dem modernen Party-Lifestyle des berühmten Zrće-Strandes.", "hu": "A Pag-szigeti Novalja az ókori római történelmet ötvözi a modern party-életstílussal, a híres Zrće-strandnak köszönhetően.", "ro": "Novalja, pe insula Pag, îmbină istoria antică romană cu stilul modern de viață de la faimoasa plajă de petreceri Zrće.", "en": "Novalja on Pag Island blends ancient Roman history with the modern party lifestyle of the world-famous Zrće Beach."}, "facts": {"de": ["3.663 Einwohner", "Zrće Beach (bekanntester Party-Strand)", "Antikes römisches Aquädukt", "Olivenhaine von Lun (1000 Jahre alt)", "Pager Käse (Paški sir)", "Pag-Spitze (UNESCO)", "Salzgewinnung auf Pag", "Karge, mondähnliche Landschaft"], "hu": ["3 663 lakos", "Zrće strand (híres bulihelyszín)", "Ókori római vízvezeték", "Luni olajfák (akár 1000 évesek)", "Pági sajt (Paški sir)", "Pági csipke (UNESCO)", "Hagyományos sólepárlás", "Sziklás, holdszerű táj"], "ro": ["3.663 locuitori", "Plaja Zrće (celebră pentru petreceri)", "Apeduct roman antic", "Măslinii din Lun (vechi de 1000 de ani)", "Brânză de Pag (Paški sir)", "Dantela de Pag (UNESCO)", "Producție tradițională de sare", "Peisaj stâncos, selenar"], "en": ["3,663 residents", "Zrće Beach (famed party destination)", "Ancient Roman aqueduct", "Lun Olive Groves (1,000+ years old)", "Pag Cheese (Paški sir)", "Pag Lace (UNESCO)", "Traditional salt production", "Rocky, moon-like landscape"]}, "image": "/poi-images/novalja-pag.webp", "imageHint": "Novalja waterfront and the crystal clear waters of Pag island", "descriptionAdvanced": {"de": "Novalja ist das touristische Zentrum im Norden der Insel Pag und hat sich in den letzten Jahrzehnten von einem verschlafenen Ort zum 'kroatischen Ibiza' gewandelt. Dieser Ruf basiert auf dem nahegelegenen Strand Zrće, wo im Sommer weltbekannte DJs in Open-Air-Clubs auflegen. Doch Novalja hat weit mehr zu bieten als nur Nachtleben. Die Stadt blickt auf eine reiche Geschichte zurück, deren beeindruckendstes Zeugnis das antike römische Aquädukt aus dem 1. Jahrhundert ist, das von den Einheimischen 'Talijanova buža' (Italiener-Loch) genannt wird. Die Umgebung von Novalja ist geprägt von der kargen, durch den Bora-Wind gezeichneten Landschaft der Insel Pag, die an die Oberfläche des Mondes erinnert. Ein Naturphänomen sind die Olivenhaine von Lun am Nordzipfel der Insel, wo über 80.000 Olivenbäume wachsen, von denen einige über 1.000 Jahre alt sind. Kulinarisch ist die Region weltberühmt für den Pager Käse (Paški sir), der seinen besonderen Geschmack durch die salzhaltigen Kräuter erhält, die die Schafe auf den kargen Weiden fressen.", "hu": "Novalja Pag szigetének északi központja, amely az elmúlt években a 'horvát Ibiza' nevet kapta. Ez az elismerés a közeli Zrće-strandnak köszönhető, ahol világhírű klubok és fesztiválok várják a bulizni vágyókat. Novalja azonban sokkal több egy partihelyszínnél. A város alatt egy lenyűgöző ókori római vízvezeték húzódik az 1. századból, amelyet a helyiek 'Talijanova buža'-nak hívnak, és amelynek egy szakasza ma is látogatható. A környék tájképe egyedülálló: a Bóra szél és a sós permet miatt a sziget nagy része kopár és köves, ami holdszerű látványt nyújt. Északra található Lun faluja, ahol több tízezer vad olajfa él, némelyikük kora meghaladja az 1000 évet. Pag szigete híres gasztronómiájáról is; itt készül a Paški sir, a juhsajt, amely az aromás, sós gyógynövényeken legelő juhok tejétől kapja jellegzetes ízét. A város ideális keveréke az ókori örökségnek, a természeti csodáknak és a modern szórakozásnak.", "ro": "Novalja este centrul turistic din nordul insulei Pag și s-a transformat în ultimele decenii dintr-o localitate liniștită în 'Ibiza croată'. Această reputație se bazează pe plaja Zrće din apropiere, unde vara mixează DJ de renume mondial în cluburi în aer liber. Totuși, Novalja are mult mai multe de oferit decât viața de noapte. Orașul are o istorie bogată, cea mai impresionantă mărturie fiind apeductul roman antic din secolul I, numit de localnici 'Talijanova buža'. Împrejurimile localității Novalja sunt marcate de peisajul arid al insulei Pag, modelat de vântul Bora, care amintește de suprafața lunii. Un fenomen natural remarcabil sunt livezile de măslini din Lun, la vârful nordic al insulei, unde cresc peste 80.000 de măslini, unii având o vârstă de peste 1.000 de ani. Din punct de vedere gastronomic, regiunea este celebră pentru brânza de Pag (Paški sir), care își obține gustul deosebit datorită plantelor aromatice sărate consumate de oi pe pășunile aride.", "en": "Novalja is the primary tourist hub in the northern part of Pag Island, having evolved from a quiet village into the 'Croatian Ibiza.' This reputation stems from the nearby Zrće Beach, home to world-class open-air clubs and major electronic music festivals. However, Novalja offers much more than just a nightlife scene. The town boasts a rich ancient heritage, most notably its 1st-century AD Roman aqueduct, known locally as 'Talijanova buža' (The Italian Hole), a section of which can still be explored. The landscape surrounding Novalja is strikingly barren due to the salt-carrying Bora wind, creating a surreal, moon-like environment. To the north lie the Olive Groves of Lun, a botanical reserve with over 80,000 wild olive trees, some older than 1,000 years. The region is also world-famous for its culinary specialty, Pag Cheese (Paški sir), made from the milk of sheep grazing on salt-dusted aromatic herbs."}, "factsAdvanced": {"de": ["Das römische Aquädukt ist 1,2 Kilometer lang", "Die Olivenbäume von Lun gehören zu den ältesten der Welt", "Das 'Pager Dreieck' ist eine mysteriöse Bodenformation in der Nähe", "Paški sir ist einer der meistprämierten Käse Kroatiens", "Novalja war in der Antike ein wichtiger römischer Hafen", "Zrće Beach hat die 'Blaue Flagge' für Wasserqualität"], "hu": ["A római vízvezeték 1,2 kilométer hosszú és kézzel vájták ki", "A luni olajfák között van egy 1600 éves példány is", "A 'Pági-háromszög' egy rejtélyes kőalakzat a város közelében", "A Paški sir többször nyerte el a világ legjobb juhsajtja címet", "Novalja az ókorban Cissa néven fontos római kikötő volt", "A Zrće-strand Kék Zászló minősítéssel rendelkezik a víz tisztasága miatt"], "ro": ["Apeductul roman are o lungime de 1,2 kilometri", "Măslinii din Lun se numără printre cei mai vechi din lume", "Triunghiul de la Pag este o formațiune stâncoasă misterioasă", "Paški sir este una dintre cele mai premiate brânzeturi din Croația", "Novalja a fost un port roman important în antichitate sub numele Cissa", "Plaja Zrće deține Steagul Albastru pentru calitatea apei"], "en": ["The Roman aqueduct is 1.2 kilometers long and hand-carved", "The Lun Olive Groves include trees over 1,600 years old", "The 'Pag Triangle' is a mysterious land formation found nearby", "Paški sir is one of Croatia's most internationally awarded cheeses", "Novalja was an important Roman port known as Cissa in antiquity", "Zrće Beach holds a Blue Flag for its exceptional water quality"]}, "sights": {
       "de": [
             {
-                  "name": "Strand Zrće",
-                  "text": "Weltberühmter Partystrand mit zahlreichen Clubs und kristallklarem, türkisfarbenem Wasser.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/novalja-pag-strand-zr-e.webp",
-                  "coords": [
-                        14.91497,
-                        44.53873
-                  ]
-            },
-            {
                   "name": "Pag-Dreieck",
                   "text": "Ein mysteriöses, dreieckiges Mal im Stein auf einem nahen Hügel, das 1999 entdeckt wurde.",
                   "category": "natural features",
@@ -4532,17 +4521,6 @@ export const poiExtraHrV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Zrće strand",
-                  "text": "Világhírű bulistrand számos klubbal és kristálytiszta vízzel, a modern szórakozás horvátországi központja.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/novalja-pag-strand-zr-e.webp",
-                  "coords": [
-                        14.91497,
-                        44.53873
-                  ]
-            },
             {
                   "name": "Paški trokut (Pagi-háromszög)",
                   "text": "Rejtélyes, szabályos háromszög alakú benyomódás a köves talajon, amelyet 1999-ben fedeztek fel.",
@@ -4656,17 +4634,6 @@ export const poiExtraHrV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Plaja Zrće",
-                  "text": "Plajă celebră la nivel mondial pentru viața de noapte și cluburile sale, situată într-un golf turcoaz.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/novalja-pag-strand-zr-e.webp",
-                  "coords": [
-                        14.91497,
-                        44.53873
-                  ]
-            },
-            {
                   "name": "Triunghiul din Pag",
                   "text": "O amprentă misterioasă în formă de triunghi descoperită pe un deal pietros din apropiere în 1999.",
                   "category": "natural features",
@@ -4779,17 +4746,6 @@ export const poiExtraHrV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Zrće Beach",
-                  "text": "World-famous party beach with numerous clubs and crystal clear turquoise water, a nightlife hub.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/novalja-pag-strand-zr-e.webp",
-                  "coords": [
-                        14.91497,
-                        44.53873
-                  ]
-            },
-            {
                   "name": "Pag Triangle",
                   "text": "A mysterious triangle-shaped mark in the stone found in 1999 on a hill near Novalja.",
                   "category": "natural features",
@@ -4901,15 +4857,6 @@ export const poiExtraHrV1: POI[] = [
             }
       ],
       "hr": [
-            {
-                  "name": "Zrće",
-                  "text": "Svjetski poznata plaža na otoku Pagu, poznata po vrhunskoj zabavi, brojnim klubovima i ljetnim festivalima.",
-                  "category": "recreational",
-                  "coords": [
-                        14.91619,
-                        44.539334
-                  ]
-            },
             {
                   "name": "Gradski muzej Novalja",
                   "text": "Gradski muzej Novalja čuva bogatu arheološku zbirku, a u njemu se nalazi i ulaz u antički rimski vodovod iz 1. stoljeća.",
@@ -11825,17 +11772,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Strand Crni molo",
-                  "text": "Ein bekannter Sandstrand, ideal für Familien und berühmt für sein flaches, sauberes Wasser.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/crikvenica-strand-crni-molo.webp",
-                  "coords": [
-                        14.684313,
-                        45.177687
-                  ]
-            },
-            {
                   "name": "Stadtgalerie",
                   "text": "Ein wichtiger kultureller Ort, der zeitgenössische Werke lokaler und nationaler Künstler zeigt.",
                   "category": "theatres/cultural centres",
@@ -12032,17 +11968,6 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.688957,
                         45.173457
-                  ]
-            },
-            {
-                  "name": "Crni molo strand",
-                  "text": "Crikvenica legismertebb homokos strandja, amely sekély vize miatt a családok kedvence.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/crikvenica-strand-crni-molo.webp",
-                  "coords": [
-                        14.684313,
-                        45.177687
                   ]
             },
             {
@@ -12245,17 +12170,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Plaja Crni molo",
-                  "text": "Una dintre cele mai populare plaje cu nisip, renumită pentru apele sale puțin adânci și curate.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/crikvenica-strand-crni-molo.webp",
-                  "coords": [
-                        14.684313,
-                        45.177687
-                  ]
-            },
-            {
                   "name": "Galeria Orașului",
                   "text": "Un spațiu cultural activ unde sunt expuse lucrări de artă ale artiștilor contemporani locali.",
                   "category": "theatres/cultural centres",
@@ -12455,17 +12369,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Crni molo Beach",
-                  "text": "A popular sandy beach known for its shallow waters, making it a favorite for family vacations.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/crikvenica-strand-crni-molo.webp",
-                  "coords": [
-                        14.684313,
-                        45.177687
-                  ]
-            },
-            {
                   "name": "Town Gallery",
                   "text": "A cultural venue that hosts regular exhibitions of contemporary works by Croatian artists.",
                   "category": "theatres/cultural centres",
@@ -12656,15 +12559,6 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.694429,
                         45.171711
-                  ]
-            },
-            {
-                  "name": "Memorijalni atelje Zvonka Cara",
-                  "text": "Memorijalni atelje kipara Zvonka Cara u Crikvenici, u kojem su izložena njegova djela i ostavština.",
-                  "category": "museum",
-                  "coords": [
-                        14.684232,
-                        45.179222
                   ]
             },
             {
@@ -22743,15 +22637,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Punta Rata",
-                  "text": "Berühmter Kieselstrand in Brela, bekannt für den markanten Felsen im Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        16.923821,
-                        43.370899
-                  ]
-            },
-            {
                   "name": "Punta Soline",
                   "text": "Ein Kieselstrand in Brela, der für sein klares Wasser und die umliegenden Pinienwälder bekannt ist.",
                   "category": "recreational",
@@ -22872,15 +22757,6 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.922669,
                         43.369881
-                  ]
-            },
-            {
-                  "name": "Punta Rata",
-                  "text": "Híres kavicsos strand Brelában, amely a vízben álló jellegzetes szikláról ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        16.923821,
-                        43.370899
                   ]
             },
             {
@@ -23007,15 +22883,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Punta Rata",
-                  "text": "Plajă faimoasă cu pietriș în Brela, cunoscută pentru stânca distinctivă din apă.",
-                  "category": "recreational",
-                  "coords": [
-                        16.923821,
-                        43.370899
-                  ]
-            },
-            {
                   "name": "Punta Soline",
                   "text": "O plajă cu pietriș în Brela, cunoscută pentru apa sa limpede și pădurile de pini din jur.",
                   "category": "recreational",
@@ -23139,15 +23006,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Punta Rata",
-                  "text": "Famous pebble beach in Brela, known for the iconic rock in the water.",
-                  "category": "recreational",
-                  "coords": [
-                        16.923821,
-                        43.370899
-                  ]
-            },
-            {
                   "name": "Punta Soline",
                   "text": "A pebble beach in Brela known for its crystal clear water and surrounding pine forests.",
                   "category": "recreational",
@@ -23264,15 +23122,6 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.930795,
                         43.367141
-                  ]
-            },
-            {
-                  "name": "Napoleon Road",
-                  "text": "Povijesna cesta iznad Brela građena za vrijeme francuske uprave početkom 19. stoljeća.",
-                  "category": "historical",
-                  "coords": [
-                        16.930227,
-                        43.381297
                   ]
             },
             {
@@ -27578,15 +27427,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Podvrške",
-                  "text": "Ein beliebter Kiesel- und Sandstrand in Murter, bekannt für sein klares Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        15.57356,
-                        43.823774
-                  ]
-            },
-            {
                   "name": "Luke",
                   "text": "Ein zentraler Strand in Murter mit flachem Zugang zum Meer und Infrastruktur.",
                   "category": "recreational",
@@ -27756,15 +27596,6 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.59447,
                         43.834368
-                  ]
-            },
-            {
-                  "name": "Podvrške",
-                  "text": "Murter kedvelt kavicsos és homokos strandja, amely kristálytiszta vizéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        15.57356,
-                        43.823774
                   ]
             },
             {
@@ -27940,15 +27771,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Podvrške",
-                  "text": "O plajă populară cu prundis și nisip în Murter, renumită pentru apa sa limpede.",
-                  "category": "recreational",
-                  "coords": [
-                        15.57356,
-                        43.823774
-                  ]
-            },
-            {
                   "name": "Luke",
                   "text": "O plajă centrală în Murter, cu acces facil în mare și facilități pentru turiști.",
                   "category": "recreational",
@@ -28121,15 +27943,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Podvrške",
-                  "text": "A popular pebble and sand beach in Murter, known for its clear turquoise water.",
-                  "category": "recreational",
-                  "coords": [
-                        15.57356,
-                        43.823774
-                  ]
-            },
-            {
                   "name": "Luke",
                   "text": "A central beach in Murter offering shallow access to the sea and tourist facilities.",
                   "category": "recreational",
@@ -28291,15 +28104,6 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.605077,
                         43.81959
-                  ]
-            },
-            {
-                  "name": "Raduč",
-                  "text": "Najviši vrh otoka Murtera s kojeg se pruža panoramski pogled na Kornate.",
-                  "category": "natural",
-                  "coords": [
-                        15.587041,
-                        43.812144
                   ]
             },
             {
@@ -29507,15 +29311,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Naturpark Vrana-See",
-                  "text": "Der größte natürliche See Kroatiens und ein bedeutendes Vogelschutzgebiet in der Nähe von Pakoštane.",
-                  "category": "natural",
-                  "coords": [
-                        15.580911,
-                        43.894728
-                  ]
-            },
-            {
                   "name": "Crkvina",
                   "text": "Eine archäologische Fundstätte in der Nähe des Vrana-Sees mit Überresten antiker und mittelalterlicher Strukturen.",
                   "category": "historical",
@@ -29664,15 +29459,6 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.508981,
                         43.905996
-                  ]
-            },
-            {
-                  "name": "Park prirode Vransko jezero",
-                  "text": "Horvátország legnagyobb természetes tava és fontos madárrezervátum Pakoštane közelében.",
-                  "category": "natural",
-                  "coords": [
-                        15.580911,
-                        43.894728
                   ]
             },
             {
@@ -29827,15 +29613,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Park prirode Vransko jezero",
-                  "text": "Cel mai mare lac natural din Croația și o importantă rezervație ornitologică lângă Pakoštane.",
-                  "category": "natural",
-                  "coords": [
-                        15.580911,
-                        43.894728
-                  ]
-            },
-            {
                   "name": "Crkvina",
                   "text": "Un sit arheologic lângă lacul Vrana, cuprinzând vestigii ale unor structuri antice și medievale.",
                   "category": "historical",
@@ -29987,15 +29764,6 @@ export const poiExtraHrV1: POI[] = [
                   ]
             },
             {
-                  "name": "Nature Park Lake Vrana",
-                  "text": "The largest natural lake in Croatia and a significant bird reserve located near Pakoštane.",
-                  "category": "natural",
-                  "coords": [
-                        15.580911,
-                        43.894728
-                  ]
-            },
-            {
                   "name": "Crkvina",
                   "text": "An archaeological site near Lake Vrana featuring remains of ancient and medieval structures.",
                   "category": "historical",
@@ -30130,15 +29898,6 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.493474,
                         43.91302
-                  ]
-            },
-            {
-                  "name": "Crvena Luka Resort",
-                  "text": "Poznato turističko naselje smješteno u slikovitoj uvali s pješčanom plažom južno od Pakoštana.",
-                  "category": "recreational",
-                  "coords": [
-                        15.477946,
-                        43.91877
                   ]
             },
             {

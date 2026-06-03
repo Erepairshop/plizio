@@ -7142,15 +7142,6 @@ export const poiExtraHrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Šunj",
-                  "text": "Ein berühmter Sandstrand auf der Insel Lopud, ideal für Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        17.951997,
-                        42.679926
-                  ]
-            },
-            {
                   "name": "Utvrda Sutvrač",
                   "text": "Eine historische Festung auf der Insel Lopud mit weitem Blick über die Adria.",
                   "category": "fortress",
@@ -7212,15 +7203,6 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         17.941136,
                         42.686521
-                  ]
-            },
-            {
-                  "name": "Šunj",
-                  "text": "Lopud szigetének híres homokos strandja, amely ideális családok számára.",
-                  "category": "recreational",
-                  "coords": [
-                        17.951997,
-                        42.679926
                   ]
             },
             {
@@ -7288,15 +7270,6 @@ export const poiExtraHrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Šunj",
-                  "text": "O faimoasă plajă cu nisip pe insula Lopud, ideală pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        17.951997,
-                        42.679926
-                  ]
-            },
-            {
                   "name": "Utvrda Sutvrač",
                   "text": "O fortăreață istorică pe insula Lopud, oferind o vedere panoramică asupra Mării Adriatice.",
                   "category": "fortress",
@@ -7358,15 +7331,6 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         17.941136,
                         42.686521
-                  ]
-            },
-            {
-                  "name": "Šunj",
-                  "text": "A famous sandy beach on the island of Lopud, ideal for families.",
-                  "category": "recreational",
-                  "coords": [
-                        17.951997,
-                        42.679926
                   ]
             },
             {
@@ -9078,15 +9042,6 @@ export const poiExtraHrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pesja",
-                  "text": "Beliebter Strand bei Omišalj, bekannt für seinen Schatten und die Blaue Flagge.",
-                  "category": "recreational",
-                  "coords": [
-                        14.550251,
-                        45.207181
-                  ]
-            },
-            {
                   "name": "Uvala Peškera",
                   "text": "Eine ruhige Bucht in der Nähe von Omišalj.",
                   "category": "natural",
@@ -9195,15 +9150,6 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.553609,
                         45.207063
-                  ]
-            },
-            {
-                  "name": "Pesja",
-                  "text": "Népszerű strand Omišalj közelében, amely árnyékos helyeiről és Kék Zászló minősítéséről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        14.550251,
-                        45.207181
                   ]
             },
             {
@@ -9318,15 +9264,6 @@ export const poiExtraHrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pesja",
-                  "text": "Plajă populară lângă Omišalj, cunoscută pentru umbră și distincția Blue Flag.",
-                  "category": "recreational",
-                  "coords": [
-                        14.550251,
-                        45.207181
-                  ]
-            },
-            {
                   "name": "Uvala Peškera",
                   "text": "Un golf liniștit în apropiere de Omišalj.",
                   "category": "natural",
@@ -9438,15 +9375,6 @@ export const poiExtraHrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pesja",
-                  "text": "Popular beach near Omišalj known for its shade and Blue Flag status.",
-                  "category": "recreational",
-                  "coords": [
-                        14.550251,
-                        45.207181
-                  ]
-            },
-            {
                   "name": "Uvala Peškera",
                   "text": "A peaceful bay in the vicinity of Omišalj.",
                   "category": "natural",
@@ -9545,15 +9473,6 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.552609,
                         45.211771
-                  ]
-            },
-            {
-                  "name": "Sv. Jelene na Dolu",
-                  "text": "Ostaci stare kapelice smješteni u prirodi u blizini Omišlja.",
-                  "category": "historical",
-                  "coords": [
-                        14.557165,
-                        45.212414
                   ]
             }
       ]

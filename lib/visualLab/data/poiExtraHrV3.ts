@@ -4814,14 +4814,6 @@ export const poiExtraHrV3: POI[] = [
                   ]
             },
             {
-                  "name": "Crkva sv. Ivana Krstitelja",
-                  "desc": "Eine barocke Kirche, in der Miljenko und Dobrila begraben liegen.",
-                  "coords": [
-                        16.343333,
-                        43.549722
-                  ]
-            },
-            {
                   "name": "Kaštilac",
                   "text": "Ein befestigtes Kastell auf einer kleinen Insel in Kaštel Gomilica, das im 16. Jahrhundert von Benediktinerinnen erbaut wurde.",
                   "category": "castle",
@@ -4964,14 +4956,6 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.370515,
                         43.548049
-                  ]
-            },
-            {
-                  "name": "Crkva sv. Ivana Krstitelja",
-                  "desc": "Barokk templom, ahol Miljenko és Dobrila nyugszik.",
-                  "coords": [
-                        16.343333,
-                        43.549722
                   ]
             },
             {
@@ -5120,14 +5104,6 @@ export const poiExtraHrV3: POI[] = [
                   ]
             },
             {
-                  "name": "Crkva sv. Ivana Krstitelja",
-                  "desc": "O biserică barocă unde sunt înmormântați Miljenko și Dobrila.",
-                  "coords": [
-                        16.343333,
-                        43.549722
-                  ]
-            },
-            {
                   "name": "Kaštilac",
                   "text": "Un castel fortificat pe o mică insulă în Kaštel Gomilica, construit în secolul al XVI-lea de călugărițele benedictine.",
                   "category": "castle",
@@ -5270,14 +5246,6 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.370515,
                         43.548049
-                  ]
-            },
-            {
-                  "name": "Crkva sv. Ivana Krstitelja",
-                  "desc": "A baroque church where Miljenko and Dobrila are buried.",
-                  "coords": [
-                        16.343333,
-                        43.549722
                   ]
             },
             {
@@ -5424,15 +5392,6 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.395477,
                         43.547428
-                  ]
-            },
-            {
-                  "name": "Kaštel Štafileo",
-                  "text": "Istaknuta utvrda u Kaštel Štafiliću sagrađena u 16. stoljeću za obranu obale.",
-                  "category": "fortress",
-                  "coords": [
-                        16.335486,
-                        43.547613
                   ]
             },
             {
@@ -13842,14 +13801,6 @@ export const poiExtraHrV3: POI[] = [
   {"id": "croatia-vir-cities-v2", "type": "city", "parent": "HR", "coords": [15.09, 44.3], "population": 3045, "name": {"de": "Vir", "hu": "Vir", "ro": "Vir", "en": "Vir"}, "description": {"de": "Eine beliebte Urlaubsinsel bei Zadar, die durch eine Brücke mit dem Festland verbunden ist.", "hu": "Népszerű üdülősziget Zadar közelében, amelyet híd köt össze a szárazfölddel.", "ro": "O insulă de vacanță populară lângă Zadar, conectată de continent printr-un pod.", "en": "A popular holiday island near Zadar, connected to the mainland by a bridge and known for its sandy beaches."}, "descriptionAdvanced": {"de": "Die Insel Vir ist eines der meistbesuchten Reiseziele in der Region Zadar. Durch die kostenlose Brückenverbindung zum Festland ist sie besonders für Familien und Reisende mit dem eigenen Auto attraktiv. Vir bietet eine abwechslungsreiche Küstenlinie mit über 30 Kilometern Länge, die von flachen Sandstränden bis zu dramatischen roten Felsklippen im Norden reicht.\n\nDas Wahrzeichen der Insel ist die venezianische Festung Kaštelina aus dem 17. Jahrhundert, die einst zum Schutz gegen Piraten und Osmanen diente. Ein weiteres Naturphänomen sind die roten Felsen bei Sapavac, die bei Sonnenuntergang in intensivem Rot leuchten. Die Insel ist auch für ihren Heilschlamm bekannt, der bei rheumatischen Beschwerden helfen soll. Pinienwälder im Inselinneren bieten angenehmen Schatten an heißen Sommertagen.\n\nVir hat sich in den letzten Jahrzehnten von einem verschlafenen Fischerort zu einem pulsierenden Touristenzentrum entwickelt. Im Sommer gibt es ein reiches Unterhaltungsprogramm mit Konzerten und Festen auf der „Vir-Sommerbühne“. Dennoch findet man im Nordwesten der Insel noch einsame Buchten, die nur zu Fuß oder mit dem Boot erreichbar sind. Die lokale Gastronomie bietet fangfrischen Fisch und Lammfleisch aus der Region.\n\nDie Insel ist ein idealer Ausgangspunkt für Ausflüge nach Zadar, zur historischen Stadt Nin oder zu den Nationalparks Paklenica und Kornaten. Radfahren ist auf Vir sehr beliebt, da die Wege fast die gesamte Insel umschließen. Mit ihrem milden mediterranen Klima und dem klaren Meer ist Vir eine hervorragende Wahl für einen unbeschwerten Badeurlaub.", "hu": "Vir szigete Zadar régiójának egyik legkedveltebb célpontja. A szárazfölddel összekötő ingyenes hídnak köszönhetően rendkívül könnyen megközelíthető, ami különösen vonzóvá teszi a családok és az autóval érkezők számára. A sziget több mint 30 kilométernyi partvonala változatos: a sekély homokos strandoktól a drámai vörös sziklákig minden megtalálható itt.\n\nA sziget jelképe a 17. századi velencei Kaštelina erőd, amely egykor a kalózok és az oszmánok elleni védelmet szolgálta. Különleges természeti látnivaló a Sapavac-öböl vörös sziklái, amelyek naplementekor intenzív színekben pompáznak. A sziget híres gyógyiszapjáról is, amelyet reumatikus panaszok kezelésére használnak. A belső területeket hűvös fenyőerdők borítják.\n\nAz utóbbi évtizedekben Vir álmos halászfaluból nyüzsgő turisztikai központtá vált. Nyáron koncertek és fesztiválok várják a látogatókat a központi tereken, de a sziget északnyugati részén még találhatók érintetlen, csendes öblök. A helyi éttermek friss tengeri halakat és a szomszédos Pag szigetéről származó bárányhúst kínálnak. \n\nVir kiváló bázis a környék felfedezéséhez: a történelmi Nin városa és Zadar is rövid autóútra van. A kerékpározás rendkívül népszerű, hiszen az utak majdnem az egész szigetet körbeölelik. Az enyhe mediterrán éghajlat és a tiszta Adriai-tenger garancia a felhőtlen kikapcsolódásra.", "ro": "Insula Vir este una dintre cele mai vizitate destinații din regiunea Zadar. Datorită podului gratuit care o leagă de continent, este deosebit de atractivă pentru familii și călătorii cu mașina proprie. Vir oferă o coastă variată de peste 30 de kilometri, variind de la plaje cu nisip puțin adânci până la stânci roșii dramatice în partea de nord.\n\nSimbolul insulei este fortăreața venețiană Kaštelina din secolul al XVII-lea, care servea odinioară pentru protecția împotriva piraților și otomanilor. Un alt fenomen natural sunt stâncile roșii de la Sapavac, care strălucesc într-un roșu intens la apus. Insula este cunoscută și pentru nămolul său curativ, eficient în afecțiunile reumatice. Pădurile de pini din interiorul insulei oferă umbră plăcută în zilele fierbinți de vară.\n\nÎn ultimele decenii, Vir s-a transformat dintr-un sat pescăresc liniștit într-un centru turistic vibrant. Vara există un program bogat de divertisment, cu concerte și festivaluri. Totuși, în nord-vestul insulei se mai găsesc golfuri izolate, accesibile doar pe jos sau cu barca. Gastronomia locală oferă pește proaspăt și carne de miel din regiune.\n\nInsula este un punct de plecare ideal pentru excursii la Zadar, în orașul istoric Nin sau în parcurile naționale Paklenica și Kornati. Ciclismul este foarte popular pe Vir, deoarece traseele înconjoară aproape întreaga insulă. Cu clima sa mediteraneană blândă și marea limpede, Vir este o alegere excelentă pentru o vacanță relaxantă la mare.", "en": "The island of Vir is one of the most visited destinations in the Zadar region. Thanks to the bridge connecting it to the mainland, it is exceptionally accessible, making it a favorite for families and those traveling by car. Vir boasts a diverse coastline extending over 30 kilometers, ranging from shallow sandy beaches to dramatic red rocky cliffs in the north.\n\nThe island's landmark is the 17th-century Venetian fortress, Kaštelina, once used for defense against pirates and the Ottomans. Another natural wonder is the red rocks at Sapavac, which glow intensely red during sunset. The island is also known for its medicinal mud, often used to treat rheumatic conditions. Lush pine forests in the interior provide welcome shade during the hot summer months.\n\nOver the past few decades, Vir has evolved from a quiet fishing village into a vibrant tourist hub. During summer, the 'Vir Summer Stage' hosts a rich program of concerts and festivals. Despite its popularity, secluded coves can still be found in the northwest, accessible only by foot or boat. Local cuisine features fresh seafood and regional lamb specialties.\n\nVir serves as an ideal base for excursions to Zadar, the historic town of Nin, or the Paklenica and Kornati National Parks. Cycling is very popular on the island, with paths nearly encircling the entire landmass. With its mild Mediterranean climate and crystal-clear Adriatic waters, Vir is an excellent choice for a carefree beach holiday."}, "facts": {"de": ["Durch Brücke verbunden", "Über 300 Sonnentage", "Bekannt für Heilschlamm", "Sand- und Kieselstrände", "Festung Kaštelina", "Nähe zur Stadt Nin", "Beliebt bei Radfahrern", "Rote Felsklippen"], "hu": ["Híddal összekötött sziget", "Több mint 300 napsütéses nap", "Híres gyógyiszap", "Homokos és kavicsos strandok", "Kaštelina velencei erőd", "Nin városa mellett", "Kerékpárosbarát sziget", "Vörös sziklák"], "ro": ["Conectată prin pod", "Peste 300 de zile însorite", "Nămol curativ faimos", "Plaje cu nisip și pietriș", "Fortăreața Kaštelina", "Lângă orașul Nin", "Populară pentru bicicliști", "Stânci de coastă roșii"], "en": ["Connected by bridge", "Over 300 sunny days", "Famous medicinal mud", "Sandy and pebble beaches", "Kaštelina fortress", "Near the town of Nin", "Great for cycling", "Dramatic red cliffs"]}, "sights": {
       "de": [
             {
-                  "name": "Plaža Sapavac",
-                  "desc": "Ein flacher Strand, bekannt für seinen Heilschlamm und die roten Felsen.",
-                  "coords": [
-                        15.087511,
-                        44.297306
-                  ]
-            },
-            {
                   "name": "Virski most",
                   "desc": "Die 378 Meter lange Brücke, die die Insel mit dem Festland verbindet.",
                   "coords": [
@@ -14011,14 +13962,6 @@ export const poiExtraHrV3: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Plaža Sapavac",
-                  "desc": "Sekély strand, amely gyógyiszapjáról és vörös szikláiról ismert.",
-                  "coords": [
-                        15.087511,
-                        44.297306
-                  ]
-            },
             {
                   "name": "Virski most",
                   "desc": "A 378 méter hosszú híd, amely a szigetet a szárazföldhöz köti.",
@@ -14182,14 +14125,6 @@ export const poiExtraHrV3: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Plaža Sapavac",
-                  "desc": "O plajă puțin adâncă, cunoscută pentru nămolul curativ și stâncile roșii.",
-                  "coords": [
-                        15.087511,
-                        44.297306
-                  ]
-            },
-            {
                   "name": "Virski most",
                   "desc": "Podul de 378 de metri care leagă insula de continent.",
                   "coords": [
@@ -14352,14 +14287,6 @@ export const poiExtraHrV3: POI[] = [
       ],
       "en": [
             {
-                  "name": "Plaža Sapavac",
-                  "desc": "A shallow beach famous for its medicinal mud and red cliffs.",
-                  "coords": [
-                        15.087511,
-                        44.297306
-                  ]
-            },
-            {
                   "name": "Virski most",
                   "desc": "The 378-meter long bridge connecting the island to the mainland.",
                   "coords": [
@@ -14521,15 +14448,6 @@ export const poiExtraHrV3: POI[] = [
             }
       ],
       "hr": [
-            {
-                  "name": "Soldatica Beach",
-                  "text": "Šljunčana plaža na otoku Viru, poznata po čistom moru i miru.",
-                  "category": "recreational",
-                  "coords": [
-                        15.11893,
-                        44.297823
-                  ]
-            },
             {
                   "name": "Plaža Lucica",
                   "text": "Popularna plaža za kupanje na Viru s dobrom infrastrukturom za obitelji.",
@@ -56730,15 +56648,6 @@ export const poiExtraHrV3: POI[] = [
                   ]
             },
             {
-                  "name": "Vrana",
-                  "text": "Ein Aussichtspunkt mit Blick auf das Dorf Vrana und den See.",
-                  "category": "natural",
-                  "coords": [
-                        15.557965,
-                        43.958321
-                  ]
-            },
-            {
                   "name": "Mali Bak",
                   "text": "Ein Aussichtspunkt auf dem Hügel Mali Bak in der Nähe von Vrana.",
                   "category": "natural",
@@ -56783,15 +56692,6 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.579381,
                         43.948206
-                  ]
-            },
-            {
-                  "name": "Vrana",
-                  "text": "Kilátópont, ahonnan belátható Vrana falu és a tó környéke.",
-                  "category": "natural",
-                  "coords": [
-                        15.557965,
-                        43.958321
                   ]
             },
             {
@@ -56842,15 +56742,6 @@ export const poiExtraHrV3: POI[] = [
                   ]
             },
             {
-                  "name": "Vrana",
-                  "text": "Un punct de belvedere cu vedere spre satul Vrana și lac.",
-                  "category": "natural",
-                  "coords": [
-                        15.557965,
-                        43.958321
-                  ]
-            },
-            {
                   "name": "Mali Bak",
                   "text": "Un punct de observație situat pe dealul Mali Bak lângă Vrana.",
                   "category": "natural",
@@ -56898,15 +56789,6 @@ export const poiExtraHrV3: POI[] = [
                   ]
             },
             {
-                  "name": "Vrana",
-                  "text": "A scenic viewpoint overlooking the village of Vrana and the lake.",
-                  "category": "natural",
-                  "coords": [
-                        15.557965,
-                        43.958321
-                  ]
-            },
-            {
                   "name": "Mali Bak",
                   "text": "A viewpoint located on the Mali Bak hill near Vrana.",
                   "category": "natural",
@@ -56951,15 +56833,6 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.579381,
                         43.948206
-                  ]
-            },
-            {
-                  "name": "Vrana",
-                  "text": "Vidikovac s pogledom na mjesto Vranu i jezero.",
-                  "category": "natural",
-                  "coords": [
-                        15.557965,
-                        43.958321
                   ]
             },
             {
