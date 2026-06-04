@@ -2392,7 +2392,7 @@ ready();})();</script>
   ${didYouKnowHtml}
   </div>
   ${constellationHtml}
-  ${renderRouteInfo(poi, lang, countryName, (poi.parent !== countryId && stateRegion) ? slugs.localizedStateName(poi.parent, lang) : "")}
+  ${"" /* renderRouteInfo: kivéve amíg a SAJÁT camper/gyalogos útvonal-tervező el nem készül — addig csak GMaps-re tudott linkelni + a közeli-helyek duplikálták a csillagtérképet (user 2026-06-04) */}
   ${renderVisitPlanner(poi, lang, richness.hasPlizioGo)}
   <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
   ${renderFAQ(poi, lang) || faqHtml}
