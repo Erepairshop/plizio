@@ -241,7 +241,17 @@ function renderFAQ(poi: POI, lang: Lang): string {
 <script type="application/ld+json">${jsonld.replace(/</g, "\\u003c")}</script>`;
 }
 
-// Sight image map (slugified-sight-name + poi-id → /sight-images/X.webp).
+// Street View availability sidecar — {"lat,lng"@4dp: 1} positives from the free
+// SV metadata sweep (scripts/_dump_sight_coords.mts + VPS _sv_meta_fetch.py).
+// renderSightCard shows a pegman button ONLY for coords present here.
+let SV_OK: Record<string, 1> = {};
+try {
+  const svp = path.resolve(process.cwd(), "public", "data", "sight-sv.json");
+  if (fs.existsSync(svp)) SV_OK = JSON.parse(fs.readFileSync(svp, "utf-8"));
+} catch {}
+function svKey(lat: number, lng: number): string { return `${lat.toFixed(4)},${lng.toFixed(4)}`; }
+// Inline pegman SVG (Street View figura) — orange badge, white figure.
+const SV_PEGMAN_SVG = `<svg viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><circle cx="12" cy="4.4" r="2.5" fill="currentColor"/><path d="M12 7.6c-2 0-3.3 1.2-3.3 3v3.6c0 .5.4 1 1 1h.3l.4 4.9c0 .5.5.9 1 .9h1.2c.5 0 1-.4 1-.9l.4-4.9h.3c.6 0 1-.5 1-1v-3.6c0-1.8-1.3-3-3.3-3z" fill="currentColor"/></svg>`;
 // Loaded once at startup. Used in renderSightCard to inject image when
 // the sight itself doesn't have an explicit image URL.
 let SIGHT_IMG_MAP: Record<string, string> = {};
@@ -1952,7 +1962,18 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     const nameHtml = linkedPoi
       ? `<a href="${poiPathSafe(lang, linkedPoi)}" class="plz-sight-name-link">${escapeHtml(s.name)}</a>`
       : escapeHtml(s.name);
-    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
+    // Street View pegman — only when the availability sweep confirmed imagery.
+    // Sight coords convention: [lng, lat].
+    let svBtn = "";
+    const sc = (s as any).coords;
+    if (Array.isArray(sc) && sc.length === 2 && typeof sc[0] === "number" && typeof sc[1] === "number") {
+      const [slng, slat] = sc;
+      if (SV_OK[svKey(slat, slng)]) {
+        const svUrl = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${slat.toFixed(6)}%2C${slng.toFixed(6)}`;
+        svBtn = `<a class="plz-sight-sv" href="${svUrl}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
+      }
+    }
+    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}${svBtn}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
   };
   const sightsObj = (poi as { sights?: Record<string, SightItem[]> }).sights
     || (sidecarSightsFor(poi) as Record<string, SightItem[]> | null);
@@ -2399,11 +2420,11 @@ ready();})();</script>
   ${"" /* renderRouteInfo: kivéve amíg a SAJÁT camper/gyalogos útvonal-tervező el nem készül — addig csak GMaps-re tudott linkelni + a közeli-helyek duplikálták a csillagtérképet (user 2026-06-04) */}
   ${renderVisitPlanner(poi, lang, richness.hasPlizioGo)}
   <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
-  ${renderFAQ(poi, lang) || faqHtml}
   <div id="sec-sights">
   ${sightsHtml}
   ${nearbyHtml}
   </div>
+  ${renderFAQ(poi, lang) || faqHtml}
   <section>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
     ${osmLink}
@@ -2416,6 +2437,9 @@ ready();})();</script>
 <style>
 .plz-sight-img-btn{padding:0;border:0;background:none;cursor:zoom-in;display:block}
 .plz-sight-img-btn:focus-visible{outline:2px solid #4cc;outline-offset:2px}
+.plz-sight-sv{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;margin-left:8px;vertical-align:-5px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.35);transition:transform .15s,box-shadow .15s}
+.plz-sight-sv:hover{transform:scale(1.18);box-shadow:0 2px 8px rgba(251,188,4,.6);background:#f9ab00}
+.plz-sight-sv svg{display:block}
 .plz-lightbox{position:fixed;inset:0;background:rgba(2,6,12,.92);display:none;align-items:center;justify-content:center;z-index:9999;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);-webkit-tap-highlight-color:transparent}
 .plz-lightbox.open{display:flex}
 .plz-lightbox img{max-width:min(95vw,1400px);max-height:min(90vh,1400px);width:auto;height:auto;object-fit:contain;border-radius:8px;box-shadow:0 8px 40px rgba(0,0,0,.6)}
